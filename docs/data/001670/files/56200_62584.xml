@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>銭形平次捕物控</title>
+        <author>野村胡堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2017-09-13">作成</resp><resp /><note>
+<lb />
+底本：「銭形平次捕物控（九）不死の霊薬」嶋中文庫、嶋中書店<lb />
+　　　2005（平成17）年1月20日第1刷発行<lb />
+底本の親本：「銭形平次捕物百話　第八巻」中央公論社<lb />
+　　　1939（昭和14）年6月28日発行<lb />
+初出：「オール讀物」文藝春秋社<lb />
+　　　1939（昭和14）年4月号<lb />
+入力：山口瑠美<lb />
+校正：結城宏<lb />
+<date when="2017-09-13">2017年9月13日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>山口瑠美</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>結城宏</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>銭形平次捕物控</title><author>野村胡堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+　その日、三河屋に集まった客は四人、将棋にも碁にも飽きて、夕刻からは<span type="ruby"><span type="rb">埒</span><span type="rp">（</span><span type="rt">らち</span><span type="rp">）</span></span>もない雑談に花が咲きました。<lb />
+「<span type="ruby"><span type="rb">内証事</span><span type="rp">（</span><span type="rt">ないしょごと</span><span type="rp">）</span></span>は隠しおおせるものじゃない。不思議なことに、他から漏れずに、本人の口から知れるものさ」<lb />
+　そう言ったのは隣の乾物屋、<span type="ruby"><span type="rb">伊勢屋玉吉</span><span type="rp">（</span><span type="rt">いせやたまきち</span><span type="rp">）</span></span>という四十男でした。<lb />
+「いや、それは性根が定まらない人間のことだ。少し心掛けのある人間なら、口外すまいと思い定めたことは、骨が<span type="ruby"><span type="rb">舎利</span><span type="rp">（</span><span type="rt">しゃり</span><span type="rp">）</span></span>になっても、人に漏らす気遣いはない」<lb />
+　手習師匠の<span type="ruby"><span type="rb">光川左門太</span><span type="rp">（</span><span type="rt">みつかわさもんた</span><span type="rp">）</span></span>は、頑固らしく首を振ります。三十五六の浪人者です。<lb />
+「御武家方のことは知らないが、手前ども町人はまず駄目だね。人に知れては悪いに決っている内証の<span type="ruby"><span type="rb">情事</span><span type="rp">（</span><span type="rt">いろごと</span><span type="rp">）</span></span>までも、誰も知ってくれないと心細いから、ツイ匂わしてみたくなる奴さ」<lb />
+　こういう<span type="ruby"><span type="rb">佐野屋九助</span><span type="rp">（</span><span type="rt">さのやきゅうすけ</span><span type="rp">）</span></span>は、わけ知りらしい五十代の男でした。<lb />
+「――少し名の立つも嬉しい若盛り――か。うまい事を言ったものさね、ハッハッハッハッ」<lb />
+　主人の<span type="ruby"><span type="rb">三河屋甚兵衛</span><span type="rp">（</span><span type="rt">みかわやじんべえ</span><span type="rp">）</span></span>はカラカラと笑います。月に三度、三河屋の隠居所に集まる町内の<span type="ruby"><span type="rb">閑人</span><span type="rp">（</span><span type="rt">ひまじん</span><span type="rp">）</span></span>達は、勝負事と、無駄話と下手な<span type="ruby"><span type="rb">雑俳</span><span type="rp">（</span><span type="rt">ざっぱい</span><span type="rp">）</span></span>に興じて、こう一日を暮すのでした。<lb />
+「拙者も武士の端くれだが、全く人間は一生隠し事は出来ないものだ、――拙者にもたった一つ、人に話してはならない隠し事があるが、三十年来その隠し事に<span rend="sesame_dot" rendition="em">さいなまれ</span>て、安き心もない有様だ。今晩は<span type="ruby"><span type="rb">昵懇</span><span type="rp">（</span><span type="rt">じっこん</span><span type="rp">）</span></span>の顔触れだから、一番その命がけの隠し事を打ち明けて、三十年来の重荷をおろすとしましょうか」<lb />
+　こう言い出したのは、町内の裕福な浪人者<span type="ruby"><span type="rb">藤枝蔵人</span><span type="rp">（</span><span type="rt">ふじえだくらんど</span><span type="rp">）</span></span>という六十近い老人でした。<lb />
+「そいつは是非承りましょう。藤枝様は、さぞ若い時罪をお作りになったことでしょう、――意気な隠し事などを背負って万一のことがあっては、浮ばれませんよ」<lb />
+　伊勢屋玉吉は、日頃藤枝蔵人に資本を融通して貰う関係があるので、本人は意識しないにしても、何となく御機嫌を取結ぶという調子がありました。<lb />
+「こいつ、うっかり話も出来ないが、もう三十年も前の事だし、私も捨てても惜しいほどの命でもないから、今晩は思い切って話しましょう。――何を隠そう、この藤枝蔵人は、実は<span type="ruby"><span type="rb">敵持</span><span type="rp">（</span><span type="rt">かたきもち</span><span type="rp">）</span></span>なのですよ」<lb />
+「へエ――」<lb />
+　敵討という言葉が、その頃どんなに刺戟的に響いたことか、人を<span type="ruby"><span type="rb">害</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>めれば戦場で起った殺傷でない限り、必ず敵討に狙われ、一生危険にさらされ通しの自分の生命を感じなければならない時代だったのです。<lb />
+「ここにいられる四人だけなら大事ないが――誰も聞いちゃいないでしょうな」<lb />
+　藤枝蔵人はさすがに<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>を見廻しました。<lb />
+「誰もこの<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>には来ないことになっていますよ、<span type="ruby"><span type="rb">母屋</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>の方では、ちょうど晩飯の真っ最中のようだし、――おや、そこにいるのは誰だい」<lb />
+　フト人の気配に気が付いたらしく、主人の甚兵衛は隣の四畳半を覗きました。<lb />
+「私ですよ」<lb />
+　お茶の仕度をしていたのは、甚兵衛の末の娘のお<span type="ruby"><span type="rb">村</span><span type="rp">（</span><span type="rt">むら</span><span type="rp">）</span></span>、これはまだ十九になったばかり、敵討とは縁の遠い、下町娘らしい利発者でした。<lb />
+「お茶は後でもよい、少し遠慮をしてくれ」<lb />
+「ハイハイ」<lb />
+　お村は年寄りどもの物好きに少し<span type="ruby"><span type="rb">呆</span><span type="rp">（</span><span type="rt">あき</span><span type="rp">）</span></span>れたらしく、二つ返事で母屋の方へ引揚げます。<lb />
+「さア、承りましょうか。<span type="ruby"><span type="rb">鼠</span><span type="rp">（</span><span type="rt">ねずみ</span><span type="rp">）</span></span>の外には、誰も聞いてる者はありません」<lb />
+　甚兵衛は少しおどけた調子で話の先を促しました。<lb />
+「そう改まると少し<span type="ruby"><span type="rb">極</span><span type="rp">（</span><span type="rt">きま</span><span type="rp">）</span></span>りが悪いが、何を隠しましょう、私の本国は<span type="ruby"><span type="rb">播州</span><span type="rp">（</span><span type="rt">ばんしゅう</span><span type="rp">）</span></span>姫路、酒井様に仕えて、世にある時は百五十石を<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>みましたが、――今からちょうど三十一年前、女のことから<span type="ruby"><span type="rb">朋輩</span><span type="rp">（</span><span type="rt">ほうばい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">成滝近江</span><span type="rp">（</span><span type="rt">なるたきおうみ</span><span type="rp">）</span></span>と争い、果し合いの末討ち取ってその場から<span type="ruby"><span type="rb">逐電</span><span type="rp">（</span><span type="rt">ちくでん</span><span type="rp">）</span></span>、江戸に潜り込んで、とうとうこの年まで無事に過してしまいました。一緒に姫路から逃出した女というのは、打ちあけて申せば三年前に死んだ女房でござるよ。いやはや若い時というものは、無法なことをするものでな」<lb />
+　藤枝蔵人は、そう言いおわってニヤリニヤリと笑うのでした。<lb />
+「それはとんだ御馳走様で、――<span type="ruby"><span type="rb">懺悔</span><span type="rp">（</span><span type="rt">ざんげ</span><span type="rp">）</span></span>だか<span type="ruby"><span type="rb">惚気</span><span type="rp">（</span><span type="rt">のろけ</span><span type="rp">）</span></span>だか判りませんね」<lb />
+　佐野屋九助は<span type="ruby"><span type="rb">合槌</span><span type="rp">（</span><span type="rt">あいづち</span><span type="rp">）</span></span>を打ちます。<lb />
+「討たれた人には、妻子も身寄りもなかったのでしょうか」<lb />
+　主人の甚兵衛はそんな事が心配になる性分でした。<lb />
+「私と女一人を争ったくらいだから、女房や子のあるはずはない――が」<lb />
+「なるほどね」<lb />
+「でも親類縁者がある。今日名乗って来るか、明日は出会い、敵を討たれるかと、全く生きた心地もなかったが、――それもしかし当座のうちで、五年と経ち、十年と経ち、二十年、三十年と経つと、敵討の心配は段々なくなって、今度は、胸一つにこの秘密を畳んでおくのが、三十年越しの<span type="ruby"><span type="rb">溜飲</span><span type="rp">（</span><span type="rt">りゅういん</span><span type="rp">）</span></span>に悩まされるようで、どうにもたまらない重荷でしたよ」<lb />
+「いかにも」<lb />
+「人間はやはり、内証事というものを胸一つに畳んで保てないように出来ているのでしょう。――今晩という今晩、三十一年目で打ち明けて、肩から千貫の重荷が取れたような気がします。いやはや」<lb />
+　藤枝蔵人はそんな事を言って、自分の肩をトントンと叩いて見せるのでした。<lb />
+「今頃になって、ヒョイと敵討が現れ、正面から名乗って出たとしたら、どうする<span type="ruby"><span type="rb">心算</span><span type="rp">（</span><span type="rt">つもり</span><span type="rp">）</span></span>です？　藤枝さん」<lb />
+　甚兵衛はハチ切れそうな好奇心の持主です。<lb />
+「私も取って六十一だ、命の惜しい年ではない、――敵が名乗って出て来れば、喜んで討たれますよ。もっとも、今まで討手の現れないところをみると、まずその心配もありますまい。少しばかりの<span type="ruby"><span type="rb">貯</span><span type="rp">（</span><span type="rt">たくわ</span><span type="rp">）</span></span>えを廻して三十年の間<span type="ruby"><span type="rb">安穏</span><span type="rp">（</span><span type="rt">あんのん</span><span type="rp">）</span></span>に暮し、主取りをする気もなく、江戸の下町に住んだのが、私の仕合せだったかも知れません」<lb />
+　藤枝蔵人老人は、そんな行届いたことまで言って<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>けて、武士<span type="ruby"><span type="rb">気質</span><span type="rp">（</span><span type="rt">かたぎ</span><span type="rp">）</span></span>を半分ほどは<span type="ruby"><span type="rb">銷磨</span><span type="rp">（</span><span type="rt">しょうま</span><span type="rp">）</span></span>してしまったらしい<span type="ruby"><span type="rb">月代</span><span type="rp">（</span><span type="rt">さかやき</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>で上げるのです。<lb />
+「そこは大江戸の有難さで、ここに小さくなって住んでいる分には、<span type="ruby"><span type="rb">八幡</span><span type="rp">（</span><span type="rt">やわた</span><span type="rp">）</span></span>知らずの中にいるようなものでしょうよ」<lb />
+　三人の町人達は、声を合せて面白そうに笑うのでした。浅草の<span type="ruby"><span type="rb">阿部川町</span><span type="rp">（</span><span type="rt">あべかわちょう</span><span type="rp">）</span></span>――この辺は全く、敵持などの住みそうな場所ではなかったのです。<lb />
+　その御方便な話を、苦々しく聞いているのは、さすがに、まだ両刀を離さぬ、手習師匠の光川左門太だけでした。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+　敵持の話ですっかり興をさまして、光川左門太はむつかしい顔をして真っ先に帰りました。藤枝蔵人老人が三河屋を出たのは、それから<span type="ruby"><span type="rb">一刻</span><span type="rp">（</span><span type="rt">いっとき</span><span type="rp">）</span></span>（二時間）も後――ツイ二三町の自分の家へ帰ったのは、<span type="ruby"><span type="rb">戌刻</span><span type="rp">（</span><span type="rt">いつつ</span><span type="rp">）</span></span>半（九時）過ぎ――。<lb />
+「お<span type="ruby"><span type="rb">礼</span><span type="rp">（</span><span type="rt">れい</span><span type="rp">）</span></span>、今帰ったよ」<lb />
+　老人臭くこんな事を言いながら入ると、<lb />
+「お帰りなさいまし、――いつもよりはお早いようじゃございませんか」<lb />
+　娘のお礼は手を取って引上げぬばかりに世話を焼いてくれます。浅草の三<span type="ruby"><span type="rb">小町</span><span type="rp">（</span><span type="rt">こまち</span><span type="rp">）</span></span>といわれた娘、武家出の上品さと、下町育ちの意気を<span type="ruby"><span type="rb">塩梅</span><span type="rp">（</span><span type="rt">あんばい</span><span type="rp">）</span></span>し、何かこう、<span type="ruby"><span type="rb">滴</span><span type="rp">（</span><span type="rt">したた</span><span type="rp">）</span></span>るような魅力の持主でした。<lb />
+「いやもう、埒もない無駄話でのう」<lb />
+　蔵人は調子に乗って、とんでもない打明け話をしたのを、今ではもう、すっかり後悔している様子です。<lb />
+「それから、つい今しがた、使いの者がお手紙を持って参りました」<lb />
+「何？　手紙？　珍しいことがあるものだな、しかも夜分に――」<lb />
+　そう言いながら受取ったのは、二つに折った封じ文が一通、指先でむしるのももどかしく、中からキリキリと巻いた手紙を出して、達者な眼でサッと読み下した藤枝蔵人は、<lb />
+「…………」<lb />
+　サッと顔色を変えました。<lb />
+「父上様、何か御心配なことでも――」<lb />
+「いや、何でもない、――が、大変な間違いだ。私はちょっとそこまで行って来なきゃなるまい」<lb />
+　蔵人はそう言いながら、今の手紙をお礼の眼から隠して自分の袖に押し込み、両刀を<span type="ruby"><span type="rb">手挟</span><span type="rp">（</span><span type="rt">たばさ</span><span type="rp">）</span></span>んでもう一度、春の闇の中へ出ようとするのです。<lb />
+「父上様、明日になさいませ、もう<span type="ruby"><span type="rb">亥刻</span><span type="rp">（</span><span type="rt">よつ</span><span type="rp">）</span></span>（十時）になります」<lb />
+「いや、大事な事だ、行かないわけには参るまい。――後に気をつけるのだぞ」<lb />
+「父上様」<lb />
+　不思議な予感に<span type="ruby"><span type="rb">怯</span><span type="rp">（</span><span type="rt">おび</span><span type="rp">）</span></span>えて、お礼は土間へ飛降りました。<lb />
+「よいか、お礼、留守を頼むぞ、――<span type="ruby"><span type="rb">仔細</span><span type="rp">（</span><span type="rt">しさい</span><span type="rp">）</span></span>は帰ってから話す。――こんな馬鹿なことがあるものか、とんでもない」<lb />
+　父親蔵人は、老人らしくもない<span type="ruby"><span type="rb">軽捷</span><span type="rp">（</span><span type="rt">けいしょう</span><span type="rp">）</span></span>さで、ヒラリと身体をかわすと、<span type="ruby"><span type="rb">漆</span><span type="rp">（</span><span type="rt">うるし</span><span type="rp">）</span></span>のような街の闇に――。<lb />
+「父上様」<lb />
+　追いすがるお礼。<lb />
+　がしかし、老人の足は思いのほか早く、街の闇を縫って、その姿を隠してしまいました。<lb />
+　どこからともなくヒタヒタと響く<span type="ruby"><span type="rb">跫音</span><span type="rp">（</span><span type="rt">あしおと</span><span type="rp">）</span></span>、それはしかし、父親のとも、ただの往来の人のとも判りません。<lb />
+　それからほんの半刻（一時間）ばかり、お礼は立ったり坐ったり、外へ出たり家の中へ入ったり、恐ろしい不安と<span type="ruby"><span type="rb">焦躁</span><span type="rp">（</span><span type="rt">しょうそう</span><span type="rp">）</span></span>に悩まされて、父の帰りをひた待ちに待ちました。<lb />
+　もう夜が明けるのではあるまいかと思うほど待ちましたが、実はほんの半刻ぐらいだったでしょう。上野の<span type="ruby"><span type="rb">亥刻</span><span type="rp">（</span><span type="rt">よつ</span><span type="rp">）</span></span>が鳴ったのは父親が出てから間もなくで、この事件が何もかも終ってから、お礼の緊張しきった身に、不思議に<span type="ruby"><span type="rb">子刻</span><span type="rp">（</span><span type="rt">ここのつ</span><span type="rp">）</span></span>（十二時）の時の鐘がはっきり聞えたことを記憶していたのです。<lb />
+「今晩は」<lb />
+　子供らしい声で戸を叩くものがあります。お礼は<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>い寄るように表の戸を開けました。妙な緊張に<span type="ruby"><span type="rb">囚</span><span type="rp">（</span><span type="rt">とら</span><span type="rp">）</span></span>えられて、唇は動きますが、それが言葉にならなかったのです。<lb />
+「三河屋から参りました。――旦那が紙入をお忘れになったんで、持って来ましたが」<lb />
+「あ、<span type="ruby"><span type="rb">長吉</span><span type="rp">（</span><span type="rt">ちょうきち</span><span type="rp">）</span></span>さん、どうも有難う」<lb />
+　お礼は身体を斜めにして、戸口へ<span type="ruby"><span type="rb">行灯</span><span type="rp">（</span><span type="rt">あんどん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>を向けるようにしました。<lb />
+「お金ばかりでなく、書付けや印形が入っているから、番頭さんも今晩のうちにお届けした方が間違いがなくてよかろう――って言うんです」<lb />
+「まア、御親切に――一人で来て下すったの、長吉さん」<lb />
+　お礼は小僧の後ろ――誰やら付いて来ているらしい人の影に気が付いたのです。<lb />
+「いえ、送って下すったんです」<lb />
+「そう、ちょっと待って下さいな」<lb />
+　お礼はお使い賃に<span type="ruby"><span type="rb">鳥目</span><span type="rp">（</span><span type="rt">ちょうもく</span><span type="rp">）</span></span>をやろうか、それとも、お菓子の方がよかろうか、フトそんな事を迷った様子でしたが、やがて戸棚から干菓子を出して、半紙に包んで持って出ると、長吉の後ろに立っている、若い浪人者と、ハタと顔を合せてしまいました。<lb />
+　三河屋の<span type="ruby"><span type="rb">縁故</span><span type="rp">（</span><span type="rt">えんこ</span><span type="rp">）</span></span>の者で、客分とも居候ともつかず、この二三年厄介になっている、<span type="ruby"><span type="rb">佐々波金十郎</span><span type="rp">（</span><span type="rt">ささなみきんじゅうろう</span><span type="rp">）</span></span>という男、まだ二十七八でしょうが、腕も才智もすぐれた上、男前も<span type="ruby"><span type="rb">恰幅</span><span type="rp">（</span><span type="rt">かっぷく</span><span type="rp">）</span></span>もなかなかに見事です。お礼は真っ赤になって<span type="ruby"><span type="rb">立竦</span><span type="rp">（</span><span type="rt">たちすく</span><span type="rp">）</span></span>みました。<lb />
+「父上は？　お礼どの」<lb />
+　金十郎は一と目で見尽される家の中に、宵のうちに三河屋から帰ったはずの藤枝蔵人が居ないのを不思議に思った様子です。<lb />
+「ツイ<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さっき</span><span type="rp">）</span></span>、出かけて参りました」<lb />
+「風呂かな」<lb />
+　フト金十郎はそんな事を言って、自分の考え至らないのに苦笑しました。もう町風呂などのある時刻ではありません。<lb />
+「いえ、三河屋さんから帰って来ると、手紙を見てすぐ出かけました。妙な事を言って」<lb />
+「ホウ」<lb />
+「私は心配で、どうしようかと思っておりました」<lb />
+　お礼は若い男の前も忘れて、泣き出しそうになります。<lb />
+「それはさぞ心配だろう。――その手紙を、ちょっと見せて貰えまいか」<lb />
+「父が持って行ってしまいました」<lb />
+「フーム」<lb />
+「余程の大事でしょう、あんなに落着いた人が、ひどく<span type="ruby"><span type="rb">取逆上</span><span type="rp">（</span><span type="rt">とりのぼ</span><span type="rp">）</span></span>せて、変な事を言いながら飛んで行きました――が」<lb />
+「果し状ではあるまいな、――それなら左り封じになっているはずだが――」<lb />
+「さア」<lb />
+　お礼はそこまでは気が付いていなかったのです。<lb />
+「ともかく、その辺を捜して上げよう、<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>を貸して下さらぬか」<lb />
+　三河屋からここまではほんの二三町、月がなくとも、提灯にも及ばなかったのです。<lb />
+「私も御一緒に参りましょう」<lb />
+　提灯に明りを入れると、お礼も一緒に外へ出ました。<lb />
+「家は？」<lb />
+「でも」<lb />
+　お礼は淋しさと心細さに、もうたった一人の留守居は我慢が出来なかったのでした。<lb />
+　どこを捜す当てもありません。が、一番先に提灯を持った小僧の長吉、続いて疑惑に打ちひしがれたお礼、最後は<span type="ruby"><span type="rb">頼母</span><span type="rp">（</span><span type="rt">たのも</span><span type="rp">）</span></span>し<span type="ruby"><span type="rb">気</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>な長身の佐々波金十郎、この一と組は、お礼の心覚えを<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>って、父親の後ろ姿の消えたという島町の方へ――、三味線堀の方へと辿りました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+「あれは？」<lb />
+　長吉の指す方、三味線堀に沿う少しばかりの空地を見ると人間と提灯とが右往左往に入り乱れて、引千切ったような人声が、夜の街の静寂を破っております。<lb />
+「行ってみよう」<lb />
+　手を取らぬばかりに近づいてみると、三味線堀のほとり、<span type="ruby"><span type="rb">転軫橋</span><span type="rp">（</span><span type="rt">てんしんばし</span><span type="rp">）</span></span>寄りの空地に、人間が一人斬り殺されているではありませんか。<lb />
+「あッ、父上様」<lb />
+　灯の中に浮いた<span type="ruby"><span type="rb">白髪頭</span><span type="rp">（</span><span type="rt">しらがあたま</span><span type="rp">）</span></span>、血潮の中に浸る<span type="ruby"><span type="rb">袷</span><span type="rp">（</span><span type="rt">あわせ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">柄</span><span type="rp">（</span><span type="rt">がら</span><span type="rp">）</span></span>などを一と目見ると、お礼はよろよろとなりました。<lb />
+「お礼どの、<span type="ruby"><span type="rb">確</span><span type="rp">（</span><span type="rt">しっか</span><span type="rp">）</span></span>りするのだ」<lb />
+　後ろから支えた金十郎、その若い胸の<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に抱きすくめられるように<span type="ruby"><span type="rb">凭</span><span type="rp">（</span><span type="rt">もた</span><span type="rp">）</span></span>れると、お礼はハッと正気を取戻し、<lb />
+「…………」<lb />
+　崩折れるように、父の死骸に<span type="ruby"><span type="rb">取縋</span><span type="rp">（</span><span type="rt">とりすが</span><span type="rp">）</span></span>ったのです。あまりの事に、しばらくは涙も出ません。<lb />
+　その時ちょうど、上野の<span type="ruby"><span type="rb">子刻</span><span type="rp">（</span><span type="rt">ここのつ</span><span type="rp">）</span></span>が鳴ったのを、お礼はこの動乱の中に、不思議に<span type="ruby"><span type="rb">活</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">活</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>きと記憶していたのでした。<lb />
+　傷は後ろから<span type="ruby"><span type="rb">袈裟掛</span><span type="rp">（</span><span type="rt">けさがけ</span><span type="rp">）</span></span>に斬られたもので、一刀の<span type="ruby"><span type="rb">柄</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>に手をかけておりますが、<span type="ruby"><span type="rb">鰹口</span><span type="rp">（</span><span type="rt">こいぐち</span><span type="rp">）</span></span>二三寸抜き上げたまま<span rend="sesame_dot" rendition="em">こと</span>切れております。<lb />
+「お礼どの、嘆いてばかりいる時ではない、下手人を捜して、父上の怨みを晴らさなければなるまい」<lb />
+　佐々波金十郎は、後ろからそっと、お礼のふるえる肩に手を置きました。<lb />
+「旦那方は、この変死人を見知りの方でございますか」<lb />
+　町役人らしいのが多勢の中から出て来ました。<lb />
+「左様、斬られたのは阿部川町の浪人藤枝蔵人殿、これなるは、お嬢さんのお礼どのだ」<lb />
+「左様でございますか、――御身内の方なら、これをお目に掛けた方がよかろうと思いますが」<lb />
+　町役人はそう言いながら、一封の手紙を佐々波金十郎に渡します。<lb />
+「何だ、これは？」<lb />
+「死骸の<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>から出ました、御覧の通り<span type="ruby"><span type="rb">敵討</span><span type="rp">（</span><span type="rt">かたきうち</span><span type="rp">）</span></span>の呼出し状で――」<lb />
+「何？　敵討？　これが敵討だというのか？」<lb />
+　佐々波金十郎は提灯の明りの中に、一封を押しひろげ、半分はお礼に見せるように読んでいきました。<lb />
+　大体の文意は――<lb />
+　姫路藩士成滝近江の一子<span type="ruby"><span type="rb">勇之進</span><span type="rp">（</span><span type="rt">ゆうのしん</span><span type="rp">）</span></span>から、藤枝蔵人に宛てたもので、<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+　三十一年目で父近江を討った<span type="ruby"><span type="rb">不倶戴天</span><span type="rp">（</span><span type="rt">ふぐたいてん</span><span type="rp">）</span></span>の敵の<span type="ruby"><span type="rb">在処</span><span type="rp">（</span><span type="rt">ありか</span><span type="rp">）</span></span>を見付けたのは喜びに<span type="ruby"><span type="rb">堪</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>えない。この上は人交えもせず、一挙に勝負を決するために、即刻三味線堀際の空地まで出向くよう、万一この申入れに<span type="ruby"><span type="rb">反</span><span type="rp">（</span><span type="rt">そむ</span><span type="rp">）</span></span>くにおいては、この旨江戸中に触れさせた上、その方の家に踏込み、娘の前で討ち取るがそれも覚悟か――<lb />
+</span>
+<lb />
+　といった恐ろしく厳重な呼出し状です。<lb />
+「お礼どの、この事情を御存じか」<lb />
+「いえ」<lb />
+　お礼は何か何やら解らぬ様子で頭を振るばかり。<lb />
+「いずれは蔵人殿若い時分、武士の<span type="ruby"><span type="rb">意気地</span><span type="rp">（</span><span type="rt">いきじ</span><span type="rp">）</span></span>でなされた事であろう、――それにしても、三十一年を<span type="ruby"><span type="rb">距</span><span type="rp">（</span><span type="rt">へだ</span><span type="rp">）</span></span>てての敵討とは、古今、聞きも及ばぬことではないか」<lb />
+　佐々波金十郎は独り言ともなくこう言うのでした。<lb />
+　<span type="ruby"><span type="rb">検屍</span><span type="rp">（</span><span type="rt">けんし</span><span type="rp">）</span></span>が済んだのは<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>る朝、そのうちに町内や近所の人も駆けつけ、わけても三河屋の主人甚兵衛と、<span type="ruby"><span type="rb">掛人</span><span type="rp">（</span><span type="rt">かかりうど</span><span type="rp">）</span></span>の佐々波金十郎、それに、死んだ蔵人とわけても<span type="ruby"><span type="rb">昵懇</span><span type="rp">（</span><span type="rt">じっこん</span><span type="rp">）</span></span>にしていた、佐野屋九助、伊勢屋玉吉などは、本当に親身になって世話をしてくれました。<lb />
+　三十一年目の<span type="ruby"><span type="rb">仇討</span><span type="rp">（</span><span type="rt">あだうち</span><span type="rp">）</span></span>も前代未聞のことであり、討手が逃げてしまったのも、追討や返討の心配のない場合だけに、疑えば疑えることですが、たぶん不意に襲いかかって、名乗りもかけず後ろから浴びせたので、敵討とは言いながら、人に顔を見られるのが後ろめたくなり、その場から逃去ったものであろうという風に解釈されました。<lb />
+　がしかし、翌る日この旨町役人から、姫路藩の江戸御留守居に届出ましたが、「当藩には左様な者はござらぬ」というけんもほろろの挨拶です。三十一年前にはと押して訊くと、三十年五十年前のことは、江戸屋敷では相解り兼ねるという取りつく島もない返答でした。<lb />
+　結局藤枝蔵人は斬られ損になり、町内の人達の世話で、葬儀万端済ませました。その後生前あんなに昵懇にした、光川左門太はフッツリ姿を見せず、佐々波金十郎だけ足繁く入り込むようになりました。もっとも夜分だけは隣の女隠居が来て泊ってくれますが、身寄りも国元もない藤枝家へ、進んで世話をしようと言うほどの<span type="ruby"><span type="rb">篤志家</span><span type="rp">（</span><span type="rt">とくしか</span><span type="rp">）</span></span>もなかったのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">四</span></span></span>
+<lb />
+「私には<span type="ruby"><span type="rb">腑</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>に落ちないことばかりでございます。親分のお力で、何とかはっきりさして下さい。敵を討たれたなら、討たれたであきらめますが、後ろ袈裟に斬って逃げる敵が憎うございます」<lb />
+　こう、お礼が銭形平次に訴えたのは、<span type="ruby"><span type="rb">葬</span><span type="rp">（</span><span type="rt">とむら</span><span type="rp">）</span></span>い万端済んでから三日目でした。<lb />
+「なるほど少し変だが、――<span type="ruby"><span type="rb">御法度</span><span type="rp">（</span><span type="rt">ごはっと</span><span type="rp">）</span></span>とは言っても、親の敵討はお上でもお目こぼしだ。次第によっては御褒美が出るくらいのもの、町方の岡っ引が飛出したところで、物笑いになるばかりじゃないかな」<lb />
+　平次は容易に動こうともしません。<lb />
+「親分、そんな事を言わずに、一と肌脱いでおやんなさい。そいつは臭いに決っているじゃありませんか」<lb />
+　ガラッ八の八五郎は横から口を出しました。美しい<span type="ruby"><span type="rb">新造</span><span type="rp">（</span><span type="rt">しんぞう</span><span type="rp">）</span></span>が何か頼み事を持って来ると、すっかり<span type="ruby"><span type="rb">騎士</span><span type="rp">（</span><span type="rt">ナイト</span><span type="rp">）</span></span>気分にならずにいられないガラッ八だったのです。<lb />
+「<span type="ruby"><span type="rb">手前</span><span type="rp">（</span><span type="rt">てめえ</span><span type="rp">）</span></span>は黙っていろ」<lb />
+「でも、そんな変な敵討があるわけはないじゃありませんか。姫路の御藩中の方へ八方から<span type="ruby"><span type="rb">捜</span><span type="rp">（</span><span type="rt">さぐ</span><span type="rp">）</span></span>りを入れたら、成滝勇之進なんて人間があったかなかったかの見当はつくでしょう。成滝近江の<span type="ruby"><span type="rb">倅</span><span type="rp">（</span><span type="rt">せがれ</span><span type="rp">）</span></span>にそんなのがないと決ったら、偽の敵討に決っているじゃありませんか」<lb />
+　八五郎は一生懸命の智恵を絞ります。<lb />
+「手前は急に利口になったな、――それだけ智恵が廻るなら、一と走り訊いて来るがいい、――それからついでに――いやこれは俺がやろう」<lb />
+「親分、それじゃ――」<lb />
+　糸目の切れた<span type="ruby"><span type="rb">紙鳶</span><span type="rp">（</span><span type="rt">たこ</span><span type="rp">）</span></span>のように飛出すガラッ八。それを見送って、<lb />
+「有難うございます、親分」<lb />
+　お礼の目には感謝の涙が光りました。<lb />
+「それじゃ<span type="ruby"><span type="rb">後前</span><span type="rp">（</span><span type="rt">あとさき</span><span type="rp">）</span></span>のことを、いろいろ聞かして貰いましょうか」<lb />
+「どんな事でも訊いて下さい」<lb />
+　お礼は平次の間の前に、何もかも投出した風情です。<lb />
+　平次はしかし、お礼の口から何ほどのことも引出せなかったのでした。父親が敵持だったことは夢にも知らず、ただ、武家が嫌になった父親が、かなりの<span type="ruby"><span type="rb">貯蓄</span><span type="rp">（</span><span type="rt">たくわえ</span><span type="rp">）</span></span>を町人に廻し、結構な利分を見て楽々と暮しているということを知っているだけです。<lb />
+　手習師匠の光川左門太は、三十五六の年にも恥じず、去年あたりから、執拗にお礼を後添えにと望んでおりました。藤枝蔵人は浪人同士で馬が合うものか、この左門太の一本調子な気風が好きで、お礼の思惑も構わず、嫁にやる話を決めてしまいそうで、まだ若くて世間を知らないお礼は、こればかりを苦労の種にしていた様子です。<lb />
+　佐々波金十郎は、左門太よりは腕も男も良く、浅草中の娘達の評判者でした。が、お礼に心ひかれる様子ながら、改めて口を切るでもなく、妙に遠慮深い日を送っておりました。なまじ岡場所の女どもに騒がれる金十郎の身持ちが、藤枝蔵人の気に入らなかったのかも知れません。<lb />
+　その他、貸借のことで関係の深いのは、藤枝蔵人の<span type="ruby"><span type="rb">資本</span><span type="rp">（</span><span type="rt">もとで</span><span type="rp">）</span></span>を廻して、その<span type="ruby"><span type="rb">口銭</span><span type="rp">（</span><span type="rt">こうせん</span><span type="rp">）</span></span>を取っている佐野屋九助と、藤枝蔵人の金を二三百両も借り込んで、年中その利息に追われている伊勢屋玉吉ですが、この二人は藤枝蔵人をおびき出して、<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>し討などに出来る腕を持っているはずもありません。<lb />
+　ガラッ八が帰って来たのは、その日も暮れ近くなってから――。<lb />
+「親分、解りましたぜ」<lb />
+　相変らず間抜けな声を路地から張り上げます。<lb />
+「何が解ったんだ、――まア入れ」<lb />
+　と平次。<lb />
+「姫路の御藩中には、昔も今も藤枝蔵人という方がありませんよ」<lb />
+「フーム」<lb />
+「成滝近江という人は確かにあったが、三十年ほど前不都合のことがあって、永のお<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>になったということで――」<lb />
+「フーム、面白いな、その成滝近江という人は、人に討たれたわけでも、人を討ったわけでもなかったのか」<lb />
+「殿の御不興を<span type="ruby"><span type="rb">蒙</span><span type="rp">（</span><span type="rt">こうむ</span><span type="rp">）</span></span>ったのは、御蔵番をしているうちの金の不始末で、人を斬るような人でも、人に斬られるような人でもなかったそうです。姫路を立退く時は、男の子を一人親類に預け、美しい後添えの女房をつれて江戸へ行ったということで」<lb />
+　ガラッ八の話はあまりに予想外です。<lb />
+「その親類に預けた男の子は何という名だ」<lb />
+「勇之進と言ったそうです。これも十年ばかり前に、<span type="ruby"><span type="rb">朋輩</span><span type="rp">（</span><span type="rt">ほうばい</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">仲違</span><span type="rp">（</span><span type="rt">なかたが</span><span type="rp">）</span></span>いをして、浪人をしたという話です」<lb />
+「人相を聞いたか」<lb />
+「勇之進は薄<span rend="sesame_dot" rendition="em">あばた</span>で、頑固で高慢な、<span type="ruby"><span type="rb">醜男</span><span type="rp">（</span><span type="rt">ぶおとこ</span><span type="rp">）</span></span>だったそうですよ」<lb />
+「なるほどそいつは面白そうだ、――行ってみようか、八」<lb />
+　平次は立上がりました。<lb />
+「どこへ？」<lb />
+「阿部川町へ行って洗ってみる」<lb />
+「そう来なくちゃ面白くない、――行きますとも、親分」<lb />
+　ガラッ八は<span type="ruby"><span type="rb">平掌</span><span type="rp">（</span><span type="rt">ひらて</span><span type="rp">）</span></span>でピシャリと自分の<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ひたい</span><span type="rp">）</span></span>を叩きました。<lb />
+「若くて綺麗な<span type="ruby"><span type="rb">新造</span><span type="rp">（</span><span type="rt">しんぞ</span><span type="rp">）</span></span>が一枚加わると、イヤにいきむから不思議さ、<span type="ruby"><span type="rb">呆</span><span type="rp">（</span><span type="rt">あき</span><span type="rp">）</span></span>れた野郎だ」<lb />
+　平次は煙草入を腰に落しました。<lb />
+「それほどでもないがね、親分、いい<span type="ruby"><span type="rb">女形</span><span type="rp">（</span><span type="rt">おやま</span><span type="rp">）</span></span>がなかった日にゃ、狂言にならないじゃありませんか」<lb />
+「馬鹿野郎」<lb />
+「へッ、お出でなすったね」<lb />
+　二人は<span type="ruby"><span type="rb">雀色時</span><span type="rp">（</span><span type="rt">すずめいろどき</span><span type="rp">）</span></span>の路地を出て、浅草の方へ急ぎました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">五</span></span></span>
+<lb />
+　平次は阿部川町へ飛んで行くと、一気に何もかも調べてしまいました。<lb />
+　第一番にお礼の家へ行って、証文から手紙から、古い書類へ全部目を通し、その中の古いのを少しばかり借り出して、翌日には姫路藩のお留守居を訪ねました。<lb />
+　町方の御用聞にとって、大名屋敷は大苦手ですが、<span type="ruby"><span type="rb">与力</span><span type="rp">（</span><span type="rt">よりき</span><span type="rp">）</span></span>笹野新三郎の<span type="ruby"><span type="rb">添書</span><span type="rp">（</span><span type="rt">てんしょ</span><span type="rp">）</span></span>で、どうやらこうやら、老巧な用人に逢い、三十一年前成滝近江が永のお暇になった時の事情を詳しく聞き出しました。<lb />
+「その事情は、詳しくは申し兼ねるが、国元で御用金が五千両ほど紛失したのだよ。成滝近江はそれで永のお暇になったが、<span type="ruby"><span type="rb">芸子</span><span type="rp">（</span><span type="rt">げいこ</span><span type="rp">）</span></span>上がりの若い後添えをつれて、江戸へ行って繁昌しているということであった――人相は、背の高い方で立派な男で、武芸は大したこともなかったが、算数には明るかった、――左様左様、左の<span type="ruby"><span type="rb">眉尻</span><span type="rp">（</span><span type="rt">まゆじり</span><span type="rp">）</span></span>にかなり大きい<span type="ruby"><span type="rb">黒子</span><span type="rp">（</span><span type="rt">ほくろ</span><span type="rp">）</span></span>があったように思うが」<lb />
+「これは成滝という方の筆蹟と違いましょうか」<lb />
+　平次は持って来た古書類を幾通か出しました。<lb />
+「これだ、――成滝近江の文字は、左下がりの変な癖があったよ」<lb />
+「有難うございました」<lb />
+　平次はもうそれ以上訊く必要はありませんでした。<lb />
+　その足で阿部川町に飛んで行き、お礼に逢って訊くと、父親――藤枝蔵人の左の眉尻には、黒子が一つあったことも確か、蔵人はひどくそれを気にしていたという事が分ったのです。<lb />
+「八、大変なことになったのだ。藤枝蔵人というのは、実は成滝近江だ――藩の御用金を五千両持出して、町人に融通して楽々と暮していたんだ」<lb />
+「へエ――」<lb />
+　ガラッ八も開いた口が<span type="ruby"><span type="rb">塞</span><span type="rp">（</span><span type="rt">ふさ</span><span type="rp">）</span></span>がりません。<lb />
+「敵持の話などは、ほんの座興だったのさ。武士が敵を持っているというのは、ちょっと面白い話だからなア、――成滝近江が、成滝近江を殺すなんて、そんな馬鹿なことがあるわけはない」<lb />
+「へエ――驚いたね、どうも」<lb />
+「こいつはとんだお茶番崩れさ、――ところで」<lb />
+　と平次。<lb />
+「殺したのは誰です。――敵討でないとすると」<lb />
+「成滝勇之進という名義で、呼出し状を書いた奴だ。それが本当の勇之進なら親殺しの大罪人だ。でなきゃ――」<lb />
+「サア解らねえ」<lb />
+　八五郎のガラッ八もがっちりと手を<span type="ruby"><span type="rb">拱</span><span type="rp">（</span><span type="rt">こまぬ</span><span type="rp">）</span></span>きます。<lb />
+「佐々波金十郎と光川左門太の筆蹟を見たいが、何とかして手に入れてくれ」<lb />
+「心得た」<lb />
+　八五郎は飛出しましたが、<span type="ruby"><span type="rb">一刻</span><span type="rp">（</span><span type="rt">いっとき</span><span type="rp">）</span></span>と経たないうちに戻って来ました。<lb />
+「手に入ったか、八」<lb />
+「光川左門太は手習師匠だから、書いたものが<span rend="sesame_dot" rendition="em">うん</span>とある。が佐々波金十郎のは弱りましたぜ、仕方がないから、お礼さんを拝み倒して、少し甘口な手紙を借りて来ましたよ」<lb />
+　ガラッ八は二三本の手紙を<span type="ruby"><span type="rb">纏</span><span type="rp">（</span><span type="rt">まと</span><span type="rp">）</span></span>めて差出しました。<lb />
+「なるほど、光川左門太も佐々波金十郎も、お礼さんを追い廻しているんだね。どれどれ佐々波金十郎という人は、男は<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>いが字は下手だ。覚えておくがいいよ、八、女の子へ手紙でも出そうという心掛けなら少しは字でも習っておくものだ。おや、おや？――」<lb />
+　無駄を言いながら、平次の眼は光川左門太の手紙の上に<span type="ruby"><span type="rb">釘</span><span type="rp">（</span><span type="rt">くぎ</span><span type="rp">）</span></span>付けになったのです。<lb />
+「そいつは敵討の呼出し状と同じ<span type="ruby"><span type="rb">筆蹟</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>じゃありませんか」<lb />
+　と八五郎。<lb />
+「その通りだ。敵討は光川左門太だったんだ。来い、八、あれが成滝勇之進なら、大変なことになるぞッ」<lb />
+「おッ」<lb />
+　二人は宙を飛びました。不思議な敵討事件が、こうして一気に解決へと行くでしょうか？<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">六</span></span></span>
+<lb />
+「<span rend="sesame_dot" rendition="em">あっし</span>は平次ですが、――藤枝蔵人様が殺されたことは御存じでしょうな」<lb />
+　光川左門太に逢うと、平次はいきなりこんな調子で鎌をかけました。手習師匠と言っても、ほんのお長屋の子供達を集めるだけ、暮しも相当に困っているらしく、男一人の世帯は<span type="ruby"><span type="rb">惨憺</span><span type="rp">（</span><span type="rt">さんたん</span><span type="rp">）</span></span>たる有様です。<lb />
+　<span type="ruby"><span type="rb">主人</span><span type="rp">（</span><span type="rt">あるじ</span><span type="rp">）</span></span>の光川左門太はせいぜい三十五六でしょう。薄<span rend="sesame_dot" rendition="em">あばた</span>の醜い男で、<span type="ruby"><span type="rb">請合</span><span type="rp">（</span><span type="rt">うけあい</span><span type="rp">）</span></span>四十ぐらいには見えます。筆蹟もよく、四角な文字も読めるという噂ですが、武芸は大したことがないらしく、人に<span type="ruby"><span type="rb">阿</span><span type="rp">（</span><span type="rt">おもね</span><span type="rp">）</span></span>らぬ武骨さを買われて、<span type="ruby"><span type="rb">界隈</span><span type="rp">（</span><span type="rt">かいわい</span><span type="rp">）</span></span>の評判はそんなに悪い方ではありません。<lb />
+「それは知っている、ツイ近所に住んでいるのだもの」<lb />
+　左門太の答はぶっきらぼうでした。<lb />
+「日頃は<span type="ruby"><span type="rb">昵懇</span><span type="rp">（</span><span type="rt">じっこん</span><span type="rp">）</span></span>だったそうですが、――お<span type="ruby"><span type="rb">葬</span><span type="rp">（</span><span type="rt">とむら</span><span type="rp">）</span></span>いにもお出でがなかったようで――」<lb />
+「それは俺の勝手だ。そんな事でかれこれ言われる筋はあるまい」<lb />
+　<span type="ruby"><span type="rb">以</span><span type="rp">（</span><span type="rt">もっ</span><span type="rp">）</span></span>ての外の左門太の機嫌です。<lb />
+「それではちょっと見て頂きたいものがありますが、この手紙を光川様は御存じでしょうな」<lb />
+　平次は死骸の<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>から出た果し状を見せました。<lb />
+「…………」<lb />
+「どうぞ、ありのままおっしゃって下さい」<lb />
+「存じているどころではない。ありようは、この光川左門太が書いたのだ」<lb />
+　左門太はゴクリと<span type="ruby"><span type="rb">固唾</span><span type="rp">（</span><span type="rt">かたず</span><span type="rp">）</span></span>を呑みました。<lb />
+「では、<span rend="sesame_dot" rendition="em">あなた</span>は成滝近江様の一子、勇之進様とおっしゃるのが本名で――？」<lb />
+「その通りだ、――父上、成滝近江は、三十何年前姫路を退転したとはかねがね聞いているが、その父上を、藤枝蔵人が討ったという<span type="ruby"><span type="rb">懺悔話</span><span type="rp">（</span><span type="rt">ざんげばなし</span><span type="rp">）</span></span>は、先日始めて三河屋で聞いた。――一と足先に家へ帰って、この果し状を<span type="ruby"><span type="rb">認</span><span type="rp">（</span><span type="rt">したた</span><span type="rp">）</span></span>め、藤枝蔵人の家へ投げ込んだのが無理だろうか」<lb />
+　光川左門太は<span type="ruby"><span type="rb">昂然</span><span type="rp">（</span><span type="rt">こうぜん</span><span type="rp">）</span></span>として頭を挙げるのです。<lb />
+「…………」<lb />
+　平次は真っ暗な心持になりました。それから先の言葉をどんな形式でこの男の口から引出したものか。敵討と間違えたにしろ、真の父親を手にかけたと知ったら、どんなに驚くだろう。平次はそんな事を考えると、このまま<span type="ruby"><span type="rb">有耶無耶</span><span type="rp">（</span><span type="rt">うやむや</span><span type="rp">）</span></span>にして、逃出してしまいたいような気になるのでした。<lb />
+「…………」<lb />
+　光川左門太も、平次の出ようを待つらしく、黙りこくって相手の顔を見詰めます。<lb />
+「親の敵を討ったなら、名乗って出るのが本当じゃありませんか。死骸を捨てて逃出したのはどういうわけで――」<lb />
+　平次の言葉は丁寧ですが、<span type="ruby"><span type="rb">仮借</span><span type="rp">（</span><span type="rt">かしゃく</span><span type="rp">）</span></span>のない厳しさがあります。<lb />
+「それだよ、平次、――親の敵を討ったのなら、俺はあの場で名乗って出る、――が、藤枝蔵人を討ったのは、残念ながらこの光川左門太ではなかったのだ」<lb />
+「えッ」<lb />
+「手紙を投げ込んでから、万一の用意のなかった事を思い出し、この家へ帰って、身体を洗い浄め、髪まで直して三味線堀へ行った。その間ほんの<span type="ruby"><span type="rb">四半刻</span><span type="rp">（</span><span type="rt">しはんとき</span><span type="rp">）</span></span>（三十分）ほど。――遅れたというほどではなかったが、当の敵藤枝蔵人は、その時もう人に斬られて、橋の袂に<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">あけ</span><span type="rp">）</span></span>に染んでこと切れていたのだ」<lb />
+「…………」<lb />
+　あまりの事に、平次もガラッ八もしばらくは言葉もありません。<lb />
+「名乗って出なかったのはそのためだ、平次、解ったか。――親の敵を討てなかったのは、いかにも残念至極だが、人の罪まで背負って名乗って出るわけに行かない。――それから今日まで、我身に恥じて外へも出ない有様だ、それで何もかも解るであろうな」<lb />
+　光川左門太の言葉には、何の駆引があろうとも思われません。明けっ放しな表情から、前後の事情、疑いを挟む余地などは少しもなかったのです。<lb />
+「それで安心しました。実は光川様、<span rend="sesame_dot" rendition="em">あなた</span>はすんでのことに、大変な罪を作るところでしたよ」<lb />
+　ホッとした平次の顔を、左門太はおよそ心得難く見やりました。<lb />
+「何が安心なのだ、平次、俺は残念でたまらないが」<lb />
+「何を隠しましょう、光川様、藤枝蔵人様が、三河屋で話した事は、ありゃみんな一時の座興で」<lb />
+「何？」<lb />
+「藤枝蔵人様というのは仔細あって世を忍ぶ仮の名、まことはあれが、成滝近江様本人でしたよ」<lb />
+　平次はとうとう最後の切札まで投げ出しました。<lb />
+「えッ」<lb />
+「光川様の本名が、成滝勇之進様なら、藤枝様とは<span type="ruby"><span type="rb">真実</span><span type="rp">（</span><span type="rt">ほんとう</span><span type="rp">）</span></span>の親子」<lb />
+「な、何だと、そいつは本当か、平次」<lb />
+「証拠は山ほどあります、――危ないところで、親殺しの大罪人になるところでしたよ」<lb />
+「そんな馬鹿な事はあるまい、藤枝蔵人が私の父なら、あの手紙を見て三味線堀へ行くはずはないではないか」<lb />
+「いえ、敵ならこそ逃げも隠れもするでしょうが、三十一年前に別れた、本当の<span type="ruby"><span type="rb">倅</span><span type="rp">（</span><span type="rt">せがれ</span><span type="rp">）</span></span>が、事情も知らずに、自分を親の敵と狙うと知ったら、どんな親でも飛んで行って、その間違いを言い解いた上、親子の名乗りをする心持になります。現に藤枝蔵人様も、あの手紙を見ると、三十一年目でわが子に逢う嬉しさに<span type="ruby"><span type="rb">取逆上</span><span type="rp">（</span><span type="rt">とりのぼ</span><span type="rp">）</span></span>せ、謎のような事を言って飛んで行ったそうです」<lb />
+　平次の説明は<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">たなごころ</span><span type="rp">）</span></span>を指すようでした。成滝近江は藤枝蔵人で、光川左門太はその子の勇之進に違いないことは、これだけの説明でも、白日のように<span type="ruby"><span type="rb">判然</span><span type="rp">（</span><span type="rt">はっきり</span><span type="rp">）</span></span>してしまったのです。<lb />
+「何ということだ、――誰が父上を討ったのだ、――そうとも知らず、同じ町内に住みながら今まで<span type="ruby"><span type="rb">他所他所</span><span type="rp">（</span><span type="rt">よそよそ</span><span type="rp">）</span></span>しくしていた俺は何としたことだ、――お礼どのは、俺には<span type="ruby"><span type="rb">腹異</span><span type="rp">（</span><span type="rt">はらがわ</span><span type="rp">）</span></span>りの妹だったのか、知らなかった、知らなかった」<lb />
+　光川左門太の<span type="ruby"><span type="rb">懊悩</span><span type="rp">（</span><span type="rt">おうのう</span><span type="rp">）</span></span>は、見る目も気の毒でした。平次はガラッ八に合図をして、そっと往来に飛出すと、額に<span type="ruby"><span type="rb">泌</span><span type="rp">（</span><span type="rt">にじ</span><span type="rp">）</span></span>む汗を拭いて、ホッと溜息を吐きます。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">七</span></span></span>
+<lb />
+「親分、驚いたネ」<lb />
+　ガラッ八は頬を吹く春の風を胸いっぱいに吸いながら、少し<span type="ruby"><span type="rb">道化</span><span type="rp">（</span><span type="rt">どうけ</span><span type="rp">）</span></span>た調子でこう言いました。<lb />
+「驚いたよ、――でも親殺しを縛らなきゃなるまいかと思った時は、本当に岡っ引が嫌になったぜ」<lb />
+　と平次。<lb />
+「これからどうするんで、親分」<lb />
+「振出しまで戻るのさ、――三河屋へ行ってみよう」<lb />
+　二人はもう一度三河屋に取って返して、主人の甚兵衛にその晩のことを訊ねました。<lb />
+　何べんも何べんも繰返したことで、ツイ馴れっこになる口調へ平次は時々ブレーキをかけて、この上もなく念入りに、あの晩のことを再現させて行ったのです。<lb />
+「すると、藤枝蔵人の話を聞いたのは、光川さんの外には、お前さんと佐野屋と、伊勢屋だけだったのだね」<lb />
+　平次はもう一度この点へ念を入れたのです。<lb />
+「へエ、――それだけでしたよ。ここは二た間だけ<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>になっていて、奉公人達も滅多に来るところでなく、後ろは土蔵で、表は明けっ放しの中庭ですから、猫の子が来ても判ります」<lb />
+　主人の甚兵衛の言うのは<span type="ruby"><span type="rb">尤</span><span type="rp">（</span><span type="rt">もっと</span><span type="rp">）</span></span>もでした。が、平次にしては、藤校蔵人の話から、三味線堀の<span type="ruby"><span type="rb">刃傷</span><span type="rp">（</span><span type="rt">にんじょう</span><span type="rp">）</span></span>まではたった<span type="ruby"><span type="rb">一刻</span><span type="rp">（</span><span type="rt">いっとき</span><span type="rp">）</span></span>そこそこですから、その敵討の話を小耳に挟んだ人間が、敵討らしく<span type="ruby"><span type="rb">誤魔化</span><span type="rp">（</span><span type="rt">ごまか</span><span type="rp">）</span></span>すために、この微妙な機会を利用したに違いないと思っているのです。<lb />
+　光川左門太でないとすると、疑いは佐野屋と伊勢屋と、三河屋の主人の甚兵衛にかかることになりますが、それは事情が許しません。<lb />
+「まだ、誰か聞いていたはずだ――が」<lb />
+「あッ、娘のお村が隣の部屋におりました。どうかしたら、小耳に挟んだかも知れません」<lb />
+「そのお村さんを呼んでくれ」<lb />
+　平次が言うまでもなく、さっそくお村は呼出されました。十九というにしては、少し<span type="ruby"><span type="rb">初々</span><span type="rp">（</span><span type="rt">ういうい</span><span type="rp">）</span></span>しく、あまり良い<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>ではありませんが、年頃相応に化粧はしております。<lb />
+　平次の問に対して、お村は頭から否定しました。<lb />
+「何にも聞きません、――それに誰にも話しません」<lb />
+　こう繰返すだけ、<span type="ruby"><span type="rb">我儘娘</span><span type="rp">（</span><span type="rt">わがままむすめ</span><span type="rp">）</span></span>らしい頑固さが平次を<span type="ruby"><span type="rb">苛立</span><span type="rp">（</span><span type="rt">いらだ</span><span type="rp">）</span></span>たせます。<lb />
+　平次もこの手は<span type="ruby"><span type="rb">諦</span><span type="rp">（</span><span type="rt">あきら</span><span type="rp">）</span></span>めるよりほか仕方はありませんでした。次に呼出して貰ったのは小僧の長吉。<lb />
+「藤枝さんの紙入を見付けたのはお前だったね」<lb />
+「え、<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>をお掃除していると、重ねた座蒲団の間にあったんです」<lb />
+「重ねた座蒲団の間に？――座蒲団はお客様が皆んな帰ってから重ねたんだろう」<lb />
+「え、だから少し変だったんです。――座蒲団と一緒に紙入を持って重ねたことになるでしょう」<lb />
+「それから」<lb />
+　と平次。<lb />
+「佐々波さんがそれを見て、印形や書類が入っているようだから、すぐ届けて上げる方かよかろうと言って、私を送って下すったんです」<lb />
+　十三になったばかりの長吉は、なかなかハキハキした小僧でした。<lb />
+「それでいい、――有難うよ、小僧さん」<lb />
+　平次はそれから、その晩の家の者の出入りを調べてみましたが、五六日も経っていることで、誰も確かな<span type="ruby"><span type="rb">不在証明</span><span type="rp">（</span><span type="rt">アリバイ</span><span type="rp">）</span></span>を持っているものはありません。<lb />
+「佐々波さんは？」<lb />
+　<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>い男の浪人へ訊くと、<lb />
+「お客が帰るまでは裏二階の自分の部屋で書見をしていた、――お客が帰ったと聞いて離屋へ行ってみると、長吉が紙入を持って途方に暮れているから、一緒に返しに行ってやったと思う――が」<lb />
+　これが一番はっきりしております。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">八</span></span></span>
+<lb />
+　<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>る日、<span type="ruby"><span type="rb">疾風</span><span type="rp">（</span><span type="rt">しっぷう</span><span type="rp">）</span></span>のように飛んで来た八五郎は、<lb />
+「親分、大変ですぜ」<lb />
+「何が大変なんだ」<lb />
+「三河屋のお村が、大川へ身を投げて死にましたぜ」<lb />
+　平次の前にこう言ってへたばりました。<lb />
+「そいつは大変だ。来いッ、八」<lb />
+　と飛出す平次。<lb />
+「もう一度駆けるんですか」<lb />
+「<span type="ruby"><span type="rb">曲者</span><span type="rp">（</span><span type="rt">くせもの</span><span type="rp">）</span></span>は仕掛けて来やがった。大事な<span type="ruby"><span type="rb">潮時</span><span type="rp">（</span><span type="rt">しおどき</span><span type="rp">）</span></span>だ。後から<span type="ruby"><span type="rb">跟</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いて来い」<lb />
+　阿部川町まで駆け付けた平次。<lb />
+　末っ<span type="ruby"><span type="rb">娘</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>に死なれて、<span type="ruby"><span type="rb">萎</span><span type="rp">（</span><span type="rt">しお</span><span type="rp">）</span></span>れ返る甚兵衛を慰めながら、線香を上げて死骸を見せて貰いました。<lb />
+「親分、手と足に縄で縛った<span type="ruby"><span type="rb">痕</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span>がありますよ」<lb />
+　と八五郎、息を切らしながらも後ろから顔を出します。<lb />
+「シッ、黙っていろ、――<span type="ruby"><span type="rb">猿轡</span><span type="rp">（</span><span type="rt">さるぐつわ</span><span type="rp">）</span></span>の痕もあるんだ」<lb />
+「へエ――」<lb />
+「手足を縛って猿轡をはめて溺れ死んだ上、わざわざそれを解いて身投げする<span type="ruby"><span type="rb">亡者</span><span type="rp">（</span><span type="rt">もうじゃ</span><span type="rp">）</span></span>はあるまい、八」<lb />
+「へエ――」<lb />
+　死骸を一と眼、平次は何もかも見抜いた様子です。<lb />
+　小僧の長吉と、下女のお<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>を呼んで訊くと、お村が外へ出たのは<span type="ruby"><span type="rb">亥刻</span><span type="rp">（</span><span type="rt">よつ</span><span type="rp">）</span></span>過ぎらしく、外から男が合図していたというので口が合います。<lb />
+　平次は三河屋の家をグルリと廻ってみました。お村の部屋は裏二階の下で、木戸を押せば、すぐ中庭から外に出られ、身軽なものなら、二階から塀伝いに下へ降りることもむつかしくはありません。<lb />
+「ところで八、今から四半刻ほど経ったら、こういう芸当をやらかして貰いたいんだが――」<lb />
+　平次が何やら<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>くと、<lb />
+「へエ、へエ、そいつは危ないね」<lb />
+　ガラッ八はそう言いながらも快く引受けます。<lb />
+　それからざっと四半刻。<lb />
+　事情は一挙にクライマックスに盛上がりました。どこからともなく三河屋へ立戻った平次は、<lb />
+「八、八五郎」<lb />
+　大きな声でガラッ八を呼びました。<lb />
+「おい」<lb />
+　ポッと裏口から飛出した八五郎、その手には、佐々波金十郎の刀を<span type="ruby"><span type="rb">攫</span><span type="rp">（</span><span type="rt">さら</span><span type="rp">）</span></span>って抱え込んでいるのです。<lb />
+「無礼者ッ、待て、待たぬかッ」<lb />
+　後から追う金十郎、こいつは非凡の使い手です。<lb />
+「親分、刀は脂がギラギラ浮いているぜ」<lb />
+「己れッ」<lb />
+　後ろから脇差を抜いて、八五郎に浴びせる金十郎の腕に、平次の手から、パッと投げ銭が飛びました。<lb />
+「御用だぞッ。藤枝蔵人殺しの下手人、神妙にせえ」<lb />
+　と八五郎を<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>って飛出す平次。<lb />
+「何を馬鹿なッ」<lb />
+　せせら笑う佐々波金十郎の前へ、どこから現れたか、光川左門太、押っ取り刀で<span type="ruby"><span type="rb">立塞</span><span type="rp">（</span><span type="rt">たちふさ</span><span type="rp">）</span></span>がりました。<lb />
+「佐々波金十郎、覚悟せい。<span type="ruby"><span type="rb">其方</span><span type="rp">（</span><span type="rt">そち</span><span type="rp">）</span></span>が討った藤枝蔵人は、この光川左門太の真の父親だ」<lb />
+「何をッ」<lb />
+「さア、お礼、抜かるな」<lb />
+　振り返るとそこには蔵人の娘お礼、<span type="ruby"><span type="rb">襷</span><span type="rp">（</span><span type="rt">たすき</span><span type="rp">）</span></span>十字に、白鉢巻までして、脇差を構えて<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>を狙っているのです。<lb />
+<lb />
+　　　　　＊<lb />
+<lb />
+「親分、変な敵討だったね」<lb />
+　一件の始末がついて、神田へ引揚げる<span type="ruby"><span type="rb">途々</span><span type="rp">（</span><span type="rt">みちみち</span><span type="rp">）</span></span>、ガラッ八はまた絵解きをせがむのでした。<lb />
+「あの親子に、本名を名乗らせないのが俺の味噌さ。成滝近江は三十一年前に死んだ。その金を預かった藤枝蔵人の倅と娘から、姫路へ五千両の御用金を返させるという寸法はどうだ」<lb />
+「なるほどね、――それにしても、佐々波金十郎という野郎は憎いじゃありませんか」<lb />
+「本当の悪党だよ、――お村から敵持の話をきくと、藤枝蔵人の後をつけて行って三味線堀で後ろ袈裟に斬り、フト慾に目がくらんで<span type="ruby"><span type="rb">懐中</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>の紙入を抜いた、――後ろから斬ったのと、あの紙入を抜いたのが手ぬかりさ」<lb />
+「何だって藤枝蔵人を斬る気になったんでしょう」<lb />
+　とガラッ八。<lb />
+「父親が不承知で、お礼を手に入れる見込みがなかったのさ。金十郎には不義理の借金がある上、女道楽を見抜かれていたんだろう」<lb />
+「呆れた人間だね」<lb />
+「あんなのは人間じゃないよ、――紙入を死骸から抜いたが、うっかり持っていて知れると面倒だと気が付いた。一つはそれを種に使って、お礼の様子を見、恩を売っておきたかったんだろう、部屋の隅へ片付けた座蒲団の間へ紙入を入れたのは賢いようでも馬鹿さ、――どうせ紙入の中の小判ぐらいは抜いたんだろう、――あとは長吉に見付けさせて、お前も知っての通りの段取りだ」<lb />
+「お村は？」<lb />
+「佐々波が殺したのさ、――お村の口から敵持の話を聞いて、あの芝居を思い付いたんだろう。一応口止めはしたが、いつペラペラとしゃべるかも知れず、それにこのころお礼に夢中なんで、お村には<span type="ruby"><span type="rb">怨</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>まれている、――危ないと思ったから、二階から塀伝いに降りて、外からお村を<span rend="sesame_dot" rendition="em">おびき</span>出し、縛って水にぶち込んだ上、死骸の縄を解いて大川に流したのさ」<lb />
+「へエ――」<lb />
+　そう説明されると、<span type="ruby"><span type="rb">判然</span><span type="rp">（</span><span type="rt">はっきり</span><span type="rp">）</span></span>と前後の関係が判ります。<lb />
+「いやな捕物だったが、大詰は敵討で、お前の<span type="ruby"><span type="rb">贔屓</span><span type="rp">（</span><span type="rt">ひいき</span><span type="rp">）</span></span>のお礼が良い兄貴とめぐり逢ったんだから、まず目出たし目出たしさ」<lb />
+　平次はそう言って、淋しく笑いました。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>源氏物語</title>
+        <author>紫式部</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2003-10-04">作成</resp><resp /><note>
+<lb />
+底本：「全訳源氏物語　中巻」角川文庫、角川書店
+<lb />
+　　　1971（昭和46）年11月30日改版初版発行<lb />
+　　　1994（平成6）年6月15日39版発行<lb />
+※このファイルは、古典総合研究所（http://www.genji.co.jp/）で入力されたものを、青空文庫形式にあらためて作成しました。<lb />
+※校正には、2002（平成14）年1月15日44版を使用しました。<lb />
+入力：上田英代<lb />
+校正：kumi<lb />
+<date when="2003-10-04">2003年10月4日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>上田英代</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>kumi</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>源氏物語</title><author>紫式部</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div">
+<lb />
+<lb />
+<lb />
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em"><span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>き人の手なれの笛に寄りもこし夢の</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">ゆくへの寒き<span type="ruby"><span type="rb">夜半</span><span type="rp">（</span><span type="rt">よは</span><span type="rp">）</span></span>かな　　　（晶子）</span>
+<lb />
+　<span type="ruby"><span type="rb">権大納言</span><span type="rp">（</span><span type="rt">ごんだいなごん</span><span type="rp">）</span></span>の死を惜しむ者が多く、月日がたっても依然として恋しく思う人ばかりであった。六条院のお心もまたそうであった。御関係の薄い人物でも、なんらかのすぐれたところを持っている者の死は常に悲しく<span type="ruby"><span type="rb">思召</span><span type="rp">（</span><span type="rt">おぼしめ</span><span type="rp">）</span></span>す方であったから、<span type="ruby"><span type="rb">柏木</span><span type="rp">（</span><span type="rt">かしわぎ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">衛門督</span><span type="rp">（</span><span type="rt">えもんのかみ</span><span type="rp">）</span></span>はまして朝夕にお出入りしていた人であったし、またそうした人たちの中でも特に愛すべき男として見ておいでになったのでもあるから、一つの問題は別としてお心に上ることが多かった。四十九日の法事の際にも御厚志の見える<span type="ruby"><span type="rb">誦経</span><span type="rp">（</span><span type="rt">ずきょう</span><span type="rp">）</span></span>の寄付があった。何も知らぬ幼い人の顔を御覧になってはまた深い悲哀をお感じになって、そのほかにも法事の際に黄金百両をお贈りになった。理由を知らぬ大臣はたびたび感激してお礼を申し上げた。大将もいろいろな形式で<span type="ruby"><span type="rb">従兄</span><span type="rp">（</span><span type="rt">いとこ</span><span type="rp">）</span></span>であり、夫人の兄であり、親友であった大納言の法会を盛んにする志を見せ、一方ではこの際の御慰問として未亡人の一条の宮へも物を多くお贈りすることを忘れなかった。兄弟以上の親切を故人のために尽くす大将を大臣も夫人も、これほどまでの志があるとは思わなかったと喜んでいた。故人の持っていた勢力が法事の際にはなやかに現われたことなどからも両親はまた<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>き子を惜しんだ。<lb />
+　<span type="ruby"><span type="rb">御寺</span><span type="rp">（</span><span type="rt">みてら</span><span type="rp">）</span></span>の院は<span type="ruby"><span type="rb">女二</span><span type="rp">（</span><span type="rt">にょに</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">宮</span><span type="rp">（</span><span type="rt">みや</span><span type="rp">）</span></span>もまた不幸な御境遇におなりになったし、入道の宮も今日では人間としての幸福をよそにあそばすお身の上であるのを、御父として残念なお気持ちがあそばすのであるが、この世のことは問題にすまいとしいて忍んでおいでになった。仏勤めをあそばされる時にも、<span type="ruby"><span type="rb">女三</span><span type="rp">（</span><span type="rt">にょさん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">宮</span><span type="rp">（</span><span type="rt">みや</span><span type="rp">）</span></span>もこの修業をしているであろうと御想像あそばすのであって、宮が出家をされてからは、以前にも変わってちょっとしたことにも消息を書いておつかわしになった。御寺に近い林から抜いた竹の子と、その辺の山で掘られた<span type="ruby"><span type="rb">自然薯</span><span type="rp">（</span><span type="rt">じねんじょ</span><span type="rp">）</span></span>が、新鮮な山里らしい感じを出しているのを快く<span type="ruby"><span type="rb">思召</span><span type="rp">（</span><span type="rt">おぼしめ</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「おぼしめ」は底本では「おほしめ」］</span>されて、宮へお贈りになるのであったが、いろいろなことをお書きになったあとへ、<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+春の野山は<span type="ruby"><span type="rb">霞</span><span type="rp">（</span><span type="rt">かすみ</span><span type="rp">）</span></span>に妨げられてあいまいな色をしていますが、その中であなたへと思ってこれを掘り出させました。少しばかりです。<lb />
+<lb />
+</span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+世を別れ入りなん道は<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">おく</span><span type="rp">）</span></span>るとも同じところを君も尋ねよ<lb />
+<lb />
+</span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+それを成就させるためには、より多く仏の<span type="ruby"><span type="rb">御弟子</span><span type="rp">（</span><span type="rt">みでし</span><span type="rp">）</span></span>として努めなければならないでしょう。<lb />
+</span>
+　法皇のお手紙を涙ぐみながら宮が読んでおいでになる所へ院がおいでになった。宮が平生に違って寂しそうに手紙を読んでおいでになり、漆器の<span type="ruby"><span type="rb">広蓋</span><span type="rp">（</span><span type="rt">ひろぶた</span><span type="rp">）</span></span>などが置かれてあるのを、院はお心に不思議に思召されたが、それは御寺から送っておつかわしになったものだった。御黙読になって院も身に<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んでお思われになるお手紙であった。もう今日か明日かのように老衰をしていながら、逢うことが困難なのを飽き足らず思うというような章もある。この同じ所へ来るようにとのお言葉は何でもない僧もよく言うことであるが、この作者は御実感そのままであろうとお思いになると、法皇はそのとおりに思召すであろう、寄託を受けた自分が不誠実者になったことでもお気づかわしさが倍加されておいでになるであろうのがおいたわしいと院はお思いになった。宮はつつましやかにお返事をお書きになって、お使いへは<span type="ruby"><span type="rb">青鈍</span><span type="rp">（</span><span type="rt">あおにび</span><span type="rp">）</span></span>色の<span type="ruby"><span type="rb">綾</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">一襲</span><span type="rp">（</span><span type="rt">ひとかさね</span><span type="rp">）</span></span>をお贈りになった。宮がお書きつぶしになった紙の<span type="ruby"><span type="rb">几帳</span><span type="rp">（</span><span type="rt">きちょう</span><span type="rp">）</span></span>のそばから見えるのを、手に取って御覧になると、力のない字で、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+うき世にはあらぬところのゆかしくて<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">そむ</span><span type="rp">）</span></span>く山路に思ひこそ入れ<lb />
+</span>
+<lb />
+　とある。<lb />
+「あなたを御心配していらっしゃる所へ、あらぬ山路へはいりたいようなことを言っておあげになっては悪いではありませんか」<lb />
+　こう院はお言いになるのであった。出家後は前にいても顔をなるべく見られぬようにと宮はしておいでになった。美しい額の髪、きれいな顔つきも、全く子供のように見えて非常に<span type="ruby"><span type="rb">可憐</span><span type="rp">（</span><span type="rt">かれん</span><span type="rp">）</span></span>なのを御覧になると、なぜこんなふうにさせてしまったかと後悔の念のつくられることで、罪に一歩ずつ近づく気があそばされるので、几帳だけを中の隔てには立てて、しかもうといふうには見せぬように院はしておいでになるのである。若君は<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">めのと</span><span type="rp">）</span></span>の所で寝ていたのであるが、目をさまして<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>い寄って来て、院のお<span type="ruby"><span type="rb">袖</span><span type="rp">（</span><span type="rt">そで</span><span type="rp">）</span></span>にまつわりつくのが非常にかわいく見られた。白い<span type="ruby"><span type="rb">羅</span><span type="rp">（</span><span type="rt">うすもの</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">支那</span><span type="rp">（</span><span type="rt">しな</span><span type="rp">）</span></span>の小模様のある紅梅色の上着を長く引きずって、子供の<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>自身は着物と離れ離れにして背中から後ろのほうへ寄っているようなことは小さい子の常であるが、可憐で色が白くて、<span type="ruby"><span type="rb">身丈</span><span type="rp">（</span><span type="rt">みたけ</span><span type="rp">）</span></span>がすんなりとして柳の木を削って作ったような若君である。頭は露草の<span type="ruby"><span type="rb">汁</span><span type="rp">（</span><span type="rt">しる</span><span type="rp">）</span></span>で染めたように青いのである。口もとが美しくて、上品な<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>がほのかに長いところなどは<span type="ruby"><span type="rb">衛門督</span><span type="rp">（</span><span type="rt">えもんのかみ</span><span type="rp">）</span></span>によく似ているが、彼はこれほどまでにすぐれた<span type="ruby"><span type="rb">美貌</span><span type="rp">（</span><span type="rt">びぼう</span><span type="rp">）</span></span>ではなかったのに、どうしてこんなのであろう、宮にも似ていない、すでに<span type="ruby"><span type="rb">気高</span><span type="rp">（</span><span type="rt">けだか</span><span type="rp">）</span></span>い<span type="ruby"><span type="rb">風采</span><span type="rp">（</span><span type="rt">ふうさい</span><span type="rp">）</span></span>の備わっている点を言えば、鏡に写る自分の子らしくも見られるのであるとお思いになって、院は若君をながめておいでになるのであった。立っても二足三足踏み出すほどになっているのである。この竹の子の置かれた<span type="ruby"><span type="rb">広蓋</span><span type="rp">（</span><span type="rt">ひろぶた</span><span type="rp">）</span></span>のそばへ、何であるともわからぬままで若君は近づいて行き、忙しく手で<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>き散らして、その一つには口をあてて見て投げ出したりするのを、院は見ておいでになって、<lb />
+「行儀が悪いね。いけない。あれをどちらへか隠させるといい。食い物に目をつけると言って、口の悪い女房は黙っていませんよ」<lb />
+　とお笑いになる。若君を御自身の<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>へお抱き取りになって、<lb />
+「この子の<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>がすばらしい。小さい子を私はたくさん見ないせいか、これくらいの時はただ赤ん坊らしい顔しかしていないものだと思っていたのだが、この子はすでに美しい貴公子の相があるのは危険なこととも思われる。内親王もいらっしゃる家の中でこんな人が大きくなっていっては、どちらにも心の苦労をさせなければならぬ日が必ず来るだろう。しかし皆のその遠い将来は私の見ることのできないものなのだ。『花の盛りはありなめど』（逢ひ見んことは命なりけり）だね」<lb />
+　こうお言いになって若君の顔を見守っておいでになった。<lb />
+「縁起のよろしくございませんことを、まあ」<lb />
+　と女房たちは言っていた。若君は歯茎から出始めてむずがゆい気のする歯で物が<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>みたいころで、竹の子をかかえ込んで<span type="ruby"><span type="rb">雫</span><span type="rp">（</span><span type="rt">しずく</span><span type="rp">）</span></span>をたらしながらどこもかも<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>み試みている。<lb />
+「変わった風流男だね」<lb />
+　と院は<span type="ruby"><span type="rb">冗談</span><span type="rp">（</span><span type="rt">じょうだん</span><span type="rp">）</span></span>をお言いになって、竹の子を離させておしまいになり、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span type="ruby"><span type="rb">憂</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>きふしも忘れずながらくれ竹の子は捨てがたき物にぞありける<lb />
+</span>
+<lb />
+　こんなことをお言いかけになるが、若君は笑っているだけで何のことであるとも知らない。そそくさと院のお<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>をおりてほかへ<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>って行く。月日に添って顔のかわいくなっていくこの人に院は愛をお感じになって、過去の不祥事など忘れておしまいになりそうである。この愛すべき子を自分が得る因縁の過程として意外なことも起こったのであろう。すべて前生の約束事なのであろうと<span type="ruby"><span type="rb">思召</span><span type="rp">（</span><span type="rt">おぼしめ</span><span type="rp">）</span></span>されることに少しの慰めが見いだされた。自分の宿命というものも必ずしも完全なものではなかった。幾人かの<span type="ruby"><span type="rb">妻妾</span><span type="rp">（</span><span type="rt">さいしょう</span><span type="rp">）</span></span>の中でも最も尊貴で、好配偶者たるべき人はすでに尼になっておいでになるではないかとお思いになると、今もなお誘惑にたやすく負けておしまいになった宮がお恨めしかった。<lb />
+　大将は<span type="ruby"><span type="rb">柏木</span><span type="rp">（</span><span type="rt">かしわぎ</span><span type="rp">）</span></span>が命の終わりにとどめた一言を心一つに思い出して何事であったかいぶかしいと院に申し上げて見たく思い、その時の御表情などでお心も読みたいと願っているが、<span type="ruby"><span type="rb">淡</span><span type="rp">（</span><span type="rt">うす</span><span type="rp">）</span></span>くほのかに想像のつくこともあるために、かえって思いやりのないお尋ねを持ち出して不快なお気持ちにおさせしてはならない、きわめてよい機会を見つけて自分は真相も知っておきたいし、故人が<span type="ruby"><span type="rb">煩悶</span><span type="rp">（</span><span type="rt">はんもん</span><span type="rp">）</span></span>していた話もお耳に入れることにしたいと常に思っていた。<lb />
+　物哀れな気のする夕方に大将は一条の宮をお<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねした。柔らかいしめやかな感じがまずして宮は今まで琴などを<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いておいでになったものらしかった。来訪者を長く立たせておくこともできなくて、人々はいつもの南の中の座敷へ案内した。今までこの辺の座敷に出ていた人が奥へいざってはいった<span type="ruby"><span type="rb">気配</span><span type="rp">（</span><span type="rt">けはい</span><span type="rp">）</span></span>が何となく覚えられて、<span type="ruby"><span type="rb">衣擦</span><span type="rp">（</span><span type="rt">きぬず</span><span type="rp">）</span></span>れの音と衣の香が散り、<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">えん</span><span type="rp">）</span></span>な気分を味わった。いつもの<span type="ruby"><span type="rb">御息所</span><span type="rp">（</span><span type="rt">みやすどころ</span><span type="rp">）</span></span>が出て来て柏木の話などを双方でした。自身の所は人出入りも多く幾人もの子供が始終家の中を騒がしくしているのに<span type="ruby"><span type="rb">馴</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>れている大将には御殿の中の静かさがことさら身にしむように思われた。以前よりもまた荒れてきたような気はするが、さすがに貴人の<span type="ruby"><span type="rb">住居</span><span type="rp">（</span><span type="rt">すまい</span><span type="rp">）</span></span>らしい品は備わっていた。植え込みの花草が虫の音に満ちた野のように乱れた夕明りのもとの夜を大将はながめていた。そこに出たままになっていた<span type="ruby"><span type="rb">和琴</span><span type="rp">（</span><span type="rt">わごん</span><span type="rp">）</span></span>を引き寄せてみると、それは律の調子に合わされてあって、よく弾き<span type="ruby"><span type="rb">馴</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>らされて人間の香に<span type="ruby"><span type="rb">染</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んだなつかしいものであった。こんな趣味の美しい女<span type="ruby"><span type="rb">住居</span><span type="rp">（</span><span type="rt">ずまい</span><span type="rp">）</span></span>に放縦な癖のついた男が来たなら、自制もできずに醜態を見せることがあるのであろう、とこんなことも心に思いながら大将は和琴を弾いていた。これは柏木が生前よく弾いていた楽器である。ある曲のおもしろい一節だけを弾いたあとで、大将は、<lb />
+「ことに和琴は名手というべき人でしたがね。忘れがたいあの人の芸術の妙味は宮様へお伝わりしているでしょうから、私はそれを承りたいのですが」<lb />
+　と言うと、<lb />
+「あの不幸のございましてからは、全くこうしたことに無関心におなりあそばしまして、お小さいころのお<span type="ruby"><span type="rb">稽古弾</span><span type="rp">（</span><span type="rt">けいこび</span><span type="rp">）</span></span>きと申し上げるほどのこともあそばしません。院の御前で内親王様がたにいろいろの芸事のお稽古をおさせになりましたころには、音楽の才はおありになるというような御批評をお受けあそばした宮様ですが、あれ以来はぼんやりとしておしまいになりまして、毎日なさいますことはお物思いだけでございますから、音楽も結局寂しさを慰めるものではないという気が私にいたされます」<lb />
+　と御息所は言う。<lb />
+「ごもっともなことですよ。『恋しさの限りだにある世なりせば』（つらきをしひて歎かざらまし）」<lb />
+　大将は<span type="ruby"><span type="rb">歎息</span><span type="rp">（</span><span type="rt">たんそく</span><span type="rp">）</span></span>をして楽器を前へ押しやった。<lb />
+「楽器に故人の音がついているかどうかが、私どもにわかりますほどお弾きになって見てくださいませ。みじめにめいっておりますわれわれの耳だけでも助けてくださいませ」<lb />
+「私よりも御縁の深い方のあそばすものにこそ故人の芸術のうかがわれるものがあるでしょうから、ぜひ宮様のを承りたい」<lb />
+　<span type="ruby"><span type="rb">御簾</span><span type="rp">（</span><span type="rt">みす</span><span type="rp">）</span></span>のそばに近く和琴を押し寄せて大将はこう言うのであるが、すぐに気軽く御承引あそばすものでないことを知っている大将は、しいても望みはしなかった。月が上ってきた。秋の澄んだ空を幾つかの<span type="ruby"><span type="rb">雁</span><span type="rp">（</span><span type="rt">かり</span><span type="rp">）</span></span>の通って行くことも宮のお心には孤独でないものとしておうらやましいことであろうと思われた。冷ややかな風の身にしむように吹き込んでくるのにお誘われになって、宮は十三絃をほのかにお<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>き鳴らしになるのであった。この情趣に大将の心はいっそう<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれて、より多くを望む思いから、<span type="ruby"><span type="rb">琵琶</span><span type="rp">（</span><span type="rt">びわ</span><span type="rp">）</span></span>を借りて<span type="ruby"><span type="rb">想夫恋</span><span type="rp">（</span><span type="rt">そうふれん</span><span type="rp">）</span></span>を弾き出した。<lb />
+「自信のあるものらしく見えますのが恥ずかしゅうございますが、この曲だけはごいっしょにあそばしてくだすってよい理由のあるものですから」<lb />
+　と大将は<span type="ruby"><span type="rb">御簾</span><span type="rp">（</span><span type="rt">みす</span><span type="rp">）</span></span>の奥へ合奏をお勧めするのであるが、他のものよりも多く<span type="ruby"><span type="rb">羞恥</span><span type="rp">（</span><span type="rt">しゅうち</span><span type="rp">）</span></span>の感ぜられる曲に宮はお手を出そうとあそばさない。ただ琵琶の音に深く身にしむ思いを覚えてだけおいでになる宮へ、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ことに<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>で言はぬを言ふにまさるとは人に恥ぢたる<span type="ruby"><span type="rb">気色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>とぞ見る<lb />
+</span>
+<lb />
+　と大将が言った時、宮はただ想夫恋の末のほうだけを合わせてお弾きになった。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+深き夜の哀ればかりは聞きわけどことよりほかにえやは言ひける<lb />
+</span>
+<lb />
+　ともお言いになるのであった。非常におもしろいお<span type="ruby"><span type="rb">爪音</span><span type="rp">（</span><span type="rt">つまおと</span><span type="rp">）</span></span>であって、おおまかな<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>の楽器ではあるが、芸の洗練された名手が熱心にお<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>きになるのであるから、すごい気分のような透徹した音を、美しく少しだけお聞かせになっておやめになったのを、大将は恨めしいまでに飽き足らず思うのであるが、<lb />
+「風流狂じみましたことをいろいろお目にかけてしまいました。秋の夜を無限におじゃまいたしておりましては故人からとがめられる気もいたしますから、もうお<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>をいたしましょう。また別の日に新しい気持ちで御訪問をいたします。この楽器をこのままにしてお待ちくださるでしょうか。意外なことが起こらないともかぎらない人生のことですから不安なのです」<lb />
+　などと言って、正面から恋を告げようとはしないのであるが、におわせるほどには言葉に盛って大将は帰ろうとした。<lb />
+「今夜の御風流は非難いたす者もございませんでしょう。昔の日の話をお補いくださいます程度にしかお聞かせくださいませんでしたのが残り多く思われてなりません」<lb />
+　と言い、御息所は大将への贈り物へ笛を添えて出した。<lb />
+「この笛のほうは古い伝統のあるものと伺っておりました。こんな女<span type="ruby"><span type="rb">住居</span><span type="rp">（</span><span type="rt">ずまい</span><span type="rp">）</span></span>に置きますことも、有名な楽器のために気の毒でございますから、お持ちくださいましてお吹きくださいませば、前駆の声に混じります音を楽しんで聞かせていただけるでしょう」<lb />
+　と御息所は言った。<lb />
+「つたない私がいただいてまいることは似合わしくないことでしょう」<lb />
+　こう言いながら大将は手に取って見た。これも始終柏木が使っていて、自分もこの笛を生かせるほどには吹けない。自分の愛する人に与えたいとこんなことを柏木の言うのも聞いたことのある大将であったから、故人の琴に対した時よりもさらに多くの感情が動いた。試みに大将は吹いてみるのであったが、<span type="ruby"><span type="rb">盤渉</span><span type="rp">（</span><span type="rt">ばんしき</span><span type="rp">）</span></span>調を半分ほど吹奏して、<lb />
+「故人を忍んで琴を弾きましたことはとにかく、これは晴れがましいまばゆい気がいたされます」<lb />
+　こう<span type="ruby"><span type="rb">挨拶</span><span type="rp">（</span><span type="rt">あいさつ</span><span type="rp">）</span></span>して立って行こうとする時に、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+露しげき<span type="ruby"><span type="rb">葎</span><span type="rp">（</span><span type="rt">むぐら</span><span type="rp">）</span></span>の宿にいにしへの秋に変はらぬ虫の声かな<lb />
+</span>
+<lb />
+　と御息所が言いかけた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+横笛の調べはことに変はらぬをむなしくなりし<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>こそ尽きせね<lb />
+</span>
+<lb />
+　返歌をしてもまだ去りがたくて大将がためらっているうち深更になった。<lb />
+　自宅に帰ってみると、もう格子などは皆おろされてだれも寝てしまっていた。一条の宮に恋をして親切がった訪問を常にするというようなことを、夫人へ言う者があったために、今夜のようにほかで夜ふかしをされるのが不愉快でならない夫人は、<span type="ruby"><span type="rb">良人</span><span type="rp">（</span><span type="rt">おっと</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">室内</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>へはいって来たことも知りながら寝入ったふうをしているものらしい。「<span type="ruby"><span type="rb">妹</span><span type="rp">（</span><span type="rt">いも</span><span type="rp">）</span></span>とわれといるさの山の山あららぎ」（手をとりふれぞや、かほまさるかにや）と美しい声で歌いながらはいって来た大将は、<lb />
+「どうしてこんなに早く戸を皆しめてしまったのだろう。引っ込み思案な人ばかりなのだね。こんな月夜の<span type="ruby"><span type="rb">景色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>をだれも見ようとしないなど」<lb />
+　と<span type="ruby"><span type="rb">歎息</span><span type="rp">（</span><span type="rt">たんそく</span><span type="rp">）</span></span>して格子を上げさせ、<span type="ruby"><span type="rb">御簾</span><span type="rp">（</span><span type="rt">みす</span><span type="rp">）</span></span>を巻き上げなどして縁に近く出て横たわっていた。<lb />
+「こんなよい晩に眠ってしまう人があるものですか。少し出ていらっしゃい。つまらないじゃありませんか」<lb />
+　などと夫人へ言うのであるが、おもしろく思っていない夫人は何とも言わないのである。子供が寝おびれて何か言っている声があちこちにして、女房もその辺の<span type="ruby"><span type="rb">部屋</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>にたくさん寝ている、このにぎわしい自宅の夜と、一条邸の夜とのあまりにも相違しているのを大将は思い比べていた。贈られた笛を吹きながら自分の去ったあとの御母子がどんなに寂しく月明の景色をながめておられるだろう、自分の弾いた楽器も宮の合わせてくだすったものもそのままで二人の女性にもてあそばれているであろう、御息所も和琴が<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">じょうず</span><span type="rp">）</span></span>なはずであるなどと思いやりながら寝ているのである。どうしてあんなにりっぱな宮様を<span type="ruby"><span type="rb">衛門督</span><span type="rp">（</span><span type="rt">えもんのかみ</span><span type="rp">）</span></span>は形式的に大事がっただけで、ほんとうに愛してはいなかったのであろうと大将は不思議に思われてならない。お顔を見て美しく想像したのと違ったところがあっては不幸な結果をもたらすことにもなろう、ほかのことでも空想をし過ぎたことには必然的に幻滅が起こるものであるなど思いながらも、大将は自身たち夫婦の仲を考えて、なんらの<span type="ruby"><span type="rb">見栄</span><span type="rp">（</span><span type="rt">みえ</span><span type="rp">）</span></span>も気どりも知らぬ少年少女の時に知った恋の今日まで続いて来た年月を数えてみては、夫人が強い<span type="ruby"><span type="rb">驕慢</span><span type="rp">（</span><span type="rt">きょうまん</span><span type="rp">）</span></span>な妻になっているのに無理でないところがあるとも思われた。<lb />
+　少し寝入ったかと思うと故人の衛門督がいつか病室で見た時の<span type="ruby"><span type="rb">袿</span><span type="rp">（</span><span type="rt">うちぎ</span><span type="rp">）</span></span>姿でそばにいて、あの横笛を手に取っていた。夢の中でも故人が笛に心を<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれて出て来たに違いないと思っていると、<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+「笛竹に吹きよる風のごとならば末の世長き<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>に伝へなん<lb />
+</span>
+<lb />
+　私はもっとほかに望んだことがあったのです」<lb />
+　と柏木は言うのである。望みということをよく聞いておこうとするうちに、若君が寝おびれて泣く声に目がさめた。この子が長く泣いて乳を吐いたりなどするので、<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">めのと</span><span type="rp">）</span></span>が起きて世話をするし、夫人も<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>を近くへ持って来させて、顔にかかる髪を耳の後ろにはさみながら子を抱いてあやしなどしていた。色白な夫人が胸を<span type="ruby"><span type="rb">拡</span><span type="rp">（</span><span type="rt">ひろ</span><span type="rp">）</span></span>げて泣く子に乳などをくくめていた。子供も色の白い美しい子であるが、出そうでない<span type="ruby"><span type="rb">乳房</span><span type="rp">（</span><span type="rt">ちぶさ</span><span type="rp">）</span></span>を与えて母君は慰めようとつとめているのである。大将もそのそばへ来て、<lb />
+「どう」<lb />
+　などと言っていた。夜の魔を追い散らすために米なども<span type="ruby"><span type="rb">撒</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>かれる騒がしさに夢の悲しさも紛らされてゆく大将であった。<lb />
+「この子は病気になったらしい。はなやかな方に夢中になっていらっしって、おそくなってから月をながめたりなさるって格子をあけさせたりなさるものだから、また<span type="ruby"><span type="rb">物怪</span><span type="rp">（</span><span type="rt">もののけ</span><span type="rp">）</span></span>がはいって来たのでしょう」<lb />
+　と若々しい顔をした夫人が恨むと、<span type="ruby"><span type="rb">良人</span><span type="rp">（</span><span type="rt">おっと</span><span type="rp">）</span></span>は笑って、<lb />
+「変にこじつけて私の罪にするのですね。私が格子を上げさせなかったらなるほど物怪ははいる道がなかったろうね。おおぜいの人のお母様になったあなただから、たいした考え方ができるようになったものだ」<lb />
+　こう言っても妻をながめる大将の美しい目つきはさすがに恥ずかしがって、続けて恨みも言わずに、<lb />
+「あちらへいらっしゃい。人が見ます。見苦しい」<lb />
+　とだけ言った。明るい<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>に顔を見られるのをいやがるのも<span type="ruby"><span type="rb">可憐</span><span type="rp">（</span><span type="rt">かれん</span><span type="rp">）</span></span>な妻であると大将は思った。若君は夜通しむずかって寝なかった。<lb />
+　大将は夢を思うと贈られた横笛ももてあまされる気がした。故人の強い愛着の<span type="ruby"><span type="rb">遺</span><span type="rp">（</span><span type="rt">のこ</span><span type="rp">）</span></span>った品がやりたく思う人の手に行っていぬものらしい。しかも宮の御もとへ置きたく思う理由もない。それは笛が女の吹奏を待つものでないからである。生きておれば何とも思わぬことが臨終の際にふと気がかりになったり、ふと恋しく心が残ったりすることで幽魂が浄土へは向かわず宙宇に迷うと言われている。そうであるから人間は何事にも執着になるほどの関心を持ってはならないのであると、こんなことを思って大納言のために<span type="ruby"><span type="rb">愛宕</span><span type="rp">（</span><span type="rt">おたぎ</span><span type="rp">）</span></span>の寺で<span type="ruby"><span type="rb">誦経</span><span type="rp">（</span><span type="rt">ずきょう</span><span type="rp">）</span></span>をさせ、またそのほか故人と縁故のある寺でも同じく経を読ませた。この笛を歴史的価値のある物として、好意で自分へ贈った人に対しては、それがどんな尊いことであっても寺へ納めたりしてしまうことも不本意なことであると思って、大将は六条院へ参った。<lb />
+　その時院は姫君の<span type="ruby"><span type="rb">女御</span><span type="rp">（</span><span type="rt">にょご</span><span type="rp">）</span></span>の御殿へ行っておいでになった。三歳ぐらいになっておいでになる三の宮を女一の宮と同じように紫の<span type="ruby"><span type="rb">女王</span><span type="rp">（</span><span type="rt">にょおう</span><span type="rp">）</span></span>がお養いしていて、対へお置き申してあるのであるが、大将が行くと走っておいでになって、<lb />
+「大将さん、私を抱いてあちらの御殿へつれて行ってちょうだい」<lb />
+　うやうやしい態度で、そしてお小さい方らしくお言いになると、大将は笑って、<lb />
+「いらっしゃいませ。けれど女王様のお<span type="ruby"><span type="rb">御簾</span><span type="rp">（</span><span type="rt">みす</span><span type="rp">）</span></span>の前をどうしてお通りいたしましょう。私よりもあなた様がお困りになりましょう」<lb />
+　こう言いながらすわった<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>へ宮を抱いておのせすると、<lb />
+「だれも見ないよ。いいよ。私顔を隠して行くから」<lb />
+　宮が<span type="ruby"><span type="rb">袖</span><span type="rp">（</span><span type="rt">そで</span><span type="rp">）</span></span>を顔へお当てになるのもおかわいらしくて大将はそのまま寝殿のほうへお抱きして行った。<lb />
+　こちらの御殿のほうでも院が宮の若君と二の宮がいっしょに遊んでおいでになるのをかわいく思ってながめておいでになるのであった。かどのお座敷の前で三の宮をお<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ろししたのを、二の宮がお見つけになって、<lb />
+「私も大将に抱いていただくのだ」<lb />
+　とお言いになると、三の宮が、<lb />
+「いけない、私の大将だもの」<lb />
+　と言って<span type="ruby"><span type="rb">伯父</span><span type="rp">（</span><span type="rt">おじ</span><span type="rp">）</span></span>君の上着を引っぱっておいでになる。院が御覧になって、<lb />
+「お行儀のないことですよ。お<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>のお付きの大将を御自分のものにしようとお争いになったりしてはなりませんよ。三の宮さんはよくわからずやをお言いになりますね。いつでもお兄様に反抗をなさいますね」<lb />
+　とお<span type="ruby"><span type="rb">訓</span><span type="rp">（</span><span type="rt">さと</span><span type="rp">）</span></span>しになる。大将も笑って、<lb />
+「二の宮様はずいぶんお兄様らしくて、お小さい方によくお譲りになったり、思いやりのあることをなさいます。大人でも恥ずかしくなるほどでございます」<lb />
+　こんなことを言っていた。院は微笑を顔にお浮かべになって、お<span type="ruby"><span type="rb">小言</span><span type="rp">（</span><span type="rt">こごと</span><span type="rp">）</span></span>はお言いになったものの、どちらもかわいくてならぬというような表情をしておいでになった。<lb />
+「<span type="ruby"><span type="rb">公卿</span><span type="rp">（</span><span type="rt">こうけい</span><span type="rp">）</span></span>をこんな失礼な所へ置いてはおけない。対のほうへ行くことにしよう」<lb />
+　とお言いになって、立とうとあそばされるのであるが、宮たちがまつわってお離れにならない。宮の若君は宮たちと同じに扱うべきでないとお心の中では<span type="ruby"><span type="rb">思召</span><span type="rp">（</span><span type="rt">おぼしめ</span><span type="rp">）</span></span>されるのであるが、女三の尼宮が心の鬼からその差別待遇をゆがめて解釈されることがあってはと、優しい御性質の院はお思いになって、若君をもおかわいがりになり、大事にもあそばすのであった。大将はこの若君をまだよく今までに顔を見なかったと思って、<span type="ruby"><span type="rb">御簾</span><span type="rp">（</span><span type="rt">みす</span><span type="rp">）</span></span>の間から顔を出した時に、花の<span type="ruby"><span type="rb">萎</span><span type="rp">（</span><span type="rt">しお</span><span type="rp">）</span></span>れた枝の落ちているのを手に取って、その<span type="ruby"><span type="rb">児</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>に見せながら招くと、若君は走って来た。<span type="ruby"><span type="rb">薄藍</span><span type="rp">（</span><span type="rt">うすあい</span><span type="rp">）</span></span>色の<span type="ruby"><span type="rb">直衣</span><span type="rp">（</span><span type="rt">のうし</span><span type="rp">）</span></span>だけを上に着ているこの小さい人の色が白くて光るような美しさは、皇子がたにもまさっていて、きわめて清らかな感じのする子であった。ある疑問に似たものを持つ思いなしか、<span type="ruby"><span type="rb">眸</span><span type="rp">（</span><span type="rt">まな</span><span type="rp">）</span></span>ざしなどにはその人のよりも<span type="ruby"><span type="rb">聡慧</span><span type="rp">（</span><span type="rt">そうけい</span><span type="rp">）</span></span>らしさが強く現われては見えるが、切れ長な目の目じりのあたりの<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">えん</span><span type="rp">）</span></span>な所などはよく<span type="ruby"><span type="rb">柏木</span><span type="rp">（</span><span type="rt">かしわぎ</span><span type="rp">）</span></span>に似ていると思われた。美しい口もとの笑う時にことさらはなやかに見えることなどは自分の心に潜在するものがそう思わせるのかもしらぬが、院のお目には必ずお思い合わせになることがあろうと考えられるほど似ていると、大将は異母弟を見ながらも、いよいよ院が柏木に対してどう思っておいでになるかを早く知りたくなった。宮がたは自然に<span type="ruby"><span type="rb">気高</span><span type="rp">（</span><span type="rt">けだか</span><span type="rp">）</span></span>くお見えになるところはあるが、普通のきれいな子供とさまで変わってはおいでにならないのに、若君は貴族の子らしい品格のほかに、何ものにも優越した美の備わっているのを、大将は比べて思いながら、哀れなことである、自分の推測が真実であれば柏木の父の大臣は故人を切に思う心から、柏木の子供であると名のって来る者の出て来ないことに失望して、それだけの形見をすら不幸な親に残してくれなかったと言って泣きこがれているのであるから、知らせないでいるのは罪作りなことになろうと考えられて来るうちにまた、そんなことはありうることではないと否定もされる。ますます不可解な問題であると大将は思った。性質もなつかしく優しい子で、大将に<span type="ruby"><span type="rb">馴染</span><span type="rp">（</span><span type="rt">なじ</span><span type="rp">）</span></span>んでそばを離れず遊んでいるのもかわいく思われた。<lb />
+　院が対のほうへおいでになったのでお供をして行って大将がお話をかわしているうちに日も暮れかかってきた。昨夜一条の宮をお<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねした時のあちらの様子などを大将が語るのを院は微笑して聞いておいでになった。故人に関することが出てくる時には言葉もおはさみになって同情して聞いておいでになるのであったが、<lb />
+「想夫恋を少しお合わせになったということなどは非常におもしろくて文学的ではあるが、しかし自分の意見として言えば女は異性を知らず知らず興奮させるような結果までを考慮してどこまでも避けねばならぬことだと思うがね、故人への<span type="ruby"><span type="rb">情誼</span><span type="rp">（</span><span type="rt">よしみ</span><span type="rp">）</span></span>で御親切にし始めたのであれば、君はどこまでもきれいな心でお<span type="ruby"><span type="rb">交際</span><span type="rp">（</span><span type="rt">つきあい</span><span type="rp">）</span></span>をしなければならないよ。あやまちのないようにね。苦しい結果を引き起こすようなことのないようにするのがどちらのためにもいいことだろうと思う」<lb />
+　と院はお言いになった。大将は心に、このお言葉は承服されない、人をお教えになるのには賢いことを仰せられても、御自身がこの場合に処して御冷静でありうるであろうかと思っていた。<lb />
+「あやまちなどの起こりようはありません。人生の無常に直面されたかたがたを宗教的な気持ちで慰めて差し上げる義務があるように思いましてお<span type="ruby"><span type="rb">交際</span><span type="rp">（</span><span type="rt">つきあい</span><span type="rp">）</span></span>を始めたのですから、すぐまたその友情から離れますようなことをしましては、かえって普通の失敗した野心家らしく世間から思われるだろうと考えますから、いつまでも友情は捨てないつもりでおります。想夫恋をお<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>きになりましたことで御非難のお言葉がございましたが、あちらが進んでなすったことであればそれは決しておもしろい話ではございませんが、私の参ります前から弾いておいでになりました琴を、ただ少しばかり私の想夫恋に合わせてくださいましたのですから、非常にその場の情景にかなってよかったのでございます。どんなこともその女性次第だと思います。御年齢などもきらきらとする若さを少し越えていらっしゃいます方が、好色漢のような態度をお見せするはずもない私に、親しい友情が生じまして、私の願ったことが聞いていただけたというようなことは恥ずかしいこととは思われません。御観察申し上げるところでは非常に女らしい優しい御性質のようです」<lb />
+　こんな話をしていた大将は、かねて願っている機会が到来したように思い、少し院のお座へ近づいて<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>の夢の話をした。ものも言わずに聞いておいでになった院のお心の中にはお思い合わせになることがあった。<lb />
+「その笛は私の所へ置いておく因縁があるものなのだよ。昔は<span type="ruby"><span type="rb">陽成</span><span type="rp">（</span><span type="rt">ようぜい</span><span type="rp">）</span></span>院の<span type="ruby"><span type="rb">御物</span><span type="rp">（</span><span type="rt">ぎょぶつ</span><span type="rp">）</span></span>だったものなのだがね。私の<span type="ruby"><span type="rb">叔父</span><span type="rp">（</span><span type="rt">おじ</span><span type="rp">）</span></span>のお<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くなりになった<span type="ruby"><span type="rb">式部卿</span><span type="rp">（</span><span type="rt">しきぶきょう</span><span type="rp">）</span></span>の宮が秘蔵しておいでになったのを、あの<span type="ruby"><span type="rb">衛門督</span><span type="rp">（</span><span type="rt">えもんのかみ</span><span type="rp">）</span></span>は子供の時から笛がことによくできたものだから、宮のお<span type="ruby"><span type="rb">邸</span><span type="rp">（</span><span type="rt">やしき</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">萩</span><span type="rp">（</span><span type="rt">はぎ</span><span type="rp">）</span></span>の宴のあった時に贈り物としてお与えになったのだ。御婦人がたは深いお考えもなしに君へ贈られたのだろう」<lb />
+　院はこうお言いになるのであった。御心中ではまず手もとへ置こう、死後にもとの持ち主の譲らせたい人は分明であると<span type="ruby"><span type="rb">思召</span><span type="rp">（</span><span type="rt">おぼしめ</span><span type="rp">）</span></span>された。<span type="ruby"><span type="rb">聡明</span><span type="rp">（</span><span type="rt">そうめい</span><span type="rp">）</span></span>な大将にはもう想像ができていて、今持ち合わせてもいるのであろうとお思いになるのであった。すべてを察しになった院のお顔色を見てはいっそう大将は打ち出しにくくなるのであるが、ぜひ伺ってみたい気持ちがあって、ただこの瞬間に心へ浮かんできたというようにして、思い出し思い出し申すように言う、<lb />
+「もう衛門督が<span type="ruby"><span type="rb">終焉</span><span type="rp">（</span><span type="rt">しゅうえん</span><span type="rp">）</span></span>に近いころでございました。見舞いにまいりました私に、いろいろ遺言をいたしました中に、六条院様に対して深い罪を感じているということを繰り返し繰り返し言ったのでございましたが、ただ御感情を害していると聞きましただけでは、私によくわからないのでしたが、どんなことだったのでございましょう。ただ今もまだよくわからないのでございます」<lb />
+　自分が感じたように大将はあの秘密の<span type="ruby"><span type="rb">全貌</span><span type="rp">（</span><span type="rt">ぜんぼう</span><span type="rp">）</span></span>を知っているのであると院はお悟りになったのであるが、くわしくお語りになるべきことでもないので、しばらくは突然いぶかしい話を聞くというような御表情を見せておいでになったあとで、<lb />
+「そんなに死んで行く時にまで人の気にかけるようなことはいつ自分が言ったりしたりしたのだろう。私にもわからない、思い出せないよ。いずれ静かな時を見て君の夢に関する細かな説明はしてあげよう。夢の話を夜はしてならないものだとか、迷信だろうが女の人などは言うものだよ」<lb />
+　と院は言っておいでになって、あの不思議な問題にはあまり触れようとあそばさないのを見て、大将は自分の言い出したということがお気に入らないのではないかと、きまり悪く思ったのである。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

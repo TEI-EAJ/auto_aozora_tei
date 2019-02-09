@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>手紙</title>
+        <author>坂本龍馬</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-08-27">作成</resp><resp /><note>
+<lb />
+底本：「龍馬の手紙」宮地佐一郎、講談社学術文庫、講談社<lb />
+　　　2003（平成15）年12月10日第1刷発行<lb />
+　　　2008（平成20）年9月19日第7刷発行<lb />
+※底本本文の末尾に、（坂本龍馬記念写真帖）とあります。<lb />
+※底本手紙の写真のキャプションに、（東京　中村鋼子氏蔵）とあります。<lb />
+※丸括弧付きの語句は、底本編集時に付け加えられたものです。<lb />
+※直筆の手紙の折り返しに合わせた改行は、省いて入力しました。<lb />
+入力：Yanajin33<lb />
+校正：Hanren<lb />
+<date when="2010-08-27">2010年8月27日</date>作成<lb />
+<date when="2011-06-17">2011年6月17日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>Yanajin33</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>Hanren</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>手紙</title><author>坂本龍馬</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+私しが土佐に帰りたりときくと、<span type="ruby"><span type="rb">幕吏</span><span type="rp">（</span><span type="rt">ゑどやく</span><span type="rp">）</span></span>が大<span type="ruby"><span type="rb">恐</span><span type="rp">（</span><span type="rt">おそ</span><span type="rp">）</span></span>れぞ、はやきおもみ申候。四方の浪人らがたずねてきて、どふもおかしい。近日京ニ後藤庄次郎どのおらんと思ひ候。其時ハ伏見の寺田やでやどかり、伏見奉行をおそれさしてやろふとぞんじおり候。<lb />
+何かさしあげ度候得ども、<span type="ruby"><span type="rb">鳥渡</span><span type="rp">（</span><span type="rt">（ちよつと）</span><span type="rp">）</span></span>これなく白<span type="ruby"><span type="rb">がね</span><span type="rp">（</span><span type="rt">（金巾）</span><span type="rp">）</span></span><span type="ruby"><span type="rb">き</span><span type="rp">（</span><span type="rt">（ママ）</span><span type="rp">）</span></span><span type="ruby"><span type="rb">ひとき</span><span type="rp">（</span><span type="rt">（一匹）</span><span type="rp">）</span></span>さしあげ候。<lb />
+御めしものニ被<span rend="kaeriten" rendition="sub">レ</span>成候得バ、ありがたし。かしく。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">四月七日<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">龍馬</span></span>
+<span rend="jisage_3" rendition="div" style="margin-left: 3em">乙様</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

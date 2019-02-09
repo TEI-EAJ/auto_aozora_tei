@@ -1,0 +1,877 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>野槌の百</title>
+        <author>吉川英治</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2013-01-23">作成</resp><resp /><note>
+<lb />
+底本：「治郎吉格子　名作短編集（一）」吉川英治歴史時代文庫、講談社<lb />
+　　　1990（平成2）年9月11日第1刷発行<lb />
+　　　2003（平成15）年4月25日第8刷発行<lb />
+初出：「週刊朝日　夏季特別号」<lb />
+　　　1932（昭和7）年<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：門田裕志<lb />
+校正：川山隆<lb />
+<date when="2013-01-23">2013年1月23日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>川山隆</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>野槌の百</title><author>吉川英治</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+　チチ、チチ、と<span type="ruby"><span type="rb">沢千禽</span><span type="rp">（</span><span type="rt">さわちどり</span><span type="rp">）</span></span>の声に、春はまだ、<span type="ruby"><span type="rb">峠</span><span type="rp">（</span><span type="rt">とうげ</span><span type="rp">）</span></span>はまだ、寒かった。木の芽頃の<span type="ruby"><span type="rb">疎林</span><span type="rp">（</span><span type="rt">そりん</span><span type="rp">）</span></span>にすいて見える山々の<span type="ruby"><span type="rb">襞</span><span type="rp">（</span><span type="rt">ひだ</span><span type="rp">）</span></span>には、あざやかに雪の<span type="ruby"><span type="rb">斑</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>が白い。<lb />
+「あなた。――あなた」<lb />
+　お稲は、力なく、前に行く人をよんだ。<lb />
+　かの女の十間ほど前を、三五兵衛は黙々と、あるいて行くのだった。<lb />
+　振り向いて、<span type="ruby"><span type="rb">棘</span><span type="rp">（</span><span type="rt">とげ</span><span type="rp">）</span></span>のある眼が、<lb />
+「なんだ？」<lb />
+　と、<span type="ruby"><span type="rb">邪慳</span><span type="rp">（</span><span type="rt">じゃけん</span><span type="rp">）</span></span>にいった。<lb />
+　生まれてまだ六月か七月ぐらいな<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>を背に、つかれた足を、弱々と、引きずって来たお稲には、その十間の幅さえ、追いつくのに努力だった。ことに、よほど急ぐ飛脚か、世間をかくれて渡る人間でもなければ、滅多に通らない甲州の裏街道――<span type="ruby"><span type="rb">大菩薩</span><span type="rp">（</span><span type="rt">だいぼさつ</span><span type="rp">）</span></span>から小丹波を越えるというのは、<span type="ruby"><span type="rb">空身</span><span type="rp">（</span><span type="rt">からみ</span><span type="rp">）</span></span>でも、女には、初めから無理な道なのである。<lb />
+「すこし、休ませて……。この児にも、乳をやらなければ」<lb />
+「<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の暮までに、<span type="ruby"><span type="rb">青梅</span><span type="rp">（</span><span type="rt">おうめ</span><span type="rp">）</span></span>までつきたいが」<lb />
+「もうここまで来れば……」<lb />
+　と、お稲は、道しるべの石を読んで、そのまま、草の上へ、坐ってしまった。<lb />
+　<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>を下ろして、かの女は、白い胸の肌をひろげた。三五兵衛は、明らさまな陽の下で、女の黒い乳くびと、それをむさぼるように吸う嬰児の顔を、ちらと見て、<lb />
+「<span type="ruby"><span type="rb">焦</span><span type="rp">（</span><span type="rt">じ</span><span type="rp">）</span></span>れってえ、旅だなあ」<lb />
+　と、暗くなった。<lb />
+　背なか合せに、どっさりと、草に腰をおろして、<lb />
+「こんな調子じゃ、いつ江戸表へ着くことやら」<lb />
+「人のせいみたい」<lb />
+　と、お稲は、恨むような<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">まな</span><span type="rp">）</span></span>ざしで、<lb />
+「これは、誰の子ですえ？」<lb />
+「知れたことをいうな」<lb />
+「自分が、無理にいうことをきかせた女房――自分が、勝手に生ませた子を邪魔にばかりしてさ――」<lb />
+「まったく、邪魔だ。おれはなぜ、こんな者を、持って歩かなければならないのかと思う」<lb />
+「今さら後悔したところで、二人とも、どうにもならない話でしょう。――子が<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">で</span><span type="rp">）</span></span>きたから、捨てようとしても、こん度は、こっちで捨てられやしないからね。一生涯、離れやしないから……」<lb />
+「どうでもなれ」<lb />
+　三五兵衛は吐き出すようにつぶやいて、雲を見ていた。<lb />
+　かれは、女のことばが、いちいち、村上賛之丞のかわりになって、<span type="ruby"><span type="rb">棘々</span><span type="rp">（</span><span type="rt">とげとげ</span><span type="rp">）</span></span>しく、自分に、責め、<span type="ruby"><span type="rb">逆</span><span type="rp">（</span><span type="rt">さか</span><span type="rp">）</span></span>らって来るように思われてならない。<lb />
+（返り討ちだ。おれは正しく、賛之丞に、返り討ちになっている――）<lb />
+　こう考えると、三五兵衛は、たまらなく、<span type="ruby"><span type="rb">忌々</span><span type="rp">（</span><span type="rt">いまいま</span><span type="rp">）</span></span>しかった。顔を見ても、むかむかしてくる。お稲も子どもも。<lb />
+　また、この子にしても、果たして、自分の子か、賛之丞の子か、それも疑問だ。鮎川の<span type="ruby"><span type="rb">仁介</span><span type="rp">（</span><span type="rt">にすけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">郡内</span><span type="rp">（</span><span type="rt">ぐんない</span><span type="rp">）</span></span>部屋へ泊ったのが、ちょうど、去年の寒い頃で、お稲は、その時、<span type="ruby"><span type="rb">奪</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>った女だった。――世話になっている仁介の眼をしのんで、用心棒の賛之丞と、よくない恋を盗んでいるのを知って、自分が、<span type="ruby"><span type="rb">無態</span><span type="rp">（</span><span type="rt">むたい</span><span type="rp">）</span></span>に、力ずくで、連れ出してしまった淫婦なのである。<lb />
+（賛之丞の奴、あとで、どんなにベソを<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いているだろう）<lb />
+　と、想像して、かれは、かれ特有な執ッこい復讐感を満足させると共に、一面にはお稲の若さを、淫婦性を、思うさま、もてあそんで来たのであったが、子どもが――と女に、からだの異状を告げられて初めて、ぎょッと寒いものを感じた。<lb />
+　が――追いついた沙汰ではない。悔んでみたところで、こればかりは、安成三五兵衛にも、どうにもならない。<lb />
+　悪縁だ。悪縁だ。<lb />
+　江戸に<span type="ruby"><span type="rb">知己</span><span type="rp">（</span><span type="rt">しるべ</span><span type="rp">）</span></span>がある。せめて、子どもの育つまで、そこにでも――と女にいって、一年ばかり<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">もぐ</span><span type="rp">）</span></span>っていた信州路から、江戸の空へ、さまよい出た途中なのである。<lb />
+「ね、お前さん――」<lb />
+　乳を、ふくませながら、お稲はくどく――神経質に、男の気ぶりを見つめて、<lb />
+「飽いたんでしょう、もう私に。――でも私は、死ぬまで離れやしないからね」<lb />
+「うるせえ」<lb />
+　と、三五兵衛は、<span type="ruby"><span type="rb">癇</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>をあげて、<lb />
+「<span type="ruby"><span type="rb">鬱々</span><span type="rp">（</span><span type="rt">くさくさ</span><span type="rp">）</span></span>だ、執ッこい」<lb />
+「江戸へ行っても、他人の家へ、私だけ預けて――なんて嫌なこった。だから、断っておくんですよ」<lb />
+　三五兵衛は、果てしがないと感じて、黙ってしまった。そして、笛ぶくろから、かれの愛笛――<span type="ruby"><span type="rb">八寒嘯</span><span type="rp">（</span><span type="rt">はっかんしょう</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">銘</span><span type="rp">（</span><span type="rt">めい</span><span type="rp">）</span></span>のあるそれを抜いて、たまらない重苦しさから、逃げようとした。<lb />
+　昼の雲が――春の<span type="ruby"><span type="rb">紺碧</span><span type="rp">（</span><span type="rt">こんぺき</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">斑</span><span type="rp">（</span><span type="rt">まだら</span><span type="rp">）</span></span>にしている白い雲が明るく、まばゆく、うごいている。<lb />
+　三五兵衛は、頬のそげた顔を、少し仰向けた。そして、ひゅらり、ひゅらり、と横笛をふきだした。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+　――どんな気でいるんだろう？<lb />
+　お稲は、男の吹く笛に、からかわれるような気がした。血が<span type="ruby"><span type="rb">焦々</span><span type="rp">（</span><span type="rt">いらいら</span><span type="rp">）</span></span>して、それを<span type="ruby"><span type="rb">引</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>っ<span type="ruby"><span type="rb">奪</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>くって、二つに折ってやりたいほどな心に駆られた。<lb />
+「アア、いやだ！」<lb />
+　と、耳の穴へ、指をかって、<lb />
+「よして下さいよッ、笛なんか。――馬鹿馬鹿しい」<lb />
+　と、口ぎたなくいった。<lb />
+　でも、三五兵衛が、やめないでいると、お稲は、眼のいろさえ、<span type="ruby"><span type="rb">嶮</span><span type="rp">（</span><span type="rt">けわ</span><span type="rp">）</span></span>しくして、<lb />
+「やめないの」<lb />
+「…………」<lb />
+「やめなければ――」<lb />
+　と、横から、笛をつかんだ。<lb />
+　三五兵衛は、<span type="ruby"><span type="rb">眉間</span><span type="rp">（</span><span type="rt">みけん</span><span type="rp">）</span></span>をよせて、<lb />
+「何をするんだ」<lb />
+「やめないからさ」<lb />
+「つらいのか」<lb />
+「私は、この笛の音をきくとぞっとする」<lb />
+「そうだろう。てめえの前の<span type="ruby"><span type="rb">情夫</span><span type="rp">（</span><span type="rt">おとこ</span><span type="rp">）</span></span>――村上賛之丞も、この音をきくと、身ぶるいをしたものだ。てめえが、嫌うのもむりはねえ」<lb />
+「あなたは、鬼みたいな人だ、鬼、鬼……」<lb />
+「そうだ、鬼よりも血が冷たかろう。孤独な人間は、こうなるのが当りまえ。――それも、<span type="ruby"><span type="rb">原因</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>はといえば、賛之丞のためだった。美貌で陰険な、あの賛之丞のやつが、おれの妹を<span type="ruby"><span type="rb">惑</span><span type="rp">（</span><span type="rt">まど</span><span type="rp">）</span></span>わして、おれの屋敷をみだしさえしなければ――」<lb />
+　と、もう遠い過去になる追憶に、ふと、つよい憎悪と、恨みを、ひとみに<span type="ruby"><span type="rb">焚</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>いて、<lb />
+「妹も死なぬ。父も死にはせなかった。従って、この安成三五兵衛も、当りまえな<span type="ruby"><span type="rb">扶持取</span><span type="rp">（</span><span type="rt">ふちとり</span><span type="rp">）</span></span>ぐらしに当りまえな人間の月日を国元で安穏にすごしていたにちげえねえ。――それを、旅から旅へ、<span type="ruby"><span type="rb">垢</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>の落ちねえ浪人<span rend="sesame_dot" rendition="em">ごろ</span>、好きな笛を<span type="ruby"><span type="rb">糧</span><span type="rp">（</span><span type="rt">かて</span><span type="rp">）</span></span>にして、きょうは<span type="ruby"><span type="rb">秩父</span><span type="rp">（</span><span type="rt">ちちぶ</span><span type="rp">）</span></span>、あすは<span type="ruby"><span type="rb">御嶽</span><span type="rp">（</span><span type="rt">おんたけ</span><span type="rp">）</span></span>と、宮祭の笛吹きにまで身を落してこう妙に<span type="ruby"><span type="rb">拗</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>てしまったのも、持って生れた根性ばかりではない。あいつのためだ。賛之丞がまいた種だ」<lb />
+「じゃなぜ、お前さんは、鮎川部屋であの人に会った時、<span type="ruby"><span type="rb">敵</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>なら、敵といって、討ってしまわなかったんですか」<lb />
+　と、お稲は、詰問するような、するどいことばで、<lb />
+「それを、それを……」<lb />
+　と、口惜しそうに、涙ぐんだ。肩で息をつきながら、憎さにみちたひとみを向けて、<lb />
+「――何ですえ、このざまは！　<span type="ruby"><span type="rb">敵</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>の女を、無理に、自分のものにして、それが何で面白い？　……。犬畜生も同じことだ、武士らしくもない」<lb />
+「なんとでも、わめけ」<lb />
+　三五兵衛は、ほろ苦く笑い消して、<lb />
+「おれは、あいつを――あの弱い、男っぷりのいい、賛之丞という<span type="ruby"><span type="rb">敵</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>を、めったに、殺すようなことはしない。生かしておいて、おれのうけた苦痛だけを、生涯に返してやるのだ。それが、笛吹三五兵衛の敵討だ。――敵討以上の仕返しなのだ」<lb />
+「アア、帰りたい。この子さえなければ。この子さえ」<lb />
+　と、お稲は、身もだえして、<lb />
+「どうしているだろう。あの人は」<lb />
+「いつでも、暇をやるから、帰るがいい。てめえとの仲を裂いて、賛之丞を苦しませてやることは、もう十分にすんでいる。かえって、今じゃこっちの足手まとい、帰ってくれれば有難いのだ」<lb />
+「誰がッ――」<lb />
+　と、お稲はもう、挑戦的に、<lb />
+「帰るもんか、死ぬまでも。こんどは、こっちでお前さんを、苦しめてやる番なのだ。おぼえておいでよ」<lb />
+「――だが、かあいそうなのは生れたその子」<lb />
+「鬼みたいな<span type="ruby"><span type="rb">父親</span><span type="rp">（</span><span type="rt">てておや</span><span type="rp">）</span></span>をもって」<lb />
+「それだって、誰の子かわかるものか。だんだん、賛之丞に似てくるようじゃねえか」<lb />
+「寝ても、起きても、乳をのませる間も、わたしが賛之丞さんの事を、忘れないで、いるせいでしょうよ」<lb />
+「いったな」<lb />
+「いいましたとも」<lb />
+「どれ……」<lb />
+　と笛ぶくろを、帯にはさんで、三五兵衛は先にあるき出した。<lb />
+　どうあろうと、形だけは、夫婦でありながら、<span type="ruby"><span type="rb">敵</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>以上に、<span type="ruby"><span type="rb">呪</span><span type="rp">（</span><span type="rt">のろ</span><span type="rp">）</span></span>いあっているこの<span type="ruby"><span type="rb">男女</span><span type="rp">（</span><span type="rt">ふたり</span><span type="rp">）</span></span>が、とぼとぼと、<span type="ruby"><span type="rb">二俣尾</span><span type="rp">（</span><span type="rt">ふたまたお</span><span type="rp">）</span></span>から<span type="ruby"><span type="rb">青梅宿</span><span type="rp">（</span><span type="rt">おうめじゅく</span><span type="rp">）</span></span>をぬけて通ったのは、あくる日だった。<lb />
+　<span type="ruby"><span type="rb">宿</span><span type="rp">（</span><span type="rt">しゅく</span><span type="rp">）</span></span>を出て、裏街道をだらだらと下がってくると、もう、海みたいな武蔵野が、ながめられる。峠とは、陽気もまるでちがって、桃も<span type="ruby"><span type="rb">杏花</span><span type="rp">（</span><span type="rt">あんず</span><span type="rp">）</span></span>も、散っていた。道ばたに<span type="ruby"><span type="rb">繋</span><span type="rp">（</span><span type="rt">つな</span><span type="rp">）</span></span>がれているたくさんな馬の群れが、さかんに草を食っていた。<lb />
+　すると、その附近の崖の蔭から、<lb />
+「あ、旦那。そこへ行く旦那え」<lb />
+　と、誰か、ふいに声をかけた。<lb />
+「え？」<lb />
+　と、ふり向くと、<lb />
+「何か知らねえが、お腰の物が、落ちそうですぜ」<lb />
+　と、三五兵衛へ、注意した。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+　帯をなでまわして、<lb />
+「お、笛が」<lb />
+　と気がついた三五兵衛は、陽なたで、笑いながらこっちを見ていた男へ、<lb />
+（親切に――）と眼で、会釈を送った。（いえ――）と、向うでも。<lb />
+　<span type="ruby"><span type="rb">二十歳</span><span type="rp">（</span><span type="rt">はたち</span><span type="rp">）</span></span>をちょっと出たぐらいな男で、百姓とも見えず、堅気でもなかった。<span type="ruby"><span type="rb">小肥</span><span type="rp">（</span><span type="rt">こぶと</span><span type="rp">）</span></span>りで色はくろいが、<span type="ruby"><span type="rb">棗</span><span type="rp">（</span><span type="rt">なつめ</span><span type="rp">）</span></span>みたいな丸っこい眼に、たくましい体とは不釣合な愛嬌をたたえている。三五兵衛は、その口にくわえている<span type="ruby"><span type="rb">煙管</span><span type="rp">（</span><span type="rt">きせる</span><span type="rp">）</span></span>を見て、<lb />
+「火を一つ」<lb />
+　と、自分も、たばこ入れを出して、寄って行った。<lb />
+　だいぶ後になったお稲が来るのを、そこに待ち合せながら、三五兵衛は見まわして、<lb />
+「若いの。たいそう馬が集まっているな」<lb />
+「へい、あしたは、八王子に馬市が立ちますんで、甲州の<span type="ruby"><span type="rb">博労</span><span type="rp">（</span><span type="rt">ばくろう</span><span type="rp">）</span></span>が、たくさん上って来ております」<lb />
+「馬市か、道理で」<lb />
+「旦那あ、大菩薩から山越えでございましたか、やっぱり、馬市をご見物で？」<lb />
+「いや」と笑って――「馬にゃ用はねえ、江戸へゆくのだ」<lb />
+「でも、年に一度の<span type="ruby"><span type="rb">大市</span><span type="rp">（</span><span type="rt">おおいち</span><span type="rp">）</span></span>、折角ですから一晩のばして、見ておいでなさいまし、江戸の者なら、なおのこと、いい土産話になりますぜ」<lb />
+「たいそう勧めるな。そちも、その馬市へゆく博労か」<lb />
+「いえ、あっしゃ、<span type="ruby"><span type="rb">鍛冶屋</span><span type="rp">（</span><span type="rt">かじや</span><span type="rp">）</span></span>の百というもんで」<lb />
+「鍛冶屋がなんで馬の番をしておる」<lb />
+「馬の番人じゃございません。こう、ぼんやりしているようですが、実あ旦那」と、百は後ろの<span type="ruby"><span type="rb">藪</span><span type="rp">（</span><span type="rt">やぶ</span><span type="rp">）</span></span>の奥へ煙管をさして、<lb />
+「――博労衆が前景気に、<span type="ruby"><span type="rb">賭場</span><span type="rp">（</span><span type="rt">とば</span><span type="rp">）</span></span>をひらいておりますので、もし八州の手先でも来てはと、こうして張番をたのまれているんです」<lb />
+「ほ、手なぐさみを、やっているのか」<lb />
+「ふだん、馬具の金輪や馬蹄の仕事をもらっている、おとくい様なので、嫌たあ言えません。――聞えるでしょう、つぼの音が」<lb />
+「む、なかなか、さかんなものらしい」<lb />
+「市を目あてに諸国から入りこんでいる長脇差も、<span type="ruby"><span type="rb">交</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>じっているので、荒っぽくなります。それに、野天ばくちでもあしたの<span type="ruby"><span type="rb">的</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>があるので、胴元がいくらでも駒をまわしますからね」<lb />
+　木蔭から、かすかに、金の音がもれてくる。三五兵衛は、心をうごかした。江戸へ出ても、すぐ落着きを得られればよいが、もしかすると、早速にも、女づれ乳呑児づれで、路頭にも迷うような、たよりない、<span type="ruby"><span type="rb">懐中</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>だった。<lb />
+「百、ちょっと覗いてもいいか」<lb />
+「さ、どうぞ」と先に起ちあがって――「ご案内いたしましょう」<lb />
+「なに、少しは、やくざな飯も食ったから、賭場の様子は分っている。それよりは、後からおれの連れが来るんだが……」<lb />
+「へ。どんなお方で」<lb />
+「<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>を負ぶった足弱な女だ。ここを通ったら呼びとめて、しばらく、その辺で、休んでいろといってくれ」<lb />
+　いい残して、かれは、藪の中へはいって行った。<span type="ruby"><span type="rb">旅神楽</span><span type="rp">（</span><span type="rt">たびかぐら</span><span type="rp">）</span></span>の道楽者――<span type="ruby"><span type="rb">太鼓師</span><span type="rp">（</span><span type="rt">かわし</span><span type="rp">）</span></span>、つづみ師、などと一緒に、やくざもし尽した笛吹三五兵衛である。さいを持てば、という自信があったし、相手は博労、甘いと見ていた。<lb />
+　と、やがて、お稲の通るすがたを見かけたので、百は呼びとめて、三五兵衛の<span type="ruby"><span type="rb">言伝</span><span type="rp">（</span><span type="rt">ことづて</span><span type="rp">）</span></span>をした。かの女は、いい幸いのように、背中の<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>をおろして、<lb />
+「それは<span type="ruby"><span type="rb">賑</span><span type="rp">（</span><span type="rt">にぎ</span><span type="rp">）</span></span>やかなことでしょうね」<lb />
+　と、百の語る、馬市の話などを、うわのそらに聞いていた。<lb />
+　百は、子どもが好きとみえて、のぞき込みながら、<lb />
+「女の子で。そうですか、もう<span type="ruby"><span type="rb">満</span><span type="rp">（</span><span type="rt">まる</span><span type="rp">）</span></span>一つに近いにしては痩せている。乳がよく出ないので？　そいつあいけねえ、かあいそうに」<lb />
+　などと、他愛なく、<lb />
+「どれ、疲れているだろう。あっしが少し抱っこして、あげやしょう」<lb />
+「どうも……」と、お稲はすぐ、かれの手にあずけた。まったく、半日でも、<span type="ruby"><span type="rb">一刻</span><span type="rp">（</span><span type="rt">いっとき</span><span type="rp">）</span></span>でも、子どものない体になってみたいと思っている程なので、<lb />
+「笑ってるぜ」<lb />
+「ほんに、嬰児でも、子の好きなお方は、よく知っているとみえて」<lb />
+「だが、こんなのを背なかに負ぶって、おめえは、よく裏街道を越えて来なすったね」<lb />
+「ひどい山で、難儀をいたしました」<lb />
+「そうだろうとも」と、百は、<span type="ruby"><span type="rb">宥</span><span type="rp">（</span><span type="rt">いたわ</span><span type="rp">）</span></span>るような眼で、足をさすっているお稲をながめた。<lb />
+「――男でも、小丹波や大菩薩を越えてくる者はめったにない。何だってまた、こんな道を……」<lb />
+「甲州路は、すこし<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>りがあるものですから」<lb />
+　何か、ふかい訳がありそうなので、百は、口をつぐんだが、じっと、嬰児の顔を見て、<lb />
+「こんな可愛いやつが一人あったらいいな、どんなに、おふくろの慰みになるかも知れねえ」<lb />
+　お稲は、百の独り言をふしぎそうに聞いた。こっちは、捨ててしまいたいとさえ思っているのに――と<span type="ruby"><span type="rb">冗戯</span><span type="rp">（</span><span type="rt">からかい</span><span type="rp">）</span></span>に、<lb />
+「上げましょうか」<lb />
+　と、いうと、百は顔をあかくして、<lb />
+「人の子じゃ」<lb />
+　と笑い消した。<lb />
+　<span type="ruby"><span type="rb">鬢太</span><span type="rp">（</span><span type="rt">びんた</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">火傷</span><span type="rp">（</span><span type="rt">やけど</span><span type="rp">）</span></span>ッ<span type="ruby"><span type="rb">禿</span><span type="rp">（</span><span type="rt">ぱげ</span><span type="rp">）</span></span>の一つもあるか、<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ひたい</span><span type="rp">）</span></span>に向う傷でも持たなければ、<span type="ruby"><span type="rb">鍛冶屋</span><span type="rp">（</span><span type="rt">かじや</span><span type="rp">）</span></span>職人らしくないが、百は、その鍛冶職でいて、ひどく、<span type="ruby"><span type="rb">無垢</span><span type="rp">（</span><span type="rt">むく</span><span type="rp">）</span></span>な、<span type="ruby"><span type="rb">悪摺</span><span type="rp">（</span><span type="rt">わるず</span><span type="rp">）</span></span>れの見えない男だった。自体野天ばくちの立番でもしようという男に、女から話しかけられて、顔を赤くするなんていう意気地なしは少ない。そのかわりに、こんなのが一本気というやつで、もしその女にかかるか、なにかの間違いに怒ったらひどい事だろうと、お稲は思った。<lb />
+「おや、他人の手は知っている。あんばいがちがうとみえて、ベソを掻きだしたよ」<lb />
+「ありがとう、さ、もうこっちへ……」<lb />
+　と、お稲が、手をのばして子を抱きとった時だった。さいの音、駒の音が、時々するほか、ひそりとしていた<span type="ruby"><span type="rb">藪</span><span type="rp">（</span><span type="rt">やぶ</span><span type="rp">）</span></span>の奥で、ふいに、<lb />
+「いかさまッ！」<lb />
+　と、するどい声がした。<lb />
+　とたんに、蜂の巣でも突いたように、わっと、大勢の空気が<span type="ruby"><span type="rb">動揺</span><span type="rp">（</span><span type="rt">どよ</span><span type="rp">）</span></span>めいた。ふた声、三声、殺気ばしったことばが、そこで、つんざいたかと思うと、<lb />
+「<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>ッちまえ」<lb />
+　と、木の折れる烈しい音や、藪の<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">そよ</span><span type="rp">）</span></span>ぎといっしょに、七、八名の<span type="ruby"><span type="rb">大刀</span><span type="rp">（</span><span type="rt">どす</span><span type="rp">）</span></span>に追われ立った笛吹三五兵衛のすがたが、崖を向うへおどり越えて、鹿のように、先へ走って行くのが見えた。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">四</span></span></span>
+<lb />
+「<span type="ruby"><span type="rb">二本差</span><span type="rp">（</span><span type="rt">りゃんこ</span><span type="rp">）</span></span>と思って油断していたら、ひどい食わせ者だ」<lb />
+「ちょんのまに、いかさまで、四十両ほどせしめやがった」<lb />
+「うまく、捕まえて来りゃいいが」<lb />
+「なぶり殺しに、のめしてくれなくっちゃ、元も子も<span type="ruby"><span type="rb">奪</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>られちまった俺なんざ、一番に腹の虫が、おさまらねえ」<lb />
+　<span type="ruby"><span type="rb">博労</span><span type="rp">（</span><span type="rt">ばくろう</span><span type="rp">）</span></span>たちは、そこを崩れて、十二、三人ほど<span type="ruby"><span type="rb">一群</span><span type="rp">（</span><span type="rt">ひとむれ</span><span type="rp">）</span></span>になって、がやがやと藪を出て来たが、<lb />
+「おい、見や……」<lb />
+　と、お稲の方へ、<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>をさして、<lb />
+「<span type="ruby"><span type="rb">垢抜</span><span type="rp">（</span><span type="rt">あかぬ</span><span type="rp">）</span></span>けてるぜ」<lb />
+「ム。この辺の女じゃねえな」<lb />
+　と、いやしい眼つきで、ささやき合った。<lb />
+　そして、一人が、百の耳のそばで、<lb />
+「ありゃ、何処のだい？」<lb />
+　と、訊ねた。<lb />
+　百が、何げなく、今、<span type="ruby"><span type="rb">賭場</span><span type="rp">（</span><span type="rt">とば</span><span type="rp">）</span></span>から追われて行った浪人の連れの者だと話すと、博労たちは<span type="ruby"><span type="rb">険</span><span type="rp">（</span><span type="rt">けわ</span><span type="rp">）</span></span>しい眼をお稲にあつめて、<lb />
+「こいつあいい<span type="ruby"><span type="rb">人質</span><span type="rp">（</span><span type="rt">ひとじち</span><span type="rp">）</span></span>を置いて行きゃあがったぜ。おい、御新造――」<lb />
+　と、立ちかけたかの女の肩を突いて、そのまわりを取り巻いた。<lb />
+「おめえの亭主か、何か知らねえが、あのいかさま浪人めに、俺ッちは、四十両も捲きあげられたんだ。あいつが、捕まって来れや、呑んだ駒を吐き出させるが、さもねえ時にゃ、おめえは人質だ、そこをうごくこたあならねえぞ」<lb />
+「そうだ、この<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>なら、四十両にゃ、売れるだろう」<lb />
+「あしたの市でか」<lb />
+「まさか」<lb />
+　と、どっと笑って、<lb />
+「コブ付じゃ」<lb />
+「なに、そんな物は、少しばかり金をつけてやれば、どこへでも、片がつく」<lb />
+　野性にみちた多数の眼である。じろじろと、無遠慮に、女の<span type="ruby"><span type="rb">襟</span><span type="rp">（</span><span type="rt">えり</span><span type="rp">）</span></span>あしを見、横顔をのぞき、曲線をなでまわして、騒いでいたが、先に、三五兵衛を追って行った長脇差のうち、二人が、息をはずませて、<lb />
+「<span type="ruby"><span type="rb">忌々</span><span type="rp">（</span><span type="rt">いまいま</span><span type="rp">）</span></span>しい畜生だ」<lb />
+　と、さけびながら、そこへ帰って来た。<lb />
+　この辺の土地を、いわゆる縄張りと称して渡世している<span type="ruby"><span type="rb">羽村</span><span type="rp">（</span><span type="rt">はむら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">留</span><span type="rp">（</span><span type="rt">とめ</span><span type="rp">）</span></span>に、青梅の勘三という男だった。<lb />
+「――おうっ、親分」<lb />
+　博労たちは振向いて、<lb />
+「どうしました、相手の奴あ」<lb />
+「面目ねえが、逃げられちまった。その上に、<span type="ruby"><span type="rb">福生</span><span type="rp">（</span><span type="rt">ふっさ</span><span type="rp">）</span></span>の若えやつが一人、うしろから、浪人の腰帯にしがみついたところを、抜き浴びせに、腕の付け根から、こう食らって――」<lb />
+「えっ、<span type="ruby"><span type="rb">斬</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>られたんですか」<lb />
+「もろに、右の片腕を落されてしまったんで、今、みんなして、福生の部屋まで<span type="ruby"><span type="rb">担</span><span type="rp">（</span><span type="rt">かつ</span><span type="rp">）</span></span>いで行った」<lb />
+「いかさまは食うし、渡世人は一人、片輪にやられるし、何てえざまだ」<lb />
+「きっと、この仕返しはしてやる」<lb />
+「親分、それにゃ、ここにうめえ人質がある。そいつを<span type="ruby"><span type="rb">囮</span><span type="rp">（</span><span type="rt">おとり</span><span type="rp">）</span></span>に、あしたの市へ、あの浪人を<span type="ruby"><span type="rb">誘</span><span type="rp">（</span><span type="rt">おび</span><span type="rp">）</span></span>き寄せちゃどうだろう。――もし野郎がその<span type="ruby"><span type="rb">策</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>にのらなかったら、女を、売りとばして、いかさまでふん<span type="ruby"><span type="rb">奪</span><span type="rp">（</span><span type="rt">だく</span><span type="rp">）</span></span>られた分け前と、福生の若え者の治療代に当ててしまえばいいでしょう」<lb />
+「なるほど、踏めるな」<lb />
+　と、勘三は、お稲の襟あしから<span type="ruby"><span type="rb">褄先</span><span type="rp">（</span><span type="rt">つまさき</span><span type="rp">）</span></span>を、眼でなで廻して、<lb />
+「野郎を釣る<span type="ruby"><span type="rb">囮</span><span type="rp">（</span><span type="rt">おとり</span><span type="rp">）</span></span>にするとは、どうするんだ」<lb />
+「女を、あした馬市で、<span type="ruby"><span type="rb">入札</span><span type="rp">（</span><span type="rt">いれふだ</span><span type="rp">）</span></span>にして、売りとばすということを、いいふらすんで」<lb />
+「面白かろう、じゃ羽村の、後で相談にゆくが、おめえ預かっておくか」<lb />
+「<span rend="sesame_dot" rendition="em">こぶ</span>つきじゃ、有難くねえが、つれて行こう」<lb />
+「だが、途中であの<span type="ruby"><span type="rb">二本差</span><span type="rp">（</span><span type="rt">りゃんこ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">蜥蜴</span><span type="rp">（</span><span type="rt">とかげ</span><span type="rp">）</span></span>に、<span type="ruby"><span type="rb">掠奪</span><span type="rp">（</span><span type="rt">よこど</span><span type="rp">）</span></span>りされちゃ、あぶ蜂だ」と、十人ばかりの博労が、羽村の留と、お稲のまわりを取りかこんで、近道の<span type="ruby"><span type="rb">団栗坂</span><span type="rp">（</span><span type="rt">どんぐりざか</span><span type="rp">）</span></span>を下って送っていった。<lb />
+　ほかの<span type="ruby"><span type="rb">博労</span><span type="rp">（</span><span type="rt">ばくろう</span><span type="rp">）</span></span>連中も、馬をひいて、八王子街道の方へ、思い思いに。<lb />
+　百は、ひとり、ぼんやりと<span type="ruby"><span type="rb">鬱</span><span type="rp">（</span><span type="rt">ふさ</span><span type="rp">）</span></span>いでいたが、やがて、かれも裏宿の地金屋から<span type="ruby"><span type="rb">菰</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>づつみのあら鐘をうけ取ると、それを肩に、<span type="ruby"><span type="rb">田無</span><span type="rp">（</span><span type="rt">たなし</span><span type="rp">）</span></span>の家へ帰った。<lb />
+　黒髪をわけたような<span type="ruby"><span type="rb">青芒</span><span type="rp">（</span><span type="rt">あおすすき</span><span type="rp">）</span></span>の武蔵野を<span type="ruby"><span type="rb">縫</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>う一すじの青梅街道を、三ツ木、上宿と、二里ばかりあるくと、田無だった。百の家は、そのわずかな戸数の部落からさえ離れた野中の一軒家だが、がっしりとした建てかたで、母屋の炉のまえには、棟木もはしらも、真っ黒な仕事場の――<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-93/1-93-84.png" rend="gaiji" rendition="img" source="※(「韋＋備のつくり」、第3水準1-93-84)" />土間</span><span type="rp">（</span><span type="rt">ふいごどま</span><span type="rp">）</span></span>をかかえている。<lb />
+　そこの戸をあけて、百は、<lb />
+「おっ母、今けえったぜ」<lb />
+　と、肩の物といっしょに、胸の中の<span type="ruby"><span type="rb">鬱々</span><span type="rp">（</span><span type="rt">くさくさ</span><span type="rp">）</span></span>まで、束にして、おっぽり出すように、がちゃんと、土間の地面へ大きな音をひびかせた。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">五</span></span></span>
+<lb />
+　裏で、桶風呂の<span type="ruby"><span type="rb">焚口</span><span type="rp">（</span><span type="rt">たきぐち</span><span type="rp">）</span></span>をいぶしていた母のおしげは、ふり向いて、<lb />
+「百かよ？　……」<lb />
+「おう、おらだい」<lb />
+「おそかったのう」<lb />
+「おっ母は、鳥眼だから、はやく、けえろうと思ってたが、なじみの博労衆に、たのまれごとをされて、つい、いやといえず……」<lb />
+「なんじゃ」<lb />
+「市の景気で、野ばくちが押っ開かれたんじゃ。それで張番をたのまれちまって」<lb />
+「ばか者が！　これから先、そんなことを頼まれるでねえぞよ」<lb />
+「おらは、ばくちが嫌いだが、つい、<span type="ruby"><span type="rb">地鉄</span><span type="rp">（</span><span type="rt">じがね</span><span type="rp">）</span></span>を仕入れる金がすこしばかり欲しかったものだから」<lb />
+「<span type="ruby"><span type="rb">銭</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>なんかもらって、もし、八州のお旦那にでも捕まったら、ぬしゃあ、どうする」<lb />
+　と、いつにない烈しい母の叱言だった。<lb />
+　百は、あたまを掻いて、<lb />
+「もうやめた。きょう限り、頼まれても、そんなことはやらねえにきめたから、安心さつしゃい」<lb />
+「だが、くたびれたろう。湯にはいれ」<lb />
+「眼のわるいくせにして、おっ母はまた、自分で薪を割って焚いたのか」<lb />
+「だって、われは帰らず、われが帰ってから、風呂よ、飯よでは、<span type="ruby"><span type="rb">焦</span><span type="rp">（</span><span type="rt">じ</span><span type="rp">）</span></span>れったかろうが」<lb />
+「そんな、滅茶をして、またこの間みたいに、<span type="ruby"><span type="rb">鉈</span><span type="rp">（</span><span type="rt">なた</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">怪我</span><span type="rp">（</span><span type="rt">けが</span><span type="rp">）</span></span>をするといけねえぜ」と、百は、帯を解いて、<lb />
+「日が暮れて、おっ母が、手さぐりをしはじめると、おらあ、はらはらする」<lb />
+　着物をぬぐと、百は、そのあら<span type="ruby"><span type="rb">鉄</span><span type="rp">（</span><span type="rt">がね</span><span type="rp">）</span></span>みたいな、黒い、たくましい体を、風呂桶へいっぱいに沈めて、<lb />
+「わ……いい湯だ」<lb />
+「ぬるくはねえかよ」<lb />
+「ちょうどいい……ああいい気もちだ。すまねえなあ、おふくろ」<lb />
+「なにを、こくだ、改まって」<lb />
+「いや、ほんとに、すまねえよ。おらあ、いつも肚ン中じゃ手をあわせていたんだが、折角、年期をこめた師匠に破門をくって、馬の<span type="ruby"><span type="rb">金沓</span><span type="rp">（</span><span type="rt">かなぐつ</span><span type="rp">）</span></span>だの、百姓の<span type="ruby"><span type="rb">鋤</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">鍬</span><span type="rp">（</span><span type="rt">くわ</span><span type="rp">）</span></span>ばかり、テンカン、テンカンたたいていちゃいつまで楽はさせられねえ」<lb />
+「だから、ぬしも、ばくち打の張番などに頼まれて、日を暮していねえで、一生懸命に、腕をみがくこっちゃぞ」<lb />
+「そうだ、そうしなければ、<span type="ruby"><span type="rb">武蔵住安重</span><span type="rp">（</span><span type="rt">むさしのじゅうやすしげ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">田無</span><span type="rp">（</span><span type="rt">たなし</span><span type="rp">）</span></span>の刀屋敷といわれたこの家に住んでご先祖様に申しわけがねえ」<lb />
+「そうとも……」<lb />
+　おしげは、燃えいぶる<span type="ruby"><span type="rb">竈</span><span type="rp">（</span><span type="rt">かまど</span><span type="rp">）</span></span>のまえにうつ向いていた。もう、泣いているのである。<lb />
+　上手とはいわれなかったが、とにかく、先代までは田無の刀鍛冶で相当に暮していたのが、かあいい百之介の代になって百姓鍛冶に落ちぶれてしまったのが、何よりも、おしげの<span type="ruby"><span type="rb">老先</span><span type="rp">（</span><span type="rt">おいさき</span><span type="rp">）</span></span>を暗くしていた。<lb />
+（先代さえ、早死をしなければ……）<lb />
+　と、ことあるごとに、ぐちを思う。<lb />
+　弟子はないし先代の<span type="ruby"><span type="rb">相槌</span><span type="rp">（</span><span type="rt">あいづち</span><span type="rp">）</span></span>だった村安は、上方へ行ってしまったし、やむなく百を、十歳の時から、江戸で四谷正宗といわれる新刀<span type="ruby"><span type="rb">鍛冶</span><span type="rp">（</span><span type="rt">かじ</span><span type="rp">）</span></span>では名人の山浦<span type="ruby"><span type="rb">清麿</span><span type="rp">（</span><span type="rt">きよまろ</span><span type="rp">）</span></span>の手もとへ、仕込に預けたのだった。<lb />
+　一時は、師匠の清麿からも、<lb />
+（見こみがある）<lb />
+　と、手紙で、折紙をつけられたので、よろこんでいたが、八年目に、<lb />
+（破門する）<lb />
+　と、突然、田無の家へ帰されてしまった。<lb />
+　何の罪で？<lb />
+　なんの理由で？<lb />
+　百にも、おしげにも、<span type="ruby"><span type="rb">理</span><span type="rp">（</span><span type="rt">わけ</span><span type="rp">）</span></span>がわからなかったのである。兄弟子たちは、出てゆく百へうしろ指をさして、<span type="ruby"><span type="rb">手癖</span><span type="rp">（</span><span type="rt">てくせ</span><span type="rp">）</span></span>がわるいとささやき合った。<lb />
+　――後で聞けば、なんでも、その年の正月のこと。かれが、師匠の清麿について、<span type="ruby"><span type="rb">本阿弥</span><span type="rp">（</span><span type="rt">ほんあみ</span><span type="rp">）</span></span>の招きで、両国の万八楼へ行った帰り途に、破門をくう、<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">わざわい</span><span type="rp">）</span></span>があったらしい。<lb />
+　清麿は酒によわい。その日は、悪酔をしたらしく、万八を出るとすぐ、苦しいといって、柳橋の<span type="ruby"><span type="rb">鼓師</span><span type="rp">（</span><span type="rt">つづみし</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">桜間</span><span type="rp">（</span><span type="rt">さくらま</span><span type="rp">）</span></span>八重吉の家へ、あわてて寄って、<span type="ruby"><span type="rb">吐食</span><span type="rp">（</span><span type="rt">もど</span><span type="rp">）</span></span>したり、薬をもらったりして、<span type="ruby"><span type="rb">一刻</span><span type="rp">（</span><span type="rt">いっとき</span><span type="rp">）</span></span>ほど、横になっていた。<lb />
+　ちょうど、柳橋の<span type="ruby"><span type="rb">妓</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>たちが、稽古に来あわせていて、そのうちの一人、二人は、清麿のなじみらしく、しきりに、介抱していてくれるらしいので、百は、べつな部屋で餅を食べて待っていたが、家に帰ってから気がついてみると、その日、本阿弥から取った百両の金が、清麿のふところから、<span type="ruby"><span type="rb">紛失</span><span type="rp">（</span><span type="rt">なく</span><span type="rp">）</span></span>なっていた。<lb />
+　<span type="ruby"><span type="rb">鼓師</span><span type="rp">（</span><span type="rt">つづみし</span><span type="rp">）</span></span>の桜間へ、使いを出すやら、清麿が自身で、万八へ、問いあわせに行くやら、三日ほど、ごたついていたが、その果てに、なんの理由もいわず、百は、破門された――師匠は、口に出さないが、疑われたのである。百は感じたが、十八だ、生意気ざかりだ、反抗もある。<lb />
+（馬鹿にしてやがる。下手でも、田無の<span type="ruby"><span type="rb">安重</span><span type="rp">（</span><span type="rt">やすしげ</span><span type="rp">）</span></span>の子だい。弟子を、盗ッ<span type="ruby"><span type="rb">人</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>あつかいにする師匠の家なんぞには、こっちで、いてやるものか）<lb />
+　と、帰って来た。<lb />
+　だが、すぐ後悔したことは諸国の<span type="ruby"><span type="rb">刀鍛冶</span><span type="rp">（</span><span type="rt">かたなかじ</span><span type="rp">）</span></span>ぜんたいへ、破門廻状がまわった事で、もうそうなると刀鍛冶では、飯がくえない。他へ弟子につくことも、勝手に刀を<span type="ruby"><span type="rb">鍛</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>つこともできないのが<span type="ruby"><span type="rb">掟</span><span type="rp">（</span><span type="rt">おきて</span><span type="rp">）</span></span>だ。<lb />
+（なぜ、あの時に、立派にいい開きを）<lb />
+　と、年のたつにつれて、悔いはふかく、なんとか腕をみがいて、それを詫びに――と思いながら、ついに修業ばかりの六、七年は、草ぶかい野鍛冶の土間に、<span type="ruby"><span type="rb">馬沓</span><span type="rp">（</span><span type="rt">うまぐつ</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">鍬</span><span type="rp">（</span><span type="rt">くわ</span><span type="rp">）</span></span>をたたいて、すぎてしまった百だった。<lb />
+　――湯から上がると、おしげは、<lb />
+「ぬしの好きな、山芋を<span type="ruby"><span type="rb">摺</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>っておいたぞよ」<lb />
+　と、鳥眼の不自由さを、膝あるきに、膳や飯びつを、さぐって出した。<lb />
+　あわてて着物をかえながら、百は、<lb />
+「あ、飯は」<lb />
+「食べんのか」<lb />
+「ちょっと、これからまた、用達に出かけなけれや……」<lb />
+　――淋しそうに、<lb />
+「また、出てゆくのかい」<lb />
+「すまねえが、おっ母――」と、膝をついて「この二、三日だけ、仕事を休ましてもらいてえ。それからは、きっと、一生懸命にもやるし……」<lb />
+　と、いつになく口重く、<lb />
+「それから、もう一つ、頼みがあるが、きいてくれるかい」<lb />
+「<span type="ruby"><span type="rb">母子</span><span type="rp">（</span><span type="rt">おやこ</span><span type="rp">）</span></span>の仲に改まることはねえだにこの子は、妙に今夜は、変なことばかりいうの」<lb />
+「ほかじゃねえが、眼もわるい、身体もわるい、おっ母に、いつまで、台所を這いずらしておくなあ、見るたびに、おらあ辛くってしようがねえ」<lb />
+「だから、この間から話のある、井草村の娘ッ子を、嫁にもらってくれればいいに」<lb />
+「あの井草のお清は、おら、どうあっても、嫌えだもの」<lb />
+「こんな、野鍛冶の貧乏屋へ、ぬしが、<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>ごのみなぞしたら、誰が来べえ」<lb />
+「ところが、来る者があるだよ」<lb />
+「えッ……」と、おしげは膝をはいだして、<lb />
+「百。ぬしゃあ、女をこしらえたで、それを家へ、入れてくれというのじゃろう」<lb />
+「そ、そんなんじゃねえよ、おっ母」<lb />
+　と、百は手を振って――<lb />
+「今にわかる」<lb />
+　と、<span type="ruby"><span type="rb">戸外</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>へ出て行った。<lb />
+　その晩、かれの母は、とうとう、明け方まで帰らなかった百のことを考えて、<lb />
+（あの子が好きな女であって、こんな<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>を、承知で来てくれる者ならば、嫌な、飯盛女や、売女であろうと……）<lb />
+　と、さびしい、老いのあきらめをつけていた。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">六</span></span></span>
+<lb />
+　馬の背なかが、波のようにならんでいた。<lb />
+　八王子の宿はずれから、大楽寺へまで、その馬市の<span type="ruby"><span type="rb">雑鬧</span><span type="rp">（</span><span type="rt">ざっとう</span><span type="rp">）</span></span>と、<span type="ruby"><span type="rb">喧騒</span><span type="rp">（</span><span type="rt">けんそう</span><span type="rp">）</span></span>がつづいている。あて込みのかん酒屋や、古着屋や、<span type="ruby"><span type="rb">香具師</span><span type="rp">（</span><span type="rt">やし</span><span type="rp">）</span></span>や、あらゆる浮世のほこりが、<span type="ruby"><span type="rb">咽</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>せるように立っていた。<lb />
+「さ、入れた、入れた、札を――」<lb />
+　その二日の市が終って、崩れだした夕方である。<lb />
+　大楽寺の境内に、なにか、真っ黒に人影が、かたまっていた。洗い髪に、うす化粧をした二十四、五の美人を、薬師堂の縁がわに立たせて、青梅の勘三と、羽村の<span type="ruby"><span type="rb">留</span><span type="rp">（</span><span type="rt">とめ</span><span type="rp">）</span></span>が、そのわきに腰をおろしていた。<span type="ruby"><span type="rb">乾児</span><span type="rp">（</span><span type="rt">こぶん</span><span type="rp">）</span></span>らしいのが、二、三十名は、たしかに、その附近に立っていた。そして、三人の若い者が、<span type="ruby"><span type="rb">入札</span><span type="rp">（</span><span type="rt">にゅうさつ</span><span type="rp">）</span></span>の紙と、矢立と、札箱を持ち廻って、<lb />
+「こう、入れてはねえのか。<span type="ruby"><span type="rb">刻</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>が、きたから、札を開けるぜ」<lb />
+　と、呶鳴っている。<lb />
+　羽村の留は、縁がわに立って、厚ぼったく取り巻いた諸国の<span type="ruby"><span type="rb">博労</span><span type="rp">（</span><span type="rt">ばくろう</span><span type="rp">）</span></span>や、仲買や、旅人たちを見わたして、<lb />
+「かりにも、鶏や、猫たあちがう女一匹、それを<span type="ruby"><span type="rb">入札</span><span type="rp">（</span><span type="rt">いれふだ</span><span type="rp">）</span></span>にして、売りとばすといやあ、お立会の旦那がたの中には、さだめしこちとらを、無情な奴、畜生同様と、おさげすみもござんしょうが、これには仔細のあることで……」<lb />
+　と、<span type="ruby"><span type="rb">一昨日</span><span type="rp">（</span><span type="rt">おととい</span><span type="rp">）</span></span>のばくち場一件を、誇張して、いい触らした後、<lb />
+「そういう次第なんで、相手の二本差が、ここへ名乗って出て来れば、相当な、あいさつをして、事の始末をするつもりでござんしたが、<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>っさらいも同様ないかさま浪人、いくら待っていても、来る様子はねえ。――で、好むところではござんせんが、やむを得ずに、ここで女を入札にかけて、高値のお人へお渡し申します。――後の苦情という御心配もござんしょうが、それは、ここに立会っている青梅の勘三、<span type="ruby"><span type="rb">福生</span><span type="rp">（</span><span type="rt">ふっさ</span><span type="rp">）</span></span>の部屋の者一同、ならびにかく申す羽村の留が、たいこ判を押して、後々一切、おひきうけ致しての入札でござんす。<span type="ruby"><span type="rb">飯焚</span><span type="rp">（</span><span type="rt">めした</span><span type="rp">）</span></span>きにでも、乳母にでも、お<span type="ruby"><span type="rb">妾</span><span type="rp">（</span><span type="rt">めかけ</span><span type="rp">）</span></span>にでも、おつかい<span type="ruby"><span type="rb">途</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>のある旦那がたは、どうか安心して――」<lb />
+　と、留のことばが終ると、<lb />
+「じゃ、札箱を切りますから」<lb />
+　と、青梅の勘三が立って、念のために、もういちど群衆を見まわした。<lb />
+　立会人として、博労の顔役だの、<span type="ruby"><span type="rb">田舎</span><span type="rp">（</span><span type="rt">いなか</span><span type="rp">）</span></span>茶屋の亭主だのが、順に名のった。そぎ竹の先に突きさした百目ろうそくが、何本も、赤々と立って、頬ぼねの<span type="ruby"><span type="rb">尖</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>ったのや、<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>の角ばった顔を照らしている――札箱は、そのまん中に出されて、幾つもの手が、中の札を<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>のなかに<span type="ruby"><span type="rb">揃</span><span type="rp">（</span><span type="rt">そろ</span><span type="rp">）</span></span>えてゆく。<lb />
+「二十両下は、切りすてます。また一分から下の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>たも、呼びあげを略しまして」<lb />
+　と、断って――<lb />
+「二十一両一分。<span type="ruby"><span type="rb">上野原</span><span type="rp">（</span><span type="rt">うえのはら</span><span type="rp">）</span></span>の鶴屋様」<lb />
+　と大声で読みはじめた。<lb />
+　興味にかられていた群衆の顔は、<lb />
+「鶴屋だ。<span type="ruby"><span type="rb">料理屋</span><span type="rp">（</span><span type="rt">のみや</span><span type="rp">）</span></span>の鶴屋――」<lb />
+　と、その顔をさがすように、うごいたが、すぐ次の札が、<lb />
+「三十両ちょっきり――」と、読まれて、<lb />
+「厚木の吉熊親分様」<lb />
+　と、どなった。<lb />
+　それからまた、高値――と渡された札を、順々にうけ取りながら、読み役の勘三は、声を、<lb />
+「とんで、四十一両二分、川越の貸座敷大黒屋善六様」<lb />
+　その次の高値が、二、三枚とばされて、<lb />
+「七十両！」<lb />
+　と、いっそく跳びに、とんだ。<lb />
+（誰だろう？）<lb />
+　群衆が、ちょっと、気をのまれていると、<lb />
+「甲州鮎川部屋の客人――村上賛之丞様」<lb />
+　サッと、女の顔がかわった。<lb />
+　せわしなく、その眼がうごいた。<lb />
+　勘三は、そう呼びあげて、ちょっと息をいれてから、<lb />
+「――高値でござんす。鮎川のお客人へ、落ちました」<lb />
+　と、手を打ちかけると、<lb />
+「おッと、もう一枚」<lb />
+　と、札が出た。<lb />
+「ム、これやあ高え……」と、つぶやいて、<lb />
+「只今のは、二番札で。これが<span type="ruby"><span type="rb">落札</span><span type="rp">（</span><span type="rt">おちふだ</span><span type="rp">）</span></span>になりやした。――百両！」<lb />
+（え、百両）<lb />
+　無数の眼が、きょろきょろした。そして、勘三のくちびるに、神経をすましていると、<lb />
+「落札、百両、百両。――田無村の<span type="ruby"><span type="rb">百之介</span><span type="rp">（</span><span type="rt">ひゃくのすけ</span><span type="rp">）</span></span>様」<lb />
+　と、たかく読み上げた。<lb />
+「えっ、百だって」<lb />
+「あの<span type="ruby"><span type="rb">鍛冶屋</span><span type="rp">（</span><span type="rt">かじや</span><span type="rp">）</span></span>の百か？　……。何かの、間違いだろう、まさか」<lb />
+　札元の顔役たちは、こういって、迷った。思いきった値に、<span type="ruby"><span type="rb">競</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>られたのはいいが、<span type="ruby"><span type="rb">悪戯</span><span type="rp">（</span><span type="rt">いたずら</span><span type="rp">）</span></span>か、間違いかと、不安を感じだして、<lb />
+「二番札の方も、少々、お待ちを」<lb />
+　と、あわてて、どなった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">七</span></span></span>
+<lb />
+　さいごの呼び上げを聞くと、群衆のなかに交じっていた百は、転ぶように、大楽寺の山門を、駈けだして、<lb />
+「七兵衛さん！　七兵衛さん！」<lb />
+　松の蔭から、黒い人影が、<lb />
+「ここじゃ、ここじゃ。どうした？」<lb />
+「――落ちた。さ、貸してくれ百両」<lb />
+「貸してくれって、ただは貸せねえよ。ゆうべも、話したとおり」<lb />
+「だから、おめえの書いた証文へ、判を<span type="ruby"><span type="rb">捺</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>すよ。判も、ここに持って来ている」<lb />
+「じゃ、家だけでなく、抵当物は、地面、造作、家財、仕事場道具一切」<lb />
+「くどいなあ、分ってるよ」<lb />
+「それから、山も」<lb />
+「山か……」<lb />
+　と、百はちょっと、暗い顔をして、<lb />
+「実をいうと、あの<span type="ruby"><span type="rb">狭山</span><span type="rp">（</span><span type="rt">さやま</span><span type="rp">）</span></span>は、うちの持山にはちげえねえが、頑固な叔父貴が住んでいて、先祖からの<span type="ruby"><span type="rb">掟</span><span type="rp">（</span><span type="rt">おきて</span><span type="rp">）</span></span>をたてに、どんなに困ろうと、売ろうとはしねえから……」<lb />
+「こっちも、買うという話じゃない。<span type="ruby"><span type="rb">抵当</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>になら、あの山の茶畑に見込があるから、預かってもいいということなのだ。だが、そう<span type="ruby"><span type="rb">後腐</span><span type="rp">（</span><span type="rt">あとくさ</span><span type="rp">）</span></span>れがあるようじゃ困るから、百さん、気のどくだが、この話はまず、破談だな」<lb />
+　金貸の七兵衛は、そういって、もう、さっさと戻りかけた。<lb />
+「待っとくんなさい」<lb />
+　百は、<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>をつかんで、<lb />
+「ようがす、山も。――この腕で、一生懸命に、<span type="ruby"><span type="rb">稼</span><span type="rp">（</span><span type="rt">かせ</span><span type="rp">）</span></span>いで返しゃいいわけだから」<lb />
+「そうだとも、何も、手離すわけじゃない」<lb />
+「じゃ、判を<span type="ruby"><span type="rb">捺</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>すから、証文を」<lb />
+　それとひきかえに、金をつかんで、百はまた息をきって、大楽寺の薬師堂へ走って行った。<lb />
+　青梅の勘三や、羽村の留や、また大勢の博労たちは、何か、少し話がもつれかけたらしく、がやがやと騒いでいたが、かれの姿を見ると、いっせいに振向いて、<lb />
+「百が――」と<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>をのんだ。<lb />
+　百は、ていねいに、小腰をかがめて、<lb />
+「では連れて帰っても……」<lb />
+「金は」<lb />
+　と、誰か、するどくいった。<lb />
+「へい、ここに」<lb />
+　そして、すばやく堂裏の暗がりに、<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>を抱いて<span type="ruby"><span type="rb">居竦</span><span type="rp">（</span><span type="rt">いすく</span><span type="rp">）</span></span>んでいたお稲の手をとって、人ごみから闇へ<span type="ruby"><span type="rb">紛</span><span type="rp">（</span><span type="rt">まぎ</span><span type="rp">）</span></span>れてしまった。<lb />
+　と――黒い人影のなかを泳いで、百のあとをさがしていた、なで肩の若い浪人は、<lb />
+「はてな、どっちへ？」<lb />
+　と血眼をくばって、<lb />
+「オオ」と、かん酒屋の灯がならんでいた寺前を、八王子の方へ、走りかけた。<lb />
+　どん、と誰かの胸に、胸をぶつけて、<span type="ruby"><span type="rb">優</span><span type="rp">（</span><span type="rt">やさ</span><span type="rp">）</span></span>がたの浪人は、二歩ばかり、よろめいたが、<lb />
+「ご免――」<lb />
+　と、そのまま、すりぬけた。<lb />
+「おい」<lb />
+　と、それを、さびた声がひきとめた。<lb />
+　はっと、思うとすぐにまた、<lb />
+「村上賛之丞」<lb />
+　と呼ぶのである。<lb />
+　鮎川部屋の用心棒――といっても、男のいいかわりに、弱いのでは、甲州でも知られた村上は、ぎょっとしたように、<lb />
+「誰だっ」<lb />
+　と、いった。<lb />
+　立ちどまって、こっちを見ていた編笠は、笠の前つばを、ヘシ折るように<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">めく</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>げて、<lb />
+「おれだよ」<lb />
+　と、<span type="ruby"><span type="rb">蟷螂</span><span type="rp">（</span><span type="rt">かまきり</span><span type="rp">）</span></span>みたいに、頬のそげた顔を見せた。<lb />
+「あっ……」と、賛之丞は、顔いろをかえた。約束されたもののように、さっと、青ざめて、<span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ち<span type="ruby"><span type="rb">竦</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>んでしまった。<lb />
+　かつて自分が、国元で、不義をして捨てた女の兄――それは安成三五兵衛だった。<lb />
+　男に捨てられて勝手に死んだ女――娘が家名をけがしたといって切腹した父親――それを三五兵衛は、肉親のかたき、いや、自己の生涯をも<span type="ruby"><span type="rb">葬</span><span type="rp">（</span><span type="rt">ほうむ</span><span type="rp">）</span></span>った悪魔だと、おそろしく怨んで、自分をつけ狙っている。<lb />
+　その相手だ。しかも腕そのものが刃ものみたいに斬れる三五兵衛だ。賛之丞が、ふるえるのは、弱いのみでなく、無理はない。<lb />
+　だが、ふつうの人間と、少し変っている三五兵衛は、こうぶつかっても、自分を、すぐに殺さないことだけは、かれに分っていた。――なぜといえば、<span type="ruby"><span type="rb">敵</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>を憎む人間は討たずに生かしておくべきで、折あるごとに、恐怖と<span type="ruby"><span type="rb">苦悶</span><span type="rp">（</span><span type="rt">くもん</span><span type="rp">）</span></span>と人生の酸味をなめさせてやる方が敵討以上の敵討だといって、甲州の鮎川部屋で出会った時も、自分を討たずに自分の<span type="ruby"><span type="rb">情婦</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>のお稲を、力ずくで、奪って去ったような男であるから――。<lb />
+（まず、命にかかわることは……）<lb />
+　と、賛之丞は、第一にこう考えて、気をしずめながら、<lb />
+「安成か。よくも郡内では」<lb />
+　と、いいかけると、三五兵衛は、ひからびたような声を、編笠の蔭からもらして、<lb />
+「どうした、その後は」<lb />
+「なに」<lb />
+「知りたかろう、お稲の様子が――」<lb />
+「ば、ばかをいえ、あんな不貞なやつ」<lb />
+「不貞？　――そうかな。お稲はもと、甲府のやなぎ町へ、江戸から流れて来た旅芸者、それを鮎川の親分仁介が、根びきをした持ち<span type="ruby"><span type="rb">妾</span><span type="rp">（</span><span type="rt">もの</span><span type="rp">）</span></span>だと――おれは聞いたが」<lb />
+「…………」<lb />
+「その仁介の眼をしのんで、村上賛之丞と密通したのは不貞でなく、ほかの男と、逃げたのは、不貞というのは少し変だぞ」<lb />
+「おぼえておれ、その口を」<lb />
+「怒るな賛之丞、そのうちに、いや、近いうちに、お稲はその方に、返してくれよう」<lb />
+「だ、だれが！」<lb />
+「負け惜しみはよせ。未練のあるくせに。こん夜の入札に、二番札で、惜しいことをしたものだ」<lb />
+「おれは、あの女を、未練でさがしているのじゃない」<lb />
+「<span type="ruby"><span type="rb">嫉妬</span><span type="rp">（</span><span type="rt">やきもち</span><span type="rp">）</span></span>でか」<lb />
+「成敗してやるのだ！」<lb />
+「わははは、その腕で、その刀で、<span type="ruby"><span type="rb">惚</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>れた女が斬れるつもりか。――よせよせ、そんな強がりは」<lb />
+「強がりか、どうか見ているがよい」<lb />
+「ム、見ていてもいいが――賛之丞、お稲は、<span type="ruby"><span type="rb">初産</span><span type="rp">（</span><span type="rt">ういざん</span><span type="rp">）</span></span>をしてから、よけいに美しくなって、それに、生んだ<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>は、てめえの<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>に、そっくりだ。――たしかに斬れるか」<lb />
+「斬る、斬る」<lb />
+「じゃ今日は別れよう。――それとも、一曲聞かせようか」<lb />
+　笛ぶくろから、<span type="ruby"><span type="rb">八寒嘯</span><span type="rp">（</span><span type="rt">はっかんしょう</span><span type="rp">）</span></span>をぬいているまに、賛之丞の影は、もう、そこになかった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">八</span></span></span>
+<lb />
+　高利貸の七兵衛が、月の末に、利子をとりに来たので、百は、ぎょっとした。――が、いいあんばいに、おしげには気づかれなかった。<lb />
+　のみならず、母は、百が家へ連れこんだ子もちの女を、初めは、疑惑の眼で見ていたらしいが、いつか、打解けて、<lb />
+「百の嫁だったら」<lb />
+　などと、つぶやいた。<lb />
+　それに可愛いさかりの<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>は、この<span type="ruby"><span type="rb">寂寥</span><span type="rp">（</span><span type="rt">せきりょう</span><span type="rp">）</span></span>な家を、急に明るくした。ほんとの孫のように、おしげは愛した。<lb />
+　茶うけの草餅を、仕事場のふいごの側へ運んで来た時、<lb />
+「百や――」と、おしげは、そこにしゃがんで、<lb />
+「お稲さんは、ご亭主があるのかえ、ないのかえ」<lb />
+「ないんだとよ、おっ母。初めて山で会った時も、ちらと事情を聞いたし、ここへ来てからも、いろいろ聞いたが、なんでも元は江戸の<span type="ruby"><span type="rb">糸問屋</span><span type="rp">（</span><span type="rt">いとどいや</span><span type="rp">）</span></span>の娘だって」<lb />
+「あの嬰児は」<lb />
+「初めは、おらも、ばくち場でみた気味のわるい浪人の子かと思っていたら、甲州でちょっとべい世話になった、身分のあるお武家の<span type="ruby"><span type="rb">落</span><span type="rp">（</span><span type="rt">おと</span><span type="rp">）</span></span>し<span type="ruby"><span type="rb">胤</span><span type="rp">（</span><span type="rt">だね</span><span type="rp">）</span></span>だそうだ」<lb />
+「道理で」<lb />
+　と、おしげは、百のいうことをそのまま、何もかも、善意にうけとっていた。そして、しんみりと、<lb />
+「どうじゃろうの、おぬしの気性と……」<lb />
+「おっ母、おら、お稲さんとなら、きっと<span type="ruby"><span type="rb">合性</span><span type="rp">（</span><span type="rt">あいしょう</span><span type="rp">）</span></span>がいいと思うぜ」<lb />
+「でも、先がよ……」<lb />
+「お稲さんだって、おらの恩は、忘れねえといってくれた。おっ母、ひとつ、話してみてくんねえよ……よう、よう」<lb />
+「この子は」<lb />
+　と、おしげは少しあきれたように、<lb />
+「――どうかしている」<lb />
+「あ、おらあ、正直にいうよ。おっ母のまえだが、おらお稲さんに、<span type="ruby"><span type="rb">惚</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>れてるんだ」<lb />
+　――でもおしげは、<span type="ruby"><span type="rb">老女</span><span type="rp">（</span><span type="rt">としより</span><span type="rp">）</span></span>だけに、なかなか口をきらなかった。百は<span type="ruby"><span type="rb">狭山</span><span type="rp">（</span><span type="rt">さやま</span><span type="rp">）</span></span>の叔父にたのもうかと考えたが、例の七兵衛に入れてある証文が不安であるし、そのうちにまた、お稲が、こんな野鍛冶の家に嫌気がさしては――などと惑われて、ふいごの前に坐っても、どうも、仕事が手につかない。<lb />
+　一雨ごとに、<span type="ruby"><span type="rb">芒</span><span type="rp">（</span><span type="rt">すすき</span><span type="rp">）</span></span>はのびて、もう武蔵野は、夏めいてくる。<lb />
+　その日は二人きりだった。おしげは、相談事があるといって、遠くもない狭山へ泊りがけで、行ったのである。それも、から身ではなく、孫みたいにしているお稲の子を負ぶって。<lb />
+「百さん、きょうは、早仕舞にしない？」<lb />
+　お稲は少しういた声で、先に風呂にはいって、洗い髪にうす化粧をして、<lb />
+「<span type="ruby"><span type="rb">稀</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>にはさ」<lb />
+　と、ぬすむように笑った。<lb />
+　百もすぐ、風呂にはいって――あがって、<lb />
+「なんだか、こう二人きりになると、夫婦みてえで、間がわるいな」<lb />
+「いいじゃないの、どっち<span type="ruby"><span type="rb">途</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>……。百さん、飲む？」<lb />
+　と、膳の下へ、手を入れながら、ニッと笑った。<lb />
+「酒か。――酒は」<lb />
+　と、百は、眼をうごかして、あたまへ、手をやった。<lb />
+「飲んだことないのかえ」<lb />
+「あるにゃ、あるけれど、おっ母が、酒だけは、ひどく嫌がるんだ。だから家では……」<lb />
+「きょうは、お留守だから」<lb />
+　百は、飲まないうちに、赤くなった。年は、お稲のほうが、三つぐらい上らしいが、まるで十もちがう姉みたいな気がされるのだった。<lb />
+　野百合の<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いが、どこからか忍んでくる。夕月にぬれた草の色は、灯をつけずにいた家の中へ、ちょうどよい加減な明るさをただよわせている。ほんのりと酔ったお稲の白粉が<span type="ruby"><span type="rb">石楠花</span><span type="rp">（</span><span type="rt">しゃくなげ</span><span type="rp">）</span></span>の花みたいに、ぼっと浮いて。<lb />
+　かの女は、楽しそうに、杯をなめた。子どもの事などは、もう忘れているようなお稲だった。ただ百は、<span type="ruby"><span type="rb">狭山</span><span type="rp">（</span><span type="rt">さやま</span><span type="rp">）</span></span>に泊った老母と、叔父貴の夜話が、時々、心のすみで、気にかかった。<lb />
+「ああ、田舎は、のん気でいいことね」<lb />
+　お稲は、くずした膝のあいだから、水色のみだれを見せて、<lb />
+「こんな所に、好きな人と、暮していたら」<lb />
+「お稲さん、おめえ、いつまでも、いてくれるだろうな」<lb />
+「嫌じゃないこと。私みたいな女」<lb />
+「勿体ねえ」――百は真面目にそういって、<lb />
+「おめえこそ、嫌なんじゃねえか、こんな貧乏鍛冶屋」<lb />
+「でも、元は、刀鍛冶でしょう」<lb />
+「おれだって、一生涯、馬の足の裏ばかり焼いちゃいねえよ」<lb />
+「すぐ、何かというと、貧乏貧乏っていうけれど、こういう黒い家に、かえって、お金ってものは、あるもんですとさ」<lb />
+「いや、金はない。金はねえ……」<lb />
+「あんなに、かくしてばかりいて、ホ、ホ、ホ、ホ……。そのお金のない人が、よく大楽寺の<span type="ruby"><span type="rb">入札</span><span type="rp">（</span><span type="rt">いれふだ</span><span type="rp">）</span></span>にぽんと百両も」<lb />
+　ふいに、<span type="ruby"><span type="rb">野薔薇</span><span type="rp">（</span><span type="rt">のばら</span><span type="rp">）</span></span>の中へ、顔でもつッこんだような、強い<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いに、百は<span type="ruby"><span type="rb">咽</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>せた。お稲の手を、首すじに感じて、百は、あらい<span type="ruby"><span type="rb">動悸</span><span type="rp">（</span><span type="rt">どうき</span><span type="rp">）</span></span>と、熱い血に、眼がまわって、<lb />
+「ど、どうするんだい、おらを」<lb />
+「じっとしていらっしゃい。お坊っちゃん」<lb />
+「よせやい、おらあ鍛冶屋だ。そんなことをいわれると、くすぐってえ」<lb />
+「あたしは、好きさ」<lb />
+「なにが」<lb />
+「うぶな人が――」と、頬へ頬を押しつけて、<lb />
+「もうよしましょうよ、二人の仲で。――金の話なんか水くさい」<lb />
+「そ、そうだとも」<lb />
+「でもね、たった一つ、もう一つ、私……頼みが」<lb />
+「どんなこと」<lb />
+「もう百両ほど、江戸の家へ送ってやれば、それで私は、死ぬまで、ここにいられるのだけれど、何とか、できる？」<lb />
+「さ……」<lb />
+「出来ない？」<lb />
+「できなければ」<lb />
+「私しゃ、死ぬかも……」<lb />
+「えっ、ほ、ほんとかい」<lb />
+「あら、かんにんして。――うそ、うそ、今のはうそ。そんなに心配しないで」<lb />
+　濡れた<span type="ruby"><span type="rb">睫毛</span><span type="rp">（</span><span type="rt">まつげ</span><span type="rp">）</span></span>が、手の甲へ。<lb />
+　百は、あまりに苦しかった。でも、その宵の夢を――ふしぎな未知をひらかれた夜を、かれは、うれしくって忘れ得なかった。<lb />
+　あくる日、お稲の子を負ぶって、おしげは帰ってきた。百は、母の顔に、すぐ、暗いものを見つけて、<lb />
+（知れたか）<lb />
+　と、胸がさわいだ。<lb />
+「おぬしゃ、えらい事をやったの。叔父御も、うわさを聞いて、驚いてござったが、もうしてしまった事は、どうなるべえ。わしも、決して、おぬしに<span type="ruby"><span type="rb">愚痴</span><span type="rp">（</span><span type="rt">ぐち</span><span type="rp">）</span></span>はいわぬがの……」<lb />
+　お稲の留守をみて、母は、そういった。<lb />
+「――ただあの<span type="ruby"><span type="rb">女子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">気性</span><span type="rp">（</span><span type="rt">きしょう</span><span type="rp">）</span></span>一つが、心配ものじゃ。それさえよければ、なんの、わしが添う嫁じゃねえだし、どんな、辛抱もするべえにと、ゆうべも遅くまで、叔父御と、おぬしの話で、泣いてしもうたが……百よ、いったい、おぬしゃあ、どう考えているだね」<lb />
+「おっ母、これだ……」<lb />
+　百は、手を<span type="ruby"><span type="rb">拝</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>せて、<lb />
+「おらのやった、悪いこたあ、きっと仕事でとり返すから」<lb />
+「そんなにまで」<lb />
+「面目ねえが、おら、どうしても」<lb />
+　百は、爪を噛んだ。<span type="ruby"><span type="rb">焼金</span><span type="rp">（</span><span type="rt">やきがね</span><span type="rp">）</span></span>をたたく金敷のうえに、ぽろぽろと、涙がこぼれた。<lb />
+　いじらしそうに、おしげは、<lb />
+「馬鹿よ、なんで泣いたり、こッぱずかしい事がある。ぬしが好きという嫁に、わしが苦情をいうわけもねえだに。――ただ、この貧乏へもって来て、百両という大借金ができちまっては、今すぐに、<span type="ruby"><span type="rb">嫁娶</span><span type="rp">（</span><span type="rt">よめと</span><span type="rp">）</span></span>るさわぎも」<lb />
+「いってくれんな、おっ母、そのことはのみ込んでるんだ。きっと、おらが、<span type="ruby"><span type="rb">稼</span><span type="rp">（</span><span type="rt">かせ</span><span type="rp">）</span></span>ぎ出してみせる。――この<span type="ruby"><span type="rb">槌</span><span type="rp">（</span><span type="rt">つち</span><span type="rp">）</span></span>が焼けるほど、働いてみせる」<lb />
+「それさえ聞けば……」<lb />
+「おらだって、もう<span type="ruby"><span type="rb">嫁娶</span><span type="rp">（</span><span type="rt">よめと</span><span type="rp">）</span></span>る年だもの、おっ母に、心配顔をされると、野鍛冶の<span type="ruby"><span type="rb">槌</span><span type="rp">（</span><span type="rt">つち</span><span type="rp">）</span></span>が、よけいに鈍る」<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">九</span></span></span>
+<lb />
+　すすきは伸びて、夜のような夏草に、夜ごと、更けるのを知らない野鍛冶の家からふいごの火が、真っ赤に映る。<lb />
+　火華は、雨の夜もとんで、<lb />
+　テーン、テーン、テーン<lb />
+　カアン、カアン<lb />
+　と一つ槌の音が、必死にひびく。<lb />
+　その槌音は、百のたましいだった。百のたましいは槌音だった。明けても暮れても、野末にそれが聞えぬ日はなかった。<lb />
+　夏から、秋まで。<lb />
+　だが、稼いでも稼いでも、農具や馬の金具では、百の望む金だかになるはずはない。百は、七兵衛から借りた百両と、お稲をよろこばす金だけが欲しかった――だが、どうして、二百両から上の金が。<lb />
+　で、かれが、思いついて<span type="ruby"><span type="rb">鍛</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>ったのは、<span type="ruby"><span type="rb">小柄</span><span type="rp">（</span><span type="rt">こづか</span><span type="rp">）</span></span>だった。<lb />
+　それも、一本や二本では、望むだけの金にはならない。秋までに、かれは、大小十組の小柄をきたえた。<lb />
+　いや、それでもまだ足らない。野鍛冶の<span type="ruby"><span type="rb">鍛</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>った小柄が、一本いくらに売れるかと考えれば、十年、<span type="ruby"><span type="rb">槌</span><span type="rp">（</span><span type="rt">つち</span><span type="rp">）</span></span>の鬼になって稼いでも、二百両の金が<span type="ruby"><span type="rb">蓄</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>まるかどうだか。百も、知っていた。自身でそれを知りながら、そうして、必死にやっていたのは、何か一策があったとみえる。<lb />
+　<span type="ruby"><span type="rb">石神</span><span type="rp">（</span><span type="rt">いしがみ</span><span type="rp">）</span></span>神社の祭りで、村から村に、阿佐ヶ谷<span type="ruby"><span type="rb">神楽</span><span type="rp">（</span><span type="rt">かぐら</span><span type="rp">）</span></span>の馬鹿ばやしが、ほがらに聞えている秋の一日だった。<lb />
+「おっ母、ちょっくら、江戸まで行ってくるぜ」<lb />
+「何しに？」<lb />
+　おしげは、不安らしかった。<lb />
+「なに、心配はねえ。仕事のはけ口を見つけに行くのよ。<span type="ruby"><span type="rb">帰</span><span type="rp">（</span><span type="rt">けえ</span><span type="rp">）</span></span>って来たら、借金も<span type="ruby"><span type="rb">返</span><span type="rp">（</span><span type="rt">けえ</span><span type="rp">）</span></span>すし、おっ母にも安心させるぜ」<lb />
+「じゃ、そんな泥くせえ<span type="ruby"><span type="rb">身装</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>をしてゆかねえで、こっちの、<span type="ruby"><span type="rb">袷</span><span type="rp">（</span><span type="rt">あわせ</span><span type="rp">）</span></span>をきいてゆくがいい」<lb />
+「おや、仕立おろし。おっ母、いつのまにこんな着物を」<lb />
+　ちちぶ<span type="ruby"><span type="rb">縞</span><span type="rp">（</span><span type="rt">じま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">木綿袷</span><span type="rp">（</span><span type="rt">もめんあわせ</span><span type="rp">）</span></span>を、百は、いそいそと身にひっかけて、<lb />
+「お稲さん、行って来るぜ」<lb />
+　裏で、<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>の洗いものを干していたお稲は、何もかも、分っているように、<span type="ruby"><span type="rb">手拭</span><span type="rp">（</span><span type="rt">てぬぐい</span><span type="rp">）</span></span>かぶりの下に明るい笑くぼをみせて、<lb />
+「はやく、帰って下さいね」<lb />
+「あ。七日ばかり、留守をたのむぜ。おっ母をな」<lb />
+「ええ、案じないで」<lb />
+「おっ母は、<span type="ruby"><span type="rb">鳥目</span><span type="rp">（</span><span type="rt">とりめ</span><span type="rp">）</span></span>だから、夕方はよけいに気をつけてやってくれ。こちょこちょと、台所へ、出ねえように」<lb />
+　きのうすでに、仕上げをすました十組の<span type="ruby"><span type="rb">小柄</span><span type="rp">（</span><span type="rt">こづか</span><span type="rp">）</span></span>を、<span type="ruby"><span type="rb">卯黄木綿</span><span type="rp">（</span><span type="rt">うこんもめん</span><span type="rp">）</span></span>の端から巻いて、それを、腰帯のうえから、しっかりと背なかへ。<lb />
+　おしげと、お稲は、ふいご土間の外に立って見送っていた。――江戸といえば鼻の先、遠くはないが、それでも旅、七日の留守は、淋しかった。<lb />
+　百は、ふり顧って、すすきの中から、すすきの家へ、笠を振った。<lb />
+　江戸へつくと、百は、場末の<span type="ruby"><span type="rb">木賃宿</span><span type="rp">（</span><span type="rt">きちん</span><span type="rp">）</span></span>に泊りこんで、あくる日から、小柄の売口をさがしあるいた。――といっても、破門された体なので、刀屋や<span type="ruby"><span type="rb">本阿弥</span><span type="rp">（</span><span type="rt">ほんあみ</span><span type="rp">）</span></span>すじへは、向けられない。<lb />
+　それに、かれの希望が、小柄二本ひと組で二十両、持ってきた十組を、二百両にして帰ろうというのであるから困難だ。でも、根気よく、構えのいい武家屋敷や、でなければ、豪家の<span type="ruby"><span type="rb">隠宅</span><span type="rp">（</span><span type="rt">いんたく</span><span type="rp">）</span></span>――<span type="ruby"><span type="rb">蔵前</span><span type="rp">（</span><span type="rt">くらまえ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">札差</span><span type="rp">（</span><span type="rt">ふださし</span><span type="rp">）</span></span>――そんな所を、よって持ちあるいた。<lb />
+　<span type="ruby"><span type="rb">麹町</span><span type="rp">（</span><span type="rt">こうじまち</span><span type="rp">）</span></span>の岡部という番衆屋敷で、一組売ったのを皮きりに、<span type="ruby"><span type="rb">札差町人</span><span type="rp">（</span><span type="rt">ふださしちょうにん</span><span type="rp">）</span></span>の大口屋へ一組、また、身分は知らないが、ちょうどその店さきに居あわせた一人の武家から、今は、金のもち合せがないから、<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あす</span><span type="rp">）</span></span>、屋敷の方へ、品を持って来るようにといわれた。<lb />
+　百は、よろこんだ。<lb />
+　四十両の現金をもって、木賃宿のふとんの中に、幸福感と、怖ろしさで、ふくれ上がるような、心臓の音を聞いていた。そして、<span type="ruby"><span type="rb">田無</span><span type="rp">（</span><span type="rt">たなし</span><span type="rp">）</span></span>に留守をしてくれているお稲の顔を――また母の顔を――描いては、寝た。<lb />
+　あくる日。<lb />
+　麻布<span type="ruby"><span type="rb">芋坂</span><span type="rp">（</span><span type="rt">いもざか</span><span type="rp">）</span></span>の津田角右衛門――そう聞いた約束の屋敷を、かれはさがした。かなりな構えで、取次は、いいつけられてあったと見えて、<lb />
+「ム、小柄を持参したか、そちらから上がって、御用部屋でお待ちいたせ」<lb />
+　やがて、きのう蔵前で会った四十がらみの武家が、<lb />
+「わしは、当家の用人角右衛門だが」<lb />
+　と、いって坐った。<lb />
+　主人ではないのか――と百は案外だった。そして二十両の小柄を用人が買えるかしらと、すこし不安をもったが、<lb />
+「<span type="ruby"><span type="rb">昨日</span><span type="rp">（</span><span type="rt">きのう</span><span type="rp">）</span></span>、お目にとまりましたあれを」<lb />
+「持参したか、どれ、見せい」<lb />
+　百がさしだした小柄を、じっと見て、<lb />
+「よく<span type="ruby"><span type="rb">鍛</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>ってある」<lb />
+　と、角右衛門はいった。そして、額ごしにじろと、<span type="ruby"><span type="rb">小柄</span><span type="rp">（</span><span type="rt">こづか</span><span type="rp">）</span></span>と百の顔を見くらべていたが、<lb />
+「いくらじゃ」<lb />
+「二十金でございます」<lb />
+「安いのう」<lb />
+　百は、どきっとした。<lb />
+「山浦清麿といえば、新刀でも、近世の上手。たとえ小柄にしても安すぎる。――だが、<span type="ruby"><span type="rb">確</span><span type="rp">（</span><span type="rt">たし</span><span type="rp">）</span></span>かか」<lb />
+「え」<lb />
+「いやさ、この清麿の<span type="ruby"><span type="rb">銘</span><span type="rp">（</span><span type="rt">めい</span><span type="rp">）</span></span>は、相違ないかというのだ」<lb />
+「へ、へい、間違いはございませぬ」<lb />
+「変だな。出物だと申したが、<span type="ruby"><span type="rb">地金</span><span type="rp">（</span><span type="rt">じがね</span><span type="rp">）</span></span>が匂う。まだ金いろも生新しいのみか、<span type="ruby"><span type="rb">鍛</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>は上手だが、<span type="ruby"><span type="rb">片切</span><span type="rp">（</span><span type="rt">かたきり</span><span type="rp">）</span></span>のまずさ」<lb />
+　百は、いよいよ、どぎまぎして、<lb />
+「そ、そんなはずは」<lb />
+　と、<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>った。<lb />
+「第一！」と、角右衛門はきびしく「これをその方は、誰の手から持って参った」<lb />
+「…………」<lb />
+「<span type="ruby"><span type="rb">不埒者</span><span type="rp">（</span><span type="rt">ふらちもの</span><span type="rp">）</span></span>め。これや清麿の偽物じゃ」<lb />
+「どういたしまして、決して、そんな」<lb />
+「おのれ、まだいうか」<lb />
+　いきなり、百の襟がみをつかんで、畳へひきすえると、うしろの<span type="ruby"><span type="rb">襖</span><span type="rp">（</span><span type="rt">ふすま</span><span type="rp">）</span></span>へ、<lb />
+「延作、延作」<lb />
+　と、どなった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">十</span></span></span>
+<lb />
+　がらりっと、そこが、開いたかと思うと、はいって来た一人の男が、<lb />
+「おうっ、てめえは、<span type="ruby"><span type="rb">田無</span><span type="rp">（</span><span type="rt">たなし</span><span type="rp">）</span></span>の百之介」<lb />
+　と、びっくりして、いった。<lb />
+　百は、畳から、眼だけを上げて、<lb />
+「や、兄弟子。――面目ねえ」と、顔をかくした。<lb />
+「この野郎、よくも、師匠の偽物を作って、売り歩きやがったな。この間から、清麿の<span type="ruby"><span type="rb">小柄</span><span type="rp">（</span><span type="rt">こづか</span><span type="rp">）</span></span>を売りあるく者があるといううわさに、変だと思っていると、こちらの御用人様から親切なお知らせがあったので、きょうは、手ぐすね引いて、待っていたのだ。――さ、刀<span type="ruby"><span type="rb">鍛冶</span><span type="rp">（</span><span type="rt">かじ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">掟</span><span type="rp">（</span><span type="rt">おきて</span><span type="rp">）</span></span>どおり、成敗してやるから来い」<lb />
+　縄を打って、百を、駕のなかへ、<span type="ruby"><span type="rb">抛</span><span type="rp">（</span><span type="rt">ほう</span><span type="rp">）</span></span>りこんだ。――延作のあいさつ、角右衛門の笑い声を後に、駕は、あがった。<lb />
+（きまりが悪い、師匠に会うのは）<lb />
+　百は、かごの中で、髪の毛をかきむしった。舌でも噛んでしまいたかった。<lb />
+「ご苦労――」と、駕がおりる。<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">くぐ</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">戸</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>があく。ひょいと見ると、百が、おぼえていた元の師匠の屋敷とはちがっていた。当時の宏壮な構えはなく、貧乏御家人でもすんでいそうな、黒塀がこいの、それも、ひどく荒れている小屋敷で、<lb />
+「おいっ、誰かいねえか」<lb />
+　と、よぶと、三、四人のがさつなのが、延作に手をかして、<lb />
+「この野郎か、師匠の名を、<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>った奴は」<lb />
+「庭へ、しょッ<span type="ruby"><span type="rb">曳</span><span type="rp">（</span><span type="rt">ぴ</span><span type="rp">）</span></span>いて、<span type="ruby"><span type="rb">鋳物土</span><span type="rp">（</span><span type="rt">いものつち</span><span type="rp">）</span></span>のかますで、押っ伏せちまえ」<lb />
+　十俵ばかりの土砂がますで、百は、からだをかこまれた。刀鍛冶仲間の私刑には、ずいぶんひどい成敗がある。耳や、片腕を、斬り落して、生かしておくのも勝手だし、なぶり殺し、胴試しに、職業の<span type="ruby"><span type="rb">刀</span><span type="rp">（</span><span type="rt">もの</span><span type="rp">）</span></span>でためされても、文句はいえない。<lb />
+（どうせ、殺されるだろう）<lb />
+　百は覚悟をしようと思った。しかし、母がある、お稲が待っている。片輪にされてもしかたがないが、命だけは助かりたいと思った。<lb />
+「なぐれ！」<lb />
+「見せしめだ」<lb />
+　延作たちは、弓の折れで、百の背ぼねをたたきのめした。気を失うと、水をぶっかけて、仕事小屋へ、はいって行く。<lb />
+　飯に、茶うけに、手すきがあると、出て来てなぐった。<lb />
+　――はっと、気がつくと、あたりは暗い。空には、星がまたたいていた。着物は、<span type="ruby"><span type="rb">布海苔</span><span type="rp">（</span><span type="rt">ふのり</span><span type="rp">）</span></span>みたいに、<span type="ruby"><span type="rb">縒</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>れていた。<lb />
+「ウーム……」と、百は思わず、ふとく<span type="ruby"><span type="rb">呻</span><span type="rp">（</span><span type="rt">うめ</span><span type="rp">）</span></span>いた。<span type="ruby"><span type="rb">骨</span><span type="rp">（</span><span type="rt">ほね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">髄</span><span type="rp">（</span><span type="rt">ずい</span><span type="rp">）</span></span>まで、しんしんと、痛い、だるい、精神がぼうっとする。<lb />
+　水をかけた鋳物土に、膝から下はくいしめられて、一寸の身うごきもできない。がくりと、首を垂れながら――百は心で、母とお稲の名をよんだ。<lb />
+　仕事場と、母屋と、雨戸はみんなしまっていた。もう深夜だった。――ヒタ、ヒタと何処からか近づいてくる忍び足にも、夜露のねばるのが感じられる。<lb />
+「百や……」<lb />
+　と誰かよんだ。――間をおいて、ひくい声で、<lb />
+「百や……」と。<lb />
+　じっと、白い眼をあげて、闇をすかしていた百は、ふいに、泣き出しそうに、顔を引ッつらせて、<lb />
+「わっ……お、お嬢さん」<lb />
+「しっ、静かにだよ」<lb />
+　<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>で、声を消すように振って、<lb />
+「どうしたの、おまえ」と、旧師の娘――百が内弟子にいたころは、よく、喧嘩をしたり、子守をしたり、からかわれたり、からかったりした、お袖が、なつかしそうにそばへ寄って来た。<lb />
+「面目ねえ、お嬢さま、殺して下さい、ぶち殺して下さい」<lb />
+「およしよ、そんなに<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">わめ</span><span type="rp">）</span></span>くのは。百や、ずいぶんおまえ、大人になったね」<lb />
+「お嬢様も……大きくなりましたね」<lb />
+「あ、見ちがえるだろう。だって、私ももう二十二だもの。お前より二つ下だね」<lb />
+「まだ、お<span type="ruby"><span type="rb">聟</span><span type="rp">（</span><span type="rt">むこ</span><span type="rp">）</span></span>さまは」<lb />
+「それどころじゃない、あれから後――そうね、お前が、家を出されてから後は、山浦家に、魔がさして、それはもう不幸ばかりが」<lb />
+「して、お師匠様は」<lb />
+「ずっと、ご病気つづきで、もう幾年も<span type="ruby"><span type="rb">槌</span><span type="rp">（</span><span type="rt">つち</span><span type="rp">）</span></span>をとらずに、あの部屋に」<lb />
+　と、灯かげの<span type="ruby"><span type="rb">隙洩</span><span type="rp">（</span><span type="rt">すきも</span><span type="rp">）</span></span>る戸をさして、<lb />
+「お<span type="ruby"><span type="rb">病臥</span><span type="rp">（</span><span type="rt">ふせ</span><span type="rp">）</span></span>りになったきりなんだよ」<lb />
+「では、すぐそこに。ああ、おなつかしい！　こんな<span type="ruby"><span type="rb">破滅</span><span type="rp">（</span><span type="rt">はめ</span><span type="rp">）</span></span>でねえならば、たった一目でも」<lb />
+「お父様は、おまえの捕まって来たことを、さっき、延作から聞いていらした」<lb />
+「穴でもあったら、はいりてえ、お師匠様は、おらのことを、さだめし犬か、畜生のように」<lb />
+「いいえ、そうは」<lb />
+　お袖は、あたりを見まわして、ふいに短い刃もので、百の縄目を<span type="ruby"><span type="rb">断</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>ったと思うと、<lb />
+「さ、おまえ逃げるんだよ」<lb />
+「えっ、ど、どうして」<lb />
+「お父様が、内密に、逃がせと仰っしゃったのだよ。――おまえの気もちは誰よりも、私が知っているものね」<lb />
+「それでは、お嬢様が、おらの命乞いを」<lb />
+「いいえ、今ではお父様も、おまえを破門したことを、心で後悔していらっしゃる。――何もかも、時の裁き――時がくれば分るのね」<lb />
+「…………」<lb />
+　百は、凍ったように、うつ向いていた。<lb />
+「おまえを破門したのは、<span type="ruby"><span type="rb">本阿弥</span><span type="rp">（</span><span type="rt">ほんあみ</span><span type="rp">）</span></span>様の会の帰りに、お父様が悪酔して、お金を失くしたあの疑いからだったが……」<lb />
+「そうだ。それを、この百が盗ったように思われて」<lb />
+「実は、それを見たといって、お父様に告げ口をした悪い女があったのよ」<lb />
+「えっ、じゃ誰かが、おらに罪をなすりつけたのか。畜生め」<lb />
+「桜間さんの家で、親切らしく、その晩お父様を介抱していた<span type="ruby"><span type="rb">妓</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>があったろう」<lb />
+「そうらしいが……美しい<span type="ruby"><span type="rb">妓</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>たちがみえたんで、おら、べつな部屋におりやした」<lb />
+「その中に、柳ばしの<span type="ruby"><span type="rb">小稲</span><span type="rp">（</span><span type="rt">こいね</span><span type="rp">）</span></span>という、悪い<span type="ruby"><span type="rb">妓</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>があったのだよ。盗んだのは、その小稲で、おまけに、おまえが破門された後、それを縁に、屋敷へも出入りして、名人といわれたお父様が、まあ口惜しいじゃないか、そんな妓の手にのって」<lb />
+「では、お妾に」<lb />
+「家は建ててやる、お金はみつぐ、それはまだよいにしても、名人の槌が<span type="ruby"><span type="rb">錆</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>びたのね。魔がさしたのかも知れないわ。しまいには、入りびたり。――そして女は、二年ばかり、ぜいたく三昧をしつくしてから、ほかの男と、逃げてしまうし、お父様は、世間ていを恥じて、床についておしまいになるし……」<lb />
+「ひどい<span type="ruby"><span type="rb">阿女</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>もあるものだ。そして、その女は今でも、江戸に」<lb />
+「なんでも、その男とも、上方で別れてから甲府で二度の<span type="ruby"><span type="rb">褄</span><span type="rp">（</span><span type="rt">つま</span><span type="rp">）</span></span>をとって何とかいう土地のばくち打に、根びきされたという話を、家へくる地金の仲買が、弟予たちと、うわさしていたことがある」<lb />
+「へ……甲府で」と、百は、きょとん、と考える眼をして、<lb />
+「年は<span type="ruby"><span type="rb">幾歳</span><span type="rp">（</span><span type="rt">いくつ</span><span type="rp">）</span></span>ぐらい？」<lb />
+「もう二十六、七だろうね」<lb />
+「はてな、小稲」<lb />
+「何か、心あたりがあるの」<lb />
+「小稲小稲……」<lb />
+「<span type="ruby"><span type="rb">雛妓</span><span type="rp">（</span><span type="rt">おしゃく</span><span type="rp">）</span></span>の時に前歯を折ったといって、このへんに」と、糸切歯を指して「――ちょびっと、銀を入れているのが、笑う時に、妖婦らしく見えたっけが」<lb />
+「へえ、銀歯がありますか……」と、百は息をはずませて、何か、うつつに、<lb />
+「じゃ、この右の眼じりにも、大きな<span type="ruby"><span type="rb">黒子</span><span type="rp">（</span><span type="rt">ほくろ</span><span type="rp">）</span></span>がありゃしませんか」<lb />
+「おまえ、よく知ってるね」<lb />
+「げッ。じゃ確かに、小稲のここには、<span type="ruby"><span type="rb">黒子</span><span type="rp">（</span><span type="rt">ほくろ</span><span type="rp">）</span></span>があるんで」<lb />
+「それが、<span type="ruby"><span type="rb">淫婦</span><span type="rp">（</span><span type="rt">いんぷ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">相</span><span type="rp">（</span><span type="rt">そう</span><span type="rp">）</span></span>だと、誰かがいったことがある」<lb />
+「ちッ、畜生ッ！」<lb />
+　百は、膝を埋めている<span type="ruby"><span type="rb">鋳物槌</span><span type="rp">（</span><span type="rt">いものづち</span><span type="rp">）</span></span>のかますを、八方へと、蹴とばして、おどり立ちながら、<lb />
+「――お嬢さん、お師匠様によろしく」<lb />
+「あっ、おまえ、そんな怖い顔をして、急にどこへ」<lb />
+「お情けに甘えて、百は、逃げますぜ。――もうお目にゃかかりません」<lb />
+　駈けだして、黒塀のみねへ、とび上がった百の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>へ、お袖は、すがって、<lb />
+「百や――。おまえは」<lb />
+　と、泣いていた。<lb />
+「ご機嫌よう……。お嬢様、どうか、はやくよいお聟さまを」<lb />
+「もう会えないね。幼い時の、話をしあう人もない。百や……これを貰って行ってくれない」<lb />
+　<span type="ruby"><span type="rb">櫛</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>をぬいて、百の手にわたすと、百も、涙をいっぱいにためて、<lb />
+「おかたみに」<lb />
+　と、塀の上で、ふところに入れた。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">十一</span></span></span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ねんねん、ころり<lb />
+ねんころり<lb />
+<span type="ruby"><span type="rb">和子</span><span type="rp">（</span><span type="rt">わこ</span><span type="rp">）</span></span>の在所を問うならば<lb />
+駒のお鈴に問うならば<lb />
+千軒<span type="ruby"><span type="rb">機屋</span><span type="rp">（</span><span type="rt">はたや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">調布町</span><span type="rp">（</span><span type="rt">ちょうふまち</span><span type="rp">）</span></span><lb />
+萩にすすきにきりぎりす<lb />
+水は玉川<span type="ruby"><span type="rb">布</span><span type="rp">（</span><span type="rt">ぬの</span><span type="rp">）</span></span>ざらし<lb />
+月は武蔵の市ざらし<lb />
+</span>
+「おっ母。――おっ母」<lb />
+　どんどんどんと、百は<span type="ruby"><span type="rb">田無</span><span type="rp">（</span><span type="rt">たなし</span><span type="rp">）</span></span>の家の戸をたたいていた。<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>を寝せつけているらしいおしげの子守唄が、外より暗い家の中に、ほそぼそと、聞えるのである。<lb />
+「おっ母、おれだよ。開けてくんねえ」<lb />
+　はたと、子守唄の声がやむと、びっくりしたように、<lb />
+「百かよう」<lb />
+「おらだい。今、帰って来た」<lb />
+「オオ、オオ」<lb />
+　あわてて、何かに、つまずいたのであろう。暗い中で、障子の倒れるような音がした。<lb />
+「あぶねえな、おっ母、眼のわるいくせにして気をつけろよ。――お稲はいねえのか」<lb />
+「裏があいてるだあ、百、裏口から廻って来う」<lb />
+「なんだ、開いてるのか」<lb />
+　百は、裏からとび込んで、<lb />
+「お稲は」<lb />
+　と、するどい眼で、家の中を見まわした。<lb />
+　鳥眼のおしげに、その血ばしった眼はわからなかったが、手さぐりで、探った百の足に、ぎょっとしたように、<lb />
+「この、あわて者が、なんぼ早くお稲の顔が見てえからといって、土足で<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の中へ上がる馬鹿があるかよ」<lb />
+「脱いでる間もねえ」<lb />
+　と、百は膝を折って、おしげの両の手を<span type="ruby"><span type="rb">掬</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>いとると、拝むように、<lb />
+「すまねえ！　すまねえ！」<lb />
+　と男泣きだった。<lb />
+「先祖からのこの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に、おっ母をおくのも今夜かぎりになった。やくざに出来たこの百は、後で、どんなにでも、<span type="ruby"><span type="rb">折檻</span><span type="rp">（</span><span type="rt">せっかん</span><span type="rp">）</span></span>してくんな。今は、何もかも話してる間がねえんだ。――さ、すぐに支度をして」<lb />
+「支度って、おまえ……」<lb />
+　おしげの声は、ふるえを帯びた。<lb />
+「旅に出よう、なあ、おっ母」<lb />
+「じゃおぬしのあては……。いやいや、いうまい。老いては子にしたがえじゃ。百よ、どこへでも連れて行っておくれ」<lb />
+　鳥眼の母を、百は、ふとい腕の中へ、子どものように抱きしめて、<lb />
+「おっ母は、怒らねえのか。この馬鹿な百を、叱りもしねえのかい」<lb />
+「なんでわしが叱るものかよ。若いうちは――人間の一生には、いろんなことがあるのが当りめえだによ」<lb />
+「そうだ、いろんなことがある。――だがおっ母、これから先は……」と、母のからだへいっさんに、涙をこぼして、<lb />
+「これから先は、もうこんな苦労は」<lb />
+「ぬしゃあ、気がついたの」<lb />
+「眼がさめた！　おらあ、はっきり眼がさめた」<lb />
+「よく気がついたのう、賢い奴じゃ、わしゃそれさえ、ぬしが分ってくれれば」<lb />
+「もう、その事は、いってくれんなよおっ母。百も、男だ」<lb />
+「そうともよ。わしの子じゃ、<span type="ruby"><span type="rb">刀鍛冶</span><span type="rp">（</span><span type="rt">かたなかじ</span><span type="rp">）</span></span>の子じゃ。家はねえでも、わしにゃ、子があるぞよ」<lb />
+　肉縁の血を相容れないべつな<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>はおしげの肌をはなれて、泣きぬいていた。おしげは、あわてて、そばへ寄って、<lb />
+「百、この子を、わしが背に、おぶせてくれい」<lb />
+「お稲の畜生は？」<lb />
+「…………」<lb />
+「逃げたのか、おっ母」<lb />
+「ほんとのこと話しても、ぬしゃ、どうもしねえかよ」<lb />
+「だ、だれが、あんな<span type="ruby"><span type="rb">阿女</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>に、未練があるものか」<lb />
+「じゃ、ぶちまける……おぬしが留守になってから、毎晩のようにこの裏へ、よび出しにくるお侍があるのじゃ。そして、明け方に帰ってくる」<lb />
+「ウウム、何でもねえや、そんなこと。あの<span type="ruby"><span type="rb">売女</span><span type="rp">（</span><span type="rt">ばいた</span><span type="rp">）</span></span>にゃ、ありそうなこった」<lb />
+「そればかりじゃない、足しげく、金の催促にくる七兵衛さんとも、どうやら、このごろは、変な話しぶりがあるで、耳うるそうてならなんだ」<lb />
+「人間じゃねえな。――そんな女の<span type="ruby"><span type="rb">餓鬼</span><span type="rp">（</span><span type="rt">がき</span><span type="rp">）</span></span>をおっ母、よせやい」<lb />
+「いや、そうでねえ」と、おしげは、かぶりを振って、<lb />
+「わしが、育ててやらねば、この子は、どうなると思う。ふびんじゃ、わしは、負うてゆく。――それから、御先祖のお<span type="ruby"><span type="rb">位牌</span><span type="rp">（</span><span type="rt">いはい</span><span type="rp">）</span></span>だけを、わしの腰に」<lb />
+　百は、見まわして、<lb />
+「おっ母、お位牌よりほかに、なんにも持ってゆく物はねえ」<lb />
+　手を曳いて、<span type="ruby"><span type="rb">母子</span><span type="rp">（</span><span type="rt">おやこ</span><span type="rp">）</span></span>は、とぼとぼと田無の原をあるきだした。夜露が、あめのあとのようだった。<lb />
+「いいあんばいに、月夜だから」<lb />
+「すこしゃ、道が、見えるかい」<lb />
+「まるで、この世でない所を、歩いているように見えるだよ。でも、田無の村の衆はこれから淋しがるだろうね」<lb />
+「どうして」<lb />
+「おまえの<span type="ruby"><span type="rb">槌</span><span type="rp">（</span><span type="rt">つち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">おと</span><span type="rp">）</span></span>がしなくなるもの」<lb />
+「なに、うるさくなくって、せいせいしたというだろうぜ」<lb />
+　と、百は笑ったが、何気なく、眼がそれたとたんに、はっと、息の音をしめつけるようなものを見た。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">十二</span></span></span>
+<lb />
+　ほのかな、月のいろを浴びて、田無の怪しげな家から、肩をならべて出てきた二人づれの影である。男は、わからないが、女はまぎれのないお稲である。<lb />
+「こっちへ」<lb />
+　と、あわてて、母を横道へ誘って、半町ばかり、草の中を、むっそりと、黙り合ってあるいていたが、ふいに、<lb />
+「おっ母、ちょっとここで、待っていてくんねえか。ひとりで、変な方角へ、歩き出しちゃいけねえぜ。すぐに<span type="ruby"><span type="rb">帰</span><span type="rp">（</span><span type="rt">けえ</span><span type="rp">）</span></span>って来るから」<lb />
+　と、おしげが、何かいう声をふりすてて、恐ろしい<span type="ruby"><span type="rb">迅</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>さで後ろへ駈け戻って行った。<lb />
+　ちょうど今、<span type="ruby"><span type="rb">母子</span><span type="rp">（</span><span type="rt">おやこ</span><span type="rp">）</span></span>で通ってきた道を、二人の人影は、なまめかしく、より添って歩いてゆく。<lb />
+　ひとりは、浪人だ。<lb />
+　侍にしては、なで肩で、気どった男である。そして、お稲はすこし、酔っているらしい。<lb />
+　ザ、ザ、ザッ――と野分のように、男女のうしろで、草が鳴った。<lb />
+（何か？）<lb />
+　というように、ふり顧った<span type="ruby"><span type="rb">優</span><span type="rp">（</span><span type="rt">やさ</span><span type="rp">）</span></span>がたの浪人は、チカッ、と白い、針の飛ぶような光線を、まっすぐに見たと思うと、<lb />
+「わッ」<lb />
+　と、こめかみへ、両手をかさねて、草むらへうッ伏した――いやそのまま、<span type="ruby"><span type="rb">仆</span><span type="rp">（</span><span type="rt">たお</span><span type="rp">）</span></span>れた。<lb />
+「あら、どうしたのさ」<lb />
+　と、お稲は、男の顔をのぞいて、<lb />
+「賛之丞さん、ふざけちゃ嫌だよ」<lb />
+　と、何げなく、手をどけて見た。<lb />
+　耳をはずれて、左のこめかみに、一本の<span type="ruby"><span type="rb">小柄</span><span type="rp">（</span><span type="rt">こづか</span><span type="rp">）</span></span>がふかく突き立っていた。べっとりと手へついたものを血と知って、お稲は、ぎょっとしたように、とび<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>いた。<lb />
+「<span type="ruby"><span type="rb">阿女</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>ッ」<lb />
+　と、近づいてくる百の影を見て――<lb />
+「あら、お前さん、いつ江戸から」<lb />
+「たった今、帰ったばかりだ。さだめし、おれの帰りを待っていたろう」<lb />
+「七日といったのに、どうしたのだろうと、毎日おっ母さんと、噂ばかりしてね」<lb />
+「ふん……もうその口にゃのらねえぞ。おれを待っているはずはねえ。待っていたのは金だろう」<lb />
+「ほんとに、むりな工面をたのんで、わたしゃ後で済まないと思っていたんだよ」<lb />
+「そのうめえ口が、刀鍛冶の焼金まで<span type="ruby"><span type="rb">熔</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>かしたか。よくもうぬあ、師匠の山浦清麿をだましたな。やいッ、そして数年前に、てめえの、ちょろまかした師匠の金を、おれが盗んだと告げ口をしやがったな」<lb />
+「百さん……私にはさっぱりわけが分らないが」<lb />
+「おらあ元、四谷の山浦清麿の弟子、てめえに罪をなすられて、破門された百之介だ、うぬあ、その時の、柳ばしの小稲だろう」<lb />
+「あッ……」<lb />
+「ざまをみやがれ、<span type="ruby"><span type="rb">売女</span><span type="rp">（</span><span type="rt">ばいた</span><span type="rp">）</span></span>！」<lb />
+　とびかかると、お稲は、ばたばたと、走りだして、喉ぶえも裂けそうな声で、<lb />
+「ひッ――人殺しっ」<lb />
+「やかましい」<lb />
+　襟がみをつかんで、百は、女のからだを、ふり廻した。らんらんとした眼をかがやかして――炎のような息をついて――露の中をずるずると、お稲のからだを引きずった。<lb />
+　野中にみえる一本の<span type="ruby"><span type="rb">喬木</span><span type="rp">（</span><span type="rt">きょうぼく</span><span type="rp">）</span></span>の根へ、百は、女のからだをしばりつけた。お稲は、<span type="ruby"><span type="rb">媚態</span><span type="rp">（</span><span type="rt">びたい</span><span type="rp">）</span></span>と狂態のかぎりをつくして、百に、命をたすけてくれと泣いてさけんだ。どんな辛抱も――どんなことでも、するからといった。<lb />
+　百は、さばさばと笑って、<lb />
+「くそでもくらえ。おらあ、これから、てめえを自由にするより、もっと、もっと、胸のすくことをやるんだ。お稲！」<lb />
+　と、つかんでいる数本の小柄をみせて、<lb />
+「これやみんな、てめえのために、夜の眼も寝ずに<span type="ruby"><span type="rb">鍛</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>った小柄だから、ここにあるだけくれてやる。からだに仕舞って持ってゆけ！」<lb />
+　さっと、風をついてその一本が飛んでゆくと、<lb />
+「きゃっッ」<lb />
+　と、お稲は、月へまで、届きそうな悲鳴をあげた。黒い液体が、<span type="ruby"><span type="rb">眉間</span><span type="rp">（</span><span type="rt">みけん</span><span type="rp">）</span></span>から青白いその顔へ、見るまに、いくすじも流れだしている。<lb />
+「これは、師匠のお嬢さん、お袖様のかわりだと思え」<lb />
+　次に送った一本は、ぶすっと、かの女の乳ぶさに立った。<lb />
+「ウ、ウウム……」ともがくと、幾ふさの<span type="ruby"><span type="rb">葡萄</span><span type="rp">（</span><span type="rt">ぶどう</span><span type="rp">）</span></span>を胸につぶしたように、白い肌は、血に塗りつぶされた。――次へ、次へ、と七本の小柄は、たちまち、百の手から、その影へ移っていって、<span type="ruby"><span type="rb">茨</span><span type="rp">（</span><span type="rt">いばら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">棘</span><span type="rp">（</span><span type="rt">とげ</span><span type="rp">）</span></span>みたいに、白く立った。<lb />
+「ああ、<span type="ruby"><span type="rb">爽々</span><span type="rp">（</span><span type="rt">せいせい</span><span type="rp">）</span></span>した……」<lb />
+　百は、熱湯から上がったように、全身に汗をかいて、よろよろと草の中に、腰をついた。――と、何処かで、すさまじい笛の音いろがながれている。誰がふくのか、横笛の音である。安成三五兵衛の愛する<span type="ruby"><span type="rb">八寒嘯</span><span type="rp">（</span><span type="rt">はっかんしょう</span><span type="rp">）</span></span>の音にそっくりであった。それは、ひとつに静止し得ない人生の行旅と、人間の感情のように、うらむが如く、<span type="ruby"><span type="rb">哭</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くがごとく、また、笑うが如く――。<lb />
+　百は、聞きとれていた。<lb />
+　ぞっと――何とは知らぬ身ぶるいを、感じながら。<lb />
+　そして、うつつな眼は、一方の草むらへじっと吸われていた。ゴソ、ゴソと、何か黒い獣じみた影が、這ってゆく。――しょう殺たる笛の音に、追われるように逃げてゆく。<lb />
+　虫の息になってまで、助かろう、生きたいと、もがいている村上賛之丞だった。<lb />
+　　　　　　×　　　×　　　×<lb />
+「あっ、寒い！」<lb />
+　百も、後ろを見ないで駈け出していた。元の所まで来て、<lb />
+きょろきょろと、<lb />
+「おっ母、どこだい」<lb />
+「ここじゃ。――百よ、ここにいるがな」<lb />
+　おしげは、露ふかい<span type="ruby"><span type="rb">芒</span><span type="rp">（</span><span type="rt">すすき</span><span type="rp">）</span></span>の中の一つ石に、腰をおろして、背なかの<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>をおろしていた。<lb />
+「さ、行こうぜ」<lb />
+「もう何にも、用事はねえかよ」<lb />
+「ああ、すっぱりと、用事はすんじまった。大川で尻を洗ったような気もちッてなあおっ母、こん夜のことだろうな」<lb />
+「わしゃ、なんだか、少しべえ名残が惜しいが」<lb />
+「よしねえ、ぐちは」<lb />
+「ああよすべえ、よすべえ」<lb />
+「武蔵野ばかりにゃ月は照らねえ。どこの野末で、<span type="ruby"><span type="rb">馬沓</span><span type="rp">（</span><span type="rt">まぐつ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">鍛</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>っても、おら、おめえの一人ぐらい、これから先はきっと安気に送らせるからな」<lb />
+「そして、おぬしもこん度こそ、よい嫁をさがしての」<lb />
+「やめたア、おらあ。当分、嫁は見あわせだ。おらあ、おっ母を、<span type="ruby"><span type="rb">愛婦</span><span type="rp">（</span><span type="rt">いろおんな</span><span type="rp">）</span></span>だと思って暮すからいい」<lb />
+「馬鹿べえいって、おふくろを、<span type="ruby"><span type="rb">愛婦</span><span type="rp">（</span><span type="rt">いろおんな</span><span type="rp">）</span></span>と思えるかいの」<lb />
+「思えるとも、おっ母にゃ、嘘がねえもの」<lb />
+　――だがしかし、百は、ふところの紅い<span type="ruby"><span type="rb">櫛</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>を、じっと、肌で抱いていた。<lb />
+「露が寒い、歩こうぜ。オヤ、<span type="ruby"><span type="rb">嬰</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>ン<span type="ruby"><span type="rb">坊</span><span type="rp">（</span><span type="rt">ぼ</span><span type="rp">）</span></span>は、寝ちまったのか」<lb />
+「罪がねえの……ごらんよ、この顔」<lb />
+　憎んでいいのか、愛すべきか、百はこんがらかった気持のなかに、じっと、無心な顔を見ていたが、いきなり、母の手から抱き取って、<lb />
+「おらが抱いてゆこう。――なんだ、軽いや、軽いや」<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

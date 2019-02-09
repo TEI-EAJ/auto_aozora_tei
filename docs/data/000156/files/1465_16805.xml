@@ -1,0 +1,963 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>蟹工船</title>
+        <author>小林多喜二</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2004-11-30">作成</resp><resp /><note>
+<lb />
+底本：「蟹工船・党生活者」新潮文庫、新潮社<lb />
+　　　1953（昭和28）年6月28日発行<lb />
+　　　1968（昭和43）年5月30日32刷改版<lb />
+　　　1998（平成10）年1月10日89版<lb />
+初出：「戦旗」<lb />
+　　　1929（昭和4）年5月、6月号<lb />
+※「<span type="ruby"><span type="rb">樺太</span><span type="rp">（</span><span type="rt">からふと</span><span type="rp">）</span></span>」と「<span type="ruby"><span type="rb">樺太</span><span type="rp">（</span><span type="rt">かばふと</span><span type="rp">）</span></span>」の混在は、底本通りにしました。<lb />
+※複数行にかかる波括弧には、罫線素片をあてました。<lb />
+入力：細見祐司<lb />
+校正：富田倫生<lb />
+<date when="2004-11-30">2004年11月30日</date>作成<lb />
+<date when="2011-04-27">2011年4月27日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>細見祐司</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>富田倫生</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>蟹工船</title><author>小林多喜二</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+「おい地獄さ<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>ぐんだで！」<lb />
+　二人はデッキの手すりに寄りかかって、<span type="ruby"><span type="rb">蝸牛</span><span type="rp">（</span><span type="rt">かたつむり</span><span type="rp">）</span></span>が背のびをしたように延びて、海を<span type="ruby"><span type="rb">抱</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>え込んでいる<span type="ruby"><span type="rb">函館</span><span type="rp">（</span><span type="rt">はこだて</span><span type="rp">）</span></span>の街を見ていた。――漁夫は指元まで吸いつくした<span type="ruby"><span type="rb">煙草</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>と一緒に捨てた。巻煙草はおどけたように、色々にひっくりかえって、高い<span type="ruby"><span type="rb">船腹</span><span type="rp">（</span><span type="rt">サイド</span><span type="rp">）</span></span>をすれずれに落ちて行った。彼は<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>一杯酒臭かった。<lb />
+　赤い太鼓腹を<span type="ruby"><span type="rb">巾</span><span type="rp">（</span><span type="rt">はば</span><span type="rp">）</span></span>広く浮かばしている汽船や、積荷最中らしく海の中から<span type="ruby"><span type="rb">片袖</span><span type="rp">（</span><span type="rt">かたそで</span><span type="rp">）</span></span>をグイと引張られてでもいるように、思いッ切り片側に傾いているのや、黄色い、太い煙突、大きな鈴のようなヴイ、<span type="ruby"><span type="rb">南京虫</span><span type="rp">（</span><span type="rt">ナンキンむし</span><span type="rp">）</span></span>のように船と船の間をせわしく縫っているランチ、寒々とざわめいている油煙やパン<span type="ruby"><span type="rb">屑</span><span type="rp">（</span><span type="rt">くず</span><span type="rp">）</span></span>や腐った果物の浮いている何か特別な織物のような波……。風の工合で煙が波とすれずれになびいて、ムッとする石炭の匂いを送った。ウインチのガラガラという音が、時々波を伝って<span type="ruby"><span type="rb">直接</span><span type="rp">（</span><span type="rt">じか</span><span type="rp">）</span></span>に響いてきた。<lb />
+　この蟹工船博光丸のすぐ手前に、ペンキの<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>げた帆船が、<span rend="sesame_dot" rendition="em">へさき</span>の牛の鼻穴のようなところから、<span type="ruby"><span type="rb">錨</span><span type="rp">（</span><span type="rt">いかり</span><span type="rp">）</span></span>の鎖を下していた、甲板を、マドロス・パイプをくわえた外人が二人同じところを何度も機械人形のように、行ったり来たりしているのが見えた。ロシアの船らしかった。たしかに日本の「蟹工船」に対する監視船だった。<lb />
+「<span type="ruby"><span type="rb">俺</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>らもう一文も無え。――<span type="ruby"><span type="rb">糞</span><span type="rp">（</span><span type="rt">くそ</span><span type="rp">）</span></span>。こら」<lb />
+　そう云って、身体をずらして寄こした。そしてもう一人の漁夫の手を握って、自分の腰のところへ持って行った。<span type="ruby"><span type="rb">袢天</span><span type="rp">（</span><span type="rt">はんてん</span><span type="rp">）</span></span>の下のコールテンのズボンのポケットに押しあてた。何か小さい箱らしかった。<lb />
+　一人は黙って、その漁夫の顔をみた。<lb />
+「ヒヒヒヒ……」と笑って、「<span type="ruby"><span type="rb">花札</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>よ」と云った。<lb />
+　ボート・デッキで、「将軍」のような<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>をした船長が、ブラブラしながら煙草をのんでいる。はき出す煙が鼻先からすぐ急角度に折れて、ちぎれ飛んだ。底に木を打った<span type="ruby"><span type="rb">草履</span><span type="rp">（</span><span type="rt">ぞうり</span><span type="rp">）</span></span>をひきずッて、食物バケツをさげた船員が急がしく「おもて」の船室を出入した。――用意はすっかり出来て、もう出るにいいばかりになっていた。<lb />
+　<span type="ruby"><span type="rb">雑夫</span><span type="rp">（</span><span type="rt">ざつふ</span><span type="rp">）</span></span>のいるハッチを上から<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>きこむと、薄暗い船底の<span type="ruby"><span type="rb">棚</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>に、巣から顔だけピョコピョコ出す鳥のように、騒ぎ廻っているのが見えた。皆十四、五の少年ばかりだった。<lb />
+「お前は<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>だ」<lb />
+「××町」みんな同じだった。函館の貧民<span type="ruby"><span type="rb">窟</span><span type="rp">（</span><span type="rt">くつ</span><span type="rp">）</span></span>の子供ばかりだった。そういうのは、それだけで一かたまりをなしていた。<lb />
+「あっちの棚は？」<lb />
+「南部」<lb />
+「それは？」<lb />
+「秋田」<lb />
+　それ等は各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />棚をちがえていた。<lb />
+「秋田の何処だ」<lb />
+　<span type="ruby"><span type="rb">膿</span><span type="rp">（</span><span type="rt">うみ</span><span type="rp">）</span></span>のような鼻をたらした、眼の<span rend="sesame_dot" rendition="em">ふち</span>があかべをしたようにただれているのが、<lb />
+「北秋田だんし」と云った。<lb />
+「百姓か？」<lb />
+「そんだし」<lb />
+　空気が<span rend="sesame_dot" rendition="em">ムン</span>として、何か果物でも腐ったすッぱい臭気がしていた。漬物を何十<span type="ruby"><span type="rb">樽</span><span type="rp">（</span><span type="rt">たる</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">蔵</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>ってある室が、すぐ隣りだったので、「糞」のような臭いも交っていた。<lb />
+「こんだ<span type="ruby"><span type="rb">親父</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>抱いて寝てやるど」――漁夫がベラベラ笑った。<lb />
+　薄暗い<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>の方で、<span type="ruby"><span type="rb">袢天</span><span type="rp">（</span><span type="rt">はんてん</span><span type="rp">）</span></span>を着、<span type="ruby"><span type="rb">股引</span><span type="rp">（</span><span type="rt">ももひき</span><span type="rp">）</span></span>をはいた、風呂敷を三角にかぶった女<span type="ruby"><span type="rb">出面</span><span type="rp">（</span><span type="rt">でめん</span><span type="rp">）</span></span>らしい母親が、<span type="ruby"><span type="rb">林檎</span><span type="rp">（</span><span type="rt">りんご</span><span type="rp">）</span></span>の皮をむいて、棚に腹ん<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>いになっている子供に食わしてやっていた。子供の食うのを見ながら、自分では<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>いたぐるぐるの輪になった皮を食っている。何かしゃべったり、子供のそばの小さい風呂敷包みを何度も解いたり、直してやっていた。そういうのが七、八人もいた。誰も送って来てくれるもののいない内地から来た子供達は、時々そっちの方を<span rend="sesame_dot" rendition="em">ぬすみ</span>見るように、見ていた。<lb />
+　髪や身体がセメントの粉まみれになっている女が、キャラメルの箱から二粒位ずつ、その附近の子供達に分けてやりながら、<lb />
+「うちの健吉と仲よく働いてやってけれよ、な」と云っていた。木の根のように<span type="ruby"><span type="rb">不恰好</span><span type="rp">（</span><span type="rt">ぶかっこう</span><span type="rp">）</span></span>に大きいザラザラした手だった。<lb />
+　子供に鼻をかんでやっているのや、<span type="ruby"><span type="rb">手拭</span><span type="rp">（</span><span type="rt">てぬぐい</span><span type="rp">）</span></span>で顔をふいてやっているのや、ボソボソ何か云っているのや、あった。<lb />
+「お前さんどこの子供は、身体は<span rend="sesame_dot" rendition="em">ええ</span>べものな」<lb />
+　母親同志だった。<lb />
+「ん、まあ」<lb />
+「俺どこのア、とても弱いんだ。どうすべかッて思うんだども、何んしろ……」<lb />
+「それア何処でも、ね」<lb />
+　――二人の漁夫がハッチから甲板へ顔を出すと、ホッとした。<span type="ruby"><span type="rb">不機嫌</span><span type="rp">（</span><span type="rt">ふきげん</span><span type="rp">）</span></span>に、急にだまり合ったまま雑夫の穴より、もっと船首の、<span type="ruby"><span type="rb">梯形</span><span type="rp">（</span><span type="rt">ていけい</span><span type="rp">）</span></span>の自分達の「巣」に帰った。錨を上げたり、下したりする度に、コンクリート・ミキサの中に投げ込まれたように、皆は<span type="ruby"><span type="rb">跳</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ね上り、ぶッつかり合わなければならなかった。<lb />
+　薄暗い中で、漁夫は豚のようにゴロゴロしていた、それに豚小屋そっくりの、胸がすぐゲエと来そうな<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いがしていた。<lb />
+「臭せえ、臭せえ」<lb />
+「そよ、俺だちだもの。ええ加減、こったら腐りかけた臭いでもすべよ」<lb />
+　赤い<span type="ruby"><span type="rb">臼</span><span type="rp">（</span><span type="rt">うす</span><span type="rp">）</span></span>のような頭をした漁夫が、一升<span type="ruby"><span type="rb">瓶</span><span type="rp">（</span><span type="rt">びん</span><span type="rp">）</span></span>そのままで、酒を端のかけた<span type="ruby"><span type="rb">茶碗</span><span type="rp">（</span><span type="rt">ちゃわん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">注</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いで、<span type="ruby"><span type="rb">鯣</span><span type="rp">（</span><span type="rt">するめ</span><span type="rp">）</span></span>をムシャムシャやりながら飲んでいた。その横に仰向けにひっくり返って、林檎を食いながら、表紙のボロボロした講談雑誌を見ているのがいた。<lb />
+　四人輪になって飲んでいたのに、まだ飲み足りなかった一人が割り込んで行った。<lb />
+「……んだべよ。四カ月も海の上だ。もう、これんかやれねべと思って……」<lb />
+　<span type="ruby"><span type="rb">頑丈</span><span type="rp">（</span><span type="rt">がんじょう</span><span type="rp">）</span></span>な身体をしたのが、そう云って、厚い下唇を時々癖のように<span type="ruby"><span type="rb">嘗</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めながら眼を細めた。<lb />
+「んで、財布これさ」<lb />
+　干柿のようなべったりした薄い<span type="ruby"><span type="rb">蟇口</span><span type="rp">（</span><span type="rt">がまぐち</span><span type="rp">）</span></span>を眼の高さに振ってみせた。<lb />
+「あの<span type="ruby"><span type="rb">白首</span><span type="rp">（</span><span type="rt">ごけ</span><span type="rp">）</span></span>、身体こったらに小せえくせに、とても<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">うめ</span><span type="rp">）</span></span>えがったどオ！」<lb />
+「おい、止せ、止せ！」<lb />
+「ええ、ええ、やれやれ」<lb />
+　相手はへへへへへと笑った。<lb />
+「見れ、ほら、感心なもんだ。ん？」酔った眼を丁度向い側の棚の下にすえて、<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>で、「ん！」と一人が云った。<lb />
+　漁夫がその女房に金を渡しているところだった。<lb />
+「見れ、見れ、なア！」<lb />
+　小さい箱の上に、<span type="ruby"><span type="rb">皺</span><span type="rp">（</span><span type="rt">しわ</span><span type="rp">）</span></span>くちゃになった札や銀貨を並べて、二人でそれを数えていた。男は小さい<span type="ruby"><span type="rb">手帖</span><span type="rp">（</span><span type="rt">てちょう</span><span type="rp">）</span></span>に鉛筆をなめ、なめ何か書いていた。<lb />
+「見れ。ん！」<lb />
+「俺にだって<span type="ruby"><span type="rb">嬶</span><span type="rp">（</span><span type="rt">かかあ</span><span type="rp">）</span></span>や子供はいるんだで」<span type="ruby"><span type="rb">白首</span><span type="rp">（</span><span type="rt">ごけ</span><span type="rp">）</span></span>のことを話した漁夫が急に怒ったように云った。<lb />
+　そこから少し離れた棚に、<span type="ruby"><span type="rb">宿酔</span><span type="rp">（</span><span type="rt">ふつかよい</span><span type="rp">）</span></span>の青ぶくれに<span rend="sesame_dot" rendition="em">ムクン</span>だ顔をした、頭の前だけを長くした若い漁夫が、<lb />
+「俺アもう今度こそア船さ来ねえッて思ってたんだけれどもな」と大声で云っていた。「周旋屋に引っ張り廻されて、文無しになってよ。――又、長げえこと<span rend="sesame_dot" rendition="em">くたばる</span>めに合わされるんだ」<lb />
+　こっちに背を見せている同じ処から来ているらしい男が、それに何かヒソヒソ云っていた。<lb />
+　ハッチの降口に始め<span type="ruby"><span type="rb">鎌足</span><span type="rp">（</span><span type="rt">かまあし</span><span type="rp">）</span></span>を見せて、ゴロゴロする大きな昔風の信玄袋を<span type="ruby"><span type="rb">担</span><span type="rp">（</span><span type="rt">にな</span><span type="rp">）</span></span>った男が、<span type="ruby"><span type="rb">梯子</span><span type="rp">（</span><span type="rt">はしご</span><span type="rp">）</span></span>を下りてきた。床に立ってキョロキョロ見廻わしていたが、<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>いているのを見付けると、棚に上って来た。<lb />
+「今日は」と云って、横の男に頭を下げた。顔が何かで染ったように、油じみて、黒かった。「仲間さ<span type="ruby"><span type="rb">入</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>れて貰えます」<lb />
+　後で分ったことだが、この男は、船へ来るすぐ前まで夕張炭坑に七年も坑夫をしていた。それがこの前のガス爆発で、危く死に<span type="ruby"><span type="rb">損</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>ねてから――前に何度かあった事だが――フイと坑夫が恐ろしくなり、<span type="ruby"><span type="rb">鉱山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>を下りてしまった。爆発のとき、彼は同じ坑内にトロッコを押して働いていた。トロッコに一杯石炭を積んで、他の人の受持場まで押して行った時だった。彼は百のマグネシウムを瞬間眼の前でたかれたと思った。それと、そして１／500<span rend="notes">［＃「１／500」は分数］</span>秒もちがわず、自分の身体が紙ッ<span type="ruby"><span type="rb">片</span><span type="rp">（</span><span type="rt">きれ</span><span type="rp">）</span></span>のように何処かへ飛び上ったと思った。何台というトロッコがガスの圧力で、眼の前を空のマッチ箱よりも軽くフッ飛んで行った。それッ切り分らなかった。どの位<span type="ruby"><span type="rb">経</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ったか、自分のうなった声で眼が開いた。監督や工夫が爆発が他へ及ばないように、坑道に壁を作っていた。彼はその時壁の後から、助ければ助けることの出来る炭坑夫の、一度聞いたら心に縫い込まれでもするように、決して忘れることの出来ない、救いを求める声を「ハッキリ」聞いた。――彼は急に立ち上ると、気が狂ったように、<lb />
+「駄目だ、駄目だ！」と皆の中に飛びこんで、叫びだした。（彼は前の時は、自分でその壁を作ったことがあった。そのときは何んでもなかったのだったが）<lb />
+「馬鹿野郎！　ここさ火でも移ってみろ、大損だ」<lb />
+　だが、だんだん声の低くなって行くのが分るではないか！　彼は何を思ったのか、手を振ったり、わめいたりして、無茶苦茶に坑道を走り出した。何度ものめったり、坑木に額を打ちつけた。全身ドロと血まみれになった。途中、トロッコの枕木につまずいて、<span type="ruby"><span type="rb">巴投</span><span type="rp">（</span><span type="rt">ともえな</span><span type="rp">）</span></span>げにでもされたように、レールの上にたたきつけられて、又気を失ってしまった。<lb />
+　その事を聞いていた若い漁夫は、<lb />
+「さあ、ここだってそう大して変らないが……」と云った。<lb />
+　彼は坑夫独特な、まばゆいような、黄色ッぽく<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">つや</span><span type="rp">）</span></span>のない<span type="ruby"><span type="rb">眼差</span><span type="rp">（</span><span type="rt">まなざし</span><span type="rp">）</span></span>を漁夫の上にじっと置いて、黙っていた。<lb />
+　秋田、青森、岩手から来た「百姓の漁夫」のうちでは、大きく<span type="ruby"><span type="rb">安坐</span><span type="rp">（</span><span type="rt">あぐら</span><span type="rp">）</span></span>をかいて、両手をはすがいに<span type="ruby"><span type="rb">股</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>に差しこんで<span rend="sesame_dot" rendition="em">ムシッ</span>としているのや、<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>を抱えこんで柱によりかかりながら、無心に皆が酒を飲んでいるのや、勝手にしゃべり合っているのに聞き入っているのがある。――朝暗いうちから畑に出て、それで食えないで、追払われてくる者達だった。長男一人を残して――それでもまだ食えなかった――女は工場の女工に、次男も三男も何処かへ出て働かなければならない。<span type="ruby"><span type="rb">鍋</span><span type="rp">（</span><span type="rt">なべ</span><span type="rp">）</span></span>で豆を<span rend="sesame_dot" rendition="em">え</span>るように、余った人間はドシドシ土地からハネ飛ばされて、市に流れて出てきた。彼等はみんな「金を残して」<span type="ruby"><span type="rb">内地</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>に帰ることを考えている。<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>し働いてきて、一度陸を踏む、すると<span rend="sesame_dot" rendition="em">モチ</span>を踏みつけた小鳥のように、函館や小樽でバタバタやる。そうすれば、まるッきり簡単に「生れた時」とちっとも変らない赤裸になって、おっぽり出された。<span type="ruby"><span type="rb">内地</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>へ帰れなくなる。彼等は、身寄りのない雪の北海道で「<span type="ruby"><span type="rb">越年</span><span type="rp">（</span><span type="rt">おつねん</span><span type="rp">）</span></span>」するために、自分の身体を手鼻位の値で「売らなければならない」――彼等はそれを何度繰りかえしても、出来の悪い子供のように、次の年には又平気で（？）同じことをやってのけた。<lb />
+　菓子折を背負った沖売の女や、薬屋、それに日用品を持った商人が入ってきた。真中の離島のように区切られている所に、それぞれの品物を広げた。皆は四方の棚の上下の寝床から身体を乗り出して、ひやかしたり、<span type="ruby"><span type="rb">笑談</span><span type="rp">（</span><span type="rt">じょうだん</span><span type="rp">）</span></span>を云った。<lb />
+「お<span type="ruby"><span type="rb">菓子</span><span type="rp">（</span><span type="rt">がし</span><span type="rp">）</span></span>めえか、ええ、ねっちゃよ？」<lb />
+「あッ、もッちょこい！」沖売の女が<span type="ruby"><span type="rb">頓狂</span><span type="rp">（</span><span type="rt">とんきょう</span><span type="rp">）</span></span>な声を出して、ハネ上った。「人の<span type="ruby"><span type="rb">尻</span><span type="rp">（</span><span type="rt">しり</span><span type="rp">）</span></span>さ手ばやったりして、いけすかない、この男！」<lb />
+　菓子で口をモグモグさせていた男が、皆の視線が自分に集ったことにテレて、ゲラゲラ笑った。<lb />
+「この<span type="ruby"><span type="rb">女子</span><span type="rp">（</span><span type="rt">あねこ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">可愛</span><span type="rp">（</span><span type="rt">めんこ</span><span type="rp">）</span></span>いな」<lb />
+　便所から、片側の壁に片手をつきながら、危い足取りで帰ってきた酔払いが、通りすがりに、赤黒くプクンとしている女の<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほっ</span><span type="rp">）</span></span>ぺたをつッついた。<lb />
+「何んだね」<lb />
+「怒んなよ。――この<span type="ruby"><span type="rb">女子</span><span type="rp">（</span><span type="rt">あねこ</span><span type="rp">）</span></span>ば抱いて寝てやるべよ」<lb />
+　そう云って、女におどけた恰好をした。皆が笑った。<lb />
+「おい<span type="ruby"><span type="rb">饅頭</span><span type="rp">（</span><span type="rt">まんじゅう</span><span type="rp">）</span></span>、饅頭！」<lb />
+　ずウと<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>の方から誰か大声で叫んだ。<lb />
+「ハアイ……」こんな処ではめずらしい女のよく通る澄んだ声で返事をした。「<span type="ruby"><span type="rb">幾</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>ぼですか？」<lb />
+「<span type="ruby"><span type="rb">幾</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>ぼ？　二つもあったら<span type="ruby"><span type="rb">不具</span><span type="rp">（</span><span type="rt">かたわ</span><span type="rp">）</span></span>だべよ。――お饅頭、お饅頭！」――急にワッと笑い声が起った。<lb />
+「この前、竹田って男が、あの沖売の女ば無理矢理に誰もいねえどこさ引っ張り込んで行ったんだとよ。んだけ、面白いんでないか。何んぼ、どうやっても駄目だって云うんだ……」酔った若い男だった。「……<span type="ruby"><span type="rb">猿又</span><span type="rp">（</span><span type="rt">さるまた</span><span type="rp">）</span></span>はいてるんだとよ。竹田がいきなりそれを力一杯にさき取ってしまったんだども、まだ下にはいてるッて云うんでねか。――三枚もはいてたとよ……」男が<span type="ruby"><span type="rb">頸</span><span type="rp">（</span><span type="rt">くび</span><span type="rp">）</span></span>を縮めて笑い出した。<lb />
+　その男は冬の間はゴム靴会社の職工だった。春になり仕事が無くなると、カムサツカへ<span type="ruby"><span type="rb">出稼</span><span type="rp">（</span><span type="rt">でかせ</span><span type="rp">）</span></span>ぎに出た。どっちの仕事も「季節労働」なので、（北海道の仕事は<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほと</span><span type="rp">）</span></span>んどそれだった）イザ夜業となると、ブッ続けに続けられた。「もう三年も生きれたら有難い」と云っていた。粗製ゴムのような、死んだ色の膚をしていた。<lb />
+　漁夫の仲間には、北海道の奥地の開墾地や、鉄道敷設の土工部屋へ「<span type="ruby"><span type="rb">蛸</span><span type="rp">（</span><span type="rt">たこ</span><span type="rp">）</span></span>」に売られたことのあるものや、各地を食いつめた「渡り者」や、酒だけ飲めば何もかもなく、ただそれでいいものなどがいた。青森辺の善良な村長さんに選ばれてきた「何も知らない」「木の根ッこのように」正直な百姓もその中に交っている。――そして、こういう<span rend="sesame_dot" rendition="em">てんでんばらばら</span>のもの等を集めることが、雇うものにとって、この上なく都合のいいことだった。（函館の労働組合は蟹工船、カムサツカ行の漁夫のなかに組織者を入れることに死物狂いになっていた。青森、秋田の組合などとも連絡をとって。――<span rend="sesame_dot" rendition="em">それを何より恐れていた</span>）<lb />
+　<span type="ruby"><span type="rb">糊</span><span type="rp">（</span><span type="rt">のり</span><span type="rp">）</span></span>のついた真白い、<span type="ruby"><span type="rb">上衣</span><span type="rp">（</span><span type="rt">うわぎ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">丈</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>の短い服を着た<span type="ruby"><span type="rb">給仕</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>が、「とも」のサロンに、ビール、果物、洋酒のコップを持って、忙しく往き来していた。サロンには、「会社のオッかない人、船長、監督、それにカムサツカで警備の任に当る駆逐艦の<span type="ruby"><span type="rb">御大</span><span type="rp">（</span><span type="rt">おんたい</span><span type="rp">）</span></span>、水上警察の署長さん、海員組合の<span type="ruby"><span type="rb">折鞄</span><span type="rp">（</span><span type="rt">おりかばん</span><span type="rp">）</span></span>」がいた。<lb />
+「畜生、ガブガブ飲むったら、ありゃしない」――給仕はふくれかえっていた。<lb />
+　漁夫の「穴」に、<span rend="sesame_dot" rendition="em">浜なす</span>のような電気がついた。煙草の煙や人<span rend="sesame_dot" rendition="em">いきれ</span>で、空気が濁って、臭く、穴全体がそのまま「<span type="ruby"><span type="rb">糞壺</span><span type="rp">（</span><span type="rt">くそつぼ</span><span type="rp">）</span></span>」だった。区切られた寝床にゴロゴロしている人間が、<span type="ruby"><span type="rb">蛆虫</span><span type="rp">（</span><span type="rt">うじむし</span><span type="rp">）</span></span>のようにうごめいて見えた。――漁業監督を先頭に、船長、工場代表、雑夫長がハッチを下りて入って来た。船長は先のハネ上っている<span type="ruby"><span type="rb">髭</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>を気にして、始終ハンカチで上唇を<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>でつけた。通路には、林檎やバナナの皮、グジョグジョした<span type="ruby"><span type="rb">高丈</span><span type="rp">（</span><span type="rt">たかじょう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span>、飯粒のこびりついている薄皮などが捨ててあった。流れの止った<span type="ruby"><span type="rb">泥溝</span><span type="rp">（</span><span type="rt">どぶ</span><span type="rp">）</span></span>だった。監督は<span rend="sesame_dot" rendition="em">じろり</span>それを見ながら、無遠慮に唾をはいた。――どれも飲んで来たらしく、顔を赤くしていた。<lb />
+「<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>云って置く」監督が土方の<span type="ruby"><span type="rb">棒頭</span><span type="rp">（</span><span type="rt">ぼうがしら</span><span type="rp">）</span></span>のように<span type="ruby"><span type="rb">頑丈</span><span type="rp">（</span><span type="rt">がんじょう</span><span type="rp">）</span></span>な身体で、片足を寝床の仕切りの上にかけて、<span type="ruby"><span type="rb">楊子</span><span type="rp">（</span><span type="rt">ようじ</span><span type="rp">）</span></span>で口をモグモグさせながら、時々歯にはさまったものを、トットッと飛ばして、口を切った。<lb />
+「分ってるものもあるだろうが、云うまでもなくこの蟹工船の事業は、ただ単にだ、一会社の<span type="ruby"><span type="rb">儲仕事</span><span type="rp">（</span><span type="rt">もうけしごと</span><span type="rp">）</span></span>と見るべきではなくて、国際上の一大問題なのだ。我々が――我々日本帝国人民が偉いか、露助が偉いか。一騎打ちの戦いなんだ。それに<span type="ruby"><span type="rb">若</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>し、若しもだ。そんな事は絶対にあるべき<span type="ruby"><span type="rb">筈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>がないが、負けるようなことがあったら、<span type="ruby"><span type="rb">睾丸</span><span type="rp">（</span><span type="rt">きんたま</span><span type="rp">）</span></span>をブラ下げた日本男児は腹でも切って、カムサツカの海の中にブチ落ちることだ。身体が小さくたって、野呂間な露助に負けてたまるもんじゃない。<lb />
+「それに、我カムサツカの漁業は蟹罐詰ばかりでなく、<span type="ruby"><span type="rb">鮭</span><span type="rp">（</span><span type="rt">さけ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">鱒</span><span type="rp">（</span><span type="rt">ます</span><span type="rp">）</span></span>と共に、国際的に云ってだ、他の国とは比らべもならない優秀な地位を保っており、又日本国内の行き詰った人口問題、食糧問題に対して、重大な使命を持っているのだ。こんな事をしゃべったって、お前等には分りもしないだろうが、ともかくだ、日本帝国の大きな使命のために、俺達は命を的に、北海の荒波をつッ切って行くのだということを知ってて貰わにゃならない。だからこそ、あっちへ行っても始終我帝国の軍艦が我々を守っていてくれることになっているのだ。……それを今<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>りの露助の<span type="ruby"><span type="rb">真似</span><span type="rp">（</span><span type="rt">まね</span><span type="rp">）</span></span>をして、飛んでもないことを<span rend="sesame_dot" rendition="em">ケシ</span>かけるものがあるとしたら、それこそ、取りも直さず日本帝国を売るものだ。こんな事は無い筈だが、よッく覚えておいて貰うことにする……」<lb />
+　監督は酔いざめの<span rend="sesame_dot" rendition="em">くさめ</span>を何度もした。<lb />
+<lb />
+　酔払った駆逐艦の<span rend="sesame_dot" rendition="em">御大</span>はバネ仕掛の人形のようなギクシャクした足取りで、待たしてあるランチに乗るために、タラップを下りて行った。水兵が上と下から、カントン袋に入れた石ころみたいな艦長を抱えて、殆んど持てあましてしまった。手を振ったり、足をふんばったり、勝手なことをわめく艦長のために、水兵は何度も<span type="ruby"><span type="rb">真正面</span><span type="rp">（</span><span type="rt">まとも</span><span type="rp">）</span></span>から自分の顔に「唾」を吹きかけられた。<lb />
+「表じゃ、何んとか、かんとか偉いこと云ってこの<span type="ruby"><span type="rb">態</span><span type="rp">（</span><span type="rt">ざま</span><span type="rp">）</span></span>なんだ」<lb />
+　艦長をのせてしまって、一人がタラップのおどり場からロープを外しながら、ちらっと艦長の方を見て、低い声で云った。<lb />
+「やっちまうか<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />……」<lb />
+　二人は一寸息をのんだ、が……声を合せて笑い出した。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+　<span type="ruby"><span type="rb">祝津</span><span type="rp">（</span><span type="rt">しゅくつ</span><span type="rp">）</span></span>の燈台が、廻転する度にキラッキラッと光るのが、ずウと遠い右手に、一面灰色の海のような<span type="ruby"><span type="rb">海霧</span><span type="rp">（</span><span type="rt">ガス</span><span type="rp">）</span></span>の中から見えた。それが他方へ廻転してゆくとき、何か神秘的に、長く、遠く白銀色の<span type="ruby"><span type="rb">光茫</span><span type="rp">（</span><span type="rt">こうぼう</span><span type="rp">）</span></span>を何<span type="ruby"><span type="rb">海浬</span><span type="rp">（</span><span type="rt">かいり</span><span type="rp">）</span></span>もサッと引いた。<lb />
+　<span type="ruby"><span type="rb">留萌</span><span type="rp">（</span><span type="rt">るもい</span><span type="rp">）</span></span>の沖あたりから、細い、ジュクジュクした雨が降り出してきた。漁夫や雑夫は蟹の<span type="ruby"><span type="rb">鋏</span><span type="rp">（</span><span type="rt">はさみ</span><span type="rp">）</span></span>のようにかじかんだ手を時々はすがいに<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>の中につッこんだり、口のあたりを両手で<span type="ruby"><span type="rb">円</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>るく囲んで、ハアーと息をかけたりして働かなければならなかった。――納豆の糸のような雨がしきりなしに、それと同じ色の不透明な海に降った。が、<span type="ruby"><span type="rb">稚内</span><span type="rp">（</span><span type="rt">わっかない</span><span type="rp">）</span></span>に近くなるに従って、雨が粒々になって来、広い海の面が旗でもなびくように、うねりが出て来て、そして又それが細かく、せわしなくなった。――風がマストに当ると不吉に鳴った。<span type="ruby"><span type="rb">鋲</span><span type="rp">（</span><span type="rt">びょう</span><span type="rp">）</span></span>がゆるみでもするように、ギイギイと船の何処かが、しきりなしに<span rend="sesame_dot" rendition="em">きし</span>んだ。宗谷海峡に入った時は、三千<span type="ruby"><span type="rb">噸</span><span type="rp">（</span><span type="rt">トン</span><span type="rp">）</span></span>に近いこの船が、<span rend="sesame_dot" rendition="em">しゃっくり</span>にでも取りつかれたように、ギク、シャクし出した。何か素晴しい力でグイと持ち上げられる。船が一瞬間宙に浮かぶ。――が、<span rend="sesame_dot" rendition="em">ぐウ</span>と元の位置に沈む。エレヴエターで下りる瞬間の、小便がもれそうになる、くすぐったい不快さをその<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>に感じた。雑夫は黄色になえて、船酔らしく眼だけとんがらせて、ゲエ、ゲエしていた。<lb />
+　波のしぶきで曇った円るい<span type="ruby"><span type="rb">舷窓</span><span type="rp">（</span><span type="rt">げんそう</span><span type="rp">）</span></span>から、ひょいひょいと<span type="ruby"><span type="rb">樺太</span><span type="rp">（</span><span type="rt">からふと</span><span type="rp">）</span></span>の、雪のある山並の堅い線が見えた。<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>しすぐそれはガラスの外へ、アルプスの氷山のようにモリモリとむくれ上ってくる波に隠されてしまう。寒々とした深い谷が出来る。それが見る見る近付いてくると、窓のところへドッと打ち当り、砕けて、ザアー……と泡立つ。そして、そのまま後へ、後へ、窓をすべって、パノラマのように流れてゆく。船は時々子供がするように、身体を<span type="ruby"><span type="rb">揺</span><span type="rp">（</span><span type="rt">ゆす</span><span type="rp">）</span></span>った。棚から<span rend="sesame_dot" rendition="em">もの</span>が落ちる音や、ギ――イと何か<span rend="sesame_dot" rendition="em">たわむ</span>音や、波に横ッ腹がドブ――ンと打ち当る音がした。――その間中、機関室からは機関の音が色々な器具を伝って、<span type="ruby"><span type="rb">直接</span><span type="rp">（</span><span type="rt">じか</span><span type="rp">）</span></span>に少しの震動を伴ってドッ、ドッ、ドッ……と響いていた。時々波の背に乗ると、スクリュが空廻りをして、翼で水の表面をたたきつけた。<lb />
+　風は益々強くなってくるばかりだった。二本のマストは<span type="ruby"><span type="rb">釣竿</span><span type="rp">（</span><span type="rt">つりざお</span><span type="rp">）</span></span>のようにたわんで、ビュウビュウ泣き出した。波は丸太棒の上でも一またぎする位の無雑作で、船の片側から他の側へ暴力団のようにあばれ込んできて、流れ出て行った。その瞬間、出口がザアーと滝になった。<lb />
+　見る見るもり上った山の、恐ろしく大きな斜面に<span type="ruby"><span type="rb">玩具</span><span type="rp">（</span><span type="rt">おもちゃ</span><span type="rp">）</span></span>の船程に、ちょこんと横にのッかることがあった。と、船はのめったように、ドッ、ドッと、その谷底へ落ちこんでゆく。今にも、沈む！　が、谷底にはすぐ別な波がむくむくと<span type="ruby"><span type="rb">起</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ち上ってきて、ドシンと船の横腹と体当りをする。<lb />
+　オホツック海へ出ると、海の色がハッキリもっと灰色がかって来た。着物の上からゾクゾクと寒さが刺し込んできて、雑夫は皆唇をブシ色にして仕事をした。寒くなればなる程、塩のように乾いた、細かい雪がビュウ、ビュウ吹きつのってきた。それは<span type="ruby"><span type="rb">硝子</span><span type="rp">（</span><span type="rt">ガラス</span><span type="rp">）</span></span>の細かいカケラのように甲板に<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>いつくばって働いている雑夫や漁夫の顔や手に突きささった。波が一波甲板を洗って行った後は、すぐ凍えて、デラデラに<span type="ruby"><span type="rb">滑</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>った。皆はデッキからデッキへロープを張り、それに各自が<span rend="sesame_dot" rendition="em">おしめ</span>のようにブラ下り、作業をしなければならなかった。――監督は鮭殺しの<span type="ruby"><span type="rb">棍棒</span><span type="rp">（</span><span type="rt">こんぼう</span><span type="rp">）</span></span>をもって、大声で怒鳴り散らした。<lb />
+　同時に函館を出帆した他の蟹工船は、何時の間にか離れ離れになってしまっていた。それでも思いっ切りアルプスの絶頂に乗り上ったとき、<span type="ruby"><span type="rb">溺死者</span><span type="rp">（</span><span type="rt">できししゃ</span><span type="rp">）</span></span>が両手を振っているように、揺られに揺られている二本のマストだけが遠くに見えることがあった。煙草の煙ほどの煙が、波とすれずれに吹きちぎられて、飛んでいた。……波浪と叫喚のなかから、確かにその船が鳴らしているらしい汽笛が、間を置いてヒュウ、ヒュウと聞えた。が、次の瞬間、こっちがアプ、アプでもするように、谷底に転落して行った。<lb />
+　蟹工船には川崎船を八隻のせていた。船員も漁夫もそれを何千匹の<span type="ruby"><span type="rb">鱶</span><span type="rp">（</span><span type="rt">ふか</span><span type="rp">）</span></span>のように、白い歯をむいてくる波に<span rend="sesame_dot" rendition="em">もぎ</span>取られないように、縛りつけるために、自分等の命を「安々」と<span type="ruby"><span type="rb">賭</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けなければならなかった。――「貴様等の一人、二人が何んだ。川崎一<span type="ruby"><span type="rb">艘</span><span type="rp">（</span><span type="rt">ぱい</span><span type="rp">）</span></span>取られてみろ、たまったもんでないんだ」――監督は<span rend="sesame_dot" rendition="em">日本語</span>でハッキリそういった。<lb />
+　カムサツカの海は、よくも来やがった、と待ちかまえていたように見えた。ガツ、ガツに飢えている<span type="ruby"><span type="rb">獅子</span><span type="rp">（</span><span type="rt">しし</span><span type="rp">）</span></span>のように、えどなみかかってきた。船はまるで<span type="ruby"><span type="rb">兎</span><span type="rp">（</span><span type="rt">うさぎ</span><span type="rp">）</span></span>より、もっと弱々しかった。空一面の吹雪は、風の工合で、白い大きな旗がなびくように見えた。夜近くなってきた。しかし<span type="ruby"><span type="rb">時化</span><span type="rp">（</span><span type="rt">しけ</span><span type="rp">）</span></span>は止みそうもなかった。<lb />
+　仕事が終ると、皆は「糞壺」の中へ順々に入り込んできた。手や足は大根のように冷えて、感覚なく身体についていた。皆は蚕のように、各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />の棚の中に入ってしまうと、誰も一口も口をきくものがいなかった。ゴロリ横になって、鉄の支柱につかまった。船は、背に食いついている<span type="ruby"><span type="rb">虻</span><span type="rp">（</span><span type="rt">あぶ</span><span type="rp">）</span></span>を追払う馬のように、身体を<span rend="sesame_dot" rendition="em">ヤケ</span>に振っている。漁夫はあてのない視線を白ペンキが黄色に<span type="ruby"><span type="rb">煤</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>けた天井にやったり、<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほと</span><span type="rp">）</span></span>んど海の中に入りッ切りになっている青黒い円窓にやったり……中には、<span type="ruby"><span type="rb">呆</span><span type="rp">（</span><span type="rt">ほお</span><span type="rp">）</span></span>けたようにキョトンと口を半開きにしているものもいた。誰も、何も考えていなかった。漠然とした不安な自覚が、皆を不機嫌にだまらせていた。<lb />
+　顔を仰向けにして、グイとウイスキーをラッパ飲みにしている。赤黄く濁った、にぶい電燈のなかでチラッと<span type="ruby"><span type="rb">瓶</span><span type="rp">（</span><span type="rt">びん</span><span type="rp">）</span></span>の角が光ってみえた。――ガラ、ガラッと、ウイスキーの空瓶が二、三カ所に稲妻形に打ち当って、棚から通路に力一杯に投げ出された。皆は頭だけをその方に向けて、眼で瓶を追った。――隅の方で誰か怒った声を出した。時化にとぎれて、それが片言のように聞えた。<lb />
+「日本を離れるんだど」円窓を<span type="ruby"><span type="rb">肱</span><span type="rp">（</span><span type="rt">ひじ</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">拭</span><span type="rp">（</span><span type="rt">ぬぐ</span><span type="rp">）</span></span>っている。<lb />
+「糞壺」のストーヴはブスブス<span type="ruby"><span type="rb">燻</span><span type="rp">（</span><span type="rt">くすぶ</span><span type="rp">）</span></span>ってばかりいた。鮭や鱒と間違われて、「冷蔵庫」へ投げ込まれたように、その中で「生きている」人間はガタガタ<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>えていた。ズックで<span type="ruby"><span type="rb">覆</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>ったハッチの上をザア、ザアと波が<span type="ruby"><span type="rb">大股</span><span type="rp">（</span><span type="rt">おおまた</span><span type="rp">）</span></span>に乗り越して行った。それが、その度に太鼓の内部みたいな「糞壺」の鉄壁に、<span type="ruby"><span type="rb">物凄</span><span type="rp">（</span><span type="rt">ものすご</span><span type="rp">）</span></span>い反響を起した。時々漁夫の寝ているすぐ横が、グイと男の強い肩でつかれたように、ドシンとくる。――今では、船は、断末魔の鯨が、荒狂う<span type="ruby"><span type="rb">波濤</span><span type="rp">（</span><span type="rt">はとう</span><span type="rp">）</span></span>の間に身体をのたうっている、そのままだった。<lb />
+「飯だ！」<span type="ruby"><span type="rb">賄</span><span type="rp">（</span><span type="rt">まかない</span><span type="rp">）</span></span>がドアーから身体の上半分をつき出して、口で両手を囲んで叫んだ。「時化てるから汁なし」<lb />
+「何んだって？」<lb />
+「腐れ塩引！」顔をひっこめた。<lb />
+　思い、思い身体を起した。飯を食うことには、皆は囚人のような執念さを持っていた。ガツガツだった。<lb />
+　塩引の皿を安坐をかいた股の間に置いて、湯気をふきながら、バラバラした熱い飯を頬ばると、舌の上でせわしく、あちこちへやった。「初めて」熱いものを鼻先にもってきたために、<span type="ruby"><span type="rb">水洟</span><span type="rp">（</span><span type="rt">みずばな</span><span type="rp">）</span></span>がしきりなしに下がって、ひょいと飯の中に落ちそうになった。<lb />
+　飯を食っていると、監督が入ってきた。<lb />
+「<span rend="sesame_dot" rendition="em">いけホイドして</span>、ガツガツまくらうな。仕事も<span rend="sesame_dot" rendition="em">ろく</span>に出来ない日に、飯ば<span type="ruby"><span type="rb">鱈腹</span><span type="rp">（</span><span type="rt">たらふく</span><span type="rp">）</span></span>食われてたまるもんか」<lb />
+　ジロジロ棚の上下を見ながら、左肩だけを前の方へ<span type="ruby"><span type="rb">揺</span><span type="rp">（</span><span type="rt">ゆす</span><span type="rp">）</span></span>って出て行った。<lb />
+「一体<span rend="sesame_dot" rendition="em">あいつ</span>にあんなことを云う権利があるのか」――船酔と過労で、ゲッソリやせた学生上りが、ブツブツ云った。<lb />
+「浅川ッたら蟹工の浅か、浅の蟹工かッてな」<lb />
+「天皇陛下は雲の上にいるから、俺達にャどうでもいいんだけど、浅ってなれば、どっこいそうは行かないからな」<lb />
+　別な方から、<lb />
+「ケチケチすんねえ、何んだ、飯の一杯、二杯！　なぐってしまえ！」唇を<span type="ruby"><span type="rb">尖</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>んがらした声だった。<lb />
+「偉い偉い。そいつを浅の前で云えれば、なお偉い！」<lb />
+　皆は仕方なく、腹を立てたまま、笑ってしまった。<lb />
+　夜、余程過ぎてから、雨合羽を着た監督が、漁夫の寝ているところへ入ってきた。船の動揺を棚の<span type="ruby"><span type="rb">枠</span><span type="rp">（</span><span type="rt">わく</span><span type="rp">）</span></span>につかまって<span type="ruby"><span type="rb">支</span><span type="rp">（</span><span type="rt">ささ</span><span type="rp">）</span></span>えながら、一々漁夫の間にカンテラを差しつけて歩いた。<span type="ruby"><span type="rb">南瓜</span><span type="rp">（</span><span type="rt">かぼちゃ</span><span type="rp">）</span></span>のようにゴロゴロしている頭を、無遠慮にグイグイと向き直して、カンテラで照らしてみていた。フンづけられたって、目を覚ます筈がなかった。全部照し終ると、一寸立ち止まって舌打ちをした。――どうしようか、そんな風だった。が、すぐ次の賄部屋の方へ歩き出した。末広な、青ッぽいカンテラの光が揺れる度に、ゴミゴミした棚の一部や、<span type="ruby"><span type="rb">脛</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>の長い防水ゴム靴や、支柱に懸けてあるドザや<span type="ruby"><span type="rb">袢天</span><span type="rp">（</span><span type="rt">はんてん</span><span type="rp">）</span></span>、それに<span type="ruby"><span type="rb">行李</span><span type="rp">（</span><span type="rt">こうり</span><span type="rp">）</span></span>などの一部分がチラ、チラッと光って、消えた。――足元に光が<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>えながら一瞬間<span type="ruby"><span type="rb">溜</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>まる、と今度は賄のドアーに幻燈のような円るい光の輪を写した。――次の朝になって、雑夫の一人が<span type="ruby"><span type="rb">行衛</span><span type="rp">（</span><span type="rt">ゆくえ</span><span type="rp">）</span></span>不明になったことが知れた。<lb />
+　皆は前の日の「無茶な仕事」を思い、「あれじゃ、波に<span type="ruby"><span type="rb">浚</span><span type="rp">（</span><span type="rt">さら</span><span type="rp">）</span></span>われたんだ」と思った。イヤな気持がした。然し漁夫達が未明から追い廻わされたので、そのことではお互に話すことが出来なかった。<lb />
+「こったら<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">しゃ</span><span type="rp">）</span></span>ッこい水さ、誰が好き好んで飛び込むって！　隠れてやがるんだ。見付けたら、畜生、タタきのめしてやるから！」<lb />
+　監督は棍棒を玩具のようにグルグル廻しながら、船の中を探して歩いた。<lb />
+　時化は頂上を過ぎてはいた。それでも、船が行先きにもり上った波に突き入ると、「おもて」の甲板を、波は自分の敷居でもまたぐように何んの雑作もなく、乗り越してきた。一昼夜の闘争で、満身に痛手を負ったように、船は何処か<span type="ruby"><span type="rb">跛</span><span type="rp">（</span><span type="rt">びっこ</span><span type="rp">）</span></span>な音をたてて進んでいた。薄い煙のような雲が、手が届きそうな上を、マストに打ち当りながら、急角度を切って吹きとんで行った。小寒い雨がまだ止んでいなかった。四囲にもりもりと波がムクレ上ってくると、海に射込む雨足がハッキリ見えた。それは原始林の中に迷いこんで、雨に会うのより、もっと不気味だった。<lb />
+　麻のロープが鉄管でも握るように、バリ、バリに凍えている。学生上りが、すべる足下に気を配りながら、それにつかまって、デッキを渡ってゆくと、タラップの段々を一つ置きに片足で跳躍して上ってきた給仕に会った。<lb />
+「チョッと」給仕が風の当らない角に引張って行った。「面白いことがあるんだよ」と云って話してきかせた。<lb />
+　――今朝の二時頃だった。ボート・デッキの上まで波が躍り上って、間を置いて、バジャバジャ、ザアッとそれが滝のように流れていた。夜の<span type="ruby"><span type="rb">闇</span><span type="rp">（</span><span type="rt">やみ</span><span type="rp">）</span></span>の中で、波が歯をムキ出すのが、時々青白く光ってみえた。時化のために皆寝ずにいた。その時だった。<lb />
+　船長室に無電係が<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>ててかけ込んできた。<lb />
+「船長、大変です。Ｓ・Ｏ・Ｓです！」<lb />
+「Ｓ・Ｏ・Ｓ？　――何船だ<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />」<lb />
+「秩父丸です。本船と並んで進んでいたんです」<lb />
+「ボロ船だ、それア！」――浅川が<span type="ruby"><span type="rb">雨合羽</span><span type="rp">（</span><span type="rt">あまがっぱ</span><span type="rp">）</span></span>を着たまま、<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>の方の椅子に大きく<span type="ruby"><span type="rb">股</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>を開いて、腰をかけていた。片方の靴の先だけを、小馬鹿にしたように、カタカタ動かしながら、笑った。「もっとも、どの船だって、ボロ船だがな」<lb />
+「一刻と云えないようです」<lb />
+「うん、それア大変だ」<lb />
+　船長は、舵機室に上るために、急いで、<span type="ruby"><span type="rb">身仕度</span><span type="rp">（</span><span type="rt">みじたく</span><span type="rp">）</span></span>もせずにドアーを開けようとした。然し、まだ開けないうちだった。いきなり、浅川が船長の右肩をつかんだ。<lb />
+「余計な寄道せって、誰が命令したんだ」<lb />
+　誰が命令した？「船長」ではないか。――が、<span type="ruby"><span type="rb">突嗟</span><span type="rp">（</span><span type="rt">とっさ</span><span type="rp">）</span></span>のことで、船長は<span type="ruby"><span type="rb">棒杭</span><span type="rp">（</span><span type="rt">ぼうぐい</span><span type="rp">）</span></span>より、もっとキョトンとした。然し、すぐ彼は自分の立場を取り戻した。<lb />
+「船長としてだ」<lb />
+「船長としてだア――ア<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />」船長の前に立ちはだかった監督が、尻上りの侮辱した調子で<span type="ruby"><span type="rb">抑</span><span type="rp">（</span><span type="rt">おさ</span><span type="rp">）</span></span>えつけた。「おい、一体これア誰の船だんだ。会社が<span type="ruby"><span type="rb">傭船</span><span type="rp">（</span><span type="rt">チアタア</span><span type="rp">）</span></span>してるんだで、金を払って。<span rend="sesame_dot" rendition="em">もの</span>を云えるのア会社代表の須田さんとこの俺だ。お前なんぞ、船長と云ってりゃ大きな顔してるが、糞場の紙位えの<span type="ruby"><span type="rb">価値</span><span type="rp">（</span><span type="rt">ねうち</span><span type="rp">）</span></span>もねえんだど。分ってるか。――あんなものにかかわってみろ、一週間も<span rend="sesame_dot" rendition="em">フイ</span>になるんだ。冗談じゃない。一日でも遅れてみろ！　それに秩父丸には<span type="ruby"><span type="rb">勿体</span><span type="rp">（</span><span type="rt">もったい</span><span type="rp">）</span></span>ない程の保険がつけてあるんだ。ボロ船だ、沈んだら、かえって得するんだ」<lb />
+　給仕は「<span rend="sesame_dot" rendition="em">今</span>」恐ろしい喧嘩が！　と思った。それが、それだけで済む筈がない。だが（！）船長は<span type="ruby"><span type="rb">咽喉</span><span type="rp">（</span><span type="rt">のど</span><span type="rp">）</span></span>へ綿でもつめられたように、立ちすくんでいるではないか。給仕はこんな場合の船長をかつて一度だって見たことがなかった。船長の云ったことが通らない？　馬鹿、そんな事が！　だが、それが起っている。――給仕にはどうしても分らなかった。<lb />
+「人情味なんか柄でもなく持ち出して、国と国との大相撲がとれるか！」唇を思いッ切りゆがめて<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>をはいた。<lb />
+　無電室では受信機が時々小さい、青白い<span type="ruby"><span type="rb">火花</span><span type="rp">（</span><span type="rt">スパアクル</span><span type="rp">）</span></span>を出して、しきりなしになっていた。とにかく経過を見るために、皆は無電室に行った。<lb />
+「ね、こんなに打っているんです。――だんだん早くなりますね」<lb />
+　係は自分の肩越しに<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>き込んでいる船長や監督に説明した。――皆は色々な器械のスウィッチやボタンの上を、係の指先があち、こち器用にすべるのを、それに縫いつけられたように眼で追いながら、思わず肩と<span type="ruby"><span type="rb">顎根</span><span type="rp">（</span><span type="rt">あごね</span><span type="rp">）</span></span>に力をこめて、じいとしていた。<lb />
+　船の動揺の度に、<span type="ruby"><span type="rb">腫物</span><span type="rp">（</span><span type="rt">はれもの</span><span type="rp">）</span></span>のように壁に取付けてある電燈が、明るくなったり暗くなったりした。横腹に思いッ切り打ち当る波の音や、絶えずならしている不吉な警笛が、風の工合で遠くなったり、すぐ頭の上に近くなったり、鉄の<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">とびら</span><span type="rp">）</span></span>を隔てて聞えていた。<lb />
+　ジイ――、ジイ――イと、長く尾を引いて、スパアクルが散った。と、そこで、ピタリと音がとまってしまった。それが、その瞬間、皆の胸へドキリときた。係は<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>てて、スウィッチをひねったり、機械をせわしく動かしたりした。が、それッ切りだった。もう打って来ない。<lb />
+　係は身体をひねって、廻転椅子をぐるりとまわした。<lb />
+「沈没です！……」<lb />
+　頭から受信器を<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>しながら、そして低い声で云った。「乗務員四百二十五人。最後なり。救助される見込なし。Ｓ・Ｏ・Ｓ、Ｓ・Ｏ・Ｓ、これが二、三度続いて、それで切れてしまいました」<lb />
+　それを聞くと、船長は頸とカラアの間に手をつッこんで、息苦しそうに頭をゆすって、頸をのばすようにした。無意味な視線で、落着きなく<span type="ruby"><span type="rb">四囲</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>を見廻わしてから、ドアーの方へ身体を向けてしまった。そして、ネクタイの結び目あたりを抑えた。――その船長は見ていられなかった。<lb />
+　……………………<lb />
+　学生上りは、「ウム、そうか！」と云った。その話にひきつけられていた。――然し暗い気持がして、海に眼をそらした。海はまだ大うねりにうねり返っていた。水平線が見る間に足の下になるかと、思うと、二、三分もしないうちに、谷から<span type="ruby"><span type="rb">狭</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>ばめられた空を仰ぐように、下へ引きずりこまれていた。<lb />
+「本当に沈没したかな」<span type="ruby"><span type="rb">独言</span><span type="rp">（</span><span type="rt">ひとりごと</span><span type="rp">）</span></span>が出る。気になって仕方がなかった。――同じように、ボロ船に乗っている自分達のことが頭にくる。<lb />
+　――蟹工船はどれもボロ船だった。労働者が北オホツックの海で死ぬことなどは、丸ビルにいる重役には、どうでもいい事だった。資本主義がきまりきった所だけの利潤では行き詰まり、金利が下がって、金がダブついてくると、「文字通り」どんな事でもするし、どんな所へでも、死物狂いで<span rend="sesame_dot" rendition="em">血路</span>を求め出してくる。そこへもってきて、船一艘で<span rend="sesame_dot" rendition="em">マンマ</span>と何拾万円が手に入る蟹工船、――彼等の夢中になるのは無理がない。<lb />
+　蟹工船は「工船」（<span rend="sesame_dot" rendition="em">工場</span>船）であって、「航船」ではない。だから航海法は適用されなかった。二十年の間も<span type="ruby"><span type="rb">繋</span><span type="rp">（</span><span type="rt">つな</span><span type="rp">）</span></span>ぎッ放しになって、沈没させることしかどうにもならない<span rend="sesame_dot" rendition="em">ヨロヨロ</span>な「梅毒患者」のような船が、恥かしげもなく、上べだけの<span type="ruby"><span type="rb">濃化粧</span><span type="rp">（</span><span type="rt">こいげしょう</span><span type="rp">）</span></span>をほどこされて、函館へ廻ってきた。日露戦争で、「名誉にも」ビッコにされ、魚のハラワタのように放って置かれた病院船や運送船が、幽霊よりも影のうすい姿を現わした。――少し蒸気を強くすると、パイプが破れて、吹いた。露国の監視船に追われて、スピードをかけると、（そんな時は何度もあった）船のどの部分もメリメリ鳴って、今にもその一つ、一つがバラバラに<span type="ruby"><span type="rb">解</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>ぐれそうだった。中風患者のように身体をふるわした。<lb />
+　然し、それでも全くかまわない。<span type="ruby"><span type="rb">何故</span><span type="rp">（</span><span type="rt">なぜ</span><span type="rp">）</span></span>なら、日本帝国のためどんなものでも立ち上るべき「<span type="ruby"><span type="rb">秋</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>」だったから。――それに、蟹工船は純然たる「工場」だった。然し工場法の適用もうけていない。それで、これ位都合のいい、勝手に出来るところはなかった。<lb />
+　利口な重役はこの仕事を「日本帝国のため」と結びつけてしまった。<span type="ruby"><span type="rb">嘘</span><span type="rp">（</span><span type="rt">うそ</span><span type="rp">）</span></span>のような金が、そしてゴッソリ重役の<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>に入ってくる。彼は然しそれをモット確実なものにするために「代議士」に出馬することを、自動車をドライヴしながら考えている。――が、恐らく、それとカッキリ一分も違わない同じ時に、秩父丸の労働者が、何千<span type="ruby"><span type="rb">哩</span><span type="rp">（</span><span type="rt">マイル</span><span type="rp">）</span></span>も離れた北の暗い海で、割れた<span type="ruby"><span type="rb">硝子屑</span><span type="rp">（</span><span type="rt">ガラスくず</span><span type="rp">）</span></span>のように鋭い波と風に向って、死の戦いを戦っているのだ！<lb />
+　……学生上りは「<span type="ruby"><span type="rb">糞壺</span><span type="rp">（</span><span type="rt">くそつぼ</span><span type="rp">）</span></span>」の方へ、タラップを下りながら、考えていた。<lb />
+「<span type="ruby"><span type="rb">他人事</span><span type="rp">（</span><span type="rt">ひとごと</span><span type="rp">）</span></span>ではないぞ」<lb />
+「糞壺」の<span type="ruby"><span type="rb">梯子</span><span type="rp">（</span><span type="rt">はしご</span><span type="rp">）</span></span>を下りると、すぐ突き当りに、誤字沢山で、<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<span rend="jizume_28" rendition="div" style="width: 28em">
+<span rend="keigakomi" rendition="div" style="border: solid 1px">
+雑夫、宮口を発見せるものには、バット二つ、手拭一本を、賞与としてくれるべし。<lb />
+　　　　　　　　　　　　　　　　　　浅川監督。<lb />
+</span>
+</span>
+</span>
+<lb />
+　と、書いた紙が、糊代りに使った飯粒のボコボコを見せて、<span type="ruby"><span type="rb">貼</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>らさってあった。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+　霧雨が何日も上らない。それでボカされたカムサツカの沿線が、するすると八ツ目<span type="ruby"><span type="rb">鰻</span><span type="rp">（</span><span type="rt">うなぎ</span><span type="rp">）</span></span>のように延びて見えた。<lb />
+　沖合四<span type="ruby"><span type="rb">浬</span><span type="rp">（</span><span type="rt">かいり</span><span type="rp">）</span></span>のところに、博光丸が<span type="ruby"><span type="rb">錨</span><span type="rp">（</span><span type="rt">いかり</span><span type="rp">）</span></span>を下ろした。――三浬までロシアの領海なので、それ以内に入ることは出来ない「ことになっていた」。<lb />
+　網<span rend="sesame_dot" rendition="em">さばき</span>が終って、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>からでも蟹漁が出来るように準備が出来た。カムサツカの夜明けは二時頃なので、漁夫達はすっかり身支度をし、<span type="ruby"><span type="rb">股</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>までのゴム靴をはいたまま、折箱の中に入って、ゴロ寝をした。<lb />
+　周旋屋にだまされて、連れてこられた東京の学生上りは、こんな<span type="ruby"><span type="rb">筈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>がなかった、とブツブツ云っていた。<lb />
+「<span type="ruby"><span type="rb">独</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>り寝だなんて、ウマイ事云いやがって！」<lb />
+「ちげえねえ、独り寝さ。ゴロ寝だもの」<lb />
+　学生は十七、八人来ていた。六十円を前借りすることに決めて、汽車賃、宿料、毛布、<span type="ruby"><span type="rb">布団</span><span type="rp">（</span><span type="rt">ふとん</span><span type="rp">）</span></span>、それに周旋料を取られて、結局船へ来たときには、一人七、八円の借金（！）になっていた。それが始めて分ったとき、<span type="ruby"><span type="rb">貨幣</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>だと思って握っていたのが、枯葉であったより、もっと彼等はキョトンとしてしまった。――始め、彼等は青鬼、赤鬼の中に取り巻かれた亡者のように、漁夫の中に一かたまりに<span type="ruby"><span type="rb">固</span><span type="rp">（</span><span type="rt">かたま</span><span type="rp">）</span></span>っていた。<lb />
+　<span type="ruby"><span type="rb">函館</span><span type="rp">（</span><span type="rt">はこだて</span><span type="rp">）</span></span>を出帆してから、四日目ころから、毎日のボロボロな飯と何時も同じ汁のために、学生は皆身体の工合を悪くしてしまった。寝床に入ってから、<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>を立てて、お互に<span type="ruby"><span type="rb">脛</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>を指で押していた。何度も繰りかえして、その<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>に引っこんだとか、引っこまないとか、彼等の気持は瞬間明るくなったり、暗くなったりした。脛をなでてみると、弱い電気に触れるように、しびれるのが二、三人出てきた。<span type="ruby"><span type="rb">棚</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>の端から両足をブラ下げて、膝頭を手刀で打って、足が飛び上るか、どうかを試した。それに悪いことには、「通じ」が四日も五日も無くなっていた。学生の一人が医者に通じ薬を貰いに行った。帰ってきた学生は、興奮から青い顔をしていた。――「そんな<span rend="sesame_dot" rendition="em">ぜいたく</span>な薬なんて無いとよ」<lb />
+「んだべ。船医なんて<span rend="sesame_dot" rendition="em">ん</span>なものよ」<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>で聞いていた古い漁夫が云った。<lb />
+「<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>の医者も同じだよ。俺のいたところの会社の医者も<span rend="sesame_dot" rendition="em">ん</span>だった」坑山の漁夫だった。<lb />
+　皆がゴロゴロ横になっていたとき、監督が入ってきた。<lb />
+「皆、寝たか――<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>聞け。秩父丸が沈没したっていう無電が入ったんだ。生死の詳しいことは分らないそうだ」唇をゆがめて、<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>をチェッとはいた。癖だった。<lb />
+　学生は給仕からきいたことが、すぐ頭にきた。自分が現に<span rend="sesame_dot" rendition="em">手をかけて</span>殺した四、五百人の労働者の生命のことを、平気な顔で云う、海にタタキ込んでやっても足りない奴だ、と思った。皆はムクムクと頭をあげた。急に、ザワザワお互に話し出した。浅川はそれだけ云うと、左肩だけを前の方に振って、出て行った。<lb />
+　<span type="ruby"><span type="rb">行衛</span><span type="rp">（</span><span type="rt">ゆくえ</span><span type="rp">）</span></span>の分らなかった雑夫が、二日前にボイラーの側から出てきたところをつかまった。二日隠れていたけれども、腹が減って、腹が減って、どうにも出来ず、出て来たのだった。<span type="ruby"><span type="rb">捕</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>んだのは中年過ぎの漁夫だった。若い漁夫がその漁夫をなぐりつけると云って、怒った。<lb />
+「うるさい奴だ、煙草のみでもないのに、煙草の味が分るか」バットを二個手に入れた漁夫はうまそうに飲んでいた。<lb />
+　雑夫は監督にシャツ一枚にされると、二つあるうちの一つの方の便所に押し込まれて、表から錠を下ろされた。初め、皆は便所へ行くのを嫌った。隣りで泣きわめく声が、とても聞いていられなかった。二日目にはその声がかすれて、ヒエ、ヒエしていた。そして、そのわめきが間を置くようになった。その日の終り頃に、仕事を終った漁夫が、気掛りで<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>ぐ便所のところへ行ったが、もうドアーを内側から<span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>きつける音もしていなかった。こっちから合図をしても、それが返って来なかった。――その遅く、<span type="ruby"><span type="rb">睾隠</span><span type="rp">（</span><span type="rt">きんかく</span><span type="rp">）</span></span>しに片手をもたれかけて、便所紙の箱に頭を入れ、うつぶせに倒れていた宮口が、出されてきた。唇の色が青インキをつけたように、ハッキリ死んでいた。<lb />
+　朝は寒かった。明るくなってはいたが、まだ三時だった。かじかんだ手を<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>につッこみながら、背を円るくして起き上ってきた。監督は雑夫や漁夫、水夫、火夫の室まで見廻って歩いて、<span type="ruby"><span type="rb">風邪</span><span type="rp">（</span><span type="rt">かぜ</span><span type="rp">）</span></span>をひいているものも、病気のものも、かまわず引きずり出した。<lb />
+　風は無かったが、甲板で仕事をしていると、手と足の先きが<span type="ruby"><span type="rb">擂粉木</span><span type="rp">（</span><span type="rt">すりこぎ</span><span type="rp">）</span></span>のように感覚が無くなった。雑夫長が大声で悪態をつきながら、十四、五人の雑夫を工場に追い込んでいた。彼の持っている竹の先きには皮がついていた。それは工場で<span type="ruby"><span type="rb">怠</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>けているものを機械の<span type="ruby"><span type="rb">枠越</span><span type="rp">（</span><span type="rt">わくご</span><span type="rp">）</span></span>しに、向う側でもなぐりつけることが出来るように、造られていた。<lb />
+「<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>出されたきりで、<span rend="sesame_dot" rendition="em">もの</span>も云えない宮口を今朝からどうしても働かさなけアならないって、さっき足で<span type="ruby"><span type="rb">蹴</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>ってるんだよ」<lb />
+　学生上りになじんでいる弱々しい身体の雑夫が、雑夫長の顔を見い、見いそのことを知らせた。<lb />
+「どうしても動かないんで、とうとうあきらめたらしいんだけど」<lb />
+　<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>へ、監督が身体をワクワクふるわせている雑夫を後からグイ、グイ突きながら、押して来た。寒い雨に<span type="ruby"><span type="rb">濡</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>れながら仕事をさせられたために、その雑夫は風邪をひき、それから<span type="ruby"><span type="rb">肋膜</span><span type="rp">（</span><span type="rt">ろくまく</span><span type="rp">）</span></span>を悪くしていた。寒くないときでも、始終身体をふるわしていた。子供らしくない<span type="ruby"><span type="rb">皺</span><span type="rp">（</span><span type="rt">しわ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>の間に刻んで、血の気のない薄い唇を妙にゆがめて、<span type="ruby"><span type="rb">疳</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>のピリピリしているような<span type="ruby"><span type="rb">眼差</span><span type="rp">（</span><span type="rt">まなざ</span><span type="rp">）</span></span>しをしていた。彼が寒さに堪えられなくなって、ボイラーの室にウロウロしていたところを、見付けられたのだった。<lb />
+　出漁のために、川崎船をウインチから降していた漁夫達は、その二人を何も云えず、見送っていた。四十位の漁夫は、見ていられないという風に、顔をそむけると、イヤイヤをするように頭をゆるく二、三度振った。<lb />
+「風邪をひいてもらったり、<span type="ruby"><span type="rb">不貞寝</span><span type="rp">（</span><span type="rt">ふてね</span><span type="rp">）</span></span>をされてもらったりするために、高い金払って連れて来たんじゃないんだぜ。――馬鹿野郎、余計なものを見なくたっていい！」<lb />
+　監督が甲板を<span type="ruby"><span type="rb">棍棒</span><span type="rp">（</span><span type="rt">こんぼう</span><span type="rp">）</span></span>で叩いた。<lb />
+「監獄だって、これより悪かったら、お目にかからないで！」<lb />
+「こんなこと<span type="ruby"><span type="rb">内地</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>さ帰って、なんぼ話したって本当にしねんだ」<lb />
+「んさ。――こったら事って第一あるか」<lb />
+　スティムでウインチがガラガラ廻わり出した。川崎船は身体を空にゆすりながら、一斉に降り始めた。水夫や火夫も狩り立てられて、甲板のすべる足元に気を配りながら、走り廻っていた。それ等のなかを、監督は<span type="ruby"><span type="rb">鶏冠</span><span type="rp">（</span><span type="rt">とさか</span><span type="rp">）</span></span>を立てた<span type="ruby"><span type="rb">牡鶏</span><span type="rp">（</span><span type="rt">おんどり</span><span type="rp">）</span></span>のように見廻った。<lb />
+　仕事の切れ目が出来たので、学生上りが一寸の間風を避けて、荷物のかげに腰を下していると、<span type="ruby"><span type="rb">炭山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>から来た漁夫が口のまわりに両手を円く囲んで、ハア、ハア息をかけながら、ひょいと角を曲ってきた。<lb />
+「<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">えのぢ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">的</span><span type="rp">（</span><span type="rt">まと</span><span type="rp">）</span></span>だな！」それが――心からフイと出た実感が思わず学生の胸を<span type="ruby"><span type="rb">衝</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いた。「やっぱし炭山と変らないで、死ぬ思いばしないと、<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>きられないなんてな。――<span type="ruby"><span type="rb">瓦斯</span><span type="rp">（</span><span type="rt">ガス</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">恐</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ッかねど、波もおっかねしな」<lb />
+　昼過ぎから、空の模様がどこか変ってきた。薄い<span type="ruby"><span type="rb">海霧</span><span type="rp">（</span><span type="rt">ガス</span><span type="rp">）</span></span>が一面に――<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>しそうでないと云われれば、そうとも思われる程、淡くかかった。波は風呂敷でもつまみ上げたように、無数に三角形に騒ぎ立った。風が急にマストを鳴らして吹いて行った。荷物にかけてあるズックの<span type="ruby"><span type="rb">覆</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>いの<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>がバタバタとデッキをたたいた。<lb />
+「兎が飛ぶどオ――兎が！」誰か大声で叫んで、右舷のデッキを走って行った。その声が強い風にすぐちぎり取られて、意味のない叫び声のように聞こえた。<lb />
+　もう海一面、三角波の頂きが白い<span rend="sesame_dot" rendition="em">しぶき</span>を飛ばして、無数の兎があたかも大平原を飛び上っているようだった。――それがカムサツカの「突風」の<span rend="sesame_dot" rendition="em">前ブレ</span>だった。にわかに底潮の流れが早くなってくる。船が横に身体をずらし始めた。今まで右舷に見えていたカムサツカが、分らないうちに左舷になっていた。――船に居残って仕事をしていた漁夫や水夫は急に<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>て出した。<lb />
+　すぐ頭の上で、警笛が鳴り出した。皆は立ち止ったまま、空を仰いだ。すぐ下にいるせいか、斜め後に突き出ている、思わない程太い、<span type="ruby"><span type="rb">湯桶</span><span type="rp">（</span><span type="rt">ゆおけ</span><span type="rp">）</span></span>のような煙突が、ユキユキと揺れていた。その煙突の腹の<span type="ruby"><span type="rb">独逸</span><span type="rp">（</span><span type="rt">ドイツ</span><span type="rp">）</span></span>帽のようなホイッスルから鳴る警笛が、荒れ狂っている暴風の中で、何か悲壮に聞えた。――遠く本船をはなれて、漁に出ている川崎船が絶え間なく鳴らされているこの警笛を頼りに、<span type="ruby"><span type="rb">時化</span><span type="rp">（</span><span type="rt">しけ</span><span type="rp">）</span></span>をおかして帰って来るのだった。<lb />
+　薄暗い機関室への降り口で、漁夫と水夫が固り合って騒いでいた。斜め上から、船の動揺の度に、チラチラ薄い光の束が<span type="ruby"><span type="rb">洩</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>れていた。興奮した漁夫の色々な顔が、瞬間々々、浮き出て、消えた。<lb />
+「どうした？」坑夫がその中に入り込んだ。<lb />
+「浅川の野郎ば、なぐり殺すんだ！」殺気だっていた。<lb />
+　監督は実は今朝早く、本船から十哩ほど離れたところに<span type="ruby"><span type="rb">碇</span><span type="rp">（</span><span type="rt">とま</span><span type="rp">）</span></span>っていた××丸から「突風」の警戒報を受取っていた。それには<span type="ruby"><span type="rb">若</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>し川崎船が出ていたら、至急呼戻すようにさえ附け加えていた。その時、「こんな事に一々ビク、ビクしていたら、このカムサツカまでワザワザ来て仕事なんか出来るかい」――そう浅川の云ったことが、無線係から洩れた。<lb />
+　それを聞いた最初の漁夫は、無線係が浅川ででもあるように、怒鳴りつけた。「人間の命を何んだって思ってやがるんだ！」<lb />
+「人間の命？」<lb />
+「そうよ」<lb />
+「ところが、浅川はお前達をどだい人間だなんて思っていないよ」<lb />
+　何か云おうとした漁夫は<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>ってしまった。彼は真赤になった。そして皆のところへかけ込んできたのだった。<lb />
+　皆は暗い顔に、然し争われず底からジリ、ジリ来る興奮をうかべて、立ちつくしていた。父親が川崎船で出ている雑夫が、漁夫達の集っている輪の外をオドオドしていた。ステイが絶え間なしに鳴っていた。頭の上で鳴るそれを聞いていると、漁夫の心はギリ、ギリと切り<span type="ruby"><span type="rb">苛</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>いなまれた。<lb />
+　夕方近く、ブリッジから大きな叫声が起った。下にいた者達はタラップの段を二つ置き位にかけ上った。――川崎船が二隻近づいてきたのだった。二隻はお互にロープを渡して結び合っていた。<lb />
+　それは間近に来ていた。然し大きな波は、川崎船と本船を、ガタンコの両端にのせたように、交互に激しく揺り上げたり、揺り下げたりした。次ぎ、次ぎと、二つの間に波の大きなうねりがもり上って、ローリングした。目の前にいて、中々近付かない。――歯がゆかった。甲板からはロープが投げられた。が、とどかなかった。それは無駄なしぶきを散らして、海へ落ちた。そしてロープは海蛇のように、たぐり寄せられた。それが何度もくり返された。こっちからは皆声をそろえて呼んだ。が、それには答えなかった。漁夫達の顔の表情はマスクのように化石して、動かない。眼も何かを見た瞬間、そのまま<span type="ruby"><span type="rb">硬</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>わばったように動かない。――その情景は、漁夫達の胸を、<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>のあたり見ていられない<span type="ruby"><span type="rb">凄</span><span type="rp">（</span><span type="rt">すご</span><span type="rp">）</span></span>さで、えぐり刻んだ。<lb />
+　又ロープが投げられた。始めゼンマイ形に――それから<span type="ruby"><span type="rb">鰻</span><span type="rp">（</span><span type="rt">うなぎ</span><span type="rp">）</span></span>のようにロープの先きがのびたかと思うと――その端が、それを捕えようと両手をあげている漁夫の首根を、横なぐりにたたきつけた。皆は「アッ！」と叫んだ。漁夫はいきなり、そのままの<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>で横倒しにされた。が、つかんだ！　――ロープはギリギリとしまると、水のしたたりをしぼり落して、一直線に張った。こっちで見ていた漁夫達は、思わず肩から力を抜いた。<lb />
+　ステイは絶え間なく、風の具合で、高くなったり、遠くなったり鳴っていた。夕方になるまでに二艘を残して、それでも全部帰ってくることが出来た。どの漁夫も本船のデッキを踏むと、それっきり気を失いかけた。一艘は水船になってしまったために、<span type="ruby"><span type="rb">錨</span><span type="rp">（</span><span type="rt">いかり</span><span type="rp">）</span></span>を投げ込んで、漁夫が別の川崎に移って、帰ってきた。他の一艘は漁夫共に全然行衛不明だった。<lb />
+　監督はブリブリしていた。何度も漁夫の部屋へ降りて来て、又上って行った。皆は焼き殺すような<span type="ruby"><span type="rb">憎悪</span><span type="rp">（</span><span type="rt">ぞうお</span><span type="rp">）</span></span>に満ちた視線で、だまって、その度に見送った。<lb />
+　翌日、川崎の捜索かたがた、<span type="ruby"><span type="rb">蟹</span><span type="rp">（</span><span type="rt">かに</span><span type="rp">）</span></span>の後を追って、本船が移動することになった。「人間の五、六匹何んでもないけれども、川崎が<span rend="sesame_dot" rendition="em">いたまし</span>」かったからだった。<lb />
+<lb />
+　朝早くから、機関部が急がしかった。錨を上げる震動が、錨室と背中合せになっている漁夫を<span type="ruby"><span type="rb">煎豆</span><span type="rp">（</span><span type="rt">いりまめ</span><span type="rp">）</span></span>のようにハネ飛ばした。サイドの鉄板がボロボロになって、その度にこぼれ落ちた。――博光丸は北緯五十一度五分の所まで、錨をなげてきた第一号川崎船を捜索した。結氷の<span type="ruby"><span type="rb">砕片</span><span type="rp">（</span><span type="rt">かけら</span><span type="rp">）</span></span>が生きもののように、ゆるい波のうねりの間々に、ひょいひょい<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>を見せて流れていた。が、所々その砕けた氷が見る限りの大きな集団をなして、<span rend="sesame_dot" rendition="em">あぶく</span>を出しながら、船を見る見るうちに真中に取囲んでしまう、そんなことがあった。氷は湯気のような水蒸気をたてていた。と、扇風機にでも吹かれるように「寒気」が襲ってきた。船のあらゆる部分が急にカリッ、カリッと鳴り出すと、水に濡れていた甲板や手すりに、氷が張ってしまった。船腹は<span type="ruby"><span type="rb">白粉</span><span type="rp">（</span><span type="rt">おしろい</span><span type="rp">）</span></span>でもふりかけたように、霜の結晶でキラキラに光った。水夫や漁夫は両頬を<span type="ruby"><span type="rb">抑</span><span type="rp">（</span><span type="rt">おさ</span><span type="rp">）</span></span>えながら、甲板を走った。船は後に長く、<span type="ruby"><span type="rb">曠野</span><span type="rp">（</span><span type="rt">こうや</span><span type="rp">）</span></span>の一本道のような跡をのこして、つき進んだ。<lb />
+　川崎船は中々見つからない。<lb />
+　九時近い頃になって、ブリッジから、前方に川崎船が一艘浮かんでいるのを発見した。それが分ると、監督は「畜生、やっと分りゃがったど。畜生！」デッキを走って歩いて、喜んだ。すぐ発動機が降ろされた。が、それは探がしていた第一号ではなかった。それよりは、もっと新しい第<span target="ltr">36</span>号と番号の打たれてあるものだった。明らかに×××丸のものらしい鉄の<span type="ruby"><span type="rb">浮標</span><span type="rp">（</span><span type="rt">ヴイ</span><span type="rp">）</span></span>がつけられていた。それで見ると×××丸が<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かへ移動する時に、元の位置を知るために、そうして置いて行ったものだった。<lb />
+　浅川は川崎船の胴体を指先きで、トントンたたいていた。<lb />
+「これアどうして<span rend="sesame_dot" rendition="em">バン</span>としたもんだ」ニャッと笑った。「引いて行くんだ」<lb />
+　そして第<span target="ltr">36</span>号川崎船はウインチで、博光丸のブリッジに引きあげられた。川崎は身体を空でゆすりながら、<span type="ruby"><span type="rb">雫</span><span type="rp">（</span><span type="rt">しずく</span><span type="rp">）</span></span>をバジャバジャ甲板に落した。「<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>働きをしてきた」そんな大様な態度で、釣り上がって行く川崎を見ながら、監督が、<lb />
+「大したもんだ。大したもんだ！」と、<span type="ruby"><span type="rb">独言</span><span type="rp">（</span><span type="rt">ひとりごと</span><span type="rp">）</span></span>した。<lb />
+　網<span rend="sesame_dot" rendition="em">さばき</span>をやりながら、漁夫がそれを見ていた。「何んだ泥棒猫！　チエンでも切れて、野郎の頭さたたき落ちればえんだ」<lb />
+　監督は仕事をしている彼らの一人々々を、そこから何かえぐり出すような眼付きで、見下しながら、側を通って行った。そして大工をせっかちなドラ声で呼んだ。<lb />
+　すると、別な方のハッチの口から、大工が顔を出した。<lb />
+「何んです」<lb />
+　見当<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>れをした監督は、振り返ると、怒りッぽく、「何んです？　――馬鹿。番号をけずるんだ。カンナ、カンナ」<lb />
+　大工は分らない顔をした。<lb />
+「あんぽんたん、来い！」<lb />
+　<span type="ruby"><span type="rb">肩巾</span><span type="rp">（</span><span type="rt">かたはば</span><span type="rp">）</span></span>の広い監督のあとから、<span type="ruby"><span type="rb">鋸</span><span type="rp">（</span><span type="rt">のこぎり</span><span type="rp">）</span></span>の柄を腰にさして、カンナを持った小柄な大工が、びっこでも引いているような危い足取りで、甲板を渡って行った。――川崎船の第<span target="ltr">36</span>号の「３」がカンナでけずり落されて、「<span rend="sesame_dot" rendition="em">第六</span>号川崎船」になってしまった。<lb />
+「これでよし。これでよし。うッはア、<span type="ruby"><span type="rb">様</span><span type="rp">（</span><span type="rt">ざま</span><span type="rp">）</span></span>見やがれ！」監督は、口を三角形にゆがめると、背のびでもするように<span type="ruby"><span type="rb">哄笑</span><span type="rp">（</span><span type="rt">こうしょう</span><span type="rp">）</span></span>した。<lb />
+　これ以上北航しても、川崎船を発見する当がなかった。第三十六号川崎船の引上げで、足<span rend="sesame_dot" rendition="em">ぶみ</span>をしていた船は、元の位置に戻るために、ゆるく、大きくカーヴをし始めた。空は晴れ上って、洗われた後のように澄んでいた。カムサツカの連峰が絵葉書で見るスイッツルの山々のように、くっきりと輝いていた。<lb />
+<lb />
+　行衛不明になった川崎船は帰らない。漁夫達は、そこだけが水<span type="ruby"><span type="rb">溜</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>りのようにポツンと空いた棚から、残して行った彼等の荷物や、家族のいる住所をしらべたり、それぞれ万一の時に直ぐ処置が出来るように取り<span type="ruby"><span type="rb">纏</span><span type="rp">（</span><span type="rt">まと</span><span type="rp">）</span></span>めた。――気持のいいことではなかった。それをしていると、漁夫達は、まるで自分の痛い何処かを、<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>きこまれているような<span rend="sesame_dot" rendition="em">つらさ</span>を感じた。中積船が来たら<span type="ruby"><span type="rb">托送</span><span type="rp">（</span><span type="rt">たくそう</span><span type="rp">）</span></span>しようと、同じ<span type="ruby"><span type="rb">苗字</span><span type="rp">（</span><span type="rt">みょうじ</span><span type="rp">）</span></span>の女名前がその<span type="ruby"><span type="rb">宛</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>先きになっている小包や手紙が、彼等の荷物の中から出てきた。そのうちの一人の荷物の中から、片仮名と平仮名の交った、鉛筆をなめり、なめり書いた手紙が出た。それが無骨な漁夫の手から、手へ渡されて行った。彼等は豆粒でも拾うように、ボツリ、ボツリ、<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>しむさぼるように、それを読んでしまうと、<span type="ruby"><span type="rb">嫌</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>なものを見てしまったという風に頭をふって、次ぎに渡してやった。――子供からの手紙だった。<lb />
+　ぐずりと鼻をならして、手紙から顔を上げると、カスカスした低い声で、「浅川のためだ。死んだと分ったら、弔い合戦をやるんだ」と云った。その男は図体の大きい、北海道の奥地で色々な<span rend="sesame_dot" rendition="em">こと</span>をやってきたという男だった。もっと低い声で、<lb />
+「奴、一人位タタキ落せるべよ」若い、肩のもり上った漁夫が云った。<lb />
+「あ、この手紙いけねえ。すっかり思い出してしまった」<lb />
+「なア」最初のが云った。「うっかりしていれば、俺達だって奴にやられたんだで。<span type="ruby"><span type="rb">他人</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>ごとでねえんだど」<lb />
+　<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>の方で、<span type="ruby"><span type="rb">立膝</span><span type="rp">（</span><span type="rt">たてひざ</span><span type="rp">）</span></span>をして、<span type="ruby"><span type="rb">拇指</span><span type="rp">（</span><span type="rt">おやゆび</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">爪</span><span type="rp">（</span><span type="rt">つめ</span><span type="rp">）</span></span>をかみながら、上眼をつかって、皆の云うのを聞いていた男が、その時、うん、うんと頭をふって、うなずいた。「万事、俺にまかせれ、その時ア！　あの野郎一人グイとやってしまうから」<lb />
+　皆はだまった。――だまったまま、然し、ホッとした。<lb />
+<lb />
+　博光丸が元の位置に帰ってから、三日して突然（！）その行衛不明になった川崎船が、しかも元気よく帰ってきた。<lb />
+　彼等は船長室から「糞壺」に帰ってくると、<span type="ruby"><span type="rb">忽</span><span type="rp">（</span><span type="rt">たちま</span><span type="rp">）</span></span>ち皆に、渦巻のように取巻かれてしまった。<lb />
+　――彼等は「大暴風雨」のために、一たまりもなく操縦の自由をなくしてしまった。そうなればもう<span type="ruby"><span type="rb">襟首</span><span type="rp">（</span><span type="rt">えりくび</span><span type="rp">）</span></span>をつかまれた子供より他愛なかった。一番遠くに出ていたし、それに風の工合も丁度反対の方向だった。皆は死ぬことを覚悟した。漁夫は何時でも「安々と」死ぬ覚悟をすることに「慣らされて」いた。<lb />
+　が（！）こんなことは滅多にあるものではない。次の朝、川崎船は半分水船になったまま、カムサツカの岸に打ち上げられていた。そして皆は近所のロシア人に救われたのだった。<lb />
+　そのロシア人の家族は四人暮しだった。女がいたり、子供がいたりする「家」というものに渇していた彼等にとって、<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>は何とも云えなく魅力だった。それに親切な人達ばかりで、色々と進んで世話をしてくれた。然し、初め皆はやっぱり、分らない言葉を云ったり、髪の毛や眼の色の<span type="ruby"><span type="rb">異</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>う外国人であるということが無気味だった。<lb />
+　何アんだ、俺達と同じ人間ではないか、ということが、然し直ぐ分らさった。<lb />
+　難破のことが知れると、村の人達が沢山集ってきた。そこは日本の漁場などがある所とは、余程離れていた。<lb />
+　彼等は其処に二日いて、身体を直し、そして帰ってきたのだった。「帰ってきたくはなかった」誰が、こんな地獄に帰りたいって！　が、彼等の話は、それだけで終ってはいない。「面白いこと」がその外にかくされていた。<lb />
+　丁度帰る日だった。彼等がストオヴの<span type="ruby"><span type="rb">周</span><span type="rp">（</span><span type="rt">まわ</span><span type="rp">）</span></span>りで、身仕度をしながら話をしていると、ロシア人が四、五人入ってきた。――中に支那人が一人交っていた。――顔が<span type="ruby"><span type="rb">巨</span><span type="rp">（</span><span type="rt">おおき</span><span type="rp">）</span></span>くて、赤い、短い<span type="ruby"><span type="rb">鬚</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>の多い、少し猫背の男が、いきなり何か大声で手振りをして話し出した。船頭は、自分達がロシア語は分らないのだという事を知らせるために、眼の前で手を振って見せた。ロシア人が一句切り云うと、その口元を見ていた支那人は日本語をしゃべり出した。それは聞いている方の頭が、かえって<span rend="sesame_dot" rendition="em">ごじゃごじゃ</span>になってしまうような、順序の狂った日本語だった。言葉と言葉が酔払いのように、散り散りによろめいていた。<lb />
+「<span type="ruby"><span type="rb">貴方</span><span type="rp">（</span><span type="rt">あなた</span><span type="rp">）</span></span>方、金キット持っていない」<lb />
+「そうだ」<lb />
+「貴方方、貧乏人」<lb />
+「そうだ」<lb />
+「だから、貴方方、プロレタリア。――分る？」<lb />
+「うん」<lb />
+　ロシア人が笑いながら、その辺を歩き出した。時々立ち止って、彼等の方を見た。<lb />
+「金持、貴方方を<span rend="sesame_dot" rendition="em">これ</span>する。（首を締める<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>をする）金持だんだん大きくなる。（腹のふくれる<span type="ruby"><span type="rb">真似</span><span type="rp">（</span><span type="rt">まね</span><span type="rp">）</span></span>）貴方方どうしても駄目、貧乏人になる。――分る？　――日本の国、駄目。働く人、これ（顔をしかめて、病人のような恰好）働かない人、これ。えへん、えへん。（偉張って歩いてみせる）」<lb />
+　それ等が若い漁夫には面白かった。「そうだ、そうだ！」と云って、笑い出した。<lb />
+「働く人、これ。働かない人、これ。（前のを繰り返して）そんなの駄目。――働く人、これ。（今度は逆に、胸を張って偉張ってみせる、）働かない人、これ。（年取った乞食のような恰好）これ良ろし。――分かる？　ロシアの国、この国。働く人ばかり。働く人<span rend="sesame_dot" rendition="em">ばかり</span>、これ。（偉張る）ロシア、働かない人いない。ずるい人いない。人の首しめる人いない。――分る？　ロシアちっとも恐ろしくない国。みんな、みんなウソばかり云って歩く」<lb />
+　彼等は漠然と、これが「恐ろしい」「赤化」というものではないだろうか、と考えた。が、それが「赤化」なら、馬鹿に「当り前」のことであるような気が一方していた。然し何よりグイ、グイと引きつけられて行った。<lb />
+「分る、本当、分る！」<lb />
+　ロシア人同志が二、三人ガヤガヤ何かしゃべり出した。支那人はそれ<span type="ruby"><span type="rb">等</span><span type="rp">（</span><span type="rt">ら</span><span type="rp">）</span></span>をきいていた。それから又<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りのように、日本の言葉を一つ、一つ拾いながら、話した。<lb />
+「働かないで、お金<span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>ける人いる。プロレタリア、いつでも、これ。（首をしめられる恰好）――これ、駄目！　プロレタリア、貴方方、一人、二人、三人……百人、千人、五万人、十万人、みんな、みんな、これ（子供のお手々つないで、の真似をしてみせる）強くなる。大丈夫。（腕をたたいて）負けない、誰にも。分る？」<lb />
+「ん、ん！」<lb />
+「働かない人、にげる。（一散に逃げる恰好）大丈夫、本当。働く人、プロレタリア、偉張る。（堂々と歩いてみせる）プロレタリア、一番偉い。――プロレタリア居ない。みんな、パン無い。みんな死ぬ。――分る？」<lb />
+「ん、ん！」<lb />
+「日本、まだ、まだ駄目。働く人、これ。（腰をかがめて縮こまってみせる）働かない人、これ。（偉張って、相手をなぐり倒す恰好）それ、みんな駄目！　働く人、これ。（形相<span type="ruby"><span type="rb">凄</span><span type="rp">（</span><span type="rt">すご</span><span type="rp">）</span></span>く立ち上る、突ッかかって行く恰好。相手をなぐり倒し、フンづける真似）働かない人、これ。（逃げる恰好）――日本、働く人ばかり、いい国。――プロレタリアの国！　――分る？」<lb />
+「ん、ん、分る！」<lb />
+　ロシア人が奇声をあげて、ダンスの時のような足<span rend="sesame_dot" rendition="em">ぶみ</span>をした。<lb />
+「日本、働く人、やる。（立ち上って、刃向う恰好）うれしい。ロシア、みんな嬉しい。バンザイ。――貴方方、船へかえる。貴方方の船、働かない人、これ。（偉張る）貴方方、プロレタリア、これ、やる！（拳闘のような真似――それからお手々つないでをやり、又突ッかかって行く恰好）――大丈夫、勝つ！　――分る？」<lb />
+「分る！」知らないうちに興奮していた若い漁夫が、いきなり支那人の手を握った。「やるよ、キットやるよ！」<lb />
+　船頭は、これが「赤化」だと思っていた。馬鹿に恐ろしいことをやらせるものだ。これで――この手で、露西亜が日本を<span rend="sesame_dot" rendition="em">マンマ</span>と<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>すんだ、と思った。<lb />
+　ロシア人達は終ると、何か叫声をあげて、彼等の手を力一杯握った。抱きついて、硬い毛の頬をすりつけたりした。<span type="ruby"><span type="rb">面喰</span><span type="rp">（</span><span type="rt">めんくら</span><span type="rp">）</span></span>った日本人は、首を後に硬直さして、どうしていいか分らなかった。……。<lb />
+　皆は、「糞壺」の入口に時々眼をやり、その話をもっともっとうながした。彼等は、それから見てきたロシア人のことを色々話した。そのどれもが、吸取紙に吸われるように、皆の心に入りこんだ。<lb />
+「おい、もう<span type="ruby"><span type="rb">止</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>せよ」<lb />
+　船頭は、皆が変にムキにその話に引き入れられているのを見て、一生懸命しゃべっている若い漁夫の肩を突ッついた。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">四</span></span></span>
+<lb />
+　<span type="ruby"><span type="rb">靄</span><span type="rp">（</span><span type="rt">もや</span><span type="rp">）</span></span>が下りていた。何時も厳しく機械的に組合わさっている通風パイプ、<span type="ruby"><span type="rb">煙筒</span><span type="rp">（</span><span type="rt">チェムニー</span><span type="rp">）</span></span>、ウインチの腕、<span type="ruby"><span type="rb">吊</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>り下がっている川崎船、デッキの手すり、などが、薄ぼんやり輪廓をぼかして、今までにない親しみをもって見えていた。柔かい、生ぬるい空気が、<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほお</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>でて流れる。――こんな夜はめずらしかった。<lb />
+　<span rend="sesame_dot" rendition="em">トモ</span>のハッチに近く、蟹の脳味噌の匂いが<span rend="sesame_dot" rendition="em">ムッ</span>とくる。網が山のように<span type="ruby"><span type="rb">積</span><span type="rp">（</span><span type="rt">つま</span><span type="rp">）</span></span>さっている間に、高さの<span type="ruby"><span type="rb">跛</span><span type="rp">（</span><span type="rt">びっこ</span><span type="rp">）</span></span>な二つの影が<span type="ruby"><span type="rb">佇</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>んでいた。<lb />
+　過労から心臓を悪くして、身体が青黄く、ムクンでいる漁夫が、ドキッ、ドキッとくる心臓の音でどうしても寝れず、甲板に上ってきた。手すりにもたれて、<span rend="sesame_dot" rendition="em">フ糊</span>でも溶かしたようにトロッとしている海を、ぼんやり見ていた。この身体では監督に殺される。<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>し、それにしては、この遠いカムサツカで、しかも陸も踏めずに死ぬのは<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>し過ぎる。――すぐ考え込まさった。その時、網と網の間に、誰かいるのに漁夫が気付いた。<lb />
+　蟹の甲殻の<span type="ruby"><span type="rb">片</span><span type="rp">（</span><span type="rt">かけら</span><span type="rp">）</span></span>を時々ふむらしく、その音がした。<lb />
+　ひそめた声が聞こえてきた。<lb />
+　漁夫の眼が慣れてくると、それが分ってきた。十四、五の雑夫に漁夫が何か云っているのだった。何を話しているのかは分らなかった。後向きになっている雑夫は、時々イヤ、イヤをしている子供のように、すねているように、向きをかえていた。それにつれて、漁夫もその通り向きをかえた。それが少しの間続いた。漁夫は思わず（そんな風だった）高い声を出した。が、すぐ低く、早口に何か云った。と、いきなり雑夫を抱きすくめてしまった。<span type="ruby"><span type="rb">喧嘩</span><span type="rp">（</span><span type="rt">けんか</span><span type="rp">）</span></span>だナ、と思った。着物で口を抑えられた「むふ、むふ……」という息声だけが、<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>の間聞えていた。然し、そのまま動かなくなった。――その瞬間だった。柔かい靄の中に、雑夫の二本の足がローソクのように浮かんだ。下半分が、すっかり裸になってしまっている。それから雑夫はそのまま<span type="ruby"><span type="rb">蹲</span><span type="rp">（</span><span type="rt">しゃが</span><span type="rp">）</span></span>んだ。と、その上に、漁夫が<span type="ruby"><span type="rb">蟇</span><span type="rp">（</span><span type="rt">がま</span><span type="rp">）</span></span>のように<span type="ruby"><span type="rb">覆</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>いかぶさった。それだけが「眼の前」で、短かい――グッと<span type="ruby"><span type="rb">咽喉</span><span type="rp">（</span><span type="rt">のど</span><span type="rp">）</span></span>につかえる瞬間に行われた。見ていた漁夫は、思わず眼をそらした。酔わされたような、<span type="ruby"><span type="rb">撲</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>ぐられたような興奮をワクワクと感じた。<lb />
+　漁夫達はだんだん内からむくれ上ってくる性慾に悩まされ出してきていた。四カ月も、五カ月も不自然に、この<span type="ruby"><span type="rb">頑丈</span><span type="rp">（</span><span type="rt">がんじょう</span><span type="rp">）</span></span>な男達が「女」から離されていた。――函館で買った女の話や、露骨な女の陰部の話が、夜になると、きまって出た。一枚の春画がボサボサに紙に毛が立つほど、何度も、何度もグルグル廻された。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+…………<lb />
+床とれの、<lb />
+こちら向けえの、<lb />
+口すえの、<lb />
+足をからめの、<lb />
+気をやれの、<lb />
+ホンに、<span rend="sesame_dot" rendition="em">つとめ</span>はつらいもの。<lb />
+</span>
+<lb />
+　誰か歌った。すると、一度で、その歌が海綿にでも吸われるように、皆に覚えられてしまった。何かすると、すぐそれを歌い出した。そして歌ってしまってから、「えッ、畜生！」と、ヤケに叫んだ、眼だけ光らせて。<lb />
+　漁夫達は寝てしまってから、<lb />
+「畜生、困った！　どうしたって<span type="ruby"><span type="rb">眠</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>れないや」と、身体をゴロゴロさせた。「駄目だ、<span rend="sesame_dot" rendition="em">伜</span>が立って！」<lb />
+「どうしたら、ええんだ！」――<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>いに、そう云って、<span type="ruby"><span type="rb">勃起</span><span type="rp">（</span><span type="rt">ぼっき</span><span type="rp">）</span></span>している<span type="ruby"><span type="rb">睾丸</span><span type="rp">（</span><span type="rt">きんたま</span><span type="rp">）</span></span>を握りながら、裸で起き上ってきた。大きな身体の漁夫の、そうするのを見ると、<span rend="sesame_dot" rendition="em">身体のしまる</span>、何か<span type="ruby"><span type="rb">凄惨</span><span type="rp">（</span><span type="rt">せいさん</span><span type="rp">）</span></span>な気さえした。<span type="ruby"><span type="rb">度胆</span><span type="rp">（</span><span type="rt">どぎも</span><span type="rp">）</span></span>を抜かれた学生は、眼だけで<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>の方から、それを見ていた。<lb />
+　<span rend="sesame_dot" rendition="em">夢精</span>をするのが何人もいた。誰もいない時、たまらなくなって<span rend="sesame_dot" rendition="em">自涜</span>をするものもいた。――<span type="ruby"><span type="rb">棚</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>の隅に<span rend="sesame_dot" rendition="em">カタ</span>のついた汚れた猿又や<span type="ruby"><span type="rb">褌</span><span type="rp">（</span><span type="rt">ふんどし</span><span type="rp">）</span></span>が、しめっぽく、<span rend="sesame_dot" rendition="em">すえ</span>た<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いをして<span type="ruby"><span type="rb">円</span><span type="rp">（</span><span type="rt">まる</span><span type="rp">）</span></span>められていた。学生はそれを野糞のように踏みつけることがあった。<lb />
+　――それから、雑夫の方へ「<span type="ruby"><span type="rb">夜這</span><span type="rp">（</span><span type="rt">よば</span><span type="rp">）</span></span>い」が始まった。バットをキャラメルに換えて、ポケットに二つ三つ入れると、ハッチを出て行った。<lb />
+　便所臭い、<span type="ruby"><span type="rb">漬物樽</span><span type="rp">（</span><span type="rt">つけものだる</span><span type="rp">）</span></span>の積まさっている物置を、コックが開けると、薄暗い、ムッとする中から、いきなり横ッ面でもなぐられるように、怒鳴られた。<lb />
+「閉めろッ！　今、入ってくると、この野郎、タタキ殺すぞ！」<lb />
+<lb />
+　　　　　　　　×　　　　　×　　　　　×<lb />
+<lb />
+　無電係が、他船の交換している無電を聞いて、その収獲を一々監督に知らせた。それで見ると、本船がどうしても負けているらしい事が分ってきた。監督が<span rend="sesame_dot" rendition="em">アセリ</span>出した。すると、<span rend="sesame_dot" rendition="em">テキ</span>面にそのことが何倍かの強さになって、漁夫や雑夫に打ち当ってきた。――<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>でも、そして、何んでもドン詰りの引受所が「彼等」だけだった。監督や雑夫長はわざと「船員」と「漁夫、雑夫」との間に、仕事の上で競争させるように仕組んだ。<lb />
+　同じ<span type="ruby"><span type="rb">蟹</span><span type="rp">（</span><span type="rt">かに</span><span type="rp">）</span></span>つぶしをしていながら、「船員に負けた」となると、（自分の<span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>けになる仕事でもないのに）漁夫や雑夫は「何に糞ッ！」という気になる。監督は「手を打って」喜んだ。今日勝った、今日負けた、今度こそ負けるもんか――血の<span type="ruby"><span type="rb">滲</span><span type="rp">（</span><span type="rt">にじ</span><span type="rp">）</span></span>むような日が滅茶苦茶に続く。同じ日のうちに、今までより五、六割も<span type="ruby"><span type="rb">殖</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>えていた。然し五日、六日になると、両方とも気抜けしたように、仕事の高がズシ、ズシ減って行った。仕事をしながら、時々ガクリと頭を前に落した。監督はものも云わないで、なぐりつけた。不意を<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>らって、彼等は自分でも思いがけない悲鳴を「キャッ！」とあげた。――皆は<span type="ruby"><span type="rb">敵</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>同志か、言葉を忘れてしまった人のように、お互にだまりこくって働いた。<span rend="sesame_dot" rendition="em">もの</span>を云うだけのぜいたくな「余分」さえ残っていなかった。<lb />
+　監督は然し、今度は、勝った組に「賞品」を出すことを始めた。<span type="ruby"><span type="rb">燻</span><span type="rp">（</span><span type="rt">くすぶ</span><span type="rp">）</span></span>りかえっていた木が、又燃え出した。<lb />
+「他愛のないものさ」監督は、船長室で、船長を相手にビールを飲んでいた。<lb />
+　船長は肥えた女のように、手の甲に<span rend="sesame_dot" rendition="em">えくぼ</span>が出ていた。器用に<span type="ruby"><span type="rb">金口</span><span type="rp">（</span><span type="rt">きんぐち</span><span type="rp">）</span></span>をトントンとテーブルにたたいて、分らない<span type="ruby"><span type="rb">笑顔</span><span type="rp">（</span><span type="rt">えがお</span><span type="rp">）</span></span>で答えた。――船長は、監督が何時でも自分の眼の前で、マヤマヤ邪魔をしているようで、たまらなく不快だった。漁夫達がワッと事を起して、此奴をカムサツカの海へたたき落すようなことでもないかな、そんな事を考えていた。<lb />
+　監督は「賞品」の外に、逆に、一番働きの少いものに「焼き」を入れることを<span type="ruby"><span type="rb">貼紙</span><span type="rp">（</span><span type="rt">はりがみ</span><span type="rp">）</span></span>した。鉄棒を真赤に焼いて、身体にそのまま当てることだった。彼等は何処まで逃げても離れない、まるで自分自身の影のような「焼き」に始終追いかけられて、仕事をした。仕事が<span type="ruby"><span type="rb">尻上</span><span type="rp">（</span><span type="rt">しりあが</span><span type="rp">）</span></span>りに、目盛りをあげて行った。<lb />
+　人間の身体には、どの位の限度があるか、然しそれは当の本人よりも監督の方が、よく知っていた。――仕事が終って、丸太棒のように<span type="ruby"><span type="rb">棚</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>の中に横倒れに倒れると、「期せずして」う、う――、うめいた。<lb />
+　学生の一人は、小さい時は祖母に連れられて、お寺の薄暗いお堂の中で見たことのある「地獄」の絵が、そのままこうであることを思い出した。それは、小さい時の彼には、丁度<span rend="sesame_dot" rendition="em">うわばみ</span>のような動物が、沼地に<span rend="sesame_dot" rendition="em">にょろ</span>、<span rend="sesame_dot" rendition="em">にょろ</span>と<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>っているのを思わせた。それとそっくり同じだった。――過労がかえって皆を眠らせない。夜中過ぎて、突然、<span type="ruby"><span type="rb">硝子</span><span type="rp">（</span><span type="rt">ガラス</span><span type="rp">）</span></span>の表に思いッ切り<span type="ruby"><span type="rb">疵</span><span type="rp">（</span><span type="rt">きず</span><span type="rp">）</span></span>を付けるような無気味な歯ぎしりが起ったり、寝言や、うなされているらしい<span type="ruby"><span type="rb">突調子</span><span type="rp">（</span><span type="rt">とっぴょうし</span><span type="rp">）</span></span>な叫声が、薄暗い「糞壺」の所々から起った。<lb />
+　彼等は寝れずにいるとき、フト、「<span rend="sesame_dot" rendition="em">よく</span>、まだ生きているな……」と自分で自分の生身の身体にささやきかえすことがある。よく、まだ生きている。――そう自分の身体に！<lb />
+　学生上りは一番「こたえて」いた。<lb />
+「ドストイェフスキーの<span rend="sesame_dot" rendition="em">死人の家</span>な、ここから見れば、あれだって大したことでないって気がする」――その学生は、<span type="ruby"><span type="rb">糞</span><span type="rp">（</span><span type="rt">くそ</span><span type="rp">）</span></span>が何日もつまって、頭を<span type="ruby"><span type="rb">手拭</span><span type="rp">（</span><span type="rt">てぬぐい</span><span type="rp">）</span></span>で力一杯に締めないと、眠れなかった。<lb />
+「それアそうだろう」相手は函館からもってきたウイスキーを、薬でも飲むように、舌の先きで少しずつ<span type="ruby"><span type="rb">嘗</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めていた。「何んしろ大事業だからな。人跡未到の地の富源を開発するッてんだから、大変だよ。――この<span type="ruby"><span type="rb">蟹工船</span><span type="rp">（</span><span type="rt">かにこうせん</span><span type="rp">）</span></span>だって、今はこれで良くなったそうだよ。天候や潮流の変化の観測が出来なかったり、地理が実際にマスターされていなかったりした創業当時は、幾ら船が沈没したりしたか分らなかったそうだ。露国の船には沈められる、捕虜になる、殺される、それでも屈しないで、立ち上り、立ち上り苦闘して来たからこそ、この大富源が俺たちのものになったのさ。……まア仕方がないさ」<lb />
+「…………」<lb />
+　――歴史が何時でも書いているように、それはそうかも知れない気がする。然し、彼の心の底にわだかまっている<span rend="sesame_dot" rendition="em">ムッ</span>とした気持が、それでちっとも晴れなく思われた。彼は黙ってベニヤ板のように固くなっている自分の腹を<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>でた。弱い電気に触れるように、<span type="ruby"><span type="rb">拇指</span><span type="rp">（</span><span type="rt">おやゆび</span><span type="rp">）</span></span>のあたりが、チャラチャラとしびれる。イヤな気持がした。拇指を眼の高さにかざして、片手でさすってみた。――皆は、夕飯が終って、「糞壺」の真中に一つ取りつけてある、割目が地図のように入っているガタガタのストーヴに寄っていた。お互の身体が少し<span type="ruby"><span type="rb">温</span><span type="rp">（</span><span type="rt">あたたま</span><span type="rp">）</span></span>ってくると、湯気が立った。蟹の生ッ臭い<span type="ruby"><span type="rb">匂</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いがムレて、ムッと鼻に来た。<lb />
+「何んだか、理窟は分らねども、殺されたくねえで」<lb />
+「んだよ！」<lb />
+　憂々した気持が、もたれかかるように、<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">雪崩</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>れて行く。殺されかかっているんだ！　皆はハッキリした焦点もなしに、怒りッぽくなっていた。<lb />
+「お、俺だちの、も、ものにもならないのに、く、<span type="ruby"><span type="rb">糞</span><span type="rp">（</span><span type="rt">くそ</span><span type="rp">）</span></span>、こッ殺されてたまるもんか！」<lb />
+　<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りの漁夫が、自分でももどかしく、顔を真赤に筋張らせて、急に、大きな声を出した。<lb />
+　<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>、皆だまった。何かにグイと心を「不意」に突き上げられた――のを感じた。<lb />
+「カムサツカで死にたくないな……」<lb />
+「…………」<lb />
+「中積船、函館ば出たとよ。――無電係の人云ってた」<lb />
+「帰りてえな」<lb />
+「帰れるもんか」<lb />
+「中積船でヨク逃げる奴がいるってな」<lb />
+「んか<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />　……ええな」<lb />
+「漁に出る振りして、カムサツカの陸さ逃げて、露助と一緒に赤化宣伝ばやってるものもいるッてな」<lb />
+「…………」<lb />
+「日本帝国のためか、――又、いい名義を考えたもんだ」――学生は胸のボタンを<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>して、階段のように一つ一つ<span type="ruby"><span type="rb">窪</span><span type="rp">（</span><span type="rt">くぼ</span><span type="rp">）</span></span>みの出来ている胸を出して、あくびをしながら、ゴシゴシ<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いた。<span type="ruby"><span type="rb">垢</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>が乾いて、薄い雲母のように<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>げてきた。<lb />
+「んよ、か、会社の金持ばかり、ふ、ふんだくるくせに」<lb />
+　<span rend="sesame_dot" rendition="em">カキ</span>の貝殻のように、段々のついた、たるんだ<span type="ruby"><span type="rb">眼蓋</span><span type="rp">（</span><span type="rt">まぶた</span><span type="rp">）</span></span>から、弱々しい濁った視線をストオヴの上にボンヤリ投げていた中年を過ぎた漁夫が<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>をはいた。ストオヴの上に落ちると、それがクルックルッと<span type="ruby"><span type="rb">真円</span><span type="rp">（</span><span type="rt">まんまる</span><span type="rp">）</span></span>にまるくなって、ジュウジュウ云いながら、豆のように<span type="ruby"><span type="rb">跳</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ね上って、見る間に小さくなり、油煙粒ほどの小さい<span rend="sesame_dot" rendition="em">カス</span>を残して、無くなった。皆はそれにウカツな視線を投げている。<lb />
+「それ、本当かも知れないな」<lb />
+　然し、船頭が、ゴム底タビの赤毛布の裏を出して、ストーヴにかざしながら、「おいおい<span type="ruby"><span type="rb">叛逆</span><span type="rp">（</span><span type="rt">てむかい</span><span type="rp">）</span></span>なんかしないでけれよ」と云った。<lb />
+「…………」<lb />
+「勝手だべよ。糞」吃りが唇を<span type="ruby"><span type="rb">蛸</span><span type="rp">（</span><span type="rt">たこ</span><span type="rp">）</span></span>のように突き出した。<lb />
+　ゴムの焼けかかっているイヤな臭いがした。<lb />
+「おい、<span type="ruby"><span type="rb">親爺</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>、ゴム！」<lb />
+「ん、あ、こげた！」<lb />
+　波が出て来たらしく、サイドが<span type="ruby"><span type="rb">微</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>かになってきた。船も子守<span type="ruby"><span type="rb">唄</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>程に揺れている。腐った<span type="ruby"><span type="rb">海漿</span><span type="rp">（</span><span type="rt">ほおずき</span><span type="rp">）</span></span>のような五燭燈でストーヴを囲んでいるお互の、後に落ちている影が色々にもつれて、組合った。――静かな夜だった。ストーヴの口から赤い火が、<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>から下にチラチラと反映していた。不幸だった自分の一生が、ひょいと――まるッきり、ひょいと、しかも一瞬間だけ見返される――不思議に静かな夜だった。<lb />
+「煙草<span type="ruby"><span type="rb">無</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>えか？」<lb />
+「無え……」<lb />
+「無えか？……」<lb />
+「なかったな」<lb />
+「糞」<lb />
+「おい、ウイスキーをこっちにも廻せよ、な」<lb />
+　相手は<span type="ruby"><span type="rb">角瓶</span><span type="rp">（</span><span type="rt">かくびん</span><span type="rp">）</span></span>を逆かさに振ってみせた。<lb />
+「おッと、<span type="ruby"><span type="rb">勿体</span><span type="rp">（</span><span type="rt">もったい</span><span type="rp">）</span></span>ねえことするなよ」<lb />
+「ハハハハハハハ」<lb />
+「飛んでもねえ所さ、然し来たもんだな、俺も……」その漁夫は芝浦の工場にいたことがあった。そこの話がそれから出た。それは北海道の労働者達には「<span rend="sesame_dot" rendition="em">工場</span>」だとは想像もつかない「<span rend="sesame_dot" rendition="em">立派な処</span>」に思われた。「ここの百に一つ位のことがあったって、あっちじゃストライキだよ」と云った。<lb />
+　その事から――そのキッかけで、お互の今までしてきた色々のことが、ひょいひょいと話に出てきた。「国道開たく工事」「<span type="ruby"><span type="rb">灌漑</span><span type="rp">（</span><span type="rt">かんがい</span><span type="rp">）</span></span>工事」「鉄道敷設」「築港埋立」「新鉱発掘」「開墾」「積取人夫」「<span type="ruby"><span type="rb">鰊</span><span type="rp">（</span><span type="rt">にしん</span><span type="rp">）</span></span>取り」――<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほと</span><span type="rp">）</span></span>んど、そのどれかを皆はしてきていた。<lb />
+　――内地では、労働者が「<span type="ruby"><span type="rb">横平</span><span type="rp">（</span><span type="rt">おうへい</span><span type="rp">）</span></span>」になって無理がきかなくなり、市場も大体開拓されつくして、行詰ってくると、資本家は「北海道・樺太へ！」<span type="ruby"><span type="rb">鉤爪</span><span type="rp">（</span><span type="rt">かぎづめ</span><span type="rp">）</span></span>をのばした。<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>では、彼等は朝鮮や、台湾の殖民地と同じように、面白い程無茶な「虐使」が出来た。然し、誰も、何んとも云えない事を、資本家はハッキリ呑み込んでいた。「国道開たく」「鉄道敷設」の土工部屋では、<span type="ruby"><span type="rb">虱</span><span type="rp">（</span><span type="rt">しらみ</span><span type="rp">）</span></span>より無雑作に土方がタタき殺された。虐使に<span type="ruby"><span type="rb">堪</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>えられなくて逃亡する。それが<span type="ruby"><span type="rb">捕</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>まると、<span type="ruby"><span type="rb">棒杭</span><span type="rp">（</span><span type="rt">ぼうぐい</span><span type="rp">）</span></span>にしばりつけて置いて、馬の後足で<span type="ruby"><span type="rb">蹴</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>らせたり、裏庭で土佐犬に<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>み殺させたりする。それを、しかも皆の目の前でやってみせるのだ。<span type="ruby"><span type="rb">肋骨</span><span type="rp">（</span><span type="rt">ろっこつ</span><span type="rp">）</span></span>が胸の中で折れる<span rend="sesame_dot" rendition="em">ボクッ</span>と<span rend="sesame_dot" rendition="em">こもった</span>音をきいて、「人間でない」土方さえ思わず顔を抑えるものがいた。気絶をすれば、水をかけて生かし、それを何度も何度も繰りかえした。<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>いには風呂敷包みのように、土佐犬の<span type="ruby"><span type="rb">強靱</span><span type="rp">（</span><span type="rt">きょうじん</span><span type="rp">）</span></span>な首で振り廻わされて死ぬ。ぐったり広場の<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>に投げ出されて、放って置かれてからも、身体の何処かが、ピクピクと動いていた。<span type="ruby"><span type="rb">焼火箸</span><span type="rp">（</span><span type="rt">やけひばし</span><span type="rp">）</span></span>をいきなり尻にあてることや、六角棒で腰が立たなくなる程なぐりつけることは「<span rend="sesame_dot" rendition="em">毎日</span>」だった。飯を食っていると、急に、裏で鋭い叫び声が起る。すると、人の肉が焼ける生ッ臭い匂いが流れてきた。<lb />
+「やめた、やめた。――とても飯なんて、食えたもんじゃねえや」<lb />
+　箸を投げる。が、お互暗い顔で見合った。<lb />
+　<span type="ruby"><span type="rb">脚気</span><span type="rp">（</span><span type="rt">かっけ</span><span type="rp">）</span></span>では何人も死んだ。無理に働かせるからだった。死んでも「暇がない」ので、そのまま何日も放って置かれた。裏へ出る暗がりに、無雑作にかけてあるムシロの<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>から、子供のように妙に小さくなった、黄黒く、<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">つや</span><span type="rp">）</span></span>のない両足だけが見えた。<lb />
+「顔に一杯<span type="ruby"><span type="rb">蠅</span><span type="rp">（</span><span type="rt">はえ</span><span type="rp">）</span></span>がたかっているんだ。側を通ったとき、一度にワアーンと飛び上るんでないか！」<lb />
+　額を手で<span rend="sesame_dot" rendition="em">トントン</span>打ちながら入ってくると、そう云う者があった。<lb />
+　皆は朝は暗いうちに仕事場に出された。そして<span type="ruby"><span type="rb">鶴嘴</span><span type="rp">（</span><span type="rt">つるはし</span><span type="rp">）</span></span>のさきがチラッ、チラッと青白く光って、手元が見えなくなるまで、働かされた。近所に建っている監獄で働いている囚人の方を、皆はかえって<span type="ruby"><span type="rb">羨</span><span type="rp">（</span><span type="rt">うらやま</span><span type="rp">）</span></span>しがった。<span type="ruby"><span type="rb">殊</span><span type="rp">（</span><span type="rt">こと</span><span type="rp">）</span></span>に朝鮮人は親方、<span type="ruby"><span type="rb">棒頭</span><span type="rp">（</span><span type="rt">ぼうがしら</span><span type="rp">）</span></span>からも、同じ仲間の土方（日本人の）からも「踏んづける」ような待遇をうけていた。<lb />
+　其処から四、五里も離れた村に駐在している巡査が、それでも時々手帖をもって、取調べにテクテクやってくる。夕方までいたり、泊りこんだりした。然し土方達の方へは一度も顔を見せなかった。そして、帰りには真赤な顔をして、歩きながら道の真中を、消防の<span type="ruby"><span type="rb">真似</span><span type="rp">（</span><span type="rt">まね</span><span type="rp">）</span></span>でもしているように、小便を四方にジャジャやりながら、分らない独言を云って帰って行った。<lb />
+　北海道では、字義通り、どの鉄道の枕木もそれはそのまま一本々々労働者の青むくれた「死骸」だった。築港の埋立には、脚気の土工が生きたまま「<span rend="sesame_dot" rendition="em">人柱</span>」のように埋められた。――北海道の、そういう労働者を「<span rend="sesame_dot" rendition="em">タコ</span>（蛸）」と云っている。蛸は自分が生きて行くためには自分の手足をも食ってしまう。これこそ、全くそっくりではないか！　そこでは誰をも<span type="ruby"><span type="rb">憚</span><span type="rp">（</span><span type="rt">はばか</span><span type="rp">）</span></span>らない「原始的」な搾取が出来た。「<span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>け」がゴゾリ、ゴゾリ掘りかえってきた。しかも、そして、その事を巧みに「<span rend="sesame_dot" rendition="em">国家的</span>」<span rend="sesame_dot" rendition="em">富源の開発</span>ということに結びつけて、マンマと合理化していた。抜目がなかった。「国家」のために、労働者は「腹が減り」「タタき殺されて」行った。<lb />
+「<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">あこ</span><span type="rp">）</span></span>から生きて帰れたなんて、神助け事だよ。有難かったな！　んでも、この船で殺されてしまったら、同じだべよ。――何アーんでえ！」そして<span type="ruby"><span type="rb">突調子</span><span type="rp">（</span><span type="rt">とっぴょうし</span><span type="rp">）</span></span>なく大きく笑った。その漁夫は笑ってしまってから、然し<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>のあたりをアリアリと暗くして、横を向いた。<lb />
+　<span type="ruby"><span type="rb">鉱山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>でも同じだった。――新しい山に坑道を掘る。そこにどんな<span type="ruby"><span type="rb">瓦斯</span><span type="rp">（</span><span type="rt">ガス</span><span type="rp">）</span></span>が出るか、どんな飛んでもない変化が起るか、それを調べあげて一つの確針をつかむのに、資本家は「モルモット」より安く買える「労働者」を、乃木軍神がやったと同じ方法で、入り代り、立ち代り雑作なく使い捨てた。鼻紙より無雑作に！　「マグロ」の刺身のような労働者の肉片が、坑道の壁を幾重にも幾重にも丈夫にして行った。都会から離れていることを好い都合にして、此処でもやはり「ゾッ」とすることが行われていた。トロッコで運んでくる石炭の中に<span type="ruby"><span type="rb">拇指</span><span type="rp">（</span><span type="rt">おやゆび</span><span type="rp">）</span></span>や小指がバラバラに、ねばって交ってくることがある。女や子供はそんな事には然し眉を動かしてはならなかった。そう「慣らされていた」彼等は無表情に、それを次の持場まで押してゆく。――<span rend="sesame_dot" rendition="em">その石炭</span>が巨大な機械を、資本家の「利潤」のために動かした。<lb />
+　どの坑夫も、長く監獄に入れられた人のように、<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">つや</span><span type="rp">）</span></span>のない黄色くむくんだ、始終ボンヤリした顔をしていた。日光の不足と、<span type="ruby"><span type="rb">炭塵</span><span type="rp">（</span><span type="rt">たんじん</span><span type="rp">）</span></span>と、有毒ガスを含んだ空気と、温度と気圧の異常とで、眼に見えて身体がおかしくなってゆく。「七、八年も坑夫をしていれば、<span type="ruby"><span type="rb">凡</span><span type="rp">（</span><span type="rt">およ</span><span type="rp">）</span></span>そ四、五年間位は<span type="ruby"><span type="rb">打</span><span type="rp">（</span><span type="rt">ぶ</span><span type="rp">）</span></span>ッ続けに<span type="ruby"><span type="rb">真暗闇</span><span type="rp">（</span><span type="rt">まっくらやみ</span><span type="rp">）</span></span>の底にいて、一度だって太陽を拝まなかったことになる、四、五年も！」――だが、どんな事があろうと、代りの労働者を何時でも沢山仕入れることの出来る資本家には、そんなことはどうでもいい事であった。冬が来ると、「やはり」労働者はその坑山に流れ込んで行った。<lb />
+　それから「入地百姓」――北海道には「移民百姓」がいる。「北海道開拓」「人口食糧問題解決、移民奨励」、日本少年式な「移民成金」など、ウマイ事ばかり並べた活動写真を使って、田畑を奪われそうになっている内地の貧農を<span type="ruby"><span type="rb">煽動</span><span type="rp">（</span><span type="rt">せんどう</span><span type="rp">）</span></span>して、移民を奨励して置きながら、四、五寸も掘り返せば、下が粘土ばかりの土地に放り出される。<span type="ruby"><span type="rb">豊饒</span><span type="rp">（</span><span type="rt">ほうじょう</span><span type="rp">）</span></span>な土地には、もう立札が立っている。雪の中に埋められて、馬鈴薯も食えずに、一家は次の春には餓死することがあった。それは「事実」何度もあった。雪が溶けた頃になって、一里も離れている「隣りの人」がやってきて、始めてそれが分った。口の中から、半分<span type="ruby"><span type="rb">嚥</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>みかけている<span type="ruby"><span type="rb">藁屑</span><span type="rp">（</span><span type="rt">わらくず</span><span type="rp">）</span></span>が出てきたりした。<lb />
+　<span type="ruby"><span type="rb">稀</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>れに餓死から逃れ得ても、その荒ブ地を十年もかかって耕やし、ようやくこれで普通の畑になったと思える頃、実はそれにちアんと、「外の人」のものになるようになっていた。資本家は――高利貸、銀行、華族、大金持は、<span type="ruby"><span type="rb">嘘</span><span type="rp">（</span><span type="rt">うそ</span><span type="rp">）</span></span>のような金を貸して置けば、（投げ捨てて置けば）荒地は、肥えた黒猫の毛並のように豊饒な土地になって、間違なく、自分のものになってきた。そんな事を真似て、<span rend="sesame_dot" rendition="em">濡手</span>をきめこむ、目の鋭い人間も、又北海道に入り込んできた。――百姓は、あっちからも、こっちからも自分のものを<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>みとられて行った。そして<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>いには、彼等が内地でそうされたと同じように「<span rend="sesame_dot" rendition="em">小作人</span>」にされてしまっていた。そうなって百姓は始めて気付いた。――「<span type="ruby"><span type="rb">失敗</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>った！」<lb />
+　彼等は少しでも<span rend="sesame_dot" rendition="em">金を作って</span>、<span type="ruby"><span type="rb">故里</span><span type="rp">（</span><span type="rt">ふるさと</span><span type="rp">）</span></span>の村に帰ろう、そう思って、津軽海峡を渡って、雪の深い北海道へやってきたのだった。――蟹工船にはそういう、自分の土地を「他人」に追い立てられて来たものが沢山いた。<lb />
+　積取人夫は蟹工船の漁夫と似ていた。監視付きの<span type="ruby"><span type="rb">小樽</span><span type="rp">（</span><span type="rt">おたる</span><span type="rp">）</span></span>の下宿屋にゴロゴロしていると、<span type="ruby"><span type="rb">樺太</span><span type="rp">（</span><span type="rt">かばふと</span><span type="rp">）</span></span>や北海道の奥地へ船で引きずられて行く。足を「<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">いっすん</span><span type="rp">）</span></span>」すべらすと、ゴンゴンゴンとうなりながら、地響をたてて転落してくる角材の下になって、<span rend="sesame_dot" rendition="em">南部センベイ</span>よりも薄くされた。ガラガラとウインチで船に積まれて行く、水で皮がペロペロになっている材木に、拍子を食って、<span rend="sesame_dot" rendition="em">一なぐり</span>されると、頭のつぶれた人間は、<span type="ruby"><span type="rb">蚤</span><span type="rp">（</span><span type="rt">のみ</span><span type="rp">）</span></span>の子よりも軽く、海の中へたたき込まれた。<lb />
+　――内地では、何時までも、黙って「殺されていない」労働者が一かたまりに固って、資本家へ反抗している。然し「殖民地」の労働者は、そういう事情から完全に「<span type="ruby"><span type="rb">遮断</span><span type="rp">（</span><span type="rt">しゃだん</span><span type="rp">）</span></span>」されていた。<lb />
+　苦しくて、苦しくてたまらない。然し<span type="ruby"><span type="rb">転</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>んで歩けば歩く程、雪ダルマのように苦しみを身体に背負い込んだ。<lb />
+「どうなるかな……？」<lb />
+「殺されるのさ、分ってるべよ」<lb />
+「…………」何か云いたげな、然しグイとつまったまま、皆だまった。<lb />
+「こ、こ、殺される前に、こっちから殺してやるんだ」どもりがブッきら棒に投げつけた。<lb />
+　トブーン、ドブーンとゆるく<span type="ruby"><span type="rb">腹</span><span type="rp">（</span><span type="rt">サイド</span><span type="rp">）</span></span>に波が当っている。上甲板の方で、何処かのパイプからスティムが<span rend="sesame_dot" rendition="em">もれ</span>ているらしく、シー、シ――ン、シ――ンという<span type="ruby"><span type="rb">鉄瓶</span><span type="rp">（</span><span type="rt">てつびん</span><span type="rp">）</span></span>のたぎるような、柔かい音が絶えずしていた。<lb />
+<lb />
+　寝る前に、漁夫達は<span type="ruby"><span type="rb">垢</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>でスルメのようにガバガバになったメリヤスやネルのシャツを脱いで、ストーヴの上に広げた。囲んでいるもの達が、<span type="ruby"><span type="rb">炬燵</span><span type="rp">（</span><span type="rt">こたつ</span><span type="rp">）</span></span>のように各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />その端をもって、熱くしてからバタバタと<span rend="sesame_dot" rendition="em">ほろっ</span>た。ストーヴの上に<span type="ruby"><span type="rb">虱</span><span type="rp">（</span><span type="rt">しらみ</span><span type="rp">）</span></span>や南京虫が落ちると、プツン、プツンと、音をたてて、人が焼ける時のような生ッ臭い<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いがした。熱くなると、居たまらなくなった虱が、シャツの縫目から、細かい沢山の足を夢中に動かして、出て来る。つまみ上げると、皮膚の<span type="ruby"><span type="rb">脂肪</span><span type="rp">（</span><span type="rt">あぶら</span><span type="rp">）</span></span>ッぽいコロッとした身体の感触がゾッときた。かまきり虫のような、無気味な頭が、それと分る程肥えているのもいた。<lb />
+「おい、端を持ってけれ」<lb />
+　<span type="ruby"><span type="rb">褌</span><span type="rp">（</span><span type="rt">ふんどし</span><span type="rp">）</span></span>の片端を持ってもらって、広げながら虱をとった。<lb />
+　漁夫は虱を口に入れて、前歯で、音をさせてつぶしたり、両方の<span type="ruby"><span type="rb">拇指</span><span type="rp">（</span><span type="rt">おやゆび</span><span type="rp">）</span></span>の爪で、爪が真赤になるまでつぶした。子供が汚い手をすぐ着物に<span type="ruby"><span type="rb">拭</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>くように、<span type="ruby"><span type="rb">袢天</span><span type="rp">（</span><span type="rt">はんてん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>にぬぐうと、又始めた。――それでも然し眠れない。何処から出てくるか、夜通し虱と<span type="ruby"><span type="rb">蚤</span><span type="rp">（</span><span type="rt">のみ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">南京虫</span><span type="rp">（</span><span type="rt">ナンキンむし</span><span type="rp">）</span></span>に責められる。いくらどうしても退治し尽されなかった。薄暗く、ジメジメしている棚に立っていると、すぐモゾモゾと何十匹もの蚤が<span type="ruby"><span type="rb">脛</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>い上ってきた。<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>いには、自分の体の何処かが腐ってでもいないのか、と思った。<span type="ruby"><span type="rb">蛆</span><span type="rp">（</span><span type="rt">うじ</span><span type="rp">）</span></span>や蠅に取りつかれている<span type="ruby"><span type="rb">腐爛</span><span type="rp">（</span><span type="rt">ふらん</span><span type="rp">）</span></span>した「死体」ではないか、そんな不気味さを感じた。<lb />
+　お湯には、初め一日置きに入れた。身体が生ッ臭くよごれて仕様がなかった。然し一週間もすると、三日置きになり、一カ月位経つと、一週間一度。そしてとうとう月二回にされてしまった。水の<span type="ruby"><span type="rb">濫費</span><span type="rp">（</span><span type="rt">らんぴ</span><span type="rp">）</span></span>を防ぐためだった。然し、船長や監督は毎日お湯に入った。それは濫費にはならなかった。（！）――身体が蟹の汁で汚れる、それがそのまま何日も続く、それで虱か南京虫が<span type="ruby"><span type="rb">湧</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>かない「<span type="ruby"><span type="rb">筈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>」がなかった。<lb />
+　褌を解くと、黒い粒々がこぼれ落ちた。褌をしめたあとが、赤く<span rend="sesame_dot" rendition="em">かた</span>がついて、腹に輪を作った。そこがたまらなく<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>ゆかった。寝ていると、ゴシゴシと身体をやけにかく音が何処からも起った。モゾモゾと小さいゼンマイのようなものが、身体の下側を走るかと思うと――刺す。その度に漁夫は身体をくねらし、寝返りを打った。然し又すぐ同じだった。それが朝まで続く。皮膚が<span type="ruby"><span type="rb">皮癬</span><span type="rp">（</span><span type="rt">ひぜん</span><span type="rp">）</span></span>のように、ザラザラになった。<lb />
+「<span rend="sesame_dot" rendition="em">死に虱</span>だべよ」<lb />
+「んだ、丁度ええさ」<lb />
+　仕方なく、笑ってしまった。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">五</span></span></span>
+<lb />
+　あわてた漁夫が二、三人デッキを走って行った。<lb />
+　曲り角で、急にまがれず、よろめいて、手すりにつかまった。サロン・デッキで修繕をしていた大工が背のびをして、漁夫の走って行った方を見た。寒風の吹きさらしで、涙が出て、初め、よく見えなかった。大工は横を向いて勢いよく「<span rend="sesame_dot" rendition="em">つかみ鼻</span>」をかんだ。鼻汁が風にあふられて、<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>んだ線を描いて飛んだ。<lb />
+　ともの左舷のウインチがガラガラなっている。皆漁に出ている今、それを動かしている<span rend="sesame_dot" rendition="em">わけ</span>がなかった。ウインチにはそして何かブラ下っていた。それが揺れている。<span type="ruby"><span type="rb">吊</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>り下がっているワイヤーが、その垂直線の囲りを、ゆるく円を描いて揺れていた。「何んだべ？」――その時、ドキッと来た。<lb />
+　大工は<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわて</span><span type="rp">）</span></span>たように、もう一度横を向いて「つかみ鼻」をかんだ。それが風の工合でズボンにひっかかった。トロッとした薄い水鼻だった。<lb />
+「又、やってやがる」大工は涙を何度も腕で<span type="ruby"><span type="rb">拭</span><span type="rp">（</span><span type="rt">ぬぐ</span><span type="rp">）</span></span>いながら眼をきめた。<lb />
+　こっちから見ると、雨上りのような銀灰色の海をバックに、突き出ているウインチの腕、それにすっかり身体を縛られて、吊し上げられている雑夫が、ハッキリ黒く浮び出てみえた。ウインチの先端まで空を上ってゆく。そして<span type="ruby"><span type="rb">雑巾</span><span type="rp">（</span><span type="rt">ぞうきん</span><span type="rp">）</span></span>切れでもひッかかったように、しばらくの間――二十分もそのままに吊下げられている。それから下がって行った。身体をくねらして、もがいているらしく、両足が<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>の巣にひっかかった<span type="ruby"><span type="rb">蠅</span><span type="rp">（</span><span type="rt">はえ</span><span type="rp">）</span></span>のように動いている。<lb />
+　やがて手前のサロンの陰になって、見えなくなった。一直線に張っていたワイヤーだけが、時々ブランコのように動いた。<lb />
+　涙が鼻に入ってゆくらしく、水鼻がしきりに出た。大工は又「つかみ鼻」をした。それから横ポケットにブランブランしている<span type="ruby"><span type="rb">金槌</span><span type="rp">（</span><span type="rt">かなづち</span><span type="rp">）</span></span>を取って、仕事にかかった。<lb />
+　大工はひょいと耳をすまして――振りかえって見た。ワイヤ・ロープが、誰か下で振っているように揺れていて、ボクンボクンと鈍い不気味な音は<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>からしていた。<lb />
+　ウインチに吊された雑夫は顔の色が変っていた。死体のように堅くしめている唇から、<span type="ruby"><span type="rb">泡</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>を出していた。大工が下りて行った時、雑夫長が<span type="ruby"><span type="rb">薪</span><span type="rp">（</span><span type="rt">まき</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">脇</span><span type="rp">（</span><span type="rt">わき</span><span type="rp">）</span></span>にはさんで、片肩を上げた窮屈な<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>で、デッキから海へ小便をしていた。あれでなぐったんだな、大工は薪をちらっと見た。小便は風が吹く度に、ジャ、ジャとデッキの端にかかって、<span rend="sesame_dot" rendition="em">はね</span>を飛ばした。<lb />
+　漁夫達は何日も何日も続く過労のために、だんだん朝起きられなくなった。監督が石油の<span type="ruby"><span type="rb">空罐</span><span type="rp">（</span><span type="rt">あきかん</span><span type="rp">）</span></span>を寝ている耳もとでたたいて歩いた。眼を開けて、起き上るまで、やけに罐をたたいた。<span type="ruby"><span type="rb">脚気</span><span type="rp">（</span><span type="rt">かっけ</span><span type="rp">）</span></span>のものが、頭を半分上げて何か云っている。<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>し監督は見ない振りで、空罐をやめない。声が聞えないので、金魚が水際に出てきて、空気を吸っている時のように、口だけパクパク動いてみえた。いい加減たたいてから、<lb />
+「どうしたんだ、タタき起すど！」と怒鳴りつけた。「いやしくも仕事が国家的である以上、<span rend="sesame_dot" rendition="em">戦争と同じ</span>なんだ。死ぬ覚悟で働け！　馬鹿野郎」<lb />
+　病人は皆<span type="ruby"><span type="rb">蒲団</span><span type="rp">（</span><span type="rt">ふとん</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ぎとられて、甲板へ押し出された。脚気のものは階段の段々に足先きがつまずいた。手すりにつかまりながら、身体を斜めにして、自分の足を自分の手で持ち上げて、階段を上がった。心臓が一足毎に無気味にピンピン<span type="ruby"><span type="rb">蹴</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>るようにはね上った。<lb />
+　監督も、雑夫長も病人には、<span type="ruby"><span type="rb">継子</span><span type="rp">（</span><span type="rt">ままこ</span><span type="rp">）</span></span>にでも対するように<span rend="sesame_dot" rendition="em">ジリジリ</span>と陰険だった。「肉詰」をしていると追い立てて、甲板で「爪たたき」をさせられる。それを<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>していると「紙巻」の方へ廻わされる。底寒くて、薄暗い工場の中ですべる足元に気をつけながら、立ちつくしていると、<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>から下は義足に触るより無感覚になり、ひょいとすると膝の関節が、<span type="ruby"><span type="rb">蝶</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span>つがいが離れたように、不覚に<span rend="sesame_dot" rendition="em">ヘナヘナ</span>と坐り込んでしまいそうになった。<lb />
+　学生が蟹をつぶした汚れた手の甲で、額を軽くたたいていた。一寸すると、そのまま横倒しに後へ倒れてしまった。その時、側に<span type="ruby"><span type="rb">積</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>さなっていた罐詰の空罐がひどく音をたてて、学生の倒れた上に崩れ落ちた。それが船の傾斜に沿って、機械の下や荷物の間に、光りながら円るく転んで行った。仲間が周章てて学生をハッチに連れて行こうとした。それが丁度、監督が口笛を吹きながら工場に下りてきたのと、会った。ひょいと見てとると、<lb />
+「誰が仕事を離れったんだ！」<lb />
+「誰が<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />……」思わずグッと来た一人が、肩でつッかかるようにせき込んだ。<lb />
+「誰がア――？　この野郎、もう一度云ってみろ！」監督はポケットからピストルを取り出して、玩具のようにいじり廻わした。それから、急に大声で、口を三角形にゆがめながら、背のびをするように身体をゆすって、笑い出した。<lb />
+「水を持って来い！」<lb />
+　監督は<span type="ruby"><span type="rb">桶</span><span type="rp">（</span><span type="rt">おけ</span><span type="rp">）</span></span>一杯に水を受取ると、枕木のように床に置き捨てになっている学生の顔に、いきなり――一度に、それを浴せかけた。<lb />
+「これでええんだ。――<span type="ruby"><span type="rb">要</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>らないものなんか見なくてもええ、仕事でもしやがれ！」<lb />
+　次の朝、雑夫が工場に下りて行くと、旋盤の鉄柱に、前の日の学生が縛りつけられているのを見た。首をひねられた鶏のように、首をガクリ胸に落し込んで、背筋の先端に大きな関節を一つポコンと<span type="ruby"><span type="rb">露</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>わに見せていた。そして子供の前掛けのように、胸に、それが明らかに監督の筆致で、<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+「此者ハ不忠ナル偽病者ニツキ、<span type="ruby"><span type="rb">麻縄</span><span type="rp">（</span><span type="rt">あさなわ</span><span type="rp">）</span></span>ヲ解クコトヲ禁ズ」<lb />
+</span>
+　と書いたボール紙を吊していた。<lb />
+　額に手をやってみると、冷えきった鉄に触るより冷たくなっている。雑夫等は工場に入るまで、ガヤガヤしゃべっていた。それが誰も口をきくものがない。後から雑夫長の下りてくる声をきくと、彼等はその学生の縛られている機械から二つに分れて各々の持場に流れて行った。<lb />
+　蟹漁が忙がしくなると、ヤケに当ってくる。前歯を折られて、一晩中「血の唾」をはいたり、過労で作業中に卒倒したり、眼から血を出したり、平手で滅茶苦茶に<span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>かれて、耳が聞えなくなったりした。あんまり疲れてくると、皆は酒に酔ったよりも他愛なくなった。時間がくると、「これでいい」と、フト安心すると、瞬間クラクラッとした。<lb />
+　皆が仕舞いかけると、<lb />
+「今日は九時までだ」と監督が怒鳴って歩いた。「この野郎達、仕舞いだッて云う時だけ、手廻わしを早くしやがって！」<lb />
+　皆は高速度写真のようにノロノロ又立ち上った。それしか気力がなくなっていた。<lb />
+「いいか、<span type="ruby"><span type="rb">此処</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>へは二度も、三度も出直して来れるところじゃないんだ。それに<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>だって蟹が取れるとも限ったものでもないんだ。それを一日の働きが十時間だから十三時間だからって、それでピッタリやめられたら、飛んでもないことになるんだ。――仕事の<span type="ruby"><span type="rb">性質</span><span type="rp">（</span><span type="rt">たち</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">異</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>うんだ。いいか、その代り蟹が採れない時は、お前達を<span rend="sesame_dot" rendition="em">勿体ない程</span>ブラブラさせておくんだ」監督は「糞壺」へ降りてきて、そんなことを云った。「露助はな、魚が何んぼ眼の前で<span type="ruby"><span type="rb">群化</span><span type="rp">（</span><span type="rt">くき</span><span type="rp">）</span></span>てきても、時間が来れば一分も違わずに、仕事をブン投げてしまうんだ。んだから――んな心掛けだから<span type="ruby"><span type="rb">露西亜</span><span type="rp">（</span><span type="rt">ロシア</span><span type="rp">）</span></span>の国がああなったんだ。<span rend="sesame_dot" rendition="em">日本男児</span>の断じて<span type="ruby"><span type="rb">真似</span><span type="rp">（</span><span type="rt">まね</span><span type="rp">）</span></span>てならないことだ！」<lb />
+　何に云ってるんだ、ペテン野郎！　そう思って聞いていないものもあった。然し大部分は監督にそう云われると日本人はやはり偉いんだ、という気にされた。そして自分達の毎日の残虐な苦しさが、何か「英雄的」なものに見え、それがせめても皆を慰めさせた。<lb />
+　甲板で仕事をしていると、よく水平線を横切って、駆逐艦が南下して行った。後尾に日本の旗がはためくのが見えた。漁夫等は興奮から、眼に涙を一杯ためて、帽子をつかんで振った。――あれだけだ。俺達の味方は、と思った。<lb />
+「畜生、<span rend="sesame_dot" rendition="em">あいつ</span>を見ると、涙が出やがる」<lb />
+　だんだん小さくなって、煙にまつわって見えなくなるまで見送った。<lb />
+　雑巾切れのように、クタクタになって帰ってくると、皆は思い合わせたように、相手もなく、ただ「畜生！」と怒鳴った。暗がりで、それは<span type="ruby"><span type="rb">憎悪</span><span type="rp">（</span><span type="rt">ぞうお</span><span type="rp">）</span></span>に満ちた<span type="ruby"><span type="rb">牡牛</span><span type="rp">（</span><span type="rt">おうし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">唸</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>り声に似ていた。誰に対してか彼等自身分ってはいなかったが、然し毎日々々同じ「糞壺」の中にいて、二百人近くのもの等がお互にブッキラ棒にしゃべり合っているうちに、眼に見えずに、考えること、云うこと、することが、（<span rend="sesame_dot" rendition="em">なめくじ</span>が地面を<span type="ruby"><span type="rb">匐</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>うほどののろさだが）同じになって行った。――その同じ流れのうちでも、勿論<span type="ruby"><span type="rb">澱</span><span type="rp">（</span><span type="rt">よど</span><span type="rp">）</span></span>んだように<span rend="sesame_dot" rendition="em">足ぶみ</span>をするものが出来たり、別な方へ<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>れて行く中年の漁夫もある。然しそのどれもが、自分では何んにも気付かないうちに、そうなって行き、そして何時の間にか、ハッキリ分れ、分れになっていた。<lb />
+　朝だった。タラップをノロノロ上りながら、<span type="ruby"><span type="rb">炭山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>から来た男が、<lb />
+「とても続かねえや」と云った。<lb />
+　前の日は十時近くまでやって、身体は<span type="ruby"><span type="rb">壊</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>れかかった機械のようにギクギクしていた。タラップを上りながら、ひょいとすると、眠っていた。後から「オイ」と声をかけられて思わず手と足を動かす。そして、足を踏み<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>して、のめったまま腹ん<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>いになった。<lb />
+　仕事につく前に、皆が工場に降りて行って、<span type="ruby"><span type="rb">片隅</span><span type="rp">（</span><span type="rt">かたすみ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">溜</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>った。どれも泥人形のような顔をしている。<lb />
+「俺ア仕事サボるんだ。出来ねえ」――<span type="ruby"><span type="rb">炭山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>だった。<lb />
+　皆も黙ったまま、顔を動かした。<lb />
+　一寸して、<lb />
+「<span rend="sesame_dot" rendition="em">大焼き</span>が入るからな……」と誰か云った。<lb />
+「ずるけてサボるんでねえんだ。働けねえからだよ」<lb />
+　<span type="ruby"><span type="rb">炭山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>が袖を<span type="ruby"><span type="rb">上膊</span><span type="rp">（</span><span type="rt">じょうはく</span><span type="rp">）</span></span>のところまで、まくり上げて、眼の前ですかして見るようにかざした。<lb />
+「長げえことねえんだ。――俺アずるけてサボるんでねえんだど」<lb />
+「それだら、そんだ」<lb />
+「…………」<lb />
+　その日、監督は<span type="ruby"><span type="rb">鶏冠</span><span type="rp">（</span><span type="rt">とさか</span><span type="rp">）</span></span>をピンと立てた<span type="ruby"><span type="rb">喧嘩鶏</span><span type="rp">（</span><span type="rt">けんかどり</span><span type="rp">）</span></span>のように、工場を廻って歩いていた。「どうした、どうした<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />」と怒鳴り散らした。がノロノロと仕事をしているのが一人、二人でなしに、あっちでも、こっちでも――<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほと</span><span type="rp">）</span></span>んど全部なので、ただイライラ歩き廻ることしか出来なかった。漁夫達も船員もそういう監督を見るのは始めてだった。上甲板で、網から外した蟹が無数に、ガサガサと歩く音がした。通りの悪い下水道のように、仕事がドンドンつまって行った。然し「監督の<span type="ruby"><span type="rb">棍棒</span><span type="rp">（</span><span type="rt">こんぼう</span><span type="rp">）</span></span>」が何の役にも立たない！<lb />
+　仕事が終ってから、煮しまった<span type="ruby"><span type="rb">手拭</span><span type="rp">（</span><span type="rt">てぬぐい</span><span type="rp">）</span></span>で首を拭きながら、皆ゾロゾロ「糞壺」に帰ってきた。顔を見合うと、思わず笑い出した。それが<span type="ruby"><span type="rb">何故</span><span type="rp">（</span><span type="rt">なぜ</span><span type="rp">）</span></span>か分らずに、おかしくて、おかしくて仕様がなかった。<lb />
+　それが船員の方にも移って行った。船員を漁夫とにらみ合わせて、仕事をさせ、いい加減に馬鹿をみせられていたことが分ると、彼等も時々「サボリ」出した。<lb />
+「昨日ウンと働き過ぎたから、今日はサボだど」<lb />
+　仕事の出しなに、誰かそう云うと、皆そうなった。然し「サボ」と云っても、ただ身体を楽に使うということでしかなかったが。<lb />
+　誰だって身体がおかしくなっていた。イザとなったら「仕方がない」やるさ。「殺されること」はどっち道同じことだ。そんな気が皆にあった。――ただ、もうたまらなかった。<lb />
+<lb />
+　　　　　　　　×　　　　　×　　　　　×<lb />
+<lb />
+「中積船だ！　中積船だ！」上甲板で叫んでいるのが、下まで聞えてきた。皆は思い思い「糞壺」の棚からボロ着のまま<span type="ruby"><span type="rb">跳</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ね下りた。<lb />
+　中積船は漁夫や船員を「女」よりも夢中にした。この船だけは塩ッ臭くない、――函館の匂いがしていた。何カ月も、何百日も踏みしめたことのない、あの動かない「土」の匂いがしていた。それに、中積船には日附の違った何通りもの手紙、シャツ、下着、雑誌などが送りとどけられていた。<lb />
+　彼等は荷物を蟹臭い節立った手で、<span type="ruby"><span type="rb">鷲</span><span type="rp">（</span><span type="rt">わし</span><span type="rp">）</span></span>づかみにすると、あわてたように「糞壺」にかけ下りた。そして棚に大きな<span type="ruby"><span type="rb">安坐</span><span type="rp">（</span><span type="rt">あぐら</span><span type="rp">）</span></span>をかいて、その安坐の中で荷物を解いた。色々のものが出る。――側から母親が<span rend="sesame_dot" rendition="em">もの</span>を云って書かせた、自分の子供のたどたどしい手紙や、手拭、歯磨、<span type="ruby"><span type="rb">楊子</span><span type="rp">（</span><span type="rt">ようじ</span><span type="rp">）</span></span>、チリ紙、着物、それ等の合せ目から、思いがけなく妻の手紙が、重さでキチンと平べったくなって、出てきた。彼等はその何処からでも、陸にある「<span type="ruby"><span type="rb">自家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>」の匂いをかぎ取ろうとした。乳臭い子供の匂いや、妻のムッとくる膚の<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いを探がした。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+………………………………<lb />
+<span rend="sesame_dot" rendition="em">おそそ</span>にかつれて困っている、<lb />
+三銭切手でとどくなら、<lb />
+<span rend="sesame_dot" rendition="em">おそそ</span>罐詰で送りたい――かッ！<lb />
+</span>
+<lb />
+　やけに大声で「ストトン節」をどなった。<lb />
+　何んにも送って来なかった船員や漁夫は、ズボンのポケットに棒のように腕をつッこんで、歩き廻っていた。<lb />
+「お前の居ない<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>に、男でも引ッ張り込んでるだんべよ」<lb />
+　皆にからかわれた。<lb />
+　薄暗い<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>に顔を向けて、皆ガヤガヤ騒いでいるのを<span rend="sesame_dot" rendition="em">よそ</span>に、何度も指を折り直して、考え込んでいるのがいた。――中積船で来た手紙で、子供の死んだ<span type="ruby"><span type="rb">報知</span><span type="rp">（</span><span type="rt">しらせ</span><span type="rp">）</span></span>を読んだのだった。二カ月も前に死んでいた子供の、それを知らずに「今まで」いた。手紙には無線を頼む金もなかったので、と書かれていた。漁夫が<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />　と思われる程、その男は何時までもムッつりしていた。<lb />
+　然し、それと丁度反対のがあった。ふやけた<span type="ruby"><span type="rb">蛸</span><span type="rp">（</span><span type="rt">たこ</span><span type="rp">）</span></span>の子のような赤子の写真が入っていたりした。<lb />
+「これがか<span facs="../../../gaiji/1-08/1-08-77.png" rend="gaiji" rendition="img" source="※(疑問符感嘆符、1-8-77)" />」と、<span type="ruby"><span type="rb">頓狂</span><span type="rp">（</span><span type="rt">とんきょう</span><span type="rp">）</span></span>な声で笑い出してしまう。<lb />
+　それから「どうだ、これが産れたんだとよ」と云ってワザワザ一人々々に、ニコニコしながら見せて歩いた。<lb />
+　荷物の中には何んでもないことで、然し妻でなかったら、やはり気付かないような細かい心配りの分るものが入っていた。そんな時は、急に誰でも、バタバタと心が「あやしく」騒ぎ立った。――そして、ただ、無性に帰りたかった。<lb />
+　中積船には、会社で派遣した活動写真隊が乗り込んできていた。出来上っただけの罐詰を中積船に移してしまった晩、船で活動写真を映すことになった。<lb />
+　平べったい鳥打ちを少し横めにかぶり、<span type="ruby"><span type="rb">蝶</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span>ネクタイをして、太いズボンをはいた、若い同じような<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>の男が二、三人トランクを重そうに持って、船へやってきた。<lb />
+「臭い、臭い！」<lb />
+　そう云いながら、上着を脱いで、口笛を吹きながら、幕をはったり、距離をはかって台を据えたりし始めた。漁夫達は、それ等の男から、何か「海で」ないもの――自分達のようなものでないもの、を感じ、それにひどく引きつけられた。船員や漁夫は何処か浮かれ気味で、彼等の<span type="ruby"><span type="rb">仕度</span><span type="rp">（</span><span type="rt">したく</span><span type="rp">）</span></span>に手伝った<lb />
+　一番年<span rend="sesame_dot" rendition="em">かさ</span>らしい下品に見える、太い金縁の眼鏡をかけた男が、少し離れた処に立って、首の汗を拭いていた。<lb />
+「弁士さん、そったら<span type="ruby"><span type="rb">処</span><span type="rp">（</span><span type="rt">とこ</span><span type="rp">）</span></span>さ立ってれば、足から<span type="ruby"><span type="rb">蚤</span><span type="rp">（</span><span type="rt">のみ</span><span type="rp">）</span></span>がハネ上って行きますよ！」<lb />
+　と、「ひやア――ッ！」焼けた鉄板でも踏んづけたようにハネ上った。<lb />
+　見ていた漁夫達がドッと笑った。<lb />
+「然しひどい所にいるんだな！」しゃがれた、ジャラジャラ声だった。それはやはり弁士だった。<lb />
+「知らないだろうけれども、この会社が<span type="ruby"><span type="rb">此処</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>へこうやって、やって来るために、<span type="ruby"><span type="rb">幾何</span><span type="rp">（</span><span type="rt">いくら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>けていると思う？　大したもんだ。六カ月に五百万円だよ。一年千万円だ。――口で千万円って云えば、それっ切りだけれども、大したもんだ。それに株主へ二割二分五厘なんて滅法界もない配当をする会社なんて、日本にだってそうないんだ。今度社長が代議士になるッて云うし、申分がないさ。――やはり、こんな風にしても<span rend="sesame_dot" rendition="em">ひどく</span>しなけア、あれだけ儲けられないんだろうな」<lb />
+　夜になった。<lb />
+「一万箱祝」を兼ねてやることになり、酒、<span type="ruby"><span type="rb">焼酎</span><span type="rp">（</span><span type="rt">しょうちゅう</span><span type="rp">）</span></span>、するめ、にしめ、バット、キャラメルが皆の間に配られた。<lb />
+「さ、<span type="ruby"><span type="rb">親父</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>のどこさ来い」<lb />
+　雑夫が、漁夫、船員の間に、引張り<span type="ruby"><span type="rb">凧</span><span type="rp">（</span><span type="rt">だこ</span><span type="rp">）</span></span>になった。「<span type="ruby"><span type="rb">安坐</span><span type="rp">（</span><span type="rt">あぐら</span><span type="rp">）</span></span>さ抱いて見せてやるからな」<lb />
+「危い、危い！　俺のどこさ来いてば」<lb />
+　それがガヤガヤしばらく続いた。<lb />
+　前列の方で四、五人が急に拍手した。皆も分らずに、それに続けて手をたたいた。監督が白い垂幕の前に出てきた。――腰をのばして、両手を後に廻わしながら、「諸君は」とか、「私は」とか、普段云ったことのない言葉を出したり、又<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>もの「日本男児」だとか、「国富」だとか云い出した。大部分は聞いていなかった。こめかみと<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>の骨を動かしながら、「するめ」を<span type="ruby"><span type="rb">咬</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>んでいた。<lb />
+「やめろ、やめろ！」後から怒鳴る。<lb />
+「お前えなんか、ひっこめ！　弁士がいるんだ、ちアんと」<lb />
+「六角棒の方が似合うぞ！」――皆ドッと笑った。口笛をピュウピュウ吹いて、ヤケに手をたたいた。<lb />
+　監督もまさか<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>では怒れず、顔を赤くして、何か云うと（皆が騒ぐので聞えなかった）引っ込んだ。そして活動写真が始まった。<lb />
+　最初「実写」だった。宮城、松島、江ノ島、京都……が、ガタピシャガタピシャと写って行った。時々切れた。急に写真が二、三枚ダブって、目まいでもしたように入り乱れたかと思うと、瞬間消えて、パッと白い幕になった。<lb />
+　それから西洋物と日本物をやった。どれも写真はキズが入っていて、ひどく「雨が降った」それに所々切れているのを接合させたらしく、人の動きがギクシャクした。――然しそんなことはどうでもよかった。皆はすっかり引き入れられていた。外国のいい身体をした女が出てくると、口笛を吹いたり、豚のように鼻をならした。弁士は怒ってしばらく説明しないこともあった。<lb />
+　西洋物はアメリカ映画で、「<span rend="sesame_dot" rendition="em">西部開発史</span>」を取扱ったものだった。――野蛮人の襲撃をうけたり、自然の暴虐に打ち<span type="ruby"><span type="rb">壊</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>されては、又立ち上り、<span type="ruby"><span type="rb">一間</span><span type="rp">（</span><span type="rt">いっけん</span><span type="rp">）</span></span>々々と鉄道をのばして行く。途中に、一夜作りの「町」が、まるで鉄道の結びコブのように出来る。そして鉄道が進む、その先きへ、先きへと町が出来て行った。――其処から起る色々な苦難が、一工夫と会社の重役の娘との「恋物語」ともつれ合って、表へ出たり、裏になったりして描かれていた。最後の場面で、弁士が声を張りあげた。<lb />
+「彼等幾多の犠牲的青年によって、遂に成功するに至った延々何百<span type="ruby"><span type="rb">哩</span><span type="rp">（</span><span type="rt">マイル</span><span type="rp">）</span></span>の鉄道は、長蛇の如く野を走り、山を貫き、昨日までの蛮地は、かくして国富と変ったのであります」<lb />
+　重役の娘と、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>の間にか紳士のようになった工夫が相抱くところで幕だった。<lb />
+　間に、意味なくゲラゲラ笑わせる、短い西洋物が一本はさまった。<lb />
+　日本の方は、貧乏な一人の少年が「納豆売り」「夕刊売り」などから「靴磨き」をやり、工場に入り、模範職工になり、取り立てられて、一大富豪になる映画だった。――弁士は<span type="ruby"><span type="rb">字幕</span><span type="rp">（</span><span type="rt">タイトル</span><span type="rp">）</span></span>にはなかったが、「げに勤勉こそ成功の母ならずして、何んぞや！」と云った。<lb />
+　それには雑夫達の「真剣な」拍手が起った。然し漁夫か船員のうちで、<lb />
+「<span type="ruby"><span type="rb">嘘</span><span type="rp">（</span><span type="rt">うそ</span><span type="rp">）</span></span>こけ！　そんだったら、俺なんて<span rend="sesame_dot" rendition="em">社長</span>になってねかならないべよ」<lb />
+　と大声を出したものがいた。<lb />
+　それで皆は大笑いに笑ってしまった。<lb />
+　後で弁士が、「ああいう処へは、ウンと力を入れて、繰りかえし、繰りかえし云って貰いたいって、会社から<span rend="sesame_dot" rendition="em">命令されて</span>来たんだ」と云った。<lb />
+　最後は、会社の、各所属工場や、事務所などを写したものだった。「勤勉」に働いている沢山の労働者が写っていた。<lb />
+　写真が終ってから、皆は一万箱祝いの酒で酔払った。<lb />
+　長い間口にしなかったのと、疲労し過ぎていたので、ベロベロに参って<span type="ruby"><span type="rb">了</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>った。薄暗い電気の下に、煙草の煙が雲のようにこめていた。空気がムレて、ドロドロに腐っていた。<span type="ruby"><span type="rb">肌脱</span><span type="rp">（</span><span type="rt">はだぬ</span><span type="rp">）</span></span>ぎになったり、鉢巻をしたり、大きく安坐をかいて、尻をすっかりまくり上げたり、大声で色々なことを怒鳴り合った。――時々なぐり合いの<span type="ruby"><span type="rb">喧嘩</span><span type="rp">（</span><span type="rt">けんか</span><span type="rp">）</span></span>が起った。<lb />
+　それが十二時過ぎまで続いた。<lb />
+　<span type="ruby"><span type="rb">脚気</span><span type="rp">（</span><span type="rt">かっけ</span><span type="rp">）</span></span>で、何時も寝ていた函館の漁夫が、枕を少し高くして貰って、皆の騒ぐのを見ていた。同じ処から来ている友達の漁夫は、側の柱に寄りかかりながら、歯にはさまった<span rend="sesame_dot" rendition="em">するめ</span>を、マッチの軸で「シイ」「シイ」音をさせて<span rend="sesame_dot" rendition="em">せせ</span>っていた。<lb />
+　余程過ぎてからだった。――「糞壺」の階段を南京袋のように漁夫が転がって来た。着物と右手がすっかり血まみれになっていた。<lb />
+「出刃、出刃！　出刃を取ってくれ！」土間を<span type="ruby"><span type="rb">匐</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>いながら、叫んでいる。「浅川の野郎、何処へ行きゃがった。居ねえんだ。殺してやるんだ」<lb />
+　監督のためになぐられたことのある漁夫だった。――その男はストーヴのデレッキを持って、眼の色をかえて、又出て行った。誰もそれをとめなかった。<lb />
+「な！」函館の漁夫は友達を見上げた。「漁夫だって、何時も木の根ッこみたいな馬鹿でねえんだな。面白くなるど！」<lb />
+　次の朝になって、監督の<span type="ruby"><span type="rb">窓硝子</span><span type="rp">（</span><span type="rt">まどガラス</span><span type="rp">）</span></span>からテーブルの道具が、すっかり滅茶苦茶に<span type="ruby"><span type="rb">壊</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>されていたことが分った。監督だけは、何処にいたのか運良く「<span rend="sesame_dot" rendition="em">こわされて</span>」いなかった。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">六</span></span></span>
+<lb />
+　柔かい雨曇りだった。――前の日まで降っていた。それが上りかけた頃だった。曇った空と同じ色の雨が、これもやはり曇った空と同じ色の海に、時々<span type="ruby"><span type="rb">和</span><span type="rp">（</span><span type="rt">なご</span><span type="rp">）</span></span>やかな円るい波紋を落していた。<lb />
+　<span type="ruby"><span type="rb">午</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>過ぎ、駆逐艦がやって来た。手の空いた漁夫や雑夫や船員が、デッキの手すりに寄って、見とれながら、駆逐艦についてガヤガヤ話しあった。物めずらしかった。<lb />
+　駆逐艦からは、小さいボートが降ろされて、士官連が本船へやってきた。サイドに斜めに降ろされたタラップの、下のおどり場には船長、工場代表、監督、雑夫長が待っていた。ボートが横付けになると、お互に挙手の礼をして船長が先頭に上ってきた。監督が上をひょいと見ると、<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>と口隅をゆがめて、手を振って見せた。「何を見てるんだ。行ってろ、行ってろ！」<lb />
+「偉張んねえ、野郎！」――ゾロゾロデッキを後のものが前を順に押しながら、工場へ降りて行った。生ッ臭い匂いが、デッキにただよって、残った。<lb />
+「臭いね」綺麗な<span type="ruby"><span type="rb">口髭</span><span type="rp">（</span><span type="rt">くちひげ</span><span type="rp">）</span></span>の若い士官が、上品に顔をしかめた。<lb />
+　後からついてきた監督が、<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>てて前へ出ると、何か云って、頭を何度も下げた。<lb />
+　皆は遠くから飾りのついた短剣が、歩くたびに尻に当って、跳ね上がるのを見ていた。どれが、どれよりも偉いとか偉くないとか、それを本気で云い合った。しまいに喧嘩のようになった。<lb />
+「ああなると、浅川も見られたもんでないな」<lb />
+　監督のペコペコした<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">真似</span><span type="rp">（</span><span type="rt">まね</span><span type="rp">）</span></span>して見せた。皆はそれでドッと笑った。<lb />
+　その日、監督も雑夫長もいないので、皆は気楽に仕事をした。<span type="ruby"><span type="rb">唄</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>をうたったり、機械越しに<span type="ruby"><span type="rb">声高</span><span type="rp">（</span><span type="rt">こわだか</span><span type="rp">）</span></span>に話し合った。<lb />
+「こんな風に仕事をさせたら、どんなもんだべな」<lb />
+　皆が仕事を終えて、上甲板に上ってきた。サロンの前を通ると、中から酔払って、無遠慮に大声で<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">わめ</span><span type="rp">）</span></span>き散らしているのが聞えた。<lb />
+　<span type="ruby"><span type="rb">給仕</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>が出てきた。サロンの中は煙草の煙でムンムンしていた。<lb />
+　給仕の上気した顔には、汗が一つ一つ粒になって出ていた。両手に空のビール<span type="ruby"><span type="rb">瓶</span><span type="rp">（</span><span type="rt">びん</span><span type="rp">）</span></span>を一杯もっていた。<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>で、ズボンのポケットを知らせて、<lb />
+「顔を頼む」と云った。<lb />
+　漁夫がハンカチを出してふいてやりながら、サロンを見て、「何してるんだ？」ときいた。<lb />
+「イヤ、大変さ。ガブガブ飲みながら、何を話してるかって云えば――女のアレがどうしたとか、こうしたとかよ。お蔭で百回も走らせられるんだ。農林省の役人が来れば来たでタラップからタタキ落ちる程酔払うしな！」<lb />
+「何しに来るんだべ？」<lb />
+　給仕は、分らんさ、という顔をして、急いでコック場に走って行った。<lb />
+　<span type="ruby"><span type="rb">箸</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>では食いづらいボロボロな南京米に、紙ッ切れのような、実が浮んでいる塩ッぽい味噌汁で、漁夫等が飯を食った。<lb />
+「食ったことも、見たことも無えん洋食が、サロンさ何んぼも行ったな」<lb />
+「糞喰え――だ」<lb />
+　テーブルの側の壁には、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+一、飯のことで文句を云うものは、偉い人間になれぬ。<lb />
+一、一粒の米を大切にせよ。血と汗の<span type="ruby"><span type="rb">賜物</span><span type="rp">（</span><span type="rt">たまもの</span><span type="rp">）</span></span>なり。<lb />
+一、不自由と苦しさに耐えよ。<lb />
+</span>
+<lb />
+　振仮名がついた下手な字で、ビラが<span type="ruby"><span type="rb">貼</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>らさっていた。下の余白には、共同便所の中にあるような<span type="ruby"><span type="rb">猥褻</span><span type="rp">（</span><span type="rt">わいせつ</span><span type="rp">）</span></span>な落書がされていた。<lb />
+　飯が終ると、寝るまでの一寸の間、ストーヴを囲んだ。――駆逐艦のことから、兵隊の話が出た。漁夫には秋田、青森、岩手の<span rend="sesame_dot" rendition="em">百姓</span>が多かった。それで兵隊のことになると、訳が分らず、夢中になった。兵隊に行ってきたものが多かった。彼等は、今では、その当時の残虐に充ちた兵隊の生活をかえって<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">なつか</span><span type="rp">）</span></span>しいものに、色々<span type="ruby"><span type="rb">想</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>い出していた。<lb />
+　皆寝てしまうと、急に、サロンで騒いでいる音が、デッキの板や、サイドを伝って、此処まで聞えてきた。ひょいと眼をさますと、「まだやっている」のが耳に入った。――もう夜が明けるんではないか。誰か――給仕かも知れない、甲板を行ったり、来たりしている靴の<span type="ruby"><span type="rb">踵</span><span type="rp">（</span><span type="rt">かかと</span><span type="rp">）</span></span>のコツ、コツという音がしていた。実際、そして、騒ぎは夜明けまで続いた。<lb />
+　士官連はそれでも駆逐艦に帰って行ったらしく、タラップは降ろされたままになっていた。そして、その段々に飯粒や蟹の肉や茶色のドロドロしたものが、ゴジャゴジャになった<span type="ruby"><span type="rb">嘔吐</span><span type="rp">（</span><span type="rt">へど</span><span type="rp">）</span></span>が、五、六段続いて、かかっていた。嘔吐からは腐ったアルコールの<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いが強く、鼻にプーンときた。胸が思わずカアーッとくる匂いだった。<lb />
+　駆逐艦は翼をおさめた灰色の水鳥のように、見えない程に身体をゆすって、浮かんでいた。それは身体全体が「眠り」を<span type="ruby"><span type="rb">貪</span><span type="rp">（</span><span type="rt">むさぼ</span><span type="rp">）</span></span>っているように見えた。煙筒からは煙草の煙よりも細い煙が風のない空に、毛糸のように上っていた。<lb />
+　監督や雑夫長などは昼になっても起きて来なかった。<lb />
+「勝手な畜生だ！」仕事をしながら、ブツブツ云った。<lb />
+　コック部屋の<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>には、粗末に食い散らされた空の蟹罐詰やビール瓶が山積みに積まさっていた。朝になると、それを運んで歩いたボーイ自身でさえ、よくこんなに飲んだり、食ったりしたもんだ、と<span type="ruby"><span type="rb">吃驚</span><span type="rp">（</span><span type="rt">びっくり</span><span type="rp">）</span></span>した。<lb />
+　給仕は仕事の関係で、漁夫や船員などが、とても<span type="ruby"><span type="rb">窺</span><span type="rp">（</span><span type="rt">うかが</span><span type="rp">）</span></span>い知ることの出来ない船長や監督、工場代表などの<span rend="sesame_dot" rendition="em">ムキ</span>出しの生活をよく知っていた。と同時に、漁夫達の<span type="ruby"><span type="rb">惨</span><span type="rp">（</span><span type="rt">みじ</span><span type="rp">）</span></span>めな生活（監督は酔うと、漁夫達を「<span type="ruby"><span type="rb">豚奴</span><span type="rp">（</span><span type="rt">ぶため</span><span type="rp">）</span></span>々々」と云っていた）も、ハッキリ対比されて知っている。<span rend="sesame_dot" rendition="em">公平に云って</span>、上の人間は<span rend="sesame_dot" rendition="em">ゴウマン</span>で、恐ろしいことを<span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>けのために「平気」で<span type="ruby"><span type="rb">謀</span><span type="rp">（</span><span type="rt">たくら</span><span type="rp">）</span></span>んだ。漁夫や船員はそれに<span rend="sesame_dot" rendition="em">ウマウマ</span>落ち込んで行った。――それは見ていられなかった。<lb />
+　何も知らないうちはいい、給仕は何時もそう考えていた。彼は、当然どういうことが起るか――起らないではいないか、それが自分で分るように思っていた。<lb />
+　二時頃だった。船長や監督等は、下手に畳んでおいたために出来たらしい、色々な折目のついた服を着て、罐詰を船員二人に持たして、発動機船で駆逐艦に出掛けて行った。甲板で蟹外しをしていた漁夫や雑夫が、手を休めずに「嫁行列」でも見るように、それを見ていた。<lb />
+「何やるんだか、分ったもんでねえな」<lb />
+「俺達の作った罐詰ば、まるで糞紙よりも粗末にしやがる！」<lb />
+「然しな……」中年を過ぎかけている、左手の指が三本よりない漁夫だった。「こんな処まで来て、ワザワザ俺達ば守っててけるんだもの、ええさ――な」<lb />
+　――その夕方、駆逐艦が、知らないうちにムクムクと煙突から煙を出し初めた。デッキを急がしく水兵が行ったり来たりし出した。そして、それから三十分程して動き出した。艦尾の旗がハタハタと風にはためく音が聞えた。蟹工船では、船長の発声で、「万歳」を叫んだ。<lb />
+　夕飯が終ってから、「糞壺」へ給仕がおりてきた。皆はストーヴの周囲で話していた。薄暗い電燈の下に立って行って、シャツから虱を取っているのもいた。電燈を横切る<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>に、大きな影がペンキを塗った、<span type="ruby"><span type="rb">煤</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>けたサイドに斜めにうつった。<lb />
+「士官や船長や監督の話だけれどもな、今度ロシアの領地へこっそり潜入して漁をするそうだど。それで駆逐艦がしっきりなしに、側にいて<span rend="sesame_dot" rendition="em">番</span>をしてくれるそうだ――大部、<span rend="sesame_dot" rendition="em">コレ</span>やってるらしいな。（拇指と人差指で円るくしてみせた）<lb />
+「皆の話を聞いていると、金がそのままゴロゴロ<span type="ruby"><span type="rb">転</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>がっているようなカムサツカや北樺太など、この辺一帯を、行く行くはどうしても日本のものにするそうだ。日本の<span rend="sesame_dot" rendition="em">アレ</span>は支那や満洲ばかりでなしに、こっちの方面も大切だって云うんだ。それにはここの会社が三菱などと一緒になって、政府をウマクつッついているらしい。今度社長が代議士になれば、もっとそれをドンドンやるようだど。<lb />
+「それでさ、駆逐艦が蟹工船の警備に出動すると云ったところで、どうしてどうして、そればかりの目的でなくて、この辺の海、北樺太、千島の附近まで詳細に測量したり気候を調べたりするのが、かえって大目的で、万一の<span rend="sesame_dot" rendition="em">アレ</span>に手ぬかりなくする訳だな。これア秘密だろうと思うんだが、千島の一番端の島に、コッソリ大砲を運んだり、重油を運んだりしているそうだ。<lb />
+「俺初めて聞いて<span type="ruby"><span type="rb">吃驚</span><span type="rp">（</span><span type="rt">びっくり</span><span type="rp">）</span></span>したんだけれどもな、今までの日本のどの戦争でも、本当は――底の底を割ってみれば、みんな二人か三人の金持の（そのかわり大金持の）指図で、<span type="ruby"><span type="rb">動機</span><span type="rp">（</span><span type="rt">きっかけ</span><span type="rp">）</span></span>だけは色々にこじつけて起したもんだとよ。何んしろ<span rend="sesame_dot" rendition="em">見込のある場所</span>を手に入れたくて、手に入れたくてパタパタしてるんだそうだからな、そいつ等は。――危いそうだ」<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">七</span></span></span>
+<lb />
+　ウインチがガラガラとなって、川崎船が下がってきた。丁度その下に漁夫が四人程居て、ウインチの腕が短いので、下りてくる川崎船をデッキの外側に押してやって、海までそれが下りれるようにしてやっていた。――よく危いことがあった。ボロ船のウインチは、<span type="ruby"><span type="rb">脚気</span><span type="rp">（</span><span type="rt">かっけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>のようにギクシャクとしていた。ワイヤーを巻いている歯車の工合で、グイと片方のワイヤーだけが<span type="ruby"><span type="rb">跛</span><span type="rp">（</span><span type="rt">びっこ</span><span type="rp">）</span></span>にのびる。川崎船が<span type="ruby"><span type="rb">燻製鰊</span><span type="rp">（</span><span type="rt">くんせいにしん</span><span type="rp">）</span></span>のように、すっかり斜めにブラ下がってしまうことがある。その時、不意を<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>らって、下にいた漁夫がよく<span type="ruby"><span type="rb">怪我</span><span type="rp">（</span><span type="rt">けが</span><span type="rp">）</span></span>をした。――その朝それがあった。「あッ、危い！」誰か叫んだ。真上からタタキのめされて、下の漁夫の首が胸の中に、<span type="ruby"><span type="rb">杭</span><span type="rp">（</span><span type="rt">くい</span><span type="rp">）</span></span>のように入り込んでしまった。<lb />
+　漁夫達は船医のところへ<span type="ruby"><span type="rb">抱</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>えこんだ。彼等のうちで、今ではハッキリ監督などに対して「畜生！」と思っている者等は、医者に「診断書」を書いて貰うように頼むことにした。監督は蛇に人間の皮をきせたような奴だから、何んとかキット難くせを「ぬかす」に違いなかった。その時の抗議のために診断書は必要だった。それに船医は割合漁夫や船員に同情を持っていた。<lb />
+「この船は<span rend="sesame_dot" rendition="em">仕事</span>をして怪我をしたり、病気になったりするよりも、ひッぱたかれたり、たたきのめされたりして怪我したり、病気したりする方が、ずウッと多いんだからねえ」と驚いていた。一々日記につけて、後の証拠にしなければならない、と云っていた。それで、病気や怪我をした漁夫や船員などを割合に親切に見てくれていた。<lb />
+　診断書を作って貰いたいんですけれどもと、一人が切り出した。<lb />
+　初め、吃驚したようだった。<lb />
+「さあ、診断書はねえ……」<lb />
+「この通りに書いて下さればいいんですが」<lb />
+　はがゆかった。<lb />
+「この船では、それを書かせないことになってるんだよ。勝手にそう決めたらしいんだが。……<span rend="sesame_dot" rendition="em">後々のこと</span>があるんでね」<lb />
+　気の短い、<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りの漁夫が「チェッ！」と舌打ちをしてしまった。<lb />
+「この前、浅川君になぐられて、耳が聞えなくなった漁夫が来たので、何気なく診断書を書いてやったら、飛んでもないことになってしまってね。――それが何時までも証拠になるんで、浅川君にしちゃね……」<lb />
+　彼等は船医の室を出ながら、船医もやはり其処まで行くと、もう「俺達」の味方でなかったことを考えていた。<lb />
+　その漁夫は、<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>し「不思議に」どうにか生命を取りとめることが出来た。その代り、日中でもよく何かにつまずいて、のめる程暗い<span type="ruby"><span type="rb">隅</span><span type="rp">（</span><span type="rt">すみ</span><span type="rp">）</span></span>に転がったまま、その漁夫がうなっているのを、何日も何日も聞かされた。<lb />
+　彼が直りかけて、うめき声が皆を苦しめなくなった頃、前から寝たきりになっていた脚気の漁夫が死んでしまった。――二十七だった。東京、<span type="ruby"><span type="rb">日暮里</span><span type="rp">（</span><span type="rt">にっぽり</span><span type="rp">）</span></span>の周施屋から来たもので、一緒の仲間が十人程いた。然し、監督は次の日の仕事に差支えると云うので、仕事に出ていない「病気のものだけ」で、「お通夜」をさせることにした。<lb />
+　<span type="ruby"><span type="rb">湯灌</span><span type="rp">（</span><span type="rt">ゆかん</span><span type="rp">）</span></span>をしてやるために、着物を解いてやると、身体からは、胸がムカーッとする臭気がきた。そして無気味な真白い、平べったい<span type="ruby"><span type="rb">虱</span><span type="rp">（</span><span type="rt">しらみ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>ててゾロゾロと走り出した。<span type="ruby"><span type="rb">鱗形</span><span type="rp">（</span><span type="rt">うろこがた</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">垢</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>のついた身体全体は、まるで松の幹が転がっているようだった。胸は、<span type="ruby"><span type="rb">肋骨</span><span type="rp">（</span><span type="rt">ろっこつ</span><span type="rp">）</span></span>が一つ一つムキ出しに出ていた。脚気がひどくなってから、自由に歩けなかったので、小便などはその場でもらしたらしく、一面ひどい臭気だった。<span type="ruby"><span type="rb">褌</span><span type="rp">（</span><span type="rt">ふんどし</span><span type="rp">）</span></span>もシャツも<span type="ruby"><span type="rb">赭黒</span><span type="rp">（</span><span type="rt">あかぐろ</span><span type="rp">）</span></span>く色が変って、つまみ上げると、硫酸でもかけたように、ボロボロにくずれそうだった。<span type="ruby"><span type="rb">臍</span><span type="rp">（</span><span type="rt">へそ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">窪</span><span type="rp">（</span><span type="rt">くぼ</span><span type="rp">）</span></span>みには、垢とゴミが一杯につまって、臍は見えなかった。肛門の<span type="ruby"><span type="rb">周</span><span type="rp">（</span><span type="rt">まわ</span><span type="rp">）</span></span>りには、糞がすっかり乾いて、粘土のようにこびりついていた。<lb />
+「カムサツカでは死にたくない」――彼は死ぬときそう云ったそうだった。然し、今彼が命を落すというとき、側にキット誰も<span type="ruby"><span type="rb">看</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>てやった者がいなかったかも知れない。そのカムサツカでは誰だって死にきれないだろう。漁夫達はその時の彼の気持を考え、中には声をあげて泣いたものがいた。<lb />
+　湯灌に使うお湯を貰いにゆくと、コックが、「可哀相にな」と云った。「沢山持って行ってくれ。随分、身体が汚れてるべよ」<lb />
+　お湯を持ってくる途中、監督に会った。<lb />
+「何処へゆくんだ」<lb />
+「湯灌だよ」<lb />
+　と云うと、<lb />
+「<span rend="sesame_dot" rendition="em">ぜいたく</span>に使うな」まだ何か云いたげにして通って行った。<lb />
+　帰ってきたとき、その漁夫は、「あの時位、いきなり後ろから<span type="ruby"><span type="rb">彼奴</span><span type="rp">（</span><span type="rt">あいつ</span><span type="rp">）</span></span>の頭に、お湯をブッかけてやりたくなった時はなかった！」と云った。興奮して、身体をブルブル<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>わせた。<lb />
+　監督はしつこく廻ってきては、皆の様子を見て行った。――然し、皆は明日<span type="ruby"><span type="rb">居睡</span><span type="rp">（</span><span type="rt">いねむ</span><span type="rp">）</span></span>りをしても、のめりながら仕事をしても――例の「サボ」をやっても、<span rend="sesame_dot" rendition="em">皆で</span>「お通夜」をしようということにした。そう決った。<lb />
+　八時頃になって、ようやく一通りの用意が出来、線香や<span type="ruby"><span type="rb">蝋燭</span><span type="rp">（</span><span type="rt">ろうそく</span><span type="rp">）</span></span>をつけて、皆がその前に坐った。監督はとうとう来なかった。船長と船医が、それでも一時間位坐っていた。片言のように――切れ切れに、お経の文句を覚えていた漁夫が「それでいい、心が通じる」そう皆に云われて、お経をあげることになった。お経の間、シーンとしていた。誰か鼻をすすり上げている。終りに近くなるとそれが何人もに殖えて行った。<lb />
+　お経が終ると、一人々々焼香をした。それから坐を崩して、各々一かたまり、一かたまりになった。仲間の死んだことから、生きている――然し、よく考えてみればまるで危く生きている自分達のことに、それ等の話がなった。船長と船医が帰ってから、<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りの漁夫が線香とローソクの立っている死体の側のテーブルに出て行った。<lb />
+「俺はお経は知らない。お経をあげて山田君の霊を慰めてやることは出来ない。然し僕はよく考えて、こう思うんです。山田君はどんなに死にたくなかったべか、とな。――イヤ、本当のことを云えば、どんなに<span rend="sesame_dot" rendition="em">殺されたくなかった</span>か、と。確に山田君は殺されたのです」<lb />
+　聞いている者達は、抑えられたように静かになった。<lb />
+「では、誰が殺したか？　――云わなくたって分っているべよ！　僕はお経でもって、山田君の霊を慰めてやることは出来ない。然し<span rend="sesame_dot" rendition="em">僕等</span>は、山田君を殺したものの<span type="ruby"><span type="rb">仇</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>をとることによって、とることによって、山田君を慰めてやることが出来るのだ。――この事を、今こそ、山田君の霊に僕等は誓わなければならないと思う……」<lb />
+　船員達だった、一番先きに「そうだ」と云ったのは。<lb />
+　蟹の生ッ臭いにおいと人いきれのする「糞壺」の中に線香のかおりが、香水か何かのように、ただよった。九時になると、雑夫が帰って行った。疲れているので、居睡りをしているものは、石の入った俵のように、なかなか起き上らなかった。一寸すると、漁夫達も一人、二人と眠り込んでしまった。――波が出てきた。船が揺れる<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>に、ローソクの灯が消えそうに細くなり、又それが明るくなったりした。死体の顔の上にかけてある白木綿が<span type="ruby"><span type="rb">除</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>れそうに動いた。ずった。そこだけを見ていると、ゾッとする不気味さを感じた。――サイドに、波が鳴り出した。<lb />
+　次の朝、八時過ぎまで一仕事をしてから、監督のきめた船員と漁夫だけ四人下へ降りて行った。お経を前の晩の漁夫に読んでもらってから、四人の外に、病気のもの三、四人で、麻袋に死体をつめた。麻袋は新しいものは沢山あったが、監督は、<span rend="sesame_dot" rendition="em">直ぐ</span>海に投げるものに新らしいものを使うなんて<span rend="sesame_dot" rendition="em">ぜいたく</span>だ、と云ってきかなかった。線香はもう船には用意がなかった。<lb />
+「可哀相なもんだ。――これじゃ本当に死にたくなかったべよ」<lb />
+　なかなか曲らない腕を組合せながら、涙を麻袋の中に落した。<lb />
+「駄目々々。涙をかけると……」<lb />
+「何んとかして、函館まで持って帰られないものかな。……こら、顔をみれ、カムサツカの<span rend="sesame_dot" rendition="em">しやっこい</span>水さ入りたくねえッて云ってるんでないか。――海さ投げられるなんて、頼りねえな……」<lb />
+「同じ海でもカムサツカだ。冬になれば――九月過ぎれば、船一<span type="ruby"><span type="rb">艘</span><span type="rp">（</span><span type="rt">そう</span><span type="rp">）</span></span>も居なくなって、凍ってしまう海だで。北の北の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>れの！」<lb />
+「ん、ん」――泣いていた。「それによ、こうやって袋に入れるッて云うのに、たった六、七人でな。三、四百人もいるのによ！」<lb />
+「俺達、死んでからも、<span type="ruby"><span type="rb">碌</span><span type="rp">（</span><span type="rt">ろく</span><span type="rp">）</span></span>な目に合わないんだ……」<lb />
+　皆は半日でいいから休みにしてくれるように頼んだが、前の日から蟹の大漁で、許されなかった。「私事と公事を混同するな」監督にそう云われた。<lb />
+　監督が「糞壺」の天井から顔だけ出して、<lb />
+「もういいか」ときいた。<lb />
+　仕方がなく彼等は「いい」と云った。<lb />
+「じゃ、運ぶんだ」<lb />
+「んでも、船長さんがその前に<span type="ruby"><span type="rb">弔詞</span><span type="rp">（</span><span type="rt">ちょうじ</span><span type="rp">）</span></span>を読んでくれることになってるんだよ」<lb />
+「船長オ？　弔詞イ？　――」<span type="ruby"><span type="rb">嘲</span><span type="rp">（</span><span type="rt">あざ</span><span type="rp">）</span></span>けるように、「馬鹿！　そんな<span type="ruby"><span type="rb">悠長</span><span type="rp">（</span><span type="rt">ゆうちょう</span><span type="rp">）</span></span>なことしてれるか」<lb />
+　悠長なことはしていられなかった。蟹が甲板に山積みになって、ゴソゴソ爪で床をならしていた。<lb />
+　そして、どんどん運び出されて、<span type="ruby"><span type="rb">鮭</span><span type="rp">（</span><span type="rt">さけ</span><span type="rp">）</span></span>か<span type="ruby"><span type="rb">鱒</span><span type="rp">（</span><span type="rt">ます</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">菰包</span><span type="rp">（</span><span type="rt">こもづつ</span><span type="rp">）</span></span>みのように無雑作に、船尾につけてある発動機に積み込まれた。<lb />
+「いいか――？」<lb />
+「よオ――し……」<lb />
+　発動機がバタバタ動き出した。船尾で水が<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>き廻されて、アブクが立った。<lb />
+「じゃ……」<lb />
+「じゃ」<lb />
+「左様なら」<lb />
+「<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>しいけどな――我慢してな」低い声で云っている。<lb />
+「じゃ、頼んだど！」<lb />
+　本船から、発動機に乗ったものに頼んだ。<lb />
+「ん、ん、分った」<lb />
+　発動機は沖の方へ離れて行った。<lb />
+「じゃ、な！……」<lb />
+「行ってしまった。」<lb />
+「麻袋の中で、行くのはイヤだ、イヤだってしてるようでな……眼に見えるようだ」<lb />
+　――漁夫が漁から帰ってきた。そして監督の「勝手な」処置をきいた。それを聞くと、怒る前に、自分が――<span type="ruby"><span type="rb">屍体</span><span type="rp">（</span><span type="rt">したい</span><span type="rp">）</span></span>になった自分の身体が、底の暗いカムサツカの海に、そういうように<span type="ruby"><span type="rb">蹴落</span><span type="rp">（</span><span type="rt">けおと</span><span type="rp">）</span></span>されでもしたように、ゾッとした。皆は<span rend="sesame_dot" rendition="em">もの</span>も云えず、そのままゾロゾロタラップを下りて行った。「分った、分った」口の中でブツブツ云いながら、<span rend="sesame_dot" rendition="em">塩ぬれ</span>のドッたりした<span type="ruby"><span type="rb">袢天</span><span type="rp">（</span><span type="rt">はんてん</span><span type="rp">）</span></span>を脱いだ。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">八</span></span></span>
+<lb />
+　表には何も出さない。気付かれないように手をゆるめて行く。監督がどんなに思いッ切り怒鳴り散らしても、タタキつけて歩いても、口答えもせず「おとなしく」している。それを一日置きに繰りかえす。（初めは、おっかなびっくり、おっかなびっくりでしていたが）――そういうようにして、「サボ」を続けた。水葬のことがあってから、モットその足並が<span type="ruby"><span type="rb">揃</span><span type="rp">（</span><span type="rt">そろ</span><span type="rp">）</span></span>ってきた<lb />
+　仕事の高は眼の前で減って行った。<lb />
+　中年過ぎた漁夫は、働かされると、一番それが身にこたえるのに、「サボ」にはイヤな顔を見せた。然し内心（！）心配していたことが起らずに、<span rend="sesame_dot" rendition="em">不思議でならなかったが</span>、かえって「サボ」が<span type="ruby"><span type="rb">効</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>いてゆくのを見ると、若い漁夫達の云うように、動きかけてきた。<lb />
+　困ったのは、川崎の船頭だった。彼等は川崎のことでは全責任があり、監督と平漁夫の間に居り、「漁獲高」のことでは、すぐに監督に当って来られた。それで何よりつらかった。結局三分の一だけ「仕方なしに」漁夫の味方をして、後の三分の二は監督の小さい「出店」――その小さい「○」だった。<lb />
+「それア疲れるさ。工場のようにキチン、キチンと仕事がきまってるわけには行かないんだ。相手は生き物だ。蟹が人間様に都合よく、時間々々に出てきてはくれないしな。仕方がないんだ」――そっくり監督の蓄音機だった。<lb />
+　こんなことがあった。――糞壺で、寝る前に、何かの話が思いがけなく色々の方へ移って行った。その時ひょいと、船頭が威張ったことを云ってしまった。それは別に威張ったことではないが、「平」漁夫にはムッときた。相手の平漁夫が、そして、少し酔っていた。<lb />
+「何んだって？」いきなり怒鳴った。「<span type="ruby"><span type="rb">手前</span><span type="rp">（</span><span type="rt">てめ</span><span type="rp">）</span></span>え、何んだ。あまり威張ったことを云わねえ方がええんだで。漁に出たとき、俺達四、五人でお前えを海の中さタタキ落す位朝飯前だんだ。――それッ切りだべよ。カムサツカだど。お前えがどうやって死んだって、誰が分るッて！」<lb />
+　そうは云ったものはいない。それをガラガラな大声でどなり立ててしまった。誰も何も云わない。今まで話していた外のことも、そこでプッつり切れてしまった。<lb />
+　<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>し、こういうようなことは、調子よく<span type="ruby"><span type="rb">跳</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ね上った<span type="ruby"><span type="rb">空元気</span><span type="rp">（</span><span type="rt">からげんき</span><span type="rp">）</span></span>だけの言葉ではなかった。それは今まで「屈従」しか知らなかった漁夫を、全く思いがけずに背から、とてつもない力で突きのめした。突きのめされて、漁夫は初め戸惑いしたようにウロウロした。それが知られずにいた<span rend="sesame_dot" rendition="em">自分の力</span>だ、ということを知らずに。<lb />
+　――そんなことが「<span rend="sesame_dot" rendition="em">俺達に</span>」出来るんだろうか？　然し成る程出来るんだ。<lb />
+　そう分ると、今度は不思議な魅力になって、反抗的な気持が皆の心に喰い込んで行った。今まで、<span rend="sesame_dot" rendition="em">残酷極まる労働</span>で<span type="ruby"><span type="rb">搾</span><span type="rp">（</span><span type="rt">しぼ</span><span type="rp">）</span></span>り抜かれていた事が、かえってその為にはこの上ない良い地盤だった。――こうなれば、監督も糞もあったものでない！　皆愉快がった。一旦この気持をつかむと、不意に、懐中電燈を差しつけられたように、自分達の<span type="ruby"><span type="rb">蛆虫</span><span type="rp">（</span><span type="rt">うじむし</span><span type="rp">）</span></span>そのままの生活がアリアリと見えてきた。<lb />
+「威張んな、この野郎」この言葉が皆の間で<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>り出した。何かすると「威張んな、この野郎」と云った。別なことにでも、すぐそれを使った。――威張る野郎は、然し漁夫には一人もいなかった。<lb />
+　それと似たことが一度、二度となくある。その<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>毎に漁夫達は「分って」行った。そして、それが重なってゆくうちに、そんな事で漁夫達の中から<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>でも表の方へ押し出されてくる、きまった三、四人が出来てきた。それは誰かが決めたのでなく、本当は又、きまったのでもなかった。ただ、何か起ったり又しなければならなくなったりすると、その三、四人の意見が皆のと一致したし、それで皆もその通り動くようになった。――学生上りが二人程、<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りの漁夫、「威張んな」の漁夫などがそれだった。<lb />
+　学生が鉛筆をなめ、なめ、一晩中腹<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>いになって、紙に何か書いていた。――それは学生の「発案」だった。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+　　　　　　発案（責任者の図）<lb />
+　　Ａ　　　　　　　Ｂ　　　　　　　　　Ｃ<lb />
+　　｜　　　　　　　｜　　　　　　　　　｜<lb />
+二人の学生　┐　┌雑夫の方一人　　国別にして、各々そのうちの餓鬼大将を一人ずつ<lb />
+　　　　　　│　│川崎船の方二人　各川崎船に二人ずつ<lb />
+吃りの漁夫　│　│水夫の方一人┐<lb />
+　　　　　　│　│　　　　　　│　水、火夫の諸君<lb />
+「威張んな」┘　└火夫の方一人┘<lb />
+　　　Ａ――――→Ｂ――――→Ｃ→┌全部の┐<lb />
+　　　　←――――　←――――　←└諸君　┘<lb />
+</span>
+<lb />
+　学生はどんなもんだいと云った。どんな事がＡから起ろうが、Ｃから起ろうが、電気より早く、ぬかりなく「全体の問題」にすることが出来る、と威張った。それが、そして一通り決められた。――実際は、それはそう<span type="ruby"><span type="rb">容易</span><span type="rp">（</span><span type="rt">たやす</span><span type="rp">）</span></span>くは行われなかったが。<lb />
+「<span rend="sesame_dot" rendition="em">殺されたくないものは来れ</span>！」　――その学生上りの得意の宣伝語だった。<span type="ruby"><span type="rb">毛利元就</span><span type="rp">（</span><span type="rt">もうりもとなり</span><span type="rp">）</span></span>の弓矢を折る話や、内務省かのポスターで見たことのある「綱引き」の例をもってきた。「俺達四、五人いれば、船頭の一人位海の中へタタキ落すなんか朝飯前だ。元気を出すんだ」<lb />
+「一人と一人じゃ駄目だ。危い。だが、あっちは船長から何からを皆んな入れて十人にならない。ところがこっちは四百人に近い。四百人が一緒になれば、もうこっちのものだ。十人に四百人！　相撲になるなら、やってみろ、だ」そして最後に「<span rend="sesame_dot" rendition="em">殺されたくないものは来れ</span>！」だった。――どんな「ボンクラ」でも「飲んだくれ」でも、自分達が半殺しにされるような生活をさせられていることは分っていたし、（現に、眼の前で殺されてしまった仲間のいることも分っている）それに、苦しまぎれにやったチョコチョコした「サボ」が案外効き目があったので学生上りや吃りのいうことも、よく聞き入れられた。<lb />
+　一週間程前の大嵐で、発動機船がスクリュウを<span type="ruby"><span type="rb">毀</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>してしまった。それで修繕のために、雑夫長が下船して、四、五人の漁夫と一緒に陸へ行った。帰ってきたとき、若い漁夫がコッソリ日本文字で印刷した「赤化宣伝」のパンフレットやビラを沢山持ってきた。「日本人が沢山こういうことをやっているよ」と云った。――自分達の賃銀や、労働時間の長さのことや、会社のゴッソリした<span type="ruby"><span type="rb">金儲</span><span type="rp">（</span><span type="rt">かねもう</span><span type="rp">）</span></span>けのことや、ストライキのことなどが書かれているので、皆は面白がって、お互に読んだり、ワケを聞き合ったりした。然し、中にはそれに書いてある文句に、かえって<span type="ruby"><span type="rb">反撥</span><span type="rp">（</span><span type="rt">はんぱつ</span><span type="rp">）</span></span>を感じて、こんな恐ろしいことなんか「日本人」に出来るか、というものがいた。<lb />
+　が、「俺アこれが本当だと思うんだが」と、ビラを持って学生上りのところへ<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>きに来た漁夫もいた。<lb />
+「本当だよ。少し話大きいどもな」<lb />
+「んだって、こうでもしなかったら、浅川の<span type="ruby"><span type="rb">性</span><span type="rp">（</span><span type="rt">しょ</span><span type="rp">）</span></span>ッ<span type="ruby"><span type="rb">骨</span><span type="rp">（</span><span type="rt">ぽね</span><span type="rp">）</span></span>直るかな」と笑った。「それに、<span type="ruby"><span type="rb">彼奴</span><span type="rp">（</span><span type="rt">あいつ</span><span type="rp">）</span></span>等からはモットひどいめに合わされてるから、これで当り前だべよ！」<lb />
+　漁夫達は、飛んでもないものだ、と云いながら、その「赤化運動」に好奇心を持ち出していた。<lb />
+　嵐の時もそうだが、霧が深くなると、川崎船を呼ぶために、本船では絶え間なしに汽笛を鳴らした。<span type="ruby"><span type="rb">巾</span><span type="rp">（</span><span type="rt">はば</span><span type="rp">）</span></span>広い、牛の<span type="ruby"><span type="rb">啼声</span><span type="rp">（</span><span type="rt">なきごえ</span><span type="rp">）</span></span>のような汽笛が、水のように濃くこめた霧の中を一時間も二時間もなった。――然しそれでも、うまく帰って来れない川崎船があった。ところが、そんな時、仕事の苦しさからワザと見当を失った振りをして、カムサツカに漂流したものがあった。秘密に時々あった。ロシアの領海内に入って、漁をするようになってから、<span type="ruby"><span type="rb">予</span><span type="rp">（</span><span type="rt">あらかじ</span><span type="rp">）</span></span>め陸に見当をつけて置くと、案外容易く、その漂流が出来た。その連中も「赤化」のことを聞いてくるものがあった。<lb />
+　――何時でも会社は漁夫を雇うのに細心の注意を払った。募集地の村長さんや、署長さんに頼んで「模範青年」を連れてくる。労働組合などに関心のない、云いなりになる労働者を選ぶ。「<span rend="sesame_dot" rendition="em">抜け目なく</span>」万事好都合に！　然し、蟹工船の「仕事」は、今では丁度<span rend="sesame_dot" rendition="em">逆に</span>、それ等の労働者を団結――組織させようとしていた。いくら「抜け目のない」資本家でも、この<span rend="sesame_dot" rendition="em">不思議な行方</span>までには気付いていなかった。それは、皮肉にも、未組織の労働者、手のつけられない「飲んだくれ」労働者をワザワザ集めて、団結することを教えてくれているようなものだった。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">九</span></span></span>
+<lb />
+　監督は<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>て出した。<lb />
+　漁期の過ぎてゆくその毎年の割に比べて、蟹の高はハッキリ減っていた。他の船の様子をきいてみても、昨年よりはもっと成績がいいらしかった。二千<span type="ruby"><span type="rb">函</span><span type="rp">（</span><span type="rt">ばこ</span><span type="rp">）</span></span>は遅れている。――監督は、これではもう今までのように「お<span type="ruby"><span type="rb">釈迦</span><span type="rp">（</span><span type="rt">しゃか</span><span type="rp">）</span></span>様」のようにしていたって駄目だ、と思った。<lb />
+　本船は移動することにした。監督は絶えず無線電信を盗みきかせ、他の船の網でもかまわずドンドン上げさせた。<span type="ruby"><span type="rb">二十浬</span><span type="rp">（</span><span type="rt">かいり</span><span type="rp">）</span></span>ほど南下して、最初に上げた渋網には、蟹がモリモリと網の目に足をひっかけて、かかっていた。たしかに××丸のものだった。<lb />
+「君のお陰だ」と、彼は監督らしくなく、局長の肩をたたいた。<lb />
+　網を上げているところを見付けられて、発動機が放々の<span type="ruby"><span type="rb">態</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>で逃げてくることもあった。他船の網を手当り次第に上げるようになって、仕事が尻上りに忙しくなった。<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<span rend="jizume_28" rendition="div" style="width: 28em">
+<span rend="keigakomi" rendition="div" style="border: solid 1px">
+仕事を少しでも<span type="ruby"><span type="rb">怠</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>けたと見るときには<span rend="sesame_dot" rendition="em">大焼き</span>を入れる。<lb />
+組をなして怠けたものには<span rend="sesame_dot" rendition="em">カムサツカ</span>体操をさせる。<lb />
+罰として賃銀棒引き、<lb />
+函館へ帰ったら、警察に引き渡す。<lb />
+いやしくも監督に対し、少しの反抗を示すときは<span rend="sesame_dot" rendition="em">銃殺</span>されるものと思うべし。<lb />
+　　　　　　　　　　　　　　　　　　　　　浅川監督<lb />
+　　　　　　　　　　　　　　　　　　　　　雑夫長<lb />
+</span>
+</span>
+</span>
+<lb />
+　この大きなビラが工場の降り口に<span type="ruby"><span type="rb">貼</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>られた。監督は弾をつめッ放しにしたピストルを始終持っていた。飛んでもない時に、皆の仕事をしている頭の上で、<span type="ruby"><span type="rb">鴎</span><span type="rp">（</span><span type="rt">かもめ</span><span type="rp">）</span></span>や船の<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かに見当をつけて、「示威運動」のように打った。ギョッとする漁夫を見て、ニヤニヤ笑った。それは全く何かの拍子に「本当」に打ち殺されそうな不気味な感じを皆にひらめかした。<lb />
+　水夫、火夫も完全に動員された。勝手に使いまわされた。船長はそれに対して一言も云えなかった。船長は「看板」になってさえいれば、それで立派な一役だった。前にあったことだった――領海内に入って漁をするために、船を入れるように船長が強要された。船長は船長としての<span rend="sesame_dot" rendition="em">公の立場から</span>、それを犯すことは出来ないと<span type="ruby"><span type="rb">頑張</span><span type="rp">（</span><span type="rt">がんば</span><span type="rp">）</span></span>った。<lb />
+「勝手にしやがれ！」「頼まないや！」と云って、監督等が自分達で、船を領海内に<span type="ruby"><span type="rb">転錨</span><span type="rp">（</span><span type="rt">てんびょう</span><span type="rp">）</span></span>さしてしまった。ところが、それが露国の監視船に見付けられて、追跡された。そして<span type="ruby"><span type="rb">訊問</span><span type="rp">（</span><span type="rt">じんもん</span><span type="rp">）</span></span>になり、自分がしどろもどろになると、「<span type="ruby"><span type="rb">卑怯</span><span type="rp">（</span><span type="rt">ひきょう</span><span type="rp">）</span></span>」にも退却してしまった。「そういう一切のことは、船としては<span type="ruby"><span type="rb">勿論</span><span type="rp">（</span><span type="rt">もちろん</span><span type="rp">）</span></span>船長がお答えすべきですから……」無理矢理に押しつけてしまった。全く、この看板は、だから必要だった。それだけでよかった。<lb />
+　そのことがあってから、船長は船を函館に帰そうと何辺も思った。が、それをそうさせない力が――資本家の力が、やっぱり船長をつかんでいた。<lb />
+「この船全体が会社のものなんだ、分ったか！」ウァハハハハハと、口を三角にゆがめて、背のびするように、無遠慮に大きく笑った。<lb />
+　――「糞壺」に帰ってくると、<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りの漁夫は仰向けに<span rend="sesame_dot" rendition="em">でんぐり</span>返った。残念で、残念で、たまらなかった。漁夫達は、彼や学生などの方を気の毒そうに見るが、何も云えない程ぐッしゃりつぶされてしまっていた。学生の作った組織も<span type="ruby"><span type="rb">反古</span><span type="rp">（</span><span type="rt">ほご</span><span type="rp">）</span></span>のように、役に立たなかった。――それでも学生は割合に元気を保っていた。<lb />
+「何かあったら跳ね起きるんだ。その代り、その<span rend="sesame_dot" rendition="em">何か</span>をうまくつかむことだ」と云った。<lb />
+「これでも跳ね起きられるかな」――威張んなの漁夫だった。<lb />
+「かな――？　馬鹿。こっちは人数が多いんだ。恐れることはないさ。それに彼奴等が無茶なことをすればする程、今のうちこそ内へ、内へとこもっているが、火薬よりも強い不平と不満が皆の心の中に、つまりにいいだけつまっているんだ。――俺はそいつを頼りにしているんだ」<lb />
+「道具立てはいいな」威張んなは「糞壺」の中をグルグル見廻して、<lb />
+「そんな奴等がいるかな。どれも、これも…………」<lb />
+　愚痴ッぽく云った。<lb />
+「<span rend="sesame_dot" rendition="em">俺達から</span>愚痴ッぽかったら――もう、最後だよ」<lb />
+「見れ、お前えだけだ、元気のええのア。――今度事件起こしてみれ、<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>がけだ」<lb />
+　学生は暗い顔をした。「そうさ……」と云った。<lb />
+　監督は手下を連れて、夜三回まわってきた。三、四人固まっていると、怒鳴りつけた。それでも、まだ足りなく、秘密に自分の手下を「糞壺」に寝らせた。<lb />
+　――「鎖」が、ただ、眼に見えないだけの違いだった。皆の足は歩くときには、<span type="ruby"><span type="rb">吋太</span><span type="rp">（</span><span type="rt">インチぶと</span><span type="rp">）</span></span>の鎖を現実に後に引きずッているように重かった。<lb />
+「俺ア、キット殺されるべよ」<lb />
+「ん。んでも、どうせ殺されるッて分ったら、その時アやるよ」<lb />
+　芝浦の漁夫が、<lb />
+「馬鹿！」と、横から怒鳴りつけた。「殺されるッて分ったら？　馬鹿ア、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>だ、それア。――<span rend="sesame_dot" rendition="em">今</span>、殺されているんでねえか。小刻みによ。彼奴等はな、上手なんだ。ピストルは今にもうつように、何時でも持っているが、なかなかそんな<span rend="sesame_dot" rendition="em">ヘマ</span>はしないんだ。あれア「手」なんだ。――分るか。彼奴等は、俺達を殺せば、自分等の方で損するんだ。目的は――本当の目的は、俺達をウンと働かせて、<span type="ruby"><span type="rb">締木</span><span type="rp">（</span><span type="rt">しめぎ</span><span type="rp">）</span></span>にかけて、ギイギイ搾り上げて、しこたま儲けることなんだ。そいつを今俺達は毎日やられてるんだ。――どうだ、この滅茶苦茶は。まるで蚕に食われている桑の葉のように、俺達の身体が殺されているんだ」<lb />
+「んだな！」<lb />
+「んだな、も糞もあるもんか」厚い<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">てのひら</span><span type="rp">）</span></span>に、煙草の火を転がした。「ま、待ってくれ、今に、畜生！」<lb />
+　あまり南下して、<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">がら</span><span type="rp">）</span></span>の小さい女蟹ばかり多くなったので、場所を北の方へ移動することになった。それで皆は残業をさせられて、少し早目に（久し振りに！）仕事が終った。<lb />
+　皆が「糞壺」に降りて来た。<lb />
+「元気ねえな」芝浦だった。<lb />
+「こら、足ば見てけれや。ガク、ガクッて、段ば降りれなくなったで」<lb />
+「気の毒だ。それでもまだ一生懸命働いてやろうッてんだから」<lb />
+「誰が！　――仕方ねんだべよ」<lb />
+　芝浦が笑った。「殺される時も、<span rend="sesame_dot" rendition="em">仕方がねえか</span>」<lb />
+「…………」<lb />
+「まあ、このまま行けば、お前ここ四、五日だな」<lb />
+　相手は拍手に、イヤな顔をして、黄色ッぽくムクンだ片方の<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほお</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">眼蓋</span><span type="rp">（</span><span type="rt">まぶた</span><span type="rp">）</span></span>をゆがめた。そして、だまって自分の<span type="ruby"><span type="rb">棚</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>のところへ行くと、端へ<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>から下の足をブラ下げて、関節を<span type="ruby"><span type="rb">掌刀</span><span type="rp">（</span><span type="rt">てがたな</span><span type="rp">）</span></span>でたたいた。<lb />
+　――下で、芝浦が手を振りながら、しゃべっていた。<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りが、身体をゆすりながら、<span type="ruby"><span type="rb">相槌</span><span type="rp">（</span><span type="rt">あいづち</span><span type="rp">）</span></span>を打った。<lb />
+「……いいか、まア仮りに金持が金を出して作ったから、船があるとしてもいいさ。水夫と火夫がいなかったら動くか。蟹が海の底に何億っているさ。仮りにだ、色々な<span type="ruby"><span type="rb">仕度</span><span type="rp">（</span><span type="rt">したく</span><span type="rp">）</span></span>をして、此処まで出掛けてくるのに、金持が金をだせたからとしてもいいさ。俺達が働かなかったら、一匹の蟹だって、金持の<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>に入って行くか。いいか、俺達がこの一夏ここで働いて、それで一体どの位金が入ってくる。ところが、金持はこの船一艘で純手取り四、五十万円ッて金をせしめるんだ。――さあ、んだら、<span rend="sesame_dot" rendition="em">その金の出所だ</span>。無から有は生ぜじだ。――分るか。なア、皆んな俺達の力さ。――んだから、そう今にもお陀仏するような不景気な<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>してるなって云うんだ。うんと威張るんだ。底の底のことになれば、うそでない、あっちの方が俺達をおッかながってるんだ。ビクビクすんな。<lb />
+　水夫と火夫がいなかったら、船は動かないんだ。――労働者が働かねば、ビタ一文だって、金持の懐にゃ入らないんだ。さっき云った船を買ったり、道具を用意したり、仕度をする金も、やっぱり他の労働者が血をしぼって、儲けさせてやった――俺達からしぼり取って行きやがった金なんだ。――金持と俺達とは親と子なんだ……」<lb />
+　監督が入ってきた。<lb />
+　皆ドマついた<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>で、ゴソゴソし出した。<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">十</span></span></span>
+<lb />
+　空気が<span type="ruby"><span type="rb">硝子</span><span type="rp">（</span><span type="rt">ガラス</span><span type="rp">）</span></span>のように冷たくて、<span type="ruby"><span type="rb">塵</span><span type="rp">（</span><span type="rt">ちり</span><span type="rp">）</span></span>一本なく澄んでいた。――二時で、もう夜が明けていた。カムサツカの連峰が金紫色に輝いて、海から二、三寸位の高さで、地平線を南に長く走っていた。<span type="ruby"><span type="rb">小波</span><span type="rp">（</span><span type="rt">さざなみ</span><span type="rp">）</span></span>が立って、その一つ一つの面が、朝日を一つ一つうけて、夜明けらしく、寒々と光っていた。――それが入り乱れて砕け、入り交れて砕ける。その度にキラキラ、と光った。鴎の啼声が（<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>にいるのか分らずに）声だけしていた。――さわやかに、寒かった。荷物にかけてある、油のにじんだズックのカヴァが時々ハタハタとなった。分らないうちに、風が出てきていた。<lb />
+　<span type="ruby"><span type="rb">袢天</span><span type="rp">（</span><span type="rt">はんてん</span><span type="rp">）</span></span>の袖に、<span rend="sesame_dot" rendition="em">カガシ</span>のように手を通しながら、漁夫が段々を上ってきて、ハッチから首を出した。首を出したまま、はじかれたように叫んだ。<lb />
+「あ、<span type="ruby"><span type="rb">兎</span><span type="rp">（</span><span type="rt">うさぎ</span><span type="rp">）</span></span>が飛んでる。――これア大<span type="ruby"><span type="rb">暴風</span><span type="rp">（</span><span type="rt">しけ</span><span type="rp">）</span></span>になるな」<lb />
+　三角波が立ってきていた。カムサツカの海に慣れている漁夫には、それが<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>ぐ分る。<lb />
+「危ねえ、今日休みだべ」<lb />
+　一時間程してからだった。<lb />
+　川崎船を降ろすウインチの下で、<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">此処</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>七、八人ずつ漁夫が固まっていた。川崎船はどれも半降ろしになったまま、途中で揺れていた。肩をゆすりながら海を見て、お互云い合っている。<lb />
+　一寸した。<lb />
+「やめたやめた！」<lb />
+「<span type="ruby"><span type="rb">糞</span><span type="rp">（</span><span type="rt">くそ</span><span type="rp">）</span></span>でも<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>らえ、だ！」<lb />
+　誰かキッカケにそういうのを、皆は待っていたようだった。<lb />
+　肩を押し合って、「おい、引き上げるべ！」と云った。<lb />
+「ん」<lb />
+「ん、ん！」<lb />
+　一人がしかめた<span type="ruby"><span type="rb">眼差</span><span type="rp">（</span><span type="rt">まなざし</span><span type="rp">）</span></span>で、ウインチを見上げて、「<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>しな……」と<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ため</span><span type="rp">）</span></span>らっている。<lb />
+　行きかけたのが、自分の片肩をグイとしゃくって、「死にたかったら、<span type="ruby"><span type="rb">独</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>りで<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>げよ！」と、ハキ出した。<lb />
+　皆は<span type="ruby"><span type="rb">固</span><span type="rp">（</span><span type="rt">かたま</span><span type="rp">）</span></span>って歩き出した。誰か「本当にいいかな」と、小声で云っていた。二人程、あやふやに、遅れた。<lb />
+　次のウインチの下にも、漁夫達は立ちどまったままでいた。彼等は第二号川崎の連中が、こっちに歩いてくるのを見ると、その意味が分った。四、五人が声をあげて、手を振った。　<lb />
+「やめだ、やめだ！」<lb />
+「ん、やめだ！」<lb />
+　その二つが合わさると、元気が出てきた。どうしようか分らないでいる遅れた二、三人は、まぶしそうに、こっちを見て、立ち止っていた。皆が第五川崎のところで、又一緒になった。それ等を見ると、遅れたものはブツブツ云いながら後から、歩き出した。<lb />
+　吃りの漁夫が振りかえって、大声で呼んだ。「しっかりせッ！」<lb />
+　雪だるまのように、漁夫達の<span rend="sesame_dot" rendition="em">かたまり</span>がコブをつけて、大きくなって行った。皆の前や後を、学生や吃りが行ったり、来たり、しきりなしに走っていた。「いいか、はぐれないことだど！　何よりそれだ。もう、大丈夫だ。もう――！」<lb />
+　煙筒の側に、車座に坐って、ロープの繕いをやっていた水夫が、のび上って、<lb />
+「どうした。オ――イ？」と怒鳴った。<lb />
+　皆はその方へ手を振りあげて、ワアーッと叫んだ。上から見下している水夫達には、それが林のように揺れて見えた。<lb />
+「よオし、さ、仕事なんてやめるんだ！」<lb />
+　ロープをさっさと片付け始めた。「待ってたんだ！」<lb />
+　そのことが漁夫達の方にも分った。二度、ワアーッと叫んだ。<lb />
+「まず糞壺さ引きあげるべ。そうするべ。――<span type="ruby"><span type="rb">非道</span><span type="rp">（</span><span type="rt">ひで</span><span type="rp">）</span></span>え奴だ。ちゃんと大<span type="ruby"><span type="rb">暴風</span><span type="rp">（</span><span type="rt">しけ</span><span type="rp">）</span></span>になること分っていて、それで船を出させるんだからな。――人殺しだべ！」<lb />
+「あったら奴に殺されて、たまるけア！」<lb />
+「<span rend="sesame_dot" rendition="em">今度こそ</span>、覚えてれ！」<lb />
+　<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほと</span><span type="rp">）</span></span>んど一人も残さないで、糞壺へ引きあげてきた。中には「仕方なしに」<span type="ruby"><span type="rb">随</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いて来たものもいるにはいた。<lb />
+　――皆のドカドカッと入り込んできたのに、薄暗いところに寝ていた病人が、<span type="ruby"><span type="rb">吃驚</span><span type="rp">（</span><span type="rt">びっくり</span><span type="rp">）</span></span>して板のような上半身を起した。ワケを話してやると、見る見る眼に涙をにじませて何度も、何度も頭を振ってうなずいた。<lb />
+　吃りの漁夫と学生が、機関室の<span type="ruby"><span type="rb">縄梯子</span><span type="rp">（</span><span type="rt">なわばしご</span><span type="rp">）</span></span>のようなタラップを下りて行った。急いでいたし、慣れていないので、何度も足をすべらして、危く、手で<span type="ruby"><span type="rb">吊下</span><span type="rp">（</span><span type="rt">つりさが</span><span type="rp">）</span></span>った。中はボイラーの熱でムンとして、それに暗かった。彼等はすぐ身体中汗まみれになった。<span type="ruby"><span type="rb">汽罐</span><span type="rp">（</span><span type="rt">かま</span><span type="rp">）</span></span>の上のストーヴのロストルのような上を渡って、またタラップを下った。下で何か<span type="ruby"><span type="rb">声高</span><span type="rp">（</span><span type="rt">こわだか</span><span type="rp">）</span></span>にしゃべっているのが、ガン、ガ――ンと反響していた。――地下何百尺という地獄のような<span type="ruby"><span type="rb">竪坑</span><span type="rp">（</span><span type="rt">たてこう</span><span type="rp">）</span></span>を初めて下りて行くような無気味さを感じた。<lb />
+「これも<span rend="sesame_dot" rendition="em">つれえ</span>仕事だな」<lb />
+「んよ、それに又、か、甲板さ引っぱり出されて、か、蟹たたきでも、さ、されたら、たまったもんでねえさ」<lb />
+「大丈夫、火夫も俺達の方だ！」<lb />
+「ん、大丈――夫！」<lb />
+　ボイラーの腹を、タラップでおりていた。<lb />
+「熱い、熱い、たまんねえな。人間の<span type="ruby"><span type="rb">燻製</span><span type="rp">（</span><span type="rt">くんせい</span><span type="rp">）</span></span>が出来そうだ」<lb />
+「冗談じゃねえど。今火たいていねえ時で、こんだんだど。<span type="ruby"><span type="rb">燃</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>いてる時なんて！」<lb />
+「んか、な。んだべな」<lb />
+「<span type="ruby"><span type="rb">印度</span><span type="rp">（</span><span type="rt">インド</span><span type="rp">）</span></span>の海渡る時ア、三十分交代で、それでヘナヘナになるてんだとよ。ウッカリ文句をぬかした一機が、シャベルで滅多やたらにたたきのめされて、あげくの果て、ボイラーに燃かれてしまうことがあるんだとよ。――そうでもしたくなるべよ！」<lb />
+「んな……」<lb />
+　<span type="ruby"><span type="rb">汽罐</span><span type="rp">（</span><span type="rt">かま</span><span type="rp">）</span></span>の前では、石炭カスが引き出されて、それに水でもかけたらしく、<span type="ruby"><span type="rb">濛々</span><span type="rp">（</span><span type="rt">もうもう</span><span type="rp">）</span></span>と灰が立ちのぼっていた。その側で、半分裸の火夫達が、煙草をくわえながら、<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>を抱えて話していた。薄暗い中で、それはゴリラがうずくまっているのと、そっくりに見えた。石炭庫の口が半開きになって、ひんやりした真暗な内を、無気味に<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>かせていた。<lb />
+「おい」吃りが声をかけた。<lb />
+「誰だ？」上を見上げた。――それが「誰だ――誰だ、――誰だ」と三つ位に響きかえって行く。<lb />
+　そこへ二人が降りて行った。二人だということが分ると、<lb />
+「間違ったんでねえか、道を」と、一人が大声をたてた。<lb />
+「ストライキやったんだ」<lb />
+「<span rend="sesame_dot" rendition="em">ストキ</span>がどうしたって？」<lb />
+「ストキでねえ、ストライキだ」<lb />
+「やったか！」<lb />
+「そうか。このまま、どんどん火でもブッ<span type="ruby"><span type="rb">燃</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>いて、函館さ帰ったらどうだ。面白いど」<lb />
+　吃りは「しめた！」と思った。<lb />
+「んで、皆<span type="ruby"><span type="rb">勢揃</span><span type="rp">（</span><span type="rt">せいぞろ</span><span type="rp">）</span></span>えしたところで、畜生等にねじ込もうッて云うんだ」<lb />
+「やれ、やれ！」<lb />
+「やれやれじゃねえ。やろう、やろうだ」<lb />
+　学生が口を入れた。<lb />
+「んか、んか、これア悪かった。――やろうやろう！」火夫が石炭の灰で白くなっている頭をかいた。<lb />
+　皆笑った。<lb />
+「お前達の方、お前達ですっかり一<span type="ruby"><span type="rb">纏</span><span type="rp">（</span><span type="rt">まと</span><span type="rp">）</span></span>めにして貰いたいんだ」<lb />
+「ん、分った。大丈夫だ。何時でも一つ位え、ブンなぐってやりてえと思ってる連中ばかりだから」<lb />
+　――火夫の方はそれでよかった。<lb />
+　雑夫達は全部漁夫のところに連れ込まれた。一時間程するうちに、火夫と水夫も加わってきた。皆甲板に集った。「要求事項」は、吃り、学生、芝浦、<span rend="sesame_dot" rendition="em">威張んな</span>が集ってきめた。それを皆の面前で、彼等につきつけることにした。<lb />
+　監督達は、漁夫等が騒ぎ出したのを知ると――それからちっとも姿を見せなかった。<lb />
+「おかしいな」<lb />
+「これア、おかしい」<lb />
+「ピストル持ってたって、こうなったら駄目だべよ」<lb />
+　吃りの漁夫が、<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>高い処に上った。皆は手を<span type="ruby"><span type="rb">拍</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>いた。<lb />
+「諸君、とうとう来た！　長い間、長い間俺達は待っていた。俺達は半殺しにされながらも、待っていた。今に見ろ、と。しかし、とうとう来た。<lb />
+「諸君、まず第一に、俺達は力を合わせることだ。俺達は何があろうと、仲間を裏切らないことだ。これだけさえ、しっかりつかんでいれば、彼奴等如きを<span rend="sesame_dot" rendition="em">モミ</span>つぶすは、虫<span rend="sesame_dot" rendition="em">ケラ</span>より<span type="ruby"><span type="rb">容易</span><span type="rp">（</span><span type="rt">たやす</span><span type="rp">）</span></span>いことだ。――そんならば、第二には何か。諸君、第二にも力を合わせることだ。落伍者を一人も出さないということだ。一人の裏切者、一人の寝がえり者を出さないということだ。たった一人の寝がえりものは、三百人の命を殺すということを知らなければならない。一人の寝がえり……（「分った、分った」「大丈夫だ」「心配しないで、やってくれ」）……<lb />
+「俺達の交渉が彼奴等をタタキのめせるか、その職分を完全につくせるかどうかは、一に諸君の<span rend="sesame_dot" rendition="em">団結の力</span>に依るのだ」<lb />
+　続いて、火夫の代表が立ち、水夫の代表が立った。火夫の代表は、普段一度も云ったこともない言葉をしゃべり出して、自分でどまついてしまった。つまる<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>に赤くなり、ナッパ服の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>を引張ってみたり、すり切れた穴のところに手を入れてみたり、ソワソワした。皆はそれに気付くとデッキを足踏みして笑った。<lb />
+「……俺アもうやめる。然し、諸君、彼奴等はブンなぐってしまうべよ！」と云って、壇を下りた。<lb />
+　ワザと、皆が大げさに拍手した。<lb />
+「其処だけでよかったんだ」後で誰かひやかした。それで皆は一度にワッと笑い出してしまった。<lb />
+　火夫は、夏の真最中に、ボイラーの柄の長いシャベルを使うときよりも、汗をびっしょりかいて、足元さえ頼りなくなっていた。降りて来たとき、「俺何しゃべったかな？」と仲間にきいた。<lb />
+　学生が肩をたたいて、「いい、いい」と云って笑った。<lb />
+「お前えだ、悪いのア。別にいたのによ、俺でなくたって……」<lb />
+「皆さん、私達は今日の来るのを待っていたんです」――壇には一五、六歳の雑夫が立っていた。<lb />
+「皆さんも知っている、私達の友達がこの工船の中で、どんなに苦しめられ、半殺しにされたか。夜になって薄ッぺらい布団に包まってから、家のことを思い出して、よく私達は泣きました。此処に集っているどの雑夫にも聞いてみて下さい。一晩だって泣かない人はいないのです。そして又一人だって、身体に生キズのないものはいないのです。もう、こんな事が三日も続けば、キット死んでしまう人もいます。――ちょっとでも金のある<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>ならば、まだ学校に行けて、無邪気に遊んでいれる年頃の私達は、こんなに遠く……（声がかすれる。吃り出す。<span type="ruby"><span type="rb">抑</span><span type="rp">（</span><span type="rt">おさ</span><span type="rp">）</span></span>えられたように静かになった）然し、もういいんです。大丈夫です。大人の人に助けて貰って、私達は憎い憎い、彼奴等に仕返ししてやることが出来るのです……」<lb />
+　それは嵐のような拍手を<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>き起した。手を夢中にたたきながら、眼尻を太い指先きで、ソッと<span type="ruby"><span type="rb">拭</span><span type="rp">（</span><span type="rt">ぬぐ</span><span type="rp">）</span></span>っている中年過ぎた漁夫がいた。<lb />
+　学生や、吃りは、皆の名前をかいた誓約書を廻して、<span type="ruby"><span type="rb">捺印</span><span type="rp">（</span><span type="rt">なついん</span><span type="rp">）</span></span>を貰って歩いた。<lb />
+　学生二人、吃り、威張んな、芝浦、火夫三名、水夫三名が、「要求条項」と「誓約書」を持って、船長室に出掛けること、その時には表で示威運動をすることが決った。――陸の場合のように、住所がチリチリバラバラになっていないこと、それに下地が充分にあったことが、スラスラと運ばせた。<span rend="sesame_dot" rendition="em">ウソ</span>のように、スラスラ纏った。<lb />
+「おかしいな、何んだって、あの鬼顔出さないんだべ」<lb />
+「<span rend="sesame_dot" rendition="em">やっき</span>になって、得意のピストルでも打つかと思ってたどもな」<lb />
+　三百人は吃りの音頭で、一斉に「ストライキ万歳」を三度叫んだ。学生が「監督の野郎、この声聞いて震えてるだろう！」と笑った。――船長室へ押しかけた。<lb />
+　監督は片手にピストルを持ったまま、代表を迎えた。<lb />
+　船長、雑夫長、工場代表……などが、今までたしかに何か相談をしていたらしいことがハッキリ分るそのままの恰好で、迎えた。監督は落付いていた。<lb />
+　入ってゆくと、<lb />
+「やったな」とニヤニヤ笑った。<lb />
+　外では、三百人が重なり合って、大声をあげ、ドタ、ドタ足踏みをしていた。監督は「うるさい奴だ！」とひくい声で云った。が、それ等には気もかけない様子だった代表が興奮して云うのを一通りきいてから、「要求条項」と、三百人の「誓約書」を形式的にチラチラ見ると、「後悔しないか」と、拍子抜けするほど、ゆっくり云った。<lb />
+「馬鹿野郎ッ！」吃りがいきなり監督の鼻ッ面を<span type="ruby"><span type="rb">殴</span><span type="rp">（</span><span type="rt">なぐ</span><span type="rp">）</span></span>りつけるように怒鳴った。<lb />
+「そうか、いい。――後悔しないんだな」<lb />
+　そう云って、それから<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>調子をかえた。「じゃ、聞け。いいか。明日の朝にならないうちに、<span rend="sesame_dot" rendition="em">色よい返事</span>をしてやるから」――だが、云うより早かった、芝浦が監督のピストルをタタキ落すと、拳骨で<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほお</span><span type="rp">）</span></span>をなぐりつけた。監督がハッと思って、顔を押えた瞬間、吃りが<span rend="sesame_dot" rendition="em">キノコ</span>のような円椅子で横なぐりに足をさらった。監督の身体はテーブルに引っかかって、他愛なく横倒れになった。その上に四本の足を空にして、テーブルがひっくりかえって行った。<lb />
+「色よい返事だ？　この野郎、フザけるな！　生命にかけての問題だんだ！」<lb />
+　芝浦は<span type="ruby"><span type="rb">巾</span><span type="rp">（</span><span type="rt">はば</span><span type="rp">）</span></span>の広い肩をけわしく動かした。水夫、火夫、学生が二人をとめた。船長室の窓が<span type="ruby"><span type="rb">凄</span><span type="rp">（</span><span type="rt">すご</span><span type="rp">）</span></span>い音を立てて<span type="ruby"><span type="rb">壊</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>れた。その瞬間、「殺しちまい！」「打ッ殺せ！」「のせ！　のしちまえ！」外からの叫び声が急に大きくなって、ハッキリ聞えてきた。――何時の間にか、船長や雑夫長や工場代表が室の<span type="ruby"><span type="rb">片隅</span><span type="rp">（</span><span type="rt">かたすみ</span><span type="rp">）</span></span>の方へ、固まり合って棒杭のようにつッ立っていた。顔の色がなかった。<lb />
+　ドアーを壊して、漁夫や、水、火夫が<span type="ruby"><span type="rb">雪崩</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>れ込んできた。<lb />
+<lb />
+　昼過ぎから、海は大嵐になった。そして夕方近くになって、だんだん静かになった。<lb />
+「監督をたたきのめす！」そんなことがどうして出来るもんか、そう思っていた。ところが！　自分達の「手」でそれをやってのけたのだ。普段おどかし看板にしていたピストルさえ打てなかったではないか。皆はウキウキと<span type="ruby"><span type="rb">噪</span><span type="rp">（</span><span type="rt">はしゃ</span><span type="rp">）</span></span>いでいた。――代表達は頭を集めて、これからの色々な対策を相談した。「色よい返事」が来なかったら、「覚えてろ！」と思った。<lb />
+　薄暗くなった頃だった。ハッチの入口で、見張りをしていた漁夫が、駆逐艦がやってきたのを見た。――<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>てて「糞壺」に<span type="ruby"><span type="rb">馳</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>け込んだ。<lb />
+「しまったッ<span facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" />」学生の一人がバネのようにはね上った。見る見る顔の色が変った。<lb />
+「感違いするなよ」吃りが笑い出した。「この、俺達の状態や立場、それに要求などを、士官達に詳しく説明して援助をうけたら、かえってこのストライキは有利に解決がつく。分りきったことだ」<lb />
+　外のものも、「それアそうだ」と同意した。<lb />
+「我帝国の軍艦だ。俺達国民の味方だろう」<lb />
+「いや、いや……」学生は手を振った。余程のショックを受けたらしく、唇を震わせている。言葉が<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>った。<lb />
+「国民の味方だって？　……いやいや……」<lb />
+「馬鹿な！　――<span rend="sesame_dot" rendition="em">国民の味方でない帝国の軍艦</span>、そんな理窟なんてある<span type="ruby"><span type="rb">筈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>があるか<span facs="../../../gaiji/1-08/1-08-78.png" rend="gaiji" rendition="img" source="※(感嘆符疑問符、1-8-78)" />」<lb />
+「駆逐艦が来た！」「駆逐艦が来た！」という興奮が学生の言葉を無理矢理にもみ<span type="ruby"><span type="rb">潰</span><span type="rp">（</span><span type="rt">つぶ</span><span type="rp">）</span></span>してしまった。<lb />
+　皆はドヤドヤと「糞壺」から甲板にかけ上った。そして声を<span type="ruby"><span type="rb">揃</span><span type="rp">（</span><span type="rt">そろ</span><span type="rp">）</span></span>えていきなり、「帝国軍艦万歳」を叫んだ。<lb />
+　タラップの昇降口には、顔と手にホータイをした監督や船長と<span rend="sesame_dot" rendition="em">向い合って</span>、吃り、芝浦、威張んな、学生、水、火夫等が立った。薄暗いので、ハッキリ分らなかったが、駆逐艦からは三艘汽艇が出た。それが横付けになった。一五、六人の水兵が一杯つまっていた。それが一度にタラップを上ってきた。<lb />
+　<span type="ruby"><span type="rb">呀</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>ッ！　<span type="ruby"><span type="rb">着剣</span><span type="rp">（</span><span type="rt">つけけん</span><span type="rp">）</span></span>をしているではないか！　そして帽子の<span type="ruby"><span type="rb">顎紐</span><span type="rp">（</span><span type="rt">あごひも</span><span type="rp">）</span></span>をかけている！<lb />
+「しまった！」そう心の中で叫んだのは、吃りだった。<lb />
+　次の汽艇からも十五、六人。その次の汽艇からも、やっぱり銃の先きに、着剣した、顎紐をかけた水兵！　それ等は海賊船にでも<span type="ruby"><span type="rb">躍</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>り込むように、ドカドカッと上ってくると、漁夫や水、火夫を取り囲んでしまった。<lb />
+「しまった！　畜生やりゃがったな！」<lb />
+　芝浦も、水、火夫の代表も初めて叫んだ。<lb />
+「ざま、見やがれ！」――監督だった。ストライキになってからの、監督の不思議な態度が初めて分った。だが、遅かった。<lb />
+「有無」を云わせない。「不届者」「不忠者」「露助の真似する売国奴」そう<span type="ruby"><span type="rb">罵倒</span><span type="rp">（</span><span type="rt">ばとう</span><span type="rp">）</span></span>されて、代表の九人が銃剣を擬されたまま、駆逐艦に護送されてしまった。それは皆が<span rend="sesame_dot" rendition="em">ワケ</span>が分らず、ぼんやり見とれている、その短い間だった。全く、有無を云わせなかった。――一枚の新聞紙が燃えてしまうのを見ているより、他愛なかった。<lb />
+　――簡単に「片付いてしまった」<lb />
+「俺達には、俺達しか、味方が<span type="ruby"><span type="rb">無</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>えんだな。始めて分った」<lb />
+「帝国軍艦だなんて、大きな事を云ったって大金持の<span rend="sesame_dot" rendition="em">手先</span>でねえか、国民の味方？　おかしいや、糞喰らえだ！」<lb />
+　水兵達は万一を考えて、三日船にいた。その間中、上官連は、毎晩サロンで、監督達と一緒に酔払っていた。――「そんなものさ」<lb />
+　いくら漁夫達でも、今度という今度こそ、「誰が敵」であるか、そしてそれ等が（<span rend="sesame_dot" rendition="em">全く意外にも</span>！）どういう風に、お互が繋がり合っているか、ということが身をもって知らされた。<lb />
+　毎年の例で、漁期が終りそうになると、蟹罐詰の「<span rend="sesame_dot" rendition="em">献上品</span>」を作ることになっていた。然し「乱暴にも」何時でも、別に斎戒<span type="ruby"><span type="rb">沐浴</span><span type="rp">（</span><span type="rt">もくよく</span><span type="rp">）</span></span>して作るわけでもなかった。その度に、漁夫達は監督をひどい事をするものだ、と思って来た。――だが、今度は<span type="ruby"><span type="rb">異</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>ってしまっていた。<lb />
+「俺達の本当の血と肉を<span type="ruby"><span type="rb">搾</span><span type="rp">（</span><span type="rt">しぼ</span><span type="rp">）</span></span>り上げて作るものだ。フン、さぞうめえこったろ。食ってしまってから、腹痛でも起さねばいいさ」<lb />
+　皆そんな気持で作った。<lb />
+「石<span rend="sesame_dot" rendition="em">ころ</span>でも入れておけ！　かまうもんか！」<lb />
+<lb />
+「俺達には、俺達しか味方が無えんだ」<lb />
+　それは今では、皆の心の底の方へ、底の方へ、と深く入り込んで行った。――「今に見ろ！」<lb />
+　然し「今に見ろ」を百遍繰りかえして、それが何になるか。――ストライキが<span type="ruby"><span type="rb">惨</span><span type="rp">（</span><span type="rt">みじ</span><span type="rp">）</span></span>めに敗れてから、仕事は「畜生、思い知ったか」とばかりに、過酷になった。それは今までの過酷にもう一つ更に加えられた監督の<span type="ruby"><span type="rb">復仇的</span><span type="rp">（</span><span type="rt">ふっきゅうてき</span><span type="rp">）</span></span>な過酷さだった。<span rend="sesame_dot" rendition="em">限度</span>というものの一番極端を越えていた。――今ではもう仕事は<span rend="sesame_dot" rendition="em">堪え難い</span>ところまで行っていた。<lb />
+「――間違っていた。ああやって、九人なら九人という人間を、表に出すんでなかった。まるで、俺達の急所はここだ、と知らせてやっているようなものではないか。俺達全部は、全部が一緒になったという風にやらなければならなかったのだ。そしたら監督だって、駆逐艦に無電は打てなかったろう。まさか、<span rend="sesame_dot" rendition="em">俺達全部</span>を引き渡してしまうなんて事、出来ないからな。仕事が、出来なくなるもの」<lb />
+「そうだな」<lb />
+「そうだよ。今度こそ、このまま仕事していたんじゃ、俺達<span rend="sesame_dot" rendition="em">本当に</span>殺されるよ。犠牲者を出さないように全部で、一緒にサボルことだ。この前と同じ手で。吃りが云ったでないか、何より力を合わせることだって。それに力を合わせたらどんなことが出来たか、ということも分っている筈だ」<lb />
+「それでも若し駆逐艦を呼んだら、皆で――この時こそ力を合わせて、一人も残らず引渡されよう！　その方がかえって助かるんだ」<lb />
+「んかも知らない。然し考えてみれば、そんなことになったら、監督が第一<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>てるよ、会社の手前。代りを函館から取り寄せるのには遅すぎるし、出来高だって問題にならない程少ないし。……うまくやったら、これア案外大丈夫だど」<lb />
+「大丈夫だよ。それに不思議に誰だって、ビクビクしていないしな。皆、畜生！　ッて気でいる」<lb />
+「本当のことを云えば、そんな<span rend="sesame_dot" rendition="em">先きの成算</span>なんて、どうでもいいんだ。――死ぬか、生きるか、だからな」<lb />
+「ん、もう一回だ！」<lb />
+<lb />
+　そして、彼等は、立ち上った。――<span rend="sesame_dot" rendition="em">もう一度</span>！<lb />
+<lb />
+<lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">附記</span></span></span>
+<lb />
+　この後のことについて、二、三附け加えて置こう。<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">イ、二度目の、完全な「サボ」は、マンマと成功したということ。「まさか」と思っていた、面<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>った監督は、夢中になって無電室にかけ込んだが、ドアーの前で立ち往生してしまったこと、どうしていいか分らなくなって。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">ロ、漁期が終って、函館へ帰港したとき、「サボ」をやったりストライキをやった船は、博光丸だけではなかったこと。二、三の船から「赤化宣伝」のパンフレットが出たこと。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">ハ、それから監督や雑夫長等が、漁期中にストライキの如き不祥事を<span type="ruby"><span type="rb">惹起</span><span type="rp">（</span><span type="rt">ひきおこ</span><span type="rp">）</span></span>させ、製品高に多大の影響を与えたという理由のもとに、会社があの忠実な犬を「無慈悲」に涙銭一文くれず、（漁夫達よりも惨めに！）首を切ってしまったということ。面白いことは、「あ――あ、<span type="ruby"><span type="rb">口惜</span><span type="rp">（</span><span type="rt">くや</span><span type="rp">）</span></span>しかった！　俺ア今まで、畜生、だまされていた！」と、あの監督が叫んだということ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">ニ、<span rend="sesame_dot" rendition="em">そして</span>、「組織」「闘争」――この初めて知った偉大な経験を<span type="ruby"><span type="rb">担</span><span type="rp">（</span><span type="rt">にな</span><span type="rp">）</span></span>って、漁夫、年若い雑夫等が、警察の門から色々な労働の層へ、それぞれ入り込んで行ったということ。</span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+――この一篇は、「殖民地に於ける資本主義侵入史」の一頁である。<lb />
+</span>
+<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">（一九二九・三・三〇）</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

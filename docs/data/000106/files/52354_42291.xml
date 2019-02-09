@@ -1,0 +1,1815 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>新頌</title>
+        <author>北原白秋</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2011-02-11">作成</resp><resp /><note>
+<lb />
+底本：「白秋全集　5」岩波書店<lb />
+　　　1986（昭和61）年9月5日発行<lb />
+底本の親本：「新頌」八雲書林<lb />
+　　　1940（昭和15）年10月15日<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+※底本には底本の親本の「表紙」「本扉」の写真、「中扉」の「詩集　皇紀二千六百年記念」、「中扉裏」の「八雲書林刊」が冒頭にありますが省きました。<lb />
+入力：岡村和彦<lb />
+校正：川山隆<lb />
+<date when="2011-02-11">2011年2月11日</date>作成<lb />
+<date when="2011-12-06">2011年12月6日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>岡村和彦</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>川山隆</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>新頌</title><author>北原白秋</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">海道東征</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">海道東征</span></span></span>
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi111">第一章　高千穂</span></span></span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声（独唱竝に合唱）</span><lb />
+<lb />
+神<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>しき、<span type="ruby"><span type="rb">蒼空</span><span type="rp">（</span><span type="rt">あをぞら</span><span type="rp">）</span></span>と共に高く、<lb />
+み身<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>しき、<span type="ruby"><span type="rb">皇祖</span><span type="rp">（</span><span type="rt">すめらみおや</span><span type="rp">）</span></span>。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなり我が<span type="ruby"><span type="rb">中空</span><span type="rp">（</span><span type="rt">なかぞら</span><span type="rp">）</span></span>、<lb />
+　　<span type="ruby"><span type="rb">窮</span><span type="rp">（</span><span type="rt">きは</span><span type="rp">）</span></span>み無し<span type="ruby"><span type="rb">皇</span><span type="rp">（</span><span type="rt">すめら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">産霊</span><span type="rp">（</span><span type="rt">むすび</span><span type="rp">）</span></span>、<lb />
+　　いざ仰げ世のことごと、<lb />
+　　<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あめ</span><span type="rp">）</span></span>なるや<span type="ruby"><span type="rb">崇</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>きみ<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">あれ</span><span type="rp">）</span></span>を。<lb />
+<lb />
+国<span type="ruby"><span type="rb">成</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>りき、<span type="ruby"><span type="rb">綿津見</span><span type="rp">（</span><span type="rt">わたつみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">稚</span><span type="rp">（</span><span type="rt">わか</span><span type="rp">）</span></span>く、<lb />
+<span type="ruby"><span type="rb">凝</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">成</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>しき、この<span type="ruby"><span type="rb">国土</span><span type="rp">（</span><span type="rt">くにつち</span><span type="rp">）</span></span>。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなり我が<span type="ruby"><span type="rb">国生</span><span type="rp">（</span><span type="rt">くにうみ</span><span type="rp">）</span></span>、<lb />
+　　おぎろなし<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">瓊鉾</span><span type="rp">（</span><span type="rt">ぬぼこ</span><span type="rp">）</span></span>、<lb />
+　　いざ聴けよそのこをろに、<lb />
+　　<span type="ruby"><span type="rb">大八洲</span><span type="rp">（</span><span type="rt">おほやしま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">騰</span><span type="rp">（</span><span type="rt">あが</span><span type="rp">）</span></span>るとよみを。<lb />
+<lb />
+<span type="ruby"><span type="rb">皇統</span><span type="rp">（</span><span type="rt">みすまる</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">照</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>らす神の<span type="ruby"><span type="rb">御裔</span><span type="rp">（</span><span type="rt">みすゑ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">代々</span><span type="rp">（</span><span type="rt">よよ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>しき、<span type="ruby"><span type="rb">日向</span><span type="rp">（</span><span type="rt">ひむか</span><span type="rp">）</span></span>すでに。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなり我が高千穂、<lb />
+　　かぎりなし<span type="ruby"><span type="rb">千重</span><span type="rp">（</span><span type="rt">ちへ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">波折</span><span type="rp">（</span><span type="rt">なをり</span><span type="rp">）</span></span>、<lb />
+　　いざ<span type="ruby"><span type="rb">祝</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>げよ日の<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">射</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>す<lb />
+　　<span type="ruby"><span type="rb">海山</span><span type="rp">（</span><span type="rt">うみやま</span><span type="rp">）</span></span>のい照る<span type="ruby"><span type="rb">宮居</span><span type="rp">（</span><span type="rt">みやゐ</span><span type="rp">）</span></span>を。<lb />
+<lb />
+神<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>しき、<span type="ruby"><span type="rb">千五百秋瑞穂</span><span type="rp">（</span><span type="rt">ちいほあきみづほ</span><span type="rp">）</span></span>の国、<lb />
+<span type="ruby"><span type="rb">皇国</span><span type="rp">（</span><span type="rt">すめぐに</span><span type="rp">）</span></span>ぞ豊葦原。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなり我が<span type="ruby"><span type="rb">肇国</span><span type="rp">（</span><span type="rt">はつくに</span><span type="rp">）</span></span>、<lb />
+　　<span type="ruby"><span type="rb">窮</span><span type="rp">（</span><span type="rt">きは</span><span type="rp">）</span></span>み無し<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>つみ<span type="ruby"><span type="rb">業</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>、<lb />
+　　いざ<span type="ruby"><span type="rb">征</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>たせ早や東へ、<lb />
+　　<span type="ruby"><span type="rb">光宅</span><span type="rp">（</span><span type="rt">みちた</span><span type="rp">）</span></span>らせ<span type="ruby"><span type="rb">王沢</span><span type="rp">（</span><span type="rt">みうつくしび</span><span type="rp">）</span></span>を。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi112">第二章　大和思慕</span></span></span>
+<lb />
+<span rend="sho1" style="font-size: small;">女声（独唱竝に合唱）</span><lb />
+<lb />
+<span type="ruby"><span type="rb">大和</span><span type="rp">（</span><span type="rt">やまと</span><span type="rp">）</span></span>は国のまほろば、<lb />
+たたなづく<span type="ruby"><span type="rb">青垣山</span><span type="rp">（</span><span type="rt">あをがきやま</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">東</span><span type="rp">（</span><span type="rt">ひむがし</span><span type="rp">）</span></span>や国の<span type="ruby"><span type="rb">中央</span><span type="rp">（</span><span type="rt">もなか</span><span type="rp">）</span></span>、<lb />
+とりよろふ<span type="ruby"><span type="rb">青垣山</span><span type="rp">（</span><span type="rt">あをがきやま</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">うるは</span><span type="rp">）</span></span>しと<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ぞ<span type="ruby"><span type="rb">隠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>る、<lb />
+<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ぞ<span type="ruby"><span type="rb">天降</span><span type="rp">（</span><span type="rt">あも</span><span type="rp">）</span></span>るその<span type="ruby"><span type="rb">磐船</span><span type="rp">（</span><span type="rt">いはふね</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">愛</span><span type="rp">（</span><span type="rt">かな</span><span type="rp">）</span></span>しよ<span type="ruby"><span type="rb">塩土</span><span type="rp">（</span><span type="rt">しほつち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">老翁</span><span type="rp">（</span><span type="rt">をぢ</span><span type="rp">）</span></span>、<lb />
+きこえさせその<span type="ruby"><span type="rb">大和</span><span type="rp">（</span><span type="rt">やまと</span><span type="rp">）</span></span>を。<lb />
+<lb />
+<span type="ruby"><span type="rb">大和</span><span type="rp">（</span><span type="rt">やまと</span><span type="rp">）</span></span>はも<span type="ruby"><span type="rb">聴</span><span type="rp">（</span><span type="rt">きき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">うるは</span><span type="rp">）</span></span>し、<lb />
+その<span type="ruby"><span type="rb">雲居</span><span type="rp">（</span><span type="rt">くもゐ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">思</span><span type="rp">（</span><span type="rt">もひ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">遥</span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>けし。<lb />
+<lb />
+<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">うるは</span><span type="rp">）</span></span>しの<span type="ruby"><span type="rb">大和</span><span type="rp">（</span><span type="rt">やまと</span><span type="rp">）</span></span>や、<lb />
+<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">うるは</span><span type="rp">）</span></span>しの<span type="ruby"><span type="rb">大和</span><span type="rp">（</span><span type="rt">やまと</span><span type="rp">）</span></span>や。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi113">第三章　御船出</span></span></span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声女声（独唱竝に合唱）</span><lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その一</span>
+<lb />
+日はのぼる、旗雲の<span type="ruby"><span type="rb">豊</span><span type="rp">（</span><span type="rt">とよ</span><span type="rp">）</span></span>の茜に、<lb />
+いざ<span type="ruby"><span type="rb">御船</span><span type="rp">（</span><span type="rt">みふね</span><span type="rp">）</span></span><span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>でませや、うまし<span type="ruby"><span type="rb">美々津</span><span type="rp">（</span><span type="rt">みみつ</span><span type="rp">）</span></span>を。<lb />
+<lb />
+海凪ぎぬ、<span type="ruby"><span type="rb">陽炎</span><span type="rp">（</span><span type="rt">かぎろひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">東</span><span type="rp">（</span><span type="rt">ひがし</span><span type="rp">）</span></span>に立つと、<lb />
+いざ行かせ、<span type="ruby"><span type="rb">照</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">ぐは</span><span type="rp">）</span></span>しその<span type="ruby"><span type="rb">海道</span><span type="rp">（</span><span type="rt">うみぢ</span><span type="rp">）</span></span>。<lb />
+<lb />
+海凪ぎぬ、朝ぼらけ<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>もかなひぬ、<lb />
+<span type="ruby"><span type="rb">艫</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span><span type="ruby"><span type="rb">舳</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">接</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>ぎ、<span type="ruby"><span type="rb">大御船</span><span type="rp">（</span><span type="rt">おほみふね</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">御船出</span><span type="rp">（</span><span type="rt">みふなで</span><span type="rp">）</span></span>今ぞ。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その二</span>
+<lb />
+あな<span type="ruby"><span type="rb">清明</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>け、<span type="ruby"><span type="rb">神倭磐余彦</span><span type="rp">（</span><span type="rt">かむやまといはれひこ</span><span type="rp">）</span></span>、その<span type="ruby"><span type="rb">命</span><span type="rp">（</span><span type="rt">みこと</span><span type="rp">）</span></span>や、<lb />
+あな<span type="ruby"><span type="rb">映</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ゆし、もろもろの<span type="ruby"><span type="rb">皇子</span><span type="rp">（</span><span type="rt">みこ</span><span type="rp">）</span></span>たちや、その<span type="ruby"><span type="rb">皇兄</span><span type="rp">（</span><span type="rt">いろせ</span><span type="rp">）</span></span>や。<lb />
+<lb />
+<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>でませや、おほらかに<span type="ruby"><span type="rb">大御軍</span><span type="rp">（</span><span type="rt">おほみいくさ</span><span type="rp">）</span></span>、<lb />
+まだ<span type="ruby"><span type="rb">蒙</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>し、<span type="ruby"><span type="rb">遥</span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>けきは<span type="ruby"><span type="rb">鴻荒</span><span type="rp">（</span><span type="rt">あらき</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">属</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>へり。<lb />
+<lb />
+<span type="ruby"><span type="rb">慶</span><span type="rp">（</span><span type="rt">みめぐみ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">皇祖</span><span type="rp">（</span><span type="rt">すめみおや</span><span type="rp">）</span></span>かく<span type="ruby"><span type="rb">積</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>みましき、<lb />
+<span type="ruby"><span type="rb">正</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>しきを年のむた<span type="ruby"><span type="rb">養</span><span type="rp">（</span><span type="rt">やしな</span><span type="rp">）</span></span>ひましぬ。<lb />
+<lb />
+<span type="ruby"><span type="rb">神柄</span><span type="rp">（</span><span type="rt">かむがら</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">幾万</span><span type="rp">（</span><span type="rt">いくよろづ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">年</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span><span type="ruby"><span type="rb">経</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>りましき、<lb />
+<span type="ruby"><span type="rb">暉</span><span type="rp">（</span><span type="rt">みひかり</span><span type="rp">）</span></span>や、かつ<span type="ruby"><span type="rb">重</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>ね、<span type="ruby"><span type="rb">代々</span><span type="rp">（</span><span type="rt">よよ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>しましぬ。<lb />
+<lb />
+<span type="ruby"><span type="rb">和</span><span type="rp">（</span><span type="rt">にぎ</span><span type="rp">）</span></span>み<span type="ruby"><span type="rb">霊</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>、また<span type="ruby"><span type="rb">和</span><span type="rp">（</span><span type="rt">やは</span><span type="rp">）</span></span>せ、ただに<span type="ruby"><span type="rb">安</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>らと、<lb />
+<span type="ruby"><span type="rb">荒</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>み<span type="ruby"><span type="rb">霊</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>、まつろはぬいざことむけむ。<lb />
+<lb />
+<span type="ruby"><span type="rb">大御稜威</span><span type="rp">（</span><span type="rt">おほみいつ</span><span type="rp">）</span></span>い<span type="ruby"><span type="rb">照</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>らすと<span type="ruby"><span type="rb">御船出</span><span type="rp">（</span><span type="rt">みふなで</span><span type="rp">）</span></span>成りぬ、<lb />
+日の<span type="ruby"><span type="rb">皇子</span><span type="rp">（</span><span type="rt">みこ</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">御鉾</span><span type="rp">（</span><span type="rt">みほこ</span><span type="rp">）</span></span>とり、かく<span type="ruby"><span type="rb">起</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ちましぬ。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その三</span>
+<lb />
+日はのぼる、旗雲の照りの<span type="ruby"><span type="rb">茜</span><span type="rp">（</span><span type="rt">あかね</span><span type="rp">）</span></span>を、<lb />
+いざ御船、出でませや、<span type="ruby"><span type="rb">明</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">日向</span><span type="rp">（</span><span type="rt">ひむか</span><span type="rp">）</span></span>を。<lb />
+<lb />
+海凪ぎぬ、<span type="ruby"><span type="rb">満潮</span><span type="rp">（</span><span type="rt">みちしほ</span><span type="rp">）</span></span>のゆたのたゆたに、<lb />
+いざ行かせ、照り<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">ぐは</span><span type="rp">）</span></span>しその<span type="ruby"><span type="rb">海道</span><span type="rp">（</span><span type="rt">うみつぢ</span><span type="rp">）</span></span>。<lb />
+<lb />
+海凪ぎぬ、朝ぼらけ<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>もかなひぬ、<lb />
+<span type="ruby"><span type="rb">艫</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span><span type="ruby"><span type="rb">舳</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">接</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>ぎ、<span type="ruby"><span type="rb">大御船</span><span type="rp">（</span><span type="rt">おほみふね</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">御船出</span><span type="rp">（</span><span type="rt">みふなで</span><span type="rp">）</span></span>今ぞ。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi114">第四章　御船謡</span></span></span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声（独唱竝に合唱）</span><lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その一</span>
+<lb />
+<span type="ruby"><span type="rb">御船出</span><span type="rp">（</span><span type="rt">みふなで</span><span type="rp">）</span></span>ぞ、<span type="ruby"><span type="rb">大御船出</span><span type="rp">（</span><span type="rt">おほみふなで</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">御伴船</span><span type="rp">（</span><span type="rt">みともぶね</span><span type="rp">）</span></span><span type="ruby"><span type="rb">挙</span><span type="rp">（</span><span type="rt">こぞ</span><span type="rp">）</span></span>りさもらへ、<lb />
+<span type="ruby"><span type="rb">御伴</span><span type="rp">（</span><span type="rt">みとも</span><span type="rp">）</span></span>びと<span type="ruby"><span type="rb">挙</span><span type="rp">（</span><span type="rt">こぞ</span><span type="rp">）</span></span>り仰げや。<lb />
+<span type="ruby"><span type="rb">揺</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>りとよめ<span type="ruby"><span type="rb">科戸</span><span type="rp">（</span><span type="rt">しなど</span><span type="rp">）</span></span>の風と<lb />
+声放て、東に向きて。<lb />
+<span type="ruby"><span type="rb">大御船</span><span type="rp">（</span><span type="rt">おほみふね</span><span type="rp">）</span></span><span type="ruby"><span type="rb">真梶</span><span type="rp">（</span><span type="rt">まかぢ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">繁</span><span type="rp">（</span><span type="rt">しじ</span><span type="rp">）</span></span>ぬき、<lb />
+照りわたる<span type="ruby"><span type="rb">御弓</span><span type="rp">（</span><span type="rt">みゆみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">弭</span><span type="rp">（</span><span type="rt">ゆはず</span><span type="rp">）</span></span>、<lb />
+あな<span type="ruby"><span type="rb">清明</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>け、神にします、<lb />
+あな<span type="ruby"><span type="rb">眩</span><span type="rp">（</span><span type="rt">まば</span><span type="rp">）</span></span>ゆ、<span type="ruby"><span type="rb">皇子</span><span type="rp">（</span><span type="rt">みこ</span><span type="rp">）</span></span>にします。<lb />
+はろばろや<span type="ruby"><span type="rb">大海原</span><span type="rp">（</span><span type="rt">おほうなばら</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">涯</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>なしや<span type="ruby"><span type="rb">青水沫</span><span type="rp">（</span><span type="rt">あをみなわ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">揺</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>りとよめ大き<span type="ruby"><span type="rb">国民</span><span type="rp">（</span><span type="rt">くにたみ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">大君</span><span type="rp">（</span><span type="rt">おほきみ</span><span type="rp">）</span></span>に、<lb />
+この神に、<lb />
+<span type="ruby"><span type="rb">讃</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">ごと</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">寿詞</span><span type="rp">（</span><span type="rt">よごと</span><span type="rp">）</span></span>申せや。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その二</span>
+<lb />
+荒海の、<lb />
+荒海の潮の<span type="ruby"><span type="rb">八百道</span><span type="rp">（</span><span type="rt">やほぢ</span><span type="rp">）</span></span>の、<lb />
+<span type="ruby"><span type="rb">八潮道</span><span type="rp">（</span><span type="rt">やしほぢ</span><span type="rp">）</span></span>の、<lb />
+潮の<span type="ruby"><span type="rb">八百会</span><span type="rp">（</span><span type="rt">やほあひ</span><span type="rp">）</span></span>に、ハレヤ、<lb />
+とどろ<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>す<span type="ruby"><span type="rb">速開津姫</span><span type="rp">（</span><span type="rt">はやあきつひめ</span><span type="rp">）</span></span>に、<lb />
+<span type="ruby"><span type="rb">朝開</span><span type="rp">（</span><span type="rt">あさびらき</span><span type="rp">）</span></span>、朝のみ霧の<lb />
+<span type="ruby"><span type="rb">遠白</span><span type="rp">（</span><span type="rt">とほじろ</span><span type="rp">）</span></span>に、<lb />
+<span type="ruby"><span type="rb">末</span><span type="rp">（</span><span type="rt">すゑ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">鎮</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>み<lb />
+<span type="ruby"><span type="rb">鎮</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>まらせ、<lb />
+み眼すがすがと<span type="ruby"><span type="rb">笑</span><span type="rp">（</span><span type="rt">ゑ</span><span type="rp">）</span></span>ませとぞ、<lb />
+きこしめせと申さく<lb />
+み<span type="ruby"><span type="rb">船謡</span><span type="rp">（</span><span type="rt">ふなうた</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その三</span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="futoji">い</span></span>
+<lb />
+ヤァハレ<lb />
+<span type="ruby"><span type="rb">海原</span><span type="rp">（</span><span type="rt">うなばら</span><span type="rp">）</span></span>や青海原。<lb />
+<lb />
+ヤァハレ<lb />
+<span type="ruby"><span type="rb">青雲</span><span type="rp">（</span><span type="rt">あをぐも</span><span type="rp">）</span></span>やそのそぎ<span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">たち</span><span type="rp">）</span></span>、<lb />
+その<span type="ruby"><span type="rb">極</span><span type="rp">（</span><span type="rt">きは</span><span type="rp">）</span></span>み、こをば。<lb />
+<lb />
+我が海と<span type="ruby"><span type="rb">大君</span><span type="rp">（</span><span type="rt">おほきみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">宣</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>らす、<lb />
+我が<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">そら</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">皇孫</span><span type="rp">（</span><span type="rt">すめみま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">領</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らす。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="futoji">ろ</span></span>
+<lb />
+ヤァハレ<lb />
+<span type="ruby"><span type="rb">潮<span facs="../../../gaiji/1-87/1-87-04.png" rend="gaiji" rendition="img" source="※(「さんずい＋區」、第3水準1-87-4)" /></span><span type="rp">（</span><span type="rt">しほなわ</span><span type="rp">）</span></span>のとどまるかぎり、<lb />
+舟の<span type="ruby"><span type="rb">舳</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>の行き行くきはみ。<lb />
+<lb />
+ヤァハレ<lb />
+島かけて、<span type="ruby"><span type="rb">八十嶋</span><span type="rp">（</span><span type="rt">やそしま</span><span type="rp">）</span></span>かけて、<lb />
+<span type="ruby"><span type="rb">大海</span><span type="rp">（</span><span type="rt">おほうみ</span><span type="rp">）</span></span>に舟満ちつづけて。<lb />
+<lb />
+見はるかし<span type="ruby"><span type="rb">大君</span><span type="rp">（</span><span type="rt">おほきみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">宣</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>らす、<lb />
+<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">よも</span><span type="rp">）</span></span>つ海<span type="ruby"><span type="rb">皇孫</span><span type="rp">（</span><span type="rt">すめみま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">領</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らす。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="futoji">は</span></span>
+<lb />
+ヤァハレ<lb />
+<span type="ruby"><span type="rb">国土</span><span type="rp">（</span><span type="rt">くにつち</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">大国土</span><span type="rp">（</span><span type="rt">おほくにつち</span><span type="rp">）</span></span>。<lb />
+<lb />
+ヤァハレ<lb />
+国の<span type="ruby"><span type="rb">壁</span><span type="rp">（</span><span type="rt">かべ</span><span type="rp">）</span></span>そのそぎ<span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">たち</span><span type="rp">）</span></span>、<lb />
+その極み、こをば。<lb />
+<lb />
+我が国と<span type="ruby"><span type="rb">大君</span><span type="rp">（</span><span type="rt">おほきみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">宣</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>らす、<lb />
+我が土と<span type="ruby"><span type="rb">皇孫</span><span type="rp">（</span><span type="rt">すめみま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">領</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らす。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="futoji">に</span></span>
+<lb />
+ヤァハレ<lb />
+<span type="ruby"><span type="rb">青雲</span><span type="rp">（</span><span type="rt">あをぐも</span><span type="rp">）</span></span>のそぎ立つきはみ、<lb />
+<span type="ruby"><span type="rb">白雲</span><span type="rp">（</span><span type="rt">しらくも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">向伏</span><span type="rp">（</span><span type="rt">むかふ</span><span type="rp">）</span></span>すかぎり。<lb />
+<lb />
+ヤァハレ<lb />
+<span type="ruby"><span type="rb">谷蟆</span><span type="rp">（</span><span type="rt">たにぐく</span><span type="rp">）</span></span>のさわたるきはみ、<lb />
+馬の爪とどまるかぎり。<lb />
+<lb />
+見はるかし、<span type="ruby"><span type="rb">大君</span><span type="rp">（</span><span type="rt">おほきみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">宣</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>らす、<lb />
+<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">よも</span><span type="rp">）</span></span>つ国<span type="ruby"><span type="rb">皇孫</span><span type="rp">（</span><span type="rt">すめみま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">領</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らす。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="futoji">ほ</span></span>
+<lb />
+ヤ<lb />
+<span type="ruby"><span type="rb">狭</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>の国は広くと、<lb />
+ヤ<lb />
+<span type="ruby"><span type="rb">嶮</span><span type="rp">（</span><span type="rt">けは</span><span type="rp">）</span></span>し国<span type="ruby"><span type="rb">平</span><span type="rp">（</span><span type="rt">たひ</span><span type="rp">）</span></span>らけくや。<lb />
+ヤ<lb />
+遠き国は<span type="ruby"><span type="rb">綱</span><span type="rp">（</span><span type="rt">つな</span><span type="rp">）</span></span>うち掛け、<lb />
+もそろよと、<lb />
+もそろと、<lb />
+国引くと、引き寄すと。<lb />
+<lb />
+あなおほら、<span type="ruby"><span type="rb">大君</span><span type="rp">（</span><span type="rt">おほきみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">宣</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>らす、<lb />
+あなをかし<span type="ruby"><span type="rb">目翳</span><span type="rp">（</span><span type="rt">まかげ</span><span type="rp">）</span></span>しおはす。<lb />
+<lb />
+<span type="ruby"><span type="rb">善</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>しや、<span type="ruby"><span type="rb">善</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>しや、<span type="ruby"><span type="rb">弥栄</span><span type="rp">（</span><span type="rt">いやさか</span><span type="rp">）</span></span>。<lb />
+とどろとどろ、<span type="ruby"><span type="rb">弥栄</span><span type="rp">（</span><span type="rt">いやさか</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi115">第五章　速吸と菟狭</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その一</span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声独唱</span><lb />
+<lb />
+<span type="ruby"><span type="rb">海原</span><span type="rp">（</span><span type="rt">うなばら</span><span type="rp">）</span></span>や青海原、<lb />
+<span type="ruby"><span type="rb">海道</span><span type="rp">（</span><span type="rt">うみつぢ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">導</span><span type="rp">（</span><span type="rt">みちびき</span><span type="rp">）</span></span>や、早や<span type="ruby"><span type="rb">槁根津日子</span><span type="rp">（</span><span type="rt">さをねつひこ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">速吸</span><span type="rp">（</span><span type="rt">はやすひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">水門</span><span type="rp">（</span><span type="rt">みと</span><span type="rp">）</span></span>になも、その<span type="ruby"><span type="rb">珍彦</span><span type="rp">（</span><span type="rt">うづひこ</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span rend="sho1" style="font-size: small;">童声或は女声合唱（童ぶり）</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+亀の甲に揺られて、<lb />
+<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>の瀬に揺られて、<lb />
+かぶりかうぶり<span type="ruby"><span type="rb">海</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">棹</span><span type="rp">（</span><span type="rt">さを</span><span type="rp">）</span></span>やらな、<span type="ruby"><span type="rb">附</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いまゐれ、<lb />
+波かぶりかぶるに、<lb />
+み船へと移らせ、<lb />
+名をのれ早や早や、<lb />
+み船へまゐ<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">づ</span><span type="rp">）</span></span>るは<lb />
+<span type="ruby"><span type="rb">臣</span><span type="rp">（</span><span type="rt">やつこ</span><span type="rp">）</span></span>ぞとそれまをす。<lb />
+国つ神と<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ひこごむ。<lb />
+潮みづく国つ神、<lb />
+<span type="ruby"><span type="rb">海豚</span><span type="rp">（</span><span type="rt">いるか</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">見</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>よな、<lb />
+<span type="ruby"><span type="rb">遠眼</span><span type="rp">（</span><span type="rt">とほめ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">鋭眼</span><span type="rp">（</span><span type="rt">とめ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">慧</span><span type="rp">（</span><span type="rt">さか</span><span type="rp">）</span></span>しな、<lb />
+<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ぶり<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ぶりおもしろ。<lb />
+</span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その二</span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声女声（交互に唱和竝に合唱）</span><lb />
+<lb />
+<span type="ruby"><span type="rb">菟狭</span><span type="rp">（</span><span type="rt">うさ</span><span type="rp">）</span></span>はよ、さす<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">水上</span><span type="rp">（</span><span type="rt">みなかみ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">豊国</span><span type="rp">（</span><span type="rt">とよくに</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">行宮</span><span type="rp">（</span><span type="rt">かりみや</span><span type="rp">）</span></span>。<lb />
+ああはれ<span type="ruby"><span type="rb">足一騰宮</span><span type="rp">（</span><span type="rt">あしひとつあがりのみや</span><span type="rp">）</span></span>とよ、<span type="ruby"><span type="rb">行宮</span><span type="rp">（</span><span type="rt">かりみや</span><span type="rp">）</span></span>。<lb />
+<lb />
+　<span type="ruby"><span type="rb">足一騰宮</span><span type="rp">（</span><span type="rt">あしひとつあがりのみや</span><span type="rp">）</span></span>は、<span type="ruby"><span type="rb">行宮</span><span type="rp">（</span><span type="rt">かりみや</span><span type="rp">）</span></span>と<lb />
+　青の岩根に<span type="ruby"><span type="rb">一柱</span><span type="rp">（</span><span type="rt">ひとはしら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>す。<lb />
+<lb />
+　<span type="ruby"><span type="rb">足一騰宮</span><span type="rp">（</span><span type="rt">あしひとつあがりのみや</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">参出</span><span type="rp">（</span><span type="rt">まゐづ</span><span type="rp">）</span></span>ると、<lb />
+　大わたの亀や、川のぼり<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>る。<lb />
+<lb />
+　<span type="ruby"><span type="rb">足一騰宮</span><span type="rp">（</span><span type="rt">あしひとつあがりのみや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">大御饗</span><span type="rp">（</span><span type="rt">おほみあへ</span><span type="rp">）</span></span>、<lb />
+　<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">献</span><span type="rp">（</span><span type="rt">たてまつ</span><span type="rp">）</span></span>る、はるか雲居に。<lb />
+<lb />
+　<span type="ruby"><span type="rb">足一騰宮</span><span type="rp">（</span><span type="rt">あしひとつあがりのみや</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">菟狭津彦</span><span type="rp">（</span><span type="rt">うさつひこ</span><span type="rp">）</span></span>、<lb />
+　<span type="ruby"><span type="rb">朝</span><span type="rp">（</span><span type="rt">あした</span><span type="rp">）</span></span>さもらふ、<span type="ruby"><span type="rb">夕</span><span type="rp">（</span><span type="rt">ゆふべ</span><span type="rp">）</span></span>さもらふ。<lb />
+<lb />
+　<span type="ruby"><span type="rb">足一騰宮</span><span type="rp">（</span><span type="rt">あしひとつあがりのみや</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">湍</span><span type="rp">（</span><span type="rt">たぎ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>や、<lb />
+　足一つ<span type="ruby"><span type="rb">騰</span><span type="rp">（</span><span type="rt">あが</span><span type="rp">）</span></span>り、雲の<span type="ruby"><span type="rb">辺</span><span type="rp">（</span><span type="rt">べ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>す。<lb />
+<lb />
+　　ええしや、をしや、<lb />
+　　ええしや、をしや。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi116">第六章　海道回顧</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その一</span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声女声（交互に唱和竝に合唱）</span><lb />
+<lb />
+かがなべて、日を<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>を、<span type="ruby"><span type="rb">海原</span><span type="rp">（</span><span type="rt">うなばら</span><span type="rp">）</span></span>渡り、<lb />
+かがなべて、<span type="ruby"><span type="rb">将</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>た歳を、宮<span type="ruby"><span type="rb">遷</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>らしき。<lb />
+　　ああはれ、その<span type="ruby"><span type="rb">幾歳</span><span type="rp">（</span><span type="rt">いくとせ</span><span type="rp">）</span></span>、<lb />
+　　ああはれ、その行き行き。<lb />
+<lb />
+年ごとに、<span type="ruby"><span type="rb">御伴船</span><span type="rp">（</span><span type="rt">みともぶね</span><span type="rp">）</span></span>、いや<span type="ruby"><span type="rb">数</span><span type="rp">（</span><span type="rt">かず</span><span type="rp">）</span></span><span type="ruby"><span type="rb">殖</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>えぬ、<lb />
+つぎつぎに、<span type="ruby"><span type="rb">御従</span><span type="rp">（</span><span type="rt">みつき</span><span type="rp">）</span></span>びと、またいや増しぬ。<lb />
+　　ああはれ、また<span type="ruby"><span type="rb">春秋</span><span type="rp">（</span><span type="rt">はるあき</span><span type="rp">）</span></span>、<lb />
+　　ああはれ、そが<span type="ruby"><span type="rb">海山</span><span type="rp">（</span><span type="rt">うみやま</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その二</span>
+<lb />
+月の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">足一騰宮</span><span type="rp">（</span><span type="rt">あしひとつあがりのみや</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">一年</span><span type="rp">（</span><span type="rt">ひととせ</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">筑紫</span><span type="rp">（</span><span type="rt">つくし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">崗田</span><span type="rp">（</span><span type="rt">をかだ</span><span type="rp">）</span></span>の宮。<lb />
+<lb />
+<span type="ruby"><span type="rb">多祁理</span><span type="rp">（</span><span type="rt">たけり</span><span type="rp">）</span></span>とも、<span type="ruby"><span type="rb">阿岐</span><span type="rp">（</span><span type="rt">あき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">埃</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>の宮、<lb />
+たづたづや、<span type="ruby"><span type="rb">七年</span><span type="rp">（</span><span type="rt">ななとせ</span><span type="rp">）</span></span>や。あはれ。<lb />
+<lb />
+<span type="ruby"><span type="rb">吉備</span><span type="rp">（</span><span type="rt">きび</span><span type="rp">）</span></span>にして、また<span type="ruby"><span type="rb">八年</span><span type="rp">（</span><span type="rt">やとせ</span><span type="rp">）</span></span>、高嶋の宮、<lb />
+大和はも遠しとよ、高千穂よ遥けしと。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その三</span>
+<lb />
+かがなべて、日を<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>を、<span type="ruby"><span type="rb">海原</span><span type="rp">（</span><span type="rt">うなばら</span><span type="rp">）</span></span>渡り、<lb />
+かがなべて、<span type="ruby"><span type="rb">将</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>た<span type="ruby"><span type="rb">歳</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>を、宮遷らしき。<lb />
+　　ああはれ、その<span type="ruby"><span type="rb">幾歳</span><span type="rp">（</span><span type="rt">いくとせ</span><span type="rp">）</span></span>、<lb />
+　　ああはれ、その行き行き。<lb />
+<lb />
+満ち満つや、み<span type="ruby"><span type="rb">蓄</span><span type="rp">（</span><span type="rt">たくはへ</span><span type="rp">）</span></span>、早やかく成りぬ、<lb />
+<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>ことむけむ、<span type="ruby"><span type="rb">秋</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>今成りぬ。<lb />
+　　ああはれ、えしや、<lb />
+　　ああはれ、今ぞ<span type="ruby"><span type="rb">秋</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>や。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi117">第七章　白肩の津上陸</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その一</span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声（独唱竝に合唱）</span><lb />
+<lb />
+<span type="ruby"><span type="rb">青雲</span><span type="rp">（</span><span type="rt">あをぐも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">白肩</span><span type="rp">（</span><span type="rt">しらかた</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">津</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>、その津に、<lb />
+<span type="ruby"><span type="rb">雄</span><span type="rp">（</span><span type="rt">を</span><span type="rp">）</span></span>たけびぞ今あがる、<span type="ruby"><span type="rb">御船</span><span type="rp">（</span><span type="rt">みふね</span><span type="rp">）</span></span><span type="ruby"><span type="rb">泊</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>てぬ。<lb />
+　　いざのぼれ<span type="ruby"><span type="rb">大御軍</span><span type="rp">（</span><span type="rt">おほみいくさ</span><span type="rp">）</span></span>、<lb />
+　　いざ奮へ<span type="ruby"><span type="rb">丈夫</span><span type="rp">（</span><span type="rt">ますらを</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">浪速</span><span type="rp">（</span><span type="rt">なみはや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">辺</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>に騒ぐ<span type="ruby"><span type="rb">味鳧</span><span type="rp">（</span><span type="rt">あぢがも</span><span type="rp">）</span></span>や、その<span type="ruby"><span type="rb">渚</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>を、<lb />
+追ひ押しに押しのぼり、み<span type="ruby"><span type="rb">楯</span><span type="rp">（</span><span type="rt">たて</span><span type="rp">）</span></span><span type="ruby"><span type="rb">竝</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めぬ。<lb />
+　　いざのぼれ<span type="ruby"><span type="rb">大御軍</span><span type="rp">（</span><span type="rt">おほみいくさ</span><span type="rp">）</span></span>、<lb />
+　　いざ奮へ<span type="ruby"><span type="rb">丈夫</span><span type="rp">（</span><span type="rt">ますらを</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">その二</span>
+<lb />
+<span type="ruby"><span type="rb">日下江</span><span type="rp">（</span><span type="rt">くさかえ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">蓼津</span><span type="rp">（</span><span type="rt">たでつ</span><span type="rp">）</span></span>、その津に、<lb />
+雄たけびぞ今あがる、<span type="ruby"><span type="rb">大御軍</span><span type="rp">（</span><span type="rt">おほみいくさ</span><span type="rp">）</span></span>。<lb />
+　　いざのぼれ、大和は近し、<lb />
+　　いざ奮へ<span type="ruby"><span type="rb">丈夫</span><span type="rp">（</span><span type="rt">ますらを</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">浪速</span><span type="rp">（</span><span type="rt">なみはや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">うしほ</span><span type="rp">）</span></span>なし<span type="ruby"><span type="rb">遡</span><span type="rp">（</span><span type="rt">さかのぼ</span><span type="rp">）</span></span>ると、<lb />
+我が行かば何はばむ、<span type="ruby"><span type="rb">長髄彦</span><span type="rp">（</span><span type="rt">ながすねひこ</span><span type="rp">）</span></span>。<lb />
+　　いざのぼれ、大和は近し、<lb />
+　　いざ奮へ<span type="ruby"><span type="rb">丈夫</span><span type="rp">（</span><span type="rt">ますらを</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi118">第八章　天業恢弘</span></span></span>
+<lb />
+<span rend="sho1" style="font-size: small;">男声女声（独唱斉唱竝に合唱）</span><lb />
+<lb />
+神<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>しき、<span type="ruby"><span type="rb">蒼雲</span><span type="rp">（</span><span type="rt">あをぐも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">うへ</span><span type="rp">）</span></span>に高く、<lb />
+高千穂や<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-86/1-86-05.png" rend="gaiji" rendition="img" source="※(「木＋患」、第3水準1-86-5)" />触峯</span><span type="rp">（</span><span type="rt">くじふるたけ</span><span type="rp">）</span></span>。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなりその<span type="ruby"><span type="rb">肇国</span><span type="rp">（</span><span type="rt">はつくに</span><span type="rp">）</span></span>、<lb />
+　　<span type="ruby"><span type="rb">窮</span><span type="rp">（</span><span type="rt">きは</span><span type="rp">）</span></span>みなし<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>つみ<span type="ruby"><span type="rb">業</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>、<lb />
+　　いざ仰げ<span type="ruby"><span type="rb">大御言</span><span type="rp">（</span><span type="rt">おほみこと</span><span type="rp">）</span></span>を、<lb />
+　　<span type="ruby"><span type="rb">畏</span><span type="rp">（</span><span type="rt">かしこ</span><span type="rp">）</span></span>きや<span type="ruby"><span type="rb">清</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">御鏡</span><span type="rp">（</span><span type="rt">みかがみ</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">国</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>ありき、綿津見の<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">稚</span><span type="rp">（</span><span type="rt">わか</span><span type="rp">）</span></span>く、<lb />
+<span type="ruby"><span type="rb">光宅</span><span type="rp">（</span><span type="rt">みちた</span><span type="rp">）</span></span>らし、<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">よも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">中央</span><span type="rp">（</span><span type="rt">もなか</span><span type="rp">）</span></span>。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなりその<span type="ruby"><span type="rb">国生</span><span type="rp">（</span><span type="rt">くにうみ</span><span type="rp">）</span></span>、<lb />
+　　かぎりなし天つ<span type="ruby"><span type="rb">日嗣</span><span type="rp">（</span><span type="rt">ひつぎ</span><span type="rp">）</span></span>、<lb />
+　　いざ継がせ<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">こと</span><span type="rp">）</span></span><span type="ruby"><span type="rb">依</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>さすもの、<lb />
+　　<span type="ruby"><span type="rb">勾玉</span><span type="rp">（</span><span type="rt">まがたま</span><span type="rp">）</span></span>とにほひ<span type="ruby"><span type="rb">綴</span><span type="rp">（</span><span type="rt">つづ</span><span type="rp">）</span></span>らせ。<lb />
+<lb />
+<span type="ruby"><span type="rb">道</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>ありき、<span type="ruby"><span type="rb">古</span><span type="rp">（</span><span type="rt">いにしへ</span><span type="rp">）</span></span>もかくぞ響きて、<lb />
+つらぬくや、この<span type="ruby"><span type="rb">天地</span><span type="rp">（</span><span type="rt">あめつち</span><span type="rp">）</span></span>。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなりその<span type="ruby"><span type="rb">神性</span><span type="rp">（</span><span type="rt">かむさが</span><span type="rp">）</span></span>、<lb />
+　　おぎろなしみ<span type="ruby"><span type="rb">剣</span><span type="rp">（</span><span type="rt">つるぎ</span><span type="rp">）</span></span>よ<span type="ruby"><span type="rb">太刀</span><span type="rp">（</span><span type="rt">たち</span><span type="rp">）</span></span>、<lb />
+　　いざ討たせまつろはぬもの、<lb />
+　　ひたに<span type="ruby"><span type="rb">討</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>ち、しかも<span type="ruby"><span type="rb">和</span><span type="rp">（</span><span type="rt">やは</span><span type="rp">）</span></span>せや。<lb />
+<lb />
+雲蒼し、<span type="ruby"><span type="rb">神</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>さぶと<span type="ruby"><span type="rb">弥</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>とこしへ、<lb />
+照り<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">ぐは</span><span type="rp">）</span></span>し我が<span type="ruby"><span type="rb">山河</span><span type="rp">（</span><span type="rt">やまかは</span><span type="rp">）</span></span>。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなりその<span type="ruby"><span type="rb">国柄</span><span type="rp">（</span><span type="rt">くにがら</span><span type="rp">）</span></span>、<lb />
+　　<span type="ruby"><span type="rb">動</span><span type="rp">（</span><span type="rt">ゆる</span><span type="rp">）</span></span>ぎなし底つ<span type="ruby"><span type="rb">磐根</span><span type="rp">（</span><span type="rt">いはね</span><span type="rp">）</span></span>、<lb />
+　　いざ起たせ<span type="ruby"><span type="rb">天皇</span><span type="rp">（</span><span type="rt">すめらみこと</span><span type="rp">）</span></span>、<lb />
+　　<span type="ruby"><span type="rb">神倭磐余彦命</span><span type="rp">（</span><span type="rt">かむやまといはれひこのみこと</span><span type="rp">）</span></span>。<lb />
+<lb />
+神と<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>す<span type="ruby"><span type="rb">大稜威</span><span type="rp">（</span><span type="rt">おほみいつ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">高領</span><span type="rp">（</span><span type="rt">たかし</span><span type="rp">）</span></span>らせば、<lb />
+<span type="ruby"><span type="rb">八紘</span><span type="rp">（</span><span type="rt">あめのした</span><span type="rp">）</span></span><span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">宇</span><span type="rp">（</span><span type="rt">いへ</span><span type="rp">）</span></span>とぞ。<lb />
+　　<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-92/1-92-58.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋貌」、第3水準1-92-58)" /></span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かなりその<span type="ruby"><span type="rb">肇国</span><span type="rp">（</span><span type="rt">はつくに</span><span type="rp">）</span></span>、<lb />
+　　<span type="ruby"><span type="rb">涯</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>も無し<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>つみ<span type="ruby"><span type="rb">業</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>、<lb />
+　　いざ<span type="ruby"><span type="rb">領</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らせ<span type="ruby"><span type="rb">大和</span><span type="rp">（</span><span type="rt">やまと</span><span type="rp">）</span></span>ここに、<lb />
+　　雄たけびぞ、<span type="ruby"><span type="rb">弥栄</span><span type="rp">（</span><span type="rt">いやさか</span><span type="rp">）</span></span>を我等。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi218">建速須佐之男命</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi228">
+建速須佐之男命<lb />
+<lb />
+　枯山の巻<lb />
+</span></span>
+</span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi229">第一段</span></span></span>
+<lb />
+をを、をを、<lb />
+をを。<lb />
+神ぞ<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">を</span><span type="rp">）</span></span>れ、<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>び哭く<lb />
+<span type="ruby"><span type="rb">冥</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>き神、<lb />
+<span type="ruby"><span type="rb">神性</span><span type="rp">（</span><span type="rt">かむさが</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">霹靂</span><span type="rp">（</span><span type="rt">はたたがみ</span><span type="rp">）</span></span>と<lb />
+<span type="ruby"><span type="rb">猛猛</span><span type="rp">（</span><span type="rt">たけだけ</span><span type="rp">）</span></span>し、ひと柱、<lb />
+しや、<span type="ruby"><span type="rb">須佐之</span><span type="rp">（</span><span type="rt">すさの</span><span type="rp">）</span></span><span type="ruby"><span type="rb">男命</span><span type="rp">（</span><span type="rt">をのみこと</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">建須佐之男</span><span type="rp">（</span><span type="rt">たけすさのを</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">速須佐之男</span><span type="rp">（</span><span type="rt">はやすさのを</span><span type="rp">）</span></span>、<lb />
+ひたぶるや、<span type="ruby"><span type="rb">益良神</span><span type="rp">（</span><span type="rt">ますらがみ</span><span type="rp">）</span></span>と<lb />
+<span type="ruby"><span type="rb">暴</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>ぶる<span type="ruby"><span type="rb">荒御魂</span><span type="rp">（</span><span type="rt">あらみたま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">大童</span><span type="rp">（</span><span type="rt">おほわらはべ</span><span type="rp">）</span></span><lb />
+雄叫び、<lb />
+泣きいさち、<lb />
+<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-93/1-93-84.png" rend="gaiji" rendition="img" source="※(「韋＋備のつくり」、第3水準1-93-84)" /></span><span type="rp">（</span><span type="rt">たたら</span><span type="rp">）</span></span>踏み、<lb />
+<span type="ruby"><span type="rb">蹴</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>ゑはららかすや、<lb />
+<span type="ruby"><span type="rb">纏</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>き、放つ<span type="ruby"><span type="rb">湯津爪櫛</span><span type="rp">（</span><span type="rt">ゆづつまぐし</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">美豆良</span><span type="rp">（</span><span type="rt">みづら</span><span type="rp">）</span></span>振り乱り、<lb />
+拳たたき、<lb />
+掻い垂らす、<span type="ruby"><span type="rb">胸前</span><span type="rp">（</span><span type="rt">むなさき</span><span type="rp">）</span></span>や<lb />
+振り分つ<span type="ruby"><span type="rb">八握髭</span><span type="rp">（</span><span type="rt">やつかひげ</span><span type="rp">）</span></span>、<lb />
+鳴りとよむ<span type="ruby"><span type="rb">御統</span><span type="rp">（</span><span type="rt">みすまる</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">御珠</span><span type="rp">（</span><span type="rt">みたま</span><span type="rp">）</span></span>、頸珠、<lb />
+<span type="ruby"><span type="rb">手纏</span><span type="rp">（</span><span type="rt">たまき</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">釧</span><span type="rp">（</span><span type="rt">ひぢまき</span><span type="rp">）</span></span>や、<lb />
+ゆらかす足玉の緒もゆらに<lb />
+揺り立て、<lb />
+揺り<span type="ruby"><span type="rb">荒</span><span type="rp">（</span><span type="rt">すさ</span><span type="rp">）</span></span>べば、<lb />
+凄まじ、この生み<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>の神、<lb />
+さながらや、<span type="ruby"><span type="rb">海阪</span><span type="rp">（</span><span type="rt">うなざか</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">昂騰</span><span type="rp">（</span><span type="rt">あがり</span><span type="rp">）</span></span><lb />
+押し移る<lb />
+<span type="ruby"><span type="rb">神立雲</span><span type="rp">（</span><span type="rt">かんだちぐも</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">早手風</span><span type="rp">（</span><span type="rt">はやて</span><span type="rp">）</span></span>、飛ぶ<span type="ruby"><span type="rb">電光</span><span type="rp">（</span><span type="rt">いなづま</span><span type="rp">）</span></span>、<lb />
+とどろ立つ<span type="ruby"><span type="rb">蒼</span><span type="rp">（</span><span type="rt">あを</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-91/1-91-50.png" rend="gaiji" rendition="img" source="※(「虫＋礼のつくり」、第3水準1-91-50)" /></span><span type="rp">（</span><span type="rt">みづち</span><span type="rp">）</span></span>、<lb />
+閃めく<span type="ruby"><span type="rb">掻爪</span><span type="rp">（</span><span type="rt">かきづめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">焦</span><span type="rp">（</span><span type="rt">いら</span><span type="rp">）</span></span>ちを、巻き<span type="ruby"><span type="rb">崩</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>れて<lb />
+覆す<span type="ruby"><span type="rb">鱗魚</span><span type="rp">（</span><span type="rt">うろくづ</span><span type="rp">）</span></span>の大降り雨、<lb />
+かく嘆けば、<lb />
+かく<span type="ruby"><span type="rb">哭</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>べば、<lb />
+泣き<span type="ruby"><span type="rb">腐</span><span type="rp">（</span><span type="rt">くた</span><span type="rp">）</span></span>し、泣き<span type="ruby"><span type="rb">噪</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>れば、<lb />
+うち<span type="ruby"><span type="rb">冥</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>む世のことごと、<lb />
+降り<span type="ruby"><span type="rb">腐</span><span type="rp">（</span><span type="rt">くた</span><span type="rp">）</span></span>すそのことごと、<lb />
+海河も泣き涸らすと、<lb />
+しとど垂る<span type="ruby"><span type="rb">長霖雨</span><span type="rp">（</span><span type="rt">ながつゆ</span><span type="rp">）</span></span>や、ああ、<lb />
+光無し、時無し雨、<lb />
+日も無し、<lb />
+<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>はも無し、<lb />
+ただ<span type="ruby"><span type="rb">恋</span><span type="rp">（</span><span type="rt">こほ</span><span type="rp">）</span></span>し、<span type="ruby"><span type="rb">妣</span><span type="rp">（</span><span type="rt">はは</span><span type="rp">）</span></span>の国、<lb />
+ただ遠し、<span type="ruby"><span type="rb">根</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">堅洲国</span><span type="rp">（</span><span type="rt">かたすくに</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">欝</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>にただ、<span type="ruby"><span type="rb">欝</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>に泣き<span type="ruby"><span type="rb">隠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>りぬ。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">第二段</span></span></span>
+<lb />
+をを、をを、<lb />
+をを。<lb />
+神ぞ居れ、<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>び<span type="ruby"><span type="rb">哭</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>く<lb />
+<span type="ruby"><span type="rb">冥</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>き神、<lb />
+おどろしき<span type="ruby"><span type="rb">神性</span><span type="rp">（</span><span type="rt">かむさが</span><span type="rp">）</span></span>の、<lb />
+ひたぶるの<span type="ruby"><span type="rb">人性</span><span type="rp">（</span><span type="rt">ひとさが</span><span type="rp">）</span></span>の、<lb />
+しゑや、<span type="ruby"><span type="rb">縦</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>しや、善き悪しき、<lb />
+ただ歎く<span type="ruby"><span type="rb">暴風雨</span><span type="rp">（</span><span type="rt">おほしけ</span><span type="rp">）</span></span>の神、<lb />
+霧立つや八雲立つ<lb />
+出雲の子ら、<lb />
+<span type="ruby"><span type="rb">大族</span><span type="rp">（</span><span type="rt">おほうから</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">国造</span><span type="rp">（</span><span type="rt">くにつこ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">祖先神</span><span type="rp">（</span><span type="rt">みおやがみ</span><span type="rp">）</span></span>、<lb />
+しや、<span type="ruby"><span type="rb">建速</span><span type="rp">（</span><span type="rt">たけはや</span><span type="rp">）</span></span><span type="ruby"><span type="rb">須佐之男命</span><span type="rp">（</span><span type="rt">すさのをのみこと</span><span type="rp">）</span></span>、<lb />
+この命ぞ、<lb />
+<span type="ruby"><span type="rb">秀</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>に見る空のさきざき、<lb />
+眼に見る国のまほろば、<lb />
+たたなづく青垣山は<lb />
+青山の<span type="ruby"><span type="rb">石根</span><span type="rp">（</span><span type="rt">いはね</span><span type="rp">）</span></span>、木の立、<lb />
+神弱り、泣き<span type="ruby"><span type="rb">腐</span><span type="rp">（</span><span type="rt">くた</span><span type="rp">）</span></span>すと、<lb />
+神さぶと、枯山と泣き枯らすと、<lb />
+<span type="ruby"><span type="rb">息長</span><span type="rp">（</span><span type="rt">おきなが</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">息嘯</span><span type="rp">（</span><span type="rt">おきそ</span><span type="rp">）</span></span>の風と<lb />
+雨呼ばひ、<span type="ruby"><span type="rb">哭</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>び、泣き<span type="ruby"><span type="rb">隠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>れば、<lb />
+日を<span type="ruby"><span type="rb">竝</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>べて、<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">竝</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>べて、かく歎けば、<lb />
+<span type="ruby"><span type="rb">欝</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>にただ<span type="ruby"><span type="rb">欝</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">冥</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>む。<lb />
+かくなれば、世の神神、<lb />
+をを、神神、<lb />
+<span type="ruby"><span type="rb">清明</span><span type="rp">（</span><span type="rt">まさや</span><span type="rp">）</span></span>けき、ひとしほに<span type="ruby"><span type="rb">和御魂</span><span type="rp">（</span><span type="rt">にぎみたま</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">顕</span><span type="rp">（</span><span type="rt">あき</span><span type="rp">）</span></span>らけく、<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>くしき、<lb />
+常そよぎ、<span type="ruby"><span type="rb">奇</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>ふる神、<lb />
+山と<span type="ruby"><span type="rb">野</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">精霊</span><span type="rp">（</span><span type="rt">いきすだま</span><span type="rp">）</span></span>、<lb />
+大山津見、<lb />
+<span type="ruby"><span type="rb">鹿屋野比売</span><span type="rp">（</span><span type="rt">かやぬひめ</span><span type="rp">）</span></span>二柱の神、<lb />
+そが持ち分けて生みませる神、<lb />
+もろもろの生きの<span type="ruby"><span type="rb">産巣</span><span type="rp">（</span><span type="rt">むすび</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">大地</span><span type="rp">（</span><span type="rt">おほつち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">草分</span><span type="rp">（</span><span type="rt">くさわき</span><span type="rp">）</span></span>、木の神<span type="ruby"><span type="rb">久久野智神</span><span type="rp">（</span><span type="rt">くくのちのかみ</span><span type="rp">）</span></span>、<lb />
+末ずゑの<span type="ruby"><span type="rb">岐</span><span type="rp">（</span><span type="rt">わか</span><span type="rp">）</span></span>れの神、<lb />
+澄みわたる<span type="ruby"><span type="rb">神境</span><span type="rp">（</span><span type="rt">ひもろぎ</span><span type="rp">）</span></span>や、<lb />
+<span type="ruby"><span type="rb">斎槻</span><span type="rp">（</span><span type="rt">ゆづき</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">湯津真椿</span><span type="rp">（</span><span type="rt">ゆづまつばき</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">葉広熊白樹</span><span type="rp">（</span><span type="rt">はびろくまがし</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">厳橿</span><span type="rp">（</span><span type="rt">いつかし</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">白檮</span><span type="rp">（</span><span type="rt">しらかし</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">処女檀</span><span type="rp">（</span><span type="rt">をとめまゆみ</span><span type="rp">）</span></span>、<lb />
+ああ、<span type="ruby"><span type="rb">黒檜</span><span type="rp">（</span><span type="rt">くろび</span><span type="rp">）</span></span>、雲<span type="ruby"><span type="rb">懸</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>るさるをがせ、<lb />
+雪の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>の白樺や、<lb />
+<span type="ruby"><span type="rb">水上</span><span type="rp">（</span><span type="rt">みなかみ</span><span type="rp">）</span></span>の石楠の神、<lb />
+<span type="ruby"><span type="rb">柊</span><span type="rp">（</span><span type="rt">ひひらぎ</span><span type="rp">）</span></span>や、ひらきそよご、<lb />
+<span type="ruby"><span type="rb">繁</span><span type="rp">（</span><span type="rt">しみ</span><span type="rp">）</span></span>み立つ<span type="ruby"><span type="rb">馬酔木</span><span type="rp">（</span><span type="rt">あしび</span><span type="rp">）</span></span>、黒木、<lb />
+<span type="ruby"><span type="rb">磐村</span><span type="rp">（</span><span type="rt">いはむら</span><span type="rp">）</span></span>の犬大羊歯、<lb />
+沼辺には<span type="ruby"><span type="rb">茅萱</span><span type="rp">（</span><span type="rt">ちがや</span><span type="rp">）</span></span>、葦、髪がやつり。<lb />
+もろもろの鏡葉や、<lb />
+<span type="ruby"><span type="rb">霞針</span><span type="rp">（</span><span type="rt">かすみばり</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">繊</span><span type="rp">（</span><span type="rt">ほそ</span><span type="rp">）</span></span>き葉の神、<lb />
+落葉木や、<lb />
+<span type="ruby"><span type="rb">若萠</span><span type="rp">（</span><span type="rt">わかもえ</span><span type="rp">）</span></span>の光る木の芽、<lb />
+花<span type="ruby"><span type="rb">隠</span><span type="rp">（</span><span type="rt">ごも</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">杪<span facs="../../../gaiji/2-15/2-15-82.png" rend="gaiji" rendition="img" source="※(「木＋羅」、第4水準2-15-82)" /></span><span type="rp">（</span><span type="rt">へご</span><span type="rp">）</span></span>。<lb />
+そを何ぞ、泣き枯らすもの、<lb />
+日に奪ひ、夜に奪ひ、雨ふらせば、<lb />
+ありとある<span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">たち</span><span type="rp">）</span></span>のことごと、<lb />
+ありとある色のことごと、<lb />
+<span type="ruby"><span type="rb">勢</span><span type="rp">（</span><span type="rt">きほひ</span><span type="rp">）</span></span>無し、<span type="ruby"><span type="rb">臥</span><span type="rp">（</span><span type="rt">こや</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">撓</span><span type="rp">（</span><span type="rt">たわ</span><span type="rp">）</span></span>むと、<lb />
+すべしなし、立ちも滅ぶと、<lb />
+<span type="ruby"><span type="rb">水</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">気</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>尽き、<span type="ruby"><span type="rb">素力</span><span type="rp">（</span><span type="rt">もとぢから</span><span type="rp">）</span></span>尽き、<lb />
+ああはや、匂失せぬ。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi231">第三段</span></span></span>
+<lb />
+をを、をを、<lb />
+をを。<lb />
+神ぞ<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">を</span><span type="rp">）</span></span>れ、<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>び<span type="ruby"><span type="rb">哭</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>く、<lb />
+<span type="ruby"><span type="rb">冥</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>き神、<lb />
+しや、<span type="ruby"><span type="rb">童</span><span type="rp">（</span><span type="rt">わらべ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">速須佐之男</span><span type="rp">（</span><span type="rt">はやすさのを</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">大天</span><span type="rp">（</span><span type="rt">おほあめ</span><span type="rp">）</span></span>や高天原、<lb />
+日は<span type="ruby"><span type="rb">治</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らせ、<span type="ruby"><span type="rb">大日</span><span type="rp">（</span><span type="rt">おほひる</span><span type="rp">）</span></span><span type="ruby"><span type="rb"><span facs="../../../gaiji/1-47/1-47-53.png" rend="gaiji" rendition="img" source="※(「靈」の「巫」に代えて「女」、第3水準1-47-53)" />貴</span><span type="rp">（</span><span type="rt">めのむち</span><span type="rp">）</span></span>、<lb />
+さもこそや<span type="ruby"><span type="rb">夜之</span><span type="rp">（</span><span type="rt">よるの</span><span type="rp">）</span></span><span type="ruby"><span type="rb">食国</span><span type="rp">（</span><span type="rt">をすくに</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">治</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らせ、月よ<span type="ruby"><span type="rb">月読</span><span type="rp">（</span><span type="rt">つくよみ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">海原</span><span type="rp">（</span><span type="rt">うなのはら</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">吾</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>はえ<span type="ruby"><span type="rb">治</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らさじ、<lb />
+<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">こと</span><span type="rp">）</span></span><span type="ruby"><span type="rb">依</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>させ、<span type="ruby"><span type="rb">吾</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>は聴かじ、<lb />
+<span type="ruby"><span type="rb">神柄</span><span type="rp">（</span><span type="rt">かむがら</span><span type="rp">）</span></span>ぞ、<span type="ruby"><span type="rb">暴</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>ぶる神、<lb />
+<span type="ruby"><span type="rb">胆太</span><span type="rp">（</span><span type="rt">きもぶと</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">眦</span><span type="rp">（</span><span type="rt">まなじり</span><span type="rp">）</span></span>裂くと、<lb />
+言挙ぐと、泣きいさち、<lb />
+<span type="ruby"><span type="rb">抗</span><span type="rp">（</span><span type="rt">あらが</span><span type="rp">）</span></span>ふと、おぞえ吼え立つ。<lb />
+かく、吼え立てば、<lb />
+大海よ、<span type="ruby"><span type="rb">滄海原</span><span type="rp">（</span><span type="rt">あをうなばら</span><span type="rp">）</span></span>、<lb />
+引き引きに<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ひず</span><span type="rp">）</span></span>み<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">しぞ</span><span type="rp">）</span></span>き、<lb />
+潮干るや、干潟泡立ち、<lb />
+沸き立つや、<span type="ruby"><span type="rb">蠍</span><span type="rp">（</span><span type="rt">さそり</span><span type="rp">）</span></span>なすもの、<lb />
+<span type="ruby"><span type="rb">菊石</span><span type="rp">（</span><span type="rt">きくめ</span><span type="rp">）</span></span>なす、<span type="ruby"><span type="rb">鰻</span><span type="rp">（</span><span type="rt">むなぎ</span><span type="rp">）</span></span>なすもの、<lb />
+<span type="ruby"><span type="rb">鰓</span><span type="rp">（</span><span type="rt">えら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">怪</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>や、飛ぶ<span type="ruby"><span type="rb">翼</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">竜</span><span type="rp">（</span><span type="rt">たつ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">八剣</span><span type="rp">（</span><span type="rt">やつるぎ</span><span type="rp">）</span></span>の蜥蜴草食み、<lb />
+<span type="ruby"><span type="rb">始祖鳥</span><span type="rp">（</span><span type="rt">みおやどり</span><span type="rp">）</span></span>荒き歯に<span type="ruby"><span type="rb">咋</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>ふ。<lb />
+<span type="ruby"><span type="rb">青水泥</span><span type="rp">（</span><span type="rt">あをみどろ</span><span type="rp">）</span></span><span rend="sesame_dot" rendition="em">ひどら</span>が沼、<lb />
+<span type="ruby"><span type="rb">蟠</span><span type="rp">（</span><span type="rt">わだかま</span><span type="rp">）</span></span>るぬめり<span type="ruby"><span type="rb">蟒</span><span type="rp">（</span><span type="rt">うはばみ</span><span type="rp">）</span></span>、<lb />
+憚らず<lb />
+<span type="ruby"><span type="rb">曠野</span><span type="rp">（</span><span type="rt">あらぬ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">巨牛</span><span type="rp">（</span><span type="rt">おほうし</span><span type="rp">）</span></span>、<lb />
+畏る無し<lb />
+<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">まが</span><span type="rp">）</span></span>つ狼。<lb />
+をを、をを、をを、<lb />
+かく経れば、降りつづく雨をもちて、<lb />
+蛆沸き、<span type="ruby"><span type="rb"><span facs="../../../gaiji/2-93/2-93-50.png" rend="gaiji" rendition="img" source="※(「魚＋委」、第4水準2-93-50)" /></span><span type="rp">（</span><span type="rt">あざ</span><span type="rp">）</span></span>れ、<span type="ruby"><span type="rb">蒼蠅</span><span type="rp">（</span><span type="rt">さばへ</span><span type="rp">）</span></span>なす神神のおとなひ、<lb />
+万づ<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">よも</span><span type="rp">）</span></span>つ神の災、<lb />
+高津鳥の災、<lb />
+<span type="ruby"><span type="rb">昆</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ふ虫の災、<lb />
+<span type="ruby"><span type="rb">脂</span><span type="rp">（</span><span type="rt">あぶら</span><span type="rp">）</span></span>なす、<span type="ruby"><span type="rb">逆吐</span><span type="rp">（</span><span type="rt">ゑづ</span><span type="rp">）</span></span>き、<span type="ruby"><span type="rb">嘔吐</span><span type="rp">（</span><span type="rt">たぐ</span><span type="rp">）</span></span>り、<lb />
+生み、<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>め、疼き、<span type="ruby"><span type="rb">呻</span><span type="rp">（</span><span type="rt">によ</span><span type="rp">）</span></span>ぶ<lb />
+もろもろの<span type="ruby"><span type="rb">邪</span><span type="rp">（</span><span type="rt">よこしま</span><span type="rp">）</span></span>、<lb />
+曲り、朽ち、<span type="ruby"><span type="rb">饐</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>ゑ、死ぬる物の<span type="ruby"><span type="rb">穢</span><span type="rp">（</span><span type="rt">けがれ</span><span type="rp">）</span></span>、<lb />
+常無く、火の気無く、<lb />
+耀かず、<span type="ruby"><span type="rb">祓</span><span type="rp">（</span><span type="rt">はら</span><span type="rp">）</span></span>ひ了へず、<lb />
+<span type="ruby"><span type="rb">下心</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>澱み、<lb />
+<span type="ruby"><span type="rb">清</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>まず、<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>り、<lb />
+<span type="ruby"><span type="rb">嚏</span><span type="rp">（</span><span type="rt">はなひ</span><span type="rp">）</span></span>り、<span type="ruby"><span type="rb">瘧</span><span type="rp">（</span><span type="rt">おこ</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>り、<lb />
+<span type="ruby"><span type="rb">※</span><span type="rp">（</span><span type="rt">ゑぐ</span><span type="rp">）</span></span><span rend="notes">［＃「くさかんむり／歛」、U+861D、342-2］</span>しく、<span type="ruby"><span type="rb">焦</span><span type="rp">（</span><span type="rt">いら</span><span type="rp">）</span></span>だたしく、<lb />
+苦しく、息づかしく、<lb />
+<span type="ruby"><span type="rb">瘡病</span><span type="rp">（</span><span type="rt">くさつつみ</span><span type="rp">）</span></span>、掻き<span type="ruby"><span type="rb">淫</span><span type="rp">（</span><span type="rt">たは</span><span type="rp">）</span></span>ると、<lb />
+<span type="ruby"><span type="rb">醜</span><span type="rp">（</span><span type="rt">しこ</span><span type="rp">）</span></span>つ神、追ひ挑むと、<lb />
+ことごとや世のことごと、<lb />
+<span type="ruby"><span type="rb">堰</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>きたぎち、<lb />
+泣き、言問ひ、<lb />
+挙り泣き、泣きなづみて、<lb />
+ああはや事起りぬ。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi232">第四段</span></span></span>
+<lb />
+をを、をを、<lb />
+をを。<lb />
+神ぞ<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">を</span><span type="rp">）</span></span>れ、<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>び<span type="ruby"><span type="rb">哭</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>く、<lb />
+<span type="ruby"><span type="rb">冥</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>き神、<lb />
+果しなし、泣きいさつと、<lb />
+<span type="ruby"><span type="rb">海岸</span><span type="rp">（</span><span type="rt">うなぎし</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">上高岸</span><span type="rp">（</span><span type="rt">かみたかぎし</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">巌窟</span><span type="rp">（</span><span type="rt">いはや</span><span type="rp">）</span></span>なす岩戸、<span type="ruby"><span type="rb">沙面</span><span type="rp">（</span><span type="rt">すなも</span><span type="rp">）</span></span>、<lb />
+腹這ふ<span type="ruby"><span type="rb">大海胆</span><span type="rp">（</span><span type="rt">おほひとで</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">紅殻</span><span type="rp">（</span><span type="rt">べにがら</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">生死殻</span><span type="rp">（</span><span type="rt">なましにがら</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">錆釘</span><span type="rp">（</span><span type="rt">さびくぎ</span><span type="rp">）</span></span>のここだくの釘<lb />
+その根、<span type="ruby"><span type="rb">幹疎</span><span type="rp">（</span><span type="rt">もとあら</span><span type="rp">）</span></span>にうち埋めて、<lb />
+開き葉の高張りや、<lb />
+大葉蘇鉄、<lb />
+をを、をを、<lb />
+をを、<lb />
+滴るや<span type="ruby"><span type="rb">長雨</span><span type="rp">（</span><span type="rt">ながめ</span><span type="rp">）</span></span>しづき、<lb />
+<span type="ruby"><span type="rb">水松布</span><span type="rp">（</span><span type="rt">みるめ</span><span type="rp">）</span></span>なす<span type="ruby"><span type="rb">美豆良</span><span type="rp">（</span><span type="rt">みづら</span><span type="rp">）</span></span>雫き、<lb />
+苔むすや、<span type="ruby"><span type="rb">股</span><span type="rp">（</span><span type="rt">もも</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">臂</span><span type="rp">（</span><span type="rt">ただむき</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">細螺</span><span type="rp">（</span><span type="rt">しただみ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">珠</span><span type="rp">（</span><span type="rt">みたま</span><span type="rp">）</span></span>い這ひ、<lb />
+畳菰<span type="ruby"><span type="rb">褌</span><span type="rp">（</span><span type="rt">はかま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">破</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>れ裂け、<lb />
+小鈴落ち、<span type="ruby"><span type="rb">脚結</span><span type="rp">（</span><span type="rt">あゆひ</span><span type="rp">）</span></span>紐解け、<lb />
+はららぐと、その<span type="ruby"><span type="rb">短裳</span><span type="rp">（</span><span type="rt">みじかも</span><span type="rp">）</span></span>、<lb />
+空見ず、ただ歎けば、<lb />
+海見ず、ただ歎けば、<lb />
+しや、<span type="ruby"><span type="rb">伊邪那岐大神</span><span type="rp">（</span><span type="rt">いざなきのおほかみ</span><span type="rp">）</span></span>、<lb />
+埒も無し、<span type="ruby"><span type="rb">建須佐之男</span><span type="rp">（</span><span type="rt">たけすさのを</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">みまし</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">こと</span><span type="rp">）</span></span><span type="ruby"><span type="rb">依</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>さす国は<span type="ruby"><span type="rb">治</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らさず、<lb />
+何もかも泣きいさちる、<lb />
+父の<span type="ruby"><span type="rb">御神</span><span type="rp">（</span><span type="rt">みかみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">詔</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>りたまへば、<lb />
+<span type="ruby"><span type="rb">伊邪那美</span><span type="rp">（</span><span type="rt">いざなみ</span><span type="rp">）</span></span>よ、<span type="ruby"><span type="rb">僕</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>が母、<lb />
+<span type="ruby"><span type="rb">妣</span><span type="rp">（</span><span type="rt">はは</span><span type="rp">）</span></span><span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>せば、<lb />
+<span type="ruby"><span type="rb">根</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">堅洲国</span><span type="rp">（</span><span type="rt">かたすくに</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">僕</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">恋</span><span type="rp">（</span><span type="rt">こほ</span><span type="rp">）</span></span>し、<span type="ruby"><span type="rb">罷</span><span type="rp">（</span><span type="rt">まか</span><span type="rp">）</span></span>りゆかずば、<lb />
+ただ<span type="ruby"><span type="rb">哭</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くと泣く。<lb />
+ゑや、愚かや、<lb />
+な住みそ、さば、此の国原、<lb />
+行け、<span type="ruby"><span type="rb">罷</span><span type="rp">（</span><span type="rt">まか</span><span type="rp">）</span></span>れ、<lb />
+<span type="ruby"><span type="rb">神柄</span><span type="rp">（</span><span type="rt">かむがら</span><span type="rp">）</span></span>ぞ、もとな<span type="ruby"><span type="rb">流浪</span><span type="rp">（</span><span type="rt">さすら</span><span type="rp">）</span></span>へ、<lb />
+神やらひやらひたまふと、<lb />
+ああはれ、<span type="ruby"><span type="rb">建須佐之男</span><span type="rp">（</span><span type="rt">たけすさのを</span><span type="rp">）</span></span>、<lb />
+眼も<span type="ruby"><span type="rb">白</span><span type="rp">（</span><span type="rt">しら</span><span type="rp">）</span></span>み、追ひやらはれ、<lb />
+泣き涸らし、はた、<span type="ruby"><span type="rb">嗤</span><span type="rp">（</span><span type="rt">わら</span><span type="rp">）</span></span>ひぬ。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi332">大陸序曲</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi342">跳躍</span></span></span>
+<lb />
+跳躍する<lb />
+跳躍する奔牛は是れ、<lb />
+厳たる意志力、<lb />
+<span type="ruby"><span type="rb">陀々羅</span><span type="rp">（</span><span type="rt">だだら</span><span type="rp">）</span></span>踏む肉塊の<span type="ruby"><span type="rb">黒旋風</span><span type="rp">（</span><span type="rt">くろつむじ</span><span type="rp">）</span></span>、<lb />
+響き<span type="ruby"><span type="rb">搏</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">つの</span><span type="rp">）</span></span>、<lb />
+響き<span type="ruby"><span type="rb">搏</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">つの</span><span type="rp">）</span></span>、<lb />
+角は見よ、蒼き兜の<span type="ruby"><span type="rb">大前立</span><span type="rp">（</span><span type="rt">おほまへだち</span><span type="rp">）</span></span>。<lb />
+<lb />
+此処は<span type="ruby"><span type="rb">鄂博</span><span type="rp">（</span><span type="rt">オボ</span><span type="rp">）</span></span>――<span type="ruby"><span type="rb">蒙古児</span><span type="rp">（</span><span type="rt">モンゴル</span><span type="rp">）</span></span><span type="ruby"><span type="rb">陀羅海</span><span type="rp">（</span><span type="rt">トルカイ</span><span type="rp">）</span></span>、<lb />
+春ながら冬、<lb />
+<span type="ruby"><span type="rb">霾</span><span type="rp">（</span><span type="rt">つちふ</span><span type="rp">）</span></span>らす、<span type="ruby"><span type="rb">霾</span><span type="rp">（</span><span type="rt">つちふ</span><span type="rp">）</span></span>らす茫漠たる内蒙古、<lb />
+涯しなき視野、<lb />
+東へ東へと移動しつつある沙漠の<lb />
+凛然たる寒気の底に於て。<lb />
+<lb />
+おお、眼だ、――昼闌けた<span type="ruby"><span type="rb">円日</span><span type="rp">（</span><span type="rt">ゑんじつ</span><span type="rp">）</span></span>、<lb />
+耀く耀く十方の日あし、<lb />
+しかもまた<span type="ruby"><span type="rb">金色</span><span type="rp">（</span><span type="rt">こんじき</span><span type="rp">）</span></span>の光を奪ふ<lb />
+濃い青の上空である。<lb />
+微塵の星、<lb />
+よく磨かれた気流。<lb />
+<lb />
+光は光をうつ、<lb />
+影は影と、<lb />
+萠え立つ草の芽も何処かにある。<lb />
+誰知らぬ物の窪にも<lb />
+何か湛へる。<lb />
+――何事かある。<lb />
+<lb />
+跳躍する、<lb />
+跳躍する奔牛の意志に乗つて、<lb />
+思ひもかけぬとどろきが来る。<lb />
+すばらしい、<span type="ruby"><span type="rb">憤</span><span type="rp">（</span><span type="rt">いきどほり</span><span type="rp">）</span></span>に似た<lb />
+光るばかりの或物が来る。<lb />
+<span type="ruby"><span type="rb">跫音</span><span type="rp">（</span><span type="rt">あしおと</span><span type="rp">）</span></span>が来る。<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span rend="sho1" style="font-size: small;">（満洲鄭家屯郊外）</span></span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi352">十三時半の風景</span></span></span>
+<lb />
+根があつた。<lb />
+<span type="ruby"><span type="rb">高粱</span><span type="rp">（</span><span type="rt">カオリヤン</span><span type="rp">）</span></span>の枯れた<span type="ruby"><span type="rb">畝竝</span><span type="rp">（</span><span type="rt">うねなみ</span><span type="rp">）</span></span>、<lb />
+黄色い土、<lb />
+積み竝べた<span type="ruby"><span type="rb">土糞</span><span type="rp">（</span><span type="rt">どふん</span><span type="rp">）</span></span>、<lb />
+ああ、それだけ。<lb />
+<lb />
+木があつた、<lb />
+ひとつひとつに<lb />
+影を落した枯木であつた。<lb />
+ああ、それだけ。<lb />
+<lb />
+平らかな、或は柔かい<lb />
+うねりのなぞへ、<lb />
+日向はほどよく温んでゐた。<lb />
+ああ、それだけ。<lb />
+<lb />
+<span type="ruby"><span type="rb">幌車</span><span type="rp">（</span><span type="rt">マアチヤア</span><span type="rp">）</span></span>が遥かを通つた。<lb />
+白い馬に赤が三頭、<lb />
+土けむり、<lb />
+ああ、それだけ。<lb />
+<lb />
+茫漠とした南満洲、<lb />
+はてしのない川、結氷、<lb />
+銃眼のある土塀、<lb />
+風、風、風、<lb />
+ああ、それだけ。<lb />
+<lb />
+<span type="ruby"><span type="rb">苦力</span><span type="rp">（</span><span type="rt">クリー</span><span type="rp">）</span></span>よ、<lb />
+四等車の<span type="ruby"><span type="rb">苦力</span><span type="rp">（</span><span type="rt">クリー</span><span type="rp">）</span></span>よ、<lb />
+小さな日だ、<lb />
+十三時半――十五時半、<lb />
+汽車はただ<span type="ruby"><span type="rb">駛</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>つてゆく、<lb />
+<span type="ruby"><span type="rb">駛</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>つてゆく。<lb />
+ああ、それだけ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi362">路傍にねむる</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="sho1" style="font-size: small;">戦争画報を見て</span></span>
+<lb />
+ひた疲れ、ああ、このごと<lb />
+路の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>にねむる人、<lb />
+<span type="ruby"><span type="rb">命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>なり、赤き<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>に<lb />
+こんこんとうち伏しぬ。<lb />
+<lb />
+正しきはまじろがず<lb />
+<span type="ruby"><span type="rb">天地</span><span type="rp">（</span><span type="rt">あめつち</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>ふらず、<lb />
+<span type="ruby"><span type="rb">戦士</span><span type="rp">（</span><span type="rt">いくさびと</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">守護神</span><span type="rp">（</span><span type="rt">まもりがみ</span><span type="rp">）</span></span>、<lb />
+身をさらし、<span type="ruby"><span type="rb">髭</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">凍</span><span type="rp">（</span><span type="rt">こご</span><span type="rp">）</span></span>る。<lb />
+<lb />
+なべて見よ、この姿、<lb />
+昼も<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>もここに無し、<lb />
+祖国のみ、民族の<lb />
+血と肉と、一つのみ。<lb />
+<lb />
+まつろはず、<span type="ruby"><span type="rb">信</span><span type="rp">（</span><span type="rt">まこと</span><span type="rp">）</span></span>なき<lb />
+満蒙のかの匪賊。<lb />
+憤る、憤るもの、<lb />
+力なり、ためらはず。<lb />
+<lb />
+戦へば勝つ人も<lb />
+<span type="ruby"><span type="rb">眠</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>無し、<span type="ruby"><span type="rb">小床</span><span type="rp">（</span><span type="rt">をどこ</span><span type="rp">）</span></span>無し、<lb />
+せめて今、<span type="ruby"><span type="rb">銃</span><span type="rp">（</span><span type="rt">つつ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">叉</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>むと<lb />
+ひきかぶるものも無し。<lb />
+<lb />
+涙せよ、この姿、<lb />
+昼も<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>もここに無し。<lb />
+ここにあり、土のうへ、<lb />
+ひたぶるにねむる人。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi372">暁天</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="sho1" style="font-size: small;">日向高千穂峯の御来迎</span></span>
+<lb />
+<span type="ruby"><span type="rb">日向</span><span type="rp">（</span><span type="rt">ひうが</span><span type="rp">）</span></span>の高千穂の峯<lb />
+山の肩黝きに<lb />
+風すでに<span type="ruby"><span type="rb">矢羽根</span><span type="rp">（</span><span type="rt">やばね</span><span type="rp">）</span></span>切りて<lb />
+響きわたり、空へ<span type="ruby"><span type="rb">翔</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けぬ。<lb />
+<lb />
+おお、<span type="ruby"><span type="rb">神々</span><span type="rp">（</span><span type="rt">かみがみ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">神</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>つどひ、<span type="ruby"><span type="rb">早</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>も立たすと、<lb />
+<span type="ruby"><span type="rb">暁</span><span type="rp">（</span><span type="rt">あかつき</span><span type="rp">）</span></span>、来たり立たすと、<lb />
+<span type="ruby"><span type="rb">戟</span><span type="rp">（</span><span type="rt">ほこ</span><span type="rp">）</span></span>を手に、東の<span type="ruby"><span type="rb">方</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">目翳</span><span type="rp">（</span><span type="rt">まかげ</span><span type="rp">）</span></span>しましつ。<lb />
+<lb />
+蒼雲よ、<span type="ruby"><span type="rb">国原</span><span type="rp">（</span><span type="rt">くにばら</span><span type="rp">）</span></span><lb />
+いまだ<span type="ruby"><span type="rb">覚</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>めず、<lb />
+野も川もをさなくて<lb />
+<span type="ruby"><span type="rb">形</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span><span type="ruby"><span type="rb">成</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>さず。<lb />
+<lb />
+動けり、ただ、<lb />
+雲の上の<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">みづうみ</span><span type="rp">）</span></span>の魚<lb />
+<span type="ruby"><span type="rb">顎朱</span><span type="rp">（</span><span type="rt">あぎとあけ</span><span type="rp">）</span></span>に燃えて。<lb />
+<lb />
+日の出なり、<lb />
+ああ、<span type="ruby"><span type="rb">朝日子</span><span type="rp">（</span><span type="rt">あさひこ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">千別</span><span type="rp">（</span><span type="rt">ちわ</span><span type="rp">）</span></span>くと、雲のかぎり<span type="ruby"><span type="rb">千別</span><span type="rp">（</span><span type="rt">ちわ</span><span type="rp">）</span></span>くと、<lb />
+小さきかなや、<span type="ruby"><span type="rb">浄</span><span type="rp">（</span><span type="rt">きよ</span><span type="rp">）</span></span>きかなや、<span type="ruby"><span type="rb">耿</span><span type="rp">（</span><span type="rt">かう</span><span type="rp">）</span></span>と照りぬ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi382">種子</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="sho1" style="font-size: small;">大陸序曲</span></span>
+<lb />
+<span type="ruby"><span type="rb">種子</span><span type="rp">（</span><span type="rt">たね</span><span type="rp">）</span></span>ありき、<span type="ruby"><span type="rb">神産</span><span type="rp">（</span><span type="rt">かむむす</span><span type="rp">）</span></span>び玉と<span type="ruby"><span type="rb">凝</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>るもの、<lb />
+かく<span type="ruby"><span type="rb">在</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>りき、<span type="ruby"><span type="rb">在</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>りて生き、<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">蘊</span><span type="rp">（</span><span type="rt">つつ</span><span type="rp">）</span></span>みぬ。<lb />
+<lb />
+土なるや、大き<span type="ruby"><span type="rb">陸</span><span type="rp">（</span><span type="rt">くが</span><span type="rp">）</span></span><span type="ruby"><span type="rb">蒙古</span><span type="rp">（</span><span type="rt">モンゴル</span><span type="rp">）</span></span>の底ひふかく、<lb />
+<span type="ruby"><span type="rb">隠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>らひぬ、<span type="ruby"><span type="rb">鉱</span><span type="rp">（</span><span type="rt">あらがね</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">石</span><span type="rp">（</span><span type="rt">いはほ</span><span type="rp">）</span></span>との<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">ひま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">埋</span><span type="rp">（</span><span type="rt">うづ</span><span type="rp">）</span></span>もれ。<lb />
+<lb />
+時ありき、日も知らず、星も<span type="ruby"><span type="rb">別</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>かず、<lb />
+ただ在りき、かく在りて<span type="ruby"><span type="rb">千五百万</span><span type="rp">（</span><span type="rt">ちいほよろづ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">歳</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>。<lb />
+<lb />
+驚けよ、この命、<span type="ruby"><span type="rb">霊</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>びに若し、<lb />
+<span type="ruby"><span type="rb">讃</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>めあげよ、かく古りてかく<span type="ruby"><span type="rb">全</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>けし。<lb />
+<lb />
+<span type="ruby"><span type="rb">世々</span><span type="rp">（</span><span type="rt">よよ</span><span type="rp">）</span></span>ありき、人は興り、地に満ち満ちき。<lb />
+国興り、<span type="ruby"><span type="rb">将</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>た滅び、また<span type="ruby"><span type="rb">代々</span><span type="rp">（</span><span type="rt">よよ</span><span type="rp">）</span></span>ありき。<lb />
+<lb />
+<span type="ruby"><span type="rb">霾</span><span type="rp">（</span><span type="rt">つちふ</span><span type="rp">）</span></span>るや、黄なる<span type="ruby"><span type="rb">沙</span><span type="rp">（</span><span type="rt">すな</span><span type="rp">）</span></span>、嵐と<span type="ruby"><span type="rb">哮</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>び、<lb />
+<span type="ruby"><span type="rb">漲</span><span type="rp">（</span><span type="rt">みなぎ</span><span type="rp">）</span></span>るや、<span type="ruby"><span type="rb">洪</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>き水、<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あめ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">傾</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>ぶけぬ。<lb />
+<lb />
+なほ<span type="ruby"><span type="rb">在</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>りき、生きの芽の命<span type="ruby"><span type="rb">薫</span><span type="rp">（</span><span type="rt">かを</span><span type="rp">）</span></span>すと、<lb />
+俟つありき、つひに来るそが<span type="ruby"><span type="rb">黎明</span><span type="rp">（</span><span type="rt">しののめ</span><span type="rp">）</span></span>。<lb />
+<lb />
+海を越え、空を蔽ひ、とどろ来るもの、<lb />
+地響や、音<span type="ruby"><span type="rb">爆</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ぜて翼<span type="ruby"><span type="rb">搏</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>つもの。<lb />
+<lb />
+誰ならず、<span type="ruby"><span type="rb">日</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">御裔</span><span type="rp">（</span><span type="rt">みすゑ</span><span type="rp">）</span></span>、久米大伴が<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>、<lb />
+神々の我が<span type="ruby"><span type="rb">跫音</span><span type="rp">（</span><span type="rt">あのと</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">大皇軍</span><span type="rp">（</span><span type="rt">おほみいくさ</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">俟</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>つありき、大き<span type="ruby"><span type="rb">陸</span><span type="rp">（</span><span type="rt">くが</span><span type="rp">）</span></span>、今かがやけり、<lb />
+さ緑や、はてしなくよみがへるもの。<lb />
+<lb />
+<span type="ruby"><span type="rb">種子</span><span type="rp">（</span><span type="rt">たね</span><span type="rp">）</span></span>ありき、<span type="ruby"><span type="rb">神産</span><span type="rp">（</span><span type="rt">かむむす</span><span type="rp">）</span></span>び玉と照るもの、<lb />
+命なり、息づくと芽ぶきそめぬ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi392">狙ひ</span></span></span>
+<lb />
+しづかなり<span type="ruby"><span type="rb">夏空</span><span type="rp">（</span><span type="rt">なつぞら</span><span type="rp">）</span></span>、<lb />
+軍の<span type="ruby"><span type="rb">真上</span><span type="rp">（</span><span type="rt">まうへ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">畏</span><span type="rp">（</span><span type="rt">おそ</span><span type="rp">）</span></span>ろしく形無きもの<lb />
+風をはらむつかのま。<lb />
+<lb />
+敵なりや、<span type="ruby"><span type="rb">稚</span><span type="rp">（</span><span type="rt">をさな</span><span type="rp">）</span></span>き<lb />
+<span type="ruby"><span type="rb">将</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>た<span type="ruby"><span type="rb">生物</span><span type="rp">（</span><span type="rt">いきもの</span><span type="rp">）</span></span>、<lb />
+現れ、また現れ、<lb />
+視野は<span type="ruby"><span type="rb">透</span><span type="rp">（</span><span type="rt">とほ</span><span type="rp">）</span></span>る。<lb />
+<lb />
+響無し、声も無し、<lb />
+気息のみ<lb />
+輝やかし時秒のみ<lb />
+満ち、いきるる<lb />
+ひたおもて、<span type="ruby"><span type="rb">黄</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">土</span><span type="rp">（</span><span type="rt">つち</span><span type="rp">）</span></span>。<lb />
+<lb />
+軍はあり、草をかつぎ<lb />
+山のごとしづもる戦車、<lb />
+<span type="ruby"><span type="rb">晴眼</span><span type="rp">（</span><span type="rt">せいがん</span><span type="rp">）</span></span>にひたと向ひ、<lb />
+<span type="ruby"><span type="rb">未</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>だ放たず。<lb />
+<lb />
+そのはじめ、<span type="ruby"><span type="rb">天地</span><span type="rp">（</span><span type="rt">あめつち</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">創</span><span type="rp">（</span><span type="rt">つく</span><span type="rp">）</span></span>られて<span type="ruby"><span type="rb">新</span><span type="rp">（</span><span type="rt">あらた</span><span type="rp">）</span></span>に、<lb />
+俟つありき、何ごとかの<lb />
+<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>の動き。<lb />
+<lb />
+どとと射つ我か、彼か、<lb />
+このたまゆら、<lb />
+勝つ者の正しき狙ひ<lb />
+神のみぞ知ろしめすらむ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi402">熟眠</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">陰</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>はあり<span type="ruby"><span type="rb">巨</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>き戦車、<lb />
+据われり休らひのあひだ、<lb />
+道のべ、<lb />
+響なす<span type="ruby"><span type="rb">蒼蠅</span><span type="rp">（</span><span type="rt">さばへ</span><span type="rp">）</span></span>のみ<lb />
+<span type="ruby"><span type="rb">集</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">集</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>る。<lb />
+<lb />
+ねぶたし、ただ<lb />
+疲れはてて、<lb />
+空も無し、仇も無し、<lb />
+<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">いくさ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">小止</span><span type="rp">（</span><span type="rt">をや</span><span type="rp">）</span></span>み。<lb />
+<lb />
+命なり、張り満つる<lb />
+<span type="ruby"><span type="rb">五日</span><span type="rp">（</span><span type="rt">いつか</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">六日</span><span type="rp">（</span><span type="rt">むいか</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>も無し、朝も無し、<lb />
+飲まず、食はず。<lb />
+<lb />
+我射ちぬ、彼射ちぬ、<lb />
+しかも大暑、<lb />
+何ごとのしらすぞとも<lb />
+知らず、射ちぬ。<lb />
+<lb />
+強しとも弱しとも<lb />
+誰か<span type="ruby"><span type="rb">分</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>かむ。<lb />
+ねぶたし、ただに<span type="ruby"><span type="rb">瞼</span><span type="rp">（</span><span type="rt">まぶた</span><span type="rp">）</span></span>の<lb />
+重く垂り<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>。<lb />
+<lb />
+もぐりて、深くもぐりて、<lb />
+兵なり、我ら、ねむる。<lb />
+戦車よ、鉄の戦車、<lb />
+しばしを、<lb />
+ああ、しばしを光蔽へ。<lb />
+<lb />
+ねぶたし、<lb />
+ただに眠ると、<lb />
+何も無し、我も無し、<lb />
+ひた土に<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ぬか</span><span type="rp">）</span></span>押しあて。<lb />
+<lb />
+真昼ぞ、ただ<span type="ruby"><span type="rb">虚</span><span type="rp">（</span><span type="rt">むな</span><span type="rp">）</span></span>しき。<lb />
+<span type="ruby"><span type="rb">饑</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>ゑたりや、饑うるともいざ、<lb />
+生きむとも死なむとも<lb />
+将た思はず。<lb />
+<lb />
+ねぶたし、ただねぶくて<lb />
+早や<span type="ruby"><span type="rb">識</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らず<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">いくさ</span><span type="rp">）</span></span>も、<span type="ruby"><span type="rb">弾丸</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>も、<lb />
+ねぶたし、眠らしめて<lb />
+つかのま母の声聴かしめ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi412">突撃</span></span></span>
+<lb />
+突撃、<lb />
+突撃するもの、<lb />
+突くなり、突きまくり、<lb />
+ひた刺し、刺しつらぬき、<lb />
+銃床<span type="ruby"><span type="rb">逆手</span><span type="rp">（</span><span type="rt">さかで</span><span type="rp">）</span></span>もろに<lb />
+飛び入り、はたきのめし、<lb />
+はたくや、たたき斃す、<lb />
+これのみ、ただこれのみ。<lb />
+<lb />
+突撃、<lb />
+突撃するもの、<lb />
+ひたぶる、ひたぶるなり、<lb />
+<span type="ruby"><span type="rb">生死</span><span type="rp">（</span><span type="rt">しやうし</span><span type="rp">）</span></span>無し、<span type="ruby"><span type="rb">邪</span><span type="rp">（</span><span type="rt">よこしま</span><span type="rp">）</span></span>無し、<lb />
+戦ひ、戦ひ<span type="ruby"><span type="rb">恍</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>れ、<lb />
+突き刺し、たたき斃し、<lb />
+声のみ、息あるのみ、<lb />
+我あり、跳ぶあるのみ。<lb />
+<lb />
+突撃、<lb />
+突撃する時、<lb />
+ただ見る、命ある、醜き、<lb />
+顔ゆがめ、<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">まなこ</span><span type="rp">）</span></span>ひらき、<lb />
+恐れに、<span type="ruby"><span type="rb">胆</span><span type="rp">（</span><span type="rt">きも</span><span type="rp">）</span></span>へし消え、<lb />
+わななき、わななくもの。<lb />
+敵なりや、彼なりや、<lb />
+将た知らず、<lb />
+斃れに、ただ斃れぬ。<lb />
+響きて、<span rend="sesame_dot" rendition="em">ひと</span>斃れぬ。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi512">清明古調</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi522">白須賀</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="sho1" style="font-size: small;">遠州浜名郡白須賀</span></span>
+<lb />
+白須賀は昔の<span type="ruby"><span type="rb">宿</span><span type="rp">（</span><span type="rt">しゆく</span><span type="rp">）</span></span>、<lb />
+ただ白し、ものさびて、<lb />
+その<span type="ruby"><span type="rb">蔀</span><span type="rp">（</span><span type="rt">しとみ</span><span type="rp">）</span></span>、はひり戸、<lb />
+なべてみな同じ障子。<lb />
+<lb />
+ただわびし、<span type="ruby"><span type="rb">軒竝</span><span type="rp">（</span><span type="rt">のきなみ</span><span type="rp">）</span></span>の<lb />
+同じ型、<lb />
+出で、はひる人すらや、<lb />
+同じ影。<lb />
+<lb />
+音も無し、なにひとつ、<lb />
+埃づくものも無し。<lb />
+草屋のみ、<lb />
+弱き日のあたりたる。<lb />
+<lb />
+いづこぞ遠江灘、<lb />
+潮見坂ほどちかくて、<lb />
+薄ら曇る低き空を<lb />
+風も来ず。<lb />
+<lb />
+冬ながら、その<span type="ruby"><span type="rb">屯</span><span type="rp">（</span><span type="rt">たむろ</span><span type="rp">）</span></span>、<lb />
+ほのなごむ家がまへ、<lb />
+ここ過ぎて、きびしとも、<lb />
+おもほえず、寒しとも。<lb />
+<lb />
+白須賀は旧街道、<lb />
+朱の<span type="ruby"><span type="rb">鶏冠</span><span type="rp">（</span><span type="rt">とさか</span><span type="rp">）</span></span>ふりたてて<lb />
+<span type="ruby"><span type="rb">軍鶏</span><span type="rp">（</span><span type="rt">しやも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">を</span><span type="rp">）</span></span>れども。<lb />
+そは暮のひとあかりのみ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi532">三宝寺池</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>けさよ、三宝寺池、<lb />
+桜咲き、<lb />
+桜の枝に<lb />
+人居りて釣竿垂れぬ。<lb />
+<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>けさよ、三宝寺池、<lb />
+<span type="ruby"><span type="rb">石神井</span><span type="rp">（</span><span type="rt">しやくじゐ</span><span type="rp">）</span></span>や、<lb />
+<span type="ruby"><span type="rb">鉾杉</span><span type="rp">（</span><span type="rt">ほこすぎ</span><span type="rp">）</span></span>むら、<lb />
+影は沈む、緑青の水の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>けさよ、三宝寺池、<lb />
+昼<span type="ruby"><span type="rb">闌</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>けし日ざしに<lb />
+枯れ枯れの葦、<lb />
+片明る菱、<span type="ruby"><span type="rb">浮萍</span><span type="rp">（</span><span type="rt">うきぐさ</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>けさよ、三宝寺池、<lb />
+<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">かづ</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">鳥</span><span type="rp">（</span><span type="rt">どり</span><span type="rp">）</span></span>、かいつぶりの<lb />
+よく響きて、<lb />
+ともすれば連れ走る、頭のみぞ。<lb />
+<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>けさよ、三宝寺池、<lb />
+雲は行き、<lb />
+春は雲間に<lb />
+なにとなくまだなごみぬ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi542">真夏</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">真夏</span><span type="rp">（</span><span type="rt">まなつ</span><span type="rp">）</span></span>なり、<lb />
+鉄塔のよき<span type="ruby"><span type="rb">間隔</span><span type="rp">（</span><span type="rt">かんかく</span><span type="rp">）</span></span>、<lb />
+ちちと、ちちと、<lb />
+飛び<span type="ruby"><span type="rb">撓</span><span type="rp">（</span><span type="rt">たわ</span><span type="rp">）</span></span>む<lb />
+鳥。<lb />
+<lb />
+子らよ、<span type="ruby"><span type="rb">観</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>よ、<lb />
+<span type="ruby"><span type="rb">噴</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>きあがる雲、<lb />
+<span type="ruby"><span type="rb">青萱</span><span type="rp">（</span><span type="rt">あをがや</span><span type="rp">）</span></span>と田の稲と<lb />
+照りうつる<lb />
+空。<lb />
+<lb />
+<span type="ruby"><span type="rb">真昼</span><span type="rp">（</span><span type="rt">まひる</span><span type="rp">）</span></span>なり、<lb />
+街道のバスの<span type="ruby"><span type="rb">埃</span><span type="rp">（</span><span type="rt">ほこり</span><span type="rp">）</span></span>、<lb />
+スロープのさみどりに<lb />
+開く<span facs="../../../gaiji/1-89/1-89-54.png" rend="gaiji" rendition="img" source="※(「窗／心」、第3水準1-89-54)" />、<lb />
+ああ、八月。<lb />
+<lb />
+唐辛子<lb />
+花咲きて、<lb />
+ほのぼのと<lb />
+人と家、<lb />
+炎天の野に<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ひず</span><span type="rp">）</span></span>みぬ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi552">神苑</span></span></span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="sho1" style="font-size: small;">明治神宮西参道</span></span>
+<lb />
+<span type="ruby"><span type="rb">幽</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>けさや、この日なかの<lb />
+<span type="ruby"><span type="rb">邃</span><span type="rp">（</span><span type="rt">ふか</span><span type="rp">）</span></span>き木の<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>しづく。<lb />
+開けよ、声を<span type="ruby"><span type="rb">雉子</span><span type="rp">（</span><span type="rt">きぎす</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>の霞に。<lb />
+<lb />
+たふとさや、神苑の<lb />
+光る<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">橿若葉</span><span type="rp">（</span><span type="rt">かしわかば</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>けさや、<span type="ruby"><span type="rb">黝</span><span type="rp">（</span><span type="rt">くろ</span><span type="rp">）</span></span>み<span type="ruby"><span type="rb">闌</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>くる<lb />
+こもごもの青と緑。<lb />
+<lb />
+とどめじ、塵ひとつ、<lb />
+玉の砂敷きならして、<lb />
+<span type="ruby"><span type="rb">清々</span><span type="rp">（</span><span type="rt">すがすが</span><span type="rp">）</span></span>し、参道の<lb />
+うねる<span type="ruby"><span type="rb">径</span><span type="rp">（</span><span type="rt">こみち</span><span type="rp">）</span></span>、こを行かばや。<lb />
+<lb />
+芝生や、緩るきなだり、<lb />
+宝物殿、<lb />
+白きは<span type="ruby"><span type="rb">隠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>る夏の<lb />
+花のえご、香の<span type="ruby"><span type="rb">一本</span><span type="rp">（</span><span type="rt">ひともと</span><span type="rp">）</span></span>。<lb />
+<lb />
+よく観よ、<span type="ruby"><span type="rb">和</span><span type="rp">（</span><span type="rt">にぎ</span><span type="rp">）</span></span>み<span type="ruby"><span type="rb">霊</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>に<lb />
+吾が<span type="ruby"><span type="rb">幼子</span><span type="rp">（</span><span type="rt">をさなご</span><span type="rp">）</span></span>、<lb />
+亀の子の揺る影を、<lb />
+<span type="ruby"><span type="rb">鰭</span><span type="rp">（</span><span type="rt">ひれ</span><span type="rp">）</span></span>、さざなみ。<lb />
+<lb />
+しづもれよ、<span type="ruby"><span type="rb">昼間嵐</span><span type="rp">（</span><span type="rt">ひるまあらし</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">現</span><span type="rp">（</span><span type="rt">うつつ</span><span type="rp">）</span></span>ながら、<lb />
+ほのぼのと雲は立ち、<lb />
+神と人<span type="ruby"><span type="rb">息吹</span><span type="rp">（</span><span type="rt">いぶ</span><span type="rp">）</span></span>きかよふ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi562">西山荘</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>かだ、<lb />
+幽かな谷ふところ、<lb />
+何か野鳥が来て動かす<lb />
+<span type="ruby"><span type="rb">枯葉</span><span type="rp">（</span><span type="rt">かれは</span><span type="rp">）</span></span><span type="ruby"><span type="rb">雑木</span><span type="rp">（</span><span type="rt">ざふき</span><span type="rp">）</span></span>。<lb />
+<lb />
+よく晴れた<lb />
+塵ひとつない空、<lb />
+<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ぶかい庭、<lb />
+まだ寒いその清明。<lb />
+<lb />
+簡素だ、<lb />
+飛び飛びの石、<lb />
+萱の屋に衝き上げ門、<lb />
+ここは<span type="ruby"><span type="rb">西山荘</span><span type="rp">（</span><span type="rt">せいざんさう</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">微</span><span type="rp">（</span><span type="rt">ほの</span><span type="rp">）</span></span>かだ、<lb />
+<span type="ruby"><span type="rb">罅</span><span type="rp">（</span><span type="rt">ひび</span><span type="rp">）</span></span>われた<span type="ruby"><span type="rb">地膚</span><span type="rp">（</span><span type="rt">ぢはだ</span><span type="rp">）</span></span>に<lb />
+影が移る、<span type="ruby"><span type="rb">古木</span><span type="rp">（</span><span type="rt">こぼく</span><span type="rp">）</span></span>の梅が、<lb />
+咲くには早いその匂が。<lb />
+<lb />
+ああ、さうして<lb />
+音が徹る一つに、<lb />
+あ、心字池、<lb />
+大日本史の精神、その響が。<lb />
+<lb />
+悠々たる<span type="ruby"><span type="rb">老楽</span><span type="rp">（</span><span type="rt">おいらく</span><span type="rp">）</span></span>、<lb />
+いさぎよい<span type="ruby"><span type="rb">魂</span><span type="rp">（</span><span type="rt">たましひ</span><span type="rp">）</span></span>、<lb />
+わたしは聴く、水の音に、<lb />
+義公を、水戸の黄門。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi572">雪朝</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">清明</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>けさや、この雪、<lb />
+ふりおける雪につみ、<lb />
+木々につみ、<lb />
+燈籠にしろくつみぬ。<lb />
+<lb />
+<span type="ruby"><span type="rb">神垣</span><span type="rp">（</span><span type="rt">かみがき</span><span type="rp">）</span></span>や、このあした、<lb />
+<span type="ruby"><span type="rb">石走</span><span type="rp">（</span><span type="rt">いはばし</span><span type="rp">）</span></span>る水の音の<lb />
+うちひびき、<lb />
+<span type="ruby"><span type="rb">氷柱</span><span type="rp">（</span><span type="rt">つらら</span><span type="rp">）</span></span>みな新なり、日の光に。<lb />
+<lb />
+この雪に跡つくる、<lb />
+兎なり、跳び跳びて。<lb />
+すがしきは笹の芽<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>む<lb />
+毛の<span type="ruby"><span type="rb">柔</span><span type="rp">（</span><span type="rt">にこ</span><span type="rp">）</span></span>もの、<span type="ruby"><span type="rb">幼</span><span type="rp">（</span><span type="rt">をさな</span><span type="rp">）</span></span>し。<lb />
+<lb />
+満ち満つ<span type="ruby"><span type="rb">忝</span><span type="rp">（</span><span type="rt">かたじけな</span><span type="rp">）</span></span>さ、<lb />
+何事も<span type="ruby"><span type="rb">畏</span><span type="rp">（</span><span type="rt">かしこ</span><span type="rp">）</span></span>くて、<lb />
+息づきぬ、<lb />
+国の<span type="ruby"><span type="rb">秀</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>の山高きに。<lb />
+<lb />
+神ながら、この道に<lb />
+ああ我や言ふすべなし、<lb />
+<span type="ruby"><span type="rb">大皇子</span><span type="rp">（</span><span type="rt">おほみこ</span><span type="rp">）</span></span>の生れまして<lb />
+春まさに雲ぞ<span type="ruby"><span type="rb">騰</span><span type="rp">（</span><span type="rt">あが</span><span type="rp">）</span></span>る。<lb />
+<lb />
+<span type="ruby"><span type="rb">拍手</span><span type="rp">（</span><span type="rt">かしはで</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">拍手</span><span type="rp">（</span><span type="rt">かしはで</span><span type="rp">）</span></span>ぞ、ただ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi582">白樺</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">清</span><span type="rp">（</span><span type="rt">すが</span><span type="rp">）</span></span>しきは雪に立つもの、<lb />
+白樺の林よ、げに<lb />
+しろき<span type="ruby"><span type="rb">木肌</span><span type="rp">（</span><span type="rt">こはだ</span><span type="rp">）</span></span>、<lb />
+そは<span type="ruby"><span type="rb">真処女</span><span type="rp">（</span><span type="rt">まをとめ</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">幽</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>けさよ、雪の<span type="ruby"><span type="rb">渓</span><span type="rp">（</span><span type="rt">たに</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ち、ほそき幹の<lb />
+雪よりも光帯びて。<lb />
+<lb />
+日は曇り、しろき真昼、<lb />
+声も無し、このかがやき、<lb />
+風も無し、色ひといろ。<lb />
+<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>けさよ、興安嶺、<lb />
+ひえびえとけむる<span type="ruby"><span type="rb">梢</span><span type="rp">（</span><span type="rt">こずゑ</span><span type="rp">）</span></span>、<lb />
+鷹すらも一羽飛ばず。<lb />
+<lb />
+何すとか、ここに住む<lb />
+白系露西亜、<lb />
+<span type="ruby"><span type="rb">貧</span><span type="rp">（</span><span type="rt">まづ</span><span type="rp">）</span></span>しきは<span type="ruby"><span type="rb">浄</span><span type="rp">（</span><span type="rt">きよ</span><span type="rp">）</span></span>らかに<span facs="../../../gaiji/1-89/1-89-54.png" rend="gaiji" rendition="img" source="※(「窗／心」、第3水準1-89-54)" />ひらきて。<lb />
+<lb />
+<span type="ruby"><span type="rb">白夜</span><span type="rp">（</span><span type="rt">はくや</span><span type="rp">）</span></span>ともほのあかる<lb />
+空ひととき、<lb />
+白樺の林よ、げに<lb />
+光る<span type="ruby"><span type="rb">神々</span><span type="rp">（</span><span type="rt">かみがみ</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi592">竜胆</span></span></span>
+<lb />
+青淀の<span type="ruby"><span type="rb">岩壁</span><span type="rp">（</span><span type="rt">がんぺき</span><span type="rp">）</span></span>をかく穿つもの、<lb />
+<span type="ruby"><span type="rb">滲</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>みいづる滴りの<span type="ruby"><span type="rb">淡水</span><span type="rp">（</span><span type="rt">まみづ</span><span type="rp">）</span></span>とは誰か思はむ。<lb />
+<lb />
+など知らむ、しばしばも吹き通ふ雲、<lb />
+<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">うは</span><span type="rp">）</span></span>ぬめる<span type="ruby"><span type="rb">繊</span><span type="rp">（</span><span type="rt">ほそ</span><span type="rp">）</span></span>き根のありとある<span type="ruby"><span type="rb">脈</span><span type="rp">（</span><span type="rt">すぢ</span><span type="rp">）</span></span>さぐるを。<lb />
+<lb />
+末そよぐ蔦の葉や、わづかにも<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>み交ると、<lb />
+み冬なり、<span type="ruby"><span type="rb">石走</span><span type="rp">（</span><span type="rt">いはばし</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">滴</span><span type="rp">（</span><span type="rt">したた</span><span type="rp">）</span></span>りの、また雫くと。<lb />
+<lb />
+目も澄むや、<span type="ruby"><span type="rb">岩角</span><span type="rp">（</span><span type="rt">いはかど</span><span type="rp">）</span></span>や、よく開きて、<lb />
+濃き藍の竜胆ぞ、よく<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>えたる。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi602">本栖湖</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">本栖湖</span><span type="rp">（</span><span type="rt">もとすこ</span><span type="rp">）</span></span>のへうべうたる、<lb />
+往き、消ゆる<lb />
+薄墨の雲に、<lb />
+しろがねの<span type="ruby"><span type="rb">燻</span><span type="rp">（</span><span type="rt">いぶし</span><span type="rp">）</span></span>して。<lb />
+<lb />
+たださへや<span type="ruby"><span type="rb">幽</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>けきに、<lb />
+懸巣啼きて、<lb />
+雨は<span type="ruby"><span type="rb">隠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>る木のま、<lb />
+不二の裏べ。<lb />
+<lb />
+山の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>の畏こさよ、<lb />
+月円く<lb />
+現れて、<lb />
+また白し、隈だちつつ。<lb />
+<lb />
+<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">きた</span><span type="rp">）</span></span>るのみ、<span type="ruby"><span type="rb">過</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>がふのみ、<lb />
+雲しばしば、<lb />
+<span type="ruby"><span type="rb">霧</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>らひつつ、動きつつ、<lb />
+後<span type="ruby"><span type="rb">清</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>けく。<lb />
+<lb />
+神は<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>すや、この暁、<lb />
+ああ、<span type="ruby"><span type="rb">波皺</span><span type="rp">（</span><span type="rt">なみしわ</span><span type="rp">）</span></span>、<lb />
+風を思ふ姫鱒は水に棲みて、<lb />
+また沈みぬ。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi702">煙霞余情</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi712">丸彫</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>に我を<span type="ruby"><span type="rb">彫</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>る。<lb />
+この眼の<span type="ruby"><span type="rb">刃</span><span type="rp">（</span><span type="rt">やいば</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>のこの木彫<lb />
+細かくも、<span type="ruby"><span type="rb">素</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>に荒くも。<lb />
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>のこのもしさ<lb />
+我彫らむ、みづからを皆。<lb />
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>のてづつなさ、<lb />
+触れつつも、この己れ。<lb />
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>よ、息つめて、<lb />
+息かけて、いとほしと。<lb />
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>のうるはしさ、<lb />
+こを見よと我思ふ。<lb />
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">刻</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span>むもの、<lb />
+我ならず、何かある。<lb />
+<lb />
+<span type="ruby"><span type="rb">丸彫</span><span type="rp">（</span><span type="rt">まるぼり</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">彫</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>りあげて、<lb />
+その白き手に献げまし。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi722">微笑</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほゑみ</span><span type="rp">）</span></span>はそよ風、<lb />
+かぎりなく<span type="ruby"><span type="rb">果</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>なきもの、<lb />
+奥ふかき<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">みづうみ</span><span type="rp">）</span></span>のさざなみ。<lb />
+<lb />
+<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほゑみ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">湛</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>へ、<lb />
+おのづから<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>にのぼるもの、<lb />
+声無くして<span type="ruby"><span type="rb">調</span><span type="rp">（</span><span type="rt">しらべ</span><span type="rp">）</span></span>ある声。<lb />
+<lb />
+<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほゑみ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">明</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>るくして<lb />
+つつましく<span type="ruby"><span type="rb">玉</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>つつむ<span type="ruby"><span type="rb">絹</span><span type="rp">（</span><span type="rt">きぬ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-87/1-87-40.png" rend="gaiji" rendition="img" source="※(「火＋（麈−鹿）」、第3水準1-87-40)" /></span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>きこめぬ、そのまごころ。<lb />
+<lb />
+<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほゑみ</span><span type="rp">）</span></span>のやさしさは<lb />
+<span type="ruby"><span type="rb">愛</span><span type="rp">（</span><span type="rt">めぐ</span><span type="rp">）</span></span>し<span type="ruby"><span type="rb">児</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">うへ</span><span type="rp">）</span></span>かかる愛。<lb />
+<span type="ruby"><span type="rb">常</span><span type="rp">（</span><span type="rt">つね</span><span type="rp">）</span></span><span type="ruby"><span type="rb">秘</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>めて<span type="ruby"><span type="rb">常</span><span type="rp">（</span><span type="rt">つね</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">満</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>ちぬ。<lb />
+<lb />
+<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほゑみ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">保</span><span type="rp">（</span><span type="rt">たも</span><span type="rp">）</span></span>てよ、<lb />
+<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>かなる<span type="ruby"><span type="rb">世</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>の母、<lb />
+昼ながら<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-91/1-91-26.png" rend="gaiji" rendition="img" source="※(「藹」の「言」に代えて「月」、第3水準1-91-26)" /></span><span type="rp">（</span><span type="rt">らう</span><span type="rp">）</span></span>たき月、<lb />
+ありなしの雲さながら。<lb />
+<lb />
+<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほゑみ</span><span type="rp">）</span></span>はそよ風、<lb />
+かぎりなく<span type="ruby"><span type="rb">果</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>なきもの、<lb />
+ただにあれ、影なき眉<lb />
+<span type="ruby"><span type="rb">輝</span><span type="rp">（</span><span type="rt">かがや</span><span type="rp">）</span></span>きは君にあらむ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi732">日なた</span></span></span>
+<lb />
+風に思ふ、<lb />
+<span type="ruby"><span type="rb">微風</span><span type="rp">（</span><span type="rt">そよかぜ</span><span type="rp">）</span></span>よ、<lb />
+かくのごと<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>かなる日ざしありやと。<lb />
+<lb />
+菊のはな匂ふ日なた<lb />
+なにか遊ぶ<span type="ruby"><span type="rb">女童</span><span type="rp">（</span><span type="rt">めわらは</span><span type="rp">）</span></span>の<lb />
+振りかへるに。<lb />
+<lb />
+おもほえね時の移り、<lb />
+<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">むな</span><span type="rp">）</span></span>しとも、<span type="ruby"><span type="rb">迅</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>しとも、<lb />
+ただなごむを。<lb />
+<lb />
+<span type="ruby"><span type="rb">女童</span><span type="rp">（</span><span type="rt">めわらは</span><span type="rp">）</span></span>は遊ぶのみ、<lb />
+さだめなき秋の日の<lb />
+それぞとも眼に見えねば。<lb />
+<lb />
+しばらくは事もなし、<lb />
+<span type="ruby"><span type="rb">蜻蛉羽</span><span type="rp">（</span><span type="rt">あきつば</span><span type="rp">）</span></span>のゆきかひの<lb />
+時ひかる道しるべ石。<lb />
+<lb />
+風にそよぐ<lb />
+<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>のいろや、<lb />
+月のごとをりふしを遠く行きぬ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi742">道の手</span></span></span>
+<lb />
+ふるさとや、わが母の<lb />
+この山の手、<lb />
+昔見しさながらを<lb />
+ただしづかに。<lb />
+<lb />
+<span type="ruby"><span type="rb">闌</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>けたり<span type="ruby"><span type="rb">櫨若葉</span><span type="rp">（</span><span type="rt">はじわかば</span><span type="rp">）</span></span>、<lb />
+池も見えて、<lb />
+壁赤き山の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">いへ</span><span type="rp">）</span></span>の<lb />
+ひとつふたつ。<lb />
+<lb />
+築石や、棚畑や、<lb />
+ふかき昼を<lb />
+日の照り、<lb />
+時うつる、この<span type="ruby"><span type="rb">片岨</span><span type="rp">（</span><span type="rt">かたそば</span><span type="rp">）</span></span>。<lb />
+<lb />
+影はあり、独<span type="ruby"><span type="rb">佇</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>つ<lb />
+よき<span type="ruby"><span type="rb">童</span><span type="rp">（</span><span type="rt">わらはべ</span><span type="rp">）</span></span>、<lb />
+おもざし、我かとも、<lb />
+いま見上げつ。<lb />
+<lb />
+<span type="ruby"><span type="rb">鷽鳥</span><span type="rp">（</span><span type="rt">うそどり</span><span type="rp">）</span></span>よいづくにか<lb />
+鳴き、くくみて、<lb />
+色、匂、さまわかず、<lb />
+風なるか、空なるかも。<lb />
+<lb />
+北の<span type="ruby"><span type="rb">関</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>、南の<span type="ruby"><span type="rb">関</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>、<lb />
+この道の手、<lb />
+我は見る、我が<span type="ruby"><span type="rb">昨日</span><span type="rp">（</span><span type="rt">きのふ</span><span type="rp">）</span></span>の<lb />
+をさなごころ。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi752">水の上</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">気色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>のみ、<lb />
+風にのみ<lb />
+<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">こと</span><span type="rp">）</span></span>づてむ、<lb />
+この匂を。<lb />
+<lb />
+水の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>に<lb />
+ふる雨の<lb />
+しばしばも<lb />
+輪に<span type="ruby"><span type="rb">点</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>ちつつ。<lb />
+<lb />
+旅やどり<lb />
+すべなしや、<lb />
+<span facs="../../../gaiji/1-89/1-89-54.png" rend="gaiji" rendition="img" source="※(「窗／心」、第3水準1-89-54)" />に見て<lb />
+日をおくれば。<lb />
+<lb />
+ほのぼのと<lb />
+咲く花の<lb />
+よき<span type="ruby"><span type="rb">樗</span><span type="rp">（</span><span type="rt">あふち</span><span type="rp">）</span></span>、<lb />
+夏となりぬる。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi762">こさめひたき</span></span></span>
+<lb />
+色はあり、声にのみ、<lb />
+こさめひたき、<lb />
+雫のみこまかなる<lb />
+この朝あけ。<lb />
+<lb />
+花はあり、影にのみ、<lb />
+ひとりしづか、<lb />
+<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>のみ寂びたもつ<lb />
+杉よ檜。<lb />
+<lb />
+巣は<span type="ruby"><span type="rb">懸</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>る、高くのみ、<lb />
+ウメノキゴケ、<lb />
+<span type="ruby"><span type="rb">気色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>のみ、<span type="ruby"><span type="rb">母鳥</span><span type="rp">（</span><span type="rt">おやどり</span><span type="rp">）</span></span>や<lb />
+姿、<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ぶり。<lb />
+<lb />
+<span type="ruby"><span type="rb">現</span><span type="rp">（</span><span type="rt">うつつ</span><span type="rp">）</span></span>あり、しろくのみ<lb />
+濡るる光、<lb />
+卵のみ、おそらくは<lb />
+四つか<span type="ruby"><span type="rb">五</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>つ。<lb />
+<lb />
+色はあり、声にのみ、<lb />
+こさめひたき、<lb />
+雫よ雫よと、<lb />
+ただ幽かに。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi772">月に寄せて</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">言問</span><span type="rp">（</span><span type="rt">ことと</span><span type="rp">）</span></span>はむ、<lb />
+鉄塔の上に<span type="ruby"><span type="rb">坐</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>す<span type="ruby"><span type="rb">円</span><span type="rp">（</span><span type="rt">まど</span><span type="rp">）</span></span>かなる<span type="ruby"><span type="rb">月読</span><span type="rp">（</span><span type="rt">つきよみ</span><span type="rp">）</span></span>の神、<lb />
+<span type="ruby"><span type="rb">二三</span><span type="rp">（</span><span type="rt">ふたみ</span><span type="rp">）</span></span>すぢ細み引く<span type="ruby"><span type="rb">茜</span><span type="rp">（</span><span type="rt">あかね</span><span type="rp">）</span></span>の雲。<lb />
+<lb />
+刈りしほと麦は刈り<span type="ruby"><span type="rb">入</span><span type="rp">（</span><span type="rt">れ</span><span type="rp">）</span></span>ぬ。<lb />
+昼貌のほめきも過ぎぬ。<lb />
+<lb />
+いざ挙げむ琥珀のグラス、<lb />
+時惜む<span type="ruby"><span type="rb">夕</span><span type="rp">（</span><span type="rt">ゆふ</span><span type="rp">）</span></span>ひぐらし。<lb />
+影のみの紫ながら<lb />
+野に色む靄もあるなり。<lb />
+<lb />
+<span type="ruby"><span type="rb">虚</span><span type="rp">（</span><span type="rt">むな</span><span type="rp">）</span></span>しきは<lb />
+<span type="ruby"><span type="rb">虚</span><span type="rp">（</span><span type="rt">むな</span><span type="rp">）</span></span>しきは酒のみかは、<lb />
+影のみの色もあるなり。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi782">晩冬の詩情</span></span></span>
+<lb />
+晩冬の月に思ふ遊子は<lb />
+<span type="ruby"><span type="rb">潔</span><span type="rp">（</span><span type="rt">いさぎよ</span><span type="rp">）</span></span>く酒盃を噛む。<lb />
+凛烈たる霜、<lb />
+霜は湖畔の鉄塔を噛む。<lb />
+<span type="ruby"><span type="rb">灰銀</span><span type="rp">（</span><span type="rt">くわいぎん</span><span type="rp">）</span></span>の煙突を噛む。<lb />
+鴨だ、光つて<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">かづ</span><span type="rp">）</span></span>く<lb />
+<span type="ruby"><span type="rb">青首鴨</span><span type="rp">（</span><span type="rt">あをくび</span><span type="rp">）</span></span>は葦かびを噛む。<lb />
+ああ。轣轆と<span type="ruby"><span type="rb">礫</span><span type="rp">（</span><span type="rt">こいし</span><span type="rp">）</span></span>は噛む、<lb />
+車だ、唐辛子を積む車だ、<lb />
+犬よ、その<span type="ruby"><span type="rb">真紅</span><span type="rp">（</span><span type="rt">しんく</span><span type="rp">）</span></span>のこぼれを噛め。<lb />
+春だ、すぐ、<lb />
+こごえて酒盃を噛む。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi792">台南旅情</span></span></span>
+<lb />
+もの<span type="ruby"><span type="rb">憂</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>さや、<span type="ruby"><span type="rb">老酒</span><span type="rp">（</span><span type="rt">ラオチウ</span><span type="rp">）</span></span>や、<lb />
+<span type="ruby"><span type="rb">瓜子</span><span type="rp">（</span><span type="rt">クエチイ</span><span type="rp">）</span></span>はとり食めども、<lb />
+にほひなし、昼はまだ<lb />
+彩燈の切子硝子。<lb />
+<lb />
+<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">あだ</span><span type="rp">）</span></span>なりや、<lb />
+雲に行く日のまぼろし、<lb />
+ゆゑわかず、うつつなし、<lb />
+<span type="ruby"><span type="rb">女童</span><span type="rp">（</span><span type="rt">めわらべ</span><span type="rp">）</span></span>は言問へども。<lb />
+<lb />
+<span type="ruby"><span type="rb">梅雨</span><span type="rp">（</span><span type="rt">つゆ</span><span type="rp">）</span></span>ぐもり<lb />
+影にのみ、<span facs="../../../gaiji/1-91/1-91-26.png" rend="gaiji" rendition="img" source="※(「藹」の「言」に代えて「月」、第3水準1-91-26)" />たけて、<lb />
+低くのみ<lb />
+<span type="ruby"><span type="rb">烏秋</span><span type="rp">（</span><span type="rt">アアチウ</span><span type="rp">）</span></span>の飛びたわむと。<lb />
+<lb />
+濡れがちや、<lb />
+朱の<span type="ruby"><span type="rb">寂</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>びや、<lb />
+<span type="ruby"><span type="rb">反</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">棟</span><span type="rp">（</span><span type="rt">むね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">碾瓦</span><span type="rp">（</span><span type="rt">いしがはら</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">赤嵌楼</span><span type="rp">（</span><span type="rt">せきかんろう</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">瓜子</span><span type="rp">（</span><span type="rt">クエチイ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">瓜子</span><span type="rp">（</span><span type="rt">クエチイ</span><span type="rp">）</span></span>は眼の下の<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">ちひ</span><span type="rp">）</span></span>さ<span type="ruby"><span type="rb">黒子</span><span type="rp">（</span><span type="rt">ほくろ</span><span type="rp">）</span></span><lb />
+歯にあてつつ、<lb />
+歯にあてつつ、<lb />
+<span type="ruby"><span type="rb">愚</span><span type="rp">（</span><span type="rt">おろか</span><span type="rp">）</span></span>しく美しく時は過ぎぬ。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+註。瓜子（西瓜のたね）　烏秋（台湾烏）<lb />
+　　赤嵌楼（蘭人の所謂プロヒレンチヤ城なり）<lb />
+</span>
+</span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi802">蕃童</span></span></span>
+<lb />
+蕃童は<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-90/1-90-28.png" rend="gaiji" rendition="img" source="※(「鬼」の「丿／田」に代えて「義−我」、第3水準1-90-28)" />仔</span><span type="rp">（</span><span type="rt">キヨン</span><span type="rp">）</span></span>を射る。<lb />
+<lb />
+蕃童は弓矢<span type="ruby"><span type="rb">手</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ばさみ、<lb />
+蕃刀を玉と取り<span type="ruby"><span type="rb">佩</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>く。<lb />
+<lb />
+蕃童は母をうしろに、<lb />
+敢て立つ、岩根<span type="ruby"><span type="rb">蹴放</span><span type="rp">（</span><span type="rt">けはな</span><span type="rp">）</span></span>つ。<lb />
+<lb />
+蕃童は<span type="ruby"><span type="rb">朱砂</span><span type="rp">（</span><span type="rt">すさ</span><span type="rp">）</span></span>をよろしと、<lb />
+<span type="ruby"><span type="rb">風向</span><span type="rp">（</span><span type="rt">かざむか</span><span type="rp">）</span></span>ふ草をよろしと。<lb />
+<lb />
+蕃童は<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-90/1-90-28.png" rend="gaiji" rendition="img" source="※(「鬼」の「丿／田」に代えて「義−我」、第3水準1-90-28)" />仔</span><span type="rp">（</span><span type="rt">キヨン</span><span type="rp">）</span></span>を射る、<lb />
+竜眼の<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ぐれうかがふ。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="o-midashi" rendition="h3"><span rend="midashi_anchor" rendition="a" xml:id="midashi902">
+<span rend="sho1" style="font-size: small;">長唄</span>　元寇<lb />
+</span></span>
+</span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi912">
+<span rend="sho1" style="font-size: small;">長唄</span>　元寇<lb />
+</span></span>
+</span>
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi913">第一段</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">てん</span><span type="rp">）</span></span>に連る玄界の<lb />
+<span type="ruby"><span type="rb">際涯</span><span type="rp">（</span><span type="rt">はたて</span><span type="rp">）</span></span>はいづく壱岐対馬、<lb />
+夕浪千鳥群れかへる<lb />
+<span type="ruby"><span type="rb">蜑</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">小舟</span><span type="rp">（</span><span type="rt">をぶね</span><span type="rp">）</span></span>のそれならで、<lb />
+山かと高き<span type="ruby"><span type="rb">兵船</span><span type="rp">（</span><span type="rt">へうせん</span><span type="rp">）</span></span>の<lb />
+満々と張る真帆の数、<lb />
+<span type="ruby"><span type="rb">櫓</span><span type="rp">（</span><span type="rt">やぐら</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">撓</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>むる石火矢に<lb />
+軍皷の<span type="ruby"><span type="rb">調</span><span type="rp">（</span><span type="rt">しらべ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">旌旗</span><span type="rp">（</span><span type="rt">せいき</span><span type="rp">）</span></span>とどよもし、<lb />
+舳艫相<span type="ruby"><span type="rb">接</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>ぐ九百余艘、<lb />
+入日に染まる<span type="ruby"><span type="rb">船脚</span><span type="rp">（</span><span type="rt">ふなあし</span><span type="rp">）</span></span>や<lb />
+とどろと洗ふ<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>の手を、<lb />
+しや、ひた押しの陣がまへ<lb />
+<span type="ruby"><span type="rb">松浦</span><span type="rp">（</span><span type="rt">まつら</span><span type="rp">）</span></span>さしてぞ押し寄せたる。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi914">第二段</span></span></span>
+<lb />
+雲の峯<lb />
+涌くや渚のさきさきに<lb />
+<span type="ruby"><span type="rb">駅馬</span><span type="rp">（</span><span type="rt">えきば</span><span type="rp">）</span></span>しきりに嘶けば、<lb />
+<span type="ruby"><span type="rb">驚破</span><span type="rp">（</span><span type="rt">すは</span><span type="rp">）</span></span>こそ夷敵来襲と<lb />
+<span type="ruby"><span type="rb">上下</span><span type="rp">（</span><span type="rt">じやうげ</span><span type="rp">）</span></span>ひとしく色を失ひ、<lb />
+また風騒ぐ<span type="ruby"><span type="rb">谷</span><span type="rp">（</span><span type="rt">やつ</span><span type="rp">）</span></span>の松、<lb />
+今に知る法華経の行者日蓮が<span type="ruby"><span type="rb">諷諫</span><span type="rp">（</span><span type="rt">ふうかん</span><span type="rp">）</span></span>、<lb />
+まさしく、他国<lb />
+<span type="ruby"><span type="rb">侵逼</span><span type="rp">（</span><span type="rt">しんぴつ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">難</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>とは之なんめり。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi915">第三段</span></span></span>
+<lb />
+抑々蒙古ときこゆるは<lb />
+<span type="ruby"><span type="rb">草莽</span><span type="rp">（</span><span type="rt">さうまう</span><span type="rp">）</span></span>にして<span type="ruby"><span type="rb">胡沙</span><span type="rp">（</span><span type="rt">こさ</span><span type="rp">）</span></span>を馳駆し、<lb />
+万里北に蔓つて<lb />
+<span type="ruby"><span type="rb">勢</span><span type="rp">（</span><span type="rt">いきほひ</span><span type="rp">）</span></span>漢土に臨むや、<lb />
+金を<span type="ruby"><span type="rb">滅</span><span type="rp">（</span><span type="rt">ほろぼ</span><span type="rp">）</span></span>し、宋を傾け、<lb />
+余威高麗に及んでは<lb />
+しばしば本朝をもうかがふ。<lb />
+世界呑吐の<span type="ruby"><span type="rb">元</span><span type="rp">（</span><span type="rt">げん</span><span type="rp">）</span></span>の野望<lb />
+敢て挫かん鉄石の、<lb />
+この人ありや執権時宗、<lb />
+観ずれば明鏡止水のごとく、<lb />
+断じては山河ことごとく震ふとかや。<lb />
+曳くや<span type="ruby"><span type="rb">竜</span><span type="rp">（</span><span type="rt">たつ</span><span type="rp">）</span></span>の口、<lb />
+<span type="ruby"><span type="rb">冴</span><span type="rp">（</span><span type="rt">さえ</span><span type="rp">）</span></span>は一刀、<lb />
+死者の<span type="ruby"><span type="rb">素頭</span><span type="rp">（</span><span type="rt">すかうべ</span><span type="rp">）</span></span>刎ねざまに<lb />
+大喝してぞ立つたるは、<lb />
+げにおそろしき国つ<span type="ruby"><span type="rb">胆</span><span type="rp">（</span><span type="rt">きも</span><span type="rp">）</span></span>、<lb />
+由々しくもまた勇ましし。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi916">第四段</span></span></span>
+<lb />
+星月夜、<lb />
+鎌倉山のほのぼのに<lb />
+早や駈け向ふ東国勢を待たばこそ、<lb />
+今を危急の国難とて、<lb />
+すなはち<span type="ruby"><span type="rb">挙</span><span type="rp">（</span><span type="rt">こぞ</span><span type="rp">）</span></span>る鎮西は、<lb />
+探題太宰ノ少弐、<lb />
+菊池、大友、<lb />
+島津、竹崎の将兵を初めとして、<lb />
+所在の土豪、<lb />
+庶民、婦女子に至るまで、<lb />
+<span type="ruby"><span type="rb">必定</span><span type="rp">（</span><span type="rt">ひつぢやう</span><span type="rp">）</span></span>は公武一<span type="ruby"><span type="rb">丸</span><span type="rp">（</span><span type="rt">ぐわん</span><span type="rp">）</span></span>、<lb />
+老も若きも、<lb />
+恥あらば、<lb />
+死ねや死ねとぞ、<lb />
+有り合ふ鎧、物の具引きかけ、引き締め、<lb />
+えいやえい、<lb />
+えいおう、<lb />
+おうおうえいや、<lb />
+えいえいえい、<lb />
+<span type="ruby"><span type="rb">弓馬</span><span type="rp">（</span><span type="rt">きゆうば</span><span type="rp">）</span></span><span type="ruby"><span type="rb">刀杖</span><span type="rp">（</span><span type="rt">たうぢやう</span><span type="rp">）</span></span>とりどりに<lb />
+我も我もと馳せ集る。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi917">第五段</span></span></span>
+<lb />
+日の本は<lb />
+一天万乗の大君にましまして、<lb />
+我が御代を<lb />
+かかる乱れのあさましや、<lb />
+神に<span type="ruby"><span type="rb">御願</span><span type="rp">（</span><span type="rt">ごぐわん</span><span type="rp">）</span></span>をかけまくも、<lb />
+忝くもおん<span type="ruby"><span type="rb">命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>召させたまはむ、<lb />
+代らめと<lb />
+歎かせたまふ畏こさよ。<lb />
+<span type="ruby"><span type="rb">朝潔</span><span type="rp">（</span><span type="rt">あさぎよめ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">五十鈴</span><span type="rp">（</span><span type="rt">いすず</span><span type="rp">）</span></span>の川の<span type="ruby"><span type="rb">御手洗水</span><span type="rp">（</span><span type="rt">みたらし</span><span type="rp">）</span></span>や、<lb />
+<span type="ruby"><span type="rb">幣</span><span type="rp">（</span><span type="rt">ぬさ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">手向</span><span type="rp">（</span><span type="rt">たむけ</span><span type="rp">）</span></span>の男山、<lb />
+勅使<span type="ruby"><span type="rb">下向</span><span type="rp">（</span><span type="rt">げかう</span><span type="rp">）</span></span>と聞くからに<lb />
+<span type="ruby"><span type="rb">御陵</span><span type="rp">（</span><span type="rt">ごりやう</span><span type="rp">）</span></span>の杉の昼<span type="ruby"><span type="rb">闌</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>けて<lb />
+日の色添ふる蝉しぐれ、<lb />
+護摩の煙のしまらくも<lb />
+籠り絶えせぬ寺々山々、<lb />
+いづれは異国<span type="ruby"><span type="rb">調伏</span><span type="rp">（</span><span type="rt">てうぶく</span><span type="rp">）</span></span>の、<lb />
+はららはららと<span type="ruby"><span type="rb">大般若心経</span><span type="rp">（</span><span type="rt">だいはんにやしんぎやう</span><span type="rp">）</span></span>、<lb />
+物々しくぞ奉る。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi918">第六段</span></span></span>
+<lb />
+敵は名に負ふ大陸の<lb />
+銅羅のかけひき、<span type="ruby"><span type="rb">騎乗</span><span type="rp">（</span><span type="rt">きじやう</span><span type="rp">）</span></span>の功者。<lb />
+<span type="ruby"><span type="rb">縦</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>しや<span type="ruby"><span type="rb">火遁</span><span type="rp">（</span><span type="rt">くわとん</span><span type="rp">）</span></span>の術ありとも<lb />
+我に鍛への太刀剣、<lb />
+香取鹿嶋の神代より<lb />
+<span type="ruby"><span type="rb">正大</span><span type="rp">（</span><span type="rt">せいだい</span><span type="rp">）</span></span>ここに<span type="ruby"><span type="rb">鍾</span><span type="rp">（</span><span type="rt">あつま</span><span type="rp">）</span></span>れば<lb />
+やはかゆるがむ此の<span type="ruby"><span type="rb">備</span><span type="rp">（</span><span type="rt">そなへ</span><span type="rp">）</span></span>、<lb />
+照覧あれや<span type="ruby"><span type="rb">皇天</span><span type="rp">（</span><span type="rt">くわうてん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">皇土</span><span type="rp">（</span><span type="rt">くわうど</span><span type="rp">）</span></span>。<lb />
+海行かば水漬く屍、<lb />
+山行かば草むす屍、<lb />
+また顧みぬ<span type="ruby"><span type="rb">防人</span><span type="rp">（</span><span type="rt">さきもり</span><span type="rp">）</span></span>の<lb />
+昔ながらの雄たけびや。<lb />
+<span type="ruby"><span type="rb">水城</span><span type="rp">（</span><span type="rt">みづき</span><span type="rp">）</span></span>、博多は多多良が浜の防塁、<lb />
+別しては箱崎の宮の大前、<lb />
+一歩も上げじ許すなと、<lb />
+獅子奮迅に射放ち落せば、<lb />
+波を<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">くぐ</span><span type="rp">）</span></span>つて<span type="ruby"><span type="rb">軽舸</span><span type="rp">（</span><span type="rt">けいか</span><span type="rp">）</span></span>の面々、<lb />
+漕ぎ寄せ、漕ぎ寄せ、<lb />
+<span type="ruby"><span type="rb">日本国</span><span type="rp">（</span><span type="rt">につぽんこく</span><span type="rp">）</span></span>は四国の住人河野ノ<span type="ruby"><span type="rb">通有</span><span type="rp">（</span><span type="rt">みちあり</span><span type="rp">）</span></span>、<lb />
+いで物見せん、<span type="ruby"><span type="rb">夷原</span><span type="rp">（</span><span type="rt">えびすばら</span><span type="rp">）</span></span>、<lb />
+月は弓張る<span type="ruby"><span type="rb">幸先</span><span type="rp">（</span><span type="rt">さいさき</span><span type="rp">）</span></span>に、<lb />
+倒す<span type="ruby"><span type="rb">檣</span><span type="rp">（</span><span type="rt">ほばしら</span><span type="rp">）</span></span>渡りに船と<lb />
+乗りかけ、つけ入り、斬り込んだり。<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi919">第七段</span></span></span>
+<lb />
+頃しも弘安四年、<span type="ruby"><span type="rb">閏</span><span type="rp">（</span><span type="rt">うるふ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">七月</span><span type="rp">（</span><span type="rt">ふづき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">朔日</span><span type="rp">（</span><span type="rt">ついたち</span><span type="rp">）</span></span>、<lb />
+ああら不思議や、<lb />
+<span type="ruby"><span type="rb">京</span><span type="rp">（</span><span type="rt">きやう</span><span type="rp">）</span></span>にては<lb />
+晴れに晴れたる夏空に<lb />
+一朶の黒雲<span type="ruby"><span type="rb">神立</span><span type="rp">（</span><span type="rt">かむた</span><span type="rp">）</span></span>ち現れ、<lb />
+白羽はいだる鏑矢の<lb />
+見る見る輝き鳴動して、<lb />
+たちまち西へと飛び去りける。<lb />
+それかあらぬか志賀の嶋、<lb />
+海の中道、灘かけて、<lb />
+俄に起る一夜の<span type="ruby"><span type="rb">颶風</span><span type="rp">（</span><span type="rt">ぐふう</span><span type="rp">）</span></span>。<lb />
+あやめもわかぬ<span type="ruby"><span type="rb">暗闇</span><span type="rp">（</span><span type="rt">くらやみ</span><span type="rp">）</span></span>に<lb />
+裂けてつんざく稲妻や、<lb />
+滝なす雨は<span type="ruby"><span type="rb">百雷</span><span type="rp">（</span><span type="rt">ひやくらい</span><span type="rp">）</span></span>の<lb />
+音と轟く物凄さ。<lb />
+<span type="ruby"><span type="rb">騰</span><span type="rp">（</span><span type="rt">あが</span><span type="rp">）</span></span>るは<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">てん</span><span type="rp">）</span></span>の竜巻と<lb />
+逆巻き<span type="ruby"><span type="rb">喚</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>ぶ狂瀾怒濤、<lb />
+頼め頼めの錨も何の<lb />
+船は木の葉の漂ふごとく、<lb />
+ちやりやきりり、<lb />
+きりやきりり、<lb />
+ちやりやきりり、<lb />
+きりやきりり、<lb />
+ちぎるる鎖、命の友綱、<lb />
+<span type="ruby"><span type="rb">舷々</span><span type="rp">（</span><span type="rt">げんげん</span><span type="rp">）</span></span>相うち<span type="ruby"><span type="rb">潰</span><span type="rp">（</span><span type="rt">つい</span><span type="rp">）</span></span>えて、<lb />
+さしもの<span type="ruby"><span type="rb">元賊</span><span type="rp">（</span><span type="rt">げんぞく</span><span type="rp">）</span></span>十万、<lb />
+あはれや<span type="ruby"><span type="rb">千尋</span><span type="rp">（</span><span type="rt">せんじん</span><span type="rp">）</span></span>の底の藻屑となり<span type="ruby"><span type="rb">了</span><span type="rp">（</span><span type="rt">をは</span><span type="rp">）</span></span>んぬ。<lb />
+これぞ<span type="ruby"><span type="rb">神風</span><span type="rp">（</span><span type="rt">かみかぜ</span><span type="rp">）</span></span>。<lb />
+<span type="ruby"><span type="rb">勅</span><span type="rp">（</span><span type="rt">ちよく</span><span type="rp">）</span></span>をして<lb />
+祈るしるしの神風に、<lb />
+寄せくる波ぞ<lb />
+かつ砕けつる。<lb />
+寄せくる波ぞ<lb />
+かつ砕けつる。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1019">制作年表</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1029">制作年表</span></span></span>
+<lb />
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年<lb />
+　十三時半の風景<lb />
+<lb />
+昭和六年<lb />
+　路傍にねむる　　　　　　跳躍<lb />
+<lb />
+昭和七年<lb />
+　三宝寺池　　　　　　　　真夏<lb />
+　建速須佐之男命　　　　　丸彫<lb />
+<lb />
+昭和八年<lb />
+　晩冬詩情　　　　　　　　竜胆<lb />
+　本栖湖　　　　　　　　　月に寄せて<lb />
+　白須賀　　　　　　　　　神苑<lb />
+　雪暁<lb />
+<lb />
+昭和九年<lb />
+　雪朝　　　　　　　　　　道の手<lb />
+　水の上　　　　　　　　　こさめひたき<lb />
+　台南旅情　　　　　　　　蕃童<lb />
+　日なた<lb />
+<lb />
+昭和十年<lb />
+　西山荘　　　　　　　　　微笑<lb />
+　白樺<lb />
+<lb />
+昭和十一年<lb />
+　暁天<lb />
+<lb />
+昭和十二年<lb />
+　狙ひ　　　　　　　　　　熟眠<lb />
+　突撃<lb />
+<lb />
+昭和十三年<lb />
+　種子<lb />
+<lb />
+昭和十四年<lb />
+　長唄　元寇　　　　　　　海道東征<lb />
+</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1129">巻末記</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1139">巻末記</span></span></span>
+<lb />
+　此の詩集『新頌』は些か皇紀二千六百年記念として上梓するものである。<lb />
+　収むるところ、三十一篇、その数は至つて尠い。ただ重要作としての長篇三品があつて幾分の量を加へてゐる。長唄「元寇」は別として、詩は前集『海豹と雲』（昭和四年版）以後の作品の中、その精神と詩風に於て、ほぼ同型のものを選んでここに蒐めた。<lb />
+　一に貫通するところのものは日本精神であり、整律するところのものは万葉以前の古調に庶幾く、概ね四音五音六音の連鎖である。この傾向はもともと、『海豹と雲』の「古代新頌」その他に因を発し、今日に及んでゐる。私の最近の主流を成すものである。私としての蒼古調である。<lb />
+　思ふに、古人の胆を掴むにはその感動律を奪ふに如くはない。蒼古に溯つて之を求めようとした真意はここにある。<lb />
+　かくしてここに収めた諸作品は概ね同種同律のものであつて、之は編纂の主意が単一と整斉に存するからである。<lb />
+　この詩風以外の、短詩短唱、或は小曲風のものはまた別冊として編輯の上刊行する予定である。近代風の詩作品もまたここには割愛した。でこの蒼古調は私の詩風のすべてを示すものではないのであるから、右は諒承せられたい。<lb />
+　さて、ここに本集収録の作品に就いて、章を別つて、少しく解説して置く。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1140">海道東征</span></span></span>
+<lb />
+　この交声曲詩篇は、皇紀二千六百年奉讃の芸能祭に際し、日本文化中央聯盟の嘱に依り特に作詩したものであつて、信時潔氏之を作曲し、今秋、上演の予定である。なほ、この交声曲は、今度の国家的祝典に際しその公式のものとして選定、東京音楽学校に於て発表、畏くも　皇后陛下の行啓を仰ぐ筈になつてゐる。<lb />
+　作詩に就いては、眼疾最悪の時に当り、ほとほと難渋した。読みも書きもならない状態にあつたのである。で、古事記日本書紀等のそれらの資料は、妻や娘に、習字帖大に筆写してもらつた。無論大方は読ませて聴いた。作も口述が主であつた。機構が稍々大きく、歌ふものとしての整斉を節々句々或は字脚、アクセントの上に必要とし、相当に複雑してゐるので、眼を瞑つてただ心頭に案配し調律することは容易でなかつた。<lb />
+　さて、この「海道東征」はもともと　神武天皇讃歌として日向御進発より橿原の宮に於ける御即位に至る迄の結構を初念としたが、創作中、白肩ノ津御上陸に筆が及ぶ頃は既に制限された紙数を費して了つた。実演に要する予定の時間をも超過することになり、全体の三分の一に達せずしてうち切るの止むなきに至つた。で、早めながら、天業恢弘の一章を以て、一応の締めくくりをつけた。何れは之を前篇として、中篇後篇を成すべきであり、三部作として完うしたい考であるが、今は之を独立した一篇のものとして置く。<lb />
+　なほ、かうした交声曲詩篇の創作は、自身にとつて最初のものであり、日本に於て、その範例を見ることを得なかつたので、眼が見えぬ上に、全くの暗中模索であつた。しかしどうにか口述を了つてみると、更に進んでこの形式に向ふ気組もできて来たやうである。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1141">建速須佐之男命</span></span></span>
+<lb />
+　昭和七年盛夏、自分達の季刊誌『新詩論』の創刊に際し、油然たる感興を得て書き下した。この「建速須佐之男命」はこの「枯山の巻」に続いて、「参上りの巻」「宇気比の巻」「出雲の巻」を纏める筈であつたが、偶々その発表誌を喪つた為め、中絶して了つた。<lb />
+　主として古語古調を用ゐたのは、古事記以来の古語を自己の薬籠中に一応の整理を為て置きたかつたのである。生かすだけは自分のものとして生かすべきだと思つたのである。のみならず、品詞の古語の使用が頻出する為の調和の上からも考へられたのであつた。自由詩形としたのは、曩に謂ふところの古人の感動律を掴むに最も適切と信ずる表現を欲したからである。なほ思ふところがあつて、この篇には漢語を一語をも使用しなかつた。<lb />
+　内容の本筋は古事記に依拠し、日本書紀とその異本とを参酌した。構成に就いては、自己の解釈を以てし、更に近代の感覚と文化史的想像とを以てした。須佐之男命に就いての私の解釈は私としての見解である。私は彼の命を必しも暴悪神として居らぬ。童心ある勇猛の、極めて男性的な英雄神とし、また偉大なる、最も人間らしい神として考へてゐる。<lb />
+　なほ、私は何れは古事記を近代人の知性と感覚とを以て、改めて解釈しなほさうと考へてゐる。さうして之を詩に移入したくひそかに希つてゐる。で、この一篇は之等の片鱗に過ぎない。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1142">大陸序曲</span></span></span>
+<lb />
+　事大陸に関したものを主として蒐めた。私が満洲に遊んだのは、その事変前であつたが、何となく風雲の穏かならぬものが感じられた。「跳躍」の中には何か来るべきものの跫音が示唆されてゐる。<lb />
+「種子」の一篇は、交声曲「大陸」の序曲となるべきものである。<lb />
+　今次の事変に於ける作詩は未だ極めて尠い。恰も眼疾に罹り、その機を失つた。他日の集成を期したい。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1143">清明古調</span></span></span>
+<lb />
+　清明心を以て直入しようとした自然景情の幾篇であつた。中には依頼された雑誌の向によつて、多少平易な表現を用ゐた作もある。但し、之等の古調は私のものである。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1144">煙霞余情</span></span></span>
+<lb />
+　余情のみ、ただ幽かな煙霞。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1145"><span rend="sho1" style="font-size: small;">長唄</span>　元寇</span></span></span>
+<lb />
+　この長唄「元寇」は皇紀二千六百年祝典に際し、かの「海道東征」と同じく日本文化中央聯盟の嘱により作歌した。長唄としては私の処女作である。作曲は稀音家浄観翁の手に成る。<lb />
+　内容に就いて云へば、元寇といふ一大国難に於ける日本精神の顕現を骨子とした。所謂公武一丸となつて神洲を守護し、外敵にあたる。而も上御一人をはじめ奉り、下は庶民に至るまで正しく挙国一致の体勢のもとに、国体の尊厳と、皇道の大本、然してまた日本武士道の精華とを表現しようとした。世にいふ神風もさることながら、尽すべきことを尽して蒙古勢を撃破し得た執権時宗の胆と、皇軍の忠勇無比とがこの篇の眼目となるのである。この長唄は本年四月二十六日、歌舞伎座に於て公演せられた。各流家元をはじめ長唄界総動員の豪華演奏で、空前の盛事であつた。因みにその夜の出演者は左の通りである。<lb />
+<lb />
+<span rend="sho1" rendition="div" style="font-size: small;">
+<span rend="jisage_9" rendition="div" style="margin-left: 9em">
+作曲　　稀音家　浄観<lb />
+作調　　福原　　百之助<lb />
+作調　　望月　　太左吉<lb />
+<lb />
+</span><span rend="jisage_2" rendition="div" style="margin-left: 2em">
+第一段　第二段　第三段<lb />
+　　　　杵屋　　六左衛門　　　　杵屋　　佐吉　　　　笛　　梅屋　　竹次<lb />
+　　長　杵屋　　藤吉　　　　三　杵屋　　佐次郎　　　小皷　福原　　百之助<lb />
+　　　　中村　　六松次　　　味　杵屋　　佐三郎　　　小皷　福原　　春之助<lb />
+　　唄　杵屋　　六真次　　　線　杵屋　　勝吉治　　　大皷　梅屋　　左十郎<lb />
+　　　　杵屋　　勝五郎　　　　　杵屋　　太十郎　　　太鼓　梅屋　　金太郎<lb />
+<lb />
+第四段　第五段<lb />
+　　　　吉住　　小三郎　　　　　稀音家　浄観　　　　笛　　望月　　長之助<lb />
+　　長　吉住　　小太郎　　　三　稀音家　三郎治　　　笛　　住田　　又三郎<lb />
+　　　　吉住　　小七郎　　　　　稀音家　六四郎　　　小皷　望月　　左吉<lb />
+　　　　吉住　　小文郎　　　味　稀音家　四郎助　　　小皷　望月　　吉三郎<lb />
+　　　　吉住　　小桃圃　　　　　稀音家　四郎吉　　　大皷　望月　　吉之助<lb />
+　　唄　吉住　　小鉱次　　　線　稀音家　四郎太郎　　太鼓　望月　　長四郎<lb />
+　　　　吉住　　小五郎　　　　　稀音家　八郎　　　　太鼓　望月　　寿蔵<lb />
+<lb />
+第六段<lb />
+　　　　吉住　　小四郎　　　　　稀音家　和三郎　　　笛　　望月　　長之助<lb />
+　　長　吉住　　小桃次　　　三　稀音家　六四郎　　　笛　　住田　　又三郎<lb />
+　　　　吉住　　小真次　　　　　稀音家　五郎　　　　小皷　望月　　左吉<lb />
+　　　　吉住　　小兵衛　　　味　稀音家　六郎　　　　小皷　望月　　吉三郎<lb />
+　　　　吉住　　小吉郎　　　　　稀音家　和三助　　　大皷　望月　　吉之助<lb />
+　　唄　吉住　　小伝次　　　線　稀音家　三郎　　　　太鼓　望月　　長四郎<lb />
+　　　　吉住　　小三八　　　　　稀音家　和喜次郎　　太鼓　望月　　寿蔵<lb />
+<lb />
+第七段<lb />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　稀音家　六四郎<lb />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　稀音家　六郎治<lb />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　稀音家　八郎<lb />
+　　　　　　　　　　　　　　　　吉住　　小真次　　　　　　稀音家　四郎助<lb />
+　　　　　　　　　　　　　　　　吉住　　小七郎　　　　　　稀音家　四郎吉<lb />
+　　　　　　　　　　　　　　　　吉住　　小源次　　　　　　稀音家　四郎太郎<lb />
+　　　　　　　　　　　　　　　　吉住　　小五郎　　　　　　稀音家　和喜次郎<lb />
+　　　　　　　　　　　　　　　　吉住　　小伝次　　　　三　稀音家　四郎雄<lb />
+　　　　吉住　　小三郎　　　長　吉住　　小平次　　　　　　稀音家　五郎<lb />
+　　長　吉住　　小三蔵　　　　　吉住　　小吉郎　　　　　　稀音家　六郎<lb />
+　　　　吉住　　小四郎　　　　　吉住　　小郁郎　　　　味　稀音家　和三助<lb />
+　　唄　吉住　　小桃次　　　　　吉住　　小兵衛　　　　　　稀音家　三郎<lb />
+　　　　吉住　　小太郎　　　　　吉住　　小文郎　　　　　　稀音家　四郎兵衛<lb />
+　　　　　　　　　　　　　　　　吉住　　小桃圃　　　　線　稀音家　六八郎<lb />
+　　長　松永　　和風　　　　　　吉住　　小敞次　　　　　　稀音家　和桃次<lb />
+　　唄　杵屋　　六左衛門　　　　吉住　　小鉱次　　　　　　稀音家　四郎滋<lb />
+　　　　　　　　　　　　　　　　吉住　　小靖次　　　　　　稀音家　和三次郎<lb />
+　　　　稀音家　浄観　　　　　　吉住　　小健次　　　　　　稀音家　四郎作<lb />
+　　三　杵屋　　勝太郎　　　　　吉住　　小都蔵　　　　　　稀音家　四郎一<lb />
+　　味　稀音家　和三郎　　　　　吉住　　小喜蔵　　　　　　稀音家　六吉次<lb />
+　　線　杵屋　　佐吉　　　　　　吉住　　小雅次　　　　　　稀音家　六一郎<lb />
+　　　　杵屋　　栄蔵　　　　唄　吉住　　小寛次　　　　　　稀音家　政次郎<lb />
+　　　　　　　　　　　　　　　　吉住　　小紀彦<lb />
+　　　　　　　　　　　　　　　　吉住　　小喜雄　　　笛　　望月　　長之助<lb />
+　　　　　　　　　　　　　　　　吉住　　小英次　　　笛　　住田　　又三郎<lb />
+　　　　　　　　　　　　　　　　吉住　　小与作　　　小皷　望月　　左吉<lb />
+　　　　　　　　　　　　　　　　吉住　　小三八　　　小皷　望月　　吉三郎<lb />
+　　　　　　　　　　　　　　　　　　　　　　　　　　大皷　望月　　吉之助<lb />
+　　　　　　　　　　　　　　　　　　　　　　　　　　太鼓　望月　　長四郎<lb />
+　　　　　　　　　　　　　　　　　　　　　　　　　　太鼓　望月　　寿蔵<lb />
+</span>
+</span>
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1146">制作年表について</span></span></span>
+<lb />
+　制作年表は簡単にした。詳しい創作及び発表目録は、各年の白秋年纂『全貌』に採録してあるゆゑ、参照していただきたい。この期間は短歌の創作に没頭した為に、詩作は極めて尠かつた。<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">以上。</span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">昭和十五年九月</span>
+<span rend="chitsuki_7" rendition="div" style="text-align:right; margin-right: 7em">阿佐ヶ谷白秋居にて</span>
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em"><span rend="dai1" style="font-size: large;">著者識</span></span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

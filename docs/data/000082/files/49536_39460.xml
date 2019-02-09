@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>能因法師</title>
+        <author>岡本綺堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-05-31">作成</resp><resp /><note>
+<lb />
+底本：「修禅寺物語　正雪の二代目　他四篇」岩波文庫、岩波書店<lb />
+　　　1952（昭和27）年11月25日第1刷発行<lb />
+　　　2008（平成20）年2月21日第7刷発行<lb />
+初出：「帝國劇場」新歌舞伎研究會<lb />
+　　　1920（大正9）年11月初演<lb />
+入力：川山隆<lb />
+校正：noriko saito<lb />
+<date when="2010-05-31">2010年5月31日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>川山隆</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>noriko saito</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>能因法師</title><author>岡本綺堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em">
+　　登場人物<lb />
+<span type="ruby"><span type="rb">能因法師</span><span type="rp">（</span><span type="rt">のういんほふし</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">藤原節信</span><span type="rp">（</span><span type="rt">ふぢはらのときのぶ</span><span type="rp">）</span></span><lb />
+能因の弟子<span type="ruby"><span type="rb">良因</span><span type="rp">（</span><span type="rt">りやういん</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">花園少將</span><span type="rp">（</span><span type="rt">はなぞのゝせうしやう</span><span type="rp">）</span></span><lb />
+少將の奧<span type="ruby"><span type="rb">園生</span><span type="rp">（</span><span type="rt">そのふ</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">伏柴</span><span type="rp">（</span><span type="rt">ふししば</span><span type="rp">）</span></span>の加賀<lb />
+<span type="ruby"><span type="rb">陰陽師阿部正親</span><span type="rp">（</span><span type="rt">おんやうしあべのまさちか</span><span type="rp">）</span></span><lb />
+</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+藤原時代。秋のなかば。<lb />
+洛外の北嵯峨。能因法師の<span type="ruby"><span type="rb">庵</span><span type="rp">（</span><span type="rt">いほり</span><span type="rp">）</span></span>。<lb />
+藁葺の二重家體にて、正面の上のかたに佛壇あり、その前に經卷をのせたる經机を置く。<lb />
+佛壇につゞきて棚のやうなものを<span type="ruby"><span type="rb">調</span><span type="rp">（</span><span type="rt">しつら</span><span type="rp">）</span></span>へ、これに歌集または<span type="ruby"><span type="rb">料紙箱</span><span type="rp">（</span><span type="rt">れうしばこ</span><span type="rp">）</span></span>、硯など色々あり、下のかたは壁にてその前に爐を設く。下のかた折曲りて竹の<span type="ruby"><span type="rb">肱掛窓</span><span type="rp">（</span><span type="rt">ひぢかけまど</span><span type="rp">）</span></span>あり。家體の上のかたは奧の間のこゝろにて出入の襖あり。庭に面せる方は簾をたれたる半窓にて、窓の外には<span type="ruby"><span type="rb">糸瓜</span><span type="rp">（</span><span type="rt">へちま</span><span type="rp">）</span></span>のぶら下りし棚あり。庭の下のかたに低き垣の枝折戸、垣のほとりには秋草咲けり。垣の外には榎の大樹あり。うしろには森、丘、田畑など遠く見ゆ。<lb />
+<lb />
+</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+（<span type="ruby"><span type="rb">主人</span><span type="rp">（</span><span type="rt">あるじ</span><span type="rp">）</span></span>の能因法師、四十餘歳、上のかたの窓より首を出してゐる。その顏は日に<span type="ruby"><span type="rb">燬</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>けて眞黒になつてゐる。弟子の良因は庭に降りて落葉をかいてゐる。鳥の聲きこゆ。）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　どうもひどい落葉だな。秋もだん／＼に深くなつたとみえて、この頃は一日ごとに落葉が多くなつて來た。おゝ、鳥が頻りに鳴く。（空をみる。）けふは好い天氣だ。野遊びの人も澤山出たであらう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　（窓より聲をかける。）良因。良因。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい、はい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　好い天氣だな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　<span type="ruby"><span type="rb">朝夕</span><span type="rp">（</span><span type="rt">あさゆふ</span><span type="rp">）</span></span>は北山颪しがそろ／＼と身にしみて來ましたが、日のなかはまだ少し暑いくらゐでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　秋のゆふ日といふものは、<span type="ruby"><span type="rb">忌</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>にびり／＼と暑いものだ。かうして毎日毎日顏を晒してゐるのも隨分難儀だぞ。察してくれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　お察し申します。きのふは少し用があつて、京の町までまゐりますと、六條の河原にあなたと同じやうな首が<span type="ruby"><span type="rb">梟</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>らされて居りましたよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　六條河原に……獄門か。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　丁度そんな首でございました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　馬鹿を云へ。しかし斯うやつて首だけ晒してゐるところは、まつたく獄門だよ。隨分黒くなつたらうな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　好い加減に染まりました。もう<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">ちつ</span><span type="rp">）</span></span>との御辛抱でございませう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　あき風が大分吹いて來たから、もうそろ／＼と『秋風ぞ吹く白河の關』と遣つてもよからう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いや、まだ些と早うございませう。<span type="ruby"><span type="rb">奧州</span><span type="rp">（</span><span type="rt">あうしう</span><span type="rp">）</span></span>からこゝまで歸るには、道中の<span type="ruby"><span type="rb">日數</span><span type="rp">（</span><span type="rt">ひかず</span><span type="rp">）</span></span>がなかなかかゝりますからな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　毎日この糸瓜と睨みつくらをしてゐるのも隨分苦しいぞ。あゝ、秋風が<span rend="sesame_dot" rendition="em">もつと</span>吹いてくれ。あき風ぞ吹く白河の關……秋風ぞ吹く白河の關……。どうだ、幾たびも訊くやうだが、おれの顏も好い加減に黒くなつたらうな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　御心配には及びません。さうして根よく<span type="ruby"><span type="rb">天日</span><span type="rp">（</span><span type="rt">てんぴ</span><span type="rp">）</span></span>に晒しておゐでなさいましたから、染は<span type="ruby"><span type="rb">上染</span><span type="rp">（</span><span type="rt">じやうそめ</span><span type="rp">）</span></span>、眞黒々に染めあがりました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　誰が見ても長の道中をして來たやうにみえるだらうな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　それは大丈夫。<span type="ruby"><span type="rb">請合</span><span type="rp">（</span><span type="rt">うけあひ</span><span type="rp">）</span></span>でございますよ。およそ世界にそんな眞黒な顏をしてゐるのは、あなたと海坊主のほかはございますまい。はゝゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　はゝゝゝゝゝ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（<span type="ruby"><span type="rb">藤原節信</span><span type="rp">（</span><span type="rt">ふぢはらのときのぶ</span><span type="rp">）</span></span>、三十餘歳、<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>に來りてうかゞふ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　おたのみ申す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え。（おどろいて窓の下に來る。）もし、お師匠樣。だ、誰かまゐりました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　誰か來た……。（おどろく。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　さあ、早く、早く……。見られては大變でございます。早く、早く……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　いゝか、まだ歸らないと云ふのだぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　良因は留守かな。（大きく云ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい、はい。唯今まゐります。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（能因はあわてゝ窓から首を引込める。良因は何食はぬ顏で<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>に來る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい、はい。どなた……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　良因か。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　おゝ、節信樣でございましたか。さあ、こちらへ……。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（節信は内に入りて、縁に腰をかける。良因は氣づかはしさうに窓の方を見かへる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　おゝ、こゝの庭にも落葉が多い。もう秋になつたな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい。それをしきりに待つてゐるのでございますよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　秋になるのを待つてゐるのか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え。（<span type="ruby"><span type="rb">口隱</span><span type="rp">（</span><span type="rt">くちごも</span><span type="rp">）</span></span>る。）いえ、其。……秋になればお師匠樣も戻られませうかと存じまして……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　能因殿はいつごろ戻られるな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　なにを申すも<span type="ruby"><span type="rb">陸</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">奧</span><span type="rp">（</span><span type="rt">おく</span><span type="rp">）</span></span>、遠い道中でございますから、旅から旅をさまよひ歩いて、いつ戻られるか<span rend="sesame_dot" rendition="em">はつきり</span>とは判りませんが、先づ白河の關に秋風でも吹きましたら……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　（笑ふ。）これ、これ、嘘をつくな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え、決して嘘は申しません。お師匠樣はまつたく奧州から戻らないのでございます。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（再び窓の<span type="ruby"><span type="rb">方</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>を見かへる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　今あの窓から眞黒な首が出てゐたが……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（おどろく。）え。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　あれは誰だ。誰だな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いえ、それは何かのお見違ひでございませう。おゝ、それ、それ、あなたはあの糸瓜を御覽じたのでございませう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　えゝ、馬鹿なことを……。糸瓜が口をきいて堪るものか。わしが見た眞黒な糸瓜は大きな口をあいて、貴公を相手になにか笑つてゐたぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え。（いよ／＼困る。）へえ、その糸瓜が笑つてをりましたか。これは甚だ不思議なことで……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　とぼけるのも好い加減にしてくれ。なるほど、顏は眞黒でよく判らなかつたが、聲を聞いたのが<span type="ruby"><span type="rb">確</span><span type="rp">（</span><span type="rt">たしか</span><span type="rp">）</span></span>な證據だ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　でも、つんぼうの早耳といふことも……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　わしは聾ではない。今こゝで貴公と大きな聲でおしやべりをして、何か<span rend="sesame_dot" rendition="em">げら</span>／＼笑つてゐたのは、たしかに能因御坊の聲だ。いや、一體あの男が怪しからんぞ。この節信とは多年睦まじう附合つてゐながら、わしの顏をみて俄に逃げ隱れるなどとは、甚だ面白くない仕打だ。よし、よし、これから奧へ踏み込んで、能因めをこゝへ引摺り出して來るからさう思へ。（行きかゝる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　もし、もし、飛んでもないことを……。お師匠樣はまつたくお留守で……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　なにを云ふのだ。引込んでゐろ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（節信は奧へゆかうとするを、良因はあわてゝ遮り、兩人頻りに爭ふうちに、能因は窓から再び首を出す。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　まあ、待つてくれ、待つてくれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　おゝ、能因か。なぜ隱れてゐる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　それには色々仔細のあることで……。今そこへ行つて話すからお待ちください。（首を引込める。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　それ、みろ。師匠は内にゐるではないか。この嘘つき坊主め。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（節信は扇にて良因を一つ<span type="ruby"><span type="rb">毆</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>はせる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いや、どうも恐れ入りました。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（良因はあたまを抱へて閉口してゐる。奧より能因出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　節信殿、どうも御無沙汰をいたした。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　奧州へ旅行と聞いてゐたが、いつの間に戻つて來られた。いやどうも眞黒な顏になられたな。いかに長い旅をしたと云つて隨分ひどく日に燬けたものだ。（能因の顏をみて噴き出す。）これはどうも、はゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　そんなに黒くなりましたかな。（自分の顏を撫でる。）これ、良因。貴樣は上染だなどと無暗に煽てたが、ちつと色が濃過ぎたらしいぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　ちつと染めあがりが惡うございましたかな。この頃は何分にも秋の日が<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">きつ</span><span type="rp">）</span></span>うございますから……。いえ、夏のうちは丁度好い加減の黒さでございましたが、この半月ばかりで急に眞黒になりましたやうで……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　では、もう少し洗ひ落すかな。いや、又あまり洗ひすぎて元の白地になつても困る。なかなか染加減がむづかしいな。（しきりに顏を撫でまはしてゐる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　小野小町の草紙洗ひではあるまいし、洗へば白くなるの、黒くなるのと、それは一體どう云ふわけでござるな。はゝあ、さては貴公の顏の黒いのは何か墨でも塗つてゐられるのか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　どうして、どうして、墨を塗つて濟むくらゐならば、三月も四月も獄門同樣の苦しい思ひは致さぬのだが……この春から毎日毎日天日に照付けられて、面の皮は<span rend="sesame_dot" rendition="em">ひり</span>／＼する。いや、並大抵の辛抱ではござらなかつた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　はてな。どうも貴公達の云ふことはよく判らぬ。どうで長い旅をすれば、自然に日にも燬けるものを、なにも好んで無理に黒くするにも及ぶまい。元來があまり白くもない顏を、又その上に黒くしてどうするのでござるな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　それが其、どうも困つたな。もう斯うなつたら致し方がない。實は其、旅といふのは……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　あ、もし、もし……。（云ふなと制する。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　（かんがへる。）いや餘人でない節信殿だ。貴公に限つて、わたくしの祕密を打明けますれば、かならず御他言くださるな。よろしいか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　承知いたした。貴公とわしとの仲だ。<span type="ruby"><span type="rb">八百萬</span><span type="rp">（</span><span type="rt">やほよろづ</span><span type="rp">）</span></span>の神々に誓つて、なにごとも他言は致すまい。さあ、いかなる祕密も御遠慮なく……。（膝をすゝめる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　これ良因。節信殿は格別、ほかの人に聞かれては大變だぞ。よく表に氣をつけろよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい、はい。（門をみる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　實を申せば、その奧州の旅といふのは嘘でござる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　え、奧州へ旅立ちすると云つたのは嘘であつたか。なぜ又そんな嘘をいつて……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　叱ツ、叱ツ。（良因に。）これ、これ、表に誰もゐないか。劍呑だぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　大丈夫でございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　はゝあ、判つた。さては貴公。義理の惡い借財でも出來たがために、遠い奧州へ旅行すると詐つて、奧にかくれてゐたのだな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　いや、いや、大晦日まではまだ間もあるのに、決してそんな卑怯なわけでは……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　では……。（考へる。）おゝ、さうだ。人は見掛けによらぬもので、貴公は年甲斐もなく、若い女にでも係り合つて、その始末に困つた揚句が、留守をつかつて奧にかくれて……。いや、呆れた男だ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　いや、いや、そんな洒落れたわけでもない。實は近頃わたくしが歌をよみました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　貴公は名高い歌よみだ。定めて面白い歌であらう。して、その歌は……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　唯今お目にかける。お待ちください。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（能因は棚の箱から色紙を持つてくる。節信はうけ取りて讀む。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　都をば霞と共に出でしかど、あき風ぞ吹く白河の關。むゝ。（感心してゐる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　どうでせうな。都をば霞と共に出でしかど……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　秋風ぞふく白河の關。（大きく云ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　これ、靜にしろと云ふに……。表に誰も聞いてゐないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　あ、來ました、來ました。（向うを指さす。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　え。（おどろいて起つ。）ほんたうに來たか。來たか。（奧へ逃げ込まうとする。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　こいつ又かついだな。忌々しい奴だ。（安心して坐る。）ほんたうに冗談は拔きにして、眞面目にそこらを見張つてゐろ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はゝ、大丈夫でございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　（色紙を繰返してよむ。）いや、天晴れの秀逸、あき風ぞ吹く白河の關は面白い。今更ではないが、節信もほと／＼感心いたした。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　さあ、そこでござるて。わたくしも折角それだけの秀逸を浮びながら、唯つまらなく世に出しては、人がそれほどに賞美してもくれまいと存じて、色々に工夫をいたした。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　なるほど、成程。して、その工夫は……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　その工夫がなか／＼むづかしい。この良因とも相談いたして、色々に肝膽を碎いた揚句が、今度の旅で……。みちのくへ歌枕見にまゐると世間へは立派に披露して、實はこの春から我家の奧に隱れてゐました。（頭をかく。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　では、陸奧ではなくて家の奧に隱れてゐたのか。いや、ずるい男だ。わしもこれには一杯食はされた。はゝゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　もし、節信樣。<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>のお師匠樣ばかりではございません。室内旅行はこの頃の都の<span type="ruby"><span type="rb">流行物</span><span type="rp">（</span><span type="rt">はやりもの</span><span type="rp">）</span></span>でございますよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　そこで好い頃を見はからつて、能因は奧州の旅から歸つたと披露すれば、大勢の人があつまつて來て、きて道中は<span type="ruby"><span type="rb">如何</span><span type="rp">（</span><span type="rt">いかゞ</span><span type="rp">）</span></span>でござつた。奧州名物の<span type="ruby"><span type="rb">信夫</span><span type="rp">（</span><span type="rt">しのぶ</span><span type="rp">）</span></span>もぢ<span type="ruby"><span type="rb">摺</span><span type="rp">（</span><span type="rt">ずり</span><span type="rp">）</span></span>、野田の玉川、あさかの沼、<span type="ruby"><span type="rb">鹽釜櫻</span><span type="rp">（</span><span type="rt">しほがまざくら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">御覽</span><span type="rp">（</span><span type="rt">ごらう</span><span type="rp">）</span></span>じたかなどと云ふ。こつちは得たり賢しと、勿體らしくこの歌を持ち出して、あき風ぞ吹く白河の關……。いかにも實地を歌つたやうに聞えて、みんなも一入感心いたす。おなじ歌でも斯うして世に出せば十段も<span type="ruby"><span type="rb">價値</span><span type="rp">（</span><span type="rt">ねうち</span><span type="rp">）</span></span>があがつて、人の信仰も又格別といふもの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　（呆れる。）これはいよ／＼驚いた。風雅の<span type="ruby"><span type="rb">歌人</span><span type="rp">（</span><span type="rt">うたびと</span><span type="rp">）</span></span>とみせかけて、貴公も案外の山師だな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　風流專一の歌よみでも、このくらゐの宣傳を致さねば、今の世の中は渡られませんよ。が、こゝに唯一つ困つたのは……。（わが顏を指さす。）色を黒くすることで……。なにしろ都から奧州まで百里二百里の長い道中をしたといふからには、顏も手足もずゐぶん日に燬けてゐる筈。そこで又わたくしは工夫をいたした。表向きは留守と云つて、奧の一間に隱れてゐながら、人の見ない時をうかゞつて、毎日あの窓から首を出して、まるで生きた獄門も同樣、あさ日ゆふ日に晒されてゐました。能因が眞黒な顏のいはれはこの通り……。はて、お笑ひなさるな。當人はそれでも一生懸命でござつたよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　（ふき出す。）いや、もう何とも御挨拶ができぬ。あゝ、貴公は智慧者、世捨人には惜いものだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　ちつと智慧をお貸し申さうか。はゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　はゝゝゝゝ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（この時、良因は又もや向うを指さして騷ぐ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　もし、お師匠樣。來ました、來ました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　え、ほんたうか、ほんたうか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　今度こそは嘘いつはり無し、たしかに二人づれがこつちへ歩いてまゐります。おゝ、それ、それ、ひとりは歌自慢の加賀といふ生意氣な當世女、もう一人は花園の少將殿らしく見えますが……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　あの二人はかねて戀仲だと聞いてゐるから、幸ひ今日は日和もよし、手に手をひかれて秋の野邊を、そゞろ歩きなどしてゐると見えるな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　それはむかうの勝手だが、こゝへ押掛けて來られては甚だ迷惑。（たち上る。）これ、良因。もしも二人がこゝへ來たらば、おれはまだ奧州から戻らぬと云ふのだぞ。いゝか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　それは萬事心得てをります。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　こんなものを見つけられては大變だ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（節信より彼の色紙を取返へし、料紙箱にしまひ込む。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　少將殿がこゝへ參られては會釋などが面倒だ。わしもこれでお<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>といたさう。（庭に降りる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　あ、ちよいとお待ち下さい。折角おたづね下されたのだから、土産によいものを差上げませう。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（能因は袂より小さき鉋屑を取出し、懷紙にのせて勿體らしく出す。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　（うけ取りて不思議さうにみる。）これは鉋屑のやうだが……蚊いぶしには餘り輕少過ぎる。（摘んでみる。）さりとて<span type="ruby"><span type="rb">飯</span><span type="rp">（</span><span type="rt">めし</span><span type="rp">）</span></span>の菜にもなるまい。これは一體どうするので……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　節信殿ほどの<span type="ruby"><span type="rb">御人</span><span type="rp">（</span><span type="rt">ごじん</span><span type="rp">）</span></span>でも、おそらくは御存じあるまい。それは日本に二つとない珍しいもの。雉子も鳴かずば撃たれまいと歌はれて、むかしから有名の<span type="ruby"><span type="rb">長柄</span><span type="rp">（</span><span type="rt">ながら</span><span type="rp">）</span></span>の橋。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　むゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　その橋を作つたときの鉋屑で……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　いや、天下一品、これは恐れ入つた。さすがの節信も生れてから初めて見ました。しかしかやうな珍しいものを頂戴しては、こつちでも何か御返禮をいたさねばなるまい。（ふところを探つて舌打をする。）かうと知つたら持參するものを、あいにくに<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ置き忘れてまゐつた。では、後刻かさねて……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　決して義理堅い御返禮には及びません。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　あれ、あれ、もう二人がまゐります。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　さうか。さうか。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（節信はあわてゝ<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">もん</span><span type="rp">）</span></span>を出て、向うをみる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　おゝ、なるほど、來た、來た。今度は嘘ではない。能因殿、早く姿をかくさぬと<span type="ruby"><span type="rb">化</span><span type="rp">（</span><span type="rt">ばけ</span><span type="rp">）</span></span>の皮があらはれますぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　はい、はい。良因、いゝか。たのんだぞ。留守と云へ、留守といへ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（能因はあわてゝ奧に逃げ込む。節信は向うへ行きかけしが、更に路をかへて下の方に入る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はゝ、節信殿も面白い人だ。長柄の橋の鉋屑にはひどく恐れ入つて歸つたが、あの人のことだから、きつと負けない氣になつて、なにか又不思議な<span type="ruby"><span type="rb">古物</span><span type="rp">（</span><span type="rt">こぶつ</span><span type="rp">）</span></span>を持つてくるに相違ない。浦島の乘つた龜の甲だとか、八股の<span type="ruby"><span type="rb">大蛇</span><span type="rp">（</span><span type="rt">をろち</span><span type="rp">）</span></span>の尻尾だとか名をつけて、飛んでもないものを擔ぎ込んで來るだらう。なにしろ、家のお師匠樣とは好い取組だ。はゝゝゝゝ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（良因は再び庭を掃く。向うより花園少將、二十餘歳。院の女房加賀、廿歳ぐらゐにて、手に野菊の枝を持ち、むつまじげに連れ立つて出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　よい日和であつたなう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　山には紅葉、野には菊、きのふけふは秋の色もだん／＼に増してまゐりましたな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　さうぢや。さうぢや。秋の野山もこれからが面白いなう。さつきから其處らを果しもなくあるいたので、足も大分くたびれた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　何處かそこらで一休み致しませう。おゝ、あすこが宜しうございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　あの庵室めいた草の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>は誰の住居かの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　御存じはございませんか。あれは能因法師の宿でございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　なるほど、わしも一二度立寄つたことがある。あるじの能因は<span type="ruby"><span type="rb">陸奧</span><span type="rp">（</span><span type="rt">みちのく</span><span type="rp">）</span></span>の旅に出て、まだ歸らぬとか聞いてゐるが、誰か留守居の者があらう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　良因といふ暢氣なお弟子坊主が留守番をしてゐますから、休みながら何か面白い話でも聞きませうよ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（二人は門にくる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　良因さん。大層お掃除に精が出ますね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　や、これは加賀どの。おゝ、花園の少將殿も御一緒でございましたか。さあ、さあ、どうぞこちらへ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（花園と加賀は庭に入る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　おゝ、<span type="ruby"><span type="rb">主人</span><span type="rp">（</span><span type="rt">あるじ</span><span type="rp">）</span></span>は留守ぢやと聞くに、庭の手入れはなか／＼行屆いてゐるの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いえ、もう、毎朝やかましく叱られますので……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　え、誰に叱られるの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（あわてる。）えゝ、何、其。これまで毎朝叱られてゐた癖が付いてゐるので、師匠が留守でもこの通り綺麗に掃除をしてをります。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　かげひなたがなくて感心な男ぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　なんでも人間は正直が肝腎でございます。（<span type="ruby"><span type="rb">傍</span><span type="rp">（</span><span type="rt">わき</span><span type="rp">）</span></span>を向いて笑ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　小半日も歩いたせゐか、喉が渇いて來た。湯を一杯振舞つて貰へまいか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい、はい。唯今すぐに沸かして差上げませう。先づこれへお掛けくださいまし。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（花園は縁に腰をかける。良因は内へ入りて、爐に枯枝を焚きつける。加賀は垣のそばに立ちて草花などをながめてゐる。蟲の聲きこゆ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　おゝ、もう日が暮れかゝつて來た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　あきの日は短うございますよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　こゝらではまだ蟲の聲がきこえますね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　夜になるときり／″＼すが<span type="ruby"><span type="rb">枕邊</span><span type="rp">（</span><span type="rt">まくらもと</span><span type="rp">）</span></span>でも鳴いてをります。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　それは一入風流なことぢや。どうぢや、加賀。嵯峨野の秋のゆふべを題にして、お得意の歌でもよまぬか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　この頃は何だか<span rend="sesame_dot" rendition="em">うは</span>／＼してゐて、歌を詠まうなどと云ふ氣分に些つともなれませんの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　では、もう歌はお止めか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　止めるもんですか。今に日本一の歌よみになるんですもの、ほゝゝゝゝ。おゝ、それ、それ、その歌で思ひ出しました。いつかは云はう云はうと思ひながら、つい延び／＼になつてゐたのですが、ねえ、あなた……。わたくし、少しあなたに折入つてお願ひがございますの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　あらたまつて何ぢやの。いゝ着物でも欲しいといふのか。（笑ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　いゝえ、そんなことぢやございません。びつくりしちやあ不可ませんよ。（花園のそばに來て腰をかける。）あなたとは斯うして二年越しも仲好くしてまゐりましたが……。あの、今日かぎりでもう赤の他人になつて頂きたいんですが……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　え。（おどろいて起つ。）だしぬけに<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">何故</span><span type="rp">（</span><span type="rt">なぜ</span><span type="rp">）</span></span>そんなことを云ひ出したのぢや。なにか氣に障つたことでもあるのか。譯を聞かう。わけを云やれ。（詰め寄る。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　まあ、お待ち下さいまし。あなたは親切過ぎるくらゐに優しくして下さるんですもの、氣に障るやうなことは幾ら探したつてありやあ致しません。愛想づかしの種が無くつて困つてゐるくらゐでございますわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　それならば不足はない筈、なぜに縁を切らうと云ふのぢや。わからぬな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あなたには判らなくつても宜しいんです。ねえ、あなた。どうぞ他人になつてやると唯一言おつしやつて下さいよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　藪から棒にそれは無理ぢやよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　無理は初めから承知の上でございますよ。（たち上る。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　（※<span rend="notes">［＃「慌」の「亡」に代えて「曷−日−勹」、128-3］</span>てゝひき止める。）いや、おまへは兎角に我儘をいふが、それは宜しくないぞ。よく其譯を聞かぬうちに、無暗にこの返事がなると思ふか。積つてもみやれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　では、譯を申したら承知してくださいますね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　さあ、そのわけを聞いた上で、なるほどと<span type="ruby"><span type="rb">此方</span><span type="rp">（</span><span type="rt">こつち</span><span type="rp">）</span></span>の腑に落ちたら兎も角も……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　兎も角もではいけません。屹と承知すると仰しやつて下さい。ようございますか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まあ、仕方がない。よし、よし。（<span type="ruby"><span type="rb">澁々</span><span type="rp">（</span><span type="rt">しぶ／＼</span><span type="rp">）</span></span>ながら<span type="ruby"><span type="rb">首肯</span><span type="rp">（</span><span type="rt">うなづ</span><span type="rp">）</span></span>く。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　（再び腰をおろす。）その譯といふのは先づ斯うでございます。わたくしは去年の丁度今頃に、ふいと斯んな歌を思ひつきました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え、（思はず乘出して聽く。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　その歌は……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　かねてより思ひしことよ<span type="ruby"><span type="rb">伏柴</span><span type="rp">（</span><span type="rt">ふししば</span><span type="rp">）</span></span>の、<span type="ruby"><span type="rb">樵</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>るばかりなる嘆きせんとは。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　かねてより思ひしことよ伏柴の……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　樵るばかりなる歎きせんとは……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　（かんがへる。）むゝ。面白いなう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　面白い歌でございますな。（ひどく感心する。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　云ふまでもなく戀歌ぢやが、男に捨てられた時の心を詠んだものゝやうに思はれるの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（いよ／＼乘出してくる。）左樣、左樣。おもふ男に捨てられた時に、あゝ、大方こんなことになるだらうと思つてゐたと、しみ／″＼歎息するやうな女心のあはれさが窺はれますな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　それですから色々考へたのでございます。（起つてあるく。）折角これだけの名歌を思ひ附いたからには、なんでもこれは戀人をこしらへて……それもなるたけは身分の好い、世間に名を知られたお方を相手にして……中途で其人に捨てられる。さあ、その時に初めてこの歌を披露すれば、ほんたうにわたくしの心の底から絞り出されたやうに思はれて、あゝ可哀さうにとみんなが屹と感心しませう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　なるほど、なるほど。いや、似寄つた話もあるものだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　え。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　なに、こつちのことでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　世間の男どもは屹とさう云ふ女に同情して、わい／＼褒めちぎるに相違あるまい。わしも隨分覺えのあることぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　さうなればわたくしは、この歌一つのために忽ち世間に名がひろまります。さあ、世間でなんと云ひませうかねえ。かねてより思ひしことよ伏柴の……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　では、伏柴の加賀とでも申しませうかな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　伏柴の加賀……。風流な名ぢやなう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　さう、さう、伏柴の加賀……。屹とみんなが然う云ひませう。（縁に腰をかける。）さうしてそれが都は勿論、遠い陸奧から<span type="ruby"><span type="rb">筑紫</span><span type="rp">（</span><span type="rt">つくし</span><span type="rp">）</span></span>の果までも傳はつて、伏柴の加賀といへば日本に隱れのない才女、あつぱれの歌よみだと皆んなが褒めそやすに相違ございません。さうなれば本望ですわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　いや、わかつた。判つた。それでわしに捨てられたいと云ふのぢやな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あなたに捨てられなければ、いつまで經つてもこの歌を世に出すことが出來ないで、つまり寶の持腐れになつてしまふぢやございませんか。わたくしは去年あなたと戀した始めから、けふは捨てられるか、あしたは捨てられるかと、捨てられるのを待つてゐたのです。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　では、わしと戀をしたのも、その歌を世に出すための手だてであつたのか。いや、これはおどろいたなう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　それですから、こゝらであなたに捨てられると、萬事が都合よく參ります。ね、さうでせう。わたくしがあなたと戀する。さうして、あなたに捨てられる。そこでこの歌を披露すれば、誰だつて僞らざる告白だと思ひませう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　なるほど、自分の名を賣り擴めるにはよい工夫ぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あなたも感心なすつたら、この通り……。（手に持つ花を捨てる。）わたくしを打つちやつて下さるでせうねえ。早く返事をなさいよ。もう日が暮れますわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　これはあんまりぢや。困つたなう。（途方にくれてゐる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　これは内のお師匠よりも又<span rend="sesame_dot" rendition="em">ずつと</span><span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">うはて</span><span type="rp">）</span></span>だ。（感心する。）なるほど、この頃の女はえらいものだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　しかし物は相談ぢやが……。（加賀の手を取つて糸瓜の棚の下に來る。）先づ一旦おまへの望み通りに、わしはお前をふり捨てる。むごく<span type="ruby"><span type="rb">情</span><span type="rp">（</span><span type="rt">つれ</span><span type="rp">）</span></span>なく邪慳に振捨てる。おまへが一月ばかりも泣いて暮す。そこでその伏柴の歌を披露して世間の奴原をさん／″＼感心させて置いて、もう好い頃と思つたら、ふたりが元の通りに撚りを戻すと、かういふ趣向には行くまいかの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　（花園の手をふり拂つて縁の方へ來る。）それも惡くはございませんが、今から確にお請合はできませんね。だつて、かんがへて御覽なさいまし。あたくしが伏柴の加賀と名を知られるやうになれば、世間の若い人たちが屹と打つちやつては置きますまい。方々から戀歌や色文が雨のやうに來るでせう。<span type="ruby"><span type="rb">百夜通</span><span type="rp">（</span><span type="rt">もゝよがよ</span><span type="rp">）</span></span>ひの眞實をみせる人も出て來るでせう。さうなると、わたくしも色々に氣が迷ひますわ。（縁に腰をおろして考へる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いや、御もつとも、御もつとも。さうなるとなか／＼目移りがして、うつかり決めるわけには行きますまい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　（悲しい聲。）では、どうでもこれぎりか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　御縁があつたら又かさねて。（たち上る。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　いや、情ないことになつてしまつた。かうと知つたら、わしも何か悲しさうな歌を作つて置けばよかつたが、生憎にわしは歌が下手ぢや。いつそ其歌をこつちへ讓つてくれるわけには……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　御冗談仰しやつちや不可ませんよ。あら、あなた、涙ぐんでいらつしやるの。あなたも隨分男らしくないわねえ。（笑ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　お前もあんまり女らしくはあるまいぞ。やれ、やれ、とんだ目に逢ふものぢや。（歎息する。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（慰めるやうに。）今時の女と戀をなさるからは、遲かれ速かれこんな事になると云ふ御覺悟がなければなりませんよ。かねてより思ひしことよ伏柴の……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　樵るばかりなる歎きせんとは……。あゝ。情ない。しかし名歌ぢや。よく詠んだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　（又笑ふ。）あなたは泣きながら感心していらつしやるの。をかしうござんすわねえ。ほゝゝゝゝ。では、もうお暇をいたしますよ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（加賀は行きかゝるを、花園は駈寄つて袂を<span type="ruby"><span type="rb">捉</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まあ、さう現金にしないでもよさゝうなものぢや。せめて名殘りにもう少しこゝで話して行つてもよいではないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　さう事がきまりましたら、一刻も早い方がようございます。これから<span type="ruby"><span type="rb">歸路</span><span type="rp">（</span><span type="rt">かへり</span><span type="rp">）</span></span>に二三軒廻つて、この歌を吹聽して來ようと思ひますから……。（振切つて行きかゝる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　あ、もし、もし、それほどお急ぎならば、こゝに色紙も短册もあります。<span type="ruby"><span type="rb">寧</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>そこゝで二三枚かいて行つたら早手廻しでせうが……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　それは丁度都合が好いこと。それぢやあ二三枚書かしてくださいな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　さあ、さあ、御遠慮なく……。筆も硯も今持つてまゐります。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（良因は棚より筆、墨、硯、色紙、短册などを持ち來る。加賀は縁に腰をかける。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　さあ、澤山お書きなさい。五枚でも十枚でも百枚でも……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　もういつの間にか日が暮れて、<span type="ruby"><span type="rb">手下</span><span type="rp">（</span><span type="rt">てもと</span><span type="rp">）</span></span>が薄暗くなつて來ましたね。（花園に。）あなた、濟みませんが墨を磨つて下さいませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　はい、はい。かしこまりました。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（花園は墨を磨る。加賀は筆を執つて色紙に歌をかく。良因も首を出して見てゐる。このうちに奧の襖を<span type="ruby"><span type="rb">窃</span><span type="rp">（</span><span type="rt">そつ</span><span type="rp">）</span></span>と明けて、能因も顏を出してのぞく。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　先づこれで二枚書けましたわ。（云ひつゝ不圖能因の顏を見ておどろく。）あれつ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　え。（これも見かへりて驚く。）やあ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（ふたりは驚きて庭に飛び降りる。能因もあわてゝ襖をしめる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（きよろ／＼して。）もし、どうしたのでございます。天井から<span type="ruby"><span type="rb">壁虎</span><span type="rp">（</span><span type="rt">やもり</span><span type="rp">）</span></span>でも落ちてまゐりましたか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　壁虎どころか。あ、あの襖のうしろから化物が……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え、化物が……。あの奧から……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　眞黒な顏をして眼ばかり<span type="ruby"><span type="rb">晃</span><span type="rp">（</span><span type="rt">ひか</span><span type="rp">）</span></span>つた大坊主が……。いつの間にか<span rend="sesame_dot" rendition="em">ぬう</span>と首を出して……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　眞黒な大坊主が……。（噴出しさうになるのを、やつと呑込んで眞面目な顏。）はあ、さうでございますか。それは不思議……。（わざと考へる。）一體それは何者でございませうか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　わしにも判らぬが、大方は化物ぢや。（扇を持直して身がまへする。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　左もなければあんな所から眞黒な首を出す筈がありませんわ。（顫へる。）ねえ、あなた。どうしたら可いでせう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　古い家には鬼が棲むといふが、まつたくそれに相違あるまい。あるじの留守を窺つて、鬼めがいつの間にか入込んだとみえる。（良因に。）これまで別に怪しいことも無かつたかの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（眞面目で。）いや、さう云へば此頃はとき／″＼に不思議なことが無いでもございませんでした。どうかすると奧の方で、うはゞみのやうな大きな鼾の聲がきこえます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　まあ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　それから天氣の好い日には、あの窓から眞黒な大坊主の首が<span rend="sesame_dot" rendition="em">ぬつ</span>と出ます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　それぢや、それぢや。今そこに現はれたのは確にそれぢや。こりや飛んだところに來あはせたなう。（鐘の聲きこゆ。）おゝ、鐘が鳴る。今が<span type="ruby"><span type="rb">逢魔</span><span type="rp">（</span><span type="rt">あふま</span><span type="rp">）</span></span>が時といふのぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　ですから、わたくしは早く歸らうと思つたのに、あなたが無理にお止めなすつたもんですから……。あゝ、こんな處へ來なければよかつた。なにしろ、早く逃げませうよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　さうぢや、さうぢや。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（二人は逃支度をする。良因は縁を降りて止める。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（可笑さを隱して。）もし、もし、わたくし一人をこゝへ置去りにして、あなた方ばかり逃げて行かうとは、あんまり<span type="ruby"><span type="rb">情</span><span type="rp">（</span><span type="rt">なさけ</span><span type="rp">）</span></span>なうございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　いや、いや、もう一刻もこんな處にはゐられない。加賀、早う來やれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いえ、あなた方もかゝり合でございます。滅多にお歸し申すことはなりません。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（二人は逃げようとするのを、良因は意地わるく止める。この捫着のうちに花園は向うを見る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　や、よい人が見えたぞ。あれ、あれ、あすこを<span type="ruby"><span type="rb">阿部正親殿</span><span type="rp">（</span><span type="rt">あべのまさちかどの</span><span type="rp">）</span></span>が通る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　あれは都にかくれのない<span type="ruby"><span type="rb">陰陽師</span><span type="rp">（</span><span type="rt">おんやうし</span><span type="rp">）</span></span>ぢや。一體この家の奧には鬼が棲むか蛇が棲むか、占つて貰はうではないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　それがようございます。早くこゝへ呼びませうよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（少し困る。）いえ、それには及びますまい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まあ、兎もかく呼んでからのことぢや。おうい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　おうい。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（二人はしきりに呼ぶ。陰陽師阿部正親、<span type="ruby"><span type="rb">御幣</span><span type="rp">（</span><span type="rt">ごへい</span><span type="rp">）</span></span>を持ちて出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　はてな。わしを呼ぶのは何處か知らん。若い男と女の聲ぢやが。（前後を見かへる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　おうい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　おうい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　はてな。やつぱり判らぬ。（考へる。）おゝ、好いことがある。これぢや。（御幣を地に立てゝ、その倒れたる方を見て首肯く。）はゝあ、これを眞直にまゐれといふ神の御告げぢや。ありがたい、有難い。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（正親は再び御幣をいたゞいて、この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>にあゆみ來る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　おゝ、正親どの。よくぞお出でくだされた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　少將殿に加賀殿。これは能因法師の宿ではござらぬか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　左樣でございます。まあ、どうぞこつちへお通り下さい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　はい、はい。（庭に入る。）そこで、わたくしに何ぞ御用でもござるかの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　主人の能因が旅の留守に、この家にさま／″＼の不思議が起りました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　はてな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あの奧の間に怪しいものが棲んでゐて、時々に眞黒な顏を出すのでございます。一體あれは何者か、あなたに占つて頂くわけには參りますまいか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　それは雜作もないこと。わたくしは御存じの通り、陰陽博士<span type="ruby"><span type="rb">阿部晴明</span><span type="rp">（</span><span type="rt">あべのせいめい</span><span type="rp">）</span></span>が一の弟子、たとひ如何なる不思議がござらうとも、私がかならずその正體を見あらはして進ぜまする。して、その不思議といふのは、あの奧の一間のうちでござるか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　まあ、そんなやうな譯でございますが、失禮ながらあなたの御うらなひで、あの化物の正體が判りませうかな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　御念にはおよばぬ。今に奇特を見せまするぞ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（正親は縁に上りて、上のかたの襖にむかひて坐し、うや／＼しく御幣をさゝげて祈る。花園と加賀は一心に打守りゐる。家のうしろを囘りて來りし心にて、下のかたの垣の外に、能因忍び出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　（小聲。）良因、良因。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え。（左右を見まはす。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　こゝだ、こゝだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　え。（拔足して垣の<span type="ruby"><span type="rb">傍</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>にくる。）どうしてこんな處へお出でなさいました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　貴樣が詰らないことを云つて<span type="ruby"><span type="rb">嚇</span><span type="rp">（</span><span type="rt">おどか</span><span type="rp">）</span></span>すものだから、陰陽師などが遣つて來て、何だかあぶなさうになつて來たから、そつと裏口から拔出して來たのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　なにしろ、あいつの立去るまではそこらに隱れてお出でなさいまし。（云ひつゝ下のかたを見る。）や、大變。誰かまた此方へ來ました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　來たか、來たか。（あわてゝ家のうしろに隱れる。）</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（この中に正親は祈り終りて不思議さうな顏。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　はて、わからぬ。世にも不思議なことがあるものぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　お判りになりませぬか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　この一間のうちには何にも居らぬやうぢやが……。（かんがへる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　なんにも居りませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　内は<span type="ruby"><span type="rb">空虚</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>ぢや。藻拔の殼ぢや。鬼も人も棲んでゐるやうに思はれぬ。はてなう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（空呆けて。）でも、<span type="ruby"><span type="rb">唯</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>つた今たしかに眞黒な大坊主が首を出しましたが……。ねえ、お二人樣。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　さあ、たしかに出たやうに思はれたが……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　わたくしも確に見ましたわ。どうかもう一度占つて見てくださいませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　いや、幾度占つても同じことぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　當るも八卦、あたらぬも八卦とか云ふこともありますから、念の爲にもう一度……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　（居直る。）これは怪しからぬ事を申さるゝ。當るも八卦、あたらぬも八卦とは何事でござる。身不肖ながら正親は、大道占ひのたぐひではござらぬぞ。常時<span type="ruby"><span type="rb">日本</span><span type="rp">（</span><span type="rt">ひのもと</span><span type="rp">）</span></span>にかくれなき陰陽博士阿部晴明が一の弟子……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　それはもう判つてゐますよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　その正親が有るといへば有る、無いと云へば無い。それを疑ふは神をうたがふも同じことでござるぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　でも、現在奧にゐる者の正體が判らないぢやありませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　いや、判つてゐる。なんにも無いと判つてゐるのぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　なんにもない筈はありませんよ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（この爭ひの中に、下のかたより花園の奧方<span type="ruby"><span type="rb">園生</span><span type="rp">（</span><span type="rt">そのふ</span><span type="rp">）</span></span>出で來りて、垣の外より窺ふ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まあ、兩方でさう赤め合つても仕方があるまい。この奧に何がゐるか居ないかは、襖をあけてみれば判ることぢや。良因、念のために明けてみやれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　（わざと逡巡して。）いえ、それはまつぴら御免下さいまし。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まだ怖いか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　なんだかまだ不安心でございます。どうかあなた御自身で……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　いや、わしも御免ぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　誰だつて氣味が惡うございますわ。たしかに變なものがゐるに違ひないんですもの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　（いよ／＼怒る。）まだ<span type="ruby"><span type="rb">私</span><span type="rp">（</span><span type="rt">わし</span><span type="rp">）</span></span>を疑つてゐるのか。いよ／＼以て怪しからぬことぢや。さう云ふこなたこそ鬼か惡魔ぢや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　え、なんですつて……。わたしが鬼か惡魔ですつて……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　おゝ、此頃の<span type="ruby"><span type="rb">女子</span><span type="rp">（</span><span type="rt">をなご</span><span type="rp">）</span></span>は惡魔よりもおそろしいと、師匠の晴明どのが常々申されてゐるわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　なるほど、その占ひはよく<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あた</span><span type="rp">）</span></span>つてゐるかも知れない。（笑ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　ひとを馬鹿におしなさるな。なんでわたしが惡魔ですよ。（詰め寄る。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　神の御告をあざける<span type="ruby"><span type="rb">徒</span><span type="rp">（</span><span type="rt">やから</span><span type="rp">）</span></span>は惡魔も同然ぢや。<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">すさ</span><span type="rp">）</span></span>れ、すされ。（御幣にて加賀を打つ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　おや、わたしを<span type="ruby"><span type="rb">打</span><span type="rp">（</span><span type="rt">ぶ</span><span type="rp">）</span></span>ちましたね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　かうして惡魔を<span type="ruby"><span type="rb">攘</span><span type="rp">（</span><span type="rt">はら</span><span type="rp">）</span></span>ふのぢや。（又打つ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　わたしを狐だとでも思つてゐるんですか。もう堪忍ができませんよ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（加賀は正親の御幣を奪ひ取りて、あべこべに打つ。正親の烏帽子落ちる。正親怒つて御幣をうばひ返さんとし、たがひに挑み爭ふ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まあ、まあ、喧嘩をしては困る。これ、良因。見物してゐないで早く止めてくれぬか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい、はい。（笑つて見てゐる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　なんの、男に負けてたまるものか。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（御幣にて正親を又打つ。正親いよ／＼怒りてむしり合ふ。花園は制し兼ねてうろ／＼してゐるところへ、園生は走り入る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">園生　　（花園の胸倉をつかむ。）もし、あなた。なんでこんな處へ這入り込んでゐるんです。又この生意氣な、歌自慢の<span rend="sesame_dot" rendition="em">おしやらく</span>女と一緒に、こゝらをうろつき歩いてゐるんでせう。さあ、さあ、早くお歸んなさい。（無理無體に<span type="ruby"><span type="rb">引立</span><span type="rp">（</span><span type="rt">ひつた</span><span type="rp">）</span></span>てる。）日の暮れるのが判りませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まあ、待つてくれ。こつちには色々の事件が起つてゐるのぢや。お前などの來るところではない。早く歸れ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">園生　　あなたこそ來る處ぢやあありませんよ。さあ、わたしと一緒にお歸んなさい。（小突く。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　まあ、待てといふのに……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">園生　　いゝえ、待たれません。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（こゝにも花園夫婦の喧嘩がはじまる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いや、喧嘩が二組になつた。面白い、面白い。（笑つて見物してゐる。）</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（一方の正親は加賀をおさへ付けて<span rend="sesame_dot" rendition="em">ほつ</span>と一息つく。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　さあ、どうぢや。正親のうらなひが<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あた</span><span type="rp">）</span></span>つたか、外れたか、現在の證據をみせてやるわ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（加賀を突き放して、上の襖をがらりと明くれば、内から能因は再び眞黒な顏を<span rend="sesame_dot" rendition="em">ぬつ</span>と出す。出逢ひがしらに正親は<span rend="sesame_dot" rendition="em">あつ</span>とおどろいて飛び退く。加賀は顏を掩うてうつ伏す。花園も園生も<span rend="sesame_dot" rendition="em">きやつ</span>と云つて逃げ<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>く。園生は倒れながら花園にすがる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">園生　　もし。あ、あれは……。な、なんでございます。（顫へる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　な、なんぢや知らぬが、もう斯うしてはゐられないのぢや。（逃げかゝる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">園生　　（一生懸命に縋る。）どうぞわたしも一緒に連れて行つて下さいまし。足が顫へてもう一足も歩かれません。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　わはゝゝゝゝ。（高く笑ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　（泣聲。）それ、御覽なさいな。出て來たぢやありませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">正親　　こりやたまらぬ。大變ぢや、大變ぢや。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（正親は御幣を投り出して逃げ去る。花園もいよ／＼<span type="ruby"><span type="rb">悸</span><span type="rp">（</span><span type="rt">おび</span><span type="rp">）</span></span>えて逃げかゝれば、園生は縋りながら引摺られてゆく。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">園生　　もし、あなた、あなた……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　何でもいゝから、早く、早く……。うつかりしてゐたら鬼一口に<span type="ruby"><span type="rb">啖</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>はれうぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">園生　　え。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（又べつたりとなるを、花園は扶け起して逃げる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">花園　　さあ、早く、早く。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（花園夫婦はこけつ<span type="ruby"><span type="rb">轉</span><span type="rp">（</span><span type="rt">まろ</span><span type="rp">）</span></span>びつ逃げ去る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　あはゝゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　わはゝゝゝゝゝ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（二人は腹をかゝへて笑ふ。加賀は<span type="ruby"><span type="rb">怖々</span><span type="rp">（</span><span type="rt">こは／″＼</span><span type="rp">）</span></span>ながら透してみる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　お師匠樣。いや、面白いことでございました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　面白かつたな。おれも陰陽師が來たと聞いて、一旦は裏口へ逃げ出したが、喧嘩が餘り面白いので、又引返して覗きに來たら、だしぬけに襖を<span rend="sesame_dot" rendition="em">がらり</span>と明けられたには驚いたよ。併しみんな弱い奴等だ。おれの眞黒な顏に驚いて命から／″＼逃げてしまつた。はゝゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あら、あなたは能因さんぢやありませんか。まあ、人が惡い。私、どんなにびつくりしたか知れませんわ。良因さんも<span type="ruby"><span type="rb">同腹</span><span type="rp">（</span><span type="rt">ぐる</span><span type="rp">）</span></span>になつて、わたし達を嚇かしたのね。隨分ひどい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　いや、嚇かしたと云ふわけではないが、自然に物がかう間違つて來たので……。まあ、まあ、堪忍してください。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　ほんたうに惡い洒落ですわ。私、胸がまだ<span rend="sesame_dot" rendition="em">どき</span>／＼することよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　では、お湯を一つ……。丁度今沸きました。（湯を汲んで出す。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　しかし世の中はおそろしいものだ。わたしは「秋風ぞふく白河の關」の歌を世に出す爲に、これだけの苦勞をしてゐると、どうして、世間には又あなたのやうな<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">うはて</span><span type="rp">）</span></span>がある。「伏柴の樵るばかりなる」といふ歌一つを世に出すためには、若い女が自分の美しい顏や黒い髮や、柔かい<span type="ruby"><span type="rb">肉體</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">資本</span><span type="rp">（</span><span type="rt">もとで</span><span type="rp">）</span></span>に、わざ／＼ほかの男と戀をして、それを踏臺に自分の名を賣りひろめようとは……。おい、良因。なるほど今の世渡りはむづかしくなつたな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　とても女にはかなひませんよ。實に物すごい事でございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　おれの化物よりも餘つぽど凄いぞ。あゝ、怖ろしい、怖ろしい。實に怖ろしい世の中だ……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　では、あなたも自分の歌に勿體を付けるために、奧州へ旅行するなどと嘘をついて、内に隱れてゐたんですか。まあ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　何が<span rend="sesame_dot" rendition="em">まあ</span>だ。あなたが花園の少將と戀をしたのと同じことですよ。わたしの黒くした顏は、もう一度白くなる時もあるだらうが、あなたの身體は汚れたが最後、もう綺麗にはなりませんぜ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　（笑ふ。）そんなことは何うでも構ひませんよ。どうで女の戀といふものは一生に一度で濟みやあしませんわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　さあ、それだから怖ろしいと云ふのだ。では、いづれ近い中にあなたの歌が世に出るのですね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　感心して褒めちぎる奴の顏が見たうございますよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　えゝ。一日も早く世に出してみんなに褒められたいと思ひますわ。かねてより思ひしことよ伏柴の、樵るばかりなる歎きせんとは。あなたのも<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">いづ</span><span type="rp">）</span></span>れ出るんでせうね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　もう斯うなつてはぐづ／＼しちやあゐられません。あしたにも歸つたことにして、私もすぐに披露しませう。都をば霞と共に出でしかど、秋風ぞ吹く白河の關。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　どつちを人が褒めるでせうね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　世間には隨分あわて者が多いから、どつちも同じやうに擔ぎ上げることでございませうよ。おゝ、すつかり暗くなつて來ました。どれ、<span type="ruby"><span type="rb">燈火</span><span type="rp">（</span><span type="rt">あかり</span><span type="rp">）</span></span>をつけませうか。（奧に入る。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　併しこの祕密はおたがひに洩らしますまいね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　後日に露顯すれば兎もかくも、當分は何事も<span type="ruby"><span type="rb">窃</span><span type="rp">（</span><span type="rt">ひそか</span><span type="rp">）</span></span>に、ひそかに……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　ほんたうに然うですわ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（下のかたより藤原節信は<span type="ruby"><span type="rb">松明</span><span type="rp">（</span><span type="rt">たいまつ</span><span type="rp">）</span></span>を持ちて急ぎ出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　頼む。たのむ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あ、また誰か來たか。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（能因はあわてゝ奧に逃げ込む。引き違へに良因は燈臺を持ちて出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　はい、はい、どなた……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　（急ぎ入る。）<span type="ruby"><span type="rb">能</span><span type="rp">（</span><span type="rt">のう</span><span type="rp">）</span></span>……。（云ひかけて加賀を見返り、あわてゝ口をつぐむ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いえ、御遠慮には及びませんよ。この御婦人はこつちよりも上手なのでございますから……。さあ、どうぞお上り下さいまし。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（能因は奧より出る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　おゝ、節信どの。又お出でなされたか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　早速ながら先刻の御返禮にまゐつた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　大方さうであらうと存じましたよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　長柄の橋の鉋屑といふ天下一品の古物を頂戴したからには、こちらでも相當の御返禮をいたさねば相成るまいと、早々に屋敷へ立戻つて、かやうなものを持參いたした。どうぞ御受納をねがひたい。（ふところより紙づつみを出す。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　これは義理のお固いこと。貴公の御返禮とあれば定めてお珍らしいものでござらう。早速拜見……。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（能因は紙づつみを披く。加賀も良因ものぞいて見る。包の中よりは干した<span type="ruby"><span type="rb">蛙</span><span type="rp">（</span><span type="rt">かはづ</span><span type="rp">）</span></span>が一匹出る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あら、忌だ。まあ、こんなものを……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　これは蛙の干物のやうでござるな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">良因　　いくらお師匠樣が<span type="ruby"><span type="rb">惡物食</span><span type="rp">（</span><span type="rt">あくものぐ</span><span type="rp">）</span></span>ひでも、ひきがへるの干物は召上りますまい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　（自慢らしく。）それは<span type="ruby"><span type="rb">井出</span><span type="rp">（</span><span type="rt">ゐで</span><span type="rp">）</span></span>の玉川の蛙でござる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　はゝあ、成程。むかしから歌によむ井出の玉川の蛙でござるか。（蛙の足を<span type="ruby"><span type="rb">摘</span><span type="rp">（</span><span type="rt">つま</span><span type="rp">）</span></span>んでぶらさげて見る。）いや、これはお珍らしいものを有難うござる。世間には隨分書畫骨董を珍重いたす人も澤山ござるが、蛙の干物までは手がとゞきますまい。骨董趣味もこゝまで進まねば話せませんな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　まあ、ばか／＼しい。鼻の缺けた觀音樣や、蟲の<span type="ruby"><span type="rb">蝕</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>つた繪卷物の穿索で足りないで、かんな屑や蛙の干物まで大事にするとは……。これを思ふと骨董趣味なんて云ふものは、つまり氣違ひの道樂ですわね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">節信　　なに、氣違ひだと……。これは怪しからん。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　まあ、まあ、よろしい。兎かく今の人は喧嘩が好きで困る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　だつて、あんまりばか／＼しいんですもの。そんな干枯びた穢いものを……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　干枯びた穢いもの……。あなただつて、<span type="ruby"><span type="rb">何日</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>まで若くつてはゐない。やがてこんな干枯びた……。（蛙を眼のさきへ突き出す。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">加賀　　あれ、<span type="ruby"><span type="rb">忌</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>ですよ。（飛び<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>く。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">能因　　はゝゝゝゝゝ。</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">――幕――</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

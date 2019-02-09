@@ -1,0 +1,1176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>武蔵旅日記</title>
+        <author>山中貞雄</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2012-09-25">作成</resp><resp /><note>
+<lb />
+底本：「山中貞雄作品集　全一巻」実業之日本社<lb />
+　　　1998（平成10）年10月28日初版発行<lb />
+底本の親本：「山中貞雄シナリオ集」竹村書房<lb />
+　　　1940（昭和15）年発行<lb />
+※「Ｆ・Ｏ」はフェード・アウト、「Ｓ」はシーン、「Ｔ」はテロップ／タイトル（字幕）、「Ｏ・Ｌ」はオーバー・ラップはエフェクトです。<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：平川哲生<lb />
+校正：門田裕志<lb />
+<date when="2012-09-25">2012年9月25日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>平川哲生</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>門田裕志</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>武蔵旅日記</title><author>山中貞雄</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　芸州広島</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　弥生ヶ岡の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　花時雨</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝弥生ヶ岡</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　花が散る、花が散る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　群集がワーと喚声を挙げた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　大声に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「喜平次の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　馬鹿野郎！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　斬られて了え！」（少し大きな字）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　有馬喜平次を先頭に紫羽織十五人組が抜刀でじりじり迫る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　群集、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「宮本先生</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其奴を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　叩ッ斬って下され！」（文字少し大きく）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵、両刀を抜いて毅然と立つ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　群集が又、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「喜平次は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　鬼だ！」（少し大きく）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「此の町の毒虫だ！」（少し大きく）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　紫羽織の一人、怒って武蔵に斬って掛かる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　一足退いて武蔵、其奴を叩ッ斬る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ワーと挙がる喚声。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乱闘、派手な奴。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　群衆の喚声。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵の大奮戦。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　遂に喜平次、叩ッ斬る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ワーと挙がる見物の喚声。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝大川</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乗合舟。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　大勢の乗客の中に旅の商人が一人、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　（薬売の様な風体）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　それが、話し手である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「その宮本先生の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　強い事、強い事」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「先づ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　日本一で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座んしょうね」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　感心する乗合の客。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　舟端で聞くとも無しに此の話を聞いて居た、女賊白狐のおしまが、そッと微笑んだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　そして、独り言、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「そんな強い先生に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　一度、遭って</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　見たい」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　川の流れ。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　兎も角</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　当時、宮本武蔵の名は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　津々浦々に響き渡っていた</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝道場の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　念流剣道指南、森脇左十郎の門外である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　今しも、その表に立ち止った一人の武者修業の侍（早水団九郎）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　のこのこ門内へ入る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝玄関で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎が取次の侍に向って大声挙げて叫んだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「拙者、天下の浪人</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵政名と</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　申す者」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「ソーラ来た」と取次の侍早顔色が無い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、尚も大声に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「先生に一本</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御手合せ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　願い度く」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　取次の侍「暫時御待ちの程を」と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　泡喰って、奥へ注進する。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　してやったりと団九郎、ほくそ笑んだ。</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　やがて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　取次の侍が、恐る恐る出て来て、其の場にペタリと平伏した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「如何で御座る」と団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　侍が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「先生</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　只今御病気中に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座れば」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ナニッ病気、と団九郎、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　取次の侍、紙包を取り出して、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「誠に軽少に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座るが</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ホンの草鞋銭」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と団九郎の前に差し出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　してやったりと団九郎、「それは残念」とか何とか言い乍ら、その紙包を受け取った。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　出て来た団九郎、紙包を取り出して中の金子を、紙入れに収めて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　せせら笑って、立ち去った。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝別な道場の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　今度は一刀流の先生、浮田源兵衛の門前だ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、悠々として、門内に入る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝玄関</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　頼もう、と呼ぶ声に応じて取次の侍。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎声張り上げて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「拙者天下の浪人</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵政名と申す」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　で取次の侍、例の如く驚いた。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝門前</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、紙包貰って出て来た。封を破って金子を紙入れに収めて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　せせら笑って、立ち去った。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝又他の道場の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　今度は心貫流貝沢万右衛門先生の門前。団九郎、例に依って、フンゾリ返って門内に入る。</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　やがて又、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ふんぞり返って出て来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　紙包の中の金子を紙入れに収め、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　せせら笑って、立ち去る。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　（団九郎は一見強そうな男である事。道場は三つとも、貧弱な道場である事）</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝旅籠美濃屋の一室</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宿帳の大写。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、宿帳を取り上げて、さらさらと姓名を書いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　受け取った亭主が見ると、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宿帳の大写。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　肥後熊本浪人</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵政名、とある。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　エッと亭主が驚く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、床を背に豪然と坐す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「それでは</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　貴方様がッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ナンダと団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「あの有名な</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二刀流の先生」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「如何にも」と団九郎、威張ったものだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主も大喜びに「それは、それは</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「ようこそ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御泊り下さいました」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と下へも置かぬ待遇です。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎すっかり悦に入った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主は宿帳をつくづく見て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「この宿帳は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　永く当家の家宝として</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　子々孫々に伝えます」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と押し戴いたので、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎先生益々得意然として居る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝帳場では</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　又大騒ぎである。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二階から下りて来た女中の報告で、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　番頭や女中が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「宮本武蔵？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と囁いて居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その時、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　丁度今旅籠に着いて足を洗って居た白狐のおしまが、その声を聞いて、アレッと言った顔。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝団九郎の室</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主を前に団九郎、身振り手振りも面白く、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　勝手な武勇伝に、熱を上げて居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主、謹んで聴いて居たが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「では又、後程」と引き退る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝廊下</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　出て来た亭主は宿帳持って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　隣の室へ入る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　女中に案内されて、おしまが通り過ぎる。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝隣室</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　入って来た主人。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其処に泊って居るのが、本当の宮本武蔵である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、亭主から宿帳を受け取った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　開いて、見て、アレッ、と呆れた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「宮本武蔵」と独り言し乍ら、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主に「宮本武蔵どのと言うのは？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と訊く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主が聞かれて「よくお訊ね下さいました」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　実は、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「隣りの室のお客様が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵先生」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　これには武蔵、ばからしゅうて暫時言葉も出なかった。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　やがて、心に何か決する処があってか、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「宮本先生と</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御同宿致すとは</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　願ってもなき倖せ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　そうで御座います、と亭主。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「御亭主</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　折入って</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御頼みがある」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　何で御座いますか、と亭主。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝おしまの室</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしま褞袍と着換えてやっと落ち着いた処。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　嬉しそうで独り言、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「どうやら</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵って先生に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　遭えるらしい」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝団九郎の室</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵を伴って亭主が団九郎の前に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　平伏して、頼み込んで居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、例の如く、ふんぞり返って居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「身共の弟子に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　なりたい？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「先生の門人として</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　道中御供</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　致し度う御座る」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ウンウンと団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主も傍から頼む。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎がよろしいと承知したので、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二人は喜んで礼を述べる。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　さて</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　翌る日――</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝街道</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　早水団九郎、荷物を全部、宮本武蔵に持たせて威張り返って歩いて行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎歩き乍ら武蔵を振り返る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「今迄何流を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　学んで居った？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が「ハイ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「吉岡憲法先生の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　吉岡流を少々ばかり」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、ウンウン、アーアー。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「吉岡の憲公か」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　まるで憲法が自分の弟子みたいな調子である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「憲公も、噂ほど強う無い喃」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　これには武蔵、思わず苦笑する。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、道端の草をむしり取って、団九郎の背後から、その首筋をその草で、そッと撫でる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　（薄の様な草）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、首をちぢめる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　がその儘歩いて行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵又こそぼる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、立ち止った。首筋を撫でて見て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵に、何か居るか見て呉れ、と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、覗き込んで叫んだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「アッ、毛虫ッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　で今迄威張り返って居た団九郎がワーと真蒼な顔で跳び上った。（仰々しく驚く事）。</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝街道の茶店</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　白狐のおしまが休んで居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　傍に武者修業らしい武家一人。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまがじろッと侍の方を凄い眼で睨んで、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　独りほくそ笑む。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と「茶代を置くよ」と言い捨てて立ち上る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武家、つと懐に気附いて手を入れて見る</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と紙入れが無い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしま茶代を置いて去ろうとする。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　侍「アッ、これ」と、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまに追い附いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　いきなり、利腕つかんで捻じ伏せた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「何をするんだい？」とおしま。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　侍、おしまの懐から己の紙入れを奪い返して、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「素太い女奴ッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　とおしまを膝下に組み敷いて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「代官所へ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　突き出してやる」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其処へ、武蔵を供に団九郎が現れて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　此の様子を見るや、馳け出して、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　侍を突き飛ばし、おしまを背後にして立つ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武者修業の侍が、突かれて怒った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「何だ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　貴様ァ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その声に団九郎、少し驚いたが、女の手前威張って言った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「拙者天下の浪人</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵政名と申す」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　聞いて、その侍は、驚いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「デハ貴殿が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本先生」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　そうじゃ、と団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その侍、ハハッ、と平伏して「知らぬ事とは申せ無礼の段平に」と謝まった。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　で、団九郎、女の見て居る前で、断然男ッ振りを上げて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまは、愈々、此の日本一の先生が好きになったと言った顔で、頼もしそうに団九郎の顔を惚れ惚れと見上げました。武蔵は相変らずの微笑で始終の様子を見て居ります。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝旅籠若狭屋の一室</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎とおしまが、今着いて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　やっと、くつろいだ処。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまが団九郎に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「妾なんぞが</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御一緒に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お供して」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「御迷惑で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座いましょうね」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎が中々もって迷惑どころか、却って喜んで居りまする。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまが、言いにくそうに、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「御迷惑で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座いませんのなら」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、艶な瞳で、団九郎をチラと見て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「いつまでも</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御一緒に御供が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　致し度う御座いますわ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言われて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、身体がゾクゾクして来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が風呂から帰って来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまは、代って風呂へ出て行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　うっとり見惚れた団九郎。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝同じ室</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、室の隅の鏡を出して来て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　つくづく己の顔を見て独り言。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「近頃は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　斯う言う顔が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　女にもてるらしい」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　室の隅の柱にもたれて居た武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「馬鹿だなァ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　先生は」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ナニッと団九郎、いきごんで武蔵を見る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「そんな顔は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　女にもてませぬ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、語気荒く、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「しかし</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　あの女は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　身共にッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と喰って掛かるのを、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「だから</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　先生は馬鹿だ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と申した」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言われて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎烈火の如く怒った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「師に向って</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　無礼の雑言ッ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と掴みに掛る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　利腕掴んで武蔵、団九郎を投げる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　投げられて、オヤッと団九郎、意外な顔。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　又、組み附いて又投げられた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ドシンと大きな音。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その時、ガラッと障子が開いて、風呂上りのおしまが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「何で御座いますの</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　今の音は？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と訊かれて室の隅で、団九郎、変な顔。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「今先生に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　柔道の稽古を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　致して貰いました」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　まァとおしま。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「今の物音は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　拙者が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　投げられました音」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言われておしまが、うっとりと、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「まァ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「お強う御座いますのね</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　先生は？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎先生、投げられて腰が痛いが、泣くに泣かれぬ苦笑い。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝街道の朝</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎とおしま、後から武蔵がお供する。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、おしまに、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「拙者の顔は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　女にもてんと</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　申しおった」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　まァとおしまが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「だって先生</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　此処に一人</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　そのお顔に」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と団九郎に寄り添って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「ぞっこん</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　惚れた女が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　あるじゃ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座いませんか？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、すっかり悦に入ってしまった。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしま、草鞋の紐が解けたので、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　立ち止った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎と武蔵は先へ行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしま漸く紐をしめ直して立ち上った時、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　一人の侍とすれ違った。（門人数名を供に連れている）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　こらッと、その侍白倉源五左衛門、おしまの腕を掴む。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまの手に白倉の紙入れ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　奪い返して白倉が、おしまを突き倒す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　倒されたおしまが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「畜生、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　吠え面掻くなッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ナニッと白倉。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「宮本先生を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　呼んで来るよ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「日本一の強い人</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵先生を」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　源五左衛門が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「面白いッ、呼んで来い！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「宮本武蔵を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　呼んで来いッ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　仕出しが若干立ち止る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎と武蔵が、おしまが遅いので戻って来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　早くもそれと見て、おしまが「先生ッ」と馳け寄って、縋る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、おしまを背後にして、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　威張り返って源五左衛門の前に進み、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「身共天下の浪人</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵政名</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と申す者」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　へへッと驚くかと思いの外、白倉源五左衛門一歩進み出て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「貴様が武蔵か？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　えッと団九郎、少し蒼くなる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　源五左が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「白倉源五左衛門が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　勝負しよう</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　道場へ来いッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、しまったと思ったが遅い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまが袖を引いて、引ッ叩いておやりなさいと言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、虚勢を張って、ようしッ来いと承知した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其処で、源五左と団九郎、肩を並べて歩き出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　後から、おしまに武蔵、更に門人一同。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、ニコニコ笑って行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　群集も、ぞろぞろ後から従う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その群集の一番最後の遊び人風の男が二人、歩き乍ら話し合う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「どちらが</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　勝つだろう」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と甲が言えば、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乙が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「そりゃ、宮本武蔵サ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　甲が、いやいや、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「白倉先生も</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　強いぞ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乙がナニッ、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「よしッ一番</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　賭けよう」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と気が早い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　面白いと甲も乗り気だ、が金は無し。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「金あるか？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乙が「無いから、仕方がねえ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「負けたら</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　着物をぬぐんだ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ようし来たと甲。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　わいわい言って居る。群集の先頭で団九郎生きた心地がしない。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝吉原神道流剣道指南</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　　　　　白倉源五左衛門の看板</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝道場の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　格子窓から覗き込んで居る人々。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　遊び人甲乙も居る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝道場内</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　用意万端整えて白倉、悠然と進み出る。団九郎も武蔵に襷鉢巻を結んで貰って中央に現われた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　固唾を呑む門人とおしま。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵は例の微笑を浮べて、片隅で見て居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎と源五左、一礼してサッと分れた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎二刀を振りかぶって勇ましい姿。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と忽ち、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、一つコツンと叩かれた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　オヤオヤと驚くおしま。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　続いて、二ツ三ツ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　兎も角、団九郎、無茶苦茶に叩きのめされ逃げ廻っては又叩かれ、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　（三枚目的な立廻りよろしく）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　遂に、長うなってしまった。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしま、げっそりした。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　源五左せせら笑って団九郎を足で踏み、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「これが日本一かッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と大笑する。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　遊び人乙、クルッと裸になった。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　済まんなァ、と甲は乙の着物を受け取る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝内部</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　今迄黙って居た武蔵が立ち上った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　源五左を呼び止めて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「只今のは</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　小手調べ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　エッと源五左。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「身共が真の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　まァと驚いたのはおしまである。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　源五左、よし来いと身構える。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、悠々、大小の木太刀を掴んで一振り二振り。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　悠々と道場の中央に仁王立ち。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　余りの事におしま言葉も出ない。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、サッと身構えた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　白倉サッと斬り込む。と忽ち、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　面を殴られて、ワッと倒れる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その時、門人が五六名、武蔵に打って掛ってもよろしい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　兎も角、白倉サンザンにやられた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、木太刀を捨てて塵打ち払い、悠然と立ち出でんとする。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　おしまが呼び止めた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「先生を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お頼み申す」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「御冗談ばかり」とおしま。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「あんな奴</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　妾、大嫌い」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が傍に倒れている団九郎に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「お聞きなされたか</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　今の言葉？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「だから身共が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　そのお顔は」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「女にもてぬと</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　申したのさ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と、今度はおしまに向って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「これから</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　男に惚れるなら」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「名前に惚れず</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　人間に惚れる事で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座る喃」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言い捨てて去る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　呆然たるおしま、団九郎。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝表では</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　裸になった遊び人の乙が、済まんなァと着物を着て、甲が裸になった。その着物を乙が受け取った。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝街道</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵と団九郎が行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　今度は武蔵が先生で、団九郎が弟子である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　主従、楽しく語らい乍ら行く。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝峠の上り口の茶店</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵と団九郎が休んで居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　茶店の亭主が、心配そうに話しました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「峠をお越し</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　なさる時</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御要心なさいませ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「どうした？」と武蔵。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「天狗様が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お出ましに</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　なります」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎が驚いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「天狗？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　それは又本当か、と膝乗り出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「昨日</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　山向うの庄屋の家に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　白羽の矢が」</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝庄屋の家</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　屋根に白羽の矢が、突きささって居る下で大勢の百姓がわいわい言って居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「嫁入前の庄屋の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　娘が可哀そうに</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　人身御供に」</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝元の茶店</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主が話す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「心配致すな</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　此の御方は誰あろう」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と武蔵を指さして、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「新免二刀流の開祖</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵先生」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「拙者は先生の高弟で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　同じく新免二刀流の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　達人」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と威張って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「勇名天下に響き渡った</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　早水団九郎」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　亭主も感心した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、立ち上ると、傍の草叢の方へ行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎尚も亭主に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「烏天狗</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二十や三十」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　鼻へし折って、と手振り身振りで威張り出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　フト武蔵の居ないのに気がつく。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　振り返ると、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が草叢を覗いて居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎が、先生何で御座る、と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が振り返って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「大きな蛇が、居る」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、跳び上った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「蛇ッ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵の手が草叢の縄を掴む（縄である事をはっきり見せて下さい）。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎は武蔵が蛇を掴んだものと思って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「先生、およし遊ばせ」と早逃げ腰だ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、縄を掴んで、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「そーら</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　蛇だッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と投げる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その縄が団九郎の頭から背中へ引ッ掛かると、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎跳び上って、ウアッと逃げ出した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵と亭主が大笑いである。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝庄屋の家の表――夕方</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　屋根の白羽の矢。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　表には<span type="ruby"><span type="rb">葛籠</span><span type="rp">（</span><span type="rt">つづら</span><span type="rp">）</span></span>が置いてある。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　見送りの百姓達で家の表、賑々しい。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝内部</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　娘の室から驚いて庄屋が出て来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「娘が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　見えません」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　えッ、と驚く一同。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　サー大変、慌て出す。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　馳け出す人々、口々に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「お絹さんが</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　逃げたッ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「皆んな</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　探して呉れ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と口々に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「天狗様の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お怒りが</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　怖しいぞ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と叫んで、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　八方に走り去る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝村の小川の水車の辺りで</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　六助とお絹のラヴシーン。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お絹が涙で眼を光らして、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「隣り村へお嫁に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　行くぐらいなら」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「いっそ天狗様に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　喰われて</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　死んだ方が倖せです」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　六助が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「二人で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　逃げよう」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と急き立てる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　いいえとお絹が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「天狗様の御祟りが<span rend="notes">［＃「御祟りが」は底本では「御崇りが」］</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　怖しうて……」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　困ったなァと六助。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝附近――</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お絹を探して村人が五六人。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝水車の処</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　人の足音に六助驚いて去る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　村人はお絹の姿を見て駈けて来る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お絹はワッと泣き崩れる。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝庄屋の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　葛籠が人々の手によって山へ送られる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　庄屋や母親や親類縁者が、泣きの涙で供をする。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝山道――夜</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　葛籠を担いで村人が上って行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　松明を翳して行く。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　その夜</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　深更――</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝荒れ果てた辻堂</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　辺りは古い杉の木が茂った深山幽谷である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　見るからに物凄い処である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　例の葛籠が置かれてある。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　葛籠の中のお絹。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と杉木立の真黒な処から、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ニューと天狗が現れた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　要心深く辺りを見廻した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　葛籠の傍へ寄って人影なしと見て天狗の面を取って辻堂の縁に置く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　山賊である。合図をすると、児分が二人現れる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　葛籠を開ける。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　内のお絹、恐る恐る、見ると、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　山賊の好色の笑。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　アッと叫んだお絹。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　辻堂の中から手が出て、縁に置かれた天狗の面をそッと掴んだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　山賊輩はお絹を葛籠から担ぎ出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　争うお絹。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　辻堂の扉がバタンと勢いよく開いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「こーら」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　タハッと驚く山賊が振り返ると、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　真黒な辻堂の中に天狗の顔が物凄く光って居る。ワーと山賊、腰を抜かす。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　辻堂の天狗が（団九郎）、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「吾こそは</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　此の仙境に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　棲む天狗なり」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　そら出たと山賊達、腰を抜かす。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎の天狗は悠々と現れ出て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「我名を騙る</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　憎い人間ども」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　山賊達、震え上る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　処が団九郎、調子に乗って首を振って居た時、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　天狗の面が落ちる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　驚く団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　山賊も驚いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　それッと山刀抜いて斬って来る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、辻堂へ逃げこむと入れ違いに、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵現れて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　三人を斬り捨てる。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝山道――暁</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵と団九郎がお絹を伴って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　下りて行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お絹道々、武蔵に話す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「助けて戴きましたのは嬉しう御座いますが」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「隣り村へ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お嫁に行かねば</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　なりません」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と悲し気に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「それが、悲しう</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座います」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　聞いて、うなずく武蔵。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝山の麓――朝</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お絹の安否を思って上って来る両親や村人達。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　下りて来た武蔵等。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　それと見て驚く村人達。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お絹は寄って母親の胸に泣き伏す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵と団九郎、悠々と村人に近附く。</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝庄屋の家の内部</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　祝いの酒宴である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　天狗退治の大勇士とあって団九郎は得意満面で盃を重ねている。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵はさて一同の者に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　天狗退治の有様を話す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　感心して聞く庄屋や其他村人。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が話す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「我が慈悲道得の刀を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　受けよと言うより早く」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と話す武蔵「スラリとばかり</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「両刀抜き放ちて</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　飛びかかり」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　身振り手振りも面白く</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「この時妖雲</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　谷を覆い</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　山は轟々</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と鳴り響く」</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝辻堂</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　猛々と立ちこめた白煙。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵の奮戦。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　荒れ狂う天狗。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　（トリックよろしく。少し大時代に天狗退治をやって下さい）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　遂に天狗を叩き斬ると、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　苦しみもがく天狗。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　空中に舞い上り、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　杉の梢に飛び付いた天狗。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「ウヌ、取逃がしたかッ」と武蔵。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　天狗、空中より、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「やれッ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宮本武蔵</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　よく聞け！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ナッ、ナッ、なんと武蔵。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　空中の天狗、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「汝が非凡の働きにより</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　我は鞍馬山に退散せん」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と叫んで、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「そも、そも、我は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　巳年生れの天狗なり」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「されば、その娘を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　巳年の男に与うべし」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　何と？　と地上の武蔵。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　空中の天狗が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「巳年の男に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　与うべし」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ドロンドロンドロンで空中遙かに飛び去ったり。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝元の庄屋の家</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　語り終る武蔵。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　聞いた庄屋が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「巳年の男で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座いますか」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　左様、と武蔵がうなずいて、さて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　Ｔ「聞けば近々</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御婚礼との事で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　御座るが」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ハッハイと庄屋、心配そうに、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「相手の男が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　巳年でないと」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　悪う御座いますかと訊く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「天狗の祟りが<span rend="notes">［＃「祟りが」は底本では「崇りが」］</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　怖ろしう御座るぞ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ハテ困った、と庄屋。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「此の村で、巳年の男と</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　言えば」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　彼奴と彼奴と、と数える。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　村人の一人が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「六助さんも確か巳年じゃ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二人は嬉しそうに語って居る。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　数日の後――</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝村はずれの街道</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　庄屋や六助お絹の若夫婦や、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其他村人達に送られて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵と団九郎が旅立ちであります。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　去って行く二人。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　六助とお絹は何度も去って行く二人に礼を述べる。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　ある城下町</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝街角</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　立札。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　一、爾今当城下に於て</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　仇討の助太刀を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　致したる者は金百両也</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　の恩賞を与う者也</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その立札の前に立ち止った、武蔵と団九郎。顔見合せて、「何と面白い事じゃ喃」と言って居る時、一人の浪人者がドンッと団九郎に突き当って御免、と其儘立ち去る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　（坂部文六である）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、紙入れを掏り盗られた事に気附いて、アッ、しまったと立ちすくむ。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝附近</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六すたすた去る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎大声に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「泥棒ッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と叫んで文六の後を追う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　逃げる文六と、追う団九郎。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝通り</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　向うより、侍が五人ばかりやって来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　それと見るや、逃げて来た文六、突然、立ち止ってクルッと振り返る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　追って来た団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六突然、スラリと大刀引き抜いた。アレッと団九郎一足退る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六、大声に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「珍しや、父の敵</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　頓間野良兵衛ッ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ナッ、ナニをぬかすと団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　通り掛かった侍五人は大喜び。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　立札の大写（フラッシュ）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「百両ッ」（少し大きく）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　スラッと五人が大刀抜いて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「助太刀致すッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と団九郎に迫る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、跳び上って驚いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　一目散に逃げる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　後を追う五人の侍。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六は追おうとせず刀を収めて、懐中の紙入れを取り出し、銭勘定をし乍ら去る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝附近</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　逃げて来た団九郎、武蔵の姿を見て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　やれ有難や、とその背後に隠れる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　追って来た五人の侍。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が「人違いじゃ」と言い乍ら一同を叩き付ける。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ヤレ安心と団九郎、ホッとする。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　此処のお殿様</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　近頃はやりの</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　仇討病患者――</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝城中広間</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お殿様。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　（此のお殿様少々三枚目のお殿様である事）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　極く若い殿様である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　脇息に凭れて、退屈そうな様子である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　側に老臣が一人控えて居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お殿様が一ツ大きな欠伸をなすった。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　厭だ、厭だ、退屈だなァ、と言った顔が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　突然、晴れやかな顔になる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　老臣に「爺ッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ハッと老臣。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お殿様が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「其の方」「娘があった喃」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と訊ねられた老臣。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「当年十八歳に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　相成りまする」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　うんそうかと上機嫌の殿様が「どうじゃ爺、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「其方、誰かに</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殺されて呉れぬか？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　エッと老臣が訳の分らん顔。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様が「分らん奴だ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「其の方が、誰かに</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　斬られて死ぬのじゃ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　あの拙者が、と老臣「メッ、滅相も無い」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様が「イヤイヤ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「心配致すな</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其の方の娘に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　立派な仇討を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　させてやる」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　老臣も呆れ果てた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様が嬉しそうに、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「女の仇討は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　珍しいぞ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　老臣がイヤイヤ、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「御免蒙ります」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　断わられて、お殿様、悲観した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　つくづく独り言、「あーあ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「仇討が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　見たいなァ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と仰しゃった。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝橋の上――夜</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お殿様と老臣と家臣が五名程川端を歩いて居る。御忍びである。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お殿様は橋の袂に、何かを見て、お止まりなされた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其処に寝て居る乞食。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　お殿様、ジッと其の乞食を見て居られたが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「そうに違い無い」と独り言。ツカツカと乞食の傍へ寄り「これこれ」と肩を叩く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乞食、ムニャムニャ言い乍ら、起き上る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ふと見れば、立派な数名、自分を取り囲んで居る。吃驚して「どうぞ命ばかりは」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様が乞食に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「隠すな、隠すな」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言われて、乞食、何の事だか訳が分らん。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「其の方、真は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武士であろう？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乞食はポカンとして居るが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様は独り悦に入って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「敵討であろう</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　喃？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　エッ？　と乞食は分らないが、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様の独り合点は尚続く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「非人に迄、身を落し</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　さだめて辛いであろう」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　とハラハラと落涙して、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「其の方の至孝</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　天に通ぜぬ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　道理が無い」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と乞食の手を掴んで、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「仇討本懐の日を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　祈り申すぞ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と老臣に金子を包ませて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　それを乞食に与え、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「些少乍ら</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　余の志じゃ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　乞食はまるで、鳩が豆鉄砲を喰った形。呆然と殿様を見守る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　坂部文六が、木蔭で、此の様子を見て、ほくそ笑んだ。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝宿の横手――夜</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　坂部文六、杖を付いて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　フーフー、云い乍ら、歩いて来る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　苦しそうに唸って居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　其処へ殿様と老臣連の御忍びが通り掛った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様、フト文六を見て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「如何召された」と抱き起す。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝その二階</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　手摺りに凭れて、下の様子を見て居る、武蔵と団九郎である。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝下では</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様の前に手を付いた</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六が懸命の熱演である。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「父の敵を求めて</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　放浪八年」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「八年？」と殿様驚いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六尚も苦しそうに、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「未だ、仇敵に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　廻り逢わざるに</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　路用の金子は</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　尽き果てて」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様聞くより「アイヤ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「皆迄申すな</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　泣けて来る」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と文六の手を握って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「辛いで</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　あろう喃」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、老臣を振り返って、それッと言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六横目でソレと見て成功と喜んだ。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝二階</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が団九郎に耳打ちする。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎心得て袍褞の<span rend="notes">［＃「袍褞の」はママ］</span>儘、大悦びで、今しも殿様が、文六に金子を与えんとする時、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ヒラリと二階から、その中へ、とび下りた団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　驚く一同。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、文六に向って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「珍しや、父の敵</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　頓間野郎兵衛ッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　アレッと文六、驚いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様も老臣も家臣も驚いた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六「これッ何を申す」と言っても団九郎、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　無二無三と斬って来る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「さては</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　騙り者か」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六浮かぶ瀬も無い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　家臣等も、やっと思い出した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　「立札」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　百両</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　でズラリと抜刀して、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「助太刀致す」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と文六に斬り掛かる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六驚いて遂に逃げ出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　追う一同。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二階の武蔵は見送って、何か決心して、ツと室へ入る。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝元の川端――夜</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六逃げて来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　追い付いた団九郎と家臣等。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　家臣等はグルッと取り囲む。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六、必死に叫ぶ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「こら、嘘を申すな</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　嘘をッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎が「何が嘘だ！」と鼻息荒く、斬って来る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六が逃げ乍ら、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「貴様こそ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　拙者の為には</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　父の敵」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ナッナニをぬかす、と団九郎。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六が一同に、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「各々方</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　此奴が</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　真の敵！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎も負けて居ない。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「貴様が敵じゃ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　馬鹿野郎！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六が、立廻り乍ら、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「此奴の顔を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　見て下され</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　顔をッ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と言って、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「親の敵らしい</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　顔で御座ろう？」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「貴様の面こそ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　敵面だ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　家臣共はどちらが敵だか分らない。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様も分らない。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　で、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「面倒だ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　両人共斬り捨てえ」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ハハッと家臣、今度は、二人に斬り付ける。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　サア、二人は蒼くなった。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　敵同士が協力して戦う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　宿を出た武蔵がやって来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　既に、危い二人を救けて、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　家臣共を尽く川へ投げ込み、又は打ちのめし、最後にお殿様をチャチャクチャに叩き付けてフラフラになったお殿様の首筋掴んで、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「仇討の熱病</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　患者奴！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と橋の上から川の中へ投げ込んで、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「熱を</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　冷まして来い！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と叫ぶ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　翌る朝</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝通り――屋敷町</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　登城の途の若侍五名、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　フト立ち止る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　彼方で、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎と文六、すれ違った。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「珍しや</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　父の敵</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　早水団九郎！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　オヤッと若侍、急ぎ足に二人の傍へ。団九郎、見事な、敵だ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「片腹痛い</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　返り討ちだ！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と両方が、ズラリと抜刀する。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　若侍五人が、思い出した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　立札の大写。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ズラリと抜刀して、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ「助太刀致す！」</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　と待ってました、とばかり</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、刀担いで、逃げ出した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　卑怯者ッ、とばかり、文六と若侍達後を追う。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　追い駈ける若侍。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝或る神社の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎がその境内へ逃げ込んだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　続いて文六や若侍も続く。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（急速にＦ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝同じ神社の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　侍五名が物凄うやられた形で、フラフラで逃げて行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六と団九郎が見送って大笑い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二人仲良く去って行く。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝境内</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が大小の木太刀を手に悠々と腰打ち掛けて居る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝通り</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　強そうな二人の武士が歩いて居る。フト立ち止る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　前方で例の通り、文六、団九郎がヤーヤー珍しや、をやって居る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　ソレッと二人は抜刀して、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　助太刀致す、と団九郎に斬り掛かる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、例の如く逃げ出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　一同、後を追う。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝神社の境内で</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵が二本木太刀を手に持って居る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝神社の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、逃げ込んだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　後追って抜刀の文六と侍二名。</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（又急速にＦ・Ｏ）</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝同じ神社の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　文六と団九郎、前の侍二人の足を曳きずって出て来て、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　道へおっ放り出す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　投げ出されてフラフラの二人の侍、這う様にして逃げて行く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　二人又仲良く出掛けて行く。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（急速にＦ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝同じ神社の表</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　団九郎、逃げ込む。文六と今度は十余名の侍が追って入る。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（又急速にＦ・Ｏ）</span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　十余名の侍がフラフラにやられて出て来ました。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+此の手で、も一度、三十名位の奴を見せてもよいと思います。<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　斯くて――</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝大広間</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様の御座へ、殿様がお座りになる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様は頭に繃帯をして御座る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　平伏して居る家臣一同（百名ばかり）。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　その家臣が一斉に頭を上げると、ナンとどれもこれも繃帯だらけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　殿様、オヤッと驚く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　老臣から何から隅から隅まで繃帯だらけ。殿様ほとほと、呆れてしまった。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝町</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　例の立札が、大地に叩き付けられて居る。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝街道</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　意気揚々と武蔵等二名が、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　此の城下を去って行きました。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　慶長十七年卯月十三日</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　豊前小倉の海上の</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　離れ島に<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｏ・Ｌ）</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｔ　父の敵佐々木巌流と</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　彼を護る剣士三十余名と</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　決戦す</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｓ＝海上</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　数艘の小舟に分乗した、佐々木巌流の一隊。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　豪然たる巌流、先頭の舟上に立つ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　他の方面からは、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵の舟が急ぐ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　舟上の武蔵。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　両方の舟が荒波蹴立てて急ぐ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　やがて巌流等の、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　舟は島に着く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　続いて反対の岸へ武蔵の舟も着く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　海岸を巌流を先頭に進む三十有余名。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵も決然、波打ち際を歩む。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　両者相会す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　巌流大刀の鞘を払って、鞘を捨てた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵も応とばかり、両刀抜く。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　荒波、どッと押し寄する処。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　武蔵、懸命の乱闘、</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　波と乱闘の交響楽だ！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　遂に武蔵、一同を斬り伏せる。<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（Ｆ・Ｏ）</span></span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

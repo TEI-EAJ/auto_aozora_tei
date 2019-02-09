@@ -1,0 +1,984 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>都会と田園</title>
+        <author>野口雨情</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-05-18">作成</resp><resp /><note>
+<lb />
+底本：「定本　野口雨情　第一巻」未来社<lb />
+　　　1985（昭和60）年11月20日第1版第1刷発行<lb />
+底本の親本：「都会と田園」銀座書房<lb />
+　　　1919（大正8）年6月10日刊<lb />
+入力：川山隆<lb />
+校正：noriko saito<lb />
+<date when="2010-05-18">2010年5月18日</date>作成<lb />
+<date when="2010-11-04">2010年11月4日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>川山隆</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>noriko saito</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>都会と田園</title><author>野口雨情</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">序詩</span></span></span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+空の上に、雲雀は唄を唄つてゐる<lb />
+渦を巻いてゐる太陽の<lb />
+<span type="ruby"><span type="rb">光波</span><span type="rp">（</span><span type="rt">なみ</span><span type="rp">）</span></span>にまかれて<lb />
+唄つてゐる――<lb />
+</span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">時雨唄</span></span></span>
+<lb />
+雨降りお月さん<lb />
+<span type="ruby"><span type="rb">暈</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>下され<lb />
+<span type="ruby"><span type="rb">傘</span><span type="rp">（</span><span type="rt">からかさ</span><span type="rp">）</span></span>さしたい<lb />
+死んだ<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>さん、<span type="ruby"><span type="rb">後母</span><span type="rp">（</span><span type="rt">あとかか</span><span type="rp">）</span></span>さん<lb />
+<lb />
+時雨の降るのに<lb />
+下駄下され<lb />
+<span type="ruby"><span type="rb">跣足</span><span type="rp">（</span><span type="rt">はだし</span><span type="rp">）</span></span>で米<span type="ruby"><span type="rb">磨</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>ぐ<lb />
+死んだ母さん、後母さん<lb />
+<lb />
+<span type="ruby"><span type="rb">柄杓</span><span type="rp">（</span><span type="rt">ひしやく</span><span type="rp">）</span></span>にざぶざぶ<lb />
+水下され<lb />
+釣瓶が<span rend="notes">［＃「釣瓶が」は底本では「鈞瓶が」］</span>重くてあがらない<lb />
+死んだ母さん、後母さん<lb />
+<lb />
+親孝行するから<lb />
+足袋下され<lb />
+足が凍えて歩けない<lb />
+死んだ母さん、後母さん<lb />
+<lb />
+奉公にゆきたい<lb />
+味噌下され<lb />
+<span type="ruby"><span type="rb">咽喉</span><span type="rp">（</span><span type="rt">のど</span><span type="rp">）</span></span>に御飯が通らない<lb />
+死んだ母さん、後母さん<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">曲り角</span></span></span>
+<lb />
+銀行員のＦさんは<lb />
+新しい背広を着て――大足に出ていつた<lb />
+黒いソフト、光る靴<lb />
+暖い日の<lb />
+午前九時頃<lb />
+<lb />
+曲り角でバツタリ<lb />
+Ａ子さんと行き逢つた<lb />
+（オヤ！　オヤ！）<lb />
+すらりとした――<lb />
+桃割れ、白い歯<lb />
+<lb />
+Ｆさんの顔<lb />
+Ａ子さんの眼<lb />
+（オヤ！　オヤ！）<lb />
+二人はすれ違ふ<lb />
+胸の動悸<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi400">柿の木のエピソード</span></span></span>
+<lb />
+背戸の畑の柿が赤くなつて来ると毎日烏が集つて来て喰つてゐた<lb />
+子供に番をさせて置いても<lb />
+烏は毎日来た<lb />
+<lb />
+親父は洗濯竿の先へ<lb />
+鶏の羽根をぶら下げて<lb />
+柿の木の傍へ<lb />
+立てて置いた<lb />
+<lb />
+鶏の羽根が<lb />
+ふわふわ動いてゐる<lb />
+烏は遠くから見てゐて<lb />
+来なかつた<lb />
+<lb />
+時折、別な烏が来ても<lb />
+鶏の羽根が動くとすぐに飛んでゆく<lb />
+親父も子供も<lb />
+安心して喜んでゐた<lb />
+<lb />
+一晩風が吹いた<lb />
+朝の暗い内から柿の木で烏が鳴いてゐた<lb />
+洗濯竿が畑の中に倒れてゐる<lb />
+子供は駈けて来て親父に<span type="ruby"><span type="rb">咄</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>した<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi500">曼陀羅華</span></span></span>
+<lb />
+何処から種が飛んで来たのか<lb />
+畑の中に<lb />
+<span type="ruby"><span type="rb">曼陀羅華</span><span type="rp">（</span><span type="rt">まんだらげ</span><span type="rp">）</span></span>が生えてゐる<lb />
+<lb />
+百姓は<lb />
+抜いて捨てようと思つてゐる中に<lb />
+夏が来た<lb />
+<lb />
+曼陀羅華は<lb />
+葉と葉の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">あはひ</span><span type="rp">）</span></span>から<lb />
+白い花を咲かうとしてゐる<lb />
+<lb />
+百姓は<lb />
+花なんか咲かせて置くもんかと<lb />
+<span type="ruby"><span type="rb">独言</span><span type="rp">（</span><span type="rt">ひとりごと</span><span type="rp">）</span></span>を云つてゐた<lb />
+<lb />
+たうとう秋になつて了つた<lb />
+曼陀羅華の花は<lb />
+すつかり実になつてゐる<lb />
+<lb />
+百姓は憤つて――手をかけると<lb />
+皆んな実は畑の中へ<lb />
+ぱらぱらはぢけて飛んだ<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi600">二人</span></span></span>
+<lb />
+歳の暮れも押し迫つて来てゐるのに<lb />
+間借りしてゐる二人は<lb />
+これからさき、どうすればいいのか<lb />
+途方にくれてゐる<lb />
+<lb />
+二人は<lb />
+小さな火鉢を中にして<lb />
+痛切に――お互に――暮しませうと云つてゐるが<lb />
+矢張り涙にくれてゐる<lb />
+<lb />
+二人は<lb />
+<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆふべ</span><span type="rp">）</span></span>も、同じやうな夢を見た<lb />
+銀貨だの、米だの、肉だの、炭だの<lb />
+<span type="ruby"><span type="rb">凩</span><span type="rp">（</span><span type="rt">こがらし</span><span type="rp">）</span></span>は屋根を鳴らして吹いてゐる<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi700">家鴨</span></span></span>
+<lb />
+うしろの田の中に家鴨の子が<lb />
+<span type="ruby"><span type="rb">田螺</span><span type="rp">（</span><span type="rt">たにし</span><span type="rp">）</span></span>を拾つて喰つてゐると<lb />
+<span type="ruby"><span type="rb">雁</span><span type="rp">（</span><span type="rt">がん</span><span type="rp">）</span></span>が来た<lb />
+<lb />
+一所に連れてつてやるから<lb />
+勢一杯<span type="ruby"><span type="rb">翼</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>をひろげて飛んで見ろと<lb />
+雁が云つた<lb />
+<lb />
+家鴨の子は一生懸命飛んで見たが<lb />
+体が重くてぼたりぼたり落ちて了ふ<lb />
+雁は笑ひ笑ひ飛んで行つて了つた<lb />
+<lb />
+家鴨の子は泣き泣き<span type="ruby"><span type="rb">小舎</span><span type="rp">（</span><span type="rt">こや</span><span type="rp">）</span></span>の前に帰つて来た<lb />
+親家鴨は<lb />
+桶の中へ首を入れて水を呑んでゐた<lb />
+<lb />
+子家鴨は<lb />
+別な<span type="ruby"><span type="rb">良</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>い翼をつけて呉れろと<lb />
+大声で泣いてゐる<lb />
+<lb />
+親家鴨は仕様なしに<lb />
+そつちの方を向いて<lb />
+聞えぬ振りをしてゐた<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi800">深淵</span></span></span>
+<lb />
+ヨーイトマーケ<lb />
+ヨーイトマイタ――と深川の道路ツ<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">ばた</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">印袢纒</span><span type="rp">（</span><span type="rt">しるしはんてん</span><span type="rp">）</span></span>を着た<lb />
+女の声が唄つてゐる<lb />
+<lb />
+砂塵を捲いてタクシーは<lb />
+轣き殺すほどの勢ひに――人々はどやどやと<lb />
+街路樹の下に<lb />
+右に左に<span type="ruby"><span type="rb">避</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>けてゐる<lb />
+<lb />
+下町の深淵の中に沈んでゐる<lb />
+力のぬけた、だるい顔<lb />
+ガソリンのむかつく<span type="ruby"><span type="rb">臭気</span><span type="rp">（</span><span type="rt">にほひ</span><span type="rp">）</span></span>嗅ぎながら<lb />
+女の声は唄つてゐる<lb />
+<lb />
+灰色の中に住んでゐる LABORER の――声は次第に疲れてゐた――印袢纒の女の声は疲れてゐた<lb />
+冬の日は<lb />
+<span type="ruby"><span type="rb">一間</span><span type="rp">（</span><span type="rt">いつけん</span><span type="rp">）</span></span>ばかり残つてゐる<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi900">生姜畑</span></span></span>
+<lb />
+枯れ山の芒ア穂に出てちらつくが<lb />
+帯に襷にどつちにつかず<lb />
+赤い畑の<span type="ruby"><span type="rb">唐辛</span><span type="rp">（</span><span type="rt">たうがらし</span><span type="rp">）</span></span><lb />
+<lb />
+石を投げたら二つに割れた<lb />
+石は<span type="ruby"><span type="rb">磧</span><span type="rp">（</span><span type="rt">かはら</span><span type="rp">）</span></span>で<lb />
+光つてる<lb />
+<lb />
+<span type="ruby"><span type="rb">安</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">嬶</span><span type="rp">（</span><span type="rt">かかあ</span><span type="rp">）</span></span>の連ツ子は<lb />
+しよなりしよなりと<lb />
+もう光る<lb />
+<lb />
+生姜畑の闇の晩<lb />
+背戸へ出て来て<lb />
+光つてる<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1000">酒場の前</span></span></span>
+<lb />
+特殊部落の――若い娘のお<span type="ruby"><span type="rb">喜乃</span><span type="rp">（</span><span type="rt">きの</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">少</span><span type="rp">（</span><span type="rt">ちつ</span><span type="rp">）</span></span>とも人ずれしないほんたうに<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>い綺縹のお喜乃<lb />
+<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さつき</span><span type="rp">）</span></span>からぼんやり、酒場の前に立つてゐる<lb />
+<lb />
+お喜乃よ<lb />
+もう晩方だ、<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ帰つたら<span type="ruby"><span type="rb">良</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>いではないか<lb />
+酒場の<span type="ruby"><span type="rb">暖簾</span><span type="rp">（</span><span type="rt">のれん</span><span type="rp">）</span></span>から年配の男が首を出して云つた<lb />
+<lb />
+アイ、帰るよ、だがな伯父さん<lb />
+権さん今日は来なかつたか<lb />
+年配の男は権と同じ工場の<span type="ruby"><span type="rb">古参</span><span type="rp">（</span><span type="rt">ふるひ</span><span type="rp">）</span></span>職工だ<lb />
+<lb />
+<span type="ruby"><span type="rb">黄昏</span><span type="rp">（</span><span type="rt">たそがれ</span><span type="rp">）</span></span>の風に吹かれて職工の群は帰つてゆく。<lb />
+権か、来ない、来ない<lb />
+ありやあなア、お喜乃よ、権はもう<span type="ruby"><span type="rb">大坂</span><span type="rp">（</span><span type="rt">（ママ）</span><span type="rp">）</span></span>へ帰るんぢや<lb />
+<lb />
+知らん、知らん、そなことない<lb />
+伯父さん、お前嘘だらう<lb />
+お喜乃は暖簾の傍へ寄つて来た<lb />
+<lb />
+おぬしに、嘘云つてどうする<lb />
+お喜乃よ、権はなア、工場から暇が出たんだ<lb />
+お喜乃はすり寄つて年配の男の顔を<span type="ruby"><span type="rb">見凝</span><span type="rp">（</span><span type="rt">みつ</span><span type="rp">）</span></span>めた<lb />
+<lb />
+伯父さん、そりやアほんたうか<lb />
+年配の男は黙つてお喜乃の顔を見てゐる。<lb />
+酒場の中からどんたりどんたり話声が聞えて来る<lb />
+<lb />
+<span type="ruby"><span type="rb">空樽</span><span type="rp">（</span><span type="rt">たる</span><span type="rp">）</span></span>に腰を掛けて<span type="ruby"><span type="rb">冷酒</span><span type="rp">（</span><span type="rt">ひや</span><span type="rp">）</span></span>をあふつてゐた<lb />
+目の苦茶苦茶した浅黄服を着た男が<lb />
+<span type="ruby"><span type="rb">微酔</span><span type="rp">（</span><span type="rt">ほろゑひ</span><span type="rp">）</span></span>機嫌で酒場の中から出て来た<lb />
+<lb />
+オ、お喜乃か、ウム、美い綺縹だな<lb />
+オイ兄え（年配の男に）<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>ア一足先き<span type="ruby"><span type="rb">帰</span><span type="rp">（</span><span type="rt">けへ</span><span type="rp">）</span></span>るよ<lb />
+千鳥足で行つて了つた<lb />
+<lb />
+ホ、権が来だ！<lb />
+年配の男は、向ふを見ながらお喜乃に<span type="ruby"><span type="rb">顋</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>でしやくつた<lb />
+権はひよつこり酒場の前にやつて来た<lb />
+<lb />
+お喜乃は駈け寄つて権の手を握つた<lb />
+権さん<lb />
+お前どうした、工場から暇が出たのか<lb />
+<lb />
+お喜乃は悲しさうに権の顔を眺めてゐる<lb />
+権もお喜乃の顔を眺めてゐる<lb />
+お喜乃の目からはらはらと涙が<span type="ruby"><span type="rb">零</span><span type="rp">（</span><span type="rt">こぼ</span><span type="rp">）</span></span>れた<lb />
+<lb />
+権さん、工場やめてどうする<lb />
+嘘だ、嘘だ<lb />
+お前大坂へ帰へつちやンだらう<lb />
+<lb />
+お喜乃はほろほろ声になつてゐる<lb />
+夕焼の空は一面に赤く燃え立つてゐた<lb />
+権は何んにも云はずに下を向いて立つてゐる<lb />
+<lb />
+権さん、お前、大坂へ帰るなら<lb />
+わたしも、一所に連れてつてお呉れな<lb />
+又してもお喜乃の声は顫えてゐる<lb />
+<lb />
+お喜乃は夕方になると赤い花<span type="ruby"><span type="rb">簪</span><span type="rp">（</span><span type="rt">かんざし</span><span type="rp">）</span></span>をさして、酒場の前に立つてゐたが<lb />
+権はそれつきり遂ひぞ酒場に来なかつた<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1100">忠義の犬</span></span></span>
+<lb />
+日比谷公園の<lb />
+広ツ場に<lb />
+編みあげの赤い靴を穿き<lb />
+<span type="ruby"><span type="rb">祖母</span><span type="rp">（</span><span type="rt">おばあ</span><span type="rp">）</span></span>さんに連れられて<lb />
+<span type="ruby"><span type="rb">美晴子</span><span type="rp">（</span><span type="rt">みはるこ</span><span type="rp">）</span></span>さんが遊んでる<lb />
+<lb />
+浅い弱い春の日は<lb />
+鏡のやうに晴れてゐた<lb />
+<lb />
+中学生が五六人<lb />
+テニスネツトを引つ張つて<lb />
+組に分れて遊んでる<lb />
+軽くボールはぽんぽんと<lb />
+向ふにこつちに飛んでゐた<lb />
+<lb />
+祖母さんは、遠くの方へ<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>つ去つて<lb />
+腰をかがめて見せてゐる<lb />
+<lb />
+テニスコートの<lb />
+向ふから<lb />
+足の太い、毛の長い<lb />
+強さうな<lb />
+犬がさつさと<span type="ruby"><span type="rb">歩</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>つて来た<lb />
+<lb />
+美晴子さんは、活動の『忠義の犬』を思ひ出し<lb />
+丸い目をして見て居つた<lb />
+<lb />
+あの犬も忠義の犬になるか知ら<lb />
+同じやうに耳も垂れてゐるし<lb />
+口も大きいし――<lb />
+美晴子さんは<lb />
+目をはなさずに眺めてゐる<lb />
+<lb />
+中学生のラケツトが<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>んな<span type="ruby"><span type="rb">途端</span><span type="rp">（</span><span type="rt">はづみ</span><span type="rp">）</span></span>かぐんと来て<lb />
+犬の<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>に落つこちた<lb />
+<lb />
+犬は走つてラケツトを<lb />
+口に<span type="ruby"><span type="rb">銜</span><span type="rp">（</span><span type="rt">くは</span><span type="rp">）</span></span>へて立つてゐる<lb />
+美晴子さんは<lb />
+小さな声で祖母さんに<lb />
+『忠義の犬』の話をした<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1200">小さな出来事</span></span></span>
+<lb />
+足の短い<span type="ruby"><span type="rb">狛犬</span><span type="rp">（</span><span type="rt">こまいぬ</span><span type="rp">）</span></span>はポチに噛ませてやりませう<lb />
+糸のたるんだ風船と空気のぬけた<span type="ruby"><span type="rb">護謨毬</span><span type="rp">（</span><span type="rt">ごむまり</span><span type="rp">）</span></span>はタマに噛ませてやりませう<lb />
+<lb />
+<span type="ruby"><span type="rb">弾機</span><span type="rp">（</span><span type="rt">ばね</span><span type="rp">）</span></span>の廻らぬ<span type="ruby"><span type="rb">自働車</span><span type="rp">（</span><span type="rt">（ママ）</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">銑葉</span><span type="rp">（</span><span type="rt">ぶりき</span><span type="rp">）</span></span>の台へ載せたまま馬車に轣かせてやりませう<lb />
+<span type="ruby"><span type="rb">翼</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>のゆがんだ<span type="ruby"><span type="rb">木兎</span><span type="rp">（</span><span type="rt">みみづく</span><span type="rp">）</span></span>は牛に踏ませてやりませうか、馬に踏ませてやりませうか、うしろの沼へ捨てませうか<lb />
+飛べなくなつた飛行機と共に窓から投げませう<lb />
+<lb />
+<span type="ruby"><span type="rb">硝子</span><span type="rp">（</span><span type="rt">がらす</span><span type="rp">）</span></span>の中の人形も<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あす</span><span type="rp">）</span></span>はお<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>やりませう<lb />
+<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>つかの島へ着くやうに<lb />
+島の人形になるやうに<lb />
+桐の小函に帆をかけて――大川の水に流してやりませう<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1300">蝙蝠</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">蝙蝠</span><span type="rp">（</span><span type="rt">かうもり</span><span type="rp">）</span></span>よ、蝙蝠よ<lb />
+井戸端に蚊柱が立つてゐる<lb />
+早く来て喰はないか<lb />
+<lb />
+蝙蝠の家は何処だ<lb />
+山か里か<lb />
+何故<span type="ruby"><span type="rb">咄</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>さぬ<lb />
+<lb />
+蚊柱が立たば<lb />
+迎ひに行くぞ<lb />
+すぐに来て喰へよ<lb />
+<lb />
+呼んでも、呼んでも<lb />
+蝙蝠は居ない<lb />
+臍をまげて隠れてゐる<lb />
+<lb />
+臍をまげた蝙蝠に<lb />
+蚊柱は喰はせるな<lb />
+早くバケツで水かけろ<lb />
+<lb />
+螢の親父が飛んでゐる<lb />
+蚊柱が立つても<lb />
+蝙蝠に咄すな<lb />
+<lb />
+呼んでも呼んでも来ない<lb />
+蝙蝠が来たなら<lb />
+<span type="ruby"><span type="rb">跣足</span><span type="rp">（</span><span type="rt">はだし</span><span type="rp">）</span></span>になつて追つ<span type="ruby"><span type="rb">蒐</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けろ<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1400">縁側</span></span></span>
+<lb />
+彼はお針をしてゐる妻君に<lb />
+爪の伸びた手を出して<lb />
+鋏を借せと云つた<lb />
+鋏は妻君の膝のあたりにある<lb />
+<lb />
+若い妻君は<lb />
+彼の手を眺めるやうに見て<lb />
+笑ひながら<lb />
+鋏をとつて渡した<lb />
+<lb />
+彼は日の当つてゐる縁側に<span type="ruby"><span type="rb">胡座</span><span type="rp">（</span><span type="rt">あぐら</span><span type="rp">）</span></span>をかいて<lb />
+パチリパチリ切り初めた<lb />
+爪は遠くまで飛んで<lb />
+皆んな庭の上に落ちる<lb />
+<lb />
+妻君はそーつと彼の<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>に来て<lb />
+顔を覘いてゐた<lb />
+彼は爪の奇麗になつた手を出して見せた<lb />
+若い妻君は黙つて立つて笑つてゐる<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1500">わしの隣人</span></span></span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1510">彦兵衛</span></span></span>
+<lb />
+彦兵衛が、家の前の畑に<lb />
+<span type="ruby"><span type="rb">蘿蔔</span><span type="rp">（</span><span type="rt">だいこん</span><span type="rp">）</span></span>の種を蒔いてゐると<lb />
+郵便配達が来た<lb />
+<lb />
+彦兵衛は汚れた手で<lb />
+葉書を受け取つて眺めてゐる<lb />
+配達は行つて了つた<lb />
+<lb />
+電車の車掌に及第した<lb />
+東京の忰からの葉書だ<lb />
+彦兵衛の顔はにこにこした<lb />
+<lb />
+<span type="ruby"><span type="rb">囲爐裡</span><span type="rp">（</span><span type="rt">いろり</span><span type="rp">）</span></span>の中に<lb />
+麦鍋が<lb />
+<span type="ruby"><span type="rb">泡</span><span type="rp">（</span><span type="rt">あぶく</span><span type="rp">）</span></span>立つて煮え<span type="ruby"><span type="rb">零</span><span type="rp">（</span><span type="rt">こぼ</span><span type="rp">）</span></span>れてる<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1520">お霜</span></span></span>
+<lb />
+お霜が畠に<span type="ruby"><span type="rb">馬鈴薯</span><span type="rp">（</span><span type="rt">じやがたらいも</span><span type="rp">）</span></span>を掘つてゐると<lb />
+馬を牽いた男が<lb />
+<span type="ruby"><span type="rb">弄戯</span><span type="rp">（</span><span type="rt">からか</span><span type="rp">）</span></span>つて通つてゆく<lb />
+<lb />
+お霜が土手に足を出して休んでゐると<lb />
+<span type="ruby"><span type="rb">前</span><span type="rp">（</span><span type="rt">さき</span><span type="rp">）</span></span>の男が馬を牽いて帰つて来た<lb />
+また弄戯つて通つてゆく<lb />
+<lb />
+お霜がもう帰らうとすると<lb />
+藪の中に<lb />
+男は首を出してゐた<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1530">留さん</span></span></span>
+<lb />
+東京で<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>る――サイノロジーと云ふ<lb />
+田舎にはない新言葉<lb />
+西洋の煙草の名でもあるか知らと<lb />
+留さんは思つてゐた<lb />
+<lb />
+留さんが田うなひに出て行つた<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span>で<lb />
+頬の赤い<span type="ruby"><span type="rb">嬶</span><span type="rp">（</span><span type="rt">かかあ</span><span type="rp">）</span></span>が長々と昼寝をしてゐる<lb />
+ボーリン衝きの若い監督は<lb />
+サイノロジーと云つて笑つて行く<lb />
+<lb />
+留さんは<span type="ruby"><span type="rb">解</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>せずで解せずで堪らない<lb />
+その晩、夕飯を喰ひながら嬶に咄した<lb />
+嬶は飴菓子を噛りながら<lb />
+これも解せずで――首を<span type="ruby"><span type="rb">抂</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>げた<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1540">お艶</span></span></span>
+<lb />
+お<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">つや</span><span type="rp">）</span></span>が風呂にはいつてゐると<lb />
+若い男が<lb />
+だましに来た<lb />
+小さな声でだましてゐる<lb />
+<lb />
+お艶がざぶり湯をかけてやると<lb />
+男はうろうろしてゐたが<lb />
+裏から<lb />
+すーつと逃げて行つた<lb />
+<lb />
+馬は<span type="ruby"><span type="rb">厩</span><span type="rp">（</span><span type="rt">うまや</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">馬堰棒</span><span type="rp">（</span><span type="rt">ませんぼ</span><span type="rp">）</span></span>を<lb />
+がらんがらんと鳴らしてゐる<lb />
+天の川は北から西へ流れてゐた<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1550">六蔵</span></span></span>
+<lb />
+六蔵が家の前に立つて<lb />
+田の稲を眺めながら<lb />
+<span type="ruby"><span type="rb">群雀</span><span type="rp">（</span><span type="rt">すずめ</span><span type="rp">）</span></span>のことを考へてゐると――<lb />
+<lb />
+群雀の<span type="ruby"><span type="rb">一団</span><span type="rp">（</span><span type="rt">ひとかたまり</span><span type="rp">）</span></span>が飛んで来て<lb />
+稲の上に<lb />
+かぶさるやうに下りた<lb />
+<lb />
+六蔵は駈けて行つて<span type="ruby"><span type="rb">鳴子</span><span type="rp">（</span><span type="rt">なるこ</span><span type="rp">）</span></span>の綱を引つ張つた<lb />
+群雀はパツと飛び上つて行つて了つた<lb />
+こんな日が幾日も続いた<lb />
+<lb />
+田に稲がなくなると群雀は来なくなつた<lb />
+六蔵は何んにも考へずに<lb />
+寝そべつて煙草を吹かしてゐる<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1560">米松</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">米松</span><span type="rp">（</span><span type="rt">よねまつ</span><span type="rp">）</span></span>が鍬を担いで野良から<lb />
+<span type="ruby"><span type="rb">昼餉</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>に帰つて来た<lb />
+裏戸が開けつ放しになつてゐる<lb />
+<lb />
+鶏が<span type="ruby"><span type="rb">竈</span><span type="rp">（</span><span type="rt">へつつい</span><span type="rp">）</span></span>の上へあがつて<lb />
+鍋の中から<lb />
+麦飯をつつき散らして喰つてゐた<lb />
+隣の<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>が家に小間物屋が来てゐる<lb />
+<span type="ruby"><span type="rb">嬶</span><span type="rp">（</span><span type="rt">かかあ</span><span type="rp">）</span></span>の笑ふ声が聞えた<lb />
+米松は忌々しげに泥手で煙草を吸つてゐる<lb />
+<lb />
+嬶は<span type="ruby"><span type="rb">西瓜</span><span type="rp">（</span><span type="rt">すゐくわ</span><span type="rp">）</span></span>を喰ひながら<lb />
+帯の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">あはひ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">巾着</span><span type="rp">（</span><span type="rt">きんちやく</span><span type="rp">）</span></span>の紐をぶら下げて帰つて来た<lb />
+鶏が厩の前へ駈けて来て立つてゐる<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1660">娘と劉さん</span></span></span>
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1670"><span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" /></span></span></span>
+<lb />
+　　　　　娘<lb />
+劉さん<lb />
+赤ん坊が生れたならばどうしませう<lb />
+何処へたのんで育てませう<lb />
+　　　　　劉<lb />
+ワタシ　ワカラナイ　アナタ　スル　ヨロシー<lb />
+　　　　　娘<lb />
+横浜の叔母さん<span type="ruby"><span type="rb">所</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>へ遣りませう<lb />
+新しい<span type="ruby"><span type="rb">一<span facs="../../../gaiji/2-88/2-88-21.png" rend="gaiji" rendition="img" source="※(「ころもへん＋身」、第4水準2-88-21)" /></span><span type="rp">（</span><span type="rt">ひとつみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひとつ</span><span type="rp">）</span></span>も着せて遣りませう<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1680"><span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" /></span></span></span>
+<lb />
+　　　　　娘<lb />
+叔母さんに断られたらどうしませう<lb />
+　　　　　劉<lb />
+ワタシ　クニ　トホイ　ワカリマセン<lb />
+　　　　　娘<lb />
+悲しいけれど捨てませう<lb />
+顔の見えない闇の晩<lb />
+ミルクの<span type="ruby"><span type="rb">管</span><span type="rp">（</span><span type="rt">くだ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">哺</span><span type="rp">（</span><span type="rt">くく</span><span type="rp">）</span></span>ませて――公園のベンチの上に捨てませう<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1690"><span facs="../../../gaiji/1-13/1-13-23.png" rend="gaiji" rendition="img" source="※(ローマ数字3、1-13-23)" /></span></span></span>
+<lb />
+　　　　　娘<lb />
+お月夜の晩であつたらどうしませう<lb />
+お月夜が続いて居たらどうしませう<lb />
+育てませうか捨てましよか<lb />
+　　　　　劉<lb />
+ワタシ　ニホン　タツ　アナタ　タノム<lb />
+　　　　　娘<lb />
+薄情な、薄情な劉さん<lb />
+思ひ切つて――悲しいけれど捨てませう<lb />
+ベンチの上に青々と月がさしたら泣くでせう<lb />
+わたしの顔を屹度眺めて泣くでせう<lb />
+劉さん<lb />
+劉さん<lb />
+その時のわたしの心はどんなでせう<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1790">磯の上</span></span></span>
+<lb />
+親恋しがりの子雀よ<lb />
+親が恋しく<lb />
+海へ来たのか<lb />
+<lb />
+海へはいつて蛤に<span type="ruby"><span type="rb">化</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>つて了つた親雀は<lb />
+お前のことは<lb />
+もう忘れてゐるぞ<lb />
+<lb />
+幾ら待つてゐても<lb />
+元の親には逢はれないのだ<lb />
+帰れ、帰れ<lb />
+<lb />
+海の端で日が暮れたら<lb />
+子雀よ<lb />
+ほんたうにはぐれ雀になつて了ふぞ<lb />
+<lb />
+親の古巣に<lb />
+妹はどうした、姉は居ないか<lb />
+もう日は山から暮れて来る<lb />
+<lb />
+海<span type="ruby"><span type="rb">鵯</span><span type="rp">（</span><span type="rt">ひよどり</span><span type="rp">）</span></span>よ<lb />
+子雀は磯にとまつて動かない<lb />
+だまして山へ帰さぬか<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1890">百姓の足</span></span></span>
+<lb />
+百姓の足は怖いから<lb />
+見たら逃げろと<lb />
+親蛙が咄して聞かせた<lb />
+<lb />
+子蛙は毎日<lb />
+<span type="ruby"><span type="rb">畔</span><span type="rp">（</span><span type="rt">あぜ</span><span type="rp">）</span></span>の上に匍ひ上つて眺めてゐたが<lb />
+百姓の足は来なかつた<lb />
+<lb />
+ある夕方<lb />
+子蛙が沼の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はた</span><span type="rp">）</span></span>で遊んでゐると<lb />
+百姓が鍬を担いでやつて来た<lb />
+<lb />
+百姓の大きな足が<lb />
+子蛙の<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>から<lb />
+ずしんずしんと地響を打つて歩いて来る<lb />
+<lb />
+子蛙は堪らなくなつて<lb />
+沼の中に飛び込んで顫え顫え隠れてゐた<lb />
+百姓はずんずん行つて了つた<lb />
+<lb />
+子蛙が<span type="ruby"><span type="rb">眼子菜</span><span type="rp">（</span><span type="rt">ひるも</span><span type="rp">）</span></span>の茎に<span type="ruby"><span type="rb">捉</span><span type="rp">（</span><span type="rt">つかま</span><span type="rp">）</span></span>つて泣いてゐると<lb />
+親蛙は田の中から跳ねて来て<lb />
+一所に連れて帰つた<lb />
+<lb />
+怖い百姓の足が毎日田の中に這入つて来た<lb />
+百姓はたうとう子蛙の居所までも<lb />
+跡方なしに耕して了つた<lb />
+<lb />
+それでも子蛙は生れた田の中が<lb />
+自分の家だと思つて居たら<lb />
+皆な怖い足の百姓のものだと親蛙に聞かされた<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1990">手</span></span></span>
+<lb />
+若い女は<lb />
+水菓子屋の表に立つて<lb />
+パイナツプルを買つてゐる<lb />
+<lb />
+若い男は<lb />
+店の中にはいつて<lb />
+パイナツプルを買つてゐる<lb />
+<lb />
+男が取り次いでくれた<lb />
+パイナツプルを受けとるとき<lb />
+女の手が顫えた<lb />
+<lb />
+男の手<lb />
+女の手<lb />
+女の手は顫える<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+<span rend="o-midashi" rendition="h3"><span rend="midashi_anchor" rendition="a" xml:id="midashi2090">
+畑ン中<lb />
+　　　（ある農夫の歌の VARIATION）<lb />
+</span></span>
+</span>
+<lb />
+<lb />
+真昼間でごわせう<lb />
+<span type="ruby"><span type="rb">畑</span><span type="rp">（</span><span type="rt">はたけ</span><span type="rp">）</span></span>ン中に、<span type="ruby"><span type="rb">田鼠</span><span type="rp">（</span><span type="rt">むぐらもち</span><span type="rp">）</span></span>が一匹<lb />
+<span type="ruby"><span type="rb">斑犬</span><span type="rp">（</span><span type="rt">ぶち</span><span type="rp">）</span></span>に掘りぞべられて<lb />
+イヤハヤ<lb />
+むんぐらむんぐら居やあした<lb />
+畑の土は、<span type="ruby"><span type="rb">開闢</span><span type="rp">（</span><span type="rt">かいびやく</span><span type="rp">）</span></span>このかた、黒いもんか<lb />
+どなもんか<lb />
+<span type="ruby"><span type="rb">真</span><span type="rp">（</span><span type="rt">まこと</span><span type="rp">）</span></span>の所、烏に聞いて見やあすべい<lb />
+<lb />
+畑ン中は、青空天上、不思議はごわすめえ<lb />
+喉笛鳴らした、ケーケーケー<lb />
+<span type="ruby"><span type="rb">鶏</span><span type="rp">（</span><span type="rt">かしは</span><span type="rp">）</span></span>が走つた<lb />
+こりやまた事かと<span type="ruby"><span type="rb">魂消</span><span type="rp">（</span><span type="rt">たまげ</span><span type="rp">）</span></span>払つて居りやあした<lb />
+<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">あけづ</span><span type="rp">）</span></span>が一匹<lb />
+追つかけ廻つた、<span type="ruby"><span type="rb">啄</span><span type="rp">（</span><span type="rt">つつ</span><span type="rp">）</span></span>くわ啄くわ<lb />
+ぶつ飛びあがつた、飛んだわ飛んだわ<lb />
+蜻蛉は<span type="ruby"><span type="rb">御運</span><span type="rp">（</span><span type="rt">ごうん</span><span type="rp">）</span></span>でござりあした<lb />
+<lb />
+地主様の一人娘が<lb />
+娘に<span type="ruby"><span type="rb">二種</span><span type="rp">（</span><span type="rt">ふたいろ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>にごわせう<lb />
+どどの詰りが<lb />
+エヘン<lb />
+孕み女になりやあした<lb />
+畑ン中の豆ン花<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>なもんだ<lb />
+朝つぱらから何事ぶたずに<lb />
+べろりと咲いてござりやあす<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2190">山火事</span></span></span>
+<lb />
+野兎の子と<span type="ruby"><span type="rb">雉</span><span type="rp">（</span><span type="rt">きぢ</span><span type="rp">）</span></span>の子と住んでる山が山火事だ<lb />
+早く逃げぬか<lb />
+焼け死ぬぞ<lb />
+<lb />
+<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さつき</span><span type="rp">）</span></span>鳴き鳴き雉の子は<lb />
+飛んで逃げた<lb />
+野兎の子はどうした<lb />
+<lb />
+山の上に走り腐つて逃げたのが<lb />
+野兎の子でなかつたか<lb />
+あれは宿なしの山<span type="ruby"><span type="rb">鼬</span><span type="rp">（</span><span type="rt">いたち</span><span type="rp">）</span></span>だ<lb />
+<lb />
+鼬だと鼻ン先が黒い筈だ<lb />
+黒いとも、黒いとも<lb />
+真黒だ<lb />
+<lb />
+駈けてつて見ろ<lb />
+山一面に火の海だ<lb />
+逃げ道がなくなる<lb />
+<lb />
+野兎の子はどうした<lb />
+山に居るのか居ないのか<lb />
+息を切つて逃げて来た<lb />
+<lb />
+<span type="ruby"><span type="rb">何方</span><span type="rp">（</span><span type="rt">どつち</span><span type="rp">）</span></span>の方へ逃げてつた<lb />
+雉の子が飛んでつた山の方へ<lb />
+夢中になつて走つたぞ<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2290">己の家</span></span></span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2300">一　その頃</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">おれ</span><span type="rp">）</span></span>が東京から帰つてゆくと<lb />
+鶏<span type="ruby"><span type="rb">小舎</span><span type="rp">（</span><span type="rt">ごや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">無花果</span><span type="rp">（</span><span type="rt">いちぢく</span><span type="rp">）</span></span>が紫色に熟してゐた<lb />
+<lb />
+己の家の<span type="ruby"><span type="rb">穀倉</span><span type="rp">（</span><span type="rt">こくぐら</span><span type="rp">）</span></span>には<lb />
+米と麦が<lb />
+向ひ合つて重ねてあつた<lb />
+<lb />
+己は背戸の杉山に<lb />
+懸巣が来て鳴くのが<lb />
+うれしくて堪らなかつた<lb />
+<lb />
+己が馬に乗つて野にゆくと<lb />
+頬白は<lb />
+藪の上に囀つてゐた<lb />
+<lb />
+己は座敷の丸窓を開けて<lb />
+紅い芙蓉の花を眺めながら<lb />
+毎日、本を読んで遊んでゐた<lb />
+<lb />
+<span type="ruby"><span type="rb">丁爺</span><span type="rp">（</span><span type="rt">ていぢー</span><span type="rp">）</span></span>が餅を搗いて持つて来て呉れた<lb />
+己が飛行機の話をすると<lb />
+ほんたうとは思はずに帰つて行つた<lb />
+<lb />
+己は<span type="ruby"><span type="rb">巻莨</span><span type="rp">（</span><span type="rt">シガー</span><span type="rp">）</span></span>を吹かしながら<lb />
+村の子供等を集めて<lb />
+庭の植込の中を歩き廻つて遊んだ<lb />
+<lb />
+己は日暮方になると<lb />
+裏の<span type="ruby"><span type="rb">田甫</span><span type="rp">（</span><span type="rt">たんぼ</span><span type="rp">）</span></span>の中に立つて<lb />
+バーンスの詩の純朴に<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほゑ</span><span type="rp">）</span></span>んでゐた<lb />
+<lb />
+己は百年も二百年も<lb />
+<span type="ruby"><span type="rb">斯</span><span type="rp">（</span><span type="rt">かう</span><span type="rp">）</span></span>して生きてゐたいと思つた<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2310">二　篠藪</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">蝸牛</span><span type="rp">（</span><span type="rt">ででむし</span><span type="rp">）</span></span>よ<lb />
+黙り腐つた蝸牛よ、渦を巻いてゐる蝸牛よ<lb />
+何が恋しい<lb />
+篠藪に<lb />
+さら、さら、さらと雨が降る<lb />
+<lb />
+<span type="ruby"><span type="rb">夢現</span><span type="rp">（</span><span type="rt">ゆめうつつ</span><span type="rp">）</span></span>に<lb />
+己は暮らした<lb />
+蝸牛よ<lb />
+己に悲しいコスモスの<lb />
+花と花とに雨が降る<lb />
+<lb />
+もう、己の家は<span type="ruby"><span type="rb">最終</span><span type="rp">（</span><span type="rt">をはり</span><span type="rp">）</span></span>だ<lb />
+蝸牛よ<lb />
+田も売らう、畑も売らう<lb />
+篠藪に<lb />
+さら、さら、さらと雨が降る<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2320">三　霜の朝</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">厩</span><span type="rp">（</span><span type="rt">うまや</span><span type="rp">）</span></span>の前の葱畑に霜が真白に降つてゐた<lb />
+己が顔を洗つてゐると<lb />
+<span type="ruby"><span type="rb">鵯</span><span type="rp">（</span><span type="rt">ひよどり</span><span type="rp">）</span></span>が来て<lb />
+南天の実を食つてゐる<lb />
+<lb />
+己が売つて了つた馬を<lb />
+<span type="ruby"><span type="rb">博労</span><span type="rp">（</span><span type="rt">ばくらう</span><span type="rp">）</span></span>が下駄を穿いて牽きに来た<lb />
+馬は博労に牽かれて門を出ながら<lb />
+悲しさうに厩の方を振り向いて見てゐた<lb />
+<lb />
+己は門の外まで駈けて行つて見た<lb />
+冷たい朝日がさしてゐる<lb />
+田甫の中を<lb />
+馬は首を垂れて博労に牽かれて行つた<lb />
+<lb />
+己は茫然として縁側に腰を掛けてゐた<lb />
+鵯が南天の木から<lb />
+<span type="ruby"><span type="rb">囲垣</span><span type="rp">（</span><span type="rt">ゐがき</span><span type="rp">）</span></span>の椿の木へ飛んで行つて<lb />
+己の方を向いて鳴いてゐた<lb />
+<lb />
+己の家の囲垣は樫の木を売つて了つてから<lb />
+ほんたうにみそぼらしくなつて了つた<lb />
+緑青の<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>んだ<span type="ruby"><span type="rb">銅</span><span type="rp">（</span><span type="rt">あかがね</span><span type="rp">）</span></span>の門の<span type="ruby"><span type="rb">垂木</span><span type="rp">（</span><span type="rt">たるき</span><span type="rp">）</span></span>から<lb />
+霜解の雫がじたじたと落ちてゐる<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2330">四　何処へ</span></span></span>
+<lb />
+己が売つて了つた田の中で<lb />
+<span type="ruby"><span type="rb">水鶏</span><span type="rp">（</span><span type="rt">くひな</span><span type="rp">）</span></span>が鳴いてゐる<lb />
+己は悲しくなつて田の方を見ないで通つて来た<lb />
+<lb />
+<span type="ruby"><span type="rb">元</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>己が家の畑の中に<lb />
+青々と麦が育つてゐる<lb />
+己は悲しくなつて畑の方を見ないで通つて来た<lb />
+<lb />
+己が<span type="ruby"><span type="rb">借金</span><span type="rp">（</span><span type="rt">かり</span><span type="rp">）</span></span>の為めにとられた杉山が<lb />
+真黒になつて茂つてゐる<lb />
+己は悲しくなつて山の方を見ないで通つて来た<lb />
+<lb />
+己は悲しくなつてもうこの村には居られない<lb />
+己は<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>へ行かう<lb />
+何故己は死ねずに<lb />
+この村に居るだらう<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2340">五　暗い心</span></span></span>
+<lb />
+己が持つてゐた<span type="ruby"><span type="rb">亡父</span><span type="rp">（</span><span type="rt">おや</span><span type="rp">）</span></span>の形見の煙草入を<lb />
+質屋の隠居が<lb />
+毎日持ち歩いて吸つてゐる<lb />
+己は、それを見るたび胸が一杯になつた<lb />
+<lb />
+己が着てゐた夏<span type="ruby"><span type="rb">外套</span><span type="rp">（</span><span type="rt">インバ</span><span type="rp">）</span></span>を<lb />
+古着屋の<span type="ruby"><span type="rb">婆</span><span type="rp">（</span><span type="rt">をばばあ</span><span type="rp">）</span></span>が<lb />
+毎日負ひ歩いて見せてゐる<lb />
+己はそれを聞くたび胸が一杯になつた<lb />
+<lb />
+己の家で飼つて置いた鶏を<lb />
+己が売つてやると<lb />
+すぐ縊られて喰はれてゐる<lb />
+己は鶏の羽根を見て胸が一杯になつた<lb />
+<lb />
+己はもう希望も欲もなんにも無くなつて了つた<lb />
+生きたくも死にたくもなんともない<lb />
+この村にさへ居なかつたら<lb />
+己の心はのんびりしよう<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2350">六　風が吹く</span></span></span>
+<lb />
+己の家のうしろの沼に風が吹く<lb />
+実にしみじみ風が吹く<lb />
+見れば見るほど<lb />
+風が吹く<lb />
+<lb />
+山の方から風が吹く<lb />
+広い河原の<lb />
+<span type="ruby"><span type="rb">砂利</span><span type="rp">（</span><span type="rt">ざり</span><span type="rp">）</span></span>石に<lb />
+風は鳴り鳴り吹いて来る<lb />
+<lb />
+己が生れたこの村の<lb />
+井戸の釣瓶に<lb />
+風が吹く<lb />
+風は鳴り鳴り吹いてゐる<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2360">七　丁爺</span></span></span>
+<lb />
+己は少年の頃<lb />
+<span type="ruby"><span type="rb">穀倉</span><span type="rp">（</span><span type="rt">こくぐら</span><span type="rp">）</span></span>の廂へあがつて雀の巣を毀したことを覚えてゐる<lb />
+巣を毀された親雀は、日が暮れて了つても廂の上にとまつてゐたことも覚えてゐる<lb />
+穀倉は田を売つて了つた同じ年に己が売つて了つた<lb />
+穀倉の跡には青い<span type="ruby"><span type="rb">蓬</span><span type="rp">（</span><span type="rt">よもぎ</span><span type="rp">）</span></span>が生えてゐる<lb />
+己は庭へ出て見るたび熱い涙が胸にこみあげて来た<lb />
+<lb />
+己は門の屋根の<span type="ruby"><span type="rb">銅</span><span type="rp">（</span><span type="rt">あかがね</span><span type="rp">）</span></span>を剥して売らうと考へた<lb />
+己は靴を穿いて<span type="ruby"><span type="rb">古金屋</span><span type="rp">（</span><span type="rt">ふるがねや</span><span type="rp">）</span></span>のある町の方へ出掛けて行つた<lb />
+途中で丁爺に遭つた<lb />
+己は仕方なくて銅の話をした<lb />
+『お前さまの親御に御恩は返えせねえから、せめて――お前さまのお家でも繁昌させてえと――鎮守様にも御願をたててゐるでがす――』<lb />
+丁爺は悲しい顔をして己の顔を見てゐた<lb />
+己もほんたうに悲しくなつた<lb />
+己は古金屋へ行かずに帰つて来た<lb />
+<lb />
+己は庭木を売らうと思つて植木屋をよんで来た<lb />
+丁爺が来た<lb />
+丁爺の目には涙が一杯に浮んでゐた<lb />
+己は堪らなくなつて家の中に駈け込んで一人で泣いた<lb />
+<lb />
+西風が稲の上に毎日吹いた<lb />
+丁爺は己の家の庭へ来て<lb />
+いつも悲しい顔で立つて眺めてゐた<lb />
+己は丁爺に<lb />
+古くから己の家にあつた紫檀の蓋の湯呑を<span type="ruby"><span type="rb">与</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>つた<lb />
+『お前さまの形見でがな――』<lb />
+丁爺も己も一所に泣いた<lb />
+<lb />
+百姓はうれしさうに馬を牽いて歩いてゐる<lb />
+己に楽みのない収穫の秋がたうとう来た<lb />
+己は朝の<span type="ruby"><span type="rb">未</span><span type="rp">（</span><span type="rt">まあ</span><span type="rp">）</span></span>だ薄暗い内に<lb />
+ズツクの鞄を<span type="ruby"><span type="rb">抱</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>ひて汽車に乗つた<lb />
+腰の<span type="ruby"><span type="rb">屈</span><span type="rp">（</span><span type="rt">かが</span><span type="rp">）</span></span>んだ丁爺は改札口の<span type="ruby"><span type="rb">欄干</span><span type="rp">（</span><span type="rt">てすり</span><span type="rp">）</span></span>に伸び上り伸び上り<lb />
+『お前さま、御無事で暮らして下せえ』と己に云つて泣いてゐた<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2370">八　頬白</span></span></span>
+<lb />
+己が野へ行くたび<lb />
+藪の上にとまつて鳴いてゐた<lb />
+頬白よ<lb />
+己はお前のことをほんたうに懐しく思ふ<lb />
+<lb />
+己はこの村に家も屋敷もなくなつて了つた<lb />
+己は東京の友達を<span type="ruby"><span type="rb">便</span><span type="rp">（</span><span type="rt">たよ</span><span type="rp">）</span></span>つてゆく<lb />
+今日は別れだ<lb />
+頬白よ<lb />
+お前は達者でゐて呉れよ<lb />
+<lb />
+己は東京から<lb />
+二度この村へ帰つて来られるかどうか<lb />
+今のところでは解らない<lb />
+帰つて来ないとしても<lb />
+お前はいつまでも達者でゐて呉れよ<lb />
+<lb />
+己が東京へ行つて<lb />
+何処に住むようになるか未だ解らない<lb />
+本郷に住んでも浅草に住んでも<lb />
+この村のことは忘れて了つても<lb />
+頬白よ<lb />
+己はお前が懐しくて忘られない<lb />
+<lb />
+畑の麦が黄ばんでも、田の稲が黄ばんでも<lb />
+<span type="ruby"><span type="rb">他人</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>のものは喰はないで呉れよ<lb />
+この村には<lb />
+もう己の<span type="ruby"><span type="rb">田畑</span><span type="rp">（</span><span type="rt">てんばた</span><span type="rp">）</span></span>はない<lb />
+お前は何を喰つて暮らすだらう<lb />
+虫でも拾つて喰つて生きてゐて呉れろよ<lb />
+<lb />
+己が東京にも<span type="ruby"><span type="rb">生活</span><span type="rp">（</span><span type="rt">くらし</span><span type="rp">）</span></span>かねて<lb />
+東京に居ないと聞いても<lb />
+頬白よ<lb />
+決して悲しんで呉れるな<lb />
+お前は達者でいつまでもこの村で暮して呉れろよ<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2380">九　猫よ</span></span></span>
+<lb />
+東京に来て見たものの――<span type="ruby"><span type="rb">生活</span><span type="rp">（</span><span type="rt">くらせ</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">的</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>はない<lb />
+<span type="ruby"><span type="rb">郷里</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>に家でも――あるではなし<lb />
+どうしよう<lb />
+木更津に――お前の伯父がある筈だ<lb />
+己も一所に<lb />
+連れて行つて呉れぬか<lb />
+猫よ<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2390">十　夏</span></span></span>
+<lb />
+卯の花が咲く<lb />
+<span type="ruby"><span type="rb">杜鵑</span><span type="rp">（</span><span type="rt">ほととぎす</span><span type="rp">）</span></span>が啼く<lb />
+夏が来た<lb />
+沼の中に<span type="ruby"><span type="rb">菖蒲</span><span type="rp">（</span><span type="rt">あやめ</span><span type="rp">）</span></span>の花も咲いてゐる<lb />
+<lb />
+どつちにしろここには永く居られない<lb />
+己に約束の夏が来た<lb />
+この家は明日にも空けて返さねばならぬ<lb />
+己に余裕の金があらば<lb />
+せめて夏中でも<lb />
+ここの葛飾で暮らしたかつた<lb />
+<lb />
+己はもう諦めて神戸へ行かう<lb />
+己がたつて行つた<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span>で<lb />
+誰が来てこの家に住むだらう<lb />
+自分の家を<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">なくし</span><span type="rp">）</span></span>て了つた己は<lb />
+他人の家でも住み馴れた家は恋しい<lb />
+<lb />
+一生涯借家住ひで暮らさねばならない己は<lb />
+旅烏のやうだ<lb />
+去年の夏は東京に居て今年の今は葛飾に居る<lb />
+他人の知らない涙が<lb />
+己の胸にはいつも一杯に溜つてゐる<lb />
+<lb />
+これが自分のものと<span type="ruby"><span type="rb">定</span><span type="rp">（</span><span type="rt">きま</span><span type="rp">）</span></span>つた家があつたなら<lb />
+己はどんなに嬉しいだらう<lb />
+また住み馴れたこの家をたつて<lb />
+知らぬ他国に行かねばならぬ<lb />
+己に悲しい夏が来た<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

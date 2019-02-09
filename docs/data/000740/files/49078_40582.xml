@@ -1,0 +1,1982 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>二十歳のエチュード</title>
+        <author>原口統三</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-09-07">作成</resp><resp /><note>
+<lb />
+底本：「二十歳のエチュード」角川文庫、角川書店<lb />
+　　　1952（昭和27）年6月30日初版発行<lb />
+　　　1969（昭和44）年5月30日24版発行<lb />
+　　　1975（昭和50）年4月20日改版18版発行<lb />
+※底本の二重山括弧は、ルビ記号と重複するため、学術記号の「≪」（非常に小さい、2-67）と「≫」（非常に大きい、2-68）に代えて入力しました。 <lb />
+入力：蒋龍<lb />
+校正：伊藤時也<lb />
+<date when="2010-09-07">2010年9月7日</date>作成<lb />
+<date when="2011-05-16">2011年5月16日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>蒋龍</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>伊藤時也</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>二十歳のエチュード</title><author>原口統三</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">衆人皆有以。而我独頑似鄙。我独異於人。而貴食母。</span>
+<span rend="chitsuki_5" rendition="div" style="text-align:right; margin-right: 5em">――老子第二十絶学無憂章――</span>
+<lb />
+<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">訣別の辞に代えて</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_16" rendition="div" style="margin-left: 16em">
+ところが今日、僕はふと「寒い」と思ったのだ。<lb />
+僕はきっと夢を見て来たのに違いない。<lb />
+</span>
+<span rend="chitsuki_4" rendition="div" style="text-align:right; margin-right: 4em">―Etudes <span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />―</span>
+<lb />
+　　一明君<lb />
+「自己の思想を表現してみることは、<span type="ruby"><span type="rb">所詮</span><span type="rp">（</span><span type="rt">しょせん</span><span type="rp">）</span></span>弁解にすぎない」<lb />
+　右の最後の反省と共に、僕はこの小さな三つのノートを、君の手に渡そうと思う。<lb />
+　長い間筆を捨てて来た僕が臨終の直前まで来て、まだ一度も試みたことのないこうした感想録を作らずにおれなかったのは、やはり弱気の<span type="ruby"><span type="rb">蛆</span><span type="rp">（</span><span type="rt">うじ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">湧</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>いたためだろう。いつも罵倒していた「<span type="ruby"><span type="rb">老耄</span><span type="rp">（</span><span type="rt">おいぼ</span><span type="rp">）</span></span>れの繰り言」を、僕もまた実行したわけだ。九月の二十四日から今日まで、僕は寸暇も休まずに書き殴って来た。僕の心にはまだ書きつづけたい気があるし、これを整理して壮麗な文体で一つの作品を残したいとも思った。けれども、改むるに<span type="ruby"><span type="rb">憚</span><span type="rp">（</span><span type="rt">はばか</span><span type="rp">）</span></span>るなかれ。僕は今その意図を棄てねばならない。<lb />
+　君に渡すとすれば、もっと綺麗に、粗雑な文体も直した上で手放したいのだが、僕にはもうその気力がないのだ。我慢して受けてくれたまえ。<lb />
+　君はおぼえているだろうが、僕はよくドイツ人の悪口を言うときにこう語ったものだった。「ゲルマン人の思考の仕方は、城廓を築いてその中に安住する」このエチュードを記した後で、僕は自分の書き方に対してこの評言を与えざるをえない。それから、考えて見ることは、言葉を裏切った僕自分が、時にはやはり言葉で、動いたということだ。自分の思想を裏づけようとする時には、そうなるのは当然だし、プラトンの対話篇におけるソクラテスは、常に僕らの後を追い廻している。それにしても、僕の認識は、いつでも言葉の届かない所を歩いていたはずだ。<lb />
+　僕が君たちと離れて暮らした、昨年の暮れから今年の春にかけて、書き溜め、そして破り棄てた数々の詩篇や創作、自ら誇った「新しい日本語」を残すほうが、どれだけ君にとっては好いことだろうね。しかし、白状するが、僕には再び思い出して見る元気もないのだ。僕は疲れている。<lb />
+<lb />
+　　一明君<lb />
+　世の中には人の言ったことばかりを覚えている者もあるし、その声の主調低音だけしか記憶に残らないような種類の脳髄もある。<lb />
+　表現は<span type="ruby"><span type="rb">畢竟</span><span type="rp">（</span><span type="rt">ひっきょう</span><span type="rp">）</span></span>、それを受けとる人間にとって、年と共に姿を変えてゆくところの品物にすぎない。君がもし、僕のことを覚えていてくれるのなら、時として君の螢雪の窓にも訪れてくるであろうあのマルセル・プルウストの夜に、君たちを<span type="ruby"><span type="rb">怖</span><span type="rp">（</span><span type="rt">おび</span><span type="rp">）</span></span>やかした統さんの高笑いと、自慢の長い<span type="ruby"><span type="rb">睫毛</span><span type="rp">（</span><span type="rt">まつげ</span><span type="rp">）</span></span>とを思い出してくれたまえ。<lb />
+<lb />
+　別離の時とはまことにある。僕もまた、この夜、一人の仲間を葬ったのだ。<lb />
+　朝が来たら、友よ、君たちは僕の名を忘れて立ち去るだろう。<lb />
+<lb />
+　　昭和二十一年十月朔日<lb />
+<span rend="chitsuki_7" rendition="div" style="text-align:right; margin-right: 7em">赤城山にて</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">原口　統三</span>
+　橋本一明君<lb />
+　　　　　机下<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">Etudes　<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" /></span></span></span>
+<lb />
+<lb />
+<span rend="jisage_16" rendition="div" style="margin-left: 16em">
+Appr<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />cions sans vertige<lb />
+l'<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />tendue de mon innocence.<lb />
+</span>
+<span rend="chitsuki_8" rendition="div" style="text-align:right; margin-right: 8em">―Arthur Rimbaud―</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">１</span>
+　告白。――僕は最後まで芸術家である。いっさいの芸術を捨てた後に、僕に残された仕事は、<span rend="sesame_dot" rendition="em">人生そのものを</span>芸術とすること、だった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">２</span>
+　傷のないところに痛みはない。僕にとって、認識するとは、生身を<span type="ruby"><span type="rb">抉</span><span type="rp">（</span><span type="rt">えぐ</span><span type="rp">）</span></span>ることであり、血を流すことであった。そして、今、僕の誠実さの切尖が最後の心臓に擬せられたからとて、僕は<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ためらう</span><span type="rp">）</span></span>だろうか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">３</span>
+「<span type="ruby"><span type="rb">邯鄲之歩</span><span type="rp">（</span><span type="rt">かんたんのほ</span><span type="rp">）</span></span>」<lb />
+　まだ傷つけ忘れた場合はないかと、安全地帯を探して廻る臆病者たち。<lb />
+　刃を捨てようというのか。<lb />
+　彼らの顔に刻まれた大小の<span type="ruby"><span type="rb">血痕</span><span type="rp">（</span><span type="rt">けっこん</span><span type="rp">）</span></span>が、彼らを醜くする。<lb />
+　もはや、あの、生地のままの肌を持った、素朴な人々の住む故郷に彼らは帰って行けない。<lb />
+　そこで、こうした賤民たちが、「認識者」の刃を後生大事と、看板代わりにぶら下げて、お互いの顔貌を見せあっては安心するというわけだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">４</span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">Quelle <span facs="../../../gaiji/1-09/1-09-56.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きA小文字)" />me est sans d<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />fauts ?</span>
+<lb />
+　僕がかつてお目にかかった「認識者」とは、なべて皆、醜怪な賤民たちにすぎなかった。<lb />
+　刃を捨て、<span type="ruby"><span type="rb">昂然</span><span type="rp">（</span><span type="rt">こうぜん</span><span type="rp">）</span></span>と廻れ右をして立ち去ったのは、ひとり、ランボオだけではなかったか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">５</span>
+　論理は、必ず逆襲できるし、破壊することも可能である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">６</span>
+　各自が異なった数学を持つ。僕には最も自分に誠実であるためには、いっさいの表現を拒否せねばならぬ、ということが最も確かなことに思われた。そこで、僕は既成の数学を疑って見ることができるようになった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">７</span>
+　朔太郎の一句を想起しよう。<lb />
+「思想は一つの意匠であるか」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">８</span>
+「幸福」の私生児、僕はいっさいの<span rend="sesame_dot" rendition="em">契約</span>をご破算にした。僕の仇敵は「虚無」という怪物であり、僕は至る所で彼の兄弟に出会した――「安心」と「満足」と。<lb />
+　最後に僕は、勝利の女神と対決した。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">９</span>
+　パラドックスは遍在する。いっさいの表現はこれを逆立ちして眺めることができる。<lb />
+　僕が「見る者」であった時には、よくこう語ったものだ。<lb />
+「俺の眼にとっては、天が下にあり、地が上にある、と」<lb />
+　事実、そう信じたのだ。<lb />
+　今日、僕はすべての「見る者」を無視する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">10</span></span>
+　僕は<span rend="sesame_dot" rendition="em">進歩</span>を<span type="ruby"><span type="rb">嘲笑</span><span type="rp">（</span><span type="rt">あざわら</span><span type="rp">）</span></span>った。人類が<span rend="sesame_dot" rendition="em">契約</span>に隷従する限り、彼らはあのばかばかしい「超人」の幻形を瞼の先から追いのけることは出来ないだろう。<lb />
+　いったい、奴隷が<span type="ruby"><span type="rb">自惚</span><span type="rp">（</span><span type="rt">うぬぼ</span><span type="rp">）</span></span>れ出したらろくなことは起こらない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">11</span></span>
+　<span rend="sesame_dot" rendition="em">伝えうるもの</span>の領域を究めた結果、僕はその境界を超えてしまった。<lb />
+　今日、僕は、自分の語ること、考えることが、皆目嘘八百にしか感ぜられぬのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">12</span></span>
+　われわれの誠実さを脅かす、無数の<span type="ruby"><span type="rb">怯懦</span><span type="rp">（</span><span type="rt">きょうだ</span><span type="rp">）</span></span>と安慰。<lb />
+<lb />
+　僕が育った家。父母、兄たち、姉たち。ここでは、見慣れた家具の類が、家族の一員となって、僕を甘やかそうとする。<lb />
+　僕にはその居心地の温さが堪らなかった。<lb />
+　僕は冷たくありたかったのだ。「精神」への冒険に旅立ちたかったのだ。それはいっさいの温いものを拒否すること、すなわち「死ぬ」ことに帰着する。<lb />
+<lb />
+　理解できない「末っ子」の死を前にして、お母さんはどうするだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">13</span></span>
+「考えるとは表現することである」現代の百科辞典にはこう書いてあるそうだ。<lb />
+　表現はどんな風にでもあり、したがってどんな考え方だって存在しうる。<lb />
+　思索とは表現の可能性に対して行なわれる精神の賭博である。<lb />
+　僕の自意識は、思想のルーレットを己の意のままに廻すことができた。だが賭金などに用はなかった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">14</span></span>
+　<span type="ruby"><span type="rb">倦</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>きた。僕はいつでも勝利者だ。<lb />
+　そこで僕は賭博場を飛び出した。外に出れば寒かった。<lb />
+　もはや僕の信ずるのは、自分の肌の感覚だけだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">15</span></span>
+　礼儀正しい芸術家たち。<lb />
+　彼らの間のだれが、自分の居間では<span type="ruby"><span type="rb">褌</span><span type="rp">（</span><span type="rt">ふんどし</span><span type="rp">）</span></span>一枚にならなかったと言えるか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">16</span></span>
+　いや、「精神」の厳粛な書斎にまで、憩いのための安楽椅子を備えておく輩。――これがランボオの最も<span type="ruby"><span type="rb">唾棄</span><span type="rp">（</span><span type="rt">だき</span><span type="rp">）</span></span>するところであった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">17</span></span>
+　けれども、僕の潔癖さは、次のような腹立たしい矛盾を見る。<lb />
+<lb />
+　西洋人の作品は、芸術であれ、哲学であれ、必ず「アルバイト」の臭いがする。<lb />
+　強制と義務と正確への<span rend="sesame_dot" rendition="em">努力感</span>と。そして生存競争の意欲。<lb />
+<lb />
+　ところで、支那の古詩には、こうした臭味がない。「文学を楽しむ」という<span type="ruby"><span type="rb">衒学</span><span type="rp">（</span><span type="rt">げんがく</span><span type="rp">）</span></span>的な言葉が、阿藤先生の口から洩れる時、いかに厭や味なく受けとれたことだろう。<lb />
+　<span type="ruby"><span type="rb">杜甫</span><span type="rp">（</span><span type="rt">とほ</span><span type="rp">）</span></span>の詩は、<span type="ruby"><span type="rb">彫琢</span><span type="rp">（</span><span type="rt">ちょうたく</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鑿</span><span type="rp">（</span><span type="rt">のみ</span><span type="rp">）</span></span>のあとが覗えるけれども、一方には<span rend="sesame_dot" rendition="em">思い切って</span>、背を向けて立ち去る者の、あの爽やかさがある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">18</span></span>
+　われわれの生涯はさまざまな自分を持つ。阿藤先生は第一日の講義で、支那人の賢明さを、次のように示した。「支那人は個人の名称を弁別する。<span type="ruby"><span type="rb">曰</span><span type="rp">（</span><span type="rt">いわ</span><span type="rp">）</span></span>く、杜甫、杜子美、杜少陵、と」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">19</span></span>
+　僕に、自意識がついには無意識を装いうるということまで到達しなければならなかった。けれども、それは外見上のことだった。僕はそれを内心の表象の世界にまで押し進めねばならぬ、と考えた。<lb />
+　つまり、すべての表現――われわれの中に存在し、外に存する、image――言語・論理・数学に対して、苛酷になることであった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">20</span></span>
+　何故なら、「<span type="ruby"><span type="rb">明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" /></span><span type="rp">（</span><span type="rt">めいせき</span><span type="rp">）</span></span>さ」、は僕においては「潔癖さ」の度合いによるものだ。そして、僕の純潔とは、潔癖な自意識を最も忠実な使者とする、「精神の肉体」と名づけられるものへの形容詞であった。<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">九・二四</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">21</span></span>
+　二種類の孤独について。<lb />
+　窓の内側に住む孤独と、窓の外側に立つ孤独と。<lb />
+　むかし、僕の幼い魂は、終日、窓ガラスに頬を寄せて<span type="ruby"><span type="rb">蒼空</span><span type="rp">（</span><span type="rt">あおぞら</span><span type="rp">）</span></span>を眺め、未知の天地に恋い焦れていた。<lb />
+　そして、自分を孤独だと歎いたものだ。僕の詩人は、すでにこの時に生誕していたのだ。<lb />
+<lb />
+　けれども、僕に帰ってゆく家がなくなってから、僕は行きずりの家々の窓の中に、かつての「空想児」の姿を見つけては、彼らの平和な一日を祝福して歩くようになった。<lb />
+　そして僕は、これこそほんとうの孤独だと、思った。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">22</span></span>
+　窓のある所に孤独がある。今日、僕は己を孤独だと言うまい。<lb />
+　僕はもう「見る者」ではなくなったのだ――窓を捨ててしまったから。<lb />
+　ところで、これこそ真の孤独ではないだろうか。<lb />
+　僕はやがて死ぬ男だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">23</span></span>
+　僕にはお母さんのお乳が足らなかったのか。お母さんの愛情が甘過ぎたのは。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">24</span></span>
+　批評とは、他人の中に自己のシルエットを見いだすことにほかならない、というサント・ブーヴの言葉。<lb />
+　しかし批評することは、どこまで行っても自己を許すことである。つまり自己自身を批判する最も厳しい眼をもつことは、生きている間は不可能である。<lb />
+　ここまで到達した後に僕は死を決意した。僕は「より誠実であろう」とするものであって結果を恐れるものではない。僕はどうしても自分を許せなかったのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">25</span></span>
+「報いはない」<lb />
+　悪魔はどこまで行っても、この言葉を<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>くのだ。<lb />
+「救いはない」<lb />
+　僕の胸はたえずこの声にしめつけられる。<lb />
+「<span type="ruby"><span type="rb">頌歌</span><span type="rp">（</span><span type="rt">しょうか</span><span type="rp">）</span></span>はない」<lb />
+　<span type="ruby"><span type="rb">寂寥</span><span type="rp">（</span><span type="rt">せきりょう</span><span type="rp">）</span></span>は至る所で僕を待ち構えている。<lb />
+「勝利はない」<lb />
+　だからと言って、僕が敗北したと、だれが言えよう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">26</span></span>
+　僕の精神は血にまみれて歩く。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">27</span></span>
+　正道君の僕への批評はこうだったろうか。<lb />
+　――君はもともと、独りきりになったら生きて行けないほどの寂しがり屋のくせに、側に人が来ると、<span type="ruby"><span type="rb">邪慳</span><span type="rp">（</span><span type="rt">じゃけん</span><span type="rp">）</span></span>にあっちに行け、と言う。<lb />
+<lb />
+　もっともだ。僕くらい、<span rend="sesame_dot" rendition="em">いい</span>気な男はない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">28</span></span>
+　如意輪寺で、<lb />
+　道ちゃんと玲子に贈るものはないだろうか、と僕の内奥の心が迷っていた。<lb />
+　その時、お婆さんは誘うような眼で言った。<lb />
+　――富士絹だっせ。<lb />
+　この言葉が僕の意志を決定した。<lb />
+　僕はお母さんと暮らしていたころのある日を想い出したのだ。<lb />
+<lb />
+　僕はいつものように駄々をこねた。何と言われても、すかされても泣きやまなかった。<lb />
+　ふと、泣き疲れて見上げた目に、お母さんの淋しそうな、涙にうるんだ視線で、やさしく僕を<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>めている顔が映ったのだった。<lb />
+　僕は机の上にあっただれかのハンカチをとって、お母さんの膝の上に甘えかかりながら、<span type="ruby"><span type="rb">赦</span><span type="rp">（</span><span type="rt">ゆる</span><span type="rp">）</span></span>しを乞うように、そのハンカチでお母さんの瞼を拭いてあげたのだ。<lb />
+　お母さんの眼が笑った。そしてハンカチを自分の手にとって、僕の顔を拭ってやろうとしながら、<lb />
+「富士絹ね」と無心にぽつりと言った。……<lb />
+<lb />
+　あとで道ちゃんに尋ねたら、あのハンカチは人絹だった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">29</span></span>
+　他人の家に行くと、かしこまって、気兼ねばかりした僕――自然な大胆さを装おうとすると、決まって飛んだ失敗をする。<lb />
+<lb />
+　僕は生まれつき、臆病な、風邪をひきやすい箱入り娘なのに違いない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">30</span></span>
+　故郷はない。それなのに、僕は己の故郷以外の土地には住めない人間なのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">31</span></span>
+　親戚ほど、不愉快な他人はない。おかしくもないのに、笑顔を見せねばならぬ理由がどこにある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">32</span></span>
+　僕は<span type="ruby"><span type="rb">忸</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>れ合いが嫌いだ。僕の手は乾いている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">33</span></span>
+　日本では年じゅう<span type="ruby"><span type="rb">黴</span><span type="rp">（</span><span type="rt">かび</span><span type="rp">）</span></span>が生える。この国の人々の手は汗ばんでいる。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">34</span></span>
+　橋本を橋本のままにしておくこと。<lb />
+　僕にはどんな文体も可能であった。多少の幼稚さをまじえ、<span type="ruby"><span type="rb">疎漏</span><span type="rp">（</span><span type="rt">そろう</span><span type="rp">）</span></span>を加え、所々間抜けらしく見せて、しかも彼には僕の手になる手紙だ、とわかるのだ。<lb />
+　<span type="ruby"><span type="rb">賢</span><span type="rp">（</span><span type="rt">さか</span><span type="rp">）</span></span>しらの才能というものに魅力を感ずる季節にある彼。彼は僕の言い廻しの幼さと、感傷性を発見して、自尊心を傷つけられないですんだ。<lb />
+　他人をそっとしておこうという望みは、気弱い感傷でなければ、極度の<span type="ruby"><span type="rb">傲慢</span><span type="rp">（</span><span type="rt">ごうまん</span><span type="rp">）</span></span>な態度と言えよう。僕が死を選んでから、得たこの悪い癖。<lb />
+　かつての僕なら、他人の自尊心の破壊を楽しんだに違いない。<lb />
+　いずれにしても、<span type="ruby"><span type="rb">己惚</span><span type="rp">（</span><span type="rt">うぬぼ</span><span type="rp">）</span></span>れと精神的マスターベーションを捨てること。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">35</span></span>
+　他人を許容するのは己惚れからにすぎない。ちょうど、他人を赦さぬことと同様に。<lb />
+　さて、他人を頭から無視する人間は、かって気ままにふるまえるか。けれども、彼が勝利の感情を<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">いだ</span><span type="rp">）</span></span>く時に、傲慢無知と呼ばれ、身のほどをしらぬと言われるのはもっともだ。<lb />
+<lb />
+　<span type="ruby"><span type="rb">人造人間</span><span type="rp">（</span><span type="rt">ロボット</span><span type="rp">）</span></span>のみが人間を無視できる。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">36</span></span>
+　かつて多くの傲慢な「認識者」たちが、自分の周囲に集めた仲間、弟子。<lb />
+「頭の中にあるものを出す」「一ぱいに満ち溢れた蜜がこぼれる」<lb />
+　ニーチェが巧みに弁解するところのこうした必然性を僕は拒んだ。<lb />
+　自己の思想の中に他人を化そうというこの願望は一つの弱気を含む。僕は「弱気だ」、と簡潔に言おう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">37</span></span>
+　自意識は常に必然性と妥協しない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">38</span></span>
+　現代人は自分の膚の感覚を信用しなくなってしまった。本当に<span type="ruby"><span type="rb">明晢</span><span type="rp">（</span><span type="rt">めいせき</span><span type="rp">）</span></span>に<span rend="notes">［＃「<span type="ruby"><span type="rb">明晢</span><span type="rp">（</span><span type="rt">めいせき</span><span type="rp">）</span></span>に」はママ］</span>住んでいるのに、彼らはそれが外から与えられると思いこむのだ。<lb />
+　現代人は契約の中に明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" />さを見いだす。しかも彼らを安心させるのは、契約を作ったのも彼らだと考えられるからだ。<lb />
+　人間によって生み出されたものが人間を支配する。<lb />
+　現代人は己惚れた奴隷である。<lb />
+　ニーチェ以来人類は「貪慾」を肯定している。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">39</span></span>
+　ヴァレリイと共に、僕は<span rend="sesame_dot" rendition="em">明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" />さ</span>を尊ぶ、と言おう。<lb />
+　けれども僕の<span rend="sesame_dot" rendition="em">明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" />さ</span>は、あくまで僕一箇のものだ。それは社会学者が「利己」と称して非難するごとく、破壊的なものではない。何故なら、それは沈黙しているからだ。<lb />
+　真の<span rend="sesame_dot" rendition="em">明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" />さ</span>は清いものである。それは利己主義者のように「所有」を受け入れはしない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">40</span></span>
+　知性。<lb />
+　二十世紀の舞台に登場したこの花形役者に従えられて、我が世の春を謳歌するお歴々の名は、――形式・表現・連関………………。それは当然、「社会」と「全体」とをクローズ・アップするだろう。それがやがて「所有」への欲望と結びつけられる時に、あの<span type="ruby"><span type="rb">貪婪</span><span type="rp">（</span><span type="rt">どんらん</span><span type="rp">）</span></span>な政治家は、物質万能主義の悪魔の王国を作るのである。<lb />
+　<span type="ruby"><span type="rb">凄愴</span><span type="rp">（</span><span type="rt">せいそう</span><span type="rp">）</span></span>な「知性」の旋風のさなかに昂然と立とうとする孤独なる「個性」の運命――これがポオル・ヴァレリイの悲劇だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">41</span></span>
+「われわれはまじめに生きるということと、時折りひたむきに創作すること以外に何ができるでしょう」<lb />
+　このほうが正確であった。彼は文学をより愛するに及んで、<lb />
+「ここに言う文学とは、単に文字によって書かれたものを意味するに止まるものではない。いわばそれは文学に底流するかの情感、すべての人間の弱さ、惨めさ、醜さを超えて行こうとする人間精神の勝利であり、マンのいわゆる『にもかかわらず』によって成就された人間の業蹟なのだ」そして「………………これこそは芸術のすべて、文学のすべてなのだ。そして、この意味における文学こそまた人生のすべてなのだ」と壮烈に絶叫するのだ。<lb />
+<lb />
+　賢しらの<span type="ruby"><span type="rb">似而</span><span type="rp">（</span><span type="rt">えせ</span><span type="rp">）</span></span>文学者どもが、いかに<span type="ruby"><span type="rb">揶揄</span><span type="rp">（</span><span type="rt">やゆ</span><span type="rp">）</span></span>しようとも、僕はかかる言葉に打たれる。<lb />
+　しかし、甘さはやはり排斥せねばならぬ。<lb />
+<lb />
+　真の詩人は詩論を書かぬものであり、真の信者は信仰を説明しないものである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">42</span></span>
+　哲学者は真理を語りはしない。彼は作品を書くだけだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">43</span></span>
+　日本の自称哲学者たちは哲学は文章の外にあると思っている。<lb />
+　言語学と文法とを勉強しないで哲学ができるわけがない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">44</span></span>
+　沈黙を信じない人は、スタイルだけを信じればいい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">45</span></span>
+　表現とは、所詮自己を許容する量の大小のあらわれにすぎない。<lb />
+　それは、正確に対して忠実・厳密でない、ということだ。<lb />
+　右の考えから、次の「悪魔の試論」へ。<lb />
+<lb />
+　人間は、自己の真情を吐露しようと欲することにおいて、罰せられている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">46</span></span>
+　他人と話す時には、正確さは実証によって裏づけられる。<lb />
+　だから、僕の会話はこうなるだろう。<lb />
+「『文は人なり』だって！　『人』なんて怪物が存在するものか。何といっても文は文だよ」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">47</span></span>
+　僕は不純なもの、徹底性のないものをすべて唾棄した。ところですべての「イズム」は「イズム」自体に忠実でない。すなわちどこかできっと妥協しているのだ。<lb />
+　僕が最も憎悪したのは、「唯物論」「現実主義」そのものに対してではなく、世に現われた唯物論と現実主義の曖昧さ、不透明さに対してである。信仰のない「イズム」など僕には用はない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">48</span></span>
+　孤独への讃歌。<lb />
+　唯物論はどこにでも領土を拡げる。<lb />
+　精神の世界にも唯物論は住んでいるのだ。すなわち、ありとあらゆる表現は、精神界における物質である。言語は物質である。<lb />
+　言語は精神を<span type="ruby"><span type="rb">琢磨</span><span type="rp">（</span><span type="rt">たくま</span><span type="rp">）</span></span>し、これを輝かせるけれども、言語そのものに光はない。精神は言語の中に住む、という考え方が「文は人なり」という<span type="ruby"><span type="rb">箴言</span><span type="rp">（</span><span type="rt">しんげん</span><span type="rp">）</span></span>を生んだのだが、さらに進んでわれわれの不注意な眼は、しばしば「言語すなわち精神である」と錯覚することがある。これを精神世界における唯物論と呼ぼう。<lb />
+　僕においては、精神はあくまで言語と区別される。それは表現とは別箇に独立したものである。「精神」という単語の受けとり方の問題になるなら、僕は精神をこうしたものだと定義すると言おう。僕はこのけっして人に知られない、沈黙した実体の存在を信じているのだ。<lb />
+　それは「精神の肉体」と言う僕の発明した言葉で指摘してもいい、実証論者たちは、これを亡霊だと揶揄して凱歌をあげるだろう。それは当然だ。けれども僕はやつらを無視することができる。僕はいつでも、だれにも知られぬ孤独の中にのみ誠実さを見いだすのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">49</span></span>
+　いかなる思想も、なんらかの「妥協」の衣を着せて提出しなければ通用しない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">50</span></span>
+　サント・ブーヴがユーゴーへ与えた<span type="ruby"><span type="rb">辛辣</span><span type="rp">（</span><span type="rt">しんらつ</span><span type="rp">）</span></span>な諷刺の口振りを、すべての表現に対してまねして見よう。<lb />
+「われわれは、自己を隠し過ぎるという悪い癖と、あまりに告白し過ぎるという悪い癖を持っている」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">51</span></span>
+「神なしにすますことはできない」<lb />
+　このパスカルの言い方、あるいは、<lb />
+「われわれは<span rend="sesame_dot" rendition="em">良心</span>というものが<span rend="sesame_dot" rendition="em">存在する</span>かのように行動しようではないか」という鴎外の声色。<lb />
+<lb />
+　僕は、実証論者たちと共に、きっぱりと、しかしながら沈鬱にこう言おう。<lb />
+「気の弱い夢想児の寝言にすぎぬ」と。<lb />
+　しかし、かかる言葉は、今一度沈黙の中に鍛え直すだけのものを内に秘めているのではないか。<lb />
+　僕は Pens<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />es を、自分の胃袋の中で、思いきり<span type="ruby"><span type="rb">苛</span><span type="rp">（</span><span type="rt">いじ</span><span type="rp">）</span></span>めつけてやった。<lb />
+「パスカル。私にはお前の手が見えすぎる」と毒づく時の、ヴァレリイの眼の奥を覗くこと。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">52</span></span>
+　今日、僕の悪魔が来てこう告げた。<lb />
+「過去を憎み、ありとある思想に反逆し、詩を捨て、家を捨て、肉親の人々にさえも冷酷な瞳を投げつけ、そうしてお前の周囲のすべての人に、事物に――。<lb />
+　これは結局は、お前自身の血を否定することではなかったのか」と。<lb />
+　僕は黙って、この判決を聞いてやった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">53</span></span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+Mon dieu, mon dieu, la vie est l<span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" />,<lb />
+〔　　Simple et tranquille.〕<lb />
+</span><span rend="jisage_10" rendition="div" style="margin-left: 10em">
+――Paul Verlaine――<lb />
+</span>
+<lb />
+　名古屋で玲子が教えてくれた讃美歌。<lb />
+　――仇に過ぎし日の、み赦しを願う。<lb />
+<lb />
+　カトリックとは全く魅力のあるものだ。<lb />
+　ボオドレェルよ、握手しようではないか。<lb />
+　さて、その後に別れるのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">54</span></span>
+　静かに独り、夕暮れの枕べに祈りを捧げている少女の姿を、僕は美しいと思う。けれども、僕の心は、すでに、現代では一匹の野獣でさえ、信あつき少女の仮面を装いうるということを知っている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">55</span></span>
+　君たちは、信仰を持たないと公言して誇らしい顔をするが、それは少しも自慢すべきことではない。<lb />
+　僕は信仰を尊敬する。何故なら、信仰はお<span type="ruby"><span type="rb">喋</span><span type="rp">（</span><span type="rt">しゃべ</span><span type="rp">）</span></span>りをしないからだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">56</span></span>
+　僕は黙っている海が好きだ。波の穏やかな日の海が好きだ。<lb />
+　けれども僕が、語らない海を愛するのは、それがすばらしい語り手であることを知っているからだ。<lb />
+　静かな忍従の衣の下にやすらう黎明の海上にも、きっと、あの壮絶な暴風の夜半が、怒号の夕べが、泡立つ正午が約束されているからだ。<lb />
+　だが、これは悲しいことではないのか。この約束なしにわれわれは海を愛せるであろうか。<lb />
+　人は海べに来て、はるか青一色の沖合いに砕ける幾つかの白い波頭を認めなければ、最後の微風も死に絶えた大気の中に、かすかなざわめきを聴きとらなければ、衰えた秋の陽を浴びて、じっと動かない灰色の砂丘の上に、無残な嵐の一夜の痕跡を踏まなければ、おそらく退屈に耐えずして<span type="ruby"><span type="rb">踵</span><span type="rp">（</span><span type="rt">くびす</span><span type="rp">）</span></span>を返すだろう。<lb />
+<lb />
+　僕が語り手でなくなることを嘆くまい。<lb />
+　<span type="ruby"><span type="rb">蒼穹</span><span type="rp">（</span><span type="rt">そうきゅう</span><span type="rp">）</span></span>を、あの永遠の<span type="ruby"><span type="rb">唖</span><span type="rp">（</span><span type="rt">おし</span><span type="rp">）</span></span>の少女の、美しい瞳を仰ごう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">57</span></span>
+　僕の死を知る時の他人の思惑への予想。<lb />
+<lb />
+　一、ばかでも言うこと。皮肉を籠めたつもりで嬉しがるばかもいる。<lb />
+「原口が死んだって？　やっぱり生きてるのがいやになったのさ」<lb />
+　二、厳めしい物知り顔がこう言う。<lb />
+「これはまさしく人生への敗北である」<lb />
+　三、メカニスム的に語る生理学者。これはなかなか気持ちがいい。<lb />
+「人の死に方にもいろいろあるが、なかには変わったのもたまには見つかるね、食慾過多で青酸加里を飲んだり、運動神経に狂いを生じて、自分の心臓にナイフの切尖が向いてみたり、恋水病という奇妙な発作で河に飛びこんだり……。<lb />
+　要するに死とは、脳細胞の活動停止によるところの……」<lb />
+　四、「人生に安心を見いだせなかったのだね」<lb />
+「いや、安心という弱点が充満していることに安心できなかったのだそうだよ」<lb />
+「ふうむ――どこまで<span type="ruby"><span type="rb">天邪鬼</span><span type="rp">（</span><span type="rt">あまのじゃく</span><span type="rp">）</span></span>なんだろう！」<lb />
+　五、詩人曰く「原口は人生に最初から失恋して生まれて来たような男だったよ」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">58</span></span>
+　彼は僕より年が三つ上だ、というそれだけの理由で、僕に向かってまじめに話ができない。<lb />
+「先輩」の虚栄心は、「恐るべき後輩」に対して、自己の弱点を守ろうとしながら、こういうお世辞と、皮肉とを浴びせかける。<lb />
+「君は要するに天邪鬼さ」（ついでに「ばかだ」と言いたいのだが、言えないのだ）<lb />
+　また、「君は一個のピュリタンだ。僕には、君の中にボオドレェルやフロォベルに見ると同じ、（ここまでいって、ちらっとひとつ顔を横目で見る。己惚れちゃいけないよ、という意味か。ふん、僕を詩人や小説家と一緒にされて堪るものか）禁慾者、修道僧の面影が見えるんだ。それなのに、君は他人に対しては、同じ修道僧であることを求めない。そっとしておきたいんだね。殊勝なことさ。でも、それはトニオ・クレーゲルの感傷にすぎないよ。君がピュリタンである以上、君は他人にもピュリタンであることを要求する権利がある」<lb />
+　その時、当の「天邪鬼」は答えたものだ。<lb />
+「権利ですって！　義務ですって！　ふん、まっぴらご免だ。それに僕がピュリタンだなんて、どうしてわかります。<lb />
+　それどころか、僕は『<span type="ruby"><span type="rb">豈</span><span type="rp">（</span><span type="rt">あに</span><span type="rp">）</span></span>五斗米のために腰を折って郷里の小児に<span type="ruby"><span type="rb">見</span><span type="rp">（</span><span type="rt">まみ</span><span type="rp">）</span></span>えんや』っていうような他人は好きですが、僕なら、反対に喜んで腰を折ってお米をもらいに行きますよ」と。<lb />
+　さあ、僕が死んだら、思う存分「ばかなやつだ」と言いたまえ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">59</span></span>
+　彼は時々しんみりした顔でこんな話もする。<lb />
+「君がどんなに、『詩人じゃない！』って言い張っても、君の本領はやはり詩人だよ。<lb />
+　正直に言えば、僕は君の詩以外のものは読もうと思わないね。『断頭台の時刻』を書いた時に君は筆を折るべきだったのだ。<lb />
+　君はあの時、夢と共に自分自身をたたきつけてしまったんだよ。詩を失ったら、君にはもう何も書けないはずじゃないか」<lb />
+　それから意地悪い顔をして、<lb />
+『窓蔭に流れる四季』には、もう君の姿はないね。もともと君は小説家でも、哲学者でもないのに、「あんなものを書こうとするのがすでに、君が俗っぽくなった証拠さ。――つまらない我を張るのはよして詩を書きたまえ、詩人でない君なんてありはしない」<lb />
+　僕はこの時も彼を冷笑したものだ。<lb />
+「二十世紀に宿命などあるものですか。『額の<span type="ruby"><span type="rb">烙印</span><span type="rp">（</span><span type="rt">らくいん</span><span type="rp">）</span></span>』を信ずるのはもう時代遅れだ。僕ならそんなものはいつでも剥がして見せる。<lb />
+　詩人変じて俗となる、なんて、現代の社会では珍しい事件じゃありませんよ」<lb />
+<lb />
+　しかし、自殺の計画はすでにこの時、僕の心に<span type="ruby"><span type="rb">兆</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span>していたのである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">60</span></span>
+　いかにも、僕は他人が僕と同じ道を行くことを望まない男である。僕においては、自分に言い聞かせる言葉と、他人に語る言葉とは常に劃然と区別された。<lb />
+　理解されようという願い、これも一つの弱気にすぎない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">61</span></span>
+　僕は、<span rend="sesame_dot" rendition="em">誘い合って</span>断頭台に登るような殉教者を軽蔑する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">62</span></span>
+　無関心の徳を讃美しよう。ところでそういう僕は、じつに関心の多い男ではなかったか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">63</span></span>
+　無関心の徳について。<lb />
+　気持ちのいい親切は、ある程度の無関心を含むものである。何故なら、それはわれわれに、自由な余地を残しておいてくれるからだ。親切も、度を過ぎるとわれわれを不快にする。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">64</span></span>
+　清岡さん、橋本・都留・通ちゃん・玲子。<lb />
+　これらの群像を遠目に眺めて、「愛する」と肯定しよう。<lb />
+「愛」がなんらかの卑劣な妥協を含むなら、棄てること。<lb />
+<lb />
+「安心」は常に僕の敵ではないのか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">65</span></span>
+　何人も、自分の家庭では偉人ではない。そこでは自尊心が首をもたげる暇がない。けれども、自尊心というやつは風邪を引きやすいものだ。だから、人々は朝になると外出して、自尊心を活動させ、夜になると家に帰ってそれを寝かしつける。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">66</span></span>
+　生活するためには家庭を持たなければならない。われわれの自尊心は、温い着物がなければ<span type="ruby"><span type="rb">凍</span><span type="rp">（</span><span type="rt">こご</span><span type="rp">）</span></span>えてしまうのだ。<lb />
+　ところで、精神とは、自尊心の活動する世界のことである。<lb />
+　僕の兇暴な自尊心は、あらゆる<span type="ruby"><span type="rb">八百長</span><span type="rp">（</span><span type="rt">やおちょう</span><span type="rp">）</span></span>を拒絶した。つまり僕は家庭を捨てたのだ。それがいつの日のことであったか、僕はもうおぼえてもいない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">67</span></span>
+　愛はまさにわれわれの故郷に違いない。僕は故郷を持たぬ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">68</span></span>
+<span facs="fig49078_01.png" rend="illustration" rendition="img" source="「悪魔が今日、かういふ名刺を作つてくれた。」の手書き文字" /><lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">69</span></span>
+<span facs="fig49078_02.png" rend="illustration" rendition="img" source="「墓碑銘の一考察。」の手書き文字" /><lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">70</span></span>
+　ベルグソンの純粋持続。<lb />
+　僕はこの持続 ＝dur<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />e という言葉が好きだ。ここには「忍耐」の響きがある。<lb />
+「<span type="ruby"><span type="rb">傑</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>れた作品とは、緊張した意識の流れから、<span type="ruby"><span type="rb">熟</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>れた果実がいつか枝から落ちるように、生まれ出るもの」<lb />
+　表現への慾求が生む理想論。<lb />
+　これを「ロマンチスト哲学」と呼ぼう。僕の眼には「許容」すなわち弱気から生まれない表現などありはしない。<lb />
+　果実が落ちるのは、これをささえる<span type="ruby"><span type="rb">蕚</span><span type="rp">（</span><span type="rt">がく</span><span type="rp">）</span></span>の根本の力が足りないということだ。僕の理想論は、この支える力がより強くなることだ。より強い蕚にはより重い果実がよりよく熟しつづけるものである。<lb />
+<lb />
+　落としてしまうことは、この誠実さに謀叛する行為である。<lb />
+「自然なこと」「必然性」<lb />
+　今一度、これを許容することを<span type="ruby"><span type="rb">肯</span><span type="rp">（</span><span type="rt">がえ</span><span type="rp">）</span></span>んじまい、と思うのが僕の一歩を運ぶたびごとの節操であった。<lb />
+　しかも、われわれの<span type="ruby"><span type="rb">羸弱</span><span type="rp">（</span><span type="rt">るいじゃく</span><span type="rp">）</span></span>な脳髄は、獲得したものを残らず貯えて置くわけではない。落ちなかった果実は、いつか死滅し消失するであろう。人生とはかくのごときものである。<lb />
+　ならなかった記念碑を惜しむまい。「新しさ」は、常に未来に向かって立つ現在の自己の姿の中に住んでいる。<lb />
+<lb />
+　自意識の極限について考えて見ること。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">71</span></span>
+「数学ほど、私に明晢に<span rend="notes">［＃「明晢に」はママ］</span>見えるものはない」<lb />
+　このような言葉の前に僕は意地悪かった。<lb />
+　より明晢な<span rend="notes">［＃「明晢な」はママ］</span>こととは、より冷たい眼を持つことであると僕は考えた。この「冷たい眼」を僕は自意識と名づけた。<lb />
+　いっさいの「許容」「妥協」「弱気」これを僕は「曖昧さ」と名づけた。<lb />
+　そこで僕は「形式」を持たねばならぬ、ということ、「生きるとはなんらかの意匠を与えられることだ」という問題の前に腕組みした。そこでこの「許容」に身をもってぶつかることだった。<lb />
+　僕の純粋さが、懐疑の最も冷たい眼、すなわち、「死の眼」を持つことを要求したのだ。<lb />
+<lb />
+　認識するとは、われわれが生まれ落ちる時に与えられるもの、すなわち、豊かな生命の衣を少しずつでも<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>いでゆくことではないのか。自ら血を流す、とはこのことなのだ。<lb />
+<lb />
+　血は絶え間なく流れて、刻々に僕の身体は冷えて行った。<lb />
+　精神のより深奥を目指して進むものは、より「生きること」から遠ざかるのである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">72</span></span>
+　西洋人と自然について。<lb />
+　気の毒なルッソオの表情を研究してみよう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">73</span></span>
+「昔ながらの城壁の中に眠る東洋。<lb />
+　その生命の曠野は広く豊かであった。<lb />
+<lb />
+　目覚めている西洋は、常に城壁を嫌悪して、これを少しずつ破壊して行かねばならなかった。東洋を嫉んでこれを起こそうと努めながら」<lb />
+<lb />
+　僕の中の歴史家はこう語る。<lb />
+　ところで歴史家は歴史家だけに止まるものだ。<lb />
+　歴史家が人間の行為のすべてを決定することは、断じてない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">74</span></span>
+　可能性を掘り出すこと、それは賭博をすることだ。<lb />
+　言語とは思想家のためのルーレットである、と僕は前に書いたと思う。ところで金を目当ての仕事が、僕は汚らわしかった。<lb />
+　思想家の情熱は、「救済」という贋金貸に対して集中する。<lb />
+　金が智慧を生む、とはよく言った。<lb />
+　賭博場を飛び出した僕はやがて餓えに<span type="ruby"><span type="rb">斃</span><span type="rp">（</span><span type="rt">たお</span><span type="rp">）</span></span>れるだろう。もう一度あの門を<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">くぐ</span><span type="rp">）</span></span>ろうか。それとも、まじめな仕事がどこかにあるとでもいうのか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">75</span></span>
+　士・農・工・商。<lb />
+　沈黙を尊重する僕は、旧世紀のこの国に住んでいた武士の一人の亡霊なのかもしれぬ。<lb />
+　表現は、商売であり、取り引きである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">76</span></span>
+　武士は食わねど<span type="ruby"><span type="rb">高楊子</span><span type="rp">（</span><span type="rt">たかようじ</span><span type="rp">）</span></span>。<lb />
+　全く僕は、この諺が好きだった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">77</span></span>
+　僕は、何の躊躇もなく清岡さんに尊敬を捧げて交われた日々を懐しいと思う。沈黙した清岡さんに対して僕は信頼していたのだ。彼が何を言おうと、僕はけっして怒らなかった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">78</span></span>
+「勇気」はしばしば「傲慢」「無知」「粗暴」と結びつく。<lb />
+<lb />
+　ゲルマン民族は、常識的な事を、非常識な熱情をもって礼拝する。<lb />
+<lb />
+　僕が読んだドイツの哲学者たち、カント、フィヒテ、ヘーゲル、ショーペンハウエル、あるいはシュペングラーが話しをする時の顔つきは、俗悪なほど深刻である。<lb />
+<lb />
+「ねばならぬ」と言い切ることは確かに男らしいことである。しかし、たいていの場合、それは脳髄の粗漏と、田舎君子の本能的な<span type="ruby"><span type="rb">狡</span><span type="rp">（</span><span type="rt">ずる</span><span type="rp">）</span></span>さを証明するに役立つだけだ。<lb />
+　さて、気の利いた悪口は、僕の中に政治家にまかせておくこと。<lb />
+　僕は、ドイツ人の太い地声に、「明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" />ならざる」ものを嗅いだのである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">79</span></span>
+　僕には不断に「ねばならぬ」が存在した。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">80</span></span>
+　D<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />licatesse. 僕は<span rend="sesame_dot" rendition="em">繊細さを鍛えあげる</span>、というドイツ人には恐らくわけのわからない仕事を試みた。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">81</span></span>
+　Montaigne, Pascal, La Rochefoucauld, La Bruy<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />re…………<lb />
+　僕の通った道の角々には、いつも、これらフランスのモラリストたちの銅像が<span type="ruby"><span type="rb">佇</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>んでいたようだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">82</span></span>
+　ニーチェ。フランスに留学したドイツ人。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">83</span></span>
+　思想とは要するに趣味の問題である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">84</span></span>
+　価値は表現の中に住む。そして、精神は表現の中に<span rend="sesame_dot" rendition="em">住もうとする</span>。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">85</span></span>
+　われわれが「価値」に<span type="ruby"><span type="rb">媚</span><span type="rp">（</span><span type="rt">こび</span><span type="rp">）</span></span>を送る間は、われわれは「表現」に<span type="ruby"><span type="rb">跪拝</span><span type="rp">（</span><span type="rt">きはい</span><span type="rp">）</span></span>しなければならぬだろう。<lb />
+「表現」は永遠に不実な、気まぐれな、精神の恋人である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">86</span></span>
+「価値は時と共に転換する」<lb />
+　すでにこの箴言の存する現代にあって、人は、自己の中に政治家を所有しなければ、思想界の門を潜ることはできないであろう。何故なら価値の標準を決するのは政治家の爼上においてなのだから。<lb />
+　思想の価値は、表現方法を舞台とする巧妙なかけ引きと、<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>し合いと、を経た後に、一つの契約として登場する。<lb />
+　今日、思索を政治だと考えられぬ者は愚の骨頂である。そしてまた、政治家であることに誇りを感ずる思想家も<span type="ruby"><span type="rb">阿呆</span><span type="rp">（</span><span type="rt">あほう</span><span type="rp">）</span></span>である。<lb />
+　僕は政治家ではない。僕は価値そのものを抹殺する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">87</span></span>
+「謙虚な政治家になれ、なんてばかげた注文さ。政治の元来の本質が、貪慾な傲慢なものなのだ。より強力な政治とは、より、この本質の羽を伸ばさせてやることだ」<lb />
+　こう、悪魔は思想家たちを、けしかける。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">88</span></span>
+　思想の鍵を握る者は、言語学者である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">89</span></span>
+「理知の人は行動しない」<lb />
+<lb />
+　ドストエフスキーの描いた、ニコライ・スタヴローギンや、イワン・カラマーゾフの面影を想起すること。<lb />
+「理知の人」は、恐らく現代人にとって、最も魅力ある偶像である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">90</span></span>
+　自己を「理知の人」<span rend="sesame_dot" rendition="em">らしく</span>見せたいと思う虚栄と、そう思いこみたがる厚顔無知とがある種の現代人の頭脳を支配する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">91</span></span>
+「いかなる行動からもその人を判断することはできない」<lb />
+　この原理に現代の人々は飛びつくのだ。もともとかかる言葉は、自意識のもたらす可能性の問題に関して、自己に忠実なもののみの知っているものである。<lb />
+<lb />
+　しかるに「無知」にして、冷静ならざるところの現代人は、自己の行動に関しては、「他人は俺の行動から俺を判断してはならない」という防禦の<span type="ruby"><span type="rb">楯</span><span type="rp">（</span><span type="rt">たて</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">翳</span><span type="rp">（</span><span type="rt">かざ</span><span type="rp">）</span></span>し立て、これを自分自身のためにも利用する。すなわち自己を見つめる厳粛な「自我」の眼の光が、この楯によって覆いかくされ、自意識の弛緩した、許容と、安慰と、生温かさの上に彼らは安住する。すなわち彼らは「無知の人」なのである。<lb />
+<lb />
+　こうした現代人の多くが、他人の行動には毛を吹いて傷口を求めるがごとしといおうか。<span type="ruby"><span type="rb">些細</span><span type="rp">（</span><span type="rt">ささい</span><span type="rp">）</span></span>な行動から、他人を軽蔑することに安慰を感ずる。すなわち彼らは「無知の人」なのである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">92</span></span>
+「理知の人」とは生活の匂いうすき、「影の人」である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">93</span></span>
+　ドストエフスキーにおいて僕の見る、「理知の人」の幻の特徴――<span type="ruby"><span type="rb">倦怠</span><span type="rp">（</span><span type="rt">アニュイ</span><span type="rp">）</span></span>の空気にはまりこんで、絶えず不安の暗い影がその身辺をかすめながらも、そこから抜け出すことのできぬ、「冷たい懐疑」と「<span type="ruby"><span type="rb">貪婪</span><span type="rp">（</span><span type="rt">どんらん</span><span type="rp">）</span></span>たる<span type="ruby"><span type="rb">狡智</span><span type="rp">（</span><span type="rt">こうち</span><span type="rp">）</span></span>」と、「烈しい憎悪」との瞳を持った人物。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">94</span></span>
+「表現は信用できぬ」「人間の表現にあっては、いかなる<span rend="sesame_dot" rendition="em">確証</span>も存在しない」<lb />
+　われわれがその中に生活している、こうした環境の貧しさを逆用する図太い人間は、政治家になる。それゆえにわれわれは日常、いたる所で「政治家」に出会わすと言えよう。<lb />
+　この政治家が、これを強味だと思いこむ時に、彼もまた、精神世界における賤民の群れに堕するのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">95</span></span>
+　政治家的生活に酔うものは所詮政治家だけに止まる。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">96</span></span>
+　僕は政治を職業であり、趣味であると見なす。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">97</span></span>
+　<span rend="sesame_dot" rendition="em">沈黙した精神</span>を、あらゆる<span type="ruby"><span type="rb">汚穢</span><span type="rp">（</span><span type="rt">おわい</span><span type="rp">）</span></span>と非礼と、無節度との<span type="ruby"><span type="rb">混沌</span><span type="rp">（</span><span type="rt">こんとん</span><span type="rp">）</span></span>の中から洗い上げて立ち上がらせること。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">98</span></span>
+　冷静。<lb />
+「生活するとは、それが全く機械人形と同じ操作でない限り、多かれ少なかれ、精神の誠実さに反逆することであり、われわれの冷静さを幾らかずつ奪うものである」<lb />
+　こう記した上で、僕はできる限り冷静になろうと願う。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">99</span></span>
+　懐疑と明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" />とは手を携えて進む。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">100</span></span>
+「汚穢に満ちていること、これが人間性なのだ」とニーチェは説く。<lb />
+　そして、「現実の汚濁を恐れずに抱擁したまえ。われわれの<span type="ruby"><span type="rb">豊穣</span><span type="rp">（</span><span type="rt">ほうじょう</span><span type="rp">）</span></span>な大地の上に起ち上がりたまえ」と。<lb />
+　けれども、彼を起ち上がらせるものは何物だろう。彼を動かすものは何物だろう。もし、彼を引きとめるものがあれば、彼はこれを拒否するに違いない。僕にとってはこれが「汚穢」と呼ぶものなのだ。<lb />
+「起ち上がること」――この行為をさせるのは、彼自身の内奥にあるものであり、「人間性」という普通的な名詞で片づけるわけには行くまい。われわれは一人として同じ顔を持たぬ。われわれの独創性は、「立ち上がる」時の個々の姿に存するのである。<lb />
+　いったい、「必然性」という名詞を発明した人間は、「万象は例外なく必然である」と始めから確信していたはずだ。<lb />
+　僕には、必然性を拒否するという必然性が存する。<lb />
+　どこを向いても許容と、妥協とばかりではないか。ニーチェの最も偉そうなところが、僕から見れば、最も狭い、卑怯なところだ。<lb />
+　汚れたものを、僕はあくまで排斥する。<lb />
+　ニーチェよ。もし、君が徹底した宿命論者なら、宿命に反逆するという宿命も存在しうることを否定しまい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">101</span></span>
+　肯定が負担にならないように要心したまえ。<lb />
+　ニーチェは重荷を担いで、苦しまぎれに威張り散らす。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">102</span></span>
+「汚濁の過去。屈辱の過去。これを肯定して、その上によりよき生を築く」と。いかにも男らしい口振りである。<lb />
+　しかし、ここには一つの嘘偽がある。<lb />
+　ニーチェの眼に、全き肯定者の姿が見られたか。彼の心は、絶えず不安と後悔につきまとわれていはしなかったか。この不安には男らしくないものがある。つまり真に肯定しているわけではないのだ。<lb />
+　さらにまた、ここにある一種の安定感。――「ここまで来たのだ」という無用の自慰の<span type="ruby"><span type="rb">弛</span><span type="rp">（</span><span type="rt">ゆる</span><span type="rp">）</span></span>みがある。<lb />
+　彼は土台を必要としたのである。その弱気のゆえに。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">103</span></span>
+「予定」はまた、一つの安心感を必ず含む。それは過去を振り返るときの怯懦の影の延長にすぎない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">104</span></span>
+　僕はつねに、現在、立っている場所から始める。そして次の一歩に誠実さを籠めることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">105</span></span>
+　予定を拒絶すること。安定地帯を探るのは、精神の世界の厳しい空気から、幾らかでも逃れようとする衝動のあらわれである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">106</span></span>
+「たえざる、ねばならぬ」とは、「絶えず『許容』と『妥協』を排して進むこと」であり「より明晢に<span rend="notes">［＃「明晢に」はママ］</span>なること」だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">107</span></span>
+　歴史家は常に、行動する者の背後にしかおれない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">108</span></span>
+　論理はいつでも、われわれが立ち上がる処に現われる。<lb />
+　だから、論理を崩壊させるには、これに挑戦しさえすればよい。つまり、一歩動くだけでたくさんだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">109</span></span>
+　予定を捨てるには大きな勇気を必要とする。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">110</span></span>
+　むかし、ギリシャ諸地に林立して、束の間の栄華を誇った、あのタイラントたち。<lb />
+<lb />
+　今、西欧精神の辿り来った幾多文化の変転流相の歴史を望む時、僕は、その流れの最も遠い泉――伝説と神話との、ほの暗い叢林と<span type="ruby"><span type="rb">嫩葉</span><span type="rp">（</span><span type="rt">どんよう</span><span type="rp">）</span></span>とに覆われた、清流に源を発して、はるか今日にまで余韻を伝えている、こうした暴君たちの、無垢にして兇暴な行動への意欲の幾滴かをそこに認めるような気がする。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">111</span></span>
+　過去を知っていると信ずるのは愚の骨頂だ。<lb />
+　われわれが過去を<span type="ruby"><span type="rb">捏造</span><span type="rp">（</span><span type="rt">ねつぞう</span><span type="rp">）</span></span>するのだ。<lb />
+　過去に向かって立つ時、われわれの眼前にあるのは、無数のまことしやかな、虚妄の道路である。<lb />
+<lb />
+　過去について、われわれは頭の中で小説を書く。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">112</span></span>
+「時の流れにおいて変わらないもの、それは『形式』だ」と人は説く。<lb />
+　変わらないものは何もない。数学は決して時間と握手せぬ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">113</span></span>
+　レアリスムとは、過去を<span type="ruby"><span type="rb">反芻</span><span type="rp">（</span><span type="rt">はんすう</span><span type="rp">）</span></span>して、これを真実だと吐き出して見せるところの、あつかましい田舎牛の<span type="ruby"><span type="rb">謂</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>いである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">114</span></span>
+　ニーチェよ。「…………しようではないか」というあの懐しい<span type="ruby"><span type="rb">誘</span><span type="rp">（</span><span type="rt">いざ</span><span type="rp">）</span></span>ないの声の響きは、われわれの世紀にはもう失われてしまったのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">115</span></span>
+　机に向かって休みなく代数の計算をつづけている中学生。<lb />
+<lb />
+　僕の代数の公理は「純潔」の一語であった。そして、この公理に違うものはすべて誤謬にすぎなかった。<lb />
+<lb />
+「解答を得よう」というあの願いが、やはり、僕のペンの尖を鞭打っていたのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">116</span></span>
+「……すでに禁断の果実を食べた人間に、かかる悩みのあるのはやむをえまい」<lb />
+　僕はこうした弁解が不潔で堪らなかった。<lb />
+　それほど悩ましいなら、やめたらいいじゃないか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">117</span></span>
+「精神は嘘偽によって、ますますその光輝を増す」<lb />
+　と僕の悪魔が、お世辞たっぷりの陥穽を張る。<lb />
+　だからと言って、僕の精神は嘘偽にお辞儀はしないよ。<lb />
+　簡明に言おう。<lb />
+　精神は嘘偽を支配するのだ。それが嘘偽を蹂躙するのは、<span rend="sesame_dot" rendition="em">沈黙の夜</span>が訪れる時だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">118</span></span>
+　精神は真実と嘘偽との支配者である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">119</span></span>
+　卒倒術――自意識はその極限において自失する。どこででも、意のままに、しかも<span rend="sesame_dot" rendition="em">ほんとうに</span>卒倒できる人間はいないか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">120</span></span>
+　僕は脳髄に血を集め過ぎた結果、ついに頭蓋骨が爆発して血は消散した。<lb />
+　橋本の家で貧血を起こして卒倒した時、僕の<span type="ruby"><span type="rb">天邪鬼</span><span type="rp">（</span><span type="rt">あまのじゃく</span><span type="rp">）</span></span>は勝利の日が来たと叫んだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">121</span></span>
+　認識とは、脳髄から血液を<span type="ruby"><span type="rb">搾</span><span type="rp">（</span><span type="rt">しぼ</span><span type="rp">）</span></span>り出す仕事である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">122</span></span>
+　わが隠し芸。<lb />
+　僕は逆立ちして、人生をひっくり返し、<span type="ruby"><span type="rb">翻筋斗</span><span type="rp">（</span><span type="rt">もんどり</span><span type="rp">）</span></span>して、人生をびっくりさせ、卒倒して、人生を気絶させた。今度は、首を吊って人生の息の根を止めてやることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">123</span></span>
+　表現への拷問道具。――逆説・ナンセンス・無視・抹殺。どれもりっぱなものだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">124</span></span>
+　天邪鬼は、<span rend="sesame_dot" rendition="em">どん底</span>において<span type="ruby"><span type="rb">快哉</span><span type="rp">（</span><span type="rt">かいさい</span><span type="rp">）</span></span>を叫ぶ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">125</span></span>
+　純潔。――この最も兇暴な自我主義。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">九・二五</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">126</span></span>
+　突発的に起こる近ごろの記憶喪失。ベルグソンの示したように、第一が固有名詞。<lb />
+　さっき、小さな玲子よ。僕はお前の名前を想い出せなかった。<lb />
+　その後で、僕は何か身のまわりに足りない物があるような気がして、押えきれない焦燥に駈られた。机の上に古い向陵時報があり、その上にふと、僕は「清岡卓行」という名前を見つけた。そこでわかったのだ。<lb />
+　――パイプだ！<lb />
+　と僕は気がついた。あのマドロス・パイプは橋本にやってしまっていたのだ。<lb />
+　僕は悲しくなりながら、清岡卓行とマドロス・パイプとをこういう推理で結びつけてみた。あたかもポーのデュパンがしたように。――僕のマドロス・パイプはブライヤァだ。ところでブライヤァとは薔薇の根であり、薔薇の根で作ったパイプは上等だと、始めて教えてくれたのは清岡さんだったわけだ、と。<lb />
+　Nonsens !<lb />
+　パイプ。いかにも清岡さんの風貌に似合ったものであった。<lb />
+<lb />
+　ボオドレェルは失語症に<span type="ruby"><span type="rb">罹</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>って死んだ。僕の記憶はまだ確かだ。<lb />
+　――ボオドレェルが一生に儲けた金は、一万五千八百九十二法と六十サンチームだった。<lb />
+　この六十サンチームは、安葉巻二本に変わる、と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">127</span></span>
+　この不安が始めて起こったのは二週間前に独りで赤城に登った折りのこと。<lb />
+　大熊さんの所で、僕はレコードを聴いていた。窓の外では霧雨が林の上に<span type="ruby"><span type="rb">霏々</span><span type="rp">（</span><span type="rt">ひひ</span><span type="rp">）</span></span>として降りつづいていた。<lb />
+　ショパンと、リストと、モーツァルトと、ドビュッシイと。最後にバッハのフーガとアリアとを聴いて小屋に帰ったのだ。ベッドに座ってから僕はふと思いあぐんだ。<lb />
+　今のフーガはピアノだったかしら、と。この耳で聴いたのだし、始めからピアノ・ソロばかりを選んだのだから、そうに決まっていたのだ。それなのに、どう考えてもますますわからなくなった。夜、僕は再度訪ねて確かめねばならなかった。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+Plaisante raison q<span facs="../../../gaiji/1-09/1-09-79.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きU小文字)" />un vent manie,<lb />
+　　　　et <span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" /> tous sens !　　　――Pascal――<lb />
+</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">128</span></span>
+「回想への冷淡、潔い別離。――なかなか勇ましいことだよ。そこで記憶喪失となって大団円か。全く最初からの注文どおりさ」<lb />
+　悪魔が夢の中でこう<span type="ruby"><span type="rb">嗤</span><span type="rp">（</span><span type="rt">わら</span><span type="rp">）</span></span>った。<lb />
+「過去を救おうとしなかった者への天罰です」<lb />
+　いつも味方してくれる天使でさえこう言った。<lb />
+「迫害妄想狂の畸形児め。天邪鬼に恰好の断末魔だ」<lb />
+　民衆がこう<span type="ruby"><span type="rb">嘲</span><span type="rp">（</span><span type="rt">あざけ</span><span type="rp">）</span></span>った。<lb />
+<lb />
+　いつのまにか、ピアノの音がやんでいた。そして皆が声をそろえて歌った。「報いが来たのだ、この変わり者！」その合唱はしだいに大きく伝わって行った。「報いが来たのだ、この変わり者！」僕はその中に、若々しい乙女たちの声を聞きとめた。<lb />
+　さっきまで、無心にピアノを<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いていた少女の群れまでが加わって来たのだった。<lb />
+　僕ははっきりと耳にした。<lb />
+「報いが来たのだ、この変わり者！」<lb />
+　僕はこの文句を<span type="ruby"><span type="rb">嚥</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>みこんだ。僕の胸は<span type="ruby"><span type="rb">抉</span><span type="rp">（</span><span type="rt">えぐ</span><span type="rp">）</span></span>られた。<lb />
+　けれども、もう一度、あの少女たちの朗らかな、高い声をききとった時に、僕は微笑して<span type="ruby"><span type="rb">斃</span><span type="rp">（</span><span type="rt">たお</span><span type="rp">）</span></span>れたのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">129</span></span>
+　必要もないことではあったが、その場の憤りから、自分の過去の作品を破り棄てた後、あるいはまた、表現への不信から、意識して制作への心の動きを断ち切った時。僕の虚栄心の奥底で、悲しそうにつぶやいていた慰めの歌はいつもこうであった。<lb />
+　――一人のモーツァルトのかげに、百人のモーツァルトの死んでいることを忘れるな。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">130</span></span>
+　すべての物が時と共に<span type="ruby"><span type="rb">凋落</span><span type="rp">（</span><span type="rt">ちょうらく</span><span type="rp">）</span></span>する。けれどもわれわれの内奥には、時と共に磨かれ、輝きを増す金剛石が隠されてはいないのか。もし、あるとすれば、それは沈黙したものであり、人に知られぬものである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">131</span></span>
+　人々が自己の通って来た道を顧みる眼は全く錯覚に満ちている。それはもはや死滅しているのだ。彼らが今なお生きていると信ずる過去は、色<span type="ruby"><span type="rb">褪</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>せた記念碑の残骸にすぎない。確かにわれわれは過去を通って現在に来た。「それゆえに」と言うことはできない。頭の古い思想家たちはきっと「それゆえに」を持ち出すのだ。<lb />
+　僕は記念碑に向かって、次々におさらばした。「足もとの土台がぐらついているぞ」と<span type="ruby"><span type="rb">嫉妬</span><span type="rp">（</span><span type="rt">しっと</span><span type="rp">）</span></span>屋のレアリストたちが中傷する。けっこうだ。その代わりに重荷もないよ。<lb />
+<lb />
+　いったい土台の上に立ってると思うのが、虚妄なのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">132</span></span>
+　われわれは歴史によって動かされるのではない。われわれが歴史を作るのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">133</span></span>
+　立ち止まることは、すでに身のまわりに、憩いと慰安との影を落とすことだった。僕の潔癖さがそれを嫌悪した。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">134</span></span>
+　感傷・傲慢・虚栄。――これらは皆、「怯懦」と「曖昧」の同義語である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">135</span></span>
+「偉大さ」には、たいてい、不純物の匂いがする。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">136</span></span>
+　<span rend="sesame_dot" rendition="em">大作家</span>たちに<span rend="sesame_dot" rendition="em">大作品</span>の制作の秘訣を尋ねてみたまえ。<lb />
+　嘘つきがこういう。「すなおに、謙虚にぶつかることです」<lb />
+　賢明な者は黙っている。<lb />
+　感傷家が次のように語るだろう。<lb />
+「やっぱりある程度、生意気だったんでしょうね」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">137</span></span>
+　自分の持ち場を離れなかったために、落ちてきた煉瓦の一片で命を失った大工。<lb />
+　僕の自殺もこんなことになるのだろうか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">138</span></span>
+　中野がこう僕に語った。<lb />
+「君みたいに、<span type="ruby"><span type="rb">窄</span><span type="rp">（</span><span type="rt">せま</span><span type="rp">）</span></span>い道、窄い道と辿ってゆく人を、僕は今までに見なかったし、今後も再び見ないだろう」<lb />
+<lb />
+　ただそれだけのすなおな批評であったか、あるいは中野の胸にいつも潜んでいる歴史学者、類型学者としての眼が、こう僕にレッテルを貼ってくれたか、それは知らない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">139</span></span>
+　表現の偽瞞と、誠実さとの問題に関して、確かな認識を持ち、自己の思想を提出する方法について許容のない判断の眼をもつこと。<lb />
+　このことが僕をして何も言えなくすると共に、何でも言えるようにした。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">140</span></span>
+　僕が許容を憎むのは、許容は許容を生むからである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">141</span></span>
+「――人間は社交の動物である。<span rend="sesame_dot" rendition="em">それゆえに</span>社交術の完全な習得こそ、完全な人間となるゆえんである。<lb />
+　――過去がわれわれの今日をあらしめた。<span rend="sesame_dot" rendition="em">それゆえに</span>過去の完全な認識によってわれわれは現在を完全に知ることができる。<lb />
+　――精神は嘘偽によって磨かれる。<span rend="sesame_dot" rendition="em">それゆえに</span>嘘偽を完全に身につければ、精神は完全な光輝を発する」<lb />
+　悪魔の語法はいつでも同じだ。<lb />
+「<span rend="sesame_dot" rendition="em">それゆえに</span>」はまっぴらだ。それは次の「それゆえに」を生むだろう。僕にはもう接続詞の用はない。僕の文章はばらばらの断片だ。<lb />
+　正確な連鎖はけっしてありえない。<lb />
+　僕が詩人だった時は、いかに離れ合ったイマァジュといえども、見事につなぎ合わせてみせたものだ。<lb />
+　――人間・過去・精神。所詮は定義上の問題に落ちつくのだろうが、僕はいかなる定義をも抹殺する。<lb />
+　――偶像の頭には「完全」という奇怪な護符が貼りつけてある。<lb />
+　――必然性は時間の中よりもむしろ空間にある。怠惰な悪魔は必然性の網を展りひろげて、われわれの動きを止めようとする。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">142</span></span>
+　通用させるためには、また、より正確であるためにはわれわれは責任回避のための狡智の眼を加えて、精神の忠実な狩猟の獲物でさえ、「試み」として「一実験」として片づけてしまわねばならぬということ。そしてある場合には己のまじめな思想でさえ、一つの歴史的発展の帰結として、環境の相対性の一分子として、巧みなテクニックの操作の下に、これらの衣裳を着せて描いて見せねば提出できない、ということ。<lb />
+　これを切実に知っており、しかもここに溺れてしまわぬ自己を育んで行こうとする人間。<lb />
+　僕が、今までに逢った人々の中で、こうした印象を汲みとりえたのは、中野ただ一人だった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">143</span></span>
+　広い道をとらねば生きて行けるわけがない。<lb />
+　けれども誠実さは何といっても狭い道を行く。<lb />
+<lb />
+　精神の自由者とは、いつの日も、深淵に向かって張り出された、ただ一本の細糸の上を辿って行くものではないのか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">144</span></span>
+「僕にとって、自殺は一つの新しい飛躍である」<lb />
+　こう負け惜しみを言ったら、僕の天使が慰めて曰く、<lb />
+「死によって、あなたの姿が消え失せても、<span type="ruby"><span type="rb">羽搏</span><span type="rp">（</span><span type="rt">はばた</span><span type="rp">）</span></span>きだけは風の中に残らないとだれが断言できるでしょう」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">145</span></span>
+　僕は、先輩が嫌いだった。<lb />
+　背後をふり返る者の眼には、もっと気弱い、臆病な影がある。しかも、先輩というやつは、傲慢なもったいぶった顔をして過去を語り、後輩の現在を、彼らの過去と混同する。元来「過去」はわれわれが考えるほど、頼りになるものでも、何でもない。時の流れにおいては、すべてが絶えず変化し転落してゆくものである。先輩は「過去」という亡霊が今なお生きていると錯覚して、後輩を失敬にもこの<span type="ruby"><span type="rb">乾枯</span><span type="rp">（</span><span type="rt">ひから</span><span type="rp">）</span></span>びた枠の中に入れて眺め、さて、自信がないものだから、おしまいには決まってお世辞を言う。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">146</span></span>
+　不断に「新しい師」と「よりよい自分」の幻を追って、未知の世界への前進をつづける少年の憧憬と夢とにあふれた<span type="ruby"><span type="rb">眼差</span><span type="rp">（</span><span type="rt">まなざ</span><span type="rp">）</span></span>し。それは何という不遜さと共に、何という謙譲さを湛えていることだろう。<lb />
+　彼の足取りはたどたどしく、時折り思いがけない方向に踏みこむけれど、困惑したり、立ち止まってしまいなどしない。溌剌とした、弾力ある魂は、すぐ、次に下すべき、他方の足の位置を考えている。<lb />
+　彼の一歩一歩が、「探り当てた」者の誇りに満ちている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">147</span></span>
+　ヴァレリイは「ユゥパリノス」でソクラテスをして喋らせる。<lb />
+「明識ある行為は自然の経路を短縮する。そこでわれわれは確信をもってこういうことができる、すなわち、一人の芸術家は一万年、あるいは一億年、あるいはそれ以上の歳月に匹敵する」<lb />
+　ここに僕が汲みとるのは、「芸術家」とは（……………に匹敵する）<span rend="sesame_dot" rendition="em">者にすぎない</span>」という響きである。<lb />
+　これに答えるプルウストの<span type="ruby"><span type="rb">慷慨</span><span type="rp">（</span><span type="rt">こうがい</span><span type="rp">）</span></span>を帯びた声の調子には、創作に生きる者の真情がいかに秘められているだろうか。<lb />
+　しかし、芸術家が芸術を擁護しようとすることは所詮、感傷にすぎまい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">148</span></span>
+　われわれの独創性は、<span rend="sesame_dot" rendition="em">意識する自己の姿</span>の中にある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">149</span></span>
+　僕のまじめさはついに自分一人になることであった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">150</span></span>
+　時間について。<lb />
+　僕はけっして時計を持たなかった。<lb />
+　大事そうに金時計をぶら下げた<span type="ruby"><span type="rb">似而非</span><span type="rp">（</span><span type="rt">えせ</span><span type="rp">）</span></span>詩人どもに、僕の旅行のすばらしい味はわかるまい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">151</span></span>
+　僕は時計によって動くのではない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">152</span></span>
+　表現と自己との分離。<lb />
+　表現は生まれ落ちたとたんに自己から離れて、独立する。<lb />
+　すなわち自己は常に自己だけの孤独な時間の流れを通る。<lb />
+　もはや生み落とされた「表現」は一つの過去の記念碑にすぎない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">153</span></span>
+　僕は自分のにせよ、他人のにせよ記念碑に礼拝するのがいやだった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">154</span></span>
+　何も言うことはない。既成作品については、学ぶものを学べばよろしい。<lb />
+<lb />
+　あれほど厳しいヴァレリイの視線の中にある何というやさしさと思いやり。<lb />
+「レオナルド・ダ・ヴィンチの残した数々の作品。――絵画に、建築に、科学に残した業蹟は、彼が<span type="ruby"><span type="rb">孜々</span><span type="rp">（</span><span type="rt">しし</span><span type="rp">）</span></span>として励んだ、<span rend="sesame_dot" rendition="em">ある</span>偉大なる精神の仕事の途上に撒かれた、その一部の細片にすぎない」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">155</span></span>
+　僕にも、最初に進軍ラッパがなかったわけではない。<lb />
+　――人生においてたいせつなのは、人生であって、その結果ではない。<lb />
+<span rend="chitsuki_8" rendition="div" style="text-align:right; margin-right: 8em">――ゲーテ――</span>
+　――克己復礼。<lb />
+<span rend="chitsuki_8" rendition="div" style="text-align:right; margin-right: 8em">――論語――</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">156</span></span>
+　道標がなければ人々は動けない。それは彼らに安心を与えると共に彼らを束縛する。われわれはどんな道標をも無視することができる。――純潔の名において。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">157</span></span>
+　道徳について。<lb />
+　現代人は、自分で自分の墓穴を掘る。「権利」を主張したあげくに、また一つ<span type="ruby"><span type="rb">鉄枷</span><span type="rp">（</span><span type="rt">てつかせ</span><span type="rp">）</span></span>をつけられるしまつだ。<lb />
+「……すべからず」という禁令はもう葬られたそうだが、彼らは、代わりにこんな立て札を見つける。「何を<span type="ruby"><span type="rb">為</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>すとも可なり」<lb />
+　いずれにしても、結局は首が廻らなくなる。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">158</span></span>
+「行動することは、ばかであることの証明である」<span type="ruby"><span type="rb">賢</span><span type="rp">（</span><span type="rt">さか</span><span type="rp">）</span></span>しげな現代人が自分を許すために用いる、この言葉を、僕は自分を許さないための金言としてもっている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">159</span></span>
+　僕ほど、嘘をつくことの巧みな人間はあるまい。<lb />
+　そして僕ほど、嘘つきの嫌いな人間もないだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">160</span></span>
+　自分の嘘を真実だと思いこむ人間と、自分の真実を嘘だと思いこむ人間とがある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">161</span></span>
+　破壊者の手は「権利」によって汚されている。悪魔は嫉妬屋たちに「権利」の槌を与え、彼らはこれを「正義」と称するのである。<lb />
+　無垢の小鳥は、絶えず、この暴虐な猟人の銃口の前で怖れおののいている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">162</span></span>
+　沈黙の楽園はもう失われたのか。<lb />
+　小鳥は武装しなければならぬ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">163</span></span>
+　無垢。――この壊れやすい僕の唯一の金剛石。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">164</span></span>
+　僕は<span type="ruby"><span type="rb">穢</span><span type="rp">（</span><span type="rt">けが</span><span type="rp">）</span></span>らわしいと思ったものを一枚一枚脱いで行った。<lb />
+「安慰」、「満足」、「傲慢」。なべてこれらのものは、僕が立ちつくすたびごとに、僕の身辺に寄り添おうとしてくるのであった。<lb />
+　何が汚穢を感じさせたか。「僕の皮膚の敏感さが感じるのだ」と僕は答える。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">165</span></span>
+　感覚を砥ぎすますこと。――これが第一だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">166</span></span>
+　ところが、今日、僕はふと「寒い」と思ったのだ。<lb />
+「着物を見つけなければならぬ」<lb />
+　これは、悪魔と、天使が口をそろえてすすめてくれたことではあったが。<lb />
+<lb />
+　僕は恐らく、夢を見て来たのに違いない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">167</span></span>
+　自意識は蝸牛の角のようなものだ。それはちょっとした刺戟によっても眼をさまし、己の殻の内側に身をすくめる。<lb />
+　この活動の中に認識がある。<lb />
+　認識の曖昧さ、不明さは、触覚の鈍さを証するものである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">168</span></span>
+　ニーチェの内にある、救済の観念。キリスト教も、ニーチェも、所詮弱気のあらわれにすぎぬ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">169</span></span>
+　多くの認識者たちは安全地帯を通りながら、人間性を讃美する。彼らは皆、「生存するためには」「生存することを条件として」という巧みな前提、予定を見越した上で行動する。予定は最後まで曖昧なものと見なすこと。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">170</span></span>
+　救済の観念をどこかに含まないような思想は、ない。<lb />
+　ところが、僕には「救済」ほど、思想を曖昧にするものはないのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">171</span></span>
+　救済を必要とせぬ、あの健康な<span rend="sesame_dot" rendition="em">生きている</span>人々を祝福しよう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">172</span></span>
+　生前、自ら「聖者」と称した聖者。――エピクロス。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">173</span></span>
+　エピクロスは自殺したのかもしれない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">174</span></span>
+　伝統への回顧。<lb />
+「子曰。参乎。我道一以貫之。曾子曰。唯。子出。」<lb />
+　僕は学校の教場で居睡りしながら、よく、この論語の一節を懐しく思ったものだ。三尺離れて師の影を踏まず、といったあの東洋の美風はどこに行ったのだろう。<lb />
+　言語学上から見て、現代の社会に、「師弟」という二字が残っているのはきわめて不当なことだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">175</span></span>
+　生まれつき、<span rend="sesame_dot" rendition="em">弟子</span>らしい顔をした人がいる。<lb />
+　僕はこうした人が好きだ。それはか弱い印象を与えるけれども清純さに溢れている。<lb />
+　そして、弟子は師よりも元来自由なものだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">176</span></span>
+　僕は偉大さを警戒した。<lb />
+　<span rend="sesame_dot" rendition="em">超人</span>は不潔な偶像である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">177</span></span>
+　一素人音楽愛好家の告白。<lb />
+　――九つの交響楽は確かに偉大ですし、私を圧倒します。しかし、何だか頭の中が濁って、疲れちまって………………いや何、これは私が始めて聴いた時の印象でしてね、考えて見ればそのころは皆目音楽なんてわからなかったんですよ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">178</span></span>
+　偉大さは通常独創性を濁らせる。<lb />
+　僕は五十二のマズルカを作った<span type="ruby"><span type="rb">腺病質</span><span type="rp">（</span><span type="rt">せんびょうしつ</span><span type="rp">）</span></span>なピアニストにおいて独創性の新鮮な味覚を理解する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">179</span></span>
+「ランボオこそは君。<span rend="sesame_dot" rendition="em">ぴん</span>から<span rend="sesame_dot" rendition="em">きり</span>まで男の中の男ですよ」<lb />
+　この清岡さんの言葉が胸を刺した。<lb />
+　そして、それ以来、僕の誠実さの唯一の尺度となった。<lb />
+<lb />
+　結局、僕は精神の旅において「男の中の男」として振舞いたかったのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">180</span></span>
+　意識はたえず見張りする。逆上しないこと、これがたいせつだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">181</span></span>
+　自分で自分の不幸を作ったのだ、とだれが今さら言おう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">182</span></span>
+　精神にも肉体がある。<lb />
+<lb />
+　精神にも礼節がある。<lb />
+<lb />
+　僕はいつも精神の戸口で身ずまいを正しくする。<lb />
+　しかも僕の見て来た認識者とは、汚れた服装で、<span type="ruby"><span type="rb">淫</span><span type="rp">（</span><span type="rt">みだ</span><span type="rp">）</span></span>らな鼻歌を歌いながら、この戸口から中を覗きこむだけのものだった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">183</span></span>
+『恋愛とは売春の趣味である。しかし、恋愛はやがて所有の趣味によって汚される』<lb />
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">――ボオドレェル――</span>
+　こうした肌を持つ肉体、変態的なまでに異常な皮膚の敏感さについて、僕は恐らくボオドレェルを最もよく理解するだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">184</span></span>
+「耕すこと、掘り出すことだ。すでにそれらは存在していたのだ。われわれが可能性と呼んでいるこの豊かな宝庫の鍵を発見することだ、新しい扉はまだいくらでもあるではないか」<lb />
+　芸術家はいつもこう言って来たし、僕も芸術家だったこともある。<lb />
+　僕は疲れてしまったのか。いや、ただこういう言い方をしなくなっただけの話だ。<lb />
+　それにしても、僕の「憧れ」はどこに姿を消したのだろう。<lb />
+「お前自身の内に清純さがなければ、どうして汚濁を排することができよう」<lb />
+　ああ、皆、弁解だ。慰めだ。<span rend="sesame_dot" rendition="em">純潔</span>を掘り出した、と？――僕は耕しもしない、発見もしない。僕には、すべてのことが汚らわしかったし、曖昧にしか見えなかったし、それが堪らなかったのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">185</span></span>
+「………………それゆえに」これが、哲学者のお決まり文句だ。<lb />
+　子供たちよ、警戒したまえ。その次に何が飛び出すか、僕にはわかっている。そうして、こんなお説教には耳をかさずに君たちの遊戯をつづけたまえ。<lb />
+　ごらん、空はあんなに晴れている。<lb />
+「…………それゆえに」を聞いたらおしまいだ。この呪文は雨を降らせるだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">186</span></span>
+　純粋な時間の流れに乗って、風のように人生を吹き抜けて行く、という近松さんの妄想。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">187</span></span>
+　自殺を決意する僕を批判するのに、生きようとする「処世術」を持ち出すのはいささか見当はずれだ。<lb />
+　処世術を破壊し拒否する男に処世術の枠をはめこもうとしてもだめである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">188</span></span>
+　賢さとは生温いことである。――現代人の尺度――<lb />
+　賢さとは冷たいことである。――僕の尺度――<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">189</span></span>
+　僕はインスピレイションという言葉の気弱い曖昧な味を、もう口にしようとは思わなかった。僕が、認識のメスを、自らの肉身に刺して血を流す時、僕の自意識の<span type="ruby"><span type="rb">瞳孔</span><span type="rp">（</span><span type="rt">どうこう</span><span type="rp">）</span></span>は、詩人であった時よりも、ずっと豊かな風景の展望を<span type="ruby"><span type="rb">肆</span><span type="rp">（</span><span type="rt">ほしいまま</span><span type="rp">）</span></span>にするのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">190</span></span>
+　創作に、生き甲斐を見いだす、あの詩人の一群れを、そのままにしておこう。<lb />
+<lb />
+「詩人！　まっぴらだ」などと威張るまい。<lb />
+　僕はもう、詩人と握手する<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>を知っている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">191</span></span>
+「しばらく、君の歩みを止めてふりかえってみたまえ。――君が「見る者」なら、このすばらしい展望をとり逃す法はない」<lb />
+　僕はこんな忠告には耳を<span type="ruby"><span type="rb">藉</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>さずに歩みつづけた。<lb />
+　するとまた、だれかがこう言った。（ジャン・コクトオだったかしら）<lb />
+「確かに『立ち止まる』のはもう時代遅れだ。それにしても、何てまあ無愛想な恐ろしい顔をしてるんだい。体操だ、ダンスだ、スピードだ！　もっと軽快に歩くことを学びたまえ」<lb />
+　僕は相変わらず押し黙っていた。<lb />
+<lb />
+　やつらは、僕を不幸な男だと思ったに違いない。<lb />
+　だが、「天邪鬼め！」などと、<span type="ruby"><span type="rb">己惚</span><span type="rp">（</span><span type="rt">うぬぼ</span><span type="rp">）</span></span>れた悪口はよしたまえ。僕は何も故意に君たちに反対したのではない。僕はいつでも独りだっただけだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">192</span></span>
+　人の好い老人たちは、僕を見てはらはらする。<lb />
+「なんて軽はずみな子だろう。危くて見ちゃいられない。もういいかげんにわがままなお茶番はおよし」<lb />
+　放蕩無頼の悪党たちは、僕を鄭重に敬遠する。<lb />
+「せっかくのお酒がまずくなっちまうよ。君は、肩を張りすぎてるんだもの。何だか面映ゆくってしょうがないや」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">193</span></span>
+　ある程度、僕らは自分に持ち合わせのない弱点をさえ装わなければ社交界に出て行けない。<lb />
+　僕にはばかのまねも、白痴のまねも可能である。<lb />
+　眼の光さえ、今日では隠し偽ることができる。<lb />
+<lb />
+　つまり意識のある高みにおいては、真実とそっくり同じ仮面をかぶりうるということは、実証論者をして、次のように言わせるだろう。<lb />
+「全く同じであれば、やはり同じわけだ。これを偽瞞とか、真実とか区別する必要はない。ばかの容貌はばかであることの証拠なのだ。――精神。ふん、亡霊さ」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">194</span></span>
+　僕はランボオのあの、表現への容赦ない不信と、烈しい意欲とを含んだ、言葉を思い起こす。<lb />
+　――やがて、宇宙的言語の時代が来るであろう。それは、音・色・匂い、すべての陰影を要約して魂へと通ずるであろう、と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">195</span></span>
+　ニーチェに、<lb />
+「権力への意志」とは所詮賤民ども・プロレタリアートのみの振り<span type="ruby"><span type="rb">翳</span><span type="rp">（</span><span type="rt">かざ</span><span type="rp">）</span></span>す汚れた旗幟にすぎない。<lb />
+　まことの貴族は「権力」にすら、何らの関心をも示すものではない。彼らはそういう言葉のなお上層に位する。<lb />
+<lb />
+　東洋人の去勢者のような、滑らかな無表情が、右の言葉を語らせたのか。そして、これが西洋精神の重苦しい表情へのとどめの一撃になるのだろうか。<lb />
+<lb />
+　歴史的な話法には必ず曖昧さと自己満足とがあるものだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">196</span></span>
+　僕が戦争を嫌うのは、戦争は「正義」の仲間だからだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">197</span></span>
+　まことの個性は、沈黙したものである。それは疑いなく僕の中に住んでいる。僕にとって「個性の奪還」という言葉ほど笑止なものはない。人々は、個性とは、口をきくものだと思っているのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">198</span></span>
+　われわれは皆、「黙契」ということを知っている。そしてこれが社会の平和を構成するものだと考えている。ところで「黙契」が最も忠実に行なわれたのは封建時代ではなかったか。だから、生粋の封建人ほど、平和な顔を持ったものはいない。しかもそれはしばしば、非常に魅力のあるものである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">199</span></span>
+　権利。正義。<lb />
+　この二つの単語が人類の辞書から抹殺されぬ限り、永久に戦争は絶えないだろう。<lb />
+　プロレタリアートよ。今度は君の番だ。恨めしい顔をした、貴人たちの幽霊を警戒するがいい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">200</span></span>
+　自我の純潔さは、それが他の魂に住めないほどにか弱く、けっして他に犯されることがないほど強い、ということである。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">201</span></span>
+「理知の人」にあっては、「精神の肉体」に、恐らく彼に残された、もはや薄い、生命の衣、<span type="ruby"><span type="rb">倦怠</span><span type="rp">（</span><span type="rt">アニュイ</span><span type="rp">）</span></span>という衣がからみついている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">202</span></span>
+　かつて、机の前で勉強を怠けてすわっていた魂、行動に倦いたところの魂、――そこから、僕のもう棄ててしまった幾つかの<span rend="sesame_dot" rendition="em">良い作品</span>は生まれたのだった。<lb />
+<lb />
+　プルウストはコルク張りの密室のベッドの中で、あの偉大な芸術の糸を紡いだ。<lb />
+　Discours de la M<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />thode は煖炉部屋の椅子の上から生まれ出た。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">203</span></span>
+　僕は、あの、どうしようもない<span type="ruby"><span type="rb">倦怠</span><span type="rp">（</span><span type="rt">アニュイ</span><span type="rp">）</span></span>に身をもってぶつかったのではなかったか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">204</span></span>
+　Enivrez-vous sans cesse ! De vin, de po<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />sie ou de vertu, <span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" /> votre guise.<lb />
+<span rend="chitsuki_6" rendition="div" style="text-align:right; margin-right: 6em">――Charles Baudelaire――</span>
+　強気と弱気とで、人は同じことを示すのに二重の言い方をすることができる。<lb />
+　詩人を廃業した時に僕はこう思った。<lb />
+「僕は『美』を殺害したのだ」と。<lb />
+　さて、今日、僕は次のようにしか語れまい。<lb />
+「僕は『美』に酔えなくなったのだ」と。しかし、やはり同じではない。反省の時刻が違うから。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">205</span></span>
+　自虐狂患者に残された二つの貴族的快楽。――僕は<span rend="sesame_dot" rendition="em">天邪鬼</span>と<span rend="sesame_dot" rendition="em">寛大</span>とを交互に享楽した。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">206</span></span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（散逸）</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">207</span></span>
+　自意識は常に高利貸しの冷酷な表情の中に<span type="ruby"><span type="rb">棲</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>む。<lb />
+　しかも僕は常に高利貸しを憎悪してやまぬものなのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">208</span></span>
+　悲しむな、僕の心よ。これは悪魔のおきまり文句だ。<lb />
+　――お前は「生」の裡に、汚穢しか見いださなかった、と。では、お前は俺の仲間さ。何故なら、これこそお前が、最も汚れ多い人間であるという明らかな証拠ではないか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">209</span></span>
+　病弱な魂よ、恐れずに自分に尋ねて見ることだ。<lb />
+　――僕は童貞を失って生まれて来た子供なのかしら。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">210</span></span>
+　きょう、僕は疲れている。この、身を投げ出してしまいたいような疲労。――それは「家庭」に帰ることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">211</span></span>
+　もし、僕が生きるとしたら、――こんな仮定は何にもならない――僕は最も良い「家庭の人」の一人として暮らすだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">212</span></span>
+　お母さんが僕を「駄々っ子」と思うのは、全くだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">213</span></span>
+<span rend="jisage_3" rendition="div" style="margin-left: 3em">囚人はやがて舌うちすると、不意にまるで自分の夢想や物思いをふるい落としでもするように、………</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">――ドストイェフスキイ「死の家の記録」――</span>
+　この僕の脳裡にも「仕事」「働くこと」に専心したいという意欲が<span type="ruby"><span type="rb">閃</span><span type="rp">（</span><span type="rt">ひらめ</span><span type="rp">）</span></span>いたのは、不思議なことではない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">214</span></span>
+　あの、年老いた思想家たちがやさしく人生を愛しながら、家庭に帰る姿。<lb />
+　僕のこの過ぎ去った数か月は、彼らの数十年の春秋の流れと同じものであろうか。――そうではない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">215</span></span>
+　言い表わし方のニュアンスについて。<lb />
+　――僕は純潔を求めた。<lb />
+　――僕の肌が敏感に、か弱くできていた。<lb />
+　今では僕は、後の話法を採用するだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">216</span></span>
+　平等主義。――この不毛の曠野の単調な光景を眺めて、年老いた詩人は、かつての日そこに眺めた森や林や小川や草原の美しさを<span type="ruby"><span type="rb">偲</span><span type="rp">（</span><span type="rt">しの</span><span type="rp">）</span></span>んでは涙を流し、年若い詩人は、やがてそこに<span type="ruby"><span type="rb">萌</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>え出るであろう、新しい草々の芽の鮮やかさを想っては、涙を流す。<lb />
+　平等主義。――歴史家は詩人の時代は去ったと説く。詩人自身もこう思っているらしい。「ここでわれわれの個性は地の下に圧えつけられて芽を出す機会がない」と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">217</span></span>
+　根室での寝言。<lb />
+「せっかく、一度入った者を、もう一度落とすなんて<span type="ruby"><span type="rb">怪</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>しからんじゃないか」<lb />
+　橋本や、都留や、児島がもし、あれについて何も言わなかったら、僕もただそれだけの夢として葬っただろうし、いつの間にか忘れてしまっていただろう。<lb />
+　けれども、彼らが「怪しからんじゃないか」という口振りを、いかにもおもしろそうにまねするたびごとに、僕の心は人知れぬ傷口の痛みに苦しんだ。<lb />
+　われわれは自分一人では問題ともせず、気にもとめない一見些細なことでさえ、他人によってそれを投射されると、本能的な反射作用で表面を守ると共に、投影された跡について冷たい反省の眼を向けざるをえない。ところで他人にはそんなつもりは、<span rend="sesame_dot" rendition="em">さらに</span>ないのだ。<lb />
+<lb />
+　あの時以来、僕は自分が二十歳をまだ越えない歳ごろにいるということを知っている。<lb />
+<lb />
+　何でもなかったことが、潜在意識の流れの上に投げこまれた、もともと見当違いのはずの一石によって、思いがけない認識に達するということ。この焦躁感のまじった探究心はますますその悩みと傷口を大きくする。<lb />
+<lb />
+　僕が青春に背を向けることを歎くまい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">218</span></span>
+　人生においては、自分自身にさえ、奥歯に物のはさまったような話し方をせねばならぬことがある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">219</span></span>
+　今日、僕が聴きたいのは、ショパンの<span type="ruby"><span type="rb">嬰</span><span type="rp">（</span><span type="rt">えい</span><span type="rp">）</span></span>ハ短調のワルツ、――あの<span type="ruby"><span type="rb">爽</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>やかな失恋の調べだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">220</span></span>
+　失恋した男の話。――彼は<span rend="sesame_dot" rendition="em">人生</span>を思慕していた。しかるにこの不実な恋人は、事ごとに彼を裏切った。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">221</span></span>
+　<span type="ruby"><span type="rb">詭弁</span><span type="rp">（</span><span type="rt">きべん</span><span type="rp">）</span></span>。――愛する者は、恋人に自己を与え、恋人の中に自己の幻を認める。では、僕は、<span rend="sesame_dot" rendition="em">人生</span>に住んでいると錯覚していたのに違いない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">222</span></span>
+　僕には地獄も存在しなかった。ところでこれは、いかに退屈なことであったろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">223</span></span>
+　退屈。――この怪物を押し<span type="ruby"><span type="rb">潰</span><span type="rp">（</span><span type="rt">つぶ</span><span type="rp">）</span></span>す、ただそれだけのために、人はピストルを<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">おのれ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">脳漿</span><span type="rp">（</span><span type="rt">のうしょう</span><span type="rp">）</span></span>にぶちこむことすらある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">224</span></span>
+　僕は「屈辱は恐れない」と書いた。<lb />
+　しかし、次のように言った方が正確なのかもしれぬ。<lb />
+「僕は屈辱を受けることにある<span type="ruby"><span type="rb">嗜好</span><span type="rp">（</span><span type="rt">しこう</span><span type="rp">）</span></span>を覚えた」と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">225</span></span>
+　すでに、賭博への情熱は、ここには失われていた。<lb />
+　僕の<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>め果てた魂は、己の生命の血、そのものをあえて賭けずにおられなかったのではあるまいか。次のように書いてみよう。<lb />
+　興味はなかった。しかし、興味を持てないということが僕には我慢できなかった、と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">226</span></span>
+　ところで、僕は「苦学生」というやつが大嫌いだった。<lb />
+　僕は奴隷の<span type="ruby"><span type="rb">鞭</span><span type="rp">（</span><span type="rt">むち</span><span type="rp">）</span></span>で歩いたのではない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">227</span></span>
+　精神の世界がまた分われるのだ。ここにもやはり政治があり、資本があり、生産があり、貿易があり、…………<lb />
+<lb />
+　ヴァレリイは芸術家を精神世界における生産階級と見る。<lb />
+　ここに制作に従事する自分、という姿を、当然ではあるが劃とした枠に入れて区別して見せるところの正確さが存する。<lb />
+<lb />
+　清岡さんの芸術論の曖昧さと比較すること。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">228</span></span>
+　ヴァレリイは創作に向かう自分の姿を次のように示す。<lb />
+「積年、私は韻文芸術を打ち捨てて顧みなかったが、再びこれを自己に強制することを試み、この習作を仕上げた…………」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">229</span></span>
+　ヴァレリイが、芸術家という精神世界の生産者たちの私生活にまで口を出そうとしない、あの正確さ、と謙虚。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">230</span></span>
+　嘘はどんな風にでもある。<lb />
+　ルナアルは「書簡集」を嘲笑した。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">231</span></span>
+「文は人なり」<lb />
+　この古めかしい文句が今なお通用するとすれば、それは徹底的実践主義者の前でだけだ。<lb />
+「生活と芸術」について旧時代の批評家が得々と述べたものは、すべて皆独断論である。<lb />
+　嘘つきはどこにもいるし、意識してまじめな顔をするのは、廿世紀の社交界では朝飯前だろう。機械文明の世の中だ。自意識という巨大な機械に注意するがいい、感傷詩人のインスピレイションなど、幾つでも製造できるではないか。<lb />
+<lb />
+　こう毒づいた上で、僕は、我が心の墓地に眠っている、あの薄倖な詩人たち、<span rend="sesame_dot" rendition="em">宿命の病人たち</span>の生涯を憶っては、<span type="ruby"><span type="rb">暗澹</span><span type="rp">（</span><span type="rt">あんたん</span><span type="rp">）</span></span>たる悲憤に打たれるのだ。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">一九四六・九・二六　　一高寄宿寮にて</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">232</span></span>
+　近代物理学の目標は、脳髄と脳髄を電流によって連結することだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">233</span></span>
+　コペルニクスが、われわれの恆星と、われわれの遊星との間にひらいた<span type="ruby"><span type="rb">溝</span><span type="rp">（</span><span type="rt">みぞ</span><span type="rp">）</span></span>を、より深く掘り上げること、これが近代人類史であるとすれば、進歩主義者はすべからく、かく語らねばならぬ。<lb />
+「今こそ、人類が、太陽人と地球人とに分割される時だ！」と。<lb />
+　そして、純粋詩は地上の勝利をうたい、純粋批評は移住民の合唱を奏するだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">234</span></span>
+　前進か、逆もどりか、横にはみ出すか。――この旋風の核心に立って、「断」の一字を下しうるもの、それはただ、死あるのみだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">235</span></span>
+　悪魔は、<span rend="sesame_dot" rendition="em">惰性</span>の神である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">236</span></span>
+　驚く者を詩人と呼び、驚かぬ者を批評家と呼ぶ。<lb />
+　僕はいかなる詩人をも眠らせ、いかなる批評家をも飛び上がらせた。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">237</span></span>
+　人工楽園は太陽の中にある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">238</span></span>
+　宿命。――僕の最初の幼い歌は脱走する日輪、太陽の<span type="ruby"><span type="rb">終焉</span><span type="rp">（</span><span type="rt">しゅうえん</span><span type="rp">）</span></span>に対して捧げられた。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">Etudes　<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" /></span></span></span>
+<lb />
+<lb />
+<span rend="jisage_16" rendition="div" style="margin-left: 16em">
+<span rend="jizume_20" rendition="div" style="width: 20em">
+Cependant c'est la veille.<lb />
+Recevons tous les influx de vigueur et de tendresse r<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />elle. Et, <span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" /> <span facs="../../../gaiji/1-09/1-09-36.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きI)" />aur re, arm<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" /> d'une ardente patience, nous entrerons aux splendides villes.<lb />
+</span>
+</span>
+<span rend="chitsuki_7" rendition="div" style="text-align:right; margin-right: 7em">―Arthur Rimbaud―</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">１</span>
+　警告。――何人も、僕の半生をすなおに受け入れてはならぬ。<lb />
+　死に至るまで、僕の演ずる行ないはすべて――善良な友よ。君たちに聞かせた、たあいない寝言の片言隻句に至るまで、<span rend="sesame_dot" rendition="em">小説に書かれるための</span>お茶番であるかもしれないのだよ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">２</span>
+　唯物論信者に。――まず、諸君の人生を、一個の<span rend="sesame_dot" rendition="em">物資</span>として料理して見ることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">３</span>
+　ボルシェヴィスムの神は、自らの手足を食う<span type="ruby"><span type="rb">章魚</span><span type="rp">（</span><span type="rt">たこ</span><span type="rp">）</span></span>である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">４</span>
+　プロレタリアートは太陽を地上にひきずり下そうとする。彼らは地球との無理心中を夢みている。恋人こそいい迷惑だ。<lb />
+　太陽を欲するなら、太陽に行きたまえ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">５</span>
+　神話への詰問。――何故に、日本人が、<span type="ruby"><span type="rb">素戔鳴尊</span><span type="rp">（</span><span type="rt">すさのおのみこと</span><span type="rp">）</span></span>を祀り、西洋人がナルシスを先祖の一人に加えねばならぬのか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">６</span>
+　アメリカは、新大陸に神話を創り出そうともがき、ロシアは、旧大陸の神話を亡ぼそうともがき、地中海は、自分の神話をもてあまし、東洋は西洋の神話に<span type="ruby"><span type="rb">媚</span><span type="rp">（</span><span type="rt">こび</span><span type="rp">）</span></span>を送り、西洋は東洋の神話を手にとって当惑する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">７</span>
+　C'est que notre <span facs="../../../gaiji/1-09/1-09-56.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きA小文字)" />me, h<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />l<span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" />s ! n'est pas assez hardie.<lb />
+<span rend="jisage_16" rendition="div" style="margin-left: 16em">――Charles Baudelaire――</span>
+　こうした叫びは何と可愛いものだろう。<lb />
+　宿命・悔恨・反逆・悲惨……。しかも、かつての僕の魂はかくのごとき「言葉」の温床に<span type="ruby"><span type="rb">育</span><span type="rp">（</span><span type="rt">はぐく</span><span type="rp">）</span></span>まれているのであった。<lb />
+　ポオル・クロオデル――<lb />
+「ボオドレェルは十九世紀の有する唯一の熱情を歌った――すなわち悔恨」<lb />
+<lb />
+　過去という記念碑への愛憎と後悔<span rend="notes">［＃「後悔」は底本では「後海」］</span>。<lb />
+　支那の古人はこの重苦しい悩みの表情を、いかにも<span type="ruby"><span type="rb">爽</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>やかに歌ってのける。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+送爾于路。銜觴無欣。――陶淵明――<lb />
+鸚鵡含秋思。聰明憶別離。――杜甫――<lb />
+桃花流水沓然去。別有天地非人間。――李白――<lb />
+</span>
+<lb />
+　帰去来兮。と君は誘うのか。僕はすべての詩を拒否する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">８</span>
+　なべての、愛と苦悩とを背負う孤独者たちが、また、トリスタンとイゾルテの幾群れかが、死に近づく時のあの足取り。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+　怖れと不安とに脅かされながらも、彼らの歩みはしだいに軽く、速まってゆく。とどめえぬ死滅への一本道の蒼ざめた空に、彼らの愛と苦悩とは不思議な融合を見せて昇華する。そして、その足どりはいよいよ速く、軽やかな、痛々しい調子を踏んで……………。<lb />
+</span>
+<lb />
+　これが詩人の祈祷である。<lb />
+　すべての宗教を寄せつけぬこと。僕の眼より冷ややかにならねばならぬ。<lb />
+　勝利の感情を受け入れてはならない。また、弱気の<span type="ruby"><span type="rb">蛆</span><span type="rp">（</span><span type="rt">うじ</span><span type="rp">）</span></span>が涌く。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">９</span>
+　僕は身をもって弱気にぶつかった。僕の周囲には、昔ながらの家具と、壁と、窓掛けとが、「安心おし」とでもいうように静かに取り廻いていた。<lb />
+　壁を破壊することだった。そしてありとあらゆる学問に、思想に、人々に、まだ僕自身の影に、僕は「壁」の姿を見つけた。<lb />
+　僕に、慰安とは不具戴天の仇同士であった。<lb />
+　身についた<span type="ruby"><span type="rb">汚穢</span><span type="rp">（</span><span type="rt">おわい</span><span type="rp">）</span></span>は堪らなかった。僕はその生温いよごれた着物を一枚一枚と脱ぎ棄てながら歩いたのだ。しかもその足には怠惰という<span type="ruby"><span type="rb">疥癬</span><span type="rp">（</span><span type="rt">かいせん</span><span type="rp">）</span></span>が一面に巣喰っていた。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">10</span></span>
+　言葉で片づける、ということには常に許容と、自慰とがある。もっと謙虚になることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">11</span></span>
+「お前は『救済』を唾棄すると言った。だが、そうやって、執着の鎖を断ちきって転身しつづける、そこにお前の『救済』と、『慰め』があるのじゃないか」<lb />
+　悪魔よ、黙ってろ。お前の汚れた手の指は、僕の身体に一本でも触れることはできないのだ。<lb />
+「やはり<span rend="sesame_dot" rendition="em">救い</span>はあるのですわ。そうやってただ独りで歩いて来たあなたに、今、残されたものが、あなたの清浄さであり、透明な無垢の肉体なのではありませんか」<lb />
+　感傷家の天使よ。あまり僕を泣かせないでくれ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">12</span></span>
+　僕は予言に挑戦する。何故なら、予言者はたいていの場合、僕の嫌いな歴史家の裡にいるからだ。<lb />
+　あの「信あつき巫女」は、もう存在しない。「神託」は墓石の下に眠ってしまった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">13</span></span>
+　悪魔は、<span type="ruby"><span type="rb">傑</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>れた歴史家であり、社会学者である。<lb />
+　それは、いつでも「一般論」の網を張りめぐらして、僕の<span type="ruby"><span type="rb">飛翔</span><span type="rp">（</span><span type="rt">ひしょう</span><span type="rp">）</span></span>を妨げようとする。僕には、こいつを追っぱらうには、一たたき、羽を動かすだけでたくさんだった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">14</span></span>
+　悪魔は過去に住み、天使は未来に住んでいる。<lb />
+　僕はどちらにも意地悪かった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">15</span></span>
+　胸の中に冷たい鏡を所有すること。それは「生活しない」という意味であり、「死身になる」という意味である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">16</span></span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+ああ、われら<span type="ruby"><span type="rb">怯懦</span><span type="rp">（</span><span type="rt">きょうだ</span><span type="rp">）</span></span>のために長き間、いとも長き間、<lb />
+<span type="ruby"><span type="rb">徒</span><span type="rp">（</span><span type="rt">あだ</span><span type="rp">）</span></span>なることに<span type="ruby"><span type="rb">拘</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>らいて、泣くことを忘れいたりしよ、げに忘れ<lb />
+いたりしよ……<lb />
+</span>
+<span rend="chitsuki_7" rendition="div" style="text-align:right; margin-right: 7em">――中原中也――</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">17</span></span>
+　涙なき沈黙。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">18</span></span>
+　今の僕の仕事は、老いたる者のあの虚心な合掌を拒絶することだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">19</span></span>
+　自叙伝。――気まぐれな植民地育ちの夢想児は、日本の土を踏んで、祖国の鈍重な<span type="ruby"><span type="rb">阿呆面</span><span type="rp">（</span><span type="rt">あほうづら</span><span type="rp">）</span></span>に、失望し、退屈したあげく、苦り切って一人お芝居をした。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">20</span></span>
+　大連。――彼は植民地の子供である。祖国の山河は、絵本の中に住んでいた。そして、外国も、やはり海の向こうにあった。<lb />
+<lb />
+　大連の肌目は粗いが、それを<span rend="sesame_dot" rendition="em">洗煉された</span>お化粧でごまかそうとする。<lb />
+<lb />
+　大連の顔は<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>んでいる。<lb />
+<lb />
+　港の<span type="ruby"><span type="rb">銅鑼</span><span type="rp">（</span><span type="rt">どら</span><span type="rp">）</span></span>の音は、彼の心を異境の空に誘惑した。<lb />
+<lb />
+　他国の星の下で、若者は、自分の町を思い出す。ロシア少女の甘い、<span type="ruby"><span type="rb">嗄</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>れた声が、夢の中で彼を招くのだ。<lb />
+「<span rend="sesame_dot" rendition="em">ダルニー</span>」とただ一言。<lb />
+　すると、その言葉が、不思議な魔法で彼を縛ってしまう。<lb />
+　そして、若者はきっと<span type="ruby"><span type="rb">憑</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>かれたように、生まれた町にかえって行く。<lb />
+　が、やがてまた、<span rend="sesame_dot" rendition="em">ダルニー</span>は彼の心を駆り立てて、新しい汽船に乗せてくれるだろう。<lb />
+<lb />
+　植民地は野心の子を作る。<lb />
+<lb />
+　彼はアカシヤの花にノスタルジアの匂いを嗅ぎ、清澄な空の高さを仰いでは、希望の欣びを知り、棧橋の人混みにまぎれて異国趣味に<span type="ruby"><span type="rb">睦</span><span type="rp">（</span><span type="rt">むつ</span><span type="rp">）</span></span>み、山の上から眼下に横たわる街々を眺めては平和を愛し、支那人の顔を見つめて首をかしげ、綺麗な道路と赤瓦の住宅とにおいて、<span type="ruby"><span type="rb">知識人</span><span type="rp">（</span><span type="rt">インテリ</span><span type="rp">）</span></span>の表情と小市民気質とを理解した。そして、これらのものが集まって、彼を不安に、気まぐれにし、彼を海べに追い立てた。海に来て、彼は力を与えられ、英雄の生涯に憧れた。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">21</span></span>
+　祖国へ寄せる哀歌。<lb />
+「語らない日本」こそ、母国のほんとうの美しい姿だ、と僕は思う。われわれの国語は、元来人に聞かせるように作られているものではない。吐き出すのではなく、口に含んでみる言葉なのだ。しとやかに、つつましく――これが日本語発声法の正統だ。<lb />
+　お喋りな日本人の顔ほど、滑稽、醜悪なものはない。僕には現代人が、落語家や万歳師の類にしか映らないのだ。<lb />
+　清岡さんが、明治以来の文学者を評した折りに、こう言ったことがある――漱石か。あれは高等講談さ。<lb />
+　われわれの父祖たちは、ゼスチュアを他から借りて来なければならなかった。天平文化に、明治文化に、われわれはわれわれ自身に表情を認めることができるであろうか。<lb />
+　演説をするなら、すべからく外国語で<span type="ruby"><span type="rb">喋</span><span type="rp">（</span><span type="rt">しゃべ</span><span type="rp">）</span></span>ることだ。<lb />
+　瀬戸内海の平和な島々の間を通りながら、植民地の子供は感じたのであった。<lb />
+　――これこそ、お母さんの故郷だ、と。<lb />
+　けれども、神戸の<span type="ruby"><span type="rb">埠頭</span><span type="rp">（</span><span type="rt">ふとう</span><span type="rp">）</span></span>を汽船の上から望んだ時、彼は憤りに駆られて叫んだ。<lb />
+　――何というみにくい国だろう！<lb />
+「必要だったのだ」と歴史家は弁解する。しかし、必要は、向こうからやって来るものなのだ。われわれの民族は、必要に自己を売り渡したのである。<lb />
+　しかも今、<span type="ruby"><span type="rb">混沌</span><span type="rp">（</span><span type="rt">こんとん</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">錯綜</span><span type="rp">（</span><span type="rt">さくそう</span><span type="rp">）</span></span>とをきわめた現代の世界像を前にして、その内に、<span rend="sesame_dot" rendition="em">必要</span>なものを検出する眼の光は、われわれの無言の魂以外にないではないか。愚かな日本は、<span rend="sesame_dot" rendition="em">明日</span>を信じている…………<lb />
+　見栄と野望を葬ること、これが第一の問題だ。だれが今ごろ、<span rend="sesame_dot" rendition="em">身振り</span>を信ずるものがあろう。孤独を豊富にし、忍耐を高貴にし、沈黙に魅力を与える術を心得ていたのは、泰西の詩人ばかりではなかった。そしてまた、老いたる伝統の帰趨を凝視する苦悶の吐息は、ヨーロッパの天地にも<span type="ruby"><span type="rb">漲</span><span type="rp">（</span><span type="rt">みなぎ</span><span type="rp">）</span></span>っているのではないか。それと共に、<span rend="sesame_dot" rendition="em">希望</span>も残っていないわけではない――<span type="ruby"><span type="rb">憐</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>れな、戸惑いした、<span type="ruby"><span type="rb">老耄</span><span type="rp">（</span><span type="rt">おいぼ</span><span type="rp">）</span></span>れの祈祷はこうだ――気まぐれな廿世紀の守護神が、この忘れ去られようとする極東の小島に、白羽の矢を送らないと、何人に断言できよう、と。<lb />
+　うらぶれ、痛めつけられた霊魂は、もう一度、<span type="ruby"><span type="rb">瑞穂</span><span type="rp">（</span><span type="rt">みずほ</span><span type="rp">）</span></span>の国、大八洲にすわりこむか、その黄色い皮膚を漂白するか、それとも、惰性の波に消えるか。結論はない。すべてが奇蹟とも見え、かつすべてが当然とも思われる。しかしながら、僕の感傷的な憂国の情が、祖国の将来に抱かずにおけない<span type="ruby"><span type="rb">危懼</span><span type="rp">（</span><span type="rt">きぐ</span><span type="rp">）</span></span>…………。<lb />
+　――この病み衰えた霊魂は、カルタゴのごとく、城と共に自らを焼いてローマの一土に埋れ去るのか、あるいは放浪のユダヤ人と化して、故山を後にせねばならないのか、と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">22</span></span>
+　<span type="ruby"><span type="rb">虻蜂</span><span type="rp">（</span><span type="rt">あぶはち</span><span type="rp">）</span></span>とらず。――外国文字を国語で発音した上古の日本人よりも、さらに数等愚劣なのは、国語を外国文字で書こうという、近代の気狂いどもだ。<lb />
+　全く、われわれの民族は、間の抜けた発明の天才揃いに違いない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">23</span></span>
+　日本人の皮膚が、黄色い限り、日本人の瞳が黒い限り、日本人が日本語を話す限り、日本人は日本人である。<lb />
+　さて、それが、どうして恥ずかしいことなのだ――日本人よ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">24</span></span>
+　日本人は足を持たない。<lb />
+　賢明な奈良の大仏はすわっていた。愚かな明治の帝は、他人の足で動こうとした。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">25</span></span>
+「日本人である前に人間であれ」と、無知<span type="ruby"><span type="rb">蒙昧</span><span type="rp">（</span><span type="rt">もうまい</span><span type="rp">）</span></span>な政治家は説く。<lb />
+　日本人はまず、この人間が、地中海産か、新大陸生まれか、シベリヤの<span type="ruby"><span type="rb">落胤</span><span type="rp">（</span><span type="rt">らくいん</span><span type="rp">）</span></span>か、よく見究めた上で動かなくてはならぬ。<lb />
+　要するに、定義上の問題だ。哲学者たちは、けっして<span rend="sesame_dot" rendition="em">真の人間</span>を教えはしなかった。彼らは彼らの亡霊を押しつけただけだ。<lb />
+　アダムとイヴの子孫、猿の同族、最高等の有機化合物、万物の尺度、社会を構成する因子、考える葦、世界理性の権化、地球の王者、日本国民、――ああ、めんどうくさい。「人間」はいくらでもある。<lb />
+　僕は断じて「人間」などになるまい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">26</span></span>
+　確率。――現代の偶像、廿世紀の神。<lb />
+　この神の前に<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ぬか</span><span type="rp">）</span></span>ずいて、老人は亡びたる伝統を祈り、若者は見もしらぬ恋人を念じ、そして万人が「自己」を願うのだ。<lb />
+「太陽の下、いかで新しいことのあり得べきぞ」<lb />
+　<span type="ruby"><span type="rb">驕</span><span type="rp">（</span><span type="rt">おご</span><span type="rp">）</span></span>れる女神は、たえずこう<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>きながら、その、古ぼけた、巨大な<span type="ruby"><span type="rb">骰子</span><span type="rp">（</span><span type="rt">さいころ</span><span type="rp">）</span></span>を愛撫している。<lb />
+　さて、僕は、いかなる骰子をも捨て去ろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">27</span></span>
+　僕は<span rend="sesame_dot" rendition="em">吐き出す</span>日本語を発明した――しかしながら、ただ一回限り。もはや、あの日は帰って来ない。忘れること、別れることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">28</span></span>
+　多くの人は、文体というものが、年と共に磨かれてゆくと考えている。だが、文章も表現の一手段に過ぎぬ以上、いかなる運命の変化をも予期しうる。僕は、自分の文体を失った、と言おう。今日、僕はあえて、他人の言葉で、しかも強いて嘘を書いているとしか思えぬのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">29</span></span>
+　僕は体験しようとぶつかった。それなのに、すべては経験にしかなりえなかった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">30</span></span>
+　恐怖。――僕は果たして、鏡の中に、自分の顔を探し当てることができるだろうか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">31</span></span>
+　<span rend="sesame_dot" rendition="em">迷信排斥</span>がついに迷信を生むに至る話。<lb />
+　現代において、表現への信仰が薄弱になったのは慶賀すべきことではない。人々は、嘘をつくことに熱中したあげく、自分で自分の嘘を信ずるようになる。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">32</span></span>
+　嘘つき万歳の世の中だ。全く、女性は尊敬されなければならない。何故なら、嘘をつくことにかけて女性ほど巧みなものはないからだ。<lb />
+　<span type="ruby"><span type="rb">牝猫</span><span type="rp">（</span><span type="rt">めすねこ</span><span type="rp">）</span></span>の眠そうな眼の奥を警戒したまえ。ここには本能的な偽善者がすました顔で控えている。<lb />
+　嘘が、万物の霊長の表看板なら、女性の典型こそ、まさに男性の目ざすべき、「人類の進歩の極限」であろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">33</span></span>
+　イヴに禁断の果実を与えた楽園の蛇の故事に呼応して、東洋の<span type="ruby"><span type="rb">古</span><span type="rp">（</span><span type="rt">いにしえ</span><span type="rp">）</span></span>にも次の<span type="ruby"><span type="rb">箴言</span><span type="rp">（</span><span type="rt">しんげん</span><span type="rp">）</span></span>がある。曰く「智慧出でて大偽あり」と。<lb />
+　僕の悲しい信条はこうだ。「真実は嘘によって磨かれ鍛えられる」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">34</span></span>
+　嘘つきが強いのではない。嘘に迷わない者が強いのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">35</span></span>
+　太初に嘘ありき。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">36</span></span>
+　僕は嘘を破壊した。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">37</span></span>
+　最も卓越せる政治家とは、ばかのお面をかぶることができる政治家である。すなわち政治家でなくなること、である。<lb />
+<lb />
+　自意識の臭みを隠すことが可能なまでに至った自意識。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">38</span></span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">Oui, l'heure nouvelle est au moins tr<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />s s<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />v<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />re.　　　――Rimbaud――</span>
+<lb />
+　新しい世紀の門口に来る時、われわれは沈黙の悲哀を忍ばねばならない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">39</span></span>
+　われわれは、すでに、眼の光を信用できなくなった時代に住んでいる。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">40</span></span>
+　僕の精神世界を照す燈台では、いつも<span rend="sesame_dot" rendition="em">潔癖なる自意識</span>が見張りしていた。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">九・二六</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">41</span></span>
+　　　きのうの夢　<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" /><lb />
+　蒼白い月が南国の夜を照らしていた。城門を忍び出た仏陀と車匿とは、その時ふと顔を見合わせた。地上に<span type="ruby"><span type="rb">凍</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>てついた二人の影と、低くしずかに余韻を響かせている鉄の扉の<span type="ruby"><span type="rb">軋音</span><span type="rp">（</span><span type="rt">あつおん</span><span type="rp">）</span></span>と、――いつの間にか、その音は、車匿の<span type="ruby"><span type="rb">歔欷</span><span type="rp">（</span><span type="rt">きょき</span><span type="rp">）</span></span>に変わっていた。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">42</span></span>
+　　　きのうの夢　<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" /><lb />
+<lb />
+　海べで、星ヶ浦のようだが、思い出せない。<lb />
+　星がしずかに夏の夜空をめぐっている。僕と清岡さんとは黙って暗い沖の彼方をみつめている。波の遠くへ<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いてゆく音。<lb />
+「あれは古代が僕らを呼んでいるんだ」<lb />
+　と清岡さんが言う……………。<lb />
+　知らぬ間に世界は明るくなっていた。黎明。海も空も砂も、一面に黄金の光の海。気がつくと清岡さんが道ちゃんに変わってしまっているのだ。道ちゃんは輝かしい人魚の立像のように化石して動かない。<lb />
+　潮風が吹いてくる。波々がざわめきはじめ、いっせいに白い手をあげる。<lb />
+「今日の波が、『近代人になれ』と<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>いているのだよ」<lb />
+　と僕がつぶやく。地球の<span type="ruby"><span type="rb">哄笑</span><span type="rp">（</span><span type="rt">こうしょう</span><span type="rp">）</span></span>。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">43</span></span>
+　　　「ヴァレリイとの航海」（きのうの夢　<span facs="../../../gaiji/1-13/1-13-23.png" rend="gaiji" rendition="img" source="※(ローマ数字3、1-13-23)" />）<lb />
+<lb />
+　また、海がある。僕は、たえず一つの方向に走りつづけながら、それでいて、常に、円い太洋の中心点から少しでも、動くことのない、大きな汽船のデッキに立っている。<lb />
+　そこで僕とヴァレリイとが会話した。<lb />
+「自分の顔に傷をつけることによって僕は認識した」と僕は言った。<lb />
+「よろしい、障碍物を置いてみることだ」とヴァレリイが答えた。<lb />
+「僕にとっての障害とは、虚栄・<span type="ruby"><span type="rb">怯懦</span><span type="rp">（</span><span type="rt">きょうだ</span><span type="rp">）</span></span>・許容……。そして、これらの障害を乗り切ることが僕の生活だった」<lb />
+「どうして乗り切らねばならなかったのだ」<lb />
+「君にはわかっているではないか。僕の精神の肉体の冷たさが、これらの物の生温さを排斥したというのだ」<lb />
+「つまり恐れたというわけだね」とこの時、ニーチェが来て口を出した。「僕なら、それを抱いてやるよ。僕の肉体はますます温くなるのだ。<span type="ruby"><span type="rb">灼熱</span><span type="rp">（</span><span type="rt">しゃくねつ</span><span type="rp">）</span></span>するまでにすべてのものを<span type="ruby"><span type="rb">嚥</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>みこむのだ。その上で僕は出発する」<lb />
+「なかなか、うまい言い方だね」とヴァレリイが言った。「それでは君を出発させるものは何なのだ」<lb />
+「何物かが僕を鞭うつから」<lb />
+「曖昧な言い方はよしたまえ」<lb />
+「僕の中にたえず動いているものだ。とにかく僕は出発する」<lb />
+「どちらに向かって」<lb />
+「超人を目指して」<lb />
+「偶像というわけだね。僕は君の偶像を軽蔑しまい、しかし、曖昧な言い方はよしてくれ」<lb />
+「曖昧ではないはずじゃないか。人類はこれを目標として進むのだ」<lb />
+「そこまで言ったら、夢だ、幻影だ、と言われても仕方あるまい。では、超人に向かって進まないものがあるとすれば、君はどう思う」<lb />
+「無視するだけだろう。そんな賤民に用はない」<lb />
+「それでは、君の裡にこうした賤民の影はない、と言えるか」<lb />
+「賤民の影を自己の中に持たないもの。それが超人なのだ」<lb />
+「よろしい。君の歩みを鈍らせるものを君は無視し、拒絶する、というのだね。それなら、君もまたこれを排斥したといわないで、恐れた、というだろうか」<lb />
+　ニーチェは黙った。そして僕の方を向いて言った。<lb />
+「君の排斥した許容・怯懦とは僕における賤民の影だったのだね。つまり、僕らの動きの方向を決定するものは同じ<span type="ruby"><span type="rb">倫理</span><span type="rp">（</span><span type="rt">モラル</span><span type="rp">）</span></span>、――内奥の節操なのだ」<lb />
+「同じものではない」と僕は<span type="ruby"><span type="rb">邪慳</span><span type="rp">（</span><span type="rt">じゃけん</span><span type="rp">）</span></span>に答えた。<lb />
+「僕の節操とは、君が男らしい顔をして肯定した必然性、人間性というものを、より厳しく検討することだった。過去と、自分の現在の位置とを結ぶ線を考えることはそれでいい。けれどもそれは、それだけの話だ。必然性の上に立って活動するのだ、と<span rend="sesame_dot" rendition="em">思いこむ</span>のは、やはり何らかの安定感、僕に言わせれば用もない生温い背景を持つことにすぎない。<lb />
+　もし、過去と現在とを必然という線で結ぶなら、それはそれだけに止めるべきである。君の必然の線は現在からはみ出して、未来の<span type="ruby"><span type="rb">霞</span><span type="rp">（</span><span type="rt">かすみ</span><span type="rp">）</span></span>の中に曖昧な影を落としているではないか。もし、その上を歩むなら、君の精神の自由とはどこにあるのだ。<lb />
+　予言は所詮、予言にすぎない。<lb />
+　そしてまた、君もキリスト教徒と同じく、救済という『予定』を振りかざす、一宗教家にすぎない。予定には必ず許容がある」<lb />
+「そして、それは正確ではない、ということだ」とヴァレリイが言った。<lb />
+　僕はつづけた。<lb />
+「いったい『安心』というやつが怪物だ。ニーチェよ、君の文献学者としての過去の眼は、そこから未来への予定を汲みとっている。君の<span type="ruby"><span type="rb">朦朧</span><span type="rp">（</span><span type="rt">もうろう</span><span type="rp">）</span></span>とした必然性は未来をも包んでいる。ここには真に厳しい『ねばならぬ』はないのだ。与えられた道を行くことは、『束縛』があると共に『責任回避の安心』から来る緊張の弛みがある。これは奴隷の歩行にすぎない。<lb />
+　真の支配者は常に、自己の全領土の代表者としての威厳と緊張した顔貌をもって、自由な行動をとるであろう」<lb />
+「暴君の末路は常に<span type="ruby"><span type="rb">断頭台</span><span type="rp">（</span><span type="rt">ギロチン</span><span type="rp">）</span></span>だ」とニーチェは<span type="ruby"><span type="rb">揶揄</span><span type="rp">（</span><span type="rt">やゆ</span><span type="rp">）</span></span>した。<lb />
+「結構だ」と僕が答えた。「賤民の群れに身を落としめることを<span type="ruby"><span type="rb">肯</span><span type="rp">（</span><span type="rt">がえ</span><span type="rp">）</span></span>んじまい。断頭台を恐れるのは、予定に屈服することだ。常に高貴な生まれと、教養とを備えて僕の精神の肉体は礼節ある行動の道を行くんだ」<lb />
+　ニーチェが言った。<lb />
+「<span type="ruby"><span type="rb">汚穢</span><span type="rp">（</span><span type="rt">おわい</span><span type="rp">）</span></span>を拒否するという君のいわゆる純潔な肌。それがそもそも僕のいう必然さ。そして僕は予言する。その弱い宿命の皮膚は、とうてい人生の風当たりの強さに耐えないだろう」<lb />
+　僕は答えた。<lb />
+「レッテル貼りは常に君たち歴史家のすることだ。ドン・キホーテか、アルセストか。何とでも言いたまえ。もう一度言い方を変えてやろう。<lb />
+　僕はいつも、今立っている所から始める。僕は<span rend="sesame_dot" rendition="em">潔癖な自意識</span>の冷たい身ずまいと共に、次の一歩に誠実さを籠めたいのだ。僕にはこれが『自由』というものだった。<lb />
+　極度に自分に冷たくなることだ。それは曖昧なもの、弛んだものを許さないことである」と。<lb />
+「自由とは、独立して歩ける自意識が、支配し、操る、精神活動の冒険の中に存する」<lb />
+　ヴァレリイがこう言った。<lb />
+<lb />
+　いつの間にか、船は陸地の見える所まで来ていた。<lb />
+　僕が最後にいった。<lb />
+「ニーチェよ。所詮歴史家は歴史を書くだけだ。君の精神の行動を律する眼は、やはり君の精神の肉体にある。<lb />
+　そして君の中にある精神の行動者が、感傷的なあるいは傲慢なジャーナリストのお<span type="ruby"><span type="rb">喋</span><span type="rp">（</span><span type="rt">しゃべ</span><span type="rp">）</span></span>りをふりまきながらも、沈黙の中に忍耐の歩みをつづけた者の一人だと、僕は想像しているよ」<lb />
+<lb />
+　棧橋の上で僕らとニーチェとは<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>を分った。<lb />
+「君にはさし当たって職業がない。これからどうするのだ」<lb />
+　とヴァレリイが尋ねた。<lb />
+「君の工場を見に行こう」と僕は答えた。<lb />
+　途中で僕らはいろいろな人々に行き逢った。そして僕は、かつての僕の生産工場が、主人を失った空家となって、さびれ果てているのを見た。<lb />
+　僕は清岡さんに見せたかった、と思った。彼と別れてのちに、僕はまじめに働いたのだ。そうして、この大きな工場を完成したのはつい最近のことだったが、僕はそれを棄てたのだった。ヴァレリイの工場で、僕は彼の仕事振りを感心して見物した。<lb />
+「たとい夢にでも、何らかの壮麗な建築の企画を夢みない輩、……」とヴァレリイは、機械を愛撫しながら、おしゃべりを始めた。<lb />
+「僕と、君とが友達になれたのは不思議なことだ」<lb />
+「僕にだってそうした企画がないわけではない」<lb />
+　と僕は意地悪く言った。<lb />
+「教えてくれたまえ」<lb />
+「役者になるのさ」<lb />
+「何の」<lb />
+「喜劇だ。その筋書の企画がすばらしいのさ。僕の役者が、本物の狂人になって、舞台から飛び下りて自殺するのだ」<lb />
+「本物の？」とヴァレリイは<span type="ruby"><span type="rb">呆</span><span type="rp">（</span><span type="rt">あき</span><span type="rp">）</span></span>れた顔をして訊いた。「それじゃ、芝居じゃないではないか」<lb />
+「もちろん、本物ではない」と僕は痛快そうに叫んだ。<lb />
+「だが、本物だと思わせるんだ。もし、お芝居だとわかったら失敗さ、これが初めから書割りだと知っているのは僕と君だけだよ」<lb />
+「何も死ぬ必要はないではないか」<lb />
+「自殺の場所をここに決めただけだよ。畳の上だって、水の中だって僕がやがて自殺することに変わりはない」<lb />
+「君には君の道がある。自殺することはやめはしまい。だが、どこだって同じなら、そんな場所を無理に選ばなくたっていい」<lb />
+「ヴァレリイ。僕がこういう計画を抱いたのは二つの理由によるのだよ。聴きたまえ。<lb />
+　一、自意識の力は、それが自意識の働きであることを隠しうるまでに至るということを、実験してみたかったのさ。真に迫るのじゃなくて、真そのものと全く同じに見えるのだ」<lb />
+「そんなことは示してくれたっていい」とヴァレリイが遮った。<lb />
+「ばかばかしいじゃないか。しかも、それがわかるのは僕だけだ」<lb />
+「観客が本当だ、と思いこんだら、成功だからそれでいいよ」<lb />
+「そうなれば、君の死亡届にはやはり狂死と記されるだろう。そして、人々はあいつはとうとう気が違って死んだ、と信ずるだろう」<lb />
+「僕はもはや屈辱に虚栄心を感じはしない。僕の誠実さは、人に知られない沈黙の中に、いつだってあるのだ」<lb />
+「そいつは傷ましすぎる」<lb />
+「僕は、常にお茶番を演じて来た。ばかに見られること、賢く見られること、これが僕には意のままにできた。<lb />
+　そして、僕は屈辱と<span type="ruby"><span type="rb">驕慢</span><span type="rp">（</span><span type="rt">きょうまん</span><span type="rp">）</span></span>との弱気から僕の誠実さを守り通すことに努めて来た」<lb />
+「君の誠実さは表現の外にあるさ。だが何も好んで途方もない表現を装うことはない。君の中にある<span type="ruby"><span type="rb">天邪鬼</span><span type="rp">（</span><span type="rt">あまのじゃく</span><span type="rp">）</span></span>の気弱さがやはり顔を出すのだね」<lb />
+「反対に、ヴァレリイ。きれいな死に方の中には往々、年寄りの感傷的な合掌が念仏を唱えてるものだよ。<lb />
+　僕にはたまらない、あの弱気。自殺する者が最後に人生を見返る時に、彼の魂に忍びこむ、慰めの影。これが今の僕にも巣喰いだしたのだ。僕は、こいつを追い出そうと思ったのさ。これが第二の理由。屈辱にせよ、慰安にせよ、僕の冷静な魂の鏡は、これらに曇らせられてはならない。すべての<span type="ruby"><span type="rb">怯懦</span><span type="rp">（</span><span type="rt">きょうだ</span><span type="rp">）</span></span>のさ中に凝然と身を固め直立して歩かなくてはならない。<lb />
+　こうして僕に課そうとした筋書。――僕はいつでも、自分の肌身に刃を刺して来たものだ」<lb />
+「僕は、君の自意識に、極度に神経質な偏執の棘を感じるよ」<lb />
+<lb />
+　ヴァレリイはこう言って嘆息した。そうして長い夢から僕は目がさめた。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">九・二七</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">44</span></span>
+　新大陸について。――ヨーロッパ人の重苦しい顔は、景気のいいジャズを聞いて「畜生！」と<span type="ruby"><span type="rb">唸</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>った。だが嫉妬している間は、ヨーロッパ人は威厳を保つことができた。何故なら嫉妬は同時に憎悪を与えてくれるから。<lb />
+<lb />
+　ヨーロッパは最後のダンスを踊ったか。<lb />
+<lb />
+　無関心な楽天家を祝福しよう。ただし、彼が礼儀作法を心得ている限りにおいて。アメリカは育ちが下等だ。<lb />
+<lb />
+　新大陸と機械文明とを呪ったボオドレェルは、<span rend="sesame_dot" rendition="em">近代</span>に育てられたところの伝統の子である。<lb />
+<lb />
+　僕は恐らく、先祖の名を忘れてしまった、身許不明の棄て児である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">45</span></span>
+　Ni lu, ni compris ?<lb />
+　精神の厳粛な門口に<span type="ruby"><span type="rb">彳</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>む時、僕はそこに「沈黙の国」という表札を読む。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">46</span></span>
+　愛とは与えることであり、求めることではない、と、僕の中のトニオ・クレーゲルは語る。<lb />
+　理解されよう、あるいは愛されようという望みは弱気にすぎない。けれども、愛することはまた、一つの自己に対する許容ではないだろうか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">47</span></span>
+　生きるとは、愛することなのか。ニーチェと共にそうだ、と答えよう。<lb />
+<lb />
+　孔子の「仁」――理想的愛。すなわち、最も豊かに生きること。<lb />
+<lb />
+　己を捨てた愛。己の全てを与える愛。――東洋人の理想。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">48</span></span>
+　あらゆる「精神の聖なる帰依者」たちが、生命との<span type="ruby"><span type="rb">八百長</span><span type="rp">（</span><span type="rt">やおちょう</span><span type="rp">）</span></span>勝負をする。<lb />
+　ショーペンハウエルを罵倒したニーチェを、さらにまた、僕が唾棄するのだ。<lb />
+　西洋人が、耳をかすまいとしながらも、未練げにしがみついている必然性――僕の<span type="ruby"><span type="rb">不倶戴天</span><span type="rp">（</span><span type="rt">ふぐたいてん</span><span type="rp">）</span></span>の敵だ――を東洋人は率直に言ってのける。<lb />
+　曰く「<span type="ruby"><span type="rb">塞翁</span><span type="rp">（</span><span type="rt">さいおう</span><span type="rp">）</span></span>が馬」、曰く「<span type="ruby"><span type="rb">盧生之夢</span><span type="rp">（</span><span type="rt">ろせいのゆめ</span><span type="rp">）</span></span>」、曰く「世短意常多」と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">49</span></span>
+　祇園精舎の鐘の音は、ヨーロッパの天地にも鳴っていたのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">50</span></span>
+　西欧的精神への一考察。<lb />
+　自我を守ろうとするあの暴君的意欲はギリシャ以来、ヨーロッパ文化の一底流をなしている。<lb />
+　ニーチェの眼は「愛」と「自我」とが極点においては全く対立することを看破しなかった。ここに彼の思想の壮烈な虚妄がある。ニーチェは、より大きな慈愛を抱くことが、より自我に忠実にあることだ、と考えた。<lb />
+　しかし、「自我」に忠実であろうとすればするほど、われわれは「愛」を拒絶しなければならぬ。生きるとは愛することであるのを知っていたニーチェは、このことを明確に示しえなかった。しかも愛するとは自我を許容することであり、自我の姿をいささかでも見失うことは、それに仕えるところの忠実なる「精神の使徒」の冷静な目に、とうてい許されぬ謀叛である。<lb />
+　ここにおいて、「生命」と「自我」は対決する。<lb />
+　すでに「ツアラトストラの超人」は、この相反する二者を所有しようとする、虚妄の狼の飢えた眼に映る幻にすぎまい。<lb />
+　ギリシャ文化をかくも早く死滅せしめた、あの暴君たちの影。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">51</span></span>
+　精神の透明な世界の門口を潜る前に、われわれはまずあの荒々しい仇敵、「ニヒリズム」の風の洗礼を受けねばならぬ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">52</span></span>
+　純粋なる「自我」には生命の匂いはない。僕における「精神の肉体」とはこの「自我」ではなかったか。<lb />
+　われわれは精神の王国の祭壇の前に<span type="ruby"><span type="rb">脆坐</span><span type="rp">（</span><span type="rt">ぜいざ</span><span type="rp">）</span></span>する時に、もはや、彼の、「必然性」の豊富な影を宿した「生命」に拘わることはない。<lb />
+　何故に僕の認識は血を流さねばならなかったか。<lb />
+　いかにも「精神の肉体」はすべての生温い、生命の匂いの前に身をすくめた。<lb />
+　ありとあらゆる「許容」の汚れを拭いさること、それはついに「生命」を拒絶することであった。<lb />
+　僕の最後の誠実さは、止めの一刺を心臓に向けねばならないのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">53</span></span>
+「精神の肉体」は、沈黙の王座に住む。いかなる生命とも、<span type="ruby"><span type="rb">関</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>わりはない。それは「表現」の衣を持たない。<lb />
+「表現」とは所詮、「生命ある世界」のものである。<lb />
+　僕の誠実さは「表現」の中に許容の匂いをいちはやく嗅いだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">54</span></span>
+　ランボオは、精神の最も純粋な風影を一瞬見た後に、「母なる大地」にかえって来た。もはや、認識の刃を捨てて、「黙々と働くこと」「生きること」だった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">55</span></span>
+　僕にとって「生命」とはいかに魅力ある汚れか。<lb />
+<lb />
+　だが、なべての人々を<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>めまい。彼らの人生を祝福しよう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">56</span></span>
+　Le silence <span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />ternel de ces espaces infinis m'<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />ffraie.<lb />
+<lb />
+　僕の中にあるパスカルを拒絶すること。彼は精神の秘奥の、全き沈黙の死滅の世界の前で身ぶるいする。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">57</span></span>
+　さて、僕は今、黙ってパスカルと握手するのだ。――極度に意地の悪い眼で。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">58</span></span>
+　数学の宇宙に、何故にヴァレリイは魅力を見いだした。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">59</span></span>
+「トルストイ以来、二十世紀には精神の光が失われている……」<lb />
+　このヴァレリイの<span type="ruby"><span type="rb">寂寥</span><span type="rp">（</span><span type="rt">せきりょう</span><span type="rp">）</span></span>の前に一瞬<span type="ruby"><span type="rb">彳</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>もう。<lb />
+　そうしてこう言うこと。<lb />
+「ヴァレリイ、僕にはお前の手が見えすぎる」<lb />
+　精神の荒涼たる、生命の匂いなき風景の中で、「生命」を求めること。――あの、「救済」の願いは、「考える葦」に課された永遠の<span type="ruby"><span type="rb">劫罰</span><span type="rp">（</span><span type="rt">ごうばつ</span><span type="rp">）</span></span>であろうか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">60</span></span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+Allons, enfants de la patrie.<lb />
+Le jour de gloire est arriv<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />.<lb />
+</span>
+<lb />
+　革命の栄光は、すでにここにはなかった。しかし、僕の胸奥にも、あの高らかなマルセイエーズの合唱が波打っていなかったわけではない。僕が一歩踏み出すごとに、力強いルフランはまた新しく湧き上がるのであった。Aux armes citoyens ! と。<lb />
+　ああ、その懐しい声はどこに消えて行ったのだろう。今日、僕はもう聞かないのだ。いかなる激励の歌も、勝利の歌も。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">61</span></span>
+　デカダンスへの<span type="ruby"><span type="rb">悼歌</span><span type="rp">（</span><span type="rt">とうか</span><span type="rp">）</span></span>。――頽廃のほんとうの魅力は貴族でなければわからない。無情な二十世紀は、彼らの手からこの最後の麻薬を奪ってしまった。<lb />
+　このころ僕は、街頭で、これらのうらぶれた廃人が、飢えと寒さに<span type="ruby"><span type="rb">凍</span><span type="rp">（</span><span type="rt">こご</span><span type="rp">）</span></span>えて<span type="ruby"><span type="rb">茫然</span><span type="rp">（</span><span type="rt">ぼうぜん</span><span type="rp">）</span></span>と虚空をみつめている姿をよく見かける。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">62</span></span>
+　原罪への戦慄感。この十九世紀的話法はともかくとして、ボオドレェルの皮膚と、僕の皮膚とを比べて見よう。<lb />
+<lb />
+　リラダンの風貌と僕の顔とを見比べてみよう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">63</span></span>
+「われわれが『生きている』と感ずるためには、いささかでも『自我』の祭壇から発する自意識の眼を持たなければならぬ。人間とは、生命なき『精神の肉体』の冷酷な眼を、多少ずつ備えているところの生物である」という考えから、<lb />
+「最も強く『生きている』と感ずることは、最も強い自意識を所有することである。しかして最も強い自意識とは生命なき『自我』を完璧に、損わぬことである。それゆえに、人間は、全き死滅の中において、最も豊かに生命を感得する」という論理へ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">64</span></span>
+「虚無とは『生きている』と意識しないこと」<lb />
+　と定義した上でボオドレェルの<span rend="yokogumi">“Le N<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />ant”</span>への憧憬を想い出すこと。そうして次のように書いて見る。<lb />
+「ボオドレェルは完全な生命を憧れた」と。<lb />
+　カトリック教の原罪説を、自意識への<span type="ruby"><span type="rb">呪詛</span><span type="rp">（</span><span type="rt">じゅそ</span><span type="rp">）</span></span>とみなすこと。<lb />
+<lb />
+　仏教の<span type="ruby"><span type="rb">涅槃</span><span type="rp">（</span><span type="rt">ねはん</span><span type="rp">）</span></span>を想い起こす。<lb />
+<lb />
+　宗教は来世を説く。現世の「自我」をやさしく否定しながら。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">65</span></span>
+「ともあれ、僕は現在、ここに存在しているではないか」<lb />
+　時折、僕の脳裡にも忍びよる、かの<span rend="sesame_dot" rendition="em">永劫回帰</span>の妄想。<lb />
+<lb />
+　<span rend="sesame_dot" rendition="em">永劫回帰</span>の思想はツアラトストラが挑戦する最後の恐ろしい<span type="ruby"><span type="rb">峻嶮</span><span type="rp">（</span><span type="rt">しゅんけん</span><span type="rp">）</span></span>である。<lb />
+<lb />
+　意志――人為。われわれが欲する時インスピレーションはいつでもやってくる。ニーチェが、何故に永劫回帰説を作り出さねばならなかったか。ツアラトストラにとっては、これこそ、自我と現在との完全な意識であり「最高の勝利」、「ありとあらゆる征服の絶頂に立つ聖なる<span type="ruby"><span type="rb">恍惚</span><span type="rp">（</span><span type="rt">こうこつ</span><span type="rp">）</span></span>の一瞬」である。<lb />
+　永劫回帰説において、ニーチェの雄々しさを讃えよう。それと共に僕は、この思想が、彼の中に潜んでいたすべての不安と恐怖との爆発的開花だと言おう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">66</span></span>
+「神秘」を拒みつづけたあげくが、一つの「神秘思想」に至らずにおれないこと――この壮烈なナン・センス。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">67</span></span>
+　すべての思想は、それが「生きること」と結びつけられる時に、必ず宗教的形態をとるものである。そうしてまたその根底に信仰的要素を持たぬような思想は「生きる」人々にとって一顧の価値もないであろう。いかなる形にもせよ、信仰は常に人間の棲息する処に存在する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">68</span></span>
+　唯物論は決して生活の原理にはならない。しかし、これを<span type="ruby"><span type="rb">旗幟</span><span type="rp">（</span><span type="rt">きし</span><span type="rp">）</span></span>として行動する生活慾――この宗教には、<span type="ruby"><span type="rb">貪婪</span><span type="rp">（</span><span type="rt">どんらん</span><span type="rp">）</span></span>な悪魔が牙を隠している。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">69</span></span>
+　僕は<span rend="sesame_dot" rendition="em">身をもって</span>思考する。これほど確かなことはないのだ。すべての思想家――僕の中の思想家をも含めて――は僕の背後にしかおれない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">70</span></span>
+　宗教的にならないこと。「僕は『救済』などという怪け物に縁はない」これが、精神の厳粛な世界に通用する、明<span facs="../../../gaiji/1-85/1-85-31.png" rend="gaiji" rendition="img" source="※(「析／日」、第3水準1-85-31)" />な話法であり、確実な身元証明である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">71</span></span>
+　今日、「人間」性という言葉はきわめて<span type="ruby"><span type="rb">朦朧</span><span type="rp">（</span><span type="rt">もうろう</span><span type="rp">）</span></span>としたものになっている。十九世紀が生んだ不肖の長子はレアリスムと称する得体の知れぬ<span type="ruby"><span type="rb">反芻</span><span type="rp">（</span><span type="rt">はんすう</span><span type="rp">）</span></span>動物であり、これが人間性を濁らせてしまった。見たまえ、猫も杓子も「人間性」でなければ夜も明けない世の中ではないか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">72</span></span>
+「人間は万物の尺度である」<lb />
+　この一ギリシャ人の<span type="ruby"><span type="rb">箴言</span><span type="rp">（</span><span type="rt">しんげん</span><span type="rp">）</span></span>はヨーロッパ文明を花咲かせるとともに、その<span type="ruby"><span type="rb">桎梏</span><span type="rp">（</span><span type="rt">しっこく</span><span type="rp">）</span></span>ともなった。この標石に身をもってぶつかり、その彼方の土を踏んだ人間は、アルチュウル・ランボオただ一人である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">73</span></span>
+　人間は不断に変身する。それは常に動いている。<lb />
+　しかもこの変わりゆくものを見下ろして、これにいつも同じ「人間」という名前を与える者は、かの、縛られたプロメシウスである。<lb />
+　だれひとりとしてこの不遇な恩人の鎖を解いてやろうとする者はいない。<lb />
+　何故なら、プロメシウスが見えなくなったら、われわれは「人間」でなくなるかもしれない、というのが彼らの未練がましい弁解なのだ。<lb />
+　情深いランボオは、プロメシウスの鎖を断ち切った。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">74</span></span>
+　認識者たちは、<span rend="sesame_dot" rendition="em">仕方なしに</span>、重い<span type="ruby"><span type="rb">足枷</span><span type="rp">（</span><span type="rt">あしかせ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">牽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>きずって歩く。<lb />
+　彼らの中のプロメシウスは、苦しんでいるが、こいつがいてくれる間は安心できるというわけだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">75</span></span>
+　虚無と自然。――生命の豊かな流れ。<lb />
+<lb />
+　<span rend="yokogumi">“L'Orient de l'Occident”</span><lb />
+　これが詩人の夢である。<lb />
+<lb />
+「支那人の<span rend="sesame_dot" rendition="em">お面のような顔</span>」とルナアルは日記に書いた。<lb />
+　西洋人の自意識は、支那人の無表情な顔の中にある、「生命」の豊満を見て首をかしげる。<lb />
+<lb />
+　かつての愛読書。「論語」と「老子」<lb />
+　僕はつつましくお辞儀して立ち去ろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">76</span></span>
+　意識は無意識をさえ装いうる。<lb />
+　この事実に酔わないこと。<lb />
+　自意識の重圧から逃れようとする、流行のジャズ文学のことを言ってるのではないのだ。<lb />
+<lb />
+「西洋は東洋を征服した」<lb />
+　このような曖昧な言い方は、実証論者、歴史家だけがするものだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">77</span></span>
+「表現はどこまでも信用するな。沈黙を尊重しろ」<lb />
+　僕の精神の世界では、これが標準語であったが、外界に出て行った外交官は、次のような言語で話さねばならなかった。<lb />
+「『一人のモーツァルトの蔭には百人のモーツァルトが埋もれている』って！　僕らが一人のモーツァルトの作品しか受けとらない以上、百人もの知りもせぬやつらのことを考えてやる必要がどこにある」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">78</span></span>
+「自我」は全き孤独の中にある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">79</span></span>
+　ヨーロッパに寄せる悪魔の挽歌。<lb />
+「精神」はヨーロッパの守り神であり、同時に暴君である。ヨーロッパ人は二千年の間、ひたすらにこれを渇仰しながら、その苛酷な使役の下に<span type="ruby"><span type="rb">喘</span><span type="rp">（</span><span type="rt">あえ</span><span type="rp">）</span></span>いで来た。「精神」はヨーロッパ人に光栄を与え、その代償に血を要求した。彼らの祭壇の頂上には、死の匂いがする。<lb />
+　いつ、この「至上命令」のラッパは鳴り止むのか。恐らくそれはいまだ消え絶えていないだろう。十九世紀は来るべき死の予感に怖えつつも、なお伝統への誇りを守りつづけた。そして、年老いたヨーロッパは、疲れ果てた肉体を<span type="ruby"><span type="rb">鞭</span><span type="rp">（</span><span type="rt">むち</span><span type="rp">）</span></span>うって次の段階に足をかける。すると、その足からはまた血が流れるのだ。ヨーロッパが生まれた時、すでに、彼は「<span type="ruby"><span type="rb">磔刑</span><span type="rp">（</span><span type="rt">たくけい</span><span type="rp">）</span></span>になった神の子」の像を首にかけていたのだ。気の弱いやつらはこの亡霊を眺めて逆上する。<lb />
+　<span rend="sesame_dot" rendition="em">十字架</span>を見失う時、<span rend="sesame_dot" rendition="em">十字架</span>に反逆する時、<span rend="sesame_dot" rendition="em">十字架</span>の倒れる時、――それこそはヨーロッパ臨終の日である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">80</span></span>
+　泣きっ面は、いくらでもあり、どれも一様に醜いものだ。<lb />
+<lb />
+　僕はけっして涙を流すまい。<lb />
+　ハムレットは人前で、やさしく、涙を拭い隠した。<lb />
+<lb />
+　（注）　ノートの最初の原稿では次のようになっている。<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+≪Je me suis arm<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" /> contre la justice.<lb />
+「悲しい時は涙を流せ」<lb />
+これが世間で通用する「正義」である。<lb />
+僕はけっして涙を流さなかった。<lb />
+<lb />
+<lb />
+　ハムレットは人前でやさしく涙を隠したものだ≫ <lb />
+　著者の死後、刊行者は、著者の托して行った数葉の訂正追加の紙片を、受け取った。その一枚に次のように記されている<lb />
+≪エチュード<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />の後の方の一章を書き改める、すなわち<lb />
+　　　　　＊<lb />
+　Je me suis arm<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" /> au （<span rend="shatai">sic</span>） justice.<lb />
+「悲しい時は涙を流せ」<lb />
+これが世間で通用する「正義」である。<lb />
+<span rend="sesame_dot" rendition="em">この三行を全部抹殺して次のよう</span>にする。<lb />
+　　　　　＊<lb />
+泣きっ面は……（本文）≫ <lb />
+確かにこの章全体の改変の意向と思われるが、著者の疲労による記憶の誤りか特に「<span rend="sesame_dot" rendition="em">三行</span>」と指定してあるので正確を期して注記する。<lb />
+</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">81</span></span>
+　生きること、と、精神の国の住人であるということを両立させようとする、あの貪慾未練の逆妄の徒。<lb />
+　なべての、野心家、博識者、「生きている厭世家」たちよ。<lb />
+　僕は君たちの、傷だらけの醜い顔よりも、あの、悩みなき、育ちのいい人々の一群を好む。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">82</span></span>
+　僕は孤独であり、このことが僕をして何も言えなくする。<lb />
+　けれどももし、口を開くならこう語るであろう。<lb />
+「あらゆる思想家の中で、僕は厭世的な<span type="ruby"><span type="rb">喋舌家</span><span type="rp">（</span><span type="rt">ちょうぜつか</span><span type="rp">）</span></span>を最も排斥した」<lb />
+　さらにまた、僕が愛した人々に向かっては、<lb />
+「楽しく豊かに、暮らせますように」と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">83</span></span>
+　死ぬ前に、晴れ晴れとした顔で語ってみたいこと。<lb />
+「人生ってほんとうにいいものですねえ」<lb />
+　やつらは<span type="ruby"><span type="rb">詭弁</span><span type="rp">（</span><span type="rt">きべん</span><span type="rp">）</span></span>だと思う。<lb />
+　行動のみからひとを判断することはできない。自殺も一つの行動にすぎないではないか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">84</span></span>
+　あくまで明確に「精神の肉体」と「死」とを区別すること。<lb />
+「精神の肉体」は全く、個人のものであり孤独である。「死」とは遍在する普遍的観念である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">85</span></span>
+　Je suis belle, <span facs="../../../gaiji/1-09/1-09-74.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きO小文字)" /> mortels, comme le r<span facs="../../../gaiji/1-09/1-09-64.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きE小文字)" />ve d'un pierre.<lb />
+<span rend="jisage_18" rendition="div" style="margin-left: 18em">――Charles Baudelaire――</span>
+　いかにも、僕が<span type="ruby"><span type="rb">孜々</span><span type="rp">（</span><span type="rt">しし</span><span type="rp">）</span></span>として掘り出した「自我」と名づけ「精神の肉体」と名づけるものは純潔であった。<lb />
+　一切の許容の衣を追放すること、生命の臭味を拭いさること。<lb />
+<lb />
+　僕の精神の肌は、処女のように敏感だった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">86</span></span>
+「純潔」とは「死」への形容詞ではない。僕の瞳の確かさは、最後の宗教的慰安の曖昧を拒否する。<lb />
+<lb />
+「『純潔』が得られたか。お前の生は失われた、そしてお前の『自我』はもう存在しない。それが最後の『汚れ』を拭った姿を、お前が得た、といえるのか」<lb />
+　僕はつつましく人々に答えよう。<lb />
+「未来の結果を予定して、そこから現在の行動の価値を判断するのは、精神の真に厳しい眼にとって、『不誠実』と『卑怯』との同義語である。僕は勝利者の微笑を最後まで持たぬだろう。けれども僕はまじめな顔を持っている」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">87</span></span>
+　僕の法則は、全表皮を覆う、末端神経の敏感さに存する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">88</span></span>
+「創作に向かうものは死んでいなければならぬ」<lb />
+<lb />
+　この言葉を検討してみよう。<lb />
+　創作ということ、書くという仕事は、精神の厳粛な緊張した世界から、搾り出される生きようという意慾である。<lb />
+　より、精神の国の扉の閉りを固くすることが、より見事な作品を生む。<lb />
+<lb />
+　芸術家は、自己の作品の中に生きようとする。すなわち彼の制作への意志は、作品の裡に生命の幻を眺める。<lb />
+「…………死んでいなければならぬ」<lb />
+　この言葉は、芸術を愛するものには厳粛な響きがある。けれども僕には、なお甘いものだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">89</span></span>
+「新しきロマンチシズム」かつて僕が詩人であった時には、いつもこれが道標であったようだ。「新しい」とは僕の詩論においては「学而時習之」という論語の一句を、まじめに受けとることだったようだ。<lb />
+　僕の少年らしい魂は、厳粛であろうとした。「思無邪」の前に。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">90</span></span>
+　高島巌。この親切な、頑健な、それでいて気の弱い友が、今日僕の旅立ちについてこう尋ねた。<lb />
+「もう帰って来ないのか」<lb />
+「ああ、帰らないよ」<lb />
+（思い切って「死ぬのか」と聞けないので）<lb />
+「じゃあ、永久に vagabond（彼はこれを『バカポン』と発音する）のわけだね」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">91</span></span>
+　今日、節ちゃん、道ちゃん、和枝さん、――あの「生きている」人々と、僕と橋本とで、最後のあわただしい<span rend="sesame_dot" rendition="em">銀ぶら</span>をして別れた。<lb />
+　もう、すっかり、秋の匂いが街々にみなぎっていた。<lb />
+　夜の降りた戦災地区の、ひっそりとひろがった風景の中に、幾つかの燈火が浮き上がって、貧しいけれど暖い生活の営みを、やさしげな低音で歌っていた。<lb />
+<lb />
+　僕らを乗せて走る満員電車の、壊れた窓々を抜けて、涼しい風が吹きつづけた。<lb />
+　道ちゃんが、洋傘に<span type="ruby"><span type="rb">倚</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>って立ったまま、子供らしい顔で居眠りしているのを僕は見た。<lb />
+　僕の冷たい頬を撫でて、幾度も通り過ぎる夜風の一つ一つに、僕は、遠い幼年時の窓で、野原で、海のほとりで、あるいは学校の行き帰りにふと耳にした、あの微風の声のドレミファを嗅ぎ分けた。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">92</span></span>
+　僕が今までに受けた、あらゆる別れの言葉の中で、一番愉快だった、今日の道ちゃんの挨拶。<lb />
+「何と言ってお別れしたらいいかしら………………。<lb />
+　――今日はどうもご馳走さま」<lb />
+「早く、ピアノ、じょうずになってね」とは僕の挨拶。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">93</span></span>
+「愛とは許容に過ぎぬ」<lb />
+　この言葉を胸に隠して、僕は君たちの幸せな日々を祈り、その上で旅立とう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">94</span></span>
+　他人への批判。<lb />
+　レッテルを貼ることはできる。貼られたレッテルに気がついて、これを隠そうとすることは、気弱さのさせる行ないだが、自分が貼った他人の顔の上のレッテルを信ずることもまた、無知の気強さに過ぎない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">95</span></span>
+　ベルグソンの形而上学。<lb />
+「方法」を用いないことを方法とする思考――直観。<lb />
+　僕は命を賭けて直観する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">96</span></span>
+　自我に忠実であることが、結局、あらゆる表現活動を停止する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">97</span></span>
+　僕は一切の妥協を拒絶した。<lb />
+<lb />
+　精神の世界に住む「男の中の男」は、けっして<span type="ruby"><span type="rb">八百長</span><span type="rp">（</span><span type="rt">やおちょう</span><span type="rp">）</span></span>勝負はしない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">98</span></span>
+　過去の過ちを非難する虫けらども。<lb />
+　<span type="ruby"><span type="rb">傑</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>れた批評家は、相手といっしょに歩もうとするが、それは不可能である。「自我」はきっと、他人を容れる余地を持たぬ狭い道を行くから。<lb />
+　橋本は感傷的なこういう言い方をする。<lb />
+「僕は統さんのスピードに、ついて行けないんです」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">99</span></span>
+　僕の中に住むニーチェとランボオとの姿。<lb />
+<lb />
+　一、必然性という鎖に執着と嫌悪を<span type="ruby"><span type="rb">交々</span><span type="rp">（</span><span type="rt">こもごも</span><span type="rp">）</span></span>に感じながら、重い足をひきずって、それでも自分を励ましながら歩くニーチェ。<lb />
+　ランボオは、鎖の継ぎ目を一本ずつ断ち切って、転身する。<lb />
+<lb />
+　二、ニーチェは築き、ランボオは破壊する。<lb />
+　途中でニーチェは嫌気がさし、ランボオは未練が出る。<lb />
+<lb />
+　三、<span rend="keigakomi">スケッチ</span><lb />
+<lb />
+　正面に嶮しい坂。その果てに地平線が天空との境界を区切っている。一番手前に低くひろがる平原。ここで無数の民衆が種々雑多に<span type="ruby"><span type="rb">蠢</span><span type="rp">（</span><span type="rt">ひしめ</span><span type="rp">）</span></span>いている。坂の途中に幾つかの花園が交錯して散在し、各々に「芸術」「哲学」……の立て札が立っている。<lb />
+　　　　　　　――――○――――<lb />
+　坂がある。<lb />
+　かつてその天涯の彼方にある未知の風景をきわめようとして、孤独の影を地上に引きながら、この坂を登って行った二つの影があった。<lb />
+<lb />
+　頂上に<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>りついた時に、その一人は急にくるりと後ろ向きになって、坂の此方を見下ろした。彼の背後にある絶壁をしきりに気にしながら、来し方を眺め渡して溜め息をついた。しだいしだいに彼は自分の背後が恐ろしくなり、一方では自分の歩んだ足跡に、得意の感情が湧いて来た。そこで彼は物狂おしい発作的な叫び声をあげて、平原の民衆に向かって演説をはじめた。その長いお<span type="ruby"><span type="rb">喋舌</span><span type="rp">（</span><span type="rt">しゃべり</span><span type="rp">）</span></span>には、ずいぶんでたらめもまじっていたが、彼は止めるわけには行かなかった。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">――ニーチェ――</span>
+<lb />
+　他の一人は絶頂に足を止めると、昂然と頭をあげて断崖の彼方を一<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>みし、さてその上で口を結ぶと、黙って平原のほうに帰って来た。<lb />
+　　　　　　　――――○――――<lb />
+　僕は今、坂の向こうに横たわる風景が、いかなるものであったかを知っている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">100</span></span>
+　夢について。――夢の中では、過去もない、未来もない。存在するものはただ、われわれの周囲を取り囲む、一つの世界あるのみである。しかし、夢を見ている間は、われわれ自身は存在しない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">101</span></span>
+　天使は、いつも次のように誘いかける。<lb />
+　――過去と、未来とを亡ぼすのではなく、「過去」と「未来」という単語を放逐することです。新しい言語を創造することです。私たちは、夢の宇宙の奥底深く沈む、一粒の妖しい螢石とならねばなりません。<lb />
+　感覚を変えること、それが唯一の問題なのです。<lb />
+　人間は、狂人となることを恐れてはなりません。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">102</span></span>
+　人麿を、紫式部を、鴨長明を、西行を、芭蕉を、西鶴を、彼らのいずれをもわれわれは狂人と呼びはしまい。しかるに、彼らは昭和の日本人を指さして、異口同音に、「気狂い！」と喚くだろう。<lb />
+　発狂。――これこそは、文明人の特権、近代に寄せられた信篤き敬称、廿世紀の頭上に<span type="ruby"><span type="rb">燦</span><span type="rp">（</span><span type="rt">さん</span><span type="rp">）</span></span>として君臨する、光栄の月桂冠ではないか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">103</span></span>
+　スフィンクスを焼滅せよ。しからずんば、すべてをスフィンクスと化せ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">104</span></span>
+「影響を受けることを恐れてはならない」アンドレ・ジイドが言う。<lb />
+　ところでジイドよ、君はこうつけ加えるべきであったのだ。<lb />
+「――ただし生命に別状のない限り」と。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">105</span></span>
+　ランボオを読んで、「芸術という愚かな過失」などと、知ったかぶりをする嘘つきども。しかも彼らは芸術と別れることができないのだ。<lb />
+　ジイドよ。次のように言ってもよいではないか。<lb />
+「影響を恐れまい。――ただし芸術様々だけではご安泰に残りますように」<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">106</span></span>
+　人は、多くのさまざまな「御本尊」を自分の中に持っている。<lb />
+　僕は、僕のいかなる「御本尊」をも、裸で突き出すのだ。そのうちの一つとして、精神の枯れ果てた凍原に吹きすさぶ残酷な北風の寒さに耐えたものはなかった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">107</span></span>
+「ランボオは新しい詩の世界の扉をひらいた」と、虎の威をかる小狐どもが「尖端文学」の旗を掲げて、彼を先祖に祭りあげる。彼の詩は彼独りのものだ。ジャズ文学のお安さにかかわりはない。<lb />
+　ランボオは詩の世界の扉を閉じたのではなかったか。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">108</span></span>
+「私は『地獄の季節』に驚きはしない。私が驚くのはあのランボオですら、一冊の本を書かずにおれなかった、という事実なのだ」<lb />
+　清岡さんのノートはこうだったろうか。<lb />
+<lb />
+　僕はもう、こうした言い方が嫌いである。ランボオが書いたことは書いたことだし、僕らは「地獄の季節」一巻を与えられたのだから、これを読むだけだ。すんでしまったことをとやかく言わなくたっていい。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">109</span></span>
+　<span rend="yokogumi">“Une Saison en Enfer”</span><lb />
+　この小さな書物が僕の唯一のバイブルであった。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">一九四六・九・二七夜　於一高南寮二番寝室</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">110</span></span>
+　死。――秘密の扉はここにある。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">111</span></span>
+　新しいものは残されている。――死。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">112</span></span>
+　詩法。<lb />
+　亡びたる詩人はかく歌った。「吾人は<span type="ruby"><span type="rb">敲</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>く、死の門」<lb />
+　われわれの詩人はかく歌うであろう。「吾人は推す、死の門」と。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">Etudes　<span facs="../../../gaiji/1-13/1-13-23.png" rend="gaiji" rendition="img" source="※(ローマ数字3、1-13-23)" />　　於　赤城山</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_16" rendition="div" style="margin-left: 16em">
+かつてはおれの胸のなかにも　驕りの花はひらいていた。<lb />
+かつてはおれの額の上にも<lb />
+勇ましい流浪のあらしは吹き荒れていた、<lb />
+</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">（「永劫への旅」より）</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">１</span>
+　七夕の夜、涼み台のほとりで交された、ある家族の会話。<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　ごらん、ヴィルジニイ。あれが僕らのお星様なのだよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　じゃあ、ポオル。二人きりであそこまで行きましょうよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　どれ、私もそろそろ自分の星座に帰るとしよう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　わがままな子供たち――あなた方は、このお母さんを捨てて行くおつもりなの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　よく胸に手をあてて考えてみるんだね。お前たちは、現に、めいめいの星の上に暮らしてるのかも知らぬではないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｆ　いや、何といっても地球は地球じゃよ。ところで、<span type="ruby"><span type="rb">儂</span><span type="rp">（</span><span type="rt">わし</span><span type="rp">）</span></span>は残念なことに、儂の星のあかりを忘れてしまった……</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｇ　<span type="ruby"><span type="rb">俺</span><span type="rp">（</span><span type="rt">おれ</span><span type="rp">）</span></span>はあらゆる遊星の引力圏外に浮かんでいるんだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｈ　とにかく、地球を出てみてから、かってに口をききたまえ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｉ　探すのはそれからだわ。でもねえ、チルチル、お母さんが心配なさりはしないかしら。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｊ　君たちが、再びお母さんの家に戻ってくるようなことにならない、とだれにわかるものか。</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">２</span>
+　高崎に向かう汽車の窓で、居睡りして、こんな夢を見た。<lb />
+<lb />
+　……静かな夜明けの村はずれで、冷たい風がしきりに頬を吹いていた。僕は黙々と何かの感慨に<span type="ruby"><span type="rb">耽</span><span type="rp">（</span><span type="rt">ふけ</span><span type="rp">）</span></span>りながら、支那人部落の赤土道を歩いていた。<lb />
+「お早う、統さん。今ごろどこへ」<lb />
+　橋本と節ちゃんと道ちゃんとが、通りすがりに手をつないで、通せんぼをして見せた。<lb />
+「――いいえ！　行かなくちゃならないんです」<lb />
+　夢から醒めた人のように、僕はふと驚いた眼をみひらいて、自分の声の烈しさに気がついた。<lb />
+　そうして、森のほうにつづいた<span type="ruby"><span type="rb">畦道</span><span type="rp">（</span><span type="rt">あぜみち</span><span type="rp">）</span></span>を僕は独りで<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>って行った。考えごとをつづけながら。時おり、その<span type="ruby"><span type="rb">俯</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>むいた首を悲しげに振りながら。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">３</span>
+　僕の誠実さが僕を磔刑にした。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">４</span>
+　疲れた。あらゆる単語が、日ごとに僕の辞書から消えてゆく。かつて所有した壮麗な柔軟な文体。それをさえ抹殺した「天邪鬼」の見栄と自負。<lb />
+　あの日の僕はどこへ行ったのだろう。<lb />
+　今日の弱気が昨日への忘却を生む。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">５</span>
+　今朝、橋本のお母さんに受けた平凡な忠告。――今までに、これほど身にしみた言葉はない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">６</span>
+　今朝、眼をさました時、僕は自分の家にいるのだ、と思った。そして、僕はお母さんが側にいないかと、一瞬あたりを見廻したものだ。<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">九・二九</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">７</span>
+「文学者。――この下等な動物！」と語る時のルナアルの苦々しげな口振り。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">８</span>
+　気の毒なルナアルの笑顔の中にある泣きっ面。――僕の「天邪鬼」の哄笑と比べてみること。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">９</span>
+　僕は必然性に、<span type="ruby"><span type="rb">真向</span><span type="rp">（</span><span type="rt">まっこう</span><span type="rp">）</span></span>から、ひらき直る。<lb />
+　――貴様こそは敵だ！<lb />
+<lb />
+　するとやつらは、僕の憤怒に対して、ちょっと肩を<span type="ruby"><span type="rb">聳</span><span type="rp">（</span><span type="rt">そびや</span><span type="rp">）</span></span>かしてから、<span type="ruby"><span type="rb">鷹揚</span><span type="rp">（</span><span type="rt">おうよう</span><span type="rp">）</span></span>にこう<span type="ruby"><span type="rb">呟</span><span type="rp">（</span><span type="rt">つぶや</span><span type="rp">）</span></span>く。<lb />
+　――敵だからこそ俺にはよく理解できるのだ。君の背中に噛りついている「宿命」という俺の分身をね。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">10</span></span>
+　死ぬ前に、一人の友に別れを告げねばならぬ。<lb />
+　だめだ。ランボオは洗礼を受けに行ってしまった。やつはもういない。それにしても僕のロザリオはどこで失くしたのだろう。<lb />
+　――かまいはしない。クリスチャンのものはクリスチャンにかえせ。<lb />
+　Adieu ! Rimbaud, cher ami. Applaudis <span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" /> moi.<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">11</span></span>
+　そのころ、僕は大連にいた。清岡さんは、 Po<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />mes Barbares を勉強していたし、僕は僕でこっそり、サン・シモンとマルクスを読んでいた。<lb />
+　彼の家からの帰途、彼は頭上を指さして意地悪そうにこう語った。<lb />
+　――かつて満天の星くずを眺めて、あれが残らず金貨だったらなあ、と考えた男がいるそうだ。――俗悪なレアリストの夢とは何といやなものだろう！<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">12</span></span>
+　今朝、小屋の寝床で見た夢の一幕。<lb />
+<lb />
+　<span type="ruby"><span type="rb">荒寥</span><span type="rp">（</span><span type="rt">こうりょう</span><span type="rp">）</span></span>とした高原の、<span type="ruby"><span type="rb">涯</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>しない崖縁を、僕らは、どこへ行くとも知らず、とぼとぼと歩いていた。<lb />
+　その時、清岡さんがこう言った。<lb />
+「もう幾年になるだろう」<lb />
+　それは僕にもわからなかった。そうして、地上に躍る僕のみすぼらしい影法師は、昔ながらの道化者であった。<lb />
+　いつのまにか、遠くにアカシヤの並樹が匂い、山の形が寛城子のロシア寺院に変わっていた。<lb />
+　径があった。風が吹いて、朝露が舞い、風が吹いて、野原は一面の海となり、そうしてその風は、黄金の波のしぶきを僕らのほうにやさしく送っては、忍びやかに通り過ぎた。<lb />
+　僕らの歩いてゆく先々で、名もしらぬ花々が、<span type="ruby"><span type="rb">悪戯</span><span type="rp">（</span><span type="rt">いたずら</span><span type="rp">）</span></span>っ子らしく袖をひいてお辞儀した。皆、どこかで見た顔だったが、僕には思い出せなかった。<lb />
+　丘の上に赤屋根の家。煙突の向こうが海。そうして、今、清岡さんが、子供のように跳ね廻りながら、一散に小径の上を、こう怒鳴って駈けてゆく。――その足には、おどけ者の小犬が、じゃれついては、蹴っとばされて。<lb />
+「これこそ俺の故郷だ！　これこそ俺の故郷だ！」<lb />
+<lb />
+　そうして僕は眼がさめた。窓の外は、一面に朝の光が溢れていた。<lb />
+<lb />
+　何といういいお天気だろう！　橋本よ、君はまだ眠っている。きのうの悲しい夢のつづきを、僕の代わりに語ってやろうとでも言うような君の顔。<lb />
+　何も悲しむことはない。起きるのだ。<lb />
+　今日の僕の臆病なこと。日光までが、僕の掌には重たいのだ。風が幾度追い払ってくれても、必ずすぐに戻ってくる――忠実な太陽よ、豊かな太陽よ。<lb />
+　しばらく、あの、<span type="ruby"><span type="rb">白樺</span><span type="rp">（</span><span type="rt">しらかば</span><span type="rp">）</span></span>の林の上に、秋空に動かない雲の上に、僕の瞳を憩わせてくれ。僕にはもう、暖かさが耐えられない。この執拗な生命の糧を、だれに分け与えればよいのだろう。<lb />
+　ひ弱な魂はそっとあたりを見廻している。――足りないものはないのだ。皆が満足しきっている。草も、木も、黄色い木の葉も、家も、屋根も。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">13</span></span>
+　純粋な精神の沙漠において、枯れない樹木はない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">14</span></span>
+　孤独は夢想児を作る。しかし夢想児があまりに久しく孤独の中に住むと、それは夢を氷らせ、やがて亡ぼしてしまう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">15</span></span>
+　僕は、自分の中の<span rend="sesame_dot" rendition="em">夢想児</span>を責め<span type="ruby"><span type="rb">苛</span><span type="rp">（</span><span type="rt">さいな</span><span type="rp">）</span></span>んだ。つまり、窓を破壊したのだ。しかも僕の元来の<span type="ruby"><span type="rb">綽名</span><span type="rp">（</span><span type="rt">あだな</span><span type="rp">）</span></span>は「奇態な空想家」ではなかったか。詩を捨てた時以来、僕は自分の首から絶えず血が流れるような気がした。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">16</span></span>
+　僕が「夢」を憎悪し始めた端初。下関の林の家で。<lb />
+<lb />
+　――その風呂場の窓には、<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>の巣がかかっていた。外では昨夜来の<span type="ruby"><span type="rb">糠雨</span><span type="rp">（</span><span type="rt">ぬかあめ</span><span type="rp">）</span></span>が音もなく降りつづき、隣家の<span type="ruby"><span type="rb">煤</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>けた屋根の彼方に、蒼ざめた空の一片が夕闇の底深く静まりかえっていた。<lb />
+　僕は浴槽に身を沈めて、胸もとに揺れている水面の鈍い動きを見つめていた。ふと、窓の外を見上げた瞳に、蜘蛛の巣が覆いかぶさった――と思うと、それは魔法のように闇の奥に吸いこまれてしまった。……僕は急に寒気をおぼえて、身体をすくめたが、頬にまつわりつくほの白い湯気だけが、奇妙に生温い感じがした。その時、僕は何気なしに思い出したのだ、ずっと以前に読んだリルケの詩の一節を。<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+――あこがれとは波を棲家として<lb />
+時の中に故郷を持たないこと……<lb />
+</span>
+　そうして、湯上がりの肌を拭いている僕の心には、いつまでも、あの蜘蛛の巣の糸目が、鮮やかな銀色にこびりついていた。<lb />
+<lb />
+　それ以来、僕は「夢」と「回想」とが、堪らなく汚らわしい気がした。あの時の僕を考えて見れば、確かに、失意と、惨めさの意識との中で<span type="ruby"><span type="rb">呻吟</span><span type="rp">（</span><span type="rt">しんぎん</span><span type="rp">）</span></span>して、自らを<span type="ruby"><span type="rb">呪詛</span><span type="rp">（</span><span type="rt">じゅそ</span><span type="rp">）</span></span>する季節にいたのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">17</span></span>
+　言葉を捨てた僕が今、失った言葉を思い出そうと努力する。むだだ。所詮は詩人以下の感傷だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">18</span></span>
+　ああ、少年の日。――僕は机に向かっていた。書物の中に没頭して、何もかも忘れながら。――その時、お母さんが、僕の肩に手を置いたのだ。「もう夕御飯ですよ」って。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">19</span></span>
+　少年の日。――今の僕より、どれだけ勇ましかったことか。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+　十七歳の詩<lb />
+俺の涙が出ないから<lb />
+お前を一つひっぱたいて<lb />
+お前の落とす涙に酔おうと<lb />
+そう思って俺は――<lb />
+<lb />
+　十八歳の詩<lb />
+……………………<lb />
+ひとり怒りに耐え<lb />
+かの遠き秋をゆかむ<lb />
+…………………………<lb />
+</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">20</span></span>
+　詩人たちよ。記憶を捕える方法を知りたいのか。では、まず君の皮膚に傷をつけることだ。感冒にかかって、絶えず寒気をおぼえるようになることだ。<lb />
+　ほんの些細なことが、君を驚かせるだろう。木の葉の微かな戦ぎが、書物のページのふと落ちる音が、通りすがりの垣根で嗅いだ名も知らぬ花の匂いが、君の呼吸をとめてしまうだろう。どんなにわずかな扉の隙間からでも夜風は忍びこんで、君の傷口にしみわたるだろう。<lb />
+　思い出はどこにでもあり、夢はいかなる形にでもある。<lb />
+　僕は、紅茶一杯でどんな夢でも見ることができた。仲間から離れて鍵を下した一部屋で――僕の周囲をとり巻いていたのは、数百の書物と、汚れた白壁だけであった――黙って茶碗のスプーンを動かしている――この単調な動作の中から、僕の詩集が生まれたのだった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">21</span></span>
+　僕は異常な記憶力を備えていた。<lb />
+　しかし思い出は僕にとってこの上なく退屈なものであった。すなわち、僕は過去に向かって、忘却にも似た痴呆の眼をひらいていたのだ。僕は時おり、退屈の臥床から起き上がってペンをとったものだ。<lb />
+<lb />
+　今日、僕には思い出が退屈には感ぜられない。<lb />
+　恐らく、それと共に、今日の僕の記憶力も、臨終の床に夢を見る<span type="ruby"><span type="rb">老耄</span><span type="rp">（</span><span type="rt">おいぼ</span><span type="rp">）</span></span>れどもの<span type="ruby"><span type="rb">乾枯</span><span type="rp">（</span><span type="rt">ひから</span><span type="rp">）</span></span>びた脳髄と同じくらいに衰耗しているのに違いない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">22</span></span>
+　過去という、忘却の靄霧に包まれた森の奥深く迷いこんで、郷愁の涯ない小径を辿るわれわれの眼に、しだいにそのおぼろげな姿を、立ち<span type="ruby"><span type="rb">罩</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>めた霧の中から現わしてくる。黒々と濡れた樹々の幹。<lb />
+　光と闇との不思議な交錯が織り成す、あの懐しい人々の影。<lb />
+<lb />
+「窓蔭に流れる四季」――この、短かった僕の生涯の自叙伝によって、僕は、過去の事物と共に、文学にもまた訣別を告げたのではなかったのか。<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">九・三〇</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">23</span></span>
+　詩人。――僕は「社会」に飛び出した。文学史家の寝ぼけた目が、得意そうに見送って、こう呟いているのを冷笑しながら。――「屋根裏で、韻をひねくってる時代はもう過ぎたのさ」と。<lb />
+　いくらでも、だれにでも、己の身体を切り売りする――僕は気前のいい売笑婦だった。社会のあらゆる<span rend="sesame_dot" rendition="em">ごみ</span>溜に、僕は鼻面をつっこんだ。警察と、犬殺しが、僕の跡を躍起になって追い廻す――捕まるはずがあるものか、どこに寝ようと、ほっつこうと、僕はやっぱり<span rend="sesame_dot" rendition="em">屋根裏</span>に住んでいたのだ。けれどもその窓は高すぎた。神様よりもよく見えたのだ。お澄まし顔の紳士たち、挨拶じょうずの奥様方、は、僕の眼の下で慌てたが、けっして逃しはしなかった。<lb />
+　夜明けごとに、違った地角に姿を現わす、神出鬼没の暁の使者、季節の変わるたびごとに、新しい童話を乗せて渡ってくる異国の風、そうして粉雪の降る正月の晩、貧しい街々をめぐっては、子供たちの枕べに、やさしい初夢の唄を奏でる、僕は恵み深い訪問者、気軽な独り身の辻音楽師であった。<lb />
+<lb />
+　その夕べ、地獄の歌はもうなかったが、僕はジャズなどには目もくれなかった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">24</span></span>
+　けれども、僕は「屋根裏」を棄てたのだ。外に出れば寒かったが、乞食のまねはしなかった。思えばあの時の僕は勇ましかった。だが、結局は、新しい、前よりもけちな棲家に足をつっこんでいるではないか。<span type="ruby"><span type="rb">無垢</span><span type="rp">（</span><span type="rt">むく</span><span type="rp">）</span></span>の旅人になることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">25</span></span>
+　昨夜の夢で、僕はショパンになっていた。<lb />
+　雄々しい力強い第一弾。ショパンは今、はるかな回想の時間の突端に、立って、昂然と身ずまいする。<lb />
+　急に、こらえていた感慨の<span type="ruby"><span type="rb">堰</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>が切れたように、ショパンの右手は想い出の階段を駆け上がって、そこに一つの風景を眺めるのだ。<lb />
+　夕暮れの空の下にひっそりとまどろむ、奥深い木立に包まれた、とある郊外のとある庭園。やさしい微風と、葉ずれの音の合唱に和して、噴き上げの水がたえず規則正しい四分の三拍子でさらさらと流れつづけている。<lb />
+　そうして、その、暗い木蔭に、白い砂利道に、もう夜の降りかけた芝生の上に、忍びやかに笑いさざめきながら、幾組もの恋人たちの影が通る。それは通り過ぎて行く、ここの物蔭に立って見つめている、ショパンの<span type="ruby"><span type="rb">侘</span><span type="rp">（</span><span type="rt">わび</span><span type="rp">）</span></span>しい姿には気がつかずに。<lb />
+　失恋の<span type="ruby"><span type="rb">一時</span><span type="rp">（</span><span type="rt">ひととき</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">彳</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>むショパンの右手は、こうして、忘れ果てたあの懐しい情歓を奏でるのだ。<span type="ruby"><span type="rb">滾滾</span><span type="rp">（</span><span type="rt">こんこん</span><span type="rp">）</span></span>と絶え間なく流れ落ちる噴き上げの水の中に、華やかな虹色の水滴を転ばせながら。<lb />
+　淡々と高音部から、低音部へ。――だが、今日のショパンの姿勢の何と男らしいこと。いつの間にかあの夕暮れの風景も消えてしまった。彼の澄んだやさしい瞳は、無心に遠い空の青さをみつめている。――時おり、その暗い<span type="ruby"><span type="rb">睫毛</span><span type="rp">（</span><span type="rt">まつげ</span><span type="rp">）</span></span>の落とす影に、一瞬の悔恨をひらめかせながら。<lb />
+　もう一度、高音部から低音部へ。……そう、忘れるのだ……何もかも。……君の視線の爽やかなこと。……淡々と、すべてを忘れて……弾きたまえ、ショパン……つづけたまえ……そこで思想を途切らせてはいけない……そこで悲しくなってしまってはいけない。<lb />
+　さあ、もう一度、高音部から低音部へ。……つまずかないで……すべてのことを忘れつくして……ああ、だめだ、そこで夢を見ちまっては。――は、は、は、は、は。ショパン！　君はやっぱり感傷家だねえ。――いいよ、もういい。<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>めはしない。そうしてまた始めようではないか――最初に、力強く。男らしく。……もう、君のピアノの後の壁で、影のワルツが始まっている。僕らはそれを見ているのだ、愛らしい、つつましい、幾つかの影の動きを。<lb />
+<lb />
+　――さあ、高音部から低音部へ。……つまずかずに……流れるように……弾きたまえ、ショパン……つづけたまえ、ショパンよ……<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">26</span></span>
+　十月だ。幾度びこの声を耳にしたことだろう。橋本よ、散歩に出よう。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+年々歳々花相似。<lb />
+歳々年々人不同。<lb />
+</span>
+　今日、ショパンの杖の先は、ほんとうに気まぐれだ。右に左に、それは自由に振られながら、君の歩みを導いてゆく。そうして、ふと触れる路傍の小石の一つ一つに、その杖は、忘れられた過去の日の、思いがけない音色と<span type="ruby"><span type="rb">陰翳</span><span type="rp">（</span><span type="rt">いんえい</span><span type="rp">）</span></span>とを捉えるのだ。杖の音ははねかえって、八方に<span type="ruby"><span type="rb">谺</span><span type="rp">（</span><span type="rt">こだま</span><span type="rp">）</span></span>する。ショパンはその声の渡って行った遠くの丘に、森に、空に、地平に、雲の彼方に瞳をこらす。すると、声は再び帰ってくる。きっと、どれも失われずに、君の耳もとに、戻ってくる。…………<lb />
+　きょう、ショパンの散歩の杖の先は、ほんとうに気まぐれだ。けれどもそれは忠実だ。思いのままの方向に振られながらも、いつでも同じ一本の径を辿ってゆく。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">27</span></span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">有馬山いなの笹原風ふけばいでそよ人を忘れやはする</span>
+<lb />
+　<span type="ruby"><span type="rb">涯</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>しない「時」の海原を滑ってゆく人生という船の上に立って、われわれの眼は遠い過去の水脈の跡を追いかける。われわれはその一つ一つの懐しい波頭を見失うまいと努力する。けれども、船は動いている、われわれもまた動いている。無数の同じような波々は、絶えず眼前に展開し、起伏しては、すぐあの忘却の青一色の懐に呑みこまれてしまうのだ。<lb />
+　たえず動いているわれわれの身体と、止まろうとするわれわれの瞳との<span type="ruby"><span type="rb">醸</span><span type="rp">（</span><span type="rt">かも</span><span type="rp">）</span></span>し出すあの悩ましい相剋。――意識はそこで凝結して、あの底知れぬ蒼穹の奥深く、不思議な雲の一片となって昇華する。すると、その雲が風を呼ぶのだ。はるかな過去の水平線の彼方から、潮風がわれわれの頬に、もう忘れてしまった思い出の匂いを運んで来る。<lb />
+　その時、われわれの手は投げる。船尾のデッキから海面を見下しながら、親しい人々の名を呼びつづけては、幾つかの小石を投げこんでみる。<lb />
+　今、そこにわれわれの心がすでに見知っている、かの懐しい面輪がひろがるのだ。そして、もし、鋭い聴覚を備えた魂なら、小石の落ちた瞬間の水の下に、思いがけないある微かな、けれども確かな反響を聴きとるであろう。<lb />
+<lb />
+　幾度びか、僕の独り寝の夜の枕べに訪れて来たマルセル・プルウストのやさしい声が、今日この明るい十月の空の下で、あらゆる物の、ものかげに隠れては、僕を呼んでいる。<lb />
+　窓外を吹きすぎてゆく微風に、あそこの森の上に休んでいる日光に、このひっそりとした小屋の空気に、時おりきこえて来るだれかの<span type="ruby"><span type="rb">跫音</span><span type="rp">（</span><span type="rt">あしおと</span><span type="rp">）</span></span>に、そうしてこのエチュードを書いているペンの静かな響きに、僕はこれらの事物に秘められた、幼年時と少年時の印象を幾つでも指摘できるだろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">28</span></span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">O saisons, <span facs="../../../gaiji/1-09/1-09-74.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きO小文字)" /> ch<span facs="../../../gaiji/1-09/1-09-56.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きA小文字)" />teaux !</span>
+　このごろ、ランボオのこの詩を誦する時、決まって脳裡に浮かんでくる、もう一つの「城」の姿はこうだ。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span type="ruby"><span type="rb">鮒</span><span type="rp">（</span><span type="rt">ふな</span><span type="rp">）</span></span>ずしや彦根の城に雲かかる</span>
+<span rend="jisage_15" rendition="div" style="margin-left: 15em">――蕪村――</span>
+　僕の幼い魂が綴った城の形はどうだったろう。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+　…………………………<lb />
+夜明けの海はまだ暗く<lb />
+夢のなかに　幻の城は聳えていた<lb />
+　…………………………<lb />
+</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">29</span></span>
+　僕の育った植民地の街では、子供たちは祖国の姿を、両親の顔の中にみつける。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">30</span></span>
+　わが母。――忍従と諦めの瞳の奥に、寂しい微笑の影を宿した、典型的な封建時代の婦人。お母さんの亡霊が現われるのは、決まって僕が寝ている時だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">31</span></span>
+　黒船襲来。――紅毛人は僕の故郷の浜べをも脅かしたか。<lb />
+　ああ、この眼が醒めてくれなかったら！<lb />
+　所詮は愚痴だ。泣き言だ。それに、考えて見れば僕もまた、海の彼方の異国を欲情する子供の一人ではなかったのか。洋行の夢は破れ、新しい都会は破壊された。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">32</span></span>
+　失語症。――現在の脳の状態が進行すれば、僕は全く何も喋れなくなるに違いない。今の僕の語彙の貧弱なこと。<lb />
+　時おり、突っ拍子もない、すばらしい単語が浮かぶのに、次の瞬間には、自分にも何が何だかわからないのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">33</span></span>
+　絶えず自己を見つめる魂。かかる魂は存在しないし、人生においてはたえずわれわれは死滅し、再生しては変身してゆくものである。<lb />
+<lb />
+　ところが、自己を見失うことは僕には、「安慰」と「無知」との代名詞にすぎなかったし、僕の潔癖さはそれが汚らわしくてならなかったのだ。<lb />
+<lb />
+　僕も僕なりに、一つの<span rend="sesame_dot" rendition="em">変わらないもの</span>、を獲得しようという愚劣を犯したのに違いない。<lb />
+　しかし、今では僕は、幸いなことに、あの嘘つきの、<span type="ruby"><span type="rb">怯懦</span><span type="rp">（</span><span type="rt">きょうだ</span><span type="rp">）</span></span>の、ありとあらゆる「認識者」を無視できるのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">34</span></span>
+　僕はあらゆる批評を、専制を、自分と共に葬るのだ。<lb />
+<lb />
+　生きてゆく人々よ。どんなものであろうと各自の感受性を、尊重したまえ。<lb />
+　趣味の異なるということはいいものだ。<lb />
+　皆が、違った模様の布団の中で、違った顔をして、違った夢を見る。もし、似たような夢があったら、お互いに起き上がって、手を握り、さてその上で、顔を見合わせて苦笑いすることだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">35</span></span>
+　原口統三。――二十歳にして野心を喪失し、二十歳にして青春を喪失し、二十歳にして記憶力を喪失し、二十歳にしてありとあらゆるものを喪失し、ついに二十歳にして人生を喪失した男。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">36</span></span>
+　他人の毛を吹いて傷を見つけては自分を慰める中傷家。<lb />
+「君たちのいわゆる<span rend="sesame_dot" rendition="em">美しい</span>夢なんて、フロイドに説明させればこんなものさ」<lb />
+　僕はこうした人々の魂胆の醜さが見えすいている。<lb />
+<lb />
+　自分の空想を正当化そうとするロマンチストたち。<lb />
+「あるいは、フロイドのいうとおりかもしれない。しかし、人間が元来そんなものであるなら、何もわざわざそう言って見る必要はないじゃないか」<lb />
+　同時に僕には、こうした人々の怯懦と自慰とが見えすいている。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">37</span></span>
+　すべての「主義」は自己の正当化、弁解にすぎない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">38</span></span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">Il faut <span facs="../../../gaiji/1-09/1-09-64.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きE小文字)" />tre absolument moderne.</span>
+　身をもって、このランボオの一句のきびしさを理解したのは恐らく僕独りであろう。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">39</span></span>
+「太宰の弱さと強さ」<lb />
+　平等主義・ヒューマニスム・機械文明。――なるほど大衆は常に流行に乗るものだ。しかし、同時に大衆は、常になべての「主義」の<span type="ruby"><span type="rb">似而非</span><span type="rp">（</span><span type="rt">えせ</span><span type="rp">）</span></span>信者であり異端者である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">40</span></span>
+　科学――原始の率直さへ。<lb />
+　これも詩人の夢だ。<lb />
+　科学は自我主義の貪慾な表現である。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">41</span></span>
+「自我という『行動』もやはりばかなことの証拠である。そうやってすわったまま、生きて行けばいいじゃないか」<lb />
+　僕の「悪魔」が来てこう言った。僕はやつの血のめぐりの鈍さ加減を<span type="ruby"><span type="rb">嗤</span><span type="rp">（</span><span type="rt">わら</span><span type="rp">）</span></span>ってやった。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">42</span></span>
+　まだ血の気の多い橋本は政治とジャーナリスムに憧れを抱いている。<lb />
+　それがいいことだとも悪いことだとも言うまい。<lb />
+　感傷家の君に、果たして「泣き言」を口にせずに通せるだろうか。「政治」は「表現への不信」を見事に逆用する図太さと、テクニックの中にある。それは相手の攻撃をすべて無視して見せるだけの仮面を常に持たなければならない。<lb />
+<lb />
+　思想発表の確たる規準となるものが、一般に見当たらない時代には、政治家が幅をきかすのは当然のことである。しかし政治だけが「強い生き方」とは限らないのだ。黙々と機械と取っ組む一人の技師の姿を、君は、弱い生き方だと思うだろうか。<lb />
+　いずれにしても他人の思惑を無視するだけのものを所有しなければならぬ。<lb />
+<lb />
+　しかし、所詮政治は職業であるし、趣味に止まる。橋本の弱気が、政治家であることに虚栄心を持たないで行けるだろうか。<lb />
+<lb />
+　要するにこんなことを考えてやるのは、<span rend="sesame_dot" rendition="em">おせっかい</span>にすぎない。<lb />
+<lb />
+　<span rend="sesame_dot" rendition="em">年寄りの冷や水</span>はどこにでもある。<lb />
+　僕はまだ二十歳を越えていないのだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">43</span></span>
+　勝利者の凱歌をせせら笑う、<span rend="sesame_dot" rendition="em">沈黙の勝利</span>。<lb />
+　これが政治家の勝利の極限である。すなわち、政治を越えてしまった勝利である。<lb />
+<lb />
+　ところで僕は、あらゆる勝利を踏み蹂った。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">44</span></span>
+　思想と社会とのある所には必ず政治家が存在する。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">45</span></span>
+　政治家としてのハムレット。<lb />
+　彼は涙を拭って<span type="ruby"><span type="rb">颯爽</span><span type="rp">（</span><span type="rt">さっそう</span><span type="rp">）</span></span>と舞台に立つ。<lb />
+　さて幕が下りると、彼は楽屋に行ってさめざめと泣いた。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">46</span></span>
+　おお、何と政治家の多い世の中だ。<lb />
+　大学教授、ローマ法王、文壇の大家、田舎夫子、…………。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">47</span></span>
+「夢を見る者のみじめさ！」などと気の利いた泣き言を並べながらも夢を見つづけている幸福なやつら。こんな感傷家が、澄まし顔で後の「文壇の大家」となり「名批評家」でおさまる時の俗悪さかげん。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">48</span></span>
+　芸術の生涯に訪れてくる、あの「精神の危機」とボオドレェルが名づけた時期。<lb />
+　僕には「精神の危機」が不断に存在した。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">49</span></span>
+「病的なほど潔癖でありながら、そのくせ心の底では熱烈なロマンチスト」<lb />
+　これは中野が僕のために作ってくれた最後の名刺である。<lb />
+<lb />
+　中野君。僕の<span rend="sesame_dot" rendition="em">年寄りの冷や水</span>は、いつも、君の顔の中に点滅する「ともすれば涙ぐもうとする、ひ弱い、良家の子供」の、幸せな将来を祈っていたのだ。<lb />
+　そして、現代の日本ではもう忘れかけられた、かの「<span type="ruby"><span type="rb">嗜</span><span type="rp">（</span><span type="rt">たしな</span><span type="rp">）</span></span>みのいい<span type="ruby"><span type="rb">知識人</span><span type="rp">（</span><span type="rt">インテリ</span><span type="rp">）</span></span>」のにおいを君の裡に僕は発見した。<lb />
+　僕のボヘミヤン気質は、君とは違った感覚で、チエホフを懐しんだこともあった。洗煉とボン・サンス。――僕はやはり仏文の生徒だ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">50</span></span>
+　一高の生徒としての僕。――フランス語は優等生。操行は劣等生。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">51</span></span>
+　夢のうちの贅りの花のひらきぬるダリニの市はわが遊びどころ<lb />
+<span rend="chitsuki_11" rendition="div" style="text-align:right; margin-right: 11em">森　鴎外</span>
+　大連よ。アカシアの芳烈な花々に満ち溢れた六月の植民地よ。緑山の頂きには海風が舞い、高台の上では巨大な病院が健康な眠りを貪り、荷揚げ波止場は支那語の叫喚に包まれ、酒場の地下室からはロシア語の合唱が聞こえ、そうして、舗装道路の両側につつましく並んだ小綺麗な洋館の窓蔭では、黄色い皮膚をした知識人が、畳の上でドイツ語を読んでいる。<lb />
+　かつて、この港の棧橋の上に立って、僕の少年らしい魂は、遠い行く末を美しく夢みたのだった。<lb />
+　大連よ。<lb />
+　戦争が、お前と僕とを隔離した。けれども僕はお前のことを忘れていた。僕は勇ましい「駄々っ子」だった。<lb />
+　僕には「戦争」なども用はなかった。工場を怠け、学校はお留守にし、<span type="ruby"><span type="rb">鬢</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>を生やした憲兵の間抜けな眼を嘲っては、動こうともしない獣の足を引きずりながら、「新しい歌」を掠め歩いた。<lb />
+　僕は東京から一歩も出なかった。あの「観察」を唯一の文学の糧だと心得る、売文家・旅行者どもを軽蔑しながら。<lb />
+　それから僕は寄宿舎に閉じこもったのだ。仲間といっしょに働くことを拒絶し、僕は怠惰の椅子の上で数知れぬ「美」を創造した。<lb />
+　だれにも聞いてもらおうとも思わなかった。清岡さんはもういなかった。彼なら<span type="ruby"><span type="rb">讃</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>めてくれただろうに――君もやっと一人前に詩人になったね、と。<lb />
+<lb />
+　そうして僕は惜しげもなく筆を抛った。あれは、今年の春だったかしら、僕は「詩人」に倦き倦きしたのだ。もはや「古代」は懐しいとも思わなかった。<lb />
+<lb />
+　大連よ。今、僕の疲れた魂がお前の顔を思い出す。そして失われてしまった僕の豊かな「詩人の辞書」を懐しむのだ。今の弱気な僕の手に月並みな泣き言以外に何が書けるだろうか。<lb />
+　かつてあらゆる「比喩」と「まね言」を軽蔑した僕、あの時の僕はどこへ行ったのだろう。<lb />
+　表現を破壊した僕に、表現が戻ってくるわけはない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">52</span></span>
+　心の奥を探ってみろ。やはりほんとうは懐しいものは一つだってないのだ。僕の周囲は相も変わらぬ「異境」ばかりだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">53</span></span>
+　サント・ブーヴはもう古い。表現はあくまで表現にとどめるべきだ。何故なら僕らの自意識は、どんな、まじめな顔だって偽り装うことができるから。<lb />
+　批評家よ。君は、ホーマーの「イリヤッド」から彼の私生活を計算できるか。フランソア・ヴィヨンだって、彼の詩は、詩として、別にたてまつるなり、葬るなりするのが当然だ。<lb />
+　批評はどこまでも正確でなくてはならぬ。臆測はどこまでも臆測である。ラ・ロシュフウコオの時代は過ぎた、と僕は手紙に意地悪く記したものだ。<lb />
+<lb />
+「古典とは、作者の伝記から独立して提出されるに耐えるところの作品である」<lb />
+　こう定義して見よう。正直な文学少年が、ある種の古典を少しもおもしろいと思わないのはもっともだ。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">54</span></span>
+　詩とは――夢の解体そのものが、ある律動の建設となることであり、<span type="ruby"><span type="rb">観念</span><span type="rp">（</span><span type="rt">イデー</span><span type="rp">）</span></span>の分析そのものが、ある音楽の構成となることである。<lb />
+　思えば、僕が「詩」を離縁した時、すでに僕は「死」との婚約を成就していたのではなかったのか。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+おお、人生、――この、孤独なる詩、この知られざる記念碑よ！　お前の冷ややかな石の上に、二十の春秋を刻み終えて、僕は今、立ち去るのだ。<lb />
+</span>
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">55</span></span>
+　さて今日、僕はいかなる記念碑とも<span type="ruby"><span type="rb">関</span><span type="rp">（</span><span type="rt">かかわ</span><span type="rp">）</span></span>りはない。<lb />
+　　　　　＊<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span target="ltr">56</span></span>
+「表現は所詮自己を許容する量の多少のあらわれにすぎぬ」<lb />
+「誠実さは常に全き孤独の中にある」<lb />
+　この<span type="ruby"><span type="rb">箴言</span><span type="rp">（</span><span type="rt">しんげん</span><span type="rp">）</span></span>の前に、謙虚であろう。<lb />
+　それはこのエチュードを止めて抛り出すことだ。そして、僕をも含めてすべての人に貼りつけたレッテルをはがしてしまうことだ。<lb />
+　僕はもう自分を誠実であったとも言うまい。<lb />
+　沈黙の国に旅立つ前に、深く謝罪しよう。<lb />
+「僕は最後まで誠実ではなかった」と。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">一九四六・十・一　　赤城山にて</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

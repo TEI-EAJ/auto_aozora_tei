@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>奇談クラブ〔戦後版〕</title>
+        <author>野村胡堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2015-02-22">作成</resp><resp /><note>
+<lb />
+底本：「野村胡堂伝奇幻想小説集成」作品社<lb />
+　　　2009（平成21）年6月30日第1刷発行<lb />
+底本の親本：「代作恋文」アポロ出版社<lb />
+　　　1948（昭和23）年10月<lb />
+初出：「月刊読売」<lb />
+　　　1947（昭和22）年4月<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：門田裕志<lb />
+校正：阿部哲也<lb />
+<date when="2015-02-22">2015年2月22日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>阿部哲也</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>奇談クラブ〔戦後版〕</title><author>野村胡堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">プロローグ</span></span></span>
+<lb />
+　小説家<span type="ruby"><span type="rb">大磯虎之助</span><span type="rp">（</span><span type="rt">おおいそとらのすけ</span><span type="rp">）</span></span>は、奇談クラブのその夜の話し手として、静かに壇上に起ちました。<lb />
+　まだ三十を幾つも越していない<span type="ruby"><span type="rb">筈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>ですが、<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>と頃人気の波に乗って、文壇の一角から、その同志達に号令をかけていただけに、なんとなく老成した感じの、やや旧式な美成年でした。<lb />
+「これは私の友人の経験した話で、決して大衆小説の筋のように、奇っ怪なものではありませんが、この少しばかりロマンティックな話の中から、人間の心の奇怪至極な動きと、花恥かしい処女の成し遂げた、驚くべき恋の冒険の醍醐味を味わって頂き<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>いと思います」<lb />
+　大磯虎之助は、こう言って、さて話の本筋に入ったのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">一</span></span></span>
+<lb />
+　若い作家<span type="ruby"><span type="rb">東野南次</span><span type="rp">（</span><span type="rt">とうのなんじ</span><span type="rp">）</span></span>は、文壇に割拠するいろいろの垣から閉め出しを食って、すっかり原稿が売れなくなってしまいました。<lb />
+　一つはこの人の持っている新<span type="ruby"><span type="rb">浪漫</span><span type="rp">（</span><span type="rt">ろうまん</span><span type="rp">）</span></span>主義が、激しい文壇の思想の動きから、おき去りにされたせいもあったでしょう。とも<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>、明日のパンに困っては、売る<span type="ruby"><span type="rb">当</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>もない原稿を書いて、運の<span type="ruby"><span type="rb">賽</span><span type="rp">（</span><span type="rt">さい</span><span type="rp">）</span></span>の目が<span type="ruby"><span type="rb">此方</span><span type="rp">（</span><span type="rt">こっち</span><span type="rp">）</span></span>へ廻って来るのを待っているわけにも参りません。<lb />
+　そこで考えたのは、筆の立つのを資本に、代作業をやって見ようということでした。既に大正の始め頃、当時の左翼作家の長老<span type="ruby"><span type="rb">堺枯川</span><span type="rp">（</span><span type="rt">さかいこせん</span><span type="rp">）</span></span>が「売文社」というのを起して、あらゆる文章の代作の<span type="ruby"><span type="rb">需</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>めに応じたことがありますが、東野南次の代作業は、そんな大げさなものではなく、銀座裏に小さいビルディングを持っている友人を口説いて、五階の<span rend="sesame_dot" rendition="em">てっぺん</span>の小さい物置小屋を一つ借り受け、そこにテーブルと椅子を持ち込んで、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+　代作業<lb />
+研究論文から小説まであらゆる代作の<span type="ruby"><span type="rb">需</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>めに応ず<lb />
+わけてもあなたの恋人に送る手紙は最も効果的に代作いたします<lb />
+</span>
+<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">東野南次</span>
+<lb />
+　こういった奇抜な看板を出したのです。<lb />
+　さて東野南次は、弁当と魔法ビンのお茶と、<span type="ruby"><span type="rb">煙草</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>と新聞と、商売用の原稿用紙と万年筆を<span type="ruby"><span type="rb">持込</span><span type="rp">（</span><span type="rt">もちこ</span><span type="rp">）</span></span>んで、早速<span type="ruby"><span type="rb">翌日</span><span type="rp">（</span><span type="rt">あくるひ</span><span type="rp">）</span></span>からくだんの事務所に出張しましたが、朝から夕刻まで頑張っていても、客は一人も来てはくれません。<lb />
+　東野南次という名前を見たら――という、多少のうぬぼれもあったのですが、この種の商売が<span rend="sesame_dot" rendition="em">ヤミ</span>屋の食料品のような、簡単に客を呼べるものでないことは、第三者から見ると、あまりにも明らかなことです。<lb />
+　新聞を精読して、煙草を吸って、魔法ビンのお茶を空っぽにして、ラッシュ・アワーの殺人的な混雑電車で、郊外の巣に帰る、――こういった、平凡無事な、そして限りなく退屈な日が幾日か続きました。が、いつまで経っても、博士論文の代作を頼みに来る者もなく、懸賞小説の応募作品を書いてくれといって来るものもありません。<lb />
+　一ヶ月程たって、東野南次の収入の総計は、<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>んと金一円五十銭也と、干し<span type="ruby"><span type="rb">藷</span><span type="rp">（</span><span type="rt">いも</span><span type="rp">）</span></span>が三<span type="ruby"><span type="rb">片</span><span type="rp">（</span><span type="rt">きれ</span><span type="rp">）</span></span>也、これはビルディングの<span type="ruby"><span type="rb">小母</span><span type="rp">（</span><span type="rt">おば</span><span type="rp">）</span></span>さんに頼まれて、北海道にいる<span type="ruby"><span type="rb">悴</span><span type="rp">（</span><span type="rt">せがれ</span><span type="rp">）</span></span>へ書いた手紙のお礼だったのです。<lb />
+　部屋代がただでも、これでは電車賃にもなりません。東野南次もいよいよ<span type="ruby"><span type="rb">此</span><span type="rp">（</span><span type="rt">この</span><span type="rp">）</span></span>商売を<span type="ruby"><span type="rb">止</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>して、明日からヤミ屋にでもなろうかと決心した時でした。<lb />
+　トン、トンと遠慮勝に<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>を叩く音が聴えるではありませんか。<lb />
+　東野南次は、あわてて<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">かじ</span><span type="rp">）</span></span>りかけの干し藷を<span type="ruby"><span type="rb">衣嚢</span><span type="rp">（</span><span type="rt">ポケット</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">押込</span><span type="rp">（</span><span type="rt">おしこ</span><span type="rp">）</span></span>んで、グイと反り身になると、<lb />
+「カム・イン」<lb />
+　と英語でやったものです。<lb />
+「御免遊ばせ」<lb />
+　<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>がスーと開いて、恐る恐る半身を現わしたのは、――東野南次、危く三寸の息の根が止まるところでした。<lb />
+　窓から<span type="ruby"><span type="rb">真</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>っ<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>ぐに受けた光線に浮き上って、それは実にパッと咲いたような美しい婦人だったのです。最初東野南次の意識したのは、全体の調和から来る、微妙な美しさだけでしたが、やがてそれは、二十二三歳の初夏らしい軽やかな洋装をした婦人で、淡い青磁色――あの<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>青磁という品の良い色をした服装と、健康そうな薄桃色の皮膚の色とが、よく調和していることや、表情的な小さい唇の線や、昔夢二が好んで描いた、少し尻さがりの大きい眼などが、一つ一つ恐ろしい強烈な印象で、東野南次の記憶に焼き付いていくのです。<lb />
+「あの――」<lb />
+「まず、お通り下さい、私が東野南次ですが」<lb />
+　南次はあわて気味に<span type="ruby"><span type="rb">椅子</span><span type="rp">（</span><span type="rt">いす</span><span type="rp">）</span></span>をすすめて、<span type="ruby"><span type="rb">兎</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>にも角にもこの素晴らしいお客様と相対しました。<lb />
+「あの――」<lb />
+　若い女客は、手提袋から可愛らしいハンケチを出して、それをまさぐりながら、<span type="ruby"><span type="rb">暫</span><span type="rp">（</span><span type="rt">しば</span><span type="rp">）</span></span>らくは<span type="ruby"><span type="rb">切出</span><span type="rp">（</span><span type="rt">きりだ</span><span type="rp">）</span></span>し兼ねている様子です。<lb />
+　それと相対して掛けた東野南次は、その言葉の続きを待つように、実は客の美しさを享楽しておりました。ためらい勝ちな風情や、自分を勇気づけようとしている努力の表情など、<span type="ruby"><span type="rb">活々</span><span type="rp">（</span><span type="rt">いきいき</span><span type="rp">）</span></span>としている癖に<span rend="sesame_dot" rendition="em">いじらし</span>くて、それはこの上もなく魅力的なものです。<lb />
+　<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かで見たことのあるような――東野南次はフトそんな事を考えておりました。表情にも物いいにも、何んの技巧的なところの無いのを見ると、<span type="ruby"><span type="rb">勿論</span><span type="rp">（</span><span type="rt">もちろん</span><span type="rp">）</span></span>映画女優や踊り子ではありません。<lb />
+　どうかしたら、<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かで講演した時、聴衆の最前列にいて、一番熱心に自分の話を聴き入っていた、美しい処女がそれでは無かったか<span type="ruby"><span type="rb">知</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>ら――南次はフトそんな事も考えましたが、<span type="ruby"><span type="rb">素</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>より確かな記憶があってのことではありません。<lb />
+「あの――手紙を書いて頂けませんでしょうか」<lb />
+　若い女は<span type="ruby"><span type="rb">到頭</span><span type="rp">（</span><span type="rt">とうとう</span><span type="rp">）</span></span>切り出しました。そういった途端に、心持ポーと頬を染めて、「鼻白む」という古い言葉の活々とした実例を南次は見たような気がしました。<lb />
+「え、お易い御用で、――で、<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>んな手紙を書けば<span type="ruby"><span type="rb">宜</span><span type="rp">（</span><span type="rt">よろ</span><span type="rp">）</span></span>しいのでしょう」<lb />
+　東野南次は精一杯事務的な調子で、用意したレター・ぺーパーを<span type="ruby"><span type="rb">取出</span><span type="rp">（</span><span type="rt">とりだ</span><span type="rp">）</span></span>して、愛蔵のウォーターマンのキャップを取りました。<lb />
+「それが、あの――」<lb />
+　若い女客は又躊躇の虫に取付かれましたが、暫らくすると、思い切った調子で、<lb />
+「――今日<span rend="sesame_dot" rendition="em">はからず</span>もお目にかかって嬉しかったということを書いて頂き度いんです」<lb />
+　ただそれだけの事を云うのです。<lb />
+「たったそれだけで――」<lb />
+「それから、日頃尊敬――いえ、お慕い申し上げている<span rend="sesame_dot" rendition="em">あなた</span>様と、短い間でもお話の出来たのが、どんなに嬉しかったかということ――」<lb />
+　女の言葉は<span type="ruby"><span type="rb">漸</span><span type="rp">（</span><span type="rt">ようや</span><span type="rp">）</span></span>く滑らかになりました。<lb />
+「それから――」<lb />
+「それだけで御座いますわ」<lb />
+「それ位のことでしたら、<span rend="sesame_dot" rendition="em">あなた</span>が御自分でお書きになった方が、先方もお喜びでしょうが――」<lb />
+　東野南次はツイ商売気を離れて、こんな忠告をして見たくなるほど、相手は<span rend="sesame_dot" rendition="em">いじらし</span>く痛々しかったのです。<lb />
+「でも、私は字も下手ですし、文章も書けません。それに、<span type="ruby"><span type="rb">極</span><span type="rp">（</span><span type="rt">きま</span><span type="rp">）</span></span>りが悪くて、とても書けそうもないんですもの」<lb />
+　女はそういって、本当に極り悪そうに小首を傾けるのでした。<lb />
+「暫らくお待ち下さい、直ぐ出来ますから」<lb />
+　東野南次はそう言いながら、古いギシギシする廻転椅子を窓の方に向けて、出来るだけ慎重に、ロマンティックに、そして<span rend="sesame_dot" rendition="em">ういうい</span>しく、ほのかな恋を匂わせながら、そのくせ表面は事務的な響きを持つように、書きも書いたり、実に二枚半という長文を書いてしまいました。<lb />
+「こんなことで<span type="ruby"><span type="rb">如何</span><span type="rp">（</span><span type="rt">いかが</span><span type="rp">）</span></span>でしょう」<lb />
+　<span type="ruby"><span type="rb">差出</span><span type="rp">（</span><span type="rt">さしだ</span><span type="rp">）</span></span>した三枚のレター・ぺーパーを、女客は一気に黙読しております。丸いあごが小刻みに動いて、眼が上から下へ上から下へと走るうち、両頬が次第に上気して、可愛らしい<span type="ruby"><span type="rb">耳朶</span><span type="rp">（</span><span type="rt">みみたぶ</span><span type="rp">）</span></span>が――、<lb />
+「まア、素的ですわ」<lb />
+　読み終って上げた女の眼には、何んと涙さえ浮んでいるではありませんか。<lb />
+「お気に入りましたか」<lb />
+　東野南次は筆を<span type="ruby"><span type="rb">執</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>ることを覚えてから、此時ほど<span type="ruby"><span type="rb">酬</span><span type="rp">（</span><span type="rt">むく</span><span type="rp">）</span></span>いられた仕事をした事は無かったような気がしました。<lb />
+「署名をして下さいませんか、――<span type="ruby"><span type="rb">幽里子</span><span type="rp">（</span><span type="rt">ゆりこ</span><span type="rp">）</span></span>と――幽は<span rend="sesame_dot" rendition="em">かすか</span>という字、里は<span rend="sesame_dot" rendition="em">さと</span>という字、宛名は要りません、私が書きますから」<lb />
+　女客――幽里子は、三枚の手紙を丁寧に畳むと、手提袋から出した可愛らしい封筒に入れて、静かに<span type="ruby"><span type="rb">立上</span><span type="rp">（</span><span type="rt">たちあが</span><span type="rp">）</span></span>りました。そして、<lb />
+「あの、お代は？」<lb />
+　と極り悪そうに付け加えるのです。<lb />
+「それには及びませんよ、口開けですから」<lb />
+　東野南次があわてて手を振りましたが、<lb />
+「でも、<span type="ruby"><span type="rb">少</span><span type="rp">（</span><span type="rt">すくな</span><span type="rp">）</span></span>いかもしれませんが――」<lb />
+　幽里子はそういって、百円札を一枚、使い残りのレター・ぺーパーの下へ押込むように、身をかえしてヒラリと<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>の外へ出たのです。<lb />
+　残るのは、ほのかな薫風だけ、東野南次は夢見るような心持でそれを見送りました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">二</span></span></span>
+<lb />
+　なんということだ、――東野南次は何べんかこう繰り返しながら、狭い部屋の中をグルグル廻っておりました。<lb />
+　その<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>る日も、そのまた<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>る日も、最初の女客幽里子の素晴らしい出現の記憶と、二度とは来そうもない失望感とに<span rend="sesame_dot" rendition="em">さいなま</span>れて、南次は動物園の猛獣のように、狭い部屋の中を――何やら期待に燃えながら、一日一パイ歩き続けていたのです。<lb />
+　が、それから七日目、この期待は見事に酬いられました。<lb />
+「御免遊ばせ」<lb />
+　あの爽やかな声が、またもや<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>の外に立ったのです。<lb />
+「どうぞ」<lb />
+　今度はもう英語も出ませんでした。<span type="ruby"><span type="rb">飛付</span><span type="rp">（</span><span type="rt">とびつ</span><span type="rp">）</span></span>くように<span type="ruby"><span type="rb">此方</span><span type="rp">（</span><span type="rt">こっち</span><span type="rp">）</span></span>から<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>を開けると、先の日と同じく<span type="ruby"><span type="rb">古雅</span><span type="rp">（</span><span type="rt">こが</span><span type="rp">）</span></span>な青磁色の洋装で、幽里子はニッコリ立っているではありませんか。<lb />
+「また参りました」<lb />
+「え、幾度でも」<lb />
+　そんな他愛もないことをいって、二人は貧しい卓を挟んで腰をおろしておりました。<lb />
+「またお願いに参りましたが」<lb />
+　幽里子はさすがに恥かしそうですが、その恥かしさをなだめるように、<lb />
+「喜んでお役に立ちましょう――この間のお手紙、反響がありましたか」<lb />
+「ええ」<lb />
+　幽里子は<span type="ruby"><span type="rb">艶爾</span><span type="rp">（</span><span type="rt">えんじ</span><span type="rp">）</span></span>として、自分の胸を抱くのです。<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>に秘めてあるという意味でしょう。可愛らしい真珠色の指に透いて、乳の<span rend="sesame_dot" rendition="em">ふくらみ</span>が、ほのかに青磁色の上着を匂わせます。<lb />
+「今度はどんな事を書きましょう？」<lb />
+　東野南次は万年筆を執りました。<lb />
+「改めて書くことは無いんですけれど――もう一度近いうちにお逢いしたいということと、私の家へお迎え出来たら、どんなに仕合せだろうということと――それから、それから――」<lb />
+「それから？」<lb />
+「――毎日お目にかかっていたいということと」<lb />
+　幽里子の唇は激情に<span rend="sesame_dot" rendition="em">ふるえ</span>るのです。恋する<span type="ruby"><span type="rb">処女</span><span type="rp">（</span><span type="rt">おとめ</span><span type="rp">）</span></span>心に、何んの用事も理由もあるものでしょう。<lb />
+「宜しい、適当に書いて見ましょう。新聞でも御覧になって、暫くお待ち下さい」<lb />
+　東野南次はそう言って、憑かれた者のように筆を走らせました。素晴らしいインスピレーションです。<lb />
+　<span type="ruby"><span type="rb">先</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>ず初夏の風物から書き起して、つつましい恋心を<span type="ruby"><span type="rb">托</span><span type="rp">（</span><span type="rt">たく</span><span type="rp">）</span></span>した、詩のような文章が実に五枚、<lb />
+「これで<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うでしょう」<lb />
+　差出したのを読んでいく幽里子は、本当に泣いておりました。<lb />
+「まア、結構ですわ。<span type="ruby"><span type="rb">勿体</span><span type="rp">（</span><span type="rt">もったい</span><span type="rp">）</span></span>ないほどで」<lb />
+「<span type="ruby"><span type="rb">飛</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>んでも無い、あなたのお役に立てば幸せですよ」<lb />
+「<span type="ruby"><span type="rb">有難</span><span type="rp">（</span><span type="rt">ありがと</span><span type="rp">）</span></span>う御座います。では、少しばかりできまりが悪いのですけれども」<lb />
+　幽里子は又百円札を一枚、卓の上に押しやって、留める間もなくサッと部屋の外へ出てしまいました。<lb />
+　後に取残された東野南次の興奮と失望と、幸福と不幸とを<span rend="sesame_dot" rendition="em">ごっちゃ</span>交ぜにした心持は、今度は四日しか続きませんでした。<lb />
+　五日目にはまた幽里子の訪問を受けて、三本目の手紙を書いたのです。<lb />
+　それから三日目には四本目、次の二日目には五本目、――その<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span><span type="ruby"><span type="rb">毎</span><span type="rp">（</span><span type="rt">ごと</span><span type="rp">）</span></span>に幽里子の注文は熱烈になり、東野南次の筆も脂が乗ってきました。<lb />
+　六本目あたりからはもう、幽里子も遠慮の無い調子で、処女の<span type="ruby"><span type="rb">嗜</span><span type="rp">（</span><span type="rt">たしな</span><span type="rp">）</span></span>みを失わない程度の注文をつけ、東野南次もまた、自分の恋文でも書くような調子で、精一杯のものを書いていたのです。<lb />
+　十本目の手紙を書いた日、さすがの東野南次も、幽里子の後をつけて見ようかという気になりました。今までは依頼者への信用を考えてきた南次ですが、幽里子の調子があまりに熱烈になって、このまま捨ておくと<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うなるかわからない点まで来ると、社会人として東野南次の常識が後を<span rend="sesame_dot" rendition="em">つけ</span>て行って、それとはなしに保護するか、母か姉でもあるなら注意してやるのが正しい道ではあるまいかといった、<span type="ruby"><span type="rb">叔父</span><span type="rp">（</span><span type="rt">おじ</span><span type="rp">）</span></span>さん臭い心持にもなるのでした。<lb />
+　実はそんな世間並な年輩染みた<span type="ruby"><span type="rb">考</span><span type="rp">（</span><span type="rt">かんがえ</span><span type="rp">）</span></span>に名を仮りて、幽里子の家と素性とを突き留めたかったのかも知れません。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">三</span></span></span>
+<lb />
+　帽子を取って、一歩廊下に<span type="ruby"><span type="rb">踏出</span><span type="rp">（</span><span type="rt">ふみだ</span><span type="rp">）</span></span>した東野南次は、ギョッとして立止りました。<lb />
+　目の前には二十五六の小意気な青年――翻訳していえば<span rend="sesame_dot" rendition="em">ヨタ</span>者らしい男が、青白い緊張した顔に、チュウブから押出したような笑を浮べて、<span rend="sesame_dot" rendition="em">いんぎん</span>に小腰を屈めているのです。<lb />
+「君は？」<lb />
+「東野さんですね。ちょいと話があります、手間は取らせない、お顔を」<lb />
+　青年は東野南次を押し戻すように部屋の中へ入って、ピタリと後ろ<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>を閉めました。<lb />
+「無礼では無いか、――君は何をしようというのだ」<lb />
+　東野南次は引け目を見せまいとするように、ツイ痩せた肩を張ります。<lb />
+「何もしやしません。商談ですよ、東野さん」<lb />
+「商談？」<lb />
+「僕はあの女――幽里子のためにあなたの書いた手紙の宛名が知りたいのです」<lb />
+「――――」<lb />
+　青白い青年は、卓を隔ててドッカと腰をおろしました。姿や顔の華奢なのに似ず、その性根は図太そうで、言うことも妙にドスが利きます。<lb />
+「どうです東野さん――いや東野先生、ただとは言いません、打ち開けて下さればお礼はしますよ」<lb />
+「それは御免を<span type="ruby"><span type="rb">蒙</span><span type="rp">（</span><span type="rt">こうむ</span><span type="rp">）</span></span>ろう、――どんな手紙を書こうと、あの人と僕との勝手な取引だ」<lb />
+　東野南次は言い切りました。<lb />
+「どんな手紙――冗談でしょう、手紙の内容を知らずに、こんな事をいう僕じゃない、――僕はね、幽里子さんの後をつけて来て、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>でもこの<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>の外で聴いていたんですぜ、――歯の浮くようなラヴ・レターの文句を記憶しているからこそ、こう掛け合っているんだ」<lb />
+「――――」<lb />
+「ビルディングといっても、こんな安普請だ。そっくり返ったベニヤ板の<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>が、秘密を保てると思っているのかい、――ね、東野先生」<lb />
+「――――」<lb />
+「手紙の中味は幽里子さんの言葉でよく解ったが、肝腎の宛名がわからない――あの甘ったるいラヴ・レターを一体誰が幽里子さんから貰っているんだ」<lb />
+「それは知らない、――私も知ろうとしているが、教えてくれないのだ」<lb />
+「<span rend="sesame_dot" rendition="em">うまい</span>事をいうぜ、幽里子という署名まで書いてやるくせに、宛名を知らないという法があるものか」<lb />
+「――――」<lb />
+「僕の名は<span type="ruby"><span type="rb">半沢伝次</span><span type="rp">（</span><span type="rt">はんざわでんじ</span><span type="rp">）</span></span>だ、――ラヴ・レターの宛名が僕でないことだけは確かだ」<lb />
+「――――」<lb />
+「<span type="ruby"><span type="rb">成程</span><span type="rp">（</span><span type="rt">なるほど</span><span type="rp">）</span></span>、ただで言わせようと思ったのが、僕の間違いかもしれない、――お礼と言っちゃ<span type="ruby"><span type="rb">気障</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span>だが、これ<span type="ruby"><span type="rb">丈</span><span type="rp">（</span><span type="rt">だ</span><span type="rp">）</span></span>け上げようじゃないか。先生、その結構な職業意識とやらの買収費だ、――明日から代作の看板を外させる賠償といっても宜い」<lb />
+　半沢伝次はそういうと、ズボンの隠しから取出した紙幣の一と束、ざっと一万円位はあるだろうと思うのを、卓の上にピタリと置くのでした。<lb />
+「気の毒だが、宛名は知らないよ。よしんば知っていたところで君に教えるわけにはいかない」<lb />
+「まだ足りないのだな。ではこれも添えて」<lb />
+　伝次は左の小指から、何やら石の入った<span type="ruby"><span type="rb">指環</span><span type="rp">（</span><span type="rt">ゆびわ</span><span type="rp">）</span></span>を抜いて、その札束の上に置くのです。<lb />
+「帰ってくれ給え、――知らないといったら知らないよ」<lb />
+　東野南次は、この時ほど英雄的な心持になったことはありません。両手を<span rend="sesame_dot" rendition="em">むず</span>と卓の上に置いて、胸を張ってこう大きく言い切ったのです。<lb />
+「畜生ッ、覚えてやがれ、――いずれいわせずに置くものか。こっちは命がけだ」<lb />
+　半沢伝次は紙幣と指環をかき集めて、元の<span rend="sesame_dot" rendition="em">かくし</span>に<span type="ruby"><span type="rb">捻</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>じ込むと、東野南次を睨み据えたまま、静かに<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>の外に消えてしまいます。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">四</span></span></span>
+<lb />
+　その後<span rend="sesame_dot" rendition="em">ヨタ</span>者の半沢伝次は姿を見せませんが、困ったことに、幽里子もそれっ切り来なくなってしまったのです。<lb />
+　淋しい、<span type="ruby"><span type="rb">焦々</span><span type="rp">（</span><span type="rt">いらいら</span><span type="rp">）</span></span>した日が三日、五日、十日とたち、世界は次第に夏らしくなりますが、あの<span type="ruby"><span type="rb">落着</span><span type="rp">（</span><span type="rt">おちつ</span><span type="rp">）</span></span>いた青磁色の乙女は、それきり影も見せてはくれません。<lb />
+　東野南次は<span type="ruby"><span type="rb">階子</span><span type="rp">（</span><span type="rt">はしご</span><span type="rp">）</span></span>段を登る人の足音に神経を立てたり、窓から見える銀座の路地の一角の、若い女の姿に胸<span type="ruby"><span type="rb">轟</span><span type="rp">（</span><span type="rt">とどろ</span><span type="rp">）</span></span>かせたりしましたが、残念なことにそれはことごとく似もつかぬ通行人で、東野南次の待っている、香ぐわしい幽里子、――あのお<span type="ruby"><span type="rb">伽</span><span type="rp">（</span><span type="rt">とぎ</span><span type="rp">）</span></span>の国の王女のような、恋の麗人は消息を絶ってしまいました。<lb />
+　東野南次は卓に向って万年筆を執って、誰のためともわからぬ、十一本目の恋の手紙を書きました。綿々たる情緒、燃ゆる思慕、夢みるような<span rend="sesame_dot" rendition="em">あこがれ</span>――それはすべてかつての幽里子が口述したものではなく、東野自身の、消え去った麗人への情熱になってしまうのもまたやむを得ないことでした。<lb />
+　<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>る日は十二本目のを、そしてそのまた<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>る日は十三本目のを、それは長い長い手紙でした。書き終って終りに「幽里子」と署名する代りに、なんと彼の万年筆は「南次」と署名してしまったのです。<lb />
+　それから十五本目を、そしてあの騒ぎのあった日から半月目には、東野南次の宛の無い手紙は、二十本目を書いているのでした。署名は相変らず「南次」と書きましたが、この時ばかりはなんのはずみか、宛名を幽里子様と書いてしまって、ハッとした心持でそれを隠しました。恐ろしい冒涜に対する自責の心持が、東野の感じ易い心をチクチクさいなみます。<lb />
+　ちょう度その時でした。<lb />
+　エレベーターの<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>が開いて、部屋の前に近づく足音、それもひどく乱れ勝ちに聞えたと思うと、<lb />
+「御免――あ、そ、ば――」<lb />
+　たえだえの声がして、バタリと物の倒れる音がするではありませんか。<lb />
+　驚いて飛付いた<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>、力任せに引くと、部屋の中に<span type="ruby"><span type="rb">轉</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>げ込んだのはなんとあの青磁色の洋装――幽里子の息もたえだえの姿だったのです。<lb />
+「どうしました、幽里子さん」<lb />
+　東野南次はそれを抱き上げると、兎も角、窓際の椅子まで運んで来ました。<lb />
+「あッ痛、痛」<lb />
+　ひどく苦しそうです。<lb />
+「<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うかしましたか」<lb />
+「――――」<lb />
+　が幽里子は返事もなく<span type="ruby"><span type="rb">昏々</span><span type="rp">（</span><span type="rt">こんこん</span><span type="rp">）</span></span>として東野南次の腕に倒れるのです。<lb />
+「<span type="ruby"><span type="rb">確</span><span type="rp">（</span><span type="rt">しっか</span><span type="rp">）</span></span>りして下さい、幽里子さん」<lb />
+　恐ろしい不吉な予感にさいなまれて、幽里子が自分の手で押えた胸のあたりを見ると、<lb />
+「あッ、血」<lb />
+　左の胸――乳の下あたり、パッと浸み出しているのは、青磁色の服を<span type="ruby"><span type="rb">染</span><span type="rp">（</span><span type="rt">そめ</span><span type="rp">）</span></span>て、大輪の<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ぼたん</span><span type="rp">）</span></span>を見るような血潮ではありませんか。<lb />
+「待って下さい、直ぐ医者を呼びますから」<lb />
+　立ち上ろうとする東野南次は、物言わぬ幽里子の、瞳の歎きに呼び止められました。<lb />
+「何んか？　水ですか、幽里子さん」<lb />
+「――――」<lb />
+　ともすれば昏々と死の淵に<span type="ruby"><span type="rb">引入</span><span type="rp">（</span><span type="rt">ひきい</span><span type="rp">）</span></span>れられそうな幽里子は、<span type="ruby"><span type="rb">僅</span><span type="rp">（</span><span type="rt">わず</span><span type="rp">）</span></span>かに夢幻の眼を開くと、<lb />
+「――――」<lb />
+　小さい――血の気のうせた唇が僅かに動きます。<lb />
+　東野南次はその瀕死の乙女の、――恋人を求める唇を見詰めて、黙って顔を反けるほどの道学者では無かったのです。<lb />
+「幽里子さん、死んではいけない、死んではいけない、――いえ、私は決して幽里子さんを死なせない」<lb />
+　それはいずれ、真の恋人の手に渡してやる処女であったにしても、暫らくは許せ、<lb />
+「幽里子さん、幽里子さん、死んではいけない」<lb />
+　傷ついた幽里子を抱き上げて、同じビルディングの二階にいる外科医の診察室まで運ぶうち、東野南次の唇は幽里子の額にキッスの雨を降らせていたのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">五</span></span></span>
+<lb />
+　幽里子の傷は、かなりの重傷でしたが、幸いに心臓部を避けていたので、辛くも命を取止めました。<lb />
+　が、その<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>を今直ぐ動かすわけには行かなかったので、診察室の隣を仮の病室とし、ビルディングの持主なる、東野南次の友人から寝台その他の必要品を借りて、兎も角も一応の手当を終ったのです。<lb />
+　一方警察へも届けて幽里子を刺したヨタ者の半沢伝次の手配をして貰い、さてそれから幽里子の身許を調べることになりましたが、重態でまだ口をきかせるわけにいかず、<span type="ruby"><span type="rb">已</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>むを得ず外科医も立ち会いの上、手提袋を開けて、目黒の駅の近くで<span type="ruby"><span type="rb">曾我野</span><span type="rp">（</span><span type="rt">そがの</span><span type="rp">）</span></span>幽里子――という宛名を見つけました。<lb />
+　東野南次がとんで行くと、それは小綺麗なしもた家で、表札の曾我野<span type="ruby"><span type="rb">礼子</span><span type="rp">（</span><span type="rt">れいこ</span><span type="rp">）</span></span>というのは、幽里子の母親の未亡人で、五十二三の上品な婦人でした。幽里子の災難を聞いて、顛倒したのも無理のないことです。<lb />
+　しかし、幽里子の容態は、思いの<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">ほか</span><span type="rp">）</span></span>順調で、まずこれならば大丈夫――と、お医者が言ってくれたのは三日目。七日目にはもう、見舞の人達と、静かに話しをする程度に元気を取戻していたのです。<lb />
+　母親の礼子は病床に付きっきりで、夜の眼も寝ずに介抱しました。それから東野南次も、五階の事務所に泊って、朝も昼も夜も、母親を助けて、外廻りの用事に没頭し、時々は病床の幽里子を、<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>の隙間から覗いて、その感謝の瞬きに応えたり、それとはなしに励ましたりしておりました。<lb />
+　一日一日と幽里子は健康を回復して、二週間目にはもうベッドの上に<span type="ruby"><span type="rb">起直</span><span type="rp">（</span><span type="rt">おきなお</span><span type="rp">）</span></span>っておりました。<lb />
+「多少の内出血があるから、せめて三週間は」<lb />
+　という医者の意見で、まだ家へ帰るわけにはいきませんが、留守宅に用事も溜っているから――と母親は一日目黒の家に帰り、臨時に雇った看護婦も出かけて、東野南次が、その代り半日の世話を引受けることになった日のこと、<lb />
+「どうです幽里子さん、顔色もすっかり良くなりましたよ」<lb />
+　東野南次は世間並なことをいいながら、その寝台の傍に腰をおろしておりました。<lb />
+「有難う、先生にはとんだお世話になって――」<lb />
+　幽里子の顔には珍らしく若々しい血が上って、心からそういいながら、手はツイ赤ん坊のように、南次の方へ伸べられるのです。<lb />
+「でも良かった――あなたに死なれたら、どうしようかと思いましたよ」<lb />
+　東野南次は、極めて自然にその感謝の手をとっておりました。<lb />
+　幽里子が瀕死の重傷を受けて、夢心地に東野南次に抱きあげられた時、その白い額に雨と降った、南次の唇を記憶しているとしたら、こう心安くは手を伸べなかったかもわかりません。<lb />
+「本当に、どんなにお礼を<span type="ruby"><span type="rb">申上</span><span type="rp">（</span><span type="rt">もうしあ</span><span type="rp">）</span></span>げていいか」<lb />
+　そういう幽里子はもう涙ぐんでおります。<lb />
+「それから、半沢伝次とかいうヨタ者は、昨日挙げられたようですよ。あんな無法な奴が勝手に飛廻っていちゃ、物騒で叶わない」<lb />
+「でも、可哀想――」<lb />
+　幽里子はつくづくそういうのです。自分を殺しかけた相手ですが、憎みに徹する気にはなれなかったのでしょう。<lb />
+「もうすぐ幽里子さんも退院ですね」<lb />
+「ええお蔭様で」<lb />
+　東野南次はフと、幽里子のはしゃいだ様子が妬ましくなりました。この病院から外へ出てしまったら、幽里子は再び東野南次のところへは帰って来ないでしょう。<lb />
+　あの恋文の宛名は誰だかわかりませんが、幽里子がこれ程の<span type="ruby"><span type="rb">大怪我</span><span type="rp">（</span><span type="rt">おおけが</span><span type="rp">）</span></span>をして生死の境をさ迷っているのに、一度も見舞に来てくれないとは何んとしたことでしょう。<lb />
+　しかし、それにはまたいろいろの事情があるかもしれず、この病院を一歩外に出さえすれば、幽里子は完全に自由で、<span type="ruby"><span type="rb">矢張</span><span type="rp">（</span><span type="rt">やは</span><span type="rp">）</span></span>りあの恋人の手に返っていくに違いありません。<lb />
+　大怪我の後でやつれてはおりますが、幽里子の顔は子供のように清らかでした。訴えるような大きい眼にも、ムリロの天使のような可愛らしい唇にも、ほのかな微笑と、安らかな信頼の外には何んの邪念も無い幽里子――それを見ている東野南次はフと、心の中の悪魔の<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>くのを感じたのは何んとしたことでしょう。<lb />
+　悪魔はこういうのでした。――この娘を断じて人にやってはならぬ――病院から出たら最後、この娘はもうお前とは赤の他人ではないか――言い出すなら今だ――いや、永久にこの娘をお前の物にするなら今だ――と。<lb />
+　東野南次に、半沢伝次の兇暴さがあったら、幽里子を殺して自分も死んだかもしれないのです。東野南次自身の書いた恋文に対して、東野南次は今燃えつくような恐ろしい嫉妬を感じていたのです。<lb />
+「東野さん、何を考えていらっしゃるの」<lb />
+　幽里子は声を掛けました。<lb />
+「――――」<lb />
+「お話して下さいませんの？」<lb />
+　このさわやかな子供らしい声も、誰やらを求めている清らかなひとみも、もはや東野南次のものではなかったのです。<lb />
+　――殺すなら今だ――<lb />
+　それは恐ろしい悪魔の囁きでした。東野南次の実行力の無さが、僅かにそれを食い止めましたが、唇がサラサラと貧血して、胸の鼓動が早鐘を打ちます。<lb />
+「――――」<lb />
+　東野南次はフラフラと立ち上りました。<lb />
+　この上踏み止まっていたら、どうなったか解らず、暫らく幽里子の魅惑的な眼を逃れて、自分を取戻す必要があったのです。<lb />
+「<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うなさったの？　東野先生」<lb />
+「――――」<lb />
+　東野南次はハッと<span type="ruby"><span type="rb">立縮</span><span type="rp">（</span><span type="rt">たちすく</span><span type="rp">）</span></span>みました。自分の心――悪魔的な真っ黒な心を幽里子の澄み切った心の鏡に映されたような気がして、いてもたってもいられない心持になったのです。<lb />
+　が、その間の悪さも漸く救われました。廊下を近づく足音――母親か看護婦かはわかりませんが、誰やらがこの<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>っ<span type="ruby"><span type="rb">引</span><span type="rp">（</span><span type="rt">ぴき</span><span type="rp">）</span></span>ならぬ場面へ来た様子です。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">六</span></span></span>
+<lb />
+　その晩、東野南次は、ビルディングの屋上に出て、少し<span type="ruby"><span type="rb">朧</span><span type="rp">（</span><span type="rt">おぼろ</span><span type="rp">）</span></span>に昇った月を眺めておりました。<lb />
+　ビルディングは五階で、大して高くはありませんが、天気さえ良ければ、富士も見られ品川の海も眺められます。<lb />
+　宵の街は灰紫色に淀んで、車の灯が右へ左へ流れ、巷の雑音は不思議な不協和音を湧き立たせて、妙に引入れられるような心持にさせるのでした。<lb />
+　高層建築の誘惑――いつか東野南次は、そんなコントを書いたことがあります。それは百尺近い屋上庭園にいると、平静な心持をもった者でも、ツイ死の淵の口を覗いて見たいような、異様な誘惑を感ずることがある――といった筋です。<lb />
+　東野南次は今まさに、その死の淵の口を覗いているのでした。<lb />
+　東野南次は、この時ほど自己嫌悪を感じたことはありません。自分はまさか人を殺す気になろうとは、生れてから今まで、想像もしたことは無かったのです。それも造化の素晴らしい傑作、美しい処女の中の処女といってもいい、あの清らかな幽里子を、自分の情慾のために殺そう――と単に考えただけでも、それは実に身の毛のよだつ恐ろしさです。<lb />
+　これでは半沢伝次――あの一番愚劣なヨタ者と、何の違いがあろう。<lb />
+　死――東野南次はフとそんな事を考えておりました。この悔恨と、自己嫌悪を救うものは、死より外には無いような気がするのです。そしてこの屋上庭園から身を躍らせて、灰紫色の闇の中に飛込みさえすれば、それで万事が終結するのだ。<lb />
+「幽里子さん、<span type="ruby"><span type="rb">左様</span><span type="rp">（</span><span type="rt">さよう</span><span type="rp">）</span></span>なら――<span type="ruby"><span type="rb">貴女</span><span type="rp">（</span><span type="rt">あなた</span><span type="rp">）</span></span>の恋人と幸福に暮して下さい、左様なら」<lb />
+　東野南次は、二階の病室のあたりへこの別れの言葉を投げると、少し早足で、屋上庭園の胸壁に近づいたのです。<lb />
+　一瞬の後、<span type="ruby"><span type="rb">落魄</span><span type="rp">（</span><span type="rt">らくはく</span><span type="rp">）</span></span>の小説家東野南次は、その浅ましい死骸を、裏銀座の街上に横たえる運命でした。真に一瞬の後、――が<lb />
+「東野さん――いらっしゃいます？」<lb />
+「――――」<lb />
+「東野さん、<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>申し上げたいことがありますが」<lb />
+　五階の廊下、自分の部屋の前で叫んでいるのは、幽里子の母親の礼子ではありませんか。<lb />
+「ハイ、ハイ、<span type="ruby"><span type="rb">唯今</span><span type="rp">（</span><span type="rt">ただいま</span><span type="rp">）</span></span>参ります。あまり月が良いので」<lb />
+　東野南次はそんな照れ隠しをいいながら、急ぎ足に自分の部屋に近づくと、<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>をあけて母親を招じ入れました。<lb />
+「お邪魔いたしますが、少々お目にかけ度いものがありまして」<lb />
+　椅子に掛けると、母親の礼子は懐から<span type="ruby"><span type="rb">帛紗</span><span type="rp">（</span><span type="rt">ふくさ</span><span type="rp">）</span></span>包を出して、東野南次の前に押しやるのです。<lb />
+「これは？　曾我野さん」<lb />
+　東野南次は、母親の礼子をこう呼んでいたのです。<lb />
+「それを御覧下さいませんか。そして、先生のお考えを伺いたいのですが」<lb />
+「――――」<lb />
+　東野南次は礼子の視線を浴び<span type="ruby"><span type="rb">乍</span><span type="rp">（</span><span type="rt">なが</span><span type="rp">）</span></span>ら、静かに帛紗を解きました。<lb />
+　中から現われたのは、美しい封筒に入れて、日付順らしく束ねた手紙の一と束。<lb />
+　試みにそのうちの一通を取って、中身を抜いて見ると、予期しないことではありませんが、それは幽里子の頼みに応じて、東野南次自身の書いた、例の恋文の一つではありませんか。<lb />
+　署名は幽里子、それに不思議はありませんが、宛名は幽里子自身の手で書き入れたらしく、それは「東野南次先生」となっているのです。<lb />
+　次のも、次のも同じことでした。十本の恋文を見ると、十本全部東野の書いたもので、一本の例外もなく、宛名は東野南次になっているのでした。<lb />
+「――――」<lb />
+　東野南次は黙って首を垂れました。疑う余地もありません。幽里子が命をかけた恋人は、何んと恋文を代作した、東野南次その人だったのです。<lb />
+「東野先生――私はこの手紙を見付けましたので、ついでに娘の日記も読んで参りました。<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かの講演で先生にお話を聞き、それから思いつめたようで御座います」<lb />
+「――――」<lb />
+「それから先生のお書きになったものを全部買い集めて読んだ上、いろいろ考え迷った揚句、先生のところへ手紙を書いて頂きに参った様子で御座います」<lb />
+　礼子の静かな説明も、東野の耳にはもう入りません。<lb />
+「私は、私はそんな値打のある人間ではない、私は愚劣で野蛮で、仕様のない人間です、あの清らかな幽里子さんの愛に値するような人間ではありません」<lb />
+「まア、先生」<lb />
+「私はこれっきり姿を隠します。幽里子さんには宜しく<span type="ruby"><span type="rb">仰</span><span type="rp">（</span><span type="rt">おっ</span><span type="rp">）</span></span>しゃって下さい」<lb />
+　不意に<span type="ruby"><span type="rb">起上</span><span type="rp">（</span><span type="rt">たちあが</span><span type="rp">）</span></span>って入口の方へ歩いて行く東野南次、その憑かれたような姿を見ながら、母親の礼子には止める<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>もありませんでした。<lb />
+　が、<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>を開けた時、東野は凝然と立止りました。そこにはまだ治り切らない幽里子が、大きな悲しみに打ちひしがれて、大きな眼を見開いたまま立っているではありませんか。<lb />
+「――――」<lb />
+　二人は鉄と磁石のように、極めて自然に、黙って抱き合いました。<lb />
+　そしてそれを見て泣いたのは、母親の礼子だったのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">フィナーレ</span></span></span>
+<lb />
+「これで私の話は終りました。いっこう奇談ではないなどとおっしゃらないで下さい。人の心の不思議さは、なかなかもって大衆文芸的な事件の不思議さなどと比較にはなりません。そして最後に、幽里子と東野が<span type="ruby"><span type="rb">目出度</span><span type="rp">（</span><span type="rt">めでた</span><span type="rp">）</span></span>く結婚したということも、私の好きなハッピーエンドでこの物語を結ばせて貰う喜びの一つです」<lb />
+　話し手の大磯虎之助は静かに壇を下りました。奇淡クラブの会員達は、この大磯虎之助こそ、話の中の東野南次に外ならないということを、誰も疑う者は無かったのです。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

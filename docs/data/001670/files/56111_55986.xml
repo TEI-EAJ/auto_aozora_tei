@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>奇談クラブ〔戦後版〕</title>
+        <author>野村胡堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2015-02-22">作成</resp><resp /><note>
+<lb />
+底本：「野村胡堂伝奇幻想小説集成」作品社<lb />
+　　　2009（平成21）年6月30日第1刷発行<lb />
+底本の親本：「代作恋文」アポロ出版社<lb />
+　　　1948（昭和23）年10月<lb />
+初出：「月刊読売」<lb />
+　　　1947（昭和22）年1月<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：門田裕志<lb />
+校正：阿部哲也<lb />
+<date when="2015-02-22">2015年2月22日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>阿部哲也</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>奇談クラブ〔戦後版〕</title><author>野村胡堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">プロローグ</span></span></span>
+<lb />
+　奇談クラブの席上、その晩の話し手<span type="ruby"><span type="rb">天野久左衛門</span><span type="rp">（</span><span type="rt">あまのきゅうざえもん</span><span type="rp">）</span></span>は、こんな調子で始めました。<lb />
+「これは実に今日の常識や道徳から見れば不可思議極まる事件だが、芸術至上主義に対する、一つの反逆でもあると思います。筋にはなんの誇張もなく、全く切れば血の出るような本当の話ですが、この話の中から、興味以上のものを汲みとって下されば、私の満足はこの上もありません」<lb />
+　そういい<span type="ruby"><span type="rb">乍</span><span type="rp">（</span><span type="rt">なが</span><span type="rp">）</span></span>ら、天野久左衛門は、五本の指を櫛にして、乱れかかる前額の髪を掻き上げます。名前は昔の武者修業のように古風ですが、本人は七つ下りの茶色の背広に、ボヘミアン<span type="ruby"><span type="rb">襟飾</span><span type="rp">（</span><span type="rt">ネクタイ</span><span type="rp">）</span></span>をした、芸術家らしい青年です。<lb />
+　美しい会長<span type="ruby"><span type="rb">吉井明子</span><span type="rp">（</span><span type="rt">よしいあきこ</span><span type="rp">）</span></span>夫人<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">ほか</span><span type="rp">）</span></span>三十人余りの会員は、真珠色の光りの中に、静まり返って、その幻怪不可思議な話を待ちました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">一</span></span></span>
+<lb />
+　徳川の末期、<span type="ruby"><span type="rb">歌川</span><span type="rp">（</span><span type="rt">うたがわ</span><span type="rp">）</span></span>派の<span type="ruby"><span type="rb">豊国</span><span type="rp">（</span><span type="rt">とよくに</span><span type="rp">）</span></span>が一世の人気を集めてから、この自由と魅力の芸術――浮世絵の勃興は眼を驚かしました。<lb />
+　美人画の<span type="ruby"><span type="rb">五渡亭国貞</span><span type="rp">（</span><span type="rt">ごとていくにさだ</span><span type="rp">）</span></span>、風景画の<span type="ruby"><span type="rb">一立斎広重</span><span type="rp">（</span><span type="rt">いちりゅうさいひろしげ</span><span type="rp">）</span></span>、武者絵の<span type="ruby"><span type="rb">一勇斎国芳</span><span type="rp">（</span><span type="rt">いちゆうさいくによし</span><span type="rp">）</span></span>と名人上手<span type="ruby"><span type="rb">簇出</span><span type="rp">（</span><span type="rt">ぞくしゅつ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">勢</span><span type="rp">（</span><span type="rt">いきおい</span><span type="rp">）</span></span>に駆られて、天保年間の流行は、<span type="ruby"><span type="rb">苛</span><span type="rp">（</span><span type="rt">いやしく</span><span type="rp">）</span></span>も絵心あるものは、猫も杓子も、いや国主大名から、質屋の亭主、紺屋の職人までも、浮世絵を描いて、その巧緻精妙な技巧の末を競ったのです。<lb />
+　国主大名――といったところで、それは決して話術の上の誇張ではなく、現に勢州亀山六万石の城主、朝散太夫<span type="ruby"><span type="rb">石川日向守総和</span><span type="rp">（</span><span type="rt">いしかわひゅうがのかみふさかず</span><span type="rp">）</span></span>は、歌川豊国の門下で、<span type="ruby"><span type="rb">国広</span><span type="rp">（</span><span type="rt">くにひろ</span><span type="rp">）</span></span>と署名した木版美人画を作り、それが今の世にまでも伝わっております。<lb />
+　天保八年というと、まだ<span type="ruby"><span type="rb">水野越前守</span><span type="rp">（</span><span type="rt">みずのえちぜんのかみ</span><span type="rp">）</span></span>の粛清嵐も吹き<span type="ruby"><span type="rb">荒</span><span type="rp">（</span><span type="rt">すさ</span><span type="rp">）</span></span>ばず、江戸の文化は甘酸っぱく熟れて、淫靡と頽廃と猥雑の限りを尽した異様な<span type="ruby"><span type="rb">瓦斯</span><span type="rp">（</span><span type="rt">がす</span><span type="rp">）</span></span>を発散している時分のことです。<lb />
+　三百大名が武辺者や兵法者を競って抱えたは昔のことで、その頃は両刀を<span type="ruby"><span type="rb">手挟</span><span type="rp">（</span><span type="rt">たばさ</span><span type="rp">）</span></span>んだ笛の名手、踊りの達人が、大手を振って殿の恩寵を受け、それをまた、不思議とも思わぬほど世人の神経は麻痺しておりました。<lb />
+　浮世絵師の国主大名、石川日向守も、世の流行に漏れず、三人の愛臣を持っておりました。一人は彫物の名人で<span type="ruby"><span type="rb">六郷左京</span><span type="rp">（</span><span type="rt">ろくごうさきょう</span><span type="rp">）</span></span>、一人は笛の名手で<span type="ruby"><span type="rb">名川采女</span><span type="rp">（</span><span type="rt">ながわうねめ</span><span type="rp">）</span></span>、残る一人は小唄と鼓の上手で、<span type="ruby"><span type="rb">伊東甚三郎</span><span type="rp">（</span><span type="rt">いとうじんざぶろう</span><span type="rp">）</span></span>といい負けず劣らず、殿の御機嫌を<span type="ruby"><span type="rb">取結</span><span type="rp">（</span><span type="rt">とりむす</span><span type="rp">）</span></span>んで、その恩寵を誇り合っていたのです。<lb />
+「六郷左京はおるか」<lb />
+「ハッ、これに控えております」<lb />
+　<span type="ruby"><span type="rb">或日</span><span type="rp">（</span><span type="rt">あるひ</span><span type="rp">）</span></span>日向守は、腰巾着のような三人侍のうち、彫物の左京を御前に召し出しました。日向守は先代<span type="ruby"><span type="rb">主殿頭</span><span type="rp">（</span><span type="rt">とのものかみ</span><span type="rp">）</span></span>の養子でその時三十六、左京は三人侍のうちでは一番<span type="ruby"><span type="rb">年嵩</span><span type="rp">（</span><span type="rt">としかさ</span><span type="rp">）</span></span>のこれは二十八歳でしたが、生れ乍らの美男で、玉を刻んだような冷澄な顔立ちや温雅な<span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">たち</span><span type="rp">）</span></span>い振舞、程のよい<span type="ruby"><span type="rb">身扮</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>の好みなど、江戸屋敷大奥の噂の種になっている果報男でした。<lb />
+「木曾から、檜の良材が手に入った、<span type="ruby"><span type="rb">其方</span><span type="rp">（</span><span type="rt">そのほう</span><span type="rp">）</span></span>一世一代の腕を<span type="ruby"><span type="rb">揮</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>って、等身の美人を彫って見ぬか」<lb />
+「ハッ、<span type="ruby"><span type="rb">有難</span><span type="rp">（</span><span type="rt">ありがた</span><span type="rp">）</span></span>い仕合せ、私も長い間それは念願いたしておりました」<lb />
+「いささか俗でも、極彩色で、歌舞伎模様の恋に取詰めた女が<span type="ruby"><span type="rb">宜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>いな、浦里、三勝、小春――いや、もっと激しい、もっと若々しい、――左様、八百屋お七はどうだ。私は絵で行こう、其方は彫物だ。出来上った上で、家中一統の者にいずれが<span type="ruby"><span type="rb">勝</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>れているか、鑑定させようではないか」<lb />
+「私ごときが、――殿の御作と――」<lb />
+「いや、遠慮は無用だ、その優劣は、遠慮のない入札で行くのじゃ、――面白いではないか」<lb />
+　日向守の国広は大変なことをいい出しました。浮世絵でも描こうといった殿様だけに、<span type="ruby"><span type="rb">此人</span><span type="rp">（</span><span type="rt">このひと</span><span type="rp">）</span></span>には妙に平民的な――その当時の大名にしては型破りの気易いところがあったのです。<lb />
+「つきましては、御腰元の中から手本になる方を一人拝借いたし<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>う御座いますが」<lb />
+「<span type="ruby"><span type="rb">尤</span><span type="rp">（</span><span type="rt">もっと</span><span type="rp">）</span></span>もなことだ。絵と<span type="ruby"><span type="rb">異</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>って彫物は、等身大となると手本が入要であろう。<span type="ruby"><span type="rb">多与里</span><span type="rp">（</span><span type="rt">たより</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">小浪</span><span type="rp">（</span><span type="rt">こなみ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">梅野</span><span type="rp">（</span><span type="rt">うめの</span><span type="rp">）</span></span>のうち、その方望みの一人を貸しつかわす」<lb />
+　多与里、小浪、梅野は亀山屋敷の三人美女といわれた腰元で、殿の浮世絵のモデルにも使われていたのです。<lb />
+「有難き仕合せ」<lb />
+　相談は<span type="ruby"><span type="rb">纏</span><span type="rp">（</span><span type="rt">まと</span><span type="rp">）</span></span>まりました。この君臣技を競うという、不思議なゲームが、後の発展は<span type="ruby"><span type="rb">兎</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>、面白<span type="ruby"><span type="rb">可笑</span><span type="rp">（</span><span type="rt">おか</span><span type="rp">）</span></span>しく着手されることになったのです。それは天保八年正月のことでした。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">二</span></span></span>
+<lb />
+　一立斎広重の描いた東海道五十三次の名所絵の中でも、勢州亀山城は、一種特別な威厳と親しみを持っております。多分それは、相手は国主大名でも、同じ浮世絵師仲間の情愛が、善良な心の持主だった広重に、あんな優れたものを描かせたのでしょう。保永堂版の亀山の雪の曙、<span type="ruby"><span type="rb">隷書</span><span type="rp">（</span><span type="rt">れいしょ</span><span type="rp">）</span></span>東海道の亀山城の元旦などを見ると、この考え方が決して<span type="ruby"><span type="rb">出鱈目</span><span type="rp">（</span><span type="rt">でたらめ</span><span type="rp">）</span></span>でないことがわかる<span type="ruby"><span type="rb">筈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>です。<lb />
+　それは兎も角、この話は江戸の下谷大名小路、石川家上屋敷に起ったことで、本国の勢州亀山とは関係がありません。<lb />
+　彫物の名手六郷左京は、自分の御長屋に<span type="ruby"><span type="rb">引下</span><span type="rp">（</span><span type="rt">ひきさが</span><span type="rp">）</span></span>って待っていると、間もなく木曾から取寄せたという、檜の良材を三本、人足が十人あまりで担ぎ込みました。<lb />
+「<span type="ruby"><span type="rb">成程</span><span type="rp">（</span><span type="rt">なるほど</span><span type="rp">）</span></span>これなら」<lb />
+　材木の胴を叩いたり、小口の木目を調べたり、六郷左京悦に入っているところへ、<lb />
+「御免遊ばせ」<lb />
+　静かに訪れたのは、<span type="ruby"><span type="rb">暫</span><span type="rp">（</span><span type="rt">しばら</span><span type="rp">）</span></span>く拝借することになったモデル――三人侍女の一人、一番年嵩で、一番美しいといわれた多与里でした。<lb />
+「では、六郷様、<span type="ruby"><span type="rb">確</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>とお渡し申しました」<lb />
+　多与里を送ってきた老女が、厳重らしいお辞儀をして引揚げた後に、腰元の多与里はやるせない姿で取残されました。<lb />
+　大名屋敷で、臣下に美しい腰元を貸す――そんなことはあり得ない筈というかも知れませんが、何を隠そう、これは極めて当然のことで、石川日向守には、こうしなければならぬ事情があったのです。<lb />
+　というのは、大名の本妻は徳川幕府の人質政策で、<span type="ruby"><span type="rb">悉</span><span type="rp">（</span><span type="rt">ことごと</span><span type="rp">）</span></span>く江戸屋敷に置くことになっておりますが、石川日向守の江戸屋敷にいる御内室というのは、先代の大守、主殿頭<span type="ruby"><span type="rb">総安</span><span type="rp">（</span><span type="rt">ふさやす</span><span type="rp">）</span></span>の息女で、日向守総和は婿養子であった関係から、小糠三合ほどの遠慮があり、その上御内室は、余り容貌の良からぬ関係から、羽目を外さぬ程度であったにしても、古文真宝な嫉妬が深酷で、日向守も三人侍女などに<span type="ruby"><span type="rb">脂</span><span type="rp">（</span><span type="rt">やに</span><span type="rp">）</span></span>下っているわけに行かなかったのです。<lb />
+　一番年嵩の十九で、一番美しい多与里は、まず<span rend="sesame_dot" rendition="em">い</span>の一番に六郷左京のモデルとして、日向守の側から遠ざけられました。<lb />
+　高島田が初々しく、紫<span type="ruby"><span type="rb">矢絣</span><span type="rp">（</span><span type="rt">やがすり</span><span type="rp">）</span></span>、立<span rend="sesame_dot" rendition="em">や</span>の字の帯、<span type="ruby"><span type="rb">白粉</span><span type="rp">（</span><span type="rt">おしろい</span><span type="rp">）</span></span>が濃くて、小さい唇が玉虫色に光るのも、楷書で書いて<span rend="sesame_dot" rendition="em">ルビ</span>を振った美しさです。<lb />
+「――――」<lb />
+　口の中で何分<span type="ruby"><span type="rb">宜</span><span type="rp">（</span><span type="rt">よろ</span><span type="rp">）</span></span>しく、――そんなことをいったようでもありましたが、六郷左京はそれを極めて事務的に受けて、<lb />
+「いや、御苦労で御座るな」<lb />
+　さっさと仕事を運びました。<lb />
+　檜材は早速荒削りされて、仕事場に立てられました。その間にモデルの多与里は、用意された衣裳を着けて、火見櫓の八百屋お七――存分に卑俗な題材であるにして、兎にも角にも、その頃の模範的な好尚にピタリとする、芝居振りの激情的を娘形になったのです。<lb />
+　六郷左京は張り切っておりました。人間は軽薄で、不良少年型であったにしても、男振りと彫物の腕だけは大したものでした。<span type="ruby"><span type="rb">素</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>より殿様芸に過ぎない、主君日向守の浮世絵などは眼中にありません。<lb />
+　幾度も幾度も図取りをしてポーズを直させた上、さて<span type="ruby"><span type="rb">鑿</span><span type="rp">（</span><span type="rt">のみ</span><span type="rp">）</span></span>を取って、いきなり檜の良材に<span type="ruby"><span type="rb">彫</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span>んで行きました。其頃は油土もなく、塑像を木彫に移す方法も無かったことはいうまでもないことです。<lb />
+　モデルの多与里は、人形のようにお行儀がよく、人形のように綺麗でした。鑿を<span type="ruby"><span type="rb">執</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>る手を休めて眺めると、眼元の涼しさ、鼻筋の素直さ、その頃<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>った、少し受け唇のあどけなさ、それにも<span type="ruby"><span type="rb">優</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>して、頬の肉付きの可愛らしさと、首から四肢へかけての、<span type="ruby"><span type="rb">凝脂</span><span type="rp">（</span><span type="rt">ぎょうし</span><span type="rp">）</span></span>の美しさは、まことに比類もありませんが、それがどうしたことか、美し過ぎ、端正に過ぎて、なんか知ら一脈の物足らなさがあるのです。<lb />
+　こんな筈ではなかったが――、と六郷左京は幾度か首を<span type="ruby"><span type="rb">捻</span><span type="rp">（</span><span type="rt">ひね</span><span type="rp">）</span></span>りました。が、<span type="ruby"><span type="rb">矢張</span><span type="rp">（</span><span type="rt">やは</span><span type="rp">）</span></span>りいけません。このモデルは存分に美しく、非の打ちどころがないくせに、たった一つ、大事な情愛――恋のために、江戸の一角を灰にして、鈴ヶ森で<span type="ruby"><span type="rb">礫刑</span><span type="rp">（</span><span type="rt">はりつけ</span><span type="rp">）</span></span>になった、八百屋お七の激情に似たものを持っていなかったのです。<lb />
+　多与里は一日一杯、<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほと</span><span type="rp">）</span></span>んど瞬きもせずに、いやどうかすると、呼吸もせずに、モデル台の上に立っているようでした。その<span type="ruby"><span type="rb">嗜</span><span type="rp">（</span><span type="rt">たしな</span><span type="rp">）</span></span>みと辛抱とは、人間離れのしたものであればあるほど、六郷左京の不満は煮えくり返ります。<lb />
+「何ということだ、これではまるで泥人形ではないか」<lb />
+　そんなことをいい乍らも、六郷左京の鑿は、職業的な速力で、一日一日と彫像の形を整えて行きます。やがて<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>と通りの彫りが出来、磨きをかけて、彩色に取りかかったのは三月になってから、その頃になると絵の具も凍らず、仕事は思いの外早く進みます。<lb />
+「これで良し」<lb />
+　出来上ったのは、もう桜の散る頃、何よりもまず衣服を改めて殿に御目通りを願うと、<lb />
+「出来上った<span type="ruby"><span type="rb">相</span><span type="rp">（</span><span type="rt">そう</span><span type="rp">）</span></span>だな――まずは<span type="ruby"><span type="rb">目出度</span><span type="rp">（</span><span type="rt">めでた</span><span type="rp">）</span></span>い、さぞ見事なものであろうな」<lb />
+　日向守はことの外の機嫌です。<lb />
+「殿、御絵の方は？」<lb />
+　左京が恐る恐る訊くと、<lb />
+「其方の彫物の出来上るのを待っていたよ――これじゃ見てくれ、手本になったのは小浪だが、半四郎に似ているという噂じゃ」<lb />
+　平民殿様はすっかり悦に入って、<span type="ruby"><span type="rb">手筥</span><span type="rp">（</span><span type="rt">てばこ</span><span type="rp">）</span></span>の中から、大錦一枚刷の八百屋お七――国広えがく――と署名のあるのを出して見せました。<lb />
+「ハッ」<lb />
+　恐る恐る押し戴いた六郷左京は、それを一と眼、ハッと首を垂れました。<lb />
+　髪を振り乱して、櫓に駈け登る人形振りのお七、激情に取り<span type="ruby"><span type="rb">逆</span><span type="rp">（</span><span type="rt">のぼ</span><span type="rp">）</span></span>せて、見るも凄まじい美しさは、これが勢州亀山六万石の殿様の隠し芸かと思うと「鑿を取っては」の誇りに充ち満ちた、六郷左京の自慢の角をへし折ります。<lb />
+「恐れ入りました、到底私の彫物の及ぶところでは御座いません」<lb />
+　そう言う左京へ、<lb />
+「芸道と君臣の礼は又別だ、無用な謙遜ではないか、左京、兎も角其方の作を見よう」<lb />
+　日向守は砕けた殿様でした。<lb />
+「ハッ」<lb />
+　不本意乍ら、左京の作品――八百屋お七の彫物は縁側に運び込まれました。<lb />
+　覆いの白い布を<span type="ruby"><span type="rb">除</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>ると、春の陽を半身に浴びて、縁側にすっくと立った八百屋お七等身の像、赤い襦袢、<span type="ruby"><span type="rb">鹿</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>の帯、日向守の描いた絵と一対の姿態ですが、これは又なんとした、無力で冷たくて精彩のないお七でしょう。<lb />
+「左京、これはなんだ」<lb />
+「ハッ」<lb />
+「<span type="ruby"><span type="rb">唯</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>の人形ではないか、振り上げた撞木の下から、念仏でも称えそうではないか――恋の<span type="ruby"><span type="rb">焔</span><span type="rp">（</span><span type="rt">ほのお</span><span type="rp">）</span></span>に八百八町を火の海にしたお七は、こんな唯の女ではあるまい――余の絵と出来栄え比べなどは<span type="ruby"><span type="rb">飛</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>んでもない」<lb />
+「――――」<lb />
+「もう一度やり直せ」<lb />
+「ハッ」<lb />
+　六郷左京は、無念の唇を噛んで引下る外はなかったのです。わけ知りの主君日向守は、事芸道に関する限り、<span type="ruby"><span type="rb">欺</span><span type="rp">（</span><span type="rt">あざむ</span><span type="rp">）</span></span>くことの出来ない名君だったのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">三</span></span></span>
+<lb />
+　六郷左京はお七の像を抱いてお長屋に引下りました。こうなるともうこの彫像を、二度と見るのが嫌になります。<lb />
+　いきなり庭に持出すと、薪割りで真っ向から<span type="ruby"><span type="rb">発矢</span><span type="rp">（</span><span type="rt">はっし</span><span type="rp">）</span></span>とやりました。よく枯れ切った木曾の檜材は、左京の腕の冴えにつれて、物の見事に真二つになります。<lb />
+「畜生ッ、何んの<span type="ruby"><span type="rb">奇瑞</span><span type="rp">（</span><span type="rt">きずい</span><span type="rp">）</span></span>も現わさないのか」<lb />
+　左京はなおもそれを切り刻みました。極彩色のお七は、四つに割られ、八つになり、十六に、三十二になって、庭の隅に<span type="ruby"><span type="rb">投</span><span type="rp">（</span><span type="rt">ほう</span><span type="rp">）</span></span>り出されます。<lb />
+「なんということだ」<lb />
+　それに泥を蹴上げて、家の中に入った左京は、猛烈な自己嫌悪に陥って、<lb />
+「酒だ、酒だ、早く酒を持ってこい」<lb />
+　最後の逃避を、アルコールに求める外は無かったのです。<lb />
+「六郷様、どうなさいました」<lb />
+　酒の用意をして来た女中の後ろから、そっと顔を出したのは、モデル以来、御殿から此のお長屋へ、毎日通い慣れた腰元の多与里です。<lb />
+「多与里殿か、御前体まことに散々であったよ、あれ程の凡作とは、鑿を取ったこの私も、陽の光りで見るまでは気が付かなかった」<lb />
+　左京は盃を取って、唇を濡らしました。<lb />
+「あの、私のせいで――」<lb />
+「いや、<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">たれ</span><span type="rp">）</span></span>のせいでもない、この私の腕の鈍さだ、――おや、泣いていられるのか、多与里殿」<lb />
+「いえ、あの」<lb />
+　灯の蔭に反けた顔のいじらしさ――この女にも、このような優しい半面があったのか知ら――六郷左京は新しい発見をしたような心持になりました。<lb />
+「仕事はやり直しだ、前祝に一献参ろうか、多与里殿」<lb />
+　<span type="ruby"><span type="rb">不躾</span><span type="rp">（</span><span type="rt">ぶしつ</span><span type="rp">）</span></span>け乍ら――といった調子で、左京は娘の方へ盃を差しました。<lb />
+「あの、お酌いたしましょう」<lb />
+　銚子を取った白い華奢な手、俯向いた頬がサッと紅差して、妙に此娘を<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>めかしく見せます。<lb />
+「それは有難い、――長い間の辛抱であったが――拙者の技の<span type="ruby"><span type="rb">拙</span><span type="rp">（</span><span type="rt">まず</span><span type="rp">）</span></span>さで、飛んだ恥を掻かせた<span type="ruby"><span type="rb">喃</span><span type="rp">（</span><span type="rt">のう</span><span type="rp">）</span></span>」<lb />
+「いえ、私のせいで――」<lb />
+「いや、多与里殿の美しさは非の打ちどころは無い、――もう少し灯の傍へ――こう近う寄られるが宜い」<lb />
+　酒が廻ると、六郷左京の舌も態度も無遠慮になって、<span rend="sesame_dot" rendition="em">ツ</span>と伸びた手が、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>の間にやら多与里の手首を掴んでいたのです。<lb />
+　骨細の、掌の中に消えそうな凝脂、不思議に弾力的な触感が、酔った左京をツイ積極的にしました。<lb />
+「あれ」<lb />
+　それは<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">憚</span><span type="rp">（</span><span type="rt">はばか</span><span type="rp">）</span></span>る小さい小さい声でした。<lb />
+「多与里殿」<lb />
+　六郷左京の声はツイ口の中に消えます。<lb />
+　なんという美しさでしょう。三月近くあの妖艶極まる扮装をしたお七の姿を見馴れてきた左京ですが、それは冷たい、そして取澄ました美しいものに過ぎなかったのに、今晩の多与里の悩ましく輝かしく、そして<span type="ruby"><span type="rb">滴</span><span type="rp">（</span><span type="rt">したた</span><span type="rp">）</span></span>るような魅惑は、<span type="ruby"><span type="rb">曾</span><span type="rp">（</span><span type="rt">かつ</span><span type="rp">）</span></span>て想像をしたこともありません。<lb />
+　女は全く違った半面を見せたのです。<lb />
+「恋だ」<lb />
+　左京は、自分の疑問に胸の<span type="ruby"><span type="rb">裡</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>で答えました。女を一朝にしてこうも美しく変貌させるものは、恋の魔術でなくてなんでしょう。<lb />
+　美貌を買われて、亀山侯の御殿に上った多与里は、十九の春までも、ツイ恋らしいものも知らず、固い固い蕾のまま、お七の扮装をさせられ、心ならずも、激情のシーンを強いられていたのでしょう。<lb />
+　女を美しくするもの、恋の外に何があろう、<span type="ruby"><span type="rb">白粉</span><span type="rp">（</span><span type="rt">おしろい</span><span type="rp">）</span></span>も、紅も、美しい扮装も、それは末の末だ。その大事な条件も知らずに、六郷左京は上滑りな美に追われて、八十日余りも鑿を<span type="ruby"><span type="rb">振</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>っていたのです。<lb />
+「多与里殿、もっと<span type="ruby"><span type="rb">此方</span><span type="rp">（</span><span type="rt">こっち</span><span type="rp">）</span></span>へ寄るが宜い、――明日からでも彫物は新しく始めよう、その前祝いに、夜とともに飲み明かし、語り明かそうではないか――御殿へは、夜業を始めるといえばそれで済む」<lb />
+　左京の手は又伸びました。もう多与里の手首ではなく、その丸い小さい肩――激情と娘らしい恐怖にワナワナ<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>える肩を抱いて、自分の膝の上に引寄せたのです。<lb />
+　だが、<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>んとしたことでしょう。六郷左京の頭の中は水のように澄み切って、自分のこの<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>た無い行為に対して、一挙手一投足、小さい言葉の末々までも、反芻し批判して、舞台の役者の演技のように、その反応と効果ばかりを狙っているのはなんとしたことでしょう。<lb />
+　六郷左京は、その道にかけては、戦場万馬往来の古<span rend="sesame_dot" rendition="em">つわもの</span>でした。唯の小娘――それはお人形のように綺麗であるにしても、意気地も<span type="ruby"><span type="rb">張</span><span type="rp">（</span><span type="rt">はり</span><span type="rp">）</span></span>もない多与里に、さして魅力を感ずる筈もなく、心の<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>では入山形に二つ星の、<span type="ruby"><span type="rb">某</span><span type="rp">（</span><span type="rt">なにがし</span><span type="rp">）</span></span>太夫の強靭な恋の技巧を考え乍ら、この娘を一つ<span type="ruby"><span type="rb">沸</span><span type="rp">（</span><span type="rt">たぎ</span><span type="rp">）</span></span>らせて見ようと言った、悪魔的な遊び心と、もう一つは、そうすることによって此娘からお七的な激情を呼び覚まし、それを鑿の芸術に活かしてやろうといった、逞ましい野心が、<span type="ruby"><span type="rb">勃々</span><span type="rp">（</span><span type="rt">ぼつぼつ</span><span type="rp">）</span></span>としてその功名心を煽ったのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">四</span></span></span>
+<lb />
+　それからの仕事は、奇蹟的に進捗しました。モデル台の上に立った多与里は、最早以前の美しい泥人形の小娘ではなく、左京の操る<span type="ruby"><span type="rb">巧</span><span type="rp">（</span><span type="rt">たくみ</span><span type="rp">）</span></span>な恋の技巧に躍らされて、燃えさかる青春の象徴であり、<span type="ruby"><span type="rb">申分</span><span type="rp">（</span><span type="rt">もうしぶん</span><span type="rp">）</span></span>のない八百屋お七的な激情の女性だったのです。<lb />
+　鑿は勢いよく動き出しました。しかもその一彫一刻が、有機的な繋りを保って、一塊の<span type="ruby"><span type="rb">焔</span><span type="rp">（</span><span type="rt">ほのお</span><span type="rp">）</span></span>のように、流動的な形にまで燃え盛るのでした。<lb />
+　四月には磨きも済んで、端午の節句の頃にはもう彩色にかかっておりました。<lb />
+　わざと毛描きや、丹念な塗りは<span type="ruby"><span type="rb">止</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>して、ザット刷いた淡彩が、その匂うばかりの繋の跡を活かして、檜に刻んだ八百屋お七が、その<span type="ruby"><span type="rb">儘</span><span type="rp">（</span><span type="rt">まま</span><span type="rp">）</span></span>櫓の上に駈け登りそうです。<lb />
+　その間にも六郷左京と多与里の恋の遊戯は、日とともに濃度を加え、最早抜き差しならぬ心境にまで押し上げましたが、その時<span type="ruby"><span type="rb">丁度</span><span type="rp">（</span><span type="rt">ちょうど</span><span type="rp">）</span></span>、彫像八百屋お七は出来上っていたのです。<lb />
+　作品は早速殿――石川日向守の御前に運ばれました。<lb />
+　五月の<span type="ruby"><span type="rb">爽</span><span type="rp">（</span><span type="rt">さわや</span><span type="rp">）</span></span>かなある夜、百目蝋燭を幾つとなく連ねた燭台の林の中に据えて、上へ被せた白い布を取った時、<lb />
+「フーム」<lb />
+　石川日向守はさすがに<span type="ruby"><span type="rb">唸</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>りました。<lb />
+　それはまさに、一塊の美しい焔でした。激情に駆られた一人の処女が、凄惨な<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>を振り仰ぎ、躍動する振袖と裾に燃え上げられて、其儘天井に焼け抜けるかと思うばかり。<lb />
+「これは良い、見事だぞ左京、――余の浮世絵などの遠く及ぶところでない」<lb />
+　石川日向守は、さすがに芸術のわかる殿様でした。膝を打って感嘆し乍ら、いさぎよく自分の負けを宣言するのです。<lb />
+　数々の下されもの、身に余る<span type="ruby"><span type="rb">御賞</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>めの言葉、その上祝い酒まで下されて、六郷左京上々の首尾で帰りましたが、<lb />
+「お帰り遊ばしませ」<lb />
+「――――」<lb />
+「上々の御首尾で、お<span type="ruby"><span type="rb">目出度</span><span type="rp">（</span><span type="rt">めでと</span><span type="rp">）</span></span>う御座います」<lb />
+　ワクワクした心持で迎えてくれた多与里に対して、左京はもう、大した関心も持っていなかったのです。<lb />
+「多与里殿、長い間御苦労であった、御殿へ帰って休まれるがよい」<lb />
+　左京の口から出たのはたったこれだけ。<lb />
+「――――」<lb />
+　多与里はその<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">つめた</span><span type="rp">）</span></span>い横顔を盗み視ると、そっと涙を拭って<span type="ruby"><span type="rb">立上</span><span type="rp">（</span><span type="rt">たちあが</span><span type="rp">）</span></span>りました。昨日までの、あの一番熱烈な恋人の態度は、<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>へ振り落して来たのでしょう。<lb />
+「あ、あ、疲れた、四五日存分に休みたい」<lb />
+　左京はそういって、色消しな<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>を二つ三つ、ポンポンと手を叩いて女中を呼ぶのです。<lb />
+　側にいる多与里などは、もう眼中にもありません。<lb />
+　それからの六郷左京と、腰元多与里の関係は、世にも不思議なものでした。一度処女の心に点じた恋の焔は、左京の冷淡さに煽られて、お七的な激しさにまで燃えさかりますが、一方左京の心境は昔の平静に還って、多与里の事などは、忘れようともせずに、綺麗に忘れるほどの不人情振りです。<lb />
+　一つの芸術の完成のための、ささやかな犠牲が多与里だったのでしょう。そんなものにこだわるにしては、六郷左京は十分に悪魔的でした。<lb />
+　用事を<span type="ruby"><span type="rb">拵</span><span type="rp">（</span><span type="rt">こしら</span><span type="rp">）</span></span>えては、左京の長屋へ来る多与里も、その冷淡な態度を見ると、近寄る<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>もありません。思いの<span type="ruby"><span type="rb">丈</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>を書き綴って、<span type="ruby"><span type="rb">人伝</span><span type="rp">（</span><span type="rt">ひとづ</span><span type="rp">）</span></span>てに送っても返事が来ず、<span type="ruby"><span type="rb">到頭</span><span type="rp">（</span><span type="rt">とうとう</span><span type="rp">）</span></span>お<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>いには、多与里の姿を見ただけでも<span rend="sesame_dot" rendition="em">うるさ</span>そうに顔を反ける左京です。<lb />
+　この冷たさが逆効果を生んで、多与里の情熱を<span type="ruby"><span type="rb">沸</span><span type="rp">（</span><span type="rt">たぎ</span><span type="rp">）</span></span>らせるばかり。「こいつは飛んだ<span type="ruby"><span type="rb">安珍清姫</span><span type="rp">（</span><span type="rt">あんちんきよひめ</span><span type="rp">）</span></span>だ」屋敷中の者が、袖引き合うようになった頃のこと、<lb />
+「左京を呼べ」<lb />
+　殿から、<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>のお召しです。<lb />
+「ハッ、御召しで御座いますか」<lb />
+　妙に改まった調子に、六郷左京は<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">ひや</span><span type="rp">）</span></span>りとして日向守の御前に平伏しました。<lb />
+「外ではない、――近頃屋敷中の噂だが、其方多与里となんか約束でも取交したのではないか」<lb />
+　平民殿様はすっかり下々のことを<span type="ruby"><span type="rb">呑込</span><span type="rp">（</span><span type="rt">のみこ</span><span type="rp">）</span></span>んでおります。「不義は御家の<span type="ruby"><span type="rb">厳</span><span type="rp">（</span><span type="rt">きつ</span><span type="rp">）</span></span>い<span type="ruby"><span type="rb">法度</span><span type="rp">（</span><span type="rt">はっと</span><span type="rp">）</span></span>」などは、この御殿では通用しません。<lb />
+「飛んでもない、左様な覚えは毛頭」<lb />
+「よいよい、お前の方に覚えがなくとも、多与里は大した執心じゃと申すが」<lb />
+「一々左様なことに<span type="ruby"><span type="rb">煩</span><span type="rp">（</span><span type="rt">わずら</span><span type="rp">）</span></span>わされては、絵描き、彫物師などはたまりません。例えば歌麿、清長の昔から、亀戸の国貞に至るまで、幾人美女を描きましたことか」<lb />
+「もうよいよい、言いわけは<span type="ruby"><span type="rb">沢山</span><span type="rp">（</span><span type="rt">たくさん</span><span type="rp">）</span></span>だ。それより、いずれは多与里、小浪、梅野の三人腰元に<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>をつかわして、良い縁あらば嫁入らせようと思っているところじゃ。幸い其方と采女と甚三郎はいずれも定まる配偶もない。差し当り、其方に多与里を<span type="ruby"><span type="rb">嫁合</span><span type="rp">（</span><span type="rt">めあわ</span><span type="rp">）</span></span>せようと思うがどうじゃ」<lb />
+「それは」<lb />
+「よいではないか、半年も其方の長屋に通って、顔を合せた間柄だ。その上多与里はあの通り思い詰めている。よもや不足は申させぬぞ、余の申付けじゃ」<lb />
+「ハッ」<lb />
+　六郷左京、こんなに驚いたことはありません。一時の方便で、多与里の恋心を煽ったには違いありませんが、それを<span rend="sesame_dot" rendition="em">まさか</span>一生つれ添う女房として背負い込もうとは思いも寄らなかったのです。<lb />
+　同じ背負い込むなら――町人の娘の淋しい多与里より若くて明るくて、愛嬌があって、その上石川日向守一門の末に連なる石川<span type="ruby"><span type="rb">玄蕃</span><span type="rp">（</span><span type="rt">げんば</span><span type="rp">）</span></span>の娘、小浪を貰った方が、どんなに良いかわからないのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">五</span></span></span>
+<lb />
+「恐れ乍ら、殿――」<lb />
+「なんだ、承知をする気か」<lb />
+「殿には、<span type="ruby"><span type="rb">曲亭滝沢馬琴</span><span type="rp">（</span><span type="rt">きょくていたきざわばきん</span><span type="rp">）</span></span>の八犬伝を御愛読のようで」<lb />
+　六郷左京は妙なことを言い出しました。<lb />
+「ウム、それがどうした」<lb />
+　馬琴の八犬伝はその頃天下の人気を湧き立たせていたことはいう<span type="ruby"><span type="rb">迄</span><span type="rp">（</span><span type="rt">まで</span><span type="rp">）</span></span>もありません。<lb />
+「あの末段に、里美侯の八人の姫君を、八人の犬士にめ合せるところが御座います」<lb />
+「ウーム」<lb />
+「その手段として、<span type="ruby"><span type="rb">簾</span><span type="rp">（</span><span type="rt">すだれ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">距</span><span type="rp">（</span><span type="rt">へだ</span><span type="rp">）</span></span>てて縁結びをし、<span type="ruby"><span type="rb">配合</span><span type="rp">（</span><span type="rt">くみあわ</span><span type="rp">）</span></span>せは月下氷人に任せるという<span type="ruby"><span type="rb">条</span><span type="rp">（</span><span type="rt">くだ</span><span type="rp">）</span></span>りが御座いますが」<lb />
+「いかにも、実際はあり相もない話だが、狂言続語としては面白いな」<lb />
+「それを学んで、縁結びで御決めになっては<span type="ruby"><span type="rb">如何</span><span type="rp">（</span><span type="rt">いかが</span><span type="rp">）</span></span>で御座いましょう。なお御屋敷名物の三人腰元を、私共三人の家臣に賜わるのは、此の上もない有難いことでは御座いますが、その取り合せに、<span type="ruby"><span type="rb">依怙</span><span type="rp">（</span><span type="rt">えこ</span><span type="rp">）</span></span>があってはなりません。これは矢張り運を天に任せ、縁結びで配偶をきめるのが、一番公平かと存じますが」<lb />
+「成程それは面白いな」<lb />
+　浮世絵の殿様石川日向守は、此奇抜な縁結びに、とうとう乗り出してしまったのです。<lb />
+　政略や野心や、家柄のためにさえ――いや、殆んど家柄や利害や、政略のためにだけ婚姻が行われた時代のことです。三人腰元と三人の寵臣の縁結び、この不道徳な遊戯さえも、道徳的に正当化されたところでなんの不思議もありません。<lb />
+　三人の美しい腰元の存在に、安からぬ心を抱いていた御内室は、第一番にこの縁結びに賛成しました。<lb />
+　大体の段取りは八犬伝に書かれた縁結びの通り、簾を距てて投げた三本の赤い紐を、六郷左京、名川采女、伊東甚三郎の三人が、引きさえすればそれで良かったのです。<lb />
+　この行事は、五月十五日の晩と<span type="ruby"><span type="rb">定</span><span type="rp">（</span><span type="rt">きま</span><span type="rp">）</span></span>りました。すべての手配は奥女中の取締りをしている、老女<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>が承わり、縁結びに続く酒宴、それから三人のお長屋に三組の男女を送り込む段取まで、万に一つの手落のないように運びました。<lb />
+　こうなると、運勢は三つに一つです。六郷左京にしてみれば、美しい泥人形の多与里を<span type="ruby"><span type="rb">押付</span><span type="rp">（</span><span type="rt">おしつ</span><span type="rp">）</span></span>けられるよりは、まだしも三つに一つのプロバビリティの方が気が楽ですが、それでも、自分の狙っている小浪を手に入れる為には、なんとか一と工夫めぐらさなければなりません。<lb />
+　六郷左京はまず、老女砧に渡りをつけました。これは容易ならぬ<span type="ruby"><span type="rb">手剛</span><span type="rp">（</span><span type="rt">てごわ</span><span type="rp">）</span></span>い相手ですが、運の好いことに、砧の弟某は左京の組下で、いろいろのことで恩を着せております。<lb />
+　早速<span type="ruby"><span type="rb">大童</span><span type="rp">（</span><span type="rt">おおわらわ</span><span type="rp">）</span></span>の猛運動が開始されました。八百屋お七の彫像で、殿から頂いた褒美三百両の大金を<span type="ruby"><span type="rb">投出</span><span type="rp">（</span><span type="rt">なげだ</span><span type="rp">）</span></span>した上、老女砧の首根っこを掴むようにして、縁結びの当日、簾の外に投出した赤い紐三本のうち、小浪の名札を結んだのへ、白い糸で小さい目印を付けることを承知させてしまったのです。<lb />
+　こう運んでしまえば、あとはもう天下泰平でした。いよいよ五月十五日の日も暮れて、上屋敷大広間の、かけ連ねた銀燭の中に、三人の美女、多与里、小浪、梅野は、それにめ合せる筈の三人の寵臣、六郷左京、名川采女、伊東甚三郎と相対しました。<lb />
+　一方は<span type="ruby"><span type="rb">裃</span><span type="rp">（</span><span type="rt">かみしも</span><span type="rp">）</span></span>に威儀を正し、一方は振袖に綿帽子を被せました。顔は見えませんが、その中でも上座に坐ったのは、多分多与里でしょう、時の経つにつれて押え難い興奮のために、その肩のあたりがワナワナと顫えております。<lb />
+　やがて、三人の花嫁が次の間に退くと、老女の手で、簾の下から三本の赤い紐が投出されました。<lb />
+「では、年長の六郷左京から」<lb />
+　上座の日向守の声が掛ると、左京は<span type="ruby"><span type="rb">臆</span><span type="rp">（</span><span type="rt">おく</span><span type="rp">）</span></span>れる色もなく進み出ます。三本の赤い紐のうち、真中の一本が、房に白い糸がチラリと交っているのを見落す筈もありません。<lb />
+　続いて采女、最後に甚三郎、三人それぞれ引いた赤い紐の先には、左京の紐には小浪、采女の紐には梅野、甚三郎の紐には多与里の名札がついているのでした。<lb />
+　どっと歓声が挙りました。<lb />
+「やんや、やんや」<lb />
+　石川日向守は扇を開いて<span type="ruby"><span type="rb">囃</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>しております。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">六</span></span></span>
+<lb />
+　御内室もその横からニッコリしました。まさに此遊戯は満点的な成功です。それから間もなく、綿帽子を被った三人の花嫁は、老女達に手を引かれて、それぞれの運命の<span type="ruby"><span type="rb">良人</span><span type="rp">（</span><span type="rt">おっと</span><span type="rp">）</span></span>のところに案内されました。<lb />
+　名川采女、伊東甚三郎のところにはどんなことがあったかわかりませんが、六郷左京のところに案内されて来た花嫁――腰元の小浪は、不思議なことに親の石川玄蕃もその妻の某も姿を見せず、老女が花嫁を奥の一と間に納めると、親類縁者を誘うように、コソコソと帰ってしまいました。<lb />
+　三々九度の盃は殿の御前で済ませたのですが、せめて床盃の世話でもしてくれなければ――といった物足りない心持で、六郷左京は新婦の待っている<span type="ruby"><span type="rb">閨</span><span type="rp">（</span><span type="rt">ねや</span><span type="rp">）</span></span>へ入って行きました。<lb />
+　花嫁の小浪は、床の前にキチンと坐ったまま、少し固くなっております。<lb />
+「小浪殿、――不思議な縁であったな」<lb />
+「――――」<lb />
+　寄りそうように坐りましたが、花嫁は黙りこくってまだ物も言いません、多分<span type="ruby"><span type="rb">恥</span><span type="rp">（</span><span type="rt">はずか</span><span type="rp">）</span></span>しさに消え入り度い心持でしょう。<lb />
+「まずそれを脱ぐがよい」<lb />
+　六郷左京は及び腰に手を伸ばして、花嫁の綿帽子を<span type="ruby"><span type="rb">脱</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>りました。少し手荒だったのか、鼈甲の髪飾りの花が、二つ三つ、床の上に散りました。<lb />
+　が、花嫁は物も言いません、静かに上げた顔、左京を見据えた眼、<lb />
+「あ、多与里」<lb />
+　それは紛れもない多与里――曾てはお七のモテルになって、散々恋の遊戯をした相手の、多与里の<span type="ruby"><span type="rb">恨</span><span type="rp">（</span><span type="rt">うらみ</span><span type="rp">）</span></span>に燃ゆる顔ではありませんか。<lb />
+「――――」<lb />
+「お前は、お前は――」<lb />
+　まさに左京は開いた口も<span type="ruby"><span type="rb">塞</span><span type="rp">（</span><span type="rt">ふさ</span><span type="rp">）</span></span>がりません。<lb />
+「怨めしい、お前の心、――紐に目印しまで付けさしたと、砧様に聴きました。でも私の歎きの深さ切なさに、砧様は我慢がなり兼ねて、<span type="ruby"><span type="rb">皆</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>んな教えてくれました。――」<lb />
+「何？　あの婆ア<span type="ruby"><span type="rb">奴</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>が」<lb />
+「これ程までにして、私を踏みつけようとは、怨めしい、左京様」<lb />
+　<span rend="sesame_dot" rendition="em">ツ</span>と立った多与里の手には、いつの間に抜いたか懐剣が光っていました。<lb />
+「あ、危いッ」<lb />
+　という間もありません。寸鉄も帯びなかった六郷左京は、伸びた花嫁の懐剣に胸を刺されて、<lb />
+「あッ」<lb />
+　腑甲斐なくも尻もちをついたのです。彫物の腕は優れていても、武術の方は此上もない大<span rend="sesame_dot" rendition="em">なまくら</span>だったのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">フィナーレ</span></span></span>
+<lb />
+「私の話はこれで終りました。六郷左京は花嫁姿の多与里に刺されて死に、多与里は可哀想に其儘気が狂ったということです。名作八百屋お七の彫像は、気の狂った多与里のために、その夜のうちに滅茶滅茶に割られたことも申し添えましょう」<lb />
+　話し手の天野久左衛門はそういって、又五本の指で長い髪を梳きました。<lb />
+「最後に、教訓めかして<span type="ruby"><span type="rb">甚</span><span type="rp">（</span><span type="rt">はなは</span><span type="rp">）</span></span>だ失礼ですが、他人の犠牲によって遂げたものは、それは富でも名でも芸術でも、糞土の如きものだと私は信じていることを申し上げ度いと思います。自分の<span type="ruby"><span type="rb">倅</span><span type="rp">（</span><span type="rt">せがれ</span><span type="rp">）</span></span>の首を斬らせて、忠義を全うするという、寺子屋の松王さえ、私は憎まずにはいられません、まして芸術家が――」<lb />
+　天野久左衛門は、ピョコリとお辞儀をして、呆気に取られている聴衆の中に紛れ込みました。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>中国怪奇小説集</title>
+        <author>岡本綺堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2003-07-31">作成</resp><resp /><note>
+<lb />
+底本：「中国怪奇小説集」光文社
+<lb />
+　　　1994（平成6）年4月20日第1刷発行<lb />
+入力：tatsuki<lb />
+校正：もりみつじゅんじ<lb />
+<date when="2003-07-31">2003年7月31日</date>作成<lb />
+<date when="2007-07-15">2007年7月15日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>tatsuki</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>もりみつじゅんじ</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>中国怪奇小説集</title><author>岡本綺堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div">
+<lb />
+<lb />
+<lb />
+　主人の「開会の辞」が終った後、第一の男は語る。<lb />
+「唯今御主人から御説明がありました通り、今晩のお話は<span type="ruby"><span type="rb">六朝</span><span type="rp">（</span><span type="rt">りくちょう</span><span type="rp">）</span></span>時代から始める筈で、わたくしがその<span type="ruby"><span type="rb">前講</span><span type="rp">（</span><span type="rt">ぜんこう</span><span type="rp">）</span></span>を受持つことになりました。なんといっても、この時代の作で最も有名なものは『捜神記』で、ほとんど<span type="ruby"><span type="rb">後世</span><span type="rp">（</span><span type="rt">こうせい</span><span type="rp">）</span></span>の小説の祖をなしたと言ってもよろしいのです。<lb />
+　この原本の世に伝わるものは二十巻で、<span type="ruby"><span type="rb">晋</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">干宝</span><span type="rp">（</span><span type="rt">かんぽう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">撰</span><span type="rp">（</span><span type="rt">せん</span><span type="rp">）</span></span>ということになって居ります。干宝は東晋の<span type="ruby"><span type="rb">元帝</span><span type="rp">（</span><span type="rt">げんてい</span><span type="rp">）</span></span>に仕えて<span type="ruby"><span type="rb">著作郎</span><span type="rp">（</span><span type="rt">ちょさくろう</span><span type="rp">）</span></span>となり、博覧強記をもって聞えた人で、ほかに『晋紀』という歴史も書いて居ります。、但し今日になりますと、干宝が『捜神記』をかいたのは事実であるが、その原本は世に伝わらず、普通に流布するものは<span type="ruby"><span type="rb">偽作</span><span type="rp">（</span><span type="rt">ぎさく</span><span type="rp">）</span></span>である。たとい全部が偽作でなくても、他人の筆がまじっているという説が唱えられて居ります。これは<span type="ruby"><span type="rb">清朝</span><span type="rp">（</span><span type="rt">しんちょう</span><span type="rp">）</span></span>初期の学者たちが言い出したものらしく、また一方には、たといそれが干宝の原本でないとしても、六朝時代に作られたものに相違ないのであるから、後世の人間がいい加減にこしらえた偽作とは、その価値が大いに違うという説もあります。<lb />
+　こういうむずかしい<span type="ruby"><span type="rb">穿索</span><span type="rp">（</span><span type="rt">せんさく</span><span type="rp">）</span></span>になりますと、浅学のわれわれにはとても判りませんから、ともかくも昔から言い伝えの通りに、晋の干宝の撰ということに致して置いて、すぐに<span type="ruby"><span type="rb">本文</span><span type="rp">（</span><span type="rt">ほんもん</span><span type="rp">）</span></span>の紹介に取りかかりましょう」<lb />
+<lb />
+　　　首の飛ぶ女<lb />
+<lb />
+　<span type="ruby"><span type="rb">秦</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>の時代に、南方に<span type="ruby"><span type="rb">落頭民</span><span type="rp">（</span><span type="rt">らくとうみん</span><span type="rp">）</span></span>という人種があった。その<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かしら</span><span type="rp">）</span></span>がよく飛ぶのである。その人種の集落に祭りがあって、それを<span type="ruby"><span type="rb">虫落</span><span type="rp">（</span><span type="rt">ちゅうらく</span><span type="rp">）</span></span>という。その虫落にちなんで、落頭民と呼ばれるようになったのである。<lb />
+　<span type="ruby"><span type="rb">呉</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>の将、<span type="ruby"><span type="rb">朱桓</span><span type="rp">（</span><span type="rt">しゅかん</span><span type="rp">）</span></span>という将軍がひとりの<span type="ruby"><span type="rb">下婢</span><span type="rp">（</span><span type="rt">かひ</span><span type="rp">）</span></span>を置いたが、その女は夜中に<span type="ruby"><span type="rb">睡</span><span type="rp">（</span><span type="rt">ねむ</span><span type="rp">）</span></span>ると首がぬけ出して、あるいは<span type="ruby"><span type="rb">狗竇</span><span type="rp">（</span><span type="rt">いぬくぐり</span><span type="rp">）</span></span>から、あるいは窓から出てゆく。その飛ぶときは耳をもって<span type="ruby"><span type="rb">翼</span><span type="rp">（</span><span type="rt">つばさ</span><span type="rp">）</span></span>とするらしい。そばに寝ている者が怪しんで、夜中にその寝床を照らして<span type="ruby"><span type="rb">視</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>ると、ただその胴体があるばかりで首が無い。からだも常よりは少しく冷たい。そこで、その胴体に<span type="ruby"><span type="rb">衾</span><span type="rp">（</span><span type="rt">よぎ</span><span type="rp">）</span></span>をきせて置くと、夜あけに首が舞い戻って来ても、衾にささえられて胴に戻ることが出来ないので、首は幾たびか地に<span type="ruby"><span type="rb">堕</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ちて、その息づかいも苦しく<span type="ruby"><span type="rb">忙</span><span type="rp">（</span><span type="rt">せわ</span><span type="rp">）</span></span>しく、今にも死んでしまいそうに見えるので、あわてて衾を取りのけてやると、首はとどこおりなく元に戻った。<lb />
+　こういうことがほとんど毎夜くり返されるのであるが、昼のあいだは普通の人とちっとも変ることはなかった。それでも甚だ気味が悪いので、主人の将軍も捨て置かれず、ついに<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">ひま</span><span type="rp">）</span></span>を出すことになったが、だんだん聞いてみると、それは一種の天性で別に怪しい者ではないのであった。<lb />
+　このほかにも、南方へ出征の大将たちは、<span type="ruby"><span type="rb">往々</span><span type="rp">（</span><span type="rt">おうおう</span><span type="rp">）</span></span>こういう不思議の女に出逢った経験があるそうで、ある人は試みに銅盤をその胴体にかぶせて置いたところ、首はいつまでも戻ることが出来ないで、その女は遂に死んだという。<lb />
+<lb />
+　　　※<span rend="notes">［＃「けものへん＋矍」、23-4］</span>猿<lb />
+<lb />
+　<span type="ruby"><span type="rb">蜀</span><span type="rp">（</span><span type="rt">しょく</span><span type="rp">）</span></span>の西南の山中には一種の<span type="ruby"><span type="rb">妖物</span><span type="rp">（</span><span type="rt">ようぶつ</span><span type="rp">）</span></span>が棲んでいて、その形は猿に似ている。身のたけは七尺ぐらいで、人の如くに歩み、<span type="ruby"><span type="rb">且</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>つ善く走る。土地の者はそれを<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/2-80/2-80-45.png" rend="gaiji" rendition="img" source="※(「けものへん＋暇のつくり」、第4水準2-80-45)" />国</span><span type="rp">（</span><span type="rt">かこく</span><span type="rp">）</span></span>といい、又は<span type="ruby"><span type="rb">馬化</span><span type="rp">（</span><span type="rt">ばか</span><span type="rp">）</span></span>といい、あるいは<span type="ruby"><span type="rb">※猿</span><span type="rp">（</span><span type="rt">かくえん</span><span type="rp">）</span></span><span rend="notes">［＃「けものへん＋矍」、23-7］</span>とも呼んでいる。<lb />
+　かれらは山林の茂みに<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">ひそ</span><span type="rp">）</span></span>んでいて、往来の婦女を奪うのである。美女は殊に目指される。それを防ぐために、ここらの人たちが山中を行く時には、長い一条の縄をたずさえて、互いにその縄をつかんで行くのであるが、それでもいつの間にか、その一人または二人を<span type="ruby"><span type="rb">攫</span><span type="rp">（</span><span type="rt">さら</span><span type="rp">）</span></span>って行かれることがしばしばある。<lb />
+　かれらは男と女の<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いをよく知っていて、決して男を取らない。女を取れば連れ帰って自分の妻とするのであるが、子を生まない者はいつまでも帰ることを許されないので、十年の後には形も心も自然にかれらと同化して、ふたたび里へ帰ろうとはしない。<lb />
+　もし子を生んだ者は、母に子を抱かせて帰すのである。しかもその子を育てないと、その母もかならず死ぬので、みな恐れて養育することにしているが、成長の後は別に普通の人と変らない。それらの人間はみな<span type="ruby"><span type="rb">楊</span><span type="rp">（</span><span type="rt">よう</span><span type="rp">）</span></span>という姓を名乗っている。今日、蜀の西南地方で楊姓を呼ばれている者は、大抵その妖物の子孫であると伝えられている。<lb />
+<lb />
+　　　琵琶鬼<lb />
+<lb />
+　<span type="ruby"><span type="rb">呉</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">赤烏</span><span type="rp">（</span><span type="rt">せきう</span><span type="rp">）</span></span>三年、<span type="ruby"><span type="rb">句章</span><span type="rp">（</span><span type="rt">こうしょう</span><span type="rp">）</span></span>の農夫<span type="ruby"><span type="rb">楊度</span><span type="rp">（</span><span type="rt">ようたく</span><span type="rp">）</span></span>という者が<span type="ruby"><span type="rb">余姚</span><span type="rp">（</span><span type="rt">よちょう</span><span type="rp">）</span></span>というところまで出てゆくと、途中で日が暮れた。<lb />
+　ひとりの少年が<span type="ruby"><span type="rb">琵琶</span><span type="rp">（</span><span type="rt">びわ</span><span type="rp">）</span></span>をかかえて来て、楊の車に一緒に載せてくれというので、承知して同乗させると、少年は車中で琵琶数十曲をひいて聞かせた。楊はいい心持で聴いていると、曲終るや、かの少年は<span type="ruby"><span type="rb">忽</span><span type="rp">（</span><span type="rt">たちま</span><span type="rp">）</span></span>ち鬼のような顔色に変じて、眼を<span type="ruby"><span type="rb">瞋</span><span type="rp">（</span><span type="rt">いか</span><span type="rp">）</span></span>らせ、舌を吐いて、楊をおどして立ち去った。<lb />
+　それから更に二十里（六<span type="ruby"><span type="rb">丁</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span>一里。日本は三十六丁で一里）ほど行くと、今度はひとりの老人があらわれて、楊の車に載せてくれと言った。前に少しく<span type="ruby"><span type="rb">懲</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>りてはいるが、その老いたるを<span type="ruby"><span type="rb">憫</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>れんで、楊は再び載せてやると、老人は<span type="ruby"><span type="rb">王戒</span><span type="rp">（</span><span type="rt">おうかい</span><span type="rp">）</span></span>という者であるとみずから名乗った。楊は途中で話した。<lb />
+「さっき飛んだ目に逢いました」<lb />
+「どうしました」<lb />
+「鬼がわたしの車に乗り込んで琵琶を弾きました。鬼の琵琶というものを初めて聴きましたが、ひどく<span type="ruby"><span type="rb">哀</span><span type="rp">（</span><span type="rt">かな</span><span type="rp">）</span></span>しいものですよ」<lb />
+「わたしも琵琶をよく弾きます」<lb />
+　言うかと思うと、かの老人は前の少年とおなじような顔をして見せたので、楊は<span rend="SESAME_DOT" rendition="strong">あっ</span>と叫んで気をうしなった。<lb />
+<lb />
+　　　<span type="ruby"><span type="rb">兎怪</span><span type="rp">（</span><span type="rt">とかい</span><span type="rp">）</span></span><lb />
+<lb />
+　これも前の琵琶鬼とやや同じような話である。<lb />
+　<span type="ruby"><span type="rb">魏</span><span type="rp">（</span><span type="rt">ぎ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">黄初</span><span type="rp">（</span><span type="rt">こうしょ</span><span type="rp">）</span></span>年中に或る人が馬に乗って<span type="ruby"><span type="rb">頓邱</span><span type="rp">（</span><span type="rt">とんきゅう</span><span type="rp">）</span></span>のさかいを通ると、暗夜の路ばたに一つの怪しい物が<span type="ruby"><span type="rb">転</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>がっていた。形は<span type="ruby"><span type="rb">兎</span><span type="rp">（</span><span type="rt">うさぎ</span><span type="rp">）</span></span>のごとく、両眼は鏡の如く、馬のゆくさきに<span type="ruby"><span type="rb">跳</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>り狂っているので、進むことが出来ない。その人はおどろき<span type="ruby"><span type="rb">懼</span><span type="rp">（</span><span type="rt">おそ</span><span type="rp">）</span></span>れて遂に馬から転げおちると、怪物は跳りかかって彼を<span type="ruby"><span type="rb">掴</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>もうとしたので、いよいよ懼れて一旦は気絶した。<lb />
+　やがて正気に戻ると、怪物の姿はもう見えないので、まずほっとして再び馬に乗ってゆくと、五、六里の後に一人の男に出逢った。その男も馬に乗っていた。いい道連れが出来たと喜んで話しながら行くうちに、彼は先刻の怪物のことを話した。<lb />
+「それは怖ろしい事でした」と、男は言った。「実はわたしも独りあるきはなんだか気味が悪いと思っているところへ、あなたのような道連れが出来たのは仕合わせでした。しかしあなたの馬は<span type="ruby"><span type="rb">疾</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>く、わたしの馬は遅い方ですから、あとさきになって行きましょう」<lb />
+　彼の馬をさきに立たせ、男の馬があとに続いて、又しばらく話しながら乗ってゆくと、男は重ねてかの怪物の話をはじめた。<lb />
+「その怪物というのは、どんな形でした」<lb />
+「兎のような形で、二つの眼が鏡のように<span type="ruby"><span type="rb">晃</span><span type="rp">（</span><span type="rt">ひか</span><span type="rp">）</span></span>っていました」<lb />
+「では、ちょいと振り返ってごらんなさい」<lb />
+　言われて何心なく振り返ると、かの男はいつの間にか以前の怪物とおなじ形に変じて、前の馬の上へ飛びかかって来たので、彼は馬から転げおちて再び気絶した。<lb />
+　かれの家では、<span type="ruby"><span type="rb">騎手</span><span type="rp">（</span><span type="rt">のりて</span><span type="rp">）</span></span>がいつまでも帰らず、馬ばかりが独り戻って来たのを怪しんで、探しに来てみると右の始末で、彼はようように息をふき返して、再度の怪におびやかされたことを物語った。<lb />
+<lb />
+　　　宿命<lb />
+<lb />
+　<span type="ruby"><span type="rb">陳仲挙</span><span type="rp">（</span><span type="rt">ちんちゅうきょ</span><span type="rp">）</span></span>がまだ<span type="ruby"><span type="rb">立身</span><span type="rp">（</span><span type="rt">りっしん</span><span type="rp">）</span></span>しない時に、<span type="ruby"><span type="rb">黄申</span><span type="rp">（</span><span type="rt">こうしん</span><span type="rp">）</span></span>という人の家に<span type="ruby"><span type="rb">止宿</span><span type="rp">（</span><span type="rt">ししゅく</span><span type="rp">）</span></span>していた。そのうちに、黄家の妻が出産した。<lb />
+　出産の当時、この家の門を<span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>く者があったが、家内の者は混雑にまぎれて知らなかった。<span type="ruby"><span type="rb">暫</span><span type="rp">（</span><span type="rt">しばら</span><span type="rp">）</span></span>くして家の奥から答える者があった。<lb />
+「客座敷には人がいるから、はいることは出来ないぞ」<lb />
+　門外の者は答えた。<lb />
+「それでは裏門へまわって行こう」<lb />
+　それぎりで問答の声はやんだ。それからまた暫くして、内の者も裏門へまわって帰って来たらしく、他の一人が<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>いた。<lb />
+「生まれる子はなんという名で、<span type="ruby"><span type="rb">幾歳</span><span type="rp">（</span><span type="rt">いくつ</span><span type="rp">）</span></span>の寿命をあたえることになった」<lb />
+「名は<span type="ruby"><span type="rb">奴</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>といって、十五歳までの寿命をあたえることになった」と、前の者が答えた。<lb />
+「どんな病気で死ぬのだ」<lb />
+「兵器で死ぬのだ」<lb />
+　その声が終ると共に、あたりは又ひっそりとなった。陳はその問答をぬすみ聴いて奇異の感に打たれた。殊にその夜生まれたのは男の児で、その名を奴と付けられたというのを知るに及んで、いよいよ不思議に感じた。彼はそれとなく黄家の人びとに注意した。<lb />
+「わたしは<span type="ruby"><span type="rb">人相</span><span type="rp">（</span><span type="rt">にんそう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">看</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>ることを学んだが、この子は行くゆく兵器で死ぬ相がある。刀剣は<span type="ruby"><span type="rb">勿論</span><span type="rp">（</span><span type="rt">もちろん</span><span type="rp">）</span></span>、すべての刃物を持たせることを慎まなければなりませんぞ」<lb />
+　黄家の父母もおどろいて、その後は用心に用心を加え、その子にはいっさいの刃物を持たせないことにした。そうして、無事に十五歳まで生長させたが、ある日のこと、棚の上に置いた<span type="ruby"><span type="rb">鑿</span><span type="rp">（</span><span type="rt">のみ</span><span type="rp">）</span></span>がその子の頭に落ちて来て、脳をつらぬいて死んだ。<lb />
+　陳は後に<span type="ruby"><span type="rb">予章</span><span type="rp">（</span><span type="rt">よしょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">太守</span><span type="rp">（</span><span type="rt">たいしゅ</span><span type="rp">）</span></span>に栄進して、久しぶりで黄家をたずねた時、まずかの子供のことを訊くと、かれは鑿に打たれたというのである。それを聞いて、陳は嘆息した。<lb />
+「これがまったく宿命というのであろう」<lb />
+<lb />
+　　　亀の眼<lb />
+<lb />
+　むかし<span type="ruby"><span type="rb">巣</span><span type="rp">（</span><span type="rt">そう</span><span type="rp">）</span></span>の江水がある日にわかに<span type="ruby"><span type="rb">漲</span><span type="rp">（</span><span type="rt">みなぎ</span><span type="rp">）</span></span>ったが、ただ一日で又もとの通りになった。そのときに、重量一万<span type="ruby"><span type="rb">斤</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>ともおぼしき大魚が港口に打ち揚げられて、三日の後に死んだので、土地の者は皆それを割いて食った。<lb />
+　そのなかで、唯ひとりの老女はその魚を食わなかった。その老女の家へ<span type="ruby"><span type="rb">見識</span><span type="rp">（</span><span type="rt">みし</span><span type="rp">）</span></span>らない老人がたずねて来た。<lb />
+「あの<span type="ruby"><span type="rb">魚</span><span type="rp">（</span><span type="rt">さかな</span><span type="rp">）</span></span>はわたしの子であるが、不幸にしてこんな<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">わざわ</span><span type="rp">）</span></span>いに逢うことになった。この土地の者は皆それを食ったなかで、お前ひとりは食わなかったから、私はおまえに礼をしたい。城の東門前にある石の亀に注意して、もしその眼が赤くなったときは、この城の<span type="ruby"><span type="rb">陥没</span><span type="rp">（</span><span type="rt">かんぼつ</span><span type="rp">）</span></span>する時だと思いなさい」<lb />
+　老人の姿はどこへか<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>せてしまった。その以来、老女は毎日かかさずに東門へ行って、石の亀の眼に異状があるか無いかを<span type="ruby"><span type="rb">検</span><span type="rp">（</span><span type="rt">あらた</span><span type="rp">）</span></span>めることにしていたので、ある少年が怪しんでその子細を訊くと、老女は正直にそれを打ち明けた。少年はいたずら者で、そんなら一番あの婆さんをおどかしてやろうと思って、そっとかの亀の眼に朱を塗って置いた。<lb />
+　老女は亀の眼の赤くなっているのに驚いて、早々にこの城内を逃げ出すと、<span type="ruby"><span type="rb">青衣</span><span type="rp">（</span><span type="rt">せいい</span><span type="rp">）</span></span>の童子が途中に待っていて、われは龍の子であるといって、老女を山の高い所へ連れて行った。<lb />
+　それと同時に、城は突然に陥没して一面の<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">みずうみ</span><span type="rp">）</span></span>となった。<lb />
+　もう一つ、それと同じ話がある。<span type="ruby"><span type="rb">秦</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">始皇</span><span type="rp">（</span><span type="rt">しこう</span><span type="rp">）</span></span>の時、<span type="ruby"><span type="rb">長水</span><span type="rp">（</span><span type="rt">ちょうすい</span><span type="rp">）</span></span>県に一種の童謡がはやった。<lb />
+「<span type="ruby"><span type="rb">御門</span><span type="rp">（</span><span type="rt">ごもん</span><span type="rp">）</span></span>に血を見りゃお城が沈む――」<lb />
+　誰が<span type="ruby"><span type="rb">謡</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>い出したともなしに、この唄がそれからそれへと拡がった。ある老女がそれを気に病んで毎日その城門を<span type="ruby"><span type="rb">窺</span><span type="rp">（</span><span type="rt">うかが</span><span type="rp">）</span></span>いに行くので、門を守っている将校が彼女をおどしてやろうと思って、ひそかに犬の血を城門に塗って置くと、老女はそれを見て、おどろいて遠く逃げ去った。<lb />
+　そのあとへ忽ちに大水が溢れ出て、城は水の底に沈んでしまった。<lb />
+<lb />
+　　　眉間尺<lb />
+<lb />
+　<span type="ruby"><span type="rb">楚</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">干将莫邪</span><span type="rp">（</span><span type="rt">かんしょうばくや</span><span type="rp">）</span></span>は楚王の命をうけて剣を作ったが、三年かかって<span type="ruby"><span type="rb">漸</span><span type="rp">（</span><span type="rt">ようや</span><span type="rp">）</span></span>く出来たので、王はその遅延を怒って彼を殺そうとした。<lb />
+　莫邪の作った剣は<span type="ruby"><span type="rb">雌雄一対</span><span type="rp">（</span><span type="rt">しゆういっつい</span><span type="rp">）</span></span>であった。その出来たときに莫邪の妻は懐妊して臨月に近かったので、彼は妻に言い聞かせた。<lb />
+「わたしの剣の出来あがるのが遅かったので、これを持参すれば王はきっとわたしを殺すに相違ない。おまえがもし男の子を生んだらば、その成長の後に南の山を見ろといえ。石の上に一本の松が生えていて、その石のうしろに<span type="ruby"><span type="rb">一口</span><span type="rp">（</span><span type="rt">ひとふり</span><span type="rp">）</span></span>の剣が秘めてある」<lb />
+　かれは雌剣一口だけを持って、楚王の宮へ出てゆくと、王は果たして怒った。かつ有名の<span type="ruby"><span type="rb">相者</span><span type="rp">（</span><span type="rt">そうしゃ</span><span type="rp">）</span></span>にその剣を見せると、この剣は雌雄一対あるもので、莫邪は雄剣をかくして雌剣だけを献じたことが判ったので、王はいよいよ怒って直ぐに莫邪を殺した。<lb />
+　莫邪の妻は男の子を生んで、その名を<span type="ruby"><span type="rb">赤</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>といったが、その眉間が広いので、俗に<span type="ruby"><span type="rb">眉間尺</span><span type="rp">（</span><span type="rt">みけんじゃく</span><span type="rp">）</span></span>と呼ばれていた。かれが壮年になった時に、母は父の遺言を話して聞かせたので、眉間尺は家を出て見まわしたが、南の方角に山はなかった。しかし家の前には松の大樹があって、その下に大きい石が横たわっていたので、試みに<span type="ruby"><span type="rb">斧</span><span type="rp">（</span><span type="rt">おの</span><span type="rp">）</span></span>をもってその石の背を打ち割ると、果たして一口の剣を発見した。父がこの剣をわが子に残したのは、これをもって楚王に復讐せよというのであろうと、眉間尺はその以来、ひそかにその機会を待っていた。<lb />
+　それが楚王にも感じたのか、王はある夜、眉間の一尺ほども広い若者が自分を付け<span type="ruby"><span type="rb">狙</span><span type="rp">（</span><span type="rt">ねら</span><span type="rp">）</span></span>っているという夢をみたので、千金の賞をかけてその若者を捜索させることになった。それを聞いて、眉間尺は身をかくしたが、行くさきもない。彼は山中をさまよって、悲しく歌いながら身の隠れ場所を求めていると、<span type="ruby"><span type="rb">図</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>らずも一人の<span type="ruby"><span type="rb">旅客</span><span type="rp">（</span><span type="rt">たびびと</span><span type="rp">）</span></span>に出逢った。<lb />
+「おまえさんは若いくせに、何を悲しそうに歌っているのだ」と、かの男は訊いた。<lb />
+　眉間尺は正直に自分の身の上を打ち明けると、男は言った。<lb />
+「王はおまえの首に千金の賞をかけているそうだから、おまえの首とその剣とをわたしに譲れば、きっと仇を報いてあげるが、どうだ」<lb />
+「よろしい。お頼み申す」<lb />
+　眉間尺はすぐに我が手でわが首をかき落して、両手に首と剣とを捧げて突っ立っていた。<lb />
+「たしかに受取った」と、男は言った。「わたしは必ず約束を果たしてみせる」<lb />
+　それを聞いて、眉間尺の死骸は初めて<span type="ruby"><span type="rb">仆</span><span type="rp">（</span><span type="rt">たお</span><span type="rp">）</span></span>れた。<lb />
+　旅の男はそれから楚王にまみえて、かの首と剣とを献じると、王は大いに喜んだ。<lb />
+「これは勇士の首であるから、この<span type="ruby"><span type="rb">儘</span><span type="rp">（</span><span type="rt">まま</span><span type="rp">）</span></span>にして置いては<span type="ruby"><span type="rb">祟</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>りをなすかも知れません。<span type="ruby"><span type="rb">湯<span change="gaiji" facs="../../../gaiji/1-93/1-93-41.png" rend="gaiji" rendition="img" source="※(「獲」の「けものへん」に代えて「金へん」、第3水準1-93-41)" /></span><span type="rp">（</span><span type="rt">ゆがま</span><span type="rp">）</span></span>に入れて煮るがよろしゅうござる」と、男は言った。<lb />
+　王はその言うがままに、眉間尺の首を煮ることにしたが、三日を過ぎても少しも<span type="ruby"><span type="rb">爛</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>れず、生けるが如くに眼を<span type="ruby"><span type="rb">瞋</span><span type="rp">（</span><span type="rt">いか</span><span type="rp">）</span></span>らしているので、男はまた言った。<lb />
+「首はまだ煮え爛れません。あなたが自身に<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>いて卸覧になれば、きっと爛れましょう」<lb />
+　そこで、王はみずから其の湯を覗きに行くと、男は<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>をみてかの剣をぬき放し、まず王の首を<span type="ruby"><span type="rb">熱湯</span><span type="rp">（</span><span type="rt">にえゆ</span><span type="rp">）</span></span>のなかへ切り落した。つづいて我が首を<span type="ruby"><span type="rb">刎</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ねて、これも湯のなかへ落した。眉間尺の首と、楚王の首と、かの男の首と、それが一緒に煮え爛れて、どれが誰だか見分けることが出来なくなったので、三つの首を一つに集めて葬ることにした。<lb />
+　墓は俗に三王の墓と呼ばれて、今も<span type="ruby"><span type="rb">汝南</span><span type="rp">（</span><span type="rt">じょなん</span><span type="rp">）</span></span>の北、<span type="ruby"><span type="rb">宜春</span><span type="rp">（</span><span type="rt">ぎしゅん</span><span type="rp">）</span></span>県にある。<lb />
+<lb />
+　　　宋家の母<lb />
+<lb />
+　<span type="ruby"><span type="rb">魏</span><span type="rp">（</span><span type="rt">ぎ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">黄初</span><span type="rp">（</span><span type="rt">こうしょ</span><span type="rp">）</span></span>年中のことである。<lb />
+　<span type="ruby"><span type="rb">清河</span><span type="rp">（</span><span type="rt">せいか</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">宋士宗</span><span type="rp">（</span><span type="rt">そうしそう</span><span type="rp">）</span></span>という人の母が、夏の日に浴室へはいって、家内の者を遠ざけたまま久しく出て来ないので、人びとも怪しんでそっと<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>いてみると、浴室に母の影は見えないで、水風呂のなかに一頭の大きいすっぽんが浮かんでいるだけであった。たちまち大騒ぎとなって、大勢が駈け集まると、見おぼえのある母のかんざしがそのすっぽんの頭の上に乗っているのである。<lb />
+「お母さんがすっぽんに化けた」<lb />
+　みな泣いて騒いだが、どうすることも出来ない。ただ、そのまわりを取りまいて泣き叫んでいると、すっぽんはしきりに外へ出たがるらしい様子である。さりとて<span type="ruby"><span type="rb">滅多</span><span type="rp">（</span><span type="rt">めった</span><span type="rp">）</span></span>に出してもやられないので、代るがわるに警固しているあいだに、あるとき番人の<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>をみて、すっぽんは表へ這い出した。又もや大騒ぎになって追いかけたが、すっぽんは非常に足が<span type="ruby"><span type="rb">疾</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>いので遂に捉えることが出来ず、近所の川へ逃げ込ませてしまった。<lb />
+　それから幾日の後、かのすっぽんは再び姿をあらわして、宋の家のまわりを這い歩いていたが、又もや去って水に隠れた。<lb />
+　近所の人は宋にむかって母の喪服を着けろと勧めたが、たとい形を変じても母はまだ生きているのであると言って、彼は喪服を着けなかった。<lb />
+<lb />
+　　　青牛<lb />
+<lb />
+　<span type="ruby"><span type="rb">秦</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>の時、<span type="ruby"><span type="rb">武都</span><span type="rp">（</span><span type="rt">ぶと</span><span type="rp">）</span></span>の故道に<span type="ruby"><span type="rb">怒特</span><span type="rp">（</span><span type="rt">どとく</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">祠</span><span type="rp">（</span><span type="rt">やしろ</span><span type="rp">）</span></span>というのがあって、その祠のほとりに大きい<span type="ruby"><span type="rb">梓</span><span type="rp">（</span><span type="rt">あずさ</span><span type="rp">）</span></span>の樹が立っていた。<lb />
+　秦の<span type="ruby"><span type="rb">文公</span><span type="rp">（</span><span type="rt">ぶんこう</span><span type="rp">）</span></span>の、二十七年、人をつかわしてその樹を伐らせると、たちまちに大風雨が襲い来たって、その切り口を<span type="ruby"><span type="rb">癒合</span><span type="rp">（</span><span type="rt">ゆごう</span><span type="rp">）</span></span>させてしまうので、幾日を経ても伐り倒すことが出来ない。文公は更に人数を増して、四十人の卒に<span type="ruby"><span type="rb">斧</span><span type="rp">（</span><span type="rt">おの</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">執</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>らせたが、なおその目的を達することが出来ないので、卒もみな疲れ果てた。<lb />
+　その一人は足を傷つけて宿舎へも帰られず、かの樹の下に転がったままで一夜を明かすと、夜半に及んで何者か尋ねて来たらしく、樹にむかって話しかけた。<lb />
+「戦いはなかなか骨が折れるだろう」<lb />
+「なに、骨が折れるというほどのことでもない」と、樹のなかで答えた。<lb />
+　一人がまた言った。<lb />
+「しかし文公がいつまでも<span type="ruby"><span type="rb">強情</span><span type="rp">（</span><span type="rt">ごうじょう</span><span type="rp">）</span></span>にやっていたら、仕舞いにはどうする」<lb />
+「どうするものか。<span type="ruby"><span type="rb">根</span><span type="rp">（</span><span type="rt">こん</span><span type="rp">）</span></span>くらべだ」<lb />
+「そう言っても、もし相手の方で三百人の人間を散らし髪にして、<span type="ruby"><span type="rb">赭</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>い着物をきせて、<span type="ruby"><span type="rb">朱</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>い糸でこの樹を巻かせて、斧を入れた切り口へ灰をかけさせたら、お前はどうする」<lb />
+　樹の中では黙ってしまった。<lb />
+　樹の下に寝ていた男はその問答を聞きすまして、明くる日それを申し立てたので、文公は試みにその通りにやってみることにした。三百人の士卒が赭い着物をきて、散らし髪になって、朱い糸を樹の幹にまき付けて、斧を入れるごとに其の切り口に灰をそそぐと、果たして大樹は半分ほども撃ち切られた。そのとき一頭の青い牛が樹の中から走り出て、近所の<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-87/1-87-20.png" rend="gaiji" rendition="img" source="※(「さんずい＋豊」、第3水準1-87-20)" />水</span><span type="rp">（</span><span type="rt">ほうすい</span><span type="rp">）</span></span>という河へ跳り込んだ。<lb />
+　これで目的の通りに、梓の大樹を伐り倒すことが出来たが、青牛はその後も<span change="gaiji" facs="../../../gaiji/1-87/1-87-20.png" rend="gaiji" rendition="img" source="※(「さんずい＋豊」、第3水準1-87-20)" />水から姿をあらわすので、騎士をつかわして撃たせると、牛はなかなか勢い<span type="ruby"><span type="rb">猛</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>くして勝つことが出来ない。その闘いのあいだに、一人の騎士は馬から落ちて散らし髪になった。彼はそのままで再び<span type="ruby"><span type="rb">鞍</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>にまたがると、牛はその散らし髪におそれて水中に隠れた。<lb />
+　その以来、秦では<span type="ruby"><span type="rb">旄頭騎</span><span type="rp">（</span><span type="rt">ぼうとうき</span><span type="rp">）</span></span>というものを置くことになった。<lb />
+<lb />
+　　　青い女<lb />
+<lb />
+　呉郡の<span type="ruby"><span type="rb">無錫</span><span type="rp">（</span><span type="rt">むしゃく</span><span type="rp">）</span></span>という地には大きい<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">みずうみ</span><span type="rp">）</span></span>があって、それをめぐる長い<span type="ruby"><span type="rb">坡</span><span type="rp">（</span><span type="rt">どて</span><span type="rp">）</span></span>がある。<lb />
+　坡を監督する役人は<span type="ruby"><span type="rb">丁初</span><span type="rp">（</span><span type="rt">ていしょ</span><span type="rp">）</span></span>といって、大雨のあるごとに破損の個所の有無を調べるために、坡のまわりを一巡するのを例としていた。時は春の盛りで、雨のふる夕暮れに、彼はいつものように坡を見まわっていると、ひとりの女が上下ともに青い物を着けて、青い<span type="ruby"><span type="rb">繖</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>をいただいて、あとから追って来た。<lb />
+「もし、もし、待ってください」<lb />
+　呼ばれて、丁初はいったん立ちどまったが、また考えると、今頃このさびしい所を女ひとりでうろ付いている筈がない。おそらく妖怪であろうと思ったので、そのまま足早にあるき出すと、女もいよいよ足早に追って来た。丁はますます気味が悪くなって、一生懸命に駈け出すと、女もつづいて駈け出したが、丁の逃げ足が早いので、しょせん追い付かないと<span type="ruby"><span type="rb">諦</span><span type="rp">（</span><span type="rt">あきら</span><span type="rp">）</span></span>めたらしく、女は俄かに身をひるがえして水のなかへ飛び込んだ。<lb />
+　かれは大きな蒼い<span type="ruby"><span type="rb">河獺</span><span type="rp">（</span><span type="rt">かわうそ</span><span type="rp">）</span></span>で、その着物や繖と見えたのは青い<span type="ruby"><span type="rb">荷</span><span type="rp">（</span><span type="rt">はす</span><span type="rp">）</span></span>の葉であった。<lb />
+<lb />
+　　　祭蛇記<lb />
+<lb />
+　<span type="ruby"><span type="rb">東越</span><span type="rp">（</span><span type="rt">とうえつ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-93/1-93-49.png" rend="gaiji" rendition="img" source="※(「門＜虫」、第3水準1-93-49)" />中</span><span type="rp">（</span><span type="rt">みんちゅう</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">庸嶺</span><span type="rp">（</span><span type="rt">ようれい</span><span type="rp">）</span></span>という山があって、高さ数十里といわれている。その西北の<span type="ruby"><span type="rb">峡</span><span type="rp">（</span><span type="rt">かい</span><span type="rp">）</span></span>に長さ七、八丈、太さ<span type="ruby"><span type="rb">十囲</span><span type="rp">（</span><span type="rt">とかか</span><span type="rp">）</span></span>えもあるという<span type="ruby"><span type="rb">大蛇</span><span type="rp">（</span><span type="rt">だいじゃ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">棲</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>んでいて、土地の者を恐れさせていた。<lb />
+　住民ばかりか、役人たちもその蛇の<span type="ruby"><span type="rb">祟</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>りによって死ぬ者が多いので、牛や羊をそなえて祭ることにしたが、やはりその祟りはやまない。大蛇は人の夢にあらわれ、または<span type="ruby"><span type="rb">巫女</span><span type="rp">（</span><span type="rt">みこ</span><span type="rp">）</span></span>などの口を仮りて、十二、三歳の少女を<span type="ruby"><span type="rb">生贄</span><span type="rp">（</span><span type="rt">いけにえ</span><span type="rp">）</span></span>にささげろと言った。これには役人たちも困ったが、なにぶんにもその祟りを鎮める法がないので、よんどころなく罪人の娘を養い、あるいは金を<span type="ruby"><span type="rb">賭</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けて志願者を買うことにして、毎年八月の朝、ひとりの少女を蛇の穴へ供えると、蛇は生きながらにかれらを呑んでしまった。<lb />
+　こうして、九年のあいだに九人の生贄をささげて来たが、十年目には適当の少女を見つけ出すのに苦しんでいると、<span type="ruby"><span type="rb">将楽</span><span type="rp">（</span><span type="rt">しょうらく</span><span type="rp">）</span></span>県の<span type="ruby"><span type="rb">李誕</span><span type="rp">（</span><span type="rt">りたん</span><span type="rp">）</span></span>という者の家には男の子が一人もなくて、女の子ばかりが六人ともにつつがなく成長し、<span type="ruby"><span type="rb">末子</span><span type="rp">（</span><span type="rt">ばっし</span><span type="rp">）</span></span>の名を<span type="ruby"><span type="rb">寄</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>といった。寄は募りに応じて、ことしの生贄に立とうと言い出したが、父母は承知しなかった。<lb />
+「しかしここの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>には男の子が一人もありません。厄介者の女ばかりです」と、寄は言った。「わたし達は親の厄介になっているばかりで何の役にも立ちませんから、いっそ自分のからだを生贄にして、そのお金であなた方を少しでも楽にさせて上げるのが、せめてもの孝行というものです」<lb />
+　それでも親たちはまだ承知しなかったが、しいて止めればひそかにぬけ出して行きそうな<span type="ruby"><span type="rb">気色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>であるので、親たちも遂に泣く泣くそれを許すことになった。そこで、寄は<span type="ruby"><span type="rb">一口</span><span type="rp">（</span><span type="rt">ひとふり</span><span type="rp">）</span></span>のよい剣と一匹の蛇喰い犬とを用意して、いよいよ生贄にささげられた。<lb />
+　大蛇の穴の前には古い廟があるので、寄は剣をふところにして廟のなかに坐っていた。蛇を喰う犬はそのそばに控えていた。彼女はあらかじめ<span type="ruby"><span type="rb">数石</span><span type="rp">（</span><span type="rt">すうこく</span><span type="rp">）</span></span>の米を<span type="ruby"><span type="rb">炊</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>いで、それに蜜をかけて穴の口に供えて置くと、蛇はその匂いをかぎ付けて大きい<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かしら</span><span type="rp">）</span></span>を出した。その眼は二尺の鏡の如くであった。蛇はまずその米を喰いはじめたのを見すまして、寄はかの犬を<span type="ruby"><span type="rb">嗾</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>しかけると、犬はまっさきに飛びかかって蛇を噛んだ。彼女もそのあとから剣をふるって蛇を斬った。<lb />
+　さすがの大蛇も犬に噛まれ、剣に傷つけられて、数カ所の痛手に<span type="ruby"><span type="rb">堪</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>まり得ず、穴から這い出して<span type="ruby"><span type="rb">蜿打</span><span type="rp">（</span><span type="rt">のたう</span><span type="rp">）</span></span>ちまわって死んだ。穴へはいってあらためると、奥には九人の少女の<span type="ruby"><span type="rb">髑髏</span><span type="rp">（</span><span type="rt">どくろ</span><span type="rp">）</span></span>が転がっていた。<lb />
+「お前さん達は弱いから、おめおめと蛇の生贄になってしまったのだ。可哀そうに……」と、彼女は言った。<lb />
+　<span type="ruby"><span type="rb">越</span><span type="rp">（</span><span type="rt">えつ</span><span type="rp">）</span></span>の王はそれを聞いて、寄を<span type="ruby"><span type="rb">聘</span><span type="rp">（</span><span type="rt">へい</span><span type="rp">）</span></span>して夫人とした。その父は将楽県の県令に挙げられ、母や姉たちにも褒美を賜わった。その以来、この地方に妖蛇の<span type="ruby"><span type="rb">患</span><span type="rp">（</span><span type="rt">うれ</span><span type="rp">）</span></span>いは絶えて、少女が蛇退治の<span type="ruby"><span type="rb">顛末</span><span type="rp">（</span><span type="rt">てんまつ</span><span type="rp">）</span></span>を伝えた歌謡だけが今も残っている。<lb />
+<lb />
+　　　鹿の足<lb />
+<lb />
+　<span type="ruby"><span type="rb">陳</span><span type="rp">（</span><span type="rt">ちん</span><span type="rp">）</span></span>郡の<span type="ruby"><span type="rb">謝鯤</span><span type="rp">（</span><span type="rt">しゃこん</span><span type="rp">）</span></span>は病いによって官を<span type="ruby"><span type="rb">罷</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>めて、<span type="ruby"><span type="rb">予章</span><span type="rp">（</span><span type="rt">よしょう</span><span type="rp">）</span></span>に引き籠っていたが、あるとき旅行して空き家に一泊した。この家には妖怪があって、しばしば人を殺すと伝えられていたが、彼は平気で眠っていると、夜の<span type="ruby"><span type="rb">四更</span><span type="rp">（</span><span type="rt">しこう</span><span type="rp">）</span></span>（午前一時―三時）とおぼしき頃に、黄衣の人が現われて外から呼んだ。<lb />
+「<span type="ruby"><span type="rb">幼輿</span><span type="rp">（</span><span type="rt">ようよ</span><span type="rp">）</span></span>、戸をあけろ」<lb />
+　幼輿というのは彼の<span type="ruby"><span type="rb">字</span><span type="rp">（</span><span type="rt">あざな</span><span type="rp">）</span></span>である。こいつ化け物だと思ったが、彼は恐れずに答えた。<lb />
+「戸をあけるのは面倒だ。用があるなら窓から手を出せ」<lb />
+　言うかと思うと、外の人は窓から長い腕を突っ込んだので、彼は直ぐにその腕を引っ掴んで、力任せにぐいぐい引き摺り込もうとした。外では引き込まれまいとする。引きつ引かれつするうちに、その腕は脱けて彼の手に残った。外の人はそのまま立ち去ったらしい。夜が明けてみると、その腕は大きい鹿の前足であった。<lb />
+　窓の外には血が流れている。その血の<span type="ruby"><span type="rb">痕</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span>をたどってゆくと、果たして一頭の大きい鹿が傷ついて<span type="ruby"><span type="rb">仆</span><span type="rp">（</span><span type="rt">たお</span><span type="rp">）</span></span>れていた。それを殺して以来、この家にふたたび妖怪の噂を聞かなくなった。<lb />
+<lb />
+　　　羽衣<lb />
+<lb />
+　予章<span type="ruby"><span type="rb">新喩</span><span type="rp">（</span><span type="rt">しんゆ</span><span type="rp">）</span></span>県のある男が田畑へ出ると、田のなかに六、七人の女を見た。どの女もみな鳥のような<span type="ruby"><span type="rb">羽衣</span><span type="rp">（</span><span type="rt">はごろも</span><span type="rp">）</span></span>を着ているのである。不思議に思ってそっと這いよると、あたかもその一人が羽衣を<span type="ruby"><span type="rb">解</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>いたので、彼は急にそれを奪い取った。つづいて他の女どもの衣をも奪い取ろうとすると、かれらはみな鳥に化して飛び去った。<lb />
+　羽衣を奪われた一人だけは逃げ去ることが出来なかったので、男は連れ帰って自分の妻にした。そうして、夫婦のあいだに三人の娘を<span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>けた。<lb />
+　娘たちがだんだん生長の後、母はかれらにそっと訊いた。<lb />
+「わたしの羽衣はどこに隠してあるか、おまえ達は知らないかえ」<lb />
+「知りません」<lb />
+「それではお<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>さんに<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>いておくれよ」<lb />
+　母に頼まれて、娘たちは何げなく父にたずねると、母の入れ知恵とは知らないで、父は正直に打ちあけた。<lb />
+「実は積み稲の下に隠してある」<lb />
+　それが娘の口から<span type="ruby"><span type="rb">洩</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>らされたので、母は羽衣のありかを知った。<lb />
+　彼女はそれを身につけて飛び去ったが、再び娘たちを迎いに来て、三人の娘も共に飛び去ってしまった。<lb />
+<lb />
+　　　<span type="ruby"><span type="rb">狸老爺</span><span type="rp">（</span><span type="rt">たぬきおやじ</span><span type="rp">）</span></span><lb />
+<lb />
+　<span type="ruby"><span type="rb">晋</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>の時、<span type="ruby"><span type="rb">呉興</span><span type="rp">（</span><span type="rt">ごこう</span><span type="rp">）</span></span>の農夫が二人の息子を持っていた。その息子兄弟が田を<span type="ruby"><span type="rb">耕</span><span type="rp">（</span><span type="rt">たがや</span><span type="rp">）</span></span>していると、突然に父があらわれて来て、<span type="ruby"><span type="rb">子細</span><span type="rp">（</span><span type="rt">しさい</span><span type="rp">）</span></span>も無しに兄弟を<span type="ruby"><span type="rb">叱</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>り散らすばかりか、果ては追い撃とうとするので、兄弟は逃げ帰って母に訴えると、母は<span type="ruby"><span type="rb">怪訝</span><span type="rp">（</span><span type="rt">けげん</span><span type="rp">）</span></span>な顔をした。<lb />
+「お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>さんは<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>にいるが……。まあ、ともかくも訊いてみよう」<lb />
+　訊かれて父はおどろいた。自分はさっきから家にいたのであるから、田や畑へ出て行って息子たちを叱ったり殴ったりする筈がない。それは何かの妖怪がおれの姿に化けて行ったに相違ないから、今度来たらば斬り殺せと言い付けたので、兄弟もそのつもりで刃物を用意して行った。<lb />
+　こうして息子らを出してやったものの、父もなんだか不安であるので、やがて後から様子を見とどけに出てゆくと、兄弟はその姿を見て刃物を<span type="ruby"><span type="rb">把</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>り直した。<lb />
+「化け物め、また来たか」<lb />
+　父は言い訳をする間もなしに斬り殺されてしまった。兄弟はその正体を見極めもせずに、そこらの土のなかに埋めて帰ると、家には父がかれらの帰るのを待っていた。<lb />
+「化け物めを退治して、まずまずめでたい」と、父も息子らもみな喜んだ。化け物が父に変じていることを兄弟は<span type="ruby"><span type="rb">覚</span><span type="rp">（</span><span type="rt">さと</span><span type="rp">）</span></span>らなかった。<lb />
+　幾年か過ぎた後、ひとりの法師がその家に来て兄弟に注意した。<lb />
+「おまえ達のお<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>さんには怖ろしい邪気が見えますぞ」<lb />
+　それを聞いて、父は大いに怒って、そんな奴は早速<span type="ruby"><span type="rb">逐</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>い出してしまえと息子らに言い付けた。それを聞いて、法師も怒った。かれは声を<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-14/1-14-84.png" rend="gaiji" rendition="img" source="※(「がんだれ＋萬」、第3水準1-14-84)" /></span><span type="rp">（</span><span type="rt">はげ</span><span type="rp">）</span></span>しゅうして家内へ跳り込むと、父は忽ち大きい古狸に変じて床下へ逃げ隠れたので、兄弟はおどろきながらも追いつめて、遂に生け捕って<span type="ruby"><span type="rb">撲</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>ち殺した。<lb />
+　不幸な兄弟はこの古狸にたぶらかされて、真の父を殺したのである。一人は憤恨のあまりに自殺した。一人も<span type="ruby"><span type="rb">懊悩</span><span type="rp">（</span><span type="rt">おうのう</span><span type="rp">）</span></span>のために病いを発して死んだ。<lb />
+<lb />
+　　　虎の難産<lb />
+<lb />
+　<span type="ruby"><span type="rb">廬陵</span><span type="rp">（</span><span type="rt">ろりょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">蘇易</span><span type="rp">（</span><span type="rt">そえき</span><span type="rp">）</span></span>という婦人は産婦の<span type="ruby"><span type="rb">収生</span><span type="rp">（</span><span type="rt">とりあげ</span><span type="rp">）</span></span>をもって世に知られていたが、ある夜外出すると、忽ち虎に<span type="ruby"><span type="rb">啣</span><span type="rp">（</span><span type="rt">くわ</span><span type="rp">）</span></span>えて行かれた。<lb />
+　彼女はすでに死を覚悟していると、行くこと六、七里にして大きい<span type="ruby"><span type="rb">塚穴</span><span type="rp">（</span><span type="rt">つかあな</span><span type="rp">）</span></span>のような所へ行き着いた。虎はここで彼女を下ろしたので、どうするのかと思ってよく視ると、そこには一頭の<span type="ruby"><span type="rb">牝</span><span type="rp">（</span><span type="rt">めす</span><span type="rp">）</span></span>の虎が難産に苦しんでいるのである。<lb />
+　さてはと覚って手当てをしてやると、虎はつつがなく三頭の子を生み落した。それが済むと、虎は再び彼女を啣えて元の所まで送り還した。<lb />
+　その後、幾たびか蘇易の門内へ野獣の肉を送り込む者があった。<lb />
+<lb />
+　　　寿光侯<lb />
+<lb />
+　<span type="ruby"><span type="rb">寿光侯</span><span type="rp">（</span><span type="rt">じゅこうこう</span><span type="rp">）</span></span>は漢の<span type="ruby"><span type="rb">章帝</span><span type="rp">（</span><span type="rt">しょうてい</span><span type="rp">）</span></span>の時の人である。彼はあらゆる鬼を祈り伏せて、よくその正体を見あらわした。その郷里のある女が<span type="ruby"><span type="rb">妖魅</span><span type="rp">（</span><span type="rt">ようみ</span><span type="rp">）</span></span>に取りつかれた時に、寿は何かの法をおこなうと、長さ幾丈の<span type="ruby"><span type="rb">大蛇</span><span type="rp">（</span><span type="rt">だいじゃ</span><span type="rp">）</span></span>が門前に死んで横たわって、女の病いはすぐに平癒した。<lb />
+　また、大樹があって、人がその下に止まると忽ちに死ぬ、鳥が飛び過ぎると忽ちに<span type="ruby"><span type="rb">墜</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ちるというので、その樹には<span type="ruby"><span type="rb">精</span><span type="rp">（</span><span type="rt">せい</span><span type="rp">）</span></span>があると伝えられていたが、寿がそれにも法を施すと、<span type="ruby"><span type="rb">盛夏</span><span type="rp">（</span><span type="rt">まなつ</span><span type="rp">）</span></span>にその葉はことごとく枯れ落ちて、やはり幾丈の大蛇が樹のあいだに<span type="ruby"><span type="rb">懸</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>って死んでいた。<lb />
+　章帝がそれを聞き伝えて、彼を召し寄せて事実の有無をたずねると、寿はいかにも覚えがあると答えた。<lb />
+「実は宮中に妖怪があらわれる」と、帝は言った。「五、六人の者が紅い着物をきて、長い髪を振りかぶって、火を持って<span type="ruby"><span type="rb">徘徊</span><span type="rp">（</span><span type="rt">はいかい</span><span type="rp">）</span></span>する。お前はそれを鎮めることが出来るか」<lb />
+「それは<span type="ruby"><span type="rb">易</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>いことでございます」<lb />
+　寿は受けあった。そこで、帝は侍臣三人に言いつけて、その通りの扮装をさせて、夜ふけに宮殿の下を往来させると、寿は<span type="ruby"><span type="rb">式</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>の如くに法をおこなって、たちまちに三人を地に仆した。かれらは気を失ったのである。<lb />
+「まあ、待ってくれ」と、帝も驚いて言った。「かれらはまことの妖怪ではない。実はおまえを試してみたのだ。殺してくれるな」<lb />
+　寿が法を解くと、三人は再び正気に<span type="ruby"><span type="rb">復</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>った。<lb />
+<lb />
+　　　天使<lb />
+<lb />
+　<span type="ruby"><span type="rb">糜竺</span><span type="rp">（</span><span type="rt">びじく</span><span type="rp">）</span></span>は東海の<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-90/1-90-42.png" rend="gaiji" rendition="img" source="※(「月＋句」、第3水準1-90-42)" /></span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>というところの人で、先祖以来、<span type="ruby"><span type="rb">貨殖</span><span type="rp">（</span><span type="rt">かしょく</span><span type="rp">）</span></span>の道に<span type="ruby"><span type="rb">長</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>けているので、家には巨万の財をたくわえていた。<lb />
+　あるとき彼が<span type="ruby"><span type="rb">洛陽</span><span type="rp">（</span><span type="rt">らくよう</span><span type="rp">）</span></span>から帰る途中、わが家に至らざる数十里のところで、ひとりの美しい花嫁ふうの女に出逢った。女はその車へ一緒に載せてくれと頼むので、彼は承知して載せてゆくと、二十里ばかりの後に女は礼をいって別れた。そのときに彼女は又こんなことをささやいた。<lb />
+「実はわたしは天の使いで、これから東海の糜竺の家を焼きに行くのです。ここまで載せて来て下すったお礼に、それだけのことを洩らして置きます」<lb />
+　糜はおどろいて、なんとか勘弁してくれるわけには行くまいかとしきりに嘆願すると、女は考えながら言った。<lb />
+「何分にもわたしの役目ですから、焼かないというわけには行きません。しかし折角のお頼みですから、わたしは<span type="ruby"><span type="rb">徐</span><span type="rp">（</span><span type="rt">しず</span><span type="rp">）</span></span>かに行くことにします。あなたは早くお帰りなさい。日中には必ず火が起ります」<lb />
+　彼はあわてて家へ帰って、急に家財を運び出させると、果たして日中に大火が起って、一家たちまち全焼した。<lb />
+<lb />
+　　　<span type="ruby"><span type="rb">蛇蠱</span><span type="rp">（</span><span type="rt">じゃこ</span><span type="rp">）</span></span><lb />
+<lb />
+　<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-87/1-87-02.png" rend="gaiji" rendition="img" source="※(「榮」の「木」に代えて「水」、第3水準1-87-2)" />陽</span><span type="rp">（</span><span type="rt">けいよう</span><span type="rp">）</span></span>郡に<span type="ruby"><span type="rb">廖</span><span type="rp">（</span><span type="rt">りょう</span><span type="rp">）</span></span>という一家があって、代々一種の<span type="ruby"><span type="rb">蠱術</span><span type="rp">（</span><span type="rt">こじゅつ</span><span type="rp">）</span></span>をおこなって財産を作りあげた。ある時その家に嫁を貰ったが、蠱術のことをいえば怖れ嫌うであろうと思って、その秘密を洩らさなかった。<lb />
+　そのうちに、家内の者はみな外出して、嫁ひとりが留守番をしている日があった。<lb />
+　家の隅に一つの大きい<span type="ruby"><span type="rb">瓶</span><span type="rp">（</span><span type="rt">かめ</span><span type="rp">）</span></span>が据えてあるのを、嫁はふと見つけて、こころみにその<span type="ruby"><span type="rb">蓋</span><span type="rp">（</span><span type="rt">ふた</span><span type="rp">）</span></span>をあけて覗くと、内には大蛇がわだかまっていたので、なんにも知らない嫁はおどろいて、あわてて熱湯をそそぎ込んで殺してしまった。家内の者が帰ってから、嫁はそれを報告すると、いずれも顔の色を変えて驚き憂いた。<lb />
+　それから暫くのうちに、この一家は疫病にかかって殆んど死に絶えた。<lb />
+<lb />
+　　　螻蛄<lb />
+<lb />
+　<span type="ruby"><span type="rb">廬陵</span><span type="rp">（</span><span type="rt">ろりょう</span><span type="rp">）</span></span>の太守<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-94/1-94-86.png" rend="gaiji" rendition="img" source="※(「まだれ＋龍」、第3水準1-94-86)" />企</span><span type="rp">（</span><span type="rt">ろうき</span><span type="rp">）</span></span>の家では<span type="ruby"><span type="rb">螻蛄</span><span type="rp">（</span><span type="rt">けら</span><span type="rp">）</span></span>を祭ることになっている。<lb />
+　何ゆえにそんな虫を祭るかというに、幾代か前の先祖が何かの<span type="ruby"><span type="rb">連坐</span><span type="rp">（</span><span type="rt">まきぞえ</span><span type="rp">）</span></span>で獄屋につながれた。身におぼえの無い罪ではあるが、拷問の責め苦に堪えかねて、遂に服罪することになったのである。彼は無罪の死を嘆いている時、一匹の螻蛄が自分の前を這い歩いているのを見た。彼は憂苦のあまりに、この小さい虫にむかって愚痴を言った。<lb />
+「おまえに霊があるならば、なんとかして私を救ってくれないかなあ」<lb />
+　食いかけの飯を投げてやると、螻蛄は残らず食って行ったが、その後ふたたび這い出して来たのを見ると、その形が前よりも余ほど大きくなったようである。不思議に思って、毎日かならず飯を投げてやると、螻蛄も必ず食って行った。そうして、数十日を経るあいだに虫はだんだんに生長して犬よりも大きくなった。<lb />
+　刑の執行がいよいよ明日に迫った前夜である。<lb />
+　大きい虫は獄屋の壁のすそを掘って、人間が這い出るほどの穴をこしらえてくれた。彼はそこから抜け出して、一旦の命を生きのびて、しばらく潜伏しているうちに、測らずも<span type="ruby"><span type="rb">大赦</span><span type="rp">（</span><span type="rt">たいしゃ</span><span type="rp">）</span></span>に逢って<span type="ruby"><span type="rb">青天白日</span><span type="rp">（</span><span type="rt">せいてんはくじつ</span><span type="rp">）</span></span>の身となった。<lb />
+　その以来、その家では代々その虫の祭祀を続けているのである。<lb />
+<lb />
+　　　父母の霊<lb />
+<lb />
+　<span type="ruby"><span type="rb">劉根</span><span type="rp">（</span><span type="rt">りゅうこん</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">字</span><span type="rp">（</span><span type="rt">あざな</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">君安</span><span type="rp">（</span><span type="rt">くんあん</span><span type="rp">）</span></span>といい、<span type="ruby"><span type="rb">長安</span><span type="rp">（</span><span type="rt">ちょうあん</span><span type="rp">）</span></span>の人である。漢の<span type="ruby"><span type="rb">成帝</span><span type="rp">（</span><span type="rt">せいてい</span><span type="rp">）</span></span>のときに<span type="ruby"><span type="rb">嵩山</span><span type="rp">（</span><span type="rt">すうざん</span><span type="rp">）</span></span>に入って異人に仙術を伝えられ、遂にその秘訣を得て、心のままに鬼を使うことが出来るようになった。<lb />
+　<span type="ruby"><span type="rb">頴川</span><span type="rp">（</span><span type="rt">えいせん</span><span type="rp">）</span></span>の太守、<span type="ruby"><span type="rb">史祈</span><span type="rp">（</span><span type="rt">しき</span><span type="rp">）</span></span>という人がそれを聞いて、彼は妖法をおこなう者であると認め、役所へよび寄せて成敗しようと思った。召されて劉が出頭すると、太守はおごそかに言い渡した。<lb />
+「貴公はよく人に鬼を見せるというが、今わたしの眼の前へその姿をはっきりと見せてくれ。それが出来なければ<span type="ruby"><span type="rb">刑戮</span><span type="rp">（</span><span type="rt">けいりく</span><span type="rp">）</span></span>を加えるから覚悟しなさい」<lb />
+「それは訳もないことです」<lb />
+　劉は太守の前にある筆や<span type="ruby"><span type="rb">硯</span><span type="rp">（</span><span type="rt">すずり</span><span type="rp">）</span></span>を借りて、なにかの<span type="ruby"><span type="rb">御符</span><span type="rp">（</span><span type="rt">おふだ</span><span type="rp">）</span></span>をかいた。そうして、机を一つ叩くと、忽ちそこへ五、六人の鬼があらわれた。鬼は二人の囚人を縛って来たので、太守は眼を据えてよく視ると、その囚人は自分の父と母であった。父母はまず劉にむかって謝まった。<lb />
+「<span type="ruby"><span type="rb">小忰</span><span type="rp">（</span><span type="rt">こせがれ</span><span type="rp">）</span></span>めが飛んだ無礼を働きまして、なんとも申し訳がございません」<lb />
+　かれらは更に我が子を叱った。<lb />
+「貴様はなんという奴だ。先祖に光栄をあたえる事が出来ないばかりか、かえって神仙に対して無礼の罪をかさね、生みの親にまでこんな難儀をかけるのか」<lb />
+　太守は実におどろいた。彼は<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわ</span><span type="rp">）</span></span>かに劉の前に<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かしら</span><span type="rp">）</span></span>をすり付けて、無礼の罪を泣いて<span type="ruby"><span type="rb">詫</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>びると、劉は黙って<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>へか立ち去った。<lb />
+<lb />
+　　　無鬼論<lb />
+<lb />
+　<span type="ruby"><span type="rb">阮瞻</span><span type="rp">（</span><span type="rt">げんせん</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">字</span><span type="rp">（</span><span type="rt">あざな</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">千里</span><span type="rp">（</span><span type="rt">せんり</span><span type="rp">）</span></span>といい、平素から無鬼論を主張して、鬼などという物があるべき筈がないと言っていたが、誰も正面から議論をこころみて、彼に勝ち得る者はなかった。阮もみずからそれを誇って、この理をもって<span type="ruby"><span type="rb">推</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>すときは、世に幽と明と二つの<span type="ruby"><span type="rb">界</span><span type="rp">（</span><span type="rt">さかい</span><span type="rp">）</span></span>があるように伝えるのは誤りであると唱えていた。<lb />
+　ある日、ひとりの見識らぬ客が阮をたずねて来て、<span type="ruby"><span type="rb">式</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>のごとく時候の挨拶が終った後に、話は鬼の問題に移ると、その客も大いに才弁のある人物で、この世に鬼ありと言う。阮は例の無鬼論を主張し、たがいに激論を闘わしたが、客の方が遂に言い負かされてしまった。と思うと、彼は怒りの色をあらわした。<lb />
+「鬼神のことは古今の聖人<span type="ruby"><span type="rb">賢者</span><span type="rp">（</span><span type="rt">けんじゃ</span><span type="rp">）</span></span>もみな言い伝えているのに、貴公ひとりが無いと言い張ることが出来るものか。論より証拠、わたしが即ち鬼である」<lb />
+　彼はたちまち<span type="ruby"><span type="rb">異形</span><span type="rp">（</span><span type="rt">いぎょう</span><span type="rp">）</span></span>の者に変じて消え失せたので、阮はなんとも言うことが出来なくなった。彼はそれから心持が悪くなって、一年あまりの後に病死した。<lb />
+<lb />
+　　　盤瓠<lb />
+<lb />
+　<span type="ruby"><span type="rb">高辛氏</span><span type="rp">（</span><span type="rt">こうしんし</span><span type="rp">）</span></span>の時代に、王宮にいる老婦人が久しく耳の<span type="ruby"><span type="rb">疾</span><span type="rp">（</span><span type="rt">やまい</span><span type="rp">）</span></span>にかかって医師の治療を受けると、医師はその耳から大きな<span type="ruby"><span type="rb">繭</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>のごとき虫を取り出した。老婦人が去った後、<span type="ruby"><span type="rb">瓠</span><span type="rp">（</span><span type="rt">ひさご</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">籬</span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span>でかこって<span type="ruby"><span type="rb">盤</span><span type="rp">（</span><span type="rt">ふた</span><span type="rp">）</span></span>をかぶせて置くと、虫は俄かに変じて犬となった。犬の毛皮には<span type="ruby"><span type="rb">五色</span><span type="rp">（</span><span type="rt">ごしき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">文</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>があるので、これを宮中に養うこととし、瓠と盤とにちなんで<span type="ruby"><span type="rb">盤瓠</span><span type="rp">（</span><span type="rt">ばんこ</span><span type="rp">）</span></span>と名づけていた。<lb />
+　その当時、<span type="ruby"><span type="rb">戎呉</span><span type="rp">（</span><span type="rt">じゅうご</span><span type="rp">）</span></span>という<span type="ruby"><span type="rb">胡</span><span type="rp">（</span><span type="rt">えびす</span><span type="rp">）</span></span>の勢力が盛んで、しばしば国境を犯すので、諸将をつかわして征討を試みても、容易に打ち勝つことが出来ない。そこで、天下に触れを廻して、もし戎呉の将軍の首を取って来る者があれば、千<span type="ruby"><span type="rb">斤</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>の金をあたえ、<span type="ruby"><span type="rb">万戸</span><span type="rp">（</span><span type="rt">ばんこ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">邑</span><span type="rp">（</span><span type="rt">むら</span><span type="rp">）</span></span>をあたえ、さらに王の少女を賜わるということになった。<lb />
+　やがて盤瓠は一人の首をくわえて王宮に来た。それはかの戎呉の首であったので、王はその処分に迷っていると、家来たちはみな言った。<lb />
+「たとい敵の首を取って来たにしても、盤瓠は畜類であるから、これに官禄を与えることも出来ず、姫君を賜わることも出来ず、どうにも致し方はありますまい」<lb />
+　それを聞いて少女は王に申し上げた。<lb />
+「戎呉の首を取った者にはわたくしを与えるということをすでに天下に公約されたのです。盤瓠がその首を取って来て、国のために害を除いたのは、天の命ずるところで、犬の知恵ばかりではありますまい。王者は<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">げん</span><span type="rp">）</span></span>を重んじ、伯者は信を重んずと申します。女ひとりの身を惜しんで、天下に対する公約を破るのは、国家の<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">わざわ</span><span type="rp">）</span></span>いでありましょう」<lb />
+　王も<span type="ruby"><span type="rb">懼</span><span type="rp">（</span><span type="rt">おそ</span><span type="rp">）</span></span>れて、その言葉に従うことになった。約束の通りに少女をあたえると、犬は彼女を伴って南山にのぼった。山は<span type="ruby"><span type="rb">草木</span><span type="rp">（</span><span type="rt">そうもく</span><span type="rp">）</span></span>おい茂って、人の行くべき所ではなかった。少女は今までの衣裳を解き捨てて、<span type="ruby"><span type="rb">賤</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>しい<span type="ruby"><span type="rb">奴僕</span><span type="rp">（</span><span type="rt">ぬぼく</span><span type="rp">）</span></span>の服を着け、犬の導くままに山を登り、谷に下って<span type="ruby"><span type="rb">石室</span><span type="rp">（</span><span type="rt">いしむろ</span><span type="rp">）</span></span>のなかにとどまった。王は悲しんで、ときどきその様子を見せにやると、いつでも俄かに雨風が起って、山は震い、雲は<span type="ruby"><span type="rb">晦</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>く、無事にその石室まで行き着くものはなかった。<lb />
+　それから三年ほどのあいだに、少女は六人の男と六人の女を生んだ。かれらは木の皮をもって衣服を織り、草の実をもって五色に染めたが、その衣服の裁ち方には尾の形が残っていた。盤瓠が死んだ後、少女は王城へ帰ってそれを語ったので、王は使いをやってその子ども達を迎い取らせたが、その時には雨風の<span type="ruby"><span type="rb">祟</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>りもなかった。<lb />
+　しかし子供たちの服装は異様であり、言葉は通ぜず、行儀は悪く、山に棲むことを好んで都を嫌うので、王はその意にまかせて、かれらに<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>い山や広い沢地をあたえて自由に棲ませた。かれらを呼んで蛮夷といった。<lb />
+<lb />
+　　　金龍池<lb />
+<lb />
+　<span type="ruby"><span type="rb">晋</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">懐帝</span><span type="rp">（</span><span type="rt">かいてい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">永嘉</span><span type="rp">（</span><span type="rt">えいか</span><span type="rp">）</span></span>年中に、<span type="ruby"><span type="rb">韓媼</span><span type="rp">（</span><span type="rt">かんおん</span><span type="rp">）</span></span>という老女が野なかで<span type="ruby"><span type="rb">巨</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>きい卵をみつけた。拾って帰って育てると、やがて男の児が生まれて、その<span type="ruby"><span type="rb">字</span><span type="rp">（</span><span type="rt">あざな</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">※児</span><span type="rp">（</span><span type="rt">けつじ</span><span type="rp">）</span></span><span rend="notes">［＃「てへん＋厥」、47-12］</span>といった。<lb />
+　※<span rend="notes">［＃「てへん＋厥」、47-13］</span>児が四歳のとき、<span type="ruby"><span type="rb">劉淵</span><span type="rp">（</span><span type="rt">りゅうえん</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">平陽</span><span type="rp">（</span><span type="rt">へいよう</span><span type="rp">）</span></span>の城を築いたが、どうしても出来ない。そこで、賞をかけて築城術の達者を募ると、※<span rend="notes">［＃「てへん＋厥」、47-14］</span>児はその募集に応じた。彼は変じて蛇となって、韓媼に灰を用意しろと教えた。<lb />
+「わたしの這って行くあとに灰をまいて来れば、自然に城の縄張りが出来る」<lb />
+　韓媼はそのいう通りにした。劉淵は怪しんで※<span rend="notes">［＃「てへん＋厥」、47-17］</span>児を<span type="ruby"><span type="rb">捉</span><span type="rp">（</span><span type="rt">とら</span><span type="rp">）</span></span>えようとすると、蛇は山の穴に隠れた。しかもその尾の端が五、六寸ばかりあらわれていたので、追っ手は剣をぬいて尾を斬ると、そこから忽ちに泉が<span type="ruby"><span type="rb">涌</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>き出して池となった。金龍池の名はこれから起ったのである。<lb />
+<lb />
+　　　<span type="ruby"><span type="rb">発塚異事</span><span type="rp">（</span><span type="rt">はつちょういじ</span><span type="rp">）</span></span><lb />
+<lb />
+　<span type="ruby"><span type="rb">三国</span><span type="rp">（</span><span type="rt">さんごく</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">呉</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">孫休</span><span type="rp">（</span><span type="rt">そんきゅう</span><span type="rp">）</span></span>のときに、一人の<span type="ruby"><span type="rb">戍将</span><span type="rp">（</span><span type="rt">じゅしょう</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">広陵</span><span type="rp">（</span><span type="rt">こうりょう</span><span type="rp">）</span></span>を守っていたが、城の修繕をするために付近の古い塚を掘りかえして石の板をあつめた。見あたり次第にたくさんの塚をぶち<span type="ruby"><span type="rb">壊</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>しているうちに、一つの大きい塚を<span type="ruby"><span type="rb">発</span><span type="rp">（</span><span type="rt">あば</span><span type="rp">）</span></span>くことになった。<lb />
+　塚のうちには<span type="ruby"><span type="rb">幾重</span><span type="rp">（</span><span type="rt">いくちょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">閣</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>があって、その<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">とびら</span><span type="rp">）</span></span>はみな回転して開閉自在に作られていた。四方には車道が通じていて、その高さは騎馬の人も往来が出来るほどである。ほかに高さ五<span type="ruby"><span type="rb">尺</span><span type="rp">（</span><span type="rt">しゃく</span><span type="rp">）</span></span>ほどの<span type="ruby"><span type="rb">銅人</span><span type="rp">（</span><span type="rt">どうじん</span><span type="rp">）</span></span>が数十も立っていて、いずれも朱衣、大冠、剣を執って整列し、そのうしろの石壁には殿中将軍とか、侍郎常侍とか彫刻してある。それらの護衛から想像すると、定めて由緒ある公侯の塚であるらしく思われた。<lb />
+　さらに正面の棺を破ってみると、棺中の人は髪がすでに<span type="ruby"><span type="rb">斑白</span><span type="rp">（</span><span type="rt">はんぱく</span><span type="rp">）</span></span>で、衣冠鮮明、その相貌は生けるが如くである。棺のうちには厚さ一尺ほどに<span type="ruby"><span type="rb">雲母</span><span type="rp">（</span><span type="rt">きらら</span><span type="rp">）</span></span>を敷き、白い玉三十個を死骸の下に置き<span type="ruby"><span type="rb">列</span><span type="rp">（</span><span type="rt">なら</span><span type="rp">）</span></span>べてあった。兵卒らがその死人を<span type="ruby"><span type="rb">舁</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>き出して、うしろの壁に<span type="ruby"><span type="rb">倚</span><span type="rp">（</span><span type="rt">もた</span><span type="rp">）</span></span>せかけると、<span type="ruby"><span type="rb">冬瓜</span><span type="rp">（</span><span type="rt">とうが</span><span type="rp">）</span></span>のような大きい玉がその懐中から転げ出したので、驚いて更に検査すると、死人の耳にも鼻にも<span type="ruby"><span type="rb">棗</span><span type="rp">（</span><span type="rt">なつめ</span><span type="rp">）</span></span>の実ほどの黄金が詰め込んであった。<lb />
+　次も墓あらしの話。<lb />
+　漢の<span type="ruby"><span type="rb">広川王</span><span type="rp">（</span><span type="rt">こうせんおう</span><span type="rp">）</span></span>も墓あらしを好んだ。あるとき<span type="ruby"><span type="rb">欒書</span><span type="rp">（</span><span type="rt">らんしょ</span><span type="rp">）</span></span>の塚をあばくと、棺も祭具もみな朽ち破れて、何物も余されていなかったが、ただ一匹の白い狐が棲んでいて、人を見ておどろき走ったので、王の左右にある者が追いかけたが、わずかに<span type="ruby"><span type="rb">戟</span><span type="rp">（</span><span type="rt">ほこ</span><span type="rp">）</span></span>をもってその左足を傷つけただけで、遂にその姿を見失った。<lb />
+　その夜、王の枕もとに、<span type="ruby"><span type="rb">鬚</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>も眉もことごとく白い一個の<span type="ruby"><span type="rb">丈夫</span><span type="rp">（</span><span type="rt">じょうふ</span><span type="rp">）</span></span>があらわれて、お前はなぜおれの左の足を傷つけたかと責めた上に、持ったる杖をあげて王の左足を撃ったかと思うと、夢は醒めた。<lb />
+　王は撃たれた足に痛みをおぼえて一種の<span type="ruby"><span type="rb">悪瘡</span><span type="rp">（</span><span type="rt">あくそう</span><span type="rp">）</span></span>を生じ、いかに治療しても一生を終るまで平癒しなかった。<lb />
+<lb />
+　　　徐光の瓜<lb />
+<lb />
+　三国の<span type="ruby"><span type="rb">呉</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>のとき、<span type="ruby"><span type="rb">徐光</span><span type="rp">（</span><span type="rt">じょこう</span><span type="rp">）</span></span>という者があって、市中へ出て種々の術をおこなっていた。<lb />
+　ある日、ある家へ行って<span type="ruby"><span type="rb">瓜</span><span type="rp">（</span><span type="rt">うり</span><span type="rp">）</span></span>をくれというと、その主人が与えなかった。それでは瓜の花を貰いたいと言って、地面に杖を立てて花を植えると、忽ちに<span type="ruby"><span type="rb">蔓</span><span type="rp">（</span><span type="rt">つる</span><span type="rp">）</span></span>が伸び、花が開いて実を結んだので、徐は自分も取って食い、見物人にも分けてやった。瓜あきんどがそのあとに残った瓜を取って売りに出ると、中身はみな<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>になっていた。<lb />
+　徐は天候をうらない、出水や<span type="ruby"><span type="rb">旱</span><span type="rp">（</span><span type="rt">ひでり</span><span type="rp">）</span></span>のことを予言すると、みな適中した。かつて大将軍<span type="ruby"><span type="rb">孫<span change="gaiji" facs="../../../gaiji/2-84/2-84-35.png" rend="gaiji" rendition="img" source="※(「糸＋林」、第4水準2-84-35)" /></span><span type="rp">（</span><span type="rt">そんりん</span><span type="rp">）</span></span>の門前を通ると、彼は着物の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>をかかげて、左右に<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>しながら走りぬけた。ある人がその子細をたずねると、彼は答えた。<lb />
+「一面に血が流れていて、その<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いがたまらない」<lb />
+　将軍はそれを聞いて大いに憎んで、遂に彼を殺すことになった。徐は首を斬られても、血が出なかった。<lb />
+　将軍は後に幼帝を廃して、さらに<span type="ruby"><span type="rb">景帝</span><span type="rp">（</span><span type="rt">けいてい</span><span type="rp">）</span></span>を擁立し、それを先帝の<span type="ruby"><span type="rb">陵</span><span type="rp">（</span><span type="rt">みささぎ</span><span type="rp">）</span></span>に奉告しようとして、門を出て車に乗ると、俄かに大風が吹いて来て、その車をゆり動かしたので、車はあやうく傾きかかった。<lb />
+　この時、かの徐光が松の樹の上に立って、笑いながら指図しているのを見たが、それは将軍の眼に映っただけで、そばにいる者にはなんにも見えなかった。<lb />
+　将軍は景帝を立てたのであるが、その景帝のためにたちまち<span type="ruby"><span type="rb">誅</span><span type="rp">（</span><span type="rt">ちゅう</span><span type="rp">）</span></span>せられた。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

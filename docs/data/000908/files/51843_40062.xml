@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>手紙</title>
+        <author>坂本龍馬</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-07-28">作成</resp><resp /><note>
+<lb />
+底本：「龍馬の手紙」宮地佐一郎、講談社学術文庫、講談社<lb />
+　　　2003（平成15）年12月10日第1刷発行<lb />
+　　　2008（平成20）年9月19日第7刷発行<lb />
+※底本手紙の写真のキャプションに、（東京　伊藤家文書）とあります。<lb />
+※直筆の手紙の折り返しに合わせた改行は、省いて入力しました。<lb />
+入力：Yanajin33<lb />
+校正：Hanren<lb />
+<date when="2010-07-28">2010年7月28日</date>作成<lb />
+<date when="2011-06-17">2011年6月17日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>Yanajin33</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>Hanren</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>手紙</title><author>坂本龍馬</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+今日ハ金子御入用と存候得バ、小曽根英四郎みせ番頭清吉を以て、六百両さし出申候。<lb />
+残弐百両ハ竹行の為ニ今シバらく借用仕置候間、其御心積奉<span rend="kaeriten" rendition="sub">レ</span>願候。早<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />頓首<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">四月六日<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">龍</span></span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">伊藤九三老兄<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">直柔</span></span>
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">足下</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

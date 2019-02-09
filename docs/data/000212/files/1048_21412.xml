@@ -1,0 +1,914 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>どんたく</title>
+        <author>竹久夢二</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2000-10-12">作成</resp><resp /><note>
+<lb />
+底本：「どんたく」中公文庫、中央公論社
+<lb />
+　　　1993（平成5）年7月10日発行<lb />
+底本の親本：「どんたく」実業之日本社<lb />
+　　　1913（大正2）年11月発行<lb />
+入力：星夕子<lb />
+校正：Juki<lb />
+<date when="2000-10-12">2000年10月12日</date>公開<lb />
+<date when="2006-01-11">2006年1月11日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>星夕子</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>Juki</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>どんたく</title><author>竹久夢二</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div">
+<lb />
+<lb />
+<lb />
+こはわが少年の日のいとしき小唄なり。<lb />
+いまは過ぎし日のおさなきどちにこのひとまきをおくらむ。<lb />
+お花よ、お蝶よ、お駒よ、小春よ。太郎よ、次郎よ、草之助よ。げに御身たちはわがつたなき草笛の最初のききてなりき。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+<span rend="notes">［＃ここから横組み］</span>TO<span rend="notes">［＃ここで横組み終わり］</span><lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="notes">［＃ここから横組み］</span><lb />
+N<span change="gaiji" facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />MU-NO-KI　N<span change="gaiji" facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />MU-NO-KI<lb />
+N<span change="gaiji" facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />YA　SYANS<span change="gaiji" facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />.<lb />
+OKAN<span change="gaiji" facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />　GA　NATTARA<lb />
+OKYA　SYANS<span change="gaiji" facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />.<lb />
+<span rend="notes">［＃ここで横組み終わり］</span><lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+どんたく<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　歌時計<lb />
+<lb />
+ゆめとうつつのさかひめの<lb />
+ほのかにしろき朝の<span type="ruby"><span type="rb">床</span><span type="rp">（</span><span type="rt">とこ</span><span type="rp">）</span></span>。<lb />
+かたへにははのあらぬとて<lb />
+<span type="ruby"><span type="rb">歌時計</span><span type="rp">（</span><span type="rt">うたひどけい</span><span type="rp">）</span></span>のその<span type="ruby"><span type="rb">唄</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>が<lb />
+なぜこのやうに悲しかろ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　ゆびきり<lb />
+<lb />
+<span type="ruby"><span type="rb">指</span><span type="rp">（</span><span type="rt">ゆび</span><span type="rp">）</span></span>をむすびて「マリヤさま<lb />
+ゆめゆめうそはいひませぬ」<lb />
+おさなききみはかくいひて<lb />
+涙うかべぬ。しみじみと<lb />
+雨はふたりのうへにふる<lb />
+またスノウドロツプの花びらに。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　紡車<lb />
+<lb />
+しろくねむたき春の昼<lb />
+しづかにめぐる<span type="ruby"><span type="rb">紡車</span><span type="rp">（</span><span type="rt">いとぐるま</span><span type="rp">）</span></span>。<lb />
+をうなの指をでる糸は<lb />
+しろくかなしきゆめのいと<lb />
+をうなの<span type="ruby"><span type="rb">唄</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>ふその歌は<lb />
+とほくいとしきこひのうた。<lb />
+たゆまずめぐる<span type="ruby"><span type="rb">紡車</span><span type="rp">（</span><span type="rt">いとぐるま</span><span type="rp">）</span></span><lb />
+もつれてめぐる<span type="ruby"><span type="rb">夢</span><span type="rp">（</span><span type="rt">ゆめ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">歌</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　人買<lb />
+<lb />
+秋のいり日はあかあかと<lb />
+<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">とんぼ</span><span type="rp">）</span></span>とびゆくかはたれに<lb />
+<span type="ruby"><span type="rb">塀</span><span type="rp">（</span><span type="rt">へい</span><span type="rp">）</span></span>のかげから<span type="ruby"><span type="rb">青</span><span type="rp">（</span><span type="rt">あを</span><span type="rp">）</span></span><span type="ruby"><span type="rb">頭巾</span><span type="rp">（</span><span type="rt">づきん</span><span type="rp">）</span></span>。<lb />
+<lb />
+「やれ<span type="ruby"><span type="rb">人買</span><span type="rp">（</span><span type="rt">ひとかひ</span><span type="rp">）</span></span>ぢや<span type="ruby"><span type="rb">人買</span><span type="rp">（</span><span type="rt">ひとかひ</span><span type="rp">）</span></span>ぢや<lb />
+どこへにげようぞかくれうぞ」<lb />
+赤い<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">とんぼ</span><span type="rp">）</span></span>がとびまはる。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　六地蔵<lb />
+<lb />
+<span type="ruby"><span type="rb">背合</span><span type="rp">（</span><span type="rt">せなかあはせ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">六地蔵</span><span type="rp">（</span><span type="rt">ろくぢざう</span><span type="rp">）</span></span><lb />
+としつきともにすみながら<lb />
+ついぞ<span type="ruby"><span type="rb">顔</span><span type="rp">（</span><span type="rt">かほ</span><span type="rp">）</span></span>みたこともない。<lb />
+でもまあ<span type="ruby"><span type="rb">苦</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>にもならぬやら<lb />
+いつきてみても<span type="ruby"><span type="rb">年</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>とらず<lb />
+赤くはげたる<span type="ruby"><span type="rb">涎掛</span><span type="rp">（</span><span type="rt">よだれかけ</span><span type="rp">）</span></span>。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　越後獅子<lb />
+<lb />
+<span type="ruby"><span type="rb">角兵衛獅子</span><span type="rp">（</span><span type="rt">かくべゑじし</span><span type="rp">）</span></span>のかなしさは<lb />
+<span type="ruby"><span type="rb">親</span><span type="rp">（</span><span type="rt">おや</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">太鼓</span><span type="rp">（</span><span type="rt">たいこ</span><span type="rp">）</span></span>うちや<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>がおどる。<lb />
+<span type="ruby"><span type="rb">股</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>のしたから<span type="ruby"><span type="rb">峠</span><span type="rp">（</span><span type="rt">たうげ</span><span type="rp">）</span></span>をみれば<lb />
+もしや<span type="ruby"><span type="rb">越後</span><span type="rp">（</span><span type="rt">ゑちご</span><span type="rp">）</span></span>の山かとおもひ<lb />
+泣いてたもれなともどもに。<lb />
+<lb />
+<span type="ruby"><span type="rb">角兵衛獅子</span><span type="rp">（</span><span type="rt">かくべゑじし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">身</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>のつらさ。<lb />
+<span type="ruby"><span type="rb">輪廻</span><span type="rp">（</span><span type="rt">りんね</span><span type="rp">）</span></span>はめぐる<span type="ruby"><span type="rb">小車</span><span type="rp">（</span><span type="rt">をぐるま</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">とんぼ</span><span type="rp">）</span></span>がへりの<span type="ruby"><span type="rb">日</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>もくれて<lb />
+<span type="ruby"><span type="rb">旅籠</span><span type="rp">（</span><span type="rt">やど</span><span type="rp">）</span></span>をとろにも<span type="ruby"><span type="rb">銭</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>はなし<lb />
+あひの<span type="ruby"><span type="rb">土山</span><span type="rp">（</span><span type="rt">つちやま</span><span type="rp">）</span></span>あめがふる。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　赤い木の実<lb />
+<lb />
+<span type="ruby"><span type="rb">雪</span><span type="rp">（</span><span type="rt">ゆき</span><span type="rp">）</span></span>のふる日に<span type="ruby"><span type="rb">小兎</span><span type="rp">（</span><span type="rt">こうさぎ</span><span type="rp">）</span></span>は<lb />
+あかい<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>がたべたさに<lb />
+<span type="ruby"><span type="rb">親</span><span type="rp">（</span><span type="rt">おや</span><span type="rp">）</span></span>のねたまに<span type="ruby"><span type="rb">山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>をいで<lb />
+<span type="ruby"><span type="rb">城</span><span type="rp">（</span><span type="rt">しろ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">もん</span><span type="rp">）</span></span>まできはきたが<lb />
+あかい<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>はみえもせず<lb />
+<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>はわからず日はくれる<lb />
+ながい<span type="ruby"><span type="rb">廊下</span><span type="rp">（</span><span type="rt">らうか</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">窓</span><span type="rp">（</span><span type="rt">まど</span><span type="rp">）</span></span>のした<lb />
+なにやら赤いものがある<lb />
+そつとしのむできてみれば<lb />
+こは<span type="ruby"><span type="rb">姫君</span><span type="rp">（</span><span type="rt">ひめぎみ</span><span type="rp">）</span></span>のかんざしの<lb />
+<span type="ruby"><span type="rb">珊瑚</span><span type="rp">（</span><span type="rt">さんご</span><span type="rp">）</span></span>のたまかはつかしや<lb />
+たべてよいやらわるいやら<lb />
+<span type="ruby"><span type="rb">兎</span><span type="rp">（</span><span type="rt">うさぎ</span><span type="rp">）</span></span>はかなしくなりました。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　鐘<lb />
+<lb />
+村で<span type="ruby"><span type="rb">名代</span><span type="rp">（</span><span type="rt">なだい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鐘撞男</span><span type="rp">（</span><span type="rt">かねつきをとこ</span><span type="rp">）</span></span><lb />
+月がよいのでうかうかと<lb />
+<span type="ruby"><span type="rb">鐘</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>をつくのもつひわすれ<lb />
+<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>のつく<span type="ruby"><span type="rb">街</span><span type="rp">（</span><span type="rt">まち</span><span type="rp">）</span></span>がこひしさに<lb />
+山から<span type="ruby"><span type="rb">港</span><span type="rp">（</span><span type="rt">みなと</span><span type="rp">）</span></span>へではでたが<lb />
+日がくれるのに<span type="ruby"><span type="rb">山寺</span><span type="rp">（</span><span type="rt">やまでら</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">鐘</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>はつんともならなんだ<lb />
+<span type="ruby"><span type="rb">村長</span><span type="rp">（</span><span type="rt">そんちやう</span><span type="rp">）</span></span>さまはあたふたと<lb />
+<span type="ruby"><span type="rb">鐘撞堂</span><span type="rp">（</span><span type="rt">かねつきだう</span><span type="rp">）</span></span>へきてみれば<lb />
+<span type="ruby"><span type="rb">伊部徳利</span><span type="rp">（</span><span type="rt">いんべとくり</span><span type="rp">）</span></span>に月がさし<lb />
+ちんちろりんがないてゐた。<lb />
+アトレの馬ではあるまいし<lb />
+<span type="ruby"><span type="rb">鐘</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>がならうがなるまいが<lb />
+子供のしつたことでなし<lb />
+うらの<span type="ruby"><span type="rb">菜園</span><span type="rp">（</span><span type="rt">さゑん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">椎</span><span type="rp">（</span><span type="rt">しひ</span><span type="rp">）</span></span>の木に<lb />
+ザボンのやうな月がでた。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　ゆく春<lb />
+<lb />
+くれゆく春のかなしさは<lb />
+<span type="ruby"><span type="rb">白髪頭</span><span type="rp">（</span><span type="rt">しらがあたま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">蒲公英</span><span type="rp">（</span><span type="rt">たんぽぽ</span><span type="rp">）</span></span>の<lb />
+むく<span type="ruby"><span type="rb">毛</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>がついついとんでゆく<lb />
+風がふくたびとんでゆき<lb />
+若い<span type="ruby"><span type="rb">身</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>そらで<span type="ruby"><span type="rb">禿頭</span><span type="rp">（</span><span type="rt">はげあたま</span><span type="rp">）</span></span>。<lb />
+<lb />
+<lb />
+くれゆく春のかなしさは<lb />
+<span type="ruby"><span type="rb">薊</span><span type="rp">（</span><span type="rt">あざみ</span><span type="rp">）</span></span>の花をつみとりて<lb />
+とんとたたけば馬がでる<lb />
+そつとはらへば牛がでる<lb />
+でてはぴよんぴよんにげてゆく。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　くすり<lb />
+<lb />
+<span type="ruby"><span type="rb">雪</span><span type="rp">（</span><span type="rt">ゆき</span><span type="rp">）</span></span>はしんしんふりしきる。<lb />
+<span type="ruby"><span type="rb">炬燵</span><span type="rp">（</span><span type="rt">こたつ</span><span type="rp">）</span></span>にあてたよこはらが<lb />
+またしくしくといたむとき。<lb />
+<lb />
+雪はしんしんふりしきる。<lb />
+しろくつめたき<span type="ruby"><span type="rb">粉</span><span type="rp">（</span><span type="rt">こな</span><span type="rp">）</span></span>ぐすり<lb />
+熱ある<span type="ruby"><span type="rb">舌</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>にしみるとき。<lb />
+<lb />
+雪はしんしんふりしきる。<lb />
+<span type="ruby"><span type="rb">黄</span><span type="rp">（</span><span type="rt">きい</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">袋</span><span type="rp">（</span><span type="rt">ふくろ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">石版</span><span type="rp">（</span><span type="rt">いしずり</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">異形</span><span type="rp">（</span><span type="rt">いぎやう</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">虫</span><span type="rp">（</span><span type="rt">むし</span><span type="rp">）</span></span>のわざはひか。<lb />
+<lb />
+雪はしんしんふりしきる。<lb />
+<span type="ruby"><span type="rb">銀</span><span type="rp">（</span><span type="rt">ぎん</span><span type="rp">）</span></span>ぎらぎんのセメン<span type="ruby"><span type="rb">円</span><span type="rp">（</span><span type="rt">ゑん</span><span type="rp">）</span></span><lb />
+とのもは雪のつむけはひ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　雀踊<lb />
+<lb />
+青い<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>したたをやめが<lb />
+<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">墨絵</span><span type="rp">（</span><span type="rt">すみゑ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">扇</span><span type="rp">（</span><span type="rt">あふぎ</span><span type="rp">）</span></span>にて<lb />
+そつとまねけばついとくる<lb />
+はらりとひらけばぱつととぶ。<lb />
+<span type="ruby"><span type="rb">雀</span><span type="rp">（</span><span type="rt">すゞめ</span><span type="rp">）</span></span>おどりのおもしろさ<lb />
+　　やんれやれやれやせうめ<lb />
+　　<span type="ruby"><span type="rb">京</span><span type="rp">（</span><span type="rt">きやう</span><span type="rp">）</span></span>の町のやせうめ<lb />
+　　うつるるものはみせうめ<lb />
+あれあれあれとみるほどに<lb />
+<span type="ruby"><span type="rb">奴姿</span><span type="rp">（</span><span type="rt">やつこすがた</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">小雀</span><span type="rp">（</span><span type="rt">こすゞめ</span><span type="rp">）</span></span>は<lb />
+<span type="ruby"><span type="rb">山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>のあなたへとびさりぬ。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　わたり鳥<lb />
+<lb />
+<span type="ruby"><span type="rb">日本</span><span type="rp">（</span><span type="rt">にほん</span><span type="rp">）</span></span>の春のこひしさに<lb />
+シイオホスクの<span type="ruby"><span type="rb">海角</span><span type="rp">（</span><span type="rt">みさき</span><span type="rp">）</span></span>より<lb />
+はるばる波をわたり<span type="ruby"><span type="rb">鳥</span><span type="rp">（</span><span type="rt">どり</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">庄屋</span><span type="rp">（</span><span type="rt">しやうや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">軒</span><span type="rp">（</span><span type="rt">のき</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">巣</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>をかけて<lb />
+<span type="ruby"><span type="rb">雛</span><span type="rp">（</span><span type="rt">ひゝな</span><span type="rp">）</span></span>を六<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">ぱ</span><span type="rp">）</span></span>うんだれど<lb />
+三<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">雛</span><span type="rp">（</span><span type="rt">ひな</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">死</span><span type="rp">（</span><span type="rt">しに</span><span type="rp">）</span></span>ました。<lb />
+のこる三<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(「柿」の正字、第3水準1-85-57)" /></span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">葉</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">毛虫</span><span type="rp">（</span><span type="rt">けむし</span><span type="rp">）</span></span>がすきでたべました。<lb />
+<lb />
+やんがて<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(「柿」の正字、第3水準1-85-57)" /></span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span>のうれるころ<lb />
+<span type="ruby"><span type="rb">日本</span><span type="rp">（</span><span type="rt">にほん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">島</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>をあとにして<lb />
+まだみもしらぬ<span type="ruby"><span type="rb">故郷</span><span type="rp">（</span><span type="rt">ふるさと</span><span type="rp">）</span></span>へ<lb />
+<span type="ruby"><span type="rb">親子</span><span type="rp">（</span><span type="rt">おやこ</span><span type="rp">）</span></span>もろともいにました。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　納戸の記憶<lb />
+<lb />
+<span type="ruby"><span type="rb">船</span><span type="rp">（</span><span type="rt">ふね</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">酒船</span><span type="rp">（</span><span type="rt">さかぶね</span><span type="rp">）</span></span><span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">ちち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">船</span><span type="rp">（</span><span type="rt">ふね</span><span type="rp">）</span></span><lb />
+三十五<span type="ruby"><span type="rb">反</span><span type="rp">（</span><span type="rt">たん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">帆</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>をまくや<lb />
+<span type="ruby"><span type="rb">玄海灘</span><span type="rp">（</span><span type="rt">げんかいなだ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">夏</span><span type="rp">（</span><span type="rt">なつ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">雲</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">君</span><span type="rp">（</span><span type="rt">きみ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">馬関</span><span type="rp">（</span><span type="rt">ばくわん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">唄</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>うたひ<lb />
+<span type="ruby"><span type="rb">髪</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>にさしたる<span type="ruby"><span type="rb">青玉</span><span type="rp">（</span><span type="rt">エメラルド</span><span type="rp">）</span></span><lb />
+あだな<span type="ruby"><span type="rb">南</span><span type="rp">（</span><span type="rt">みなみ</span><span type="rp">）</span></span>のニグレスが<lb />
+こころづくしの<span type="ruby"><span type="rb">貢物</span><span type="rp">（</span><span type="rt">みつぎもの</span><span type="rp">）</span></span>。<lb />
+<lb />
+<span type="ruby"><span type="rb">風</span><span type="rp">（</span><span type="rt">かぜ</span><span type="rp">）</span></span>のたよりをまちわびて<lb />
+<span type="ruby"><span type="rb">行燈</span><span type="rp">（</span><span type="rt">あんど</span><span type="rp">）</span></span>のかげのものおもひ<lb />
+<span type="ruby"><span type="rb">鬢</span><span type="rp">（</span><span type="rt">びん</span><span type="rp">）</span></span>のほつれをかきあぐる<lb />
+<span type="ruby"><span type="rb">銀</span><span type="rp">（</span><span type="rt">ぎん</span><span type="rp">）</span></span>のかざしのかなしさか<lb />
+<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">はゝ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">腕</span><span type="rp">（</span><span type="rt">かひな</span><span type="rp">）</span></span>のさみしさか。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　おしのび<lb />
+<lb />
+<span type="ruby"><span type="rb">昔</span><span type="rp">（</span><span type="rt">むかし</span><span type="rp">）</span></span>アゼンに<span type="ruby"><span type="rb">王</span><span type="rp">（</span><span type="rt">わう</span><span type="rp">）</span></span>ありき。<lb />
+<span type="ruby"><span type="rb">野</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>にさく<span type="ruby"><span type="rb">花</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>のめでたさに<lb />
+ひとり<span type="ruby"><span type="rb">田舎</span><span type="rp">（</span><span type="rt">ゐなか</span><span type="rp">）</span></span>へゆきけるが<lb />
+にわかに<span type="ruby"><span type="rb">雨</span><span type="rp">（</span><span type="rt">あめ</span><span type="rp">）</span></span>のふりいでて<lb />
+<span type="ruby"><span type="rb">王</span><span type="rp">（</span><span type="rt">わう</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">臍</span><span type="rp">（</span><span type="rt">へそ</span><span type="rp">）</span></span>までうまりける。<lb />
+それより<span type="ruby"><span type="rb">王</span><span type="rp">（</span><span type="rt">わう</span><span type="rp">）</span></span>はわすれても<lb />
+二<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">田舎</span><span type="rp">（</span><span type="rt">ゐなか</span><span type="rp">）</span></span>へゆかざりき。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+断章<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　　　１<lb />
+ドンタクがきたとてなんになろ<lb />
+子供は<span type="ruby"><span type="rb">芝居</span><span type="rp">（</span><span type="rt">しばゐ</span><span type="rp">）</span></span>へゆくでなし<lb />
+馬にのろにも馬はなし<lb />
+しんからこの<span type="ruby"><span type="rb">世</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>がつまらない。<lb />
+<lb />
+　　　２<lb />
+おうちに<span type="ruby"><span type="rb">屋根</span><span type="rp">（</span><span type="rt">やね</span><span type="rp">）</span></span>がなかつたら<lb />
+いつも<span type="ruby"><span type="rb">月夜</span><span type="rp">（</span><span type="rt">つきよ</span><span type="rp">）</span></span>でうれしかろ。<lb />
+あの<span type="ruby"><span type="rb">門番</span><span type="rp">（</span><span type="rt">もんばん</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">死</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んだなら<lb />
+あの<span type="ruby"><span type="rb">柿</span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span>とつてたべよもの。<lb />
+<span type="ruby"><span type="rb">世界</span><span type="rp">（</span><span type="rt">せかい</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">時計</span><span type="rp">（</span><span type="rt">とけい</span><span type="rp">）</span></span>がなかつたら<lb />
+さみしい<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>はこまいもの。<lb />
+<lb />
+　　　３<lb />
+もしも<span type="ruby"><span type="rb">地球</span><span type="rp">（</span><span type="rt">ちきう</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">金平糖</span><span type="rp">（</span><span type="rt">こんぺいたう</span><span type="rp">）</span></span>で<lb />
+<span type="ruby"><span type="rb">海</span><span type="rp">（</span><span type="rt">うみ</span><span type="rp">）</span></span>がインクで<span type="ruby"><span type="rb">山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>が<lb />
+<span type="ruby"><span type="rb">飴</span><span type="rp">（</span><span type="rt">あめ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">香桂</span><span type="rp">（</span><span type="rt">につけ</span><span type="rp">）</span></span>であつたなら<lb />
+なにをのんだらいいだろう。<lb />
+<span type="ruby"><span type="rb">学校</span><span type="rp">（</span><span type="rt">がくかう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">先生</span><span type="rp">（</span><span type="rt">せんせい</span><span type="rp">）</span></span>もしらなんだ<lb />
+<span type="ruby"><span type="rb">国王様</span><span type="rp">（</span><span type="rt">こくわうさま</span><span type="rp">）</span></span>もしらなんだ。<lb />
+<lb />
+　　　４<lb />
+この<span type="ruby"><span type="rb">紅茸</span><span type="rp">（</span><span type="rt">べにたけ</span><span type="rp">）</span></span>のうつくしさ。<lb />
+<span type="ruby"><span type="rb">小供</span><span type="rp">（</span><span type="rt">こども</span><span type="rp">）</span></span>がたべて<span type="ruby"><span type="rb">毒</span><span type="rp">（</span><span type="rt">どく</span><span type="rp">）</span></span>なもの<lb />
+なぜ<span type="ruby"><span type="rb">神様</span><span type="rp">（</span><span type="rt">かみさま</span><span type="rp">）</span></span>はつくつたろ。<lb />
+<span type="ruby"><span type="rb">毒</span><span type="rp">（</span><span type="rt">どく</span><span type="rp">）</span></span>なものならなんでまあ<lb />
+こんなにきれいにつくつたろ。<lb />
+<lb />
+　　　５<lb />
+ままごとするのもよいけれど<lb />
+いつでもわたしは子供役。<lb />
+子供が子供になつたとて<lb />
+なんのおかしいことがあろ。<lb />
+<lb />
+　　　６<lb />
+どんなにおなかがひもぢうても<lb />
+<span type="ruby"><span type="rb">日本</span><span type="rp">（</span><span type="rt">にほん</span><span type="rp">）</span></span>の子供はなきませぬ。<lb />
+ないてゐるのは<span type="ruby"><span type="rb">涙</span><span type="rp">（</span><span type="rt">なみだ</span><span type="rp">）</span></span>です。<lb />
+<lb />
+　　　７<lb />
+お<span type="ruby"><span type="rb">墓</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>のうへに雨がふる。<lb />
+あめあめふるな雨ふらば<lb />
+五<span type="ruby"><span type="rb">重</span><span type="rp">（</span><span type="rt">ぢゆう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">塔</span><span type="rp">（</span><span type="rt">たふ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">巣</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>をかけた<lb />
+かわい<span type="ruby"><span type="rb">小鳥</span><span type="rp">（</span><span type="rt">こどり</span><span type="rp">）</span></span>がぬれよもの。<lb />
+松の<span type="ruby"><span type="rb">梢</span><span type="rp">（</span><span type="rt">こずゑ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">風</span><span type="rp">（</span><span type="rt">かぜ</span><span type="rp">）</span></span>がふく。<lb />
+かぜかぜふくな風ふかば<lb />
+けふ<span type="ruby"><span type="rb">巣</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>だちした<span type="ruby"><span type="rb">鳶</span><span type="rp">（</span><span type="rt">とび</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>が<lb />
+<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>をわすれてなかうもの。<lb />
+<lb />
+　　　８<lb />
+ひろい空からふる雨は<lb />
+森のうへにも<span type="ruby"><span type="rb">牧場</span><span type="rp">（</span><span type="rt">まきば</span><span type="rp">）</span></span>にも<lb />
+びつくり<span type="ruby"><span type="rb">草</span><span type="rp">（</span><span type="rt">さう</span><span type="rp">）</span></span>にも<span type="ruby"><span type="rb">小鳥</span><span type="rp">（</span><span type="rt">こどり</span><span type="rp">）</span></span>にも<lb />
+みんなのうへにふるけれど<lb />
+子供のうへにはふりませぬ。<lb />
+それは子供の母親が<lb />
+シヤツポをきせてくれるから。<lb />
+<lb />
+　　　９<lb />
+<span type="ruby"><span type="rb">枇杷</span><span type="rp">（</span><span type="rt">びは</span><span type="rp">）</span></span>のたねをばのみこんだ。<lb />
+おなかのなかへ枇杷の木が<lb />
+はえるときいてなきながら<lb />
+枇杷のなるのをまつてたが<lb />
+いつまでたつてもはえなんだ。<lb />
+<lb />
+　　　10<lb />
+めんない<span type="ruby"><span type="rb">千鳥</span><span type="rp">（</span><span type="rt">ちどり</span><span type="rp">）</span></span>の日もくれて<lb />
+おぼろな春のうすあかり<lb />
+この<span type="ruby"><span type="rb">由良</span><span type="rp">（</span><span type="rt">ゆら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">鬼</span><span type="rp">（</span><span type="rt">おに</span><span type="rp">）</span></span>のいとほしさ<lb />
+ほどいてたもとなきいでぬ。<lb />
+<lb />
+　　　11<lb />
+<span type="ruby"><span type="rb">越中</span><span type="rp">（</span><span type="rt">ゑつちゆう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">富山</span><span type="rp">（</span><span type="rt">とやま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">薬売</span><span type="rp">（</span><span type="rt">くすりう</span><span type="rp">）</span></span>り<lb />
+おはぐろとんぼがついとでて<lb />
+白いカウモリ<span type="ruby"><span type="rb">傘</span><span type="rp">（</span><span type="rt">がさ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">柄</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>にとまり<lb />
+また<span type="ruby"><span type="rb">日</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>まわりの<span type="ruby"><span type="rb">葉</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>にとまり<lb />
+ついととんではまたもどる。<lb />
+<lb />
+　　　12<lb />
+お<span type="ruby"><span type="rb">遍路</span><span type="rp">（</span><span type="rt">へんろ</span><span type="rp">）</span></span>さんお遍路さん<lb />
+おやまのむかふは雨さうな<lb />
+<span type="ruby"><span type="rb">霰</span><span type="rp">（</span><span type="rt">あられ</span><span type="rp">）</span></span>をおくれ<span type="ruby"><span type="rb">豆</span><span type="rp">（</span><span type="rt">まめ</span><span type="rp">）</span></span>おくれ<lb />
+まめがなけねばこの<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span><span type="ruby"><span type="rb">法度</span><span type="rp">（</span><span type="rt">はつと</span><span type="rp">）</span></span>。<lb />
+<lb />
+　　　13<lb />
+<span type="ruby"><span type="rb">股</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>のしたから<span type="ruby"><span type="rb">麓</span><span type="rp">（</span><span type="rt">ふもと</span><span type="rp">）</span></span>をみれば<lb />
+さても絵のよなよい<span type="ruby"><span type="rb">景色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>。<lb />
+どこの町ぞときいたらば<lb />
+それはわたしの村でした。<lb />
+<lb />
+　　　14<lb />
+<span type="ruby"><span type="rb">梭</span><span type="rp">（</span><span type="rt">おさ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">手</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>をやめ<span type="ruby"><span type="rb">歌</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>ふをきけば<lb />
+――もつれた<span type="ruby"><span type="rb">糸</span><span type="rp">（</span><span type="rt">いと</span><span type="rp">）</span></span>なら<lb />
+　　ほどけもせうが<lb />
+　　きれた糸ゆゑ<lb />
+　　せんもなや。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+少年なりし日<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　人形遣<lb />
+<lb />
+「めでたやなめでたやな<lb />
+さりとはめでたやめでたや」と<lb />
+<span type="ruby"><span type="rb">紺</span><span type="rp">（</span><span type="rt">こん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">布簾</span><span type="rp">（</span><span type="rt">のれん</span><span type="rp">）</span></span>のつまはづれ<lb />
+<span type="ruby"><span type="rb">人形遣</span><span type="rp">（</span><span type="rt">にんぎよつかひ</span><span type="rp">）</span></span>がきたさうな。<lb />
+<lb />
+母のかげよりそとみれば<lb />
+人形遣のうら若く<lb />
+「ま、どうしよぞいの」と<span type="ruby"><span type="rb">泣</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>きいれば<lb />
+<span type="ruby"><span type="rb">襟足</span><span type="rp">（</span><span type="rt">えりあし</span><span type="rp">）</span></span>しろくいぢらしく<lb />
+人形の<span type="ruby"><span type="rb">小春</span><span type="rp">（</span><span type="rt">こはる</span><span type="rp">）</span></span>もむせびいる。<lb />
+<lb />
+もののあはれかふるあめか<lb />
+もらひなみだの母の<span type="ruby"><span type="rb">袖</span><span type="rp">（</span><span type="rt">そで</span><span type="rp">）</span></span>。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　雪<lb />
+<lb />
+赤いわたしの<span type="ruby"><span type="rb">襟巻</span><span type="rp">（</span><span type="rt">えりまき</span><span type="rp">）</span></span>に<lb />
+ふわりとおちてふときえる<lb />
+つもらぬほどの春の雪。<lb />
+　　これが<span type="ruby"><span type="rb">砂糖</span><span type="rp">（</span><span type="rt">さたう</span><span type="rp">）</span></span>であつたなら<lb />
+　　<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">うば</span><span type="rp">）</span></span>もでてきてたべよもの。<lb />
+ロシア<span type="ruby"><span type="rb">更紗</span><span type="rp">（</span><span type="rt">ざらさ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">毛布団</span><span type="rp">（</span><span type="rt">けぶとん</span><span type="rp">）</span></span>を<lb />
+そつとぬけでてつむ雪を<lb />
+<span type="ruby"><span type="rb">銀</span><span type="rp">（</span><span type="rt">ぎん</span><span type="rp">）</span></span>のかざしでさしてみる<lb />
+お<span type="ruby"><span type="rb">染</span><span type="rp">（</span><span type="rt">そめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">髪</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">牡丹雪</span><span type="rp">（</span><span type="rt">ぼたんゆき</span><span type="rp">）</span></span>。<lb />
+<lb />
+七<span type="ruby"><span type="rb">番蔵</span><span type="rp">（</span><span type="rt">ばんぐら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">戸</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>のまへで<lb />
+<span type="ruby"><span type="rb">手招</span><span type="rp">（</span><span type="rt">てまね</span><span type="rp">）</span></span>きをするとうじさん<lb />
+顔ににげない白い手で<lb />
+ひねり<span type="ruby"><span type="rb">餅</span><span type="rp">（</span><span type="rt">もち</span><span type="rp">）</span></span>をばくれました。<lb />
+<lb />
+<span type="ruby"><span type="rb">納戸</span><span type="rp">（</span><span type="rt">なんど</span><span type="rp">）</span></span>のおくはほのくらく<lb />
+<span type="ruby"><span type="rb">紀州蜜柑</span><span type="rp">（</span><span type="rt">きしうみかん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>もあはく<lb />
+指にそまりし<span type="ruby"><span type="rb">黄表紙</span><span type="rp">（</span><span type="rt">きべうし</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">炬燵</span><span type="rp">（</span><span type="rt">こたつ</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">絵本</span><span type="rp">（</span><span type="rt">ゑほん</span><span type="rp">）</span></span>をよみました。<lb />
+<lb />
+<span type="ruby"><span type="rb">窓</span><span type="rp">（</span><span type="rt">まど</span><span type="rp">）</span></span>からみれば<span type="ruby"><span type="rb">下町</span><span type="rp">（</span><span type="rt">したまち</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">床屋</span><span type="rp">（</span><span type="rt">とこや</span><span type="rp">）</span></span>のガラス<span type="ruby"><span type="rb">戸</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">大阪下</span><span type="rp">（</span><span type="rt">おほさかくだ</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">雁二郎</span><span type="rp">（</span><span type="rt">がんじろ</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">春狂言</span><span type="rp">（</span><span type="rt">はるきやうげん</span><span type="rp">）</span></span>のびらの絵が<lb />
+雪にふられておりました。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　かくれんぼ<lb />
+<lb />
+<span type="ruby"><span type="rb">豆</span><span type="rp">（</span><span type="rt">まめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">畑</span><span type="rp">（</span><span type="rt">はたけ</span><span type="rp">）</span></span>にみいさんと<lb />
+ふたりかくれてまつてゐた。<lb />
+<lb />
+とほくで<span type="ruby"><span type="rb">鬼</span><span type="rp">（</span><span type="rt">おに</span><span type="rp">）</span></span>のよぶ声が<lb />
+<span type="ruby"><span type="rb">風</span><span type="rp">（</span><span type="rt">かぜ</span><span type="rp">）</span></span>のまにまにするけれど<lb />
+ちらちらとぶは<span type="ruby"><span type="rb">鳥</span><span type="rp">（</span><span type="rt">とり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">影</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>。<lb />
+<lb />
+まてどくらせど鬼はこず。<lb />
+<span type="ruby"><span type="rb">森</span><span type="rp">（</span><span type="rt">もり</span><span type="rp">）</span></span>のうへから月がでた。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　郵便函<lb />
+<lb />
+<span type="ruby"><span type="rb">郵便函</span><span type="rp">（</span><span type="rt">ゆうびんばこ</span><span type="rp">）</span></span>がどうしたら<lb />
+そんなにはやくあるくだろ。<lb />
+わたしの<span type="ruby"><span type="rb">神戸</span><span type="rp">（</span><span type="rt">かうべ</span><span type="rp">）</span></span>のおばさまへ<lb />
+わたしのすきなキヤラメルを<lb />
+おくるやうにとしたためて。<lb />
+郵便函へあづけたが<lb />
+三つほどねたそのあした<lb />
+わたしのすきなキヤラメルは<lb />
+ちやんとわたしについてゐた。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　山賊<lb />
+<lb />
+<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">うば</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">在所</span><span type="rp">（</span><span type="rt">ざいしよ</span><span type="rp">）</span></span>は草わけの<lb />
+山また山の奥でした。<lb />
+ある日のことに<span type="ruby"><span type="rb">※</span><span type="rp">（</span><span type="rt">あね</span><span type="rp">）</span></span><span rend="notes">［＃「姉」の正字、「女＋<span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(第3水準1-85-57)" />のつくり」、80-6］</span>として<lb />
+<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">うば</span><span type="rp">）</span></span>をたづねにゆきました。<lb />
+わたしは<span type="ruby"><span type="rb">土産</span><span type="rp">（</span><span type="rt">みやげ</span><span type="rp">）</span></span>を腰につけ<lb />
+<span type="ruby"><span type="rb">※</span><span type="rp">（</span><span type="rt">あね</span><span type="rp">）</span></span><span rend="notes">［＃「姉」の正字、「女＋<span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(第3水準1-85-57)" />のつくり」、80-9］</span>は<span type="ruby"><span type="rb">日傘</span><span type="rp">（</span><span type="rt">ひがさ</span><span type="rp">）</span></span>をさしかけて<lb />
+<span type="ruby"><span type="rb">赤土色</span><span type="rp">（</span><span type="rt">あかつちいろ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">山路</span><span type="rp">（</span><span type="rt">やまみち</span><span type="rp">）</span></span>を<lb />
+とぼとぼあゆむ<span type="ruby"><span type="rb">午下</span><span type="rp">（</span><span type="rt">ひるさが</span><span type="rp">）</span></span>り。<lb />
+あゆみつかれて<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>ばたの<lb />
+一本松に腰かけて<lb />
+<span type="ruby"><span type="rb">虎屋饅頭</span><span type="rp">（</span><span type="rt">とらやまんじゆう</span><span type="rp">）</span></span>をたべながら<lb />
+やすむでゐると<span type="ruby"><span type="rb">木蔭</span><span type="rp">（</span><span type="rt">こかげ</span><span type="rp">）</span></span>より<lb />
+<span type="ruby"><span type="rb">髯武者面</span><span type="rp">（</span><span type="rt">ひげむしやづら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">山賊</span><span type="rp">（</span><span type="rt">さんぞく</span><span type="rp">）</span></span>が<lb />
+ぬつくとばかりあらはれた。<lb />
+すわことなりとおもへども<lb />
+どうすることもなきごえに<lb />
+「おつつけ<span type="ruby"><span type="rb">伴者</span><span type="rp">（</span><span type="rt">つれ</span><span type="rp">）</span></span>のくる<span type="ruby"><span type="rb">時刻</span><span type="rp">（</span><span type="rt">じぶん</span><span type="rp">）</span></span>」<lb />
+きこえよがしに<span type="ruby"><span type="rb">※</span><span type="rp">（</span><span type="rt">あね</span><span type="rp">）</span></span><span rend="notes">［＃「姉」の正字、「女＋<span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(第3水準1-85-57)" />のつくり」、82-1］</span>のいふ<lb />
+「どうして<span type="ruby"><span type="rb">伴者</span><span type="rp">（</span><span type="rt">つれ</span><span type="rp">）</span></span>はくることか」<lb />
+わたしは<span type="ruby"><span type="rb">※</span><span type="rp">（</span><span type="rt">あね</span><span type="rp">）</span></span><span rend="notes">［＃「姉」の正字、「女＋<span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(第3水準1-85-57)" />のつくり」、82-3］</span>にききました。<lb />
+さうするうちに<span type="ruby"><span type="rb">山賊</span><span type="rp">（</span><span type="rt">さんぞく</span><span type="rp">）</span></span>は<lb />
+<span type="ruby"><span type="rb">腰</span><span type="rp">（</span><span type="rt">こし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">太刀</span><span type="rp">（</span><span type="rt">だんびら</span><span type="rp">）</span></span>おつとりて<lb />
+のそりのそりとやつてきた。<lb />
+もう殺すかとおもふたら<lb />
+殺しもせいでたちとまり<lb />
+「どこへおじやる」ときくゆゑに<lb />
+つつみかくさずいひますと<lb />
+「よいお<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>たち」とほめながら<lb />
+<span type="ruby"><span type="rb">峠</span><span type="rp">（</span><span type="rt">たうげ</span><span type="rp">）</span></span>をおりてゆきました。<lb />
+<lb />
+<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">ばあや</span><span type="rp">）</span></span>はきいて大笑ひ<lb />
+「なんの<span type="ruby"><span type="rb">賊</span><span type="rp">（</span><span type="rt">ぞく</span><span type="rp">）</span></span>などでませうぞ」<lb />
+それは<span type="ruby"><span type="rb">木樵</span><span type="rp">（</span><span type="rt">きこり</span><span type="rp">）</span></span>でありました。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　おさなき夢<lb />
+<lb />
+夢のひとつは　かくなりき。<lb />
+<lb />
+青き<span type="ruby"><span type="rb">頭巾</span><span type="rp">（</span><span type="rt">づきん</span><span type="rp">）</span></span>をかぶりたる<lb />
+<span type="ruby"><span type="rb">人買</span><span type="rp">（</span><span type="rt">ひとかひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>にないじやくり<lb />
+山の<span type="ruby"><span type="rb">岬</span><span type="rp">（</span><span type="rt">みさき</span><span type="rp">）</span></span>をまはるとき<lb />
+<span type="ruby"><span type="rb">広重</span><span type="rp">（</span><span type="rt">ひろしげ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">海</span><span type="rp">（</span><span type="rt">うみ</span><span type="rp">）</span></span>ちらとみき。<lb />
+旅の<span type="ruby"><span type="rb">道者</span><span type="rp">（</span><span type="rt">だうじや</span><span type="rp">）</span></span>がせおいたる<lb />
+<span type="ruby"><span type="rb">天狗</span><span type="rp">（</span><span type="rt">てんぐ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">めん</span><span type="rp">）</span></span>のおそろしさ<lb />
+にげてもにげてもおふてきぬ。<lb />
+<span type="ruby"><span type="rb">伊勢</span><span type="rp">（</span><span type="rt">いせ</span><span type="rp">）</span></span>の国までおちのびて<lb />
+<span type="ruby"><span type="rb">二見</span><span type="rp">（</span><span type="rt">ふたみ</span><span type="rp">）</span></span>ヶ<span type="ruby"><span type="rb">浦</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>にかくれしが<lb />
+ここにもこわや<span type="ruby"><span type="rb">切髪</span><span type="rp">（</span><span type="rt">きりかみ</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">淡島様</span><span type="rp">（</span><span type="rt">あはしまさま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">千羽鶴</span><span type="rp">（</span><span type="rt">せんばづる</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">一羽</span><span type="rp">（</span><span type="rt">いちは</span><span type="rp">）</span></span>がとべばまた<span type="ruby"><span type="rb">一羽</span><span type="rp">（</span><span type="rt">いちは</span><span type="rp">）</span></span><lb />
+岩のうへより<span type="ruby"><span type="rb">鳥居</span><span type="rp">（</span><span type="rt">とりゐ</span><span type="rp">）</span></span>より<lb />
+空一面のうろこ雲。<lb />
+顔もえあげずなきゐたり。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　草餅<lb />
+<lb />
+ある日学校へゆく<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">黄</span><span type="rp">（</span><span type="rt">きい</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">袋</span><span type="rp">（</span><span type="rt">ふくろ</span><span type="rp">）</span></span>がおちてゐた<lb />
+ひろうてみればこはいかに<lb />
+それは<span type="ruby"><span type="rb">財布</span><span type="rp">（</span><span type="rt">さいふ</span><span type="rp">）</span></span>でありました。<lb />
+「さあ大変ぢや大変ぢや<lb />
+<span type="ruby"><span type="rb">銭</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>をひろへば<span type="ruby"><span type="rb">尋人</span><span type="rp">（</span><span type="rt">たづねびと</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">有司</span><span type="rp">（</span><span type="rt">おかみ</span><span type="rp">）</span></span>へよばれようおお<span type="ruby"><span type="rb">怖</span><span type="rp">（</span><span type="rt">こは</span><span type="rp">）</span></span>や」<lb />
+みながはやせばとつおいて<lb />
+<span type="ruby"><span type="rb">財布</span><span type="rp">（</span><span type="rt">さいふ</span><span type="rp">）</span></span>を指でさげたまゝ<lb />
+こりやまあどうしたものだらう。<lb />
+そこへおりよく先生が<lb />
+おいでなされて「やれやれ」と<lb />
+財布をとつてくれました。<lb />
+<lb />
+それから<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へかへつたが<lb />
+どうも財布が気にかかり<lb />
+母の<span type="ruby"><span type="rb">情</span><span type="rp">（</span><span type="rt">なさけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">草餅</span><span type="rp">（</span><span type="rt">くさもち</span><span type="rp">）</span></span>も<lb />
+どうまあ<span type="ruby"><span type="rb">咽喉</span><span type="rp">（</span><span type="rt">のど</span><span type="rp">）</span></span>をこすものぞ<lb />
+食べずに泣いておりました。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　嘘<lb />
+<lb />
+なげた石<lb />
+<span type="ruby"><span type="rb">鳥居</span><span type="rp">（</span><span type="rt">とりゐ</span><span type="rp">）</span></span>のうへにのつかれば<lb />
+どんな<span type="ruby"><span type="rb">願</span><span type="rp">（</span><span type="rt">ねがひ</span><span type="rp">）</span></span>もかなへんと<lb />
+<span type="ruby"><span type="rb">氏神様</span><span type="rp">（</span><span type="rt">うぢがみさま</span><span type="rp">）</span></span>はのたまひぬ。<lb />
+<lb />
+鳥居のしたにあつまりし<lb />
+<span type="ruby"><span type="rb">太郎</span><span type="rp">（</span><span type="rt">たらう</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">次郎</span><span type="rp">（</span><span type="rt">じらう</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">草之助</span><span type="rp">（</span><span type="rt">さうのすけ</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">なに</span><span type="rp">）</span></span>がほしいときいたらば<lb />
+太郎がいふには<span type="ruby"><span type="rb">犬張子</span><span type="rp">（</span><span type="rt">いぬはりこ</span><span type="rp">）</span></span><lb />
+次郎がいふにはぶんまはし<lb />
+<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>きた馬をば草之助。<lb />
+<span type="ruby"><span type="rb">願</span><span type="rp">（</span><span type="rt">ねがひ</span><span type="rp">）</span></span>をこめてなげた石<lb />
+<span type="ruby"><span type="rb">首尾</span><span type="rp">（</span><span type="rt">しゆび</span><span type="rp">）</span></span>よく鳥居へのつかつた。<lb />
+<lb />
+石は鳥居へのつたれど<lb />
+いまだに<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">なに</span><span type="rp">）</span></span>もくださらぬ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　どんたく<lb />
+<lb />
+どんたくぢやどんたくぢや<lb />
+けふは朝からどんたくぢや。<lb />
+<lb />
+<span type="ruby"><span type="rb">街</span><span type="rp">（</span><span type="rt">まち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>では早起きの<lb />
+<span type="ruby"><span type="rb">飴屋</span><span type="rp">（</span><span type="rt">あめや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">太鼓</span><span type="rp">（</span><span type="rt">たいこ</span><span type="rp">）</span></span>がなつてゐる<lb />
+「あアこりやこりやきたわいな」<lb />
+これは<span type="ruby"><span type="rb">九州</span><span type="rp">（</span><span type="rt">きうしう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">長崎</span><span type="rp">（</span><span type="rt">ながさき</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">丸山名物</span><span type="rp">（</span><span type="rt">まるやまめいぶつ</span><span type="rp">）</span></span>ぢやがら<span type="ruby"><span type="rb">糖</span><span type="rp">（</span><span type="rt">たう</span><span type="rp">）</span></span><lb />
+お<span type="ruby"><span type="rb">子様</span><span type="rp">（</span><span type="rt">こさま</span><span type="rp">）</span></span>がたのお<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>ざまし<lb />
+<span type="ruby"><span type="rb">甘</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>くて<span type="ruby"><span type="rb">辛</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>くて<span type="ruby"><span type="rb">酸</span><span type="rp">（</span><span type="rt">すつぱ</span><span type="rp">）</span></span>くて<lb />
+きんぎよくれんのかくれんぼ<lb />
+おつぺけぽうのきんらいらい」<lb />
+<lb />
+<span type="ruby"><span type="rb">観音堂</span><span type="rp">（</span><span type="rt">くわんのんだう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">境内</span><span type="rp">（</span><span type="rt">けいだい</span><span type="rp">）</span></span>は<lb />
+のぞきからくり<span type="ruby"><span type="rb">犬芝居</span><span type="rp">（</span><span type="rt">いぬしばゐ</span><span type="rp">）</span></span><lb />
+「ものはためしぢやみてござれ<lb />
+北海道で<span type="ruby"><span type="rb">生捕</span><span type="rp">（</span><span type="rt">いけど</span><span type="rp">）</span></span>つた<lb />
+<span type="ruby"><span type="rb">一本</span><span type="rp">（</span><span type="rt">いつぽん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">毛</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>のないももんがあ<lb />
+<span type="ruby"><span type="rb">絵看板</span><span type="rp">（</span><span type="rt">ゑかんばん</span><span type="rp">）</span></span>にはうそはない<lb />
+生きてゐなけりや<span type="ruby"><span type="rb">銭</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>やいらぬ」<lb />
+<lb />
+「<span type="ruby"><span type="rb">可哀</span><span type="rp">（</span><span type="rt">かあい</span><span type="rp">）</span></span>さうなはこの子でござい<lb />
+因果はめぐる<span type="ruby"><span type="rb">水車</span><span type="rp">（</span><span type="rt">みづぐるま</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">一寸法師</span><span type="rp">（</span><span type="rt">いつすんほふし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">綱</span><span type="rp">（</span><span type="rt">つな</span><span type="rp">）</span></span>わたり<lb />
+あれ<span type="ruby"><span type="rb">千番</span><span type="rp">（</span><span type="rt">せんばん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">一番</span><span type="rp">（</span><span type="rt">いちばん</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">鐘</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>がなろともお泣きやるな」<lb />
+<lb />
+「やあれやれやれやれきたわいな<lb />
+のぞきや<span type="ruby"><span type="rb">八文</span><span type="rp">（</span><span type="rt">はちもん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">天保銭</span><span type="rp">（</span><span type="rt">てんぽせん</span><span type="rp">）</span></span><lb />
+花のお江戸は<span type="ruby"><span type="rb">八百八町</span><span type="rp">（</span><span type="rt">はつぴやくやちやう</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">おと</span><span type="rp">）</span></span>にきこえた<span type="ruby"><span type="rb">八百屋</span><span type="rp">（</span><span type="rt">やほや</span><span type="rp">）</span></span>の娘<lb />
+<span type="ruby"><span type="rb">年</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">十五</span><span type="rp">（</span><span type="rt">じふご</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">丙午</span><span type="rp">（</span><span type="rt">ひのえうま</span><span type="rp">）</span></span><lb />
+そなたは<span type="ruby"><span type="rb">十四</span><span type="rp">（</span><span type="rt">じふし</span><span type="rp">）</span></span>であらうがの<lb />
+いえいえ<span type="ruby"><span type="rb">十五</span><span type="rp">（</span><span type="rt">じふご</span><span type="rp">）</span></span>でござんする。<lb />
+<span type="ruby"><span type="rb">八百屋</span><span type="rp">（</span><span type="rt">やほや</span><span type="rp">）</span></span>お<span type="ruby"><span type="rb">七</span><span type="rp">（</span><span type="rt">しち</span><span type="rp">）</span></span>がおしおきの<lb />
+お<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>がとまれば<span type="ruby"><span type="rb">千客様</span><span type="rp">（</span><span type="rt">せんきやくさま</span><span type="rp">）</span></span>」<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　郵便脚夫<lb />
+<lb />
+「<span type="ruby"><span type="rb">郵便</span><span type="rp">（</span><span type="rt">いうびん</span><span type="rp">）</span></span>ほい<lb />
+おかみの御用でゑっさっさ」<lb />
+郵便<span type="ruby"><span type="rb">脚夫</span><span type="rp">（</span><span type="rt">きやくふ</span><span type="rp">）</span></span>のうしろから<lb />
+学校がへりの子供らは<lb />
+ゑっさもっさとついてゆく。<lb />
+「郵便ほい<lb />
+おかみの御用でもっさっさ」<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　江戸見物<lb />
+<lb />
+「<span type="ruby"><span type="rb">江戸</span><span type="rp">（</span><span type="rt">えど</span><span type="rp">）</span></span>をみせよう」<span type="ruby"><span type="rb">源六</span><span type="rp">（</span><span type="rt">げんろく</span><span type="rp">）</span></span>は<lb />
+耳をつまんでつりあげた。<lb />
+いたさこらへて<span type="ruby"><span type="rb">東</span><span type="rp">（</span><span type="rt">ひがし</span><span type="rp">）</span></span>をみれど<lb />
+どれが江戸やら山ばかり。<lb />
+「なんとみえたであらうがな」<lb />
+「みえはみえたが<span type="ruby"><span type="rb">浅草</span><span type="rp">（</span><span type="rt">あさくさ</span><span type="rp">）</span></span>も<lb />
+<span type="ruby"><span type="rb">上野</span><span type="rp">（</span><span type="rt">うへの</span><span type="rp">）</span></span>もやつぱり山だらけ」<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　七つの桃<lb />
+<lb />
+<span type="ruby"><span type="rb">七人</span><span type="rp">（</span><span type="rt">しちにん</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">遊仲間</span><span type="rp">（</span><span type="rt">あそびなかま</span><span type="rp">）</span></span>のそのひとり<lb />
+水におぼれてながれけむ。<lb />
+お<span type="ruby"><span type="rb">芥子</span><span type="rp">（</span><span type="rt">けし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">水</span><span type="rp">（</span><span type="rt">みづ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>に<lb />
+うきつしづみつみえかくれ。<lb />
+「よくも<span type="ruby"><span type="rb">死人</span><span type="rp">（</span><span type="rt">しにん</span><span type="rp">）</span></span>をまねたり」と<lb />
+<span type="ruby"><span type="rb">白痴</span><span type="rp">（</span><span type="rt">ばか</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">忠太</span><span type="rp">（</span><span type="rt">ちゆうた</span><span type="rp">）</span></span>は手をたたく。<lb />
+<span type="ruby"><span type="rb">水</span><span type="rp">（</span><span type="rt">みづ</span><span type="rp">）</span></span>にもぐりて<span type="ruby"><span type="rb">菱</span><span type="rp">（</span><span type="rt">ひし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>を<lb />
+とりにゆけるとおもひしが。<lb />
+<span type="ruby"><span type="rb">人</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">いへ</span><span type="rp">）</span></span>より<span type="ruby"><span type="rb">畑</span><span type="rp">（</span><span type="rt">はたけ</span><span type="rp">）</span></span>より<lb />
+ただごとならぬけはひにて<lb />
+はしりて<span type="ruby"><span type="rb">河</span><span type="rp">（</span><span type="rt">かは</span><span type="rp">）</span></span>にあつまりぬ。<lb />
+人のひとりは水にいり<lb />
+人のひとりは<span type="ruby"><span type="rb">小舟</span><span type="rp">（</span><span type="rt">こぶね</span><span type="rp">）</span></span>より<lb />
+<span type="ruby"><span type="rb">死骸</span><span type="rp">（</span><span type="rt">しがひ</span><span type="rp">）</span></span>を岸にだきあげぬ。<lb />
+「<span type="ruby"><span type="rb">死</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んだ死んだ」と<span type="ruby"><span type="rb">踊</span><span type="rp">（</span><span type="rt">をど</span><span type="rp">）</span></span>りつつ<lb />
+忠太は村をふれあるく。<lb />
+白い<span type="ruby"><span type="rb">衣</span><span type="rp">（</span><span type="rt">きぬ</span><span type="rp">）</span></span>きた<span type="ruby"><span type="rb">葬輦</span><span type="rp">（</span><span type="rt">さうれん</span><span type="rp">）</span></span>が<lb />
+暑い<span type="ruby"><span type="rb">日中</span><span type="rp">（</span><span type="rt">ひなか</span><span type="rp">）</span></span>をしくしくと<lb />
+<span type="ruby"><span type="rb">鳥辺</span><span type="rp">（</span><span type="rt">とりべ</span><span type="rp">）</span></span>の山へいりしかど<lb />
+そは<span type="ruby"><span type="rb">何事</span><span type="rp">（</span><span type="rt">なにごと</span><span type="rp">）</span></span>かしらざりき。<lb />
+ひとりは<span type="ruby"><span type="rb">墓</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>へゆきければ<lb />
+<span type="ruby"><span type="rb">七</span><span type="rp">（</span><span type="rt">なゝ</span><span type="rp">）</span></span>つの<span type="ruby"><span type="rb">指</span><span type="rp">（</span><span type="rt">ゆび</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">六</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>つおりて<lb />
+<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>つのこしてみたれども<lb />
+死んでなくなることかいな<lb />
+いつか墓よりかへりきて<lb />
+七つの<span type="ruby"><span type="rb">桃</span><span type="rp">（</span><span type="rt">もゝ</span><span type="rp">）</span></span>をわけようもの。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　猿と蟹<lb />
+<lb />
+わたしが<span type="ruby"><span type="rb">猿</span><span type="rp">（</span><span type="rt">さる</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">妹</span><span type="rp">（</span><span type="rt">いもうと</span><span type="rp">）</span></span>が<lb />
+あはれな<span type="ruby"><span type="rb">蟹</span><span type="rp">（</span><span type="rt">かに</span><span type="rp">）</span></span>でありました。<lb />
+<lb />
+猿はひとりで<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(「柿」の正字、第3水準1-85-57、104-7)" /></span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span>の実を<lb />
+木に<span type="ruby"><span type="rb">腰</span><span type="rp">（</span><span type="rt">こし</span><span type="rp">）</span></span>かけてたべました。<lb />
+「<span type="ruby"><span type="rb">兄</span><span type="rp">（</span><span type="rt">にい</span><span type="rp">）</span></span>さんひとつ<span type="ruby"><span type="rb">頂戴</span><span type="rp">（</span><span type="rt">ちやうだい</span><span type="rp">）</span></span>よ」<lb />
+あはれな蟹がいひました。<lb />
+「これでもやろ」と<span type="ruby"><span type="rb">渋<span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(「柿」の正字、第3水準1-85-57)" /></span><span type="rp">（</span><span type="rt">しぶがき</span><span type="rp">）</span></span>を<lb />
+なげてはみたがかあいそで<lb />
+<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>いのもたんとやりました。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　加藤清正<lb />
+<lb />
+紙の<span type="ruby"><span type="rb">鎧</span><span type="rp">（</span><span type="rt">よろひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">清正</span><span type="rp">（</span><span type="rt">きよまさ</span><span type="rp">）</span></span>は<lb />
+<span type="ruby"><span type="rb">虎</span><span type="rp">（</span><span type="rt">とら</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">退治</span><span type="rp">（</span><span type="rt">たいぢ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">竹</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">槍</span><span type="rp">（</span><span type="rt">やり</span><span type="rp">）</span></span>。<lb />
+<span type="ruby"><span type="rb">屋根</span><span type="rp">（</span><span type="rt">やね</span><span type="rp">）</span></span>のうへにて<span type="ruby"><span type="rb">眠</span><span type="rp">（</span><span type="rt">ねむ</span><span type="rp">）</span></span>りゐし<lb />
+<span type="ruby"><span type="rb">猫</span><span type="rp">（</span><span type="rt">ねこ</span><span type="rp">）</span></span>をめがけてつきければ<lb />
+虎は屋根よりころげおち<lb />
+<span type="ruby"><span type="rb">縁</span><span type="rp">（</span><span type="rt">えん</span><span type="rp">）</span></span>のしたへとかくれけり。<lb />
+<lb />
+さすがに<span type="ruby"><span type="rb">猛</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>き清正も<lb />
+虎のゆくえの気にかかり<lb />
+<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>なこわき<span type="ruby"><span type="rb">夢</span><span type="rp">（</span><span type="rt">ゆめ</span><span type="rp">）</span></span>をみき。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　禁制の果実<lb />
+<lb />
+<span type="ruby"><span type="rb">白壁</span><span type="rp">（</span><span type="rt">しらかべ</span><span type="rp">）</span></span>へ<lb />
+<span type="ruby"><span type="rb">戯絵</span><span type="rp">（</span><span type="rt">ざれゑ</span><span type="rp">）</span></span>をかきし<span type="ruby"><span type="rb">科</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>として<lb />
+くらき<span type="ruby"><span type="rb">土蔵</span><span type="rp">（</span><span type="rt">どざう</span><span type="rp">）</span></span>へいれられぬ。<lb />
+よべどさけべど<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">たれ</span><span type="rp">）</span></span>ひとり<lb />
+<span type="ruby"><span type="rb">小鳥</span><span type="rp">（</span><span type="rt">ことり</span><span type="rp">）</span></span>をすくふものもなし。<lb />
+泣きくたぶれて<span type="ruby"><span type="rb">長持</span><span type="rp">（</span><span type="rt">ながもち</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">蓋</span><span type="rp">（</span><span type="rt">ふた</span><span type="rp">）</span></span>をひらけばみもそめぬ<lb />
+「<span type="ruby"><span type="rb">未知</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>の世界」の夢の<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>に<lb />
+ちいさき<span type="ruby"><span type="rb">霊</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">身</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>にそはず。<lb />
+<lb />
+窓より夏の日がさせば<lb />
+<span type="ruby"><span type="rb">国貞</span><span type="rp">（</span><span type="rt">くにさだ</span><span type="rp">）</span></span>ゑがく<span type="ruby"><span type="rb">絵草紙</span><span type="rp">（</span><span type="rt">ゑざうし</span><span type="rp">）</span></span>の<lb />
+「<span type="ruby"><span type="rb">偐紫</span><span type="rp">（</span><span type="rt">にせむらさき</span><span type="rp">）</span></span>」の<span type="ruby"><span type="rb">桐</span><span type="rp">（</span><span type="rt">きり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">花</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">光</span><span type="rp">（</span><span type="rt">ひかる</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">君</span><span type="rp">（</span><span type="rt">きみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">袖</span><span type="rp">（</span><span type="rt">そで</span><span type="rp">）</span></span>にちる。<lb />
+<lb />
+<span type="ruby"><span type="rb">摩耶</span><span type="rp">（</span><span type="rt">まや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">谷間</span><span type="rp">（</span><span type="rt">たにま</span><span type="rp">）</span></span>にほろほろと<lb />
+<span type="ruby"><span type="rb">頻迦</span><span type="rp">（</span><span type="rt">びんが</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鳥</span><span type="rp">（</span><span type="rt">とり</span><span type="rp">）</span></span>の声きけば<lb />
+<span type="ruby"><span type="rb">悉多太子</span><span type="rp">（</span><span type="rt">しつたたいし</span><span type="rp">）</span></span>も泣きたまふ。<lb />
+<lb />
+<span type="ruby"><span type="rb">魔性</span><span type="rp">（</span><span type="rt">ましやう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">糸</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>にまかれ<lb />
+<span type="ruby"><span type="rb">白縫姫</span><span type="rp">（</span><span type="rt">しらぬひひめ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">添臥</span><span type="rp">（</span><span type="rt">そひぶ</span><span type="rp">）</span></span>しの<lb />
+風は<span type="ruby"><span type="rb">白帆</span><span type="rp">（</span><span type="rt">しらほ</span><span type="rp">）</span></span>の夢をのせ<lb />
+いつかうとうとねたさうな。<lb />
+<lb />
+<span type="ruby"><span type="rb">蔵</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>の二階の<span type="ruby"><span type="rb">金網</span><span type="rp">（</span><span type="rt">かなあみ</span><span type="rp">）</span></span>に<lb />
+赤い夕日がかっとてり<lb />
+さむれば母の<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>まくら。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+日本のむすめ<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　宵待草<lb />
+<lb />
+まてどくらせどこぬひとを<lb />
+<span type="ruby"><span type="rb">宵待草</span><span type="rp">（</span><span type="rt">よひまちぐさ</span><span type="rp">）</span></span>のやるせなさ<lb />
+<lb />
+こよひは月もでぬさうな。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　わすれな草<lb />
+<lb />
+<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>の風を身にしめて<lb />
+ゆふべゆふべのものおもひ。<lb />
+<span type="ruby"><span type="rb">野</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>ずえはるかにみわたせば<lb />
+わかれてきぬる窓の<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の<lb />
+なみだぐましき<span type="ruby"><span type="rb">光</span><span type="rp">（</span><span type="rt">ひかり</span><span type="rp">）</span></span>かな。<lb />
+<lb />
+<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>をだいて木によれば<lb />
+やぶれておつる<span type="ruby"><span type="rb">文</span><span type="rp">（</span><span type="rt">ふみ</span><span type="rp">）</span></span>がらの<lb />
+またつくろはむすべもがな。<lb />
+<lb />
+わすれな<span type="ruby"><span type="rb">草</span><span type="rp">（</span><span type="rt">ぐさ</span><span type="rp">）</span></span>よ<lb />
+なれが<span type="ruby"><span type="rb">名</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>を<lb />
+なづけしひとも泣きたまひしや。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　夏のたそがれ<lb />
+<lb />
+タンホオルの<span type="ruby"><span type="rb">鐘</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>が<lb />
+さはやかになりいづれば<lb />
+トラピストの<span type="ruby"><span type="rb">尼</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>は<lb />
+こころしづかに<span type="ruby"><span type="rb">夕</span><span type="rp">（</span><span type="rt">ゆふべ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">祈祷</span><span type="rp">（</span><span type="rt">いのり</span><span type="rp">）</span></span>をささげ<lb />
+すぎし<span type="ruby"><span type="rb">春</span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>をとむらふ。<lb />
+<lb />
+<span type="ruby"><span type="rb">柳屋</span><span type="rp">（</span><span type="rt">やなぎや</span><span type="rp">）</span></span>のムスメは<lb />
+はでな<span type="ruby"><span type="rb">浴衣</span><span type="rp">（</span><span type="rt">ゆかた</span><span type="rp">）</span></span>をきて<lb />
+いそいそと<span type="ruby"><span type="rb">鈴虫</span><span type="rp">（</span><span type="rt">すゞむし</span><span type="rp">）</span></span>をかひにゆく<lb />
+<lb />
+――夏のたそがれ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　うしなひしもの<lb />
+<lb />
+夏の<span type="ruby"><span type="rb">祭</span><span type="rp">（</span><span type="rt">まつり</span><span type="rp">）</span></span>のゆふべより<lb />
+うしなひしものもとめるとて<lb />
+<span type="ruby"><span type="rb">紅提燈</span><span type="rp">（</span><span type="rt">べにちやうちん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>をつけて<lb />
+きみはなくなくさまよひぬ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　芝居事<lb />
+<lb />
+雪のふる夜のつれづれに<lb />
+<span type="ruby"><span type="rb">※</span><span type="rp">（</span><span type="rt">あね</span><span type="rp">）</span></span><span rend="notes">［＃「姉」の正字、「女＋<span change="gaiji" facs="../../../gaiji/1-85/1-85-57.png" rend="gaiji" rendition="img" source="※(第3水準1-85-57)" />のつくり」、123-5］</span>の<span type="ruby"><span type="rb">小袖</span><span type="rp">（</span><span type="rt">こそで</span><span type="rp">）</span></span>をそとかつぎ<lb />
+‥‥‥でんちうぢやはりひじぢや<lb />
+しまさんこんさんなかのりさん‥‥<lb />
+おどりくたびれ<span type="ruby"><span type="rb">袖萩</span><span type="rp">（</span><span type="rt">そではぎ</span><span type="rp">）</span></span>の<lb />
+肩に小袖をうちかけて<lb />
+なみだながらの<span type="ruby"><span type="rb">芝居事</span><span type="rp">（</span><span type="rt">しばゐごと</span><span type="rp">）</span></span><lb />
+「さむかろうとてきせまする」<lb />
+このまあつもる雪わいの。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　花束<lb />
+<lb />
+ありのすさびに<lb />
+花をつみてつがねたれど<lb />
+おくらむひともなければ<lb />
+こころいとしづかなり。<lb />
+されどなほすてもかねつつ<lb />
+ゆふべの<span type="ruby"><span type="rb">鐘</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>をかぞへぬ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　たそがれ<lb />
+<lb />
+たそがれなりき。かなしさを<lb />
+そでにおさへてたちよれば<lb />
+カリンの花のほろほろと<lb />
+<span type="ruby"><span type="rb">髪</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>にこぼれてにほひけり。<lb />
+<lb />
+たそがれなりき。<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>をきく<lb />
+まだうら若き<span type="ruby"><span type="rb">旅人</span><span type="rp">（</span><span type="rt">たびびと</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">黒子</span><span type="rp">（</span><span type="rt">ほくろ</span><span type="rp">）</span></span>のなつかしく<lb />
+<span type="ruby"><span type="rb">後姿</span><span type="rp">（</span><span type="rt">うしろすがた</span><span type="rp">）</span></span>のなかれけり。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　かへらぬひと<lb />
+<lb />
+花をたづねてゆきしまま<lb />
+かへらぬひとのこひしさに<lb />
+<span type="ruby"><span type="rb">岡</span><span type="rp">（</span><span type="rt">をか</span><span type="rp">）</span></span>にのぼりて<span type="ruby"><span type="rb">名</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>をよべど<lb />
+<span type="ruby"><span type="rb">幾山河</span><span type="rp">（</span><span type="rt">いくやまかは</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">白雲</span><span type="rp">（</span><span type="rt">しらくも</span><span type="rp">）</span></span>の<lb />
+かなしや<span type="ruby"><span type="rb">山彦</span><span type="rp">（</span><span type="rt">こだま</span><span type="rp">）</span></span>かへりきぬ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　よきもの<lb />
+<lb />
+「よきものをあたへむ」ときみのいふゆゑ<lb />
+ゆびきりかまきりいつはりならじと<lb />
+きみのいふゆゑ<lb />
+<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">もん</span><span type="rp">）</span></span>のそとにてきみまちぬ。<lb />
+<lb />
+<span type="ruby"><span type="rb">井戸</span><span type="rp">（</span><span type="rt">ゐど</span><span type="rp">）</span></span>のほとりの<span type="ruby"><span type="rb">丁子</span><span type="rp">（</span><span type="rt">ちやうじ</span><span type="rp">）</span></span>の花よ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　見知らぬ島へ<lb />
+<lb />
+ふるさとの山をいでしより<lb />
+旅にいくとせ<lb />
+ふりさけみれば涙わりなし。<lb />
+<lb />
+ふるさとのははこひしきか。<lb />
+いないな<lb />
+ふるさとのいもとこひしきか<lb />
+いないないな。<lb />
+うしなひしむかしのわれのかなしさに<lb />
+われはなくなり。<lb />
+<lb />
+うき旅の<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>はつきて<lb />
+あやめもわかぬ<span type="ruby"><span type="rb">岬</span><span type="rp">（</span><span type="rt">みさき</span><span type="rp">）</span></span>にたてり。<lb />
+<lb />
+すべてうしなひしものは<lb />
+もとめむもせんなし。<lb />
+よしやよしや<lb />
+みしらぬ島の<lb />
+わがすがたこそは<lb />
+あたらしきわがこころなれ。<lb />
+<lb />
+いざや　いざや<lb />
+みしらぬ島へ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　てまり<lb />
+<lb />
+‥‥‥ひや　ふや　おこまさん<lb />
+　　たばこのけむりは<span type="ruby"><span type="rb">丈八</span><span type="rp">（</span><span type="rt">じやうは</span><span type="rp">）</span></span>っあん‥‥<lb />
+とんとんとんとつくてまり<lb />
+しろい指からはなれては<lb />
+<span type="ruby"><span type="rb">蝶</span><span type="rp">（</span><span type="rt">てふ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">菜</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>のはをなぶるよに<lb />
+やるせないよにゆきもどり。<lb />
+ゆらゆらゆれる<span type="ruby"><span type="rb">伊達帯</span><span type="rp">（</span><span type="rt">だらり</span><span type="rp">）</span></span>から<lb />
+<span type="ruby"><span type="rb">江戸紫</span><span type="rp">（</span><span type="rt">えどむらさき</span><span type="rp">）</span></span>の日がくれる<lb />
+‥‥‥みや　よや<lb />
+　　夕霧さん‥‥‥‥<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　たもと<lb />
+<lb />
+そつといだけばしんなりと<lb />
+あまへるやうにしなだれかゝる<lb />
+――わたしのたもと。<lb />
+<lb />
+はづかしさの<span type="ruby"><span type="rb">顔</span><span type="rp">（</span><span type="rt">かほ</span><span type="rp">）</span></span>をおほへど<lb />
+つゝむにあまるうれしさがこぼれでる<lb />
+――わたしのたもと。<lb />
+<lb />
+わたしのかなしみも<lb />
+わたしのよろこびも<lb />
+みんなおまえはしつてゐる<lb />
+――にくらしいたもとよ。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　かげりゆく心<lb />
+<lb />
+母にそむきしその<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>より<lb />
+<span type="ruby"><span type="rb">白壁</span><span type="rp">（</span><span type="rt">しらかべ</span><span type="rp">）</span></span>によるならはせに<lb />
+<span type="ruby"><span type="rb">露草</span><span type="rp">（</span><span type="rt">つゆぐさ</span><span type="rp">）</span></span>の花さきにけり。<lb />
+<lb />
+こゝろもとなき<span type="ruby"><span type="rb">夕月</span><span type="rp">（</span><span type="rt">ゆふづき</span><span type="rp">）</span></span>の<lb />
+夢の<span type="ruby"><span type="rb">小径</span><span type="rp">（</span><span type="rt">こみち</span><span type="rp">）</span></span>にきえゆけば<lb />
+ねもたえだえに虫なけり。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　雀の子<lb />
+<lb />
+とこどんどこぴいひやらひやあ<lb />
+<span type="ruby"><span type="rb">麦</span><span type="rp">（</span><span type="rt">むぎ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">畑</span><span type="rp">（</span><span type="rt">はたけ</span><span type="rp">）</span></span>を風がふく。<lb />
+<lb />
+<span type="ruby"><span type="rb">役者</span><span type="rp">（</span><span type="rt">やくしや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">群</span><span type="rp">（</span><span type="rt">むれ</span><span type="rp">）</span></span>をはぐれたる<lb />
+子供<span type="ruby"><span type="rb">心</span><span type="rp">（</span><span type="rt">ごゝろ</span><span type="rp">）</span></span>のはかなさは<lb />
+‥‥‥うちの<span type="ruby"><span type="rb">裏</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>のちさの木に<lb />
+　　<span type="ruby"><span type="rb">雀</span><span type="rp">（</span><span type="rt">すゞめ</span><span type="rp">）</span></span>が三羽とうまつて<lb />
+　　一羽の雀がいふことにや<lb />
+　　ゆうべござつた<span type="ruby"><span type="rb">花嫁御</span><span type="rp">（</span><span type="rt">はなよめご</span><span type="rp">）</span></span><lb />
+　　なにがかなしゆてお泣きやるぞ<lb />
+　　おなきやるぞ‥‥‥<lb />
+<lb />
+ゆうべの芝居のその<span type="ruby"><span type="rb">唄</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>が<lb />
+いまのわが身につまされて<lb />
+ほろりほろりとないてゆく。<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+　異国の春<lb />
+<lb />
+につぽんムスメのなつかしさ<lb />
+<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ぼたん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">芍薬</span><span type="rp">（</span><span type="rt">しやくやく</span><span type="rp">）</span></span>やま<span type="ruby"><span type="rb">桜</span><span type="rp">（</span><span type="rt">ざくら</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">金襴緞子</span><span type="rp">（</span><span type="rt">きんらんどんす</span><span type="rp">）</span></span>のオビしめて<lb />
+ふりのたもとのキモノきて<lb />
+<span type="ruby"><span type="rb">丹塗</span><span type="rp">（</span><span type="rt">にぬり</span><span type="rp">）</span></span>のポクリねもかろく<lb />
+からこんからことゆきやるゆえ<lb />
+どこへゆきやるときいたらば<lb />
+<span type="ruby"><span type="rb">娘</span><span type="rp">（</span><span type="rt">むすめ</span><span type="rp">）</span></span>ざかりぢや花ぢやもの<lb />
+<span type="ruby"><span type="rb">後生</span><span type="rp">（</span><span type="rt">ごしやう</span><span type="rp">）</span></span>よいよに<span type="ruby"><span type="rb">寺</span><span type="rp">（</span><span type="rt">てら</span><span type="rp">）</span></span>まゐり。<lb />
+寺まゐり。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+　白壁へ<lb />
+<lb />
+ふたりはかきぬ。<lb />
+「しらぬこと」<lb />
+<lb />
+ふたりはかきぬ。<lb />
+「よろこび」と<lb />
+<lb />
+ふたりはかきぬ。<lb />
+「さよなら」と。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

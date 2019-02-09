@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>銭形平次捕物控</title>
+        <author>野村胡堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2016-03-04">作成</resp><resp /><note>
+<lb />
+底本：「銭形平次捕物控（五）金の鯉」嶋中文庫、嶋中書店<lb />
+　　　2004（平成16）年9月20日第1刷発行<lb />
+底本の親本：「銭形平次捕物百話　第四巻」中央公論社<lb />
+　　　1939（昭和14）年<lb />
+初出：「オール讀物」文藝春秋社<lb />
+　　　1932（昭和7）年3月号<lb />
+※初出時の副題は「殺された半蔵」です。<lb />
+入力：山口瑠美<lb />
+校正：noriko saito<lb />
+<date when="2016-03-04">2016年3月4日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>山口瑠美</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>noriko saito</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>銭形平次捕物控</title><author>野村胡堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+「平次、少し骨の折れる仕事だが、引受けてはくれまいか」<lb />
+　若い<span type="ruby"><span type="rb">与力</span><span type="rp">（</span><span type="rt">よりき</span><span type="rp">）</span></span>の笹野新三郎は、岡っ引風情の銭形平次に、こんな調子で話しかけました。<lb />
+「口幅ったいことを申すようで恐れ入りますが、お頼みとあれば、どんな事でも、旦那」<lb />
+　先代から厄介になっている銭形の平次としては、首をくれと言われても、断られた義理ではありません。それに平次も笹野新三郎に劣らず、若さと覇気と、感激性を持っていた頃のことです。<lb />
+「ほかではない――、先ほど一人の老女が訪ねて来て、大変なことを頼んで行ったんだ」<lb />
+「へエ――」<lb />
+「<span type="ruby"><span type="rb">四谷</span><span type="rp">（</span><span type="rt">よつや</span><span type="rp">）</span></span>北町の<span type="ruby"><span type="rb">小永井鉄馬</span><span type="rp">（</span><span type="rt">こながいてつま</span><span type="rp">）</span></span>殿、二百五十石を<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>んで、<span type="ruby"><span type="rb">安祥</span><span type="rp">（</span><span type="rt">あんしょう</span><span type="rp">）</span></span>旗本の有名な家柄だ――、その方が中風で、弟の<span type="ruby"><span type="rb">滝三郎</span><span type="rp">（</span><span type="rt">たきさぶろう</span><span type="rp">）</span></span>というのが後見をしているが、どうも面白くないことがある」<lb />
+「へエ――」<lb />
+「というのは、鉄馬殿は公儀へお届け済みの病人、半身不随で身動きも自由でないのを幸い、手の付けようのない<span type="ruby"><span type="rb">放蕩者</span><span type="rp">（</span><span type="rt">ほうとうもの</span><span type="rp">）</span></span>で一時勘当までされた、弟の滝三郎父子が乗込み、兄の鉄馬殿を、土蔵の中に押し込めて、犬猫のようなひどい目に逢わせ、自分が兄の家を乗っ取って、<span type="ruby"><span type="rb">倅</span><span type="rp">（</span><span type="rt">せがれ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">文五郎</span><span type="rp">（</span><span type="rt">ぶんごろう</span><span type="rp">）</span></span>に跡を継がせるつもりらしいというのだ」<lb />
+「へエ――<span type="ruby"><span type="rb">太</span><span type="rp">（</span><span type="rt">ふて</span><span type="rp">）</span></span>え野郎があったもので」<lb />
+「私のところへ来たのは、鉄馬殿の娘<span type="ruby"><span type="rb">浪江</span><span type="rp">（</span><span type="rt">なみえ</span><span type="rp">）</span></span>を、<span type="ruby"><span type="rb">藁</span><span type="rp">（</span><span type="rt">わら</span><span type="rp">）</span></span>のうちから育てた、<span type="ruby"><span type="rb">加世</span><span type="rp">（</span><span type="rt">かよ</span><span type="rp">）</span></span>という<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">うば</span><span type="rp">）</span></span>で、用事にかこつけて、土蔵の中に入り込み、直々鉄馬殿に頼まれて、ここまで隠れてやって来たというのだ――」<lb />
+「へエ――それは気の毒でございますが、旗本のお家騒動を、町方へ訴え出るのは、少し筋違いじゃございませんか」<lb />
+「その通りだ。私は旗本は若年寄の支配で、町方与力では手の出しようがないと言うと、鉄馬殿も、それは百も承知だがこれが間違って公儀の耳に入ると、小永井家は、家事不取締で断絶になる。鉄馬殿にしては、それが何より心配だ、幸い私の先代が鉄馬殿と、<span type="ruby"><span type="rb">謡</span><span type="rp">（</span><span type="rt">うたい</span><span type="rp">）</span></span>友達、<span type="ruby"><span type="rb">碁</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>友達という以上に懇意で、<span type="ruby"><span type="rb">莫逆</span><span type="rp">（</span><span type="rt">ばくぎゃく</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">念</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>いがあったから、その友情に<span type="ruby"><span type="rb">縋</span><span type="rp">（</span><span type="rt">すが</span><span type="rp">）</span></span>って頼みたい――とこう乳母の口から言われるのだ。弟の滝三郎は武芸も学問もないが、<span type="ruby"><span type="rb">奸智</span><span type="rp">（</span><span type="rt">かんち</span><span type="rp">）</span></span>だけは人の三人前もあるから、何をやり出すかわからない。あとに案じられるのは、年頃になった娘の浪江、筋違いは百も承知だが、町方の手で何とかして、若年寄や、大目付の耳に入れずに、滝三郎を取って押え、私を土蔵の中から救い出してくれれば、それに越した喜びはないと言うのだ。平次、何とか工夫はないものだろうか」<lb />
+　全くこれは折入っての頼みでした。笹野新三郎、思わず膝を進めて、敷居の外に<span type="ruby"><span type="rb">踞</span><span type="rp">（</span><span type="rt">うずくま</span><span type="rp">）</span></span>る平次の手を頂きたいような様子です。<lb />
+「旦那、よく解りました。何とか一と工夫やってみましょうが、相手は旗本屋敷というと、うっかり手は出せません。しばらくお待ち下さいますように」<lb />
+　平次は思い定め兼ねたような、むつかしい顔を挙げました。が、――何とかやってみましょう――と言う以上は、事件の解決まで、決して手を緩めない平次の日頃をよく知っている新三郎は、もうすっかり大船に乗った気持で、この捕物の名人と<span type="ruby"><span type="rb">謳</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>われた男の顔を<span type="ruby"><span type="rb">頼母</span><span type="rp">（</span><span type="rt">たのも</span><span type="rp">）</span></span>しく見詰めました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+　しかし、この時ほど平次も<span type="ruby"><span type="rb">縮尻</span><span type="rp">（</span><span type="rt">しくじ</span><span type="rp">）</span></span>ったことがありません。手っ取り早く言えば、小永井家に入込む工夫も何もつかぬうち、肝腎の生き証拠の老女加世は死体になってしまったのです。<lb />
+　それは、八丁堀の役宅に、与力笹野新三郎を訪ねた<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>る日の晩でした。<span type="ruby"><span type="rb">遽</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>の発作で、町内の医者も間に合わず、息を引取ってしまいましたが、水で頭を冷したので、枕も毛も<span rend="sesame_dot" rendition="em">ぐっしょり</span>濡れている外、どこにも異状はなかったので、<span type="ruby"><span type="rb">筍庵</span><span type="rp">（</span><span type="rt">たけのこあん</span><span type="rp">）</span></span>先生の見立ては卒中ということで、深く詮索する者もなく、猫の子のように手軽に葬られてしまいました。<lb />
+　もっとも、加世の倅の半蔵というのは、同じ屋敷に<span type="ruby"><span type="rb">仲間</span><span type="rp">（</span><span type="rt">ちゅうげん</span><span type="rp">）</span></span>奉公をしております。これは<span type="ruby"><span type="rb">一克者</span><span type="rp">（</span><span type="rt">いっこくもの</span><span type="rp">）</span></span>の母親と違って、恐ろしい道楽者、酔えば必ず大地に引っくり返って、サア殺せ――と<span rend="sesame_dot" rendition="em">わめく</span>ので「殺され半蔵」と<span type="ruby"><span type="rb">綽名</span><span type="rp">（</span><span type="rt">あだな</span><span type="rp">）</span></span>を取った男です。母親が永年忠勤を励んだお蔭で、持て余されながらも首にもならず小永井家に飼い殺されておりますが、その日も陽のあるうちから飲み廻って、母親の死に目にも逢わないという情けない有様です。<lb />
+　それからまた幾日か経ちました。ある日、四谷の小永井家を、ひそかに見張らせている、子分のガラッ八が帰って来て、<lb />
+「ネ、親分、妙な事がありますよ」<lb />
+　キナ臭い顔をしております。<lb />
+「何だい、八」<lb />
+「こんな事を言うと親分に笑われそうですが、現にこの私も聞いたんで――」<lb />
+「なんだい、それは。早く言ってしまいな」<lb />
+「笑っちゃいけませんよ、怪談なんですよ」<lb />
+「フム、面白そうだな」<lb />
+　平常、<span type="ruby"><span type="rb">怪談噺</span><span type="rp">（</span><span type="rt">かいだんばなし</span><span type="rp">）</span></span>などには、耳も傾けない平次ですが、よくよく手掛りが欲しかったものか、不思議に乗気になって、ガラッ八を促します。<lb />
+「小永井の屋敷から、毎晩女の悲鳴が聞えるって、町内は大騒ぎですよ」<lb />
+「フーム」<lb />
+「<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">ばあや</span><span type="rp">）</span></span>さんが死んだばかりだから、多分お化けだろうって言いますが、誰も姿を見たわけじゃありません」<lb />
+「<span type="ruby"><span type="rb">手前</span><span type="rp">（</span><span type="rt">てめえ</span><span type="rp">）</span></span>も聴いたのか」<lb />
+「<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>聴きましたよ、かれこれ<span type="ruby"><span type="rb">亥刻</span><span type="rp">（</span><span type="rt">よつ</span><span type="rp">）</span></span>（十時）過ぎでしたが、町内の物好きな人たちと一緒に、路地を入って、小永井屋敷の塀の外に居ると、泣くような<span type="ruby"><span type="rb">怨</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>むような、何とも言えない女の悲鳴が――」<lb />
+「身振りまでしなくたっていい」<lb />
+「<span type="ruby"><span type="rb">朧月</span><span type="rp">（</span><span type="rt">おぼろづき</span><span type="rp">）</span></span>で、生暖かい晩、あんな声を聞かされちゃ全くたまりません」<lb />
+「声の元を突き止めたかい、潜り込むとか何とかして――」<lb />
+「そんなわけには行きゃしませんや、相手は旗本屋敷で、下手に潜り込んで見付かると、無礼者ッと来る」<lb />
+「お化けに手討にされるのが怖かったんだろう」<lb />
+「へッ、冗談でしょう」<lb />
+　ガラッ八を<span rend="sesame_dot" rendition="em">からかい</span>ながらも、平次は深々と腕を<span type="ruby"><span type="rb">拱</span><span type="rp">（</span><span type="rt">こまぬ</span><span type="rp">）</span></span>きました。この間から集めた、いろいろな情報を頭の中に<span type="ruby"><span type="rb">纏</span><span type="rp">（</span><span type="rt">まと</span><span type="rp">）</span></span>めてみると、何かしらそこに、捨て置き難い重大性が匂います。<lb />
+「ガラッ八、今晩一つ付き合わないか」<lb />
+「へエ、どこへ」<lb />
+「馬鹿だなア、飲む話じゃねえ、化物退治だよ」<lb />
+「へエ」<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+　その晩、四谷北町の小永井家の塀の外へ行った、平次とガラッ八は、わざと町内の人目を避けて、八軒町の方から、行止りの袋路地を、屋敷の横手へ廻ってみました。<lb />
+　草も林も茂り合った、千坪に近い屋敷で、ここまでは手が廻らなかったか、塀も<span type="ruby"><span type="rb">築地</span><span type="rp">（</span><span type="rt">ついじ</span><span type="rp">）</span></span>も崩れて、野良犬の真似をすれば人間が<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">くぐ</span><span type="rp">）</span></span>り込めないこともありません。<lb />
+「八、ここから入るんだ」<lb />
+「大丈夫ですか、親分、見付かったら百年目ですぜ」<lb />
+「馬鹿だなア、相手は旗本だと思うと遠慮もあるが、当主は病人で、威勢を<span type="ruby"><span type="rb">揮</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>っているのは、遊芸より外には何にも知らない弟の滝三郎と、その倅の文五郎という役者みたいな男だ。見付かったって命に<span type="ruby"><span type="rb">拘</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>わるような事はあるものか」<lb />
+「なるほどね」<lb />
+　二人は小声で無駄を言いながら、寺の裏を通って、木立の奥へ深く入って行きました。物がみんな<span type="ruby"><span type="rb">銀鼠</span><span type="rp">（</span><span type="rt">ぎんねず</span><span type="rp">）</span></span>に見えるような、<span type="ruby"><span type="rb">朧</span><span type="rp">（</span><span type="rt">おぼろ</span><span type="rp">）</span></span>の桜月夜、女の悲鳴が聞えなくとも、何となく怪談めかしい道具立です。<lb />
+「親分」<lb />
+「シッ」<lb />
+　ガラッ八は、いつの間にやら平次の袖を押えておりました。<lb />
+「あれですよ、――あの声ですよ」<lb />
+「…………」<lb />
+　平次も気が付いておりました。木立の向う、屋敷の裏手のあたり、月の光が淀んだように、青白く見えるのは、たぶん咲きかけた桜でしょう。ちょうどその中から、世にも物悲しい女の泣き声が、苦悩に引き千切られながら、絶え絶えに聞えるのでした。<lb />
+「親分、あれですよ」<lb />
+「黙らないか、八」<lb />
+　言い甲斐もなく<span type="ruby"><span type="rb">胴顫</span><span type="rp">（</span><span type="rt">どうぶる</span><span type="rp">）</span></span>いするガラッ八の手をふりもぎって、平次は忍び足に、その声の方へ近付きました。<lb />
+「大丈夫ですか、親分」<lb />
+「あれは、お化けや狐なら驚きはしない、人間だよ、――それも若い娘の声だ」<lb />
+「へエ――」<lb />
+　二人は四つん<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>いにならないばかり、絶対に<span type="ruby"><span type="rb">跫音</span><span type="rp">（</span><span type="rt">あしおと</span><span type="rp">）</span></span>を忍ばせて、どうやらこうやら木立の外へ出ました。<lb />
+　海の底のような、真珠色の朧月夜。<lb />
+　半開の桜の下に、ハネ<span type="ruby"><span type="rb">釣瓶</span><span type="rp">（</span><span type="rt">つるべ</span><span type="rp">）</span></span>が見えて、<span type="ruby"><span type="rb">井桁</span><span type="rp">（</span><span type="rt">いげた</span><span type="rp">）</span></span>の下に、何やら白いものが<span type="ruby"><span type="rb">踞</span><span type="rp">（</span><span type="rt">うずくま</span><span type="rp">）</span></span>っております。<lb />
+「娘だッ、親分、あれが浪江という娘ですぜ、そりゃア美しい」<lb />
+「シッ」<lb />
+　耳元に<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>くガラッ八を払い<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>けるように、平次はなおも四方を見廻しました。<lb />
+　幸い木立の尽きるところから、少し廻ると物置の裏へ入って、井戸のすぐ側まで、その<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">ひさし</span><span type="rp">）</span></span>が延びております。<lb />
+　二人はもう<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ちゅうちょ</span><span type="rp">）</span></span>しませんでした。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">四</span></span></span>
+<lb />
+「浪江、少しは懲りたか」<lb />
+　庭下駄の音がして、井戸端へ物影が射します。叔父の滝三郎が、庭木戸を開けて出て来たのでしょう。<lb />
+「…………」<lb />
+　娘は泣き声を呑みました。<lb />
+　桜の間から落ちる月の光が、井桁に縛られた娘の身体を、人魚のように青白く照しております。<lb />
+　ここまで見届けると、平次とガラッ八は、思わず庇の影に眼を<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>らせました。娘の身体が白々と見えたのは着物や光線のせいではなく、半裸体にされて、<span type="ruby"><span type="rb">犇々</span><span type="rp">（</span><span type="rt">ひしひし</span><span type="rp">）</span></span>と荒縄に縛り上げられているためだったのです。<lb />
+　振り乱した髪が、美しい顔から首筋へ<span type="ruby"><span type="rb">海藻</span><span type="rp">（</span><span type="rt">みる</span><span type="rp">）</span></span>のごとく絡んで、真珠色の<span type="ruby"><span type="rb">凝脂</span><span type="rp">（</span><span type="rt">ぎょうし</span><span type="rp">）</span></span>が、ヒクヒクと荒縄の下に<span type="ruby"><span type="rb">蠢</span><span type="rp">（</span><span type="rt">うごめ</span><span type="rp">）</span></span>く様は、言いようもない、恐ろしい魅惑でした。<lb />
+「浪江、まだ首を振るか、――わけの解らぬ奴だ」<lb />
+「…………」<lb />
+「兄上はあの通り、明日をも知れぬ命だ。取急いで祝言の盃をし、公儀へお届を済まさなければ小永井の家に<span type="ruby"><span type="rb">疵</span><span type="rp">（</span><span type="rt">きず</span><span type="rp">）</span></span>が付く――、文五郎もそのつもりで、すっかり用意を整えているのに何が気に入らなくてお前は<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かむり</span><span type="rp">）</span></span>を振るのだ」<lb />
+　五十がらみの、武士とも町人ともつかぬ男――、旗本の次男に生れて、一度は<span rend="sesame_dot" rendition="em">やくざ</span>に身を持ち崩したのが、中年過ぎてから武家に舞い戻って、慾ばかり深くなったといった心持が、姿にも、顔にも言葉遣いにも現れております。<lb />
+「<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">ほか</span><span type="rp">）</span></span>に言い交した男でもあると言うのか」<lb />
+「…………」<lb />
+　浪江は縛られたままに、首を振りました。<lb />
+「それとも、文五郎が気に入らぬと言うのか」<lb />
+「…………」<lb />
+　今度は娘の首が真っ直ぐに<span type="ruby"><span type="rb">起</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>って、それを否定しようともしません。<lb />
+「どうだ、浪江、返事をせぬかい」<lb />
+「あの、父上様が、はっきりお許し下されば」<lb />
+　わななく声、涙に濡れて、苦痛に<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>められて、<span type="ruby"><span type="rb">僅</span><span type="rp">（</span><span type="rt">わず</span><span type="rp">）</span></span>かにこう聴き取れます。<lb />
+「ハッ、ハッ、ハッ、ハッ、兄上は中風で<span type="ruby"><span type="rb">呂</span><span type="rp">（</span><span type="rt">ろ</span><span type="rp">）</span></span><span rend="sesame_dot" rendition="em">れつ</span>も廻らない有様だ、許すも許さぬもない」<lb />
+「いえ、それでも」<lb />
+「馬鹿な事を言うのは、<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>い加減にするがいい。後見のこの叔父が言い付けるのだ、病人などを引合に出すことはない」<lb />
+「…………」<lb />
+「どうだ、浪江、返答を聞こう。次第によっては、明日にも祝言をさせ、――いや祝言より先に、親類方の同意を得て、公儀へお届を済ませなければならぬ。異存はあるまいな」<lb />
+「いえ、叔父上様、<span type="ruby"><span type="rb">厭</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>でございます。父上様直々のお言葉がないうちは――」<lb />
+「どうしても強情を張る気か」<lb />
+「…………」<lb />
+「仕方があるまい。もう一と責めだ」<lb />
+　滝三郎はハネ釣瓶を鳴らして、一杯くみ上げました。<lb />
+「浪江、少しは涼しいぞ」<lb />
+　頭の上に高々と<span type="ruby"><span type="rb">翳</span><span type="rp">（</span><span type="rt">かざ</span><span type="rp">）</span></span>した釣瓶を<span type="ruby"><span type="rb">覆</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>すと、<span type="ruby"><span type="rb">颯</span><span type="rp">（</span><span type="rt">さっ</span><span type="rp">）</span></span>と銀色の滝が、娘の頭上へ――。<lb />
+「アッ」<lb />
+　浪江は流しの板の上に叩きのめされました。一杯の水が、<span type="ruby"><span type="rb">処女</span><span type="rp">（</span><span type="rt">おとめ</span><span type="rp">）</span></span>の全身を洗って、乱れる黒髪も、青白い身体も、<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>い腰巻も、そのまま湧き上がりそう。<lb />
+　それを見ると、たまり兼ねたガラッ八。<lb />
+「<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">おの</span><span type="rp">）</span></span>れッ」<lb />
+　物置の闇から飛出そうとするのを、平次は大骨折で羽交締めにしながら、<lb />
+「馬鹿ッ、黙って見るんだ」<lb />
+　一生懸命に囁きます。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">五</span></span></span>
+<lb />
+　続いて二杯三杯。<lb />
+　娘は<span type="ruby"><span type="rb">飛瀑</span><span type="rp">（</span><span type="rt">たき</span><span type="rp">）</span></span>に打たれた女行者のように、流しの板に崩折れて声も立てずに<span rend="sesame_dot" rendition="em">のた</span>打ち廻ります。荒縄に縛り上げられて、濡れた<span type="ruby"><span type="rb">処女</span><span type="rp">（</span><span type="rt">おとめ</span><span type="rp">）</span></span>の肉身が、ヒクヒクと<span type="ruby"><span type="rb">痙攣</span><span type="rp">（</span><span type="rt">けいれん</span><span type="rp">）</span></span>する様は、<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">なまめ</span><span type="rp">）</span></span>かしくも痛ましいものでしたが、五十男の慾の深そうな滝三郎には、そんな情緒が動きそうもありません。<lb />
+　五六杯浴びせると滝三郎は、疲れを休めるともなく、流しの上に立って、娘の顔を覗きました。<lb />
+「どうだ浪江、今度は痛い目に逢うぞ」<lb />
+　なるほど、<span type="ruby"><span type="rb">予</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>て用意をしたものか、後ろ腰から馬の<span type="ruby"><span type="rb">鞭</span><span type="rp">（</span><span type="rt">むち</span><span type="rp">）</span></span>を抜いて、後ろ手に構えております。<lb />
+　これほどの騒ぎにも、奉公人一人顔を出さないのは、多少言い含められているのでしょう、桜の下は苦悩に<span type="ruby"><span type="rb">喘</span><span type="rp">（</span><span type="rt">あえ</span><span type="rp">）</span></span>ぐ娘の泣き声ばかり、町内にお化け騒ぎをさせたうら悲しさで、夜の空気に断続しております。<lb />
+「浪江、まだ承知せぬな、しぶとい女だ」<lb />
+　滝三郎の手には、高々と鞭が光りました。<lb />
+「あッ」<lb />
+　一つ、二つ、処女の<span type="ruby"><span type="rb">肉</span><span type="rp">（</span><span type="rt">ししむら</span><span type="rp">）</span></span>に小気味よく鳴ると、それを切っかけのように、<lb />
+「父上、しばらく」<lb />
+　庭木戸を押し開いて飛出した者があります。田舎芝居の二枚目といった、顔も、身体も、<span type="ruby"><span type="rb">瓢箪</span><span type="rp">（</span><span type="rt">ひょうたん</span><span type="rp">）</span></span>型の男、バタバタと庭下駄の音をさせて、井戸端へ飛付くと娘を後ろ身にかこって、立ち<span type="ruby"><span type="rb">塞</span><span type="rp">（</span><span type="rt">ふさ</span><span type="rp">）</span></span>がりました。<lb />
+　言うまでもなく、滝三郎の一子文五郎、妙に芝居染みますが留め男振りは、とにかくすっかり板に付きます。<lb />
+「邪魔立てすな」<lb />
+「いえ、父上様、浪江殿が可哀相でございます」<lb />
+「<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>け退け」<lb />
+「打つならどうぞ、私を打って下さい」<lb />
+　水と鞭とに打ち<span type="ruby"><span type="rb">挫</span><span type="rp">（</span><span type="rt">くじ</span><span type="rp">）</span></span>かれた半裸体の娘を、好ましそうに覗きながら、父の鞭から<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>って、文五郎はとにかく声を絞りました。<lb />
+「えッ、聞きわけのない」<lb />
+「あッ、父上様」<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">六</span></span></span>
+<lb />
+「親分、このまま黙って帰るんですか」<lb />
+「そうだよ」<lb />
+「あの<span type="ruby"><span type="rb">父子</span><span type="rp">（</span><span type="rt">おやこ</span><span type="rp">）</span></span>に馬鹿な芝居を見せられて、指を<span type="ruby"><span type="rb">銜</span><span type="rp">（</span><span type="rt">くわ</span><span type="rp">）</span></span>えて引下がるんですかえ」<lb />
+「いやに、絡んだ言い方だな、八」<lb />
+「なに、そういう訳じゃありませんが、あんまり<span type="ruby"><span type="rb">業腹</span><span type="rp">（</span><span type="rt">ごうはら</span><span type="rp">）</span></span>だから、親分が黙って見ていて下さりゃ、あっしが飛出して、あの二人を退治した上、娘を引っ担いで逃げ出しますよ」<lb />
+「馬鹿、あれは旗本の屋敷内に起った内緒事だ。町方の御用聞が、そんなお節介をしたら、ただじゃ済むめえ」<lb />
+「だって、親分」<lb />
+「それが、平次のしたことと判ってみねえ、入智恵をした与力の笹野様をはじめ<span type="ruby"><span type="rb">延</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いては御奉行朝倉様の御迷惑になるだろう」<lb />
+「…………」<lb />
+「それとも、旗本の屋敷へ、<span type="ruby"><span type="rb">物盗</span><span type="rp">（</span><span type="rt">ものと</span><span type="rp">）</span></span>りのように忍び込んで、娘を誘拐した罪を、手前一人で背負って立つか――」<lb />
+「そんな事は、親分」<lb />
+「まア、いい、時節を待て」<lb />
+　平次とガラッ八は、こう言いながら、表町の通りを歩いておりました。<lb />
+　北町、表町というと、今（昭和七年当時）の赤坂区ですが、昔はこの辺を一円に四ツ谷と言ったもので、江戸の切絵図には、千駄ヶ谷へかけて四ツ谷の部に入っております。<lb />
+「ところで八、死んだ乳母の倅の『殺され半蔵』という<span rend="sesame_dot" rendition="em">やくざ</span>な仲間が、毎晩この辺を飲み廻っているとか言ったな」<lb />
+「滝三郎が入込んでから、誰もとがめ手がないのと、お袋が死んで少し<span type="ruby"><span type="rb">自棄</span><span type="rp">（</span><span type="rt">やけ</span><span type="rp">）</span></span>になったんでしょう。三文<span type="ruby"><span type="rb">賭博</span><span type="rp">（</span><span type="rt">ばくち</span><span type="rp">）</span></span>を打つ元手のない時は、この辺の飲屋を<span type="ruby"><span type="rb">門並</span><span type="rp">（</span><span type="rt">かどな</span><span type="rp">）</span></span>み荒して歩いていますよ」<lb />
+「そいつを探してみようじゃないか」<lb />
+「わけはありません」<lb />
+　二人はそれから、二三軒<span type="ruby"><span type="rb">縄暖簾</span><span type="rp">（</span><span type="rt">なわのれん</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">漁</span><span type="rp">（</span><span type="rt">あさ</span><span type="rp">）</span></span>ると、全くわけもなく見付かってしまいました。<lb />
+　当の「殺され半蔵」は、とある飲屋の奥に、<span type="ruby"><span type="rb">樽</span><span type="rp">（</span><span type="rt">たる</span><span type="rp">）</span></span>天神を極め込んで、拳骨に付けた塩を<span type="ruby"><span type="rb">舐</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めながら、湯呑で熱いのをキューとやっていたのです。<lb />
+「兄い、好い機嫌だネ」<lb />
+　ガラッ八は横へ廻って、ポンと肩を叩くと、<lb />
+「何を言やがる、手前が<span type="ruby"><span type="rb">奢</span><span type="rp">（</span><span type="rt">おご</span><span type="rp">）</span></span>った酒じゃあるめえし、好い機嫌だって悪い機嫌だって、文句を言われる覚えはねえ、すっ込んでいやがれ、<span type="ruby"><span type="rb">丸</span><span type="rp">（</span><span type="rt">まる</span><span type="rp">）</span></span>タン<span type="ruby"><span type="rb">棒奴</span><span type="rp">（</span><span type="rt">ぼうめ</span><span type="rp">）</span></span>」<lb />
+　どうも恐ろしく悪い口です。<lb />
+　年の頃は二十五六、顔も胸も酒に焼けておりますが、ちょっと苦味走った好い男、水髪の刷毛先を左へ曲げて、人を<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>み上げると、少し三白眼になります。<lb />
+「少し話があるんだ、すまねえが兄い、ちょいと顔を貸してくれ」<lb />
+「人に貸すような器用な面じゃねえ、退きやがれ、おべっかなんか使やがったって、酒は飲ませねえぞ、間抜け<span type="ruby"><span type="rb">奴</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>」<lb />
+　とても寄り付けません。<lb />
+　黙って見ていた平次は、ガラッ八を掻き退けるように、半蔵の側へ寄りました。<lb />
+　幸い店の中には誰も居ません。<lb />
+「兄い、小永井様の屋敷に、お化けが出るって話を知ってるかい」<lb />
+「何？」<lb />
+　と半蔵。<lb />
+「お前、それじゃ死んだお袋に済むめえぜ、桜の下の井戸端に、娘が毎晩<span type="ruby"><span type="rb">裸体</span><span type="rp">（</span><span type="rt">はだか</span><span type="rp">）</span></span>で縛られて、息も絶え絶えに責められているのも知らないようなこっちゃ――」<lb />
+　平次の言葉は、低いが恐ろしい効果を現しました。<lb />
+「それは本当か――、お前は一体誰だ」<lb />
+　少し眼は<span type="ruby"><span type="rb">据</span><span type="rp">（</span><span type="rt">すわ</span><span type="rp">）</span></span>りますが、酔いもいくらか<span type="ruby"><span type="rb">醒</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>めたらしく、天神様の足をほぐして<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>となります。<lb />
+「誰が嘘をつくものか、破れた塀の間からもぐって、すまねえが、責め場を見て来た者があるんだ。あのまま放っておくと娘は死ぬぜ」<lb />
+「フーム」<lb />
+「あの悪党が、鞭で娘を叩いたり、顔から水をぶっ掛けながら倅と<span type="ruby"><span type="rb">夫婦</span><span type="rp">（</span><span type="rt">いっしょ</span><span type="rp">）</span></span>になって、この家の跡を取れと言うんだ――みんな聴いたよ、目出たい話さ」<lb />
+「…………」<lb />
+「<span type="ruby"><span type="rb">従兄妹</span><span type="rp">（</span><span type="rt">いとこ</span><span type="rp">）</span></span>同士の夫婦が一組出来上がって、小永井の家は千秋万歳さ、――ところで、倅があの家の跡を取ると邪魔になるのは土蔵中に押し込められている年寄りだ。公儀の届が済めば三日たたないうちに、<span type="ruby"><span type="rb">軍鶏</span><span type="rp">（</span><span type="rt">しゃも</span><span type="rp">）</span></span>のように締められるよ」<lb />
+「そんな、そんな馬鹿な事があるものか。お前は、何だ、畜生ッ」<lb />
+「馬鹿だか馬鹿でねえか、四つの眼で見て帰ったんだ。物は試し、屋敷へ帰って井戸端を覗いてみるがいい。若い娘があられもない姿で縛られていたら、俺の言うのが本当だと思え。お<span type="ruby"><span type="rb">主</span><span type="rp">（</span><span type="rt">しゅ</span><span type="rp">）</span></span>の大事も忘れて、酒ばかり飲んで歩きやがって万一あの娘が死んだら、手前は腹でも切らなきゃア済むめえぜ」<lb />
+　平次の言葉は、囁き加減ですが、噛んで含めるように、半蔵の<span type="ruby"><span type="rb">肺腑</span><span type="rp">（</span><span type="rt">はいふ</span><span type="rp">）</span></span>に喰い込んで行きました。<lb />
+「畜生ッ、どうするかみやがれ」<lb />
+　半蔵は、湯呑を土間に叩きつけると、スックと立ち上がりました。<lb />
+「急いで行って来い。二三人打ちのめしても構わないから、娘を引っ担いで来るんだぜ」<lb />
+「手前達もここを動くな」<lb />
+　と半蔵。<lb />
+「いいとも」<lb />
+　半蔵は外へ出ると、少しよろめく足を踏みしめて、北町の方へ、<span type="ruby"><span type="rb">颯</span><span type="rp">（</span><span type="rt">さっ</span><span type="rp">）</span></span>と飛んで行きます。<lb />
+「あッ、勘定は？」<lb />
+　奥から飛出す<span type="ruby"><span type="rb">親爺</span><span type="rp">（</span><span type="rt">おやじ</span><span type="rp">）</span></span>を、<lb />
+「放っておけ、勘定は俺が払ってやる」<lb />
+　平次は大手を拡げる形に止めました。<lb />
+「親分、どんな事になりましょう」<lb />
+　とガラッ八。<lb />
+　これは半蔵の消え込んだ闇をいつまでも見詰めておりました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">七</span></span></span>
+<lb />
+「お嬢様ッ」<lb />
+　井戸端で、半裸体の娘を抱き上げた時は、半蔵も、さすがに酔いが<span type="ruby"><span type="rb">醒</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>めてしまいました。この悩ましい<span type="ruby"><span type="rb">情景</span><span type="rp">（</span><span type="rt">シーン</span><span type="rp">）</span></span>は、呑んだくれの半蔵にとっても、あまりに、痛々しい<span type="ruby"><span type="rb">刺戟</span><span type="rp">（</span><span type="rt">しげき</span><span type="rp">）</span></span>だったのです。<lb />
+「あ、半蔵か」<lb />
+　僅かに正気付いた娘は、何より先に、浅ましい自分の身体を見廻しました。が、いつの間に掛けたか紺の匂いのする絆纏が、荒縄の上から引っ掛けられて、<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>へは紅い腰巻が、月の光に、黒ずんだ濡れ色を見せております。<lb />
+　振り仰ぐと、抱き上げた方の半蔵が、掛け<span type="ruby"><span type="rb">守袋</span><span type="rp">（</span><span type="rt">まもり</span><span type="rp">）</span></span>一つの<span type="ruby"><span type="rb">逞</span><span type="rp">（</span><span type="rt">たくま</span><span type="rp">）</span></span>しい裸体になり、白木綿の腹巻の後ろ帯に、木刀を叩き込んで腰を切ろうとしているところでした。<lb />
+「お嬢様、気が付きましたか。何て、<span type="ruby"><span type="rb">虐</span><span type="rp">（</span><span type="rt">むご</span><span type="rp">）</span></span>ったらしい事をしやがるんだろう――」<lb />
+　半蔵はそう言いながら、絆纏に包んだ<span type="ruby"><span type="rb">処女</span><span type="rp">（</span><span type="rt">おとめ</span><span type="rp">）</span></span>を、宝物のように引っ抱えて、裏口の方へ足を移しました。<lb />
+「半蔵、どこへ行くの？」<lb />
+　浪江は、寒さにわななきながらも、月の光に半蔵の行手をすかします。<lb />
+「知れた事でさア、こんな屋敷をオン出て、安心なところへ隠してあげますよ」<lb />
+「それはいけないよ半蔵、私が居なくなったら、父上様がどう遊ばすだろう。どんな事があったって私は、ここを動かない」<lb />
+「とんでもない、お嬢様があの文五郎の野郎と祝言すると、三日経たないうちに旦那様が殺されますぜ」<lb />
+「えッ」<lb />
+「妙な男が私にそう教えたが、どうも、こいつは図星のようだ」<lb />
+「それでも、私は父上様を見捨てる気にはなれない」<lb />
+「弱ったなア」<lb />
+　殺され半蔵も、脇の下で、縛られたまま<span type="ruby"><span type="rb">藻掻</span><span type="rp">（</span><span type="rt">もが</span><span type="rp">）</span></span>く娘を持て余すともなく、しばらく立ち止りました。<lb />
+「そんな事を言ったって、お嬢様、ここにジッとしていたら殺されるか、祝言するかだ」<lb />
+「いけないよ、どうしても私を連れ出そうと言うなら大きい声を出して人を呼ぶよ」<lb />
+　半蔵もこの上争うわけに行きません。ちょうど立ち止ったところが土蔵の前、父親の鉄馬を閉じ込めている場所と気が付くと、<lb />
+「それでは、旦那様に伺ってみましょう、土蔵の窓は開いてるようだから」<lb />
+　<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">ひさし</span><span type="rp">）</span></span>の下に入って、鉄網を張った窓から声を掛けようとすると、<lb />
+「半蔵、何もかも聞いた、娘を頼むぞ、――浪江もここを出て、時節を待て、<span type="ruby"><span type="rb">私</span><span type="rp">（</span><span type="rt">わし</span><span type="rp">）</span></span>の事は心配するな」<lb />
+　厳重な鉄格子に<span type="ruby"><span type="rb">縋</span><span type="rp">（</span><span type="rt">すが</span><span type="rp">）</span></span>って、<span type="ruby"><span type="rb">髯</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>だらけの顔が半分、闇の中ながらほの見えます。<lb />
+「父上様」<lb />
+　浪江は半蔵の小脇に身を<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>わせて、ヒタ泣きに泣き入るばかりです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">八</span></span></span>
+<lb />
+　浪江は、半蔵と一緒に、しばらく神田の平次の家に隠れました。小永井家は、旧家にしては親類も少なく、こんな時、打ち明けて力になってくれるほどの人もなかったのです。<lb />
+　しかし、平次の目算にも、とんだ思惑違いがありました。浪江を盗み出して、文五郎との祝言を妨げさえすれば、父鉄馬の命は大丈夫と思ったのは大違いで、多智多策の滝三郎は、<lb />
+「小永井家の一人娘浪江は、<span type="ruby"><span type="rb">乳兄妹</span><span type="rp">（</span><span type="rt">ちきょうだい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">仲間</span><span type="rp">（</span><span type="rt">ちゅうげん</span><span type="rp">）</span></span>半蔵と駆落をした」と言い触らし、半蔵や浪江を、動きの取れぬ羽目に追い込んだ上、三日経たないうちに、<lb />
+　――当主鉄馬は、娘の不始末を悲しむの余り卒中を起して死んだ――と発表したのでした。<lb />
+　間もなく、親類合議という形に<span type="ruby"><span type="rb">拵</span><span type="rp">（</span><span type="rt">こしら</span><span type="rp">）</span></span>え、<span type="ruby"><span type="rb">甥</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>の文五郎に、跡目相続を願い出ました。その手順はいかにも疾風迅雷的で、相手に息も<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>かせません。<lb />
+　安祥旗本の立派な家柄と、祖先の手柄を<span type="ruby"><span type="rb">細々</span><span type="rp">（</span><span type="rt">こまごま</span><span type="rp">）</span></span>と歎願書に書き添えたのですから、公儀もこれは、まず許す方に傾くでしょう。大名と違って、旗本の死後相続は、何でもないことではあり、それに弟の滝三郎では世間が許しませんが、その倅の文五郎となると、いくらか大目に見る心持になります。<lb />
+「これは放っておけない」<lb />
+　銭形平次も今さら驚きましたが、自分の<span type="ruby"><span type="rb">料簡</span><span type="rp">（</span><span type="rt">りょうけん</span><span type="rp">）</span></span>一つでやった事で、この始末を笹野新三郎に持って行くわけにも行かず、また持って行ったところで、旗本の名家の相続問題に、町方与力などは<span type="ruby"><span type="rb">嘴</span><span type="rp">（</span><span type="rt">くちばし</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">容</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>れられるわけもありません。<lb />
+　半蔵も、浪江も、平次の心持や行状を見て、すっかり信頼し切っているこの頃です。今さら「駄目だった」とは、平次の舌が腐っても言われた義理ではなかったのです。<lb />
+「半蔵兄い、済まねえが一肌脱いじゃくれまいか」<lb />
+　事件が切迫したある日、平次は思い入った様子で、こう言いました。<lb />
+「何をやらかしゃいいんだ、親分」<lb />
+　半蔵もさすがに平次の緊張した顔に引入れられて、<span type="ruby"><span type="rb">弥造</span><span type="rp">（</span><span type="rt">やぞう</span><span type="rp">）</span></span>の拳骨を出して、素直に<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>を撫でます。<lb />
+「兄貴、お嬢さんや、小永井家のために、命を投げ出しちゃくれまいか」<lb />
+　と平次。<lb />
+「へエ――」<lb />
+「手っ取り早く言えば殺されて貰いたいんだ」<lb />
+「なんだ、そんな事か、――殺され半蔵と言われている俺だ、自慢じゃねえが、命だけは糸目をつけねえ」<lb />
+「本当か、兄貴」<lb />
+「殺されつけているんだ、心配することはねえ」<lb />
+　冗談だか真面目だか分りませんが、ケロリとした顔には思いの外真剣な色が動くようでもあります。<lb />
+「兄貴のお袋さんと、小永井の旦那は、どうも、滝三郎父子に殺されたに相違ねえが、証拠というものが一つもねえ。町人や百姓なら見込みで縛って、引っ叩く<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>もあるが、相手は旗本屋敷に住んでいちゃ、冷飯食いでも、まさかそんな手荒なことは出来ない」<lb />
+「…………」<lb />
+「で、兄貴が乗込んで行って、<span type="ruby"><span type="rb">平常</span><span type="rp">（</span><span type="rt">いつも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>で存分に<span type="ruby"><span type="rb">啖呵</span><span type="rp">（</span><span type="rt">たんか</span><span type="rp">）</span></span>を切って、思い切り<span type="ruby"><span type="rb">厭</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>がらせを言うんだ」<lb />
+「そいつは<span type="ruby"><span type="rb">有難</span><span type="rp">（</span><span type="rt">ありがて</span><span type="rp">）</span></span>え、俺は<span type="ruby"><span type="rb">溜飲</span><span type="rp">（</span><span type="rt">りゅういん</span><span type="rp">）</span></span>を下げたくてウズウズしているんだ。あの悪党親子の前でフンぞり返らしてくれるなら、命なんか二つ三つ投げ出してもいい」<lb />
+「そう来るだろうと思ったよ。だが、こいつは冗談や<span type="ruby"><span type="rb">洒落</span><span type="rp">（</span><span type="rt">しゃれ</span><span type="rp">）</span></span>じゃない、乗込んで啖呵を切ったら最後、間違いなく殺されるぜ」<lb />
+「いいとも」<lb />
+「その殺し振りを、俺は蔭ながら見たいんだ。兄貴のお袋さんも、小永井の旦那も、卒中ということになっているが、二人とも髪がグッショリ濡れていたっていうし、頭の<span type="ruby"><span type="rb">天頂</span><span type="rp">（</span><span type="rt">てっぺん</span><span type="rp">）</span></span>には少しばかり黒血が溜っていたそうだ。どうも俺には<span type="ruby"><span type="rb">腑</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>に落ちないことばかりなんだ。どうして殺したかが解りさえすりゃ、<span type="ruby"><span type="rb">仇</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>はキッと討ってやる」<lb />
+「殺された上に、仇まで討って貰っちゃ済まねえな」<lb />
+　何という太平楽、半蔵はこんな事を<span type="ruby"><span type="rb">真気</span><span type="rp">（</span><span type="rt">ほんき</span><span type="rp">）</span></span>で言ってケロリとしております。<lb />
+「その代り、向うへ行った以上は、存分にやってくれなくちゃいけないんだぜ」<lb />
+「いいとも」<lb />
+　殺されに行く相談を、隣の<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>では浪江が、袖を噛んだり、頬を押えたり、立っても坐ってもいられない様子で聴いておりました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">九</span></span></span>
+<lb />
+「やい、あの人殺し野郎の<span type="ruby"><span type="rb">唐変木</span><span type="rp">（</span><span type="rt">とうへんぼく</span><span type="rp">）</span></span>は居るかい」<lb />
+　半蔵が小永井家の大玄関から怒鳴り込んだのは、その日の夕刻。<lb />
+「あッ」<lb />
+　取次の用人は、半蔵の顔を見ると奥へ逃込んでしまいました。女中<span type="ruby"><span type="rb">端女</span><span type="rp">（</span><span type="rt">はしため</span><span type="rp">）</span></span>等は、もとより寄り付けません。<lb />
+「半蔵が逢って文句を言いに来たと言えッ。親父の人殺し野郎と、倅の色気狂野郎を並べて置いて、土手っ腹へ風穴をあけてやるんだ」<lb />
+　半蔵は<span type="ruby"><span type="rb">無人</span><span type="rp">（</span><span type="rt">むじん</span><span type="rp">）</span></span>の境を行くがごとく、部屋から部屋を<span type="ruby"><span type="rb">漁</span><span type="rp">（</span><span type="rt">あさ</span><span type="rp">）</span></span>って行きました。<lb />
+「俺のお袋と旦那様を殺したのは、どいつだ、出て来やがれ」<lb />
+　旗本屋敷には相違ありませんが、滝三郎も文五郎も無類の柔弱者で、もとより半蔵ほどの者を押える気力もありません。<lb />
+「まア、まア、半蔵、何をそんなに騒ぐんだ」<lb />
+　それでも見兼ねたか、滝三郎は笑みこぼれそうにニヤニヤしながら出て来ます。<lb />
+「ヤイ、この野郎、お嬢様を水責めなんぞにしやがって、その上この家を乗っ取ろうてんだろう。侮の眼玉が黒いうちはそんな事をさせるもんか。お袋と、旦那の仇を討ちに来たんだ、覚悟しやがれ」<lb />
+　半蔵は腹巻を探って、<span type="ruby"><span type="rb">匕首</span><span type="rp">（</span><span type="rt">あいくち</span><span type="rp">）</span></span>を取出すと、<span type="ruby"><span type="rb">鼠</span><span type="rp">（</span><span type="rt">ねずみ</span><span type="rp">）</span></span>を狙う猫のように身構えました。<lb />
+「危ねえ、そんなものを抜いちゃいけない、半蔵、気を鎮めてよく聴いてくれ、――実は、お前の来るのを待っていたんだ」<lb />
+「よくよく<span type="ruby"><span type="rb">打</span><span type="rp">（</span><span type="rt">ぶ</span><span type="rp">）</span></span>ち殺されたかったんだろう」<lb />
+「そうじゃない、浪江に跡を取らせたいばかりに、俺はどんなに気をもんだか知れやしない。浪江の<span type="ruby"><span type="rb">在処</span><span type="rp">（</span><span type="rt">ありか</span><span type="rp">）</span></span>さえ判れば、俺は倅を<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>れて、ここを出て行く、嘘も偽りもない」<lb />
+「本当か、野郎」<lb />
+「浪江に悪い<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>が立って、俺はどんなに心配した事だろう、小永井の家を<span type="ruby"><span type="rb">潰</span><span type="rp">（</span><span type="rt">つぶ</span><span type="rp">）</span></span>しちゃ、先祖様に対して済まないから、無理な献立も、<span type="ruby"><span type="rb">拵</span><span type="rp">（</span><span type="rt">こしら</span><span type="rp">）</span></span>えたが、お前と浪江が出て来さえすれば、俺と倅は、この家に用事はない、半蔵、間違ったことをしてくれるな――」<lb />
+　滝三郎は<span type="ruby"><span type="rb">真</span><span type="rp">（</span><span type="rt">まこと</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">畢生</span><span type="rp">（</span><span type="rt">ひっせい</span><span type="rp">）</span></span>の弁舌を<span type="ruby"><span type="rb">揮</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>いました、正直者の半蔵は、いつの間にやらそれを信用する気になって、匕首を腹巻に納めると、ドッカと座敷の真ん中に、坐り込んでしまったものです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">一〇</span></span></span>
+<lb />
+　その晩、半蔵はすっかり好い心持になってしまいました。<span type="ruby"><span type="rb">駕籠</span><span type="rp">（</span><span type="rt">かご</span><span type="rp">）</span></span>を仕立てて、浪江を迎えにやらせるとヘエコラする滝三郎と文五郎を下目に見下ろして、納戸にとぐろを巻いて、平次のことも、殺されに来たことも忘れていたのです。<lb />
+「半蔵さん、お風呂は？」<lb />
+　顔馴染の女中が、そう言って来ると、少し酔いの廻った半蔵は、フラフラと立ち上がりました。風呂と聞くと我慢の出来ない半蔵は、少し酔っていることなどは考えていません。<lb />
+　雇人の風呂場ではなく、家族の風呂場へ案内されて、一度はハッと気が付いたようでしたが、すっかり好い心持になっていた半蔵は、思い直して、少し酔った身体を風呂桶の中へ<span type="ruby"><span type="rb">漬</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>りました。しかし、これが重大な<span type="ruby"><span type="rb">罠</span><span type="rp">（</span><span type="rt">わな</span><span type="rp">）</span></span>でした。半蔵が風呂桶に全身を浸すと、どこから現れたか滝三郎。<lb />
+「どうだ半蔵、湯の加減は？」<lb />
+「え、ちょうどいい<span type="ruby"><span type="rb">塩梅</span><span type="rp">（</span><span type="rt">あんべえ</span><span type="rp">）</span></span>で――」<lb />
+　半分も言わせず、風呂桶の蓋を取るとハッと半蔵の頭上へ。<lb />
+「何をしやがるんだ」<lb />
+　飛上がろうとしたがいけません。蓋の一方の端は倅の文五郎が押えて、風呂一杯の水の中へ、半蔵をめり込ませてしまいました。<lb />
+<lb />
+　　　　　＊<lb />
+<lb />
+　そこへ、平次とガラッ八が飛出したことは言うまでもありません。ガラッ八が半死半生の半蔵を風呂桶から助け出す間に、平次はわけもなく滝三郎を取って押えました。人殺しの現場を押えられたのですからこれに弁解の余地もありません。<lb />
+　ドサクサ紛れに、文五郎は逃げましたが、滝三郎は小永井家から<span type="ruby"><span type="rb">人別</span><span type="rp">（</span><span type="rt">にんべつ</span><span type="rp">）</span></span>を抜かれたままになっていたので、縄を打って、その場から引っ立てました。あとはもう話はありません。浪江には遠縁の者から婿養子を<span type="ruby"><span type="rb">容</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>れて、滝三郎の<span type="ruby"><span type="rb">処刑</span><span type="rp">（</span><span type="rt">おしおき</span><span type="rp">）</span></span>がすむと、祝言の盃を挙げさせました。<lb />
+　笹野新三郎や、平次の骨折で、家督相続も滞りなく運び何もかも目出たずくめになってから、<lb />
+「親分、いろいろお骨折で有難うございました。<span rend="sesame_dot" rendition="em">あっし</span>は用事も済んだようだから、しばらく旅に出て来ますよ」<lb />
+　殺され半蔵は、不意にこんな事を平次に言いました。<lb />
+「どうしたんだ、新夫婦が、これから兄貴に恩報じをしようという相談をしているよ」<lb />
+「思召しは有難いが、こんな<span rend="sesame_dot" rendition="em">やくざ</span>な野郎が居ちゃ眼障りだろう、――それに、<span rend="sesame_dot" rendition="em">あっし</span>にしても、美しい<span type="ruby"><span type="rb">新嫁</span><span type="rp">（</span><span type="rt">にいよめ</span><span type="rp">）</span></span>振りを見せ付けられちゃ、たまらねえ、親分止め立ては殺生だぜ」<lb />
+　半蔵はこう言って、クルリと<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">そびら</span><span type="rp">）</span></span>を見せました。それっきりこの男はどこへ行ったかわかりません。人にも言えぬ淡い恋心を抱いて、酔っ払っては「サア殺せ」をやって歩いていることでしょう。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

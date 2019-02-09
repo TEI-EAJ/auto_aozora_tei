@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>俳諧師</title>
+        <author>岡本綺堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-05-31">作成</resp><resp /><note>
+<lb />
+底本：「修禅寺物語　正雪の二代目　他四篇」岩波文庫、岩波書店<lb />
+　　　1952（昭和27）年11月25日第1刷発行<lb />
+　　　2008（平成20）年2月21日第7刷発行<lb />
+初出：「現代」<lb />
+　　　1921（大正10）年10月<lb />
+入力：川山隆<lb />
+校正：noriko saito<lb />
+<date when="2010-05-31">2010年5月31日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>川山隆</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>noriko saito</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>俳諧師</title><author>岡本綺堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_8" rendition="div" style="margin-left: 8em">
+　　登場人物<lb />
+俳諧師<span type="ruby"><span type="rb">鬼貫</span><span type="rp">（</span><span type="rt">おにつら</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">路通</span><span type="rp">（</span><span type="rt">ろつう</span><span type="rp">）</span></span><lb />
+鬼貫の娘お<span type="ruby"><span type="rb">妙</span><span type="rp">（</span><span type="rt">たへ</span><span type="rp">）</span></span><lb />
+左官の女房お<span type="ruby"><span type="rb">留</span><span type="rp">（</span><span type="rt">とめ</span><span type="rp">）</span></span><lb />
+</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+元祿の末年、師走の雪ふる夕暮。<span type="ruby"><span type="rb">浪花</span><span type="rp">（</span><span type="rt">なには</span><span type="rp">）</span></span>の町はづれ、俳諧師鬼貫のわび住居。軒かたむき縁朽ちたる<span type="ruby"><span type="rb">破</span><span type="rp">（</span><span type="rt">あば</span><span type="rp">）</span></span>ら家にて、上の方には雪にたわみたる竹藪あり。下の方の入口には低き竹垣、小さき枝折戸あり。となりは墓場の心にて、矢はり低き竹垣をへだてゝ其内に雪の積りたる石塔又は卒堵婆などみゆ。雪しづかに降る。寺の木魚の音きこゆ。<lb />
+<lb />
+</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+（<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">方</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>より近所の女房お留、竹の子笠をかぶりて出づ。）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　あゝ、よく降ることだ。寒い、寒い。（枝折戸をあけて聲をかける。）もし、御めんなさい。お留守ですか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい、はい。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（奧より鬼貫の娘お妙、十七八歳の美しき娘、やつれたる姿にて、煤けたる行燈を點して出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　おや、おかみさん。まあ、どうぞおあがり下さい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　なに、こゝでいゝんですよ。（笠をぬぎて縁に腰をかける。）寒いぢやありませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　ほんたうにお寒いことでございます。（表を見る。）今夜も積ることでございませう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　二日も降りつゞいた上に、まだ積られてはまつたく遣切れませんね。年の暮に斯う毎日降られては、どこでも隨分困ることでせうよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　なにしろ、おあがりなさいませんか。そこはお寒うございますから。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（云ひながら下の方の爐を見かへれば、爐には火の氣がないので、お妙は困つた顏をしてゐる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　（それと察して。）いえ、もうお構ひなさるな。内の人もこの寒いので、持病の疝氣が起つたとか云つて、きのふも<span type="ruby"><span type="rb">一昨日</span><span type="rp">（</span><span type="rt">をとゝひ</span><span type="rp">）</span></span>も仕事を休んでゐたのですけれど、もう<span type="ruby"><span type="rb">數</span><span type="rp">（</span><span type="rt">かぞ</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">日</span><span type="rp">（</span><span type="rt">び</span><span type="rp">）</span></span>になつて來て、お出入先から毎日の催促があるので、今日はたうとう朝から仕事に出て行つたんですよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　この降るのに、まあ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　尤も家のなかの繕ひ仕事ですから、雪が降つても出來るには出來るんですがね。それでも左官といふ商賣は辛いものだと<span type="ruby"><span type="rb">滾</span><span type="rp">（</span><span type="rt">こぼ</span><span type="rp">）</span></span>し拔いてゐるんですよ。そりやまあ寒いときに泥いぢりをするんですから、どうで樂な仕事ぢやありませんけれど……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（身にしみるやうに。）そりや全くでございますわねえ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　さう云つても、我慢して稼いで貰はなければ、<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">こんにち</span><span type="rp">）</span></span>が過されませんからねえ。こちらのお<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とつ</span><span type="rp">）</span></span>さんは今日はお休みですか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　いゝえ、今もおつしやる通り、やつぱり我慢して出て貰はなければなりませんので、今朝から稼ぎに出かけましたが、この雪では嘸ぞ難儀であらうと案じてをります。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　このお天氣ではほんたうにお困りでせうねえ。その代りにこちらの御商賣なぞは、かういふ日の方が却つて可いかもしれませんよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（愁はしげに。）どうでございませうか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　なにしろ、もう歸つてお出でなさるだらうから、早く火でも<span type="ruby"><span type="rb">熾</span><span type="rp">（</span><span type="rt">おこ</span><span type="rp">）</span></span>して置いてあげたら何うです。外は隨分寒うござんすよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　さうでございませうねえ。（再び爐の方を見かへる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　（それを察したやうに又うなづく。）いゝえ、どこでも<span type="ruby"><span type="rb">焚物</span><span type="rp">（</span><span type="rt">たきもの</span><span type="rp">）</span></span>には困るんですよ。この頃のやうに炭や薪が高くなつては、その日暮し同樣の者はまつたく凌げません。それで、實はね。（聲を低めながら墓場を指さす。）わたしもあすこへ焚物を見つけに來たんですよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　あすこへ……。（伸上りてのぞく。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　あのお墓の古い塔婆を少し貰はうと思つてね。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　お寺で呉れますかしら。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　（笑ふ。）呉れるもんですか。どうで呉れないに決まつてゐるから、默つて貰つていくんですよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　まあ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　だつて、お前さん。さうでもしなければ、この大雪の日に凍え死んでしまふぢやありませんか。佛樣だつて大目に見てくれますわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　でも、まさかそんなことは……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　まあ、默つておいでなさい。こゝの家へも持つて來てあげますから。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お留は枝折戸の外に出で、あたりを見まはしながら生垣を押破つて墓場に忍び入るを、お妙は縁に立ちて不安らしく眺めてゐる。やがてお留は、新しいのと古いのとを取りまぜて澤山の塔婆を引つかゝへて出で、縁先へ引返して來る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　ねえ、お前さん。これだけあれば一時の凌ぎはつくと云ふものですわね。雪で<span type="ruby"><span type="rb">濕</span><span type="rp">（</span><span type="rt">しめ</span><span type="rp">）</span></span>つてゐるかもしれないが、兎も角もこれだけ置いて行きませうよ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お留は塔婆の雪を拂ひながら、その幾本かを縁に置く。お妙はやはり不安らしく眺めてゐる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　こちらなんぞはすぐ隣なんだから、焚物に困つたらいつでも斯うなさいよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　でも、おかみさん。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　まあ可いから、お父さんの歸るまでに、早く<span type="ruby"><span type="rb">暖</span><span type="rp">（</span><span type="rt">あたゝ</span><span type="rp">）</span></span>かい火でもこしらへて置いておあげなさいよ。どれ、わたしも早く歸りませう。まあ、御覽なさい。<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">ちつ</span><span type="rp">）</span></span>との間に又積りましたよ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（笠を持ちて起ち上る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　氣をつけておいでなさい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　はい、御免なさい。おゝ、降る、降る。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お留は笠をかぶりて塔婆をかゝへ、挨拶してゆきかゝる時、上の方の竹藪の竹が二三本、凄まじい音して折れる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　（驚いて見かへる。）おや、竹が折れましたよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　さつきから<span type="ruby"><span type="rb">撓</span><span type="rp">（</span><span type="rt">たわ</span><span type="rp">）</span></span>んで居りましたが、たうとう折れたとみえます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お留　　この雪ではたまりますまいよ。わたしの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>なんぞも小さいから、うつかりすると壓し潰されるかも知れない。はゝゝゝゝゝゝ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お留は笠を傾けて去る。ゆふぐれの鐘きこゆ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　あのおかみさんはお墓からこんなものを持つて來て……。（塔婆を見る。）<span type="ruby"><span type="rb">窃</span><span type="rp">（</span><span type="rt">そつ</span><span type="rp">）</span></span>と行つて返して來ようかしら。（起ちかけて又躊躇する。）あゝ、雪が降る。お父さまはさぞお寒いことであらう。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙はぢつと思案の末、塔婆にむかひて合掌し、やがて思ひ切つて爐の側へかゝへて行き、それを爐に折りくべて<span type="ruby"><span type="rb">燧石</span><span type="rp">（</span><span type="rt">ひうち</span><span type="rp">）</span></span>の火を打つ。塔婆は燻りて白き煙がうづまき<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-94/1-94-07.png" rend="gaiji" rendition="img" source="※(「風にょう＋昜」、第3水準1-94-7)" /></span><span type="rp">（</span><span type="rt">あが</span><span type="rp">）</span></span>る。表の雪は降りやまず。下の方より俳諧師鬼貫、四十餘歳、<span type="ruby"><span type="rb">導引</span><span type="rp">（</span><span type="rt">だういん</span><span type="rp">）</span></span>のこしらへ、頭巾をかぶりて破れたる傘をさし、足駄をはきてとぼ／＼と歸り來る。お妙は透しみて縁に駈け出る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　おゝ。お父さま。お歸りでございましたか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　どうもよく降ることだな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　さぞお寒かつたでございませう。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙は手つだひて、鬼貫は傘をすぼめ、頭巾をぬぎ、からだの雪を拂ひて内にあがる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙<span rend="notes">［＃「お妙」は底本では「お留」］</span>　　朝から少しも止まないので、お寒くもあらうし、お困りでもあらうと、案じ暮してをりました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（爐のそばに來る。）おゝ、爐の火が暖かさうに燃えてゐるな。きのふけふの大雪、外に出てゐるものも難儀だが、内にゐるものも難儀、殊に今朝から焚物は無し、内でもさぞ寒がつてゐるだらうと、おれも内を案じてゐた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　この寒いのに<span type="ruby"><span type="rb">焚付</span><span type="rp">（</span><span type="rt">たきつけ</span><span type="rp">）</span></span>はなし、お父さまがお歸りになつたらどうしようかと思つて居りますと、あの左官のおかみさんが……。（少しく云ひ淀みて。）これを持つて來てくれたのでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　内に火のあるのは不思議だと思つてゐたが……。あゝ、これは塔婆ではないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。（<span rend="sesame_dot" rendition="em">もじ</span>／＼してゐる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（急に顏を<span type="ruby"><span type="rb">陰</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>らせる。）これを左官のおかみさんがくれたのか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　おまへが自分で取つて來たのではあるまいな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（あわてゝ。）まつたくあのおかみさんが取つて來てくれたのでございます。わたくしもどうしようかと思つたのでございますけれど……。（涙ぐむ。）お父樣がさぞお寒からうと存じまして……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　さうか。（歎息する。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　どうぞ御勘辨なすつて下さいまし。（手をつく。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　今更叱つても仕方があるまい。まあ、湯でも沸す支度でもしてくれ。（やゝ嚴かに。）こんなことを再びするなよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。恐れ入りました。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙は眼をふいて、湯を沸かす支度をする。鬼貫はしばらく爐の火を眺めてゐる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　お妙。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　米はなかつたな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（澁りながら。）はい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（さびしく笑ふ。）いや、聞くまでもない。米櫃に一粒の米もないことは今朝から判つてゐたのだ。おれもそれを知つてゐるから、今日もこの大雪のなかを一生懸命に歩いたよ。（袂より笛を出す。）この笛を吹いて、大阪の町中を……。ふだんはおれの嫌ひな色町の方角まで、根よく流してあるいたが、馴染の薄いものはやつぱり駄目だ。どこでも呼んでくれてがない。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（歎息する。）さうでございませうねえ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　それでも一軒の小さい米屋でよんでくれたので、隱居らしい老人の腰を揉んで、二十文の錢を貰つて來た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（ほつとして。）それはよろしうございました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　それからもう一軒、質屋に呼び込まれて二十文、あはせて四十文がけふ一日の稼ぎだ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（財布より<span type="ruby"><span type="rb">錢</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>を出してみせる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　それでもまあ結構でございました。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（又もや寂しく笑ふ。）結構かもしれない。今の身の上では四十文の錢でも尊い。これがなければ親子二人が<span type="ruby"><span type="rb">飢死</span><span type="rp">（</span><span type="rt">うゑじに</span><span type="rp">）</span></span>だからな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　まつたく尊いのでございます。（錢を財布に入れて押しいたゞく。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　いや、飢死の方がましかも知れない。おれも以前は<span type="ruby"><span type="rb">大和郡山</span><span type="rp">（</span><span type="rt">やまとこほりやま</span><span type="rp">）</span></span>の藩中で、輕いながらも武家奉公をした身の上だ。若い時から俳諧がすきで、窮屈な武家奉公がどうも面白くないと思つてゐるうちに、おまへが十三の時に女房が死んだ。それから思ひ切つて武士を捨て、<span type="ruby"><span type="rb">稚</span><span type="rp">（</span><span type="rt">をさな</span><span type="rp">）</span></span>いお前の手をひいて、すみ馴れた郡山の土地を離れる時は、おれも流石にさびしいやうな心持がしないでもなかつた。「笠とりて跡ちからなや春の雨」……それからこの大阪へ出て來たが、好きな俳諧を<span type="ruby"><span type="rb">弄</span><span type="rp">（</span><span type="rt">もてあそ</span><span type="rp">）</span></span>んでゐるばかりでは<span type="ruby"><span type="rb">迚</span><span type="rp">（</span><span type="rt">とて</span><span type="rp">）</span></span>も世渡りの道が立たないので、思ひ付いた導引揉療治、これならば兎もかくも親子の<span type="ruby"><span type="rb">口餬</span><span type="rp">（</span><span type="rt">くちす</span><span type="rp">）</span></span>ぎはならうと、初めは自分の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に看板をかけて見たが、ひとりも療治をたのみに來るものがないので、仕方が無しに按摩の笛を吹いて、毎日町中を流してあるくのも、かぞへて見るともう足かけ五年になる。家財も着類もみな賣り盡して、殘つてゐるものは親子二人のからだばかりだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（慰めるやうに。）その不足勝のあひだにも、俳諧の道に心をかたむけて、月雪花を樂むのが風流の極意ではございませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（うなづく。）それはおれも知つてゐる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　清貧を樂むとか、ふだんから仰しやるのは、こゝのことではございませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　清貧を樂む……。（みづから嘲るやうに。）おれも今まではさう思つてゐた。さう思へばこそ家代々の祿をすてゝ、自分の好きな俳諧師にもなつたのだ。しかし今のおれ達の身の上は、清貧などといふことを通り越して、あんまり<span type="ruby"><span type="rb">慘</span><span type="rp">（</span><span type="rt">みじ</span><span type="rp">）</span></span>め過ぎるではないか。月雪花を樂む風流の極意もこの世に生きてゐればこそで、おれ達はもう生命があぶない。おれ達はその日その日の<span type="ruby"><span type="rb">糧</span><span type="rp">（</span><span type="rt">かて</span><span type="rp">）</span></span>にも困つてゐる。あしたの命もおぼつかないほどに飢に迫つてゐる。むかしの鬼貫ならば、この雪の日には是非とも一句あるべきところだが、今日の鬼貫は歌も俳諧もあらばこそ、どうしたら今夜の米代を稼げるか、あしたの薪代を稼げるか、どうしたら親子ふたりの露命をつなげるかと、唯そればかりに屈託しながら、大雪に埋もれた師走の町を一日さまよひ歩いてゐたのだ。大和も寒いところであつたが、浪花の冬も身にしみるな。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙はうつむきて悲しげに聽きゐたるが、やがて湯の沸きたるに心づきて、茶碗につぎて父にすゝめる。鬼貫は<span type="ruby"><span type="rb">徐</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>かに湯をのみて又考へる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　おゝ、さうだ。たしか去年の暮であつた。やつぱりこんな寒い日であつたが、おれはこの行燈の灯をぢつと眺めてゐるうちに、つい一句浮んだ。「ともしびの花に春待つ庵かな」――その頃はおれの心にもまだ餘裕があつて、春を待つといふ樂みがあつたと見える。その樂みも今は消えた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　え。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙はいよ／＼悲しげに父の顏を見つめる。鬼貫はうつむきて溜息をつく。雪風の音して、竹藪の竹二三本又もや折れる。その音に鬼貫は顏をあげて庭を見かへる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　竹が折れたな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　さつきからたび／＼折れるやうでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　これほどの大雪に壓されては、強い竹も流石にたまるまい。<span type="ruby"><span type="rb">堪</span><span type="rp">（</span><span type="rt">こら</span><span type="rp">）</span></span>へるだけは堪へても、積る重荷に壓し潰されて、倒れるもある、折れるもある。（ぢつと思案して氣を換へる。）これお妙。今夜の米を買つて來なければなるまいな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　ほんにさうでございます。これからすぐに行つてまゐりませう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　油はどうだな。（行燈を見かへる。）いや、四十文の<span type="ruby"><span type="rb">錢</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>で色々の買物も出來まい。油が盡きたら雪あかりでも事は濟む。兎も角もその錢で米と青菜でも買つて來い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい、はい。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙は財布を帶にはさみて起ち上り、奧より風呂敷を持ちて出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　あゝ、いつまでも降ることか。日が暮れて路が惡い。氣をつけて行けよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。氣をつけてまゐります。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙は父の破れ傘を持ち、着物の褄をからげて、素足にて雪のなかを行きかゝる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　これ、素足では冷たからう。穿きにくからうが、おれの足駄を穿いてゆけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（少し躊躇して。）何、すぐそこでございますから……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　すぐそこでも素足では堪るまい。構はずに穿いてゆけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　では、拜借してまゐります。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙は父の足駄をはき、傘をかたむけて下の方に立去る。雪風の音。鬼貫は立つて縁先より娘のうしろ影を見送りゐたるが、やがて行燈をよきところに直して、小さき古机を持出し、しづかに筆を執りて<span type="ruby"><span type="rb">懷紙</span><span type="rp">（</span><span type="rt">ふところがみ</span><span type="rp">）</span></span>に何か書きはじめる。雪の音、木魚の音。下の方より俳諧師路通、三十餘歳、乞食の姿にて破れたる菰をまとひ、古手拭をかぶりて出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　（<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>よりのぞく。）この雪の日に難澁いたすものでございます。どうぞお慈悲に一文遣つてください。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（書きながら見かへる。）氣の毒だが難澁はお互ひの身の上で、一文の施しも出來ない。どこか<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">ほか</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ行つてくれ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（云ひすてゝ鬼貫は矢はり書きつゞけてゐる。路通は伸びあがりて内を覗き、なにか考へながら下の方に立ち去る、鬼貫はやがて書き終りて筆を措き、叮嚀に紙をたゝみて机の上に置く。それより押入をあけて袋に入れたる脇差を取出し、鞘をはらひて行燈の灯に照し視るとき、下の方よりお妙は風呂敷包みをかゝへて歸り來り、門口より内をのぞきて俄にたちどまり、不安らしくうかゞひゐる。鬼貫は破れたる半屏風を<span type="ruby"><span type="rb">逆</span><span type="rp">（</span><span type="rt">さかさ</span><span type="rp">）</span></span>に立てまはして、その蔭に這入る。その途端にお妙は傘も包みも投げ出して内へ駈けあがり、屏風を押倒して父の手に取りすがる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（聲をふるはせる。）お父さま、どうなさるのでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　お妙、もう歸つたのか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　こんな刃物を持つて、お前はどうなさるのでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　譯はそこに書いてある。それを讀めば判ることだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　いゝえ、そんなものを讀んではゐられません。もし、お父さま。おまへは何で自害なさるのでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　叱つ、靜にしろ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　いゝえ、靜には出來ません。まあ、兎も角もその刃物をお渡しください。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（たがひに爭ふ<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ひま</span><span type="rp">）</span></span>に、下の方より路通は再び出で來り、門口よりうかゞひゐる。お妙は一生懸命に父の手より刃物を奪ひとりて泣く。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　これ、靜にしろと云ふのに……。なるほど吃驚するのも<span type="ruby"><span type="rb">道理</span><span type="rp">（</span><span type="rt">もつとも</span><span type="rp">）</span></span>だが、たとひ自害しないでも俺達はもう生きてはゐられない……。よく考へてみろ。さつきも云ふ通り、あしかけ五年の浪々に、わづかばかりの貯へは勿論、家財も着類もみんな賣り盡して、導引揉療治にまで身を落したが、それでも世渡りは出來ないで、先月から三度の飯も滿足に食つたことがない。これで幾日もつゞいたら、親子ふたりが抱きあつて飢死するより外はあるまい。考へてみても怖ろしいことだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　飢死するのが怖ろしさに、いつそ自害すると覺悟したら、なぜわたくしにも打ち明けて下さいません。お前に捨てゝ行かれたら、あとに殘つたわたくしは何うなると思ふのでございます。やつぱり飢死するより外は無いではございませんか。（泣く。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　いや、おまへと俺とは違ふ。お前はまだ若い身の上だ。いつそ自分一人ならば、どこへ奉公しても生きてゐられる。決して飢死するやうな心配はない。あの書置を人に見せれば、心ある人は憫れんでもくれるだらう。おれも好んで死にたくはない。それで今日まで我慢に我慢をして來たが、ほかの事とは譯が違つて、人間がどうしても食へないとなれば、死ぬよりほかに仕樣がない。生きたいと云つても生きてはゐられないのだ。判つたか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　いゝえ、どうしても死ぬほどならば、まだ生きてゆく道があらうかと存じます。唯今のお話をうかゞひますと、わたくしをお救ひ下さるために、お父さまが命をお捨てなさるやうに思はれまして、あんまり悲しうございます。わたくしはそんな不孝者になりたくはございません。かう云ふ時には、わたくしが死んでお父さまをお救ひ申さねばなりません。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　馬鹿なことを……。お前を殺してどうなるものか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　ほんたうに死ぬのではございません。唯今お父さまは何處へ奉公してもと仰しやいました。その奉公にまゐるのでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　奉公にゆく……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。（決心したやうに涙を拭く。）奉公にまゐります。と云つて、お父さまに御不自由はさせません。わたしに代つて朝夕のお世話を致すやうな、下女でも下男でもお雇ひ入れなすつて下さいまし。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　その日の暮しに困る人間が下女や下男を置く。そんなことがどうして出來ると思ふのだ。（娘の肩に優しく手をかける。）おまへは少し<span type="ruby"><span type="rb">取逆上</span><span type="rp">（</span><span type="rt">とりのぼ</span><span type="rp">）</span></span>せてゐる。まあ、まあ、おちついてよく考へるが可い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（父の膝に手をかける。）もし、お父樣。わたくしは奉公にまゐりまして、お父樣に御不自由のないやうなお金を工面いたします。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　むゝ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は腑に落ちぬやうに考へながら、娘の顏をぢつと視る。お妙の眼からは涙が流れる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（俄に思ひ付いて。）あ、おまへは勤め奉公にでもゆく氣か。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。（父の膝に泣き伏す。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（あわたゞしく。）いけない、それは<span type="ruby"><span type="rb">不可</span><span type="rp">（</span><span type="rt">いけ</span><span type="rp">）</span></span>ない。お前にそんなことをさせられるものか。おれは今まで唯の一度もそんなことを考へたことが無かつた。おれはそんな無慈悲ではないのだ。（娘の手を掴んで叱るやうに。）おまへはどうしてそんな馬鹿な、間違つた考へを起したのだ。おまへが自分ひとりで考へ出したのか、それとも誰かに智慧をつけられたのか。むゝ、あの左官のおかみさんに教へられたのか。大事の娘に勤め奉公をすゝめるなどとは、彼奴、思ひのほかの不埓な奴だ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（父に縋る。）いゝえ、左官のおかみさんの知つたことではございません。誰に教へられたのでも無く、わたくしが不意と考へ付いたのでございます。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　<span type="ruby"><span type="rb">何日</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>そんなことを考へたのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　けふの雪をながめながら、お父さまが外で嘸ぞ寒いおもひをしていらつしやるだらうと思ひまして……。（泣く。）わたくしのやうなものでも勤め奉公に出ましたら、いくらか纏まつたお金も手に這入らうかと。不意と思ひつきましたその矢先へ、お父樣が……。（落ちたる脇差に眼をつける。）こんな覺悟をなさいましたので……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　いや、判つた。なるほどお前の<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">きりやう</span><span type="rp">）</span></span>ならば、廓へ身をしづめて相當の金にもなるだらう。おれも樂が出來るかも知れない。併しそんなことがどうしてさせられるものか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　お許しはございませんか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（又もや激しく叱り付ける。）えゝ、念を押すまでもない。たとひ飢死をすればとて、わが子に遊女の勤めをさせるなどとは、以ての外のことだ。これ、よく考へてみろ。おれはお前が可愛ければこそ、自分を殺してお前を生かさうとしてゐるのだ。そのお前を苦界に沈めて、俺がその金で樂々と生きてゐられるか。親の心、子知らずとはお前のことだ。あんまり腹が立つて涙も出ない。おれが奉公しろと云つたのは、たとひ水仕奉公にもしろ、眞直な正しい奉公をしろと云つたのだ。おれは死んでもどうなつても構はない、せめてお前だけは人間らしく生かして遣りたいと、苦勞してゐる俺の心がわからないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　それはよく判つて居りますけれども、わたくしはどうしてもお父樣を見殺しにすることは出來ません。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　どうしても身賣をするといふのか。（詰めよる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（恐れるやうに。）では、わたくしは思ひ切つて身賣を止めませう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　むゝ、止めるか。それが當りまへだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　その代りお父さまも……。死ぬのを止めて下さいまし。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は默つてゐる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　もし、この通りでございます。（手をあはせる。）</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は矢はり考へてゐる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　これほどに申しても聽いてくださらなければ、お父樣よりも先に、わたくしが<span type="ruby"><span type="rb">寧</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>そ死んでしまひます。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙はそこにある脇差を取りて、縁先へ走り出る。鬼貫はおどろいて押へる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　これ、飛んでもないことをするな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　いゝえ、死なせて下さいまし。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　はて、判らない奴だ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（二人はたがひに爭ふところへ、路通は枝折戸より入り來りて聲をかける。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　あ、待つてくれ、待つてくれ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫とお炒はおどろいて見かへる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（咎めるやうに。）お前は誰だ。なにしに來た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　（笑ふ。）さつき來た物貰ひだよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　物貰ひ……。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（路通は頬冠りを取る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（透して視る。）や、路通か。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　久振りだな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　まつたく久振りだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　その久振りのお客樣が來たのだ。まあ、おちついて話さうではないか。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（路通は縁に腰をかける。鬼貫は早くその刃物を納めろと娘に眼で知らせる。不意の<span type="ruby"><span type="rb">客來</span><span type="rp">（</span><span type="rt">きやくらい</span><span type="rp">）</span></span>にうろ／＼してゐたお妙も一先づ刃物を鞘に納める。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（なつかしげに。）なにしろ、久しく逢はなかつた。そこは寒い。まあ、こつちへあがつてくれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　むさ苦しうございますが、どうぞお通り下さいまし。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（爐を指さす。）こゝには火がある。寒さ凌ぎに早くあたるが可い。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙は立寄つて路通の菰をぬがせ、その雪を拂つて遣る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　いや、構つてくださるな。（鬼貫に。）なまじひ暖かい火などにあたると、却つてあとが寒い。宿無しはこゝで澤山だ。併しこゝらも隨分積つたな。（庭を見まはし、そこに落ちたる傘と包みとに眼をつける。）や、こゝに色々抛り出してある。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（傘と包みとを拾ひて縁に置く。お妙は會釋して受取る。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（お妙に。）米を買つて來たのか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　丁度よい。青菜の粥でも焚いて、お客さまに御馳走しろよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい、はい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　それは何よりありがたい。久振りで御馳走にならうかな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　唯今すぐに支度を致します。（包みを持ちて奧に入る。）</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は茶碗に湯を汲んで來て、路通のまへに置く。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　郡山で別れて以來だから、もう足かけ六年になる。そのあとはどうした。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　この通りだ。はゝゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　再び昔の姿になつたか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　おれはこの姿で東海道の松原に寢てゐるところを、芭蕉の<span type="ruby"><span type="rb">翁</span><span type="rp">（</span><span type="rt">おきな</span><span type="rp">）</span></span>に見つけられて弟子の一人に取立てられたが、人間並の<span type="ruby"><span type="rb">生活</span><span type="rp">（</span><span type="rt">くらし</span><span type="rp">）</span></span>はおれの性にあはないと見えて、師匠にさんざん叱られた上に、二三年前から再び元の宿無しだ。乞食を三日すれば忘られないと云ふが、まつたくこの方が氣樂でいゝやうだよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　さうかなあ。（考へる。）それでも生きてゐられるかなあ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　この通り生きてゐるのが論より證據だ。しかし俺はおれで、おまへに俺の眞似は出來ない。かうして平氣で生きてゐられるのは、この路通ばかりだらうな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（感心したやうに。）さうかも知れない。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　おまへは斯うして湯をくれたが、おれは滅多にこんなものを飮んだことはない。喉が渇けばすぐにこれだ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（路通は庭の雪を手に掬つて飮む。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　腹の減ることはないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　あるな。一日に一度ぐらゐしか食はない時がある。方々の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>に立つても一文の錢だつて容易に惠んでくれるものではない。現にこゝの家でも斷られたからな。（笑ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　それはお前と知らなかつたからだ。堪忍してくれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　斷られるのは馴れてゐるから、さのみ驚きもしなかつたが、どうも聞き覺えのある聲だと思つたからまた引返して來てみると、いや大變な騷ぎで、いくら無頓着のおれもこれには流石に驚いたよ。鬼貫といふほどの風流人が何うも無分別なことだな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　無分別と云はれても仕方がない。おれはもう切端詰つたのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　それが無分別だといふのだ。切端詰つたと云つても、なんとか生きてゆく道もあるだらう。娘の方がおまへより<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">ちつ</span><span type="rp">）</span></span>と利口のやうだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（少しく激して。）おれは自分の娘を賣つても生きてゐようとは思はないのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　（笑ふ。）まあ、おちついて聽くがいゝ。誰がおまへの娘を賣れと云つた。おれはこの通りの獨り者だが、たとひ子供があつたにしても、その子供を賣り飛ばして金にするといふ無慈悲な料簡にはなれさうもない。おまへの心は俺にもよく判つてゐるよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　おまへも察してくれるか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　むゝ、察してゐる。そこで、おまへも命を捨てず、娘も身を賣らず、無事安穩に生きてゐられる智慧を授けてやらうと思ふのだが、どうだ、おれの云ふことをきくか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　おれも死なず、娘も身を賣らず。（疑ふやうに。）おまへにそんな智慧があるかな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　あるから教へて遣らうといふのだ。一體おまへたち親子が死ぬるとか生きるとか騷いでゐるのも、つまりは食へないからのことだらう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（うなづく。）まつたくその通りだ。よく／＼のことだと思つてくれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　さあ、そこだ。おれは獨り者の上に、人間もほんたうに風流に出來てゐる。第一に乞食馴れてもゐるから、一日に一度ぐらゐしか飯を食はないこともある。いや、その一度も滿足に食へないやうなこともある。それでも<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">ち</span><span type="rp">）</span></span>つとも驚かないやうに仕込まれてゐるが、おまへ達は<span type="ruby"><span type="rb">素人</span><span type="rp">（</span><span type="rt">しろうと</span><span type="rp">）</span></span>だ。唯の人間だ。腹の蟲が意氣地なく出來てゐるから、一度も飯を食はせないとすぐに<span rend="sesame_dot" rendition="em">ぐう</span>／＼泣き出すといふ始末だ。おれならこの境涯で平氣でもゐられるが、お前たちには迚もその辛抱は出來まい。おまへ達に取つては腹の減るぐらゐ怖ろしいことはあるまい。そこで、おれが飯を食へることを教へてやる。親子ふたりが滿足に三度の飯さへ食へたら申分はない筈だ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　それは勿論だ。おれだつて別に榮耀や榮華がしたいと望むわけではない。たゞ無事に生きてゐられゝばいゝのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　それには斯うするのだ。よく見ろ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（路通は庭の雪の上に指にて書く。鬼貫は行燈を持ち出して、縁の上から覗く。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（氣色を變へる。）なんだと思つたら飛んでもないことを……。貴樣はそれだから師匠にも破門されるのだ。痩せても枯れても俺も鬼貫だ。そんな馬鹿なことが出來ると思ふか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　（平氣で。）それが惡いか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　善いか惡いか考へても判るではないか。實にどうも呆れた奴だ。そんな料簡だから貴樣は乞食の味が忘れられないのだ。もう貴樣とは口を利かないから、早く出て行け。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　（再び縁に腰をかける。）なにをそんなに怒るのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　えゝ、なんでもいゝから早く出て行け。さあ、出てゆけ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は路通の腕をつかんで、縁より<span type="ruby"><span type="rb">引卸</span><span type="rp">（</span><span type="rt">ひきおろ</span><span type="rp">）</span></span>さうとする。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　まあ、待つてくれ、待つてくれ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は縁より下りて路通を引出さうとする。路通は雪のなかに倒れる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　早くゆけ。宿無しの乞食野郎め。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（菰を取つて路通に投げつける。路通は頭から菰をすつぽりと被せられて倒れながらに高く笑ふ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　はゝゝゝゝゝ。さう無暗に腹を立つなよ。さういふ馬鹿固い料簡だから、大事の命を安つぽく捨てる氣にもなるのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　なんだ。（縁にある傘を把つて振りあげる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　（菰から顏を出す。）まあ、待てといふのに……。おれの云ふことがおまへにはよく呑込めないのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　えゝ、ちやんと判つてゐる。おれに芭蕉翁の僞筆を書けといふのだ。僞物を作れといふのだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　さうだ。さうだ。（雪の上に起き上る。）おれの師匠の芭蕉翁の短册は、廉くも二分や三分には賣れる。相手によつては二兩も三兩も出すかも知れない。ところが、その直筆の短册といふものが世間に少い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　それは俺も知つてゐる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　おまへは能筆だ。武家の出だけに、字をかくことは確かに巧い。そのおまへが芭蕉翁の僞筆をかけば、誰でも屹と一杯食はされる。それ、どうだ。短册を一枚かけば、少くも二分や一兩にはなる。おまへの導引揉療治とは些と譯が違ふだらうぜ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　たとひ幾らにならうとも、人の僞筆をかいて金儲けをする。そんな曲つたことが出來ると思ふか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　それではおまへはやつぱり飢死をする積りか。それとも可愛い娘を賣るつもりか。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は默つてゐる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　それともむざ／＼娘を殺して、おまへも一緒に死ぬ積りか。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫は矢はり默つてゐる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　どう考へても俺の指圖に附いた方が利口らしいな。あゝ、あんまり饒舌つたので喉が渇いて來た。（庭の雪を掬つて再び飮む。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　幾度云つても同じことだ。おまへのやうな人間を相手にしてはゐられない。頼むから歸つてくれ。（縁にあがる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　頼まなくてももう歸るよ。宿無しでも寢るところは何處にかある。久振りで俳諧の話でもしようと思つたら、とんだ喧嘩になつてしまつた。はゝゝゝゝゝ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（少し考へる。）むかしのお前なら、昔の俺なら、かう云ふ雪のふる晩に、しんみりとした心持で、ゆつくり俳諧の話でも出來るのだがな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　今だつて出來るのだが……。まあ、いゝや。これでお別れとしよう。（菰を被て手拭をかぶる。）たしか<span type="ruby"><span type="rb">其角</span><span type="rp">（</span><span type="rt">きかく</span><span type="rp">）</span></span>の句にあつたな。「なき骸を笠にかくすや枯尾花」おれの姿もそれに似てゐるやうだな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　おれはあんまり好きではないが、江戸の其角はまつたく器用だな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　些と小細工をするが、彼奴なか／＼うまいことを云ふよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（釣り込まれて起つ。）おまへは此頃一句もないのか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　このあひだの晩、長柄の<span type="ruby"><span type="rb">堤</span><span type="rp">（</span><span type="rt">どて</span><span type="rp">）</span></span>の下に寢てゐると、夜中に霜が眞白よ。（坐る。）おれも眼が醒めてびつくりした。そこでつい一句出來たのよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　なんといふ句だ。（縁を降りる。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　「隱れ<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">が</span><span type="rp">）</span></span>や寢覺め<span rend="sesame_dot" rendition="em">さらり</span>と笹の霜」</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　「隱れ家や寢覺め<span rend="sesame_dot" rendition="em">さらり</span>と笹の霜」むゝ、面白い、面白いな。（これも思はず雪の中に坐る。）いや、おれもこの間の朝、長柄の堤を通つて一句浮んだよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　やつぱり長柄の堤で出來たのか。して、その句は……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　「川越えて赤き足ゆく枯柳」</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　なるほど。（うなづく。）赤き足ゆくが見つけ所だな。面白いな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　面白いか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　面白い。かうして見ると、鬼貫はまだ殺したくないな。（笑ふ。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　死にたくないな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　いくら喧嘩をしても、おまへと俺とはやつぱり友達だ。あゝ、久振りで面白かつた。（起ちあがる。）どれ、歸らうか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　もう歸るか。（これも起ち上る。）</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">路通　　好鹽梅に雪も止んで、薄月が出たやうだ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（路通は下の方へあゆみ去る。雪を照す月の光青し。鬼貫はあとを見送りて縁に腰をかける。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　おれは一圖に怒つたが、彼奴はやつぱり好いことを教へてくれたのかしら。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（鬼貫はぢつと考へてゐる。ばさ／＼と雪の落ちる音して、竹藪の撓みし竹は雪をはね返して立つ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（見かへる。）おれも生きることを考へなければならないなあ。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（奧よりお妙出づ。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（そこらを見て。）おや、お客樣は……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　お客はもう歸つた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　お粥がやうやく出來ましたのに、もうお歸りになりましたか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　さうだ、さうだ。むやみに腹を立てたので、粥のことをすつかり忘れてゐた。遠くは行くまい。追掛けて呼び戻して來てくれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい、はい。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙はすぐ庭に降りて行きかゝる。）
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　（よび止める。）これ、これ、路通に逢つたらばな。粥のことばかりでなく、まだ外にもお話がありますからと云つてな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　お話のこと……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　あの……。（少し小聲で。）短册のことだと云へばすぐに判る。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　（不安らしく。）お父さま。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">鬼貫　　いゝから早く行つて來い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 4em; text-indent: -4em;">お妙　　はい、はい。</span>
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">（お妙は出てゆく。鬼貫は彼の書置をひき裂きて爐に投げ込む。月の光あかるく、雪の竹の刎ねかへる音。）
+</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">――幕――</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

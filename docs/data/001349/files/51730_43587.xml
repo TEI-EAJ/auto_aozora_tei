@@ -1,0 +1,1038 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>古事記</title>
+        <author>武田祐吉</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2011-06-21">作成</resp><resp /><note>
+<lb />
+底本：「古事記」角川文庫、角川書店<lb />
+　　　1956（昭和31）年5月20日初版発行<lb />
+　　　1965（昭和40）年9月20日20版発行<lb />
+※底本は索引のみ歴史的かなづかいで、その他は新かなづかいです。なお拗音・促音は小書きではありません。<lb />
+入力：川山隆<lb />
+校正：しだひろし<lb />
+<date when="2011-06-21">2011年6月21日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>川山隆</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>しだひろし</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>古事記</title><author>武田祐吉</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">歌謠各句索引凡例</span></span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、古事記の全歌謠のすべての句の索引である。一つの歌謠に同一の句が二句以上あるものは、一つだけ出した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、「い」と「ゐ」、「え」と「ゑ」、「お」と「を」とは、それぞれ合併した。所在を示す數字は、歌謠の番號によつた。この番號は、本書の書き下し文の各歌謠の終りに記してある。</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">あ</span></span></span>
+<lb />
+ああ、しやこしや　　　　　　一〇<lb />
+あをかき　　　　　　　　　　三一<lb />
+あをきみけしを　　　　　　　五<lb />
+あをによし　　　　　　　　　五九<lb />
+あをやまに　　　　　　　　　二　四<lb />
+あがおほくにぬし　　　　　　六<lb />
+あかしてとほれ　　　　　　　八八<lb />
+あがせのきみは　　　　　　　六三<lb />
+あかだまは　　　　　　　　　八<lb />
+あがはしづまに　　　　　　　六〇<lb />
+あがみしこに　　　　　　　　四三<lb />
+あがもふいも　　　　　　　　九一<lb />
+あがもふつま　　　　　　　　九一<lb />
+あからをとめを　　　　　　　四四<lb />
+あきづしまとふ　　　　　　　九八<lb />
+あきづはやくひ　　　　　　　九八<lb />
+あぐらにいまし　　　　　　　九八<lb />
+あぐらゐの　　　　　　　　　九七<lb />
+あさあめの　　　　　　　　　五<lb />
+あさしのはら　　　　　　　　三六<lb />
+あさずをせ　　　　　　　　　四〇<lb />
+あさぢはら　　　　　　　　　一一二<lb />
+あさとには　　　　　　　　　一〇五<lb />
+あさひの　　　　　　　　　　四　一〇一<lb />
+あしひきの　　　　　　　　　七九<lb />
+あしはらの　　　　　　　　　二〇<lb />
+あしふますな　　　　　　　　八八<lb />
+あしよゆくな　　　　　　　　三六<lb />
+あすよりは　　　　　　　　　一一三<lb />
+あせを　　　　　　　　　　　三〇　一〇五<lb />
+あそばしし　　　　　　　　　九九<lb />
+あそびくる　　　　　　　　　一〇九<lb />
+あたねつき　　　　　　　　　五<lb />
+あたらすがしめ　　　　　　　六五<lb />
+あたらすがはら　　　　　　　六五<lb />
+あぢしきたかひこねのかみぞ　七<lb />
+あぢまさの　　　　　　　　　五四<lb />
+あづさゆみ　　　　　　　　　九〇<lb />
+あづさゆみまゆみ　　　　　　五二<lb />
+あづまをおへり　　　　　　　一〇一<lb />
+あなだまはや　　　　　　　　七<lb />
+あはししをとめ　　　　　　　四三<lb />
+あはししをみな　　　　　　　四三<lb />
+あはしま　　　　　　　　　　五四<lb />
+あはふには　　　　　　　　　一二<lb />
+あはもよ　　　　　　　　　　六<lb />
+あはれ　　　　　　　　　　　九二<lb />
+あひおもはずあらむ　　　　　六一<lb />
+あひねのはまの　　　　　　　八八<lb />
+あひまくらまく　　　　　　　四六<lb />
+あふみのおきめ　　　　　　　一一三<lb />
+あふみのうみに　　　　　　　三九<lb />
+あふやをとめを　　　　　　　七八<lb />
+あまだむ　　　　　　　　　　八四　八五<lb />
+あまとぶ　　　　　　　　　　八六<lb />
+あまはせづかひ　　　　　　　二　三<lb />
+あむかきつき　　　　　　　　九八<lb />
+あめをおへり　　　　　　　　一〇一<lb />
+あめたちやめむ　　　　　　　八二<lb />
+あめつつ　　　　　　　　　　一八<lb />
+あめなるや　　　　　　　　　七<lb />
+あめにかける　　　　　　　　六九<lb />
+あめのかぐやま　　　　　　　二八<lb />
+あやがきの　　　　　　　　　六<lb />
+あやに　　　　　　　　　　　四　四一<lb />
+あやにかしこし　　　　　　　一〇一<lb />
+あゆひのこすず　　　　　　　八三<lb />
+あらそはず　　　　　　　　　四七<lb />
+あらたまの　　　　　　　　　二九<lb />
+ありをの　　　　　　　　　　九九<lb />
+ありかよはせ　　　　　　　　二<lb />
+ありぎぬの　　　　　　　　　一〇一<lb />
+ありたたし　　　　　　　　　二<lb />
+ありと　　　　　　　　　　　九一<lb />
+ありときかして　　　　　　　二<lb />
+ありときこして　　　　　　　二<lb />
+あれこそは　　　　　　　　　七三<lb />
+あれはおもへど　　　　　　　二八<lb />
+あれはすれど　　　　　　　　二八<lb />
+あれはわすれじ　　　　　　　一三<lb />
+あわゆきの　　　　　　　　　四　六<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">い　ゐ</span></span></span>
+<lb />
+いをしなせ　　　　　　　　　六<lb />
+いかくるをかを　　　　　　　一〇〇<lb />
+いがへりこむぞ　　　　　　　八七<lb />
+いきづきのみや　　　　　　　一〇一<lb />
+いきらずぞくる　　　　　　　五二<lb />
+いきらむと　　　　　　　　　五二<lb />
+ゐぐひうちが　　　　　　　　四五<lb />
+いくひをうち　　　　　　　　九一<lb />
+いくひには　　　　　　　　　九一<lb />
+いくみだけ　　　　　　　　　九二<lb />
+いくみだけおひ　　　　　　　九二<lb />
+いくみはねず　　　　　　　　九二<lb />
+いくよかねつる　　　　　　　二六<lb />
+いくりに　　　　　　　　　　七五<lb />
+いざあぎ　　　　　　　　　　三五<lb />
+いざこども　　　　　　　　　四四<lb />
+いざささば　　　　　　　　　四四<lb />
+いさよふ　　　　　　　　　　三七<lb />
+いしきあはむかも　　　　　　六〇<lb />
+いしけいしけ　　　　　　　　六〇<lb />
+いしけとりやま　　　　　　　六〇<lb />
+いしたふや　　　　　　　　　二　三<lb />
+いしつついもち　　　　　　　一一<lb />
+いすくはし　　　　　　　　　一〇<lb />
+いせのうみの　　　　　　　　一四<lb />
+いそづたふ　　　　　　　　　三八<lb />
+いそのさきおちず　　　　　　六<lb />
+いそひをるかも　　　　　　　四三<lb />
+いたでおはずは　　　　　　　三九<lb />
+いたなかば　　　　　　　　　八四<lb />
+いたにもが　　　　　　　　　一〇五<lb />
+いちゐの　　　　　　　　　　四三<lb />
+いちさかき　　　　　　　　　一〇<lb />
+いちぢしま　　　　　　　　　四三<lb />
+いちのつかさ　　　　　　　　一〇二<lb />
+いつかしがもと　　　　　　　九三<lb />
+いづくにいたる　　　　　　　四三<lb />
+いづくのかに　　　　　　　　四三<lb />
+いづもたけるが　　　　　　　二四<lb />
+いづもやへがき　　　　　　　一<lb />
+いでたちて　　　　　　　　　五四<lb />
+いとこやの　　　　　　　　　五<lb />
+いとらむと　　　　　　　　　五二<lb />
+いながらに　　　　　　　　　三五<lb />
+いなさのやまの　　　　　　　一五<lb />
+ゐねてましもの　　　　　　　九四<lb />
+ゐねてむのちは　　　　　　　八〇<lb />
+いのちの　　　　　　　　　　三二<lb />
+いのちは　　　　　　　　　　三<lb />
+いはかきかねて　　　　　　　七〇<lb />
+いはたたす　　　　　　　　　四〇<lb />
+いはなさむを　　　　　　　　四<lb />
+いはばこそよ　　　　　　　　九一<lb />
+いはひもとほり　　　　　　　一四<lb />
+いへにもゆかめ　　　　　　　九一<lb />
+いほちもがも　　　　　　　　一〇〇<lb />
+いまうたばよらし　　　　　　一一<lb />
+いまこそは　　　　　　　　　三<lb />
+いますけにこね　　　　　　　一五<lb />
+いまぞくやしき　　　　　　　四五<lb />
+いまだきかず　　　　　　　　七三<lb />
+いまだとかね　　　　　　　　二<lb />
+いまだとかずて　　　　　　　二<lb />
+いもをおもひで　　　　　　　五二<lb />
+いもとのぼれば　　　　　　　七一<lb />
+いものみこと　　　　　　　　五<lb />
+いもはわすれじ　　　　　　　九<lb />
+いやをこにして　　　　　　　四五<lb />
+いやさきだてる　　　　　　　一七<lb />
+いやさやしきて　　　　　　　二〇<lb />
+いゆきたがひ　　　　　　　　二三<lb />
+いゆきまもらひ　　　　　　　一五<lb />
+いよりだたし　　　　　　　　一〇五<lb />
+いよりだたす　　　　　　　　一〇五<lb />
+いらなけく　　　　　　　　　五二<lb />
+いりえのはちす　　　　　　　九六<lb />
+いりをりとも　　　　　　　　一一<lb />
+いりたたずあり　　　　　　　一〇八<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">う</span></span></span>
+<lb />
+うゑぐさ　　　　　　　　　　三七<lb />
+うゑしはじかみ　　　　　　　一二<lb />
+うかがはく　　　　　　　　　二三<lb />
+うかひがとも　　　　　　　　一五<lb />
+うきしあづら　　　　　　　　一〇一<lb />
+うしろでは　　　　　　　　　四三<lb />
+うずすまりゐて　　　　　　　一〇三<lb />
+うずにさせ　　　　　　　　　三二<lb />
+うすにたてて　　　　　　　　四一<lb />
+うたきかしこみ　　　　　　　九九<lb />
+うたたけだに　　　　　　　　四三<lb />
+うただのし　　　　　　　　　四一<lb />
+うだの　　　　　　　　　　　一〇<lb />
+うたひつつ　　　　　　　　　四一<lb />
+うちしおほね　　　　　　　　六二　六四<lb />
+うちてしやまむ　　　　　　　一一―一四<lb />
+うちのあそ　　　　　　　　　七二<lb />
+うぢのわたりに　　　　　　　五一　五二<lb />
+うちみる　　　　　　　　　　六<lb />
+うちやめこせね　　　　　　　二<lb />
+うちわたす　　　　　　　　　六四<lb />
+うつやあられの　　　　　　　八〇<lb />
+うづらとり　　　　　　　　　一〇三<lb />
+うながせる　　　　　　　　　七<lb />
+うなかぶし　　　　　　　　　五<lb />
+うねびやま　　　　　　　　　二一　二二<lb />
+うはなりが　　　　　　　　　一〇<lb />
+うべしこそ　　　　　　　　　七三<lb />
+うべなうべな　　　　　　　　二九<lb />
+うまらに　　　　　　　　　　四九<lb />
+うみがは　　　　　　　　　　三七<lb />
+うみがゆけば　　　　　　　　三七<lb />
+うらこほしけむ　　　　　　　一一一<lb />
+うらすのとりぞ　　　　　　　三<lb />
+うるはし　　　　　　　　　　三一<lb />
+うるはしと　　　　　　　　　八一<lb />
+うるはしみおもふ　　　　　　四七<lb />
+うれたくも　　　　　　　　　二<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">え　ゑ</span></span></span>
+<lb />
+ええ、しやこしや　　　　　　一一<lb />
+えをしまかむ　　　　　　　　一七<lb />
+ゑぐしに　　　　　　　　　　五〇<lb />
+えのうらばは　　　　　　　　一〇一<lb />
+ゑみさかえきえ　　　　　　　四五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">お　を</span></span></span>
+<lb />
+おいにけるかも　　　　　　　九四<lb />
+おきつとり　　　　　　　　　五　九<lb />
+おきべには　　　　　　　　　五三<lb />
+おきめくらしも　　　　　　　一一二<lb />
+おきめもや　　　　　　　　　一一三<lb />
+おさかの　　　　　　　　　　一一<lb />
+をさへひかれど　　　　　　　八<lb />
+おしてるや　　　　　　　　　五四<lb />
+おすひをも　　　　　　　　　二<lb />
+おすひのすそに　　　　　　　二八　二九<lb />
+おそぶらひ　　　　　　　　　二<lb />
+をだて　　　　　　　　　　　五九<lb />
+をだてろかも　　　　　　　　四三<lb />
+をだにをすぎて　　　　　　　一一二<lb />
+おちなづさひ　　　　　　　　一〇一<lb />
+おぢなみこそ　　　　　　　　一〇七<lb />
+おちにきと　　　　　　　　　八三<lb />
+おちふらばへ　　　　　　　　一〇一<lb />
+をつのさきなる　　　　　　　三〇<lb />
+おとたなばたの　　　　　　　七<lb />
+をとつはたで　　　　　　　　一〇六<lb />
+をとめども　　　　　　　　　一六<lb />
+をとめに　　　　　　　　　　一九<lb />
+をとめの　　　　　　　　　　二　三四　一〇〇<lb />
+おのがをを　　　　　　　　　二三<lb />
+おのごろじま　　　　　　　　五四<lb />
+をにいませば　　　　　　　　六<lb />
+をはなし　　　　　　　　　　六<lb />
+をはりに　　　　　　　　　　三〇<lb />
+おひしに　　　　　　　　　　一四<lb />
+おひだてる　　　　　　　　　一三　五八　一〇二<lb />
+おふをよし　　　　　　　　　一一一<lb />
+をぶねつららく　　　　　　　五三<lb />
+おほゐこが　　　　　　　　　六一<lb />
+おほゐこがはら　　　　　　　六一<lb />
+おほをには　　　　　　　　　九〇<lb />
+おほをよし　　　　　　　　　九〇<lb />
+おほかはらの　　　　　　　　三七<lb />
+おほきみを　　　　　　　　　八七<lb />
+おほきみし　　　　　　　　　六六<lb />
+おほきみの　　　　　　　　　一〇八<lb />
+おほきみろかも　　　　　　　五八<lb />
+おほさかに　　　　　　　　　七八<lb />
+おほさざき　　　　　　　　　四八<lb />
+おほたくみ　　　　　　　　　一〇七<lb />
+おほまへをまへすくねが　　　八二<lb />
+おほまへにまをす　　　　　　九八<lb />
+おほみやの　　　　　　　　　一〇六<lb />
+おほみやひとは　　　　　　　一〇三<lb />
+おほむろやに　　　　　　　　一一<lb />
+おみのをとめ　　　　　　　　一〇四<lb />
+おみのこの　　　　　　　　　一〇八<lb />
+おもひづまあはれ　　　　　　九〇<lb />
+をむろがたけに　　　　　　　九八<lb />
+をゆきあへ　　　　　　　　　一〇三<lb />
+おろすはた　　　　　　　　　六七<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">か</span></span></span>
+<lb />
+かがなべて　　　　　　　　　二七<lb />
+かがみをかけ　　　　　　　　九一<lb />
+かがみなす　　　　　　　　　九一<lb />
+かきがひに　　　　　　　　　八八<lb />
+かきみる　　　　　　　　　　六<lb />
+かきもとに　　　　　　　　　一三<lb />
+かきひくや　　　　　　　　　七五<lb />
+かぎろひの　　　　　　　　　七七<lb />
+かくのごと　　　　　　　　　九八<lb />
+かぐはし　　　　　　　　　　四四<lb />
+かくもがと　　　　　　　　　四三<lb />
+かくよりこね　　　　　　　　八二<lb />
+かけはなく　　　　　　　　　二<lb />
+かしがもと　　　　　　　　　九三<lb />
+かしのふに　　　　　　　　　四九<lb />
+かしはらをとめ　　　　　　　九三<lb />
+かぜふかむとす　　　　　　　二一<lb />
+かぜふかむとぞ　　　　　　　二二<lb />
+かたくとらせ　　　　　　　　一〇四<lb />
+かたりごとも　　　　　　　　二―五　一〇一―一〇三<lb />
+かつがつも　　　　　　　　　一七<lb />
+かづきいきづき　　　　　　　四三<lb />
+かづきせなわ　　　　　　　　三九<lb />
+かづのをみれば　　　　　　　四二<lb />
+かづらき　　　　　　　　　　五九<lb />
+かなしけく　　　　　　　　　五二<lb />
+かなすきも　　　　　　　　　一〇〇<lb />
+かなとかげ　　　　　　　　　八二<lb />
+かはのべに　　　　　　　　　五八<lb />
+かはのぼり　　　　　　　　　五八<lb />
+かぶつく　　　　　　　　　　四三<lb />
+かみけむひとは　　　　　　　四一<lb />
+かみけれかも　　　　　　　　四一<lb />
+かみしおほみき　　　　　　　四九<lb />
+かみしみきに　　　　　　　　五〇<lb />
+かみつせに　　　　　　　　　九一<lb />
+かみのごと　　　　　　　　　四六<lb />
+かみのみこと　　　　　　　　三　四<lb />
+かみのみことは　　　　　　　二<lb />
+かみのみことや　　　　　　　六<lb />
+かみのみてもち　　　　　　　九七<lb />
+かみのみやひと　　　　　　　九五<lb />
+かみらひともと　　　　　　　一二<lb />
+かむかぜの　　　　　　　　　一四<lb />
+かむほぎ　　　　　　　　　　四〇<lb />
+かもがと　　　　　　　　　　四三<lb />
+かもどくしまに　　　　　　　九<lb />
+からぬを　　　　　　　　　　七五<lb />
+かりこむと　　　　　　　　　七二　七三<lb />
+かりごもの　　　　　　　　　八一<lb />
+かりはこむらし　　　　　　　七四<lb />
+かるをとめ　　　　　　　　　八五<lb />
+かるをとめども　　　　　　　八五<lb />
+かるのをとめ　　　　　　　　八四<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">き</span></span></span>
+<lb />
+きいりをり　　　　　　　　　一一<lb />
+きいりまゐくれ　　　　　　　六四<lb />
+きざしはとよむ　　　　　　　二<lb />
+きくや　　　　　　　　　　　七二<lb />
+きこえしかども　　　　　　　四六<lb />
+きこえむときは　　　　　　　八六<lb />
+きこしもちをせ　　　　　　　四九<lb />
+きぬきせましを　　　　　　　三〇<lb />
+きびひとと　　　　　　　　　五五<lb />
+きみをおもひで　　　　　　　五二<lb />
+きみがゆき　　　　　　　　　八九<lb />
+きみがよそひし　　　　　　　八<lb />
+きみまちがたに　　　　　　　二九<lb />
+きもむかふ　　　　　　　　　六一<lb />
+きれむしばかき　　　　　　　一一〇<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">く</span></span></span>
+<lb />
+くちひひく　　　　　　　　　一三<lb />
+くさかえの　　　　　　　　　九六<lb />
+くさかべの　　　　　　　　　九二<lb />
+くぢらさやる　　　　　　　　一〇<lb />
+くしのかみ　　　　　　　　　四〇<lb />
+くにをもしのはめ　　　　　　九一<lb />
+くにのほもみゆ　　　　　　　四二<lb />
+くにのまほろば　　　　　　　三一<lb />
+くにへくだらす　　　　　　　五三<lb />
+くはしめを　　　　　　　　　二<lb />
+くぶつつい　　　　　　　　　一一<lb />
+くまがしがはを　　　　　　　三二<lb />
+くめのこらが　　　　　　　　一一　一二　一三<lb />
+くもゐたちくも　　　　　　　三三<lb />
+くもたちわたり　　　　　　　二一<lb />
+くもばなれ　　　　　　　　　五六<lb />
+くらはしやまを　　　　　　　七〇<lb />
+くらはしやまは　　　　　　　七一<lb />
+くろきみけしを　　　　　　　五<lb />
+くろざやの　　　　　　　　　五三<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">け</span></span></span>
+<lb />
+けながくなりぬ　　　　　　　八九<lb />
+けふもかも　　　　　　　　　一〇三<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">こ</span></span></span>
+<lb />
+こをば　　　　　　　　　　　二　三　四　五　一〇一　一〇二　一〇三<lb />
+こきしひゑね　　　　　　　　一〇<lb />
+こきだひゑね　　　　　　　　一〇<lb />
+こくはもち　　　　　　　　　六二　六四<lb />
+ここにおもひで　　　　　　　五二<lb />
+こころをだにか　　　　　　　六一<lb />
+こころをゆらみ　　　　　　　一〇八<lb />
+こころはもへど　　　　　　　五二<lb />
+こしなづむ　　　　　　　　　三六　三七<lb />
+こしのくにに　　　　　　　　二<lb />
+こしも　　　　　　　　　　　一〇一<lb />
+こしよろし　　　　　　　　　五<lb />
+こぞこそは　　　　　　　　　七九<lb />
+こだかる　　　　　　　　　　一〇二<lb />
+こちごちの　　　　　　　　　九二<lb />
+こちのやまと　　　　　　　　九二<lb />
+ことをこそ　　　　　　　　　六五　八七<lb />
+ことなぐし　　　　　　　　　五〇<lb />
+ことにつくり　　　　　　　　七五<lb />
+ことの　　　　　　　　　　　二　三　四　五　一〇一　一〇二　一〇三<lb />
+このたけちに　　　　　　　　一〇二<lb />
+こなみが　　　　　　　　　　一〇<lb />
+こにかきたれ　　　　　　　　四三<lb />
+このかにや　　　　　　　　　四三<lb />
+このとりも　　　　　　　　　二<lb />
+このねの　　　　　　　　　　一〇一<lb />
+このはさやぎぬ　　　　　　　二一<lb />
+このはさやげる　　　　　　　二二<lb />
+このまより　　　　　　　　　一五<lb />
+このみきを　　　　　　　　　四一<lb />
+このみきの　　　　　　　　　四一<lb />
+このみきは　　　　　　　　　四〇<lb />
+こはだをとめを　　　　　　　四六<lb />
+こはだをとめは　　　　　　　四七<lb />
+こはたのみちに　　　　　　　四三<lb />
+こもたず　　　　　　　　　　六五<lb />
+こもふさはず　　　　　　　　五<lb />
+こもりくの　　　　　　　　　九〇　九一<lb />
+こもりづの　　　　　　　　　五七<lb />
+こやるこやりも　　　　　　　九〇<lb />
+これはふさはず　　　　　　　五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">さ</span></span></span>
+<lb />
+さゐがはよ　　　　　　　　　二一<lb />
+さをとりに　　　　　　　　　五一<lb />
+さををには　　　　　　　　　九〇<lb />
+さがしけど　　　　　　　　　七一<lb />
+さがしくもあらず　　　　　　七一<lb />
+さがしみと　　　　　　　　　七〇<lb />
+さかしめを　　　　　　　　　二<lb />
+さかみづくらし　　　　　　　一〇三<lb />
+さがむのをのに　　　　　　　二五<lb />
+さぎりにたたむぞ　　　　　　五<lb />
+さけつしまみゆ　　　　　　　五四<lb />
+ささ　　　　　　　　　　　　四〇　四一<lb />
+ささがせる　　　　　　　　　一〇一<lb />
+さざきとらさね　　　　　　　六九<lb />
+ささなみぢを　　　　　　　　四三<lb />
+ささはに　　　　　　　　　　八〇<lb />
+さしけるしらに　　　　　　　四五<lb />
+さしぶを　　　　　　　　　　五八<lb />
+さしぶのき　　　　　　　　　五八<lb />
+さとびともゆめ　　　　　　　八三<lb />
+さねさし　　　　　　　　　　二五<lb />
+さねしさねてば　　　　　　　八一<lb />
+さねむとは　　　　　　　　　二八<lb />
+さのつとり　　　　　　　　　二<lb />
+さみなしにあはれ　　　　　　二四<lb />
+さやぐがしたに　　　　　　　六<lb />
+さやさや　　　　　　　　　　四八　七五<lb />
+さよばひに　　　　　　　　　二<lb />
+さわさわに　　　　　　　　　六四<lb />
+さわたるくび　　　　　　　　二八<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">し</span></span></span>
+<lb />
+しがあまり　　　　　　　　　七五<lb />
+しがあれば　　　　　　　　　一一一<lb />
+しがしたに　　　　　　　　　五八<lb />
+しがはなの　　　　　　　　　五八<lb />
+しがはの　　　　　　　　　　五八<lb />
+しぎはさやらず　　　　　　　一〇<lb />
+しぎわなはる　　　　　　　　一〇<lb />
+しけしきをやに　　　　　　　二〇<lb />
+ししの　　　　　　　　　　　九九<lb />
+ししふすと　　　　　　　　　九八<lb />
+ししまつと　　　　　　　　　九八<lb />
+したがたく　　　　　　　　　一〇四<lb />
+したたにも　　　　　　　　　八五<lb />
+しただみの　　　　　　　　　一四<lb />
+したどひに　　　　　　　　　七九<lb />
+したなきに　　　　　　　　　七九<lb />
+したなきになく　　　　　　　八四<lb />
+したの　　　　　　　　　　　一〇五<lb />
+したびをわしせ　　　　　　　八九<lb />
+したよはへつつ　　　　　　　五七<lb />
+しづえの　　　　　　　　　　一〇一<lb />
+しづえは　　　　　　　　　　四四　一〇一<lb />
+しなだゆふ　　　　　　　　　四三<lb />
+しはには　　　　　　　　　　四三<lb />
+しびがはたでに　　　　　　　一〇九<lb />
+しびつくあまよ　　　　　　　一一一<lb />
+しびつくしび　　　　　　　　一一一<lb />
+しひひしなす　　　　　　　　四三<lb />
+しほせの　　　　　　　　　　一〇九<lb />
+しほにやき　　　　　　　　　七五<lb />
+しまつとり　　　　　　　　　一五<lb />
+しまにはぶらば　　　　　　　八七<lb />
+しまのさきざき　　　　　　　六<lb />
+しまもみゆ　　　　　　　　　五四<lb />
+しまりもとほし　　　　　　　一一〇<lb />
+しめごろもを　　　　　　　　五<lb />
+しもつえに　　　　　　　　　一〇一<lb />
+しもつせに　　　　　　　　　九一<lb />
+しらずともいはめ　　　　　　六二<lb />
+しらたまの　　　　　　　　　八<lb />
+しらにと　　　　　　　　　　二三<lb />
+しりつとよ　　　　　　　　　二三<lb />
+しろきただむき　　　　　　　四　六<lb />
+しろただむき　　　　　　　　六二<lb />
+しろたへの　　　　　　　　　九八<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">す</span></span></span>
+<lb />
+すゑふゆ　　　　　　　　　　四八<lb />
+すゑべは　　　　　　　　　　五二　九二<lb />
+すがたたみ　　　　　　　　　二〇<lb />
+すからがしたきの　　　　　　四八<lb />
+すきばぬるもの　　　　　　　一〇〇<lb />
+すくすくと　　　　　　　　　四三<lb />
+すくなみかみの　　　　　　　四〇<lb />
+すげはらといはめ　　　　　　六五<lb />
+すすこりが　　　　　　　　　五〇<lb />
+すみかたぶけり　　　　　　　一〇六<lb />
+すみかたぶけれ　　　　　　　一〇七<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">そ</span></span></span>
+<lb />
+そがはの　　　　　　　　　　一〇二<lb />
+そきをりとも　　　　　　　　五六<lb />
+そこにおもひで　　　　　　　五二<lb />
+そたたき　　　　　　　　　　四　六<lb />
+そできそなふ　　　　　　　　九八<lb />
+そにどりの　　　　　　　　　五<lb />
+そにぬぎうて　　　　　　　　五<lb />
+そねがもと　　　　　　　　　一二<lb />
+そねめつなぎて　　　　　　　一二<lb />
+そのあむを　　　　　　　　　九八<lb />
+そのおもひづま　　　　　　　九二<lb />
+そのこ　　　　　　　　　　　三二<lb />
+そのたかきなる　　　　　　　六一<lb />
+そのたちはや　　　　　　　　三四<lb />
+そのつづみ　　　　　　　　　四一<lb />
+そのなかつにを　　　　　　　四三<lb />
+そのはなの　　　　　　　　　一〇二<lb />
+そめきがしるに　　　　　　　五<lb />
+そらみつ　　　　　　　　　　七二　七三　九八<lb />
+そらはゆかず　　　　　　　　三六<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">た</span></span></span>
+<lb />
+たかきに　　　　　　　　　　一〇<lb />
+たかさじのを　　　　　　　　一六<lb />
+たがたねろかも　　　　　　　六七<lb />
+たかひかる　　　　　　　　　二九　七三　一〇一　一〇二　一〇三<lb />
+たかみや　　　　　　　　　　五九<lb />
+たかゆくや　　　　　　　　　六八　六九<lb />
+たぎまぢをのる　　　　　　　七八<lb />
+たくづのの　　　　　　　　　四　六<lb />
+たくぶすま　　　　　　　　　六<lb />
+たけのねの　　　　　　　　　一〇一<lb />
+たこむらに　　　　　　　　　九八<lb />
+たしだしに　　　　　　　　　八〇<lb />
+たしにはゐねず　　　　　　　九二<lb />
+たしみだけ　　　　　　　　　九二<lb />
+たしみだけおひ　　　　　　　九二<lb />
+たたかへば　　　　　　　　　一五<lb />
+たたきまながり　　　　　　　四　六<lb />
+たたなづく　　　　　　　　　三一<lb />
+たたなめて　　　　　　　　　一五<lb />
+ただにあはむと　　　　　　　一九<lb />
+ただにはのらず　　　　　　　七八<lb />
+ただにむかへる　　　　　　　三〇<lb />
+たたみこも　　　　　　　　　三二　九二<lb />
+たたみといはめ　　　　　　　八七<lb />
+たちかあれなむ　　　　　　　六五<lb />
+たちがをも　　　　　　　　　二<lb />
+たちさかゆる　　　　　　　　九二<lb />
+たちそばの　　　　　　　　　一〇<lb />
+たちはけましを　　　　　　　三〇<lb />
+たぢひのに　　　　　　　　　七六<lb />
+たづがねの　　　　　　　　　八六<lb />
+たつごもも　　　　　　　　　七六<lb />
+たてまつらせ　　　　　　　　六　一〇二<lb />
+たてりたてりも　　　　　　　九〇<lb />
+たにかもよらむ　　　　　　　九五<lb />
+たの　　　　　　　　　　　　三五<lb />
+たのしくもあるか　　　　　　五五<lb />
+たふとくありけり　　　　　　八<lb />
+たまきはる　　　　　　　　　七二<lb />
+たまでさしまき　　　　　　　四　六<lb />
+たまのみすまる　　　　　　　七<lb />
+たれをしまかむ　　　　　　　一六<lb />
+たれぞ　　　　　　　　　　　九八<lb />
+たわやかひなを　　　　　　　二八<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi170">ち</span></span></span>
+<lb />
+ちどりましとど　　　　　　　一八<lb />
+ちばの　　　　　　　　　　　四二<lb />
+ちはやひと　　　　　　　　　五二<lb />
+ちはやぶる　　　　　　　　　五一<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi180">つ</span></span></span>
+<lb />
+つきあまし　　　　　　　　　九五<lb />
+つきがえは　　　　　　　　　一〇一<lb />
+つきたたなむよ　　　　　　　二九<lb />
+つきたちにけり　　　　　　　二九<lb />
+つぎねふ　　　　　　　　　　六二　六四<lb />
+つぎねふや　　　　　　　　　五八　五九<lb />
+つきはきへゆく　　　　　　　二九<lb />
+つくはをすぎて　　　　　　　二六<lb />
+つくやたまがき　　　　　　　九五<lb />
+つくゆみの　　　　　　　　　九〇<lb />
+つつきのみやに　　　　　　　六三<lb />
+つづらさはまき　　　　　　　二四<lb />
+つぬがのかに　　　　　　　　四三<lb />
+つまがいへのあたり　　　　　七七<lb />
+つまごみに　　　　　　　　　一<lb />
+つまたてりみゆ　　　　　　　一〇九<lb />
+つまのみこと　　　　　　　　五<lb />
+つまはなし　　　　　　　　　六<lb />
+つままぎかねて　　　　　　　二<lb />
+つまもたせらめ　　　　　　　六<lb />
+つるぎのたち　　　　　　　　三四<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi190">て</span></span></span>
+<lb />
+てりいまし　　　　　　　　　五八<lb />
+てりいます　　　　　　　　　一〇二<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">と</span></span></span>
+<lb />
+とかまに　　　　　　　　　　二八<lb />
+とこのべに　　　　　　　　　三四<lb />
+とこよにいます　　　　　　　四〇<lb />
+とこよにもがも　　　　　　　九七<lb />
+ところづら　　　　　　　　　三五<lb />
+としがきふれば　　　　　　　二九<lb />
+となかの　　　　　　　　　　七五<lb />
+とひしきみはも　　　　　　　二五<lb />
+とひたまへ　　　　　　　　　七三<lb />
+とほとほし　　　　　　　　　二<lb />
+ともしきろかも　　　　　　　九六<lb />
+ともにしつめば　　　　　　　五五<lb />
+とよほぎ　　　　　　　　　　四〇<lb />
+とよみき　　　　　　　　　　六　一〇二<lb />
+とりゐがらし　　　　　　　　四四<lb />
+とりもつかひぞ　　　　　　　八六<lb />
+とりよそひ　　　　　　　　　五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">な</span></span></span>
+<lb />
+なをきて　　　　　　　　　　六<lb />
+なをりをみれば　　　　　　　一〇九<lb />
+ながいへせこそ　　　　　　　六四<lb />
+ながけせる　　　　　　　　　二八<lb />
+ながさだめる　　　　　　　　九〇<lb />
+なかじとは　　　　　　　　　五<lb />
+なかつえに　　　　　　　　　一〇一<lb />
+なかつえの　　　　　　　　　四四　一〇一<lb />
+なかつえは　　　　　　　　　一〇一<lb />
+ながなかさまく　　　　　　　五<lb />
+なくなるとりか　　　　　　　二<lb />
+なこそは　　　　　　　　　　六　七二<lb />
+なこはさば　　　　　　　　　一〇<lb />
+なこひきこし　　　　　　　　四<lb />
+なしせたまひそ　　　　　　　三<lb />
+なすやいたとを　　　　　　　二<lb />
+なづきの　　　　　　　　　　三五<lb />
+なつくさの　　　　　　　　　八八<lb />
+なづのきの　　　　　　　　　七五<lb />
+などさけるとめ　　　　　　　一八<lb />
+などりにあらむを　　　　　　三<lb />
+ななゆく　　　　　　　　　　一六<lb />
+なにおはむと　　　　　　　　九八<lb />
+なにはのさきよ　　　　　　　五四<lb />
+なはいふとも　　　　　　　　五<lb />
+なみだぐましも　　　　　　　六三<lb />
+ならをすぎ　　　　　　　　　五九<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">に</span></span></span>
+<lb />
+にぐろきゆゑ　　　　　　　　四三<lb />
+にげのぼりし　　　　　　　　九九<lb />
+にこやがしたに　　　　　　　六<lb />
+にしふきあげて　　　　　　　五六<lb />
+にはすずめ　　　　　　　　　一〇三<lb />
+にはつとり　　　　　　　　　二<lb />
+にひなへやに　　　　　　　　一〇一　一〇二<lb />
+にひばり　　　　　　　　　　二六<lb />
+にほどりの　　　　　　　　　三九<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">ぬ</span></span></span>
+<lb />
+ぬえくさの　　　　　　　　　三<lb />
+ぬえはなきぬ　　　　　　　　二<lb />
+ぬすみしせむと　　　　　　　二三<lb />
+ぬてゆらぐも　　　　　　　　一一二<lb />
+ぬなはくり　　　　　　　　　四五<lb />
+ぬばたまの　　　　　　　　　四　五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">ね</span></span></span>
+<lb />
+ねしくをしぞも　　　　　　　四七<lb />
+ねじろの　　　　　　　　　　六二<lb />
+ねだるみや　　　　　　　　　一〇一<lb />
+ねばふみや　　　　　　　　　一〇一<lb />
+ねむとしりせば　　　　　　　七六<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">の</span></span></span>
+<lb />
+のちは　　　　　　　　　　　三<lb />
+のちもくみねむ　　　　　　　九二<lb />
+のちもとりみる　　　　　　　九〇<lb />
+のびるつみに　　　　　　　　四四<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">は</span></span></span>
+<lb />
+はかせるたち　　　　　　　　四八<lb />
+はけるたち　　　　　　　　　二四<lb />
+はさのやまの　　　　　　　　八四<lb />
+はしけやし　　　　　　　　　三三<lb />
+はしたての　　　　　　　　　七〇　七一<lb />
+はだあからけみ　　　　　　　四三<lb />
+はたたぎも　　　　　　　　　五<lb />
+はたはりだて　　　　　　　　九〇<lb />
+はつせのかはの　　　　　　　九一<lb />
+はつせのやまの　　　　　　　九〇<lb />
+はつには　　　　　　　　　　四三<lb />
+はとの　　　　　　　　　　　八四<lb />
+はなたちばなは　　　　　　　四四<lb />
+はなばちす　　　　　　　　　九六<lb />
+はなみは　　　　　　　　　　四三<lb />
+はにふざか　　　　　　　　　七七<lb />
+はびろ　　　　　　　　　　　五八　一〇二<lb />
+はびろくまかし　　　　　　　九二<lb />
+はひもとほろふ　　　　　　　一四　三五<lb />
+はへけくしらに　　　　　　　四五<lb />
+はまつちどり　　　　　　　　三八<lb />
+はまよゆかず　　　　　　　　三八<lb />
+はやけむひとし　　　　　　　五一<lb />
+はやぶさわけ　　　　　　　　六九<lb />
+はやぶさわけの　　　　　　　六八<lb />
+はらにある　　　　　　　　　六一<lb />
+はりのきのえだ　　　　　　　九九<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">ひ</span></span></span>
+<lb />
+ひがかくらば　　　　　　　　四<lb />
+ひがけるみや　　　　　　　　一〇一<lb />
+ひくことに　　　　　　　　　九七<lb />
+ひけたの　　　　　　　　　　九四<lb />
+ひけとりの　　　　　　　　　五<lb />
+ひこづらひ　　　　　　　　　二<lb />
+ひさかたの　　　　　　　　　二八<lb />
+ひしろのみやは　　　　　　　一〇一<lb />
+ひでるみや　　　　　　　　　一〇一<lb />
+ひとさはに　　　　　　　　　一一<lb />
+ひとしりぬべし　　　　　　　八四<lb />
+ひとつまつ　　　　　　　　　三〇<lb />
+ひととりがらし　　　　　　　四四<lb />
+ひとにありせば　　　　　　　三〇<lb />
+ひとはかゆとも　　　　　　　八〇<lb />
+ひともとすげは　　　　　　　六五　六六<lb />
+ひともとすすき　　　　　　　五<lb />
+ひとりをりとも　　　　　　　六六<lb />
+ひなをおへり　　　　　　　　一〇一<lb />
+ひにはとをかを　　　　　　　二七<lb />
+ひのみかど　　　　　　　　　一〇一<lb />
+ひのみこ　　　　　　　　　　二九　四八　七三　一〇一<lb />
+ひのみこに　　　　　　　　　一〇二<lb />
+ひのみやひと　　　　　　　　一〇三<lb />
+ひはぼそ　　　　　　　　　　二八<lb />
+ひばりは　　　　　　　　　　六九<lb />
+ひるつみに　　　　　　　　　四四<lb />
+ひるはくもとゐ　　　　　　　二二<lb />
+ひれとりかけて　　　　　　　一〇三<lb />
+ひろりいまし　　　　　　　　一〇二<lb />
+ひろりいますは　　　　　　　五八<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">ふ</span></span></span>
+<lb />
+ふたわたらす　　　　　　　　七<lb />
+ふなあまり　　　　　　　　　八七<lb />
+ふはやがしたに　　　　　　　六<lb />
+ふゆきの　　　　　　　　　　四八<lb />
+ふるくまが　　　　　　　　　三九<lb />
+ふれたつ　　　　　　　　　　七五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi290">へ</span></span></span>
+<lb />
+へぐりのやまの　　　　　　　三二　九二<lb />
+へつなみ　　　　　　　　　　五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">ほ</span></span></span>
+<lb />
+ほぎくるほし　　　　　　　　四〇<lb />
+ほぎもとほし　　　　　　　　四〇<lb />
+ほだりとらすこ　　　　　　　一〇四<lb />
+ほだりとらすも　　　　　　　一〇四<lb />
+ほだりとり　　　　　　　　　一〇四<lb />
+ほつえの　　　　　　　　　　一〇一<lb />
+ほつえは　　　　　　　　　　四四　一〇一<lb />
+ほつもり　　　　　　　　　　四四<lb />
+ほなかにたちて　　　　　　　二五<lb />
+ほむだの　　　　　　　　　　四八<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi310">ま</span></span></span>
+<lb />
+まかずけばこそ　　　　　　　六二<lb />
+まかむとは　　　　　　　　　二八<lb />
+まきさく　　　　　　　　　　一〇一<lb />
+まきし　　　　　　　　　　　五<lb />
+まきむくの　　　　　　　　　一〇一<lb />
+まくひをうち　　　　　　　　九一<lb />
+まくひには　　　　　　　　　九一<lb />
+まけるあをなも　　　　　　　五五<lb />
+まこそに　　　　　　　　　　七三<lb />
+まさづこわぎも　　　　　　　五三<lb />
+またけむひとは　　　　　　　三二<lb />
+またまをかけ　　　　　　　　九一<lb />
+またまで　　　　　　　　　　六<lb />
+またまなす　　　　　　　　　九一<lb />
+まつにはまたじ　　　　　　　八九<lb />
+まつぶさに　　　　　　　　　五<lb />
+まつりこし　　　　　　　　　四〇<lb />
+まなばしら　　　　　　　　　一〇三<lb />
+まひするをみな　　　　　　　九七<lb />
+まひつつ　　　　　　　　　　四一<lb />
+まひにはあてず　　　　　　　四三<lb />
+まへつとよ　　　　　　　　　二三<lb />
+まよがき　　　　　　　　　　四三<lb />
+まろがち　　　　　　　　　　四九<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi320">み</span></span></span>
+<lb />
+みえしのの　　　　　　　　　九八<lb />
+みえずかもあらむ　　　　　　一一三<lb />
+みおすひがね　　　　　　　　六八<lb />
+みがほしくには　　　　　　　五九<lb />
+みきぞ　　　　　　　　　　　四〇<lb />
+みきの　　　　　　　　　　　四一<lb />
+みしまにとき　　　　　　　　四三<lb />
+みすまるに　　　　　　　　　七<lb />
+みたに　　　　　　　　　　　七<lb />
+みだればみだれ　　　　　　　八一<lb />
+みちとへば　　　　　　　　　七八<lb />
+みちのしり　　　　　　　　　四六　四七<lb />
+みつぐりの　　　　　　　　　四三　四四<lb />
+みづたまうきに　　　　　　　一〇一<lb />
+みづたまる　　　　　　　　　四五<lb />
+みつみつし　　　　　　　　　一一　一二　一三<lb />
+みなこをろこをろに　　　　　一〇一<lb />
+みなそそく　　　　　　　　　一〇四<lb />
+みのおほけくを　　　　　　　一〇<lb />
+みのさかりびと　　　　　　　九六<lb />
+みのなけくを　　　　　　　　一〇<lb />
+みへのこが　　　　　　　　　一〇一<lb />
+みほどりの　　　　　　　　　四三<lb />
+みまきいりびこはや　　　　　　二三<lb />
+みもろに　　　　　　　　　　九五<lb />
+みもろの　　　　　　　　　　六一　九三<lb />
+みやのぼり　　　　　　　　　五九<lb />
+みやひととよむ　　　　　　　八三<lb />
+みやひとの　　　　　　　　　八三<lb />
+みやまがくりて　　　　　　　一一三<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi330">む</span></span></span>
+<lb />
+むかひをるかも　　　　　　　四三<lb />
+むかへをゆかむ　　　　　　　八九<lb />
+むしぶすま　　　　　　　　　六五<lb />
+むなみるとき　　　　　　　　五<lb />
+むらとりの　　　　　　　　　六<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi340">め</span></span></span>
+<lb />
+めどりの　　　　　　　　　　六七<lb />
+めにしあれば　　　　　　　　三　六<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi350">も</span></span></span>
+<lb />
+もちてこましもの　　　　　　七六<lb />
+もとつるぎ　　　　　　　　　四八<lb />
+もとには　　　　　　　　　　九二<lb />
+もとへは　　　　　　　　　　五二<lb />
+ものまをす　　　　　　　　　六三<lb />
+ももしきの　　　　　　　　　一〇三<lb />
+ももだる　　　　　　　　　　一〇一<lb />
+ももちだる　　　　　　　　　四二<lb />
+ももづたふ　　　　　　　　　四三　一一二<lb />
+ももながに　　　　　　　　　四　六<lb />
+もゆるいへむら　　　　　　　七七<lb />
+もゆるひの　　　　　　　　　二五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi360">や</span></span></span>
+<lb />
+やがたくとらせ　　　　　　　一〇四<lb />
+やがはえなす　　　　　　　　六四<lb />
+やけむしばかき　　　　　　　一一〇<lb />
+やくもたつ　　　　　　　　　一<lb />
+やしまくに　　　　　　　　　二<lb />
+やすくはだふれ　　　　　　　七九<lb />
+やすみしし　　　　　　　　　二九　九八　九九　一〇五<lb />
+やちほこの　　　　　　　　　二　三　四　六<lb />
+やつめさす　　　　　　　　　二四<lb />
+やたの　　　　　　　　　　　六五　六六<lb />
+やにはもみゆ　　　　　　　　四二<lb />
+やふじまり　　　　　　　　　一一〇<lb />
+やへがきつくる　　　　　　　一<lb />
+やへのしばかき　　　　　　　一〇八<lb />
+やほによし　　　　　　　　　一〇一<lb />
+やまがたに　　　　　　　　　五　五五<lb />
+やまごもれる　　　　　　　　三一<lb />
+やましろがはを　　　　　　　五八　五九<lb />
+やましろに　　　　　　　　　六〇<lb />
+やましろの　　　　　　　　　六三<lb />
+やましろめの　　　　　　　　六二　六四<lb />
+やまだをつくり　　　　　　　七九<lb />
+やまだかみ　　　　　　　　　七九<lb />
+やまたづの　　　　　　　　　八九<lb />
+やまとをすぎ　　　　　　　　五九<lb />
+やまとし　　　　　　　　　　三一<lb />
+やまとの　　　　　　　　　　五　一六　一〇二<lb />
+やまとのくにを　　　　　　　九八<lb />
+やまとのくにに　　　　　　　七二　七三<lb />
+やまとは　　　　　　　　　　三一<lb />
+やまとべに　　　　　　　　　五六　五七<lb />
+やまのかひに　　　　　　　　九二<lb />
+やみししの　　　　　　　　　九九<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi370">ゆ</span></span></span>
+<lb />
+ゆくはたがつま　　　　　　　五七<lb />
+ゆつまつばき　　　　　　　　五八　一〇二<lb />
+ゆふされば　　　　　　　　　二二<lb />
+ゆふとには　　　　　　　　　一〇五<lb />
+ゆふひの　　　　　　　　　　一〇一<lb />
+ゆゆしきかも　　　　　　　　九三<lb />
+ゆらのとの　　　　　　　　　七五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi380">よ</span></span></span>
+<lb />
+よくすをつくり　　　　　　　四九<lb />
+よくすに　　　　　　　　　　四九<lb />
+よこさらふ　　　　　　　　　四三<lb />
+よさみのいけの　　　　　　　四五<lb />
+よしときこさば　　　　　　　六六<lb />
+よにはここのよ　　　　　　　二七<lb />
+よのことごとに　　　　　　　九<lb />
+よのながひと　　　　　　　　七二　七三<lb />
+よはいでなむ　　　　　　　　四<lb />
+よばひに　　　　　　　　　　二<lb />
+よらしな　　　　　　　　　　四四<lb />
+よりねてとほれ　　　　　　　八五<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi390">わ</span></span></span>
+<lb />
+わが　　　　　　　　　　　　五九　九九<lb />
+わがゐねし　　　　　　　　　九<lb />
+わがいませばや　　　　　　　四三<lb />
+わがおきし　　　　　　　　　三四<lb />
+わがおほきみ　　　　　　　　二九<lb />
+わがおほきみの　　　　　　　六七　九八　九九　一〇五<lb />
+わかくさの　　　　　　　　　五　六<lb />
+わがくにみれば　　　　　　　五四<lb />
+わかくへに　　　　　　　　　九四<lb />
+わかくるすばら　　　　　　　九四<lb />
+わがけせる　　　　　　　　　二九<lb />
+わがこころ　　　　　　　　　三<lb />
+わがこころし　　　　　　　　四五<lb />
+わがさけるとめ　　　　　　　一九<lb />
+わがたたせれば　　　　　　　二<lb />
+わがたたみゆめ　　　　　　　八七<lb />
+わがたちみれば　　　　　　　七七<lb />
+わがつまはゆめ　　　　　　　八七<lb />
+わがてとらすも　　　　　　　七〇<lb />
+わがとふいもを　　　　　　　七九<lb />
+わがなくつまを　　　　　　　七九<lb />
+わがなとはさね　　　　　　　八六<lb />
+わがのぼれば　　　　　　　　五八　五九<lb />
+わがひけいなば　　　　　　　五<lb />
+わがふたりねし　　　　　　　二〇<lb />
+わがまつや　　　　　　　　　一〇<lb />
+わがみきならず　　　　　　　四〇<lb />
+わがみしこら　　　　　　　　四三<lb />
+わがむれいなば　　　　　　　五<lb />
+わがもこにこむ　　　　　　　五一<lb />
+わかやるむねを　　　　　　　四　六<lb />
+わがゆくみちの　　　　　　　四四<lb />
+わきづきが　　　　　　　　　一〇五<lb />
+わぎへのあたり　　　　　　　五九<lb />
+わぎへのかたよ　　　　　　　三三<lb />
+わたりせにたてる　　　　　　五二<lb />
+わどりにあらめ　　　　　　　三<lb />
+わにさのにを　　　　　　　　四三<lb />
+われゑひにけり　　　　　　　五〇<lb />
+われはやゑぬ　　　　　　　　一五<lb />
+われわすれめや　　　　　　　五六<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

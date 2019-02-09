@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>手紙</title>
+        <author>坂本龍馬</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-10-09">作成</resp><resp /><note>
+<lb />
+底本：「龍馬の手紙」宮地佐一郎、講談社学術文庫、講談社<lb />
+　　　2003（平成15）年12月10日第1刷発行<lb />
+　　　2008（平成20）年9月19日第7刷発行<lb />
+※底本手紙写真のキャプションに、（国立国会図書館蔵）とあります。<lb />
+※丸括弧付きの語句は、底本編集時に付け加えられたものです。<lb />
+※直筆の手紙の折り返しに合わせた改行は、省いて入力しました。<lb />
+入力：Yanajin33<lb />
+校正：Hanren<lb />
+<date when="2010-10-09">2010年10月9日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>Yanajin33</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>Hanren</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>手紙</title><author>坂本龍馬</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+三四郎及、龍も一所に大兄の御咄し相聞しに、芸州の方へは別段に三四郎が参るに不<span rend="kaeriten" rendition="sub">レ</span>及かのよふ存込ミ居候。<lb />
+然ニ今日右よふの手紙が参り候得ば、もし<span type="ruby"><span type="rb">つがふ</span><span type="rp">（</span><span type="rt">（都合）</span><span type="rp">）</span></span>あしくはあるまいかと存候へバ、御相談申上候。今日は三四郎も病気に候得バ、たれでも代人つかハし候間、御同行奉<span rend="kaeriten" rendition="sub">レ</span>頼候。御帰り次第、佐々木の宿ニ御成奉<span rend="kaeriten" rendition="sub">レ</span>願候。早<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />頓首。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">十三日<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">龍</span></span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">〆　　　楳太郎</span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span type="ruby"><span type="rb">奥陸</span><span type="rp">（</span><span type="rt">（ママ）</span><span type="rp">）</span></span>元二郎様<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">左右</span></span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

@@ -1,0 +1,1380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>抒情小曲集</title>
+        <author>室生犀星</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2012-12-11">作成</resp><resp /><note>
+<lb />
+底本：「抒情小曲集・愛の詩集」講談社文芸文庫、講談社<lb />
+　　　1995（平成7）年11月10日第1刷発行<lb />
+底本の親本：「抒情小曲集」感情詩社<lb />
+　　　1918（大正7）年9月<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+※冒頭の序にあたる部分の構成は下記のようになっています。「（　）」の部分は底本では明確な見出しとしては扱われていませんので、見出し注記をしていません。<lb />
+序曲<lb />
+（「抒情詩の精神には……」）<lb />
+（扉銘）（「いとけなかりし日……」）<lb />
+（序）北原白秋<lb />
+抒情詩信条<lb />
+（序）萩原朔太郎<lb />
+（扉銘）ルイ・ベルトラン<lb />
+（序）田辺孝次<lb />
+（序詩）（「雪のしたより……」）<lb />
+（「自分は五月ころ……」）<lb />
+自序<lb />
+『抒情小曲集』覚書<lb />
+小曲集箴言<lb />
+入力：田村和義<lb />
+校正：高柳典子<lb />
+<date when="2012-12-11">2012年12月11日</date>作成<lb />
+<date when="2018-03-23">2018年3月23日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>田村和義</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>高柳典子</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>抒情小曲集</title><author>室生犀星</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">序曲</span></span></span>
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<span rend="futoji" rendition="div">
+芽がつつ立つ<lb />
+ナイフのやうな芽が<lb />
+たつた一本<lb />
+すつきりと蒼空につつ立つ<lb />
+</span>
+</span>
+<lb />
+<lb />
+<lb />
+<lb />
+抒情詩の精神には音楽が有つ微妙な恍惚と情熱とがこもつてゐて人心に囁く。よい音楽をきいたあとの何者にも経験されない優和と嘆賞との瞬間。ただちに自己を善良なる人間の特質に導くところの愛。誰もみな善い美しいものを見たときに自分もまた善くならなければならないと考へる貴重な反省。最も秀れた精神に根ざしたものは人心の内奥から涙を誘ひ洗ひ清めるのである。<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">いとけなかりし日のおもひでに</span>
+<lb />
+<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">室生君。</span>
+　時は過ぎた。『抒情小曲集』出版の通知を受取つて、私は、今更ながら過ぎ去つた日の若い君の姿が思ひ出される。初めて会つた頃の君は寂しさうであつた、苦しさうであつた、悲しさうであつた。初めて君の詩に接した時、私はその声の<span type="ruby"><span type="rb">清清</span><span type="rp">（</span><span type="rt">すがすが</span><span type="rp">）</span></span>しさに、初めて湧きいでた同じ泉の水の鮮かさと歓ばしさとを痛切に感じた。君はまた自然の儘で、稚い、それでも銀の<span type="ruby"><span type="rb">柔毛</span><span type="rp">（</span><span type="rt">にこげ</span><span type="rp">）</span></span>を持つた栗の若葉のやうに真純な、<span type="ruby"><span type="rb">感傷家</span><span type="rp">（</span><span type="rt">センチメンタリスト</span><span type="rp">）</span></span>であつた。それは強い特殊の真実と自信と正確さを持つた若葉だ。その栗の木は日を追うて完全な樹木の姿となつた。日を追うて君自身本然の愛と啼泣と情念の発露とが激しくなつた。かう云つては悪いかも知れぬが、私は『愛の詩集』よりも此の『抒情小曲集』に、より深い純正を感じ愛着を感じ、追憶の快味をも感ずる。而して君の是等の小曲を初めて発見して少からぬ驚異にうたれた既往の私自身の姿さへ思ひ出す。君も私も既に華華しかつた青春は過ぎて了つた。憶ふと今昔の感に堪へぬ。<lb />
+　改めて云ふ。今度の小曲集こそ私の待ちに待つたものであつた。私は真に君の歓びを自分の歓びとして一日も早くその上梓の日を鶴首して待つ。<lb />
+　願くばわが室生犀星に再び光栄あれ。<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">八月十四日<span rend="chitsuki_8" rendition="div" style="text-align:right; margin-right: 8em">小田原にて</span></span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">北原白秋</span>
+<lb />
+<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">抒情詩信条</span></span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（１）</span>　汝の瞳孔いま微かなる運動を為す。空現はれたり。瞳孔全く開きつくしたる時汝は甚しく羽ばたきを為す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（２）</span>　汝は多くの人間の期待せるときに生れたることを信ず。願くば汝の上に真摯なるものの数個の批評をもつて汝の精神の糧をおくられむことを祈れ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（３）</span>　過ぎし日の愛人をおもふこと真に雪の下の若草を思ふに似たりとつげよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（４）</span>　詩はわれにとつて永遠の宗教なり。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（５）</span>　われ登らんとするとき崖より血しほ流れたり。</span>
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">抒情詩信条</span></span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（１）</span>　詩より詩作の<span type="ruby"><span type="rb">瞬間</span><span type="rp">（</span><span type="rt">モメント</span><span type="rp">）</span></span>を愛す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（２）</span>　祈れば樹の上の果実かつと鳴りて落つ。祈れば青きもの紅くなり形無きもの顕はる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（３）</span>　瞳と瞳とを合掌す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（４）</span>　山は静止す。そのさまざまなるものに富み胎めるかを見よ。真に生けるものの静けさを聴けよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span target="ltr">（５）</span>　爾のわれの接吻をうける時つねにつねに爾の輝くを見たり。</span>
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+　私にとつて限りなくなつかしく思はれるは、この集にをさめられた室生の抒情小曲である。彼の過去に発表したすべての詩篇の中で、此等の抒情詩ほど、正直ないぢらしい感情にみちてゐるものはない。それは実に透明な青味を帯びた、美しい貝のやうな詩である。そしてそのリズムは、過去に現はれた日本語の抒情詩の、どれにも発見することのできない珍しい鋭どさをもつて居る。そしてこの詩集は、北原兄の『思ひ出』以後における日本唯一の美しい抒情小曲集である。かういふ種類の芸術では、これ以上のすぐれたものを求めることは、今後とも容易にあるまいと思つてゐる。<lb />
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">萩原朔太郎</span>
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="jizume_22" rendition="div" style="width: 22em">
+人間の手の五本の指は都ハレルムの花壇にかつて咲いた珍らしい五弁の匂ひ阿羅世伊止宇<lb />
+</span>
+</span>
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em"><span rend="futoji">ルイ・ベルトラン</span></span>
+<lb />
+<lb />
+<lb />
+<lb />
+　君の第三の著作『抒情小曲集』が、上梓されるに就て、子供の時からの友達としての僕は、奈何なる言葉でこの喜びを表したらよいか、実にその術をしらない。ことに今度集められた小曲はみな其当時にとつてお互に感銘の深いものばかりだ。君の詩のよいところは、敏感な美しい繊細な感情が概念的でなく、全くリズム的に本当と力とにあらはれてゐる所にあるのだらう。これを読んだ人人に本当に美しいよい感情を移植する所が一番貴いところではあるまいか……。<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">七月十七日</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">田辺孝次</span>
+<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+雪のしたより燃ゆるもの<lb />
+<lb />
+かぜに乗り来て<lb />
+<lb />
+いつしらずひかりゆく<lb />
+<lb />
+春秋ふかめ燃ゆるもの<lb />
+</span>
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+自分は五月ころから原稿をまとめ初めて七月十二日の大颱風が都の空をおそうた夕方に総ての仕事を終つた。二百篇あまりあつた中から抜いてあとは棄ててしまつた。古い雑誌や小さい紙片や破れた原稿紙の綴りから掘り出すやうにして集めて見て胸の高まる気がした。ちやうどその時連日連夜の暴風が恐ろしい颱風となつて郊外に荒れ狂うた。小さい庭の<span rend="futoji">ダリーヤ</span>・日まはり・菊などを微塵にしようとした。一丈余も伸びた日まはりの葉は裂けて穴だらけになつた。けれども倒れずに最後までしつかりと大地の底にしがみついてゐた。自分はこの日原稿を綴ぢあげて作曲家にてがみを書いた。そしてこの本を街に出したり友人の机上に置かれることを考へて酷く緊張した。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">自序</span></span></span>
+<lb />
+　私は本集に輯めた詩を自分ながら初初しい作品であること、少年の日の交り気ないあどけない<span type="ruby"><span type="rb">真心</span><span type="rp">（</span><span type="rt">まごころ</span><span type="rp">）</span></span>をもつて書かれたこととを合せて、いくたびか感心をして朗読したりした。ほんとに此詩集にある小品な詩は、恰も『小学読本』を朗読するやうに、卒直な心で読み味つてもらへれば、たいへん心うれしく感じる。このやうな幼ない「抒情詩時代」が再び私にやつて来るものでもなく、また、それを再び求めることも出来ないことを知つてゐる。人間にはきつと此「美しい抒情詩」を愛する時代があるやうに、だれしも通る道であるやうに、ほんとにこれらの詩をあつめて置きたいと思つたのも、みなここにあるのだ。<lb />
+<lb />
+　この本をとくに年すくない人人にも読んでもらひたい。私と同じい少年時代の悩ましい人懐こい苛苛しい情念や、美しい希望や、つみなき悪事や、限りない嘆賞や哀憐やの諸諸について、よく考へたり解つてもらひたいやうな気がする。少年時代の心は少年時代のものでなければわからない。おなじい内容は私のこれらの詩と相合してそして、初めて理解され得るやうに思ふ。みながみなで感じる悩ましさや<span type="ruby"><span type="rb">望</span><span type="rp">（</span><span type="rt">のぞみ</span><span type="rp">）</span></span>を追ふ心は、きつと此中でぶつかり合ふやうに思ふ。<lb />
+　誰でも云ふ「<span type="ruby"><span type="rb">少年時代</span><span type="rp">（</span><span type="rt">こどものとき</span><span type="rp">）</span></span>は楽しかつた」と。「<span type="ruby"><span type="rb">少年</span><span type="rp">（</span><span type="rt">こども</span><span type="rp">）</span></span>は神より人間より最つと別な神聖な生物だ。」とドストイエフスキイも云つてゐる。若若しい木のやうに伸びゆく<span type="ruby"><span type="rb">力</span><span type="rp">（</span><span type="rt">ちから</span><span type="rp">）</span></span>は、ほんとにあの時代に限つて横溢してゐる。頭のよい「頭のいちばん幸福な」時代だ。いちど見たり感じたりしたら、それにすぐ根が生え、植ゑ込まれる時代だ。<lb />
+　私はいまでも感じる。<lb />
+　少年時代に感じた季節の<span type="ruby"><span type="rb">変移</span><span type="rp">（</span><span type="rt">うつりかはり</span><span type="rp">）</span></span>の鋭い記臆とその感覚の敏活とは、ほんとに何にたとへて言つていいか解らない。まるで「<span type="ruby"><span type="rb">触</span><span type="rp">（</span><span type="rt">さは</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">つの</span><span type="rp">）</span></span>」のある虫のやうに、いつもひりひりと<span rend="sesame_dot" rendition="em">さとり</span>深い魂を有つてゐるものだ。それはまだ<span type="ruby"><span type="rb">小児</span><span type="rp">（</span><span type="rt">こども</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>の純潔や叡智がそのまま温和にふとり育つて、それが正確に保存されてゐるからである。「小児に就て人に接することを学べ小児は未だ汚されず、小児にとつては人みな同じ」とトルストイも言つてゐる。<lb />
+<lb />
+　私は雪の深い北国に育つた。十一月初旬の<span rend="sesame_dot" rendition="em">しぐれ</span>は日を追うて霙となつてそして美しい雪となり山や野や街や家家を包んだ。町の人人は家家の北に面した窓や戸口を藁や蓆をもつて覆うた。<lb />
+　道のふた側に積まれた雪は、屋根とおなじい高さにまでなつて、夜は窓や戸口の雪の、中から燈灯が漏れてゐた。戸外運動といふものが雪の為めに自然なくされてゐた小供の私らは、いつも室に座つたり暖炉にあたつたりして、恐ろしい吹雪の夜を送つてゐた。そのころ私は俳句をかいたりコマ絵をかいたりして、自然にたいする心をだんだんに開いてゆくやうになつてゐた。極度に人懐こい、もの恋しげな心を不断に有つてゐた私は、また一面に於ては烈しい一人ぽつちが好であつた。本をよんだり物を考へたりしたあと、よく自分で自分が作つた甘美な哀愁にひたりながら、雪あかりのする窓際で「小供らしくない」事を考へてゐた。それが私だち少年のいつも隠れてする心の隠れ家みたいに楽しく又悲しいものであつた。<lb />
+　四月まで続く降雪を我慢しきれないやうに、雪の下では春の浮動するものが生き初めるころは、わけても悩ましい<span type="ruby"><span type="rb">力</span><span type="rp">（</span><span type="rt">ちから</span><span type="rp">）</span></span>がからだに湧いてくるのであつた。私だち少年らは、おたがひに女の子のやうな深い情愛をかんじ合つて、かく詩や俳句の対象はいつもそれらの友に於て選んだ。美しい少年の友だちらは、ある時は、詩のことを話したりして、熱い握手や接吻をしたり、蒼い日暮の飽くことをしらない散歩をしたりしてゐた。<lb />
+<lb />
+　私どもは、そこここの散歩や、草場のあたりでいろいろな詩をうたつた。風のやうにうたひながら自分でつい感心してしまつて、ほろりとするといふやうなこともあつた。見るものが悲しくひしひしと迫つてくるのであつた。あの何物にもたとへることの出来ない、弱弱しい美しいセンチメンタルな瞬間に、私どもは、自分が其処に生きることを幸福に考へ、また必然さうあるべきことが自分らの若い使命のやうに、この全世界でいちばん偉い詩人ででもあるやうに考へてゐた。謙譲や<span rend="sesame_dot" rendition="em">はにかみ</span>もなかつた。傲慢と自愛とにたえず圧倒されてゐて、それを当り前のやうに思つてゐた。それほど、世間の本をよまない仲間にたいしては遠慮がなかつた。<lb />
+<lb />
+　私は抒情詩を愛する。わけても自分の踏み来つた郷土や、愛や感傷やを愛する。「くちばし青き小鳥」の囀りは可愛い。それを讃へたい。人間にたつた一度より外ない時代を紀念したい。それをそのまま次ぎに味ひつつある若い人人らの胸にたたみ込んで置きたいと思つてゐる。<lb />
+　もとより詩のよいわるいは<span rend="sesame_dot" rendition="em">すききらひ</span>より外の感情で評価できないものだ。これらの詩がどれほどハアトの奥の奥に深徹してゐるかについて、今私は何もいへないけれど、人人はきつとよき微笑と親密とを心に用意して読んでくれるだらうと思ふ。むづかしい批評や議論ぬきの「優しい心」で味つてくれるだらうと思ふ。それでこそ私がこの本を世に送り出した甲斐のあることを感じるのだ。<lb />
+　一月に『愛の詩集』を出してからもう一年に近くなる。『愛の詩集』まで歩んだ自分を知るにはどうしても此の「抒情詩時代」の自分をも知つてほしくおもふ。自分にもなほ美しい恋を恋したり、甘美な女性的なリズムを愛したりした時代のあつたことを物語りたいのである。ほんとはこの『抒情小曲集』は『愛の詩集』と併せて読んで、僕の心持のたてとよことに<span type="ruby"><span type="rb">縒</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>れ込んだリズムをほぐして見てほしいのだ。よく読んでくれる人人は、この小曲集の終りのペエジに近づいてゆくごとに、だんだんに人間の感情がひびれたり、優しく荒れて行つたりしてゐることを考へてくれるだらう。風にいためられた生活の花と実とを今まとめて見ることを嬉しく悲しく思ふ。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="futoji">千九百十八年七月十三日</span></span>
+<span rend="chitsuki_8" rendition="div" style="text-align:right; margin-right: 8em">郊外田端にて</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">室生犀星</span>
+<lb />
+<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">『抒情小曲集』覚書</span></span></span>
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi141">年譜</span></span></span>
+<lb />
+二十歳頃より二十四歳位までの作にして、就中「小景異情」最も古く、「合掌」最も新しきものなり。時折折の心持ちによりて五年間の春秋の季節の詩は入り乱れたるも、出来得る限り年譜は正しく編しぬ。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi142">創作地</span></span></span>
+<lb />
+郷里金沢市千日町雨宝院といへる金比羅神社、寂しき栂、榎の大樹に寺領の四方はとりかこまれ、昼なほ暗き前庭のほとり極めて幽遠なり。その奥の間よりは直ちに犀川をのぞむ。美しき清流寺院の岸を灑ひて夏といへども涼しきことかぎりなし。川を隔てて医王、戸室の山さては遠く飛騨の連峯をも望むことを得。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi143">野及び散歩の地として</span></span></span>
+<lb />
+最も好みしは犀川べりなる蛤坂新道、下つては犀川鉄橋のほとり等。これらの地は絶えず予の若き其頃の胸裡を去来して、シーズンの移り変り目ごとには高き鼓動を覚えたるものなり。「秋思」は有名なる兼六公園にての作にして、園の入口なる青く柔かき芝生の生えし様、其の色いまも忘れがたきものの一つなり。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi144">旅行</span></span></span>
+<lb />
+京都、上州前橋市近郊に旅せし時の作、及び「足羽川」の一篇等なり。足羽川は越前福井市を流るる川なり。京都よりの帰るさにここ福井の街に約一ヶ月ばかり滞在せし事のあり、その時になれる詩にして、美しき足羽の川の土手の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>の、若き桜樹はいまも尚春くる毎に花咲けりときく。なつかしき事のきはみ。旅行は凡て予が幼き日の我儘なる事より、慈愛あつき父母にそむきての事なりき。今ははや父もみまかりて世に空し。哀感極まりなし。<lb />
+上州前橋には三度ゆけり。ここにて予が畏友萩原を知る。小出磧といへる利根の河畔、小さき砂山、櫟の若き林、牧牛、赤城山、公園等、皆予が心に今もなほ生けり。旅はおもしろけれどもはかなく哀し。利根の砂山、氷の扉、さくらと雲雀、土筆、前橋公園の五篇を得たり。（外になほ数多けれども収録せず）<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi145">海浜</span></span></span>
+<lb />
+海の詩はすべて金沢市より二里を隔つる<span type="ruby"><span type="rb">金石</span><span type="rp">（</span><span type="rt">かないは</span><span type="rp">）</span></span>といへる所にて作る。ここは二千戸を数へ人心すべて質純なり。町より五丁程を隔てられて釈迦堂といへる僧院あり。静かなる院にして有名なる銭屋五兵衛の墓碑あり。静かなる院にしてここのとある一室に一年有余転地療養せしことあり。院は砂丘の蔭、涼しき松林のはづれにありて、お花畑よりいでて町に通ず。予ここにてはじめて「屋上庭園」を友白秋より送らる。此頃より予が詩の心やうやく動き且つ固められたり、かへりみればもはや十一年を閲しぬ。世にも静かにして、優しく、美しき尼僧らによりて、病気の予は毎日新しき野菜と、親切にして充分なる静養を与へられたり。友萩原もまた、遠く前橋市より来りてこの寂しき僧院を訪づれぬ。時は大正四年五月のことなりし。ここにてはかもめ、海浜独唱、砂山の雨、魚とその哀歓、松林の中に座す、砂丘の上、静かなる空、水すまし等を得たり。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi146">降雪</span></span></span>
+<lb />
+十月下旬より時雨となり、十一月終りは冷たき霙となる。霙となりて永き冬に入れば漸て霰となり、雪となる。二三尺も積るは例年の事にして、時に丈余にもなる事ありて、犬等は皆屋根の上にて遊び戯る。雪降れば却つて温く、人人は夜炬燵を囲みて団欒す。雪降れど霰凍れども故郷の冬は忘れがたかり。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi147">暗黒時代</span></span></span>
+<lb />
+小曲集第三部は主として東京に於て作らる。本郷の谷間なる根津の湿潤したる旅籠にて「蝉頃」の啼く蝉のしいいといへるを聞きて、いくそたび蹉跌と悪酒と放蕩との夏を迎へしことぞ。銀製の乞食、坂、それらは皆予の前面を圧する暗黒時代の作なり。幾月も昼間外出せずして終夜なる巷にゆき、悪酒にひたりぬ。その悔新しくしてなほ深くふけりてゆきぬ。今も尚思ひ見て予の額を汗するものはこれなり。或る時は白山神社の松にかなかなの啼くをきき、上野に夜明けの鐘をききては帰りぬ。合掌のあとさきはじつに病気ともたたかひし時代なりしなり。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi148">発表について</span></span></span>
+<lb />
+これらの抒情詩は曾つて雑誌『感情』第二号第三号にまとめて発表したるが、その以前雑誌ザムボア・スバル・詩歌・創作等にのせたるものなり。<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em">（これらは<span rend="futoji">一九一八年六月十八日</span>の覚書なり）</span>
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+われら少年の日の友とみないまは<lb />
+<lb />
+寂しくかたるべし<lb />
+</span>
+<lb />
+<span rend="jisage_14" rendition="div" style="margin-left: 14em"><span rend="futoji">小曲集箴言</span></span>
+<lb />
+<lb />
+<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi248">一部</span></span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi258">小景異情</span></span></span>
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi259">その一</span></span></span>
+<lb />
+白魚はさびしや<lb />
+そのくろき瞳はなんといふ<lb />
+なんといふしほらしさぞよ<lb />
+そとにひる<span type="ruby"><span type="rb">餉</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>をしたたむる<lb />
+わがよそよそしさと<lb />
+かなしさと<lb />
+ききともなやな雀しば啼けり<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">その二</span></span></span>
+<lb />
+ふるさとは遠きにありて思ふもの<lb />
+そして悲しくうたふもの<lb />
+よしや<lb />
+うらぶれて異土の<span type="ruby"><span type="rb">乞食</span><span type="rp">（</span><span type="rt">かたゐ</span><span type="rp">）</span></span>となるとても<lb />
+帰るところにあるまじや<lb />
+ひとり都のゆふぐれに<lb />
+ふるさとおもひ涙ぐむ<lb />
+そのこころもて<lb />
+遠きみやこにかへらばや<lb />
+遠きみやこにかへらばや<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi261">その三</span></span></span>
+<lb />
+銀の時計をうしなへる<lb />
+こころかなしや<lb />
+ちよろちよろ川の橋の上<lb />
+橋にもたれて泣いてをり<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi262">その四</span></span></span>
+<lb />
+わが霊のなかより<lb />
+緑もえいで<lb />
+なにごとしなけれど<lb />
+懺悔の涙せきあぐる<lb />
+しづかに土を掘りいでて<lb />
+ざんげの涙せきあぐる<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi263">その五</span></span></span>
+<lb />
+なににこがれて書くうたぞ<lb />
+一時にひらくうめすもも<lb />
+すももの蒼さ身にあびて<lb />
+田舎暮しのやすらかさ<lb />
+けふも母ぢやに叱られて<lb />
+すもものしたに身をよせぬ<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi264">その六</span></span></span>
+<lb />
+あんずよ<lb />
+花着け<lb />
+地ぞ早やに輝やけ<lb />
+あんずよ花着け<lb />
+あんずよ燃えよ<lb />
+ああ　あんずよ花着け<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi274">旅途</span></span></span>
+<lb />
+旅にいづることにより<lb />
+ひとみあかるくひらかれ<lb />
+手に青き洋紙は提げられたり<lb />
+ふるさとにあれど<lb />
+安きを得ず<lb />
+ながるるごとく旅に出づ<lb />
+麦は雪のなかより萌え出で<lb />
+そのみどりは磨げるがごとし<lb />
+窓よりうれしげにさしのべし<lb />
+わが魚のごとき手に雪はしたしや<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi284">京都にて</span></span></span>
+<lb />
+にほやかに恋ひぬれど<lb />
+さめゆくものはつめたかり<lb />
+<lb />
+わが心は哀憐にみちわたり<lb />
+もののそよぎに泪おちむとす<lb />
+<lb />
+雪の青きを手にとれば<lb />
+雪は哀しくなじみまつはる<lb />
+<lb />
+かばかりふかき哀憐のもよほしに<lb />
+いまぞ涙ことごとく流れもいでよ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi294">流離</span></span></span>
+<lb />
+わが朝のすずしきこころに<lb />
+あざやかなる芽生のうすみどり<lb />
+にがかれど<lb />
+うれしや沁みきたる<lb />
+こよなきいそしみをもて<lb />
+青くしつかなる洋紙をこそのべにけれ<lb />
+そは巡礼のうたごゑをきくごとき<lb />
+わがきさらぎの哀調にして<lb />
+わかれむとするふるき都に<lb />
+とどまりもえぬ心なり<lb />
+ああ　よく晴れあがりし空のもと<lb />
+わが旅のをはりにや<lb />
+小鳥すくみごゑして消えもゆくなり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi304">木の芽</span></span></span>
+<lb />
+麦のみどりをついと出て<lb />
+ついともどれば雪がふり<lb />
+冬のながさの草雲雀<lb />
+あくびをすれば<lb />
+木の芽吹く<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi314">祇園</span></span></span>
+<lb />
+祇園の夜のともしびに<lb />
+青き魚さへ泳ぎ出づ<lb />
+青き魚さへをどるにや<lb />
+加茂川べりのあたたかさ<lb />
+<span type="ruby"><span type="rb">飯</span><span type="rp">（</span><span type="rt">いひ</span><span type="rp">）</span></span>もたべずにわがうたふ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi324">夏の朝</span></span></span>
+<lb />
+なにといふ虫かしらねど<lb />
+時計の玻璃のつめたきに這ひのぼり<lb />
+つうつうと啼く<lb />
+ものいへぬむしけらものの悲しさに<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi334">寺の庭</span></span></span>
+<lb />
+つち澄みうるほひ<lb />
+<span type="ruby"><span type="rb">石蕗</span><span type="rp">（</span><span type="rt">つは</span><span type="rp">）</span></span>の花咲き<lb />
+あはれ知るわが育ちに<lb />
+鐘の鳴る寺の庭<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi344">旅上</span></span></span>
+<lb />
+旅にいづらば<lb />
+はろばろと心うれしきもの<lb />
+旅にいづらば<lb />
+都のつかれ、めざめ行かむと<lb />
+緑を見つむるごとく唯信ず<lb />
+よしや<span type="ruby"><span type="rb">趁</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>はれて旅すこころなりとも<lb />
+知らぬ地上に印す<lb />
+あらたなる草木とゆめと唯信ず<lb />
+神とけものと<lb />
+人間の道かぎりなければ<lb />
+ただ深く信じていそぐなりけり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi354">三月</span></span></span>
+<lb />
+うすければ青くぎんいろに<lb />
+さくらも紅く咲くなみに<lb />
+三月こな雪ふりしきる<lb />
+<lb />
+雪かきよせて手にとれば<lb />
+手にとるひまに消えにけり<lb />
+なにを哀しと言ひうるものぞ<lb />
+君が朱なるてぶくろに<lb />
+雪もうすらにとけゆけり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi364">足羽川</span></span></span>
+<lb />
+あひ逢はずよとせとなり<lb />
+あすは川みどりこよなく濃ゆし<lb />
+をさなかりし桜ものびあがり<lb />
+うれしやわが手にそひきたる<lb />
+<lb />
+わがそのかみに踏みも見し<lb />
+この土手の芝とうすみどり<lb />
+いまふゆ枯れはてていろ哀しかり<lb />
+<lb />
+われながき旅よりかへり<lb />
+いま足羽川のほとりに立つことの<lb />
+なにぞやおろかにも涙ぐまるは<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi374">ふるさと</span></span></span>
+<lb />
+雪あたたかくとけにけり<lb />
+しとしとしとと融けゆけり<lb />
+ひとりつつしみふかく<lb />
+やはらかく<lb />
+木の芽に息をふきかけり<lb />
+もえよ<lb />
+木の芽のうすみどり<lb />
+もえよ<lb />
+木の芽のうすみどり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi384">犀川</span></span></span>
+<lb />
+うつくしき川は流れたり<lb />
+そのほとりに我は住みぬ<lb />
+春は春、なつはなつの<lb />
+花つける堤に座りて<lb />
+こまやけき本のなさけと愛とを知りぬ<lb />
+いまもその川ながれ<lb />
+美しき微風ととも<lb />
+蒼き波たたへたり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi394">みやこへ</span></span></span>
+<lb />
+こひしや東京浅草夜のあかり<lb />
+けさから飯もたべずに<lb />
+青い顔してわがうたふ<lb />
+<lb />
+わがうたごゑの消えゆけば<lb />
+うたひつかれて死にしもの<lb />
+<lb />
+けふは浜べもうすぐもり<lb />
+ぴよろかもめの啼きいづる<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi404">寂しき春</span></span></span>
+<lb />
+したたり止まぬ日のひかり<lb />
+うつうつまはる水ぐるま<lb />
+あをぞらに<lb />
+越後の山も見ゆるぞ<lb />
+さびしいぞ<lb />
+<span type="ruby"><span type="rb">一日</span><span type="rp">（</span><span type="rt">いちにち</span><span type="rp">）</span></span>もの言はず<lb />
+野にいでてあゆめば<lb />
+菜種のはなは波をつくりて<lb />
+いまははや<lb />
+しんにさびしいぞ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi414">利根の砂山</span></span></span>
+<lb />
+風吹きいでてうちけむる<lb />
+利根の砂山、利根の砂山<lb />
+赤城おろしはひゆうひゆうたり<lb />
+ひゆうたる風のなかなれば<lb />
+土筆は土の中に伸ぶ<lb />
+なにに哀しみ立てる利根の砂山<lb />
+よしや、<span rend="sesame_dot" rendition="em">すてツき</span>をもて<lb />
+君が名をつづるとも<lb />
+赤城おろしはひゆうとして<lb />
+たちまちにして消しゆきぬ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi424">氷の扉</span></span></span>
+<lb />
+たちまちに雪光る山なれ<lb />
+たちまち鳴りてはくもる山なれ<lb />
+<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">よも</span><span type="rp">）</span></span>の氷の扉ひらかれ<lb />
+いつさいは萌えむとす<lb />
+この国の草草のなよらかならむことの<lb />
+けふはしきりに祈らる<lb />
+この国の草草と<lb />
+人人の心ごころに<lb />
+よきめぐみのあらむことの<lb />
+ああ　しきりにけふは祈らる<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi434">桜と雲雀</span></span></span>
+<lb />
+雲雀ひねもす<lb />
+うつらうつらと啼けり<lb />
+うららかに声は桜にむすびつき<lb />
+桜すんすん伸びゆけり<lb />
+桜よ<lb />
+<span type="ruby"><span type="rb">我</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>がしんじつを感ぜよ<lb />
+らんまんとそそぐ日光にひろがれ<lb />
+あたたかく楽しき春の<lb />
+春の世界にひろがれ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi444">土筆</span></span></span>
+<lb />
+旅人なればこそ<lb />
+小柴がくれに茜さす<lb />
+いとしき嫁菜つくつくし<lb />
+摘まんとしつつ<lb />
+吐息つく<lb />
+まだ春浅くして<lb />
+あたま哀しきつくつくし<lb />
+指はいためど　一心に土を掘る<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi454">前橋公園</span></span></span>
+<lb />
+すゐすゐたる桜なり<lb />
+伸びて四月をゆめむ桜なり<lb />
+すべては水のひびきなり<lb />
+四阿屋の枯れ芝は哀しかれども<lb />
+花園になんの種子なりしぞ<lb />
+しきりに芽吹き<lb />
+きそよりもなほ萌えづるげ<lb />
+街のをとめの素足光らし<lb />
+風に砥がれて光るさくらなり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi464">かもめ</span></span></span>
+<lb />
+かもめかもめ<lb />
+去りゆくかもめ<lb />
+かくもさみしく口ずさみ<lb />
+渚はてなくつたひゆく<lb />
+<lb />
+かもめかもめ<lb />
+入日のかたにぬれそぼち<lb />
+ぴよろとなくはかもめどり<lb />
+あはれみやこをのがれきて<lb />
+海のなぎさをつたひゆく<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi474">海浜独唱</span></span></span>
+<lb />
+ひとりあつき涙をたれ<lb />
+海のなぎさにうづくまる<lb />
+なにゆゑの涙ぞ青き波のむれ<lb />
+よせきたりわが額をぬらす<lb />
+みよや濡れたる砂にうつり出づ<lb />
+わがみじめなる影をいだき去り<lb />
+抱きさる波、波、哀しき波<lb />
+このながき渚にあるはわれひとり<lb />
+ああわれのみひとり<lb />
+海の青きに流れ入るごとし<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi484">蛇</span></span></span>
+<lb />
+蛇をながむるこころ蛇になる<lb />
+ぎんいろの鋭き蛇になる<lb />
+どくだみの花あをじろく<lb />
+くされたる噴井の匂ひ蛇になる<lb />
+君をおもへば君がゆび<lb />
+するするすると蛇になる<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi494">新曲</span></span></span>
+<lb />
+あめつちの垂りぬ　垂り穂は<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi504">砂山の雨</span></span></span>
+<lb />
+砂山に雨の消えゆく音<lb />
+草もしんしん<lb />
+海もしんしん<lb />
+こまやかなる夏のおもひも<lb />
+わが<span type="ruby"><span type="rb">身</span><span type="rp">（</span><span type="rt">みな</span><span type="rp">）</span></span>うちにかすかなり<lb />
+草にふるれば草はまさをに<lb />
+雨にふるれば雨もまさをなり<lb />
+砂山に埋め去るものは君が名か<lb />
+かひなく過ぐる夏のおもひか<lb />
+いそ草むらはうれひの巣<lb />
+かもめのたまご孵らずして<lb />
+あかるき中にくさりけり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi514">魚とその哀歓</span></span></span>
+<lb />
+うかびくるはかの蒼き魚<lb />
+しづかなる燐光とその哀歓との<lb />
+かくてもわがこころを去りえず<lb />
+やはらかく伸びむとする梢には<lb />
+わが魚はまた泳ぎそめたり<lb />
+その肌に指ふれむとすれば<lb />
+指はこころよく<lb />
+小さき魚のごとし<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi524">赤櫨</span></span></span>
+<lb />
+金縞の蜂のひとつは<lb />
+針のにぶりを磨げりしが<lb />
+草を痛めて去りゆけり<lb />
+金のラインを空とほく引ずりて<lb />
+<lb />
+<lb />
+<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi624">二部</span></span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi634">時無草</span></span></span>
+<lb />
+秋のひかりにみどりぐむ<lb />
+ときなし草は摘みもたまふな<lb />
+やさしく日南にのびてゆくみどり<lb />
+そのゆめもつめたく<lb />
+ひかりは水のほとりにしづみたり<lb />
+ともよ　ひそかにみどりぐむ<lb />
+ときなし草はあはれ深ければ<lb />
+そのしろき指もふれたまふな<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi644">永日</span></span></span>
+<lb />
+野にあるときもわれひとり<lb />
+ひとり、たましひふかく抱きしめ<lb />
+こごゑにいのり燃えたちぬ<lb />
+けふのはげしき身のふるへ<lb />
+麦もみどりを震はせおそるるか<lb />
+われはやさしくありぬれど<lb />
+わがこしかたのくらさより<lb />
+さいはひどもの遁がれゆく<lb />
+のがるるものを<span type="ruby"><span type="rb">趁</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ふなかれ<lb />
+ひたひを割られ<lb />
+血みどろにをののけど<lb />
+たふとや、われの生けること<lb />
+なみだしんしん涌くごとし<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi654">秋の日</span></span></span>
+<lb />
+つかの間に消え去りし<lb />
+つかの間に消え去りしは<lb />
+あきつのかげにあらざるか<lb />
+<lb />
+ぐらすのごとき秋の日に<lb />
+かげうち過ぐるもの<lb />
+わが君のかげにあらざるか<lb />
+<lb />
+とほき床屋のぎん鋏<lb />
+波を越えくるかげなるか<lb />
+あらずおんみのひとみより<lb />
+わが眼うれひてかげを見る<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi664">小曲</span></span></span>
+<lb />
+逢へぬこのごろ<lb />
+秋はバツタのほねに沁みにけむ<lb />
+手にとりみればちからなく<lb />
+銀の片脛折らしたり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi674">小曲</span></span></span>
+<lb />
+<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">まなこ</span><span type="rp">）</span></span>つむりてすみやかに<lb />
+君をねんじて十字をきれば<lb />
+熱きもの<lb />
+ひとすぢのけぶりとなりて<lb />
+真青の竹をのぼりゆく<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi684">月草</span></span></span>
+<lb />
+秋はしづかに手をあげ<lb />
+秋はしづかに歩みくる<lb />
+かれんなる月草の藍をうち分け<lb />
+つめたきものをふりそそぐ<lb />
+われは青草に座りて<lb />
+かなたに白き君を見る<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi694">しら雲</span></span></span>
+<lb />
+かのしら雲を呼ばむとするもの<lb />
+まことにかぞふるべからず<lb />
+飛べるものは石となりしか<lb />
+さびしさに啼き立つる<lb />
+ゆふぐれの鳥となりしか<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi704">十一月初旬</span></span></span>
+<lb />
+あはあはしきしぐれなるかな<lb />
+かたかは町の坂みちのぼり<lb />
+あかるみし空はとながむれば<lb />
+はやも片町あたり<lb />
+しぐれけぶりぬ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi714">十一月初旬</span></span></span>
+<lb />
+なめくぢは樹に凍え<lb />
+樹は二つに裂けぬ<lb />
+はや冬のこしなり<lb />
+海なりは空を行く<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi724">くらげ</span></span></span>
+<lb />
+秋なれば<lb />
+くらげ渚に<lb />
+うちあげられ<lb />
+玻璃のごとくなりて死す<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi734">霜</span></span></span>
+<lb />
+総て枯るるものは枯れたり<lb />
+うつくしく<lb />
+まはだかに<lb />
+やがて霜に祈らん<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi744">樹をのぼる蛇</span></span></span>
+<lb />
+われは見たり<lb />
+木をよぢのぼりゆく蛇を見たり<lb />
+世にさびしき姿を見たり<lb />
+空にかもいたらんとする蛇なるか<lb />
+<lb />
+木は微かにうごき<lb />
+風もなき白昼<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi754">あらし来る前</span></span></span>
+<lb />
+さらさらと秋はながれゆく<lb />
+草の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>に　水の<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>に<lb />
+ええてるは銀の羽虫となり<lb />
+きららめきつつ<lb />
+飛びかよふ<lb />
+震へる木ぬれを眺むれば<lb />
+あらしは今遠方にありて<lb />
+次第に近よらむとするごとし<lb />
+<lb />
+くさむらのあたり<lb />
+あらしの前の<span rend="sesame_dot" rendition="em">そよ風</span>起り<lb />
+空すこしく<lb />
+やや動く<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi764">磧</span></span></span>
+<lb />
+ここの柴草なみに<lb />
+もみづる　もみづる<lb />
+あきつを染め<lb />
+空とぶあきつのむれを染め<lb />
+山山のみねの上<lb />
+ちらちら雪を染め<lb />
+かなし秋を終らしぬ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi774">松林のなかに座す</span></span></span>
+<lb />
+海のしづかはしら羽どり<lb />
+秋のしづかはしら羽どり<lb />
+しらはのとりのきえゆけば<lb />
+松の林にうづくまり<lb />
+松のみどりをかきむしりなじみたり<lb />
+<lb />
+砂丘とほくつらなり<lb />
+そのあひまより海の青い瞳は来る<lb />
+海にかよひしはいつかわかねど<lb />
+海におびえしたまをあづけあり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi784">砂丘の上</span></span></span>
+<lb />
+渚には蒼き波のむれ<lb />
+かもめのごとくひるがへる<lb />
+過ぎし日はうすあをく<lb />
+海のかなたに死にうかぶ<lb />
+<lb />
+おともなく砂丘の上にうづくまり<lb />
+海のかなたを恋ひぬれて<lb />
+ひとりただひとり<lb />
+はるかにおもひつかれたり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi794">静かなる空</span></span></span>
+<lb />
+秋の日のかたむくかたに<lb />
+土はおとなくしめり<lb />
+たえまなく空とひたひに<lb />
+なやみてつづく<lb />
+<lb />
+ただながれもあへぬ秋の中<lb />
+あをき梢はかわきゆき<lb />
+われはおとなく<lb />
+ねむりゆく<lb />
+しづかなる空と土の上に<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi804">水すまし</span></span></span>
+<lb />
+水すまし<lb />
+水をすましてきえにけり<lb />
+きえしまにあらはれ<lb />
+わがたそがれをさびしうす<lb />
+みなそこになにのちからぞ<lb />
+ゆらぎてむせぶ水すまし<lb />
+をすとめすとは離れずかさなりて<lb />
+なさけもふかに過ぎもゆく<lb />
+をすとめすとはかさなりて<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi814">秋思</span></span></span>
+<lb />
+わがこのごろのうれひは<lb />
+ふるさとの公園のくれがたを歩む<lb />
+芝草はあつきびろうど<lb />
+いろふかぶかと空もまがへり<lb />
+われこの芝草に坐すときは<lb />
+ひとの上のことをおもはず<lb />
+まれに時計をこぬれにうちかけて<lb />
+すいすい伸ぶる芝草に<lb />
+ひとりごとしつつ秋をまつなり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi824">しぐれ</span></span></span>
+<lb />
+さむざむと大根畑に雨がふつてゐる<lb />
+しぐれのあめが<lb />
+ぬらしてゆく<lb />
+そめてゆく遠くまで<lb />
+<lb />
+みぞ萩たでの<lb />
+草草にいたるまで<lb />
+さむざむとしぐれに濡れる<lb />
+微かなる音をたてて<lb />
+寂しき十月<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi834">哀章</span></span></span>
+<lb />
+抱き交しつつ<lb />
+叫びつつ<lb />
+日ごとに繁き光をはらむ<lb />
+いや深く抱き交しつつ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi844">わかれ</span></span></span>
+<lb />
+芝生に霜の降りたり<lb />
+そらは海なりをみなぎらす<lb />
+もはや別れなり<lb />
+くらくして寒い冬がくるぞよ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi854">雪くる前</span></span></span>
+<lb />
+凍みて痛めるごとく<lb />
+はてしなく<lb />
+こころ輝き<lb />
+枯木のうへにひびきを起す<lb />
+わが君とわかれて歩めば<lb />
+あらはるとなく<lb />
+消ゆるとなく<lb />
+ふりつむ我が手の雪を<lb />
+ああ　君は掻く<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi864">朱き葉</span></span></span>
+<lb />
+枯木をゆすりその朱き葉を落す<lb />
+そのもとにわれはさりえず<lb />
+<lb />
+なみ立てる枯木は肌にしみてうつり<lb />
+肌は青くも冷えたり<lb />
+<lb />
+今しづかにしほらしき心立ち戻り<lb />
+朱き葉をふどころに去らむとすれば<lb />
+朱き葉はわが肌になじみえず<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi874">山にゆきて</span></span></span>
+<lb />
+ふくらみて青める山<lb />
+ひかり寂しき明眸の<lb />
+山にもひそみ<lb />
+こがれ、こがれわたるか<lb />
+樹はみな<span type="ruby"><span type="rb">精神</span><span type="rp">（</span><span type="rt">こころ</span><span type="rp">）</span></span>にあつまり<lb />
+あをき姿になじむ<lb />
+ああ　ゆめにはあらず<lb />
+ありありと光さびしき明眸の<lb />
+此処にしてなほ我をとらふる<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi884">すて石に書きたる詩</span></span></span>
+<lb />
+神よ<lb />
+彼女おもひあがりて<lb />
+め鳩のごとく<lb />
+小さき胸をいためてあらば<lb />
+はや　逢ふときをすすめたまへ<lb />
+その通ひくる路のべに<lb />
+さく花あらば<lb />
+つつがなく暖かき光のなかに<lb />
+はれやかに咲かしめたまへ<lb />
+ああ　血もて血をしたたむごとく<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi894">秋の終り</span></span></span>
+<lb />
+君はいつも無口のつぐみどり<lb />
+わかきそなたはつぐみどり<lb />
+われひとりのみに<lb />
+もの思はせて<lb />
+いまごろはやすみいりしか<lb />
+夜夜冷えまさり啼くむしは<lb />
+わが身のあたり水を噴く<lb />
+ああ　その水さへも凍りて<lb />
+ふたつに割れし石の音<lb />
+あをあをと磧のあなたに起る<lb />
+幾日逢はぬかしらねど<lb />
+なんといふ恋ひしさぞ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi904">煙れる冬木</span></span></span>
+<lb />
+もみづる山に朱き日は入る<lb />
+しづかなることわが眼はひとりかがやけり<lb />
+<lb />
+手に触るれど冬木の幹は青からず<lb />
+その指はただに冷えたり<lb />
+<lb />
+さしのぼる煙のなか<lb />
+消えむとするみじめなるわれなるか<lb />
+<lb />
+はりがねのごとき草の鳴る中<lb />
+そのうちにわれの消えゆく音あり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi914">大乗寺山にて</span></span></span>
+<lb />
+寂しきいのちまもれば<lb />
+あはれうたごゑきこゆ<lb />
+ここの山べの<lb />
+<lb />
+<lb />
+<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1014">三部</span></span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1024">都に帰り来て</span></span></span>
+<lb />
+眠ることなかれ<lb />
+つねに冴えたる瞳をもて<lb />
+都会のはてをうち眺め<lb />
+どよみの中に投げ入れよ<lb />
+<lb />
+つつしみ深く流れ行け<lb />
+みなぎる渾身の力をもて<lb />
+あなたに現れ<lb />
+あらぬ方に輝きつつ<lb />
+輝ける街路のかたに<lb />
+眼もくらやみ並木にすがり<lb />
+みやこの海をわたり行け<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1034">はつなつ</span></span></span>
+<lb />
+いよいよ青き<span type="ruby"><span type="rb">世界</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>となり<lb />
+われものを<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>まず終日は<lb />
+みやこの街をさまよひぬ<lb />
+みやこの街はかぎりなく<lb />
+いよいよ悲し<span type="ruby"><span type="rb">世界</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>となり<lb />
+いよいよ青き<span type="ruby"><span type="rb">世界</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>となり<lb />
+<lb />
+なつはみどりのきぬ着けて<lb />
+君のころもにきぬ着けて<lb />
+いよいよ青き<span type="ruby"><span type="rb">世界</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>となり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1044">蝉頃</span></span></span>
+<lb />
+いづことしなく<lb />
+しいいとせみの啼きけり<lb />
+はや蝉頃となりしか<lb />
+せみの子をとらへむとして<lb />
+熱き夏の砂地をふみし子は<lb />
+けふ　いづこにありや<lb />
+なつのあはれに<lb />
+いのちみじかく<lb />
+みやこの街の遠くより<lb />
+空と屋根とのあなたより<lb />
+しいいとせみのなきけり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1054">並木町</span></span></span>
+<lb />
+茫として<lb />
+うつつを綴る<lb />
+夜霧の並木町<lb />
+ぬれて歩めば<lb />
+ひややかに身は浮きあがる<lb />
+輝ける巷のそらに<lb />
+夜の並木に<lb />
+ああ都にかへり来て<lb />
+再びさまよひ疲れんとするか<lb />
+燃えつつそそぐ<lb />
+九月はじめの夜の霧<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1064">銀製の乞食</span></span></span>
+<lb />
+坂を下りゆかむとするは銀製の乞食なり<lb />
+乞食の手にいちめんに苔が生え<lb />
+乞食の手にソオルは躍る<lb />
+<lb />
+乞食の眼に触るるの林檎パインアツプルの類<lb />
+もしくばカステイラ・ワツプルのたぐひ<lb />
+それらは総て味覚を失ひ<lb />
+ワツプルのごときは実に甚だしく憔悴す<lb />
+乞食は祈り<lb />
+乞食は求め<lb />
+遠方へ遠方へ去る<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1074">天の虫</span></span></span>
+<lb />
+松はしんたり<lb />
+松のしん葉しんたり<lb />
+すがたを見せぬ日ぐらしの<lb />
+こゑを求めば<lb />
+あらぬ方より<lb />
+かなかなかなと寂しきものを<lb />
+松のむら立つ<lb />
+寺の松<lb />
+梢をながめかなかなを求むれば<lb />
+かなかなむしは天の虫<lb />
+啼くとし見れば天上に<lb />
+かなかなかなと寂しきものを<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1084">上野ステエシヨン</span></span></span>
+<lb />
+トツプトツプと汽車は出てゆく<lb />
+汽車はつくつく<lb />
+あかり点くころ<lb />
+<span type="ruby"><span type="rb">北国</span><span type="rp">（</span><span type="rt">きたぐに</span><span type="rp">）</span></span>の雪をつもらせ<lb />
+つかれて熱い息をつく汽車である<lb />
+みやこやちまたに<lb />
+遠い雪国の心をうつす<lb />
+私はふみきりの橋のうへから<lb />
+ゆきの匂ひをかいでゐる<lb />
+浅草のあかりもみえる橋の上<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1094">苗</span></span></span>
+<lb />
+なたまめの苗、きうりの苗<lb />
+いんげん、さやまめの苗<lb />
+わが友よ<lb />
+あのあはれ深い呼びやうをして<lb />
+ことし又た苗売りがやつて来た<lb />
+あのこゑをきき<lb />
+あの季節のかはり目を感じることは<lb />
+なんといふ微妙な気になることだらう<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1104">植物園にて</span></span></span>
+<lb />
+とらへがたきザボンの輝き<lb />
+玻璃のうちより<lb />
+匂はしき霧を吹きあぐる<lb />
+<lb />
+ザボンよ<lb />
+あをき梢にむすべ<lb />
+はなるることはなく<lb />
+ふかくしんじつに<lb />
+なみだもて<lb />
+葉の上に梢にむすべ<lb />
+しかして真にかがやけ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1114">郊外にて</span></span></span>
+<lb />
+寂しい心を抱いて<lb />
+ある日郊外の田甫路をあるけり<lb />
+涼しい蔭つくる木のしたに<lb />
+旅人のやうに憩ひ<lb />
+旅人のやうに街の方を眺めて居たり<lb />
+もはや暮れ方に近く<lb />
+煙のぼるを見れば悲し<lb />
+ここの都にそはぬ心を<lb />
+つくづく思ひしづめり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1124">室生犀星氏</span></span></span>
+<lb />
+みやこのはてはかぎりなけれど<lb />
+わがゆくみちはいんいんたり<lb />
+やつれてひたひあをかれど<lb />
+われはかの室生犀星なり<lb />
+脳はくさりてときならぬ牡丹をつづり<lb />
+あしもとはさだかならねど<lb />
+みやこの午前<lb />
+<span rend="sesame_dot" rendition="em">すてつき</span>をもて生けるとしはなく<lb />
+ねむりぐすりのねざめより<lb />
+眼のゆくあなた緑けぶりぬと<lb />
+午前をうれしみ辿り<lb />
+うつとりとうつくしく<lb />
+たとへばひとなみの生活をおくらむと<lb />
+なみかぜ荒きかなたを歩むなり<lb />
+されどもすでにああ四月となり<lb />
+さくらしんじつに燃えれうらんたれど<lb />
+れうらんの賑ひに交はらず<lb />
+賑ひを怨ずることはなく唯うつとりと<lb />
+<span rend="sesame_dot" rendition="em">すてつき</span>をもて<lb />
+つねにつねにただひとり<lb />
+謹慎無二の坂の上<lb />
+くだらむとするわれなり<lb />
+ときにあしたより<lb />
+とほくみやこのはてをさまよひ<lb />
+ただひとりうつとりと<lb />
+いき絶えむことを専念す<lb />
+ああ四月となれど<lb />
+桜を痛めまれなれどげにうすゆき降る<lb />
+哀しみ深甚にして座られず<lb />
+たちまちにしてかんげきす<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1134">ある日</span></span></span>
+<lb />
+屋根裏より<lb />
+手をさしのべてあはれコオヒイを呼ぶ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1144">坂</span></span></span>
+<lb />
+街かどにかかりしとき<lb />
+坂の上にらんらんと日は落ちつつあり<lb />
+円形のリズムはさかんなる廻転にうちつれ<lb />
+樹は炎となる<lb />
+つねにつねにカン<span facs="../../../gaiji/1-07/1-07-82.png" rend="gaiji" rendition="img" source="※(濁点付き片仮名ワ、1-7-82)" />スを破り<lb />
+つねにつねに悪酒に浸れるわが友は<lb />
+わが熱したる身をかき抱き<lb />
+ともに夕陽のリズムに聴きとらんとはせり<lb />
+しんに夕の麺麭をもとめんに<lb />
+もはや絶えてよしなければ<lb />
+ただ総身はガラスのごとく透きとほり<lb />
+らんらんとして落ちむとする日のなかに<lb />
+喜びいさみつつ踊る<lb />
+わが友よ<lb />
+ただ聞け上野寛永寺の鐘のひびきも<lb />
+いんいんたる炎なり<lb />
+立ちて為すすべしなければ<lb />
+ただ踊りつつ涙ぐむ炎なり<lb />
+おろかなる再生を思慕することはなく<lb />
+君はブラツシユをもて踊れ<lb />
+われまづしき詩篇に火を放ち<lb />
+踊り狂ひて死にゆかむ<lb />
+さらにみよ<lb />
+坂の上に転ろびつつ日はしづむ<lb />
+そのごとく踊りつつ転ろびつつ<lb />
+坂を上らむとするにあらずや<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1154">坂</span></span></span>
+<lb />
+この坂をのぼらざるべからず<lb />
+踊りつつ攀らざるべからず<lb />
+すでに桜はしんじつを感じて<lb />
+坂のふた側に佇ちつくせども<lb />
+ひざんなる室ぬちにかへらねばならず<lb />
+日としてわが霊<lb />
+しほらしからざりしことはなけれど<lb />
+ただ坂の上をおそる<lb />
+いまわが室は寂として<lb />
+かへらむとするわが前に<lb />
+鼠を這はしめんとするか<lb />
+ああわがみじめなる詩篇を携ち<lb />
+悄として<lb />
+されど踊りつつ坂をのぼらざるべからず<lb />
+坂は谷中より根津に通じ<lb />
+本郷より神田に及ぶ<lb />
+さんとして<lb />
+眼くらやむなかに坂はあり<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1164">断章</span></span></span>
+<lb />
+さかづきを挙ぐれども<lb />
+なんぞ寂しやみやこやちまたに<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1174">道</span></span></span>
+<lb />
+パンを求めゆくの道なり<lb />
+狂気にもなる道だ<lb />
+電車と自働車とに埋るるの道なり<lb />
+道は正直なり<lb />
+人間が人間の<lb />
+たましひの踏み潰されるところだ<lb />
+太陽と月光との道であり<lb />
+われと君との道であり<lb />
+むしけらの道でもある<lb />
+ときにふるさとの愛<lb />
+あきらかに夏は<lb />
+その道の上に落ちる<lb />
+母と父と<lb />
+愛の湧くところの道だ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1184">酒場</span></span></span>
+<lb />
+酒場にゆけば月が出る<lb />
+犬のやうに悲しげに吼えてのむ<lb />
+酒場にゆけば月が出る<lb />
+酒にただれて魂もころげ出す<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1194">街にて</span></span></span>
+<lb />
+引き摺られ<lb />
+息窒まりつつ<lb />
+きんきんと叫びを立て<lb />
+さうらうとしてわれ歩ゆむ<lb />
+しめやかに雨ふる街を眺め昂ぶり<lb />
+凍みたる手を温めんとして<lb />
+さうらうとしてわれ歩ゆむ<lb />
+わが天鵞絨の服は泥をもて汚され<lb />
+わが靴はかなしげに鳴り<lb />
+れいらくの汚なき姿をうつす<lb />
+雨そそぐ都の街の上を<lb />
+髪むしりつつ<lb />
+血みどろに惨として我あゆむ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1204">夏の国</span></span></span>
+<lb />
+夏は真蒼だ<lb />
+まだ見もしらぬ国国の<lb />
+夏はしんから真蒼だ<lb />
+わが生れ<lb />
+わが育てられたるの国<lb />
+加賀のくに金沢の<span type="ruby"><span type="rb">市街</span><span type="rp">（</span><span type="rt">まち</span><span type="rp">）</span></span><lb />
+ゆうゆうと流るる犀の川<lb />
+川なみなみに充ち<lb />
+するどく魚ははしる<lb />
+ああ　その岸辺に<lb />
+をみなごの友もゐる<lb />
+けふ東京は雨<lb />
+いちにち座してこひしさに<lb />
+みどりの国のこひしさに<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1214">二つの瞳孔</span></span></span>
+<lb />
+われ生きて佇てる地の上<lb />
+われとともに伸びる遠き瞳孔<lb />
+しんとして<lb />
+輝きわたる瞳孔<lb />
+はるかなり唯とほくして<lb />
+消えむとする二つの瞳孔<lb />
+<lb />
+悲しみ窒息し<lb />
+ぼうとして<lb />
+葱のごとき苦きものに築きあげられ<lb />
+輝やける二つの瞳孔<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1224">あさぞら</span></span></span>
+<lb />
+並木は蒼し<lb />
+あはれあしたのミルク手にとれば<lb />
+いのちは光る<lb />
+きよみわたりし朝の空<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1234">郊外にて</span></span></span>
+<lb />
+畑について<lb />
+のろのろと汽車はあるいてゐる<lb />
+麦となたねのだんだん畑<lb />
+汽車はのろのろあるいてゐる<lb />
+のんきな汽車である<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1244">寂しき椅子</span></span></span>
+<lb />
+いつも来て座る椅子にもたれ<lb />
+沈んで考へることが好だ<lb />
+日がくれる<lb />
+わたしは訪れてゆく<lb />
+寂しきその椅子のあるところに<lb />
+波うつ杯をしたひて<lb />
+永き夜をかくては送る<lb />
+いつはてるとなき<lb />
+深きいたみに<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1254">十月のノオト</span></span></span>
+<lb />
+時計は銀にあらざれば光らず、帆は布をもて金色を胎ましめざるべからず<lb />
+<lb />
+頭の垂がるやうな詩、深き精神のそこひより掻きのぼれ<lb />
+<lb />
+こひしさにけぶりこもりて畑土に<lb />
+ゆめのやうに雪はきえた<lb />
+<lb />
+わたしは君のてがみを食べてしまつた<lb />
+わたしは胃を悪くした<lb />
+<lb />
+われは海光を浴びたり<lb />
+もう雪が来た、どの山みても燻し銀<lb />
+<lb />
+沖にむかひ永く佇む<lb />
+沖より来る響、暗然として湧く力<lb />
+<lb />
+くもり日の光やすらふほとり朱き葉は走る上野の<span type="ruby"><span type="rb">公園</span><span type="rp">（</span><span type="rt">そのふ</span><span type="rp">）</span></span><lb />
+<lb />
+霊魂は珠根を深く庭園に埋めた、いつかは咲くだらう<lb />
+<lb />
+ああ　総ての人間に涙あれ<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1264">合掌</span></span></span>
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1265">その一</span></span></span>
+<lb />
+坂はびろうど夕日炎炎<lb />
+坂はみどりの下り坂、夕は祈りの鐘が鳴る<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1266">その二</span></span></span>
+<lb />
+耶蘇は畑中ゆふぐれに<lb />
+われもゆふぐれ畑中に<lb />
+葱はおとろゆ<lb />
+夏の日に<lb />
+耶蘇はものいふ<lb />
+われもいふ<lb />
+畑はひかりて麦を吐き<lb />
+耶蘇はゆふぐれ畑中に<lb />
+われもゆふぐれ畑中に<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1267">その三</span></span></span>
+<lb />
+かうべ垂れ<lb />
+いまは緑を合掌す<lb />
+きびしき心となり<lb />
+みづからを責むる心となり<lb />
+主よ山のふもとにわれ住みて<lb />
+すこし衰ろへ<lb />
+いまは緑の木木に<lb />
+その高きあたひに<lb />
+かうべ垂れ合掌す<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1268">その四</span></span></span>
+<lb />
+むしけらのごとき<lb />
+ひとみのけがれ<lb />
+けがれしまま<lb />
+けふは知る<lb />
+深きざんげのあたひを知る<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1269">その五</span></span></span>
+<lb />
+みやこに住めど<lb />
+心に繁る深き田舎の夏ぞ<lb />
+日を追ひては深む<lb />
+いつくしみある地の夏ぞ<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1270">その六</span></span></span>
+<lb />
+ながれに向ひ釣を垂る<lb />
+みなそこふかく<lb />
+ひそめるものに触れむとし<lb />
+祈るがごとく釣を垂る<lb />
+崖よりいまはなみだ垂れ<lb />
+<lb />
+魚介のあなた<lb />
+ながれに感ず<lb />
+波のおもみはきたる肩の上に<lb />
+祈るがごとく釣を垂る<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

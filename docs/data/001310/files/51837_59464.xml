@@ -1,0 +1,3241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>五百句</title>
+        <author>高浜虚子</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2016-06-26">作成</resp><resp /><note>
+<lb />
+底本：「虚子五句集（上）〔全2冊〕」岩波文庫、岩波書店<lb />
+　　　1996（平成8）年9月17日第1刷発行<lb />
+底本の親本：「五百句」改造社<lb />
+　　　1937（昭和12）年6月17日<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+※新仮名によると思われるルビの拗音、促音は、小書きしました<lb />
+※「丸の内」と「丸之内」と「丸ノ内」の混在は底本通りです<lb />
+入力：岡村和彦<lb />
+校正：酒井和郎<lb />
+<date when="2016-06-26">2016年6月26日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>岡村和彦</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>酒井和郎</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>五百句</title><author>高浜虚子</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">序</span></span></span>
+<lb />
+『ホトトギス』五百号の記念に出版するのであって、従って五百句に限った。<lb />
+　この<span type="ruby"><span type="rb">頃</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>の自分の好みから言えば、勢い近頃の句が多くならねばならぬのであるが、しかし古い時代の句にもそれぞれの時代に応じて捨てがたく思うものもあるので、<span type="ruby"><span type="rb">先</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>ず明治・大正・昭和三時代の句をほぼ等分に採ったことになった。<lb />
+　範囲は俳句を作り始めた明治二十四、五年頃から昭和十年まで、<span type="ruby"><span type="rb">即</span><span type="rp">（</span><span type="rt">すなわち</span><span type="rp">）</span></span>昭和十一年十一月二十日に出版した『句日記』の句までとしたので、その後の句はこの集には<span type="ruby"><span type="rb">洩</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>れている。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">昭和十二年五月二十七日</span>
+<span rend="chitsuki_5" rendition="div" style="text-align:right; margin-right: 5em">『ホトトギス』発行所</span>
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">高浜虚子</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">明治時代</span></span></span>
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<lb />
+<lb />
+<span type="ruby"><span type="rb">春雨</span><span type="rp">（</span><span type="rt">はるさめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">衣桁</span><span type="rp">（</span><span type="rt">いこう</span><span type="rp">）</span></span>に重し<span type="ruby"><span type="rb">恋衣</span><span type="rp">（</span><span type="rt">こいごろも</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十七年<lb />
+</span>
+</span>
+<lb />
+夕立やぬれて戻りて欄に<span type="ruby"><span type="rb">倚</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十八年　子規を神戸病院より、須磨保養院に送りて数日滞在。<lb />
+</span>
+</span>
+<lb />
+風が吹く仏<span type="ruby"><span type="rb">来給</span><span type="rp">（</span><span type="rt">きたも</span><span type="rp">）</span></span>ふけはひあり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十八年八月　下戸塚、<span type="ruby"><span type="rb">古白旧廬</span><span type="rp">（</span><span type="rt">こはくきゅうろ</span><span type="rp">）</span></span>に移る。一日、<span type="ruby"><span type="rb">鳴雪</span><span type="rp">（</span><span type="rt">めいせつ</span><span type="rp">）</span></span>、五城、<span type="ruby"><span type="rb">碧梧桐</span><span type="rp">（</span><span type="rt">へきごとう</span><span type="rp">）</span></span>、森々招集、運座を開く。<lb />
+</span>
+</span>
+<lb />
+しぐれつつ留守<span type="ruby"><span type="rb">守</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>る神の<span type="ruby"><span type="rb">銀杏</span><span type="rp">（</span><span type="rt">いちょう</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十八年<lb />
+</span>
+</span>
+<lb />
+もとよりも恋は<span type="ruby"><span type="rb">曲者</span><span type="rp">（</span><span type="rt">くせもの</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">懸想文</span><span type="rp">（</span><span type="rt">けそうぶみ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">怒濤</span><span type="rp">（</span><span type="rt">どとう</span><span type="rp">）</span></span>岩を<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>む我を神かと<span type="ruby"><span type="rb">朧</span><span type="rp">（</span><span type="rt">おぼろ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+海に入りて生れかはらう朧月<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+大根の花<span type="ruby"><span type="rb">紫野</span><span type="rp">（</span><span type="rt">むらさきの</span><span type="rp">）</span></span><span type="ruby"><span type="rb">大徳寺</span><span type="rp">（</span><span type="rt">だいとくじ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+山門も<span type="ruby"><span type="rb">伽藍</span><span type="rp">（</span><span type="rt">がらん</span><span type="rp">）</span></span>も花の雲の上<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">縄</span><span type="rp">（</span><span type="rt">なわ</span><span type="rp">）</span></span>朽ちて<span type="ruby"><span type="rb">水鶏</span><span type="rp">（</span><span type="rt">くいな</span><span type="rp">）</span></span><span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>けばあく戸なり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;"><span type="ruby"><span type="rb">愚庵</span><span type="rp">（</span><span type="rt">ぐあん</span><span type="rp">）</span></span>十二勝の内、清風関</span></span>
+叩けども／＼水鶏許されず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+先生が<span type="ruby"><span type="rb">瓜盗人</span><span type="rp">（</span><span type="rt">うりぬすびと</span><span type="rp">）</span></span>でおはせしか<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">病</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>む人の<span type="ruby"><span type="rb">蚊遣</span><span type="rp">（</span><span type="rt">かやり</span><span type="rp">）</span></span>見てゐる<span type="ruby"><span type="rb">蚊帳</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>の中<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+蚊帳越しに薬煮る母をかなしみつ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+人<span type="ruby"><span type="rb">病</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>むやひたと来て鳴く壁の<span type="ruby"><span type="rb">蝉</span><span type="rp">（</span><span type="rt">せみ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">鶏</span><span type="rp">（</span><span type="rt">にわとり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">空時</span><span type="rp">（</span><span type="rt">そらどき</span><span type="rp">）</span></span>つくる<span type="ruby"><span type="rb">野分</span><span type="rp">（</span><span type="rt">のわき</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">弟子</span><span type="rp">（</span><span type="rt">でし</span><span type="rp">）</span></span>僧にならせ給ひつ月の秋<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+松虫に恋しき人の書斎かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+盗んだる<span type="ruby"><span type="rb">案山子</span><span type="rp">（</span><span type="rt">かがし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">笠</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>に雨急なり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治二十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">元朝</span><span type="rp">（</span><span type="rt">がんちょう</span><span type="rp">）</span></span>の氷すてたり<span type="ruby"><span type="rb">手水鉢</span><span type="rp">（</span><span type="rt">ちょうずばち</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+石をきつて火食を知りぬ蛇穴を出る<lb />
+<lb />
+蛇穴を出て見れば周の天下なり<lb />
+<lb />
+穴を出る蛇を見て<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">鴉</span><span type="rp">（</span><span type="rt">からす</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">間道</span><span type="rp">（</span><span type="rt">かんどう</span><span type="rp">）</span></span>の藤多き<span type="ruby"><span type="rb">辺</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>でたりし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">逡巡</span><span type="rp">（</span><span type="rt">しゅんじゅん</span><span type="rp">）</span></span>として<span type="ruby"><span type="rb">繭</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>ごもらざる蚕かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+橋涼み笛ふく人をとりまきぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年七月二十二日　五月以来母病気のため松山にあり。八月に至る。<lb />
+</span>
+</span>
+<lb />
+星落つる<span type="ruby"><span type="rb">籬</span><span type="rp">（</span><span type="rt">まがき</span><span type="rp">）</span></span>の中や<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>うつ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">蒲団</span><span type="rp">（</span><span type="rt">ふとん</span><span type="rp">）</span></span>かたぐ人も乗せたり渡舟<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">柴漬</span><span type="rp">（</span><span type="rt">ふしづけ</span><span type="rp">）</span></span>に見るもかなしき<span type="ruby"><span type="rb">小魚</span><span type="rp">（</span><span type="rt">こうお</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+耳とほき浮世の事や<span type="ruby"><span type="rb">冬籠</span><span type="rp">（</span><span type="rt">ふゆごもり</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十一年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">鶯</span><span type="rp">（</span><span type="rt">うぐいす</span><span type="rp">）</span></span>や文字も知らずに<span type="ruby"><span type="rb">歌心</span><span type="rp">（</span><span type="rt">うたごころ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十二年<lb />
+</span>
+</span>
+<lb />
+亀鳴くや皆<span type="ruby"><span type="rb">愚</span><span type="rp">（</span><span type="rt">おろか</span><span type="rp">）</span></span>なる村のもの<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十二年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">薔薇</span><span type="rp">（</span><span type="rt">ばら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">呉</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>れて聖書かしたる女かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十二年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">五月雨</span><span type="rp">（</span><span type="rt">さみだれ</span><span type="rp">）</span></span>や魚とる人の流るべう<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十二年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">蓑虫</span><span type="rp">（</span><span type="rt">みのむし</span><span type="rp">）</span></span>の父よと鳴きて母もなし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十二年九月十日　根岸庵例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">稲塚</span><span type="rp">（</span><span type="rt">いねづか</span><span type="rp">）</span></span>にしばしもたれて旅悲し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十二年九月二十五日　虚子庵例会。会者、鳴雪、碧梧桐、五城、墨水、麦人、潮音、紫人、三子、<span type="ruby"><span type="rb">孤雁</span><span type="rp">（</span><span type="rt">こがん</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">燕洋</span><span type="rp">（</span><span type="rt">えんよう</span><span type="rp">）</span></span>、森堂、<span type="ruby"><span type="rb">青嵐</span><span type="rp">（</span><span type="rt">せいらん</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">三允</span><span type="rp">（</span><span type="rt">さんいん</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">竹子</span><span type="rp">（</span><span type="rt">ちくし</span><span type="rp">）</span></span>、井村、<span type="ruby"><span type="rb">芋村</span><span type="rp">（</span><span type="rt">うそん</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">坦々</span><span type="rp">（</span><span type="rt">たんたん</span><span type="rp">）</span></span>、耕雨。<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">おく</span><span type="rp">）</span></span>れて<span type="ruby"><span type="rb">肋骨</span><span type="rp">（</span><span type="rt">ろっこつ</span><span type="rp">）</span></span>、黄塔、把栗来る。<lb />
+十月一日、<span type="ruby"><span type="rb">松瀬</span><span type="rp">（</span><span type="rt">まつせ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">青々</span><span type="rp">（</span><span type="rt">せいせい</span><span type="rp">）</span></span>上京、発行所に入る。<lb />
+</span>
+</span>
+<lb />
+春の<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>や机の上の<span type="ruby"><span type="rb">肱</span><span type="rp">（</span><span type="rt">ひじ</span><span type="rp">）</span></span>まくら<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十三年<lb />
+</span>
+</span>
+<lb />
+雨に<span type="ruby"><span type="rb">濡</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>れ日に<span type="ruby"><span type="rb">乾</span><span type="rp">（</span><span type="rt">かわ</span><span type="rp">）</span></span>きたる<span type="ruby"><span type="rb">幟</span><span type="rp">（</span><span type="rt">のぼり</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十三年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">煙管</span><span type="rp">（</span><span type="rt">きせる</span><span type="rp">）</span></span>のむ手品の下手や夕涼み<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十三年七月二十五日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">遠山</span><span type="rp">（</span><span type="rt">とおやま</span><span type="rp">）</span></span>に日の当りたる枯野かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十三年十一月二十五日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+美しき人や<span type="ruby"><span type="rb">蚕飼</span><span type="rp">（</span><span type="rt">こがい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">玉襷</span><span type="rp">（</span><span type="rt">たまだすき</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十四年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">帷子</span><span type="rp">（</span><span type="rt">かたびら</span><span type="rp">）</span></span>に花の<span type="ruby"><span type="rb">乳房</span><span type="rp">（</span><span type="rt">ちぶさ</span><span type="rp">）</span></span>やお<span type="ruby"><span type="rb">乳</span><span type="rp">（</span><span type="rt">ち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">人</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十四年<lb />
+</span>
+</span>
+<lb />
+山寺の<span type="ruby"><span type="rb">宝物</span><span type="rp">（</span><span type="rt">ほうもつ</span><span type="rp">）</span></span>見るや花の雨<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十五年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">肌</span><span type="rp">（</span><span type="rt">はだ</span><span type="rp">）</span></span>脱いで髪すく庭や<span type="ruby"><span type="rb">木瓜</span><span type="rp">（</span><span type="rt">ぼけ</span><span type="rp">）</span></span>の花<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十五年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">打水</span><span type="rp">（</span><span type="rt">うちみず</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">暫</span><span type="rp">（</span><span type="rt">しばら</span><span type="rp">）</span></span>く藤の<span type="ruby"><span type="rb">雫</span><span type="rp">（</span><span type="rt">しずく</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十五年？　<span type="ruby"><span type="rb">或</span><span type="rp">（</span><span type="rt">あるい</span><span type="rp">）</span></span>は三十二年又は三十四年か。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">危坐</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">兀坐</span><span type="rp">（</span><span type="rt">こつざ</span><span type="rp">）</span></span>賓主いづれや<span type="ruby"><span type="rb">簟</span><span type="rp">（</span><span type="rt">たかむしろ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十五年七月二十七日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+長き根に秋風を待つ<span type="ruby"><span type="rb">鴨足草</span><span type="rp">（</span><span type="rt">ゆきのした</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十五年　横浜俳句会。<lb />
+<span type="ruby"><span type="rb">此</span><span type="rp">（</span><span type="rt">この</span><span type="rp">）</span></span>年九月十九日。子規<span type="ruby"><span type="rb">歿</span><span type="rp">（</span><span type="rt">ぼつ</span><span type="rp">）</span></span>。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">花衣</span><span type="rp">（</span><span type="rt">はなごろも</span><span type="rp">）</span></span>脱ぎもかへずに芝居かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">老</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>ぼれて人の<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">しり</span><span type="rp">）</span></span>へに<span type="ruby"><span type="rb">施米</span><span type="rp">（</span><span type="rt">せまい</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年五月二十五日　虚子庵例会。会者、碧梧桐、癖三酔、碧童、<span type="ruby"><span type="rb">左衛門</span><span type="rp">（</span><span type="rt">さえもん</span><span type="rp">）</span></span>、酔仏、一転等。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">葛水</span><span type="rp">（</span><span type="rt">くずみず</span><span type="rp">）</span></span>に松風<span type="ruby"><span type="rb">塵</span><span type="rp">（</span><span type="rt">ちり</span><span type="rp">）</span></span>を落すなり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+摂待の寺<span type="ruby"><span type="rb">賑</span><span type="rp">（</span><span type="rt">にぎ</span><span type="rp">）</span></span>はしや松の奥<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+秋風や眼中のもの皆俳句<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+友は大官<span type="ruby"><span type="rb">芋</span><span type="rp">（</span><span type="rt">いも</span><span type="rp">）</span></span><span type="ruby"><span type="rb">掘</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>つてこれをもてなしぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">瓢箪</span><span type="rp">（</span><span type="rt">ひょうたん</span><span type="rp">）</span></span>の窓や人住まざるが如し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+書中古人に会す妻が炭ひく音すなり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+茶の花に暖き日のしまひかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十六年<lb />
+</span>
+</span>
+<lb />
+坂の茶屋前ほとばしる春の水<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年<lb />
+</span>
+</span>
+<lb />
+裏山に藤波かかるお寺かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年四月二十五日　徳上院例会。<lb />
+</span>
+</span>
+<lb />
+ほろ／＼と泣き合ふ尼や<span type="ruby"><span type="rb">山葵漬</span><span type="rp">（</span><span type="rt">わさびづけ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">御車</span><span type="rp">（</span><span type="rt">みくるま</span><span type="rp">）</span></span>に牛かくる空やほととぎす<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年五月二十五日　徳上院例会。<lb />
+</span>
+</span>
+<lb />
+大海のうしほはあれど<span type="ruby"><span type="rb">旱</span><span type="rp">（</span><span type="rt">ひでり</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年六月二十五日　徳上院例会。<lb />
+</span>
+</span>
+<lb />
+むづかしき禅門出れば<span type="ruby"><span type="rb">葛</span><span type="rp">（</span><span type="rt">くず</span><span type="rp">）</span></span>の花<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">或時</span><span type="rp">（</span><span type="rt">あるとき</span><span type="rp">）</span></span>は谷深く折る<span type="ruby"><span type="rb">夏花</span><span type="rp">（</span><span type="rt">げばな</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">発心</span><span type="rp">（</span><span type="rt">ほっしん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">髻</span><span type="rp">（</span><span type="rt">もとどり</span><span type="rp">）</span></span>を吹く<span type="ruby"><span type="rb">野分</span><span type="rp">（</span><span type="rt">のわき</span><span type="rp">）</span></span>かな<lb />
+<lb />
+秋風にふえてはへるや<span type="ruby"><span type="rb">法師蝉</span><span type="rp">（</span><span type="rt">ほうしぜみ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十七年八月二十七日　芝田町海水浴場例会。会者、鳴雪、牛歩、碧童、<span type="ruby"><span type="rb">井泉水</span><span type="rp">（</span><span type="rt">せいせんすい</span><span type="rp">）</span></span>、癖三酔、つゝじ等。<lb />
+</span>
+</span>
+<lb />
+うき巣見て事足りぬれば<span type="ruby"><span type="rb">漕</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ぎかへる<lb />
+<lb />
+鎌とげば<span type="ruby"><span type="rb">藜</span><span type="rp">（</span><span type="rt">あかざ</span><span type="rp">）</span></span>悲しむけしきかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年七月二十三日　浅草白泉寺例会。会者、鳴雪、碧童、癖三酔、不喚楼、<span type="ruby"><span type="rb">雉子郎</span><span type="rp">（</span><span type="rt">きじろう</span><span type="rp">）</span></span>、碧梧桐、<span type="ruby"><span type="rb">水巴</span><span type="rp">（</span><span type="rt">すいは</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">松浜</span><span type="rp">（</span><span type="rt">しょうひん</span><span type="rp">）</span></span>、一転等。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">蚊遣火</span><span type="rp">（</span><span type="rt">かやりび</span><span type="rp">）</span></span>や縁に腰かけ話し去る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年七月二十八日　癖三酔、松浜と共に。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">行水</span><span type="rp">（</span><span type="rt">ぎょうずい</span><span type="rp">）</span></span>の女にほれる<span type="ruby"><span type="rb">烏</span><span type="rp">（</span><span type="rt">からす</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年<lb />
+</span>
+</span>
+<lb />
+客人に下れる<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>や草の宿<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span><span type="ruby"><span type="rb">掃</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>けば太鼓落して悲しけれ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年<lb />
+</span>
+</span>
+<lb />
+相慕ふ村の<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>二つ虫の声<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年<lb />
+</span>
+</span>
+<lb />
+もの知りの長き<span type="ruby"><span type="rb">面輪</span><span type="rp">（</span><span type="rt">おもわ</span><span type="rp">）</span></span>に秋立ちぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年八月十七日　王城、松浜と共に。<lb />
+</span>
+</span>
+<lb />
+花<span type="ruby"><span type="rb">提</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>げて先生の墓や突当り<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年八月二十一日　<span type="ruby"><span type="rb">鴨涯</span><span type="rp">（</span><span type="rt">おうがい</span><span type="rp">）</span></span>、松浜と共に。<lb />
+</span>
+</span>
+<lb />
+村の名も法隆寺なり麦を<span type="ruby"><span type="rb">蒔</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>く<lb />
+<lb />
+冬の山低きところや法隆寺<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十八年十一月二十六日　浅草白泉寺例会。<lb />
+</span>
+</span>
+<lb />
+座を<span type="ruby"><span type="rb">挙</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>げて恋ほのめくや歌かるた<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年一月六日　新年会。<span type="ruby"><span type="rb">三河島</span><span type="rp">（</span><span type="rt">みかわしま</span><span type="rp">）</span></span>喜楽園。会者、癖三酔、松浜、一声、三允、鳴雪、碧梧桐、乙字等。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">垣間</span><span type="rp">（</span><span type="rt">かいま</span><span type="rp">）</span></span>見る<span type="ruby"><span type="rb">好色者</span><span type="rp">（</span><span type="rt">すきもの</span><span type="rp">）</span></span>に草<span type="ruby"><span type="rb">芳</span><span type="rp">（</span><span type="rt">かぐわ</span><span type="rp">）</span></span>しき<lb />
+<lb />
+<span type="ruby"><span type="rb">芳草</span><span type="rp">（</span><span type="rt">ほうそう</span><span type="rp">）</span></span>や黒き烏も<span type="ruby"><span type="rb">濃紫</span><span type="rp">（</span><span type="rt">こむらさき</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年三月十九日　俳諧散心。第一回。小庵。会者、<span type="ruby"><span type="rb">蝶衣</span><span type="rp">（</span><span type="rt">ちょうい</span><span type="rp">）</span></span>、東洋城、癖三酔、松浜、<span type="ruby"><span type="rb">浅茅</span><span type="rp">（</span><span type="rt">あさじ</span><span type="rp">）</span></span>。<lb />
+<span type="ruby"><span type="rb">尚</span><span type="rp">（</span><span type="rt">なお</span><span type="rp">）</span></span>この俳諧散心の会は翌明治四十年一月二十八日に至り四十一回に及ぶ。<lb />
+</span>
+</span>
+<lb />
+草に置いて<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>ともす<span type="ruby"><span type="rb">蛙</span><span type="rp">（</span><span type="rt">かわず</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年四月二日　俳諧散心。第三回。<span type="ruby"><span type="rb">麻布</span><span type="rp">（</span><span type="rt">あざぶ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">竹谷</span><span type="rp">（</span><span type="rt">たけや</span><span type="rp">）</span></span>町<span type="ruby"><span type="rb">闇玉庵</span><span type="rp">（</span><span type="rt">あんぎょくあん</span><span type="rp">）</span></span>（癖三酔宅）。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">山人</span><span type="rp">（</span><span type="rt">やまびと</span><span type="rp">）</span></span>の垣根づたひや桜狩<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年<lb />
+</span>
+</span>
+<lb />
+藤の茶屋<span type="ruby"><span type="rb">女房</span><span type="rp">（</span><span type="rt">にょうぼ</span><span type="rp">）</span></span>ほめ／＼<span type="ruby"><span type="rb">馬士</span><span type="rp">（</span><span type="rt">まご</span><span type="rp">）</span></span>つどふ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年四月二十三日　俳諧散心。第六回。<span type="ruby"><span type="rb">牛込</span><span type="rp">（</span><span type="rt">うしごめ</span><span type="rp">）</span></span>赤城神社脇、清風亭。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">卯</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>の花や<span type="ruby"><span type="rb">仏</span><span type="rp">（</span><span type="rt">ぶつ</span><span type="rp">）</span></span>も願はず隠れ住む<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年五月七日　俳諧散心。第八回。<span type="ruby"><span type="rb">小石川</span><span type="rp">（</span><span type="rt">こいしかわ</span><span type="rp">）</span></span>高田あかなすのや（浅茅庵）。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">寂</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>として残る<span type="ruby"><span type="rb">土階</span><span type="rp">（</span><span type="rt">どかい</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">花茨</span><span type="rp">（</span><span type="rt">はないばら</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年五月二十一日　俳諧散心。第十回。小庵。<lb />
+</span>
+</span>
+<lb />
+門額の大字に<span type="ruby"><span type="rb">点</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>す<span type="ruby"><span type="rb">蝸牛</span><span type="rp">（</span><span type="rt">かぎゅう</span><span type="rp">）</span></span>かな<lb />
+<lb />
+主客閑話ででむし竹を上るなり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年五月三十日　<span type="ruby"><span type="rb">大谷</span><span type="rp">（</span><span type="rt">おおたに</span><span type="rp">）</span></span><span type="ruby"><span type="rb">句仏</span><span type="rp">（</span><span type="rt">くぶつ</span><span type="rp">）</span></span>北海道<span type="ruby"><span type="rb">巡錫</span><span type="rp">（</span><span type="rt">じゅんしゃく</span><span type="rp">）</span></span>の途次来訪を機とし、碧梧桐庵小集。会者、鳴雪、句仏、<span type="ruby"><span type="rb">六花</span><span type="rp">（</span><span type="rt">りっか</span><span type="rp">）</span></span>、碧梧桐、乙字、碧童、松浜。<lb />
+</span>
+</span>
+<lb />
+麻の中月の白さに送りけり<lb />
+<lb />
+麻の上稲妻赤くかかりけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年五月三十一日　星ヶ岡茶寮小集。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">上人</span><span type="rp">（</span><span type="rt">しょうにん</span><span type="rp">）</span></span>の俳諧の<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">灯取虫</span><span type="rp">（</span><span type="rt">ひとりむし</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年六月十九日　碧梧桐送別句会。星ヶ岡茶寮。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">稚児</span><span type="rp">（</span><span type="rt">ちご</span><span type="rp">）</span></span>の手の墨ぞ涼しき松の寺<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年六月二十五日　俳諧散心。第十四回。芝浦海水浴。<lb />
+</span>
+</span>
+<lb />
+すたれ行く町や<span type="ruby"><span type="rb">蝙蝠</span><span type="rp">（</span><span type="rt">こうもり</span><span type="rp">）</span></span>人に飛ぶ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年七月二日　俳諧散心。第十五回。芝浦海水浴。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">夏痩</span><span type="rp">（</span><span type="rt">なつやせ</span><span type="rp">）</span></span>の身をつとめけり婦人会<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年七月十六日　俳諧散心。第十七回。芝浦海水浴。<lb />
+</span>
+</span>
+<lb />
+六十になりて母無き<span type="ruby"><span type="rb">燈籠</span><span type="rp">（</span><span type="rt">とうろ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">送火</span><span type="rp">（</span><span type="rt">おくりび</span><span type="rp">）</span></span>や母が心に<span type="ruby"><span type="rb">幾仏</span><span type="rp">（</span><span type="rt">いくほとけ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">桐一葉</span><span type="rp">（</span><span type="rt">きりひとは</span><span type="rp">）</span></span>日当りながら落ちにけり<lb />
+<lb />
+僧遠く一葉しにけり<span type="ruby"><span type="rb">甃</span><span type="rp">（</span><span type="rt">いしだたみ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年八月二十七日　俳諧散心。第二十二回。小庵。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">秋扇</span><span type="rp">（</span><span type="rt">しゅうせん</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>しき顔の賢夫人<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年<lb />
+</span>
+</span>
+<lb />
+君と我うそにほればや秋の暮<lb />
+<lb />
+<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>しさに小女郎なかすや秋の暮<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年九月十七日　俳諧散心。第二十五回。十二社、梅林亭。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">後家</span><span type="rp">（</span><span type="rt">ごけ</span><span type="rp">）</span></span>がうつ<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">えん</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">惚</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>れて過ぐ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年九月二十四日　俳諧散心。第二十六回。小庵。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">老</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほお</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">くれない</span><span type="rp">）</span></span><span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>すや濁り酒<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年十月八日　俳諧散心。第二十八回。山王社内、楠本亭。<lb />
+</span>
+</span>
+<lb />
+秋空を二つに断てり<span type="ruby"><span type="rb">椎大樹</span><span type="rp">（</span><span type="rt">しいたいじゅ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年十月十五日　俳諧散心。第二十九回。山王社内、楠本亭。<lb />
+</span>
+</span>
+<lb />
+煮ゆる時<span type="ruby"><span type="rb">蕪汁</span><span type="rp">（</span><span type="rt">かぶらじる</span><span type="rp">）</span></span>とぞ<span type="ruby"><span type="rb">匂</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>ひける<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治三十九年<lb />
+</span>
+</span>
+<lb />
+老僧の骨刺しに来る<span type="ruby"><span type="rb">藪蚊</span><span type="rp">（</span><span type="rt">やぶか</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">酒旗</span><span type="rp">（</span><span type="rt">しゅき</span><span type="rp">）</span></span>高し<span type="ruby"><span type="rb">高野</span><span type="rp">（</span><span type="rt">こうや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">麓</span><span type="rp">（</span><span type="rt">ふもと</span><span type="rp">）</span></span><span type="ruby"><span type="rb">鮎</span><span type="rp">（</span><span type="rt">あゆ</span><span type="rp">）</span></span>の里<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十年　<span type="ruby"><span type="rb">巣鴨</span><span type="rp">（</span><span type="rt">すがも</span><span type="rp">）</span></span>、詩痩会。真宗大学内。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">里内裏</span><span type="rp">（</span><span type="rt">さとだいり</span><span type="rp">）</span></span><span type="ruby"><span type="rb">老木</span><span type="rp">（</span><span type="rt">おいき</span><span type="rp">）</span></span>の花もほのめきぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">明易</span><span type="rp">（</span><span type="rt">あけやす</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">第一峰</span><span type="rp">（</span><span type="rt">だいいっぽう</span><span type="rp">）</span></span>のお寺かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年五月二十八日　<span type="ruby"><span type="rb">蕪</span><span type="rp">（</span><span type="rt">かぶら</span><span type="rp">）</span></span>むし会。第四回。寒菊堂。会者、耕村、水巴、知白、東洋城、松浜、<span type="ruby"><span type="rb">蝶衣</span><span type="rp">（</span><span type="rt">ちょうい</span><span type="rp">）</span></span>。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">葛水</span><span type="rp">（</span><span type="rt">くずみず</span><span type="rp">）</span></span>にかきもち添へて出されけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">駒</span><span type="rp">（</span><span type="rt">こま</span><span type="rp">）</span></span>の鼻ふくれて動く泉かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年六月十二日　蕪むし会。第五回。寒菊堂。<lb />
+</span>
+</span>
+<lb />
+岸に釣る人の<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">舟遊</span><span type="rp">（</span><span type="rt">ふなあそび</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年七月三十日　蕪むし会。第六回。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">曝書</span><span type="rp">（</span><span type="rt">ばくしょ</span><span type="rp">）</span></span>風強し<span type="ruby"><span type="rb">赤本</span><span type="rp">（</span><span type="rt">あかほん</span><span type="rp">）</span></span>飛んで<span type="ruby"><span type="rb">金平</span><span type="rp">（</span><span type="rt">きんぴら</span><span type="rp">）</span></span>怒る<lb />
+<lb />
+<span type="ruby"><span type="rb">書函</span><span type="rp">（</span><span type="rt">しょかん</span><span type="rp">）</span></span>序あり天地<span type="ruby"><span type="rb">玄黄</span><span type="rp">（</span><span type="rt">げんこう</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">曝</span><span type="rp">（</span><span type="rt">さら</span><span type="rp">）</span></span>しけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月五日　日盛会。第五回。小庵。<lb />
+尚この会は八月一日第一回を開き<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほとんど</span><span type="rp">）</span></span>毎日会して八月三十一日に至る。此時の会者、東洋城、癖三酔、松浜、水巴、<span type="ruby"><span type="rb">蛇笏</span><span type="rp">（</span><span type="rt">だこつ</span><span type="rp">）</span></span>、三允、香村、<span type="ruby"><span type="rb">眉月</span><span type="rp">（</span><span type="rt">びげつ</span><span type="rp">）</span></span>、蝶衣等。<lb />
+</span>
+</span>
+<lb />
+ぢぢと鳴く<span type="ruby"><span type="rb">蝉</span><span type="rp">（</span><span type="rt">せみ</span><span type="rp">）</span></span>草にある<span type="ruby"><span type="rb">夕立</span><span type="rp">（</span><span type="rt">ゆだち</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月九日　日盛会。第九回。小庵。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">羽抜鶏</span><span type="rp">（</span><span type="rt">はぬけどり</span><span type="rp">）</span></span><span type="ruby"><span type="rb">吃々</span><span type="rp">（</span><span type="rt">きつきつ</span><span type="rp">）</span></span>として<span type="ruby"><span type="rb">高音</span><span type="rp">（</span><span type="rt">たかね</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月十日　日盛会。第十回。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">金亀子</span><span type="rp">（</span><span type="rt">こがねむし</span><span type="rp">）</span></span><span type="ruby"><span type="rb">擲</span><span type="rp">（</span><span type="rt">なげう</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">闇</span><span type="rp">（</span><span type="rt">やみ</span><span type="rp">）</span></span>の深さかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月十一日　日盛会。第十一回。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">新涼</span><span type="rp">（</span><span type="rt">しんりょう</span><span type="rp">）</span></span>の驚き<span type="ruby"><span type="rb">貌</span><span type="rp">（</span><span type="rt">がお</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">きた</span><span type="rp">）</span></span>りけり<lb />
+<lb />
+草市ややがて行くべき道の露<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月十四日　蕪むし会。第七回。寒菊堂。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">ひやや</span><span type="rp">）</span></span>かや<span type="ruby"><span type="rb">湯治</span><span type="rp">（</span><span type="rt">とうじ</span><span type="rp">）</span></span>九旬の峰の月<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月十七日　日盛会。第十六回。<lb />
+</span>
+</span>
+<lb />
+仲秋の<span type="ruby"><span type="rb">其</span><span type="rp">（</span><span type="rt">その</span><span type="rp">）</span></span><span type="ruby"><span type="rb">一峰</span><span type="rp">（</span><span type="rt">いっぽう</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">愛宕</span><span type="rp">（</span><span type="rt">あたご</span><span type="rp">）</span></span>かな<lb />
+<lb />
+仲秋や<span type="ruby"><span type="rb">院宣</span><span type="rp">（</span><span type="rt">いんぜん</span><span type="rp">）</span></span>をまつ<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>のほとり<lb />
+<lb />
+仲秋をつつむ一句の<span type="ruby"><span type="rb">主</span><span type="rp">（</span><span type="rt">あるじ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月二十二日　日盛会。第二十回。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">凡</span><span type="rp">（</span><span type="rt">およ</span><span type="rp">）</span></span>そ天下に<span type="ruby"><span type="rb">去来</span><span type="rp">（</span><span type="rt">きょらい</span><span type="rp">）</span></span><span type="ruby"><span type="rb">程</span><span type="rp">（</span><span type="rt">ほど</span><span type="rp">）</span></span>の小さき墓に参りけり<lb />
+<lb />
+<span type="ruby"><span type="rb">由公</span><span type="rp">（</span><span type="rt">よしこう</span><span type="rp">）</span></span>の墓に参るや<span type="ruby"><span type="rb">供</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>連れて<lb />
+<lb />
+<span type="ruby"><span type="rb">此</span><span type="rp">（</span><span type="rt">この</span><span type="rp">）</span></span>墓に系図はじまるや拝みけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月二十三日　日盛会。第二十一回。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">螽</span><span type="rp">（</span><span type="rt">いなご</span><span type="rp">）</span></span>とぶ音杼に似て低きかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月二十五日　日盛会。第二十三回。<lb />
+</span>
+</span>
+<lb />
+芋を掘る手をそのままに上京す<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年八月二十七日　日盛会。第二十五回。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">園</span><span type="rp">（</span><span type="rt">その</span><span type="rp">）</span></span>に聞く人語新し<span type="ruby"><span type="rb">野分跡</span><span type="rp">（</span><span type="rt">のわきあと</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年　秋。村上<span type="ruby"><span type="rb">霽月</span><span type="rp">（</span><span type="rt">せいげつ</span><span type="rp">）</span></span>来小会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">藁寺</span><span type="rp">（</span><span type="rt">わらでら</span><span type="rp">）</span></span>に緑一団の<span type="ruby"><span type="rb">芭蕉</span><span type="rp">（</span><span type="rt">ばしょう</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+明治四十一年　秋。蕪むし会。第九回。<lb />
+</span>
+</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">大正時代</span></span></span>
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<lb />
+<lb />
+<span type="ruby"><span type="rb">三世</span><span type="rp">（</span><span type="rt">さんぜ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">仏</span><span type="rp">（</span><span type="rt">ぶつ</span><span type="rp">）</span></span>皆座にあれば寒からず<lb />
+<lb />
+<span type="ruby"><span type="rb">霜</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>降れば霜を<span type="ruby"><span type="rb">楯</span><span type="rp">（</span><span type="rt">たて</span><span type="rp">）</span></span>とす<span type="ruby"><span type="rb">法</span><span type="rp">（</span><span type="rt">のり</span><span type="rp">）</span></span>の城<lb />
+<lb />
+死神を<span type="ruby"><span type="rb">蹶</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>る力無き<span type="ruby"><span type="rb">蒲団</span><span type="rp">（</span><span type="rt">ふとん</span><span type="rp">）</span></span>かな<lb />
+<lb />
+その日／＼死ぬる<span type="ruby"><span type="rb">此身</span><span type="rp">（</span><span type="rt">このみ</span><span type="rp">）</span></span>と蒲団かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年一月十九日　鎌倉虚子庵句会。<span type="ruby"><span type="rb">病臥</span><span type="rp">（</span><span type="rt">びょうが</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">儘</span><span type="rp">（</span><span type="rt">まま</span><span type="rp">）</span></span>。<lb />
+</span>
+</span>
+<lb />
+先人も<span type="ruby"><span type="rb">惜</span><span type="rp">（</span><span type="rt">おし</span><span type="rp">）</span></span>みし命<span type="ruby"><span type="rb">二日灸</span><span type="rp">（</span><span type="rt">ふつかきゅう</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年二月十日　大平山句会。栃木郊外大平山茶亭。<lb />
+</span>
+</span>
+<lb />
+春風や闘志いだきて丘に立つ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年二月十一日　三田俳句会。東京芝浦。<lb />
+</span>
+</span>
+<lb />
+大寺を包みてわめく木の芽かな<lb />
+<lb />
+<span type="ruby"><span type="rb">菊根分</span><span type="rp">（</span><span type="rt">きくねわけ</span><span type="rp">）</span></span>剣気つつみて背丸し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年二月二十六日　半美庵偶会。戸塚。<lb />
+</span>
+</span>
+<lb />
+この<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>の古墳の月日<span type="ruby"><span type="rb">椿</span><span type="rp">（</span><span type="rt">つばき</span><span type="rp">）</span></span>かな<lb />
+<lb />
+一つ根に離れ浮く葉や春の水<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年　春。虚子庵句会。<lb />
+</span>
+</span>
+<lb />
+草<span type="ruby"><span type="rb">摘</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>みし今日の野いたみ<span type="ruby"><span type="rb">夜雨</span><span type="rp">（</span><span type="rt">やう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">きた</span><span type="rp">）</span></span>る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">舟</span><span type="rp">（</span><span type="rt">ふね</span><span type="rp">）</span></span><span type="ruby"><span type="rb">岸</span><span type="rp">（</span><span type="rt">きし</span><span type="rp">）</span></span>につけば柳に星一つ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年三月九日　ホトトギス発行所例会再興第一回。芝田町汐湯に<span type="ruby"><span type="rb">於</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>て。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">濡縁</span><span type="rp">（</span><span type="rt">ぬれえん</span><span type="rp">）</span></span>にいづくとも無き落花かな<lb />
+<lb />
+<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>に落花の風の見ゆるかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年　春。鎌倉、雨村庵にて。庵主、宗演老師等と共に。<lb />
+</span>
+</span>
+<lb />
+田植すみて東海道雨の人馬かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年六月一日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+今日の日も衰へあほつ<span type="ruby"><span type="rb">日除</span><span type="rp">（</span><span type="rt">ひよけ</span><span type="rp">）</span></span>かな<lb />
+<lb />
+古庭を魔になかへしそ<span type="ruby"><span type="rb">蟇</span><span type="rp">（</span><span type="rt">ひきがえる</span><span type="rp">）</span></span><lb />
+<lb />
+<span type="ruby"><span type="rb">蛍</span><span type="rp">（</span><span type="rt">ほたる</span><span type="rp">）</span></span>追ふ子ありて人家近きかな<lb />
+<lb />
+<span type="ruby"><span type="rb">寝</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>し<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">いえ</span><span type="rp">）</span></span>を喜びとべる蛍かな<lb />
+<lb />
+師僧<span type="ruby"><span type="rb">遷化</span><span type="rp">（</span><span type="rt">せんげ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">芭蕉</span><span type="rp">（</span><span type="rt">ばしょう</span><span type="rp">）</span></span>玉巻く御寺かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年七月　第一日曜。虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">灯取虫</span><span type="rp">（</span><span type="rt">ひとりむし</span><span type="rp">）</span></span>燭を離れて主客あり<lb />
+<lb />
+灯ともせば早そことべり灯取虫<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年七月　奉天の佐藤肋骨、京城の吉野左衛門、千葉の渡部非砂、東京の仙田木同の諸君、鎌倉に来遊せし時、小町園にて。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">秋雨</span><span type="rp">（</span><span type="rt">あきさめ</span><span type="rp">）</span></span>や身をちぢめたる<span type="ruby"><span type="rb">傘</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>の下<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年九月　第三日曜。子規忌句会。<lb />
+</span>
+</span>
+<lb />
+此秋風のもて来る雪を思ひけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年十月五日　雨村、水巴と共に。信州<span type="ruby"><span type="rb">柏原</span><span type="rp">（</span><span type="rt">かしわばら</span><span type="rp">）</span></span>俳諧寺の縁に立ちて。<lb />
+</span>
+</span>
+<lb />
+年を<span type="ruby"><span type="rb">以</span><span type="rp">（</span><span type="rt">もっ</span><span type="rp">）</span></span>て巨人としたり歩み去る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正二年十二月　第三日曜。発行所例会。<lb />
+</span>
+</span>
+<lb />
+我を迎ふ旧山河雪を装へり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年一月　松山に帰省。同月十二日夜、松山公会堂に於て。<lb />
+</span>
+</span>
+<lb />
+うき草のそぞろに<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ふる古江かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年一月十四日　京都に至る。<span type="ruby"><span type="rb">祇園</span><span type="rp">（</span><span type="rt">ぎおん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">左阿弥</span><span type="rp">（</span><span type="rt">さあみ</span><span type="rp">）</span></span>の晩句会に臨む。<lb />
+</span>
+</span>
+<lb />
+時ものを解決するや春を待つ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年一月十六日　大阪<span type="ruby"><span type="rb">瓦斯倶楽部</span><span type="rp">（</span><span type="rt">ガスクラブ</span><span type="rp">）</span></span>の俳句大会に列席。会者八、九十名。青々、墨水、一転、<span type="ruby"><span type="rb">躑躅</span><span type="rp">（</span><span type="rt">つつじ</span><span type="rp">）</span></span>、巨口、月村、露石、素石、<span type="ruby"><span type="rb">月斗</span><span type="rp">（</span><span type="rt">げっと</span><span type="rp">）</span></span>、鬼史、王城等。<lb />
+</span>
+</span>
+<lb />
+鎌倉を驚かしたる<span type="ruby"><span type="rb">余寒</span><span type="rp">（</span><span type="rt">よかん</span><span type="rp">）</span></span>あり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年二月一日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+春雨やすこしもえたる手提灯<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年三月　第三日曜。発行所例会。<lb />
+</span>
+</span>
+<lb />
+我心<span type="ruby"><span type="rb">或時</span><span type="rp">（</span><span type="rt">あるとき</span><span type="rp">）</span></span>軽し<span type="ruby"><span type="rb">罌粟</span><span type="rp">（</span><span type="rt">けし</span><span type="rp">）</span></span>の花<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年五月三日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+コレラ<span type="ruby"><span type="rb">怖</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ぢて<span type="ruby"><span type="rb">綺麗</span><span type="rp">（</span><span type="rt">きれい</span><span type="rp">）</span></span>に住める女かな<lb />
+<lb />
+コレラ船いつまで沖に<span type="ruby"><span type="rb">繋</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>り居る<lb />
+<lb />
+コレラの家を出し人こちへ<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">きた</span><span type="rp">）</span></span>りけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年七月五日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">清水</span><span type="rp">（</span><span type="rt">しみず</span><span type="rp">）</span></span>のめば汗<span type="ruby"><span type="rb">軽</span><span type="rp">（</span><span type="rt">かろ</span><span type="rp">）</span></span>らかになりにけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年七月十九日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">一人</span><span type="rp">（</span><span type="rt">いちにん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">強者</span><span type="rp">（</span><span type="rt">きょうしゃ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">唯</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>出よ秋の風<lb />
+<lb />
+秋風や最善の力<span type="ruby"><span type="rb">唯</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>尽す<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年九月六日　虚子庵例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">濡縁</span><span type="rp">（</span><span type="rt">ぬれえん</span><span type="rp">）</span></span>に雨の後なる一葉かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">葡萄</span><span type="rp">（</span><span type="rt">ぶどう</span><span type="rp">）</span></span>の種吐き出して事を決しけり<lb />
+<lb />
+<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">とんぼう</span><span type="rp">）</span></span>は亡くなり<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">おわ</span><span type="rp">）</span></span>んぬ<span type="ruby"><span type="rb">鶏頭花</span><span type="rp">（</span><span type="rt">けいとうか</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正三年十月十八日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+雲静かに影落し過ぎし<span type="ruby"><span type="rb">椄木</span><span type="rp">（</span><span type="rt">つぎき</span><span type="rp">）</span></span>かな<lb />
+<lb />
+造化<span type="ruby"><span type="rb">已</span><span type="rp">（</span><span type="rt">すで</span><span type="rp">）</span></span>に忙を<span type="ruby"><span type="rb">極</span><span type="rp">（</span><span type="rt">きわ</span><span type="rp">）</span></span>めたるに椄木かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正四年四月十八日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">太腹</span><span type="rp">（</span><span type="rt">ふとばら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">垂</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>れてもの食ふ裸かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正四年六月二十日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">烏</span><span type="rp">（</span><span type="rt">からす</span><span type="rp">）</span></span>飛んでそこに<span type="ruby"><span type="rb">通草</span><span type="rp">（</span><span type="rt">あけび</span><span type="rp">）</span></span>のありにけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正四年十月九日　京都三条小橋の万屋にあり。大和の<span type="ruby"><span type="rb">浜人</span><span type="rp">（</span><span type="rt">ひんじん</span><span type="rp">）</span></span>来る。王城、鱸江、<span type="ruby"><span type="rb">秋蒼</span><span type="rp">（</span><span type="rt">しゅうそう</span><span type="rp">）</span></span>と共に句作。<lb />
+</span>
+</span>
+<lb />
+これよりは恋や事業や水<span type="ruby"><span type="rb">温</span><span type="rp">（</span><span type="rt">ぬる</span><span type="rp">）</span></span>む<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正五年二月十一日　高商俳句会。山王境内楠本亭。高商卒業生諸君を送る。<lb />
+</span>
+</span>
+<lb />
+麦笛や四十の恋の合図吹く<lb />
+<lb />
+恋はものの男<span type="ruby"><span type="rb">甚平</span><span type="rp">（</span><span type="rt">じんべい</span><span type="rp">）</span></span>女紺しぼり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正五年六月十一日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+露の幹<span type="ruby"><span type="rb">静</span><span type="rp">（</span><span type="rt">しずか</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">蝉</span><span type="rp">（</span><span type="rt">せみ</span><span type="rp">）</span></span>の歩き<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>り<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正五年九月十日　子規忌句会。<lb />
+</span>
+</span>
+<lb />
+大空に<span type="ruby"><span type="rb">又</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>わき<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>でし小鳥かな<lb />
+<lb />
+木曾川の今こそ光れ渡り鳥<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正五年十一月六日　<span type="ruby"><span type="rb">恵那</span><span type="rp">（</span><span type="rt">えな</span><span type="rp">）</span></span>中津川に小鳥狩を見る。四時庵にて。島村久、富岡俊次郎、田中小太郎、清堂、<span type="ruby"><span type="rb">零余子</span><span type="rp">（</span><span type="rt">れいよし</span><span type="rp">）</span></span>、はじめ、泊雲、<span type="ruby"><span type="rb">楽堂</span><span type="rp">（</span><span type="rt">がくどう</span><span type="rp">）</span></span>同行。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">破蕉龍</span><span type="rp">（</span><span type="rt">はしょうりゅう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">しっ</span><span type="rp">）</span></span>して水仙<span type="ruby"><span type="rb">玉</span><span type="rp">（</span><span type="rt">ぎょく</span><span type="rp">）</span></span>をはらめり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正五年十二月三日　帝大俳句会。九日、夏目漱石<span type="ruby"><span type="rb">逝</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>く。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">闇汁</span><span type="rp">（</span><span type="rt">やみじる</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">杓子</span><span type="rp">（</span><span type="rt">しゃくし</span><span type="rp">）</span></span>を逃げしものや何<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正五年十二月二十八日　高商俳句会闇汁会。<span type="ruby"><span type="rb">芙蓉</span><span type="rp">（</span><span type="rt">ふよう</span><span type="rp">）</span></span>居。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">葛城</span><span type="rp">（</span><span type="rt">かつらぎ</span><span type="rp">）</span></span>の神<span type="ruby"><span type="rb">臠</span><span type="rp">（</span><span type="rt">みそな</span><span type="rp">）</span></span>はせ青き踏む<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年二月十日　帰省の途次堺に寄る。白鳥吟社主催堺俳句会に出席。泊雲、泊月、躑躅、浜人、はじめ、<span type="ruby"><span type="rb">九品太</span><span type="rp">（</span><span type="rt">くぼんた</span><span type="rp">）</span></span>、月斗、一転、梅史、<span type="ruby"><span type="rb">桜坡子</span><span type="rp">（</span><span type="rt">おうはし</span><span type="rp">）</span></span>等と共に。<lb />
+</span>
+</span>
+<lb />
+山吹の雨や<span type="ruby"><span type="rb">双親</span><span type="rp">（</span><span type="rt">そうしん</span><span type="rp">）</span></span>堂にあり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年四月十五日　国民俳句会。江戸川畔清風亭。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">春水</span><span type="rp">（</span><span type="rt">しゅんすい</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">矗々</span><span type="rp">（</span><span type="rt">ちくちく</span><span type="rp">）</span></span>として<span type="ruby"><span type="rb">菖蒲</span><span type="rp">（</span><span type="rt">しょうぶ</span><span type="rp">）</span></span>の芽<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年四月二十二日　春季吟行。太田妻沼に至る車中。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">菖蒲</span><span type="rp">（</span><span type="rt">しょうぶ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">葺</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>いて元<span type="ruby"><span type="rb">吉原</span><span type="rp">（</span><span type="rt">よしわら</span><span type="rp">）</span></span>のさびれやう<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年五月三日　帝大俳句会。根津<span type="ruby"><span type="rb">権現</span><span type="rp">（</span><span type="rt">ごんげん</span><span type="rp">）</span></span>境内娯楽園。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">大蟇</span><span type="rp">（</span><span type="rt">おおがま</span><span type="rp">）</span></span>先に<span type="ruby"><span type="rb">在</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>り小蟇<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">しり</span><span type="rp">）</span></span>へに高歩み<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年五月八日　婦人俳句会。<lb />
+</span>
+</span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">嘲吏<span type="ruby"><span type="rb">青嵐</span><span type="rp">（</span><span type="rt">せいらん</span><span type="rp">）</span></span></span></span>
+人間吏となるも風流<span type="ruby"><span type="rb">胡瓜</span><span type="rp">（</span><span type="rt">きゅうり</span><span type="rp">）</span></span>の曲るも<span type="ruby"><span type="rb">亦</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年五月十二日　<span type="ruby"><span type="rb">虚吼</span><span type="rp">（</span><span type="rt">きょこう</span><span type="rp">）</span></span>、吏青嵐、煙村、<span type="ruby"><span type="rb">楚人冠</span><span type="rp">（</span><span type="rt">そじんかん</span><span type="rp">）</span></span>等と小集。鶴見花月園みどり。<lb />
+</span>
+</span>
+<lb />
+蛇逃げて我を見し眼の草に残る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年五月十三日　発行所例会。十六日、<span type="ruby"><span type="rb">阪本四方太</span><span type="rp">（</span><span type="rt">さかもとしほうだ</span><span type="rp">）</span></span>、中川四明、日を同じうして逝く。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">葭戸</span><span type="rp">（</span><span type="rt">よしど</span><span type="rp">）</span></span>はめぬ絶えずこぼれ<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>る水の音<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年　某料亭にて。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">簗</span><span type="rp">（</span><span type="rt">やな</span><span type="rp">）</span></span><span type="ruby"><span type="rb">見廻</span><span type="rp">（</span><span type="rt">みまわ</span><span type="rp">）</span></span>つて口笛吹くや<span type="ruby"><span type="rb">高嶺晴</span><span type="rp">（</span><span type="rt">たかねばれ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年六月十日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+此松の下に<span type="ruby"><span type="rb">佇</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>めば露の我<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年十月十五日　帰省中<span type="ruby"><span type="rb">風早</span><span type="rp">（</span><span type="rt">かざはや</span><span type="rp">）</span></span>柳原西の<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>に遊ぶ。風早西の下は、余が一歳より八歳<span type="ruby"><span type="rb">迄</span><span type="rp">（</span><span type="rt">まで</span><span type="rp">）</span></span>郷居せし地なり。家<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">むな</span><span type="rp">）</span></span>しく大川の堤の大師堂のみ存す。其堂の傍に老松あり。<lb />
+</span>
+</span>
+<lb />
+天の川のもとに<span type="ruby"><span type="rb">天智</span><span type="rp">（</span><span type="rt">てんち</span><span type="rp">）</span></span>天皇と虚子と<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年十月十八日　<span type="ruby"><span type="rb">筑前</span><span type="rp">（</span><span type="rt">ちくぜん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">太宰府</span><span type="rp">（</span><span type="rt">だざいふ</span><span type="rp">）</span></span>に至る。同夜<span type="ruby"><span type="rb">都府楼址</span><span type="rp">（</span><span type="rt">とふろうし</span><span type="rp">）</span></span>に佇む。懐古。<lb />
+</span>
+</span>
+<lb />
+秋の<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>に照らし出す仏皆<span type="ruby"><span type="rb">観世音</span><span type="rp">（</span><span type="rt">かんぜおん</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年十月十八日　観世音寺に<span type="ruby"><span type="rb">詣</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>づ。<lb />
+</span>
+</span>
+<lb />
+何の木のもとともあらず栗拾ふ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正六年十月十九日　福岡第二公会堂に於て。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">今朝</span><span type="rp">（</span><span type="rt">けさ</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">亦</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span><span type="ruby"><span type="rb">焚火</span><span type="rp">（</span><span type="rt">たきび</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">耶蘇</span><span type="rp">（</span><span type="rt">ヤソ</span><span type="rp">）</span></span>の話かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年？　<span type="ruby"><span type="rb">或</span><span type="rp">（</span><span type="rt">あるい</span><span type="rp">）</span></span>は大正六年か。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">老衲</span><span type="rp">（</span><span type="rt">ろうのう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">火燵</span><span type="rp">（</span><span type="rt">こたつ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">在</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>り立春の<span type="ruby"><span type="rb">禽獣</span><span type="rp">（</span><span type="rt">きんじゅう</span><span type="rp">）</span></span>裏山に<lb />
+<lb />
+雨の中に立春大吉の光あり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年二月十日　発行所例会。会者、京都の王城、所沢の俳小星、青峰、<span type="ruby"><span type="rb">宵曲</span><span type="rp">（</span><span type="rt">しょうきょく</span><span type="rp">）</span></span>、一水、雨葉、しげる、湘海、<span type="ruby"><span type="rb">岫雲</span><span type="rp">（</span><span type="rt">しゅううん</span><span type="rp">）</span></span>、みづほ、霜山、今更、たけし、鉄鈴、としを、<span type="ruby"><span type="rb">子瓢</span><span type="rp">（</span><span type="rt">しひょう</span><span type="rp">）</span></span>、夜牛、<span type="ruby"><span type="rb">石鼎</span><span type="rp">（</span><span type="rt">せきてい</span><span type="rp">）</span></span>。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">鞦韆</span><span type="rp">（</span><span type="rt">しゅうせん</span><span type="rp">）</span></span>に抱き乗せて<span type="ruby"><span type="rb">沓</span><span type="rp">（</span><span type="rt">くつ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">接吻</span><span type="rp">（</span><span type="rt">せっぷん</span><span type="rp">）</span></span>す<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年四月十六日　婦人俳句会。柏木かな女居。<lb />
+</span>
+</span>
+<lb />
+野を焼いて帰れば燈下母やさし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年？　或は七年以前なるべし。<lb />
+</span>
+</span>
+<lb />
+梅を探りて病める老尼に二三言<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年？　或は七年以前なるべし。<lb />
+</span>
+</span>
+<lb />
+山吹に<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">きた</span><span type="rp">）</span></span>り去りし鳥や青かつし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年？　或は七年以前なるべし。<lb />
+</span>
+</span>
+<lb />
+船にのせて<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>をわたしたる<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ぼたん</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年？　或は七年以前なるべし。<lb />
+</span>
+</span>
+<lb />
+夏草を踏み行けば雨意人にあり<lb />
+<lb />
+夏草に<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>りて蛇うつ烏二羽<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年？　或は七年以前なるべし。<lb />
+</span>
+</span>
+<lb />
+夏の月皿の<span type="ruby"><span type="rb">林檎</span><span type="rp">（</span><span type="rt">りんご</span><span type="rp">）</span></span>の紅を失す<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年七月八日　虚子庵小集。<span type="ruby"><span type="rb">芥川</span><span type="rp">（</span><span type="rt">あくたがわ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">我鬼</span><span type="rp">（</span><span type="rt">がき</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">久米</span><span type="rp">（</span><span type="rt">くめ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">三汀</span><span type="rp">（</span><span type="rt">さんてい</span><span type="rp">）</span></span>等来り共に句作。<lb />
+</span>
+</span>
+<lb />
+船に乗れば<span type="ruby"><span type="rb">陸</span><span type="rp">（</span><span type="rt">くが</span><span type="rp">）</span></span>情あり暮の秋<lb />
+<lb />
+能すみし面の衰へ暮の秋<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年<lb />
+</span>
+</span>
+<lb />
+秋天の<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>に野菊の花弁欠く<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年十月二十一日　神戸毎日俳句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">二三子</span><span type="rp">（</span><span type="rt">にさんし</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">時雨</span><span type="rp">（</span><span type="rt">しぐ</span><span type="rp">）</span></span>るる心親しめり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年十月二十二日　堺俳句会。この日一転庵泊。<lb />
+</span>
+</span>
+<lb />
+見失ひし秋の昼蚊のあとほのか<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正七年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">菖蒲</span><span type="rp">（</span><span type="rt">しょうぶ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">剪</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>るや遠く浮きたる葉一つ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年　婦人俳句会の連中、鎌倉に来る。はじめ邸にて。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">夏痩</span><span type="rp">（</span><span type="rt">なつやせ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>を流れたる<span type="ruby"><span type="rb">冠紐</span><span type="rp">（</span><span type="rt">かむりひも</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">蚰蜒</span><span type="rp">（</span><span type="rt">げじげじ</span><span type="rp">）</span></span>を打てば屑々になりにけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">昼寐</span><span type="rp">（</span><span type="rt">ひるね</span><span type="rp">）</span></span>せる妻も<span type="ruby"><span type="rb">叱</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>らず<span type="ruby"><span type="rb">小商</span><span type="rp">（</span><span type="rt">こあきない</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+扇鳴らす<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span>の世辞も<span type="ruby"><span type="rb">亦</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>よろし<lb />
+<lb />
+我を<span type="ruby"><span type="rb">指</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>す人の扇をにくみけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+傾きて太し梅雨の<span type="ruby"><span type="rb">手水鉢</span><span type="rp">（</span><span type="rt">ちょうずばち</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">夕鰺</span><span type="rp">（</span><span type="rt">ゆうあじ</span><span type="rp">）</span></span>を妻が値ぎりて<span type="ruby"><span type="rb">瓜</span><span type="rp">（</span><span type="rt">うり</span><span type="rp">）</span></span>の花<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">寝冷</span><span type="rp">（</span><span type="rt">ねびえ</span><span type="rp">）</span></span>せし人<span type="ruby"><span type="rb">不機嫌</span><span type="rp">（</span><span type="rt">ふきげん</span><span type="rp">）</span></span>に我を見し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+やう／＼に残る暑さも<span type="ruby"><span type="rb">萩</span><span type="rp">（</span><span type="rt">はぎ</span><span type="rp">）</span></span>の露<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+山のかひに<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>の月を見出せし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正八年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">冬帝</span><span type="rp">（</span><span type="rt">とうてい</span><span type="rp">）</span></span><span type="ruby"><span type="rb">先</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>づ日をなげかけて<span type="ruby"><span type="rb">駒</span><span type="rp">（</span><span type="rt">こま</span><span type="rp">）</span></span>ヶ<span type="ruby"><span type="rb">嶽</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正九年一月　小樽にあるとしを、丹毒のため小樽病院に入院せるを見舞ひ、三十一日帰路につく。青函連絡船にて。<lb />
+</span>
+</span>
+<lb />
+藤の根に<span type="ruby"><span type="rb">猫蛇</span><span type="rp">（</span><span type="rt">びょうだ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">相搏</span><span type="rp">（</span><span type="rt">あいう</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">妖々</span><span type="rp">（</span><span type="rt">ようよう</span><span type="rp">）</span></span>と<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正九年五月十日　京大三高俳句会。京都円山公園、あけぼの楼。<lb />
+</span>
+</span>
+<lb />
+どかと解く夏帯に句を書けとこそ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正九年五月十六日　婦人俳句会。<lb />
+</span>
+</span>
+<lb />
+人形まだ生きて動かず<span type="ruby"><span type="rb">傀儡師</span><span type="rp">（</span><span type="rt">かいらいし</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十年一月十一日　新年婦人俳句会。かな女庵。昨年十月、軽微なる<span type="ruby"><span type="rb">脳溢血</span><span type="rp">（</span><span type="rt">のういっけつ</span><span type="rp">）</span></span>にかゝり、病後はじめて出席したる句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">雪解</span><span type="rp">（</span><span type="rt">ゆきどけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">雫</span><span type="rp">（</span><span type="rt">しずく</span><span type="rp">）</span></span>すれ／＼に<span type="ruby"><span type="rb">干蒲団</span><span type="rp">（</span><span type="rt">ほしぶとん</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">厚板</span><span type="rp">（</span><span type="rt">あついた</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">錦</span><span type="rp">（</span><span type="rt">にしき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">黴</span><span type="rp">（</span><span type="rt">かび</span><span type="rp">）</span></span>やつまはじき<lb />
+<lb />
+新しき帽子かけたり黴の宿<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">新涼</span><span type="rp">（</span><span type="rt">しんりょう</span><span type="rp">）</span></span>の月こそかかれ<span type="ruby"><span type="rb">槙柱</span><span type="rp">（</span><span type="rt">まきばしら</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十一年八月三十一日　川崎俳句会主催新涼句会。大師内渉成園。会するもの、鳴雪、楽天、温亭、普羅、野鳥、<span type="ruby"><span type="rb">風生</span><span type="rp">（</span><span type="rt">ふうせい</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">橙黄子</span><span type="rp">（</span><span type="rt">とうこうし</span><span type="rp">）</span></span>等。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">日覆</span><span type="rp">（</span><span type="rt">ひおおい</span><span type="rp">）</span></span>に松の落葉の生れけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十二年六月二十八日　風生渡欧送別東大俳句会。発行所。上京中の泊雲出席。<lb />
+</span>
+</span>
+<lb />
+門前に蛍追ふ子や旅の宿<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十二年六月末<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">早苗</span><span type="rp">（</span><span type="rt">さなえ</span><span type="rp">）</span></span>取る<span type="ruby"><span type="rb">手許</span><span type="rp">（</span><span type="rt">てもと</span><span type="rp">）</span></span>の水の<span type="ruby"><span type="rb">小揺</span><span type="rp">（</span><span type="rt">さゆれ</span><span type="rp">）</span></span>かな<lb />
+<lb />
+<span type="ruby"><span type="rb">笠</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>早苗すり／＼取り束ね<lb />
+<lb />
+早苗<span type="ruby"><span type="rb">籠</span><span type="rp">（</span><span type="rt">かご</span><span type="rp">）</span></span>負うて歩きぬ僧のあと<lb />
+<lb />
+早苗籠負うて走りぬ雨の中<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十二年　戸塚俳句会。<lb />
+</span>
+</span>
+<lb />
+月の友三人を追ふ一人かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十二年十月二十二日　丹波竹田の泊雲居を<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>ふ。旧暦九月十三夜、晴れて霧深し。泊月、<span type="ruby"><span type="rb">野風呂</span><span type="rp">（</span><span type="rt">のぶろ</span><span type="rp">）</span></span>と共に出でゝ<span type="ruby"><span type="rb">田圃</span><span type="rp">（</span><span type="rt">たんぼ</span><span type="rp">）</span></span>道を歩く。白川遅れて来る。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">天日</span><span type="rp">（</span><span type="rt">てんじつ</span><span type="rp">）</span></span>のうつりて暗し<span type="ruby"><span type="rb">蝌蚪</span><span type="rp">（</span><span type="rt">かと</span><span type="rp">）</span></span>の水<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年<lb />
+</span>
+</span>
+<lb />
+さしくれし春雨傘を受取りし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">棕櫚</span><span type="rp">（</span><span type="rt">しゅろ</span><span type="rp">）</span></span>の花こぼれて掃くも五六日<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年五月十三日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">老禰宜</span><span type="rp">（</span><span type="rt">ろうねぎ</span><span type="rp">）</span></span>の太鼓<span type="ruby"><span type="rb">打</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span><span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>る祭かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年五月十九日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">晩涼</span><span type="rp">（</span><span type="rt">ばんりょう</span><span type="rp">）</span></span>に池の<span type="ruby"><span type="rb">萍</span><span type="rp">（</span><span type="rt">うきくさ</span><span type="rp">）</span></span>皆動く<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年<lb />
+</span>
+</span>
+<lb />
+蚊の入りし声一筋や<span type="ruby"><span type="rb">蚊帳</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>の中<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年六月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">風鈴</span><span type="rp">（</span><span type="rt">ふうりん</span><span type="rp">）</span></span>に大きな月のかかりけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年七月二十七日　島村<span type="ruby"><span type="rb">元</span><span type="rp">（</span><span type="rt">はじめ</span><span type="rp">）</span></span>一周忌（昨年八月二十六日歿）追悼句会。妙本寺の墓に<span type="ruby"><span type="rb">詣</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>で島村邸に至る。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">炎帝</span><span type="rp">（</span><span type="rt">えんてい</span><span type="rp">）</span></span>の威の衰へに水を打つ<lb />
+<lb />
+暑に<span type="ruby"><span type="rb">堪</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>へて双親あるや水を打つ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年七月二十八日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+月浴びて玉<span type="ruby"><span type="rb">崩</span><span type="rp">（</span><span type="rt">くず</span><span type="rp">）</span></span>れをる<span type="ruby"><span type="rb">噴井</span><span type="rp">（</span><span type="rt">ふけい</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年八月<lb />
+</span>
+</span>
+<lb />
+秋の蚊の居りてけはしき寺法かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年　鮮満旅行の途次、十月十四日平壌にあり。華頂女学院に於ける俳句会に臨む。正蟀、帆影郎、<span type="ruby"><span type="rb">沼蘋</span><span type="rp">（</span><span type="rt">しょうひん</span><span type="rp">）</span></span>女等来る。<span type="ruby"><span type="rb">韮城</span><span type="rp">（</span><span type="rt">きゅうじょう</span><span type="rp">）</span></span>、橙黄子、雨意等同行。<lb />
+</span>
+</span>
+<lb />
+ひらひらと深きが上の落葉かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年十月三十一日　鮮満旅行の帰路、旅順に至る。新市街千歳倶楽部に於て。<lb />
+</span>
+</span>
+<lb />
+水鳥の<span type="ruby"><span type="rb">夜半</span><span type="rp">（</span><span type="rt">よわ</span><span type="rp">）</span></span>の羽音やあまたたび<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年十一月　清原<span type="ruby"><span type="rb">枴童</span><span type="rp">（</span><span type="rt">かいどう</span><span type="rp">）</span></span>上京偶会。発行所。<lb />
+</span>
+</span>
+<lb />
+北風や石を敷きたるロシア町<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年十一月三十日　鮮満旅行より帰京歓迎句会。上野花山亭。集るもの温亭、石鼎、雉子郎、<span type="ruby"><span type="rb">花蓑</span><span type="rp">（</span><span type="rt">はなみの</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">秋桜子</span><span type="rp">（</span><span type="rt">しゅうおうし</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">青邨</span><span type="rp">（</span><span type="rt">せいそん</span><span type="rp">）</span></span>、たけし等。<lb />
+</span>
+</span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+酒井野梅其児の手にかゝりて横死するを<span type="ruby"><span type="rb">悼</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>む<lb />
+</span>
+</span>
+<span type="ruby"><span type="rb">弥陀</span><span type="rp">（</span><span type="rt">みだ</span><span type="rp">）</span></span>の手に親子<span type="ruby"><span type="rb">諸共</span><span type="rp">（</span><span type="rt">もろとも</span><span type="rp">）</span></span>返り花<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">行年</span><span type="rp">（</span><span type="rt">ゆくとし</span><span type="rp">）</span></span>やかたみに留守の妻と我<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十三年十二月二十九日　同人、選者と共に。発行所に於て。会するもの、肋骨、楽堂、<span type="ruby"><span type="rb">鼠骨</span><span type="rp">（</span><span type="rt">そこつ</span><span type="rp">）</span></span>、石鼎、温亭、宵曲、<span type="ruby"><span type="rb">菫雨</span><span type="rp">（</span><span type="rt">きんう</span><span type="rp">）</span></span>、野鳥、青峰、為山、たけし、花蓑、秋桜子、一水。<lb />
+</span>
+</span>
+<lb />
+ばばばかと書かれし壁の<span type="ruby"><span type="rb">干菜</span><span type="rp">（</span><span type="rt">ほしな</span><span type="rp">）</span></span>かな<lb />
+<lb />
+灯のともる干菜の窓やつむぐらん<lb />
+<lb />
+<span type="ruby"><span type="rb">庫裡</span><span type="rp">（</span><span type="rt">くり</span><span type="rp">）</span></span>を出て<span type="ruby"><span type="rb">納屋</span><span type="rp">（</span><span type="rt">なや</span><span type="rp">）</span></span>の後ろの冬の山<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年一月十六日　発行所例会。大阪の<span type="ruby"><span type="rb">木国</span><span type="rp">（</span><span type="rt">もっこく</span><span type="rp">）</span></span>、新潟の今夜、みづほ、他に鳴雪、温亭等。<lb />
+</span>
+</span>
+<lb />
+麦踏んで若き我あり人や知る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年一月二十七日　中田みづほ渡欧送別句会。発行所。<span type="ruby"><span type="rb">偶々</span><span type="rp">（</span><span type="rt">たまたま</span><span type="rp">）</span></span>より江来会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">春寒</span><span type="rp">（</span><span type="rt">はるさむ</span><span type="rp">）</span></span>のよりそひ行けば人目ある<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年二月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">草摘</span><span type="rp">（</span><span type="rt">くさつみ</span><span type="rp">）</span></span>に出し万葉の男かな<lb />
+<lb />
+草を摘む子の野を渡る巨人かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年三月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">春宵</span><span type="rp">（</span><span type="rt">しゅんしょう</span><span type="rp">）</span></span>や柱のかげの<span type="ruby"><span type="rb">少納言</span><span type="rp">（</span><span type="rt">しょうなごん</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年三月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">白牡丹</span><span type="rp">（</span><span type="rt">はくぼたん</span><span type="rp">）</span></span>といふといへども<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">こう</span><span type="rp">）</span></span>ほのか<lb />
+<lb />
+<span type="ruby"><span type="rb">雨風</span><span type="rp">（</span><span type="rt">あめかぜ</span><span type="rp">）</span></span>に任せて<span type="ruby"><span type="rb">悼</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>む牡丹かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年五月十七日　大阪にあり。毎日俳句大会。会衆八百。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">競</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>べ馬一騎遊びてはじまらず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年五月二十二日　<span type="ruby"><span type="rb">道後</span><span type="rp">（</span><span type="rt">どうご</span><span type="rp">）</span></span>に宿泊。松山三番町横丁の某クラブに於て。<lb />
+</span>
+</span>
+<lb />
+墓生きて我を迎へぬ久しぶり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年五月二十六日　松山滞在。老兄と共に墓参。<lb />
+</span>
+</span>
+<lb />
+老僧の蛇を叱りて追ひにけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年六（七？）月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">べに</span><span type="rp">）</span></span>さして<span type="ruby"><span type="rb">寝冷</span><span type="rp">（</span><span type="rt">ねびえ</span><span type="rp">）</span></span>の顔をつくろひぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年六（七？）月<lb />
+</span>
+</span>
+<lb />
+美人絵の<span type="ruby"><span type="rb">団扇</span><span type="rp">（</span><span type="rt">うちわ</span><span type="rp">）</span></span>持ちたる老師かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年六（七？）月<lb />
+</span>
+</span>
+<lb />
+我声の吹き飛び聞ゆ<span type="ruby"><span type="rb">野分</span><span type="rp">（</span><span type="rt">のわき</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年十月<lb />
+</span>
+</span>
+<lb />
+父母の夜長くおはし給ふらん<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年十月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">佇</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>めば落葉ささやく<span type="ruby"><span type="rb">日向</span><span type="rp">（</span><span type="rt">ひなた</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十四年十一月<lb />
+</span>
+</span>
+<lb />
+かりに<span type="ruby"><span type="rb">著</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>る女の羽織玉子酒<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年一月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">夙</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>くくれし志やな<span type="ruby"><span type="rb">蕗</span><span type="rp">（</span><span type="rt">ふき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">薹</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年二月　<span type="ruby"><span type="rb">元</span><span type="rp">（</span><span type="rt">はじめ</span><span type="rp">）</span></span>未亡人蕗の薹を<span type="ruby"><span type="rb">齎</span><span type="rp">（</span><span type="rt">もたら</span><span type="rp">）</span></span>す。<lb />
+</span>
+</span>
+<lb />
+古椿ここだく落ちて<span type="ruby"><span type="rb">齢</span><span type="rp">（</span><span type="rt">よわい</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年二月十三日　田村<span type="ruby"><span type="rb">木国</span><span type="rp">（</span><span type="rt">もっこく</span><span type="rp">）</span></span>上京歓迎小集。発行所。二十日<span rend="notes">［＃「二十日」はママ］</span>、内藤鳴雪逝く。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">鶯</span><span type="rp">（</span><span type="rt">うぐいす</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">洞然</span><span type="rp">（</span><span type="rt">どうぜん</span><span type="rp">）</span></span>として<span type="ruby"><span type="rb">昼霞</span><span type="rp">（</span><span type="rt">ひるがすみ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年二（三？）月<lb />
+</span>
+</span>
+<lb />
+芽ぐむなる大樹の幹に耳を寄せ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年三月十六日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">唯</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>一人船<span type="ruby"><span type="rb">繋</span><span type="rp">（</span><span type="rt">つな</span><span type="rp">）</span></span>ぐ人や月見草<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年六月二十三日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">古蚊帳</span><span type="rp">（</span><span type="rt">ふるがや</span><span type="rp">）</span></span>の月おもしろく寝まりけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年六月<lb />
+</span>
+</span>
+<lb />
+今一つ奥なる滝に<span type="ruby"><span type="rb">九十九折</span><span type="rp">（</span><span type="rt">つづらおり</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年七月十二日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+橋裏を皆打仰ぐ<span type="ruby"><span type="rb">涼舟</span><span type="rp">（</span><span type="rt">すずみぶね</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年七月<lb />
+</span>
+</span>
+<lb />
+古書の文字生きて<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ふかや<span type="ruby"><span type="rb">灯取虫</span><span type="rp">（</span><span type="rt">ひとりむし</span><span type="rp">）</span></span><lb />
+<lb />
+威儀の僧扇で払ふ灯取虫<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年七月<lb />
+</span>
+</span>
+<lb />
+草がくれ麗玉秘めし清水かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年八月五日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+庭の石ほと動き<span type="ruby"><span type="rb">湧</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>く清水かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年八月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">棚</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>ふくべ現れ出でぬ<span type="ruby"><span type="rb">初嵐</span><span type="rp">（</span><span type="rt">はつあらし</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年九月七日　東大俳句会。発行所。<lb />
+</span>
+</span>
+<lb />
+雨風や最も萩をいたましむ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年九月<lb />
+</span>
+</span>
+<lb />
+自らの<span type="ruby"><span type="rb">老</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>好もしや菊に立つ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年十（十一？）月<lb />
+</span>
+</span>
+<lb />
+たまるに任せ落つるに任す屋根落葉<lb />
+<lb />
+徐々と掃く落葉<span type="ruby"><span type="rb">帚</span><span type="rp">（</span><span type="rt">ほうき</span><span type="rp">）</span></span>に従へる<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年十一月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">掃初</span><span type="rp">（</span><span type="rt">はきぞめ</span><span type="rp">）</span></span>の帚や土になれ始む<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年十二月<lb />
+</span>
+</span>
+<lb />
+大空に伸び傾ける冬木かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+大正十五年十二月二十一日　東大俳句会。発行所。<lb />
+</span>
+</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">昭和時代</span></span></span>
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<lb />
+<lb />
+<span type="ruby"><span type="rb">藪</span><span type="rp">（</span><span type="rt">やぶ</span><span type="rp">）</span></span>の穂に村火事を見る<span type="ruby"><span type="rb">渡舟</span><span type="rp">（</span><span type="rt">わたし</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年一月<lb />
+</span>
+</span>
+<lb />
+藪の池<span type="ruby"><span type="rb">寒鮒釣</span><span type="rp">（</span><span type="rt">かんぶなつり</span><span type="rp">）</span></span>のはやあらず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年一月二十日　発行所例会。三十一日、次男<span type="ruby"><span type="rb">池内友次郎</span><span type="rp">（</span><span type="rt">いけのうちともじろう</span><span type="rp">）</span></span>、横浜出帆の<span type="ruby"><span type="rb">筥崎丸</span><span type="rp">（</span><span type="rt">はこざきまる</span><span type="rp">）</span></span>にて<span type="ruby"><span type="rb">仏蘭西</span><span type="rp">（</span><span type="rt">フランス</span><span type="rp">）</span></span>遊学の途に就く。<lb />
+</span>
+</span>
+<lb />
+うち<span type="ruby"><span type="rb">笑</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>める老を助けて青き踏む<lb />
+<lb />
+<span type="ruby"><span type="rb">踏青</span><span type="rp">（</span><span type="rt">とうせい</span><span type="rp">）</span></span>や古き石階あるばかり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年二月二十八日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+木々の芽のわれに迫るや<span type="ruby"><span type="rb">法</span><span type="rp">（</span><span type="rt">のり</span><span type="rp">）</span></span>の山<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年三月<lb />
+</span>
+</span>
+<lb />
+巣の中に<span type="ruby"><span type="rb">蜂</span><span type="rp">（</span><span type="rt">はち</span><span type="rp">）</span></span>のかぶとの動く見ゆ<lb />
+<lb />
+うなり落つ蜂や大地を<span type="ruby"><span type="rb">怒</span><span type="rp">（</span><span type="rt">いか</span><span type="rp">）</span></span>り這ふ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年三月十七日　肋骨、為王、楽堂と雑談句作。発行所。<lb />
+</span>
+</span>
+<lb />
+ものの芽のあらはれ出でし大事かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年三月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">斯</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>く<span type="ruby"><span type="rb">翳</span><span type="rp">（</span><span type="rt">かざ</span><span type="rp">）</span></span>す<span type="ruby"><span type="rb">春雨傘</span><span type="rp">（</span><span type="rt">はるさめがさ</span><span type="rp">）</span></span>か<span type="ruby"><span type="rb">昔人</span><span type="rp">（</span><span type="rt">むかしびと</span><span type="rp">）</span></span><lb />
+<lb />
+春山の名もをかしさや<span type="ruby"><span type="rb">鷹</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>ヶ<span type="ruby"><span type="rb">峰</span><span type="rp">（</span><span type="rt">みね</span><span type="rp">）</span></span><lb />
+<lb />
+一片の落花見送る<span type="ruby"><span type="rb">静</span><span type="rp">（</span><span type="rt">しずか</span><span type="rp">）</span></span>かな<lb />
+<lb />
+<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-86/1-86-06.png" rend="gaiji" rendition="img" source="※(「木＋國」、第3水準1-86-6)" />原</span><span type="rp">（</span><span type="rt">くぬぎはら</span><span type="rp">）</span></span>ささやく如く木の芽かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年四月　京都滞在。光悦寺にて。<lb />
+</span>
+</span>
+<lb />
+濃き日影ひいて遊べる<span type="ruby"><span type="rb">蜥蜴</span><span type="rp">（</span><span type="rt">とかげ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年五月十五日　みづほ帰朝歓迎句会。発行所。<lb />
+</span>
+</span>
+<lb />
+百官の衣<span type="ruby"><span type="rb">更</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>へにし奈良の<span type="ruby"><span type="rb">朝</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年五月<lb />
+</span>
+</span>
+<lb />
+セルを<span type="ruby"><span type="rb">著</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>て病ありとも見えぬかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年五月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">鵜飼見</span><span type="rp">（</span><span type="rt">うかいみ</span><span type="rp">）</span></span>の船よそほひや夕かげり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年六月　大阪毎日、東京日日新聞社募集の日本八景の選抜委員を委嘱され、その候補地を視察する為岐阜に至り、長良川の鵜飼を見る。<lb />
+</span>
+</span>
+<lb />
+くづをれて<span type="ruby"><span type="rb">団扇</span><span type="rp">（</span><span type="rt">うちわ</span><span type="rp">）</span></span>づかひの老尼かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年　老人会。<lb />
+</span>
+</span>
+<lb />
+松風に騒ぎとぶなり<span type="ruby"><span type="rb">水馬</span><span type="rp">（</span><span type="rt">みずすまし</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年七月<lb />
+</span>
+</span>
+<lb />
+なつかしきあやめの水の<span type="ruby"><span type="rb">行方</span><span type="rp">（</span><span type="rt">ゆくえ</span><span type="rp">）</span></span>かな<lb />
+<lb />
+よりそひて<span type="ruby"><span type="rb">静</span><span type="rp">（</span><span type="rt">しずか</span><span type="rp">）</span></span>なるかなかきつばた<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年七月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">大夕立</span><span type="rp">（</span><span type="rt">おおゆだち</span><span type="rp">）</span></span>来るらし<span type="ruby"><span type="rb">由布</span><span type="rp">（</span><span type="rt">ゆふ</span><span type="rp">）</span></span>のかきくもり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年七月　大毎、東日委嘱により別府に至る、日本八景の一に当選したる別府の記事を書く為。<lb />
+</span>
+</span>
+<lb />
+わだつみに物の命のくらげかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年八月四日　清三郎福岡転任送別東大俳句会。丸の内、竹葉亭。<lb />
+</span>
+</span>
+<lb />
+俳諧の旅に日焼し<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年八月八日　<span type="ruby"><span type="rb">枴童</span><span type="rp">（</span><span type="rt">かいどう</span><span type="rp">）</span></span>上京の為、発行所小集。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">此方</span><span type="rp">（</span><span type="rt">こなた</span><span type="rp">）</span></span>へと<span type="ruby"><span type="rb">法</span><span type="rp">（</span><span type="rt">のり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">御山</span><span type="rp">（</span><span type="rt">みやま</span><span type="rp">）</span></span>のみちをしへ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年八月十一日　改造社主催講演会に出席のため<span type="ruby"><span type="rb">高野山</span><span type="rp">（</span><span type="rt">こうやさん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">赴</span><span type="rp">（</span><span type="rt">おもむ</span><span type="rp">）</span></span>く。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">遅月</span><span type="rp">（</span><span type="rt">おそづき</span><span type="rp">）</span></span>の山を<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>でたる暗さかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年八月十六日　夕。京都に至り、加茂堤に大文字を見る。<lb />
+</span>
+</span>
+<lb />
+清閑にあれば月出づおのづから<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年九月　退官せし前の横田大審院長招宴。<lb />
+</span>
+</span>
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">鎌倉</span></span>
+秋天の下に浪あり墳墓あり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年九月十九日　子規忌句会。<span type="ruby"><span type="rb">田端</span><span type="rp">（</span><span type="rt">たばた</span><span type="rp">）</span></span>大龍寺。<lb />
+</span>
+</span>
+<lb />
+仲秋や月<span type="ruby"><span type="rb">明</span><span type="rp">（</span><span type="rt">あきら</span><span type="rp">）</span></span>かに人老いし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年九月<lb />
+</span>
+</span>
+<lb />
+はじまらん踊の<span type="ruby"><span type="rb">場</span><span type="rp">（</span><span type="rt">にわ</span><span type="rp">）</span></span>の人ゆきき<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年十月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">朝寒</span><span type="rp">（</span><span type="rt">あささむ</span><span type="rp">）</span></span>の老を追ひぬく朝な／＼<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年十月二十三日　発行所例会。泊雲来会。会者百名。<lb />
+</span>
+</span>
+<lb />
+やり<span type="ruby"><span type="rb">羽子</span><span type="rp">（</span><span type="rt">はご</span><span type="rp">）</span></span>や油のやうな京言葉<lb />
+<lb />
+東山静に羽子の舞ひ落ちぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和二年十二月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">柊</span><span type="rp">（</span><span type="rt">ひいらぎ</span><span type="rp">）</span></span>をさす母によりそひにけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年二月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">草間</span><span type="rp">（</span><span type="rt">くさあい</span><span type="rp">）</span></span>に光りつづける春の水<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年四月七日　婦人俳句会。<lb />
+</span>
+</span>
+<lb />
+両の<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>にすくひてこぼす<span type="ruby"><span type="rb">蝌蚪</span><span type="rp">（</span><span type="rt">かと</span><span type="rp">）</span></span>の水<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年四月　七宝会。植物園。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">行人</span><span type="rp">（</span><span type="rt">こうじん</span><span type="rp">）</span></span>の落花の風を<span type="ruby"><span type="rb">顧</span><span type="rp">（</span><span type="rt">かえりみ</span><span type="rp">）</span></span>し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年四月十五日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+遅桜なほもたづねて奥の宮<lb />
+<lb />
+おもひ川渡れば又も花の雨<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年四月二十三日　泊雲、泊月、王城、比古、三千女と共に<span type="ruby"><span type="rb">鞍馬</span><span type="rp">（</span><span type="rt">くらま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">貴船</span><span type="rp">（</span><span type="rt">きぶね</span><span type="rp">）</span></span>に遊ぶ。<lb />
+</span>
+</span>
+<lb />
+川船のぎいとまがるやよし<span type="ruby"><span type="rb">雀</span><span type="rp">（</span><span type="rt">すずめ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年六月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">姉妹</span><span type="rp">（</span><span type="rt">おととい</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">麦藁籠</span><span type="rp">（</span><span type="rt">むぎわらかご</span><span type="rp">）</span></span>にゆすらうめ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年七月十四日　婦人俳句会。<lb />
+</span>
+</span>
+<lb />
+新涼や仏にともし奉る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年九月十六日　子規忌句会。大龍寺。十八日、石井露月逝く。<lb />
+</span>
+</span>
+<lb />
+ふるさとの月の港をよぎるのみ<lb />
+<lb />
+はなやぎて月の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>にかかる雲<lb />
+<lb />
+われが<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>し南の国のザボンかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月七日　福岡市公会堂に於ける、第二回関西俳句大会に出席。会衆四百。清三郎、禅寺洞、より江、久女、しづの女、泊月、王城、野風呂、橙黄子等。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">熔岩</span><span type="rp">（</span><span type="rt">ようがん</span><span type="rp">）</span></span>の上を<span type="ruby"><span type="rb">跣足</span><span type="rp">（</span><span type="rt">はだし</span><span type="rp">）</span></span>の島男<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月十日　<span type="ruby"><span type="rb">薩摩</span><span type="rp">（</span><span type="rt">さつま</span><span type="rp">）</span></span>に赴き、桜島に遊ぶ。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">七盛</span><span type="rp">（</span><span type="rt">ななもり</span><span type="rp">）</span></span>の墓包み<span type="ruby"><span type="rb">降</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">椎</span><span type="rp">（</span><span type="rt">しい</span><span type="rp">）</span></span>の露<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月　赤間宮参拝。<lb />
+</span>
+</span>
+<lb />
+手をかざし<span type="ruby"><span type="rb">祇園詣</span><span type="rp">（</span><span type="rt">ぎおんもうで</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">秋日和</span><span type="rp">（</span><span type="rt">あきびより</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月十六日　泊月と知恩院境内漫歩。吉田町楽友会館に於ける京大三高俳句会に臨む。<lb />
+</span>
+</span>
+<lb />
+枝豆を<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>へば<span type="ruby"><span type="rb">雨月</span><span type="rp">（</span><span type="rt">うげつ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">情</span><span type="rp">（</span><span type="rt">なさけ</span><span type="rp">）</span></span>あり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月十九日　<span type="ruby"><span type="rb">木槿</span><span type="rp">（</span><span type="rt">もくげ</span><span type="rp">）</span></span>会。大阪倶楽部。<lb />
+</span>
+</span>
+<lb />
+旅笠に落ちつづきたる<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月二十日　泊月、王城と<span type="ruby"><span type="rb">八幡</span><span type="rp">（</span><span type="rt">やわた</span><span type="rp">）</span></span>の男山に遊びまた大阪に至る。住友倶楽部に於ける無名会に出席。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">御室田</span><span type="rp">（</span><span type="rt">おむろだ</span><span type="rp">）</span></span>に法師姿の<span type="ruby"><span type="rb">案山子</span><span type="rp">（</span><span type="rt">かがし</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月二十三日　<span type="ruby"><span type="rb">洛西</span><span type="rp">（</span><span type="rt">らくせい</span><span type="rp">）</span></span>、岡康之の岳父石井氏邸にて。<lb />
+</span>
+</span>
+<lb />
+ふみはづす<span type="ruby"><span type="rb">蝗</span><span type="rp">（</span><span type="rt">いなご</span><span type="rp">）</span></span>の顔の見ゆるかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十月<lb />
+</span>
+</span>
+<lb />
+秋風に草の一葉のうちふるふ<lb />
+<lb />
+流れ行く大根の葉の早さかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十一月十日　<span type="ruby"><span type="rb">九品仏</span><span type="rp">（</span><span type="rt">くほんぶつ</span><span type="rp">）</span></span>吟行。<lb />
+</span>
+</span>
+<lb />
+寒き風人持ち来る<span type="ruby"><span type="rb">煖炉</span><span type="rp">（</span><span type="rt">だんろ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和三年十二月<lb />
+</span>
+</span>
+<lb />
+ゆるやかに水鳥すすむ岸の松<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年一月<lb />
+</span>
+</span>
+<lb />
+此村を出でばやと思ふ<span type="ruby"><span type="rb">畦</span><span type="rp">（</span><span type="rt">あぜ</span><span type="rp">）</span></span>を焼く<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年二月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">虻</span><span type="rp">（</span><span type="rt">あぶ</span><span type="rp">）</span></span>落ちてもがけば<span type="ruby"><span type="rb">丁字</span><span type="rp">（</span><span type="rt">ちょうじ</span><span type="rp">）</span></span>香るなり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年三月十八日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">後手</span><span type="rp">（</span><span type="rt">うしろで</span><span type="rp">）</span></span>に人<span type="ruby"><span type="rb">渉</span><span type="rp">（</span><span type="rt">かちわた</span><span type="rp">）</span></span>る春の水<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年四月一日　立子同伴、京都にあり、泊月、王城、桐一、<span type="ruby"><span type="rb">播水</span><span type="rp">（</span><span type="rt">ばんすい</span><span type="rp">）</span></span>、桂樹楼、波川、ながしと共に光悦寺に遊ぶ。秋桜子も亦来る。<lb />
+</span>
+</span>
+<lb />
+眼つむれば若き我あり春の宵<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年四月<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">漕</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ぎ乱す<span type="ruby"><span type="rb">大堰</span><span type="rp">（</span><span type="rt">おおい</span><span type="rp">）</span></span>の水や花見船<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年四月八日　<span type="ruby"><span type="rb">渡月橋</span><span type="rp">（</span><span type="rt">とげつきょう</span><span type="rp">）</span></span>の上手より舟を<span type="ruby"><span type="rb">傭</span><span type="rp">（</span><span type="rt">やと</span><span type="rp">）</span></span>ひて<span type="ruby"><span type="rb">遡上</span><span type="rp">（</span><span type="rt">そじょう</span><span type="rp">）</span></span>。<lb />
+</span>
+</span>
+<lb />
+旧城市<span type="ruby"><span type="rb">柳絮</span><span type="rp">（</span><span type="rt">りゅうじょ</span><span type="rp">）</span></span>とぶことしきりなり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年　五月十四日発、満州旅行の途につく。江川<span type="ruby"><span type="rb">三昧</span><span type="rp">（</span><span type="rt">さんまい</span><span type="rp">）</span></span>東道。五月二十七日、<span type="ruby"><span type="rb">遼陽</span><span type="rp">（</span><span type="rt">りょうよう</span><span type="rp">）</span></span>に至る。<lb />
+</span>
+</span>
+<lb />
+夕立や森を出て来る馬車一つ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年六月三日　一日ハルビンに至る。八日迄滞在。<lb />
+</span>
+</span>
+<lb />
+止りたる<span type="ruby"><span type="rb">蠅</span><span type="rp">（</span><span type="rt">はえ</span><span type="rp">）</span></span>追ふことも<span type="ruby"><span type="rb">只</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>ねむし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年六月十一日　平壌、お牧の茶屋。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">短夜</span><span type="rp">（</span><span type="rt">みじかよ</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">露領</span><span type="rp">（</span><span type="rt">ろりょう</span><span type="rp">）</span></span>に近き旅の宿<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年六月二十七日　老人会。肋骨、峰青嵐、楽天、<span type="ruby"><span type="rb">落魄居</span><span type="rp">（</span><span type="rt">らくはくきょ</span><span type="rp">）</span></span>、楽堂、為王等来会。<lb />
+</span>
+</span>
+<lb />
+病身をもてあつかひつ<span type="ruby"><span type="rb">門涼</span><span type="rp">（</span><span type="rt">かどすず</span><span type="rp">）</span></span>み<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年七月十六日　安田句会。<lb />
+</span>
+</span>
+<lb />
+石ころも露けきものの一つかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年八月十九日　風生電気局長就任、京童帰朝、祝賀会。折柄ツエツペリン伯号来る。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">藪</span><span type="rp">（</span><span type="rt">やぶ</span><span type="rp">）</span></span>の穂の動く秋風見てゐるか<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和四年十月十日　七宝会。鎌倉浄明寺、たかし庵に於て。<lb />
+</span>
+</span>
+<lb />
+子供等に<span type="ruby"><span type="rb">双六</span><span type="rp">（</span><span type="rt">すごろく</span><span type="rp">）</span></span>まけて<span type="ruby"><span type="rb">老</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>の春<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年一月五日　鎌倉俳句会。極楽寺、寿水庵。<lb />
+</span>
+</span>
+<lb />
+ほつかりと<span type="ruby"><span type="rb">梢</span><span type="rp">（</span><span type="rt">こずえ</span><span type="rp">）</span></span>に日あり霜の朝<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年一月十九日　発行所例会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">栞</span><span type="rp">（</span><span type="rt">しおり</span><span type="rp">）</span></span>して<span type="ruby"><span type="rb">山家集</span><span type="rp">（</span><span type="rt">さんかしゅう</span><span type="rp">）</span></span>あり<span type="ruby"><span type="rb">西行忌</span><span type="rp">（</span><span type="rt">さいぎょうき</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年三月十三日　七宝会。発行所。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">春潮</span><span type="rp">（</span><span type="rt">しゅんちょう</span><span type="rp">）</span></span>といへば必ず<span type="ruby"><span type="rb">門司</span><span type="rp">（</span><span type="rt">もじ</span><span type="rp">）</span></span>を思ふ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年三月<lb />
+</span>
+</span>
+<lb />
+ふるひ<span type="ruby"><span type="rb">居</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>る小さき<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">立葵</span><span type="rp">（</span><span type="rt">たちあおい</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年六月二十七日　鎌倉俳句会。鴻乙居。夜、正福寺谷戸蛍狩。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">落書</span><span type="rp">（</span><span type="rt">らくがき</span><span type="rp">）</span></span>の顔の大きく<span type="ruby"><span type="rb">梅雨</span><span type="rp">（</span><span type="rt">つゆ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">塀</span><span type="rp">（</span><span type="rt">へい</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年六月二十九日　<span type="ruby"><span type="rb">玉藻</span><span type="rp">（</span><span type="rt">たまも</span><span type="rp">）</span></span>句会。真下邸。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">這入</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>りたる<span type="ruby"><span type="rb">虻</span><span type="rp">（</span><span type="rt">あぶ</span><span type="rp">）</span></span>にふくるる<span type="ruby"><span type="rb">花擬宝珠</span><span type="rp">（</span><span type="rt">はなぎぼし</span><span type="rp">）</span></span><lb />
+<lb />
+炎天の空美しや<span type="ruby"><span type="rb">高野山</span><span type="rp">（</span><span type="rt">こうやさん</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年七月十三日　<span type="ruby"><span type="rb">旭川</span><span type="rp">（</span><span type="rt">きょくせん</span><span type="rp">）</span></span>、鍋平朝臣等と高野山に遊ぶ。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">闇</span><span type="rp">（</span><span type="rt">やみ</span><span type="rp">）</span></span>なれば<span type="ruby"><span type="rb">衣</span><span type="rp">（</span><span type="rt">きぬ</span><span type="rp">）</span></span>まとふ間の裸かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年七月二十四日　東大俳句会。<lb />
+</span>
+</span>
+<lb />
+蜘蛛打つて<span type="ruby"><span type="rb">暫</span><span type="rp">（</span><span type="rt">しばらく</span><span type="rp">）</span></span>心静まらず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年八月一日　家庭俳句会。<lb />
+</span>
+</span>
+<lb />
+もの言ひて露けき夜と覚えたり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年八月二十六日　鎌倉俳句会。たかし庵。<lb />
+</span>
+</span>
+<lb />
+秋山や<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-86/1-86-06.png" rend="gaiji" rendition="img" source="※(「木＋國」、第3水準1-86-6)" /></span><span type="rp">（</span><span type="rt">くぬぎ</span><span type="rp">）</span></span>をはじき<span type="ruby"><span type="rb">笹</span><span type="rp">（</span><span type="rt">ささ</span><span type="rp">）</span></span>を分け<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年九月三十日　第二回武蔵野探勝会。多摩の横山。<lb />
+</span>
+</span>
+<lb />
+鉛筆で<span type="ruby"><span type="rb">助炭</span><span type="rp">（</span><span type="rt">じょたん</span><span type="rp">）</span></span>に書きし覚え書<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和五年十二月八日　<span type="ruby"><span type="rb">笹鳴</span><span type="rp">（</span><span type="rt">ささなき</span><span type="rp">）</span></span>会。<lb />
+</span>
+</span>
+<lb />
+東より春は<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">きた</span><span type="rp">）</span></span>ると植ゑし梅<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年一月十七日　<span type="ruby"><span type="rb">椎花</span><span type="rp">（</span><span type="rt">すいか</span><span type="rp">）</span></span>庵招宴。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">菅</span><span type="rp">（</span><span type="rt">すげ</span><span type="rp">）</span></span>の火は<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>の火よりもなほ弱し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年一月十八日　武蔵野探勝会。江戸川。<lb />
+</span>
+</span>
+<lb />
+せはしげに<span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>く<span type="ruby"><span type="rb">木魚</span><span type="rp">（</span><span type="rt">もくぎょ</span><span type="rp">）</span></span>や雪の寺<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年二月十二日　七宝会。鎌倉、たかし庵。<lb />
+</span>
+</span>
+<lb />
+大試験山の如くに控へたり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年二月十三日　東大俳句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">蕗</span><span type="rp">（</span><span type="rt">ふき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">薹</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>の舌を逃げゆくにがさかな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年二月二十日　家庭俳句会。発行所。<lb />
+</span>
+</span>
+<lb />
+紅梅の紅の通へる幹ならん<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年三月十二日　七宝会。葉山、水竹居別邸。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">蜥蜴</span><span type="rp">（</span><span type="rt">とかげ</span><span type="rp">）</span></span>以下<span type="ruby"><span type="rb">啓蟄</span><span type="rp">（</span><span type="rt">けいちつ</span><span type="rp">）</span></span>の虫くさ／″＼なり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年三月十三日　東大俳句会。<lb />
+</span>
+</span>
+<lb />
+土佐日記<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>にあり散る桜<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年四月二日　土佐国高知に著船。国分村に<span type="ruby"><span type="rb">紀貫之</span><span type="rp">（</span><span type="rt">きのつらゆき</span><span type="rp">）</span></span>の邸址を訪ふ。<lb />
+</span>
+</span>
+<lb />
+植木屋の掘りかけてある梅一樹<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年四月十七日　家庭俳句会。矢口村、<span type="ruby"><span type="rb">新田</span><span type="rp">（</span><span type="rt">にった</span><span type="rp">）</span></span>神社。<lb />
+</span>
+</span>
+<lb />
+川波に山吹映り澄まんとす<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年四月二十二日　丸之内会館。<span type="ruby"><span type="rb">金春惣右衛門</span><span type="rp">（</span><span type="rt">こんぱるそうえもん</span><span type="rp">）</span></span>にはじめて句を教ふ。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">早苗</span><span type="rp">（</span><span type="rt">さなえ</span><span type="rp">）</span></span>とる水うら／＼と笠のうち<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年五月十六日　丸之内倶楽部俳句会。第一回。<lb />
+</span>
+</span>
+<lb />
+つくばひのよく<span type="ruby"><span type="rb">濡</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>れてをる<span type="ruby"><span type="rb">端居</span><span type="rp">（</span><span type="rt">はしい</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年六月十六日　<span type="ruby"><span type="rb">水無月</span><span type="rp">（</span><span type="rt">みなづき</span><span type="rp">）</span></span>会大会。安田銀行。<lb />
+</span>
+</span>
+<lb />
+草抜けばよるべなき蚊のさしにけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年六月十八日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">飛騨</span><span type="rp">（</span><span type="rt">ひだ</span><span type="rp">）</span></span>の生れ名はとうといふほととぎす<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年六月二十四日　上高地温泉ホテルにあり。<span type="ruby"><span type="rb">少婢</span><span type="rp">（</span><span type="rt">しょうひ</span><span type="rp">）</span></span>の名を聞けばとうといふ。<lb />
+</span>
+</span>
+<lb />
+火の山の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>に夏帽振る別れ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年六月二十四日　下山。とう等焼岳の<span type="ruby"><span type="rb">麓</span><span type="rp">（</span><span type="rt">ふもと</span><span type="rp">）</span></span>まで送り来る。<lb />
+</span>
+</span>
+<lb />
+夕影は流るる<span type="ruby"><span type="rb">藻</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>にも<span type="ruby"><span type="rb">濃</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>かりけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年七月十九日　武蔵野探勝会。古利根。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">大蛾</span><span type="rp">（</span><span type="rt">たいが</span><span type="rp">）</span></span>来て動乱したる<span type="ruby"><span type="rb">灯虫</span><span type="rp">（</span><span type="rt">ひむし</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年八月十四日　東大俳句会。<lb />
+</span>
+</span>
+<lb />
+蜘蛛の糸がんぴの花をしぼりたる<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年九月六日　武蔵野探勝会。<span type="ruby"><span type="rb">忍</span><span type="rp">（</span><span type="rt">おし</span><span type="rp">）</span></span>、川島<span type="ruby"><span type="rb">奇北</span><span type="rp">（</span><span type="rt">きほく</span><span type="rp">）</span></span>邸に赴き、大利根に遊ぶ。<lb />
+</span>
+</span>
+<lb />
+われの星燃えてをるなり星月夜<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年九月十七日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+秋風のだん／＼荒し蘆の原<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年九月十八日　家庭俳句会。羽田<span type="ruby"><span type="rb">穴守</span><span type="rp">（</span><span type="rt">あなもり</span><span type="rp">）</span></span>海岸吟行。<lb />
+</span>
+</span>
+<lb />
+仲秋や大陸に又遊ぶべく<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十月九日　東大俳句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+初潮に沈みて深き四ツ手かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十月二十二日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+秋風や生徒の中の島女<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十月二十三日　鎌倉俳句会。江の島金亀楼。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">浦安</span><span type="rp">（</span><span type="rt">うらやす</span><span type="rp">）</span></span>の子は裸なり蘆の花<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十一月一日　武蔵野探勝会。浦安吟行。<lb />
+</span>
+</span>
+<lb />
+たてかけてあたりものなき<span type="ruby"><span type="rb">破魔矢</span><span type="rp">（</span><span type="rt">はまや</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十一月六日　『週刊朝日』新年号のために。<lb />
+</span>
+</span>
+<lb />
+酒うすしせめては<span type="ruby"><span type="rb">燗</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>を熱うせよ<lb />
+<lb />
+<span type="ruby"><span type="rb">慟哭</span><span type="rp">（</span><span type="rt">どうこく</span><span type="rp">）</span></span>せしは昔となりむ明治節<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十一月十三日　東大俳句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">初鶏</span><span type="rp">（</span><span type="rt">はつとり</span><span type="rp">）</span></span>や動きそめたる山かづら<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十一月十四日　新聞<span type="ruby"><span type="rb">聯合</span><span type="rp">（</span><span type="rt">れんごう</span><span type="rp">）</span></span>特信部の依頼。<lb />
+</span>
+</span>
+<lb />
+たら／＼と藤の落葉の続くなり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十一月十五日　<span type="ruby"><span type="rb">二子</span><span type="rp">（</span><span type="rt">ふたこ</span><span type="rp">）</span></span>多摩川吟行。柳家休憩。<lb />
+</span>
+</span>
+<lb />
+寺の<span type="ruby"><span type="rb">傘</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>茶店にありし<span type="ruby"><span type="rb">時雨</span><span type="rp">（</span><span type="rt">しぐれ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十一月十九日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">羽抜鳥</span><span type="rp">（</span><span type="rt">はぬけどり</span><span type="rp">）</span></span>身を細うしてかけりけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十二月二日<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">鷹</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>の目の<span type="ruby"><span type="rb">佇</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>む人に向はざる<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十二月十一日　東大俳句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">炭斗</span><span type="rp">（</span><span type="rt">すみとり</span><span type="rp">）</span></span>は所定めず<span type="ruby"><span type="rb">坐右</span><span type="rp">（</span><span type="rt">ざう</span><span type="rp">）</span></span>にあり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和六年十二月十四日　笹鳴会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+水仙や表紙とれたる古<span type="ruby"><span type="rb">言海</span><span type="rp">（</span><span type="rt">げんかい</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年一月二十八日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+春の水流れ／＼て又ここに<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年二月七日　武蔵野探勝会。<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>村<span type="ruby"><span type="rb">大字</span><span type="rp">（</span><span type="rt">おおあざ</span><span type="rp">）</span></span>岡本字下山、岩崎別邸。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">草萌</span><span type="rp">（</span><span type="rt">くさもえ</span><span type="rp">）</span></span>や大地総じてものものし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年二月八日　笹鳴会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+風の日の麦踏<span type="ruby"><span type="rb">遂</span><span type="rp">（</span><span type="rt">つい</span><span type="rp">）</span></span>にをらずなりぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年二月十三日　<span type="ruby"><span type="rb">荻窪</span><span type="rp">（</span><span type="rt">おぎくぼ</span><span type="rp">）</span></span>、女子大学句会。<lb />
+</span>
+</span>
+<lb />
+学僧に梅の月あり猫の恋<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年二月二十二日　<span type="ruby"><span type="rb">薺</span><span type="rp">（</span><span type="rt">なずな</span><span type="rp">）</span></span>会句会。<lb />
+</span>
+</span>
+<lb />
+ぱつと火になりたる蜘蛛や草を焼く<lb />
+<lb />
+我心<span type="ruby"><span type="rb">漸</span><span type="rp">（</span><span type="rt">ようや</span><span type="rp">）</span></span>く楽し草を焼く<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年三月二十四日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+花の雨降りこめられて<span type="ruby"><span type="rb">謡</span><span type="rp">（</span><span type="rt">うたい</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年四月十二日　京都石田旅館にあり。<span type="ruby"><span type="rb">安倍</span><span type="rp">（</span><span type="rt">あべ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">和辻</span><span type="rp">（</span><span type="rt">わつじ</span><span type="rp">）</span></span>両君来り、謡二番。<lb />
+</span>
+</span>
+<lb />
+山寺の<span type="ruby"><span type="rb">古文書</span><span type="rp">（</span><span type="rt">こもんじょ</span><span type="rp">）</span></span>も無く<span type="ruby"><span type="rb">長閑</span><span type="rp">（</span><span type="rt">のどか</span><span type="rp">）</span></span>なり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年四月十六日　蜻蛉会。西山十輪寺吟行。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">結縁</span><span type="rp">（</span><span type="rt">けちえん</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">疑</span><span type="rp">（</span><span type="rt">うたがい</span><span type="rp">）</span></span>もなき花盛り<lb />
+<lb />
+<span type="ruby"><span type="rb">聾</span><span type="rp">（</span><span type="rt">ろう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">青畝</span><span type="rp">（</span><span type="rt">せいほ</span><span type="rp">）</span></span>ひとり離れて花下に<span type="ruby"><span type="rb">笑</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>む<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年四月十九日　木槿会。大阪倶楽部。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">燕</span><span type="rp">（</span><span type="rt">つばくろ</span><span type="rp">）</span></span>のゆるく飛び居る何の意ぞ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年五月七日　水竹居祝賀会。四ツ木吉野園。<lb />
+</span>
+</span>
+<lb />
+春の浜大いなる輪が<span type="ruby"><span type="rb">画</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いてある<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年五月九日　笹鳴会。片瀬西浜、保岡別邸。<lb />
+</span>
+</span>
+<lb />
+夏草に黄色き魚を釣り上げし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年六月五日　武蔵野探勝会。<span type="ruby"><span type="rb">石神井</span><span type="rp">（</span><span type="rt">しゃくじい</span><span type="rp">）</span></span>、三宝寺池。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">自</span><span type="rp">（</span><span type="rt">おのずか</span><span type="rp">）</span></span>ら<span type="ruby"><span type="rb">其頃</span><span type="rp">（</span><span type="rt">そのころ</span><span type="rp">）</span></span>となる<span type="ruby"><span type="rb">釣荵</span><span type="rp">（</span><span type="rt">つりしのぶ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年六月二十一日　水無月会。丸ノ内、安田銀行。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">榛名湖</span><span type="rp">（</span><span type="rt">はるなこ</span><span type="rp">）</span></span>のふちのあやめに<span type="ruby"><span type="rb">床几</span><span type="rp">（</span><span type="rt">しょうぎ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年七月三十一日　<span type="ruby"><span type="rb">伊香保</span><span type="rp">（</span><span type="rt">いかほ</span><span type="rp">）</span></span>に遊び、榛名湖にいたる。<lb />
+</span>
+</span>
+<lb />
+落花のむ<span type="ruby"><span type="rb">鯉</span><span type="rp">（</span><span type="rt">こい</span><span type="rp">）</span></span>はしやれもの<span type="ruby"><span type="rb">髭</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>長し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年九月四日　武蔵野探勝会。南拝島、<span type="ruby"><span type="rb">日吉</span><span type="rp">（</span><span type="rt">ひえ</span><span type="rp">）</span></span>神社社前。<lb />
+</span>
+</span>
+<lb />
+夜学すすむ教師の声の低きまま<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年九月十日　『<span type="ruby"><span type="rb">山茶花</span><span type="rp">（</span><span type="rt">さざんか</span><span type="rp">）</span></span>』十週年記念大会兼題。<lb />
+</span>
+</span>
+<lb />
+くはれもす<span type="ruby"><span type="rb">八雲</span><span type="rp">（</span><span type="rt">やくも</span><span type="rp">）</span></span>旧居の秋の蚊に<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年十月八日　<span type="ruby"><span type="rb">出雲</span><span type="rp">（</span><span type="rt">いずも</span><span type="rp">）</span></span>松江。八雲旧居を訪ふ。<lb />
+</span>
+</span>
+<lb />
+秋風の急に寒しや<span type="ruby"><span type="rb">分</span><span type="rp">（</span><span type="rt">わけ</span><span type="rp">）</span></span>の茶屋<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年十月九日　松江を<span type="ruby"><span type="rb">発</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ち<span type="ruby"><span type="rb">大山</span><span type="rp">（</span><span type="rt">だいせん</span><span type="rp">）</span></span>に向ふ。大山登山。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">遅月</span><span type="rp">（</span><span type="rt">おそづき</span><span type="rp">）</span></span>の上りて<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>申しけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年十月十九日　<span type="ruby"><span type="rb">嵯峨野</span><span type="rp">（</span><span type="rt">さがの</span><span type="rp">）</span></span>吟行。二条、巨陶居。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">山間</span><span type="rp">（</span><span type="rt">やまあい</span><span type="rp">）</span></span>の霧の小村に人と成る<lb />
+<lb />
+顔よせて人話し居る夜霧かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年十月二十日　木槿会。大阪倶楽部。<lb />
+</span>
+</span>
+<lb />
+大小の木の実を人にたとへたり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和七年十一月十四日　笹鳴会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">描初</span><span type="rp">（</span><span type="rt">かきぞめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">壺</span><span type="rp">（</span><span type="rt">つぼ</span><span type="rp">）</span></span>に仲秋の句を題す<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年一月一日　鎌倉宅<span type="ruby"><span type="rb">病臥</span><span type="rp">（</span><span type="rt">びょうが</span><span type="rp">）</span></span>。<span type="ruby"><span type="rb">皿井</span><span type="rp">（</span><span type="rt">さらい</span><span type="rp">）</span></span><span type="ruby"><span type="rb">旭川</span><span type="rp">（</span><span type="rt">きょくせん</span><span type="rp">）</span></span>来、<span type="ruby"><span type="rb">枕頭</span><span type="rp">（</span><span type="rt">ちんとう</span><span type="rp">）</span></span>に壺の図を描く。<lb />
+</span>
+</span>
+<lb />
+つく<span type="ruby"><span type="rb">羽子</span><span type="rp">（</span><span type="rt">ばね</span><span type="rp">）</span></span>の静に高し<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">たれ</span><span type="rp">）</span></span>やらん<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年一月九日　笹鳴会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">襟巻</span><span type="rp">（</span><span type="rt">えりまき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">狐</span><span type="rp">（</span><span type="rt">きつね</span><span type="rp">）</span></span>の顔は別に<span type="ruby"><span type="rb">在</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>り<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年一月十二日　七宝会。松韻社にて。<span type="ruby"><span type="rb">日比谷</span><span type="rp">（</span><span type="rt">ひびや</span><span type="rp">）</span></span>公園。<lb />
+</span>
+</span>
+<lb />
+つづけさまに<span type="ruby"><span type="rb">嚔</span><span type="rp">（</span><span type="rt">くさめ</span><span type="rp">）</span></span>して威儀くづれけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年一月二十一日　家庭俳句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">凍蝶</span><span type="rp">（</span><span type="rt">いてちょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">おの</span><span type="rp">）</span></span>が魂追うて飛ぶ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年一月二十六日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+雪解くるささやき<span type="ruby"><span type="rb">滋</span><span type="rp">（</span><span type="rt">しげ</span><span type="rp">）</span></span>し<span type="ruby"><span type="rb">小笹原</span><span type="rp">（</span><span type="rt">おざさはら</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年一月二十七日　鎌倉俳句会。<lb />
+</span>
+</span>
+<lb />
+紅梅の<span type="ruby"><span type="rb">莟</span><span type="rp">（</span><span type="rt">つぼみ</span><span type="rp">）</span></span>は固し<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">ものい</span><span type="rp">）</span></span>はず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年二月二十二日　臨時句会。発行所。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">鴨</span><span type="rp">（</span><span type="rt">かも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">嘴</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>よりたら／＼と春の<span type="ruby"><span type="rb">泥</span><span type="rp">（</span><span type="rt">どろ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年三月三日　家庭俳句会。横浜、三渓園。<lb />
+</span>
+</span>
+<lb />
+立ちならぶ<span type="ruby"><span type="rb">辛夷</span><span type="rp">（</span><span type="rt">こぶし</span><span type="rp">）</span></span>の莟行く如し<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年三月三十日　七宝会。あふひ邸。<lb />
+</span>
+</span>
+<lb />
+神にませばまこと<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">うる</span><span type="rp">）</span></span>はし<span type="ruby"><span type="rb">那智</span><span type="rp">（</span><span type="rt">なち</span><span type="rp">）</span></span>の滝<lb />
+<lb />
+<span type="ruby"><span type="rb">鬢</span><span type="rp">（</span><span type="rt">びん</span><span type="rp">）</span></span>に手を花に<span type="ruby"><span type="rb">御詠歌</span><span type="rp">（</span><span type="rt">ごえいか</span><span type="rp">）</span></span>あげて居り<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年四月十日　南紀に遊ぶ。橙黄子東道。那智の滝。<span type="ruby"><span type="rb">青岸渡寺</span><span type="rp">（</span><span type="rt">せいがんとじ</span><span type="rp">）</span></span>。<lb />
+</span>
+</span>
+<lb />
+鶯や<span type="ruby"><span type="rb">御幸</span><span type="rp">（</span><span type="rt">みゆき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">輿</span><span type="rp">（</span><span type="rt">こし</span><span type="rp">）</span></span>もゆるめけん<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年四月十二日　<span type="ruby"><span type="rb">中辺路</span><span type="rp">（</span><span type="rt">なかへち</span><span type="rp">）</span></span>を経て田辺に至る。中辺路懐古。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>の日する昔の人のあらまほし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年四月十九日　大磯一本松、中村<span type="ruby"><span type="rb">吉右衛門</span><span type="rp">（</span><span type="rt">きちえもん</span><span type="rp">）</span></span>別邸に行く。安田<span type="ruby"><span type="rb">靫彦</span><span type="rp">（</span><span type="rt">ゆきひこ</span><span type="rp">）</span></span>の意匠になるといふ庭に昔絵を見るが如き稚松多し。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">虹</span><span type="rp">（</span><span type="rt">にじ</span><span type="rp">）</span></span>立ちて雨逃げて行く広野かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年五月二十五日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">囀</span><span type="rp">（</span><span type="rt">さえずり</span><span type="rp">）</span></span>や絶えず二三羽こぼれ飛び<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年六月十三日　北海道旭川俳句大会兼題。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">浴衣</span><span type="rp">（</span><span type="rt">ゆかた</span><span type="rp">）</span></span><span type="ruby"><span type="rb">著</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>て少女の乳房高からず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年七月十二日　おほさき会。発行所。<lb />
+</span>
+</span>
+<lb />
+風鈴の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">住</span><span type="rp">（</span><span type="rt">すま</span><span type="rp">）</span></span>ひをる女かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年七月二十四日　玉藻句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+船涼し己が煙に包まれて<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年　八月十六日発、北海道行。あふひ、立子、友次郎、<span type="ruby"><span type="rb">草田男</span><span type="rp">（</span><span type="rt">くさたお</span><span type="rp">）</span></span>、夢香、桜坡子、木国同行。八月十七日、青函連絡船松前丸船中。<lb />
+</span>
+</span>
+<lb />
+皆降りて北見富士見る旅の秋<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年八月二十一日　るべしべ駅。此夜、阿寒湖、山浦旅館泊。<lb />
+</span>
+</span>
+<lb />
+バス来るや虹の立ちたる湖畔村<lb />
+<lb />
+火の山の<span type="ruby"><span type="rb">麓</span><span type="rp">（</span><span type="rt">ふもと</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">うみ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">舟遊</span><span type="rp">（</span><span type="rt">ふなあそび</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年八月二十二日　阿寒湖。此夜、<span type="ruby"><span type="rb">弟子屈</span><span type="rp">（</span><span type="rt">てしかが</span><span type="rp">）</span></span>、青木旅館泊。<lb />
+</span>
+</span>
+<lb />
+燈台は低く霧笛は<span type="ruby"><span type="rb">峙</span><span type="rp">（</span><span type="rt">そばだ</span><span type="rp">）</span></span>てり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年八月二十三日　<span type="ruby"><span type="rb">釧路</span><span type="rp">（</span><span type="rt">くしろ</span><span type="rp">）</span></span>港。此夜、釧路港、近江屋泊。<lb />
+</span>
+</span>
+<lb />
+一筋の<span type="ruby"><span type="rb">煙草</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>のけむり夜学かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年九月二十九日　草樹会。学士会館。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">加藤洲</span><span type="rp">（</span><span type="rt">かとうす</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">大百姓</span><span type="rp">（</span><span type="rt">おおびゃくしょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">夜長</span><span type="rp">（</span><span type="rt">よなが</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十月一日　武蔵野探勝会。<span type="ruby"><span type="rb">常陸</span><span type="rp">（</span><span type="rt">ひたち</span><span type="rp">）</span></span><span type="ruby"><span type="rb">鹿島</span><span type="rp">（</span><span type="rt">かしま</span><span type="rp">）</span></span>神社行。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">倏忽</span><span type="rp">（</span><span type="rt">しゅっこつ</span><span type="rp">）</span></span>に時は過ぎ行く秋の雨<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十月八日　田園調布、橙黄子新居句会。<lb />
+</span>
+</span>
+<lb />
+秋の蝶黄色が白にさめけらし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十月二十三日　玉藻句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+顔抱いて犬が寝てをり菊の宿<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十一月三日　家庭俳句会。鎌倉、虚子庵。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">物指</span><span type="rp">（</span><span type="rt">ものさし</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">脊</span><span type="rp">（</span><span type="rt">せな</span><span type="rp">）</span></span>かくことも<span type="ruby"><span type="rb">日短</span><span type="rp">（</span><span type="rt">ひみじか</span><span type="rp">）</span></span><lb />
+<lb />
+来るとはや帰り<span type="ruby"><span type="rb">支度</span><span type="rp">（</span><span type="rt">じたく</span><span type="rp">）</span></span>や日短<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十一月十九日　発行所例会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+来る人に我は行く人<span type="ruby"><span type="rb">慈善鍋</span><span type="rp">（</span><span type="rt">じぜんなべ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十一月二十七日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">雑炊</span><span type="rp">（</span><span type="rt">ぞうすい</span><span type="rp">）</span></span>に非力ながらも笑ひけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十二月八日　草樹会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+焼芋がこぼれて<span type="ruby"><span type="rb">田舎源氏</span><span type="rp">（</span><span type="rt">いなかげんじ</span><span type="rp">）</span></span>かな<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十二月十日　笹鳴会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">白雲</span><span type="rp">（</span><span type="rt">はくうん</span><span type="rp">）</span></span>と冬木と<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">つい</span><span type="rp">）</span></span>にかかはらず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和八年十二月十五日　家庭俳句会。<span type="ruby"><span type="rb">渋谷</span><span type="rp">（</span><span type="rt">しぶや</span><span type="rp">）</span></span>、あふひ邸。<lb />
+</span>
+</span>
+<lb />
+かくれ家をかいま見すれば<span type="ruby"><span type="rb">雛</span><span type="rp">（</span><span type="rt">ひな</span><span type="rp">）</span></span>飾る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年二月二十六日　玉藻句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+白雲のほとおこり消ゆ花の雨<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年四月十三日　大阪に在りしが野風呂の招きにて昨夜遅く嵐山、花の家に著。大堰舟遊。此夜石田旅館泊。<lb />
+</span>
+</span>
+<lb />
+四畳半三間の幽居や<span type="ruby"><span type="rb">小米花</span><span type="rp">（</span><span type="rt">こごめばな</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年四月十四日　蜻蛉会。岩倉実相寺に至る。岩倉公遺跡。<lb />
+</span>
+</span>
+<lb />
+事務多忙頭を上げて春<span type="ruby"><span type="rb">惜</span><span type="rp">（</span><span type="rt">おし</span><span type="rp">）</span></span>む<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年四月二十九日　発行所例会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+つくり雨降らせふきあげ噴き上げぬ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年六月九日　水竹居招宴。田中家。<lb />
+</span>
+</span>
+<lb />
+酌婦来る灯取虫より<span type="ruby"><span type="rb">汚</span><span type="rp">（</span><span type="rt">きたな</span><span type="rp">）</span></span>きが<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年六月十一日　おほさき会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+一々の<span type="ruby"><span type="rb">芥子</span><span type="rp">（</span><span type="rt">けし</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">嚢</span><span type="rp">（</span><span type="rt">ふくろ</span><span type="rp">）</span></span>や雲の峰<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年六月十五日　家庭俳句会。小石川植物園。<lb />
+</span>
+</span>
+<lb />
+玉虫の光残して飛びにけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年七月二十三日　玉藻句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">水飯</span><span type="rp">（</span><span type="rt">すいはん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">味噌</span><span type="rp">（</span><span type="rt">みそ</span><span type="rp">）</span></span>を落して濁しけり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年七月二十六日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">黒揚羽</span><span type="rp">（</span><span type="rt">くろあげは</span><span type="rp">）</span></span><span type="ruby"><span type="rb">花魁草</span><span type="rp">（</span><span type="rt">おいらんそう</span><span type="rp">）</span></span>にかけり来る<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年七月二十七日　鎌倉俳句会。稲村ヶ崎、稲村居。<lb />
+</span>
+</span>
+<lb />
+何となく人に親しや<span type="ruby"><span type="rb">初嵐</span><span type="rp">（</span><span type="rt">はつあらし</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年八月二十三日　丸之内倶楽部俳句会。<lb />
+</span>
+</span>
+<lb />
+よべの<span type="ruby"><span type="rb">時化</span><span type="rp">（</span><span type="rt">しけ</span><span type="rp">）</span></span>最も萩をいためしか<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年九月十一日　箱根、見南山荘。<lb />
+</span>
+</span>
+<lb />
+大いなるものが過ぎ行く<span type="ruby"><span type="rb">野分</span><span type="rp">（</span><span type="rt">のわき</span><span type="rp">）</span></span>かな<lb />
+<lb />
+<span type="ruby"><span type="rb">古</span><span type="rp">（</span><span type="rt">いにしえ</span><span type="rp">）</span></span>の月あり舞の<span type="ruby"><span type="rb">静</span><span type="rp">（</span><span type="rt">しずか</span><span type="rp">）</span></span>なし<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年九月二十一日　家庭俳句会。鎌倉、鶴ヶ岡八幡楼門。野分吹く。号外に<span type="ruby"><span type="rb">颱風</span><span type="rp">（</span><span type="rt">たいふう</span><span type="rp">）</span></span>京阪地方を襲ひ大阪天王寺の塔倒ると。<lb />
+</span>
+</span>
+<lb />
+並べある木の実に<span type="ruby"><span type="rb">吾子</span><span type="rp">（</span><span type="rt">あこ</span><span type="rp">）</span></span>の心思ふ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年十月二十二日　玉藻句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+秋風や何の煙か<span type="ruby"><span type="rb">藪</span><span type="rp">（</span><span type="rt">やぶ</span><span type="rp">）</span></span>にしむ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年十月二十七日　鎌倉俳句会。たかし庵。<lb />
+</span>
+</span>
+<lb />
+川を見るバナナの皮は手より落ち<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年十一月四日　武蔵野探勝会。<span type="ruby"><span type="rb">浜町</span><span type="rp">（</span><span type="rt">はまちょう</span><span type="rp">）</span></span>、日本橋倶楽部。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">焚火</span><span type="rp">（</span><span type="rt">たきび</span><span type="rp">）</span></span>のみして朽ち果つる徒に<span type="ruby"><span type="rb">非</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>ず<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和九年十一月十二日　おほさき会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+神近き<span type="ruby"><span type="rb">大提灯</span><span type="rp">（</span><span type="rt">おおぢょうちん</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">初詣</span><span type="rp">（</span><span type="rt">はつもうで</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年一月一日　未明。明治神宮初詣。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">巫女舞</span><span type="rp">（</span><span type="rt">みこまい</span><span type="rp">）</span></span>をすかせ給ひて神の春<lb />
+<lb />
+神慮今<span type="ruby"><span type="rb">鳩</span><span type="rp">（</span><span type="rt">はと</span><span type="rp">）</span></span>をたたしむ初詣<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年一月一日　午後。鶴ヶ岡八幡宮初詣。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">藪入</span><span type="rp">（</span><span type="rt">やぶいり</span><span type="rp">）</span></span>の田舎の月の明るさよ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年一月十日　第二回同人会。<span type="ruby"><span type="rb">赤羽橋</span><span type="rp">（</span><span type="rt">あかばねばし</span><span type="rp">）</span></span>、春岱寮。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">里方</span><span type="rp">（</span><span type="rt">さとかた</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">葵</span><span type="rp">（</span><span type="rt">あおい</span><span type="rp">）</span></span>の紋や<span type="ruby"><span type="rb">雛</span><span type="rp">（</span><span type="rt">ひな</span><span type="rp">）</span></span>の幕<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年三月三日　武蔵野探勝会。<span type="ruby"><span type="rb">麻布</span><span type="rp">（</span><span type="rt">あざぶ</span><span type="rp">）</span></span>広尾、近藤男爵邸雛祭。<lb />
+</span>
+</span>
+<lb />
+一を知つて二を知らぬなり卒業す<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年三月十二日　笹鳴会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+園丁の指に従ふ春の土<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年四月四日　みづほ歓迎会。百花園。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">椿</span><span type="rp">（</span><span type="rt">つばき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">先</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>づ揺れて見せたる春の風<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年四月二十日　あふひ還暦祝。百花園。<lb />
+</span>
+</span>
+<lb />
+船の出るまで<span type="ruby"><span type="rb">花隈</span><span type="rp">（</span><span type="rt">はなくま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">朧月</span><span type="rp">（</span><span type="rt">おぼろづき</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年四月二十四日　播水招宴。神戸花隈、吟松亭。<lb />
+</span>
+</span>
+<lb />
+道のべに<span type="ruby"><span type="rb">阿波</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>の遍路の墓あはれ<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年四月二十五日　風早西の<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>の句碑を見、鹿島に遊ぶ。松山、黙禅邸。松山ホトトギス会。<lb />
+</span>
+</span>
+<lb />
+藤<span type="ruby"><span type="rb">垂</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>れて<span type="ruby"><span type="rb">今宵</span><span type="rp">（</span><span type="rt">こよい</span><span type="rp">）</span></span>の船も波なけん<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年四月二十六日　<span type="ruby"><span type="rb">石手寺</span><span type="rp">（</span><span type="rt">いしてじ</span><span type="rp">）</span></span>、湧ヶ淵吟行。豊阪町亀の井。此夜神戸舟行。<lb />
+</span>
+</span>
+<lb />
+旅荷物しまひ終りて花にひま<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年四月二十九日　舞子、万亀楼。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">秋篠</span><span type="rp">（</span><span type="rt">あきしの</span><span type="rp">）</span></span>はげんげの<span type="ruby"><span type="rb">畦</span><span type="rp">（</span><span type="rt">あぜ</span><span type="rp">）</span></span>に仏かな<lb />
+<lb />
+<span type="ruby"><span type="rb">奈良茶飯</span><span type="rp">（</span><span type="rt">ならちゃめし</span><span type="rp">）</span></span>出来るに間あり藤の花<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年五月一日　立子と共に大阪玉藻句会出席。奈良東大寺裏、宝厳院。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">燕</span><span type="rp">（</span><span type="rt">つばくろ</span><span type="rp">）</span></span>のしば鳴き飛ぶや<span type="ruby"><span type="rb">大堰川</span><span type="rp">（</span><span type="rt">おおいがわ</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年五月二日　京都嵐山、花の家。立子と共に。<lb />
+</span>
+</span>
+<lb />
+緑蔭を出れば明るし<span type="ruby"><span type="rb">芥子</span><span type="rp">（</span><span type="rt">けし</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>に<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年六月十三日　七宝会。小石川植物園。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-86/1-86-21.png" rend="gaiji" rendition="img" source="※(「楫＋戈」、第3水準1-86-21)" /></span><span type="rp">（</span><span type="rt">かじ</span><span type="rp">）</span></span>の音ゆるく太しや<span type="ruby"><span type="rb">行々子</span><span type="rp">（</span><span type="rt">ぎょうぎょうし</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年六月二十四日　玉藻句会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+吹きつけて<span type="ruby"><span type="rb">痩</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>せたる人や夏羽織<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年六月二十八日　鎌倉俳句会。鎌倉山。<lb />
+</span>
+</span>
+<lb />
+<span type="ruby"><span type="rb">魚鼈</span><span type="rp">（</span><span type="rt">ぎょべつ</span><span type="rp">）</span></span>居る水を踏まへて<span type="ruby"><span type="rb">水馬</span><span type="rp">（</span><span type="rt">みずすまし</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年七月十一日　七宝会。<span type="ruby"><span type="rb">井</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>ノ<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かしら</span><span type="rp">）</span></span>公園茶店。<lb />
+</span>
+</span>
+<lb />
+山の蝶飛んで<span type="ruby"><span type="rb">乾</span><span type="rp">（</span><span type="rt">かわ</span><span type="rp">）</span></span>くや<span type="ruby"><span type="rb">宿浴衣</span><span type="rp">（</span><span type="rt">やどゆかた</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年八月五日　箱根、松坂屋。一行十三人。<lb />
+</span>
+</span>
+<lb />
+かわ／＼と大きくゆるく<span type="ruby"><span type="rb">寒鴉</span><span type="rp">（</span><span type="rt">かんがらす</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年十二月十二日　七宝会。松本<span type="ruby"><span type="rb">長</span><span type="rp">（</span><span type="rt">ながし</span><span type="rp">）</span></span>氏追善。<span type="ruby"><span type="rb">不忍池</span><span type="rp">（</span><span type="rt">しのばずのいけ</span><span type="rp">）</span></span>畔雨月荘。<lb />
+</span>
+</span>
+<lb />
+大空に<span type="ruby"><span type="rb">羽子</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>の白妙とどまれり<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年十二月十三日　草樹会。丸ビル集会室。<lb />
+</span>
+</span>
+<lb />
+観音は近づきやすし<span type="ruby"><span type="rb">除夜詣</span><span type="rp">（</span><span type="rt">じょやもうで</span><span type="rp">）</span></span><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+昭和十年十二月三十一日　浅草観音。<lb />
+</span>
+</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

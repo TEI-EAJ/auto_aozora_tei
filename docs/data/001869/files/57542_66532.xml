@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>赤ひげ診療譚</title>
+        <author>山本周五郎</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2018-11-24">作成</resp><resp /><note>
+<lb />
+底本：「山本周五郎全集第十一巻　赤ひげ診療譚・五瓣の椿」新潮社<lb />
+　　　1981（昭和56）年10月25日発行<lb />
+初出：「オール読物」<lb />
+　　　1958（昭和33）年11月<lb />
+入力：特定非営利活動法人はるかぜ<lb />
+校正：北川松生<lb />
+<date when="2018-11-24">2018年11月24日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>特定非営利活動法人はるかぜ</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>北川松生</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>赤ひげ診療譚</title><author>山本周五郎</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+　十二月にはいってまもない或る日の午後八時過ぎ、――新出去定は保本登と話しながら、伝通院のゆるい坂道を、養生所のほうへと歩いていた。竹造が去定の先に立って、<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>で足もとを照らしながらゆき、<span type="ruby"><span type="rb">薬籠</span><span type="rp">（</span><span type="rt">やくろう</span><span type="rp">）</span></span>は登が負っていた。一人の使用人に二つの仕事を同時にさせてはならない、と去定はつねに云っている。医員たちはべつであるが、下男下女、庭番などにはこの内規が固く守られていて、これまでにも登が薬籠を背負うことは珍らしくなかったし、去定その人も例外ではなかった。<lb />
+　――疲れているんだな。<lb />
+　去定の話を聞きながら、登は心の中でそっと首を振った。去定は疲れてくると怒りっぽくなる。その日はことに病人が多く、十五カ所も診察に廻ったあとで、帰りがいつもより一<span type="ruby"><span type="rb">刻</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>ちかくもおくれ、疲労と空腹のためにいっそう<span type="ruby"><span type="rb">苛立</span><span type="rp">（</span><span type="rt">いらだ</span><span type="rp">）</span></span>っていたらしい。「かよい療治の停止」について、役人たちの無道さを激しく非難した。<lb />
+　養生所の経費削減と、かよい療治の停止令が出たのは夏のことであった。そのとき去定はずいぶん抗議をしたが、結局どうにもならず、去定がその費用を負担するという条件で、かよい療治を黙認することになった。そのため去定は、従来よりも多く、大名諸侯や富豪、大商人などの依頼に応じ、その収入で削減された経費や、かよって来る病人の投薬をまかなって来たのであるが、数日まえまた養生所付きの与力から呼ばれて、「かよい療治は一切ならぬ」ということ、同時に、入所している病人でも、身内に多少でも稼ぐ者がある場合には「食費を取る」ように、ということを云われたのであった。<lb />
+「富者の万燈より貧者の一燈ということがある」と歩きながら去定が続けた、「これは貧者の信心こそ仏の意志にかなうという意味らしいが、じつはまったくの<span rend="sesame_dot" rendition="em">たばかり</span>だ」<lb />
+　万燈を献ずる富者には限りがあるし、いつも万燈を献ずるものではない。だが、一燈しか献ずることのできない貧者は多数であって、しかも、一燈くらいの寄進ならいつでも応ずるだろう。「仏への供養」は来世へのつながりであり、安楽往生のみちだという。この世で貧苦にいためつけられ、一生うだつのあがらない人たちは、せめて安楽往生、来世での<span type="ruby"><span type="rb">成仏</span><span type="rp">（</span><span type="rt">じょうぶつ</span><span type="rp">）</span></span>ということに頼りたくなる。その弱身をつかんで、一燈をたばかり取るわる賢さは、政治にそのまま通じているようだ。<lb />
+「幕府の経済が年貢運上によって成り立つことはいうまでもない」と去定は云っていた、「しかし、それを支えているものはつねに、もっとも多数の小商人や小百姓や職人たちだ、その例をここで並べる必要はないだろうし、その是非については一概に云えない面もある、それにしても、かれらが日雇い人足の僅かな賃銭にまで運上を課することや、施療を受けているような病人から食費を取る、などという無道さにはがまんがならぬ」<lb />
+　去定はどしんどしんと、ちから足を踏んで歩いた。<lb />
+「むろん、おれがここでどう頑張ったところで、役人どもを動かすことはできない」と去定は云った、「たとえ二三の役人を動かすことができたとしても、幕府の政治まで動かすことはできない、だからこんなことを喚きたてるのはばかげた<span rend="sesame_dot" rendition="em">ぐち</span>だ、源氏であれ平家であれ、人間がいったん権力をにぎれば、必ずその権力を護るための法が<span type="ruby"><span type="rb">布</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>かれ、政治がおこなわれる、いついかなる時代でもだ、――保本はおれの、こういう<span rend="sesame_dot" rendition="em">ぐち</span>を幾たびか聞いている、さぞうんざりしていることだろう、また始まったかと思うだろう」去定は声を高めながら、まるで登がなにか云おうとしたかのように、<span type="ruby"><span type="rb">暴</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>あらしく<span type="ruby"><span type="rb">遮</span><span type="rp">（</span><span type="rt">さえぎ</span><span type="rp">）</span></span>った、「いや、なにも云うな、おまえがどう思おうと構わぬ、誰がなんと思おうと構わない、たとえこれがばかげた<span rend="sesame_dot" rendition="em">ぐち</span>であろうとも、おれは生きている限り喚きたててやる、お、――」<lb />
+　お、と云いかけて去定は急に足を停めた。そこは伝通院の<span type="ruby"><span type="rb">土塀</span><span type="rp">（</span><span type="rt">どべい</span><span type="rp">）</span></span>が終ろうとするところだったが、竹造がへんな声をあげ、土塀に沿っている溝のほうへ提灯をさし向けた。<lb />
+「なんだ」と去定が訊いた。<lb />
+　竹造は「人が倒れています」と云い、溝の中を<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>きこんだ。<lb />
+「おい」と竹造は呼びかけた、「どうした、おい、どうかしたのか」そして、もっと覗きこんであっと叫んだ、「ああ血だ、ひどい<span rend="sesame_dot" rendition="em">けが</span>をしているようですよ先生」<lb />
+「触るな」と去定が云った。<lb />
+　近よってみると、溝の中に若者が一人倒れていた。石でたたんだその溝は、幅も深さも三尺たらずで、水はないが、横に倒れこんだ男の躯は身動きもできないようであった。去定は提灯の光を寄せて男のようすを眺めた。年は二十七八にみえる、めくら縞の<span type="ruby"><span type="rb">長半纏</span><span type="rp">（</span><span type="rt">ながばんてん</span><span type="rp">）</span></span>に<span rend="sesame_dot" rendition="em">ひらぐけ</span>をしめているが、着崩れで胸も足も裸同様であり、元結が切れてさんばら髪になった頭から、顔の半面、胸まで血に染まっていた。男は荒い息をし、低く呻いていたが、去定が声をかけると、躯ぜんたいがぴくっと動き、いきなり仰向けになると、右手を胸の上で構えた。その手は九寸五分を握ってい、それが提灯の火で氷の断面のように光った。<lb />
+「おちつけ」と去定が云った、「おれは小石川養生所の医者だ、おまえはひどい<span rend="sesame_dot" rendition="em">けが</span>をしているがどうしたんだ、<span type="ruby"><span type="rb">喧嘩</span><span type="rp">（</span><span type="rt">けんか</span><span type="rp">）</span></span>か」<lb />
+　男は顔をあげた、「誰かそこらに、そこらに人はいませんか」<lb />
+「誰もいないようだ」<lb />
+「やりそくなった、ちくしょう」と男は呻いた、「もうちっとのところだったのに」<lb />
+「喧嘩だな」<lb />
+「野郎を一人殺すつもりだったんですが」と男は答えた、「向うに用心棒がいて、こっちのほうがこのざまです、済みませんが立たしてくれませんか」<lb />
+　去定が「竹造」と云い、提灯を受取った。竹造は溝の中へはいり、男の両腕へ手を入れて、そっと抱き起こした。男は辛うじて立ちあがったが、右足ががくんとなり、するどく呻きながら、崩れるように坐りこんだ。去定は提灯を登に渡し、男の側へ寄って、右の足をしばらせた。<lb />
+「<span type="ruby"><span type="rb">脛</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>の骨だな」と去定が云った、「折れてはいないようだ、たぶん<span type="ruby"><span type="rb">罅</span><span type="rp">（</span><span type="rt">ひび</span><span type="rp">）</span></span>でも入ったのだろう、竹造、おぶってやれ」<lb />
+「どうするんですか」と男が不安そうに訊いた。<lb />
+「どうするって」と去定が怒ったように云った、「おれは医者だと云ったろう」<lb />
+「しかし、あっしは」<lb />
+「竹造」と去定が云った、「おぶってやれ」<lb />
+　竹造は男を背負い、去定は大股に歩きだした。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+　男の名は<span type="ruby"><span type="rb">角三</span><span type="rp">（</span><span type="rt">かくぞう</span><span type="rp">）</span></span>といい、年は二十五。住居は小石川<span type="ruby"><span type="rb">音羽</span><span type="rp">（</span><span type="rt">おとわ</span><span type="rp">）</span></span>の五丁目、<span type="ruby"><span type="rb">藪下</span><span type="rp">（</span><span type="rt">やぶした</span><span type="rp">）</span></span>と呼ばれるところにあった。養生所へ伴れていって診ると、傷は頭に二カ所、肩から背中、腰、足などに五六カ所あって、頭だけは刃物の傷だが、ほかはみな棒かなにかで<span type="ruby"><span type="rb">撲</span><span type="rp">（</span><span type="rt">なぐ</span><span type="rp">）</span></span>られたらしく、脛の骨には罅が入っていた。<lb />
+　藪下の長屋は去定も知っていた。いまでもときどき寄っているが、角三というその男のことは知らなかった。<lb />
+「あっしは十二の年からよそへ出ていたんです」と角三は云った、「おやじは加吉といって、二年まえに死にました」<lb />
+「加吉」と去定は眼をほそめた、「――あそこは八軒長屋が三棟並んでいた、加吉というと、端の長屋で畳職人をしていたと思うが」<lb />
+「そうです、足の痛風で立ち居が不自由なくせに、おっそろしく強情なおやじでした」角三は寝返ろうとして顔をしかめ、痛みをこらえるために歯をくいしばった、「先生は、――」と彼は痛みをそらすように、わざと平気な声で訊いた、「先生は多助っていう<span rend="sesame_dot" rendition="em">としより</span>を知ってますか」<lb />
+「<span type="ruby"><span type="rb">夜鷹</span><span type="rp">（</span><span type="rt">よたか</span><span type="rp">）</span></span>そばをやっていた老人だな」<lb />
+「そうです、済みませんがあそこへ使いをやってもらいたいんですが」と角三は云った、「お<span rend="sesame_dot" rendition="em">たね</span>っていう娘に来てもらいたいんです、話さなくっちゃならないことがあるから、すぐ来てくれって云ってもらいたいんですが」<lb />
+「明日になったら呼んでやろう、今夜はこのまま眠るがいい」<lb />
+「今夜はだめですか」<lb />
+「おまえは誰かを殺そうとしたんだろう」と去定が云った、「町木戸で<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>められたとき、もし気づかれたらどうする、朝になったら使いをやるから、今夜はおとなしく寝るがいい、さもないと傷に障るぞ」<lb />
+　角三は眼をつむって云った、「わかりました、どうか朝になったらお願いします」<lb />
+　去定は登を見て立ちあがった。登は付いていてやろうかと思ったが、去定の眼つきで、その必要がないことを悟り、立ちあがってその病室を出た。去定は自分の部屋へゆこうとしていたが、登の出て来るのを見ると、「済まないが握り飯を持って来るように云ってくれ」と云った。その言葉で、急に登も空腹だったことに気づき、いそいで廊下口から賄所のほうへ出ていった。<lb />
+　<span type="ruby"><span type="rb">食堂</span><span type="rp">（</span><span type="rt">じきどう</span><span type="rp">）</span></span>は八時に閉まるので、それ以後は賄所へいくよりしかたがなかったのである。登がはいっていくと、賄所も灯が一つ残っているだけだったが、うす暗くてがらんと広い土間に、男が一人、箱のような物を作ってい、その脇にお雪が立って、それを眺めていた。登はお雪に二人前の握り飯を頼みながら、男が<span type="ruby"><span type="rb">猪之</span><span type="rp">（</span><span type="rt">いの</span><span type="rp">）</span></span>であることに気づいた。<lb />
+「猪之じゃないか」と登が呼びかけた、「ばかに精をだすな、なにをやってるんだ」<lb />
+「へえ、なにちょっとその」猪之はあいまいに口を濁した、「先生がたもこんなじぶんまでたいへんですね、外は寒いでしょう」<lb />
+「話をそらすな、なにを作ってるんだ」<lb />
+「その、<span rend="sesame_dot" rendition="em">おまる</span>の腰掛なんです」そう云いながら猪之は赤くなった。<lb />
+「<span rend="sesame_dot" rendition="em">おまる</span>の腰掛だって」<lb />
+「御存じでしょう、お<span rend="sesame_dot" rendition="em">ゆみ</span>さんていう頭のおかしな娘さん」と猪之が云った、「あの人がすっかり弱っちまって、<span rend="sesame_dot" rendition="em">おまる</span>を使うにも躯がふらふらするっていうんです、それで腰掛を<span type="ruby"><span type="rb">拵</span><span type="rp">（</span><span type="rt">こしら</span><span type="rp">）</span></span>えたら幾らからくだろうっていうもんで、ためしに作ってみているんです」<lb />
+「そうか」と登が云った、「お杉に頼まれたんだな」<lb />
+「あっしの役ですからね」と猪之はひどくいきごんだ高い声で云った、「こういう仕事をする約束でお世話になってるんですから、誰に頼まれたからするってわけのもんじゃねえ、へんなこと云わねえでおくんなさい」<lb />
+「気に障ったのか」と登は笑った、「それは悪かった、勘弁してくれ」<lb />
+「とんでもねえ、そんな」猪之はまた赤くなり、まごついたように頭を<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いた、「先生にあやまられたりしちゃあ<span rend="sesame_dot" rendition="em">ぼくめん</span>がねえ、へえ、大きな口をたたいて済みません、あっしこそ勘弁しておくんなさい」<lb />
+「お互いに礼儀は正しいわけだ」と云って、登はまた笑った、「お杉によろしく云ってくれ」<lb />
+　猪之はやけに<span type="ruby"><span type="rb">金槌</span><span type="rp">（</span><span type="rt">かなづち</span><span type="rp">）</span></span>の音をさせた。登はお雪から手提げの籠を受取り、あとから茶を持っていく、というのを聞きながら賄所を出た。<lb />
+　夜の明けるのを待って藪下へ使いがゆき、お<span rend="sesame_dot" rendition="em">たね</span>という娘を<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>れて来た。お<span rend="sesame_dot" rendition="em">たね</span>は十九という年よりふけてみえるし、気性もしっかりしているらしく、頭を<span type="ruby"><span type="rb">晒木綿</span><span type="rp">（</span><span type="rt">さらし</span><span type="rp">）</span></span>で巻かれた角三を見ても、とり乱したようすは少しもなく、去定の話すことをおちついて聞いていた。<lb />
+「十日もすれば起きられるだろう」去定は傷のもようを説明してから云った、「足のほうはようすをみないとわからない、たぶん一と月もすれば<span type="ruby"><span type="rb">治</span><span type="rp">（</span><span type="rt">なお</span><span type="rp">）</span></span>るだろうと思うが、それまでは立ち歩きをしないほうがいい」<lb />
+「うちへ伴れて帰ってはいけないでしょうか」<lb />
+「五六日はこのままのほうがいいだろう」と去定が云った、「手当をするにも都合がいいし、また、なにかまちがいがあったようだから、いま伴れ帰っては悪いのじゃあないか」<lb />
+「はい、そのことなんですが」<lb />
+「お<span rend="sesame_dot" rendition="em">たね</span>」と角三が云った、「なにかあったのか、高田屋からなにか云って来たのか」<lb />
+「ええ」とお<span rend="sesame_dot" rendition="em">たね</span>が答えた、「ゆうべおそく、<span type="ruby"><span type="rb">伊蔵</span><span type="rp">（</span><span type="rt">いぞう</span><span type="rp">）</span></span>が男たちを三人伴れて来て、水戸さまのところで若旦那を殺そうとした者がいる、この長屋の人間に違いないから出せって」<lb />
+「やっぱりそうか」<lb />
+「一軒一軒みて廻るので、あたし」とお<span rend="sesame_dot" rendition="em">たね</span>はちょっと口ごもり、それから角三の気をかねるように云った、「あたしあんたが豊島の親類へいったって云いました、豊島の奥の親類に不幸があって、今夜は泊って来る筈だって云ったんですけれど」<lb />
+「よく云った、だがやつらは信じやあしない、信じやあしなかったろう」<lb />
+「だと思うけれど、帰らなければもっとひどいことになるわ」<lb />
+「<span type="ruby"><span type="rb">威</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>したのか」<lb />
+「帰らなければあんたがやった証拠だし、長屋じゅうの共謀だって云うの」お<span rend="sesame_dot" rendition="em">たね</span>は唾をのんだ、「長屋じゅうの者を訴えるって云ってるのよ」<lb />
+「よし、おらあ長屋へ帰る」<lb />
+「まあ待て」と去定が遮った、「しだいによっては相談に乗ろう、これはいったいどういうことなんだ」<lb />
+「どうかなんにも訊かないで下さい」と角三が云った、「これ以上ご迷惑をかけたくはありませんから」<lb />
+「迷惑か迷惑でないかはおれがきめる、とにかく話すだけ話してみろ」<lb />
+「あんた」とお<span rend="sesame_dot" rendition="em">たね</span>が云った。<lb />
+　角三は横へ寝返ろうとしたが、「う」といって顔ぜんたいを<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>め、苦痛をこらえるために下唇を<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>んだ。そこへ、森半太夫が来て、入所患者の診察をする時刻だと告げた。<lb />
+「よし」と去定は頷き、立ちながら登に云った、「おまえ話を聞いておいてくれ」<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+　音羽五丁目の、藪下と呼ばれるその長屋は、三棟で二十四戸あり、二十一家族が住んでいた。家主は牛込<span type="ruby"><span type="rb">神楽坂</span><span type="rp">（</span><span type="rt">かぐらざか</span><span type="rp">）</span></span>の、高田屋松次郎という。先代は与七といって、ずっと以前にはその音羽の五丁目で、小さな質屋を営んでいた。俗に「<span type="ruby"><span type="rb">戸納質</span><span type="rp">（</span><span type="rt">とだなじち</span><span type="rp">）</span></span>」という、土蔵もないささやかな店だったが、しょうばいがうまく当って、安い売家や土地を買い<span type="ruby"><span type="rb">溜</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>めた。運もよかったのだろう、また、質屋の店をひろげずに、土地や家を買い溜めたことが、与七の性に合っていたのかもしれない。しだいに資産を積み、十五年ほどまえ、質屋をやめて神楽坂へ移り、地所と家作を専業にするようになった。<lb />
+　藪下の三棟の長屋は、与七がまだ五丁目で質屋をやっているじぶん、正確にいうと十九年まえから、<span type="ruby"><span type="rb">店子</span><span type="rp">（</span><span type="rt">たなこ</span><span type="rp">）</span></span>に無償で貸していた。店賃を取らないばかりでなく、直すところがあれば、高田屋で直し、店子には一文の負担もかけなかった。<lb />
+「しかもそれは」と角三が云った、「与七という旦那の代だけではなく、<span type="ruby"><span type="rb">伜</span><span type="rp">（</span><span type="rt">せがれ</span><span type="rp">）</span></span>の松次郎の代まで続ける約束で、差配の元助が証人だったそうです」<lb />
+「なにかわけがあったのか」<lb />
+「あったんでしょう」と角三は云った、「なにかわけがなければ、そんな約束をする筈がありませんからね」<lb />
+「理由はわからないのか」と登が訊いた。<lb />
+「わからないんです」と角三が答えた、「差配も代が替りましたし、そのじぶんのことを知っているのは、このお<span rend="sesame_dot" rendition="em">たね</span>のじいさま一人だけで、それもすっかりぼけちゃってるもんですから」<lb />
+　だが約束のことはみんな知っていた。いまの差配は助三郎といって、その<span type="ruby"><span type="rb">界隈</span><span type="rp">（</span><span type="rt">かいわい</span><span type="rp">）</span></span>にある高田屋の地所や家作の管理をしているが、死んだ父親の元助からちゃんと聞いていた。親から聞いただけでなく、与七の手で書いた店賃の帳面も残っている。元来、長屋というところは住人の出替りが多く、五六年もすればたいてい顔ぶれの変るものだが、店賃なしという珍らしい条件と、護国寺関係の仕事をする者が多かったからだろう、空家になっている三軒のほかに、人の変ったのは七軒しかなかった。――当時からすでに二十年ちかくも経つので、老人といえば多助一人になったし、その多助もぼけてしまったが、高田屋との約束は、みんなが知っていた。<lb />
+「ところが、急にそれが変ったんです」<lb />
+　その年の五月、高田屋では与七が死に、一人息子の松次郎が跡を継いだ。彼は二十三歳であるが、去年の秋に嫁を取り、男の子が一人できていた。<lb />
+「先月、いや十月の月ずえにその松次郎が来て、長屋をあけろと云いだしました」角三は続けた、「ならず者みたような男を三人伴れて来て、この長屋は<span type="ruby"><span type="rb">取毀</span><span type="rp">（</span><span type="rt">とりこわ</span><span type="rp">）</span></span>すことになったから、二十一軒ぜんぶ出ていけって云うんです」<lb />
+「約束を知らなかったのか」<lb />
+「約束は知ってると云いました、けれども証文があるわけではないし、十九年も只で住んで来た、親の代のことはおれは知らないから、そんな<span type="ruby"><span type="rb">反故</span><span type="rp">（</span><span type="rt">ほご</span><span type="rp">）</span></span>のような約束を守るわけにはいかねえって、突っぱねました」<lb />
+　登は渋い顔をした、「それはむずかしい、むずかしい話だと思うな」<lb />
+「それは、あいつの云うことにも理屈はあるでしょう、けれども、松次郎があっしたちを追い立てるのは、金に困ったとかどうしたとかいうわけじゃあねえ、ちゃんとこんたんがあるんです」と角三が云った、「――ってえのは、藪下一帯の家を取払って、そこへ新地をつくり、料理茶屋とか岡場所を集めようというもので、護国寺の役僧も承知しているようなんです」<lb />
+　ありそうなことだ、と登は思った。宗教と花街はふしぎに付いてまわる、浅草寺、<span type="ruby"><span type="rb">根津権現</span><span type="rp">（</span><span type="rt">ねづごんげん</span><span type="rp">）</span></span>、赤坂の氷川神社、芝の<span type="ruby"><span type="rb">神明</span><span type="rp">（</span><span type="rt">しんめい</span><span type="rp">）</span></span>、ちょっと数えただけでも、これらの周辺には花街がある。護国寺は元禄年間の<span type="ruby"><span type="rb">建立</span><span type="rp">（</span><span type="rt">こんりゅう</span><span type="rp">）</span></span>で、幕府から千三百石の寺領を付けられている。ひところ、なにがしとかいう将軍家の未亡人が熱心に帰依したと伝えられるが、場所が寂しいのと寺歴が新らしいのとで、それほど繁昌はしていなかった。しぜん寺僧たちの中で、近くに新地などができたら、などと思う者もあるに相違ない。たしかにそれはありそうなことだ、と登は思った。<lb />
+「そうだとするとなおむずかしいな」と登が云った、「むろん新出先生に話してみるが、十九年も只で住んで来たとすると、この辺でいっそ引越したほうがいいじゃないか」<lb />
+「へえ、それはまあ、そうです」<lb />
+「そんな面倒なことにかかわっているより、新らしい土地へ移って、さっぱりと新規<span type="ruby"><span type="rb">蒔</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>き直しにやるほうがいいと思うな」<lb />
+「たぶんそのほうがいいんでしょう」と角三は力のぬけた声で云った、「しかしあの野郎、あんまりあこぎなまねをしやがるから」<lb />
+「あんた」とお<span rend="sesame_dot" rendition="em">たね</span>が云った、「帰るんならもう帰らなければいけないわ、あたしがうちをあけてるんですもの、あんまりおそくなると<span type="ruby"><span type="rb">諜</span><span type="rp">（</span><span type="rt">しめ</span><span type="rp">）</span></span>し合わせたことを勘づかれてよ」<lb />
+「ちょっと待て」と登は立ちあがった、「とにかく先生に話してみる、先生の意見を聞いてみるから、そのままちょっと待っていてくれ」<lb />
+　登は二人を置いてそこを出た。<lb />
+　去定の診察が終るまで、少し待たなければならなかった。登は<span type="ruby"><span type="rb">食堂</span><span type="rp">（</span><span type="rt">じきどう</span><span type="rp">）</span></span>へいって茶を啜り、それから去定の部屋へいった。去定は上衣を着替えながら、登の話を黙って聞いてい、次に机へ向かって、その日の調剤を書き始めた。入所患者の一人一人に、病状と投薬を記した帳面があり、容態によって薬を変える分は、そのたびに調剤の配合を書きつけるのであった。<lb />
+「続けていい」と去定は書きながら云った、「それからどうした」<lb />
+　登は話し続けた。話が終っても、去定は黙って筆を動かしていたが、やがて最後の帳面が済むと、筆を置きながら、深く大きくまるで<span type="ruby"><span type="rb">唸</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>るような溜息をついた。<lb />
+「高田屋のほうはわかった」と云って、去定は登を見た、「だが角三のほうの事情はどうなのだ」<lb />
+　登は「それは」と云って口をつぐんだ。<lb />
+「相手を殺そうとまで思い詰めるのは尋常ではない、なにかそれだけの<span type="ruby"><span type="rb">仔細</span><span type="rp">（</span><span type="rt">しさい</span><span type="rp">）</span></span>があるのだろう」<lb />
+「それは聞きませんでした」<lb />
+「肝心なのはそこではないか」と去定はふきげんに云った、「――まあいい、向うへいってからでもおそくはないだろう」<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">四</span></span></span>
+<lb />
+　去定も角三を長屋へ帰すことにきめた。さもないと高田屋は、本当に長屋ぜんたいの者を、共謀といって訴えるかもしれない。そんな訴えを、町方で取りあげるかどうかは疑わしいが、高田屋で金を<span type="ruby"><span type="rb">撒</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>くことも考えられるし、いずれにせよ事が面倒になる。それよりも、角三は豊島郡の親類へいって来たことにし、帰り道に<span type="ruby"><span type="rb">崖</span><span type="rp">（</span><span type="rt">がけ</span><span type="rp">）</span></span>から落ちていたところを去定がみつけた。それから養生所へ運んで手当をした、ということにしよう、と云った。去定はてきぱきと手筈をきめ、よく口を合わせてから、お<span rend="sesame_dot" rendition="em">たね</span>は先に帰し、戸板の支度をして角三を乗せると、少しおくれて養生所をでかけた。去定と登、それに<span type="ruby"><span type="rb">薬籠</span><span type="rp">（</span><span type="rt">やくろう</span><span type="rp">）</span></span>を背負った竹造もいっしょで、伝通院の裏を大塚へぬけ、寺と武家の小屋敷の多い町を、音羽のほうへと向かっていった。――途中で角三が、戸板の<span type="ruby"><span type="rb">蔽</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>いの中から「忘れ物をした」と云い、去定がすぐに、あんな物は忘れてしまえと云った。登はなんのことかわからなかったが、<span type="ruby"><span type="rb">暫</span><span type="rp">（</span><span type="rt">しばら</span><span type="rp">）</span></span>くして、ゆうべ持っていた<span type="ruby"><span type="rb">匕首</span><span type="rp">（</span><span type="rt">あいくち</span><span type="rp">）</span></span>だなと気づいた。角三はそれっきりなにも云わなかった。<lb />
+　音羽五丁目の裏通りへ来ると、路地へはいるところで角三が「その左の角です」と云った。長屋のその角の家は新らしく模様変えをしたらしい、裏通りに面して入口と<span type="ruby"><span type="rb">連子</span><span type="rp">（</span><span type="rt">れんじ</span><span type="rp">）</span></span>窓があり、雨戸も戸袋もまだ新らしく、ちょっと見ると居酒屋のような作りであるが、その出入り口の雨戸には、幅五寸ばかりの板が斜十字に打ちつけてあった。<lb />
+「どこからはいる」<lb />
+「裏に勝手があります」と角三が答えた、「そっちから入れておくんなさい」<lb />
+　かれらは裏手へまわった。<lb />
+　戸板が担ぎこまれたので、たちまち人が集まって来た。去定は登を促して、勝手口をあけ、角三を移そうとした。すると、集まっている長屋の人たちを押しのけて、二人男が前へ出て来た。――一人は三十がらみで、<span type="ruby"><span type="rb">鳶</span><span type="rp">（</span><span type="rt">とび</span><span type="rp">）</span></span>の者といったふうにみえるが、他の一人はずっと若く、まだ二十二三であろう、<span type="ruby"><span type="rb">唐桟柄</span><span type="rp">（</span><span type="rt">とうざんがら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">素袷</span><span type="rp">（</span><span type="rt">すあわせ</span><span type="rp">）</span></span>に三尺を低くしめ、素足に麻裏をはいていた。色が白く、眉が濃く、<span type="ruby"><span type="rb">痩</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>せがたですっきりした<span type="ruby"><span type="rb">躯</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>つきだが、一種の気分、――それはちょうど、賢い犬ならすぐに<span type="ruby"><span type="rb">咆</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>えかかるだろうと思われるような、きみの悪い気分が、躯ぜんたいから発しているように思えた。<lb />
+「それは角三ですね」と<span type="ruby"><span type="rb">年嵩</span><span type="rp">（</span><span type="rt">としかさ</span><span type="rp">）</span></span>の男のほうが云った、「<span rend="sesame_dot" rendition="em">けが</span>をしているようだが、ちょっとみせてもらいますよ」<lb />
+「見てどうする」と去定が訊いた。<lb />
+「ゆうべまちがいがありましてね」とその男は云った、「この長屋の家主の旦那を、殺そうとしたやつがあったんで、その下手人を捜しているところなんです」<lb />
+「おまえはなんだ、町方の者か」<lb />
+「いえ、私は高田屋さんの出入りで、伊蔵てえ者です」<lb />
+「そういう下手人を捜すのは役人の仕事だろう」と去定が云った、「それともその高田屋では、十手でも預かっているのか」<lb />
+　伊蔵は黙った。<lb />
+　そのとき若いほうの男が、右手をふところへ入れながら、なにか云おうとし、去定がそれより早く、自分は養生所の新出去定という医者だ、と名のった。どうやらその名を聞けば相手がぎょっとする、とでも思ったらしい。少なくとも多少のおどろきは期待していたようだったが、若者の顔つきにはなんの変化もあらわれなかった。そこで去定の眼にほんの一瞬当ての外れたような色がみえ、登は<span type="ruby"><span type="rb">可笑</span><span type="rp">（</span><span type="rt">おか</span><span type="rp">）</span></span>しくなったが、笑うわけにもいかなかった。もちろん去定はすばやく立ち直った。<lb />
+「よく聞け」と去定は云った、「どこでどういうまちがいがあったか、おれは知らぬ、だがこの男は昨日の夕方、豊島郡中丸村の<span type="ruby"><span type="rb">鼠山</span><span type="rp">（</span><span type="rt">ねずみやま</span><span type="rp">）</span></span>で倒れていた、早道をするつもりで崖から落ち血まみれになっているところをおれがみつけた、それから養生所まで運んで手当をしたのだが、――そのまちがいというのは、いつ、どこで起こったのだ」<lb />
+「昨日の暮六つ、水戸さまの脇だ」と若者が云った。女のようにやさしいが、その声もまたきみの悪いひびきを帯びていた、「おめえ、先刻ご承知じゃあねえか」と若者は笑った、「知っているからこそ、先手を打って、豊島だの鼠山だのって、方角ちげえの場所を並べたんだろう、じいさん、そうだろう」<lb />
+「伊蔵――とか云ったな」去定はそっちを見て云った、「その高田屋の主人というのは殺されたのか、それとも<span rend="sesame_dot" rendition="em">けが</span>で済んだのか」<lb />
+「いえそれは、その、おりよく旦那のうしろに、出入りの者が三人ついていましたので」<lb />
+「<span rend="sesame_dot" rendition="em">けが</span>もしずに済んだのか」<lb />
+「三人がすぐに駆けつけたものですから」<lb />
+「乱暴者のほうはどうした」<lb />
+「つまりその、刃物を持っていたんで、危ねえもんだから叩き伏せました」<lb />
+「するとその男は<span rend="sesame_dot" rendition="em">けが</span>をしたんだな」と去定はだめを押すように云った、「高田屋は無事で、乱暴者のほうがあべこべに<span rend="sesame_dot" rendition="em">けが</span>をした、それでこの角三を怪しいというんだな」<lb />
+　若者が云った、「おい、じいさん」<lb />
+「黙れ」と去定が叫んだ、高い声ではないが、その叫びはするどく、若者を<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>んだ眼はぎらぎらと光った。<lb />
+「きさまは黙れ」と去定はすぐに声をやわらげて、伊蔵に云った、「ここをよく聞け、伊蔵、――養生所は町奉行に属し、つねに与力が詰めている、この角三はおれが現に鼠山でみつけ、養生所へ伴れ帰った者だ、その事実は与力にも届けてある、だが仮にそうでないにしても、高田屋はなにごともなかったのに、乱暴者のほうは三人がかりでやられて<span rend="sesame_dot" rendition="em">けが</span>をしたという、これが表沙汰になったらどう裁かれるか、よく考えてみろ」<lb />
+「しかしその、野郎は旦那を殺すつもりだったんで」<lb />
+「証拠があるか」<lb />
+「野郎がそう云ったって、旦那が」<lb />
+「よせ」と去定が遮った、「誰がどう云い、誰がどう聞いた、そんな井戸端の喧嘩のようなことをお<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>で取りあげると思うか、四人と一人、片方は大<span rend="sesame_dot" rendition="em">けが</span>している、殺すつもりだったというはっきりした証拠がなければ、お<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>めを受けるのは高田屋のほうだぞ」<lb />
+　それから去定は若者に一<span type="ruby"><span type="rb">瞥</span><span type="rp">（</span><span type="rt">べつ</span><span type="rp">）</span></span>をくれた。<lb />
+「ましてこんな、ならず者のような人間を使っていれば、たとえ正当な理由があってもとおりはしない、帰ってよく相談をするがいい、おれはいつでも証人になるぞ」<lb />
+　若者は伊蔵を見た。右手をふところへ入れたままで、やるか、というふうな眼つきをしたが、伊蔵は首を振った。去定は登にめくばせをし、戸板の上から角三を抱きあげると、二人で勝手口から家の中へ運び入れた。そのまえに、お<span rend="sesame_dot" rendition="em">たね</span>が人垣の中からとびだして来、先に家の中へはいって夜具を敷いた。<lb />
+「一つうかがっておきますが」と勝手口から伊蔵が云った、「その角三をよそへやるようなことはないでしょうね」<lb />
+「この男は崖から落ちたとき足の骨を折っている」と去定が家の中で答えた、「二三十日は動けないから安心しろ」<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">五</span></span></span>
+<lb />
+　伊蔵と若者が去ると、長屋の人たちがみまいに来た。火種を持って来た女房もい、お<span rend="sesame_dot" rendition="em">たね</span>が茶の支度にかかった。去定は登をそこに残し、差配の家を訊いて立ちあがった。<lb />
+「角三は眠らせなければいけない」と去定は出てゆきながら云った、「みまいが済んだらなるべく早く帰ってくれ」<lb />
+　去定にそう云われたのでみまいの人たちもまもなく帰っていった。<lb />
+「威勢のいい先生ですね」と角三が枕の上で微笑した、「とてもお医者とは思えねえ、あっしはいまにべらんめえが出やあしねえかと思ってましたよ」<lb />
+「やりかねないね」と登も苦笑した、「いざとなればやくざ者の三人や五人」<lb />
+　登はそこで口をつぐんだ。本郷<span rend="sesame_dot" rendition="em">みくみ</span>町の出来事を話そうとし、危ないところで思いとまったのであった。<lb />
+「あんた」とお<span rend="sesame_dot" rendition="em">たね</span>が脇から云った、「ついさっき<span type="ruby"><span type="rb">刷毛屋</span><span type="rp">（</span><span type="rt">はけや</span><span type="rp">）</span></span>の源さんが追い出されたのよ」<lb />
+「源さんが、どうしたって」<lb />
+「吉三郎さんのときと同じよ」とお<span rend="sesame_dot" rendition="em">たね</span>が云った、「へんな人足みたような男が三人来て、こんどおれたちがこのうちを借りたんだって、源さんたちを追い出し、家財道具も<span type="ruby"><span type="rb">抛</span><span type="rp">（</span><span type="rt">ほう</span><span type="rp">）</span></span>りだしてしまったの、いまその三人はいすわって酒を飲んでるわ」<lb />
+「源さんはどうした」<lb />
+「相手が相手ですもの、どうしようがあるもんですか、おかみさんや子供たちと与平さんのうちにいますよ」<lb />
+「どういうことだ」登が訊いた。<lb />
+「高田屋のしごとです」角三は低く唸ってから云った、「掛合いじゃあ<span type="ruby"><span type="rb">埒</span><span type="rp">（</span><span type="rt">らち</span><span type="rp">）</span></span>があかねえと思ったんでしょう、五日まえにも人足ふうの男を二人よこして、吉三郎という<span rend="sesame_dot" rendition="em">としより</span>夫婦を力ずくで追い出したんです」<lb />
+　登は圧迫を感じながら訊いた、「ここには<span type="ruby"><span type="rb">町名主</span><span type="rp">（</span><span type="rt">まちなぬし</span><span type="rp">）</span></span>か五人組はいないのか」<lb />
+「そんなものが頼りになるなら、あっしだってやけなまねはしやあしません」と角三は云った、「あいつを殺してやろうと思うまでには、できるだけの手を打ってみたんです」<lb />
+　だが、条件は全部こっちに不利だった。この土地で護国寺の役僧がうしろ<span type="ruby"><span type="rb">楯</span><span type="rp">（</span><span type="rt">だて</span><span type="rp">）</span></span>になっていれば、それだけでも理が非に勝たない。おまけに高田屋は金も遣うし、ここに「新地」ができるとすれば、五人組とか町名主などという連中も、<span type="ruby"><span type="rb">餌</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>にとびつく<span type="ruby"><span type="rb">狼</span><span type="rp">（</span><span type="rt">おおかみ</span><span type="rp">）</span></span>のようなものだ。角三は長屋の者の総代四人といっしょに、でかけていって援助を求めたが、かれらはてんで相手にならなかった。<lb />
+　――二十年ちかくも只で住んでいて、まだそんな欲の深いことを云うのか。<lb />
+　むろん只でいようというのではない、「これからは相応な店賃を払う」という相談がきまっていたのだが、そんな話には耳も<span type="ruby"><span type="rb">藉</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>さず、かれらはただ早く立退くほうがいい、と云うばかりであった。登は聞いていながら、どっちが正しいかわからなくなった。<lb />
+　――引越したらいいじゃないか。<lb />
+　どうせこれから店賃を払うつもりなら、こんなごたごたはさっぱり捨てて、よそへ移るほうが簡単ではないか。なんのためにそうねばっているのだ、意地ずくか、それとも住み馴れた家へのみれんか。登はそんなふうに、心の中で角三に問いかけた。<lb />
+　去定は半刻ほどして戻ったが、上へはあがらず、登と竹造を促して帰り支度をした。「なにも心配はない」と去定はお<span rend="sesame_dot" rendition="em">たね</span>に云った、「差配によく話しておいたから、伊蔵も乱暴なことはしないだろう、明日また誰かよこすが、短気なまねはしないように、――角三にも長屋の者にもそう云っておいてくれ」<lb />
+　音羽から外診に廻ったのだが、そのあいだ去定は、歩きながら登に仔細を語った。歩いているあいだしか話はできないから、終りまで聞くのに暇どったが、<span type="ruby"><span type="rb">却</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>って詳しいことがよくわかった。――角三とお<span rend="sesame_dot" rendition="em">たね</span>は、来月の中旬に祝言をあげる筈であり、ここまでこぎつけるのに、まる四年かかったということであった。<lb />
+　角三は二十五になる。父は加吉といって畳屋の職人だったが、ついに自分の店を持つことはできなかった。<lb />
+　角三は十二歳のとき、下谷の「<span type="ruby"><span type="rb">灘紋</span><span type="rp">（</span><span type="rt">なだもん</span><span type="rp">）</span></span>」という、料理屋の板場へ奉公にはいり、板前の腕を身につけた。好きで選んだ職ではあったが、天分がなかったというのであろう、<span rend="sesame_dot" rendition="em">はたち</span>になるまえ、「おれの腕は一流の料理屋には向かない」ということに自分で気がついた。それ以来、いっそ<span rend="sesame_dot" rendition="em">めし</span>屋をやろう、という気持になり、酒も遊びも断って金を溜めた。――板場の職人といえば道楽者が多い、環境と仕事によるのだろうが、酒と女は殆んど付き物のようであった。しかし角三は自分の腕の限度を知り、「<span rend="sesame_dot" rendition="em">めし</span>屋をやる」という<span type="ruby"><span type="rb">肚</span><span type="rp">（</span><span type="rt">はら</span><span type="rp">）</span></span>をきめたので、なかまに<span type="ruby"><span type="rb">軽蔑</span><span type="rp">（</span><span type="rt">けいべつ</span><span type="rp">）</span></span>されながら、できる限りきりつめて金を溜めた。<lb />
+　このあいだに、角三はお<span rend="sesame_dot" rendition="em">たね</span>と近づき、やがて夫婦約束をするようになった。彼女は早く両親に死なれ、祖父の多助に育てられた。多助は夜鷹そば屋をやっていて、まだ十二三のころからお<span rend="sesame_dot" rendition="em">たね</span>は、仕込みも手伝ったし、夜は祖父といっしょに稼ぎにも出た。けれどもおととしの冬、祖父の多助は軽い卒中にかかってから、急に足腰が不自由になり、頭もぼけてしまって、稼ぎに出られなくなった。それでやむなく、お<span rend="sesame_dot" rendition="em">たね</span>はかよいのできる茶屋奉公の口を捜し、二年このかた勤めて来た。<lb />
+　角三の父は、多助の倒れるまえに死んだ。母は五年まえに病死していたので、彼は一人だけになったが、それをきっかけに住込みをやめ、藪下のうちから「灘紋」へかようことにした。こうして、二人は毎日いちどは会うようになり、「<span rend="sesame_dot" rendition="em">めし</span>屋」をやることについて語りあった。長いあいだ祖父の手伝いをしていたから、<span rend="sesame_dot" rendition="em">めし</span>屋ならお<span rend="sesame_dot" rendition="em">たね</span>も役に立つだろう。<lb />
+　――石にかじりついても、きっと<span rend="sesame_dot" rendition="em">もの</span>にしましょうね。<lb />
+　お<span rend="sesame_dot" rendition="em">たね</span>は繰り返しそう云って、自分も乏しい家計の中から、僅かながら金を溜めるように努めて来た。すると今年の八月、いまの家が空いたので、差配に話したうえ、そのあとへ移った。裏通りではあるが、護国寺の参詣道に近く、また周囲には武家屋敷も多い。武家の奉公人などは案外いい客になるから、きっとしょうばいになると思った。同じ長屋に与平という大工と、小助という左官がいた。どちらも酒呑みで、手間取り程度の腕しかなかったが、その二人と相談をしておよその見積りをし、必要な材料を買って造作を直した。<lb />
+　こういう仕事は、手間取り職人などのほうが融通のきくものらしい。むろん暇をみてやるので手っ取り早いわけにはいかず、九月末になってようやく出来あがった。角三とお<span rend="sesame_dot" rendition="em">たね</span>は、このあいだに料理用の<span type="ruby"><span type="rb">庖丁</span><span type="rp">（</span><span type="rt">ほうちょう</span><span type="rp">）</span></span>類や<span type="ruby"><span type="rb">鍋</span><span type="rp">（</span><span type="rt">なべ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">釜</span><span type="rp">（</span><span type="rt">かま</span><span type="rp">）</span></span>、食器などを買い集めてい、角三は九月いっぱいで「灘紋」をやめた。――なおいろいろな準備はあったが、十月十五日に店開きをし、ともかく二人でしょうばいを始めた。正月のいそがしい時期が過ぎたら祝言をしよう、長屋の眼があるから、それまではお互いに身を固く、という約束もした。<lb />
+「それから半月経って、高田屋から立退けといって来たのだ」と去定は語った、「しょうばいはうまくすべりだし、馴染の客も付き始めていたそうだ」<lb />
+　それだけではなく、角三は十余年かかって溜めた金（その中にはお<span rend="sesame_dot" rendition="em">たね</span>の分も含まれていた）を、その店にすっかり注ぎ込んだうえ、酒屋その他の商人に借りもできていた。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">六</span></span></span>
+<lb />
+　いまそこを追い出されれば、角三は借金を背負ったうえすっ裸になってしまうし、お<span rend="sesame_dot" rendition="em">たね</span>はまた茶屋奉公にでも出なければならない。それで長屋ぜんたいが相談をし、高田屋と交渉して来た。<lb />
+「だが、保本も聞いたとおり、高田屋は承知をしない、護国寺が尻押しをしているかいないかはともかく、町役連中も土地の繁昌という<span type="ruby"><span type="rb">餌</span><span type="rp">（</span><span type="rt">えさ</span><span type="rp">）</span></span>で、高田屋のみかたに付いていることは事実だ」と去定は続けた、「――ここで、長屋の者たちにもっとも不利なことは、二十年ちかいあいだ、二十幾家族かが無賃で住んで来たという点だ、<span type="ruby"><span type="rb">公事</span><span type="rp">（</span><span type="rt">くじ</span><span type="rp">）</span></span>に持っていくまでもなく、この点だけでも世間は高田屋の側に付くだろう」<lb />
+「しかしいったい」と登が反問した、「そんなに長いあいだ、どうして店賃なしなどという約束が交わされたのでしょうか」<lb />
+「交わされたのではない、先代の高田屋与七のほうで、自発的にそう約束したのだ、おれは差配のところで店賃の帳面を見たが、それには与七の名ではっきりと、松次郎一代まで無賃と書いてあり、与七と五人の長屋総代の署名、またそれぞれの<span type="ruby"><span type="rb">拇印</span><span type="rp">（</span><span type="rt">ぼいん</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">捺</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>してあった」<lb />
+「字の書ける者がそんなにいたわけでしょうか」<lb />
+　去定は歩きながら、振向いて登を見た、「肝臓の悪い患者が、肝臓の悪いということを知らなくとも、肝臓の悪いことに変りはないだろう」<lb />
+「はあ」と登はあいまいな声を出した。<lb />
+「五人の総代が字を書けたかどうか、などということは問題ではない、店賃なし、という事実が証明しているじゃないか、――ばかなことを云う男だ」終りの言葉は独り言で、だが去定はすぐにまた本題に戻った、「おれの知りたいのは、どうしてそういう約束をしたか、ということだ、どんな理由があって、与七はそんな約束をしたのか、それがわからない限り長屋の者に勝ちみはない」<lb />
+　暫く歩いてから、登が訊いた、「その理由を知っている者はいないのですか」<lb />
+「角三が云ったとおりだ」去定は<span type="ruby"><span type="rb">苛</span><span type="rp">（</span><span type="rt">いら</span><span type="rp">）</span></span>だたしげに<span type="ruby"><span type="rb">喉</span><span type="rp">（</span><span type="rt">のど</span><span type="rp">）</span></span>を鳴らした、「総代五人のうち二人は移転し、二人死んだ、角三の親がその一人で、残っているのは多助だけだ」<lb />
+「ぼけてしまったという――」<lb />
+「おれはさっき訪ねてみた、卒中のためにぼけたのだろう、いろいろやってみたし、老人自身もけんめいに思いだそうとした、しかし、お<span rend="sesame_dot" rendition="em">くめ</span>殺し、ということしか記憶に残っていないんだ」<lb />
+　登は去定の顔を見た。<lb />
+「お<span rend="sesame_dot" rendition="em">くめ</span>殺しだ、――おれの顔を見たってなにもわかりゃしないぞ」去定は片手を意味もなく振った、「それがなにをさすのか誰にもわからない、長屋の者も手を尽して訊いたが、老人はその一と言しか覚えていないし、それがどんな意味を持つかもわからないのだ」<lb />
+「ぜんぜん関係のないことかもしれないわけですね」と云って慌てて、登は話をそらした、「それでほぼわかりました」<lb />
+「なにがほぼわかったんだ」<lb />
+「高田屋を殺そうとまで思い詰めた角三の気持です」そう答えながら、今日のおれはばからしいほど愚鈍だぞ、と登は思った、「――十幾年かの辛苦が水の<span type="ruby"><span type="rb">泡</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>となり、まぢかに迫った結婚もだめになった、しかも相手は金<span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>けが目的なんですからね、これでは<span type="ruby"><span type="rb">嚇</span><span type="rp">（</span><span type="rt">かっ</span><span type="rp">）</span></span>となるのもむりはないと思います」<lb />
+「そんなことに感心するやつがあるか、どんな理由にせよ人を殺すなどということはゆるされない、その点では角三は愚か者だ」と去定は怒りの声で云った、「眼先の事ですぐによろこんだり、絶望して身を滅ぼしたりする例は貧しい人間に多い、恒産なければ恒心なしといって、根の浅い生活をしていると、思惑の外れた場合などすぐ極端から極端にはしってしまい、結局、力のある者の腹を肥やすだけだ」<lb />
+「約束の理由さえわかれば打つ手もあるにちがいない」と去定はまた云った、「坊主どもや強欲な連中に、いかがわしい新地などをつくらせるより、一軒の<span rend="sesame_dot" rendition="em">めし</span>屋を守ってやるほうが本当だろう、だがそのためには、与七がなんのためにあんな約束をしたかという、その理由がわからなくてはだめだ」<lb />
+　暫く歩いてから、去定は空を見あげて、現実でないなにかに問いかけるように、熱のこもった声で呟いた、「いったい与七はなんの代償に、あんな約束をしたのだろう、――」<lb />
+　肝臓の悪い病人を診てそれがわからず、どこが悪いのかと、神仏に助けを求めている医者のようなあんばいですな、と登は心の中でやり返した。<lb />
+　その翌日、去定に命じられて登は角三をみまいにいった。お<span rend="sesame_dot" rendition="em">たね</span>の手を借りて、傷を洗い、<span type="ruby"><span type="rb">膏薬</span><span type="rp">（</span><span type="rt">こうやく</span><span type="rp">）</span></span>を替え、木綿を巻き直しなどしていると、一人の老人が<span type="ruby"><span type="rb">杖</span><span type="rp">（</span><span type="rt">つえ</span><span type="rp">）</span></span>を突きながら、勝手口へよたよたとはいって来、お<span rend="sesame_dot" rendition="em">たね</span>が<span type="ruby"><span type="rb">吃驚</span><span type="rp">（</span><span type="rt">びっくり</span><span type="rp">）</span></span>して声をあげた。<lb />
+「まあおじいさん、どうしたの」お<span rend="sesame_dot" rendition="em">たね</span>は立ってそっちへいった、「独りで出て来たりして危ないじゃないの」<lb />
+　それが多助であろう、登は手を洗うために<span type="ruby"><span type="rb">金盥</span><span type="rp">（</span><span type="rt">かなだらい</span><span type="rp">）</span></span>を引きよせながら、さりげなくそっちを見た。多助は孫娘に助けられながら、<span type="ruby"><span type="rb">毀</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>れた<span type="ruby"><span type="rb">木偶</span><span type="rp">（</span><span type="rt">でく</span><span type="rp">）</span></span>のような、ぎくしゃくした動作で、勝手の上げ蓋のところへ腰を掛けた。（そのとき、持っていた杖が倒れて、かたんと高い音がした）老人は痩せていて、皮膚は<span type="ruby"><span type="rb">蝋</span><span type="rp">（</span><span type="rt">ろう</span><span type="rp">）</span></span>のように白く、仮面のように無表情で、唇がだらんと垂れていた。<lb />
+「わからないわ」とお<span rend="sesame_dot" rendition="em">たね</span>がなにか訊き返していた、「なにがどうしたの」<lb />
+　角三がもの問いたげに登を見た。登は黙って首を振った。<lb />
+「どうしたんだ」と角三が高い声で呼びかけた、「じいさんがどうかしたのか」<lb />
+「ちょっと待って」とお<span rend="sesame_dot" rendition="em">たね</span>が答えた。<lb />
+　登は角三に、こんどは明後日来る、と云って立ちあがった。熱もすっかりさがったし、傷の<span type="ruby"><span type="rb">化膿</span><span type="rp">（</span><span type="rt">かのう</span><span type="rp">）</span></span>する心配もなさそうだ。明日いちど足のほうだけ膏薬を替えるがいい、そう云い残して外へ出たが、お<span rend="sesame_dot" rendition="em">たね</span>と多助の脇を通るとき、多助が涙をこぼしながら、まわらない舌でなにか云おうと努めている姿を見た。唇から<span type="ruby"><span type="rb">涎</span><span type="rp">（</span><span type="rt">よだれ</span><span type="rp">）</span></span>をたらし、片手で喉を押えて、言葉にならない言葉を絞り出しているようすは、殆んどまともには見られないほど哀れであり、むしろすさまじいという印象を与えるものであった。<lb />
+「いいわよ、うちへ帰りましょう」とお<span rend="sesame_dot" rendition="em">たね</span>が云うのを、登はうしろに聞いた、「角さんは大丈夫よ、仏壇なんて縁起でもないことを云わないで、おじいさんはうちでじっとしてればいいの、なんにも心配することなんかありゃあしないわよ」<lb />
+　登は路地から中通りへ出ていった。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">七</span></span></span>
+<lb />
+　登はそれから小石川橋へまわった。松平<span type="ruby"><span type="rb">若狭</span><span type="rp">（</span><span type="rt">わかさ</span><span type="rp">）</span></span>家で去定といっしょになる、という予定であったが、音羽のほうが早く済んだためだろう、去定の来るまで、半刻ほど待たなければならなかった。――そのあと、八カ所の外診を済ませて、養生所へ帰ったのは午後五時。いつもに比べるとわりに早いほうで、登は久方ぶりにきれいな風呂へはいり、<span type="ruby"><span type="rb">夕餉</span><span type="rp">（</span><span type="rt">ゆうげ</span><span type="rp">）</span></span>も森半太夫と<span type="ruby"><span type="rb">膳</span><span type="rp">（</span><span type="rt">ぜん</span><span type="rp">）</span></span>を並べて、ゆっくりと喰べた。食事が終って茶になったとき、半太夫がなにげない口ぶりで、津川が戻って来るよ、と云った。登にはなんのことかわからなかった。<lb />
+「保本と入れ替った男さ」と半太夫が云った、「津川<span type="ruby"><span type="rb">玄三</span><span type="rp">（</span><span type="rt">げんぞう</span><span type="rp">）</span></span>、覚えていないかね」<lb />
+　登は思いだした。<lb />
+「いやなやつだった」と登は云って、<span type="ruby"><span type="rb">訝</span><span type="rp">（</span><span type="rt">いぶか</span><span type="rp">）</span></span>しげに半太夫を見た、「――あの男が戻って来るって、……ここへか」<lb />
+「ここへさ」<lb />
+「彼は御目見医になった筈じゃないか」<lb />
+「ならなかったらしいな」と半太夫が云った、「いちどは席を与えられたが、へまをやって番を外されたということだ」<lb />
+「それでここへ戻るのか」<lb />
+「そういうことだ」半太夫は茶を<span type="ruby"><span type="rb">啜</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>って云った、「ここでも人が<span type="ruby"><span type="rb">要</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>るらしいからな」<lb />
+「ここで人が要るって」<lb />
+「ああ」と半太夫は話を変えた、「猪之とお杉が夫婦約束をしたそうだが、知っているかね」<lb />
+　登は首を振った。半太夫はそのほうへ話をもってゆき、登も興を<span type="ruby"><span type="rb">唆</span><span type="rp">（</span><span type="rt">そそ</span><span type="rp">）</span></span>られて聞いた、「ここでも人が要る」ということに、なにか意味がある、などとは思いもよらなかったのである。半太夫の話によると、狂女お<span rend="sesame_dot" rendition="em">ゆみ</span>はもう余命いくばくもない、という状態らしい。正月までもつかもたないかという病状で、もしお<span rend="sesame_dot" rendition="em">ゆみ</span>が死ぬとすれば、お杉は実家へ帰ることになるし、実家には「帰りたくない」事情があるそうで、そのとき猪之と夫婦になり、二人で世帯を持とうという相談がきまった、ということであった。<lb />
+「この養生所でこんな明るい話を聞くのは初めてだ」と半太夫は云った、「おそらく養生所はじまって以来のことだろう、おれはそう気がついて心が重くなった、――この世に生きていて、この眼で、人が仕合せになるのを見るということがいかに<span type="ruby"><span type="rb">稀</span><span type="rp">（</span><span type="rt">まれ</span><span type="rp">）</span></span>であるか、と思ってね」<lb />
+　そうだ、人が幸福にやっているのを見ることは極めて稀だ、と登は心の中で頷いた。猪之とお杉だって将来のことはわからない、夫婦になれるよろこびは短いが、生きてゆく年月は長いからな。そう思いながら、登は首を振って笑った。<lb />
+「どうもこういうところにいると」登は云った、「考えることが<span rend="sesame_dot" rendition="em">としより</span>臭くなっていけないな、いや、おれ自身のことだよ」<lb />
+　明くる日、登が去定の供をしてでかけるとき、門のところで、知らない男に呼びとめられた。いま門番に教えられたらしい、「保本先生ですか」と呼びながら近づいて来た。印半纏に股引、草履ばきで、年は二十六七。背丈は低いが<span type="ruby"><span type="rb">逞</span><span type="rp">（</span><span type="rt">たくま</span><span type="rp">）</span></span>しい躯つきで、口のまわりから両の頬まで濃い<span type="ruby"><span type="rb">無精髭</span><span type="rp">（</span><span type="rt">ぶしょうひげ</span><span type="rp">）</span></span>が伸びていた。<lb />
+「あっしは音羽から来ました」と男はしゃがれた声で云った、「角三と同じ長屋にいる、大工の与平てえ野郎です」<lb />
+　刷毛屋の源治たちを引取った男だな、と登は思った。<lb />
+「角三の容態でも変ったのか」<lb />
+「いえ、そうじゃねえんで」と与平は頭を掻いた、なにか悪いことでもみつけられたように、頭を掻きながら云った、「じつはその、ちょいとした事ができたんで、今日の七つ<span rend="sho1" style="font-size: small;">（午後四時）</span>ごろにいちど来てもれえてえと、こういうわけで伺ったんですが」<lb />
+「なにか騒ぎでもあったのか」と去定が脇から訊いた、「また高田屋か」<lb />
+「そうじゃねえ、いや、そうかな」与平はまた頭を掻き、首をひねった、「騒ぎじゃねえんだが、高田屋のことってえわけでもねえんだが、騒ぎはあるかもしれねえが、そいつは来てもらえばわかるんで、いかがでしょう」<lb />
+「七つだな」と去定が云った、「よし、その時刻までにいくと云っておけ」<lb />
+　与平は登を見た。登は「いくよ」と云って頷いた。<lb />
+　外診の供を五カ所済ましてから、去定に云われて、登は音羽へでかけていった。曇った午後で、四時まえだというのにあたりは暗く、弱い北風が肌へしみとおるほど寒かった。角三の家の勝手口で声をかけると、お<span rend="sesame_dot" rendition="em">たね</span>が出て来た。履物がごたごた並んでいるのを、登が不審そうに見たことに気づいたのだろう、長屋の人たちです、とお<span rend="sesame_dot" rendition="em">たね</span>が云った。――あがってみると、角三の寝床の横に、男たちが四人いて、登に挨拶をし、坐るところをあけた。男の一人は与平で、彼が他の三人をひき合わせた。左官の小助、魚屋の長次、<span type="ruby"><span type="rb">車力</span><span type="rp">（</span><span type="rt">しゃりき</span><span type="rp">）</span></span>の正吉。小助は与平と同じ年ごろであり、長次と正吉は三十歳前後にみえた。<lb />
+「いそがしいところを済みません」と寝たままで角三が云った、「じつは高田屋のことなんですが、十九年まえなにがあったか、ということがわかったんです」<lb />
+「わかった」と登は眼をほそめた。<lb />
+「多助じいさんが来まして、ああ、ちょうど貴方がいたときでしたね」と角三は云った、「舌がもつれるうえにのぼせあがっていて、云うことがよくわからなかった、貴方がお帰りになったあと、少しおちついてからよく聞いてみると、十九年まえの事で書いた物がある筈だって云うんです」<lb />
+　初めはしきりに「仏壇」ということを繰り返していたが、やがて、高田屋との約束の件を書いた物がある、それには自分のほかに四人の総代の名と拇印が押してあり、亡くなった加吉が預かっていた、と話しだした。<lb />
+　――おれは初耳だぜ。<lb />
+　角三は父からなにも聞いていなかった。そうかもしれない、と多助が云った。おまえは奉公ちゅうで、加吉さんの死に目に会えなかった。おまえさんが駆けつけて来るまえに、加吉さんがそのことをおれに話したんだ。<lb />
+　――そんなこともねえだろうが、もし長屋のことでいざござが起こったら、仏壇の<span type="ruby"><span type="rb">位牌</span><span type="rp">（</span><span type="rt">いはい</span><span type="rp">）</span></span>のうしろをみてくれ、そこにあのとき書いた物があるから。<lb />
+　多助はそう聞いたが、そのまま忘れていた。そこへこんどの騒ぎで、「お<span rend="sesame_dot" rendition="em">くめ</span>殺し」ということが頭にうかび、それがどんな事だったかを考えているうちに、昨日ようやく思いだした、ということであった。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">八</span></span></span>
+<lb />
+「それが、あったのか」と登が<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>いた。<lb />
+「ありました」と云って、角三は枕の下から平たく巻いた書き物を出して、「じいさんの云うとおり、位牌のうしろにこれが隠してありました」<lb />
+「理由が書いてあるんだな」<lb />
+「詳しく書いて、総代五人の拇印が押してあります、いや待って下さい」角三はその書き物を長次に渡しながら云った、「これに書いてあることはあとで話します、いま云うとまずいことになるかもしれないんで、というのは、これからあっしたちのする事を、貴方はたぶんとめようとなさるだろうと思うんです」<lb />
+　登は角三の顔を見まもった、「それならどうして、私をここへ呼んだんだ」<lb />
+「証人になってもらいたいんです」<lb />
+「なんの証人だ」<lb />
+「そいつはあとでわかりまさあ」と与平が云った、「相手さえ来りゃあすぐに始めるし、もうそろそろ来るじぶんなんだから」<lb />
+「誰が来るんだ」<lb />
+「高田屋でさあ」と云って与平は角三を見た、「いけなかったかい」<lb />
+「松次郎を呼んだんです」と角三が登に云った、「長屋を只で貸すという、約束の証拠がみつかった、それを見せるから来てくれといいましてね、来るという返辞でした」<lb />
+「それで、どうして証人が必要なんだ」<lb />
+「この人も<span type="ruby"><span type="rb">諄</span><span type="rp">（</span><span type="rt">くど</span><span type="rp">）</span></span>いね」と左官の小助が云った。<lb />
+「よけえなことを云うな」と角三が遮った、「おめえは自分の役目を心得てりゃあいいんだ、長さんも大丈夫だろうな」<lb />
+「<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>を持ってゆくか」と長次が与平に振向いた、「今日は早く<span type="ruby"><span type="rb">昏</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>れるらしいから、読むのにあかりが要ると思うんだが」<lb />
+「おれがあとから持っていこう」と車力の正吉が云った、「呼んでくれればすぐに駆けつける、それでいいだろう」<lb />
+　登は黙った。かれらがなにをしようというのか、自分がどういうことの証人になるのか、まるで見当もつかないが、かれらは話す気はないらしいし、事はまもなく始まるようだから、黙って見ているよりしかたがあるまいと思った。――お<span rend="sesame_dot" rendition="em">たね</span>が登に茶を<span type="ruby"><span type="rb">淹</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>れて来、正吉が立ちあがった。おれはうちへ帰って、提灯の支度をしておこう、みんなが通ったら原っぱの下までいって隠れてるぜ、と正吉は云いおいて出ていった。<lb />
+　高田屋松次郎は四時ちょっと過ぎに来た。このあいだの伊蔵と、べつの若者が二人ついており、松次郎と伊蔵だけがあがった。角三が話しているあいだに、登は松次郎を横からよく眺めた。二十三歳だと聞いたが、三つ四つはふけてみえる。中肉中背で、どこにこれという特徴もなく、ただその眼つきや、ものの云いぶりなどに、あまやかされて育った人間の、権高な、こわいもの知らずといった感じが、露骨にあらわれていた。<lb />
+「それは<span type="ruby"><span type="rb">慥</span><span type="rp">（</span><span type="rt">たし</span><span type="rp">）</span></span>かなんだね」と松次郎が問い返した、「よもや作りごとじゃあないだろうね」<lb />
+「ごらんになればわかります」と角三が答えた、「あっしたちみてえな頭のちょろい人間に、高田屋さんほどのきれ者を<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>せるわけがねえ、それほどの脳天気でもねえし、こちらに小石川養生所の保本先生がいらっしゃる、先生が証人になって下さるんだから、ともかく証拠を見てもらおうじゃありませんか」<lb />
+　松次郎は振向いて登を見た。<lb />
+「保本登だ」と登は云った。<lb />
+「高田屋の松次郎です」と云って、松次郎は登の服装をじろじろ見た、「その着物は知っています、たしか養生所の先生がたの、お仕着でしたね」<lb />
+　お仕着という言葉に一種の調子があった。明らかに軽侮の口ぶりであるが、登は微笑しただけであった。<lb />
+「長次と小助が御案内します」と角三が云った、「保本先生もいって下さるそうですから、どうぞごらんになって来て下さい」<lb />
+「どこにあるんだ」<lb />
+「崖下の空地です」と角三が云った、「但し、どうか供の人は残して、旦那お一人でいらしって下さい」<lb />
+「どうして供はいけないんだ」<lb />
+「旦那の恥になるらしい」と角三は穏やかに云った、「亡くなった旦那もそれが心配で、誰にも知れねえようにしておきなすった、それであっし達も今日までわからずにいたわけですから、どうかお一人でいっておくんなさい」<lb />
+　松次郎はちょっとためらい、伊蔵が「若旦那」と<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>いた。それが却って、松次郎の自負心を<span type="ruby"><span type="rb">刺戟</span><span type="rp">（</span><span type="rt">しげき</span><span type="rp">）</span></span>したらしい、彼は伊蔵に首を振ってみせた。<lb />
+「いいだろう」と松次郎はおうように頷いた、「私の恥になることかどうか見てみよう、<span rend="sesame_dot" rendition="em">やすだ</span>先生もいらっしゃるんでしょうね」<lb />
+　登は黙ってい、角三が「<span type="ruby"><span type="rb">保本</span><span type="rp">（</span><span type="rt">やすもと</span><span type="rp">）</span></span>先生だ」と訂正した。<lb />
+「それは失礼」と松次郎は登に気取った会釈をし、伊蔵に云った、「おまえは<span type="ruby"><span type="rb">辰</span><span type="rp">（</span><span type="rt">たつ</span><span type="rp">）</span></span>と銀を呼んで、ここで待っていておくれ、いいよ、一人で大丈夫、私も高田屋の松次郎だよ」<lb />
+　登は立って、先に勝手口から出た。<lb />
+「私も高田屋の松次郎、か」と登は路地へ出てから<span type="ruby"><span type="rb">呟</span><span type="rp">（</span><span type="rt">つぶや</span><span type="rp">）</span></span>いた、「さぞ高田屋の松次郎だろうさ」<lb />
+　すぐに与平が出て来、続いて松次郎、長次、小助と出て来た。長次は「こちらへ」と云って、路地を奥のほうへと歩きだし、登と他の三人はそのあとからついていった。あたりはもう濃い<span type="ruby"><span type="rb">黄昏</span><span type="rp">（</span><span type="rt">たそがれ</span><span type="rp">）</span></span>に包まれており、長屋のそこ<span type="ruby"><span type="rb">此処</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">炊</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>ぎの火が見え、煙が巻いている中を、子供たちがやかましく騒ぎながら、どぶ板を鳴らして走りまわっていた。<lb />
+　長屋を出はずれると、一段高くなって空地がある。その向うは崖で、崖の上には武家屋敷があるのだが、下からは見えなかった。およそ五百坪くらいあるその空地は、人間の胸ほども高い枯草に<span type="ruby"><span type="rb">掩</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>われてい、片方によって二本、ひねこびた枝ぶりの松が、<span type="ruby"><span type="rb">哀</span><span type="rp">（</span><span type="rt">かな</span><span type="rp">）</span></span>しげにしょんぼり立っていた。長次はその松の木のほうへ近より、あたりを見まわしながら「この辺です」と松次郎に云った。<lb />
+「この辺って」と松次郎が訊いた、「なにがこの辺なんだ」<lb />
+「証拠のある場所です」と長次が云った、「ちょっとこっちへ来てみて下さい」<lb />
+　松次郎は登を見た。登は片手で「どうぞ」というふうに<span type="ruby"><span type="rb">一揖</span><span type="rp">（</span><span type="rt">いちゆう</span><span type="rp">）</span></span>した。松次郎は明らかに不安そうで、そのために却って虚勢を張り、長次のほうへ近よっていった。<lb />
+「もう少しうしろだな」と長次は松の木と崖とを見比べながら云った、「済みませんがもうちょっとうしろへいって下さい」<lb />
+　松次郎はうしろへさがった。<lb />
+「もうちょっと」と云って、長次は地面へしゃがみこんだ、「そう、もう少しですね」<lb />
+　松次郎はうしろへ二歩さがった。すると、彼の足がなにかを踏み外し、彼は両手を宙におよがせながら、すぽっと、枯草の中へその姿を消した。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">九</span></span></span>
+<lb />
+　濃い黄昏の光の中で起こったその出来事がなにを意味するか、あまりに突然で、登にはちょっとわからなかった。両手を振りながら枯草の中へ姿を消してゆくとき、松次郎は大きな声で叫び、その声が地面の下へ、尾をひきながら落ちてゆくのを、あっけにとられたまま登は聞いた。<lb />
+「あれがじいさんの云うお<span rend="sesame_dot" rendition="em">くめ</span>殺しなんでさ」と与平が云った、「本当はそんな名めえなんぞありゃあしねえ、ただの古井戸なんで、深さが二丈九尺、水のねえ空井戸なんだが、昨日しらべましてね、毒気のねえこともわかったんだが、ずっと昔ってえだけで、いつのことかわからねえが、お<span rend="sesame_dot" rendition="em">くめ</span>ってえ女の子がおっこちて死んだことがある、古い人はそいつを知っていて、お<span rend="sesame_dot" rendition="em">くめ</span>の井戸と云ってたらしい、石の蓋をして<span type="ruby"><span type="rb">柵</span><span type="rp">（</span><span type="rt">さく</span><span type="rp">）</span></span>を結って、子供たちも決して近よらなかったんだが」<lb />
+「与平を黙らせろ」と長次が云った、「おい正公、いるか」<lb />
+　正吉が提灯を持ってこっちへ来た。うまくいったか。うん、<span rend="sesame_dot" rendition="em">めど</span>へぴたりだ、と長次が云った。それ、中で喚いてるぜ、ほんとだ、野郎さぞ肝をつぶしたこったろう。灯を見せてくれ、と長次が云った。登は黙って、かれらのすることを眺めていた。<lb />
+「あんたは証人だ」と長次が登に云った、「こっちへ来て、これからあっしが野郎に云うことを聞いておくんなさい」<lb />
+　登は頷いた。空はまだ明るいが、崖下になっているその空地はすっかり<span type="ruby"><span type="rb">昏</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>れていた。やや強くなった風に揺られて、枯草がそよぎ、提灯の光が、五人の男たちの姿を、片明りに映しだしていた。長次はそろそろと井戸の<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>へ進みよった。それは枯草に掩われた穴というだけで、いま松次郎が落ちたところだけ、僅かに土の崩れた跡が見えるが、井戸だという形はなにも残っていなかった。<lb />
+「おい、高田屋」と長次がどなった、「どこかけがでもしたか」<lb />
+　底のほうで喚く声がしたが、がんがんと空洞に反響するばかりで、言葉はまったく聞きとれなかった。<lb />
+「それだけ元気な声が出せるんなら大丈夫だろう、よく聞け」と長次が云って、ふところからさっきの書き物を取り出した、「これからわけを話してやるからな、おい、よく聞くんだぞ高田屋」<lb />
+「耳の穴をかっぽじれってんだ」与平が云った。<lb />
+「おめえは新らしいことを云うよ」と小助がやじった。<lb />
+「黙ってろ」と長次は制止し、井戸の中へ向かって、書き物を読みながら云った、「いいか、よく聞いてろよ、高田屋、――これはな、昔ここにあった武家屋敷の空井戸なんだ」<lb />
+　長次はそこで、与平が登に話したことを、もっと詳しく語ったが、女の子の年は六つ、井戸を<span type="ruby"><span type="rb">塞</span><span type="rp">（</span><span type="rt">ふさ</span><span type="rp">）</span></span>いだのは木の蓋であった。<lb />
+「いまから十九年まえの十月、日にちは十五日、おめえは四つの年だったが、この井戸へ落ちたんだ、いいか」と長次は続けた、「おめえは一粒種で、親御さんにとってはなんにも替えがたい大事な子だった、近所<span type="ruby"><span type="rb">合壁</span><span type="rp">（</span><span type="rt">がっぺき</span><span type="rp">）</span></span>の騒ぎになり、人を雇ってまで捜した、むろんこの井戸へも見に来たろうが、どうしてもわからねえ、神隠しか人さらいか、占ってもらったり<span type="ruby"><span type="rb">加持祈祷</span><span type="rp">（</span><span type="rt">かじきとう</span><span type="rp">）</span></span>もやった、それでも行方がわからねえ、おめえのおふくろさんは気おちがして病気みたようになるし、おやじさんもすっかり<span type="ruby"><span type="rb">諦</span><span type="rp">（</span><span type="rt">あきら</span><span type="rp">）</span></span>めちまった、人にさらわれて遠国へいったか、死んじまったもんだと諦めた、ところが四日めに、この長屋の者がおめえをみつけたんだ、そうでもねえ念のためだといって、綱を着けて中へおりてみた、するとおめえはその井戸の底、――いまおめえのいるそこに倒れていた、助け出して医者に診せたが、医者はだめかもしれねえと云ったそうだ」<lb />
+　井戸の中はひっそりとして、なんの音も聞えず、長次の声の反響するのが、あたりの静かさを際立てるようであった。<lb />
+「だがおめえは助かった」と長次は続けていた、「親御さんがどんなによろこんだかわかるだろう、この恩は<span type="ruby"><span type="rb">子孫</span><span type="rp">（</span><span type="rt">こまご</span><span type="rp">）</span></span>の代まで忘れないと云って、長屋三棟、二十四戸の店賃を、おめえの代まで只にする、という約定ができたんだ、但し、旦那はこのことをないしょにしてくれと云った、おめえは四歳で、少し経てば忘れるだろう、こんないやな事があったということは、二度とおめえに知らせたくない、決して店賃の代りというわけではないが、どうかこの約束だけは守ってくれ。――親の慈悲だぜ、そう思わねえか高田屋、――長屋の者は約束を守った、そのために今日までどうして無賃で貸されたのかわからなかったんだ」<lb />
+　長次はそこで、角三の家の仏壇から、総代連署の書き物が出たことを語った。<lb />
+「これでわかったろう」と長次は云った、「おめえは先代の約定を<span type="ruby"><span type="rb">反故</span><span type="rp">（</span><span type="rt">ほご</span><span type="rp">）</span></span>にしようという、おれたちがこれからは店賃を払う、と云ったがきかなかった、それならこっちもこっちだ、おめえは十九年まえそこで死にかかっていた、現におめえのいるその場所だ、そこが、見せると云った証拠の場所なんだ、わかったか」<lb />
+　井戸の底から喚き声が聞えて来た。反響がひどいうえに、恐怖のため声がうわずっているので、言葉はやはり聞きとれなかった。<lb />
+「おい、そうどなるな」と長次が云った、「どなったり<span rend="sesame_dot" rendition="em">あばれ</span>たりすると、それだけ早く精が尽きちまうぜ、それにここは忘れられた場所だ、おれたちでさえ、書いた物が出るまえには知らなかった、いくら喚こうと叫ぼうと、こんりんざい人の来る<span type="ruby"><span type="rb">気遣</span><span type="rp">（</span><span type="rt">きづけ</span><span type="rp">）</span></span>えはねえ、へたに<span rend="sesame_dot" rendition="em">あばれ</span>るより、おちついてよく考げえてみるんだ、四つのときそこで、死にかかっていたってえことをな、――あばよ」<lb />
+　長次が手を振ると、与平たち三人が、向うから石の蓋を運んで来、三人がかりで、やっと井戸の口を塞いだ。<lb />
+「先生に話さなかったわけがわかるでしょう」と長次が登に云った、「こうするんだと聞けば、先生はきっと反対なすったでしょうからね」<lb />
+「どうだかな」と登は微笑した。<lb />
+「あっしたちのような人間でも、このくらいのはらいせはしたかった、これで野郎も幾らかこたえるでしょう」と長次が云った、「さて、角三も待ちかねてるだろうし、帰ってこの書き物を読んでもらいましょうかね」<lb />
+「しかし、まさかあのまま」と登が訊いた、「高田屋をあのままにして置くつもりじゃあないだろうな」<lb />
+「まあね」と長次があいまいに云った。<lb />
+　五人は長屋へ戻った。伊蔵には「旦那はもう牛込へ帰った」と告げ、角三の家へあがって始終を話した。登は書き物を読み、そこに長次の云ったとおりのことが、詳しく書いてあるのを慥かめた。<lb />
+「私は口出しをしないが」と登が云った、「とにかく証人になったんだから、高田屋にもしものことがあると」<lb />
+「ええ、わかっています」と角三が遮った、「先生に迷惑のかかるようなことは致しません、いずれ事が決着したらお知らせにあがりますから、どうか心配しないでいておくんなさい」<lb />
+　登はまもなく別れを告げた。<lb />
+　それから一日おきに角三の手当をしにかよったが、角三はなにも云わなかった。そうして五日めになったとき、初めて「事がうまくおさまった」ということを角三が話した。<lb />
+「ゆうべ井戸から揚げたんですよ」とお<span rend="sesame_dot" rendition="em">たね</span>が云った、「あたしたちみんな、これまでどおりここにいられるんですって」<lb />
+「仕返しの心配はないのか」<lb />
+「<span type="ruby"><span type="rb">芯</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>からこたえたようです」と角三が云った、「あの書き物へ自分から進んで、名まえを書き爪印を捺しました、まったく、芯そここたえたようすでしたよ」<lb />
+「あの井戸の底ではな」<lb />
+「あっし共は店賃を払うつもりです、い、いてえ」<span type="ruby"><span type="rb">膏薬</span><span type="rp">（</span><span type="rt">こうやく</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>がすのが痛かったらしく、角三は顔をしかめて<span type="ruby"><span type="rb">唸</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>った、<lb />
+「――お手やわらかに頼みますよ先生」<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

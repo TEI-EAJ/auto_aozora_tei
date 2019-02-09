@@ -1,0 +1,1028 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>俳句の作りよう</title>
+        <author>高浜虚子</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2013-07-04">作成</resp><resp /><note>
+<lb />
+底本：「俳句の作りよう」角川ソフィア文庫、角川書店<lb />
+　　　2009（平成21）年7月25日初版発行<lb />
+底本の親本：「俳句の作りやう」実業之日本社<lb />
+　　　1952（昭和27）年4月10日改版初版発行<lb />
+初出：「ホトトギス」<lb />
+　　　1913（大正2）年11月〜<lb />
+※「佛座草」と「仏座草」の混在は底本通りです。<lb />
+入力：kompass<lb />
+校正：仙酔ゑびす<lb />
+<date when="2013-07-04">2013年7月4日</date>作成<lb />
+<date when="2016-07-01">2016年7月1日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>kompass</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>仙酔ゑびす</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>俳句の作りよう</title><author>高浜虚子</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+かつてある人の言葉に「虚子の俳話は俗談平話のうちに<span type="ruby"><span type="rb">俳諧</span><span type="rp">（</span><span type="rt">はいかい</span><span type="rp">）</span></span>の大乗を説くものなり」とあったことは我が意を得た言である。近時は平易にいってすむことを高遠めかしく説くことが流行である。私はそれに<span type="ruby"><span type="rb">与</span><span type="rp">（</span><span type="rt">くみ</span><span type="rp">）</span></span>しない。<lb />
+大徳智識の法話に「仮名法語」なるものがある。婦女老幼にも判るようにと仏の大道を仮名交じりの俗談平話に説くのである。読者この書をもって俳諧の仮名法語として見られよ。<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（ホトトギス大正二年十一月号以下掲載・虚子講述）</span>
+<lb />
+<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">一　まず十七字を並べること</span></span></span>
+<lb />
+<lb />
+　俳句を作ってみたいという考えがありながら、さてどういうふうにして手をつけ始めたらいいのか判らぬためについにその機会無しに過ぎる人がよほどあるようであります。私はそういうことを話す人にはいつも、<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="futoji">何でもいいから十七字を並べてごらんなさい。</span></span>
+とお答えするのであります。<lb />
+　中にはまた、俳句を作るがために参考書も二、三冊読んでみたし、句集も一、二冊読んでみたが、どうもまだどうして作ったらいいのか判らぬという人があります。そういう人には私は、<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="futoji">どうでもいいからとにかく十七字を並べてごらんなさい。</span></span>
+とおすすめするのであります。何でもかまわん十七字を二、三句並べてみて、その添削を他に請うということが、俳句を作る第一歩であります。謡を習うのでも三味線を弾くのでもまず<span rend="futoji">皮切</span>をするということがその芸術に足を踏み入れる第一歩でありますが、実際はこの皮切がおっくうなために、句作の機会を<span type="ruby"><span type="rb">見出</span><span type="rp">（</span><span type="rt">みいだ</span><span type="rp">）</span></span>しかねておる人が多いようであります。<lb />
+　とにかく十七字を並べてみるに限ります。けれども十七字を並べるというだけでは、漠然として<span type="ruby"><span type="rb">拠</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>り所がないかもしれません。それで私はとりあえずこうおすすめします。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+「や」「かな」「けり」のうち一つを使ってごらんなさい、そうして左に一例として列記する四季のもののうち、どれか一つを詠んでごらんなさい。<lb />
+</span><span rend="jisage_3" rendition="div" style="margin-left: 3em">
+元日　門松　萬歳　カルタ　松の内　紅梅　春雨　彼岸　春の山　猫の恋　<span type="ruby"><span type="rb">時鳥</span><span type="rp">（</span><span type="rt">ほととぎす</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ぼたん</span><span type="rp">）</span></span>　清水　五月雨　富士<span type="ruby"><span type="rb">詣</span><span type="rp">（</span><span type="rt">もうで</span><span type="rp">）</span></span>　七夕　秋風　目白　<span type="ruby"><span type="rb">椎</span><span type="rp">（</span><span type="rt">しい</span><span type="rp">）</span></span>の実　秋の暮　<span type="ruby"><span type="rb">時雨</span><span type="rp">（</span><span type="rt">しぐれ</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">掛乞</span><span type="rp">（</span><span type="rt">かけごい</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">牡蠣</span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span>　枯尾花　鐘<span type="ruby"><span type="rb">冴</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>ゆる<lb />
+</span>
+<lb />
+　こう言ってもまだ諸君は、どんなふうに十七字にするのかちょっと見当がつかないのに困るかもしれません。そこで私は無造作にこれを十七字にするお手本をお見せしましょう。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+元日やこの秋にある<span type="ruby"><span type="rb">大嘗会</span><span type="rp">（</span><span type="rt">だいじょうえ</span><span type="rp">）</span></span><lb />
+</span>
+<lb />
+　これは大正三年の元日の心持で、三年の秋には大正天皇の御即位式がある、その<span type="ruby"><span type="rb">目出度</span><span type="rp">（</span><span type="rt">めでた</span><span type="rp">）</span></span>い年だということを元日に特に思い浮かべたのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+門松を<span type="ruby"><span type="rb">三十日</span><span type="rp">（</span><span type="rt">みそか</span><span type="rp">）</span></span>の夜に立てしかな<lb />
+</span>
+<lb />
+　これはよく私の家で経験することであります。何事も遅れがちの私の家では、正月の設けというものも、とかく大三十日の晩ぐらいにするのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+萬歳の鼓もうたで帰りけり<lb />
+</span>
+<lb />
+　萬歳は門にはいって来るといきなり鼓を打つのが癖でありますが、それが鼓を打たずに帰って行ったという、ある特別な事実を句にしたのであります。私の家ではかつて二匹も犬がいてよく<span type="ruby"><span type="rb">吠</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>えたものですから、萬歳はいつもほうほうの体で帰りました。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+下の句を読んで取る国のカルタかな<lb />
+</span>
+<lb />
+　私の故郷の松山では下の句を読んで下の句を取ります。国というのは故国の意味であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+松の内をはや舟に在りて浮びけり<lb />
+</span>
+<lb />
+　私は来年は三ヶ日をすませてからちょっと松山に帰国しようと思っています。松の内は瀬戸内海に浮ぶわけであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+紅梅や<span type="ruby"><span type="rb">西御門</span><span type="rp">（</span><span type="rt">にしみかど</span><span type="rp">）</span></span>なる尼が宿<lb />
+</span>
+<lb />
+　<span type="ruby"><span type="rb">鎌倉</span><span type="rp">（</span><span type="rt">かまくら</span><span type="rp">）</span></span>の西御門には紀州の<span type="ruby"><span type="rb">附家老</span><span type="rp">（</span><span type="rt">つけがろう</span><span type="rp">）</span></span>であった水野家の<span type="ruby"><span type="rb">菩提</span><span type="rp">（</span><span type="rt">ぼだい</span><span type="rp">）</span></span>寺（尼寺）の<span type="ruby"><span type="rb">高松寺</span><span type="rp">（</span><span type="rt">こうしょうじ</span><span type="rp">）</span></span>があります。そこには白梅も紅梅もあります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+春雨を吸ひ込む砂や浜屋敷<lb />
+</span>
+<lb />
+　春雨に限らずいかなる大雨でも海岸近い砂地はぐんぐんと吸い込みます。今の私の家は水がたまって困るというようなことはありません。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+頂の大きな松や春の山<lb />
+</span>
+<lb />
+　鎌倉の源氏山の頂には大きな松が二本あります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+一匹は見えで鳴きけり猫の恋<lb />
+</span>
+<lb />
+　一匹はちゃんと見えているが他の一匹は何処にいるか判らぬ。しかし鳴いているのはたしかに二匹であることを知っている場合であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+時鳥鳴くといふ森の高さかな<lb />
+</span>
+<lb />
+　この森で時鳥が鳴くと人に話されて見上げた場合であります。鎌倉でも<span type="ruby"><span type="rb">八幡</span><span type="rp">（</span><span type="rt">はちまん</span><span type="rp">）</span></span>の森ではよく時鳥が鳴くそうであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+潮風を恐るゝ庭の牡丹かな<lb />
+</span>
+<lb />
+　これも鎌倉の実情であります。潮風さえ来ねば菊でも牡丹でも鎌倉はよくできます。一度潮風の激しいのが来たら最後すっかり駄目になってしまいます。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span type="ruby"><span type="rb">梶棒</span><span type="rp">（</span><span type="rt">かじぼう</span><span type="rp">）</span></span>を下ろして飲みし清水かな<lb />
+</span>
+<lb />
+　かつて<span type="ruby"><span type="rb">藤沢</span><span type="rp">（</span><span type="rt">ふじさわ</span><span type="rp">）</span></span>から車で帰った時であります。大仏の表の方に湧いている清水を、車夫はちょっと梶棒を下ろしてうまそうに飲みました。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+床の間の古き<span type="ruby"><span type="rb">壺</span><span type="rp">（</span><span type="rt">つぼ</span><span type="rp">）</span></span>やな五月雨<lb />
+</span>
+<lb />
+　私は古い大きな壺を一つ床の間の隅に置いています。いつも置いているのでありますが、その素焼のよごれた壺は、五月雨の降る暗い日などことに心に<span type="ruby"><span type="rb">入</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>みて眺められます。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+富士詣一度せしといふ事が<span type="ruby"><span type="rb">安堵</span><span type="rp">（</span><span type="rt">あんど</span><span type="rp">）</span></span>かな<lb />
+</span>
+<lb />
+　これは信心のためというのではありません。ただ人のよくする富士詣ということを自分も十余年前に一度したことがあるということが、ひとつの安心であるというのであります。もし一度も登っていないと、人から富士詣の話を聞くたびにきっと<span type="ruby"><span type="rb">厭迫</span><span type="rp">（</span><span type="rt">えんはく</span><span type="rp">）</span></span>を感じるに相違ありません。ひとり富士詣に限らず、たいがいのことは一度やってみると案外なものでありますが、一度もやらない間はなんだかそのことが大層なことのように考えられて、不安で、いつもその話が出るたびに一種の厭迫を感じるものであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+七夕の悪しき色紙に俳句かな<lb />
+</span>
+<lb />
+　七夕の色紙は年々悪くなるようです、<span type="ruby"><span type="rb">藁紙</span><span type="rp">（</span><span type="rt">わらがみ</span><span type="rp">）</span></span>のそまつなのを見るといつも七夕というもののなつかしい感じまでが壊されそうになります。けれどもそれを忍んで俳句などを<span type="ruby"><span type="rb">認</span><span type="rp">（</span><span type="rt">したた</span><span type="rp">）</span></span>めるところに<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>しい満足があります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+淋しさや引越せし家の秋の風<lb />
+</span>
+<lb />
+　転宅のしたてはどことなく家になじみが薄く落着かぬ心持のするものであります。同じ秋風でも吹き場所によって感じが違うのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+庭の木に来しは目白や浜日和<lb />
+</span>
+<lb />
+　海岸の庭にも時々<span type="ruby"><span type="rb">色鳥</span><span type="rp">（</span><span type="rt">いろどり</span><span type="rp">）</span></span>が来ます。色鳥というのは秋になると渡って来る毛色の美しい多くの小鳥のことであります。目白もその一つであります。山がかったところほどたくさんは来ませんが、天気のよい時など珍しく庭の木立に見出すことがあります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span type="ruby"><span type="rb">椎</span><span type="rp">（</span><span type="rt">しい</span><span type="rp">）</span></span>の実を<span type="ruby"><span type="rb">銀杏</span><span type="rp">（</span><span type="rt">いちょう</span><span type="rp">）</span></span>間近く拾ひけり<lb />
+</span>
+<lb />
+　椎の木と銀杏の木と並んであるようなところで椎の実を拾った時の句と想像してください。これは神社の境内などで見るところで、その銀杏の落葉も黄色くその辺に散らばっていることは、自然に連想されることと思います。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+独り謡ふ謡淋しや秋の暮<lb />
+</span>
+<lb />
+　謡は独り謡うのは面白いものではありません。しかしいつもこちらの勝手な時に相手を<span type="ruby"><span type="rb">見出</span><span type="rp">（</span><span type="rt">みいだ</span><span type="rp">）</span></span>し得るものではありませんから、やむを得ず独り謡うこともあります。そういうときはことに気乗がせず、秋の日暮の物淋しさが格別に感じられます。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+五六匹の犬庭に来し時雨かな<lb />
+</span>
+<lb />
+　時雨の降る頃の庭に、交尾期の犬が五、六匹もぞろぞろと来ることがあります。私はそういう犬を見るたびに哀れを覚えます。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span type="ruby"><span type="rb">掛乞</span><span type="rp">（</span><span type="rt">かけごい</span><span type="rp">）</span></span>の来てしまひたる三時かな<lb />
+</span>
+<lb />
+　田舎の簡易な生活は掛乞の来るのさえ簡単です。東京の下町などで見るような、夜の十二時を過ぎてもなお<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>の火の出入りするような光景は、淋しい鎌倉の町などでは見ることはできません。午後三時ごろにはもうたいがいな掛乞は来てしまう年もあります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+牡蠣船や道頓堀をもどり足<lb />
+</span>
+<lb />
+　<span type="ruby"><span type="rb">道頓堀</span><span type="rp">（</span><span type="rt">どうとんぼり</span><span type="rp">）</span></span>に芝居などを見に行ったその帰り<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>に、ちょっと牡蠣船にはいって一杯やるようなことを想像したのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+満潮や<span type="ruby"><span type="rb">枯蘆</span><span type="rp">（</span><span type="rt">かれあし</span><span type="rp">）</span></span>交り枯尾花<lb />
+</span>
+<lb />
+　<span type="ruby"><span type="rb">滑川</span><span type="rp">（</span><span type="rt">なめりがわ</span><span type="rp">）</span></span>などにも見る光景であります。冬になると岸に生えている<span type="ruby"><span type="rb">芒</span><span type="rp">（</span><span type="rt">すすき</span><span type="rp">）</span></span>も枯れ水中の蘆も枯れてちょいと見ると蘆も芒も同じもののように見えているところに、潮が満ちてくるとその枯蘆も浸り、折れて地に垂れている尾花の先も浸るような光景であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+鐘冴ゆる第六天をもどりけり<lb />
+</span>
+<lb />
+　今日の新聞は<span type="ruby"><span type="rb">徳川慶喜</span><span type="rp">（</span><span type="rt">とくがわよしのぶ</span><span type="rp">）</span></span>公の<span type="ruby"><span type="rb">薨去</span><span type="rp">（</span><span type="rt">こうきょ</span><span type="rp">）</span></span>を報じています。徳川公の本邸は小石川の第六天にあります。あの辺は、夜分などはさびしいところです。そこで第六天を思い出してこの句に使ったのであります。冬になって鐘の音も冴えて聞える夜、第六天のところを通って家路に帰りつつあるさびしい心持であります。<lb />
+　私は出まかせにこれらの句を作ってみました。少し俳句を作ったことのある人から見たら、あまりやりっ放し過ぎると言って非難されることと信じますが、俳句が決してむずかしいものでなく、無造作にできるものであることを明らかにするために、もっとも手近い例としてこういう句作を試みてみたのであります。いい句を作ってお目にかけたのではなく、無造作に作ってお目にかけたのです。もし今までおっくうに思われていた方々も、こういう実例を見て、それでは一つおれも試みてみようかという気になられたならば、結構なのであります。<lb />
+　季題の一例として私は二十五題を前に掲げたのでありますが、季題はまだこのほかにいくらでもあるのであります。それは<span type="ruby"><span type="rb">季寄</span><span type="rp">（</span><span type="rt">きよせ</span><span type="rp">）</span></span>なり歳時記なりをごらんになったらすぐ判ります。<lb />
+　<span type="ruby"><span type="rb">切字</span><span type="rp">（</span><span type="rt">きれじ</span><span type="rp">）</span></span>の一例としては「や」「かな」「けり」の三つを前に掲げて、私はこの三つの作例をお目に掛けたに過ぎませんが、切字もなおこのほかにいくらでもあります。それも古人なり<span type="ruby"><span type="rb">今人</span><span type="rp">（</span><span type="rt">こんじん</span><span type="rp">）</span></span>なりの句集をごらんになったらすぐお判りになります。「俳句とはどんなものか」でも申し上げましたように、意味と調子との切れるために使われた動詞なり副詞なりが、たいがい切字として用いられるのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+この冬を<span type="ruby"><span type="rb">髭</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>たくはへて籠らん<span rend="futoji">か</span>　　紅爐<lb />
+<span type="ruby"><span type="rb">袴</span><span type="rp">（</span><span type="rt">はかま</span><span type="rp">）</span></span>着てゆかし<span rend="futoji">や</span>人の冬籠　　子規<lb />
+冬籠仏壇の花枯れに<span rend="futoji">けり</span>　　同<lb />
+どうしても笑はぬ人と<span rend="futoji"><span type="ruby"><span type="rb">冬籠</span><span type="rp">（</span><span type="rt">ふゆごもり</span><span type="rp">）</span></span></span>　　爛鳥<lb />
+冬籠せんと故郷へ帰り<span rend="futoji">けり</span>　　左衛門<lb />
+冬籠我老いたりと思ひ<span rend="futoji">けり</span>　　牛伴<lb />
+冬籠ある日鏡に<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>老い<span rend="futoji">ぬ</span>　　曲骨<lb />
+<span type="ruby"><span type="rb">愚陀仏</span><span type="rp">（</span><span type="rt">ぐだぶつ</span><span type="rp">）</span></span>は主人の名<span rend="futoji">なり</span>冬籠　　漱石<lb />
+野狐の鶏ねらふ霜夜<span rend="futoji">かな</span>　　天涯<lb />
+霜の夜<span rend="futoji">や</span><span type="ruby"><span type="rb">寂然</span><span type="rp">（</span><span type="rt">せきぜん</span><span type="rp">）</span></span>として敵の城　　楽天<lb />
+<span type="ruby"><span type="rb">石蕗</span><span type="rp">（</span><span type="rt">つわ</span><span type="rp">）</span></span>の葉の霜に<span type="ruby"><span type="rb">尿</span><span type="rp">（</span><span type="rt">しと</span><span type="rp">）</span></span>する小僧<span rend="futoji">かな</span>　　子規<lb />
+渡し場<span rend="futoji">や</span>下駄はいて乗る舟の霜　　同<lb />
+置く霜の白きを見れば<span type="ruby"><span type="rb">草鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span><span rend="futoji">かな</span>　　麦人<lb />
+</span>
+<lb />
+　さてこう切字に印をつけてみると、私が前に一例として出した「や」「かな」「けり」の三つの切字が、比較的に多いことが<span type="ruby"><span type="rb">明瞭</span><span type="rp">（</span><span type="rt">めいりょう</span><span type="rp">）</span></span>に証明されました。この三つは切字のうちでもっとも有力でまたもっとも多く使われるものであります。その他「か」「ぬ」「なり」の三つの切字のあることといま一つ「冬籠」という名詞に印のついているのに気がつかれましょう。これは冬籠が切字の作用をしているのであって、詳しく言えば「冬籠かな」というべき「かな」の二字が省略されて、冬籠がその切字の働きを兼ねているものと見てさしつかえないのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ざくり／＼踏み込む墓所の霜柱　　李坪<lb />
+</span>
+<lb />
+　この句の如きも「霜柱かな」の「かな」が略されたものと見てさしつかえないのであります。がまた都合によれば「踏み込むや」の「や」が略されたものと見てもさしつかえないのであります。否「や」の字を持ってくるまでもなく「む」の字を接続した言葉と見ず、ここで一応意味の終止したものと見れば「む」そのものが直ちに切字となるのであります。けれどもこれは主として意味の側からいうことで、調子の方から言えば「む」は持続する意味のものとし、霜柱の下に「かな」が略されているものとする方が至当かと考えられます。<lb />
+　なおこのほかに変わった切字のものをあげると、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+山火事の天を<span type="ruby"><span type="rb">焦</span><span type="rp">（</span><span type="rt">こが</span><span type="rp">）</span></span>して霜赤<span rend="futoji">し</span>　　蒼苔<lb />
+低く飛ぶ星<span rend="futoji">あり</span>今宵霜降<span rend="futoji">らん</span>　　東雲<lb />
+<span type="ruby"><span type="rb">鶺鴒</span><span type="rp">（</span><span type="rt">せきれい</span><span type="rp">）</span></span>の尾にぞ<span type="ruby"><span type="rb">霰</span><span type="rp">（</span><span type="rt">あられ</span><span type="rp">）</span></span>のはじかれ<span rend="futoji">し</span>　　蒼苔<lb />
+橋に来てまたはら／＼と霰散<span rend="futoji">る</span>　　花牛堂<lb />
+大いなる霰ころがりて縁に消え<span rend="futoji">ざる</span>　　虚子<lb />
+玉霰<span type="ruby"><span type="rb">忽</span><span type="rp">（</span><span type="rt">たちま</span><span type="rp">）</span></span>ち来り忽ち<span type="ruby"><span type="rb">歇</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span><span rend="futoji">む</span>　　楽天<lb />
+京に入つて霰に笠を叩かれ<span rend="futoji">つ</span>　　不迷<lb />
+物思ふ窓を霰に叩かれ<span rend="futoji">き</span>　　不染<lb />
+あられうつ石<span type="ruby"><span type="rb">峨々</span><span type="rp">（</span><span type="rt">がが</span><span type="rp">）</span></span>として水急<span rend="futoji">なり</span>　　霜磧<lb />
+</span>
+<lb />
+　こんな<span type="ruby"><span type="rb">類</span><span type="rp">（</span><span type="rt">たぐい</span><span type="rp">）</span></span>であります。すなわち普通の動詞副詞はたいがい切字となるのであります。――このことについては「俳句とはどんなものか」の「切字」の篇をご参照願いたいのであります。――だから前に掲げた「や」「かな」「けり」の三つでもよく、またその他のものでもようございますから、まず季題をつかまえて来て、それに切字を使って、それを十七字にしてみるということが、俳句の道にはいるためには第一の条件であります。私が前の作句の例に現在の住まっている土地である鎌倉やその他自分の身辺のことを主として取ったのは、材料は決して遠きに在るものでなく、きわめて手近いところに在ることを明らかにしたいがためでありました。何でも構わんこういうふうに句作に第一歩を踏み出してみさえすれば、やがてそろそろと「面白い句」「価値のある句」も作れるようになります。以上あげた私の句の如きは面白い句でも価値のある句でもありません。ただ俳句に第一歩を踏み入れるための実例としてお目にかけたのであります。<lb />
+　近来俳句についての拘束を打破してかかることを主張するものがありますが、詩壇には何の拘束もない別の天地のあることを忘れてはいけません。拘束のない自由の天地を喜ぶ人は広い詩壇にはいるのがよいではありませんか。比較的拘束の多い俳句の天地にはいって強いて拘束打破を<span type="ruby"><span type="rb">称</span><span type="rp">（</span><span type="rt">とな</span><span type="rp">）</span></span>えるのは愚かなことであります。私は<span rend="futoji">十七字、季題という拘束を喜んで俳句の天地におるものであります。</span>この拘束あればこそ<span rend="futoji">俳句の天地</span>が存在するのであります。いったん俳句の門に入って後には<span rend="futoji">また格に入って格を<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>ずるの法もあります。狭いはずの十七字の天地が案外狭くなくって、仏者が<span type="ruby"><span type="rb">芥子</span><span type="rp">（</span><span type="rt">けし</span><span type="rp">）</span></span>粒の中に三千大千世界を<span type="ruby"><span type="rb">見出</span><span type="rp">（</span><span type="rt">みいだ</span><span type="rp">）</span></span>すようになるのであります。</span><lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">二　題を箱でふせてその箱の上に上って天地乾坤を睨めまわすということ</span></span></span>
+<lb />
+<lb />
+　俳句はどういうふうにして作ったらいいのか、といってたずねる人があったら、どうでもいいから作ってごらんなさいと、とりあえずお答えするのでありますが、それにしても何か頼るところがなければ作りようがないではないかと<span type="ruby"><span type="rb">呟</span><span type="rp">（</span><span type="rt">つぶや</span><span type="rp">）</span></span>かれる人が多うございます。今回はそのたよるところのものを一つお話ししてみようと思います。<lb />
+　たとえばここに「年玉」という一つの題を得て句を作るという時分に、どうしたら年玉の句ができるでしょうか。「年玉や」とか「年玉かな」と言ったところでどうもそれだけでは句にならん、何とか方法はないか、という時に、そこに大体二つの方法があると言ってさしつかえないと思います。<lb />
+　その方法をお話しする前に、とにかく年玉というものを考えてみることをおすすめいたします。というのは主として年玉についての過去の経験を考えてみるのであります。記憶を<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>ってみるのであります。まず幼い時お年玉としてある人に<span type="ruby"><span type="rb">貰</span><span type="rp">（</span><span type="rt">もら</span><span type="rp">）</span></span>った美しいカルタのことを思い出してみます。そのカルタは子供心に金の札のように見えたこと、そのカルタを初めて取った時の灯火の明るかったこと、その年玉をくれた若い<span type="ruby"><span type="rb">叔母</span><span type="rp">（</span><span type="rt">おば</span><span type="rp">）</span></span>もその一座にあったこと、その時姉の貰ったお年玉は大きな<span type="ruby"><span type="rb">手毬</span><span type="rp">（</span><span type="rt">てまり</span><span type="rp">）</span></span>であったこと、その手毬が縁に転がって行った時に<span type="ruby"><span type="rb">拭</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>き込んである縁にその大きな丸い影法師の映ったこと、さてこのごろは貰うお年玉にもやるお年玉にも他の意味がつきまとって子供の時のような純粋な楽しい心持のないこと、ことに去年お年玉と言って<span type="ruby"><span type="rb">何某</span><span type="rp">（</span><span type="rt">なにがし</span><span type="rp">）</span></span>のくれたものをつきかえした時の自分の心持、先方の態度、それらを回想してみるとおかしいような、さもしいような、腹立たしいようないろんな感情がこんがらがって起ってくること……そんなふうに年玉についてのさまざまな出来事なり感興なりをいろいろと思い出してみているうちに、ぼつぼつと俳句ができないこともないのであります。たとえば、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+金札のやうなカルタやお年玉<lb />
+年玉にもらひて取りしカルタかな<lb />
+これ程の年玉は無きカルタかな<lb />
+大いなる手毬なりけりお年玉<lb />
+年玉をくれたる叔母の美しき<lb />
+一年の義理を年玉に見せにけり<lb />
+人の世や年玉さへも恐ろしき<lb />
+年玉をうかと貰ひて困りけり<lb />
+年玉を突きかへすこともする世かな<lb />
+</span>
+<lb />
+いくらでもできるでしょう。価値問題は別として、とにかく十七字の形を備えた俳句らしいものができぬことはないのであります。<lb />
+　が、しかし私のお話ししようと思う二つの方法というのは、いずれもこんな句よりはせめて一歩先に歩を進める方法なのであります。その方法は二つあるから、どちらか一つを取ってごらんなさいとおすすめしようというのであります。他の一つは次章にゆずり、その一つの方をお話ししようと思います。<lb />
+　昔芭蕉の弟子に<span type="ruby"><span type="rb">許六</span><span type="rp">（</span><span type="rt">きょりく</span><span type="rp">）</span></span>という人がありました。その人が句作法としてこういうことを言っています。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ある題を得たならば、その題を箱でふせて自分はその箱の上に上り、天地<span type="ruby"><span type="rb">乾坤</span><span type="rp">（</span><span type="rt">けんこん</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>めまわすがよい。<lb />
+</span>
+　これはどういう意味のことを言ったものかといいますと、こういうことになるのであります。たとえば年玉の題を得て俳句を作ろうという時に、年玉／＼といくら考えたっていい句ができるものではない、年玉／＼と考えて思い浮かべることはたいがい十人が十人似寄ったことで、すでに先人の言い古したことか、そうでなくばとくに俳句にするほどの価値のないことである。そんなことではしょうがないから、好句を得る手段としてこういう方法を取るがいい、まず一応年玉のことは忘れてしまうがいい、年玉は箱でふせて、それは見ぬようにして、さて天地乾坤を見渡してみて何か別の面白いものを見出してこい、それは年玉／＼と年玉に執着して考えていたのでは思いもつかないところの面白いものを必ず見出し得るからして、それをつかまえて年玉の句にするがいい、とこういうのであります。年玉のことを忘れてしまって年玉の句を作るというのはちょっと変なようですけれどもその実変なことではなく、こういう思想のめぐらしようもたしかにあるのであります。いま少し平ったく判りやすいようにいうと、つまりこういうことになるのであります。年玉のいい句を作るのには、あまり年玉に拘泥し過ぎていると動きがとれなくなってしまってつくりにくいから、それよりもいい配合物を求めるがいい、そうしてその配合物と年玉とを結びつけて句を作るがいい、とこういうのであります。<lb />
+　たとえば、年玉のことは一応忘れてしまって、いわゆる天地乾坤を睨めまわしますと、そこにはいろんなものが眼に映ります。<lb />
+　雪――この原稿を書いている日は十二月の十六日で雪が降っています。<lb />
+　泣声――どこやらで子供の泣声が聞こえます。これは目に映るのではなくて耳に響いているのであります。<lb />
+　地震――これは昨日の地震のことを思い出したのであります。<lb />
+　<span type="ruby"><span type="rb">関寺小町</span><span type="rp">（</span><span type="rt">せきでらこまち</span><span type="rp">）</span></span>――これは座右にある謡本の中にこういう名前が見つかりました。<lb />
+　高――これは私の姓の上の一字が思い出されたのであります。<lb />
+　このほか、天井とか畳とか火鉢とかインキ<span type="ruby"><span type="rb">壺</span><span type="rp">（</span><span type="rt">つぼ</span><span type="rp">）</span></span>とか目に触れるものは際限もなくありますが、まず仮に前に掲げた五つのものを取ってお話ししようと思います。<lb />
+　すなわちこの五つのものは年玉ということをまったく忘れてしまって、いわゆる天地乾坤を睨めまわしてとりあえずつかまえてきたところのものでありまして、これを年玉に配合して句にしようというのであります。<lb />
+　まず雪を配合してみましょう。雪と年玉とをどう配合したら句になるでしょう。雪の小家に誰かが年玉を持って来てくれたところでも想像してみましょうか。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+年玉や雪の小家の床の上<lb />
+年玉や雪の小家の夕まぐれ<lb />
+雪の戸に喜びみちぬお年玉<lb />
+</span>
+<lb />
+　次に三河屋の番頭といったようなものが、お年玉を配って歩いているところでも想像してみましょうか。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+雪の戸に年玉を持ちはひりけり<lb />
+年玉を雪に落して拾ひけり<lb />
+年玉をくれて雪<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いて帰りけり<lb />
+</span>
+<lb />
+　そのほか何ということなしに雪と年玉との配合をやってみましょう。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+年玉を貰ひて雪を眺めけり<lb />
+年玉のほのかに暗し雪の窓<lb />
+郵便の年玉嬉し雪の国<lb />
+雪の幌を出て叔母が来ぬお年玉<lb />
+年玉を貰ひぬ雪の庭伝ひ<lb />
+</span>
+<lb />
+　雪はこのくらいにしておいて、次の泣声に移りましょう。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+泣声のはたととまりぬお年玉<lb />
+</span>
+<lb />
+　年玉をもらったために子供が泣き止んだというので、これは年玉と泣声との配合ならば誰でも一番に思いつくことでしょう。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+張上げて泣いてやりけりお年玉<lb />
+</span>
+<lb />
+　お年玉を貰ったからもう泣くのではない、などとすかされて、止めようかとも思ったが、何だか甘く見られるのが<span type="ruby"><span type="rb">癪</span><span type="rp">（</span><span type="rt">しゃく</span><span type="rp">）</span></span>なので、いま一息声を張上げて泣いてみせるのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+泣声を聞きつゝ入るやお年玉<lb />
+</span>
+<lb />
+　これは年玉を持ってある家へはいろうとすると、その年玉をやるはずの子の泣声が聞こえているというのであります。<lb />
+　次には地震に移りましょう。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+年玉にゆるく<span type="ruby"><span type="rb">地震</span><span type="rp">（</span><span type="rt">ないふ</span><span type="rp">）</span></span>る小家かな<lb />
+</span>
+<lb />
+　これは年玉の床の間か<span type="ruby"><span type="rb">箪笥</span><span type="rp">（</span><span type="rt">たんす</span><span type="rp">）</span></span>の上かに置いてあるのが、地震のために少し揺れるのをいったのであります。が、揺れるというのが眼目ではなく、小家ながらも春がきて年玉などが置かれてある、そこに軽い地震のあるということが、静かに<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>しいような心持ちがする、そこを主として味わわなければなりません。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+年玉は嬉し地震は恐ろしゝ<lb />
+</span>
+<lb />
+　これは子供の心をいったので、元日なり二日なりに、年玉を貰ったということと地震のあったということの二つの出来事があった、そのほかにもいろいろ出来事はあったが、この<span type="ruby"><span type="rb">嬉</span><span type="rp">（</span><span type="rt">うれ</span><span type="rp">）</span></span>しいことと恐ろしいこととの両極端の出来事が、深く子供の頭に印象されたのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+日の本は<span type="ruby"><span type="rb">地震</span><span type="rp">（</span><span type="rt">ないふ</span><span type="rp">）</span></span>る国よお年玉<lb />
+</span>
+<lb />
+　西洋ではクリスマスの贈物が盛んであるが日本は新年にお年玉の贈答が行われる。これは日本の風俗の一つだというに過ぎないのでありますが、その日本という国はまた地震国であるということがたまたま思い合わされて、日本はないふる国よといったのであります。<lb />
+　次に進行します。関寺小町というのは<span type="ruby"><span type="rb">江州</span><span type="rp">（</span><span type="rt">こうしゅう</span><span type="rp">）</span></span>関寺の住僧が七夕の日に<span type="ruby"><span type="rb">稚児</span><span type="rp">（</span><span type="rt">ちご</span><span type="rp">）</span></span>たちを連れて、その山陰に<span type="ruby"><span type="rb">庵</span><span type="rp">（</span><span type="rt">いおり</span><span type="rp">）</span></span>を結んでおる小野小町のなれの果を<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">おとな</span><span type="rp">）</span></span>い、和歌の問答をし、やがて稚児たちに<span type="ruby"><span type="rb">童舞</span><span type="rp">（</span><span type="rt">わらわまい</span><span type="rp">）</span></span>を舞わすと、小町も興に乗り、狂人走れば不狂人も走るということがある、<span type="ruby"><span type="rb">妾</span><span type="rp">（</span><span type="rt">わらわ</span><span type="rp">）</span></span>も今の童舞に刺激されてひとさし舞おうと言ってついに舞を舞うというのが一篇の趣向であります。これと年玉とはなかなか容易に結び付けられそうにもありませんが、試みに一、二を試みてみせましょうならば、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+関寺や浮世の人のお年玉<lb />
+</span>
+<lb />
+　年玉の贈答などは浮世のことで、この関寺小町一篇に現れた天地などとは没交渉であるといったのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+小町には年玉よりも<span type="ruby"><span type="rb">餅</span><span type="rp">（</span><span type="rt">もちい</span><span type="rp">）</span></span>かな<lb />
+</span>
+<lb />
+　小町はもう乞食になっているのですから、年玉をやるよりも餅<span type="ruby"><span type="rb">一切</span><span type="rp">（</span><span type="rt">ひときれ</span><span type="rp">）</span></span>でもやった方がよかろうというのであります。色気よりも食い気といったところであります。<lb />
+　次に移ります。高の字と年玉との結びつけは比較的楽だろうと思います。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+年玉や高き賤しきおしなべて<lb />
+</span>
+<lb />
+　身分の高いものも賤しいものも、おしなべて年玉のやりとりをするというのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+高々と水引かけぬお年玉<lb />
+</span>
+<lb />
+　これは説明を要さないことと思います。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+高砂の翁が<span type="ruby"><span type="rb">許</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>やお年玉<lb />
+</span>
+<lb />
+　めでたく年取っている高砂の<span type="ruby"><span type="rb">翁</span><span type="rp">（</span><span type="rt">おきな</span><span type="rp">）</span></span>とも見るべき人のもとに年玉をおくのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+背高なる<span type="ruby"><span type="rb">乙娘</span><span type="rp">（</span><span type="rt">おとむすめ</span><span type="rp">）</span></span>やなお年玉<lb />
+</span>
+<lb />
+　久しぶりにある家を<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">おとな</span><span type="rp">）</span></span>いて年玉などを贈ったのであるが、二番目の娘の子のまあ背の高いことと驚いたのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+年玉や<span type="ruby"><span type="rb">高家邸</span><span type="rp">（</span><span type="rt">こうけやしき</span><span type="rp">）</span></span>の表門<lb />
+</span>
+<lb />
+　高家というのは例の吉良上野介のような役目で、<span type="ruby"><span type="rb">公家</span><span type="rp">（</span><span type="rt">くげ</span><span type="rp">）</span></span>と武家との間に立って両者の交渉を<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">つかさど</span><span type="rp">）</span></span>る職務であるところから、自然<span type="ruby"><span type="rb">賄賂</span><span type="rp">（</span><span type="rt">わいろ</span><span type="rp">）</span></span>を受ける機会も多くなる。ひとり上野介のみならず、職掌柄としておのずからそうなる、そのいかめしい表門を今ある一、二人が年玉を持ってはいりつつあるような光景であります。<lb />
+　こうやってでき上がった句と、前に年玉についてのただ古い知識や経験やをたどって作った句とをくらべてみると、少なくとも<span rend="futoji">年玉ばかりを考えていたのでは思いもつかない趣向をこの配合法によって得る</span>ということだけは証明ができたことと考えるのであります。<lb />
+　<span rend="futoji">こういう句作法は、感興とか感激とかをもととする方面の作家からいうと、まことにあきたらない句作法で、自分の脳裏から生まれ出たものでなく、何だか借り物らしい心持がすることと考えますが、それは必ずしもそうではないのであります。</span>私の如きもこの種の句作法よりは次に述べる句作法の方を喜ぶものでありますが、それにしてもこの配合法を誤った句作法であるとする論者に向かっては、一言の弁護を費やさねばならぬのであります。<lb />
+　ちょっと考えると、材料は題の中からしぼり出したのでなく、外から拾ってきたのでありますが、しかしその材料と年玉との間における何らかの関係を<span type="ruby"><span type="rb">見出</span><span type="rp">（</span><span type="rt">みいだ</span><span type="rp">）</span></span>すのはその人の頭であります。たとえば床を装飾するというような場合であっても、一個の掛軸と一個の置物とを持って来てその掛軸とその置物とをそこに並べる上に、すでにその人の趣味、人格は現れるのでありますから、まして年玉と、雪とか地震とかいうものを配合する場合に、その作者の頭脳の働くことは材料一切を頭の中からしぼり出した場合と決して<span type="ruby"><span type="rb">径庭</span><span type="rp">（</span><span type="rt">けいてい</span><span type="rp">）</span></span>はないのであります。ただ異なるところは感興を土台にしてできた句は、まず感興が起って次に材料が選択されるのでありますが、この配合法によるものはまず材料を強いられて、その上で感興を誘発するのであります。要はいずれが感興の高度に達するかの問題であります。<lb />
+　<span rend="futoji">二個のものを置いてその間に意味を見出すということは結局その両者をよく了解するということになるのであります。一歩を進めていえば、雪とか、地震とかいうものに<span type="ruby"><span type="rb">逢着</span><span type="rp">（</span><span type="rt">ほうちゃく</span><span type="rp">）</span></span>せねば思い出せなかった年玉の意味を幸いにこの両者に逢着したことによって思い出し得たのであります。これをまた一方からいえば、年玉に逢着せねば思い出せなかった雪とか地震とかの意味を年玉に逢着したことによって思い出し得たのであります。すなわち借り物でもなく造りものでもないのであります。</span><lb />
+　<span rend="futoji">この配合法の得は陳腐、平凡を避けやすいという点にあります。しかしながらその弊は身に<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>み込むような趣の深い句はどうしてもできにくいという点にあります。</span>年玉というものの究極したる面白味は<span type="ruby"><span type="rb">畢竟</span><span type="rp">（</span><span type="rt">ひっきょう</span><span type="rp">）</span></span>年玉そのものにあるのであって、雪にあるのでも地震にあるのでもない、なまじ雪や地震がでてくると感興の半ばはその方に取られて、年玉そのものの強い感じはそがれやすい、それがこの配合法の欠点であります。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">三　じっと眺め入ること</span></span></span>
+<lb />
+<lb />
+　芭蕉の弟子のうちでも<span type="ruby"><span type="rb">許六</span><span type="rp">（</span><span type="rt">きょりく</span><span type="rp">）</span></span>という人は配合に重きを置いた人で、題に執着しないで、何でも配合物を見出してきて、それをその題にくっつける、という説を主張していることは前章に述べた通りでありますが、それと全然反対なのは<span type="ruby"><span type="rb">去来</span><span type="rp">（</span><span type="rt">きょらい</span><span type="rp">）</span></span>であります。去来は配合などには重きを置かず、ある題の趣に深く深く考え入って、執着に執着を重ねて、その題の意味の中核を捕えてこねばやまぬという句作法を取ったようであります。<lb />
+　この後者の句作法の方をさらに二つに分けてみることができます。その一は目で見る方で、<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="futoji">じっと眺め入ること</span></span>
+であります。その二は、心で考える方で、<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="futoji">じっと案じ入ること</span></span>
+であります。<lb />
+　まずその「じっと眺め入ること」の方をお話ししましょう。<lb />
+　私はそれにつけ、昆虫についてのある話を思い出さずにはいられません。それは手許に本がないからはっきりしたことは申上げかねますが、何でも一本の<span type="ruby"><span type="rb">薔薇</span><span type="rp">（</span><span type="rt">バラ</span><span type="rp">）</span></span>の木にいる昆虫の数をしらべてみると十数種になるとかいうような話でありました。それが単に甲の昆虫もいる、乙の昆虫もいるというように並べ立てただけでは興味がありませんが、たとえばまず初めになんとかいう虫がその薔薇の<span type="ruby"><span type="rb">芯</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>に寄生すると、その虫を食うために他の虫がまたその傍に寄生する、そうすると今度はまたその第二の虫を食うために蟻が茎を伝って登って行く、というようなことになり、そういう関係から際限もなく多くの昆虫の薔薇にいることが説明されていたのであります。<lb />
+　こういう科学的の研究はちょっと文学には関係のないことのようでありますが、その実研究の方法こそ違え文学者もまたこれに類した研究をすることによって、新しい文芸を産み出すのであります。わが俳句にあっても同じことで、科学者のように顕微鏡を用いたりメスを取ったりこそはしませんが、じっとものに眺め入って、今まで人の気のつかなかったあるものを捕えてこよう――発見してこよう――とする点には似寄った努力が費やされるのであります。同じく薔薇を見ているにしても、俳句を作る場合には、我等は一茎の薔薇にじっと目をやって、そこに我等と薔薇との間にいかなる神霊の交通があるか、自然――神――はいかなる不思議を我等に見せてくれるか、我等は精神を一所に集中して、じっとその薔薇と<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>めっくらをしていることによって、文学上の新発見をすることができるのであります。<lb />
+　ゲーテが<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ぼたん</span><span type="rp">）</span></span>の花か何かについて科学上の大発見をしたというような話もあるではありませんか。科学と文学とは大変な相違のあるもののようにも考えられますが、これはいわば青い電灯と赤い電灯との相違で、電気さえ通えば同時にぱっと灯のともるものかもしれないのであります。<lb />
+　この「じっと物に眺め入ること」によって新しい句を得ようとする努力を、写生といいます。<lb />
+　写生というと何でも目で見たものをそのままスケッチすればいいというふうに心得ている人がありますが、そうではありませぬ。<lb />
+　こういうふうに言ってきますと、去来が写生の大家のように聞こえて、あの主観的の句を作る人が大家かと怪しむ人が多いでしょう。去来という人はこの「じっと物に眺め入ること」の方にはあるいは長じていなかったかもしれません。その点においては「<span type="ruby"><span type="rb">猿蓑</span><span type="rp">（</span><span type="rt">さるみの</span><span type="rp">）</span></span>」の選者として去来の兄弟分に当たる凡兆か、もしくはずっと下って天明時代の作家の方がより以上に適切かもしれないのであります。どちらかといえば去来は「じっと眺め入る人」ではなくて、「じっと案じ入る人」であったのであります。<lb />
+　この「じっと眺め入ること」と「じっと案じ入ること」とは、大きな隔てを置くべきものではないのであります。例の「配合」を生命とする句作法を一方に置いてみると、この両者はにわかに近よってきて、ほとんど両者は一体となって「配合法」と相対立するようになるのであります。「あるものを取って来て配合する」ということと、この「じっと眺め・案じ入る」ということとは、心の働きからいうと二大別として考えることができるのであります。<lb />
+「じっと眺め入る」ということもやがては「じっと案じ入る」ということに落ちて行くのであります。が、ここにはかりに二つに分けて、その「じっと案じ入る」という方は<span type="ruby"><span type="rb">後廻</span><span type="rp">（</span><span type="rt">あとまわ</span><span type="rp">）</span></span>しとし、「じっと眺め入ること」について私の経験談の一つを実例としてお話ししてみようと思います。<lb />
+　それは去年の春さき、ちょうど今ごろの時候でありました。病後であったために、よく鎌倉の谷々を散歩しました。ある時鎌倉神社の横手の二間幅ばかりの溝のところに立ち止まって、その溝の中をぼんやりと眺めていますと、こういう光景が目に映りました。<lb />
+　その溝には水は割合にたくさんありました。日光はその水の上に落ちて「春先らしい暖かさ」と、どこやらまだ風の寒い「春先らしい寒さ」とをみせていました。水の中には木ぎれのようなものも落ちていました。ゴミのようなものもところどころに浮いていました。けれどもそのわりに水は濁ってはいませんでした。ちょっと見ると水も赤っちゃけて見えましたが、それは比較的透明な水に底の方の赤っちゃけた泥がすいて見えるのでありました。<lb />
+　私はじっとそれを見ていました。冬のごとく着込んでいる背中には、少し汗ばもうかとするくらいの暖かさを感じるのでありましたが、それでも頬にあたる東風にはまだ遠い北の雪国を思わせるほどの寒さが残っておりました。春は来つつあるのであるが、どこやらまだそれは動揺していて頼りないところがある。一度その北の雪国を思わせる風が真北に変わって山の低みから吹き下ろして来たならば、この鎌倉の春は瞬く間に後もどりして、たちまちまた昨日の冬に逆転しそうな心細さがあるのでありましたが、ただこの溝の中にはそこに確実な春がありました。それはたとい北国の雪を思わせる<span type="ruby"><span type="rb">朔風</span><span type="rp">（</span><span type="rt">さくふう</span><span type="rp">）</span></span>が落ちてきてもびくともしないというような、落ち着き払って、じっと澄ましこんだ大地の春がありました。……私はそんなことを考えてじっとその溝の中を<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>きこんでいました。<lb />
+　その赤っちゃけた泥はポカポカと柔らかく、ものがちょっとでも触れればたちまち浮き上がりそうにみえていました。私は試みにひとつの小石を拾って投げ込んでみました。果たしてその泥は煙のように軽くその小石を中心にして浮き上がるのでありました。「春は地皮の下一分のところまで押し上げて来ているのだ」そんなふうに私は考えました。こういう時にいつでも思い出される「水<span type="ruby"><span type="rb">温</span><span type="rp">（</span><span type="rt">ぬる</span><span type="rp">）</span></span>む」という季題のことを私はまた考えずにはいられませんでした。水温む！　それは空気が暖かになるために温むのだと考えるよりも、大地の下から押し上げてくる春の力によって温むのだと考える方が自然なように思われるのでありました。科学者ならばこんな不条理なことは考えないでありましょう。しかし文学者はこのような非科学的な考えをめぐらすことの上に何人にも求められない特権を持っています。<lb />
+　その時でありました、私がふとある大きな事実に<span type="ruby"><span type="rb">逢着</span><span type="rp">（</span><span type="rt">ほうちゃく</span><span type="rp">）</span></span>しましたのは。<lb />
+　その事実というのはほかでもありませんでした。そこにゴミとも何ともつかぬ、混雑した中にどこか秩序のある、赤っちゃけた泥とちょっと見さかいのつかぬような色をした、やはり、一種の藻草――それはもうこの間の冬の寒さに無用の廃物となってもとの泥にもどろうとしているような藻草――があるあたりに、銭ほどの大きさの青い一つの葉が夢のように浮いていたことで、私はその冬の名残である廃物の藻草とこの新しく来るところの春のシンボルのような一枚の浮草の葉とを凝視したのでありました。<lb />
+　そこには続いて第二の事実が発見されたのであります。その古い藻草と新しい浮草とはまったく没交渉のものでありまして、一見したところではちょうど同じような場所に見えましたけれども、その浮葉には別に一つの茎が永く永く延びていて、それはその一かたまりの藻草の上を<span type="ruby"><span type="rb">遥</span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かにすべって、思わぬ方の、ずっと遠方の水底に根を下ろしていることが明白になったのであります。<lb />
+　私の心は何ということなく興奮してこの事実の上に興味を見出しまして、その葉から延びている細い長い茎をたずねて深い水底の泥の方に目をたどっているうちに、私はまた第三の事実に逢着したのであります。それはこの根から出た茎は私の初めに見出した一本ではなく、なおその他に数本の茎がその一本の根から放射状に出ていることで、それらは同じように長い茎をして、遥かな距離の水上にやはり一つ一つ銭ほどの葉を浮かべているのでありました。ちょっと水上ばかりを見ると、彼の葉とこの葉とはあまり離れているので、まったく別の根から出た水草としか思われないのでありましたが、それが一つの根から出たものであることに気がついてみると、なるほど、それはことごとくシンメトリーに幾何学的に置かれた浮標であるかのように、同じ距離を保って小さい葉を浮かべているのでありました。<lb />
+　この事実に逢着して私は飛び立つほどの<span type="ruby"><span type="rb">嬉</span><span type="rp">（</span><span type="rt">うれ</span><span type="rp">）</span></span>しさを覚えました。自然は私にこういう事実を教えてくれたのだと思うと、じっとしていられないような心持がするのでありました。私は覚えずこういう句を作りました。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+一つ根に離れ浮く葉や春の水<lb />
+</span>
+<lb />
+　この句を立派な句だと<span type="ruby"><span type="rb">自讃</span><span type="rp">（</span><span type="rt">じさん</span><span type="rp">）</span></span>するのではありませんが、かかる事情のもとに生まれ出た句であることを申し上げて「じっとものに眺め入る」上の句作法の一例として参考に供するのであります。<lb />
+　私が鎌倉神社の溝のところをしばしば通過したにしましても、この興奮した心をもって「じっと眺め入る」ことをしなかったならば、私はこれだけの発見をすることができず、したがってこの一句を作ることもできなかったことと考えられるのであります。<lb />
+　写生ということは、手帳と鉛筆とをもって野外を散歩すればいいくらいに心得てこの「じっと物に眺め入ること」を<span type="ruby"><span type="rb">軽蔑</span><span type="rp">（</span><span type="rt">けいべつ</span><span type="rp">）</span></span>している人があるならば、決して正しい意味の写生をすることはできないのであります。<lb />
+　しかしながらこういうことをお話ししてくると、そういうことはある点まで修業を積んだ上でなければできないことだ、と言われる方があろうと思います。それもごもっともと考えます。そのため私はここにいま少し「写生」ということを卑近な方法として説明してみようと思います。<lb />
+　究極は「一つ根に離れ浮く葉」を発見するところに写生の目的はあるとしましても、なおその以前に前述の「溝の中の光景」を捕えることによっていくらでも写生句を作ることはできるのであります。私はまた無雑作に作るということを目的としてここに若干句を並べてみることにいたそうと思います。多くは前にのべた「溝の中の光景」を材料としますが、中には、前にはのべなかったけれども当時遭遇した事実もあります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span type="ruby"><span type="rb"><span type="ruby"><span type="rb">病起</span><span type="rp">（</span><span type="rt">びょうき</span><span type="rp">）</span></span></span><span type="rp">（</span><span type="rt">（ママ）</span><span type="rp">）</span></span>野に立てば水ぬるみけり<lb />
+</span>
+<lb />
+　これは別に説明するまでもなく、病気でうち<span type="ruby"><span type="rb">臥</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>していたのが大分よくなったので野に散歩に出た、おりふし水の温む時分であったというのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+温む水に動くものある目高かな<lb />
+</span>
+<lb />
+　これは前にはのべませんでしたけれども、その溝の中にちらちらと動くものがあると思うと、それは目高が泳いでいるのでありました。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+石投ぐれば浮み出る泥や春の水<lb />
+</span>
+<lb />
+　これは前に申したこととそのままですから説明するまでもありません。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+水温んでなほ腐る<span type="ruby"><span type="rb">去年</span><span type="rp">（</span><span type="rt">こぞ</span><span type="rp">）</span></span>の藻草あり<lb />
+</span>
+<lb />
+　これも同様であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+水温むそれも地軸より来る力<lb />
+</span>
+<lb />
+　これも同様であります。なんだか一種の力というものが地球の中心の地軸から来て、そのために水が温むような気がするのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+神近く澄める溝あり水温む<lb />
+</span>
+<lb />
+　これも同様であります。とくに鎌倉神社近くの溝であるという点を言ったのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+この水の宮離るれば<span type="ruby"><span type="rb">種井</span><span type="rp">（</span><span type="rt">たねい</span><span type="rp">）</span></span>かな<lb />
+</span>
+<lb />
+　神社の傍にある間は同じ溝でも何となく格別な清浄な感じがする。しかしいったんこの流れが宮を離れるとそこはもう普通の畑の中の流れで、そこはやがて種井として<span type="ruby"><span type="rb">籾種</span><span type="rp">（</span><span type="rt">もみたね</span><span type="rp">）</span></span>が浸されるというのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+宮近き<span type="ruby"><span type="rb">畦</span><span type="rp">（</span><span type="rt">あぜ</span><span type="rp">）</span></span>を焼く子や<span type="ruby"><span type="rb">禰宜</span><span type="rp">（</span><span type="rt">ねぎ</span><span type="rp">）</span></span>叱る<lb />
+</span>
+<lb />
+　春になると山を焼いたり野を焼いたりするために焼山、焼野は春季になっております。畦を焼くのもやはり同じ種類に属せしめてよいのであります。神社近くの畦を焼く子を禰宜が出て来て叱るのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+禰宜そこに現はれて話す椿かな<lb />
+</span>
+<lb />
+　鎌倉神社の禰宜は私の知人であります。溝を隔てた向こうの堤の上に禰宜が出て来て私と話をしたのであります。椿はそのほとりに咲いていたのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+この禰宜の妻<span type="ruby"><span type="rb">二日灸</span><span type="rp">（</span><span type="rt">ふつかきゅう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">針供養</span><span type="rp">（</span><span type="rt">はりくよう</span><span type="rp">）</span></span><lb />
+</span>
+<lb />
+　この禰宜の細君も私の知人であります。私は病中この人にお灸をすえてもらいました、また私の着物などもよく縫ってもらいました。この禰宜の細君はよくお灸をすえたりお針をしたりするということを幸いに、春季になっている二日灸、針供養の二つで表したのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+摘草をすれば必ず来るところ<lb />
+</span>
+<lb />
+　去年は病中であったためによく摘草などをして日を暮らしましたが、摘草をするとなるとよくこの辺にまいりました。<lb />
+　こういうふうにして、何事もその時<span type="ruby"><span type="rb">逢着</span><span type="rp">（</span><span type="rt">ほうちゃく</span><span type="rp">）</span></span>した事実をもととして写生句を作ると、<span type="ruby"><span type="rb">容易</span><span type="rp">（</span><span type="rt">たやす</span><span type="rp">）</span></span>く句作ができると思います。そうしてその中で比較的いい句かと覚えるのは前に申しました、「一つ根に」の句ぐらいなものだと存じます。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi400">四　じっと案じ入ること</span></span></span>
+<lb />
+<lb />
+　ちょっと見てすぐ句にするとか、ちょっと考えてすぐ句にするとかいうことは、言葉それ自身が表すように軽薄なことであります。句作をしようとする場合、物を見るには「じっと眺め入ること」が必要であるし、物を考えるには「じっと案じ入ること」が必要であります。「じっと眺め入ること」は前章にお話ししましたから今度は、<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="futoji">じっと案じ入ること</span></span>
+についてお話をしようと思います。<lb />
+　昔の俳句の大家はたいがいじっと案じ入った人であります。俳句などというものは当意即妙で<span type="ruby"><span type="rb">頓知</span><span type="rp">（</span><span type="rt">とんち</span><span type="rp">）</span></span>さえあればできるもののごとく心得ている人がずいぶんありますが、そうではありません。むしろ頓知などという言葉とは反対に、一心にものに案じ入ることによってできるのであります。<lb />
+　芭蕉の弟子にはいろいろの人がありました。が、中でもっとも頓知というようなことに遠かった人は<span type="ruby"><span type="rb">去来</span><span type="rp">（</span><span type="rt">きょらい</span><span type="rp">）</span></span>のように考えられます。この人の俳句を見るといかにも愚鈍らしいところがみえます。愚鈍といったところで、むしろいい意味の愚鈍でいやに才走ったところは少しもなく、実直な、鈍重な風格を備えているのであります。<lb />
+　近代人の句にはいかなる人の句にもこの鈍重の趣を欠いております。これは時代の相違もあることで、今の人に元禄時代の去来のような句を作れと言ったところでそれは無理かもしれませんが、しかしその鈍重の趣を欠く理由の一つにはこのじっと案じ入ることの修業が足りない点があります。<lb />
+　試みに去来の句を二、三句抜き出してきてこの辺の消息を少しお話ししてみましょう。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+湖の水まさりけり五月雨　　去来<lb />
+</span>
+<lb />
+　これは去来の句といえば誰も第一に持ち出すほど有名な句でありますから、まずこの句について吟味してみましょう。句意はきわめて明白で五月雨の降るころ<span type="ruby"><span type="rb">近江</span><span type="rp">（</span><span type="rt">おうみ</span><span type="rp">）</span></span>に行ってみると、あの広大な<span type="ruby"><span type="rb">琵琶</span><span type="rp">（</span><span type="rt">びわ</span><span type="rp">）</span></span>湖の水が降り続く雨のために増しておった、というのであります。<lb />
+　ちょっとみるとただ事実をありのままに言ったものととれますが、しかしよくみると、この句には去来のじっと案じ入った心のあとが力強く印象されています。そのことを明らかにするために私は自分の句を引合に出します。<lb />
+　私が書生時代神田の下宿にいるときのことでした。<lb />
+　ふと下宿屋の庭先に置かれてあった「へご鉢」を見ますると、おりふしの雨で、そのへご鉢の水が<span type="ruby"><span type="rb">溢</span><span type="rp">（</span><span type="rt">あふ</span><span type="rp">）</span></span>れんばかりの<span type="ruby"><span type="rb">水嵩</span><span type="rp">（</span><span type="rt">みずかさ</span><span type="rp">）</span></span>に増しておりました。<lb />
+　そこで私はこの去来の句を想起して、それを脱胎して、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+へご鉢の水まさりけり五月雨<lb />
+</span>
+<lb />
+という句を作りました。私はただ去来の句から思いついた、いわゆる「思いつき」の句としてもとよりこの句に重きをおかなかったのでありますが、そのころはあたかも写生ということに着眼し始めた時代でありましたところから、去来の句よりもこの句の方が写生的でいい、むしろ本当だ、というような批評もあったくらいでありました。しかし今見てもつまらぬ句で一<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-15/1-15-24.png" rend="gaiji" rendition="img" source="※(「口＋據のつくり」、第3水準1-15-24)" /></span><span type="rp">（</span><span type="rt">きょ</span><span type="rp">）</span></span>に値しないのでありますが、去来の句を解釈する上に便宜なために引合に出してみましょう。<lb />
+　五月雨が降ったためにへご鉢の水が増した、という光景はきわめて的確な目前の事実であります。どの辺まであった水がどの辺まで増したということまで的確な事実であります。が、周回七十何里という琵琶湖の水はたとい五月雨が何日降り続こうとも、どれだけ増したということは、そう的確に目に見えるものではない。<span type="ruby"><span type="rb">瀬田</span><span type="rp">（</span><span type="rt">せた</span><span type="rp">）</span></span>川に落ちる水の嵩が高くなったとか、岸辺の水がいくらばかり多く草を浸すようになったとかいうような事実は決して皆無とは申されませんが、「へご鉢の水がこんなに増した」というほど明確な印象を人の頭に与えはいたしません。ただ湖面を眺めた<span type="ruby"><span type="rb">刹那</span><span type="rp">（</span><span type="rt">せつな</span><span type="rp">）</span></span>の感じは雨が<span type="ruby"><span type="rb">濛々</span><span type="rp">（</span><span type="rt">もうもう</span><span type="rp">）</span></span>と降っておるとか、水が濁ったように見えるとかいう方がむしろ強くって、決して湖水の水嵩が高まったというような感じはそう強いものとは考えられません。あるいは去来が平生湖水の水嵩を熟知していて、ある湖辺の石垣のこの辺まで水が来るようになったのは湖の水が増したのだと、事実を的確に目撃してこの句を作ったのだ、というような解釈も下せぬことはありませんが、しかしそれはむしろ近代的の解釈でありまして、元禄の去来は、ただぼんやりと広漠たる湖上に眺め入って、同時に降り続くこのごろの五月雨のことに案じ入って、「こう降ってはこの湖水の水も増すであろう」と考え、そう思って見るともう湖面の水が一尺も二尺も膨れ上がっているように感じられ、その時去来は、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+湖の水まさりけり五月雨<lb />
+</span>
+<lb />
+というこの句を得たものであろう、とこう考えるのであります。私はへご鉢の水の増しておるのを見て無造作に「へご鉢の水まさりけり」と申しましたが、去来のは広大な湖水の趣や、降り続く五月雨の趣やにじっと案じ入って、去来の心が湖水のごとく広大に、また五月雨のごとく荘重に引き締められて、だいぶ心の上の<span type="ruby"><span type="rb">鋳冶</span><span type="rp">（</span><span type="rt">ちゅうや</span><span type="rp">）</span></span>を経てこの句はできたものと考えられるのであります。<lb />
+　この句は「じっと案じ入って」できた句とも、また「じっと眺め入って」できた句とも申されます。「じっと眺め入る」ということもやがては「じっと案じ入る」ということになるのであって、それを<span type="ruby"><span type="rb">截然</span><span type="rp">（</span><span type="rt">せつぜん</span><span type="rp">）</span></span>と切り離して考えるということはむしろできがたいというのが本当なのです。彼の<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+尾頭の心もとなき<span type="ruby"><span type="rb">海鼠</span><span type="rp">（</span><span type="rt">なまこ</span><span type="rp">）</span></span>かな　　去来<lb />
+</span>
+<lb />
+という句のごときも去来がじっと海鼠の形に眺め入って、いかにもどちらが頭やら尾やら判らぬ妙な形をしたものだと考えてこの句を作ったのでありますが、しかしいくら「じっと眺め入った」にしましても、去来のような落着いた沈んだ心の働きを有しておる人でなかったら、決してこういう重々しい調子の<span type="ruby"><span type="rb">滑稽</span><span type="rp">（</span><span type="rt">こっけい</span><span type="rp">）</span></span>句はできないだろうと思います。去来は「じっと物に眺め入りながら、じっと物に案じ入った」人で、この海鼠の句を作るにつけても必ず深く海鼠の趣に案じ入って、海鼠の趣を<span type="ruby"><span type="rb">丹田</span><span type="rp">（</span><span type="rt">たんでん</span><span type="rp">）</span></span>の下で考えて作ったものであろうと思います。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+秋風や白木の弓に<span type="ruby"><span type="rb">弦</span><span type="rp">（</span><span type="rt">つる</span><span type="rp">）</span></span>張らん　　去来<lb />
+</span>
+<lb />
+　この句意は、時候が秋になって、<span type="ruby"><span type="rb">蕭条</span><span type="rp">（</span><span type="rt">しょうじょう</span><span type="rp">）</span></span>たる秋風の吹くころ、いでや白木で何の装飾もしていない弓に弦を張ってみよう、とこういうのであります。この句こそ去来が深く深く秋風の趣に案じ入った句で、秋風の吹くころになると身も心も引き締まってくる、夏の間は茂っていた木の葉もやがてはこの風によって<span type="ruby"><span type="rb">凋落</span><span type="rp">（</span><span type="rt">ちょうらく</span><span type="rp">）</span></span>する、芭蕉の<span type="ruby"><span type="rb">梢</span><span type="rp">（</span><span type="rt">こずえ</span><span type="rp">）</span></span>に秋声を起こすのもこの風、すべて人生に寂滅の第一義を暗示するものはこの秋風である。人はこの秋の哀れに心を痛ませるが、しかしまた同時に春から夏にかけてだらけきっていた心身が驚かされたように引き締まってくる、去来はそこの趣に深く深く案じ入って、いでさらば我は白木の真弓に弦を張って今までのだらけ切った心を取り直し、久しく打ち捨てていた武士の心を取り戻そうというのであります。去来はもと武士であったのが、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+鴨なくや弓矢を棄てゝ十余年　　去来<lb />
+</span>
+<lb />
+というように家を弟にゆずって武士の道を棄てた人でありますから、自然こういう考えも浮かんだのでありましょう。なにゆえ白木の弓といったかというに、これも秋風そのものの性質からきた感じで、春風の<span type="ruby"><span type="rb">濃艶</span><span type="rp">（</span><span type="rt">のうえん</span><span type="rp">）</span></span>で赤や青やくさぐさの色を連想するのと反対に、秋風は白々として何の色もない感じがする、そこから同じ弓でも中で色も飾りもない白木の弓を取り出してきたのであります。「弦を張ろう」というのは心の緊張した有様をそのままに具体化せんとした言葉で、去来が深く深く案じ入った結果、秋風と去来の心と純一無二の境に立ち、その心持を何とかして現そうとしてこの「白木の弓に弦張らん」ということをもってシンボライズしたものであります。<lb />
+　私はぜひ諸君がこのへんまで歩を進めて句作されんことを希望するのであります。そういう私のごときもとかくここまでは歩が進まずに手近いところですます癖があっていけないのでありますが、しかしこころざしはこういう辺に存しています。<lb />
+　例によって私は何かある題についてこの案じ入って句作する自分の例証をご覧にいれなければならぬのでありますが、しかしこれはそう容易にできることではありませんから、この去来の秋風の句にちなみ、私の古い秋風の句のうちで比較的「案じ入った」句について自解を試み、責をふさぐことにいたしましょう。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+秋風や眼中のもの皆俳句<lb />
+</span>
+<lb />
+　これは当たり前だという人と、気取り過ぎているという人と両方があろうと思います。しかし私自身では忘れることのできぬある境地であります。明治三十六年松山に帰省したついでに近在の<span type="ruby"><span type="rb">荏原</span><span type="rp">（</span><span type="rt">えばら</span><span type="rp">）</span></span>村という所に遊びに行ったことがありました。その時はある田舎の寺で俳句会がありまして、秋風という題で句作しました。非常によく晴れたいい天気の日で、すぐ目前に<span type="ruby"><span type="rb">聳</span><span type="rp">（</span><span type="rt">そび</span><span type="rp">）</span></span>えている山の<span type="ruby"><span type="rb">皺</span><span type="rp">（</span><span type="rt">しわ</span><span type="rp">）</span></span>までが手に取るように見える日でありました。私は秋風という題に案じ入っているとその時、目の前のものがことごとく皆俳句であるような感じがしました。このときは物々が皆生きて、それが皆俳句そのものであるようなきわめて<span type="ruby"><span type="rb">玲瓏</span><span type="rp">（</span><span type="rt">れいろう</span><span type="rp">）</span></span>透徹な感じがして、とりあえずその心持を言い表したのが、この句であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+秋風やいつ迄逢はぬ<span type="ruby"><span type="rb">野路</span><span type="rp">（</span><span type="rt">のじ</span><span type="rp">）</span></span>二つ<lb />
+</span>
+<lb />
+　これは明治三十八年の句で、私は秋風というもののある趣に案じ入った時この句はできたのであります。ここにほとんど併行している野路が二つあって、それがしばらく行っても容易に<span type="ruby"><span type="rb">出逢</span><span type="rp">（</span><span type="rt">であ</span><span type="rp">）</span></span>わない、この二つの野路はいつまで逢わずにいるのであろう、とそういうところに秋風の趣が<span type="ruby"><span type="rb">見出</span><span type="rp">（</span><span type="rt">みいだ</span><span type="rp">）</span></span>されるのであります。その道とこの道、同じ方向に進んでおる二つの野路であるのに、それが容易に出逢いそうもない、ということは、かつて「二つの併行する直線は<span type="ruby"><span type="rb">無辺空際</span><span type="rp">（</span><span type="rt">むへんくうざい</span><span type="rp">）</span></span>まで行っても出逢わない」という話を聞いた時のように、その二つの野路がいつまで行っても出逢わぬという点に私の心はさびしく躍るのでありまして、それがまたあたかも秋風のある<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>し味としっくりとはまるのであります。こう解釈してゆくと<span type="ruby"><span type="rb">自讃</span><span type="rp">（</span><span type="rt">じさん</span><span type="rp">）</span></span>するように聞こえますが、ただ私のこの句をなすに至った道程だけをお話しいたすのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+秋風や酔を<span type="ruby"><span type="rb">為</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>さずに人<span type="ruby"><span type="rb">歓語</span><span type="rp">（</span><span type="rt">かんご</span><span type="rp">）</span></span><lb />
+</span>
+<lb />
+　この句以下は皆明治四十一年の句であります。酔を為して歓語するのは人間の常態でありますが、しかしいくら飲んでも酔えぬという時が往々にしてあるものであります。何か心に憂を蔵する時はいくら酔おうと思っても酔えないものであります。「酔を為さずに」というのはわざと酔を為さぬのではなく、酔を為そうとして為すことができないのであります。さて酔を為すことができながらもなお黙って沈んでいることをせずに愉快そうに話をしている、そのなまじいに沈んでおられずに愉快そうに話しておるところにある悲しい趣を見出すのであります。それが蕭条としてなおどこかに明るいところのある秋風と共通の感じを持っておるのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生涯に二度ある悔や秋の風<lb />
+</span>
+<lb />
+　あることについていたく後悔をした時に、ああこの後悔はすでに若い時に一度やったことのあるものであって、これで生涯に二度あることになった、とそういう感じを起すところに秋風の趣を見出したのであります。反言すれば秋風の趣に案じ入っているうちにこの人事に想到したのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+我が身に<span type="ruby"><span type="rb">腸</span><span type="rp">（</span><span type="rt">はらわた</span><span type="rp">）</span></span>無しや秋の風<lb />
+</span>
+<lb />
+　ふと考えてみると何だか自分の体は腸がないがらん洞のような感じがする、というのであります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+勝ちほこる心の<span type="ruby"><span type="rb">罅</span><span type="rp">（</span><span type="rt">ひび</span><span type="rp">）</span></span>や秋の風<lb />
+</span>
+<lb />
+　私は今まで幾度か他に対する自分の勝利を<span type="ruby"><span type="rb">謳歌</span><span type="rp">（</span><span type="rt">おうか</span><span type="rp">）</span></span>しました。しかし勝ち誇るその瞬間の心にはもう罅が入っています。私は秋風の趣をたずねてまたこういうことに想到したのであります。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi500">五　埋字（一）</span></span></span>
+<lb />
+<lb />
+　かりそめにも俳句を作る以上は古人のやらなかった境地に足を踏み入れなければ駄目だ、とこういう議論に私は反対いたしません。けれどもそれは初めただ一生懸命にやっているうちに、自分も予測しなかったほど心眼が明らかになってきて、今までほとんど意識せずにやってきたことがすでに古人の<span type="ruby"><span type="rb">範疇</span><span type="rp">（</span><span type="rt">はんちゅう</span><span type="rp">）</span></span>を脱して、一境地をひらいておったというようなのがいいのでありまして、<span type="ruby"><span type="rb">鈍根</span><span type="rp">（</span><span type="rt">どんこん</span><span type="rp">）</span></span>はいくらやるつもりでかかって何もできないで終るのであります。そうでありますから決して初めから大望を起こさずに、藤吉郎時代には必ずしも<span type="ruby"><span type="rb">太閤</span><span type="rp">（</span><span type="rt">たいこう</span><span type="rp">）</span></span>様になる気ではなかったと同じように、おもむろに気永く修業する覚悟でやることが大切だと私は考えます。早く一機軸を出そうなどとしてあせることや、強いて人目に立つような新しい試みをしようとしたりすることが、決して本当の新境地をひらくゆえんではありません。急がず騒がず大道を歩いてゆく心がけが肝要であります。<lb />
+　だと申してまた、<span type="ruby"><span type="rb">弛緩</span><span type="rp">（</span><span type="rt">しかん</span><span type="rp">）</span></span>した心でいて、俳句は古くてもいいのだ、どうでも十七字さえ並べておれば進歩しなくてもいいのだというような<span type="ruby"><span type="rb">暢気</span><span type="rp">（</span><span type="rt">のんき</span><span type="rp">）</span></span>過ぎた心持でいても困ったものであります。そういう心持でいては古人のやらなかった境地に足を踏み入れるどころか、とても句に興味を見出すことすらできないだろうと思います。ただ前条に私の申したことは、そういう弛緩した心持でいよというのではなく、はじめから個人性の発揮されたものでなけりゃならぬとか、<span type="ruby"><span type="rb">斬新</span><span type="rp">（</span><span type="rt">ざんしん</span><span type="rp">）</span></span>なものでなけりゃならぬとか、そういう無理な注文をして奇怪な句を作るようなことをせず、おもむろに、確実に、その人相応の力をこめて、沈着な心持で、急がず騒がず勉強することをすすめるのであります。そうすれば個人性は出すまいとしても自然に出ます。清新な句ももとめずともできます。ゆめゆめ近道をしようとして<span type="ruby"><span type="rb">荊棘</span><span type="rp">（</span><span type="rt">けいきょく</span><span type="rp">）</span></span>にひっかかることをしてはなりません。私が卑近な平易な句作法をお話しいたしたことは、<span type="ruby"><span type="rb">晦渋</span><span type="rp">（</span><span type="rt">かいじゅう</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">迂遠</span><span type="rp">（</span><span type="rt">うえん</span><span type="rp">）</span></span>な俳論をして諸君を一夜作りの大家にするよりも、諸君の良友をもって自らを任じておるゆえんだと考えるのであります。<lb />
+<lb />
+　<span type="ruby"><span type="rb">三河島村</span><span type="rp">（</span><span type="rt">みかわしまむら</span><span type="rp">）</span></span>には三河島菜が土をはみ出しています。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+木枯に三河島菜の葉張りかな　　子規<lb />
+</span>
+<lb />
+という句はその光景を写生したものであります。その菜畑の間の迂曲した道を歩いていますと、茶の花が咲いている広い庭をもった百姓家が何軒かあります。その百姓家の前を通り抜けるとあまり大きくない枯木の森があります。その森にはいった時でした、<lb />
+「清さん。」<lb />
+と子規<span type="ruby"><span type="rb">居士</span><span type="rp">（</span><span type="rt">こじ</span><span type="rp">）</span></span>は振りかえりました。<lb />
+「何ぞな。」と私は居士の顔を見つめました。今までは写生句を作ることが唯一の目的で、二人は手帳を出してはできた句を書きつけ書きつけしてほとんど無言で歩いておったのであります。<lb />
+『<span type="ruby"><span type="rb">鍋</span><span type="rp">（</span><span type="rt">なべ</span><span type="rp">）</span></span>提げて』という上五字があるとしてその下に十二字をくっつけてごらん。どうでもいいから、冬の季でも春の季でもかまわん。まあ作ってごらん。<lb />
+　私は何故に突然そういうことを子規居士が言い出したかということに疑問を抱きながらも、そのすすめに従っていろいろと考えてみました。『鍋提げて』ということは随分格段な場合であります。鍋ながら座敷に御<span type="ruby"><span type="rb">馳走</span><span type="rp">（</span><span type="rt">ちそう</span><span type="rp">）</span></span>を持ってゆくとか、鍋を洗いに裏の井戸端に行くとかいう場面を考えてみましたが、いろいろ考えて句にならぬ末、ふと最前から目についていた、向こうの田に<span type="ruby"><span type="rb">田螺</span><span type="rp">（</span><span type="rt">たにし</span><span type="rp">）</span></span>を掘っているのであろう、二、三人の女が泥の中に足を突っ込んで腰をかがめている、その光景とその事情とが何だか離すことのできない一つの事実のように考えられて、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+鍋提げて田螺掘るなり町外れ<lb />
+</span>
+<lb />
+とこういう句を作って居士に話しますと、何故そういう注文をしたかということについて居士は説明しました。居士は手帳の他に手に一冊の古俳書を持っておりました。それはたしか<span type="ruby"><span type="rb">闌更</span><span type="rp">（</span><span type="rt">らんこう</span><span type="rp">）</span></span>の句であったかと記憶します。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+鍋提げて<span type="ruby"><span type="rb">淀</span><span type="rp">（</span><span type="rt">よど</span><span type="rp">）</span></span>の小僧を雪の人<lb />
+</span>
+<lb />
+　居士はこの句を示しまして、<lb />
+「その初めの五字を取った『鍋提げて』なんかちょっと思いもよらん言葉のように思われるけれど、こういうふうに句になるところをみるとそう不自然にも思われん。この句はおおかた写生句だろうと思う。実際淀の小橋を鍋提げて通りつつあったのを見て作ったものであろう。けれどもその初五字の『鍋提げて』だけを抜き出してきてみると、ちょっと尋常でない言葉のように思える。お前の句にしたところで、『田螺掘るなり町外れ』だけでは平凡だが、その前に『鍋提げて』と置いてあるためちょっと変わった句になっておる」<lb />
+　こんなことを話して居士は笑いました。私もこのことに興味を覚えて、それからつづけさまに、写生のことはそっちのけにして、その日はこの種の句作のみに<span type="ruby"><span type="rb">耽</span><span type="rp">（</span><span type="rt">ふけ</span><span type="rp">）</span></span>りました。あるいは上五字と下五字とを聞いて中七字を案じたり、上十二字を聞いて下五字を案じたり、下十二字を聞いて上五字を案じたりしました。それは多くの場合けっして原句よりもいい句はできませんでしたが、それでもとても普通の句作では思いもつかぬ意外な言葉を見出したり、また意外な辺に考えが飛んだりして、句作の修練の上には得るところが多ございました。ことに古人の、句を作る上に決して一言半句をもいやしくもしていないということが、それらによっても証明されました。もし古人の措辞が十分の<span type="ruby"><span type="rb">推敲</span><span type="rp">（</span><span type="rt">すいこう</span><span type="rp">）</span></span>を経ていないものであったら、中には古人の句よりもいい句ができる場合もありそうなものでありますが、それはほとんど絶無であったのであります。たとえば、<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大名をとめて○○○の月夜かな<lb />
+</span>
+　この欠字になっているところになんでもいいから植物の名前で埋めてみよ、ということであって、私はいろいろの植物をもってきましたが、居士は、どうしても大名らしいという点から原句に及ばぬ、もっと考えてみよ、といって承知しませんでした。そうして私の言ったうちでは比較的「<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ぼたん</span><span type="rp">）</span></span>」「<span type="ruby"><span type="rb">芭蕉</span><span type="rp">（</span><span type="rt">ばしょう</span><span type="rp">）</span></span>」などがその感じに近いところがあると言いました。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大名をとめて牡丹の月夜かな<lb />
+大名をとめて芭蕉の月夜かな<lb />
+</span>
+<lb />
+　それからもう一歩一歩と大名にふさわしい植物を尋ねて行きましたが、どうしても考えがつきませんでした。とうとう最後にそれは「<span type="ruby"><span type="rb">蘇鉄</span><span type="rp">（</span><span type="rt">そてつ</span><span type="rp">）</span></span>」であると聞いた時になるほど蘇鉄でなけりゃならぬ、たしかにそれは動かぬところである、とつくづく感心したことでありました。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大名をとめて蘇鉄の月夜かな　　<span type="ruby"><span type="rb">田福</span><span type="rp">（</span><span type="rt">でんぷく</span><span type="rp">）</span></span><lb />
+</span>
+<lb />
+　蘇鉄は厳として<span type="ruby"><span type="rb">磐石</span><span type="rp">（</span><span type="rt">ばんじゃく</span><span type="rp">）</span></span>の如く動きません。<lb />
+　私は今回は以上のべたような句作法によって、句作法というよりはこういう研究法を積んで、古句の意味、あるいはその作句上の苦心のあとを十分にさぐり、それを自分の句作に応用することをおすすめするのであります。またそれが、前の『鍋提げて』の句の如く、上五字を借用するに過ぎないというような場合にあっては、――全然その意味を脱化さえすれば――その句は自己の句として記録に残しておいてもさしつかえないと考えるのであります。これはちょうど我等が初めて漢詩を作る時分に<span type="ruby"><span type="rb">詩語粋金</span><span type="rp">（</span><span type="rt">しごすいきん</span><span type="rp">）</span></span>というような本をみたり、和歌を作る時分に「<span type="ruby"><span type="rb">麓</span><span type="rp">（</span><span type="rt">ふもと</span><span type="rp">）</span></span>の塵」というような本を見たりして、文字を拾ってくるのと類似したやり口ともいえますが、ただ死語を並べて表面だけその形になればたくさんだという堕落時代の漢詩や和歌の真似をしろというのではありません。そういうふうに考えては大変な間違いになります。思想、内容はもちろんその人特有のものでなけりゃなりません。ただ<span rend="futoji">その借用し来るところの五字が、その作者の思想を暗やみから明るみに引出してくる動機になればいいのであります。いま少し詳しくいえば、そこに外物の刺激を受けない限りは、重く下に沈んでいて、ほとんど死んでしまっていて、無に等しいところの思想が、その借用した五字の刺激によって、そろそろと微動を試み始め、ついには<span type="ruby"><span type="rb">溌剌</span><span type="rp">（</span><span type="rt">はつらつ</span><span type="rp">）</span></span>として生動し来るのであります。</span><lb />
+　私はここに左の問題を出しておきますから、志のある人はこれに応じてめいめいの作を寄せてごらんになったらよかろうと思います。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の○○○○○○○暑さかな<lb />
+</span>
+<lb />
+　右の句の中七字を埋めること。たとえ原句を知りおる人も原句と違う文字を埋めてみるべし。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道○○○○○より続きけり<lb />
+</span>
+<lb />
+　右の句の欠字を埋めること。注意前句と同様。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生きて世に…………………<lb />
+</span>
+<lb />
+　右上五字として、その他は自由に句作すべし。注意前句と同様。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi600">六　埋字（二）</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の○○○○○○○暑さかな<lb />
+</span>
+<lb />
+　この句の中七字を埋めることについて六十余通の答案を得ましたから、それについていささかお話しいたしてみようと思います。<lb />
+　まず一番に多いのは「登る」とか「<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ふ」とかいうような蟻の単純な運動を表した句で、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の石垣のぼる暑さかな　　天涯<lb />
+ゝゝゝ張り板登るゝゝゝゝ　　白峰<lb />
+ゝゝゝ銀杏に登るゝゝゝゝ　　紫牛<lb />
+ゝゝゝ枯木に登るゝゝゝゝ　　楽山<lb />
+ゝゝゝ庭木に登るゝゝゝゝ　　寒江<lb />
+ゝゝゝ<span type="ruby"><span type="rb">脛</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>這ひ登るゝゝゝゝ　　千岳<lb />
+ゝゝゝ<span type="ruby"><span type="rb">白塔</span><span type="rp">（</span><span type="rt">はくとう</span><span type="rp">）</span></span>よづるゝゝゝゝ　　芙峰<lb />
+ゝゝゝ穴に這ひ行くゝゝゝゝ　　痴朗<lb />
+ゝゝゝ石垣を這ふゝゝゝゝ　　その女<lb />
+ゝゝゝ<span type="ruby"><span type="rb">甍</span><span type="rp">（</span><span type="rt">いらか</span><span type="rp">）</span></span>這ひ居るゝゝゝゝ　佛座草<lb />
+ゝゝゝ廃寺歩むゝゝゝゝ　　重太郎<lb />
+ゝゝゝ飛石歩むゝゝゝゝ　　巨雨<lb />
+ゝゝゝ壁這ひまはるゝゝゝゝ　　菫雨<lb />
+ゝゝゝ河原を渡るゝゝゝゝ　　半閑<lb />
+ゝゝゝ砂山たどるゝゝゝゝ　　呑天<lb />
+ゝゝゝ岩陰伝ふゝゝゝゝ　　露新<lb />
+ゝゝゝ庭をうろつくゝゝゝゝ　　正光<lb />
+ゝゝゝ垣根<span type="ruby"><span type="rb">往</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>き来すゝゝゝゝ　　呂柏<lb />
+ゝゝゝ塔を上下すゝゝゝゝ　　弓山<lb />
+ゝゝゝ二階を襲ふゝゝゝゝ　　利吉<lb />
+ゝゝゝ集まりてゐるゝゝゝゝ　　蛤涯生<lb />
+ゝゝゝ行列つくるゝゝゝゝ　　松月<lb />
+</span>
+<lb />
+の<span type="ruby"><span type="rb">類</span><span type="rp">（</span><span type="rt">たぐい</span><span type="rp">）</span></span>であります。原句もやはりこの種類に属するものではありますが、いささか異なっているところがあります。それはあとでのべます。<lb />
+　次に多いのは蟻の食物を引くこと、巣を作ること、戦うことなどを叙したものでありまして、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の餌を運び行く暑さかな　　昌東<lb />
+ゝゝゝ<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">とんぼ</span><span type="rp">）</span></span>引き行くゝゝゝゝ　　青楓<lb />
+ゝゝゝ<span type="ruby"><span type="rb">蚯蚓</span><span type="rp">（</span><span type="rt">みみず</span><span type="rp">）</span></span>引き行くゝゝゝゝ　　佳村<lb />
+ゝゝゝ毛虫引き行くゝゝゝゝ　　迂作<lb />
+ゝゝゝ<span type="ruby"><span type="rb">死蝉</span><span type="rp">（</span><span type="rt">しにせみ</span><span type="rp">）</span></span>を引くゝゝゝゝ　　梅堂<lb />
+ゝゝゝ地虫曳き去るゝゝゝゝ　　百合王<lb />
+ゝゝゝ<span type="ruby"><span type="rb">傷蝉</span><span type="rp">（</span><span type="rt">きずぜみ</span><span type="rp">）</span></span>あさるゝゝゝゝ　　政女<lb />
+ゝゝゝ菓子引く様のゝゝゝゝ　　清<lb />
+ゝゝゝ虫引く<span type="ruby"><span type="rb">路次</span><span type="rp">（</span><span type="rt">ろじ</span><span type="rp">）</span></span>のゝゝゝゝ　　尖子<lb />
+ゝゝゝ木の芽喰ひ居るゝゝゝゝ　　一太郎<lb />
+ゝゝゝ蚯蚓にたかるゝゝゝゝ　　江東生<lb />
+ゝゝゝ<span type="ruby"><span type="rb">大餌</span><span type="rp">（</span><span type="rt">おおえ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">群</span><span type="rp">（</span><span type="rt">むれ</span><span type="rp">）</span></span>るゝゝゝゝ　　伴月<lb />
+ゝゝゝ瓜に<span type="ruby"><span type="rb">群</span><span type="rp">（</span><span type="rt">むらが</span><span type="rp">）</span></span>るゝゝゝゝ　　啓生<lb />
+ゝゝゝ粒さし上げてゝゝゝゝ　　香雨生<lb />
+ゝゝゝ群れて働くゝゝゝゝ　　十芽生<lb />
+ゝゝゝ友呼びに行くゝゝゝゝ　　鬼門堂<lb />
+ゝゝゝ<span type="ruby"><span type="rb">土塊</span><span type="rp">（</span><span type="rt">つちくれ</span><span type="rp">）</span></span>運ぶゝゝゝゝ　　行々子<lb />
+ゝゝゝ群れて戦ふゝゝゝゝ　　鋸山<lb />
+ゝゝゝ<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">たたかい</span><span type="rp">）</span></span>二合のゝゝゝゝ　　牧人<lb />
+ゝゝゝ斥候忙しゝゝゝゝ　　蘆子<lb />
+ゝゝゝ<span type="ruby"><span type="rb">骸</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>運ばざるゝゝゝゝ　　享夫<lb />
+</span>
+<lb />
+の類であります。次に多いのは「暑さ」という字に特に重きをおいた句であります。いままでの句でも暑さを閑却しているわけではありませんが、その蟻の行動や勤労の有様をそのままに叙して、ただそれが暑い<span type="ruby"><span type="rb">日向</span><span type="rp">（</span><span type="rt">ひなた</span><span type="rp">）</span></span>の光景であるために「暑さかな」と言ったのに過ぎないという程度のものでありますが、次にのべるところのものは<span rend="futoji">暑いために</span>蟻がこうしたというような、暑さに重きをおいた着想になっています。すなわち、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の草にかくれし暑さかな　　秋光<lb />
+ゝゝゝ道も絶えたるゝゝゝゝ　　陽洲<lb />
+ゝゝゝ地べた急げるゝゝゝゝ　　一水<lb />
+ゝゝゝ<span type="ruby"><span type="rb">草鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span>に眠るゝゝゝゝ　　吟波<lb />
+ゝゝゝ野路に遅々たるゝゝゝゝ　　敝逸<lb />
+ゝゝゝ黒く痩せたるゝゝゝゝ　　柳渓<lb />
+ゝゝゝ石に噛みつくゝゝゝゝ　　思桂<lb />
+ゝゝゝ糧道遠きゝゝゝゝ　　松渓<lb />
+ゝゝゝ土手に思案のゝゝゝゝ　　夢憧<lb />
+ゝゝゝ日陰をたどるゝゝゝゝ　　南湖<lb />
+ゝゝゝ木陰にはひるゝゝゝゝ　　壽満子<lb />
+ゝゝゝ梧桐をめざすゝゝゝゝ　　楓紅女<lb />
+ゝゝゝ穴にかけ込むゝゝゝゝ　　藤尾<lb />
+</span>
+<lb />
+の類でありまして、蟻そのものの感じというよりも人間が蟻になり代わった感じになっています。<lb />
+　たいがいのものは以上三類中にはいってしまいましたが、ここにはその三類中に入れることのできぬものを少し残しました。それは、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の呪文雲呼ぶ暑さかな　　時綱<lb />
+ゝゝゝつく<span type="ruby"><span type="rb">脂</span><span type="rp">（</span><span type="rt">やに</span><span type="rp">）</span></span>に松の暑さかな　　神櫻<lb />
+ゝゝゝ泉にもがく暑さかな　　喜笛<lb />
+</span>
+<lb />
+の三句であります。<lb />
+「呪文雲呼ぶ」というのはどういうことを言ったのでしょう。修行者などが呪文を唱えて<span type="ruby"><span type="rb">雨乞</span><span type="rp">（</span><span type="rt">あまごい</span><span type="rp">）</span></span>をしているそばを大蟻が<span type="ruby"><span type="rb">這</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>っているものとしては句法がそれらしくありませんし、また句法に従って大蟻が呪文を唱えて雲を呼ぶものとしては少し突飛すぎるので、この句の意味は私には判らないのであります。<lb />
+「つく脂に松の」という句は、「大蟻の」という上五字と「暑さかな」という下五字とを直接の意味に結びつけなかった点に技巧を認めます。すなわち今までの句はおおかた、大蟻がどうかして暑さかな、というふうに「大蟻」を主格として取り扱ったのですが、この句は「松」を主格として、大蟻がその脂につくところの松の暑さかな、というふうに叙したのであります。上五字下五字等の制限なく自由に一句を作るという場合には、こういう句法もあえて珍しいというのではありませんが、上五字下五字を制限され、ただ中七字を埋める場合にかかる句法を試みたということは、働きの点に価値を認めなければなりません。<lb />
+「泉にもがく」は、蟻が泉の中に落ちてもがいているというのに過ぎないのでありますが、この場合の「暑さかな」は今まで挙げた句の「暑さかな」とは少し心持の違ったところがあります。今までのは正面から文字の意味どおりに、むしろ拘泥し過ぎて取扱っていますが、この句は必ずしも文字の意味に拘泥せずに、やや<span type="ruby"><span type="rb">無頓着</span><span type="rp">（</span><span type="rt">むとんじゃく</span><span type="rp">）</span></span>に取扱っている傾きがあります。すなわち泉に蟻の落ちてもがいているということに水の<span type="ruby"><span type="rb">清冽</span><span type="rp">（</span><span type="rt">せいれつ</span><span type="rp">）</span></span>、樹陰の近さ等を連想せしめて、むしろ涼しさに属する光景なのでありますが、この句はそれに頓着なく「暑さかな」としています。そうしていったん「暑さかな」とされてみるとなるほど「暑さかな」でもさしつかえない、暑い日の照りつけている辺りに人が立って水上に蟻が落ちてもがいているのを見ている、そういう場合ならばよい、一方に清冽の泉を認めても、他方にやはり暑さの感じがある以上、下五に「暑さかな」とおくことに不都合はない、とそういうふうに感じてくるようになります。季題の取扱上にこういうことは必要なことであります。<lb />
+　さてここに私は、なお左記の数句を取り残しました。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の座敷に上る暑さかな　　正雄<lb />
+ゝゝゝ座敷に上るゝゝゝゝ　　無楽<lb />
+ゝゝゝ座敷に上るゝゝゝゝ　　今更<lb />
+ゝゝゝ畳に登るゝゝゝゝ　　機明<lb />
+</span>
+<lb />
+今までの句に似寄ったのはたくさんありましたが同一のものがこの「座敷に上る」に至って初めて現れました。さてこれらの句は一番初めにあげた「登る」とか「這ふ」とかいう句と同一分類に属すべきものでありまして、もちろんその中に混ずべきでありましたが、それを特に取り残したというのはほかでもありません。ただ原句にもっとも近いがためなのであります。すなわち原句は、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の畳をありく暑さかな　　士朗<lb />
+</span>
+<lb />
+というのであります。「何だそんな句か」と読者は定めてご失望でありましょう。すなわち読者のお考えと大した相違がないということは原作者にとってあまり名誉なことと考えられませんが、しかしそれでもなおこの句のうちに特に認めねばならぬ点がありますから、それをのべていささか原作者の面目を保たしめようと思います。<lb />
+「畳」という字も「歩」という字もともに諸君の答案のうちにありました。その二字とも別に珍しい字ではありませんでした。しかし、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の飛石歩む暑さかな<lb />
+</span>
+<lb />
+にくらべて原句はどういう点に特色がありましょうか。飛石の上を蟻が歩いているということは蟻としては当然歩むべきところを歩いているので、それが大蟻であったにしても格別驚くに足りませんが、畳の上を歩いているというに至って――その歩くべからざるところを歩いているという点において――初めて強い印象を受けるのであります。ことにそれが普通の蟻であったならばそれほどに驚かれるわけでもないのでありますが、それが大蟻であるところからいかにも印象が強い、そこが看過することのできない点であります。次にまた、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の畳に登る暑さかな<lb />
+</span>
+<lb />
+にくらべてどうかというと、事実は同じことでありながら、「畳に登る」という方はただ畳に上ったということを概括的に叙したのにすぎないのでありますが、原句の方は一匹の大蟻ががさがさと畳の上を歩いているところがはっきりと目の前に見えるように描かれてあります。しかも「這へる」といわずに「ありく」と言ったところに、畳の上を人間が歩くように大蟻が歩いているという――いかにも蟻が大きく感じられる――心持が適切に出ております。<lb />
+　こう解釈してくるときわめて類似したような句でありながらやはり原句には原句相当の価値があるものと申さねばなりません。また仮にも今日に伝わっている古人の句にはそれだけの緊密な用意のあることもこれによってだいたいうかがわれることと思います。<lb />
+　しかしそう申したところで何も古人ばかりを尊重するわけではありません。以上列挙した諸君の句のうちにもかなりの好句はないことはありません。たとえば、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の張板のぼる暑さかな　　白峰<lb />
+</span>
+<lb />
+は、張板を下からがさがさと瞬く間に大蟻の這い上る光景を見つけたところいささか他より一頭地を抜いているかと思われます。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の<span type="ruby"><span type="rb">甍</span><span type="rp">（</span><span type="rt">いらか</span><span type="rp">）</span></span>這ひ居る暑さかな　　佛座草<lb />
+</span>
+<lb />
+も、二階から下の屋根を見たような場合で、屋根に大蟻を見つけたところに手柄があります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の二階を襲ふ暑さかな　　利吉<lb />
+</span>
+<lb />
+も前句とともに原句以上の高所を見つけたもので、しかも、まさかここまではあの大蟻も来まいと思っていたのに上って来た、というようなその蟻に恐れをなした点に手柄があります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+大蟻の粒さし上げて暑さかな　　香雨生<lb />
+</span>
+<lb />
+「粒さし上げて」というのは「粒」だけでは言葉が不完全でありますが、観察がやや細に入りたるところを取り柄とします。その他「つく脂に松の」「泉にもがく」二句の、句としては好句というのでないが部分的に認めるべき点のあることは前にのべた通りであります。<lb />
+<lb />
+　次に、<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道○○○○○○○続きけり<lb />
+</span>
+という中七字を埋めることにつき諸君から寄せられた答案はたくさんありますが、その全答案の十分の九までは、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道縁の下より続きけり　　林一太郎<lb />
+蟻の道垣の隙より続きけり　　仁東生<lb />
+</span>
+<lb />
+の類でその<span rend="futoji">蟻の道の始まっている場所を指定した</span>ものであります。ただその中でも右の「縁の下」「垣の隙」というような穏当なものと、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道隣り村より続きけり　　百谷王<lb />
+蟻の道地蔵の腹より続きけり　　行々子<lb />
+</span>
+<lb />
+というようなやや奇抜なものとの区別はありますが、右の蟻の道の始まっている場所を指定したことには変わりはないのであります。このやや奇抜なという方は後になって別に述べることにいたします。なぜかというと、原作者の句がやはり同じ傾向を持ったものでありますから。<lb />
+　その残るところの十分の一のうちには、<span rend="futoji">始まっている場所と終わっている場所</span>との両方を指定したものがあります。これはわずかに左の二句であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道塔より墓地に続きけり　　楽山<lb />
+蟻の道本堂まで<span type="ruby"><span type="rb">厨</span><span type="rp">（</span><span type="rt">くりや</span><span type="rp">）</span></span>より続きけり　　その女<lb />
+</span>
+<lb />
+「五重の塔より」とか「塔の下より」とかいうのは沢山ありましたが、「塔より墓地に」というのはこの一句ばかりでありました。蟻の道というと「おやここから始まっているのだ」とその始発点を<span type="ruby"><span type="rb">見出</span><span type="rp">（</span><span type="rt">みいだ</span><span type="rp">）</span></span>して興がるのが普通のことであります。のみならずこの句全体の調子からしても、またわずかに七字を埋めるに過ぎないというところからしても、誰も終わっている場所までは見届けようとしなかったのでありましょうが、ひとりこの二作者は始終両場所を指定せねば満足しなかったところに多少の興味があります。ことにその女の句の方は終点を先に言って始点を後に言っているところにおかしみがあります。とはいえ、それが必ずしも句として<span type="ruby"><span type="rb">勝</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>れているというのではありません。後にいうつもりですが、蟻の道の長いということを表すのを目的とする場合にはむしろ、両者を描かずに、単に始点のみを描いておいて、終点は明示しない方がその目的にそうものと思われます。ここにはただ答案中に類例の少ない始終両点を指定しているという点にのみ興味をもって特に挙示したものであります。<lb />
+　その残余の十分の一のうちにはこういうのがあります、それはやはり開始点のみを描いていることは多くの答案と同一なのでありますが、ただそれが場所の指示ということの上に<span rend="futoji">その蟻の道の続いている<span type="ruby"><span type="rb">所以</span><span type="rp">（</span><span type="rt">ゆえん</span><span type="rp">）</span></span>をも考え</span>ねば不満足であった点に興味があるのであります。その一、二を挙げますと、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道なしの種より続きけり　小濱清<lb />
+蟻の道西瓜皮から続きけり　　弓山<lb />
+蟻の道蝉の殻より続きけり　　痴朗<lb />
+蟻の道蛾の<span type="ruby"><span type="rb">骸</span><span type="rp">（</span><span type="rt">むくろ</span><span type="rp">）</span></span>より続きけり　　吟波<lb />
+</span>
+<lb />
+の<span type="ruby"><span type="rb">類</span><span type="rp">（</span><span type="rt">たぐい</span><span type="rp">）</span></span>であります。すなわちその始まっている場所を指定している上に、それはそのものを<span type="ruby"><span type="rb">曳</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>くための道だということを説明しているのであります。<lb />
+　さて前にも申しました通り、原句はどうかと申しますと、やはりご多分に<span type="ruby"><span type="rb">洩</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>れず単にその<span rend="futoji">始まっている場所を指示</span>した分類に属すべきものなのでありますが、それがやや群俗を抜いて<span type="ruby"><span type="rb">奇峭</span><span type="rp">（</span><span type="rt">きしょう</span><span type="rp">）</span></span>である点に特色があります。<lb />
+　私は先にやや奇抜なものとして「隣り村より」と「地蔵の腹より」とを挙げました。「地蔵の腹」の方は単に奇なことを言ったというのに過ぎないのでありますが、「隣り村」の方は距離の遠方ということに着眼した点を閑却することはできません。蟻の道というと、普通に長く続いていることを想像します。ことに「蟻の道○○○○○○○続きけり」とあると、どうしてもこの蟻の道は短いものとは想像されないのであります。そこで距離をいうことに着眼してくるとただに「塀の下」「縁の下」では不満足になってきて、「塔の下より」とか、「鳥居の屋根より」とかいうふうに高い所を見つけたり、「<span type="ruby"><span type="rb">要塞</span><span type="rp">（</span><span type="rt">ようさい</span><span type="rp">）</span></span>門より」とか、「前の家より」とか、「城の<span type="ruby"><span type="rb">址</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span>より」とか、「<span type="ruby"><span type="rb">阿房宮</span><span type="rp">（</span><span type="rt">あぼうきゅう</span><span type="rp">）</span></span>より」とか、「隣り村より」とか、「吉田口より」とかいうふうにだんだん遠方から始まっていることを言おうとするのであります。その心持をもっとも正直に抽象的に言ったのに、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道先の先より続きけり　　鬼門堂<lb />
+</span>
+<lb />
+というのがあります。これは<span rend="futoji">開始点を限定しないで</span>、どこまで尋ねていってみても際限もなく先の先があるのを言ったのでありまして、その点にはたしかに一特色がありますが、こういうふうに抽象的にいうことはいくらそれが適切であっても存外力の弱いものであります。それはこの句と原句とを対照すればもっとも明白にそこの消息を解することができます。<lb />
+　同じく距離を言って、ほとんど原句の腹中に踏み込んでいるものにこういう句があります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道暑き空より続きけり　　松月<lb />
+</span>
+<lb />
+　これは「塀の下」とか「隣り村」とかそういうふうに場所に拘泥せずに、また「先の先」というふうに抽象的の説明に<span type="ruby"><span type="rb">堕</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ちず、ずっと遠方からということを大胆に暑き空よりと言ったのであります。事実から言ったら蟻の道が空から続くわけはありません。けれど遠方ということを極端に表すために「空より」と言ったところに作者の大胆な着想を歓迎せねばなりません。こういうところに句作者としての格段の用意を要することも少なからざるものがあります。<lb />
+　さて原句はと申しますと、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+蟻の道雲の峰より続きけり　　一茶<lb />
+</span>
+<lb />
+というのであります。前句と同じく、極端に遠方からということを具体的にしかも大胆に表すために雲の峰からと言ったのであります。この大胆な叙法が「塀の下」や「先の先」より数段優れていることは前句の解釈の時と同様であります。さて前句とこの原句との優劣論を申しますと、着想はほとんど同一ともいうべきものでその点においては前句の作者の手腕を認めなければなりませんが、ただ残念なことに前句の作者はまだ叙法の上に原作者に対して<span type="ruby"><span type="rb">遥</span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>かに<span type="ruby"><span type="rb">遜色</span><span type="rp">（</span><span type="rt">そんしょく</span><span type="rp">）</span></span>があることを自認せねばなりません。同じく遠方からということを極端に表すとしましても「空より」というのと「雲の峰より」というのとはそこに具体的に頭に印象する力からいって遥かに相違があるのであります。「空より」というと「先の先より」というよりも具体的であることは前に申した通りでありますが、しかもあの白く実際の山のような形をしている雲の峰に比べますと、まだ遥かに抽象的なところがあることを拒むことはできません。蟻の道が空から続くということはちょっと想像しにくいことでありますが、雲の峰から続くということは一種の絵図としても受け取れないこととは考えられないのであります。<lb />
+　次に、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生きて世に○○○○○○○○○○○○<lb />
+</span>
+<lb />
+　この数字を埋めることについて諸君の答案を要求しましたのは、諸君がこの「生きて世に」という初五字をどう解釈されるか、すなわちやや複雑なこの初五字をどれだけ巧みに使用されるか、を見たいがためでありました。<lb />
+　まずこの「生きて世に」というのを人間とするのと動植物とするのとの二通りがありました。一、二の例をいうと、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生きて世に蛙となれよ蛙の子　　陽州<lb />
+生きて世に何をたよりの<span type="ruby"><span type="rb">海鼠</span><span type="rp">（</span><span type="rt">なまこ</span><span type="rp">）</span></span>かな　　鋸山<lb />
+生きて世になかなか悲し荒地菊　　その女<lb />
+</span>
+<lb />
+の類でこれらは動植物としたのであります。「世の中にかく生存しておれば」という意味からいえばこれらの句も一応意味は通じるのであります。<lb />
+　しかし動植物としたのはきわめて少数であってたいがいは人間としての作句でありました。<lb />
+「生きて世に」という以上、それが人間と解することはまずその方を穏当の見解とせねばなりません。<lb />
+　さて人間としての解釈に立脚した句のうちにも、「生きて」という字をはぶいて、単に「世に」として差し支えないような句が多うございました。その一、二の例をいうと、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生きて世に<span type="ruby"><span type="rb">接木</span><span type="rp">（</span><span type="rt">つぎき</span><span type="rp">）</span></span>上手とほめられき　　紫牛<lb />
+生きて世に女ならばや京の春　　亨夫<lb />
+</span>
+<lb />
+の類であります。これらは「生きて」というのが必ずしも無用というほどに<span type="ruby"><span type="rb">贅沢</span><span type="rp">（</span><span type="rt">ぜいたく</span><span type="rp">）</span></span>となってもおりませんが、しかし、「生きて」という字が活躍して十二分の働きをしておるとは申されません。<lb />
+　それらにくらべると、「生き<span type="ruby"><span type="rb">甲斐</span><span type="rp">（</span><span type="rt">がい</span><span type="rp">）</span></span>」というようなことに着眼した句は多少「生きて」という字を活用したとも申されます。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生きて世に案山子に似たる守衛かな　　呑天<lb />
+生きて世に甲斐なきこの身炉に<span type="ruby"><span type="rb">倚</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>らん　　仏座草<lb />
+</span>
+<lb />
+の<span type="ruby"><span type="rb">類</span><span type="rp">（</span><span type="rt">たぐい</span><span type="rp">）</span></span>がそれであります。けれどもまだ十分の活用とは申されません。<lb />
+　次に「貧」「老」「病」「死」に着眼したことによって漸次この「生きて」という文字の色彩を強めてくることは争われぬ事実であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生きて世に貧の寒燈ともしけり　　濱人<lb />
+生きて世に明け暮れ淋し老の秋　　時綱<lb />
+生きて世に病の床の桜かな　　昌東<lb />
+生きて世に<span type="ruby"><span type="rb">真田</span><span type="rp">（</span><span type="rt">さなだ</span><span type="rp">）</span></span>が庭の桜かな　　牧人<lb />
+</span>
+<lb />
+　句の巧拙はさておき、これらの句は「死んだ方がましだけれども」とか「いつ死ぬか判らぬ身ながら」とか、「かつて討死すべかりし身が」とかいうような特別の境遇を背景においての句でありますところから「生きて」という字は格別の響きを持つのであります。ことに最後の「真田」の句に至ってはじめて鐘が<span type="ruby"><span type="rb">撞木</span><span type="rp">（</span><span type="rt">しゅもく</span><span type="rp">）</span></span>に当たって音を発したような心持がするのであります。<lb />
+　特に「生きて世に」というのは未来に想像する仮説の死――例えば「死んだ方がましだ」とか「いつ死ぬか判らぬが」というような――よりも過去において実際<span type="ruby"><span type="rb">逢着</span><span type="rp">（</span><span type="rt">ほうちゃく</span><span type="rp">）</span></span>した死――例えば「討死すべかりし身が」とか「病死すべかりし身が」――とかいうような死を背景においた場合に初めて十分の意味を表してくるのであります。真田は死を逃れて<span type="ruby"><span type="rb">志度山</span><span type="rp">（</span><span type="rt">しどさん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">麓</span><span type="rp">（</span><span type="rt">ふもと</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">隠棲</span><span type="rp">（</span><span type="rt">いんせい</span><span type="rp">）</span></span>しておったのであります。その真田の心持になってみると、あの時死んでいたらもう一切空で、桜の花などを見ることはもとよりできないのであるが、生きておればこそ世にまた庭の桜を見るのである。とそういうところに生きて世にという力強い十分の意味があるのであります。<lb />
+　原句も、この「真田」の句と同様の詩を背景としての句であります。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+生きて世に人の年忌や<span type="ruby"><span type="rb">初茄子</span><span type="rp">（</span><span type="rt">はつなすび</span><span type="rp">）</span></span>　　几董<lb />
+</span>
+<lb />
+　自分は大病をしてほとんど死ぬところであった。それが幸いに全快してかく生き永らえておって、かえって他人の年忌に会する。<span type="ruby"><span type="rb">後圃</span><span type="rp">（</span><span type="rt">こうほ</span><span type="rp">）</span></span>の初茄子をとって霊前に供えよう、とこういう意味で、人の年忌をもってきたところに、一度死に臨んだ自分のかく世に生きてあることの上に格別の深い感情を動かすのであります。「真田」の句と死を背景にした着想は同一でありながら多少の差異を認めなければなりません。<lb />
+　私は永々と埋字のことを申し述べましたが、これはかく研究をすることが<span rend="futoji">俳句を作る</span>上に多少の興味あるしかも有力なる参考になることと考えたからのことであります。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi700">七　古い句を読むこと　新しい句を作ること</span></span></span>
+<lb />
+<lb />
+　古人の句を読む方がようございますか、作る方がようございますか、という質問を私はしばしば受けます。<lb />
+　今の若い人たちの頭に一つの大きな迷いがあります。あらゆる芸術を通じてそれがあるのであります。それは何かと申しますと「新」ということであります。それらの若い人たちは何でも新しければいいと思っています。新しいことを私も悪いとは申しませぬが、果たして「何が新しいか」ということも十分に研究せずにただ新しければいいと思っている人が十中八九であります。<lb />
+　新しいと申すことは古いことを十分に研究した上で申すべきことであります。「新」ということは相対のことであります。十分に古いことを研究せねば何が新しいのだか古いのだか判ろうはずがありません。初めて俳句を作るものが俳句の約束をも了解せずにただ文字を羅列して新しがったところで、一般の俳句界には通用しないことであります。伝統文芸としての従来の俳句の真価を了解せずにおいて、「ただ自然より直接に新しいものを採り来たれ」と言ったところで、世間に通用しないことであります。新しいということは古いものを熟知した上で初めて意味ある言葉となるのであります。「古人の句を見ることなかれ」ということはとりもなおさず、いずれが新、いずれが陳かの研究をすることなかれ、ということであります。これほど無意味な言葉はないのであります。<lb />
+　そこで結論はきわめて簡単であります。新しい句を作ろうと思えば古人の句先輩の句を読まねばなりません。十分に古人の句先輩の句を研究して古人や先輩はどういう俳句を作っておったかということを研究して、それからその古人や先輩の手の及んでいなかった方面に手をつけて新しい句を作るようにしなければなりません。「古人の句に接するな。古人の句を読むな」ということは、この点から申しますと「新古の判断さえつかぬ人になれ」ということになるのであります。先人の足跡を踏まぬという心掛けは結構でありますが、その先人の足跡を十分に究めぬということは非常な不覚であります。すなわち<span rend="futoji">新しい句を作るという立場からいって、ぜひとも古い句先進の人の句を研究しなければならないのであります。</span><lb />
+　私は俳句というものは決して小説などのように新しがるべきものではないと思います。もとより俳句も骨董品として取り扱われるのでなく、生きた文芸として取り扱われるのであります。古人の<span type="ruby"><span type="rb">範疇</span><span type="rp">（</span><span type="rt">はんちゅう</span><span type="rp">）</span></span>を出た新しい句を作らなければならぬのでありますが、それでも俳句というものは伝統文芸として、<span rend="futoji">小説などよりも比較的古い匂いのするもの</span>であるということはまず頭においておかないととんだ<span type="ruby"><span type="rb">料簡</span><span type="rp">（</span><span type="rt">りょうけん</span><span type="rp">）</span></span>違いをするようになります。古い匂いがするということは、いやだという人がありましたら、<span rend="futoji">もしそういう人があったらしばらく俳句に遠ざかっていて、他日古い匂いのするものがなつかしく恋しい時代がきた時分に、その時に改めて俳句に近づいたらよかろうと思います。</span>いやであろうが好きであろうが、ものそのものが古い匂いのするものである以上、それはどうすることもできないのでありますから、遠ざかるよりほかに道はないことと思います。そうして、他日その匂いが好きになってきた時分にまた近づいてくればそれでいいことだと思います。<lb />
+　俳句は古い匂いのする文芸、すなわち是非ある約束の下に立たなければならぬ伝統文芸である以上、それは能楽や歌舞伎が全然古い型を習熟し、日本画がある点まで古法に<span type="ruby"><span type="rb">則</span><span type="rp">（</span><span type="rt">のっと</span><span type="rp">）</span></span>ることを必要とするに準じ、俳句もまたある点まで<span rend="futoji">俳句らしい俳句</span>を作るために、古俳句を習熟する必要があるのであります。<lb />
+　ちょっと余談として申しますが、実を申すとそれは俳句ばかりではないのであります。また能楽や歌舞伎や日本画ばかりでもないのであります。<span rend="futoji">人間そのものがそうなのであります。</span>人間は現在の生活をすべて改善しようとしてもそれはついにできない相談なのであります。たとえば、衣服にしたところで、従来の日本服がきらいだから、何か新しいものを創造しようとしたところで、さてどんなものを想像したらいいでしょうか。仮に何物かを造るとするとそれは洋服に近くなるか、日本服に近くなるか、そうしてそれは<span type="ruby"><span type="rb">遂</span><span type="rp">（</span><span type="rt">つい</span><span type="rp">）</span></span>に在来の日本服にしかず、洋服にしかぬものになるのであります。すなわち在来のものにあきたらないといったところで、決して全然新しいものをポカッと浮き出すことはできないのであります。それは人力がどうすることもできないのであります。人間というものがそういう力を持っていないのであります。すなわち全然新しい、そうして現在のすべての服装よりも優れた新服装を造り上げるまでには多くの歳月を要するのであります。仮に今後千年後に我々が再生してくると仮定すれば、その時我等の子孫の着ている着物を見たらあるいはそういうものができているかもしれません。人間の力は新しいものに一歩一歩歩を進めてゆく力はあるが、従来のすべての因縁を切り離して、絶対に新しいものをここに創造するということはできないのであります。ある建築家の話に、建築が一の様式から他の様式に移るにはおよそ百年を要するということであります。これは面白いことだと思います。すなわち人間のすべての仕事、いわば人間それ自身というものが決して因縁を切り離してものをすることはできないものであるということを十分に考える必要があると思います。<lb />
+　文芸のうちで比較的新しい分量を要求している小説のごときものであっても、その実決してそうむやみに新しいものを創造することはできないことであって、たとえ最近の例のようにフランス、ロシアあたりの文芸を急速に輸入してきて、一時は従来の日本人に思いもよらないような新しいものを見せることができたにしても、それは歳月を経るに従ってかえってその「新」という点は退歩してその代りに従来の<span rend="futoji">日本趣味</span>ともいうべきものが逆襲してきて、大局よりこれをみれば、結局ある徐歩を試みたというに過ぎないことになるのであります。まして比較的新しい分量を少なくしか包含しない俳句にあっては、決して一飛びにそう新しいことが試み得られるものではないのであります。宇宙の進化は徐々に行われます。それを急速に行おうとするのは愚かなる迷いであります。俳句の進歩もまた徐々として行われつつあります。なにも急ぐことも慌てることもないのであります。我等は古人の踏んできたあとをよく研究してみて、また古人がせっかく築き上げてくれたところのものを尊重し、できるだけの新しい力を加えてゆくのであります。もっと具体的にいえば五七五調、やかな等の切字、季題、それらは申すに及ばず、古人がせっかく研究して来たところのものに十分の敬意を払って、すなわち一度は忠実なる門下生となってその上において我等は百尺<span type="ruby"><span type="rb">竿頭</span><span type="rp">（</span><span type="rt">かんとう</span><span type="rp">）</span></span>に一歩を進める<span type="ruby"><span type="rb">底</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>の心掛けが肝要なことであります。この点から申しても我等は古人の句を三読、五読、百読、千読してこれを習熟し、<span type="ruby"><span type="rb">玩味</span><span type="rp">（</span><span type="rt">がんみ</span><span type="rp">）</span></span>する必要があるのであります。<lb />
+　新しい句は、目をねむって古人の句を見ずにおればできるというのは<span type="ruby"><span type="rb">卑怯</span><span type="rp">（</span><span type="rt">ひきょう</span><span type="rp">）</span></span>な申し分であります。古人の句を見るがために古人の句になずんでしまって、それ以外に一歩も踏み出すことができぬというような人は、たとえ古人の句を見ずにおったところで、それ以外に一歩も踏み出すことのできぬ人であります。少しでも芸術的才能を持っている人であったら、たとえあけくれ古人の句中につかっていてもいつしかその個人性を発揮して何人も模倣することをゆるさない自己の新境地をひらき得るのであります。私が「埋字」のことなどを申し上げたのもこの古人の句に<span type="ruby"><span type="rb">親炙</span><span type="rp">（</span><span type="rt">しんしゃ</span><span type="rp">）</span></span>する、もっとも卑近な方法の一つを申し上げた次第なのであります。<lb />
+<lb />
+　私はどうでもいいからただ十七字を並べてご覧になるがよかろうということをまず一番に申し上げました。それはいつも<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ちゅうちょ</span><span type="rp">）</span></span>して空しく歳月を過ごしてしまう人のために、ともかく十七字を並べてご覧になることをおすすめいたしたのであります。その上はじっとものを見、じっと物に案じ入り、十分に自然の研究をすることが何より大事と存じます。しかもただ自然を見、自然を玩味し来ったかということをも十分に調べてみて、まず古人の門下生となり、しかして<span type="ruby"><span type="rb">藍</span><span type="rp">（</span><span type="rt">あい</span><span type="rp">）</span></span>より青い古人以上の立派なお弟子になる心掛けが肝要であります。<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi800">付録・俳諧談</span></span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi810">一</span></span></span>
+<lb />
+　俳句というものはほかの文学といかなる点で異なっているかということになると、種々の点があるが、その一番根本でまた主なものは字数が十七字であるということが一番大きな特色である、もっとも十七字といったところで中にはいわゆる字余りの句というものがあって十八字、十九字あるいは二十四、五字までになる句もあるし、また一、二字足りないような句もあるけれども、とにかく十七字というものが標準になって、仮に字余りになろうが字足らずになろうが、とにかく十七字ということに準拠するわけになる。またある人はこれを十七音字という。音という一字を入れてわざわざ十七音字の文学という人があるが、あるいはその方が適当な称呼かもしれない。字数が十七字という方ではなくて、音の数が十七というのがむしろ俳句を説明するに適当かとも思われる。<lb />
+　その十七音もしくは十七字というものがさらに三つに区分される。それは初め五字、それから中七字、終り五字、この三つのフレースに分解して論ずることができる。字余りの句にしてもやはり五字、七字、五字、というような調子に自然分解して口に唱えるようなふうにする。それで俳句の特色は<span type="ruby"><span type="rb">畢竟</span><span type="rp">（</span><span type="rt">ひっきょう</span><span type="rp">）</span></span>この字数が十七字に限られているということである。もし十七字で十分意味が表せないからというのでたくさんの言葉を用いるようになったならば、それはすなわち俳句ではなくなってしまう。<lb />
+　今度は字数に次ぐ俳句のおもな条件は、俳句の中には必ず<span rend="futoji">季</span>というものを詠み込まなければならぬという規則がある。この<span rend="futoji">季</span>というものは春夏秋冬四季の景物を必ず俳句の中に一つはいれなければならぬという規則であって、例えば春風とか、納涼とか、秋草とか、<span type="ruby"><span type="rb">時雨</span><span type="rp">（</span><span type="rt">しぐれ</span><span type="rp">）</span></span>とかいうようなふうに、何か各季節に属した一つの天象、地理、動植物もしくは人事などを詠みこむことになっている。なぜ俳句に季を入れるかということも、やはり前言った字数が十七字であるということが一つの原因をなしているように思われる。なぜかと言えば、わずかに十七字であって文字が少ないために複雑なことは言えない。ぜひ単純にならなければならぬ。しかしながらできうるだけ多くの連想というようなものを人に与えるということができればそれに越したことはない。それでその連想を人に与えるのには、ぜひとも各人たやすく連想の起こり得るようなものを詠ずる必要がある。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi820">二</span></span></span>
+<lb />
+　そこで誰にでもたやすく連想の起こり得るものは何かといえば、四季の感じ、春夏秋冬――四季の感じというものはこれほど人に普通なものはないのであるから、その必要上からしてぜひ四季の景物を詠みこむようになる。そうすると単に人が道を歩いて行っただけではきわめて無意味な事柄であるけれども、たとえば「春風や」といってその下に人が道を歩きつつあるというような発句があるとすると、春風が<span type="ruby"><span type="rb">駘蕩</span><span type="rp">（</span><span type="rt">たいとう</span><span type="rp">）</span></span>と吹いている、そういうのどかな春の日に人が歩いているというので、そこで前の単に道を歩くというのにくらべるというと、だいぶ複雑な感情が起こるようになってくる。またこれを「<span type="ruby"><span type="rb">時雨</span><span type="rp">（</span><span type="rt">しぐ</span><span type="rp">）</span></span>るるや」とか何とかいう初め五字を置いて、その次に人が道を歩きつつあるという場合には、冬の初めの寒い時雨の降るような天気の日に人が表を歩きつつあるというわけになって、そこにまた一種の大なる景物が想像される。また「<span type="ruby"><span type="rb">蝶</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span>飛ぶや」という五字があると仮定すると、単に蝶々が草の上を飛んでいるという景色以外に、その蝶というものを中心にして、春の日ののどかの光景、またその時候に人々が楽しく遊んでいるような状態、一歩進めて言えば、そののどかな春の日に対して人の心の中に起こるゆかいなる感じも連想される。<lb />
+　かくのごとき感じというものは前にいったようなふうに、学者であろうが乞食であろうが、女であろうが子供であろうが、仮にも人間と生まれた以上は、その感じの深浅疎密はあるけれども、とにかくそこに一種の共通な感じというものが起こるからして、単に十七字でその中の初め五字が「蝶飛ぶや」というのであって、あと十二字に簡単な景色もしくは人事が叙してあるにしても、その初め五字の「蝶飛ぶや」という景物があるために因って起る連想というものは深くなる。わずか十七字の俳句がその簡単な文字で力強く人の頭脳を刺激しようというのには、この景物を詠みこむという必要が非常に重大な事件として約束されているというわけになっている。<lb />
+　それから、次に俳句で必要なことは<span rend="futoji">切字</span>ということである。これは昔から宗匠などがやかましく言って、それについてはずいぶんくだらない理屈や何かもたくさん行われているが、しかしやはり切字というものを詠みこむ必要は自然に存在している。それは人にものを話す時分に何々であり<span rend="futoji">ます</span>とか、何やらで<span rend="futoji">ある</span>とか、必ずある談話のおしまいには<span type="ruby"><span type="rb">句切</span><span type="rp">（</span><span type="rt">くぎり</span><span type="rp">）</span></span>をつける。また絵を描くにしても中心を密にして周囲にあるほど疎筆を用いて、そうしてその周囲には輪郭をつけて、その絵というものと他の境界との区別をつける。それと同じようなわけで、発句もとにかくまとまった一つの意味を表わそうというのには、ぜひその十七字の中に一つの句切が必要になる。前にいった「です」とか、「である」とか何とかいう普通の言葉と同じようなわけに、必ず何とか意味を限ってしまう句切の言葉が必要になる。それがすなわち切字というものになるので、例えば「春風や」という場合には、春風が吹いておりますというのと同じような意味になる。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi830">三</span></span></span>
+<lb />
+　それからまた「時雨けり」といえば、その「けり」という字は時雨れているぞというやはり句切の言葉になる。もしそういう切字がない場合には、あたかも長い文句の中の一節を切り抜いたようなふうになってしまって、まとまった意味を表すためにはぜひこの切字というものが必要になる。<lb />
+　そこで俳句のおもな切字は「や」という字と「かな」という字、続いては「けり」というような字がもっとも普通に行われ、またもっとも力強い意味を持っている。その他は普通の文章で意味を切る時分に用いる助字が、やはり俳句の方でも用いられる。たとえば「ぬ」とか、「らん」とか、「たり」とか、「す」とかいうような文字、なおそのほかたくさんある。<lb />
+　右の中で「や」の字はこれは俳句にあっては格段な意味に用いられる文字であって、たびたび例に引く「春風や」というような場合には、春風が吹いている、その吹いているという動詞までがその「や」という字の中に含蓄される。また下にくる文字によって吹いているということ以外に、さらにその春風を愛し<span type="ruby"><span type="rb">愉</span><span type="rp">（</span><span type="rt">たの</span><span type="rp">）</span></span>しむような心持ちとか、その他まず種々の連想をもつことができるようなきわめて調法な文字である。<lb />
+　それに次いで「かな」という字は、普通に詠嘆の意味に用いられるということになっているが、必ず詠嘆の意味ばかりでもない。軽い場合にはほとんど無意味に、ただ単に意味を切るためのしるしとして用いられる場合もあるし、また重い場合には非常に深くものを詠嘆するような場合に用いられることもある。これらのことはいちいち句について説明しないと、句から取り離して議論することはできないから、まず簡単にこのくらいの説明に止めておく。<lb />
+　次に俳句を解釈する場合にもっとも大事なことは連想ということである。これもやはり前言ったわずかに十七字であるということが大なる原因をなしている。わずか十七文字であってしかもなるべく深い意味もしくは強い意味を運ぼうとするために、元来文字そのものが一つの<span type="ruby"><span type="rb">符牒</span><span type="rp">（</span><span type="rt">ふちょう</span><span type="rp">）</span></span>であるのではあるが、さらに俳句に使われる場合にはそこに作者と読者との間に特別な約束ができて、普通な文章もしくは談話などで使われる文字が運ぶ意味よりは、いま少し複雑な意味を運ぶようになっている。例えば、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+菊の香や奈良には古き仏たち<lb />
+</span>
+<lb />
+という芭蕉の句がある。これなどは普通の文章を解釈するつもりで解釈したならば、ほとんど何のことだか分からなくなる。けれども俳句の上にはそこに特別な約束があって、仏たちという名詞で止っている下には「<span rend="futoji">がたくさんある</span>」というごとき意味を自然に含ませることになっている。また菊の香という名詞の下には「<span rend="futoji">の<span type="ruby"><span type="rb">馥郁</span><span type="rp">（</span><span type="rt">ふくいく</span><span type="rp">）</span></span>たるがごとく</span>」という文字とか、また温雅なる色彩とか、<span type="ruby"><span type="rb">蒼古</span><span type="rp">（</span><span type="rt">そうこ</span><span type="rp">）</span></span>な感じとかいうような、菊の花に付属する種々の連想がやはり省約されているものとみなされることができる。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi840">四</span></span></span>
+<lb />
+　それでこの句の意味は菊の花の人に与える感じが奈良の古き仏たちが人に与える感じとどこかに似通ったところがある。その感じを作者が表すのがこの句の目的になっている。だから長い文章でこれを表す場合には、数十言もしくは数百言を費やさなければならぬ。けれども俳句となるとわずかに十七字でその複雑な意味を運び得ることになっている。これは俳句というものが特別に約束された文字の働きを持っているからである。<lb />
+　次には天明の蕪村の句に、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+鮎くれて寄らで過ぎ行く<span type="ruby"><span type="rb">夜半</span><span type="rp">（</span><span type="rt">よわ</span><span type="rp">）</span></span>の門<lb />
+</span>
+<lb />
+という句がある。この句の意味を一通り解釈してみれば、自分の住まっている家の戸口で夜中に人声がする。それから起きて行ってみるというと自分の知っている<span type="ruby"><span type="rb">某</span><span type="rp">（</span><span type="rt">なにがし</span><span type="rp">）</span></span>がいて、今日釣に行って<span type="ruby"><span type="rb">鮎</span><span type="rp">（</span><span type="rt">あゆ</span><span type="rp">）</span></span>がとれたからして、少しわけてやろうといってその鮎をくれた。そうしてその人はまず入らぬかとか何とか言ったけれども、イヤ今晩は遅いからまた来ようとか何とか言ってそのままに帰って行った。こういう意味を表わしている。けれどもその俳句の中には誰が鮎をくれたとも言ってないし、また単に「夜半の門」とあるだけで、門がどうしたのか、その辺はきわめて<span type="ruby"><span type="rb">曖昧</span><span type="rp">（</span><span type="rt">あいまい</span><span type="rp">）</span></span>になっているけれども、俳句の約束として「鮎くれて」という文字の前にはある人がという意味が自然含まれているし、門という言葉からして門前で人がくれた、また主人がそれを受け取ったとかいうような言葉が自然そこに含まれていることになっている。初め何も俳句を知らぬ人がこの句を見たらば、ほとんど意味をなさぬ言葉になってしまって、何だか門が鮎をくれたのか、門が過ぎて行ったのか、ちょっとそのへんが意味をなさぬように解釈されるかもしれないけれども、その中には種々な言葉が略されている。そうしてその略されていることは俳句にとっては普通の約束であるということが分かってみるというと、ただちにこの意味が解釈ができるようなことになる。<lb />
+　次に明治以後の句にはいろいろあるが、一句を拾い出してみると、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+町淋し雨の<span type="ruby"><span type="rb">筍</span><span type="rp">（</span><span type="rt">たけのこ</span><span type="rp">）</span></span>貸家札<lb />
+</span>
+<lb />
+という飄亭の句がある。この句などもちょっと俳人以外の人が見たならば何を言ったのだか分からぬかもしれぬが、この「雨の筍貸家札」という間にはたくさんな言葉が省略されている。「雨の筍」というのは、雨が降っている中に筍が生えているという意味であって「貸家札」という言葉からして単に貸家札そのものがブラ下っているというだけではなく、そこに貸家があることまでがその言葉で代表されているようなふうになっている。また「雨の筍」と「貸家札」という二つの句の間には、筍が生えている、それはその貸家の塀の内とか、竹垣の内とか何とかに長く伸びて生えているということを想像しなければこの景色が何だか分からぬことになる。さらにこれを言いかえてみれば、古びた貸家が一件ある、その貸家の表には貸家札が下がっている、その貸家の庭には筍が人が取らぬために伸びて、塀の上にまで突き出て長く生えている。そうして雨がザーザー降っている。そこの町が人通りなどもたくさんある町でなくて、荒れ果てた士族町か何かの光景である。まずかくのごとき複雑な景色がほとんど<span type="ruby"><span type="rb">符牒</span><span type="rp">（</span><span type="rt">ふちょう</span><span type="rp">）</span></span>のごとく、「町淋し」と言い「雨の筍」と言い「貸家札」と言って、これでその景色を想像しろといったふうになっている。これらもずいぶん文字を省略して、俳句独特の想像にまたなければ解釈のできない句である。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi850">五</span></span></span>
+<lb />
+　次にかかる約束、かかる形式の下に行われる俳句の特別の趣味というものを一、二説明すれば、その一は天然趣味というようなものである。小説とかその他多くの文学ではおおむね人間というものがその主体となって、人間というごときものが主として描かれることになっているけれども、人事というものは複雑なものであって、簡単に表してはとうていその趣を十分に伝えることはできない。それに反して天然物の方は人事に比して簡単である。少なくとも簡単に表してなおその趣を伝えやすい。これが十七詩たる俳句で主として天然物が詠ぜられる原因であった。同じ短い詩の中でも和歌にくらべても、中国の詩にくらべても、俳句ほど天然物を詠ずるものはほかにない。かえって文字で表す詩よりも色で表す絵の方に俳句に近いようなかたむきさえある。また仮に人事を詠ずる場合にもほとんど人間を天然物と同じようなふうにみて、人の歩くのも、<span type="ruby"><span type="rb">蝶</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span>が飛ぶのも、人が涙を流すのも、<span type="ruby"><span type="rb">時雨</span><span type="rp">（</span><span type="rt">しぐれ</span><span type="rp">）</span></span>が降るのも同じように観察する傾向すらできている。この天然を対照とするということは俳句を味わう者の誇りとするところであって、また他の文学に対して俳句がその地歩を占めている重要なる一特徴となっている。<lb />
+　このこともまた一方から解釈すると、超越主義といったようなふうにも言うことができる。小説などでは人間の研究ということが重要の目的であって、人間の中に飛び込んでいって深く観察し、あまねく見て、そうして人とともに泣き、人とともに笑うというようなことをするのが目的になっている。けれども俳句の方はそこになるとまったく人間社会というものをかけ離れて、格段に高い地位に自分をおいて、人間をも前言ったごとく天然物と同一に見て、俗情を離れて観察するようなふうになっている。だから天然趣味を鼓吹するということはやがて人生に対して超越しているということになる。これがまた俳句が他の文学に比較して格段の見地を有することになっている。<lb />
+　この超越ということが俳句のもっとも大事な特色であるにかかわらず、往々にして誤るようなふうになっている。というのはほかでもない、人生を超脱するというのは、深く人生そのものを味わい、苦い経験、酸っぱい経験を積んだ上で超脱した場合には、そこに一種の尊敬すべき底光のあるその人の見地というものができる。けれども<span type="ruby"><span type="rb">未</span><span type="rp">（</span><span type="rt">いま</span><span type="rp">）</span></span>だ人生に対して経験もなく辛酸も<span type="ruby"><span type="rb">舐</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めないで、つまり若い時分から俳句を作っているために、わけも分からずに人生を俗世界と<span type="ruby"><span type="rb">罵</span><span type="rp">（</span><span type="rt">ののし</span><span type="rp">）</span></span>って、そうして高い所に立つというごときふうに見えるのはもっともよくないことである。俳句がだんだん俗に陥って一種の俳人臭味というごとき臭き味のできてくるのは取りも直さずこの根底のない超脱思想からくるのだと私は思う。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi860">六</span></span></span>
+<lb />
+　歴史から考えてみても、元禄の芭蕉という人は人生を超越した人ではあったけれども、しかしながらこの人は十分世の中の経験を経てきた人である。またどこまでも人生を愚にしなかった人である。それに付随しておった種々の俳人も多くは人生を離れた人ではあったけれども、しかしながらその離れる以前には人世に対して種々の経歴を持っている人が多かった。元禄の俳句、元禄の俳人の軽浮な調が見えぬのはこの態度に原因するものと信ずる。ところが後世になってくるというと俳句そのものの方がまずその人の頭を支配して、俳句に自分は遊んでいるものだから人生は一目下に見下ろさなければならぬ。人生というものは俗なものであるというような感じが主となって、元禄の芭蕉その他が決して<span type="ruby"><span type="rb">軽蔑</span><span type="rp">（</span><span type="rt">けいべつ</span><span type="rp">）</span></span>しなかった人生を、芭蕉以下の人材であるに<span type="ruby"><span type="rb">拘</span><span type="rp">（</span><span type="rt">かかわ</span><span type="rp">）</span></span>らず軽々しくこれを軽蔑するようなふうがみえる。したがってその風儀もその人格も軽薄になって、俳人臭という一種の臭味がすぐ人の鼻をうつようになる。<lb />
+　蕪村は大家であったし、また決して軽薄な人間ではなかったに拘らず、これを芭蕉にくらべてみるとどことなくシットリしたところが欠けている。これはどうかといえば、とりもなおさず人間そのものを視ることの深浅に因ることと考えられる。もし蕪村にして十分人生を研究し、人生を尊敬した上で、あれだけの技術をもっておったならば、もう少しシンミリと人を感動させ、十分芭蕉以上の仕事をしておったろうと自分は思う。蕪村が大技術家であるにかかわらず、芭蕉の句が人の心を支配するほど支配することができぬのは、まったくこの態度に原因するものと思う。まして蕪村以下の俳人にあっては、器用は十分器用だし、面白い句も中にはあるけれども、しかしどことなく軽浮の感をまぬかれない。<lb />
+　近代の俳壇でも正岡子規という人は決して人間を軽蔑しなかった人である。人間社会をくだらないものとして頭から見下ろしておったような人ではなかった。もしあの人にして健康が許すならば、社会の人として働く考えすらも持っておった人であった。かくの如く人生に趣味をもち、尊敬を払っておった人が、病いのためまた自己の文学のために人生を離れた地位に立たなければならなかったわけであるが、その句には軽薄な跡が少しもみえない。シットリと人を感じさせる点にあっては蕪村よりも子規の方が上であると自分は信ずる。その点においては元禄の芭蕉に次ぐものといってさしつかえないと思う。<lb />
+　そうして子規以外にも今日の俳人中にはやはり人生を愚にせず、人生に対して相当の熱意をもっておりながら、その半面に超脱した世界に遊ぶごとき考えで俳句を作っている人も少なくはない。これらの人の句はどことなく落ち着きがあって、発句が下手にかかわらずなお相当の尊敬を払うにたると思う。けれども中にはまた頭から人生を俗世界と罵って、本当に人生が分からぬくせになお自ら高くおり、しかも自分は人生を超脱した詩人であるということをもって自認しているような人々も見受けられるが、これはやがてその俳句に軽浮な跡がみえて、第二の墜落時代を<span rend="notes">［＃「墜落時代を」はママ］</span>招致する原因になろうかと自分は思う。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi870">七</span></span></span>
+<lb />
+　人生というものはある意味において随分俗なものともいうことができるけれども、しかしながら我々の祖先が生活しておったのも人生、我々の父母が生活しておったのも人生、我々の兄弟が生活しているのも人生、また自身が生活しているのも人生、己の子供がやがて生活するところも人生である。俳人どもが集まってともに俳句を作るその場所もまた人生の一部分である。人生を脱離して超越していると考えながらも、やがて人生の<span type="ruby"><span type="rb">波瀾</span><span type="rp">（</span><span type="rt">はらん</span><span type="rp">）</span></span>の中に巻き込まれているのが普通の状態である。人生を脱離したごとく考えているのがやがて人生の渦中に立っているわけである。その人生を一通り越してから後に、振り返って一歩高い所に立つ人は、それだけの経歴を経、それだけの見識ができてからであるからして、それは先覚者として相当の尊敬を払うこともできるが、しかしまた<span type="ruby"><span type="rb">黄口</span><span type="rp">（</span><span type="rt">こうこう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">児</span><span type="rp">（</span><span type="rt">じ</span><span type="rp">）</span></span>でありながら、お<span type="ruby"><span type="rb">尻</span><span type="rp">（</span><span type="rt">しり</span><span type="rp">）</span></span>に卵の殻がくっ付いているごとき<span type="ruby"><span type="rb">境界</span><span type="rp">（</span><span type="rt">きょうがい</span><span type="rp">）</span></span>であるのにかかわらず、ほしいままに人生を脱離したごとく考えているというのは片腹痛い感じがして、その人のために甚だ取らぬと思われる。これはしかし空論ではない、実際その人の作った句をみるとすぐそれが分かる。例えば芭蕉の句になるとつまらぬ句も随分沢山ある。しかしながらそのつまらぬというのは表面がつまらぬのであって、その句を通して背後には一種の後光のようなものがある。あたかも仏様の後にある光背のごときものがそこにある。上っ面は平凡な句であるにかかわらず、何遍も味わってみるとシットリと底の方から味が<span type="ruby"><span type="rb">滲</span><span type="rp">（</span><span type="rt">にじ</span><span type="rp">）</span></span>み出してくるごとく感じられるのは、すなわちこの仏様の光背に当たるところで、余はこれを<span rend="futoji">背景のある俳句</span>と呼びたいと思う。この背景のある俳句はいくらたってもその味は<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>せない。けれども上っ面がテカテカ光っていて、一読して面白いと思われるような句は、長く味わっている中に飽きがくる。あたかも<span type="ruby"><span type="rb">錦絵</span><span type="rp">（</span><span type="rt">にしきえ</span><span type="rp">）</span></span>を見るようなもので、その色彩は人の眼を射るにかかわらず、その背後には何物もない。この背景のある句と背景のない句とは、前に言った作者の人生観の相違に基因するように思われる。作者がシットリした人であるというと、つまらぬものを見る中にもおのずからその心の中に種々の働きがあって、それが知らず<span type="ruby"><span type="rb">識</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らずその上に現れている。だからつまらぬ景色を叙したつまらぬ句であっても、その背後にはその頭の中の働きというものが自然自然に現れている。これが背景のある句としての価値のあるゆえんであろうと思われる。けれども人生を頭から軽蔑しているような人にはその頭の中に深い深い味というものがない。だからいかに面白い景色を見つけて面白く表現したにかかわらずその句には、どことなく深みがなくて錦絵のごとく派手なところばかりが人の眼に留るようになる。<lb />
+　何も天然物を詠ずる上において人生というものに趣味を持とうが持つまいが、それは問題にならぬではないかという人があるかもしれぬが、しかし同じ一輪の落椿を見てもまた一羽の<span type="ruby"><span type="rb">揚雲雀</span><span type="rp">（</span><span type="rt">あげひばり</span><span type="rp">）</span></span>を見ても、そこにその人が人生に対して深い味を持っている人と、持たない人にとっては大変な相違がある。決して俳句を作る上において陳腐な平凡な主観を暴露した月並的な句を作れと強いるわけではないけれども、簡単な景色を叙する上においても、わずかに一字一句の上にその作者の頭の味というものは知らず識らずの間に現れてくる。叙する方はさておいて、その景色を見る上においても十分その頭の働きというものは現れるわけである。単に雲雀が揚がるのが面白いとして揚雲雀を見る人と、そこに深い、人生に対するある心持というものを土台において、その土台の上において揚雲雀の揚がるのを見る人とは、同じ揚がり具合を観察する上においても大変な相違があると思われる。このシットリした心持というものは外から来るのではない。半ばその人の先天的の性質にもよるが、半ば人生そのものに対する感じの浅深、厚薄によることと思われる。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi880">八</span></span></span>
+<lb />
+　このことについては以上の簡単な叙説では尽きないけれども、ついでであったからして背景のある句ということを私は特に尊重するということをここで述べておく。<lb />
+　かくの如く論じてくると、今の新派の俳人中にも、君の議論は月並に近いというような非難をする人が起こって来るかもしれない。しかしながら月並とこの背景のある句という間には非常な<span type="ruby"><span type="rb">径庭</span><span type="rp">（</span><span type="rt">けいてい</span><span type="rp">）</span></span>がある。簡単に月並の句そのものの説明をしかたがたその差異を述べてみようならば、月並の句の方は作者の主観をむきだしに出す。その主観というのも極めて小さい主観で、理屈っぽい主観で、また平凡な主観で、また陳腐な主観である。ところがこの背景ある芭蕉などの句になるとその主観を決して暴露はしない。シットリと頭の中に包んでおいて、句の上にはそれをあからさまには出さない。しかしながらその句を通じて自ら<span type="ruby"><span type="rb">窺</span><span type="rp">（</span><span type="rt">うかが</span><span type="rp">）</span></span>われるというようなわけあいになっている。またその主観は小主観ではない、深い厚い主観である。また<span type="ruby"><span type="rb">斬新</span><span type="rp">（</span><span type="rt">ざんしん</span><span type="rp">）</span></span>な主観である。月並の句とこの背景ある句とが往々にして誤られやすきにかかわらず、その間には非常なる相違がなければならぬ。月並の句になると<span type="ruby"><span type="rb">足袋</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>屋の隠居さんとか、床屋の亭主とかいうものが、極めて卑近な考えで人生なり景色なりをみて、その極めて卑近な人生観を土台にして、その人生観を句の上に暴露して句を作る。かくの如きは決して背景ある句というべからざるのみならず、最下等の句といってよいことになる。けれども芭蕉などの句になると、深く考え、深く思ったものが芭蕉の頭に存在していて、芭蕉が発句を作る場合にはその主観というものはたやすく句の上には出てこない。ただ単純なる景色を叙した句であり、単純な人生を詠じた句であってもその考えは一度その頭の奥深く潜んでいる主観を通じてきたものであることだけが大なる特色であって、そこに独特の光もあり、独特の響きもあるのである。また芭蕉の主観は床屋の<span type="ruby"><span type="rb">親爺</span><span type="rp">（</span><span type="rt">おやじ</span><span type="rp">）</span></span>などの習慣とは違って哲人の主観といってもよいほどのものであるからして、誰がその句を読んでみても、ありふれた小理屈を言ったものとは思うことができない。<lb />
+　もっとも芭蕉の句の中にでも往々にしては後世の月並句の源流をなしていると思われるような句がある。正岡子規などはほとんど芭蕉の大半の句は皆駄目だといって攻撃したこともあるが、しかしその子規の攻撃した句中にも公平な眼を持ってみればなお相当の尊敬を払うべき句もあるように思われる。けれどもその一半には月並句の源流をなしたと思われる句がないのでもない。これは芭蕉がえらいにかかわらずやはりその主観が句の上に暴露されて、平凡陳腐な域を脱することができなかったような場合であろうと思う。後世の月並家が尊重する芭蕉の句というのにはこの主観を暴露した句の方が多くて、かえって大主観の潜んでいる背景ある句の方は俗人の眼に映ぜぬことが多い。これを特別に分解して芭蕉の長所を発揮したのは子規その人の功労ではあるけれども、しかし子規その人は特に客観の句の方を尊重して、この背景ある句というものを唱道しなかったのは、時勢の必要に応じたためでもあったろうが、けれども今日の我々から見ればあきたらぬ感じがする。子規君の客観論によると芭蕉よりも蕪村の方がえらくなってこなければならぬことになる。しかし今日我々からみると蕪村はとても芭蕉に及ばない。蕪村が芭蕉に及ばぬのはとりもなおさずこの背景論によって解釈ができるだろうと思われる。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi890">九</span></span></span>
+<lb />
+　月並の論をやろうと思えばこれだけでも、なかなか大した議論になるのであるが、さきほど言った小主観の暴露ということが月並の一番大きな特色だと自分は思う。<lb />
+　そこでこのごろ月並論があまり盛んでない。以前は随分盛んであったにもかかわらずこのごろはあまり月並論をしないのはどういうわけであるかと言って不審をする人があるが、これはやはり時世の変遷に伴ったわけである。月並論は今日においてもなお繰り返す必要が全くないことではないのであるが、しかし月並論よりもより多く大切な議論がたくさんあるために、ほとんど月並論をなすいとまがないといってもいいわけなのである。<lb />
+　さて今日の議論は何が一番必要かと言えば、もはや俳句そのものの圏内の議論ではなくて、俳句と他の文学との比較論と言ってもよい点まで足を進めていると思う。それはとりもなおさず俳句ということについての議論だと思われる。従来俳句という単に十七字の中で養われてきたもの、その格段なるもの、言いかえれば東洋的なもの。また日本人によって特別に養われ来ったもの。西洋人の経験なきもの。この俳句とは何ぞやということが、今日の最も重要の論題であろうと自分は思う。（大正三年稿）<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

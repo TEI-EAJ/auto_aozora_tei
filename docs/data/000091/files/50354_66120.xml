@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>鬼桃太郎</title>
+        <author>尾崎紅葉</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2018-09-28">作成</resp><resp /><note>
+<lb />
+底本：「妖怪文藝〈巻之弐〉　響き交わす鬼」小学館文庫、小学館<lb />
+　　　2005（平成17）年10月1日初版第1刷発行<lb />
+底本の親本：「名著複刻　日本児童文学館1」ほるぷ出版<lb />
+　　　1974（昭和49）年9月<lb />
+初出：「鬼桃太郎」幼年文學叢書、博文館<lb />
+　　　1891（明治24）年10月11日印刷出版<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+※「火焔」に対するルビの「かえん」と「ほのお」の混在は、底本通りです。<lb />
+※挿絵は、底本の親本から富岡永洗（1864（元治元）年〜1905（明治38）年）のものをとりました。<lb />
+※誤植を疑った箇所を、親本の表記にそって、あらためました。<lb />
+※改行は、底本通りです。<lb />
+入力：田中哲郎<lb />
+校正：みきた<lb />
+<date when="2018-09-28">2018年9月28日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>田中哲郎</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>みきた</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>鬼桃太郎</title><author>尾崎紅葉</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span facs="fig50354_01.png" rend="illustration" rendition="img" source="「鬼桃太郎」の図" /><lb />
+むかしむかし<span type="ruby"><span type="rb">翁</span><span type="rp">（</span><span type="rt">じじ</span><span type="rp">）</span></span>は山へ<span type="ruby"><span type="rb">柴刈</span><span type="rp">（</span><span type="rt">しばかり</span><span type="rp">）</span></span>に、<lb />
+<span type="ruby"><span type="rb">媼</span><span type="rp">（</span><span type="rt">ばば</span><span type="rp">）</span></span>は洗濯の河にて、<lb />
+拾いし<span type="ruby"><span type="rb">桃実</span><span type="rp">（</span><span type="rt">もも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">裏</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>より<lb />
+生れ<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>でたる桃太郎、<lb />
+猿<span type="ruby"><span type="rb">雉子</span><span type="rp">（</span><span type="rt">きじ</span><span type="rp">）</span></span>犬を<span type="ruby"><span type="rb">引率</span><span type="rp">（</span><span type="rt">いんぞつ</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「いんぞつ」はママ］</span>して<lb />
+この鬼ヶ島に<span type="ruby"><span type="rb">攻来</span><span type="rp">（</span><span type="rt">せめきた</span><span type="rp">）</span></span>り、<lb />
+<span type="ruby"><span type="rb">累世</span><span type="rp">（</span><span type="rt">よよ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">珍宝</span><span type="rp">（</span><span type="rt">たから</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">分捕</span><span type="rp">（</span><span type="rt">ぶんどり</span><span type="rp">）</span></span>なし、<lb />
+<span type="ruby"><span type="rb">勝矜</span><span type="rp">（</span><span type="rt">かちほこ</span><span type="rp">）</span></span>らせて<lb />
+<span type="ruby"><span type="rb">還</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>せし事、<lb />
+この島末代までの<lb />
+恥辱なり、<lb />
+<span facs="fig50354_02.png" rend="illustration" rendition="img" source="「鬼王」の図" /><lb />
+あわれ願わくは<lb />
+武勇<span type="ruby"><span type="rb">勝</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>れたる鬼のあれかし、<lb />
+<span type="ruby"><span type="rb">其</span><span type="rp">（</span><span type="rt">その</span><span type="rp">）</span></span>力を<span type="ruby"><span type="rb">藉</span><span type="rp">（</span><span type="rt">かり</span><span type="rp">）</span></span>てなりとも<lb />
+この<span type="ruby"><span type="rb">遺恨</span><span type="rp">（</span><span type="rt">うらみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">霽</span><span type="rp">（</span><span type="rt">はら</span><span type="rp">）</span></span>さばやと、<lb />
+時の<span type="ruby"><span type="rb">王鬼</span><span type="rp">（</span><span type="rt">おうおに</span><span type="rp">）</span></span>島中に<span type="ruby"><span type="rb">触</span><span type="rp">（</span><span type="rt">ふれ</span><span type="rp">）</span></span>を下し、<lb />
+<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">たれ</span><span type="rp">）</span></span>にてもあれ日本を征伐し、<lb />
+桃太郎<span type="ruby"><span type="rb">奴</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">若衆首</span><span type="rp">（</span><span type="rt">わかしゅくび</span><span type="rp">）</span></span>と、<lb />
+分捕られたる<span type="ruby"><span type="rb">珍宝</span><span type="rp">（</span><span type="rt">たから</span><span type="rp">）</span></span>を携え還らんものは、<lb />
+<span type="ruby"><span type="rb">此</span><span type="rp">（</span><span type="rt">この</span><span type="rp">）</span></span>島の王となすべしとありければ、<lb />
+血気に<span type="ruby"><span type="rb">逸</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>る若鬼<span type="ruby"><span type="rb">輩</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>、<lb />
+ひこひこと額の角を<span type="ruby"><span type="rb">蠢</span><span type="rp">（</span><span type="rt">うごめ</span><span type="rp">）</span></span>かし、<lb />
+我功名せんと<lb />
+<span type="ruby"><span type="rb">想</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>わざるはなけれども、<lb />
+いずれも桃太郎が<span type="ruby"><span type="rb">技※</span><span type="rp">（</span><span type="rt">てなみ</span><span type="rp">）</span></span><span rend="notes">［＃「てへん＋兩」、U+639A、76-6］</span>に<span type="ruby"><span type="rb">懲</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>り、<lb />
+我はと名乗出づるものも<lb />
+あらざりけり、<lb />
+<span facs="fig50354_03.png" rend="illustration" rendition="img" source="「鬼王の触」の図" /><lb />
+<span type="ruby"><span type="rb">茲</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">阿修羅河</span><span type="rp">（</span><span type="rt">あしゅらかわ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">畔</span><span type="rp">（</span><span type="rt">ほとり</span><span type="rp">）</span></span>に世を忍びて、<lb />
+<span type="ruby"><span type="rb">佗</span><span type="rp">（</span><span type="rt">わび</span><span type="rp">）</span></span>しく住みなせる<lb />
+夫婦の鬼ありけり、<lb />
+もとは<lb />
+鬼ヶ島の<lb />
+城門の<lb />
+<span type="ruby"><span type="rb">衛司</span><span type="rp">（</span><span type="rt">まもりつかさ</span><span type="rp">）</span></span>にて<lb />
+ありけるが、<lb />
+桃太郎<span type="ruby"><span type="rb">攻入</span><span type="rp">（</span><span type="rt">せめいり</span><span type="rp">）</span></span><lb />
+の<span type="ruby"><span type="rb">砌</span><span type="rp">（</span><span type="rt">みぎり</span><span type="rp">）</span></span><span type="ruby"><span type="rb">敢</span><span type="rp">（</span><span type="rt">あえ</span><span type="rp">）</span></span>なくも鉄の<span type="ruby"><span type="rb">門扉</span><span type="rp">（</span><span type="rt">とびら</span><span type="rp">）</span></span>を<lb />
+<span type="ruby"><span type="rb">打摧</span><span type="rp">（</span><span type="rt">うちくだ</span><span type="rp">）</span></span>かれ、敵軍乱入に<lb />
+及びし<span type="ruby"><span type="rb">条</span><span type="rp">（</span><span type="rt">じょう</span><span type="rp">）</span></span>、其身の<span type="ruby"><span type="rb">懈怠</span><span type="rp">（</span><span type="rt">おこたり</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">因</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>るものなりとて、<lb />
+<span type="ruby"><span type="rb">斜</span><span type="rp">（</span><span type="rt">ななめ</span><span type="rp">）</span></span>ならず王鬼の勘気を<span type="ruby"><span type="rb">蒙</span><span type="rp">（</span><span type="rt">こうぶ</span><span type="rp">）</span></span>り、官を<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>がれ世に<span type="ruby"><span type="rb">疎</span><span type="rp">（</span><span type="rt">うとま</span><span type="rp">）</span></span>れ、<lb />
+今は漁人となって余命を送るといえども、<span type="ruby"><span type="rb">何日</span><span type="rp">（</span><span type="rt">いつか</span><span type="rp">）</span></span>は身の罪を<span type="ruby"><span type="rb">償</span><span type="rp">（</span><span type="rt">あがの</span><span type="rp">）</span></span>うて再び<lb />
+世に出でんことを<span type="ruby"><span type="rb">念懸</span><span type="rp">（</span><span type="rt">こころが</span><span type="rp">）</span></span>け、子鬼の角の<lb />
+<span type="ruby"><span type="rb">束</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>の間も忘るる<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ひま</span><span type="rp">）</span></span>ぞなかりける、<lb />
+<span facs="fig50354_04.png" rend="illustration" rendition="img" source="「夫婦の鬼」の図" /><lb />
+さるほどに<span type="ruby"><span type="rb">此触</span><span type="rp">（</span><span type="rt">このふれ</span><span type="rp">）</span></span>を聞く<span type="ruby"><span type="rb">嬉</span><span type="rp">（</span><span type="rt">うれ</span><span type="rp">）</span></span>しさ、<span type="ruby"><span type="rb">茨木童子</span><span type="rp">（</span><span type="rt">いばらきどうじ</span><span type="rp">）</span></span>が<lb />
+<span type="ruby"><span type="rb">断落</span><span type="rp">（</span><span type="rt">きりおと</span><span type="rp">）</span></span>されし我片腕をも見たらん心地して、<lb />
+此時なりと心ばかりは逸れども、<lb />
+<span type="ruby"><span type="rb">嚮</span><span type="rp">（</span><span type="rt">さき</span><span type="rp">）</span></span>に城門の<span type="ruby"><span type="rb">敗戦</span><span type="rp">（</span><span type="rt">やぶれ</span><span type="rp">）</span></span>に桃太郎と<span type="ruby"><span type="rb">亘合</span><span type="rp">（</span><span type="rt">わたりあ</span><span type="rp">）</span></span>わせ、<lb />
+五十貫目の<span type="ruby"><span type="rb">鉄棒</span><span type="rp">（</span><span type="rt">てつのぼう</span><span type="rp">）</span></span>もて、<lb />
+右の角を根元より<lb />
+<span type="ruby"><span type="rb">摧折</span><span type="rp">（</span><span type="rt">ひしお</span><span type="rp">）</span></span>れたる<span type="ruby"><span type="rb">創</span><span type="rp">（</span><span type="rt">きず</span><span type="rp">）</span></span>の今に<span type="ruby"><span type="rb">疼</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>むこと<span type="ruby"><span type="rb">頻</span><span type="rp">（</span><span type="rt">しき</span><span type="rp">）</span></span>りにして、<lb />
+不治の<span type="ruby"><span type="rb">疾</span><span type="rp">（</span><span type="rt">やまい</span><span type="rp">）</span></span>を得たりければ、<lb />
+合戦なんど思いも寄らず、<lb />
+かかる時子だにあらばと<lb />
+頻りに妻なる鬼を<span type="ruby"><span type="rb">罵</span><span type="rp">（</span><span type="rt">ののし</span><span type="rp">）</span></span>りぬ、<lb />
+されば妻の言いけるは、<lb />
+<span type="ruby"><span type="rb">伝聞</span><span type="rp">（</span><span type="rt">つたえき</span><span type="rp">）</span></span>く日本の桃太郎は、河に流れし桃より<lb />
+生れて武勇抜群の<span type="ruby"><span type="rb">小児</span><span type="rp">（</span><span type="rt">こせがれ</span><span type="rp">）</span></span>なり、<lb />
+<span type="ruby"><span type="rb">尋常</span><span type="rp">（</span><span type="rt">なみなみ</span><span type="rp">）</span></span>なる<span type="ruby"><span type="rb">鬼胎</span><span type="rp">（</span><span type="rt">おにのはら</span><span type="rp">）</span></span>より出でなん<span type="ruby"><span type="rb">鬼児</span><span type="rp">（</span><span type="rt">おにのこ</span><span type="rp">）</span></span>にては、<lb />
+<span type="ruby"><span type="rb">彼奴</span><span type="rp">（</span><span type="rt">かれめ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">敵手</span><span type="rp">（</span><span type="rt">あいて</span><span type="rp">）</span></span>とならんこと<span type="ruby"><span type="rb">覚束</span><span type="rp">（</span><span type="rt">おぼつか</span><span type="rp">）</span></span>なし、<span type="ruby"><span type="rb">妾</span><span type="rp">（</span><span type="rt">わらわ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">夜叉神</span><span type="rp">（</span><span type="rt">やしゃじん</span><span type="rp">）</span></span>に一命を<lb />
+<span type="ruby"><span type="rb">奉</span><span type="rp">（</span><span type="rt">ささ</span><span type="rp">）</span></span>げて、桃太郎<span type="ruby"><span type="rb">二倍</span><span type="rp">（</span><span type="rt">ふたつがけ</span><span type="rp">）</span></span>なる武勇の子を<span type="ruby"><span type="rb">祷</span><span type="rp">（</span><span type="rt">いの</span><span type="rp">）</span></span>るべしと、<lb />
+阿修羅河の岸なる夜叉神社に<span type="ruby"><span type="rb">参籠</span><span type="rp">（</span><span type="rt">さんろう</span><span type="rp">）</span></span>し、<span type="ruby"><span type="rb">三七日</span><span type="rp">（</span><span type="rt">さんしちにち</span><span type="rp">）</span></span>の<lb />
+夜にして始めて霊夢を蒙り、その<span type="ruby"><span type="rb">払暁</span><span type="rp">（</span><span type="rt">あかつき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">水際</span><span type="rp">（</span><span type="rt">みぎわ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">立出</span><span type="rp">（</span><span type="rt">たちい</span><span type="rp">）</span></span>でて<lb />
+見れば、いと大きなる<lb />
+<span type="ruby"><span type="rb">苦桃</span><span type="rp">（</span><span type="rt">にがもも</span><span type="rp">）</span></span><span type="ruby"><span type="rb">一顆</span><span type="rp">（</span><span type="rt">ひとつ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">浮波々々</span><span type="rp">（</span><span type="rt">ふわふわ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">浮来</span><span type="rp">（</span><span type="rt">うききた</span><span type="rp">）</span></span>りぬ、<lb />
+<span facs="fig50354_05.png" rend="illustration" rendition="img" source="「夜叉神と阿修羅河」の図" /><lb />
+<span type="ruby"><span type="rb">扨</span><span type="rp">（</span><span type="rt">さて</span><span type="rp">）</span></span>はと嬉しく<span type="ruby"><span type="rb">抱還</span><span type="rp">（</span><span type="rt">いだきかえ</span><span type="rp">）</span></span>れば、<lb />
+<span type="ruby"><span type="rb">待構</span><span type="rp">（</span><span type="rt">まちかま</span><span type="rp">）</span></span>えたる夫の<span type="ruby"><span type="rb">喜悦</span><span type="rp">（</span><span type="rt">よろこび</span><span type="rp">）</span></span>たとうる方なし、<lb />
+<span type="ruby"><span type="rb">割</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>きて見れば果せるかな、<span type="ruby"><span type="rb">核</span><span type="rp">（</span><span type="rt">さね</span><span type="rp">）</span></span>おのずから<span type="ruby"><span type="rb">飛</span><span type="rp">（</span><span type="rt">とん</span><span type="rp">）</span></span>で<lb />
+<span type="ruby"><span type="rb">坐上</span><span type="rp">（</span><span type="rt">ざじょう</span><span type="rp">）</span></span>に躍ると見えしが、<span type="ruby"><span type="rb">忽焉</span><span type="rp">（</span><span type="rt">たちまち</span><span type="rp">）</span></span><span type="ruby"><span type="rb">其長</span><span type="rp">（</span><span type="rt">そのたけ</span><span type="rp">）</span></span>一丈五尺の<lb />
+青鬼と変じ、<span type="ruby"><span type="rb">紅皿</span><span type="rp">（</span><span type="rt">べにさら</span><span type="rp">）</span></span>のごとき口を開き、<lb />
+<span type="ruby"><span type="rb">爛々</span><span type="rp">（</span><span type="rt">らんらん</span><span type="rp">）</span></span>たる<span type="ruby"><span type="rb">火焔</span><span type="rp">（</span><span type="rt">かえん</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">はき</span><span type="rp">）</span></span>て<span type="ruby"><span type="rb">矗</span><span type="rp">（</span><span type="rt">すっく</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">たっ</span><span type="rp">）</span></span>たる<lb />
+其風情、鬼の<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>にさえ恐ろしくも、<lb />
+また<span type="ruby"><span type="rb">物凄</span><span type="rp">（</span><span type="rt">ものすご</span><span type="rp">）</span></span>くぞ見えたりける、<lb />
+苦桃の<span type="ruby"><span type="rb">裏</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>より生まれたればとて<lb />
+<span type="ruby"><span type="rb">苦桃太郎</span><span type="rp">（</span><span type="rt">にがももたろう</span><span type="rp">）</span></span>と名乗らせぬ、<lb />
+<span facs="fig50354_06.png" rend="illustration" rendition="img" source="「苦桃太郎の誕生」の図" /><lb />
+<span type="ruby"><span type="rb">扨</span><span type="rp">（</span><span type="rt">さて</span><span type="rp">）</span></span>夫婦<span type="ruby"><span type="rb">所志</span><span type="rp">（</span><span type="rt">おもう</span><span type="rp">）</span></span>よしを語りければ<lb />
+苦桃大いに喜び、<lb />
+<span type="ruby"><span type="rb">易</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>き事かな、我<span type="ruby"><span type="rb">一跨</span><span type="rp">（</span><span type="rt">ひとまたぎ</span><span type="rp">）</span></span>に日本へ<span type="ruby"><span type="rb">推渡</span><span type="rp">（</span><span type="rt">おしわた</span><span type="rp">）</span></span>り、<lb />
+<span type="ruby"><span type="rb">三指</span><span type="rp">（</span><span type="rt">みつゆび</span><span type="rp">）</span></span>にて桃太がそっ首引抜き、<lb />
+其国の<span type="ruby"><span type="rb">珍宝</span><span type="rp">（</span><span type="rt">たから</span><span type="rp">）</span></span>の有らん限り<span type="ruby"><span type="rb">引攫</span><span type="rp">（</span><span type="rt">ひきさろ</span><span type="rp">）</span></span>うて還るべし、<lb />
+これより出陣出陣と勇み立てば、夫婦のいうよう、<lb />
+<span type="ruby"><span type="rb">此条</span><span type="rp">（</span><span type="rt">このじょう</span><span type="rp">）</span></span>王鬼に<span type="ruby"><span type="rb">届出</span><span type="rp">（</span><span type="rt">とどけい</span><span type="rp">）</span></span>でずして<span type="ruby"><span type="rb">我儘</span><span type="rp">（</span><span type="rt">わがまま</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">出立</span><span type="rp">（</span><span type="rt">しゅったつ</span><span type="rp">）</span></span>せば、<lb />
+<span type="ruby"><span type="rb">或</span><span type="rp">（</span><span type="rt">ある</span><span type="rp">）</span></span>いは功も功とならずして、<span type="ruby"><span type="rb">却</span><span type="rp">（</span><span type="rt">かえっ</span><span type="rp">）</span></span>て<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とがめ</span><span type="rp">）</span></span>のあらんも<lb />
+測り難し、<span type="ruby"><span type="rb">夫婦</span><span type="rp">（</span><span type="rt">われら</span><span type="rp">）</span></span>は罪を負う身の<lb />
+<span type="ruby"><span type="rb">拝謁</span><span type="rp">（</span><span type="rt">おめみえ</span><span type="rp">）</span></span><span type="ruby"><span type="rb"><span facs="../../../gaiji/1-84/1-84-56.png" rend="gaiji" rendition="img" source="※(「りっしんべん＋（匚＜夾）」、第3水準1-84-56)" /></span><span type="rp">（</span><span type="rt">かな</span><span type="rp">）</span></span>わざればとて、苦桃太郎<span type="ruby"><span type="rb">単身</span><span type="rp">（</span><span type="rt">ひとり</span><span type="rp">）</span></span>して<lb />
+王城に到らしめ、桃太郎征伐の義を<lb />
+<span type="ruby"><span type="rb">言上</span><span type="rp">（</span><span type="rt">ごんじょう</span><span type="rp">）</span></span>しければ、<lb />
+王鬼<span type="ruby"><span type="rb">火焔</span><span type="rp">（</span><span type="rt">ほのお</span><span type="rp">）</span></span>を吐きて<span type="ruby"><span type="rb">悦</span><span type="rp">（</span><span type="rt">よろこ</span><span type="rp">）</span></span>ぶこと限りなく、<lb />
+八角に<span type="ruby"><span type="rb">削成</span><span type="rp">（</span><span type="rt">けずりな</span><span type="rp">）</span></span>して二百八十八<span type="ruby"><span type="rb">箇</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">銀星</span><span type="rp">（</span><span type="rt">ぎんのほし</span><span type="rp">）</span></span><span type="ruby"><span type="rb">打</span><span type="rp">（</span><span type="rt">うっ</span><span type="rp">）</span></span>たる<lb />
+<span type="ruby"><span type="rb">鉄棒</span><span type="rp">（</span><span type="rt">てつのぼう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">賜</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>い、<span type="ruby"><span type="rb">爾</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">之</span><span type="rp">（</span><span type="rt">これ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">以</span><span type="rp">（</span><span type="rt">もっ</span><span type="rp">）</span></span>て<span type="ruby"><span type="rb">桃奴</span><span type="rp">（</span><span type="rt">ももめ</span><span type="rp">）</span></span>が腰骨<span type="ruby"><span type="rb">微塵</span><span type="rp">（</span><span type="rt">みじん</span><span type="rp">）</span></span>に砕けよと<lb />
+ありければ、苦桃太郎<span type="ruby"><span type="rb">冷笑</span><span type="rp">（</span><span type="rt">あざわら</span><span type="rp">）</span></span>い、<lb />
+桃太郎風情の<span type="ruby"><span type="rb">小童</span><span type="rp">（</span><span type="rt">こわっぱ</span><span type="rp">）</span></span>十人二十人、<span type="ruby"><span type="rb">虱</span><span type="rp">（</span><span type="rt">しらみ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">拈</span><span type="rp">（</span><span type="rt">ひね</span><span type="rp">）</span></span>るよりなお易きに、<lb />
+<span type="ruby"><span type="rb">安</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>ぞ武器などの入り候べき、<lb />
+<span type="ruby"><span type="rb">仮初</span><span type="rp">（</span><span type="rt">かりそめ</span><span type="rp">）</span></span>にもかかる物を賜う事<lb />
+<span type="ruby"><span type="rb">頗</span><span type="rp">（</span><span type="rt">すこぶ</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">某</span><span type="rp">（</span><span type="rt">それがし</span><span type="rp">）</span></span>が武勇を<lb />
+気遣いたまうに似たり、<lb />
+無礼を<span type="ruby"><span type="rb">御免</span><span type="rp">（</span><span type="rt">おんゆる</span><span type="rp">）</span></span>し候え、<lb />
+これ御覧ぜよ方々と、<lb />
+<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>なる鉄の<span type="ruby"><span type="rb">円柱</span><span type="rp">（</span><span type="rt">まるばしら</span><span type="rp">）</span></span>を小指もてゆらゆらと<lb />
+<span type="ruby"><span type="rb">盪揺</span><span type="rp">（</span><span type="rt">おしうご</span><span type="rp">）</span></span>かせば、満座<span type="ruby"><span type="rb">斉</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>しく色を失い、<lb />
+やれ苦桃<span type="ruby"><span type="rb">技※</span><span type="rp">（</span><span type="rt">てなみ</span><span type="rp">）</span></span><span rend="notes">［＃「てへん＋兩」、U+639A、84-9］</span>は見えたり、<lb />
+<span type="ruby"><span type="rb">止</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>めよ止めよと<span type="ruby"><span type="rb">震慄</span><span type="rp">（</span><span type="rt">おのの</span><span type="rp">）</span></span>きけり、<lb />
+<span facs="fig50354_07.png" rend="illustration" rendition="img" source="「苦桃太郎の技※［＃「てへん＋兩」、U+639A］」の図" /><lb />
+王鬼近く苦桃を<lb />
+招きて、かかる<span type="ruby"><span type="rb">爾</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span>が<lb />
+武勇を以てせば、<lb />
+桃太郎を<lb />
+滅ぼさん事<lb />
+疑いなし、<lb />
+別に取らす<lb />
+べきものありと、<lb />
+<span type="ruby"><span type="rb">自家</span><span type="rp">（</span><span type="rt">みずから</span><span type="rp">）</span></span><span type="ruby"><span type="rb">穿</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ぎたりし<lb />
+<span type="ruby"><span type="rb">白虎</span><span type="rp">（</span><span type="rt">びゃくこ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">生皮</span><span type="rp">（</span><span type="rt">いきがわ</span><span type="rp">）</span></span>もて<lb />
+造れる<span type="ruby"><span type="rb">褌</span><span type="rp">（</span><span type="rt">はかま</span><span type="rp">）</span></span>を解きて<span type="ruby"><span type="rb">投出</span><span type="rp">（</span><span type="rt">なげだ</span><span type="rp">）</span></span>し<lb />
+たまえば<span type="ruby"><span type="rb">取</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>て<span type="ruby"><span type="rb">戴</span><span type="rp">（</span><span type="rt">いただ</span><span type="rp">）</span></span>き、<lb />
+<span type="ruby"><span type="rb">双</span><span type="rp">（</span><span type="rt">そう</span><span type="rp">）</span></span>の角に<span type="ruby"><span type="rb">引懸</span><span type="rp">（</span><span type="rt">ひきか</span><span type="rp">）</span></span>け、<lb />
+<span type="ruby"><span type="rb">手振</span><span type="rp">（</span><span type="rt">てふり</span><span type="rp">）</span></span>足拍子<span type="ruby"><span type="rb">可笑</span><span type="rp">（</span><span type="rt">おかし</span><span type="rp">）</span></span>く<lb />
+<span type="ruby"><span type="rb">外道舞</span><span type="rp">（</span><span type="rt">げどうまい</span><span type="rp">）</span></span>というを舞い、<lb />
+喜び勇んで<span type="ruby"><span type="rb">退出</span><span type="rp">（</span><span type="rt">まかんで</span><span type="rp">）</span></span>けり、<lb />
+<span facs="fig50354_08.png" rend="illustration" rendition="img" source="「外道舞」の図" /><lb />
+<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あした</span><span type="rp">）</span></span>ともなりぬれば<lb />
+王城より使者向いて、<lb />
+<span type="ruby"><span type="rb">鉄線</span><span type="rp">（</span><span type="rt">はりがね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">嚢</span><span type="rp">（</span><span type="rt">ふくろ</span><span type="rp">）</span></span>に<lb />
+人間の<span type="ruby"><span type="rb">髑髏</span><span type="rp">（</span><span type="rt">されこうべ</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">附焼</span><span type="rp">（</span><span type="rt">つけやき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">十箇</span><span type="rp">（</span><span type="rt">とお</span><span type="rp">）</span></span>を<lb />
+盛りて、<lb />
+かの桃太郎が<lb />
+<span type="ruby"><span type="rb">黍団子</span><span type="rp">（</span><span type="rt">きびだんご</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">擬</span><span type="rp">（</span><span type="rt">なぞら</span><span type="rp">）</span></span>え、<lb />
+之を<span type="ruby"><span type="rb">兵粮</span><span type="rp">（</span><span type="rt">ひょうろう</span><span type="rp">）</span></span>にとて<lb />
+賜わりぬ、<lb />
+<span type="ruby"><span type="rb">徂々</span><span type="rp">（</span><span type="rt">ゆきゆき</span><span type="rp">）</span></span>て<lb />
+鬼ヶ島の<lb />
+<span type="ruby"><span type="rb">堺</span><span type="rp">（</span><span type="rt">さかい</span><span type="rp">）</span></span>に<lb />
+来りたる頃、<lb />
+魔風<span type="ruby"><span type="rb">遽</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">颯々</span><span type="rp">（</span><span type="rt">さつさつ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">吹荒</span><span type="rp">（</span><span type="rt">ふきすさ</span><span type="rp">）</span></span>み、<span type="ruby"><span type="rb">瀑</span><span type="rp">（</span><span type="rt">たき</span><span type="rp">）</span></span>のごとくに<lb />
+暴雨<span type="ruby"><span type="rb">沃</span><span type="rp">（</span><span type="rt">そそ</span><span type="rp">）</span></span>ぎて天地鳴動し、<span type="ruby"><span type="rb">坤軸</span><span type="rp">（</span><span type="rt">こんじく</span><span type="rp">）</span></span>も折るるかと<lb />
+想うばかりなり、<lb />
+あら心地<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">光景</span><span type="rp">（</span><span type="rt">ありさま</span><span type="rp">）</span></span>やと、<span type="ruby"><span type="rb">少時</span><span type="rp">（</span><span type="rt">しばし</span><span type="rp">）</span></span><span type="ruby"><span type="rb">立留</span><span type="rp">（</span><span type="rt">たちとどま</span><span type="rp">）</span></span>って<lb />
+四方を<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と見てあれば、<span type="ruby"><span type="rb">魔王岳</span><span type="rp">（</span><span type="rt">まおうがたけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">絶頂</span><span type="rp">（</span><span type="rt">ぜっちょう</span><span type="rp">）</span></span>に<lb />
+当りて、電光の<span type="ruby"><span type="rb">閃</span><span type="rp">（</span><span type="rt">ひらめ</span><span type="rp">）</span></span>く<span type="ruby"><span type="rb">裏</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">金色</span><span type="rp">（</span><span type="rt">こんじき</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">毒竜</span><span type="rp">（</span><span type="rt">どくりょう</span><span type="rp">）</span></span>現われ、<span type="ruby"><span type="rb">此方</span><span type="rp">（</span><span type="rt">こなた</span><span type="rp">）</span></span>を目懸けて<lb />
+<span type="ruby"><span type="rb">箭</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>を射るごとく<span type="ruby"><span type="rb">飛来</span><span type="rp">（</span><span type="rt">とびきた</span><span type="rp">）</span></span>る、<lb />
+<span facs="fig50354_09.png" rend="illustration" rendition="img" source="「毒竜」の図" /><lb />
+やあ<span type="ruby"><span type="rb">小賢</span><span type="rp">（</span><span type="rt">こさか</span><span type="rp">）</span></span>しき<span type="ruby"><span type="rb">長虫</span><span type="rp">（</span><span type="rt">ながむし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">通力立</span><span type="rp">（</span><span type="rt">つうりきだて</span><span type="rp">）</span></span>、<lb />
+寄らば目に物見せんと<lb />
+力足<span type="ruby"><span type="rb">蹈鳴</span><span type="rp">（</span><span type="rt">ふみな</span><span type="rp">）</span></span>らして身構うる<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>に、<lb />
+かの毒竜<span type="ruby"><span type="rb">舞下</span><span type="rp">（</span><span type="rt">まいさが</span><span type="rp">）</span></span>りて<lb />
+太郎が前に<span type="ruby"><span type="rb">蜷</span><span type="rp">（</span><span type="rt">とぐら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">屈</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>くこと十三<span type="ruby"><span type="rb">巻</span><span type="rp">（</span><span type="rt">まき</span><span type="rp">）</span></span>、<lb />
+舌を吐き首を<span type="ruby"><span type="rb">俛</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>れていうようは、<lb />
+某は魔王岳の<span type="ruby"><span type="rb">絶頂</span><span type="rp">（</span><span type="rt">いただき</span><span type="rp">）</span></span>なる<span type="ruby"><span type="rb">湖水</span><span type="rp">（</span><span type="rt">みずうみ</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">歳</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>久しく<span type="ruby"><span type="rb">棲</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>める<span type="ruby"><span type="rb">竜王</span><span type="rp">（</span><span type="rt">りょうおう</span><span type="rp">）</span></span>なるが、<lb />
+日本の地に<span type="ruby"><span type="rb">罷在</span><span type="rp">（</span><span type="rt">まかりあ</span><span type="rp">）</span></span>る<span type="ruby"><span type="rb">眷族</span><span type="rp">（</span><span type="rt">けんぞく</span><span type="rp">）</span></span>の<span rend="notes">［＃「眷族の」は底本では「眷属の」］</span><span type="ruby"><span type="rb">蛇類</span><span type="rp">（</span><span type="rt">へびども</span><span type="rp">）</span></span>、<lb />
+かの桃太郎が家臣なる雉子の<lb />
+一類の<span type="ruby"><span type="rb">為</span><span type="rp">（</span><span type="rt">ため</span><span type="rp">）</span></span>に、<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>まるること<lb />
+年々その数を知らず、<lb />
+いかにもして<span type="ruby"><span type="rb">此遺恨</span><span type="rp">（</span><span type="rt">このうらみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">報</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>えさばやと<lb />
+思う事久しけれど、<span type="ruby"><span type="rb">孤独</span><span type="rp">（</span><span type="rt">ひとり</span><span type="rp">）</span></span>の力及び難く、<lb />
+無念を<span type="ruby"><span type="rb">呑</span><span type="rp">（</span><span type="rt">のん</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">瞋恚</span><span type="rp">（</span><span type="rt">しんい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">炎<span facs="../../../gaiji/1-87/1-87-64.png" rend="gaiji" rendition="img" source="※(「陷のつくり＋炎」、第3水準1-87-64)" /></span><span type="rp">（</span><span type="rt">ほむら</span><span type="rp">）</span></span>を吐く折から、<lb />
+将軍此度桃太郎征伐のよしを聞及び、<lb />
+願わくは<span type="ruby"><span type="rb">御手</span><span type="rp">（</span><span type="rt">おんて</span><span type="rp">）</span></span>に随従して微力を<span type="ruby"><span type="rb">竭</span><span type="rp">（</span><span type="rt">つく</span><span type="rp">）</span></span>し、<lb />
+御威勢を以て一族の積る恨みを<lb />
+散ぜんとて、これまで<span type="ruby"><span type="rb">御</span><span type="rp">（</span><span type="rt">おん</span><span type="rp">）</span></span>出迎い<lb />
+<span type="ruby"><span type="rb">仕</span><span type="rp">（</span><span type="rt">つかま</span><span type="rp">）</span></span>つりぬ、あわれ<span type="ruby"><span type="rb">御従軍</span><span type="rp">（</span><span type="rt">おんとも</span><span type="rp">）</span></span><span type="ruby"><span type="rb">御許</span><span type="rp">（</span><span type="rt">おんゆるし</span><span type="rp">）</span></span>あらば、<lb />
+身の面目<span type="ruby"><span type="rb">之</span><span type="rp">（</span><span type="rt">これ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">過</span><span type="rp">（</span><span type="rt">すぎ</span><span type="rp">）</span></span>じとありければ、<lb />
+苦桃太郎喜悦浅からず、腰なる<span type="ruby"><span type="rb">髑髏</span><span type="rp">（</span><span type="rt">どくろ</span><span type="rp">）</span></span><lb />
+<span type="ruby"><span type="rb">一個</span><span type="rp">（</span><span type="rt">ひとつ</span><span type="rp">）</span></span>取らせて<span type="ruby"><span type="rb">主従</span><span type="rp">（</span><span type="rt">しゅうじゅう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">契約</span><span type="rp">（</span><span type="rt">ちぎり</span><span type="rp">）</span></span>を結びぬ、<lb />
+<span facs="fig50354_10.png" rend="illustration" rendition="img" source="「主従の契約」の図" /><lb />
+<span type="ruby"><span type="rb">爾時</span><span type="rp">（</span><span type="rt">そのとき</span><span type="rp">）</span></span>毒竜のいいけるは、<span type="ruby"><span type="rb">徃時</span><span type="rp">（</span><span type="rt">いんじ</span><span type="rp">）</span></span>桃太郎は<lb />
+雉子猿犬の<span type="ruby"><span type="rb">三郎党</span><span type="rp">（</span><span type="rt">さんろうどう</span><span type="rp">）</span></span>を従がえて、<lb />
+大勝利を得し<span type="ruby"><span type="rb">例</span><span type="rp">（</span><span type="rt">ためし</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">傚</span><span type="rp">（</span><span type="rt">なら</span><span type="rp">）</span></span>い、<lb />
+将軍も<span type="ruby"><span type="rb">亦</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span><span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">よき</span><span type="rp">）</span></span>郎党を<span type="ruby"><span type="rb">召</span><span type="rp">（</span><span type="rt">めし</span><span type="rp">）</span></span>たまわずや、<lb />
+<span type="ruby"><span type="rb">某</span><span type="rp">（</span><span type="rt">それがし</span><span type="rp">）</span></span>が無二の<span type="ruby"><span type="rb">交</span><span type="rp">（</span><span type="rt">まじわり</span><span type="rp">）</span></span>を結べる<lb />
+<span type="ruby"><span type="rb">二頭</span><span type="rp">（</span><span type="rt">にひき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">勇者</span><span type="rp">（</span><span type="rt">つわもの</span><span type="rp">）</span></span>あり、もし<lb />
+<span type="ruby"><span type="rb">御意</span><span type="rp">（</span><span type="rt">ぎょい</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「ぎょい」は底本では「ぎょみ」］</span>あらば<span type="ruby"><span type="rb">立所</span><span type="rp">（</span><span type="rt">たちどころ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">召寄</span><span type="rp">（</span><span type="rt">めしよ</span><span type="rp">）</span></span>すべし<lb />
+との推挙に、<span type="ruby"><span type="rb">千羊</span><span type="rp">（</span><span type="rt">せんよう</span><span type="rp">）</span></span>の皮は<lb />
+<span type="ruby"><span type="rb">一狐腋</span><span type="rp">（</span><span type="rt">いっこのえき</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">如</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>かずの<span type="ruby"><span type="rb">本文</span><span type="rp">（</span><span type="rt">ほんもん</span><span type="rp">）</span></span>、<lb />
+なまじいなる<lb />
+<span type="ruby"><span type="rb">輩</span><span type="rp">（</span><span type="rt">やから</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">却</span><span type="rp">（</span><span type="rt">かえっ</span><span type="rp">）</span></span>て<span type="ruby"><span type="rb">足手纏</span><span type="rp">（</span><span type="rt">あしでまとい</span><span type="rp">）</span></span>なれど、<lb />
+<span type="ruby"><span type="rb">御身</span><span type="rp">（</span><span type="rt">おんみ</span><span type="rp">）</span></span>が信じて一方の大将とも<lb />
+なすべき器量ありとせば、早々<lb />
+その者を<lb />
+召寄せた<lb />
+まえという、<lb />
+<span facs="fig50354_11.png" rend="illustration" rendition="img" source="「大狒と狼」の図" /><lb />
+<span type="ruby"><span type="rb">恐</span><span type="rp">（</span><span type="rt">おそれ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">多</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>き申分には候えども、<lb />
+類は友を以て<span type="ruby"><span type="rb">聚</span><span type="rp">（</span><span type="rt">あつ</span><span type="rp">）</span></span>まるの<span type="ruby"><span type="rb">喩</span><span type="rp">（</span><span type="rt">たとえ</span><span type="rp">）</span></span>、<lb />
+<span type="ruby"><span type="rb">某</span><span type="rp">（</span><span type="rt">それがし</span><span type="rp">）</span></span><span rend="notes">［＃「某」は底本では「其」］</span>不肖といえども<lb />
+魔王岳の竜王なり、<lb />
+凡俗なる<span type="ruby"><span type="rb">狐狸</span><span type="rp">（</span><span type="rt">こり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">輩</span><span type="rp">（</span><span type="rt">ともがら</span><span type="rp">）</span></span>を友と<lb />
+せんや、まず召寄せて<lb />
+<span type="ruby"><span type="rb">見参</span><span type="rp">（</span><span type="rt">げんざん</span><span type="rp">）</span></span>に入れんと、<lb />
+<span type="ruby"><span type="rb">二振</span><span type="rp">（</span><span type="rt">ふたふり</span><span type="rp">）</span></span><span type="ruby"><span type="rb">三振</span><span type="rp">（</span><span type="rt">みふり</span><span type="rp">）</span></span>尾を<span type="ruby"><span type="rb">掉</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>れば<lb />
+<span type="ruby"><span type="rb">響</span><span type="rp">（</span><span type="rt">ひびき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">宛然</span><span type="rp">（</span><span type="rt">さながら</span><span type="rp">）</span></span>金鈴のごとし、<lb />
+之を合図に<span type="ruby"><span type="rb">北方</span><span type="rp">（</span><span type="rt">ほくほう</span><span type="rp">）</span></span>より<span type="ruby"><span type="rb">忽然</span><span type="rp">（</span><span type="rt">こつぜん</span><span type="rp">）</span></span>として<lb />
+<span type="ruby"><span type="rb">白毛</span><span type="rp">（</span><span type="rt">びゃくもう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">朱面</span><span type="rp">（</span><span type="rt">しゅめん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">大狒</span><span type="rp">（</span><span type="rt">おおひひ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">飛来</span><span type="rp">（</span><span type="rt">とびきた</span><span type="rp">）</span></span>り、<lb />
+<span type="ruby"><span type="rb">西方</span><span type="rp">（</span><span type="rt">さいほう</span><span type="rp">）</span></span>よりは牛かと<span type="ruby"><span type="rb">見紛</span><span type="rp">（</span><span type="rt">みまご</span><span type="rp">）</span></span>うばかりの<lb />
+<span type="ruby"><span type="rb">狼</span><span type="rp">（</span><span type="rt">おおかみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">躍出</span><span type="rp">（</span><span type="rt">おどりい</span><span type="rp">）</span></span>でて、一斉に太郎が前に<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ぬかず</span><span type="rp">）</span></span>けば、<lb />
+苦桃岩角に腰<span type="ruby"><span type="rb">打懸</span><span type="rp">（</span><span type="rt">うちか</span><span type="rp">）</span></span>け、<lb />
+<span type="ruby"><span type="rb">鴆</span><span type="rp">（</span><span type="rt">ちん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">羽扇</span><span type="rp">（</span><span type="rt">はおうぎ</span><span type="rp">）</span></span>にて<span type="ruby"><span type="rb">麾</span><span type="rp">（</span><span type="rt">さしま</span><span type="rp">）</span></span>ねき、<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>に頼もしき<lb />
+器量<span type="ruby"><span type="rb">骨格</span><span type="rp">（</span><span type="rt">こつがら</span><span type="rp">）</span></span>、狒は猿の<span type="ruby"><span type="rb">首領</span><span type="rp">（</span><span type="rt">かしら</span><span type="rp">）</span></span>にして<lb />
+狼は犬の<span type="ruby"><span type="rb">強敵</span><span type="rp">（</span><span type="rt">ごうてき</span><span type="rp">）</span></span>たり、<lb />
+之に加うるに毒竜あれば、<lb />
+桃太郎を一戦に<span type="ruby"><span type="rb">撃破</span><span type="rp">（</span><span type="rt">うちやぶ</span><span type="rp">）</span></span>らん事、<span type="ruby"><span type="rb">鉄槌</span><span type="rp">（</span><span type="rt">てっつい</span><span type="rp">）</span></span>を以て<lb />
+<span type="ruby"><span type="rb">土器</span><span type="rp">（</span><span type="rt">かわらけ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">摧</span><span type="rp">（</span><span type="rt">くだ</span><span type="rp">）</span></span>くがごとし、いざ引出物取らせんと、<lb />
+また<span type="ruby"><span type="rb">二箇</span><span type="rp">（</span><span type="rt">ふたつ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">髑髏</span><span type="rp">（</span><span type="rt">どくろ</span><span type="rp">）</span></span>を与え、いでや出陣と<span type="ruby"><span type="rb">立上</span><span type="rp">（</span><span type="rt">たちあが</span><span type="rp">）</span></span>れば、<lb />
+毒竜再び策を献じていわく、某に<span type="ruby"><span type="rb">飛行</span><span type="rp">（</span><span type="rt">ひぎょう</span><span type="rp">）</span></span>自在の術の候、<lb />
+<span type="ruby"><span type="rb">瞬時</span><span type="rp">（</span><span type="rt">またたくま</span><span type="rp">）</span></span>にして日本国に到るべしと、虚空に向って<span type="ruby"><span type="rb">呼吸</span><span type="rp">（</span><span type="rt">いき</span><span type="rp">）</span></span>を吐けば、<lb />
+不思議や黄雲<span type="ruby"><span type="rb">遽然</span><span type="rp">（</span><span type="rt">にわかに</span><span type="rp">）</span></span>蒸して眼前に<span type="ruby"><span type="rb">聚</span><span type="rp">（</span><span type="rt">あつま</span><span type="rp">）</span></span>りぬ、主従之に打乗り、<lb />
+宙を飛ぶこと西遊記の絵のごとく、一昼夜にして眼界<span type="ruby"><span type="rb">果</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>しなき<lb />
+<span type="ruby"><span type="rb">大洋</span><span type="rp">（</span><span type="rt">おおうなばら</span><span type="rp">）</span></span>の上にぞ来りける、<lb />
+<span facs="fig50354_12.png" rend="illustration" rendition="img" source="「飛行自在の術」の図" /><lb />
+苦桃太郎不審を起し、我等神通力を以てかく飛行しながら、<lb />
+未だ日本の地に着かざる<span type="ruby"><span type="rb">理</span><span type="rp">（</span><span type="rt">り</span><span type="rp">）</span></span>なし、毒竜<span type="ruby"><span type="rb">爰</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>は鬼ヶ島を去ること<span type="ruby"><span type="rb">若干里</span><span type="rp">（</span><span type="rt">いくばく</span><span type="rp">）</span></span>ぞ、<lb />
+さん候、<span type="ruby"><span type="rb">大約</span><span type="rp">（</span><span type="rt">おおよそ</span><span type="rp">）</span></span>十二万三千四百<lb />
+五十六億七千八百九十里、<lb />
+おっと<span type="ruby"><span type="rb">其</span><span type="rp">（</span><span type="rt">それ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">行過</span><span type="rp">（</span><span type="rt">ゆきす</span><span type="rp">）</span></span>ぎたり、<lb />
+戻せ戻せと逆飛雲の法を<lb />
+行なわせて、無二無三に<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">もど</span><span type="rp">）</span></span>るほどに<lb />
+還るほどに、また<span type="ruby"><span type="rb">戻過</span><span type="rp">（</span><span type="rt">もどりす</span><span type="rp">）</span></span>ぐること<lb />
+九十八万七千六百五十四億<lb />
+三万二千と一百里、これではならぬと<lb />
+また出直して、行けば行過ぎ、<lb />
+戻れば戻過ぎ、行つ戻りつ、<lb />
+戻りつ行きつ、左へ<span type="ruby"><span type="rb">翔</span><span type="rp">（</span><span type="rt">かけ</span><span type="rp">）</span></span>り右へ走り、<lb />
+四面八角縦横無尽に<span type="ruby"><span type="rb">飛廻</span><span type="rp">（</span><span type="rt">とびまわ</span><span type="rp">）</span></span>るほどに、<lb />
+<span type="ruby"><span type="rb">流石</span><span type="rp">（</span><span type="rt">さすが</span><span type="rp">）</span></span>の毒竜の<span type="ruby"><span type="rb">魔力</span><span type="rp">（</span><span type="rt">まりき</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">限</span><span type="rp">（</span><span type="rt">かぎり</span><span type="rp">）</span></span>あれば次第に疲れ、<lb />
+雲は弱りて薄れ行き、<lb />
+今は古綿のごとく<span type="ruby"><span type="rb">此処</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">寸断</span><span type="rp">（</span><span type="rt">ちぎ</span><span type="rp">）</span></span>れ<span type="ruby"><span type="rb">彼所</span><span type="rp">（</span><span type="rt">かしこ</span><span type="rp">）</span></span>も寸断れて、<lb />
+<span type="ruby"><span type="rb">放下</span><span type="rp">（</span><span type="rt">ほけ</span><span type="rp">）</span></span>たる<span type="ruby"><span type="rb">空隙</span><span type="rp">（</span><span type="rt">あな</span><span type="rp">）</span></span>より<span type="ruby"><span type="rb">践外</span><span type="rp">（</span><span type="rt">ふみはず</span><span type="rp">）</span></span>して、<span type="ruby"><span type="rb">狒</span><span type="rp">（</span><span type="rt">ひひ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">狼</span><span type="rp">（</span><span type="rt">おおかみ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">敢</span><span type="rp">（</span><span type="rt">あえ</span><span type="rp">）</span></span>なくも<lb />
+<span type="ruby"><span type="rb">泡立</span><span type="rp">（</span><span type="rt">あわだつ</span><span type="rp">）</span></span>海に落入りて、<span type="ruby"><span type="rb">鰐魚</span><span type="rp">（</span><span type="rt">わに</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">餌食</span><span type="rp">（</span><span type="rt">えじき</span><span type="rp">）</span></span>となりけらし。<lb />
+<span facs="fig50354_13.png" rend="illustration" rendition="img" source="「狒狼が海に落入」の図" /><lb />
+苦桃太郎之を見るより奮然として<span type="ruby"><span type="rb">怒</span><span type="rp">（</span><span type="rt">いかり</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">為</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>し、<lb />
+おのれ毒竜、<span type="ruby"><span type="rb">爾</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">魯鈍</span><span type="rp">（</span><span type="rt">うつけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">故</span><span type="rp">（</span><span type="rt">ゆえ</span><span type="rp">）</span></span>を以て、<lb />
+<span type="ruby"><span type="rb">股肱</span><span type="rp">（</span><span type="rt">ここう</span><span type="rp">）</span></span>の臣を<span type="ruby"><span type="rb">喪</span><span type="rp">（</span><span type="rt">うしな</span><span type="rp">）</span></span>いたるぞ、<lb />
+軍陣の<span type="ruby"><span type="rb">門出</span><span type="rp">（</span><span type="rt">かどで</span><span type="rp">）</span></span>に<lb />
+<span type="ruby"><span type="rb">前徴</span><span type="rp">（</span><span type="rt">さいさき</span><span type="rp">）</span></span>悪し、<lb />
+<span type="ruby"><span type="rb">憎</span><span type="rp">（</span><span type="rt">にっ</span><span type="rp">）</span></span>くき奴と<lb />
+<span type="ruby"><span type="rb">拳</span><span type="rp">（</span><span type="rt">こぶし</span><span type="rp">）</span></span>を固めて、<lb />
+毒竜の<span type="ruby"><span type="rb">真額</span><span type="rp">（</span><span type="rt">まっこう</span><span type="rp">）</span></span><lb />
+砕けよと<lb />
+<span type="ruby"><span type="rb">乱打</span><span type="rp">（</span><span type="rt">つづけうち</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">撃</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>ければ、<lb />
+もとより<span type="ruby"><span type="rb">暴気</span><span type="rp">（</span><span type="rt">あらき</span><span type="rp">）</span></span>の<lb />
+毒竜は<span type="ruby"><span type="rb">発憤</span><span type="rp">（</span><span type="rt">いかり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">まなこ</span><span type="rp">）</span></span>に<lb />
+朱を<span type="ruby"><span type="rb">濺</span><span type="rp">（</span><span type="rt">そそ</span><span type="rp">）</span></span>ぎ、金の<span type="ruby"><span type="rb">鱗</span><span type="rp">（</span><span type="rt">うろこ</span><span type="rp">）</span></span>を<lb />
+<span type="ruby"><span type="rb">逆</span><span type="rp">（</span><span type="rt">さかだ</span><span type="rp">）</span></span>てたるは<span type="ruby"><span type="rb">木葉</span><span type="rp">（</span><span type="rt">このは</span><span type="rp">）</span></span>に風の<span type="ruby"><span type="rb">吹</span><span type="rp">（</span><span type="rt">ふく</span><span type="rp">）</span></span>ごとし、<lb />
+<span facs="fig50354_14.png" rend="illustration" rendition="img" source="「毒龍が苦桃太郎を巻裹める」の図" /><lb />
+やあ小憎きおのれが大将<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">づら</span><span type="rp">）</span></span>、<lb />
+いで竜王が<span type="ruby"><span type="rb">本事</span><span type="rp">（</span><span type="rt">てなみ</span><span type="rp">）</span></span>を見よと、<lb />
+<span type="ruby"><span type="rb">十間</span><span type="rp">（</span><span type="rt">じっけん</span><span type="rp">）</span></span>余りの尾を<span type="ruby"><span type="rb">風車</span><span type="rp">（</span><span type="rt">かざぐるま</span><span type="rp">）</span></span>のごとくに<lb />
+舞わして、苦桃太郎を<span type="ruby"><span type="rb">七巻</span><span type="rp">（</span><span type="rt">ななまき</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">巻裹</span><span type="rp">（</span><span type="rt">まきくる</span><span type="rp">）</span></span>め、<lb />
+骨も微塵と<span type="ruby"><span type="rb">固緊</span><span type="rp">（</span><span type="rt">しめつ</span><span type="rp">）</span></span>くれば、物々しやと苦桃太郎、<lb />
+<span type="ruby"><span type="rb">惣身</span><span type="rp">（</span><span type="rt">そうみ</span><span type="rp">）</span></span>にうんと力を<span type="ruby"><span type="rb">籠</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>むれば、さしもの毒竜<span type="ruby"><span type="rb">弗</span><span type="rp">（</span><span type="rt">ふっ</span><span type="rp">）</span></span>つと<span type="ruby"><span type="rb">断</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>れ、<lb />
+<span type="ruby"><span type="rb">四段</span><span type="rp">（</span><span type="rt">よだん</span><span type="rp">）</span></span>となって<span type="ruby"><span type="rb">仆</span><span type="rp">（</span><span type="rt">たお</span><span type="rp">）</span></span>るれば、<lb />
+<span type="ruby"><span type="rb">魔力</span><span type="rp">（</span><span type="rt">まりき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">忽</span><span type="rp">（</span><span type="rt">たちま</span><span type="rp">）</span></span>ち解けて<lb />
+雲は<span type="ruby"><span type="rb">吹消</span><span type="rp">（</span><span type="rt">ふきけ</span><span type="rp">）</span></span>すごとくなくなれば、<lb />
+何かは以て<span type="ruby"><span type="rb">堪</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>るべき、<lb />
+苦桃太郎<span type="ruby"><span type="rb">迢々</span><span type="rp">（</span><span type="rt">はるか</span><span type="rp">）</span></span>の虚空より<lb />
+足場を失い、<lb />
+小石のごとく真一文字に<span type="ruby"><span type="rb">舞下</span><span type="rp">（</span><span type="rt">まいさが</span><span type="rp">）</span></span>りて、<lb />
+漫々たる<span type="ruby"><span type="rb">大海</span><span type="rp">（</span><span type="rt">だいかい</span><span type="rp">）</span></span>へぼかん！<lb />
+<span facs="fig50354_15.png" rend="illustration" rendition="img" source="「苦桃太郎の落下」の図" /><lb />
+<span facs="fig50354_16.png" rend="illustration" rendition="img" source="「「おにが嶋の文字にて」書かれた『鬼桃太郎』の序文（紅葉筆）」のキャプション付きの図" /><lb />
+<span rend="caption">「おにが嶋の文字にて」書かれた『鬼桃太郎』の序文（紅葉筆）</span><lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

@@ -1,0 +1,734 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>錢形平次捕物控</title>
+        <author>野村胡堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2017-02-06">作成</resp><resp /><note>
+<lb />
+底本：「錢形平次捕物全集第三十九卷　女護の島異變」同光社<lb />
+　　　1955（昭和30）年1月15日発行<lb />
+初出：「オール讀物」文藝春秋新社<lb />
+　　　1949（昭和24）年1〜3月号<lb />
+※題名「錢形平次捕物控」は、底本にはありませんが、一般に認識されている題名として、補いました。<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：特定非営利活動法人はるかぜ<lb />
+校正：門田裕志<lb />
+<date when="2017-02-06">2017年2月6日</date>作成<lb />
+<date when="2017-03-04">2017年3月4日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>特定非営利活動法人はるかぜ</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>門田裕志</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>錢形平次捕物控</title><author>野村胡堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">發端篇</span></span></span>
+<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">一</span></span></span>
+「お早う、親分」<lb />
+「何んだ八か、今日あたりはお前の大變が舞ひ込みさうな陽氣だと思つたよ。斯う妙に生暖けえのは唯事ぢやねえ」<lb />
+　庭木戸の上から覗く八五郎の長い顎を見付けて、平次は坐つたまゝ聲を掛けました。<lb />
+　松が取れたばかりの或日。<lb />
+「地震と間違へちやいけません。――本郷一丁目の朝井玄龍、親分も御存じでせう」<lb />
+「<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はやり</span><span type="rp">）</span></span>醫者だな。ちよいと好い男の坊主頭で黄八丈に<span type="ruby"><span type="rb">黒縮緬</span><span type="rp">（</span><span type="rt">くろちりめん</span><span type="rp">）</span></span>がよく似合ふ――」<lb />
+「その好い男の本道の家で、評判娘のお玉といふのが殺されたんで――」<lb />
+「殺された？」<lb />
+「背中を脇差で一と突き――自分の手ぢやあの藝當は出來ません」<lb />
+「よし、行つて見よう」<lb />
+　平次は直ぐ飛び出しました。本郷一丁目は<span type="ruby"><span type="rb">眞砂</span><span type="rp">（</span><span type="rt">まさご</span><span type="rp">）</span></span>町の喜三郎の繩張りですが、若くて力押しの喜三郎に任せて置くにしては、事件があまりにも重大らしい豫感があつたのです。<lb />
+「親分は、あの醫者の手に掛つたことがありますか」<lb />
+　途々八五郎は、平次に話しかけました。<lb />
+「有難いことに<span rend="sesame_dot" rendition="em">ろく</span>な風邪も引かないよ。尤も萬一<span type="ruby"><span type="rb">患</span><span type="rp">（</span><span type="rt">わづ</span><span type="rp">）</span></span>らつたとしても、俺は流行醫者は嫌ひだよ」<lb />
+「親父の玄龍は<span type="ruby"><span type="rb">氣障</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span>だが、殺された娘は評判ものでしたよ。氣輕で愛嬌があつて、色つぽくて――」<lb />
+「十六や七で色つぽい娘も好きになれないよ。尤も、殺されたとあつちや可哀想だが」<lb />
+　そんな話をしてゐるうちに、二人は本郷一丁目の朝井玄龍の裏口から、内玄關に掛つてをりました。<lb />
+　その頃の朝井玄龍は、全く日の出の勢ひの流行醫者で、一介の町醫者ながら、近く上樣の御脈も取ることになつたといふ噂も立つてをります。言ふまでもなく召されて將軍の脈を取るのは、町醫者の最上の榮譽で、御典醫は表向き民間の診療が出來なかつたのですから、朝井玄龍はまさに名聲富貴<span type="ruby"><span type="rb">倶</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>に兼ね<span type="ruby"><span type="rb">備</span><span type="rp">（</span><span type="rt">そな</span><span type="rp">）</span></span>はつた杏林の福人とも言へるのでした。<lb />
+　先代は朝井<span type="ruby"><span type="rb">玄策</span><span type="rp">（</span><span type="rt">げんさく</span><span type="rp">）</span></span>と言つて、これも江戸中に聞えた名醫でした。少しく變人で名聲を好まず、本郷一丁目に堂々たる大玄關を張りながら、貧乏人相手に一生を過したといつても宜い人です。今の玄龍はその聟養子で、先代に<span type="ruby"><span type="rb">優</span><span type="rp">（</span><span type="rt">まさ</span><span type="rp">）</span></span>ると言はれた人氣でした。少なくとも男つ振りも辯口も、養父の<span type="ruby"><span type="rb">玄策</span><span type="rp">（</span><span type="rt">げんさく</span><span type="rp">）</span></span>の粗野で<span type="ruby"><span type="rb">狷介</span><span type="rp">（</span><span type="rt">けんかい</span><span type="rp">）</span></span>なのとは、比較にならぬほどの文化人だつたのです。<lb />
+「おや、錢形の、飛んだ御苦勞だつたね。今度は親分の智慧を拜借するほどのこともなささうだぜ、下手人の當りは付いたつもりだ」<lb />
+　眞砂町の喜三郎は、鬪志滿々たる顏で平次を迎へました。平次より少し年上の三十五六、負けん氣で練り固めた正直者と言つた感じの男です。<lb />
+「さうか、それは宜い<span type="ruby"><span type="rb">鹽梅</span><span type="rp">（</span><span type="rt">あんべえ</span><span type="rp">）</span></span>だ。後學のため一と通り見せて貰はうか」<lb />
+「宜いとも、斯う來るが宜い」<lb />
+　眞砂町の喜三郎は我がもの顏に先に立ちます。<lb />
+　玄關の宏大さに比べて、中はさして住よささうには見られませんが、さすがに<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はやり</span><span type="rp">）</span></span>醫者らしく、すべての調度は贅澤でギラギラして、金がかゝつて居る割には、品の惡さを救ふ由はありません。<lb />
+　この騷ぎで稼業はさすがに休み、玄關は重々しく閉ざしたまゝで、薄暗い廊下を少し行くと、<lb />
+「これは、親分衆、飛んだ御苦勞で」<lb />
+　主人の朝井玄龍は、襟卷を取つて坊主頭を<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>でながら近づいて來ました。<lb />
+　まだ四十前後の、醫者としては年配の箔は足りませんが、面長の鼻の高い、歌舞伎役者のやうな好い男振りです。一人娘が殺された、悲嘆のドン底に居ても、人の顏さへ見れば、<span type="ruby"><span type="rb">愛嬌</span><span type="rp">（</span><span type="rt">あいけう</span><span type="rp">）</span></span>笑ひを忘れないと言つた、この上もない如才なさが、腕にも名聲にも<span type="ruby"><span type="rb">拘</span><span type="rp">（</span><span type="rt">かゝは</span><span type="rp">）</span></span>らず、世間の一部から反感を持たれてゐる原因でもあるでせう。<lb />
+　娘お玉が殺されたのは、建物の横に突き出した四疊半で、南に三尺の椽側があつて、雨戸は嚴重に締つてをり、兩側に一間の腰の低い格子窓、昨夜の生暖かさで、若い娘らしく<span type="ruby"><span type="rb">逆上</span><span type="rp">（</span><span type="rt">のぼせ</span><span type="rp">）</span></span>たものか、其處はまだ雨戸が締めずにあつたといふことです。<lb />
+　娘の死骸はその窓の下に轉がつてゐたのを、悲鳴に驚いて飛んで來た母親の時代が見付けたといふことでした。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">二</span></span></span>
+　殺された娘お玉の死體は、隣りの六疊に<span type="ruby"><span type="rb">移</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>され、母親の時代と、その義妹でお玉には叔母に當るお近が、涙ながらに<span type="ruby"><span type="rb">死裝束</span><span type="rp">（</span><span type="rt">しにしやうぞく</span><span type="rp">）</span></span>の世話をしてをりました。<lb />
+「ね、親分、悲嘆にくれて居るが、二人共たいした年増でせう。<span type="ruby"><span type="rb">何方</span><span type="rp">（</span><span type="rt">どつち</span><span type="rp">）</span></span>も昔は芳町の踊り子だつたさうで――」<lb />
+　八五郎は廊下に立つて居る平次の耳に囁きます。<lb />
+　お玉の死顏に、最後の化粧をさせて、見よげな<span type="ruby"><span type="rb">袷</span><span type="rp">（</span><span type="rt">あはせ</span><span type="rp">）</span></span>に着換へさせ、頬を撫でたり、襟を直したり、髮を掻き上げたりしてゐる二人の年増女、――娘の死の<span type="ruby"><span type="rb">裝</span><span type="rp">（</span><span type="rt">よそほ</span><span type="rp">）</span></span>ひに餘念もなく<span rend="sesame_dot" rendition="em">ひたり</span>きつて、悲しみの底に<span type="ruby"><span type="rb">鎭</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>まり返つて居た二人の女が、世にもすぐれて美しいのに、錢形平次も驚きの眼を見張りました。<lb />
+　母親の時代は三十四五、もう一つ二つ年を取つてゐるかもわかりませんが、蒼白く<span type="ruby"><span type="rb">透</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>き通つた細面で、少し病的な感じではあるにしても、ローランサンの描く――いや／＼後の世の<span type="ruby"><span type="rb">浮世繪師</span><span type="rp">（</span><span type="rt">うきよゑし</span><span type="rp">）</span></span>喜多川<span type="ruby"><span type="rb">歌麿</span><span type="rp">（</span><span type="rt">うたまろ</span><span type="rp">）</span></span>が、古今の傑作『<span type="ruby"><span type="rb">青樓</span><span type="rp">（</span><span type="rt">せいろう</span><span type="rp">）</span></span>十二時』に寫した、肉の<span type="ruby"><span type="rb">倦怠</span><span type="rp">（</span><span type="rt">けんたい</span><span type="rp">）</span></span>と、歡樂の哀愁を、しみ／″＼と噛みしめた、美しい遊女のやうな、それは<span type="ruby"><span type="rb">測</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>り知られぬ魅力の持主でもあつたのです。<lb />
+　青い地味な<span type="ruby"><span type="rb">袷</span><span type="rp">（</span><span type="rt">あはせ</span><span type="rp">）</span></span>がよく似合つて、思ひ出したやうに娘の冷たい死顏と<span type="ruby"><span type="rb">頬摺</span><span type="rp">（</span><span type="rt">ほゝず</span><span type="rp">）</span></span>りする、痛々しい歎きを見せられて、平次は一歩部屋の中に入つた足を停めたほどでした。<lb />
+　その妹のお近――これは花柳の社會の所謂妹で、<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>と血の<span type="ruby"><span type="rb">繋</span><span type="rp">（</span><span type="rt">つな</span><span type="rp">）</span></span>がりがあるわけではありません。<span type="ruby"><span type="rb">身請</span><span type="rp">（</span><span type="rt">みう</span><span type="rp">）</span></span>けをしてくれた旦那に死なれて、少しばかりの家財と共に、昔の姉分の時代を頼つて、此家へ轉げ込んだといふ女です。<lb />
+　が、その美しさは、時代に<span type="ruby"><span type="rb">劣</span><span type="rp">（</span><span type="rt">おと</span><span type="rp">）</span></span>らず、まさに拔群でした。三十そこ／＼の若さのせゐもあるでせう、丸々と肥つた、色白の愛嬌者で、<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>に此べると、遙かに世俗的で、そして男好きのする、世に謂ふ娼婦型の美女でした。<lb />
+「錢形の親分だよ」<lb />
+　朝井玄龍が聲を掛けると、二人の女はハツと顏を擧げました。わけても母親の<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>の燃える眼が、この高名な御用聞の、やゝ冷たい顏に釘付けになります。<lb />
+「親分さん――見て下さい。斯んな<span type="ruby"><span type="rb">虐</span><span type="rp">（</span><span type="rt">むご</span><span type="rp">）</span></span>たらしい事をして」<lb />
+　美女の唇は、聲のない<span type="ruby"><span type="rb">嗚咽</span><span type="rp">（</span><span type="rt">をえつ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>みます。<lb />
+　平次は默禮して娘の死骸の前に近づき、片膝を折つて、一應の調べにかゝりました。母親と叔母の手で、薄化粧させた娘の死顏は、充分に美しかるべき筈ですが、斷末魔の苦しみと驚きに<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>められて、何にか知ら不氣味なものを湛へてゐるのです。<lb />
+　十六といふにしては、ひどく<span rend="sesame_dot" rendition="em">ませ</span>て、八五郎の言つた色つぽさは完成されないまでも、愛嬌者で少し輕薄だつたことは事實らしく、充分可愛らしいうちにも、母親の時代の凄いほど洗練された美しさはありません。<lb />
+　肌を押し脱がせると、父親玄龍の手で<span type="ruby"><span type="rb">繃帶</span><span type="rp">（</span><span type="rt">ほうたい</span><span type="rp">）</span></span>したまゝですが、傷は後ろから一と突き、拳上がりに心の臟を刺したらしく、手もとが狂つて傷口がさゝくれてゐる癖に、間違ひもなく娘の命を奪つた<span type="ruby"><span type="rb">執拗</span><span type="rp">（</span><span type="rt">しつあう</span><span type="rp">）</span></span>さが、容易ならぬ相手の氣組を思はせます。<lb />
+「お孃さんを怨む者でもありましたか、御内儀」<lb />
+　平次は悲嘆に<span type="ruby"><span type="rb">溺</span><span type="rp">（</span><span type="rt">おぼ</span><span type="rp">）</span></span>れた母親の時代に訊ねました。<lb />
+「こんな娘を、怨む者があるでせうか――でも」<lb />
+　母親は何やら割りきれない疑ひを胸に疊んでゐる樣子です。<lb />
+「――でも、何にか心當りはあるでせう」<lb />
+　平次はそれを受けて型通りの問ひを進めます。<lb />
+「さア」<lb />
+　母親時代の態度の煮え切らなさ。<lb />
+「縁談は？」<lb />
+「まだ十六になつたばかりですもの」<lb />
+　時代はさう言ひますが、十五、六の嫁は一向珍しくなかつた頃のことです。<lb />
+　平次は併し、娘の死骸を側に置いて、多勢の前で訊くことは、この程度を<span type="ruby"><span type="rb">超</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>えてはならぬことを知つて、八五郎にソツと眼くばせして、もう一度隣りの部屋――娘が殺された四疊半に歸りました。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">三</span></span></span>
+　四疊半は窓際半分ほど凄まじく血に<span type="ruby"><span type="rb">汚</span><span type="rp">（</span><span type="rt">よご</span><span type="rp">）</span></span>れてをりますが、それを除けば、若い娘の部屋らしく、小綺麗に整頓されて、<span type="ruby"><span type="rb">箪笥</span><span type="rp">（</span><span type="rt">たんす</span><span type="rp">）</span></span>も鏡臺も、その側に据ゑた小机も、<span type="ruby"><span type="rb">細々</span><span type="rp">（</span><span type="rt">こま／″＼</span><span type="rp">）</span></span>した身の廻りの品にも、可愛らしさが溢れます。<lb />
+　窓の敷居は疊から一尺二寸、その邊が一面の血で、格子から障子まで染め、刺した刄物は、<span type="ruby"><span type="rb">鞘</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>ごと部屋の中に投り出してあつたと、<span type="ruby"><span type="rb">眞砂</span><span type="rp">（</span><span type="rt">まさご</span><span type="rp">）</span></span>町の喜三郎が説明してくれます。<lb />
+　取寄せて見ると、何處にでもある平凡な拵への脇差で、先代の朝井<span type="ruby"><span type="rb">玄策</span><span type="rp">（</span><span type="rt">げんさく</span><span type="rp">）</span></span>がこれを一本腰にきめて、突き袖をして歩いたのを、先代が死んでからは使ひ手もなく、納戸のガラクタの中に投り込んであつたといふのです。<lb />
+　十何年の歳月は、斑々と<span type="ruby"><span type="rb">錆</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>を浮かせてをりますが、もと／＼品が確からしく、切つ尖も燒刄もたいして痛まず、薄く浮いた錆が、反つて<span type="ruby"><span type="rb">嫉刄</span><span type="rp">（</span><span type="rt">ねたば</span><span type="rp">）</span></span>を合せたやうに、刄の滑りを留めるのに役立つかも知れません。<lb />
+　押入をあけて見ると、夜の物もそのまゝ、宵のうちの出來事で、まだ床も敷かなかつたでせう。下の段に積んであつた小道具の中から、紐のかゝつた手箱を出して、<span type="ruby"><span type="rb">蓋</span><span type="rp">（</span><span type="rt">ふた</span><span type="rp">）</span></span>を拂つて見ると、中から出て來たのは、男の手紙が十二本。<lb />
+「そいつは見落した、――誰のだえ」<lb />
+　眞砂町の喜三郎は眼を光らせて差し覗きます。<lb />
+「――戀しきお孃樣へ、新六より、とあるぜ」<lb />
+「矢つ張りあの野郎だ。昨夜もこの廊下にウロウロしてゐたのを見たものがあるといふから、擧げてやらうと思つたが、兎も角下つ引に見張らせて、暫くは勝手に泳がせてあるんだが――」<lb />
+　喜三郎の鼻は<span type="ruby"><span type="rb">蠢</span><span type="rp">（</span><span type="rt">うご</span><span type="rp">）</span></span>めきます。<lb />
+「そいつを讀ませて下さいよ、親分。後學のためだ」<lb />
+　ヒヨイと出した八五郎の手を、平次は勢ひよく拂ひ退けました。<lb />
+「馬鹿野郎、人の色文なんか讀んで面白がつて居る時ぢやねえ。隣りには若い娘の死骸があるんだぜ」<lb />
+「へエ」<lb />
+「それより家中の者から、隣り近所の噂を手一杯に集めて來い。如才もあるめえが、<span type="ruby"><span type="rb">金棒曳</span><span type="rp">（</span><span type="rt">かなぼうひき</span><span type="rp">）</span></span>らしい中年者の女と見たら逃すな」<lb />
+「心得てゐますよ。<span rend="sesame_dot" rendition="em">あつし</span>の家の近所には、隣りのお妾の<span type="ruby"><span type="rb">臍</span><span type="rp">（</span><span type="rt">へそ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">胡麻</span><span type="rp">（</span><span type="rt">ごま</span><span type="rp">）</span></span>まで勘定して居る、物凄い大年増が居ましたよ。――何處でそんな探索をしたと訊いたら、町内の湯屋で毎日一緒になるんださうで、あんなのを御用聞にしたら、錢形の親分より凄い腕前になりますね」<lb />
+「無駄を言ふな、馬鹿野郎」<lb />
+「へエ」<lb />
+「<span type="ruby"><span type="rb">序</span><span type="rp">（</span><span type="rt">ついで</span><span type="rp">）</span></span>に、お隣りの四疊半にゐる、内儀の妹のお近さんを、そつと呼んでくれ、――あの女は眼が屆きさうだ」<lb />
+「矢張りお臍の胡麻を讀む方で――」<lb />
+　無駄を言ひながらガラツ八は、平次に小言を浴びせられる前に飛んで行つてしまひました。<lb />
+　入れ替りに入つて來たお近は、<span type="ruby"><span type="rb">玄人</span><span type="rp">（</span><span type="rt">くろうと</span><span type="rp">）</span></span>あがりらしく、泣き濡れた顏を直して、晴やかな微笑をさへ浮べて居ります。<lb />
+「お近さん、いろ／＼訊きたいが――」<lb />
+「え、どんなことでも申し上げます。早く玉ちやんの敵を探して下さい。あの<span type="ruby"><span type="rb">娘</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>は本當に可哀想でなりません」<lb />
+　響きの音に應ずるやうな、いとも<span type="ruby"><span type="rb">爽</span><span type="rp">（</span><span type="rt">さは</span><span type="rp">）</span></span>やかな返事です。踊り子から人の妻に、それから掛り人にと、<span type="ruby"><span type="rb">媚</span><span type="rp">（</span><span type="rt">こび</span><span type="rp">）</span></span>を賣り馴れた三十女で、明けつ放しな表情と、人を誘ひ入れるやうな話し振りの奧に、妙に油斷のならぬものを感じさせる女です。<lb />
+「お玉を殺して誰が一體得をするのだ」<lb />
+「そんなものはありやしません」<lb />
+「お玉を怨んでゐる者は、本當になかつたのか」<lb />
+「あの娘は、そりや可愛いゝ娘でしたよ。怨んでゐる者なんか、あるわけはないぢやありませんか、<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>の御隱居樣でさへ、<span type="ruby"><span type="rb">甞</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めるほど可愛がつてゐたんですもの」<lb />
+「離屋の御隱居？」<lb />
+「先代玄策樣のお<span type="ruby"><span type="rb">配偶</span><span type="rp">（</span><span type="rt">つれあひ</span><span type="rp">）</span></span>で、中氣で足の惡いお年寄りですが」<lb />
+「代脈の新六といふのは、お玉と<span type="ruby"><span type="rb">親</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>しかつたさうぢやないか」<lb />
+　平次は問ひを變へました。<lb />
+「何方も若いんですもの、無理はありませんよ」<lb />
+「お玉の方が嫌つてゐたのではないか」<lb />
+「飛んでもない、玉ちやんの方が<span type="ruby"><span type="rb">熱</span><span type="rp">（</span><span type="rt">あつ</span><span type="rp">）</span></span>かつたくらゐで、――新六はそりや好い男ですよ。私だつて惚々するくらゐ、フ、フ」<lb />
+　血の乾ききらない部屋で、含み笑ひするやうなお近です。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">四</span></span></span>
+　平次はお近を案内に、代脈の新六の部屋へ行つて見ました。店の方に近い六疊、其處には書生兼内弟子で、藥箱持ちを兼ねた、三十男の和助といふのと住んでゐるさうで、男臭い部屋の中は、<span rend="sesame_dot" rendition="em">いぶせき</span>ばかりに取亂してあり、代脈の新六は喜三郎の子分に監視されて、神妙に差控へてをります。<lb />
+　二十五六の<span type="ruby"><span type="rb">月代</span><span type="rp">（</span><span type="rt">さかやき</span><span type="rp">）</span></span>の青々とした、これは全く好い男でした。木綿物に小倉の<span type="ruby"><span type="rb">袴</span><span type="rp">（</span><span type="rt">はかま</span><span type="rp">）</span></span>を着け、甲斐々々しくはしてをりますが、朝井玄龍の代脈にしては<span type="ruby"><span type="rb">身扮</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>は至つて粗末な方で、男振りの良さだけが、異樣に引立てられるのでした。<lb />
+「お前は代脈の新六さんといふのだね」<lb />
+「ハイ」<lb />
+「この家には長くゐるのか」<lb />
+「三年ほどになります」<lb />
+「昨夜お孃さんが殺された頃、奧の廊下でウロウロしてゐたさうだが、用事があつたのかえ」<lb />
+「ハ、ハイ」<lb />
+「夜分、奧には用事がない筈だと思ふが――」<lb />
+「――」<lb />
+　新六の眼は何やら訴へてをりますが、口を堅く閉ぢて、この大事な<span type="ruby"><span type="rb">疑</span><span type="rp">（</span><span type="rt">うたが</span><span type="rp">）</span></span>ひを言ひ解かうともしません。<lb />
+　平次はこれ以上問ひ詰めても無駄と見たのか、庭下駄を突つかけて外へ出て見ました。八五郎も何處へ行つたか姿を見せず、平次の活動が熱を帶びて來るのを見ると、野心的な喜三郎は其處にヂツとして居られなくなつたものか、これも前後して姿を隱してしまひました。<lb />
+　庭はさして廣くはありませんでしたが、その中に<span type="ruby"><span type="rb">三和土</span><span type="rp">（</span><span type="rt">たたき</span><span type="rp">）</span></span>の池を作つて、<span type="ruby"><span type="rb">黄楊</span><span type="rp">（</span><span type="rt">つげ</span><span type="rp">）</span></span>の玉作りが覗いて、青銅の<span type="ruby"><span type="rb">鶴</span><span type="rp">（</span><span type="rt">つる</span><span type="rp">）</span></span>と龜が置いてあると言つた、まことに俗臭紛々たる<span type="ruby"><span type="rb">凝</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>りやうです。<lb />
+　お玉が死んで居た四疊半の外は、長い間の冬の日照りに乾いて、灰を蒔いたやうになつてをりますが、誰の<span rend="sesame_dot" rendition="em">たしなみ</span>か美しく<span type="ruby"><span type="rb">箒目</span><span type="rp">（</span><span type="rt">はうきめ</span><span type="rp">）</span></span>が入つて、小鳥の足跡も付いては居ず、その上の格子にも何んの異状もありません。<lb />
+「親分、誂え向きの大年増が見つかりましたよ」<lb />
+　八五郎が何處かの物蔭からヒヨイと出て來ました。<lb />
+「どんな事を聞き出したんだ」<lb />
+「朝井玄龍先生の藥箱の中から、掛り人のお近の<span type="ruby"><span type="rb">臍</span><span type="rp">（</span><span type="rt">へそ</span><span type="rp">）</span></span>の――」<lb />
+「まだ臍の胡麻に<span type="ruby"><span type="rb">取憑</span><span type="rp">（</span><span type="rt">とりつ</span><span type="rp">）</span></span>かれてゐるのか、人聽きの惡い<span type="ruby"><span type="rb">洒落</span><span type="rp">（</span><span type="rt">しやれ</span><span type="rp">）</span></span>だ」<lb />
+「まア、さう言つたやうな次第で」<lb />
+「一席やるが宜い、この邊で聽かう」<lb />
+　<span type="ruby"><span type="rb">南</span><span type="rp">（</span><span type="rt">みなみ</span><span type="rp">）</span></span>陽を受けた羽目に<span type="ruby"><span type="rb">凭</span><span type="rp">（</span><span type="rt">もた</span><span type="rp">）</span></span>れて、平次は八五郎の報告を<span type="ruby"><span type="rb">促</span><span type="rp">（</span><span type="rt">うなが</span><span type="rp">）</span></span>しました。<lb />
+「朝井玄龍先生は、先代の朝井玄策先生の養子だ」<lb />
+「それは知つてゐる」<lb />
+「先代は洒落れた人で、貧乏人を助けた數だけでもたいしたものだが、金持からは存分の藥禮を取つたさうで、この家を建てた外に、何千兩とも知れぬ金を拵へ、地所持、家作持でも本郷の指折りといふから大變ぢやありませんか」<lb />
+「俺達とは大變な違ひだな」<lb />
+「先代の玄策先生が生きて居るうちに、内弟子の玄龍先生を娘の<span type="ruby"><span type="rb">婿</span><span type="rp">（</span><span type="rt">むこ</span><span type="rp">）</span></span>にして、代脈に取立てた――娘といふのはお直さんと言つて、これは氣の毒なことに百人並の不<span rend="sesame_dot" rendition="em">きりやう</span>、それでも夫婦仲は惡くなかつたといふが、先代の玄策先生が亡くなつてからは、血の道が<span type="ruby"><span type="rb">昂</span><span type="rp">（</span><span type="rt">かう</span><span type="rp">）</span></span>じて少し氣が變になり、女房の役が勤まらないからと自分から身を退いて、母親のお市さん、弟の孝吉と三人、庭先の土藏を<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>に造り直して住んでゐる」<lb />
+「――」<lb />
+「その後へ玄龍先生は、<span type="ruby"><span type="rb">豫</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>て湯島に<span type="ruby"><span type="rb">圍</span><span type="rp">（</span><span type="rt">かこ</span><span type="rp">）</span></span>つて居た今の内儀の時代を入れ、母親のお市、先妻のお直も承知の上で、改めて女房の披露をした。その時今の内儀のつれて來たお玉は七つ、誰の子ともわからないが、顏容ちが玄龍先生によく似てゐるから、玄龍先生と内儀の時代は、七八年前からの掛り合ひだらうと――これは<span type="ruby"><span type="rb">臍胡麻</span><span type="rp">（</span><span type="rt">へそごま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鑑定</span><span type="rp">（</span><span type="rt">かんてい</span><span type="rp">）</span></span>で」<lb />
+「何んだその臍胡麻てえのは？」<lb />
+「隣りのお神、――亭主は芝居者で、四十<span rend="sesame_dot" rendition="em">がらみ</span>のちよいとした中婆さんだが、いやその口ときたら、まるで<span type="ruby"><span type="rb">水鐵砲</span><span type="rp">（</span><span type="rt">みづでつぱう</span><span type="rp">）</span></span>のやうな<span rend="sesame_dot" rendition="em">おしやべり</span>だ」<lb />
+「それからどうした」<lb />
+「先の内儀のお直さんは半病人で氣が少し變と來てる上、母親のお市婆さんは六十近くなつて、中氣の氣味で足が不自由だ。お市婆さんの末の子――つまり亡くなつた玄策先生の末子で、お直さんの弟の孝吉は、十四になつたばかり、これは<span type="ruby"><span type="rb">母屋</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>の方に詰めきりで、<span type="ruby"><span type="rb">藥研</span><span type="rp">（</span><span type="rt">やげん</span><span type="rp">）</span></span>で藥を拵へる仕事から使ひ走り、奉公人のやうに働いてゐる。先代の子なんだから可哀想でもあるが、この小僧は恐ろしく悧發で、<span type="ruby"><span type="rb">惡戯</span><span type="rp">（</span><span type="rt">いたづら</span><span type="rp">）</span></span>つ子で手のつけやうはない」<lb />
+「その小僧は、<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>お玉が殺された時、この家に居たのかな」<lb />
+「まだ宵のうちで、店で藥研を使つてゐたさうですよ。離屋へ歸るのは毎晩<span type="ruby"><span type="rb">戌刻</span><span type="rp">（</span><span type="rt">いつゝ</span><span type="rp">）</span></span>（八時）過ぎになるさうで――お玉が殺されたのは、<span type="ruby"><span type="rb">酉刻半</span><span type="rp">（</span><span type="rt">むつはん</span><span type="rp">）</span></span>（七時）でせう」<lb />
+「いや、その小僧を怪しいといふわけではない。そんな悧發な子なら、何にか見てゐるかも知れないと思つたのだよ」<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">五</span></span></span>
+　平次の足は、自然にその<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>に向ひました。土藏を直した間に合せの離屋と言つても、十年近い<span type="ruby"><span type="rb">錆</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>が附いて、思ひの外それは住よげになつてをります。<lb />
+　中の暗いのは、何んとなく陰慘な感じを與へますが、平次と八五郎を迎へた老女の、<span rend="sesame_dot" rendition="em">たしなみ</span>深い明るい姿は、その先入感をすつかり拂ひのけてくれます。<lb />
+「錢形の親分さん、御苦勞で――」<lb />
+　折かゞみの美しい、五十五六の老女は、敷居際に兩手を突きました。色の白い、いかにも品の良い老女で、清らかな眼には、若さと聰明さが殘つてをりますが、氣の毒なことに輕い中氣にやられて、右足が下自由らしく、ズルリズルリと引摺つて歩くのが痛々しい姿です。<lb />
+「不自由なことはありませんか、御隱居さん」<lb />
+　平次の眼は、この清潔な老女を<span type="ruby"><span type="rb">勞</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>はります。<lb />
+「もう馴れてしまひました。十年近く過して來ましたので」<lb />
+「玄龍先生は」<lb />
+「大層よくしてくれます。月々の手當ても勿體ないほどで、娘とこの年寄りでは一兩のお金が費ひきれません」<lb />
+「どうして<span type="ruby"><span type="rb">母家</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>に一緒にはゐないのです」<lb />
+「それでは娘が可哀想でございます。氣が變になつたと申しても、何彼と見聞きしては、良いことばかりはございません」<lb />
+　それは尤も至極な心づかひでした。<lb />
+「で、その御病人は、休んだきりで？」<lb />
+「可哀想に、去年あたりからは、外へも出られない容體でございます。――お玉さんが殺されたさうで、親分さん方に、何んかのお疑念が殘つてはいけません、むさ苦しい姿ですが、一と目御覽下さいますやうに」<lb />
+　老女はさう言つて、暗い土藏の片隅に立てた、二枚<span type="ruby"><span type="rb">屏風</span><span type="rp">（</span><span type="rt">びやうぶ</span><span type="rp">）</span></span>を押しやるのです。<lb />
+「――」<lb />
+　その中には、粗末ながら小綺麗な布團を敷いて、中年の女が寢てをります。明りを恐れるやうに、向うを見詰めたまゝ、振り向かうともしませんが、蒼白い頬から、骨張つた肩のあたり、この世のものとも思へぬ淺ましさが、平次の感傷をそゝらずにはをりません。<lb />
+　それは死にまで<span type="ruby"><span type="rb">昂</span><span type="rp">（</span><span type="rt">かう</span><span type="rp">）</span></span>じたヒステリーの、凄まじくも痛ましい姿でせう。二人は顏を反けて逃げ出す外はなかつたのです。<lb />
+　平次はもう一度家の外を一と廻りして、裏木戸のところへ出て來ると、木戸を境ひにして、何やら激しく言ひ爭つてゐる聲が聽えます。<lb />
+「そんな馬鹿なことがあるもんか。新六さんが下手人だなんて、飛んでもねえことだ」<lb />
+　それは十四五の、少し<span type="ruby"><span type="rb">柄</span><span type="rp">（</span><span type="rt">がら</span><span type="rp">）</span></span>の小さい、可愛らしい少年でした。遠州<span type="ruby"><span type="rb">縞</span><span type="rp">（</span><span type="rt">じま</span><span type="rp">）</span></span>の袷、前垂を卷いて、甲斐甲斐しい片<span type="ruby"><span type="rb">襷</span><span type="rp">（</span><span type="rt">だすき</span><span type="rp">）</span></span>、色の白さも、眼鼻立ちの聰明さも、何んとなく離屋の老女お市に似てをります。<lb />
+「あれはお市の伜の孝吉ですよ。十四とか五とかいふけれど、小柄だから十二三にしか見えませんね」<lb />
+　八五郎がさゝやきます。<lb />
+「何をツ、この喜三郎のすることに、誰が文句を言ふんだ。證據があればこそ、繩を打つて引つ立てるんぢやないか。<span type="ruby"><span type="rb">尻</span><span type="rp">（</span><span type="rt">しり</span><span type="rp">）</span></span>に玉子の殼の喰つ付いてゐるやうな小僧の指圖なんか受けてたまるものか」<lb />
+　それは眞砂町の喜三郎の聲でした。平次と八五郎は、氣まづい思ひをするよりはと言つた遠慮で、あわてて建物の袖に姿を隱します。<lb />
+「人間が玉子から生れると思つてゐるから、親分も甘めえものだ――そんなことは本草學にもねえ事だよ」<lb />
+「何んだと」<lb />
+「兎も角も、新六さんを<span type="ruby"><span type="rb">縛</span><span type="rp">（</span><span type="rt">しば</span><span type="rp">）</span></span>つて行くと、親分の引つ込みがつかなくなるぜ。惡いことを言はねえから、その證據といふものを言つて見ねえ。<span rend="sesame_dot" rendition="em">おいら</span><span type="ruby"><span type="rb">竪板</span><span type="rp">（</span><span type="rt">たていた</span><span type="rp">）</span></span>に水で解いて見せるから」<lb />
+「言つたな小僧」<lb />
+　孝吉の生意氣なのが癪に障つた樣子で、喜三郎大人氣なくも<span type="ruby"><span type="rb">躍起</span><span type="rp">（</span><span type="rt">やつき</span><span type="rp">）</span></span>となつてしまつたのです。<lb />
+「その代り言ひ解けなかつたら、<span rend="sesame_dot" rendition="em">おいら</span>も一緒に縛られて行つて上げようよ。一人生捕るよりは、二人生捕る方が手柄になるぜ」<lb />
+「言やがつたな小僧、――昨夜、お玉さんが殺された時、この男が廊下でウロウロしてゐたのは何んのためだ」<lb />
+　<span type="ruby"><span type="rb">眞砂</span><span type="rp">（</span><span type="rt">まさご</span><span type="rp">）</span></span>町の喜三郎は少し威猛高になります。この第一問で小僧を取り<span rend="sesame_dot" rendition="em">ひしぐ</span>つもりでせう。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">六</span></span></span>
+「ね、眞砂町の親分。親分は色をしたことがあるかえ」<lb />
+「何んだと、小僧」<lb />
+「逢引てえのを知つてるかてんだ。――そんな怖い顏をするやうぢや、逢引の味は知るまいが。新六さんは好い男だから、毎晩人目を忍んで、お玉さんと逢引して居たんだよ」<lb />
+「？」<lb />
+「驚いたらう、親分。お玉さんはたつた十六さ、この<span rend="sesame_dot" rendition="em">あつし</span>より二つしか年上ぢやねえが、暮から新六さんと親しくなつて、近頃毎晩の逢引だよ。親は甘めえから何んにも知らねえが、お近さんくらゐは知つて居るだらうよ。訊いて見ねえ、あの人はもと<span type="ruby"><span type="rb">色街</span><span type="rp">（</span><span type="rt">いろまち</span><span type="rp">）</span></span>にゐた人だから」<lb />
+「――」<lb />
+　喜三郎は苦い顏をしました。十四の小僧に思ひも寄らぬ世界を覗かされたのです。<lb />
+「だから、どう間違つたつて、新六さんはお玉さんを殺すわけはないぢやないか。先生も新六さんを可愛がつてたから、行く／＼はお玉さんと一緒にする氣だつたかも知れないし、何が不足でお玉さんを殺すんだ」<lb />
+「お玉さんが新六に愛想盡しでもしたら何んとする」<lb />
+　喜三郎は最後の線に踏み留りました。<lb />
+「昨日も店の薄暗いところで、そつと手紙を渡して居たよ。行つて見ねえ、新六さんの<span type="ruby"><span type="rb">行李</span><span type="rp">（</span><span type="rt">かうり</span><span type="rp">）</span></span>の中には、お玉さんの甘つたるい手紙が、二三十本と入つてゐるから」<lb />
+「本當か」<lb />
+「まだあるよ」<lb />
+「？」<lb />
+「お玉さんの傷を、親分も見たことだらうが、ありや下から突き上げてゐるんだぜ。醫者の心得がないから、さう言つても解るまいが、脇差は<span type="ruby"><span type="rb">脾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">臟</span><span type="rp">（</span><span type="rt">ざう</span><span type="rp">）</span></span>の下から入つて、心の臟を破つて居るんだ。心の臟を突かなきや、あんな具合に物も言はずに死ぬものぢやねえ」<lb />
+　喜三郎も默つてしまひました。小僧孝吉の説明はいかにも理につんでをります。<lb />
+「宜いか、親分。お玉さんは<span type="ruby"><span type="rb">扱帶</span><span type="rp">（</span><span type="rt">しごき</span><span type="rp">）</span></span>だけになつて、新六さんを待つてゐたんだ。其處へ下手人が入つて來て、後から聲を掛けて油斷させながら、扱帶の上のあたりから、<span type="ruby"><span type="rb">拳上</span><span type="rp">（</span><span type="rt">こぶしあが</span><span type="rp">）</span></span>りに突いた――お玉さんより背の低い者か、でなきや坐つて居て突き上げたわけだ。坐つてて突き上げると、返り血を浴びて、大變なことになるぜ。――刀は拔いて捨てたんだから、心の臟を破つて返り血が傷口から<span type="ruby"><span type="rb">噴</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>き出さないわけはねえ」<lb />
+「――」<lb />
+「廊下でウロウロしてゐる新六さんは、皆んなの前に姿をさらしたが、返り血なんか一つも浴びちやゐなかつたよ。嘘だと思ふなら新六さんの着物を一枚々々調べて見ねえ」<lb />
+　斯うまで説破されると、眞砂町の喜三郎の強引でも、新六を縛つて行く筋が立ちません。<lb />
+「よし、お前の言ふ事にも道理はある。暫らく新六の繩は許してやらう、――その代り變なことをしちやならねえよ。逃げ隱れすると、その場で縛られるものと思へ」<lb />
+　喜三郎は大舌打ちをしながら、新六の繩を解いてやりました。<lb />
+「新六さん、良かつたね」<lb />
+「有難う孝吉さん、私はどうなる事かと思つたが」<lb />
+　大きいのと小さいのが、仲よく家の中へ入つて行くのを見送つて、眞砂町の喜三郎も、<span type="ruby"><span type="rb">忌々</span><span type="rp">（</span><span type="rt">いま／＼</span><span type="rp">）</span></span>しさうに立ち去つてしまひました。<lb />
+「驚いたね、親分」<lb />
+　その後ろ姿の消えるのを合圖のやうに、八五郎は乘出します。<lb />
+「悧巧な小僧だな、――あんまり<span rend="sesame_dot" rendition="em">ませ</span>過ぎて憎らしくはあるが、――あのくらゐの年頃だから、若い男と女の逢引を食ひ付くやうな一生懸命さで見張つてゐるんだね」<lb />
+　と、平次も甚だ<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>て<span rend="notes">［＃「<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>て」はママ］</span>られ氣味です。<lb />
+「どうかしたら、下手人はあの小僧ぢやないでせうか、――木場の<span type="ruby"><span type="rb">甲州屋</span><span type="rp">（</span><span type="rt">かふしうや</span><span type="rp">）</span></span>の主人殺しの時、下手人の小娘が、疑ひを被せられた人を皆んな助けた<span type="ruby"><span type="rb">例</span><span type="rp">（</span><span type="rt">ため</span><span type="rp">）</span></span>しも、あることはありますが――」<lb />
+「いや、そんな事はあるまいよ。昨夜<span type="ruby"><span type="rb">酉刻半</span><span type="rp">（</span><span type="rt">むつはん</span><span type="rp">）</span></span>（七時）には、あの小僧は店で藥を拵へてゐた、白桔梗の根か何んかを藥研で<span type="ruby"><span type="rb">刻</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span>んでゐるのを、二三人の者は聞いて居る」<lb />
+「さうでせうか、藥研だけ音をさせて、自分は脱け出して<span type="ruby"><span type="rb">業</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>をするといふ<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>はありませんか」<lb />
+「いや、それより俺は今朝庭を掃いたのが誰だか知りたい」<lb />
+「そんなことならわけはありませんよ。ちよいと訊いて來ませう」<lb />
+　驅けて行つた八五郎は、間もなく歸つて來ました。庭を<span type="ruby"><span type="rb">掃</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>くのはいつも書生の和助の仕事ですが、今朝はお玉が殺された騷ぎで手は廻らず、下女のお兼と隱居のお市が掃いてくれたといふことでした。<lb />
+　これは併し、事件のほんの發端に過ぎません。續いて起る第二、第三の凄慘事の裏には、果してどんな謎が潜んでゐるでせうか。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">發展篇</span></span></span>
+<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">一</span></span></span>
+「八、<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さつき</span><span type="rp">）</span></span>から勘定してゐると、お前はもう七つ半も<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>をしたぜ」<lb />
+「へツ、欠伸も出ますよ。陽氣は良いし、御用は暇だし」<lb />
+「錢はなしと來るだらう」<lb />
+　錢形平次と八五郎は、椽側に乘出して、春の陽を浴びながら、相變らずの調子で話を運んでをりました。<lb />
+「御用と言へば、本郷一丁目の朝井<span type="ruby"><span type="rb">玄龍</span><span type="rp">（</span><span type="rt">げんりう</span><span type="rp">）</span></span>の娘を殺した下手人はどういふことになつたでせう」<lb />
+「あれから一と月も經つが、一向眼鼻がつかないやうだな。下手人も<span type="ruby"><span type="rb">眞砂</span><span type="rp">（</span><span type="rt">まさご</span><span type="rp">）</span></span>町の喜三郎も、今頃は<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>でもしてゐるだらうよ」<lb />
+　平次は妙に諦らめた口振りでした。一つは眞砂町の喜三郎の向うを張つて、厄介な事件に捲き込まれる<span type="ruby"><span type="rb">欝陶</span><span type="rp">（</span><span type="rt">うつたう</span><span type="rp">）</span></span>しさが嫌だつたのでせう。<lb />
+　江戸の空は<span type="ruby"><span type="rb">淺葱</span><span type="rp">（</span><span type="rt">あさぎ</span><span type="rp">）</span></span>色に燻じて、<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">かぐ</span><span type="rp">）</span></span>はしい微風が、全く欠伸を誘ひさうな日和です。錢形平次は斯んな日、鵜の眼鷹の眼で江戸中の事件を漁つて歩くやうな肌合ひではなく、精一杯の無精をきめて、煙草の煙の曲藝に浮身をやつしながら、八五郎の持つて來る餘儀ない事件だけを待つてゐるのでした。<lb />
+　その八五郎が、近頃は<span type="ruby"><span type="rb">大不漁</span><span type="rp">（</span><span type="rt">おほしけ</span><span type="rp">）</span></span>續きで、猫の子の喧嘩にもありつきません。が、この日は思はぬ人が思はぬ事件を持ち込んで、平次のアンニユイと、八五郎の欠伸を一ぺんに吹き飛ばしてしまひました。<lb />
+「眞砂町の喜三郎親分が――」<lb />
+　平次の女房お靜が取次いだのが、この事件のきつかけでした。<lb />
+「眞砂町の<span type="ruby"><span type="rb">兄哥</span><span type="rp">（</span><span type="rt">あにき</span><span type="rp">）</span></span>か、まア入つてくれ。一丁目のお醫者のところで、又何にか厄介なことでも起つたのかえ」<lb />
+　平次は<span type="ruby"><span type="rb">煙管</span><span type="rp">（</span><span type="rt">きせる</span><span type="rp">）</span></span>を投り出して、入口に出て行きます。<lb />
+「今度は玄龍先生の内儀の時代さんが殺されたんだ。すまねえがちよいと行つて見てやつてくれまいか」<lb />
+　入口に突つ立つたまゝ、喜三郎の調子は火のつくやうです。恐らく一ヶ月前の娘のお玉殺しが、まだ<span type="ruby"><span type="rb">埒</span><span type="rp">（</span><span type="rt">らち</span><span type="rp">）</span></span>があかないので、強氣の喜三郎も、すつかり自尊心を失つたのでせう。<lb />
+「成程そいつは大變だ。直ぐ行つて見よう、話は歩きながら聞くとして」<lb />
+　平次は手早く支度をして、眞砂町の喜三郎と連れ立ちました。その後から八五郎が、自分の彌造を追つ驅けるやうな<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かつかう</span><span type="rp">）</span></span>で、ホクホクと<span type="ruby"><span type="rb">從</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いて行つたことは言ふ迄もありません。<lb />
+「死んだのは昨夜だが、稼業が稼業だから、助かるものなら助けようと、一と晩手を盡したらしいよ。叶はないとなつても、娘の變死の後で、世間の評判がうるさいから、何んとか誤魔化して、<span type="ruby"><span type="rb">葬</span><span type="rp">（</span><span type="rt">とむら</span><span type="rp">）</span></span>ひを出さうとしたが、どつこいさうは行かない。あの店にゐる氣違ひになつた先妻の弟の孝吉とかいふ小僧――この前には飛んだ口を出して、<span type="ruby"><span type="rb">代脈</span><span type="rp">（</span><span type="rt">だいみやく</span><span type="rp">）</span></span>の新六を助けたが、今度は朝詣りか何んかで、あの家の前を通つた俺の家の音松の野郎に、内儀の死にやうが變だから、親分に教へてやるが宜い――と、耳打ちをしたんださうだ」<lb />
+「あの小僧がね」<lb />
+「それにもワケがありさうだよ。ところでさう聞くと放つちや置けないから、飛んで行つて嫌がる玄龍先生を拂ひ退け、内儀の死骸を見ると、こいつは<span type="ruby"><span type="rb">紛</span><span type="rp">（</span><span type="rt">まぎ</span><span type="rp">）</span></span>れもなく毒死だ」<lb />
+「フム」<lb />
+「毒は何んだか、素人の<span rend="sesame_dot" rendition="em">こちとら</span>にはわからねえが、顏から胸へ<span type="ruby"><span type="rb">斑</span><span type="rp">（</span><span type="rt">まだら</span><span type="rp">）</span></span>になつて、舌は眞つ黒――あんな藥が玄龍先生の藥籠の中にはないとは言へめえ。おや、さう言ふうちに一丁目だ、もう一度嫌な顏をされるか」<lb />
+　喜三郎と平次と八五郎は、裏へ廻つてお勝手口から、朝井玄龍の家へ入りました。奧の一と間には、内儀の時代の死骸を見張つて、喜三郎の子分の音松が、<span type="ruby"><span type="rb">肩肘張</span><span type="rp">（</span><span type="rt">かたひぢは</span><span type="rp">）</span></span>つて頑張つてをります。<lb />
+　それは主人の玄龍夫妻の寢部屋らしく、かなり<span type="ruby"><span type="rb">贅</span><span type="rp">（</span><span type="rt">ぜい</span><span type="rp">）</span></span>を極めたものですが、平次が氣の付いたのは、そんな夜具や調度の豪勢さよりも、部屋全體の空氣が何んとなく<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>めかしく、お職女郎の本部屋と言つた、<span type="ruby"><span type="rb">卑</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>しさと物々しさと、そして色つぽさがあることでした。<lb />
+　内儀の時代の死體は、<span type="ruby"><span type="rb">巧</span><span type="rp">（</span><span type="rt">たく</span><span type="rp">）</span></span>みに始末して、床の上に寢かしてありました。が、顏へ掛けた<span type="ruby"><span type="rb">晒布</span><span type="rp">（</span><span type="rt">さらし</span><span type="rp">）</span></span>を取つて、たつた一と眼で平次はその死に樣の尋常でないことを知つたのです。<lb />
+　<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">曾</span><span type="rp">（</span><span type="rt">かつ</span><span type="rp">）</span></span>て踊り子として、相當の嬌名があり、三十四五の大年増には違ひありませんが、<span type="ruby"><span type="rb">姥櫻</span><span type="rp">（</span><span type="rt">うばざくら</span><span type="rp">）</span></span>などと言ふ形容詞が氣の毒なほどの若々しさと、そして不思議な美しさを持つた女でした。それは蒼白い美しさで、肉の<span type="ruby"><span type="rb">頽廢</span><span type="rp">（</span><span type="rt">たいはい</span><span type="rp">）</span></span>を思はせるものであつたにしても、充分に異性の注意を牽く魅力があり、その若かりし半生の生活が、どんなに不道徳で、そして病的なものであつたかは、その皮膚の色を見ただけでも、想像に餘りあるものがありさうです。<lb />
+　眉の跡も新鮮な青さを失つて、落ちた小鼻、苦悶に<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>んだ唇、眼は半眼に釣つて、生きて居る時の魅力が、磨き拔かれ、作り出された美しさであつただけに、意志を<span type="ruby"><span type="rb">喪</span><span type="rp">（</span><span type="rt">うしな</span><span type="rp">）</span></span>つた<span type="ruby"><span type="rb">死面</span><span type="rp">（</span><span type="rt">デスマスク</span><span type="rp">）</span></span>の凄まじさは、まことに<span type="ruby"><span type="rb">譬</span><span type="rp">（</span><span type="rt">たと</span><span type="rp">）</span></span>へやうもありません。<lb />
+　毒死の證據は喜三郎が言つた通り、たつた一と眼で素人にもわかります。口中も胸も改めて見るまでもないほどです。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">二</span></span></span>
+「親分方、濟まないが、私のお願ひも聞いて頂きたい」<lb />
+　主人の朝井玄龍は、平次と喜三郎を別室に案内すると、折入つての膝を<span type="ruby"><span type="rb">前</span><span type="rp">（</span><span type="rt">すゝ</span><span type="rp">）</span></span>めるのでした。<lb />
+　内證話のために用意されたやうな小部屋で、同じ四疊半でも、茶よりは酒に<span type="ruby"><span type="rb">相應</span><span type="rp">（</span><span type="rt">ふさ</span><span type="rp">）</span></span>はしい造りは、主人の人柄も忍ばれて、妙に<span type="ruby"><span type="rb">擽</span><span type="rp">（</span><span type="rt">くす</span><span type="rp">）</span></span>ぐつたいものがあります。後でそれは、美しい掛り人、お近のために用意された部屋と聽いて、主人とお近と、殘された内儀の時代との間に、嫌な三角關係のトラブルが<span type="ruby"><span type="rb">釀</span><span type="rp">（</span><span type="rt">かも</span><span type="rp">）</span></span>し出されてゐたことに思ひ當りました。<lb />
+「お願ひとおつしやるのは？」<lb />
+「實はな、親分方、私も何んとか言はれて、門戸を張つてゐる醫者だが、續け樣に二人の變死人を出しては、世間の思惑は兎も角、近く上樣御脈も拜見することになつてゐる御内意に對しても相濟まない」<lb />
+　四十前後の好い男、不斷の微笑を忘れない<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はやり</span><span type="rp">）</span></span>醫者の玄龍が、この時ばかりはすつかり<span type="ruby"><span type="rb">萎</span><span type="rp">（</span><span type="rt">しを</span><span type="rp">）</span></span>れきつてをりました。<lb />
+「？」<lb />
+　平次と喜三郎は、お互ひの氣を測り兼ねて、默つて顏を見合せました。<lb />
+「で、何んとか、この儘何事もなかつたとして家内の葬ひを出さしちや貰へまいか、――その代り決してたゞとは言はない、輕少だが此處に十兩づつ、これで一杯呑んで、何も彼も忘れたことにして下されば、朝井玄龍本當に恩に着るが――」<lb />
+　今を時めく流行醫者の朝井玄龍、將軍樣の御脈まで見ようといふ、言はゞ醫者としての權勢並ぶ者なき中年男が、膝から疊へ、手を滑らしての懇願です。<lb />
+「どうだえ、錢形の」<lb />
+　十兩に<span type="ruby"><span type="rb">誘惑</span><span type="rp">（</span><span type="rt">いうわく</span><span type="rp">）</span></span>されたわけでもなかつたでせうが、喜三郎と<span rend="notes">［＃「喜三郎と」はママ］</span>フト斷わりきれない樣子で、平次を<span type="ruby"><span type="rb">顧</span><span type="rp">（</span><span type="rt">かへり</span><span type="rp">）</span></span>みました。<lb />
+「お氣の毒だが、そいつはなりませんよ。お醫者にはお醫者の仕事も見識もあるやうに、御用聞にはまた、御用聞の顏も勤めもあります。――上樣御脈を拜する矢先となれば、隨分口を<span type="ruby"><span type="rb">緘</span><span type="rp">（</span><span type="rt">つぐ</span><span type="rp">）</span></span>んで、御檢屍も内々に願ふ<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>もあるでせうが、金づくでやつたとあつちや、私の顏が納まりません。こいつはそのまゝ、納めて下さらなきや話が出來ねえ」<lb />
+　平次はさう言つて、二つの十兩包みを押し返すのでした。その頃の十兩は金の目方にしてざつと四十匁、容易ならぬ一と<span type="ruby"><span type="rb">身上</span><span type="rp">（</span><span type="rt">しんしやう</span><span type="rp">）</span></span>です。<lb />
+「すると、錢形の親分？」<lb />
+「早まつちやいけません。世間の噂にならねえやうに、精一杯氣はつけて上げるが、調べを打ち切ることは、<span rend="sesame_dot" rendition="em">こちとら</span>の一量見には行きませんよ。第一、下手人を放つて置いた日にや、お膝元が切捨御免になりますぜ」<lb />
+「――」<lb />
+「お孃さんを刺したのも、御内儀に毒を盛つたのも、どうせ同じ人間の仕業でせう。そいつが三人目を殺さないとは、一體誰が請合つてくれるでせう？」<lb />
+「三人、――そんな事があるだらうか、親分」<lb />
+「人でも殺さうといふ野郎は、横着で馬鹿に決まつてゐまさア。二人迄殺して一向露見しさうもないとなると、<span type="ruby"><span type="rb">多寡</span><span type="rp">（</span><span type="rt">たくわ</span><span type="rp">）</span></span>をくゝつて、きつと三人目に取りかゝります」<lb />
+「――」<lb />
+　平次の豫言は猛烈で容赦がありませんでした。あはよくば事<span type="ruby"><span type="rb">勿</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>れ主義で誤魔化さうとした玄龍も、口を<span type="ruby"><span type="rb">緘</span><span type="rp">（</span><span type="rt">つぐ</span><span type="rp">）</span></span>んで平次の意志に引摺られる外はありません。<lb />
+「此處で下手人を擧げるのは、十手捕繩の意地ばかりぢやありません。ね、玄龍先生。<span rend="sesame_dot" rendition="em">あつし</span>のお尋ねすることに、一々お<span type="ruby"><span type="rb">應</span><span type="rp">（</span><span type="rt">こた</span><span type="rp">）</span></span>へを願ひたいものですが、どうでせう」<lb />
+「それはもう」<lb />
+「では第一に、昨夜は御内儀一人だけで、飮むとか食ふとかなすつた物はありませんか」<lb />
+　平次の問ひは一<span type="ruby"><span type="rb">髮</span><span type="rp">（</span><span type="rt">ぱつ</span><span type="rp">）</span></span>の隙間もなく、兎角逃げ腰の玄龍に疊みかけます。<lb />
+「晩飯の後で、家内一人でやつたものといふと、いつもの寢酒くらゐのもので」<lb />
+「寢酒？」<lb />
+　女だてらの寢酒はひどく耳障りです。<lb />
+「御存じの通り、家内は昔勤めをしてゐた、――恥を言はなきやわからないが――そんな事で酒が身に沁みたものか、夜床に就く前に少しばかりの寢酒――と言つてもほんの五勺か一合だが、それをやらないと寢付けないやうになつてゐたのだよ」<lb />
+　それは輕度のアルコール中毒でもあつたのでせう。長く遊里に暮したもの――酒と不眠と<span type="ruby"><span type="rb">不攝生</span><span type="rp">（</span><span type="rt">ふせつせい</span><span type="rp">）</span></span>に神經を荒された者には、決して珍しいことではありません。<lb />
+「で、先生は？」<lb />
+「私は生得の下戸で、酒は嫌ひな方だ」<lb />
+　さう言へばそれつきりのことですが、内儀の時代一人で呑む酒に、猛毒を仕込んだのは言ふ迄もなくお勝手の事情に通じた者でなければなりません。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi290">三</span></span></span>
+「ところで、あの毒は何んでせう。<span rend="sesame_dot" rendition="em">あつし</span>も隨分いろ／＼の毒死は見ましたが、お内儀のやうなのは始めてです。<span type="ruby"><span type="rb">石見</span><span type="rp">（</span><span type="rt">いはみ</span><span type="rp">）</span></span>銀山とか<span type="ruby"><span type="rb">鳥兜</span><span type="rp">（</span><span type="rt">とりかぶと</span><span type="rp">）</span></span>とか、<span type="ruby"><span type="rb">斑猫</span><span type="rp">（</span><span type="rt">はんめう</span><span type="rp">）</span></span>とかいふ、ありきたりの毒とは違つたもののやうですが――」<lb />
+「さア」<lb />
+　平次はもう一歩突つ込みます。<lb />
+「南蠻物の新しい毒と見ましたが、どんなものでせう。先生のところには、あんな毒藥がなきやならないわけだが――」<lb />
+「――」<lb />
+　朝井玄龍はすつかり默つてしまひました。醫者の藥局にはそんな猛毒を<span type="ruby"><span type="rb">貯</span><span type="rp">（</span><span type="rt">たくは</span><span type="rp">）</span></span>へてゐるといふことは、當時の常識としては許さるべくもないことで、將軍の脈まで見ようといふ<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はやり</span><span type="rp">）</span></span>醫者に取つては、容易ならぬことだつたのです。<lb />
+「錢形の親分、――毒も少し用ひれば藥になり、藥も澤山服めば毒になるといふことは知つて居なさるだらうな」<lb />
+「よくそんな事も申しますが」<lb />
+「毒も藥も、考へやうでは同じものだ。私の藥戸棚の中に、少しは南蠻渡來の毒藥があつたところで、それは別に不思議でも何んでもないことだ」<lb />
+　朝井玄龍の辯解は苦しさうですが、悧巧な人間だけに、兎にも角にも筋になります。<lb />
+「その藥戸棚には、錠前があることでせうな」<lb />
+「ある」<lb />
+「鍵は何處にあります」<lb />
+「私の部屋の手箱の中に入れてあるが」<lb />
+「その鍵を持ち出せば、誰にでも毒藥は取出せるわけでせうな」<lb />
+「いや、そんなわけには行かない。私の部屋から鍵を持ち出せるのは、家内と私だけだ」<lb />
+「すると――？」<lb />
+「<span type="ruby"><span type="rb">平常</span><span type="rp">（</span><span type="rt">ふだん</span><span type="rp">）</span></span>入用の藥は、百味<span type="ruby"><span type="rb">箪笥</span><span type="rp">（</span><span type="rt">だんす</span><span type="rp">）</span></span>の方に入つてゐて、これは誰にでも出せるが、藥戸棚の方は私の部屋の手箱から鍵を持ち出さなきや開けるわけに行かない」<lb />
+「その先生の部屋へそつと入つて、鍵を持ち出すわけには行かないものでせうか」<lb />
+「そつと入ると言つても、女共は大ぴらに入つて居るが――お近とか、下女のお兼とか」<lb />
+　<span type="ruby"><span type="rb">疑</span><span type="rp">（</span><span type="rt">うたが</span><span type="rp">）</span></span>へばこの二人が疑へるわけですが、お近にしてもお兼にしても、そんな大それた事をやりさうもありません。<lb />
+「ところで話は變りますが、御内儀は若い頃――勤めをしてゐられた頃の掛り合ひで、今以てひどく怨んでゐる者などはなかつたでせうか――これは飛んだ失禮なお訊ねですが」<lb />
+　平次はもう一歩突つ込んだのです。<lb />
+「いや、それは知らない。私のところへ來てもう十年にもなるが、ツイそんな話は聽いたこともないくらいだ。まさか十年前の怨みを、今を持ち續けてゐる者もなからうと思ふが――」<lb />
+　これは成程、夫の朝井玄龍の言ふのが本當かもわかりません。<lb />
+「昨夜、來られたお客は？」<lb />
+「それもなかつた筈だ。珍しく靜かな晩で、急病人もなく、藥取りも來ず、<span type="ruby"><span type="rb">戌刻半</span><span type="rp">（</span><span type="rt">いつゝはん</span><span type="rp">）</span></span>（九時）頃部屋に落着いて、私はお茶を入れ、家内はいつもの寢酒を、<span type="ruby"><span type="rb">埋火</span><span type="rp">（</span><span type="rt">うもれび</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">燗</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>をして、五勺くらゐ呑んだやうであつたが、急に苦しみ出して、<span type="ruby"><span type="rb">夥</span><span type="rp">（</span><span type="rt">おびたゞ</span><span type="rp">）</span></span>しく吐血した――」<lb />
+　その時の事を思ひ出したらしく、朝井玄龍はさすがに暗然として<span type="ruby"><span type="rb">眉</span><span type="rp">（</span><span type="rt">まゆ</span><span type="rp">）</span></span>を垂れます。<lb />
+　併し訊くことはもうそれで盡きました。眞砂町の喜三郎が、お義理だけのことを二つ三つ訊いて、主人玄龍と別れ、第二段の調べに入るために、二人は椽側へ出て來ると――、<lb />
+「親分、いろ／＼面白いことを聽きましたよ」<lb />
+　ガラツ八の八五郎が、長んがい<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>で梶を取つて、<span type="ruby"><span type="rb">沓脱</span><span type="rp">（</span><span type="rt">くつぬぎ</span><span type="rp">）</span></span>の上に泳いでゐるのです。<lb />
+「何んだえ、大層らしく」<lb />
+「ちよいとお耳を」<lb />
+　平次と喜三郎は庭下駄を突つかけて、それでも八五郎に誘はるゝまゝ、植込みの蔭、土藏の横に首を<span type="ruby"><span type="rb">鳩</span><span type="rp">（</span><span type="rt">あつ</span><span type="rp">）</span></span>めました。<lb />
+「――驚くでせう、近頃は主人の玄龍先生お近と親しくなつて、内儀の<span type="ruby"><span type="rb">嫉妬</span><span type="rp">（</span><span type="rt">やきもち</span><span type="rp">）</span></span>は大變だつたさうですよ。あの二人の女は昔の<span type="ruby"><span type="rb">朋輩</span><span type="rp">（</span><span type="rt">ほうばい</span><span type="rp">）</span></span>には違ひないが、どうせ水商賣の女<span type="ruby"><span type="rb">河童</span><span type="rp">（</span><span type="rt">かつぱ</span><span type="rp">）</span></span>で――」<lb />
+「相變らず口が惡いな、お前は」<lb />
+「勘辨して下さいよ。斯んな具合に話さないと、<span type="ruby"><span type="rb">彈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>みが付かないから」<lb />
+「まア宜い、それから何うした」<lb />
+「二人はこの二た月三月は口もきかなかつたさうですよ。内儀はお近を追ひ出さうとしたが、お近の方は主人の首根つこに<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">かじ</span><span type="rp">）</span></span>り附いて、<span type="ruby"><span type="rb">梃</span><span type="rp">（</span><span type="rt">てこ</span><span type="rp">）</span></span>でも動かず、あべこべに、内儀を投り出さうとしてゐたんだといふから達者なものでせう。それから――」<lb />
+「？」<lb />
+「代脈の新六が、一と月前に殺された、娘のお玉に夢中になつてゐたやうに、藥箱持の和助が、お近に思召しがあるらしく、影のやうに附き<span type="ruby"><span type="rb">纒</span><span type="rp">（</span><span type="rt">まと</span><span type="rp">）</span></span>つてゐたといふから、この家はまるで化物屋敷だね。男と女が目の色を變へて、入り亂れて居たんですね」<lb />
+「フム、厄介な家風だな」<lb />
+「面白がつてゐるのは、あの小僧の孝吉ですよ。あれは十四になつたばかりだが、大人のやうに氣が廻りますね」<lb />
+「それつきりか」<lb />
+「まア、そんな事で、――でも何んかの足しにはなるでせう」<lb />
+　八五郎はまことに宜い心持さうです。<lb />
+「おや、<span type="ruby"><span type="rb">眞砂</span><span type="rp">（</span><span type="rt">まさご</span><span type="rp">）</span></span>町の<span type="ruby"><span type="rb">兄哥</span><span type="rp">（</span><span type="rt">あにき</span><span type="rp">）</span></span>は？」<lb />
+　平次は<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>を見廻しました。<lb />
+「ツイ今しがた、向うの方へ行きましたよ、又何んか拔け驅けの功名でも思ひ付いたんでせう。そんな事が大好きな方だから」<lb />
+　八五郎は心得たことを言つてニヤリとしてをります。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">四</span></span></span>
+　お勝手へ廻ると、下女のお兼は忙しさうにお仕舞などをしてをりました。四十二、三の中年者で、亭主に死に別れて、二度の奉公をして居るといふ、<span type="ruby"><span type="rb">所謂</span><span type="rp">（</span><span type="rt">いはゆる</span><span type="rp">）</span></span>奉公<span type="ruby"><span type="rb">摺</span><span type="rp">（</span><span type="rt">ず</span><span type="rp">）</span></span>れのした<span type="ruby"><span type="rb">醜</span><span type="rp">（</span><span type="rt">みにく</span><span type="rp">）</span></span>い女です。<lb />
+「ちよいと訊き度いが――」<lb />
+「へエ、私かえ」<lb />
+　少し<span type="ruby"><span type="rb">相模訛</span><span type="rp">（</span><span type="rt">さがみなまり</span><span type="rp">）</span></span>がありますが、何んとなく<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">したゝ</span><span type="rp">）</span></span>かな感じの女でした。<lb />
+「毎晩、御内儀さんの寢酒の支度は誰がするんだ」<lb />
+「お内儀さん御自分でやりなさるだよ、私やお近さんには手も付けさせねえ」<lb />
+「酒は何處に置いてあるんだ」<lb />
+「戸棚の中に、<span type="ruby"><span type="rb">灘</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>の生一本とかを一升づつ取寄せて、それがざつと十日もあるかね」<lb />
+　お兼は戸棚をあけて中の<span type="ruby"><span type="rb">白丁</span><span type="rp">（</span><span type="rt">はくちやう</span><span type="rp">）</span></span>を出して見せました。振つて見ると未だ少しは殘つてゐさうですが、平次は一寸臭ひを嗅いで見たきり、念入りに封をして八五郎に預けました。<lb />
+「道具は？　<span type="ruby"><span type="rb">猪口</span><span type="rp">（</span><span type="rt">ちよこ</span><span type="rp">）</span></span>とか、徳利とか」<lb />
+「それもお内儀さんが御自身で始末なさるだが」<lb />
+「何處にあるんだ、――その徳利の中には昨夜の飮み殘りの酒があつた筈だが」<lb />
+「今朝はお内儀さんが死んだことだし、私が始末しようと思つたら、綺麗に洗つて、流しの向うに伏せてあつたよ――あの通り」<lb />
+　お兼の指した流しの向うに、物に凭れさせて洗つた徳利が一本、<span type="ruby"><span type="rb">倒樣</span><span type="rp">（</span><span type="rt">さかさま</span><span type="rp">）</span></span>になつてゐる外に、<span type="ruby"><span type="rb">赤繪</span><span type="rp">（</span><span type="rt">あかゑ</span><span type="rp">）</span></span>の猪口が一つ、これも洗つたまゝ板の上に伏せてあるではありませんか。<lb />
+「誰がそれを洗つたんだ――お兼は知つてるだらう」<lb />
+　平次はさすがに氣色ばみます。<lb />
+「知つてるわけぢやねえだが、――私が朝早くお勝手へ來ると、あわててお勝手から飛び出した者があるだよ。水でも呑みに來たのかと思つたら、昨夜の騷ぎの後で、奧から下げて置いた徳利と<span type="ruby"><span type="rb">猪口</span><span type="rp">（</span><span type="rt">ちよこ</span><span type="rp">）</span></span>が、ちやんと洗つて流しの向うに伏せてあつただ。――多分死んだお内儀さんの<span type="ruby"><span type="rb">念</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>ひが殘つて徳利と猪口を洗つて下すつたのかも知れないだよ」<lb />
+　<span rend="sesame_dot" rendition="em">けろり</span>として斯んな事を言ふお兼です。この女は全く馬鹿か悧巧か見當もつきません。<lb />
+「よし／＼、その猪口と徳利を洗つたのは幽靈として、今朝お前が來た時、お勝手から飛び出したといふのは誰だえ」<lb />
+「和助さんですよ」<lb />
+「藥箱持の和助か」<lb />
+「あの人は近頃どうかしてゐるから、水で顏でも洗ひに來たことだんべいと思つてね」<lb />
+　お兼の言葉は相變らず人を喰つてをります。<lb />
+「ところで、昨夜お内儀が、酒の徳利を用意して、暫らく此處へ置いたことだらうな」<lb />
+「昨夜だけぢやねえ、何時でもさうなさるだよ。晩の支度のとき、白丁から一合くらゐの酒を徳利に移して、猪口を添へてこの臺の上へ置いて、晩飯が濟んで暫らく經つて、部屋へ引取るとき、自分で持つて行きなさるだ」<lb />
+「その間にお勝手へ來るのは？」<lb />
+「家中の者は毎晩一度づつは來ますだよ。先生も、お内儀さんも、お近さんも、新六さんも、和助さんも、孝吉さんも、それから<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>の御隱居さんも」<lb />
+「離屋の御隱居は何んの用事でこのお勝手へ來るんだ」<lb />
+「お<span type="ruby"><span type="rb">菜</span><span type="rp">（</span><span type="rt">かず</span><span type="rp">）</span></span>の殘りを貰ひに來なさるがね。氣の毒だから私は、奧で召上つた殘りがあれば、どつさり取つて置いて上げますだよ」<lb />
+　<span type="ruby"><span type="rb">醜</span><span type="rp">（</span><span type="rt">みにく</span><span type="rp">）</span></span>くて正直で、そして<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">したゝ</span><span type="rp">）</span></span>かな魂を持つた奉公女は、妙に離屋の隱居に同情を寄せてゐる樣子です。<lb />
+　併しこれはお兼の口から引出せる話の全部でした。この上は店の方へでも行つて見ようとフト<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>を見廻すと、其處には眞砂町の喜三郎は言ふ迄もなく、八五郎の姿も見えません。<lb />
+　丁度それと氣の付いた時、店の方では大變な騷ぎが始まつたのです。<lb />
+「野郎ツ、<span type="ruby"><span type="rb">神妙</span><span type="rp">（</span><span type="rt">しんめう</span><span type="rp">）</span></span>にしやがれツ」<lb />
+　それは八五郎の聲でした。<lb />
+「親分、私ぢやありません、――私は何んにも知りやしません」<lb />
+　悲鳴をあげるのは、藥箱持ちの和助の樣子です。<lb />
+　平次は飛んで行きました。と、出合ひ頭、和助の襟髮を掴んだ八五郎と、危ふく鉢合はせしさうになつて、廊下の薄暗がりに立ち止つたのです。<lb />
+「八、騷々しいぢやないか、どうしたんだ」<lb />
+「この野郎ですよ、親分。内儀に毒を盛つたのは？」<lb />
+　八五郎の得意さ。<lb />
+「私は何んにも知りません。錢形の親分さんどうぞ、お助けを願ひます。お願ひ」<lb />
+　それは三十前後の背の低い不景氣な男でした。丈夫さうで<span type="ruby"><span type="rb">脂</span><span type="rp">（</span><span type="rt">あぶら</span><span type="rp">）</span></span>ぎつて、三十過ぎまでニキビを持越して居る獨り者、無口で一<span type="ruby"><span type="rb">克</span><span type="rp">（</span><span type="rt">こく</span><span type="rp">）</span></span>で、そのくせ氣の弱さうな、一種の劣等感と、自分の情慾とを持て餘して居る型の男――その<span type="ruby"><span type="rb">脅</span><span type="rp">（</span><span type="rt">おび</span><span type="rp">）</span></span>えきつた姿を平次は眼の前に突きつけられたのです。<lb />
+「何んにも知らねえものが、今朝薄暗い臺所に忍び込んで、肝腎の徳利と猪口を洗つたのはどういふわけだ。あの中には呑み殘りの毒酒が、馬でも殺せるほど入つて居たんだぞ、やい」<lb />
+　八五郎はすつかり好い心持さうです。<lb />
+「そん事は知りやしません。唯<span type="ruby"><span type="rb">眼障</span><span type="rp">（</span><span type="rt">めざは</span><span type="rp">）</span></span>りだから洗つたまでで――」<lb />
+「嘘をつきやがれ、夜の明けきらないうちに臺所を覗いて、徳利や猪口を眼障りにする柄かよ、お前は。サア、眞つ直ぐに白状しろ、誰に頼まれて内儀に毒を呑ませた」<lb />
+「飛んでもない親分」<lb />
+　それは果てしもない爭ひでした。が、平次は默つてその爭ひを見てゐるばかり、八五郎の手柄を褒めもせず、和助のためにも辯じてやらうともしません。<lb />
+「親分、こいつは繩を打つたものでせうね」<lb />
+　八五郎はもう自分の手柄に<span type="ruby"><span type="rb">陶醉</span><span type="rp">（</span><span type="rt">たうすゐ</span><span type="rp">）</span></span>して、平次の返事を疑つて見ようともしない樣子です。<lb />
+「八、それより、ちよいと振り返つて、あれを見るが宜い」<lb />
+　平次は靜かにうしろの方を指しました。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi310">五</span></span></span>
+「あツ」<lb />
+　其處には眞砂町の喜三郎が、お近に腰繩を打つて、ニヤリニヤリと突つ立つて居るではありませんか。<lb />
+「八<span type="ruby"><span type="rb">兄哥</span><span type="rp">（</span><span type="rt">あにい</span><span type="rp">）</span></span>、氣の毒だが、内儀殺しの下手人は此方だよ」<lb />
+　喜三郎の得意な<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>に、繩尻がピシリと鳴ると、<lb />
+「あ、何をするのさ、痛いぢやないか。何んだつてこの私を縛るんだえ、後で繩を解かうたつて、無事には解かしやしないよ。安岡つ引の癖にしやがつて、畜生ツ」<lb />
+　お近はさう言つた女でした。勝氣で剛情で、豊滿で色つぽくて、そして長い間泥水に浸つた揚句、人を人とも思はないやうな、<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">したゝ</span><span type="rp">）</span></span>かな修業が積んでゐたのです。<lb />
+「默れツ、女、お前が内儀を毒害した動きのとれない證據が擧つてゐるんだ。大きなことを言ひたかつたら、<span type="ruby"><span type="rb">處刑臺</span><span type="rp">（</span><span type="rt">おしおきだい</span><span type="rp">）</span></span>の上に、その綺麗な首を<span type="ruby"><span type="rb">載</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>つけてから、存分に張り上げるが宜い」<lb />
+　喜三郎も素より負けては居ません。<lb />
+「内儀を殺した證據？――馬鹿におしでない。私はいかにも、あの女を殺さうと思つたよ。幾度その氣になつたか知れやしないが、昨夜といふ昨夜、誰か知らないが、先を潜つて殺してしまつたんだよ」<lb />
+「馬鹿ツ、それが白状ぢやないか――殺し手はお前だ」<lb />
+「解らない<span type="ruby"><span type="rb">唐變木</span><span type="rp">（</span><span type="rt">たうへんぼく</span><span type="rp">）</span></span>だよ。殺さうと思つたことは幾度あつたか知れないが、私がやる前に他の奴がやつたのさ。<span type="ruby"><span type="rb">癪</span><span type="rp">（</span><span type="rt">しやく</span><span type="rp">）</span></span>にさはるぢやないか、もう三日生きて居れば、間違ひもなくこの私が殺してやつたのに」<lb />
+「何んといふ<span type="ruby"><span type="rb">自棄</span><span type="rp">（</span><span type="rt">やけ</span><span type="rp">）</span></span>な口を利くんだ。さうまで言ふくらゐなら、何んだつて思ひきりよく、――私が殺しました――と言はないんだ、お上には御慈悲があるぞ」<lb />
+「チエツ、無實の罪で首を切られて御慈悲が聞いて呆れらア」<lb />
+　此處にもまた、際限もない爭ひが展開するのです。<lb />
+「それぢや自分のした事を思ひ出させるやうに、此處で<span type="ruby"><span type="rb">復習</span><span type="rp">（</span><span type="rt">おさらひ</span><span type="rp">）</span></span>してやらう、宜いか」<lb />
+　喜三郎はそれを平次に聽いて貰ひ度かつたのでせう。<lb />
+「宜いとも、承はらうぢやないか」<lb />
+「お前は近頃主人と<span type="ruby"><span type="rb">懇</span><span type="rp">（</span><span type="rt">ねんご</span><span type="rp">）</span></span>ろになつて、内儀と<span type="ruby"><span type="rb">啀</span><span type="rp">（</span><span type="rt">いが</span><span type="rp">）</span></span>み合つて居たといふぢやないか」<lb />
+「啀んだのは内儀の時代の方だよ」<lb />
+「お前はツイ十日ばかり前に、毒藥の入つてゐる藥戸棚をそつと開けて、中から南蠻物の恐しい毒藥を、盜み出したといふぢやないか」<lb />
+「――」<lb />
+「それを見てゐた人は二人も三人もあるんだ。どうだ女、南蠻祕法大毒藥は、七味<span type="ruby"><span type="rb">唐辛子</span><span type="rp">（</span><span type="rt">たうがらし</span><span type="rp">）</span></span>の代りにやならないぜ。内儀を殺して後釜にすわる氣だつたに違ひあるめえ」<lb />
+　それは致命的な證據らしく見えました。<lb />
+「畜生ツ、代診野郎の<span type="ruby"><span type="rb">味噌摺</span><span type="rp">（</span><span type="rt">みそすり</span><span type="rp">）</span></span>新六の告げ口だらう。――覺えてゐるが宜い――でも私は毒藥は盜んだが、それを使つたわけぢやない」<lb />
+「馬、馬鹿なことを言へツ」<lb />
+「本當だよ、銀と紺の<span type="ruby"><span type="rb">藥袋紙</span><span type="rp">（</span><span type="rt">やくたいし</span><span type="rp">）</span></span>に包んだまゝ、五分玉の<span type="ruby"><span type="rb">珊瑚</span><span type="rp">（</span><span type="rt">さんご</span><span type="rp">）</span></span>と一緒に<span type="ruby"><span type="rb">巾着</span><span type="rp">（</span><span type="rt">きんちやく</span><span type="rp">）</span></span>へ入れて置いて、口惜しいがそれを何處かへ落してしまつたんだよ――それはもう五日も前のことだ。するとどうだらう、三日目に毒藥だけ拔いて、珊瑚と小粒はもとのまゝ、巾着を私の部屋へ、格子から投り込んだ奴があるぢやないか」<lb />
+「――」<lb />
+　それは滿更の<span type="ruby"><span type="rb">嘘</span><span type="rp">（</span><span type="rt">うそ</span><span type="rp">）</span></span>とも覺えぬ筋の通つた話でした。<lb />
+「その財布は今でも私の手文庫の中にあるし、家中に吹聽したから、誰でも知つてゐる話だよ。聽いて見るが宜い」<lb />
+「毒藥を巾着の中から盜まれた話もか」<lb />
+「そんな事を言ふものか、馬鹿々々しい」<lb />
+「そんな言ひ譯は暗いぞ。來やがれ、お<span type="ruby"><span type="rb">白洲</span><span type="rp">（</span><span type="rt">しらす</span><span type="rp">）</span></span>の砂利を掴んで、もう一度それを繰り返すんだ。お役人が<span type="ruby"><span type="rb">正面</span><span type="rp">（</span><span type="rt">まとも</span><span type="rp">）</span></span>に採つて、その繩を解いたらお笑ひ草だらう。サア、立てツ」<lb />
+　喜三郎は又繩尻を鳴らすのです。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi320">六</span></span></span>
+「親分――眞砂町の親分、お待ちよ、その人は下手人なんかぢやないぜ」<lb />
+　後ろから呼び留めたのは、小僧の孝吉――主人玄龍のもとの内儀の弟の、あの<span type="ruby"><span type="rb">惡戯</span><span type="rp">（</span><span type="rt">いたづら</span><span type="rp">）</span></span>つ子らしい十四の少年でした。<lb />
+「何んだ小僧、又變な事を言やがると承知しねえぞ」<lb />
+「おつかねえ顏をして睨んだつて、驚くもんか、――お近さんを縛つて行くと、親分が飛んだ恥を掻かなきやならないから教へてゐるんだぜ」<lb />
+「そのわけを言つて見ろ」<lb />
+　眞砂町の喜三郎もさすがに無理には立ち去り兼ねました。小僧孝吉の悧巧さに引付けられたのと、妙にその自信あり氣な調子に、一脈の<span type="ruby"><span type="rb">疑懼</span><span type="rp">（</span><span type="rt">ぎぐ</span><span type="rp">）</span></span>を感じたのです。<lb />
+「お近さんが藥戸棚を開けて、毒藥を盜んだことは、和助どんも新六さんも、<span rend="sesame_dot" rendition="em">おいら</span>も見てゐたんだ。銀紙と紺紙に包んで、あの戸棚の中にあるのが、南蠻物の大毒藥と、この家中で知らない者は一人もないよ」<lb />
+「――」<lb />
+　孝吉の話の眞實性に引摺られて、妙にシーンとしてしまひました。<lb />
+「お近さんと來たら横着な癖に呑氣で、<span rend="sesame_dot" rendition="em">だらし</span>がないんだ。物を盜むところを多勢の人に見られても御本人は一向氣が付かないんだよ。その上、毒藥を入れた巾着を落した事も本當なら、その巾着が三日目に藥だけ拔いて返された事も本當さ。それにこいつは一番大事なことだが――」<lb />
+「？」<lb />
+「昨夜お内儀さんが寢酒の支度をして、それを自分の部屋へ持つて行く迄のざつと一<span type="ruby"><span type="rb">刻</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>もの間、お近さんは町内の湯屋で、皮が剥げるほど磨いて居たんだぜ。お近さんの長湯と來た日にや、江戸中の評判さ」<lb />
+「そいつは本當か」<lb />
+　喜三郎もさすがに驚きました。それを聽いてゐる多勢の人の顏には、孝吉の言葉を<span type="ruby"><span type="rb">肯定</span><span type="rp">（</span><span type="rt">こうてい</span><span type="rp">）</span></span>する色が<span rend="sesame_dot" rendition="em">はつきり</span>と現はれてゐるのです。<lb />
+「誰が嘘なんか吐くものか。<span rend="sesame_dot" rendition="em">おいら</span>はお近さんを好きぢやないんだ。そのジヤラジヤラした<span type="ruby"><span type="rb">白粉</span><span type="rp">（</span><span type="rt">おしろい</span><span type="rp">）</span></span><span type="ruby"><span type="rb">厚塗</span><span type="rp">（</span><span type="rt">あつぬ</span><span type="rp">）</span></span>りの顏を見ると、胸がムカムカするよ。でも、――下手人でもないのに、<span type="ruby"><span type="rb">處刑</span><span type="rp">（</span><span type="rt">しおき</span><span type="rp">）</span></span>になつちや可哀想ぢやないか」<lb />
+「生意氣を言ふな」<lb />
+「お勝手の戸棚の<span type="ruby"><span type="rb">白丁</span><span type="rp">（</span><span type="rt">はくちやう</span><span type="rp">）</span></span>の中に毒の<span type="ruby"><span type="rb">氣</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>があれば、湯へ行く前に入れたかも知れないが、白丁に殘つた酒に毒が入つて居なきや、お近さんは下手人ぢやないよ」<lb />
+　それは實に凄いほどの少年の智慧です。喜三郎もさすがにそれを反駁する材料はありません。<lb />
+「和助があの徳利と猪口を、そつと洗つたことをお前は知つてゐるか」<lb />
+　今まで默つて聽いてゐた平次は、この時<span type="ruby"><span type="rb">漸</span><span type="rp">（</span><span type="rt">ようや</span><span type="rp">）</span></span>く口を出しました。<lb />
+「知つて居るよ。錢形の親分がそいつを<span type="ruby"><span type="rb">手繰</span><span type="rp">（</span><span type="rt">たぐ</span><span type="rp">）</span></span>り出すと、八五郎親分は、あわてて和助どんの襟髮を掴んで引き立てたらう、<span rend="sesame_dot" rendition="em">あわて</span>者だね」<lb />
+「それがどうした？」<lb />
+　八五郎は眼を剥きます。<lb />
+「どうもしないよ、――和助どんはお近さんに惚れてゐるだけの事さ。お近さんの方では相手にしないが、そりや大變だよ」<lb />
+「で？」<lb />
+「お近さんが毒藥を盜み出したのを見て居るから、お内儀さんが毒害されたとなると、誰でも一應はお近さんを<span type="ruby"><span type="rb">疑</span><span type="rp">（</span><span type="rt">うたが</span><span type="rp">）</span></span>つて見るだらう。和助どんは昨夜宵のうちは家に居なかつたから、下手人は<span rend="sesame_dot" rendition="em">てつきり</span>お近さんに違ひないと思ひ込んで、それを助けるつもりで、今朝暗いうちに、そつと臺所へ行つて、徳利と<span type="ruby"><span type="rb">猪口</span><span type="rp">（</span><span type="rt">ちよこ</span><span type="rp">）</span></span>を洗つたのだらうよ。――御覽よ、和助どんはあんな大きな圖體をして店る<span type="ruby"><span type="rb">癖</span><span type="rp">（</span><span type="rt">くせ</span><span type="rp">）</span></span>に、子供のやうに泣いて居るぢやないか」<lb />
+　それはまことに<span type="ruby"><span type="rb">鮮</span><span type="rp">（</span><span type="rt">あざや</span><span type="rp">）</span></span>かな辯解でした。危ないところを助けられたお近は、さすがに緊張が解けてボーとし、和助はさめ／″＼と泣いてをります。<lb />
+　二つ目の死も斯うして<span type="ruby"><span type="rb">有耶無耶</span><span type="rp">（</span><span type="rt">うやむや</span><span type="rp">）</span></span>に終り、孝吉の賢さに救はれて、下手人の疑ひを受けた三人は助かりました。が、續いて起る第三の死は、一體誰が狙はれて、誰が縛られることでせう。朝井玄龍の一家にふりかゝる<span type="ruby"><span type="rb">呪</span><span type="rp">（</span><span type="rt">のろひ</span><span type="rp">）</span></span>は容易ではありません。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi420">解決篇</span></span></span>
+<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi430">一</span></span></span>
+「親分、やられましたよ。到頭三人目が」<lb />
+　飛び込んで來たのは八五郎でした。それは本郷一丁目の流行醫者、朝井玄龍の内儀が殺されてから五日目、二月も漸く半ば過ぎになつたある朝のことです。<lb />
+「今度は誰だ」<lb />
+　錢形平次はまだ<span type="ruby"><span type="rb">箸</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>を取つたばかりの朝の膳を押しやると大急ぎで支度に取りかゝりながら、言葉せはしく訊き返します。<lb />
+　朝井玄龍の家の<span type="ruby"><span type="rb">不祥事</span><span type="rp">（</span><span type="rt">ふしやうじ</span><span type="rp">）</span></span>は、一向に解決しない上に、放つて置けばまだ續きさうなので、この間から八五郎に言ひ含めて、それとはなしに見張らせて置いたのが、何んの役にも立たなかつたわけです。<lb />
+「あれ、お前さん」<lb />
+　追ひすがるやうに、お盆を持つたまゝ立ち上がる女房のお靜を押へて、<lb />
+「飯なんか、後で宜いよ、――まさか主人がやられたんぢやあるまいネ」<lb />
+　もう入口へ顏を出してをりました。<lb />
+「その主人の玄龍先生が手もなく締め殺されてゐるのを、今朝になつて見付けたんで」<lb />
+　八五郎はハア／＼白い息を吐きながら、<span type="ruby"><span type="rb">額口</span><span type="rp">（</span><span type="rt">ひたひぐち</span><span type="rp">）</span></span>の汗などを拭いてをります。<lb />
+「そんな事になるだらうと思つたよ。だからお前に見張らせて置いたんだが――」<lb />
+「相濟みません。二日二た晩までは見張りましたが、醫者の家に御用聞が頑張つてゐられちや體裁が惡いとか何んとか言つて、良い顏をしないんで三日目からは朝夕たゞ見廻つて、向柳原の巣へ歸ることにしましたよ」<lb />
+「仕樣がないなア、誰が一體お前を邪魔にしたんだ」<lb />
+「あの、ヂヤラヂヤラお近の<span type="ruby"><span type="rb">阿魔</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>で、――<span rend="sesame_dot" rendition="em">あつし</span>が頑張つてゐちや、内儀の初七日も濟まないうちから、ヂヤラつくわけにも行かなかつたんでせう」<lb />
+「そんなにヂヤラヂヤラするのか」<lb />
+「<span rend="sesame_dot" rendition="em">あつし</span>なんかには白い眼を見せるだけで――相手は獨り者になつた好い男の主人玄龍ですよ。イヤな女ですね」<lb />
+　そんな問答のうちに、平次は支度を<span type="ruby"><span type="rb">整</span><span type="rp">（</span><span type="rt">とゝの</span><span type="rp">）</span></span>へて外へ出ました。明神下から本郷一丁目まで、八五郎との問答は續きます。<lb />
+「そいつは誰が見付けたんだ」<lb />
+「下女のお兼ですよ。今朝明るくなつてから雨戸を開けに行くと、主人の玄龍が自分の部屋で平常着のまゝ首を女の<span type="ruby"><span type="rb">扱帶</span><span type="rp">（</span><span type="rt">しごき</span><span type="rp">）</span></span>で締められて死んでゐるのを見て、悲鳴をあげたんださうですよ」<lb />
+「あの丈夫な男がね」<lb />
+「好い男だが、<span type="ruby"><span type="rb">恰幅</span><span type="rp">（</span><span type="rt">かつぷく</span><span type="rp">）</span></span>もよく、力もあり、武藝の一と手くらゐは知つてゐさうでしたよ。あの醫者を音も立てさせずに締め上げるのは、容易のことぢやありませんね」<lb />
+「それの出來るのは誰だらう」<lb />
+「和助か新六の外にはありませんね」<lb />
+　そんな事を言ふうちに、二人は本郷の朝の人通りの中を、朝井玄龍の門に飛び込みました。<lb />
+「おや、錢形の親分」<lb />
+　出合ひ頭、鉢合せをしさうに聲を掛けたのは<span type="ruby"><span type="rb">眞砂</span><span type="rp">（</span><span type="rt">まさご</span><span type="rp">）</span></span>町の喜三郎でした。<lb />
+「眞砂町の親分か、大變なことになつたね」<lb />
+「錢形の親分の言つた通りだ。到頭三人目がやられた」<lb />
+　眞砂町の喜三郎は事件の重大性に轉倒して、平次を迎ひに行くつもりで出かけたところだつたのです。<lb />
+　主人玄龍の部屋は、いつぞや内儀の<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>が死骸になつて横たはつて居た部屋で、その奧にはこれも殺された娘のお玉の部屋が續きます。<lb />
+「家中の者は姿を見せないやうだが」<lb />
+　<span type="ruby"><span type="rb">空家</span><span type="rp">（</span><span type="rt">あきや</span><span type="rp">）</span></span>のやうな不氣味な閑寂さに、平次は氣が付きました。<lb />
+「奉公人は店に、お近は自分の部屋に追ひ込んであるよ、――それからあの高慢な小僧の孝吉は、<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>姉のお直――玄龍のもとの内儀でこの家の家附だが――その半氣違ひの姉が死んださうで、昨夜から土藏の<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>へ行つて居るが」<lb />
+「あの女が死んだのか――可哀想に」<lb />
+　土藏の離屋に、骨と皮の青白い身體を横たへてゐたお直は、到頭死ぬまでヒステリーを昂じさせたのでせう。平次はいつぞやの事を思ひ出して、ぞつとした心持になります。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi440">二</span></span></span>
+　主人の朝井玄龍の死骸は、まだ始末もせずに、今朝のまゝに疊の上に轉がしてありました。<lb />
+　四十そこ／＼の好い男で、少し<span type="ruby"><span type="rb">逞</span><span type="rp">（</span><span type="rt">たく</span><span type="rp">）</span></span>ましい感じがあるにしても、色白の坊主頭、<span type="ruby"><span type="rb">辯口</span><span type="rp">（</span><span type="rt">べんこう</span><span type="rp">）</span></span>がよくて愛嬌があつて、申し分のない男振りでしたが、斯う赤い<span type="ruby"><span type="rb">扱帶</span><span type="rp">（</span><span type="rt">しごき</span><span type="rp">）</span></span>で絞め殺された姿を、早春の柔かい朝日に照し出されたところは、狸の化けたのが見る／＼尻尾か何にかを出しさうで、一脈の妖氣と不氣味さが<span type="ruby"><span type="rb">漂</span><span type="rp">（</span><span type="rt">たゞよ</span><span type="rp">）</span></span>ひます。<lb />
+　着物は晝のまゝの好みの黄八丈、大柄の襟の掛つた<span type="ruby"><span type="rb">半纒</span><span type="rp">（</span><span type="rt">はんてん</span><span type="rp">）</span></span>を引つかけて、無抵抗に投げ出した足の先に、日頃傍を離さなかつたらしい脇差が<span type="ruby"><span type="rb">鞘</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>のまゝと、手輕な<span type="ruby"><span type="rb">舐</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>め物をあしらつた膳部が、徳利と共に蹴飛ばされ、酒が疊に<span type="ruby"><span type="rb">浸</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>み通つてゐるのも淺ましいかぎりです。<lb />
+「主人は<span type="ruby"><span type="rb">下戸</span><span type="rp">（</span><span type="rt">げこ</span><span type="rp">）</span></span>だつた筈だが――」<lb />
+　平次は一寸首を捻ります。<lb />
+「お兼に訊いて見よう」<lb />
+　眞砂町の喜三郎は、お勝手に飛んで行くと、其處から引つ立てるやうに、<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">したゝ</span><span type="rp">）</span></span>か者らしい下女のお兼をつれて來ました。<lb />
+「主人は酒を呑むのか、――下戸だと言つてゐたが――」<lb />
+　それは平次の最初の問ひでした。<lb />
+「滅多に召し上がりません。――でも<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>はよく／＼面白くなかつたんでせう。私を呼んで一本つけさして、<span type="ruby"><span type="rb">酌</span><span type="rp">（</span><span type="rt">しやく</span><span type="rp">）</span></span>には及ばないと言つて、其處の柱に<span type="ruby"><span type="rb">凭</span><span type="rp">（</span><span type="rt">もた</span><span type="rp">）</span></span>れて、一人で呑んでいらつしやいました」<lb />
+「それは何刻だ」<lb />
+「<span type="ruby"><span type="rb">戌刻</span><span type="rp">（</span><span type="rt">いつゝ</span><span type="rp">）</span></span>（八時）過ぎでした。隣りの部屋へ床を敷いて上げてお勝手へ來たとき<span type="ruby"><span type="rb">戌刻半</span><span type="rp">（</span><span type="rt">いつゝはん</span><span type="rp">）</span></span>（九時）の火の番の<span type="ruby"><span type="rb">拍子木</span><span type="rp">（</span><span type="rt">ひようしぎ</span><span type="rp">）</span></span>が鳴つてゐたやうで――」<lb />
+「お前はそれからどうした」<lb />
+「妙に淋しかつたんで、お玄關の次の間へ行つて暫らく和助さんや新六さんと無駄話をしました。あすこには大火鉢があるんです。一刻ほど經つてから火の始末をして、玄關とお勝手を閉めて、自分の部屋へ歸つて休みました」<lb />
+「主人の部屋を覗かなかつたのか」<lb />
+「もう來なくても宜いと仰つしやるんです。それに宵過ぎには全く何があるか判りやしません。二三日前からお近さんの<span type="ruby"><span type="rb">見幕</span><span type="rp">（</span><span type="rt">けんまく</span><span type="rp">）</span></span>が大變でしたから」<lb />
+「お近が何をやつたんだ」<lb />
+　お兼の何やら言ひた氣な語氣を迎へて、平次は問ひを<span type="ruby"><span type="rb">挾</span><span type="rp">（</span><span type="rt">はさ</span><span type="rp">）</span></span>みました。<lb />
+「お内儀さんが亡くなると、その翌る日からもう、後釜に据ゑてくれといふ強談でしたよ」<lb />
+「へエ、達者な女だね」<lb />
+「私はどうせお近さんに嫌はれてゐるから、斯うなればこの家にゐる氣もありませんから皆んな言つてしまひますが――」<lb />
+　お兼は四十女の強かさを存分に<span type="ruby"><span type="rb">發揮</span><span type="rp">（</span><span type="rt">はつき</span><span type="rp">）</span></span>して、斯んなことをヌケヌケと言ふのです。尤も主人が殺されてしまつたこの家は、下女のお兼がお拂ひ箱になる前に、怪し氣な掛り人のお近の方が放り出されるかもわかりません。<lb />
+「ウン、良い心掛けだ」<lb />
+　八五郎は相の手を入れてをります。<lb />
+「先のお内儀さん（<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>）が生きてゐる頃から、先生を取込んでヂヤラヂヤラして、お近さんは、何んな約束があつたか知らないが、お<span type="ruby"><span type="rb">葬</span><span type="rp">（</span><span type="rt">とむら</span><span type="rp">）</span></span>ひも濟まぬうちから、毎晩先生のところへ押し掛けて行つて、大變でしたよ」<lb />
+「――」<lb />
+「先生はせめて四十九日が過ぎてからと仰つしやつてゐた樣子でしたが、お近さんが聽きやしません。昨夜は到頭先生も腹をお立てになつて、大變な騷ぎでしたよ。それに離屋にゐる先のお内儀のお直さんも死んだことだし、少しは<span rend="sesame_dot" rendition="em">たしなめ</span>と言つたのが、ひどくお近さんの<span type="ruby"><span type="rb">癇</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>にさはつた樣子で――」<lb />
+「お直さんの<span type="ruby"><span type="rb">臨終</span><span type="rp">（</span><span type="rt">りんじう</span><span type="rp">）</span></span>の樣子を聽きたいが――」<lb />
+「え、本當にお氣の毒でした。十年前捨てたか捨てられたか、先生と別れてからは、あの土藏を離屋に直して、母親のお市さんと弟の孝吉さんと一緒に暮し、ツイこの間まではフラフラと起き出して外を歩いたり、どうかするとこの<span type="ruby"><span type="rb">母家</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>にも入つたりして居ましたが、昨夜――まだ<span type="ruby"><span type="rb">酉刻半</span><span type="rp">（</span><span type="rt">むつはん</span><span type="rp">）</span></span>（七時）そこ／＼でした。急にいけなくなつて息を引取つてしまつた樣子で」<lb />
+「玄龍先生はその<span type="ruby"><span type="rb">末期</span><span type="rp">（</span><span type="rt">まつご</span><span type="rp">）</span></span>に立ち會はなかつたのか」<lb />
+　平次は急所の問ひを挾みました。<lb />
+「急の<span type="ruby"><span type="rb">臨終</span><span type="rp">（</span><span type="rt">りんじう</span><span type="rp">）</span></span>だつたさうで、亡くなつてから店へ孝吉が迎ひに來たので、先生も一緒に行つて見た樣子ですが、御隱居さんは以ての外の腹立ちで、捨てられた夫に死顏を見せては、<span type="ruby"><span type="rb">冥途</span><span type="rp">（</span><span type="rt">めいど</span><span type="rp">）</span></span>の障りだからと、入口からは一と足も入れなかつたさうです」<lb />
+「――」<lb />
+　あの柔和さうな女隱居のお市に、それだけの<span type="ruby"><span type="rb">氣概</span><span type="rp">（</span><span type="rt">きがい</span><span type="rp">）</span></span>のあつたのは、妙に皆んなの心持をシンとさせました。<lb />
+「それから御隱居さんが孝吉さんと二人で取りさばいて、<span type="ruby"><span type="rb">早桶</span><span type="rp">（</span><span type="rt">はやおけ</span><span type="rp">）</span></span>屋からお寺樣まで掛け合つた樣子で、御主人は申す迄もなく、私も新六さんも和助さんも口を出す<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">ひま</span><span type="rp">）</span></span>もありやしません」<lb />
+「――」<lb />
+「そんな事で氣がムシヤクシヤなすつたのでせう。<span type="ruby"><span type="rb">猛</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>り立つお近さんを<span type="ruby"><span type="rb">宥</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>めて引取らせた後、御主人は獨りで一杯過ごし、その儘お休みになつた事とばかり思つてをりました。<span type="ruby"><span type="rb">舐</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>め物を持つて一番後で行つた時は、床を敷いた隣りの部屋との境ひにある柱に凭れて、苦さうなお顏で杯を甞めていらつしやいました」<lb />
+「それから」<lb />
+「私はあんまり淋しいから、玄關の次の間の店へ行つて、新六さん和助さんを相手に話し込み、<span type="ruby"><span type="rb">亥刻半</span><span type="rp">（</span><span type="rt">よつはん</span><span type="rp">）</span></span>（十一時）頃になつて休みましたが」<lb />
+「その間に、奧から何にか物音が聽えなかつたのか」<lb />
+　平次が又訊ねます。<lb />
+「こんなに店とは離れてゐるんですもの、少しくらゐのことでは聞える道理はありません。御主人は御用のときは、いつでも手を打ちなさることになつてをります」<lb />
+　下女のお兼の話はなか／＼よく行屆きます。どうかしたらお近の<span type="ruby"><span type="rb">賤</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>しい<span type="ruby"><span type="rb">媚態</span><span type="rp">（</span><span type="rt">びたい</span><span type="rp">）</span></span>と、その恥を知らない態度に、中年過ぎの女らしい激しい憎惡を感じてゐたのが、<span type="ruby"><span type="rb">憚</span><span type="rp">（</span><span type="rt">はゞか</span><span type="rp">）</span></span>る者がなくなつて、いつぺんに爆發したのでせう。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi450">三</span></span></span>
+　平次はもう一度朝井玄龍の死骸を調べました。<span type="ruby"><span type="rb">喉佛</span><span type="rp">（</span><span type="rt">のどぼとけ</span><span type="rp">）</span></span>の碎けて居る樣子や、たいした抵抗もなくやられた樣子は、明らかに恐しい剛力で後ろから<span type="ruby"><span type="rb">絞</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>めたものに違ひありません。<lb />
+「八、不思議なことがある、見ろ」<lb />
+「へエ？」<lb />
+　八五郎には殘念ながらその不思議といふ意味がよくわかりません。<lb />
+「死骸の首筋には、細引の跡が殘つてゐるが、不思議なことにそれは前の方だけで、<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>には何んの跡もないぢやないか」<lb />
+「？」<lb />
+「紅い<span type="ruby"><span type="rb">扱帶</span><span type="rp">（</span><span type="rt">しごき</span><span type="rp">）</span></span>はその上へ後から卷いただけで、絞め殺したのは丈夫な細引だ、――それからもう一つ、脇差の<span type="ruby"><span type="rb">蝋塗鞘</span><span type="rp">（</span><span type="rt">ろふぬりざや</span><span type="rp">）</span></span>の中程がひどく痛んでゐるのは何ういふわけだ」<lb />
+「へエ？」<lb />
+「柱を見てくれ、疊から三尺ほどの高さだ、其處にも傷がある筈だが」<lb />
+「さう言へば後ろ側に傷らしいものがありますね」<lb />
+「ところで、これだけの事で、お前はどんな事があつたと思ふ」<lb />
+「新六か和助が夜中に忍んで來て、締めたんぢやありませんか」<lb />
+　八五郎は一つの假定に<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>り着きました。が、平次は頭を振つてそれには<span type="ruby"><span type="rb">合槌</span><span type="rp">（</span><span type="rt">あひづち</span><span type="rp">）</span></span>を打つてくれさうもありません。<lb />
+「いや、玄龍は晝のまゝの姿だ、――着換へもして居ない。隣りの部屋に敷いた床を見るが宜い、其處には寢た樣子もないだらう」<lb />
+「へエ」<lb />
+「燭臺の<span type="ruby"><span type="rb">蝋燭</span><span type="rp">（</span><span type="rt">らふそく</span><span type="rp">）</span></span>は新しいのを點けたらしいが、二寸とは燃えてゐないだらう。下手人は萬事思ふままに運んだ上、暫らくこの場の樣子を人に見せ度くなかつたので、灯を吹き消して行つたのだ。――落着き拂つた曲者だが、――そのために一つの證據を殘して行つた」<lb />
+「では下手人は此處へ宵のうちに自由に出入りの出來るものですね。下女のお兼が店へ行つて、新六と和助と三人、<span type="ruby"><span type="rb">亥刻半</span><span type="rp">（</span><span type="rt">よつはん</span><span type="rp">）</span></span>（十一時）までも話し込んでゐたとすると、この三人の外に誰が一體玄龍を殺すでせう」<lb />
+「――」<lb />
+「小僧の孝吉は姉が死んで土藏の離屋へ行つてゐた、あとは――」<lb />
+　八五郎の推理が其處まで<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>り着いた時、<lb />
+「あツ、何をするのさ、又私をどうしようと言ふのだえ。――安岡つ引の癖にしやがつて、<span type="ruby"><span type="rb">矢鱈</span><span type="rp">（</span><span type="rt">やたら</span><span type="rp">）</span></span>に人を縛つてどうするんだ」<lb />
+　幾間か隔てて、お近の聲が<span type="ruby"><span type="rb">甲走</span><span type="rp">（</span><span type="rt">かんばし</span><span type="rp">）</span></span>るのです。<lb />
+「えツ、太い<span type="ruby"><span type="rb">阿魔</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>だ、神妙にしろ――死骸の首には、お前の<span type="ruby"><span type="rb">扱帶</span><span type="rp">（</span><span type="rt">しごき</span><span type="rp">）</span></span>が卷き着いてゐるぞ」<lb />
+　それは眞砂町の喜三郎の叱<span facs="../../../gaiji/1-14/1-14-88.png" rend="gaiji" rendition="img" source="※(「口＋它」、第3水準1-14-88)" />の聲でした。<lb />
+「眞砂町の親分が、又拔け驅けだ」<lb />
+　八五郎が大舌打ちを一つ高々と鳴らします。下手人が十の十までお近と見當をつけると、平次が動き出す前に、一と足お先にその手柄をさらつて行くつもりでせう。<lb />
+「あれツ、助けて、――私ぢやないよ、私は何んにも知りやしない。大事の亭主を殺してなるものか」<lb />
+　お近は<span type="ruby"><span type="rb">恥</span><span type="rp">（</span><span type="rt">はぢ</span><span type="rp">）</span></span>も外聞も忘れた姿で辛くも喜三郎の手を<span type="ruby"><span type="rb">免</span><span type="rp">（</span><span type="rt">のが</span><span type="rp">）</span></span>れると、バタバタと椽側を踏み鳴らしながら、平次の<span type="ruby"><span type="rb">羽掻</span><span type="rp">（</span><span type="rt">はがい</span><span type="rp">）</span></span>の下に飛び込むのでした。<lb />
+「錢形の親分、下手人は間違ひなくその女だ。逃がさないやうに頼むぜ」<lb />
+　それに追ひすがる喜三郎は、まさに山を見ざる<span type="ruby"><span type="rb">獵師</span><span type="rp">（</span><span type="rt">れふし</span><span type="rp">）</span></span>です。諸道具を蹴飛ばし、障子をハネ飛ばして、お近の襟髮に無手と手がかゝります。<lb />
+　その時、<span type="ruby"><span type="rb">母屋</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>に何んか用事があつたのか、チヨコチヨコと庭先へ顏を出したのは、小僧の孝吉――といふよりは先代朝井<span type="ruby"><span type="rb">玄策</span><span type="rp">（</span><span type="rt">げんさく</span><span type="rp">）</span></span>の伜で、女隱居お市の子、死んだお直の弟の孝吉でした。<lb />
+「あ、眞砂町の親分、またやつてゐるのか。――氣の毒だが先生を殺した下手人はその女ぢやないよ」<lb />
+　孝吉は後ろ手を腰へためて、高慢な――が滅法可愛らしくさへある顏を擧げて、斯う言ふのです。<lb />
+「何んだと小僧、又餘計な口をきくと、勘辨しねえぞ」<lb />
+　喜三郎は重ね／″＼のことに腹を据ゑ兼ねて、お近を押へたまゝ眼を<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>きます。<lb />
+「餘計な事ぢやないよ。親分につまらない<span type="ruby"><span type="rb">縮尻</span><span type="rp">（</span><span type="rt">しくじり</span><span type="rp">）</span></span>をさせたくはないから言つて上げるんだ」<lb />
+「何んだと」<lb />
+「まア、心持を落着けて聽いておくれよ。眞砂町の親分」<lb />
+「――」<lb />
+「先生の死骸をよく調べて見るが宜い。首にはお近さんの紅い<span type="ruby"><span type="rb">扱帶</span><span type="rp">（</span><span type="rt">しごき</span><span type="rp">）</span></span>か何んか卷いてるけれど、それで殺したのぢやないよ。喉笛には丈夫な細引のあとがあるだらう」<lb />
+「？」<lb />
+「下手人は細引で絞めた後で、お近さんの扱帶を卷き附けたんだ、――そんな事は誰が見たつてわかるが、大の男の喉物が<span type="ruby"><span type="rb">碎</span><span type="rp">（</span><span type="rt">くだ</span><span type="rp">）</span></span>けるほど絞めてゐるんだぜ。こいつはお近さんの細腕では出來ないことだ。先生は若い時<span type="ruby"><span type="rb">柔術</span><span type="rp">（</span><span type="rt">やはら</span><span type="rp">）</span></span>をやつたのが自慢で、喉佛がかなり固くなつてゐた筈だ」<lb />
+「――」<lb />
+「それによ、先生が殺されたのは、<span type="ruby"><span type="rb">戌刻</span><span type="rp">（</span><span type="rt">いつゝ</span><span type="rp">）</span></span>（八時）から<span type="ruby"><span type="rb">戌刻半</span><span type="rp">（</span><span type="rt">いつゝはん</span><span type="rp">）</span></span>（九時）迄の間だ。<span type="ruby"><span type="rb">蝋燭</span><span type="rp">（</span><span type="rt">らふそく</span><span type="rp">）</span></span>の減りやうでもそれくらゐのことはわかるだらう。丁度その時お近さんは離屋へ來て死んだおいらの姉さんの世話をしてゐたんだ」<lb />
+「何んだと？」<lb />
+　それは思ひも寄らぬことでした。お近が離屋の佛――狂死したお直に好意を持つたことは、想像を絶したことだつたのです。<lb />
+「お近さんは變な人さ、<span rend="sesame_dot" rendition="em">おいら</span>は大嫌ひだよ。でも、この間殺された<span type="ruby"><span type="rb">内儀</span><span type="rp">（</span><span type="rt">おかみ</span><span type="rp">）</span></span>の時代さんのやうな惡い人ぢやない。離屋にゐる<span rend="sesame_dot" rendition="em">おいら</span>のお母さんや姉さんが可哀想だからと、時々は<span rend="sesame_dot" rendition="em">うまい</span>物などを持つて來てくれたりしたんだ」<lb />
+「――」<lb />
+　<span type="ruby"><span type="rb">淫奔</span><span type="rp">（</span><span type="rt">いんぽん</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">自墮落</span><span type="rp">（</span><span type="rt">じだらく</span><span type="rp">）</span></span>なお近に、そんな面があらうと誰が氣のつくものでせう。<lb />
+「<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>だつて、先生と喧嘩をした後で、プリプリはして居たけれど、そつと離屋へやつて來て、佛樣の世話をしながら、留守番をしてくれたんだ。この家には誰一人お通夜に來てくれる人もないのに――先生は一人でお酒なんか呑んで居たし、新六どんや和助どんは、玄關の次の間の大火鉢で、何んか燒いてポリポリ喰ひながら、お兼さんと<span type="ruby"><span type="rb">巫山戯</span><span type="rp">（</span><span type="rt">ふざけ</span><span type="rp">）</span></span>てゐるんだ」<lb />
+「――」<lb />
+「その間お近さんだけが、皆んなに<span type="ruby"><span type="rb">内證</span><span type="rp">（</span><span type="rt">ないしよ</span><span type="rp">）</span></span>で離屋へ來て、<span rend="sesame_dot" rendition="em">おいら</span>がお寺へ、お母さんが<span type="ruby"><span type="rb">早桶</span><span type="rp">（</span><span type="rt">はやおけ</span><span type="rp">）</span></span>屋や荒物屋へ線香やお供物を買ひ集めに出かけてゐる間、佛樣の<span type="ruby"><span type="rb">伽</span><span type="rp">（</span><span type="rt">とぎ</span><span type="rp">）</span></span>をしてくれたんだ、――お近さんはさう言ふ人だよ、根が好い人なんだね」<lb />
+　少年孝吉の辯解はあまりにも<span type="ruby"><span type="rb">鮮</span><span type="rp">（</span><span type="rt">あざや</span><span type="rp">）</span></span>かです。お近は喜三郎に襟髮を掴まれながらシクシク泣き出し、肝腎の喜三郎自身も、その明察を<span type="ruby"><span type="rb">覆</span><span type="rp">（</span><span type="rt">くつが</span><span type="rp">）</span></span>へし兼ねて、眼を白黒するばかりでした。<lb />
+「小僧、それは本當か。本當にお近は離屋に行つてゐたのか」<lb />
+「お母さんも知つて居るよ、呼んで來るから訊いて見るが宜い」<lb />
+「待て／＼孝吉」<lb />
+　平次は少しあわて氣味に飛び出さうとする少年を呼び留めました。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi460">四</span></span></span>
+「孝吉の言ふのは皆んな本當だよ。お近には罪はない」<lb />
+　平次は思ひも寄らぬことを言ふのです。<lb />
+「それは本氣で言ふのか、錢形の親分」<lb />
+　喜三郎の手は<span type="ruby"><span type="rb">漸</span><span type="rp">（</span><span type="rt">ようや</span><span type="rp">）</span></span>くお近の襟髮から離れました。<lb />
+「玄龍を殺したのは、新六でも和助でもお兼でもお近でもない」<lb />
+「だが、女や子供ぢやあるめえ。<span type="ruby"><span type="rb">喉佛</span><span type="rp">（</span><span type="rt">のとぼとけ</span><span type="rp">）</span></span>を碎くほどの剛力で締めるのは――」<lb />
+　喜三郎は今頃漸く孝吉の指摘した點に<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>り着きました。だが、平次は頭からそれを否定して行くのです。<lb />
+「いや、下手人は至つて非力な者だよ、――多分女だらう。主人の玄龍が少し自棄氣味で、<span type="ruby"><span type="rb">平常</span><span type="rp">（</span><span type="rt">ふだん</span><span type="rp">）</span></span>たしなまない酒を過ごし、柱に<span type="ruby"><span type="rb">凭</span><span type="rp">（</span><span type="rt">もた</span><span type="rp">）</span></span>れてクラリクラリと居睡りをしてゐたことだらう。その時後ろからそつと近寄つた下手人は、丈夫な細引を用意して、そつと玄龍の首に廻し、柱に卷き附けて後ろから締め上げた。――玄龍は眼を覺ましたが、柱を背負つたまゝ締められては、少しくらゐ腕に覺えがあつても、何うすることも出來ない。――その上、柱と一緒に首を締めた細引のワナに、傍にあつた玄龍の脇差を<span type="ruby"><span type="rb">鞘</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>ごとねぢ込んで締め上げたのだらう。柱と<span type="ruby"><span type="rb">蝋塗鞘</span><span type="rp">（</span><span type="rt">ろふぬりざや</span><span type="rp">）</span></span>に傷の附いたのはそのためだ」<lb />
+「――」<lb />
+　皆んな口を<span type="ruby"><span type="rb">緘</span><span type="rp">（</span><span type="rt">つぐ</span><span type="rp">）</span></span>んでしまひました。それは恐しい想像の飛躍ですが、<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>の樣子や、幾つか揃つて居る證據の手前、最早異論の立てやうはありません。<lb />
+「三人殺しの下手人は女だ。――最初娘のお玉が殺された時、窓の外を綺麗に掃いてあつたが、あの乾いた土の上に、女下駄の足跡があつたに違ひない。一ヶ月も前のことだが、その窓の下を掃いたのは、御隱居のお市さんと、下女のお兼だといふことであつた――お兼を呼んで來るが宜い、八」<lb />
+「へエ」<lb />
+　八五郎はスツ飛んで行きました。<lb />
+「お玉の傷は下から突き上げて、<span type="ruby"><span type="rb">脾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の臟から心の臟を破つたと孝吉が言つた筈だ。窓に<span type="ruby"><span type="rb">凭</span><span type="rp">（</span><span type="rt">もた</span><span type="rp">）</span></span>れて居る娘を、そんな具合に突き上げるには、疊の上に仰向けに轉がるか、窓の外から突く外はない。疊の上に仰向けに轉がつてやれば、全身に返り血を浴びる筈だ、――曲者は間違ひもなく窓の外から突いたのだ」<lb />
+　平次の明察は絲を繰るやうに、<span type="ruby"><span type="rb">紛</span><span type="rp">（</span><span type="rt">まぎ</span><span type="rp">）</span></span>れのない一本途を斯う辿るのです。<lb />
+「親分、あの時窓の外には確かに女下駄らしい足跡があつたさうですよ。朝になつて庭を掃く者がないから、お兼が<span type="ruby"><span type="rb">箒</span><span type="rp">（</span><span type="rt">ほうき</span><span type="rp">）</span></span>を持つて行つた時は、離屋の御隱居がもう半分以上掃いてゐたんですつて――」<lb />
+　八五郎の先走つた報告の後から、下女のお兼も同じことを言つて從いて來るのでした。<lb />
+「お兼、もう一つ訊くが、――内儀の殺された晩、お勝手へ女が入らなかつたか、――内からでも外からでも宜い」<lb />
+　平次の問ひはヒタヒタと<span type="ruby"><span type="rb">核心</span><span type="rp">（</span><span type="rt">かくしん</span><span type="rp">）</span></span>に迫つて行きます。<lb />
+「來ましたよ、さう言へば離屋の御隱居が、――お直が見えなかつたか――つて、あの人は氣が變になつて居るから、時々フラフラと飛び出すんです」<lb />
+「お前が勝手に居る時、御隱居がお勝手口へ顏を出したのか」<lb />
+「いえ、店へ行つて無駄話をして、お勝手へ歸つて來ると、御隱居さんがお勝手でウロウロしてをりました」<lb />
+　お兼の話は恐しい暗示でした。あらゆる機會を狙つて居た眞砂町の喜三郎は、此處まで聽くと、もうソロソロ出動の用意をしてゐるのです。その時不意に、<lb />
+「待つて下さい、眞砂町の親分、――お玉さん始め三人を殺した<span type="ruby"><span type="rb">下手人</span><span type="rp">（</span><span type="rt">げしゆにん</span><span type="rp">）</span></span>は、<span rend="sesame_dot" rendition="em">おいら</span>だよ、――この孝吉だよ」<lb />
+　喜三郎の袖へバツタのやうに飛び付いたのは、新六を救ひ和助を救ひ、そして二度迄もお近を救つた少年孝吉ではありませんか。<lb />
+「何を小僧奴。邪魔だ、退かないか、下手人は女だ。お前なんかの知つたことぢやねえ」<lb />
+　喜三郎はそれを、一ぺんにはね飛ばさうとしましたが、孝吉の腕は、<span type="ruby"><span type="rb">蔓草</span><span type="rp">（</span><span type="rt">つるくさ</span><span type="rp">）</span></span>のやうに<span rend="sesame_dot" rendition="em">からみ</span>ついて、ズルズルと庭の上を引摺られるのです。<lb />
+「いや、<span rend="sesame_dot" rendition="em">おいら</span>だ。三人を殺したのは<span rend="sesame_dot" rendition="em">おいら</span>に違ひない――お玉さんを窓の外から突き上げたのも、徳利へ毒を投り込んだのも、先生の首を柱の後ろから締めたのも」<lb />
+「本當か、野郎」<lb />
+　さすがに喜三郎も迷つた樣子です。<lb />
+「誰が<span type="ruby"><span type="rb">嘘</span><span type="rp">（</span><span type="rt">うそ</span><span type="rp">）</span></span>を言ふものか、さア、縛つてくれ。この孝吉を縛つてくれ」<lb />
+　孝吉は泥と涙に、斑々たる顏を振りあげて、喜三郎の脚に絡みつくのです。<lb />
+「よし／＼、それ程縛られたきや、縛つてやらう」<lb />
+　懷ろから繰り出す捕繩、孝吉の腕に卷きつくのを、後ろからそつと押へたのは女の手でした。<lb />
+「親分、私を縛つて下さい――その子は私を助けたさに、そんな事を言つてるのです。三人を殺したのはこの私の外にあるわけはありません」<lb />
+　喜三郎は驚いて振り向きました。其處には近々と寄る、老女お市の涙に濡れた深刻な顏があつたのです。<lb />
+「何んだと？」<lb />
+　八五郎もツイ<span type="ruby"><span type="rb">草履</span><span type="rp">（</span><span type="rt">ざうり</span><span type="rp">）</span></span>を突つかけて庭に飛び降ります。事件の不思議な展開にも、さして驚く樣子もなく、椽側に片膝立てて見守つて居るのは錢形平次だけでした。<lb />
+<span rend="jisage_9" rendition="div" style="margin-left: 9em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi470">五</span></span></span>
+　お市の顏は恐しい悲歎と、突き詰めた諦らめに、蒼白く引締つてをりましたが、さすがに昔の美しさが匂つて、五十六歳とは思へぬ確かりしたものでした。<lb />
+　木綿物らしい貧しい<span type="ruby"><span type="rb">布子</span><span type="rp">（</span><span type="rt">ぬのこ</span><span type="rp">）</span></span>、油氣のない胡麻鹽の頭、<span type="ruby"><span type="rb">不潔</span><span type="rp">（</span><span type="rt">ふけつ</span><span type="rp">）</span></span>らしさはないにしても、何んといふ凄まじい<span type="ruby"><span type="rb">身扮</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>でせう。品の良さと、人に下らぬ自尊心がなかつたら、それは誰が見ても、名醫朝井玄策の<span type="ruby"><span type="rb">配偶</span><span type="rp">（</span><span type="rt">つれあひ</span><span type="rp">）</span></span>で、流行醫者朝井玄龍の隱居とは受取れない姿です。<lb />
+「娘のお直も昨夜息を引取りました。十三年の長い／＼苦勞、<span type="ruby"><span type="rb">母娘</span><span type="rp">（</span><span type="rt">おやこ</span><span type="rp">）</span></span>二人の艱難もこれでお仕舞ひになつたわけでございます。もう思ひ殘すこともございません。――錢形の親分樣、お直の<span type="ruby"><span type="rb">葬</span><span type="rp">（</span><span type="rt">とむら</span><span type="rp">）</span></span>ひから、孝吉の身の上、御迷惑でも宜しきやうにお指圖願ひます」<lb />
+「――」<lb />
+　<span type="ruby"><span type="rb">滅入</span><span type="rp">（</span><span type="rt">めい</span><span type="rp">）</span></span>るやうな聲でした。お市は平次の方に向つて、庭石の上に膝を折るのです。<lb />
+「玄龍は評判の良い<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はやり</span><span type="rp">）</span></span>醫者ではございましたが、あれは鬼のやうな人間でございます。私の<span type="ruby"><span type="rb">夫</span><span type="rp">（</span><span type="rt">をつと</span><span type="rp">）</span></span><span type="ruby"><span type="rb">玄策</span><span type="rp">（</span><span type="rt">げんさく</span><span type="rp">）</span></span>に取り入り、娘のお直を<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>して養子に入り、夫玄策の死んだ後は、この朝井家の<span type="ruby"><span type="rb">株</span><span type="rp">（</span><span type="rt">かぶ</span><span type="rp">）</span></span>から家から、<span type="ruby"><span type="rb">竈</span><span type="rp">（</span><span type="rt">へつゝひ</span><span type="rp">）</span></span>の下の灰までも自分のものにした上、三年經たないうちに、あの踊り子あがりの<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>といふ女を引き入れ、同じ屋根の下で、人もなげに振舞つたのでございます。――夫玄策が死んだのも、今から考へると酒毒のためとは申しましたが、ツイこの間死んだ、時代と<span rend="sesame_dot" rendition="em">そつくり</span>の死に樣でございました。南蠻物の毒藥を祕藏して居た玄龍が、養父の<span type="ruby"><span type="rb">晩酌</span><span type="rp">（</span><span type="rt">ばんしやく</span><span type="rp">）</span></span>に細工をしなかつたとは、誰が言ひきれるものでせう」<lb />
+「――」<lb />
+「でも、それはもう十何年前のことでございますが、自分の正妻――私の娘のお直を氣違ひにした仕打ちは、どうにも<span type="ruby"><span type="rb">諦</span><span type="rp">（</span><span type="rt">あきら</span><span type="rp">）</span></span>めきれません。私は狂ひ廻る娘を<span type="ruby"><span type="rb">宥</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>めて、土藏の<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>を直し、末の子の孝吉と三人、其處に住むことにいたしました。その暮しの料に、玄龍が出してくれた金はたつた一兩――一ヶ月に一兩ではなく、年に一兩でございます。近頃は私の物も娘の物も大分賣り盡して、明日の米にも困つてをります。――食事に不足があるなら、お勝手へ貰ひに來いと申します。私共三人は犬か猫のやうに、玄龍夫婦や奉公人の食ひ荒した殘り物で、細々と命を<span type="ruby"><span type="rb">繋</span><span type="rp">（</span><span type="rt">つな</span><span type="rp">）</span></span>ぐ外はございませんでした」<lb />
+「――」<lb />
+　老女の涙は、<span type="ruby"><span type="rb">痩</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>せた頬を洗つて、乾ききつた大地を濡らしました。<lb />
+「その上この子――朝井家の一粒種の男の子孝吉は、<span type="ruby"><span type="rb">雇</span><span type="rp">（</span><span type="rt">やとひ</span><span type="rp">）</span></span>人よりもひどい目に逢ひ、朝から晩まで追ひ廻されて、一文の手當ても貰つてはをりません」<lb />
+「――」<lb />
+「それを見せつけられてゐる母の私が、<span type="ruby"><span type="rb">餓死</span><span type="rp">（</span><span type="rt">がし</span><span type="rp">）</span></span>する迄も默つて居なければならなかつたでせうか、――玄龍の娘で、この朝井家を横取りしようとしてゐる不義の子のお玉、私の娘のお直を狂ひ死にさせるほどの目に逢はせた時代、それに夫の敵の玄龍を、この私の手で殺したのは無理でせうか。――さア、お繩を、――眞砂町の親分、私を縛つて下さい。さア」<lb />
+　お市は大地に膝を突いたまゝ、喜三郎の足許に<span type="ruby"><span type="rb">摺</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>り寄るのです。<lb />
+「待つた、<span type="ruby"><span type="rb">眞砂</span><span type="rp">（</span><span type="rt">まさご</span><span type="rp">）</span></span>町の」<lb />
+　平次は椽側の上から聲を掛けました。<lb />
+「何んだえ、錢形の親分」<lb />
+「縛つちやいけない、皆んな間違ひだらけだ」<lb />
+「？」<lb />
+「三人を殺したのは、孝吉でもなきや、その御隱居でもないよ」<lb />
+　平次の言葉は、あまりにも意外でした。<lb />
+「誰だえ、外に三人を殺しさうなのは居ないぢやないか」<lb />
+「俺もそれで迷つてゐたんだ、――が、<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さつき</span><span type="rp">）</span></span>お兼の言つたことで、<span type="ruby"><span type="rb">漸</span><span type="rp">（</span><span type="rt">ようや</span><span type="rp">）</span></span>くわかつたやうな氣がするよ」<lb />
+「お兼の言つたこと？」<lb />
+「死んだお直さんは、時々フラフラ歩くと言つた、――この<span type="ruby"><span type="rb">母家</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>へも何にかに引かされるやうに、フラフラと入つて來たに違ひない。御隱居がそれを心配して、御内儀の殺された晩も、この母家のお勝手口へ搜しに來た筈だ」<lb />
+「？」<lb />
+「お直さんは氣狂ひの一心で、脇差を持ち出して、窓の外からお玉を突いたに相違あるまい、――翌る朝、乾いた土の上に女の足跡らしいのを見付けて、御隱居はびつくりしてそれを掃いたのだ。自分の足跡なら、夜のうちに始末をするし、朝になつてやるにしても、お兼などに見付けられる前に掃く筈だ」<lb />
+「？」<lb />
+　女隱居のお市は顏を擧げました。感謝とも疑惑とも、不滿とも、言ひやうのない表情です。<lb />
+「毒藥のことも、先の内儀のお直さんが一番よく知つてゐたことだらう。お近の紙入を拾つてその中から毒藥を取り出し、あの晩そつとお勝手に忍び込んで、時代の<span type="ruby"><span type="rb">晩酌</span><span type="rp">（</span><span type="rt">ばんしやく</span><span type="rp">）</span></span>の徳利に投り込んだに違ひあるまい。それと行き違ひに御隱居がお勝手へ搜しに來たのだらう」<lb />
+「――」<lb />
+　喜三郎と八五郎の顏には、妙に割りきれない不滿がありました。<lb />
+「氣違ひがそんな行屆いたことをする筈はないと思ふだらうが、氣違ひだからこそ、そんな細かいことが、何んの怖れもなく出來たのだ――死ぬほどの<span type="ruby"><span type="rb">嫉妬</span><span type="rp">（</span><span type="rt">やきもち</span><span type="rp">）</span></span>で、氣が變になり、十年も人を怨み續けてゐる女が、どんな大膽不敵なことをするか、こいつは男にはわからない事だが、大方の見當はつくだらう」<lb />
+　それは正にその通りでした。ヒステリーのひどい女の洞察力と、大膽さと、その細心の計畫力は、此處に改めて證明する迄もないことです。<lb />
+「だが、――主人の玄龍を殺したのは誰だ。あの時刻には離屋の病人はもう死んでゐたんだぜ」<lb />
+　喜三郎は突如として、最後のそして一番重大な疑ひを投げかけたのです。<lb />
+「それは尤もだ――が、幽靈だつて人を殺すよ。――それほど思ひ詰めた<span type="ruby"><span type="rb">怨</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>みだ。一番の目當ての玄龍、自分達を死ぬほどの目に逢はせた薄情男を許して置くものか」<lb />
+「幽靈、かい、錢形の？」<lb />
+「俺はさう思ふよ。嘘だと思つたら死體を縛つてお白洲へ据ゑて見るか、――いや、それより<span type="ruby"><span type="rb">檀那</span><span type="rp">（</span><span type="rt">だんな</span><span type="rp">）</span></span>寺の和尚に訊いて見るが宜い、丁度<span type="ruby"><span type="rb">離室</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>でお經を上げてゐる樣子だ」<lb />
+「――」<lb />
+　驚き呆れる喜三郎や、涙にくるゝお市母子を殘して、錢形平次はサツサと引揚げて行くのです。<lb />
+「親分、親分たら。それで宜いんですか、親分」<lb />
+　それを追つて八五郎、長んがい<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>が、<span type="ruby"><span type="rb">空樣</span><span type="rp">（</span><span type="rt">そらざま</span><span type="rp">）</span></span>に春の風をかきわけます。<lb />
+　　　　　　　　×　　　　　　×　　　　　　×<lb />
+「親分、あの朝井玄龍一家の三人殺しは、本當に先妻のお直の仕業ですか」<lb />
+　事件が落着して、女隱居のお市とその子の孝吉は朝井家の<span type="ruby"><span type="rb">母家</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>に入り、代診も下女も<span type="ruby"><span type="rb">悉</span><span type="rp">（</span><span type="rt">こと／″＼</span><span type="rp">）</span></span>く入れ換へて、やれこれで安心となつた時、それまで世話をして運んだ平次に、八五郎はまだ胸の中にモヤモヤと殘る疑問をブチまけたのでした。<lb />
+「多分さうだらうよ。お直でなきや母親のお市だが、お市は悧巧な女だから、そんな事はしなかつたらう」<lb />
+「孝吉は？」<lb />
+「あれは賢い小僧だよ。でもまだ分別が足りないから、自分の姉や母親に<span type="ruby"><span type="rb">疑</span><span type="rp">（</span><span type="rt">うたが</span><span type="rp">）</span></span>ひがかゝるとも知らず、新六や和助やお近を助けてやつたのだ。尤も<span type="ruby"><span type="rb">時代</span><span type="rp">（</span><span type="rt">ときよ</span><span type="rp">）</span></span>を殺したのは、玄龍の仕業だと思つた樣子だ。和助やお近を助けてやれば、自然疑ひは玄龍の方へ向くと思つたのだが、それは大變な見當違ひだつた」<lb />
+　平次は事件を振り返つて見て、細々と<span type="ruby"><span type="rb">反芻</span><span type="rp">（</span><span type="rt">はんすう</span><span type="rp">）</span></span>するのです。<lb />
+「その玄龍を殺したのは、本當に幽靈で？」<lb />
+「馬鹿だなア」<lb />
+「でも親分はさう言つたぢやありませんか」<lb />
+「あの晩のことをもう一度思ひ出して見るが宜い。お直が死んだのは<span type="ruby"><span type="rb">酉刻半</span><span type="rp">（</span><span type="rt">むつはん</span><span type="rp">）</span></span>（七時）頃で、お近が行つて佛樣の<span type="ruby"><span type="rb">伽</span><span type="rp">（</span><span type="rt">とぎ</span><span type="rp">）</span></span>をしたのは<span type="ruby"><span type="rb">戌刻</span><span type="rp">（</span><span type="rt">いつゝ</span><span type="rp">）</span></span>（八時）から<span type="ruby"><span type="rb">亥刻</span><span type="rp">（</span><span type="rt">よつ</span><span type="rp">）</span></span>（十時）迄の間だ。――その間に孝吉と母親のお市は、お寺や<span type="ruby"><span type="rb">早桶</span><span type="rp">（</span><span type="rt">はやをけ</span><span type="rp">）</span></span>屋へ行つて居るし、供物も買つて來て居る」<lb />
+「へエ」<lb />
+「娘お直が怨みを呑んで死んだ――母親はその後で、誰も世話をする者もなく、娘の<span type="ruby"><span type="rb">葬</span><span type="rp">（</span><span type="rt">とむら</span><span type="rp">）</span></span>ひの支度に、涙を流しながら夜の街を飛んで歩いて居る、五十六の年寄りだよ――」<lb />
+「――」<lb />
+「その隱居が、何にか――燭臺か<span type="ruby"><span type="rb">香爐</span><span type="rp">（</span><span type="rt">かうろ</span><span type="rp">）</span></span>か知らないが、そんなものを借りに<span type="ruby"><span type="rb">母屋</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>へ入つて行つたとする、フト奧の部屋で、憎い養子の玄龍が、酒に醉つて柱に凭れて居眠りしてゐるのを見たとしたらどんなものだ」<lb />
+「？」<lb />
+　八五郎の鼻の下は長くなります。<lb />
+「お市は年は取つて居るが悧巧で勝氣な女だ。フトそれを見ると、あんなにこの男を怨んで、十年氣違ひにされた上、たつた今死んだ娘のことを思ひ出して、フラフラと――」<lb />
+「もう宜い、親分、解つた。幽靈が朝井玄龍といふ、薄情な<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>り醫者を殺したに相違ありません」<lb />
+　いきなり立ち上がつた八五郎は兩手を胸のあたりに泳がせて、『怨めしや』の型をして見るのでした。<lb />
+「よし／＼、其處までわかれば結構だ。が、<span type="ruby"><span type="rb">滅多</span><span type="rp">（</span><span type="rt">めつた</span><span type="rp">）</span></span>な口をきくなよ、――あの女隱居はすつかり元氣を取り戻して、孝吉を一人前の醫者に仕立てることばかり樂しみにしてゐる樣子だ。先々代の朝井玄策も、良い跡取りが出來るだらう」<lb />
+　平次はさう言つて、例の貧しい煙草盆を引寄せるのです。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

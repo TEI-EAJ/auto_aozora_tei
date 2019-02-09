@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>半七捕物帳</title>
+        <author>岡本綺堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="1999-05-25">作成</resp><resp /><note>
+<lb />
+底本：「時代推理小説　半七捕物帳（一）」光文社文庫、光文社<lb />
+　　　1985（昭和60）年11月20日初版1刷発行<lb />
+入力：tat_suki<lb />
+校正：湯地光弘<lb />
+<date when="1999-05-25">1999年5月25日</date>公開<lb />
+<date when="2012-06-11">2012年6月11日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>tat_suki</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>湯地光弘</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>半七捕物帳</title><author>岡本綺堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+　二月以来、わたしは自分の仕事が忙がしいので、半七老人の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ小半年も無沙汰をしてしまった。なんだか気になるので、五月の末に無沙汰の詫びながら手紙を出すと、すぐその返事が来て、来月は<span type="ruby"><span type="rb">氷川</span><span type="rp">（</span><span type="rt">ひかわ</span><span type="rp">）</span></span>様のお祭りで<span type="ruby"><span type="rb">強飯</span><span type="rp">（</span><span type="rt">こわめし</span><span type="rp">）</span></span>でも炊くから遊びに来てくれとのことであった。わたしも急に老人に逢いたくなって、そのお祭りの日に赤坂に出て行くと、途中から霧のような雨が降って来た。<lb />
+「あいにく少し降って来ました」<lb />
+「<span type="ruby"><span type="rb">梅雨</span><span type="rp">（</span><span type="rt">つゆ</span><span type="rp">）</span></span>前ですからね」と、半七老人は<span type="ruby"><span type="rb">欝陶</span><span type="rp">（</span><span type="rt">うっとう</span><span type="rp">）</span></span>しそうに空を見あげた。「今年は本祭りだというのに、困ったもんです。だがまあ、大したことはありますまいよ」<lb />
+　約束の通りに強飯やお<span type="ruby"><span type="rb">煮染</span><span type="rp">（</span><span type="rt">にし</span><span type="rp">）</span></span>めの御馳走が出た。酒も出た。わたしは遠慮なしに飲んで食って、踊りの<span type="ruby"><span type="rb">家台</span><span type="rp">（</span><span type="rt">やたい</span><span type="rp">）</span></span>の噂などをしていたが、雨はだんだん強くなるばかりで、家の<span type="ruby"><span type="rb">老婢</span><span type="rp">（</span><span type="rt">ばあや</span><span type="rp">）</span></span>があわてて軒提灯や飾り花を引っ込めるようになって来た。町内の家台囃子の音も沈んできこえた。<lb />
+「こりゃあいけない、とうとう本降りになって来た。これじゃあ踊り家台を見にも出られまい。まあ今夜はゆっくりお話しなさい。何かまた昔話でもしようじゃあありませんか」と、老人は食い荒しの皿小鉢を老婢に片付けさせながら云った。<lb />
+　踊り家台の見物よりも、強飯の御馳走よりも、わたしに取ってはそれが何よりも嬉しいので、すぐにその尾について又いつもの話をしてくれと甘えるように<span type="ruby"><span type="rb">強請</span><span type="rp">（</span><span type="rt">せが</span><span type="rp">）</span></span>むと、また手柄話ですかと老人はにやにや笑っていたが、とうとう私に口説き落されて、やがてこんなことを云い出した。<lb />
+「あなたは蛇や<span type="ruby"><span type="rb">蝮</span><span type="rp">（</span><span type="rt">まむし</span><span type="rp">）</span></span>は嫌いですか。いや、誰も好きな者はありますまいが、蛇と聞くとすぐに顔の色を変えるような人もありますからね。それほど嫌いでなけりゃあ、今夜は蛇の話をしましょうよ。あれはたしか安政の大地震の前の年でした」<lb />
+<lb />
+　七月十日は浅草観音の四万六千<span type="ruby"><span type="rb">日</span><span type="rp">（</span><span type="rt">にち</span><span type="rp">）</span></span>で、半七は朝のうす暗いうちに参詣に行った。五重の塔は<span type="ruby"><span type="rb">湿</span><span type="rp">（</span><span type="rt">しめ</span><span type="rp">）</span></span>っぽい暁の<span type="ruby"><span type="rb">靄</span><span type="rp">（</span><span type="rt">もや</span><span type="rp">）</span></span>につつまれて、鳩の群れもまだ豆を拾いには降りて来なかった。朝まいりの人も少なかった。半七はゆっくり拝んで帰った。<lb />
+　その帰り<span type="ruby"><span type="rb">途</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>に下谷の<span type="ruby"><span type="rb">御成道</span><span type="rp">（</span><span type="rt">おなりみち</span><span type="rp">）</span></span>へさしかかると、刀屋の横町に七、八人の男が仔細らしく立っていた。半七も商売柄で、ふと立ちどまってその横町をのぞくと、<span type="ruby"><span type="rb">弁慶縞</span><span type="rp">（</span><span type="rt">べんけいじま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">浴衣</span><span type="rp">（</span><span type="rt">ゆかた</span><span type="rp">）</span></span>を着た小作りの男がその群れをはなれて、ばたばた駈けて来た。<lb />
+「親分、どこへ」<lb />
+「観音様へ朝参りに行った」<lb />
+「ちょうど好いとこでした。今ここに変なことが持ち上がってね」<lb />
+　男は顔をしかめて小声で云った。かれは<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>っ<span type="ruby"><span type="rb">引</span><span type="rp">（</span><span type="rt">ぴき</span><span type="rp">）</span></span>の源次という桶職であった。<lb />
+「この下っ引というのは、今でいう諜者のようなものです」と半七老人はここで註を入れてくれた。「つまり手先の下をはたらく人間で、表向きは魚やとか桶職とか、何かしら商売をもっていて、その商売のあいまに何か種をあげて来るんです。これは蔭の人間ですから決して捕物などには出ません。どこまでも<span type="ruby"><span type="rb">堅気</span><span type="rp">（</span><span type="rt">かたぎ</span><span type="rp">）</span></span>のつもりで澄ましているんです。岡っ引の下には手先がいる。手先の下には下っ引がいる。それがおたがいに糸を引いて、巧くやって行くことになっているんです。それでなけりゃあ罪人はなかなかあがりませんよ」<lb />
+　源次はこの近所に長く住んでいて、下っ引の仲間でも<span rend="sesame_dot" rendition="em">眼はし</span>の利く方であった。それが変な事をいうので、半七も少しまじめになった。<lb />
+「何だ。なにがあった」<lb />
+「人が死んだんです。お化け師匠が死んだんです」<lb />
+　お化け師匠――こういう奇怪な<span type="ruby"><span type="rb">綽名</span><span type="rp">（</span><span type="rt">あだな</span><span type="rp">）</span></span>を取った本人は、水木<span type="ruby"><span type="rb">歌女寿</span><span type="rp">（</span><span type="rt">かめじゅ</span><span type="rp">）</span></span>と呼ばれる踊りの師匠であった。歌女寿は自分の姪を幼いときから娘分に貰って、これに芸をみっちり仕込んで、歌女代と名乗らせて自分のあとを<span type="ruby"><span type="rb">嗣</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>がせるつもりであったが、その歌女代は去年の秋に十八歳で死んだ。お化け師匠の綽名はそれから産み出されたのであった。<lb />
+　歌女寿は今年四十八だというが、年に比べると水々しい<span type="ruby"><span type="rb">垢</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>ぬけのした女であった。商売柄で若い時には随分浮いた噂もきこえたが、この十年以来は慾一方に凝り固まっているとかいうので、近所の評判はあまり好くなかった。姪を娘分に貰ったのも、ゆくゆく自分の食い物にしようというしたごころから出たのである。<span type="ruby"><span type="rb">傍</span><span type="rp">（</span><span type="rt">はた</span><span type="rp">）</span></span>から見るとむごたらしいほどに手厳しく仕込んだ。そういう風に、ちいさいときから余り<span type="ruby"><span type="rb">邪慳</span><span type="rp">（</span><span type="rt">じゃけん</span><span type="rp">）</span></span>に責められたせいか、歌女代はどうも病身であったが、仕込みが厳しいだけに芸はよく出来た。<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>も好かった。十六の年から母の代稽古として弟子たちを教えていたが、容貌の好いのが<span type="ruby"><span type="rb">唯一</span><span type="rp">（</span><span type="rt">ゆいいち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">囮</span><span type="rp">（</span><span type="rt">おとり</span><span type="rp">）</span></span>になって、男弟子もだいぶ入り込むようになった。したがって歌女寿のふところ都合もだんだん好くなって来たが、慾の深い彼女はお定まりの月並や<span type="ruby"><span type="rb">炭銭</span><span type="rp">（</span><span type="rt">すみせん</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">畳銭</span><span type="rp">（</span><span type="rt">たたみせん</span><span type="rp">）</span></span>ぐらいでなかなか満足していられる女ではなかった。彼女はこの若い美しい<span type="ruby"><span type="rb">餌</span><span type="rp">（</span><span type="rt">えさ</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">巨大</span><span type="rp">（</span><span type="rt">おおき</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">魚</span><span type="rp">（</span><span type="rt">さかな</span><span type="rp">）</span></span>を釣り寄せようと<span type="ruby"><span type="rb">巧</span><span type="rp">（</span><span type="rt">たく</span><span type="rp">）</span></span>らんでいた。<lb />
+　その魚は去年の春の潮に乗って寄って来た。それは中国辺の或大名屋敷の留守居役で、歌女代をぜひ自分の持ち物にしたいという註文であった。跡取りの娘であるからそちらへ差し上げるわけには行かないと、歌女寿はわざと焦らすように一旦ことわると、相手はいよいよ乗り出して来て、いわゆる囲い者として毎月相当の手当てをやる。まだそのほかに話がまとまり次第、一種の支度金のような意味で<span type="ruby"><span type="rb">当金</span><span type="rp">（</span><span type="rt">とうきん</span><span type="rp">）</span></span>百両出そうという条件まで付けて来た。金百両――この時代においては莫大の金であるから、歌女寿も二つ返事で承知した。これでお前もわたしも浮かみ上がれると、彼女は顔をくずして歌女代にささやいた。<lb />
+「<span type="ruby"><span type="rb">阿母</span><span type="rp">（</span><span type="rt">おっか</span><span type="rp">）</span></span>さん、こればかりは堪忍してください」と、歌女代は泣いてことわった。何をいうにも自分は身体が<span type="ruby"><span type="rb">虚弱</span><span type="rp">（</span><span type="rt">ひよわ</span><span type="rp">）</span></span>い。大勢の弟子を取って毎日毎晩踊りつづけているのさえも、この頃では堪えられない位であるのに、その上に旦那取りなどさせられては、とても我慢も辛抱も出来ない。そんな卑しい辛い思いをしないでも、別に<span type="ruby"><span type="rb">生活</span><span type="rp">（</span><span type="rt">くらし</span><span type="rp">）</span></span>に困るというわけでもない。自分は倒れるまで働いて、きっと阿母さんに不自由はさせまい。囲い者の相談だけはどうぞ断わってくれと、彼女は母にすがって頼んだ。勿論、この訴えを素直に受けるような歌女寿ではなかったが、平生はおとなしい歌女代もこの問題については飽くまで強情を張って、<span type="ruby"><span type="rb">嚇</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>しても<span type="ruby"><span type="rb">賺</span><span type="rp">（</span><span type="rt">すか</span><span type="rp">）</span></span>してもどうしても得心しないので、歌女寿も持て余して唯<span type="ruby"><span type="rb">苛々</span><span type="rp">（</span><span type="rt">いらいら</span><span type="rp">）</span></span>しているうちに、その夏の梅雨の頃から歌女代の健康は衰えて、もはや毎日の稽古にも堪えられないで、三日に一度ぐらいは枕に親しむようになった。こっちの返事がいつまでも渋っているので、旦那の方でもさすがに根負けがしたらしく、いつとは無しにその相談も立ち消えになった。巨大な魚は逃げてしまった。<lb />
+　歌女寿は歯ぎしりをして口惜しがった。折角の旦那を取り逃がしたのも、歌女代のわがまま強情からであると、歌女寿は無暗にかれを憎んだ。倒れるまで働くと云った歌女代の<span type="ruby"><span type="rb">言質</span><span type="rp">（</span><span type="rt">ことばじち</span><span type="rp">）</span></span>を取って、決してべんべんと寝そべっていることはならない、<span type="ruby"><span type="rb">仆</span><span type="rp">（</span><span type="rt">たお</span><span type="rp">）</span></span>れるまで働いてくれと、真っ蒼な顔をして寝ている歌女代を無理に引き摺り起して、朝から晩まで弟子たちの稽古をつづけさせた。勿論、医師にも診せてやろうともしなかった。お仲という若い地弾きが歌女代に同情して、そっと買薬などしてやっていたが、その年の土用の激しい暑気がいよいよ歌女代の弱った身体をしいたげて、彼女はもう骸骨のように痩せ衰えてしまった。それでも歌女寿は意地悪く稽古を休ませなかったので、彼女は殆ど半死半生のおぼつかない足もとで稽古台の上に毎日立ちつづけていた、お仲も<span type="ruby"><span type="rb">肚</span><span type="rp">（</span><span type="rt">はら</span><span type="rp">）</span></span>の仲ではらはらしていたが、<span type="ruby"><span type="rb">大</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>師匠の怖い目に睨まれて、彼女はどうすることも出来なかった。<lb />
+　もう二、三日で盆休みが来るという七月九日の午すぎに、歌女代はとうとう精も根も尽きはてて、<span type="ruby"><span type="rb">山姥</span><span type="rp">（</span><span type="rt">やまんば</span><span type="rp">）</span></span>を踊りながら舞台の上にがっくり倒れた。邪慳な養母にさいなまれつづけて、若い美しい師匠は十八の初秋にこの世と別れを告げた。<lb />
+　その<span type="ruby"><span type="rb">新盆</span><span type="rp">（</span><span type="rt">にいぼん</span><span type="rp">）</span></span>のゆうべには、白い切子燈籠の長い尾が、吹くともない冷たい風にゆらゆらとなびいて、この薄暗い灯のかげに若い師匠のしょんぼりと迷っている姿を、お仲はまざまざと見たと近所のものに<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>えながらささやいた。噂はそれからそれへと伝えられて、ふだんから歌女寿を快く思っていない人達は、更に尾鰭を添えていろいろのことを云い出した。歌女寿の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>では夜がふけると、暗い稽古舞台の上で誰ともなしにとんとん足拍子を踏む音が微かに聞えるという薄気味の悪い噂が立った。歌女寿の家へは幽霊が出るということに決まってしまった。お化け師匠のおそろしい名が町内にひろまって、弟子たちもだんだんに寄り付かなくなった。お仲も暇を取って立ち去った。<lb />
+　そのお化け師匠が今死んだのである。<lb />
+「どうして死んだ。あいつのこったから、悪いものでも食って<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あた</span><span type="rp">）</span></span>ったのか」と、半七は<span type="ruby"><span type="rb">嘲</span><span type="rp">（</span><span type="rt">あざけ</span><span type="rp">）</span></span>るようにささやいた。<lb />
+「どうして、そんなんじゃありません」と、源次は少しおびえたように眼を据えてささやいた。<lb />
+「お化け師匠は蛇に巻き殺されたんで……」<lb />
+「蛇に巻き殺された」と半七も驚かされた。<lb />
+「女中のお村というのが<span type="ruby"><span type="rb">今朝</span><span type="rp">（</span><span type="rt">けさ</span><span type="rp">）</span></span>になって見つけ出したんですが、師匠は黒い蛇に頸を絞められて<span type="ruby"><span type="rb">蚊帳</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>のなかに死んでいたんです。不思議じゃありませんか。人の執念はおそろしいもんだと、近所の者もみんなふるえていますよ」<lb />
+　源次も薄気味悪そうに云った。悲惨な死を遂げた歌女代の魂が黒い蛇に乗り<span type="ruby"><span type="rb">憑</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>って邪慳な養母を絞め殺したのかと思われて、半七も<span rend="sesame_dot" rendition="em">ぞっ</span>とした。お化け師匠が蛇に巻き殺された――どう考えてもそれは戦慄すべき出来事であった。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+「まあ、なにしろ行ってみようじゃあねえか」<lb />
+　半七は先に立って横町へはいると、源次もなんだか落ち着かないような顔をして後から付いて来た。歌女寿の家の前にはだんだんに人立ちが多くなっていた。<lb />
+「ちょうど若い師匠の一周忌ですからね」<lb />
+「きっとこんなことになるだろうと思っていましたよ。恐ろしいもんですね」<lb />
+　どの人も恐怖に満ちたような眼をかがやかして、ひそひそと囁き合っていた。そのなかを掻き分けて、半七は源次と裏口から師匠の家へはいると、雨戸もまだすっかり明け放してないので、家のなかは薄暗かった。<span type="ruby"><span type="rb">蚊帳</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>もそのままに吊ってあって、次の間の四畳半には<span type="ruby"><span type="rb">家主</span><span type="rp">（</span><span type="rt">いえぬし</span><span type="rp">）</span></span>と下女のお村が息を<span type="ruby"><span type="rb">嚥</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>むように黙って坐っていた。半七は家主の顔を見識っているので、すぐに声をかけた。<lb />
+「お家主さん。どうも飛んだことが出来ましたね」<lb />
+「ああ、神田の親分でしたか。<span type="ruby"><span type="rb">店中</span><span type="rp">（</span><span type="rt">たなうち</span><span type="rp">）</span></span>に飛んでもないことが<span type="ruby"><span type="rb">出来</span><span type="rp">（</span><span type="rt">しゅったい</span><span type="rp">）</span></span>しまして……。番太郎に云い付けて早速お届けはして置きましたが、まだ御検視が下りないので、うっかり手を着けることもできません。近所ではいろいろのことを云っているようですが、死に様もあろうに、蛇に巻き殺されたなんて一体どうしたもんでしょうか。なにしろ困ったことが出来ましたよ」と、家主もその処置に困っているらしかった。<lb />
+「ここらはふだんから蛇の出るところですか」と、半七は訊いた。<lb />
+「御承知の通り、こんなに人家が建て込んでいるところですから、蛇も蛙も滅多に出るようなことはありません。おまけにここの家は庭といったところで四坪ばかりで、蛇なんぞ<span type="ruby"><span type="rb">棲</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>んでいそうな筈はありませんし、どこから這入って来たのか一向判りません。それですから近所でまあ、いろいろのことを云うんですが……」と、家主の胸にも歌女代の亡霊を描いているらしかった。<lb />
+「蚊帳のなかを見ても宜しゅうございますか」<lb />
+「どうぞお<span type="ruby"><span type="rb">検</span><span type="rp">（</span><span type="rt">あらた</span><span type="rp">）</span></span>めください」<lb />
+　半七の身分を知っている家主は異議なく承知した。半七は起って次の間へゆくと、ここは横六畳で、隅の壁添いに三尺の<span type="ruby"><span type="rb">置床</span><span type="rp">（</span><span type="rt">おきとこ</span><span type="rp">）</span></span>があって、<span type="ruby"><span type="rb">帝釈</span><span type="rp">（</span><span type="rt">たいしゃく</span><span type="rp">）</span></span>様の古びた軸がかかっていた。蚊帳は六畳いっぱいに吊られていて、きのう今日はまだ残暑が強いせいであろう。歌女寿は蒲団の上に<span type="ruby"><span type="rb">寝蓙</span><span type="rp">（</span><span type="rt">ねござ</span><span type="rp">）</span></span>を敷いて、うすい<span type="ruby"><span type="rb">掻巻</span><span type="rp">（</span><span type="rt">かいまき</span><span type="rp">）</span></span>は裾の方に押しやられてあった。南向きに寝ている彼女は枕を横にはずして、蒲団から少し乗り出したようになって仰向けに横たわっていたが、その結び髪は掻きむしられたようにおどろに乱れて、額をしかめて、唇をゆがめて、白ちゃけた舌を吐いて、最期の苦悶の痕がその死に顔にありありと刻まれていた。<span type="ruby"><span type="rb">寝衣</span><span type="rp">（</span><span type="rt">ねまき</span><span type="rp">）</span></span>は半分引きめくったように、肩から胸のあたりまで<span type="ruby"><span type="rb">露出</span><span type="rp">（</span><span type="rt">あらわ</span><span type="rp">）</span></span>になって、男かと思われるような小さい乳房が薄赤く見えた。<lb />
+「蛇はどうしました」と、源次もあとから来てそっと覗いた。<lb />
+　半七は蚊帳をまくってはいった。<lb />
+「薄暗くっていけねえ。庭の雨戸を一枚あけてくれ」と、半七は云った。<lb />
+　源次が起って南向きの雨戸をあけると、もう六ツ（午前六時）すぎの朝の光りは、庭から一度にさっと流れ込んで、まだ新しい蚊帳の波をまっさおに照らした、死んだ女の顔はいよいよ蒼く映って物凄くみえた。その蒼ざめた<span type="ruby"><span type="rb">腮</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>の下に黒くなめらかに光る<span type="ruby"><span type="rb">鱗</span><span type="rp">（</span><span type="rt">うろこ</span><span type="rp">）</span></span>のようなものが見えたので、蚊帳の外から気味悪そうに覗いていた源次は、思わず顔をあとへ引いた。<lb />
+　半七は少しかがんでよく視ると、黒い蛇は余り大きくなかった。ようよう一尺ぐらいのものらしく、その尾は女の頸筋にゆるく巻きついて、その<span type="ruby"><span type="rb">扁平</span><span type="rp">（</span><span type="rt">ひらた</span><span type="rp">）</span></span>い首は蒲団の上に死んだようにぐたりと垂れていた。生きているのかしらと、半七は指のさきで軽くその頭を<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">はじ</span><span type="rp">）</span></span>いてみると、蛇は<span rend="sesame_dot" rendition="em">ぬう</span>と鎌首を長くあげた。それを見て少しかんがえていた半七は、ふところから鼻紙の畳んだのを出して、その頭を又軽く押えると、蛇は物に恐れるように首をすくませて、蒲団の上へおとなしく首を垂れてしまった。<lb />
+　蚊帳をぬけ出して来て、半七は縁先の手水鉢で手を洗って、もとの四畳半へ戻った。<lb />
+「判りましたか」と、家主は待ち兼ねたように訊いた。<lb />
+「さあ、まだ何とも申されませんね。いずれ御検視が見えたらば又お係りのお考えもありましょう。わたくしは一と先ずこれでお<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>をいたします」<lb />
+　取り留めた返事を受け取らないで少し失望したらしい家主の顔をあとに残して、半七は早々にここを出ると、源次もつづいて表へ出た。<lb />
+「親分。どうでした」<lb />
+「あの女中はまだ若いようだな。十七八か」と、半七はだしぬけに訊いた。<lb />
+「十七だということです。だが、あいつが<span type="ruby"><span type="rb">真逆</span><span type="rp">（</span><span type="rt">まさか</span><span type="rp">）</span></span>やったんじゃあありますまい」<lb />
+「むむ」と、半七は考えていた。「だが、なんとも云えねえ。おめえだから云って聞かせるが、師匠は蛇が殺したんじゃあねえ。人間が絞め殺して置いて、あとから蛇を巻きつけたに相違ねえ。お前もそのつもりで、あの女中は勿論のこと、ほかの出入りの者にもよく気をつけろ」<lb />
+「じゃあ、死んだ者の執念じゃありませんかね」と、源次はまだ疑うような眼をしていた。<lb />
+「死んだ者の執念もかかっているか知れねえが、生きた者の執念もかかっているに相違ねえ。おれはこれからちっと心当りを突いて来るから、おめえも如才なくやってくれ。そこで、どうだろう。あの師匠はちっとは金を持っていたらしいか」<lb />
+「あの慾張りですからね。小金を溜めていたでしょうよ」<lb />
+「<span type="ruby"><span type="rb">情夫</span><span type="rp">（</span><span type="rt">おとこ</span><span type="rp">）</span></span>でもあった様子はねえか」<lb />
+「この頃は慾一方のようでしたね」<lb />
+「そうか。じゃあ、なにしろ頼むよ」<lb />
+　云いかけてふと見かえると、家の前に立ってこわごわと覗いている大勢の群れから少し離れて、一人の若い男がこっちの話に聴き耳を立てているらしく、時々に<span type="ruby"><span type="rb">偸</span><span type="rp">（</span><span type="rt">ぬす</span><span type="rp">）</span></span>むような眼をして二人の顔色を窺っているのが半七の眼についた。<lb />
+「おい、あの男はなんだ。おめえ知らねえか」と、半七は小声で源次に訊いた。<lb />
+「あれは町内の<span type="ruby"><span type="rb">経師職</span><span type="rp">（</span><span type="rt">きょうじや</span><span type="rp">）</span></span>の伜で、弥三郎というんです」<lb />
+「師匠の家へ出這入りすることはねえか」<lb />
+「去年までは毎晩稽古に行っていたんですが、若い師匠が死んでからちっとも足踏みをしねえようです。あいつばかりじゃあねえ。若い師匠がいなくなってから、大抵の男の弟子はみんな散ってしまったようですよ。現金なもんですね」<lb />
+「師匠の寺はどこだ」<lb />
+「広徳寺前の妙信寺です。去年の<span type="ruby"><span type="rb">送葬</span><span type="rp">（</span><span type="rt">とむれえ</span><span type="rp">）</span></span>のときに私も町内の附き合いで行ってやったから、よく知っています」<lb />
+「むむ、妙信寺か」<lb />
+　源次に別れて、半七は<span type="ruby"><span type="rb">御成道</span><span type="rp">（</span><span type="rt">おなりみち</span><span type="rp">）</span></span>の大通りへ一旦出て行ったが、また何か思いついて、急に引っ返して広徳寺前へ足をむけた。土用が明けてまだ間もない秋の朝日はきらきらと<span type="ruby"><span type="rb">大溝</span><span type="rp">（</span><span type="rt">おおどぶ</span><span type="rp">）</span></span>の水に映って、大きい麦藁とんぼが半七の鼻さきを<span type="ruby"><span type="rb">掠</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>めて低い練塀のなかへ流れるようについと飛び込んだ。その練塀の寺が妙信寺であった。<lb />
+　門をくぐると左側に花屋があった。盆前で参詣が多いとみえて、花屋の小さい店先には足も踏み立てられないほどに<span type="ruby"><span type="rb">樒</span><span type="rp">（</span><span type="rt">しきみ</span><span type="rp">）</span></span>の葉が青く積まれてあった。<lb />
+「もし、<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">こんにち</span><span type="rp">）</span></span>は」<lb />
+　店口から声をかけると、樒に埋まっているようなお婆さんが<span type="ruby"><span type="rb">屈</span><span type="rp">（</span><span type="rt">かが</span><span type="rp">）</span></span>んだ腰を伸ばして、眼をしょぼしょぼさせながら振り向いた。<lb />
+「おや、いらっしゃい。御参詣でございますか。当年は残暑がきびしいので困ります」<lb />
+「その樒を少し下さい。あの、踊りの師匠の歌女代さんのお墓はどこですね」<lb />
+　<span type="ruby"><span type="rb">要</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>りもしない花を買って、半七は歌女代の墓のありかを教えて貰った。そうして、その墓には始終お詣りがあるかと訊いた。<lb />
+「そうでございますね。最初の頃はお弟子さんがちょいちょい見えましたけれど、この頃ではあんまり御参詣もないようです。毎月御命日に欠かさず拝みにお出でなさるのは、あの経師職の息子さんばかりで……」<lb />
+「経師職の息子さんは毎月来るかね」<lb />
+「はい、お若いのに御奇特なお方で……。きのうもお詣りに見えました」<lb />
+　手桶に水と樒とを入れて、半七は墓場へ行った。墓は先祖代々の小さい石塔で、日蓮宗の歌女代は火葬でここに埋められているのであった。隣りの古い墓とのあいだには大きい楓が枝をかざして、秋の蝉が枯れ枯れに鳴いていた。墓のまえの花立てには、経師職の息子が涙を振りかけたらしい桔梗と<span type="ruby"><span type="rb">女郎花</span><span type="rp">（</span><span type="rt">おみなえし</span><span type="rp">）</span></span>とが新しく生けてあった。半七も花と水を供えて拝んだ。拝んでいるうちに何かがさがさという音がひびいたので、思わず<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>をみかえると、小さい蛇が何か追うように秋草の間をちょろちょろと走って行った。<lb />
+「こいつを持って行ったかな」と、半七は少し迷ったように蛇のゆくえを見つめていたが、「いや、そうじゃあるまい」と、又すぐ打ち消した。<lb />
+　もとの花屋へ帰って来て、死んだ師匠は生きているうち、墓まいりに時々来たことがあるかと、半七はお婆さんに訊いた。歌女代は若いに似合わない奇特な人で、墓まいりにはたびたび来た。たまには経師職の息子とも一緒に来たことがあったと彼女は語った。これらの話を寄せあつめて考えると、悲しい終りを告げた若い師匠と、その墓へ泣きに来る若い経師職との間には、なにか糸が繋がっているらしく思われた。<lb />
+「どうもお邪魔をしました」<lb />
+　半七は<span type="ruby"><span type="rb">銭</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>を置いて寺を出た。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+　寺を出て上野の方へ引っ返すと、半七は一人の背の高い男に出逢った。それは松吉という手先で、<span type="ruby"><span type="rb">綽名</span><span type="rp">（</span><span type="rt">あだな</span><span type="rp">）</span></span>をひょろ松と呼ばれる男であった。<lb />
+「おい、松。いい所で見つけた。実はこれからおめえの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ寄ろうかと思っていたんだ」<lb />
+「なんです、なにか御用ですか」<lb />
+「お前まだ知らねえのか、お化け師匠の死んだのを……」<lb />
+「知りません」と、松吉はびっくりしたような顔をしていた。「へえ、あの師匠が死にましたかい」<lb />
+「ぼんやりするなよ。眼と鼻との間に巣を食っていながら」と、半七は叱るように云った。「もう少し身にしみて御用を勤めねえじゃいけねえぜ」<lb />
+　半七からお化け師匠の死を聞かされて、松吉は眼を丸くしていた。<lb />
+「へえ、そうですかい。悪いことは出来ねえもんだね。お化け師匠とうとう<span type="ruby"><span type="rb">憑殺</span><span type="rp">（</span><span type="rt">とりころ</span><span type="rp">）</span></span>されたんですよ」<lb />
+「まあ、どうでもいいから俺の云うことをきいてくれ。お前はこれから手をまわして、この近所で<span type="ruby"><span type="rb">池鯉鮒</span><span type="rp">（</span><span type="rt">ちりゅう</span><span type="rp">）</span></span>様の<span type="ruby"><span type="rb">御符</span><span type="rp">（</span><span type="rt">おふだ</span><span type="rp">）</span></span>売りの泊っているところを探してくれ。<span type="ruby"><span type="rb">馬喰町</span><span type="rp">（</span><span type="rt">ばくろちょう</span><span type="rp">）</span></span>じゃああるめえ。万年町辺だろうと思うが、まあ急いで見つけて来てくれ。別にむずかしいことじゃああるめえ」<lb />
+「ええ、どうにかこじつけて見ましょう」<lb />
+「しっかり頼むぜ。如才はあるめえが、御符売りが幾人いて、それがどんな奴だか、よく洗って来なけりゃあいけねえぜ」<lb />
+「ようがす、受け合いました」<lb />
+　ひょろ高い男のうしろ姿が山下の方へ遠くなるのを見送って、半七は神田の家に帰った。その日は一日暑かった。日が暮れると、源次がこっそりたずねて来て、お化け師匠の検視はけさ済んだが、人が殺したか蛇が殺したかは確かに決まらないらしかったと話した。ふだんから評判のよくない師匠だけに、所詮は蛇に<span type="ruby"><span type="rb">祟</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>られた<span rend="notes">［＃「<span type="ruby"><span type="rb">祟</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>られた」は底本では「<span type="ruby"><span type="rb">崇</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>られた」］</span>ということに決められてしまって、あとの面倒な詮議はないらしいと云った。半七はただ笑って聴いていた。<lb />
+「師匠の<span type="ruby"><span type="rb">送葬</span><span type="rp">（</span><span type="rt">とむれえ</span><span type="rp">）</span></span>はいつだ」<lb />
+「あしたの明け六ツ半（午前七時）だそうです。別にこれという親類もないようですから、家主や近所の者が寄りあつまって何とか始末をするでしょうよ」と、源次は云った。<lb />
+　松吉の方からはその晩なんの<span type="ruby"><span type="rb">消息</span><span type="rp">（</span><span type="rt">たより</span><span type="rp">）</span></span>もなかった。あくる朝、半七は師匠の<span type="ruby"><span type="rb">送葬</span><span type="rp">（</span><span type="rt">とむらい</span><span type="rp">）</span></span>の様子を窺いながら妙信寺へ出かけてゆくと、師匠の遺骸は駕籠で送られて、町内の者や弟子たちが三四十人ほども付いて来た。その中には源次がいやに眼を光らせているのも見えた。経師職の息子の弥三郎が蒼い顔をしているのも見えた。女中のお村の小さい姿も見えた。半七は知らん顔をして隅に行儀よく坐っていた。<lb />
+　読経が終って、遺骸は更に焼き場へ送って行かれた。会葬者が思い思いに退散するうちに、半七はわざと後れて座を起った。そうして帰りぎわに墓場の方へそっと廻ってみると、一人の男がきのうの墓のまえに拝んでいる。それは経師職の息子に相違ないので、半七は草履の足音をぬすんで、そのうしろの大きい石塔のかげまで忍んで行って耳をすまして窺っていたが、弥三郎はなんにも云わずに唯一心に拝んでいた。やがて拝んでしまって一と足行きかけた時に、うしろの石塔のかげから顔を突き出した半七と彼は初めて眼を見合わせた。弥三郎は少し慌てたような風で、急いでここを立ち去ろうとするのを、半七は小声で呼び止めた。<lb />
+「へえ。なんぞ御用で……」と、弥三郎は何だかおどおどしながら立ち停まった。<lb />
+「少しお前さんに訊きたいことがある。まあ、ここへ来ておくんなさい」<lb />
+　半七は彼を師匠の墓の前へ連れ戻して、二人は草の上にしゃがんだ。けさは薄く<span type="ruby"><span type="rb">陰</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>っているので、まだ乾かない草の露が二人の草履のうらにひやびやと沁みた。<lb />
+「おまえさん御奇特に毎月この墓へお詣りに来なさるそうですね」と、半七は先ず何げなしに云った。<lb />
+「へえ、若い師匠のところへはちっとばかり稽古に行ったもんですから」と、弥三郎は丁寧に答えた。彼はきのうの朝以来、半七の身分を大抵察しているらしかった。<lb />
+「そこで、くどいことは云わねえ、手短かに話を片付けるが、おまえさんは死んだ若い師匠とどうかしていたんだろうね」<lb />
+　弥三郎の顔色は変った。かれは黙って俯向いて、膝の下の青い葉をむしっていた。<lb />
+「ねえ、正直に云って貰おうじゃねえか。おまえさんが若い師匠とどうかしていた。ところが、師匠はあんな<span type="ruby"><span type="rb">惨</span><span type="rp">（</span><span type="rt">みじ</span><span type="rp">）</span></span>めな死に様をした。丁度その一周忌に大師匠が又こんなことになった。因縁といえば不思議な因縁だが、ただ不思議だとばかり云っちゃいられねえ。若い師匠のかたきを取るために、お前さんが大師匠をどうかしたんじゃねえかと、世間で専ら評判をしている。それが<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>の耳にもはいっている」<lb />
+「飛んでもねえこと……。わたくしがどうしてそんな……」と、弥三郎は<span type="ruby"><span type="rb">口唇</span><span type="rp">（</span><span type="rt">くちびる</span><span type="rp">）</span></span>をふるわせながら慌てて打ち消そうとした。<lb />
+「いや、おまえさんがしたんでねえことは私は知っている。わたしは神田の半七という御用聞きだ。世間の評判をあてにして<span type="ruby"><span type="rb">罪科</span><span type="rp">（</span><span type="rt">つみとが</span><span type="rp">）</span></span>もねえ者を無暗にどうするの<span type="ruby"><span type="rb">斯</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>うするのと、そんな無慈悲なことはしたくねえ。その代りに何もかも正直に云ってくれなけりゃあ困る。いいかい、判ったかね。そこで今の一件だが、お前さん、まったく若い師匠とどうかしていたんだろうね。え、嘘をいっちゃあいけねえ。この墓の中には若い師匠がはいっているんだぜ。その前で嘘をつかれた義理じゃああるめえ」と、半七は墓を指して<span type="ruby"><span type="rb">嚇</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>すように云った。<lb />
+　花立ての花もきょうはもう<span type="ruby"><span type="rb">萎</span><span type="rp">（</span><span type="rt">しお</span><span type="rp">）</span></span>れて、桔梗も女郎花も乾いた葉を垂れていた。弥三郎はじっとそれを見つめているうちに、彼の<span type="ruby"><span type="rb">睫毛</span><span type="rp">（</span><span type="rt">まつげ</span><span type="rp">）</span></span>はいつかうるんで来た。<lb />
+「親分。なにもかも正直に申し上げます、実はおととしの夏頃から師匠のところへ毎晩稽古にいくうちに、若い師匠と……。けれども、親分、正直のところ、一度も悪いことはした覚えはありません。師匠はあの通りの病身ですし、わたくしもこの通り気の弱い方ですから、大師匠の眼を忍んで唯まあ打ち解けて話をするぐらいのことで……。それでもたった一度、去年の春でした。若い師匠と一緒にここに墓参りに来たことがありました。その時に師匠は、どうしても家にいられないことがあるから、どこへか連れて行ってくれと云うんです。今思えば、いっそその時に思い切ってどうかすればよかったんですが、わたくしも両親はあり、弟や妹はあり、それを<span type="ruby"><span type="rb">打捨</span><span type="rp">（</span><span type="rt">うっちゃ</span><span type="rp">）</span></span>って駈け落ちをするわけにも行かないので、ともかくも師匠をなだめて無事に帰したんですが、それから間もなく師匠はどっと寝付くようになって、とうとうあんなことになってしまいました。それを考えると、わたくしは何だか師匠を見殺しにしたようで、明けても暮れても気が咎めてなりませんから、毎月その詫びながら墓参りには欠かさずに来るようにしています。唯それだけのことで、今度の大師匠のことには何にもかかり合いはありません。大師匠が蛇に殺されたと訊いた時には、わたくしは思わず<span rend="sesame_dot" rendition="em">ぞっ</span>としました。なにしろ、それが丁度若い師匠の一周忌というんですから」<lb />
+　半七が想像した通り、若い師匠と若い経師職とのあいだには、こうした悲しい恋物語が潜んでいたのであった。彼の懺悔に偽りのないことは、若い男の眼から意気地なく流れる涙の色を見てもうなずかれた。<lb />
+「若い師匠が死んでから、おまえさんはもう師匠の家へはちっとも出這入りをしなかったかね」<lb />
+「へえ」と、弥三郎は口ごもるように云った。<lb />
+「隠しちゃあいけねえ。大事な場合だ。え、ほんとうに出這入りをしなかったのか」<lb />
+「それが実におかしいんです」<lb />
+「どうおかしいんだ。まっすぐに云いねえ」<lb />
+　半七に睨まれて、弥三郎はなにか頻りにもじもじしていたが、とうとう思い切ってこんなことを白状した。若い師匠が死んでひと月ばかり経つと、歌女寿が経師職の店へぶらりと来て、店に仕事をしている弥三郎を表へ呼び出した。娘の三十五日の配り物や何かについて少し相談したいことがあるから、今夜ちょいと<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ来てくれと云うのであった。その晩出てゆくと、配り物の話は付けたりで、師匠は弥三郎にむかって自分の家の婿になってくれないかと突然云い出した。頼りにしていた娘に別れて何分寂しくてならないから、お前さんを見込んで頼む、どうぞ養子になってくれと云った。<lb />
+　思いも付かない話でもあり、且は自分は惣領の跡取りであるので、弥三郎は無論にことわって帰った。しかし師匠の方でなかなか諦めないらしく、その後も執念ぶかく付きまとって来て、何かと名をつけて無理に彼を呼び出そうとした。一度は途中でつかまって、否応なしに湯島辺のある茶屋に引っ張って行かれた。下戸の弥三郎は酒を<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>いられた。歌女寿もだんだんに酔いがまわって来て、婿になれというのか亭主になれというのか、訳の判らないようなことを<span type="ruby"><span type="rb">媚</span><span type="rp">（</span><span type="rt">なまめ</span><span type="rp">）</span></span>かしい素振りで云い出したので、気の小さい弥三郎は顫えるほどに驚いて、一生懸命に振り切って逃げて帰った。<lb />
+「その茶屋へ引っ張られて行ったのは<span type="ruby"><span type="rb">何日</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>頃だね」と、半七は笑いながら訊いた。<lb />
+「ことしの正月です。それから三月にも浅草で出っくわして、無理にどっかへ引っ張られようとしたのを、それもようよう振り切って逃げました。それから五月の末でしたろう。日が暮れてから近所の湯へ行くと、その帰りにわたくしが男湯から出ると、師匠もちょうど女湯から出る、そこでばったり又<span type="ruby"><span type="rb">出遇</span><span type="rp">（</span><span type="rt">であ</span><span type="rp">）</span></span>ったんです。すると、相談があるから是非寄ってくれというんで、今度は逃げることもできないで、とうとう師匠の家まで一緒に行きました。格子をがらりと明けてはいると、長火鉢の前に一人の男が坐っているんです。師匠よりは<span type="ruby"><span type="rb">七八歳</span><span type="rp">（</span><span type="rt">ななやっつ</span><span type="rp">）</span></span>も若い、四十ぐらいの色のあさ黒い男でした。その男の顔をみると師匠はひどくびっくりしたように、しばらく黙って突っ立っていました。なにしろ、客の来ているのは私に取って<span type="ruby"><span type="rb">勿怪</span><span type="rp">（</span><span type="rt">もっけ</span><span type="rp">）</span></span>の幸いで、それをしおに早々に帰って来ました」<lb />
+「ふうむ。そんなことがあったのか」と、半七は腹のなかでにっこり笑った。「一体その男は何者だか、おまえさんはちっとも知らねえか」<lb />
+「知りません。女中のお村の話によると、なんでも師匠と喧嘩をして帰ったそうです」<lb />
+　その以上のことは弥三郎もまったく知らないらしいので、半七もここで切り上げて彼と別れた。<lb />
+「きょうのことは、誰にも当分沙汰なしにして置いてくんねえよ」<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">四</span></span></span>
+<lb />
+　寺の門を出ると、半七は松吉に逢った。<lb />
+「親分の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ今行ったら、ここの寺へ来ていると云うから、すぐに引っ返して来ました。きのうもあれから万年町の方をすっかり<span type="ruby"><span type="rb">猟</span><span type="rp">（</span><span type="rt">あさ</span><span type="rp">）</span></span>ってみたが、どこにもそんな御符売りらしい奴は泊っていねえんです。それからそれと探し歩いて、ようよう今朝になって本所の安泊りに一人いるのを見付けたんですが、どうしましょう」<lb />
+「幾つぐらいの奴だ」<lb />
+「さあ、二十七八でしょうかね。宿の亭主の話じゃあ、四、五日前から暑さにあたって、商売にも出ずにごろごろしているそうです」<lb />
+　弥三郎から訊いた男とは年頃もまるで違っているので、半七は失望した。殊に、四、五日前から宿に寝ていると云うのでは、どうにも詮議のしようがなかった。<lb />
+「そいつ一人ぎりか、ほかに連れはねえのか」<lb />
+「もう一人いるそうですが、そいつは今朝早くから山の手の方に商売に出たそうです。なんでもそいつは四十ぐらいで……」<lb />
+　半分聞かないうちに、半七は手を<span type="ruby"><span type="rb">拍</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>った。<lb />
+「よし。おれもあとから行くから、おめえは先へ行って、そいつの帰るのを待っていろ」<lb />
+　松吉を先にやって、半七はまた歌女寿の家へ急いでゆくと、下女のお村は近所の人達と一緒に焼き場へ廻ったというので、家には<span type="ruby"><span type="rb">識</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>らない女が二人坐っていた。歌女寿と喧嘩をして帰ったという男について、お村から詳しいことを訊き出そうと思って、半七はしばらくそこに待っていたが、お村はなかなか帰って来なかった。待ちくたびれて源次の家へゆくと、これも<span type="ruby"><span type="rb">送葬</span><span type="rp">（</span><span type="rt">とむらい</span><span type="rp">）</span></span>の帰りにどこへか廻ったとみえて、まだ帰って来ないと女房が気の毒そうに云った。女房を相手に二つ三つ世間話をしているうちに、やがて上野の鐘が四ツ（午前十時）を<span type="ruby"><span type="rb">撞</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いた。<lb />
+「御符売りも山の手へ登ったんじゃあ、どうせ午すぎでなけりゃあ帰るめえ」<lb />
+　半七はその間に二、三軒用達をして来ようと思って、早々に源次の家を出た。それから駈け足で二、三軒まわって途中で<span type="ruby"><span type="rb">午飯</span><span type="rp">（</span><span type="rt">ひるめし</span><span type="rp">）</span></span>を食って、<span type="ruby"><span type="rb">御厩河岸</span><span type="rp">（</span><span type="rt">おんまやがし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">渡</span><span type="rp">（</span><span type="rt">わたし</span><span type="rp">）</span></span>に来たのは、八ツ（午後二時）少し前であった。ここで本所へ渡る船を待っていると、一と足おくれてこの渡へ来たのは菅笠をかぶった四十恰好の色の黒い男で、手甲脚絆の<span type="ruby"><span type="rb">草鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span>がけ、頸に小さい箱をかけていた。それが<span type="ruby"><span type="rb">池鯉鮒</span><span type="rp">（</span><span type="rt">ちりゅう</span><span type="rp">）</span></span>の御符売りであることは半七にもすぐに覚られたので、物に馴れている彼も思わず胸をおどらせた。松吉から先刻訊いたのは此奴に相違ない。年頃も弥三郎から訊いた男に符合している。しかし確かな証拠もないのに突然に御用の声をかけるわけにも行かない。ともかくも宿へ帰るのを突き留めた上でなんとか詮議のしようもあろうと思って、半七は何げない風をして時々に彼の笠の内に注意の眼を送っていると、御符売りの男もそれと覚ったらしく、こっちの眼を避けるように、わざと柳の下に隠れて、胸を少しひろげて扇をつかっていた。<lb />
+　うすく陰った空は<span type="ruby"><span type="rb">午</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>から少しずつ剥げて来て、<span type="ruby"><span type="rb">駒形</span><span type="rp">（</span><span type="rt">こまがた</span><span type="rp">）</span></span>堂の屋根も明るくなった。そよりとも風のない日で、秋の暑さは大川の水にも残っているらしく、向う<span type="ruby"><span type="rb">河岸</span><span type="rp">（</span><span type="rt">がし</span><span type="rp">）</span></span>から漕ぎもどして来る渡し船にも、白い扇や手拭が乗合のひたいにかざされて、女の児の絵日傘が紅い影を船端の波にゆらゆらと浮かべていた。<lb />
+　その一と群れがこっちの岸へ着いて、ぞろぞろ上がってゆくのを待ち兼ねたように、御符売りは入れ替って乗った。半七もつづいて飛び乗った。<lb />
+「おうい。出るよう」<lb />
+　船頭は大きい声で呼ぶと、<span type="ruby"><span type="rb">小児</span><span type="rp">（</span><span type="rt">こども</span><span type="rp">）</span></span>の手を<span type="ruby"><span type="rb">曳</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いたおかみさんや、寺参りらしいお婆さんや、中元の砂糖袋をさげた小僧や、五、六人の男女がおくれ馳せにどやどやと駈け付けて来て、揺れる<span type="ruby"><span type="rb">船縁</span><span type="rp">（</span><span type="rt">ふなべり</span><span type="rp">）</span></span>からだんだんに乗り込んだ。やがて漕ぎ出したときに、御符売りは<span type="ruby"><span type="rb">艫</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>の方に乗り込んだ一人の男を急に見付け出したらしく、ほかの乗合をかきわけて彼の胸倉を引っ掴んだ。<lb />
+「やい、この泥坊。よくもおれが大事の商売道具を盗みやがったな。これ、<span type="ruby"><span type="rb">池鯉鮒</span><span type="rp">（</span><span type="rt">ちりゅう</span><span type="rp">）</span></span>さまの罰があたるぞ」<lb />
+　泥坊と人なかで<span type="ruby"><span type="rb">罵</span><span type="rp">（</span><span type="rt">ののし</span><span type="rp">）</span></span>られた男も、やはり四十前後の男で、紺地の野暮な<span type="ruby"><span type="rb">単物</span><span type="rp">（</span><span type="rt">ひとえもの</span><span type="rp">）</span></span>を着ていた。彼はほかの乗合の手前、おとなしく黙っていられなかった。<lb />
+「なに、泥坊……。飛んでもねえことを云うな。おれが何を盗んだ」<lb />
+「しらばっくれるな。俺はちゃんとてめえの<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>を覚えているんだ。いけずうずうしい野郎だ。どうするか見やあがれ」<lb />
+　御符売りは相手の胸倉を掴んだままで力まかせに幾たびか小突きまわした。男もその手をつかんで<span type="ruby"><span type="rb">捻</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>じ放そうとした。小さい船はゆれ傾いて女や子供は泣き出した。<lb />
+「船の中で喧嘩をしちゃあいけねえ。喧嘩なら岸へ着いてからにしておくんなせえ」<lb />
+　船頭は叱るように制した。ほかの乗合の客も口々になだめたので、御符売りはよんどころなしに手をゆるめた。併しまだそのままに済ませそうもない嶮しい顔色で、相手を<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と睨み詰めていた。<lb />
+　船が本所の<span type="ruby"><span type="rb">河岸</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>へ着くと、半七はまずひらりと飛び上がった。つづいて<span type="ruby"><span type="rb">彼</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>の男が上がった。そのあとを追うように御符売りも上がって来て、再び彼の袖を掴もうとするのを、男はあわてて振り切って逃げ出そうとしたが、その片腕はもう半七に押えられていた。<lb />
+「おまえさん、何をするんです」と、男は振り放そうと身をもがいた。<lb />
+「神妙にしろ、御用だ」<lb />
+　半七の声は鋭くひびいた。男は不意に魂をぬき取られたように、ただ棒立ちに突っ立ったままであった。勢い込んで追おうとした御符売りも思わず立ちすくんでしまった。<lb />
+「おまえはこいつになにを<span type="ruby"><span type="rb">奪</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>られた。黒い蛇だろう」と、半七は御符売りに訊いた。<lb />
+「はい。左様でございます」<lb />
+「こいつと一緒に番屋まで来てくれ」<lb />
+　二人を引っ張って、半七は近所の自身番へ行った。<span type="ruby"><span type="rb">浅蜊</span><span type="rp">（</span><span type="rt">あさり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">殻</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>を店の前の泥に敷いていた自身番の<span type="ruby"><span type="rb">老爺</span><span type="rp">（</span><span type="rt">おやじ</span><span type="rp">）</span></span>は、かかえていた<span type="ruby"><span type="rb">笊</span><span type="rp">（</span><span type="rt">ざる</span><span type="rp">）</span></span>をほうり出して、半七らを内へ入れた。<lb />
+「おい、素直に何もかも云っちまえ」と、半七は彼の男を睨むように視た。「てめえは御成道の横町のお化け師匠の<span type="ruby"><span type="rb">情夫</span><span type="rp">（</span><span type="rt">いろ</span><span type="rp">）</span></span>か、亭主か。なにしろ久し振りでたずねて行くと、師匠は若けえ男なんぞを引っ張って帰って来て、手前に逢っても、好い顔をしねえ。あんまり不実だとか薄情だとか云うんで、手前は師匠とやきもち喧嘩をしたろう。それがもとでとうとう師匠を殺す気になって、ここにいる御符売りの箱から蛇を一匹盗んで、狂言の種に遣ったろう。手前もなかなか芝居気がある。お化け師匠と札付きになっているのに付け込んで、師匠をそっと絞め殺して、その蛇を死骸の頸へまき付けて置いて、娘の執念だとか祟りだとか、飛んだ林屋正蔵の怪談で巧く世間を誤魔化そうとしたんだろう。それで世の中が無事息災で通って行かれりゃあ、闇夜に<span rend="sesame_dot" rendition="em">ぶら</span>提灯は要らねえ理窟だが、どうもそうばかりは行かねえ。さあ、恐れ入って真っ直ぐになんでも吐き出してしまえ。ええ、おちついているな。<span type="ruby"><span type="rb">脂</span><span type="rp">（</span><span type="rt">やに</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">嘗</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めさせられた蛇のように往生ぎわが悪いと、もう御慈悲をかけちゃあいられねえ。さあ申し立てろ。江戸じゅうの<span type="ruby"><span type="rb">黄蘗</span><span type="rp">（</span><span type="rt">きはだ</span><span type="rp">）</span></span>を一度にしゃぶらせられた訳ではあるめえし、口の利かれねえ筈はねえ。飯を食う時のように大きい口をあいて云え。野郎、わかったか。悪く片付けていやあがると引っぱたくぞ」<lb />
+<lb />
+「今と違って、むかしの番屋の調べはみんなこんな調子でしたよ」と、半七老人は云った。<lb />
+「町奉行は格別、番屋で調べるときには、岡っ引や手先ばかりでなく、八丁堀のお役人衆もみんなこの息で頭からぽんぽん<span type="ruby"><span type="rb">退治</span><span type="rp">（</span><span type="rt">やっ</span><span type="rp">）</span></span>つけるんです。芝居や講釈のようなもんじゃあありませんよ。ぐずぐずしていると、まったく引っぱたくんですよ」<lb />
+「それで其の男は白状したんですか」と、わたしは訊いた。<lb />
+「<span type="ruby"><span type="rb">煙</span><span type="rp">（</span><span type="rt">けむ</span><span type="rp">）</span></span>にまかれて、みんなべらべら申し立てましたよ。そいつは元は上野の<span type="ruby"><span type="rb">山内</span><span type="rp">（</span><span type="rt">さんない</span><span type="rp">）</span></span>の坊主で、歌女寿よりも年下なんですけれども、女に巧くまるめ込まれて、とうとう寺を開いてしまって、十年ほど前から甲州の方へ行って<span type="ruby"><span type="rb">還俗</span><span type="rp">（</span><span type="rt">げんぞく</span><span type="rp">）</span></span>していたんですが、故郷忘じ難しで江戸が恋しくなって、今度久し振りで出て来て、早速歌女寿のところへ訪ねて行くと、女は薄情だから見向きもしない。おまけで経師職の<span type="ruby"><span type="rb">生若</span><span type="rp">（</span><span type="rt">なまわけ</span><span type="rp">）</span></span>え伜なんぞを引っ張って来たのを見たもんだから、坊主はむやみに<span type="ruby"><span type="rb">口惜</span><span type="rp">（</span><span type="rt">くや</span><span type="rp">）</span></span>しくなって、なんとかして意趣返しをしてやろうと、そこらの安宿を<span type="ruby"><span type="rb">転</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>げあるきながら、足かけ二カ月越しも付け狙っているうちに、歌女寿の娘が去年死んで、それからお化け師匠の評判が立っているのを聞き込んで、根が坊主だけに、死霊の祟りなんていうことを考え付いて、とうとう師匠を絞め殺してしまったんですよ。蛇を種に遣ったところは巧く考えましたね」<lb />
+「その蛇は御符売りのを盗んだんですか」<lb />
+「本所の安宿に転がっていると、丁度そこへ池鯉鮒の御符売りが泊り合わせたもんだから、それからふと思い付いて、その蛇を一匹盗んだんです。そこで蛇を見なかったら、そんな知恵も出なかったかも知れませんが、師匠も坊主も、つまりおたがいの不運ですね。時候は盆前、娘の一周忌と、うまく道具が揃っているもんだから、夜ふけに<span type="ruby"><span type="rb">水口</span><span type="rp">（</span><span type="rt">みずくち</span><span type="rp">）</span></span>からそっと忍び込んで、師匠を殺す、蛇をまき付ける。すべておあつらえの通りの怪談が出来あがったんです。わたくしは最初に女中のお村というのに眼をつけていたんですが、これはよく寝込んでいて全くなんにも知らなかったということが後で判りました」<lb />
+「それにしても、あなたはどうして池鯉鮒の御符売りに手を着けようと考え付いたのです」<lb />
+　それが私には判らなかった。半七老人は又にやにや笑っていた。<lb />
+「なるほど、今どきの人にゃあ判らないかも知れませんね。むかしは毎年夏場になると、蝮よけ蛇除けの御符売りというものが何処からか出て来るんです。有名な池鯉鮒様のほかにいろいろの<span type="ruby"><span type="rb">贋</span><span type="rp">（</span><span type="rt">まが</span><span type="rp">）</span></span>いものがあって、その符売りは蛇を入れた箱を頸にかけて、人の見る前でその御符で蛇の頭を撫でると、蛇は小さくなって首を縮めてしまうんです。ほんとうの池鯉鮒様はそんな事はありませんが、<span type="ruby"><span type="rb">贋</span><span type="rp">（</span><span type="rt">まが</span><span type="rp">）</span></span>い者になるとふだんから蛇を馴らして置く。なんでも御符に針をさして置いて、蛇の頭をちょいちょい突くと、蛇は痛いから首を縮める。それが自然の癖になって、紙で撫でられるとすぐに首を引っ込めるようになる。その蛇を箱に入れて持ち歩いて、さあ御覧なさい、御符の奇特はこの通りでございますと、生きた蛇を証拠にして御符を売って歩くんだということです。わたくしがお化け師匠の頸に巻きついている蛇を見たときに、なんだかひどく弱っている様子がどうも普通の蛇らしくないので、ふっとその蛇除けの贋いものを思い出して、試しに懐紙でちょいと押えると、蛇はすぐに頸を縮めてしまいましたから、さてはいよいよ御符売りの持っている蛇に相違ないと見きわめを付けて、それからだんだんに<span type="ruby"><span type="rb">手繰</span><span type="rp">（</span><span type="rt">たぐ</span><span type="rp">）</span></span>って行くうちに相手にうまくぶつかったんです。え、その坊主ですか。それは無論死罪になりました」<lb />
+「御符売りはどうなりました」<lb />
+「池鯉鮒様の名前を<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>って、そんな<span type="ruby"><span type="rb">贋物</span><span type="rp">（</span><span type="rt">いかもの</span><span type="rp">）</span></span>を売っているんですから、今なら相当の罰を受けるでしょうが、昔は別にどうということもありませんでした。つまり欺される方が悪いというような理窟なんですね。それでもやっぱり気が咎めると見えて、御符売りはわたくしに笠の内を覗かれて、なんだか落ち着かないようなふうで<span type="ruby"><span type="rb">遠退</span><span type="rp">（</span><span type="rt">とおの</span><span type="rp">）</span></span>いていたんでしょう。池鯉鮒様ばかりでなく、昔はこんな贋いものがたくさんありましたよ」<lb />
+「一体その池鯉鮒様というのは何処にあるんです」<lb />
+「東海道の三州です。今でも御信心の人がありましょう。おや、雨が止んだと見えて、表が急に賑やかになって来ました。どうです、折角お出でなすったもんですから、ともかくも一と廻りして、軒提灯に火のはいったところを見て来ようじゃありませんか。お祭りはどうしても夜のものですよ」<lb />
+　老人に案内されて、わたしは町内の飾り物などを観てあるいた。その晩、家へ帰って東海道名所図会を<span type="ruby"><span type="rb">繰</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>ってみると、三州池鯉鮒の<span type="ruby"><span type="rb">宿</span><span type="rp">（</span><span type="rt">しゅく</span><span type="rp">）</span></span>のくだりに<span type="ruby"><span type="rb">知立</span><span type="rp">（</span><span type="rt">ちりゅう</span><span type="rp">）</span></span>の神社のことが詳しく記されて「蝮蛇除の<span type="ruby"><span type="rb">神札</span><span type="rp">（</span><span type="rt">まもり</span><span type="rp">）</span></span>は別当松智院社人よりこれを出だす。遠近これを信じて授かる者多し。夏秋の頃山中叢林にこれを懐中すれば蝮蛇逃げ去るという、云々」と、書いてあった。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

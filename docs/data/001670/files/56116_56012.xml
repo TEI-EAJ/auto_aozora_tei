@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>奇談クラブ〔戦後版〕</title>
+        <author>野村胡堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2015-02-17">作成</resp><resp /><note>
+<lb />
+底本：「野村胡堂伝奇幻想小説集成」作品社<lb />
+　　　2009（平成21）年6月30日第1刷発行<lb />
+底本の親本：「代作恋文」アポロ出版社<lb />
+　　　1948（昭和23）年10月<lb />
+初出：「月刊読売」<lb />
+　　　1947（昭和22）年6月<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：門田裕志<lb />
+校正：阿部哲也<lb />
+<date when="2015-02-17">2015年2月17日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>阿部哲也</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>奇談クラブ〔戦後版〕</title><author>野村胡堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">プロローグ</span></span></span>
+<lb />
+　話し手の<span type="ruby"><span type="rb">望月辛吉</span><span type="rp">（</span><span type="rt">もちづきしんきち</span><span type="rp">）</span></span>は、有名なジレッタントで、レコードの蒐集家の一人として知られた男でした。<span type="ruby"><span type="rb">叔父</span><span type="rp">（</span><span type="rt">おじ</span><span type="rp">）</span></span>の経営している会社の平社員で――望みさえすれば、専務にも支配人にもなれる七光りの背景を持っているのですが、望月辛吉に取っては下手な詩を作って、好きなレコードを集めて、外国の探偵小説を読んで、マドロス・パイプを磨いて、出世もしない代り、首にもならない今の地位が、<span type="ruby"><span type="rb">譬</span><span type="rp">（</span><span type="rt">たと</span><span type="rp">）</span></span>えようもなく<span type="ruby"><span type="rb">呑気</span><span type="rp">（</span><span type="rt">のんき</span><span type="rp">）</span></span>で、そしてこの上もなく快適だったのです。<lb />
+　今夜の話し手は、こういった逸民的存在なる望月辛吉にお鉢が廻りました。<span type="ruby"><span type="rb">尤</span><span type="rp">（</span><span type="rt">もっと</span><span type="rp">）</span></span>も彼自身は、<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>とかど働く人間の<span type="ruby"><span type="rb">積</span><span type="rp">（</span><span type="rt">つも</span><span type="rp">）</span></span>りで、自分を<span type="ruby"><span type="rb">遊堕</span><span type="rp">（</span><span type="rt">ゆうだ</span><span type="rp">）</span></span>の民とは夢にも思っておりません。<lb />
+「私は三四年前、非常に面白い事件を一つ解決いたしました。<span type="ruby"><span type="rb">少</span><span type="rp">（</span><span type="rt">すくな</span><span type="rp">）</span></span>くとも医学博士の<span type="ruby"><span type="rb">北村万平</span><span type="rp">（</span><span type="rt">きたむらまんぺい</span><span type="rp">）</span></span>先生にも、弁護士の<span type="ruby"><span type="rb">佐瀬渉</span><span type="rp">（</span><span type="rt">させわたる</span><span type="rp">）</span></span>氏にも、若い実業家の<span type="ruby"><span type="rb">森川森之助</span><span type="rp">（</span><span type="rt">もりかわもりのすけ</span><span type="rp">）</span></span>君にも解決の出来なかった一千万円の大秘密――そういうと安価な映画か大衆小説の標題のようですが、――<span type="ruby"><span type="rb">兎</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>にも<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>にも昔の金の相場で一千万円の秘密と、それに絡んで人間二人の命にも<span type="ruby"><span type="rb">拘</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>わる秘密を解決したのであります」<lb />
+　望月辛吉は<span type="ruby"><span type="rb">頗</span><span type="rp">（</span><span type="rt">すこぶ</span><span type="rp">）</span></span>る良い心持そうでした。聴き手にとっても、下手な自作の詩を朗読されるのと違って、これは案外面白いかもしれません。奇談クラブの会員達は、いとも神妙に耳を傾けております。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">一</span></span></span>
+<lb />
+　五年ほど前に、有名な実業家で、若くて美しい夫人を持っている、<span type="ruby"><span type="rb">国府金弥</span><span type="rp">（</span><span type="rt">こくぶきんや</span><span type="rp">）</span></span>老人が死んだことは、皆様も御記憶のことと存じます。醜怪な老人が、たとえ二度目であったにしても、孫のような若い夫人を持つということは、兎角世上の噂に上るものですが、わけてもこの<span type="ruby"><span type="rb">鈴子</span><span type="rp">（</span><span type="rt">すずこ</span><span type="rp">）</span></span>夫人のように、非常な美人で、詩がうまいとなると、物好きな世間は、安からぬゴシップを飛ばさずにはおきません。<lb />
+　それが<span type="ruby"><span type="rb">僅</span><span type="rp">（</span><span type="rt">わず</span><span type="rp">）</span></span>か二十五歳で、<span type="ruby"><span type="rb">河馬</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>のように醜悪な六十歳の老人と結婚したのです。昔から老人が若い妻をめとった例は決して少くありませんが、ゲーテのように、稀代の大天才が、年齢の<span type="ruby"><span type="rb">距</span><span type="rp">（</span><span type="rt">へだた</span><span type="rp">）</span></span>りを越えて、若い少女の心を<span type="ruby"><span type="rb">引付</span><span type="rp">（</span><span type="rt">ひきつ</span><span type="rp">）</span></span>けたのは別として、多くの場合それは、不純な動機や事情で結び付けられるのが普通で、国府金弥老人と鈴子夫人の間にも、面白からぬ噂があり、<span type="ruby"><span type="rb">出雲</span><span type="rp">（</span><span type="rt">いずも</span><span type="rp">）</span></span>の神様の赤縄の代りに、極めて現世的な黄金のロープで結び付けられたことは、容易に想像されることであります。<lb />
+　鈴子夫人の詩が、それからどんなに悩み多いものになったか。詩集「銀の鈴」を御覧になればわかるのですが、あの透き通るような、清麗そのものといってよい鈴子夫人が、河馬老人の格子無き牢獄に閉じこめられてからは、日一日と、見る影もなくやつれ果てていったことは申すまでもありません。<lb />
+　これは実に由々しき大事で、鈴子夫人を崇拝し尊敬している我々詩人仲間は、<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>んとかしてあの牢獄から、稀代の麗人を救い出そうとして、中世紀のナイトのように慷慨悲憤しました。<span type="ruby"><span type="rb">併</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>し残念<span type="ruby"><span type="rb">乍</span><span type="rp">（</span><span type="rt">なが</span><span type="rp">）</span></span>ら我々の仲間は、骨の髄から青白きインテリで、一代に一千万円の巨富を築き上げた国府金弥老人と対抗するほどの、金も智慧も持っている<span type="ruby"><span type="rb">筈</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>はありません。それに国府老人は若い時分は相当に優れた科学者だったそうで、その<span type="ruby"><span type="rb">夥</span><span type="rp">（</span><span type="rt">おびただ</span><span type="rp">）</span></span>しい発明と特許権が後の富を作る原因にもなり、年こそ取っておりますが、並々ならぬ良い頭脳の所有者でもあったのです。<lb />
+　ところで我々の仲間でも一番鈴子夫人に同情していたのは国府老人の遠縁に当る少壮実業家で、詩も作り金も作るといわれた才人、森川森之助という男でした。これは鈴子夫人とは幼な友達で、少くも本人だけは<span type="ruby"><span type="rb">許婚</span><span type="rp">（</span><span type="rt">いいなずけ</span><span type="rp">）</span></span>位の心持でいたのでしょうが、鈴子夫人が女子大を卒業して、女流詩人として名を成し始めた頃、不意に横合から<span type="ruby"><span type="rb">飛出</span><span type="rp">（</span><span type="rt">とびだ</span><span type="rp">）</span></span>した国府老人が、金にモノをいわせて、美しい<span type="ruby"><span type="rb">温</span><span type="rp">（</span><span type="rt">ぬく</span><span type="rp">）</span></span>め鳥のように、鈴子夫人をさらって行ってしまったのです。<lb />
+　――少くとも森川森之助はこういっておりました。にも拘らず、国府金弥老人は、<span type="ruby"><span type="rb">太々</span><span type="rp">（</span><span type="rt">ふてぶて</span><span type="rp">）</span></span>しい寛大さで、森川森之助を家庭に近づけ、相変らず自分の秘書のように使っておりました。<lb />
+　もし国府金弥老人が、もう二三年も長生きをしたら、殺し手が二三人現われたかもわからず、その殺し手になったのは、森川森之助でなければ――正直のところこの私であったかもしれないのです。美しく優しい鈴子夫人が、日蔭の花のように萎れていくのを見るのは、全く見てはいられない残虐さでした。「美への大冒涜」――私はよくこんなことをいって、僅かに溜飲を下げていたのです。<lb />
+　ところで、この国府老人に対する憎悪が、八方から恐ろしい<span type="ruby"><span type="rb">勢</span><span type="rp">（</span><span type="rt">いきおい</span><span type="rp">）</span></span>で激発され始めた頃、正確にいえば今から五年前の春、国府金弥老人は、古釘が折れたように、ポクリと死んでしまったのです。あんな丈夫な老人がと一応は疑いましたが、主治医の北村万平<span type="ruby"><span type="rb">博士</span><span type="rp">（</span><span type="rt">はかせ</span><span type="rp">）</span></span>が、肝臓の特殊の病気と診断を下したのですから、これは少しの疑いようもありません。葬儀万端いとも盛大に<span type="ruby"><span type="rb">執</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>り行われて、さてこの後誰が一体鈴子未亡人の世話をするだろうということが問題になりました。何しろまだ二十五の若盛りで、美しくて詩が上手で、一千万円の財産を持っているのですから、まことに押すな押すなの盛況です。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">二</span></span></span>
+<lb />
+　ところで、初七日の晩に親類親友一同、顧問弁護士の佐瀬渉を交えて、国府老人の遺言状を開くことになりました。<lb />
+　未亡人の美しい鈴子を中心に、森川森之助は遠縁でもあり故人の特別関係もあり、その席に加わったことは申す<span type="ruby"><span type="rb">迄</span><span type="rp">（</span><span type="rt">まで</span><span type="rp">）</span></span>もなく、数ならぬ私も、夫人の詩友として、国府家の親しい一人として、特にその席に<span type="ruby"><span type="rb">列</span><span type="rp">（</span><span type="rt">つらな</span><span type="rp">）</span></span>ったのは<span type="ruby"><span type="rb">有難</span><span type="rp">（</span><span type="rt">ありがた</span><span type="rp">）</span></span>いことでした。実際この事件に私が関係しなかったら、<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>ういうことになったか、今になって見れば考えただけでも恐ろしい事です。<lb />
+　その時の鈴子夫人の、喪服姿の気高い美しさを、今でも私は忘れることが出来ません。水のように静かな表情が、俄然として燃え上る火のように激発された変り目は、何に譬えたら<span type="ruby"><span type="rb">宜</span><span type="rp">（</span><span type="rt">よろ</span><span type="rp">）</span></span>しいでしょう。――いや私はこう自分の回想に溺れて話の順序を違えて、皆様を迷わせてはいけません。もう少し事務的に語りますから、お退屈でも<span type="ruby"><span type="rb">暫</span><span type="rp">（</span><span type="rt">しばら</span><span type="rp">）</span></span>く我慢を願います。<lb />
+　さて、国府金弥老人の資産というものは、<span type="ruby"><span type="rb">悉</span><span type="rp">（</span><span type="rt">ことごと</span><span type="rp">）</span></span>くその発明の値打と、事業経営の才能からの収穫で、まことに堂々たるものでしたが、額にすると実に夥しいもので、私どもや世間の人の推定から見ると、恐らく三倍にも五倍にも上ったことでしょう。<lb />
+　この巨万の富を<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>う処分するか、これは直接関係のない人でも一応は好奇心をもやしたところです。が、佐瀬弁護士の手で遺言状が披露されると、それは誠に当然で、一向不思議でも何んでもないことでした。<lb />
+　国府金弥老人の財産は――動産不動産全部を挙げて、妻の鈴子に与えるというのです。子の無い金弥老人としては、たった一年の縁でも、最愛の若い妻に<span type="ruby"><span type="rb">譲</span><span type="rp">（</span><span type="rt">ゆず</span><span type="rp">）</span></span>るのに何んの不思議もありません。ところがそれには重大な<span type="ruby"><span type="rb">但</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>し書があったのです。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+但し妻鈴子は余の死後満一ヶ年間独身たるべきこと、一ヶ年以内に再婚せんとする場合は遺産の相続権を放棄せざるべからず<lb />
+</span>
+　まことにはっきりしております。国府老人には先妻にも子が無く、兄弟も甥姪も無かったので、鈴子夫人が遺産の相続権を喪失すれば、一千万円の財産はことごとく養老院に寄附されることになっているのでした。<lb />
+「そんな無法な遺言は無い、何んであろうと鈴子さんは向後の生活を保証して貰う権利がある筈だ」<lb />
+　躍起となって抗議したのは、鈴子夫人と一番親しくしている森川森之助でした。十目の見るところ、国府老人が死ねば、鈴子夫人は森川と再婚するだろうと友人達も信じて疑わなかったのです。その時、<lb />
+「私、自分の考えを<span type="ruby"><span type="rb">申上</span><span type="rp">（</span><span type="rt">もうしあ</span><span type="rp">）</span></span>げてよろしいのでしょうか」<lb />
+　静かに口をきったのは、当の鈴子夫人でした。<lb />
+「何んなりと」<lb />
+　佐瀬弁護士は極めて事務的に<span type="ruby"><span type="rb">応</span><span type="rp">（</span><span type="rt">こた</span><span type="rp">）</span></span>えます。<lb />
+「私、その遺産の相続を辞退し<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>いと思いますが」<lb />
+「え？」<lb />
+　一千万円の遺産を、夫人は<span type="ruby"><span type="rb">弊履</span><span type="rp">（</span><span type="rt">へいり</span><span type="rp">）</span></span>の如く棄てようというのです。<lb />
+「私には入用の無い財産でございますし、それに、一年でも二年でも――一生でも独身でおりますが、財産のために縛られ度くはございませんから――」<lb />
+　それは何んという爆発的な反抗の言葉でしょう。鈴子夫人の顔は水の如く静かですが、その静かな表情のうちに、火の如く燃えさかる情熱と自尊心を感じさせたのです。<lb />
+　二十五歳の若くて美しい未亡人が、一千万円の遺産を辞退したというだけでも、十分奇談として皆様にお話する値打があると思いますが、これはほんの事件の発端で、本当の奇談はこれから始まるのであります。<lb />
+「奥様が遺産を辞退なされば、国府さんが日頃心に掛けられたように、この財産は全部財団法人として、養老院を建設することになりますが――」<lb />
+　佐瀬渉もさすがに安からぬ顔を挙げます。<lb />
+「それは、故人の口癖に申していたことで御座います。今の日本には、財産も無く、働く健康も無い老人を収容して、その余生を楽しませる機関が何より必要だと」<lb />
+「お待ち下さい、奥様、いや、鈴子さん、それはあんまり短気過ぎます。――国府さんの遺言状には、奥様に再婚してはいけないとは書いてありません。一年間だけ――たった一年だけ待って下されば、それだけの富が全部<span type="ruby"><span type="rb">貴女</span><span type="rp">（</span><span type="rt">あなた</span><span type="rp">）</span></span>の手に入って来るのです」<lb />
+　そう言い出したのは、鈴子の再婚の相手と思われている森川森之助でした。<lb />
+「その通り、――森川さんの言われる通りです、たった一年間だけ辛抱していらっしゃれば」<lb />
+　佐瀬弁護士でした。<lb />
+「辛抱？　――私にはそんなことが――」<lb />
+　鈴子はそれを、夫の無用な嫉妬と解釈したのでしょう。一千万円の遺産を餌にして、一年間未亡人生活を強いられるのは、鈴子にとっては、たまらない屈辱だったのです。<lb />
+「それは解釈のしようですよ、鈴子さん、この遺産を辞退すると、世間では<span type="ruby"><span type="rb">貴女</span><span type="rp">（</span><span type="rt">あなた</span><span type="rp">）</span></span>を何んと見るでしょう」<lb />
+「？」<lb />
+　森川森之助は一生懸命でした。<lb />
+「かえって再婚を急いでいるといった、悪評を立てられはしませんか。遺言状は<span type="ruby"><span type="rb">貴女</span><span type="rp">（</span><span type="rt">あなた</span><span type="rp">）</span></span>を拘束したと解釈せずに、<span type="ruby"><span type="rb">貴女</span><span type="rp">（</span><span type="rt">あなた</span><span type="rp">）</span></span>が自由意志で一年間再婚をなさらなければ、それでいいわけではありませんか」<lb />
+　森川森之助のこの考え方は、<span type="ruby"><span type="rb">如何</span><span type="rp">（</span><span type="rt">いか</span><span type="rp">）</span></span>にも実際家らしい、妥協的ではあるが無事なものでした。鈴子夫人もそれ以上争う意志が無かったらしく、そのまま承服したことは申す迄もありません。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">三</span></span></span>
+<lb />
+　一年経ちました。<lb />
+　鈴子夫人の美しさは次第に回復しますが、国府金弥老人の変った遺言のことが、<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>からともなく世上に漏れて、老人に対する世評はまことに滅茶滅茶です。<lb />
+　河馬のように醜く、河馬のように食い肥った六十歳の老人が、二十五歳の世にも美しい女流詩人を、金の力で配偶にし、自分の死水を取らせたのさえ、世の常識を蹂躙した<span type="ruby"><span type="rb">怪</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>しからぬしわざなのに、自分の死後にまで干渉の手を伸ばして、美しい鈴子夫人に一年間の<span type="ruby"><span type="rb">孤閨</span><span type="rp">（</span><span type="rt">こけい</span><span type="rp">）</span></span>を守らせるとは、何たる醜い嫉妬ぞや――というのです。<lb />
+　老人の嫉妬の醜さは、あらゆるサロンに、新聞に、雑誌に、恰好のゴシップを提供しました。それはアラビアン・ナイトの悪魔の嫉妬に譬えられ、オセロの嫉妬に比べられて、笑いと軽蔑と、そしてよき戒めとさえなったのです。すべての若くて美しい夫人を持った老人達まで、そのために暫くは反省させられ、寛大にさえなりました。<lb />
+　その一方では、鈴子未亡人と森川森之助は、<span type="ruby"><span type="rb">堰</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>かれた二つの水のように、急速に接近し始めて、離れ<span type="ruby"><span type="rb">難</span><span type="rp">（</span><span type="rt">がた</span><span type="rp">）</span></span>いものになって行く様子でした。森川森之助は<span type="ruby"><span type="rb">殆</span><span type="rp">（</span><span type="rt">ほとん</span><span type="rp">）</span></span>ど毎日、外国映画に出て来る恋人のように、花束か何んかを持って、今は主人を<span type="ruby"><span type="rb">喪</span><span type="rp">（</span><span type="rt">うしな</span><span type="rp">）</span></span>った国府家を、何んの遠慮もなく訪問しました。<lb />
+　時には豪勢な応接間で、時には鈴子夫人の私室で、或時にはピアノを弾き、或時は詩を唱和して若い恋人同志のように、二人は一年という歳月の経つのを待ちました。<lb />
+　鈴子夫人は兎も角、森川森之助は我々友人にもはっきり公言して、一年経てば堂々と正面から鈴子夫人に結婚を申込んで、あの一千万円の富を、社会のために一番有用に<span type="ruby"><span type="rb">費</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>い度い――といったことを、何んの遠慮もなく話しているのでした。<lb />
+　森川森之助と鈴子夫人は、誰の目にも申分のない一対で、我々鈴子夫人の夥しい崇拝者達も、二人の接近は羨望というよりは、諦めの心持で眺めておりました。<lb />
+　鈴子夫人の優れた素質や、その天才、心ばえは、美しさを別にしても、全く珠玉的なもので、千人に一人、万人に一人、いや千万人に一人もあるまいと思うほど恵まれた天分の持主ですが、それに対して森川森之助もまたいささかの引目を感じないばかりでなく、かえってたち勝るかも知れないと思う程の立派な青年だったのです。<lb />
+　森川森之助は、我々の仲間では、詩は一番<span type="ruby"><span type="rb">下手</span><span type="rp">（</span><span type="rt">へた</span><span type="rp">）</span></span>でしたが、その代り<span type="ruby"><span type="rb">麻雀</span><span type="rp">（</span><span type="rt">マージャン</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">撞球</span><span type="rp">（</span><span type="rt">たまつき</span><span type="rp">）</span></span>は上手で、国府金弥氏の秘書として、少壮実業家としては非凡の才能を持っているばかりでなく、風采が立派で、人ずきがよくて、座談に長じて、まことに申分のない男だったのです。<lb />
+　国府老人の一周忌が済んだら、二人は間違いもなく一緒になるでしょう。<span type="ruby"><span type="rb">甚</span><span type="rp">（</span><span type="rt">はなは</span><span type="rp">）</span></span>だ腹の立つことですが、私ども青白きインテリどもは、諦める<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">ほか</span><span type="rp">）</span></span>は無い運命でした。<lb />
+　一周年の命日には、厳粛な法要が営まれて、その後で、佐瀬弁護士から関係者一同に申上げ度いことがあるからというので、かつて遺言状を披露した時の顔ぶれを別室に揃えました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">四</span></span></span>
+<lb />
+　鈴子夫人は陰気臭い喪服を脱いで、サフラン色の洋装をしておりました。色の白い鈴子夫人には、この匂うばかりのサフラン色が実によく似合うのです。<lb />
+　森川森之助はすっかり<span type="ruby"><span type="rb">許婚</span><span type="rp">（</span><span type="rt">いいなずけ</span><span type="rp">）</span></span>気取りで、明るく忠実に一座を斡旋しております。<lb />
+「では、皆様お揃いのようですから、早速始めますよ――」<lb />
+　佐瀬弁護士は、<span type="ruby"><span type="rb">咳</span><span type="rp">（</span><span type="rt">がい</span><span type="rp">）</span></span>一咳といった極めて効果的な調子で始めました。<lb />
+「国府金弥さんには、一年前亡くなられた時に発表した遺言状の外に、もう一つ遺言があるのです」<lb />
+「――――」<lb />
+　それは誠に予想外でした。一座の人々は顔見合せて、固唾を呑んだのも無理のないことです。<lb />
+「――それは国府さんが健康を悪くされてから、<span rend="sesame_dot" rendition="em">そっ</span>と私を呼んで――死後<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>ぐに発表する遺言状の外に、私にはもう一つの秘密の遺言状がある。但しこれは、私の死後満一年経ってから、妻の鈴子その他、遠縁の人々や友人達、特に若い望月辛吉君なども立会の上で発表して貰い度い――とこう<span type="ruby"><span type="rb">仰</span><span type="rp">（</span><span type="rt">おっ</span><span type="rp">）</span></span>しゃって、私に一つの箱を手渡されました。この箱は御覧の通り大振りに出来た手提金庫ですが、中に何が入っているか、私にもわかりません。それから鍵は、当時国府さんの秘書のようにしておられた、森川森之助さんがお預りしてある筈です」<lb />
+　佐瀬弁護士はそう言って、少し頑丈に出来た、大型の手提金庫を、<span type="ruby"><span type="rb">卓</span><span type="rp">（</span><span type="rt">テーブル</span><span type="rp">）</span></span>の上に据えました。<lb />
+「その鍵は、多分これでしょう。国府さんは私の兄の前で、<span type="ruby"><span type="rb">吹込</span><span type="rp">（</span><span type="rt">ふきこみ</span><span type="rp">）</span></span>レコード商会から持って来た、一枚のレコードをその中に入れて、この中には素晴らしい遺書が吹込んであるから、鍵は君が保管するようにと、私に渡されたものです」<lb />
+　森之助は紙入れから小さいニッケルメッキの鍵を出して佐瀬弁護士に渡しました。<lb />
+「どんな遺言が吹込んであるか、私には一向わかりませんが、不思議なことにこの手提金庫を預ってから、私の事務所は三度までも盗賊に入られたのです。事務所には金目の物は一つも置きませんから、盗賊は明らかにこの手提金庫を狙ったに相違ないと思い、その後はさる大銀行の保管室に預けて、今日まで事無きを得ました。そんな事情ですから、この金庫の中の吹込レコードからは、飛んでもない事件が飛出さないとも限りません」<lb />
+　佐瀬弁護士はそう言い乍ら、手提金庫の蓋をピンと開けました。<lb />
+　中からは予期した通り放送や事務用に使用する吹込レコードが一枚、丁寧に包んだのが現れて来たのです。<lb />
+　それは会社などで事務用に使用する円筒形のワックスや、軽金属のレコードでは無く、本式の十<span type="ruby"><span type="rb">吋</span><span type="rp">（</span><span type="rt">インチ</span><span type="rp">）</span></span>シェラック盤にプレスしたものですが、いうまでもなくラフで、放送局の録音放送などには、盛んにこれを用いております。<lb />
+「奥さん、この電蓄は使えますでしょうな」<lb />
+「え、どうぞ」<lb />
+　鈴子夫人の承諾を得ると、佐瀬弁護士は部屋の隅に置いてある、豪勢な電気蓄音機の蓋を開け、遺言の吹込んである十<span type="ruby"><span type="rb">吋</span><span type="rp">（</span><span type="rt">インチ</span><span type="rp">）</span></span>レコードを、静かにターン・テーブルの上に置きました。<lb />
+「さて、では鳴らして見ます。このレコードのレーベル（標紙）には、亡くなった国府さんの署名がありますし、私が実物を預って、秘書の森川さんが鍵を持っておられたのですから、このレコードの内容に<span type="ruby"><span type="rb">就</span><span type="rp">（</span><span type="rt">つい</span><span type="rp">）</span></span>ては、も早疑いのないことと思います。――これが一年前に亡くなった国府金弥さんの声なのですから、どうぞその積りでお聴き願います」<lb />
+　佐瀬弁護士はそう言い乍ら、いとも物々しく針をおろしました。<lb />
+　と、レコードは鳴り出しました。声はまさしく少し<span rend="sesame_dot" rendition="em">しわ</span>枯れたバリトンで、亡くなった国府金弥の吹込んだものに相違ありませんが、文句は――何んと、舳来の<span type="ruby"><span type="rb">阿呆駄羅経</span><span type="rp">（</span><span type="rt">あほだらきょう</span><span type="rp">）</span></span>を聴いているようで、何が何やら少しもわからないのです。<lb />
+　時々日本語らしい言葉は出て来ます。母音が多くて、言葉に微妙な陰影のないところは、まさに日本語に相違ありませんが、それが何を言っているのか、少しも意味がわからないのです。<lb />
+　一面のレコードは僅かに三分そこそこで終りました。鈴子夫人始め佐瀬弁護士も森川森之助も、四五人の近親者達も、たがいに顔を見合わせるばかり。<lb />
+「これはどうしたことでしょう。一句も一言もわかりませんが」<lb />
+　佐瀬弁護士が真っ先に匙を投げてしまいました。<lb />
+「外国語ではありませんか」<lb />
+　私はそう申しました。日本語の発音や語脈に違いありませんが、世界の<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かに、こんな言葉が無いとは限らないのです。<lb />
+「いえ、国府は英語と<span type="ruby"><span type="rb">独逸</span><span type="rp">（</span><span type="rt">ドイツ</span><span type="rp">）</span></span>語の外には外国語を存じませんでしたが――」<lb />
+　鈴子夫人は言うのです。この録音された言葉は、明らかに英語でも<span type="ruby"><span type="rb">独逸</span><span type="rp">（</span><span type="rt">ドイツ</span><span type="rp">）</span></span>語でもありません。<lb />
+「どうぞ裏を」<lb />
+　親類の一人に言われると、佐瀬弁護士は急に気が付いたらしく、<lb />
+「そうそう裏をかけて聴くべきでした」<lb />
+　ターン・テーブルのレコードは裏返しにされて、<span type="ruby"><span type="rb">新</span><span type="rp">（</span><span type="rt">あらた</span><span type="rp">）</span></span>に針はおろされました、が、<span type="ruby"><span type="rb">珍</span><span type="rp">（</span><span type="rt">ちん</span><span type="rp">）</span></span>ぷん<span type="ruby"><span type="rb">漢</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>ぷんは同じことで、三分余りの長広舌も、結局何を言ってるのか少しもわかりません。ただ時々耳について、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>までも忘れ兼ねた言葉は「ウレラソロク」という言葉と、もう一つ、「オクズス」という単語だけですが、それも何んの意味やら、私の知ってる範囲の、あらゆる国の言葉を考え合わせましたが、結局は何んの事やら少しも判りません。<lb />
+「このレコードに吹込んだ言葉の意味は何んであろうと、皆様に御披露申上げた上は、弁護士としての私の責任は済んだわけで御座います。このレコードは相続者の鈴子夫人に御保管を願い度いと思いますが、<span type="ruby"><span type="rb">如何</span><span type="rp">（</span><span type="rt">いかが</span><span type="rp">）</span></span>でしょう、御異存は御座いませんか」<lb />
+　佐瀬弁護士は完全に投げてしまいました。たぶん国府金弥老人が死に際に精神が錯乱して、こんなわけの解らぬことをレコードに吹込み、それを物々しく遺したに過ぎないと思い諦めた様子です。<lb />
+「それが一番穏当でしょう」<lb />
+　誰にも異議の筈もありません。<lb />
+「幸い長い間レコードの蒐集をしておられる望月辛吉さんに、この研究はお任せするといたしましょう」<lb />
+　佐瀬弁護士はとうとうこの厄介極まる謎の解釈を、この私――望月辛吉に押し付けてしまったのです。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">五</span></span></span>
+<lb />
+　その後は甚だ愉快でない日が続きました。森川森之助と鈴子夫人が、いよいよ結婚することに決って、二人はいそいそとその<span type="ruby"><span type="rb">仕度</span><span type="rp">（</span><span type="rt">したく</span><span type="rp">）</span></span>を急いでおりますが、我々<span type="ruby"><span type="rb">岡焼党</span><span type="rp">（</span><span type="rt">おかやきとう</span><span type="rp">）</span></span>は、一応言葉の上では<span type="ruby"><span type="rb">目出度</span><span type="rp">（</span><span type="rt">めでた</span><span type="rp">）</span></span>がり乍ら、心の中では甚だ面白くない毎日を送っていたのです。<lb />
+　春が過ぎて初夏になりました。来月早々いよいよ森川森之助は、一千万円の持参金付の女流詩人で、この上もなく美しい鈴子夫人と結婚式を挙げるという通知を<span type="ruby"><span type="rb">受取</span><span type="rp">（</span><span type="rt">うけと</span><span type="rp">）</span></span>った頃、私はうつうつした心持で、当てもない旅を続けておりました。二人の結婚式にも、旅行中という口実で出席を見合わせようといった、意気地もない心持で、熱海の海を眺め乍ら、私は私の作詩ノートに、意味もない<span type="ruby"><span type="rb">悪戯</span><span type="rp">（</span><span type="rt">いたずら</span><span type="rp">）</span></span>書をしていたのです。筆は<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>の間にやら、国府老人の遺言を吹き込んだレコードに頻繁に出て来た言葉「オクズス」というのをローマ字で綴っております。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ＯＫＵＺＵＳＵＯＫＵＺＵＳＵ<lb />
+</span>
+　私は妙なことに気が付きました。この「オクズス」という言葉をローマ字で書いて、逆に読んでいくと、ＳＵＺＵＫＯ（スズコ）となるのです。国府老人の最愛の妻――夫人の名前になるではありませんか。<lb />
+「――――」<lb />
+　私は何んかしら、重大な発見をしたような気がしました。念のためにもう一つレコードに頻繁に出て来る「ウレラソロク」という言葉をローマ字で書いて、<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ＵＲＥＲＡＳＯＲＯＫＵ<lb />
+ＵＲＥＲＡＳＯＲＯＫ<lb />
+</span>
+　最後の母音を一つ削って読み下すと、何んとそれは、この世で一番恐ろしい言葉、<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ＫＯＲＯＳＡＲＥＲＵ「殺される」<lb />
+</span>
+　となるではありませんか。<lb />
+　こんな事が偶然であり得よう筈はありません。これには何んか思いも寄らぬ重大な謎が潜んでいるのでしょう。私はゾッと<span type="ruby"><span type="rb">身顫</span><span type="rp">（</span><span type="rt">みぶる</span><span type="rp">）</span></span>いを感じました。<lb />
+　どうかしたらそれは、死んだ国府老人の秘密であるかもしれず、またあの美しい鈴子夫人の身の上に拘わることかもわからないのです。<lb />
+　私は宿屋の払いもそこそこに、<span type="ruby"><span type="rb">其場</span><span type="rp">（</span><span type="rt">そのば</span><span type="rp">）</span></span>から直ぐ東京へ帰りました。そして夜中乍ら向島の金山荘――かつての国府金弥老の座敷で、今は鈴子夫人が、再縁の夫を迎える仕度に忙しい、晴れやかな隠棲に向ったのです。<lb />
+「まア、こんなに遅く」<lb />
+　出迎えた鈴子夫人の顔には、驚きと非難とが交錯しました。それはもう夜の十一時近かったでしょう。再婚の仕度に忙しい若い夫人を、若い男の訪問する時間では無かったのです。<lb />
+「あのレコードは<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うしました」<lb />
+「あのレコード？」<lb />
+　私の言葉は無作法で<span type="ruby"><span type="rb">無躾</span><span type="rp">（</span><span type="rt">ぶしつけ</span><span type="rp">）</span></span>でした。<lb />
+「あの遺言のレコードです。私にはそれが解けそうな気がするのです。二三日で構いません。私に貸して下さいませんか」<lb />
+「それなら、ある筈ですが、困ったことに二三日前に森川さんが<span type="ruby"><span type="rb">取落</span><span type="rp">（</span><span type="rt">とりおと</span><span type="rp">）</span></span>して割ってしまいましたが」<lb />
+「えッ」<lb />
+「割ったレコードは役に立ちませんから、取捨てようかとは思いましたが、それでは先の夫に済まないと思いまして、<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かに入れてある筈です」<lb />
+　鈴子夫人は、隣の部屋へ行って、暫く捜しておりましたが、やがて例の大型の卓上金庫に入れたまま、割れたレコードを持って来ました。<lb />
+「これは」<lb />
+　手に取って私も驚きました。レコードは正に、真二つに割れているのです。御存じの通り、世の中には割れても欠けても使用出来るものも少くありませんが、蓄音機のレコードばかりは、一度割れたものは、ハンダ付けも糊づけもきかず、サウンド・ボックスにもピックアップにも掛らず、<span type="ruby"><span type="rb">先</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>ず絶対に使用の方法は無いのです。<lb />
+「このレコードに、どんな重大な事が吹込んであるかもしれないので、――<span type="ruby"><span type="rb">飛</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>んだことになりました」<lb />
+　私は憮然として、真二つに割れたレコードを継いで見る外はありません。<lb />
+「あれは<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>の言葉でしょう、望月さん」<lb />
+「それをこれから研究する筈だったのです」<lb />
+「ではお持ち下さいますように――割れたものは仕様がありませんが」<lb />
+　鈴子夫人は、安からぬ様子です。多分割れたレコードを持って、一刻も早く私に帰って貰い度かったのでしょう。<lb />
+　私はレコードを入れた卓上金庫を抱いて、深夜の街を自分の家に帰りました。そして夜の<span type="ruby"><span type="rb">更</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>くるも――いや夜の明くるも忘れて、この割れたレコードの復元と、そのレコードされた言葉を解くことに熱中しました。<lb />
+　割れたレコードは、<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うにもならない事はあまりにも明らかですが、これは娯楽的に聴く音楽のレコードなどと違って、吹込んだ言葉を判断するだけならば、何んとかならないものでもあるまいというのが私の結論でした。<lb />
+　で、翌日は早速町の飾り屋へ行って、レコードをはめ込む鉄板のワクを作らせました。そのワクには浅い縁が取付けられて、十<span type="ruby"><span type="rb">吋</span><span type="rp">（</span><span type="rt">インチ</span><span type="rp">）</span></span>のレコードは、そのままピタリとはめ込まれるようになり、センターの穴さえ合わせておけば、鉄のワクのまま蓄音機のターン・テーブルの上に載せられるのです。<lb />
+　私は静かにスタートをして、針を落して見ました。割れ目のところでカチカチと鳴りますが、先ずは大した<span type="ruby"><span type="rb">差障</span><span type="rp">（</span><span type="rt">さしさわ</span><span type="rp">）</span></span>りなく針が滑って、国府老人のわけの判らぬ遺言が始まります。<lb />
+　相変らず頻繁に出て来るのは、「ウレラソロク」と「オクズス」という言葉です。念のために録音された言葉を全部仮名で書き取って、それをローマ字に直して、逆に読んで見ると――<span type="ruby"><span type="rb">素</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>より意味は甚だ不明瞭ですが、話されている言葉の重大さに、私はすっかり驚いてしまいました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">六</span></span></span>
+<lb />
+　私はフト、<span type="ruby"><span type="rb">田中館愛橘</span><span type="rp">（</span><span type="rt">たなかだてあいきつ</span><span type="rp">）</span></span>博士が、明治二十年頃米国から日本へ持って来た、最初の蓄音機の吹込レコード、当時は<span type="ruby"><span type="rb">錫箔</span><span type="rp">（</span><span type="rt">すずはく</span><span type="rp">）</span></span>を置いた金属板でしたが――それを逆に廻して、日本語はローマ字で書くのが一番適切だと知ったという話を思い出しました。これは老博士御自身の口から聴いた事ですが、――世界の<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>にも、レコードに吹込んだ言葉を逆に廻して、立派に意味のある言葉に聞える国語は無いが、<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>へ行くと日本語は「大馬鹿」（ＯＢＡＫＡ）と吹込んだレコードを逆に廻すと、「赤帽」（ＡＫＡＢＯ）とはっきり聞える。これほどローマ字で書いてピタリと当てはまる構成を持った言葉があろうか――と博士は仰しゃるのです。<lb />
+　私はそれを知っていたばかりに、鈴子夫人を救うことが出来ました。<lb />
+　が、差し当り、このレコードは逆に廻して吹込んだものとわかっても、在来の蓄音機では、レコードを逆に廻す方法はありません。<lb />
+　そこで私は知っている技術家に頼んで、大急ぎで逆に廻る蓄音機を設計して貰いました。その製造に十日ばかり費した為に、出来上ったのは、鈴子夫人と森川森之助の結婚式の前の晩で、<span type="ruby"><span type="rb">丁度</span><span type="rp">（</span><span type="rt">ちょうど</span><span type="rp">）</span></span>その晩は、鈴子夫人のお別れの会に、私共友人達が招待されている時でした。<lb />
+　向島の金山荘に集ったのは、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>もの顔触れで、佐瀬弁護士も、明日はお聟さんになる筈の森川森之助も来ておりました。ミスからミセスになるのではありませんが、兎も角今宵限り国府未亡人の古い着物を脱ぎ捨てて、明日は森川夫人になるのですから、この別れの会は、なかなかに意味の深いものでした。<lb />
+　一とわたり御馳走が済んで、別室に退いてお茶が始まった時、私は、<lb />
+「さて皆様、か様な席上に<span type="ruby"><span type="rb">持出</span><span type="rp">（</span><span type="rt">もちだ</span><span type="rp">）</span></span>すのは、甚だ無躾で相済みませんが、明日は森川夫人になられる鈴子さんに、国府未亡人の最後の思い出として、金弥老人の吹込み遺した、レコードをお聴かせしようと思います」<lb />
+「――――」<lb />
+　一座は思わずシンとなりました。このお別れの席とはいうものの、間違いもなく歓楽の席上に、死んだ老人の声などを聴かせるのは、不都合千万な物好きと思った様子です。<lb />
+「それは意義のあることだ。是非<span type="ruby"><span type="rb">承</span><span type="rp">（</span><span type="rt">うけたま</span><span type="rp">）</span></span>わり度い。あのレコードは<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>の国語か知らないが、望月君の翻訳で聴くのも一段ではないか」<lb />
+　そう言ってくれたのは明日は花聟になる森川森之助でした。<lb />
+「では」<lb />
+　私は玄関に置いて来た手提の蓄音機を取寄せると、<span type="ruby"><span type="rb">卓</span><span type="rp">（</span><span type="rt">テーブル</span><span type="rp">）</span></span>の上に据えました。まことに古風な機械ですが、逆に廻転するように急に設計さしたもので、これでも精一杯の細工です。<lb />
+　鉄のワクにはめたレコードをターン・テーブルの上に置き、気の減るほどハンドルを廻して、さて、普通はレコードの縁に近く下す針を、私は中の標紙のところ、巻込みの太い線の外に下しました。<lb />
+　昔――四五十年前のフランスのパテー・レコードには、針が中から外へ廻る蓄音機がありましたが、それは今日の蓄音機と同じ時計巻で、私の設計した蓄音機は、それとも反対に全く逆に廻るのです。<lb />
+　レコードの廻るにつれて、ポータブルの蓄音機から、朗々と吹込んだ声が響き渡りました。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+――私は国府金弥だ。最早余命も長いことはあるまい、私はある人に間もなく殺されるだろう、が、命のあるうちに、妻の鈴子や親切だった友人達、わけても私の顧問弁護士の佐瀬渉氏に、これだけの事を言い遺して置き度い――<lb />
+</span>
+　これはまさに国府金弥老人の声です。言葉の意味も舶来の阿呆陀羅経どころではなく、あまりにもよくわかります。<lb />
+　レコードの言葉は続きました。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+――私を殺そうとしているのは、思いもよらぬ人間だ。その人間は私の小切手を偽造して、この三年間に数十万円の横領を働いているが、私は相手の将来の事を考え、悔悛の余地を与えるために、<span type="ruby"><span type="rb">敢</span><span type="rp">（</span><span type="rt">あえ</span><span type="rp">）</span></span>てそれを摘発しなかった。それは今となっては、かえって取返しのつかぬ<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">わざわい</span><span type="rp">）</span></span>になってしまった。その人間は私の同情を裏切って、自分の罪を永久に隠しおわせるために、私の毒殺を計画し、着々実行を進めていることが、今――肝臓に致命的な傷害を受けてから始めて発見されたのだ。<lb />
+</span>
+　それは実に恐ろしい言葉でした。鈴子夫人を始め、一座は<span type="ruby"><span type="rb">固唾</span><span type="rp">（</span><span type="rt">かたず</span><span type="rp">）</span></span>を呑んで聴き入るばかり。<lb />
+「よそう、それは死に際の老人の幻想では無いか、そんな言葉のために、善良な人は、どんな迷惑をするかわからない」<lb />
+　一座のうちに、たった一人そう言った者があります。一同の眼はその人の顔に注がれました。それは森川森之助の真っ蒼な顔ですが、今となっては、最早取合う者もなく、レコードは宿命的な速さで、相変らず語り続けます。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+――その悪人は今私の最愛の妻鈴子を迷わそうとしている。鈴子は純潔で聡明な女だが、惜しいことにまだ年が若過ぎる為に、悪人の無道残虐な本心を見抜くことが出来ず、その悪人は私の遺産の一千万円を狙っているとも気が付かず、悪人の若さと弁才と、その美青年振りに惑わされて、危い淵の上を歩んでいる。私は鈴子をとがめる意志は毛頭無く、死んだ後の財産など素よりどうなっても構わないが、その悪人には既に妻があり、鈴子を欺いて二重結婚をし、私から譲られた財産を横取りしようと企らんでいることは眼に見えるようだ。その証拠は<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>にあるか、悪人の名は何んというか、それは――<lb />
+</span>
+　<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>でＡ面は終りになりました。恐ろしい沈黙に陥った人々の中に、<lb />
+「よそう、もう、馬鹿馬鹿しいではないか」<lb />
+　森川森之助だけが厳重に抗議しますが、<lb />
+「いえ、裏を聴きましょう、――亡くなった人の言葉は尊敬しなければなりません、望月さんどうぞ」<lb />
+　青白く<span type="ruby"><span type="rb">引緊</span><span type="rp">（</span><span type="rt">ひきしま</span><span type="rp">）</span></span>った額、激情と恐怖と、絶望とにワナワナと顫えている鈴子夫人は、最後の勇気を振い起して、私に裏のＢ面をかけるように望むのです。<lb />
+　鉄のワクから外したレコードは、今度は裏の方を表にしてワクにはめられ、ターン・テーブルの上に廻り始めました。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+――証拠は佐瀬弁護士に預けてある、厳封をした大封筒にみんな入れてある。偽造小切手の始末、悪人の妻の隠れ家とその名、それから私の肝臓を致命的にするために、悪人の手に入れた薬の処方箋と、それを売った薬屋の名、北村博士の診断――<lb />
+</span>
+　レコードはそろそろ峻烈な論告に入りました。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+――私はこれだけの事を鈴子に教え度いと思ったが、悪人の巧言に惑わされた鈴子は、この老人の言葉を容易に信じてはくれまい。そこで卑怯な条件を設けて、鈴子の再婚を一年延期させた。一年経ったならば、鈴子の聡明さで、悪人の本性を見破れない筈はあるまいと思ったのだ。そうすれば、私の処置が老人の醜い嫉妬のためで無かったとわかってくれるだろう。私の死んだ後で、鈴子は誰と再婚しようとそれは勝手だ。鈴子の幸福のために、私も心からそれを望んでやまないが、小切手偽造犯人や、二重結婚者で、私を毒殺した相手とだけは一緒になってもらい度くない。一年経って鈴子がまだ悪人の本性が見破れなかったら、このレコードに吹込んだ遺言状で、悪人を告発し、鈴子を救う外は無い。<lb />
+　レコードを逆廻しに吹込んだのは、万一の場合にも悪人に覚られない為だ。吹込みレコード会社の好意でそれは出来上ったが、どうせ悪人に知れずに済むまいと思って、レコードは佐瀬弁護士に、レコード箱の鍵はわざと森川森之助に預けて置く。<lb />
+　レコードを逆に廻す事は、レコード通の望月辛吉君が気が付いてくれるだろう。万一気が付かなければこのゲームは私の負けだ。<lb />
+　さて最後に私を殺し、数十万円の小切手を偽造し、二重結婚を企らんでいる稀代の悪人の名を言おう、それは――「森川森之助だ」<lb />
+</span>
+　レコードは終りました。ハッと息を呑んで<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>を見廻すと、<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>にいた筈の森川森之助は、<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>へ行ったか影も形もありません。<lb />
+　振り返ると真っ蒼になった鈴子夫人の顔、――絶望と悲歎に打ちのめされてよろよろとなった弾みに、ひしと私の手に<span type="ruby"><span type="rb">縋</span><span type="rp">（</span><span type="rt">すが</span><span type="rp">）</span></span>りついておりました。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">フィナーレ</span></span></span>
+<lb />
+「森川森之助は捕えられて小切手偽造犯人として処刑されました。国府老人殺しの<span type="ruby"><span type="rb">疑</span><span type="rp">（</span><span type="rt">うたがい</span><span type="rp">）</span></span>は十分にあったのですが、証拠不十分でそれは不起訴になったことは、皆様も御存じのことと思います。<lb />
+　そして鈴子夫人は、三年余りの静養の後、今は心の傷も癒えて、今度こそは幸福な再婚をする筈です、――その相手は、さア、それは皆様の御察しに任せましょう」<lb />
+　話し手の望月辛吉は、思わせ振りの言葉を残して、悠々と壇を降りました。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

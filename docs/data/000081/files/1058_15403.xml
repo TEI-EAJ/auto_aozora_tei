@@ -1,0 +1,3627 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>『春と修羅』</title>
+        <author>宮沢賢治</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2000-10-04">作成</resp><resp /><note>
+<lb />
+底本：「宮沢賢治全集1」ちくま文庫、筑摩書房<lb />
+　　　1986（昭和61）年2月26日第1刷発行<lb />
+　　　1998（平成10）年5月12日第17刷発行<lb />
+※底本で注を表す記号として用いられていた「※」は「＊」に置き換えました。<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：柴田卓治<lb />
+校正：かとうかおり<lb />
+<date when="2000-10-04">2000年10月4日</date>公開<lb />
+<date when="2011-05-11">2011年5月11日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>柴田卓治</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>かとうかおり</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>『春と修羅』</title><author>宮沢賢治</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+　　　　　<span rend="sho1" style="font-size: small;">心象スケツチ</span><lb />
+　　　　　　春と修羅<lb />
+　　　　　　　　　<span rend="sho1" style="font-size: small;">大正十一、二年</span><lb />
+<lb />
+<lb />
+<span rend="notes">［＃改丁］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">序</span></span></span>
+<lb />
+<lb />
+わたくしといふ現象は<lb />
+仮定された有機交流電燈の<lb />
+ひとつの青い照明です<lb />
+（あらゆる透明な幽霊の複合体）<lb />
+風景やみんなといつしよに<lb />
+せはしくせはしく明滅しながら<lb />
+いかにもたしかにともりつづける<lb />
+因果交流電燈の<lb />
+ひとつの青い照明です<lb />
+（ひかりはたもち　その電燈は失はれ）<lb />
+<lb />
+これらは二十二箇月の<lb />
+過去とかんずる方角から<lb />
+紙と鉱質インクをつらね<lb />
+（すべてわたくしと明滅し<lb />
+　みんなが同時に感ずるもの）<lb />
+ここまでたもちつゞけられた<lb />
+かげとひかりのひとくさりづつ<lb />
+そのとほりの心象スケツチです<lb />
+<lb />
+これらについて人や銀河や修羅や海胆は<lb />
+宇宙塵をたべ　または空気や塩水を呼吸しながら<lb />
+それぞれ新鮮な本体論もかんがへませうが<lb />
+それらも畢竟こゝろのひとつの風物です<lb />
+たゞたしかに記録されたこれらのけしきは<lb />
+記録されたそのとほりのこのけしきで<lb />
+それが虚無ならば虚無自身がこのとほりで<lb />
+ある程度まではみんなに共通いたします<lb />
+（すべてがわたくしの中のみんなであるやうに<lb />
+　みんなのおのおののなかのすべてですから）<lb />
+<lb />
+けれどもこれら新生代沖積世の<lb />
+巨大に明るい時間の集積のなかで<lb />
+正しくうつされた筈のこれらのことばが<lb />
+わづかその一点にも均しい明暗のうちに<lb />
+　　（あるいは修羅の十億年）<lb />
+すでにはやくもその組立や質を変じ<lb />
+しかもわたくしも印刷者も<lb />
+それを変らないとして感ずることは<lb />
+傾向としてはあり得ます<lb />
+けだしわれわれがわれわれの感官や<lb />
+風景や人物をかんずるやうに<lb />
+そしてたゞ共通に感ずるだけであるやうに<lb />
+記録や歴史　あるいは地史といふものも<lb />
+それのいろいろの<span type="ruby"><span type="rb">論料</span><span type="rp">（</span><span type="rt">データ</span><span type="rp">）</span></span>といつしよに<lb />
+（因果の時空的制約のもとに）<lb />
+われわれがかんじてゐるのに過ぎません<lb />
+おそらくこれから二千年もたつたころは<lb />
+それ相当のちがつた地質学が流用され<lb />
+相当した証拠もまた次次過去から現出し<lb />
+みんなは二千年ぐらゐ前には<lb />
+青ぞらいつぱいの無色な孔雀が居たとおもひ<lb />
+新進の大学士たちは気圏のいちばんの上層<lb />
+きらびやかな氷窒素のあたりから<lb />
+すてきな化石を発掘したり<lb />
+あるいは白堊紀砂岩の層面に<lb />
+透明な人類の巨大な足跡を<lb />
+発見するかもしれません<lb />
+<lb />
+すべてこれらの命題は<lb />
+心象や時間それ自身の性質として<lb />
+第四次延長のなかで主張されます<lb />
+<lb />
+<lb />
+<lb />
+　　　　　大正十三年一月廿日<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">宮沢賢治</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">春と修羅</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">屈折率</span></span></span>
+<lb />
+<lb />
+七つ森のこつちのひとつが<lb />
+水の中よりもつと明るく<lb />
+そしてたいへん巨きいのに<lb />
+わたくしはでこぼこ凍つたみちをふみ<lb />
+このでこぼこの雪をふみ<lb />
+向ふの縮れた<span type="ruby"><span type="rb">亜鉛</span><span type="rp">（</span><span type="rt">あえん</span><span type="rp">）</span></span>の雲へ<lb />
+陰気な郵便<span type="ruby"><span type="rb">脚夫</span><span type="rp">（</span><span type="rt">きやくふ</span><span type="rp">）</span></span>のやうに<lb />
+　　（またアラツデイン　<span type="ruby"><span type="rb">洋燈</span><span type="rp">（</span><span type="rt">ラムプ</span><span type="rp">）</span></span>とり）<lb />
+急がなければならないのか<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一、六）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">くらかけの雪</span></span></span>
+<lb />
+<lb />
+たよりになるのは<lb />
+くらかけつづきの雪ばかり<lb />
+野はらもはやしも<lb />
+ぽしやぽしやしたり<span type="ruby"><span type="rb">黝</span><span type="rp">（</span><span type="rt">くす</span><span type="rp">）</span></span>んだりして<lb />
+すこしもあてにならないので<lb />
+ほんたうにそんな<span type="ruby"><span type="rb">酵母</span><span type="rp">（</span><span type="rt">かうぼ</span><span type="rp">）</span></span>のふうの<lb />
+<span type="ruby"><span type="rb">朧</span><span type="rp">（</span><span type="rt">おぼ</span><span type="rp">）</span></span>ろなふぶきですけれども<lb />
+ほのかなのぞみを送るのは<lb />
+くらかけ山の雪ばかり<lb />
+　　（ひとつの<span type="ruby"><span type="rb">古風</span><span type="rp">（</span><span type="rt">こふう</span><span type="rp">）</span></span>な信仰です）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一、六）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">日輪と太市</span></span></span>
+<lb />
+<lb />
+日は今日は小さな天の銀盤で<lb />
+雲がその<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">めん</span><span type="rp">）</span></span>を<lb />
+どんどん侵してかけてゐる<lb />
+<span type="ruby"><span type="rb">吹雪</span><span type="rp">（</span><span type="rt">フキ</span><span type="rp">）</span></span>も光りだしたので<lb />
+太市は<span type="ruby"><span type="rb">毛布</span><span type="rp">（</span><span type="rt">けつと</span><span type="rp">）</span></span>の赤いズボンをはいた<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一、九）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">丘の眩惑</span></span></span>
+<lb />
+<lb />
+ひとかけづつきれいにひかりながら<lb />
+そらから雪はしづんでくる<lb />
+<span type="ruby"><span type="rb">電</span><span type="rp">（</span><span type="rt">でん</span><span type="rp">）</span></span>しんばしらの影の<span type="ruby"><span type="rb">藍<span facs="../../../gaiji/2-91/2-91-94.png" rend="gaiji" rendition="img" source="※(「靜のへん＋定」、第4水準2-91-94)" /></span><span type="rp">（</span><span type="rt">インデイゴ</span><span type="rp">）</span></span>や<lb />
+ぎらぎらの丘の照りかへし<lb />
+<lb />
+　　あすこの農夫の<span type="ruby"><span type="rb">合羽</span><span type="rp">（</span><span type="rt">かつぱ</span><span type="rp">）</span></span>のはじが<lb />
+　　どこかの風に鋭く截りとられて来たことは<lb />
+　　一千八百十年<span type="ruby"><span type="rb">代</span><span type="rp">（</span><span type="rt">だい</span><span type="rp">）</span></span>の<lb />
+　　佐野喜の木版に相当する<lb />
+<lb />
+野はらのはてはシベリヤの天<span type="ruby"><span type="rb">末</span><span type="rp">（</span><span type="rt">まつ</span><span type="rp">）</span></span><lb />
+土耳古<span type="ruby"><span type="rb">玉製玲瓏</span><span type="rp">（</span><span type="rt">ぎよくせいれいろう</span><span type="rp">）</span></span>のつぎ目も光り<lb />
+　　　　（お日さまは<lb />
+　　　　　そらの遠くで白い火を<lb />
+　　　　　どしどしお焚きなさいます）<lb />
+<lb />
+笹の雪が<lb />
+燃え落ちる　燃え落ちる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一、一二）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">カーバイト倉庫</span></span></span>
+<lb />
+<lb />
+まちなみのなつかしい灯とおもつて<lb />
+いそいでわたくしは雪と<span type="ruby"><span type="rb">蛇紋岩</span><span type="rp">（</span><span type="rt">サーベンタイン</span><span type="rp">）</span></span>との<lb />
+<span type="ruby"><span type="rb">山峡</span><span type="rp">（</span><span type="rt">さんけふ</span><span type="rp">）</span></span>をでてきましたのに<lb />
+これはカーバイト倉庫の軒<lb />
+すきとほつてつめたい電燈です<lb />
+　　（<span type="ruby"><span type="rb">薄明</span><span type="rp">（</span><span type="rt">はくめい</span><span type="rp">）</span></span>どきのみぞれにぬれたのだから<lb />
+　　　巻烟草に一本火をつけるがいい）<lb />
+これらなつかしさの擦過は<lb />
+寒さからだけ来たのでなく<lb />
+またさびしいためからだけでもない<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一、一二）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">コバルト山地</span></span></span>
+<lb />
+<lb />
+コバルト<span type="ruby"><span type="rb">山地</span><span type="rp">（</span><span type="rt">さんち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">氷霧</span><span type="rp">（</span><span type="rt">ひようむ</span><span type="rp">）</span></span>のなかで<lb />
+あやしい朝の火が燃えてゐます<lb />
+<span type="ruby"><span type="rb">毛無森</span><span type="rp">（</span><span type="rt">けなしのもり</span><span type="rp">）</span></span>のきり跡あたりの<span type="ruby"><span type="rb">見当</span><span type="rp">（</span><span type="rt">けんたう</span><span type="rp">）</span></span>です<lb />
+たしかにせいしんてきの白い火が<lb />
+水より強くどしどしどしどし燃えてゐます<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一、二二）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">ぬすびと</span></span></span>
+<lb />
+<lb />
+青じろい骸骨星座のよあけがた<lb />
+凍えた泥の<span type="ruby"><span type="rb">乱</span><span type="rp">（</span><span type="rt">らん</span><span type="rp">）</span></span>反射をわたり<lb />
+店さきにひとつ置かれた<lb />
+提婆のかめをぬすんだもの<lb />
+にはかにもその長く黒い脚をやめ<lb />
+二つの耳に二つの手をあて<lb />
+電線のオルゴールを聴く<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、三、二）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">恋と病熱</span></span></span>
+<lb />
+<lb />
+けふはぼくのたましひは疾み<lb />
+<span type="ruby"><span type="rb">烏</span><span type="rp">（</span><span type="rt">からす</span><span type="rp">）</span></span>さへ正視ができない<lb />
+　あいつはちやうどいまごろから<lb />
+　つめたい<span type="ruby"><span type="rb">青銅</span><span type="rp">（</span><span type="rt">ブロンヅ</span><span type="rp">）</span></span>の病室で<lb />
+　透明<span type="ruby"><span type="rb">薔薇</span><span type="rp">（</span><span type="rt">ばら</span><span type="rp">）</span></span>の火に燃される<lb />
+ほんたうに　けれども妹よ<lb />
+けふはぼくもあんまりひどいから<lb />
+やなぎの花もとらない<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、三、二〇）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi290">
+春と修羅<lb />
+　　（mental sketch modified）<lb />
+</span></span>
+</span>
+<lb />
+<lb />
+心象のはひいろはがねから<lb />
+あけびのつるはくもにからまり<lb />
+のばらのやぶや腐植の湿地<lb />
+いちめんのいちめんの<span type="ruby"><span type="rb">諂曲</span><span type="rp">（</span><span type="rt">てんごく</span><span type="rp">）</span></span>模様<lb />
+（正午の<span type="ruby"><span type="rb">管楽</span><span type="rp">（</span><span type="rt">くわんがく</span><span type="rp">）</span></span>よりもしげく<lb />
+　琥珀のかけらがそそぐとき）<lb />
+いかりのにがさまた青さ<lb />
+四月の気層のひかりの底を<lb />
+<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つばき</span><span type="rp">）</span></span>し　はぎしりゆききする<lb />
+おれはひとりの修羅なのだ<lb />
+（風景はなみだにゆすれ）<lb />
+砕ける雲の<span type="ruby"><span type="rb">眼路</span><span type="rp">（</span><span type="rt">めぢ</span><span type="rp">）</span></span>をかぎり<lb />
+　れいろうの天の海には<lb />
+　　<span type="ruby"><span type="rb">聖玻璃</span><span type="rp">（</span><span type="rt">せいはり</span><span type="rp">）</span></span>の風が行き交ひ<lb />
+　　　ZYPRESSEN 春のいちれつ<lb />
+　　　　くろぐろと<span type="ruby"><span type="rb">光素</span><span type="rp">（</span><span type="rt">エーテル</span><span type="rp">）</span></span>を吸ひ<lb />
+　　　　　その暗い脚並からは<lb />
+　　　　　　天山の雪の稜さへひかるのに<lb />
+　　　　　　（かげろふの波と白い偏光）<lb />
+　　　　　　まことのことばはうしなはれ<lb />
+　　　　　雲はちぎれてそらをとぶ<lb />
+　　　　ああかがやきの四月の底を<lb />
+　　　はぎしり燃えてゆききする<lb />
+　　おれはひとりの修羅なのだ<lb />
+　　（玉髄の雲がながれて<lb />
+　　　どこで啼くその春の鳥）<lb />
+　　日輪青くかげろへば<lb />
+　　　　修羅は樹林に交響し<lb />
+　　　　　陥りくらむ天の椀から<lb />
+　　　　　　黒い木の群落が延び<lb />
+　　　　　　　その枝はかなしくしげり<lb />
+　　　　　　すべて二重の風景を<lb />
+　　　　　喪神の森の梢から<lb />
+　　　　ひらめいてとびたつからす<lb />
+　　　　（気層いよいよすみわたり<lb />
+　　　　　ひのきもしんと天に立つころ）<lb />
+草地の黄金をすぎてくるもの<lb />
+ことなくひとのかたちのもの<lb />
+けらをまとひおれを見るその農夫<lb />
+ほんたうにおれが見えるのか<lb />
+まばゆい気圏の海のそこに<lb />
+（かなしみは青々ふかく）<lb />
+ZYPRESSEN しづかにゆすれ<lb />
+鳥はまた青ぞらを截る<lb />
+（まことのことばはここになく<lb />
+　修羅のなみだはつちにふる）<lb />
+<lb />
+あたらしくそらに息つけば<lb />
+ほの白く肺はちぢまり<lb />
+（このからだそらのみぢんにちらばれ）<lb />
+いてふのこずゑまたひかり<lb />
+ZYPRESSEN いよいよ黒く<lb />
+雲の火ばなは降りそそぐ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、四、八<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">春光呪咀</span></span></span>
+<lb />
+<lb />
+いつたいそいつはなんのざまだ<lb />
+どういふことかわかつてゐるか<lb />
+髪がくろくてながく<lb />
+しんとくちをつぐむ<lb />
+ただそれつきりのことだ<lb />
+　　春は草穂に<span type="ruby"><span type="rb">呆</span><span type="rp">（</span><span type="rt">ぼう</span><span type="rp">）</span></span>け<lb />
+　　うつくしさは消えるぞ<lb />
+　　　　（ここは蒼ぐろくてがらんとしたもんだ）<lb />
+頬がうすあかく瞳の茶いろ<lb />
+ただそれつきりのことだ<lb />
+　　　　　　　（おおこのにがさ青さつめたさ）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、四、一〇）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi310">有明</span></span></span>
+<lb />
+<lb />
+起伏の雪は<lb />
+あかるい桃の<span type="ruby"><span type="rb">漿</span><span type="rp">（</span><span type="rt">しる</span><span type="rp">）</span></span>をそそがれ<lb />
+青ぞらにとけのこる月は<lb />
+やさしく天に<span type="ruby"><span type="rb">咽喉</span><span type="rp">（</span><span type="rt">のど</span><span type="rp">）</span></span>を鳴らし<lb />
+もいちど散乱のひかりを呑む<lb />
+　　（<span type="ruby"><span type="rb">波羅僧羯諦</span><span type="rp">（</span><span type="rt">ハラサムギヤテイ</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">菩提</span><span type="rp">（</span><span type="rt">ボージユ</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">薩婆訶</span><span type="rp">（</span><span type="rt">ソハカ</span><span type="rp">）</span></span>）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、四、一三）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi320">谷</span></span></span>
+<lb />
+<lb />
+ひかりの澱<lb />
+三角ばたけのうしろ<lb />
+かれ草層の上で<lb />
+わたくしの見ましたのは<lb />
+顔いつぱいに赤い点うち<lb />
+硝子<span type="ruby"><span type="rb">様</span><span type="rp">（</span><span type="rt">やう</span><span type="rp">）</span></span>鋼青のことばをつかつて<lb />
+しきりに歪み合ひながら<lb />
+何か相談をやつてゐた<lb />
+三人の妖女たちです<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、四、二〇）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi330">陽ざしとかれくさ</span></span></span>
+<lb />
+<lb />
+　　　　どこからかチーゼルが刺し<lb />
+　　　　<span type="ruby"><span type="rb">光</span><span type="rp">（</span><span type="rt">くわう</span><span type="rp">）</span></span>パラフヰンの　蒼いもや<lb />
+　　　　わをかく　わを描く　からす<lb />
+　　　　烏の軋り……からす器械……<lb />
+（これはかはりますか）<lb />
+（かはります）<lb />
+（これはかはりますか）<lb />
+（かはります）<lb />
+（これはどうですか）<lb />
+（かはりません）<lb />
+（そんなら　おい　ここに<lb />
+　雲の棘をもつて来い　はやく）<lb />
+（いゝえ　かはります　かはります）<lb />
+　　　　………………………刺し<lb />
+　　　　光パラフヰンの蒼いもや<lb />
+　　　　わをかく　わを描く　からす<lb />
+　　　　からすの軋り……からす機関<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、四、二三）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi340">雲の信号</span></span></span>
+<lb />
+<lb />
+あゝいゝな　せいせいするな<lb />
+風が吹くし<lb />
+農具はぴかぴか光つてゐるし<lb />
+山はぼんやり<lb />
+<span type="ruby"><span type="rb">岩頸</span><span type="rp">（</span><span type="rt">がんけい</span><span type="rp">）</span></span>だつて<span type="ruby"><span type="rb">岩鐘</span><span type="rp">（</span><span type="rt">がんしよう</span><span type="rp">）</span></span>だつて<lb />
+みんな時間のないころのゆめをみてゐるのだ<lb />
+　　そのとき雲の信号は<lb />
+　　もう青白い春の<lb />
+　　禁慾のそら高く<span type="ruby"><span type="rb">掲</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>げられてゐた<lb />
+山はぼんやり<lb />
+きつと四本杉には<lb />
+今夜は雁もおりてくる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、一〇）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi350">風景</span></span></span>
+<lb />
+<lb />
+雲はたよりないカルボン酸<lb />
+さくらは咲いて日にひかり<lb />
+また風が来てくさを吹けば<lb />
+截られたたらの木もふるふ<lb />
+　さつきはすなつちに<span type="ruby"><span type="rb">廐肥</span><span type="rp">（</span><span type="rt">きうひ</span><span type="rp">）</span></span>をまぶし<lb />
+　　　（いま青ガラスの模型の底になつてゐる）<lb />
+ひばりのダムダム<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">だん</span><span type="rp">）</span></span>がいきなりそらに飛びだせば<lb />
+　　風は青い喪神をふき<lb />
+　　黄金の草　ゆするゆする<lb />
+　　　　雲はたよりないカルボン酸<lb />
+　　　　さくらが日に光るのはゐなか<span type="ruby"><span type="rb">風</span><span type="rp">（</span><span type="rt">ふう</span><span type="rp">）</span></span>だ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、一二）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi360">習作</span></span></span>
+<lb />
+<lb />
+キンキン光る<lb />
+<span type="ruby"><span type="rb">西班尼</span><span type="rp">（</span><span type="rt">すぱにあ</span><span type="rp">）</span></span>製です<lb />
+　　（つめくさ　つめくさ）<lb />
+こんな舶来の草地でなら<lb />
+黒砂糖のやうな甘つたるい声で唄つてもいい<lb />
+と　┃　また鞭をもち赤い上着を着てもいい<lb />
+ら　┃　ふくふくしてあたたかだ<lb />
+よ　┃　野ばらが咲いてゐる　白い花<lb />
+と　┃　秋には熟したいちごにもなり<lb />
+す　┃　硝子のやうな実にもなる野ばらの花だ<lb />
+れ　┃　　立ちどまりたいが立ちどまらない<lb />
+ば　┃　とにかく花が白くて足なが蜂のかたちなのだ<lb />
+そ　┃　みきは黒くて<span type="ruby"><span type="rb">黒檀</span><span type="rp">（</span><span type="rt">こくたん</span><span type="rp">）</span></span>まがひ<lb />
+の　┃　　（あたまの奥のキンキン光つて痛いもや）<lb />
+手　┃　このやぶはずゐぶんよく据ゑつけられてゐると<lb />
+か　┃　かんがへたのはすぐこの上だ<lb />
+ら　┃　じつさい岩のやうに<lb />
+こ　┃　船のやうに<lb />
+と　┃　据ゑつけられてゐたのだから<lb />
+り　┃　……仕方ない<lb />
+は　┃　ほうこの麦の間に何を播いたんだ<lb />
+そ　┃　すぎなだ<lb />
+ら　┃　すぎなを麦の間作ですか<lb />
+へ　┃　<span type="ruby"><span type="rb">柘植</span><span type="rp">（</span><span type="rt">つげ</span><span type="rp">）</span></span>さんが<lb />
+と　┃　ひやかしに云つてゐるやうな<lb />
+ん　┃　そんな<span type="ruby"><span type="rb">口調</span><span type="rp">（</span><span type="rt">くてう</span><span type="rp">）</span></span>がちやんとひとり<lb />
+で　┃　私の中に棲んでゐる<lb />
+行　┃　<span type="ruby"><span type="rb">和賀</span><span type="rp">（</span><span type="rt">わが</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">混</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>んだ松並木のときだつて<lb />
+く　┃　さうだ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、一四）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi370">休息</span></span></span>
+<lb />
+<lb />
+そのきらびやかな空間の<lb />
+上部にはきんぽうげが咲き<lb />
+　（上等の <span type="ruby"><span type="rb">butter-cup</span><span type="rp">（</span><span type="rt">バツタカツプ</span><span type="rp">）</span></span> ですが<lb />
+　　<span type="ruby"><span type="rb">牛酪</span><span type="rp">（</span><span type="rt">バター</span><span type="rp">）</span></span>よりは硫黄と蜜とです）<lb />
+下にはつめくさや芹がある<lb />
+ぶりき細工のとんぼが飛び<lb />
+雨はぱちぱち鳴つてゐる<lb />
+　（よしきりはなく　なく<lb />
+　　それにぐみの木だつてあるのだ）<lb />
+からだを草に投げだせば<lb />
+雲には白いとこも黒いとこもあつて<lb />
+みんなぎらぎら湧いてゐる<lb />
+帽子をとつて投げつければ黒いきのこしやつぽ<lb />
+ふんぞりかへればあたまはどての向ふに行く<lb />
+あくびをすれば<lb />
+そらにも悪魔がでて来てひかる<lb />
+　このかれくさはやはらかだ<lb />
+　もう極上のクツシヨンだ<lb />
+雲はみんなむしられて<lb />
+青ぞらは巨きな網の目になつた<lb />
+それが底びかりする鉱物板だ<lb />
+　よしきりはひつきりなしにやり<lb />
+　ひでりはパチパチ降つてくる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、一四）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi380">おきなぐさ</span></span></span>
+<lb />
+<lb />
+風はそらを吹き<lb />
+そのなごりは草をふく<lb />
+おきなぐさ<span type="ruby"><span type="rb">冠毛</span><span type="rp">（</span><span type="rt">くわんもう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">質直</span><span type="rp">（</span><span type="rt">しつぢき</span><span type="rp">）</span></span><lb />
+松とくるみは宙に立ち<lb />
+　　（どこのくるみの木にも<lb />
+　　　いまみな<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>のあかごがぶらさがる）<lb />
+ああ黒のしやつぽのかなしさ<lb />
+おきなぐさのはなをのせれば<lb />
+幾きれうかぶ<span type="ruby"><span type="rb">光酸</span><span type="rp">（</span><span type="rt">くわうさん</span><span type="rp">）</span></span>の雲<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、一七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi390">かはばた</span></span></span>
+<lb />
+<lb />
+かはばたで鳥もゐないし<lb />
+（われわれのしよふ<span type="ruby"><span type="rb">燕麦</span><span type="rp">（</span><span type="rt">オート</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">種子</span><span type="rp">（</span><span type="rt">たね</span><span type="rp">）</span></span>は）<lb />
+風の中からせきばらひ<lb />
+おきなぐさは伴奏をつゞけ<lb />
+光のなかの二人の子<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、一七）</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi490">真空溶媒</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi500">
+真空溶媒<lb />
+　　（Eine Phantasie im Morgen）<lb />
+</span></span>
+</span>
+<lb />
+<lb />
+融銅はまだ<span type="ruby"><span type="rb">眩</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>めかず<lb />
+白いハロウも燃えたたず<lb />
+地平線ばかり明るくなつたり<span type="ruby"><span type="rb">陰</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>つたり<lb />
+はんぶん溶けたり澱んだり<lb />
+しきりにさつきからゆれてゐる<lb />
+おれは新らしくてパリパリの<lb />
+<span type="ruby"><span type="rb">銀杏</span><span type="rp">（</span><span type="rt">いてふ</span><span type="rp">）</span></span>なみきをくぐつてゆく<lb />
+その一本の水平なえだに<lb />
+りつぱな硝子のわかものが<lb />
+もうたいてい三角にかはつて<lb />
+そらをすきとほしてぶらさがつてゐる<lb />
+けれどもこれはもちろん<lb />
+そんなにふしぎなことでもない<lb />
+おれはやつぱり口笛をふいて<lb />
+大またにあるいてゆくだけだ<lb />
+いてふの葉ならみんな青い<lb />
+冴えかへつてふるへてゐる<lb />
+いまやそこらは alcohol 瓶のなかのけしき<lb />
+白い<span type="ruby"><span type="rb">輝雲</span><span type="rp">（</span><span type="rt">きうん</span><span type="rp">）</span></span>のあちこちが切れて<lb />
+あの永久の<span type="ruby"><span type="rb">海蒼</span><span type="rp">（</span><span type="rt">かいさう</span><span type="rp">）</span></span>がのぞきでてゐる<lb />
+それから新鮮なそらの<span type="ruby"><span type="rb">海鼠</span><span type="rp">（</span><span type="rt">なまこ</span><span type="rp">）</span></span>の匂<lb />
+ところがおれはあんまりステツキをふりすぎた<lb />
+こんなににはかに木がなくなつて<lb />
+眩ゆい<span type="ruby"><span type="rb">芝生</span><span type="rp">（</span><span type="rt">しばふ</span><span type="rp">）</span></span>がいつぱいいつぱいにひらけるのは<lb />
+さうとも　<span type="ruby"><span type="rb">銀杏並樹</span><span type="rp">（</span><span type="rt">いてふなみき</span><span type="rp">）</span></span>なら<lb />
+もう二哩もうしろになり<lb />
+野の<span type="ruby"><span type="rb">緑青</span><span type="rp">（</span><span type="rt">ろくしやう</span><span type="rp">）</span></span>の縞のなかで<lb />
+あさの練兵をやつてゐる<lb />
+うらうら湧きあがる<span type="ruby"><span type="rb">昧爽</span><span type="rp">（</span><span type="rt">まいさう</span><span type="rp">）</span></span>のよろこび<lb />
+氷ひばりも啼いてゐる<lb />
+そのすきとほつたきれいななみは<lb />
+そらのぜんたいにさへ<lb />
+かなりの<span type="ruby"><span type="rb">影</span><span type="rp">（</span><span type="rt">えい</span><span type="rp">）</span></span>きやうをあたへるのだ<lb />
+すなはち雲がだんだんあをい虚空に融けて<lb />
+たうとういまは<lb />
+ころころまるめられたパラフヰンの<span type="ruby"><span type="rb">団子</span><span type="rp">（</span><span type="rt">だんご</span><span type="rp">）</span></span>になつて<lb />
+ぽつかりぽつかりしづかにうかぶ<lb />
+地平線はしきりにゆすれ<lb />
+むかふを鼻のあかい灰いろの紳士が<lb />
+うまぐらゐあるまつ白な犬をつれて<lb />
+あるいてゐることはじつに明らかだ<lb />
+　（やあ　こんにちは）<lb />
+　（いや　いゝおてんきですな）<lb />
+　（どちらへ　ごさんぽですか<lb />
+　　なるほど　ふんふん　ときにさくじつ<lb />
+　　ゾンネンタールが<span type="ruby"><span type="rb">没</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くなつたさうですが<lb />
+　　おききでしたか）<lb />
+　（いゝえ　ちつとも<lb />
+　　ゾンネンタールと　はてな）<lb />
+　（りんごが<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あた</span><span type="rp">）</span></span>つたのださうです）<lb />
+　（りんご　ああ　なるほど<lb />
+　　それはあすこにみえるりんごでせう）<lb />
+はるかに<span type="ruby"><span type="rb">湛</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>へる花紺青の地面から<lb />
+その金いろの<span type="ruby"><span type="rb">苹果</span><span type="rp">（</span><span type="rt">りんご</span><span type="rp">）</span></span>の樹が<lb />
+もくりもくりと延びだしてゐる<lb />
+　（金皮のまゝたべたのです）<lb />
+　（そいつはおきのどくでした<lb />
+　　はやく王水をのませたらよかつたでせう）<lb />
+　（王水　口をわつてですか<lb />
+　　ふんふん　なるほど）<lb />
+　（いや王水はいけません<lb />
+　　やつぱりいけません<lb />
+　　死ぬよりしかたなかつたでせう<lb />
+　　うんめいですな<lb />
+　　せつりですな<lb />
+　　あなたとはご親類ででもいらつしやいますか）<lb />
+　（えゝえゝ　もうごくごく遠いしんるゐで）<lb />
+いつたいなにをふざけてゐるのだ<lb />
+みろ　その馬ぐらゐあつた白犬が<lb />
+はるかのはるかのむかふへ遁げてしまつて<lb />
+いまではやつと<span type="ruby"><span type="rb">南京鼠</span><span type="rp">（</span><span type="rt">なんきんねずみ</span><span type="rp">）</span></span>のくらゐにしか見えない<lb />
+　（あ　わたくしの犬がにげました）<lb />
+　（追ひかけてもだめでせう）<lb />
+　（いや　あれは<span type="ruby"><span type="rb">高価</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>いのです<lb />
+　　おさへなくてはなりません<lb />
+　　さよなら）<lb />
+<span type="ruby"><span type="rb">苹果</span><span type="rp">（</span><span type="rt">りんご</span><span type="rp">）</span></span>の樹がむやみにふえた<lb />
+おまけにのびた<lb />
+おれなどは石炭紀の<span type="ruby"><span type="rb">鱗木</span><span type="rp">（</span><span type="rt">りんぼく</span><span type="rp">）</span></span>のしたの<lb />
+ただいつぴきの蟻でしかない<lb />
+犬も紳士もよくはしつたもんだ<lb />
+東のそらが<span type="ruby"><span type="rb">苹果林</span><span type="rp">（</span><span type="rt">りんごばやし</span><span type="rp">）</span></span>のあしなみに<lb />
+いつぱい琥珀をはつてゐる<lb />
+そこからかすかな<span type="ruby"><span type="rb">苦扁桃</span><span type="rp">（</span><span type="rt">くへんたう</span><span type="rp">）</span></span>の匂がくる<lb />
+すつかり<span type="ruby"><span type="rb">荒</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>さんだひるまになつた<lb />
+どうだこの天<span type="ruby"><span type="rb">頂</span><span type="rp">（</span><span type="rt">ちやう</span><span type="rp">）</span></span>の遠いこと<lb />
+このものすごいそらのふち<lb />
+愉快な<span type="ruby"><span type="rb">雲雀</span><span type="rp">（</span><span type="rt">ひばり</span><span type="rp">）</span></span>もとうに吸ひこまれてしまつた<lb />
+かあいさうにその<span type="ruby"><span type="rb">無窮遠</span><span type="rp">（</span><span type="rt">むきゆうゑん</span><span type="rp">）</span></span>の<lb />
+つめたい板の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>にへたばつて<lb />
+瘠せた肩をぷるぷるしてるにちがひない<lb />
+もう冗談ではなくなつた<lb />
+画かきどものすさまじい幽霊が<lb />
+すばやくそこらをはせぬけるし<lb />
+雲はみんなリチウムの紅い焔をあげる<lb />
+それからけはしいひかりのゆきき<lb />
+くさはみな褐藻類にかはられた<lb />
+こここそわびしい雲の焼け野原<lb />
+風のヂグザグや黄いろの渦<lb />
+そらがせはしくひるがへる<lb />
+なんといふとげとげしたさびしさだ<lb />
+　（どうなさいました　牧師さん）<lb />
+あんまりせいが高すぎるよ<lb />
+　（ご病気ですか<lb />
+　　たいへんお顔いろがわるいやうです）<lb />
+　（いやありがたう<lb />
+　　べつだんどうもありません<lb />
+　　あなたはどなたですか）<lb />
+　（わたくしは保安掛りです）<lb />
+いやに四かくな<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>嚢だ<lb />
+そのなかに<span type="ruby"><span type="rb">苦味丁幾</span><span type="rp">（</span><span type="rt">くみちんき</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">硼酸</span><span type="rp">（</span><span type="rt">はうさん</span><span type="rp">）</span></span>や<lb />
+いろいろはひつてゐるんだな<lb />
+　（さうですか<lb />
+　　今日なんかおつとめも大へんでせう）<lb />
+　（ありがたう<lb />
+　　いま途中で行き<span type="ruby"><span type="rb">倒</span><span type="rp">（</span><span type="rt">だふ</span><span type="rp">）</span></span>れがありましてな）<lb />
+　（どんなひとですか）<lb />
+　（りつぱな紳士です）<lb />
+　（はなのあかいひとでせう）<lb />
+　（さうです）<lb />
+　（犬はつかまつてゐましたか）<lb />
+　（<span type="ruby"><span type="rb">臨終</span><span type="rp">（</span><span type="rt">りんじゆう</span><span type="rp">）</span></span>にさういつてゐましたがね<lb />
+　　犬はもう十五哩もむかふでせう<lb />
+　　じつにいゝ犬でした）<lb />
+　（ではあのひとはもう死にましたか）<lb />
+　（いゝえ露がおりればなほります<lb />
+　　まあちよつと黄いろな時間だけの<span type="ruby"><span type="rb">仮死</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>ですな<lb />
+　　ううひどい風だ　まゐつちまふ）<lb />
+まつたくひどいかぜだ<lb />
+たふれてしまひさうだ<lb />
+沙漠でくされた<span type="ruby"><span type="rb">駝鳥</span><span type="rp">（</span><span type="rt">だてう</span><span type="rp">）</span></span>の卵<lb />
+たしかに硫化水素ははひつてゐるし<lb />
+ほかに無水亜硫酸<lb />
+つまりこれはそらからの瓦斯の気流に二つある<lb />
+しようとつして渦になつて硫黄<span type="ruby"><span type="rb">華</span><span type="rp">（</span><span type="rt">くわ</span><span type="rp">）</span></span>ができる<lb />
+　　　　気流に二つあつて硫黄華ができる<lb />
+　　　　　　　　気流に二つあつて硫黄華ができる<lb />
+　（しつかりなさい　しつかり<lb />
+　　もしもし　しつかりなさい<lb />
+　　たうとう参つてしまつたな<lb />
+　　たしかにまゐつた<lb />
+　　そんならひとつお時計をちやうだいしますかな）<lb />
+おれのかくしに手を入れるのは<lb />
+なにがいつたい保安掛りだ<lb />
+必要がない　どなつてやらうか<lb />
+　　　　　　　　　どなつてやらうか<lb />
+　　　　　　　　　　　　どなつてやらうか<lb />
+　　　　　　　　　　　　　　　どなつ……<lb />
+水が落ちてゐる<lb />
+ありがたい有難い神はほめられよ　雨だ<lb />
+悪い瓦斯はみんな溶けろ<lb />
+　（しつかりなさい　しつかり<lb />
+　　もう大丈夫です）<lb />
+何が大丈夫だ　おれははね起きる<lb />
+　（だまれ　きさま<lb />
+　　黄いろな時間の追剥め<lb />
+　　飄然たるテナルデイ軍曹だ<lb />
+　　きさま<lb />
+　　あんまりひとをばかにするな<lb />
+　　保安掛りとはなんだ　きさま）<lb />
+いゝ気味だ　ひどくしよげてしまつた<lb />
+ちゞまつてしまつたちひさくなつてしまつた<lb />
+ひからびてしまつた<lb />
+四角な背嚢ばかりのこり<lb />
+たゞ一かけの<span type="ruby"><span type="rb">泥炭</span><span type="rp">（</span><span type="rt">でいたん</span><span type="rp">）</span></span>になつた<lb />
+ざまを見ろじつに<span type="ruby"><span type="rb">醜</span><span type="rp">（</span><span type="rt">みにく</span><span type="rp">）</span></span>い泥炭なのだぞ<lb />
+背嚢なんかなにを入れてあるのだ<lb />
+保安掛り　じつにかあいさうです<lb />
+カムチヤツカの蟹の缶詰と<lb />
+<span type="ruby"><span type="rb">陸稲</span><span type="rp">（</span><span type="rt">をかぼ</span><span type="rp">）</span></span>の種子がひとふくろ<lb />
+ぬれた大きな靴が片つ方<lb />
+それと赤鼻紳士の金鎖<lb />
+どうでもいゝ　実にいゝ空気だ<lb />
+ほんたうに液体のやうな空気だ<lb />
+　（ウーイ　神はほめられよ<lb />
+　　みちからのたたふべきかな<lb />
+　　ウーイ　いゝ空気だ）<lb />
+そらの<span type="ruby"><span type="rb">澄</span><span type="rp">（</span><span type="rt">ちよう</span><span type="rp">）</span></span>明　すべてのごみはみな洗はれて<lb />
+ひかりはすこしもとまらない<lb />
+だからあんなにまつくらだ<lb />
+太陽がくらくらまはつてゐるにもかゝはらず<lb />
+おれは数しれぬほしのまたたきを見る<lb />
+ことにもしろいマヂエラン星雲<lb />
+草はみな葉緑素を恢復し<lb />
+葡萄糖を含む<span type="ruby"><span type="rb">月光液</span><span type="rp">（</span><span type="rt">げつくわうえき</span><span type="rp">）</span></span>は<lb />
+もうよろこびの脈さへうつ<lb />
+泥炭がなにかぶつぶつ言つてゐる<lb />
+　（もしもし　牧師さん<lb />
+　　あの馳せ出した雲をごらんなさい<lb />
+　　まるで天の競馬のサラアブレツドです）<lb />
+　（うん　きれいだな<lb />
+　　雲だ　競馬だ<lb />
+　　天のサラアブレツドだ　雲だ）<lb />
+あらゆる変幻の色彩を示し<lb />
+……もうおそい　ほめるひまなどない<lb />
+虹彩はあはく変化はゆるやか<lb />
+いまは一むらの軽い<span type="ruby"><span type="rb">湯気</span><span type="rp">（</span><span type="rt">ゆげ</span><span type="rp">）</span></span>になり<lb />
+零下二千度の<span type="ruby"><span type="rb">真空溶媒</span><span type="rp">（</span><span type="rt">しんくうようばい</span><span type="rp">）</span></span>のなかに<lb />
+すつととられて消えてしまふ<lb />
+それどこでない　おれのステツキは<lb />
+いつたいどこへ行つたのだ<lb />
+上着もいつかなくなつてゐる<lb />
+チヨツキはたつたいま消えて行つた<lb />
+恐るべくかなしむべき真空溶媒は<lb />
+こんどはおれに働きだした<lb />
+まるで熊の胃袋のなかだ<lb />
+それでもどうせ質量不変の定律だから<lb />
+べつにどうにもなつてゐない<lb />
+といつたところでおれといふ<lb />
+この明らかな牧師の意識から<lb />
+ぐんぐんものが消えて行くとは情ない<lb />
+　（いやあ　奇遇ですな）<lb />
+　（おお　赤鼻紳士<lb />
+　　たうとう犬がおつかまりでしたな）<lb />
+　（ありがたう　しかるに<lb />
+　　あなたは一体どうなすつたのです）<lb />
+　（上着をなくして大へん寒いのです）<lb />
+　（なるほど　はてな<lb />
+　　あなたの上着はそれでせう）<lb />
+　（どれですか）<lb />
+　（あなたが着ておいでになるその上着）<lb />
+　（なるほど　ははあ<lb />
+　　真空のちよつとした<span type="ruby"><span type="rb">奇術</span><span type="rp">（</span><span type="rt">ツリツク</span><span type="rp">）</span></span>ですな）<lb />
+　（えゝ　さうですとも<lb />
+　　ところがどうもをかしい<lb />
+　　それはわたしの金鎖ですがね）<lb />
+　（えゝどうせその泥炭の保安掛りの作用です）<lb />
+　（ははあ　泥炭のちよつとした<span type="ruby"><span type="rb">奇術</span><span type="rp">（</span><span type="rt">ツリツク</span><span type="rp">）</span></span>ですな）<lb />
+　（さうですとも<lb />
+　　犬があんまりくしやみをしますが大丈夫ですか）<lb />
+　（なあにいつものことです）<lb />
+　（大きなもんですな）<lb />
+　（これは北極犬です）<lb />
+　（馬の代りには使へないんですか）<lb />
+　（使へますとも　どうです<lb />
+　　お召しなさいませんか）<lb />
+　（どうもありがたう<lb />
+　　そんなら拝借しますかな）<lb />
+　（さあどうぞ）<lb />
+おれはたしかに<lb />
+その北極犬のせなかにまたがり<lb />
+犬神のやうに東へ歩き出す<lb />
+まばゆい緑のしばくさだ<lb />
+おれたちの影は青い沙漠<span type="ruby"><span type="rb">旅行</span><span type="rp">（</span><span type="rt">りよかう</span><span type="rp">）</span></span><lb />
+そしてそこはさつきの<span type="ruby"><span type="rb">銀杏</span><span type="rp">（</span><span type="rt">いてふ</span><span type="rp">）</span></span>の並樹<lb />
+こんな華奢な水平な枝に<lb />
+硝子のりつぱなわかものが<lb />
+すつかり三角になつてぶらさがる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、五、一八<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi510"><span type="ruby"><span type="rb">蠕虫舞手</span><span type="rp">（</span><span type="rt">アンネリダタンツエーリン</span><span type="rp">）</span></span></span></span></span>
+<lb />
+<lb />
+　（えゝ　水ゾルですよ<lb />
+　　おぼろな<span type="ruby"><span type="rb">寒天</span><span type="rp">（</span><span type="rt">アガア</span><span type="rp">）</span></span>の液ですよ）<lb />
+日は<span type="ruby"><span type="rb">黄金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>の薔薇<lb />
+赤いちひさな<span type="ruby"><span type="rb">蠕虫</span><span type="rp">（</span><span type="rt">ぜんちゆう</span><span type="rp">）</span></span>が<lb />
+水とひかりをからだにまとひ<lb />
+ひとりでをどりをやつてゐる<lb />
+　（えゝ　<span type="ruby"><span type="rb">８</span><span type="rp">（</span><span type="rt">エイト</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">γ</span><span type="rp">（</span><span type="rt">ガムマア</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">ｅ</span><span type="rp">（</span><span type="rt">イー</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">６</span><span type="rp">（</span><span type="rt">スイツクス</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">α</span><span type="rp">（</span><span type="rt">アルフア</span><span type="rp">）</span></span><lb />
+　　ことにもアラベスクの飾り文字）<lb />
+羽むしの死骸<lb />
+いちゐのかれ葉<lb />
+真珠の泡に<lb />
+ちぎれたこけの花軸など<lb />
+　（ナチラナトラのひいさまは<lb />
+　　いまみづ底のみかげのうへに<lb />
+　　黄いろなかげとおふたりで<lb />
+　　せつかくをどつてゐられます<lb />
+　　いゝえ　けれども　すぐでせう<lb />
+　　まもなく浮いておいででせう）<lb />
+赤い<span type="ruby"><span type="rb">蠕虫舞手</span><span type="rp">（</span><span type="rt">アンネリダタンツエーリン</span><span type="rp">）</span></span>は<lb />
+とがつた二つの耳をもち<lb />
+燐光珊瑚の環節に<lb />
+正しく飾る真珠のぼたん<lb />
+くるりくるりと廻つてゐます<lb />
+　（えゝ　<span type="ruby"><span type="rb">８</span><span type="rp">（</span><span type="rt">エイト</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">γ</span><span type="rp">（</span><span type="rt">ガムマア</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">ｅ</span><span type="rp">（</span><span type="rt">イー</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">６</span><span type="rp">（</span><span type="rt">スイツクス</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">α</span><span type="rp">（</span><span type="rt">アルフア</span><span type="rp">）</span></span><lb />
+　　ことにもアラベスクの飾り文字）<lb />
+背中きらきら<span type="ruby"><span type="rb">燦</span><span type="rp">（</span><span type="rt">かがや</span><span type="rp">）</span></span>いて<lb />
+ちからいつぱいまはりはするが<lb />
+真珠もじつはまがひもの<lb />
+ガラスどころか空気だま<lb />
+　（いゝえ　それでも<lb />
+　　エイト　ガムマア　イー　スイツクス　アルフア<lb />
+　　ことにもアラベスクの飾り文字）<lb />
+水晶体や<span type="ruby"><span type="rb">鞏膜</span><span type="rp">（</span><span type="rt">きようまく</span><span type="rp">）</span></span>の<lb />
+オペラグラスにのぞかれて<lb />
+をどつてゐるといはれても<lb />
+真珠の泡を苦にするのなら<lb />
+おまへもさつぱりらくぢやない<lb />
+　　　それに日が雲に入つたし<lb />
+　　　わたしは石に座つてしびれが切れたし<lb />
+　　　水底の黒い木片は毛虫か<span type="ruby"><span type="rb">海鼠</span><span type="rp">（</span><span type="rt">なまこ</span><span type="rp">）</span></span>のやうだしさ<lb />
+　　　それに第一おまへのかたちは見えないし<lb />
+　　　ほんとに溶けてしまつたのやら<lb />
+それともみんなはじめから<lb />
+おぼろに青い夢だやら<lb />
+　（いゝえ　あすこにおいでです　おいでです<lb />
+　　ひいさま　いらつしやいます<lb />
+　　<span type="ruby"><span type="rb">８</span><span type="rp">（</span><span type="rt">エイト</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">γ</span><span type="rp">（</span><span type="rt">ガムマア</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">ｅ</span><span type="rp">（</span><span type="rt">イー</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">６</span><span type="rp">（</span><span type="rt">スイツクス</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">α</span><span type="rp">（</span><span type="rt">アルフア</span><span type="rp">）</span></span><lb />
+　　ことにもアラベスクの飾り文字）<lb />
+ふん　水はおぼろで<lb />
+ひかりは惑ひ<lb />
+虫は　エイト　ガムマア　イー　スイツクス　アルフア<lb />
+　　　ことにもアラベスクの飾り文字かい<lb />
+　　　ハツハツハ<lb />
+　（はい　まつたくそれにちがひません<lb />
+　　　エイト　ガムマア　イー　スイツクス　アルフア<lb />
+　　　ことにもアラベスクの飾り文字）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、二〇）</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi610">小岩井農場</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi620">小岩井農場</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi621">パート一</span></span></span>
+<lb />
+わたくしはずゐぶんすばやく汽車からおりた<lb />
+そのために雲がぎらつとひかつたくらゐだ<lb />
+けれどももつとはやいひとはある<lb />
+化学の並川さんによく<span type="ruby"><span type="rb">肖</span><span type="rp">（</span><span type="rt">に</span><span type="rp">）</span></span>たひとだ<lb />
+あのオリーブのせびろなどは<lb />
+そつくりおとなしい農学士だ<lb />
+さつき盛岡のていしやばでも<lb />
+たしかにわたくしはさうおもつてゐた<lb />
+このひとが砂糖水のなかの<lb />
+つめたくあかるい待合室から<lb />
+ひとあしでるとき……わたくしもでる<lb />
+馬車がいちだいたつてゐる<lb />
+<span type="ruby"><span type="rb">馭者</span><span type="rp">（</span><span type="rt">ぎよしや</span><span type="rp">）</span></span>がひとことなにかいふ<lb />
+黒塗りのすてきな馬車だ<lb />
+<span type="ruby"><span type="rb">光沢消</span><span type="rp">（</span><span type="rt">つやけ</span><span type="rp">）</span></span>しだ<lb />
+馬も上等のハツクニー<lb />
+このひとはかすかにうなづき<lb />
+それからじぶんといふ小さな荷物を<lb />
+載つけるといふ<span type="ruby"><span type="rb">気軽</span><span type="rp">（</span><span type="rt">きがる</span><span type="rp">）</span></span>なふうで<lb />
+馬車にのぼつてこしかける<lb />
+　（わづかの光の<span type="ruby"><span type="rb">交錯</span><span type="rp">（</span><span type="rt">かうさく</span><span type="rp">）</span></span>だ）<lb />
+その<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>のあたつたせなかが<lb />
+すこし屈んでしんとしてゐる<lb />
+わたくしはあるいて馬と並ぶ<lb />
+これはあるいは客馬車だ<lb />
+どうも農場のらしくない<lb />
+わたくしにも乗れといへばいい<lb />
+馭者がよこから呼べばいい<lb />
+乗らなくたつていゝのだが<lb />
+これから五里もあるくのだし<lb />
+くらかけ山の下あたりで<lb />
+ゆつくり時間もほしいのだ<lb />
+あすこなら空気もひどく明瞭で<lb />
+樹でも艸でもみんな幻燈だ<lb />
+もちろんおきなぐさも咲いてゐるし<lb />
+野はらは黒ぶだう<span type="ruby"><span type="rb">酒</span><span type="rp">（</span><span type="rt">しゆ</span><span type="rp">）</span></span>のコツプもならべて<lb />
+わたくしを款待するだらう<lb />
+そこでゆつくりとどまるために<lb />
+本部まででも乗つた方がいい<lb />
+今日ならわたくしだつて<lb />
+馬車に乗れないわけではない<lb />
+　（あいまいな思惟の<span type="ruby"><span type="rb">蛍光</span><span type="rp">（</span><span type="rt">けいくわう</span><span type="rp">）</span></span><lb />
+　　きつといつでもかうなのだ）<lb />
+もう馬車がうごいてゐる<lb />
+　（これがじつにいゝことだ<lb />
+　　どうしようか考へてゐるひまに<lb />
+　　それが過ぎて<span type="ruby"><span type="rb">滅</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くなるといふこと）<lb />
+ひらつとわたくしを通り越す<lb />
+みちはまつ黒の腐植土で<lb />
+<span type="ruby"><span type="rb">雨</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>あがりだし弾力もある<lb />
+馬はピンと耳を立て<lb />
+その<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はじ</span><span type="rp">）</span></span>は向ふの青い光に尖り<lb />
+いかにもきさくに馳けて行く<lb />
+うしろからはもうたれも来ないのか<lb />
+つつましく肩をすぼめた停車<span type="ruby"><span type="rb">場</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>と<lb />
+新開地風の<span type="ruby"><span type="rb">飲食店</span><span type="rp">（</span><span type="rt">いんしよくてん</span><span type="rp">）</span></span><lb />
+ガラス障子はありふれてでこぼこ<lb />
+わらぢや sun-maid のから函や<lb />
+夏みかんのあかるいにほひ<lb />
+汽車からおりたひとたちは<lb />
+さつきたくさんあつたのだが<lb />
+みんな丘かげの茶褐部落や<lb />
+<span type="ruby"><span type="rb">繋</span><span type="rp">（</span><span type="rt">つなぎ</span><span type="rp">）</span></span>あたりへ往くらしい<lb />
+西にまがつて見えなくなつた<lb />
+いまわたくしは歩測のときのやう<lb />
+しんかい地ふうのたてものは<lb />
+みんなうしろに片<span type="ruby"><span type="rb">附</span><span type="rp">（</span><span type="rt">づ</span><span type="rp">）</span></span>けた<lb />
+そしてこここそ畑になつてゐる<lb />
+黒馬が二ひき汗でぬれ<lb />
+<span type="ruby"><span type="rb">犁</span><span type="rp">（</span><span type="rt">プラウ</span><span type="rp">）</span></span>をひいて往つたりきたりする<lb />
+ひはいろのやはらかな山のこつちがはだ<lb />
+山ではふしぎに風がふいてゐる<lb />
+<span type="ruby"><span type="rb">嫩葉</span><span type="rp">（</span><span type="rt">わかば</span><span type="rp">）</span></span>がさまざまにひるがへる<lb />
+ずうつと遠くのくらいところでは<lb />
+鶯もごろごろ啼いてゐる<lb />
+その透明な群青のうぐひすが<lb />
+　（ほんたうの鶯の方はドイツ読本の<lb />
+　　ハンスがうぐひすでないよと云つた）<lb />
+馬車はずんずん遠くなる<lb />
+大きくゆれるしはねあがる<lb />
+紳士もかろくはねあがる<lb />
+このひとはもうよほど世間をわたり<lb />
+いまは青ぐろいふちのやうなとこへ<lb />
+すましてこしかけてゐるひとなのだ<lb />
+そしてずんずん遠くなる<lb />
+はたけの馬は二ひき<lb />
+ひとはふたりで赤い<lb />
+雲に<span type="ruby"><span type="rb">濾</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>された日光のために<lb />
+いよいよあかく<span type="ruby"><span type="rb">灼</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>けてゐる<lb />
+冬にきたときとはまるでべつだ<lb />
+みんなすつかり変つてゐる<lb />
+変つたとはいへそれは雪が往き<lb />
+雲が<span type="ruby"><span type="rb">展</span><span type="rp">（</span><span type="rt">ひら</span><span type="rp">）</span></span>けてつちが呼吸し<lb />
+幹や芽のなかに燐光や<span type="ruby"><span type="rb">樹液</span><span type="rp">（</span><span type="rt">じゆえき</span><span type="rp">）</span></span>がながれ<lb />
+あをじろい春になつただけだ<lb />
+それよりもこんなせはしい心象の明滅をつらね<lb />
+すみやかなすみやかな<span type="ruby"><span type="rb">万法流転</span><span type="rp">（</span><span type="rt">ばんぼふるてん</span><span type="rp">）</span></span>のなかに<lb />
+小岩井のきれいな野はらや牧場の標本が<lb />
+いかにも確かに<span type="ruby"><span type="rb">継起</span><span type="rp">（</span><span type="rt">けいき</span><span type="rp">）</span></span>するといふことが<lb />
+どんなに新鮮な奇蹟だらう<lb />
+ほんたうにこのみちをこの前行くときは<lb />
+空気がひどく稠密で<lb />
+つめたくそしてあかる過ぎた<lb />
+今日は七つ森はいちめんの<span type="ruby"><span type="rb">枯草</span><span type="rp">（</span><span type="rt">かれくさ</span><span type="rp">）</span></span><lb />
+松木がをかしな緑褐に<lb />
+丘のうしろとふもとに生えて<lb />
+大へん陰欝にふるびて見える<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi622">パート二</span></span></span>
+<lb />
+たむぼりんも遠くのそらで鳴つてるし<lb />
+雨はけふはだいぢやうぶふらない<lb />
+しかし馬車もはやいと云つたところで<lb />
+そんなにすてきなわけではない<lb />
+いままでたつてやつとあすこまで<lb />
+ここからあすこまでのこのまつすぐな<lb />
+火山灰のみちの分だけ行つたのだ<lb />
+あすこはちやうどまがり目で<lb />
+すがれの草<span type="ruby"><span type="rb">穂</span><span type="rp">（</span><span type="rt">ぼ</span><span type="rp">）</span></span>もゆれてゐる<lb />
+　（山は青い雲でいつぱい　光つてゐるし<lb />
+　　かけて行く馬車はくろくてりつぱだ）<lb />
+ひばり　ひばり<lb />
+銀の<span type="ruby"><span type="rb">微塵</span><span type="rp">（</span><span type="rt">みぢん</span><span type="rp">）</span></span>のちらばるそらへ<lb />
+たつたいまのぼつたひばりなのだ<lb />
+くろくてすばやくきんいろだ<lb />
+そらでやる Brownian movement<lb />
+おまけにあいつの<span type="ruby"><span type="rb">翅</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>ときたら<lb />
+甲虫のやうに四まいある<lb />
+飴いろのやつと硬い漆ぬりの方と<lb />
+たしかに<span type="ruby"><span type="rb">二重</span><span type="rp">（</span><span type="rt">ふたへ</span><span type="rp">）</span></span>にもつてゐる<lb />
+よほど上手に鳴いてゐる<lb />
+そらのひかりを呑みこんでゐる<lb />
+光波のために溺れてゐる<lb />
+もちろんずつと遠くでは<lb />
+もつとたくさんないてゐる<lb />
+そいつのはうははいけいだ<lb />
+向ふからはこつちのやつがひどく勇敢に見える<lb />
+うしろから五月のいまごろ<lb />
+黒いながいオーヴアを着た<lb />
+医者らしいものがやつてくる<lb />
+たびたびこつちをみてゐるやうだ<lb />
+それは一本みちを行くときに<lb />
+ごくありふれたことなのだ<lb />
+冬にもやつぱりこんなあんばいに<lb />
+くろいイムバネスがやつてきて<lb />
+本部へはこれでいいんですかと<lb />
+遠くからことばの<span type="ruby"><span type="rb">浮標</span><span type="rp">（</span><span type="rt">ブイ</span><span type="rp">）</span></span>をなげつけた<lb />
+でこぼこのゆきみちを<lb />
+辛うじて<span type="ruby"><span type="rb">咀嚼</span><span type="rp">（</span><span type="rt">そしやく</span><span type="rp">）</span></span>するといふ風にあるきながら<lb />
+本部へはこれでいゝんですかと<lb />
+<span type="ruby"><span type="rb">心細</span><span type="rp">（</span><span type="rt">こころぼそ</span><span type="rp">）</span></span>さうにきいたのだ<lb />
+おれはぶつきら棒にああと言つただけなので<lb />
+ちやうどそれだけ<span type="ruby"><span type="rb">大</span><span type="rp">（</span><span type="rt">たい</span><span type="rp">）</span></span>へんかあいさうな気がした<lb />
+けふのはもつと遠くからくる<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi623">パート三</span></span></span>
+<lb />
+もう入口だ〔小岩井農場〕<lb />
+　（いつものとほりだ）<lb />
+<span type="ruby"><span type="rb">混</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>んだ野ばらやあけびのやぶ<lb />
+〔もの売りきのことりお断り申し候〕<lb />
+　（いつものとほりだ　ぢき医院もある）<lb />
+〔禁猟区〕　ふん　いつものとほりだ<lb />
+小さな沢と青い<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>だち<lb />
+沢では水が暗くそして<span type="ruby"><span type="rb">鈍</span><span type="rp">（</span><span type="rt">にぶ</span><span type="rp">）</span></span>つてゐる<lb />
+また鉄ゼルの fluorescence<lb />
+向ふの<span type="ruby"><span type="rb">畑</span><span type="rp">（</span><span type="rt">はたけ</span><span type="rp">）</span></span>には白樺もある<lb />
+白樺は<span type="ruby"><span type="rb">好摩</span><span type="rp">（</span><span type="rt">かうま</span><span type="rp">）</span></span>からむかふですと<lb />
+いつかおれは羽田県属に言つてゐた<lb />
+ここはよつぽど高いから<lb />
+柳沢つづきの一帯だ<lb />
+やつぱり好摩にあたるのだ<lb />
+どうしたのだこの鳥の声は<lb />
+なんといふたくさんの鳥だ<lb />
+鳥の小学校にきたやうだ<lb />
+雨のやうだし湧いてるやうだ<lb />
+居る居る鳥がいつぱいにゐる<lb />
+なんといふ数だ　鳴く鳴く鳴く<lb />
+Rondo Capriccioso<lb />
+ぎゆつくぎゆつくぎゆつくぎゆつく<lb />
+あの木のしんにも一ぴきゐる<lb />
+禁猟区のためだ　飛びあがる<lb />
+　　（禁猟区のためでない　ぎゆつくぎゆつく）<lb />
+一ぴきでない　ひとむれだ<lb />
+十疋以上だ　弧をつくる<lb />
+　（ぎゆつく　ぎゆつく）<lb />
+三またの槍の穂　弧をつくる<lb />
+青びかり青びかり<span type="ruby"><span type="rb">赤楊</span><span type="rp">（</span><span type="rt">はん</span><span type="rp">）</span></span>の木立<lb />
+のぼせるくらゐだこの鳥の声<lb />
+　　（その音がぼつとひくくなる<lb />
+　　　うしろになつてしまつたのだ<lb />
+　　　あるいはちゆういのりずむのため<lb />
+　　　両方ともだ　とりのこゑ）<lb />
+木立がいつか並樹になつた<lb />
+この設計は<span type="ruby"><span type="rb">飾絵</span><span type="rp">（</span><span type="rt">かざりゑ</span><span type="rp">）</span></span>式だ<lb />
+けれども偶然だからしかたない<lb />
+荷馬車がたしか三台とまつてゐる<lb />
+<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>な松の丸太がいつぱいにつまれ<lb />
+<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>がいつかこつそりおりてきて<lb />
+あたらしいテレピン油の<span type="ruby"><span type="rb">蒸気圧</span><span type="rp">（</span><span type="rt">じようきあつ</span><span type="rp">）</span></span><lb />
+一台だけがあるいてゐる<lb />
+けれどもこれは樹や枝のかげでなくて<lb />
+しめつた黒い腐植質と<lb />
+<span type="ruby"><span type="rb">石竹</span><span type="rp">（</span><span type="rt">せきちく</span><span type="rp">）</span></span>いろの花のかけら<lb />
+さくらの並樹になつたのだ<lb />
+こんなしづかなめまぐるしさ<lb />
+<lb />
+この荷馬車にはひとがついてゐない<lb />
+馬は払ひ下げの立派なハツクニー<lb />
+脚のゆれるのは年老つたため<lb />
+　（おい　ヘングスト　しつかりしろよ<lb />
+　　三日月みたいな眼つきをして<lb />
+　　おまけになみだがいつぱいで<lb />
+　　陰気にあたまを下げてゐられると<lb />
+　　おれはまつたくたまらないのだ<lb />
+　　威勢よく桃いろの舌をかみふつと鼻を鳴らせ）<lb />
+ぜんたい馬の眼のなかには複雑なレンズがあつて<lb />
+けしきやみんなへんにうるんでいびつにみえる……<lb />
+……馬車挽きはみんなといつしよに<lb />
+向ふのどてのかれ草に<lb />
+腰をおろしてやすんでゐる<lb />
+三人赤くわらつてこつちをみ<lb />
+また一人は大股にどてのなかをあるき<lb />
+なにか忘れものでももつてくるといふ<span type="ruby"><span type="rb">風</span><span type="rp">（</span><span type="rt">ふう</span><span type="rp">）</span></span>……（蜂函の白ペンキ）<lb />
+桜の木には<span type="ruby"><span type="rb">天狗巣病</span><span type="rp">（</span><span type="rt">てんぐすびやう</span><span type="rp">）</span></span>がたくさんある<lb />
+天狗巣ははやくも青い葉をだし<lb />
+馬車のラツパがきこえてくれば<lb />
+ここが一ぺんにスヰツツルになる<lb />
+遠くでは鷹がそらを截つてゐるし<lb />
+からまつの芽はネクタイピンにほしいくらゐだし<lb />
+いま向ふの並樹をくらつと青く走つて行つたのは<lb />
+（騎手はわらひ）<span type="ruby"><span type="rb">赤銅</span><span type="rp">（</span><span type="rt">しやくどう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">人馬</span><span type="rp">（</span><span type="rt">じんば</span><span type="rp">）</span></span>の徽章だ<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi624">パート四</span></span></span>
+<lb />
+本部の<span type="ruby"><span type="rb">気取</span><span type="rp">（</span><span type="rt">きど</span><span type="rp">）</span></span>つた建物が<lb />
+桜やポプラのこつちに立ち<lb />
+そのさびしい観測台のうへに<lb />
+ロビンソン風力計の小さな椀や<lb />
+ぐらぐらゆれる風信器を<lb />
+わたくしはもう見出さない<lb />
+　さつきの<span type="ruby"><span type="rb">光沢消</span><span type="rp">（</span><span type="rt">つやけ</span><span type="rp">）</span></span>しの立派な馬車は<lb />
+　いまごろどこかで忘れたやうにとまつてようし<lb />
+　五月の黒いオーヴアコートも<lb />
+　どの建物かにまがつて行つた<lb />
+冬にはこゝの凍つた池で<lb />
+こどもらがひどくわらつた<lb />
+　（から松はとびいろのすてきな脚です<lb />
+　　向ふにひかるのは雲でせうか粉雪でせうか<lb />
+　　それとも野はらの雪に日が照つてゐるのでせうか<lb />
+　　氷滑りをやりながらなにがそんなにをかしいのです<lb />
+　　おまへさんたちの頬つぺたはまつ赤ですよ）<lb />
+葱いろの春の水に<lb />
+<span type="ruby"><span type="rb">楊の花芽</span><span type="rp">（</span><span type="rt">ベムベロ</span><span type="rp">）</span></span>ももうぼやける……<lb />
+はたけは茶いろに掘りおこされ<lb />
+廐肥も四角につみあげてある<lb />
+並樹ざくらの天狗巣には<lb />
+いぢらしい小さな緑の旗を出すのもあり<lb />
+遠くの縮れた雲にかかるのでは<lb />
+みづみづした鶯いろの弱いのもある……<lb />
+あんまりひばりが啼きすぎる<lb />
+　　（育馬部と本部とのあひだでさへ<lb />
+　　　ひばりやなんか一ダースできかない）<lb />
+そのキルギス式の逞ましい耕地の線が<lb />
+ぐらぐらの雲にうかぶこちら<lb />
+みじかい素朴な電話ばしらが<lb />
+右にまがり左へ傾きひどく乱れて<lb />
+まがりかどには一本の青木<lb />
+　（白樺だらう　楊ではない）<lb />
+耕耘部へはここから行くのがちかい<lb />
+ふゆのあひだだつて雪がかたまり<lb />
+<span type="ruby"><span type="rb">馬橇</span><span type="rp">（</span><span type="rt">ばそり</span><span type="rp">）</span></span>も通つていつたほどだ<lb />
+　（ゆきがかたくはなかつたやうだ<lb />
+　　なぜならそりはゆきをあげた<lb />
+　　たしかに酵母のちんでんを<lb />
+　　冴えた気流に吹きあげた）<lb />
+あのときはきらきらする雪の移動のなかを<lb />
+ひとはあぶなつかしいセレナーデを口笛に吹き<lb />
+往つたりきたりなんべんしたかわからない<lb />
+　　　（四列の茶いろな<span type="ruby"><span type="rb">落葉松</span><span type="rp">（</span><span type="rt">らくえふしよう</span><span type="rp">）</span></span>）<lb />
+けれどもあの調子はづれのセレナーデが<lb />
+風やときどきぱつとたつ雪と<lb />
+どんなによくつりあつてゐたことか<lb />
+それは雪の日のアイスクリームとおなじ<lb />
+　（もつともそれなら<span type="ruby"><span type="rb">暖炉</span><span type="rp">（</span><span type="rt">だんろ</span><span type="rp">）</span></span>もまつ<span type="ruby"><span type="rb">赤</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>だらうし<lb />
+　　muscovite も少しそつぽに<span type="ruby"><span type="rb">灼</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>けるだらうし<lb />
+　　おれたちには見られないぜい<span type="ruby"><span type="rb">沢</span><span type="rp">（</span><span type="rt">たく</span><span type="rp">）</span></span>だ）<lb />
+春のヴアンダイクブラウン<lb />
+きれいにはたけは耕耘された<lb />
+雲はけふも<span type="ruby"><span type="rb">白金</span><span type="rp">（</span><span type="rt">はくきん</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">白金黒</span><span type="rp">（</span><span type="rt">はくきんこく</span><span type="rp">）</span></span><lb />
+そのまばゆい<span type="ruby"><span type="rb">明暗</span><span type="rp">（</span><span type="rt">めいあん</span><span type="rp">）</span></span>のなかで<lb />
+ひばりはしきりに啼いてゐる<lb />
+　　（雲の<span type="ruby"><span type="rb">讃歌</span><span type="rp">（</span><span type="rt">さんか</span><span type="rp">）</span></span>と日の<span type="ruby"><span type="rb">軋</span><span type="rp">（</span><span type="rt">きし</span><span type="rp">）</span></span>り）<lb />
+それから眼をまたあげるなら<lb />
+灰いろなもの走るもの蛇に似たもの　雉子だ<lb />
+<span type="ruby"><span type="rb">亜鉛鍍金</span><span type="rp">（</span><span type="rt">あえんめつき</span><span type="rp">）</span></span>の雉子なのだ<lb />
+あんまり長い尾をひいてうららかに過ぎれば<lb />
+もう一疋が飛びおりる<lb />
+山鳥ではない<lb />
+　（山鳥ですか？　山で？　夏に？）<lb />
+あるくのははやい　流れてゐる<lb />
+オレンヂいろの日光のなかを<lb />
+雉子はするするながれてゐる<lb />
+啼いてゐる<lb />
+それが雉子の声だ<lb />
+いま見はらかす耕地のはづれ<lb />
+向ふの青草の高みに四五本乱れて<lb />
+なんといふ気まぐれなさくらだらう<lb />
+みんなさくらの幽霊だ<lb />
+内面はしだれやなぎで<lb />
+<span type="ruby"><span type="rb">鴾</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>いろの花をつけてゐる<lb />
+　　（空でひとむらの<span type="ruby"><span type="rb">海綿白金</span><span type="rp">（</span><span type="rt">プラチナムスポンヂ</span><span type="rp">）</span></span>がちぎれる）<lb />
+それらかゞやく氷片の<span type="ruby"><span type="rb">懸吊</span><span type="rp">（</span><span type="rt">けんてう</span><span type="rp">）</span></span>をふみ<lb />
+青らむ天のうつろのなかへ<lb />
+かたなのやうにつきすすみ<lb />
+すべて水いろの哀愁を<span type="ruby"><span type="rb">焚</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>き<lb />
+さびしい<span type="ruby"><span type="rb">反照</span><span type="rp">（</span><span type="rt">はんせう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">偏光</span><span type="rp">（</span><span type="rt">へんくわう</span><span type="rp">）</span></span>を截れ<lb />
+いま日を横ぎる黒雲は<lb />
+<span type="ruby"><span type="rb">侏羅</span><span type="rp">（</span><span type="rt">じゆら</span><span type="rp">）</span></span>や白堊のまつくらな森林のなか<lb />
+<span type="ruby"><span type="rb">爬虫</span><span type="rp">（</span><span type="rt">はちゆう</span><span type="rp">）</span></span>がけはしく歯を鳴らして飛ぶ<lb />
+その氾濫の水けむりからのぼつたのだ<lb />
+たれも見てゐないその地質時代の林の底を<lb />
+水は濁つてどんどんながれた<lb />
+いまこそおれはさびしくない<lb />
+たつたひとりで生きて行く<lb />
+こんなきままなたましひと<lb />
+たれがいつしよに行けようか<lb />
+大びらにまつすぐに進んで<lb />
+それでいけないといふのなら<lb />
+田舎ふうのダブルカラなど引き裂いてしまへ<lb />
+それからさきがあんまり青黒くなつてきたら……<lb />
+そんなさきまでかんがへないでいい<lb />
+ちからいつぱい口笛を吹け<lb />
+口笛をふけ　<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">錯綜</span><span type="rp">（</span><span type="rt">さくそう</span><span type="rp">）</span></span><lb />
+たよりもない光波のふるひ<lb />
+すきとほるものが一列わたくしのあとからくる<lb />
+ひかり　かすれ　またうたふやうに小さな胸を張り<lb />
+またほのぼのとかゞやいてわらふ<lb />
+みんなすあしのこどもらだ<lb />
+ちらちら<span type="ruby"><span type="rb">瓔珞</span><span type="rp">（</span><span type="rt">やうらく</span><span type="rp">）</span></span>もゆれてゐるし<lb />
+めいめい遠くのうたのひとくさりづつ<lb />
+<span type="ruby"><span type="rb">緑金寂静</span><span type="rp">（</span><span type="rt">ろくきんじやくじやう</span><span type="rp">）</span></span>のほのほをたもち<lb />
+これらはあるいは天の<span type="ruby"><span type="rb">鼓手</span><span type="rp">（</span><span type="rt">こしゆ</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">緊那羅</span><span type="rp">（</span><span type="rt">きんなら</span><span type="rp">）</span></span>のこどもら<lb />
+　（五本の透明なさくらの木は<lb />
+　　青々とかげろふをあげる）<lb />
+わたくしは白い雑嚢をぶらぶらさげて<lb />
+きままな林務官のやうに<lb />
+五月のきんいろの外光のなかで<lb />
+口笛をふき歩調をふんでわるいだらうか<lb />
+たのしい太陽系の春だ<lb />
+みんなはしつたりうたつたり<lb />
+はねあがつたりするがいい<lb />
+　　（コロナは八十三万二百……）<lb />
+あの四月の実習のはじめの日<lb />
+液肥をはこぶいちにちいつぱい<lb />
+光炎菩薩太陽マヂツクの歌が鳴つた<lb />
+　　（コロナは八十三万四百……）<lb />
+ああ陽光のマヂツクよ<lb />
+ひとつのせきをこえるとき<lb />
+ひとりがかつぎ棒をわたせば<lb />
+それは太陽のマヂツクにより<lb />
+磁石のやうにもひとりの手に吸ひついた<lb />
+　　（コロナは七十七万五千……）<lb />
+どのこどもかが笛を吹いてゐる<lb />
+それはわたくしにきこえない<lb />
+けれどもたしかにふいてゐる<lb />
+　　（ぜんたい笛といふものは<lb />
+　　　きまぐれなひよろひよろの酋長だ）<lb />
+<lb />
+みちがぐんぐんうしろから湧き<lb />
+過ぎて来た方へたたんで行く<lb />
+むら気な四本の桜も<lb />
+記憶のやうにとほざかる<lb />
+たのしい地球の気圏の春だ<lb />
+みんなうたつたりはしつたり<lb />
+はねあがつたりするがいい<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi625">パート五</span></span>　　<span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi626">パート六</span></span></span>
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi627">パート七</span></span></span>
+<lb />
+とびいろのはたけがゆるやかに傾斜して<lb />
+すきとほる雨のつぶに洗はれてゐる<lb />
+そのふもとに白い笠の農夫が立ち<lb />
+つくづくとそらのくもを見あげ<lb />
+こんどはゆつくりあるきだす<lb />
+　（まるで行きつかれたたび人だ）<lb />
+汽車の時間をたづねてみよう<lb />
+こゝはぐちやぐちやした青い湿地で<lb />
+もうせんごけも生えてゐる<lb />
+　（そのうすあかい毛もちゞれてゐるし<lb />
+　　どこかのがまの生えた沼地を<lb />
+　　ネー将軍<span type="ruby"><span type="rb">麾</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>下の騎兵の馬が<lb />
+　　泥に一尺ぐらゐ踏みこんで<lb />
+　　すぱすぱ渉つて進軍もした）<lb />
+雲は白いし農夫はわたしをまつてゐる<lb />
+またあるきだす（縮れてぎらぎらの雲）<lb />
+トツパースの雨の高みから<lb />
+けらを着た女の子がふたりくる<lb />
+シベリヤ風に赤いきれをかぶり<lb />
+まつすぐにいそいでやつてくる<lb />
+（Miss Robin）働きにきてゐるのだ<lb />
+農夫は富士見の飛脚のやうに<lb />
+笠をかしげて立つて待ち<lb />
+白い手甲さへはめてゐる　もう二十米だから<lb />
+しばらくあるきださないでくれ<lb />
+じぶんだけせつかく待つてゐても<lb />
+用がなくてはこまるとおもつて<lb />
+あんなにぐらぐらゆれるのだ<lb />
+　（青い草穂は去年のだ）<lb />
+あんなにぐらぐらゆれるのだ<lb />
+さはやかだし顔も見えるから<lb />
+ここからはなしかけていゝ<lb />
+シヤツポをとれ（黒い羅紗もぬれ）<lb />
+このひとはもう五十ぐらゐだ<lb />
+　（ちよつとお<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">ぎ</span><span type="rp">）</span></span>ぎ申しあんす<lb />
+　　盛岡行ぎ汽車なん時だべす）<lb />
+　（三時だたべが）<lb />
+ずゐぶん悲しい顔のひとだ<lb />
+博物館の能面にも出てゐるし<lb />
+どこかに鷹のきもちもある<lb />
+うしろのつめたく白い空では<lb />
+ほんたうの鷹がぶうぶう風を截る<lb />
+雨をおとすその<span type="ruby"><span type="rb">雲母摺</span><span type="rp">（</span><span type="rt">きらず</span><span type="rp">）</span></span>りの雲の下<lb />
+はたけに置かれた二台のくるま<lb />
+このひとはもう行かうとする<lb />
+白い種子は<span type="ruby"><span type="rb">燕麦</span><span type="rp">（</span><span type="rt">オート</span><span type="rp">）</span></span>なのだ<lb />
+　　（<span type="ruby"><span type="rb">燕麦播</span><span type="rp">（</span><span type="rt">オートま</span><span type="rp">）</span></span>ぎすか）<lb />
+　　（あんいま<span type="ruby"><span type="rb">向</span><span type="rp">（</span><span type="rt">もご</span><span type="rp">）</span></span>でやつてら）<lb />
+この<span type="ruby"><span type="rb">爺</span><span type="rp">（</span><span type="rt">ぢい</span><span type="rp">）</span></span>さんはなにか向ふを畏れてゐる<lb />
+ひじやうに恐ろしくひどいことが<lb />
+そつちにあるとおもつてゐる<lb />
+そこには馬のつかない<span type="ruby"><span type="rb">廐肥車</span><span type="rp">（</span><span type="rt">こやしぐるま</span><span type="rp">）</span></span>と<lb />
+けはしく翔ける鼠いろの雲ばかり<lb />
+こはがつてゐるのは<lb />
+やつぱりあの<span type="ruby"><span type="rb">蒼鉛</span><span type="rp">（</span><span type="rt">さうえん</span><span type="rp">）</span></span>の労働なのか<lb />
+　　（こやし入れだのすか<lb />
+　　　<span type="ruby"><span type="rb">堆肥</span><span type="rp">（</span><span type="rt">たいひ</span><span type="rp">）</span></span>ど<span type="ruby"><span type="rb">過燐酸</span><span type="rp">（</span><span type="rt">くわりんさん</span><span type="rp">）</span></span>どすか）<lb />
+　　（あんさうす）<lb />
+　　（ずゐぶん気持のいゝ<span type="ruby"><span type="rb">処</span><span type="rp">（</span><span type="rt">どご</span><span type="rp">）</span></span>だもな）<lb />
+　　（ふう）<lb />
+この人はわたくしとはなすのを<lb />
+なにか大へんはばかつてゐる<lb />
+それはふたつのくるまのよこ<lb />
+はたけのをはりの<span type="ruby"><span type="rb">天末線</span><span type="rp">（</span><span type="rt">スカイライン</span><span type="rp">）</span></span><lb />
+ぐらぐらの空のこつち側を<lb />
+すこし<span type="ruby"><span type="rb">猫背</span><span type="rp">（</span><span type="rt">ねこぜ</span><span type="rp">）</span></span>でせいの高い<lb />
+くろい外套の男が<lb />
+雨雲に銃を構へて立つてゐる<lb />
+あの男がどこか気がへんで<lb />
+急に鉄砲をこつちへ向けるのか<lb />
+あるいは Miss Robin たちのことか<lb />
+それとも両方いつしよなのか<lb />
+どつちも心配しないでくれ<lb />
+わたしはどつちもこはくない<lb />
+やつてるやつてるそらで鳥が<lb />
+　（あの鳥何て云ふす　此処らで）<lb />
+　（ぶどしぎ）<lb />
+　（ぶどしぎて云ふのか）<lb />
+　（あん　曇るづどよぐ出はら）<lb />
+から松の芽の<span type="ruby"><span type="rb">緑玉髄</span><span type="rp">（</span><span type="rt">クリソプレース</span><span type="rp">）</span></span><lb />
+かけて行く雲のこつちの<span type="ruby"><span type="rb">射手</span><span type="rp">（</span><span type="rt">しやしゆ</span><span type="rp">）</span></span>は<lb />
+またもつたいらしく銃を構へる<lb />
+　（三時の次あ何時だべす）<lb />
+　（五時だべが　ゆぐ知らない）<lb />
+過燐酸石灰のヅツク袋<lb />
+<span type="ruby"><span type="rb">水溶</span><span type="rp">（</span><span type="rt">すゐよう</span><span type="rp">）</span></span>十九と書いてある<lb />
+学校のは十五％だ<lb />
+雨はふるしわたくしの黄いろな仕事着もぬれる<lb />
+遠くのそらではそのぼとしぎどもが<lb />
+大きく口をあいてビール瓶のやうに鳴り<lb />
+灰いろの咽喉の粘膜に風をあて<lb />
+めざましく雨を飛んでゐる<lb />
+少しばかり青いつめくさの交つた<lb />
+かれくさと雨の雫との上に<lb />
+<span type="ruby"><span type="rb">菩薩樹</span><span type="rp">（</span><span type="rt">まだ</span><span type="rp">）</span></span>皮の厚いけらをかぶつて<lb />
+さつきの娘たちがねむつてゐる<lb />
+<span type="ruby"><span type="rb">爺</span><span type="rp">（</span><span type="rt">ぢい</span><span type="rp">）</span></span>さんはもう向ふへ行き<lb />
+射手は肩を怒らして銃を構へる<lb />
+　　（ぼとしぎのつめたい発動機は……）<lb />
+ぼとしぎはぶうぶう鳴り<lb />
+いつたいなにを射たうといふのだ<lb />
+爺さんの行つた方から<lb />
+わかい農夫がやつてくる<lb />
+かほが赤くて新鮮にふとり<lb />
+セシルローズ型の円い肩をかゞめ<lb />
+燐酸のあき袋をあつめてくる<lb />
+二つはちやんと肩に着てゐる<lb />
+　　（降つてげだごとなさ）<lb />
+　　（なあにすぐ霽れらんす）<lb />
+火をたいてゐる<lb />
+赤い焔もちらちらみえる<lb />
+農夫も戻るしわたくしもついて行かう<lb />
+これらのからまつの小さな芽をあつめ<lb />
+わたくしの童話をかざりたい<lb />
+ひとりのむすめがきれいにわらつて起きあがる<lb />
+みんなはあかるい雨の中ですうすうねむる<lb />
+　　（うな　いいをなごだもな）<lb />
+にはかにそんなに大声にどなり<lb />
+まつ赤になつて石臼のやうに笑ふのは<lb />
+このひとは案外にわかいのだ<lb />
+すきとほつて火が燃えてゐる<lb />
+青い炭素のけむりも立つ<lb />
+わたくしもすこしあたりたい<lb />
+　　（おらも<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あだ</span><span type="rp">）</span></span>つでもいがべが）<lb />
+　　（いてす　さあおあだりやんせ）<lb />
+　　（汽車三時すか）<lb />
+　　（三時四十分<lb />
+　　　まだ一時にもならないも）<lb />
+火は雨でかへつて燃える<lb />
+<span type="ruby"><span type="rb">自由射手</span><span type="rp">（</span><span type="rt">フライシユツツ</span><span type="rp">）</span></span>は銀のそら<lb />
+ぼとしぎどもは鳴らす鳴らす<lb />
+すつかりぬれた　寒い　がたがたする<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi628">パート九</span></span></span>
+<lb />
+すきとほつてゆれてゐるのは<lb />
+さつきの<span type="ruby"><span type="rb">剽悍</span><span type="rp">（</span><span type="rt">へうかん</span><span type="rp">）</span></span>な四本のさくら<lb />
+わたくしはそれを知つてゐるけれども<lb />
+眼にははつきり見てゐない<lb />
+たしかにわたくしの感官の<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>で<lb />
+つめたい雨がそそいでゐる<lb />
+　（天の微光にさだめなく<lb />
+　　うかべる石をわがふめば<lb />
+　　おゝユリア　しづくはいとど降りまさり<lb />
+　　カシオペーアはめぐり行く）<lb />
+ユリアがわたくしの左を行く<lb />
+大きな紺いろの瞳をりんと張つて<lb />
+ユリアがわたくしの左を行く<lb />
+ペムペルがわたくしの右にゐる<lb />
+……………はさつき横へ<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>れた<lb />
+あのから松の列のとこから横へ外れた<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />幻想が向ふから迫つてくるときは<lb />
+　　　もうにんげんの壊れるときだ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+わたくしははつきり眼をあいてあるいてゐるのだ<lb />
+ユリア　ペムペル　わたくしの遠いともだちよ<lb />
+わたくしはずゐぶんしばらくぶりで<lb />
+きみたちの巨きなまつ白なすあしを見た<lb />
+どんなにわたくしはきみたちの昔の足あとを<lb />
+白堊系の頁岩の古い海岸にもとめただらう<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />あんまりひどい幻想だ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+わたくしはなにをびくびくしてゐるのだ<lb />
+どうしてもどうしてもさびしくてたまらないときは<lb />
+ひとはみんなきつと斯ういふことになる<lb />
+きみたちとけふあふことができたので<lb />
+わたくしはこの巨きな旅のなかの一つづりから<lb />
+血みどろになつて遁げなくてもいいのです<lb />
+　（ひばりが居るやうな居ないやうな<lb />
+　　腐植質から麦が生え<lb />
+　　雨はしきりに降つてゐる）<lb />
+さうです　農場のこのへんは<lb />
+まつたく不思議におもはれます<lb />
+どうしてかわたくしはここらを<lb />
+der heilige Punkt と<lb />
+呼びたいやうな気がします<lb />
+この冬だつて耕耘部まで用事で来て<lb />
+こゝいらの匂のいゝふぶきのなかで<lb />
+なにとはなしに聖いこころもちがして<lb />
+凍えさうになりながらいつまでもいつまでも<lb />
+いつたり来たりしてゐました<lb />
+さつきもさうです<lb />
+どこの子どもらですかあの瓔珞をつけた子は<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />そんなことでだまされてはいけない<lb />
+　　　ちがつた空間にはいろいろちがつたものがゐる<lb />
+　　　それにだいいちさつきからの考へやうが<lb />
+　　　まるで銅版のやうなのに気がつかないか<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+雨のなかでひばりが鳴いてゐるのです<lb />
+あなたがたは赤い瑪瑙の棘でいつぱいな野はらも<lb />
+その貝殻のやうに白くひかり<lb />
+底の平らな巨きなすあしにふむのでせう<lb />
+　　　もう決定した　そつちへ行くな<lb />
+　　　これらはみんなただしくない<lb />
+　　　いま疲れてかたちを更へたおまへの信仰から<lb />
+　　　発散して酸えたひかりの澱だ<lb />
+　　ちひさな自分を劃ることのできない<lb />
+　この不可思議な大きな心象宙宇のなかで<lb />
+もしも正しいねがひに燃えて<lb />
+じぶんとひとと万象といつしよに<lb />
+至上福祉にいたらうとする<lb />
+それをある宗教情操とするならば<lb />
+そのねがひから砕けまたは疲れ<lb />
+じぶんとそれからたつたもひとつのたましひと<lb />
+完全そして永久にどこまでもいつしよに行かうとする<lb />
+この変態を恋愛といふ<lb />
+そしてどこまでもその方向では<lb />
+決して求め得られないその恋愛の本質的な部分を<lb />
+むりにもごまかし求め得ようとする<lb />
+この傾向を性慾といふ<lb />
+すべてこれら漸移のなかのさまざまな過程に従つて<lb />
+さまざまな眼に見えまた見えない生物の種類がある<lb />
+この命題は可逆的にもまた正しく<lb />
+わたくしにはあんまり恐ろしいことだ<lb />
+けれどもいくら恐ろしいといつても<lb />
+それがほんたうならしかたない<lb />
+さあはつきり眼をあいてたれにも見え<lb />
+明確に物理学の法則にしたがふ<lb />
+これら実在の現象のなかから<lb />
+あたらしくまつすぐに起て<lb />
+明るい雨がこんなにたのしくそそぐのに<lb />
+馬車が行く　馬はぬれて黒い<lb />
+ひとはくるまに立つて行く<lb />
+もうけつしてさびしくはない<lb />
+なんべんさびしくないと云つたとこで<lb />
+またさびしくなるのはきまつてゐる<lb />
+けれどもここはこれでいいのだ<lb />
+すべてさびしさと悲傷とを焚いて<lb />
+ひとは透明な軌道をすすむ<lb />
+ラリツクス　ラリツクス　いよいよ青く<lb />
+雲はますます縮れてひかり<lb />
+わたくしはかつきりみちをまがる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、五、二一）</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi728">グランド電柱</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi738">林と思想</span></span></span>
+<lb />
+<lb />
+そら　ね　ごらん<lb />
+むかふに霧にぬれてゐる<lb />
+<span type="ruby"><span type="rb">蕈</span><span type="rp">（</span><span type="rt">きのこ</span><span type="rp">）</span></span>のかたちのちひさな林があるだらう<lb />
+あすこのとこへ<lb />
+わたしのかんがへが<lb />
+ずゐぶんはやく流れて行つて<lb />
+みんな<lb />
+溶け込んでゐるのだよ<lb />
+　　こゝいらはふきの花でいつぱいだ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、四）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi748">霧とマツチ</span></span></span>
+<lb />
+<lb />
+（まちはづれのひのきと青いポプラ）<lb />
+霧のなかからにはかにあかく燃えたのは<lb />
+しゆつと擦られたマツチだけれども<lb />
+ずゐぶん拡大されてゐる<lb />
+スヰヂツシ安全マツチだけれども<lb />
+よほど酸素が多いのだ<lb />
+（明方の霧のなかの電燈は<lb />
+まめいろで匂もいゝし<lb />
+小学校長をたかぶつて散歩することは<lb />
+まことにつつましく見える）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、四）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi758">芝生</span></span></span>
+<lb />
+<lb />
+風とひのきのひるすぎに<lb />
+小田中はのびあがり<lb />
+あらんかぎり手をのばし<lb />
+灰いろのゴムのまり　光の標本を<lb />
+受けかねてぽろつとおとす<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi768">
+青い槍の葉<lb />
+　　（mental sketch modified）<lb />
+</span></span>
+</span>
+<lb />
+<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+雲は来るくる南の地平<lb />
+そらのエレキを寄せてくる<lb />
+鳥はなく啼く青木のほずゑ<lb />
+くもにやなぎのくわくこどり<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+雲がちぎれて日ざしが降れば<lb />
+<span type="ruby"><span type="rb">黄金</span><span type="rp">（</span><span type="rt">キン</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">幻燈</span><span type="rp">（</span><span type="rt">げんとう</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">草</span><span type="rp">（</span><span type="rt">くさ</span><span type="rp">）</span></span>の青<lb />
+気圏日本のひるまの底の<lb />
+泥にならべるくさの列<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+雲はくるくる日は銀の盤<lb />
+エレキづくりのかはやなぎ<lb />
+風が通ればさえ<span type="ruby"><span type="rb">冴</span><span type="rp">（</span><span type="rt">ざ</span><span type="rp">）</span></span>え鳴らし<lb />
+馬もはねれば黒びかり<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+雲がきれたかまた日がそそぐ<lb />
+土のスープと草の列<lb />
+黒くをどりはひるまの<span type="ruby"><span type="rb">燈籠</span><span type="rp">（</span><span type="rt">とうろ</span><span type="rp">）</span></span><lb />
+泥のコロイドその底に<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+りんと立て立て青い槍の葉<lb />
+たれを刺さうの槍ぢやなし<lb />
+ひかりの底でいちにち日がな<lb />
+泥にならべるくさの列<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+雲がちぎれてまた夜があけて<lb />
+そらは<span type="ruby"><span type="rb">黄水晶</span><span type="rp">（</span><span type="rt">シトリン</span><span type="rp">）</span></span>ひでりあめ<lb />
+風に霧ふくぶりきのやなぎ<lb />
+くもにしらしらそのやなぎ<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+りんと立て立て青い槍の葉<lb />
+そらはエレキのしろい網<lb />
+かげとひかりの六月の底<lb />
+気圏日本の青野原<lb />
+　　（ゆれるゆれるやなぎはゆれる）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、六、一二<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi778">報告</span></span></span>
+<lb />
+<lb />
+さつき火事だとさわぎましたのは虹でございました<lb />
+もう一時間もつづいてりんと張つて居ります<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、一五）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi788">風景観察官</span></span></span>
+<lb />
+<lb />
+あの林は<lb />
+あんまり<span type="ruby"><span type="rb">緑青</span><span type="rp">（</span><span type="rt">ろくしやう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">盛</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>り過ぎたのだ<lb />
+それでも自然ならしかたないが<lb />
+また多少プウルキインの現象にもよるやうだが<lb />
+も少しそらから<span type="ruby"><span type="rb">橙黄線</span><span type="rp">（</span><span type="rt">たうわうせん</span><span type="rp">）</span></span>を送つてもらふやうにしたら<lb />
+どうだらう<lb />
+<lb />
+ああ何といふいい精神だ<lb />
+株式取引所や議事堂でばかり<lb />
+フロツクコートは着られるものでない<lb />
+むしろこんな<span type="ruby"><span type="rb">黄水晶</span><span type="rp">（</span><span type="rt">シトリン</span><span type="rp">）</span></span>の夕方に<lb />
+まつ<span type="ruby"><span type="rb">青</span><span type="rp">（</span><span type="rt">さを</span><span type="rp">）</span></span>な稲の槍の間で<lb />
+ホルスタインの<span type="ruby"><span type="rb">群</span><span type="rp">（</span><span type="rt">ぐん</span><span type="rp">）</span></span>を指導するとき<lb />
+よく適合し効果もある<lb />
+何といふいい精神だらう<lb />
+たとへそれが<span type="ruby"><span type="rb">羊羹</span><span type="rp">（</span><span type="rt">やうかん</span><span type="rp">）</span></span>いろでぼろぼろで<lb />
+あるいはすこし暑くもあらうが<lb />
+あんなまじめな直立や<lb />
+風景のなかの敬虔な人間を<lb />
+わたくしはいままで見たことがない<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、二五）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi798">岩手山</span></span></span>
+<lb />
+<lb />
+そらの<span type="ruby"><span type="rb">散乱反射</span><span type="rp">（</span><span type="rt">さんらんはんしや</span><span type="rp">）</span></span>のなかに<lb />
+古ぼけて黒くゑぐるもの<lb />
+ひかりの<span type="ruby"><span type="rb">微塵系列</span><span type="rp">（</span><span type="rt">みぢんけいれつ</span><span type="rp">）</span></span>の底に<lb />
+きたなくしろく<span type="ruby"><span type="rb">澱</span><span type="rp">（</span><span type="rt">よど</span><span type="rp">）</span></span>むもの<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、二七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi808">高原</span></span></span>
+<lb />
+<lb />
+海だべがど　おら　おもたれば<lb />
+やつぱり光る山だたぢやい<lb />
+ホウ<lb />
+<span type="ruby"><span type="rb">髪毛</span><span type="rp">（</span><span type="rt">かみけ</span><span type="rp">）</span></span>　風吹けば<lb />
+<span type="ruby"><span type="rb">鹿</span><span type="rp">（</span><span type="rt">しし</span><span type="rp">）</span></span>踊りだぢやい<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、二七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi818">印象</span></span></span>
+<lb />
+<lb />
+ラリツクスの青いのは<lb />
+木の新鮮と神経の性質と両方からくる<lb />
+そのとき展望車の藍いろの紳士は<lb />
+Ｘ型のかけがねのついた帯革をしめ<lb />
+すきとほつてまつすぐにたち<lb />
+病気のやうな顔をして<lb />
+ひかりの山を見てゐたのだ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、二七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi828">高級の霧</span></span></span>
+<lb />
+<lb />
+こいつはもう<lb />
+あんまり明るい<span type="ruby"><span type="rb">高級</span><span type="rp">（</span><span type="rt">ハイグレード</span><span type="rp">）</span></span>の霧です<lb />
+白樺も芽をふき<lb />
+からすむぎも<lb />
+農舎の屋根も<lb />
+馬もなにもかも<lb />
+光りすぎてまぶしくて<lb />
+　　（よくおわかりのことでせうが<lb />
+　　　<span type="ruby"><span type="rb">日射</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>しのなかの青と金<lb />
+　　　<span type="ruby"><span type="rb">落葉松</span><span type="rp">（</span><span type="rt">ラリツクス</span><span type="rp">）</span></span>は<lb />
+　　　たしかとどまつに似て居ります）<lb />
+まぶし過ぎて<lb />
+空気さへすこし痛いくらゐです<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、六、二七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi838">電車</span></span></span>
+<lb />
+<lb />
+トンネルへはひるのでつけた電燈ぢやないのです<lb />
+車掌がほんのおもしろまぎれにつけたのです<lb />
+こんな豆ばたけの風のなかで<lb />
+<lb />
+　なあに　山火事でござんせう<lb />
+　なあに　山火事でござんせう<lb />
+　あんまり大きござんすから<lb />
+　はてな　向ふの光るあれは雲ですな<lb />
+　木きつてゐますな<lb />
+　いゝえ　やつぱり山火事でござんせう<lb />
+<lb />
+おい　きさま<lb />
+日本の萱の野原をゆくビクトルカランザの配下<lb />
+帽子が風にとられるぞ<lb />
+こんどは青い<span type="ruby"><span type="rb">稗</span><span type="rp">（</span><span type="rt">ひえ</span><span type="rp">）</span></span>を行く貧弱カランザの末輩<lb />
+きさまの馬はもう汗でぬれてゐる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、八、一七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi848">天然誘接</span></span></span>
+<lb />
+<lb />
+　　<span type="ruby"><span type="rb">北斎</span><span type="rp">（</span><span type="rt">ほくさい</span><span type="rp">）</span></span>のはんのきの下で<lb />
+　　黄の風車まはるまはる<lb />
+いつぽんすぎは<span type="ruby"><span type="rb">天然誘接</span><span type="rp">（</span><span type="rt">てんねんよびつぎ</span><span type="rp">）</span></span>ではありません<lb />
+<span type="ruby"><span type="rb">槻</span><span type="rp">（</span><span type="rt">つき</span><span type="rp">）</span></span>と杉とがいつしよに生えていつしよに育ち<lb />
+たうとう幹がくつついて<lb />
+険しい<span type="ruby"><span type="rb">天光</span><span type="rp">（</span><span type="rt">てんくわう</span><span type="rp">）</span></span>に立つといふだけです<lb />
+鳥も棲んではゐますけれど<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、八、一七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi858">
+<span type="ruby"><span type="rb">原体剣舞連</span><span type="rp">（</span><span type="rt">はらたいけんばひれん</span><span type="rp">）</span></span><lb />
+　　（mental sketch modified）<lb />
+</span></span>
+</span>
+<lb />
+<lb />
+　　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+こんや<span type="ruby"><span type="rb">異装</span><span type="rp">（</span><span type="rt">いさう</span><span type="rp">）</span></span>のげん月のした<lb />
+<span type="ruby"><span type="rb">鶏</span><span type="rp">（</span><span type="rt">とり</span><span type="rp">）</span></span>の黒尾を<span type="ruby"><span type="rb">頭巾</span><span type="rp">（</span><span type="rt">づきん</span><span type="rp">）</span></span>にかざり<lb />
+<span type="ruby"><span type="rb">片刃</span><span type="rp">（</span><span type="rt">かたは</span><span type="rp">）</span></span>の太刀をひらめかす<lb />
+<span type="ruby"><span type="rb">原体</span><span type="rp">（</span><span type="rt">はらたい</span><span type="rp">）</span></span>村の<span type="ruby"><span type="rb">舞手</span><span type="rp">（</span><span type="rt">をどりこ</span><span type="rp">）</span></span>たちよ<lb />
+<span type="ruby"><span type="rb">鴾</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>いろのはるの<span type="ruby"><span type="rb">樹液</span><span type="rp">（</span><span type="rt">じゆえき</span><span type="rp">）</span></span>を<lb />
+アルペン農の<span type="ruby"><span type="rb">辛酸</span><span type="rp">（</span><span type="rt">しんさん</span><span type="rp">）</span></span>に投げ<lb />
+<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">せい</span><span type="rp">）</span></span>しののめの草いろの火を<lb />
+高原の風とひかりにさゝげ<lb />
+<span type="ruby"><span type="rb">菩提樹皮</span><span type="rp">（</span><span type="rt">まだかは</span><span type="rp">）</span></span>と縄とをまとふ<lb />
+気圏の戦士わが<span type="ruby"><span type="rb">朋</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>たちよ<lb />
+青らみわたる<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-94/1-94-05.png" rend="gaiji" rendition="img" source="※(「景＋頁」、第3水準1-94-5)" />気</span><span type="rp">（</span><span type="rt">かうき</span><span type="rp">）</span></span>をふかみ<lb />
+楢と<span type="ruby"><span type="rb">椈</span><span type="rp">（</span><span type="rt">ぶな</span><span type="rp">）</span></span>とのうれひをあつめ<lb />
+<span type="ruby"><span type="rb">蛇紋山地</span><span type="rp">（</span><span type="rt">じやもんさんち</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">篝</span><span type="rp">（</span><span type="rt">かがり</span><span type="rp">）</span></span>をかかげ<lb />
+ひのきの髪をうちゆすり<lb />
+まるめろの匂のそらに<lb />
+あたらしい星雲を燃せ<lb />
+　　　dah-dah-sko-dah-dah<lb />
+<span type="ruby"><span type="rb">肌膚</span><span type="rp">（</span><span type="rt">きふ</span><span type="rp">）</span></span>を腐植と土にけづらせ<lb />
+筋骨はつめたい炭酸に<span type="ruby"><span type="rb">粗</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>び<lb />
+<span type="ruby"><span type="rb">月月</span><span type="rp">（</span><span type="rt">つきづき</span><span type="rp">）</span></span>に日光と風とを焦慮し<lb />
+敬虔に年を<span type="ruby"><span type="rb">累</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>ねた<span type="ruby"><span type="rb">師父</span><span type="rp">（</span><span type="rt">しふ</span><span type="rp">）</span></span>たちよ<lb />
+こんや銀河と森とのまつり<lb />
+<span type="ruby"><span type="rb">准</span><span type="rp">（</span><span type="rt">じゆん</span><span type="rp">）</span></span>平原の<span type="ruby"><span type="rb">天末線</span><span type="rp">（</span><span type="rt">てんまつせん</span><span type="rp">）</span></span>に<lb />
+さらにも強く鼓を鳴らし<lb />
+うす月の雲をどよませ<lb />
+　　Ho!　Ho!　Ho!<lb />
+　　　　　むかし<span type="ruby"><span type="rb">達谷</span><span type="rp">（</span><span type="rt">たつた</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">悪路王</span><span type="rp">（</span><span type="rt">あくろわう</span><span type="rp">）</span></span><lb />
+　　　　　まつくらくらの二里の<span type="ruby"><span type="rb">洞</span><span type="rp">（</span><span type="rt">ほら</span><span type="rp">）</span></span><lb />
+　　　　　わたるは夢と<span type="ruby"><span type="rb">黒夜神</span><span type="rp">（</span><span type="rt">こくやじん</span><span type="rp">）</span></span><lb />
+　　　　　首は刻まれ漬けられ<lb />
+アンドロメダもかゞりにゆすれ<lb />
+　　　　　青い<span type="ruby"><span type="rb">仮面</span><span type="rp">（</span><span type="rt">めん</span><span type="rp">）</span></span>このこけおどし<lb />
+　　　　　太刀を浴びてはいつぷかぷ<lb />
+　　　　　夜風の底の<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>をどり<lb />
+　　　　　胃袋はいてぎつたぎた<lb />
+　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+さらにただしく<span type="ruby"><span type="rb">刃</span><span type="rp">（</span><span type="rt">やいば</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">合</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>はせ<lb />
+<span type="ruby"><span type="rb">霹靂</span><span type="rp">（</span><span type="rt">へきれき</span><span type="rp">）</span></span>の青火をくだし<lb />
+<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">しはう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鬼神</span><span type="rp">（</span><span type="rt">きじん</span><span type="rp">）</span></span>をまねき<lb />
+<span type="ruby"><span type="rb">樹液</span><span type="rp">（</span><span type="rt">じゆえき</span><span type="rp">）</span></span>もふるふこの<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>さひとよ<lb />
+赤ひたたれを地にひるがへし<lb />
+<span type="ruby"><span type="rb">雹雲</span><span type="rp">（</span><span type="rt">ひよううん</span><span type="rp">）</span></span>と風とをまつれ<lb />
+　　dah-dah-dah-dahh<lb />
+<span type="ruby"><span type="rb">夜風</span><span type="rp">（</span><span type="rt">よかぜ</span><span type="rp">）</span></span>とどろきひのきはみだれ<lb />
+月は<span type="ruby"><span type="rb">射</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>そそぐ銀の矢並<lb />
+打つも<span type="ruby"><span type="rb">果</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>てるも火花のいのち<lb />
+太刀の<span type="ruby"><span type="rb">軋</span><span type="rp">（</span><span type="rt">きし</span><span type="rp">）</span></span>りの消えぬひま<lb />
+　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+太刀は<span type="ruby"><span type="rb">稲妻萱穂</span><span type="rp">（</span><span type="rt">いなづまかやぼ</span><span type="rp">）</span></span>のさやぎ<lb />
+獅子の<span type="ruby"><span type="rb">星座</span><span type="rp">（</span><span type="rt">せいざ</span><span type="rp">）</span></span>に散る火の雨の<lb />
+消えてあとない<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>のがはら<lb />
+打つも果てるもひとつのいのち<lb />
+　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、八、三一<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi868">グランド電柱</span></span></span>
+<lb />
+<lb />
+あめと雲とが地面に垂れ<lb />
+すすきの赤い穂も洗はれ<lb />
+野原はすがすがしくなつたので<lb />
+<span type="ruby"><span type="rb">花巻</span><span type="rp">（</span><span type="rt">はなまき</span><span type="rp">）</span></span>グランド<span type="ruby"><span type="rb">電柱</span><span type="rp">（</span><span type="rt">でんちゆう</span><span type="rp">）</span></span>の<lb />
+百の<span type="ruby"><span type="rb">碍子</span><span type="rp">（</span><span type="rt">がいし</span><span type="rp">）</span></span>にあつまる雀<lb />
+<lb />
+掠奪のために田にはひり<lb />
+うるうるうるうると飛び<lb />
+雲と雨とのひかりのなかを<lb />
+すばやく<span type="ruby"><span type="rb">花巻大三叉路</span><span type="rp">（</span><span type="rt">はなまきだいさんさろ</span><span type="rp">）</span></span>の<lb />
+百の碍子にもどる雀<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi878">山巡査</span></span></span>
+<lb />
+<lb />
+おお<lb />
+何といふ立派な楢だ<lb />
+緑の<span type="ruby"><span type="rb">勲爵士</span><span type="rp">（</span><span type="rt">ナイト</span><span type="rp">）</span></span>だ<lb />
+雨にぬれてまつすぐに立つ緑の<span type="ruby"><span type="rb">勲爵士</span><span type="rp">（</span><span type="rt">ナイト</span><span type="rp">）</span></span>だ<lb />
+<lb />
+栗の木ばやしの青いくらがりに<lb />
+しぶきや雨にびしやびしや洗はれてゐる<lb />
+その長いものは一体舟か<lb />
+それともそりか<lb />
+あんまりロシヤふうだよ<lb />
+<lb />
+沼に生えるものはやなぎやサラド<lb />
+きれいな<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">よし</span><span type="rp">）</span></span>のサラドだ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi888">電線工夫</span></span></span>
+<lb />
+<lb />
+でんしんばしらの気まぐれ碍子の修繕者<lb />
+雲とあめとの下のあなたに忠告いたします<lb />
+それではあんまりアラビアンナイト型です<lb />
+からだをそんなに黒くかつきり鍵にまげ<lb />
+外套の裾もぬれてあやしく垂れ<lb />
+ひどく手先を動かすでもないその修繕は<lb />
+あんまりアラビアンナイト型です<lb />
+あいつは悪魔のためにあの上に<lb />
+つけられたのだと云はれたとき<lb />
+どうあなたは弁解をするつもりです<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi898">たび人</span></span></span>
+<lb />
+<lb />
+あめの稲田の中を行くもの<lb />
+<span type="ruby"><span type="rb">海坊主林</span><span type="rp">（</span><span type="rt">うみばうずばやし</span><span type="rp">）</span></span>のはうへ急ぐもの<lb />
+雲と山との陰気のなかへ歩くもの<lb />
+もつと合羽をしつかりしめろ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi908">竹と楢</span></span></span>
+<lb />
+<lb />
+<span type="ruby"><span type="rb">煩悶</span><span type="rp">（</span><span type="rt">はんもん</span><span type="rp">）</span></span>ですか<lb />
+煩悶ならば<lb />
+雨の降るとき<lb />
+竹と<span type="ruby"><span type="rb">楢</span><span type="rp">（</span><span type="rt">なら</span><span type="rp">）</span></span>との林の中がいいのです<lb />
+　　（おまへこそ髪を刈れ）<lb />
+竹と楢との青い林の中がいいのです<lb />
+　　（おまへこそ髪を刈れ<lb />
+　　　そんな髪をしてゐるから<lb />
+　　　そんなことも考へるのだ）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi918">銅線</span></span></span>
+<lb />
+<lb />
+おい　銅線をつかつたな<lb />
+とんぼのからだの銅線をつかひ出したな<lb />
+　　　はんのき　はんのき<lb />
+　　　交錯<span type="ruby"><span type="rb">光乱転</span><span type="rp">（</span><span type="rt">くわうらんてん</span><span type="rp">）</span></span><lb />
+気圏日本では<lb />
+たうとう電線に銅をつかひ出した<lb />
+　　（光るものは碍子<lb />
+　　　過ぎて行くものは赤い萱の穂）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、一七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi928">滝沢野</span></span></span>
+<lb />
+<lb />
+<span type="ruby"><span type="rb">光波測定</span><span type="rp">（</span><span type="rt">くわうはそくてい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">誤差</span><span type="rp">（</span><span type="rt">ごさ</span><span type="rp">）</span></span>から<lb />
+から松のしんは<span type="ruby"><span type="rb">徒長</span><span type="rp">（</span><span type="rt">とちやう</span><span type="rp">）</span></span>し<lb />
+柏の木の<span type="ruby"><span type="rb">烏瓜</span><span type="rp">（</span><span type="rt">からすうり</span><span type="rp">）</span></span>ランタン<lb />
+　　（ひるの鳥は曠野に啼き<lb />
+　　　あざみは青い棘に<span type="ruby"><span type="rb">遷</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>る）<lb />
+太陽が梢に発射するとき<lb />
+暗い林の入口にひとりたたずむものは<lb />
+四角な若い樺の木で<lb />
+Green Dwarf といふ品種<lb />
+日光のために燃え尽きさうになりながら<lb />
+燃えきらず青くけむるその木<lb />
+羽虫は一疋づつ光り<lb />
+鞍掛や銀の錯乱<lb />
+　　　（寛政十一年は百二十年前です）<lb />
+そらの魚の<span type="ruby"><span type="rb">涎</span><span type="rp">（</span><span type="rt">よだ</span><span type="rp">）</span></span>れはふりかかり<lb />
+<span type="ruby"><span type="rb">天末線</span><span type="rp">（</span><span type="rt">スカイライン</span><span type="rp">）</span></span>の恐ろしさ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、一七）</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1028">東岩手火山</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1038">東岩手火山</span></span></span>
+<lb />
+<lb />
+　月は水銀　<span type="ruby"><span type="rb">後夜</span><span type="rp">（</span><span type="rt">ごや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">喪主</span><span type="rp">（</span><span type="rt">もしゆ</span><span type="rp">）</span></span><lb />
+　火山<span type="ruby"><span type="rb">礫</span><span type="rp">（</span><span type="rt">れき</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">沈澱</span><span type="rp">（</span><span type="rt">ちんでん</span><span type="rp">）</span></span><lb />
+　火口の<span type="ruby"><span type="rb">巨</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>きなゑぐりを見ては<lb />
+　たれもみんな愕くはずだ<lb />
+　　（風としづけさ）<lb />
+　いま<span type="ruby"><span type="rb">漂着</span><span type="rp">（</span><span type="rt">へうちやく</span><span type="rp">）</span></span>する薬師<span type="ruby"><span type="rb">外輪山</span><span type="rp">（</span><span type="rt">ぐわいりんざん</span><span type="rp">）</span></span><lb />
+　頂上の石標もある<lb />
+　　（月光は水銀　月光は水銀）<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />こんなことはじつにまれです<lb />
+向ふの黒い山……つて　それですか<lb />
+それはここのつづきです<lb />
+ここのつづきの外輪山です<lb />
+あすこのてつぺんが絶頂です<lb />
+向ふの？<lb />
+向ふのは御室火口です<lb />
+これから外輪山をめぐるのですけれども<lb />
+いまはまだなんにも見えませんから<lb />
+もすこし明るくなつてからにしませう<lb />
+えゝ　太陽が出なくても<lb />
+あかるくなつて<lb />
+西岩手火山のはうの火口湖やなにか<lb />
+見えるやうにさへなればいいんです<lb />
+お日さまはあすこらへんで拝みます<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　黒い絶頂の右肩と<lb />
+　そのときのまつ赤な太陽<lb />
+　わたくしは見てゐる<lb />
+　あんまり真赤な幻想の太陽だ<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />いまなん時です<lb />
+三時四十分？<lb />
+ちやうど一時間<lb />
+いや四十分ありますから<lb />
+寒いひとは提灯でも持つて<lb />
+この岩のかげに居てください<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　ああ　暗い雲の海だ<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />向ふの黒いのはたしかに早池峰です<lb />
+線になつて浮きあがつてるのは北上山地です<lb />
+　うしろ？<lb />
+　あれですか<lb />
+あれは雲です　柔らかさうですね<lb />
+雲が駒ヶ岳に被さつたのです<lb />
+水蒸気を含んだ風が<lb />
+駒ヶ岳にぶつつかつて<lb />
+上にあがり<lb />
+あんなに雲になつたのです<lb />
+<span type="ruby"><span type="rb">鳥海山</span><span type="rp">（</span><span type="rt">てうかいさん</span><span type="rp">）</span></span>は見えないやうです<lb />
+けれども<lb />
+夜が明けたら見えるかもしれませんよ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　　（柔かな雲の波だ<lb />
+　　　あんな大きなうねりなら<lb />
+　　　月光会社の五千噸の汽船も<lb />
+　　　動揺を感じはしないだらう<lb />
+　　　その質は<lb />
+　　　蛋白石　glass-wool<lb />
+　　　あるいは水酸化礬土の沈澱）<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />じつさいこんなことは稀なのです<lb />
+わたくしはもう十何べんも来てゐますが<lb />
+こんなにしづかで<lb />
+そして暖かなことはなかつたのです<lb />
+麓の谷の底よりも<lb />
+さつきの九合の小屋よりも<lb />
+却つて暖かなくらゐです<lb />
+今夜のやうなしづかな晩は<lb />
+つめたい空気は下へ沈んで<lb />
+霜さへ降らせ<lb />
+暖い空気は<lb />
+上に浮んで来るのです<lb />
+これが気温の逆転です<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　御室火口の<span type="ruby"><span type="rb">盛</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>りあがりは<lb />
+　月のあかりに照らされてゐるのか<lb />
+　それともおれたちの提灯のあかりか<lb />
+　提灯だといふのは勿体ない<lb />
+　ひはいろで暗い<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />それではもう四十分ばかり<lb />
+寄り合つて待つておいでなさい<lb />
+さうさう　北はこつちです<lb />
+北斗七星は<lb />
+いま山の下の方に落ちてゐますが<lb />
+北斗星はあれです<lb />
+それは小熊座といふ<lb />
+あの七つの中なのです<lb />
+それから向ふに<lb />
+縦に三つならんだ星が見えませう<lb />
+下には斜めに房が下つたやうになり<lb />
+右と左とには<lb />
+赤と青と大きな星がありませう<lb />
+あれはオリオンです　オライオンです<lb />
+あの房の下のあたりに<lb />
+星雲があるといふのです<lb />
+いま見えません<lb />
+その下のは大犬のアルフア<lb />
+冬の晩いちばん光つて<span type="ruby"><span type="rb">目立</span><span type="rp">（</span><span type="rt">めだ</span><span type="rp">）</span></span>つやつです<lb />
+夏の蝎とうら表です<lb />
+さあみなさん　ご勝手におあるきなさい<lb />
+向ふの白いのですか<lb />
+雪ぢやありません<lb />
+けれども行つてごらんなさい<lb />
+まだ一時間もありますから<lb />
+私もスケツチをとります<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　はてな　わたくしの帳面の<lb />
+　書いた分がたつた三枚になつてゐる<lb />
+　事によると月光のいたづらだ<lb />
+　藤原が提灯を見せてゐる<lb />
+　ああ頁が折れ込んだのだ<lb />
+　さあでは私はひとり行かう<lb />
+　外輪山の自然な美しい歩道の上を<lb />
+　月の半分は<span type="ruby"><span type="rb">赤銅</span><span type="rp">（</span><span type="rt">しやくどう</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">地球照</span><span type="rp">（</span><span type="rt">アースシヤイン</span><span type="rp">）</span></span><lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />お月さまには黒い処もある<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />後<span type="ruby"><span type="rb">藤</span><span type="rp">（</span><span type="rt">どう</span><span type="rp">）</span></span>又兵衛いつつも拝んだづなす<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　私のひとりごとの反響に<lb />
+　小田島<span type="ruby"><span type="rb">治衛</span><span type="rp">（</span><span type="rt">はるゑ</span><span type="rp">）</span></span>が云つてゐる<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />山中鹿之助だらう<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　もうかまはない　歩いていゝ<lb />
+　　　どつちにしてもそれは<span type="ruby"><span type="rb">善</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>いことだ<lb />
+二十五日の月のあかりに照らされて<lb />
+薬師火口の外輪山をあるくとき<lb />
+わたくしは地球の華族である<lb />
+蛋白石の雲は遥にたゝへ<lb />
+オリオン　金牛　もろもろの星座<lb />
+澄み切り澄みわたつて<lb />
+瞬きさへもすくなく<lb />
+わたくしの額の上にかがやき<lb />
+　さうだ　オリオンの右肩から<lb />
+　ほんたうに鋼青の壮麗が<lb />
+　ふるへて私にやつて来る<lb />
+<lb />
+三つの提灯は夢の火口原の<lb />
+白いとこまで降りてゐる<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />雪ですか　雪ぢやないでせう<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+困つたやうに返事してゐるのは<lb />
+雪でなく　仙人草のくさむらなのだ<lb />
+さうでなければ<span type="ruby"><span type="rb">高陵土</span><span type="rp">（</span><span type="rt">カオリンゲル</span><span type="rp">）</span></span><lb />
+残りの一つの提灯は<lb />
+一升のところに停つてゐる<lb />
+それはきつと河村慶助が<lb />
+外套の袖にぼんやり手を引つ込めてゐる<lb />
+<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />御室</span><span type="rp">（</span><span type="rt">おむろ</span><span type="rp">）</span></span>の方の火口へでもお入りなさい<lb />
+噴火口へでも入つてごらんなさい<lb />
+硫黄のつぶは拾へないでせうが<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+斯んなによく声がとゞくのは<lb />
+メガホーンもしかけてあるのだ<lb />
+しばらく躊躇してゐるやうだ<lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />先生　中さ<span type="ruby"><span type="rb">入</span><span type="rp">（</span><span type="rt">はひ</span><span type="rp">）</span></span>つてもいがべすか<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />えゝ　おはひりなさい　大丈夫です<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+提灯が三つ沈んでしまふ<lb />
+そのでこぼこのまつ黒の線<lb />
+すこしのかなしさ<lb />
+けれどもこれはいつたいなんといふいゝことだ<lb />
+大きな帽子をかぶり<lb />
+ちぎれた繻子のマントを着て<lb />
+薬師火口の外輪山の<lb />
+しづかな月明を行くといふのは<lb />
+<lb />
+この石標は<lb />
+下向の道と書いてあるにさうゐない<lb />
+火口のなかから提灯が出て来た<lb />
+宮沢の声もきこえる<lb />
+雲の海のはてはだんだん平らになる<lb />
+それは一つの<span type="ruby"><span type="rb">雲平線</span><span type="rp">（</span><span type="rt">うんぴやうせん</span><span type="rp">）</span></span>をつくるのだ<lb />
+雲平線をつくるのだといふのは<lb />
+月のひかりのひだりから<lb />
+みぎへすばやく擦過した<lb />
+一つの夜の幻覚だ<lb />
+いま火口原の中に<lb />
+一点しろく<span type="ruby"><span type="rb">光</span><span type="rp">（</span><span type="rt">ひか</span><span type="rp">）</span></span>るもの<lb />
+わたくしを呼んでゐる呼んでゐるのか<lb />
+私は気圏オペラの役者です<lb />
+鉛筆のさやは光り<lb />
+速かに指の黒い影はうごき<lb />
+唇を円くして立つてゐる私は<lb />
+たしかに気圏オペラの役者です<lb />
+また月光と火山塊のかげ<lb />
+向ふの黒い巨きな壁は<lb />
+熔岩か集塊岩　力強い肩だ<lb />
+とにかく夜があけてお鉢廻りのときは<lb />
+あすこからこつちへ出て来るのだ<lb />
+なまぬるい風だ<lb />
+これが気温の逆転だ<lb />
+　　（つかれてゐるな<lb />
+　　　わたしはやつぱり睡いのだ）<lb />
+火山弾には黒い影<lb />
+その<span type="ruby"><span type="rb">妙好</span><span type="rp">（</span><span type="rt">めうかう</span><span type="rp">）</span></span>の火口丘には<lb />
+幾条かの軌道のあと<lb />
+鳥の声！<lb />
+鳥の声！<lb />
+海抜六千八百尺の<lb />
+月明をかける鳥の声<lb />
+鳥はいよいよしつかりとなき<lb />
+私はゆつくりと踏み<lb />
+月はいま二つに見える<lb />
+やつぱり疲れからの乱視なのだ<lb />
+<lb />
+かすかに光る火山塊の一つの面<lb />
+オリオンは<span type="ruby"><span type="rb">幻怪</span><span type="rp">（</span><span type="rt">げんくわい</span><span type="rp">）</span></span><lb />
+月のまはりは熟した瑪瑙と葡萄<lb />
+あくびと月光の<span type="ruby"><span type="rb">動転</span><span type="rp">（</span><span type="rt">どうてん</span><span type="rp">）</span></span><lb />
+　　　　（あんまりはねあるぐなぢやい<lb />
+　　　　　<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>ひとりだらいがべあ<lb />
+　　　　　<span type="ruby"><span type="rb">子供等</span><span type="rp">（</span><span type="rt">わらしやど</span><span type="rp">）</span></span>も連れでて目にあへば<lb />
+　　　　　<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>ひとりであすまないんだぢやい）<lb />
+<span type="ruby"><span type="rb">火口丘</span><span type="rp">（</span><span type="rt">くわこうきう</span><span type="rp">）</span></span>の上には天の川の小さな爆発<lb />
+みんなのデカンシヨの声も聞える<lb />
+月のその銀の角のはじが<lb />
+潰れてすこし円くなる<lb />
+天の海とオーパルの雲<lb />
+あたたかい空気は<lb />
+ふつと<span type="ruby"><span type="rb">撚</span><span type="rp">（</span><span type="rt">より</span><span type="rp">）</span></span>になつて飛ばされて来る<lb />
+きつと屈折率も低く<lb />
+濃い<span type="ruby"><span type="rb">蔗糖溶液</span><span type="rp">（</span><span type="rt">しよたうようえき</span><span type="rp">）</span></span>に<lb />
+また水を加へたやうなのだらう<lb />
+東は淀み<lb />
+<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちやうちん</span><span type="rp">）</span></span>はもとの火口の上に立つ<lb />
+また口笛を吹いてゐる<lb />
+わたくしも戻る<lb />
+わたくしの影を見たのか提灯も戻る<lb />
+　　（その影は鉄いろの背景の<lb />
+　　　ひとりの修羅に見える筈だ）<lb />
+さう考へたのは間違ひらしい<lb />
+とにかくあくびと影ぼふし<lb />
+空のあの辺の星は微かな散点<lb />
+すなはち空の模様がちがつてゐる<lb />
+そして今度は月が<span type="ruby"><span type="rb">蹇</span><span type="rp">（</span><span type="rt">ちぢ</span><span type="rp">）</span></span>まる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、一八）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+　　　　　　　　　（犬、マサニエロ等）<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1048">犬</span></span></span>
+<lb />
+<lb />
+なぜ吠えるのだ　二疋とも<lb />
+吠えてこつちへかけてくる<lb />
+　（夜明けのひのきは心象のそら）<lb />
+頭を下げることは犬の<span type="ruby"><span type="rb">常套</span><span type="rp">（</span><span type="rt">じやうたう</span><span type="rp">）</span></span>だ<lb />
+尾をふることはこはくない<lb />
+それだのに<lb />
+なぜさう本気に吠えるのだ<lb />
+その<span type="ruby"><span type="rb">薄明</span><span type="rp">（</span><span type="rt">はくめい</span><span type="rp">）</span></span>の二疋の犬<lb />
+一ぴきは灰色錫<lb />
+一ぴきの尾は茶の草穂<lb />
+うしろへまはつてうなつてゐる<lb />
+わたくしの歩きかたは不正でない<lb />
+それは犬の中の狼のキメラがこはいのと<lb />
+もひとつはさしつかへないため<lb />
+犬は薄明に溶解する<lb />
+うなりの尖端にはエレキもある<lb />
+いつもあるくのになぜ吠えるのだ<lb />
+ちやんと顔を見せてやれ<lb />
+ちやんと顔を見せてやれと<lb />
+誰かとならんであるきながら<lb />
+犬が吠えたときに云ひたい<lb />
+帽子があんまり大きくて<lb />
+おまけに下を向いてあるいてきたので<lb />
+吠え出したのだ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、九、二七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1058">マサニエロ</span></span></span>
+<lb />
+<lb />
+城のすすきの波の上には<lb />
+伊太利亜製の空間がある<lb />
+そこで烏の群が踊る<lb />
+<span type="ruby"><span type="rb">白雲母</span><span type="rp">（</span><span type="rt">しろうんも</span><span type="rp">）</span></span>のくもの幾きれ<lb />
+　　　（濠と<span type="ruby"><span type="rb">橄欖天鵞絨</span><span type="rp">（</span><span type="rt">かんらんびろうど</span><span type="rp">）</span></span>　杉）<lb />
+ぐみの木かそんなにひかつてゆするもの<lb />
+七つの銀のすすきの穂<lb />
+　（お城の下の桐畑でも　ゆれてゐるゆれてゐる　桐が）<lb />
+赤い<span type="ruby"><span type="rb">蓼</span><span type="rp">（</span><span type="rt">たで</span><span type="rp">）</span></span>の花もうごく<lb />
+すゞめ　すゞめ<lb />
+ゆつくり杉に飛んで稲にはひる<lb />
+そこはどての陰で気流もないので<lb />
+そんなにゆつくり飛べるのだ<lb />
+　　（なんだか風と悲しさのために胸がつまる）<lb />
+ひとの名前をなんべんも<lb />
+風のなかで繰り返してさしつかへないか<lb />
+　　（もうみんな鍬や縄をもち<lb />
+　　　崖をおりてきていゝころだ）<lb />
+いまは鳥のないしづかなそらに<lb />
+またからすが横からはひる<lb />
+屋根は矩形で傾斜白くひかり<lb />
+こどもがふたりかけて行く<lb />
+羽織をかざしてかける日本の子供ら<lb />
+こんどは茶いろの雀どもの抛物線<lb />
+金属製の桑のこつちを<lb />
+もひとりこどもがゆつくり行く<lb />
+蘆の穂は赤い赤い<lb />
+　　（ロシヤだよ　チエホフだよ）<lb />
+はこやなぎ　しつかりゆれろゆれろ<lb />
+　　（ロシヤだよ　ロシヤだよ）<lb />
+烏がもいちど飛びあがる<lb />
+稀硫酸の中の亜鉛屑は烏のむれ<lb />
+お城の上のそらはこんどは支那のそら<lb />
+烏三疋杉をすべり<lb />
+四疋になつて旋転する<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一〇、一〇）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1068">栗鼠と色鉛筆</span></span></span>
+<lb />
+<lb />
+樺の向ふで日はけむる<lb />
+つめたい露でレールはすべる<lb />
+靴革の料理のためにレールはすべる<lb />
+朝のレールを栗鼠は横切る<lb />
+横切るとしてたちどまる<lb />
+尾は der Herbst<lb />
+　日はまつしろにけむりだし<lb />
+栗鼠は走りだす<lb />
+　　水そばの<span type="ruby"><span type="rb">苹果緑</span><span type="rp">（</span><span type="rt">アツプルグリン</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">石竹</span><span type="rp">（</span><span type="rt">ピンク</span><span type="rp">）</span></span><lb />
+たれか三角やまの草を刈つた<lb />
+ずゐぶんうまくきれいに刈つた<lb />
+緑いろのサラアブレツド<lb />
+　　日は白金をくすぼらし<lb />
+　　一れつ黒い杉の槍<lb />
+その<span type="ruby"><span type="rb">早池峰</span><span type="rp">（</span><span type="rt">はやちね</span><span type="rp">）</span></span>と薬師岳との<span type="ruby"><span type="rb">雲環</span><span type="rp">（</span><span type="rt">うんくわん</span><span type="rp">）</span></span>は<lb />
+古い壁画のきららから<lb />
+再生してきて浮きだしたのだ<lb />
+　　色鉛筆がほしいつて<lb />
+　　ステツドラアのみじかいペンか<lb />
+　　ステツドラアのならいいんだが<lb />
+　　来月にしてもらひたいな<lb />
+　　まああの山と上の雲との模様を見ろ<lb />
+　　よく熟してゐてうまいから<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二二、一〇、一五）</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1168">無声慟哭</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1178">永訣の朝</span></span></span>
+<lb />
+<lb />
+けふのうちに<lb />
+とほくへいつてしまふわたくしのいもうとよ<lb />
+みぞれがふつておもてはへんにあかるいのだ<lb />
+　　　（<span rend="superscript" rendition="sup">＊</span>あめゆじゆとてちてけんじや）<lb />
+うすあかくいつそう<span type="ruby"><span type="rb">陰惨</span><span type="rp">（</span><span type="rt">いんざん</span><span type="rp">）</span></span>な雲から<lb />
+みぞれはびちよびちよふつてくる<lb />
+　　　（あめゆじゆとてちてけんじや）<lb />
+青い<span type="ruby"><span type="rb">蓴菜</span><span type="rp">（</span><span type="rt">じゆんさい</span><span type="rp">）</span></span>のもやうのついた<lb />
+これらふたつのかけた<span type="ruby"><span type="rb">陶椀</span><span type="rp">（</span><span type="rt">たうわん</span><span type="rp">）</span></span>に<lb />
+おまへがたべるあめゆきをとらうとして<lb />
+わたくしはまがつたてつぱうだまのやうに<lb />
+このくらいみぞれのなかに飛びだした<lb />
+　　　（あめゆじゆとてちてけんじや）<lb />
+<span type="ruby"><span type="rb">蒼鉛</span><span type="rp">（</span><span type="rt">さうえん</span><span type="rp">）</span></span>いろの暗い雲から<lb />
+みぞれはびちよびちよ沈んでくる<lb />
+ああとし子<lb />
+死ぬといふいまごろになつて<lb />
+わたくしをいつしやうあかるくするために<lb />
+こんなさつぱりした雪のひとわんを<lb />
+おまへはわたくしにたのんだのだ<lb />
+ありがたうわたくしのけなげないもうとよ<lb />
+わたくしもまつすぐにすすんでいくから<lb />
+　　　（あめゆじゆとてちてけんじや）<lb />
+はげしいはげしい熱やあへぎのあひだから<lb />
+おまへはわたくしにたのんだのだ<lb />
+　銀河や太陽　気圏などとよばれたせかいの<lb />
+そらからおちた雪のさいごのひとわんを……<lb />
+……ふたきれのみかげせきざいに<lb />
+みぞれはさびしくたまつてゐる<lb />
+わたくしはそのうへにあぶなくたち<lb />
+雪と水とのまつしろな<span type="ruby"><span type="rb">二相系</span><span type="rp">（</span><span type="rt">にさうけい</span><span type="rp">）</span></span>をたもち<lb />
+すきとほるつめたい雫にみちた<lb />
+このつややかな松のえだから<lb />
+わたくしのやさしいいもうとの<lb />
+さいごのたべものをもらつていかう<lb />
+わたしたちがいつしよにそだつてきたあひだ<lb />
+みなれたちやわんのこの藍のもやうにも<lb />
+もうけふおまへはわかれてしまふ<lb />
+（<span rend="superscript" rendition="sup">＊</span>Ora Orade Shitori egumo）<lb />
+ほんたうにけふおまへはわかれてしまふ<lb />
+あああのとざされた病室の<lb />
+くらいびやうぶやかやのなかに<lb />
+やさしくあをじろく燃えてゐる<lb />
+わたくしのけなげないもうとよ<lb />
+この雪はどこをえらばうにも<lb />
+あんまりどこもまつしろなのだ<lb />
+あんなおそろしいみだれたそらから<lb />
+このうつくしい雪がきたのだ<lb />
+　　　（<span rend="superscript" rendition="sup">＊</span>うまれでくるたて<lb />
+　　　　こんどはこたにわりやのごとばかりで<lb />
+　　　　くるしまなあよにうまれてくる）<lb />
+おまへがたべるこのふたわんのゆきに<lb />
+わたくしはいまこころからいのる<lb />
+どうかこれが天上のアイスクリームになつて<lb />
+おまへとみんなとに聖い資糧をもたらすやうに<lb />
+わたくしのすべてのさいはひをかけてねがふ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、一一、二七<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1188">松の針</span></span></span>
+<lb />
+<lb />
+　　さつきのみぞれをとつてきた<lb />
+　　あのきれいな松のえだだよ<lb />
+おお　おまへはまるでとびつくやうに<lb />
+そのみどりの葉にあつい頬をあてる<lb />
+そんな植物性の青い針のなかに<lb />
+はげしく頬を刺させることは<lb />
+むさぼるやうにさへすることは<lb />
+どんなにわたくしたちをおどろかすことか<lb />
+そんなにまでもおまへは林へ行きたかつたのだ<lb />
+おまへがあんなにねつに燃され<lb />
+あせやいたみでもだえてゐるとき<lb />
+わたくしは日のてるとこでたのしくはたらいたり<lb />
+ほかのひとのことをかんがへながら森をあるいてゐた<lb />
+　　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" /><span rend="superscript" rendition="sup">＊</span>ああいい　さつぱりした<lb />
+　　　　まるで林のながさ来たよだ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+鳥のやうに<span type="ruby"><span type="rb">栗鼠</span><span type="rp">（</span><span type="rt">りす</span><span type="rp">）</span></span>のやうに<lb />
+おまへは林をしたつてゐた<lb />
+どんなにわたくしがうらやましかつたらう<lb />
+ああけふのうちにとほくへさらうとするいもうとよ<lb />
+ほんたうにおまへはひとりでいかうとするか<lb />
+わたくしにいつしよに行けとたのんでくれ<lb />
+泣いてわたくしにさう言つてくれ<lb />
+　　おまへの頬の　けれども<lb />
+　　なんといふけふのうつくしさよ<lb />
+　　わたくしは緑のかやのうへにも<lb />
+　　この新鮮な松のえだをおかう<lb />
+　　いまに雫もおちるだらうし<lb />
+　　そら<lb />
+　　さはやかな<lb />
+　　<span type="ruby"><span type="rb">terpentine</span><span type="rp">（</span><span type="rt">ターペンテイン</span><span type="rp">）</span></span>の匂もするだらう<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、一一、二七<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1198">無声慟哭</span></span></span>
+<lb />
+<lb />
+こんなにみんなにみまもられながら<lb />
+おまへはまだここでくるしまなければならないか<lb />
+ああ巨きな信のちからからことさらにはなれ<lb />
+また純粋やちひさな徳性のかずをうしなひ<lb />
+わたくしが青ぐらい修羅をあるいてゐるとき<lb />
+おまへはじぶんにさだめられたみちを<lb />
+ひとりさびしく往かうとするか<lb />
+信仰を一つにするたつたひとりのみちづれのわたくしが<lb />
+あかるくつめたい<span type="ruby"><span type="rb">精進</span><span type="rp">（</span><span type="rt">しやうじん</span><span type="rp">）</span></span>のみちからかなしくつかれてゐて<lb />
+毒草や蛍光菌のくらい野原をただよふとき<lb />
+おまへはひとりどこへ行かうとするのだ<lb />
+　　（<span rend="superscript" rendition="sup">＊</span>おら　おかないふうしてらべ）<lb />
+何といふあきらめたやうな悲痛なわらひやうをしながら<lb />
+またわたくしのどんなちひさな表情も<lb />
+けつして見遁さないやうにしながら<lb />
+おまへはけなげに母に<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>くのだ<lb />
+　　（うんにや　ずゐぶん立派だぢやい<lb />
+　　　けふはほんとに立派だぢやい）<lb />
+ほんたうにさうだ<lb />
+髪だつていつそうくろいし<lb />
+まるでこどもの苹果の頬だ<lb />
+どうかきれいな頬をして<lb />
+あたらしく天にうまれてくれ<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" /><span rend="superscript" rendition="sup">＊</span>それでもからだくさえがべ？<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />うんにや　いつかう<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+ほんたうにそんなことはない<lb />
+かへつてここはなつののはらの<lb />
+ちひさな白い花の匂でいつぱいだから<lb />
+ただわたくしはそれをいま言へないのだ<lb />
+　　　（わたくしは修羅をあるいてゐるのだから）<lb />
+わたくしのかなしさうな眼をしてゐるのは<lb />
+わたくしのふたつのこころをみつめてゐるためだ<lb />
+ああそんなに<lb />
+かなしく眼をそらしてはいけない<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、一一、二七<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></span>
+<lb />
+<span rend="jisage_10" rendition="div" style="margin-left: 10em">
+　註<lb />
+＊あめゆきとつてきてください<lb />
+＊あたしはあたしでひとりいきます<lb />
+＊またひとにうまれてくるときは<lb />
+　こんなにじぶんのことばかりで<lb />
+　くるしまないやうにうまれてきます<lb />
+＊ああいい　さつぱりした<lb />
+　まるではやしのなかにきたやうだ<lb />
+＊あたしこはいふうをしてるでせう<lb />
+＊それでもわるいにほひでせう<lb />
+</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1208">風林</span></span></span>
+<lb />
+<lb />
+　　（かしはのなかには鳥の巣がない<lb />
+　　　あんまりがさがさ鳴るためだ）<lb />
+ここは艸があんまり<span type="ruby"><span type="rb">粗</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>く<lb />
+とほいそらから空気をすひ<lb />
+おもひきり倒れるにてきしない<lb />
+そこに水いろによこたはり<lb />
+一列生徒らがやすんでゐる<lb />
+　　（かげはよると亜鉛とから合成される）<lb />
+それをうしろに<lb />
+わたくしはこの草にからだを投げる<lb />
+月はいましだいに銀のアトムをうしなひ<lb />
+かしははせなかをくろくかがめる<lb />
+<span type="ruby"><span type="rb">柳沢</span><span type="rp">（</span><span type="rt">やなぎさは</span><span type="rp">）</span></span>の杉はコロイドよりもなつかしく<lb />
+ばうずの<span type="ruby"><span type="rb">沼森</span><span type="rp">（</span><span type="rt">ぬまもり</span><span type="rp">）</span></span>のむかふには<lb />
+騎兵聯隊の灯も澱んでゐる<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ああおらはあど死んでもい<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />おらも死んでもい<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　　（それはしよんぼりたつてゐる宮沢か<lb />
+　　　さうでなければ小田島国友<lb />
+　　　　　　向ふの柏木立のうしろの闇が<lb />
+　　　　　　きらきらつといま顫へたのは<lb />
+　　　　　　Egmont Overture にちがひない<lb />
+　　　たれがそんなことを云つたかは<lb />
+　　　わたくしはむしろかんがへないでいい）<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />伝さん　しやつつ何枚　三枚着たの<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+せいの高くひとのいい佐藤伝四郎は<lb />
+月光の反照のにぶいたそがれのなかに<lb />
+しやつのぼたんをはめながら<lb />
+きつと口をまげてわらつてゐる<lb />
+降つてくるものはよるの微塵や風のかけら<lb />
+よこに鉛の針になつてながれるものは月光のにぶ<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ほお　おら……<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+言ひかけてなぜ堀田はやめるのか<lb />
+おしまひの声もさびしく反響してゐるし<lb />
+さういふことはいへばいい<lb />
+　　（言はないなら手帳へ書くのだ）<lb />
+とし子とし子<lb />
+野原へ来れば<lb />
+また風の中に立てば<lb />
+きつとおまへをおもひだす<lb />
+おまへはその巨きな木星のうへに居るのか<lb />
+鋼青壮麗のそらのむかふ<lb />
+　（ああけれどもそのどこかも知れない空間で<lb />
+　　光の紐やオーケストラがほんたうにあるのか<lb />
+　　…………<span type="ruby"><span type="rb">此処</span><span type="rp">（</span><span type="rt">こご</span><span type="rp">）</span></span>あ<span type="ruby"><span type="rb">日</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>あ<span type="ruby"><span type="rb">永</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>あがくて<lb />
+　　　　　　<span type="ruby"><span type="rb">一日</span><span type="rp">（</span><span type="rt">いちにぢ</span><span type="rp">）</span></span>のうちの<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いづ</span><span type="rp">）</span></span>だがもわがらないで……<lb />
+　　ただひときれのおまへからの通信が<lb />
+　　いつか汽車のなかでわたくしにとどいただけだ）<lb />
+とし子　わたくしは高く呼んでみようか<lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />手<span type="ruby"><span type="rb">凍</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>えだ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />手凍えだ？<lb />
+　　俊夫ゆぐ凍えるな<lb />
+　　こなひだもボダンおれさ掛げらせだぢやい<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+俊夫といふのはどつちだらう　川村だらうか<lb />
+あの青ざめた喜劇の天才「植物医師」の一役者<lb />
+わたくしははね起きなければならない<lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />おゝ　俊夫てどつちの俊夫<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />川村<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+やつぱりさうだ<lb />
+月光は柏のむれをうきたたせ<lb />
+かしははいちめんさらさらと鳴る<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、六、三）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1218">白い鳥</span></span></span>
+<lb />
+<lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />みんなサラーブレツドだ<lb />
+　　あゝいふ馬　誰行つても押へるにいがべが<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />よつぽどなれたひとでないと<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+古風なくらかけやまのした<lb />
+おきなぐさの冠毛がそよぎ<lb />
+鮮かな青い樺の木のしたに<lb />
+何匹かあつまる茶いろの馬<lb />
+じつにすてきに光つてゐる<lb />
+　　　（日本絵巻のそらの群青や<lb />
+　　　　天末の <span type="ruby"><span type="rb">turquois</span><span type="rp">（</span><span type="rt">タコイス</span><span type="rp">）</span></span> はめづらしくないが<lb />
+　　　　あんな大きな心相の<lb />
+　　　　光の<span type="ruby"><span type="rb">環</span><span type="rp">（</span><span type="rt">くわん</span><span type="rp">）</span></span>は風景の中にすくない）<lb />
+二疋の大きな白い鳥が<lb />
+鋭くかなしく啼きかはしながら<lb />
+しめつた朝の日光を飛んでゐる<lb />
+それはわたくしのいもうとだ<lb />
+死んだわたくしのいもうとだ<lb />
+兄が来たのであんなにかなしく啼いてゐる<lb />
+　　（それは一応はまちがひだけれども<lb />
+　　　まつたくまちがひとは言はれない）<lb />
+あんなにかなしく啼きながら<lb />
+朝のひかりをとんでゐる<lb />
+　　（あさの日光ではなくて<lb />
+　　　熟してつかれたひるすぎらしい）<lb />
+けれどもそれも夜どほしあるいてきたための<lb />
+<span type="ruby"><span type="rb">vague</span><span type="rp">（</span><span type="rt">バーグ</span><span type="rp">）</span></span> な銀の錯覚なので<lb />
+　　（ちやんと今朝あのひしげて融けた<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">キン</span><span type="rp">）</span></span>の液体が<lb />
+　　　青い夢の北上山地からのぼつたのをわたくしは見た）<lb />
+どうしてそれらの鳥は二羽<lb />
+そんなにかなしくきこえるか<lb />
+それはじぶんにすくふちからをうしなつたとき<lb />
+わたくしのいもうとをもうしなつた<lb />
+そのかなしみによるのだが<lb />
+　　　（ゆふべは柏ばやしの月あかりのなか<lb />
+　　　　けさはすずらんの花のむらがりのなかで<lb />
+　　　　なんべんわたくしはその名を呼び<lb />
+　　　　またたれともわからない声が<lb />
+　　　　人のない野原のはてからこたへてきて<lb />
+　　　　わたくしを嘲笑したことか）<lb />
+そのかなしみによるのだが<lb />
+またほんたうにあの声もかなしいのだ<lb />
+いま鳥は二羽　かゞやいて白くひるがへり<lb />
+むかふの湿地　青い蘆のなかに降りる<lb />
+降りようとしてまたのぼる<lb />
+　　（日本武尊の新らしい御陵の前に<lb />
+　　　おきさきたちがうちふして嘆き<lb />
+　　　そこからたまたま千鳥が飛べば<lb />
+　　　それを尊のみたまとおもひ<lb />
+　　　蘆に足をも傷つけながら<lb />
+　　　海べをしたつて行かれたのだ）<lb />
+清原がわらつて立つてゐる<lb />
+　（日に灼けて光つてゐるほんたうの農村のこども<lb />
+　　その菩薩ふうのあたまの<span type="ruby"><span type="rb">容</span><span type="rp">（</span><span type="rt">かたち</span><span type="rp">）</span></span>はガンダーラから来た）<lb />
+水が光る　きれいな銀の水だ<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />さああすこに水があるよ<lb />
+　口をすゝいでさつぱりして往かう<lb />
+　こんなきれいな野はらだから<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、六、四）</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1318">オホーツク挽歌</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1328">青森挽歌</span></span></span>
+<lb />
+<lb />
+こんなやみよののはらのなかをゆくときは<lb />
+客車のまどはみんな水族館の窓になる<lb />
+　　　（乾いたでんしんばしらの列が<lb />
+　　　　せはしく遷つてゐるらしい<lb />
+　　　　きしやは銀河系の<span type="ruby"><span type="rb">玲瓏</span><span type="rp">（</span><span type="rt">れいろう</span><span type="rp">）</span></span>レンズ<lb />
+　　　　巨きな水素のりんごのなかをかけてゐる）<lb />
+りんごのなかをはしつてゐる<lb />
+けれどもここはいつたいどこの停車<span type="ruby"><span type="rb">場</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>だ<lb />
+枕木を焼いてこさへた柵が立ち<lb />
+　　　（八月の　よるのしじまの　<span type="ruby"><span type="rb">寒天凝膠</span><span type="rp">（</span><span type="rt">アガアゼル</span><span type="rp">）</span></span>）<lb />
+支手のあるいちれつの柱は<lb />
+なつかしい陰影だけでできてゐる<lb />
+黄いろなラムプがふたつ<span type="ruby"><span type="rb">点</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>き<lb />
+せいたかくあをじろい駅長の<lb />
+真鍮棒もみえなければ<lb />
+じつは駅長のかげもないのだ<lb />
+　　　（その大学の昆虫学の助手は<lb />
+　　　　こんな車室いつぱいの液体のなかで<lb />
+　　　　油のない赤<span type="ruby"><span type="rb">髪</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>をもじやもじやして<lb />
+　　　　かばんにもたれて睡つてゐる）<lb />
+わたくしの汽車は北へ走つてゐるはずなのに<lb />
+ここではみなみへかけてゐる<lb />
+焼杭の柵はあちこち倒れ<lb />
+はるかに黄いろの地平線<lb />
+それはビーアの<span type="ruby"><span type="rb">澱</span><span type="rp">（</span><span type="rt">おり</span><span type="rp">）</span></span>をよどませ<lb />
+あやしいよるの　陽炎と<lb />
+さびしい心意の明滅にまぎれ<lb />
+水いろ川の水いろ駅<lb />
+　　（おそろしいあの水いろの空虚なのだ）<lb />
+汽車の逆行は<span type="ruby"><span type="rb">希求</span><span type="rp">（</span><span type="rt">ききう</span><span type="rp">）</span></span>の同時な相反性<lb />
+こんなさびしい幻想から<lb />
+わたくしははやく浮びあがらなければならない<lb />
+そこらは青い孔雀のはねでいつぱい<lb />
+真鍮の睡さうな脂肪酸にみち<lb />
+車室の五つの電燈は<lb />
+いよいよつめたく液化され<lb />
+　　（考へださなければならないことを<lb />
+　　　わたくしはいたみやつかれから<lb />
+　　　なるべくおもひださうとしない）<lb />
+今日のひるすぎなら<lb />
+けはしく光る雲のしたで<lb />
+まつたくおれたちはあの重い赤いポムプを<lb />
+ばかのやうに引つぱつたりついたりした<lb />
+おれはその黄いろな服を着た隊長だ<lb />
+だから睡いのはしかたない<lb />
+　　（<span type="ruby"><span type="rb">おゝおまへ</span><span type="rp">（</span><span type="rt">オー　ヅウ</span><span type="rp">）</span></span>　<span type="ruby"><span type="rb">せはしいみちづれよ</span><span type="rp">（</span><span type="rt">アイリーガー　ゲゼルレ</span><span type="rp">）</span></span><lb />
+　　　どうかここから急いで去<span type="ruby"><span type="rb">らないでくれ</span><span type="rp">（</span><span type="rt">アイレドツホ　ニヒト　フオン　デヤ　ステルレ</span><span type="rp">）</span></span><lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />尋常一年生　ドイツの尋常一年生<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　　　いきなりそんな悪い叫びを<lb />
+　　　投げつけるのはいつたいたれだ<lb />
+　　　けれども尋常一年生だ<lb />
+　　　夜中を過ぎたいまごろに<lb />
+　　　こんなにぱつちり眼をあくのは<lb />
+　　　ドイツの尋常一年生だ）<lb />
+あいつはこんなさびしい停車場を<lb />
+たつたひとりで通つていつたらうか<lb />
+どこへ行くともわからないその方向を<lb />
+どの種類の世界へはひるともしれないそのみちを<lb />
+たつたひとりでさびしくあるいて行つたらうか<lb />
+　（草や沼やです<lb />
+　　一本の木もです）<lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ギルちやんまつさをになつてすわつてゐたよ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />こおんなにして眼は大きくあいてたけど<lb />
+　　ぼくたちのことはまるでみえないやうだつたよ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ナーガラがね　眼をじつとこんなに赤くして<lb />
+　　だんだん<span type="ruby"><span type="rb">環</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>をちひさくしたよ　こんなに<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />し　環をお切り　そら　手を出して<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ギルちやん青くてすきとほるやうだつたよ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />鳥がね　たくさんたねまきのときのやうに<lb />
+　　ばあつと空を通つたの<lb />
+　　でもギルちやんだまつてゐたよ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />お日さまあんまり変に飴いろだつたわねえ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ギルちやんちつともぼくたちのことみないんだもの<lb />
+　　ぼくほんたうにつらかつた<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />さつきおもだかのとこであんまりはしやいでたねえ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />どうしてギルちやんぼくたちのことみなかつたらう<lb />
+　　忘れたらうかあんなにいつしよにあそんだのに<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+かんがへださなければならないことは<lb />
+どうしてもかんがへださなければならない<lb />
+とし子はみんなが死ぬとなづける<lb />
+そのやりかたを通つて行き<lb />
+それからさきどこへ行つたかわからない<lb />
+それはおれたちの空間の方向ではかられない<lb />
+感ぜられない方向を感じようとするときは<lb />
+たれだつてみんなぐるぐるする<lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />耳ごうど鳴つてさつぱり聞けなぐなつたんちやい<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+さう甘えるやうに言つてから<lb />
+たしかにあいつはじぶんのまはりの<lb />
+眼にははつきりみえてゐる<lb />
+なつかしいひとたちの声をきかなかつた<lb />
+にはかに呼吸がとまり脈がうたなくなり<lb />
+それからわたくしがはしつて行つたとき<lb />
+あのきれいな眼が<lb />
+なにかを索めるやうに空しくうごいてゐた<lb />
+それはもうわたくしたちの空間を二度と見なかつた<lb />
+それからあとであいつはなにを感じたらう<lb />
+それはまだおれたちの世界の幻視をみ<lb />
+おれたちのせかいの幻聴をきいたらう<lb />
+わたくしがその耳もとで<lb />
+遠いところから声をとつてきて<lb />
+そらや愛やりんごや風　すべての勢力のたのしい根源<lb />
+万象同帰のそのいみじい生物の名を<lb />
+ちからいつぱいちからいつぱい叫んだとき<lb />
+あいつは二へんうなづくやうに息をした<lb />
+白い尖つたあごや頬がゆすれて<lb />
+ちひさいときよくおどけたときにしたやうな<lb />
+あんな偶然な顔つきにみえた<lb />
+けれどもたしかにうなづいた<lb />
+　　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ヘツケル博士！<lb />
+　　　　わたくしがそのありがたい証明の<lb />
+　　　　任にあたつてもよろしうございます<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　<span type="ruby"><span type="rb">仮睡硅酸</span><span type="rp">（</span><span type="rt">かすゐけいさん</span><span type="rp">）</span></span>の雲のなかから<lb />
+凍らすやうなあんな卑怯な叫び声は……<lb />
+　（宗谷海峡を越える晩は<lb />
+　　わたくしは夜どほし甲板に立ち<lb />
+　　あたまは具へなく陰湿の霧をかぶり<lb />
+　　からだはけがれたねがひにみたし<lb />
+　　そしてわたくしはほんたうに挑戦しよう）<lb />
+たしかにあのときはうなづいたのだ<lb />
+そしてあんなにつぎのあさまで<lb />
+胸がほとつてゐたくらゐだから<lb />
+わたくしたちが死んだといつて泣いたあと<lb />
+とし子はまだまだこの世かいのからだを感じ<lb />
+ねつやいたみをはなれたほのかなねむりのなかで<lb />
+ここでみるやうなゆめをみてゐたかもしれない<lb />
+そしてわたくしはそれらのしづかな夢幻が<lb />
+つぎのせかいへつゞくため<lb />
+明るいいゝ匂のするものだつたことを<lb />
+どんなにねがふかわからない<lb />
+ほんたうにその夢の中のひとくさりは<lb />
+かん護とかなしみとにつかれて睡つてゐた<lb />
+おしげ子たちのあけがたのなかに<lb />
+ぼんやりとしてはひつてきた<lb />
+<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />黄いろな花こ　おらもとるべがな<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+たしかにとし子はあのあけがたは<lb />
+まだこの世かいのゆめのなかにゐて<lb />
+落葉の風につみかさねられた<lb />
+野はらをひとりあるきながら<lb />
+ほかのひとのことのやうにつぶやいてゐたのだ<lb />
+そしてそのままさびしい林のなかの<lb />
+いつぴきの鳥になつただらうか<lb />
+I'estudiantina を風にききながら<lb />
+水のながれる暗いはやしのなかを<lb />
+かなしくうたつて飛んで行つたらうか<lb />
+やがてはそこに小さなプロペラのやうに<lb />
+音をたてて飛んできたあたらしいともだちと<lb />
+無心のとりのうたをうたひながら<lb />
+たよりなくさまよつて行つたらうか<lb />
+　　　わたくしはどうしてもさう思はない<lb />
+なぜ通信が許されないのか<lb />
+許されてゐる　そして私のうけとつた通信は<lb />
+母が夏のかん病のよるにゆめみたとおなじだ<lb />
+どうしてわたくしはさうなのをさうと思はないのだらう<lb />
+それらひとのせかいのゆめはうすれ<lb />
+あかつきの薔薇いろをそらにかんじ<lb />
+あたらしくさはやかな感官をかんじ<lb />
+日光のなかのけむりのやうな<span type="ruby"><span type="rb">羅</span><span type="rp">（</span><span type="rt">うすもの</span><span type="rp">）</span></span>をかんじ<lb />
+かがやいてほのかにわらひながら<lb />
+はなやかな雲やつめたいにほひのあひだを<lb />
+交錯するひかりの棒を過ぎり<lb />
+われらが上方とよぶその不可思議な方角へ<lb />
+それがそのやうであることにおどろきながら<lb />
+大循環の風よりもさはやかにのぼつて行つた<lb />
+わたくしはその跡をさへたづねることができる<lb />
+そこに碧い寂かな湖水の面をのぞみ<lb />
+あまりにもそのたひらかさとかがやきと<lb />
+未知な全反射の方法と<lb />
+さめざめとひかりゆすれる樹の列を<lb />
+ただしくうつすことをあやしみ<lb />
+やがてはそれがおのづから研かれた<lb />
+天の瑠璃の地面と知つてこゝろわななき<lb />
+紐になつてながれるそらの楽音<lb />
+また瓔珞やあやしいうすものをつけ<lb />
+移らずしかもしづかにゆききする<lb />
+巨きなすあしの生物たち<lb />
+遠いほのかな記憶のなかの花のかをり<lb />
+それらのなかにしづかに立つたらうか<lb />
+それともおれたちの声を聴かないのち<lb />
+暗紅色の深くもわるいがらん洞と<lb />
+意識ある蛋白質の砕けるときにあげる声<lb />
+亜硫酸や<span type="ruby"><span type="rb">笑気</span><span type="rp">（</span><span type="rt">せうき</span><span type="rp">）</span></span>のにほひ<lb />
+これらをそこに見るならば<lb />
+あいつはその中にまつ青になつて立ち<lb />
+立つてゐるともよろめいてゐるともわからず<lb />
+頬に手をあててゆめそのもののやうに立ち<lb />
+（わたくしがいまごろこんなものを感ずることが<lb />
+いつたいほんたうのことだらうか<lb />
+わたくしといふものがこんなものをみることが<lb />
+いつたいありうることだらうか<lb />
+そしてほんたうにみてゐるのだ）と<lb />
+斯ういつてひとりなげくかもしれない……<lb />
+わたくしのこんなさびしい考は<lb />
+みんなよるのためにできるのだ<lb />
+夜があけて海岸へかかるなら<lb />
+そして波がきらきら光るなら<lb />
+なにもかもみんないいかもしれない<lb />
+けれどもとし子の死んだことならば<lb />
+いまわたくしがそれを夢でないと考へて<lb />
+あたらしくぎくつとしなければならないほどの<lb />
+あんまりひどいげんじつなのだ<lb />
+感ずることのあまり新鮮にすぎるとき<lb />
+それをがいねん化することは<lb />
+きちがひにならないための<lb />
+生物体の一つの自衛作用だけれども<lb />
+いつでもまもつてばかりゐてはいけない<lb />
+ほんたうにあいつはここの感官をうしなつたのち<lb />
+あらたにどんなからだを得<lb />
+どんな感官をかんじただらう<lb />
+なんべんこれをかんがへたことか<lb />
+むかしからの多数の実験から<lb />
+倶舎がさつきのやうに云ふのだ<lb />
+二度とこれをくり返してはいけない<lb />
+おもては<span type="ruby"><span type="rb">軟玉</span><span type="rp">（</span><span type="rt">なんぎよく</span><span type="rp">）</span></span>と銀のモナド<lb />
+半月の噴いた瓦斯でいつぱいだ<lb />
+<span type="ruby"><span type="rb">巻積雲</span><span type="rp">（</span><span type="rt">けんせきうん</span><span type="rp">）</span></span>のはらわたまで<lb />
+月のあかりはしみわたり<lb />
+それはあやしい<span type="ruby"><span type="rb">蛍光板</span><span type="rp">（</span><span type="rt">けいくわうばん</span><span type="rp">）</span></span>になつて<lb />
+いよいよあやしい苹果の匂を発散し<lb />
+なめらかにつめたい窓硝子さへ越えてくる<lb />
+青森だからといふのではなく<lb />
+大てい月がこんなやうな暁ちかく<lb />
+巻積雲にはひるとき……<lb />
+　　　　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />おいおい　あの顔いろは少し青かつたよ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+だまつてゐろ<lb />
+おれのいもうとの死顔が<lb />
+まつ青だらうが黒からうが<lb />
+きさまにどう斯う云はれるか<lb />
+あいつはどこへ堕ちようと<lb />
+もう無上道に属してゐる<lb />
+力にみちてそこを進むものは<lb />
+どの空間にでも勇んでとびこんで行くのだ<lb />
+ぢきもう東の鋼もひかる<lb />
+ほんたうにけふの……きのふのひるまなら<lb />
+おれたちはあの重い赤いポムプを……<lb />
+　　　　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />もひとつきかせてあげよう<lb />
+　　　　　　ね　じつさいね<lb />
+　　　　　　あのときの眼は白かつたよ<lb />
+　　　　　　すぐ瞑りかねてゐたよ<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+まだいつてゐるのか<lb />
+もうぢきよるはあけるのに<lb />
+すべてあるがごとくにあり<lb />
+かゞやくごとくにかがやくもの<lb />
+おまへの武器やあらゆるものは<lb />
+おまへにくらくおそろしく<lb />
+まことはたのしくあかるいのだ<lb />
+　　　　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />みんなむかしからのきやうだいなのだから<lb />
+　　　　　　けつしてひとりをいのつてはいけない<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+ああ　わたくしはけつしてさうしませんでした<lb />
+あいつがなくなつてからあとのよるひる<lb />
+わたくしはただの一どたりと<lb />
+あいつだけがいいとこに行けばいいと<lb />
+さういのりはしなかつたとおもひます<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、八、一）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1338">オホーツク挽歌</span></span></span>
+<lb />
+<lb />
+海面は朝の炭酸のためにすつかり銹びた<lb />
+<span type="ruby"><span type="rb">緑青</span><span type="rp">（</span><span type="rt">ろくしやう</span><span type="rp">）</span></span>のとこもあれば<span type="ruby"><span type="rb">藍銅鉱</span><span type="rp">（</span><span type="rt">アズライト</span><span type="rp">）</span></span>のとこもある<lb />
+むかふの波のちゞれたあたりはずゐぶんひどい<span type="ruby"><span type="rb">瑠璃液</span><span type="rp">（</span><span type="rt">るりえき</span><span type="rp">）</span></span>だ<lb />
+チモシイの穂がこんなにみじかくなつて<lb />
+かはるがはるかぜにふかれてゐる<lb />
+　　（それは青いいろのピアノの鍵で<lb />
+　　　かはるがはる風に押されてゐる）<lb />
+あるいはみじかい変種だらう<lb />
+しづくのなかに朝顔が咲いてゐる<lb />
+モーニンググローリのそのグローリ<lb />
+　　いまさつきの曠原風の荷馬車がくる<lb />
+　　年老つた白い重挽馬は首を垂れ<lb />
+　　またこの男のひとのよさは<lb />
+　　わたくしがさつきあのがらんとした町かどで<lb />
+　　浜のいちばん賑やかなとこはどこですかときいた時<lb />
+　　そつちだらう　向ふには行つたことがないからと<lb />
+　　さう云つたことでもよくわかる<lb />
+　　いまわたくしを親切なよこ目でみて<lb />
+　　　（その小さなレンズには<lb />
+　　　　たしか樺太の白い雲もうつつてゐる）<lb />
+朝顔よりはむしろ<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ピオネア</span><span type="rp">）</span></span>のやうにみえる<lb />
+おほきなはまばらの花だ<lb />
+まつ赤な朝のはまなすの花です<lb />
+　ああこれらのするどい花のにほひは<lb />
+　もうどうしても　妖精のしわざだ<lb />
+　無数の藍いろの蝶をもたらし<lb />
+　またちひさな黄金の槍の穂<lb />
+　軟玉の花瓶や青い簾<lb />
+それにあんまり雲がひかるので<lb />
+たのしく激しいめまぐるしさ<lb />
+　　　馬のひづめの痕が二つづつ<lb />
+　　　ぬれて寂まつた褐砂の上についてゐる<lb />
+　　　もちろん馬だけ行つたのではない<lb />
+　　　広い荷馬車のわだちは<lb />
+　　　こんなに淡いひとつづり<lb />
+波の来たあとの白い細い線に<lb />
+小さな蚊が三疋さまよひ<lb />
+またほのぼのと吹きとばされ<lb />
+貝殻のいぢらしくも白いかけら<lb />
+萱草の青い花軸が半分砂に埋もれ<lb />
+波はよせるし砂を巻くし<lb />
+<lb />
+<lb />
+白い片岩類の小砂利に倒れ<lb />
+波できれいにみがかれた<lb />
+ひときれの貝殻を口に含み<lb />
+わたくしはしばらくねむらうとおもふ<lb />
+なぜならさつきあの熟した黒い実のついた<lb />
+まつ青なこけももの上等の<span type="ruby"><span type="rb">敷物</span><span type="rp">（</span><span type="rt">カーペツト</span><span type="rp">）</span></span>と<lb />
+おほきな赤いはまばらの花と<lb />
+不思議な<span type="ruby"><span type="rb">釣鐘草</span><span type="rp">（</span><span type="rt">ブリーベル</span><span type="rp">）</span></span>とのなかで<lb />
+サガレンの朝の妖精にやつた<lb />
+透明なわたくしのエネルギーを<lb />
+いまこれらの濤のおとや<lb />
+しめつたにほひのいい風や<lb />
+雲のひかりから恢復しなければならないから<lb />
+それにだいいちいまわたくしの心象は<lb />
+つかれのためにすつかり青ざめて<lb />
+眩ゆい緑金にさへなつてゐるのだ<lb />
+日射しや幾重の暗いそらからは<lb />
+あやしい鑵鼓の蕩音さへする<lb />
+<lb />
+<lb />
+わびしい草穂やひかりのもや<lb />
+<span type="ruby"><span type="rb">緑青</span><span type="rp">（</span><span type="rt">ろくしやう</span><span type="rp">）</span></span>は水平線までうららかに延び<lb />
+雲の累帯構造のつぎ目から<lb />
+一きれのぞく天の青<lb />
+強くもわたくしの胸は刺されてゐる<lb />
+それらの二つの青いいろは<lb />
+どちらもとし子のもつてゐた特性だ<lb />
+わたくしが樺太のひとのない海岸を<lb />
+ひとり歩いたり疲れて睡つたりしてゐるとき<lb />
+とし子はあの青いところのはてにゐて<lb />
+なにをしてゐるのかわからない<lb />
+とゞ松やえぞ松の荒さんだ幹や枝が<lb />
+ごちやごちや漂ひ置かれたその向ふで<lb />
+波はなんべんも巻いてゐる<lb />
+その巻くために砂が湧き<lb />
+潮水はさびしく濁つてゐる<lb />
+　（十一時十五分　その蒼じろく光る<span type="ruby"><span type="rb">盤面</span><span type="rp">（</span><span type="rt">ダイアル</span><span type="rp">）</span></span>）<lb />
+鳥は雲のこつちを上下する<lb />
+ここから今朝舟が滑つて行つたのだ<lb />
+砂に刻まれたその船底の痕と<lb />
+巨きな横の台木のくぼみ<lb />
+それはひとつの曲つた十字架だ<lb />
+幾本かの小さな木片で<lb />
+HELL と書きそれを LOVE となほし<lb />
+ひとつの十字架をたてることは<lb />
+よくたれでもがやる技術なので<lb />
+とし子がそれをならべたとき<lb />
+わたくしはつめたくわらつた<lb />
+　　（貝がひときれ砂にうづもれ<lb />
+　　　白いそのふちばかり出てゐる）<lb />
+やうやく乾いたばかりのこまかな砂が<lb />
+この十字架の刻みのなかをながれ<lb />
+いまはもうどんどん流れてゐる<lb />
+海がこんなに青いのに<lb />
+わたくしがまだとし子のことを考へてゐると<lb />
+なぜおまへはそんなにひとりばかりの妹を<lb />
+悼んでゐるかと遠いひとびとの表情が言ひ<lb />
+またわたくしのなかでいふ<lb />
+　（Casual observer ! Superficial traveler !）<lb />
+空があんまり光ればかへつてがらんと暗くみえ<lb />
+いまするどい羽をした三羽の鳥が飛んでくる<lb />
+あんなにかなしく啼きだした<lb />
+なにかしらせをもつてきたのか<lb />
+わたくしの片つ方のあたまは痛く<lb />
+遠くなつた栄浜の屋根はひらめき<lb />
+鳥はただ一羽硝子笛を吹いて<lb />
+玉髄の雲に漂つていく<lb />
+町やはとばのきららかさ<lb />
+その背のなだらかな丘陵の鴾いろは<lb />
+いちめんのやなぎらんの花だ<lb />
+爽やかな<span type="ruby"><span type="rb">苹果青</span><span type="rp">（</span><span type="rt">りんごせい</span><span type="rp">）</span></span>の草地と<lb />
+黒緑とどまつの列<lb />
+　（ナモサダルマプフンダリカサスートラ）<lb />
+五匹のちひさないそしぎが<lb />
+海の巻いてくるときは<lb />
+よちよちとはせて遁げ<lb />
+　（ナモサダルマプフンダリカサスートラ）<lb />
+浪がたひらにひくときは<lb />
+砂の鏡のうへを<lb />
+よちよちとはせてでる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、八、四）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1348">樺太鉄道</span></span></span>
+<lb />
+<lb />
+やなぎらんやあかつめくさの群落<lb />
+松脂岩薄片のけむりがただよひ<lb />
+鈴谷山脈は光霧か雲かわからない<lb />
+　　（灼かれた馴鹿の黒い頭骨は<lb />
+　　　線路のよこの赤砂利に<lb />
+　　　ごく敬虔に置かれてゐる）<lb />
+　そつと見てごらんなさい<lb />
+　やなぎが青くしげつてふるへてゐます<lb />
+　きつとポラリスやなぎですよ<lb />
+おお満艦飾のこのえぞにふの花<lb />
+月光いろのかんざしは<lb />
+すなほなコロボツクルのです<lb />
+　　（ナモサダルマプフンダリカサスートラ）<lb />
+Van't Hoff の雲の白髪の崇高さ<lb />
+崖にならぶものは<span type="ruby"><span type="rb">聖白樺</span><span type="rp">（</span><span type="rt">セントベチユラアルバ</span><span type="rp">）</span></span><lb />
+<lb />
+青びかり野はらをよぎる細流<lb />
+それはツンドラを截り<lb />
+　　　（光るのは電しんばしらの碍子）<lb />
+夕陽にすかし出されると<lb />
+その緑金の草の葉に<lb />
+ごく精巧ないちいちの葉脈<lb />
+　　　（樺の微動のうつくしさ）<lb />
+黒い木柵も設けられて<lb />
+やなぎらんの光の点綴<lb />
+　（こゝいらの樺の木は<lb />
+　　焼けた野原から生えたので<lb />
+　　みんな大乗風の考をもつてゐる）<lb />
+にせものの大乗居士どもをみんな灼け<lb />
+太陽もすこし青ざめて<lb />
+山脈の縮れた白い雲の上にかかり<lb />
+列車の窓の稜のひととこが<lb />
+プリズムになつて日光を反射し<lb />
+草地に投げられたスペクトル<lb />
+　（雲はさつきからゆつくり流れてゐる）<lb />
+日さへまもなくかくされる<lb />
+かくされる前には感応により<lb />
+かくされた後には威神力により<lb />
+まばゆい<span type="ruby"><span type="rb">白金環</span><span type="rp">（</span><span type="rt">はくきんくわん</span><span type="rp">）</span></span>ができるのだ<lb />
+　　（ナモサダルマプフンダリカサスートラ）<lb />
+たしかに日はいま羊毛の雲にはひらうとして<lb />
+サガレンの八月のすきとほつた空気を<lb />
+やうやく葡萄の<span type="ruby"><span type="rb">果汁</span><span type="rp">（</span><span type="rt">マスト</span><span type="rp">）</span></span>のやうに<lb />
+またフレツプスのやうに甘くはつかうさせるのだ<lb />
+そのためにえぞにふの花が一そう明るく見え<lb />
+松毛虫に食はれて枯れたその大きな山に<lb />
+桃いろな日光もそそぎ<lb />
+すべて天上技師 Nature 氏の<lb />
+ごく斬新な設計だ<lb />
+山の<span type="ruby"><span type="rb">襞</span><span type="rp">（</span><span type="rt">ひだ</span><span type="rp">）</span></span>のひとつのかげは<lb />
+緑青のゴーシユ四辺形<lb />
+そのいみじい<span type="ruby"><span type="rb">玲瓏</span><span type="rp">（</span><span type="rt">トランスリユーセント</span><span type="rp">）</span></span>のなかに<lb />
+からすが飛ぶと見えるのは<lb />
+一本のごくせいの高いとどまつの<lb />
+風に削り残された黒い梢だ<lb />
+　　（ナモサダルマプフンダリカサスートラ）<lb />
+結晶片岩山地では<lb />
+燃えあがる雲の銅粉<lb />
+　　　（向ふが燃えればもえるほど<span rend="notes">［＃「もえるほど」は底本では「もえるほど）」］</span><lb />
+　　　　ここらの樺ややなぎは暗くなる）<lb />
+こんなすてきな瑪瑙の<span type="ruby"><span type="rb">天蓋</span><span type="rp">（</span><span type="rt">キヤノピー</span><span type="rp">）</span></span><lb />
+その下ではぼろぼろの火雲が燃えて<lb />
+一きれはもう錬金の過程を了へ<lb />
+いまにも結婚しさうにみえる<lb />
+　（濁つてしづまる天の青らむ一かけら）<lb />
+いちめんいちめん海蒼のチモシイ<lb />
+めぐるものは神経質の<span type="ruby"><span type="rb">色丹松</span><span type="rp">（</span><span type="rt">ラーチ</span><span type="rp">）</span></span><lb />
+またえぞにふと<span type="ruby"><span type="rb">桃花心木</span><span type="rp">（</span><span type="rt">マホガニー</span><span type="rp">）</span></span>の柵<lb />
+こんなに青い白樺の間に<lb />
+鉋をかけた立派なうちをたてたので<lb />
+これはおれのうちだぞと<lb />
+その顔の赤い愉快な百姓が<lb />
+井上と少しびつこに大きく壁に書いたのだ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、八、四）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1358">鈴谷平原</span></span></span>
+<lb />
+<lb />
+蜂が一ぴき飛んで行く<lb />
+琥珀細工の春の器械<lb />
+蒼い眼をしたすがるです<lb />
+　　　（私のとこへあらはれたその蜂は<lb />
+　　　　ちやんと抛物線の図式にしたがひ<lb />
+　　　　さびしい未知へとんでいつた）<lb />
+チモシイの穂が青くたのしくゆれてゐる<lb />
+それはたのしくゆれてゐるといつたところで<lb />
+荘厳ミサや<span type="ruby"><span type="rb">雲環</span><span type="rp">（</span><span type="rt">うんくわん</span><span type="rp">）</span></span>とおなじやうに<lb />
+うれひや悲しみに対立するものではない<lb />
+だから新らしい蜂がまた一疋飛んできて<lb />
+ぼくのまはりをとびめぐり<lb />
+また茨や灌木にひつかかれた<lb />
+わたしのすあしを刺すのです<lb />
+こんなうるんで秋の雲のとぶ日<lb />
+鈴谷平野の荒さんだ山際の焼け跡に<lb />
+わたくしはこんなにたのしくすわつてゐる<lb />
+ほんたうにそれらの焼けたとゞまつが<lb />
+まつすぐに天に立つて加奈太式に風にゆれ<lb />
+また夢よりもたかくのびた白樺が<lb />
+青ぞらにわづかの新葉をつけ<lb />
+三稜玻璃にもまれ<lb />
+　　　（うしろの方はまつ青ですよ<lb />
+　　　　クリスマスツリーに使ひたいやうな<lb />
+　　　　あをいまつ青いとどまつが<lb />
+　　　　いつぱいに生えてゐるのです）<lb />
+いちめんのやなぎらんの群落が<lb />
+光ともやの紫いろの花をつけ<lb />
+遠くから近くからけむつてゐる<lb />
+　　　（さはしぎも啼いてゐる<lb />
+　　　　たしかさはしぎの発動機だ）<lb />
+こんやはもう標本をいつぱいもつて<lb />
+わたくしは宗谷海峡をわたる<lb />
+だから風の音が汽車のやうだ<lb />
+流れるものは二条の茶<lb />
+蛇ではなくて一ぴきの栗鼠<lb />
+いぶかしさうにこつちをみる<lb />
+　　（こんどは風が<lb />
+　　　みんなのがやがやしたはなし声にきこえ<lb />
+　　　うしろの遠い山の下からは<lb />
+　　　好摩の冬の青ぞらから落ちてきたやうな<lb />
+　　　すきとほつた大きなせきばらひがする<lb />
+　　　これはサガレンの古くからの誰かだ）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、八、七）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1368">噴火湾（ノクターン）</span></span></span>
+<lb />
+<lb />
+<span type="ruby"><span type="rb">稚</span><span type="rp">（</span><span type="rt">わか</span><span type="rp">）</span></span>いゑんどうの澱粉や緑金が<lb />
+どこから来てこんなに照らすのか<lb />
+　　（車室は軋みわたくしはつかれて睡つてゐる）<lb />
+とし子は大きく眼をあいて<lb />
+烈しい薔薇いろの火に燃されながら<lb />
+　　（あの七月の高い熱……）<lb />
+鳥が棲み空気の水のやうな林のことを考へてゐた<lb />
+　　（かんがへてゐたのか<lb />
+　　　いまかんがへてゐるのか）<lb />
+車室の軋りは二疋の<span type="ruby"><span type="rb">栗鼠</span><span type="rp">（</span><span type="rt">りす</span><span type="rp">）</span></span><lb />
+　　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ことしは勤めにそとへ出てゐないひとは<lb />
+　　　　みんなかはるがはる林へ行かう<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+<span type="ruby"><span type="rb">赤銅</span><span type="rp">（</span><span type="rt">しやくどう</span><span type="rp">）</span></span>の半月刀を腰にさげて<lb />
+どこかの生意気なアラビヤ酋長が言ふ<lb />
+七月末のそのころに<lb />
+思ひ余つたやうにとし子が言つた<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />おらあど死んでもいゝはんて<lb />
+　　　あの林の中さ行ぐだい<lb />
+　　　うごいで熱は高ぐなつても<lb />
+　　　あの林の中でだらほんとに死んでもいいはんて<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+鳥のやうに栗鼠のやうに<lb />
+そんなにさはやかな林を恋ひ<lb />
+　（栗鼠の軋りは水車の夜明け<lb />
+　　大きなくるみの木のしただ）<lb />
+一千九百二十三年の<lb />
+とし子はやさしく眼をみひらいて<lb />
+透明薔薇の身熱から<lb />
+青い林をかんがへてゐる<lb />
+フアゴツトの声が前方にし<lb />
+Funeral march があやしくいままたはじまり出す<lb />
+　　（車室の軋りはかなしみの二疋の栗鼠）<lb />
+　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />栗鼠お魚たべあんすのすか<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+　　（二等室のガラスは霜のもやう）<lb />
+もう明けがたに遠くない<lb />
+崖の木や草も明らかに見え<lb />
+車室の軋りもいつかかすれ<lb />
+一ぴきのちひさなちひさな白い蛾が<lb />
+天井のあかしのあたりを這つてゐる<lb />
+　　（車室の軋りは天の楽音）<lb />
+噴火湾のこの黎明の水明り<lb />
+室蘭通ひの汽船には<lb />
+二つの赤い灯がともり<lb />
+東の天末は濁つた孔雀石の縞<lb />
+黒く立つものは樺の木と楊の木<lb />
+駒ヶ岳駒ヶ岳<lb />
+暗い金属の雲をかぶつて立つてゐる<lb />
+そのまつくらな雲のなかに<lb />
+とし子がかくされてゐるかもしれない<lb />
+ああ何べん理智が教へても<lb />
+私のさびしさはなほらない<lb />
+わたくしの感じないちがつた空間に<lb />
+いままでここにあつた現象がうつる<lb />
+それはあんまりさびしいことだ<lb />
+　　（そのさびしいものを死といふのだ）<lb />
+たとへそのちがつたきらびやかな空間で<lb />
+とし子がしづかにわらはうと<lb />
+わたくしのかなしみにいぢけた感情は<lb />
+どうしてもどこかにかくされたとし子をおもふ<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、八、一一）</span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1468">風景とオルゴール</span></span></span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1478">不貪慾戒</span></span></span>
+<lb />
+<lb />
+油紙を着てぬれた馬に乗り<lb />
+つめたい風景のなか　暗い森のかげや<lb />
+ゆるやかな<span type="ruby"><span type="rb">環状削剥</span><span type="rp">（</span><span type="rt">くわんじやうせうはく</span><span type="rp">）</span></span>の丘　赤い萱の穂のあひだを<lb />
+ゆつくりあるくといふこともいゝし<lb />
+黒い多面角の<span type="ruby"><span type="rb">洋傘</span><span type="rp">（</span><span type="rt">かうもりがさ</span><span type="rp">）</span></span>をひろげ<lb />
+<span type="ruby"><span type="rb">砂砂</span><span type="rp">（</span><span type="rt">すなさ</span><span type="rp">）</span></span>糖を買ひに町へ出ることも<lb />
+ごく新鮮な企画である<lb />
+　　　（ちらけろちらけろ　四十雀）<lb />
+粗剛なオリザサチバといふ植物の人工群落が<lb />
+タアナアさへもほしがりさうな<lb />
+上等のさらどの色になつてゐることは<lb />
+<span type="ruby"><span type="rb">慈雲尊者</span><span type="rp">（</span><span type="rt">じうんそんじや</span><span type="rp">）</span></span>にしたがへば<lb />
+<span type="ruby"><span type="rb">不貪慾戒</span><span type="rp">（</span><span type="rt">ふとんよくかい</span><span type="rp">）</span></span>のすがたです<lb />
+　　　（ちらけろちらけろ　<span type="ruby"><span type="rb">四十雀</span><span type="rp">（</span><span type="rt">しじふから</span><span type="rp">）</span></span><lb />
+　　　　そのときの高等遊民は<lb />
+　　　　いましつかりした執政官だ）<lb />
+ことことと寂しさを噴く暗い山に<lb />
+防火線のひらめく灰いろなども<lb />
+慈雲尊者にしたがへば<lb />
+不貪慾戒のすがたです<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、八、二八）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1488">雲とはんのき</span></span></span>
+<lb />
+<lb />
+雲は羊毛とちぢれ<lb />
+黒緑<span type="ruby"><span type="rb">赤楊</span><span type="rp">（</span><span type="rt">はん</span><span type="rp">）</span></span>のモザイツク<lb />
+またなかぞらには氷片の雲がうかび<lb />
+すすきはきらつと光つて過ぎる<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />北ぞらのちぢれ羊から<lb />
+　　　おれの崇敬は照り返され<lb />
+　　　天の海と窓の日おほひ<lb />
+　　　おれの崇敬は照り返され<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+沼はきれいに鉋をかけられ<lb />
+朧ろな秋の水ゾルと<lb />
+つめたくぬるぬるした<span type="ruby"><span type="rb">蓴</span><span type="rp">（</span><span type="rt">じゆん</span><span type="rp">）</span></span>菜とから組成され<lb />
+ゆふべ一晩の雨でできた<lb />
+陶庵だか東庵だかの蒔絵の<lb />
+精製された水銀の川です<lb />
+アマルガムにさへならなかつたら<lb />
+銀の水車でもまはしていい<lb />
+無細工な銀の水車でもまはしていい<lb />
+　　　（赤紙をはられた火薬車だ<lb />
+　　　　あたまの奥ではもうまつ白に爆発してゐる）<lb />
+無細工の銀の水車でもまはすがいい<lb />
+カフカズ風に帽子を折つてかぶるもの<lb />
+感官のさびしい盈虚のなかで<lb />
+貨物車輪の裏の秋の明るさ<lb />
+　　（ひのきのひらめく六月に<lb />
+　　　おまへが刻んだその線は<lb />
+　　　やがてどんな重荷になつて<lb />
+　　　おまへに男らしい償ひを強ひるかわからない）<lb />
+　手宮文字です　手宮文字です<lb />
+こんなにそらがくもつて来て<lb />
+山も大へん尖つて青くくらくなり<lb />
+豆畑だつてほんたうにかなしいのに<lb />
+わづかにその山稜と雲との間には<lb />
+あやしい光の微塵にみちた<lb />
+<lb />
+幻惑の天がのぞき<lb />
+またそのなかにはかがやきまばゆい積雲の一列が<lb />
+こころも遠くならんでゐる<lb />
+これら葬送行進曲の層雲の底<lb />
+鳥もわたらない<span type="ruby"><span type="rb">清澄</span><span type="rp">（</span><span type="rt">せいとう</span><span type="rp">）</span></span>な空間を<lb />
+わたくしはたつたひとり<lb />
+つぎからつぎと冷たいあやしい幻想を抱きながら<lb />
+一梃のかなづちを持つて<lb />
+南の方へ石灰岩のいい層を<lb />
+さがしに行かなければなりません<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、八、三一）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1498">宗教風の恋</span></span></span>
+<lb />
+<lb />
+がさがさした稲もやさしい<span type="ruby"><span type="rb">油緑</span><span type="rp">（</span><span type="rt">ゆりよく</span><span type="rp">）</span></span>に熟し<lb />
+西ならあんな暗い立派な霧でいつぱい<lb />
+草穂はいちめん風で波立つてゐるのに<lb />
+可哀さうなおまへの弱いあたまは<lb />
+くらくらするまで青く乱れ<lb />
+いまに太田武か誰かのやうに<lb />
+眼のふちもぐちやぐちやになつてしまふ<lb />
+ほんたうにそんな偏つて尖つた心の動きかたのくせ<lb />
+なぜこんなにすきとほつてきれいな気層のなかから<lb />
+燃えて暗いなやましいものをつかまへるか<lb />
+信仰でしか得られないものを<lb />
+なぜ人間の中でしつかり捕へようとするか<lb />
+風はどうどう空で鳴つてるし<lb />
+東京の避難者たちは半分脳膜炎になつて<lb />
+いまでもまいにち遁げて来るのに<lb />
+どうしておまへはそんな医される筈のないかなしみを<lb />
+わざとあかるいそらからとるか<lb />
+いまはもうさうしてゐるときでない<lb />
+けれども悪いとかいゝとか云ふのではない<lb />
+あんまりおまへがひどからうとおもふので<lb />
+みかねてわたしはいつてゐるのだ<lb />
+さあなみだをふいてきちんとたて<lb />
+もうそんな宗教風の恋をしてはいけない<lb />
+そこはちやうど両方の空間が二重になつてゐるとこで<lb />
+おれたちのやうな初心のものに<lb />
+居られる場処では決してない<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、九、一六）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1508">風景とオルゴール</span></span></span>
+<lb />
+<lb />
+爽かなくだもののにほひに充ち<lb />
+つめたくされた銀製の<span type="ruby"><span type="rb">薄明穹</span><span type="rp">（</span><span type="rt">はくめいきゆう</span><span type="rp">）</span></span>を<lb />
+雲がどんどんかけてゐる<lb />
+<span type="ruby"><span type="rb">黒曜</span><span type="rp">（</span><span type="rt">こくえう</span><span type="rp">）</span></span>ひのきやサイプレスの中を<lb />
+一疋の馬がゆつくりやつてくる<lb />
+ひとりの農夫が乗つてゐる<lb />
+もちろん農夫はからだ半分ぐらゐ<lb />
+<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>だちやそこらの銀のアトムに溶け<lb />
+またじぶんでも溶けてもいいとおもひながら<lb />
+あたまの大きな曖昧な馬といつしよにゆつくりくる<lb />
+首を垂れておとなしくがさがさした南部馬<lb />
+黒く巨きな松倉山のこつちに<lb />
+一点のダアリア複合体<lb />
+その電燈の<span type="ruby"><span type="rb">企画</span><span type="rp">（</span><span type="rt">プラン</span><span type="rp">）</span></span>なら<lb />
+じつに九月の宝石である<lb />
+その電燈の献策者に<lb />
+わたくしは青い<span type="ruby"><span type="rb">蕃茄</span><span type="rp">（</span><span type="rt">トマト</span><span type="rp">）</span></span>を贈る<lb />
+どんなにこれらのぬれたみちや<lb />
+クレオソートを塗つたばかりのらんかんや<lb />
+電線も二本にせものの<span type="ruby"><span type="rb">虚無</span><span type="rp">（</span><span type="rt">きよむ</span><span type="rp">）</span></span>のなかから光つてゐるし<lb />
+風景が深く透明にされたかわからない<lb />
+下では水がごうごう流れて行き<lb />
+薄明穹の爽かな銀と苹果とを<lb />
+黒白鳥のむな毛の塊が奔り<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />ああ　お月さまが出てゐます<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+ほんたうに鋭い秋の粉や<lb />
+<span type="ruby"><span type="rb">玻璃末</span><span type="rp">（</span><span type="rt">はりまつ</span><span type="rp">）</span></span>の雲の稜に磨かれて<lb />
+<span type="ruby"><span type="rb">紫磨銀彩</span><span type="rp">（</span><span type="rt">しまぎんさい</span><span type="rp">）</span></span>に尖つて光る六日の月<lb />
+橋のらんかんには雨粒がまだいつぱいついてゐる<lb />
+なんといふこのなつかしさの湧きあがり<lb />
+水はおとなしい膠朧体だし<lb />
+わたくしはこんな<span type="ruby"><span type="rb">過透明</span><span type="rp">（</span><span type="rt">くわとうめい</span><span type="rp">）</span></span>な景色のなかに<lb />
+松倉山や<span type="ruby"><span type="rb">五間森</span><span type="rp">（</span><span type="rt">ごけんもり</span><span type="rp">）</span></span>荒つぽい<span type="ruby"><span type="rb">石英安山岩</span><span type="rp">（</span><span type="rt">デサイト</span><span type="rp">）</span></span>の岩頸から<lb />
+放たれた剽悍な刺客に<lb />
+暗殺されてもいいのです<lb />
+　　（たしかにわたくしがその木をきつたのだから）<lb />
+　　　（杉のいただきは黒くそらの椀を刺し）<lb />
+風が口笛をはんぶんちぎつて持つてくれば<lb />
+　　（気の毒な二重感覚の機関）<lb />
+わたくしは古い印度の青草をみる<lb />
+崖にぶつつかるそのへんの水は<lb />
+葱のやうに横に<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>れてゐる<lb />
+そんなに風はうまく吹き<lb />
+半月の表面はきれいに吹きはらはれた<lb />
+だからわたくしの洋傘は<lb />
+しばらくぱたぱた言つてから<lb />
+ぬれた橋板に倒れたのだ<lb />
+松倉山松倉山尖つてまつ暗な悪魔蒼鉛の空に立ち<lb />
+電燈はよほど熟してゐる<lb />
+風がもうこれつきり吹けば<lb />
+まさしく吹いて来る<span type="ruby"><span type="rb">劫</span><span type="rp">（</span><span type="rt">カルパ</span><span type="rp">）</span></span>のはじめの風<lb />
+ひときれそらにうかぶ暁のモテイーフ<lb />
+電線と恐ろしい<span type="ruby"><span type="rb">玉髄</span><span type="rp">（</span><span type="rt">キヤルセドニ</span><span type="rp">）</span></span>の雲のきれ<lb />
+そこから見当のつかない大きな青い星がうかぶ<lb />
+　　　（何べんの恋の償ひだ）<lb />
+そんな恐ろしいがまいろの雲と<lb />
+わたくしの上着はひるがへり<lb />
+　　　（オルゴールをかけろかけろ）<lb />
+月はいきなり二つになり<lb />
+盲ひた黒い暈をつくつて光面を過ぎる雲の一群<lb />
+　　　（しづまれしづまれ五間森<lb />
+　　　　木をきられてもしづまるのだ）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、九、一六）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1518">風の偏倚</span></span></span>
+<lb />
+<lb />
+風が偏倚して過ぎたあとでは<lb />
+クレオソートを塗つたばかりの電柱や<lb />
+逞しくも起伏する<span type="ruby"><span type="rb">暗黒山稜</span><span type="rp">（</span><span type="rt">あんこくさんりよう</span><span type="rp">）</span></span>や<lb />
+　　（虚空は古めかしい<span type="ruby"><span type="rb">月汞</span><span type="rp">（</span><span type="rt">げつこう</span><span type="rp">）</span></span>にみち）<lb />
+研ぎ澄まされた天河石天盤の半月<lb />
+すべてこんなに錯綜した雲やそらの景観が<lb />
+すきとほつて巨大な過去になる<lb />
+五日の月はさらに小さく副生し<lb />
+意識のやうに移つて行くちぎれた蛋白彩の雲<lb />
+月の尖端をかすめて過ぎれば<lb />
+そのまん中の厚いところは黒いのです<lb />
+（風と<span type="ruby"><span type="rb">嘆息</span><span type="rp">（</span><span type="rt">たんそく</span><span type="rp">）</span></span>との<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>にあらゆる世界の<span type="ruby"><span type="rb">因子</span><span type="rp">（</span><span type="rt">いんし</span><span type="rp">）</span></span>がある）<lb />
+きららかにきらびやかにみだれて飛ぶ断雲と<lb />
+星雲のやうにうごかない天盤附属の氷片の雲<lb />
+　　（それはつめたい虹をあげ）<lb />
+いま硅酸の雲の大部が行き過ぎようとするために<lb />
+みちはなんべんもくらくなり<lb />
+　　　（月あかりがこんなにみちにふると<lb />
+　　　　まへにはよく硫黄のにほひがのぼつたのだが<lb />
+　　　　いまはその小さな硫黄の粒も<lb />
+　　　　風や酸素に溶かされてしまつた）<lb />
+じつに空は底のしれない洗ひがけの虚空で<lb />
+月は水銀を塗られたでこぼこの噴火口からできてゐる<lb />
+　　　（山もはやしもけふはひじやうに峻儼だ）<lb />
+どんどん雲は月のおもてを研いで飛んでゆく<lb />
+ひるまのはげしくすさまじい雨が<lb />
+微塵からなにからすつかりとつてしまつたのだ<lb />
+月の彎曲の内側から<lb />
+白いあやしい気体が噴かれ<lb />
+そのために却つて一きれの雲がとかされて<lb />
+　　（杉の列はみんな黒真珠の保護色）<lb />
+そらそら　Ｂ氏のやつたあの虹の交錯や顫ひと<lb />
+苹果の未熟なハロウとが<lb />
+あやしく天を覆ひだす<lb />
+杉の列には山烏がいつぱいに<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">ひそ</span><span type="rp">）</span></span>み<lb />
+ペガススのあたりに立つてゐた<lb />
+いま雲は一せいに散兵をしき<lb />
+極めて堅実にすすんで行く<lb />
+おゝ私のうしろの松倉山には<lb />
+用意された一万の硅化流紋凝灰岩の弾塊があり<lb />
+川尻断層のときから息を殺してしまつてゐて<lb />
+私が腕時計を光らし過ぎれば落ちてくる<lb />
+空気の透明度は水よりも強く<lb />
+松倉山から生えた木は<lb />
+敬虔に天に祈つてゐる<lb />
+辛うじて赤いすすきの穂がゆらぎ<lb />
+　　（どうしてどうして松倉山の木は<lb />
+　　　ひどくひどく風にあらびてゐるのだ<lb />
+　　　あのごとごといふのがみんなそれだ）<lb />
+呼吸のやうに月光はまた明るくなり<lb />
+雲の遷色とダムを超える水の音<lb />
+わたしの帽子の静寂と風の塊<lb />
+いまくらくなり電車の単線ばかりまつすぐにのび<lb />
+　レールとみちの粘土の可塑性<lb />
+月はこの変厄のあひだ不思議な黄いろになつてゐる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、九、一六）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1528">昴</span></span></span>
+<lb />
+<lb />
+沈んだ月夜の楊の木の梢に<lb />
+二つの星が逆さまにかかる<lb />
+　　（<span type="ruby"><span type="rb">昴</span><span type="rp">（</span><span type="rt">すばる</span><span type="rp">）</span></span>がそらでさう云つてゐる）<lb />
+オリオンの幻怪と青い電燈<lb />
+また農婦のよろこびの<lb />
+たくましくも赤い頬<lb />
+風は吹く吹く　松は一本立ち<lb />
+山を下る電車の奔り<lb />
+もし車の外に立つたらはねとばされる<lb />
+山へ行つて木をきつたものは<lb />
+どうしても帰るときは肩身がせまい<lb />
+　　（ああもろもろの徳は<span type="ruby"><span type="rb">善逝</span><span type="rp">（</span><span type="rt">スガタ</span><span type="rp">）</span></span>から来て<lb />
+　　　そしてスガタにいたるのです）<lb />
+腕を組み暗い貨物電車の壁による少年よ<lb />
+この籠で今朝鶏を持つて行つたのに<lb />
+それが売れてこんどは持つて戻らないのか<lb />
+そのまつ青な夜のそば畑のうつくしさ<lb />
+電燈に照らされたそばの畑を見たことがありますか<lb />
+市民諸君よ<lb />
+おおきやうだい　これはおまへの感情だな<lb />
+市民諸君よなんてふざけたものの云ひやうをするな<lb />
+東京はいま生きるか死ぬかの堺なのだ<lb />
+見たまへこの電車だつて<lb />
+軌道から青い火花をあげ<lb />
+もう蝎かドラゴかもわからず<lb />
+一心に走つてゐるのだ<lb />
+　　（豆ばたけのその<span type="ruby"><span type="rb">喪神</span><span type="rp">（</span><span type="rt">さうしん</span><span type="rp">）</span></span>のあざやかさ）<lb />
+どうしてもこの貨物車の壁はあぶない<lb />
+わたくしが壁といつしよにここらあたりで<lb />
+投げだされて死ぬことはあり得過ぎる<lb />
+金をもつてゐるひとは金があてにならない<lb />
+からだの丈夫なひとはごろつとやられる<lb />
+あたまのいいものはあたまが弱い<lb />
+あてにするものはみんなあてにならない<lb />
+たゞもろもろの徳ばかりこの巨きな旅の資糧で<lb />
+そしてそれらもろもろの徳性は<lb />
+<span type="ruby"><span type="rb">善逝</span><span type="rp">（</span><span type="rt">スガタ</span><span type="rp">）</span></span>から来て<span type="ruby"><span type="rb">善逝</span><span type="rp">（</span><span type="rt">スガタ</span><span type="rp">）</span></span>に至る<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、九、一六）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1538">第四梯形</span></span></span>
+<lb />
+<lb />
+　　　青い抱擁衝動や<lb />
+　　　明るい雨の中のみたされない唇が<lb />
+　　　きれいにそらに溶けてゆく<lb />
+　　　日本の九月の気圏です<lb />
+そらは霜の織物をつくり<lb />
+<span type="ruby"><span type="rb">萱</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>の穂の<span type="ruby"><span type="rb">満潮</span><span type="rp">（</span><span type="rt">まんてう</span><span type="rp">）</span></span><lb />
+　　　　　（<span type="ruby"><span type="rb">三角山</span><span type="rp">（</span><span type="rt">さんかくやま</span><span type="rp">）</span></span>はひかりにかすれ）<lb />
+あやしいそらのバリカンは<lb />
+白い雲からおりて来て<lb />
+早くも七つ森第一<span type="ruby"><span type="rb">梯形</span><span type="rp">（</span><span type="rt">ていけい</span><span type="rp">）</span></span>の<lb />
+松と<span type="ruby"><span type="rb">雑木</span><span type="rp">（</span><span type="rt">ざふぎ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">刈</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>りおとし<lb />
+　　　野原がうめばちさうや山羊の乳や<lb />
+　　　沃度の匂で荒れて大へんかなしいとき<lb />
+　　　汽車の進行ははやくなり<lb />
+　　　ぬれた赤い崖や何かといつしよに<lb />
+七つ森第二梯形の<lb />
+新鮮な<span type="ruby"><span type="rb">地被</span><span type="rp">（</span><span type="rt">ちひ</span><span type="rp">）</span></span>が刈り払はれ<lb />
+手帳のやうに青い<span type="ruby"><span type="rb">卓状台地</span><span type="rp">（</span><span type="rt">テーブルランド</span><span type="rp">）</span></span>は<lb />
+まひるの夢をくすぼらし<lb />
+ラテライトのひどい崖から<lb />
+梯形第三のすさまじい羊歯や<lb />
+こならやさるとりいばらが滑り<lb />
+　　　（おお第一の紺青の寂寥）<lb />
+縮れて雲はぎらぎら光り<lb />
+とんぼは萱の花のやうに飛んでゐる<lb />
+　　　（萱の穂は満潮<lb />
+　　　　萱の穂は満潮）<lb />
+一本さびしく赤く燃える栗の木から<lb />
+七つ森の第四<span type="ruby"><span type="rb">伯林青</span><span type="rp">（</span><span type="rt">べるりんせい</span><span type="rp">）</span></span>スロープは<lb />
+やまなしの匂の雲に起伏し<lb />
+すこし日射しのくらむひまに<lb />
+そらのバリカンがそれを刈る<lb />
+　　　　（腐植土のみちと天の石墨）<lb />
+夜風太郎の配下と子孫とは<lb />
+大きな帽子を風にうねらせ<lb />
+落葉松のせはしい足なみを<lb />
+しきりに馬を急がせるうちに<lb />
+早くも第六梯形の暗いリパライトは<lb />
+ハツクニーのやうに刈られてしまひ<lb />
+ななめに琥珀の<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>も射して<lb />
+　　<span facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />たうとうぼくは一つ勘定をまちがへた<lb />
+　　　第四か第五かをうまくそらからごまかされた<span facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /><lb />
+どうして決して　そんなことはない<lb />
+いまきらめきだすその真鍮の畑の一片から<lb />
+明暗交錯のむかふにひそむものは<lb />
+まさしく第七梯形の<lb />
+雲に浮んだその最後のものだ<lb />
+緑青を吐く松のむさくるしさと<lb />
+ちぢれて悼む　雲の羊毛<lb />
+　　　　（<span type="ruby"><span type="rb">三角</span><span type="rp">（</span><span type="rt">さんかく</span><span type="rp">）</span></span>やまはひかりにかすれ）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、九、三〇）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1548">火薬と紙幣</span></span></span>
+<lb />
+<lb />
+萱の穂は赤くならび<lb />
+雲はカシユガル産の苹果の果肉よりもつめたい<lb />
+鳥は一ぺんに飛びあがつて<lb />
+ラツグの音譜をばら撒きだ<lb />
+　　　古枕木を灼いてこさへた<lb />
+　　　黒い保線小屋の秋の中では<lb />
+　　　四面体<span type="ruby"><span type="rb">聚形</span><span type="rp">（</span><span type="rt">しゆうけい</span><span type="rp">）</span></span>の一人の工夫が<lb />
+　　　米国風のブリキの缶で<lb />
+　　　たしかメリケン粉を<span type="ruby"><span type="rb">捏</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ねてゐる<lb />
+鳥はまた一つまみ　空からばら撒かれ<lb />
+一ぺんつめたい雲の下で展開し<lb />
+こんどは巧に引力の法則をつかつて<lb />
+遠いギリヤークの電線にあつまる<lb />
+　　　赤い碍子のうへにゐる<lb />
+　　　そのきのどくなすゞめども<lb />
+　　　口笛を吹きまた新らしい濃い空気を吸へば<lb />
+　　　たれでもみんなきのどくになる<lb />
+森はどれも群青に泣いてゐるし<lb />
+松林なら地被もところどころ剥げて<lb />
+酸性土壌ももう十月になつたのだ<lb />
+　　　私の着物もすつかり thread-bare<lb />
+　　　その陰影のなかから<lb />
+　　　逞ましい向ふの土方がくしやみをする<lb />
+氷河が海にはひるやうに<lb />
+白い雲のたくさんの流れは<lb />
+枯れた野原に注いでゐる<lb />
+　　だからわたくしのふだん決して見ない<lb />
+　　小さな三角の前山なども<lb />
+　　はつきり白く浮いてでる<lb />
+栗の梢のモザイツクと<lb />
+<span type="ruby"><span type="rb">鉄葉細工</span><span type="rp">（</span><span type="rt">ぶりきざいく</span><span type="rp">）</span></span>のやなぎの葉<lb />
+水のそばでは堅い黄いろなまるめろが<lb />
+枝も裂けるまで実つてゐる<lb />
+　　　（こんどばら撒いてしまつたら……<lb />
+　　　　ふん　ちやうど四十雀のやうに）<lb />
+雲が縮れてぎらぎら光るとき<lb />
+大きな帽子をかぶつて<lb />
+野原をおほびらにあるけたら<lb />
+おれはそのほかにもうなんにもいらない<lb />
+火薬も燐も大きな紙幣もほしくない<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、一〇、一〇）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1558">過去情炎</span></span></span>
+<lb />
+<lb />
+截られた根から青じろい樹液がにじみ<lb />
+あたらしい腐植のにほひを嗅ぎながら<lb />
+きらびやかな雨あがりの中にはたらけば<lb />
+わたくしは移住の<span type="ruby"><span type="rb">清教徒</span><span type="rp">（</span><span type="rt">ピユリタン</span><span type="rp">）</span></span>です<lb />
+雲はぐらぐらゆれて馳けるし<lb />
+梨の葉にはいちいち精巧な葉脈があつて<lb />
+短果枝には雫がレンズになり<lb />
+そらや木やすべての景象ををさめてゐる<lb />
+わたくしがここを環に掘つてしまふあひだ<lb />
+その雫が落ちないことをねがふ<lb />
+なぜならいまこのちひさなアカシヤをとつたあとで<lb />
+わたくしは<span type="ruby"><span type="rb">鄭重</span><span type="rp">（</span><span type="rt">ていちよう</span><span type="rp">）</span></span>にかがんでそれに唇をあてる<lb />
+えりをりのシヤツやぼろぼろの上着をきて<lb />
+企らむやうに肩をはりながら<lb />
+そつちをぬすみみてゐれば<lb />
+ひじやうな<span type="ruby"><span type="rb">悪漢</span><span type="rp">（</span><span type="rt">わるもの</span><span type="rp">）</span></span>にもみえようが<lb />
+わたくしはゆるされるとおもふ<lb />
+なにもかもみんなたよりなく<lb />
+なにもかもみんなあてにならない<lb />
+これらげんしやうのせかいのなかで<lb />
+そのたよりない<span type="ruby"><span type="rb">性</span><span type="rp">（</span><span type="rt">せい</span><span type="rp">）</span></span>質が<lb />
+こんなきれいな露になつたり<lb />
+いぢけたちひさなまゆみの木を<lb />
+<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">べに</span><span type="rp">）</span></span>からやさしい月光いろまで<lb />
+豪奢な織物に染めたりする<lb />
+そんならもうアカシヤの木もほりとられたし<lb />
+いまはまんぞくしてたうぐはをおき<lb />
+わたくしは待つてゐたこひびとにあふやうに<lb />
+<span type="ruby"><span type="rb">鷹揚</span><span type="rp">（</span><span type="rt">おうやう</span><span type="rp">）</span></span>にわらつてその木のしたへゆくのだけれども<lb />
+それはひとつの<span type="ruby"><span type="rb">情炎</span><span type="rp">（</span><span type="rt">じやうえん</span><span type="rp">）</span></span>だ<lb />
+もう水いろの過去になつてゐる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、一〇、一五）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1568">一本木野</span></span></span>
+<lb />
+<lb />
+松がいきなり明るくなつて<lb />
+のはらがぱつとひらければ<lb />
+かぎりなくかぎりなくかれくさは日に燃え<lb />
+電信ばしらはやさしく白い碍子をつらね<lb />
+ベーリング市までつづくとおもはれる<lb />
+すみわたる<span type="ruby"><span type="rb">海蒼</span><span type="rp">（</span><span type="rt">かいさう</span><span type="rp">）</span></span>の天と<lb />
+きよめられるひとのねがひ<lb />
+からまつはふたたびわかやいで萌え<lb />
+幻聴の透明なひばり<lb />
+<span type="ruby"><span type="rb">七時雨</span><span type="rp">（</span><span type="rt">ななしぐれ</span><span type="rp">）</span></span>の青い起伏は<lb />
+また心象のなかにも起伏し<lb />
+ひとむらのやなぎ木立は<lb />
+ボルガのきしのそのやなぎ<lb />
+<span type="ruby"><span type="rb">天椀</span><span type="rp">（</span><span type="rt">てんわん</span><span type="rp">）</span></span>の孔雀石にひそまり<lb />
+<span type="ruby"><span type="rb">薬師岱赭</span><span type="rp">（</span><span type="rt">やくしたいしや</span><span type="rp">）</span></span>のきびしくするどいもりあがり<lb />
+火口の雪は皺ごと刻み<lb />
+くらかけのびんかんな<span type="ruby"><span type="rb">稜</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>は<lb />
+青ぞらに星雲をあげる<lb />
+　　　（おい　かしは<lb />
+　　　　てめいのあだなを<lb />
+　　　　やまのたばこの木つていふつてのはほんたうか）<lb />
+こんなあかるい<span type="ruby"><span type="rb">穹窿</span><span type="rp">（</span><span type="rt">きゆうりゆう</span><span type="rp">）</span></span>と草を<lb />
+はんにちゆつくりあるくことは<lb />
+いつたいなんといふおんけいだらう<lb />
+わたくしはそれをはりつけとでもとりかへる<lb />
+こひびととひとめみることでさへさうでないか<lb />
+　　　（おい　やまのたばこの木<lb />
+　　　　あんまりへんなをどりをやると<lb />
+　　　　未来派だつていはれるぜ）<lb />
+わたくしは森やのはらのこひびと<lb />
+<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">よし</span><span type="rp">）</span></span>のあひだをがさがさ行けば<lb />
+つつましく折られたみどりいろの通信は<lb />
+いつかぽけつとにはひつてゐるし<lb />
+はやしのくらいとこをあるいてゐると<lb />
+<span type="ruby"><span type="rb">三日月</span><span type="rp">（</span><span type="rt">みかづき</span><span type="rp">）</span></span>がたのくちびるのあとで<lb />
+肱やずぼんがいつぱいになる<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、一〇、二八）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1578">鎔岩流</span></span></span>
+<lb />
+<lb />
+喪神のしろいかがみが<lb />
+薬師火口のいただきにかかり<lb />
+日かげになつた火山<span type="ruby"><span type="rb">礫堆</span><span type="rp">（</span><span type="rt">れきたい</span><span type="rp">）</span></span>の中腹から<lb />
+畏るべくかなしむべき<span type="ruby"><span type="rb">砕塊熔岩</span><span type="rp">（</span><span type="rt">ブロツクレーバ</span><span type="rp">）</span></span>の黒<lb />
+わたくしはさつきの柏や松の野原をよぎるときから<lb />
+なにかあかるい曠原風の情調を<lb />
+ばらばらにするやうなひどいけしきが<lb />
+展かれるとはおもつてゐた<lb />
+けれどもここは空気も深い淵になつてゐて<lb />
+ごく強力な鬼神たちの棲みかだ<lb />
+一ぴきの鳥さへも見えない<lb />
+わたくしがあぶなくその一一の<span type="ruby"><span type="rb">岩塊</span><span type="rp">（</span><span type="rt">ブロツク</span><span type="rp">）</span></span>をふみ<lb />
+すこしの小高いところにのぼり<lb />
+さらにつくづくとこの焼石のひろがりをみわたせば<lb />
+雪を越えてきたつめたい風はみねから吹き<lb />
+雲はあらはれてつぎからつぎと消え<lb />
+いちいちの<span type="ruby"><span type="rb">火山塊</span><span type="rp">（</span><span type="rt">ブロツク</span><span type="rp">）</span></span>の黒いかげ<lb />
+貞享四年のちひさな噴火から<lb />
+およそ二百三十五年のあひだに<lb />
+空気のなかの酸素や炭酸瓦斯<lb />
+これら清洌な<span type="ruby"><span type="rb">試薬</span><span type="rp">（</span><span type="rt">しやく</span><span type="rp">）</span></span>によつて<lb />
+どれくらゐの<span type="ruby"><span type="rb">風化</span><span type="rp">（</span><span type="rt">ふうくわ</span><span type="rp">）</span></span>が行はれ<lb />
+どんな植物が生えたかを<lb />
+見ようとして<span type="ruby"><span type="rb">私</span><span type="rp">（</span><span type="rt">わたし</span><span type="rp">）</span></span>の来たのに対し<lb />
+それは恐ろしい二種の苔で答へた<lb />
+その白つぽい厚いすぎごけの<lb />
+表面がかさかさに乾いてゐるので<lb />
+わたくしはまた麺麭ともかんがへ<lb />
+ちやうどひるの食事をもたないとこから<lb />
+ひじやうな<span type="ruby"><span type="rb">饗応</span><span type="rp">（</span><span type="rt">きやうおう</span><span type="rp">）</span></span>ともかんずるのだが<lb />
+（なぜならたべものといふものは<lb />
+　それをみてよろこぶもので<lb />
+　それからあとはたべるものだから）<lb />
+ここらでそんなかんがへは<lb />
+あんまり僭越かもしれない<lb />
+とにかくわたくしは荷物をおろし<lb />
+灰いろの苔に靴やからだを埋め<lb />
+一つの赤い<span type="ruby"><span type="rb">苹果</span><span type="rp">（</span><span type="rt">りんご</span><span type="rp">）</span></span>をたべる<lb />
+うるうるしながら苹果に噛みつけば<lb />
+雪を越えてきたつめたい風はみねから吹き<lb />
+野はらの白樺の葉は<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">べに</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">キン</span><span type="rp">）</span></span>やせはしくゆすれ<lb />
+北上山地はほのかな幾層の青い縞をつくる<lb />
+　　（あれがぼくのしやつだ<lb />
+　　　青いリンネルの農民シヤツだ）<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、一〇、二八）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1588">イーハトヴの氷霧</span></span></span>
+<lb />
+<lb />
+けさはじつにはじめての凜々しい<span type="ruby"><span type="rb">氷霧</span><span type="rp">（</span><span type="rt">ひようむ</span><span type="rp">）</span></span>だつたから<lb />
+みんなはまるめろやなにかまで出して歓迎した<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、一一、二二）</span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1598">冬と銀河ステーシヨン</span></span></span>
+<lb />
+<lb />
+そらにはちりのやうに小鳥がとび<lb />
+かげろふや青いギリシヤ文字は<lb />
+せはしく野はらの雪に燃えます<lb />
+パツセン大街道のひのきからは<lb />
+凍つたしづくが<span type="ruby"><span type="rb">燦々</span><span type="rp">（</span><span type="rt">さんさん</span><span type="rp">）</span></span>と降り<lb />
+銀河ステーシヨンの遠方シグナルも<lb />
+けさはまつ<span type="ruby"><span type="rb">赤</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>に澱んでゐます<lb />
+川はどんどん<span type="ruby"><span type="rb">氷</span><span type="rp">（</span><span type="rt">ザエ</span><span type="rp">）</span></span>を流してゐるのに<lb />
+みんなは<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>ゴムの長靴をはき<lb />
+狐や犬の毛皮を着て<lb />
+陶器の露店をひやかしたり<lb />
+ぶらさがつた<span type="ruby"><span type="rb">章魚</span><span type="rp">（</span><span type="rt">たこ</span><span type="rp">）</span></span>を品さだめしたりする<lb />
+あのにぎやかな土沢の冬の<span type="ruby"><span type="rb">市日</span><span type="rp">（</span><span type="rt">いちび</span><span type="rp">）</span></span>です<lb />
+（はんの木とまばゆい雲のアルコホル<lb />
+　あすこにやどりぎの黄金のゴールが<lb />
+　さめざめとしてひかつてもいい）<lb />
+あゝ　Josef Pasternack の指揮する<lb />
+この冬の銀河軽便鉄道は<lb />
+幾重のあえかな氷をくぐり<lb />
+（でんしんばしらの赤い碍子と松の森）<lb />
+にせものの金のメタルをぶらさげて<lb />
+茶いろの瞳をりんと張り<lb />
+つめたく青らむ天椀の下<lb />
+うららかな雪の台地を急ぐもの<lb />
+（窓のガラスの氷の羊歯は<lb />
+　だんだん白い湯気にかはる）<lb />
+パツセン大街道のひのきから<lb />
+しづくは燃えていちめんに降り<lb />
+はねあがる青い枝や<lb />
+紅玉やトパースまたいろいろのスペクトルや<lb />
+もうまるで市場のやうな盛んな取引です<lb />
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（一九二三、一二、一〇）</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

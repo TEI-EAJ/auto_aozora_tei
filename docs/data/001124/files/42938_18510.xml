@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>孔乙己</title>
+        <author>魯迅</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2005-05-08">作成</resp><resp /><note>
+<lb />
+底本：「魯迅全集」改造社
+<lb />
+　　　1932（昭和7）年11月18日発行<lb />
+※「旧字、旧仮名で書かれた作品を、現代表記にあらためる際の作業指針」に基づいて、底本の表記をあらためました。<lb />
+その際、以下の置き換えをおこないました。<lb />
+「彼奴→あいつ　或（る）→ある　大方→おおかた　〜置き→〜おき　曾て→かつて　位→ぐらい　〜呉れ→〜くれ　此奴→こいつ　此→この　偖て→さて　暫く→しばらく　仕舞う→しまう　終い→じまい　随分→ずいぶん　其→その　沢山→たくさん　只→ただ　忽ち→たちまち　多分→たぶん　何処→どこ　迚も→とても　中々→なかなか　〜に取って→〜にとって　筈→はず　甚だ→はなはだ　程→ほど　又・亦→また　未だ→まだ　見る見る→みるみる　若し→もし」<lb />
+※底本は総ルビですが、一部を省きました。<lb />
+入力：京都大学電子テクスト研究会入力班（上村要）<lb />
+校正：京都大学電子テクスト研究会校正班（大久保ゆう）<lb />
+<date when="2005-05-08">2005年5月8日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>京都大学電子テクスト研究会入力班（上村要）</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>京都大学電子テクスト研究会校正班（大久保ゆう）</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>孔乙己</title><author>魯迅</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div">
+<lb />
+<lb />
+<lb />
+　<span type="ruby"><span type="rb">魯鎮</span><span type="rp">（</span><span type="rt">ろちん</span><span type="rp">）</span></span>の酒場の構えは<span type="ruby"><span type="rb">他所</span><span type="rp">（</span><span type="rt">よそ</span><span type="rp">）</span></span>と違っていずれも皆、<span type="ruby"><span type="rb">曲尺形</span><span type="rp">（</span><span type="rt">かねじゃくがた</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">大櫃台</span><span type="rp">（</span><span type="rt">おおデスク</span><span type="rp">）</span></span>を往来へ向けて据え、<span type="ruby"><span type="rb">櫃台</span><span type="rp">（</span><span type="rt">デスク</span><span type="rp">）</span></span>の内側には絶えず湯を沸かしておき、燗酒がすぐでも間に合うようになっている。仕事をする人達は<span type="ruby"><span type="rb">正午</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>の休みや夕方の<span type="ruby"><span type="rb">手終</span><span type="rp">（</span><span type="rt">てじま</span><span type="rp">）</span></span>いにいちいち四文銭を出しては茶碗酒を一杯買い、<span type="ruby"><span type="rb">櫃台</span><span type="rp">（</span><span type="rt">デスク</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">靠</span><span type="rp">（</span><span type="rt">もた</span><span type="rp">）</span></span>れて熱燗の立飲みをする。――これは二十年前のことで、今では値段が上って一碗十文になった。――もしモウ一文出しても差支えなければ、筍の塩漬や<span type="ruby"><span type="rb">茴香豆</span><span type="rp">（</span><span type="rt">ういきょうまめ</span><span type="rp">）</span></span>の皿盛を取ることが出来る。もし果して十何文かを足し前すれば、<span type="ruby"><span type="rb">葷</span><span type="rp">（</span><span type="rt">なまぐ</span><span type="rp">）</span></span>さの方の皿盛りが取れるんだが、こういうお客様は大抵<span type="ruby"><span type="rb">袢天著</span><span type="rp">（</span><span type="rt">はんてんぎ</span><span type="rp">）</span></span>の方だからなかなかそんな贅沢はしない。中には<span type="ruby"><span type="rb">身装</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>のぞろりとした者などあって、店に入るとすぐに隣接した別席に著き、酒を命じ菜を命じ、ちびりちびりと飲んでる者もある。<lb />
+　わたしは十二の歳から村の入口の<span type="ruby"><span type="rb">咸享酒店</span><span type="rp">（</span><span type="rt">かんこうしゅてん</span><span type="rp">）</span></span>の小僧になった。番頭さんの<span type="ruby"><span type="rb">被仰</span><span type="rp">（</span><span type="rt">おっしゃ</span><span type="rp">）</span></span>るには、こいつは、見掛けが<span type="ruby"><span type="rb">野呂間</span><span type="rp">（</span><span type="rt">のろま</span><span type="rp">）</span></span>だから上客の<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>へは出せない。店先の仕事をさせよう。店先の袢天著は取付き易いが、わけのわからぬことをくどくど<span type="ruby"><span type="rb">喋舌</span><span type="rp">（</span><span type="rt">しゃべ</span><span type="rp">）</span></span>り、<span type="ruby"><span type="rb">漆濃</span><span type="rp">（</span><span type="rt">しつこ</span><span type="rp">）</span></span>く絡みつく奴が少くない。彼等は人の手許をじろりと見たがる癖がある。<span type="ruby"><span type="rb">老酒</span><span type="rp">（</span><span type="rt">ラオチュ</span><span type="rp">）</span></span>を甕の中から汲み出すのを見て、徳利の底に水が残っていやしないか否かを見て、徳利を熱湯の中に入れるところまで見届けて、そこでようやく安心する。こういう厳しい監視の下には、水を交ぜることなんかとても出来るものではない。だから二三日経つと番頭さんは「こいつは役に立たない」と言ったが、幸いに周旋人の顔が利き、断りかねたものと見え、改めてお燗番のような詰らぬ仕事を受持たされることになった。わたしはそれから日がな一日<span type="ruby"><span type="rb">櫃台</span><span type="rp">（</span><span type="rt">デスク</span><span type="rp">）</span></span>の内側でこの仕事だけを勤めていたので、<span type="ruby"><span type="rb">縮尻</span><span type="rp">（</span><span type="rt">しくじり</span><span type="rp">）</span></span>を仕出かすことのないだけ、それだけで単調で詰らなかった。番頭さんはいつも仏頂面していなさるし、お客様は一向構ってくれないし、これじゃいくらわたしだって活溌になり得るはずがない。ただ<span type="ruby"><span type="rb">孔乙己</span><span type="rp">（</span><span type="rt">こういっき</span><span type="rp">）</span></span>が店に来た時だけ初めて笑声を出すことが出来たので、だから今だにこの人を覚えている。<lb />
+　孔乙己は立飲みの方でありながら<span type="ruby"><span type="rb">長衫</span><span type="rp">（</span><span type="rt">ながぎ</span><span type="rp">）</span></span>を著た唯一の人であった。彼は身の長けがはなはだ高く、顔色が青白く、皺の間にいつも傷痕が交っていて胡麻塩鬚が<span type="ruby"><span type="rb">蓬々</span><span type="rp">（</span><span type="rt">ぼうぼう</span><span type="rp">）</span></span>と生えていた。著物は汚れ腐って、ツギハギもせず洗濯もせず、十何年も一つものでおっとおしているようだ。彼の言葉は全部が漢文で、口から出るのは「<span type="ruby"><span type="rb">之乎者也</span><span type="rp">（</span><span type="rt">ツーフーツエイエ</span><span type="rp">）</span></span>」ばかりだから、人が聞けば解るような解らぬような変なもので、その姓氏が孔というのみで名前はよく知られなかったが、ある人が紅紙の上に「<span type="ruby"><span type="rb">上大人</span><span type="rp">（</span><span type="rt">じょうたいじん</span><span type="rp">）</span></span>孔乙己」と書いてから、これもまた解るような解らぬようなあいまいの中に彼のために一つの確たる仇名が出来て、孔乙己と呼ばれるようになった。<lb />
+　孔乙己が店に来ると、そこにいる飲手は皆笑い出した。<lb />
+「孔乙己、お前の顔にまた一つ傷が殖えたね」<lb />
+　とその中の一人が言った。孔は答えず九文の大銭を<span type="ruby"><span type="rb">櫃台</span><span type="rp">（</span><span type="rt">デスク</span><span type="rp">）</span></span>の上に並べ<lb />
+「酒を二合<span type="ruby"><span type="rb">燗</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>けてくれ。それから豆を一皿」<lb />
+「馬鹿に景気がいいぜ。これやテッキリ盗んで来たに違いない」<lb />
+　とわざと大声出して前の一人が言うと、孔乙己は眼玉を剥き出し<lb />
+「汝はなんすれぞ斯くの如く<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">くう</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">憑</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>って人の清白を汚す」<lb />
+「何、清白だと？　<span type="ruby"><span type="rb">乃公</span><span type="rp">（</span><span type="rt">おれ</span><span type="rp">）</span></span>はお前が<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>家の書物を盗んで吊し打ちになったのをこないだ見たばかりだ」<lb />
+　孔は顔を真赤にして、額の上に青筋を立て<lb />
+「<span type="ruby"><span type="rb">窃書</span><span type="rp">（</span><span type="rt">せっしょ</span><span type="rp">）</span></span>は盗みの数に<span type="ruby"><span type="rb">入</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>らない。窃書は読書人の為す事で盗みの数に入るべきことではない」<lb />
+　そうして後に続く言葉はとても変梃なもので、「君子固より窮す」とか「者ならん<span type="ruby"><span type="rb">乎</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>」の類だから<span type="ruby"><span type="rb">衆</span><span type="rp">（</span><span type="rt">みな</span><span type="rp">）</span></span>の笑いを引起し店中<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>に景気づいた。<lb />
+　人の噂では、孔乙己は書物をたくさん読んだ人だが、学校に入りそこない、無職で暮しているうちにだんだん貧乏して、乞食になりかかったが、幸いに手すじがよく字が旨く書けたので、あちこちで書物の浄写を頼まれ、飯の種にありつくことが出来た。ところが彼には一つの悪い癖があって、酒が大好きで飲みだすと怠け出し、注文主も書物も紙も何もかも、たちまちの<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に無くしてしまう。こういうことがたびたびあって、<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">しまい</span><span type="rp">）</span></span>には字を書いてくれという人さえ無くなった。そこで日々の暮しにも差支え、ある場合には盗みをしないではいられなくなった。けれどもこの店では、彼は誰よりも品行が正しく、かつて一度も借り倒したことがない。現金のない時には黒板の上に暫時書き附けてあることもあるが、一月経たぬうちにキレイに払いを済ませて、黒板の上から孔乙己の名前を拭き消されてしまうのが常であった。<lb />
+　さて孔乙己はお碗に半分ほど酒飲むうちに、赤くなった顔がだんだん元に復して来たので、<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>にいた人はまたもやひやかし始めた。<lb />
+「孔乙己、お前は本当に字が読めるのかえ」<lb />
+　孔乙己は弁解するだけ阿呆らしいという顔付で、その人を眺めていると、彼等はすぐに言葉を添えた。<lb />
+「お前はどうして半人前の秀才にもなれないのだろう」<lb />
+　この言葉は孔乙己にとっては大禁物で、たちまち不安に堪えられぬ憂鬱な状態を現わし、顔全体が灰色に覆われ、口から出る言葉は今度こそソックリ丸出しの「<span type="ruby"><span type="rb">之乎者也</span><span type="rp">（</span><span type="rt">ツーフーツエイエ</span><span type="rp">）</span></span>」だから、こればかりは誰だって解るはずがない。一同はこの時どっと笑い出し、店の内外はとても晴れやかな空気になるのが常であった。<lb />
+　この場合わたしが一緒になって笑っても番頭さんは決して咎めないし、その上番頭さん自身がいつもこういう問題を持出し、人の笑いを誘い出すので、孔乙己は<span type="ruby"><span type="rb">仲間脱</span><span type="rp">（</span><span type="rt">なかまはず</span><span type="rp">）</span></span>れになるより仕方がない。そういう時にはいつも子供を相手にして話しかける。一度わたしに話しかけたことがあった。<lb />
+「お前は本が読めるかえ」<lb />
+「…………」<lb />
+「本が読めるなら乃公が試験してやろう。茴香豆の茴の字は、どう書くんだか知ってるかえ」<lb />
+　わたしはこんな乞食同様の人から試験を受けるのがいやさに、顔を<span type="ruby"><span type="rb">素向</span><span type="rp">（</span><span type="rt">そむ</span><span type="rp">）</span></span>けていると、孔乙己はわたしの返辞をしばらく待った後、はなはだ親切に説き始めた。<lb />
+「書くことが出来ないのだろう、な、では教えてやろう、よく覚えておけ。この字を覚えていると、今に番頭さんになった時、帳附けが出来るよ」<lb />
+　わたしが番頭さんになるのはいつのことやら、ずいぶん先きの先きの話で、その上、内の番頭さんは茴香豆という字を記入したことがない。そう思うと馬鹿々々しくなって<lb />
+「そんなことを誰がお前に教えてくれと言ったえ。草冠の下に囘数の囘の字だ」<lb />
+　孔乙己は俄に元気づき、爪先きで<span type="ruby"><span type="rb">櫃台</span><span type="rp">（</span><span type="rt">デスク</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">はじ</span><span type="rp">）</span></span>きながら大きくうなずいて<lb />
+「上出来、上出来。じゃ茴の字に四つの書き方があるのを知っているか」<lb />
+　彼は指先を酒に浸しながら櫃台の上に字を書き始めたが、わたしが冷淡に口を結んで遠のくと真から残念そうに溜息を<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いた。<lb />
+　またたびたび<span type="ruby"><span type="rb">左</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>のようなことがあった。騒々しい笑声が起ると、子供等はどこからとなく<span type="ruby"><span type="rb">集</span><span type="rp">（</span><span type="rt">あつま</span><span type="rp">）</span></span>って来て孔乙己を取囲む。その時茴香豆は彼の手から一つ一つ子供等に分配され、子供等はそれを食べてしまったあとでもなお囲みを解かず、小さな眼を皿の中に<span type="ruby"><span type="rb">萃</span><span type="rp">（</span><span type="rt">あつ</span><span type="rp">）</span></span>めていると、彼は急に五指をひろげて皿を覆い、背を丸くして<lb />
+「たくさん無いよ。わしはもうたくさん持ってないよ」<lb />
+　というかと思うとたちまち身を起し<lb />
+「多からず、多からず、<span type="ruby"><span type="rb">多乎哉</span><span type="rp">（</span><span type="rt">おおからんや</span><span type="rp">）</span></span>多からざる也」<lb />
+　と首を左右に振っているので、子供等はキャッキャッと笑い出し、ちりぢりに別れゆくのである。<lb />
+　こういう風に孔乙己はいつも人を愉快ならしめているが、自分は決してそうあろうはずがない。ほかの人だったらどうだろう。こうしていられるか。<lb />
+　ある日のことである。おおかた中秋節の二三日前だったろうと思う。番頭さんはぶらりぶらりと帳〆めに掛り、黒板を取卸して、たちまち大声を出した。<lb />
+「孔乙己はしばらく出て来ないが、まだ十九銭残っているよ」<lb />
+　そこでわたしもしばらく彼の見えないことを思い出したが、<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>に酒飲んでいる人が<lb />
+「あいつは来るはずがない。腿の骨をぶっ挫いちゃったんだ」<lb />
+「ええ、何だと」<lb />
+「相変らず泥棒していたんだ。今度はあいつも眼が眩んだね。ところもあろうに<span type="ruby"><span type="rb">丁挙人</span><span type="rp">（</span><span type="rt">ていきょじん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に入ったんだから、な。あすこの品物が盗み出せると思うか」<lb />
+「そうしてどうした」<lb />
+「どうしたッて？　謝罪状を書くより<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">ほか</span><span type="rp">）</span></span>はあるめえ。書いたあとで叩かれ、夜中まで叩かれどおしで、もう一度叩かれたら、ポキリと言って腿の骨が折れてしまった」<lb />
+「それからどうした」<lb />
+「それから腿が折れたんだ」<lb />
+「折れてからどうした」<lb />
+「どうしたか解るものか。たぶん死んだろう」<lb />
+　番頭はその上訊こうともせず、のらりくらりと彼の帳合を続けていた。<lb />
+　中秋節が過ぎてから、風は日増しに涼しくなり、みるみるうちに初冬も近づいた。わたしは<span type="ruby"><span type="rb">棉入</span><span type="rp">（</span><span type="rt">わたいれ</span><span type="rp">）</span></span>を著て丸一日火の<span type="ruby"><span type="rb">側</span><span type="rp">（</span><span type="rt">そば</span><span type="rp">）</span></span>にいて、午後からたった一人の客ぐらいでは<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-88/1-88-81.png" rend="gaiji" rendition="img" source="※(「目＋匡」、第3水準1-88-81)" /></span><span type="rp">（</span><span type="rt">まぶた</span><span type="rp">）</span></span>がだらりとせざるを得ない。するとたちまちどこやらで<lb />
+「一杯燗けてくれ」<lb />
+　という声がした。よく聞き慣れた声だが眼の前には誰もいない。伸び上って見ると櫃台の下の<span type="ruby"><span type="rb">閾</span><span type="rp">（</span><span type="rt">しきい</span><span type="rp">）</span></span>の上に孔乙己が坐っている。顔が瘠せて黒くなり何とも言われぬ<span type="ruby"><span type="rb">見窄</span><span type="rp">（</span><span type="rt">みすぼ</span><span type="rp">）</span></span>らしい風体で、破れ袷一枚著て両膝を曲げ、腰にアンペラを敷いて、肩から縄で吊りかけてある。<lb />
+「酒を一杯燗けてくれ」<lb />
+　番頭さんも延び上って見て<lb />
+「おお孔乙己か、お前にまだ十九銭貸しがあるよ」<lb />
+　孔乙己はとても<span type="ruby"><span type="rb">見惨</span><span type="rp">（</span><span type="rt">みじめ</span><span type="rp">）</span></span>な様子で仰向いて答えた。<lb />
+「それはこの次ぎ返すから、今度だけは現金で、いい酒をくれ」<lb />
+　番頭さんは例のひやかし口調で<lb />
+「孔乙己、またやったな」<lb />
+　今度は彼もいつもと違って余り弁解もせずにただ一<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">ごん</span><span type="rp">）</span></span><lb />
+「ひやかしちゃいけない」<lb />
+　というのみであった。<lb />
+「ひやかす？　物を盗らないで腿を折られる奴があるもんか」<lb />
+　孔乙己は低い声で<lb />
+「高い所から落ちたんだ。落ちたから折れたんだ」<lb />
+　この時彼の眼付はこの話を二度と持出さないように番頭さんに向って頼むようにも見えたが、いつもの四五人はもう集っていたので、番頭さんと一緒になって笑った。<lb />
+　わたしは燗した酒を運び出し、閾の上に置くと、彼は破れたポケットの中から四文銭を掴み出した。その手を見ると泥だらけで、足で歩いて来たとは思われないが、果してその通りで、彼は<span type="ruby"><span type="rb">衆</span><span type="rp">（</span><span type="rt">みな</span><span type="rp">）</span></span>の笑い声の中に酒を飲み干してしまうと、たちまち手を支えて這い出した。<lb />
+　それからずっと長い間孔乙己を見たことがない。年末になると、番頭さんは黒板を卸して言った。<lb />
+「孔乙己はどうしたろうな。まだ十九銭貸しがある」<lb />
+　次の年の端午の節句にも言った。<lb />
+「孔乙己はどうしたろうな。まだ十九銭貸しがある」<lb />
+　中秋節にはもうなんにも言わなくなった。<lb />
+　それからまた年末が来たが、彼の姿を見出すことが出来なかった。そして今になったが、とうとう見ずじまいだ。<lb />
+　たぶん孔乙己は死んだに違いない。<lb />
+<span rend="chitsuki_4" rendition="div" style="text-align:right; margin-right: 4em">（一九一九年三月）</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

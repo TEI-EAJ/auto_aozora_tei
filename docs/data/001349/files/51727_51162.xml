@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>古事記</title>
+        <author>武田祐吉</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2013-09-02">作成</resp><resp /><note>
+<lb />
+底本：「古事記」角川文庫、角川書店<lb />
+　　　1956（昭和31）年5月20日初版発行<lb />
+　　　1965（昭和40）年9月20日20版発行<lb />
+※底本は旧字新かなづかいです。なお拗音・促音は小書きではありません。<lb />
+入力：川山隆<lb />
+校正：しだひろし<lb />
+<date when="2013-09-02">2013年9月2日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>川山隆</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>しだひろし</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>古事記</title><author>武田祐吉</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一　本書は、古事記本文の書き下し文に脚註を加えたもの、現代語譯、解説、および索引から成る</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一　古事記の本文は、眞福寺本を底本とし、他本をもつて校訂を加えたものを使用した。その校訂の過程は、特別の場合以外は、すべて省略した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一　書き下し文、および索引は、歴史的かなづかいにより、その他の部分は、新かなづかいによつた。<span rend="notes">［＃「よつた。」は底本では「よつ。た。」］</span>漢字はすべて正體を使用した。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一　古事記は、三卷に分けてあるだけで、内容については別に標題はない。底本とした眞福寺本には、上方に見出しが書かれているが、今それによらずに、あらたに章を分けて、それぞれ番號や標題を附け、これには括弧をつけてあらたに加えたものであることをあきらかにした。また歌謠には、末尾に括弧をして歌謠番號を記し、索引に便にすることとした。</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

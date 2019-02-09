@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>半七捕物帳</title>
+        <author>岡本綺堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="1999-07-02">作成</resp><resp /><note>
+<lb />
+底本：「時代推理小説　半七捕物帳（一）」光文社文庫、光文社<lb />
+　　　1985（昭和60）年11月20日初版1刷発行<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：tat_suki<lb />
+校正：ごまごま<lb />
+<date when="1999-07-02">1999年7月2日</date>公開<lb />
+<date when="2012-06-12">2012年6月12日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>tat_suki</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>ごまごま</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>半七捕物帳</title><author>岡本綺堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+「その頃の箱根はまるで違いますよ」<lb />
+　半七老人は天保版の道中懐宝図鑑という小形の本をあけて見せた。<lb />
+「御覧なさい。湯本でも宮の下でもみんな<span type="ruby"><span type="rb">茅葺</span><span type="rp">（</span><span type="rt">かやぶき</span><span type="rp">）</span></span>屋根に描いてあるでしょう。それを思うと、むかしと今とはすっかり変ったもんですよ。その頃は箱根へ<span type="ruby"><span type="rb">湯治</span><span type="rp">（</span><span type="rt">とうじ</span><span type="rp">）</span></span>に行くなんていうのは一生に一度ぐらいの仕事で、そりゃあ大変でした。いくら金のある人でも、道中がなかなか<span type="ruby"><span type="rb">億劫</span><span type="rp">（</span><span type="rt">おっくう</span><span type="rp">）</span></span>ですからね。まあ、普通は初めの朝に品川をたって、その晩は程ヶ谷か戸塚にとまって、次の日が小田原泊りというのですが、女や年寄りの<span type="ruby"><span type="rb">足弱</span><span type="rp">（</span><span type="rt">あしよわ</span><span type="rp">）</span></span>連れだと小田原まで三日がかり。それから小田原を<span type="ruby"><span type="rb">発</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>って箱根へのぼるというのですから、湯治もどうして楽じゃありませんでした。わたくしが二度目に箱根へ行ったのは文久二年の五月で、多吉という若い子分を一人連れて、お節句の<span type="ruby"><span type="rb">菖蒲</span><span type="rp">（</span><span type="rt">しょうぶ</span><span type="rp">）</span></span>を軒から引いた<span type="ruby"><span type="rb">翌</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>くる日に江戸をたって、その晩は<span type="ruby"><span type="rb">式</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>の通りに戸塚に泊って、次の日の夕方に小田原の<span type="ruby"><span type="rb">駅</span><span type="rp">（</span><span type="rt">しゅく</span><span type="rp">）</span></span>へはいりました。日の長い時分ですから、道中は楽でしたが、旧暦の五月ですから、日のうちはもう暑いのに少し弱りました。なに、こっちは湯治の何のというわけじゃないので、実は八丁堀の旦那（同心）の<span type="ruby"><span type="rb">御新造</span><span type="rp">（</span><span type="rt">ごしんぞ</span><span type="rp">）</span></span>が産後ぶらぶらしていて、先月から箱根の湯本に行っているので、どうしても一度は見舞に行かなけりゃあならないような<span type="ruby"><span type="rb">破目</span><span type="rp">（</span><span type="rt">はめ</span><span type="rp">）</span></span>になって、無けなしの路用をつかって、御用の暇をみて道中に出たわけなんです。それでも旅へ出ればのんきになって、若い奴を相手に面白くあるいて行きました。で、今も申す通り、二日目の夕方に<span type="ruby"><span type="rb">酒匂</span><span type="rp">（</span><span type="rt">さかわ</span><span type="rp">）</span></span>の川を渡って、小田原の御城下に着いて、松屋という<span type="ruby"><span type="rb">旅籠屋</span><span type="rp">（</span><span type="rt">はたごや</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">草鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span>をぬぐと、その晩に一つの事件が<span type="ruby"><span type="rb">出来</span><span type="rp">（</span><span type="rt">しゅったい</span><span type="rp">）</span></span>したんです」<lb />
+<lb />
+　その頃の小田原と三島の<span type="ruby"><span type="rb">駅</span><span type="rp">（</span><span type="rt">しゅく</span><span type="rp">）</span></span>は、東海道五十三次のなかでも屈指の繁昌であった。それはこの二つの駅のあいだに箱根の関を控えているからで、東から来た旅人は小田原にとまり、西から来た人は三島に泊って、あくる日に箱根八里の山越しをするというのが其の当時の習いであった。そうして、小田原を<span type="ruby"><span type="rb">発</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ったものは三島にとまり、三島を発った者は小田原に泊ることになるので、東海道を草鞋であるくものは、否が応でもこの二つの駅に幾らかの<span type="ruby"><span type="rb">旅籠銭</span><span type="rp">（</span><span type="rt">はたごせん</span><span type="rp">）</span></span>を払って行かなければならなかった。関所を越える旅ではないが、半七もやはり小田原に泊って、あくる日湯本の<span type="ruby"><span type="rb">宿</span><span type="rp">（</span><span type="rt">やど</span><span type="rp">）</span></span>をたずねて行こうと思っていた。<lb />
+　道草を食いながらぶらぶらあるいて来たので、二人が宿へ着いたのはもう六ツ半（午後七時）頃であった。風呂へはいって来ると、女中がすぐに膳を運び出した。半七は<span type="ruby"><span type="rb">下戸</span><span type="rp">（</span><span type="rt">げこ</span><span type="rp">）</span></span>であるが、多吉は飲むので、二人の膳のうえには徳利が乗っていた。多吉の附き合いに二、三杯飲むと、もう半七はまっ赤になって、膳を引かせると、やがてそこへごろりと横になってしまった。<lb />
+「親分、くたびれましたかえ」と、多吉は宿から借りた<span type="ruby"><span type="rb">紅摺</span><span type="rp">（</span><span type="rt">べにず</span><span type="rp">）</span></span>りの<span type="ruby"><span type="rb">団扇</span><span type="rp">（</span><span type="rt">うちわ</span><span type="rp">）</span></span>で、膝のあたりの蚊を追いながら云った。<lb />
+「むむ。あんまり道草を食ったので、ちっとくたびれたようだ。意気地がねえ。おとどし<span type="ruby"><span type="rb">大山</span><span type="rp">（</span><span type="rt">おおやま</span><span type="rp">）</span></span>へ登った時のような元気はねえよ」と、半七は寝ころびながら笑った。<lb />
+「時に親分。わっしは<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さっき</span><span type="rp">）</span></span>ここの風呂へ行く途中で変な奴に逢いましたよ」<lb />
+「誰に逢った」<lb />
+「なんという奴だか知らねえんですけれど、なんでも<span type="ruby"><span type="rb">堅気</span><span type="rp">（</span><span type="rt">かたぎ</span><span type="rp">）</span></span>の人間じゃありません。どこかで見た奴だと思うんだが、どうも思い出せないので……。なにしろ廊下で私に逢ったら、あわてて顔をそむけて行きましたから、むこうでも覚ったに相違ありません。あんな奴が泊っているようじゃあ、ちっと気をつけなけりゃあいけませんぜ」と、多吉は仔細らしくささやいた。<lb />
+「まさか、<span type="ruby"><span type="rb">胡麻</span><span type="rp">（</span><span type="rt">ごま</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">蠅</span><span type="rp">（</span><span type="rt">はえ</span><span type="rp">）</span></span>じゃあるめえ」と、半七はまた笑った。「<span type="ruby"><span type="rb">小博奕</span><span type="rp">（</span><span type="rt">こばくち</span><span type="rp">）</span></span>でも打つぐらいの奴なら、旅籠屋へきて別に悪いこともしねえだろう。道楽者は却って神妙なものだ」<lb />
+　こっちが気にも留めないので、多吉もそれぎり黙ってしまった。四ツ（午後十時）頃に床をしかせて、二人は六畳の座敷に枕をならべて寝ると、その夜なかに半七はふと目をさました。<lb />
+「やい、多吉。起きろ、起きろ」<lb />
+　二、三度呼ばれて、多吉は寝ぼけまなこをこすった。<lb />
+「親分。なんです」<lb />
+「なんだか<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>じゅうがそうぞうしいようだ。火事か、どろぼうか、起きてみろ」<lb />
+　多吉は<span type="ruby"><span type="rb">寝衣</span><span type="rp">（</span><span type="rt">ねまき</span><span type="rp">）</span></span>のままで<span type="ruby"><span type="rb">蚊帳</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>をくぐって出て、すぐに二階を降りて行ったが、やがて又あわただしく引っ返して来た。<lb />
+「親分。やられた。人殺しだ」<lb />
+　半七も起き直った。多吉の話によると、裏二階に泊った<span type="ruby"><span type="rb">駿府</span><span type="rp">（</span><span type="rt">すんぷ</span><span type="rp">）</span></span>（静岡）の<span type="ruby"><span type="rb">商人</span><span type="rp">（</span><span type="rt">あきんど</span><span type="rp">）</span></span>の二人づれが何者にか殺されて、胴巻の金を盗まれたというのであった。一人は寝ているところを一と突きに喉を刺されたのである。そうして、その蒲団の下に入れてあった胴巻をひき出そうとする時に、となりに寝ている連れの男が眼をさましたので、これもついでに斬り付けたらしく、その男は寝床から少し這い出して、頸すじを斜めに斬られて倒れていた。<lb />
+「役人が来て、もう調べています。なんでも外からはいったものじゃないらしいと云っていますから、いずれここへも調べにくるでしょう」と、多吉は云った。<lb />
+「ひどいことをする奴だな」と、半七は首をかしげて考えていた。「なにしろ調べに来るまでは無暗に動いちゃあならねえ。まあ差し当ってはじっとしていろ」<lb />
+「そうですね」<lb />
+　二人は床のうえに坐って待っていると、廊下を急いで来る足音がこの座敷のまえに止まって、だしぬけに障子をがらりとあけて這い込んで来た者があった。彼は蚊帳の外から声をかけた。<lb />
+「<span type="ruby"><span type="rb">大哥</span><span type="rp">（</span><span type="rt">あにい</span><span type="rp">）</span></span>。多吉の大哥。すまねえが助けてくれ」<lb />
+「誰だ」と、多吉はうす暗い<span type="ruby"><span type="rb">行燈</span><span type="rp">（</span><span type="rt">あんどう</span><span type="rp">）</span></span>の火で蚊帳越しに透かしてみると、それは廊下でさっき出逢った男であった。彼は二十八九で、色のあさ黒い、小じっかりとした男で、ひどくあわてたように息をはずませていた。<lb />
+「わっしだ、小森の屋敷の七蔵だ。おめえにはちっと義理の悪いことがあるもんだから、さっきは知らねえ顔をして悪かった。<span type="ruby"><span type="rb">後生</span><span type="rp">（</span><span type="rt">ごしょう</span><span type="rp">）</span></span>だ、なんとか助けてくれ」<lb />
+　名乗られて、多吉もようよう思い出した。かれは下谷の小森という与力の屋敷の中間で、ふだんから余り<span type="ruby"><span type="rb">身状</span><span type="rp">（</span><span type="rt">みじょう</span><span type="rp">）</span></span>のよくない、方々の屋敷の大部屋へはいりこんで<span type="ruby"><span type="rb">博奕</span><span type="rp">（</span><span type="rt">ばくち</span><span type="rp">）</span></span>を打つのを商売のようにしている道楽者であった。去年の暮、あるところで彼は博奕に負けて、寒空に素っ裸にされようとするところへ、ちょうど多吉が行きあわせて、可哀そうだと思って一分二朱ばかり貸してやった。七蔵はひどく喜んで、<span type="ruby"><span type="rb">大晦日</span><span type="rp">（</span><span type="rt">おおみそか</span><span type="rp">）</span></span>までにはきっと多吉の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>までとどけると固く約束して置きながら、ことしの今まで顔出しもしなかったのである。<lb />
+「ちげえねえ。小森さんの屋敷の七蔵か。てめえ、渡り者のようでもねえ、あんまり世間の義理を知らねえ野郎だ」<lb />
+「だから今夜はあやまっている。大哥、拝むから助けてくんねえ」<lb />
+「てめえに拝み倒されるおれじゃあねえ。嫌だ、嫌だ」<lb />
+　多吉は強情に跳ね付けているのを聞きかねて、半七は口を出した。<lb />
+「まあ、そう色気のねえことを云うなよ。そこで、七蔵さんという大哥はわたし達になんの用があるんです。わたしは神田の半七という者です」<lb />
+「やあ、どうも……」と、七蔵はあらためて<span type="ruby"><span type="rb">会釈</span><span type="rp">（</span><span type="rt">えしゃく</span><span type="rp">）</span></span>した。「親分、後生だから助けておくんなせえ」<lb />
+「どうすりゃあお前さんが助かるんだ」<lb />
+「実は旦那が私を手討ちにして、自分も腹を切るというんで……」<lb />
+「ふむう」<lb />
+　これには半七もおどろかされた。どんな事情があるか知らないが、武士が家来を手討ちにして自分も腹を切る、それは容易ならないことだと思った。多吉もさすがにびっくりして、行儀の悪い膝を立て直して云った。<lb />
+「まあ<span type="ruby"><span type="rb">蚊帳</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>へはいれ。一体そりゃあどういう理窟だ」<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+　七蔵の主人の小森市之助というのは、今年まだ<span type="ruby"><span type="rb">二十歳</span><span type="rp">（</span><span type="rt">はたち</span><span type="rp">）</span></span>の若侍であった。かれは御用の道中で、先月のはじめに江戸をたって駿府へ行った。その帰りに、ゆうべは三島の本陣へ泊ると、道楽者の七蔵は近所を見物するとか云って宿を出て、<span type="ruby"><span type="rb">駅</span><span type="rp">（</span><span type="rt">しゅく</span><span type="rp">）</span></span>の女郎屋をさがしにゆく途中で、一人の男に声をかけられた。男は三十五六の小粋な商人風で、菅笠を手に持って小さい荷物を振り分けにかついでいた。彼は七蔵を武家の家来と知って呼び止めたのであった。<lb />
+　男は七蔵になれなれしく話を仕掛けた。ここの駅では何という宿がよいかなどと<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>いた。そのうちに男はそこらで一杯飲もうと誘った。渡り者の七蔵は大抵その意味を察したので、すぐに承知して近所の小料理屋へ一緒に行った。ずうずうしい彼は、ひとの振舞い酒を遠慮なしに<span type="ruby"><span type="rb">鱈腹</span><span type="rp">（</span><span type="rt">たらふく</span><span type="rp">）</span></span>飲んで、もういい心持に酔った頃に、かれを誘った旅の男は小声で云った。<lb />
+「時に大哥。どうでしょう。あしたはお供をさせて頂くわけには……」<lb />
+　男は関所の手形を持っていないのである。こういう<span type="ruby"><span type="rb">旅人</span><span type="rp">（</span><span type="rt">たびびと</span><span type="rp">）</span></span>は小田原や三島の駅にさまよっていて、武家の家来に幾らかの<span type="ruby"><span type="rb">賄賂</span><span type="rp">（</span><span type="rt">わいろ</span><span type="rp">）</span></span>をつかって、自分も臨時にその家来の一人に加えて貰って、無事に箱根の関を越そうというのである。勿論、手形には主人のほか家来何人としるしてあるが、荷物が多くなったので臨時に荷かつぎの人間を雇ったといえば、大抵無事に通過することを許されていた。殊に御用の道中などをする者に対しては、関所でも面倒な詮議をしなかった。この男もそれを知っていて、あしただけの供を七蔵に頼んだのであった。<lb />
+　大方そんなことであろうと、七蔵も最初から推量していたので、彼はその男から三分の<span type="ruby"><span type="rb">銭</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>を貰ってすぐに呑み込んで、あしたの明け六ツまでに本陣へたずねて来るように約束して、彼はその男と別れた。こういうことは武家の家来が一種の<span type="ruby"><span type="rb">役得</span><span type="rp">（</span><span type="rt">やくとく</span><span type="rp">）</span></span>にもなっていたので、よほど厳格な主人でない限りはまず<span type="ruby"><span type="rb">大眼</span><span type="rp">（</span><span type="rt">おおめ</span><span type="rp">）</span></span>に見逃がしておく習いになっていた。殊に七蔵の主人の市之助はまだ<span type="ruby"><span type="rb">若年</span><span type="rp">（</span><span type="rt">じゃくねん</span><span type="rp">）</span></span>であるので、勿論そんなことは家来まかせにして置いた。<lb />
+　あくる朝になると、その男は約束の通りに来た。<lb />
+「わたくしは喜三郎と申します。なにぶん願います」<lb />
+　彼は市之助のまえにも挨拶した。そうして、型ばかりの荷物をかつがせて貰って、かれは市之助主従のあとに付いて出た。彼はなかなか旅馴れているとみえて、峠へのぼる間もいろいろの道中の話などを<span type="ruby"><span type="rb">軽口</span><span type="rp">（</span><span type="rt">かるくち</span><span type="rp">）</span></span>にしゃべって、主従の疲れを忘れさせた。市之助も彼を面白い奴だと云った。<lb />
+　無事に関所を越えて小田原の駅につくと、喜三郎は今夜も一緒に泊めてくれと云った。かれは主従を<span type="ruby"><span type="rb">立場</span><span type="rp">（</span><span type="rt">たてば</span><span type="rp">）</span></span>に休ませて置いて、自分ひとりが駈けぬけて駅へはいったが、やがて又引っ返して来て、今夜は本陣にふた組の大名が泊っている。脇本陣にも一と組とまっている。そんな混雑の宿へ泊るよりも普通の旅籠屋へ泊った方が静かでよかろう。自分は松屋という宿を識っているから、そこへ御案内したいと云った。<lb />
+　いくら御用の道中でも、本陣に泊るのは少し窮屈である。本陣に泊っては女を呼ぶわけにもゆかない。酔って騒ぐわけにもゆかない。箱根を越せばもう江戸だと思うにつけても、窮屈な本陣の古ぼけた屋敷に押し込まれるよりも、普通の小綺麗な旅籠屋に泊って、ゆっくりと手足をのばして<span type="ruby"><span type="rb">旨</span><span type="rp">（</span><span type="rt">うま</span><span type="rp">）</span></span>い酒でも飲みたいと七蔵は思った。すこし渋っている主人を無暗にそそり立てて、彼は喜三郎が知っているという普通の旅籠屋に泊ることに決めさせて、三人はその松屋にはいった。<lb />
+「失礼でございますが、今夜はわたくしが山祝いをいたしましょう」と、喜三郎は云った。<lb />
+　旅人が無事に箱根を越せば、その夜の宿で山祝いをするのが当時の習いであるので、本来ならば主人の市之助から供の二人に三百文ずつの祝儀をやって、ほかに酒でも振舞うべきであった。市之助も勿論その祝儀を出した。その二人分の六百文を七蔵はみんなふところに押し込んでしまって、更に喜三郎にむかって山祝いの酒を買えと<span type="ruby"><span type="rb">強請</span><span type="rp">（</span><span type="rt">いたぶ</span><span type="rp">）</span></span>りかけると、喜三郎は素直に承知した。<lb />
+　市之助はさすがに武家<span type="ruby"><span type="rb">気質</span><span type="rp">（</span><span type="rt">かたぎ</span><span type="rp">）</span></span>で、仮りにも供と名の付くものに酒を買わせる法はないというのを、七蔵は無理におさえつけて、万事わたくしに任せてくれと云った。主人の振舞ってくれる酒では<span type="ruby"><span type="rb">羽目</span><span type="rp">（</span><span type="rt">はめ</span><span type="rp">）</span></span>をはずして飲むわけにはゆかないので、彼は喜三郎をいたぶって、今夜も存分に飲もうという<span type="ruby"><span type="rb">目算</span><span type="rp">（</span><span type="rt">もくさん</span><span type="rp">）</span></span>であった。その目算通りに、喜三郎は山祝いを快く引きうけて、宿の女中に酒や肴をたくさん運ばせた。<lb />
+「今夜はまずめでたいな」と、市之助は云った。<lb />
+「おめでとうございます」と、供の二人も頭をさげた。<lb />
+　<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>いられて市之助もすこし飲んだ。七蔵は止め度もなしに飲んだ。いい頃を見はからって、喜三郎は他愛のない七蔵を介抱して主人のまえを退がった。主人は奥の下座敷の六畳に寝て、供のふたりは次の間の四畳半の相部屋で寝た。その夜なかに喜三郎は裏二階の客二人を殺して、どこへか姿を隠したのであった。<lb />
+「さては盗賊か」と、市之助はおどろいた。<lb />
+　七蔵も今更におどろいた。金と酒とに眼がくれて、飛んでもないものを連れて来たと、彼もさすがに顔色を変えた。<lb />
+　前にもいう通り、それが当時の習いとは云いながら、素姓の知れないものを供といつわって関所をぬけさせたということが、表向きの詮議になれば面倒であることは云うまでもない。煎じつめれば、これも一種の関破りである。何事もなければ仔細はないが、こういう事件が<span type="ruby"><span type="rb">出来</span><span type="rp">（</span><span type="rt">しゅったい</span><span type="rp">）</span></span>した以上、もう隠すにも隠されない<span type="ruby"><span type="rb">破目</span><span type="rp">（</span><span type="rt">はめ</span><span type="rp">）</span></span>になって、市之助は当然その<span type="ruby"><span type="rb">責</span><span type="rp">（</span><span type="rt">せめ</span><span type="rp">）</span></span>を負わなければならなかった。もう一つの面倒は、御用の道中でありながら、本陣または脇本陣に泊らないで、殊更に普通の<span type="ruby"><span type="rb">旅籠</span><span type="rp">（</span><span type="rt">はたご</span><span type="rp">）</span></span>屋にとまったということである。そうして、その旅籠屋でこんな事件を生み出したのであるから、市之助の不都合は重々であると云われても、一言の云い開きも出来ない。<lb />
+　年の若い市之助は、その<span type="ruby"><span type="rb">発頭人</span><span type="rp">（</span><span type="rt">ほっとうにん</span><span type="rp">）</span></span>たる七蔵を手討ちにして、自分も腹を切ろうと覚悟を決めたのである。ゆうべの酒もすっかり醒めてしまって、七蔵はふるえあがった。<lb />
+「それは御短慮でござります。まずしばらくお待ちくださりませ」<lb />
+　一生懸命に主人をなだめているうちに、彼は宵に廊下で出逢った多吉のことを思い出した。多吉に頼んでその盗賊を取り押えて貰ったら、又なんとか助かる<span type="ruby"><span type="rb">工夫</span><span type="rp">（</span><span type="rt">くふう</span><span type="rp">）</span></span>もありそうなものだと、彼はすぐにこの部屋に<span type="ruby"><span type="rb">転</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>げ込んで来たのであった。<lb />
+　その話を聴いて半七と多吉は顔をみあわせた。<lb />
+「しかし旦那は立派な覚悟だ。それよりほかにしようはあるめえ。おまえさんも尋常に覚悟を決めたらどうだね」と、半七は云った。<lb />
+「そんなことを云わねえで、<span type="ruby"><span type="rb">後生</span><span type="rp">（</span><span type="rt">ごしょう</span><span type="rp">）</span></span>だから助けておくんなせえ。この通りだ」と、七蔵は両手をあわせて半七を拝んだ。根が差したる悪党でもない彼は、もうこうなると生きている<span type="ruby"><span type="rb">顔色</span><span type="rp">（</span><span type="rt">がんしょく</span><span type="rp">）</span></span>はなかった。<lb />
+「それほど命が惜しけりゃあ仕方がねえ。おめえはこれから逃げてしまえ」<lb />
+「逃げてもようがすかえ」<lb />
+「おめえがいなければ旦那を助ける<span type="ruby"><span type="rb">工夫</span><span type="rp">（</span><span type="rt">くふう</span><span type="rp">）</span></span>もある。すぐに逃げなせえ。これは少しだが路用の足しだ」<lb />
+　半七は<span type="ruby"><span type="rb">蒲団</span><span type="rp">（</span><span type="rt">ふとん</span><span type="rp">）</span></span>の下から紙入れを出して、二分金を二枚ほうってやった。そうして、自分の座敷へは戻らずに、すぐに何処へか姿をかくせと教えると、七蔵はその金をいただいて早々に出て行った。<lb />
+　半七は着物を着換えて、奥の下座敷へたずねて行こうとすると、<span type="ruby"><span type="rb">階下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>の降り口で宿の女中のうろうろしているのに逢った。<lb />
+「おい。お役人衆はもうお引き揚げになったかえ」<lb />
+「いいえ」と、女中はふるえながらささやいた。「皆さんはまだ帳場にいらっしゃいます」<lb />
+「そうかい。下座敷に上下三人づれのお武家が泊っているだろう。その座敷はどこだえ」<lb />
+「え」と、女中はためらっていた。<lb />
+　その様子で、半七はたいてい覚った。役人たちも市之助主従に眼をつけたのであるが、相手が武士だけに少し遠慮しているらしい。それを女中ももう薄々知っているので、その座敷へ案内するのを躊躇しているのであろう。半七は気が<span type="ruby"><span type="rb">急</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>くので重ねて催促した。<lb />
+「え、どの座敷だ。早く教えてくんねえ」<lb />
+　女中は仕方なしに指さして教えた。この縁側をまっすぐに行って、左へまがると風呂場がある。その前を通って奥へゆくと、小さい中庭を隔てたふた間の座敷がそれである、と云った。<lb />
+「や、ありがとう」<lb />
+　教えられた通りに縁側を伝ってゆくと、その座敷の前に出た。<lb />
+「ごめん下さいまし」<lb />
+　障子の外から声をかけても、内にはなんの返事もないので、半七は障子をそっと細目にあけて覗くと、蚊帳の釣手は二本ばかり切れて落ちていた。蚊帳のなかには血だらけの男が一人倒れているらしかった。<lb />
+「もう切腹したのか」<lb />
+　もう遠慮はしていられないので、半七は思い切って障子をあけてはいると、座敷の隅の方に片寄せてある行燈の光りはくずれかかっている蚊帳の青い波を照らして、その波の底に横たわっているのは、かの七蔵の死骸であった。まだぐずぐずしていて、とうとう手討ちに逢ったのかと思ったが、そこらに主人らしい人の影は見えなかった。主人は彼を成敗して、どこへ姿を隠したのであろう。半七は差し当って思案に迷った。<lb />
+　この途端に、縁側で人の窺っているような気配がきこえたので、耳のさとい半七はすぐにからだを捻じ向けて、うす暗い障子の外を透かしてみると、彼にこの座敷のありかを教えてくれた若い女中が縁側に小膝をついて、内の様子を窺っているらしかった。半七は<span type="ruby"><span type="rb">猶予</span><span type="rp">（</span><span type="rt">ゆうよ</span><span type="rp">）</span></span>なく飛び出して、その女中の腕をつかんで座敷へ<span rend="sesame_dot" rendition="em">ぐいぐい</span>と引き摺り込んだ。女中は二十歳ぐらいで、色白の丸顔の女であった。<lb />
+「おい、おめえはここで何をしていた。正直に云わねえと為にならねえぞ。おめえはこの座敷にいた客のうちで、誰か知っている人でもあるのか。ほかの女中はみんな小さくなって引っ固まっているのに、おめえ一人はさっきから<span type="ruby"><span type="rb">其処</span><span type="rp">（</span><span type="rt">そこ</span><span type="rp">）</span></span>らをうろうろしているのは、なにか訳があるに相違ねえ。この男を識っているのか」と、半七は蚊帳のなかに倒れている七蔵を指さして訊いた。<lb />
+　女中は身をすくめながら<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かぶり</span><span type="rp">）</span></span>をふった。<lb />
+「それじゃあ連れの男を識っているのか」<lb />
+　女中はやはり識らないと云った。彼女はおどおどして始終うつむき勝ちであったが、ときどきに床の間に列んだ押入れの方へその落ち着かない<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">ひとみ</span><span type="rp">）</span></span>を配っているらしいのが、半七の眼についた。その頃の旅籠屋には押入れなどを作っていないのが普通であったが、この座敷は特別の<span type="ruby"><span type="rb">造作</span><span type="rp">（</span><span type="rt">ぞうさく</span><span type="rp">）</span></span>とみえて、<span type="ruby"><span type="rb">式</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>ばかりの床の間もあった。それに列んで一間の押入れも付いていた。<lb />
+　その押入れを横眼に見て、半七はうなずいた。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+「おい、ねえさん。隠しちゃいけねえ。おめえはどうしてもこの座敷の三人のうちに、何か係り合いがあるに相違ねえ。正直にいえばよし、さもなければお前を引き摺って行って、役人衆に引き渡すからそう思え。そうなったら、おめえばかりじゃねえ、ほかにも迷惑する人が出来るかも知れねえぜ。おめえが素直に白状してくれれば、おれが受け合って誰にも迷惑をかけねえようにしてやる。まだ判らねえか。おれは江戸の御用聞きで、今夜丁度ここへ泊りあわせたんだ。決して悪いようにしねえから何もかも云ってくれ」<lb />
+　半七の素姓を聞かされて、若い女中はいよいよおびえたらしく見えたが、いろいろ<span type="ruby"><span type="rb">嚇</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>されて、<span type="ruby"><span type="rb">賺</span><span type="rp">（</span><span type="rt">すか</span><span type="rp">）</span></span>されて、彼女はとうとう正直に白状した。かれはお関という女で、おとどしからここに奉公している者であった。ゆうべこの座敷で山祝いの酒が出たときに、お関はその給仕に出て皆の酌をしたが、供の二人にくらべると、さすがに主人の若い武家は<span type="ruby"><span type="rb">水際</span><span type="rp">（</span><span type="rt">みずぎわ</span><span type="rp">）</span></span>立って立派に見えたので、こっちも年の若いお関の眼は兎角にその人の方にばかり動いた。供の二人はそれを早くも見つけて、いろいろにお関をなぶった。そうして、おれ達にたのめばきっと旦那に取り持ってやるなどと云った。<lb />
+　その冗談がほんとうになって、七蔵が<span type="ruby"><span type="rb">便所</span><span type="rp">（</span><span type="rt">はばかり</span><span type="rp">）</span></span>に行ったのを送って行ったお関は、廊下でそっと彼に取り持ちを頼むと、酔っている七蔵は<span type="ruby"><span type="rb">無雑作</span><span type="rp">（</span><span type="rt">むぞうさ</span><span type="rp">）</span></span>に受け合って、おれから旦那にいいように吹き込んでやるから、<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>じゅうが寝静まった頃に忍んで来いと云った。お関はそれを<span type="ruby"><span type="rb">真</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>に受けて、夜ふけにそっと自分の寝床をぬけ出して行ったが、市之助の座敷のまえまで来て彼女はまた躊躇した。障子の引手に手をかけて、かれは急に恥かしくなった。まず<span type="ruby"><span type="rb">媒妁人</span><span type="rp">（</span><span type="rt">なこうど</span><span type="rp">）</span></span>の七蔵をよび起して、今夜の首尾を確かめようと、彼女は更に次の間の障子をあけると、酔い潰れた七蔵は蚊帳から片足を出して<span type="ruby"><span type="rb">蟒蛇</span><span type="rp">（</span><span type="rt">うわばみ</span><span type="rp">）</span></span>のような<span type="ruby"><span type="rb">大鼾</span><span type="rp">（</span><span type="rt">おおいびき</span><span type="rp">）</span></span>をかいていた。一つの蚊帳に枕をならべている筈の喜三郎の寝床は<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>になっていた。<lb />
+　いくら揺り起しても、七蔵はなかなか眼を醒まさないので、お関もほとほと持て余していると、そこへ喜三郎が外から<span rend="sesame_dot" rendition="em">ぬっ</span>とはいって来た。彼はお関を見てひどくびっくりしたような様子で、しばらく突っ立ったままでじっと睨んでいるので、お関はいよいよきまりが悪くなって、行燈の油をさしに来たのだと誤魔かして、早々にそこを逃げ出した。<lb />
+　それでも未練で、彼女はまだ立ち去らずに縁側に忍んでいると、内では七蔵が眼を醒ましたらしかった。そうして、喜三郎となにかひそひそ話し合っているらしかったが、やがて再び障子がそっとあいたので、お関は碌々にその人の姿も見きわめないで、あわてて自分の部屋に逃げて帰った。裏二階の人殺しがほんとうの油差しの男に発見されたのは、それから<span type="ruby"><span type="rb">小半刻</span><span type="rp">（</span><span type="rt">こはんとき</span><span type="rp">）</span></span>の後であった。<lb />
+　自分のかかり合いになるのを恐れて、お関は役人に対して何も口外しなかったが、前後の模様からかんがえると、自分が七蔵の座敷に忍びこんだときに、喜三郎は人を殺して帰って来て、七蔵となにか相談して又そこを出て、中庭から塀越しに逃げ去ったものらしく思われた。勿論、自分はその事件に何のかかり合いもないのであるが、丁度その座敷に居あわせたという不安と、もう一つは市之助の身を案じて、先刻からそこらにうろうろしているのであった。<lb />
+「そうか。判った」と、半七はその話を聴いてうなずいた。「して、その武家はどうした」<lb />
+「今までここにおいででしたが……」<lb />
+「隠していちゃあいけねえ。ここか」と、半七は押入れを<span type="ruby"><span type="rb">頤</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>で示して訊いた。<lb />
+　その声は低かったが、隠れている人の耳にはすぐ響いたらしい。お関が返事をする間もなく、押入れの戸をさらりとあけて、若い侍が蒼ざめた顔を出した。かれは片手に刀を持っていた。<lb />
+「わたしは小森市之助だ、家来を手討ちにして切腹しようとするところへ、人の足音がきこえたので、召捕られては恥辱と存じて、ひとまず押入れに身をかくしていたが、覚られては致し方がない。どうぞ情けに切腹させてくれ」<lb />
+　刀を取り直そうとする<span type="ruby"><span type="rb">臂</span><span type="rp">（</span><span type="rt">ひじ</span><span type="rp">）</span></span>のあたりを、半七はあわてて掴んだ。<lb />
+「御短慮でございます。まずお待ちくださいまし。この七蔵は又引っ返して参ったのでございますか」<lb />
+「切腹と覚悟いたしたれば、身を<span type="ruby"><span type="rb">浄</span><span type="rp">（</span><span type="rt">きよ</span><span type="rp">）</span></span>めようと存じて湯殿へ顔を洗いにまいって、戻ってみれば重々不埒な奴、わたしの寝床の下に手を入れて、胴巻をぬすみ出そうと致しておった。所詮助けられぬとすぐ手討ちにいたした」<lb />
+　七蔵の手には果たして胴巻をつかんでいた。抱き起してみると、まだ息が通っているらしいので、半七は取りあえず気付けの薬をふくませた。お関に云いつけて、冷たい水を汲んできて飲ませた。手当ての甲斐があって、七蔵はようように正気が付いた。<lb />
+「やい、しっかりしろ」と、半七は彼の耳に口をよせて云った。「てめえ、おれ達までも一杯食わせようとしたな。悪い奴だ。てめえはあの喜三郎という奴から幾ら貰った」<lb />
+「なんにも貰わねえ」と、七蔵は微かに云った。<lb />
+「嘘をつけ。てめえは喜三郎から幾らか分け前を貰って、承知のうえ逃がしたろう。ここにいる女中が証人だ。どうだ。まだ隠すか」<lb />
+　七蔵は黙って首をうなだれてしまった。<lb />
+<lb />
+「まあ、お話はそこまでですよ」と、半七老人は云った。<lb />
+「七蔵も最初から喜三郎と<span type="ruby"><span type="rb">同腹</span><span type="rp">（</span><span type="rt">ぐる</span><span type="rp">）</span></span>ではなかったのですが、お関に起されて眼をさましかかった所へ、丁度に喜三郎が仕事をして帰って来たもんですから、喜三郎も悪いところを見られたと思って、口ふさげに十五両やってそっと逃がして貰ったんです。七蔵もそれで知らん顔をしている積りだったんでしょうが、だんだん事面倒になって来て、主人が切腹するの手討ちにするのと云い出したので、奴もおどろいて私たちのところへ駈け込んで来たんです。それですぐに逃げればいいものを、自分の座敷へ荷物を取りに引っ返して来ると、主人が丁度いなかったもんですから、急にまた慾心を起して、行き掛けの駄賃に主人の胴巻まで引っさらって行こうとしたのが運の尽きで、とうとうこんなことになってしまったんです。一旦は息を吹き返しましたけれども、なにぶんにも傷が重いので、夜の引明けにはやはり眼を<span type="ruby"><span type="rb">瞑</span><span type="rp">（</span><span type="rt">つむ</span><span type="rp">）</span></span>ってしまいました」<lb />
+「それで主人はどうしました」とわたしは訊いた。<lb />
+「わたくしがいいように知恵をつけて、悪いことはみんな七蔵にかぶせてしまいました。まったく当人が悪いのだから仕方がありません。つまりその喜三郎というやつが七蔵の親類だというので、主人はそれを信用して臨時の荷かつぎに雇ったのだということにこしらえて、まずどうにか無事に済みました。ふだんの時ならば、それでも主人に相当のお咎めがあるんでしょうが、なにしろもう幕末で幕府の方でも<span type="ruby"><span type="rb">直参</span><span type="rp">（</span><span type="rt">じきさん</span><span type="rp">）</span></span>の家来を大切にする時でしたから、何事もみんな七蔵の罪になってしまって、市之助という人にはなんにも<span type="ruby"><span type="rb">瑕</span><span type="rp">（</span><span type="rt">きず</span><span type="rp">）</span></span>がつかずに済みました」<lb />
+「それで、その喜三郎という奴のゆくえは知れないんですか」と、私は又きいた。<lb />
+「いや、それが不思議な因縁で、やっぱりわたくしの手にかかったんですよ。小田原の方はまずそれで済んで、わたくしは多吉をつれて箱根へ行くと、となりの温泉宿にとまっている奴がどうもおかしいと多吉が云うので、わたくしも気をつけてだんだん探ってみると、そいつは左足を<span type="ruby"><span type="rb">挫</span><span type="rp">（</span><span type="rt">くじ</span><span type="rp">）</span></span>いているんです。念のために小田原の宿の者をよんで透き視をさせると、このあいだの晩とまった客に相違ないというので、すぐに踏み込んで召し捕りました。宿屋の塀を乗り越して逃げるときに、踏みはずして、転げ落ちて、左の足を引っ挫いたので、遠くへ逃げることが出来なくなって、その治療ながら湯本に隠れていたんだそうです。これはわたくしの手柄でもなんでもない、不意の拾い物でした。江戸へ帰ってから、小森市之助という侍はわたくしのところへ礼ながら尋ねてくれましたから、その話をして聞かせると、大層よろこんでいました。なんでもその市之助という人は、御維新のときに、奥州の白河あたりで討死にをしたとかいうことですが、小田原の宿屋で冷たい腹を切るよりも、幾年か生きのびて花々しく討死にした方がましでしたろう」<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

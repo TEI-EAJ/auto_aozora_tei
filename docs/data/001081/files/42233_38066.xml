@@ -1,0 +1,2613 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>天地有情</title>
+        <author>土井晩翠</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2010-01-27">作成</resp><resp /><note>
+<lb />
+底本：「明治文學全集　58　土井晩翠　薄田泣菫　蒲原有明集」筑摩書房<lb />
+　　　1967（昭和42）年4月15日発行<lb />
+底本の親本：「天地有情」博文館<lb />
+　　　1899（明治32）年4月13日発行<lb />
+※変体仮名は普通仮名にあらためました。<lb />
+入力：門田裕志<lb />
+校正：林　幸雄<lb />
+<date when="2010-01-27">2010年1月27日</date>作成<lb />
+<date when="2016-07-11">2016年7月11日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>林　幸雄</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>天地有情</title><author>土井晩翠</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">序</span></span></span>
+<lb />
+「或は人を天上に揚げ或は天を此土に下す」と詩の理想は即是也。詩は閑人の囈語に非ず、詩は彫虫篆刻の末技に非ず。既往數百年間國詩の經歴に關しては余將た何をか曰はん。思ふに所謂新躰詩の世に出でゝより僅に十餘年、今日其穉態笑ふべきは自然の數なり。然れども歳月遷り文運進まば其不完之を將來に必すべからず。詩は國民の精髓なり、大國民にして大詩篇なきもの未だ之あらず。本邦の前途をして多望ならしめば、本邦詩界の前途亦多望ならずんばあらず。本書收むる所余が新舊の作四十餘篇素より一として詩の名稱を享受するに足るものあらず。只一片の微衷、國詩の發達に關して纖芥の貢資たるを得ば幸のみ。著者不敏と雖ども自ら僭して詩人と爲すの愚を學ぶものに非ず。<lb />
+<span rend="chitsuki_7" rendition="div" style="text-align:right; margin-right: 7em">東京に於て</span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">明治三十二年三月<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">土井林吉</span></span>
+<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">例言</span></span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;">一、本書に收めたる諸篇の大多數は嘗て「帝國文學」及び「反省雜誌」に掲載せるもの、今帝國文學會及び反省雜誌社の許諾に因りて茲に轉載するを得たり、謹んで兩社に謝す。</span>
+<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -2em;">一、詩を以て遊戲と爲し閑文字と爲し彫虫篆刻の末技と爲すは古來の漸なり、是弊敗れずんば眞詩決して起らじ。一般讀者の詩に對する根本思想を刷新するは今日國詩發達の要素なるを信ず。附録は泰西諸大家の詩論若くは詩人論なり。素是諸書漫讀の際偶然抄譯し置けるもの、故に精を窮め理を竭せるには非ずと雖も今日の讀詩界に小補なくんばあらず。敢て切に江湖の精讀を請ふ。</span>
+<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">希望</span></span></span>
+<lb />
+<lb />
+沖の汐風吹きあれて<lb />
+白波いたくほゆるとき、<lb />
+夕月波にしづむとき、<lb />
+<span type="ruby"><span type="rb">黒暗</span><span type="rp">（</span><span type="rt">くらやみ</span><span type="rp">）</span></span>よもを襲ふとき、<lb />
+空のあなたにわが舟を<lb />
+導く星の光あり。<lb />
+<lb />
+ながき我世の夢さめて<lb />
+むくろの土に返るとき、<lb />
+心のなやみ終るとき、<lb />
+罪のほだしの解くるとき、<lb />
+墓のあなたに我<span type="ruby"><span type="rb">魂</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>を<lb />
+導びく神の<span type="ruby"><span type="rb">御</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>聲あり。<lb />
+<lb />
+嘆き、わづらひ、くるしみの<lb />
+海にいのちの舟うけて<lb />
+夢にも泣くか塵の子よ、<lb />
+浮世の波の仇騷ぎ<lb />
+雨風いかにあらぶとも<lb />
+忍べ、とこよの花にほふ――<lb />
+<lb />
+港入江の春告げて、<lb />
+流るゝ川に<span type="ruby"><span type="rb">言葉</span><span type="rp">（</span><span type="rt">ことば</span><span type="rp">）</span></span>あり、<lb />
+燃ゆる焔に<span type="ruby"><span type="rb">思想</span><span type="rp">（</span><span type="rt">おもひ</span><span type="rp">）</span></span>あり、<lb />
+空行く雲に<span type="ruby"><span type="rb">啓示</span><span type="rp">（</span><span type="rt">さとし</span><span type="rp">）</span></span>あり、<lb />
+夜半の嵐に<span type="ruby"><span type="rb">諫誡</span><span type="rp">（</span><span type="rt">いさめ</span><span type="rp">）</span></span>あり、<lb />
+人の心に<span type="ruby"><span type="rb">希望</span><span type="rp">（</span><span type="rt">のぞみ</span><span type="rp">）</span></span>あり。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi400">雲の歌</span></span></span>
+<lb />
+<lb />
+ゆふべは崑崙の谷の底<lb />
+けさは芙蓉の峯の上<lb />
+萬里の鵬の行末も<lb />
+馳けり窮めむ路遠み<lb />
+無限のあらしわが翼<lb />
+空の大うみわが旅路。<lb />
+<lb />
+空の大海星のさと<lb />
+緑をこらすたゞなかに<lb />
+懸かる微塵の影ひとつ<lb />
+見る／＼湧きて幾千里<lb />
+あらしを孕み風を帶び<lb />
+光を掩ふてかけり行く。<lb />
+<lb />
+いかづち怒り風狂ひ<lb />
+山河もどよみ震ふとき<lb />
+天潯高く傾けて<lb />
+下界に注ぐ雨の脚<lb />
+やめば名殘の空遠く<lb />
+泛ぶ七いろ虹のはし。<lb />
+<lb />
+曙の紫こむらさき<lb />
+澄みてきらめく明星の<lb />
+光微かに眠るとき<lb />
+覺むる朝日を待ちわびつ<lb />
+やがて焔の<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>添へて<lb />
+中ぞら高くのぼし行く。<lb />
+<lb />
+しづけき夜半の大空に<lb />
+ほのめき出づる月の姫<lb />
+下界の花を慕ひつゝ<lb />
+半ば耻らふ面影は<lb />
+ために掩ほはむわが情<lb />
+輕羅の袖と身を替て。<lb />
+<lb />
+照りて萬朶の花霞<lb />
+花にも勝る身の粧<lb />
+あるは歸鳥の影呑みて<lb />
+ゆふべ奇峯の夏の空<lb />
+海原遙か泛びては<lb />
+紛ふ白帆の影寒く。<lb />
+<lb />
+織ればわが文春の波<lb />
+染むれば巧み秋の野邊<lb />
+羽蓋<span type="ruby"><span type="rb">凝</span><span type="rp">（</span><span type="rt">こほ</span><span type="rp">）</span></span>りて玉帝の<lb />
+<span type="ruby"><span type="rb">御駕</span><span type="rp">（</span><span type="rt">みくるま</span><span type="rp">）</span></span>空に駐るべく<lb />
+錦旗かへりて天上の<lb />
+<span type="ruby"><span type="rb">御遊</span><span type="rp">（</span><span type="rt">ぎよゆふ</span><span type="rp">）</span></span>の列の動くべく。<lb />
+<lb />
+跡こそ替れ替りなき<lb />
+自然の工みわが匂ひ<lb />
+嶺に靉く夕暮は<lb />
+天女羅綾の舞ごろも<lb />
+斷片風に流れては<lb />
+われ晴空の孤月輪。<lb />
+<lb />
+影縹緲の空遠く<lb />
+ゆふべいざよふわが姿<lb />
+無心のあとは<span type="ruby"><span type="rb">有</span><span type="rp">（</span><span type="rt">いふ</span><span type="rp">）</span></span>情の<lb />
+誰が<span type="ruby"><span type="rb">高樓</span><span type="rp">（</span><span type="rt">かうろう</span><span type="rp">）</span></span>の眺めぞや<lb />
+珠簾かすかに洩れいでゝ<lb />
+咽ぶ妻琴ねも細く。<lb />
+<lb />
+千仭高ききり<span type="ruby"><span type="rb">崖</span><span type="rp">（</span><span type="rt">ぎし</span><span type="rp">）</span></span>の<lb />
+嶺に聳たつ松一木<lb />
+緑の枝に寄りかゝり<lb />
+風の袂を振ふとき<lb />
+鳴く<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">おと</span><span type="rp">）</span></span>すみて來るたづに<lb />
+貸さむ今宵の夢の宿。<lb />
+<lb />
+岸の柳ともろともに<lb />
+水面に影を宿すとき<lb />
+江山遠き<span type="ruby"><span type="rb">一竿</span><span type="rp">（</span><span type="rt">いつかん</span><span type="rp">）</span></span>の<lb />
+不文のひじり何と見む<lb />
+思は清く身は輕く<lb />
+自在はわれに似たる身の。<lb />
+<lb />
+自然の姿とこしへに<lb />
+われは昨日の我ながら<lb />
+嗚呼函關の紫も<lb />
+昔のあとぞ遙かなる、<lb />
+帝郷遠し影白く<lb />
+泛べば慕ふ友や誰れ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi500">星と花</span></span></span>
+<lb />
+<lb />
+同じ「自然」のおん母の<lb />
+御手にそだちし姉と<span type="ruby"><span type="rb">妹</span><span type="rp">（</span><span type="rt">いも</span><span type="rp">）</span></span><lb />
+み空の花を星といひ<lb />
+わが世の星を花といふ。<lb />
+<lb />
+かれとこれとに隔たれど<lb />
+にほひは同じ星と花<lb />
+笑みと光を宵々に<lb />
+替はすもやさし花と星<lb />
+<lb />
+されば<span type="ruby"><span type="rb">曙</span><span type="rp">（</span><span type="rt">あけぼの</span><span type="rp">）</span></span>雲白く<lb />
+御空の花のしぼむとき<lb />
+見よ白露のひとしづく<lb />
+わが世の星に涙あり。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi600">鷲</span></span></span>
+<lb />
+<lb />
+紫にほふ横雲の<lb />
+露や染めけむ花すみれ<lb />
+花に戯るゝ<span type="ruby"><span type="rb">蜂蝶</span><span type="rp">（</span><span type="rt">ほうてふ</span><span type="rp">）</span></span>の<lb />
+戀か恨かうつゝ世の<lb />
+はかなき春をよそにして<lb />
+　大空のぼる鷲一羽<lb />
+　あらしは寒し道さびし。<lb />
+<lb />
+春の姿はたへなれど<lb />
+花の薫りはにほへれど<lb />
+其春よりも美はしく<lb />
+其花よりもかんばしき<lb />
+雲井のをちをめざしつゝ<lb />
+　大空高く鷲一羽<lb />
+　あらしはきびし道かたし。<lb />
+<lb />
+背には無限の<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">てん</span><span type="rp">）</span></span>を負ひ<lb />
+緑雲はねにつんざきて<lb />
+飛び行くはてはいづくぞや<lb />
+望のあした持ち來る<lb />
+高き薫りのあとゝめて<lb />
+　大空めぐる鷲一羽<lb />
+　あらしはつらし道すごし。<lb />
+<lb />
+嗚呼コーカサス峯高く<lb />
+千重の叢雲むらだちて<lb />
+下界のひゞきやむところ<lb />
+天上の火を奪ひ來し<lb />
+彼のたぐひか青ぐもの<lb />
+　大空翔くる鷲一羽<lb />
+　あらしははげし道遠し。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi700">萬有と詩人</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+Atque omne immensum peragravit mente<lb />
+　animoque. Lucretius.<lb />
+</span>
+<lb />
+「渾沌」よさし窮りて<lb />
+時「永劫」のふところを<lb />
+出でしわが世のあさぼらけ<lb />
+かざしににほふ明星の<lb />
+光に琴を震はして<lb />
+詩人よ君は歌ひしか。<lb />
+<lb />
+流るゝ光りしづむ影<lb />
+過ぎし幾世の春秋ぞ<lb />
+巖は移り山は去り<lb />
+淵も幾たび替りけむ<lb />
+おほあめつちの美はしき<lb />
+たくみは今もむかしにて。<lb />
+<lb />
+あゝわだつみの波の花<lb />
+銀蛇の飛ぶに似たるかな<lb />
+仰げば空に虹高し<lb />
+虹にも醉はぬわがこゝろ<lb />
+波にもにぶきわがこゝろ<lb />
+たのむは獨り君が歌。<lb />
+<lb />
+生ける焔のバプテズマ<lb />
+浮世の塵を燒き掃ひ<lb />
+雲を震はせ風に呼び<lb />
+光に暗に伴ひて<lb />
+大空遠く翔けりくる<lb />
+詩神の歌を君聞くや。<lb />
+<lb />
+あさ日の光りゆふ光り<lb />
+かれとこれとの染め替ふる<lb />
+たくみもよしや<span type="ruby"><span type="rb">天雲</span><span type="rp">（</span><span type="rt">あまぐも</span><span type="rp">）</span></span>の<lb />
+輕羅のころも花ごろも<lb />
+曳くやもすその紅に<lb />
+詩神の影を君見るや。<lb />
+<lb />
+「泉のほとり森のかげ<lb />
+光てりそふ岡<span rend="superscript" rendition="sup">（一）</span>のみか<lb />
+あしたの風の吹くところ<lb />
+ゆふべの雲のゐるところ<lb />
+露のしづくのふるところ<lb />
+いづくか歌のなからめや。<lb />
+<lb />
+流るゝ水のゆくところ<lb />
+きらめく星のてるところ<lb />
+緑の草の生ふところ<lb />
+鷲の翼を振るところ<lb />
+獅子のあらしに呼ぶところ<lb />
+いづくか歌のなからめや。<lb />
+<lb />
+春は吉野のあさぼらけ<lb />
+こむる霞のくれなゐも<lb />
+遠目は紛ふ花の峯<lb />
+夏はラインの夕まぐれ<lb />
+流は遠く水清く<lb />
+映るも岸の深みどり<lb />
+<lb />
+汨羅の淵のさゞれなみ<lb />
+巫山の雲は消えぬれど<lb />
+猶搖落の秋の聲<lb />
+潮も氷る北洋の<lb />
+巖を照らすくれなゐは<lb />
+光しづまぬ夜半の日か。<lb />
+<lb />
+路に斃れしカラバンの<lb />
+枯骨碎けて塵となり<lb />
+<span type="ruby"><span type="rb">魂</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>啾々の恨さへ<lb />
+あらしにまじる大砂漠<lb />
+もの皆滅ぶ空劫の<lb />
+面影君はこゝに見む。<lb />
+<lb />
+黒雲高くおほ空の<lb />
+照る日の影を呑みけして<lb />
+紅蓮の焔すさまじく<lb />
+巖も熔くる火のみ山<lb />
+あめつちわかぬ渾沌の<lb />
+おもかげ君はこゝに見む。<lb />
+<lb />
+まぼろし追うてくたびれて<lb />
+しばし野末の假のやど<lb />
+結ぶや君よ何の夢<lb />
+さむれば赤したなごゝろ<lb />
+あたりの風を匂はして<lb />
+笑むはやさしの花ばらか。<lb />
+<lb />
+涙にあまる思<span rend="superscript" rendition="sup">（二）</span>とは<lb />
+歌ふをきゝぬ野路の花、<lb />
+荒磯蔭のうつせ貝<lb />
+聲なきものを何人か<lb />
+海のしらべをこゝろねを<lb />
+其一片に聞き<span rend="superscript" rendition="sup">（三）</span>にけむ。<lb />
+<lb />
+たかねの崖に花にほひ<lb />
+情波の淵に歌は湧く、<lb />
+無象を聲に替ふるてふ<lb />
+君が<span type="ruby"><span type="rb">心耳</span><span type="rp">（</span><span type="rt">しんに</span><span type="rp">）</span></span>のきくところ<lb />
+空のいかづち何をつげ<lb />
+夜半のこがらし何を説く。<lb />
+<lb />
+夜半のこがらし何を説く、<lb />
+「眠」の如く「死」の如く<lb />
+やさしき鳩の<span type="ruby"><span type="rb">羽</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>たゆく<lb />
+ゆふべの空に<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>るごとく<lb />
+詩神の<span type="ruby"><span type="rb">魂</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>の降り來て<lb />
+君が心をみたすとき。<lb />
+<lb />
+夜の薫りの高うして<lb />
+天地しづかに夢に入る<lb />
+うちに聲なく言葉なく<lb />
+またゝく窓のともしびに<lb />
+風の姿を眺めては<lb />
+思はいかに君が身の。<lb />
+<lb />
+心の窓も押しあけて<lb />
+眺むる空に流れくる<lb />
+星の行衞はいづくぞや<lb />
+清きアボン<span rend="superscript" rendition="sup">（四）</span>の岸のへか<lb />
+咲くタスカン<span rend="superscript" rendition="sup">（五）</span>の花の野か<lb />
+それワイマア<span rend="superscript" rendition="sup">（六）</span>の森蔭か。<lb />
+<lb />
+北斗は遠し影高し<lb />
+望の光り愛の色<lb />
+かれにもしるき參宿<span rend="superscript" rendition="sup">（七）</span>の<lb />
+もなかにひかりかゞやきて<lb />
+（かたどる影は眞善美）<lb />
+三の星こそ並ぶなれ。<lb />
+<lb />
+坤輿一球透き通り<lb />
+仰ぎて上に見るがごと<lb />
+下にも光る<span type="ruby"><span type="rb">千萬</span><span type="rp">（</span><span type="rt">せんまん</span><span type="rp">）</span></span>の<lb />
+星の宿りを眺め得ば<lb />
+下界の名さへ空しくて<lb />
+我世いみじと知るべきを。<lb />
+<lb />
+まことの光りまことの美<lb />
+狹霧に蔽はれとざされて<lb />
+暗にさまよふわがこゝろ<lb />
+たのむは獨り君が歌<lb />
+紫蘭の薫り百合花の色<lb />
+爲めに咲かなん君が歌。<lb />
+<lb />
+しらべも高くねも高く<lb />
+あらきあらしを和げて<lb />
+微妙の樂に替ふるてふ<lb />
+君が玉琴かきならし<lb />
+涙のうちにほゝゑみて<lb />
+暗のうちにもかゞやきて。<lb />
+<lb />
+かのオルヒスのなすところ<lb />
+<span type="ruby"><span type="rb">陰府</span><span type="rp">（</span><span type="rt">よみ</span><span type="rp">）</span></span>に繋がる魂を解き<lb />
+かのピタゴルの説くところ<lb />
+御空に星の樂を聞き<lb />
+かのプラトンの見るところ<lb />
+高き理想の夢に醉へ。<lb />
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　――――――――</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">（註）（一）失樂園第三卷</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（二）ヲルヅヲルス</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（三）ロセツテ</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（四）セークスピア</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（五）ダンテ</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（六）ゲーテ</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（七）オライオンの星宿</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　――――――――</span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi800">はるのよ</span></span></span>
+<lb />
+<lb />
+あるじはたそやしらうめの<lb />
+かをりにむせぶはるのよは<lb />
+おぼろのつきをたよりにて<lb />
+しのびきゝけむつまごとか。<lb />
+<lb />
+そのわくらばのてすさびに<lb />
+すゞろにゑへるひとごゝろ<lb />
+かすかにもれしともしびに<lb />
+はなのすがたはてりしとか。<lb />
+<lb />
+たをりははてじはなのえだ<lb />
+なれしやどりのとりなかむ<lb />
+おぼろのつきのうらみより<lb />
+そのよくだちぬはるのあめ。<lb />
+<lb />
+ことばむなしくねをたえて<lb />
+いまはたしのぶかれひとり<lb />
+あゝそのよはのうめがかを<lb />
+あゝそのよはのつきかげを。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi900">哀歌</span></span></span>
+<lb />
+<lb />
+同じ昨日の深翠り<lb />
+廣瀬の流替らねど<lb />
+もとの水にはあらずかし<lb />
+汀の櫻花散りて<lb />
+にほひゆかしの藤ごろも<lb />
+寫せし水は今いづこ。<lb />
+<lb />
+心ごゝろの春去りて<lb />
+色こと／″＼く褪めはてつ<lb />
+夕波寒く風たてば<lb />
+行衞や迷ふ花の魂<lb />
+名殘の薫りいつしかに<lb />
+水面遠く消えて行く。<lb />
+<lb />
+恨みを吹くや年ごとの<lb />
+瑞鳳山の春の風<lb />
+をのへの霞くれなゐの<lb />
+色になぞらふ花ごろも<lb />
+とめし薫りのはかなさは<lb />
+何に忍びむ夕まぐれ。<lb />
+<lb />
+暮山一朶の春の雲<lb />
+緑の鬢を拂ひつゝ<lb />
+落つる小櫛に觸る袖も<lb />
+ゆかしゆかりの濃紫<lb />
+羅綺にも堪へぬ<span type="ruby"><span type="rb">柳腰</span><span type="rp">（</span><span type="rt">りうやう</span><span type="rp">）</span></span>の<lb />
+<span type="ruby"><span type="rb">枝垂</span><span type="rp">（</span><span type="rt">しだり</span><span type="rp">）</span></span>は同じ花の縁<lb />
+花散りはてし夕空を<lb />
+仰げば星も涙なり。<lb />
+<lb />
+池のさゞ波空の虹<lb />
+いみじは脆き世の道を<lb />
+われはた泣かむ花の蔭<lb />
+其花掃ふ夕風に<lb />
+蝴蝶の宿を音づれて<lb />
+問はん「昨日の夢いかに」<lb />
+<lb />
+春を誘ふて蜂蝶の<lb />
+空のあなたに去るがごと<lb />
+玉釵碎けて星落ちて<lb />
+あはれ芳魂いまいづこ<lb />
+殘るは枯れし花の枝<lb />
+盡きぬは恨み春の雨。<lb />
+<lb />
+盡きぬは恨み春の雨<lb />
+ともしび暗きさよ中の<lb />
+夢のたゝちをいかにせむ<lb />
+ありし昨日の面影に<lb />
+替はらぬ笑みも含ませて<lb />
+名におふ花の一枝は<lb />
+嗚呼その細き玉の手に。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1000">海棠</span></span></span>
+<lb />
+<lb />
+盛りいみじき海棠に<lb />
+灑ぐも重し春の雨<lb />
+花の恨か喜か<lb />
+問はんとすれど露もだし<lb />
+聞かんとすれど花いはず。<lb />
+<lb />
+夕しづかに風吹きて<lb />
+名殘の露は拂はれぬ<lb />
+風の<span type="ruby"><span type="rb">情</span><span type="rp">（</span><span type="rt">なさけ</span><span type="rp">）</span></span>か嫉みにか<lb />
+問はんとすれど露もだし<lb />
+聞かんとすれど花いはず。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1100">無題</span></span></span>
+<lb />
+<lb />
+光り玉しく露滿ちて<lb />
+<span type="ruby"><span type="rb">百合花</span><span type="rp">（</span><span type="rt">ゆり</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">薔薇</span><span type="rp">（</span><span type="rt">さうび</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">蘭</span><span type="rp">（</span><span type="rt">あらゝぎ</span><span type="rp">）</span></span>も<lb />
+馨りあふるゝ園あらば<lb />
+君が踏み行く路とせむ。<lb />
+<lb />
+流るゝ花を誘ひては<lb />
+海原遠く香をはこぶ<lb />
+清き野中の川あらば<lb />
+君がかゞみの水とせむ。<lb />
+<lb />
+夕の空に現はれて<lb />
+<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ゑ</span><span type="rp">）</span></span>める光に塵の世を<lb />
+慰めてらす星あらば<lb />
+君がかざしの珠とせむ。<lb />
+<lb />
+清くたふとく汚なく<lb />
+戀も涙も憐みも<lb />
+みつるやさしの胸あらば<lb />
+君が心の宿とせむ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1200">詩人</span></span></span>
+<lb />
+<lb />
+詩人よ君を譬ふれば<lb />
+戀に醉ひぬるをとめごか<lb />
+あらしのうちに<span type="ruby"><span type="rb">樂</span><span type="rp">（</span><span type="rt">がく</span><span type="rp">）</span></span>を聞き<lb />
+あら野のうちに花を見る。<lb />
+<lb />
+詩人よ君を譬ふれば<lb />
+世の罪しらぬをさなごか<lb />
+口には神の聲ひゞき<lb />
+目にはみそらの夢やどる。<lb />
+<lb />
+詩人よ君を譬ふれば<lb />
+八重の汐路の海原か<lb />
+おもてにあるゝあらしあり<lb />
+底にひそめるまたまあり。<lb />
+<lb />
+詩人よ君を譬ふれば<lb />
+雲に聳ゆる火の山か<lb />
+星は額にかゞやきて<lb />
+焔の波ぞ胸に湧く。<lb />
+<lb />
+詩人よ君を譬ふれば<lb />
+光すゞしき夕月か<lb />
+身を天上にとめ置きて<lb />
+影を下界の塵に寄す。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1300">夕の思ひ</span></span></span>
+<lb />
+<lb />
+<span rend="yokogumi" rendition="div">
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+“O<span facs="../../../gaiji/1-09/1-09-78.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きU小文字)" /> va l'esprit dans l'homme ? O<span facs="../../../gaiji/1-09/1-09-78.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きU小文字)" /> va l'homme sur terre ?<lb />
+Seigneur ! Seigneur ! O<span facs="../../../gaiji/1-09/1-09-78.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きU小文字)" /> va la terre dans le ciel ?”<lb />
+　　　　　Hugo : Les Feuilles d'Automne.<lb />
+“O life as futile, then, frail !<lb />
+O for thy voice to soothe and bless !<lb />
+What hope of answer, or redress ?<lb />
+Behind the veil! behind the veil !”<lb />
+　　　　　―Tennyson : In Memoriam.<lb />
+</span>
+</span>
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1310"><span target="ltr">（一）</span></span></span></span>
+<lb />
+思入日を先きだてゝ<lb />
+たそがれ近き大空に<lb />
+うかびいざよふ雲のむれ<lb />
+暮行くけふの名殘とて<lb />
+見るめまばゆきあやいろを<lb />
+染むるは何のわざならむ。<lb />
+<lb />
+あるは幾重の空のよそ<lb />
+あるは幾重の嶺のうへ<lb />
+かろく流るゝくれなゐは<lb />
+セラフ、ケラブの旗を見せ<lb />
+ゆるく靉びくむらさきは<lb />
+あまつをとめの裾や曳く。<lb />
+<lb />
+夕／＼の空の上<lb />
+替るもゝちの面影を<lb />
+替らぬ愛に眺むれば<lb />
+たゞ聯想の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>となる<lb />
+雲よ自在のはねのして<lb />
+いづくのはてに翔けり行く。<lb />
+<lb />
+あゝ夕雲のかけりゆく<lb />
+空のあなたぞなつかしき<lb />
+心の渇きとゞむべき<lb />
+そこに<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>の川あらむ<lb />
+眞理のかどを開くべき<lb />
+そこに<span type="ruby"><span type="rb">秘密</span><span type="rp">（</span><span type="rt">ひみつ</span><span type="rp">）</span></span>の鍵あらむ。<lb />
+<lb />
+嗚呼夕雲のはねのうへ<lb />
+たれか「涙の谷」棄てゝ<lb />
+荒鷲翔けり風迷ふ<lb />
+空のあなたに飛行かむ<lb />
+浮世の暗にしられざる<lb />
+光はそこにてるべきに。<lb />
+<lb />
+花より花にむれとびて<lb />
+蜜を集むる蜂のごと<lb />
+星より星に光をと<lb />
+飛行く魂を眺めけむ<lb />
+詩人<span rend="superscript" rendition="sup">（一）</span>のくしきまぼろしを<lb />
+たれかうつゝに返すらむ。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1320"><span target="ltr">（二）</span></span></span></span>
+<lb />
+消えしエデンの花園の<lb />
+おもわは今も忘られず<lb />
+ほす味にがきさかづきの<lb />
+底なる<span type="ruby"><span type="rb">澱</span><span type="rp">（</span><span type="rt">おり</span><span type="rp">）</span></span>に醉はんとて<lb />
+塵の浮世に塵の身は<lb />
+かくもいつまで殘るらむ。<lb />
+<lb />
+涙の谷にさまよひて<lb />
+ねぬ夜の夢に驚けば<lb />
+こゝにバイロン血に泣きて<lb />
+「死と疑の子」となのり<lb />
+こゝにシルレル聲あげて<lb />
+「理想は消ゆ」と※<span rend="notes">［＃「口＋斗」、U+544C、13-下-5］</span>ぶなり。<lb />
+<lb />
+アボンの流<span rend="superscript" rendition="sup">（二）</span>しづかにて<lb />
+すゞしく月を宿せども<lb />
+見えぬそこひに波むせび<lb />
+グラスメヤア<span rend="superscript" rendition="sup">（三）</span>の<span type="ruby"><span type="rb">水面</span><span type="rp">（</span><span type="rt">みなも</span><span type="rp">）</span></span>にも<lb />
+うつる此世の影見れば<lb />
+たゞ<span type="ruby"><span type="rb">海神</span><span type="rp">（</span><span type="rt">かいじん</span><span type="rp">）</span></span>の<span rend="superscript" rendition="sup">（四）</span>なつかしや。<lb />
+<lb />
+さればラインの岸遠く<lb />
+思をこめ<span rend="superscript" rendition="sup">（五）</span>て人は去り<lb />
+ゼネワの夏の夕暮は<lb />
+よその恨の歌<span rend="superscript" rendition="sup">（六）</span>を添へ<lb />
+深き嘆はネープルの<lb />
+波も洗ひ<span rend="superscript" rendition="sup">（七）</span>や得ざりけむ。<lb />
+<lb />
+波に照れとて空の月<lb />
+花に舞へとて春の蝶<lb />
+「自然」のわざは<span type="ruby"><span type="rb">妙</span><span type="rp">（</span><span type="rt">たへ</span><span type="rp">）</span></span>ながら<lb />
+世に苦めと塵の身を<lb />
+暗に迷へと玉の緒を<lb />
+つくる心のしりがたや。<lb />
+<lb />
+かゞやく星に空かざり<lb />
+玉しく露に地を粧ふ<lb />
+神にたづねむいかなれば<lb />
+なまじの絆人の子の<lb />
+心に智慧の願あり<lb />
+胸に悟の望ある。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1330"><span target="ltr">（三）</span></span></span></span>
+<lb />
+荒れのみまさる人の世に<lb />
+せめては匂ふ戀の花<lb />
+脆きはたれの咎ならむ<lb />
+星の<span type="ruby"><span type="rb">眸</span><span type="rp">（</span><span type="rt">まなざし</span><span type="rp">）</span></span>月の眉<lb />
+たゞ思出の種として<lb />
+いづく消行くまぼろしぞ。<lb />
+<lb />
+母の乳房にもたれつゝ<lb />
+宿すもゆかし春の夢<lb />
+見なば魔王もゑみぬべき<lb />
+稚子の眠りもひとゝきや<lb />
+やがて寄來ん世のあらし<lb />
+つらきあらしのさますらむ。<lb />
+<lb />
+つらきあらしを譬ふれば<lb />
+<span type="ruby"><span type="rb">陰府</span><span type="rp">（</span><span type="rt">よみ</span><span type="rp">）</span></span>なる<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>のきしりかも<lb />
+脆き、弱きをにへとして<lb />
+いけるをきほふ世々の聲<lb />
+うちに恨の叫あり<lb />
+うちに憂の涙あり。<lb />
+<lb />
+民のもゝちの骨枯れて<lb />
+ひとりのいさを成ると説く<lb />
+それにもまして痛はしき<lb />
+<span type="ruby"><span type="rb">個人</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>の嘆と悲と<lb />
+涙と血とに買はれたる<lb />
+<span type="ruby"><span type="rb">社會</span><span type="rp">（</span><span type="rt">このよ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">榮</span><span type="rp">（</span><span type="rt">はえ</span><span type="rp">）</span></span>はたがためぞ。<lb />
+<lb />
+時劫の潮とこしへに<lb />
+寄するあら波返る波<lb />
+浮きて沈みて末つひは<lb />
+たゞうたかたのよゝのあと<lb />
+いづれの時かいつの世か<lb />
+亂れ騷ぎのなかりけむ。<lb />
+<lb />
+世界の富を集めたる<lb />
+ローマの榮華夢と消え<lb />
+こがね鏤ばめ玉しきし<lb />
+ニネブ、バビロン野と荒れて<lb />
+砂上につきしバベル塔<lb />
+今はた何を殘すらむ。<lb />
+<lb />
+嗚呼人榮え人沈み<lb />
+國また起り國亡び<lb />
+かくて<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />りて極みなく<lb />
+かくて流れてはてもなく<lb />
+時よ浮世よいづくより<lb />
+時よ浮世よいづちゆく。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1340"><span target="ltr">（四）</span></span></span></span>
+<lb />
+ひとり思にかきくれて<lb />
+たゝずむ影もゐる雲も<lb />
+消えてむなしき夕まぐれ<lb />
+神の慈愛のまなじりか<lb />
+みどり澄みゆく大空に<lb />
+はやてりそむる星のかげ。<lb />
+<lb />
+あゝなつかしの星の影<lb />
+夢と過行く人の世に<lb />
+猶「永劫」のあと見せて<lb />
+あめとつちとの剖れけむ<lb />
+むかしのまゝにとこしへに<lb />
+わかき光に匂ふかな。<lb />
+<lb />
+其永劫の面影を<lb />
+仰げば我に涙あり<lb />
+高くたふとく限りなき<lb />
+靈のいぶきに扇がれて<lb />
+空のあなたにかげとむる<lb />
+「望」のあとに喘ぎつゝ。<lb />
+<lb />
+<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">てん</span><span type="rp">）</span></span>には光地には暗<lb />
+あひにさまよふ我思ひ<lb />
+浮世の憂を吹寄せて<lb />
+あらし叫びぬ「惱よ」と<lb />
+神の<span type="ruby"><span type="rb">光榮</span><span type="rp">（</span><span type="rt">ほまれ</span><span type="rp">）</span></span>をほのみせて<lb />
+星さゝやきぬ「望よ」と。<lb />
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">（註）（一）ダンテ「神曲」中「天國篇」を見よ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（二）セークスピアの故郷の川。</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（三）ヲルヅウヲルス住所の傍にありし湖。</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（四）プロテアス及びトライトンを指す、有名なる<span rend="yokogumi">“The World is too much with us”</span>の歌を見よ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（五）「チヤイルド・ハロード」第三篇第五十章及其續きを見よ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（六）ラマルテーン此處にバイロンを見後日當時を追想して「人間」と題する沈痛悲壯の詩を詠ず。</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（七）セレイの<span rend="yokogumi">“Stanzas written in dejection, near Naples.”</span></span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　――――――――――</span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1440">岸邊の櫻</span></span></span>
+<lb />
+<lb />
+春靜かなる里川の<lb />
+岸のへ匂ふ花櫻<lb />
+水面の影にあこがれて<lb />
+涙灑げる幾たびか。<lb />
+<lb />
+おのが影とも花知らず<lb />
+光のどけき朝日子に<lb />
+姿凝らして水面を<lb />
+あゝ幾度か眺めけむ。<lb />
+<lb />
+影ものいはじ水去りて<lb />
+いつしか老ゆる花の面<lb />
+うつらふ色を眺めては<lb />
+思やいかに夕まぐれ。<lb />
+<lb />
+春も空しく暮去れば<lb />
+梢離れてあゝ花よ<lb />
+水面の影と逢ひながら<lb />
+行くゑはいづこ末遠く。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1540">花一枝</span></span></span>
+<lb />
+<lb />
+ラインの岸に花摘みて<lb />
+別れし友に贈りけむ<lb />
+詩人を學びわれもまた<lb />
+君に一枝の夕ざくら。<lb />
+<lb />
+あしたの柳露にさめ<lb />
+ゆふべの櫻風に醉ふ<lb />
+都の春の面影を<lb />
+せめては忍べとばかりに。<lb />
+<lb />
+通ふ鐵路も末遠く<lb />
+都の春は里の冬<lb />
+玉なす御手に觸れん前<lb />
+萎み果てむかあゝ花よ。<lb />
+<lb />
+萎み果てなむ一枝を<lb />
+空しく棄てむ君ならじ<lb />
+心の色に染めなして<lb />
+寢覺の窓にゑましめよ。<lb />
+　　――――――――<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1640">夏の面影</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1650">夢</span></span></span>
+<lb />
+韓紅の花ごろも<lb />
+燃ゆる思とたきこめし<lb />
+蘭麝の名殘匂はせて<lb />
+野薔薇散り浮くいさゝ川<lb />
+流の水は淺くとも<lb />
+深し岸邊の岩がねに<lb />
+結ぶをとめの夏の夢。<lb />
+<lb />
+よその高峯の夕霞<lb />
+何にまがへてたどりけん<lb />
+羅綾のしとね引換へて<lb />
+今は緑の苔むしろ<lb />
+水とこしへに流去り<lb />
+花いつしかと散りぬれば<lb />
+夢か昨日の春の世も。<lb />
+<lb />
+のぼる朝日に照りそひて<lb />
+色なき露も色にほふ<lb />
+眺めまばゆきあさぼらけ<lb />
+若葉のみどり夏深き<lb />
+梢はなるゝもゝ鳥は<lb />
+我世たのしと鳴くものを<lb />
+さめずやあはれをとめごよ。<lb />
+<lb />
+鳴くや<span type="ruby"><span type="rb">杜鵑</span><span type="rp">（</span><span type="rt">とけん</span><span type="rp">）</span></span>のひと聲に<lb />
+五月雨いつかはれ行けば<lb />
+ちぎれ／＼の雲間より<lb />
+やがてほのめく夏の月<lb />
+銀輪露に洗はれて<lb />
+我世すゞしとてるものを<lb />
+さめずや哀れをとめごよ。<lb />
+<lb />
+螢飛びかふ夕まぐれ<lb />
+すゞ風そよぐ夜半の空<lb />
+流れ流るゝ谷川の<lb />
+水の響はたえねども<lb />
+水の行くへは替れども<lb />
+覺めずやあはれなが胸に<lb />
+燃ゆる思の夏の夢。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1750">夏夜</span></span></span>
+<lb />
+<lb />
+靜けき夏の夜半の空<lb />
+遠き蛙の歌聽けば<lb />
+無聲にまさるさびなれや<lb />
+眠を誘ふ水の音<lb />
+心しづかに流るれど<lb />
+夕月山に落ち行けば<lb />
+影を涵さんよしもなし。<lb />
+<lb />
+星夜の空の薄光り<lb />
+心を遠く誘ひつゝ<lb />
+すゞしくそよぐ風のねは<lb />
+神のかなづる玉琴に<lb />
+觸れてやひゞく天の樂、<lb />
+昨日の夢と悲みし<lb />
+浮世の春は替はれども<lb />
+見ずやとこよの春の花<lb />
+散らでしぼまで大空の<lb />
+星のあなたにほゝゑむを。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1850">光</span></span></span>
+<lb />
+<lb />
+<span rend="yokogumi" rendition="div">
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+“Hail, holy Light, offspring of Heaven, First-born !<lb />
+ Or of the Eternal coeternal beam !”<lb />
+</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">―Milton.</span>
+</span>
+<lb />
+くしき<span type="ruby"><span type="rb">天地</span><span type="rp">（</span><span type="rt">てんち</span><span type="rp">）</span></span>の靈となり<lb />
+我世にありて道となり<lb />
+心にありて智慧となり<lb />
+迷を破り暗を逐ひ<lb />
+望をおこし愛を布く<lb />
+光仰ぐもたふとしや。<lb />
+<lb />
+清くいみじく比なく<lb />
+おほ空高く星に照り<lb />
+下かんばしく花に笑み<lb />
+虹のなゝ色ちごのため<lb />
+西の夕榮老のため<lb />
+染むる光のたふとしや。<lb />
+<lb />
+高きは山か山よりも<lb />
+清きは水か水よりも<lb />
+露はうるはし露よりも<lb />
+花はかぐはし花よりも<lb />
+すぐれてくしき比なき<lb />
+光仰ぐもたふとしや。<lb />
+<lb />
+水の初めて湧くがごと<lb />
+ちごの産聲擧ぐるごと<lb />
+シオンの琴の震ふごと<lb />
+天使の空を飛ぶがごと<lb />
+とはに新たにまことなる<lb />
+光仰ぐもたふとしや。<lb />
+<lb />
+アルハ、オメガを身に兼ねて<lb />
+今あり後あり昔あり<lb />
+妙華花咲く池の岸<lb />
+シナイ雲湧く峯の上<lb />
+彌陀もエホバもとこしへの<lb />
+光のうちにほゝゑみぬ。<lb />
+<lb />
+獨り我世に許されし<lb />
+光のあとを眺むるも<lb />
+夜は千萬の星の色<lb />
+あけぼの白く雲われて<lb />
+明星のまみ閉づるとき<lb />
+照るもまばゆし旭日影。<lb />
+<lb />
+緑りしづけき峰の上<lb />
+いみじくゑめるさま見れば<lb />
+「神のうひご<span rend="superscript" rendition="sup">（一）</span>ぞ忍ばるゝ<lb />
+「魔界の旅<span rend="superscript" rendition="sup">（二）</span>の終るとき<lb />
+ふたりの道にあらはれて<lb />
+照らすは清き朝の波。<lb />
+<lb />
+暮は遠やま西の山<lb />
+「浮世もやすめ」夕光り<lb />
+くれなゐ染めて沈むなり<lb />
+かくや命の消えんとき<lb />
+かくやむくろを拔け出て<lb />
+魂の他界に去らんとき。<lb />
+<lb />
+<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>の黒幕たれこめて<lb />
+微かに星のきらめくを<lb />
+焔の海と誰かしる<lb />
+光まばゆき照る日影<lb />
+無限の空の大海の<lb />
+<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひとつ</span><span type="rp">）</span></span>しづくと誰か見る。<lb />
+<lb />
+照る日照る日の限なき<lb />
+碧りのをちのおほ空は<lb />
+光の流れ色の波<lb />
+溢れぬ隈もなかるべく<lb />
+あらし耀き風てりて<lb />
+百重の綾も織りぬべく。<lb />
+<lb />
+そのおほ空のたゞなかに<lb />
+わが想像の見るところ<lb />
+緑は消えて<span type="ruby"><span type="rb">金色</span><span type="rp">（</span><span type="rt">こんじき</span><span type="rp">）</span></span>の<lb />
+光まばゆし天の關<lb />
+もゝの寳を鏤めて<lb />
+鑄なすかどを過ぎ行けば。<lb />
+<lb />
+空かんばしく花降りて<lb />
+行く大水の音のごと<lb />
+響くは天の愛の歌<lb />
+流るゝ霞くれなゐの<lb />
+春とこしへに若うして<lb />
+風は<span type="ruby"><span type="rb">優鉢羅</span><span type="rp">（</span><span type="rt">うばら</span><span type="rp">）</span></span>の花の香か。<lb />
+<lb />
+嗚呼美はしのまぼろしよ<lb />
+<span type="ruby"><span type="rb">現實</span><span type="rp">（</span><span type="rt">うつゝ</span><span type="rp">）</span></span>のあらしつらければ<lb />
+かざしの花の露のごと<lb />
+脆く碎けて跡ぞなき<lb />
+今わが歸る人の世に<lb />
+夢は空しきものなりき。<lb />
+<lb />
+<span type="ruby"><span type="rb">兩羽</span><span type="rp">（</span><span type="rt">もろは</span><span type="rp">）</span></span>鋭どくあまがける<lb />
+天馬の鞍に堪へかねて<lb />
+下界に落ちし塵の子<span rend="superscript" rendition="sup">（三）</span>よ<lb />
+恨はあはれなれのみか<lb />
+まぼろし消て力なく<lb />
+今こそ咽べ我琴も。<lb />
+<lb />
+こゝの光に暗まじり<lb />
+こゝのうま酒<span type="ruby"><span type="rb">澱</span><span type="rp">（</span><span type="rt">おり</span><span type="rp">）</span></span>にがし<lb />
+こゝなる戀に恨あり<lb />
+こゝなる歌に涙あり<lb />
+「自然」は常にほゝゑめど<lb />
+世は<span type="ruby"><span type="rb">長</span><span type="rp">（</span><span type="rt">とこし</span><span type="rp">）</span></span>への春ならず。<lb />
+<lb />
+花は光に鳥は香に<lb />
+いざよふ雲は夕づゝに<lb />
+そよふく風は朝波に<lb />
+替はすは愛のことのはか<lb />
+「自然」は常にほゝゑめど<lb />
+世は長への春ならず。<lb />
+<lb />
+見よや緑りの川柳<lb />
+更けて葉越しに青白く<lb />
+片破月の沈むとき<lb />
+見よやみそらに影曳きて<lb />
+恐ぢ驚ける魂のごと<lb />
+流るゝ星の落つるとき。――<lb />
+<lb />
+夢より淡く「北光<span rend="superscript" rendition="sup">（四）</span>の<lb />
+光微かに薄らぎて<lb />
+氷の山にかゝるとき<lb />
+あるは斗牛の影冰る<lb />
+悲き光波のへに<lb />
+破船の伴の望むとき。――<lb />
+<lb />
+夕暗空に聲もなく<lb />
+影もわびしく稻妻の<lb />
+またゝくひまに消ゆるとき<lb />
+誰か憂ひに閉されて<lb />
+望む光の淋しさに<lb />
+我世の樣をたぐへざる。<lb />
+<lb />
+もゝとせ千歳秋去らば<lb />
+樂土は<span type="ruby"><span type="rb">實</span><span type="rp">（</span><span type="rt">じつ</span><span type="rp">）</span></span>となるべしや<lb />
+人と人との爭に<lb />
+我世の惱絶えざらば<lb />
+花たが爲めの薫りぞや<lb />
+星たが爲めの光ぞや。<lb />
+<lb />
+弱き脆きをしへたぐる<lb />
+あらびを見るもいつまでか<lb />
+悟の光暗うして<lb />
+時の<span type="ruby"><span type="rb">徴候</span><span type="rp">（</span><span type="rt">しるし</span><span type="rp">）</span></span>は分かねども<lb />
+望めわが友いつまでか<lb />
+「<span type="ruby"><span type="rb">力</span><span type="rp">（</span><span type="rt">ちから</span><span type="rp">）</span></span>」は「<span type="ruby"><span type="rb">正</span><span type="rp">（</span><span type="rt">せい</span><span type="rp">）</span></span>」に逆ふべき。<lb />
+<lb />
+さればうき世の雲は晴れ<lb />
+つるぎは銷けて、天日の<lb />
+光と照らんあさぼらけ<lb />
+人の心に恨なく<lb />
+邦の間に怒なく<lb />
+我世の上にあらびなく。――<lb />
+<lb />
+愛と自由と<span type="ruby"><span type="rb">平等</span><span type="rp">（</span><span type="rt">へいとう</span><span type="rp">）</span></span>の<lb />
+まことの光かゞやきて<lb />
+天の王國來るとき<lb />
+嗚呼其時をまちわぶる<lb />
+友よもろとも手を引て<lb />
+薄暗の世をたどらまし。<lb />
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">（註）（一）ミルトン失樂園第三篇</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（二）ダンテ淨罪界第一章</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（三）ベラロホン</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（四）「オーロラ、ボレアリス」</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　――――――――</span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1950">月と戀</span></span></span>
+<lb />
+<lb />
+寢覺め夜深き窓の外<lb />
+しばし雲間を洩れいでゝ<lb />
+靜かに忍ぶ影見れば<lb />
+月は戀にも似たりけり。<lb />
+<lb />
+浮世慕ふて宵々に<lb />
+寄する光のかひやなに<lb />
+叢雲厚く布き滿てば<lb />
+戀はあだなり月姫よ。<lb />
+<lb />
+あだなる戀に泣く子らの<lb />
+手に育ちけむ花のごと<lb />
+色青じろう影やせて<lb />
+隱れも行くか雲の外。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2050">夕の星</span></span></span>
+<lb />
+<lb />
+ちぎれ／＼に雲迷ふ<lb />
+夕の空に星ひとつ<lb />
+光はいまだ淺けれど<lb />
+思深しや天の海。<lb />
+<lb />
+嗚呼カルデアに牧びとの<lb />
+なれを見しより四千年<lb />
+光はとはに若うして<lb />
+世はかくまでに老いしかな。<lb />
+<lb />
+またゝく光露帶びて<lb />
+今はた泣くか人のため<lb />
+つかれ、爭ひ、わづらひに<lb />
+我世の幸は遠ければ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2150">墓上の花</span></span></span>
+<lb />
+<lb />
+死と悲と恨との<lb />
+跡を留むる墓の上<lb />
+美と喜びと<span type="ruby"><span type="rb">命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>との<lb />
+心を示す花一つ。<lb />
+<lb />
+光、あけぼの、來ん年日、<lb />
+望の影を彼は見せ<lb />
+暗、夕まぐれ、過ぎし年、<lb />
+涙のあとを此は見す。<lb />
+<lb />
+色ある花の聲や何に<lb />
+聲なき墓の意味やなに<lb />
+同じあしたの白露を<lb />
+彼と此とに落ちしめよ。<lb />
+<lb />
+憂の墓は人のあと<lb />
+命の花は神のわざ<lb />
+同じ夕の星影を<lb />
+彼と此とに照らしめよ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2250">「暗」と「眠」</span></span></span>
+<lb />
+<lb />
+夕暮迷ふ蝙蝠の<lb />
+羽音にそよぐ川柳<lb />
+其みだれ髮わがねつゝ<lb />
+「暗」と「眠」とつれだちて<lb />
+梢しづかに下だりけり。<lb />
+<lb />
+墨ぞめごろも裾長く<lb />
+「暗」の歩みに音もなし、<lb />
+ふり蒔く露は見えねども<lb />
+「眠」の影のさすところ<lb />
+人のまぶたは重かりき。<lb />
+<lb />
+過ぐるを憶ふ悲みに<lb />
+來ん日を計るわづらひに<lb />
+ひと日のわざは足るものを<lb />
+「暗」よ「眠」よたづね來て<lb />
+休みを賜へ人の子に。<lb />
+<lb />
+嗚呼罪あるも罪なきも<lb />
+喜ぶものも泣くものも<lb />
+<span type="ruby"><span type="rb">現</span><span type="rp">（</span><span type="rt">うつゝ</span><span type="rp">）</span></span>の夢を逃れ來て<lb />
+「暗」のころもを纏へかし<lb />
+「眠」の露に浸れかし。<lb />
+<lb />
+星宵の空に聲もなく<lb />
+よさしは今と佇ずめる<lb />
+「暗」と「眠」の影ふたつ<lb />
+あまねき惠み人の世に<lb />
+たるゝいましのなつかしや。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2350">廣瀬川</span></span></span>
+<lb />
+<lb />
+都の塵を逃れ來て<lb />
+今わが歸る故郷の<lb />
+夕凉しき廣瀬川<lb />
+野薔薇の薫り消え失せて<lb />
+昨日の春は跡も無き<lb />
+岸に無言の身はひとり。<lb />
+<lb />
+時をも忘れ身も忘れ<lb />
+心も空に佇ずめば<lb />
+風は凉しく影冴えて<lb />
+雲間を洩るゝ夏の月<lb />
+一輪霞む朧夜の<lb />
+花の夢いまいづこぞや。<lb />
+<lb />
+<span type="ruby"><span type="rb">憂</span><span type="rp">（</span><span type="rt">うき</span><span type="rp">）</span></span>よ思よ一春の<lb />
+過ぎて跡なき夢のごと<lb />
+にがき涙もおもほへば<lb />
+今に無量の味はあり<lb />
+浮世を捨てゝおくつきの<lb />
+暗にとこしへ眠らんと<lb />
+願ひしそれも幸なりき。<lb />
+<lb />
+流はゆるし水清し<lb />
+<span type="ruby"><span type="rb">樂</span><span type="rp">（</span><span type="rt">がく</span><span type="rp">）</span></span>の、光の、波のまに<lb />
+すゞしく澄める夜半の月、<lb />
+あゝ自然の心こゝろにて<lb />
+胸に思のなかりせば<lb />
+樂しかるべき人の世を。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2450">籠鳥の感</span></span></span>
+<lb />
+<lb />
+嗚呼青春の夢高く<lb />
+理想のあとにあこがれて<lb />
+若き血汐の躍るとき<lb />
+人も自在の翼あり。<lb />
+<lb />
+自在の翼また伸びず<lb />
+<span type="ruby"><span type="rb">現</span><span type="rp">（</span><span type="rt">うつゝ</span><span type="rp">）</span></span>の籠に囚はれて<lb />
+餌に鳴音を搾るとき<lb />
+狂ふ※<span rend="notes">［＃「口＋斗」、U+544C、23-上-13］</span>を誰れか聞く。<lb />
+<lb />
+狂ふ※<span rend="notes">［＃「口＋斗」、U+544C、23-上-14］</span>もしづまりつ<lb />
+籠を天地と眺めては<lb />
+御空のをちも忘られむ<lb />
+理想の夢もさめ果てむ。<lb />
+<lb />
+こゝに囚はれこゝにやむ<lb />
+あだし命の一時や<lb />
+うたてうたかたうつゝ世を<lb />
+我嘆かんや笑はんや。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2550">馬前の夢</span></span></span>
+<lb />
+<lb />
+<span rend="yokogumi" rendition="div">
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+“Etre d' un si<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />cle entier la d' pens<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />e et la vie,<lb />
+<span facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />mousser le poignard, d<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />courager l' envie,<lb />
+<span facs="../../../gaiji/1-09/1-09-32.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE)" />branler, raffermer l' univers incertain,<lb />
+Aux sinistres clartes de la foudre qui gronde,<lb />
+Vingt fois contre les dieux jouer le sort du monde,<lb />
+Quel reve !!! et ce fut ton destin !”<lb />
+</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">Lamartine : Nouvelles Meditations.</span>
+</span>
+<lb />
+おほ空涵すわだの原<lb />
+波間の星は影消えて<lb />
+天地をこむる暗の色<lb />
+暗を掠めて夜あらしは<lb />
+時こそくれと狂ふなる<lb />
+魔神の※<span rend="notes">［＃「口＋斗」、U+544C、23-下-14］</span>ものすごや。<lb />
+<lb />
+やがて降りくる雨の音<lb />
+雨に答ふる波の音<lb />
+銀山碎け飛び散りて<lb />
+暗にもしるき汐烟り<lb />
+白衣の幽鬼群がりて<lb />
+よみに迷ふに似たるかな。<lb />
+<lb />
+<span type="ruby"><span type="rb">風雨</span><span type="rp">（</span><span type="rt">ふうう</span><span type="rp">）</span></span>いよ／＼荒れ行きて<lb />
+四大のあらび渾沌の<lb />
+世の有樣もまのあたり、<lb />
+夜の惱みをいやまして<lb />
+雷車亂るゝ雲のへに<lb />
+魔炎の光りたれか射る。<lb />
+<lb />
+嗚呼すさまじの雨の夜<lb />
+あらしも波も聲あげて<lb />
+歌ひ弔へはなれ島<lb />
+至尊の<span type="ruby"><span type="rb">冠</span><span type="rp">（</span><span type="rt">かむり</span><span type="rp">）</span></span>いたゞきし<lb />
+かしらは今はうなだれて<lb />
+かれはいまはの床にあり。<lb />
+<lb />
+疵に惱みて砂原の<lb />
+月に悲む荒獅子か<lb />
+檣折れてわだつみに<lb />
+沈み消行く大船か<lb />
+<span type="ruby"><span type="rb">紅蓮</span><span type="rp">（</span><span type="rt">ぐれん</span><span type="rp">）</span></span>の焔しづまりて<lb />
+雪に掩はるゝ死火山か。<lb />
+<lb />
+馴れ來し邦を、とも人を、<lb />
+隔てゝ遠き離れじま<lb />
+都の春の一夢を<lb />
+磯のあらしにさまさせて<lb />
+氣は世を葢ほふますらをは<lb />
+いまはの床に眠るかな。<lb />
+<lb />
+名は一代の史をまとめ<lb />
+身は全歐の權を統べ<lb />
+嫉むを挫じき仇を撃ち<lb />
+暗と光のおほ波を<lb />
+世に注ぎしも二十年、<lb />
+今はた狂ふ雨の夜<lb />
+あらしに魂の迷はんと<lb />
+思ひやかけし神ならで。<lb />
+<lb />
+十萬の鐵馬アルベラ<span rend="superscript" rendition="sup">（一）</span>の<lb />
+あらしを蹴りて驅けし後<lb />
+三千の精騎ルビコン<span rend="superscript" rendition="sup">（二）</span>の<lb />
+流亂して越えし後<lb />
+彼に比べんものやたぞ<lb />
+群山遠く下に見て<lb />
+空に聳ゆるアルプスの<lb />
+高きは君の名なる哉。<lb />
+<lb />
+斷頭臺の血を灑ぐ<lb />
+革命の波推しわけて<lb />
+現はれいでしタイタンの<lb />
+まばゆき光照らすとき<lb />
+「民主自由」の聲いづこ<lb />
+渦づく時世の高しほを<lb />
+しばし隻手にとゞめけむ<lb />
+猛きは君の威なるかな。<lb />
+<lb />
+そら舞のぼる蛟龍の<lb />
+黒雲集め雨を驅り<lb />
+風に嘯き呼ぶがごと<lb />
+山を震はせ海をほし<lb />
+進める君が行先を<lb />
+拒ぎとゞめしものやたぞ。<lb />
+<lb />
+颶風の翼身に借りて<lb />
+征塵高く蹴たつれば<lb />
+脆く亂るゝマメリューク<span rend="superscript" rendition="sup">（三）</span><lb />
+奔るを逐ふて呼ぶ聲に<lb />
+四千餘年の幽魂は<lb />
+覺めぬ巨塔の墓の下。<lb />
+<lb />
+サン、ベルナア<span rend="superscript" rendition="sup">（四）</span>の嶺高く<lb />
+雪滿山を埋むれば<lb />
+響きは凄しアバランチ<lb />
+難きをしのぎ險を越え<lb />
+見おろす大野草青く<lb />
+馬は肥たりマレンゴウ<span rend="superscript" rendition="sup">（五）</span>。<lb />
+<lb />
+オーステリツ<span rend="superscript" rendition="sup">（六）</span>の朝風に<lb />
+同盟軍の旗高し<lb />
+至尊の指揮に奮立つ<lb />
+二十餘萬の墺魯軍<lb />
+君の鋒先向ふとき<lb />
+散りぬ嵐に葉のごとく。<lb />
+<lb />
+イェーナ、ワグラム<span rend="superscript" rendition="sup">（七）</span>雲暗し<lb />
+フリードランド<span rend="superscript" rendition="sup">（八）</span>風あらし<lb />
+いかづち落つる砲彈の<lb />
+渦卷く烟かきわけて<lb />
+君がかざせる鷲の旗<lb />
+飛電のつるぎ閃めけば<lb />
+列王つちに膝つきて<lb />
+見よもろ／＼の國たみは<lb />
+震ひどよめり海のごと。<lb />
+<lb />
+セインの流靜かなる<lb />
+岸の柳の淺みどり<lb />
+みどりの空に聳立つ<lb />
+凱旋門は高くとも<lb />
+君のみいづに比べんや<lb />
+みかどの還御壽ぎて<lb />
+歡呼の聲は雷のごと<lb />
+パリ滿城の春の歌。<lb />
+<lb />
+花ひと時の香ににほふ<lb />
+脆きはいづれ世の定め<lb />
+富もほまれもみいづゐも<lb />
+とはの契りをいかにせむ。<lb />
+「不能」のもじを笑ひしも<lb />
+嗚呼君遂に神ならず。<lb />
+<lb />
+玉樓の春短くて<lb />
+魚龍淋しき秋の水<lb />
+花はうらがれ香は消え<lb />
+ほまれの星も落行けば<lb />
+君蓋世の勇いづこ<lb />
+焔は狂ふモスコウ府<lb />
+吹雪は亂るボロヂノウ<span rend="superscript" rendition="sup">（九）</span>。<lb />
+<lb />
+フランス國の金笏か<lb />
+ロムバアデイの鐵冠か<lb />
+全歐洲の大權か<lb />
+榮華のはてと今ぞ見る<lb />
+夕日の影はクレムリン<span rend="superscript" rendition="sup">（十）</span><lb />
+なれが淋しき塔の上。<lb />
+<lb />
+名殘りの光まばゆくも<lb />
+雲をつんざき現はれし<lb />
+ヲータアローの丘の上、<lb />
+敗れも何か恨むべき<lb />
+見ずやかなたの金獅像<span rend="superscript" rendition="sup">（十一）</span><lb />
+語るは<span type="ruby"><span type="rb">敵</span><span type="rp">（</span><span type="rt">あだ</span><span type="rp">）</span></span>の勝ならで<lb />
+君がいまはの勇みなり。<lb />
+<lb />
+光りわたらぬ隈もなき<lb />
+其常勝の<span type="ruby"><span type="rb">劔</span><span type="rp">（</span><span type="rt">けん</span><span type="rp">）</span></span>折れて<lb />
+獨り小じまの波枕<lb />
+夜毎の夢もあかつきの<lb />
+千鳥の聲にさめし時<lb />
+君や悟れる「命なり」と。<lb />
+<lb />
+「悟り」よいづれ「薄命」の<lb />
+遂に受くべきあだし名か<lb />
+月日は空にかゞやけど<lb />
+塵の惱みをしづめ得じ<lb />
+とはに光の消ゆるとも<lb />
+<span type="ruby"><span type="rb">盲目</span><span type="rp">（</span><span type="rt">めしひ</span><span type="rp">）</span></span>は見るを忘れんや。<lb />
+<lb />
+夕幾度波の上<lb />
+錦をひたし綾を布く<lb />
+入日の影の消えし時<lb />
+沖より寄する暮の色に<lb />
+心の暗も打まぜて<lb />
+君が無量の感いかに。<lb />
+<lb />
+月日の流れ世のさだめ<lb />
+返らぬ昔今更に<lb />
+忍ぶ思の數／＼は<lb />
+たゞ大<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しほ</span><span type="rp">）</span></span>の湧くがごと<lb />
+夜の黒幕の垂るゝごと<lb />
+胸に逼ればくろがねの<lb />
+猛き心も亂れずや。<lb />
+<lb />
+惱む思を靜めむと<lb />
+（謝せよ）歩みの音かろく<lb />
+今こそ寄すれ死の影は<lb />
+あはれいまはの床の上<lb />
+まだしづまらぬ魂の<lb />
+夢はいづこを驅くるらむ。<lb />
+<lb />
+生れし里は波のいづこ<lb />
+なれし都は雲の幾重<lb />
+離れ小じまの雨の夜に<lb />
+過ぎにし榮は火のごとく<lb />
+いまはのあとは灰のごと<lb />
+其喜も悲も<lb />
+むくろと共に葬むりて<lb />
+眠につけや夢もなく。<lb />
+<lb />
+雨とあらしの樂のねに<lb />
+こゝに<span type="ruby"><span type="rb">有象</span><span type="rp">（</span><span type="rt">うしやう</span><span type="rp">）</span></span>の海恨み<lb />
+惱める魂を導きて<lb />
+かれに無象のかど開く、<lb />
+苦む「影」に休みあれ<lb />
+別るゝ魂に惠あれ<lb />
+罪と惱みを葬りて<lb />
+あゝ比なくかんばしき<lb />
+ほまれは彼の墓にあれ。<lb />
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">（註）（一）アレキサンダー大王大に波斯軍を敗りし地</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（二）ゴールの歸途セイザアの渡りし河</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（三）ピラミツド戰爭に敗れし土兵</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（四）アルプス山中の峻路、所謂セイント、ベルナードの險</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（五）伊太利にあり、墺兵大敗せし戰塲</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（六）墺魯の連合軍こゝに大敗す</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（七）ワグラムに墺軍敗れ、イェーナに普軍敗る</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（八）魯軍大敗の地、以上はナポレオンの最も光榮なる戰勝地なり</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（九）征魯軍退陣の途、こゝに風雪の難初まる</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（十）モスコウ府内の宮殿、ナポレオンこゝに陣を取る</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（十一）ヲータアロウ丘上同盟軍凱勝の紀念として金獅の像を建つ</span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2650">花と星</span></span></span>
+<lb />
+<lb />
+ゆふべわが世を見おろして<lb />
+星は語りぬ「あゝ花よ<lb />
+憂のしづくつらからば<lb />
+とはに喜び盡きせざる<lb />
+大空高く昇らずや」<lb />
+<lb />
+しほれしおもわ振りあげて<lb />
+花は問ひけり「あゝ星よ<lb />
+とはに喜び盡きずてふ<lb />
+みそらのをちや涙なき」<lb />
+星はいらへぬ「あらずかし」<lb />
+<lb />
+「涙あらずば戀あらじ」<lb />
+花はいなみぬうつむきて<lb />
+「わが世の憂さもあれや<lb />
+とはに喜び盡きずとも<lb />
+戀なき里をなにかせむ」<lb />
+　　――――――――<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2750">浮世の戀</span></span></span>
+<lb />
+<lb />
+ゆふべ思にかきくれて<lb />
+眺むる空の雲幾重<lb />
+紅染めし夕榮の<lb />
+色いたづらに消果てゝ<lb />
+畫くは何の面影ぞ<lb />
+流るゝ光沈む影<lb />
+傾く齡手の中に<lb />
+嗚呼ひきとめむすべもがな。<lb />
+<lb />
+佛は説きぬ娑羅双樹<lb />
+祇園精舍の鐘のねも<lb />
+その曉に綻びし<lb />
+別れの袖をいかにせむ<lb />
+更けてくるしむ待宵の<lb />
+涙なみだに數添て<lb />
+さても浮世の戀ぞ憂き<lb />
+さても我世の戀ぞ濃き。<lb />
+<lb />
+名殘の袖の追風の<lb />
+行衞いづくと眺むれば<lb />
+春やむかしの川柳<lb />
+緑のおぐし今更に<lb />
+ふけて亂れて絆れては<lb />
+鏡も何ぞいさゝ川<lb />
+見ずや踏入る一足に<lb />
+こゝも移ろふ世の姿。<lb />
+<lb />
+里飛びたちし鶴の子が<lb />
+去りて歸らぬ松<span type="ruby"><span type="rb">一株</span><span type="rp">（</span><span type="rt">いつしゆ</span><span type="rp">）</span></span><lb />
+花なき色は替らねど<lb />
+枯れては恨む糸櫻<lb />
+吹くや淋しきすさまじき<lb />
+幾代浮世の風のねに<lb />
+命の汀眺むれば<lb />
+寄するも憂しや老の波。<lb />
+<lb />
+その仇波の寄せぬまに<lb />
+花のかんばせ星のまみ<lb />
+燃ゆる思と熱き血と<lb />
+そのまゝ共に消えよかし<lb />
+願空しきとこしへの<lb />
+不變の戀よ不死の美よ<lb />
+詩人の夢をいかにせむ<lb />
+天使の幸をなにとせむ。<lb />
+<lb />
+虹の七色空の色<lb />
+染むるかしばしうたかたを<lb />
+旭日の光てらすとき――<lb />
+あゝ喜びかまがつみか<lb />
+幸か恨みか分かねども<lb />
+戀よ我世の春の夢<lb />
+さめなばよみの門口に<lb />
+「生ける」屍を誘へかし。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2850">登高</span></span></span>
+<lb />
+<lb />
+烟は沈み水咽ぶ<lb />
+<span type="ruby"><span type="rb">五城樓下</span><span type="rp">（</span><span type="rt">ごじやうろうか</span><span type="rp">）</span></span>の夕まぐれ<lb />
+高きに登り佇めば<lb />
+遠く<span type="ruby"><span type="rb">悲雷</span><span type="rp">（</span><span type="rt">ひらい</span><span type="rp">）</span></span>の響あり<lb />
+心の空に吹き通ふ<lb />
+風の恨に誘はれて<lb />
+色こそ悼め夕雲の<lb />
+嶺に歸るもなつかしや。<lb />
+<lb />
+<span type="ruby"><span type="rb">十年</span><span type="rp">（</span><span type="rt">ととせ</span><span type="rp">）</span></span>は夢かまぼろしか<lb />
+時の流は絶えねども<lb />
+レーズの水は世に湧かず<lb />
+むかしの思忘られで<lb />
+今はたこゝにわれ一人<lb />
+夕日の前に佇めば<lb />
+染むとも見えぬ秋の色に<lb />
+山々高し水遠し。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi2950">夜</span></span></span>
+<lb />
+<lb />
+あらしを孕む黒雲に<lb />
+吐かれて出でし夜半の月<lb />
+よみの光をほの見せて<lb />
+片破の影ものすごや。<lb />
+<lb />
+見えぬ翼に「時」飛びて<lb />
+迷を散らし夢を捲き<lb />
+<span type="ruby"><span type="rb">街</span><span type="rp">（</span><span type="rt">ちまた</span><span type="rp">）</span></span>に烟ぶるともしびは<lb />
+暗に疲れて眠り行く。<lb />
+<lb />
+我世の涙そらの露<lb />
+含みて星も隱れ行く<lb />
+心の暗に照らざらば<lb />
+消えよ光の甲斐やなに。<lb />
+<lb />
+神よ問はなむぬばたまの<lb />
+「夜」のもすそに包まれて<lb />
+咽ぶ涙は幾何ぞ<lb />
+靜けき夢は幾何ぞ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3050">小兒</span></span></span>
+<lb />
+<lb />
+くしく妙なるあめつちの<lb />
+何に譬へむをさなごよ<lb />
+清き、いみじき、美はしき<lb />
+汝がこゝろねを面影を。<lb />
+<lb />
+薫ほるさゆりの花片に<lb />
+おくあけぼのゝ白露か<lb />
+緑色こき大空に<lb />
+照るくれなゐの夕づゝか。<lb />
+<lb />
+霞の裾に波絶て<lb />
+靜けき春のあさなぎか<lb />
+雲雀の床と萠えいでゝ<lb />
+野邊をいろどる若草か。<lb />
+<lb />
+我世の秋の寄するとき<lb />
+紅にほふかんばせに<lb />
+愛の光をかゞやかす<lb />
+なれはのどけき春の日か。<lb />
+<lb />
+我世のあらしあるゝ時<lb />
+蕾とまがふ唇に<lb />
+天女の歌を響かする<lb />
+<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>はそれ生ける音樂か。<lb />
+<lb />
+人のわびしく老ゆる時<lb />
+こゝろときめく口づけに<lb />
+若きいのちを吸はしむる<lb />
+なれは盡きせぬとよみきか。<lb />
+<lb />
+人の愁にしづむ時<lb />
+息柔かくあたゝかく<lb />
+樂土の風を匂はする<lb />
+汝はとこしへの花の香か。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3150">赤壁圖に題す</span></span></span>
+<lb />
+<lb />
+首陽の蕨手に握り<lb />
+汨羅の水にいざ釣らむ<lb />
+やめよ離騷の一悲曲<lb />
+造化無盡の藏のうち<lb />
+我に飛仙の術はあり。<lb />
+<lb />
+五湖の烟波の蘭の楫<lb />
+眺めは廣し風清し<lb />
+きのふの非とは誰れかいふ<lb />
+<span type="ruby"><span type="rb">松菊</span><span type="rp">（</span><span type="rt">しようきく</span><span type="rp">）</span></span>庭にあるゝとも<lb />
+浮世の酒もよからずや。<lb />
+<lb />
+<span type="ruby"><span type="rb">月</span><span type="rp">（</span><span type="rt">つき</span><span type="rp">）</span></span>江上の風の聲<lb />
+むかしの修羅のをたけびの<lb />
+かたみと殘る秋の夜や<lb />
+輕きもうれし<span type="ruby"><span type="rb">一葉</span><span type="rp">（</span><span type="rt">いちえふ</span><span type="rp">）</span></span>の<lb />
+舟蓬莱にいざさらば。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3250">夏の川</span></span></span>
+<lb />
+<lb />
+野薔薇にほひて露散りて<lb />
+夕暮淋しいさゝ川<lb />
+心の空に消殘る<lb />
+昨日の春を忍ぶれば<lb />
+いかに恨みむあゝ夏よ。<lb />
+<lb />
+螢流れて水すみて<lb />
+夕暮凉しいさゝ川<lb />
+心の空の浮雲を<lb />
+拂ふ凉かぜ音さえて<lb />
+いかに戀せむあゝ夏よ。<lb />
+<lb />
+漣織りて月照りて<lb />
+夕暮たのしいさゝ川<lb />
+流れ／＼て行く水に<lb />
+秋も近しと眺むれば<lb />
+いかに惜まむあゝ夏よ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3350">青葉城</span></span></span>
+<lb />
+<lb />
+秋はうつろふ樹々の色に<lb />
+名のみなりけり青葉山<lb />
+圖南の翼風弱く<lb />
+恨は永く名は高き<lb />
+君が城あと今いかに。<lb />
+<lb />
+弦月落ちて宵暗の<lb />
+星影凄し廣瀬川<lb />
+恨むか咽ぶ音寒く<lb />
+川波たちて小夜更けて<lb />
+秋も流れむ水遠く。<lb />
+<lb />
+別の袖に<lb />
+<lb />
+別れの袖にふりかゝる<lb />
+清き涙も乾くらむ<lb />
+血汐も湧ける喜の<lb />
+戀もいつしかさめやせむ<lb />
+物皆移り物替る<lb />
+わが塵の世の夕まぐれ<lb />
+仰げば高き大空に<lb />
+無言の光星ひとつ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3450">人の世に</span></span></span>
+<lb />
+<lb />
+梢離れて雪と散り<lb />
+母なる土に還り行く<lb />
+花のこゝろは誰か知る<lb />
+散りなば散りね人の世に。<lb />
+<lb />
+汀を洗ひ瀬に碎け<lb />
+流れ／＼て海に入る<lb />
+水のこゝろは誰かしる<lb />
+去りなば去りね人の世に。<lb />
+<lb />
+きのふくれなゐ花の面<lb />
+けふはたかしら霜の色<lb />
+時のこゝろをたれかしる<lb />
+移らば移れ人の世に。<lb />
+<lb />
+かたみにしぼる憂なみだ<lb />
+袖にいつしか乾くらむ<lb />
+戀の心をたれかしる<lb />
+替らば替れ人の世に。<lb />
+　　――――――――<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3550">紅葉青山水急流</span></span></span>
+<lb />
+<lb />
+<span rend="yokogumi" rendition="div">
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+“Er ist dahin, der s<span facs="../../../gaiji/1-09/1-09-81.png" rend="gaiji" rendition="img" source="※(ダイエレシス付きU小文字)" />sse Glaube<lb />
+An Wesen die mein Traum gebar,<lb />
+Der rauhen Wirklichkeit zum Raube,<lb />
+Was einst so sch<span facs="../../../gaiji/1-09/1-09-76.png" rend="gaiji" rendition="img" source="※(ダイエレシス付きO小文字)" />n, so g<span facs="../../../gaiji/1-09/1-09-76.png" rend="gaiji" rendition="img" source="※(ダイエレシス付きO小文字)" />ttlich war”<lb />
+</span>
+<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">――Schiller : Die Ideale.</span>
+</span>
+<lb />
+桐の一葉をさきだてゝ<lb />
+浮世の空に音づれし<lb />
+秋は深くもなりにけり。<lb />
+<lb />
+虫のねほそる秋の野を<lb />
+染めし昨日の露霜や<lb />
+萩が花ずりうつろへば<lb />
+移る錦は夕端山<lb />
+思入る日に啼く鹿の<lb />
+紅葉織りなす床の上。<lb />
+<lb />
+谷間は早く暮行けど<lb />
+入日の名殘しばとめて<lb />
+にほふをのへの夕紅葉、<lb />
+花のあるじにあらねども<lb />
+山ふところのしら雲に<lb />
+契るやいかに夜半の宿。<lb />
+<lb />
+<span type="ruby"><span type="rb">千尋</span><span type="rp">（</span><span type="rt">ちひろ</span><span type="rp">）</span></span>の谷の底深く<lb />
+流るゝ川のみなもとは<lb />
+いづく幾重の嶺の雲<lb />
+玉ちる早瀬浪の音<lb />
+都の塵に遠ければ<lb />
+耳を洗はむ人も無く。<lb />
+<lb />
+雪より白きたれぎぬを<lb />
+狹山おろしに拂はして<lb />
+岸にたゝずむかれやたそ<lb />
+巫山洛川いにしへの<lb />
+おもわを見する乙女子は<lb />
+浮世の人か神の子か。<lb />
+　　――――――――<lb />
+かたへにたてる若人の<lb />
+汀につなぐ舟一葉<lb />
+浮世の波に漕ぎいづる<lb />
+名殘は盡きず今更に<lb />
+分ちかねたる袖の上<lb />
+涙も露もしげくして。<lb />
+<lb />
+「清き水面に塵もなき<lb />
+君はみやまのいさゝ川、<lb />
+碎け流れて世にいづる<lb />
+われははかなき落瀧津、<lb />
+同じひとつの水筋も<lb />
+別れて遠し本と末。<lb />
+<lb />
+「高峰の花に誘はれて<lb />
+分け來し袖も薫りけむ、<lb />
+紅埋む夕霞<lb />
+緑糸よる玉柳<lb />
+深山の奧に君を見れば<lb />
+武陵の里もこゝなりき。<lb />
+<lb />
+「八重だつ雲に世をへだて<lb />
+過しゝ月日いかなりし<lb />
+横雲わかるしのゝめに<lb />
+きくは雲雀の春の歌<lb />
+霞む川邊の夕暮に<lb />
+訪ふは菫の花の床。<lb />
+<lb />
+「未來の空のたのしくて<lb />
+ゑひしもはかな春の夢、<lb />
+浮世の憂を吹送る<lb />
+あらしの音に驚けば<lb />
+ゆふべの雲はあとなくて<lb />
+野にも山にも秋はきぬ。<lb />
+<lb />
+「塵のむくろによしなくも<lb />
+やどる思のなかりせば<lb />
+今の嘆のあるべしや、<lb />
+見しよの夢を呼び返す<lb />
+みそらの風は吹絶て<lb />
+恨はつくる時ぞなき。<lb />
+<lb />
+くづをるさまはあらねども<lb />
+哀れをこむるまなじりに<lb />
+帶ぶるや露の玉かつら<lb />
+かしらを垂れて乙女子は――、<lb />
+<lb />
+「定まる道にすべもなく<lb />
+深山に君をとゞめ得じ、<lb />
+定離のためし顧みて<lb />
+心なしとな恨みぞよ。<lb />
+<lb />
+「とこよの花のさきにほふ<lb />
+神の御園を閉されて<lb />
+かどにたゝずむ罪人に<lb />
+風吹送る<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">てん</span><span type="rp">）</span></span>の樂<lb />
+泣きてきゝけむいにしへの<lb />
+ためしをあはれ思はずや。<lb />
+<lb />
+「いさゝ小舟に棹さして<lb />
+漕行く末も程遠き<lb />
+君が船路の楫まくら、<lb />
+寢覺の月の影さえて<lb />
+風凄まじき夜な／＼は<lb />
+思ひもいでよ我が里を。<lb />
+<lb />
+「長き船路の盡きん時<lb />
+あらきあらしのやまん時<lb />
+波も霞の礒ちかく<lb />
+散りくる花のふゞきもて<lb />
+繋ぐ小舟のとま葺きて<lb />
+またも逢見ん折をこそ。」<lb />
+<lb />
+さらばとばかり夕浪も<lb />
+咽ぶ恨のせゝらぎや<lb />
+霧たちこむる谷川は<lb />
+跡見返れどかひぞなき<lb />
+浮世の秋ももろともに<lb />
+流れ／＼て末遠く。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3650">枯柳</span></span></span>
+<lb />
+<lb />
+沈む夕日を見送りて<lb />
+佇む岸のかれやなぎ、<lb />
+消えぬすがたはつらくとも<lb />
+しばしは忍べ程もなく<lb />
+暗のころもに包ませむ、<lb />
+下ゆく流水痩せて<lb />
+咽ぶも悲し秋の聲。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3750">造化妙工</span></span></span>
+<lb />
+<lb />
+嗚呼うるはしき<span type="ruby"><span type="rb">天地</span><span type="rp">（</span><span type="rt">あめつち</span><span type="rp">）</span></span>の<lb />
+たくみをいかにたゝへまし、<lb />
+月日めぐりて年行きて<lb />
+かゆるいくそのけしきぞや。<lb />
+<lb />
+春の歩みのつくところ<lb />
+地に花薫り草いろひ、<lb />
+春の<span type="ruby"><span type="rb">呼吸</span><span type="rp">（</span><span type="rt">いぶき</span><span type="rp">）</span></span>のゆくところ<lb />
+空に蝶舞ひ鳥歌ふ。<lb />
+<lb />
+清きは夏の夕河原<lb />
+凉しき眺見よやとて<lb />
+空に月照り風そよぎ<lb />
+地に露結び水ながる。<lb />
+<lb />
+しぐれも雲も時めきて<lb />
+秋の夕の色よはた<lb />
+谿は紅葉のあやにしき<lb />
+嶺は妻戀ふ牡鹿の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>。<lb />
+<lb />
+冬はあしたのあけのいろ<lb />
+色無き空に色ありて<lb />
+雪の梢に梅薫り、<lb />
+梅の梢に雲かゝる。<lb />
+<lb />
+嗚呼いつくしき天地の<lb />
+たくみをいかにたゝへまし<lb />
+同じ<span type="ruby"><span type="rb">一日</span><span type="rp">（</span><span type="rt">ひとひ</span><span type="rp">）</span></span>の空合も<lb />
+移るいくその眺めぞや。<lb />
+<lb />
+<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">そら</span><span type="rp">）</span></span>のはてより地のはてに<lb />
+光と暗を布き替て<lb />
+こゝに十二の晝の時<lb />
+かれに十二の夜の時。<lb />
+<lb />
+薄紫によこぐもの<lb />
+たなびくひまを眺むれば<lb />
+いろなる露を身にあびて<lb />
+笑みつ生るゝ「あした」あり。<lb />
+<lb />
+<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">くれなゐ</span><span type="rp">）</span></span>さむるかげろふの<lb />
+光のおちを見渡せば<lb />
+霞の袂ふりあげて<lb />
+鳥呼び返す「夕」あり。<lb />
+<lb />
+時雨の後は虹にほひ<lb />
+虹の後には月にほひ<lb />
+月はた遠く落行けば<lb />
+あなたに明けの星あかし。<lb />
+<lb />
+嗚呼おほいなる天地の<lb />
+たくみをいかにたゝふべき<lb />
+しづく集り塵つもり<lb />
+こるもいくその<span type="ruby"><span type="rb">形象</span><span type="rp">（</span><span type="rt">かたち</span><span type="rp">）</span></span>ぞや。<lb />
+<lb />
+いゆき憚るしら雲を<lb />
+麓なかばにとめおきて<lb />
+落る日を呑み月を呑む<lb />
+高きは山の姿かな。<lb />
+<lb />
+春の霞も秋風も<lb />
+共通路の沖遠み<lb />
+潮逆捲き波躍る<lb />
+廣きは海のおもてかな。<lb />
+<lb />
+<span type="ruby"><span type="rb">黒烟</span><span type="rp">（</span><span type="rt">くろけむ</span><span type="rp">）</span></span>高くなびかせて<lb />
+麓の里の日を奪ひ<lb />
+<span type="ruby"><span type="rb">紅蓮</span><span type="rp">（</span><span type="rt">ぐれん</span><span type="rp">）</span></span>焔の波あげて<lb />
+星なき暗の空をやく<lb />
+火山の姿君見ずや。<lb />
+<lb />
+<span type="ruby"><span type="rb">千年</span><span type="rp">（</span><span type="rt">ちとせ</span><span type="rp">）</span></span>つみこし白雪を<lb />
+凍ほれるまゝにさかおとし<lb />
+八百重の嶺を打越して<lb />
+海原遠くはこびゆく<lb />
+氷河の流君見ずや。<lb />
+<lb />
+嗚呼かぐはしき天地の<lb />
+たくみをいかにたゝへまし<lb />
+ひとつの<span type="ruby"><span type="rb">氣</span><span type="rp">（</span><span type="rt">いろ</span><span type="rp">）</span></span>をもとゝして<lb />
+染むるいくその匂ぞや。<lb />
+<lb />
+<span type="ruby"><span type="rb">砂漠</span><span type="rp">（</span><span type="rt">さばく</span><span type="rp">）</span></span>の月にほゆる獅子<lb />
+<span type="ruby"><span type="rb">秋野</span><span type="rp">（</span><span type="rt">あきの</span><span type="rp">）</span></span>の露にむせぶ蝶<lb />
+かのたてがみもこのはねも<lb />
+ひとついろとは誰か知る。<lb />
+<lb />
+竹の林にはしる虎<lb />
+汀の蘆に眠る<span type="ruby"><span type="rb">田鶴</span><span type="rp">（</span><span type="rt">たづ</span><span type="rp">）</span></span><lb />
+この毛ごろももかの皮も<lb />
+同じたくみと誰か知る。<lb />
+<lb />
+星地に落ちてそのあした<lb />
+谷間のゆりの咲く見れば<lb />
+露影消てそのゆふべ<lb />
+<span type="ruby"><span type="rb">岑上</span><span type="rp">（</span><span type="rt">おのへ</span><span type="rp">）</span></span>の雲の湧く見れば――<lb />
+<lb />
+おのが姿にあこがれて<lb />
+花<span rend="superscript" rendition="sup">（一）</span>となりしもあるものを<lb />
+清き乙女<span rend="superscript" rendition="sup">（二）</span>のむくろより<lb />
+などか菫の咲かざらむ。<lb />
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">（註）（一）Narsissus. Ovid : Metamorphoses. B. III.</span>
+<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -6em;">　　　（二）Ophelia――Shakespear : Hamlet, Act V. Sc. I.</span>
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3850">靜夜吟</span></span></span>
+<lb />
+<lb />
+夢皆深し萬象の<lb />
+眠も夜も半にて<lb />
+神秘の幕は垂れにけり<lb />
+今は下界も聖からむ。<lb />
+<lb />
+東の空を昇り來る<lb />
+星また星に聲も無し<lb />
+西の空行き沈み行く<lb />
+星また星に思あり。<lb />
+<lb />
+消えては凝ほる千萬の<lb />
+露のしづくに光あり<lb />
+凝りては消ゆる千萬の<lb />
+しづくの露に心あり。<lb />
+<lb />
+時に微風の一そよぎ<lb />
+知らず過ぎ行くたが魂か<lb />
+時に流るゝ星いくつ<lb />
+知らず落ち來る何の魂。<lb />
+<lb />
+あゝ靜かなる夜の色<lb />
+浮世の夢をさめいでゝ<lb />
+なが永劫のふところに<lb />
+憂の子らを入らしめよ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi3950">哀樂</span></span></span>
+<lb />
+<lb />
+月ほのじろう森黒く<lb />
+あらし睡れるさよ中に<lb />
+下界離るゝ魂二つ、<lb />
+ひとつの聲はさゝやきぬ<lb />
+「樂しかりけり世の夢は」<lb />
+ほかなる聲はつぶやきぬ<lb />
+「哀しかりけりわが夢は」<lb />
+<lb />
+嗚呼樂みか哀みか<lb />
+もゝ年足らぬ夢の世の<lb />
+<span type="ruby"><span type="rb">差別</span><span type="rp">（</span><span type="rt">けじめ</span><span type="rp">）</span></span>は何のわざならむ、<lb />
+仰げば星はまたゝきぬ<lb />
+月ほのじろう森黒く<lb />
+あらし睡れるさよなかに<lb />
+下界はなるゝ魂二つ。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4050">星落秋風五丈原</span></span></span>
+<lb />
+<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4060"><span target="ltr">（一）</span></span></span></span>
+<lb />
+祁山悲秋の風更けて<lb />
+陣雲暗し五丈原<lb />
+零露の文は繁くして<lb />
+草枯れ馬は肥ゆれども<lb />
+蜀軍の旗光無く<lb />
+鼓角の音も今しづか。<lb />
+　　＊　＊　＊<lb />
+丞相病篤かりき。<lb />
+<lb />
+清渭の流れ水やせて<lb />
+むせぶ非情の秋の聲<lb />
+夜は關山の風泣いて<lb />
+暗に迷ふかかりがねは<lb />
+<span type="ruby"><span type="rb">令</span><span type="rp">（</span><span type="rt">れい</span><span type="rp">）</span></span>風霜の威もすごく<lb />
+守るとりでの垣の外。<lb />
+　　＊　＊　＊<lb />
+丞相病あつかりき。<lb />
+<lb />
+帳中眠かすかにて<lb />
+短檠光薄ければ<lb />
+こゝにも見ゆる秋の色<lb />
+銀甲堅くよろへども<lb />
+見よや侍衞の面かげに<lb />
+無限の愁溢るゝを。<lb />
+　　＊　＊　＊<lb />
+丞相病あつかりき。<lb />
+<lb />
+風塵遠し三尺の<lb />
+劔は光曇らねど<lb />
+秋に傷めば松栢の<lb />
+色もおのづとうつろふを<lb />
+漢騎十萬今さらに<lb />
+見るや故郷の夢いかに。<lb />
+　　＊　＊　＊<lb />
+丞相病あつかりき。<lb />
+<lb />
+夢寐に忘れぬ君王の<lb />
+いまはの<span type="ruby"><span type="rb">御</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>こと畏みて<lb />
+心を焦がし身をつくす<lb />
+暴露のつとめ幾とせか<lb />
+今<span type="ruby"><span type="rb">落葉</span><span type="rp">（</span><span type="rt">らくえふ</span><span type="rp">）</span></span>の雨の音<lb />
+大樹ひとたび倒れなば<lb />
+漢室の運はたいかに。<lb />
+　　＊　＊　＊<lb />
+丞相病あつかりき。<lb />
+<lb />
+四海の波瀾收まらで<lb />
+民は苦み天は泣き<lb />
+いつかは見なん太平の<lb />
+心のどけき春の夢<lb />
+群雄立てこと／″＼く<lb />
+中原鹿を爭ふも<lb />
+たれか王者の師を學ぶ。<lb />
+　　＊　＊　＊<lb />
+丞相病篤かりき。<lb />
+<lb />
+末は黄河の水濁る<lb />
+三代の<span type="ruby"><span type="rb">源</span><span type="rp">（</span><span type="rt">げん</span><span type="rp">）</span></span>遠くして<lb />
+伊周の跡は今いづこ、<lb />
+道は衰へ文弊ぶれ<lb />
+管仲去りて九百年<lb />
+樂毅滅びて四百年<lb />
+誰か王者の治を思ふ。<lb />
+　　＊　＊　＊<lb />
+丞相病篤かりき。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4070"><span target="ltr">（二）</span></span></span></span>
+<lb />
+嗚呼南陽の舊草盧<lb />
+二十餘年のいにしへの<lb />
+夢はたいかに安かりし<lb />
+光を包み香をかくし<lb />
+隴畝に民と交はれば<lb />
+王佐の才に富める身も<lb />
+たゞ一曲の梁歩吟。<lb />
+<lb />
+閑雲野鶴空濶く<lb />
+風に嘯ぶく身はひとり<lb />
+月を湖上に碎きては<lb />
+ゆくへ波間の舟ひと葉<lb />
+ゆふべ暮鐘に誘はれて<lb />
+訪ふは山寺の松の風。<lb />
+<lb />
+江山さむるあけぼのゝ<lb />
+雪に驢を驅る道の上<lb />
+寒梅痩せて春早み<lb />
+幽林蔭を穿つとき<lb />
+伴は野鳥の暮の歌<lb />
+紫雲たなびく洞の中<lb />
+誰そや棊局の友の身は。<lb />
+<lb />
+其隆中の別天地<lb />
+空のあなたを眺むれば<lb />
+大盜<span type="ruby"><span type="rb">競</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>ほひはびこりて<lb />
+あらびて榮華さながらに<lb />
+風の<span type="ruby"><span type="rb">枯葉</span><span type="rp">（</span><span type="rt">こえふ</span><span type="rp">）</span></span>を掃ふごと<lb />
+治亂興亡おもほへば<lb />
+世は一局の棊なりけり。<lb />
+<lb />
+其世を治め世を救ふ<lb />
+經綸胸に溢ふるれど<lb />
+榮利を俗に求めねば<lb />
+岡も臥龍の名を負ひつ、<lb />
+亂れし世にも花は咲き<lb />
+花また散りて春秋の<lb />
+遷りはこゝに二十七。<lb />
+<lb />
+高眠遂に永からず<lb />
+信義四海に溢れたる<lb />
+君が三たびの音づれを<lb />
+背きはてめや知己の恩<lb />
+羽扇綸巾風輕き<lb />
+姿は替へで立ちいづる<lb />
+草盧あしたのぬしやたれ。<lb />
+<lb />
+古琴の友よさらばいざ、<lb />
+曉さむる<span type="ruby"><span type="rb">西窓</span><span type="rp">（</span><span type="rt">せいさう</span><span type="rp">）</span></span>の<lb />
+殘月の影よさらばいざ、<lb />
+白鶴歸れ嶺の松<lb />
+蒼猿眠れ谷の橋<lb />
+岡も替へよや臥龍の名、<lb />
+草盧あしたはぬしもなし。<lb />
+<lb />
+成算胸に藏まりて<lb />
+乾坤こゝに一局棋<lb />
+たゞ掌上に指すがごと、<lb />
+三分の<span type="ruby"><span type="rb">計</span><span type="rp">（</span><span type="rt">けい</span><span type="rp">）</span></span>はや成れば<lb />
+見よ九天の雲は垂れ<lb />
+四海の水は皆立て<lb />
+蛟龍飛びぬ淵の外。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4080"><span target="ltr">（三）</span></span></span></span>
+<lb />
+英才雲と群がれる<lb />
+世も千仭の鳳高く<lb />
+翔くる雲井の伴やたそ<lb />
+東新野の夏の草<lb />
+南瀘水の秋の波<lb />
+戎馬關山いくとせか<lb />
+風塵暗きたゞなかに<lb />
+たてしいさをの數いかに。<lb />
+<lb />
+江陵去りて行先は<lb />
+武昌夏口の秋の陣<lb />
+一<span type="ruby"><span type="rb">葉</span><span type="rp">（</span><span type="rt">えふ</span><span type="rp">）</span></span>輕く棹さして<lb />
+三寸の舌呉に説けば<lb />
+見よ大江の風狂ひ<lb />
+焔亂れて姦雄の<lb />
+雄圖碎けぬ波あらく。<lb />
+<lb />
+劔閣天にそび入りて<lb />
+あらしは叫び雲は散り<lb />
+金鼓震ひて十萬の<lb />
+雄師は圍む成都城<lb />
+漢中尋で陷りて<lb />
+三分の基はや固し。<lb />
+<lb />
+定軍山の霧は晴れ<lb />
+<span facs="../../../gaiji/2-78/2-78-28.png" rend="gaiji" rendition="img" source="※(「さんずい＋眄のつくり」、第4水準2-78-28)" />陽の渡り月は澄み<lb />
+赤符再び世に出でゝ<lb />
+興るべかりし漢の運、<lb />
+天か股肱の命盡きて<lb />
+襄陽遂に守りなく<lb />
+玉泉山の夕まぐれ<lb />
+恨みは長し雲の色。<lb />
+<lb />
+中原北に眺むれば<lb />
+冕旒塵に汚されて<lb />
+炎精あはれ色も無し、<lb />
+さらば漢家の一宗派<lb />
+わが君王をいたゞきて<lb />
+踏ませまつらむ九五の位、<lb />
+天の暦數こゝにつぐ<lb />
+<span type="ruby"><span type="rb">時</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>建安の二十六<lb />
+景星照りて錦江の<lb />
+流に泛ぶ花の影。<lb />
+<lb />
+花とこしへの春ならじ、<lb />
+夏の火峯の雲落ちて<lb />
+御林の陣を焚き掃ふ<lb />
+四十餘營のあといづこ、<lb />
+雲雨荒臺夢ならず<lb />
+巫山のかたへ秋寒く<lb />
+名も白帝の城のうち<lb />
+龍駕駐るいつまでか。<lb />
+<lb />
+その三峽の道遠き<lb />
+永安宮の夜の雨<lb />
+泣いて聞きけむ龍榻に<lb />
+君がいまはのみことのり<lb />
+忍べば遠きいにしへの<lb />
+三顧の知遇またこゝに<lb />
+重ねて篤き君の恩、<lb />
+諸王に父と拜されし<lb />
+思やいかに其宵の。<lb />
+<lb />
+邊塞遠く雲分けて<lb />
+瘴烟蠻雨ものすごき<lb />
+不毛の郷に攻め入れば<lb />
+暗し瀘水の夜半の月、<lb />
+妙算世にも比なき<lb />
+智仁を兼ぬるほこさきに<lb />
+南夷いくたび驚きて<lb />
+君を崇めし「神なり」と。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4090"><span target="ltr">（四）</span></span></span></span>
+<lb />
+南方すでに定りて<lb />
+兵は精しく糧は足る、<lb />
+君王の志うけつぎて<lb />
+姦を攘はん時は今、<lb />
+江漢常武いにしへの<lb />
+ためしを今にこゝに見る<lb />
+建興五年あけの空、<lb />
+日は暖かに大旗の<lb />
+龍蛇も動く春の雲、<lb />
+馬は嘶き人勇む<lb />
+三軍の師を隨へて<lb />
+中原北に上りけり。<lb />
+<lb />
+六たび祁山の嶺の上<lb />
+風雲動き旗かへり<lb />
+天地もどよむ漢の軍、<lb />
+<span facs="../../../gaiji/1-84/1-84-34.png" rend="gaiji" rendition="img" source="※(「彳＋編のつくり」の「戸」に代えて「戸の旧字」、第3水準1-84-34)" />師節度を誤れる<lb />
+街亭の敗何かある、<lb />
+鯨鯢吼えて波怒り<lb />
+あらし狂ふて草は伏す<lb />
+王師十萬秋高く<lb />
+武都陰平を平げて<lb />
+立てり渭南の岸の上。<lb />
+<lb />
+拒ぐはたそや敵の軍、<lb />
+かれ中原の一奇才<lb />
+韜畧深く密ながら<lb />
+君に向はんすべぞなき、<lb />
+納めも受けむ贈られし<lb />
+素衣巾幗のあなどりも、<lb />
+陣を堅うし手を束ね<lb />
+魏軍守りて出ざりき。<lb />
+<lb />
+鴻業果たし收むべき<lb />
+その時天は貸さずして<lb />
+出師なかばに君病みぬ、<lb />
+三顧の遠きむかしより<lb />
+夢寐も忘れぬ君の恩<lb />
+答て盡すまごゝろを<lb />
+示すか吐ける<span type="ruby"><span type="rb">紅血</span><span type="rp">（</span><span type="rt">くれなゐ</span><span type="rp">）</span></span>は、<lb />
+建興の十三秋なかば<lb />
+丞相病篤かりき。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4100"><span target="ltr">（五）</span></span></span></span>
+<lb />
+魏軍の營も音絶て<lb />
+夜は靜かなり五丈原、<lb />
+たゝずと思ふ今のまも<lb />
+丹心國を忘られず、<lb />
+病を扶け身を起し<lb />
+臥帳掲げて立ちいづる<lb />
+夜半の大空雲もなし。<lb />
+<lb />
+<span facs="../../../gaiji/1-14/1-14-58.png" rend="gaiji" rendition="img" source="※(「刀」の「丿」が横向き、第3水準1-14-58)" />斗聲無く露落ちて<lb />
+旌旗は寒し風清し、<lb />
+三軍ひとしく聲呑みて<lb />
+つゝしみ迎ふ大軍師、<lb />
+羽扇綸巾膚寒み<lb />
+おもわやつれし病める身を<lb />
+知るや非情の小夜あらし。<lb />
+<lb />
+諸壘あまねく經<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />りて<lb />
+輪車靜かにきしり行く、<lb />
+星斗は開く天の陣<lb />
+山河はつらぬ地の營所、<lb />
+つるぎは光り影冴て<lb />
+結ぶに似たり夜半の霜。<lb />
+<lb />
+嗚呼陣頭にあらはれて<lb />
+敵とまた見ん時やいつ、<lb />
+祁山の嶺に長驅して<lb />
+心は勇む風の前、<lb />
+王師たゞちに北をさし<lb />
+馬に河洛に飮まさむと<lb />
+願ひしそれもあだなりや、<lb />
+胸裏百萬兵はあり<lb />
+帳下三千將足るも<lb />
+彼れはた時をいかにせむ。<lb />
+<lb />
+成敗遂に天の命<lb />
+事あらかじめ圖られず、<lb />
+舊都再び駕を迎へ<lb />
+麟臺永く名を傳ふ<lb />
+<span type="ruby"><span type="rb">春</span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>玉樓の花の色<lb />
+いさほし成りて南陽に<lb />
+琴書をまたも友とせむ<lb />
+望みは遂に空しきか。<lb />
+<lb />
+君恩酬ふ身の一死<lb />
+今更我を惜まねど<lb />
+行末いかに漢の運、<lb />
+過ぎしを忍び後しのぶ<lb />
+無限の思無限の情、<lb />
+南成都の空いづこ<lb />
+玉壘今は秋更けて<lb />
+錦江の水痩せぬべく、<lb />
+鐵馬あらしに噺きて<lb />
+劔關の雲睡ぶるべく。<lb />
+<lb />
+明主の知遇身に受けて<lb />
+三顧の恩にゆくりなく<lb />
+立ちも出でけむ舊草廬、<lb />
+嗚呼鳳遂に衰へて<lb />
+今に楚狂の歌もあれ<lb />
+人生意氣に感じては<lb />
+成否をたれかあげつらふ。<lb />
+<lb />
+成否を誰れかあげつらふ<lb />
+一死盡くしゝ身の誠、<lb />
+仰げば銀河影冴えて<lb />
+無數の星斗光濃し、<lb />
+照すやいなや英雄の<lb />
+苦心孤忠の胸ひとつ<lb />
+其壯烈に感じては<lb />
+鬼神も哭かむ秋の風。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4110"><span target="ltr">（六）</span></span></span></span>
+<lb />
+鬼神も哭かむ秋の風、<lb />
+行て渭水の岸の上<lb />
+夫の殘柳の恨訪へ、<lb />
+劫初このかた絶えまなき<lb />
+無限のあらし吹過ぎて<lb />
+野は一叢の露深く<lb />
+世は北<span facs="../../../gaiji/1-92/1-92-61.png" rend="gaiji" rendition="img" source="※(「氓のへん＋おおざと」、第3水準1-92-61)" />の墓高く。<lb />
+<lb />
+蘭は碎けぬ露のもと<lb />
+桂は折れぬ霜の前<lb />
+霞に包む花の色<lb />
+蜂蝶睡る草の蔭<lb />
+色もにほひも消去りて<lb />
+<span type="ruby"><span type="rb">有情</span><span type="rp">（</span><span type="rt">うじやう</span><span type="rp">）</span></span>も同じ世々の秋。<lb />
+<lb />
+群雄次第に凋落し<lb />
+雄圖は鴻の去るに似て<lb />
+山河幾とせ秋の色<lb />
+榮華盛衰こと／″＼く<lb />
+むなしき空に消行けば<lb />
+世は<span type="ruby"><span type="rb">一塲</span><span type="rp">（</span><span type="rt">いちぢやう</span><span type="rp">）</span></span>の春の夢。<lb />
+<lb />
+撃たるゝものも撃つものも<lb />
+今更こゝに見かへれば<lb />
+共に夕の嶺の雲<lb />
+風に亂れて散るがごと、<lb />
+蠻觸二邦角の上<lb />
+蝸牛の譬おもほへば<lb />
+世々の姿はこれなりき。<lb />
+<lb />
+金棺<span type="ruby"><span type="rb">灰</span><span type="rp">（</span><span type="rt">はひ</span><span type="rp">）</span></span>を葬りて<lb />
+魚水の契り君王も<lb />
+<span type="ruby"><span type="rb">今</span><span type="rp">（</span><span type="rt">いま</span><span type="rp">）</span></span>泉臺の夜の客、<lb />
+中原北を眺むれば<lb />
+銅雀臺の春の月<lb />
+今は雲間のよその影、<lb />
+大江の南建業の<lb />
+花の盛りもいつまでか。<lb />
+<lb />
+五虎の將軍今いづこ、<lb />
+神機きほひし江南の<lb />
+かれも英才いまいづこ、<lb />
+北の滑水の岸守る<lb />
+仲達かれもいつまでか、<lb />
+感極まりて氣も遙か<lb />
+聞けば魏軍の夜半の陣<lb />
+一曲遠し悲笳の聲。<lb />
+<lb />
+更に碧りの空の上<lb />
+靜かにてらす星の色<lb />
+かすけき光眺むれば<lb />
+神秘は深し無象の世、<lb />
+あはれ無限の大うみに<lb />
+溶くるうたかた其はては<lb />
+いかなる岸に泛ぶらむ、<lb />
+千仭暗しわだつみの<lb />
+底の白玉誰か得む<lb />
+幽渺<span type="ruby"><span type="rb">境</span><span type="rp">（</span><span type="rt">さかひ</span><span type="rp">）</span></span>窮みなし<lb />
+鬼神のあとを誰か見む。<lb />
+<lb />
+嗚呼五丈原秋の夜半<lb />
+あらしは※<span rend="notes">［＃「口＋斗」、U+544C、44-上-9］</span>び露は泣き<lb />
+銀漢清く星高く<lb />
+神秘の色につゝまれて<lb />
+天地微かに光るとき<lb />
+無量の思齎らして<lb />
+「無限の淵」に立てる見よ、<lb />
+功名いづれ夢のあと<lb />
+消えざるものはたゞ誠、<lb />
+心を盡し身を致し<lb />
+成否を天に委ねては<lb />
+<span type="ruby"><span type="rb">魂</span><span type="rp">（</span><span type="rt">たましひ</span><span type="rp">）</span></span>遠く離れゆく。<lb />
+<lb />
+高き、<span type="ruby"><span type="rb">尊</span><span type="rp">（</span><span type="rt">たふと</span><span type="rp">）</span></span>き、たぐひなき<lb />
+「非運」を君よ天に謝せ、<lb />
+青史の照らし見るところ<lb />
+管仲樂毅たそや彼れ、<lb />
+伊呂の伯仲、眺むれば<lb />
+「萬古の霄の一羽毛」<lb />
+千仭翔くる鳳の影、<lb />
+草廬にありて龍と臥し<lb />
+四海に出でゝ龍と飛ぶ<lb />
+千載の末今も尚<lb />
+名はかんばしき諸葛亮。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4210">夕の磯</span></span></span>
+<lb />
+<lb />
+見よ夕日影波の上<lb />
+しばしたゆたふ紅を、<lb />
+沈まば盡きんけふ一日<lb />
+名殘はいかにをしむとも<lb />
+久しかるべき影ならず。<lb />
+<lb />
+見よ老びとの磯の上<lb />
+思にしづむ面影を、<lb />
+逝かば終らむ身の一世<lb />
+ほだしはいかにつらくとも<lb />
+久しかるべき<span type="ruby"><span type="rb">命</span><span type="rp">（</span><span type="rt">めい</span><span type="rp">）</span></span>ならず。<lb />
+<lb />
+嗚呼雲入りて星出で、<lb />
+夕日は波にしづみけり、<lb />
+わが日わが世のあとひとつ<lb />
+夕波騷ぎ風あれて<lb />
+嗚呼老びとの影いづこ。<lb />
+　　――――――――<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4310">暮鐘</span></span></span>
+<lb />
+<lb />
+<span rend="yokogumi" rendition="div">
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+“La cloche ! <span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />cho du ciel plac<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" /> pr<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />s de la terre !<lb />
+Voix grondante qui parle <span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" /> c<span facs="../../../gaiji/1-09/1-09-74.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きO小文字)" />t<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" /> du tonnerre,<lb />
+Faite pour la cit<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" /> comme lui pour la mer !<lb />
+Vase plein de rumeur qui se vide dans l'air !”<lb />
+　　　　　Hugo : Les Chants du Cr<span facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />puscule.<lb />
+</span>
+</span>
+<lb />
+森のねぐらに夕鳥を<lb />
+麓の里に旅人を<lb />
+靜けき墓になきがらを<lb />
+夢路の暗にあめつちを<lb />
+送りて響け暮の鐘。<lb />
+<lb />
+春千山の花ふゞき<lb />
+秋落葉の雨の音<lb />
+誘ふて世々の夕まぐれ<lb />
+劫風ともに鳴りやまず。<lb />
+<lb />
+天の返響地の叫び<lb />
+恨の聲か慰めか<lb />
+過ぐるを傷む悲みか<lb />
+來るを招く喜びか<lb />
+無常をさとすいましめか<lb />
+望を告ぐる法音か。<lb />
+<lb />
+友高樓のおばしまに<lb />
+別れの袂重きとき<lb />
+露荒凉の城あとに<lb />
+懷古の思しげきとき<lb />
+聖者靜けき窓の戸に<lb />
+無象の<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">そら</span><span type="rp">）</span></span>を思ふとき<lb />
+大空高く聲あげて<lb />
+今はと叫ぶ暮の鐘。<lb />
+<lb />
+人住むところ行くところ<lb />
+嘆と死とのあるところ<lb />
+歌と<span type="ruby"><span type="rb">樂</span><span type="rp">（</span><span type="rt">がく</span><span type="rp">）</span></span>とのあるところ<lb />
+涙、悲み、憂きなやみ<lb />
+笑、喜び、たのしみと<lb />
+互に移りゆくところ、<lb />
+<lb />
+都大路の花のかげ<lb />
+白雲深き鄙の里<lb />
+白波寄する荒磯邊、<lb />
+無心の<span type="ruby"><span type="rb">穉子</span><span type="rp">（</span><span type="rt">ちご</span><span type="rp">）</span></span>の耳にしも<lb />
+無聲の塚の床にしも<lb />
+等しく響く暮の鐘。<lb />
+<lb />
+雲飄揚の身はひとり<lb />
+五城樓下の春遠く<lb />
+都の空にさすらへつ<lb />
+思しのぶが岡の上<lb />
+われも夕の鐘を聞く。<lb />
+<lb />
+鐘の響きに夕がらす<lb />
+入日名殘の影薄き<lb />
+あなたの森にゐるがごと<lb />
+むらがりたちて淀みなく<lb />
+そゞろに起るわが思ひ。<lb />
+<lb />
+靜まり返る大ぞらの<lb />
+波をふたゝびゆるがして<lb />
+雲より雲にどよみゆく<lb />
+餘韻かすかに程遠く<lb />
+浮世の耳に絶ゆるとも<lb />
+しるや無象の天の外<lb />
+下界の夢のうはごとを<lb />
+名殘の鐘にきゝとらん<lb />
+高き、尊き靈ありと。<lb />
+<lb />
+天使の群をかきわけて<lb />
+昇りも行くか「無限」の座<lb />
+鐘よ、光の門の戸に<lb />
+何とかなれの叫ぶらむ、<lb />
+下界の暗は厚うして<lb />
+聖者の憂絶えずとか<lb />
+浮世の花は脆うして<lb />
+詩人の涙涸れずとか。<lb />
+<lb />
+長く、かすけく、また遠く<lb />
+今はたつゞく一ひゞき<lb />
+呼ぶか閻浮の魂の聲<lb />
+かの永劫の深みより、<lb />
+「われも浮世のあらし吹く<lb />
+波間にうきし一葉舟<lb />
+入江の春は遠くして<lb />
+舟路半ばに沈みぬ」と。<lb />
+<lb />
+恨みなはてぞ世の<span type="ruby"><span type="rb">運命</span><span type="rp">（</span><span type="rt">さだめ</span><span type="rp">）</span></span>、<lb />
+無限の未來後にひき<lb />
+無限の過去を前に見て<lb />
+我いまこゝに惑あり<lb />
+はたいまこゝに望あり、<lb />
+笑、たのしみ、うきなやみ<lb />
+暗と光と織りなして<lb />
+歌ふ浮世の一ふしも<lb />
+いざ響かせむ暮の鐘、<lb />
+先だつ魂に、來ん魂に<lb />
+かくて思をかはしつゝ<lb />
+流一筋大川の<lb />
+泉と海とつなぐごと。<lb />
+<lb />
+吹くや東の夕あらし<lb />
+寄するや西の雲の波<lb />
+かの中空に集りて<lb />
+しばしは共に言もなし<lb />
+ふたつ再び別るとき<lb />
+「秘密」と彼も叫ぶらむ。<lb />
+人生、理想、はた秘密<lb />
+詩人の夢よ、迷よと<lb />
+我笑ひしも幾たびか、<lb />
+まひるの光りかゞやきて<lb />
+望の星の消ゆるごと<lb />
+浮世の塵にまみれては<lb />
+罪か<span type="ruby"><span type="rb">濁世</span><span type="rp">（</span><span type="rt">ぢよくせ</span><span type="rp">）</span></span>かわれ知らず。<lb />
+<lb />
+其塵深き人の世の<lb />
+夕暮ごとに聲あげて<lb />
+無限永劫神の世を<lb />
+警しめ告ぐる鐘の音、<lb />
+<span type="ruby"><span type="rb">源流</span><span type="rp">（</span><span type="rt">げんりう</span><span type="rp">）</span></span>すでに遠くして<lb />
+<span type="ruby"><span type="rb">濁波</span><span type="rp">（</span><span type="rt">だくは</span><span type="rp">）</span></span>を揚ぐる末の世に<lb />
+無言の教宣りつゝも<lb />
+<span type="ruby"><span type="rb">有情</span><span type="rp">（</span><span type="rt">うじやう</span><span type="rp">）</span></span>の涙誘へるか。<lb />
+<lb />
+祇園精舍の檐朽ちて<lb />
+葷酒の<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>のみ高くとも<lb />
+セント、ソヒヤの塔荒れて<lb />
+福音俗に媚ぶるとも<lb />
+聞けや夕の鐘のうち<lb />
+靈鷲橄欖いにしへの<lb />
+高き、尊き法の聲。<lb />
+<lb />
+<span rend="white_circle" rendition="em">天地<span type="ruby"><span type="rb">有情</span><span type="rp">（</span><span type="rt">うじやう</span><span type="rp">）</span></span></span>の夕まぐれ<lb />
+わが<span type="ruby"><span type="rb">驂鸞</span><span type="rp">（</span><span type="rt">さんらん</span><span type="rp">）</span></span>の夢さめて<lb />
+鳳樓いつか跡もなく<lb />
+花もにほひも夕月も<lb />
+うつゝは<span type="ruby"><span type="rb">脆</span><span type="rp">（</span><span type="rt">もろ</span><span type="rp">）</span></span>き春の世や<lb />
+<span type="ruby"><span type="rb">岑上</span><span type="rp">（</span><span type="rt">をのへ</span><span type="rp">）</span></span>の霞たちきりて<lb />
+縫へる仙女の綾ごろも<lb />
+袖にあらしはつらくとも<lb />
+「自然」の胸をゆるがして<lb />
+響く微妙の樂の聲<lb />
+その一音はこゝにあり。<lb />
+<lb />
+天の莊嚴地の美麗<lb />
+花かんばしく星てりて<lb />
+「自然」のたくみ替らねど<lb />
+わづらひ世々に絶えずして<lb />
+理想の夢の消ゆるまは<lb />
+たえずも響けとこしへに<lb />
+地籟天籟身に兼ぬる<lb />
+ゆふ入相の鐘の聲。<lb />
+<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi4410">荒城の月</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+明治卅一年頃東京音樂學校の需に應じて作れるもの、作曲者は今も惜まるる秀才瀧廉太郎君<lb />
+</span>
+<lb />
+春高樓の花の宴<lb />
+めぐる盃影さして<lb />
+千代の松が枝わけ出でし<lb />
+むかしの光いまいづこ。<lb />
+<lb />
+秋陣營の霜の色<lb />
+鳴き行く雁の數見せて<lb />
+植うるつるぎに照りそひし<lb />
+むかしの光今いづこ。<lb />
+<lb />
+いま荒城のよはの月<lb />
+變らぬ光たがためぞ<lb />
+垣に殘るはただかづら<lb />
+松に歌ふはただあらし。<lb />
+<lb />
+天上影は變らねど<lb />
+榮枯は移る世の姿<lb />
+寫さんとてか今もなほ<lb />
+あゝ荒城の夜半の月。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

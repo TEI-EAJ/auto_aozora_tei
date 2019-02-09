@@ -1,0 +1,625 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>べんがら炬燵</title>
+        <author>吉川英治</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2013-01-23">作成</resp><resp /><note>
+<lb />
+底本：「柳生月影抄　名作短編集（二）」吉川英治歴史時代文庫、講談社<lb />
+　　　1990（平成2）年9月11日第1刷発行<lb />
+　　　2007（平成19）年4月20日第12刷発行<lb />
+初出：「週刊朝日　新春特別号」<lb />
+　　　1934（昭和9）年<lb />
+入力：門田裕志<lb />
+校正：川山隆<lb />
+<date when="2013-01-23">2013年1月23日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>川山隆</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>べんがら炬燵</title><author>吉川英治</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">雪の後</span></span></span>
+<lb />
+　北がわの屋根には、まだ雪が残っているのであろう、<span type="ruby"><span type="rb">廂</span><span type="rp">（</span><span type="rt">ひさし</span><span type="rp">）</span></span>の下から室内は、広いので、灯がほしいほど薄暗いが、南の<span type="ruby"><span type="rb">雀口</span><span type="rp">（</span><span type="rt">すずめぐち</span><span type="rp">）</span></span>にわずかばかりつよい陽の光が<span type="ruby"><span type="rb">刎</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ね<span type="ruby"><span type="rb">返</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>っていた。きのうにつづいて、<span type="ruby"><span type="rb">終日</span><span type="rp">（</span><span type="rt">ひねもす</span><span type="rp">）</span></span>、退屈な音を繰りかえしている雨だれの<span type="ruby"><span type="rb">無聊</span><span type="rp">（</span><span type="rt">ぶりょう</span><span type="rp">）</span></span>さをやぶるように、地面へ雪の落ちる音が、時々、ずしんと、十七人の<span type="ruby"><span type="rb">腸</span><span type="rp">（</span><span type="rt">はらわた</span><span type="rp">）</span></span>にひびいた。<lb />
+　太平記を借りうけて、今朝から手にしはじめた<span type="ruby"><span type="rb">潮田又之丞</span><span type="rp">（</span><span type="rt">うしおだまたのじょう</span><span type="rp">）</span></span>が、その度に、きまって、書物から眸を離すので、そばに坐している<span type="ruby"><span type="rb">近松勘六</span><span type="rp">（</span><span type="rt">ちかまつかんろく</span><span type="rp">）</span></span>が、<lb />
+「雪じゃよ」<lb />
+　<span type="ruby"><span type="rb">低声</span><span type="rp">（</span><span type="rt">こごえ</span><span type="rp">）</span></span>でささやいた。<lb />
+「<span type="ruby"><span type="rb">赤穂</span><span type="rp">（</span><span type="rt">あこう</span><span type="rp">）</span></span>も、今年は降ったかな」<lb />
+　<span type="ruby"><span type="rb">富森助右衛門</span><span type="rp">（</span><span type="rt">とみのもりすけえもん</span><span type="rp">）</span></span>がつぶやくと、<lb />
+「のう、十郎左」<lb />
+　三、四人おいて坐っていた<span type="ruby"><span type="rb">大石瀬左衛門</span><span type="rp">（</span><span type="rt">おおいしせざえもん</span><span type="rp">）</span></span>が、前かがみに、<span type="ruby"><span type="rb">磯貝十郎左衛門</span><span type="rp">（</span><span type="rt">いそがいじゅうろうざえもん</span><span type="rp">）</span></span>の方を見て、<lb />
+「――雪で思いだしたが、もう十年も前、お国元の馬場で、雪というと、よく暴れたのう」<lb />
+「うむ」<lb />
+　十郎左は、<span type="ruby"><span type="rb">笑</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>くぼでうなずいた。<lb />
+「この中でも、いちばん年下じゃが、そのころお小姓組のうちでも、やはり、貴様がいちばん小さかった。そして、泣き虫は十郎左と決まっていたので、貴様の顔ばかり狙って、雪つぶてが飛んで来たものだった」<lb />
+「泣き虫なら、もっと、涙もろい先輩がおるよ」<lb />
+「誰」<lb />
+　<span type="ruby"><span type="rb">紙捻</span><span type="rp">（</span><span type="rt">こより</span><span type="rp">）</span></span>で耳をほっていた<span type="ruby"><span type="rb">赤埴源蔵</span><span type="rp">（</span><span type="rt">あかばねげんぞう</span><span type="rp">）</span></span>が、<lb />
+「よせ、あの話は」<lb />
+　友達は、みな知ってることとみえて、同じようにくすくす笑った。<lb />
+　こんなふうに、時々、<span type="ruby"><span type="rb">和</span><span type="rp">（</span><span type="rt">なご</span><span type="rp">）</span></span>やかにくずす謹厳な<span type="ruby"><span type="rb">無聊</span><span type="rp">（</span><span type="rt">ぶりょう</span><span type="rp">）</span></span>さを、それでも、この部屋の若者たちは、隣室の方へ、気がねらしく、笑ってはすぐ<span type="ruby"><span type="rb">憚</span><span type="rp">（</span><span type="rt">はばか</span><span type="rp">）</span></span>るような眼をやるのだった。<lb />
+　ちょうど、<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>にはこの九人。<lb />
+　<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>の間に八人。<lb />
+　ふた組に分れていた。<lb />
+　その上の間の組には、<span type="ruby"><span type="rb">大石内蔵助</span><span type="rp">（</span><span type="rt">おおいしくらのすけ</span><span type="rp">）</span></span>以下、老人が多く、きょうは料紙と<span type="ruby"><span type="rb">硯</span><span type="rp">（</span><span type="rt">すずり</span><span type="rp">）</span></span>を借りて、手紙を書いている者が多かった。いちばん年長の<span type="ruby"><span type="rb">堀部弥兵衛</span><span type="rp">（</span><span type="rt">ほりべやへえ</span><span type="rp">）</span></span>、顔の怖い<span type="ruby"><span type="rb">吉田忠左衛門</span><span type="rp">（</span><span type="rt">よしだちゅうざえもん</span><span type="rp">）</span></span>、黙ったきりの<span type="ruby"><span type="rb">間喜兵衛</span><span type="rp">（</span><span type="rt">はざまきへえ</span><span type="rp">）</span></span>、そのほか<span type="ruby"><span type="rb">原惣右衛門</span><span type="rp">（</span><span type="rt">はらそうえもん</span><span type="rp">）</span></span>だの、<span type="ruby"><span type="rb">間瀬久太夫</span><span type="rp">（</span><span type="rt">ませきゅうだゆう</span><span type="rp">）</span></span>だの、真四角に膝をならべて、読書か何かしていた。<lb />
+　内蔵助だけは、斜めに顔をあげて、いつもの深謀な眸も、今はもう何も思うことがないというように、ぼんやり、半眼にふさいでいた。書き物もせず、書も手にふれず、どっちかといえば小がらで肩のまろい体を、やっと、置くべき所へ置いたというような恰好で、居ずまいよく坐っていた。<lb />
+　十二月十六日――<lb />
+　人々は、手紙の封に書いている。<lb />
+　討入のおとといの夜は、もう過去だった。何だか、遠い過去の気がするのである。<lb />
+　ゆうべは雨だった。<lb />
+　吉良殿の<span type="ruby"><span type="rb">首</span><span type="rp">（</span><span type="rt">しるし</span><span type="rp">）</span></span>を、泉岳寺の君前に<span type="ruby"><span type="rb">手向</span><span type="rp">（</span><span type="rt">たむ</span><span type="rp">）</span></span>けてから後、<span type="ruby"><span type="rb">松平伯耆守</span><span type="rp">（</span><span type="rt">まつだいらほうきのかみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">邸</span><span type="rp">（</span><span type="rt">やしき</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">直訴</span><span type="rp">（</span><span type="rt">じきそ</span><span type="rp">）</span></span>して、公儀の処分を待ったのである。その結果、一同四十六名を、水野、松平、毛利、細川の四家へわけてお預けと決ったのは夜で、雨の中を、まるで<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">いくさ</span><span type="rp">）</span></span>のような人数に警固され、この<span type="ruby"><span type="rb">白金</span><span type="rp">（</span><span type="rt">しろがね</span><span type="rp">）</span></span>の中屋敷へ、内蔵助以下十七名が送りこまれたのは、すでに<span type="ruby"><span type="rb">丑満</span><span type="rp">（</span><span type="rt">うしみつ</span><span type="rp">）</span></span>だった。<lb />
+　意外だったのは、ここへ着いて、おとといからの泥装束を脱いでいる混雑のなかへ、五十四万石の大身である越中守が、自身、無造作にやってきて、<lb />
+（この度は、さだめし、本望なことであろうの）<lb />
+　と、ねぎらわれたことだった。<lb />
+　次には<span type="ruby"><span type="rb">不寝番</span><span type="rp">（</span><span type="rt">ねずのばん</span><span type="rp">）</span></span>の物々しい警戒だった。今朝になって、それとなく訊くと吉良家とは、<span type="ruby"><span type="rb">唇歯</span><span type="rp">（</span><span type="rt">しんし</span><span type="rp">）</span></span>の家がらである上杉弾正<span type="ruby"><span type="rb">太弼</span><span type="rp">（</span><span type="rt">たいひつ</span><span type="rp">）</span></span>の夜襲に備えるものと分った。<lb />
+　内蔵助は、<lb />
+（上杉家には千坂がおる）<lb />
+　一笑したが、若手のいる<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>では、<lb />
+（いや、何ともしれぬぞ）<lb />
+　と、なお胸の<span type="ruby"><span type="rb">余燼</span><span type="rp">（</span><span type="rt">よじん</span><span type="rp">）</span></span>を、消さなかった。で――雪とは承知しながら、ずしん、ずしん、と地ひびきのする度に、潮田又之丞も、ほかの者も、すぐ眼をうごかした。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20"><span type="ruby"><span type="rb">眼皺</span><span type="rp">（</span><span type="rt">めじわ</span><span type="rp">）</span></span></span></span></span>
+<lb />
+　表役との境は、混雑していた。<lb />
+　家老の<span type="ruby"><span type="rb">三宅藤兵衛</span><span type="rp">（</span><span type="rt">みやけとうべえ</span><span type="rp">）</span></span>は、大廊下の角で、十七士<span type="ruby"><span type="rb">接伴役</span><span type="rp">（</span><span type="rt">せっぱんやく</span><span type="rp">）</span></span>として、細川家の家中から選ばれたうちの一人である<span type="ruby"><span type="rb">堀内伝右衛門</span><span type="rp">（</span><span type="rt">ほりうちでんえもん</span><span type="rp">）</span></span>をつかまえて、<lb />
+「なに、あの者たちへ、火鉢を与える？　……。以てのほかな！」<lb />
+　と、たしなめていた。<lb />
+「火鉢はおろか、公儀のお預け人。あの衆と、雑談なども、かたく無用でござる」<lb />
+　伝右衛門は、<span type="ruby"><span type="rb">物頭役</span><span type="rp">（</span><span type="rt">ものがしらやく</span><span type="rp">）</span></span>で、藤兵衛よりはずっと末席だった。老人というほどでもないが、<span type="ruby"><span type="rb">小鬢</span><span type="rp">（</span><span type="rt">こびん</span><span type="rp">）</span></span>には<span type="ruby"><span type="rb">白髪</span><span type="rp">（</span><span type="rt">しらが</span><span type="rp">）</span></span>が見え、温良な<span type="ruby"><span type="rb">眼皺</span><span type="rp">（</span><span type="rt">めじわ</span><span type="rp">）</span></span>のなかに、親しみぶかい眸をもった人物だった。ふだんは、上役の者へ、逆らったことなどはない性格だが、まざまざ、彼の顔に不平ないろが燃えたので、藤兵衛はまたいった。<lb />
+「料紙<span type="ruby"><span type="rb">硯</span><span type="rp">（</span><span type="rt">すずり</span><span type="rp">）</span></span>だけはゆるしたが、風呂の事、<span type="ruby"><span type="rb">櫛</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>道具の事、医薬その他、箇条にいたして公儀へ、お伺い中じゃ。必ずと、勝手な処置、相ならぬぞ」<lb />
+「心得ぬことを……」<lb />
+　伝右衛門は、<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>った。<lb />
+「なにが心得ぬ」<lb />
+「御家老には、あの衆は、ただの<span type="ruby"><span type="rb">囚人</span><span type="rp">（</span><span type="rt">めしゅうど</span><span type="rp">）</span></span>とでも思し召してか」<lb />
+「お預けの罪人、囚人に相違なかろう」<lb />
+「罪人」<lb />
+　伝右衛門は、眼に涙さえもって、心外そうに、<lb />
+「武士は勿論、お台所の御用にまいる町人や、お坊主の端くれまで、義士よ武士道の華よと、世間を挙げて、<span type="ruby"><span type="rb">賞</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>めおりますあの衆に対して」<lb />
+「だまんなさい。罪は罪」<lb />
+「御家老は」<lb />
+「だまらぬかっ。私情をもって、御法を<span type="ruby"><span type="rb">紊</span><span type="rp">（</span><span type="rt">みだ</span><span type="rp">）</span></span>しなどしては、天下の御政治は元より、一藩のしめしがつかぬ」<lb />
+「武士の情けを知らぬおことば、伝右衛門は、服しかねまする」<lb />
+「服さぬ」<lb />
+「はいっ」<lb />
+「服さぬといったな」<lb />
+「申しました。申さずにはおられませぬ」<lb />
+「これは、伝右、伝右。……貴公よいお年をしながら、<span type="ruby"><span type="rb">巷</span><span type="rp">（</span><span type="rt">ちまた</span><span type="rp">）</span></span>の人気などにぽっぽっとしてはいかぬぞ」<lb />
+「そんな、軽薄な存念とお考えあることが心外じゃ。今の世相をご覧あれ、武士道がどこに、君臣の義がどこに。武士の賢い道は、<span type="ruby"><span type="rb">禄</span><span type="rp">（</span><span type="rt">ろく</span><span type="rp">）</span></span>から禄の多きへつき、金を蓄え、<span type="ruby"><span type="rb">妾</span><span type="rp">（</span><span type="rt">しょう</span><span type="rp">）</span></span>をかぞえ、遊芸<span type="ruby"><span type="rb">三昧</span><span type="rp">（</span><span type="rt">ざんまい</span><span type="rp">）</span></span>、人あたりよく、<span type="ruby"><span type="rb">綺羅</span><span type="rp">（</span><span type="rt">きら</span><span type="rp">）</span></span>の小袖で送るのが一番じゃという風ではござらぬか。――そのよい手本が吉良殿と<span type="ruby"><span type="rb">内匠頭</span><span type="rp">（</span><span type="rt">たくみのかみ</span><span type="rp">）</span></span>殿のいきさつじゃ。赤穂の浪士たちがした事は、御主君の仇をうったのみか、腐れきったこの世相と人心の眼を<span type="ruby"><span type="rb">醒</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>まさせたものと伝右衛門は考えまする。それを、ただのお預け人と、同視なさる心底が、<span type="ruby"><span type="rb">歎</span><span type="rp">（</span><span type="rt">なげ</span><span type="rp">）</span></span>かれますわい」<lb />
+「困った熱病じゃ。とにかく、火鉢などは相ならん」と後ろへ、幾つもの箱を運んで来て、<span type="ruby"><span type="rb">立</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>ち<span type="ruby"><span type="rb">淀</span><span type="rp">（</span><span type="rt">よど</span><span type="rp">）</span></span>んでいる<span type="ruby"><span type="rb">納戸</span><span type="rp">（</span><span type="rt">なんど</span><span type="rp">）</span></span>の小侍たちを<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>みつけて、<lb />
+「元へ戻しておけっ」<lb />
+　と、叱った。<lb />
+　ふだんの伝右衛門とは、まるで別人のように、<lb />
+「いや、かまわぬ。もしお<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>めをうけた時は、伝右衛門が腹切っておわびするまで。通れっ」<lb />
+「ならぬっ」<lb />
+「御家老も接伴役のおひとりではないか」<lb />
+「さればこそ、落度のないように計るのじゃ。伝右ひとりの腹切ってすむことならよいが、お家にもかかわる」<lb />
+「あの衆の心事に、武士が、涙をそそがいでは、いよいよ武士道は地に<span type="ruby"><span type="rb">廃</span><span type="rp">（</span><span type="rt">すた</span><span type="rp">）</span></span>る。伝右は、<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>をかけて接伴を勤めまする。――御家老とはいえ、無慈悲なお扱いには服せませぬ」<lb />
+「これや、伝右が、どうかいたしたわい。火鉢は、納戸へ返せっ」<lb />
+「かまわぬ運べっ」<lb />
+「だまれ。上役の命を」<lb />
+　十七士のいる広間まで、二人の大きな声は、がんがん聞えて行った、一同は、<span type="ruby"><span type="rb">等</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>しく耳をすまして、ゆうべから見覚えている堀内伝右衛門という細川家の一家士に対して、心の底から持ちあげる感激を顔へいっぱいにしながら俯向いていた。<lb />
+　すると、程なく、何事もなかったような伝右衛門の顔が、にこやかに、そこにみえて、<lb />
+「そこへ一つ、その辺へ一つ」<lb />
+　と、納戸の者をさしずして、火鉢をすえさせた。金網のかかっている大きな<span type="ruby"><span type="rb">唐金</span><span type="rp">（</span><span type="rt">からかね</span><span type="rp">）</span></span>の火鉢である、それへ、<span type="ruby"><span type="rb">紅殻染</span><span type="rp">（</span><span type="rt">べんがらぞめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">小蒲団</span><span type="rp">（</span><span type="rt">こぶとん</span><span type="rp">）</span></span>をかけさせた。<lb />
+　ことばになど現わし得ない気持と――伝右衛門の身にかかる<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>めを気つかって、みんな、黙って首をさげていた。<lb />
+　ゆうべ、一番さきに、彼と懇意になった<span type="ruby"><span type="rb">富森助右衛門</span><span type="rp">（</span><span type="rt">とみのもりすけえもん</span><span type="rp">）</span></span>が何かのことから、内蔵助殿はあれで冬はとても寒がりやなので――と話したのを記憶していて、この<span type="ruby"><span type="rb">計</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>らいをしてくれたのだろう。好意どころか、生命がけの接待なのだ。一同は、火の暖かさよりも、伝右衛門の心に胸が熱くなった。<lb />
+「これで、夜に入っても、いくらかはおしのぎようござろう」<lb />
+　伝右衛門は、満足そうに、<lb />
+「――わけても、大石殿はの」<lb />
+　と、<span type="ruby"><span type="rb">柔和</span><span type="rp">（</span><span type="rt">にゅうわ</span><span type="rp">）</span></span>な笑顔を送った。<lb />
+　内蔵助は、遠くから、<lb />
+「伝右どの」<lb />
+　いっぱいな感謝が、その眼ざしと、その一礼とで相手の心に<span type="ruby"><span type="rb">映</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>った。<lb />
+「お気持は、頂戴いたした。しかし、公儀の御断罪を待つ私ども。……身に余りまする。お火鉢は、何とぞお<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>げおきを」<lb />
+「ははは。聞えましたな」<lb />
+「助右衛門が、いらざる無駄ばなし、寒さなど、とやこう申す境遇ではござらぬ」<lb />
+「御心配くださるな。唯今、上役と<span type="ruby"><span type="rb">口争</span><span type="rp">（</span><span type="rt">くちいさか</span><span type="rp">）</span></span>いはいたしたが、ちょうどそこへ、越中守様から、明日は御一同へも、<span type="ruby"><span type="rb">精進</span><span type="rp">（</span><span type="rt">しょうじん</span><span type="rp">）</span></span>をさし上げたいというお沙汰が下った。殿様御自身、<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あす</span><span type="rp">）</span></span>は、<span type="ruby"><span type="rb">愛宕</span><span type="rp">（</span><span type="rt">あたご</span><span type="rp">）</span></span>神社へ、御祈願に参られますそうな。……お分りであろう。……火鉢などは、問題でない。藤兵衛もそれを聞いて、<span type="ruby"><span type="rb">二言</span><span type="rp">（</span><span type="rt">にごん</span><span type="rp">）</span></span>とない顔。もう一切、お気づかい無用じゃ。さ、いささかながら、細川家の心づくし、あたって下さい、くつろいで、あたって下さい」<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">紫</span></span></span>
+<lb />
+　接伴役は、十九名いた。交代で非番をつくり、その日は、夕刻から家に帰って、休養することになっていた。<lb />
+　堀内伝右衛門は、<span type="ruby"><span type="rb">町住居</span><span type="rp">（</span><span type="rt">まちずまい</span><span type="rp">）</span></span>だった。いつも馬で、若党に<span type="ruby"><span type="rb">仲間</span><span type="rp">（</span><span type="rt">ちゅうげん</span><span type="rp">）</span></span>をつれ、<span type="ruby"><span type="rb">高輪</span><span type="rp">（</span><span type="rt">たかなわ</span><span type="rp">）</span></span>から細川家の上屋敷に近い町まで、わが家の寝床を思いながら、緩慢な<span type="ruby"><span type="rb">馬蹄</span><span type="rp">（</span><span type="rt">ひづめ</span><span type="rp">）</span></span>の音を楽しんで戻るのだった。<lb />
+　夕方の駕屋<span type="ruby"><span type="rb">溜</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>り、牛曳き、居酒屋、往来のどこへ耳を<span type="ruby"><span type="rb">傾</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>げても、今、江戸の話題は、赤穂浪士の讚美でもちきっている。伝右衛門は、それらの話をきくと、自分の名誉みたいに<span type="ruby"><span type="rb">欣</span><span type="rp">（</span><span type="rt">うれ</span><span type="rp">）</span></span>しかった。また、義挙の反映が、貧しい層にほど強く<span type="ruby"><span type="rb">浸</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>みとおっているのを知って、若党へ、<lb />
+「世間は、底の方ほど、頼もしいものじゃ。赤穂の衆を見ても、大石殿はべつじゃが、大野、奥野、千石どころの重臣に、節操のある奴はおらぬ。義士の多くは、みな軽輩じゃ。<span type="ruby"><span type="rb">肉食者</span><span type="rp">（</span><span type="rt">にくじきしゃ</span><span type="rp">）</span></span>いやしむべしと申すが、武士道は、<span type="ruby"><span type="rb">上層</span><span type="rp">（</span><span type="rt">うえ</span><span type="rp">）</span></span>になくて、<span type="ruby"><span type="rb">下層</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>にある。世の中を浄化する力も、国を支える力も、支権者にはのうて、無力な下層の方にあるというは、妙な話じゃぞ」<lb />
+　と、馬上からいった。<lb />
+　<span type="ruby"><span type="rb">年暮</span><span type="rp">（</span><span type="rt">くれ</span><span type="rp">）</span></span>の松や竹も、眼に映らないのである。辻や、橋の<span type="ruby"><span type="rb">畔</span><span type="rp">（</span><span type="rt">ほとり</span><span type="rp">）</span></span>で、人だかりを見ると、<lb />
+「落首だろう、読んで来い」<lb />
+　と、駒をとめた。<lb />
+　若党の佐介が、走って行って、<lb />
+「見て参りました」<lb />
+「なんとあった」<lb />
+「――細川や水野ながれは清けれど……」<lb />
+「ふむ」<lb />
+「――ただ<span type="ruby"><span type="rb">大甲斐</span><span type="rp">（</span><span type="rt">だいかい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">隠岐</span><span type="rp">（</span><span type="rt">おき</span><span type="rp">）</span></span>ぞにごれる」<lb />
+「ははあ、町人どもの勘は、怖いものじゃ。義士のお預けをうけた四家のうちでも、細川家と水野家は、情ある取扱いをしているが、毛利と松平の二家は、冷遇じゃという噂がある。さてこそ、その<span type="ruby"><span type="rb">諷刺</span><span type="rp">（</span><span type="rt">ふうし</span><span type="rp">）</span></span>であろう。ははははは、やりおるの」<lb />
+　伝右は、会心の時にやる独り合点を繰返して、<lb />
+「やりおるやりおる」<lb />
+　と、駒を、<span type="ruby"><span type="rb">金杉橋</span><span type="rp">（</span><span type="rt">かなすぎばし</span><span type="rp">）</span></span>へすすめた。橋の上へ立つと、寒い<span type="ruby"><span type="rb">潮</span><span type="rp">（</span><span type="rt">しお</span><span type="rp">）</span></span>の香と千鳥がそこらの川口から吹き上げた。<lb />
+「はてな、今日も――」<lb />
+　そこで彼が、眸を、反対な左の河岸へ<span type="ruby"><span type="rb">反</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>らした。<lb />
+　木枯らしに吹かれて、女は二つの長い袖を胸に掻きあわせていた。戸ざした<span type="ruby"><span type="rb">施米小屋</span><span type="rp">（</span><span type="rt">せまいごや</span><span type="rp">）</span></span>の蔭に立っているのである。寒々と、<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>の先や、裾がうごいた。そして、遠方からでもすぐ眼の中へとびこんで来るような江戸紫の<span type="ruby"><span type="rb">布</span><span type="rp">（</span><span type="rt">きれ</span><span type="rp">）</span></span>を、たらりと頭巾にしていた。<lb />
+　どこか淋しい影のある顔だちだった。若くて、水の垂れるほど美しい姿が、<span type="ruby"><span type="rb">片鴛鴦</span><span type="rp">（</span><span type="rt">かたおし</span><span type="rp">）</span></span>のように、悄然と、枯れ柳の下に凍ったまま、伝右衛門が橋を渡りきるまで、じいと、見送っているのだった。<lb />
+「どこの娘？」<lb />
+　伝右は、鞍つぼの上で、考えた。<lb />
+　町家の女ではなく、<span type="ruby"><span type="rb">身装</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>やもの腰は武家の娘である。しかし良家の子女が、ひとりであんな場所に<span type="ruby"><span type="rb">佇立</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>んでいるのはおかしい。<lb />
+　数えてみると、伝右衛門は、その江戸紫の頭巾を、これで何度見ているか分らなかった。<lb />
+　<span type="ruby"><span type="rb">白金</span><span type="rp">（</span><span type="rt">しろがね</span><span type="rp">）</span></span>の中屋敷の近くでも一、二遍、<span type="ruby"><span type="rb">札</span><span type="rp">（</span><span type="rt">ふだ</span><span type="rp">）</span></span>の辻あたりでも――またこの金杉橋では今日でもう三、四度。<lb />
+　ある時は、はっと、用ありげに眼を惑わせながら、そのくせ、近づいて来る気ぶりはなく、いつも濡れているような眸を投げて<span type="ruby"><span type="rb">佇立</span><span type="rp">（</span><span type="rt">たたず</span><span type="rp">）</span></span>んでいるきりだった。<lb />
+「品よく見せてはいるが、娼婦かも知れぬ」<lb />
+　そうも、考えられた。<lb />
+　<span rend="sesame_dot" rendition="em">どぎつい</span>元禄の風俗、華美な女、世相に浮いてる油のような表皮は、すべて軽薄なもの、腐敗をつつんだものと伝右衛門はきめていた。<lb />
+「――お帰り遊ばしませ」<lb />
+　式台には、いつも通り、妻の<span type="ruby"><span type="rb">磯女</span><span type="rp">（</span><span type="rt">いそじょ</span><span type="rp">）</span></span>と娘のお麗とが、指をついて迎えた。お麗の<span type="ruby"><span type="rb">笑顔</span><span type="rp">（</span><span type="rt">えがお</span><span type="rp">）</span></span>や、貞淑な妻のそれを見るだけで、もう彼の疲労は忘れてしまうのだった。<lb />
+　家庭にあっても、彼はむろんよい父であり、よい良人だった。行きとどいた調度や掃除にも、何不自由ない平和さがみえた。<lb />
+　が――ちらと不機嫌に、<lb />
+「修蔵は、また、留守か」<lb />
+　食膳につくと、すぐ訊ねた。<lb />
+　お磯が、晩酌の<span type="ruby"><span type="rb">一盞</span><span type="rp">（</span><span type="rt">いっさん</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">酌</span><span type="rp">（</span><span type="rt">しゃく</span><span type="rp">）</span></span>しながら、<lb />
+「書物を買いにといって出ましたが……」<lb />
+「書物を。――書物など、読んだこともないに。――また、<span type="ruby"><span type="rb">堺町</span><span type="rp">（</span><span type="rt">さかいちょう</span><span type="rp">）</span></span>の芝居町でもうろついているのじゃろう」<lb />
+「いえ、このごろは、よく御教訓を守って、道場の方も、励んでおりまする」<lb />
+「なんの、道場通いが、あてになろう。お前など、そんな浅はかゆえ、若い者の行状が分らんのだ。道場の門弟仲間と、悪所へ行くらしいという噂を聞いたぞ」<lb />
+「まだ、江戸が珍しいのでございます。友達に<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>いられて、見物ぐらいには参ったかも知れませぬ」<lb />
+「そう<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>うからいかん」<lb />
+　伝右衛門は、苦りきった。<lb />
+　国許の親戚の眼がねで、この春、江戸へ<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">のぼ</span><span type="rp">）</span></span>せてよこした若者だった。堀内家のあと目をつがせ、お麗に<span type="ruby"><span type="rb">夫</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>あわすに足る若者は、江戸の人間や都会の風に染まった在番にはないといって、剛健をもって誇る国許の熊本から選んだのである。二、三年ほど、手許において勉強させ、よかったら、決めようという相談の<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>に預かっていた。<lb />
+　戸田修蔵といって、国許では秀才だといってよこした親戚の添状どおり、頭もいいし、人品も、お磯の気に入っていた。それだけに、修蔵は早く江戸に同化した。一度、風呂屋遊びに行ったことが、伝右衛門の耳に入ってから、すっかり信用がなくなっていた。<lb />
+「まず、あれも駄目じゃの」<lb />
+　杯を、きぱと、膳にふせて、<lb />
+「あんな柔弱者なら、江戸にいくらでも、次男坊や三男坊の口がある。何もわざわざ」<lb />
+　ふすまが開いた。<lb />
+　娘のお麗が、<span type="ruby"><span type="rb">飯</span><span type="rp">（</span><span type="rt">いい</span><span type="rp">）</span></span>びつを寄せて坐ったので、伝右衛門は、口をつぐんでしまった。<lb />
+「お父様、ご酒は」<lb />
+「たくさんじゃ」<lb />
+「ご飯になさいますか」<lb />
+「む……む……貰おう」<lb />
+　黙々と、飯を噛む父の顔つきを見て、お麗は話題をさがすことに努めた。<lb />
+「お父様」<lb />
+「なんじゃ」<lb />
+「きょう、<span type="ruby"><span type="rb">露月町</span><span type="rp">（</span><span type="rt">ろげつちぃう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">研師</span><span type="rp">（</span><span type="rt">とぎし</span><span type="rp">）</span></span>が、この間お渡しあそばした十振の刀のうち、<span type="ruby"><span type="rb">祐定</span><span type="rp">（</span><span type="rt">すけさだ</span><span type="rp">）</span></span>と、無銘と、二本だけを仕上げて参りました。<lb />
+「そうか」<lb />
+「その時、刀屋も不審がっておりましたが、どうして、あんなに沢山の刀を、一時に<span type="ruby"><span type="rb">研</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>がせるのでございますか」<lb />
+「今にわかる」<lb />
+「でも合戦もないのに」<lb />
+「武士にとっては、常の日も<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">いくさ</span><span type="rp">）</span></span>の日も、けじめはない」<lb />
+「そして、あの刀屋は、面白いことを申しました」<lb />
+「なんというて」<lb />
+「御主人様には、この度は、赤穂浪士の接伴役とかにおなり遊ばして、まことに、お<span type="ruby"><span type="rb">羨</span><span type="rp">（</span><span type="rt">うらや</span><span type="rp">）</span></span>ましゅうございますと……」<lb />
+「ふむ」<lb />
+　伝右衛門は、硬ばった顔を<span type="ruby"><span type="rb">解</span><span type="rp">（</span><span type="rt">ほど</span><span type="rp">）</span></span>いて、初めて、いつもの笑みをたたえた。<lb />
+「代りを」<lb />
+　と、飯茶碗をだして、<lb />
+「ははは。わしの役目を、羨ましいとか」<lb />
+「刀屋ばかりではございません。呉服屋の番頭も、花道の師匠様も、出入りの八百屋までが、義士たちのためになら、どんなことでも尽したい。身代りになっても上げたい。――それの出来る御主人様は、お羨ましいと申すのでございます」<lb />
+「至誠は人をうつ。……そんなかのう」<lb />
+「その代り、うるさいことも訊かれて困ります。大石内蔵助様は、どんな顔だの、堀部様はどうだの」<lb />
+「ははは。見たいのじゃな」<lb />
+「いちばん困るのは、お<span type="ruby"><span type="rb">処刑</span><span type="rp">（</span><span type="rt">しおき</span><span type="rp">）</span></span>は、どう決まるであろうと、私に訊いたら分るかとでも思うて、探るのでございます」<lb />
+「何事も、知らぬというておけ」<lb />
+「でも世間の衆は、よると<span type="ruby"><span type="rb">触</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>ると、どう裁くか、わが身のことのように案じているので、時には、側で聞いていても、涙がこぼれることもございます。……ほんとにお父様、どう<span type="ruby"><span type="rb">決罪</span><span type="rp">（</span><span type="rt">きま</span><span type="rp">）</span></span>るのでしょう」<lb />
+「わからぬ」<lb />
+「遠島ぐらいでございましょうか」<lb />
+「さあ」<lb />
+「やはり、死罪でしょうか」<lb />
+「何とも、まだ」<lb />
+「死罪でも、打首か、切腹か、<span type="ruby"><span type="rb">磔刑</span><span type="rp">（</span><span type="rt">はりつけ</span><span type="rp">）</span></span>か」<lb />
+「いうな」<lb />
+　伝右衛門は、首を振った。<lb />
+「――お裁きは、御政道じゃ。将軍家や閣老方の慎重なるお考えにあること。われわれなどが口にすることでない」<lb />
+　だが、すっかり機嫌はなおって、伝右衛門は、やがて、のびのびと、安息の寝床に入った。<lb />
+　彼が、眠りかけると、<lb />
+「修蔵様、お帰り」<lb />
+　と、玄関の方で、お磯とお麗との声がした。<lb />
+　――帰ったのかな？<lb />
+　伝右衛門は、そう思ったが、修蔵の部屋に、人の入ったらしい跫音はしない。<lb />
+「ははあ」<lb />
+　と、伝右衛門は<span type="ruby"><span type="rb">覚</span><span type="rp">（</span><span type="rt">さと</span><span type="rp">）</span></span>っていた。<lb />
+　案の定、夜が更けてから、裏庭を開けて、そっと、寝所へ跫音が消えこんだ。それが、修蔵だった。<lb />
+「ちッ……」<lb />
+　と、彼は寝返りをうった。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">田作</span></span></span>
+<lb />
+　細川家の優遇を通して、世間のうわさだの、身寄りの消息だの、またその後の上杉家の態度などが分ると、十七士は、することもなく、一日ましに、藩の接伴役と、親しみを加えて行った。<lb />
+　伝右衛門は、<span type="ruby"><span type="rb">宿直</span><span type="rp">（</span><span type="rt">とのい</span><span type="rp">）</span></span>だった。<lb />
+　広間の方で、あまり愉快そうな笑い声がどよめくので、彼は、夕刻、お台所の方からそっと取り寄せておいた<span rend="sesame_dot" rendition="em">ごまめ</span>の<span type="ruby"><span type="rb">醤油煮</span><span type="rp">（</span><span type="rt">しょうゆに</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">唐辛子</span><span type="rp">（</span><span type="rt">とうがらし</span><span type="rp">）</span></span>をかけたのを、<span type="ruby"><span type="rb">蓋器</span><span type="rp">（</span><span type="rt">ふたもの</span><span type="rp">）</span></span>にいれ、のこのこと出向いて行った。<lb />
+「おう、お<span type="ruby"><span type="rb">賑</span><span type="rp">（</span><span type="rt">にぎ</span><span type="rp">）</span></span>やかなことでござるの」<lb />
+「や、伝右殿か」<lb />
+「伝右殿、ここへござれ」<lb />
+　下の間の若者達は、<span rend="sesame_dot" rendition="em">べんがら</span>染の<span type="ruby"><span type="rb">炬燵</span><span type="rp">（</span><span type="rt">こたつ</span><span type="rp">）</span></span>ぶとんを中心にかたまっていた。伝右衛門は、自分の息子たちを見廻すように、眼をほそくした。<lb />
+「いつも、お元気じゃの。――何か面白い話でもござったか」<lb />
+「あるわ、まあ、お坐りなされ」<lb />
+　<span type="ruby"><span type="rb">飄逸</span><span type="rp">（</span><span type="rt">ひょういつ</span><span type="rp">）</span></span>な、<span type="ruby"><span type="rb">片岡源五右衛門</span><span type="rp">（</span><span type="rt">かたおかげんごえもん</span><span type="rp">）</span></span>がいった。<lb />
+「――今の、近松勘六めが、<span type="ruby"><span type="rb">惚気</span><span type="rp">（</span><span type="rt">のろけ</span><span type="rp">）</span></span>をいうた」<lb />
+「それは近頃、珍しいことじゃの。して、どんな惚気？」<lb />
+「江戸詰の頃、他藩のお留守居とともに吉原とやら参って、ひどう、<span type="ruby"><span type="rb">妓</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>にもてなされ、帰されないで、弱ったことがあるといいおる」<lb />
+「はははは。この勘六殿がのう」<lb />
+　と、その勘六のそばへ坐った。炬燵の<span type="ruby"><span type="rb">温</span><span type="rp">（</span><span type="rt">ぬく</span><span type="rp">）</span></span>みが、あいあいと和気をたたえて、伝右衛門は、自分までが若やぐ気がした。<lb />
+　勘六は、討入の時、<span type="ruby"><span type="rb">吉良方</span><span type="rp">（</span><span type="rt">きらがた</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">猛者</span><span type="rp">（</span><span type="rt">もさ</span><span type="rp">）</span></span>と出会って、泉水に落ち、その時、小手に怪我をしたので、白布で左の腕を首に<span type="ruby"><span type="rb">吊</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>っていた。<lb />
+　頭を掻いて、<lb />
+「嘘、嘘」<lb />
+「<span type="ruby"><span type="rb">二言</span><span type="rp">（</span><span type="rt">にごん</span><span type="rp">）</span></span>をいうぞ、伝右殿が来たと思うて」<lb />
+「はははは」笑いながら、一人が、伝右衛門のそばにある<span type="ruby"><span type="rb">蓋器</span><span type="rp">（</span><span type="rt">ふたもの</span><span type="rp">）</span></span>を見つけて、<lb />
+「これは何じゃ」<lb />
+　伝右衛門は、蓋をとって、<lb />
+「<span type="ruby"><span type="rb">稀</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>に、かような茶うけも、よかろうかと存じて」<lb />
+「ほう、<span type="ruby"><span type="rb">田作</span><span type="rp">（</span><span type="rt">ごまめ</span><span type="rp">）</span></span>じゃ」<lb />
+「なに、田作」<lb />
+　と、一同は首をのばして、<lb />
+「よかろうどころか、これは珍品」<lb />
+「お一つ、おつまみなされ」<lb />
+　<span type="ruby"><span type="rb">赤埴源蔵</span><span type="rp">（</span><span type="rt">あかばねげんぞう</span><span type="rp">）</span></span>が、毒味といいながら、一つ<span type="ruby"><span type="rb">摘</span><span type="rp">（</span><span type="rt">つま</span><span type="rp">）</span></span>んで、<lb />
+「これや<span rend="sesame_dot" rendition="em">おつ</span>だぞ。唐辛子がきいておる。――いや、ちと<span type="ruby"><span type="rb">利</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>きすぎる」<lb />
+　と眼をこすった。<lb />
+「<span type="ruby"><span type="rb">美味</span><span type="rp">（</span><span type="rt">うま</span><span type="rp">）</span></span>い、香ばしゅうて」<lb />
+「源蔵に涙をこぼさすなどは、<span rend="sesame_dot" rendition="em">おつ</span>な田作じゃ」<lb />
+　案外、評判がいいので、伝右衛門は欣しかった。すると、沈黙していた上の間の方から、吉田忠左衛門が、<lb />
+「伝右殿。<span type="ruby"><span type="rb">其許</span><span type="rp">（</span><span type="rt">そこもと</span><span type="rp">）</span></span>は、若い者がお好きで困る。ちと、老人組の方へも、お話しにおいで下され」<lb />
+「いや、これは失礼」<lb />
+　と、伝右衛門が、真面目にうけて、田作の<span type="ruby"><span type="rb">蓋物</span><span type="rp">（</span><span type="rt">ふたもの</span><span type="rp">）</span></span>を持って立ったので、二間とも、くずれるように笑った。<lb />
+　その声に、眼をさましたか、同じ色の<span rend="sesame_dot" rendition="em">べんがら</span>色の<span type="ruby"><span type="rb">炬燵</span><span type="rp">（</span><span type="rt">こたつ</span><span type="rp">）</span></span>ぶとんに、横顔を当てていた内蔵助も、ふと、顔を上げた。<lb />
+　堀部弥兵衛は、眼鏡を<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>して、<lb />
+「耳よりなお<span type="ruby"><span type="rb">肴</span><span type="rp">（</span><span type="rt">さかな</span><span type="rp">）</span></span>、こちらへも、ちと、頂戴しておきたいものじゃ」<lb />
+「ささ、どうぞ」<lb />
+「わしも、酒の折に」<lb />
+　<span type="ruby"><span type="rb">小野寺十内</span><span type="rp">（</span><span type="rt">おのでらじゅうない</span><span type="rp">）</span></span>は、うやうやしく、懐紙を出して、四、五匹の田作をそれへ取り<span type="ruby"><span type="rb">頒</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>けて包んだ。<lb />
+　間瀬久太夫は、<span type="ruby"><span type="rb">箸</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>へとって、むしゃむしゃ試みながら、<lb />
+「なるほど、これは結構。久しぶりで、<span type="ruby"><span type="rb">惣菜</span><span type="rp">（</span><span type="rt">そうざい</span><span type="rp">）</span></span>らしい物を食うた」<lb />
+　むろん、何気なく出たのだが、久太夫のことばに、一同は、はっとしたようだった。死を待つ国法の罪人に、過分とも何とも、これ以上は、好意の表現がないほど、優遇を尽してくれている細川家に対し、また接伴役の家士に対して、今のことばが、ちょっとでも、不平とひびいては申し訳ないという気持が、期せずして、誰の眉にも、ぴりっとうごいたのであった。<lb />
+　だが、伝右衛門は、そんな神経は持ち合せてもいないように、むしろ、そういって貰った事が欣しい顔つきで、<lb />
+「ほう。ひどくお気に召されたの。てまえも、非番の日は、ちと、晩酌をやりまするで、<span type="ruby"><span type="rb">上戸</span><span type="rp">（</span><span type="rt">じょうご</span><span type="rp">）</span></span>の舌は、わかるとみえる。――だが、田作の唐辛子煮など、余り失礼物ゆえ、どうかと思うて――」<lb />
+　すると、内蔵助が、<lb />
+「伝右殿」<lb />
+　炬燵ぶとんを<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>けて、静かに、真四角な膝を前へすすめて来たので、伝右衛門は、ここへ来ると、つい<span type="ruby"><span type="rb">寛</span><span type="rp">（</span><span type="rt">くつろ</span><span type="rp">）</span></span>いでしまう自分を、急に、引き緊めながら、<lb />
+「はっ、何ぞ？」<lb />
+　と、べつな返辞をした。<lb />
+　内蔵助は、いい<span type="ruby"><span type="rb">難</span><span type="rp">（</span><span type="rt">にく</span><span type="rp">）</span></span>そうに、<lb />
+「まことに、<span type="ruby"><span type="rb">吾儘</span><span type="rp">（</span><span type="rt">わがまま</span><span type="rp">）</span></span>らしい申し出でござるが――」<lb />
+「はい」<lb />
+「われら、永年の浪人暮し、粗衣粗食に馴れて参ったせいか、御当家より朝夕頂戴いたしおります二汁五菜のお料理は、結構すぎて、ちと重うございます。<span type="ruby"><span type="rb">匹夫</span><span type="rp">（</span><span type="rt">ひっぷ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">贅</span><span type="rp">（</span><span type="rt">ぜい</span><span type="rp">）</span></span>に飽いたかの如き、勿体ない申し分でござるが、以後は、一汁一菜か、二菜、それも、<span rend="sesame_dot" rendition="em">ちさ</span>汁、<span type="ruby"><span type="rb">糠味噌漬</span><span type="rp">（</span><span type="rt">ぬかみそづけ</span><span type="rp">）</span></span>などの類にて、仰せつけ下さるよう、お膳番へ、お頼み申しあげまする」<lb />
+　弥兵衛、惣右衛門、十内なども、尾についていった。<lb />
+「そうじゃ、そう願いたいよ」<lb />
+「実を申すと、毎日の御馳走には、少々、参った形でござる」<lb />
+　伝右衛門は、笑いだした。<lb />
+「それでは、<span type="ruby"><span type="rb">贔屓</span><span type="rp">（</span><span type="rt">ひいき</span><span type="rp">）</span></span>のひき倒しというやつでござるの」<lb />
+「そうそう、それに、書見のほか、ほとんど身動きもせぬ体じゃ」<lb />
+「ところが、二汁五菜は、太守のお声がかりでござれば、これや、一存で<span type="ruby"><span type="rb">減</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span>らすわけにはゆかず……。それに加えて、御台所はいうに及ばず、料理人どもは、何でもかでも、各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />方に欣んでいただきたいと、腕によりをかけ、必死に、<span type="ruby"><span type="rb">美味</span><span type="rp">（</span><span type="rt">うま</span><span type="rp">）</span></span>い物を、美味い物をと作りますので――」<lb />
+「いやあ、愈<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />、弱る」<lb />
+「ちと、お体を動かすことが出来ればよろしいが、それだけは、公儀のてまえ。……定めし、外気にも、飢えましょうの」<lb />
+　沈黙家の<span type="ruby"><span type="rb">奥田孫太夫</span><span type="rp">（</span><span type="rt">おくだまごだゆう</span><span type="rp">）</span></span>が、隅の方から初めて口を出した。<lb />
+「毎晩、足の土踏まずが、かさかさして<span type="ruby"><span type="rb">閉口</span><span type="rp">（</span><span type="rt">へいこう</span><span type="rp">）</span></span>でござる。われら、今は何の慾もない。<span type="ruby"><span type="rb">裸足</span><span type="rp">（</span><span type="rt">はだし</span><span type="rp">）</span></span>で土がふみとうござる」<lb />
+「ご尤もじゃ。御当家はお庭も広し、品川の海も<span type="ruby"><span type="rb">一望</span><span type="rp">（</span><span type="rt">ひとめ</span><span type="rp">）</span></span>。近火のせつは、各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />を庭へ集める御規則ゆえ、火事でもあれば、庭を、御案内いたそうものを……」<lb />
+　<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>みりと、伝右衛門はいった。そして、<lb />
+「オ、お時計が鳴った。お寝みなされ」<lb />
+　と立ちかけたが、また戻って来て、<lb />
+「――申し忘れたが、明日より、お奥の役者の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>に、大工どもが入りますが、兇事ではござらぬゆえ、お気にかけぬように」<lb />
+　と、断って、詰所へ退がった。<lb />
+　<span type="ruby"><span type="rb">小屏風</span><span type="rp">（</span><span type="rt">こびょうぶ</span><span type="rp">）</span></span>が、幾つも取り出された。<lb />
+　内蔵助は、茶色のちりめん頭巾をかぶって上の間の床脇へ寝るのだった。下の間は、寝つきが早く、すぐ静かになったが、上の間では、<span type="ruby"><span type="rb">咳</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>の声がなかなか絶えない。<lb />
+　潮田又之丞は、寝入ると、歯ぎしりする癖があって、よくからかわれた。一番老年で、ことし七十六歳になる堀部弥兵衛老人が、ある夜、<lb />
+「えーいっ。えーいっ」<lb />
+　ふた声、<span type="ruby"><span type="rb">寝言</span><span type="rp">（</span><span type="rt">ねごと</span><span type="rp">）</span></span>で人を斬るような気合をかけたので、若者部屋の者が、がばっと、総立ちに起き上がって、<span type="ruby"><span type="rb">夜半</span><span type="rp">（</span><span type="rt">よなか</span><span type="rp">）</span></span>に、大笑いをしたこともあった。<lb />
+　<span type="ruby"><span type="rb">厠</span><span type="rp">（</span><span type="rt">かわや</span><span type="rp">）</span></span>に立つほか、昼間、何もせぬ体であっても、夜はやはり眠ることが楽しかった。お預けの身になって、二、三日の間は、瞼をつぶると、白い雪と、刀とが、ちらついて<span type="ruby"><span type="rb">為方</span><span type="rp">（</span><span type="rt">しかた</span><span type="rp">）</span></span>がないと誰もが同じことをいったが、次には、やがて来る死に対して、深刻に、考えるくせがついた。若い人々ほど、それを考えた。老人は、同時に、自分の生涯の出来事から死までを、毎晩、絵本でも繰るように憶い出し、<span type="ruby"><span type="rb">咳声</span><span type="rp">（</span><span type="rt">しわぶき</span><span type="rp">）</span></span>のやむのと同時に眠った。<lb />
+　けれど、ほど経つと、もう考える問題が何もなくなった。死は、白い紙を見るように当り前な観念になった。――床に入って寝つくのが、誰も早くなって、すやすやと十七人の寝息がそろった。そして、その一つ一つの小屏風のうちへ、四家の大名に分れて同じ境遇にある我が子や、友や、また<span type="ruby"><span type="rb">故郷</span><span type="rp">（</span><span type="rt">ふるさと</span><span type="rp">）</span></span>の母や、兄弟が、夢になって、こっそりと、忍びこんだ。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">十郎左</span></span></span>
+<lb />
+　朝。<lb />
+　ああまだ俺は生きている。<lb />
+　陽を見ると、誰もそう思った。ゆうべの夢を話す者はなかった。<lb />
+　よほど、欣しいことがあるとみえて、伝右衛門が、にこにこ顔で、何か抱えて来た。<lb />
+「御一同、今日から、お<span type="ruby"><span type="rb">煙草</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>のおゆるしが出ましたぞ」<lb />
+　これは、確かに、<span type="ruby"><span type="rb">福音</span><span type="rp">（</span><span type="rt">ふくいん</span><span type="rp">）</span></span>だった。<lb />
+　ここにいる者、ほとんどが、煙草ずきだったが、大守の越中守は煙草嫌いで、禁煙は、藩風のようになっていた。――それを、伝右衛門はどうかして殿の許可を得て来たのである。<lb />
+　接客用の提げ煙草盆、見事な<span type="ruby"><span type="rb">蒔絵</span><span type="rp">（</span><span type="rt">まきえ</span><span type="rp">）</span></span>で、<span type="ruby"><span type="rb">青磁</span><span type="rp">（</span><span type="rt">せいじ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">火屋</span><span type="rp">（</span><span type="rt">ほや</span><span type="rp">）</span></span>がはいっている。<span type="ruby"><span type="rb">煙管</span><span type="rp">（</span><span type="rt">きせる</span><span type="rp">）</span></span>をそえて、上の間と、下の間へさし出し、<lb />
+「備えおくわけには参りませぬが、ご所望の時には、いつでも、さし出しまする。さ、十分におすい下さい」<lb />
+「は……」<lb />
+　何かしら、<span type="ruby"><span type="rb">粛然</span><span type="rp">（</span><span type="rt">しゅくぜん</span><span type="rp">）</span></span>として、皆うつ向いた。多感で、<span type="ruby"><span type="rb">実篤</span><span type="rp">（</span><span type="rt">じっとく</span><span type="rp">）</span></span>な奥田孫太夫は、眼をしばたたいているし、堀部老人は、後ろを向いて、鼻紙を鳴らした。<lb />
+「さ、さ、どうぞ」<lb />
+「御好意に甘えて、大石殿から先に参らせましょう」と原惣右衛門が、<span type="ruby"><span type="rb">推</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>しいただいた。<lb />
+　しばらくの間、ゆるい、紫いろの煙が、上の間からも、下の間からも流れた。<lb />
+「今年も、暮れますのう」<lb />
+　<span type="ruby"><span type="rb">早水藤左衛門</span><span type="rp">（</span><span type="rt">はやみとうざえもん</span><span type="rp">）</span></span>が、煙のゆくえを見ながら話した。<lb />
+「されば……」<lb />
+　と、伝右衛門は、何かいいかけたが、口をつぐんで、ふと、奥の物音にこういった、<lb />
+「大工がはいって、お騒がしゅうござろう。その代り、初春は早々、あちらの役者の間へお移りができまする。ここは、暗うござるが、あちらなれば、庭も見え、空も見え……」<lb />
+　と、いいかけて、<lb />
+「源蔵殿、どうなされた」<lb />
+　体を、無性に掻いていた赤埴源蔵が、<lb />
+「<span type="ruby"><span type="rb">小瘡</span><span type="rp">（</span><span type="rt">こがさ</span><span type="rp">）</span></span>ができましてな。<span type="ruby"><span type="rb">痒</span><span type="rp">（</span><span type="rt">かゆ</span><span type="rp">）</span></span>うてたまらぬ」<lb />
+「それやお辛うござろう。なぜはやく仰っしゃらぬ。典医に申して、塗り薬をとって来て進ぜよう」<lb />
+　立ちかけると、<lb />
+「伝右殿、伝右殿、おついでに、十郎左へも、一服お<span type="ruby"><span type="rb">遣</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>わし下されませ」<lb />
+　と、誰かいった。<lb />
+「十郎左殿も？」<lb />
+　と見まわすと、この中では一番の年少者で<span type="ruby"><span type="rb">眉目</span><span type="rp">（</span><span type="rt">びもく</span><span type="rp">）</span></span>の清秀な<span type="ruby"><span type="rb">磯貝</span><span type="rp">（</span><span type="rt">いそがい</span><span type="rp">）</span></span>十郎左衛門が少し、青白い顔して、片手で腹を抑えていた。<lb />
+「御病気か」<lb />
+「いいえ、少々ばかり」<lb />
+　十郎左は、首を振った。<lb />
+　そばの者が、<lb />
+「<span type="ruby"><span type="rb">尾籠</span><span type="rp">（</span><span type="rt">びろう</span><span type="rp">）</span></span>でござるが、十郎左は、<span type="ruby"><span type="rb">下痢</span><span type="rp">（</span><span type="rt">げり</span><span type="rp">）</span></span>気味なのでござる。両三日、我慢いたしておりますが、お手当を」<lb />
+「なぜ、我慢などなさる。左様に、お親しみ下さらぬと、伝右めは、殿のお心持を、十分にお取次ができませぬ。役目の落度と申すもの。どうか、もっとお心易く、用事を仰せつけ下さらぬと困る」<lb />
+「これから、気をつけまする」<lb />
+　叱られたように、十郎左が、真顔で謝ったので、側の者も、伝右衛門も笑った。十郎左は、顔を<span type="ruby"><span type="rb">赧</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>らめて、少年みたいにもじもじした。<lb />
+　朝夕、世話をしているせいか、伝右衛門は、今ではまったく、この人々を、他人とは思えなくなっていた。とりわけ、この磯貝十郎左衛門には、一番年少者であるせいか、自分の子みたいな愛着があった。――ふと、胸の中で、一人娘のお麗の顔と、十郎左の顔とを、並べてみたりした。<lb />
+「――年といえば、熊本から来た修蔵めと、何歳の違いもないに」<lb />
+　と、思った。<lb />
+　また、ある夜のつれづれに、堀部老人から十郎左の身の上話を聞いたことも手伝っていた。何でも、十郎左は、十四歳の時に堀部老人の推挙で、<span type="ruby"><span type="rb">内匠頭</span><span type="rp">（</span><span type="rt">たくみのかみ</span><span type="rp">）</span></span>の小姓に上ったのが奉公の初めで、浪士のうちの多数は、<span type="ruby"><span type="rb">軽輩</span><span type="rp">（</span><span type="rt">けいはい</span><span type="rp">）</span></span>でも、二代、三代の重恩をうけているが、十郎左などは、君家には、極めて、御恩の浅い方で、復讐に加盟しなくとも、誰も、<span type="ruby"><span type="rb">誹</span><span type="rp">（</span><span type="rt">そし</span><span type="rp">）</span></span>る者はないくらいな位置であった。それが、江戸へ出ては、<span type="ruby"><span type="rb">前原伊助</span><span type="rp">（</span><span type="rt">まえばらいすけ</span><span type="rp">）</span></span>などと共に、町人姿になり、吉良家の内部へ出入りして、一番至極な役目とされていた密偵の役目を完全に果したというのである。<lb />
+　その、密偵の仕事のうちでも、最も、探り得なかったのは、吉良上野介の寝室の位置だった。<lb />
+　討入を決するまでに、どれほど、それを知ることに、同志の者が、苦心したか、想像のほかだった。――それを、最後に、突きとめて、味方に、<lb />
+「よし」<lb />
+　と、最後の準備をさせたのも、十郎左の<span type="ruby"><span type="rb">殊勲</span><span type="rp">（</span><span type="rt">しゅくん</span><span type="rp">）</span></span>だと聞いているし、その夜、堀部安兵衛と裏門にまわって、得意の槍をふるって駈け入った武者振りやあの討入の騒動の中で、吉良家の<span type="ruby"><span type="rb">飼人</span><span type="rp">（</span><span type="rt">かいびと</span><span type="rp">）</span></span>をとらえて、蝋燭に灯をともさせた落着きぶりも、十郎左の性格そのものだと聞いている。<lb />
+　また、吉良の<span type="ruby"><span type="rb">首</span><span type="rp">（</span><span type="rt">しるし</span><span type="rp">）</span></span>をあげて、泉岳寺へひき揚げてくる途中、金杉橋までくると、内蔵助が、十郎左をさし招いて、<lb />
+「ちょっと、母の顔を見てこい」<lb />
+　と、いったが、かぶりを振って、十郎左は行かなかったという話や――それらが、いつとはなく、特に、伝右衛門が彼を好く原因にもなっていたには違いなかった。金杉橋から、たった一足の<span type="ruby"><span type="rb">将監橋</span><span type="rp">（</span><span type="rt">しょうげんばし</span><span type="rp">）</span></span>の裏長屋に、十郎左を、目の中に入れるほど可愛がって育てた母の<span type="ruby"><span type="rb">貞柳</span><span type="rp">（</span><span type="rt">ていりゅう</span><span type="rp">）</span></span>が、ひとりで住んでいるのを、内蔵助は、知っていたのである。――非番の日に、そこを馬で通ると、伝右衛門はよく、<lb />
+「この辺だな」<lb />
+　と、思い出す話でもあった。<lb />
+　だが、朝夕、こうして同じ屋敷に暮しながら観察していると、十郎左は、美貌だし、なで肩だし、一体、どこにそんな剛気がかくれているのか、不思議に思えた。――今だって、側の者が、下痢だといったのを、まるで、処女のように、<span type="ruby"><span type="rb">赧</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>くなって、<span type="ruby"><span type="rb">羞恥</span><span type="rp">（</span><span type="rt">はにか</span><span type="rp">）</span></span>むのである。<lb />
+　――男が惚れる男だ。<lb />
+　伝右衛門は、つい、じっと見つめてしまった。お麗の姿を、彼のそばに描いて……。<lb />
+「どれ、それでは、典医を連れてまいろう。その方が、早かろう」<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">一つの青春</span></span></span>
+<lb />
+　正月になった。<lb />
+　松の内が過ぎると、閣老や世間のあいだに<span type="ruby"><span type="rb">醸</span><span type="rp">（</span><span type="rt">かも</span><span type="rp">）</span></span>されていた「赤穂浪人御処置」の問題は、俄然、表面化してきた。世人は、その論議に熱した。<lb />
+　評定所の十四人衆から、閣老へさし出した意見書の眼目は、<lb />
+　浪士助命説。<lb />
+　だった。赤穂浪人の挙は、君臣の美徳を高揚したもので、これに、死を与えることは、道徳に死を与えるも同じである。また、赤穂浪人の行動は、<span type="ruby"><span type="rb">御条目</span><span type="rp">（</span><span type="rt">ごじょうもく</span><span type="rp">）</span></span>――武家諸法度の作法を一点も<span type="ruby"><span type="rb">紊</span><span type="rp">（</span><span type="rt">みだ</span><span type="rp">）</span></span>してはいない。だから、徒党の暴挙でないというのだった。<lb />
+　それは、民間の輿論と、ほとんど同じ気持だった。将軍家すらも、内心、御同意という噂がある。<lb />
+　だが、強硬な反対説もあらわれた。<lb />
+　多くは、学者である。学府の中でも、最高権威者、<span type="ruby"><span type="rb">荻生</span><span type="rp">（</span><span type="rt">おぎゅう</span><span type="rp">）</span></span>惣右衛門はまっ先に、<lb />
+　浪士死罪。<lb />
+　を主張した。<lb />
+　理由は、「法」の尊厳である。<lb />
+　<span type="ruby"><span type="rb">寸毫</span><span type="rp">（</span><span type="rt">すんごう</span><span type="rp">）</span></span>、犯すべからずと迫るのだった。<lb />
+　幕府は、義と法の重さに迷った。老中の意見も二分するし、ここに、上杉家という白眼で見ている一派もある。<lb />
+　だが、世間は輿論をあげて、浪士の助命を信じた。殊に細川家などは、台所役人から、太守までが、殺したくないので、胸がいっぱいだった。太守自身、神にまで、祈願した程であるから、情熱的に、<lb />
+「助かる」「助かりましょう」<lb />
+　と、いいあった。<lb />
+　で、ひそかに、<lb />
+　――<span type="ruby"><span type="rb">御赦免</span><span type="rp">（</span><span type="rt">ごしゃめん</span><span type="rp">）</span></span>となった時。<lb />
+　――遠島に処せられた時。<lb />
+　――死罪の時。<lb />
+　三つの場合を予想して、急場に、まごつかない準備をしていた。<lb />
+　伝右衛門などは、殊に、十七士が細川家に<span type="ruby"><span type="rb">永預</span><span type="rp">（</span><span type="rt">ながあず</span><span type="rp">）</span></span>けになる場合は、当然お召抱えの沙汰があろうし、また、時服と同時に、大小の入用はきまっているから、その時に役立つようにと、秘蔵の古刀、新刀十本を、<span type="ruby"><span type="rb">疾</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>くから刀屋へ手入れにやって、独りで、澄ましこんでいた。<lb />
+「梅が咲いたの。――あの衆に、はやく、晴々と、今年の花を見せたいが」<lb />
+　もう、一月の末。<lb />
+　その日も、非番で、伝右衛門は自宅へ戻るところだった。<lb />
+　金杉まで来ると、若党が、<lb />
+「あれ、旦那様、また」<lb />
+　鞍つぼへ寄って、主人の袴を引いた。将監橋の上に、くっきりと、濃い紫、白い顔が、見えた。<lb />
+「ウーム、気狂いじゃろう」<lb />
+「この辺でも、そう申しておりまする」<lb />
+「若いのう」<lb />
+「<span type="ruby"><span type="rb">怖</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>い<span type="ruby"><span type="rb">程</span><span type="rp">（</span><span type="rt">ほど</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>い<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>で」<lb />
+「<span type="ruby"><span type="rb">不愍</span><span type="rp">（</span><span type="rt">ふびん</span><span type="rp">）</span></span>な……。ちょうど、お麗と、同じ年ぐらいではないか」<lb />
+「お嬢様と申せば、お嬢様も近頃は、どこか御気分がすぐれぬように存じますが」<lb />
+「そちの眼にも、<span type="ruby"><span type="rb">痩</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>せたとみえるか」<lb />
+「ちと、御血色が」<lb />
+「うむ……」<lb />
+　帰ると、きょうは修蔵もいた。お麗と母と、顔を<span type="ruby"><span type="rb">揃</span><span type="rp">（</span><span type="rt">そろ</span><span type="rp">）</span></span>えて出迎えた。<lb />
+　機嫌がいい。<lb />
+　しかし、修蔵には、余りものもいわず、晩酌がすむと、すぐに寝室へ入った。<lb />
+　かなり眠ったつもりだが、近くの太鼓は、まだ<span type="ruby"><span type="rb">夜半</span><span type="rp">（</span><span type="rt">よなか</span><span type="rp">）</span></span>には早かった。といっても、家人は皆、床についたはずなのに、裏庭で、物音がする。戸……跫音……。<lb />
+「修蔵だな」<lb />
+　直感に、首をあげて、<lb />
+「このごろは、だんだん遊び上手になって、わしが寝かけてから、抜け出しおる。よし、今夜――」<lb />
+　<span type="ruby"><span type="rb">提</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>げ<span type="ruby"><span type="rb">刀</span><span type="rp">（</span><span type="rt">がたな</span><span type="rp">）</span></span>で、雨戸を開けた。<lb />
+　<span type="ruby"><span type="rb">母屋</span><span type="rp">（</span><span type="rt">おもや</span><span type="rp">）</span></span>の裏から、迅い人影が、庭木のなかへ隠れた。伝右衛門は、とび降りて<span type="ruby"><span type="rb">裸足</span><span type="rp">（</span><span type="rt">はだし</span><span type="rp">）</span></span>のまま、そこへ駈けた。<lb />
+「誰だっ。――盗賊か、修蔵か、これへ出いっ」<lb />
+　ずるずると、襟がみをつかんで、ひきずり出すと、<lb />
+「あっ、おゆるしを」<lb />
+「修蔵だの。……こらッ」<lb />
+「…………」<lb />
+「卑怯者、顔を上げい。……何じゃ、何じゃ、その<span type="ruby"><span type="rb">懐中</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>から落して隠した物は。見せろ」<lb />
+「あっ、こればかりは」<lb />
+　修蔵は、両手で<span type="ruby"><span type="rb">懐中</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>を抱えた。その肩を、伝右衛門は思わずかっとして蹴った。お麗の大事にしている<span type="ruby"><span type="rb">手筥</span><span type="rp">（</span><span type="rt">てばこ</span><span type="rp">）</span></span>が、転がった。銀の<span type="ruby"><span type="rb">平打</span><span type="rp">（</span><span type="rt">ひらうち</span><span type="rp">）</span></span>だの、べっ甲の<span type="ruby"><span type="rb">櫛</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>だのが散らばった。<lb />
+「や……娘の」<lb />
+　こめかみに、青白い怒りを走らせて、伝右衛門は、修蔵の襟がみを掴み直した。<lb />
+「おのれ、浅ましい奴。娘の部屋から、遊びの<span type="ruby"><span type="rb">代</span><span type="rp">（</span><span type="rt">しろ</span><span type="rp">）</span></span>に、これを、盗みおったな。盗賊の所業じゃ。この、盗賊めがっ」<lb />
+「お父様っ……」<lb />
+　ふいに、彼の足もとへ、お麗が走りよって泣き倒れた。<lb />
+「私が、上げたのでございます。修蔵様に」<lb />
+「な、なんじゃと、……貴様が、修蔵にやった？」<lb />
+「はい、どうしても、お<span type="ruby"><span type="rb">要用</span><span type="rp">（</span><span type="rt">いりよう</span><span type="rp">）</span></span>だというお話なので」<lb />
+「たわけ者っ！」<lb />
+　<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ひたい</span><span type="rp">）</span></span>から、呶鳴りつけて、<lb />
+「母をよべっ。――お磯っ」<lb />
+「はい……」<lb />
+　後ろに来て、悄然としていた。<lb />
+「お前も、お前だぞっ。よう聞けっ、この馬鹿娘が、この<span type="ruby"><span type="rb">遊蕩児</span><span type="rp">（</span><span type="rt">ゆうとうじ</span><span type="rp">）</span></span>に、遊びの<span type="ruby"><span type="rb">代</span><span type="rp">（</span><span type="rt">しろ</span><span type="rp">）</span></span>を、<span type="ruby"><span type="rb">貢</span><span type="rp">（</span><span type="rt">みつ</span><span type="rp">）</span></span>いでおるのじゃっ。――貴様っ、母として、なぜそんなことに気づかん。不行届き千万なっ」<lb />
+「お詫びいたしまする。まったく、私の……」<lb />
+「<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>ぬるいっ。そんな<span type="ruby"><span type="rb">詫言</span><span type="rp">（</span><span type="rt">わびごと</span><span type="rp">）</span></span>で済もうか。そちと、お麗の<span type="ruby"><span type="rb">糺明</span><span type="rp">（</span><span type="rt">きゅうめい</span><span type="rp">）</span></span>は、後でする。――まず修蔵だ」<lb />
+　手を離して、<lb />
+「修蔵、出て行けっ」<lb />
+「…………」<lb />
+　しゅくっと、お麗が泣いたのに誘われて、お磯も、修蔵も、涙をながした。<lb />
+「見るも、けがれだっ。おのれのような<span type="ruby"><span type="rb">柔弱</span><span type="rp">（</span><span type="rt">にゅうじゃく</span><span type="rp">）</span></span>武士に、赤穂の衆の爪の垢でも<span type="ruby"><span type="rb">煎</span><span type="rp">（</span><span type="rt">せん</span><span type="rp">）</span></span>じてのませたら、少しは、人間らしい魂にもなろうか。ちっとは、世間で、あの衆の噂もその耳に聞くであろうに、呆れかえった大馬鹿。――いやいや、もう何もいうまい、即刻熊本へ帰れ」<lb />
+「申しわけがございませぬ。まったく、同門のお友達と、近頃、酒をのみ覚えまして」<lb />
+「いい訳がましいことを申すな。行けといったら、行けっ。――これお磯、笠と<span type="ruby"><span type="rb">草鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span>、それに路銀をつかわせ」<lb />
+「あなた……」<lb />
+「早くいたせっ」<lb />
+「でも、あまりといえば」<lb />
+「今宵ばかりは、<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>いだて、一切ならぬ。わしは、苦々しい我慢をきょうまでしていたのだ。そちが出さねば、わし自身、笠、草鞋を背負わせて<span type="ruby"><span type="rb">抓</span><span type="rp">（</span><span type="rt">つま</span><span type="rp">）</span></span>み出すぞッ」<lb />
+　いいすてると、伝右衛門は、風呂場で足を洗って、寝てしまった。<lb />
+　明くる日、出役の間際に、<lb />
+「修蔵めは、出て<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>せたか」<lb />
+「はい……。<span type="ruby"><span type="rb">不愍</span><span type="rp">（</span><span type="rt">ふびん</span><span type="rp">）</span></span>ではございますが<span rend="notes">［＃「<span type="ruby"><span type="rb">不愍</span><span type="rp">（</span><span type="rt">ふびん</span><span type="rp">）</span></span>ではございますが」は底本では「<span type="ruby"><span type="rb">不愍</span><span type="rp">（</span><span type="rt">ふびん</span><span type="rp">）</span></span>ではごさいますが」］</span>、仰せのよう……」<lb />
+　母と娘は、悄然と答えた。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70"><span type="ruby"><span type="rb">敦盛</span><span type="rp">（</span><span type="rt">あつもり</span><span type="rp">）</span></span></span></span></span>
+<lb />
+　二月に入って、二日の晩だった。伝右衛門が、ちらと、用事に姿をみせると、上の間から、<lb />
+「オオよい所へ。伝右どの、これへ」<lb />
+　珍しく、内蔵助が、呼ぶのである。それも、いつになく、ほがらかに。<lb />
+　見ると、酒が出ている。<lb />
+　甘党の赤埴源蔵、吉田忠左衛門、堀部老人、小野寺、間瀬の人々は甘みぞれを飲んでいた。無言<span type="ruby"><span type="rb">居士</span><span type="rp">（</span><span type="rt">こじ</span><span type="rp">）</span></span>の奥田孫太夫までが、今夜は、ひどくニコニコしているのだった。<lb />
+「お杯を下さるとか」<lb />
+　伝右衛門が坐ると、<lb />
+「されば。――十郎左、その杯を、伝右殿に」<lb />
+「はい」<lb />
+　<span type="ruby"><span type="rb">酌</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>ぐと<span type="ruby"><span type="rb">欣</span><span type="rp">（</span><span type="rt">うれ</span><span type="rp">）</span></span>しげに、<lb />
+「十郎左どのの杯じゃの」<lb />
+　伝右衛門は、干して返した。<lb />
+　十郎左は、手を振って、<lb />
+「もう、参りました」<lb />
+「磯貝、卑怯」<lb />
+　と、下の間で、近松勘六がさけんだ。<lb />
+　伝右衛門は、手をのばして、<lb />
+「これはいかな事。<span type="ruby"><span type="rb">酌</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>した杯、取らぬ法やある」<lb />
+「でも、今宵は、<span type="ruby"><span type="rb">飲</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>べ<span type="ruby"><span type="rb">酔</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>うてござります。伝右殿、ゆるしませい」<lb />
+　と、廊下へ逃げた。<lb />
+　内蔵助は笑いながら、<lb />
+「いやいや、十郎左は、あのような<span type="ruby"><span type="rb">優男</span><span type="rp">（</span><span type="rt">やさおとこ</span><span type="rp">）</span></span>でござるが、酒は、したたかに<span type="ruby"><span type="rb">飲</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>りまするぞ。伝右殿、お逃がしあるな」<lb />
+「返せ、<span type="ruby"><span type="rb">敦盛</span><span type="rp">（</span><span type="rt">あつもり</span><span type="rp">）</span></span>」<lb />
+　伝右衛門は、<span type="ruby"><span type="rb">戯</span><span type="rp">（</span><span type="rt">たわむ</span><span type="rp">）</span></span>れながら、とうとう、彼を捕えて、罰杯として、大きな<span type="ruby"><span type="rb">杯</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>でのませた。十郎左は、<span type="ruby"><span type="rb">覆</span><span type="rp">（</span><span type="rt">くつがえ</span><span type="rp">）</span></span>るように、坐って、<lb />
+「討死」<lb />
+　と、いった。<lb />
+「まだ、ちと、早い」<lb />
+　早水藤左衛門が、腕をすくって、<lb />
+「もう<span type="ruby"><span type="rb">一献</span><span type="rp">（</span><span type="rt">いっこん</span><span type="rp">）</span></span>」<lb />
+「おいじめなさるな。もう……もう……<span type="ruby"><span type="rb">敦盛</span><span type="rp">（</span><span type="rt">あつもり</span><span type="rp">）</span></span>は、この通り、首さしのべた」<lb />
+「そんな弱い、十郎左ではない。よし、よし、飲まねば、あのこと話すぞ」<lb />
+　勘六や、瀬左衛門は、面白がって、<lb />
+「そうそう、のまねば、あのことを、伝右どののお耳に入れよう」<lb />
+「何じゃ、それや聞きたい」<lb />
+「十郎左が<span type="ruby"><span type="rb">手功</span><span type="rp">（</span><span type="rt">てがら</span><span type="rp">）</span></span>ばなし、吉良殿の<span type="ruby"><span type="rb">寝間</span><span type="rp">（</span><span type="rt">ねま</span><span type="rp">）</span></span>を探った一件じゃ」<lb />
+「それや、聞いた」<lb />
+「いや、それに<span type="ruby"><span type="rb">絡</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>んでの話じゃ。堀部殿は、まだ、みんなは話しておられぬのじゃ。伝右殿、聞きとうないか、十郎左は、色男でござる」<lb />
+「いけないっ。謝る」<lb />
+　十郎左は、あわてて、<lb />
+「それだけは、勘弁せい。飲む……飲む……。その代りに、伝右殿、あしたはまた、御典医を、おねがい――」<lb />
+「いや、飲んで貰うより、その話、聞きとうなった。何でござる、十郎左殿の手功ばなしに<span type="ruby"><span type="rb">絡</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>む事とは」<lb />
+「知らん、知らん、真言秘密と申すなり」<lb />
+「ははは。見ろ、十郎左が、あの困ったらしい顔を」<lb />
+　そんな、<span type="ruby"><span type="rb">賑</span><span type="rp">（</span><span type="rt">にぎ</span><span type="rp">）</span></span>やかだった前の晩を忘れ去ったように、翌くる日の三日は、皆、せっせと、故郷や知己へ、手紙を書いていた。ことに、内蔵助、小野寺十内など、長文で細字に、半日も、筆をねぶって、煙草の所望も出ないのである。<lb />
+「はてな」<lb />
+　伝右衛門は、いつもと違った人々の<span type="ruby"><span type="rb">眉宇</span><span type="rp">（</span><span type="rt">びう</span><span type="rp">）</span></span>を感じた。<lb />
+　と、夜になって、上屋敷から使者が来た。沈痛な夜気が<span type="ruby"><span type="rb">詰所</span><span type="rp">（</span><span type="rt">つめしょ</span><span type="rp">）</span></span>にみちた。<lb />
+　浪士の裁決はついたのである。幕府の内意が、その日、四家へ向って発しられたのだ。<lb />
+　四十六名、切腹。<lb />
+「……だめだったか」<lb />
+　伝右衛門は、詰所から立つ勇気も、口をきく勇気も失ってしまった。<lb />
+　同時に、<lb />
+「ああ偉い」<lb />
+　<span type="ruby"><span type="rb">沁々</span><span type="rp">（</span><span type="rt">しみじみ</span><span type="rp">）</span></span>と、肚の底でいった。――考えてみると、正月は式日が多い。二月一日は、日光のお<span type="ruby"><span type="rb">鏡開</span><span type="rp">（</span><span type="rt">かがみびら</span><span type="rp">）</span></span>き、これも式日だ。それが過ぎれば間もあるまいと――自分よりも先に、洞察して、ゆうべは別れの酒を、きょうは、各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />、死の身支度をしている内蔵助以下の人が、ずんと、目の前に霧を払った連山のように見直された。<lb />
+　越中守の伝言で、それを、ことばで伝えるには、あまりに冷たい。<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あす</span><span type="rp">）</span></span>の朝は、床の間に、花を<span type="ruby"><span type="rb">挿</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>けようということだった。――罪人の<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>に花、それで分る。<lb />
+「あの衆に、花を見せる日が来たか……」<lb />
+　伝右衛門は、その<span type="ruby"><span type="rb">花瓶</span><span type="rp">（</span><span type="rt">はないけ</span><span type="rp">）</span></span>を出しながら、人間の作った法というものを考えた。<lb />
+　用事が終ってからも、行くに堪えない気がしていたが、やはり、心にかかって、ちょっと、浪士たちの広間をのぞくと、もう、上の間も下の間の人々も、半分は、床に入って寝んでいたが、大石瀬左衛門、富森助右衛門、近松勘六などは、起きていて、<lb />
+「オオ、それにおいでたは伝右殿とお見うけ申す。お入りあれ」<lb />
+「もうはや、お寝みでござろうに」<lb />
+「いや、ちとお目にかけたいものがござる。――ほかでもないが、吾々どもも、やがて程なく、この世の<span type="ruby"><span type="rb">埒</span><span type="rp">（</span><span type="rt">らち</span><span type="rp">）</span></span>も明こうと存ずる。お礼と申すも、今更らしい。お暇乞いに、ここで芸づくしを御覧に入れよう」<lb />
+　<span type="ruby"><span type="rb">小屏風</span><span type="rp">（</span><span type="rt">こびょうぶ</span><span type="rp">）</span></span>を持ちだして、その蔭で、助右衛門と勘六が、<span type="ruby"><span type="rb">隆達</span><span type="rp">（</span><span type="rt">りゅうたつ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">節</span><span type="rp">（</span><span type="rt">ふし</span><span type="rp">）</span></span>を真似て唄った。瀬左衛門は、真面目くさって、堺町の歌舞伎踊りを踊るのだった。<lb />
+　屏風の蔭から、二人のお尻が突き出ているし、瀬左衛門が澄ましこんで<span type="ruby"><span type="rb">毛脛</span><span type="rp">（</span><span type="rt">けずね</span><span type="rp">）</span></span>を出して踏む足拍子も、おかしかった。みんな笑った。伝右衛門も、腹の皮がよじれた。涙をこぼしながら、笑いこけた。<lb />
+　十郎左は、床に入っていたが、腹ばいに首を上げて、<lb />
+「困った大人どもでござる。伝右殿、あしたは、その<span type="ruby"><span type="rb">手輩</span><span type="rp">（</span><span type="rt">てあい</span><span type="rp">）</span></span>に、<span type="ruby"><span type="rb">灸</span><span type="rp">（</span><span type="rt">きゅう</span><span type="rp">）</span></span>をすえておやりなされ」<lb />
+　と、いった。<lb />
+「<span type="ruby"><span type="rb">畏</span><span type="rp">（</span><span type="rt">かしこ</span><span type="rp">）</span></span>まってござる。したが、十郎左殿、その許のお<span type="ruby"><span type="rb">腹</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>のぐあいは」<lb />
+「上天気」<lb />
+「ははは、上天気」<lb />
+「あすの<span type="ruby"><span type="rb">日和</span><span type="rp">（</span><span type="rt">ひより</span><span type="rp">）</span></span>も――」<lb />
+「つづきましょう、よい春じゃ。いや、お寝みなされ」<lb />
+「お寝み……」<lb />
+「伝右殿、お寝み」<lb />
+「お寝み……」<lb />
+　ひとり残らずいった。<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">琴の爪</span></span></span>
+<lb />
+　翌日の四日は、非番に当っていた。伝右衛門は、<span type="ruby"><span type="rb">一刻</span><span type="rp">（</span><span type="rt">ひととき</span><span type="rp">）</span></span>でも長く詰所にいたかったが、時刻が来たし、交代の同僚も見えたので、悄然と、中屋敷を退がった。<lb />
+　眼のふちに、うす黒い肉が、たるんでいた。馬の上でも、彼は、一言もものをいわなかった。<lb />
+「やっ、修蔵様がっ」<lb />
+　若党が、口走った。<lb />
+　札の辻の往来から、修蔵の影が、路地へ走りこんだのを、伝右衛門は見て見ぬふりをして通った。もう、とうに江戸にはいないはずの彼だったが、<span type="ruby"><span type="rb">草鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span>などもつけず、いつもの<span type="ruby"><span type="rb">身装</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>で、まだ何処かに身を寄せている様子だった。<lb />
+　――帰ったら、<span type="ruby"><span type="rb">糺明</span><span type="rp">（</span><span type="rt">きゅうめい</span><span type="rp">）</span></span>してやろう。お磯がよくない。どこかに置いて、も一度、詫びをさせて家に入れるつもりだろう。<lb />
+　漠とした彼の頭には、それすら、それ以上には考えられなかった。ただ、ゆうべの隆達ぶしの声、踊りの<span type="ruby"><span type="rb">毛脛</span><span type="rp">（</span><span type="rt">けずね</span><span type="rp">）</span></span>。そして、涙をこぼして笑ったことなどが、<span type="ruby"><span type="rb">錯然</span><span type="rp">（</span><span type="rt">さくぜん</span><span type="rp">）</span></span>と、頭にあった。<lb />
+　すると、ふいだった。走って来た女だった。<lb />
+　悲鳴のような声で、いきなり、<lb />
+「殿様っ……。殿様っ……。お慈悲でござりますっ」<lb />
+　もつれて、何をいうのか、<span type="ruby"><span type="rb">咄嗟</span><span type="rp">（</span><span type="rt">とっさ</span><span type="rp">）</span></span>だし、馬が<span type="ruby"><span type="rb">蹄</span><span type="rp">（</span><span type="rt">ひづめ</span><span type="rp">）</span></span>を狂わせたので、聞きとれなかった。ただ、伝右衛門には、自分の<span type="ruby"><span type="rb">鐙</span><span type="rp">（</span><span type="rt">あぶみ</span><span type="rp">）</span></span>へ、ひしと、しがみついている黒髪と、白い顔と、そして、もう眼の中にまで<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>みこんでいる濃い江戸紫の<span type="ruby"><span type="rb">布</span><span type="rp">（</span><span type="rt">ぬの</span><span type="rp">）</span></span>が、解けて、肩から胸に垂れている<span type="ruby"><span type="rb">凄</span><span type="rp">（</span><span type="rt">すさ</span><span type="rp">）</span></span>まじい女の姿を、はっと見た。<lb />
+「狂女めっ！」<lb />
+　若党が、横から、突きとばした。<lb />
+　わっと、倒れた途端に泣いた女の声は、生涯、耳から消えまいと思われるような叫びだった。<lb />
+　すぐ、橋のそばの番屋から、人が駈けて来たので、幸いと、伝右衛門が駒をすすめると、絹を裂くような声が、後ろで聞えた。そして、何者かが、前へ廻って、伝右衛門の駒の口輪を、がきっと抑えた。<lb />
+「何するッ」<lb />
+「わしじゃっ」<lb />
+　見ると、同僚で、同じ接伴役の林兵六である。<lb />
+「伝右殿、すぐ引っ返せっ」<lb />
+「やっ、御上使か」<lb />
+「とうとう来たっ」<lb />
+「あっ……今日……今日」<lb />
+　伝右衛門は、夢中で、<span type="ruby"><span type="rb">鞭</span><span type="rp">（</span><span type="rt">むち</span><span type="rp">）</span></span>を振った。<lb />
+　すでに、十七士の部屋は、静かだった。最後の食事をすまし、各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />、越中守の贈り物、自の小袖に、<span type="ruby"><span type="rb">浅黄無垢</span><span type="rp">（</span><span type="rt">あさぎむく</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">裃</span><span type="rp">（</span><span type="rt">かみしも</span><span type="rp">）</span></span>をつけ、足袋、帯などつけているところなのである。<lb />
+　伝右衛門は、詰所と、そこと、廊下と、また上使と検使役のひかえ間とのあいだを、うろうろしていた。<lb />
+「いけない！　見苦しい」<lb />
+　自制して、詰所で、がぶがぶ水をのんだ。<lb />
+　前日、予告があった代りに、上使が来ると急だった。もっとも、人数が多い。<span type="ruby"><span type="rb">黄昏</span><span type="rp">（</span><span type="rt">たそがれ</span><span type="rp">）</span></span>前に、終らなければならぬ。<lb />
+　越中守も、ひそかに、お成りだ。大書院におられるらしい。庭には白い幕、白い屏風。――伝右衛門は、眼をそむけた。<lb />
+　広間を見ると――<lb />
+　ずらっと、同じ白と浅黄の死装束が、すずやかにならんでいる。彼の熱い眼に、そうして、平然といる人々が不思議だった。眼で、人々は、伝右衛門に別れをつげた。伝右衛門の眼は、それに答えるのすら、あぶなげなものを、いっぱいに、たたえていた。<lb />
+　すると、一人が、<lb />
+「伝右殿、今日は、別して、御馳走になりましたが、まだ、煙草が出ませぬな」<lb />
+「おう、唯今」<lb />
+　細川家の者は、みな、死なぬ者が、<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">うわ</span><span type="rp">）</span></span>ずっていた。煙草盆を持ってきた小坊主は、原惣右衛門に、頭をなでられて、泣いてしまった。<lb />
+　料紙、<span type="ruby"><span type="rb">硯</span><span type="rp">（</span><span type="rt">すずり</span><span type="rp">）</span></span>が出る。<lb />
+　辞世。<lb />
+　書く者もあり、書かぬ者もある。<lb />
+　その間に、伝右衛門は、やっと、人々と別れがいえた。いろいろな<span type="ruby"><span type="rb">言伝</span><span type="rp">（</span><span type="rt">ことづて</span><span type="rp">）</span></span>を、彼は、書きとめた。内蔵助とも、最後の声を聞きあった。<lb />
+「十郎左殿には、何か……」<lb />
+　十郎左は、にっこり首を振った。<lb />
+　やがて、時刻。大石内蔵助の名が先によばれた。彼の姿が、庭先の、白屏風のかげに隠れると、しいんと、真夜中よりも静かな一瞬が来た。――異様な音が、ばすん――と聞えたと思うと、人々の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>に、さっと、青白いものが走った。<lb />
+「――内蔵助殿、お仕舞いなされました。吉田忠左衛門殿おいでなされ」<lb />
+　庭で、役人がよんだ。<lb />
+　それから、順々に最後の大石瀬左衛門の切腹が終ったのは、もう夕方――庭は屏風と幕だけが、暮れ残っていた。<lb />
+　伝右衛門は、もう、自分が悪鬼か人間か分らなくなっていた。人々の遺品や、脱いだ物を、各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />、札をつけ、番号をつけて、空虚な部屋の隅に、積みかさねていた。<lb />
+　と――覚えのある十郎左の衣服があった。きちんと、畳みつけてある。古い帯、古い持物、すべてが、几帳面に。<lb />
+「……若かったなあ」<lb />
+　ひたと、横顔を押しつけた。若い十郎左の<span type="ruby"><span type="rb">温</span><span type="rp">（</span><span type="rt">ぬく</span><span type="rp">）</span></span>みがまだあるような気がした。すると、その間から何か落ちた。<lb />
+「？　……」<lb />
+　見ると、濃い紫の<span type="ruby"><span type="rb">縮緬</span><span type="rp">（</span><span type="rt">ちりめん</span><span type="rp">）</span></span>の小布だった。ふく<span type="ruby"><span type="rb">紗</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>にしては、<span type="ruby"><span type="rb">耳縫</span><span type="rp">（</span><span type="rt">みみぬ</span><span type="rp">）</span></span>いがないのである。何かつつんであるので、開けて見ると、何と、琴の爪が一つ。<lb />
+　琴の爪？<lb />
+　あの美貌で剛気な武士のこれが<span type="ruby"><span type="rb">死期</span><span type="rp">（</span><span type="rt">しご</span><span type="rp">）</span></span>までの品だろうか。伝右衛門はひょっと、そぐわない気がしたが、二日の晩の彼を思いだして、<lb />
+「さては……。吉良殿のお寝間とは……」<lb />
+　読めたのである。<lb />
+　もう一人、彼は、べつな最期を見送る責任を感じた。――だが、夜だし、もうあそこにいるかいないかを疑問にしながら、その夜更け、駒を家路へ向けてゆくと、金杉橋は真っ暗だった。<lb />
+　番屋をたたいて、<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>かせると、やはり、彼女は伝右衛門を待っていた。<lb />
+　だが、もう生ける人ではなく。<lb />
+　あれから、番屋の者の隙をねらって、すぐ表の川へ、身投げをしたというのである。そして、何か、手紙を抱いてるし、昼間のことがあったので、死骸に<span type="ruby"><span type="rb">菰</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>をかぶせて、再び、伝右衛門が通るのを待っていたともいった。<lb />
+「どれ……。会おう」<lb />
+　番太郎は、菰をめくった。白い顔が、馬上の伝右衛門に、いつもの眼を向けているように仰向いていた。そして、その胸に、かけてある、紫<span type="ruby"><span type="rb">縮緬</span><span type="rp">（</span><span type="rt">ちりめん</span><span type="rp">）</span></span>の頭巾は、隅の所が、五寸ほど、四角に切りとってあった、――ちょうど伝右衛門が<span type="ruby"><span type="rb">懐中</span><span type="rp">（</span><span type="rt">ふところ</span><span type="rp">）</span></span>に持って来た、琴の爪をつつんである小布ぐらいほど、欠けていた。<lb />
+「よし、この死骸は、わしがひきとる」<lb />
+　伝右衛門は、彼女の抱いていたという手紙だけを、<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>に入れて、<span type="ruby"><span type="rb">蹄</span><span type="rp">（</span><span type="rt">ひづめ</span><span type="rp">）</span></span>の音もやや軽く、家へと、駒を急がせた。<lb />
+　馬のそばに、駈けている、若党や<span type="ruby"><span type="rb">仲間</span><span type="rp">（</span><span type="rt">ちゅうげん</span><span type="rp">）</span></span>には主人の気持が分らなかった。――で、やや彼の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>が、冴えたのを見上げて、<lb />
+「旦那、あの女は、一体、なんでございます」<lb />
+「<span type="ruby"><span type="rb">侍女</span><span type="rp">（</span><span type="rt">こしもと</span><span type="rp">）</span></span>じゃろう」<lb />
+「へえ。何処の？」<lb />
+「吉良殿の――」<lb />
+　と、いって、すぐその下から、<lb />
+「人に申すなよ」<lb />
+　伝右衛門は、手綱をのばして、<span type="ruby"><span type="rb">反</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">身</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>に、<span type="ruby"><span type="rb">二月</span><span type="rp">（</span><span type="rt">きさらぎ</span><span type="rp">）</span></span>の星を仰いだ。そしてまた、独り語にいった。<lb />
+「修蔵も、あれでいい。お麗のねがいも<span type="ruby"><span type="rb">容</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>れてやろう」<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

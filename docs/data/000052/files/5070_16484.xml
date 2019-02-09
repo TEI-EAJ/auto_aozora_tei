@@ -1,0 +1,677 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>源氏物語</title>
+        <author>紫式部</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2004-08-26">作成</resp><resp /><note>
+<lb />
+底本：「全訳源氏物語　下巻」角川文庫、角川書店
+<lb />
+　　　1972（昭和47）年2月25日改版初版発行<lb />
+　　　1995（平成7）年5月30日40版発行<lb />
+※このファイルは、古典総合研究所（http://www.genji.co.jp/）で入力されたものを、青空文庫形式にあらためて作成しました。<lb />
+※校正には2002（平成14）年4月10日44版を使用しました。<lb />
+入力：上田英代<lb />
+校正：砂場清隆<lb />
+<date when="2004-08-26">2004年8月26日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>上田英代</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>砂場清隆</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>源氏物語</title><author>紫式部</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div">
+<lb />
+<lb />
+<lb />
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">ほど近き<span type="ruby"><span type="rb">法</span><span type="rp">（</span><span type="rt">のり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">御山</span><span type="rp">（</span><span type="rt">みやま</span><span type="rp">）</span></span>をたのみたる<span type="ruby"><span type="rb">女郎花</span><span type="rp">（</span><span type="rt">をみなへし</span><span type="rp">）</span></span></span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">かと見ゆるなりけれ　　　　（晶子）</span>
+<lb />
+　そのころ<span type="ruby"><span type="rb">比叡</span><span type="rp">（</span><span type="rt">ひえ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">横川</span><span type="rp">（</span><span type="rt">よかわ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">某僧都</span><span type="rp">（</span><span type="rt">なにがしそうず</span><span type="rp">）</span></span>といって人格の高い僧があった。八十を越えた母と五十くらいの妹を持っていた。この親子の尼君が昔かけた願果たしに<span type="ruby"><span type="rb">大和</span><span type="rp">（</span><span type="rt">やまと</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">初瀬</span><span type="rp">（</span><span type="rt">はせ</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">参詣</span><span type="rp">（</span><span type="rt">さんけい</span><span type="rp">）</span></span>した。僧都は親しくてよい<span type="ruby"><span type="rb">弟子</span><span type="rp">（</span><span type="rt">でし</span><span type="rp">）</span></span>としている<span type="ruby"><span type="rb">阿闍梨</span><span type="rp">（</span><span type="rt">あじゃり</span><span type="rp">）</span></span>を付き添わせてやったのであって、仏像、経巻の供養を初瀬では行なわせた。そのほかにも功徳のことを多くして帰る途中の<span type="ruby"><span type="rb">奈良坂</span><span type="rp">（</span><span type="rt">ならざか</span><span type="rp">）</span></span>という山越えをしたころから大尼君のほうが病気になった。このままで京へまで伴ってはどんなことになろうもしれぬと、一行の人々は心配して宇治の知った人の家へ一日とまって静養させることにしたが、容体が悪くなっていくようであったから横川へしらせの使いを出した。僧都は<span type="ruby"><span type="rb">今年</span><span type="rp">（</span><span type="rt">ことし</span><span type="rp">）</span></span>じゅう山から降りないことを心に誓っていたのであったが、老いた母を旅中で死なせることになってはならぬと胸を騒がせてすぐに宇治へ来た。ほかから見ればもう惜しまれる年齢でもない尼君であるが、孝心深い僧都は自身もし、また弟子の中の<span type="ruby"><span type="rb">祈祷</span><span type="rp">（</span><span type="rt">きとう</span><span type="rp">）</span></span>の効験をよく現わす僧などにも命じていたこの客室での騒ぎを家主は聞き、その人は<span type="ruby"><span type="rb">御嶽</span><span type="rp">（</span><span type="rt">みたけ</span><span type="rp">）</span></span>参詣のために<span type="ruby"><span type="rb">精進潔斎</span><span type="rp">（</span><span type="rt">しょうじんけっさい</span><span type="rp">）</span></span>をしているころであったため、高齢の人が大病になっていてはいつ<span type="ruby"><span type="rb">死穢</span><span type="rp">（</span><span type="rt">しえ</span><span type="rp">）</span></span>の家になるかもしれぬと不安がり、迷惑そうに<span type="ruby"><span type="rb">蔭</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>で言っているのを聞き、道理なことであると気の毒に思われたし、またその家は狭く、座敷もきたないため、もう京へ伴ってもよいほどに病人はなっていたが、<span type="ruby"><span type="rb">陰陽道</span><span type="rp">（</span><span type="rt">おんようどう</span><span type="rp">）</span></span>の神のために方角がふさがり、尼君たちの<span type="ruby"><span type="rb">住居</span><span type="rp">（</span><span type="rt">すまい</span><span type="rp">）</span></span>のほうへは帰って行かれぬので、お<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>れになった<span type="ruby"><span type="rb">朱雀</span><span type="rp">（</span><span type="rt">すざく</span><span type="rp">）</span></span>院の御領で、宇治の院という所はこの近くにあるはずだと僧都は思い出し、その<span type="ruby"><span type="rb">院守</span><span type="rp">（</span><span type="rt">いんもり</span><span type="rp">）</span></span>を知っていたこの人は、一、二日宿泊をさせてほしいと頼みにやると、ちょうど昨日初瀬へ家族といっしょに行ったと言い、貧相な番人の<span type="ruby"><span type="rb">翁</span><span type="rp">（</span><span type="rt">おきな</span><span type="rp">）</span></span>を使いは伴って帰って来た。<lb />
+「おいでになるのでございましたら<span rend="SESAME_DOT" rendition="strong">がらっ</span>としております寝殿をお使いになるほかはございませんでしょう。初瀬や奈良へおいでになる方はいつもそこへお泊まりになります」<lb />
+　と翁は言った。<lb />
+「それでけっこうだ。官有の<span type="ruby"><span type="rb">邸</span><span type="rp">（</span><span type="rt">やしき</span><span type="rp">）</span></span>だけれどほかの人もいなくて気楽だろうから」<lb />
+　僧都はこう言って、また弟子を検分に出した。番人の翁はこうした旅人を迎えるのに<span type="ruby"><span type="rb">馴</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>れていて、短時間に簡単な設備を済ませて迎えに来た。僧都は尼君たちよりも先に行った。非常に荒れていて恐ろしい気のする所であると僧都はあたりをながめて、<lb />
+「坊様たち、お経を読め」<lb />
+　などと言っていた。初瀬へついて行った阿闍梨と、もう一人同じほどの僧が何を<span type="ruby"><span type="rb">懸念</span><span type="rp">（</span><span type="rt">けねん</span><span type="rp">）</span></span>したのか、下級僧にふさわしく強い<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>をした一人に<span type="ruby"><span type="rb">炬火</span><span type="rp">（</span><span type="rt">たいまつ</span><span type="rp">）</span></span>を持たせて、人もはいって来ぬ所になっている庭の後ろのほうを見まわりに行った。森かと見えるほど<span type="ruby"><span type="rb">繁</span><span type="rp">（</span><span type="rt">しげ</span><span type="rp">）</span></span>った大木の下の所を、気味の悪い場所であると思ってながめていると、そこに白いものの<span type="ruby"><span type="rb">拡</span><span type="rp">（</span><span type="rt">ひろ</span><span type="rp">）</span></span>がっているのが目にはいった。あれは何であろうと立ちどまって炬火を明るくさせて見ると、それはすわった人の姿であった。<lb />
+「<span type="ruby"><span type="rb">狐</span><span type="rp">（</span><span type="rt">きつね</span><span type="rp">）</span></span>が化けているのだろうか。不届な、正体を見あらわしてやろう」<lb />
+　と言った一人の阿闍梨は少し白い物へ近づきかけた。<lb />
+「およしなさい。悪いものですよ」<lb />
+　もう一人の阿闍梨はこう言ってとめながら、<span type="ruby"><span type="rb">変化</span><span type="rp">（</span><span type="rt">へんげ</span><span type="rp">）</span></span>を退ける指の印を組んでいるのであったが、さすがにそのほうを見入っていた。髪の毛がさかだってしまうほどの恐怖の覚えられることでありながら、炬火を持った僧は無思慮に大胆さを見せ、近くへ行ってよく見ると、それは長くつやつやとした髪を持ち、大きい木の根の荒々しいのへ寄ってひどく泣いている女なのであった。<lb />
+「珍しいことですね。僧都様のお目にかけたい気がします」<lb />
+「そう、不思議千万なことだ」<lb />
+　と言い、一人の阿闍梨は師へ報告に行った。<lb />
+「狐が人に化けることは昔から聞いているが、まだ自分は見たことがない」<lb />
+　こう言いながら僧都は庭へおりて来た。<lb />
+　尼君たちがこちらへ移って来る用意に召使の男女がいろいろの物を運び込む騒ぎの済んだあとで、ただ四、五人だけがまた庭の怪しい物を見に出たが、さっき見たのと少しも変わっていない。怪しくてそのまま次の刻に移るまでもながめていた。<lb />
+「早く夜が明けてしまえばいい。人か何かよく見きわめよう」<lb />
+　と言い、心で<span type="ruby"><span type="rb">真言</span><span type="rp">（</span><span type="rt">しんごん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">頌</span><span type="rp">（</span><span type="rt">じゅ</span><span type="rp">）</span></span>を読み、印を作っていたが、そのために明らかになったか、僧都は、<lb />
+「これは人だ。決して怪しいものではない。そばへ寄って聞いてみるがよい。死んではいない。あるいはまた死んだ者を捨てたのが<span type="ruby"><span type="rb">蘇生</span><span type="rp">（</span><span type="rt">そせい</span><span type="rp">）</span></span>したのかもしれぬ」<lb />
+　と言った。<lb />
+「そんなことはないでしょう。この院の中へ死人を人の捨てたりすることはできないことでございます。真実の人間でございましても、狐とか<span type="ruby"><span type="rb">木精</span><span type="rp">（</span><span type="rt">こだま</span><span type="rp">）</span></span>とかいうものが<span type="ruby"><span type="rb">誘拐</span><span type="rp">（</span><span type="rt">ゆうかい</span><span type="rp">）</span></span>してつれて来たのでしょう。かわいそうなことでございます。そうした魔物の住む所なのでございましょう」<lb />
+　と一人の阿闍梨は言い、番人の翁を呼ぼうとすると<span type="ruby"><span type="rb">山響</span><span type="rp">（</span><span type="rt">やまびこ</span><span type="rp">）</span></span>の答えるのも無気味であった。翁は変な<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>をし、顔をつき出すふうにして出て来た。<lb />
+「ここに若い女の方が住んでおられるのですか。こんなことが起こっているが」<lb />
+　と言って、見ると、<lb />
+「狐の<span type="ruby"><span type="rb">業</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>ですよ。この木の下でときどき奇態なことをして見せます。<span type="ruby"><span type="rb">一昨年</span><span type="rp">（</span><span type="rt">おととし</span><span type="rp">）</span></span>の秋もここに住んでおります人の子供の<span type="ruby"><span type="rb">二歳</span><span type="rp">（</span><span type="rt">ふたつ</span><span type="rp">）</span></span>になりますのを取って来てここへ捨ててありましたが、私どもは<span type="ruby"><span type="rb">馴</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>れていまして格別驚きもしませんじゃった」<lb />
+「その子供は死んでしまったのか」<lb />
+「いいえ、生き返りました。狐はそうした人騒がせはしますが無力なものでさあ」<lb />
+　なんでもなく思うらしい。<lb />
+「夜ふけに召し上がりましたもののにおいを<span type="ruby"><span type="rb">嗅</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いで出て来たのでしょう」<lb />
+「ではそんなものの仕事かもしれん。まあ<span rend="SESAME_DOT" rendition="strong">とっく</span>と見るがいい」<lb />
+　僧都は弟子たちにこう命じた。初めから<span type="ruby"><span type="rb">怖気</span><span type="rp">（</span><span type="rt">おじけ</span><span type="rp">）</span></span>を見せなかった僧がそばへ寄って行った。<lb />
+「<span type="ruby"><span type="rb">幽鬼</span><span type="rp">（</span><span type="rt">おに</span><span type="rp">）</span></span>か、神か、狐か、<span type="ruby"><span type="rb">木精</span><span type="rp">（</span><span type="rt">こだま</span><span type="rp">）</span></span>か、高僧のおいでになる前で正体を隠すことはできないはずだ、名を言ってごらん、名を」<lb />
+　と言って着物の端を手で引くと、その者は顔を<span type="ruby"><span type="rb">襟</span><span type="rp">（</span><span type="rt">えり</span><span type="rp">）</span></span>に引き入れてますます泣く。<lb />
+「聞き分けのない<span type="ruby"><span type="rb">幽鬼</span><span type="rp">（</span><span type="rt">おに</span><span type="rp">）</span></span>だ。顔を隠そうたって隠せるか」<lb />
+　こう言いながら顔を見ようとするのであったが、心では昔話にあるような目も鼻もない<span type="ruby"><span type="rb">女鬼</span><span type="rp">（</span><span type="rt">めおに</span><span type="rp">）</span></span>かもしれぬと恐ろしいのを、勇敢さを人に知らせたい欲望から、着物を引いて脱がせようとすると、その者はうつ伏しになって、声もたつほど泣く。何にもせよこんな不思議な現われは世にないことであるから、どうなるかを最後まで見ようと皆の思っているうちに雨になり、次第に強い降りになってきそうであった。<lb />
+「このまま置けば死にましょう。<span type="ruby"><span type="rb">垣根</span><span type="rp">（</span><span type="rt">かきね</span><span type="rp">）</span></span>の所へまででも出しましょう」<lb />
+　と一人が言う。<lb />
+「真の人間の姿だ。人間の命のそこなわれるのがわかっていながら捨てておくのは悲しいことだ。池の魚、山の<span type="ruby"><span type="rb">鹿</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>でも人に捕えられて死にかかっているのを助けないでおくのは非常に悲しいことなのだから、人間の命は短いものなのだからね、一日だって保てる命なら、それだけでも保たせないではならない。鬼か神に<span type="ruby"><span type="rb">魅入</span><span type="rp">（</span><span type="rt">みい</span><span type="rp">）</span></span>られても、また人に置き捨てにされ、悪だくみなどでこうした目にあうことになった人でも、それは天命で死ぬのではない、<span type="ruby"><span type="rb">横死</span><span type="rp">（</span><span type="rt">おうし</span><span type="rp">）</span></span>をすることになるのだから、<span type="ruby"><span type="rb">御仏</span><span type="rp">（</span><span type="rt">みほとけ</span><span type="rp">）</span></span>は必ずお救いになるはずのものなのだ。生きうるか、どうかもう少し手当をして湯を飲ませなどもして試みてみよう。それでも死ねばしかたがないだけだ」<lb />
+　と<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>は言い、その強がりの僧に抱かせて家の中へ運ばせるのを、弟子たちの中に、<lb />
+「よけいなことだがなあ。重い病人のおられる所へ、えたいの知れないものをつれて行くのでは<span type="ruby"><span type="rb">穢</span><span type="rp">（</span><span type="rt">けが</span><span type="rp">）</span></span>れが生じて結果はおもしろくないことになるがなあ」<lb />
+　と非難する者もあった。また、<lb />
+「<span type="ruby"><span type="rb">変化</span><span type="rp">（</span><span type="rt">へんげ</span><span type="rp">）</span></span>のものであるにせよ、みすみすまだ生きている人をこんな大雨に打たせて死なせてしまうのはあわれむべきことだから」<lb />
+　こう言う者もあった。<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>の者は物をおおぎょうに言いふらすものであるからと思い、あまり人の寄って来ない陰のほうの座敷へ拾った人を寝させた。<lb />
+　尼君たちの車が着き、大尼君がおろされる時に苦しがると言って皆は騒いだ。<lb />
+　少し静まってから僧都は弟子に、<lb />
+「あの婦人はどうなったか」<lb />
+　と問うた。<lb />
+「なよなよとしていましてものも申しません。確かによみがえったとも思われません。何かに魂を取られている人なのでしょう」<lb />
+　こう答えているのを僧都の妹の尼君が聞いて、<lb />
+「何でございますの」<lb />
+　と尋ねた。こんなことがあったのだと僧都は語り、<lb />
+「自分は六十何年生きているがまだ見たこともないことにあった」<lb />
+　と言うのを聞いて、尼君は、<lb />
+「まあ、私が<span type="ruby"><span type="rb">初瀬</span><span type="rp">（</span><span type="rt">はせ</span><span type="rp">）</span></span>でお<span type="ruby"><span type="rb">籠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>りをしている時に見た夢があったのですよ。どんな人なのでしょう、ともかく見せてください」<lb />
+　泣きながら尼君は言うのであった。<lb />
+「すぐその<span type="ruby"><span type="rb">遣戸</span><span type="rp">（</span><span type="rt">やりど</span><span type="rp">）</span></span>の向こう側に置きましたよ。すぐ御覧なさい」<lb />
+　兄の言葉を聞いて尼君は急いでそのほうへ行った。だれもそばにいず打ちやられてあった人は若くて美しく、白い<span type="ruby"><span type="rb">綾</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>の服一重ねを着て、紅の<span type="ruby"><span type="rb">袴</span><span type="rp">（</span><span type="rt">はかま</span><span type="rp">）</span></span>をはいていた。<span type="ruby"><span type="rb">薫香</span><span type="rp">（</span><span type="rt">くんこう</span><span type="rp">）</span></span>のにおいがかんばしくついていてかぎりもなく気品が高い。自分の恋い悲しんでいる死んだ娘が帰って来たのであろうと尼君は言い、女房をやって自身の<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>へ抱き入れさせた。発見された場所がどんな無気味なものであったかを知らない女たちは、恐ろしいとも思わずそれをしたのである。生きているようでもないが、さすがに目をほのかにあけて見上げた時、<lb />
+「何かおっしゃいよ。どんなことでこんなふうになっていらっしゃるのですか」<lb />
+　と尼君は言ってみたが、依然失心状態が続く。湯を持って来させて自身から口へ注ぎ入れなどするが、衰弱は加わっていくばかりと見えた。<lb />
+「この人を拾うことができて、そしてまた死なせてしまう悲しみを味わわなければならぬだろうか」<lb />
+　と尼君は言い、<lb />
+「この人は死にそうですよ。加持をしてください」<lb />
+　と初瀬へ行った<span type="ruby"><span type="rb">阿闍梨</span><span type="rp">（</span><span type="rt">あじゃり</span><span type="rp">）</span></span>へ頼んだ。<lb />
+「だからむだな世話焼きをされるものだと言ったことだった」<lb />
+　この人はつぶやいたが、<span type="ruby"><span type="rb">憑</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>きもののために経を読んで祈っていた。僧都もそこへちょっと来て、<lb />
+「どうかね。何がこうさせたかをよく<span type="ruby"><span type="rb">物怪</span><span type="rp">（</span><span type="rt">もののけ</span><span type="rp">）</span></span>を懲らして言わせるがよい」<lb />
+　と言っていたが、女は弱々しく今にも消えていく命のように見えた。<lb />
+「むずかしいらしい。思いがけぬ<span type="ruby"><span type="rb">死穢</span><span type="rp">（</span><span type="rt">しえ</span><span type="rp">）</span></span>に触れることになって、われわれはここから出られなくなるだろうし、身分のある人らしく思われるから、死んでもそのまま捨てることはならないだろう。困ったことにかかり合ったものだ」<lb />
+　弟子たちはこんなことを言っているのである。<lb />
+「まあ静かにしてください。人にこの人のことは言わないでくださいよ。めんどうが起こるといけませんから」<lb />
+　と口固めをしておいて、尼君は親の病よりもこの人をどんなにしても生かせたいということで夢中になり、親身の者のようにじっと添っていた。知らない人であったが、<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">ようぼう</span><span type="rp">）</span></span>が非常に美しい人であったから、このまま死なせたくないと惜しんで、どの女房も皆よく世話をした。さすがにときどきは目をあけて見上げなどするが、いつも涙を流しているのを見て、<lb />
+「まあ悲しい。私の恋しい死んだ子の代わりに仏様が私の所へ導いて来てくだすった方だと思って私は喜んでますのに、このままになってはかえって以前にました物思いをする私になるでしょう。宿縁があればこそこうして出逢うことになったあなたと私に違いないのですよ。なんとか少しでもものをお言いなさいよ」<lb />
+　こう長々と言われたあとで、やっと、<lb />
+「生きることができましても、私はもうこの世にいらない人間でございます。人に見せないでこの川へ落としてしまってください」<lb />
+　低い声で病人は言った。何にもせよ珍しくものを言いだしたことをうれしく尼君は思った。<lb />
+「悲しいことを、まあどうしてそんなことをお言いになりますの、どうしてそんな所に来ておいでになったの」<lb />
+　と尋ねても、もうそれきり何も言わなかった。<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>にひょっと傷でもできているのではないかと思って調べてみたが、<span type="ruby"><span type="rb">疵</span><span type="rp">（</span><span type="rt">きず</span><span type="rp">）</span></span>らしい疵もなく、ただ美しいばかりであったから、心は驚きに満たされ、さらに悲しみを覚え、実際兄の弟子たちの言うように、<span type="ruby"><span type="rb">変化</span><span type="rp">（</span><span type="rt">へんげ</span><span type="rp">）</span></span>のものであってしばらく人の心を乱そうがためにこんな姿で現われたのではないかと疑われもした。<lb />
+　一行は二日ほどここに滞留していて、老尼と拾った若い<span type="ruby"><span type="rb">貴女</span><span type="rp">（</span><span type="rt">きじょ</span><span type="rp">）</span></span>のために祈りをし、加持をする声が絶え間もなく聞こえていた。宇治の村の人で、僧都に以前仕えたことのあった男が、宇治の院に僧都が泊まっていると聞いて<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねて来ていろいろと話をするのを聞いていると、<lb />
+「以前の八の宮様の姫君で、右大将が通って来ておいでになった方が、たいした御病気でもなしににわかにお<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>れになったといってこの辺では騒ぎになっております。そのお葬式のお手つだいに行ったりしたものですから昨日は伺うことができませんでした」<lb />
+　こんなことも言っている。そうした貴女の霊魂を鬼が奪って持って来たのがこの人ではあるまいかと思われた尼君は、今は目に見ているが跡形もなく消えてしまう人のように思われ、危うくも恐ろしくも拾った姫君を思った。女房らが、<lb />
+「昨夜ここから見えた<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>はそんな大きい野べ送りの灯とも見えなんだけれど」<lb />
+　と言うと、<lb />
+「わざわざ簡単になすったのですよ」<lb />
+　こんな説明をした。死穢に触れた男であるから病人の家に近づかせてはならないと言い、立ち話をさせただけで追い返した。<lb />
+「大将さんが八の宮の姫君を奥様にしていらっしゃったのは、お<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くなりになってもうだいぶ時がたっていることだのに、だれのことをいうのだろう。姫宮と結婚をしておいでになる方だから、そんな隠れた愛人などをお持ちになるはずもないことだし」<lb />
+　とも尼君は言っていた。<lb />
+　大尼君の病気は<span type="ruby"><span type="rb">癒</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>えてしまった。それに方角の<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>りもなくなったことであるから、こうした怪異めいたことを見る所に長くいるのはよろしくないといって、僧都の一行は帰ることになった。拾った貴女はまだ弱々しく見えた。途中が心配である、いたいたしいことであると女房たちは言い合っていた。二つの車の一台の僧都と大尼君の乗ったのにはその人に奉仕している尼が二人乗り、次の車には尼夫人が病の人を自身とともに乗せ、ほかに一人の女房を乗せて出た。車をやり通させずに所々でとめて病人に湯を飲ませたりした。<span type="ruby"><span type="rb">比叡</span><span type="rp">（</span><span type="rt">ひえ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">坂本</span><span type="rp">（</span><span type="rt">さかもと</span><span type="rp">）</span></span>の小野という所にこの尼君たちの家はあった。そこへの<span type="ruby"><span type="rb">道程</span><span type="rp">（</span><span type="rt">みちのり</span><span type="rp">）</span></span>は長かった。途中で休息する所を考えておけばよかったと言いながらも小野の家へ夜ふけになって帰り着いた。僧都は母を、尼君はこの知らぬ人を世話して皆抱きおろして休ませた。<lb />
+　老いた尼君はいつもすぐれた健康を持っているのではない上、遠い旅をしたあとであったから、その後しばらくはわずらっていたもののようやく<span type="ruby"><span type="rb">快癒</span><span type="rp">（</span><span type="rt">かいゆ</span><span type="rp">）</span></span>したふうの見えたために僧都は<span type="ruby"><span type="rb">横川</span><span type="rp">（</span><span type="rt">よかわ</span><span type="rp">）</span></span>の寺へ帰った。身もとの知れない若い女の病人を伴って来たというようなことは僧としてよい<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>にならぬことであったから、初めから知らぬ人には何も話さなかった。尼君もまた同行した人たちに口固めをしているのであって、もし捜しに来る人もあったならばと思うことがこの人を不安にしていた。どうしてあの田舎人ばかりのいる所にこの人がこぼされたように落ちていたのであろう、初瀬へでも<span type="ruby"><span type="rb">参詣</span><span type="rp">（</span><span type="rt">さんけい</span><span type="rp">）</span></span>した人が途中で病気になったのを<span type="ruby"><span type="rb">継母</span><span type="rp">（</span><span type="rt">ままはは</span><span type="rp">）</span></span>などという人が悪意で捨てさせたのであろうと、このごろではそんな想像をするようになった。<span type="ruby"><span type="rb">河</span><span type="rp">（</span><span type="rt">かわ</span><span type="rp">）</span></span>へ流してほしいと言った一言以外にまだ今まで何も言わないのであったからたよりなく思った。そのうち<span type="ruby"><span type="rb">健康</span><span type="rp">（</span><span type="rt">じょうぶ</span><span type="rp">）</span></span>にさせて手もとで養うことにしたいと尼君は願っているのであるが、いつまでも寝たままで起き上がれそうにもなく、重態な様子でその人はいたから、このまま衰弱して死んでしまうのではなかろうかと思われはするものの無関心にはなれそうもなかった。初瀬で見た夢の話もして、宇治で初めから祈らせていた阿闍梨にも尼君はそっと<span type="ruby"><span type="rb">祈祷</span><span type="rp">（</span><span type="rt">きとう</span><span type="rp">）</span></span>をさせていた。それでもはかばかしくないことに気をもんで尼君は僧都の所へ手紙を書いた。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+ぜひ下山してくださいまして私の病人を助けてくださいまし。重態なようでしかも今日まで死なずにいることのできた人には、何かがきっと<span type="ruby"><span type="rb">憑</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いていて<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">わざわ</span><span type="rp">）</span></span>いをしているものらしく思われます。私の仏のお兄様、京へまでお出になるのはよろしくないかもしれませんが、ここへまでおいでくださるだけのことはお<span type="ruby"><span type="rb">籠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>りに<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>ることでもないではございませんか。<lb />
+</span>
+　などと、切な願いを言い続けたものであった。不思議なことである、今までまだ死なずにおられた人を、あの時うちやっておけばむろん死んだに違いない、前生の因縁があったからこそ、自分が見つけることにもなったのであろう、試みにどこまでも助けることに骨を折ってみよう、それでとめられない命であったなら、その人の業が尽きたのだとあきらめてしまおうと僧都は思って山をおりた。<lb />
+　うれしく思った尼君は僧都を拝みながら今までの経過を話した。<lb />
+「こんなに長わずらいをする人というものはどこかしら病人らしい気味悪さが自然にでてくるものですが、そんなことはないのでございますよ。少しも衰えたふうはなくて、きれいで清らかなのですよ。そうした人ですから危篤にも見えながら生きられるのでしょうね」<lb />
+　尼君は真心から病人を愛して泣く泣く言うのであった。<lb />
+「はじめ見た時から珍しい<span type="ruby"><span type="rb">美貌</span><span type="rp">（</span><span type="rt">びぼう</span><span type="rp">）</span></span>の人だったね。どんなふうでいます」<lb />
+　と言い、僧都は病室をのぞいた。<lb />
+「実際この人はすぐれた麗人だね。前生での<span type="ruby"><span type="rb">功徳</span><span type="rp">（</span><span type="rt">くどく</span><span type="rp">）</span></span>の報いでこうした容姿を得て生まれたのだろうが、また宿命の中にどんな<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>りがあってこんな目にあうことになったのだろう。何かほかから思いあたるような話を聞きましたか」<lb />
+「少しもございません。そんなことを考える必要はないと思います。私へ<span type="ruby"><span type="rb">初瀬</span><span type="rp">（</span><span type="rt">はせ</span><span type="rp">）</span></span>の観音様がくだすった人ですもの」<lb />
+　と尼君は言う。<lb />
+「それにはそれの順序がありますよ。虚無から人の出てくるものではないからね」<lb />
+　などと<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>は言い、不思議な女性のために修法を始めた。宮中からのお召しさえ辞退して山にこもっている自分が、だれとも知らぬ女のために自身で<span type="ruby"><span type="rb">祈祷</span><span type="rp">（</span><span type="rt">きとう</span><span type="rp">）</span></span>をしていることが評判になっては困ることであると僧都も思い、弟子たちも言って、修法の声を人に聞かすまいと隠すようにした。いろいろと非難がましく言う弟子たちに僧都は、<lb />
+「静かにするがよい。自分は<span type="ruby"><span type="rb">無慚</span><span type="rp">（</span><span type="rt">むざん</span><span type="rp">）</span></span>の僧で、<span type="ruby"><span type="rb">御仏</span><span type="rp">（</span><span type="rt">みほとけ</span><span type="rp">）</span></span>の戒めを知らず知らず破っていたことも多かったであろうが、女に関することだけではまだ人の<span type="ruby"><span type="rb">譏</span><span type="rp">（</span><span type="rt">そし</span><span type="rp">）</span></span>りを受けず、みずから認める過失はなかった。年六十を過ぎた今になって世の非難を受けてもしかたのないことに関与するのも、前生からの約束事だろう」<lb />
+　と言った。<lb />
+「悪口好きな人たちに悪く解釈され、評判が立ちますればそれが根本の仏法の<span type="ruby"><span type="rb">疵</span><span type="rp">（</span><span type="rt">きず</span><span type="rp">）</span></span>になることでございましょう」<lb />
+　快く思っていない弟子はこんな答えをした。自分のする修法の間に効験のない場合にはと非常な決心までもして夜明けまで続けた加持のあとで、他の人に<span type="ruby"><span type="rb">物怪</span><span type="rp">（</span><span type="rt">もののけ</span><span type="rp">）</span></span>を移し、どんなものがこうまで人を苦しめるかと話をさせるため、弟子の<span type="ruby"><span type="rb">阿闍梨</span><span type="rp">（</span><span type="rt">あじゃり</span><span type="rp">）</span></span>がとりどりにまた加持をした。そうしていると先月以来少しも現われて来なかった物怪が法に懲らされてものを言いだした。<lb />
+「自分はここへまで来て、こんなに懲らされるはずの者ではない。生きている時にはよく仏の勤めをした僧であったが、少しの<span type="ruby"><span type="rb">憾</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>みをこの世に<span type="ruby"><span type="rb">遺</span><span type="rp">（</span><span type="rt">のこ</span><span type="rp">）</span></span>したために、成仏ができずさまよい歩くうちに、美しい人の幾人もいる所へ住みつくことになり、一人は死なせてしまったが、この人は自身から人生を恨んで、どうしても死にたいということを夜昼言っていたから、自分の近づくのに都合がよくて、暗い晩に一人でいたのを取って来たのだ。けれども観音がいろいろにして守っておられるため、とうとうこの僧都に負けてしまった。もう帰る」<lb />
+　叫ぶようにこれは言われたのである。<lb />
+「そう言う者はだれか」<lb />
+　と問うたが、移してあった人が単純な者でわきまえの少なかったせいか、それをつまびらかに言うことをなしえなかった。<lb />
+　<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>の姫君はこの時気分が<span type="ruby"><span type="rb">癒</span><span type="rp">（</span><span type="rt">なお</span><span type="rp">）</span></span>り、意識が少し確かになって見まわすと、一人として知った顔はなく、皆老いた僧、顔のゆがんだ尼たちだけであったから、未知の国へ来た気がして非常に悲しくなった。以前のことを思い出そうとするが、どこに住んでいたとも、何という人で自分があったかということすらしかと記憶から呼び出すことができないのであった。ただ自分は<span type="ruby"><span type="rb">入水</span><span type="rp">（</span><span type="rt">じゅすい</span><span type="rp">）</span></span>する決心をして身を投げに行ったということが意識に上ってきた。そしてどこへ来たのであろうとしいて過去を思い出してみると、生きていることがもう堪えがたく悲しいことに思われて、家の人の寝たあとで妻戸をあけて外へ出てみると、風が強く吹いていて川波の音響も荒かったため、一人であることが恐ろしくなり、前後も考えて見ず縁側から足を下へおろしたが、どちらへ向いて行ってよいかもわからず、今さら家の中へ帰って行くこともできず、気強く自殺を思い立ちながら、人に見つけられるような恥にあうよりは鬼でも何でも自分を食べて死なせてほしいと口で言いながらそのままじっと縁側によりかかっていた所へ、きれいな男が出て来て、「さあおいでなさい私の所へ」と言い、抱いて行く気のしたのを、宮様と申した方がされることと自分は思ったが、そのまま失心したもののようであった。知らぬ所へ自分をすわらせてその男は消えてしまったのを見て、自分はこんなことになって、目的とした自殺も遂げられなかったと思い、ひどく泣いていたと思うがそれからのことは何も記憶にない。今人々の語っているのを聞くとそれから多くの日がたったようである。どんなに醜態を人の前にさらした自分で、どんなに知らぬ人の<span type="ruby"><span type="rb">介抱</span><span type="rp">（</span><span type="rt">かいほう</span><span type="rp">）</span></span>を受けてきたのかと思うと恥ずかしく、そしてしまいには今のように<span type="ruby"><span type="rb">蘇生</span><span type="rp">（</span><span type="rt">そせい</span><span type="rp">）</span></span>をしてしまったのであると思われるのが残念で、かえって失心状態であった今日までは意識してではなくものもときどきは食べてきた浮舟の姫君であったが、今は少しの湯さえ飲もうとしない。<lb />
+「どうしてそんなにたよりないふうをばかりお見せになりますか。もうずっと発熱することもなくなって、病苦はあなたから去ったように見えるのを私は喜んでいますのに」<lb />
+　こう言って、尼夫人という緊張した看病人がそばを離れず世話をしていた。他の女房たちも惜しい<span type="ruby"><span type="rb">美貌</span><span type="rp">（</span><span type="rt">びぼう</span><span type="rp">）</span></span>の浮舟の君の<span type="ruby"><span type="rb">恢復</span><span type="rp">（</span><span type="rt">かいふく</span><span type="rp">）</span></span>を祈って皆真心を尽くして世話をした。浮舟の心では今もどうかして死にたいと願うのであったが、あのあぶない時にすら助かった人の命であったから、望んでいる死は近寄って来ず、恢復のほうへこの人は運ばれていった。ようやく頭を上げることができるようになり、食事もするようになったころにかえって重い病中よりも顔の<span type="ruby"><span type="rb">痩</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>せが見えてきた。この人の命を取りとめえたことがうれしく、そのうち健康体になるであろうと尼君は喜んでいるのに、<lb />
+「尼にしてくださいませ、そうなってしまえば生きてもよいという気になれるでしょうから」<lb />
+　と言い、浮舟は出家を望んだ。<lb />
+「いたいたしいあなたをどうしてそんなことにされますか」<lb />
+　と尼君は言い、頭の頂の髪少しを切り、五戒だけを受けさせた。それだけで安心はできないのであるが、<span type="ruby"><span type="rb">賢</span><span type="rp">（</span><span type="rt">さか</span><span type="rp">）</span></span>しげにしいてそれを実現させてくれとも言えなかった。山の僧都は、<lb />
+「もう大丈夫です。このくらいのところで快癒を御仏におすがりすることはやめたらいいでしょう」<lb />
+　と言い残して寺へ帰った。<lb />
+　予期もせぬ夢のような人が現われたものであるというように尼君は恢復期の浮舟を喜んで、しいて勧めて起こし、髪を自身で<span type="ruby"><span type="rb">梳</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>いてやった。長い病中打ちやられてあった髪であるが、はなはだしくは乱れていないで、まもなく<span type="ruby"><span type="rb">縺</span><span type="rp">（</span><span type="rt">もつ</span><span type="rp">）</span></span>れもほぐれて<span type="ruby"><span type="rb">梳</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>きおろされてしまうと、つやつやと光沢が出てきれいに見えた。「<span type="ruby"><span type="rb">百年</span><span type="rp">（</span><span type="rt">ももとせ</span><span type="rp">）</span></span>に一とせ足らぬ<span type="ruby"><span type="rb">九十九髪</span><span type="rp">（</span><span type="rt">つくもがみ</span><span type="rp">）</span></span>」というような人たちの中へ、目もくらむような美しい天女が降って来たように見えるのも、跡なくかき消される姿ではないかという危うさを尼君に覚えさせることになった。<lb />
+「なぜあなたに人情がわからないのでしょう。私がどんなにあなたを愛しているかしれないのに、物隠しをしてばかりおいでになりますね。どこの何という家の方で、なぜ宇治というような所へ来ておいでになりましたの」<lb />
+　尼君から熱心に聞かれて浮舟の姫君は恥ずかしく思った。<lb />
+「重くわずらっておりましたうちに皆忘れてしまったのでしょうか、どんなふうにどこにいたかを少しも覚えていないのですよ。ただね、私は夕方ごとに庭へ近い所に出て寂しい<span type="ruby"><span type="rb">景色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>をながめていたらしゅうございます。そんな時に近くにあった大木の<span type="ruby"><span type="rb">蔭</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>から人が出て来まして私をつれて行ったという気がします。それ以外のことは自分ながらも、だれであるかも思い出されないのですよ」<lb />
+　と姫君は<span type="ruby"><span type="rb">可憐</span><span type="rp">（</span><span type="rt">かれん</span><span type="rp">）</span></span>なふうで言い、<lb />
+「私がまだ生きているということをだれにも知られたくないと思います。それを人が知ってしまっては悲しゅうございます」<lb />
+　と告げて泣いた。あまり聞かれるのが苦しいふうであったから尼君はそれ以上を尋ねようとしなかった。かぐや姫を竹の中に見つけた<span type="ruby"><span type="rb">翁</span><span type="rp">（</span><span type="rt">おきな</span><span type="rp">）</span></span>よりも貴重な発見をしたように思われるこの人は、どんな<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>から消えていくかもしれぬということが不安に思われてならぬ尼夫人であった。この家の人も貴族であった。若いほうの尼君は高級官吏の妻であったが、<span type="ruby"><span type="rb">良人</span><span type="rp">（</span><span type="rt">おっと</span><span type="rp">）</span></span>に死に別れたあとで、一人よりない娘を大事に育てていて、よい<span type="ruby"><span type="rb">公達</span><span type="rp">（</span><span type="rt">きんだち</span><span type="rp">）</span></span>を婿にすることができ、その世話を楽しんでしていたのであるが、娘は病になって死んだ。それを非常に悲しみ尼になってこの山里へ移って来たのである。忘れる時もなく恋しい娘の形見とも思うことのできる人を見つけたいとつれづれなあまりに願っていた人が、意外な、<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">ようぼう</span><span type="rp">）</span></span>も様子も死んだ子にまさった姫君を拾いえたのであったから、現実のことともこれを思うことができず、変わりなしにこの幸福の続いていくかどうかをあやぶみながらもうれしく思っている尼君であった。年はいっているがきれいで、品がよく、身のとりなしにも<span type="ruby"><span type="rb">気高</span><span type="rp">（</span><span type="rt">けだか</span><span type="rp">）</span></span>いところがあった。ここは浮舟のいた宇治の山荘よりは水の音も静かで優しかった。庭の作りも雅味があって、木の姿が皆よく、前の植え込みの<span type="ruby"><span type="rb">灌木</span><span type="rp">（</span><span type="rt">かんぼく</span><span type="rp">）</span></span>や草も<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">じょうず</span><span type="rp">）</span></span>に作られてあった。<lb />
+　秋になると空の色も人の哀愁をそそるようになり、門前の田は稲を刈るころになって、<span type="ruby"><span type="rb">田舎</span><span type="rp">（</span><span type="rt">いなか</span><span type="rp">）</span></span>らしい催し事をし、若い女は<span type="ruby"><span type="rb">唄</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>を高声に歌ってはうれしがっていた。引かれる鳴子の音もおもしろくて浮舟は<span type="ruby"><span type="rb">常陸</span><span type="rp">（</span><span type="rt">ひたち</span><span type="rp">）</span></span>に住んだ秋が思い出されるのであった。同じ小野ではあるが夕霧の<span type="ruby"><span type="rb">御息所</span><span type="rp">（</span><span type="rt">みやすどころ</span><span type="rp">）</span></span>のいた山荘などよりも奥で、山によりかかった家であったから、松影が深く庭に落ち、風の音も心細い思いをさせる所で、つれづれになってはだれも勤行ばかりをする仏前の声が寂しく心をぬらした。尼君は月の明るい夜などに琴を<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いた。少将の尼という人は<span type="ruby"><span type="rb">琵琶</span><span type="rp">（</span><span type="rt">びわ</span><span type="rp">）</span></span>を弾いて相手を勤めていた。<lb />
+「音楽をなさいますか。でなくては退屈でしょう」<lb />
+　と尼君は姫君に言っていた。昔も母の行く国々へつれまわられていて、静かにそうしたものの<span type="ruby"><span type="rb">稽古</span><span type="rp">（</span><span type="rt">けいこ</span><span type="rp">）</span></span>をする間もなかった自分は風雅なことの端も知らないで人となった、こんな年のいった人たちさえ音楽の道を楽しんでいるのを見るおりおりに<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>の姫君はあわれな過去の自身が思い出されるのであった。そして何の信念も持ちえなかった自分であったとはかなまれて、手習いに、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+身を投げし涙の川の早き瀬にしがらみかけてたれかとどめし<lb />
+</span>
+<lb />
+　こんな歌を書いていた。よいことの拾い出せない過去から思えば将来も同じ薄命道を続けて歩んで行くだけであろうと自身がうとましくさえなった。<lb />
+　月の明るい夜ごとに老いた女たちは気どった歌を<span type="ruby"><span type="rb">詠</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>んだり、昔の思い出話をするのであったが、その中へ混じりえない浮舟の姫君はただつくづくと物思いをして、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+われかくて浮き世の中にめぐるともたれかは知らん月の都に<lb />
+</span>
+<lb />
+　こんな歌も詠まれた。自殺を決意した時には、もう一度逢いたく思った人も多かったが、他の人々のことはそう思い出されもしない。母がどんなに悲しんだことであろう。<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">めのと</span><span type="rp">）</span></span>がどうかして自分に人並みの幸福を得させたいとあせっていたかしれぬのにあの成り行きを見て、さぞ落胆をしたことであろう、今はどこにいるだろう、自分がまだ生きていると知りえようはずがない、気の合った人もないままに、主従とはいえ隔てのない友情を持ち合ったあの<span type="ruby"><span type="rb">右近</span><span type="rp">（</span><span type="rt">うこん</span><span type="rp">）</span></span>のこともおりおりは思い出される浮舟であった。若い女がこうした山の家に世の中をあきらめて暮らすことは不可能なことであったから、そうした女房はいず、長く使われている尼姿の七、八人だけが常の女房であった。その人たちの娘とか孫とかいう人らで、京で宮仕えをしているのも、また普通の家庭にいるのも時々出て来ることがあった。そうした人が宇治時代の関係者の所へ出入りすることもあって、自分の生きていることが宮にも大将にも知れることになったならきわめて恥ずかしいことである、ここへ来た経路についてどんな悪い想像をされるかもしれぬ、過去において正しく踏みえた人の道ではなかったのであるからと思う<span type="ruby"><span type="rb">羞恥</span><span type="rp">（</span><span type="rt">しゅうち</span><span type="rp">）</span></span>心から、姫君は京の人たちには決して姿を見せることをしなかった。尼君は侍従という女房と<span rend="SESAME_DOT" rendition="strong">こもき</span>という童女を姫君付きにしてあった。容貌も性質も昔日の都の女たちにくらべがたいものであった。何につけても人の世とは別な世界というものはこれであろうと思われる。こんなふうに人にかくれてばかりいる浮舟を、この人の言うとおりにめんどうなつながりを世間に持っていて、それからのがれたい<span type="ruby"><span type="rb">理由</span><span type="rp">（</span><span type="rt">わけ</span><span type="rp">）</span></span>が何ぞあるのであろうと尼君も今では思うようになって、くわしいことは家の人々にも知らせないように努めていた。<lb />
+　尼君の昔の婿は現在では中将になっていた。弟の禅師が僧都の弟子になって山にこもっているのを<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねに兄たちはよく寺へ上った。<span type="ruby"><span type="rb">横川</span><span type="rp">（</span><span type="rt">よかわ</span><span type="rp">）</span></span>へ行く道にあたっているために中将はときどき小野の尼君を訪ねに寄った。<span type="ruby"><span type="rb">前払</span><span type="rp">（</span><span type="rt">さきばら</span><span type="rp">）</span></span>いの声が聞こえ、品のよい男が門をはいって来るのを、家からながめて浮舟の姫君は、いつでも目だたぬふうにしてあの宇治の山荘へ来た<span type="ruby"><span type="rb">薫</span><span type="rp">（</span><span type="rt">かおる</span><span type="rp">）</span></span>の幻影をさやかに見た。心細い家ではあるが住みなれた人は満足して、きれいにあたりが作ってあって、<span type="ruby"><span type="rb">垣</span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span>に植えた<span type="ruby"><span type="rb">撫子</span><span type="rp">（</span><span type="rt">なでしこ</span><span type="rp">）</span></span>も形よく、<span type="ruby"><span type="rb">女郎花</span><span type="rp">（</span><span type="rt">おみなえし</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">桔梗</span><span type="rp">（</span><span type="rt">ききょう</span><span type="rp">）</span></span>などの咲きそめた植え込みの庭へいろいろの<span type="ruby"><span type="rb">狩衣</span><span type="rp">（</span><span type="rt">かりぎぬ</span><span type="rp">）</span></span>姿をした若い男たちが付き添い、中将も同じ装束ではいって来たのであった。<lb />
+　南向きの座敷へ席が設けられたのでそこへすわり、沈んだふうを見せてその辺を見まわしていた。年は二十七、八で、整った男盛りと見え、あさはかでなく見せたい様子を作っていた。尼君は隣室の<span type="ruby"><span type="rb">襖子</span><span type="rp">（</span><span type="rt">からかみ</span><span type="rp">）</span></span>の口へまで来て対談した。少し泣いたあとで、<lb />
+「過ぎた月日の長くなりましたことで、あの時代といいますものが遠い世のような気がいたされながら、おいでくださいますのを山里に添えられる光明のように思われまして、今でもあなたをお待ちすることが心から離れませんのを不思議に思っております」<lb />
+　と言うのを聞いて、中将は湿った気持ちになり、<lb />
+「昔のことの思われない時もないのですが、世の中から離脱したことを<span type="ruby"><span type="rb">標榜</span><span type="rp">（</span><span type="rt">ひょうぼう</span><span type="rp">）</span></span>しておいでになるような今の御生活に対して、古いことにとらわれている自分が恥ずかしくって、お訪ねいたすのも怠りがちになってしまいました。山ごもりをしている弟もまたうらやましくなり、<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>のお寺へはよくまいるのですが、ぜひ同行したいという人が多いものですから、お寄りするのを妨げられる結果になりまして、失礼もしましたが、今日は都合よくその連中を断わって来ました」<lb />
+　と言っていた。<lb />
+「山ごもりをおうらみになったりしては、かえって近ごろの流行かぶれに思われますよ。昔をお忘れにならないお志は現代の風潮と変わったありがたいことと、お<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>を聞いて思うことが多うございます」<lb />
+　などと言うのは尼君であった。ついて来た人々に<span type="ruby"><span type="rb">水飯</span><span type="rp">（</span><span type="rt">すいはん</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">饗応</span><span type="rp">（</span><span type="rt">きょうおう</span><span type="rp">）</span></span>され、中将には<span type="ruby"><span type="rb">蓮</span><span type="rp">（</span><span type="rt">はす</span><span type="rp">）</span></span>の実などを出した。そんな間食をしたりすることもここでは遠慮なくできる中将であったから、おりから<span type="ruby"><span type="rb">俄雨</span><span type="rp">（</span><span type="rt">にわかあめ</span><span type="rp">）</span></span>の降り出したのにも出かけるのをとめられて尼君となおもしみじみとした話をかわしていた。娘を失ったことよりも情のこまやかであったこの婿君を家の人でなくしてしまったことが、より以上尼君に悲痛なことであって、娘はなぜ忘れ形見でも残していかなかったかとそれを歎いている心から、たまさかにこうして中将の訪問を受けるのは非常な<span type="ruby"><span type="rb">悦</span><span type="rp">（</span><span type="rt">よろこ</span><span type="rp">）</span></span>びであったから、大事な秘密としていることもつい口へ出てしまうことになりそうであった。<lb />
+　浮舟の姫君は昔について尼君とは異なった悲しみを多く覚え、庭のほうをながめ入っている顔が非常に美しい。同じ白といってもただ白い一方でしかない、目に情けなく見える<span type="ruby"><span type="rb">単衣</span><span type="rp">（</span><span type="rt">ひとえ</span><span type="rp">）</span></span>に、<span type="ruby"><span type="rb">袴</span><span type="rp">（</span><span type="rt">はかま</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">檜皮</span><span type="rp">（</span><span type="rt">ひはだ</span><span type="rp">）</span></span>色の尼の袴を作りなれたせいか黒ずんだ赤のを着けさせられていて、こんな物も昔着た物に似たところのないものであると姫君は思いながら、そのこわごわとしたのをそのまま着た姿もこの人だけには美しい感じに受け取れた。女房たちが、<lb />
+「このごろはお<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>れになった姫君が帰っておいでになった気がしているのに、中将様さえも来ておいでになってはいよいよその時代が今であるような錯覚が起こりますね。できるならば昔どおりにこの姫君と御夫婦におさせしたい、よくお似合いになるお二人でしょう」<lb />
+　こんなことを言っているのも浮舟の耳にはいった。思いも寄らぬことである、普通の女の生活に帰って、どんな人とにもせよ結婚をすることなどはしようと思わない、それによって自分はただ昔を思うばかりの人になるであろうから、もうそうした身の上には絶対になるまい、そして昔を忘れたいと浮舟の姫君は思った。<lb />
+　尼君が内へ引っ込んだあとで、中将は降りやまぬ雨をながめることに退屈を覚え、少将といった人の声に聞き覚えがあってそばへ呼び寄せた。<lb />
+「昔のなじみの人たちは今も皆ここにおられるのであろうかと、思ってみる時があっても、こうした御訪問も自然できなくなってしまっている私を、薄情なようにも皆さんは思っておられるでしょう」<lb />
+　こんなことを中将は言った。親しく中将にも仕えていた女房であったから、昔の妻についての思い出話をしたあとで、<lb />
+「私がさっき廊の端を通ったころに、風がひどく吹いていて、<span type="ruby"><span type="rb">簾</span><span type="rp">（</span><span type="rt">すだれ</span><span type="rp">）</span></span>が騒がしく動く紛れに、その合い間から、普通の女房とは思われない人の後ろへ引いた髪が見えたから、尼様たちのお<span type="ruby"><span type="rb">住居</span><span type="rp">（</span><span type="rt">すまい</span><span type="rp">）</span></span>にだれが来ておられるのかと驚きましたよ」<lb />
+　と中将が言いだした。姫君が立って隣室へお行きになった後ろ姿を見たのであろうと少将は思い、まして細かに見せたなら多大に心の<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれることであろう、あの方に比べれば昔の方はずっと劣っておいでになったのであるが、まだ忘られぬように恋しがっている人であるからと少将は心に思い、ひとり決めではなやかに事の発展していくことを予期して、<lb />
+「お<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>れになった姫君のことがお忘れになれませんで困っていらっしゃいます時に、思いがけぬ姫君をお見つけになりまして、今では明け暮れの慰めにして奥様がお世話をしておいでになるのですが、そのお姿を不思議にお目におとめになりましたのでございますね」<lb />
+　こう語った。そんなおもしろい事実があったのかと興味のわいてきた中将は、どうした家の娘であろう、それとなく今少将が言うとおりに美しい人らしくほのかに見ただけの人からかえって深い印象の与えられたのを中将は感じた。くわしく聞こうとするのであるが、少将は事実をそのまま告げようとはせずに、<lb />
+「そのうちおわかりになるでしょう」<lb />
+　とだけ言っているのに対して、にわかに質問をしつこくするのも恥ずかしくなり、従者が、<lb />
+「雨もやみました。日が暮れるでしょうから」<lb />
+　と<span type="ruby"><span type="rb">促</span><span type="rp">（</span><span type="rt">うなが</span><span type="rp">）</span></span>す声のままに中将は出かけようとするのであった。縁側を少し離れた所に咲いた<span type="ruby"><span type="rb">女郎花</span><span type="rp">（</span><span type="rt">おみなえし</span><span type="rp">）</span></span>を手に折って「何にほふらん」（女郎花人のもの言ひさがにくき世に）と口ずさんで立っていた。<lb />
+「人から何とか言われるのをさすがに恐れておいでになるのですね」<lb />
+　などと古めかしい人らはそれをほめていた。<lb />
+「ますますきれいにおなりになってりっぱだね。できることなら昔どおりの間柄になってつきあいたい」<lb />
+　と尼君も言っているのであった。<lb />
+「<span type="ruby"><span type="rb">藤</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>中納言のお<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へは始終通っておいでになると見せておいでになって、気に入った奥さんでないらしくてね、お父様のお<span type="ruby"><span type="rb">邸</span><span type="rp">（</span><span type="rt">やしき</span><span type="rp">）</span></span>に暮らしておいでになることのほうが多いということだね」<lb />
+　こんな話も女房相手にしてから、浮舟へ、<lb />
+「あなたはまだ私に隔て心を持っておいでになるのが恨めしくてなりませんよ。もう何事も宿命によるのだとあきらめておしまいになって、晴れ晴れしくなってくださいよ。この五、六年片時も忘れることができなくて悲しい悲しいと思っていた人のことも、あなたという方をそばで見るようになってからは忘れてしまいましたよ私は。あなたをお愛しになった方がたがこの世においでになっても、もうあなたはお<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くなりになったものと今ではあきらめておいでになりましょうよ。何のことだってその当時ほどに人は思わないものですからね」<lb />
+　と言うのを聞くうちにも姫君は涙ぐまれてくるのであった。<lb />
+「私は何も隔てをお置きする気などはないのですけれども、不思議な<span type="ruby"><span type="rb">蘇生</span><span type="rp">（</span><span type="rt">そせい</span><span type="rp">）</span></span>をしましてからは、何も皆夢のようにしか思い出せなくなっていまして、別の世界へ生まれた人はこんな気がするものであろうと感じられますから、身寄りというものがこの世にまだあるとも、思っていません私は、あなたの愛だけを頼みにしているのでございます」<lb />
+　と言う<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>の顔に純真さが見えてかわいいのを尼君は<span type="ruby"><span type="rb">笑</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>みながら見守っていた。<lb />
+　山の寺へ着いた中将を僧都も喜んで迎え、いろいろと世上の話を聞いたりした。その夜は宿泊することにして尊い声の出る僧たちに経を読ませて遊び明かした。弟の禅師とこまやかな話をしているうちに中将は、<lb />
+「小野へ寄って来たがね、身にしむ思いを味わわせられた。出家したあとまであれだけ高雅な趣味のある生活のできる人は少ないだろうね」<lb />
+　こんなことを言い、続いて、<lb />
+「風が<span type="ruby"><span type="rb">御簾</span><span type="rp">（</span><span type="rt">みす</span><span type="rp">）</span></span>を吹き上げた時に、髪の長い美しい人を見た。あらわになったと気のついたように立って行ったが、後ろ姿が平凡な人とは見えなかった。ああした所に若い貴女などは置いていいものでないね。明け暮れ見る人といっては坊様だけだから、のぞく者がないかと使う神経が<span type="ruby"><span type="rb">弛緩</span><span type="rp">（</span><span type="rt">ちかん</span><span type="rp">）</span></span>してしまうからね、気の毒だよ」<lb />
+　こんな話をした。<lb />
+「この春<span type="ruby"><span type="rb">初瀬</span><span type="rp">（</span><span type="rt">はせ</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">詣</span><span type="rp">（</span><span type="rt">まい</span><span type="rp">）</span></span>って不思議な縁でおつれになった若いお嬢さんだということです」<lb />
+　禅師は自身の携わった事件でなく知るはずもなかったから細かには言わない。<lb />
+「かわいそうな人なのだね、どんな家の人だろう。世の中が悲しくなったればこそそうした寺へ来て隠れていたのだろうからね。昔の小説の中のことのようだ」<lb />
+　と中将は言った。<lb />
+　翌日山からの帰途にもまた、<lb />
+「通り過ぎることができぬ気になって」<lb />
+　こんなことを言って小野の家へ立ち寄った。ここでは迎えることを期していて食事の<span type="ruby"><span type="rb">仕度</span><span type="rp">（</span><span type="rt">したく</span><span type="rp">）</span></span>もできていた。昔どおりに給仕をする少将の尼の普通に異なった<span type="ruby"><span type="rb">袖口</span><span type="rp">（</span><span type="rt">そでぐち</span><span type="rp">）</span></span>の色も悪い感じはせず美しく思われた。尼夫人は<span type="ruby"><span type="rb">昨日</span><span type="rp">（</span><span type="rt">きのう</span><span type="rp">）</span></span>よりもまだひどい涙目になって中将を見た。感謝しているのである。話のついでに中将が、<lb />
+「このお<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に来ておいでになる若い方はどなたですか」<lb />
+　と尋ねた。めんどうになるような気はするのであったが、すでに<span type="ruby"><span type="rb">隙見</span><span type="rp">（</span><span type="rt">すきみ</span><span type="rp">）</span></span>をしたらしい人に隠すふうを見せるのはよろしくないと思った尼君は、<lb />
+「昔の人のことをあまり心に持っていますのは罪の深いことになると思いまして、ここ幾月か前から娘の代わりに家へ住ませることになった人のことでしょう。どういう理由か沈んだふうでばかりいまして、自分の存在が、人に知れますことをいやがっておりますから、こんな谷底へだれがあなたを捜しに来ますかと私は慰めて隠すようにしてあげているのですが、どうしてその人のことがおわかりになったのでしょう」<lb />
+「かりに突然求婚者になって現われた私としましても、遠い<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>も思わず来たということで特典を与えられなければならないのですからね、ましてあなたが昔の人と思ってお世話をしていらっしゃる方であれば、私の志を昔に継いで受け入れてくだすっていいはずだと思います。どんな理由で人生を悲観していられる方なのですかねえ。慰めておあげしたく思われますよ」<lb />
+　好奇心の隠せぬふうで中将は言った。帰りぎわに懐紙へ、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+あだし野の風になびくな<span type="ruby"><span type="rb">女郎花</span><span type="rp">（</span><span type="rt">をみなへし</span><span type="rp">）</span></span>われしめゆはん<span type="ruby"><span type="rb">路</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>遠くとも<lb />
+</span>
+<lb />
+　と書いて、少将の尼に姫君の所へ持たせてやった。尼君もそばでいっしょに読んだ。<lb />
+「返しを書いておあげなさい。紳士ですから、それがあとのめんどうを起こすことになりますまいからね」<lb />
+　こう勧められても、<lb />
+「まずい字ですから、どうしてそんなことが」<lb />
+　と言い、浮舟の聞き入れないのを見て、失礼になることだからと尼君が、<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+お話しいたしましたように、世間<span type="ruby"><span type="rb">馴</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>れぬ内気な人ですから、<lb />
+<lb />
+</span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+移し植ゑて思ひ乱れぬ女郎花浮き世をそむく草の<span type="ruby"><span type="rb">庵</span><span type="rp">（</span><span type="rt">いほり</span><span type="rp">）</span></span>に<lb />
+</span>
+<lb />
+　と書いて出した。はじめてのことであってはこれが普通であろうと思って中将は帰った。<lb />
+　中将は小野の人に手紙を送ることもさすがに今さら若々しいことに思われてできず、しかもほのかに見た姿は忘れることができずに苦しんでいた。<span type="ruby"><span type="rb">厭世</span><span type="rp">（</span><span type="rt">えんせい</span><span type="rp">）</span></span>的になっているのは何の理由であるかはわからぬが哀れに思われて、八月の十日過ぎにはまた<span type="ruby"><span type="rb">小鷹狩</span><span type="rp">（</span><span type="rt">こたかが</span><span type="rp">）</span></span>りの帰りに小野の家へ寄った。例の少将の尼を呼び出して、<lb />
+「お姿を少し隙見で知りました時から落ち着いておられなくなりました」<lb />
+　と取り次がせた。浮舟の姫君は返辞をしてよいことと認めず黙っていると、尼君が、<lb />
+「<span type="ruby"><span type="rb">待乳</span><span type="rp">（</span><span type="rt">まつち</span><span type="rp">）</span></span>の山の（たれをかも待乳の山の女郎花秋と契れる人ぞあるらし）と見ております」<lb />
+　と言わせた。それから昔の<span type="ruby"><span type="rb">姑</span><span type="rp">（</span><span type="rt">しゅうとめ</span><span type="rp">）</span></span>と婿は対談したのであるが、<lb />
+「気の毒な様子で暮らしておいでになるとお話しになりました方のことをくわしく承りたく思います。満足のできない生活が続くものですから、山寺へでもはいってしまいたくなるのですが、同意されるはずもない両親を思いまして、そのままにしています私は、幸福な人には自分の沈んだ心から親しんでいく気になれませんが、不幸な人には慰め合うようになりたく思われてなりません」<lb />
+　中将は熱心に言う。<lb />
+「不しあわせをお話しになろうとなさいますのには相当したお相手だと思いますけれど、あの方はこのまま俗の姿ではもういたくないということを始終言うほどにも悲観的になっています。私ら年のいった人間でさえいよいよ出家する時には心細かったのですから、春秋に富んだ人に、それが実行できますかどうかと私はあぶながっています」<lb />
+　尼君は親がって言うのであった。姫君の所へ行ってはまた、<lb />
+「あまり冷淡な人だと思われますよ。少しでも返辞を取り次がせておあげなさいよ。こんなわび住まいをしている人たちというものは、自尊心は陰へ隠して人情味のある交際をするものなのですよ」<lb />
+　などと言うのであるが、<lb />
+「私は人とどんなふうにものを言うものなのか、その方法すら知らないのですもの。私は何の点でも人並みではございません」<lb />
+　浮舟の姫君はそのまま横になってしまった。中将はあちらで、<lb />
+「どちらへおいでになったのですか、御冷遇を受けますね。『秋を<span type="ruby"><span type="rb">契</span><span type="rp">（</span><span type="rt">ちぎ</span><span type="rp">）</span></span>れる』はただ私をおからかいになっただけなのですか」<lb />
+　などと尼君を恨めしそうに言い、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+松虫の声をたづねて来しかどもまた<span type="ruby"><span type="rb">荻原</span><span type="rp">（</span><span type="rt">をぎはら</span><span type="rp">）</span></span>の露にまどひぬ<lb />
+</span>
+<lb />
+　と歌いかけた。<lb />
+「まあおかわいそうに、歌のお返しでもなさいよ」<lb />
+　尼夫人はこう姫君に迫るのであったが、そんな恋愛の遊戯めいたことをする気はなく、また一度歌を<span type="ruby"><span type="rb">詠</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>めば、こうした時々に返しを返しをと責められるであろうことも煩わしいと思う心から、ものも言わずにいるのを見て尼夫人も女房もあまりにふがいない人と思うらしかった。尼君は若い時代に<span type="ruby"><span type="rb">機智</span><span type="rp">（</span><span type="rt">きち</span><span type="rp">）</span></span>を誇った才女であったのであろう。<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+「秋の野の露分け来たる狩りごろも<span type="ruby"><span type="rb">葎</span><span type="rp">（</span><span type="rt">むぐら</span><span type="rp">）</span></span>茂れる宿にかこつな<lb />
+</span>
+<lb />
+　迷惑がっておられます」<lb />
+　と言っているのを、浮舟は聞きながら、こうしたことからまだ自分の世の中にいることが昔の人々に知れ始めることにならないであろうかと苦しく思っていた。姫君の気持ちも知らずに、昔の姫君と同じくこの婿君をもなつかしがることの多い女房たちは、<lb />
+「ただちょっと深い意味でもなくお立ち寄りになった方ですから、お話をなすってもよろしくない方へ進出しようなどとは大丈夫なさいませんから、御結婚問題などは別にして、好意のある程度のお返辞だけはしておあげなさいまし」<lb />
+　などと言い、<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>も引き動かすばかりに言うのであった。さすがに年を取った女たちは尼君が柄にもなく若々しく歌らしくもない歌をいい気で<span type="ruby"><span type="rb">詠</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>んで中将の相手をしていることは興ざめることと思っているのである。<lb />
+　なんという不幸な自分であろう、捨てるのに<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ちゅうちょ</span><span type="rp">）</span></span>しなかった命さえもまだ残っていて、この先どうなっていくのであろう、全く死んだ者として<span type="ruby"><span type="rb">何人</span><span type="rp">（</span><span type="rt">なんびと</span><span type="rp">）</span></span>からも忘れられたいと思い悩んで、横になったままの姿で<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>はいた。中将は何かほかにも<span type="ruby"><span type="rb">愁</span><span type="rp">（</span><span type="rt">うれ</span><span type="rp">）</span></span>わしいことがあるのか、ひどく<span type="ruby"><span type="rb">歎息</span><span type="rp">（</span><span type="rt">たんそく</span><span type="rp">）</span></span>をして、笛を鳴らしながら「<span type="ruby"><span type="rb">鹿</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>の鳴く<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>に」（山里は秋こそことにわびしけれ鹿の鳴く音に目をさましつつ）などと口ずさんでいる様子は相当な男と見えた。<lb />
+「ここへまいっては昔の思い出に心は苦しみますし、また新しく私をあわれんでくだすってよい方はその心になってくださらないし『世のうき目見えぬ山路』とも思われません」<lb />
+　と恨めしそうに言い、帰ろうとした時に、尼君が、<lb />
+「あたら夜を（あたら夜の月と花とを同じくは心知れらん人に見せばや）お帰りになるのですか」<lb />
+　と言って、<span type="ruby"><span type="rb">御簾</span><span type="rp">（</span><span type="rt">みす</span><span type="rp">）</span></span>の所へ出て来た。<lb />
+「もうたくさんですよ。山里も悲しいものだということがわかりましたから」<lb />
+　などと中将は言い、新しい姫君へむやみに接近したいふうを見せることもしたくない、ほのかに少し見た人の印象のよかったばかりに、空虚で退屈な心の補いに恋をし始めたにすぎない相手があまりに冷淡に思い上がった態度をとっているのは場所柄にもふさわしくないことであると不快に思われる心から、帰ろうとするのであったが、尼君は笛の音に別れることすらも惜しくて、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+深き夜の月を哀れと見ぬ人や山の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>近き宿にとまらぬ<lb />
+</span>
+<lb />
+　と奥様は仰せられますと取り次ぎで言わせたのを聞くとまたときめくものを覚えた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+山の端に入るまで月をながめ見ん<span type="ruby"><span type="rb">閨</span><span type="rp">（</span><span type="rt">ねや</span><span type="rp">）</span></span>の板間もしるしありやと<lb />
+</span>
+<lb />
+　こんな返しを伝えさせている時、この家の大尼君が、さっきから笛の音を聞いていて、心の<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれるままに出て来た。間で<span type="ruby"><span type="rb">咳</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>ばかりの出るふるえ声で話をするこの老人はかえって昔のことを言いだしたりはしない。笛を吹く人がだれであるかもわからぬらしい。<lb />
+「さあそこの琴をあなたはお<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>きよ。横笛は月夜に聞くのがいいね。どこにいるか、童女たち、琴を奥様におあげなさい」<lb />
+　と言っている。さっきから大尼君らしいと中将は察して聞いていたのであるが、この家のどこにこうした大年寄が無事に暮らしていたのであろうと思い、<span type="ruby"><span type="rb">老若</span><span type="rp">（</span><span type="rt">ろうにゃく</span><span type="rp">）</span></span>も差別のない無常の世がこれによってまた思われて悲しまれるのであった。<span type="ruby"><span type="rb">盤渉調</span><span type="rp">（</span><span type="rt">ばんしきちょう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">じょうず</span><span type="rp">）</span></span>に吹いて、<lb />
+「さあ、それではお合わせください」<lb />
+　と言う。これも相応に風流好きな尼夫人は、<lb />
+「あなたのお笛は昔聞きましたよりもずっと巧妙におなりになったように思いますのも、平生山風以外に聞くもののないせいかもしれません。私のはまちがいだらけになっているでしょう」<lb />
+　と言いながら琴を弾いた。現代の人はあまり琴の器楽を好まなくなって、弾き手も少なくなったためか、珍しく身にしむように思って、中将は相手の<span type="ruby"><span type="rb">絃</span><span type="rp">（</span><span type="rt">いと</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>を聞いた。松風もゆるやかに伴奏をし、月光も笛の音を引き立てるようにさしていたから、いよいよ大尼君を喜ばせることになって、<span type="ruby"><span type="rb">宵</span><span type="rp">（</span><span type="rt">よい</span><span type="rp">）</span></span>まどいもせず起き続けていた。<lb />
+「昔はこの年寄りも和琴をうまく弾きこなしたものですがねえ、今は弾き方も変わっているかしれませんね。<span type="ruby"><span type="rb">息子</span><span type="rp">（</span><span type="rt">むすこ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>から、聞き苦しい、念仏よりほかのことをあなたはしないようになさいと<span type="ruby"><span type="rb">叱</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>られましてね。それじゃあ弾かせてもらわないでもいいと思って弾かないのですよ。それに私の手もとにある和琴は名器なのですよ」<lb />
+　大尼君はこんなふうに言い続けて弾きたそうに見えた。中将は忍び笑いをして、<lb />
+「僧都がおとめになるのはどうしたことでしょう。極楽という所では<span type="ruby"><span type="rb">菩薩</span><span type="rp">（</span><span type="rt">ぼさつ</span><span type="rp">）</span></span>なども皆音楽の遊びをして、天人は舞って遊ぶということなどで極楽がありがたく思われるのですがね。仏勤めの<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>りになることでもありませんしね、今夜はそれを伺わせてください」<lb />
+　とからかう気で言った言葉に、大尼君は満足して、<lb />
+「さあ座敷がかりの童女たち、<span type="ruby"><span type="rb">和琴</span><span type="rp">（</span><span type="rt">あずま</span><span type="rp">）</span></span>を持っておいでよ」<lb />
+　この短い言葉の間にも<span type="ruby"><span type="rb">咳</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>は引っきりなしに出た。尼夫人も女房たちも大尼君に琴を弾かれては見苦しいことになるとは思ったが、このためには僧都をさえも恨めしそうに人へ訴える人であるからと同情して自由にさせておいた。楽器が来ると、笛で何が吹かれていたかも思ってみず、ただ自身だけがよい気持ちになって、<span type="ruby"><span type="rb">爪音</span><span type="rp">（</span><span type="rt">つまおと</span><span type="rp">）</span></span>もさわやかに弾き出した。笛も琴も音のやんだのは自分の音楽をもっぱらに賞美したい心なのであろうと当人は解釈して、<span rend="SESAME_DOT" rendition="strong">ちりふり</span>、<span rend="SESAME_DOT" rendition="strong">ちりちり</span>、<span rend="SESAME_DOT" rendition="strong">たりたり</span>などとかき返してははしゃいだ言葉もつけて言うのも古めかしいことのかぎりであった。<lb />
+「おもしろいですね。ただ今では聞くことのできないような言葉がついていて」<lb />
+　などと中将がほめるのを、耳の遠い老尼はそばの者に聞き返して、<lb />
+「今の若い者はこんなことが好きでなさそうですよ。この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に幾月か前から来ておいでになる姫君も、<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>はいいらしいが、少しもこうしたむだな遊びをなさらず引っ込んでばかりおいでになりますよ」<lb />
+　と、<span type="ruby"><span type="rb">賢</span><span type="rp">（</span><span type="rt">さかし</span><span type="rp">）</span></span>がって言うのを尼夫人などは片腹痛く思った。大老人のあずま琴で興味のしらけてしまった席から中将の帰って行く時も山おろしが吹いていた。それに混じって聞こえてくる笛の音が美しく思われて人々は寝ないで夜を明かした。<lb />
+　翌日中将の所から、<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+昨日は昔と今の歎きに心が乱されてしまいまして、失礼な帰り方をしました。<lb />
+<lb />
+</span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+忘られぬ昔のことも笛竹の継ぎし<span type="ruby"><span type="rb">節</span><span type="rp">（</span><span type="rt">ふし</span><span type="rp">）</span></span>にも<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>ぞ泣かれける<lb />
+<lb />
+</span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+あの方へ私の誠意を認めてくださるようにお教えください。内に忍んでいるだけで足る心でしたならこんな軽はずみ男と見られますようなことまでは決して申し上げないでしょう。<lb />
+</span>
+　と言う消息が尼君へあった。これを見て昔の婿君をなつかしんでいる尼夫人は泣きやむことができぬふうに涙を流したあとで返事を書いた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+笛の音に昔のことも忍ばれて帰りしほども袖ぞ<span type="ruby"><span type="rb">濡</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>れにし<lb />
+<lb />
+</span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+不思議なほど普通の若い人と違った人のことは老人の問わず語りからも御承知のできたことと思います。<lb />
+</span>
+　と言うのである。<lb />
+　恋しく思う人の字でなく、見なれた昔の<span type="ruby"><span type="rb">姑</span><span type="rp">（</span><span type="rt">しゅうとめ</span><span type="rp">）</span></span>の字であるのに興味が持てず、そのまま中将は置き放しにしたことであろうと思われる。<lb />
+　<span type="ruby"><span type="rb">荻</span><span type="rp">（</span><span type="rt">おぎ</span><span type="rp">）</span></span>の葉に通う秋風ほどもたびたび中将から手紙の送られるのは困ったことである。人の心というものはどうしていちずに集まってくるのであろう、と昔の苦しい経験もこのごろはようやく思い出されるようになった浮舟は思い、もう自分に恋愛をさせぬよう、また人からもその思いのかからぬように早くしていただきたいと仏へ頼む意味で経を習って姫君は読んでいた。心の中でもそれを念じていた。こんなふうに寂しい道を選んでいる浮舟を、若い人でありながらおもしろい空気も格別作らず、うっとうしいのがその性質なのであろうと周囲の人は思った。<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">ようぼう</span><span type="rp">）</span></span>のすぐれて美しいことでほかの欠点はとがめる気もせず朝暮の目の慰めにしていた。少し笑ったりする時には、珍しく華麗なものを見せられる喜びを皆した。<lb />
+　九月になって尼夫人は<span type="ruby"><span type="rb">初瀬</span><span type="rp">（</span><span type="rt">はせ</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">詣</span><span type="rp">（</span><span type="rt">まい</span><span type="rp">）</span></span>ることになった。さびしく心細いばかりであった自分は故人のことばかりが思われてならなかったのに、この姫君のように可憐で肉身とより思えぬ人を得たことは観音の利益であると信じて尼君はお礼詣りをするのであった。<lb />
+「さあいっしょに行きましょう。だれにわかることがあるものですか。同じ仏様でもあのお寺などにこもってお願いすることは<span type="ruby"><span type="rb">効験</span><span type="rp">（</span><span type="rt">ききめ</span><span type="rp">）</span></span>があってよい結果を見た例がたくさんあるのですよ」<lb />
+　と言って、尼君は姫君に同行を勧めるのであったが、昔母や<span type="ruby"><span type="rb">乳母</span><span type="rp">（</span><span type="rt">めのと</span><span type="rp">）</span></span>などがこれと同じことを言ってたびたびお詣りをさせたが、自分には、何のかいもなかった、命さえも<span type="ruby"><span type="rb">意</span><span type="rp">（</span><span type="rt">こころ</span><span type="rp">）</span></span>のままにならず、言いようもない悲しい身になっているではないか、と浮舟は思ううちにもこの一家の知らぬ人々に伴われてあの<span type="ruby"><span type="rb">山路</span><span type="rp">（</span><span type="rt">やまみち</span><span type="rp">）</span></span>を自分の来たことは恥ずかしい事実であったと身に<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んでさえ思われた。<span type="ruby"><span type="rb">強情</span><span type="rp">（</span><span type="rt">ごうじょう</span><span type="rp">）</span></span>らしくは言わずに、<lb />
+「私は気分が始終悪うございますから、そうした<span type="ruby"><span type="rb">遠路</span><span type="rp">（</span><span type="rt">とおみち</span><span type="rp">）</span></span>をしましてまた悪くなるようなことがないかと心配ですから」<lb />
+　と断わっていた。いかにもそうした物恐れをしそうな人であると思って、尼君はしいても言わなかった。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+はかなくて世にふる川のうき瀬には訪ねも行かじ<span type="ruby"><span type="rb">二本</span><span type="rp">（</span><span type="rt">ふたもと</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">杉</span><span type="rp">（</span><span type="rt">すぎ</span><span type="rp">）</span></span><lb />
+</span>
+<lb />
+　と書いた歌が手習い紙の中に混じっていたのを尼君が見つけて、<lb />
+「<span type="ruby"><span type="rb">二本</span><span type="rp">（</span><span type="rt">ふたもと</span><span type="rp">）</span></span>とお書きになるのでは、もう一度お逢いになりたいと思う方があるのですね」<lb />
+　と<span type="ruby"><span type="rb">冗談</span><span type="rp">（</span><span type="rt">じょうだん</span><span type="rp">）</span></span>で言いあてられたために、姫君ははっとして顔を赤くしたのも<span type="ruby"><span type="rb">愛嬌</span><span type="rp">（</span><span type="rt">あいきょう</span><span type="rp">）</span></span>の添ったことで美しかった。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ふる川の杉の<span type="ruby"><span type="rb">本立</span><span type="rp">（</span><span type="rt">もとだち</span><span type="rp">）</span></span>知らねども過ぎにし人によそへてぞ見る<lb />
+</span>
+<lb />
+　平凡なものであるが尼君は考える間もないほどのうちにこんな歌を告げた。目だたぬようにして行くことにしていたのであるが、だれもかれもが行きたがり、<span type="ruby"><span type="rb">留守</span><span type="rp">（</span><span type="rt">るす</span><span type="rp">）</span></span>宅の人の少ない中へ姫君を置いて行くのを尼君は心配して、賢い少将の尼と、<span type="ruby"><span type="rb">左衛門</span><span type="rp">（</span><span type="rt">さえもん</span><span type="rp">）</span></span>という年のいった女房、これと童女だけを置いて行った。<lb />
+　皆が出立して行く影を<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>はいつまでもながめていた。昔に変わった荒涼たる生活とはいいながらも、今の自分には尼君だけがたよりに思われたのに、その自分を愛してくれる唯一の人と別れているのは心細いものであるなどと思い、つれづれを感じているうちに中将から手紙が来た。<lb />
+「お読みあそばせよ」<lb />
+　と言うが、浮舟は聞きも入れなかった。そして常よりもまた寂しくなった家の庭をながめ入り、過去のこと、これからあとのことを思っては歎息ばかりされるのであった。<lb />
+「拝見していましても苦しくなるほどお<span type="ruby"><span type="rb">滅入</span><span type="rp">（</span><span type="rt">めい</span><span type="rp">）</span></span>りになっていらっしゃいますね。碁をお打ちなさいませよ」<lb />
+　と少将が言う。<lb />
+「<span type="ruby"><span type="rb">下手</span><span type="rp">（</span><span type="rt">へた</span><span type="rp">）</span></span>でしょうがないのですよ」<lb />
+　と言いながらも打つ気に浮舟はなった。盤を取りにやって少将は自信がありそうに先手を姫君に打たせたが、さんざんなほど自身は弱くて負けた。それでまた次の勝負に移った。<lb />
+「尼奥様が早くお帰りになればよい、姫君の碁をお見せしたい。あの方はお強いのですよ。僧都様はお若い時からたいへん碁がお好きで、自信たっぷりでいらっしゃいましたところがね、尼奥様は<span type="ruby"><span type="rb">碁聖</span><span type="rp">（</span><span type="rt">きせい</span><span type="rp">）</span></span>上人になって自慢をしようとは思いませんが、あなたの碁には負けないでしょうとお言いになりまして、勝負をお始めになりますと、そのとおりに僧都様が<span type="ruby"><span type="rb">二目</span><span type="rp">（</span><span type="rt">にもく</span><span type="rp">）</span></span>お負けになりました。碁聖の碁よりもあなたのほうがもっとお強いらしい。まあ珍しい打ち手でいらっしゃいます」<lb />
+　と少将はおもしろがって言うのであった。昔はたまにより見ることのなかった年のいった<span type="ruby"><span type="rb">尼梳</span><span type="rp">（</span><span type="rt">あます</span><span type="rp">）</span></span>きの額に、面と向かって始終相手をさせられるようになってはいやである。興味を持たれてはうるさい、めんどうなことに手を出したものであると思った浮舟の姫君は、気分が悪いと言って横になった。<lb />
+「時々は晴れ晴れしい気持ちにもおなりあそばせよ。惜しいではございませんか、青春を沈んでばかりおいでになりますことは。ほんとうに玉に<span type="ruby"><span type="rb">瑕</span><span type="rp">（</span><span type="rt">きず</span><span type="rp">）</span></span>のある気がされます」<lb />
+　などと少将は言った。夕風の音も身に<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んで思い出されることも多い人は、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+心には秋の夕べをわかねどもながむる<span type="ruby"><span type="rb">袖</span><span type="rp">（</span><span type="rt">そで</span><span type="rp">）</span></span>に露ぞ乱るる<lb />
+</span>
+<lb />
+　こんな歌も<span type="ruby"><span type="rb">詠</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>まれた。月が出て<span type="ruby"><span type="rb">景色</span><span type="rp">（</span><span type="rt">けしき</span><span type="rp">）</span></span>のおもしろくなった時分に、昼間手紙をよこした中将が出て来た。<lb />
+　いやなことである、なんということであろうと思った姫君が奥のほうへはいって行くのを見て、<lb />
+「それはあまりでございますよ。あちらのお志もこんなおりからにはことに深さのまさるものですもの、ほのかにでもお話しになることを聞いておあげなさいませ。あちらのお言葉が<span type="ruby"><span type="rb">染</span><span type="rp">（</span><span type="rt">しみ</span><span type="rp">）</span></span>になってお<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>へつくようにも反感を持っていらっしゃるのですね」<lb />
+　少将にこんなふうに言われれば言われるほど不安になる姫君であった。姫君もいっしょに旅に出かけたと少将は客へ言ったのであるが、昼間の使いが一人は残っておられる、というようなことを聞いて行ったものらしくて中将は信じない。いろいろと言葉を尽くして姫君の無情さを恨み、<lb />
+「お話をしいて聞かせてほしいとは申しません。ただお近い所で、私のする話をお聞きくだすって、その結果私に好意を持つことがおできにならぬならそうと言いきっていただきたいのです」<lb />
+　こんなことをどれほど言っても答えのないのでくさくさした中将は、<lb />
+「情けなさすぎます。この場所は人の繊細な感情を味わってくださるのに最も適した所ではありませんか。こんな扱いをしておいでになって何ともお思いにならないのですか」<lb />
+　とあざけるようにも言い、<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+「山里の秋の夜深き哀れをも物思ふ人は思ひこそ知れ<lb />
+</span>
+<lb />
+　御自身の寂しいお心持ちからでも御同情はしてくだすっていいはずですが」<lb />
+　と姫君へ取り次がせたのを伝えたあとで、少将が、<lb />
+「尼奥様がおいでにならない時ですから、紛らしてお返しをしておいていただくこともできません。何とかお言いあそばさないではあまりに人間離れのした方と思われるでしょう」<lb />
+　こう責めるために、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+うきものと思ひも知らで過ぐす身を物思ふ人と人は知りけり<lb />
+</span>
+<lb />
+　と浮舟が返しともなく口へ上せたのを聞いて、少将が伝えるのを中将はうれしく聞いた。<lb />
+「ほんの少しだけ近くへ出て来てください」<lb />
+　と中将が言ったと言い、少将らは姫君の心を動かそうとするのであるが、姫君はこの人々を恨めしがっているばかりであった。<lb />
+「あやしいほどにも御冷淡になさるではありませんか」<lb />
+　と言いながら女房がまた忠告を試みにはいって来た時に、姫君はもう座にはいなくて、平生はかりにも行って見ることのなかった大尼君の<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>へはいって行っていた。少将がそれをあきれたように思って帰って来て客に告げると、<lb />
+「こんな<span type="ruby"><span type="rb">住居</span><span type="rp">（</span><span type="rt">すまい</span><span type="rp">）</span></span>におられる人というものは感情が人より細かくなって、恋愛に対してだけでなく一般的にも同情深くなっておられるのがほんとうだ。感じ方のあらあらしい人以上に冷たい扱いを私にされるではないか。これまでに恋の破局を見た方なのですか。そんなことでなく、ほかの理由があるのかね。この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>にはいつまでおいでになるのですか」<lb />
+　などと言って聞きたがる中将であったが、細かい事実を女房も話すはずはない。<lb />
+「思いがけず奥様が<span type="ruby"><span type="rb">初瀬</span><span type="rp">（</span><span type="rt">はせ</span><span type="rp">）</span></span>のお寺でお逢いになりまして、お話し合いになりました時、御縁続きであることがおわかりになりこちらへおいでになることにもなったのでございます」<lb />
+　とだけ言っていた。<lb />
+　浮舟の姫君はめんどうな性質の人であると聞いていた老尼の所でうつ伏しになっているのであったが、<span type="ruby"><span type="rb">眠入</span><span type="rp">（</span><span type="rt">ねい</span><span type="rp">）</span></span>ることなどはむろんできない。宵惑いの大尼君は大きい<span type="ruby"><span type="rb">鼾</span><span type="rp">（</span><span type="rt">いびき</span><span type="rp">）</span></span>の声をたてていたし、その前のほうにも<span type="ruby"><span type="rb">後差</span><span type="rp">（</span><span type="rt">あとざ</span><span type="rp">）</span></span>しの形で二人の尼女房が寝ていて、それも主に劣るまいとするように<span type="ruby"><span type="rb">鼾</span><span type="rp">（</span><span type="rt">いびき</span><span type="rp">）</span></span>をかいていた。姫君は恐ろしくなって今夜自分はこの人たちに食われてしまうのではないかと思うと、それも惜しい命ではないが、例の気弱さから死にに行った人が細い橋をあぶながって後ろへもどって来た話のように、わびしく思われてならなかった。童女の<span rend="SESAME_DOT" rendition="strong">こもき</span>を従えて来ていたのであるが、ませた少女は珍しい異性が風流男らしく気どってすわっているあちらの座敷のほうに心が<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれて帰って行った。今に<span rend="SESAME_DOT" rendition="strong">こもき</span>が来るであろう、あろうと姫君は待っているのであるが、頼みがいのない童女は主を捨てはなしにしておいた。<lb />
+　中将は誠意の認められないのに失望して帰ってしまった。そのあとでは、<lb />
+「人情がわからない方ね。引っ込み思案でばかりいらっしゃる。あれだけの<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>を持っておいでになりながら」<lb />
+　などと姫君を<span type="ruby"><span type="rb">譏</span><span type="rp">（</span><span type="rt">そし</span><span type="rp">）</span></span>って皆一所で寝てしまった。<lb />
+　夜中時分かと思われるころに大尼君はひどい<span type="ruby"><span type="rb">咳</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>を続けて、それから起きた。<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の明りに見える頭の毛は白くて、その上に黒い布をかぶっていて、姫君が来ているのをいぶかって<span type="ruby"><span type="rb">鼬鼠</span><span type="rp">（</span><span type="rt">いたち</span><span type="rp">）</span></span>はそうした形をするというように、額に片手をあてながら、<lb />
+「怪しい、これはだれかねえ」<lb />
+　としつこそうな声で言い姫君のほうを見越した時には、今自分は食べられてしまうのであるという気が浮舟にした。幽鬼が自分を伴って行った時は失心状態であったから何も知らなかったが、それよりも今が恐ろしく思われる姫君は、長くわずらったあとで<span type="ruby"><span type="rb">蘇生</span><span type="rp">（</span><span type="rt">そせい</span><span type="rp">）</span></span>して、またいろいろな過去の思い出に苦しみ、そして今またこわいとも<span type="ruby"><span type="rb">怖</span><span type="rp">（</span><span type="rt">おそ</span><span type="rp">）</span></span>ろしいとも言いようのない目に自分はあっている、しかも死んでいたならばこれ以上恐ろしい<span type="ruby"><span type="rb">形相</span><span type="rp">（</span><span type="rt">ぎょうそう</span><span type="rp">）</span></span>のものの中に置かれていた自分に違いないとも思われるのであった。昔からのことが眠れないままに次々に思い出される浮舟は、自分は悲しいことに満たされた<span type="ruby"><span type="rb">生涯</span><span type="rp">（</span><span type="rt">しょうがい</span><span type="rp">）</span></span>であったとより思われない。父君はお姿も見ることができなかった。そして遠い東の国を母についてあちらこちらとまわって歩き、たまさかにめぐり合うことのできて、うれしくも頼もしくも思った姉君の所で意外な<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>りにあい、すぐに別れてしまうことになって、結婚ができ、その人を信頼することでようやく過去の不幸も慰められていく時に自分は過失をしてしまったことに思い至ると、宮を少しでもお愛しする心になっていたことが恥ずかしくてならない。あの方のために自分はこうした<span type="ruby"><span type="rb">漂泊</span><span type="rp">（</span><span type="rt">さすらい</span><span type="rp">）</span></span>の身になった、<span type="ruby"><span type="rb">橘</span><span type="rp">（</span><span type="rt">たちばな</span><span type="rp">）</span></span>の小嶋の色に寄せて変わらぬ恋を告げられたのをなぜうれしく思ったのかと疑われてならない。愛も恋もさめ果てた気がする。はじめから<span type="ruby"><span type="rb">淡</span><span type="rp">（</span><span type="rt">うす</span><span type="rp">）</span></span>いながらも変わらぬ愛を持ってくれた人のことは、あの時、その時とその人についてのいろいろの場合が思い出されて、宮に対する思いとは比較にならぬ深い愛を覚える<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>の姫君であった。こうしてまだ生きているとその人に聞かれる時の恥ずかしさに比してよいものはないと思われる。そうであってさすがにまた、この世にいる間にあの人をよそながらも見る日があるだろうかとも悲しまれるのであった。自分はまだよくない執着を持っている、そんなことは思うまいなどと心を変えようともした。<lb />
+　ようやく鶏の鳴く声が聞こえてきた。浮舟は非常にうれしかった。母の声を聞くことができたならましてうれしいことであろうと、こんなことを姫君は思い明かして気分も悪かった。あちらへ帰るのに付き添って来てくれるものは早く来てもくれないために、そのままなお横たわっていると前夜の<span type="ruby"><span type="rb">鼾</span><span type="rp">（</span><span type="rt">いびき</span><span type="rp">）</span></span>の尼女房は早く起きて、<span type="ruby"><span type="rb">粥</span><span type="rp">（</span><span type="rt">かゆ</span><span type="rp">）</span></span>などというまずいものを喜んで食べていた。<lb />
+「姫君も早く召し上がりませ」<lb />
+　などとそばへ来て世話のやかれるのも気味が悪かった。こうした朝になれない気がして、<lb />
+「<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>の調子がよくありませんから」<lb />
+　と穏やかな言葉で断わっているのに、しいて勧めて食べさせようとされるのもうるさかった。<lb />
+　下品な姿の僧がこの家へおおぜい来て、<lb />
+「<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>さんが<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">きょう</span><span type="rp">）</span></span>御下山になりますよ」<lb />
+　などと庭で言っている。<lb />
+「なぜにわかにそうなったのですか」<lb />
+「<span type="ruby"><span type="rb">一品</span><span type="rp">（</span><span type="rt">いっぽん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">宮</span><span type="rp">（</span><span type="rt">みや</span><span type="rp">）</span></span>様が<span type="ruby"><span type="rb">物怪</span><span type="rp">（</span><span type="rt">もののけ</span><span type="rp">）</span></span>でわずらっておいでになって、本山の<span type="ruby"><span type="rb">座主</span><span type="rp">（</span><span type="rt">ざす</span><span type="rp">）</span></span>が修法をしておいでになりますが、やはり僧都が出て来ないでは効果の見えることはないということになって、昨日は二度もお召しの使いがあったのです。左大臣家の四位少将が昨夜夜ふけてからまたおいでになって、<span type="ruby"><span type="rb">中宮</span><span type="rp">（</span><span type="rt">ちゅうぐう</span><span type="rp">）</span></span>様のお手紙などをお持ちになったものですから、下山の決意をなさったのですよ」<lb />
+　などと自慢げに言っている。ここへ僧都の立ち寄った時に、恥ずかしくても逢って尼にしてほしいと願おう、とがめだてをしそうな尼夫人も留守で他の人も少ない時で都合がよいと考えついた浮舟は起きて、<lb />
+「僧都様が山をお<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>りになりました時に、出家をさせていただきたいと存じますから、そんなふうにあなた様からもおとりなしをくださいまし」<lb />
+　と大尼君に言うと、その人はぼけたふうにうなずいた。<lb />
+　常の居間へ帰った浮丹は、尼君がこれまで髪を自身以外の者に<span type="ruby"><span type="rb">梳</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>くことをさせなかったことを思うと、女房に手を触れさせるのがいやに思われるのであるが、自身ではできないことであったから、ただ少しだけ解きおろしながら、母君にもう一度以前のままの自身を見せないで終わるのかと思うと悲しかった。重い病のために髪も少し減った気が自身ではするのであるが、何ほど衰えたとも見えない。非常にたくさんで六尺ほどもある末のほうのことに美しかったところなどはさらにこまかく美しくなったようである。「たらちねはかかれとてしも」（うば玉のわが黒髪を<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>でずやありけん）<span type="ruby"><span type="rb">独言</span><span type="rp">（</span><span type="rt">ひとりごと</span><span type="rp">）</span></span>に浮舟は言っていた。<lb />
+　夕方に僧都が寺から来た。南の座敷が<span type="ruby"><span type="rb">掃除</span><span type="rp">（</span><span type="rt">そうじ</span><span type="rp">）</span></span>され装飾されて、そこを<span type="ruby"><span type="rb">円</span><span type="rp">（</span><span type="rt">まる</span><span type="rp">）</span></span>い頭が幾つも立ち動くのを見るのも、今日の姫君の心には恐ろしかった。僧都は母の尼の所へ行き、<lb />
+「あれから<span type="ruby"><span type="rb">御機嫌</span><span type="rp">（</span><span type="rt">ごきげん</span><span type="rp">）</span></span>はどうでしたか」<lb />
+　などと尋ねていた。<lb />
+「東の夫人は<span type="ruby"><span type="rb">参詣</span><span type="rp">（</span><span type="rt">さんけい</span><span type="rp">）</span></span>に出られたそうですね。あちらにいた人はまだおいでですか」<lb />
+「そうですよ。<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>は私の所へ来て泊まりましたよ。<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>が悪いからあなたに尼の戒を受けさせてほしいと言っておられましたよ」<lb />
+　と大尼君は語った。そこを立って僧都は姫君の居間へ来た。<lb />
+「ここにいらっしゃるのですか」<lb />
+　と言い、<span type="ruby"><span type="rb">几帳</span><span type="rp">（</span><span type="rt">きちょう</span><span type="rp">）</span></span>の前へすわった。<lb />
+「あの時偶然あなたをお助けすることになったのも前生の約束事と私は見ていて、<span type="ruby"><span type="rb">祈祷</span><span type="rp">（</span><span type="rt">きとう</span><span type="rp">）</span></span>に骨を折りましたが、僧は用事がなくては女性に手紙をあげることができず、<span type="ruby"><span type="rb">御無沙汰</span><span type="rp">（</span><span type="rt">ごぶさた</span><span type="rp">）</span></span>してしまいました。こんな人間離れのした生活をする者の家などにどうして今までおいでになりますか」<lb />
+　こう僧都は言った。<lb />
+「私はもう生きていまいと思った者ですが、不思議なお救いを受けまして<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">きょう</span><span type="rp">）</span></span>までおりますのが悲しく思われます。一方ではいろいろと御親切にお世話をしてくださいました御恩は私のようなあさはかな者にも深く身に<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んでかたじけなく思われているのでございますから、このままにしていましてはまだ生き続けることができない気のいたしますのをお助けくだすって尼にしてくださいませ。ぜひそうしていただきとうございます。生きていましてもとうてい普通の身ではおられない気のする私なのでございますから」<lb />
+　と姫君は言う。<lb />
+「まだ若いあなたがどうしてそんなことを深く思い込むのだろう。かえって罪になることですよ。決心をした時は強い信念があるようでも、年月がたつうちに女の身をもっては罪に<span type="ruby"><span type="rb">堕</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ちて行きやすいものなのです」<lb />
+　などと僧都は言うのであったが、<lb />
+「私は子供の時から物思いをせねばならぬ運命に置かれておりまして、母なども尼にして世話がしたいなどと申したことがございます。まして少し大人になりまして人生がわかりかけてきましてからは、普通の人にはならずにこの世でよく仏勤めのできる境遇を選んで、せめて<span type="ruby"><span type="rb">後世</span><span type="rp">（</span><span type="rt">ごせ</span><span type="rp">）</span></span>にだけでも安楽を得たいという希望が次第に大きくなっておりましたが、仏様からそのお許しを得ます日の近づきますためか、病身になってしまいました。どうぞこのお願いをかなえてくださいませ」<lb />
+　浮舟の姫君はこう泣きながら頼むのであった。不思議なことである、人に優越した容姿を得ている人が、どうして世の中をいとわしく思うようになったのだろう、しかしいつか現われてきた<span type="ruby"><span type="rb">物怪</span><span type="rp">（</span><span type="rt">もののけ</span><span type="rp">）</span></span>もこの人は生きるのをいとわしがっていたと語った。理由のないことではあるまい、この人はあのままおけば今まで生きている人ではなかったのである。悪い物怪にみいられ始めた人であるから、今後も危険がないとは思えないと僧都は考えて、<lb />
+「ともかくも思い立って望まれることは御仏の善行として最もおほめになることなのです。私自身僧であって反対などのできることではありません。尼の戒を授けるのは簡単なことですが、御所の急な御用で山を出て来て、今夜のうちに宮中へ出なければならないことになっていますからね、そして明日から<span type="ruby"><span type="rb">御修法</span><span type="rp">（</span><span type="rt">みしほ</span><span type="rp">）</span></span>を始めるとすると七日して退出することになるでしょう。その時にしましょう」<lb />
+　僧都はこう言った。尼夫人がこの家にいる時であれば必ずとめるに違いないと思うと、遂行が不可能になるのが残念に思われる浮舟の君は、<lb />
+「ただ病気のためにそういたしましたようになりましては効力が少のうございましょう。私はかなり<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>の調子が悪いのでございますから、重態になりましたあとでは形式だけのことのようになるのが残念でございますから、無理なお願いではございますが<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">こんにち</span><span type="rp">）</span></span>に授戒をさせていただきとうございます」<lb />
+　と言って、姫君は非常に泣いた。単純な僧の心にはこれがたまらず哀れに思われて、<lb />
+「もう夜はだいぶふけたでしょう。山から下って来ることを、昔は何とも思わなかったものだが、年のいくにしたがって疲れがひどくなるものだから、休息をして御所へまいろうと私は思ったのだが、そんなにも早いことを望まれるのならさっそく戒を授けましょう」<lb />
+　と言うのを聞いて浮舟はうれしくなった。<span type="ruby"><span type="rb">鋏</span><span type="rp">（</span><span type="rt">はさみ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">櫛</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>の箱の<span type="ruby"><span type="rb">蓋</span><span type="rp">（</span><span type="rt">ふた</span><span type="rp">）</span></span>を僧都の前へ出すと、<lb />
+「どこにいるかね、坊様たち。こちらへ来てくれ」<lb />
+　僧都は<span type="ruby"><span type="rb">弟子</span><span type="rp">（</span><span type="rt">でし</span><span type="rp">）</span></span>を呼んだ。はじめに宇治でこの人を発見した夜の<span type="ruby"><span type="rb">阿闍梨</span><span type="rp">（</span><span type="rt">あじゃり</span><span type="rp">）</span></span>が二人とも来ていたので、それを座敷の中へ来させて、<lb />
+「髪をお切り申せ」<lb />
+　と言った。道理である、まれな<span type="ruby"><span type="rb">美貌</span><span type="rp">（</span><span type="rt">びぼう</span><span type="rp">）</span></span>の人であるから、俗の姿でこの世にいては煩累となることが多いに違いないと阿闍梨らも思った。そうではあっても、<span type="ruby"><span type="rb">几帳</span><span type="rp">（</span><span type="rt">きちょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">垂帛</span><span type="rp">（</span><span type="rt">たれぎぬ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">縫開</span><span type="rp">（</span><span type="rt">ぬいあ</span><span type="rp">）</span></span>けから手で外へかき出した髪のあまりのみごとさにしばらく鋏の手を動かすことはできなかった。<lb />
+　座敷でこのことのあるころ、少将の尼は、それも師の供をして下って来た兄の阿闍梨と話すために自室に行っていた。<span type="ruby"><span type="rb">左衛門</span><span type="rp">（</span><span type="rt">さえもん</span><span type="rp">）</span></span>も一行の中に知人があったため、その僧のもてなしに心を配っていた。こうした家ではそれぞれの懇意な相手ができていて、<span type="ruby"><span type="rb">馳走</span><span type="rp">（</span><span type="rt">ちそう</span><span type="rp">）</span></span>をふるまったりするものであったから。こんなことで<span rend="SESAME_DOT" rendition="strong">こもき</span>だけが姫君の居間に侍していたのであるが、こちらへ来て、少将の尼に座敷でのことを報告した。少将があわてふためいて行って見ると、僧都は姫君に自身の<span type="ruby"><span type="rb">法衣</span><span type="rp">（</span><span type="rt">ほうえ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">袈裟</span><span type="rp">（</span><span type="rt">けさ</span><span type="rp">）</span></span>を仮にと言って着せ、<lb />
+「お母様のおいでになるほうにと向かって拝みなさい」<lb />
+　と言っていた。方角の見当もつかないことを思った時に、忍びかねて浮舟は泣き出した。<lb />
+「まあなんとしたことでございますか。思慮の欠けたことをなさいます。奥様がお帰りになりましてどうこれをお言いになりましょう」<lb />
+　少将はこう言って止めようとするのであったが、信仰の境地に進み入ろうと一歩踏み出した人の心を騒がすことはよろしくないと思った僧都が制したために、少将もそばへ寄って妨げることはできなかった。「<span type="ruby"><span type="rb">流転三界中</span><span type="rp">（</span><span type="rt">るてんさんがいちゅう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">恩愛不能断</span><span type="rp">（</span><span type="rt">おんあいふのうだん</span><span type="rp">）</span></span>」と教える言葉には、もうすでにすでに自分はそれから<span type="ruby"><span type="rb">解脱</span><span type="rp">（</span><span type="rt">げだつ</span><span type="rp">）</span></span>していたではないかとさすがに浮舟をして思わせた。多い髪はよく切りかねて阿闍梨が、<lb />
+「またあとでゆるりと尼君たちに直させてください」<lb />
+　と言っていた。額髪の所は<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>が切った。<lb />
+「この花の姿を捨てても後悔してはなりませんぞ」<lb />
+　などと言い、尊い御仏の御弟子の道を説き聞かせた。出家のことはそう簡単に行くものでないと尼君たちから言われていたことを、自分はこうもすみやかに済ませてもらった。生きた仏はかくのごとく効験を<span type="ruby"><span type="rb">目</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>のあたりに見せるものであると浮舟は思った。<lb />
+　僧都の一行の出て行ったあとはまたもとの静かな家になった。夜の風の鳴るのを聞きながら尼女房たちは、<lb />
+「この心細い家にお住みになるのもしばらくの御<span type="ruby"><span type="rb">辛抱</span><span type="rp">（</span><span type="rt">しんぼう</span><span type="rp">）</span></span>で、近い将来に幸福な御生活へおはいりになるものと、あなた様のその日をお待ちしていましたのに、こんなことを決行しておしまいになりまして、これからをどうあそばすつもりでございましょう。老い衰えた者でも出家をしてしまいますと、人生へのつながりがこれで断然切れたことが認識されまして悲しいものでございますよ」<lb />
+　なおも惜しんで言うのであったが、<lb />
+「私の心はこれで安静が得られてうれしいのですよ。人生と隔たってしまったのはいいことだと思います」<lb />
+　こう浮舟は答えていて、はじめて胸の開けた気もした。<lb />
+　翌朝になるとさすがにだれにも同意を求めずにしたことであったから、その人たちに変わった姿を見せるのは恥ずかしくてならぬように思う姫君であった。髪の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>がにわかに上の方へ上がって、もつれもできて<span type="ruby"><span type="rb">拡</span><span type="rp">（</span><span type="rt">ひろ</span><span type="rp">）</span></span>がった不ぞろいになった端を、めんどうな説法などはせずに直してくれる人はないであろうかと思うのであるが、何につけても気おくれがされて、居間の中を暗くしてすわっていた。自分の感想を人へ書くようなことも、もとからよくできない人であったし、ましてだれを対象として叙述して行くという人もないのであるから、ただ<span type="ruby"><span type="rb">硯</span><span type="rp">（</span><span type="rt">すずり</span><span type="rp">）</span></span>に向かって思いのわく時には手習いに書くだけを能事として、よく歌などを書いていた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+なきものに身をも人をも思ひつつ捨ててし世をぞさらに捨てつる<lb />
+</span>
+<lb />
+　もうこれで終わったのである。<lb />
+　こんな文字を書いてみずから身にしむように見ていた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+限りぞと思ひなりにし世の中をかへすがへすもそむきぬるかな<lb />
+</span>
+<lb />
+　こうした考えばかりが歌にも短文にもなって、筆を動かしている時に中将から手紙が来た。一家は<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>のことがあって騒然としていて、来た使いにもそのことを言って帰した。<lb />
+　中将は落胆した。宗教に傾いた心から自分の恋の言葉に少しの答えを与えることもし始めては煩いになると避けていたものらしい、それにしても惜しいことである。美しいように少し見た髪を、確かに見せてくれぬかと女房に先夜も頼むと、よい時にと約束をしてくれたのであったがと残念で、二度目の使いを出した。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+御<span type="ruby"><span type="rb">挨拶</span><span type="rp">（</span><span type="rt">あいさつ</span><span type="rp">）</span></span>のいたしようもないことを承りました。<lb />
+<lb />
+</span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+岸遠く<span type="ruby"><span type="rb">漕</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ぎ離るらんあま船に乗りおくれじと急がるるかな<lb />
+</span>
+<lb />
+　平生に変わって姫君はこの手紙を手に取って読んだ。もの哀れなふうに心のなっていた時であったから、書く気になったものか、ほんの紙の端に、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+こころこそ浮き世の岸を離るれど行くへも知らぬあまの浮き木ぞ<lb />
+</span>
+<lb />
+　と例の手習い書きにした。これを少将の尼は包んで中将へ送ることにした。<lb />
+「せめて清書でもしてあげてほしい」<lb />
+「どういたしまして、かえって書きそこねたり悪くしてしまうだけでございます」<lb />
+　こんなことで中将の手もとへ来たのであった。<lb />
+　恋しい人の珍しい返事が、うれしいとともに、今は取り返しのならぬ身にあの人はなったのであると悲しく思われた。<lb />
+　<span type="ruby"><span type="rb">初瀬詣</span><span type="rp">（</span><span type="rt">はせまい</span><span type="rp">）</span></span>りから帰って来た尼君の悲しみは限りもないものであった。<lb />
+「私が尼になっているのですから、お勧めもすべきことだったとしいて思おうとしますが、若いあなたがこれからどうおなりになることでしょう。私はもう長くは生きていられない年で、<span type="ruby"><span type="rb">死期</span><span type="rp">（</span><span type="rt">しご</span><span type="rp">）</span></span>が今日にも明日にも来るかもしれないのですから、あなたのことだけは安心して死ねますようにと思いましてね、いろいろな空想も作って、仏様にもお祈りをしたことだったのですよ」<lb />
+　と泣きまろんで悲しみに堪えぬふうの尼君を見ても、実母が<span type="ruby"><span type="rb">遺骸</span><span type="rp">（</span><span type="rt">いがい</span><span type="rp">）</span></span>すらもとめないで死んだものと自分を認めた時の悲しみは、これ以上にまたどんなものであったであろうと想像され<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>は悲しかった。いつものように何とも言わずに暗い横のほうへ顔を向けている姫君の若々しく美しいのに尼君の悲しみはややゆるめられて、たよりない同情心に欠けた恨めしい人であると思いながらも泣く泣く尼君は法衣の<span type="ruby"><span type="rb">仕度</span><span type="rp">（</span><span type="rt">したく</span><span type="rp">）</span></span>に取りかかった。<span type="ruby"><span type="rb">鈍</span><span type="rp">（</span><span type="rt">にび</span><span type="rp">）</span></span>色の物の用意に不足もなかったから、<span type="ruby"><span type="rb">小袿</span><span type="rp">（</span><span type="rt">こうちぎ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">袈裟</span><span type="rp">（</span><span type="rt">けさ</span><span type="rp">）</span></span>などがまもなくでき上がった。女房たちもそうした色のものを縫い、それを着せる時には、思いがけぬ山里の光明とながめてきた人を悲しい尼の服で包むことになったと惜しがり、<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>を恨みもし、<span type="ruby"><span type="rb">譏</span><span type="rp">（</span><span type="rt">そし</span><span type="rp">）</span></span>りもした。<lb />
+　<span type="ruby"><span type="rb">一品</span><span type="rp">（</span><span type="rt">いっぽん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">宮</span><span type="rp">（</span><span type="rt">みや</span><span type="rp">）</span></span>の御病気は、あの弟子僧の自慢どおりに僧都の修法によって、目に見えるほどの<span type="ruby"><span type="rb">奇瑞</span><span type="rp">（</span><span type="rt">きずい</span><span type="rp">）</span></span>があって御<span type="ruby"><span type="rb">恢復</span><span type="rp">（</span><span type="rt">かいふく</span><span type="rp">）</span></span>になったため、いよいよこの僧都に尊敬が集まった。病後がまだ不安であるという<span type="ruby"><span type="rb">中宮</span><span type="rp">（</span><span type="rt">ちゅうぐう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">思召</span><span type="rp">（</span><span type="rt">おぼしめ</span><span type="rp">）</span></span>しがあって、修法をお延ばさせになったので、予定どおりに退出することができずに僧都はまだ御所に侍していた。<lb />
+　雨などの降ってしめやかな夜に僧都は夜居の役を承った。御病中の奉仕に疲れの出た人などは皆<span type="ruby"><span type="rb">部屋</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>へ下がって休息などしていて、お居間の中に侍した女房の数の少ないおり、中宮は姫宮と同じ帳台においでになって、僧都へ、<lb />
+「昔からずっとあなたに信頼を続けていましたが、その中でも今度見せてくださいましたお祈りの力によって、あなたさえいてくだされば<span type="ruby"><span type="rb">後世</span><span type="rp">（</span><span type="rt">ごせ</span><span type="rp">）</span></span>の道も明るいに違いないと頼もしさがふえました」<lb />
+　こんなお言葉を賜わった。<lb />
+「もう私の<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>も久しく続くものでございませんことを仏様から教えられておりますうちにも、今年と来年が危険であるということが示されておりましたから、専念に御仏を念じようと存じまして、山へ引きこもっておりましたのでございますが、あなた様からのおそれおおい仰せ言で出てまいりました」<lb />
+　などと僧都は申し上げていた。お<span type="ruby"><span type="rb">憑</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>きした<span type="ruby"><span type="rb">物怪</span><span type="rp">（</span><span type="rt">もののけ</span><span type="rp">）</span></span>が執念深いものであったこと、いろいろとちがった人の名を言って出たりするのが恐ろしいということ、などを申していた話のついでに、<lb />
+「怪しい経験を私はいたしました。今年の三月に年をとりました母が願のことで初瀬へまいったのでございましたが、帰り<span type="ruby"><span type="rb">途</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>に宇治の院と申す所で一行は宿泊いたしたのでございます。そういたしましたような人の住まぬ大きい建物には必ず悪霊などが来たりしておりまして、病気になっておりました母のためにも悪い結果をもたらすまいかと心配をいたしておりますと、はたしてこんなことがあったのでございます」<lb />
+　と、あの宇治で浮舟の姫君を発見した当時のことを申し上げた。<lb />
+「ほんとうに不思議なことがあるものね」<lb />
+　と仰せになって、気味悪く思召す中宮は近くに眠っていた女房たちをお起こさせになった。大将と友人になっている宰相の君は初めからこの話を聞いていた。起こされた人たちには少しく話の筋がわからなかった。僧都は中宮が恐ろしく思召すふうであるのを知って、不謹慎なことを申し上げてしまったと思い、その夜のことだけは細説するのをやめた。<lb />
+「その女の人が今度のお召しに出仕いたします時、途中で小野に住んでおります母と妹の尼の所へ立ち寄りますと、出てまいりまして、私に泣く泣く出家の希望を述べて授戒を求めましたので落飾させてまいりました。私の妹で以前の<span type="ruby"><span type="rb">衛門督</span><span type="rp">（</span><span type="rt">えもんのかみ</span><span type="rp">）</span></span>の未亡人の尼君が、<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くしました女の子の代わりと思いまして、その人を愛して、それで自身も幸福を感じていましたわけで、ずいぶん大事にいたわっていたのでございますから、私の手で尼にしましたのを恨んでいるらしゅうございます。実際<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">ようぼう</span><span type="rp">）</span></span>のまれにすぐれた女性でございましたから、仏勤めにやつれてゆくであろうことが哀れに思われました。いったいだれの娘だったのでございましょう」<lb />
+　能弁な人であったから、あの長話を休まずすると、<lb />
+「どうしてそんな所へ美しいお姫様を取って行ったのでしょう」<lb />
+　宰相の君がこう尋ねた。<lb />
+「いや、それは知らない。あるいは妹の尼などに話しているかもしれません。実際に貴族の家の人であれば、行くえの知れなくなったことが<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>にならないはずはないわけですから、そんな人ではありますまい。<span type="ruby"><span type="rb">田舎</span><span type="rp">（</span><span type="rt">いなか</span><span type="rp">）</span></span>の人の娘にもそうした麗質の備わった人があるかもしれません。<span type="ruby"><span type="rb">竜</span><span type="rp">（</span><span type="rt">りゅう</span><span type="rp">）</span></span>の中から仏が生まれておいでになったということがなければですがね、しかし平凡な家の子としては前生で善因を得て生まれて来た人に違いございません。そんな人なのでございます」<lb />
+　などと僧都は言っていた。そのころに宇治で自殺したと言われている人を中宮は考えておいでになった。宰相の君も実家の姉の話に行くえを失ったと聞いた宇治の姫君のことが胸に浮かび、それではないかと思ったのであるが、<span type="ruby"><span type="rb">忖度</span><span type="rp">（</span><span type="rt">そんたく</span><span type="rp">）</span></span>するだけで断言することはできなかった。僧都もまた、<lb />
+「その人も生きていると人に知らせたくない、知れればよろしくないようなことを起こしそうな人のあるように、それとなく言っているふうなのでございますから、どこまでも秘密として私も黙しているべきでしたが、あまりに不思議な事実でございますからその点だけをお耳に入れましたわけでございます」<lb />
+　と言い、隠そうとするふうであったから宰相はだれにもそのことは言わなかった。中宮はこの人にだけ、<lb />
+「僧都のした話は宇治の姫君のことらしい、大将に聞かせてやりたい」<lb />
+　とお言いになったが、その人のためにも女のためにも恥として隠すはずであることを、決定的にそれとすることもできないままで人格の高い弟に言いだすのも恥ずかしいことであると思召されて沈黙しておいでになった。<lb />
+　姫宮が<span type="ruby"><span type="rb">全癒</span><span type="rp">（</span><span type="rt">ぜんゆ</span><span type="rp">）</span></span>あそばしたので僧都も山の寺へ帰ることになった。小野の家へ寄ってみると、尼君は非常に恨めしがって、<lb />
+「かえってこんなふうになっておしまいになっては、将来のことで、罪にならぬことも罪を得る結果になるでしょうのに、相談もしてくださらなかったのが不満足に思われてなりません」<lb />
+　と言ったが、もうかいのないことであった。<lb />
+「今後はもう仏のお勤めだけを専心になさい。老い人も若い人も無常の差のないのが人生ですよ。はかないものであるとお悟りになったのも、まして道理に思われるあなたですからね」<lb />
+　この僧都の言葉も浮舟は恥ずかしく聞いた。宇治で発見された時からのことを思えばそれに違いないからである。<lb />
+「法服を新しくなさい」<lb />
+　僧都はこう言って、御所からの賜わり物の<span type="ruby"><span type="rb">綾</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>とかうすものとかを贈った。<lb />
+「私の生きています間は、あなたに十分尽くします。何も心配することはありません。無常の世に生まれて人間の言う栄華にまとわれていては、これを自身のためにも人のためにも快く捨てることができなくなるものです。この寂しい林の中にお勤めの生活をしていては、何に恨めしさの起こることがありますか、何を恥ずかしく思うことをしますか、人間の命のある間は木の葉の薄さほどのものですよ」<lb />
+　こう説き聞かせて、「<span type="ruby"><span type="rb">松門暁到月徘徊</span><span type="rp">（</span><span type="rt">しようもんあかつきにいたりてつきはいくわいす</span><span type="rp">）</span></span>」（<span type="ruby"><span type="rb">柏城尽日風蕭瑟</span><span type="rp">（</span><span type="rt">はくじやうひねもすかぜせうしつ</span><span type="rp">）</span></span>）と僧であるが文学的の素養の豊かな人は添えて聞かせてもくれた。唐の詩で陵園を守る後宮人を歌ったものである。かねて願っていたようなよい師であると思って姫君は感激していた。<lb />
+　ある日風がひねもす吹きやまず、寂しい音が立っていたから、心細くなっている時に、来ていた僧の一人が、<lb />
+「<span type="ruby"><span type="rb">山伏</span><span type="rp">（</span><span type="rt">やまぶし</span><span type="rp">）</span></span>というものはこんな日にこそ声を出して泣きたくなるものだ」<lb />
+　と言っているのを聞き、姫君は自分ももう山伏になったのである、だから涙がとまらないのであろうと思いながら、縁側に近い所へ出て外を見ると、軒の向こうの<span type="ruby"><span type="rb">山路</span><span type="rp">（</span><span type="rt">やまみち</span><span type="rp">）</span></span>をいろいろの<span type="ruby"><span type="rb">狩衣</span><span type="rp">（</span><span type="rt">かりぎぬ</span><span type="rp">）</span></span>を着て通るのが見えた。<span type="ruby"><span type="rb">叡山</span><span type="rp">（</span><span type="rt">えいざん</span><span type="rp">）</span></span>へ上がる人もこの道を通るのはまれであって、黒谷という所から歩いて行く僧の影を時々見ることがあるだけだったのに、普通の服装の人を見いだしたのは珍しく思われたのであったが、それは失恋した中将であった。もうかいのないこととしても、自分の心を告げておきたいと思って来たのであるが、<span type="ruby"><span type="rb">紅葉</span><span type="rp">（</span><span type="rt">もみじ</span><span type="rp">）</span></span>の美しく染まって他の所よりもきれいにいろいろと混じって立った庭であったから、門をはいるとすぐにもう行く秋の身にしむことを中将は感じた。この風雅な場所に住む美しい人を恋人にしていたならば興味の多いことであろうなどと思った。<lb />
+「少し閑散になりまして、退屈なものですから、こちらの紅葉も見ごろになっていようと思って出かけて来ました。いつもここはいい所ですね。なつかしい一夜の宿が借りたくなる所です」<lb />
+　こう言って中将は庭をながめていた。感じやすい涙を持った尼君はもう泣いていた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+木がらしの吹きにし山の<span type="ruby"><span type="rb">麓</span><span type="rp">（</span><span type="rt">ふもと</span><span type="rp">）</span></span>には立ち隠るべき<span type="ruby"><span type="rb">蔭</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>だにぞなき<lb />
+</span>
+<lb />
+　と言うと、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+待つ人もあらじと思ふ山里の<span type="ruby"><span type="rb">梢</span><span type="rp">（</span><span type="rt">こずゑ</span><span type="rp">）</span></span>を見つつなほぞ過ぎうき<lb />
+</span>
+<lb />
+　と中将は返しをした。尼になった人のことをまだあきらめきれぬように言い、<lb />
+「お変わりになった姿を少しだけのぞかせてください」<lb />
+　と少将の尼に求めた。それだけのことでも約束してくれた義務としてしなければならぬと責められて、少将が姫君の室へはいってみると、人に見せないのは惜しいような美しい<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>で浮舟の姫君はいるのであった。<span type="ruby"><span type="rb">淡鈍</span><span type="rp">（</span><span type="rt">うすにび</span><span type="rp">）</span></span>色の<span type="ruby"><span type="rb">綾</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>を着て、中に<span type="ruby"><span type="rb">萱草</span><span type="rp">（</span><span type="rt">かんぞう</span><span type="rp">）</span></span>色という透明な明るさのある色を着た、小柄な姿が美しく、近代的な<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">ようぼう</span><span type="rp">）</span></span>を持ち、髪の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>には五重の扇を<span type="ruby"><span type="rb">拡</span><span type="rp">（</span><span type="rt">ひろ</span><span type="rp">）</span></span>げたようなはなやかさがあった。濃厚に化粧をした顔のように素顔も見えてほの赤くにおわしいのである。仏勤めはするのであるがまだ<span type="ruby"><span type="rb">数珠</span><span type="rp">（</span><span type="rt">じゅず</span><span type="rp">）</span></span>は近い<span type="ruby"><span type="rb">几帳</span><span type="rp">（</span><span type="rt">きちょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">棹</span><span type="rp">（</span><span type="rt">さお</span><span type="rp">）</span></span>に掛けられてあって、経を読んでいる様子は絵にも<span type="ruby"><span type="rb">描</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>きたいばかりの姫君であった。少将は自身でも見るたびに涙のとどめがたい姫君の姿を、恋する男の目にはどう映るであろうと思い、よいおりでもあったのか<span type="ruby"><span type="rb">襖子</span><span type="rp">（</span><span type="rt">からかみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鍵穴</span><span type="rp">（</span><span type="rt">かぎあな</span><span type="rp">）</span></span>を中将に教えて目の<span type="ruby"><span type="rb">邪魔</span><span type="rp">（</span><span type="rt">じゃま</span><span type="rp">）</span></span>になる几帳などは横へ引いておいた。これほどの美貌の人とは想像もしなかった、自分の理想に合致した麗人であったものをと思うと、尼にさせてしまったことが自身の過失であったように残念にくちおしく思われる心を、これをよくおさえることができなくっては、静かにすべき<span type="ruby"><span type="rb">隙見</span><span type="rp">（</span><span type="rt">すきみ</span><span type="rp">）</span></span>に激情のままの身じろぎの音もたててしまうかもしれぬと気づいて立ち<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>いた。こんな美女を失った人が捜さずに済ませる法があろうか、まただれそれ、だれの娘の行くえが知れぬとか、または人を<span type="ruby"><span type="rb">怨</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>んで尼になったとか自然<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>にはなるものであるがと返す返すいぶかしく思われた。尼になってもこんな美しい人は決して愛人にして<span type="ruby"><span type="rb">悪感</span><span type="rp">（</span><span type="rt">おかん</span><span type="rp">）</span></span>の起こるものではあるまい、かえって心が強く<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれることになるであろう、<span type="ruby"><span type="rb">極秘裡</span><span type="rp">（</span><span type="rt">ごくひり</span><span type="rp">）</span></span>にやはりあの人を自分のものにしようと、こんなことを心にきめた中将は、こちらの尼君の座敷に来て、気を入れて話をしていた。<lb />
+「俗の人でおいでになった間は、私と御交際くださるにもいろいろさしさわりがあったでしょうが、落飾されたあとでは気楽につきあっていただける気がします。そんなふうにあなたからもお話しになっておいてください。昔のことが忘られないために、こんなふうに御訪問をしていますが、またもう一つ友情というものを持ち合う相手がふえれば幸福になりうるでしょう」<lb />
+　などと言った。<lb />
+「将来がどうなるかと心細く、気がかりでなりませんのに、厚い御友情でお世話をくださる方があるのはうれしいことでございます。亡くなりましたあとのこともそう承って安心されます」<lb />
+　と言って尼君は泣くのであった。こんな様子を見せるのはよほど濃い尼君の血族に違いないがだれであろうと中将はなおいぶかしがった。<lb />
+「将来のお世話は命も<span type="ruby"><span type="rb">不定</span><span type="rp">（</span><span type="rt">ふじょう</span><span type="rp">）</span></span>のものですし、私も生き抜く自信の少ないものですが、そうお話を承った以上は決して忘れることはありません。あの方に縁のある方が実際この世におられないのでしょうか、そんなことがまだ少し不安で、それは<span type="ruby"><span type="rb">障</span><span type="rp">（</span><span type="rt">さわ</span><span type="rp">）</span></span>りになることでもありませんが、隔ての一つ残されている気はします」<lb />
+「普通の形でおいでになれば、いつまたそんな人が来られるかもしれませんが、もう<span type="ruby"><span type="rb">現世</span><span type="rp">（</span><span type="rt">げんせ</span><span type="rp">）</span></span>の縁を絶った身の上になっておられる以上は私も安心しておられます。自身の気持ちもそう見えますからね」<lb />
+　こんなふうに話し合った。中将は姫君のほうへも次の歌を書いて送るのであった。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+おほかたの世をそむきける君なれど<span type="ruby"><span type="rb">厭</span><span type="rp">（</span><span type="rt">いと</span><span type="rp">）</span></span>ふによせて身こそつらけれ<lb />
+</span>
+<lb />
+　誠意をもって将来までも力になろうと言っていることなども尼君は伝えた。<lb />
+「兄弟だと思っておいでなさいよ。人生のはかなさなどを話し合ってみれば慰みになるでしょう」<lb />
+「見識のある方のお話などを伺っても、私にはよく理解できないのが残念でございます」<lb />
+　とだけ言っても、世を<span type="ruby"><span type="rb">厭</span><span type="rp">（</span><span type="rt">いと</span><span type="rp">）</span></span>うように人を厭うたという言葉について<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>は何も答えなかった。思いのほかな過失をしてしまった過去を思うと自分ながらうとましい身である、何ともものを感じることのない朽ち木のようになって人から無視されて一生を終えようと、姫君はこの精神を通そうとしていた。そうした気持ちから、今までは<span type="ruby"><span type="rb">憂鬱</span><span type="rp">（</span><span type="rt">ゆううつ</span><span type="rp">）</span></span>から自己を解放することのできなかった人であるが、近ごろは少し晴れ晴れしくなって、尼君と遊び事をしたり、碁を打ったりして暮らすこともある。仏勤めもよくして<span type="ruby"><span type="rb">法華経</span><span type="rp">（</span><span type="rt">ほけきょう</span><span type="rp">）</span></span>はもとより他の経なども多く読んだ。<lb />
+　雪が深く降り積んで、出入りする人影も皆無になったころは寂しさのきわまりなさを姫君は覚えた。<lb />
+　年が明けた。しかし小野の<span type="ruby"><span type="rb">山蔭</span><span type="rp">（</span><span type="rt">やまかげ</span><span type="rp">）</span></span>には春のきざしらしいものは何も見ることができない。すっかり凍った流れから音の響きがないのさえ心細くて、「君にぞ惑ふ道に惑はず」とお言いになった人はすべての<span type="ruby"><span type="rb">禍根</span><span type="rp">（</span><span type="rt">かこん</span><span type="rp">）</span></span>を作った方であると、もう愛は覚えずなっているのであるが、そのおりの光景だけはなつかしく目に描かれた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+かきくらす野山の雪をながめてもふりにしことぞ今日も悲しき<lb />
+</span>
+<lb />
+　などと書いたりする手習いは仏勤めの合い間に今もしていた。自分のいなくなった春から次の春に移ったことで、自分を思い出している人もあろうなどと去年の思い出されることが多かった。そまつな<span type="ruby"><span type="rb">籠</span><span type="rp">（</span><span type="rt">かご</span><span type="rp">）</span></span>に若菜を盛って人が持参したのを見て、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+山里の雪間の若菜摘みはやしなほ<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ひさきの頼まるるかな<lb />
+</span>
+<lb />
+　という歌を添えて姫君の所へ尼君は持たせてよこした。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+雪深き野べの若菜も今よりは君がためにぞ年もつむべき<lb />
+</span>
+<lb />
+　と書いて来た返しを見て、実感であろうと哀れに思うのであった。尼姫君などでなく、宝とも花とも見て大事にしたかった人であるのにと真心から尼君は悲しがって泣いた。<lb />
+　寝室の縁に近い紅梅の色の香も昔の花に変わらぬ木を、ことさら姫君が愛しているのは「春や昔の」（春ならぬわが身一つはもとの身にして）と忍ばれることがあるからであろう。御仏に<span type="ruby"><span type="rb">後夜</span><span type="rp">（</span><span type="rt">ごや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">勤行</span><span type="rp">（</span><span type="rt">ごんぎょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">閼伽</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>の花を供える時、下級の尼の年若なのを呼んで、この紅梅の枝を折らせると、恨みを言うように花がこぼれ、香もこの時に強く立った。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+袖ふれし人こそ見えね花の香のそれかとにほふ春のあけぼの<lb />
+</span>
+<lb />
+　姫君のその時の作である。<lb />
+　大尼君の孫で<span type="ruby"><span type="rb">紀伊守</span><span type="rp">（</span><span type="rt">きいのかみ</span><span type="rp">）</span></span>になっている人がこのころ上京していて<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねて来た。三十くらいできれいな<span type="ruby"><span type="rb">風采</span><span type="rp">（</span><span type="rt">ふうさい</span><span type="rp">）</span></span>をし思い上がった顔つきをしていた。大尼君の所で去年のこととか、<span type="ruby"><span type="rb">一昨年</span><span type="rp">（</span><span type="rt">おととし</span><span type="rp">）</span></span>のこととかを<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>こうとしているのであったが、ぼけてしまったふうであったから、そこを辞して<span type="ruby"><span type="rb">叔母</span><span type="rp">（</span><span type="rt">おば</span><span type="rp">）</span></span>の尼君の所へ来た。<lb />
+「非常に老いぼれておしまいになりましたね。気の毒ですね。御老体のお世話をすることもできずに遠い国で年を送っていますのは相済まぬことだと思っているのですよ。両親のいなくなりましてからは、お<span type="ruby"><span type="rb">祖母</span><span type="rp">（</span><span type="rt">ばあ</span><span type="rp">）</span></span>さんだけがその代わりのたいせつな方だと思って来たのですがね。<span type="ruby"><span type="rb">常陸</span><span type="rp">（</span><span type="rt">ひたち</span><span type="rp">）</span></span>夫人からはたよりがまいりますか」<lb />
+　と言うのはこの人の女の兄弟のことらしい。<lb />
+「歳月がたつにしたがって周囲が寂しくなりますよ。常陸は久しく手紙をよこしませんよ。上京するまでお<span type="ruby"><span type="rb">祖母</span><span type="rp">（</span><span type="rt">ばあ</span><span type="rp">）</span></span>様がいらっしゃるかどうかあぶないようでもあるのですよ」<lb />
+　浮舟の姫君は自身の親と同じ名の呼ばれていることにわけもなく耳がとまるのであったが、また客が、<lb />
+「京へ出てまいってもすぐに伺えませんでした。地方官としてこちらでする仕事がたくさんでめんどうなことも中にはあるのです。それに<span type="ruby"><span type="rb">昨日</span><span type="rp">（</span><span type="rt">きのう</span><span type="rp">）</span></span>こそは伺おうと思っていたのですが、それも右大将さんの宇治へおいでになったお供に行ってしまいましてね。以前の八の宮の住んでおいでになった所に終日おいでになったのですよ。宮の姫君の所へ通っておられたのですが、最初の方は前にお<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くしになって、そのお妹さんをまたそこへ隠すように住ませて通っておいでになったのですが、去年の春またお亡くなりになったのです。一周忌の仏事をされることになっていまして、宇治の寺の律師をお呼び寄せになって、その日の<span type="ruby"><span type="rb">指図</span><span type="rp">（</span><span type="rt">さしず</span><span type="rp">）</span></span>をしておいでになりましてね。私もその方に供える女の装束一そろいの調製を命ぜられましたが、あなたの手でこしらえてくださらないでしょうか。織らすものは急いで織り屋へ命じることにしますから」<lb />
+　こう言うのを姫君が聞いていて身にしまぬわけもない、人に不審を起こさせまいと奥のほうに向いていた。尼君が、<lb />
+「あの<span type="ruby"><span type="rb">聖</span><span type="rp">（</span><span type="rt">ひじり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">宮</span><span type="rp">（</span><span type="rt">みや</span><span type="rp">）</span></span>様の姫君は二人と聞いていましたがね、<span type="ruby"><span type="rb">兵部卿</span><span type="rp">（</span><span type="rt">ひょうぶきょう</span><span type="rp">）</span></span>の宮の奥様はどうなの、そのお一人でしょう」<lb />
+　と問うた。<lb />
+「大将さんのあとのほうの御愛人は八の宮の庶子でいらっしゃったのでしょう。正当な奥様という待遇はしておいでにならなかったのですが、今では非常に悲しがっておいでになります。初めの方にお別れになった時もたいへんで、もう少しで出家もされるところでした」<lb />
+　こんなことも語っている。大将の家来の一人であるらしいと思うと、さすがに恐ろしく思われる姫君であった。<lb />
+「しかもお二人とも同じ宇治でお<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くしになったのですから不思議ですね。<span type="ruby"><span type="rb">昨日</span><span type="rp">（</span><span type="rt">きのう</span><span type="rp">）</span></span>もお気の毒なことでした。川に近い所で水をおのぞきになって非常にお泣きになりましたよ、<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へお上がりになって柱へお書きになった歌は、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+見し人は影もとまらぬ水の上に落ち添ふ涙いとどせきあへず<lb />
+</span>
+<lb />
+　というのでした。口にはあまりお出しにならない方ですが、御様子でお悲しいことがよくうかがえるのです。女だったらどんなに心が<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれるかしれない方だと思われました。私は少年時代から優雅な方だと心に<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んで思われた方ですからね、現代の第一の権家はどこであっても、私はそのほうへ行きたくありませんで、大将の御<span type="ruby"><span type="rb">庇護</span><span type="rp">（</span><span type="rt">ひご</span><span type="rp">）</span></span>にあずかるのを幸福に感じて今日まで来ました」<lb />
+　この話を聞いていて、高い見識を備えたというのでもないこうした人さえ<span type="ruby"><span type="rb">薫</span><span type="rp">（</span><span type="rt">かおる</span><span type="rp">）</span></span>のすぐれたところは見知っているのであると浮舟は思った。<lb />
+「それでも、光源氏と初めはお言われになったお父様の六条院の御容姿にはかなうまいと思うがねえ。まあ何にもせよ現在の世の中でほめたたえられる方というのは六条院の御子孫に限られてますね。まず左大臣」<lb />
+「そうです。御容貌がりっぱでおきれいで、いかにも重臣らしい<span type="ruby"><span type="rb">貫禄</span><span type="rp">（</span><span type="rt">かんろく</span><span type="rp">）</span></span>がおありになりますよ。<span type="ruby"><span type="rb">兵部卿</span><span type="rp">（</span><span type="rt">ひょうぶきょう</span><span type="rp">）</span></span>の宮は御美貌の点では最優秀な方だと思えますね。女だったら私もあの方の女房になる望みを持つことでしょう」<lb />
+　などと今の世間を多く知らぬ<span type="ruby"><span type="rb">叔母</span><span type="rp">（</span><span type="rt">おば</span><span type="rp">）</span></span>を教えようとするように<span type="ruby"><span type="rb">紀伊守</span><span type="rp">（</span><span type="rt">きいのかみ</span><span type="rp">）</span></span>は言い続けた。浮舟の姫君はおかしくも聞き、身にしむ<span type="ruby"><span type="rb">節</span><span type="rp">（</span><span type="rt">ふし</span><span type="rp">）</span></span>のあるのも覚え、語られた貴人たちも仮作の人物のような気がし、しまいには自身までも小説の中の一人ではないかと思われるのであった。宇治の話によって大将が今も自分の死をいたんでいることを知り、悲しみのわく心にはまた、まして母はどれほど思い乱れていることであろうと推理して想像することもできたが、かえって哀れな尼になっている自分の姿を見せては悲しみを増させることとなろうと思った。<lb />
+　紀伊守から頼まれた女装束に使う材料を尼君が手もとで染めさせたりなどしているのを見ては不思議なことにあうように浮舟は思われるのであるが、自身がその人であったなどとは言いだせなかった。<lb />
+　<span type="ruby"><span type="rb">裁縫</span><span type="rp">（</span><span type="rt">たちぬい</span><span type="rp">）</span></span>をしていた女房の一人が、<lb />
+「これはいかがでございますか。あなた様はきれいに端がお<span type="ruby"><span type="rb">縒</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>れになりますから」<lb />
+　と言って<span type="ruby"><span type="rb">小袿</span><span type="rp">（</span><span type="rt">こうちぎ</span><span type="rp">）</span></span>につける<span type="ruby"><span type="rb">単衣</span><span type="rp">（</span><span type="rt">ひとえ</span><span type="rp">）</span></span>の生地を持って来た時、悲しいような気になった姫君は、気分が悪いからと言って手にも触れずに横になってしまった。尼君は急ぎの仕事も打ちやって、どんなふうに<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>が悪くなったのかと心配してそばへ寄って来た。<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>い単衣の生地の上に、桜色の厚織物を仮に重ねて見せ、<lb />
+「姫君にはこんなのをお着せしたいのに、情けない墨染めの姿におなりになって」<lb />
+　と言う女房があった。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+あま衣変はれる身にやありし世のかたみの<span type="ruby"><span type="rb">袖</span><span type="rp">（</span><span type="rt">そで</span><span type="rp">）</span></span>をかけて忍ばん<lb />
+</span>
+<lb />
+　と浮舟の姫君は書き、行くえの知れぬことになって人々を悲しませた自分の噂はいつか伝わって来ることであろうから、真実のことを尼君のさとる日になって、憎いほどにも隠し続けたと自分を思うかもしれぬと知った心から、<lb />
+「昔のことは皆忘れていましたけれども、こうしたお仕立て物などをなさいますのを見ますとなんだか悲しい気になるのですよ」<lb />
+　とおおように尼君へ言った。<lb />
+「どんなになっておいでになっても、昔のことはいろいろ恋しくお思い出しになるに違いないのに、今になってもそうした話を聞かせてくださらないのが恨めしくてなりませんよ。この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>ではこんな普通の衣服の色の取り合わせをしたりすることが長くなかったのですから、品のないものにしかでき上がらないでね、死んだ人が生きておればと、そんなことを思い出していますが、あなたにもそうしてお世話をなさいました方がいらっしゃるのですか。私のように死なせてしまった娘さえも、どんな所へ行っているのだろう、どの世界というだけでも聞きたいとばかし思われるのですからね、御両親は行くえのわからなくなったあなたをどんなに恋しく思っておいでになるかしれませんね」<lb />
+「あの時まで両親の一人だけはおりました。あれからのち死んでしまったかもしれません」<lb />
+　こう言ううちに涙の落ちてくるのを紛らして、浮舟は、<lb />
+「思い出しましてはかえって苦しくばかりなるものですから、お話ができなかったのでございますよ。少しの隔て心もあなたにお持ちしておりません」<lb />
+　と簡単に言うのであった。<lb />
+　薫は一周忌の仏事を営み、はかない結末になったものであると<span type="ruby"><span type="rb">浮舟</span><span type="rp">（</span><span type="rt">うきふね</span><span type="rp">）</span></span>を悲しんだ。あの常陸守の子で仕官していたのは<span type="ruby"><span type="rb">蔵人</span><span type="rp">（</span><span type="rt">くろうど</span><span type="rp">）</span></span>にしてやり、自身の<span type="ruby"><span type="rb">右近衛府</span><span type="rp">（</span><span type="rt">うこんえふ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">将監</span><span type="rp">（</span><span type="rt">しょうげん</span><span type="rp">）</span></span>をも兼ねさせてやった。まだ<span type="ruby"><span type="rb">童形</span><span type="rp">（</span><span type="rt">どうぎょう</span><span type="rp">）</span></span>でいる者の中できれいな顔の子を手もとへ使おうと思っていた。<lb />
+　雨が降りなどしてしんみりとした夜に大将は<span type="ruby"><span type="rb">中宮</span><span type="rp">（</span><span type="rt">ちゅうぐう</span><span type="rp">）</span></span>の御殿へまいった。お居間にあまり人のいない時で、親しくお話ができるのであった。<lb />
+「ずっと引っ込みました山里に、以前から愛していた人を置いてございましたのを、人から何かと言われましたが、前生の因縁でこの人が好きになったのだ、だれも心の<span type="ruby"><span type="rb">惹</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれる相手というものはそうした約束事になっているのだからと、非難を恐れもしませんでしたが、<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くしてしまいまして、これも悲しい名のついた所のせいであろうと、土地に好意が持たれなくなりましてからは久しく出かけることもいたしませんでしたが、ひさびさ先日ほかの用もあってまいりまして、この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>は人生のはかなさをいろいろにして私へ思い知らせ、仏道へ深く私を導こうとされる<span type="ruby"><span type="rb">聖</span><span type="rp">（</span><span type="rt">ひじり</span><span type="rp">）</span></span>が私のためにことさらこしらえておかれた場所であったと気がついて帰りました」<lb />
+　薫のこの言葉から中宮は<span type="ruby"><span type="rb">僧都</span><span type="rp">（</span><span type="rt">そうず</span><span type="rp">）</span></span>の話をお思い出しになり、かわいそうに<span type="ruby"><span type="rb">思召</span><span type="rp">（</span><span type="rt">おぼしめ</span><span type="rp">）</span></span>して、<lb />
+「そのお<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>には目に見えぬこわいものが住んでいるのではありませんか。どんなふうでその方は亡くなりましたか」<lb />
+　とお尋ねになったのを、二人までも恋人の死んだことを知っておいでになって、幽鬼のせいと思召してのお言葉であろうと大将は解釈した。<lb />
+「そんなこともございましょう。そうした人けのまれな所には必ず悪いものが来て住みつきますから。それに亡くなりようも普通ではございませんでした」<lb />
+　薫はくわしく申し上げることはしなかった。こうして隠そうとしている話に触れてゆくのはよろしくないし、事実を自分に知られたと思うのはいたましいと思召されて、兵部卿の宮が<span type="ruby"><span type="rb">憂悶</span><span type="rp">（</span><span type="rt">ゆうもん</span><span type="rp">）</span></span>しておいでになり、そのころ病気にもおなりになったこともお思いになっては、宮の心情も哀れにお思われになり、いずれにしても口の出されぬ人のことであるとして、話そうとあそばしたこともおやめになった。中宮は小宰相にそっと、<lb />
+「大将があの人のことを今も恋しいふうに話したからかわいそうで、私はあの話をしてしまうところだったけれど、確かにそれときめても言えないことでもあったから、気がひけて言うことができなかった。あなたは僧都にいろいろ質問もして聞いていたのだから、恥に感じさせるようなことは言わずに、こんなことがあったとほかの話のついでに僧都の言ったことを話してあげなさいね」<lb />
+　とお言いになった。<lb />
+「宮様でさえお言いにくく思召すことを他人の私がそれをお話し申し上げますことは」<lb />
+　小宰相はこう申すのであったが、<lb />
+「それはまたそれでいいのよ。私にはまた気の毒で言いにくいわけもあってね」<lb />
+　これは兵部卿の宮がかかわりを持っておいでになるために仰せられるのであろうと小宰相はさとった。<lb />
+　小宰相の<span type="ruby"><span type="rb">部屋</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>へ寄って、世間話などをする<span type="ruby"><span type="rb">薫</span><span type="rp">（</span><span type="rt">かおる</span><span type="rp">）</span></span>に、その人は僧都の話を告げた。意外千万な、珍しい話を聞いて驚かぬはずはない。中宮が宇治の家のことをお尋ねになったのも、この話をしようとあそばすお心だったらしい。なぜ御自身で語ってくださらなかったのであろうと思われて恨めしかったが、自身もあの人の死の真相を初めから聞かされなかったために、知ってからも疑いが解けないで人に自殺したなどとは言わなかった。かえって他へは真実のことが<span type="ruby"><span type="rb">洩</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>れているのであろう、当事者どうしで秘密にしようと努めることも知れてしまわない世の中ではないのであるからと思い続け、小宰相にも自殺する目的のあった人だったとは言いだすことにまだ口重い気がして薫はならない。<lb />
+「まだ今日さえ不審の晴れない人のことに似た話ですね。それで、その人はまだ生きていますか」<lb />
+　と言うと、<lb />
+「あの僧都が山から出ました日に尼になすったそうです。重くわずらっています間にも、人が皆惜しんで尼にはさせなかったのでありましたが、その人自身がぜひそうなりたいと言ってなってしまったと僧都はお言いになりました」<lb />
+　小宰相はこう答えた。<lb />
+　場所も宇治であり、そのころのことを考えてみれば皆符合することばかりであるために、どうすればもっとくわしく聞くことができるであろう、自分自身が一所懸命になってその人を捜し求めるのも、人から単純過ぎた男と見られるであろう。またあの宮のお耳にはいることがあれば必ず捨ててはお置きにならずお近づきになり、いったんはいった仏の<span type="ruby"><span type="rb">御弟子</span><span type="rp">（</span><span type="rt">みでし</span><span type="rp">）</span></span>の道も妨げておしまいになることであろう、もうすでに宮は知っておいでになって、その話を大将へくわしくはあそばさぬようにと頼んでお置きになったために、こうした珍しい話がお耳にはいっていながら、御自身では中宮が言ってくださらなかったのかもしれぬ。宮がまだあの関係を続けようとしておいでになるのであれば、どんなにあの人を愛していても、自分はもうあの時のまま死んだ人と思うことにしてしまおう、生死の線が隔てた二人と思い、いつかは黄色の泉のほとりで風の吹き寄せるままに逢いうることがあるかもしれぬのを待とう、愛人として取り返すために心をつかうことはしないほうがよかろうなどと<span type="ruby"><span type="rb">煩悶</span><span type="rp">（</span><span type="rt">はんもん</span><span type="rp">）</span></span>する大将であった。<lb />
+　やはりその話に触れようとあそばさないであろうかと思われるのであったが、中宮の思召すところが知りたくて、機会を作って薫はお話しにまいった。<lb />
+「突然死なせてしまったと私の思っていました人が<span type="ruby"><span type="rb">漂泊</span><span type="rp">（</span><span type="rt">さすら</span><span type="rp">）</span></span>ってこの世にまだおりますような話を聞かされました。そんなことがあろうはずはないと思われますものの、また自殺などの決行できる強い性質ではなかったことを考えますと、その話のように人に助けられておりますのが性格に似合わしいことのようにも思われるのでございます」<lb />
+　と言い、その話を以前よりも細かに申し上げ、<span type="ruby"><span type="rb">兵部卿</span><span type="rp">（</span><span type="rt">ひょうぶきょう</span><span type="rp">）</span></span>の宮のことを、尊敬を払うふうで、お恨み申しているようには申さずお話をして、<lb />
+「拾われて生きていますことがあの方のお耳にはいっているのでございましたら、私が女を疑って見る能力の欠けた愚か者に見えることでございますから、なお生きているとも知らぬふうにしてそのまま置こうかとも思います」<lb />
+　と申すのであった。<lb />
+「僧都が宇治の話をした晩はね、こわいような気のする晩でしたからね、くわしくは聞かなかったあのことですね。兵部卿の宮が知っておいでになるはずは絶対にありません。何とも批評のしようのない性質だと私もよく歎息させられる方なのだから、ましてその話を聞かせてはめんどうをお起こしになるでしょう。恋愛問題では軽薄な多情男だとばかり言われておいでになる方だから、私は悲しんでいます」<lb />
+　中宮はこう仰せになった。<span type="ruby"><span type="rb">聡明</span><span type="rp">（</span><span type="rt">そうめい</span><span type="rp">）</span></span>な方であるから人が夜話にしたことではあっても、必ずしもほかへお洩らしになることはなかろうと薫は思った。<lb />
+　住んでいる家は小野のどこにあるのであろう。どんなふうに世間体を作ってあの人にまた逢おう、何よりも僧都にまず逢ってみてくわしいことをともかくも知っておく必要があると薫は明け暮れこのことをばかり思い悩んだ。<lb />
+　毎月八の日には必ず何かの仏事を行なう習慣になっていて、薬師仏の供養をその時にすることもあるので<span type="ruby"><span type="rb">叡山</span><span type="rp">（</span><span type="rt">えいざん</span><span type="rp">）</span></span>へも時々行く大将であったから、そこの帰りに<span type="ruby"><span type="rb">横川</span><span type="rp">（</span><span type="rt">よかわ</span><span type="rp">）</span></span>へ寄ろうと思い、浮舟の異父弟をも供の中へ入れて行った。母とか弟とかそうした人たちにさえすぐには知らすことをすまい、その場の都合で今日すぐに尼の家を<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねることになるかもしれぬ。夢のような再会を遂げるその時に、俗縁の親しみを覚えさせるのがよいかもしれぬと思ったのかもしれない。その人とわかったあとでも、異様な尼たちのいる所へ行き、予期せぬ事実などの聞かされることがあっては悲しいであろうなどと、行く途中でも薫はいろいろと<span type="ruby"><span type="rb">煩悶</span><span type="rp">（</span><span type="rt">はんもん</span><span type="rp">）</span></span>をしたそうである。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

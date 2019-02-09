@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>義民甚兵衛</title>
+        <author>菊池寛</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2000-08-28">作成</resp><resp /><note>
+<lb />
+底本：「菊池寛　短編と戯曲」文芸春秋
+<lb />
+　　　1988（昭和63）年3月25日第1刷発行<lb />
+入力：真先芳秋<lb />
+校正：大野　晋<lb />
+<date when="2000-08-28">2000年8月28日</date>公開<lb />
+<date when="2004-02-12">2004年2月12日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>真先芳秋</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>大野　晋</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>義民甚兵衛</title><author>菊池寛</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div">
+<lb />
+<lb />
+<lb />
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+人物<lb />
+　農夫　　　　　甚兵衛　　　二十九歳　甚しき跛者<lb />
+　その弟　　　　甚吉　　　　二十五歳<lb />
+　同　　　　　　甚三　　　　二十二歳<lb />
+　同　　　　　　甚作　　　　二十歳<lb />
+　甚兵衛の継母　おきん　　　五十歳前後<lb />
+　隣人　　　　　老婆およし　六十歳以上<lb />
+　庄屋　　　　　茂兵衛<lb />
+　村人　　　　　勘五郎<lb />
+　村人　　　　　藤作<lb />
+　一揆の首領　　甲<lb />
+　同　　　　　　乙<lb />
+　刑吏、村人、一揆、その他大勢<lb />
+時<lb />
+　文政十一年十二月<lb />
+所<lb />
+　讃岐国香川郡弦打村<lb />
+</span>
+<lb />
+　　　　　　　　　　第一幕<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+甚兵衛の家。藁葺きの、大なれども汚き百姓家。左に土間、土間につづいて台所の右は八畳の居間、畳も柱も黒く光っている。入口の柱には、金比羅大神宮の大なる札を貼っている。その札も、黒くくすぶっている。八畳の奥は部屋のあることを示している。家財道具はほとんどなし。<lb />
+母屋の左に接近して、一棟の建物がある。<span type="ruby"><span type="rb">画</span><span type="rp">（</span><span type="rt">かぎ</span><span type="rp">）</span></span>られて、牛小屋と納屋とになっている。牛はいない。<lb />
+幕開く。甚作と甚三とが、家の前庭で、「前掻き」と称する網を<span type="ruby"><span type="rb">繕</span><span type="rp">（</span><span type="rt">つくろ</span><span type="rp">）</span></span>っている。（方形の形をして柄が付いている。小溝の鮒や<span type="ruby"><span type="rb">泥鰌</span><span type="rp">（</span><span type="rt">どじょう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">掬</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>うに用いるもの）しばらくすると、母のおきんが、母屋と牛小屋との間から、大根を二本さげて出てくる。冬の日の<span type="ruby"><span type="rb">黄昏</span><span type="rp">（</span><span type="rt">たそがれ</span><span type="rp">）</span></span>近し。<lb />
+</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　畜生！　また大根を二、三本盗みやがった！　作、今度見つけたら背骨の折れるほど、どやしつけてやれ！　どこのどいつやろう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　新田の<span type="ruby"><span type="rb">権</span><span type="rp">（</span><span type="rt">ごん</span><span type="rp">）</span></span>が、昨日夕方裏の畑のところを、うろうろしていたけに、あいつかも知れんぞ。飢饉で増えたのは畑泥棒ばかりじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　大根やって、今年は米の飯よりも大事じゃ。百本ばかりある大根が、冬中のおもな<span type="ruby"><span type="rb">食物</span><span type="rp">（</span><span type="rt">くいもの</span><span type="rp">）</span></span>じゃけになあ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　お<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">かあ</span><span type="rp">）</span></span>、木津の藤兵衛の家じゃもう<span type="ruby"><span type="rb">食物</span><span type="rp">（</span><span type="rt">くいもの</span><span type="rp">）</span></span>が尽きたけに、来年の籾種にまで、手を付けたというぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　藤兵衛が家でけ。ええ気味じゃ。藤兵衛の<span type="ruby"><span type="rb">嬶</span><span type="rp">（</span><span type="rt">かかあ</span><span type="rp">）</span></span>め、俺がいつか小豆一升貸せいうて頼んだのに、貸せんというてはねつけやがったものな。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（おきん、台所へ入り水を汲んで大根を洗っている。隣家の老婆、およし入ってくる。ぼろぼろの着物を着て、瘠せはてている）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　甚作さんたち、何しているんでや。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　これから、魚掬いに行くんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　お前の所じゃ、まだそななことができるから、ええな。わしの所じゃ、<span type="ruby"><span type="rb">老人</span><span type="rp">（</span><span type="rt">としより</span><span type="rp">）</span></span>夫婦で泥鰌一匹捕ることやてできやせん。食べるものは、もう何にもなしになってしもうた。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　およし婆さん。羨むなよ。これでな、二人で一日中小溝を漁ってもな、細い泥鰌の二十匹も取ればええ方じゃぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　そうかな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　この近所じゃ、銘々で取り尽して、川には、小鮒一つやて、おりゃせんわ。山には、山の芋どころか、のびるだって、余計は残っておらんぜ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　もう一月もしたら、何食うやろうぜ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　おおかた壁土でも食っているやろう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　滝の宮の方じゃ、もう松葉食うとるだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　民百姓がこなに苦しんどるのに、お上じゃまだ御年貢を取るつもりでいるんじゃてのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　御年貢米の代りに、人間の乾干しを収めるとええぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　明和の飢饉じゃて、これほどではなかったのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　あの時には、お救い小屋が立ったというじゃないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　そうじゃ、そうしゃ。わしもな、お救い小屋のお粥をもろうたがなあ。ひどい飢饉じゃったけれどもな、今度ほどは困らなかったぞ。みんな、お上がよかったからじゃ。御家老様が、偉い御家老様だったでな。お蔵米を惜しげもなくお下げになったのじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　今度は、お蔵米どころか、こちらを、逆さにして鼻血まで、搾り出そうとしている。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　わしもなあ、長生きしたおかげで、食うや飲まずの辛い目にあうことじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　　　　（ふと、この家に来た用向きに気がついて、いいにくそうに）おきんさん。わしゃ、お頼みがあって来たんじゃがな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（すぐ警戒するような顔をして）何じゃ！　</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　あのな、えらいいいにくい頼みじゃがな。お前とこの大根を、一本貸してもらえんかな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（黙っている）……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　村中で、みんな羨んどる。おきんさんところじゃ、よう大根作ったいうてな。飢饉で何もできなかったのに大根だけはようできた。おきんさんは、よう気がついたいうてな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（大根を大切そうに包丁で、切りながら）おぬしには、この<span type="ruby"><span type="rb">朔日</span><span type="rp">（</span><span type="rt">ついたち</span><span type="rp">）</span></span>にも一本貸してやったな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　ああそうそう。わしもよう覚えているでな。御時世がようなったら、十倍にも百倍にもして返そうと思っとるんじゃ。じゃけどな、おきんさん、わしはたびたび無心いいとうはないんじゃけどな、家の<span type="ruby"><span type="rb">爺</span><span type="rp">（</span><span type="rt">じじい</span><span type="rp">）</span></span>がな、二、三日前から、<span type="ruby"><span type="rb">病</span><span type="rp">（</span><span type="rt">わずら</span><span type="rp">）</span></span>いついてな。……食うものも食わんのじゃけに、<span type="ruby"><span type="rb">病</span><span type="rp">（</span><span type="rt">わずら</span><span type="rp">）</span></span>いつくのも当り前じゃがな。それでな、青物が食いたい食いたいいうて口ぐせのようにいうとるのでな。何ぞ、食べられるような草があるかと思うてな、野面を走り回ったけれども、冬の真ん中じゃで何もないんじゃ。わしの亭主、助けると思うてな。大根一本融通してくれんかな。御時世が直ったらな。十本にでも百本にでもして返すけにな……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（黙って大根を鍋に入れる）……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　なあ、おきんさん、わしたち、助けると思ってな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（冷然として）まあ、堪忍してもらおうけな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　（おどろいて）ええ何やと。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　御時世が直って、大根を一車返してもらうより、今の一本の方が大事じゃけにな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　（弱々しき反抗で）えろうまあ、無慈悲なことをいうのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　いわいでかのう。この時節に、食物のことでは、親子兄弟でもな、血眼になっとるんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　大根一本が、それほど惜しいかのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ふふむ。何いっているだ。おぬしの方が、それほど欲しがっているじゃないか。この頃では甚吉の家の大根いうてな、みんな評判してな。一本でも二本でも盗もうとしてるんじゃ。<span type="ruby"><span type="rb">家中</span><span type="rp">（</span><span type="rt">うちじゅう</span><span type="rp">）</span></span>、代り番こに、ねず番しとるんじゃ。一朱銀の一つも持ってくるがええ。大根の一本や二本くれてやるけにな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　（憤然として）人情を知らんのにもほどがあるのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　何いってるぞ。この時節に、人情だの義理だのいっとると、乾干しになって死んでしまうわ。<span type="ruby"><span type="rb">本津</span><span type="rp">（</span><span type="rt">もとつ</span><span type="rp">）</span></span>の義太郎を見いな。米俵、山のように積んであっても、一合一勺だってこっちに恵んでくれたかのう。一石百五十匁もしたら、売ろうと思っとるんじゃないか。こちとらのような、水呑百姓が大根一本だって、人にくれられるけ。無駄口利かんと、早う帰ったらええわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　（見かねて）おっ母。そなな無愛想なことをいわんで、一本ぐらい貸してやれな。まだ一<span rend="SESAME_DOT" rendition="strong">みね</span>はあったんじゃないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　何、いらんことをいうのじゃ。みんなお前たちが可愛いけに、大根の一本も惜しむんじゃないか。ぐずぐずいわんと、早う出かけて泥鰌の一匹でもよけい取って来い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　甚作行こう。およし婆さ。家のおっ母、一刻者じゃけに、いい出したら、後へ引かんけにな、今日は諦めて帰るとええわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　何が、一刻者じゃ。生死塚のばばあのように、欲の深いやつじゃ。（帰りかけて）今にみろ、あたしたちが飢えて死ぬときには、うんとこさと呪ってやるからな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ええわ。なんぼなと呪え。おぬしのようなおいぼれに呪われたって、何の悪いことがあるもんけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　業つくばばめ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　おいぼれめ。おぬしたち早う飢えて死ねよ。それだけ、穀がのびて、他の者が助かるわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">およし　（口惜しがっし）<span type="ruby"><span type="rb">女子</span><span type="rp">（</span><span type="rt">おなご</span><span type="rp">）</span></span>のくせに、よう無慈悲なことがいえるな。ええわ、ええわ。今に思い知らせてやるけに。（退場する）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　この大根と粟とで、春まで命をつなぐんじゃ。一本だって、他人にやって堪るけ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（大根を入れた鍋を、<span type="ruby"><span type="rb">竈</span><span type="rp">（</span><span type="rt">かまど</span><span type="rp">）</span></span>にかけ火を点ける）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　じゃ、おっ母、行って来るぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ああ行って来い！</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（二人の兄弟、「前掻き」と魚籠とを持って出て行く。入れ違いに村人勘五郎、慌しく入ってくる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　おきんさん。甚吉どんはおらんかのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　おらん。今朝、早うからな、落松葉をな、お城下へ売りに出たよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　落松葉を、うむ、そななものでも金になるけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　百にもならねえだ。それでもな、粟の二合や三合は買えるけにな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　甚三も甚作もおらんかのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　二人ともおらん。何ぞ用け。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　おっ母、恐ろしいことが起ったぞ。<span type="ruby"><span type="rb">綾郡</span><span type="rp">（</span><span type="rt">あやごおり</span><span type="rp">）</span></span>二十三カ村に、御年貢御免を嘆願の一揆が起ったぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　なるほどのう。一揆でも起ろうぞ。ええ気味じゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　それでな、だんだんお城下の方へ押し寄せてくるいうのじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　なるほどのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　それでな、もう<span type="ruby"><span type="rb">端岡</span><span type="rp">（</span><span type="rt">はしおか</span><span type="rp">）</span></span>までは来とる、いう噂じゃけに、この村でも、加担するか加担せんか、今のうちに<span type="ruby"><span type="rb">定</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>めとこうていうてな、八幡さまで、村の若い衆の集りがあるのじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　恐ろしいことになったのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　一揆もええがのう、後が悪いからのう、あんまり、有頂天になってやっとると、後で<span type="ruby"><span type="rb">磔</span><span type="rp">（</span><span type="rt">はりつけ</span><span type="rp">）</span></span>じゃからのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　恐ろしい、恐ろしい。飢えて死ぬと磔とどちらがええじゃろ</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　じゃ、俺は、急ぐけにな、みんな帰ったら、よこしてくれんかのう。村の集りにはずれると後が悪いぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ええわ、わかった。甚三と甚作とを探して、すぐやるけにな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　じゃ、ええか。暮六つまでには、集るんじゃぞ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（勘五郎去る。おきん、不安らしく考え込みたる後兄弟をたずねるべく、つづいて退場する。――間――牛小屋に物音がする。やがて、この家の長男の甚兵衛が、そこから現れる。つぎはぎした膝までしか来ない着物を着ている。憔悴している。右脚はなはだしく短く、ちんばを引く。ひそかに周囲を見回したる後、台所に忍び寄り、鍋の蓋を開け、まだ半煮えの大根を、がつがつ貪り食う。しばらくすると、背負籠を肩にしたる次男甚吉、表から帰って来る。兄が大根を食っているのを見つける）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　何するだ！　この泥棒猫め！</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（兄の襟筋を掴み引きずり出す）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　（やや愚鈍らしく）われこそ何するだ！　何するだ！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　おのれ、おっ母の目を<span type="ruby"><span type="rb">掠</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>めて盗み食いをしやがる。われに、大根を食わせてたまるけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　わしやて、大根食いたいだ。この大根作ったのは俺じゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　何を世迷言いうだ。作ったのは、われでもな、この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>や、畑はおれの物じゃぞ。この畑にできるものはみんな俺の物じゃぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　何いうだ。新田の藤兵衛伯父がいうた。われは長男じゃけにな、みんなわれの物じゃいうて。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　（激しくこづき回しながら）<span type="ruby"><span type="rb">不具者</span><span type="rp">（</span><span type="rt">かたわもの</span><span type="rp">）</span></span>のくせに何いうだ。爺さんが、生きていたときに、庄屋様に願うて家屋敷とも俺の物になっているのだ。われは牛小屋でくすぶってりゃいいんだ。不具者のくせに、出しゃばるなよ。（激しくこづき回す）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　（激怒し）おっ母と兄弟三人とで共謀しやがって、長男のわしの物をみんな取っているのだぞ。この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の縁の下の塵までわしの物じゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　何を、阿呆くさいことをいいやがるんじゃ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（さらに激しく、こづき回す。甚兵衛、こづかれながら手を振り上げて、甚吉の顔を<span type="ruby"><span type="rb">殴</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>つ）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　おのれ、<span type="ruby"><span type="rb">殴</span><span type="rp">（</span><span type="rt">ぶ</span><span type="rp">）</span></span>ちゃがったな。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（二人激しく格闘す。甚兵衛も、絶えず圧迫されながら、抵抗をつづける。そこへ母と一緒に兄弟二人帰ってくる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　吉兄い。どうしたんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　（甚兵衛を押えながら）この不具者めがな、今鍋の大根を、盗んで食うていやがるんじゃ。それでな俺が怒鳴りつけるとな、俺に食ってかかりゃがってな、俺の顔を殴ちゃがったんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　本当けい。この阿呆のど<span type="ruby"><span type="rb">不具</span><span type="rp">（</span><span type="rt">かたわ</span><span type="rp">）</span></span>め。大根やこしお前の口へ入るものじゃねえだぞ。お前なんかに、粟の飯一杯も惜しいけどな、同じ人間の皮<span type="ruby"><span type="rb">被</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>ぶってるけにな、毎日一杯ずつ恵んでやっとるんじゃ。それを有難いとも思わんでようもようも盗み食いしやがった。吉、根性骨にしみるほどどやしつけてやれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　おっ母、昨日畑の大根取ったのもこいつかも知れんぞな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　そうじゃ。そうじゃ。それに違いない。みんなして、牛小屋の中へ追い込んでな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　（まったく抵抗力を失いながら）なんぼ不具じゃとて長男の俺を牛小屋へ住わせて、粟の飯たった一杯ずつあてごうて……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　何いうぞ。この飢饉の時節に、粟の飯一杯じゃとて、惜しいぞ。吉、その頬げた一つひねってやれ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚吉は、いわれた通りにする）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　ああ痛い！　痛い！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　さあ、皆して、<span type="ruby"><span type="rb">放</span><span type="rp">（</span><span type="rt">ほお</span><span type="rp">）</span></span>り込んでしまえ！　これからは、粟の飯ももったいないや。水だけでたくさんじゃ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（三人は、母にいわれたごとく甚兵衛を手込めにして、牛小屋へ入れる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　どうするだ！　何するだ！　われたち！　この兄をどうするだ！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　何が、兄だい！　われのような不具の阿呆を誰が兄に持つものけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　どうするだ！　どうするだ！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　（次兄に加勢しながら）ええ、黙って、この中にすっこんでおれ！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　（同じく手を貸して、担ぎ上げながら、二人の兄のよりは、やや優しく）盗み食いやこしするけに、こなな目にあうのじゃ。おとなしゅう、小屋の中へ入っているがええぞ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（三人、<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-92/1-92-36.png" rend="gaiji" rendition="img" source="※(「足へん＋宛」、第3水準1-92-36)" /></span><span type="rp">（</span><span type="rt">もが</span><span type="rp">）</span></span>いている甚兵衛を、牛小屋の中へ担ぎ込んでしまう）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　何するだ！　どうするだ。（叫びながら、担ぎ込まれる）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　出られないように戸を閉めて、しんばり棒、こうとけ。明日から粟の飯一杯もやらんぞ。（やや声を低めて）今時、死んだとて、誰も不思議がりゃせんわい。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚吉、戸を閉め、棒を探してきて、しんばり棒をかう。この前より、周囲がようやく暗くなり始める）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　吉、きいたか。綾郡に一揆が起ったということを。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　きいたとも。御城下でえらい騒ぎじゃ。香東川の堤で、早馬に二度も行き会うたぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　それでのう、御城下に押し寄せる道筋じゃけに、この村へも追っつけ来るでのう、加担するか加担せんか評議するためにのう、八幡様で暮六つから集りがあるから来いいうてな、勘五郎どんが、ふれて来たぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　一揆の<span type="ruby"><span type="rb">加担人</span><span type="rp">（</span><span type="rt">かとうど</span><span type="rp">）</span></span>か。こんな時、下手まごつくと首が飛ぶし、それかというて、<span type="ruby"><span type="rb">後込</span><span type="rp">（</span><span type="rt">しりご</span><span type="rp">）</span></span>みしとると一揆からひどい目にあうしのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　とにかく、行って来るがええぞ。それでのう、身をたしなんで、出しゃばらんがええぞ。先ばしりしてわしに心配させるでねえぞ！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　じゃ、ぼつぼつ行こうか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　飯食うてからにせい。評定が、長びくかも知れんけに。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　ああ、ど不具めと、取り組み合うて、えらいことお腹を空かせたぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（台所へ入り、鍋の蓋を開けて見て）あの阿呆め！　三切れも、食いやがった。われらに、一切れずつやろう思っていたら、当らんようになったぞ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（兄弟三人、台所に腰をかけ、粟飯を茶碗に盛りながら、大根を鍋よりはさみ出しながら食う）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　一揆も、やっているときは、景気がええがのう。後でまた、<span type="ruby"><span type="rb">磔</span><span type="rp">（</span><span type="rt">はりつけ</span><span type="rp">）</span></span>や打首が二、三十人はあるべい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　触らぬ神に、崇りなしじゃ。なるべくなら、誰も出んで済むとええがのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　そうもなるまい。村で加担するとなると、家では若い者が揃っとるけにのう、一人二人は出ねばなるまい。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（この前より、周囲がほの明るく騒がしくなる。遠方が、火事でもあるように明るくなる。雑音がだんだん高くなる。遠い寺の鐘が鳴り始める）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　（駆け出しながら）なんやろう。なんやろう。火事かしら。向うが真っ赤じゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　ええ、なんじゃと。（出てくる）ほほう。赤いな。どうしたんじゃろう。どこぞで火事を出したのか知らん。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ええ、火事じゃと。（出てくる）</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚三も出てくる。親子四人とも、遠方を見て、不安に襲われる。寺の鐘激しく鳴る。牛小屋の戸がガタガタ動く）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛の声　開けてくれ！　開けてくれ！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　阿呆め！　お前は、そこですっこんでおれば、ええじゃ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（村中が、ますます明るくなる。人声が嵐のように高まってくる。犬がけたたましく吠える。寺の鐘が<span type="ruby"><span type="rb">殷々</span><span type="rp">（</span><span type="rt">いんいん</span><span type="rp">）</span></span>と鳴る。甚作駆け出す。やがて帰ってくる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　（蒼くなって、帰ってくる）えらいこっちゃ！　えらいこっちゃ。街道筋は一面の<span type="ruby"><span type="rb">炬火</span><span type="rp">（</span><span type="rt">たいまつ</span><span type="rp">）</span></span>じゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　え、なんじゃと。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（このとき、「一揆じゃ！　一揆じゃ！　一揆が来たぞ！」という、叫びが遠く近く聞えてくる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ああとうとう、来たんじゃのう。恐ろしいことになったのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　御城下を、夜討ちにするじゃのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　まさか、こちとらに、仇はしやすまいのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　何、そなな心配があるもんか。一揆はこちとらの味方じゃないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　われら、みんな隠れとれ！　加担人させられたら、後が難儀じゃけに。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　まだ、ええ。まだ、ええ。こっちへ来るのには間がある。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（このとき、村人の一人、あわただしく駆けてくる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　おおわれや、藤作じゃねえか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">藤作　おお。この村も、加担じゃぞ。ええか。一軒で一人ずつ、人数を出すんじゃぞ。ええか。<span type="ruby"><span type="rb">炬火</span><span type="rp">（</span><span type="rt">たいまつ</span><span type="rp">）</span></span>と竹槍とを用意しとげ。ええか。後から、一揆の統領が回って来るけにな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　（蒼白になりながら）合点じゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">藤作　加担の村が、二百十二カ村になったぞ。夜更けにお城下へ押し寄せて、御家老たちの家を叩き壊すいうとるぞ。はよう、用意せい。ええか。わかったか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　わかった。わかった。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（藤作、駆け去る）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（狼狽しながら）どうしよう。どうしよう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　仕方がねえ。わし行くぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　阿呆いうな。<span type="ruby"><span type="rb">後嗣</span><span type="rp">（</span><span type="rt">あとつぎ</span><span type="rp">）</span></span>のお前に万一のことがあったらどうするんじゃ。われは行くんじゃねえ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　兄貴は、家にいるがええ。わしが行くだ。わしが。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　われも行くでねえ。加担して、後で打首にでもなったら、どうするだ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　そなな心配がいるもんけ。何万という人数じゃもの。ただついて行っただけで打首になんか、なって堪るけい。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（急に炬火の火が近づいてくる。一揆らが近づいてきた物音がきこえる。寺の鐘、段々と鳴りつづける）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　こちらへ来るだ。こちらへ来るだ。われら、みんな隠れとれ。おっ母が、ええようにするだ。わしに委しとけ。わしが、ええようにするだ。わしが、われら、誰も行かんでええようにするけに。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　阿呆いうな！　おっ母のような年寄、委しとけるけ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ええ、黙っとれ、お前らは。入っとれいうたら、入っとれ。入っとれ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（おきん、息子たち三人を押し込むように、奥に入れる。そして、台所へ行く。出刃包丁を持って、母屋と牛小屋の間から奥底へ行くと、炬火の薪と手頃の竹竿を持って出てくる。先端を、出刃でとがらせる。それから、牛小屋の戸のしんばり棒をはずす。このとき、覆面をし手槍を持った一揆の首領二人、炬火を持った多くの一揆に囲まれながら、出てくる。村人勘五郎が、案内している）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　（首領に）へえ。この家にも男手が、ございまする。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">首領の一人　わしは、綾郡さる村に住む郷士じゃ。今度諸人助けのために、御年貢米御免の嘆願の一揆を起した者じゃ。同心か不同心か、どちらじゃ。同心するにおいては道々、所々在々の大百姓の家を叩き壊して、金銀米穀を分けてやる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">他の一人　同心なら、同心の印に加担人一人を出せ。不同心ならすぐこの家を叩き壊す。その方たちを打ち殺す。どちらじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　（震えながら）へえい、へえい。同心でございますとも。わしたち小百姓には、救いの神様でござります。ありがとうございます。おありがとうございます。加担人を出しますとも。（牛小屋の前へ進み戸を開ける）おお、甚兵衛、お前、そなな所へ隠れていないで出てこいや。何も恐いことありゃせん。わしたちの難渋を救うて下さる神様じゃ。早う出てこい。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚兵衛の手を掴んで引きずり出す）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　さあ！　これを持ってな。このお方たちの後からついて行け！</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（竹槍と炬火を渡す）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　わしは恐い。わしは恐い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　何をいうぞ。お前、ぐずぐずいうたら、竹槍で突き殺されるぞ。（竹槍を強いて押し付けながら）はよう、しっかり持たんけいな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　わしゃ恐い。恐い。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">首領の一人　臆病者め！　恐がることはない。一揆の人数は綾郡宇多郡を合せて、五万三千人じゃ、なんの恐いことがあるものか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　うんと叱ってもらいたいでのう。これは生れつきの臆病者でな。（甚兵衛に）さあ、しゃんとして行って来い。この方々について行くと、白い飯が、なんぼでも食べられるぞ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚兵衛、その言葉に少しく元気づき、三、四歩歩く）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">首領の他の一人　その者は、<span type="ruby"><span type="rb">不具者</span><span type="rp">（</span><span type="rt">かたわもの</span><span type="rp">）</span></span>じゃないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　なんの不具者でもな、山や野良の働きは人一倍でな。他人の二倍もの仕事しまするでな。ちんば引いても走るのは、人一倍じゃぞな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　おきんさん、甚吉は、どうしただ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　さっきもいうたじゃないか。御城下へ松葉売りに行ってな、まだ帰って来んのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">首領の一人　不具者でもよい。詮議していては手間どる！　さあ、次の家へ案内されい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　さあ、こちらへおいでなさい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">首領の他の一人　（甚兵衡に）後からついて来い。ははははは、山本勘介というちんばの軍師が昔あった。お前もうんと働いてくれ、はははは。その代り、白い飯でもなんでも食わしてやるぞ。（歩き出す）</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　（やや遅れて恨めしげに）わしを打首にするつもりかの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　何をいうだ！　お前に、たんと、白い飯を食わしてやりたいのじゃ。はようとっととついて行け！</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚兵衛、愚鈍な顔にも、母親を恨めしげに見返りながら、竹槍を杖について、よたよたと出てゆく。おきん、胸を撫で下しながら、後を見送っている。兄弟三人、奥の問から出て母親の後へ、そっと忍んでくる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　おっ母！　</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　おおびっくりした。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚三　うまくやったなあ、おっ母。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　ははははは。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　ほんまにうまくやったの。あの不具者が、竹槍をついて、ちんば引き引きついて行くのを考えると、吹き出したくなるのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　あはははは。あの不具者も、二十九になるまで養うてやった甲斐があったのう。思わん役に立ったわ。この一揆で御年貢は御免になるわ。米もやすくなるわ。わちとら親子は<span type="ruby"><span type="rb">高処</span><span type="rp">（</span><span type="rt">たかみ</span><span type="rp">）</span></span>から一揆を見物しているわ。ああうまいことした。甚作、厄逃れのお祝いに、神棚へお灯明であげいよ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　一揆の大将がいうとった。昔山本勘介いうて、えらい軍師があったというてのう。けどおっ母の方が、もっと偉い軍師じゃのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">おきん　どうじゃ。年が寄っても、こななものじゃ。ははははは。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">兄弟三人　あはははは。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚吉　あの不具者め。あははははは。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">親子四人　あははははははははは。</span>
+<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</span>
+<lb />
+　　　　　　　　　　第二幕<lb />
+<lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+第一幕より、十日ばかりを経たるある日の夜、弦打村庄屋茂兵衛の家の広間。村人たち縁側にも庭にも満ちている。座敷には、ところどころに百目蝋燭が燃えている。庭には、篝火が三カ所ばかりに焚かれている。人数の割合に静粛である。みんな不安と恐怖とに囚われているのがわかる。<lb />
+</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄甲　（縁側に立って見回しながら）もう皆集ったかのう、<span type="ruby"><span type="rb">本津</span><span type="rp">（</span><span type="rt">もとつ</span><span type="rp">）</span></span>の吾作は来たか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人一　来ただ。ここに来ているぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄甲　新田の新吉は見えんのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人二　まだ来とらんが、さっき来るときに誘うとな、山へ行っとるけに、帰ったらすぐよこせるいうたぞ、<span type="ruby"><span type="rb">嬶</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>が。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄乙　上笠居の甚兵衛が、見えんぞな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人三　うん。甚兵衛どんが、来とらん。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人四　あなな気の毒な人、来いでもええじゃないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人五　また、あなな阿呆来たとて、しようがない。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人六　阿呆阿呆いうない。少し阿呆じゃけになお可哀そうじゃないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　そうじゃ。阿呆じゃけど、ええ人じゃ。義母や兄弟たちに<span type="ruby"><span type="rb">苛</span><span type="rp">（</span><span type="rt">いじ</span><span type="rp">）</span></span>められるので、いよいよ阿呆になるんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人六　そうじゃとも、長い間、苛めぬかれたでのう。家や田畑は、弟に取られるしな、食物もろくろく食わせらんし、なんぞ口答えすると、弟三人がよってたかって<span type="ruby"><span type="rb">殴</span><span type="rp">（</span><span type="rt">ぶ</span><span type="rp">）</span></span>ち<span type="ruby"><span type="rb">打擲</span><span type="rp">（</span><span type="rt">ちょうちゃく</span><span type="rp">）</span></span>するんじゃもの。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人五　けど、阿呆じゃもの、しようがないわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人六　阿呆でも、長男は長男じゃものな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人八　死んだ甚七は、あまりおきん婆に甘かったから、いかんのじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人六　そうじゃ。死んだ<span type="ruby"><span type="rb">爺</span><span type="rp">（</span><span type="rt">じじい</span><span type="rp">）</span></span>もわるいんじゃ。だがのう今度の一揆にやってあのおきん婆の仕打ちはどうじゃ。足腰のたっしゃな息子が三人もあるのにな。自分の息子は出さんでな。常日頃、苛めぬいとる甚兵衛どんを出すんじゃものな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七、八、四　そうじゃ。そうじゃ。ひどい仕打ちじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人六　わしゃ、何も知らん甚兵衛どんが、竹槍杖ついて、ちんば引き引きついて来るのを見ると、涙がこぼれたぞな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　<span type="ruby"><span type="rb">俺</span><span type="rp">（</span><span type="rt">おら</span><span type="rp">）</span></span>も、可哀相で見ておられなんだぞ。勘五郎どん、お前どうしただ。お前が一揆の大将を、甚兵衛どんの家へ案内したいうじゃないか。なんで、この家には、足腰のたっしゃな若い者が三人もいると、いってやらんのじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　そら、後から気のつくことじゃ。わしも、竹槍を差しつけられて案内しとるんじゃろう。命がけじゃないか。早う、案内役を逃げたい思う一心で、何でも早う済めばよいと、思うとったけにのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　ほんとうに、あのおきん婆、一揆の大将に頼んで、突き殺してもらいたかったのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人四、六、八　ほんまじゃ。ほんまじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　考えても、腹が立つでのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　だが、庄屋どんや名主どんは遅いのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄甲　なんぞ、難儀なことになっとるかも知れんぞう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄乙　松野八太夫様が、馬から落ちくぜた所が、もう半丁も向うだとよかったんじゃ。あすこの地蔵堂の所が、村境じゃけにな。ほんの半丁ぐらいの違いで、この村に難儀がかかるんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人八　お上も、無理じゃないか。郡奉行様が一揆に殺されたのが弦打村の地境の内だからというて、弦打村から下手人を出せというて、あんまり聞えんじゃないか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄乙　じゃけど、そうでもせな、下手人が出んのじゃ。下手人が出んと、お上の御威光にかかるけにな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人六　えらい、災難じゃのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　ええことは、二つないわ。一揆のおかげで御年貢御免になったかと思うと、すぐこなな無理な御詮議じゃ。<span type="ruby"><span type="rb">一昨日</span><span type="rp">（</span><span type="rt">おととい</span><span type="rp">）</span></span>、御坊川で一揆の発頭人も磔になったというから、下手人が出たら磔は逃れんのう。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（一座、しんとしてしまう。その時甚兵衛が、末弟の甚作と一緒に来る）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　ああ甚兵衛どんが来た。甚兵衛どんが来た。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人四　相変らず、にこにこしとるわい。あの人は、他人には、いつも愛想がええわ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚兵衛、蒼白な顔に微笑を<span type="ruby"><span type="rb">堪</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>え、皆にぺこぺこ頭を下げて、隅の方へ座る）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人八　甚兵衛どん。遅かったのう。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚兵衛　（黙ってうなずく）……。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚作、甚兵衛に寄り添うて座ろうとする）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　甚作、わりゃ、何しに来ただ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　おっ母が、ついて行けいうけに。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　何やって、おっ母がそんなことをいうんじゃ。今日の集りは、一揆について行ったものだけの集りじゃぞ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　じゃけどもな、おっ母が、兄やは少し足らんけにな、寄合の席へやこし、一人でやるのは、心元ないいうけにな。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人七　えろう、勝手なこと、いいやがるやつじゃのう。そなな心もとない甚兵衛を、どうしてまた、一揆にやこし一人で出したんじゃ。あんまり、得手勝手なことをしていると天罰が恐ろしいぞと、おっ母にいってやれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">甚作　（言葉もなく黙してしまう）……。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">勘五郎　ほんまじゃ。おっ母にな、少しいってやれよ。あんまりひどいことをするとな、人間がゆるしても、神様が許さんていうてな。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（甚作は、顔を<span type="ruby"><span type="rb">赧</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>らめて、さしうつむいてしまう。甚兵衛はにこにこ笑っている）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人九　ああ、街道筋に提灯が見えるぞう。庄屋どんたちが、帰ったんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人十　おお見える。迎えに行こう。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（一座緊張して、待っている。やがて、迎えに行った村人が、悄然として帰って来る。それに続いて庄屋と名主とが銘々手錠を入れられ、郡奉行の役人たちに守られて、首をうなだれて帰って来る。一座仰天する）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人たち　（口々に）どうしたんじゃ。どななおとがめでそなな目におうたんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄甲　茂兵衛様、一体これはどうしたんじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">茂兵衛　子細はあとでお話しする。まず、おしずまり下さい。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄甲　おおしずまるとも。皆静かにせ。村の一大事じゃけに、みんな静かにしてくれ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（村年寄たち、庄屋を庇うて、座敷へ上げ、郡奉行の役人たちを案内する。庄屋正面へ出る。村人たち、水を打ったように静かになる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">茂兵衛　（老眼をしばたたき一座を見回しながら）かような姿で、御一統にお目にかかり面目のうござる。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人一　なんのそなな斟酌がいるもんけ。村のために、そなな身にならしゃったことはわかっているでな！</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人たち　ほんまじゃ。ほんまじゃ。そなな会釈はいらんぞっ！　それよりも早う、話しとくれ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村年寄甲　しっ、静かに。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">茂兵衛　そういわれては、なおさら面目ない。わしらの申し開き拙いによって、かように村中一統の難儀になったのじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人一　庄屋どん、そななことよりも、今日の首尾、その手錠の子細を早う話してくれ！　気にかかってしようがないわ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">茂兵衛　そう、おせきなさるな。話すなというても、話さずにはおられんことじゃ。実はな今日新郡奉行<span type="ruby"><span type="rb">筧</span><span type="rp">（</span><span type="rt">かけい</span><span type="rp">）</span></span>左太夫様のお役宅へ出たのじゃ。ところが、御奉行様の仰せらるるには、お上が今度の一揆に対しての御沙汰は恩威並びに行うという御趣意じゃと、こう仰せられるのじゃ。それでな、年貢米は、嘆願によって免除する代りに、一揆の発頭人は、一昨日御坊川で磔にした。また、松野八太夫様に<span type="ruby"><span type="rb">礫</span><span type="rp">（</span><span type="rt">つぶて</span><span type="rp">）</span></span>を打った下手人は、草を分けても詮議するとこう仰せられるのじゃ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（一座から激しく嘆息がきこえる）<lb />
+</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　　それでな、御奉行様の仰せらるるには、一揆が香東川の堤にさしかかった時は、弦打村の百姓が、真っ先だろうとおっしゃるのじゃ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">村人たち　（口々に）それや、嘘じゃ……なんぼ奉行様の仰せでも、それは間違うとる。大間違いじゃ。……大間違いじゃ。</span>
+<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+（村人たち口々に打ち消す）<lb />
+</span>
+茂兵衛　まあ！　黙って聞いて下され。一揆の発頭人たちが、そう白状したと御奉行様が仰せられているのじゃ。<lb />
+村人たち　（銘々嘆息する）……。<lb />
+茂兵衛　それにな。何より悪いことは、松野様が落馬あそばした所が、地蔵堂の手前で、まぎれものう弦打村の<span type="ruby"><span type="rb">境内</span><span type="rp">（</span><span type="rt">さかいうち</span><span type="rp">）</span></span>じゃ。御奉行様もいわれるのじゃ。弦打村の者が先手にいたといい、松野どのの果てられたところが、村の境内といい、嫌疑がその方たちに懸るのを不祥と諦めいとこう仰せられるのじゃ。それでな、御奉行様内々の仰せでは、村中で評議して下手人を出すにおいては、褒美として、お救い米の高も、他所よりも心をつけてやるとこう仰せられるのじゃ。が、もし三日のうちに下手人が相知れぬにおいては、庄屋を初め名主、村年寄一統を下手人の代りに磔に上げるかも知れないぞ、とこう仰せられるのじゃ。<lb />
+</span></p></body>
+  </text>
+</TEI>

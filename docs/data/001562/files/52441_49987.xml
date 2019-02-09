@@ -1,0 +1,726 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>銀河まつり</title>
+        <author>吉川英治</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2013-01-23">作成</resp><resp /><note>
+<lb />
+底本：「治郎吉格子　名作短編集（一）」吉川英治歴史時代文庫、講談社<lb />
+　　　1990（平成2）年9月11日第1刷発行<lb />
+　　　2003（平成15）年4月25日第8刷発行<lb />
+初出：「サンデー毎日　秋季増刊号」<lb />
+　　　1930（昭和5）年<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：門田裕志<lb />
+校正：川山隆<lb />
+<date when="2013-01-23">2013年1月23日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>川山隆</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>銀河まつり</title><author>吉川英治</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">はしがき</span></span></span>
+<lb />
+　人国記にいわせると、由来、信州人は争気に富むそうである。それは、他国人に比を見ない<span type="ruby"><span type="rb">精悍</span><span type="rp">（</span><span type="rt">せいかん</span><span type="rp">）</span></span>熱情な点を称揚したようにも受けとれるが、実は<span type="ruby"><span type="rb">狭量</span><span type="rp">（</span><span type="rt">きょうりょう</span><span type="rp">）</span></span>だという意味にもひびく。またこの国が、古来からすぐれた人材を<span type="ruby"><span type="rb">輩出</span><span type="rp">（</span><span type="rt">はいしゅつ</span><span type="rp">）</span></span>していながら、まだ一人の天下取りも出していない点を<span type="ruby"><span type="rb">諷</span><span type="rp">（</span><span type="rt">ふう</span><span type="rp">）</span></span>した言葉と考えてもさしつかえない。<lb />
+　しかしこれは、あながち<span type="ruby"><span type="rb">信濃</span><span type="rp">（</span><span type="rt">しなの</span><span type="rp">）</span></span>にばかり限ったことではないように思う。山国の人の共有性ではあるまいか。十数年の間、雪が解けると始まった川中島の合戦は、越後人と甲州人との喧嘩だったが、両方ともまず山岳<span type="ruby"><span type="rb">割拠</span><span type="rp">（</span><span type="rt">かっきょ</span><span type="rp">）</span></span>の武族だった。――けれど争われないことには、その際にも、呉越の真ン中に挟まって漁夫の利を占めるにいい立場にあった信州は、やはり喧嘩の方が<span type="ruby"><span type="rb">羨</span><span type="rp">（</span><span type="rt">うらや</span><span type="rp">）</span></span>ましかったとみえて、国人こぞって両将の幕下に組し、さかんに自分の国の麦を踏んで戦ってしまった。<lb />
+　――いや、私は、人国記のような肩の<span type="ruby"><span type="rb">凝</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>る物を書くつもりではない。<lb />
+　これから持ち出そうというのは、その国の北信濃は<span type="ruby"><span type="rb">戸狩</span><span type="rp">（</span><span type="rt">とがり</span><span type="rp">）</span></span>村、俗に、花火村ともよぶ部落の煙火師生活のなかに起った恋愛戦で、煙火師だけに、<span type="ruby"><span type="rb">恋仇</span><span type="rp">（</span><span type="rt">こいがたき</span><span type="rp">）</span></span>の首を花火の<span type="ruby"><span type="rb">筒先</span><span type="rp">（</span><span type="rt">つつさき</span><span type="rp">）</span></span>から打ちあげてしまって、同時に、女の<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>も自分の生涯も、みんな花火にしてしまったという、<span type="ruby"><span type="rb">千曲川</span><span type="rp">（</span><span type="rt">ちくまがわ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">畔</span><span type="rp">（</span><span type="rt">ほとり</span><span type="rp">）</span></span>で聞いた、威勢のいい初秋の夜ばなしなので……。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">一</span></span></span>
+<lb />
+「誰も来やしまいな。――大丈夫だろうな、お<span type="ruby"><span type="rb">芳</span><span type="rp">（</span><span type="rt">よし</span><span type="rp">）</span></span>」<lb />
+「え、大丈夫」<lb />
+「今の<span type="ruby"><span type="rb">咳</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>ばらいは」<lb />
+「延徳村の<span type="ruby"><span type="rb">繭買</span><span type="rp">（</span><span type="rt">まゆか</span><span type="rp">）</span></span>いの爺さん」<lb />
+「もう<span type="ruby"><span type="rb">去</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>ってしまったのか」<lb />
+「ええ」<lb />
+　去年の落葉が<span type="ruby"><span type="rb">堆肥</span><span type="rp">（</span><span type="rt">たいひ</span><span type="rp">）</span></span>のように腐っている山の尾根だった。自分の声のひびきに、一種の不気味さを感じるほど、そこは静かである。<lb />
+　どこかでぼくぼくと土を掘る音がしていた。<span type="ruby"><span type="rb">檜</span><span type="rp">（</span><span type="rt">ひのき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">縞</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>がすくすくと立って、春の空へ暗緑の傘をかさねている。音は、その奥の墓地の中から聞えて来るのだった。<span type="ruby"><span type="rb">鋤</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>の音にちがいない。鋤の音がやすむと、木製の鳩笛を吹くような、頼りのない変な鳥が、<span type="ruby"><span type="rb">脅</span><span type="rp">（</span><span type="rt">おびや</span><span type="rp">）</span></span>かすように、<span type="ruby"><span type="rb">男女</span><span type="rp">（</span><span type="rt">ふたり</span><span type="rp">）</span></span>の頭の上で啼いた。<lb />
+「お芳」<lb />
+「え」<lb />
+「大丈夫か」<lb />
+「誰も来やしませんてば」<lb />
+　お芳は赤い<span type="ruby"><span type="rb">帯揚</span><span type="rp">（</span><span type="rt">おびあげ</span><span type="rp">）</span></span>をしていた。郷士の娘で、小締めな体つきで、顔だちがよかった。木立の外に立って、延徳街道と穂波のほうから戸狩へはいる白い道すじを見張っていた。<lb />
+　墓地といっても、この地方の習慣では、一人一<span type="ruby"><span type="rb">基</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>主義で、ひとり死ぬと一つ墓石が立つ。だから戸数の割合にそれが多い。山の裾にも、畑の端にも、河原の崖ぷちにも、気楽に墓石が<span type="ruby"><span type="rb">団欒</span><span type="rp">（</span><span type="rt">だんらん</span><span type="rp">）</span></span>していた。<lb />
+　今、お芳の立っているうしろの墓地には、まだ雪が深かった正月ごろ、村のお千代後家が<span type="ruby"><span type="rb">埋</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>けられた生新しい記憶がある。――彼女は、半刻ほどそこに立っている間に、戸狩の若い男を幾人も<span type="ruby"><span type="rb">情人</span><span type="rp">（</span><span type="rt">いろ</span><span type="rp">）</span></span>にして肉慾に生涯して土へかえったお千代後家のことなどを、ぼんやりと考えていた。そして可愛らしい口を<span type="ruby"><span type="rb">開</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>いて<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>をした。<lb />
+　やがて、墓地の中で、若い男が腰をのばした。その足音が近づいて来たので、振りかえると、<lb />
+「おお、ひどい。もういいぜ」<lb />
+　と男は、耳の穴へはいった土をほじりながら、抱えて来た壺みたいな物を、お芳の足元へ大事そうに置いた。<lb />
+「腰が痛てえ」<lb />
+「いやな<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いがするのね」<lb />
+「気のせいだよ。<span type="ruby"><span type="rb">死人</span><span type="rp">（</span><span type="rt">しびと</span><span type="rp">）</span></span>なんてものは、きれいなものさ。生きてる奴のほうが、よっぽど、<span type="ruby"><span type="rb">穢</span><span type="rp">（</span><span type="rt">きたね</span><span type="rp">）</span></span>え」<lb />
+「馴れているんでしょう、七さんは」<lb />
+「親代々の仕事だからな。おら、ちょっと顔を洗って来よう、むこうの沢で」<lb />
+「<span type="ruby"><span type="rb">手拭</span><span type="rp">（</span><span type="rt">てぬぐい</span><span type="rp">）</span></span>は」<lb />
+「貸してくんな。へへへへ<span type="ruby"><span type="rb">口紅</span><span type="rp">（</span><span type="rt">べに</span><span type="rp">）</span></span>がついているぜ」<lb />
+　七之助は、戸狩村の煙火師だった。こんな山里に代々住んでいても、煙火師渡世の者は、みんな遊び人肌で、<span rend="sesame_dot" rendition="em">いなせ</span>で勘がよくって金ぎれいで、女に好かれた。<lb />
+　手拭をつかむと、七は、沢の下へ駈け出して、烏の<span type="ruby"><span type="rb">行水</span><span type="rp">（</span><span type="rt">ぎょうずい</span><span type="rp">）</span></span>みたいに、じゃぶじゃぶと、顔や、手や、足を洗った。<lb />
+「死人の臭いってやつは、水で洗うと、妙に生きかえって来やがる。馴れていても、やっぱりいいもんじゃねえな」<lb />
+　<span type="ruby"><span type="rb">三尺</span><span type="rp">（</span><span type="rt">さんじゃく</span><span type="rp">）</span></span>帯の腰に挟んである草履をおろして、ビタつく足を突っかけた。――そして、流れのそばを去りかけると、ふいに、こらえていた笑いを放つような声が、頭の上から彼を驚かした。<lb />
+「七之助、忘れものがあるぞ、忘れものが」<lb />
+「えっ？」<lb />
+　と、<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">とんぼ</span><span type="rp">）</span></span>のように首を廻した。<lb />
+　崖の中腹に、灌木の葉がうごいていた。いろの小白い、どこか嫌味っぽい侍の半身が、意地のわるそうな薄笑いをゆがめて、<lb />
+「<span type="ruby"><span type="rb">鋤</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>だよ、七之助。おまえが今、墓場を掘った鋤じゃないか。流れの中へ忘れてゆくと、いつまで、お千代後家の<span type="ruby"><span type="rb">死脂</span><span type="rp">（</span><span type="rt">あぶら</span><span type="rp">）</span></span>が里へ流れて行く――」<lb />
+　と、<span type="ruby"><span type="rb">葉叢</span><span type="rp">（</span><span type="rt">はむら</span><span type="rp">）</span></span>の中から沢の水を指さした。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">二</span></span></span>
+<lb />
+　土着の煙火師ばかりが三十戸もあるこの戸狩村には、冬のころから、<span type="ruby"><span type="rb">松代藩</span><span type="rp">（</span><span type="rt">まつしろはん</span><span type="rp">）</span></span>のお<span type="ruby"><span type="rb">狼火方</span><span type="rp">（</span><span type="rt">のろしかた</span><span type="rp">）</span></span>の藩士が五人ほど出張して秋<span rend="sesame_dot" rendition="em">ぐち</span>までに作り上げる大仕事を<span type="ruby"><span type="rb">督励</span><span type="rp">（</span><span type="rt">とくれい</span><span type="rp">）</span></span>していた。<lb />
+　今、七之助を皮肉った侍も、その出役組の一名である。<lb />
+　<span type="ruby"><span type="rb">蜂屋慎吾</span><span type="rp">（</span><span type="rt">はちやしんご</span><span type="rp">）</span></span>といって、藩の次席家老のせがれであるが、少し流行の洋学かぶれがして、変屈者に出来あがってしまった上に、虚弱で困るという親心から、彼の父が、わざわざ藩の狼火方同心にたのんで、この山間<span type="ruby"><span type="rb">僻地</span><span type="rp">（</span><span type="rt">へきち</span><span type="rp">）</span></span>の勤務へ、<span type="ruby"><span type="rb">懲戒</span><span type="rp">（</span><span type="rt">ちょうかい</span><span type="rp">）</span></span>という意味で、役付きを廻してよこしたのだという、厄介な男であった。<lb />
+　けれど慎吾には、この山村生活も何の意味をなさなかった。ほかの同僚を<span type="ruby"><span type="rb">頤使</span><span type="rp">（</span><span type="rt">いし</span><span type="rp">）</span></span>して、相変らず<span type="ruby"><span type="rb">空威張</span><span type="rp">（</span><span type="rt">からいばり</span><span type="rp">）</span></span>を通している、当然、村の煙火師たちからも、反感をもって見られていたが、家老のせがれというので、誰も、表面だけお坊っちゃんに扱って、虫を納めている。<lb />
+　で、慎吾は、いよいよいい気になっていた。<lb />
+　こんな<span type="ruby"><span type="rb">暢気</span><span type="rp">（</span><span type="rt">のんき</span><span type="rp">）</span></span>な出役なら、三年が五年でも続くがなあと思った。――そのうちに、他の四名と共に冬から泊っていた郷士の家の娘――お芳に恋をしていた。<lb />
+　今夜は、九の日だった。<lb />
+　月の九日、十九日、二十九日、こう三日の晩には必ず戸狩村の者一同が、郷士の<span type="ruby"><span type="rb">教来石兵助</span><span type="rp">（</span><span type="rt">きょうらいしひょうすけ</span><span type="rp">）</span></span>の家に集まって、仕事上の打合せをする規約になっている。<lb />
+「よう。御苦労さま」<lb />
+「お疲れでござんす」<lb />
+「こんばんは」<lb />
+「はい、こんばんは」<lb />
+　老人、中老、若い男、夕刻になるとぞろぞろ兵助の屋敷に寄って来た。黒い大きな家の中に、この晩だけは、百目蝋燭が二十本ぐらい<span type="ruby"><span type="rb">燈</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>る。お芳も、べつな着物をきて、美しく化粧する。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">三</span></span></span>
+<lb />
+　教来石兵助のいまの家は、当主で二十何代目というだけあって、おそろしく古い建物だった。<lb />
+　そもそも、戸狩の百姓たちへ火薬の製法を教えたのが、村上義清に仕えた兵助の祖先ということであって、それが三百年の推移のうちに、<span type="ruby"><span type="rb">雀</span><span type="rp">（</span><span type="rt">すずめ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">化</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>して<span type="ruby"><span type="rb">蛤</span><span type="rp">（</span><span type="rt">はまぐり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">類</span><span type="rp">（</span><span type="rt">たぐい</span><span type="rp">）</span></span>にもれず、あらかた農を捨てて本職の煙火師に化けてしまったというのが伝えられているこの郷土沿革なのである。<lb />
+　花火という怪美な火の魔術が、印度の仏祭から始まって、南欧に、支那に、そして鉄砲渡来と前後してわが日本へ移ってから、諸国の煙火の技術を誇りあう風がさかんになった。殊に、町人芸術の<span type="ruby"><span type="rb">勃興</span><span type="rp">（</span><span type="rt">ぼっこう</span><span type="rp">）</span></span>した徳川期の文化文政以後からその<span type="ruby"><span type="rb">瓦解</span><span type="rp">（</span><span type="rt">がかい</span><span type="rp">）</span></span>時代にはいって<span type="ruby"><span type="rb">刹那</span><span type="rp">（</span><span type="rt">せつな</span><span type="rp">）</span></span>的享楽気分が迎えられて、よけいに著しい。<lb />
+　しかし、江戸では続々火災や死傷の惨害を起したりして、一時禁令になってしまったが、その反動で、煙火熱は地方的にたかくなり、国際花火の長崎を著名なものとして、九州では<span type="ruby"><span type="rb">赤間</span><span type="rp">（</span><span type="rt">あかま</span><span type="rp">）</span></span>、三河では岡崎、尾張の<span type="ruby"><span type="rb">木賊</span><span type="rp">（</span><span type="rt">とくさ</span><span type="rp">）</span></span>、越後の三条、信州では戸狩――殊に戸狩花火は<span type="ruby"><span type="rb">松代</span><span type="rp">（</span><span type="rt">まつしろ</span><span type="rp">）</span></span>藩主の<span type="ruby"><span type="rb">真田</span><span type="rp">（</span><span type="rt">さなだ</span><span type="rp">）</span></span>侯が自慢なものであった。<lb />
+　今でこそ長野県では二尺玉も珍しくはないが、その当時では八寸玉を限度として、それ以上大きな花火は日本の空で見られなかった。――で、その八寸玉が初めて出来た時、将軍家の船遊覧をかねて真田侯が戸狩の煙火師を連れて中洲の<span type="ruby"><span type="rb">三又</span><span type="rp">（</span><span type="rt">みつまた</span><span type="rp">）</span></span>で打揚げたことがある。<lb />
+　それを見て、笑った大名がある。三州岡崎城の本多侯で、<lb />
+「てまえの国元では、あんな花火を、草花火と申して、女子供があげております」<lb />
+　といった。<lb />
+　戸狩の煙火師は<span type="ruby"><span type="rb">憤</span><span type="rp">（</span><span type="rt">いきどお</span><span type="rp">）</span></span>った。<lb />
+　しかしそれは二十年も前のことなので、こんどの問題が、何もそこに起因しているわけではなかろうが、常にふくみ合って来た三州と信州とが、いよいよ、ある動機から火蓋を切って、双方で挑戦状を発した。<lb />
+　煙火試合！<lb />
+　甲の国と乙の国との煙火師が、星夜の空中を競技場として火焔の魔術戦をやりあうという例はこのほかにも珍しくはない。<lb />
+　――その結果であった。<lb />
+　戸狩全村をあげて、彼らが、冬から必死になって製作しているのは、三河との競技に、敵を<span type="ruby"><span type="rb">驚倒</span><span type="rp">（</span><span type="rt">きょうとう</span><span type="rp">）</span></span>さすべく、寝食を忘れて作っているものだった。<lb />
+　元よりこのことは、煙火師同士の争いとして、表面は藩の知ったことでないような顔をしていたが、裏面では敵方にも、本多侯がうしろ<span type="ruby"><span type="rb">楯</span><span type="rp">（</span><span type="rt">だて</span><span type="rp">）</span></span>になっていたし、松代藩のほうでもまた、躍起になって、戸狩の者をべんたつしていた。<lb />
+　その三河信州、両国の煙火試合は、いよいよ今年の秋ときまった。場所は信州方から出張って三州長篠の原。――いわゆる煙火陣である。<lb />
+　実際それは、<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>る段になると、ほんとの<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">いくさ</span><span type="rp">）</span></span>のようで、小荷駄、押太鼓など、戦国の習慣どおり正々堂々と陣を<span type="ruby"><span type="rb">布</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>いて技術を戦わすものだった。その際、審判者は他国から長老の出場を仰ぐ。若い煙火師はすべて革<span rend="sesame_dot" rendition="em">だすき</span>、長わき差、指揮役の老人や審判者や土地の代官などは、すべて陣羽織に小具足という身ごしらえであらわれる。<lb />
+　指揮役の命に従わない煙火師は、そこでなら、斬られても仕方がないということになっていた。それ程に、厳粛なものであり、また、それほどに熱中した。<lb />
+　だいぶ余談にわたったが、そんなわけで、戸狩の連中は、<lb />
+「三河万歳め。戸狩の<span type="ruby"><span type="rb">尺玉</span><span type="rp">（</span><span type="rt">しゃくだま</span><span type="rp">）</span></span>をぶッ放されて、腰を抜かすな」<lb />
+　と、いう意気込み。<lb />
+　長崎から買い入れた西洋薬品や硝石やその他の材料は、藩の手で供給され、五名のお<span type="ruby"><span type="rb">狼火方</span><span type="rp">（</span><span type="rt">のろしかた</span><span type="rp">）</span></span>も冬から詰めきりで助力しているわけだった。<lb />
+　で――彼らは、月三回、兵助の屋敷に集合して、作戦や、研究や、用意おさおさ怠りない有様だったが、また仕事の息抜きになって、一つの慰安でもあった。<lb />
+　夕刻からぞろぞろとつながって兵助の屋敷へ来ると、彼らは、里親の所へでも来たように、勝手に風呂へはいったり、台所を手伝ったり、座敷をこしらえたりして、さて、それからお客様になって、奥の広間へ年順にずらりと<span type="ruby"><span type="rb">畏</span><span type="rp">（</span><span type="rt">かしこま</span><span type="rp">）</span></span>るのである。<lb />
+　上席には、応援役、<span type="ruby"><span type="rb">兼</span><span type="rp">（</span><span type="rt">けん</span><span type="rp">）</span></span>目付として藩から来ている五名の侍。<lb />
+　その脇の書院窓の所に、ちょこなんと、主人の兵助。<lb />
+　あとは、左右の障子とふすまに添って、村の煙火師ばかり、老若およそ七十余名もいようか、黒々と<span type="ruby"><span type="rb">居流</span><span type="rp">（</span><span type="rt">いなが</span><span type="rp">）</span></span>れたありさま、鎌倉山のごとく<span type="ruby"><span type="rb">綺羅星</span><span type="rp">（</span><span type="rt">きらぼし</span><span type="rp">）</span></span>ではないが、なかなか物々しい評定ぶりである。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">四</span></span></span>
+<lb />
+　兵助はもう六十に近い温容な山侍で、いつも<span type="ruby"><span type="rb">胴服</span><span type="rp">（</span><span type="rt">どうふく</span><span type="rp">）</span></span>の背なかを丸くして、坐禅をくむように手を重ねたきりである。<lb />
+「これで、<span type="ruby"><span type="rb">揃</span><span type="rp">（</span><span type="rt">そろ</span><span type="rp">）</span></span>うたようでございますが」<lb />
+　やがて、その兵助がいうと、<span type="ruby"><span type="rb">蜂屋慎吾</span><span type="rp">（</span><span type="rt">はちやしんご</span><span type="rp">）</span></span>が、前から頭数を読んでいて、<lb />
+「いや、まだ一人見えん」<lb />
+　と、自分の<span type="ruby"><span type="rb">明晰</span><span type="rp">（</span><span type="rt">めいせき</span><span type="rp">）</span></span>さを誇るように、<span type="ruby"><span type="rb">苦</span><span type="rp">（</span><span type="rt">にが</span><span type="rp">）</span></span>って見せた。<lb />
+　席の中程から、その遅刻の者に代って、いい訳することばがきこえた。<lb />
+「へえ、その七之助ならば、実あ、草津にいる伯母の容体が悪いっていうんで、<span type="ruby"><span type="rb">一昨日</span><span type="rp">（</span><span type="rt">おととい</span><span type="rp">）</span></span>、山越えで見舞いに行きましたが、どんなことをしても、今夜までには帰って来て、顔を出すといっておりました」<lb />
+「分るものか、みもちのよくないあの男のことだ。また<span type="ruby"><span type="rb">権堂</span><span type="rp">（</span><span type="rt">ごんどう</span><span type="rp">）</span></span>にでも<span type="ruby"><span type="rb">入</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">浸</span><span type="rp">（</span><span type="rt">びた</span><span type="rp">）</span></span>っておるだろう」<lb />
+「そんなことはございません。親も女房もないせいか、あいつの伯母思いは、誰でも知っておりますんで」<lb />
+「まあいい、怠け者には、藩としても、それだけの労しか認めないまでのことだ」<lb />
+　慎吾は、七之助のいい評判をここで引き出そうとは思わない。押し伏せるようにいっておいて、<lb />
+「――今夜見えたら、あの男には、少し拙者からいい渡しておくことがある。各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />には、どしどし用談を進ませて下さい」<lb />
+　と、例のわがままな筆法で、後の進行は、同僚の仕事に<span type="ruby"><span type="rb">転嫁</span><span type="rp">（</span><span type="rt">てんか</span><span type="rp">）</span></span>してしまった。<lb />
+「承知しました」<lb />
+　と、相役の四名は、厚ぼったい帳面を何冊もひろげ出した。――<span type="ruby"><span type="rb">硝石</span><span type="rp">（</span><span type="rt">しょうせき</span><span type="rp">）</span></span>購入帳、煙火道図式、西洋薬品記録、<span type="ruby"><span type="rb">仕上入倉簿</span><span type="rp">（</span><span type="rt">しあげにゅうそうぼ</span><span type="rp">）</span></span>、職方日誌、賃銀貸出覚え。<lb />
+　<span type="ruby"><span type="rb">銘</span><span type="rp">（</span><span type="rt">めいめい</span><span type="rp">）</span></span>々、一冊ずつ、手にわける。<lb />
+　筆とことばと、そろばんと<span type="ruby"><span type="rb">秤</span><span type="rp">（</span><span type="rt">はかり</span><span type="rp">）</span></span>の目と、門外漢にはわからない材料の授受だの、調合の研究だの、三河から帰って来た密偵の者の報告だの、煙火師対お<span type="ruby"><span type="rb">狼火方</span><span type="rp">（</span><span type="rt">のろしかた</span><span type="rp">）</span></span>の専門的な相談などが、およそ一刻あまり何ごとも忘れてガヤガヤとつづいた。――それがすむと、初めて酒が出る順序になって、話は依然として仕事のことでも、だいぶくつろいだ空気になり、時々、<span type="ruby"><span type="rb">冗戯</span><span type="rp">（</span><span type="rt">じょうだん</span><span type="rp">）</span></span>が交じる、<span type="ruby"><span type="rb">洒落</span><span type="rp">（</span><span type="rt">しゃれ</span><span type="rp">）</span></span>が出る。笑い声が爆発する。<lb />
+　頃をはかって、お芳が、すがたを見せる。<lb />
+　いつも木綿着物ときまっている彼女も、今夜は、夕顔の花ぐらいにうすく白粉を襟に<span type="ruby"><span type="rb">刷</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>いて、<span type="ruby"><span type="rb">山繭織</span><span type="rp">（</span><span type="rt">やままゆお</span><span type="rp">）</span></span>りを濃い紫に染めた<span rend="sesame_dot" rendition="em">よそゆき</span>の小袖を着て<span type="ruby"><span type="rb">下婢</span><span type="rp">（</span><span type="rt">かひ</span><span type="rp">）</span></span>をさしずしながら、一同へお酌をして廻った。<lb />
+「慎吾様、いかがでございますか」<lb />
+　一巡して、彼の前までかえって来ると、<lb />
+「拙者に？」<lb />
+　と、わざときき返す。<lb />
+「ええ」<lb />
+「この間は、妙な所に立っていたな。何をしていたのか、あんな所で」<lb />
+「…………」父の兵助の耳をおそれるように「あら、そんなこと存じませぬ」<lb />
+「知らぬことはなかろう。七之助と」<lb />
+　彼女は、あわてて<span type="ruby"><span type="rb">隣席</span><span type="rp">（</span><span type="rt">となり</span><span type="rp">）</span></span>の者の前へ逃げた。<lb />
+「黒田様、おひとつ」<lb />
+　そして、席順に、次へ<span type="ruby"><span type="rb">辷</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>って、<lb />
+「長沼様、林様、いかがでございますか」<lb />
+　うしろのほうで、慎吾がまだ何かいうのを、きこえぬ振りをして、いそいで、父の兵助の前まで来て、訴えるように、<lb />
+「お父さま、お酌を」<lb />
+　と、眼で甘えた。<lb />
+「うむ」<lb />
+　と兵助は膝に組んでいた指を解いて、むっそりと娘の酌をうけながら、<lb />
+「お芳、あとでわしの部屋までちょっと来てくれい」<lb />
+「はい」<lb />
+　彼女は、父の眼が自分の上に注がれているのを感じた。抑えようと努めた<span type="ruby"><span type="rb">動悸</span><span type="rp">（</span><span type="rt">どうき</span><span type="rp">）</span></span>がかえって銚子を持つ指先に出てカチカチと父の杯を鳴らした。<lb />
+「お、来たようだぜ」<lb />
+「七か。おう、七之助だ」<lb />
+　その時、末席の方がガヤガヤし出したので、思わず眼を向けると、今やっと顔を出したらしい七之助の姿が、<span type="ruby"><span type="rb">煙草</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>のけむりに<span type="ruby"><span type="rb">霞</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>んで見えた。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">五</span></span></span>
+<lb />
+　酒がはいってみると、煙火師渡世の者は、みんなズバ抜けた道楽者ぞろいである。飲むことも飲むが、話は面白い。膝のくずせない五人の侍は、だんだん存在が薄くなった。<lb />
+　折をはかって、父の兵助が眼で招いたので、お芳はおずおずと奥へついて行った。うす暗い書斎だった。<lb />
+　――そこへ、お坐り。<lb />
+　ここで見れば、父の眼は急にやさしい。けれど、孤独の涙と、<span type="ruby"><span type="rb">峻厳</span><span type="rp">（</span><span type="rt">しゅんげん</span><span type="rp">）</span></span>をもった優し味である。<lb />
+　兵助の声はかすれていた。<lb />
+「おまえな……」<lb />
+「はい」<lb />
+「まさか、七之助と、ひょんな仲になっておるんじゃあるまいな」<lb />
+「ええ」<lb />
+「ええじゃ分らんの」<lb />
+「人の蔭口でございますよ」<lb />
+「たしかに蔭口かな」<lb />
+「お父様の眼をしのんで、そんなことはいたしません。ただ」<lb />
+「ただ？」<lb />
+「……いろんな相談をうけるものですから」<lb />
+「どんな相談を」<lb />
+「こんどの仕事のことで、七之助さんは、藩士の方よりも、戸狩の誰よりも、いちばん死身にかかって、苦しそうでございます」<lb />
+「それや、苦しんでおるじゃろう。ふだんは<span type="ruby"><span type="rb">博奕</span><span type="rp">（</span><span type="rt">ばくち</span><span type="rp">）</span></span>と酒より能のないやつじゃ。それが仲間内から、若いのに名人だとか、上手だとか、<span type="ruby"><span type="rb">煽</span><span type="rp">（</span><span type="rt">おだ</span><span type="rp">）</span></span>てられておるだけに、こんどのような場合には、いやでも、<span type="ruby"><span type="rb">人優</span><span type="rp">（</span><span type="rt">ひとすぐ</span><span type="rp">）</span></span>れた腕をみせなければ、この村にもいたたまれまい。――で、何をもくろんでいる様子か」<lb />
+「今までにない尺二寸の大玉へ、色も、今までに誰も出したことのない、赤と紫の<span type="ruby"><span type="rb">火光</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>を仕込んで、三河の者を、驚かしてやるんだといって、それはもう、お気の毒なくらい懸命になっております」<lb />
+「赤の火色を出すって？」<lb />
+「……ですから私も、つい、力づけて上げたいと思って」<lb />
+「その先のことは、いわんでもよい。分っておる。――おまえ、七之助に頼まれて、わしの書庫から、門外不出の書物を幾冊か持ち出したな。そして、彼に貸してやったな」<lb />
+「…………」<lb />
+　お芳はそのまま畳の中へ沈み込んでしまいそうな顔をした。<lb />
+「あんな無学な男に、わしの書物を見せたとて、なんになるか」<lb />
+「…………」<lb />
+「もう貸し与えたものはしかたがない。だが、あれは大事な書物だ。教来石流の煙火の秘本だからの。<span type="ruby"><span type="rb">小布施</span><span type="rp">（</span><span type="rt">おぶせ</span><span type="rp">）</span></span>の高井<span type="ruby"><span type="rb">鴻山</span><span type="rp">（</span><span type="rt">こうざん</span><span type="rp">）</span></span>だの、松代の佐久間<span type="ruby"><span type="rb">象山</span><span type="rp">（</span><span type="rt">しょうざん</span><span type="rp">）</span></span>だの、幾たびもせがんで来たが一度も見せやせん。――それとなく、早く取り戻せよ、よいか」<lb />
+「……すみませんでした」<lb />
+「七は、短気な男だから、わしがといわぬほうがいいぞ。おまえが気がついたようにな……」<lb />
+「はい」<lb />
+「分ったか」<lb />
+「わかりました」<lb />
+「それだけのことだな、おまえと、七との間は」<lb />
+「え」<lb />
+「じゃ、ついでにいうとくが、もうあの男に近づいてはならん。悪い男ではないが、おまえのためにならん」<lb />
+「お父様、なんでもないのでございますよ！」<lb />
+　お芳は、甘える時のような、やや語尾のたかぶった声で、<lb />
+「――誰がそんなことをいうのでございましょう」<lb />
+「だから、つつしまねばいかん。おまえも、そろそろ<span type="ruby"><span type="rb">嫁</span><span type="rp">（</span><span type="rt">とつ</span><span type="rp">）</span></span>がなければならぬ身だ。実をいうと、話もだいぶ進んどる。この間、<span type="ruby"><span type="rb">沓野</span><span type="rp">（</span><span type="rt">くつの</span><span type="rp">）</span></span>村のお帰りに立ち寄られた象山先生――あの<span type="ruby"><span type="rb">松代</span><span type="rp">（</span><span type="rt">まつしろ</span><span type="rp">）</span></span>の佐久間<span type="ruby"><span type="rb">修理</span><span type="rp">（</span><span type="rt">しゅり</span><span type="rp">）</span></span>殿じゃ、そのお方が、<span type="ruby"><span type="rb">媒人</span><span type="rp">（</span><span type="rt">なこうど</span><span type="rp">）</span></span>してとらせるともいうておられる。先様は、次席家老の御子息だぞ、決しておまえにとって不幸な話じゃないと思う」<lb />
+「でも……お父様」<lb />
+「わ、わしが、どんなにおまえのことだけを、この世の気がかりにしているか」<lb />
+「…………」<lb />
+「分るか」<lb />
+「…………」<lb />
+「分ってくれい」<lb />
+「…………」<lb />
+　<span type="ruby"><span type="rb">厳</span><span type="rp">（</span><span type="rt">おごそ</span><span type="rp">）</span></span>かにも苦甘い沈黙だった。<lb />
+　兵助はぼろぼろ泣いた。お芳は、乳をむしりたいほど胸がいっぱいになっていながら、老父の愚に返った嘆きを見ると、かえって、涙が出なかった。<lb />
+　そしてただ、四、五日前に、この家へ立ち寄ってしばらく父と話し込んで行った、松代藩の三村利用係という役目をしている西洋臭い儒者を思いうかべていた。<lb />
+　その儒者は、馬みたいな長い顔をしていた。<lb />
+　<span type="ruby"><span type="rb">沓野</span><span type="rp">（</span><span type="rt">くつの</span><span type="rp">）</span></span>の百姓に<span type="ruby"><span type="rb">葡萄酒</span><span type="rp">（</span><span type="rt">ぶどうしゅ</span><span type="rp">）</span></span>を造らせてみたり、温泉場の<span type="ruby"><span type="rb">排泄物</span><span type="rp">（</span><span type="rt">はいせつぶつ</span><span type="rp">）</span></span>から、なんとかいう西洋薬をとる試験をしてみたり、また、この近郷の山に檜の苗を植えるといって、あまり百姓を加役に引っぱり出したため、佐久間騒動などという<span type="ruby"><span type="rb">一揆</span><span type="rp">（</span><span type="rt">いっき</span><span type="rp">）</span></span>をひき起したりした象山という学者は、あの人だったかなどと、彼女はそんなことを考えたりしていた。<lb />
+　すると、その時、<lb />
+「喧嘩はよせ」<lb />
+「喧嘩じゃない！」<lb />
+「無礼だ！」<lb />
+「無礼じゃない」<lb />
+　と、寄合のある座敷のほうで、怒号と物音と、何やら、すさまじい空気が、屋内を<span type="ruby"><span type="rb">震撼</span><span type="rp">（</span><span type="rt">しんかん</span><span type="rp">）</span></span>し出した。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">六</span></span></span>
+<lb />
+　兵助はすぐに出て行った。<lb />
+　お芳も、何事かと、あとについて、廊下の隅に立ちすくんだ。<lb />
+　あらかたの者は、話もすみ、酒にもたんのうして帰った後である。<lb />
+　――見ると、蜂屋慎吾と七之助が、お互いに蒼白になって、何か、口論しているところだった。<lb />
+　それが今にも、腕力沙汰になりかねない息巻きなので、残っていた少数の村の者と、四名の藩士が、双方のそばに立って、<lb />
+「まあ、およしなさい」<lb />
+「七！　やめろ」<lb />
+　と、押しわけていた。<lb />
+「<span type="ruby"><span type="rb">不埒</span><span type="rp">（</span><span type="rt">ふらち</span><span type="rp">）</span></span>なやつだ、武士に向って」<lb />
+　と、慎吾はなかなか<span type="ruby"><span type="rb">鎮</span><span type="rp">（</span><span type="rt">しず</span><span type="rp">）</span></span>まらない。<lb />
+　七之助も、一本気な<span rend="sesame_dot" rendition="em">たち</span>で、<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>く気色もなく、<lb />
+「仕事の上には、武士も百姓もあったもんか。いい仕事さえすれやいいんだ！」<lb />
+　と、<span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>きつけるようにいった。<lb />
+「生意気を申すな、生意気を。学問は進んでおるぞ、近ごろの砲術の進歩をみろ、蒸汽船の発達をみろ。――それを花火だから、古い製法でいいということはない。大砲にせよ、花火にせよ、同じ火術だ」<lb />
+「よしてくれ、そんな講釈は、戸狩の者あ三ツ児でも知っていらあ」<lb />
+「知っているなら、なぜ藩から渡してある硝石や薬品を使わんのだ。わざわざ長崎から高価な代金をもって取り寄せた材料をつかわずに、むさい墓場などを掘り返して」<lb />
+「な、なにをいってやがんでい」<lb />
+「墓場をあばいて、死人の腐肉から、何をとるつもりなのだ。あきれた愚かな者だ！　貴様は頭が古い！」<lb />
+「あたりめえだ。おらあ洋学者じゃねえ、煙火師だ」<lb />
+「三河へ探りにいった者にきいてみい。煙火師でも三州の者は、藩で指導するまでもなく、進んで薬品の調合も洋法を用い、硝石などはみなイギリスものを買い込んでいるというたぞ」<lb />
+「向うは向う。こっちはこっちだ。なにも真似をするこたあねえ。第一おらあ<span type="ruby"><span type="rb">毛唐</span><span type="rp">（</span><span type="rt">けとう</span><span type="rp">）</span></span>のものは<span type="ruby"><span type="rb">嫌</span><span type="rp">（</span><span type="rt">きれ</span><span type="rp">）</span></span>えだ。おれの仕事は日本流で行くんだ」<lb />
+「こいつ、あきれ返った無智なやつだ。じゃどうしても、藩の指導にも従わず、また仕事も洋法によらんというのだな」<lb />
+「ほかの者がやるだろう。あっしゃ御免だ」<lb />
+「松代藩には、西洋火術の大家、佐久間先生がおられるのだぞ」<lb />
+「戸狩村にゃ、七がいるぜ」<lb />
+「な、なまいきな広言を！　こんな山村に伝わっている法は、もう時勢遅れだわえ」<lb />
+「じゃ、きこう」<lb />
+「何だ？」<lb />
+「洋法でやれや、赤でも出せるだろうか」<lb />
+「火色のことか」<lb />
+「そうよ！」<lb />
+「ば、ばかめ。気が狂っているな貴様は。どこの国の煙火に赤色があるか！　うすい<span type="ruby"><span type="rb">樺</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>色は出る。だが、<span type="ruby"><span type="rb">真紅</span><span type="rp">（</span><span type="rt">しんく</span><span type="rp">）</span></span>は出せない！　それはあたりまえのことだ」<lb />
+「ところが、おれの腕からは赤が出せる。しかも、血のように真っ赤なんだぜ！　紫も出るんだ！　ふしぎじゃねえか、洋学なんて、甘えもんさ」<lb />
+　と、七は優越を信じるようにセセラ笑った。<lb />
+　ここで説明せねば分らぬが、七が<span rend="sesame_dot" rendition="em">たんか</span>を<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>いたように、昔の花火には、赤はなかった。うすい樺色に似た光は出たが、現今のような真っ赤な光彩は夢にも見られなかった。日本の花火に、鮮麗な赤色光が一般に見られ出したのは、明治八年に洋行して<span type="ruby"><span type="rb">大火傷</span><span type="rp">（</span><span type="rt">おおやけど</span><span type="rp">）</span></span>を負って帰朝した両国の<span type="ruby"><span type="rb">鍵屋</span><span type="rp">（</span><span type="rt">かぎや</span><span type="rp">）</span></span>弥兵衛が<span type="ruby"><span type="rb">齎</span><span type="rp">（</span><span type="rt">もたら</span><span type="rp">）</span></span>した研究の後である。――それまではなかった。七の放言が、狂人のたわ言と聞かれても、そのころでは、無理がなかった。<lb />
+　慎吾は、睨みつけて――<lb />
+「じゃ貴様は、きっと赤が出せるというのだな」<lb />
+　と、つよく念を押した。<lb />
+「おお、おらあ出して見せる。だから、気の毒だがおれの仕事にゃ、一切かまわねえでくれ」<lb />
+　兵助老人は、あまり激しいので、手を出しかねていたが、とうとう横から口を出した。<lb />
+「これ、七！　何というこった。次席家老の御子息に対して、その口はなんだ！」<lb />
+「仕事のことです！　へい、仕事の上なら、あっしゃ、誰にだって、どんなことだって、いわずにゃおきません」<lb />
+「仕事に熱いのはよいが、礼儀も、理非も滅茶滅茶になっては困る。――慎吾殿、勘弁してやって下さい。悪気のない奴じゃが、こういう持前なので」<lb />
+　老人のことばには、二人ともやわらいだ。とすぐ、七の眼がチラとお芳を見つけた。――その眼を、慎吾も感じて、振りかえったと思うと、彼は、四名の同僚に手や腰をすくわれながら立ち上がって、<lb />
+「無学のやつは度し難いものだ。しかし、このままでは、藩の御威光にもかかわる。――いずれ貴様の仕事場へ参って、今夜の<span type="ruby"><span type="rb">鳧</span><span type="rp">（</span><span type="rt">けり</span><span type="rp">）</span></span>をつけるから左様心得ろ！」<lb />
+「お。仕事の意地なら、果し合いでもしてやるぜ」<lb />
+　<span type="ruby"><span type="rb">捨</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>て<span type="ruby"><span type="rb">科白</span><span type="rp">（</span><span type="rt">ぜりふ</span><span type="rp">）</span></span>を投げ返すと、七は、さっさと自分の家へ帰ってしまった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">七</span></span></span>
+<lb />
+「お芳どの、どこへ」<lb />
+　すこし汗ばむような陽気だった。<span type="ruby"><span type="rb">杏</span><span type="rp">（</span><span type="rt">あんず</span><span type="rp">）</span></span>の花の香が<span type="ruby"><span type="rb">熟</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>れている。<lb />
+　お芳は、足をとめた。森の中からこっちを向いて歩いてくる慎吾の笑い顔を見つけた。そして、彼の顔や肩へ、木の間からチラチラと<span type="ruby"><span type="rb">射</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>すいっぱいな日光の<span type="ruby"><span type="rb">靨</span><span type="rp">（</span><span type="rt">えくぼ</span><span type="rp">）</span></span>にうっとりとした。<lb />
+「七の家へ行くのだろう」<lb />
+「ま」<lb />
+「驚いたか。余りよく知っているので」<lb />
+　――帰ろうかしら。<lb />
+　彼女は困った顔をした。<lb />
+「何もかも兵助殿から聞いている。書物を取り戻しに行くのであろう」<lb />
+「ええ」<lb />
+「ああいう乱暴者のことだから、またどんな<span type="ruby"><span type="rb">無態</span><span type="rp">（</span><span type="rt">むたい</span><span type="rp">）</span></span>をいわぬとも限らぬ。拙者がついて行ってやろう」<lb />
+「そんな心配はございません」<lb />
+「分るものか。第一、そなたがあんな書物を持ち出したのがよろしくない。この間の広言も、墓あばきも、みな種はその書物から始まったのだろう」<lb />
+　いよいよ困った顔をして、お芳は、自分の足を見ながら歩いていた。<lb />
+「墓場の<span type="ruby"><span type="rb">屍肉</span><span type="rp">（</span><span type="rt">しにく</span><span type="rp">）</span></span>から、<span type="ruby"><span type="rb">燐</span><span type="rp">（</span><span type="rt">りん</span><span type="rp">）</span></span>ぐらいのものはとれるか知らないか、<span type="ruby"><span type="rb">赤光</span><span type="rp">（</span><span type="rt">しゃっこう</span><span type="rp">）</span></span>を出す薬液などがとれるものか。ばかばかしい」<lb />
+「ほんとに、駄目でございましょうか」<lb />
+「そなたも本気になって、その腐い物を掘る張り番をしていましたな」<lb />
+「でも、父の秘本に、赤い光を出す<span type="ruby"><span type="rb">交</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>ぜ<span type="ruby"><span type="rb">薬</span><span type="rp">（</span><span type="rt">ぐすり</span><span type="rp">）</span></span>のことが書いてあって、それには、墓場にあるある物から一つの薬をとるのだといっていましたが」<lb />
+「そんなことは、アイヌ族か<span type="ruby"><span type="rb">熊襲</span><span type="rp">（</span><span type="rt">くまそ</span><span type="rp">）</span></span>でも考えたことだろう。今日では、火術も進んでいます。高島<span type="ruby"><span type="rb">秋帆</span><span type="rp">（</span><span type="rt">しゅうはん</span><span type="rp">）</span></span>、江川太郎左衛門、また同藩の佐久間先生、みな洋学に<span type="ruby"><span type="rb">倣</span><span type="rp">（</span><span type="rt">なら</span><span type="rp">）</span></span>っておる。たとえば、吾々が戦時につかう<span type="ruby"><span type="rb">狼火</span><span type="rp">（</span><span type="rt">のろし</span><span type="rp">）</span></span>というものでも、無智な戦国時代には、狼の<span type="ruby"><span type="rb">糞</span><span type="rp">（</span><span type="rt">ふん</span><span type="rp">）</span></span>を干し蓄えておいて燃したものです。<span type="ruby"><span type="rb">狼糞</span><span type="rp">（</span><span type="rt">ろうふん</span><span type="rp">）</span></span>の煙はふしぎに高く真っ直ぐに揚がるから。――で、狼の火と書いて、のろしと読ませるのもそのわけですが、今では<span rend="sesame_dot" rendition="em">あて</span>字にもなりません。長崎からはいる<span type="ruby"><span type="rb">蘭薬</span><span type="rp">（</span><span type="rt">らんやく</span><span type="rp">）</span></span>を二、三種あわせると無音<span type="ruby"><span type="rb">狼火</span><span type="rp">（</span><span type="rt">のろし</span><span type="rp">）</span></span>でも音のするのでも自由に簡単に造られる。また、大体がです、美感に<span type="ruby"><span type="rb">衝</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>たれようとして人の観賞する花火を造るのに、なんのために、なんに飢えて、墓地の醜物を<span type="ruby"><span type="rb">漁</span><span type="rp">（</span><span type="rt">あさ</span><span type="rp">）</span></span>る必要があるだろうか」<lb />
+「そうおっしゃれば、まったくでございますね」<lb />
+　お芳は、今まで信じていた七の腕が、この間の晩の口論を聞いてから、慎吾の知識の尺度に比較されて、急にはかないものに思えて来た。<lb />
+「時勢がちがってくると、大きな声ではいわれぬが、幕府でさえ、ぐらついて来ているじゃありませんか。思想、学問、工芸、なんでも古い<span type="ruby"><span type="rb">頭脳</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>じゃ追いつかない。七之助みたいなやつは、いくら腕がよくても、洋学が進めば、無智な土民というだけで、あんな仕事は五年も先には役に立たなくなる」<lb />
+「そうでしょうか」<lb />
+「そうですとも。だが、そこへ行くと、兵助殿は偉い。さすがに<span type="ruby"><span type="rb">頑迷</span><span type="rp">（</span><span type="rt">がんめい</span><span type="rp">）</span></span>でない。世の中の行くところを知っている」<lb />
+「いえ、あれで、そうでもないんです」<lb />
+「なに、考えていますよ。その証拠には、拙者の説などもよくうけいれるし、またそなたの良人となる人物などについても……」と、彼女の横顔をわざと見つめた。<lb />
+「あ……もうそこが七之助さんの家ですが」<lb />
+「かまわないからおはいんなさい」<lb />
+「でも」<lb />
+「拙者は外に隠れていますよ。万一きゃつが返さぬの何のと苦情をいったら承知しはせん」<lb />
+「そんな憂いはありませぬが、あの、ほかに少し話がありますから」<lb />
+「じゃ、拙者が聞いていては、困ることと見えるな」<lb />
+「追い返すわけじゃございませんけれど」<lb />
+「帰ってくれというのだろう。よろしい、遠慮して、拙者は元の道へ引っ返すこととしよう。その代りに、約束して下さらぬか」<lb />
+「何をですか」<lb />
+「実はこの慎吾も、そなたに一度話したいことがある。だがいつも同僚どものいる屋敷では都合が悪いから、旧お陣屋跡にある家で一度会ってくれませんか」<lb />
+「あそこは昔代官のお別荘で、今では、誰も住んでおりません」<lb />
+「人が住んでいちゃ困るんだ。<span type="ruby"><span type="rb">空屋敷</span><span type="rp">（</span><span type="rt">あきやしき</span><span type="rp">）</span></span>だから落着けるので」<lb />
+「そんなことをすれば、村の人が、何といって、取沙汰するか知れませぬ」<lb />
+「分ってもかまわんでしょう。いずれ分ることになるそなたと拙者の間だもの」<lb />
+　肩に手をのせて、耳へ触れるように<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>いた慎吾は、お芳が無反撥で<span type="ruby"><span type="rb">俯向</span><span type="rp">（</span><span type="rt">うつむ</span><span type="rp">）</span></span>いているのを、征服的に覗いて、<lb />
+「誓ったぞ。――じゃ今日は、無理をいわずに引っ返すとするからな」<lb />
+　と、お芳をそこに残して、すたすたと元の道へ帰って行ったが、少し先の雑木林をぐるりと廻ると畑の地境土手の蔭を歩いて、また元の七の家の横手へ戻って来た。<lb />
+　お芳の姿は、もう外には見えない。<lb />
+　<span type="ruby"><span type="rb">代赭色</span><span type="rp">（</span><span type="rt">たいしゃいろ</span><span type="rp">）</span></span>の壁土と皮つきの丸太とで屋根低く建てられてあるそこの家は、住居というよりは仕事小屋であった。黄色い<span type="ruby"><span type="rb">鼬草</span><span type="rp">（</span><span type="rt">いたちぐさ</span><span type="rp">）</span></span>の花が咲きみだれている垣根をふみ<span type="ruby"><span type="rb">跨</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>ぐと、彼の足元から鶏の親と<span type="ruby"><span type="rb">雛</span><span type="rp">（</span><span type="rt">ひな</span><span type="rp">）</span></span>が両方へわかれて駈けた。<lb />
+「？　……」<lb />
+　そこへ、慎吾はしゃがみ込んだのである。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">八</span></span></span>
+<lb />
+「仕事にかかったら、このごろは、誰が来ても小屋にゃ入れねえんだ」<lb />
+　七之助はうしろ向きになったまま、火薬にあわせる<span rend="sesame_dot" rendition="em">ほお</span>の<span type="ruby"><span type="rb">木炭</span><span type="rp">（</span><span type="rt">きずみ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">砥</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>でおろしていた。<lb />
+「くさいこと、ここへ入ると」<lb />
+「あたりまえさ、嫌なら、帰ってくんな」<lb />
+「まー」<lb />
+　と、睨んだが、坐り場所もないので、お芳は立っていた。<lb />
+　仕事にかかると夢中になる七之助は、彼女を振り向いても見なかった。そばには、<span type="ruby"><span type="rb">正覚坊</span><span type="rp">（</span><span type="rt">しょうがくぼう</span><span type="rp">）</span></span>の卵みたいな、三寸玉から五寸玉ぐらいまでの花火の<span type="ruby"><span type="rb">外殻</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>が、まだ<span type="ruby"><span type="rb">雁皮貼</span><span type="rp">（</span><span type="rt">がんぴば</span><span type="rp">）</span></span>りの<span type="ruby"><span type="rb">生乾</span><span type="rp">（</span><span type="rt">なまび</span><span type="rp">）</span></span>になって幾つも蔭干しになっているし、<span type="ruby"><span type="rb">膠</span><span type="rp">（</span><span type="rt">にかわ</span><span type="rp">）</span></span>を溶いた<span type="ruby"><span type="rb">摺鉢</span><span type="rp">（</span><span type="rt">すりばち</span><span type="rp">）</span></span>だの、<span type="ruby"><span type="rb">得体</span><span type="rp">（</span><span type="rt">えたい</span><span type="rp">）</span></span>の知れない液体を入れた壺だの、<span type="ruby"><span type="rb">藁灰</span><span type="rp">（</span><span type="rt">わらばい</span><span type="rp">）</span></span>を入れた桶だの、そのほか<span type="ruby"><span type="rb">秤</span><span type="rp">（</span><span type="rt">はかり</span><span type="rp">）</span></span>とか、刃物とか、<span type="ruby"><span type="rb">硫黄</span><span type="rp">（</span><span type="rt">いおう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">塊片</span><span type="rp">（</span><span type="rt">かけら</span><span type="rp">）</span></span>とか、なにしろ眼にあまるほど散らかっている。<lb />
+　いつもは、そんなにも感じなかったが、慎吾の話を聞いてから、彼女の眼にはそれらの物が、みんな浅ましい無智の<span type="ruby"><span type="rb">蒐集</span><span type="rp">（</span><span type="rt">しゅうしゅう</span><span type="rp">）</span></span>に見える。<lb />
+　小屋の隅にはまた、<span type="ruby"><span type="rb">蓆</span><span type="rp">（</span><span type="rt">むしろ</span><span type="rp">）</span></span>をしいて、<span type="ruby"><span type="rb">穢</span><span type="rp">（</span><span type="rt">きたな</span><span type="rp">）</span></span>い土が盛り上げてあった。その土には、茶褐色の羽虫だの白い微生虫だの、ぞろぞろとうごめいていた。無智の虫！　彼女は眉をひそめた。<lb />
+「どうするの、こんなに、家の中に<span type="ruby"><span type="rb">穢</span><span type="rp">（</span><span type="rt">きたな</span><span type="rp">）</span></span>い<span type="ruby"><span type="rb">溝土</span><span type="rp">（</span><span type="rt">どぶつち</span><span type="rp">）</span></span>を運びこんで」<lb />
+「<span type="ruby"><span type="rb">硝石</span><span type="rp">（</span><span type="rt">しょうせき</span><span type="rp">）</span></span>をとるのよ」<lb />
+「土から火薬を」<lb />
+「ふしぎなことはねえや、昔やみんな、そんなものから弾薬をとって<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">いくさ</span><span type="rp">）</span></span>をやったんだ」<lb />
+「でも、硝石ならば、何もそんな手数をかけないでも、売っているし、仲間の物を貰ってもいいじゃないの」<lb />
+「うんにゃ」<lb />
+　と、七は、<span type="ruby"><span type="rb">頑固</span><span type="rp">（</span><span type="rt">がんこ</span><span type="rp">）</span></span>に首を振って、<lb />
+「こんどの仕事にゃ、何もかも、一切長崎仕込みの<span rend="sesame_dot" rendition="em">たね</span>は使わねえつもりなんだ。意地だもの！」<lb />
+「強情ッ張りだこと」<lb />
+「そうよ、煙火師なんてものは、<span type="ruby"><span type="rb">煙草</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>の火玉でも一つ転がり方が悪ければ、骨も肉もどこへ行っちまうか分らねえ渡世だ。寝る目も寝ねえで、半年も一年も、頭を<span type="ruby"><span type="rb">病</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>んでこしらえた品物にしろ、どウンと一つ音がして、あっと思や、消えっちまう仕事をしているんじゃねえか。意地でもなけれや、出来るもんか！」<lb />
+　戸狩に生れているお芳である。その気もちはよく分っていた。<lb />
+　七との仲も、お互いに、ぞんざい口がふつうになるほど深かった。恋も生き方も、花火のように<span type="ruby"><span type="rb">刹那</span><span type="rp">（</span><span type="rt">せつな</span><span type="rp">）</span></span>刹那で行く男の気もちが、お芳を強くつかんで来た。<span type="ruby"><span type="rb">尠</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>なくもきょうまでは、この小屋の異臭や汚さが胸をむかつかせたことのないまでに――。<lb />
+　元から刹那主義な恋だったから、当然行き詰りが来たのかも知れない。だが、彼女はそういう理由をつかむ気もなく、ただぼんやりと新しい慎吾のすがたを、知識を、地位を、描いていた。<lb />
+「ところで、お芳」<lb />
+「え」<lb />
+　ハッとして――「何ですか」<lb />
+「何しに来たんだい、今日は」<lb />
+「あ、忘れていた。あの……いつか持って来て貸して上げたお父様の<span type="ruby"><span type="rb">書物</span><span type="rp">（</span><span type="rt">ほん</span><span type="rp">）</span></span>を、いちど戻して貰わないと、私が困ることがあるんですよ」<lb />
+「どうして」<lb />
+「<span type="ruby"><span type="rb">松代</span><span type="rp">（</span><span type="rt">まつしろ</span><span type="rp">）</span></span>の佐久間先生へ、どうしても、貸さなければならないといって、お父様が出しておけと私にいうのでね」<lb />
+「嘘だろう。ははあ分った。おめえはあの次席家老のせがれに突っつかれて、<span type="ruby"><span type="rb">書物</span><span type="rp">（</span><span type="rt">あいつ</span><span type="rp">）</span></span>を取り上げれや、おれがこんどの仕事に腰をつくだろうと、相談の上で、取りに来たんだな」<lb />
+「ま、<span type="ruby"><span type="rb">邪推</span><span type="rp">（</span><span type="rt">じゃすい</span><span type="rp">）</span></span>ぶかい」<lb />
+「そうに違えねえ。おらあ何でも知っているんだ。ヘン、こう見えても七之助は地獄耳だよ」<lb />
+「おまえは、きょうはどうかしているんでしょう。また機嫌のよい時に話しますから、<span type="ruby"><span type="rb">書物</span><span type="rp">（</span><span type="rt">ほん</span><span type="rp">）</span></span>だけ戻して貰いますよ」<lb />
+　雑多な薬液の<span type="ruby"><span type="rb">瓶</span><span type="rp">（</span><span type="rt">びん</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">載</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>っている棚の隅に、見覚えのある父の古書が重ねてあるので、取って帰ろうとすると、<lb />
+「待てッ」<lb />
+　と七は、いきなり立って、<lb />
+「うぬ、心変りをしやがったな」<lb />
+　足を上げるがはやいか、お芳の細腰を<span type="ruby"><span type="rb">狙</span><span type="rp">（</span><span type="rt">ねら</span><span type="rp">）</span></span>って、土間の下へ蹴落した。<lb />
+　息を引きとるような鶏の声がして、けたたましい<span type="ruby"><span type="rb">羽搏</span><span type="rp">（</span><span type="rt">はばた</span><span type="rp">）</span></span>きが裏口を<span type="ruby"><span type="rb">掠</span><span type="rp">（</span><span type="rt">かす</span><span type="rp">）</span></span>めたと思うと、そこから、口を結んだ慎吾の血相が、おそろしい勢いで屋内へ飛び込んで来た。<lb />
+「あっ」<lb />
+　七は、お芳の上へ重なって倒れた。<span type="ruby"><span type="rb">起</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>とうとすると、またすぐに蹴とばされた。四度ほど<span type="ruby"><span type="rb">鞠</span><span type="rp">（</span><span type="rt">まり</span><span type="rp">）</span></span>のように<span type="ruby"><span type="rb">蹴転</span><span type="rp">（</span><span type="rt">けころ</span><span type="rp">）</span></span>がされて、太陽の直射を浴びると同時に、彼は、草ぼこりと一緒に、猛然と大地に両足を踏ンばった。<lb />
+「慎吾だな、てめえは」<lb />
+「慎吾だ」<lb />
+「なんでこのおれを蹴った」<lb />
+「なんで、お芳どのを蹴った」<lb />
+　蒼白にひっつれた顔と、迫力にふるえる<span type="ruby"><span type="rb">拳</span><span type="rp">（</span><span type="rt">こぶし</span><span type="rp">）</span></span>が、闘鶏のように<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>め<span type="ruby"><span type="rb">寄</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>って、陰惨な呼吸を数え合った。<lb />
+「蹴ろうと撲ろうと、よけいなおせっかいだ。おれの女をおれが蹴るにふしぎはねえ」<lb />
+「おれの女？」<lb />
+「うム、立派にいおう、お芳はおれの女だ」<lb />
+　七は<span type="ruby"><span type="rb">憚</span><span type="rp">（</span><span type="rt">はばか</span><span type="rp">）</span></span>らなかった。<lb />
+　眉をビリビリさせていた慎吾は、相手が敢然とさけんだ事実に、ほとんど血の気を失いかけながら、<lb />
+「これやおかしい、兵助殿が戸狩の七に娘をやったという話は聞いたことがない」<lb />
+「何が何でも、お芳は、おれの女にちげえねえんだ」<lb />
+「ばかを申せ。お芳どのは、父親の許しもあり、また、本人もかたく拙者と誓っておるのだ」<lb />
+「ふウむ、それで読めた。何かにつけて、てめえがおれの仕事に茶々を入れるなあ、そんな恋の怨みだったのか。可哀そうな程、ケチな野郎だ」<lb />
+「だまれ、お上の役目に私怨をふくむか。――おお、いつぞや貴様は、仕事の上のことならば、果し合いもいとわんといったな」<lb />
+「いったがどうした」<lb />
+「藩の目付として参っているこのほうのいい条に従わぬ以上は、お上に対しても、役目の身がすまん。といって、貴様も、アアまで我を突っ張った手前、まさか今さら後悔したともいえまい。望みどおり果し合って、解決してやるから得物を持て」<lb />
+　と、人を<span type="ruby"><span type="rb">罵</span><span type="rp">（</span><span type="rt">ののし</span><span type="rp">）</span></span>る快味が、実はそこまでの腹はない慎吾に、思わず<span type="ruby"><span type="rb">毅然</span><span type="rp">（</span><span type="rt">きぜん</span><span type="rp">）</span></span>といい放させてしまった。<lb />
+「よし、待っていろ」<lb />
+　七には、否やがない。<lb />
+　脇差をとるために、彼は、からだを<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>ませて、<span type="ruby"><span type="rb">精悍</span><span type="rp">（</span><span type="rt">せいかん</span><span type="rp">）</span></span>に家の中へ飛びこんだ。<lb />
+　その間に、慎吾は、下げ緒を解いて袖をからげた。うろたえているお芳へ、<span type="ruby"><span type="rb">頤</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>を横に振って、幾たびも刀の<span type="ruby"><span type="rb">柄糸</span><span type="rp">（</span><span type="rt">つかいと</span><span type="rp">）</span></span>をしめしたが、だんだん胸の鼓動を感じていた。<lb />
+　だいぶ間があった。<lb />
+　彼は、二つ三つ、腕の空振りを試みた。なお余裕がありそうなので、五本の指を一本一本節を折って待ち構えた。それでもなかなか見えないので、土俵の砂をふむように足馴らしをしはじめた。<lb />
+　しかし、七はまだ出て来ない。支度にしては長すぎるし、小屋の中はいやに静かだ。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">九</span></span></span>
+<lb />
+「どうした。七！」<lb />
+　慎吾は、呶鳴ってみたが、返辞がないので、さては逃げたな、と土間の中へ駈けこんで見た。<lb />
+　と！　案外である。<lb />
+　相手は屋内に落着きこんでいた。慎吾はかえってギクッとしながら、覗くように様子を<span type="ruby"><span type="rb">窺</span><span type="rp">（</span><span type="rt">うかが</span><span type="rp">）</span></span>うと、彼は、さっきおろした<span rend="sesame_dot" rendition="em">ほお</span>の木炭へ<span type="ruby"><span type="rb">硫黄</span><span type="rp">（</span><span type="rt">いおう</span><span type="rp">）</span></span>と青い細末をあわせて、それを<span type="ruby"><span type="rb">乳鉢</span><span type="rp">（</span><span type="rt">にゅうばち</span><span type="rp">）</span></span>でゴリゴリ<span type="ruby"><span type="rb">磨</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>っていた。<lb />
+　慎吾は、上がり<span type="ruby"><span type="rb">框</span><span type="rp">（</span><span type="rt">かまち</span><span type="rp">）</span></span>へ片足をかけて、<lb />
+「七！　ひるんだな」<lb />
+「ばかをいやがれ」<lb />
+　と、七は、磨りつぶした粉を、百<span type="ruby"><span type="rb">匁秤</span><span type="rp">（</span><span type="rt">めばかり</span><span type="rp">）</span></span>にかけて眼を寄せながら、<lb />
+「笑わせるな、誰がひるむ」<lb />
+「出ろッ、なぜ外へ出て来ないか」<lb />
+「おらあ止めだ」<lb />
+「あやまったか、たわけ者め！　恐れ入ったといえ」<lb />
+「ふ、ふ、<span type="ruby"><span type="rb">冗戯</span><span type="rp">（</span><span type="rt">じょうだん</span><span type="rp">）</span></span>をいいっこなしさ」<lb />
+「うぬ、まだ広言を」<lb />
+「何が広言だ、勝手な歯ぎしりを鳴らしていやがると、ここから火薬玉をたたきつけるぞ」<lb />
+　慎吾は思わず<span type="ruby"><span type="rb">框</span><span type="rp">（</span><span type="rt">かまち</span><span type="rp">）</span></span>の片足をひっ込めて――<lb />
+「では得物を取って、尋常に<span type="ruby"><span type="rb">戸外</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>へ出ろ。果し合いというのは、貴様から望んだことだぞ」<lb />
+「止めたっていうことよ、くどいな。おらあ、考えてみれや、煙火師だ。斬っても、斬られても、刀でやり合うなあ面白くねえ」<lb />
+「ば、ばかめッ、刀で果し合いをせずに何でする！」<lb />
+「本職で行こうじゃねえか、本職でよ。――おめえも次席家老のせがれだっていうが、役名は火術自慢の松代藩でお<span type="ruby"><span type="rb">狼火</span><span type="rp">（</span><span type="rt">のろし</span><span type="rp">）</span></span>方っていうんだろう。おれも火いじり商売だ。同じ果し合いをやるなら花火でやろう」<lb />
+「そんな勝負は武士の<span type="ruby"><span type="rb">慣</span><span type="rp">（</span><span type="rt">なら</span><span type="rp">）</span></span>いにない。拙者は武士だ、刀にかけて解決する」<lb />
+「おれは職人だ。腕で来い。やい、てめえは常に何といっている。ふた口めにゃ洋学をふり廻しやがって、おれたちのことを<span type="ruby"><span type="rb">頭脳</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>が古いの、無智だの、時勢遅れだのとほざくじゃねえか。刀と刀でチャンチャンと叩き合うのもあんまり新しいともいえねえぜ。ひとつ煙火師と侍と、どっちの<span type="ruby"><span type="rb">頭脳</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>がいいか、<span type="ruby"><span type="rb">腕力</span><span type="rp">（</span><span type="rt">うで</span><span type="rp">）</span></span>でなく<span type="ruby"><span type="rb">技術</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>で勝負をしようっていうんだ。――それともてめえのは口先学問で、実際になっちゃあ能なしだというならば、相手にとって不足だから土間に手をついて謝ってしまえ、お<span type="ruby"><span type="rb">螻蛄</span><span type="rp">（</span><span type="rt">けら</span><span type="rp">）</span></span>だと思って勘弁してやるから」<lb />
+　いつの間にか、土間の外には、戸狩の若者と四名の藩士たちが、がやがやと別になって揉み合っていた。中へはいって慎吾の助力をしようと息巻く侍のほうを、村の若者たちが手をひろげて、断じて<span type="ruby"><span type="rb">拒</span><span type="rp">（</span><span type="rt">こば</span><span type="rp">）</span></span>んでいるのだった。<lb />
+　慎吾はのっぴきならなくなった。戸狩の者や同僚どもの手前――またお芳のてまえにも。<lb />
+「よし！　どういう勝負でもしてやろう。してその約束は」<lb />
+「みんなに決めて貰おうじゃねえか」<lb />
+「ウム、立会い勝負か」<lb />
+「そうだ。おい、一同、はいってくれ。お芳も逃がさねえように連れて来てくれ」<lb />
+　外で揉み合っていた連中は一時に小屋の中へ<span type="ruby"><span type="rb">雪崩</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>れこんだ。お芳も逃げるに逃げられないで<span type="ruby"><span type="rb">無慙</span><span type="rp">（</span><span type="rt">むざん</span><span type="rp">）</span></span>な<span type="ruby"><span type="rb">羞恥</span><span type="rp">（</span><span type="rt">はじ</span><span type="rp">）</span></span>を大勢のうしろに隠していた。<lb />
+　しかし、村の習性か、危険物をあつかう職業的反映か、きわめて男女間の風紀が<span type="ruby"><span type="rb">放縦</span><span type="rp">（</span><span type="rt">ほうしょう</span><span type="rp">）</span></span>で、性生活の自由なこの村の者は、眼のまえにひき起された三角葛藤をながめても、そう驚異とも感じない様子であった。<lb />
+　尤も、このことは、前から口には出さないが、皆うすうす知っていたので、いずれ一度はひと騒ぎを<span type="ruby"><span type="rb">遁</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>がれまいという予期もあったに違いない。<lb />
+　ただ気の毒なのは兵助老人で、お芳の性的行状をまだ少しも知らずにいる。その小締めな体つきをながめて、いつまでもわが<span type="ruby"><span type="rb">娘</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>は子供だと考えていた。ところが事実は、彼女には七之助の前にも、七之助さえ知らない肉の知己が四、五名もあったのである。<lb />
+　けれどそれを<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>いて兵助に知らせようとするほど無慙な者もいなかった。お芳も、初めは消え入りたそうであったが、男と男が、<span type="ruby"><span type="rb">形相</span><span type="rp">（</span><span type="rt">ぎょうそう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">硬</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>ばらして、またそれを戸狩の者や、四人の藩士が息ぐるしく取り囲んで、いよいよ、果し合いの<span type="ruby"><span type="rb">凝議</span><span type="rp">（</span><span type="rt">ぎょうぎ</span><span type="rp">）</span></span>をしはじめた時分になると、真っ蒼な顔を上げて、自分の運命についてもその人々の話に、無関心ではいられなくなって来た。<lb />
+　で、果し合いの約束はほぼ決定した。<lb />
+　後日になって異議のないように、立会人が箇条書にして双方へ手渡した。そのうち重点を拾って<span type="ruby"><span type="rb">誌</span><span type="rp">（</span><span type="rt">しる</span><span type="rp">）</span></span>すと次のような事々である。<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+まず、各<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />、十分自信のある花火をこれから百日の間に製作すること。<lb />
+製作材料ならびに薬品等の選択は各自の自由。また手助けとして二名までの下職は使ってもさしつかえない。<lb />
+寸法は手頃として八寸玉。<lb />
+検証はここにいる一同。<lb />
+打揚げ勝負の場合は、筒ごしらえ、口火落し、すべて当人以外の助太刀はゆるさない。<lb />
+場所は善光寺より四里、川中島から東南へのぼった<span type="ruby"><span type="rb">千曲川</span><span type="rp">（</span><span type="rt">ちくまがわ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">河畔</span><span type="rp">（</span><span type="rt">かはん</span><span type="rp">）</span></span>。<lb />
+日はおよそ七月上旬。三州<span type="ruby"><span type="rb">長篠</span><span type="rp">（</span><span type="rt">ながしの</span><span type="rp">）</span></span>の煙火陣へ押出す前に決行する。<lb />
+</span>
+　約束はざっと以上のような条件であるが、さて、勝ったほうはどうするか？　負けたほうはどうされるか？　刀と刀の果し合いでない以上、<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>には別条がないわけであるから、その結果にも当然約束を附しておかなければならない。<lb />
+　しかしその場合の要求点は、二人とも一致していたので厄介はない。簡単明瞭である。――負けたほうはどんな恥かしめも甘んじて受けること。つまり制裁に服す！　である。<lb />
+　それともう一つ、優越者は、お芳を自己のものにする！　敗れたものは恋の資格を失うことであった。何のことはない、お芳にも意思はあるだろうに、立会人の<span type="ruby"><span type="rb">凝議</span><span type="rp">（</span><span type="rt">ぎょうぎ</span><span type="rp">）</span></span>は、彼女の恋までも、八寸玉の中に入れてしまった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">十</span></span></span>
+<lb />
+　慎吾は早速、製作にとりかかった。彼とてもまんざら自信がないわけではない。<lb />
+　戸狩の仲間うちでも、七之助に反感をもっていそうな男を二名、助手として雇って、その男の小屋と設備を、仕事場にあててかかった。<lb />
+「どんな様子だ？　七のほうは」<lb />
+　同僚が来ると、そればかり探りたがった。<lb />
+「空家みたいだな、七の家は」<lb />
+「ふーん、逃げたんじゃないか」<lb />
+「なに、中で音はしている」<lb />
+　慎吾は常に何かしら彼の迫力に押されていた。藩へ手紙を出して、殊に精製した強力な硝石や薬料をぜいたくに取りよせた。その点では、七之助が相変らず伝統を固持していわゆる<span type="ruby"><span type="rb">口伝式</span><span type="rp">（</span><span type="rt">くでんしき</span><span type="rp">）</span></span>な、妙なものばかりから材料をとっているというやり方に対して、十分な優越をもてた。<lb />
+　村は夏めいて来た。この山国に新緑を見るともう五月の<span type="ruby"><span type="rb">中旬</span><span type="rp">（</span><span type="rt">なかば</span><span type="rp">）</span></span>であった。<lb />
+　二人の手伝いが休んだので、慎吾も、仕事小屋にぼんやりしていたが、<span type="ruby"><span type="rb">一昨日</span><span type="rp">（</span><span type="rt">おととい</span><span type="rp">）</span></span>、窓から投げこんで行ったお芳の手紙を出して、読み直していた。<lb />
+　彼女の手紙は、その前の手紙よりも、自分への好意をだんだん明らかにしていると慎吾は思った。ふたりの男の智能や身分を比較してみれば、どんな無考えでも、女が自分のほうへ歩み寄りたがっているのは当然だと考えた。<lb />
+「果し合いをする前に、もうお芳はこっちのものじゃないか」<lb />
+　ほくそ笑まれると同時に、何だか、禁断の<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>を盗んでいる気もする。<lb />
+　それに近ごろ、他の同僚たちが、暗にお芳との恋を<span type="ruby"><span type="rb">諫</span><span type="rp">（</span><span type="rt">いさ</span><span type="rp">）</span></span>めだてする口ぶりなのが、よけいに慎吾を<span type="ruby"><span type="rb">依怙地</span><span type="rp">（</span><span type="rt">えこじ</span><span type="rp">）</span></span>にさせた。そういう<span type="ruby"><span type="rb">捻</span><span type="rp">（</span><span type="rt">ねじ</span><span type="rp">）</span></span>けかたは彼の性格から何事にも首を延ばすことであるが、こんどのお芳のことには、非常に強い。<lb />
+「会いたくなったなあ」<lb />
+　ぶらりと外へ出た。珍しく着流しに草履ばきで、日蔭を拾った。<lb />
+　教来石兵助の家を訪ねてみると、お芳はいなかった。湯田中まで行ったからまだ帰るまいという。兵助老人を相手にしばらく世間ばなれのした話をしていたが、こんどのことは絶対に聞かさぬことにしてあるので、長居もできない。自分だけ泊り場所を移したことも、この老人には藩用の都合でといいつくろってあるくらいだった。<lb />
+　――その帰り途である。<lb />
+　わざと遠廻りをして、村から離れた旧陣屋跡まで来ると、これも藩の佐久間象山が移植させたのだという<span type="ruby"><span type="rb">林檎畑</span><span type="rp">（</span><span type="rt">りんごばたけ</span><span type="rp">）</span></span>がある。その低い枝の下を潜って、ひとりの男が、向うへ行く。<lb />
+　見たような男だが――<lb />
+　慎吾は、先へ廻って、旧陣屋の土塀の蔭にかくれていた。塀の崩れ目は雑草の中に沈んで、また向うへ続いている。百年以上もこのままになっているという建物の真っ黒な棟がその間から見えた。<lb />
+「おや？」<lb />
+　慎吾は目をみはった。<lb />
+　今その中へ、あたりを見ながら、犬のように這いこんだ男は、七之助にちがいない。七！　と思うと、彼は頭のしんを<span type="ruby"><span type="rb">嫉妬</span><span type="rp">（</span><span type="rt">しっと</span><span type="rp">）</span></span>の血が熱いようにのぼるのが分った。<lb />
+　いつかお芳と約束したことがある。彼はそれを忘れてはいないが、あの時の騒ぎからつい機会を失っていたのだ。<lb />
+　旧陣屋跡の古家なら、人目にもかからずゆっくり会えるからそこで一度話そうといったあの約束である。――お芳は、自分が教えた場所で、いつのまにか、七と密会しているんじゃなかろうか。<lb />
+「それでだ。近ごろ同僚のやつが、いやに奥歯に物の<span type="ruby"><span type="rb">挟</span><span type="rp">（</span><span type="rt">はさ</span><span type="rp">）</span></span>まったように<span type="ruby"><span type="rb">諫</span><span type="rp">（</span><span type="rt">いさ</span><span type="rp">）</span></span>めるのは！」<lb />
+　むらッと燃えながら、十歩ばかり駈け出して、土塀の崩れ目から中を覗きこんだ。ぽきりっと自分の手に大きな響きがした。つかんでいた木の枝が折れて来たのである。<lb />
+　その音に気がついたように、今、空屋敷の雨戸の前にたたずんだ七の顔が、チラとこっちを振り向いた。慎吾はあわてて後ろへ身を<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いた。七も意外な顔をして、急にからだを曲げると、横へ<span type="ruby"><span type="rb">反</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>れて、向う側の土塀を越えて戸狩のほうへ帰ってしまった。<lb />
+　だが――七が帰ったのは、慎吾には見えなかった。疑心と嫉妬が<span type="ruby"><span type="rb">怏々</span><span type="rp">（</span><span type="rt">おうおう</span><span type="rp">）</span></span>と足にからみついて、そこを去り得ないのである。<lb />
+「あら、慎吾様じゃありませんか」<lb />
+　不意だった。<lb />
+　びっくりして振りかえると、林檎畑の細道から女の姿が歩いてくる。林檎の木の小枝の間からお芳のひとみが見えて来た。<lb />
+　髪の毛から<span type="ruby"><span type="rb">褄先</span><span type="rp">（</span><span type="rt">つまさき</span><span type="rp">）</span></span>までを、調べるような目でながめて、<lb />
+「どこへ行って来たのか」<lb />
+「湯田中まで。――あなたは」<lb />
+「そなたを探しておったんだ。湯田中じゃあるまい」<lb />
+「じゃどこです」<lb />
+「この古家の中にいたんだろう。七のやつと」<lb />
+「ま！　……」と<span type="ruby"><span type="rb">呆</span><span type="rp">（</span><span type="rt">あき</span><span type="rp">）</span></span>れ顔に笑いかけたが、男の嫉妬の色に気がついて、少し胸の前を離れると、慎吾の腕が、ふいに、抱き倒すように、彼女のからだを巻いた。<lb />
+「昼間から七と会っていたんだろう。人の住まない家だ。足痕を見ればわかる。こっちへこい」<lb />
+　気狂いじみた力で、抱きしめたまま、ぐいぐいと空屋敷のほうへひき摺って行った。お芳の<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ひたい</span><span type="rp">）</span></span>は汗ばんでいた。苦しかった。けれど彼女は悲鳴などはあげなかった。<lb />
+　……………………<lb />
+　それから後、ふたりは度々、草いきれのこもった古家の雨戸をはずして、こっそりと<span type="ruby"><span type="rb">黴</span><span type="rp">（</span><span type="rt">かび</span><span type="rp">）</span></span>の咲いている闇の中を楽しんだ、昼間会う時もあった、夜会う時もあった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">十一</span></span></span>
+<lb />
+　気色のわるい<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>を見たので、七は何もしないで、陣屋跡の古家から帰って来てしまったが、そこへとりに行った物は、まだしばらく足りているので二十日ほど行かずにいた。<lb />
+　その間に、彼は、自分の心魂をつめこんだに等しい八寸玉の製作を終った。<lb />
+　八寸玉というとかなり大きな物である。玉の外殻はうすい<span type="ruby"><span type="rb">雁皮紙</span><span type="rp">（</span><span type="rt">がんぴし</span><span type="rp">）</span></span>で一枚一枚<span type="ruby"><span type="rb">貼</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>って、金属のようになるまで根仕事で固めたものである。中は、秘中の秘だった。二つに割ってみれば、ちょうど人間の脳を<span type="ruby"><span type="rb">解剖</span><span type="rp">（</span><span type="rt">かいぼう</span><span type="rp">）</span></span>してみたと同じに、大脳や小脳や<span type="ruby"><span type="rb">血漿</span><span type="rp">（</span><span type="rt">けっしょう</span><span type="rp">）</span></span>や細胞や、微妙な物体の機構がくるんであるのだった。誰がこれを生き物でないといえるだろうか。七は、膝にのせてみて、つくづくとそう思った。<lb />
+　この中には、おれの骨もけずり込まれている。血もはいっている、<span type="ruby"><span type="rb">癇癪</span><span type="rp">（</span><span type="rt">かんしゃく</span><span type="rp">）</span></span>すじも涙も詰まっている、いや恋さえはいっているんだ。――古屋敷の床下の土からとった物や死んだお千代後家の<span type="ruby"><span type="rb">脂</span><span type="rp">（</span><span type="rt">あぶら</span><span type="rp">）</span></span>までも。<lb />
+　――無理やねえ、雨気をもった暗い晩、こんなのがあがるとひゅッと泣いて、青い火が降るとぞっとするようなことがあらあ。やっぱりこいつあ化物の類だろうよ。<lb />
+　七は、自分の作った八寸玉の、その重量にさえ、一種の気味わるさを感じるのだった。<lb />
+　彼にいわせると、花火は、生きてる化け物だという。あの怪奇な、あの蒼白い<span type="ruby"><span type="rb">妖焔</span><span type="rp">（</span><span type="rt">ようえん</span><span type="rp">）</span></span>の幻滅する間際に、自分の魂というものを考えると、知らない女とでも死にたくなるという。――そうかと思うと、こっちの胸に火の移る恋でもある時は、どーんとひらいた柳の中へ、ふところの金でも何でも、追っかけに抛り上げたいような狂躁にも<span type="ruby"><span type="rb">唆</span><span type="rp">（</span><span type="rt">そそ</span><span type="rp">）</span></span>られる。だが、両国などの<span type="ruby"><span type="rb">熱鬧</span><span type="rp">（</span><span type="rt">ねっとう</span><span type="rp">）</span></span>した花火の晩のあと、暗い霧が落ちて、しいんと都会が冷たくなる時の陰気さはなんともいえない。やっぱり花火は生き物で、妖怪さ。<lb />
+　七は今も、そんなことを考えながら、巨大な妖怪の玉を、押入れの奥にしまいこんだ。<lb />
+「さ。いつでも来い」<lb />
+　自分の苦心にかえりみて、彼は恥ずるところがない。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">十二</span></span></span>
+<lb />
+　もしこの玉から彼が苦心の<span type="ruby"><span type="rb">赤光</span><span type="rp">（</span><span type="rt">しゃっこう</span><span type="rp">）</span></span>が放てなかったら、ほかの火焔がどうよく出ても、ひらいた<span type="ruby"><span type="rb">相</span><span type="rp">（</span><span type="rt">すがた</span><span type="rp">）</span></span>が上品でも、音響が何里四方をゆるがしても、また人工の星が宇宙の星を連れて地へ下がって来ても、立会人は、こっちへ軍配を揚げにくいだろう。<lb />
+　しかし、七には、自信があった。<lb />
+　彼は、その日から涼しい顔をして、別の仕事にかかった。<lb />
+　そのほうは、気楽な雑物で、問屋へ持って行って金に代えるだけの仕事である。その合間には、三河の煙火陣に持ち出す<span type="ruby"><span type="rb">畢生</span><span type="rp">（</span><span type="rt">ひっせい</span><span type="rp">）</span></span>の大作尺二玉をぼつぼつと進めている。<lb />
+「雑ものを<span type="ruby"><span type="rb">作</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>っていると、硝石を食ってしようがねえな。また少し土を採って来て置こうか」<lb />
+　六月へはいったある晩だった。<lb />
+　七は、仕事小屋を閉めて出て行った。――この前、気に食わない慎吾の顔を見て、ふいと止めて来た陣屋跡の古家――そこへ来たのである。<lb />
+　<span type="ruby"><span type="rb">頬冠</span><span type="rp">（</span><span type="rt">ほおかむ</span><span type="rp">）</span></span>りをすると、すぐに、犬這いになって、縁の下へ這いこんだ。いつかの時は、この不恰好なところを、慎吾に見られるのがいやで、引っ返したのかも知れない。<lb />
+　土台柱は、みんな白蟻が<span type="ruby"><span type="rb">蝕</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>ったように腐っていた。建ってから一世紀以上は経っている――じわじわした<span type="ruby"><span type="rb">陰鬱</span><span type="rp">（</span><span type="rt">いんうつ</span><span type="rp">）</span></span>な闇が顔をつつむ。<lb />
+　その土台柱をかぞえて、何本目かを<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>で廻すと、小さい<span type="ruby"><span type="rb">土掻</span><span type="rp">（</span><span type="rt">つちかき</span><span type="rp">）</span></span>と、籠があった。彼はその土掻の刃で、土の上かわを三寸ぐらいずつ削ぐように掻いて、籠へ土を盛りこんだ。<lb />
+「七の火薬はべつだぜ」<lb />
+　と、仲間の者も、常に彼の出す強力な火勢には驚いていたが、その硝石の宝庫は、この古家の床下だった。無論その土は、彼の手で加工され洗滌されてから全くべつなものに変質されるのではあるけれど。<lb />
+　一かごとると、べっとりと汗をかいた。<span type="ruby"><span type="rb">肱</span><span type="rp">（</span><span type="rt">ひじ</span><span type="rp">）</span></span>を曲げて汗をこすると、土と<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>の巣が顔にこびりつく。<lb />
+「おや？」<lb />
+　ここへは、何度も土を採りに来たが、今までにない現象をそこで見た。――すぐうしろの土台柱に、床板の割れめから、ほんの微かではあるが、明りが射している。<lb />
+　花火の妖精さえ信じている七だった。ぞっと寒いものを背すじに這わせて、蒸暑い体を冷たい土に寝せていると、ホホホと女が笑う、男が笑う、そして低くなり高くなり、<span type="ruby"><span type="rb">淫</span><span type="rp">（</span><span type="rt">みだ</span><span type="rp">）</span></span>らな声がてんめんと耳をこそぐって来る。<lb />
+「？　……」<lb />
+　七の眼は闇の中に、<span type="ruby"><span type="rb">梟</span><span type="rp">（</span><span type="rt">ふくろ</span><span type="rp">）</span></span>のようになっていた。<lb />
+「人間じゃない、人間の笑い声じゃない。……<span type="ruby"><span type="rb">貉</span><span type="rp">（</span><span type="rt">むじな</span><span type="rp">）</span></span>かな？」<lb />
+　いや！　彼はもっと<span type="ruby"><span type="rb">慄然</span><span type="rp">（</span><span type="rt">りつぜん</span><span type="rp">）</span></span>とする想像にたどりついた。自分が墓をあばいたお千代後家の幽魂というものを。<lb />
+　あの<span type="ruby"><span type="rb">淫蕩</span><span type="rp">（</span><span type="rt">いんとう</span><span type="rp">）</span></span>な後家によく似ている笑いかただ。死ぬ半月前まで、幾人もの村の男を、<span type="ruby"><span type="rb">交</span><span type="rp">（</span><span type="rt">かわ</span><span type="rp">）</span></span>る交る招き入れていたお干代後家の幽魂。<lb />
+　冷たい汗がすだれのように七の顔にながれた。あの世から洩れる火のように、かすかな光はまだそこに洩れていたが、いつか床の上の気配はしいんと死んだように静かになっていた。<lb />
+　前よりは遥かに小さなささやきがもれて来た。七は耳へ指を突っこんだ。そのくせ、そこを動くことは全く忘れて。<lb />
+　ざらざらと<span type="ruby"><span type="rb">煤</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>が襟元へこぼれたので、思わず耳の<span type="ruby"><span type="rb">栓</span><span type="rp">（</span><span type="rt">せん</span><span type="rp">）</span></span>をぬくと、サアーッと突然に雨の音が外を走り通った。ひょいと見ると、白い霧が、床下の奥まで<span type="ruby"><span type="rb">濛々</span><span type="rp">（</span><span type="rt">もうもう</span><span type="rp">）</span></span>とはいって来る。<lb />
+　<span type="ruby"><span type="rb">雷</span><span type="rp">（</span><span type="rt">かみなり</span><span type="rp">）</span></span>が鳴った。<lb />
+　<span type="ruby"><span type="rb">轟々</span><span type="rp">（</span><span type="rt">ごうごう</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">翔</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けている！<lb />
+　青い<span type="ruby"><span type="rb">電光</span><span type="rp">（</span><span type="rt">いなびかり</span><span type="rp">）</span></span>が大地の顔を見せた。<lb />
+　七は、<span rend="sesame_dot" rendition="em">どや</span>されたように<span type="ruby"><span type="rb">醒</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>めて、転がるように、床下から這い出した。すだれのように雨垂れが打っている。真っ白な夕立だ。<lb />
+　土は持って帰れない。いや、そんなことは忘れてしまっている！　彼は尻をからげて、雨のすだれの裏を<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">くぐ</span><span type="rp">）</span></span>った。<lb />
+　裏のほうへ廻ると、水口の雨戸が五寸ほど<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>いていた。ひょいと見ると、その下に、<span type="ruby"><span type="rb">履物</span><span type="rp">（</span><span type="rt">はきもの</span><span type="rp">）</span></span>が二足ならんでいる。蛇の目が一本、その上に渡してあった。<lb />
+「有難え」<lb />
+　なんの気もなく、手に取って、ぱきんとひらいて身を隠した。ザザザザッと<span type="ruby"><span type="rb">竹樋</span><span type="rp">（</span><span type="rt">たけとい</span><span type="rp">）</span></span>の水が、傘に落ちて、滝のように水玉の変化を見せる。<lb />
+　ひらめく<span type="ruby"><span type="rb">電</span><span type="rp">（</span><span type="rt">いなずま</span><span type="rp">）</span></span>に、<span type="ruby"><span type="rb">高社</span><span type="rp">（</span><span type="rt">たかやしろ</span><span type="rp">）</span></span>の山の肩がありありと二度ほど見えた。七はしばらく雲を見つめて、雨の小やみを待っていた。<lb />
+　やっと、雨の縞がすこし細くなったので、すっぽりと傘をかついで、池のようになった水の中に飛び出した。――すると、うしろの戸がガラリと開いた。<lb />
+「おい、待て」<lb />
+　男の声である。すぐその後ろについて女の声がいった。<lb />
+「いけませんよ、その傘をさして行っちゃあ」<lb />
+　声に覚えがあった。七の足は<span type="ruby"><span type="rb">忿怒</span><span type="rp">（</span><span type="rt">ふんぬ</span><span type="rp">）</span></span>にふるえていた。さしている傘の耳を片手に抑えて、ばりばりッと引っ裂くように振り向けると、凄いほどあおざめた顔を、紺の円形の中から、グイと突きむけて雨戸の間に頬と頬を寄せ合っていた<span type="ruby"><span type="rb">男女</span><span type="rp">（</span><span type="rt">ふたり</span><span type="rp">）</span></span>へいった。<lb />
+「おぼえていろよ！　傘か、てめえ達ゃ濡れて帰れ！」<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">十三</span></span></span>
+<lb />
+　<span type="ruby"><span type="rb">姥捨</span><span type="rp">（</span><span type="rt">うばすて</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">冠</span><span type="rp">（</span><span type="rt">かんむり</span><span type="rp">）</span></span>ヶ<span type="ruby"><span type="rb">岳</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>を右のほうに見ながら善光寺<span type="ruby"><span type="rb">平</span><span type="rp">（</span><span type="rt">だいら</span><span type="rp">）</span></span>を千曲川に沿って、二里ばかり<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>へ<span type="ruby"><span type="rb">遡</span><span type="rp">（</span><span type="rt">のぼ</span><span type="rp">）</span></span>ると、山と山の間、すべてひろい河原地へ出る。<lb />
+　しいんとした薄暮のいろが低く水面に降りていた。西岸の山の尾根から河原のふちへかけて、屋根へ石を載せた豆板のような家がまばらに散在して見える。<lb />
+　戸倉の<span type="ruby"><span type="rb">温泉</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>だった。やがてその辺に、チラチラと数えられるほどの<span type="ruby"><span type="rb">燈火</span><span type="rp">（</span><span type="rt">ともしび</span><span type="rp">）</span></span>がつく。<lb />
+「支度がよかったら、ぼつぼつ出かけようじゃないか。もう七之助のほうも、<span type="ruby"><span type="rb">打揚場</span><span type="rp">（</span><span type="rt">うちあげば</span><span type="rp">）</span></span>に行っている時刻だろう」<lb />
+　戸倉の<span type="ruby"><span type="rb">温泉</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>の一軒。昼間からここに<span type="ruby"><span type="rb">屯</span><span type="rp">（</span><span type="rt">たむろ</span><span type="rp">）</span></span>をしていた松代藩の者があった。そのうちの四名は慎吾についている藩士だったが、あとの多くの若侍は、何かの場合の備えというつもりで、慎吾が<span type="ruby"><span type="rb">糾合</span><span type="rp">（</span><span type="rt">きゅうごう</span><span type="rp">）</span></span>したものらしい。<lb />
+「<span type="ruby"><span type="rb">蜂屋氏</span><span type="rp">（</span><span type="rt">はちやうじ</span><span type="rp">）</span></span>、うまくやれよ」<lb />
+「溜飲をさげて、後で飲むのを楽しみにしているぞ」<lb />
+　慎吾と、介添の四人を送り出して、彼らはその影が遠のくまで、二階から声援を送った。慎吾はふり顧って、腕を叩いてみせたりした。なかなか元気である。果し合いの勝負以外に、何か成算があるらしかった。<lb />
+　戸倉の暗い辻を<span type="ruby"><span type="rb">出端</span><span type="rp">（</span><span type="rt">ではず</span><span type="rp">）</span></span>れると、汚い商人宿の軒下に、旅姿の女ひとりに、<span type="ruby"><span type="rb">脚絆</span><span type="rp">（</span><span type="rt">きゃはん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">手甲</span><span type="rp">（</span><span type="rt">てっこう</span><span type="rp">）</span></span>をかけた年配の煙火師が二人、首を長くして待っていたが、一行を見ると、<lb />
+「慎吾様」<lb />
+　と、女が先に走り寄った。<lb />
+「お芳どの、心配するな」<lb />
+　顔を見ると、すぐに慰めて――<lb />
+「筒や玉は？」と、煙火師のほうへ向ってたずねた。この二人は、果し合いの条約にもゆるされて八寸玉の製作を手つだった男たちである。<lb />
+「もう先へ送っておきました。場所は決めた通り、<span type="ruby"><span type="rb">笄</span><span type="rp">（</span><span type="rt">こうがい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">渡舟</span><span type="rp">（</span><span type="rt">わたし</span><span type="rp">）</span></span>から二町ばかりてまえのほうで」<lb />
+「ご苦労だった。七のほうは、来ているか」<lb />
+「あいつは河原で<span rend="sesame_dot" rendition="em">はや</span>を釣っていましたぜ、待ちくたびれているんでしょう」<lb />
+「ふーむ」と冷笑をゆがめて、<lb />
+「じゃお芳どの、そなたは近くまで行ったら、舟にのって川の中の丘にやすんでいるがいい。なに一人じゃない、丘のほうには拙者の友人を廻してあるのだ」<lb />
+　河原を<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>って、上へ、五、六町も行くうちに、空はとっぷりと夜になった。わりあいに足元の明るいのは、水面から十尺ばかりぼうと青く見える水明りの加減であろう。<lb />
+　初夏ならばこの辺、佐久地方の高原から流れて繁殖した月見草の黄色さで夜も明るい。今秋草は川洲のどこにも伸びていた。<lb />
+　ピピピ、ピピピ、と<span type="ruby"><span type="rb">河鹿</span><span type="rp">（</span><span type="rt">かじか</span><span type="rp">）</span></span>の啼く闇がなんとなく気をひき締める。――と小舟が待っていた。慎吾は何かささやいてお芳だけをそれにのせて、ひろい河心の丘へ送ってしまった。<lb />
+　半町ばかり先に、<span type="ruby"><span type="rb">蛍</span><span type="rp">（</span><span type="rt">ほたる</span><span type="rp">）</span></span>ほどの赤い火が見えだした。七は、煙草をすいながら戸狩の若者七人ばかりと一緒に、<span type="ruby"><span type="rb">草叢</span><span type="rp">（</span><span type="rt">くさむら</span><span type="rp">）</span></span>に腰をすえこんでいた。<lb />
+　いるな。<lb />
+　来たな！<lb />
+　両方の感覚が無言のうちに冴える。<lb />
+　慎吾は、<span type="ruby"><span type="rb">硬</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>ばった態度をとりながら、一同といっしょに歩みよって、<lb />
+「七、たいそう早かったな」<lb />
+「おいでなさいまし」<lb />
+　七は柔和にあいさつをした。そして介添の者にまで、<lb />
+「今日は、ご苦労様でござんす」と、いつになく<span type="ruby"><span type="rb">慇懃</span><span type="rp">（</span><span type="rt">いんぎん</span><span type="rp">）</span></span>だった。<lb />
+「そっちの支度はできておるのか」<lb />
+「へえ。いつでも」<lb />
+「ウム、そこが<span type="ruby"><span type="rb">打揚場</span><span type="rp">（</span><span type="rt">うちあげば</span><span type="rp">）</span></span>か。幕のかわりに<span type="ruby"><span type="rb">素縄</span><span type="rp">（</span><span type="rt">すなわ</span><span type="rp">）</span></span>を張ったな」<lb />
+「死縄のつもりでございますよ」<lb />
+「なあに、勝敗は時の運だ。半分は天意に任せたつもりでなけりゃあ」<lb />
+「そうかも知れません」<lb />
+「お互いに、恨みは残すまいぞ」<lb />
+「あっしゃ、負けれや恨みを残しますね。残さずにゃいられねえ性分ですから」<lb />
+「はははは」<lb />
+　と、笑ったが、両方とも<span type="ruby"><span type="rb">空虚</span><span type="rp">（</span><span type="rt">うつろ</span><span type="rp">）</span></span>だった。そして、さっきから互いにいわせようとしていることが、どっちの口からも出なかった。<lb />
+　で、遂に七がいった。<lb />
+「ところで、お芳は」<lb />
+「む、お芳か」<lb />
+「おまえさんのほうで、今夜ここへ連れて来るということになっていたはずですが」<lb />
+「連れて来てはおるが、実は、打揚場に女は<span type="ruby"><span type="rb">不浄</span><span type="rp">（</span><span type="rt">ふじょう</span><span type="rp">）</span></span>と考えて怪我でもしちゃあならんから、戸倉の宿に残して来た」<lb />
+「そうですか」<lb />
+　七は、案外素直にうけいれて、<lb />
+「ようがす。異存はありません。――じゃ打揚場にわかれましょ」<lb />
+　きりっといって七が腰を立てると慎吾は反対に、どっかりと石に腰をすえて、<lb />
+「ま、あわてるな、拙者は武士だから果し合いの作法もある。戸倉で調えて来た<span type="ruby"><span type="rb">土器</span><span type="rp">（</span><span type="rt">かわらけ</span><span type="rp">）</span></span>がここにあるから、お互いに、千曲川の水でも酌み合って、ゆっくりと腹をすえてかかろうではないか」<lb />
+　と、七の出鼻を折った。<lb />
+　しかし、その態度のわりあいに、慎吾のひとみは、四方の闇に対して、決して、落着きのあるひとみではなかった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">十四</span></span></span>
+<lb />
+　これが、ほんとの一国対一国の煙火陣ならば、<span type="ruby"><span type="rb">鯨幕</span><span type="rp">（</span><span type="rt">くじらまく</span><span type="rp">）</span></span>をひき、押太鼓、陣羽織、あだかも戦場の対陣のような空気が立つところであるが、今夜は、藩の次席家老のせがれと一煙火師との果し合いだから、暗夜の大河に人影はほんの僅か、<span type="ruby"><span type="rb">寂寞</span><span type="rp">（</span><span type="rt">せきばく</span><span type="rp">）</span></span>として、用意の足音もいと静かである。<lb />
+　そのかわりに、もし敗れたら恋も<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>もない。必死なところだ。しめっぽい川辺の夜風も、山と山に狭ばめられた初秋の空も、<span type="ruby"><span type="rb">蕭殺</span><span type="rp">（</span><span type="rt">しょうさつ</span><span type="rp">）</span></span>とした墨いろの中に鬼気をもって、なんともいい難い<span type="ruby"><span type="rb">悽愴</span><span type="rp">（</span><span type="rt">せいそう</span><span type="rp">）</span></span>という感は、むしろ今夜のほうがつよい。<lb />
+　雑草の<span type="ruby"><span type="rb">離々</span><span type="rp">（</span><span type="rt">りり</span><span type="rp">）</span></span>としている河原地を、水際離れて、およそ双方の間、約五間ほどの距離をとって立ち別れた。<lb />
+　<span type="ruby"><span type="rb">筒埋</span><span type="rp">（</span><span type="rt">つついけ</span><span type="rp">）</span></span>はすでにできている。八寸玉もそのわきにすわった。<lb />
+　立会役に代った藩士のひとりが、<span type="ruby"><span type="rb">芒</span><span type="rp">（</span><span type="rt">すすき</span><span type="rp">）</span></span>の葉を二本ちぎって<span type="ruby"><span type="rb">籤</span><span type="rp">（</span><span type="rt">くじ</span><span type="rp">）</span></span>にして二人に引かせた。短いほうが<span type="ruby"><span type="rb">先揚</span><span type="rp">（</span><span type="rt">さきあげ</span><span type="rp">）</span></span>、長い方が<span type="ruby"><span type="rb">殿</span><span type="rp">（</span><span type="rt">しんがり</span><span type="rp">）</span></span>。――七が先に当った。<lb />
+「いざ！」<lb />
+　と、五間先の闇から、慎吾の緊張した声がうながした。<lb />
+　七は、短い脇差をさし、素わらじに紺の<span type="ruby"><span type="rb">脚絆</span><span type="rp">（</span><span type="rt">きゃはん</span><span type="rp">）</span></span>だった。<span type="ruby"><span type="rb">藍</span><span type="rp">（</span><span type="rt">あい</span><span type="rp">）</span></span>みじんの袖を<span type="ruby"><span type="rb">革</span><span type="rp">（</span><span type="rt">かわ</span><span type="rp">）</span></span>だすきに締めこんで、筒の前に膝を折った。<lb />
+　自分の生命をあずけるように、そろりと玉を仕込む。後ろへ退がって火縄を持った。<lb />
+　――口火落しの大事なことはいうまでもない。技といおうか<span rend="sesame_dot" rendition="em">こつ</span>といおうか、ぽんと筒へ火を落すとたんの呼吸ひとつで、満天にひらく名花もだいなしに崩れることがある。また黒玉といって、まったく殻をやぶらずに、そのまま、落ちてしまう例もある。黒玉を打ちあげたらば煙火師は土地にいられなかった。それほど絶大な恥辱としていた。<lb />
+　さて！<lb />
+　七は、呼吸をはかって、火を筒に落した。<lb />
+　そして、サッと身を<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いた。――おどろくべき迅さで。<lb />
+　しゅッと、手もとの黄煙を突いて、細い火光がまっすぐに宙へ<span type="ruby"><span type="rb">翔</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>け上がった。<lb />
+　同時に、<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いた<span type="ruby"><span type="rb">膝形</span><span type="rp">（</span><span type="rt">ひざがた</span><span type="rp">）</span></span>のまま、ひとみもそれを追って空に走っている。<lb />
+　どうだ！<lb />
+　――<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>むように宙天を見つめて、彼は、息の音をとめていた。だが、どうしたんだろう？　瞬時、また瞬時、宙へあがった八寸玉は、雲の中へでもはいってしまったようにいつまで何の光もない。<lb />
+　どかア――ん。<lb />
+　<span type="ruby"><span type="rb">莫迦</span><span type="rp">（</span><span type="rt">ばか</span><span type="rp">）</span></span>みたいな音が、真っ暗な空の奥にひびいた。<lb />
+「黒玉だッ」<lb />
+　誰かの口から、こう絶叫すると、唖然としていた一同が余りのことに、舌をもつれさせて、<lb />
+「ど、どうしたんだ七！」<lb />
+「くろ、くろ、黒玉だぞ七！」<lb />
+　泣くように<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>って、地だんだを踏んだ。<lb />
+　七は、白い顔をして、筒のそばに腕組をして立っていた。<lb />
+「静かにしろ、まだ勝負はつきゃあしねえ」<lb />
+「だ、だって、兄き」<lb />
+「ええ、うるせえな。――おいッどうした！　そっち組は」と、<span rend="sesame_dot" rendition="em">やけ</span>のように呶鳴った。<lb />
+　相手の案外な失敗に、じっと鳴りをしずめていた慎吾たちの組は、七の<span rend="sesame_dot" rendition="em">やけ</span>な声を聞くと、いちどに<span type="ruby"><span type="rb">侮蔑</span><span type="rp">（</span><span type="rt">ぶべつ</span><span type="rp">）</span></span>をこめた笑いを爆発させて、<lb />
+「何と申したのか、もういちどいえ」<lb />
+「こっちはすんだぞ」<lb />
+「ううむ、<span type="ruby"><span type="rb">美事</span><span type="rp">（</span><span type="rt">みごと</span><span type="rp">）</span></span>だった」<lb />
+「なぜすぐに打揚げねえのだ。ことによったら、てめえのほうも、黒玉かも知れねえぞ」<lb />
+「ばかを申せ。いま慎吾の腕を見せてやるから<span type="ruby"><span type="rb">胆</span><span type="rp">（</span><span type="rt">きも</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">潰</span><span type="rp">（</span><span type="rt">つぶ</span><span type="rp">）</span></span>すな」<lb />
+「オオ」<lb />
+　七は、闇に眼を澄ました。<lb />
+　そして、慎吾が、<span type="ruby"><span type="rb">野袴</span><span type="rp">（</span><span type="rt">のばかま</span><span type="rp">）</span></span>のすそをからげて、筒へ口火を落した瞬間に、七の唇が不意に、<lb />
+「しまった！」<lb />
+　と声を飛ばした。<lb />
+　慎吾はハッと思ったらしい。<span type="ruby"><span type="rb">咄嗟</span><span type="rp">（</span><span type="rt">とっさ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>くべきからだを反対に、思わずひょいと首をつき出して、その筒ぐちを覗いたのである。<lb />
+　異様な音響がした。<lb />
+　火と、血と、筒の裂けるような音！<lb />
+　とたんに、慎吾の首は、形を失って、宙天へ飛んでしまった。<lb />
+　胸のひろがるような爆音が、同時に、初秋の夜空をいっぱいにどかアんと鳴った。五ツの銀光星が北斗のように斜めに浮游することしばらく、やがて、その五ツの星が個々にばらばらと<span type="ruby"><span type="rb">炸裂</span><span type="rp">（</span><span type="rt">さくれつ</span><span type="rp">）</span></span>すると、あざやかな光傘をサッと重ねて、<span type="ruby"><span type="rb">冠</span><span type="rp">（</span><span type="rt">かむり</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">鏡台</span><span type="rp">（</span><span type="rt">きょうだい</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">姥捨</span><span type="rp">（</span><span type="rt">うばすて</span><span type="rp">）</span></span>の山々を真っ青に浮かせて見せたかと思うと、その一つの星の色が、<span type="ruby"><span type="rb">臙脂</span><span type="rp">（</span><span type="rt">えんじ</span><span type="rp">）</span></span>から出た人魂のように、ぽかあ、と瞬間――ほんの瞬間、真っ赤な光を千曲川の水面に映した。<lb />
+　――夢だ！　夢みるような気もちなのだ。<lb />
+　誰もなんにもいうものがない。<lb />
+　上を向いたまま。<lb />
+　腕をくんだまま……。<lb />
+　なんとすばらしい火の美だろう、恐い魔術だろう、瞬間の光焔の中には見上げたものの魂がみんな燃えてしまった。<lb />
+　ことに彼等は、かつて見ない真の赤光に眼を射られて、茫然とわれを忘れていたが、疲れた網膜を、ふと足もとにやすめた時、ほとんどすべての者が同時に、<lb />
+「大変だッ！」<lb />
+　と、われに返った。<lb />
+　慎吾の胴には、首がなかった。<lb />
+　――七はもうそこにいなかった。<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">十五</span></span></span>
+<lb />
+　千曲川の暗い水面を、七は白い波影をあげて泳いでいた。<lb />
+　彼の向って行く丘に、夕方から潜んでいた人影のあるのを見て、こん夜の果し合いには、何か慎吾が卑劣な策をとるものと予期していた。そして、なすがままにさせて眺めていたのである。案の定、彼は暗闇まぎれに、自己の製作を七のものとすり替えた。<lb />
+「さ。お芳の番だ」<lb />
+　七の眼は、<span type="ruby"><span type="rb">蛇</span><span type="rp">（</span><span type="rt">じゃ</span><span type="rp">）</span></span>のように水から丘を見つつ抜手を切った。しかし、彼の影が丘へ近づくと、そこから一艘の小舟が急流に乗って<span type="ruby"><span type="rb">下流</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>へ離れた。<lb />
+　七もすぐ激流へからだをまかせた。舟はやがて、浅瀬の砂利に底を噛まれて、<span type="ruby"><span type="rb">棹</span><span type="rp">（</span><span type="rt">さお</span><span type="rp">）</span></span>がきかなくなった。七はぬっと半身をあげて、じゃぶじゃぶと歩き出した。<lb />
+　――あっ。<lb />
+　七が声をあげた時、舟の中から女の影が水へ躍った。白い泡が絞り染のように浮いた。七はまた必死に泳いだ。<lb />
+「死ぬぜ、死ぬぜ、おれの自由になっていねえと」<lb />
+　やがて、七は<span type="ruby"><span type="rb">藻</span><span type="rp">（</span><span type="rt">もぐさ</span><span type="rp">）</span></span>のようなものを手にからみつけて、<span type="ruby"><span type="rb">遥</span><span type="rp">（</span><span type="rt">はる</span><span type="rp">）</span></span>か<span type="ruby"><span type="rb">下流</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>の岸へ泳ぎついていた。泣く力もない白い腕が、彼の足に巻きついたまま水際をぐんにゃりと離れた。<lb />
+　　　　　　×　　　×　　　×<lb />
+　粋な町、善光寺の権堂へは七の馴染が多かった。<span type="ruby"><span type="rb">巽屋</span><span type="rp">（</span><span type="rt">たつみや</span><span type="rp">）</span></span>という茶屋の二階に、彼の顔が頬杖をついていた。<lb />
+　千曲川のことがあってから三日目の宵である。<lb />
+「きょうは星祭りだなあ、お芳」<lb />
+　うしろを向くと、部屋の隅に、<span type="ruby"><span type="rb">行燈</span><span type="rp">（</span><span type="rt">あんどん</span><span type="rp">）</span></span>の灯にさえ顔を上げ得ないで、ほつれ髪の影が、胸へ手をさし入れて、しょんぼりと俯向いている。<lb />
+「なあ、お芳。――祭りだぜ、秋の銀河祭りだ。そうそう、去年の今ごろは、てめえとよく会っていたなあ、<span type="ruby"><span type="rb">銀河</span><span type="rp">（</span><span type="rt">あまのがわ</span><span type="rp">）</span></span>の下に寝て、ふたりとも<span type="ruby"><span type="rb">風邪</span><span type="rp">（</span><span type="rt">かぜ</span><span type="rp">）</span></span>をひいたこともある」<lb />
+「……すみません。ほ、ほんとうに、すみませんです」<lb />
+「何をよ、よせやい」<lb />
+「か、かんにんして……」<lb />
+「おら、怒ってやしねえってことよ」<lb />
+「そういわれるのが、苦しいんです、斬られるよりも、つらいんです、い、いっそ千曲川で私ゃあ……」<lb />
+　お芳は、大きな声で泣き伏した。<lb />
+「死んじゃつまるめえ。おめえみたいな<span rend="sesame_dot" rendition="em">たち</span>の女は、まだまだ沢山男に縁があるぜ。これから毎年、どんな銀河まつりの晩を送るか、わからないことさ」<lb />
+「殺して下さい。こんな……こんな<span type="ruby"><span type="rb">苛</span><span type="rp">（</span><span type="rt">いじ</span><span type="rp">）</span></span>めかたをするよりも」<lb />
+「おら、口癖にいうが、煙火師だぜ、どうせろくな根性じゃねえ。こじれているうちゃしようがねえんだ。けれどその代りにゃ、さっぱりする時は竹を割ったようなもんさ」<lb />
+「後生でございます、手を合せますから。……七之助さん。わ、忘れて」<lb />
+「だからよ、おれの、このむやむやの晴れるまで待ちねえってことよ。な。おれはおめえに拝まれて往生するほど善い人間に出来ていねえ不しあわせ者だ」<lb />
+「…………」<lb />
+「おう、おう、町や祭りだし、空は星だ。色紙を竹につけて子供がかつぎ廻っていらあ、いいなあ子供は……」<lb />
+　<span type="ruby"><span type="rb">頬杖</span><span type="rp">（</span><span type="rt">ほおづえ</span><span type="rp">）</span></span>を直して、往来をながめていたが、何を見たか、ぎくっと、お芳のそばまで身を<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>いた。<lb />
+「おい、支度をしろ」<lb />
+　裾をからげると、<span type="ruby"><span type="rb">脛</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>には<span type="ruby"><span type="rb">脚絆</span><span type="rp">（</span><span type="rt">きゃはん</span><span type="rp">）</span></span>が当っていた。煙草入れ、紙入れ、あわただしく身につけて押入をがらりと開けて、重い包みに手をかけた。<lb />
+　が、考えて、<lb />
+「駄目だ、こいつを金にしてからと思ったが、持っちゃ歩けねえ」<lb />
+　あきらめたようにつぶやいて、びっくりしているお芳の腕をかかえ込んだ。<lb />
+　<span type="ruby"><span type="rb">襖</span><span type="rp">（</span><span type="rt">ふすま</span><span type="rp">）</span></span>を開けて、<span type="ruby"><span type="rb">裏梯子</span><span type="rp">（</span><span type="rt">うらばしご</span><span type="rp">）</span></span>まで出て来ると、<span type="ruby"><span type="rb">階下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>からどかどかと駈け上って来た松代藩の武士が、途中で、真黒にかたまって、<lb />
+「あっ、七！」<lb />
+　と、立ちすくんだ。<lb />
+「あぶねえぜ、おれの体は、どこを触っても火薬玉が飛ぶんだから」<lb />
+　すうっと、表へ来てみたが、そこの<span type="ruby"><span type="rb">階下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>も人間でいっぱいらしい。<lb />
+　物干し台へ出て、お芳の手をしっかと持ったまま、屋根へ移ろうとすると、星祭りの笹へ、お芳の<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>が触れて、そばの<span type="ruby"><span type="rb">紅蝋燭</span><span type="rp">（</span><span type="rt">べにろうそく</span><span type="rp">）</span></span>が火のついたまま部屋の中へ転がり落ちた。<lb />
+　自分を求める捕手の侍たちの怒号が、七の耳におかしく聞えた。善光寺の境内を走って、裏山の中腹に腰をおろした時である。彼は初めて、うしろの空が赤く染まっているのに気がついた。半鐘の音も鳴っている。<lb />
+「あ……あの蝋燭だ。<span type="ruby"><span type="rb">巽屋</span><span type="rp">（</span><span type="rt">たつみや</span><span type="rp">）</span></span>にゃ世話になったのに、悪いことをしてしまったな」<lb />
+　その時、火事の空の中で、耳の破れるような音響がした。<lb />
+　おやっ？<lb />
+　見ると、炎の<span type="ruby"><span type="rb">巽屋</span><span type="rp">（</span><span type="rt">たつみや</span><span type="rp">）</span></span>の屋根から、ツツツツと細い火の柱が無数に空へつきぬけた。凄まじい爆音は絶えまなく空に裂ける！　そして、ぱあと空いちめんが花火になった。流星、狂い<span type="ruby"><span type="rb">獅子</span><span type="rp">（</span><span type="rt">じし</span><span type="rp">）</span></span>、七ツ傘、柳、五葉<span type="ruby"><span type="rb">牡丹</span><span type="rp">（</span><span type="rt">ぼたん</span><span type="rp">）</span></span>、花ぐるま。<lb />
+　花火に重なる花火、爆音につづく爆音、滅茶滅茶な火の乱舞、光の狂射、色の躍り、善光寺の町はあらゆる色に変って明滅した。空も地も気をそろえて気が<span type="ruby"><span type="rb">狂</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>ったような瞬間が起った。<lb />
+　　七は、巽屋の押入に、残して来たものを思い出して、手を打った。<lb />
+「あははは。あははは。笑っちゃすまねえが、笑わずにゃいられねえ。捕手のやつあ、驚いたろうな。――だが今夜あ、すばらしい銀河まつりだぜ」<lb />
+　と、お芳をふり向いて、<lb />
+「おい、戸狩へ帰んねえ。おらあ、これから<span type="ruby"><span type="rb">目的</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>なしに高飛びだ。お父っさんによろしくな」<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

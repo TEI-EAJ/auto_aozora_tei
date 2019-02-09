@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>氷島</title>
+        <author>萩原朔太郎</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2003-12-15">作成</resp><resp /><note>
+<lb />
+底本：「萩原朔太郎全集　第二卷」筑摩書房<lb />
+　　　1976（昭和51）年3月25日初版発行<lb />
+底本の親本：「氷島」第一書房<lb />
+　　　1934（昭和9）年6月1日発行<lb />
+初出：漂泊者の歌「改造　第十三卷第六號」<lb />
+　　　1931（昭和6）年6月号<lb />
+　　　<span type="ruby"><span type="rb">遊園地</span><span type="rp">（</span><span type="rt">るなぱあく</span><span type="rp">）</span></span>にて「若草　第七卷第七號」<lb />
+　　　1931（昭和6）年7月号<lb />
+　　　乃木坂倶樂部「詩・現實　第四册」<lb />
+　　　1931（昭和6）年3月<lb />
+　　　殺せかし！　殺せかし！「蝋人形　第二卷第十二號」<lb />
+　　　1931（昭和6）年12月号<lb />
+　　　歸郷「詩・現實　第四册」<lb />
+　　　1931（昭和6）年3月<lb />
+　　　家庭「詩・現實　第四册」<lb />
+　　　1931（昭和6）年3月<lb />
+　　　珈琲店　醉月「詩・現實　第四册」<lb />
+　　　1931（昭和6）年3月<lb />
+　　　新年「詩・現實　第四册」<lb />
+　　　1931（昭和6）年3月<lb />
+　　　晩秋「都新聞」<lb />
+　　　1931（昭和6）年1月22日<lb />
+　　　品川沖觀艦式「詩・現實　第四册」<lb />
+　　　1931（昭和6）年3月<lb />
+　　　火「ニヒル　創刊號」<lb />
+　　　1930（昭和5）年2月号<lb />
+　　　小出新道「日本詩人　第五卷第六號」<lb />
+　　　1925（大正14）年6月号<lb />
+　　　告別「ニヒル　創刊號」<lb />
+　　　1930（昭和5）年2月号<lb />
+　　　動物園にて「ニヒル　創刊號」<lb />
+　　　1930（昭和5）年2月号<lb />
+　　　中學の校庭「薔薇」<lb />
+　　　1923（大正12）年1月号<lb />
+　　　國定忠治の墓「生理　<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」<lb />
+　　　1933（昭和8）年6月<lb />
+　　　虎「生理　<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」<lb />
+　　　1933（昭和8）年6月<lb />
+　　　無用の書物「文藝春秋　第八卷第一號」<lb />
+　　　1930（昭和5）年1月号<lb />
+　　　虚無の鴉「文藝春秋　第五卷第三號」<lb />
+　　　1927（昭和2）年3月号<lb />
+　　　我れの持たざるものは一切なり「文藝春秋　第五卷第三號」<lb />
+　　　1927（昭和2）年3月号<lb />
+　　　監獄裏の林「日本詩人　第六卷第四號」<lb />
+　　　1926（大正15）年4月号<lb />
+　　　昨日にまさる戀しさの「古東多万　第二年第一號」<lb />
+　　　1932（昭和7）年1月号<lb />
+※「<span type="ruby"><span type="rb">遊園地</span><span type="rp">（</span><span type="rt">るなぱあく</span><span type="rp">）</span></span>にて」の初出時の表題は「遊園地にて」です。<lb />
+※「乃木坂倶樂部」の初出時の表題は「乃木坂倶樂部アパートメント」です。<lb />
+※「殺せかし！　殺せかし！」の初出時の表題は「殺せかし！殺せかし！」です。<lb />
+※「珈琲店　醉月」の初出時の表題は「珈琲店醉月」です。<lb />
+※「晩秋」の初出時の表題は「斷章」です。<lb />
+※「虎」の初出時の表題は「屋上の虎」です。<lb />
+※「虚無の鴉」の初出時の表題は「否定せよツ<span rend="notes">［＃感嘆符三つ、99-下-2］</span>」です。<lb />
+入力：kompass<lb />
+校正：今井忠夫<lb />
+<date when="2003-12-15">2003年12月15日</date>作成<lb />
+<date when="2018-12-03">2018年12月3日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>kompass</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>今井忠夫</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>氷島</title><author>萩原朔太郎</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">自序</span></span></span>
+<lb />
+<lb />
+　近代の抒情詩、概ね皆感覺に偏重し、イマヂズムに走り、或は理智の意匠的構成に耽つて、詩的情熱の單一な原質的表現を忘れて居る。却つてこの種の詩は、今日の批判で素朴的なものに考へられ、詩の原始形態の部に範疇づけられて居る。しかしながら思ふに、多彩の極致は單色であり、複雜の極致は素朴であり、そしてあらゆる進化した技巧の極致は、無技巧の自然的單一に歸するのである。藝術としての詩が、すべての歴史的發展の最後に於て、究極するところのイデアは、所詮ポエヂイの最も單純なる原質的實體、即ち詩的情熱の素朴純粹なる詠嘆に存するのである。（この意味に於て、著者は日本の和歌や俳句を、近代詩のイデアする未來的形態だと考へて居る。）<lb />
+　かうした理窟はとにかく、この詩集に收めた少數の詩は、すくなくとも著者にとつては、純粹にパツショネートな詠嘆詩であり、詩的情熱の最も純一の興奮だけを、素朴直截に表出した。換言すれば著者は、すべての藝術的意圖と藝術的野心を廢棄し、單に「心のまま」に、自然の感動に任せて書いたのである。したがつて著者は、決して自ら、この詩集の價値を世に問はうと思つて居ない。この詩集の正しい批判は、おそらく藝術品であるよりも、著者の實生活の記録であり、切實に書かれた心の日記であるのだらう。<lb />
+　著者の過去の生活は、北海の極地を漂ひ流れる、侘しい氷山の生活だつた。その氷山の嶋嶋から、<span type="ruby"><span type="rb">幻像</span><span type="rp">（</span><span type="rt">まぼろし</span><span type="rp">）</span></span>のやうなオーロラを見て、著者はあこがれ、惱み、悦び、悲しみ、且つ自ら怒りつつ、空しく潮流のままに漂泊して來た。著者は「永遠の漂泊者」であり、何所に宿るべき家郷も持たない。著者の心の上には、常に極地の侘しい曇天があり、魂を切り裂く氷島の風が鳴り叫んで居る。さうした痛ましい人生と、その實生活の日記とを、著者はすべて此等の詩篇に書いたのである。讀者よろしく、卷尾の小解と參照して讀まれたい。<lb />
+<lb />
+　因に、集中の「郷土望景詩」五篇は、中「監獄裏の林」の一篇を除く外、すべて既刊の集に發表した舊作である。此所にそれを再録したのは、詩のスタイルを同一にし、且つ内容に於ても、本書の詩篇と一脈の通ずる精神があるからである。換言すればこの詩集は、或る意味に於て「郷土望景詩」の續篇であるかも知れない。著者は東京に住んで居ながら、故郷上州の平野の空を、いつも心の上に感じ、烈しく詩情を敍べるのである。それ故にこそ、すべての詩篇は「朗吟」であり、朗吟の情感で歌はれて居る。讀者は聲に出して讀むべきであり、決して默讀すべきではない。これは「歌ふための<span type="ruby"><span type="rb">詩</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span>」なのである。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">昭和九年二月<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">著者</span></span>
+<span rend="notes">［＃改丁］</span><lb />
+<span rend="notes">［＃ページの左右中央］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">我が心また新しく泣かんとす</span></span>
+冬日暮れぬ思ひ起せや岩に牡蠣<lb />
+</span>
+<lb />
+<lb />
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">漂泊者の歌</span></span></span>
+<lb />
+日は斷崖の上に登り<lb />
+憂ひは陸橋の下を低く歩めり。<lb />
+無限に遠き空の彼方<lb />
+續ける鐵路の柵の<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>に<lb />
+一つの寂しき影は漂ふ。<lb />
+<lb />
+ああ汝　漂泊者！<lb />
+過去より來りて未來を過ぎ<lb />
+久遠の郷愁を追ひ行くもの。<lb />
+いかなれば蹌爾として<lb />
+時計の如くに憂ひ歩むぞ。<lb />
+石もて蛇を殺すごとく<lb />
+一つの輪<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />を斷絶して<lb />
+意志なき寂寥を蹈み切れかし。<lb />
+<lb />
+ああ　惡魔よりも孤獨にして<lb />
+汝は氷霜の冬に耐へたるかな！<lb />
+かつて何物をも信ずることなく<lb />
+汝の信ずるところに憤怒を知れり。<lb />
+かつて欲情の否定を知らず<lb />
+汝の欲情するものを彈劾せり。<lb />
+いかなればまた愁ひ疲れて<lb />
+やさしく抱かれ<span type="ruby"><span type="rb">接吻</span><span type="rp">（</span><span type="rt">きす</span><span type="rp">）</span></span>する者の家に歸らん。<lb />
+かつて何物をも汝は愛せず<lb />
+何物もまたかつて汝を愛せざるべし。<lb />
+<lb />
+ああ汝　寂寥の人<lb />
+悲しき落日の坂を登りて<lb />
+意志なき斷崖を<span type="ruby"><span type="rb">漂泊</span><span type="rp">（</span><span type="rt">さまよ</span><span type="rp">）</span></span>ひ行けど<lb />
+いづこに家郷はあらざるべし。<lb />
+汝の家郷は有らざるべし！<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30"><span type="ruby"><span type="rb">遊園地</span><span type="rp">（</span><span type="rt">るなぱあく</span><span type="rp">）</span></span>にて</span></span></span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;"><span type="ruby"><span type="rb">遊園地</span><span type="rp">（</span><span type="rt">るなぱあく</span><span type="rp">）</span></span>の午後なりき</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">樂隊は空に轟き</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;"><span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />轉木馬の目まぐるしく</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">艶めく<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">べに</span><span type="rp">）</span></span>のごむ風船</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">群集の上を飛び行けり。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">今日の日曜を此所に來りて</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">われら模擬飛行機の座席に乘れど</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">側へに思惟するものは寂しきなり。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">なになれば君が<span type="ruby"><span type="rb">瞳孔</span><span type="rp">（</span><span type="rt">ひとみ</span><span type="rp">）</span></span>に</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">やさしき憂愁をたたへ給ふか。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">座席に肩を寄りそひて</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;"><span type="ruby"><span type="rb">接吻</span><span type="rp">（</span><span type="rt">きす</span><span type="rp">）</span></span>するみ手を借したまへや。</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">見よこの飛翔する空の向うに</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一つの地平は高く揚り　また傾き　低く沈み行かんとす。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">暮春に迫る落日の前</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">われら既にこれを見たり</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いかんぞ人生を展開せざらむ。</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">今日の果敢なき憂愁を捨て</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">飛べよかし！　飛べよかし！</span>
+<lb />
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">明るき四月の外光の中</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">嬉嬉たる群集の中に混りて</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">ふたり模擬飛行機の座席に乘れど</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">君の<span type="ruby"><span type="rb">圓舞曲</span><span type="rp">（</span><span type="rt">わるつ</span><span type="rp">）</span></span>は遠くして</span>
+<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">側へに思惟するものは寂しきなり。</span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">乃木坂倶樂部</span></span></span>
+<lb />
+十二月また來れり。<lb />
+なんぞこの冬の寒きや。<lb />
+去年はアパートの五階に住み<lb />
+荒漠たる洋室の中<lb />
+壁に<span type="ruby"><span type="rb">寢臺</span><span type="rp">（</span><span type="rt">べつと</span><span type="rp">）</span></span>を寄せてさびしく眠れり。<lb />
+わが思惟するものは何ぞや<lb />
+すでに人生の虚妄に疲れて<lb />
+今も尚家畜の如くに飢ゑたるかな。<lb />
+我れは何物をも喪失せず<lb />
+また一切を失ひ盡せり。<lb />
+いかなれば追はるる如く<lb />
+歳暮の忙がしき街を憂ひ迷ひて<lb />
+晝もなほ酒場の椅子に醉はむとするぞ。<lb />
+虚空を翔け行く鳥の如く<lb />
+情緒もまた久しき過去に消え去るべし。<lb />
+<lb />
+十二月また來れり<lb />
+なんぞこの冬の寒きや。<lb />
+訪ふものは<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">どあ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>つくし<lb />
+われの懶惰を見て憐れみ去れども<lb />
+石炭もなく煖爐もなく<lb />
+白堊の荒漠たる洋室の中<lb />
+我れひとり<span type="ruby"><span type="rb">寢臺</span><span type="rp">（</span><span type="rt">べつと</span><span type="rp">）</span></span>に醒めて<lb />
+<span type="ruby"><span type="rb">白晝</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>もなほ熊の如くに眠れるなり。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">殺せかし！　殺せかし！</span></span></span>
+<lb />
+いかなればかくも氣高く<lb />
+優しく　麗はしく　<span type="ruby"><span type="rb">香</span><span type="rp">（</span><span type="rt">かぐ</span><span type="rp">）</span></span>はしく<lb />
+すべてを越えて君のみが匂ひたまふぞ。<lb />
+我れは醜き<span type="ruby"><span type="rb">獸</span><span type="rp">（</span><span type="rt">けもの</span><span type="rp">）</span></span>にして<lb />
+いかでみ情の數にも足らむ。<lb />
+もとより我れは奴隷なり　家畜なり<lb />
+君がみ足の下に腹這ひ　犬の如くに仕へまつらむ。<lb />
+願くは我れを蹈みつけ<lb />
+侮辱し<lb />
+<span type="ruby"><span type="rb">唾</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>を吐きかけ<lb />
+また床の上に蹴り<lb />
+きびしく苛責し<lb />
+ああ　遂に――<lb />
+わが息の根の止まる時までも。<lb />
+<lb />
+我れはもとより家畜なり　奴隷なり<lb />
+悲しき忍從に耐へむより<lb />
+はや君の鞭の手をあげ殺せかし。<lb />
+打ち殺せかし！　打ち殺せかし！<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">歸郷</span></span></span>
+<span rend="jisage_7" rendition="div" style="margin-left: 7em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+<span rend="jizume_17" rendition="div" style="width: 17em">
+昭和四年の冬、妻と離別し二兒を抱へて故郷に歸る<lb />
+</span>
+</span>
+</span>
+<lb />
+わが故郷に歸れる日<lb />
+汽車は烈風の中を突き行けり。<lb />
+ひとり車窓に目醒むれば<lb />
+汽笛は闇に吠え叫び<lb />
+<span type="ruby"><span type="rb">火焔</span><span type="rp">（</span><span type="rt">ほのほ</span><span type="rp">）</span></span>は平野を明るくせり。<lb />
+まだ上州の山は見えずや。<lb />
+夜汽車の仄暗き車燈の影に<lb />
+母なき子供等は眠り泣き<lb />
+ひそかに皆わが憂愁を<span type="ruby"><span type="rb">探</span><span type="rp">（</span><span type="rt">さぐ</span><span type="rp">）</span></span>れるなり。<lb />
+嗚呼また都を逃れ來て<lb />
+<span type="ruby"><span type="rb">何所</span><span type="rp">（</span><span type="rt">いづこ</span><span type="rp">）</span></span>の家郷に行かむとするぞ。<lb />
+過去は寂寥の谷に連なり<lb />
+未來は絶望の岸に向へり。<lb />
+<span type="ruby"><span type="rb">砂礫</span><span type="rp">（</span><span type="rt">されき</span><span type="rp">）</span></span>のごとき人生かな！<lb />
+われ既に勇氣おとろへ<lb />
+暗憺として<span type="ruby"><span type="rb">長</span><span type="rp">（</span><span type="rt">とこし</span><span type="rp">）</span></span>なへに生きるに倦みたり。<lb />
+いかんぞ故郷に獨り歸り<lb />
+さびしくまた利根川の岸に立たんや。<lb />
+汽車は曠野を走り行き<lb />
+自然の荒寥たる意志の彼岸に<lb />
+人の<span type="ruby"><span type="rb">憤怒</span><span type="rp">（</span><span type="rt">いきどほり</span><span type="rp">）</span></span>を烈しくせり。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">波宜亭</span></span></span>
+<lb />
+少年の日は物に感ぜしや<lb />
+われは<span type="ruby"><span type="rb">波宜</span><span type="rp">（</span><span type="rt">はぎ</span><span type="rp">）</span></span>亭の二階によりて<lb />
+かなしき情感の思ひにしづめり。<lb />
+その亭の庭にも草木茂み<lb />
+風ふき渡りてばうばうたれども<lb />
+かのふるき待たれびとありやなしや。<lb />
+いにしへの日には鉛筆もて<lb />
+<span type="ruby"><span type="rb">欄干</span><span type="rp">（</span><span type="rt">おばしま</span><span type="rp">）</span></span>にさへ記せし名なり。<lb />
+<span rend="jisage_12" rendition="div" style="margin-left: 12em"><span rend="sho1" style="font-size: small;">――郷土望景詩――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">家庭</span></span></span>
+<lb />
+古き家の中に坐りて<lb />
+互に<span type="ruby"><span type="rb">默</span><span type="rp">（</span><span type="rt">もだ</span><span type="rp">）</span></span>しつつ語り合へり。<lb />
+仇敵に非ず<lb />
+債鬼に非ず<lb />
+「見よ！　われは汝の妻<lb />
+死ぬるとも尚離れざるべし。」<lb />
+<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>は意地惡しく　復讐に燃え　憎憎しげに刺し貫ぬく。<lb />
+古き家の中に坐りて<lb />
+脱るべき<span type="ruby"><span type="rb">術</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>もあらじかし。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">珈琲店　醉月</span></span></span>
+<lb />
+坂を登らんとして渇きに耐へず<lb />
+蹌踉として醉月の<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">どあ</span><span type="rp">）</span></span>を開けば<lb />
+狼藉たる店の中より<lb />
+破れしレコードは鳴り響き<lb />
+場末の煤ぼけたる電氣の影に<lb />
+貧しき酒瓶の列を立てたり。<lb />
+ああ　この暗愁も久しいかな！<lb />
+我れまさに年老いて家郷なく<lb />
+妻子離散して孤獨なり<lb />
+いかんぞまた漂泊の悔を知らむ。<lb />
+女等群がりて卓を圍み<lb />
+我れの醉態を見て憫みしが<lb />
+たちまち罵りて財布を奪ひ<lb />
+殘りなく<span type="ruby"><span type="rb">錢</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>を數へて盜み去れり。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">新年</span></span></span>
+<lb />
+新年來り<lb />
+門松は白く光れり。<lb />
+道路みな霜に凍りて<lb />
+冬の凜烈たる寒氣の中<lb />
+地球はその週暦を新たにするか。<lb />
+われは尚悔いて恨みず<lb />
+百<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>もまた昨日の彈劾を新たにせむ。<lb />
+いかなれば虚無の時空に<lb />
+新しき辨證の非有を知らんや。<lb />
+わが感情は飢ゑて叫び<lb />
+わが生活は荒寥たる山野に住めり。<lb />
+いかんぞ暦數の囘歸を知らむ<lb />
+見よ！　人生は過失なり。<lb />
+今日の思惟するものを斷絶して<lb />
+百<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>もなほ昨日の悔恨を新たにせん。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">晩秋</span></span></span>
+<lb />
+汽車は高架を走り行き<lb />
+思ひは<span type="ruby"><span type="rb">陽</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>ざしの影をさまよふ。<lb />
+靜かに心を顧みて<lb />
+滿たさるなきに驚けり。<lb />
+<span type="ruby"><span type="rb">巷</span><span type="rp">（</span><span type="rt">ちまた</span><span type="rp">）</span></span>に秋の夕日散り<lb />
+鋪道に車馬は行き交へども<lb />
+わが人生は有りや無しや。<lb />
+煤煙くもる裏街の<lb />
+貧しき家の窓にさへ<lb />
+<span type="ruby"><span type="rb">斑黄葵</span><span type="rp">（</span><span type="rt">むらきあふひ</span><span type="rp">）</span></span>の花は咲きたり。<lb />
+<span rend="jisage_11" rendition="div" style="margin-left: 11em"><span rend="sho1" style="font-size: small;">――朗吟のために――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">品川沖觀艦式</span></span></span>
+<lb />
+低き灰色の空の下に<lb />
+軍艦の列は横はれり。<lb />
+暗憺として錨をおろし<lb />
+みな重砲の城の如く<lb />
+無言に沈鬱して見ゆるかな。<lb />
+<lb />
+曇天暗く<lb />
+埠頭に觀衆の群も散りたり。<lb />
+しだいに暮れゆく海波の上<lb />
+既に分列の任務を終へて<lb />
+<span type="ruby"><span type="rb">艦</span><span type="rp">（</span><span type="rt">ふね</span><span type="rp">）</span></span>等みな歸港の情に渇けるなり。<lb />
+<lb />
+冬の日沖に荒れむとして<lb />
+浪は舷側に凍り泣き<lb />
+錆は鐵板に食ひつけども<lb />
+軍艦の列は動かんとせず<lb />
+蒼茫たる海洋の上<lb />
+彼等の叫び、渇き、熱意するものを強く持せり。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">火</span></span></span>
+<lb />
+赤く燃える火を見たり<lb />
+<span type="ruby"><span type="rb">獸類</span><span type="rp">（</span><span type="rt">けもの</span><span type="rp">）</span></span>の如く<lb />
+汝は沈默して言はざるかな。<lb />
+<lb />
+夕べの靜かなる都會の空に<lb />
+炎は美しく燃え出づる<lb />
+たちまち流れはひろがり行き<lb />
+瞬時に一切を亡ぼし盡せり。<lb />
+資産も、工場も、大建築も<lb />
+希望も、榮譽も、富貴も、野心も<lb />
+すべての一切を燒き盡せり。<lb />
+<lb />
+火よ<lb />
+いかなれば<span type="ruby"><span type="rb">獸類</span><span type="rp">（</span><span type="rt">けもの</span><span type="rp">）</span></span>の如く<lb />
+汝は沈默して言はざるかな。<lb />
+さびしき憂愁に閉されつつ<lb />
+かくも靜かなる薄暮の空に<lb />
+汝は熱情を思ひ盡せり。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140"><span type="ruby"><span type="rb">地下鐵道</span><span type="rp">（</span><span type="rt">さぶうえい</span><span type="rp">）</span></span>にて</span></span></span>
+<lb />
+ひとり來りて<span type="ruby"><span type="rb">地下鐵道</span><span type="rp">（</span><span type="rt">さぶうえい</span><span type="rp">）</span></span>の<lb />
+青き<span type="ruby"><span type="rb">歩廊</span><span type="rp">（</span><span type="rt">ほうむ</span><span type="rp">）</span></span>をさまよひつ<lb />
+君待ちかねて悲しめど<lb />
+君が夢には無きものを<lb />
+なに<span type="ruby"><span type="rb">幻影</span><span type="rp">（</span><span type="rt">まぼろし</span><span type="rp">）</span></span>の後尾燈<lb />
+<span type="ruby"><span type="rb">空洞</span><span type="rp">（</span><span type="rt">うつろ</span><span type="rp">）</span></span>に暗きトンネルの<lb />
+壁に映りて消え行けり。<lb />
+壁に映りて過ぎ行けり。<lb />
+<lb />
+<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<span rend="sho1" rendition="div" style="font-size: small;">
+<span rend="jizume_22" rendition="div" style="width: 22em">
+「なに<span type="ruby"><span type="rb">幻影</span><span type="rp">（</span><span type="rt">まぼろし</span><span type="rp">）</span></span>の後尾燈」「なに<span type="ruby"><span type="rb">幻影</span><span type="rp">（</span><span type="rt">まぼろし</span><span type="rp">）</span></span>の戀人を」に通ず。掛ケ詞。<lb />
+</span>
+</span>
+</span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">小出新道</span></span></span>
+<lb />
+ここに道路の新開せるは<lb />
+直として市街に通ずるならん。<lb />
+われこの新道の交路に立てど<lb />
+さびしき<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">よも</span><span type="rp">）</span></span>の地平をきはめず<lb />
+暗鬱なる日かな<lb />
+天日家竝の軒に低くして<lb />
+林の雜木まばらに伐られたり。<lb />
+いかんぞ　いかんぞ思惟をかへさん<lb />
+われの叛きて行かざる道に<lb />
+新しき樹木みな伐られたり。<lb />
+<span rend="jisage_13" rendition="div" style="margin-left: 13em"><span rend="sho1" style="font-size: small;">――郷土望景詩――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">告別</span></span></span>
+<lb />
+汽車は出發せんと欲し<lb />
+<span type="ruby"><span type="rb">汽罐</span><span type="rp">（</span><span type="rt">かま</span><span type="rp">）</span></span>に石炭は積まれたり。<lb />
+いま遠き<span type="ruby"><span type="rb">信號燈</span><span type="rp">（</span><span type="rt">しぐなる</span><span type="rp">）</span></span>と鐵路の向うへ<lb />
+汽車は國境を越え行かんとす。<lb />
+人のいかなる愛着もて<lb />
+かくも機關車の火力されたる<lb />
+烈しき熱情をなだめ得んや。<lb />
+驛路に見送る人人よ<lb />
+悲しみの底に齒がみしつつ<lb />
+告別の傷みに破る勿れ。<lb />
+汽車は出發せんと欲して<lb />
+すさまじく蒸氣を噴き出し<lb />
+裂けたる如くに吠え叫び<lb />
+汽笛を鳴らし吹き鳴らせり。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi170">動物園にて</span></span></span>
+<lb />
+灼きつく如く寂しさ迫り<lb />
+ひとり來りて園内の木立を行けば<lb />
+枯葉みな地に落ち<lb />
+猛獸は檻の中に憂ひ眠れり。<lb />
+彼等みな忍從して<lb />
+人の投げあたへる肉を食らひ<lb />
+本能の蒼き<span type="ruby"><span type="rb">瞳孔</span><span type="rp">（</span><span type="rt">ひとみ</span><span type="rp">）</span></span>に<lb />
+鐵鎖のつながれたる惱みをたへたり。<lb />
+暗鬱なる日かな！<lb />
+わがこの園内に來れることは<lb />
+彼等の動物を見るに非ず<lb />
+われは心の檻に閉ぢられたる<lb />
+飢餓の苦しみを忍び怒れり。<lb />
+百たびも牙を鳴らして<lb />
+われの欲情するものを噛みつきつつ<lb />
+さびしき復讐を戰ひしかな！<lb />
+いま秋の日は暮れ行かむとし<lb />
+風は人氣なき小徑に散らばひ吹けど<lb />
+ああ我れは尚鳥の如く<lb />
+無限の寂寥をも飛ばざるべし。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi180">中學の校庭</span></span></span>
+<lb />
+われの中學にありたる日は<lb />
+艶めく情熱になやみたり。<lb />
+怒りて書物を投げすて<lb />
+ひとり校庭の草に寢ころび居しが<lb />
+なにものの哀傷ぞ<lb />
+はるかに<span type="ruby"><span type="rb">彼</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>の青きを飛び去り<lb />
+天日直射して　熱く帽子の<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">ひさし</span><span type="rp">）</span></span>に照りぬ。<lb />
+<span rend="jisage_12" rendition="div" style="margin-left: 12em"><span rend="sho1" style="font-size: small;">――郷土望景詩――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi190">國定忠治の墓</span></span></span>
+<lb />
+わがこの村に來りし時<lb />
+上州の蠶すでに終りて<lb />
+農家みな冬の<span type="ruby"><span type="rb">閾</span><span type="rp">（</span><span type="rt">しきみ</span><span type="rp">）</span></span>を閉したり。<lb />
+太陽は埃に暗く<lb />
+<span type="ruby"><span type="rb">悽而</span><span type="rp">（</span><span type="rt">せいじ</span><span type="rp">）</span></span>たる竹藪の影<lb />
+人生の貧しき慘苦を感ずるなり。<lb />
+見よ　此處に無用の石<lb />
+路傍の笹の風に吹かれて<lb />
+<span type="ruby"><span type="rb">無頼</span><span type="rp">（</span><span type="rt">ぶらい</span><span type="rp">）</span></span>の眠りたる墓は立てり。<lb />
+<lb />
+ああ我れ故郷に低徊して<lb />
+此所に思へることは寂しきかな。<lb />
+久遠に輪<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />を斷絶するも<lb />
+ああかの荒寥たる平野の中<lb />
+日月我れを投げうつて去り<lb />
+意志するものを亡び盡せり。<lb />
+いかんぞ殘生を新たにするも<lb />
+冬の蕭條たる墓石の下に<lb />
+汝はその認識をも無用とせむ。<lb />
+<span rend="jisage_12" rendition="div" style="margin-left: 12em"><span rend="sho1" style="font-size: small;">――上州國定村にて――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">廣瀬川</span></span></span>
+<lb />
+廣瀬川白く流れたり<lb />
+時されば皆幻想は消え行かむ。<lb />
+われの<span type="ruby"><span type="rb">生涯</span><span type="rp">（</span><span type="rt">らいふ</span><span type="rp">）</span></span>を釣らんとして<lb />
+過去の日川邊に糸をたれしが<lb />
+ああかの幸福は遠きにすぎさり<lb />
+<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">ちひ</span><span type="rp">）</span></span>さき魚は<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>にもとまらず。<lb />
+<span rend="jisage_12" rendition="div" style="margin-left: 12em"><span rend="sho1" style="font-size: small;">――郷土望景詩――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">虎</span></span></span>
+<lb />
+虎なり<lb />
+曠茫として巨像の如く<lb />
+百貨店上屋階の檻に眠れど<lb />
+汝はもと機械に非ず<lb />
+牙齒もて肉を食ひ裂くとも<lb />
+いかんぞ人間の物理を知らむ。<lb />
+見よ　穹窿に煤煙ながれ<lb />
+工場區街の屋根屋根より<lb />
+悲しき汽笛は響き渡る。<lb />
+虎なり<lb />
+虎なり<lb />
+<lb />
+午後なり<lb />
+<span type="ruby"><span type="rb">廣告風船</span><span type="rp">（</span><span type="rt">ばるうむ</span><span type="rp">）</span></span>は高く揚りて<lb />
+薄暮に迫る都會の空<lb />
+高層建築の上に遠く坐りて<lb />
+汝は旗の如くに飢ゑたるかな。<lb />
+杳として眺望すれば<lb />
+街路を這ひ行く蛆蟲ども<lb />
+生きたる食餌を暗鬱にせり。<lb />
+<lb />
+虎なり<lb />
+<span type="ruby"><span type="rb">昇降機械</span><span type="rp">（</span><span type="rt">えれべえたあ</span><span type="rp">）</span></span>の往復する<lb />
+東京市中繁華の屋根に<lb />
+琥珀の<span type="ruby"><span type="rb">斑</span><span type="rp">（</span><span type="rt">まだら</span><span type="rp">）</span></span>なる毛皮をきて<lb />
+曠野の如くに寂しむもの。<lb />
+虎なり！<lb />
+ああすべて汝の殘像<lb />
+虚空のむなしき全景たり。<lb />
+<span rend="jisage_10" rendition="div" style="margin-left: 10em"><span rend="sho1" style="font-size: small;">――銀座松坂屋の屋上にて――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">無用の書物</span></span></span>
+<lb />
+蒼白の人<lb />
+路上に書物を賣れるを見たり。<lb />
+<span type="ruby"><span type="rb">肋骨</span><span type="rp">（</span><span type="rt">あばら</span><span type="rp">）</span></span>みな瘠せ<lb />
+<span type="ruby"><span type="rb">軍鷄</span><span type="rp">（</span><span type="rt">しやも</span><span type="rp">）</span></span>の如くに叫べるを聽く。<lb />
+われはもと無用の人<lb />
+これはもと無用の書物<lb />
+一錢にて人に賣るべし。<lb />
+冬近き日に袷をきて<lb />
+非有の窮乏は酢えはてたり。<lb />
+いかなれば涙を流して<lb />
+かくも黄色く古びたる<span type="ruby"><span type="rb">紙頁</span><span type="rp">（</span><span type="rt">ぺえぢ</span><span type="rp">）</span></span>の上に<lb />
+わが情熱するものを情熱しつつ<lb />
+寂しき人生を語り續けん。<lb />
+われの認識は空無にして<lb />
+われの所有は無價値に盡きたり。<lb />
+買ふものはこれを買ふべし。<lb />
+路上に行人は散らばり去り<lb />
+烈風は砂を卷けども<lb />
+わが古き感情は叫びて止まず。<lb />
+見よ！　これは無用の書物<lb />
+一錢にて人に賣るべし。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">虚無の鴉</span></span></span>
+<lb />
+我れはもと虚無の鴉<lb />
+かの高き冬至の屋根に口を開けて<lb />
+風見の如くに咆號せむ。<lb />
+季節に認識ありやなしや<lb />
+我れの持たざるものは一切なり。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">我れの持たざるものは一切なり</span></span></span>
+<lb />
+我れの持たざるものは一切なり<lb />
+いかんぞ窮乏を忍ばざらんや。<lb />
+獨り橋を渡るも<lb />
+灼きつく如く迫り<lb />
+心みな非力の怒に狂はんとす。<lb />
+ああ我れの持たざるものは一切なり<lb />
+いかんぞ乞食の如く羞爾として<lb />
+道路に落ちたるを乞ふべけんや。<lb />
+捨てよ！　捨てよ！<lb />
+汝の獲たるケチくさき名譽と希望と、<lb />
+汝の獲たる汗くさき<span type="ruby"><span type="rb">錢</span><span type="rp">（</span><span type="rt">ぜに</span><span type="rp">）</span></span>を握つて<lb />
+勢ひ猛に走り行く自動車の<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span><lb />
+枯れたる街樹の幹に叩きつけよ。<lb />
+ああすべて卑穢なるもの<lb />
+汝の非力なる人生を抹殺せよ。<lb />
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">監獄裏の林</span></span></span>
+<lb />
+監獄裏の林に入れば<lb />
+囀鳥高きにしば鳴けり。<lb />
+いかんぞ我れの思ふこと<lb />
+ひとり叛きて歩める道を<lb />
+寂しき友にも告げざらんや。<lb />
+河原に冬の枯草もえ<lb />
+重たき石を運ぶ囚人等<lb />
+みな憎さげに我れを見て過ぎ行けり。<lb />
+暗鬱なる思想かな<lb />
+われの破れたる服を裂きすて<lb />
+<span type="ruby"><span type="rb">獸類</span><span type="rp">（</span><span type="rt">けもの</span><span type="rp">）</span></span>のごとくに悲しまむ。<lb />
+ああ季節に遲く<lb />
+上州の空の烈風に寒きは何ぞや。<lb />
+まばらに殘る林の中に<lb />
+看守の居て<lb />
+劍<span type="ruby"><span type="rb">柄</span><span type="rp">（</span><span type="rt">づか</span><span type="rp">）</span></span>の低く鳴るを聽けり。<lb />
+<span rend="jisage_12" rendition="div" style="margin-left: 12em"><span rend="sho1" style="font-size: small;">――郷土望景詩――</span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">昨日にまさる戀しさの</span></span></span>
+<lb />
+昨日にまさる戀しさの<lb />
+湧きくる如く高まるを<lb />
+忍びてこらへ何時までか<lb />
+惱みに生くるものならむ。<lb />
+もとより君はかぐはしく<lb />
+<span type="ruby"><span type="rb">阿艶</span><span type="rp">（</span><span type="rt">あで</span><span type="rp">）</span></span>に匂へる花なれば<lb />
+わが世に一つ殘されし<lb />
+生死の果の情熱の<lb />
+戀さへそれと知らざらむ。<lb />
+空しく君を望み見て<lb />
+百たび胸を焦すより<lb />
+死なば死ねかし感情の<lb />
+かくも苦しき日の暮れを<lb />
+鐵路の道に迷ひ來て<lb />
+破れむまでに嘆くかな<lb />
+破れむまでに嘆くかな。<lb />
+<span rend="jisage_10" rendition="div" style="margin-left: 10em"><span rend="sho1" style="font-size: small;">――朗吟調小曲――</span></span>
+<span rend="notes">［＃改ページ］</span><lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">詩篇小解</span></span></span>
+<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi271">漂泊者の歌</span></span>（序詩）　　斷崖に沿うて、陸橋の下を歩み行く人。そは我が永遠の姿。寂しき漂泊者の影なり。卷頭に掲げて序詩となす。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi272">歸郷</span></span>　　昭和四年。妻は二兒を殘して家を去り、杳として行方を知らず。我れ獨り後に殘り、蹌踉として父の居る上州の故郷に歸る。上野發七時十分、小山行高崎<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />り。夜汽車の暗爾たる車燈の影に、長女は疲れて眠り、次女は醒めて夢に歔欷す。聲最も悲しく、わが心すべて斷腸せり。既にして家に歸れば、父の病とみに重く、萬景悉く蕭條たり。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi273">乃木坂倶樂部</span></span>　　乃木坂倶樂部は麻布一聯隊の附近、坂を登る崖上にあり。我れ非情の妻と別れてより、二兒を家郷の母に托し、暫くこのアパートメントに寓す。連日荒妄し、懶惰最も極めたり。<span type="ruby"><span type="rb">白晝</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>はベツトに寢ねて寒さに悲しみ、夜は遲く起きて徘徊す。稀れに訪ふ人あれども應へず、<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">どあ</span><span type="rp">）</span></span>に固く鍵を閉せり。我が知れる悲しき職業の女等、ひそかに我が孤窶を憫む如く、時に來りて部屋を掃除し、漸く衣類を整頓せり。一日辻潤來り、わが生活の荒蕪を見て唖然とせしが、忽ち顧みて大に笑ひ、共に酒を汲んで長嘆す。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi274">品川沖觀艦式</span></span>　　昭和四年一月、品川沖に觀艦式を見る。時薄暮に迫り、分列の式既に終りて、觀衆は皆散りたれども、灰色の悲しき軍艦等、尚錨をおろして海上にあり。彼等みな軍務を終りて、歸港の情に渇ける如し。我れ既に生活して、長く既に疲れたれども、軍務の歸すべき港を知らず。暗憺として碇泊し、心みな錆びて牡蠣に食はれたり。いかんぞ風景を見て傷心せざらん。鬱然として怒に耐へず、遠く沖に向て叫び、我が意志の烈しき渇きに苦しめり。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi275">珈琲店　醉月</span></span>　　醉月の如き珈琲店は、行くところの侘しき場末に實在すべし。我れの如き悲しき痴漢、老いて人生の家郷を知らず、醉うて巷路に徘徊するもの、何所にまた有りや無しや。坂を登らんと欲して、我が心は常に渇きに耐へざるなり。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi276">新年</span></span>　　新年來り、新年去り、地球は百度<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />轉すれども、宇宙に新しきものあることなし。年年歳歳、我れは昨日の悔恨を繰返して、しかも自ら悔恨せず。よし人生は過失なるも、我が欲情するものは過失に非ず。いかんぞ一切を彈劾するも、昨日の悔恨を悔恨せん。新年來り、百度過失を新たにするも、我れは尚悲壯に耐へ、決して、決して、悔いざるべし。昭和七年一月一日。これを新しき日記に書す。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi277">火</span></span>　　我が心の求めるものは、常に靜かなる情緒なり。かくも優しく、美しく、靜かに、靜かに、燃えあがり、音樂の如く流れひろがり、意志の烈しき惱みを知るもの。火よ！　汝の優しき音樂もて、我れの夕べの臥床の中に、眠りの戀歌を唄へよかし。我れの求めるものは情緒なり。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi278">國定忠治の墓</span></span>　　昭和五年の冬、父の病を看護して故郷にあり。人事みな落魄して、心烈しき飢餓に耐へず。ひそかに家を脱して自轉車に乘り、烈風の砂礫を突いて國定村に至る。忠治の墓は、荒寥たる寒村の路傍にあり。一塊の土塚、暗き竹藪の影にふるへて、冬の日の天日暗く、無頼の悲しき生涯を忍ぶに耐へたり。我れ此所を低徊して、始めて更らに上州の蕭殺たる自然を知れり。路傍に倨して詩を作る。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi279">監獄裏の林</span></span>　　前橋監獄は、利根川に望む崖上にあり。赤き煉瓦の長壘、夢の如くに遠く連なり、地平に落日の影を曳きたり。中央に望樓ありて、悲しく<span type="ruby"><span type="rb">四方</span><span type="rp">（</span><span type="rt">よも</span><span type="rp">）</span></span>を眺望しつつ、常に囚人の監視に具ふ。<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>に楢の林を負ひ、周圍みな平野の麥畠に圍まれたり。我れ少年の日は、常に麥笛を鳴らして此所を過ぎ、長き煉瓦の塀を<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />りて、果なき憂愁にさびしみしが、崖を下りて河原に立てば、冬枯れの木立の中に、悲しき懲役の人人、看守に引かれて石を運び、利根川の淺き川瀬を速くせり。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">戀愛詩四篇</span></span>　　「遊園地にて」「殺せかし！　殺せかし！」「地下鐵道にて」「昨日にまさる戀しさの」等凡て昭和五――七年の作。今は既に破き棄てたる、日記の果敢なきエピソードなり。我れの如き極地の人、氷島の上に獨り住み居て、そもそも何の愛戀ぞや。過去は恥多く悔多し。これもまた北極の長夜に見たる、侘しき<span type="ruby"><span type="rb">極光</span><span type="rp">（</span><span type="rt">おーろら</span><span type="rp">）</span></span>の幻燈なるべし。</span>
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="dogyo-ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi281">郷土望景詩</span></span>（再録）　　郷土望景詩五篇、中「監獄裏の林」を除き、すべて前の詩集より再録す。「波宜亭」「小出新道」「廣瀬川」等、皆我が故郷上州前橋市にあり。我れ少年の日より、常にその河邊を逍遙し、その街路を行き、その小旗亭の庭に遊べり。蒼茫として歳月過ぎ、廣瀬川今も白く流れたれども、わが生の無爲を救ふべからず。今はた無恥の詩集を刊して、再度世の笑ひを招かんとす。稿して此所に筆を終り、いかんぞ自ら懺死せざらむ。</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>赤ひげ診療譚</title>
+        <author>山本周五郎</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2018-12-24">作成</resp><resp /><note>
+<lb />
+底本：「山本周五郎全集第十一巻　赤ひげ診療譚・五瓣の椿」新潮社<lb />
+　　　1981（昭和56）年10月25日発行<lb />
+初出：「オール読物」<lb />
+　　　1958（昭和33）年12月<lb />
+入力：特定非営利活動法人はるかぜ<lb />
+校正：北川松生<lb />
+<date when="2018-12-24">2018年12月24日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>特定非営利活動法人はるかぜ</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>北川松生</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>赤ひげ診療譚</title><author>山本周五郎</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+<lb />
+　十二月二十日に、<span type="ruby"><span type="rb">黄鶴堂</span><span type="rp">（</span><span type="rt">おうかくどう</span><span type="rp">）</span></span>から薬の納入があったので、二十一日は朝からその仕分けにいそがしく、去定も外診を休んで指図に当った。保本登は<span type="ruby"><span type="rb">麹町</span><span type="rp">（</span><span type="rt">こうじまち</span><span type="rp">）</span></span>の家へゆく約束があり、去定から三度ばかり注意されたが、自分が出かけると、あとは去定と森半太夫の二人になってしまうため、なま返辞をするだけで、そのまま仕分けを続けていた。<lb />
+　午後二時の茶のとき、登は半太夫と<span type="ruby"><span type="rb">食堂</span><span type="rp">（</span><span type="rt">じきどう</span><span type="rp">）</span></span>へゆき、いっしょに茶と菓子を食べた。そのとき半太夫はお<span rend="sesame_dot" rendition="em">ゆみ</span>という狂女が危篤で、「もう十日とはもつまい」と告げた。いちじは気の狂う時間が短くなったが、ちかごろそれが逆になり、正気でいるときのほうが少なく、食欲も減退するかと思うと異常に<span type="ruby"><span type="rb">昂進</span><span type="rp">（</span><span type="rt">こうしん</span><span type="rp">）</span></span>したりする。不眠が続き、発作が起こると暴れまわって、躯じゅうになま傷が絶えない。いつか<span type="ruby"><span type="rb">縊死</span><span type="rp">（</span><span type="rt">いし</span><span type="rp">）</span></span>をしようとしたが、それから眼に見えて衰弱し、いまでは食事もとらず、意識もしだいに<span type="ruby"><span type="rb">溷濁</span><span type="rp">（</span><span type="rt">こんだく</span><span type="rp">）</span></span>するばかりである、というようなことであった。<lb />
+「父親というのが来たよ、昨日だったが」と半太夫は云った、「五十ばかりの痩せた、温厚そうな人だった、住所はやはり隠していたがね、――保本は先生から聞かなかったか」<lb />
+　登は頭を横に振った。<lb />
+「ではいまでも先生だけしか知らないんだ」と半太夫は云った、「おれが会った感じでは、相当な大商人の、それも隠居といった人柄で、娘の話になると始めから終りまで涙をこぼしていた」<lb />
+　お<span rend="sesame_dot" rendition="em">ゆみ</span>が狂った原因は、一人の手代のいたずらによるものだ。<span type="ruby"><span type="rb">躰質</span><span type="rp">（</span><span type="rt">たいしつ</span><span type="rp">）</span></span>もそうだったかもしれないが、三十男のその手代は、九つという幼ないお<span rend="sesame_dot" rendition="em">ゆみ</span>にいたずらをし、「人に告げると殺してしまう」と<span type="ruby"><span type="rb">威</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>した。そんなことがあったとは知らず、ほかに不始末をしていたので、その手代は暇をだした。ずっと経って、お<span rend="sesame_dot" rendition="em">ゆみ</span>に婿がきまり、その縁組が破談になったあと、お<span rend="sesame_dot" rendition="em">ゆみ</span>のようすがおかしくなり始めたとき、初めてその事実がわかった。<lb />
+「いまでもその手代を殺してやりたいと思う、と父親は云っていた」半太夫は茶を注ぎながら、首を振った、「仮にそういう躰質だったにもせよ、その手代がそんないたずらをし、そんな威しをしなかったら、娘もこんなふうに狂いはしなかったろう、これからでも、もしその男を見つけたら、その男を殺して自分も死ぬつもりだ、そう云ってまた泣いていたよ」<lb />
+　それは間違っている、と登は心の中で云った。彼はお<span rend="sesame_dot" rendition="em">ゆみ</span>自身の口から、その身の上話を聞き、それが殆んど事実だということを<span type="ruby"><span type="rb">慥</span><span type="rp">（</span><span type="rt">たし</span><span type="rp">）</span></span>かめた。手代は病的性格だったようだし、むろん責任がないとは云えないが、男女いずれにも、幼少のころに似たような経験をすることが多い。特にお<span rend="sesame_dot" rendition="em">ゆみ</span>の場合は、母親の変死とか、縁組の破談などということが重なっている。こういう悪条件の重複にも、たいていの者は耐えぬいてゆくものだが、お<span rend="sesame_dot" rendition="em">ゆみ</span>には耐えることができなかった。要するにお<span rend="sesame_dot" rendition="em">ゆみ</span>の躰質が、色情に関しては極度に敏感であって、それを抑制すると全体の調和が狂ってしまう。原因はそこにあるので、その手代を「殺すほど憎む」ということは、親というものの偏執であろう、登はそう思うのであった。<lb />
+　薬の仕分けに戻ると、去定の姿はみえなかった。二人で仕事にかかりながら、登が訊いた。<lb />
+「あの建物のことには触れなかったか」<lb />
+「約束どおり寄付するそうだ」と半太夫が答えた、「よければ増築したうえで寄付すると云っていたよ、面白かったのは、いや、面白いと云っては悪いだろうが」半太夫はくすっと笑った、「――お杉から聞いたんだろう、猪之が談判にやって来てね」<lb />
+「談判だって」<lb />
+「あの娘が亡くなったら、お杉を伴れ戻されると心配したらしい、おれがまだ話しているところへ、ぜひ会いたいことがあると押しかけて来た、生涯浮沈の大事だと云うんだ」<lb />
+「まさかね」<lb />
+「いやそのとおり<span type="ruby"><span type="rb">凄</span><span type="rp">（</span><span type="rt">すご</span><span type="rp">）</span></span>んだんだよ」半太夫が微笑したまま云った、「つまりお杉を嫁に欲しい、自分のことは神田佐久間町の大工、藤吉という者がよく知っているから、藤吉に訊けば自分のことはわかる筈だ、お杉の一生は必ず仕合せにしてみせる、そして、なにか妙な神様みたいなようなものを引合いにだして誓っていたよ」<lb />
+「その人はどう云った」<lb />
+「たじたじだったね、お杉の親元が<span type="ruby"><span type="rb">荏原郡</span><span type="rp">（</span><span type="rt">えばらごおり</span><span type="rp">）</span></span>にある、そちらとも相談してみるが、自分には異存はない、と云っていたよ」<lb />
+　半太夫は口をつぐんで振返った。廊下で荒い足音と、女の泣き声が聞えたのである。<lb />
+「いやだ、あたいいやだ」と泣き喚きながら、廊下をこっちへ走って来た、「あたいに触らないで、放して、いやだ、いやだ」<lb />
+　登は立って廊下へ出た。すると、ちょうど出会いがしらに、一人の娘が駆けて来て、彼に<span type="ruby"><span type="rb">縋</span><span type="rp">（</span><span type="rt">すが</span><span type="rp">）</span></span>りつき、彼のうしろへ隠れた。そのとき向うから「押えていろ」と云いながら、去定が追って来、続いて四十がらみの女が、去定を押しのけるように走って来た。<lb />
+「助けて」と娘は登にしがみついたままで云った、「あたいを助けて、あたいいやだ、いやだ、いやだ」<lb />
+　側へ来た女が「お<span rend="sesame_dot" rendition="em">えい</span>」と叫び、去定がそれを<span type="ruby"><span type="rb">遮</span><span type="rp">（</span><span type="rt">さえぎ</span><span type="rp">）</span></span>って、登に、「おれの部屋へ入れろ」と云った。<lb />
+「おちつけ、大丈夫だ」と登は娘に云った、「ここには大勢いるから誰にもなんにもさせやしない、さあ、こっちへおいで」<lb />
+「気をしずめな、お<span rend="sesame_dot" rendition="em">えい</span>」と女が云った、「おまえのためにするんじゃないか、決して悪いようにするわけじゃないんだから」<lb />
+「それはあとだ」と去定が云った、「おまえさんは控えで待っておいで」<lb />
+「わたしがいてはいけないんですか」<lb />
+「娘さんには私からよく話してみる、控えで待っていなさい。<lb />
+　去定が女を止めているあいだに、登は娘を去定の部屋へ入れた。そこは薬<span type="ruby"><span type="rb">戸納</span><span type="rp">（</span><span type="rt">とだな</span><span type="rp">）</span></span>があけてあるし、<span type="ruby"><span type="rb">抽出</span><span type="rp">（</span><span type="rt">ひきだし</span><span type="rp">）</span></span>はみんな半ばまで引き出され、床板の上には袋入りの薬がいちめんに積んであるため、娘の坐る<span type="ruby"><span type="rb">円座</span><span type="rp">（</span><span type="rt">えんざ</span><span type="rp">）</span></span>をどこへ置くかに迷うくらいであった。――娘は十八か九であろう、荒い木綿縞の丈の短い綿入に、茶色の帯をしめている。髪には<span type="ruby"><span type="rb">櫛</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>が一つだけ、手も足も水仕事でひどくあれているし、<span type="ruby"><span type="rb">白粉</span><span type="rp">（</span><span type="rt">おしろい</span><span type="rp">）</span></span>けなど<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">いささ</span><span type="rp">）</span></span>かもみられない顔の赤くなった頬には、もう<span type="ruby"><span type="rb">皸</span><span type="rp">（</span><span type="rt">ひび</span><span type="rp">）</span></span>がきれていた。眼鼻だちはいいほうであるが、仮面のように無表情で、そこへ坐るとすぐ、いま泣き喚いていたことも忘れたように、にやにやとうす笑いをうかべた。<lb />
+　――白痴らしいな。<lb />
+　登は舌打ちをしたいような気持でそう思った。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<lb />
+　去定がはいってきて坐り、娘と問答を始めた。娘の名はお<span rend="sesame_dot" rendition="em">えい</span>、年は十九歳。さっきの女は母親でお<span rend="sesame_dot" rendition="em">かね</span>といい、父親は三年まえから行方知れずである。お<span rend="sesame_dot" rendition="em">えい</span>の上に姉と兄が二人、下に弟と、妹が二人いる。お<span rend="sesame_dot" rendition="em">えい</span>は十歳のときから、<span type="ruby"><span type="rb">下谷</span><span type="rp">（</span><span type="rt">したや</span><span type="rp">）</span></span>池之端仲町の「近六」という、<span type="ruby"><span type="rb">蝋燭</span><span type="rp">（</span><span type="rt">ろうそく</span><span type="rp">）</span></span>問屋に奉公していたが、妊娠したので暇を出され、いまは市谷舟河原町の親の家にいる、ということであった。――これだけのことを云うのに、お<span rend="sesame_dot" rendition="em">えい</span>は舌がよくまわらず、しばしば黙りこんだり、同じことを三度も繰り返したりした。訊かれたことに答えるのが非常に苦痛らしく、額をぬぐったり、口のまわりを手の甲で（<span type="ruby"><span type="rb">涎</span><span type="rp">（</span><span type="rt">よだれ</span><span type="rp">）</span></span>でも出ているように）<span type="ruby"><span type="rb">擦</span><span type="rp">（</span><span type="rt">こす</span><span type="rp">）</span></span>ったりした。<lb />
+　――やっぱり白痴だ、登はまたそう思った。<lb />
+　お<span rend="sesame_dot" rendition="em">えい</span>は「近六」で下女奉公をしているうちに妊娠したが、男が誰だかわからない。暇を出されて帰った家は、その日のくらしがかつかつであるし、また頭の悪い娘に子を産ませたくない。という母親の望みで、子を<span rend="sesame_dot" rendition="em">おろ</span>してくれるようにと、養生所へ頼みに来た。去定はこれまでにも、事情によってはすすんで子<span rend="sesame_dot" rendition="em">おろし</span>をした。<lb />
+　――生れた子を殺して「まびく」という、どこでもおこなわれているし、北国などでは藩で<span type="ruby"><span type="rb">布令</span><span type="rp">（</span><span type="rt">ふれ</span><span type="rp">）</span></span>を出した例もある。<lb />
+　去定はそう云うのであった。貧窮していて子の多い者、その地方の食糧事情などで、産れ放題にしておいては子を育てることができない。そういう場合には「まびく」ことが黙認されている。しかし、この世に生れて来た者を殺す、ということは<span type="ruby"><span type="rb">無慚</span><span type="rp">（</span><span type="rt">むざん</span><span type="rp">）</span></span>であり人倫に反する。必要があると認めたら、まだ胎内にあるうち、つまり「人間」にならぬまえに始末すべきである。こういう持論だったから、お<span rend="sesame_dot" rendition="em">えい</span>の子もおろすつもりだったが、それを聞かされたお<span rend="sesame_dot" rendition="em">えい</span>は、顔色を変えて「いやだ」と云い、去定や他の医員の手をすりぬけて、廊下へ逃げだしたというのであった。<lb />
+「あたい赤ちゃんを産むの」とお<span rend="sesame_dot" rendition="em">えい</span>はまどろっこい口ぶりで云い張った、「このおなかの子は、あたいの子だもの、どんなことがあったって、産んで、育てるんだ、うう、誰の世話にもならなければいいでしょ」<lb />
+「おまえが母親になれるのならいい」と去定が云った、「けれどもそれは無理だ、おまえは頭が普通ではないから、自分ひとりでさえ、これからの長い生涯を満足にやってゆくことはむずかしい、そうだろう」<lb />
+　お<span rend="sesame_dot" rendition="em">えい</span>はにっと笑い、ないしょ話をするように、去定に向かって囁いた、「先生、――あたいほんとは、ばかのまねをしているのよ」<lb />
+「よし、それはもう三度も聞いた」<lb />
+「ほんとよ、先生、ほんとだもの」とお<span rend="sesame_dot" rendition="em">えい</span>はなお云った、「奉公していて、十二のときに、土蔵へ荷入れを手伝っていたら、<span type="ruby"><span type="rb">梯子段</span><span type="rp">（</span><span type="rt">はしごだん</span><span type="rp">）</span></span>から落ちて頭や背中を打ったの、そのときあたい、ばかになったふりをしようって思ったのよ、ほんと、ほんとはばかじゃないもの、あたいちゃんと赤ちゃんを育てられますからね」<lb />
+「保本、――」と去定が振向いて云った、「<span type="ruby"><span type="rb">控所</span><span type="rp">（</span><span type="rt">ひかえじょ</span><span type="rp">）</span></span>に母親がいるから、二三日預かると云ってくれ、三日経ったらまた来るように、それまでに云い聞かせておくと云ってくれ」<lb />
+　登が控所へゆくと、お<span rend="sesame_dot" rendition="em">かね</span>が向うからとんで来、登の言葉が終るのも待たずに、じりじりした口ぶりで不平を云った。<lb />
+「どうしてそんな手間をかけるんでしょう」とお<span rend="sesame_dot" rendition="em">かね</span>は厚い唇を<span type="ruby"><span type="rb">尖</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>らせた、「もともとばかで強情なんだから、云い聞かせたってむだなんですがね」<lb />
+「本人が承知しないものはしようがない」と登は答えた、「ばかでもこけでも、子を持ちたいという女の気持に嘘はないからな」<lb />
+「じゃあ、あのばか娘にばかを産ませようというんですか」<lb />
+「三日経ったら来いということだ」<lb />
+「あたし<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>れて帰ります」とお<span rend="sesame_dot" rendition="em">かね</span>はけしきばんで云った、「ここの先生なら、困っている者の子は始末してくれる、薬礼も<span type="ruby"><span type="rb">只</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>だと聞いたから来たんです、こんなことなら少しぐらい金を遣うほうが手っ取り早く片がつくんですから、どうか娘を呼んで来て下さい」<lb />
+　登は勝手にしろと思った。しかし去定は頑として承知せず、お<span rend="sesame_dot" rendition="em">かね</span>は繰り返し「三日」と期限を切って、ようやく帰っていった。初めの哀れげな、懇願するような態度とは逆に、まるで威たけ高な、恩にきせるような口ぶりになり、頬骨の張った肉の厚い顔には、人を見さげるような色を湛えていた。<lb />
+「どういうつもりでしょう」と登は<span type="ruby"><span type="rb">忿懣</span><span type="rp">（</span><span type="rt">ふんまん</span><span type="rp">）</span></span>を抑えかねたように云った、「金を遣ってでもすぐに子の始末をすると云っていましたが、なにかわけがあるのではないでしょうか」<lb />
+「そろそろでかけたらどうだ」と去定が云った、「あとは森と二人でやるから、支度をして麹町へゆくがいい、もう三時をまわったぞ」<lb />
+　登は立ちあがった。<lb />
+　麹町の家には天野<span type="ruby"><span type="rb">源伯</span><span type="rp">（</span><span type="rt">げんぱく</span><span type="rp">）</span></span>夫妻と<span rend="sesame_dot" rendition="em">まさを</span>が来て待っていた。いまにも降りだしそうな日で、空には濃い鼠色の雲が低く垂れていたが、家の中ではまだ四時まえなのに、もうすっかり灯がいれてあった。――登はまず父の部屋へ呼ばれ、母もそこへ坐って、これから内祝言の<span type="ruby"><span type="rb">盃</span><span type="rp">（</span><span type="rt">さかずき</span><span type="rp">）</span></span>をする、ということを告げられた。登はいやだと答えた。内祝言の盃、という言葉で、また<span rend="sesame_dot" rendition="em">ちぐさ</span>とのことが頭にうかんだのである。母はすぐにそれと感づいたようすで、<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>を進めながらなにか云おうとした。けれども父の<span type="ruby"><span type="rb">良庵</span><span type="rp">（</span><span type="rt">りょうあん</span><span type="rp">）</span></span>が首を振ったので、云いかけたまま口をつぐんだ。<lb />
+「これは天野さんからの望みで、私も承知をしたことだ」と父はいつもの温厚な調子で云った、「三月には祝言をするのだから、いま内祝いの盃をしても差支えはないだろう」<lb />
+「三月に祝言をするのですから、いまそんなことをする必要はないと思います」<lb />
+「しかしこれは習慣なのだ」<lb />
+　登は返辞をせずに床の間を見た。青銅の花器に松と梅もどきが<span type="ruby"><span type="rb">活</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>けてあり、行燈の光から遠いためもあろうが、百年もまえから見馴れているように、退屈で鬱陶しく、飽き飽きした感じにみえた。<lb />
+　――松と梅もどき、いつもこれだ。<lb />
+　母はただ習慣で活け、父にはこの無神経な、繰り返しだけの退屈さがわからない。これならいっそなにも活けないほうがいいじゃないか、と登は心の中で呟いた。彼が沈黙したのを、承知したものと合点したらしい、父はさも<span type="ruby"><span type="rb">安堵</span><span type="rp">（</span><span type="rt">あんど</span><span type="rp">）</span></span>したように、「では支度をしてくれ」と母に云った。<lb />
+「これでいい」と、父は母が立っていったあとで云った、「このまえのことがあるからどうかと心配だったが、これで私もひと安心だ、今日は盃のあとで、天野さんからいい話がある筈だ」<lb />
+　登は父の顔を見た。良庵は人の好い微笑をうかべていた。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<lb />
+　それから着替えをし、客間で内祝言の盃をした。古い<span type="ruby"><span type="rb">金屏風</span><span type="rp">（</span><span type="rt">きんびょうぶ</span><span type="rp">）</span></span>をまわし、<span type="ruby"><span type="rb">緋</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">毛氈</span><span type="rp">（</span><span type="rt">もうせん</span><span type="rp">）</span></span>を敷いて、<span type="ruby"><span type="rb">燭台</span><span type="rp">（</span><span type="rt">しょくだい</span><span type="rp">）</span></span>を二基。登は<span type="ruby"><span type="rb">熨斗目麻裃</span><span type="rp">（</span><span type="rt">のしめあさがみしも</span><span type="rp">）</span></span>、<span rend="sesame_dot" rendition="em">まさを</span>は白<span type="ruby"><span type="rb">無垢</span><span type="rp">（</span><span type="rt">むく</span><span type="rp">）</span></span>に同じ打掛、髪は文金の高島田で、濃化粧をした顔は、人が違ったかと思われるほどおとなびてみえた。――良庵夫妻も、天野夫妻もむろん礼装であるが、盃台や<span type="ruby"><span type="rb">銚子</span><span type="rp">（</span><span type="rt">ちょうし</span><span type="rp">）</span></span>をはこんで来たのは、見馴れない婦人だった。<lb />
+　――仲人は出席しないのかな。<lb />
+　登はぼんやりそう思っただけであるが、<span rend="sesame_dot" rendition="em">まさを</span>との盃が作法どおりに終ると、盃台や銚子をはこんで来た婦人が、ずっと向うの<span type="ruby"><span type="rb">襖際</span><span type="rp">（</span><span type="rt">ふすまぎわ</span><span type="rp">）</span></span>に両手を突いて、「おめでとうございます」と祝いの言葉を述べた。その声がふるえてい、両手を突き頭を垂れたまま、その婦人が<span type="ruby"><span type="rb">啜</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>り泣いているのを見て、登はさっと顔をひきしめた。<lb />
+　――<span rend="sesame_dot" rendition="em">ちぐさ</span>、<span rend="sesame_dot" rendition="em">ちぐさ</span>だ。<lb />
+　彼は眼を洗われたような気持で、相手のようすを見た。彼女がひどく老けたことを、登は認めた。長崎へゆくまえに逢ったときの、色濃い<span type="ruby"><span type="rb">嬌</span><span type="rp">（</span><span type="rt">なまめか</span><span type="rp">）</span></span>しさや、<span type="ruby"><span type="rb">眩</span><span type="rp">（</span><span type="rt">まぶ</span><span type="rp">）</span></span>しいほど華やかな美貌は、殆んどあとをとどめない。眉をおとし、歯を染めているためもあろうが、男との世間を忍ぶ生活や、子を産んだことが、そのように彼女を変えた事に相違ない。極めて平凡な、どこにでもみかける世話女房、といったその姿を眺めていると、登は重い荷をおろしでもしたようにほっとし、はっきりした意味もなく「よかった」これでよかった、と心の中で云った。<lb />
+「<span rend="sesame_dot" rendition="em">ちぐさ</span>さんですね」と登は静かな声で呼びかけた、「お子さんができたと聞きましたが、お達者ですか」<lb />
+「はい」と<span rend="sesame_dot" rendition="em">ちぐさ</span>が<span type="ruby"><span type="rb">喉声</span><span type="rp">（</span><span type="rt">のどごえ</span><span type="rp">）</span></span>で低く答えた、「このあいだ無事に<span type="ruby"><span type="rb">麻疹</span><span type="rp">（</span><span type="rt">はしか</span><span type="rp">）</span></span>を済ませました」<lb />
+「そうですか」と登は云った、「おめにはかかりませんが、御主人によろしく<span type="ruby"><span type="rb">仰</span><span type="rp">（</span><span type="rt">おっ</span><span type="rp">）</span></span>しゃって下さい」<lb />
+「それでいい」と天野源伯が<span rend="sesame_dot" rendition="em">ちぐさ</span>に云った、「もうさがっておいで」<lb />
+　<span rend="sesame_dot" rendition="em">ちぐさ</span>は辞儀をして去った。<lb />
+「よく堪忍してくれた、登どの」と云って、源伯は登に目礼をした、「ばかな親だと思うだろうが、どうしてもこなたの許しが得たかった、これで私もあれに出入りさせられるし、孫を抱くこともできる、かたじけない」<lb />
+　登は会釈を返して<span rend="sesame_dot" rendition="em">まさを</span>を見た。<span rend="sesame_dot" rendition="em">まさを</span>は微笑しながら、感謝のおもいをこめたまなざしで彼をみつめた。<lb />
+　――ありがとうございました。<lb />
+　<span rend="sesame_dot" rendition="em">まさを</span>の眼はそう云っていた。こまかな感情をよくあらわす、賢そうな眼だな、と登は思った、おれは幸運だった、<span rend="sesame_dot" rendition="em">まさを</span>は決して眼に立つ美貌ではない、だが時の経つにしたがって、しだいにその美しさがあらわれるようだ。<span rend="sesame_dot" rendition="em">ちぐさ</span>の美貌は咲き誇る花の美しさであり、幹や枝は花を咲かせる役でしかなく、花が盛りを過ぎ、散ってしまうと、幹や枝のなりはひと際すがれてみえる。<span rend="sesame_dot" rendition="em">まさを</span>は花こそつつましいが、幹も枝もすくすくと伸び、成長するにしたがって本当の美しさが磨きだされる。片方を花の木とすれば、片方は<span type="ruby"><span type="rb">松柏</span><span type="rp">（</span><span type="rt">しょうはく</span><span type="rp">）</span></span>の色を変えぬ姿に比べられるだろう。これこそ一生の妻にふさわしい女だ、と登は思った。<lb />
+　保本、天野の両夫妻に盃がまわり、それが終ると、源伯が坐り直って登を見た。<lb />
+「さて、登どの」と源伯は云った、「こなたの養生所勤めも一年になるが、新出先生と話しあった結果、来年三月の期変りから、こなたは目見医にあがることになった」<lb />
+　登は訝しげな眼をした。<lb />
+「長崎遊学から帰ったとき、すぐその手配をする約束であったが」と源伯は続けた、「新出先生に事情を話して相談したところ、いちおう養生所へ引取ろう、ということになったのだ」<lb />
+　遊学している留守に、<span rend="sesame_dot" rendition="em">ちぐさ</span>という婚約者にそむかれたことは、若い登にとって相当ないたでであろう。そのまま世間に置いては、やけな気持を起こすかもしれない。むしろ養生所などの多忙で変化のある生活に当らせるほうがよい、養生所のほうでも新らしい医学が必要だ。そういうことで、登の意志も問わず、帰るなり養生所へ入れたのである、と源伯は語った。<lb />
+「私はしばしば新出先生と会い、こなたのようすを聞いていた」と源伯は云った、「先生は初めのうち、馴らすのに骨が折れそうだ、と笑っておられたが、こなたがよく立ち直り、いやな患者もすすんで治療するようになったと、いまでは先生もたいそうよろこんでおられる、私どもの無理なはからいが、結果としては<span type="ruby"><span type="rb">却</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>ってよかったと知って、われわれもこれに越すよろこびはない、よく辛抱してくれた、もういちど礼を云います」<lb />
+　登は黙って礼を返した。<lb />
+　座敷を変えて食事になった。登は源伯の言葉をすなおに聞き、すなおに受け取った。自分が立直ったのは去定のおかげである、お<span rend="sesame_dot" rendition="em">ゆみ</span>とのあやまち、いま考えても恥ずかしさで身のちぢむような、あの愚かしいあやまちは、自分がやけになったあまり、好きでもない酒に酔って、周囲の人たちに当りちらしていた、そのため危うくお<span rend="sesame_dot" rendition="em">ゆみ</span>の手にかかろうとしたのであるが、去定は小言も云わず、彼のするままにさせていたし、お<span rend="sesame_dot" rendition="em">ゆみ</span>とのあやまちから救い出したうえ、その汚辱に満ちた出来事を、（森半太夫だけはべつとして）誰にも知れないように葬ってくれた。<lb />
+　――あれが自分の立直る機会だった。<lb />
+　あの汚辱が自分を立直らせたのであり、そのときまで黙っていてくれた、去定のひろい気持が柱になったのだ、と登は思った。おれは盗みをしたことがある、友を売り、師を裏切ったこともある、と去定はいつか云った。その言葉が、現実にどれほどの意味をもっているかわからないけれども、登を立直らせた辛抱づよさや、貧しい人たちに対する、殆んど限度のない愛情を見ると、自分の犯した行為のために<span type="ruby"><span type="rb">贖罪</span><span type="rp">（</span><span type="rt">しょくざい</span><span type="rp">）</span></span>をしている、というふうにさえ感じられるのであった。<lb />
+　――罪を知らぬ者だけが人を裁く。<lb />
+　登は心の中でそう云う声を聞いた。<lb />
+　――罪を知った者は決して人を裁かない。<lb />
+　どういう事があったかは知らないが、先生は罪の暗さと重さを知っているのだ、と登は思った。食事が終ったあと、登は二人だけで話したいことがあると云って、<span rend="sesame_dot" rendition="em">まさを</span>を自分の居間へ呼んだ。<span rend="sesame_dot" rendition="em">まさを</span>は着替えをしてから来た。裾にちょっと模様のある江戸小紋の小袖に、こまかく<span type="ruby"><span type="rb">紅葉</span><span type="rp">（</span><span type="rt">もみじ</span><span type="rp">）</span></span>を織り出した帯をしめ、化粧はきれいにおとしていた。白無垢のときよりはずっと若く、いかにも健康そうな、ひき緊った頬のあたりは、<span type="ruby"><span type="rb">生毛</span><span type="rp">（</span><span type="rt">うぶげ</span><span type="rp">）</span></span>が行燈の光を吸って、熟れかけた桃の肌のように、ぼうと<span type="ruby"><span type="rb">暈</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>に包まれていた。登は<span type="ruby"><span type="rb">火桶</span><span type="rp">（</span><span type="rt">ひおけ</span><span type="rp">）</span></span>を押しやった。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">四</span></span></span>
+<lb />
+「一つだけ訊いておきたいことがある」と登は云った、「天野さんはいま、三月には目見医にあげられると云われましたね」<lb />
+「はい」と<span rend="sesame_dot" rendition="em">まさを</span>はこっくりをした。<lb />
+「私はそれが望みだった、長崎では私なりに勉強し、会得した治療法もある」と登はゆっくり続けた、「幕府の目見医にあがるかたわら、この医術で名をあげ、やがては御番医から<span type="ruby"><span type="rb">典薬頭</span><span type="rp">（</span><span type="rt">てんやくのかみ</span><span type="rp">）</span></span>にものぼるつもりだった、しかし、いまの私にはそういう望みはない」<lb />
+　<span rend="sesame_dot" rendition="em">まさを</span>は二三度またたきをし、きれいな、よく澄んだ眼で登をみつめた。<lb />
+「つづめて云えば、私は養生所に残るつもりなんだ」と登は続けた、「この考えが終生変らずにいるかどうか、自分にもまだ確信はないが、いまは栄誉や富よりも、養生所に残るほうが望ましい、これは新出先生とも相談しなければならないが、もし残るとすると、生活はかなり苦しくなるし、名声にも金にも縁が遠くなる、もちろんあなたにも貧乏に耐えてもらうことになるが、それでもいいかどうか考えてみて下さい」<lb />
+　返辞はいまでなくともよい、よく考えたうえで、正直な気持を聞かせてもらいたい、と登は云った。こまかに感情のあらわれる、大きな<span rend="sesame_dot" rendition="em">まさを</span>の眼は、まともに登をみつめたまま、ぱちぱちとまたたきをした。すると、<span type="ruby"><span type="rb">眸子</span><span type="rp">（</span><span type="rt">ひとみ</span><span type="rp">）</span></span>が水で洗ったように澄みとおり、わたくしに異存はないという意味を、はっきり答えるかのようにみえた。<lb />
+「よく考えてからです」と登は念を押すように云った、「貧乏ぐらしというものは、あなたには想像もつかないだろうと思うが、私はそれに耐えても、いまの仕事に生きがいがあると信じているのです、考えがきまったら手紙でもよこして下さい」<lb />
+「はい」と<span rend="sesame_dot" rendition="em">まさを</span>がしっかりした調子で云った、「仰しゃるように致します」<lb />
+　登は急に胸が熱くなるのを感じた。<span rend="sesame_dot" rendition="em">まさを</span>の気持はもうきまっている、考えてみるまでもないし、どんな辛抱でもする気になっている。そして、それは意志のない盲従ではなく、どういう状態にも耐えてゆこうという、積極的な肯定の上に立っているように思われた。登は心をこめて、<span rend="sesame_dot" rendition="em">まさを</span>を見まもりながら微笑した。<span rend="sesame_dot" rendition="em">まさを</span>も頬笑み返したが、眼のふちを染め、それからそっと<span type="ruby"><span type="rb">俯向</span><span type="rp">（</span><span type="rt">うつむ</span><span type="rp">）</span></span>いた。<lb />
+「大丈夫だ、あれなら大丈夫だ」<lb />
+　別れを告げて、天野の家族より先に外へ出た登は、声に出してそう呟いた。曇った夜の気温は冷えていたが、昂奮している彼にはその寒さがこころよく、力のこもった<span type="ruby"><span type="rb">大股</span><span type="rp">（</span><span type="rt">おおまた</span><span type="rp">）</span></span>で、登はいさましく歩いていった。<lb />
+　養生所へ帰るとすぐに、登は森半太夫の部屋を訪ねた。半太夫は<span rend="sesame_dot" rendition="em">まさを</span>との内祝言にはすぐ祝いを述べた。あのひとはいい妻になる、こちらから頼んでも貰うべき人だ、と半太夫は云った。しかし、養生所に残ることについては、むずかしそうだな、と首をかしげた。<lb />
+「新出先生はもうきめているようだし」と半太夫は云った、「まもなく津川が来るだろうからね」<lb />
+「津川って、――」登は半太夫を見た、「するとこのあいだ、ここでも人が要る、と云ったのは、そのことだったのか」<lb />
+「まあそうだ、津川玄三はしようのないやつだが、保本がいなくなるとすれば、津川でもいないよりましだからな」<lb />
+「おれは残る」と登は低い声で云った、「先生が出てゆけと云っても動かないつもりだ」<lb />
+　半太夫は唇の隅で微笑した。変ったな、と半太夫は思った。ここへ来た当時は、逃げだすことばかり考えていた。ふしぎはない、あたりまえの人間なら誰でもそう思うだろう。治療に来るのはいずれも<span type="ruby"><span type="rb">襤褸</span><span type="rp">（</span><span type="rt">ぼろ</span><span type="rp">）</span></span>を着た、汗と<span type="ruby"><span type="rb">垢</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>まみれの、臭くて汚ない行倒れか、それに近い貧乏人ばかりである。これらの世話だけでも手いっぱいなのに、外診の供もしなければならず、しかも給与は極めて少ない。初めに登がいやがったのが当然で、いま敢てここに残る、というほうが不自然なくらいであった。<lb />
+「なんだ」と登が云った、「どうしてそんな眼でおれを見るんだ」<lb />
+「なんでもないさ」と半太夫は答えた、「ただその話はいそがないほうがいい、機会をみて云いだすほうがいいと思うね」<lb />
+「助言してくれるか」<lb />
+「やってみよう」と半太夫が云った。<lb />
+　明くる朝、まだ暗いうちに、人の騒ぐ声で登は眼をさました。はっきりしない耳に、放してくれ、という女の叫び声と、抱き止めているらしい人声が、廊下の向うで聞えた。登はすぐに起きあがって着替えをし、部屋を出てそっちへいってみた。――廊下の掛け<span rend="sesame_dot" rendition="em">あかり</span>の灯がまだ明るく、素足で踏む板敷は氷のように冷たかった。騒いでいるのは病室の戸口のところで、登が近よってゆくと、付添に来ている女たちが四人がかりで、暴れるお<span rend="sesame_dot" rendition="em">えい</span>を押えつけているところだった。<lb />
+「静かにしろ」と登が云った、「ここには重い病人がいるんだぞ」<lb />
+　お<span rend="sesame_dot" rendition="em">えい</span>は暴れるのをやめた。<lb />
+「この人が逃げだそうとしたんです」と中年の女の一人が云った、「あたしがお<span rend="sesame_dot" rendition="em">かわ</span>を替えて戻って来ると、この人がそこの戸をあけて、外へ出ようとしていたもんですから」<lb />
+　中庭へおりる杉戸が、半ばあいているのを、女は指さしてみせた。登はその戸を閉めるとき、空がほのかに明るんでいるのを見た。<lb />
+「この娘は私が預かる」と登は女達に云った、「みんな部屋へ帰ってくれ、御苦労だった」<lb />
+　女たちは病室のほうへ去り、登はお<span rend="sesame_dot" rendition="em">えい</span>を促して自分の部屋へ伴れていった。夜具を片づけていると、森半太夫が来たので、わけを話したうえ、半太夫に残ってもらい、彼は去定のところへ相談にいった。去定はもう机に向かって書きものをしていたが、聞き終ってから筆を<span type="ruby"><span type="rb">措</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>き、暫くなにか考えていて、やがて「うん」と低く溜息をついた。<lb />
+「麹町で天野と会ったか」と去定はまったくべつのことを訊いた。<lb />
+「内祝言の盃をしました」と云って、登は話をひき戻した、「あの娘をどうしますか、逃げだそうとしたのはよほどの事情があると思うんですが」<lb />
+「あの娘は白痴ではない、自分で云うとおりばかのまねをしているんだ」去定は独り言のように呟いてから、ふと、振返って登を見た、「おまえ<span type="ruby"><span type="rb">仔細</span><span type="rp">（</span><span type="rt">しさい</span><span type="rp">）</span></span>を聞いてみるか」<lb />
+　登はちょっと<span rend="sesame_dot" rendition="em">ま</span>をおいて答えた、「森ではいかがでしょう」<lb />
+「おまえがやれ」と去定は云った、「まもなく結婚するんだろう、なにか参考になることが聞けるかもしれない、今日は外診の供を休んでいいから、自分で聞きだしてみろ」<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">五</span></span></span>
+<lb />
+　お<span rend="sesame_dot" rendition="em">えい</span>が話しだすまでに、およそ<span type="ruby"><span type="rb">二刻</span><span type="rp">（</span><span type="rt">ふたとき</span><span type="rp">）</span></span>あまりもかかった。<lb />
+　朝食も茶も、登の部屋へ取り寄せてやったが、どちらにも手を付けず、板敷へじかに坐り、壁のほうを見たまま、<span type="ruby"><span type="rb">躯</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>ぜんたいで頑強に拒否の意を示していた。十時を過ぎたので、今日はもう<span type="ruby"><span type="rb">諦</span><span type="rp">（</span><span type="rt">あきら</span><span type="rp">）</span></span>めようかと思ったとき、急にお<span rend="sesame_dot" rendition="em">えい</span>が<span type="ruby"><span type="rb">咳</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>ばらいをし、乾いた声で、殆んど<span type="ruby"><span type="rb">嘲笑</span><span type="rp">（</span><span type="rt">ちょうしょう</span><span type="rp">）</span></span>するように云った。<lb />
+「どうせぶっ毀れる車なんだから」<lb />
+　登は息をひそめた。お<span rend="sesame_dot" rendition="em">えい</span>はまた沈黙したが、やがてぐいと肩を揺りあげ、登のほうへ背を向けたまま、云った。<lb />
+「あたし赤ちゃんを産みます、誰がなんてったって産みます、あたし独りでりっぱに育ててみせますから」<lb />
+　登は黙っていた。黙っていても話し続けるだろう、と思ったからであるが、お<span rend="sesame_dot" rendition="em">えい</span>は口をつぐんでしまい、長いあいだ身動きもしなかった。それで登は、できるだけなにげない調子で問いかけた。<lb />
+「産みたいのならここで産めばいい、どうして逃げようとなんかしたんだ」<lb />
+「おっ<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>さんが来るからです」とお<span rend="sesame_dot" rendition="em">えい</span>は答えた、「こんどおっ母さんが来れば、きっと先生はこの子をおろすでしょう、だから逃げだして、よそで産もうと思ったんです」<lb />
+　登は五拍子ほど<span rend="sesame_dot" rendition="em">ま</span>をおいて訊いた、「しかし、父親なしで子を育てるのは、そうやさしいことじゃないだろう」<lb />
+「ふん」とお<span rend="sesame_dot" rendition="em">えい</span>が云った、「父親なんて、――いないほうがよっぽどましです」<lb />
+「どうして」と登が訊いた。<lb />
+　お<span rend="sesame_dot" rendition="em">えい</span>はやはり壁のほうを見たまま、無感動な調子で語りだした。<lb />
+　彼女の父は佐太郎といい、いまは行方知れずになっているが、元は芸人であった。なんの芸をやるともきまっていない、三味線が弾けて、ちょっと喉がいいくらいのものだったろう。小芝居へ出るとか、客の座敷へ呼ばれるとか、また<span rend="sesame_dot" rendition="em">ながし</span>をするといったぐあいで、稼ぎというほどのものもなかったようだし、稼いだ物を家へ入れることなどはごく稀であった。――母のお<span rend="sesame_dot" rendition="em">かね</span>とは居酒屋ででも知りあったらしく、お<span rend="sesame_dot" rendition="em">かね</span>のほうが佐太郎にのぼせていて、<span type="ruby"><span type="rb">喧嘩</span><span type="rp">（</span><span type="rt">けんか</span><span type="rp">）</span></span>の絶え間がなかった。それも生活の苦しいためではなく、佐太郎に女ができはしないか、という嫉妬がもとであった。<lb />
+　――あたしは<span type="ruby"><span type="rb">銭金</span><span type="rp">（</span><span type="rt">ぜにかね</span><span type="rp">）</span></span>のことなんか云やあしないよ、とお<span rend="sesame_dot" rendition="em">かね</span>はいつも云った。おまえさんは芸人なんだ、芸人が金に縁のないくらい初めっから承知のうえだ、あたしが云うのは女だよ、しらばっくれて、またどこかにできたんだね、そうだろう。<lb />
+　そして、殴る<span type="ruby"><span type="rb">蹴</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>るという騒ぎになるのであった。そこまで話して、お<span rend="sesame_dot" rendition="em">えい</span>は突然ぐっと振返り、登のほうへ向き直ると、眼をぎらぎらさせながら云った。<lb />
+「先生はあたいを<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>すんでしょ」<lb />
+「なにを騙すんだ」<lb />
+「こんな話をさせておいて、あたいを騙してこの子をおろすんでしょ、そうでしょ」<lb />
+「ばかなことを云うな」と登が云った、「ここはお上の養生所だ、支配は町奉行で、いつも与力が出張って来ている、こんな所で本人が望まないのに、子をおろすなどということができると思うか」<lb />
+「男なんてみんなおなじだ」お<span rend="sesame_dot" rendition="em">えい</span>は口の中で呟いた、「男さえ持たなければ、女も子供も苦労なんかしずに済むんです」<lb />
+　登は黙った。そして、お<span rend="sesame_dot" rendition="em">えい</span>はまた話しだした。<lb />
+　お<span rend="sesame_dot" rendition="em">かね</span>は佐太郎にのぼせあがっていて、彼の云うことならどんな無理でもとおした。夫婦のあいだには子供が六人あり、長女の<span rend="sesame_dot" rendition="em">りつ</span>は今年二十三、末の妹の<span rend="sesame_dot" rendition="em">すえ</span>は九つになる。そのあいだに次郎と兼次という男の子がいるが、これらはみな七歳か八歳になると稼がせられた。子守とか走り使いに出されるのだが、父と母が代る代るいって、<span type="ruby"><span type="rb">僅</span><span type="rp">（</span><span type="rt">わず</span><span type="rp">）</span></span>かな駄賃の前借りをするのである。お<span rend="sesame_dot" rendition="em">りつ</span>は十一の年、深川の芸妓屋へ奉公に出され、給銀の借りが溜ったので、十二の春に、その代償として客を取らされた。お<span rend="sesame_dot" rendition="em">りつ</span>は恐ろしさのあまり逃げ帰ったが、すると佐太郎が掛合にいき、どう話をつけたものか、こんどは本所<span type="ruby"><span type="rb">安宅</span><span type="rp">（</span><span type="rt">あたか</span><span type="rp">）</span></span>の、岡場所の一軒へ奉公にやられた。<lb />
+　――こんどは堅い女中奉公だ。<lb />
+　佐太郎はそう云ったし、初めは勝手仕事や使い走りをするだけだったが、五十日ばかりすると客を取らされ、逃げようとしたら<span type="ruby"><span type="rb">捉</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>まって、殺されると思うほど<span type="ruby"><span type="rb">折檻</span><span type="rp">（</span><span type="rt">せっかん</span><span type="rp">）</span></span>された。五十日ほどのあいだに、父と母とで十両ちかい前借をしていたのだという。<lb />
+「そのときあたしは八つで、深川の八幡前にある<span type="ruby"><span type="rb">煎餅屋</span><span type="rp">（</span><span type="rt">せんべいや</span><span type="rp">）</span></span>へ子守りにいってました」とお<span rend="sesame_dot" rendition="em">えい</span>は云った、「そして或るとき子守りをしながら、姉さんの奉公先へ訪ねていって、その話を聞いたんです」<lb />
+　兄の次郎は九つで、<span type="ruby"><span type="rb">馬喰町</span><span type="rp">（</span><span type="rt">ばくろちょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">旅籠屋</span><span type="rp">（</span><span type="rt">はたごや</span><span type="rp">）</span></span>に奉公していた。彼も前借が<span type="ruby"><span type="rb">嵩</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>むため、そこが三度めの奉公であったが、自分では一文の小遣も自由にならない、と不平を云っていた。姉の話を聞いて帰る途中、お<span rend="sesame_dot" rendition="em">えい</span>は自分もまた姉や兄と同様であること、弟の兼次は四歳、生れてまのない妹の<span rend="sesame_dot" rendition="em">はな</span>も、やがてはみんな親の<span rend="sesame_dot" rendition="em">くいもの</span>になるだろう、などということを思って、幼ないながらも胸が凍るように感じた。<lb />
+　お<span rend="sesame_dot" rendition="em">えい</span>は十歳のとき、下谷の<span type="ruby"><span type="rb">蝋燭</span><span type="rp">（</span><span type="rt">ろうそく</span><span type="rp">）</span></span>問屋へ奉公先を替えた。すると半年ほどして、姉が訪ねて来、「勤めが辛いから逃げる」と告げた。お<span rend="sesame_dot" rendition="em">りつ</span>は十四歳になっていたが、乱暴を極めた二年余の勤めで、躯はお<span rend="sesame_dot" rendition="em">えい</span>とさして違わないほど、<span type="ruby"><span type="rb">痩</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>せていて小さかった。<lb />
+　――あたしはもうこんな汚れたからだになってだめだけれど、あんたはよく考えて、ばかなめにあわないようにしなさいね。<lb />
+　別れるときに姉はそう云った。<lb />
+　どうしたら親の<span rend="sesame_dot" rendition="em">くいもの</span>にならずに済むか、お<span rend="sesame_dot" rendition="em">えい</span>はそれ以来ずっと、そのことばかり考えていた。父と母は相変らず、店へ来ては給銀を借り出していく、お<span rend="sesame_dot" rendition="em">はな</span>の下に、またお<span rend="sesame_dot" rendition="em">すえ</span>という妹が生れて、「くらしに困る」というのが母の口実であった。このままでは、自分もすぐ姉のように売られるであろう、どうしたらいいか。そう考えているうちに、ふといい思案がうかんだ。<lb />
+「お店のある池之端仲町の同じ町内に、松さんというばかがいました」とお<span rend="sesame_dot" rendition="em">えい</span>は続けた、「十七か八でしたが、口も満足にきけず、<span type="ruby"><span type="rb">洟</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">涎</span><span type="rp">（</span><span type="rt">よだれ</span><span type="rp">）</span></span>をたらしたまま、いつも町内をぶらぶらしていて、子供たちのほかには誰も構い手がないんです、あたしその松さんのことに気がつきました」<lb />
+　ばかになれば身を売られずに済む。十歳という年で、お<span rend="sesame_dot" rendition="em">えい</span>はそう心にきめた。そうして或る日、土蔵で荷入れの手伝いをしているとき、<span type="ruby"><span type="rb">梯子段</span><span type="rp">（</span><span type="rt">はしごだん</span><span type="rp">）</span></span>から落ちて頭と背中を打った。わざとではない、本当に梯子段を踏み外したので、暫くは気を失っていた。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">六</span></span></span>
+<lb />
+「気がついて、水を飲まされながら、あたしこのときだなと思いました」とお<span rend="sesame_dot" rendition="em">えい</span>は云った、「頭が割れるほど痛んでいたし、二三日は背中も曲げられませんでしたが、それといっしょに、ばかになったようなふりをし始めたんです」<lb />
+　松さんという白痴を見ているから、そのまねをすればよかった。ひっかかったのはまず医者で、原因は頭を打ったためであり、暫くすれば治るだろう、と診断した。お<span rend="sesame_dot" rendition="em">えい</span>は治るようにみせたり、もっとひどくばかになったようにふるまったりした。「近六」の主人は特にいい人でもなく、また悪い人でもなかったので、お<span rend="sesame_dot" rendition="em">えい</span>がそんなになった責任を感じる一方、役に立たなくなったので、佐太郎夫婦の前借を<span type="ruby"><span type="rb">拒</span><span type="rp">（</span><span type="rt">こば</span><span type="rp">）</span></span>み始めた。<lb />
+　――店の仕事でこんなことになったのだから、お<span rend="sesame_dot" rendition="em">えい</span>の面倒はみてもいいが、給銀のほうはもうこれ以上は出せない。<lb />
+　それで不服なら貸した分は棒引きにするから、伴れてゆくがいいと主人は云った。佐太郎は三度ばかり伴れ戻そうとしたが、お<span rend="sesame_dot" rendition="em">えい</span>は柱にかじりついて「帰るのはいやだ」と町内じゅうに聞えるほど、大声に泣き叫び、父親の手に噛みついて暴れた。<lb />
+　登は話を聞きながら、それとなくお<span rend="sesame_dot" rendition="em">えい</span>のようすを観察していた。話の筋もとおっているし、態度もごく普通であるが、言葉つきは舌ったるく、絶えまなしに、鼻の下や口のまわりを手の甲で<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>でる。まるで洟と涎がたれるのを、気にして<span type="ruby"><span type="rb">拭</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>いているという動作など、いかにも白痴そのもののようにみえた。まねをしているうちに習慣となり、すっかり身に付いてしまったのであろう、登はそう思って、人間の一心の根強さというものにおどろきを感じた。<lb />
+「あたりまえの親なら、あたしだってそんなまねはしやあしません」とお<span rend="sesame_dot" rendition="em">えい</span>は続けていった、「うちの二た親は違うんです、片っ端から子供を<span rend="sesame_dot" rendition="em">くいもの</span>にして、自分たちは仕事らしい仕事もせず、酒を飲んだり、うまい物を<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>べたり、ぶらぶら遊んでばかりいるんですから」<lb />
+　世間を見ても、貧乏世帯は似たりよったりである、子供を愛している親たちでさえ、貧乏ぐらしではどうしようもない。多かれ少なかれ子供に苦労をさせる、とお<span rend="sesame_dot" rendition="em">えい</span>は云った。ことに男がいけない、あたしは気をつけて見て来たが、男は三十ちょっと過ぎると<span rend="sesame_dot" rendition="em">ぐれ</span>だしてしまう。酒か女か<span type="ruby"><span type="rb">博奕</span><span type="rp">（</span><span type="rt">ばくち</span><span type="rp">）</span></span>、きまったように道楽を始めて、女房子をかえりみなくなる。裕福なうちのことは知らないし、貧乏人でも全部がそうとは云わないが、十人のうち八人か九人は必ずそんなふうになる。<lb />
+「男なんてものは、いつか<span type="ruby"><span type="rb">毀</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>れちまう車のようなもんです」とお<span rend="sesame_dot" rendition="em">えい</span>は云った、「毀れちゃってから荷物を背負うくらいなら、初めっから自分で背負うほうがましです」<lb />
+　だから自分は亭主は持たない、母と子と二人、下女奉公をしたって子供の一人くらいは育てられるし、母親一人なら子供に苦労をさせずに済む。あたしはこの子を産んで、りっぱに育ててみるつもりだ、とお<span rend="sesame_dot" rendition="em">えい</span>は云った。<lb />
+「すると」登が訊いた、「おまえの母親が子をおろそうと云うのは、まだおまえを<span rend="sesame_dot" rendition="em">くいもの</span>にしようというつもりなのか」<lb />
+「そうです」お<span rend="sesame_dot" rendition="em">えい</span>は頷いて、口のまわりを拭いた、「お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>っさんが三年まえにいなくなってから、やけ酒を飲みだして、妹の<span rend="sesame_dot" rendition="em">はな</span>は芸妓屋へ売るし、九つの<span rend="sesame_dot" rendition="em">すえ</span>まで売ろうとしているんです」<lb />
+「それでは、おまえのばかも<span rend="sesame_dot" rendition="em">にせもの</span>だと見ぬかれてしまったのか」<lb />
+「そうじゃありません」お<span rend="sesame_dot" rendition="em">えい</span>は強くかぶりを振った、「躯さえ満足なら、ばかなような女を却って珍らしがって、買いに来る客があるんだっていうことです」<lb />
+　登はちょっと黙っていて、「ひどいもんだな」と云った、「そんな客がいるということはひどいもんだ、そういう人間こそ、もう毀れちまった車というやつだろうな」<lb />
+「あたい、子を産ましてもらえるでしょうか」<lb />
+「念には及ばないさ」と云って、登はお<span rend="sesame_dot" rendition="em">えい</span>をためすような眼で見た、「だが、相手の男はどうなんだ」<lb />
+「どうって、なにがですか」<lb />
+「おまえは亭主を持たないと云ったが、おなかの子には男親があるんだろう」<lb />
+　お<span rend="sesame_dot" rendition="em">えい</span>はにっと微笑した、「そのことなら心配はありません、子供ができたと云ったら、それっきり姿をみせなくなりました」<lb />
+「店の者ではなかったのか」<lb />
+「どうですかね」とお<span rend="sesame_dot" rendition="em">えい</span>はあいまいに、そして<span type="ruby"><span type="rb">狡</span><span type="rp">（</span><span type="rt">ずる</span><span type="rp">）</span></span>そうに首を振った、「あたいはただ子供が欲しかったんです、ばかで子持ちなら、おっ母さんも諦めるでしょうし、これからも手を出すような男はないでしょう、――自分一人では長い一生をやってゆけないかもしれませんが、子供があれば苦労のしがいもありますからね、それでただ子供が一人欲しかっただけなんです、相手の男なんてどんな顔だったかも忘れてしまいました」<lb />
+　姉のお<span rend="sesame_dot" rendition="em">りつ</span>はいちど逃げたが、すぐに捉まってしまい、いま二十三になるが、幾たびも<span rend="sesame_dot" rendition="em">くら</span>替えをしたのち、千住の遊女屋に勤めているらしい。兄の次郎は二十歳で、どこかの土方部屋にころげこみ、すっかり悪くなっているという。十五になる弟の兼次や、二人の妹のことも気になるが、自分は生れて来る子と、自分の一生を守りとおすつもりだし、それで精いっぱいである、とお<span rend="sesame_dot" rendition="em">えい</span>は話をむすんだ。<lb />
+「よくわかった」と登は云った、「子を産むまでここで面倒をみるから、部屋へ帰っておとなしくしておいで、いいか、逃げたりすると自分が困るばかりだぞ」<lb />
+「はい」とお<span rend="sesame_dot" rendition="em">えい</span>は頷いた、「もう決して逃げたりなんかしません」<lb />
+　登はその夜、去定が外診から帰るのを待って、お<span rend="sesame_dot" rendition="em">えい</span>のことを話した。去定は黙って聞いていたが、話し終ってもそのまま黙っているので、お<span rend="sesame_dot" rendition="em">えい</span>が子を産むまで世話をしてやってもいいだろうか、と登が訊いた。<lb />
+「子を産むまで、――」と去定は<span type="ruby"><span type="rb">訝</span><span type="rp">（</span><span type="rt">いぶか</span><span type="rp">）</span></span>しげに登を見、それからいそいで頷いた、「むろんだ、もちろんここで面倒をみてやるさ、ほかにどうしようがある」<lb />
+　登は口ごもりながら云った、「あの母親のほうが問題だと思いますが」<lb />
+「あの女にはおれから話す、娘はおちついたようすか」<lb />
+「おちついています」<lb />
+「明日にでも近六の主人に会って来てくれ」と去定が云った、「わけを話して、こちらで身二つになるまで預かるが、肥立ったらまた下女にでも使ってくれるかどうか、そこをよく聞いて来てくれ」<lb />
+　登は承知した。<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">七</span></span></span>
+<lb />
+　翌日、登は池之端仲町の「近六」へ訪ねてゆき、主人の<span type="ruby"><span type="rb">近江屋</span><span type="rp">（</span><span type="rt">おうみや</span><span type="rp">）</span></span>六兵衛と話した。お<span rend="sesame_dot" rendition="em">えい</span>がにせの白痴だということを、六兵衛はなかなか信じなかったが、下女に使うという点は承知した。<lb />
+「物置を直してそこに住まわせましょう」と六兵衛は云った、「ばかであるにせよないにせよ、お<span rend="sesame_dot" rendition="em">えい</span>はよく働くし役に立ちます、もちろん母親などは決してよせつけないつもりです」<lb />
+「そこをよく頼みます」と登は念を押した。<lb />
+　養生所へ帰ると、重傷の<span rend="sesame_dot" rendition="em">けが</span>人が運びこまれたところで、登と半太夫とは二刻あまり坐る暇もなかった。ようやく手当が終り、<span rend="sesame_dot" rendition="em">けが</span>人の容態がおちついたので、二人は<span type="ruby"><span type="rb">食堂</span><span type="rp">（</span><span type="rt">じきどう</span><span type="rp">）</span></span>へ茶を飲みにいった。するとそこへ、お<span rend="sesame_dot" rendition="em">かね</span>という女が待っている、と知らせに来た。登は眼をみはった。知らせに来たのは取次の者ではなく、津川玄三であった。<lb />
+「津川じゃないか」と登が云った。<lb />
+「覚えていてくれたとはうれしいね」と玄三は皮肉なうす笑いをみせた、「保本とはいつも入れ替りになるんだな、こんどはおれが元返りをするわけだがね」<lb />
+　登は半太夫を見た。半太夫は眉をしかめて、そっぽを向いていた。<lb />
+「あの女をどうする」と津川が訊いた。<lb />
+「新出先生が会うことになっているんだ」と登が云った、「先生が帰るまで待てと云ってもらおうか」<lb />
+「酔っているぜ」と津川が云った、「控所で喚きたてているが、いいかい」<lb />
+　登はちょっと考えてから云った、「じゃあおれが会おう、おれの部屋へ伴れて来てくれ」<lb />
+「あなたのお部屋へ、ね」と津川は<span type="ruby"><span type="rb">一揖</span><span type="rp">（</span><span type="rt">いちゆう</span><span type="rp">）</span></span>して云った、「かしこまりました、若先生」<lb />
+　半太夫はぐっと<span type="ruby"><span type="rb">拳</span><span type="rp">（</span><span type="rt">こぶし</span><span type="rp">）</span></span>をにぎった。登は去ってゆく津川を見送りながら、「気にするな」と半太夫に云った。<lb />
+「気にするなって、――」と半太夫は振返って云った、「出てゆく保本はいいだろうが、おれはあいつといっしょに」<lb />
+「ああ」と登は立ちながら手を振った、「そういきまかないでくれ、あいつはここにいやあしないよ、そのことは話したじゃないか」<lb />
+　半太夫はにぎった拳をひらき、それをまたぎゅっとにぎり緊めた。<lb />
+「だが」と半太夫は訊き返した、「それは、保本だけがきめていることだろう」<lb />
+　登は黙って頭を垂れた。こうなんだ、と彼は云いたかった。お<span rend="sesame_dot" rendition="em">えい</span>は十歳という年で、身を護る決心をした。そうしてやがて子を産むだろうが、このきびしい世間の風雪の中で、子供をりっぱに育ててみせると云っている。去定の生きかたも同様だ、見た眼に効果のあらわれることより、徒労とみられることを重ねてゆくところに、人間の希望が実るのではないか。おれは徒労とみえることに自分を<span type="ruby"><span type="rb">賭</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>ける、と去定は云った。<lb />
+　――温床でならどんな芽も育つ、氷の中ででも、芽を育てる情熱があってこそ、しんじつ生きがいがあるのではないか。<lb />
+　だが登はそうは云わなかった。<lb />
+「おれはここに残るよ」と登は答えた、「おれをここへ入れたのは<span type="ruby"><span type="rb">赤髯</span><span type="rp">（</span><span type="rt">あかひげ</span><span type="rp">）</span></span>先生だからな、その責任は先生にとってもらうよ」<lb />
+　そして彼は<span type="ruby"><span type="rb">食堂</span><span type="rp">（</span><span type="rt">じきどう</span><span type="rp">）</span></span>を出た。<lb />
+　自分の部屋へいってみると、津川玄三がお<span rend="sesame_dot" rendition="em">かね</span>と話していた。話すというよりもからかっていたらしい。お<span rend="sesame_dot" rendition="em">かね</span>が躯をぐらぐらさせながら、大きな声でみだらな話をしてい、津川が露骨な口ぶりで<span type="ruby"><span type="rb">相槌</span><span type="rp">（</span><span type="rt">あいづち</span><span type="rp">）</span></span>を打っていた。<lb />
+「ああ、おまえさんだ」とお<span rend="sesame_dot" rendition="em">かね</span>は登を見て云った、「あたしゃその顔を覚えてるよ、なんだいいけ好かない、こっちの先生のほうがよっぽどましじゃないか、澄ますんじゃないよ」<lb />
+　登は黙って机の前に坐った。<lb />
+「ではこれで」と津川が立ちあがった、「私の役は済んだようですから失礼します、よろしいでしょうか、若先生」<lb />
+　登は眼も向けず黙ってい、津川玄三は出ていった。お<span rend="sesame_dot" rendition="em">かね</span>はひどく酔っているようすで、坐り直そうとすると、膝が割れ、<span type="ruby"><span type="rb">水浅黄</span><span type="rp">（</span><span type="rt">みずあさぎ</span><span type="rp">）</span></span>の下の物があらわになった。<lb />
+「あのばか娘のことはどうきまったんですか」とお<span rend="sesame_dot" rendition="em">かね</span>が云った、「論のあることじゃあない、おろして下さるんでしょうね」<lb />
+「娘は産みたいと云っている」<lb />
+「ばかばかしい」お<span rend="sesame_dot" rendition="em">かね</span>は<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>の巣でも払いのけるような手まねをした、「養生所の先生ともある人が、あんなばか者の云うことをまに受ける筈はないでしょ、手っ取り早く片をつけて下さい、こっちはそこらのお大尽と違って、そう<span type="ruby"><span type="rb">暢気</span><span type="rp">（</span><span type="rt">のんき</span><span type="rp">）</span></span>なまねはしちゃあいられないんですから」<lb />
+「それは諦めたほうがいい」と登は怒りを抑えて云った、「娘は子を産むと云っているし、私たちも産ませるつもりだ、あの娘を<span rend="sesame_dot" rendition="em">くいもの</span>にすることは諦めるほうがいい」<lb />
+　云ってしまってから、言葉が過ぎた、と登は思った。お<span rend="sesame_dot" rendition="em">かね</span>は<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>となった。酔いのためにたるんでいた顔が、まるで<span type="ruby"><span type="rb">紐</span><span type="rp">（</span><span type="rt">ひも</span><span type="rp">）</span></span>でも緊めたように<span type="ruby"><span type="rb">硬</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>ばり、いっそう醜く<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>んで、いまにも噛みつきそうな表情になった。<lb />
+「娘を<span rend="sesame_dot" rendition="em">くいもの</span>にするんですって」とお<span rend="sesame_dot" rendition="em">かね</span>は云った、「あたしがいつ娘を<span rend="sesame_dot" rendition="em">くいもの</span>にした、おまえさんなんの権利があってそんなことを云うんだ、あたしはね、これまでこれっぽっちも人にうしろ指をさされたことのない人間だよ、おまえさんなんぞにそんなことを云われちゃ世間さまに顔出しもできない、さあ、あたしがいつ娘を<span rend="sesame_dot" rendition="em">くいもの</span>にしたか、その証拠をみせてもらおうじゃないか」<lb />
+「お<span rend="sesame_dot" rendition="em">りつ</span>という娘はなにをしている」と登は<span type="ruby"><span type="rb">囁</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>き声で反問した、「次郎は、兼次は、お<span rend="sesame_dot" rendition="em">はな</span>はどうしている、お<span rend="sesame_dot" rendition="em">すえ</span>という娘をどうしようとしている」<lb />
+「へん」とお<span rend="sesame_dot" rendition="em">かね</span>はそっぽを向いた、「そんなことはおまえさんの知ったこっちゃないよ、みんなあたしが産んであたしが育てた子だからね、親が自分の子をどうしようと、他人のおまえさんなんかに四の五の云われる筋はないんだから」<lb />
+「それなら証拠をみせろなどと云うな」<lb />
+　お<span rend="sesame_dot" rendition="em">かね</span>は荒い息をし、振向いて登を<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>みつけた。<lb />
+「あたしはあの子たちの親だよ」とお<span rend="sesame_dot" rendition="em">かね</span>はくってかかるように云った、「子が親のために尽すのはあたりまえじゃないか、あたしだって子供のじぶんから親のためにさんざん苦労したんだ、それが親子ってもんだ」お<span rend="sesame_dot" rendition="em">かね</span>はそこで急に、思いついたように威たけ高になった、「お<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>だって孝行すれば褒美を下さるじゃないか、孝は<span rend="sesame_dot" rendition="em">ひゃっこう</span>の先頭だって、子が親に孝行すればこそ、すべて世の中がまるくおさまるんじゃないか、そうじゃないのかい、えっ」<lb />
+<lb />
+<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">八</span></span></span>
+<lb />
+　登は躯がふるえてきた。四十女で育ちかたも経験もまるで違う。口でかなわないのはわかりきっているが、なにか<span type="ruby"><span type="rb">肺腑</span><span type="rp">（</span><span type="rt">はいふ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">抉</span><span type="rp">（</span><span type="rt">えぐ</span><span type="rp">）</span></span>るようなことを、一と言だけ云ってやりたいと思い、ふるえながら、なにを云ってやろうかと考えた。それはほんの短い時間のことで、登が口を切るまえに、とつぜん障子があき、去定がはいって来た。<lb />
+　お<span rend="sesame_dot" rendition="em">かね</span>は<span type="ruby"><span type="rb">吃驚</span><span type="rp">（</span><span type="rt">びっくり</span><span type="rp">）</span></span>して坐り直した。去定はその正面に坐り、やや暫く、黙って女の顔をみつめていた。障子があけたままなので、登が閉めに立とうとすると、去定は首を振って云った。<lb />
+「臭いからあけておけ」<lb />
+　登は坐った。<lb />
+「臭いんですって」とお<span rend="sesame_dot" rendition="em">かね</span>が云った、「それはあたしへ当てつけですか」<lb />
+「当てつけではない」と去定が云った、「きさまの腐った根性で、この部屋は<span type="ruby"><span type="rb">反吐</span><span type="rp">（</span><span type="rt">へど</span><span type="rp">）</span></span>の出るほど臭い、その躯を自分でよく<span type="ruby"><span type="rb">嗅</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いでみろ」<lb />
+「あたしの根性がどうしたんですって」<lb />
+「根性だけではない、頭から爪先まで、躯ぜんたいが骨まで腐っている」と去定は云った、「食うに困って子に稼がせる親はあるが、丈夫な躯を持ちながらのらくらして、酒浸りになるために子を売る親はない、そういうやつは親でもなければ人間でもない、よく聞け、犬畜生でさえ、<span type="ruby"><span type="rb">仔</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>を守るためには親は命を惜しまないものだ、自分は食わなくともまず仔に食わせる、<span rend="sesame_dot" rendition="em">けもの</span>でも親はそういうものだ、きさまは犬畜生にも劣るやつだぞ」<lb />
+　お<span rend="sesame_dot" rendition="em">かね</span>がなにか云い返そうとし、去定が「黙れ」とどなりつけた。<lb />
+「あの娘は養生所で引取る」と去定は続けた、「きさまのことは町奉行に届けて、今後も子供たちを<span rend="sesame_dot" rendition="em">くいもの</span>にするようなら、然るべく処分をしてもらうからそう思え」<lb />
+「そんな<span type="ruby"><span type="rb">威</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>しに乗るもんか」<lb />
+「帰れ」と去定が云った、「このさき子供たちに手を出すと、自分の躯に繩がかかるぞ」<lb />
+「そんな威しにひっかかるもんか」と云いながらお<span rend="sesame_dot" rendition="em">かね</span>は立ちあがった、「へっ、町奉行だって」お<span rend="sesame_dot" rendition="em">かね</span>は<span type="ruby"><span type="rb">蒼</span><span type="rp">（</span><span type="rt">あお</span><span type="rp">）</span></span>くなり、ひょろひょろとよろめいた、「町奉行が怖くって江戸の町が歩けるかってんだ、<span type="ruby"><span type="rb">曳</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>かれ者の小唄みたいなことを云いなさんな、こっちは<span type="ruby"><span type="rb">可笑</span><span type="rp">（</span><span type="rt">おか</span><span type="rp">）</span></span>しくって腹の皮がよじれちまわあ」<lb />
+　町奉行が束になって来たって、びくっともするお<span rend="sesame_dot" rendition="em">かね</span>さんじゃあないんだから。そんなことを云いながら、お<span rend="sesame_dot" rendition="em">かね</span>はひょろひょろと部屋からよろけ出し、廊下の向うへ去っていった。<lb />
+「どうもいけない」去定は口の中でぶつぶつと云った、「ちかごろどうも調子がおかしい、あんなにどなったり卑しめたりすることはなかった、あの女は無知で愚かというだけだ、それもあの女の罪ではなく、貧しさと境遇のためなんだから」<lb />
+「私はそうは思いません」と登がいった。<lb />
+　去定は眼をあげて登を見た、「おまえが、そう思わないって」<lb />
+「貧富や境遇の善し悪しは、人間の本質には関係がないと思います」と登は云った、「私は先生の外診のお供をして、一年たらずの期間ですがいろいろの人間に接して来ました、不自由なく育ち、充分に学問もしながら、<span type="ruby"><span type="rb">賤民</span><span type="rp">（</span><span type="rt">せんみん</span><span type="rp">）</span></span>にも劣るような者がいましたし、貧しいうえに耐えがたいくらい悪い環境に育ち、仮名文字を読むことさえできないのに、人間としては頭のさがるほどりっぱな者に、幾人も会ったことがございます」<lb />
+「毒草はどう培っても毒草というわけか、ふん」と去定は云った、「だが保本、人間は毒草から効力の高い薬を作りだしているぞ、あのお<span rend="sesame_dot" rendition="em">かね</span>という女は悪い親だが、どなりつけたり卑しめたりすればいっそう悪くするばかりだ、毒草から薬を作りだしたように、悪い人間の中からも善きものをひきだす努力をしなければならない、人間は人間なんだ」<lb />
+「話に穂を継ぐようですが」と登は静かに訊き返した、「こんど津川を呼び戻されたのも、そういう御思案から出たことですか」<lb />
+「どうして津川のことなど引合いに出すのだ」<lb />
+「お考えがうかがいたいからです」<lb />
+「おまえまでがおれにどならせたいのか」<lb />
+「たぶんそうなるだろうと思います」と登は冷静に云った、「津川をお呼びになる必要はありません、私はここにとどまるつもりですから」<lb />
+　去定は眼を細めた、「――誰が許した」<lb />
+「先生です」<lb />
+「おれが、おれがそれを許したか」<lb />
+「お許しになりました」<lb />
+「だめだ、おれは許さぬ」去定は首を振った、「保本登は目見医にあがる、それはもうきまっていることだ」<lb />
+「この養生所にこそ、もっとも医者らしい医者が必要だ、――初めに先生はそう云われました」と登はねばり強く云った、「私もまたここの生活で、医が仁術であるということを」<lb />
+「なにを云うか」と去定がいきなり、烈しい声で遮った、「医が仁術だと」そうひらき直ったが、自分の<span type="ruby"><span type="rb">激昂</span><span type="rp">（</span><span type="rt">げっこう</span><span type="rp">）</span></span>していることに気づいたのだろう、大きく呼吸をして声をしずめた、「――医が仁術だなどというのは、<span type="ruby"><span type="rb">金儲</span><span type="rp">（</span><span type="rt">かねもう</span><span type="rp">）</span></span>けめあての<span type="ruby"><span type="rb">藪</span><span type="rp">（</span><span type="rt">やぶ</span><span type="rp">）</span></span>医者、門戸を飾って薬礼稼ぎを専門にする、<span type="ruby"><span type="rb">似而非</span><span type="rp">（</span><span type="rt">えせ</span><span type="rp">）</span></span>医者どものたわ言だ、かれらが不当に儲けることを<span type="ruby"><span type="rb">隠蔽</span><span type="rp">（</span><span type="rt">いんぺい</span><span type="rp">）</span></span>するために使うたわ言だ」<lb />
+　登は沈黙した。<lb />
+「仁術どころか、医学はまだ風邪ひとつ満足に治せはしない、病因の正しい判断もつかず、ただ患者の生命力に頼って、もそもそ手さぐりをしているだけのことだ、しかも手さぐりをするだけの努力さえ、しようとしない似而非医者が大部分なんだ」<lb />
+「それでもなお」と登が云った、「私を出して津川を戻そうと仰しゃるのですか」<lb />
+「それとこれとは話が違う」<lb />
+「違わないことは先生御自身が知っておいでです」と登は云った、「はっきり申上げますが、私は力ずくでもここにいます、先生の腕力の強いことは拝見しましたが、私だってそうやすやすと負けはしません、お望みなら力ずくで私を放り出して下さい」<lb />
+「おまえはばかなやつだ」<lb />
+「先生のおかげです」<lb />
+「ばかなやつだ」と去定は立ちあがった、「<span type="ruby"><span type="rb">若気</span><span type="rp">（</span><span type="rt">わかげ</span><span type="rp">）</span></span>でそんなことを云っているが、いまに後悔するぞ」<lb />
+「お許しが出たのですね」<lb />
+「きっといまに後悔するぞ」<lb />
+「ためしてみましょう」登は頭をさげて云った、「有難うございました」<lb />
+　去定はゆっくりと出ていった。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

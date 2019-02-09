@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>源氏物語</title>
+        <author>紫式部</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2003-09-08">作成</resp><resp /><note>
+<lb />
+底本：「全訳源氏物語　中巻」角川文庫、角川書店
+<lb />
+　　　1971（昭和46）年11月30日改版初版発行<lb />
+　　　1994（平成6）年6月15日39版発行<lb />
+※このファイルは、古典総合研究所（http://www.genji.co.jp/）で入力されたものを、青空文庫形式にあらためて作成しました。<lb />
+※校正には2002（平成14）年1月15日44版発行を使用しました。<lb />
+入力：上田英代<lb />
+校正：伊藤時也<lb />
+<date when="2003-09-08">2003年9月8日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>上田英代</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>伊藤時也</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>源氏物語</title><author>紫式部</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div">
+<lb />
+<lb />
+<lb />
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">雪ちるや日よりかしこくめでたさも上</span>
+<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">なき君の玉のおん<span type="ruby"><span type="rb">輿</span><span type="rp">（</span><span type="rt">こし</span><span type="rp">）</span></span>　　　　（晶子）</span>
+<lb />
+　源氏は<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>に対してあらゆる好意を尽くしているのであるが、人知れぬ恋を持つ点で、南の<span type="ruby"><span type="rb">女王</span><span type="rp">（</span><span type="rt">にょおう</span><span type="rp">）</span></span>の想像したとおりの不幸な結末を生むのでないかと見えた。すべてのことに形式を重んじる癖があって、少しでもその点の不足したことは我慢のならぬように思う内大臣の性格であるから、思いやりもなしに婿として麗々しく扱われるようなことになっては今さら醜態で、気恥ずかしいことであると、その<span type="ruby"><span type="rb">懸念</span><span type="rp">（</span><span type="rt">けねん</span><span type="rp">）</span></span>がいささか源氏を<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ちゅうちょ</span><span type="rp">）</span></span>させていた。<lb />
+　この十二月に<span type="ruby"><span type="rb">洛西</span><span type="rp">（</span><span type="rt">らくさい</span><span type="rp">）</span></span>の大原野の<span type="ruby"><span type="rb">行幸</span><span type="rp">（</span><span type="rt">みゆき</span><span type="rp">）</span></span>があって、だれも皆お行列の見物に出た。六条院からも夫人がたが車で拝見に行った。<span type="ruby"><span type="rb">帝</span><span type="rp">（</span><span type="rt">みかど</span><span type="rp">）</span></span>は午前六時に御出門になって、<span type="ruby"><span type="rb">朱雀</span><span type="rp">（</span><span type="rt">すざく</span><span type="rp">）</span></span>大路から五条通りを西へ折れてお進みになった。道路は見物車でうずまるほどである。行幸と申しても必ずしもこうではないのであるが、今日は親王がた、高官たちも皆特別に馬<span type="ruby"><span type="rb">鞍</span><span type="rp">（</span><span type="rt">ぐら</span><span type="rp">）</span></span>を整えて、随身、<span type="ruby"><span type="rb">馬副男</span><span type="rp">（</span><span type="rt">うまぞいおとこ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">背丈</span><span type="rp">（</span><span type="rt">せたけ</span><span type="rp">）</span></span>までもよりそろえ、装束に風流を尽くさせてあった。左右の大臣、内大臣、納言以下はことごとく<span type="ruby"><span type="rb">供奉</span><span type="rp">（</span><span type="rt">ぐぶ</span><span type="rp">）</span></span>したのである。<span type="ruby"><span type="rb">浅葱</span><span type="rp">（</span><span type="rt">あさぎ</span><span type="rp">）</span></span>の色の<span type="ruby"><span type="rb">袍</span><span type="rp">（</span><span type="rt">ほう</span><span type="rp">）</span></span>に紅紫の<span type="ruby"><span type="rb">下襲</span><span type="rp">（</span><span type="rt">したがさね</span><span type="rp">）</span></span>を殿上役人以下五位六位までも着ていた。時々少しずつの雪が空から散って<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">えん</span><span type="rp">）</span></span>な趣を添えた。親王がた、高官たちも<span type="ruby"><span type="rb">鷹</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>使いのたしなみのある人は、野に出てからの用にきれいな<span type="ruby"><span type="rb">狩衣</span><span type="rp">（</span><span type="rt">かりぎぬ</span><span type="rp">）</span></span>を用意していた。左右の<span type="ruby"><span type="rb">近衛</span><span type="rp">（</span><span type="rt">このえ</span><span type="rp">）</span></span>、左右の<span type="ruby"><span type="rb">衛門</span><span type="rp">（</span><span type="rt">えもん</span><span type="rp">）</span></span>、左右の<span type="ruby"><span type="rb">兵衛</span><span type="rp">（</span><span type="rt">ひょうえ</span><span type="rp">）</span></span>に属した<span type="ruby"><span type="rb">鷹匠</span><span type="rp">（</span><span type="rt">たかじょう</span><span type="rp">）</span></span>たちは大柄な、目だつ<span type="ruby"><span type="rb">摺衣</span><span type="rp">（</span><span type="rt">すりぎぬ</span><span type="rp">）</span></span>を着ていた。女の目には平生見<span type="ruby"><span type="rb">馴</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>れない見物事であったから、だれかれとなしに競って拝観をしようとしたが、貧弱にできた車などは群衆に輪をこわされて哀れな姿で立っていた。<span type="ruby"><span type="rb">桂</span><span type="rp">（</span><span type="rt">かつら</span><span type="rp">）</span></span>川の船橋のほとりが最もよい拝観場所で、よい車がここには多かった。六条院の<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>の姫君も見物に出ていた。きれいな身なりをして化粧をした<span type="ruby"><span type="rb">朝臣</span><span type="rp">（</span><span type="rt">あそん</span><span type="rp">）</span></span>たちをたくさん見たが、<span type="ruby"><span type="rb">緋</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>のお上着を召した端麗な<span type="ruby"><span type="rb">鳳輦</span><span type="rp">（</span><span type="rt">ほうれん</span><span type="rp">）</span></span>の中の<span type="ruby"><span type="rb">御姿</span><span type="rp">（</span><span type="rt">みすがた</span><span type="rp">）</span></span>になぞらえることのできるような人はだれもない。玉鬘は人知れず父の大臣に注意を払ったが、<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>どおりにはなやかな<span type="ruby"><span type="rb">貫禄</span><span type="rp">（</span><span type="rt">かんろく</span><span type="rp">）</span></span>のある盛りの男とは見えたが、それも絶対なりっぱさとはいえるものでなくて、だれよりも優秀な人臣と見えるだけである。きれいであるとか、美男だとかいって、若い女房たちが<span type="ruby"><span type="rb">蔭</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>で大騒ぎをしている中将や少将、殿上役人のだれかれなどはまして目にもたたず無視せざるをえないのである。帝は源氏の大臣にそっくりなお顔であるが、思いなしか一段崇高な御<span type="ruby"><span type="rb">美貌</span><span type="rp">（</span><span type="rt">びぼう</span><span type="rp">）</span></span>と拝されるのであった。でこれを人間世界の最もすぐれた美と申さねばならないのである。貴族の男は皆きれいなものであるように玉鬘は源氏や中将を始終見て考えていたのであるが、こんな正装の姿は平生よりも悪く見えるのか、多数の朝臣たちは同じ目鼻を持つ顔とも玉鬘には見えなかった。<span type="ruby"><span type="rb">兵部卿</span><span type="rp">（</span><span type="rt">ひょうぶきょう</span><span type="rp">）</span></span>の宮もおいでになった。右大将は羽振りのよい重臣ではあるが今日の武官姿の<span type="ruby"><span type="rb">纓</span><span type="rp">（</span><span type="rt">えい</span><span type="rp">）</span></span>を巻いて<span type="ruby"><span type="rb">胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-76.png" rend="gaiji" rendition="img" source="※(「竹かんむり／祿」、第3水準1-89-76)" /></span><span type="rp">（</span><span type="rt">やなぐい</span><span type="rp">）</span></span>を負った形などはきわめて優美に見えた。色が黒く、<span type="ruby"><span type="rb">髭</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>の多い顔に玉鬘は好感を持てなかった。男は化粧した女のような白い顔をしているものでないのに、若い玉鬘の心はそれを<span type="ruby"><span type="rb">軽蔑</span><span type="rp">（</span><span type="rt">けいべつ</span><span type="rp">）</span></span>した。源氏はこのごろ玉鬘に宮仕えを勧めているのであった。今までは自発的にお勤めを始めるのでもなしにやむをえずに御所の人々の中に混じって新しい苦労を買うようなことはと躊躇する玉鬘であったが、後宮の一人でなく公式の高等女官になって陛下へお仕えするのはよいことであるかもしれないと思うようになった。大原野で<span type="ruby"><span type="rb">鳳輦</span><span type="rp">（</span><span type="rt">ほうれん</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">停</span><span type="rp">（</span><span type="rt">とど</span><span type="rp">）</span></span>められ、高官たちは天幕の中で食事をしたり、正装を<span type="ruby"><span type="rb">直衣</span><span type="rp">（</span><span type="rt">のうし</span><span type="rp">）</span></span>や狩衣に改めたりしているころに、六条院の大臣から酒や菓子の献上品が届いた。源氏にも<span type="ruby"><span type="rb">供奉</span><span type="rp">（</span><span type="rt">ぐぶ</span><span type="rp">）</span></span>することを前に仰せられたのであるが、謹慎日であることによって御辞退をしたのである。<span type="ruby"><span type="rb">蔵人</span><span type="rp">（</span><span type="rt">くろうど</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">左衛門尉</span><span type="rp">（</span><span type="rt">さえもんのじょう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">御使</span><span type="rp">（</span><span type="rt">みつか</span><span type="rp">）</span></span>いにして、木の枝に付けた<span type="ruby"><span type="rb">雉子</span><span type="rp">（</span><span type="rt">きじ</span><span type="rp">）</span></span>を一羽源氏へ下された。この仰せのお言葉は女である筆者が採録申し上げて誤りでもあってはならないから省く。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+雪深きをしほの山に立つ雉子の古き跡をも<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">けふ</span><span type="rp">）</span></span>はたづねよ<lb />
+</span>
+<lb />
+　御製はこうであった。これは太政大臣が野の行幸にお供申し上げた先例におよりになったことであるかもしれない。<lb />
+　源氏の大臣は御使いをかしこんで扱った。お返事は、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<span type="ruby"><span type="rb">小塩</span><span type="rp">（</span><span type="rt">をしほ</span><span type="rp">）</span></span>山みゆき積もれる松原に今日ばかりなる跡やなからん<lb />
+</span>
+<lb />
+　という歌であったようである。筆者は覚え違いをしているかもしれない。<lb />
+　その翌日、源氏は西の対へ手紙を書いた。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+<span type="ruby"><span type="rb">昨日</span><span type="rp">（</span><span type="rt">きのう</span><span type="rp">）</span></span>陛下をお拝みになりましたか。お話ししていたことはどう決めますか。<lb />
+</span>
+　白い紙へ、簡単に気どった跡もなく書かれているのであるが、美しいのをながめて、<lb />
+「ひどいことを」<lb />
+　と<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>は笑っていたが、よくも心が見透かされたものであるという気がした。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+昨日は、<lb />
+<lb />
+</span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+うちきらし朝曇りせしみゆきにはさやかに空の光やは見し<lb />
+<lb />
+</span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+何が何でございますやら私などには。<lb />
+</span>
+　と書いて来た返事を紫の<span type="ruby"><span type="rb">女王</span><span type="rp">（</span><span type="rt">にょおう</span><span type="rp">）</span></span>もいっしょに見た。源氏は宮仕えを玉鬘に勧めた話をした。<lb />
+「<span type="ruby"><span type="rb">中宮</span><span type="rp">（</span><span type="rt">ちゅうぐう</span><span type="rp">）</span></span>が私の子になっておいでになるのだから、同じ家からそれ以上のことがなくて出て行くのをあの人は躊躇することだろうと思うし、大臣の子として出て行くのも<span type="ruby"><span type="rb">女御</span><span type="rp">（</span><span type="rt">にょご</span><span type="rp">）</span></span>がいられるのだから不都合だしと<span type="ruby"><span type="rb">煩悶</span><span type="rp">（</span><span type="rt">はんもん</span><span type="rp">）</span></span>しているそのことも言っているのですよ。若い女で宮中へ出る資格のある者が陛下を拝見しては御所の勤仕を断念できるものでないはずだ」<lb />
+　と源氏が言うと、<lb />
+「いやなあなた。お美しいと拝見しても恋愛的に御奉公を考えるのは失礼すぎたことじゃありませんか」<lb />
+　と女王は笑った。<lb />
+「そうでもない。あなただって拝見すれば陛下のおそばへ上がりたくなりますよ」<lb />
+　などと言いながら源氏はまた西の対へ書いた。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+あかねさす光は空に曇らぬをなどてみゆきに目をきらしけん<lb />
+<lb />
+</span>
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+ぜひ決心をなさるように。<lb />
+</span>
+　こんなふうに言って源氏は絶えず勧めていた。ともかくも<span type="ruby"><span type="rb">裳着</span><span type="rp">（</span><span type="rt">もぎ</span><span type="rp">）</span></span>の式を行なおうと思って、その儀式の日の用意を始めさせた。自身ではたいしたことにしようとしないことでも、源氏の家で行なわれることは自然にたいそうなものになってしまうのであるが、今度のことはこれを機会に内大臣へほんとうのことを知らせようと期している式であったから、きわめて華美な<span type="ruby"><span type="rb">支度</span><span type="rp">（</span><span type="rt">したく</span><span type="rp">）</span></span>になっていった。来春の二月にしようと源氏は思っているのであった。女は世間から有名な人にされていても、まだ姫君である間は必ずしも親の姓氏を明らかに掲げている必要もないから、今までは<span type="ruby"><span type="rb">藤原</span><span type="rp">（</span><span type="rt">ふじわら</span><span type="rp">）</span></span>の内大臣の娘とも、源氏の娘とも明確にしないで済んだが、源氏の望むように宮仕えに出すことにすれば<span type="ruby"><span type="rb">春日</span><span type="rp">（</span><span type="rt">かすが</span><span type="rp">）</span></span>の神の氏の子を奪うことになるし、ついに知れるはずのものをしいて当座だけ感情の上からごまかしをするのも自身の不名誉であると源氏は考えた。平凡な階級の人は安易に姓氏を変えたりもするが、内に流れた親子の血が人為的のことで絶えるものでないから、自然のままに自分の寛大さを大臣に知らしめようと源氏は決めて、<span type="ruby"><span type="rb">裳</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">紐</span><span type="rp">（</span><span type="rt">ひも</span><span type="rp">）</span></span>を結ぶ役を大臣へ依頼することにしたが、大臣は、去年の冬ごろから御病気をしておいでになる大宮が、いつどうおなりになるかもしれぬ場合であるから、祝儀のことに出るのは遠慮をすると辞退してきた。中将も夜昼三条の宮へ行って付ききりのようにして御<span type="ruby"><span type="rb">介抱</span><span type="rp">（</span><span type="rt">かいほう</span><span type="rp">）</span></span>をしていて、何の余裕も心にないふうな時であるから、裳着は延ばしたものであろうかとも源氏は考えたが、宮がもしお<span type="ruby"><span type="rb">薨</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>れになれば<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>は孫としての服喪の義務があるのを、知らぬ顔で置かせては罪の深いことにもなろうから、宮の御病気を別問題として裳着を行ない、大臣へ真相を知らせることも宮の生きておいでになる間にしようと源氏は決心して、三条の宮をお見舞いしがてらにお<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねした。<span type="ruby"><span type="rb">微行</span><span type="rp">（</span><span type="rt">しのび</span><span type="rp">）</span></span>として来たのであるが<span type="ruby"><span type="rb">行幸</span><span type="rp">（</span><span type="rt">みゆき</span><span type="rp">）</span></span>にひとしい威儀が知らず知らず添っていた。美しさはいよいよ光が添ったようなこのごろの源氏を御覧になったことで宮は御病苦が取り去られた気持ちにおなりになって、<span type="ruby"><span type="rb">脇息</span><span type="rp">（</span><span type="rt">きょうそく</span><span type="rp">）</span></span>へおよりかかりになりながら、弱々しい調子ながらもよくお話しになった。<lb />
+「そうお悪くはなかったのでございますね。中将がひどく御心配申し上げてお話をいたすものですから、どんなふうでいらっしゃるのかとお案じいたしておりました。御所などへも特別なことのない限りは出ませんで、朝廷の人のようでもなく引きこもっておりまして、自然思いましてもすぐに物事を実行する力もなくなりまして失礼をいたしました。年齢などは私よりもずっと上の人がひどく腰をかがめながらもお役を勤めているのが、昔も今もあるでしょうが、私は生理的にも精神的にも弱者ですから、<span type="ruby"><span type="rb">怠</span><span type="rp">（</span><span type="rt">なま</span><span type="rp">）</span></span>けることよりできないのでございましょう」<lb />
+　などと源氏は言っていた。<lb />
+「年のせいだと思いましてね。幾月かの間は<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>の調子の悪いのも打ちやってあったのですが、今年になってからはどうやらこの病気は重いという気がしてきましてね、もう一度こうしてあなたにお目にかかることもできないままになってしまうのかと心細かったのですが、お見舞いくださいましたこの感激でまた少し命も延びる気がします。もう私は惜しい命では少しもありません。皆に先だたれましたあとで、一人長く生き残っていることは他人のことで見てもおもしろくないことに思われたことなのですから、早くと先を急ぐ気にもなるのですが、中将がね、親切にね、想像もできないほどよくしてくれましてね、心配もしてくれますのを見ますとまた引き止められる形にもなっております」<lb />
+　初めから終わりまで泣いてお言いになるそのお<span type="ruby"><span type="rb">慄</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>え声もこの場合に身に<span type="ruby"><span type="rb">沁</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>んで聞かれた。昔の話も出、現在のことも語っていたついでに源氏は言った。<lb />
+「内大臣は毎日おいでになるでしょうが、私の伺っておりますうちにもしおいでになることがあればお目にかかれて結構だと思います。ぜひお話ししておきたいこともあるのですが、何かの機会がなくてはそれもできませんで、まだそのままになっております」<lb />
+「お<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>の御用が多いのか、自身の愛が<span type="ruby"><span type="rb">淡</span><span type="rp">（</span><span type="rt">うす</span><span type="rp">）</span></span>いのか、そうそう見舞ってくれません。お話しになりたいとおっしゃるのはどんなことでしょう。中将が恨めしがっていることもあるのですが、私は何も初めのことは知りませんが、冷淡な態度をあの子にとるのを見ていましてね、一度立った<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>はそんなことで取り返されるものではなし、かえって二重に人から<span type="ruby"><span type="rb">譏</span><span type="rp">（</span><span type="rt">そし</span><span type="rp">）</span></span>らせるようなものだと私は忠告もしましたが、昔からこうと思ったことは曲げられない性質でね、私は不本意に傍観しています」<lb />
+　大宮が中将のことであろうとお解しになって、こうお言いになるのを聞いて、源氏は笑いながら、<lb />
+「今さらしかたのないこととして許しておやりになるかと思いまして、私からもそれとなく希望を述べたこともあるのですが、断然お引き分けになろうとするお考えらしいのを見まして、なぜ口出しをしたかときまり悪く後悔をしておりました。まあ何事にも清めということがございますから、噂などは大臣の意志で消滅させようとすればできるかもしれぬとは見ていますが事実であったことをきれいに忘れさせることはむずかしいでしょうね。すべて親から子と次第に人間の価値は落ちていきまして、子は親ほどだれからも尊敬されず、愛されもしないのであろうと中将を哀れに思っております」<lb />
+　などと言ったあとで源氏は本問題の説明をするのであった。<lb />
+「大臣にお話ししたいと思いますことは、大臣の肉身の人を、少し<span type="ruby"><span type="rb">朦朧</span><span type="rp">（</span><span type="rt">もうろう</span><span type="rp">）</span></span>としました初めの関係から私の娘かと思いまして手もとへ引き取ったのですが、その時には間違いであることも私に聞かせなかったものですから、したがってくわしく調べもしませんで子供の少ない私ですから、縁があればこそと思いまして世話をいたしかけましたものの、そう近づいて見ることもしませんで月日がたったのですが、どうしてお耳にはいったのですか、宮中から<span type="ruby"><span type="rb">御沙汰</span><span type="rp">（</span><span type="rt">ごさた</span><span type="rp">）</span></span>がありましてね、こう仰せられるのです。<span type="ruby"><span type="rb">尚侍</span><span type="rp">（</span><span type="rt">ないしのかみ</span><span type="rp">）</span></span>の職が欠員であることは、そのほうの女官が御用をするのにたよる所がなくて、自然仕事が投げやりになりやすい、それで今お勤めしている故参の<span type="ruby"><span type="rb">典侍</span><span type="rp">（</span><span type="rt">ないしのすけ</span><span type="rp">）</span></span>二人、そのほかにも尚侍になろうとする人たちの多い中にも資格の十分な人を選び出すのが困難で、たいてい貴族の娘の声望のある者で、家庭のことに携わらないでいい人というのが昔から標準になっているのですから、欠点のない完全な資格はなくても、下の役から勤め上げた年功者の登用される場合はあっても、ただ今の典侍にまだそれだけ力がないとすれば、家柄その他の点で他から選ばなければならないことになるから出仕をさせるようにというお言葉だったのです。私の家の子が相応しないこととも思うわけのものでございませんから、私も宮中の仰せをお受けしようという気になったのでございます。宮仕えというものは適任者であると認められれば役の不足などは考えるべきことではありません。後宮ではなしに宮中の一課をお預かりしていろいろな事務も見なければならないことは女の最高の理想でないように思う人はあっても、私はそうとも思っておりません。仕事は何であってもその人格によってその職がよくも見え、悪くも見えるのであると、私がそんな気になりました時に、娘の年齢のことを聞きましたことから、これは私の子でなくてあの方のだということがわかったのです。なおお目にかかりましてその点なども<span type="ruby"><span type="rb">明瞭</span><span type="rp">（</span><span type="rt">めいりょう</span><span type="rp">）</span></span>にいたしたいと思います。機会がなくてはお目にかかれませんから、おいでを願ってこの話を申し上げようといたしましたところ、あなた様の御病気のことをお言い出しになりましてお断わりのお返事をいただいたのですが、それは実際御遠慮申すべきだと思いますものの、こんなふうにおよろしいところを拝見できたのですから、やはり計画どおりに祝いの式をさせたいと思うのです。内大臣にもやはりその節御足労を願いたいと思うのですが、あなた様からいくぶんそのこともおにおわしになったお手紙をお出しくださいませんか」<lb />
+　と源氏は言うのであった。<lb />
+「まあそれは思いがけないことでございますね。内大臣の所ではそうした名のりをして来る者は片端から拾うようにしてよく世話をしているようですがね、どうしてあなたの所へ引き取られようとしたのでしょう。前から何かのお話を聞いていて出て来た人なのですか」<lb />
+「そうなっていく訳がある人なのです。くわしいことは内大臣のほうがよくおわかりになるくらいでしょう。凡俗の中の出来事のようで、明らかにすればますます人が<span type="ruby"><span type="rb">噂</span><span type="rp">（</span><span type="rt">うわさ</span><span type="rp">）</span></span>に上せたがりそうなことと思われますから、中将にもまだくわしく話してございません。あなた様も秘密にあそばしてください」<lb />
+　と源氏は注意した。<lb />
+　内大臣のほうでも源氏が三条の宮へ御訪問したことを聞いて、<lb />
+「簡単な生活をしていらっしゃる所では太政大臣の御待遇にお困りになるだろう。前駆の人たちを<span type="ruby"><span type="rb">饗応</span><span type="rp">（</span><span type="rt">きょうおう</span><span type="rp">）</span></span>したり、座敷のお取りもちをする者もはかばかしい者がいないであろう、中将は今日はお客側のお供で来ていられるだろうから」<lb />
+　すぐに子息たちそのほかの殿上役人たちをやるのであった。<lb />
+「お菓子とか、酒とか、よいようにして差し上げるがいい。私も行くべきだがかえってたいそうになるだろうから」<lb />
+　などと言っている時に大宮のお手紙が届いたのである。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+六条の大臣が見舞いに来てくだすったのですが、こちらは人が少なくてお恥ずかしくもあり、失礼でもありますから、私がわざとお知らせしたというふうでなしに来てくださいませんか。あなたとお<span type="ruby"><span type="rb">逢</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>いになってお話しなさりたいこともあるようです。<lb />
+</span>
+　と書かれてあった。何であろう、<span type="ruby"><span type="rb">雲井</span><span type="rp">（</span><span type="rt">くもい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">雁</span><span type="rp">（</span><span type="rt">かり</span><span type="rp">）</span></span>と中将の結婚を許せということなのであろうか、もう長くおいでになれない御病体の宮がぜひにとそのことをお言いになり、源氏の大臣が<span type="ruby"><span type="rb">謙遜</span><span type="rp">（</span><span type="rt">けんそん</span><span type="rp">）</span></span>な言葉で一言その問題に触れたことをお訴えになれば自分は拒否のしようがない。中将が冷静で、あせって結婚をしようとしないのを見ていることは自分の苦痛なのであるから、いい機会があれば先方に一歩譲った形式で許すことにしようと大臣は思った。そしてそれは大宮と源氏が合議されてのことであるに違いないと気のついた大臣は、それであればいっそう否みようのないことであると思われるが、必ずしもそうでないと思った。こうした時にちょっと反抗的な気持ちの起こるのが内大臣の性格であった。しかし宮もお手紙をおつかわしになり、源氏の大臣も待っておいでになるらしいから伺わないでは双方へ失礼である。ともかくもその場になって判断をすることにしようと思って、内大臣は身なりを特に整えて前駆などはわざと簡単にして三条の宮へはいった。子息たちをおおぜい引きつれている大臣は、重々しくも頼もしい人に見えた。背の高さに相応して<span type="ruby"><span type="rb">肥</span><span type="rp">（</span><span type="rt">ふと</span><span type="rp">）</span></span>った<span type="ruby"><span type="rb">貫禄</span><span type="rp">（</span><span type="rt">かんろく</span><span type="rp">）</span></span>のある姿で歩いて来る様子は大臣らしい大臣であった。紅紫の<span type="ruby"><span type="rb">指貫</span><span type="rp">（</span><span type="rt">さしぬき</span><span type="rp">）</span></span>に桜の色の<span type="ruby"><span type="rb">下襲</span><span type="rp">（</span><span type="rt">したがさね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">裾</span><span type="rp">（</span><span type="rt">すそ</span><span type="rp">）</span></span>を長く引いて、ゆるゆるとした身のとりなしを見せていた。なんというりっぱな姿であろうと見えたが、六条の大臣は桜の色の<span type="ruby"><span type="rb">支那錦</span><span type="rp">（</span><span type="rt">しなにしき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">直衣</span><span type="rp">（</span><span type="rt">のうし</span><span type="rp">）</span></span>の下に<span type="ruby"><span type="rb">淡色</span><span type="rp">（</span><span type="rt">うすいろ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">小袖</span><span type="rp">（</span><span type="rt">こそで</span><span type="rp">）</span></span>を幾つも重ねたくつろいだ姿でいて、これはこの上の端麗なものはないと思われるのであった。自然に美しい光というようなものが添っていて、内大臣の引き繕った姿などと比べる性質の美ではなかった。おおぜいの子息たちがそれぞれりっぱになっていた。<span type="ruby"><span type="rb">藤</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>大納言、東宮<span type="ruby"><span type="rb">大夫</span><span type="rp">（</span><span type="rt">たゆう</span><span type="rp">）</span></span>などという大臣の兄弟たちもいたし、<span type="ruby"><span type="rb">蔵人頭</span><span type="rp">（</span><span type="rt">くろうどのかみ</span><span type="rp">）</span></span>、五位の蔵人、<span type="ruby"><span type="rb">近衛</span><span type="rp">（</span><span type="rt">このえ</span><span type="rp">）</span></span>の中少将、弁官などは皆一族で、はなやかな十幾人が内大臣を取り巻いていた。その他の役人もついて来ていて、たびたび杯がまわるうちに皆酔いが出て、内大臣の豊かな幸福をだれもだれも話題にした。源氏と内大臣は珍しい会合に昔のことが思い出されて古いころからの話がかわされた。世間で別々に立っている時には競争心というようなものも双方の心に芽ぐむのであるが、一堂に集まってみれば友情のよみがえるのを覚えるばかりであった。隔てのない会話の進んでいく間に日が暮れていった。杯がなお人々の間に勧められた。<lb />
+「伺わないでは済まないのでございますが、今日来いというようなお召しがないものですから、失礼しておりまして、お<span type="ruby"><span type="rb">叱</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>りを受けそうでなりません」<lb />
+　と内大臣は言った。<lb />
+「お叱りは私が受けなければならないと思っていることがたくさんあります」<lb />
+　と意味ありげに源氏の言うのを、先刻から考えていた問題であろうと大臣はとって、ただかしこまっていた。<lb />
+「昔から公人としても私人としてもあなたとほど親しくした人は私にありません。<span type="ruby"><span type="rb">翅</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>を並べるというようにして将来は国事に携わろうなどと当時は思ったものですがね、のちになるとお互いに昔の友情としては考えられないようなこともしますからね。しかしそれは区々たることですよ。だいたいの精神は少しも昔と変わっていないのですよ。いつの間にかとった<span type="ruby"><span type="rb">年齢</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>を思いましても昔のことが恋しくてなりませんが、お<span type="ruby"><span type="rb">逢</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>いのできることもまれにしかありませんから、勝手な考えですが、私のように親しい者の所へは<span type="ruby"><span type="rb">微行</span><span type="rp">（</span><span type="rt">しのび</span><span type="rp">）</span></span>ででもお<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">たず</span><span type="rp">）</span></span>ねくださればいいと恨めしい気になっている時もあります」<lb />
+　と源氏が言った。<lb />
+「青年時代を考えてみますと、よくそうした無礼ができたものだと思いますほど親しくさせていただきまして、なんらの隔てもあなた様に持つことがありませんでした。公人といたしましては<span type="ruby"><span type="rb">翅</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>を並べるとお言いになりますような価値もない私を、ここまでお引き立てくださいました御好意を忘れるものでございませんが、多い年月の間には我知らずよろしくないことも多くいたしております」<lb />
+　などと大臣は敬意を表しながら言っていた。この話の続きに源氏は<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>のことを内大臣に告げたのであった。<lb />
+「何たることでしょう。あまりにうれしい、不思議なお話を承ります」<lb />
+　と大臣はひとしきり泣いた。<lb />
+「ずっと昔ですが、その子の居所が知れなくなりましたことで、何のお話の時でしたか、あまりに悲しくてあなたにお話ししたこともある気がいたします。今日私もやっと<span type="ruby"><span type="rb">人数</span><span type="rp">（</span><span type="rt">ひとかず</span><span type="rp">）</span></span>になってみますと、散らかっております子供が気になりまして、正直に拾い集めてみますと、またそれぞれ愛情が起こりまして、皆かわいく思われるのですが、私はいつもそうしていながら、あの子供を最も恋しく思い出されるのでした」<lb />
+　この話から、昔の雨夜の話に、いろいろと抽象的に女の<span type="ruby"><span type="rb">品定</span><span type="rp">（</span><span type="rt">しなさだ</span><span type="rp">）</span></span>めをしたことも二人の間に思い出されて、泣きも笑いもされるのであった。深更になってからいよいよ二人の大臣は別れて帰ることになった。<lb />
+「こうしてごいっしょになることがありますと、当然なことですが昔が思い出されて、恋しいことが胸をいっぱいにして、帰って行く気になれないのですよ」<lb />
+　と言って、あまり泣かない人である源氏も、酔い泣きまじりにしめっぽいふうを見せた。大宮は<span type="ruby"><span type="rb">葵</span><span type="rp">（</span><span type="rt">あおい</span><span type="rp">）</span></span>夫人のことをまた思い出しておいでになった。昔のはなやかさを幾倍したものともしれぬ源氏の勢いを御覧になって、故人が惜しまれてならないのでおありになった。しおしおとお泣きになった、尼様らしく。<lb />
+　源氏はこうした会見にも中将のことは言い出さなかった。好意の欠けた処置であると感じた事柄であったから、自身が口を出すことは見苦しいと思ったのであった。大臣のほうでは源氏から何とも言わぬ問題について進んで口を切ることもできなかったのである。その問題が未解決で終わったことは愉快でもなかった。<lb />
+「今晩お<span type="ruby"><span type="rb">邸</span><span type="rp">（</span><span type="rt">やしき</span><span type="rp">）</span></span>までお送りに参るはずですが、にわかにそんなことをいたしますのも人騒がせに存ぜられますから、今日のお礼はまた別の日に参上して申し上げます」<lb />
+　と大臣が言うのを聞いて、それでは宮の御病気もおよろしいように拝見するから、きっと申し上げた祝いの日に御足労を煩わしたいということを源氏は頼んで約束ができた。非常に<span type="ruby"><span type="rb">機嫌</span><span type="rp">（</span><span type="rt">きげん</span><span type="rp">）</span></span>よく大臣たちは会見を終えて宮邸を出るのであったが、その場にもまたいかめしい光景が現出した。内大臣の供をして来た<span type="ruby"><span type="rb">公達</span><span type="rp">（</span><span type="rt">きんだち</span><span type="rp">）</span></span>などはたまさかの会合が朗らかに終わったのは何の相談があったのであろう、太政大臣は今日もまた以前のように内大臣へ譲ることが何かあったのではないかなどという<span type="ruby"><span type="rb">臆測</span><span type="rp">（</span><span type="rt">おくそく</span><span type="rp">）</span></span>をした。玉鬘のことであろうなどとはだれも考えられなかったのである。<lb />
+　内大臣は源氏の話を聞いた瞬間から娘が見たくてならなかった。<span type="ruby"><span type="rb">逢</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>わないでいることは堪えられないようにも思うのであるが、今すぐに親らしくふるまうのはいかがなものである、自家へ引き取るほどの熱情を最初に持った源氏の心理を想像すれば、自分へ渡し放しにはしないであろう、りっぱな夫人たちへの遠慮で、新しく夫人に加えることはしないが、さすがにそのままで情人としておくことは、実子として家に入れた最初の態度を裏切ることになる世間体をはばかって、自分へ親の権利を譲ったのであろうと思うと、少し遺憾な気も内大臣はするのであったが、自分の娘を源氏の妻に進めることは不名誉なことであるはずもない、宮仕えをさせると源氏が言い出すことになれば<span type="ruby"><span type="rb">女御</span><span type="rp">（</span><span type="rt">にょご</span><span type="rp">）</span></span>とその母などは不快に思うであろうが、ともかくも源氏の定めることに<span type="ruby"><span type="rb">随</span><span type="rp">（</span><span type="rt">したが</span><span type="rp">）</span></span>うよりほかはないと、こんなことをいろいろと大臣は思った。これは二月の初めのことである。十六日からは彼岸になって、その日は吉日でもあったから、この近くにこれ以上の日がないとも<span type="ruby"><span type="rb">暦</span><span type="rp">（</span><span type="rt">こよみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">博士</span><span type="rp">（</span><span type="rt">はかせ</span><span type="rp">）</span></span>からの報告もあって、<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">裳着</span><span type="rp">（</span><span type="rt">もぎ</span><span type="rp">）</span></span>の日を源氏はそれに決めて、玉鬘へは大臣に知らせた話もして、その式についての心得も教えた。源氏のあたたかい親切は、親であってもこれほどの愛は持ってくれないであろうと玉鬘にはうれしく思われたが、しかも実父に逢う日の来たことを何物にも代えられないように喜んだ。その後に源氏は中将へもほんとうのことを話して聞かせた。不思議なことであると思ったが、中将にはもっともだと合点されることもあった。失恋した<span type="ruby"><span type="rb">雲井</span><span type="rp">（</span><span type="rt">くもい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">雁</span><span type="rp">（</span><span type="rt">かり</span><span type="rp">）</span></span>よりも美しいように思われた玉鬘の顔を、なお驚きに<span type="ruby"><span type="rb">呆然</span><span type="rp">（</span><span type="rt">ぼうぜん</span><span type="rp">）</span></span>とした気持ちの中にも考えて、気がつかなかったと思わぬ損失を受けたような心持ちにもなった。しかしこれはふまじめな考えである、恋人の姉妹ではないかと反省した中将はまれな正直な人と言うべきである。<lb />
+　十六日の朝に三条の宮からそっと使いが来て、裳着の姫君への贈り物の<span type="ruby"><span type="rb">櫛</span><span type="rp">（</span><span type="rt">くし</span><span type="rp">）</span></span>の箱などを、にわかなことではあったがきれいにできたのを下された。<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+手紙を私がおあげするのも不吉にお思いにならぬかと思い、遠慮をしたほうがよろしいとは考えるのですが、<span type="ruby"><span type="rb">大人</span><span type="rp">（</span><span type="rt">おとな</span><span type="rp">）</span></span>におなりになる初めのお祝いを言わせてもらうことだけは許していただけるかと思ったのです。あなたのお身の上の複雑な事情も私は聞いていますことを言ってよろしいでしょうか、許していただければいいと思います。<lb />
+<lb />
+</span>
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+ふたかたに言ひもてゆけば<span type="ruby"><span type="rb">玉櫛笥</span><span type="rp">（</span><span type="rt">たまくしげ</span><span type="rp">）</span></span>わがみはなれぬかけごなりけり<lb />
+</span>
+<lb />
+　と老人の<span type="ruby"><span type="rb">慄</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>えた字でお書きになったのを、ちょうど源氏も玉鬘のほうにいて、いろいろな式のことの<span type="ruby"><span type="rb">指図</span><span type="rp">（</span><span type="rt">さしず</span><span type="rp">）</span></span>をしていた時であったから拝見した。<lb />
+「昔風なお手紙だけれど、お気の毒ですよ。このお字ね。昔は<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">じょうず</span><span type="rp">）</span></span>な方だったのだけれど、こんなことまでもおいおい悪くなってくるものらしい。おかしいほど慄えている」<lb />
+　と言って、何度も源氏は読み返しながら、<lb />
+「よくもこんなに玉櫛笥にとらわれた歌が<span type="ruby"><span type="rb">詠</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>めたものだ。三十一文字の中にほかのことは少ししかありませんからね」<lb />
+　そっと源氏は笑っていた。<span type="ruby"><span type="rb">中宮</span><span type="rp">（</span><span type="rt">ちゅうぐう</span><span type="rp">）</span></span>から白い<span type="ruby"><span type="rb">裳</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">唐衣</span><span type="rp">（</span><span type="rt">からぎぬ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">小袖</span><span type="rp">（</span><span type="rt">こそで</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">髪上</span><span type="rp">（</span><span type="rt">くしあ</span><span type="rp">）</span></span>げの具などを美しくそろえて、そのほか、こうした場合の贈り物に必ず添うことになっている香の<span type="ruby"><span type="rb">壺</span><span type="rp">（</span><span type="rt">つぼ</span><span type="rp">）</span></span>には<span type="ruby"><span type="rb">支那</span><span type="rp">（</span><span type="rt">しな</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">薫香</span><span type="rp">（</span><span type="rt">くんこう</span><span type="rp">）</span></span>のすぐれたのを入れてお持たせになった。六条院の諸夫人も皆それぞれの好みで姫君の<span type="ruby"><span type="rb">衣裳</span><span type="rp">（</span><span type="rt">いしょう</span><span type="rp">）</span></span>に女房用の櫛や扇までも多く添えて贈った。劣り<span type="ruby"><span type="rb">勝</span><span type="rp">（</span><span type="rt">まさ</span><span type="rp">）</span></span>りもない品々であった。<span type="ruby"><span type="rb">聡明</span><span type="rp">（</span><span type="rt">そうめい</span><span type="rp">）</span></span>な人たちが他と競争するつもりで作りととのえた物であるから、皆目と心を楽しませる物ばかりであった。東の院の人たちも<span type="ruby"><span type="rb">裳着</span><span type="rp">（</span><span type="rt">もぎ</span><span type="rp">）</span></span>の式のあることを聞いていたが、贈り物を差し出てすることを遠慮していた中で、<span type="ruby"><span type="rb">末摘花</span><span type="rp">（</span><span type="rt">すえつむはな</span><span type="rp">）</span></span>夫人は、形式的に何でもしないではいられぬ昔風な性質から、これをよそのことにしては置かれないと正式に贈り物をこしらえた。愚かしい親切である。<span type="ruby"><span type="rb">青鈍</span><span type="rp">（</span><span type="rt">あおにび</span><span type="rp">）</span></span>色の細長、<span type="ruby"><span type="rb">落栗</span><span type="rp">（</span><span type="rt">おちぐり</span><span type="rp">）</span></span>色とか何とかいって昔の女が珍重した色合いの<span type="ruby"><span type="rb">袴</span><span type="rp">（</span><span type="rt">はかま</span><span type="rp">）</span></span>一具、紫が白けて見える<span type="ruby"><span type="rb">霰地</span><span type="rp">（</span><span type="rt">あられじ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">小袿</span><span type="rp">（</span><span type="rt">こうちぎ</span><span type="rp">）</span></span>、これをよい衣裳箱に入れて、たいそうな包み方もして<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>へ贈って来た。手紙には、<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+ご存じになるはずもない私ですから、お恥ずかしいのですが、こうしたおめでたいことは傍観していられない気になりました。つまらない物ですが女房にでもお与えください。<lb />
+</span>
+　とおおように書かれてあった。源氏はそれの来ているのを見て気まずく思って例のよけいなことをする人だと顔が赤くなった。<lb />
+「これは前代の遺物のような人ですよ。こんなみじめな人は引き込んだままにしているほうがいいのに、おりおりこうして恥をかきに来られるのだ」<lb />
+　と言って、また、<lb />
+「しかし返事はしておあげなさい。侮辱されたと思うでしょう。親王さんが御秘蔵になすったお嬢さんだと思うと、<span type="ruby"><span type="rb">軽蔑</span><span type="rp">（</span><span type="rt">けいべつ</span><span type="rp">）</span></span>してしまうことのできない、哀れな気のする人ですよ」<lb />
+　とも言うのであった。小袿の袖の所にいつも変わらぬ末摘花の歌が置いてあった。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+わが身こそうらみられけれ<span type="ruby"><span type="rb">唐</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>ごろも君が<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">馴</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>れずと思へば<lb />
+</span>
+<lb />
+　字は昔もまずい人であったが、小さく縮かんだものになって、紙へ強く押しつけるように書かれてあるのであった。源氏は不快ではあったが、また<span type="ruby"><span type="rb">滑稽</span><span type="rp">（</span><span type="rt">こっけい</span><span type="rp">）</span></span>にも思われて破顔していた。<lb />
+「どんな<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>をしてこの歌を<span type="ruby"><span type="rb">詠</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>んだろう、昔の気力だけもなくなっているのだから、大騒ぎだったろう」<lb />
+　とおかしがっていた。<lb />
+「この返事は忙しくても私がする」<lb />
+　と源氏は言って、<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+不思議な、常人の思い寄らないようなことはやはりなさらないでもいいことだったのですよ。<lb />
+</span>
+　と反感を見せて書いた。また、<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+からごろもまた唐衣からごろも返す返すも唐衣なる<lb />
+</span>
+<lb />
+　と書いて、まじめ顔で、<lb />
+「あの人が好きな言葉なのですから、こう作ったのです」<lb />
+　こんなことを言って玉鬘に見せた。姫君は<span type="ruby"><span type="rb">派手</span><span type="rp">（</span><span type="rt">はで</span><span type="rp">）</span></span>に笑いながらも、<lb />
+「お気の毒でございます。<span type="ruby"><span type="rb">嘲弄</span><span type="rp">（</span><span type="rt">ちょうろう</span><span type="rp">）</span></span>をなさるようになるではございませんか」<lb />
+　と困ったように言っていた。こんな戯れも源氏はするのである。<lb />
+　内大臣は重々しくふるまうのが好きで、裳着の<span type="ruby"><span type="rb">腰結</span><span type="rp">（</span><span type="rt">こしゆ</span><span type="rp">）</span></span>い役を引き受けたにしても、定刻より早く出掛けるようなことをしないはずの人であるが、玉鬘のことを聞いた時から、一刻も早く逢いたいという父の愛が動いてとまらぬ気持ちから、今日は早く出て来た。行き届いた上にも行き届かせての祝い日の設けが六条院にできていた。よくよくの好意がなければこれほどまでにできるものではないと内大臣はありがたくも思いながらまた風変わりなことに出あっている気もした。夜の十時に式場へ案内されたのである。形式どおりの事のほかに、特にこの座敷における内大臣の席に華美な設けがされてあって、数々の<span type="ruby"><span type="rb">肴</span><span type="rp">（</span><span type="rt">さかな</span><span type="rp">）</span></span>の台が出た。燈火を普通の<span type="ruby"><span type="rb">裳着</span><span type="rp">（</span><span type="rt">もぎ</span><span type="rp">）</span></span>の式場などよりもいささか明るくしてあって、父がめぐり合って見る子の顔のわかる程度にさせてあるのであった。よく見たいと大臣は思いながらも式場でのことで、単に<span type="ruby"><span type="rb">裳</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">紐</span><span type="rp">（</span><span type="rt">ひも</span><span type="rp">）</span></span>を結んでやる以上のこともできないが、万感が胸に迫るふうであった。源氏が、<lb />
+「今日はまだ歴史を外部に知らせないことでございますから、普通の作法におとめください」<lb />
+　と注意した。<lb />
+「実際何とも申し上げようがありません」<lb />
+　杯の進められた時に、また内大臣は、<lb />
+「無限の感謝を受けていただかなければなりません。しかしながらまた今日までお知らせくださいませんでした恨めしさがそれに添うのもやむをえないこととお許しください」<lb />
+　と言った。<lb />
+<lb />
+<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+うらめしや沖つ<span type="ruby"><span type="rb">玉藻</span><span type="rp">（</span><span type="rt">たまも</span><span type="rp">）</span></span>をかづくまで<span type="ruby"><span type="rb">磯</span><span type="rp">（</span><span type="rt">いそ</span><span type="rp">）</span></span>隠れける<span type="ruby"><span type="rb">海人</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>の心よ<lb />
+</span>
+<lb />
+　こう言う大臣に悲しいふうがあった。<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>は父のこの歌に答えることが、式場のことであったし、晴れがましくてできないのを見て、源氏は、<lb />
+<lb />
+<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+「<span type="ruby"><span type="rb">寄辺</span><span type="rp">（</span><span type="rt">よるべ</span><span type="rp">）</span></span>なみかかる<span type="ruby"><span type="rb">渚</span><span type="rp">（</span><span type="rt">なぎさ</span><span type="rp">）</span></span>にうち寄せて海人も尋ねぬ<span type="ruby"><span type="rb">藻屑</span><span type="rp">（</span><span type="rt">もくづ</span><span type="rp">）</span></span>とぞ見し<lb />
+</span>
+<lb />
+　御無理なお恨みです」<lb />
+　代わってこう言った。<lb />
+「もっともです」<lb />
+　と内大臣は苦笑するほかはなかった。こうして裳着の式は終わったのである。親王がた以下の来賓も多かったから、求婚者たちも多く混じっているわけで、大臣が<span type="ruby"><span type="rb">饗応</span><span type="rp">（</span><span type="rt">きょうおう</span><span type="rp">）</span></span>の席へ急に帰って来ないのはどういうわけかと疑問も起こしていた。内大臣の子息の<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">とうの</span><span type="rp">）</span></span>中将と<span type="ruby"><span type="rb">弁</span><span type="rp">（</span><span type="rt">べん</span><span type="rp">）</span></span>の少将だけはもう真相を聞いていた。知らずに恋をしたことを思って、恥じもしたし、また精神的恋愛にとどまったことは<span type="ruby"><span type="rb">幸</span><span type="rp">（</span><span type="rt">しあわ</span><span type="rp">）</span></span>せであったとも思った。<lb />
+　弁は、<lb />
+「求婚者になろうとして、もう一歩を踏み出さなかったのだから自分はよかった」<lb />
+　と兄にささやいた。<lb />
+「太政大臣はこんな趣味がおありになるのだろうか。中宮と同じようにお扱いになる気だろうか」<lb />
+　とまた一人が言ったりしていることも源氏には想像されなくもなかったが、内大臣に、<lb />
+「当分はこのことを慎重にしていたいと思います。世間の批難などの集まってこないようにしたいと思うのです。普通の人なら何でもないことでしょうが、あなたのほうでも私のほうでもいろいろに言い騒がれることは迷惑することですから、いつとなく事実として人が信じるようになるのがいいでしょう」<lb />
+　と言っていた。<lb />
+「あなたの御意志に従います。こんなにまで御実子のように愛してくださいましたことも前生に深い因縁のあることだろうと思います」<lb />
+　腰結い役への贈り物、引き出物、<span type="ruby"><span type="rb">纏頭</span><span type="rp">（</span><span type="rt">てんとう</span><span type="rp">）</span></span>に差等をつけて配られる品々にはきまった式があることではあるが、それ以上に<span type="ruby"><span type="rb">派手</span><span type="rp">（</span><span type="rt">はで</span><span type="rp">）</span></span>な物を源氏は出した。大宮の御病気が一時支障になっていた式でもあったから、はなやかな音楽の遊びを行なうことはなかったのである。<lb />
+　<span type="ruby"><span type="rb">兵部卿</span><span type="rp">（</span><span type="rt">ひょうぶきょう</span><span type="rp">）</span></span>の宮は、もう成年式も済んだ以上、何も結婚を延ばす理由はないとお言いになって、熱心に源氏の同意をお求めになるのであったが、<lb />
+「陛下から宮仕えにお召しになったのを、一度御辞退申し上げたあとで、また仰せがありますから、ともかくも<span type="ruby"><span type="rb">尚侍</span><span type="rp">（</span><span type="rt">ないしのかみ</span><span type="rp">）</span></span>を勤めさせることにしまして、その上でまた結婚のことを考えたいと思います」<lb />
+　と源氏は<span type="ruby"><span type="rb">挨拶</span><span type="rp">（</span><span type="rt">あいさつ</span><span type="rp">）</span></span>をしていた。父の大臣はほのかに見た<span type="ruby"><span type="rb">玉鬘</span><span type="rp">（</span><span type="rt">たまかずら</span><span type="rp">）</span></span>の顔を、なおもっとはっきり見ることができないであろうか、<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">ようぼう</span><span type="rp">）</span></span>の悪い娘であれば、あれほど大騒ぎをして源氏は大事がってはくれまいなどと思って、まだ見なかった日よりもいっそう恋しがっていた。今になってはじめて夢占いの言葉が事実に合ったことも思われたのである。最愛の娘である<span type="ruby"><span type="rb">女御</span><span type="rp">（</span><span type="rt">にょご</span><span type="rp">）</span></span>にだけ大臣は玉鬘のことをくわしく話したのであった。<lb />
+　世間でしばらくこのことを風評させまいと両家の人々は注意していたのであるが、口さがないのは世間で、いつとなく評判にしてしまったのを、例の<span type="ruby"><span type="rb">蓮葉</span><span type="rp">（</span><span type="rt">はすっぱ</span><span type="rp">）</span></span>な大臣の娘が聞いて、女御の居間に頭中将や少将などの来ている時に出て来て言った。<lb />
+「殿様はまたお嬢様を発見なすったのですってね。しあわせね、両方のお<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>で、大事がられるなんて。そして何ですってね。その人もいいお母様から生まれたのではないのですってね」<lb />
+　と露骨なことを言うのを、女御は片腹痛く思って何とも言わない。中将が、<lb />
+「大事がられる訳があるから大事がられるのでしょう。いったいあなたはだれから聞いてそんなことを不謹慎に言うのですか。おしゃべりな女房が聞いてしまうじゃありませんか」<lb />
+　と言った。<lb />
+「あなたは黙っていらっしゃい。私は皆知っています。その人は<span type="ruby"><span type="rb">尚侍</span><span type="rp">（</span><span type="rt">ないしのかみ</span><span type="rp">）</span></span>になるのです。私が女御さんの所へ来ているのは、そんなふうに引き立てていただけるかと思ってですよ。普通の女房だってしやしない用事までもして、私は働いています。女御さんは薄情です」<lb />
+　と令嬢は恨むのである。<lb />
+「尚侍が欠員になれば僕たちがそれになりたいと思っているのに。ひどいね、この人がなりたがるなんて」<lb />
+　と兄たちがからかって言うと、腹をたてて、<lb />
+「りっぱな兄弟がたの中へ、つまらない妹などははいって来るものじゃない。中将さんは薄情です。よけいなことをして私を<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へつれておいでになって、そして<span type="ruby"><span type="rb">軽蔑</span><span type="rp">（</span><span type="rt">けいべつ</span><span type="rp">）</span></span>ばかりなさるのだもの、平凡な人間ではごいっしょに混じっていられないお家だわ。たいへんなたいへんなりっぱな皆さんだから」<lb />
+　次第にあとへ<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>を引いて、こちらをにらんでいるのが、子供らしくはあるが、意地悪そうに目じりがつり上がっているのである。中将はこんなことを見ても自身の失敗が恥ずかしくてまじめに黙っていた。弁の少将が、<lb />
+「そんなふうにあなたは論理を立てることができる人なのですから、女御さんも尊重なさるでしょうよ。心を静めてじっと念じていれば、岩だって<span type="ruby"><span type="rb">沫雪</span><span type="rp">（</span><span type="rt">あわゆき</span><span type="rp">）</span></span>のようにすることもできるのですから、あなたの志望だって実現できることもありますよ」<lb />
+　と微笑しながら言っていた。中将は、<lb />
+「腹をたててあなたが<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>の岩戸の中へはいってしまえばそれが最もいいのですよ」<lb />
+　と言って立って行った。令嬢はほろほろと涙をこぼしながら泣いていた。<lb />
+「あの方たちはあんなに薄情なことをお言いになるのですが、あなただけは私を愛してくださいますから、私はよく御用をしてあげます」<lb />
+　と言って、小まめに<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>の童女さえしかねるような用にも走り歩いて、一所懸命に勤めては、<lb />
+「尚侍に私を推薦してください」<lb />
+　と令嬢は女御を責めるのであった。どんな気持ちでそればかりを望むのであろうと女御はあきれて何とも言うことができない。この話を内大臣が聞いて、おもしろそうに笑いながら、女御の所へ来ていた時に、<lb />
+「どこにいるかね、<span type="ruby"><span type="rb">近江</span><span type="rp">（</span><span type="rt">おうみ</span><span type="rp">）</span></span>の君、ちょっとこちらへ」<lb />
+　と呼んだ。<lb />
+「はい」<lb />
+　高く返辞をして近江の君は出て来た。<lb />
+「あなたはよく精勤するね、役人にいいだろうね。尚侍にあんたがなりたいということをなぜ早く私に言わなかったのかね」<lb />
+　大臣はまじめ顔に言うのである。近江の君は喜んだ。<lb />
+「そう申し上げたかったのでございますが、女御さんのほうから間接にお聞きくださるでしょうと御信頼しきっていたのですが、おなりになる人が別においでになることを承りまして、私は夢の中だけで金持ちになっていたという気がいたしましてね、胸の上に手を置いて<span type="ruby"><span type="rb">吐息</span><span type="rp">（</span><span type="rt">といき</span><span type="rp">）</span></span>ばかりをつく状態でございました」<lb />
+　とても早口にべらべらと言う。大臣はふき出してしまいそうになるのをみずからおさえて、<lb />
+「つまり遠慮深い癖が<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">わざわ</span><span type="rp">）</span></span>いしたのだね。私に言えばほかの希望者よりも先に、陛下へお願いしたのだったがね。太政大臣の令嬢がどんなにりっぱな人であっても、私がぜひとお願いすれば勅許がないわけはなかったろうに、惜しいことをしたね。しかし今からでもいいから自己の推薦状を美辞麗句で書いて出せばいい。巧みな長歌などですれば陛下のお目にきっととまるだろう。人情味のある方だからね」<lb />
+　とからかっていた。親がすべきことではないが。<lb />
+「和歌はどうやらこうやら作りますが、長い自身の推薦文のようなものは、お父様から書いてお出しくださいましたほうがと思います。二人でお願いする形になって、お父様のお<span type="ruby"><span type="rb">蔭</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>がこうむられます」<lb />
+　両手を<span type="ruby"><span type="rb">擦</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>り合わせながら近江の君は言っていた。<span type="ruby"><span type="rb">几帳</span><span type="rp">（</span><span type="rt">きちょう</span><span type="rp">）</span></span>の後ろなどで聞いている女房は笑いたい時に笑われぬ苦しみをなめていた。<span type="ruby"><span type="rb">我慢性</span><span type="rp">（</span><span type="rt">がまんしょう</span><span type="rp">）</span></span>のない人らは立って行ってしまった。女御も顔を赤くして醜いことだと思っているのであった。内大臣は、<lb />
+「気分の悪い時には近江の君と<span type="ruby"><span type="rb">逢</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>うのがよい。<span type="ruby"><span type="rb">滑稽</span><span type="rp">（</span><span type="rt">こっけい</span><span type="rp">）</span></span>を見せて紛らせてくれる」<lb />
+　とこんなことを言って笑いぐさにしているのであるが、世間の人は内大臣が恥ずかしさをごまかす意味でそんな態度もとるのであると言っていた。<lb />
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>三国志</title>
+        <author>吉川英治</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2013-07-11">作成</resp><resp /><note>
+<lb />
+底本：「三国志（一）」吉川英治歴史時代文庫、講談社<lb />
+　　　1989（平成元）年4月11日第1刷発行<lb />
+　　　2009（平成21）年2月2日第62刷発行<lb />
+入力：門田裕志<lb />
+校正：仙酔ゑびす<lb />
+<date when="2013-07-11">2013年7月11日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>門田裕志</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>仙酔ゑびす</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>三国志</title><author>吉川英治</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><span rend="main_text" rendition="div"><lb />
+　三国志は、いうまでもなく、今から約千八百年前の古典であるが、三国志の中に活躍している登場人物は、現在でも中国大陸の至る所にそのまま居るような気がする。――中国大陸へ行って、そこの雑多な庶民や要人などに接し、特に親しんでみると、三国志の中に出て来る人物の誰かしらときっと似ている。或いは、共通したものを感じる場合がしばしばある。<lb />
+　だから、現代の中国大陸には、三国志時代の<span type="ruby"><span type="rb">治乱興亡</span><span type="rp">（</span><span type="rt">ちらんこうぼう</span><span type="rp">）</span></span>がそのままあるし、作中の人物も、文化や姿こそ変っているが、なお、今日にも生きているといっても過言でない。<lb />
+　　　　　　　　×<lb />
+　三国志には、詩がある。<lb />
+　単に<span type="ruby"><span type="rb">尨大</span><span type="rp">（</span><span type="rt">ぼうだい</span><span type="rp">）</span></span>な治乱興亡を記述した戦記軍談の<span type="ruby"><span type="rb">類</span><span type="rp">（</span><span type="rt">たぐい</span><span type="rp">）</span></span>でない所に、東洋人の血を大きく<span type="ruby"><span type="rb">搏</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>つ一種の<span type="ruby"><span type="rb">諧調</span><span type="rp">（</span><span type="rt">かいちょう</span><span type="rp">）</span></span>と音楽と色彩とがある。<lb />
+　三国志から詩を除いてしまったら、世界的といわれる大構想の価値もよほど無味乾燥なものになろう。<lb />
+　故に、三国志は、<span type="ruby"><span type="rb">強</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>いて簡略にしたり<span type="ruby"><span type="rb">抄訳</span><span type="rp">（</span><span type="rt">しょうやく</span><span type="rp">）</span></span>したものでは、大事な詩味も<span type="ruby"><span type="rb">逸</span><span type="rp">（</span><span type="rt">いっ</span><span type="rp">）</span></span>してしまうし、もっと重要な人の胸底を搏つものを<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くしてしまうおそれがある。<lb />
+　で私は、簡訳や抄略をあえてせずに、長篇執筆に適当な新聞小説にこれを試みた。そして<span type="ruby"><span type="rb">劉玄徳</span><span type="rp">（</span><span type="rt">りゅうげんとく</span><span type="rp">）</span></span>とか、<span type="ruby"><span type="rb">曹操</span><span type="rp">（</span><span type="rt">そうそう</span><span type="rp">）</span></span>とか<span type="ruby"><span type="rb">関羽</span><span type="rp">（</span><span type="rt">かんう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">張飛</span><span type="rp">（</span><span type="rt">ちょうひ</span><span type="rp">）</span></span>そのほか、主要人物などには、自分の解釈や創意をも加えて書いた。随所、原本にない辞句、会話なども、わたくしの<span type="ruby"><span type="rb">点描</span><span type="rp">（</span><span type="rt">てんびょう</span><span type="rp">）</span></span>である。<lb />
+　　　　　　　　×<lb />
+　いうまでもなく三国志は、中国の歴史に取材しているが、正史ではない。けれど史中の人物を巧妙自在に<span type="ruby"><span type="rb">拉</span><span type="rp">（</span><span type="rt">らっ</span><span type="rp">）</span></span>して活躍させ、<span type="ruby"><span type="rb">後漢</span><span type="rp">（</span><span type="rt">ごかん</span><span type="rp">）</span></span>の第十二代霊帝の代（わが<span type="ruby"><span type="rb">朝</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span>の成務天皇の御世、西暦百六十八年頃）から、武帝が呉を亡ぼす太康元年までのおよそ百十二年間の長期にわたる治乱が書いてある。構想の雄大と、舞台の地域の広さは、世界の古典小説中でも比類ないものといわれている。登場人物なども、<span type="ruby"><span type="rb">審</span><span type="rp">（</span><span type="rt">つまび</span><span type="rp">）</span></span>らかに数えたなら何千何万人にものぼるであろう。しかも、これに加うるに中国一流の華麗豪壮な<span type="ruby"><span type="rb">調</span><span type="rp">（</span><span type="rt">ちょう</span><span type="rp">）</span></span>と、<span type="ruby"><span type="rb">哀婉</span><span type="rp">（</span><span type="rt">あいえん</span><span type="rp">）</span></span>切々の情、悲歌<span type="ruby"><span type="rb">慷慨</span><span type="rp">（</span><span type="rt">こうがい</span><span type="rp">）</span></span>の辞句と、誇張幽幻な趣と、<span type="ruby"><span type="rb">拍案</span><span type="rp">（</span><span type="rt">はくあん</span><span type="rp">）</span></span>三<span type="ruby"><span type="rb">嘆</span><span type="rp">（</span><span type="rt">たん</span><span type="rp">）</span></span>の熱とを以て<span type="ruby"><span type="rb">縷述</span><span type="rp">（</span><span type="rt">るじゅつ</span><span type="rp">）</span></span>されてあるので、読む者をして百年の地上に明滅する種々雑多な人間の浮沈と文化の興亡とを、一巻に偲ばせて、<span type="ruby"><span type="rb">転</span><span type="rp">（</span><span type="rt">うたた</span><span type="rp">）</span></span><span type="ruby"><span type="rb">深思</span><span type="rp">（</span><span type="rt">しんし</span><span type="rp">）</span></span>の感慨に<span type="ruby"><span type="rb">耽</span><span type="rp">（</span><span type="rt">ふけ</span><span type="rp">）</span></span>らしめる魅力がある。<lb />
+　　　　　　　　×<lb />
+　見方によれば三国志は、一つの民俗小説ともいえる。三国志の中に見られる人間の愛欲、道徳、宗教、その生活、また、主題たる戦争行為だとか<span type="ruby"><span type="rb">群雄割拠</span><span type="rp">（</span><span type="rt">ぐんゆうかっきょ</span><span type="rp">）</span></span>の状などは、さながら<span type="ruby"><span type="rb">彩</span><span type="rp">（</span><span type="rt">いろど</span><span type="rp">）</span></span>られた彼の民俗絵巻でもあり、その<span type="ruby"><span type="rb">生々動流</span><span type="rp">（</span><span type="rt">せいせいどうりゅう</span><span type="rp">）</span></span>する<span type="ruby"><span type="rb">相</span><span type="rp">（</span><span type="rt">すがた</span><span type="rp">）</span></span>は、天地間を舞台として、壮大なる音楽に伴って演技された人類の<span type="ruby"><span type="rb">大演劇</span><span type="rp">（</span><span type="rt">だいドラマ</span><span type="rp">）</span></span>とも観られるのである。<lb />
+　　　　　　　　×<lb />
+　現在の地名と、<span type="ruby"><span type="rb">原本</span><span type="rp">（</span><span type="rt">げんぽん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">誌</span><span type="rp">（</span><span type="rt">しる</span><span type="rp">）</span></span>す地名とは、当然時代による<span type="ruby"><span type="rb">異</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>いがあるので、分っている地方は下に註を加えておいた。分らない旧名もかなりある。また、登場人物の爵位官職など、ほぼ文字で推察のつきそうなのはそのまま用いた。あまりに現代語化しすぎると、その文字の持っている特有な色彩や感覚を失ってしまうからである。<lb />
+　　　　　　　　×<lb />
+　原本には「通俗三国志」「三国志演義」その他数種あるが、私はそのいずれの直訳にもよらないで、随時、長所を<span type="ruby"><span type="rb">択</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>って、わたくし流に書いた。これを書きながら思い出されるのは、少年の頃、久保天随氏の演義三国志を熱読して、三<span type="ruby"><span type="rb">更</span><span type="rp">（</span><span type="rt">こう</span><span type="rp">）</span></span>四<span type="ruby"><span type="rb">更</span><span type="rp">（</span><span type="rt">こう</span><span type="rp">）</span></span>まで燈下にしがみついていては、父に寝ろ寝ろといって叱られたことである。本来、三国志の真味を<span type="ruby"><span type="rb">酌</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>むにはこの原書を読むに<span type="ruby"><span type="rb">如</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>くはないのであるが、今日の読者にその<span type="ruby"><span type="rb">難渋</span><span type="rp">（</span><span type="rt">なんじゅう</span><span type="rp">）</span></span>は耐え得ぬことだし、また、一般の求める目的も意義も、大いに<span type="ruby"><span type="rb">異</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>うはずなので、あえて<span type="ruby"><span type="rb">書肆</span><span type="rp">（</span><span type="rt">しょし</span><span type="rp">）</span></span>の希望にまかせて再訂<span type="ruby"><span type="rb">上梓</span><span type="rp">（</span><span type="rt">じょうし</span><span type="rp">）</span></span>することにした。<lb />
+<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">著者</span>
+<lb />
+<lb />
+<lb />
+</span></p></body>
+  </text>
+</TEI>
