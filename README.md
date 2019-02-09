@@ -4,7 +4,7 @@
 
 青空文庫テキストを[Best Practice for TEI in Libraries](http://www.tei-c.org/SIG/Libraries/teiinlibraries/4.0.0/bptl-driver.html)のLevel 2程度の深度で自動的にマークアップしたTEIファイルを格納しています。
 
-Level 3やLevel 4の深度でマークアップする際の入力ファイルとしてご利用ください。
+**Level 3やLevel 4の深度でマークアップする際の入力ファイルとしてご利用ください。**
 
 参考：[青空文庫テキストをより便利にする（機械可読性を高める）ためのプロジェクト](https://github.com/TEI-EAJ/aozora_tei)
 
@@ -14,7 +14,7 @@ Level 3やLevel 4の深度でマークアップする際の入力ファイルと
 
 ## 変換方法
 
-[RELAX NG （リラクシング、RELAX Next Generation）](http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng)でバリデーションを実施しています。
+[RELAX NG （リラクシング、RELAX Next Generation）](http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng)ファイルを用いてバリデーションを実施しています。
 
 
 ### ヘッダー
@@ -23,14 +23,15 @@ Level 3やLevel 4の深度でマークアップする際の入力ファイルと
 
 ### 本文
 
-上述のスキーマに準拠するように、一時的な対応を含め、以下の置換・変換処理を実施しています。
+上述のスキーマに準拠するように、以下の変換処理を実施しています。
 
 * タグ
     * タグはすべて<span>タグに置換し、rendition属性に元のタグ情報を与えています。
     * 例：<h4>xxx</h4> => <span rendition="h4">xxx</span>
 
 * 属性（置換）
-    * 形式的なバリデーションをクリアする目的での置換処理を含み、置換後の属性の使用方法の正しさは考慮できていません。
+    * 形式的なバリデーションをクリアするための置換処理を含んでいます。
+    * したがって、置換後の属性の使用方法の正しさは考慮できていません。
 
 | 変換前 | 変換後 |
 ----|---- 
@@ -56,3 +57,9 @@ Level 3やLevel 4の深度でマークアップする際の入力ファイルと
 | vto |
 | height |
 | width | 
+
+## 可視化例
+
+* [作成日/公開日をタイムラインで見る](https://tei-eaj.github.io/auto_aozora_tei/timeline.html)
+* [入力者/校正者の数を見る](https://tei-eaj.github.io/auto_aozora_tei/stats.html)
+* （参考）[青空文庫のHTMLファイルのURLを入力してTEI/XMLファイルを表示する](https://tei-eaj.github.io/auto_aozora_tei/)
