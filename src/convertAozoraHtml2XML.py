@@ -164,6 +164,7 @@ def handle_bibliographical_information(text):
 
     return note, dates, persons
 
+count = 0
 
 for i in range(start, len(files)):
 
@@ -204,59 +205,66 @@ for i in range(start, len(files)):
 
     # ヘッダーがないものはスキップ
     if len(bib_infos) == 0:
+
+        count = count + 1
+
         print("**** non ****\t" + output_path)
-        continue
+        # continue
+        respStmt = root.find(prefix + "respStmt")
+        if respStmt.find(prefix + "resp") == None:
+            respStmt.append(ET.fromstring('<resp/>'))
 
-    bib_info = bib_infos[0]
+    else:
+        bib_info = bib_infos[0]
 
-    # 文字列解析により、noteの整形、および日時情報、人物情報を取得する
-    note, dates, persons = handle_bibliographical_information(str(bib_info))
+        # 文字列解析により、noteの整形、および日時情報、人物情報を取得する
+        note, dates, persons = handle_bibliographical_information(str(bib_info))
 
-    respStmt = root.find(prefix + "respStmt")
+        respStmt = root.find(prefix + "respStmt")
 
-    # 取得した日時情報で、note内の日時情報を書き換える
-    for date in dates:
-        note = note.replace(date["org"], '<date when="%s">%s</date>' % (date["rep"], date["org"]))
+        # 取得した日時情報で、note内の日時情報を書き換える
+        for date in dates:
+            note = note.replace(date["org"], '<date when="%s">%s</date>' % (date["rep"], date["org"]))
 
-        if date["type"] == "作成" or date["type"] == "公開":
-            respStmt.append(ET.fromstring('<resp when="%s">作成</resp>' % date["rep"]))
+            if date["type"] == "作成" or date["type"] == "公開":
+                respStmt.append(ET.fromstring('<resp when="%s">作成</resp>' % date["rep"]))
 
-    if respStmt.find(prefix + "resp") == None:
-        respStmt.append(ET.fromstring('<resp/>'))
+        if respStmt.find(prefix + "resp") == None:
+            respStmt.append(ET.fromstring('<resp/>'))
 
-    try:
-        respStmt.append(ET.fromstring(note))
-    except:
-        print("**** note ****\t" + output_path)
-        print(note)
+        try:
+            respStmt.append(ET.fromstring(note))
+        except:
+            print("**** note ****\t" + output_path)
+            print(note)
 
-        if output_filename not in arr_exc:
-            sys.exit(output_path)
+            if output_filename not in arr_exc:
+                sys.exit(output_path)
 
-    # 人物情報の追加
-    titleStmt = root.find(prefix + "titleStmt")
-    for person in persons:
+        # 人物情報の追加
+        titleStmt = root.find(prefix + "titleStmt")
+        for person in persons:
+            titleStmt.append(
+                ET.fromstring('<respStmt><resp>%s</resp><name>%s</name></respStmt>' % (person["type@en"], person["name"])))
+
         titleStmt.append(
-            ET.fromstring('<respStmt><resp>%s</resp><name>%s</name></respStmt>' % (person["type@en"], person["name"])))
+            ET.fromstring('<respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt>'))
 
-    titleStmt.append(
-        ET.fromstring('<respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt>'))
+        # タイトルと著者情報の追加
+        bibl = root.find(prefix + "bibl")
+        bibl.text = "Input by your self"
 
-    # タイトルと著者情報の追加
-    bibl = root.find(prefix + "bibl")
-    bibl.text = "Input by your self"
+        t_arr = soup.select(".title")
+        if len(t_arr) > 0:
+            title = t_arr[0].text
+            root.find(prefix + "title").text = title
+            bibl.append(ET.fromstring('<title>%s</title>' % title))
 
-    t_arr = soup.select(".title")
-    if len(t_arr) > 0:
-        title = t_arr[0].text
-        root.find(prefix + "title").text = title
-        bibl.append(ET.fromstring('<title>%s</title>' % title))
-
-    a_arr = soup.select(".author")
-    if len(a_arr) > 0:
-        author = a_arr[0].text
-        root.find(prefix + "author").text = author
-        bibl.append(ET.fromstring('<author>%s</author>' % author))
+        a_arr = soup.select(".author")
+        if len(a_arr) > 0:
+            author = a_arr[0].text
+            root.find(prefix + "author").text = author
+            bibl.append(ET.fromstring('<author>%s</author>' % author))
 
     # ----------- 以下、本文 -----------
 
@@ -265,20 +273,27 @@ for i in range(start, len(files)):
     p = ET.Element("{http://www.tei-c.org/ns/1.0}p")
     body.append(p)
 
-    main_text = soup.select(".main_text")[0]
+    main_texts = soup.select(".main_text")
 
-    text = str(main_text)
+    # ヘッダーがないものはスキップ
+    if len(main_texts) == 0:
+        print("**** none text ****\t" + output_path)
+        # continue
+    else:
+        main_text = main_texts[0]
 
-    text = convert(text)
+        text = str(main_text)
 
-    try:
-        p.append(ET.fromstring(text))
-    except:
-        print("**** text ****\t" + output_path)
-        # print(text)
-        with open("data/tmp.txt", mode='w') as f:
-            f.write(text)
-        sys.exit(output_path)
+        text = convert(text)
+
+        try:
+            p.append(ET.fromstring(text))
+        except:
+            print("**** text ****\t" + output_path)
+            # print(text)
+            with open("data/tmp.txt", mode='w') as f:
+                f.write(text)
+            sys.exit(output_path)
 
     # --以下、出力 --
 
@@ -299,3 +314,6 @@ for i in range(start, len(files)):
 
         if output_filename not in arr_exc:
             sys.exit(output_path)
+
+
+print(count)
