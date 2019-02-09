@@ -10,7 +10,7 @@
 
 ## ディレクトリ構造
 
-**TEI/XMLファイルの格納先： docs/data**
+**TEI/XMLファイルの格納先： [docs/data](https://github.com/TEI-EAJ/auto_aozora_tei/tree/master/docs/data)**
 
 例： docs/data/000005/files/53194_45356.xml
 
