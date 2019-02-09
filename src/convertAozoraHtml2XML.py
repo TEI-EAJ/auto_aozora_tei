@@ -97,7 +97,7 @@ def convert(text):
     arr3 = ["d", "p", "b", "i", "small"]
     for e in arr3:
         text = re.sub('<' + e + '>(.+?)<\/' + e + '>', '<span rendition="' + e + '">\\1</span>', text)
-        text = text.replace("<"+e+">", "<span rendition='" + e + "'")
+        text = text.replace("<"+e+">", "<span rendition='" + e + "'>")
         text = text.replace("</" + e + ">", "</span>")
 
     # その他の置換対象の配列
@@ -176,7 +176,8 @@ for i in range(start, len(files)):
     output_filename = input_path.split("/")[-1].replace(".html", ".xml")
     output_path = output_dir + "/" + output_filename
 
-    arr10 = ["45210_24671.xml", "47177_37073.xml", "18361_32671.xml", "1745_16941.xml", "47850_31638.xml"]
+    # arr10 = ["45210_24671.xml", "47177_37073.xml", "18361_32671.xml", "1745_16941.xml", "47850_31638.xml"]
+    arr10 = ["1745_16941.xml"]
 
     if output_filename in arr10:
         continue
