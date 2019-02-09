@@ -10,7 +10,13 @@
 
 ## ディレクトリ構造
 
-[青空文庫のGitHubリポジトリ](https://github.com/aozorabunko/aozorabunko)に基づいています。
+TEI/XMLファイルの格納先： docs/data
+
+例： docs/data/000005/files/53194_45356.xml
+
+ディレクトリ構造およびファイル名は[青空文庫のGitHubリポジトリ](https://github.com/aozorabunko/aozorabunko)を参考にしています。
+
+（参考）[青空文庫のHTMLファイルのURLを入力してTEI/XMLファイルを表示する](https://tei-eaj.github.io/auto_aozora_tei/html/)
 
 ## 変換方法
 
@@ -60,6 +66,6 @@
 
 ## 可視化例
 
-* [作成日/公開日をタイムラインで見る](https://tei-eaj.github.io/auto_aozora_tei/timeline.html)
-* [入力者/校正者の数を見る](https://tei-eaj.github.io/auto_aozora_tei/stats.html)
-* （参考）[青空文庫のHTMLファイルのURLを入力してTEI/XMLファイルを表示する](https://tei-eaj.github.io/auto_aozora_tei/)
+* [作成日/公開日をタイムラインで見る](https://tei-eaj.github.io/auto_aozora_tei/html/timeline.html)
+* [入力者/校正者の数を見る](https://tei-eaj.github.io/auto_aozora_tei/html/stats.html)
+* （参考）[青空文庫のHTMLファイルのURLを入力してTEI/XMLファイルを表示する](https://tei-eaj.github.io/auto_aozora_tei/html/)
