@@ -3,21 +3,20 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
 
 <body>
-  
-  <div class="container my-5">
 
+  <div class="container my-5">
+    
     <div class="card mt-5">
       <h5 class="card-header">青空文庫のHTMLファイルのURLを入力してTEI/XMLファイルを表示する</h5>
       <div class="card-body">
-        <form>
-          <p class="card-text">
-            <input type="text" class="form-control" name="url" placeholder="https://www.aozora.gr.jp/cards/000879/files/1126_14251.html">
-          </p>
-          <button type="submit" class="btn btn-primary">表示</button>
-        </form>
+        <p class="card-text">
+          <input type="text" class="form-control" id="url" placeholder="https://www.aozora.gr.jp/cards/000879/files/1126_14251.html">
+        </p>
+        <button type="button" id="btn" class="btn btn-primary">表示 <i class="fas fa-external-link-alt"></i></button>
       </div>
     </div>
 
@@ -38,14 +37,17 @@ var vars = getParam();
 var resourceUri = vars["url"]
 
 $(function(){
-
   if(resourceUri != "" && resourceUri != null){
-    resourceUri = decodeURIComponent(resourceUri)
+    $("#url").val(decodeURIComponent(resourceUri))
+  }
+
+  // ボタンクリックで時刻を更新
+  $('#btn').click(function(e) {
+    resourceUri = $("#url").val()
     resourceUri = resourceUri.replace("https://www.aozora.gr.jp/cards/", "https://tei-eaj.github.io/auto_aozora_tei/data/")
     resourceUri = resourceUri.replace(".html", ".xml")
-    //window.open(resourceUri, '_blank')
-    location.href = resourceUri
-  }
+    window.open(resourceUri, '_blank')
+  });
 
 });
 
