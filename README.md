@@ -68,4 +68,5 @@
 
 * [作成日/公開日をタイムラインで見る](https://tei-eaj.github.io/auto_aozora_tei/html/timeline.html)
 * [入力者/校正者の数を見る](https://tei-eaj.github.io/auto_aozora_tei/html/stats.html)
+* [作品分類の可視化](https://observablehq.com/@nakamura196/d3-zoomable-sunburst-in-japan-search-databases)
 * （参考）[青空文庫のHTMLファイルのURLを入力してTEI/XMLファイルを表示する](https://tei-eaj.github.io/auto_aozora_tei/html/)
