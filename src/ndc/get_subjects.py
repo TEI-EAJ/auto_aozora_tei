@@ -17,10 +17,22 @@ for obj in results["results"]["bindings"]:
     c = int(obj["c"]["value"])
     subjects = obj["subject"]["value"].split(" ")
     for subject in subjects:
+        if subject == "NDC":
+            continue
+
         if subject not in map:
             map[subject] = 0
 
         map[subject] = map[subject] + c
+
+        if "K" in subject:
+
+            subject = subject.replace("K", "")
+
+            if subject not in map:
+                map[subject] = 0
+
+            map[subject] = map[subject] + c
 
 fw = open("data/subjects.json", 'w')
 json.dump(map, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
