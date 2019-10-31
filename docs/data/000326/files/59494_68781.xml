@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ふみたば</title>
+        <author>モーリス・ルヴェル　Maurice Level</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-07-30">作成</resp><resp /><note>
+<lb />
+底本：「夜鳥」創元推理文庫、東京創元社<lb />
+　　　2003年2月14日初版<lb />
+底本の親本：「夜鳥」春陽堂<lb />
+　　　1928（昭和3）年6月23日<lb />
+初出：「新青年」<lb />
+　　　1926（大正15）年8月増刊号<lb />
+※初出時の表題は「文束」です。<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：ノワール<lb />
+校正：栗田美恵子<lb />
+<date when="2019-07-30">2019年7月30日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>ノワール</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>栗田美恵子</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>ふみたば</title><author>モーリス・ルヴェル　Maurice Level</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+　創作家のランジェは、黙って、大きな<seg type="ruby"><seg type="rb">卓机</seg><seg type="rp">（</seg><seg type="rt">デスク</seg><seg type="rp">）</seg></seg>から一束の手紙を取りだした。その<seg type="ruby"><seg type="rb">文束</seg><seg type="rp">（</seg><seg type="rt">ふみたば</seg><seg type="rp">）</seg></seg>は<seg type="ruby"><seg type="rb">真紅</seg><seg type="rp">（</seg><seg type="rt">まっか</seg><seg type="rp">）</seg></seg>なリボンで<seg type="ruby"><seg type="rb">結</seg><seg type="rp">（</seg><seg type="rt">ゆわ</seg><seg type="rp">）</seg></seg>えてあった。<lb />
+「あなたは、これが要るんですか。どうしても取りかえそうと云うんですか」<lb />
+　彼はおろおろ声でいった。が、マダム・ヴァンクールは何もいわずに<seg type="ruby"><seg type="rb">肯</seg><seg type="rp">（</seg><seg type="rt">うな</seg><seg type="rp">）</seg></seg>ずいてみせた。<lb />
+「こうした要求が男の心にどんな<seg type="ruby"><seg type="rb">傷手</seg><seg type="rp">（</seg><seg type="rt">いたで</seg><seg type="rp">）</seg></seg>を負わせるかということが、あなたに解りませんか」<lb />
+　ランジェはもう一度哀願してみたが、女は返事もしないで、ただ手をのべるばかりであった。<lb />
+「僕も悪かったけれど、そんなに<seg type="ruby"><seg type="rb">虐</seg><seg type="rp">（</seg><seg type="rt">いじ</seg><seg type="rp">）</seg></seg>めなくたっていいじゃありませんか。成るほど僕はちょっと不実なことをした。あなたが<seg type="ruby"><seg type="rb">憤</seg><seg type="rp">（</seg><seg type="rt">おこ</seg><seg type="rp">）</seg></seg>るのも無理がない。だから僕は散々<seg type="ruby"><seg type="rb">謝罪</seg><seg type="rp">（</seg><seg type="rt">あやま</seg><seg type="rp">）</seg></seg>ったでしょう。足りなければ何回でもお<seg type="ruby"><seg type="rb">詫</seg><seg type="rp">（</seg><seg type="rt">わび</seg><seg type="rp">）</seg></seg>します。しかしあんなことのために全然愛想づかしをして、前々からの手紙まで取り返すというのは<seg type="ruby"><seg type="rb">酷</seg><seg type="rp">（</seg><seg type="rt">ひど</seg><seg type="rp">）</seg></seg>い。つまり僕はあなたの愛を失ったばかりでなく、あなたから踏みつけにされるのですね。それに……」<lb />
+「もう沢山、愛なんてことを二度と<seg type="ruby"><seg type="rb">仰</seg><seg type="rp">（</seg><seg type="rt">おっ</seg><seg type="rp">）</seg></seg>しゃらないで下さい」<lb />
+　彼女の声は少しも潤いのない、冷淡なものであった。<lb />
+「そんなら、あなたは僕というものを全然信用しないんですね。僕がこの手紙を利用して何か悪事でも企らみはしないかとお思いなんでしょう。だから返してくれなんて云うんでしょう」<lb />
+　彼は、女に<seg type="ruby"><seg type="rb">劣</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>けない程度に冷静を装ったつもりだけれど、その文束を持った指先が無残にふるえていた。<lb />
+　しかし女は彼の言葉を耳にもかけない風で、<lb />
+「とにかく返して下さい」<lb />
+　とせがんだ。それでランジェもついに断念して、抽斗をぴしゃりと閉め、それから腰をかがめて、<lb />
+「じゃお返ししましょう」<lb />
+　女は文束を取り戻してしまうと、ほっとしたように相好を和らげて、やっと緊張していた態度をゆるめた。そして一しきり<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>の中を見廻わしたが、さすがに過去二年間の楽しい思い出を胸に喚びおこしてか、深くも感慨にうたれた風であった。<lb />
+　それは悩ましい瞬間だった。<lb />
+　ランジェはもうがっかりしてじっと額を押えていた。が、女は早くも元の冷静に立ちかえって、優しくしかし妙に冷酷を押包んだ口調で、じゅんじゅんと弁解をはじめた。<lb />
+　彼女は今大きな椅子の肱掛けに手をおいていたが、以前の彼女は入って来るなり<seg type="ruby"><seg type="rb">焦</seg><seg type="rp">（</seg><seg type="rt">もど</seg><seg type="rp">）</seg></seg>かしそうに、その椅子へ<seg type="ruby"><seg type="rb">手提袋</seg><seg type="rp">（</seg><seg type="rt">てさげ</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">暖手套</seg><seg type="rp">（</seg><seg type="rt">てぶくろ</seg><seg type="rp">）</seg></seg>を投げだしたものであったのだ。<lb />
+「わたしは、何も貴方に対して悪意をもっているのではありませんよ。貴方だっても<seg type="ruby"><seg type="rb">左様</seg><seg type="rp">（</seg><seg type="rt">そう</seg><seg type="rp">）</seg></seg>でしょう。けれどもわたし達の関係は、どうせ永くつづけてゆくことの出来ないものなんです。ね、ですから、今のうちにお別れする方がいいと思いますの。今に他の<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>がわたしと入れ代って、<seg type="ruby"><seg type="rb">此室</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>へせっせと通って来るでしょう。そして、わたしの坐った席へその<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>が坐って、わたしがしたあらゆることをその<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>がするでしょう。さアそうなると、わたしの手紙が<seg type="ruby"><seg type="rb">此室</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>にあると<seg type="ruby"><seg type="rb">剣難</seg><seg type="rp">（</seg><seg type="rt">けんのん</seg><seg type="rp">）</seg></seg>です。わたしの名誉だって危いわ。いいえ、貴方が何処へ隠したって駄目。結局嗅ぎ出されるにきまっていますからね。ですから、ようく考えて御覧なさい。貴方だって、大切な記念だから返せないとか何とか<seg type="ruby"><seg type="rb">仰</seg><seg type="rp">（</seg><seg type="rt">おっ</seg><seg type="rp">）</seg></seg>しゃるけれど、ほんとうは単に、自尊心を傷つけられるのがお厭なんでしょう」<lb />
+　ランジェは慌てて反抗するような身振りをやった。けれども彼女は笑って、<lb />
+「いえ、いえ、それに違いありません。わたしは<seg type="ruby"><seg type="rb">貴君</seg><seg type="rp">（</seg><seg type="rt">あなた</seg><seg type="rp">）</seg></seg>のお心がようく解っています。何でもないことです。貴方だって後になって考えると、やはり、あんなものは返していいことをしたとお思いなさるでしょう。もう邪魔者が来なくなりますからね、みっちりと御勉強なさいまし。こうした経験をお書きになると、また素晴らしい創作がお出来になりますわ。だけど、わたしなんかつまらないのね。今に貴方の御作を読んで、第一番に泣かされるのはわたしよ」<lb />
+「僕は、あなたのその涙がたった今欲しい」<lb />
+　すると女は、ふと<seg type="ruby"><seg type="rb">閾際</seg><seg type="rp">（</seg><seg type="rt">しきいぎわ</seg><seg type="rp">）</seg></seg>に立ちどまって、<lb />
+「そんなことを<seg type="ruby"><seg type="rb">仰</seg><seg type="rp">（</seg><seg type="rt">おっ</seg><seg type="rp">）</seg></seg>しゃるけれど、わたしだって、<seg type="ruby"><seg type="rb">宅</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ帰ってどんなに泣くでしょう」<lb />
+　悲しそうに声を曇らせたが、<seg type="ruby"><seg type="rb">直</seg><seg type="rp">（</seg><seg type="rt">じ</seg><seg type="rp">）</seg></seg>きにまた冷静になって、<lb />
+「ときどき<seg type="ruby"><seg type="rb">宅</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へもいらして下さい。これまでどおりに歓迎しますわ」<lb />
+　しかしランジェは黙って首をふった。<lb />
+「いいえ、ちょいちょい来て下さらないと困るわ。ぱったりお顔が見えなくなると、人がまた変な噂を立てますからね」<lb />
+「そんなら伺います」<lb />
+　それから一週間の間、ランジェは<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>にばかり閉籠っていた。夜眠れないので朝寝坊の癖がついた。もしや彼女がひょっこり訪ねて来はせぬかと思って、ときどき窓に立った。今にも戸口の<seg type="ruby"><seg type="rb">呼鈴</seg><seg type="rp">（</seg><seg type="rt">ベル</seg><seg type="rp">）</seg></seg>が鳴りそうな気がして、空しく耳を澄ましたことも幾度だったか知れない。またときどき、かの手紙の移り香が<seg type="ruby"><seg type="rb">仄</seg><seg type="rp">（</seg><seg type="rt">ほの</seg><seg type="rp">）</seg></seg>かに残っている抽斗を開けてもみた。<lb />
+　次の一週間もそんな風に過ぎて行った。今に女から電話ぐらいかかるだろうと心待ちに待ったけれど、それもかからないで早くも一ヶ月経った。何だか気になって来た。幸い、ときどき訪問すると約束をした言葉があるので、彼女の接客日ときまっている木曜日に、勇気をふるって出かけて行った。<lb />
+　<seg type="ruby"><seg type="rb">客間</seg><seg type="rp">（</seg><seg type="rt">サロン</seg><seg type="rp">）</seg></seg>には二、三の先客が来ていた。マダム・ヴァンクールは、ランジェの顔を見ると、<lb />
+「まアお珍らしい。この頃はすっかりお見限りですね」<lb />
+　白ばっくれて小言をいった。<lb />
+「<seg type="ruby"><seg type="rb">延引</seg><seg type="rp">（</seg><seg type="rt">のっぴき</seg><seg type="rp">）</seg></seg>ならない仕事がありましたので、つい御無沙汰しました」<lb />
+　とランジェも調子を合せた。<lb />
+　彼が来たために一寸途切れた主客の会話が、またつづけられた。それがランジェには耳新らしいことばかりで、しかも自分が招待を受けなかった<seg type="ruby"><seg type="rb">此家</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>の盛大な晩餐会のことなどを、面白おかしく話しているのを聞くと、自分だけが<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>け者にされてしまったという感じが、<seg type="ruby"><seg type="rb">犇々</seg><seg type="rp">（</seg><seg type="rt">ひしひし</seg><seg type="rp">）</seg></seg>と胸へ来た。<lb />
+　マダム・ヴァンクールは、ランジェが黙りこんでいるのを見て、<lb />
+「大そう<seg type="ruby"><seg type="rb">沈思</seg><seg type="rp">（</seg><seg type="rt">しず</seg><seg type="rp">）</seg></seg>んでいらっしゃるのね。どうかなさいまして？」<lb />
+　皮肉に問いかけると、彼は一生懸命になって弁解をはじめた。<lb />
+「この頃は書きつづけですからね。何時間も<seg type="ruby"><seg type="rb">卓子</seg><seg type="rp">（</seg><seg type="rt">テーブル</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">獅噛</seg><seg type="rp">（</seg><seg type="rt">しが</seg><seg type="rp">）</seg></seg>みついた後では、こうして親しいお友達の前へ出ても、何だか頭がぼうっとしているようです」<lb />
+「きっと、お書きになる小説の中の人物と一緒になって、泣いたり笑ったりしていらっしゃるんでしょう」<lb />
+　そういって彼女は笑った。<lb />
+「まアそんなものですが……」<lb />
+「結構な<seg type="ruby"><seg type="rb">御職業</seg><seg type="rp">（</seg><seg type="rt">ごしょうばい</seg><seg type="rp">）</seg></seg>ですね」客の一人が口を出した。「愉快でしょうな、御自分でお<seg type="ruby"><seg type="rb">創造</seg><seg type="rp">（</seg><seg type="rt">つくり</seg><seg type="rp">）</seg></seg>になった世界の中に生きておられるということはね」<lb />
+「それがさ、<seg type="ruby"><seg type="rb">他</seg><seg type="rp">（</seg><seg type="rt">はた</seg><seg type="rp">）</seg></seg>で考えるほど愉快なものじゃありませんよ」<lb />
+「でも貴方は健筆家でいらっしゃるから、ほんとうに結構ですわ」<lb />
+　とマダム・ヴァンクールは<seg rend="sesame_dot" rendition="em">にやにや</seg>笑いながら妙に皮肉ないい方をした。<lb />
+　ランジェは一寸考えこんでいたが、やがて真面目くさった口調で、<lb />
+「いや、どういたしまして。今やっている仕事なんか筆が渋って仕様がありません。実は大変不幸な出来事が突発して、仕事の上に大打撃をうけたのです。一体今度の作は、手紙小説の形式で行こうと思って書きはじめたのです。もちろん有りふれた型ですがね。しかし僕の場合に限って立派に成功する望みがあったのです。というのは、僕はそのモデルとして傑作ともいうべき恋文を沢山もっていたからです。ところが申し上げるのも変なお話ですが、その婦人が僕を捨ててしまったんです。いったい恋文などは、貰った当人以外の者にとっては一向値打のないもので、その当人だって時が過ぎると何の興味も感じないものですが、僕が貰ったその恋文というのは清新そのものといっていいくらいで、いつ読んでも感動させられます。僕があれだけ感動したんだから、一般読者の胸に響かんということはありません。その手紙の署名と日附を変えて、ちょいちょい加筆しただけでも、熱情的な、すばらしい恋愛小説が出来ます。その手紙を書いた婦人は、何も名文を書こうなんていう野心からでなく、只もう感情を有りのままにさらけ出したものですがね、実にすばらしい傑作です。その<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>は僕の今度の手紙小説を読んだら、おそらく自分で自分の天才に<seg type="ruby"><seg type="rb">吃驚</seg><seg type="rp">（</seg><seg type="rt">びっくり</seg><seg type="rp">）</seg></seg>するでしょう。ところが実に残念です、もう一息という時になって……」<lb />
+「気が差して書けないと<seg type="ruby"><seg type="rb">仰</seg><seg type="rp">（</seg><seg type="rt">おっ</seg><seg type="rp">）</seg></seg>しゃるんでしょう」<lb />
+　とマダム・ヴァンクールが訊いてみた。<lb />
+「いや正直に告白しますが、決してそんなわけではありません。実はその婦人が手紙を返してくれといいだして、僕が<seg type="ruby"><seg type="rb">大切</seg><seg type="rp">（</seg><seg type="rt">だいじ</seg><seg type="rp">）</seg></seg>にしていた文束を<seg type="ruby"><seg type="rb">引奪</seg><seg type="rp">（</seg><seg type="rt">ひったく</seg><seg type="rp">）</seg></seg>るように取って行ったのです。それで僕の小説は、どうしても結末のつかぬものになってしまいました」<lb />
+　可成り時刻が経ったので、客はぽつぽつ帰って行った。<lb />
+　最後に居残ったランジェも<seg type="ruby"><seg type="rb">暇</seg><seg type="rp">（</seg><seg type="rt">いとま</seg><seg type="rp">）</seg></seg>をつげて、<seg type="ruby"><seg type="rb">仄</seg><seg type="rp">（</seg><seg type="rt">ほの</seg><seg type="rp">）</seg></seg>暗くなった廊下へ出ると、マダム・ヴァンクールがそっと追かけて来て早口にいった。<lb />
+「明日、お宅へ伺いますわ、あの手紙を持ってね」<lb />
+　ランジェは外套の襟を直しながら、怪訝そうに彼女の顔を見まもった。それから慇懃に腰をかがめて、彼女の手に接吻をして、<lb />
+「折角ですがね、マダム。あの話は、あなたの手紙のことじゃありません」<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

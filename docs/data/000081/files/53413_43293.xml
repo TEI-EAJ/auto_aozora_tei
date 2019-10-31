@@ -31,10 +31,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 もろの崖より　たゆみなく<lb />
 朽ち石まろぶ　黒夜谷<lb />
-鳴きどよもせば　<span type="ruby"><span type="rb">慈悲心鳥</span><span type="rp">（</span><span type="rt">じふいち</span><span type="rp">）</span></span>の<lb />
+鳴きどよもせば　<seg type="ruby"><seg type="rb">慈悲心鳥</seg><seg type="rp">（</seg><seg type="rt">じふいち</seg><seg type="rp">）</seg></seg>の<lb />
 われにはつらき　睡りかな<lb />
 <lb />
 榾組み直し　ものおもひ<lb />
@@ -44,6 +44,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

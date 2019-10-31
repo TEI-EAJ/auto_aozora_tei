@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2012-08-07">作成</resp><resp /><note>
 <lb />
-底本：「日本怪談全集　<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」桃源社<lb />
+底本：「日本怪談全集　<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」桃源社<lb />
 　　　1974（昭和49）年7月5日発行<lb />
 　　　1975（昭和50）年7月25日2刷<lb />
 底本の親本：「日本怪談全集」改造社<lb />
@@ -35,21 +35,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-　――これは、私が<span type="ruby"><span type="rb">近比</span><span type="rp">（</span><span type="rt">ちかごろ</span><span type="rp">）</span></span>知りあった医学士のはなしであります――<lb />
-　私の父と云うのは、私の家へ養子に来て、<span type="ruby"><span type="rb">医師</span><span type="rp">（</span><span type="rt">いしゃ</span><span type="rp">）</span></span>になったものでありまして、もとは小学校の教師をしておりました。其の当時は、<span type="ruby"><span type="rb">医師</span><span type="rp">（</span><span type="rt">いしゃ</span><span type="rp">）</span></span>に免許状を持たした時で、それまで医師をやっていた家へは、内務省からお情け免状をくれました。で、父は祖父が亡くなりますと、其のまま家業を継いで医師になりました。<lb />
-　父が亡くなった時が<span type="ruby"><span type="rb">七歳</span><span type="rp">（</span><span type="rt">ななつ</span><span type="rp">）</span></span>でしたから、連続した記憶はありませんが、それでもちょいちょいしたことは覚えております。父は何時も淋しそうな顔をしておりましたが、それでいて人ずきの悪い人ではありませんでした。口元には赤茶けた口髯がチョビリ生えておりました。父は私を非常に可愛がりました。他処へ往って<span type="ruby"><span type="rb">宿</span><span type="rp">（</span><span type="rt">とま</span><span type="rp">）</span></span>るようなことがあると、私が怪我をしやしないか、不意に病気になりはしないかと思って、眠られなかったと云います。これは私の<span type="ruby"><span type="rb">故郷</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">詞</span><span type="rp">（</span><span type="rt">ことば</span><span type="rp">）</span></span>でありますが、私の故郷では<span type="ruby"><span type="rb">嬰児</span><span type="rp">（</span><span type="rt">あかんぼ</span><span type="rp">）</span></span>のことをややと云いますが、父は私を<span type="ruby"><span type="rb">五歳</span><span type="rp">（</span><span type="rt">いつつ</span><span type="rp">）</span></span>になっても<span type="ruby"><span type="rb">六歳</span><span type="rp">（</span><span type="rt">むっつ</span><span type="rp">）</span></span>になっても、ややと呼んで、好く母に笑われたと云います。<lb />
-「此のむきじゃ、<span type="ruby"><span type="rb">十歳</span><span type="rp">（</span><span type="rt">とお</span><span type="rp">）</span></span>になっても、<span type="ruby"><span type="rb">二十歳</span><span type="rp">（</span><span type="rt">はたち</span><span type="rp">）</span></span>になっても、ややと云ったかも判らない」<lb />
-　と、母が好く云いました。そんな人でありますから、母に対しても非常に優しかったと見えます。それは養子と云うこともありましたろうが、しかし、いったいにおとなしい生れであったと思われます。従って気も弱かったらしゅうございます。大きな<span type="ruby"><span type="rb">負傷</span><span type="rp">（</span><span type="rt">けが</span><span type="rp">）</span></span>をした患者が来たりすると、患者よりも父の方が驚いて、顔色を真蒼にして治療をしたと云います。<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+　――これは、私が<seg type="ruby"><seg type="rb">近比</seg><seg type="rp">（</seg><seg type="rt">ちかごろ</seg><seg type="rp">）</seg></seg>知りあった医学士のはなしであります――<lb />
+　私の父と云うのは、私の家へ養子に来て、<seg type="ruby"><seg type="rb">医師</seg><seg type="rp">（</seg><seg type="rt">いしゃ</seg><seg type="rp">）</seg></seg>になったものでありまして、もとは小学校の教師をしておりました。其の当時は、<seg type="ruby"><seg type="rb">医師</seg><seg type="rp">（</seg><seg type="rt">いしゃ</seg><seg type="rp">）</seg></seg>に免許状を持たした時で、それまで医師をやっていた家へは、内務省からお情け免状をくれました。で、父は祖父が亡くなりますと、其のまま家業を継いで医師になりました。<lb />
+　父が亡くなった時が<seg type="ruby"><seg type="rb">七歳</seg><seg type="rp">（</seg><seg type="rt">ななつ</seg><seg type="rp">）</seg></seg>でしたから、連続した記憶はありませんが、それでもちょいちょいしたことは覚えております。父は何時も淋しそうな顔をしておりましたが、それでいて人ずきの悪い人ではありませんでした。口元には赤茶けた口髯がチョビリ生えておりました。父は私を非常に可愛がりました。他処へ往って<seg type="ruby"><seg type="rb">宿</seg><seg type="rp">（</seg><seg type="rt">とま</seg><seg type="rp">）</seg></seg>るようなことがあると、私が怪我をしやしないか、不意に病気になりはしないかと思って、眠られなかったと云います。これは私の<seg type="ruby"><seg type="rb">故郷</seg><seg type="rp">（</seg><seg type="rt">くに</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">詞</seg><seg type="rp">（</seg><seg type="rt">ことば</seg><seg type="rp">）</seg></seg>でありますが、私の故郷では<seg type="ruby"><seg type="rb">嬰児</seg><seg type="rp">（</seg><seg type="rt">あかんぼ</seg><seg type="rp">）</seg></seg>のことをややと云いますが、父は私を<seg type="ruby"><seg type="rb">五歳</seg><seg type="rp">（</seg><seg type="rt">いつつ</seg><seg type="rp">）</seg></seg>になっても<seg type="ruby"><seg type="rb">六歳</seg><seg type="rp">（</seg><seg type="rt">むっつ</seg><seg type="rp">）</seg></seg>になっても、ややと呼んで、好く母に笑われたと云います。<lb />
+「此のむきじゃ、<seg type="ruby"><seg type="rb">十歳</seg><seg type="rp">（</seg><seg type="rt">とお</seg><seg type="rp">）</seg></seg>になっても、<seg type="ruby"><seg type="rb">二十歳</seg><seg type="rp">（</seg><seg type="rt">はたち</seg><seg type="rp">）</seg></seg>になっても、ややと云ったかも判らない」<lb />
+　と、母が好く云いました。そんな人でありますから、母に対しても非常に優しかったと見えます。それは養子と云うこともありましたろうが、しかし、いったいにおとなしい生れであったと思われます。従って気も弱かったらしゅうございます。大きな<seg type="ruby"><seg type="rb">負傷</seg><seg type="rp">（</seg><seg type="rt">けが</seg><seg type="rp">）</seg></seg>をした患者が来たりすると、患者よりも父の方が驚いて、顔色を真蒼にして治療をしたと云います。<lb />
 　ある時、腰に腫物の出ている患者の局部を、父が恐る恐る切開していると、患者の方から、<lb />
 「先生、そんなに痛くはありませんよ、ひと思いに切ってください」<lb />
-　と云ったと云って、これは母が私に話しました。其の父が亡くなりますと、親類では、母がまだ<span type="ruby"><span type="rb">壮</span><span type="rp">（</span><span type="rt">わか</span><span type="rp">）</span></span>いし、家業が家業でありますから、母に養子をして、医師をやらそうと云うことになりましたが、何と云っても母が承知しません。尤も、間もなく医術開業試験の規則が出来て、もうお情け免状を相続することはできなくなりましたが……、其の時すぐ養子をすると、まだ一代は其の恩典に浴することはできましたが、私の家にはちょっとした財産がありまして、其の日に困ると云うほどでもありませんでしたから、親類も其のままにしてありました。<lb />
-　父から比べると、母はしっかりした、勝気な処がありました。其の母が、私が<span type="ruby"><span type="rb">八歳</span><span type="rp">（</span><span type="rt">やっつ</span><span type="rp">）</span></span>の夏でした。今考えると、チブスのような病気になって、非常に熱があって、其の<span type="ruby"><span type="rb">比</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>南の方から流れて来ていた山田と云う医師にかかっておりましたが、其の医師がどうも癒るのが<span type="ruby"><span type="rb">困難</span><span type="rp">（</span><span type="rt">むずか</span><span type="rp">）</span></span>しいと云いだしましたので、親類の者がかわりばんこに看病に来てくれましたが、大病と云うので、<span type="ruby"><span type="rb">何人</span><span type="rp">（</span><span type="rt">だれ</span><span type="rp">）</span></span>も家の<span type="ruby"><span type="rb">内</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>で大きな声をする者がなく、親類の者同志で顔を見あわすと、何か黒い重い物が<span type="ruby"><span type="rb">眼前</span><span type="rp">（</span><span type="rt">めさき</span><span type="rp">）</span></span>に浮んでいるような顔をしました。それを見ると、私も小供心に悲しいとも恐ろしいとも、何んとも云えない気になって、母の枕頭へ往ったり、次の<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>で親類の者がひそひそと話している傍へ往ったりしておりました。<lb />
-　ところが、ある夜、むし暑い晩でした。其の時は、何時も親類の<span type="ruby"><span type="rb">何人</span><span type="rp">（</span><span type="rt">たれ</span><span type="rp">）</span></span>かが必ず一人は坐っていてくれる母の枕頭に、何人もいないで、私一人が坐っておりますと、玄関口の方でからからと云う下駄の音が聞えました。そして、暫くすると、一人の医師が小さな薬籠を手にして入って来ました。私は山田先生が来てくれたと思っていると、医師は母の枕頭へ、私の方へ右斜に向くように坐って、白い右の手を母の額にやって、そっと撫でながら、私の方を見て、<lb />
-「<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>も来たが、お前には逢わなかった」<lb />
-　と、人<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">なつこ</span><span type="rp">）</span></span>い声で云いました。其の声が濁りのある山田先生とちがっているので、其の顔を見ると、顔ははっきりとしませんが、白い顔で、薄い口髯がありました。<lb />
+　と云ったと云って、これは母が私に話しました。其の父が亡くなりますと、親類では、母がまだ<seg type="ruby"><seg type="rb">壮</seg><seg type="rp">（</seg><seg type="rt">わか</seg><seg type="rp">）</seg></seg>いし、家業が家業でありますから、母に養子をして、医師をやらそうと云うことになりましたが、何と云っても母が承知しません。尤も、間もなく医術開業試験の規則が出来て、もうお情け免状を相続することはできなくなりましたが……、其の時すぐ養子をすると、まだ一代は其の恩典に浴することはできましたが、私の家にはちょっとした財産がありまして、其の日に困ると云うほどでもありませんでしたから、親類も其のままにしてありました。<lb />
+　父から比べると、母はしっかりした、勝気な処がありました。其の母が、私が<seg type="ruby"><seg type="rb">八歳</seg><seg type="rp">（</seg><seg type="rt">やっつ</seg><seg type="rp">）</seg></seg>の夏でした。今考えると、チブスのような病気になって、非常に熱があって、其の<seg type="ruby"><seg type="rb">比</seg><seg type="rp">（</seg><seg type="rt">ころ</seg><seg type="rp">）</seg></seg>南の方から流れて来ていた山田と云う医師にかかっておりましたが、其の医師がどうも癒るのが<seg type="ruby"><seg type="rb">困難</seg><seg type="rp">（</seg><seg type="rt">むずか</seg><seg type="rp">）</seg></seg>しいと云いだしましたので、親類の者がかわりばんこに看病に来てくれましたが、大病と云うので、<seg type="ruby"><seg type="rb">何人</seg><seg type="rp">（</seg><seg type="rt">だれ</seg><seg type="rp">）</seg></seg>も家の<seg type="ruby"><seg type="rb">内</seg><seg type="rp">（</seg><seg type="rt">なか</seg><seg type="rp">）</seg></seg>で大きな声をする者がなく、親類の者同志で顔を見あわすと、何か黒い重い物が<seg type="ruby"><seg type="rb">眼前</seg><seg type="rp">（</seg><seg type="rt">めさき</seg><seg type="rp">）</seg></seg>に浮んでいるような顔をしました。それを見ると、私も小供心に悲しいとも恐ろしいとも、何んとも云えない気になって、母の枕頭へ往ったり、次の<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>で親類の者がひそひそと話している傍へ往ったりしておりました。<lb />
+　ところが、ある夜、むし暑い晩でした。其の時は、何時も親類の<seg type="ruby"><seg type="rb">何人</seg><seg type="rp">（</seg><seg type="rt">たれ</seg><seg type="rp">）</seg></seg>かが必ず一人は坐っていてくれる母の枕頭に、何人もいないで、私一人が坐っておりますと、玄関口の方でからからと云う下駄の音が聞えました。そして、暫くすると、一人の医師が小さな薬籠を手にして入って来ました。私は山田先生が来てくれたと思っていると、医師は母の枕頭へ、私の方へ右斜に向くように坐って、白い右の手を母の額にやって、そっと撫でながら、私の方を見て、<lb />
+「<seg type="ruby"><seg type="rb">昨夜</seg><seg type="rp">（</seg><seg type="rt">ゆうべ</seg><seg type="rp">）</seg></seg>も来たが、お前には逢わなかった」<lb />
+　と、人<seg type="ruby"><seg type="rb">懐</seg><seg type="rp">（</seg><seg type="rt">なつこ</seg><seg type="rp">）</seg></seg>い声で云いました。其の声が濁りのある山田先生とちがっているので、其の顔を見ると、顔ははっきりとしませんが、白い顔で、薄い口髯がありました。<lb />
 「だいじの病気じゃ、好い薬を持って来たから、飲むが好い」<lb />
-　と、<span type="ruby"><span type="rb">医師</span><span type="rp">（</span><span type="rt">いしゃ</span><span type="rp">）</span></span>は云いました。すると、母が小さな声で、<lb />
+　と、<seg type="ruby"><seg type="rb">医師</seg><seg type="rp">（</seg><seg type="rt">いしゃ</seg><seg type="rp">）</seg></seg>は云いました。すると、母が小さな声で、<lb />
 「山田先生の薬が好い、山田先生の薬なら飲みたい」<lb />
 　と云いました。私が母が人の親切を無にするように思いましたから、<lb />
 「お母さん、先生がああ仰っしゃるから、飲んだら好いじゃありませんか」<lb />
@@ -74,6 +74,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

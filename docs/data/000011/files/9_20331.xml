@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="1997-09-11">作成</resp><resp /><note>
 <lb />
-底本：「立原道造全集　第1卷　詩集1<span rend="notes">［＃「1」はローマ数字、1-13-21］</span>」角川書店
+底本：「立原道造全集　第1卷　詩集1<seg rend="notes" rendition="span">［＃「1」はローマ数字、1-13-21］</seg>」角川書店
 <lb />
 　　　1971（昭和46）年6月20日初版発行<lb />
 入力：八巻美恵<lb />
@@ -32,11 +32,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />　或る風に寄せて<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />　或る風に寄せて<lb />
 <lb />
 <lb />
 おまへのことでいつぱいだつた　西風よ<lb />
@@ -56,9 +56,9 @@
 夕ぐれが夜に変るたび　雲は死に<lb />
 そそがれて来るうすやみのなかに<lb />
 おまへは　西風よ　みんななくしてしまつた　と<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />　やがて秋……<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />　やがて秋……<lb />
 <lb />
 <lb />
 やがて　秋が　来るだらう<lb />
@@ -78,9 +78,9 @@
 やがて忘れなかつたことのかたみに<lb />
 しかし　かたみなく　過ぎて行くであらう<lb />
 秋は……さうして……ふたたびある夕ぐれに――<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-23.png" rend="gaiji" rendition="img" source="※(ローマ数字3、1-13-23)" />　小譚詩<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-23.png" rend="gaiji" rendition="img" source="※(ローマ数字3、1-13-23)" />　小譚詩<lb />
 <lb />
 <lb />
 一人はあかりをつけることが出来た<lb />
@@ -95,14 +95,14 @@
 <lb />
 幾夜も幾夜もおんなじやうに過ぎて行つた……<lb />
 風が叫んで　塔の上で　雄鶏が知らせた<lb />
-――<span type="ruby"><span type="rb">兵士</span><span type="rp">（</span><span type="rt">ジアツク</span><span type="rp">）</span></span>は旗を持て　驢馬は鈴を掻き鳴らせ！<lb />
+――<seg type="ruby"><seg type="rb">兵士</seg><seg type="rp">（</seg><seg type="rt">ジアツク</seg><seg type="rp">）</seg></seg>は旗を持て　驢馬は鈴を掻き鳴らせ！<lb />
 <lb />
 それから　朝が来た　ほんとうの朝が来た<lb />
 また夜が来た　また　あたらしい夜が来た<lb />
 その部屋は　からつぽに　のこされたままだつた<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-24.png" rend="gaiji" rendition="img" source="※(ローマ数字4、1-13-24)" />　眠りの誘ひ<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-24.png" rend="gaiji" rendition="img" source="※(ローマ数字4、1-13-24)" />　眠りの誘ひ<lb />
 <lb />
 <lb />
 おやすみ　やさしい顔した娘たち<lb />
@@ -122,9 +122,9 @@
 するとおまへらは　林檎の白い花が咲き<lb />
 ちひさい緑の実を結び　それが快い速さで赤く熟れるのを<lb />
 短い間に　眠りながら　見たりするであらう<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-25.png" rend="gaiji" rendition="img" source="※(ローマ数字5、1-13-25)" />　真冬の夜の雨に<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-25.png" rend="gaiji" rendition="img" source="※(ローマ数字5、1-13-25)" />　真冬の夜の雨に<lb />
 <lb />
 <lb />
 あれらはどこに行つてしまつたか？<lb />
@@ -144,9 +144,9 @@
 時のあちらに　あの青空の明るいこと！<lb />
 その望みばかりのこされた　とは　なぜいはう<lb />
 だれとも知らない　その人の瞳の底に？<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-26.png" rend="gaiji" rendition="img" source="※(ローマ数字6、1-13-26)" />　失なはれた夜に<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-26.png" rend="gaiji" rendition="img" source="※(ローマ数字6、1-13-26)" />　失なはれた夜に<lb />
 <lb />
 <lb />
 灼けた瞳が　灼けてゐた<lb />
@@ -166,9 +166,9 @@
 灼けた瞳は　しづかであつた！<lb />
 太陽や香のいい草のことなど忘れてしまひ<lb />
 ただかなしげに　きらきら　きらきら　灼けてゐた<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-27.png" rend="gaiji" rendition="img" source="※(ローマ数字7、1-13-27)" />　溢れひたす闇に<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-27.png" rend="gaiji" rendition="img" source="※(ローマ数字7、1-13-27)" />　溢れひたす闇に<lb />
 <lb />
 <lb />
 美しいものになら　ほほゑむがよい<lb />
@@ -188,9 +188,9 @@
 ふみくだかれてもあれ　己のやさしかつた望み<lb />
 己はただ眠るであらう　眠りのなかに<lb />
 遺された一つの憧憬に溶けいるために<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-28.png" rend="gaiji" rendition="img" source="※(ローマ数字8、1-13-28)" />　眠りのほとりに<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-28.png" rend="gaiji" rendition="img" source="※(ローマ数字8、1-13-28)" />　眠りのほとりに<lb />
 <lb />
 <lb />
 沈黙は　青い雲のやうに<lb />
@@ -210,9 +210,9 @@
 影に住み　そして時間が私になくなるとき<lb />
 追憶はふたたび　嘆息のやうに　沈黙よりもかすかな<lb />
 言葉たちをうたはせるであらう<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-29.png" rend="gaiji" rendition="img" source="※(ローマ数字9、1-13-29)" />　さまよひ<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-29.png" rend="gaiji" rendition="img" source="※(ローマ数字9、1-13-29)" />　さまよひ<lb />
 <lb />
 <lb />
 夜だ――すべての窓に　燈はうばはれ<lb />
@@ -232,9 +232,9 @@
 朝やけよ！早く来い――眠りよ！覚めよ……<lb />
 つめたい灰の霧にとざされ　僕らを凍らす　粗い日が<lb />
 訪れるとき　さまよふ夜よ　夢よ　ただ悔恨ばかりに！<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span change="gaiji" facs="../../../gaiji/1-13/1-13-30.png" rend="gaiji" rendition="img" source="※(ローマ数字10、1-13-30)" />　朝やけ<lb />
+　<seg change="gaiji" facs="../../../gaiji/1-13/1-13-30.png" rend="gaiji" rendition="img" source="※(ローマ数字10、1-13-30)" />　朝やけ<lb />
 <lb />
 <lb />
 昨夜の眠りの　よごれた死骸の上に<lb />
@@ -242,10 +242,10 @@
 その深い　くらい瞳から　今また<lb />
 僕の汲んでゐるものは　何ですか？<lb />
 <lb />
-こんなにも　<span type="ruby"><span type="rb">牢屋</span><span type="rp">（</span><span type="rt">ひとや</span><span type="rp">）</span></span>めいた部屋うちを<lb />
+こんなにも　<seg type="ruby"><seg type="rb">牢屋</seg><seg type="rp">（</seg><seg type="rt">ひとや</seg><seg type="rp">）</seg></seg>めいた部屋うちを<lb />
 あんなに　御堂のやうに　きらめかせ　はためかせ<lb />
 あの音楽はどこへ行つたか<lb />
-あの<span type="ruby"><span type="rb">形象</span><span type="rp">（</span><span type="rt">かたち</span><span type="rp">）</span></span>はどこへ過ぎたか<lb />
+あの<seg type="ruby"><seg type="rb">形象</seg><seg type="rp">（</seg><seg type="rt">かたち</seg><seg type="rp">）</seg></seg>はどこへ過ぎたか<lb />
 <lb />
 ああ　そこには　だれがゐるの？<lb />
 むなしく　空しく　移る　わが若さ！<lb />
@@ -257,6 +257,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

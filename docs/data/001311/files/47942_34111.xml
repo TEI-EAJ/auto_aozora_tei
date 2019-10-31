@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -45,7 +45,7 @@
 すでに山の向うで<lb />
 溜息を吐く<lb />
 <lb />
-白いフォームに<span rend="notes">［＃「フォームに」は底本では「フオームに」］</span><lb />
+白いフォームに<seg rend="notes" rendition="span">［＃「フォームに」は底本では「フオームに」］</seg><lb />
 おれと<lb />
 おれの影と<lb />
 驛長と<lb />
@@ -128,7 +128,7 @@
 すでに一時になつているのに<lb />
 今度は<lb />
 彼の細君をまじえて<lb />
-<span type="ruby"><span type="rb">燒酎</span><span type="rp">（</span><span type="rt">しようちゆう</span><span type="rp">）</span></span>を飮む<lb />
+<seg type="ruby"><seg type="rb">燒酎</seg><seg type="rp">（</seg><seg type="rt">しようちゆう</seg><seg type="rp">）</seg></seg>を飮む<lb />
 やがて中村夫婦は奧に<lb />
 おれは襖のこちらの居間に<lb />
 眠つて<lb />
@@ -150,7 +150,7 @@
 見た瞬間に<lb />
 フイとその氣になつて<lb />
 汽車の切符を買つた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「あの方が<lb />
 そんなことをなさろうとは<lb />
 どうしても思えません<lb />
@@ -184,7 +184,7 @@
 どうして<lb />
 そんなことをなさつたのか<lb />
 まるでわからないんですの」<lb />
-</span>
+</seg>
 <lb />
 歩いていく足の下が<lb />
 右の方へ<lb />
@@ -207,7 +207,7 @@
 わかつているのかな？<lb />
 肥料の生産を<lb />
 もつとも大きな産業種目とするコンツェルンの<lb />
-世間<span type="ruby"><span type="rb">態</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>をとりつくろうための<lb />
+世間<seg type="ruby"><seg type="rb">態</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>をとりつくろうための<lb />
 勞働研究所で<lb />
 グラフを作りながら<lb />
 自宅ではセッセと<lb />
@@ -254,7 +254,7 @@
 すでに俺から遠い<lb />
 そこでヒョイと暗い空を<lb />
 見上げようとしたとたんに<lb />
-突きあげてきた<span type="ruby"><span type="rb">嘔吐</span><span type="rp">（</span><span type="rt">おうと</span><span type="rp">）</span></span><lb />
+突きあげてきた<seg type="ruby"><seg type="rb">嘔吐</seg><seg type="rp">（</seg><seg type="rt">おうと</seg><seg type="rp">）</seg></seg><lb />
 ゲイ　ゲイ　ゲイ　ゲイ<lb />
 氣がついたら<lb />
 小川のふちの岩に<lb />
@@ -299,9 +299,9 @@
 畠山よ　君は相變らず澁い顏をして<lb />
 俺は甘くないぞという顏をして<lb />
 それ故にこの上もなく甘い顏をして<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「小野田がなんだよ！」<lb />
-</span>
+</seg>
 と言つて嘲笑した<lb />
 君の嘲笑は<lb />
 シンからの憎惡を含んでいる<lb />
@@ -498,7 +498,7 @@
 長い長い吐息を吐いてから<lb />
 俺は仰向けに寢た<lb />
 寢心地は良い<lb />
-<span type="ruby"><span type="rb">涅槃</span><span type="rp">（</span><span type="rt">ねはん</span><span type="rp">）</span></span>という言葉が<lb />
+<seg type="ruby"><seg type="rb">涅槃</seg><seg type="rp">（</seg><seg type="rt">ねはん</seg><seg type="rp">）</seg></seg>という言葉が<lb />
 ヒョイと頭にきたが<lb />
 ただそれだけのことで<lb />
 俺は<lb />
@@ -538,11 +538,11 @@
 それに耳を澄ましている<lb />
 そのうちにヒョイと笛がやんで<lb />
 小屋の中から<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「なんじや？」<lb />
 ………………<lb />
 「誰だあ？」<lb />
-</span>
+</seg>
 田舍の少年の聲だ<lb />
 まだ聲變り前とみえて<lb />
 少女のようなこわ音だ<lb />
@@ -556,7 +556,7 @@
 少年は息のあるだけを吹きすましてから<lb />
 笛をわきに置き<lb />
 しばらく黙つていてから<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「さぶいなあ」<lb />
 「君は誰？」<lb />
 「あん？」<lb />
@@ -569,21 +569,21 @@
 「捨吉……」<lb />
 「おめえは誰だよ？」<lb />
 「僕は――」<lb />
-</span>
+</seg>
 俺は答えることができないで<lb />
 闇をすかして少年を見た<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「おめえは東京の人ずら？<lb />
 おらんちに時々泊るから<lb />
 東京の人はわからあ」<lb />
 「そうだよ東京だよ<lb />
 君はこの邊の子？」<lb />
-「おらあごしよ<span type="ruby"><span type="rb">平</span><span type="rp">（</span><span type="rt">でえら</span><span type="rp">）</span></span>だ<lb />
+「おらあごしよ<seg type="ruby"><seg type="rb">平</seg><seg type="rp">（</seg><seg type="rt">でえら</seg><seg type="rp">）</seg></seg>だ<lb />
 ごしよでえらのしの屋だ<lb />
 しの屋の風呂の釜たきだ」<lb />
 「捨吉というのか？」<lb />
 「そうだ」<lb />
-</span>
+</seg>
 少年はまた笛をとつて口にあてた<lb />
 今度はいくらか低い調子だ<lb />
 俺はうつけたように聞いていた<lb />
@@ -595,10 +595,10 @@
 少年はガサガサといわしていてから<lb />
 何か重い荷物を背中につけて<lb />
 スッと立つて小屋を出た<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「どこへ行くの君？」<lb />
 「だつておめえ　行くずら？」<lb />
-</span>
+</seg>
 草の中をサヤサヤと歩き出した<lb />
 無意識に俺も立上つて<lb />
 その後から歩き出す<lb />
@@ -609,10 +609,10 @@
 しかし當人は輕々と足を運ぶ<lb />
 やせていて<lb />
 背は俺より高いようだ<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「君は、そのしの屋へ歸るの？」<lb />
 「うん」<lb />
-「しの屋というのは屋の<span rend="notes">［＃「屋の」はママ］</span>うちか？」<lb />
+「しの屋というのは屋の<seg rend="notes" rendition="span">［＃「屋の」はママ］</seg>うちか？」<lb />
 「うん　宿屋だ<lb />
 おいら釜たきだ」<lb />
 「だけど　君は<lb />
@@ -635,12 +635,12 @@
 「そいで今ごろなぜ歸るんだ？」<lb />
 「だつて小父さん<lb />
 汽車に出るずら」<lb />
-</span>
+</seg>
 どうやらこの少年は<lb />
 俺を鐡道の驛まで<lb />
 案内してくれる氣であることが<lb />
 わかつてきた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「あんな所に一人で寢て<lb />
 君はこわくはないのか？」<lb />
 「こわいとはあんだい？」<lb />
@@ -667,10 +667,10 @@
 さんざん怒つてな<lb />
 捨吉という名をつけた<lb />
 ハハハハ…………」<lb />
-</span>
+</seg>
 少女のような聲をあげて<lb />
 輕く笑つた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「平太郎さが<lb />
 まながしの馬市へ子馬買いに行つただい<lb />
 まながしで酒くらつてな<lb />
@@ -684,12 +684,12 @@
 ほつとけば<lb />
 馬にふんずけられるから<lb />
 しかたなく拾つて歸つた」<lb />
-</span>
+</seg>
 スタスタと歩きながら<lb />
 ポツリと一こと言い<lb />
 また一丁行つて<lb />
 ポツリと一こと言う<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「學校へは行かないのか？」<lb />
 「學校なんず行かねえ<lb />
 しの屋のばあさまはけちんぼでよ<lb />
@@ -701,14 +701,14 @@
 農林小屋の人もたまに泊らあ<lb />
 小父さん　どけへ行くだ？」<lb />
 「どこへ――？」<lb />
-</span>
+</seg>
 そうだ俺はどこへ行くのだ<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「道に迷つたずら<lb />
 この奧はズーッと十里も二十里も<lb />
 山ばつかだ<lb />
 しまいに越後に出らあ」<lb />
-</span>
+</seg>
 少年は言いすてて<lb />
 やや歩をゆるめると<lb />
 笛をふき始めた<lb />
@@ -745,13 +745,13 @@
 タケカンバの幹に<lb />
 捨吉が正面からぶつかつて<lb />
 額をうつた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「どうした？<lb />
 けがはしなかつたかね？」<lb />
 「なあに――」<lb />
-</span>
+</seg>
 クスクスとまた笑つて<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「コヤツにぶつかるのは<lb />
 これで二度目だ<lb />
 フフフ<lb />
@@ -788,7 +788,7 @@
 ちつと急がず」<lb />
 「そうか…………<lb />
 …………………………」<lb />
-</span>
+</seg>
 なにか言つたらしい<lb />
 しかし覺えていない<lb />
 横づらをひつぱたかれるようにハッとした<lb />
@@ -800,10 +800,10 @@
 おかしなことがおきた<lb />
 あたりの闇と自分と等質になつて<lb />
 目や鼻がむやみと涼しい……<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「どうした？<lb />
 ころんだかよ？」<lb />
-</span>
+</seg>
 少年がふりかえつて<lb />
 待つている<lb />
 手を出して助け起そうとはしない<lb />
@@ -833,23 +833,23 @@
 次第に夜明けが近づくのか<lb />
 ボンヤリと道が白い<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「小父さんは<lb />
 しの屋に泊らんかよ？」<lb />
-</span>
+</seg>
 捨吉が笛をとめて<lb />
 ヒョイと話しかける<lb />
 その聲にびつくりして<lb />
 俺はしばらく返事ができない<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「君は父親も母親も<lb />
 わからないのか？」<lb />
 「わからねえよ」<lb />
-</span>
+</seg>
 笑い聲もたてないのに<lb />
 少年が闇の中で<lb />
 ニッコリしたのがわかる<lb />
-<span rend="jisage_" rendition="div" style="margin-left: em">
+<seg rend="jisage_" rendition="div" style="margin-left: em">
 「ヘイブンブンとおんなじだ<lb />
 しの屋のばさまが言つた」<lb />
 「ヘイブンブンというのはなんだ？」<lb />
@@ -858,21 +858,21 @@
 馬小屋なんぞに<lb />
 ブンブン飛んでるずら<lb />
 あやつのことだ」<lb />
-</span>
+</seg>
 蠅のことだ<lb />
 少年は笑いもしないでまじめだ<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「ヘイブンブンはな<lb />
 馬のクソやなんずから<lb />
 わくんだぞ<lb />
 俺も　馬のクソかなんかからわいた」<lb />
-</span>
+</seg>
 <lb />
 わくと言つた<lb />
 馬のクソから<lb />
 ウジがわくように<lb />
 人間がわいた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「そうやつて暮していて<lb />
 誰がいちばん君を<lb />
 可愛がつてくれるの？」<lb />
@@ -885,10 +885,10 @@
 犬にも魚の骨をやるだからなあ」<lb />
 「そいで君は父親や母親に<lb />
 あいたくなることはないのかね？」<lb />
-</span>
+</seg>
 「ケ　ケ　ケ！」<lb />
 と猿のように笑つた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「一度なあ<lb />
 みつけてやるべえと思つて<lb />
 驛の所に立つていたら<lb />
@@ -900,7 +900,7 @@
 いねえような氣もするし<lb />
 おんなじようなことだと思つて<lb />
 さがすのはやめた」<lb />
-</span>
+</seg>
 ヒョイと氣がつくと<lb />
 俺の兩頬がつめたい<lb />
 いつのまにか涙が流れている<lb />
@@ -914,11 +914,11 @@
 ビューッと投げた<lb />
 びんは遠くで、からまつの幹にあたり<lb />
 ピシリとくだけて散つた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「なんだや今の音は？<lb />
 なんかほうつたのか？」<lb />
 「なんでもない」<lb />
-</span>
+</seg>
 言いながら左手の指は<lb />
 ポケットの中の<lb />
 藥のびんをまさぐつていた<lb />
@@ -936,7 +936,7 @@
 俺にはおきないだろう<lb />
 どうしてだかわからないが<lb />
 それがハッキリわかつた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「小父さん<lb />
 何がおかしいだい？」<lb />
 「おかしくはないよ」<lb />
@@ -944,16 +944,16 @@
 「笑いやしない」<lb />
 「ウソをつけ<lb />
 ほら　笑つてら」<lb />
-</span>
+</seg>
 おさえてもおさえても<lb />
 俺の笑いはとまらない<lb />
 なにか泥醉したように<lb />
 俺の兩足は歩きながら<lb />
 互いにもつれてヒョコヒョコする<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「ヘイブンブンが<lb />
 馬のクソに醉つぱらつた！」<lb />
-</span>
+</seg>
 ヨタヨタと音をたてる<lb />
 俺の足音に<lb />
 耳をすますようにしていた捨吉が<lb />
@@ -980,23 +980,23 @@
 すでにいくらか白みかけた<lb />
 見おろすと<lb />
 谷あいはまだ暗い<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「さあついた」<lb />
-</span>
+</seg>
 捨吉は立ち止つた<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「ここから下り坂を<lb />
 どんどん下ると<lb />
 この下がごしよでえらの村でよ<lb />
 そこを通つて<lb />
-<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">しも</span><span type="rp">）</span></span>の方へどんどん行くと停車場だ」<lb />
+<seg type="ruby"><seg type="rb">下</seg><seg type="rp">（</seg><seg type="rt">しも</seg><seg type="rp">）</seg></seg>の方へどんどん行くと停車場だ」<lb />
 「もう君の目は見えるのか？」<lb />
 「まだ見えねえ<lb />
 この下り坂はあぶねえからのし<lb />
 いつもここまで來ると<lb />
 こけえらにぶつ坐つて<lb />
 夜の明けるのを待たあ」<lb />
-</span>
+</seg>
 捨吉は道ばたの石に腰をかけた<lb />
 見おろすと<lb />
 谷底の村には<lb />
@@ -1005,16 +1005,16 @@
 はるか左手に<lb />
 五つ六つかたまつたのは<lb />
 鐡道の驛だろう<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「小父さん<lb />
 この崖のすぐ下のなあ<lb />
-<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">かみて</span><span type="rp">）</span></span>のはずれに<lb />
+<seg type="ruby"><seg type="rb">上手</seg><seg type="rp">（</seg><seg type="rt">かみて</seg><seg type="rp">）</seg></seg>のはずれに<lb />
 灯がともつてるずら<lb />
 見ろえ<lb />
 あれが　しの屋だ<lb />
 もうおよねさが<lb />
 起きたかな？」<lb />
-</span>
+</seg>
 見えない目で<lb />
 のぞき込む視線を追つて<lb />
 右手の方をのぞいて見ると<lb />
@@ -1048,10 +1048,10 @@
 それにもつれて<lb />
 遠く遠くの人の聲が<lb />
 ひびきのぼつてきた。<lb />
-<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（昭和三十三年三月）</span>
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（昭和三十三年三月）</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

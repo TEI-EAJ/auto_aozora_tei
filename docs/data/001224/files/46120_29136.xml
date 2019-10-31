@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-12-11">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>」三一書房
+底本：「久生十蘭全集　4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年3月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
@@ -32,22 +32,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　　　<span type="ruby"><span type="rb">魚釣談義</span><span type="rp">（</span><span type="rt">うおつりだんぎ</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">魚釣談義</seg><seg type="rp">（</seg><seg type="rt">うおつりだんぎ</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　神田小川町『川崎』という釣道具屋。欅の大きな<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">ひさし</span><span type="rp">）</span></span>看板に<span type="ruby"><span type="rb">釣鈎</span><span type="rp">（</span><span type="rt">つりばり</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">河豚</span><span type="rp">（</span><span type="rt">ふぐ</span><span type="rp">）</span></span>を面白い図柄に彫りつけてあるので、ひとくちに、神田の<span type="ruby"><span type="rb">小河豚屋</span><span type="rp">（</span><span type="rt">しおさいや</span><span type="rp">）</span></span>で通る<span type="ruby"><span type="rb">老舗</span><span type="rp">（</span><span type="rt">しにせ</span><span type="rp">）</span></span>。<lb />
-　その店先に、釣鈎や釣竿、<span type="ruby"><span type="rb">餌筥</span><span type="rp">（</span><span type="rt">えばこ</span><span type="rp">）</span></span>などをところも<span type="ruby"><span type="rb">狭</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>にとりひろげ、ぬうとかけているのが顎十郎。所在なさに、とうとう釣りでもはじめる気と見える。<lb />
-　顎十郎と向きあっているのは、<span type="ruby"><span type="rb">辣薤面</span><span type="rp">（</span><span type="rt">らっきょうづら</span><span type="rp">）</span></span>のひどく仔細らしい番頭で、魚釣りの縁起、釣りの流派、潮のみちひきから餌のよしあしと、<span type="ruby"><span type="rb">縷</span><span type="rp">（</span><span type="rt">る</span><span type="rp">）</span></span>々としてうむことがない。<lb />
-　阿古十郎のほうは、例のごとく、垢染んだ一枚看板の羽二重の素袷、<span type="ruby"><span type="rb">溜塗</span><span type="rp">（</span><span type="rt">ためぬり</span><span type="rp">）</span></span>のお粗末な脇差を<span type="ruby"><span type="rb">天秤</span><span type="rp">（</span><span type="rt">てんびん</span><span type="rp">）</span></span>差しにし、懐から手先を出して、へちまなりの、ばかばかしくながい顎の先を撫でながら、飽きたような顔もしないでのんびりときいている。……なにしろ、日も永いので。<lb />
-「……いったい、この<span type="ruby"><span type="rb">青鱚</span><span type="rp">（</span><span type="rt">あおぎす</span><span type="rp">）</span></span>釣りともうしますのは、寛文のころ、<span type="ruby"><span type="rb">五大力仁平</span><span type="rp">（</span><span type="rt">ごだいりきにへい</span><span type="rp">）</span></span>という人が釣ったのがはじめだとされているんでございまして、春の鮒の乗ッ込釣り、秋の<span type="ruby"><span type="rb">鰡</span><span type="rp">（</span><span type="rt">ぼら</span><span type="rp">）</span></span>のしび釣り、冬の<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/2-93/2-93-90.png" rend="gaiji" rendition="img" source="※(「魚＋與」、第4水準2-93-90)" /></span><span type="rp">（</span><span type="rt">たなご</span><span type="rp">）</span></span>釣りと加えて、四大釣りといわれるほどでございまして、いかにも江戸前な釣りなんでございます。……尺を越えますと寒風ともうし、八寸以上のを鼻曲り、七八寸を三歳鱚。五六寸を二歳鱚。当歳鱚は腹が白うございまして、二歳は薄黄色、三歳以上は黄色に赤味がまじり、背通りは黒うございます。海鱚は白鱚ともうし、青鱚は川の鱚なんでございます。釣鈎、釣竿、釣糸、<span type="ruby"><span type="rb">錘</span><span type="rp">（</span><span type="rt">おもり</span><span type="rp">）</span></span>、<span rend="SESAME_DOT" rendition="strong">えば</span>にいたりますまで、いちいちこまかい習いがあることでございまして、とても、ひとくちには……へい」<lb />
+　神田小川町『川崎』という釣道具屋。欅の大きな<seg type="ruby"><seg type="rb">庇</seg><seg type="rp">（</seg><seg type="rt">ひさし</seg><seg type="rp">）</seg></seg>看板に<seg type="ruby"><seg type="rb">釣鈎</seg><seg type="rp">（</seg><seg type="rt">つりばり</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">河豚</seg><seg type="rp">（</seg><seg type="rt">ふぐ</seg><seg type="rp">）</seg></seg>を面白い図柄に彫りつけてあるので、ひとくちに、神田の<seg type="ruby"><seg type="rb">小河豚屋</seg><seg type="rp">（</seg><seg type="rt">しおさいや</seg><seg type="rp">）</seg></seg>で通る<seg type="ruby"><seg type="rb">老舗</seg><seg type="rp">（</seg><seg type="rt">しにせ</seg><seg type="rp">）</seg></seg>。<lb />
+　その店先に、釣鈎や釣竿、<seg type="ruby"><seg type="rb">餌筥</seg><seg type="rp">（</seg><seg type="rt">えばこ</seg><seg type="rp">）</seg></seg>などをところも<seg type="ruby"><seg type="rb">狭</seg><seg type="rp">（</seg><seg type="rt">せ</seg><seg type="rp">）</seg></seg>にとりひろげ、ぬうとかけているのが顎十郎。所在なさに、とうとう釣りでもはじめる気と見える。<lb />
+　顎十郎と向きあっているのは、<seg type="ruby"><seg type="rb">辣薤面</seg><seg type="rp">（</seg><seg type="rt">らっきょうづら</seg><seg type="rp">）</seg></seg>のひどく仔細らしい番頭で、魚釣りの縁起、釣りの流派、潮のみちひきから餌のよしあしと、<seg type="ruby"><seg type="rb">縷</seg><seg type="rp">（</seg><seg type="rt">る</seg><seg type="rp">）</seg></seg>々としてうむことがない。<lb />
+　阿古十郎のほうは、例のごとく、垢染んだ一枚看板の羽二重の素袷、<seg type="ruby"><seg type="rb">溜塗</seg><seg type="rp">（</seg><seg type="rt">ためぬり</seg><seg type="rp">）</seg></seg>のお粗末な脇差を<seg type="ruby"><seg type="rb">天秤</seg><seg type="rp">（</seg><seg type="rt">てんびん</seg><seg type="rp">）</seg></seg>差しにし、懐から手先を出して、へちまなりの、ばかばかしくながい顎の先を撫でながら、飽きたような顔もしないでのんびりときいている。……なにしろ、日も永いので。<lb />
+「……いったい、この<seg type="ruby"><seg type="rb">青鱚</seg><seg type="rp">（</seg><seg type="rt">あおぎす</seg><seg type="rp">）</seg></seg>釣りともうしますのは、寛文のころ、<seg type="ruby"><seg type="rb">五大力仁平</seg><seg type="rp">（</seg><seg type="rt">ごだいりきにへい</seg><seg type="rp">）</seg></seg>という人が釣ったのがはじめだとされているんでございまして、春の鮒の乗ッ込釣り、秋の<seg type="ruby"><seg type="rb">鰡</seg><seg type="rp">（</seg><seg type="rt">ぼら</seg><seg type="rp">）</seg></seg>のしび釣り、冬の<seg type="ruby"><seg type="rb"><seg change="gaiji" facs="../../../gaiji/2-93/2-93-90.png" rend="gaiji" rendition="img" source="※(「魚＋與」、第4水準2-93-90)" /></seg><seg type="rp">（</seg><seg type="rt">たなご</seg><seg type="rp">）</seg></seg>釣りと加えて、四大釣りといわれるほどでございまして、いかにも江戸前な釣りなんでございます。……尺を越えますと寒風ともうし、八寸以上のを鼻曲り、七八寸を三歳鱚。五六寸を二歳鱚。当歳鱚は腹が白うございまして、二歳は薄黄色、三歳以上は黄色に赤味がまじり、背通りは黒うございます。海鱚は白鱚ともうし、青鱚は川の鱚なんでございます。釣鈎、釣竿、釣糸、<seg type="ruby"><seg type="rb">錘</seg><seg type="rp">（</seg><seg type="rt">おもり</seg><seg type="rp">）</seg></seg>、<seg rend="SESAME_DOT" rendition="strong">えば</seg>にいたりますまで、いちいちこまかい習いがあることでございまして、とても、ひとくちには……へい」<lb />
 「さようか、よく、わかった。……それで、この節は、どの辺が釣り場所なのか」<lb />
-「およそ釣りの時節は、温涼風雨陰晴満干、それに、潮の清濁によりまして、年々遅速がございますが、今年は潮だちがよろしゅうございましたので、このごろでございましたらば、<span type="ruby"><span type="rb">鉄炮洲</span><span type="rp">（</span><span type="rt">てっぽうず</span><span type="rp">）</span></span>の高洲、……まず、<span type="ruby"><span type="rb">久志本</span><span type="rp">（</span><span type="rt">くしもと</span><span type="rp">）</span></span>屋敷の棒杭から樫木までの七八町のあいだが寄り場になっておるんでございます。……<span type="ruby"><span type="rb">彼岸</span><span type="rp">（</span><span type="rt">ひがん</span><span type="rp">）</span></span>の中日から以後十日までのあいだは中川の川口、それ以後は、<span type="ruby"><span type="rb">佃</span><span type="rp">（</span><span type="rt">つくだ</span><span type="rp">）</span></span>と川崎が目当て場になります」<lb />
+「およそ釣りの時節は、温涼風雨陰晴満干、それに、潮の清濁によりまして、年々遅速がございますが、今年は潮だちがよろしゅうございましたので、このごろでございましたらば、<seg type="ruby"><seg type="rb">鉄炮洲</seg><seg type="rp">（</seg><seg type="rt">てっぽうず</seg><seg type="rp">）</seg></seg>の高洲、……まず、<seg type="ruby"><seg type="rb">久志本</seg><seg type="rp">（</seg><seg type="rt">くしもと</seg><seg type="rp">）</seg></seg>屋敷の棒杭から樫木までの七八町のあいだが寄り場になっておるんでございます。……<seg type="ruby"><seg type="rb">彼岸</seg><seg type="rp">（</seg><seg type="rt">ひがん</seg><seg type="rp">）</seg></seg>の中日から以後十日までのあいだは中川の川口、それ以後は、<seg type="ruby"><seg type="rb">佃</seg><seg type="rp">（</seg><seg type="rt">つくだ</seg><seg type="rp">）</seg></seg>と川崎が目当て場になります」<lb />
 「なるほど、くわしいもんだの」<lb />
 「さようでござります」<lb />
-　といって、きょろりと<span type="ruby"><span type="rb">空嘯</span><span type="rp">（</span><span type="rt">うそぶ</span><span type="rp">）</span></span>く。<lb />
+　といって、きょろりと<seg type="ruby"><seg type="rb">空嘯</seg><seg type="rp">（</seg><seg type="rt">うそぶ</seg><seg type="rp">）</seg></seg>く。<lb />
 「すると、なんだな、青鱚釣りは、このごろは、みな、そこへ集まるてえわけか」<lb />
 「いえ、みなというわけにはまいりませんです、へい。……潮ざしをはからって場所を決めるのは、相当の名人がいたすことでございます」<lb />
 「じゃア、ご名人にたずねるがの、するてえとなんだナ、竿さえひっかついでそこへ行きゃあ、いやでも、釣れるてえわけか」<lb />
@@ -55,57 +55,57 @@
 　と、らっきょう、いやな顔をする。<lb />
 「まア、そりゃじょうだんだがの、ちょいとききたいことがある」<lb />
 　と、いいながら、懐紙のあいだから、うやうやしげに一本の釣鈎をとり出し、<lb />
-「おれのおやじは、ひどい釣<span type="ruby"><span type="rb">気狂</span><span type="rp">（</span><span type="rt">きちが</span><span type="rp">）</span></span>いでの、いまわの<span type="ruby"><span type="rb">際</span><span type="rp">（</span><span type="rt">きわ</span><span type="rp">）</span></span>におれを枕もとによび、血筋というものは争えないもので、いずれは、お前も釣りに凝り出すようなことになるのだろうが、そのせつは、忘れてもほかの釣鈎で釣ってはならねえ。どうでも、この鈎で釣ってくれ、といってナ、そうして、眼をおとした。……なにしろ、いまわの頼みだから、どうせ釣りをするなら、これと同じ鈎で釣ってやりてえと思うのだが、これと同じものが、貴様のところにあるかな」<lb />
+「おれのおやじは、ひどい釣<seg type="ruby"><seg type="rb">気狂</seg><seg type="rp">（</seg><seg type="rt">きちが</seg><seg type="rp">）</seg></seg>いでの、いまわの<seg type="ruby"><seg type="rb">際</seg><seg type="rp">（</seg><seg type="rt">きわ</seg><seg type="rp">）</seg></seg>におれを枕もとによび、血筋というものは争えないもので、いずれは、お前も釣りに凝り出すようなことになるのだろうが、そのせつは、忘れてもほかの釣鈎で釣ってはならねえ。どうでも、この鈎で釣ってくれ、といってナ、そうして、眼をおとした。……なにしろ、いまわの頼みだから、どうせ釣りをするなら、これと同じ鈎で釣ってやりてえと思うのだが、これと同じものが、貴様のところにあるかな」<lb />
 　例によって、わけのわからぬことをいう。番頭は鈎を手にとって眺めていたが、<lb />
-「そもそも、鱚鈎ともうしますのはむずかしいもので、例えば<span type="ruby"><span type="rb">善宗流</span><span type="rp">（</span><span type="rt">ぜんそうりゅう</span><span type="rp">）</span></span>の沖鈎、<span type="ruby"><span type="rb">宅間玄牧</span><span type="rp">（</span><span type="rt">たくまげんぼく</span><span type="rp">）</span></span>流の<span type="ruby"><span type="rb">隼</span><span type="rp">（</span><span type="rt">はやぶさ</span><span type="rp">）</span></span>鈎、芝<span type="ruby"><span type="rb">高輪</span><span type="rp">（</span><span type="rt">たかなわ</span><span type="rp">）</span></span>の釣師<span type="ruby"><span type="rb">太郎助</span><span type="rp">（</span><span type="rt">たろすけ</span><span type="rp">）</span></span>流の筥鈎などと、<span type="ruby"><span type="rb">家伝</span><span type="rp">（</span><span type="rt">かでん</span><span type="rp">）</span></span>によりましていろいろ型がござりますが、……しかし、これなぞは、普通、見越鈎といわれる、ごくありふれたもので、へへ、御遺言までもございません、手前どもでは、一本一文に商っております」<lb />
+「そもそも、鱚鈎ともうしますのはむずかしいもので、例えば<seg type="ruby"><seg type="rb">善宗流</seg><seg type="rp">（</seg><seg type="rt">ぜんそうりゅう</seg><seg type="rp">）</seg></seg>の沖鈎、<seg type="ruby"><seg type="rb">宅間玄牧</seg><seg type="rp">（</seg><seg type="rt">たくまげんぼく</seg><seg type="rp">）</seg></seg>流の<seg type="ruby"><seg type="rb">隼</seg><seg type="rp">（</seg><seg type="rt">はやぶさ</seg><seg type="rp">）</seg></seg>鈎、芝<seg type="ruby"><seg type="rb">高輪</seg><seg type="rp">（</seg><seg type="rt">たかなわ</seg><seg type="rp">）</seg></seg>の釣師<seg type="ruby"><seg type="rb">太郎助</seg><seg type="rp">（</seg><seg type="rt">たろすけ</seg><seg type="rp">）</seg></seg>流の筥鈎などと、<seg type="ruby"><seg type="rb">家伝</seg><seg type="rp">（</seg><seg type="rt">かでん</seg><seg type="rp">）</seg></seg>によりましていろいろ型がござりますが、……しかし、これなぞは、普通、見越鈎といわれる、ごくありふれたもので、へへ、御遺言までもございません、手前どもでは、一本一文に商っております」<lb />
 　顎十郎は、頭へ手をやり、<lb />
-「ほい、しまった、お里が知れたか。もっとも、おやじはつましいひとだったから、たいてい、そのくらいのところであろう……なにしろ、臍の緒を切って以来、はじめて釣りをするんだから、道具負けするようでもおかげがねえ、ころあいなのを選んで一式纒めてくれ。もっとも<span type="ruby"><span type="rb">魚籠</span><span type="rp">（</span><span type="rt">びく</span><span type="rp">）</span></span>は、鉄砲<span type="ruby"><span type="rb">笊</span><span type="rp">（</span><span type="rt">ざる</span><span type="rp">）</span></span>の古いのがあったから、あれを使うことにしよう。餌筥は、<span type="ruby"><span type="rb">楊枝</span><span type="rp">（</span><span type="rt">ようじ</span><span type="rp">）</span></span>筥の古いので間に合うだろう。肝心なのは竿に糸に鈎。このほうは物干竿や小町糸で間に合わせるわけにもいくめえからの」<lb />
+「ほい、しまった、お里が知れたか。もっとも、おやじはつましいひとだったから、たいてい、そのくらいのところであろう……なにしろ、臍の緒を切って以来、はじめて釣りをするんだから、道具負けするようでもおかげがねえ、ころあいなのを選んで一式纒めてくれ。もっとも<seg type="ruby"><seg type="rb">魚籠</seg><seg type="rp">（</seg><seg type="rt">びく</seg><seg type="rp">）</seg></seg>は、鉄砲<seg type="ruby"><seg type="rb">笊</seg><seg type="rp">（</seg><seg type="rt">ざる</seg><seg type="rp">）</seg></seg>の古いのがあったから、あれを使うことにしよう。餌筥は、<seg type="ruby"><seg type="rb">楊枝</seg><seg type="rp">（</seg><seg type="rt">ようじ</seg><seg type="rp">）</seg></seg>筥の古いので間に合うだろう。肝心なのは竿に糸に鈎。このほうは物干竿や小町糸で間に合わせるわけにもいくめえからの」<lb />
 　勝手なことをいいながら、安物の釣竿に黒渋糸とてぐすを少しばかり、それに、一文鈎を五本がところ買い求めて、呆れ顔をした番頭を尻目にかけ、竿を肩にひっかついで、ひょろりと往来へ出て行った。<lb />
-　この顎十郎、本郷弓町の乾物屋の二階に寝っころがって、毎日のんきらしく古い捕物控を読みちらしている。所在なさの暇潰しばかりではなく、なにか、相当、量見のあることとも考えられるのだが、世の常の勉強ぶりとちがって、朱筆を入れるわけでもなければ、書きぬきをするわけでもない。畳のうえに腹<span type="ruby"><span type="rb">匍</span><span type="rp">（</span><span type="rt">ば</span><span type="rp">）</span></span>いになって、鼻の穴をほじりながら、気がなさそうに走り読みをしては放り出す。馬鹿でなければ、よほど鋭い頭の持主なのかもしれぬ。ともかく、茫漠としてとらえどころがないのである。<lb />
+　この顎十郎、本郷弓町の乾物屋の二階に寝っころがって、毎日のんきらしく古い捕物控を読みちらしている。所在なさの暇潰しばかりではなく、なにか、相当、量見のあることとも考えられるのだが、世の常の勉強ぶりとちがって、朱筆を入れるわけでもなければ、書きぬきをするわけでもない。畳のうえに腹<seg type="ruby"><seg type="rb">匍</seg><seg type="rp">（</seg><seg type="rt">ば</seg><seg type="rp">）</seg></seg>いになって、鼻の穴をほじりながら、気がなさそうに走り読みをしては放り出す。馬鹿でなければ、よほど鋭い頭の持主なのかもしれぬ。ともかく、茫漠としてとらえどころがないのである。<lb />
 　ところで、以前こんなことがあった。<lb />
-　甲府勤番のころ、町方で<span type="ruby"><span type="rb">検校</span><span type="rp">（</span><span type="rt">けんぎょう</span><span type="rp">）</span></span>が井戸にはまって死んだ。<lb />
+　甲府勤番のころ、町方で<seg type="ruby"><seg type="rb">検校</seg><seg type="rp">（</seg><seg type="rt">けんぎょう</seg><seg type="rp">）</seg></seg>が井戸にはまって死んだ。<lb />
 　ひとり者だが裕福な男で、身投げをするわけなぞはないと思われたが、身寄りが寄って葬いを出そうとしているところへ、ふらりと顎十郎がやって来て、検校は足が下になっていたか頭が下になっていたかとたずねた。頭が下になって逆立ちをしておりましたと井戸へ入った男が答えると、そんならば身投げをしたのではなくて、ひとに投げこまれたのだ、といった。井戸に身を投げるときは、かならず足のほうから飛びこむもので、頭から飛びこむなどということは、百にひとつもないことだ、といった。<lb />
 　調べてみると、検校の家の下男が、隠してあった主人の金を盗むために、井戸へつきおとしたのだということがわかった。<lb />
 　また、もうひとつ、こんなことがあった。<lb />
-　甲府勤番をやめて上総へ行き、富岡の顔役の家でごろついているころ、すぐそばの町の<span type="ruby"><span type="rb">古手屋</span><span type="rp">（</span><span type="rt">ふるてや</span><span type="rp">）</span></span>から自火を出し、隠居が焼け死んだ事件があった。<lb />
+　甲府勤番をやめて上総へ行き、富岡の顔役の家でごろついているころ、すぐそばの町の<seg type="ruby"><seg type="rb">古手屋</seg><seg type="rp">（</seg><seg type="rt">ふるてや</seg><seg type="rp">）</seg></seg>から自火を出し、隠居が焼け死んだ事件があった。<lb />
 　顎十郎は懐手をしながら、まだいぶりかえっている焼跡をうっそりと眺めていたが、黒焦げになった死骸を見ると、連れの遊び人のほうへふりかえって、<lb />
 「これは、焼け死んだのじゃねえ、だれかが殺してから、火の中へ投げこんだのだ。焼け死んだのなら、死骸は瓦の下にあるのが本当だろう。ところで、この死骸は瓦の上にある」<lb />
 　といった。<lb />
 　聞いたほうは驚いて、出役の同心に耳うちした。調べてみると、果して顎十郎のいった通りだった。<lb />
 　富岡の親分が顎十郎の眼力を褒めると、顎十郎はてれくさそうに笑いながら、<lb />
-「こりゃアおれの知慧じゃねえ、『<span type="ruby"><span type="rb">雪寃録</span><span type="rp">（</span><span type="rt">せつえんろく</span><span type="rp">）</span></span>』という本に書いてあることです」<lb />
+「こりゃアおれの知慧じゃねえ、『<seg type="ruby"><seg type="rb">雪寃録</seg><seg type="rp">（</seg><seg type="rt">せつえんろく</seg><seg type="rp">）</seg></seg>』という本に書いてあることです」<lb />
 　と、いった。<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">風魔</span><span type="rp">（</span><span type="rt">ふうま</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">風魔</seg><seg type="rp">（</seg><seg type="rt">ふうま</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　泉水にさざなみがたち、青葉の影がゆれる。<lb />
-　<span type="ruby"><span type="rb">広縁</span><span type="rp">（</span><span type="rt">ひろえん</span><span type="rp">）</span></span>のきわへ、むんずりと坐りこみ、膝のうえに<span type="ruby"><span type="rb">青表紙</span><span type="rp">（</span><span type="rt">あおびょうし</span><span type="rp">）</span></span>の本をのせ、矢たてと<span type="ruby"><span type="rb">懐紙</span><span type="rp">（</span><span type="rt">かいし</span><span type="rp">）</span></span>箱をひきつけ、にが虫を噛みつぶしたような顔をして、しきりに灰吹きをたたきつけているのが、庄兵衛組の組頭、森川庄兵衛。<lb />
-　小さな髷節を薬罐頭のてっぺんにのせ、<span rend="SESAME_DOT" rendition="strong">こんがら</span>童子に渋を塗ったような因業な顔を獅子噛ませ、いまいったように、煙管をとり上げたり投げ出したり、腕を組んだりほぐしたり、見る眼にも、なかなか多忙をきわめるのである。<lb />
+　<seg type="ruby"><seg type="rb">広縁</seg><seg type="rp">（</seg><seg type="rt">ひろえん</seg><seg type="rp">）</seg></seg>のきわへ、むんずりと坐りこみ、膝のうえに<seg type="ruby"><seg type="rb">青表紙</seg><seg type="rp">（</seg><seg type="rt">あおびょうし</seg><seg type="rp">）</seg></seg>の本をのせ、矢たてと<seg type="ruby"><seg type="rb">懐紙</seg><seg type="rp">（</seg><seg type="rt">かいし</seg><seg type="rp">）</seg></seg>箱をひきつけ、にが虫を噛みつぶしたような顔をして、しきりに灰吹きをたたきつけているのが、庄兵衛組の組頭、森川庄兵衛。<lb />
+　小さな髷節を薬罐頭のてっぺんにのせ、<seg rend="SESAME_DOT" rendition="strong">こんがら</seg>童子に渋を塗ったような因業な顔を獅子噛ませ、いまいったように、煙管をとり上げたり投げ出したり、腕を組んだりほぐしたり、見る眼にも、なかなか多忙をきわめるのである。<lb />
 　すこし離れたところに、きっぱりした顔だちの、十七八の美しい娘が、すんなりと坐っている。<lb />
 　庄兵衛の娘の花世。四十になってからのひとりっ子なので、まるで眼のなかへでも入れたいような可愛がりよう、普断ならば、寄って来られただけで、もう他愛なくなってしまうほどなのに、今日はどういう風の吹きまわしか、花世がそばにいるのさえ気づかぬ様子である。<lb />
 　庭には季節の花がある。<lb />
-　こうして矢たてや懐紙をひきつけているところは、下手な俳諧でもひねっているように見えるが、どうして、そんな細かい味をもったおやじではない。このごろ、江戸の市中を騒がしている<span rend="SESAME_DOT" rendition="strong">かまいたち</span>の事件を苦吟中なのである。<lb />
-　この月のはじめから、江戸の市中に不思議な事件が起きる。どうにもとらえどころのない事件で、それだけに江戸の人士を<span type="ruby"><span type="rb">竦</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>みあがらせている。<lb />
+　こうして矢たてや懐紙をひきつけているところは、下手な俳諧でもひねっているように見えるが、どうして、そんな細かい味をもったおやじではない。このごろ、江戸の市中を騒がしている<seg rend="SESAME_DOT" rendition="strong">かまいたち</seg>の事件を苦吟中なのである。<lb />
+　この月のはじめから、江戸の市中に不思議な事件が起きる。どうにもとらえどころのない事件で、それだけに江戸の人士を<seg type="ruby"><seg type="rb">竦</seg><seg type="rp">（</seg><seg type="rt">すく</seg><seg type="rp">）</seg></seg>みあがらせている。<lb />
 　一日ずつあいだをおいて、続けざまに五人まで、の深く咽喉を斬られて街上に倒れていた。<lb />
-　最初の犠牲者は<span type="ruby"><span type="rb">本所猿江</span><span type="rp">（</span><span type="rt">ほんじょさるえ</span><span type="rp">）</span></span>の金持の隠居で、<span type="ruby"><span type="rb">新湊稲荷</span><span type="rp">（</span><span type="rt">しんみなといなり</span><span type="rp">）</span></span>のまえに<span type="ruby"><span type="rb">俯</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>ぶせに倒れていた。<span type="ruby"><span type="rb">門跡様</span><span type="rp">（</span><span type="rt">もんせきさま</span><span type="rp">）</span></span>からの帰りであった。二十両余りの金を懐中にしていたが、それもそのまま残っていた。ほかにもなにひとつ失くなったものはない。<lb />
-　それから、一日おいて次の夜、佐竹の家臣で、相当腕のたつ武士が、これもやはり、同じように咽喉を斬られ、<span type="ruby"><span type="rb">越前堀</span><span type="rp">（</span><span type="rt">えちぜんぼり</span><span type="rp">）</span></span>の『船松』という網船の横丁の溝の中で死んでいた。……こんな具合に、つぎつぎに五人まで同じような死にかたをしている。<lb />
-　その傷は極めて異様なもので、左の耳の後から<span type="ruby"><span type="rb">咽喉仏</span><span type="rp">（</span><span type="rt">のどぼとけ</span><span type="rp">）</span></span>の方へ<span type="ruby"><span type="rb">偃月形</span><span type="rp">（</span><span type="rt">みかづきがた</span><span type="rp">）</span></span>に弧を描いて<span type="ruby"><span type="rb">刎</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ねあげられている。ひといきに頸動脈をふかく斬られ、斬られたほうは、恐らくあッというひまもなく即死したであろう。<lb />
+　最初の犠牲者は<seg type="ruby"><seg type="rb">本所猿江</seg><seg type="rp">（</seg><seg type="rt">ほんじょさるえ</seg><seg type="rp">）</seg></seg>の金持の隠居で、<seg type="ruby"><seg type="rb">新湊稲荷</seg><seg type="rp">（</seg><seg type="rt">しんみなといなり</seg><seg type="rp">）</seg></seg>のまえに<seg type="ruby"><seg type="rb">俯</seg><seg type="rp">（</seg><seg type="rt">うつ</seg><seg type="rp">）</seg></seg>ぶせに倒れていた。<seg type="ruby"><seg type="rb">門跡様</seg><seg type="rp">（</seg><seg type="rt">もんせきさま</seg><seg type="rp">）</seg></seg>からの帰りであった。二十両余りの金を懐中にしていたが、それもそのまま残っていた。ほかにもなにひとつ失くなったものはない。<lb />
+　それから、一日おいて次の夜、佐竹の家臣で、相当腕のたつ武士が、これもやはり、同じように咽喉を斬られ、<seg type="ruby"><seg type="rb">越前堀</seg><seg type="rp">（</seg><seg type="rt">えちぜんぼり</seg><seg type="rp">）</seg></seg>の『船松』という網船の横丁の溝の中で死んでいた。……こんな具合に、つぎつぎに五人まで同じような死にかたをしている。<lb />
+　その傷は極めて異様なもので、左の耳の後から<seg type="ruby"><seg type="rb">咽喉仏</seg><seg type="rp">（</seg><seg type="rt">のどぼとけ</seg><seg type="rp">）</seg></seg>の方へ<seg type="ruby"><seg type="rb">偃月形</seg><seg type="rp">（</seg><seg type="rt">みかづきがた</seg><seg type="rp">）</seg></seg>に弧を描いて<seg type="ruby"><seg type="rb">刎</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>ねあげられている。ひといきに頸動脈をふかく斬られ、斬られたほうは、恐らくあッというひまもなく即死したであろう。<lb />
 　どの死体にも判で捺したように、見事な鎌形の傷があることと、なにひとつ所持品が失われていないことが、この事件の特徴であるが、その傷口を、かれこれ照合してみると、場所といい、大きさといい、また、鎌なりのその形もいずれも寸分のちがいはない。<lb />
 　最初は、傷跡が示すとおり、鎌で掻き切って殺したのだという説がたった。やりすごしておいて、後から突然におどりかかり、刃先を咽喉から耳のほうへひいたのだというのである。一応もっともな意見だ。<lb />
 　ところが、傷口を仔細に調べてみると、傷口は横側のほうが浅く、咽喉仏へ行くほど深くなって、とたんに顎のほうへ刎ねあげられている。後から襲いかかって手許へ引いたのならば、こんな傷は出来ぬ筈である。<lb />
-　そればかりではない、なお、入念に改めてみると、鎌形に咽喉を掻き切るまえに、<span type="ruby"><span type="rb">切尖</span><span type="rp">（</span><span type="rt">きっさき</span><span type="rp">）</span></span>がすこし<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">そよ</span><span type="rp">）</span></span>いだような、すこし切尖を違えたような、小さな不思議な掻き傷があって、それからいきなり深い新月なりの傷がはじまるのである。<lb />
-　かりに、ひとが斬ったとなると、行違いざま抜打ちにやったのだと思うほかはないが、実際にやってみると、<span type="ruby"><span type="rb">須臾</span><span type="rp">（</span><span type="rt">しゅゆ</span><span type="rp">）</span></span>のあいだに、こんな見事な傷をつけるということは、いかな達人でもとうてい不可能である。いわんや、場所も形も大きさも、いずれも寸分違わないということになれば、人間わざの及ぶところではないのである。けっきょく、これは<span type="ruby"><span type="rb">鎌鼬</span><span type="rp">（</span><span type="rt">かまいたち</span><span type="rp">）</span></span>の仕業だということになった。<lb />
-　古いころから、人が通り風の気にふれると、不意に皮膚が裂けて鎌形の傷がつき、<span type="ruby"><span type="rb">甚</span><span type="rp">（</span><span type="rt">はなは</span><span type="rp">）</span></span>だしく出血して<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>をおとすことがあった。<span type="ruby"><span type="rb">越後</span><span type="rp">（</span><span type="rt">えちご</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">信濃</span><span type="rp">（</span><span type="rt">しなの</span><span type="rp">）</span></span>や京都の<span type="ruby"><span type="rb">今出川</span><span type="rp">（</span><span type="rt">いまでがわ</span><span type="rp">）</span></span>の辺ではたびたびあったことである。<lb />
-　鎌形の傷を鎌風といい、これは<span rend="SESAME_DOT" rendition="strong">かまいたち</span>という妖魔の仕業だとされていた。<lb />
-『<span type="ruby"><span type="rb">倭訓栞</span><span type="rp">（</span><span type="rt">わくんのしおり</span><span type="rp">）</span></span>』に、<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+　そればかりではない、なお、入念に改めてみると、鎌形に咽喉を掻き切るまえに、<seg type="ruby"><seg type="rb">切尖</seg><seg type="rp">（</seg><seg type="rt">きっさき</seg><seg type="rp">）</seg></seg>がすこし<seg type="ruby"><seg type="rb">戦</seg><seg type="rp">（</seg><seg type="rt">そよ</seg><seg type="rp">）</seg></seg>いだような、すこし切尖を違えたような、小さな不思議な掻き傷があって、それからいきなり深い新月なりの傷がはじまるのである。<lb />
+　かりに、ひとが斬ったとなると、行違いざま抜打ちにやったのだと思うほかはないが、実際にやってみると、<seg type="ruby"><seg type="rb">須臾</seg><seg type="rp">（</seg><seg type="rt">しゅゆ</seg><seg type="rp">）</seg></seg>のあいだに、こんな見事な傷をつけるということは、いかな達人でもとうてい不可能である。いわんや、場所も形も大きさも、いずれも寸分違わないということになれば、人間わざの及ぶところではないのである。けっきょく、これは<seg type="ruby"><seg type="rb">鎌鼬</seg><seg type="rp">（</seg><seg type="rt">かまいたち</seg><seg type="rp">）</seg></seg>の仕業だということになった。<lb />
+　古いころから、人が通り風の気にふれると、不意に皮膚が裂けて鎌形の傷がつき、<seg type="ruby"><seg type="rb">甚</seg><seg type="rp">（</seg><seg type="rt">はなは</seg><seg type="rp">）</seg></seg>だしく出血して<seg type="ruby"><seg type="rb">生命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>をおとすことがあった。<seg type="ruby"><seg type="rb">越後</seg><seg type="rp">（</seg><seg type="rt">えちご</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">信濃</seg><seg type="rp">（</seg><seg type="rt">しなの</seg><seg type="rp">）</seg></seg>や京都の<seg type="ruby"><seg type="rb">今出川</seg><seg type="rp">（</seg><seg type="rt">いまでがわ</seg><seg type="rp">）</seg></seg>の辺ではたびたびあったことである。<lb />
+　鎌形の傷を鎌風といい、これは<seg rend="SESAME_DOT" rendition="strong">かまいたち</seg>という妖魔の仕業だとされていた。<lb />
+『<seg type="ruby"><seg type="rb">倭訓栞</seg><seg type="rp">（</seg><seg type="rt">わくんのしおり</seg><seg type="rp">）</seg></seg>』に、<lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 奥州越後信濃の地方に、つじ風の如くおとづれて人を傷す。よつて鎌風と名づく、そのこと厳寒の時にあつて、陰毒の気なり、西土にいふ鬼弾の類なりといへり。<lb />
-</span>
-　とみえている。いま庄兵衛の膝のうえに拡げてあるのがその『倭訓栞』。つまり、庄兵衛は今までこの<span rend="SESAME_DOT" rendition="strong">かまいたち</span>と首っぴきをしていたのである。<lb />
+</seg>
+　とみえている。いま庄兵衛の膝のうえに拡げてあるのがその『倭訓栞』。つまり、庄兵衛は今までこの<seg rend="SESAME_DOT" rendition="strong">かまいたち</seg>と首っぴきをしていたのである。<lb />
 　庄兵衛がいつまでもにが虫を噛んでいるので、花世は手持無沙汰になったものとみえ、<lb />
-「ねえ、<span rend="SESAME_DOT" rendition="strong">かまいたち</span>なんぞ、ほんとにいるものなのでしょうか」<lb />
+「ねえ、<seg rend="SESAME_DOT" rendition="strong">かまいたち</seg>なんぞ、ほんとにいるものなのでしょうか」<lb />
 　庄兵衛は眼鏡越しに、例のお不動様の三白眼でじろりと花世の顔を見あげながら、<lb />
-「はて、いないでどうする。そもそも、<span rend="SESAME_DOT" rendition="strong">かまいたち</span>とは……」<lb />
+「はて、いないでどうする。そもそも、<seg rend="SESAME_DOT" rendition="strong">かまいたち</seg>とは……」<lb />
 　花世はニッコリと笑って、<lb />
 「はい、そもそもは、もう結構。それは耳にたこのよるほど伺いました。……では、それはいったい、どんなかたちをしているのかしら。いたちが鎌を持っておりますの。……ちと、うけとれぬ話だわねえ」<lb />
 「いたちがなんで鎌などを持つ、ばかめが。……つまり、なんだ、ひとくちに申せば、飛びっちがいに、爪で掻き切るのだわい。えい、うるさい」<lb />
@@ -115,18 +115,18 @@
 　といって、気をもたせるように忍び笑いをする。<lb />
 　庄兵衛は、焦れ切って、<lb />
 「焦らさずに、早く申せ。……なにか、いい智慧でもあるのか」<lb />
-「両国から<span type="ruby"><span type="rb">香具師</span><span type="rp">（</span><span type="rt">やし</span><span type="rp">）</span></span>を呼んでおいでなさいませ」<lb />
+「両国から<seg type="ruby"><seg type="rb">香具師</seg><seg type="rp">（</seg><seg type="rt">やし</seg><seg type="rp">）</seg></seg>を呼んでおいでなさいませ」<lb />
 「はて、香具師をどうする」<lb />
-「香具師と<span type="ruby"><span type="rb">板血</span><span type="rp">（</span><span type="rt">いたち</span><span type="rp">）</span></span>とは友達だそうでございます」<lb />
+「香具師と<seg type="ruby"><seg type="rb">板血</seg><seg type="rp">（</seg><seg type="rt">いたち</seg><seg type="rp">）</seg></seg>とは友達だそうでございます」<lb />
 　庄兵衛は、一本やられて、うむ、といって苦りきってしまった。<lb />
 　そこへ、ひょろ松が入って来た。<lb />
-　見ると、いつものざっかけない衣装とちがって、<span type="ruby"><span type="rb">八反</span><span type="rp">（</span><span type="rt">はったん</span><span type="rp">）</span></span>の上下に茶献上の帯。上州あたりの<span type="ruby"><span type="rb">繭問屋</span><span type="rp">（</span><span type="rt">まゆどんや</span><span type="rp">）</span></span>の次男とでもいったような<span type="ruby"><span type="rb">身装</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>をしている。<lb />
+　見ると、いつものざっかけない衣装とちがって、<seg type="ruby"><seg type="rb">八反</seg><seg type="rp">（</seg><seg type="rt">はったん</seg><seg type="rp">）</seg></seg>の上下に茶献上の帯。上州あたりの<seg type="ruby"><seg type="rb">繭問屋</seg><seg type="rp">（</seg><seg type="rt">まゆどんや</seg><seg type="rp">）</seg></seg>の次男とでもいったような<seg type="ruby"><seg type="rb">身装</seg><seg type="rp">（</seg><seg type="rt">みなり</seg><seg type="rp">）</seg></seg>をしている。<lb />
 「どうした、だいぶ、野暮ったく光らせているの」<lb />
 　ひょろ松は、へへと髷節に手をやって、<lb />
-「わっしも、なんとかして咽喉笛を斬られてみてえと思いましてねえ、それでこんな、きんきらをひきずって、根気よく毎日、佃のあたりをうろついているんでございますが、今日はとうとう<span type="ruby"><span type="rb">匙</span><span type="rp">（</span><span type="rt">さじ</span><span type="rp">）</span></span>を投げましてございます。……五日前の<span type="ruby"><span type="rb">矢</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">倉</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">不動</span><span type="rp">（</span><span type="rt">ふどう</span><span type="rp">）</span></span>の前のは、やはり<span type="ruby"><span type="rb">物盗</span><span type="rp">（</span><span type="rt">ものとり</span><span type="rp">）</span></span>じゃございません。持って出たと思われる五十両は、てめえの家の神棚の上にのっかっていたそうでございます。これにゃ、どうも……」<lb />
+「わっしも、なんとかして咽喉笛を斬られてみてえと思いましてねえ、それでこんな、きんきらをひきずって、根気よく毎日、佃のあたりをうろついているんでございますが、今日はとうとう<seg type="ruby"><seg type="rb">匙</seg><seg type="rp">（</seg><seg type="rt">さじ</seg><seg type="rp">）</seg></seg>を投げましてございます。……五日前の<seg type="ruby"><seg type="rb">矢</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">倉</seg><seg type="rp">（</seg><seg type="rt">くら</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">不動</seg><seg type="rp">（</seg><seg type="rt">ふどう</seg><seg type="rp">）</seg></seg>の前のは、やはり<seg type="ruby"><seg type="rb">物盗</seg><seg type="rp">（</seg><seg type="rt">ものとり</seg><seg type="rp">）</seg></seg>じゃございません。持って出たと思われる五十両は、てめえの家の神棚の上にのっかっていたそうでございます。これにゃ、どうも……」<lb />
 　庄兵衛は、シタリ顔で、<lb />
-「それみろ、やはり<span rend="SESAME_DOT" rendition="strong">かまいたち</span>だわい」<lb />
-「わっしもいよいよ我を折りました。しかし、越後、信濃にはございましたろうが、<span type="ruby"><span type="rb">開府</span><span type="rp">（</span><span type="rt">かいふ</span><span type="rp">）</span></span>以来、江戸にはまだなかったことでございまして、それが、どうも腑におちませんのでございます」<lb />
+「それみろ、やはり<seg rend="SESAME_DOT" rendition="strong">かまいたち</seg>だわい」<lb />
+「わっしもいよいよ我を折りました。しかし、越後、信濃にはございましたろうが、<seg type="ruby"><seg type="rb">開府</seg><seg type="rp">（</seg><seg type="rt">かいふ</seg><seg type="rp">）</seg></seg>以来、江戸にはまだなかったことでございまして、それが、どうも腑におちませんのでございます」<lb />
 「そのへんが妖怪の融通無碍なところであろうて。越後信濃は今年は不作で、だいぶ暇だそうだからの」<lb />
 　と、吐きだすようにいう。さすがに、むしゃくしゃしているものと見える。<lb />
 「いよう」<lb />
@@ -152,12 +152,12 @@
 <lb />
 　　　鉄炮洲<lb />
 <lb />
-　<span type="ruby"><span type="rb">日並</span><span type="rp">（</span><span type="rt">ひなみ</span><span type="rp">）</span></span>がいいので、対岸の佃の岸のあちこちに網が干してある。<lb />
+　<seg type="ruby"><seg type="rb">日並</seg><seg type="rp">（</seg><seg type="rt">ひなみ</seg><seg type="rp">）</seg></seg>がいいので、対岸の佃の岸のあちこちに網が干してある。<lb />
 　海面いっぱいに夕陽が照りかえし、うっすらと朱を流す。<lb />
-　鉄炮洲の高洲には、この七八丁の間、<span type="ruby"><span type="rb">渚</span><span type="rp">（</span><span type="rt">なぎさ</span><span type="rp">）</span></span>一体に人影が群れ、あげおろす竿に夕陽があたって、きらきらと光る。<lb />
-　<span type="ruby"><span type="rb">背高</span><span type="rp">（</span><span type="rt">せいたか</span><span type="rp">）</span></span>の、二尺ばかりの<span type="ruby"><span type="rb">立込下駄</span><span type="rp">（</span><span type="rt">たつこみげた</span><span type="rp">）</span></span>を穿いて、よほど沖に杖をついて釣っているのもあれば、腰まで入って<span type="ruby"><span type="rb">横曳釣</span><span type="rp">（</span><span type="rt">よこびきづり</span><span type="rp">）</span></span>をしているのもある。ちょうど<span type="ruby"><span type="rb">上汐</span><span type="rp">（</span><span type="rt">あげしお</span><span type="rp">）</span></span>の時期で、どの手許もいそがしそう。<lb />
-　庄兵衛のほうは、昔はだいぶ凝ったおぼえのある老人だから、屋敷を出る時はうだうだいっていたが、いざ釣りはじめると面白いように喰いつく。れいの<span type="ruby"><span type="rb">凝性</span><span type="rp">（</span><span type="rt">こりしょう</span><span type="rp">）</span></span>で本式に腰蓑一つになって丈一の<span type="ruby"><span type="rb">継竿</span><span type="rp">（</span><span type="rt">つぎざお</span><span type="rp">）</span></span>をうち振りうち振り、はや他念のない模様である。<lb />
-　気の毒なのはひょろ松で、質にとられた<span type="ruby"><span type="rb">案山子</span><span type="rp">（</span><span type="rt">かかし</span><span type="rp">）</span></span>のように、ぶざまにじんじんばしょりをし、遠くから竿をのばして、気がなさそうに糸を垂れている。<lb />
+　鉄炮洲の高洲には、この七八丁の間、<seg type="ruby"><seg type="rb">渚</seg><seg type="rp">（</seg><seg type="rt">なぎさ</seg><seg type="rp">）</seg></seg>一体に人影が群れ、あげおろす竿に夕陽があたって、きらきらと光る。<lb />
+　<seg type="ruby"><seg type="rb">背高</seg><seg type="rp">（</seg><seg type="rt">せいたか</seg><seg type="rp">）</seg></seg>の、二尺ばかりの<seg type="ruby"><seg type="rb">立込下駄</seg><seg type="rp">（</seg><seg type="rt">たつこみげた</seg><seg type="rp">）</seg></seg>を穿いて、よほど沖に杖をついて釣っているのもあれば、腰まで入って<seg type="ruby"><seg type="rb">横曳釣</seg><seg type="rp">（</seg><seg type="rt">よこびきづり</seg><seg type="rp">）</seg></seg>をしているのもある。ちょうど<seg type="ruby"><seg type="rb">上汐</seg><seg type="rp">（</seg><seg type="rt">あげしお</seg><seg type="rp">）</seg></seg>の時期で、どの手許もいそがしそう。<lb />
+　庄兵衛のほうは、昔はだいぶ凝ったおぼえのある老人だから、屋敷を出る時はうだうだいっていたが、いざ釣りはじめると面白いように喰いつく。れいの<seg type="ruby"><seg type="rb">凝性</seg><seg type="rp">（</seg><seg type="rt">こりしょう</seg><seg type="rp">）</seg></seg>で本式に腰蓑一つになって丈一の<seg type="ruby"><seg type="rb">継竿</seg><seg type="rp">（</seg><seg type="rt">つぎざお</seg><seg type="rp">）</seg></seg>をうち振りうち振り、はや他念のない模様である。<lb />
+　気の毒なのはひょろ松で、質にとられた<seg type="ruby"><seg type="rb">案山子</seg><seg type="rp">（</seg><seg type="rt">かかし</seg><seg type="rp">）</seg></seg>のように、ぶざまにじんじんばしょりをし、遠くから竿をのばして、気がなさそうに糸を垂れている。<lb />
 　ところで、顎十郎のほうはいそがしい。<lb />
 　いつもののっそりにひきかえて、なにが気にいらないのか、糸をおろしたと思うとすぐまた引上げ、上によったり下によったり、そうかと思うと、渚の水を蹴返しながら又ひょろ松のそばへもどってくる。<lb />
 　さすがに、ひょろ松も気にしだして、<lb />
@@ -171,18 +171,18 @@
 「こりゃアおどろきましたな。……じゃ、まあ、うけあいますからやってごらんなせえまし」<lb />
 　顎十郎は、ニヤリと笑って、<lb />
 「よし、とうとううけあうとぬかしたな。きっとおれに釣らせるな。……ときに、ひょろ松、おれが釣ろうというのは、腹の白っこい、指ほどの鱚じゃねえんだぜ」<lb />
-「へへ、じゃ、鉄炮洲で<span type="ruby"><span type="rb">赤穂鯛</span><span type="rp">（</span><span type="rt">あこうだい</span><span type="rp">）</span></span>でも釣ろうとおっしゃるんですかい」<lb />
+「へへ、じゃ、鉄炮洲で<seg type="ruby"><seg type="rb">赤穂鯛</seg><seg type="rp">（</seg><seg type="rt">あこうだい</seg><seg type="rp">）</seg></seg>でも釣ろうとおっしゃるんですかい」<lb />
 　顎十郎は、首をふって、<lb />
 「いや、もっと大きい」<lb />
-「ごじょうだん。……じゃ、三崎の<span type="ruby"><span type="rb">真鰹</span><span type="rp">（</span><span type="rt">まながつお</span><span type="rp">）</span></span>でもひきよせようッてんですかい」<lb />
+「ごじょうだん。……じゃ、三崎の<seg type="ruby"><seg type="rb">真鰹</seg><seg type="rp">（</seg><seg type="rt">まながつお</seg><seg type="rp">）</seg></seg>でもひきよせようッてんですかい」<lb />
 「どうして、まだまだ」<lb />
-　顎十郎のいい方はすこし<span type="ruby"><span type="rb">憎体</span><span type="rp">（</span><span type="rt">にくてい</span><span type="rp">）</span></span>である。<lb />
+　顎十郎のいい方はすこし<seg type="ruby"><seg type="rb">憎体</seg><seg type="rp">（</seg><seg type="rt">にくてい</seg><seg type="rp">）</seg></seg>である。<lb />
 　ひょろ松はムキになるたちだから、ムッとして、<lb />
 「じゃア鯨でも」<lb />
 　顎十郎は渚に棒杭立ちになったまま、ながい顎の先をつまみながら、<lb />
 「いや、そうまで大きくはない」<lb />
-「それじゃアあっしにはわかりかねまさ。……夕風に吹かれながら、こんなところであなたと魚づくしをやる気はねえのだから、<span type="ruby"><span type="rb">鮫</span><span type="rp">（</span><span type="rt">さめ</span><span type="rp">）</span></span>なと<span type="ruby"><span type="rb">海坊主</span><span type="rp">（</span><span type="rt">うみぼうず</span><span type="rp">）</span></span>なとお好きなものをお釣りなせえ。両国の<span type="ruby"><span type="rb">請地</span><span type="rp">（</span><span type="rt">うけち</span><span type="rp">）</span></span>へ見世物に出すなら<span type="ruby"><span type="rb">後見</span><span type="rp">（</span><span type="rt">こうけん</span><span type="rp">）</span></span>ぐらいはいたします」<lb />
-「まあ、そうおこるな。……そうしておめえがむくれている図なんざ、<span type="ruby"><span type="rb">藪蚊</span><span type="rp">（</span><span type="rt">やぶっか</span><span type="rp">）</span></span>が立ちぐらみをしたようで、あまり見られた<span type="ruby"><span type="rb">態</span><span type="rp">（</span><span type="rt">ざま</span><span type="rp">）</span></span>じゃない。……からかっている訳じゃねえ、しんじつのはなしだ。洒落やじょうだんで、このおれが釣りになんぞくる訳がない。おれの釣りたいものに手をかしてもらいたいと思って、それでおまえをここまでおびき出したんだ。どうだ、ひょろ松、片棒をかついではくれまいかの」<lb />
+「それじゃアあっしにはわかりかねまさ。……夕風に吹かれながら、こんなところであなたと魚づくしをやる気はねえのだから、<seg type="ruby"><seg type="rb">鮫</seg><seg type="rp">（</seg><seg type="rt">さめ</seg><seg type="rp">）</seg></seg>なと<seg type="ruby"><seg type="rb">海坊主</seg><seg type="rp">（</seg><seg type="rt">うみぼうず</seg><seg type="rp">）</seg></seg>なとお好きなものをお釣りなせえ。両国の<seg type="ruby"><seg type="rb">請地</seg><seg type="rp">（</seg><seg type="rt">うけち</seg><seg type="rp">）</seg></seg>へ見世物に出すなら<seg type="ruby"><seg type="rb">後見</seg><seg type="rp">（</seg><seg type="rt">こうけん</seg><seg type="rp">）</seg></seg>ぐらいはいたします」<lb />
+「まあ、そうおこるな。……そうしておめえがむくれている図なんざ、<seg type="ruby"><seg type="rb">藪蚊</seg><seg type="rp">（</seg><seg type="rt">やぶっか</seg><seg type="rp">）</seg></seg>が立ちぐらみをしたようで、あまり見られた<seg type="ruby"><seg type="rb">態</seg><seg type="rp">（</seg><seg type="rt">ざま</seg><seg type="rp">）</seg></seg>じゃない。……からかっている訳じゃねえ、しんじつのはなしだ。洒落やじょうだんで、このおれが釣りになんぞくる訳がない。おれの釣りたいものに手をかしてもらいたいと思って、それでおまえをここまでおびき出したんだ。どうだ、ひょろ松、片棒をかついではくれまいかの」<lb />
 　ひょろ松は、真顔になって、<lb />
 「へい、おはなしの模様では、どのようなお手伝いもいたしますが。……それで、あなたが釣りたいとおっしゃる、その、めあての魚は」<lb />
 「海にはいねえ魚だ」<lb />
@@ -193,13 +193,13 @@
 　渚の下手を、顎でしゃくって、<lb />
 「鎌いたちは、あそこで泳いでいる」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">殺手</span><span type="rp">（</span><span type="rt">さって</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">殺手</seg><seg type="rp">（</seg><seg type="rt">さって</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　年の頃は三十五六歳、<span type="ruby"><span type="rb">険高</span><span type="rp">（</span><span type="rt">けんだか</span><span type="rp">）</span></span>な、蒼味がかった面の、唇ばかり毒々しく赤い、異相というのではないが、なんともいい表しがたい凄惨な色が流れていて、なにか人を<span type="ruby"><span type="rb">慴伏</span><span type="rp">（</span><span type="rt">しょうふく</span><span type="rp">）</span></span>させるような気合がある。<lb />
-　膝きりの<span type="ruby"><span type="rb">布子</span><span type="rp">（</span><span type="rt">ぬのこ</span><span type="rp">）</span></span>を着、足首まで水に這入って静かに糸を垂れている。<lb />
+　年の頃は三十五六歳、<seg type="ruby"><seg type="rb">険高</seg><seg type="rp">（</seg><seg type="rt">けんだか</seg><seg type="rp">）</seg></seg>な、蒼味がかった面の、唇ばかり毒々しく赤い、異相というのではないが、なんともいい表しがたい凄惨な色が流れていて、なにか人を<seg type="ruby"><seg type="rb">慴伏</seg><seg type="rp">（</seg><seg type="rt">しょうふく</seg><seg type="rp">）</seg></seg>させるような気合がある。<lb />
+　膝きりの<seg type="ruby"><seg type="rb">布子</seg><seg type="rp">（</seg><seg type="rt">ぬのこ</seg><seg type="rp">）</seg></seg>を着、足首まで水に這入って静かに糸を垂れている。<lb />
 　つい今しがた来たのだ。さきほどまではこの近くに姿は見えなかった。<lb />
-　<span type="ruby"><span type="rb">無反</span><span type="rp">（</span><span type="rt">むぞり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">長物</span><span type="rp">（</span><span type="rt">ながもの</span><span type="rp">）</span></span>を落差しにし、右を懐手にして、左手で竿をのべている。<span type="ruby"><span type="rb">月代</span><span type="rp">（</span><span type="rt">さかやき</span><span type="rp">）</span></span>は蒼みわたり、身なりがきっぱりとしているから浪人者ではあるまい、相当の<span type="ruby"><span type="rb">家中</span><span type="rp">（</span><span type="rt">かちゅう</span><span type="rp">）</span></span>と見わけられるのである。<lb />
-　ひょろ松は、さすがに心得のあるもので、上汐を見るふりで眼の上に<span type="ruby"><span type="rb">翳</span><span type="rp">（</span><span type="rt">かざ</span><span type="rp">）</span></span>した手の間からまじまじとそのさむらいを眺めていたが、さり気ないようすで顎十郎のほうへふりかえると、<lb />
+　<seg type="ruby"><seg type="rb">無反</seg><seg type="rp">（</seg><seg type="rt">むぞり</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">長物</seg><seg type="rp">（</seg><seg type="rt">ながもの</seg><seg type="rp">）</seg></seg>を落差しにし、右を懐手にして、左手で竿をのべている。<seg type="ruby"><seg type="rb">月代</seg><seg type="rp">（</seg><seg type="rt">さかやき</seg><seg type="rp">）</seg></seg>は蒼みわたり、身なりがきっぱりとしているから浪人者ではあるまい、相当の<seg type="ruby"><seg type="rb">家中</seg><seg type="rp">（</seg><seg type="rt">かちゅう</seg><seg type="rp">）</seg></seg>と見わけられるのである。<lb />
+　ひょろ松は、さすがに心得のあるもので、上汐を見るふりで眼の上に<seg type="ruby"><seg type="rb">翳</seg><seg type="rp">（</seg><seg type="rt">かざ</seg><seg type="rp">）</seg></seg>した手の間からまじまじとそのさむらいを眺めていたが、さり気ないようすで顎十郎のほうへふりかえると、<lb />
 「阿古十郎さん、あれが？」<lb />
 　と、眼差で鋭くたずねる。<lb />
 　そのくせ腰のひねりは岸のほうへ廻りこんでいて、さむらいものの退路を断つような構えになっている。なりわいといいながら、さすがに隙のないことであった。<lb />
@@ -207,16 +207,16 @@
 「今に釣れるから、そうしたら、よッく竿の先を見ていろ、眼をはなすな。……言うがにまさる、いやおうなく、なっとくのいくことがある」<lb />
 「へえ」<lb />
 　といって、ひょろ松、餌をつけかえて鈎を沖に投げこみ、腰をひねって竿の先をさむらいもののほうに向け、凝ったようになって向うの竿先をにらみ始める。目通しにこちらの竿の先と向うの竿の先が一点になって。……これも心得のあることである。<lb />
-　それから、ややしばらく、さむらいものの<span type="ruby"><span type="rb">籠手</span><span type="rp">（</span><span type="rt">こて</span><span type="rp">）</span></span>になにかチラと気勢がうごく。<lb />
-　はッと息をつめていると、沖に<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>にのべた手の拳も膝もゆらりとも動かず、ただ、竿先だけが<span type="ruby"><span type="rb">虚空</span><span type="rp">（</span><span type="rt">こくう</span><span type="rp">）</span></span>に三寸ばかりの新月をえがいたと思うと、どういう至妙の業によるのであろう、鈎先は青鱚をつけたまま、おのずからはね返って魚籠の中に入った。業というか気合というか、なににせよ、剣道の<span type="ruby"><span type="rb">至奥</span><span type="rp">（</span><span type="rt">しおう</span><span type="rp">）</span></span>にも<span type="ruby"><span type="rb">疏通</span><span type="rp">（</span><span type="rt">そつう</span><span type="rp">）</span></span>した、すさまじいばかりの気魄であった。<lb />
-「どうだ、ひょろ松、<span type="ruby"><span type="rb">合点</span><span type="rp">（</span><span type="rt">がてん</span><span type="rp">）</span></span>がいったか」<lb />
+　それから、ややしばらく、さむらいものの<seg type="ruby"><seg type="rb">籠手</seg><seg type="rp">（</seg><seg type="rt">こて</seg><seg type="rp">）</seg></seg>になにかチラと気勢がうごく。<lb />
+　はッと息をつめていると、沖に<seg type="ruby"><seg type="rb">直</seg><seg type="rp">（</seg><seg type="rt">すぐ</seg><seg type="rp">）</seg></seg>にのべた手の拳も膝もゆらりとも動かず、ただ、竿先だけが<seg type="ruby"><seg type="rb">虚空</seg><seg type="rp">（</seg><seg type="rt">こくう</seg><seg type="rp">）</seg></seg>に三寸ばかりの新月をえがいたと思うと、どういう至妙の業によるのであろう、鈎先は青鱚をつけたまま、おのずからはね返って魚籠の中に入った。業というか気合というか、なににせよ、剣道の<seg type="ruby"><seg type="rb">至奥</seg><seg type="rp">（</seg><seg type="rt">しおう</seg><seg type="rp">）</seg></seg>にも<seg type="ruby"><seg type="rb">疏通</seg><seg type="rp">（</seg><seg type="rt">そつう</seg><seg type="rp">）</seg></seg>した、すさまじいばかりの気魄であった。<lb />
+「どうだ、ひょろ松、<seg type="ruby"><seg type="rb">合点</seg><seg type="rp">（</seg><seg type="rt">がてん</seg><seg type="rp">）</seg></seg>がいったか」<lb />
 　ひょろ松は、額にびっしょりと冷汗をかき、<lb />
 「おそれ入りました」<lb />
 「間違いはねえだろう」<lb />
 「まぎれもございません」<lb />
-「<span type="ruby"><span type="rb">喉</span><span type="rp">（</span><span type="rt">のど</span><span type="rp">）</span></span>の鎌形傷の始まるまえに、きまって切ッ先が<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">そよ</span><span type="rp">）</span></span>いだような傷があるだろう。あれは、竿を合せる前にチラと籠手へかかった気合傷だ」<lb />
+「<seg type="ruby"><seg type="rb">喉</seg><seg type="rp">（</seg><seg type="rt">のど</seg><seg type="rp">）</seg></seg>の鎌形傷の始まるまえに、きまって切ッ先が<seg type="ruby"><seg type="rb">戦</seg><seg type="rp">（</seg><seg type="rt">そよ</seg><seg type="rp">）</seg></seg>いだような傷があるだろう。あれは、竿を合せる前にチラと籠手へかかった気合傷だ」<lb />
 「よくわかりましてございます」<lb />
-「それにもうひとつ。鱚がはね返って来た時、なんとも微妙に<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>をひねって魚をよけたが、あれは返り血をよけるこつとおなじようだ。……剣術が先か魚釣りが先か、おれにはどちらともわからねえが、おそらくたいへんな修業をしたものだ。……鱚を釣って人の喉を鎌形に<span type="ruby"><span type="rb">抉</span><span type="rp">（</span><span type="rt">えぐ</span><span type="rp">）</span></span>る練磨をつむなどというのは、だいぶ格はずれな<span type="ruby"><span type="rb">執心</span><span type="rp">（</span><span type="rt">しゅうしん</span><span type="rp">）</span></span>だの。……切先をあわせられたやつこそいいめいわくだ。鉄炮洲の二歳鱚なみにされちゃアおかげがねえからの」<lb />
+「それにもうひとつ。鱚がはね返って来た時、なんとも微妙に<seg type="ruby"><seg type="rb">身体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>をひねって魚をよけたが、あれは返り血をよけるこつとおなじようだ。……剣術が先か魚釣りが先か、おれにはどちらともわからねえが、おそらくたいへんな修業をしたものだ。……鱚を釣って人の喉を鎌形に<seg type="ruby"><seg type="rb">抉</seg><seg type="rp">（</seg><seg type="rt">えぐ</seg><seg type="rp">）</seg></seg>る練磨をつむなどというのは、だいぶ格はずれな<seg type="ruby"><seg type="rb">執心</seg><seg type="rp">（</seg><seg type="rt">しゅうしん</seg><seg type="rp">）</seg></seg>だの。……切先をあわせられたやつこそいいめいわくだ。鉄炮洲の二歳鱚なみにされちゃアおかげがねえからの」<lb />
 　ひょろ松のほうは、心も落ちいぬようすで、むさんにさむらいものをにらみつけ、今にも竿を捨てて、そのほうへ走り出しそうにする。顎十郎はその手を控え、<lb />
 「ひょろ松、おまえらしくもない、うわずった真似をするな。おまえが一人でとびこんで行ったって、繩をかけられるような相手じゃない。やくたいもねえいのちの使いかたをしちゃアならん」<lb />
 　といって、竿を肩にひっかつぐと、<lb />
@@ -225,22 +225,22 @@
 　顎十郎は、にべもなく袖をふり払って、<lb />
 「じょうだんいうな、おれなんぞのでる幕じゃない。おれは、番所で古帳面を繰っている例繰方だ。人殺しの肩に手をおくような、いやな真似はしねえのだ」<lb />
 「でも、みすみすこうして……」<lb />
-「あわてるな、ひょろ松、いま汐があげて来たばかりだ。あのさむらいものはまだ<span type="ruby"><span type="rb">半刻</span><span type="rp">（</span><span type="rt">はんとき</span><span type="rp">）</span></span>、小半刻ここにいる。その間に帰ったら、また明日出直してこい。お彼岸ももうすぎた、今日でなければ網をおろせないということもあるめいからの。……だが、よけいなことだが、ひとことだけ言っておく。忘れても右手に廻るな、左へつけ、左へつけ」<lb />
+「あわてるな、ひょろ松、いま汐があげて来たばかりだ。あのさむらいものはまだ<seg type="ruby"><seg type="rb">半刻</seg><seg type="rp">（</seg><seg type="rt">はんとき</seg><seg type="rp">）</seg></seg>、小半刻ここにいる。その間に帰ったら、また明日出直してこい。お彼岸ももうすぎた、今日でなければ網をおろせないということもあるめいからの。……だが、よけいなことだが、ひとことだけ言っておく。忘れても右手に廻るな、左へつけ、左へつけ」<lb />
 「ありがとうございます」<lb />
 「じゃあ行くぜ。……叔父貴には、きっとないしょにな。……頼むぜ」<lb />
 「わかっております」<lb />
 　たちかけた夕靄の中へ、それで、貧乏浦島、ひょろりと消えて行った。<lb />
-　すこし離れた<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">かみて</span><span type="rp">）</span></span>の渚で、庄兵衛が、おい、ひょろ松、<span type="ruby"><span type="rb">鷹羽鯛</span><span type="rp">（</span><span type="rt">たかのはだい</span><span type="rp">）</span></span>がついた、と大騒ぎをしている。<lb />
+　すこし離れた<seg type="ruby"><seg type="rb">上手</seg><seg type="rp">（</seg><seg type="rt">かみて</seg><seg type="rp">）</seg></seg>の渚で、庄兵衛が、おい、ひょろ松、<seg type="ruby"><seg type="rb">鷹羽鯛</seg><seg type="rp">（</seg><seg type="rt">たかのはだい</seg><seg type="rp">）</seg></seg>がついた、と大騒ぎをしている。<lb />
 <lb />
-　鎌いたちの主、<span type="ruby"><span type="rb">明石新之丞</span><span type="rp">（</span><span type="rt">あかししんのじょう</span><span type="rp">）</span></span>がつかまった夜、花世が、顎十郎にたずねた。<lb />
-「あたしだとても、喉ばかり切る鎌いたちなどあろうとは思いませんでした。でも、まだきいたことのない<span type="ruby"><span type="rb">殺手</span><span type="rp">（</span><span type="rt">さって</span><span type="rp">）</span></span>で、かいもく見当がつきませんでしたが、いったい、どんな手懸りでこうすらすらと追詰めましたの」<lb />
+　鎌いたちの主、<seg type="ruby"><seg type="rb">明石新之丞</seg><seg type="rp">（</seg><seg type="rt">あかししんのじょう</seg><seg type="rp">）</seg></seg>がつかまった夜、花世が、顎十郎にたずねた。<lb />
+「あたしだとても、喉ばかり切る鎌いたちなどあろうとは思いませんでした。でも、まだきいたことのない<seg type="ruby"><seg type="rb">殺手</seg><seg type="rp">（</seg><seg type="rt">さって</seg><seg type="rp">）</seg></seg>で、かいもく見当がつきませんでしたが、いったい、どんな手懸りでこうすらすらと追詰めましたの」<lb />
 　顎十郎は、へへと笑って、<lb />
-「訳も<span type="ruby"><span type="rb">造作</span><span type="rp">（</span><span type="rt">ぞうさ</span><span type="rp">）</span></span>もないことさ。……いったい、おれはとんちきでの、検死などに立合わされるとひどく気が<span type="ruby"><span type="rb">浮</span><span type="rp">（</span><span type="rt">うわ</span><span type="rp">）</span></span>ついて、おれの眼玉はとかくとんでもねえところへ行きたがる、悪いくせさの。……『船松』の横の溝でさむらいが死んでいたのを見たとき、みなが鼻の先を赤むけにするほど、地べたばかりかいさぐっている。……おれは今いったような訳で、のほんと朝の空を仰いでいると、死骸の真上の、塀からつき出した松の枝に、長さにして<span type="ruby"><span type="rb">凡</span><span type="rp">（</span><span type="rt">およ</span><span type="rp">）</span></span>そ五六寸の絹糸のようなものがひっかかって、きらきら光っている。……何気なしにひったくって眺めると、それはてぐすの先についた鱚鈎だったんだ。……鈎はまだ真新しいし、かいでみると、これが、ひどく生臭いな。……ところで、おれのような<span type="ruby"><span type="rb">阿呆陀羅経</span><span type="rp">（</span><span type="rt">あほだらきょう</span><span type="rp">）</span></span>ならいざしらず、街中を竿を抜身でかついであるくばかはない。……鈎のことはくわしくしらないが、これはいずれ曰くのあることだろうと思って、川崎屋へ行ってきいてみると、青鱚釣りの<span type="ruby"><span type="rb">坂尾丹兵衛</span><span type="rp">（</span><span type="rt">さかおたんべえ</span><span type="rp">）</span></span>流という流儀では、六尺五寸の一本竹の<span type="ruby"><span type="rb">延竿</span><span type="rp">（</span><span type="rt">のべざお</span><span type="rp">）</span></span>を使うのが定法だという。……継竿なら袋にでもおさめようが、なるほどそんならば、抜身で竿を持って歩く訳もわかる……。それから品川の太郎名人のところへ行き、坂尾丹兵衛流というのはどんなものだと聞いてみると、坂尾というのは御陰一刀流の達人で流儀の極意を魚釣りにうつしたのだという。……はなしがここまでわかれば、もう子供だましのようなものじゃないか」<lb />
+「訳も<seg type="ruby"><seg type="rb">造作</seg><seg type="rp">（</seg><seg type="rt">ぞうさ</seg><seg type="rp">）</seg></seg>もないことさ。……いったい、おれはとんちきでの、検死などに立合わされるとひどく気が<seg type="ruby"><seg type="rb">浮</seg><seg type="rp">（</seg><seg type="rt">うわ</seg><seg type="rp">）</seg></seg>ついて、おれの眼玉はとかくとんでもねえところへ行きたがる、悪いくせさの。……『船松』の横の溝でさむらいが死んでいたのを見たとき、みなが鼻の先を赤むけにするほど、地べたばかりかいさぐっている。……おれは今いったような訳で、のほんと朝の空を仰いでいると、死骸の真上の、塀からつき出した松の枝に、長さにして<seg type="ruby"><seg type="rb">凡</seg><seg type="rp">（</seg><seg type="rt">およ</seg><seg type="rp">）</seg></seg>そ五六寸の絹糸のようなものがひっかかって、きらきら光っている。……何気なしにひったくって眺めると、それはてぐすの先についた鱚鈎だったんだ。……鈎はまだ真新しいし、かいでみると、これが、ひどく生臭いな。……ところで、おれのような<seg type="ruby"><seg type="rb">阿呆陀羅経</seg><seg type="rp">（</seg><seg type="rt">あほだらきょう</seg><seg type="rp">）</seg></seg>ならいざしらず、街中を竿を抜身でかついであるくばかはない。……鈎のことはくわしくしらないが、これはいずれ曰くのあることだろうと思って、川崎屋へ行ってきいてみると、青鱚釣りの<seg type="ruby"><seg type="rb">坂尾丹兵衛</seg><seg type="rp">（</seg><seg type="rt">さかおたんべえ</seg><seg type="rp">）</seg></seg>流という流儀では、六尺五寸の一本竹の<seg type="ruby"><seg type="rb">延竿</seg><seg type="rp">（</seg><seg type="rt">のべざお</seg><seg type="rp">）</seg></seg>を使うのが定法だという。……継竿なら袋にでもおさめようが、なるほどそんならば、抜身で竿を持って歩く訳もわかる……。それから品川の太郎名人のところへ行き、坂尾丹兵衛流というのはどんなものだと聞いてみると、坂尾というのは御陰一刀流の達人で流儀の極意を魚釣りにうつしたのだという。……はなしがここまでわかれば、もう子供だましのようなものじゃないか」<lb />
 「でも、大勢の釣師の間から、どうしてそれが鎌いたちだと見分けがつきましたの」<lb />
-「……遊芸だってそうだろう、踊の足くせは芸が達すればするほど、その人ひとりの身についたくせにきまる。あれだけのあざやかな刀法が竿の穂先に出ねえはずがないと思った。……おれは、あの傷を見た最初から、これは左利きの手練のさむらいの仕業だと見こみをつけていた。……渚をうろうろして眺めていると、すごんだ面のさむらいが、左の手に一本竹の延竿をもって魚を釣っている。もう、これだけだって、はなしの<span type="ruby"><span type="rb">落</span><span type="rp">（</span><span type="rt">さげ</span><span type="rp">）</span></span>はついているのだ。……どれ、これから叔父貴のところへ行って、小遣にありついてくべいか」<lb />
+「……遊芸だってそうだろう、踊の足くせは芸が達すればするほど、その人ひとりの身についたくせにきまる。あれだけのあざやかな刀法が竿の穂先に出ねえはずがないと思った。……おれは、あの傷を見た最初から、これは左利きの手練のさむらいの仕業だと見こみをつけていた。……渚をうろうろして眺めていると、すごんだ面のさむらいが、左の手に一本竹の延竿をもって魚を釣っている。もう、これだけだって、はなしの<seg type="ruby"><seg type="rb">落</seg><seg type="rp">（</seg><seg type="rt">さげ</seg><seg type="rp">）</seg></seg>はついているのだ。……どれ、これから叔父貴のところへ行って、小遣にありついてくべいか」<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

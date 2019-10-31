@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-12-11">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>」三一書房
+底本：「久生十蘭全集　4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年3月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
@@ -32,62 +32,62 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　　　金の<span type="ruby"><span type="rb">鱗</span><span type="rp">（</span><span type="rt">うろこ</span><span type="rp">）</span></span><lb />
+　　　金の<seg type="ruby"><seg type="rb">鱗</seg><seg type="rp">（</seg><seg type="rt">うろこ</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　<span type="ruby"><span type="rb">看月</span><span type="rp">（</span><span type="rt">つきみ</span><span type="rp">）</span></span>も、あと二三日。<lb />
+　<seg type="ruby"><seg type="rb">看月</seg><seg type="rp">（</seg><seg type="rt">つきみ</seg><seg type="rp">）</seg></seg>も、あと二三日。<lb />
 　小春日に背中を暖めながら、軽口をたたきたたき、五日市街道の関宿の近くをのそのそと道中をするふたり連れ。ひょろ松と顎十郎。<lb />
-　小金井までの気散じの旅。<span type="ruby"><span type="rb">名代</span><span type="rp">（</span><span type="rt">なだい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">名木</span><span type="rp">（</span><span type="rt">めいぼく</span><span type="rp">）</span></span>、日の出、入日はもう枯葉ばかりだが、帰りは多摩川へぬけて、月を見ながら鰻でも喰おうというつもり。<lb />
-　ひょろ松は、<span type="ruby"><span type="rb">小金井鴨下村</span><span type="rp">（</span><span type="rt">こがねいかもしたむら</span><span type="rp">）</span></span>の庄屋の伜で、百姓をきらって家督を弟にゆずり、今ではちょっと知られた御用聞になったが、江戸からわずか七里ばかりの自分の郷里へも、この六七年、足をむけたことがない。<lb />
-　ところで、この二十一日は亡父の七回忌で、どうでも法要につかねばならねえという親類一統の<span type="ruby"><span type="rb">手詰</span><span type="rp">（</span><span type="rt">てづめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">強文章</span><span type="rp">（</span><span type="rt">こわぶみ</span><span type="rp">）</span></span>。それで渋々、帰郷することにしたが、それにつけても、ひとりでは所在がない。顎十郎の<span rend="SESAME_DOT" rendition="strong">ふうてん</span>なのにつけこんで、月見がてらに<span type="ruby"><span type="rb">柴崎</span><span type="rp">（</span><span type="rt">しばざき</span><span type="rp">）</span></span>の鰻はいかが、と誘うと、こちらは、喰い気のはったほうだから、よかろう、でついてきた。<lb />
-　他愛のないことを言いあいながら、いつの間にか三鷹村も過ぎ、小金井の村ざかいの<span type="ruby"><span type="rb">新</span><span type="rp">（</span><span type="rt">あたら</span><span type="rp">）</span></span>し橋へかかったのが、ちょうど暮六ツ。<lb />
-　ひょろ松は、<span type="ruby"><span type="rb">六所宮</span><span type="rp">（</span><span type="rt">ろくしょのみや</span><span type="rp">）</span></span>のそばの<span type="ruby"><span type="rb">柏屋</span><span type="rp">（</span><span type="rt">かしわや</span><span type="rp">）</span></span>という宿屋へ顎十郎を押しあげておいて、自分ひとりだけ実家へ挨拶に行ったが、ものの一刻ほどすると、大汗になってもどって来て、<lb />
-「あたしの苦手は、田舎の親類と突きだしの<span rend="SESAME_DOT" rendition="strong">ところてん</span>。……どうも、お辞儀のしずめで、すっかり肩を凝らしてしまいました」<lb />
+　小金井までの気散じの旅。<seg type="ruby"><seg type="rb">名代</seg><seg type="rp">（</seg><seg type="rt">なだい</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">名木</seg><seg type="rp">（</seg><seg type="rt">めいぼく</seg><seg type="rp">）</seg></seg>、日の出、入日はもう枯葉ばかりだが、帰りは多摩川へぬけて、月を見ながら鰻でも喰おうというつもり。<lb />
+　ひょろ松は、<seg type="ruby"><seg type="rb">小金井鴨下村</seg><seg type="rp">（</seg><seg type="rt">こがねいかもしたむら</seg><seg type="rp">）</seg></seg>の庄屋の伜で、百姓をきらって家督を弟にゆずり、今ではちょっと知られた御用聞になったが、江戸からわずか七里ばかりの自分の郷里へも、この六七年、足をむけたことがない。<lb />
+　ところで、この二十一日は亡父の七回忌で、どうでも法要につかねばならねえという親類一統の<seg type="ruby"><seg type="rb">手詰</seg><seg type="rp">（</seg><seg type="rt">てづめ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">強文章</seg><seg type="rp">（</seg><seg type="rt">こわぶみ</seg><seg type="rp">）</seg></seg>。それで渋々、帰郷することにしたが、それにつけても、ひとりでは所在がない。顎十郎の<seg rend="SESAME_DOT" rendition="strong">ふうてん</seg>なのにつけこんで、月見がてらに<seg type="ruby"><seg type="rb">柴崎</seg><seg type="rp">（</seg><seg type="rt">しばざき</seg><seg type="rp">）</seg></seg>の鰻はいかが、と誘うと、こちらは、喰い気のはったほうだから、よかろう、でついてきた。<lb />
+　他愛のないことを言いあいながら、いつの間にか三鷹村も過ぎ、小金井の村ざかいの<seg type="ruby"><seg type="rb">新</seg><seg type="rp">（</seg><seg type="rt">あたら</seg><seg type="rp">）</seg></seg>し橋へかかったのが、ちょうど暮六ツ。<lb />
+　ひょろ松は、<seg type="ruby"><seg type="rb">六所宮</seg><seg type="rp">（</seg><seg type="rt">ろくしょのみや</seg><seg type="rp">）</seg></seg>のそばの<seg type="ruby"><seg type="rb">柏屋</seg><seg type="rp">（</seg><seg type="rt">かしわや</seg><seg type="rp">）</seg></seg>という宿屋へ顎十郎を押しあげておいて、自分ひとりだけ実家へ挨拶に行ったが、ものの一刻ほどすると、大汗になってもどって来て、<lb />
+「あたしの苦手は、田舎の親類と突きだしの<seg rend="SESAME_DOT" rendition="strong">ところてん</seg>。……どうも、お辞儀のしずめで、すっかり肩を凝らしてしまいました」<lb />
 　と、ぐったりしているところへ、襖のそとから、ごめん、と挨拶して入って来たのは、多摩新田金井村の名主、川崎又右衛門。<lb />
-　大和の吉野山から<span type="ruby"><span type="rb">白山桜</span><span type="rp">（</span><span type="rt">しろやまざくら</span><span type="rp">）</span></span>をはじめてここへ移植した平右衛門の曽孫で、界隈きっての旧家。ひょろ松が、<span type="ruby"><span type="rb">溝川</span><span type="rp">（</span><span type="rt">どぶがわ</span><span type="rp">）</span></span>の中を藁馬をひきずりまわしていたころには、さんざ世話をかけた叔父さん。<lb />
-　白髪の、いかにも世話ずきらしい気の好さそうな顔をしているが、なにか心配ごとがあると見え、<span type="ruby"><span type="rb">久濶</span><span type="rp">（</span><span type="rt">きゅうかつ</span><span type="rp">）</span></span>の挨拶も、とかく沈みがちである。<lb />
-　ひょろ松は、<span type="ruby"><span type="rb">眼聡</span><span type="rp">（</span><span type="rt">めざと</span><span type="rp">）</span></span>く眼をつけて、<lb />
+　大和の吉野山から<seg type="ruby"><seg type="rb">白山桜</seg><seg type="rp">（</seg><seg type="rt">しろやまざくら</seg><seg type="rp">）</seg></seg>をはじめてここへ移植した平右衛門の曽孫で、界隈きっての旧家。ひょろ松が、<seg type="ruby"><seg type="rb">溝川</seg><seg type="rp">（</seg><seg type="rt">どぶがわ</seg><seg type="rp">）</seg></seg>の中を藁馬をひきずりまわしていたころには、さんざ世話をかけた叔父さん。<lb />
+　白髪の、いかにも世話ずきらしい気の好さそうな顔をしているが、なにか心配ごとがあると見え、<seg type="ruby"><seg type="rb">久濶</seg><seg type="rp">（</seg><seg type="rt">きゅうかつ</seg><seg type="rp">）</seg></seg>の挨拶も、とかく沈みがちである。<lb />
+　ひょろ松は、<seg type="ruby"><seg type="rb">眼聡</seg><seg type="rp">（</seg><seg type="rt">めざと</seg><seg type="rp">）</seg></seg>く眼をつけて、<lb />
 「お見うけするところ、いちいち、ためいきまじり。……今夜、わざわざおいでくだすったのは、なにか、この松五郎に頼みでもあってのことではございませんでしたか」<lb />
-　又右衛門は、<span type="ruby"><span type="rb">憂</span><span type="rp">（</span><span type="rt">やつ</span><span type="rp">）</span></span>れ顔でうなずき、<lb />
-「いかにも、その通り。……じつは、一月ほど前から、家内に、なんとも<span type="ruby"><span type="rb">解</span><span type="rp">（</span><span type="rt">げ</span><span type="rp">）</span></span>しかねる奇妙なことが起き、このまま捨ておいては、たったひとりの娘のいのちにもかかわろうという大難儀で、わしも、はやもう、<span type="ruby"><span type="rb">悩乱</span><span type="rp">（</span><span type="rt">のうらん</span><span type="rp">）</span></span>して、どうしよう<span type="ruby"><span type="rb">分別</span><span type="rp">（</span><span type="rt">ふんべつ</span><span type="rp">）</span></span>も湧いて来ぬ。その仔細というのは……」<lb />
-　又右衛門の連れあいは、四年ほど前に<span type="ruby"><span type="rb">時疫</span><span type="rp">（</span><span type="rt">じやみ</span><span type="rp">）</span></span>で死に、いまは親ひとり子ひとりの家内。<lb />
-　奥むきのことは、お年という気のきいた女中が万事ひとりで取りしきり、表むきは、作平という下男頭が、小作人の束ねから田地の上りの采領まで、なにくれとなく豆々しくやってのけ、立つ波風もなく、一家むつまじく暮らしていたが、この年の春、娘のお小夜が、気にいりのお年をつれて<span type="ruby"><span type="rb">水上堤</span><span type="rp">（</span><span type="rt">みなかみづつみ</span><span type="rp">）</span></span>へ摘草に行ったとき、とつぜん、石垣のあいだからニョロニョロと一匹の<span type="ruby"><span type="rb">山棟蛇</span><span type="rp">（</span><span type="rt">やまかがし</span><span type="rp">）</span></span>が這いだした。<lb />
-　江戸の生れで、下町で育ったお年という女中は、<span type="ruby"><span type="rb">長虫</span><span type="rp">（</span><span type="rt">ながむし</span><span type="rp">）</span></span>ときたら、もう、ひとたまりもない。かばうはずのやつが、お小夜の背中にくいついてまっ青になって慄えている始末。<lb />
-　お小夜は、<span type="ruby"><span type="rb">切羽</span><span type="rp">（</span><span type="rt">せっぱ</span><span type="rp">）</span></span>つまって、追いはらうつもりで無我夢中にひろって投げた石が、まともに蛇の頭へあたり、尾で草をうちながら<span type="ruby"><span type="rb">蓬</span><span type="rp">（</span><span type="rt">よもぎ</span><span type="rp">）</span></span>のあいだをのたうちまわっていたが、間もなく、白い不気味な腹を上へむけて、それっきり動かなくなってしまった。<lb />
+　又右衛門は、<seg type="ruby"><seg type="rb">憂</seg><seg type="rp">（</seg><seg type="rt">やつ</seg><seg type="rp">）</seg></seg>れ顔でうなずき、<lb />
+「いかにも、その通り。……じつは、一月ほど前から、家内に、なんとも<seg type="ruby"><seg type="rb">解</seg><seg type="rp">（</seg><seg type="rt">げ</seg><seg type="rp">）</seg></seg>しかねる奇妙なことが起き、このまま捨ておいては、たったひとりの娘のいのちにもかかわろうという大難儀で、わしも、はやもう、<seg type="ruby"><seg type="rb">悩乱</seg><seg type="rp">（</seg><seg type="rt">のうらん</seg><seg type="rp">）</seg></seg>して、どうしよう<seg type="ruby"><seg type="rb">分別</seg><seg type="rp">（</seg><seg type="rt">ふんべつ</seg><seg type="rp">）</seg></seg>も湧いて来ぬ。その仔細というのは……」<lb />
+　又右衛門の連れあいは、四年ほど前に<seg type="ruby"><seg type="rb">時疫</seg><seg type="rp">（</seg><seg type="rt">じやみ</seg><seg type="rp">）</seg></seg>で死に、いまは親ひとり子ひとりの家内。<lb />
+　奥むきのことは、お年という気のきいた女中が万事ひとりで取りしきり、表むきは、作平という下男頭が、小作人の束ねから田地の上りの采領まで、なにくれとなく豆々しくやってのけ、立つ波風もなく、一家むつまじく暮らしていたが、この年の春、娘のお小夜が、気にいりのお年をつれて<seg type="ruby"><seg type="rb">水上堤</seg><seg type="rp">（</seg><seg type="rt">みなかみづつみ</seg><seg type="rp">）</seg></seg>へ摘草に行ったとき、とつぜん、石垣のあいだからニョロニョロと一匹の<seg type="ruby"><seg type="rb">山棟蛇</seg><seg type="rp">（</seg><seg type="rt">やまかがし</seg><seg type="rp">）</seg></seg>が這いだした。<lb />
+　江戸の生れで、下町で育ったお年という女中は、<seg type="ruby"><seg type="rb">長虫</seg><seg type="rp">（</seg><seg type="rt">ながむし</seg><seg type="rp">）</seg></seg>ときたら、もう、ひとたまりもない。かばうはずのやつが、お小夜の背中にくいついてまっ青になって慄えている始末。<lb />
+　お小夜は、<seg type="ruby"><seg type="rb">切羽</seg><seg type="rp">（</seg><seg type="rt">せっぱ</seg><seg type="rp">）</seg></seg>つまって、追いはらうつもりで無我夢中にひろって投げた石が、まともに蛇の頭へあたり、尾で草をうちながら<seg type="ruby"><seg type="rb">蓬</seg><seg type="rp">（</seg><seg type="rt">よもぎ</seg><seg type="rp">）</seg></seg>のあいだをのたうちまわっていたが、間もなく、白い不気味な腹を上へむけて、それっきり動かなくなってしまった。<lb />
 　見ると、頭が柘榴を割ったようにはじけ、グズグズになった創口からどろりと血が流れだしてまっ赤に草を染めている。<lb />
 　ふたりは、ひきつけそうになって、這うようにして家まで逃げ帰ったが、その晩からお小夜は大熱、<lb />
 「あれ、あれ、欄間に蛇が、蛇が……」<lb />
 　ほかのものの眼には見えないが、お小夜にだけはありありと見えるらしく、そこへ来た、あそこへ来た、と部屋じゅうを狂いまわる。<lb />
-　音に高い北見村斎藤伊衛門の<span type="ruby"><span type="rb">蛇除</span><span type="rp">（</span><span type="rt">へびよけ</span><span type="rp">）</span></span>の御守をもらって、お小夜の部屋の戸障子の隙間や窓々に貼りつけて見たが、いっこう、なんの<span type="ruby"><span type="rb">験</span><span type="rp">（</span><span type="rt">しるし</span><span type="rp">）</span></span>もない。<lb />
-　府中、山伏寺、<span type="ruby"><span type="rb">覚念坊</span><span type="rp">（</span><span type="rt">かくねんぼう</span><span type="rp">）</span></span>の蛇除のお<span type="ruby"><span type="rb">加持</span><span type="rp">（</span><span type="rt">かじ</span><span type="rp">）</span></span>は、たいへんにいやちこだというので、さっそく迎えて加持をさせたところ、これは、金井の蛇塚の<span type="ruby"><span type="rb">蛇姫様</span><span type="rp">（</span><span type="rt">へびひめさま</span><span type="rp">）</span></span>を殺した祟りで、山棟蛇の<span type="ruby"><span type="rb">眷族</span><span type="rp">（</span><span type="rt">けんぞく</span><span type="rp">）</span></span>三百三十三匹がお小夜に取り憑いているのだという。<lb />
+　音に高い北見村斎藤伊衛門の<seg type="ruby"><seg type="rb">蛇除</seg><seg type="rp">（</seg><seg type="rt">へびよけ</seg><seg type="rp">）</seg></seg>の御守をもらって、お小夜の部屋の戸障子の隙間や窓々に貼りつけて見たが、いっこう、なんの<seg type="ruby"><seg type="rb">験</seg><seg type="rp">（</seg><seg type="rt">しるし</seg><seg type="rp">）</seg></seg>もない。<lb />
+　府中、山伏寺、<seg type="ruby"><seg type="rb">覚念坊</seg><seg type="rp">（</seg><seg type="rt">かくねんぼう</seg><seg type="rp">）</seg></seg>の蛇除のお<seg type="ruby"><seg type="rb">加持</seg><seg type="rp">（</seg><seg type="rt">かじ</seg><seg type="rp">）</seg></seg>は、たいへんにいやちこだというので、さっそく迎えて加持をさせたところ、これは、金井の蛇塚の<seg type="ruby"><seg type="rb">蛇姫様</seg><seg type="rp">（</seg><seg type="rt">へびひめさま</seg><seg type="rp">）</seg></seg>を殺した祟りで、山棟蛇の<seg type="ruby"><seg type="rb">眷族</seg><seg type="rp">（</seg><seg type="rt">けんぞく</seg><seg type="rp">）</seg></seg>三百三十三匹がお小夜に取り憑いているのだという。<lb />
 　それではどうすればいいのかとたずねると、覚念坊は、<lb />
-「この蛇神の執念は、いかにも強く深くござって、いかなる<span type="ruby"><span type="rb">秘咒</span><span type="rp">（</span><span type="rt">ひじゅ</span><span type="rp">）</span></span>をもっても、それをとくことはなし難い。これはすべて<span type="ruby"><span type="rb">輪廻</span><span type="rp">（</span><span type="rt">りんね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">造顕</span><span type="rp">（</span><span type="rt">ぞうけん</span><span type="rp">）</span></span>によることでござって、まして、限り知れたわれらの<span type="ruby"><span type="rb">法力</span><span type="rp">（</span><span type="rt">ほうりき</span><span type="rp">）</span></span>では、その呪いから<span type="ruby"><span type="rb">遁</span><span type="rp">（</span><span type="rt">のが</span><span type="rp">）</span></span>れしむることはむずかしゅうござる」<lb />
+「この蛇神の執念は、いかにも強く深くござって、いかなる<seg type="ruby"><seg type="rb">秘咒</seg><seg type="rp">（</seg><seg type="rt">ひじゅ</seg><seg type="rp">）</seg></seg>をもっても、それをとくことはなし難い。これはすべて<seg type="ruby"><seg type="rb">輪廻</seg><seg type="rp">（</seg><seg type="rt">りんね</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">造顕</seg><seg type="rp">（</seg><seg type="rt">ぞうけん</seg><seg type="rp">）</seg></seg>によることでござって、まして、限り知れたわれらの<seg type="ruby"><seg type="rb">法力</seg><seg type="rp">（</seg><seg type="rt">ほうりき</seg><seg type="rp">）</seg></seg>では、その呪いから<seg type="ruby"><seg type="rb">遁</seg><seg type="rp">（</seg><seg type="rt">のが</seg><seg type="rp">）</seg></seg>れしむることはむずかしゅうござる」<lb />
 　と、たよりのないことをいう。<lb />
-　せんじ詰めたところは、自分の法力では、一日に一匹だけしか取りのけることが出来ないので、三百三十三匹をぜんぶ取りのけるまで、御病人のいのちが<span type="ruby"><span type="rb">保</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>ちあうかどうか、そこまではお引きうけ出来ぬというのである。<lb />
+　せんじ詰めたところは、自分の法力では、一日に一匹だけしか取りのけることが出来ないので、三百三十三匹をぜんぶ取りのけるまで、御病人のいのちが<seg type="ruby"><seg type="rb">保</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>ちあうかどうか、そこまではお引きうけ出来ぬというのである。<lb />
 　又右衛門だけは、ゆるされて祈祷の座につらなるが、なるほど、いやちこなもので、法螺貝を吹き立て鈴を鳴らし、おどろに髪を振りみだしながら祈りあげると、不思議や、お小夜の夜具の裾から山棟蛇が這いだして、するすると覚念坊の法衣の袂にはいる。すると、そのあと、ふた刻ばかりは、眼に見えて落着いて、スヤスヤと寝息を立てるのである。<lb />
 「……それにしても、湯水も満足に咽喉を通らなくなってから、これでもう、一週間。……手足は糸のように痩せ細って、つく息もせつなげな。……今日でやっと六匹だけ取り離したばかりなのに、あの弱り方では、しょせん、末々までは保ちあうまい。……命にもかえがたく思うたったひとりの娘がよしない蛇の呪いなどで、ムザムザ死んで行くかと思うと、わが胸は、今にも破り裂けんかと思うばかり。……こうしていながらも、生きた気もない」<lb />
 　ひょろ松は、苦々しそうな面持で、叔父の話を聞きすましていたが、やり切れないというふうに舌打ちして、<lb />
-「これは、どうも驚きました。……むかし、手引き<span type="ruby"><span type="rb">背負</span><span type="rp">（</span><span type="rt">おんぶ</span><span type="rp">）</span></span>した、あっしにとっても、だいじな<span type="ruby"><span type="rb">従妹</span><span type="rp">（</span><span type="rt">いとこ</span><span type="rp">）</span></span>。……いま生き死にの<span type="ruby"><span type="rb">正念場</span><span type="rp">（</span><span type="rt">しょうねんば</span><span type="rp">）</span></span>で喘いでいるというのを、軽くあしらうわけじゃありませんが、この世に、蛇の呪いの、狐の祟りのと、そんな馬鹿げたことが現実にあるわけのもんじゃねえ。しょせん、気病みのたぐい。……どうせ、女は気の狭いもの。現在、自分が蛇を殺したというので、熱にうかされるのはありそうなこってすが、あなたまで、先に立って、呪いの祟りのと騒ぎまわるのは、チト困った話ですねえ」<lb />
+「これは、どうも驚きました。……むかし、手引き<seg type="ruby"><seg type="rb">背負</seg><seg type="rp">（</seg><seg type="rt">おんぶ</seg><seg type="rp">）</seg></seg>した、あっしにとっても、だいじな<seg type="ruby"><seg type="rb">従妹</seg><seg type="rp">（</seg><seg type="rt">いとこ</seg><seg type="rp">）</seg></seg>。……いま生き死にの<seg type="ruby"><seg type="rb">正念場</seg><seg type="rp">（</seg><seg type="rt">しょうねんば</seg><seg type="rp">）</seg></seg>で喘いでいるというのを、軽くあしらうわけじゃありませんが、この世に、蛇の呪いの、狐の祟りのと、そんな馬鹿げたことが現実にあるわけのもんじゃねえ。しょせん、気病みのたぐい。……どうせ、女は気の狭いもの。現在、自分が蛇を殺したというので、熱にうかされるのはありそうなこってすが、あなたまで、先に立って、呪いの祟りのと騒ぎまわるのは、チト困った話ですねえ」<lb />
 　又右衛門は手をふって、<lb />
-「いや、一概にそうとばかりは言うまいぞ。……痩せても、枯れても<span type="ruby"><span type="rb">川崎了斎</span><span type="rp">（</span><span type="rt">かわさきりょうさい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">裔</span><span type="rp">（</span><span type="rt">すえ</span><span type="rp">）</span></span>、鬼畜に祟りなし、ぐらいのことはちゃんと心得ておる。……しかし、なんと言っても、現在、<span type="ruby"><span type="rb">正眼</span><span type="rp">（</span><span type="rt">まさめ</span><span type="rp">）</span></span>で見たからは……」<lb />
+「いや、一概にそうとばかりは言うまいぞ。……痩せても、枯れても<seg type="ruby"><seg type="rb">川崎了斎</seg><seg type="rp">（</seg><seg type="rt">かわさきりょうさい</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">裔</seg><seg type="rp">（</seg><seg type="rt">すえ</seg><seg type="rp">）</seg></seg>、鬼畜に祟りなし、ぐらいのことはちゃんと心得ておる。……しかし、なんと言っても、現在、<seg type="ruby"><seg type="rb">正眼</seg><seg type="rp">（</seg><seg type="rt">まさめ</seg><seg type="rp">）</seg></seg>で見たからは……」<lb />
 「正眼で？……見たとは、いったい、なにを」<lb />
-「嘘でもない、まぎれでもない……その<span type="ruby"><span type="rb">蛇体</span><span type="rp">（</span><span type="rt">じゃたい</span><span type="rp">）</span></span>というのをまざまざと見たのじゃ」<lb />
+「嘘でもない、まぎれでもない……その<seg type="ruby"><seg type="rb">蛇体</seg><seg type="rp">（</seg><seg type="rt">じゃたい</seg><seg type="rp">）</seg></seg>というのをまざまざと見たのじゃ」<lb />
 「へへえ」<lb />
 「それも一度ではない、あとさき、これで三度」<lb />
 「して、それは、どんなものです」<lb />
-「信じる信じないは、そなたの勝手だが、今日からちょうど五日前、お小夜の寝ている<span type="ruby"><span type="rb">離家</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>へ入って行くと、欄間の上に、胴まわり一尺ばかりの金色の<span type="ruby"><span type="rb">鱗</span><span type="rp">（</span><span type="rt">うろこ</span><span type="rp">）</span></span>をつけた、見るもすさまじい大蛇が長々と這って、火のような眼ざしでじっとお小夜のほうを見おろしている。……さすがのわしもアッと<span type="ruby"><span type="rb">魂消</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>げて、生きた気もなく座敷の中で立ちすくんだまま、『なんぽーゆーちょうちょう、ちゅうゆーけつけつ、ちゅうゆうじゃアじゃアちゅうゆうし』と一心に蛇よけの呪文を唱えていると、まるで、拭きとったとでもいうふうに、パッと蛇体が消えてしまった。……それまでは、よもやという気もあったが、まざまざと見たからには、やはり、覚念坊の言う通り、蛇神の呪いにちがいないと……」<lb />
+「信じる信じないは、そなたの勝手だが、今日からちょうど五日前、お小夜の寝ている<seg type="ruby"><seg type="rb">離家</seg><seg type="rp">（</seg><seg type="rt">はなれ</seg><seg type="rp">）</seg></seg>へ入って行くと、欄間の上に、胴まわり一尺ばかりの金色の<seg type="ruby"><seg type="rb">鱗</seg><seg type="rp">（</seg><seg type="rt">うろこ</seg><seg type="rp">）</seg></seg>をつけた、見るもすさまじい大蛇が長々と這って、火のような眼ざしでじっとお小夜のほうを見おろしている。……さすがのわしもアッと<seg type="ruby"><seg type="rb">魂消</seg><seg type="rp">（</seg><seg type="rt">たま</seg><seg type="rp">）</seg></seg>げて、生きた気もなく座敷の中で立ちすくんだまま、『なんぽーゆーちょうちょう、ちゅうゆーけつけつ、ちゅうゆうじゃアじゃアちゅうゆうし』と一心に蛇よけの呪文を唱えていると、まるで、拭きとったとでもいうふうに、パッと蛇体が消えてしまった。……それまでは、よもやという気もあったが、まざまざと見たからには、やはり、覚念坊の言う通り、蛇神の呪いにちがいないと……」<lb />
 　顎十郎が、人を小馬鹿にしたようにへらへらと笑い出し、<lb />
-「なるほど、こいつアいいや、ちゃんと、<span type="ruby"><span type="rb">落</span><span type="rp">（</span><span type="rt">さげ</span><span type="rp">）</span></span>がついている」<lb />
+「なるほど、こいつアいいや、ちゃんと、<seg type="ruby"><seg type="rb">落</seg><seg type="rp">（</seg><seg type="rt">さげ</seg><seg type="rp">）</seg></seg>がついている」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">穴中有蛇</span><span type="rp">（</span><span type="rt">けっちゅうゆうじゃ</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">穴中有蛇</seg><seg type="rp">（</seg><seg type="rt">けっちゅうゆうじゃ</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　ひょろ松、ムッとした顔で顎十郎のほうへ振りかえり、<lb />
 「因果話めいて、あなたには、さぞおかしいでしょうが、そう、あけはなしにまぜっかえさないもんですよ。欄間で大きな蛇を見たというだけで、べつに、落などついてやしません」<lb />
 　顎十郎は、やあ、と首へ手をやり、<lb />
-「いや、これは恐縮。……ご<span type="ruby"><span type="rb">腹立</span><span type="rp">（</span><span type="rt">ふくりゅう</span><span type="rp">）</span></span>では恐れいるが、しかし、どうもチト<span type="ruby"><span type="rb">恍</span><span type="rp">（</span><span type="rt">とぼ</span><span type="rp">）</span></span>けているな。……ひょろ松、お前そう思わないか」<lb />
+「いや、これは恐縮。……ご<seg type="ruby"><seg type="rb">腹立</seg><seg type="rp">（</seg><seg type="rt">ふくりゅう</seg><seg type="rp">）</seg></seg>では恐れいるが、しかし、どうもチト<seg type="ruby"><seg type="rb">恍</seg><seg type="rp">（</seg><seg type="rt">とぼ</seg><seg type="rp">）</seg></seg>けているな。……ひょろ松、お前そう思わないか」<lb />
 　ひょろ松は、いよいよ苦りきって、<lb />
 「べつに、恍けているなどと思いませんねえ。……ここにいて、聞くな、はおかしいが、まア聞かぬつもりにしていてください」<lb />
 「そう、とんがるもんじゃない。茶々をいれているわけじゃない、いかにも馬鹿々々しいところがあるから、それで、そう言うんだ」<lb />
@@ -95,24 +95,24 @@
 「そら、いま、なんとか言われましたな。……蛇よけ呪文というのを、もう一度きかせていただきたいのだが」<lb />
 「お望みとあれば、いたします。……『なんぽーゆーちょうちょう、ちゅうゆーけつけつ、ちゅうじゃアじゃアちゅうゆうし』というのでございます」<lb />
 　顎十郎は、大口をあいて笑い出し、<lb />
-「だから、それがおかしいというんです。……なんぽーゆーちょう、ちょうちゅうゆーけつ……そいつを漢字になおすと、こういうことになる。……『<span type="ruby"><span type="rb">南方有<span rendition="small"><span rendition="sub">レ</span></span>塚</span><span type="rp">（</span><span type="rt">なんぽうにつかあり</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">塚中有<span rendition="small"><span rendition="sub">レ</span></span>穴</span><span type="rp">（</span><span type="rt">つかのなかにけつあり</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">穴中有<span rendition="small"><span rendition="sub">レ</span></span>蛇</span><span type="rp">（</span><span type="rt">けっちゅうにじゃあり</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">蛇中有<span rendition="small"><span rendition="sub">レ</span></span>屎</span><span type="rp">（</span><span type="rt">じゃちゅうにしあり</span><span type="rp">）</span></span>』……早口に棒読みにすると、なにかもっともらしく聞えるが、要するに、南の塚穴の中に蛇がいて、その蛇の中には<span type="ruby"><span type="rb">糞</span><span type="rp">（</span><span type="rt">くそ</span><span type="rp">）</span></span>がある、という愚にもつかないことを音読みでやっているだけのことなんです。こんなものにおどろいて消えてなくなるような大蛇なら、どうせ<span type="ruby"><span type="rb">多寡</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>が知れてると思いましてねえ、それで、つい笑いだしたようなわけ。……なにしろ、こんな恍けた話はねえ、漢語ぎらいの大蛇なんてえことになったら、こりゃア、ひとつ話になる」<lb />
+「だから、それがおかしいというんです。……なんぽーゆーちょう、ちょうちゅうゆーけつ……そいつを漢字になおすと、こういうことになる。……『<seg type="ruby"><seg type="rb">南方有<seg rendition="small"><seg rendition="sub">レ</seg></seg>塚</seg><seg type="rp">（</seg><seg type="rt">なんぽうにつかあり</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">塚中有<seg rendition="small"><seg rendition="sub">レ</seg></seg>穴</seg><seg type="rp">（</seg><seg type="rt">つかのなかにけつあり</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">穴中有<seg rendition="small"><seg rendition="sub">レ</seg></seg>蛇</seg><seg type="rp">（</seg><seg type="rt">けっちゅうにじゃあり</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">蛇中有<seg rendition="small"><seg rendition="sub">レ</seg></seg>屎</seg><seg type="rp">（</seg><seg type="rt">じゃちゅうにしあり</seg><seg type="rp">）</seg></seg>』……早口に棒読みにすると、なにかもっともらしく聞えるが、要するに、南の塚穴の中に蛇がいて、その蛇の中には<seg type="ruby"><seg type="rb">糞</seg><seg type="rp">（</seg><seg type="rt">くそ</seg><seg type="rp">）</seg></seg>がある、という愚にもつかないことを音読みでやっているだけのことなんです。こんなものにおどろいて消えてなくなるような大蛇なら、どうせ<seg type="ruby"><seg type="rb">多寡</seg><seg type="rp">（</seg><seg type="rt">たか</seg><seg type="rp">）</seg></seg>が知れてると思いましてねえ、それで、つい笑いだしたようなわけ。……なにしろ、こんな恍けた話はねえ、漢語ぎらいの大蛇なんてえことになったら、こりゃア、ひとつ話になる」<lb />
 　ひょろ松は、顎十郎のほうへ振りむいて、<lb />
 「なるほど、これは、気がつかなかった。……いかにもあなたのおっしゃる通り、そんな馬鹿げたことで蛇が消えてなくなるなんてわけはない。すると……」<lb />
 　と言いかけて、又右衛門に、<lb />
 「金井の叔父。……その蛇よけの呪文というのを、いったい、誰から教わりました」<lb />
 「さっき言った覚念坊というのが……」<lb />
 　顎十郎は手をうって、<lb />
-「こいつは、いい、覚念坊というやつは、よっぽど洒落れた坊主だと見えるの。……とんだ<span type="ruby"><span type="rb">野幇間</span><span type="rp">（</span><span type="rt">のだいこ</span><span type="rp">）</span></span>だ」<lb />
+「こいつは、いい、覚念坊というやつは、よっぽど洒落れた坊主だと見えるの。……とんだ<seg type="ruby"><seg type="rb">野幇間</seg><seg type="rp">（</seg><seg type="rt">のだいこ</seg><seg type="rp">）</seg></seg>だ」<lb />
 　ひょろ松は、釣りこまれてニヤリと笑ったが、すぐ真顔になって、<lb />
-「そんな<span type="ruby"><span type="rb">輩</span><span type="rp">（</span><span type="rt">やから</span><span type="rp">）</span></span>のすることだから、ムキになって腹を立てて見たって始まらないが、そんな出鱈目をひとに教えてすましているようなやつだから、眷族を呪文縛りにして一匹ずつ袂へ入れて帰るなんてえのも、どうせ、なにか、ふざけたことなんでしょう」<lb />
-　又右衛門は、途方に暮れたような<span rend="notes">［＃「暮れたような」は底本では「暮れたように」］</span>顔つきで、<lb />
+「そんな<seg type="ruby"><seg type="rb">輩</seg><seg type="rp">（</seg><seg type="rt">やから</seg><seg type="rp">）</seg></seg>のすることだから、ムキになって腹を立てて見たって始まらないが、そんな出鱈目をひとに教えてすましているようなやつだから、眷族を呪文縛りにして一匹ずつ袂へ入れて帰るなんてえのも、どうせ、なにか、ふざけたことなんでしょう」<lb />
+　又右衛門は、途方に暮れたような<seg rend="notes" rendition="span">［＃「暮れたような」は底本では「暮れたように」］</seg>顔つきで、<lb />
 「なるほど、そう聞けば、いかにももっともだが、しかし……」<lb />
 　ひょろ松は、手でおさえて、<lb />
-「まア、お聞きなさい。……たぶん、自分で夜具の裾へ蛇を忍びこませておいて、もったいぶって呼びよせるように真似をするぐらいが落ち。こりゃア、ずいぶんありそうな話だ。……それはそうと、ねえ、阿古十郎さん、ありもしないことを、口から出まかせにしゃべくってこっちを<span type="ruby"><span type="rb">威</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>しあげ、お布施でもたんまりせしめようという<span type="ruby"><span type="rb">魂胆</span><span type="rp">（</span><span type="rt">こんたん</span><span type="rp">）</span></span>でしょうが、それにしては、すこしやり方があくどすぎるようです。……なにもそうまでしなくとも……」<lb />
+「まア、お聞きなさい。……たぶん、自分で夜具の裾へ蛇を忍びこませておいて、もったいぶって呼びよせるように真似をするぐらいが落ち。こりゃア、ずいぶんありそうな話だ。……それはそうと、ねえ、阿古十郎さん、ありもしないことを、口から出まかせにしゃべくってこっちを<seg type="ruby"><seg type="rb">威</seg><seg type="rp">（</seg><seg type="rt">おど</seg><seg type="rp">）</seg></seg>しあげ、お布施でもたんまりせしめようという<seg type="ruby"><seg type="rb">魂胆</seg><seg type="rp">（</seg><seg type="rt">こんたん</seg><seg type="rp">）</seg></seg>でしょうが、それにしては、すこしやり方があくどすぎるようです。……なにもそうまでしなくとも……」<lb />
 　顎十郎は、大真面目にうなずき、<lb />
-「おれも、さっきから、そこのところを考えているんだ。名主どのを<span type="ruby"><span type="rb">誑</span><span type="rp">（</span><span type="rt">たぶら</span><span type="rp">）</span></span>かすだけにしては、すこし<span type="ruby"><span type="rb">巾</span><span type="rp">（</span><span type="rt">はば</span><span type="rp">）</span></span>がありすぎる。……こりゃア、なにか曰くがあるぜ。お布施なんていうケチなことで、お小夜さんとやらをそうまでいじめつけるわけはない。……欄間に金色の大蛇を這わせて威しつけるなんてえのは、ずいぶん念が入っている」<lb />
+「おれも、さっきから、そこのところを考えているんだ。名主どのを<seg type="ruby"><seg type="rb">誑</seg><seg type="rp">（</seg><seg type="rt">たぶら</seg><seg type="rp">）</seg></seg>かすだけにしては、すこし<seg type="ruby"><seg type="rb">巾</seg><seg type="rp">（</seg><seg type="rt">はば</seg><seg type="rp">）</seg></seg>がありすぎる。……こりゃア、なにか曰くがあるぜ。お布施なんていうケチなことで、お小夜さんとやらをそうまでいじめつけるわけはない。……欄間に金色の大蛇を這わせて威しつけるなんてえのは、ずいぶん念が入っている」<lb />
 「それにしても、金色の大蛇なんてえものが、ほんとうにいるものでしょうか」<lb />
-　顎十郎も、さすがに<span type="ruby"><span type="rb">窮</span><span type="rp">（</span><span type="rt">きゅう</span><span type="rp">）</span></span>して、<lb />
+　顎十郎も、さすがに<seg type="ruby"><seg type="rb">窮</seg><seg type="rp">（</seg><seg type="rt">きゅう</seg><seg type="rp">）</seg></seg>して、<lb />
 「箱根からこっちに、そんな気のきいた化物はないことになっているが、しかし、現在、名主どのが見たというのであれば、これは、なんとも軽率なことは言われない」<lb />
 　ひょろ松は、又右衛門のほうへ向きなおって、<lb />
 「あなた、欄間に大蛇が伝うのを見たてえのは、そりゃア、たしかな話なんでしょうね」<lb />
@@ -127,36 +127,36 @@
 「すると、三度とも、八ツから八ツ半までのあいだにごらんになったんですね。……夜はどうです」<lb />
 「夜は、まるっきり姿を見せぬのじゃて。……まだ、一度も見たことがない」<lb />
 　またしても顎十郎は、へらへらと笑いだし、<lb />
-「蛇塚の眷族は夜遊びはせぬか。……なるほど、蛇姫の身内だけあって<span type="ruby"><span type="rb">躾</span><span type="rp">（</span><span type="rt">しつけ</span><span type="rp">）</span></span>がいい。こいつあ、大笑いだ。……なあ、ひょろ松、蛇姫のご一統が欄間に出るのは、どうやら、昼の八ツから八ツ半までのあいだときまった。……すりゃア、こんなところでぐずぐず言っているよりも、あすの八ツごろ、むこうへ出かけて行って、とっくり拝見するほうが早道らしい。……蛇塚の眷族はみんな<span type="ruby"><span type="rb">女体</span><span type="rp">（</span><span type="rt">にょたい</span><span type="rp">）</span></span>だそうだから、ひょっとすると、こりゃあ、色っぽい話になるかも知れないぞ。ひとつ、とっつかまえて、<span type="ruby"><span type="rb">口説</span><span type="rp">（</span><span type="rt">くど</span><span type="rp">）</span></span>くか」<lb />
+「蛇塚の眷族は夜遊びはせぬか。……なるほど、蛇姫の身内だけあって<seg type="ruby"><seg type="rb">躾</seg><seg type="rp">（</seg><seg type="rt">しつけ</seg><seg type="rp">）</seg></seg>がいい。こいつあ、大笑いだ。……なあ、ひょろ松、蛇姫のご一統が欄間に出るのは、どうやら、昼の八ツから八ツ半までのあいだときまった。……すりゃア、こんなところでぐずぐず言っているよりも、あすの八ツごろ、むこうへ出かけて行って、とっくり拝見するほうが早道らしい。……蛇塚の眷族はみんな<seg type="ruby"><seg type="rb">女体</seg><seg type="rp">（</seg><seg type="rt">にょたい</seg><seg type="rp">）</seg></seg>だそうだから、ひょっとすると、こりゃあ、色っぽい話になるかも知れないぞ。ひとつ、とっつかまえて、<seg type="ruby"><seg type="rb">口説</seg><seg type="rp">（</seg><seg type="rt">くど</seg><seg type="rp">）</seg></seg>くか」<lb />
 　ひょろ松は、黙念。<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">朽穴</span><span type="rp">（</span><span type="rt">くちあな</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">朽穴</seg><seg type="rp">（</seg><seg type="rt">くちあな</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　菩提寺で年忌をすませると、ひょろ松はその足で柏屋へ迎えにやって来た。<lb />
-　紋服に<span type="ruby"><span type="rb">仙台平</span><span type="rp">（</span><span type="rt">せんだいひら</span><span type="rp">）</span></span>の袴。すこし<span type="ruby"><span type="rb">下凡</span><span type="rp">（</span><span type="rt">げぼん</span><span type="rp">）</span></span>の気あいがあるが、どうしてなかなかの器量。<lb />
+　紋服に<seg type="ruby"><seg type="rb">仙台平</seg><seg type="rp">（</seg><seg type="rt">せんだいひら</seg><seg type="rp">）</seg></seg>の袴。すこし<seg type="ruby"><seg type="rb">下凡</seg><seg type="rp">（</seg><seg type="rt">げぼん</seg><seg type="rp">）</seg></seg>の気あいがあるが、どうしてなかなかの器量。<lb />
 「ひょろ松にも衣裳か。こりゃア、見なおしたねえ。そうしていると、……なるほど、村の大旦那。ただ、眼つきの悪いのが玉に瑕だ」<lb />
 　ひょろ松は苦笑して、<lb />
 「さアさア、馬鹿なことを言っていないで、そろそろ出かけましょう。……近いと言っても田舎道、まごまごしていると、せっかくの女体に行きあわれねえ」<lb />
 　柏屋を出て、水上の長い土手づたい。<lb />
 　金井橋を渡ると、その取っつきに、土塀をめぐらしたゆったりとしたひと構え。<lb />
-　門を入ると、玄関に又右衛門が待ちかねていて、<span type="ruby"><span type="rb">柴折戸</span><span type="rp">（</span><span type="rt">しおりど</span><span type="rp">）</span></span>から庭づたいにそっとふたりを離屋へ案内する。<lb />
+　門を入ると、玄関に又右衛門が待ちかねていて、<seg type="ruby"><seg type="rb">柴折戸</seg><seg type="rp">（</seg><seg type="rt">しおりど</seg><seg type="rp">）</seg></seg>から庭づたいにそっとふたりを離屋へ案内する。<lb />
 　桃の古木にかこまれた、八畳つづきの奥の部屋に屏風を引きまわして、お小夜が見るかげもないようすで寝床についている。<lb />
 　顔の肉がなくなって骨ばかり、唇だけが妙に前へ飛びだしている。人間の相でない、まるで畜類。<lb />
-　また、狂いまわったばかりのところと見え、長い黒髪をすさまじいばかりに畳の上に散らし、眼尻を釣りあげてジッと三人を<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>めつけていたが、とつぜん、<span type="ruby"><span type="rb">魂消</span><span type="rp">（</span><span type="rt">たまぎ</span><span type="rp">）</span></span>えるような声で、<lb />
+　また、狂いまわったばかりのところと見え、長い黒髪をすさまじいばかりに畳の上に散らし、眼尻を釣りあげてジッと三人を<seg type="ruby"><seg type="rb">睨</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>めつけていたが、とつぜん、<seg type="ruby"><seg type="rb">魂消</seg><seg type="rp">（</seg><seg type="rt">たまぎ</seg><seg type="rp">）</seg></seg>えるような声で、<lb />
 「あれえ、また来た。……もうもう、ゆるしてください、ゆるして、ください……助けてくれえ」<lb />
 　足で夜具を蹴りかえし、畳に両手の指の爪を立てて床の間のほうへ這いずってゆく。見るさえおどろおどろしいばかり。<lb />
-　ひょろ松と顎十郎、さすがに<span type="ruby"><span type="rb">黯然</span><span type="rp">（</span><span type="rt">あんぜん</span><span type="rp">）</span></span>となって、無言のまま眼を見あわせていたが、そうばかりはしていられないので、手早く部屋の内部をそこここと調べおわると、縁側の戸袋の薄くらがりの中へしゃがみこみ、細く引きあけた障子の隙間から大蛇が伝うという欄間のほうをうかがいはじめた。<lb />
-　そのうちに、八ツ……八ツ半……。とうとう九ツになったが、いっこう、なんの異変も起らない。蛇体はおろか、<span type="ruby"><span type="rb">守宮</span><span type="rp">（</span><span type="rt">やもり</span><span type="rp">）</span></span>いっぴき這い出さぬ。<lb />
-　顎十郎は、<span type="ruby"><span type="rb">痺</span><span type="rp">（</span><span type="rt">しび</span><span type="rp">）</span></span>れを切らして立ちあがり、<lb />
-「こいつアいけねえ、こんないい男がふたりもここに這いつくばっているので、女体がはにかんで出て来ねえのだと見える。……それにしても、江戸一の捕物の名人がふたりもこんなところに<span type="ruby"><span type="rb">鯱</span><span type="rp">（</span><span type="rt">しゃち</span><span type="rp">）</span></span>こばっているには及ばない、半刻替りということにしようじゃないか。……おれは、その前に、ちょっと不浄へ……」<lb />
+　ひょろ松と顎十郎、さすがに<seg type="ruby"><seg type="rb">黯然</seg><seg type="rp">（</seg><seg type="rt">あんぜん</seg><seg type="rp">）</seg></seg>となって、無言のまま眼を見あわせていたが、そうばかりはしていられないので、手早く部屋の内部をそこここと調べおわると、縁側の戸袋の薄くらがりの中へしゃがみこみ、細く引きあけた障子の隙間から大蛇が伝うという欄間のほうをうかがいはじめた。<lb />
+　そのうちに、八ツ……八ツ半……。とうとう九ツになったが、いっこう、なんの異変も起らない。蛇体はおろか、<seg type="ruby"><seg type="rb">守宮</seg><seg type="rp">（</seg><seg type="rt">やもり</seg><seg type="rp">）</seg></seg>いっぴき這い出さぬ。<lb />
+　顎十郎は、<seg type="ruby"><seg type="rb">痺</seg><seg type="rp">（</seg><seg type="rt">しび</seg><seg type="rp">）</seg></seg>れを切らして立ちあがり、<lb />
+「こいつアいけねえ、こんないい男がふたりもここに這いつくばっているので、女体がはにかんで出て来ねえのだと見える。……それにしても、江戸一の捕物の名人がふたりもこんなところに<seg type="ruby"><seg type="rb">鯱</seg><seg type="rp">（</seg><seg type="rt">しゃち</seg><seg type="rp">）</seg></seg>こばっているには及ばない、半刻替りということにしようじゃないか。……おれは、その前に、ちょっと不浄へ……」<lb />
 　と言いすてて、廊下のはしへ曲りこんで行く。<lb />
-　間もなく、むこうのほうで<span type="ruby"><span type="rb">手洗鉢</span><span type="rp">（</span><span type="rt">ちょうずばち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">柄杓</span><span type="rp">（</span><span type="rt">ひしゃく</span><span type="rp">）</span></span>をガチャガチャいわせていたが、のそのそと戻って来て、<lb />
+　間もなく、むこうのほうで<seg type="ruby"><seg type="rb">手洗鉢</seg><seg type="rp">（</seg><seg type="rt">ちょうずばち</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">柄杓</seg><seg type="rp">（</seg><seg type="rt">ひしゃく</seg><seg type="rp">）</seg></seg>をガチャガチャいわせていたが、のそのそと戻って来て、<lb />
 「これで、さっぱりした、さあ、代ろう」<lb />
 　神妙なことを言いながら、例の欄間のほうに眼をやっていたが、なにを見たのか、とつぜん、おッと低い叫び声をあげた。<lb />
 　ひょろ松が、顔を引きしめてそのほうを眺めると、今までなんのきざしもなかった欄間の上あたりに、クッキリと明るい光がさし、それが陽炎のようにゆらゆらと揺れている。<lb />
 　ふたりは頭を低くして這いつくばって、なにが現れてくるかと待っていたが、帯のようなかたちの光がちらつくだけで、いっこうになにごとも起らないから、そろそろと内部へ這いこんで光り物の正体を調べはじめた。<lb />
 　間もなく、その正体を見とどけた。<lb />
-　<span type="ruby"><span type="rb">黒部</span><span type="rp">（</span><span type="rt">くろべ</span><span type="rp">）</span></span>を張った板の腰壁の、畳から三尺ばかり上ったところに小さな朽穴があいていて、そこからポーッと光が射しこんでいる。<lb />
+　<seg type="ruby"><seg type="rb">黒部</seg><seg type="rp">（</seg><seg type="rt">くろべ</seg><seg type="rp">）</seg></seg>を張った板の腰壁の、畳から三尺ばかり上ったところに小さな朽穴があいていて、そこからポーッと光が射しこんでいる。<lb />
 　ひょろ松は、その朽穴をためつしかめつしていたが、いかにも不審に耐えぬふうで、<lb />
 「欄間の光は、この穴からさしこむのにちがいないが、しかし、下から照らしあげるお天道さまなどはないのだから、そこから入る光がどうして、あんな上のほうへさすのか納得がゆきません。……そればかりではない、さっきまで、なにもなかったのに、どんなキッカケで急にあんなところを照らしあげるようになったのでしょう。さっきから、なにほど日ざしが移ったというわけでもなし……」<lb />
 　顎十郎は、ふん、ふん、と鼻を鳴らしながら、空うなずきにうなずいていたが、なにを思いついたか、ものも言わずに廊下のほうへ出て行った。<lb />
@@ -167,41 +167,41 @@
 　顎十郎は、とほんとした顔で、<lb />
 「どうも、こうもない。……つまり、これでこの朽穴が、お蛇体の通り道だということがわかったんだ」<lb />
 「ほほう……。でも、叔父の話では、胴まわり一尺もある大蛇だという話だが、どうしてこんな小さな穴から……」<lb />
-「そこが、それ、<span type="ruby"><span type="rb">魔性</span><span type="rp">（</span><span type="rt">ましょう</span><span type="rp">）</span></span>の変幻自在なところ。入ろうと思えば、どんなところからだって入って来るだろう。……とまア、平素なら恍けておくところだが、今はそんな場合じゃない。それに、まごまごしていると、えらいことになる。実はな、ひょろ松」<lb />
+「そこが、それ、<seg type="ruby"><seg type="rb">魔性</seg><seg type="rp">（</seg><seg type="rt">ましょう</seg><seg type="rp">）</seg></seg>の変幻自在なところ。入ろうと思えば、どんなところからだって入って来るだろう。……とまア、平素なら恍けておくところだが、今はそんな場合じゃない。それに、まごまごしていると、えらいことになる。実はな、ひょろ松」<lb />
 　いつもにもなく、真顔になって、ひょろ松の耳に口をあて、なにか、ひと言二た言ささやくと、いったいどんなことだったのか、ひょろ松が、<lb />
 「おッ」<lb />
 　と、驚異の叫び声をあげた。<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">道行</span><span type="rp">（</span><span type="rt">みちゆき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">段</span><span type="rp">（</span><span type="rt">だん</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">道行</seg><seg type="rp">（</seg><seg type="rt">みちゆき</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">段</seg><seg type="rp">（</seg><seg type="rt">だん</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　その後、蛇体が欄間を伝うことはなかったが、お小夜の物狂いはいっこうにおさまらない。<lb />
-　日に日に<span type="ruby"><span type="rb">窶</span><span type="rp">（</span><span type="rt">やつ</span><span type="rp">）</span></span>れて、今はもう見るもはかないばかりになってしまったが、なにしろ、相手は<span type="ruby"><span type="rb">変化玄妙</span><span type="rp">（</span><span type="rt">へんげげんみょう</span><span type="rp">）</span></span>の魔性。捕物にかけては人にゆずらぬ顎十郎も、まるっきり手も足も出ない。縁先に張りこんだり、漫然と夜伽をしたりするほかどうする才覚もないらしく、いたずらにやきもきと気をもんでいるようすは、見る眼にも<span type="ruby"><span type="rb">笑止</span><span type="rp">（</span><span type="rt">しょうし</span><span type="rp">）</span></span>なばかりであった。<lb />
+　日に日に<seg type="ruby"><seg type="rb">窶</seg><seg type="rp">（</seg><seg type="rt">やつ</seg><seg type="rp">）</seg></seg>れて、今はもう見るもはかないばかりになってしまったが、なにしろ、相手は<seg type="ruby"><seg type="rb">変化玄妙</seg><seg type="rp">（</seg><seg type="rt">へんげげんみょう</seg><seg type="rp">）</seg></seg>の魔性。捕物にかけては人にゆずらぬ顎十郎も、まるっきり手も足も出ない。縁先に張りこんだり、漫然と夜伽をしたりするほかどうする才覚もないらしく、いたずらにやきもきと気をもんでいるようすは、見る眼にも<seg type="ruby"><seg type="rb">笑止</seg><seg type="rp">（</seg><seg type="rt">しょうし</seg><seg type="rp">）</seg></seg>なばかりであった。<lb />
 　それから、四日ばかり後のこと。<lb />
-　この村の恒例で、甲州術道五宿の『<span type="ruby"><span type="rb">写</span><span type="rp">（</span><span type="rt">うつ</span><span type="rp">）</span></span>し<span type="ruby"><span type="rb">絵</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>』の名人、<span type="ruby"><span type="rb">小浜太夫</span><span type="rp">（</span><span type="rt">こはまたゆう</span><span type="rp">）</span></span>の一座がにぎにぎしく乗りこんできた。<lb />
-　芸人というのではなく、なかば好きからの旦那芸で、花見ごろから田植の始まるころまで、調布、府中、<span type="ruby"><span type="rb">青梅</span><span type="rp">（</span><span type="rt">おうめ</span><span type="rp">）</span></span>などの村々をまわって歩き、名主の家の広座敷やお寺の本堂などで、<span type="ruby"><span type="rb">説教節</span><span type="rp">（</span><span type="rt">せっきょうぶし</span><span type="rp">）</span></span>にあわせて、『<span type="ruby"><span type="rb">石童丸</span><span type="rp">（</span><span type="rt">いしどうまる</span><span type="rp">）</span></span>』『<span type="ruby"><span type="rb">出世景清</span><span type="rp">（</span><span type="rt">しゅっせかげきよ</span><span type="rp">）</span></span>』『<span type="ruby"><span type="rb">牡丹灯籠</span><span type="rp">（</span><span type="rt">ぼたんどうろう</span><span type="rp">）</span></span>』『四谷怪談』などの写し絵をうつして見せる。<lb />
+　この村の恒例で、甲州術道五宿の『<seg type="ruby"><seg type="rb">写</seg><seg type="rp">（</seg><seg type="rt">うつ</seg><seg type="rp">）</seg></seg>し<seg type="ruby"><seg type="rb">絵</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>』の名人、<seg type="ruby"><seg type="rb">小浜太夫</seg><seg type="rp">（</seg><seg type="rt">こはまたゆう</seg><seg type="rp">）</seg></seg>の一座がにぎにぎしく乗りこんできた。<lb />
+　芸人というのではなく、なかば好きからの旦那芸で、花見ごろから田植の始まるころまで、調布、府中、<seg type="ruby"><seg type="rb">青梅</seg><seg type="rp">（</seg><seg type="rt">おうめ</seg><seg type="rp">）</seg></seg>などの村々をまわって歩き、名主の家の広座敷やお寺の本堂などで、<seg type="ruby"><seg type="rb">説教節</seg><seg type="rp">（</seg><seg type="rt">せっきょうぶし</seg><seg type="rp">）</seg></seg>にあわせて、『<seg type="ruby"><seg type="rb">石童丸</seg><seg type="rp">（</seg><seg type="rt">いしどうまる</seg><seg type="rp">）</seg></seg>』『<seg type="ruby"><seg type="rb">出世景清</seg><seg type="rp">（</seg><seg type="rt">しゅっせかげきよ</seg><seg type="rp">）</seg></seg>』『<seg type="ruby"><seg type="rb">牡丹灯籠</seg><seg type="rp">（</seg><seg type="rt">ぼたんどうろう</seg><seg type="rp">）</seg></seg>』『四谷怪談』などの写し絵をうつして見せる。<lb />
 　この『写し絵』は、そのころ八王子を中心に、久しいあいだ全盛をきわめたものだった。<lb />
-　桐でつくった頑丈な<span type="ruby"><span type="rb">写箱</span><span type="rp">（</span><span type="rt">フロ</span><span type="rp">）</span></span>の前面に<span rend="SESAME_DOT" rendition="strong">のぞきからくり</span>と同じレンズがはまり、カンテラのあかりで、美濃紙を継ぎあわせた、天地三尺、幅三間半ぐらいの幕にうつす。<lb />
-　横長の、八寸ほどの木の枠に、立ったところ、ころげたところ、起きあがったところと、いろいろな姿態を<span type="ruby"><span type="rb">硝子</span><span type="rp">（</span><span type="rt">ギヤマン</span><span type="rp">）</span></span>に極彩色で描いた、五枚から八枚までの<span type="ruby"><span type="rb">種板</span><span type="rp">（</span><span type="rt">コマ</span><span type="rp">）</span></span>を嵌めこみ、幕のうしろにいくつも写箱をならべて交互にこれを使用する。名人になると、ひとりで四つの写箱をつかいわけて、画面の人物をたくみに操り、さながら、生きて動く人間を見るような<span type="ruby"><span type="rb">至極</span><span type="rp">（</span><span type="rt">しごく</span><span type="rp">）</span></span>な芸を見せたものであった。<lb />
-　そのころでは、これはこの上もない面白い<span type="ruby"><span type="rb">観物</span><span type="rp">（</span><span type="rt">みもの</span><span type="rp">）</span></span>。あすは名主さまの家で『写し絵』があるということになると、近郷村一帯、だれも仕事に手がつかない。七八里もあるところから、村じゅう総出で、提灯をつけて夜道を辿ってやってくる。<lb />
+　桐でつくった頑丈な<seg type="ruby"><seg type="rb">写箱</seg><seg type="rp">（</seg><seg type="rt">フロ</seg><seg type="rp">）</seg></seg>の前面に<seg rend="SESAME_DOT" rendition="strong">のぞきからくり</seg>と同じレンズがはまり、カンテラのあかりで、美濃紙を継ぎあわせた、天地三尺、幅三間半ぐらいの幕にうつす。<lb />
+　横長の、八寸ほどの木の枠に、立ったところ、ころげたところ、起きあがったところと、いろいろな姿態を<seg type="ruby"><seg type="rb">硝子</seg><seg type="rp">（</seg><seg type="rt">ギヤマン</seg><seg type="rp">）</seg></seg>に極彩色で描いた、五枚から八枚までの<seg type="ruby"><seg type="rb">種板</seg><seg type="rp">（</seg><seg type="rt">コマ</seg><seg type="rp">）</seg></seg>を嵌めこみ、幕のうしろにいくつも写箱をならべて交互にこれを使用する。名人になると、ひとりで四つの写箱をつかいわけて、画面の人物をたくみに操り、さながら、生きて動く人間を見るような<seg type="ruby"><seg type="rb">至極</seg><seg type="rp">（</seg><seg type="rt">しごく</seg><seg type="rp">）</seg></seg>な芸を見せたものであった。<lb />
+　そのころでは、これはこの上もない面白い<seg type="ruby"><seg type="rb">観物</seg><seg type="rp">（</seg><seg type="rt">みもの</seg><seg type="rp">）</seg></seg>。あすは名主さまの家で『写し絵』があるということになると、近郷村一帯、だれも仕事に手がつかない。七八里もあるところから、村じゅう総出で、提灯をつけて夜道を辿ってやってくる。<lb />
 　さて、いよいよ、当日。<lb />
-　又右衛門の家では朝から<span type="ruby"><span type="rb">転手古舞</span><span type="rp">（</span><span type="rt">てんてこま</span><span type="rp">）</span></span>い。<lb />
+　又右衛門の家では朝から<seg type="ruby"><seg type="rb">転手古舞</seg><seg type="rp">（</seg><seg type="rt">てんてこま</seg><seg type="rp">）</seg></seg>い。<lb />
 　広座敷に燭台を出したり、楽屋をこしらえたり、座布団や煙草盆。庭には、いっぱいに筵を敷きつめ、足りないところには縁台を出す。<lb />
 　下男頭の作平が、僕童を追いまわしながら、<lb />
 「おいおい、ここに筵が足らねえぞ……縁台はこっちじゃあねえだ。むこうだむこうだ」<lb />
-　などと、汗みずくになってやっている。すこし骨細だが、実直そうないい<span type="ruby"><span type="rb">壮者</span><span type="rp">（</span><span type="rt">わかもの</span><span type="rp">）</span></span>。<lb />
-　奥では、接待の麦茶わかし、子供にくばる菓子づつみや<span type="ruby"><span type="rb">強飯</span><span type="rp">（</span><span type="rt">こわめし</span><span type="rp">）</span></span>やら。<lb />
+　などと、汗みずくになってやっている。すこし骨細だが、実直そうないい<seg type="ruby"><seg type="rb">壮者</seg><seg type="rp">（</seg><seg type="rt">わかもの</seg><seg type="rp">）</seg></seg>。<lb />
+　奥では、接待の麦茶わかし、子供にくばる菓子づつみや<seg type="ruby"><seg type="rb">強飯</seg><seg type="rp">（</seg><seg type="rt">こわめし</seg><seg type="rp">）</seg></seg>やら。<lb />
 　このほうは、女中頭のお年が一生懸命に采配をふるっている。しめりかえったこの屋敷に一時に春がきたよう。だれもかれも、浮き浮きした笑い声をあげて走りまわる。<lb />
 　まだ日も暮れぬうちから、晴着をひっぱった老幼男女が、煮〆の重詰や地酒をさげてくりこんでくる。またたく間に、五十畳の広座敷はもちろん、筵敷の上までぎっしりと詰って、身動きもならない有様。気の早いのは、もう重箱をあけて盃のやりとり。早くやってくらっせえ、などとだみ声をあげている。<lb />
 　顎十郎も誘われて座敷の隅にいる。<lb />
 　そうこうするうちに、短い秋の日はとっぷりと暮れ、星がキラキラと瞬きだす。<lb />
 　さア、もう始まるべえ、と、ざわめき立っているうちに、作平や世話役が座敷の灯を消して歩く。<lb />
 　やがて、正面の幕に写しだされたのが、吉例の『福助』。<lb />
-　わあッ、というどよめきのうちに、楽屋からは写し絵の口上、<span type="ruby"><span type="rb">声高々</span><span type="rp">（</span><span type="rt">こえたかだか</span><span type="rp">）</span></span>。<lb />
-「……東西々々、御当所は繁華にまさる御名地と<span type="ruby"><span type="rb">承</span><span type="rp">（</span><span type="rt">うけたま</span><span type="rp">）</span></span>わり、名ある諸芸人、入れかわり立ちかわり、芸に芸当を取りつくしたるそのあとに、<span rend="SESAME_DOT" rendition="strong">みじく</span>なる我々どもがまかりいで、<span type="ruby"><span type="rb">相勤</span><span type="rp">（</span><span type="rt">あいつと</span><span type="rp">）</span></span>めまする<span type="ruby"><span type="rb">極彩色写絵</span><span type="rp">（</span><span type="rt">ごいさいしきうつしえ</span><span type="rp">）</span></span>は、ほかの芸当とはことちがい、手もとをはなれ、灯りさきはギヤマン細工。……とど仕損じがちもござりましょうが、ごひいきをもちまして、悪いところは袖たもとにおつつみあって、なにとぞ、お引立てを願いあげ<span type="ruby"><span type="rb">奉</span><span type="rp">（</span><span type="rt">たてまつ</span><span type="rp">）</span></span>ります。今晩の芸題は、『安珍清姫道成寺の段』、相勤めまするは小浜太夫。おはやし、楽屋一同、そのため、口上、左様々々……」<lb />
+　わあッ、というどよめきのうちに、楽屋からは写し絵の口上、<seg type="ruby"><seg type="rb">声高々</seg><seg type="rp">（</seg><seg type="rt">こえたかだか</seg><seg type="rp">）</seg></seg>。<lb />
+「……東西々々、御当所は繁華にまさる御名地と<seg type="ruby"><seg type="rb">承</seg><seg type="rp">（</seg><seg type="rt">うけたま</seg><seg type="rp">）</seg></seg>わり、名ある諸芸人、入れかわり立ちかわり、芸に芸当を取りつくしたるそのあとに、<seg rend="SESAME_DOT" rendition="strong">みじく</seg>なる我々どもがまかりいで、<seg type="ruby"><seg type="rb">相勤</seg><seg type="rp">（</seg><seg type="rt">あいつと</seg><seg type="rp">）</seg></seg>めまする<seg type="ruby"><seg type="rb">極彩色写絵</seg><seg type="rp">（</seg><seg type="rt">ごいさいしきうつしえ</seg><seg type="rp">）</seg></seg>は、ほかの芸当とはことちがい、手もとをはなれ、灯りさきはギヤマン細工。……とど仕損じがちもござりましょうが、ごひいきをもちまして、悪いところは袖たもとにおつつみあって、なにとぞ、お引立てを願いあげ<seg type="ruby"><seg type="rb">奉</seg><seg type="rp">（</seg><seg type="rt">たてまつ</seg><seg type="rp">）</seg></seg>ります。今晩の芸題は、『安珍清姫道成寺の段』、相勤めまするは小浜太夫。おはやし、楽屋一同、そのため、口上、左様々々……」<lb />
 　いよオ、御苦労様。<lb />
-　わッという掛け声のうちに、賑かな<span type="ruby"><span type="rb">下座</span><span type="rp">（</span><span type="rt">げざ</span><span type="rp">）</span></span>が入る。三味線、太鼓、小鼓、それに木魚がつれて、<span type="ruby"><span type="rb">禅</span><span type="rp">（</span><span type="rt">ぜん</span><span type="rp">）</span></span>の<span rend="SESAME_DOT" rendition="strong">つとめの</span><span type="ruby"><span type="rb">合方</span><span type="rp">（</span><span type="rt">あいかた</span><span type="rp">）</span></span>。<lb />
+　わッという掛け声のうちに、賑かな<seg type="ruby"><seg type="rb">下座</seg><seg type="rp">（</seg><seg type="rt">げざ</seg><seg type="rp">）</seg></seg>が入る。三味線、太鼓、小鼓、それに木魚がつれて、<seg type="ruby"><seg type="rb">禅</seg><seg type="rp">（</seg><seg type="rt">ぜん</seg><seg type="rp">）</seg></seg>の<seg rend="SESAME_DOT" rendition="strong">つとめの</seg><seg type="ruby"><seg type="rb">合方</seg><seg type="rp">（</seg><seg type="rt">あいかた</seg><seg type="rp">）</seg></seg>。<lb />
 　映し幕に、パッと明りがさし、色も鮮かに浮きあがった画面は、上下に松並木の書割、前が街道。と、下手から清姫がなよなよと現れ出てくる。<lb />
-<span change="gaiji" facs="../../../gaiji/1-03/1-03-28.png" rend="gaiji" rendition="img" source="※(歌記号、1-3-28)" />赤い振柚に花簪、帯のだらりも金襴に……と、歌の文句のように、浮世絵の極彩色の美しい姿で松並木のなかほどのところまでやってくると、<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">かみて</span><span type="rp">）</span></span>から飛脚が飛んで出る。<lb />
+<seg change="gaiji" facs="../../../gaiji/1-03/1-03-28.png" rend="gaiji" rendition="img" source="※(歌記号、1-3-28)" />赤い振柚に花簪、帯のだらりも金襴に……と、歌の文句のように、浮世絵の極彩色の美しい姿で松並木のなかほどのところまでやってくると、<seg type="ruby"><seg type="rb">上手</seg><seg type="rp">（</seg><seg type="rt">かみて</seg><seg type="rp">）</seg></seg>から飛脚が飛んで出る。<lb />
 　清姫が、こうこういう美しい旅の僧を見なかったかと訪ねる。飛脚は、あっちへ行ったという。<lb />
 　お次ぎは、旅の僧侶がひとり。夜道で思いがけない美しい女にあったので、幽霊かと思い、あわてて突っ伏して、鐘をたたきながら無闇に念仏を唱える。<lb />
 　画面がかわると、『日高川の場』。<lb />
@@ -209,22 +209,22 @@
 　清姫がよろよろと岸に辿りついて、渡守に、渡してくれと頼むが、船頭は無情にことわる。<lb />
 　清姫は泣いたり恨んだりしていたが、だんだん凄いかおになって、とうとう川に飛びこんで抜手を切るうちに、一度、水底に姿が見えなくなったと思うと、とつぜん、金の鱗をつけた凄じい蛇体になって、激流の中を泳いでゆく。<lb />
 　ここまではいいが、そのあとは、ちょっと意外なことになった。<lb />
-　普通ならば、これから道成寺へ行って、塀を乗りこえて鐘楼に近づく、ということになるのだが、どうしたのか、今晩の『写し絵』は蛇体が日高川を泳ぎわたると、とたんに、どこか、離家の横手のようなところが映り、ひとりの作男ていの男が、そこの<span type="ruby"><span type="rb">下見</span><span type="rp">（</span><span type="rt">したみ</span><span type="rp">）</span></span>の節穴へ、写し絵の種板のようなものをおしあててニヤリと凄い顔で笑う。<lb />
+　普通ならば、これから道成寺へ行って、塀を乗りこえて鐘楼に近づく、ということになるのだが、どうしたのか、今晩の『写し絵』は蛇体が日高川を泳ぎわたると、とたんに、どこか、離家の横手のようなところが映り、ひとりの作男ていの男が、そこの<seg type="ruby"><seg type="rb">下見</seg><seg type="rp">（</seg><seg type="rt">したみ</seg><seg type="rp">）</seg></seg>の節穴へ、写し絵の種板のようなものをおしあててニヤリと凄い顔で笑う。<lb />
 　と、場面が変って、座敷の中。十八九の娘が、枕屏風を引きまわして寝ているその欄間の上を、先刻の清姫の蛇体が、すさまじいようすでニョロニョロと這いまわりはじめた。<lb />
 　見物の村の衆は、あっけにとられて口をあいて眺めるうちに、暗闇の庭さきで、あッ、という叫び声がきこえ、つづいてバタバタと門のほうへ走り出したものがある。<lb />
 　むさんに駈けて行って、潜りから外へ飛びだそうとしたが、かねて手はずがしてあったものと見え、門の両側の闇につくばっていた五六人の男がムクムクといっせいに立ち上って、折り重っておさえつけてしまった。<lb />
 　引きおこしてみると、それが、日ごろまめまめしく立働いていた下男頭の作平。<lb />
 <lb />
 　五日市街道のもどり道。<lb />
-「……それにしても、手洗鉢にうつるお<span type="ruby"><span type="rb">天道</span><span type="rp">（</span><span type="rt">てんと</span><span type="rp">）</span></span>さまのあかりを種につかい、節穴に嵌めこんだ種板で欄間に大蛇をうつして見せようなんてえのは、そうとう悪達者なやつ。……手洗鉢の水にうつった陽の光が、折れ曲って節穴を通り、座敷の欄間に照りかえしているのを見て、それから思いついたことなのでしょうが、手洗鉢の水に種があろうなどとは誰も気がつかねえ。……消そうと思えば、手洗鉢の蓋をしめるだけのこと。……出そうと消そうと心のまま。なるほど、これじゃア、変幻奇妙……。八王子へ出かけて行って、作平が、もと玉川一座の<span type="ruby"><span type="rb">種板</span><span type="rp">（</span><span type="rt">コマ</span><span type="rp">）</span></span>絵描きだったということをさぐり出して来なかったら、とてもこの謎々はとけなかったかも知れません。……それにしても、阿古十郎さん、欄間の光のみなもとは、手洗鉢の水にあたる陽の光だということが、どうしてあのとき、おわかりになりました」<lb />
+「……それにしても、手洗鉢にうつるお<seg type="ruby"><seg type="rb">天道</seg><seg type="rp">（</seg><seg type="rt">てんと</seg><seg type="rp">）</seg></seg>さまのあかりを種につかい、節穴に嵌めこんだ種板で欄間に大蛇をうつして見せようなんてえのは、そうとう悪達者なやつ。……手洗鉢の水にうつった陽の光が、折れ曲って節穴を通り、座敷の欄間に照りかえしているのを見て、それから思いついたことなのでしょうが、手洗鉢の水に種があろうなどとは誰も気がつかねえ。……消そうと思えば、手洗鉢の蓋をしめるだけのこと。……出そうと消そうと心のまま。なるほど、これじゃア、変幻奇妙……。八王子へ出かけて行って、作平が、もと玉川一座の<seg type="ruby"><seg type="rb">種板</seg><seg type="rp">（</seg><seg type="rt">コマ</seg><seg type="rp">）</seg></seg>絵描きだったということをさぐり出して来なかったら、とてもこの謎々はとけなかったかも知れません。……それにしても、阿古十郎さん、欄間の光のみなもとは、手洗鉢の水にあたる陽の光だということが、どうしてあのとき、おわかりになりました」<lb />
 「だって、そうじゃないか、おれが不浄へ行って帰って来るまでのあいだ、おれはたったひとつだけのことしかしていない。……つまり、手洗鉢の蓋を取って手を洗っただけ。……ところが、今までなかった光が欄間へうつる。……すると、欄間に光がうつったのは、おれが手洗鉢の蓋をとったためだと思うほかはない。……まア、理詰めだな、たいして自慢にもなりはしない」<lb />
 　ひょろ松は、仔細らしくうなずいて、<lb />
 「なるほど、そういうわけだったのですか。……聞いて見れば、わけのないことだが、あなたが、あたしの耳へ、これは、『写し絵』の仕掛で、欄間へ大蛇をうつすのだぜ、と囁かれたときには、さすがのわたしも、あまりあなたの頭の凄さに、思わずぞっとしましたよ」<lb />
 　顎十郎は、迷惑そうに手をふって、<lb />
-「いやア、まあ、そう、おだてるな。……それにしても、太いのは、お年という女。……作平をそそのかしたのも、覚念坊をひっぱりこんだのも、みなあいつの才覚だったんだが、あんなしおらしい顔をして蛇を種に主人の娘を責め殺し、蛇姫様のお<span type="ruby"><span type="rb">告</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>げだといって、作平に家督をつがせ、じぶんがその女房におさまってうまうまお家を乗っとろうなどと企てるなんてえのは見あげた度胸。……ふ、ふ、ふ、たしかに女は魔物だよ」<lb />
+「いやア、まあ、そう、おだてるな。……それにしても、太いのは、お年という女。……作平をそそのかしたのも、覚念坊をひっぱりこんだのも、みなあいつの才覚だったんだが、あんなしおらしい顔をして蛇を種に主人の娘を責め殺し、蛇姫様のお<seg type="ruby"><seg type="rb">告</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>げだといって、作平に家督をつがせ、じぶんがその女房におさまってうまうまお家を乗っとろうなどと企てるなんてえのは見あげた度胸。……ふ、ふ、ふ、たしかに女は魔物だよ」<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

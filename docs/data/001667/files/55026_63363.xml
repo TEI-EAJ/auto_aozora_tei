@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-11-24">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：良本典代<lb />
@@ -31,14 +31,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 幸ひに髪がふさふさと綺麗だから<lb />
 この頭蓋骨のなかに菫色の豆ランプをともし<lb />
 つれない恋人よ<lb />
-この美しい<span type="ruby"><span type="rb">角燈</span><span type="rp">（</span><span type="rt">ランターン</span><span type="rp">）</span></span>を貴女の寝室へ贈らうと思ひます<lb />
+この美しい<seg type="ruby"><seg type="rb">角燈</seg><seg type="rp">（</seg><seg type="rt">ランターン</seg><seg type="rp">）</seg></seg>を貴女の寝室へ贈らうと思ひます<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

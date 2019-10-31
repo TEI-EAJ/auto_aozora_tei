@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-03-11">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 初出：「沖縄毎日新聞」<lb />
 　　　1911（明治44）年6月1日<lb />
@@ -36,15 +36,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-咲きし<span type="ruby"><span type="rb">華</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>はしぼみて、<lb />
-わが世は<span type="ruby"><span type="rb">暗</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>がりわたり。<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+咲きし<seg type="ruby"><seg type="rb">華</seg><seg type="rp">（</seg><seg type="rt">はな</seg><seg type="rp">）</seg></seg>はしぼみて、<lb />
+わが世は<seg type="ruby"><seg type="rb">暗</seg><seg type="rp">（</seg><seg type="rt">くら</seg><seg type="rp">）</seg></seg>がりわたり。<lb />
 <lb />
 くろめる渦巻きのなか<lb />
 淋しき、うめきをやする。<lb />
 <lb />
-そは、<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">つめ</span><span type="rp">）</span></span>たき砂のうへに裂けて、<lb />
-風に泣く片葉<span type="ruby"><span type="rb">□</span><span type="rp">（</span><span type="rt">（不明）</span><span type="rp">）</span></span>貝にも似たり。<lb />
+そは、<seg type="ruby"><seg type="rb">冷</seg><seg type="rp">（</seg><seg type="rt">つめ</seg><seg type="rp">）</seg></seg>たき砂のうへに裂けて、<lb />
+風に泣く片葉<seg type="ruby"><seg type="rb">□</seg><seg type="rp">（</seg><seg type="rt">（不明）</seg><seg type="rp">）</seg></seg>貝にも似たり。<lb />
 <lb />
 絶えせぬ浪の響き、肉にゆさぶれば、<lb />
 小さき魂は、音なく伏してあるなり。<lb />
@@ -54,12 +54,12 @@
 怖ろしく眼にとまる。<lb />
 かつて、命をすてゝ去る人あるを聞けど<lb />
 あまりにかへる日の遠し…………。<lb />
-われは今、かの<span rend="sesame_dot" rendition="em">ひからびし</span>落葉の如く<lb />
+われは今、かの<seg rend="sesame_dot" rendition="em">ひからびし</seg>落葉の如く<lb />
 地の上を、あてなく転げて、<lb />
 冷やかに尚ほ生きてあるのみ。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

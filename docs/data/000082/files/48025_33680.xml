@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -48,7 +48,7 @@
 村の男　善助<lb />
 小坊主　昭全<lb />
 村の娘　おあさ、おつぎ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 第一幕<lb />
 <lb />
@@ -56,9 +56,9 @@
 　　　　　　　　　　一<lb />
 <lb />
 　桃山時代の末期、慶長初年の頃。秋も暮れかかる九月なかばの午後。<lb />
-　九州、肥前国。島原半島に近き山村。田原弥三郎の家。<span type="ruby"><span type="rb">藁葺</span><span type="rp">（</span><span type="rt">わらぶき</span><span type="rp">）</span></span>屋根の<span type="ruby"><span type="rb">二重家体</span><span type="rp">（</span><span type="rt">にじゅうやたい</span><span type="rp">）</span></span>にて、正面の上のかたに仏壇、その下に板戸の押入れあり。つづいて奥へ出入りの古びたる障子。下のかたは折りまわして古びたる壁、低き竹窓。前は竹縁にて、切株の踏み段あり。下のかたの<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>きところに炉を切りて土瓶をかけ、傍らに<span type="ruby"><span type="rb">粗朶籠</span><span type="rp">（</span><span type="rt">そだかご</span><span type="rp">）</span></span>などあり。庭には秋草など咲きて、上のかたには大竹薮あり。下のかたには低き丸太の柱を立て、型ばかりの木戸あり。木戸の外には石の井戸ありて、やや赤らみたる柿の大樹あり。うしろは田畑を隔てて高き山々、恰もこの村を圧するが如くに近くみゆ。<lb />
+　九州、肥前国。島原半島に近き山村。田原弥三郎の家。<seg type="ruby"><seg type="rb">藁葺</seg><seg type="rp">（</seg><seg type="rt">わらぶき</seg><seg type="rp">）</seg></seg>屋根の<seg type="ruby"><seg type="rb">二重家体</seg><seg type="rp">（</seg><seg type="rt">にじゅうやたい</seg><seg type="rp">）</seg></seg>にて、正面の上のかたに仏壇、その下に板戸の押入れあり。つづいて奥へ出入りの古びたる障子。下のかたは折りまわして古びたる壁、低き竹窓。前は竹縁にて、切株の踏み段あり。下のかたの<seg type="ruby"><seg type="rb">好</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>きところに炉を切りて土瓶をかけ、傍らに<seg type="ruby"><seg type="rb">粗朶籠</seg><seg type="rp">（</seg><seg type="rt">そだかご</seg><seg type="rp">）</seg></seg>などあり。庭には秋草など咲きて、上のかたには大竹薮あり。下のかたには低き丸太の柱を立て、型ばかりの木戸あり。木戸の外には石の井戸ありて、やや赤らみたる柿の大樹あり。うしろは田畑を隔てて高き山々、恰もこの村を圧するが如くに近くみゆ。<lb />
 <lb />
-（弥三郎の妹お妙、十七八歳。村の娘おあさ、おつぎと共に針仕事の稽古をしている。百姓善助、五十余歳、鍬を持ちて縁に腰をかけている。<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>の音きこゆ。）<lb />
+（弥三郎の妹お妙、十七八歳。村の娘おあさ、おつぎと共に針仕事の稽古をしている。百姓善助、五十余歳、鍬を持ちて縁に腰をかけている。<seg type="ruby"><seg type="rb">砧</seg><seg type="rp">（</seg><seg type="rt">きぬた</seg><seg type="rp">）</seg></seg>の音きこゆ。）<lb />
 善助　みんな好く精が出るな。なんと云っても、女は針仕事が大事だ。こう遣って精を出していれば、どこへでも立派にお嫁さんに行かれるぞ。はははははは。<lb />
 （弥三郎の女房おいよ、二十七八歳、色白くして品よき女、奥の障子をあけて出づ。）<lb />
 おいよ　善助さん。あさ夕はめっきり冷えて来ましたな。<lb />
@@ -70,17 +70,17 @@
 おあさ　ほんに此頃はここらへ悪い狼が出るので、日が暮れると滅多に外へは出られません。<lb />
 おつぎ　あしかけ三月のあいだに、この村中で七人も咬まれたとはまったく怖ろしいことですな。<lb />
 お妙　兄さんも早くその狼を退治したいと云っていますが、なかなか姿をみせないのでどうすることも出来ないそうです。<lb />
-善助　今までここらにそんな怖ろしい狼が出るという話は、ついぞ聞いたこともなかったが、山伝いに何処からか悪い狼が入り込んで来たと見える。初めは<span type="ruby"><span type="rb">新仏</span><span type="rp">（</span><span type="rt">しんぼとけ</span><span type="rp">）</span></span>の墓をあらして、死骸をほり出して喰っていたが、それがだんだんに増長して、此頃は往来の人間にまで飛びかかるようになって来たので、村中は大騒ぎで、このあいだから二度も狼狩りを遣ってみたが、どうしても見付からない。もう立去ったのかと思って安心していると、また出て来る。現に<span type="ruby"><span type="rb">一昨日</span><span type="rp">（</span><span type="rt">おととい</span><span type="rp">）</span></span>の晩も長福寺の小坊主が檀家から帰る途中で飛び付かれた。<lb />
-おあさ　それでも運よく無事に逃げ<span type="ruby"><span type="rb">負</span><span type="rp">（</span><span type="rt">おう</span><span type="rp">）</span></span>せたそうですな。<lb />
-善助　むむ。あの小僧はふだんから<span type="ruby"><span type="rb">悪戯者</span><span type="rp">（</span><span type="rt">いたずらもの</span><span type="rp">）</span></span>だけに、持っている<span type="ruby"><span type="rb">松明</span><span type="rp">（</span><span type="rt">たいまつ</span><span type="rp">）</span></span>を叩きつけて、一生懸命に逃げ出してあぶない所を助かったそうだ。<lb />
+善助　今までここらにそんな怖ろしい狼が出るという話は、ついぞ聞いたこともなかったが、山伝いに何処からか悪い狼が入り込んで来たと見える。初めは<seg type="ruby"><seg type="rb">新仏</seg><seg type="rp">（</seg><seg type="rt">しんぼとけ</seg><seg type="rp">）</seg></seg>の墓をあらして、死骸をほり出して喰っていたが、それがだんだんに増長して、此頃は往来の人間にまで飛びかかるようになって来たので、村中は大騒ぎで、このあいだから二度も狼狩りを遣ってみたが、どうしても見付からない。もう立去ったのかと思って安心していると、また出て来る。現に<seg type="ruby"><seg type="rb">一昨日</seg><seg type="rp">（</seg><seg type="rt">おととい</seg><seg type="rp">）</seg></seg>の晩も長福寺の小坊主が檀家から帰る途中で飛び付かれた。<lb />
+おあさ　それでも運よく無事に逃げ<seg type="ruby"><seg type="rb">負</seg><seg type="rp">（</seg><seg type="rt">おう</seg><seg type="rp">）</seg></seg>せたそうですな。<lb />
+善助　むむ。あの小僧はふだんから<seg type="ruby"><seg type="rb">悪戯者</seg><seg type="rp">（</seg><seg type="rt">いたずらもの</seg><seg type="rp">）</seg></seg>だけに、持っている<seg type="ruby"><seg type="rb">松明</seg><seg type="rp">（</seg><seg type="rt">たいまつ</seg><seg type="rp">）</seg></seg>を叩きつけて、一生懸命に逃げ出してあぶない所を助かったそうだ。<lb />
 おつぎ　小僧さんの話では、その狼はなんだか人間のような姿をしていたと云うではありませんか。<lb />
 善助　（笑う。）はは、子供のいうことが当てになるものか。暗いなかから不意に飛び出して来たのと、こっちが慌てているのとで、そんな風にも見えたのだろう。狼が人間のような姿をしていては大変だ。<lb />
 おあさ　姿ばかりでなく、顔までが真白な女のように見えたとか云いますが……。<lb />
-善助　狼の顔が女にみえた……。（又笑う。）それはいよいよ大変だ。勿論、狼にも<span type="ruby"><span type="rb">雌雄</span><span type="rp">（</span><span type="rt">めすおす</span><span type="rp">）</span></span>はあるが、いくら雌でも女のような顔はしていないだろう。こう云うときには色々の噂が立つものだ。はははははは。<lb />
+善助　狼の顔が女にみえた……。（又笑う。）それはいよいよ大変だ。勿論、狼にも<seg type="ruby"><seg type="rb">雌雄</seg><seg type="rp">（</seg><seg type="rt">めすおす</seg><seg type="rp">）</seg></seg>はあるが、いくら雌でも女のような顔はしていないだろう。こう云うときには色々の噂が立つものだ。はははははは。<lb />
 （おいよは終始無言で聴いている。）<lb />
 お妙　いつかはあの山に天狗が出ると云って、大騒ぎをしたことがありましたな。<lb />
-おつぎ　それから山男が出て来て、子どもを<span type="ruby"><span type="rb">攫</span><span type="rp">（</span><span type="rt">さら</span><span type="rp">）</span></span>って行ったこともありました。<lb />
-善助　むむ。天狗の出たこともある、山男の出たこともある。なにしろ<span type="ruby"><span type="rb">斯</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ういう<span type="ruby"><span type="rb">山国</span><span type="rp">（</span><span type="rt">やまぐに</span><span type="rp">）</span></span>には不思議なことが絶えないので困る。いや、飛んだ長話でお邪魔をしました。（立上る。）<lb />
+おつぎ　それから山男が出て来て、子どもを<seg type="ruby"><seg type="rb">攫</seg><seg type="rp">（</seg><seg type="rt">さら</seg><seg type="rp">）</seg></seg>って行ったこともありました。<lb />
+善助　むむ。天狗の出たこともある、山男の出たこともある。なにしろ<seg type="ruby"><seg type="rb">斯</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>ういう<seg type="ruby"><seg type="rb">山国</seg><seg type="rp">（</seg><seg type="rt">やまぐに</seg><seg type="rp">）</seg></seg>には不思議なことが絶えないので困る。いや、飛んだ長話でお邪魔をしました。（立上る。）<lb />
 おいよ　もうお帰りですか。<lb />
 善助　狼の出ないうちに早く帰りましょう。<lb />
 おあさ　（おつぎと顔をみあわせて。）もう狼が出ますかえ。<lb />
@@ -96,34 +96,34 @@
 おいよ　狼の噂の絶えぬあいだは、決して夜歩きをなさるなよ。<lb />
 二人　あい、あい。<lb />
 （おあさとおつぎは足早に下のかたへ去る。お妙は後を見送る。）<lb />
-お妙　此頃は寄れば障れば狼の噂ばかりで、ほんとうに<span type="ruby"><span type="rb">忌</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>なことですな。兄さんも狼のありかを探して、山の奥まで踏み込んだのではありますまいか。<lb />
-おいよ　そんなことかも知れません。今こそ狩人になっているが、おれも昔は武家の<span type="ruby"><span type="rb">禄</span><span type="rp">（</span><span type="rt">ろく</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>んだ者、今度の狼はどうでも我手で仕留めねばならぬと、日頃から云い暮らしていられたから、きょうも山奥へ踏み込んで……。（向うを見る。）<span type="ruby"><span type="rb">当途</span><span type="rp">（</span><span type="rt">あてど</span><span type="rp">）</span></span>も無しに峰や<span type="ruby"><span type="rb">谷間</span><span type="rp">（</span><span type="rt">たにあい</span><span type="rp">）</span></span>を駈けまわって、木の根や岩角にでも<span type="ruby"><span type="rb">蹉</span><span type="rp">（</span><span type="rt">つまず</span><span type="rp">）</span></span>くか、谷川へでも滑り落ちるか、飛んだ怪我でもしなさらねばよいが……。ここへ来てから足かけ八年、毎日の山かせぎには馴れていても、やっぱり戻るまでは案じられます。<lb />
+お妙　此頃は寄れば障れば狼の噂ばかりで、ほんとうに<seg type="ruby"><seg type="rb">忌</seg><seg type="rp">（</seg><seg type="rt">いや</seg><seg type="rp">）</seg></seg>なことですな。兄さんも狼のありかを探して、山の奥まで踏み込んだのではありますまいか。<lb />
+おいよ　そんなことかも知れません。今こそ狩人になっているが、おれも昔は武家の<seg type="ruby"><seg type="rb">禄</seg><seg type="rp">（</seg><seg type="rt">ろく</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">食</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>んだ者、今度の狼はどうでも我手で仕留めねばならぬと、日頃から云い暮らしていられたから、きょうも山奥へ踏み込んで……。（向うを見る。）<seg type="ruby"><seg type="rb">当途</seg><seg type="rp">（</seg><seg type="rt">あてど</seg><seg type="rp">）</seg></seg>も無しに峰や<seg type="ruby"><seg type="rb">谷間</seg><seg type="rp">（</seg><seg type="rt">たにあい</seg><seg type="rp">）</seg></seg>を駈けまわって、木の根や岩角にでも<seg type="ruby"><seg type="rb">蹉</seg><seg type="rp">（</seg><seg type="rt">つまず</seg><seg type="rp">）</seg></seg>くか、谷川へでも滑り落ちるか、飛んだ怪我でもしなさらねばよいが……。ここへ来てから足かけ八年、毎日の山かせぎには馴れていても、やっぱり戻るまでは案じられます。<lb />
 （お妙は仕立物を片付ける。時の鐘。木の葉さびしく散る。）<lb />
 おいよ　（空をみる。）秋の日は短い。きょうももう暮れるか。<lb />
-（鐘の声つづけて<span type="ruby"><span type="rb">聞</span><span type="rp">（</span><span type="rt">きこ</span><span type="rp">）</span></span>ゆ。）<lb />
+（鐘の声つづけて<seg type="ruby"><seg type="rb">聞</seg><seg type="rp">（</seg><seg type="rt">きこ</seg><seg type="rp">）</seg></seg>ゆ。）<lb />
 お妙　（おなじく空を見る。）日が暮れると、なんだか怖ろしいようです。<lb />
 おいよ　お前は日が暮れるのがそんなに怖ろしく思われますか。<lb />
 お妙　悪い狼が出るというので……。<lb />
-おいよ　悪い狼が出るというので……。（ため息をついて。）日が暮れると、わたしもまったく怖ろしい。いや、夜ばかりではない。昼間でも狼の噂を聞くと、わたしは身の毛が<span type="ruby"><span type="rb">悚立</span><span type="rp">（</span><span type="rt">よだ</span><span type="rp">）</span></span>つような……。（身をふるわせる。）わたしは狼に<span type="ruby"><span type="rb">取憑</span><span type="rp">（</span><span type="rt">とりつ</span><span type="rp">）</span></span>かれたのかも知れない。<lb />
+おいよ　悪い狼が出るというので……。（ため息をついて。）日が暮れると、わたしもまったく怖ろしい。いや、夜ばかりではない。昼間でも狼の噂を聞くと、わたしは身の毛が<seg type="ruby"><seg type="rb">悚立</seg><seg type="rp">（</seg><seg type="rt">よだ</seg><seg type="rp">）</seg></seg>つような……。（身をふるわせる。）わたしは狼に<seg type="ruby"><seg type="rb">取憑</seg><seg type="rp">（</seg><seg type="rt">とりつ</seg><seg type="rp">）</seg></seg>かれたのかも知れない。<lb />
 お妙　（ぎょっとして。）え。<lb />
 おいよ　（気をかえて、無理に笑う。）ほほ、おまえは相変らず気が弱い。こんなことを云っているうちに、あの人ももう戻られるであろう。どれ、今のうちに炉の火を焚きつけて置きましょうか。おまえは夕御飯の仕度をして下さい。<lb />
 お妙　あい、あい。<lb />
-（薄く風の音。おいよは炉に<span type="ruby"><span type="rb">粗朶</span><span type="rp">（</span><span type="rt">そだ</span><span type="rp">）</span></span>をくべる。お妙は仕立物を押入れに片付けて、奥に入る。下のかたより長福寺の小坊主昭全、十四五歳。足音をぬすんで忍び出で、木戸の外より内を窺いいる。おいよはやがて心づきて見かえる。）<lb />
+（薄く風の音。おいよは炉に<seg type="ruby"><seg type="rb">粗朶</seg><seg type="rp">（</seg><seg type="rt">そだ</seg><seg type="rp">）</seg></seg>をくべる。お妙は仕立物を押入れに片付けて、奥に入る。下のかたより長福寺の小坊主昭全、十四五歳。足音をぬすんで忍び出で、木戸の外より内を窺いいる。おいよはやがて心づきて見かえる。）<lb />
 おいよ　そこにいるのは……。<lb />
 （昭全は返答に躊躇していると、おいよは立って縁さきに出づ。）<lb />
 おいよ　おまえは長福寺のお小僧さんではないか。何でそこらに立っているのです。<lb />
 昭全　（急に思案して。）実はこの……。（柿の木を指さす。）柿の実を取りに来ました。どうぞ堪忍してください。<lb />
-おいよ　柿の実ならば、おまえのお寺にも沢山に<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>っているではないか。（疑うようにじっと見て。）ほんとうに柿の実をぬすみに来たのですか。<lb />
+おいよ　柿の実ならば、おまえのお寺にも沢山に<seg type="ruby"><seg type="rb">生</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>っているではないか。（疑うようにじっと見て。）ほんとうに柿の実をぬすみに来たのですか。<lb />
 昭全　どうも済まぬことをしました。堪忍して下さい。<lb />
-（云いすてて、昭全は逃るように下のかたへ立去る。おいよは<span type="ruby"><span type="rb">猶</span><span type="rp">（</span><span type="rt">なお</span><span type="rp">）</span></span>もじっとその跡を見送る。風の音。向うより田原弥三郎、三十四五歳、以前は武士なれど、今は浪人して猟師となっている姿、大小を横えて火縄銃をかつぎ、小鳥二三羽をさげて出づ。）<lb />
+（云いすてて、昭全は逃るように下のかたへ立去る。おいよは<seg type="ruby"><seg type="rb">猶</seg><seg type="rp">（</seg><seg type="rt">なお</seg><seg type="rp">）</seg></seg>もじっとその跡を見送る。風の音。向うより田原弥三郎、三十四五歳、以前は武士なれど、今は浪人して猟師となっている姿、大小を横えて火縄銃をかつぎ、小鳥二三羽をさげて出づ。）<lb />
 おいよ　おお、戻られましたか。きょうはどうでござりました。<lb />
 弥三郎　いや、相変らずの不首尾で、山又山を一日かけ廻っても、狼の足あとさえも見付からない。（持ったる小鳥を指さして苦笑いする。）から手で戻るのも忌々しいので、帰りがけにこんな物を二三羽……。人に見られても恥かしいくらいだ。<lb />
 おいよ　それでも何かの獲物があれば結構でござります。幸いに天気は好うござりましたが、山風はなかなか冷えたでござりましょう。早く炉のそばへおいでなされませ。<lb />
-（砧の音。おいよは桶を持ちて井戸ばたへ水を汲みに出る。弥三郎は縁に腰をかけて、藁の<span type="ruby"><span type="rb">脛巾</span><span type="rp">（</span><span type="rt">はばき</span><span type="rp">）</span></span>を解き、<span type="ruby"><span type="rb">草鞋</span><span type="rp">（</span><span type="rt">わらじ</span><span type="rp">）</span></span>をぬぐ。奥よりお妙出づ。）<lb />
+（砧の音。おいよは桶を持ちて井戸ばたへ水を汲みに出る。弥三郎は縁に腰をかけて、藁の<seg type="ruby"><seg type="rb">脛巾</seg><seg type="rp">（</seg><seg type="rt">はばき</seg><seg type="rp">）</seg></seg>を解き、<seg type="ruby"><seg type="rb">草鞋</seg><seg type="rp">（</seg><seg type="rt">わらじ</seg><seg type="rp">）</seg></seg>をぬぐ。奥よりお妙出づ。）<lb />
 お妙　お帰りなされませ。<lb />
-（お妙は<span type="ruby"><span type="rb">先</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>ず草鞋を片付け、更においよが汲んで来りし桶を受取りて、弥三郎の足を洗わせる。）<lb />
+（お妙は<seg type="ruby"><seg type="rb">先</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>ず草鞋を片付け、更においよが汲んで来りし桶を受取りて、弥三郎の足を洗わせる。）<lb />
 弥三郎　稽古の娘たちは帰ったか。<lb />
-お妙　<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さっき</span><span type="rp">）</span></span>もう帰りました。<lb />
+お妙　<seg type="ruby"><seg type="rb">先刻</seg><seg type="rp">（</seg><seg type="rt">さっき</seg><seg type="rp">）</seg></seg>もう帰りました。<lb />
 弥三郎　あの娘たちも狼の噂に怯えていると見えるな。それも無理のないことだ。<lb />
 （この話のうちに、弥三郎は足を洗い終りて、炉のまえに坐る。炉の火は次第に燃えあがる。お妙は井戸ばたへ水を捨てに行き、おいよは茶碗に湯をついで弥三郎にすすめる。）<lb />
 おいよ　すぐに御飯をあがりますか。<lb />
@@ -131,26 +131,26 @@
 おいよ　どこへお出でなさる……。<lb />
 弥三郎　今そこで村の八蔵に出逢ったら、庄屋殿の宅に寄合があるから、直ぐに来てくれというのだ。<lb />
 おいよ　では又、狼狩の相談でござりますか。<lb />
-弥三郎　（うなずく。）むむ、その相談だ。このあいだから二度までも狼狩を催したが、遂にその姿を見付けることが出来ない。と云って、このままに捨てて置いては、村方一同の難儀になるので、もう一度何とか相談して、今度こそはどうでもその狼めを退治しようと云うのだ。この村に狩人渡世をしている者は、おれのほかに三人あるが、そのなかでもおれは浪人、以前は武士であるというので、こういう時には大将分に押立てられて、何かの采配を振らねばならない。まったく一匹の<span type="ruby"><span type="rb">獣</span><span type="rp">（</span><span type="rt">けもの</span><span type="rp">）</span></span>のために、諸人が難儀するというのは残念なことだ。なんとか工夫して退治したいと思うのだが……。<lb />
+弥三郎　（うなずく。）むむ、その相談だ。このあいだから二度までも狼狩を催したが、遂にその姿を見付けることが出来ない。と云って、このままに捨てて置いては、村方一同の難儀になるので、もう一度何とか相談して、今度こそはどうでもその狼めを退治しようと云うのだ。この村に狩人渡世をしている者は、おれのほかに三人あるが、そのなかでもおれは浪人、以前は武士であるというので、こういう時には大将分に押立てられて、何かの采配を振らねばならない。まったく一匹の<seg type="ruby"><seg type="rb">獣</seg><seg type="rp">（</seg><seg type="rt">けもの</seg><seg type="rp">）</seg></seg>のために、諸人が難儀するというのは残念なことだ。なんとか工夫して退治したいと思うのだが……。<lb />
 おいよ　どなたも色々の御心配、お察し申します。<lb />
 弥三郎　ところで、ここに又ひとつの評議がある。出没自在の狼を人間の力で退治することは覚束ない。いっそ神の力を借りようというのだ。<lb />
 おいよ　神の力を借りるとは……。どうするのでござります。<lb />
-弥三郎　おまえも知っている通り、ホルトガルの<span type="ruby"><span type="rb">伴天連</span><span type="rp">（</span><span type="rt">バテレン</span><span type="rp">）</span></span>が長崎から天草へ渡り、天草から又ここらへ渡って来て、このあいだから切支丹の教えを弘めている。その教えがよいか悪いか、おれにはまだ本当に呑み込めないが、ここらでも信仰している者が随分あるらしい。その信者たちの発議で、切支丹の伴天連をたのみ、狼退治の祈祷をして貰おうというのだ。<lb />
+弥三郎　おまえも知っている通り、ホルトガルの<seg type="ruby"><seg type="rb">伴天連</seg><seg type="rp">（</seg><seg type="rt">バテレン</seg><seg type="rp">）</seg></seg>が長崎から天草へ渡り、天草から又ここらへ渡って来て、このあいだから切支丹の教えを弘めている。その教えがよいか悪いか、おれにはまだ本当に呑み込めないが、ここらでも信仰している者が随分あるらしい。その信者たちの発議で、切支丹の伴天連をたのみ、狼退治の祈祷をして貰おうというのだ。<lb />
 おいよ　切支丹の教えの尊いことも、その伴天連のありがたいことも、かねて聴いていましたが……。（考えて。）おまえもそれに同意なさるのでござりますか。<lb />
-弥三郎　さあ、同意というでもないが、押切って反対もしない積りだ。神の力を頼むものは頼むがよい。人間の力をたのむ者は頼むがよい。どちらにしても、その狼を退治して、諸人の難儀を救うことが出来れば好いのだ。<span type="ruby"><span type="rb">併</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>しおれは武士の果で、今も狩人を商売にしているのだから、弓や鉄砲で働くのほかはあるまいよ。なにしろ、どんな相談があるか、これから直ぐに行ってみよう。（お妙に。）これ、履物を出してくれ。<lb />
+弥三郎　さあ、同意というでもないが、押切って反対もしない積りだ。神の力を頼むものは頼むがよい。人間の力をたのむ者は頼むがよい。どちらにしても、その狼を退治して、諸人の難儀を救うことが出来れば好いのだ。<seg type="ruby"><seg type="rb">併</seg><seg type="rp">（</seg><seg type="rt">しか</seg><seg type="rp">）</seg></seg>しおれは武士の果で、今も狩人を商売にしているのだから、弓や鉄砲で働くのほかはあるまいよ。なにしろ、どんな相談があるか、これから直ぐに行ってみよう。（お妙に。）これ、履物を出してくれ。<lb />
 お妙　はい。<lb />
 （お妙は奥に入る。おいよは押入れをあけて袖無し羽織を取出し、弥三郎に着せる。お妙は藁草履を持ち来りて踏み段に直せば、弥三郎は草履を穿いて出る。風の音。）<lb />
 弥三郎　山ふところは暮れるが早い。もう薄暗くなって来た。おれには構わずに、みんな夕飯を食ってしまえ。<lb />
 （弥三郎は下のかたへ去る。おいよは門口まで送って出て、あとを見送る。風の音。舞台は次第に薄暗くなる。おいよはやがて引返して内に入る。）<lb />
 おいよ　ほんにもう薄暗くなった。あかりをつけて、早く裏口の戸締りをしましょう。<lb />
 お妙　まったく此頃は戸締りが大切です。<lb />
-（おいよにお妙も付添いて奥に入る。風の音。下のかたより以前の昭全が源五郎を案内して出づ。源五郎は二十二三歳の猟師にて、火縄銃を持つ。昭全は家内を指して何か囁けば、源五郎は半信半疑の<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>にて考えている。）<lb />
+（おいよにお妙も付添いて奥に入る。風の音。下のかたより以前の昭全が源五郎を案内して出づ。源五郎は二十二三歳の猟師にて、火縄銃を持つ。昭全は家内を指して何か囁けば、源五郎は半信半疑の<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>にて考えている。）<lb />
 源五郎　（小声で。）おまえは確に見たか。<lb />
 （昭全うなずく。）<lb />
 源五郎　（また疑うように。）併しこれはよく考えてみなければならない。して、和尚様は何と云われた。<lb />
 昭全　（小声で。）和尚様は嘘だと云うのだ。<lb />
 源五郎　むむ。誰でも嘘だと云うだろう。おれにしても本当とは思われないからな。<lb />
-（源五郎は内をのぞきながら又考えている時、奥よりお妙は<span type="ruby"><span type="rb">行燈</span><span type="rp">（</span><span type="rt">あんどん</span><span type="rp">）</span></span>をとぼして出づ。）<lb />
+（源五郎は内をのぞきながら又考えている時、奥よりお妙は<seg type="ruby"><seg type="rb">行燈</seg><seg type="rp">（</seg><seg type="rt">あんどん</seg><seg type="rp">）</seg></seg>をとぼして出づ。）<lb />
 お妙　誰かそこにいるような。（表をすかし見る。）<lb />
 源五郎　おお、お妙さん……。（小声で。）おれだ、おれだ。ちょいと来てくれ。<lb />
 （お妙は源五郎を見つけて、奥をみかえりながら縁を降りる。）<lb />
@@ -160,7 +160,7 @@
 おいよ　源五郎がよび出しに来て、お妙さんは出て行ったらしい。丁度幸い、今のうちに……。（決心して。）そうだ、今のうちに……。<lb />
 （おいよは身繕いする。風の音。行燈の火消える。）<lb />
 おいよ　（暗い中で。）おお、あかりが消えた。<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――暗転――</span>
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――暗転――</seg>
 <lb />
 　　　　　　　　　　二<lb />
 <lb />
@@ -171,25 +171,25 @@
 源五郎　あんまり途方もないことで、おれにも本当とは思われないが……。それでもこの小僧さんは確に本当だというのだ。<lb />
 昭全　（進みよる。）本当だ、本当だ。たしかに本当だ。わたしは松明の火で確に見たのだ。狼は火を恐れると云うことを聞いているので、わたしは松明をたたき付けて、一生懸命に逃げたのだ。<lb />
 お妙　その狼の顔が内の姉さんに見えましたか。<lb />
-昭全　わたしが何で嘘をつくものか。顔も姿もおまえの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の姉さんに相違なかったのだ。<lb />
+昭全　わたしが何で嘘をつくものか。顔も姿もおまえの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の姉さんに相違なかったのだ。<lb />
 お妙　まあ。<lb />
 （お妙はやはり不思議そうに考えている。）<lb />
-源五郎　（おなじく惑うように。）そうは云っても、自分の眼で確な証拠を見届けないうちは、おれも<span type="ruby"><span type="rb">迂闊</span><span type="rp">（</span><span type="rt">うかつ</span><span type="rp">）</span></span>に手を出すことは出来ない。万一それが間違いであったら、取返しの付かないことになる。なにしろ弥三郎どのと相談の上でなければならないが、亭主にむかってお前の女房が狼らしいとは、なんぼ何でも云い出しにくい。お前からそっと兄さんに話してみては呉れまいかな。<lb />
+源五郎　（おなじく惑うように。）そうは云っても、自分の眼で確な証拠を見届けないうちは、おれも<seg type="ruby"><seg type="rb">迂闊</seg><seg type="rp">（</seg><seg type="rt">うかつ</seg><seg type="rp">）</seg></seg>に手を出すことは出来ない。万一それが間違いであったら、取返しの付かないことになる。なにしろ弥三郎どのと相談の上でなければならないが、亭主にむかってお前の女房が狼らしいとは、なんぼ何でも云い出しにくい。お前からそっと兄さんに話してみては呉れまいかな。<lb />
 昭全　まだ疑がっているのか。わたしはこの二つの眼で見たというのに……。<lb />
 源五郎　お前ひとりが見たというのでは、まだ本当の証拠にはならないのだ。（お妙に。）おまえにも何か思い当るようなことは無いかな。<lb />
 お妙　さあ。（又かんがえる。）そう云えば、このあいだの朝、姉さんが表の井戸端で……。血の付いたような着物の袖を……。<lb />
 源五郎　血の付いたような着物の袖を……。井戸ばたで洗っていたのか。<lb />
-昭全　それ、それが証拠だ。おまえの姉さんは夜なかに<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>を抜け出して、往来の人を喰い殺しに行くのだ。それ見ろ。狼だ、狼だ。<lb />
-源五郎　まあ、まあ、<span type="ruby"><span type="rb">静</span><span type="rp">（</span><span type="rt">しずか</span><span type="rp">）</span></span>にしろ。狐や狸が人間に化けるとは、昔からもよく云うことだが、狼が人間に化けて人の女房になり済ましているとは珍しいことだ。兄さんに聞いてみたら、又何か思い当ることがないとも云えないから、是非おまえから話して貰いたい。それがいよいよ狼と決まったら、いくら自分の女房でも兄さんも打っちゃっては置くまい。おれも加勢して……。（鉄砲をみせる。）これで一撃ちにして仕舞わなければならないのだ。<lb />
+昭全　それ、それが証拠だ。おまえの姉さんは夜なかに<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>を抜け出して、往来の人を喰い殺しに行くのだ。それ見ろ。狼だ、狼だ。<lb />
+源五郎　まあ、まあ、<seg type="ruby"><seg type="rb">静</seg><seg type="rp">（</seg><seg type="rt">しずか</seg><seg type="rp">）</seg></seg>にしろ。狐や狸が人間に化けるとは、昔からもよく云うことだが、狼が人間に化けて人の女房になり済ましているとは珍しいことだ。兄さんに聞いてみたら、又何か思い当ることがないとも云えないから、是非おまえから話して貰いたい。それがいよいよ狼と決まったら、いくら自分の女房でも兄さんも打っちゃっては置くまい。おれも加勢して……。（鉄砲をみせる。）これで一撃ちにして仕舞わなければならないのだ。<lb />
 お妙　（身をふるわせる。）ああ、怖ろしい。なんと云うことだろう。わたしは夢のように思われてならない。<lb />
 源五郎　まったく夢のようだが、今のおまえの話を聞くと、だんだんに疑念が募るばかりだ。<lb />
-昭全　お前がいつまでも<span rend="SESAME_DOT" rendition="strong">ぐずぐず</span>していると、大事のお妙さんまでも狼に喰われてしまうぞ。<lb />
+昭全　お前がいつまでも<seg rend="SESAME_DOT" rendition="strong">ぐずぐず</seg>していると、大事のお妙さんまでも狼に喰われてしまうぞ。<lb />
 お妙　（源五郎と顔を見合せる。）あれ、あんなことを……。<lb />
 源五郎　この小僧め。余計なおしゃべりをすると、承知しないぞ。（鉄砲をふりあげる。）<lb />
 お妙　（遮る。）まあ、子供を相手にしないで……。<lb />
-源五郎　こんな奴が方々へ行って触れ散らすので、おれが皆んなに<span type="ruby"><span type="rb">戯</span><span type="rp">（</span><span type="rt">からか</span><span type="rp">）</span></span>われるのだ。貴様こそ狼に喰われてしまえ。<lb />
+源五郎　こんな奴が方々へ行って触れ散らすので、おれが皆んなに<seg type="ruby"><seg type="rb">戯</seg><seg type="rp">（</seg><seg type="rt">からか</seg><seg type="rp">）</seg></seg>われるのだ。貴様こそ狼に喰われてしまえ。<lb />
 昭全　（頭をおさえて。）やれ、怖ろしい。南無あみ陀仏、なむ阿弥陀仏。<lb />
-源五郎　（<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>に上のかたを見る。）や、あっちから来たのはお前さんの兄さんらしいぞ。<lb />
+源五郎　（<seg type="ruby"><seg type="rb">俄</seg><seg type="rp">（</seg><seg type="rt">にわか</seg><seg type="rp">）</seg></seg>に上のかたを見る。）や、あっちから来たのはお前さんの兄さんらしいぞ。<lb />
 お妙　ほんに兄さん……。<lb />
 源五郎　おれ達はまあ隠れるとしよう。（昭全に。）おまえも早く来い、来い。<lb />
 （源五郎は昭全を促して、下のかたの芦のなかに隠れる。水の音。薄月の影。上のかたより弥三郎出づ。お妙はどうしようかと躊躇しているうちに、弥三郎は妹をみつける。）<lb />
@@ -203,10 +203,10 @@
 お妙　（云い出しかねて。）あの……。おまえも気をつけてお出でなさい。<lb />
 弥三郎　はは、おれは大丈夫だ。（刀の柄を叩く。）何が出て来ても、これで真二つ……。おれはその狼の出るのを待っているのだ。村ではいよいよ切支丹の伴天連をたのんで、有難い祈りをして貰うことに決まったが、さっきも云う通り、祈祷は祈祷、おれは俺だ。おれは鉄砲かこの刀で、見ごとに狼を退治してみせるのだ。<lb />
 お妙　（探るように。）狼のありかは判りましたか。<lb />
-弥三郎　わかれば直ぐに退治に行くが……。そのありかが知れないので困るのだ。きょうは一度も源五郎に逢わなかったが、あいつも<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と狼のありかを探しているに相違ない。おれも今夜は鉄砲を持ち出して、夜通し村中を見廻ってあるく積りだ。みんなが無暗に切支丹を有難がっているのを聞くと、おれは何だか腹が立って来た。どうしてもあの狼をおれたちの手で仕留めて、切支丹の坊主が偉いか、おれ達が偉いか、この腕をみせて遣らなければならないのだ。<lb />
+弥三郎　わかれば直ぐに退治に行くが……。そのありかが知れないので困るのだ。きょうは一度も源五郎に逢わなかったが、あいつも<seg type="ruby"><seg type="rb">屹</seg><seg type="rp">（</seg><seg type="rt">きっ</seg><seg type="rp">）</seg></seg>と狼のありかを探しているに相違ない。おれも今夜は鉄砲を持ち出して、夜通し村中を見廻ってあるく積りだ。みんなが無暗に切支丹を有難がっているのを聞くと、おれは何だか腹が立って来た。どうしてもあの狼をおれたちの手で仕留めて、切支丹の坊主が偉いか、おれ達が偉いか、この腕をみせて遣らなければならないのだ。<lb />
 お妙　兄さんの気性としては無理もないことですが、せいては事を仕損じます。よくその正体を見とどけた上で……。<lb />
 弥三郎　なに、正体を見とどけろと……。<lb />
-お妙　<span type="ruby"><span type="rb">若</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>しも間違えて、人でも殺すようなことがあっては大変ですから……。<lb />
+お妙　<seg type="ruby"><seg type="rb">若</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>しも間違えて、人でも殺すようなことがあっては大変ですから……。<lb />
 弥三郎　（笑う。）馬鹿をいえ。いくら慌てても、人間と獣とを間違える程のおれでは無いぞ。さあ、暗くならないうちに、早く行って来い。<lb />
 （弥三郎は向うへ行きかかる。お妙は又よび返そうとして躊躇しているうちに、弥三郎は去る。芦のあいだより源五郎出づ。）<lb />
 源五郎　兄さんは見つけ次第に、狼を退治する気だな。<lb />
@@ -220,13 +220,13 @@
 （芦のあいだより昭全あわただしく飛んで出づ。）<lb />
 昭全　それ、何か来た……。何か来た……。（源五郎のうしろへ隠れる。）<lb />
 源五郎　え。何か来た……。<lb />
-（源五郎はお妙を囲いながら、下のかたを<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と透し見る。）<lb />
-源五郎　なんにも居ないではないか。こいつめ、おれ達を<span type="ruby"><span type="rb">嚇</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>かしたな。<lb />
-昭全　いいえ、どこかで芦の葉の<span rend="SESAME_DOT" rendition="strong">がさがさ</span>云う音がきこえた。<lb />
-源五郎　芦の葉の<span rend="SESAME_DOT" rendition="strong">がさ</span>付くのは珍らしくない。大かた風の音だろう。はは、臆病な奴だ。なにしろ、いつまでもここにいても仕様がない。さあ、お妙さんはおれが途中まで送って遣ろう。<lb />
+（源五郎はお妙を囲いながら、下のかたを<seg type="ruby"><seg type="rb">屹</seg><seg type="rp">（</seg><seg type="rt">きっ</seg><seg type="rp">）</seg></seg>と透し見る。）<lb />
+源五郎　なんにも居ないではないか。こいつめ、おれ達を<seg type="ruby"><seg type="rb">嚇</seg><seg type="rp">（</seg><seg type="rt">おど</seg><seg type="rp">）</seg></seg>かしたな。<lb />
+昭全　いいえ、どこかで芦の葉の<seg rend="SESAME_DOT" rendition="strong">がさがさ</seg>云う音がきこえた。<lb />
+源五郎　芦の葉の<seg rend="SESAME_DOT" rendition="strong">がさ</seg>付くのは珍らしくない。大かた風の音だろう。はは、臆病な奴だ。なにしろ、いつまでもここにいても仕様がない。さあ、お妙さんはおれが途中まで送って遣ろう。<lb />
 昭全　わたしを置去りにして、お妙さんだけを送って遣るのか。おまえも随分親切だな。<lb />
 源五郎　ええ、やかましい。お前なぞは勝手に帰れ、帰れ。<lb />
-昭全　おれが手柄をさせて遣ろうというのに、<span type="ruby"><span type="rb">仇</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>にすることがあるものか。貴様こそ狼に喰われてしまえ。<lb />
+昭全　おれが手柄をさせて遣ろうというのに、<seg type="ruby"><seg type="rb">仇</seg><seg type="rp">（</seg><seg type="rt">かたき</seg><seg type="rp">）</seg></seg>にすることがあるものか。貴様こそ狼に喰われてしまえ。<lb />
 源五郎　なんだ。<lb />
 昭全　いや、これはおまえの口真似だ。<lb />
 （昭全は笑いながら、下のかたへ足早に立去る。）<lb />
@@ -238,14 +238,14 @@
 おいよ　まあ、見付けられないで好かった。こうなったらもう一刻も猶予は出来ない。<lb />
 （おいよはそこらの小石を拾いて袂に入れる。そのあいだに、下のかたよりホルトガルの宣教師モウロ、四十余歳、旧教の僧服をつけ、頚に十字架かけて出で来り、柳の木かげに身をよせて窺いいると、おいよはやがて合掌して川へ飛び込もうとする。モウロは駆け寄って抱きとめる。）<lb />
 モウロ　お待ちなさい。あなた、どうしますか。<lb />
-おいよ　（身を<span type="ruby"><span type="rb">藻掻</span><span type="rp">（</span><span type="rt">もが</span><span type="rp">）</span></span>く。）放して下さい、放してください。<lb />
+おいよ　（身を<seg type="ruby"><seg type="rb">藻掻</seg><seg type="rp">（</seg><seg type="rt">もが</seg><seg type="rp">）</seg></seg>く。）放して下さい、放してください。<lb />
 モウロ　あなたは身を投げますか。いけません、いけません。<lb />
 おいよ　いいえ、放して……。殺して……。<lb />
 （おいよは振放して飛び込もうとするを、モウロは又ひき戻せば、力余っておいよは地に倒れる。）<lb />
 モウロ　殺すことはなりません。神さまのお指図です。<lb />
 （モウロは両手を拡げて、おいよを遮る。おいよは相手が異国人なることを覚って、倒れながらにその顔をみあげる。薄月の影。水の音。）<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</span>
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 第二幕<lb />
 <lb />
@@ -253,62 +253,62 @@
 　　　　　　　　　　一<lb />
 <lb />
 　第一幕とおなじ宵。<lb />
-　村はずれの一つ家。久しく空家となりいたれば、家内はすべて荒廃したりと知るべく、家内の大部分は土間にて、正面に古びたる板戸の出入口あり。左右の壁は<span type="ruby"><span type="rb">頽</span><span type="rp">（</span><span type="rt">くずお</span><span type="rp">）</span></span>れ、下のかたの竹窓もくずれて、窓には紅葉しかかりたる蔦がからみて垂れたり。土間には炉を切りて、上のかたには破れ障子を閉めたる一間あり。正面の壁には聖母マリアの額をかけ、その前の小さき棚には金属製のマリアの立像を祭りてあり。よき所に手作りとおぼしき<span type="ruby"><span type="rb">粗木</span><span type="rp">（</span><span type="rt">あらぎ</span><span type="rp">）</span></span>の床几のごとき腰かけ二脚と、おなじく方形のテーブル様の物あり。下のかたの壁には小さき棚、それに多少の食器のたぐいを列べ、棚の下に水を入れたる手桶、束ねたる枯枝などあり。家の外には立木ありて、あき草高くおい茂り、うしろには山々みゆ。薄月の夜。<lb />
+　村はずれの一つ家。久しく空家となりいたれば、家内はすべて荒廃したりと知るべく、家内の大部分は土間にて、正面に古びたる板戸の出入口あり。左右の壁は<seg type="ruby"><seg type="rb">頽</seg><seg type="rp">（</seg><seg type="rt">くずお</seg><seg type="rp">）</seg></seg>れ、下のかたの竹窓もくずれて、窓には紅葉しかかりたる蔦がからみて垂れたり。土間には炉を切りて、上のかたには破れ障子を閉めたる一間あり。正面の壁には聖母マリアの額をかけ、その前の小さき棚には金属製のマリアの立像を祭りてあり。よき所に手作りとおぼしき<seg type="ruby"><seg type="rb">粗木</seg><seg type="rp">（</seg><seg type="rt">あらぎ</seg><seg type="rp">）</seg></seg>の床几のごとき腰かけ二脚と、おなじく方形のテーブル様の物あり。下のかたの壁には小さき棚、それに多少の食器のたぐいを列べ、棚の下に水を入れたる手桶、束ねたる枯枝などあり。家の外には立木ありて、あき草高くおい茂り、うしろには山々みゆ。薄月の夜。<lb />
 （正吉、十五六歳の少年、テーブルの上に蝋燭をとぼし、聖書を読んでいる。外には虫の声きこゆ。下のかたより秋草をかきわけて、宣教師モウロはおいよの手をひいて出づ。）<lb />
-モウロ　（おいよに。）わたくしの家です。お<span type="ruby"><span type="rb">這入</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>りなさい。<lb />
+モウロ　（おいよに。）わたくしの家です。お<seg type="ruby"><seg type="rb">這入</seg><seg type="rp">（</seg><seg type="rt">はい</seg><seg type="rp">）</seg></seg>りなさい。<lb />
 （モウロは入口の戸を叩く。正吉はすぐに床几を立って戸をあければ、モウロは進み入る。おいよもおずおずと付いて入る。）<lb />
 モウロ　（正吉に。）お客あります。火をお焚きなさい。<lb />
 正吉　はい。<lb />
 （正吉は無言でおいよに会釈し、枯枝を炉にくべる。おいよは立っている。）<lb />
-モウロ　（床几を指さして。）おかけなさい。ここの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>にはあの子供とわたくしと二人ぎりで、ほかには誰も居りません。あなた、遠慮することはありません。<lb />
+モウロ　（床几を指さして。）おかけなさい。ここの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>にはあの子供とわたくしと二人ぎりで、ほかには誰も居りません。あなた、遠慮することはありません。<lb />
 （おいよは丁寧に会釈して、テーブルの前に腰をかける。モウロも向き合いて腰をかける。）<lb />
-モウロ　（笑ましげに。）わたくしはあなたを識っています。このあいだ庄屋さんの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>で、わたくしが説教をしました。その時に、あなたは庭の大きい木のかげに立って、遠くから聴いていました。違いますか。<lb />
+モウロ　（笑ましげに。）わたくしはあなたを識っています。このあいだ庄屋さんの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>で、わたくしが説教をしました。その時に、あなたは庭の大きい木のかげに立って、遠くから聴いていました。違いますか。<lb />
 おいよ　はい。おっしゃる通りでござります。<lb />
 モウロ　わたくしの説教、わかりましたか。<lb />
-（おいよは無言で<span type="ruby"><span type="rb">俯向</span><span type="rp">（</span><span type="rt">うつむ</span><span type="rp">）</span></span>いている。）<lb />
+（おいよは無言で<seg type="ruby"><seg type="rb">俯向</seg><seg type="rp">（</seg><seg type="rt">うつむ</seg><seg type="rp">）</seg></seg>いている。）<lb />
 モウロ　（いよいよ打解けて。）そこで、あなたは今夜なぜ自分から死のうとしましたか。<lb />
 （おいよは矢はり黙っている。）<lb />
-モウロ　そのわけを話してください。（正吉を指さす。）あの子供は長崎の百姓の息子で、父もない、母もない……<span type="ruby"><span type="rb">孤児</span><span type="rp">（</span><span type="rt">みなしご</span><span type="rp">）</span></span>ですから、わたくしが一緒に連れてあるいて育てているのです。つまりはわたくしの子供も同じことですから、決して遠慮はありません。なんでも正直に話してください。<lb />
+モウロ　そのわけを話してください。（正吉を指さす。）あの子供は長崎の百姓の息子で、父もない、母もない……<seg type="ruby"><seg type="rb">孤児</seg><seg type="rp">（</seg><seg type="rt">みなしご</seg><seg type="rp">）</seg></seg>ですから、わたくしが一緒に連れてあるいて育てているのです。つまりはわたくしの子供も同じことですから、決して遠慮はありません。なんでも正直に話してください。<lb />
 （おいよは矢はり俯向いている。正吉は火を焚きつけて、湯を沸かす支度にかかる。）<lb />
 モウロ　（重ねて。）あなたは運の悪い人ですか。それとも罪のある人ですか。（おいよの顔をじっと見て。）あなたは何かの罪を犯しましたか。先日も申した通り、罪のあるものは……。（聖母を指さす。）神様の前で懺悔をしなければなりません。<lb />
 おいよ　はい。<lb />
 モウロ　さあ。お話しなさい。（立って、頚にかけたる十字架をわが額にかざす。）神様は聴いておいでになります。わたくしも聴きます。<lb />
 おいよ　は、はい。<lb />
-（おいよは床几を離れて土間にひざまずき、一種の恐怖に打たれるように身を<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>わせる。）<lb />
+（おいよは床几を離れて土間にひざまずき、一種の恐怖に打たれるように身を<seg type="ruby"><seg type="rb">顫</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>わせる。）<lb />
 モウロ　これからあなたがどんな話をなされても、わたくしは決して他人には洩らしません。それは神様の前で誓います。どんな秘密でも、どんな怖ろしいことでも、包み隠さずにお話しなさい。あなたは何かの罪を犯した覚えがありますか。<lb />
 おいよ　はい。（又もや身をふるわせる。）わたくしは……口へ出すのも怖ろしいような大罪を犯しているのでござります。<lb />
 モウロ　（しずかに。）どんなことですか。<lb />
 おいよ　わたくしは人を殺しました。<lb />
 モウロ　人を殺しましたか。<lb />
-おいよ　（いよいよ声を顫わせる。）はい。人を殺しました。人の生血を<span type="ruby"><span type="rb">啜</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>りました……。人の肉を喰いました……。わたくしは人間ではござりません。獣でござります。狼でござります。（泣く。）<lb />
+おいよ　（いよいよ声を顫わせる。）はい。人を殺しました。人の生血を<seg type="ruby"><seg type="rb">啜</seg><seg type="rp">（</seg><seg type="rt">すす</seg><seg type="rp">）</seg></seg>りました……。人の肉を喰いました……。わたくしは人間ではござりません。獣でござります。狼でござります。（泣く。）<lb />
 モウロ　あなたは人を殺して……。狼のように、その血を啜りましたか。その肉を喰いましたか。<lb />
-おいよ　はい。<span type="ruby"><span type="rb">一人</span><span type="rp">（</span><span type="rt">ひとり</span><span type="rp">）</span></span>ならず、七人までも喰い殺しました。わたくしには獣のたましいが<span type="ruby"><span type="rb">乗憑</span><span type="rp">（</span><span type="rt">のりうつ</span><span type="rp">）</span></span>っているのでござります。こうして女の姿はして居りますが、わたくしの心は怖ろしい狼になって仕舞ったのでござります。（堪えざるように泣き<span type="ruby"><span type="rb">頽</span><span type="rp">（</span><span type="rt">くず</span><span type="rp">）</span></span>れる。）<lb />
+おいよ　はい。<seg type="ruby"><seg type="rb">一人</seg><seg type="rp">（</seg><seg type="rt">ひとり</seg><seg type="rp">）</seg></seg>ならず、七人までも喰い殺しました。わたくしには獣のたましいが<seg type="ruby"><seg type="rb">乗憑</seg><seg type="rp">（</seg><seg type="rt">のりうつ</seg><seg type="rp">）</seg></seg>っているのでござります。こうして女の姿はして居りますが、わたくしの心は怖ろしい狼になって仕舞ったのでござります。（堪えざるように泣き<seg type="ruby"><seg type="rb">頽</seg><seg type="rp">（</seg><seg type="rt">くず</seg><seg type="rp">）</seg></seg>れる。）<lb />
 （モウロは進み寄って、おいよを抱き起す。正吉も立寄れば、モウロは近寄るなと眼で知らせる。）<lb />
 モウロ　これは大事の懺悔です。こころを落付けてよくお話しなさい。あなたはどうして狼のような心になりましたか。<lb />
-おいよ　それには先ずわたくしの身の上からお話し申さなければなりません。わたくしの夫は田原弥三郎と申しまして、以前は秋月家に仕えた侍でござりましたが、八年以前に仔細あって浪人いたしまして、お妙という妹と妻のわたくしと……。まだ申上げませんでしたが、わたくしの名は<span rend="SESAME_DOT" rendition="strong">いよ</span>と申します。<lb />
+おいよ　それには先ずわたくしの身の上からお話し申さなければなりません。わたくしの夫は田原弥三郎と申しまして、以前は秋月家に仕えた侍でござりましたが、八年以前に仔細あって浪人いたしまして、お妙という妹と妻のわたくしと……。まだ申上げませんでしたが、わたくしの名は<seg rend="SESAME_DOT" rendition="strong">いよ</seg>と申します。<lb />
 （モウロはうなずきながら、おいよを抱き起して元の床几にかけさせ、自分も元の席に戻る。）<lb />
 モウロ　わかりました。あなたの名はおいよさん。そのあなたと、あなたの夫と、その妹と……。三人の家族ですな。<lb />
-おいよ　はい。夫は浪人の身となりましたので、その後は夫婦<span type="ruby"><span type="rb">兄妹</span><span type="rp">（</span><span type="rt">きょうだい</span><span type="rp">）</span></span>三人がここに引籠りまして、夫は狩人、わたくしは近所の娘子供に手習や針仕事などを教えまして、何事もなく月日を送って居りますうちに……。まあ、なんという因果でござりましょう。わたくしに不図おそろしい魔がさしまして……。（云いかけて、又泣き入る。）<lb />
+おいよ　はい。夫は浪人の身となりましたので、その後は夫婦<seg type="ruby"><seg type="rb">兄妹</seg><seg type="rp">（</seg><seg type="rt">きょうだい</seg><seg type="rp">）</seg></seg>三人がここに引籠りまして、夫は狩人、わたくしは近所の娘子供に手習や針仕事などを教えまして、何事もなく月日を送って居りますうちに……。まあ、なんという因果でござりましょう。わたくしに不図おそろしい魔がさしまして……。（云いかけて、又泣き入る。）<lb />
 モウロ　まあ、お待ちなさい。正吉さん。水を洩って来てください。<lb />
 （正吉は棚より金属製のコップを取り、それに桶の水を汲み入れて持ち来れば、モウロはポケットより紙につつみたる粉薬をとり出す。）<lb />
-モウロ　あなた、弱ってはいけません。ここによい薬があります。さあ、これを飲んで、すこし休息して、それから<span rend="SESAME_DOT" rendition="strong">ゆっくり</span>お話しなさい。<lb />
+モウロ　あなた、弱ってはいけません。ここによい薬があります。さあ、これを飲んで、すこし休息して、それから<seg rend="SESAME_DOT" rendition="strong">ゆっくり</seg>お話しなさい。<lb />
 （モウロはおいよを勦りて、薬を飲ませる。）<lb />
-おいよ　ありがとうござります。いえ、もう弱りは致しません、泣きは致しません。わたくしも一生懸命でござります。（涙を拭いて。）もし、そのあとをお聴きください。忘れもしない此の七月二日の晩でござりました。わたくしが夜なかに<span rend="SESAME_DOT" rendition="strong">ふと</span>眼をさましますと、表でわたくしの名を呼ぶような声がきこえます。不思議に思って窓をあけて見ますと、暗い表に人らしいものの忍んでいる様子もござりません。（その当時のありさまを思い出したように、眼を輝かしてあたりを見廻す。）よく聞くと、それは人の声ではなく、狼……狼の声でござりました。<lb />
+おいよ　ありがとうござります。いえ、もう弱りは致しません、泣きは致しません。わたくしも一生懸命でござります。（涙を拭いて。）もし、そのあとをお聴きください。忘れもしない此の七月二日の晩でござりました。わたくしが夜なかに<seg rend="SESAME_DOT" rendition="strong">ふと</seg>眼をさましますと、表でわたくしの名を呼ぶような声がきこえます。不思議に思って窓をあけて見ますと、暗い表に人らしいものの忍んでいる様子もござりません。（その当時のありさまを思い出したように、眼を輝かしてあたりを見廻す。）よく聞くと、それは人の声ではなく、狼……狼の声でござりました。<lb />
 モウロ　狼……。あなたはその声を聞いたばかりで、その姿を見ませんでしたか。<lb />
-おいよ　姿はみえません、暗いなかで唯きこえるのは声ばかり……。それを聞いているうちに……。その時わたくしに魔がさしたのか、獣のたましいが<span type="ruby"><span type="rb">乗憑</span><span type="rp">（</span><span type="rt">のりうつ</span><span type="rp">）</span></span>ったのか、自分でも夢のように雨戸をあけて、ふらふらと表へ出ました。（立ちあがる。）どこかで狼の声がつづけて聞えます。それがわたくしを呼ぶように聞えるので……。<lb />
+おいよ　姿はみえません、暗いなかで唯きこえるのは声ばかり……。それを聞いているうちに……。その時わたくしに魔がさしたのか、獣のたましいが<seg type="ruby"><seg type="rb">乗憑</seg><seg type="rp">（</seg><seg type="rt">のりうつ</seg><seg type="rp">）</seg></seg>ったのか、自分でも夢のように雨戸をあけて、ふらふらと表へ出ました。（立ちあがる。）どこかで狼の声がつづけて聞えます。それがわたくしを呼ぶように聞えるので……。<lb />
 （おいよはふらふらと表へ出て行こうとするを、モウロと正吉は遮りながら押戻して腰をかけさせる。）<lb />
-モウロ　まあ、落付かなければいけません。それからあなたは<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うしました。<lb />
-おいよ　もう其時には……。わたくしの心は狼のようになっていたのでござります。あても無しに往来へ迷って出て、近所の墓場へまいりまして……。きのう埋めたばかりの<span type="ruby"><span type="rb">新仏</span><span type="rp">（</span><span type="rt">しんぼとけ</span><span type="rp">）</span></span>の……。その新仏の墓をほりかえして……。もうそのあとは申上げられません。<lb />
+モウロ　まあ、落付かなければいけません。それからあなたは<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うしました。<lb />
+おいよ　もう其時には……。わたくしの心は狼のようになっていたのでござります。あても無しに往来へ迷って出て、近所の墓場へまいりまして……。きのう埋めたばかりの<seg type="ruby"><seg type="rb">新仏</seg><seg type="rp">（</seg><seg type="rt">しんぼとけ</seg><seg type="rp">）</seg></seg>の……。その新仏の墓をほりかえして……。もうそのあとは申上げられません。<lb />
 （おいよはテーブルの上に泣き伏す。モウロと正吉は黙祷す。暫時の間。）<lb />
-おいよ　（息をついて。）何事も半分は夢のようで、自分でも<span rend="SESAME_DOT" rendition="strong">はっきり</span>と覚えてはいないのでござりますが……。兎も角もそれから<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ帰りまして、誰にも覚られずに済みました。<lb />
+おいよ　（息をついて。）何事も半分は夢のようで、自分でも<seg rend="SESAME_DOT" rendition="strong">はっきり</seg>と覚えてはいないのでござりますが……。兎も角もそれから<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ帰りまして、誰にも覚られずに済みました。<lb />
 モウロ　それから後にも、その狼の声が聞えるのですか。<lb />
-おいよ　毎晩きこえます。その後は夜が更けると、必ずわたくしを呼ぶように聞えます。呼び出されてはならない、誘い出されてはならないと、一生懸命に耳を塞いだり、眼を<span type="ruby"><span type="rb">瞑</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>じたり、口のうちで観音さまや阿弥陀仏様を念じたりして、色々に防いでいたのでござりますが、三日目に一度、五日目に一度は、どうしても防ぎ切れなくなりまして、糸に引かれるように<span rend="SESAME_DOT" rendition="strong">うかうか</span>と表へ出て、相変らず墓荒しを致して居りますうちに……。（次第に亢奮して。）<span type="ruby"><span type="rb">盂蘭盆</span><span type="rp">（</span><span type="rt">うらぼん</span><span type="rp">）</span></span>の<span rend="notes">［＃「<span type="ruby"><span type="rb">盂蘭盆</span><span type="rp">（</span><span type="rt">うらぼん</span><span type="rp">）</span></span>の」は底本では「<span type="ruby"><span type="rb">孟蘭盆</span><span type="rp">（</span><span type="rt">うらぼん</span><span type="rp">）</span></span>の」］</span>月の明るい晩、三人づれの若い女が笑いながら来るのに出逢いました。それを見ると、わたくしは……。いきなりに飛びかかって……。<lb />
+おいよ　毎晩きこえます。その後は夜が更けると、必ずわたくしを呼ぶように聞えます。呼び出されてはならない、誘い出されてはならないと、一生懸命に耳を塞いだり、眼を<seg type="ruby"><seg type="rb">瞑</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>じたり、口のうちで観音さまや阿弥陀仏様を念じたりして、色々に防いでいたのでござりますが、三日目に一度、五日目に一度は、どうしても防ぎ切れなくなりまして、糸に引かれるように<seg rend="SESAME_DOT" rendition="strong">うかうか</seg>と表へ出て、相変らず墓荒しを致して居りますうちに……。（次第に亢奮して。）<seg type="ruby"><seg type="rb">盂蘭盆</seg><seg type="rp">（</seg><seg type="rt">うらぼん</seg><seg type="rp">）</seg></seg>の<seg rend="notes" rendition="span">［＃「<seg type="ruby"><seg type="rb">盂蘭盆</seg><seg type="rp">（</seg><seg type="rt">うらぼん</seg><seg type="rp">）</seg></seg>の」は底本では「<seg type="ruby"><seg type="rb">孟蘭盆</seg><seg type="rp">（</seg><seg type="rt">うらぼん</seg><seg type="rp">）</seg></seg>の」］</seg>月の明るい晩、三人づれの若い女が笑いながら来るのに出逢いました。それを見ると、わたくしは……。いきなりに飛びかかって……。<lb />
 （おいよはいよいよ亢奮して又立ちあがり、傍に立っている正吉の腕をつかんで引寄せようとするを、モウロは立寄って引き分ける。）<lb />
 モウロ　その三人は皆あなたに殺されましたか。<lb />
-おいよ　いえ、わたくしが<span type="ruby"><span type="rb">一人</span><span type="rp">（</span><span type="rt">ひとり</span><span type="rp">）</span></span>に飛びかかると、ほかの<span type="ruby"><span type="rb">二人</span><span type="rp">（</span><span type="rt">ふたり</span><span type="rp">）</span></span>はおどろいて逃げてしまいました。あとで聞きますと、その三人は盆踊の戻り道でわたくしに殺されたのはおぎんと云う<span type="ruby"><span type="rb">今年</span><span type="rp">（</span><span type="rt">ことし</span><span type="rp">）</span></span>十六の娘……。しかも毎日わたくしのところへ針仕事の稽古に来る娘でござりました。情ないと云いましょうか、浅ましいと申しましょうか。それが因果の始まりで……。（又泣く。）<lb />
+おいよ　いえ、わたくしが<seg type="ruby"><seg type="rb">一人</seg><seg type="rp">（</seg><seg type="rt">ひとり</seg><seg type="rp">）</seg></seg>に飛びかかると、ほかの<seg type="ruby"><seg type="rb">二人</seg><seg type="rp">（</seg><seg type="rt">ふたり</seg><seg type="rp">）</seg></seg>はおどろいて逃げてしまいました。あとで聞きますと、その三人は盆踊の戻り道でわたくしに殺されたのはおぎんと云う<seg type="ruby"><seg type="rb">今年</seg><seg type="rp">（</seg><seg type="rt">ことし</seg><seg type="rp">）</seg></seg>十六の娘……。しかも毎日わたくしのところへ針仕事の稽古に来る娘でござりました。情ないと云いましょうか、浅ましいと申しましょうか。それが因果の始まりで……。（又泣く。）<lb />
 モウロ　（嘆息して。）その狼の噂はわたくしも聞いていましたが……。では、二三日前の晩に、寺の小僧に飛びかかったと云うのも、矢張りあなたでしたか。<lb />
-おいよ　唯今も申す通り、何事も自分がするのか、人がさせるのか、半分は夢のようで、確にはおぼえて居りませんが、あの小僧さんには<span type="ruby"><span type="rb">松明</span><span type="rp">（</span><span type="rt">たいまつ</span><span type="rp">）</span></span>を投げ付けられたようでござりました。（涙をぬぐう。）伴天連様。今のわたくしは人間であるのか、獣になったのか、我身でわが身が判りません。兎もかくも昼間は人なみの人間で、道理も人情も一通りはわきまえて居りながら、夜になると忽ち狼のこころに変って、人の肉を喰い、人の血を啜る……。こんな浅ましい因果な人間は、とても此世に生きてはいられないのでござります。どう考えても、死ぬより外はござりません。<lb />
-モウロ　（悼ましげに。）あなたの苦しみは察しられます。死のうとするのも無理はありません。昼は人間で、夜は狼になる――そういう不思議な人間は<span type="ruby"><span type="rb">欧羅巴</span><span type="rp">（</span><span type="rt">ヨーロッパ</span><span type="rp">）</span></span>にもあります。それは日本の狐つきと同じように、狼が人間に憑くのだと云い伝えられて居りますが、所詮は悪魔が人間に乗り移って、さまざまの<span type="ruby"><span type="rb">禍</span><span type="rp">（</span><span type="rt">わざわい</span><span type="rp">）</span></span>をさせるに相違ないのです。あなたにもその悪魔が憑いたのです。（形をあらためて。）しかし決して恐れることはありません、悲しむこともありません。悪魔に憑かれた人間が救われた<span type="ruby"><span type="rb">例</span><span type="rp">（</span><span type="rt">ためし</span><span type="rp">）</span></span>は沢山あります。あなたも神さまにお祈りなさい。一心に神様にお縋りなさい。われわれの神様はかならず悪魔を遠ざけて、あなたを救って下さります。<lb />
+おいよ　唯今も申す通り、何事も自分がするのか、人がさせるのか、半分は夢のようで、確にはおぼえて居りませんが、あの小僧さんには<seg type="ruby"><seg type="rb">松明</seg><seg type="rp">（</seg><seg type="rt">たいまつ</seg><seg type="rp">）</seg></seg>を投げ付けられたようでござりました。（涙をぬぐう。）伴天連様。今のわたくしは人間であるのか、獣になったのか、我身でわが身が判りません。兎もかくも昼間は人なみの人間で、道理も人情も一通りはわきまえて居りながら、夜になると忽ち狼のこころに変って、人の肉を喰い、人の血を啜る……。こんな浅ましい因果な人間は、とても此世に生きてはいられないのでござります。どう考えても、死ぬより外はござりません。<lb />
+モウロ　（悼ましげに。）あなたの苦しみは察しられます。死のうとするのも無理はありません。昼は人間で、夜は狼になる――そういう不思議な人間は<seg type="ruby"><seg type="rb">欧羅巴</seg><seg type="rp">（</seg><seg type="rt">ヨーロッパ</seg><seg type="rp">）</seg></seg>にもあります。それは日本の狐つきと同じように、狼が人間に憑くのだと云い伝えられて居りますが、所詮は悪魔が人間に乗り移って、さまざまの<seg type="ruby"><seg type="rb">禍</seg><seg type="rp">（</seg><seg type="rt">わざわい</seg><seg type="rp">）</seg></seg>をさせるに相違ないのです。あなたにもその悪魔が憑いたのです。（形をあらためて。）しかし決して恐れることはありません、悲しむこともありません。悪魔に憑かれた人間が救われた<seg type="ruby"><seg type="rb">例</seg><seg type="rp">（</seg><seg type="rt">ためし</seg><seg type="rp">）</seg></seg>は沢山あります。あなたも神さまにお祈りなさい。一心に神様にお縋りなさい。われわれの神様はかならず悪魔を遠ざけて、あなたを救って下さります。<lb />
 おいよ　あの、わたくしのような者でも……。（モウロの前にひざまづく。）ほんとうに救われましょうか。<lb />
 モウロ　救われます。<lb />
 おいよ　（モウロの裾に縋る。）きっと救われましょうか。<lb />
@@ -318,9 +318,9 @@
 おいよ　知りません。誰も存じないようでござります。いっそ夫に打明けて、なんとか相談を致そうかと存じましたが……。いかに夫婦のあいだでも、こればかりは思い切って打明けることも出来ず、わたくし一人で苦しんでいるのでござります。<lb />
 モウロ　御もっともです。わたくしも決して他人には洩らしませんから、御安心なさい。（考える。）あなたはここに長くいることが出来ますか。<lb />
 おいよ　（これも考えて。）さあ、今晩は断りなしに出ましたので……。<lb />
-モウロ　（うなずく。）そうです、そうです。あなたの帰りがおくれると、<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の人達が心配しましょう。今夜は早くお帰りなさい。あなたには教えたいことが色々ありますが……。又来てくれますか。<lb />
-おいよ　お救い下さると<span type="ruby"><span type="rb">仰</span><span type="rp">（</span><span type="rt">おっ</span><span type="rp">）</span></span>しゃるならば、わたくしは必ず伺います。<lb />
-モウロ　では、<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あした</span><span type="rp">）</span></span>来てください。あしたの午過ぎに……。<lb />
+モウロ　（うなずく。）そうです、そうです。あなたの帰りがおくれると、<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の人達が心配しましょう。今夜は早くお帰りなさい。あなたには教えたいことが色々ありますが……。又来てくれますか。<lb />
+おいよ　お救い下さると<seg type="ruby"><seg type="rb">仰</seg><seg type="rp">（</seg><seg type="rt">おっ</seg><seg type="rp">）</seg></seg>しゃるならば、わたくしは必ず伺います。<lb />
+モウロ　では、<seg type="ruby"><seg type="rb">明日</seg><seg type="rp">（</seg><seg type="rt">あした</seg><seg type="rp">）</seg></seg>来てください。あしたの午過ぎに……。<lb />
 おいよ　かしこまりました。<lb />
 （モウロはマリアの像をささげて来て、テーブルの上に置く。）<lb />
 モウロ　これは尊いマリア様のお姿です。今夜はこれをあなたに貸してあげますから、若し狼の声がきこえたらば、一心にお祈りなさい。判りましたか。サンタ、マリアと呼んで祈るのです。<lb />
@@ -332,14 +332,14 @@
 <lb />
 　　　　　　　　　　二<lb />
 <lb />
-　同じく村はずれの草原。一面に<span type="ruby"><span type="rb">芒</span><span type="rp">（</span><span type="rt">すすき</span><span type="rp">）</span></span>その他のあき草が伸びている。正面には山々見ゆ。薄月のひかり。虫の声。<lb />
+　同じく村はずれの草原。一面に<seg type="ruby"><seg type="rb">芒</seg><seg type="rp">（</seg><seg type="rt">すすき</seg><seg type="rp">）</seg></seg>その他のあき草が伸びている。正面には山々見ゆ。薄月のひかり。虫の声。<lb />
 （上のかたより正吉とおいよ出づ。）<lb />
 おいよ　道はよく判っていますから、もうここらでお帰りください。<lb />
-正吉　道は判っておいででも、途中で又どんなことがあるかも知れないから、<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の近所まで送りとどけてあげろと<span type="ruby"><span type="rb">伴天連</span><span type="rp">（</span><span type="rt">バテレン</span><span type="rp">）</span></span>様のお指図でござります。<lb />
+正吉　道は判っておいででも、途中で又どんなことがあるかも知れないから、<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の近所まで送りとどけてあげろと<seg type="ruby"><seg type="rb">伴天連</seg><seg type="rp">（</seg><seg type="rt">バテレン</seg><seg type="rp">）</seg></seg>様のお指図でござります。<lb />
 おいよ　ほんに有難い伴天連様……。ああいうお方のおそばに付いていられるのは、お前のお仕合せでござりますな。<lb />
 正吉　まったく仕合せでござります。それもみな神様のお救いであると、有難く思って居ります。<lb />
 おいよ　わたくしもそのお救いを受けることが出来ればよいが……。<lb />
-正吉　疑うことはありません。神さまは屹とあなたをお救い下さります。<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あした</span><span type="rp">）</span></span>はお出でになりますか。<lb />
+正吉　疑うことはありません。神さまは屹とあなたをお救い下さります。<seg type="ruby"><seg type="rb">明日</seg><seg type="rp">（</seg><seg type="rt">あした</seg><seg type="rp">）</seg></seg>はお出でになりますか。<lb />
 おいよ　明日ばかりでなく、これからは毎日でも暇をみまして、有難い教えをうけたまわりに参りますから、何分よろしく願います。<lb />
 正吉　是非おいで下さい。お待ち申して居ります。（行きかけて空をみる。）おお、月がまた薄暗くなりました。<lb />
 おいよ　（空をみる。）このごろの癖で、夜はときどきに曇ります。<lb />
@@ -348,18 +348,18 @@
 （薄く風の音。月はいよいよ暗くなる。下のかたより芒をかきわけて田原弥三郎は火縄銃を持ちて出で、おいよ等に行き逢いて透し見る。おいよは顔を隠すようにして、摺れちがいながら花道のかたへ行く。上のかたより猟師源五郎も火縄銃を持ち、おいよ等のあとを見送りながら出づ。弥三郎も花道をみかえりながら上のかたへ行きかかりて、思わず源五郎に突き当り、二人はおどろいて透し見る。）<lb />
 弥三郎　おお、源五郎か。<lb />
 （その声を聞きて、おいよは逃げるように向うへ走り去る。正吉は訳もわからずに、つづいて急ぎゆく。風の音。虫の声。）<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</span>
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 第三幕<lb />
 <lb />
 <lb />
 　　　　　　　　　　一<lb />
 <lb />
-　第二幕とおなじ夜。第一幕の田原弥三郎の家。よき所に<span type="ruby"><span type="rb">行燈</span><span type="rp">（</span><span type="rt">あんどん</span><span type="rp">）</span></span>をとぼしてあり。庭の上のかたに<span type="ruby"><span type="rb">筵</span><span type="rp">（</span><span type="rt">むしろ</span><span type="rp">）</span></span>を敷き、お妙は砧の盤にむかいて白布を打っている。薄月のひかり。砧の音。下のかたより猟師五平と寅蔵、いずれも火縄銃を持ちて出づ。<lb />
+　第二幕とおなじ夜。第一幕の田原弥三郎の家。よき所に<seg type="ruby"><seg type="rb">行燈</seg><seg type="rp">（</seg><seg type="rt">あんどん</seg><seg type="rp">）</seg></seg>をとぼしてあり。庭の上のかたに<seg type="ruby"><seg type="rb">筵</seg><seg type="rp">（</seg><seg type="rt">むしろ</seg><seg type="rp">）</seg></seg>を敷き、お妙は砧の盤にむかいて白布を打っている。薄月のひかり。砧の音。下のかたより猟師五平と寅蔵、いずれも火縄銃を持ちて出づ。<lb />
 五平　弥三郎どんは内かな。<lb />
 お妙　（みかえる。）おお、皆さん。兄さんはさっきもう出ました。<lb />
-五平　ゆう飯を食ってから少し<span type="ruby"><span type="rb">饒舌</span><span type="rp">（</span><span type="rt">しゃべ</span><span type="rp">）</span></span>っていたので遅くなったが、兄さんは今夜どっちの方角へ行かれたろうな。<lb />
+五平　ゆう飯を食ってから少し<seg type="ruby"><seg type="rb">饒舌</seg><seg type="rp">（</seg><seg type="rt">しゃべ</seg><seg type="rp">）</seg></seg>っていたので遅くなったが、兄さんは今夜どっちの方角へ行かれたろうな。<lb />
 お妙　今夜は夜通しで、村中を見廻ると云っていましたが……。<lb />
 寅蔵　源五郎は見えなかったかな。<lb />
 お妙　（すこし躊躇して。）いいえ。<lb />
@@ -368,7 +368,7 @@
 五平　そう巧く行けばいいが、なにしろ相手が姿をみせないので困る。（懐より笛を出す。）誰でも狼を見つけた者は、この呼子を吹いて合図をすることになっているのだから、笛の音を聞いたら駈け集まるのだ。<lb />
 寅蔵　では、その積りで出かけよう。<lb />
 （二人は行きかかる。）<lb />
-お妙　あ、もし、おまえさん達は、そこらで<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の姉さんに逢いませんでしたか。<lb />
+お妙　あ、もし、おまえさん達は、そこらで<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の姉さんに逢いませんでしたか。<lb />
 五平　姉さんは家にいないのか。<lb />
 お妙　夕方に出たぎりで、いまだに帰って来ないので、どうしたのかと案じているのです。<lb />
 寅蔵　それはおかしいな。まさかに狼に出逢ったのでもあるまいが……。<lb />
@@ -382,7 +382,7 @@
 （お妙は砧を打ちつづけている。やがて向うよりおいよと正吉が足早に出づ。）<lb />
 おいよ　（わが家を指さして。）あれがわたくしの家でござります。<lb />
 正吉　では、もうこれでお別れ申しましょう。<lb />
-おいよ　御苦労でござりました。<span type="ruby"><span type="rb">伴天連</span><span type="rp">（</span><span type="rt">バテレン</span><span type="rp">）</span></span>様にもどうぞ宜しく仰しゃって下さい。<lb />
+おいよ　御苦労でござりました。<seg type="ruby"><seg type="rb">伴天連</seg><seg type="rp">（</seg><seg type="rt">バテレン</seg><seg type="rp">）</seg></seg>様にもどうぞ宜しく仰しゃって下さい。<lb />
 正吉　かしこまりました。では、明日……。<lb />
 おいよ　はい。かならず伺います。<lb />
 （正吉は会釈して、引返して去る。おいよは門口に来りて内をうかがい、木戸をあけて入る。）<lb />
@@ -390,28 +390,28 @@
 おいよ　大方そうであろうと思って、随分急いで来たのですが、それでも遅くなって済みませんでした。して、兄さんは……。<lb />
 お妙　さっき支度をして出られました。<lb />
 おいよ　さっき支度をして……。<lb />
-お妙　五平さんと寅蔵さんも<span type="ruby"><span type="rb">唯</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>った今、誘いに来ました。<lb />
+お妙　五平さんと寅蔵さんも<seg type="ruby"><seg type="rb">唯</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>った今、誘いに来ました。<lb />
 おいよ　今夜も総出で狼狩か。それでは暁方まで帰られまい。<lb />
 お妙　（やや気味悪るそうに、おいよの様子を窺いながら。）姉さん、お夕飯は……。<lb />
 おいよ　お前もまだですか。<lb />
-お妙　お帰りがあまり遅いので、わたしはお先へ<span type="ruby"><span type="rb">喫</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>べてしまいました。<lb />
+お妙　お帰りがあまり遅いので、わたしはお先へ<seg type="ruby"><seg type="rb">喫</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>べてしまいました。<lb />
 おいよ　（うなずく。）わたしはもう喫べたくもないが……。<lb />
 お妙　心持でも悪いのですか。<lb />
 おいよ　いいえ。別に……。（考えて。）まあ、兎もかくも一杯たべましょうか。<lb />
-（おいよは奥に入る。お妙はやはり気味悪るそうに見送りて半信半疑の<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>、そっと抜き足をして奥をうかがい、再び庭に降りて砧を打ち始めたるが又すぐに打ちやめ、片手に槌を持ちたるまま又もやそっと縁にあがりて、奥を窺おうとする時、出逢いがしらに障子をあけておいよ出づ。）<lb />
+（おいよは奥に入る。お妙はやはり気味悪るそうに見送りて半信半疑の<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>、そっと抜き足をして奥をうかがい、再び庭に降りて砧を打ち始めたるが又すぐに打ちやめ、片手に槌を持ちたるまま又もやそっと縁にあがりて、奥を窺おうとする時、出逢いがしらに障子をあけておいよ出づ。）<lb />
 お妙　（はっとして後へさがる。）もうお済みになりましたか。<lb />
 おいよ　どうも喫べる気がないので止めました。<lb />
 お妙　では、やはり何処か悪いのでは……。（おいよの顔を見て。）なんだか顔の色もよくないような。夜風に吹かれて、冷えたのではありませんか。<lb />
-おいよ　此頃は逢う人ごとに顔の色が悪いと云われるが……。自分では別にどこが悪いとも思いません。冷えると云えばお前こそ、いつまでも庭に出ていて、冷えると悪い。もうだんだんに夜が更けます。好い加減にして内へ這入ったら<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うです。<lb />
+おいよ　此頃は逢う人ごとに顔の色が悪いと云われるが……。自分では別にどこが悪いとも思いません。冷えると云えばお前こそ、いつまでも庭に出ていて、冷えると悪い。もうだんだんに夜が更けます。好い加減にして内へ這入ったら<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うです。<lb />
 お妙　はい。<lb />
-おいよ　今もいう通り、兄さんはどうで暁方までは帰られまいから、おまえは構わずに、もう先へお<span type="ruby"><span type="rb">寝</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>みなさい。<lb />
+おいよ　今もいう通り、兄さんはどうで暁方までは帰られまいから、おまえは構わずに、もう先へお<seg type="ruby"><seg type="rb">寝</seg><seg type="rp">（</seg><seg type="rt">やす</seg><seg type="rp">）</seg></seg>みなさい。<lb />
 お妙　はい。（躊躇している。）<lb />
 おいよ　（笑う。）それとも待っている人でもありますか。<lb />
 お妙　（あわてて。）いえ、そんなわけではありませんが……。では、もうそろそろ片付けましょう。<lb />
 （お妙は庭に降りて、砧を片付けにかかる。）<lb />
 おいよ　いえ、そうして置いてください。お前のような若い人とは違って、わたしはまだ寝るには早い。代って少し打ちましょう。（庭に降りて空を仰ぐ。虫の声。）おお、月がまた明るくなった。<lb />
 お妙　（おなじく空をみる。）宵には時々曇りましたが、よい月になりました。<lb />
-おいよ　よその砧の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">おと</span><span type="rp">）</span></span>ももう止んだような。<lb />
+おいよ　よその砧の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">おと</seg><seg type="rp">）</seg></seg>ももう止んだような。<lb />
 お妙　この頃は狼の噂で、どこでも早く寝てしまうようです。<lb />
 おいよ　（耳を傾ける。）砧の音も止んで、唯きこえるのは虫の声ばかり……。ほかには何んにも聞えるものも無い。（又もや耳を傾ける。）おまえには何か聞えますか。<lb />
 お妙　（耳をかたむけて。）いいえ、虫の声のほかには……。<lb />
@@ -420,7 +420,7 @@
 （二人はしばらく無言。梟の声きこゆ。）<lb />
 お妙　あれ、梟が……。<lb />
 おいよ　え。（又もや耳をかたむけて。）ほんに梟が鳴く……。さびしい晩です。（気をかえて。）さあ、おやすみなさい。おまえには早く起きて貰わなければなりません。あしたの朝も、兄さんの帰る前に火を焚きつけて、お湯を沸かすようにして置いて下さい。<lb />
-お妙　はい、はい。では、お先へ<span type="ruby"><span type="rb">臥</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>せります。<lb />
+お妙　はい、はい。では、お先へ<seg type="ruby"><seg type="rb">臥</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>せります。<lb />
 おいよ　おやすみなさい。<lb />
 （お妙は会釈して、やはり気味悪るそうにおいよを見返りながら奥に入る。時の鐘。おいよは木戸口へゆきて、しっかりと錠をかける。）<lb />
 おいよ　今夜は思いのほかに早く更けた。<lb />
@@ -429,7 +429,7 @@
 （おいよは砧の盤にむかいて打ち始める。月また薄暗くなる。おいよはやがて屹と耳をかたむけて、表を見かえる。）<lb />
 おいよ　あ、聞える……。（再び耳を傾けて。）きこえる、聞える……。（槌を置いて立ちかかる。）おお、今夜も聞える……。あれは梟ではない、確にいつもの……狼……狼の声……。（いよいよおびえて。）おお、おお、だんだんに近くなって来る……。（木戸口へ行きて表を窺う。）おお、来た、来た。又わたしを呼び出しに来たのか。（両手で耳をおさえる。）さあ、今が大事の場合……。今夜こそは伴天連さまの教えにしたがって……。神さまのお力に縋って……。<lb />
 （おいよは慌てて縁にかけ上り、懐中より彼のマリアの像を取出して、行燈の火に照らして見る。）<lb />
-おいよ　（マリアの像を押頂く。）サンタ、マリア……。サンタ、マリア……。（やがて又、表をみかえる。）ええ、まだ聞える。まだ聞える。（今度は無言にて、像を押頂きながら念ず。）まだ聞える……。やっぱり聞える……。わたしの信心が足らないのか。伴天連の教えが<span type="ruby"><span type="rb">詐</span><span type="rp">（</span><span type="rt">いつわ</span><span type="rp">）</span></span>りか。ええ、聞えないでくれ、聞えないでくれ。ええ、もうどうしたら好いか。（像を置いて、両手で耳をおさえながら<span type="ruby"><span type="rb">俯伏</span><span type="rp">（</span><span type="rt">うつぶ</span><span type="rp">）</span></span>す。）ええ、これでも聞える……。<lb />
+おいよ　（マリアの像を押頂く。）サンタ、マリア……。サンタ、マリア……。（やがて又、表をみかえる。）ええ、まだ聞える。まだ聞える。（今度は無言にて、像を押頂きながら念ず。）まだ聞える……。やっぱり聞える……。わたしの信心が足らないのか。伴天連の教えが<seg type="ruby"><seg type="rb">詐</seg><seg type="rp">（</seg><seg type="rt">いつわ</seg><seg type="rp">）</seg></seg>りか。ええ、聞えないでくれ、聞えないでくれ。ええ、もうどうしたら好いか。（像を置いて、両手で耳をおさえながら<seg type="ruby"><seg type="rb">俯伏</seg><seg type="rp">（</seg><seg type="rt">うつぶ</seg><seg type="rp">）</seg></seg>す。）ええ、これでも聞える……。<lb />
 （おいよは再びマリアの像を取りながら、物に引かるるように縁を降りる。）<lb />
 おいよ　ええ、今夜もやっぱり……。いや、行ってはならない。出てはならない。これほどにサンタ、マリアを念じても……。神様は救って下さらないのか。わたしの罪が深いのか。（持ったる像を地に投げ捨て、砧の前へゆきて槌を取る。）ええ、執念ぶかい狼め。鬼め、悪魔め、畜生め。啼くな。啼くな呼んでくれるな。<lb />
 （おいよは眼にみえぬ物を追い払おうとするように槌をふりまわし、髪もみだれて姿もしどけなく、筵の上に狂い倒れる。奥よりお妙出づ。）<lb />
@@ -438,17 +438,17 @@
 お妙　さっきから聞いていれば、姉さんは独りで物に狂っているような……。私の耳には何んにも聞えないが、姉さんには何が聞えるのか。もし、姉さん。どうしたのです。<lb />
 （お妙は気味悪るそうに近寄って、おいよをかかえ起そうとすれば、それを振払うように、おいよは屹と起き直りて、二人の顔と顔とが向き合う。その物すごき形相に、お妙はぎょっとして飛び退く。）<lb />
 お妙　あれえ。<lb />
-（お妙は逃げんとすれど、身が<span type="ruby"><span type="rb">竦</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>みて容易に動き得ず。おいよは両手を地につきて、餌を狙う狼のようにお妙をじっと睨む。）<lb />
-お妙　（声をふるわせる。）もし、姉さん。わたしです、お妙です……。なんだか<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>に様子が変って……。おまえは一体どうしたのです。もし、姉さん……。<lb />
+（お妙は逃げんとすれど、身が<seg type="ruby"><seg type="rb">竦</seg><seg type="rp">（</seg><seg type="rt">すく</seg><seg type="rp">）</seg></seg>みて容易に動き得ず。おいよは両手を地につきて、餌を狙う狼のようにお妙をじっと睨む。）<lb />
+お妙　（声をふるわせる。）もし、姉さん。わたしです、お妙です……。なんだか<seg type="ruby"><seg type="rb">俄</seg><seg type="rp">（</seg><seg type="rt">にわか</seg><seg type="rp">）</seg></seg>に様子が変って……。おまえは一体どうしたのです。もし、姉さん……。<lb />
 （おいよは答えず、低く唸りながらお妙の方へ這うようにじりじりと進み寄る。）<lb />
 お妙　それでは宵に聞いた通り、お前には怖ろしい狼が乗り憑ったのか。よもやと思っていたが、やっぱり本当であったのか。それにしても妹のわたしを……。もし、お願いです。助けてください。<lb />
-（お妙はようよう立ち上りて、表のかたへ逃げ出そうとすれど、木戸には錠をかけているので直ぐには開かず。そのあいだに、おいよは眼を<span type="ruby"><span type="rb">嗔</span><span type="rp">（</span><span type="rt">みは</span><span type="rp">）</span></span>らせて、今にも飛びかかりそうに詰めよる。お妙は途方にくれ、引返して上のかたにそろそろと逃げ行けば、おいよはそれを付け廻すように、下のかたより上のかたへ向って又じりじりと詰め寄る。）<lb />
+（お妙はようよう立ち上りて、表のかたへ逃げ出そうとすれど、木戸には錠をかけているので直ぐには開かず。そのあいだに、おいよは眼を<seg type="ruby"><seg type="rb">嗔</seg><seg type="rp">（</seg><seg type="rt">みは</seg><seg type="rp">）</seg></seg>らせて、今にも飛びかかりそうに詰めよる。お妙は途方にくれ、引返して上のかたにそろそろと逃げ行けば、おいよはそれを付け廻すように、下のかたより上のかたへ向って又じりじりと詰め寄る。）<lb />
 お妙　（必死になって叫ぶ。）もし、誰か来て下さい。助けてください。姉さんが狼に……。誰か早く来て下さい。助けてください。<lb />
 （お妙は救いを呼びながら、有合う砧の槌や布を打付けて縁に逃げ上れば、おいよもひらりと飛び上る。お妙はうろたえて又もや庭に飛び降りれば、おいよも続いて飛び降りる。）<lb />
 お妙　姉さん、姉さん、助けて下さい。堪忍してください。この通りです。拝みます。<lb />
-（お妙は手をあわせながら、起きつ<span type="ruby"><span type="rb">転</span><span type="rp">（</span><span type="rt">まろ</span><span type="rp">）</span></span>びつ逃げまわりて、上のかたの竹薮へ逃げ込めば、おいよもあとを追って飛び込む。月また薄暗く、竹薮のざわざわと揺れる音。薮のうちにて、お妙が「あれえ、あれえ」と叫ぶ声。その悲鳴のやみたる頃、下のかたより第一幕の百姓善助出づ。）<lb />
-善助　ここの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>で助けてくれと云う声がきこえたようだが……。何事が起ったのか。（内にむかって呼ぶ。）もし、誰もいないのかな。もし、もし……。<lb />
-（善助は木戸をゆすぶっている。上のかたの竹薮よりお妙は髪をふり乱し、どこやらを咬まれし<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>にて、よろめきながら逃げ出で、庭先にてばったり倒れる。）<lb />
+（お妙は手をあわせながら、起きつ<seg type="ruby"><seg type="rb">転</seg><seg type="rp">（</seg><seg type="rt">まろ</seg><seg type="rp">）</seg></seg>びつ逃げまわりて、上のかたの竹薮へ逃げ込めば、おいよもあとを追って飛び込む。月また薄暗く、竹薮のざわざわと揺れる音。薮のうちにて、お妙が「あれえ、あれえ」と叫ぶ声。その悲鳴のやみたる頃、下のかたより第一幕の百姓善助出づ。）<lb />
+善助　ここの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>で助けてくれと云う声がきこえたようだが……。何事が起ったのか。（内にむかって呼ぶ。）もし、誰もいないのかな。もし、もし……。<lb />
+（善助は木戸をゆすぶっている。上のかたの竹薮よりお妙は髪をふり乱し、どこやらを咬まれし<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>にて、よろめきながら逃げ出で、庭先にてばったり倒れる。）<lb />
 善助　（外より声をかける。）これ、お妙さん。どうしたのだ。<lb />
 （お妙は無言にて上のかたを指さす。やがて竹薮よりおいよは口のまわりに血を染めて出で来り、月明りに善助を見てじっと睨めば、善助はわっと驚き、一目散に下のかたへ逃げ去る。お妙は這い起きんとして、又倒れたるままに息絶ゆ。おいよは縁にひらりと飛び上りて、倒れたるお妙を見おろすように窺う。月のひかり、風の音。）<lb />
 <lb />
@@ -462,9 +462,9 @@
 モウロ　（おなじく耳を傾ける。）笛の音……。あれは何ですか。<lb />
 正吉　あれは呼子の笛です。（立ちあがる。）狩人達が狼のすがたを見付けて、その合図に笛を吹いているのかも知れません。<lb />
 モウロ　狼……。おお、おいよさん……。（不安らしく立上る。）<lb />
-正吉　おいよさんは確に自分の<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ帰ったのですが……。（これも不安らしく。）又抜け出したのでしょうか。<lb />
+正吉　おいよさんは確に自分の<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ帰ったのですが……。（これも不安らしく。）又抜け出したのでしょうか。<lb />
 （笛の声また聞ゆ。）<lb />
-正吉　あれ、あれ、笛の声がつづけて聞えます。<span type="ruby"><span type="rb">鳥渡</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>行って見て来ましょう。<lb />
+正吉　あれ、あれ、笛の声がつづけて聞えます。<seg type="ruby"><seg type="rb">鳥渡</seg><seg type="rp">（</seg><seg type="rt">ちょっと</seg><seg type="rp">）</seg></seg>行って見て来ましょう。<lb />
 （正吉は表へ出ようとする時、小銃の音きこゆ。二人は顔をみあわせる。）<lb />
 正吉　鉄砲の音がきこえました。<lb />
 モウロ　おお、鉄砲……。鉄砲の音……。<lb />
@@ -478,7 +478,7 @@
 （モウロはおいよを抱きあげて介抱する。）<lb />
 モウロ　あなた、どうしましたか。<lb />
 正吉　（呼ぶ。）おいよさん……。おいよさん……。<lb />
-（おいよは答えず。正吉は蝋燭をさし付けてモウロの顔をみれば、モウロは悲しげに頭を<span type="ruby"><span type="rb">掉</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>りて、もういけないと云う。そのうちに正吉は地に落ちたるマリアの像を拾いあげて見せる。）<lb />
+（おいよは答えず。正吉は蝋燭をさし付けてモウロの顔をみれば、モウロは悲しげに頭を<seg type="ruby"><seg type="rb">掉</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>りて、もういけないと云う。そのうちに正吉は地に落ちたるマリアの像を拾いあげて見せる。）<lb />
 正吉　マリア様の像には血が付いています。おいよさんが持って来たのでしょうか。<lb />
 （モウロは無言にて、その像を把ってながめている。下のかたより田原弥三郎は銃を持ちて出づ。）<lb />
 弥三郎　何でもこっちへ来た筈だが……。はてな。（そこらを見まわしている。）<lb />
@@ -491,12 +491,12 @@
 （弥三郎はおどろいて家の内へかけ込み、そこに倒れているおいよを見て又おどろく。）<lb />
 弥三郎　やあ、これはおれの女房だ、女房だ。<lb />
 モウロ　では、あなたは……。田原さんですか。<lb />
-弥三郎　そうです、そうです。（慌てて呼び活ける。）これ、しっかりしろ。おいよ……おいよ……。ああ、やっぱり急所に<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あた</span><span type="rp">）</span></span>ったのか。<lb />
+弥三郎　そうです、そうです。（慌てて呼び活ける。）これ、しっかりしろ。おいよ……おいよ……。ああ、やっぱり急所に<seg type="ruby"><seg type="rb">中</seg><seg type="rp">（</seg><seg type="rt">あた</seg><seg type="rp">）</seg></seg>ったのか。<lb />
 モウロ　お気の毒なことでした。<lb />
 弥三郎　（おいよの死骸をあらためる。）はて、どうも不思議だ。たしかに狼に見えたのだが……。<lb />
 モウロ　あなたの眼には狼と見えましたか。<lb />
-弥三郎　あすこの<span rend="notes">［＃「あすこの」は底本では「おすこの」］</span>草原を駈けてゆく姿が、月あかりで確に狼にみえたので、直ぐに火蓋を切りましたが……。（不審そうに考える。）夜目遠目とはいいながら、わたしも多年の商売で、人と獣を見違える筈はない。まして今夜は月が明るいのに、どうしてこんな間違いを<span type="ruby"><span type="rb">仕出来</span><span type="rp">（</span><span type="rt">しでか</span><span type="rp">）</span></span>したのか。自分でも夢のようで、何がなんだか判らない。<lb />
-（弥三郎は疑惑に<span type="ruby"><span type="rb">鎖</span><span type="rp">（</span><span type="rt">とざ</span><span type="rp">）</span></span>されて、空しく溜息をついている。下のかたより源五郎を先に、五平と寅蔵出づ。）<lb />
+弥三郎　あすこの<seg rend="notes" rendition="span">［＃「あすこの」は底本では「おすこの」］</seg>草原を駈けてゆく姿が、月あかりで確に狼にみえたので、直ぐに火蓋を切りましたが……。（不審そうに考える。）夜目遠目とはいいながら、わたしも多年の商売で、人と獣を見違える筈はない。まして今夜は月が明るいのに、どうしてこんな間違いを<seg type="ruby"><seg type="rb">仕出来</seg><seg type="rp">（</seg><seg type="rt">しでか</seg><seg type="rp">）</seg></seg>したのか。自分でも夢のようで、何がなんだか判らない。<lb />
+（弥三郎は疑惑に<seg type="ruby"><seg type="rb">鎖</seg><seg type="rp">（</seg><seg type="rt">とざ</seg><seg type="rp">）</seg></seg>されて、空しく溜息をついている。下のかたより源五郎を先に、五平と寅蔵出づ。）<lb />
 源五郎　合図の呼子がきこえたが……。<lb />
 五平　鉄砲の音も聞えたぞ。<lb />
 寅蔵　何でもこっちの方角であった。<lb />
@@ -515,7 +515,7 @@
 寅蔵　併しこのおいよさんが狼に見えたというのが不思議だな。<lb />
 源五郎　（打消すように。）不思議といえば不思議だが、そんな間違いが無いとも云えない。なにしろ夜のことだからな。<lb />
 弥三郎　たとい夜でも、この通りの月夜だ。<lb />
-源五郎　月夜でも何でも、昼とは違う。まして不断とは違って今の場合だ。狼を見付けよう見付けようと<span type="ruby"><span type="rb">燥</span><span type="rp">（</span><span type="rt">あせ</span><span type="rp">）</span></span>っているので、人間の姿もつい狼のように見えてしまったのだ。<lb />
+源五郎　月夜でも何でも、昼とは違う。まして不断とは違って今の場合だ。狼を見付けよう見付けようと<seg type="ruby"><seg type="rb">燥</seg><seg type="rp">（</seg><seg type="rt">あせ</seg><seg type="rp">）</seg></seg>っているので、人間の姿もつい狼のように見えてしまったのだ。<lb />
 弥三郎　そうだろうか。（疑うように考えている。）<lb />
 源五郎　（畳みかけて。）そうだ、そうだ。屹とそうだ。まあ考えてみるがいい。お前の女房が狼になって堪るものか。<lb />
 モウロ　（進み出づ。）そうです。この人の云う通りです。あなたはどうかして狼を見付け出そうと思って、こころが急いでいる。それがために眼が狂って、人と狼とを見ちがえたのです。そう云うことは珍しくありません。<lb />
@@ -525,7 +525,7 @@
 モウロ　あなたの妻はこれを持って来たのです。これをわたくしの所へ返しに来たのです。<lb />
 弥三郎　（像を受取って眺める。）これは唯の仏像でもなく、異国の物らしいが……。こんな物を持っているようでは、ここへも来たことがあるのですか。<lb />
 モウロ　はい。来たことがあります。それはわたくしが貸して遣ったのです。<lb />
-源五郎　では、今夜それを返しに来たところを、おまえが遠目に狼と間違えたのだ。さあ、それで<span rend="SESAME_DOT" rendition="strong">すっかり</span>訳がわかった。<lb />
+源五郎　では、今夜それを返しに来たところを、おまえが遠目に狼と間違えたのだ。さあ、それで<seg rend="SESAME_DOT" rendition="strong">すっかり</seg>訳がわかった。<lb />
 五平　そう聞けば、別に不思議もないようだ。<lb />
 寅蔵　こうなると、おいよさんは飛んだ災難で、気の毒であった。<lb />
 五平　ふだんから近所でも評判の好い人であったのに、惜しいことをしたな。<lb />
@@ -537,9 +537,9 @@
 五平　そうだ、そうだ。<lb />
 （五平と寅蔵も手伝いて、おいよの死骸をかきあげる。モウロは正吉に指図して、奥の間より毛布を持ち来らせ、死骸をつつむ。）<lb />
 弥三郎　（嘆息して。）こんな姿をみせたらば、お妙もさぞ驚くだろう。<lb />
-源五郎　むむ。お妙さんも驚くだろう。ふだんから本当の<span type="ruby"><span type="rb">姉妹</span><span type="rp">（</span><span type="rt">きょうだい</span><span type="rp">）</span></span>のように仲好しであったからな。<lb />
+源五郎　むむ。お妙さんも驚くだろう。ふだんから本当の<seg type="ruby"><seg type="rb">姉妹</seg><seg type="rp">（</seg><seg type="rt">きょうだい</seg><seg type="rp">）</seg></seg>のように仲好しであったからな。<lb />
 弥三郎　（罵るように。）こんな事になったのも、狼めの仕業だ。畜生、屹とおれが退治して、女房のかたきを取ってみせるぞ。<lb />
-源五郎　まあ、狼よりも仏が大事だ。早く帰って<span type="ruby"><span type="rb">回向</span><span type="rp">（</span><span type="rt">えこう</span><span type="rp">）</span></span>をしなさい。<lb />
+源五郎　まあ、狼よりも仏が大事だ。早く帰って<seg type="ruby"><seg type="rb">回向</seg><seg type="rp">（</seg><seg type="rt">えこう</seg><seg type="rp">）</seg></seg>をしなさい。<lb />
 （五平と寅蔵は毛布につつみたる死骸をかきあげ、源五郎も付添いて出てゆく。）<lb />
 弥三郎　（モウロに。）色々御厄介になりました。いずれ改めてお礼にまいります。<lb />
 （弥三郎は丁寧に会釈して、力なげに出てゆく。）<lb />
@@ -547,13 +547,13 @@
 正吉　すぐに洗いましょうか。<lb />
 モウロ　いや。この血の自然に消えるように、我々は祈りを続けなければなりません。今夜は眠らずに……。<lb />
 正吉　はい。<lb />
-（モウロは像を押頂きて元の棚に祭り、正吉とテーブルに向い合いて、再び聖書を<span type="ruby"><span type="rb">繙</span><span type="rp">（</span><span type="rt">ひもと</span><span type="rp">）</span></span>く。月のひかり。梟の声。）<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</span>
+（モウロは像を押頂きて元の棚に祭り、正吉とテーブルに向い合いて、再び聖書を<seg type="ruby"><seg type="rb">繙</seg><seg type="rp">（</seg><seg type="rt">ひもと</seg><seg type="rp">）</seg></seg>く。月のひかり。梟の声。）<lb />
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</seg>
 <lb />
-<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（「舞台」昭和六年三月号掲載／昭和六年三月、明治座で初演）</span>
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（「舞台」昭和六年三月号掲載／昭和六年三月、明治座で初演）</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

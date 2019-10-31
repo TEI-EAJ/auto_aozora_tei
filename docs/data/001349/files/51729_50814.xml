@@ -35,16 +35,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">語句索引凡例</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">語句索引凡例</seg></seg></seg>
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、本書の書き下し文について、そのうちの重要な語句を摘出して索引を作つた。神武天皇の如きは、本文にはないが、便宜上これを出してその記事の所在を示すこととした。主として句頭に出ない語句をこの索引に收め、他は歌謠各句索引に讓つたものが多い。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、同一の事項と認められるものは、用字が多少相違していても、一つに整理して出した。何々の命、何々の神、何々の王の如きも、たいてい一つによつて出したが、何々の天皇とあるが如きは別に出した。また別の事項でも同名の場合は、合併して出すものがある。たとえば麻呂古の王を一つにまとめた如きである。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、所在を示す數字は、本書のページ數である。同一のページに二囘以上出ている場合は、一つをあげるに止めた。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、「い」と「ゐ」、「え」と「ゑ」、「お」と「を」は、それぞれ合併した。漢字の字音によるものは、表音かなづかいによつた。孝安天皇をコの部に收めた類である。</span>
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、本書の書き下し文について、そのうちの重要な語句を摘出して索引を作つた。神武天皇の如きは、本文にはないが、便宜上これを出してその記事の所在を示すこととした。主として句頭に出ない語句をこの索引に收め、他は歌謠各句索引に讓つたものが多い。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、同一の事項と認められるものは、用字が多少相違していても、一つに整理して出した。何々の命、何々の神、何々の王の如きも、たいてい一つによつて出したが、何々の天皇とあるが如きは別に出した。また別の事項でも同名の場合は、合併して出すものがある。たとえば麻呂古の王を一つにまとめた如きである。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、所在を示す數字は、本書のページ數である。同一のページに二囘以上出ている場合は、一つをあげるに止めた。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、「い」と「ゐ」、「え」と「ゑ」、「お」と「を」は、それぞれ合併した。漢字の字音によるものは、表音かなづかいによつた。孝安天皇をコの部に收めた類である。</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">あ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">あ</seg></seg></seg>
 <lb />
 ああしやこしや<lb />
 藍見河<lb />
@@ -124,7 +124,7 @@
 あたら<lb />
 阿知吉師<lb />
 阿遲志貴高日子根の神<lb />
-阿遲<span facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />高日子根の神<lb />
+阿遲<seg facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />高日子根の神<lb />
 阿知の直<lb />
 阿直の史<lb />
 檳榔（あぢまさ）の島<lb />
@@ -300,7 +300,7 @@
 沫雪の<lb />
 安康天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">い、ゐ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">い、ゐ</seg></seg></seg>
 <lb />
 井<lb />
 伊迦賀色許男の命<lb />
@@ -344,7 +344,7 @@
 伊佐比の宿禰<lb />
 伊耶本和氣の天皇<lb />
 伊耶本和氣の王<lb />
-居寤の<span rend="notes">［＃「居寤の」は底本では「居寢の」］</span>清泉<lb />
+居寤の<seg rend="notes" rendition="span">［＃「居寤の」は底本では「居寢の」］</seg>清泉<lb />
 いさよふ<lb />
 石祝作り（いしきつくり）<lb />
 いしけ<lb />
@@ -377,7 +377,7 @@
 痛矢串<lb />
 市<lb />
 市寸島比賣の命<lb />
-<span facs="../../../gaiji/2-14/2-14-46.png" rend="gaiji" rendition="img" source="※(「木＋令」、第4水準2-14-46)" />（いちさかき）<lb />
+<seg facs="../../../gaiji/2-14/2-14-46.png" rend="gaiji" rendition="img" source="※(「木＋令」、第4水準2-14-46)" />（いちさかき）<lb />
 市師の池<lb />
 壹師の君<lb />
 伊知遲島<lb />
@@ -402,7 +402,7 @@
 伊豆能賣<lb />
 伊豆美<lb />
 出雲<lb />
-出雲の石※<span rend="notes">［＃「土へん＋向」、U+57A7、398-3-26］</span>の曾の宮<span rend="notes">［＃「出雲の石※<span rend="notes">［＃「土へん＋向」、U+57A7、］</span>の曾の宮」は本文の書き下し文では「出雲の石※<span rend="notes">［＃「石＋炯のつくり」、U+2544E、103-本文-11］</span>の曾の宮」］</span><lb />
+出雲の石※<seg rend="notes" rendition="span">［＃「土へん＋向」、U+57A7、398-3-26］</seg>の曾の宮<seg rend="notes" rendition="span">［＃「出雲の石※<seg rend="notes" rendition="span">［＃「土へん＋向」、U+57A7、］</seg>の曾の宮」は本文の書き下し文では「出雲の石※<seg rend="notes" rendition="span">［＃「石＋炯のつくり」、U+2544E、103-本文-11］</seg>の曾の宮」］</seg><lb />
 出雲の郎女<lb />
 出雲の大神<lb />
 出雲の國<lb />
@@ -443,7 +443,7 @@
 伊怒比賣<lb />
 石押分の子<lb />
 石木の王<lb />
-石<span facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />の王<lb />
+石<seg facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />の王<lb />
 石拆の神<lb />
 石代の別<lb />
 石巣比賣<lb />
@@ -508,7 +508,7 @@
 伊和島の王<lb />
 允恭天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">う</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">う</seg></seg></seg>
 <lb />
 鵜<lb />
 植草<lb />
@@ -580,8 +580,8 @@
 畝火山<lb />
 畝火山の眞名子谷<lb />
 畝火山の美富登<lb />
-※<span rend="notes">［＃「女＋綵のつくり」、U+5A47、400-2-26］</span>（うねめ）<lb />
-※<span rend="notes">［＃「女＋綵のつくり」、U+5A47、400-3-1］</span>の臣<lb />
+※<seg rend="notes" rendition="span">［＃「女＋綵のつくり」、U+5A47、400-2-26］</seg>（うねめ）<lb />
+※<seg rend="notes" rendition="span">［＃「女＋綵のつくり」、U+5A47、400-3-1］</seg>の臣<lb />
 菟野の郎女<lb />
 上つ國<lb />
 上筒の男の命<lb />
@@ -603,8 +603,8 @@
 宇摩志阿斯訶備比古遲の神<lb />
 宇摩志麻遲の命<lb />
 馬婚<lb />
-馬の御<span facs="../../../gaiji/2-15/2-15-49.png" rend="gaiji" rendition="img" source="※(「識」の「言」に代えて「木」、第4水準2-15-49)" />の連<lb />
-馬※<span rend="notes">［＃「木＋宿」、U+6A0E、400-4-2］</span><lb />
+馬の御<seg facs="../../../gaiji/2-15/2-15-49.png" rend="gaiji" rendition="img" source="※(「識」の「言」に代えて「木」、第4水準2-15-49)" />の連<lb />
+馬※<seg rend="notes" rendition="span">［＃「木＋宿」、U+6A0E、400-4-2］</seg><lb />
 茨田の郎女<lb />
 茨田の下の連<lb />
 茨田の堤<lb />
@@ -628,7 +628,7 @@
 うれたく<lb />
 うれづく<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">え　ゑ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">え　ゑ</seg></seg></seg>
 <lb />
 兄宇迦斯<lb />
 ええ、しやこしや<lb />
@@ -650,7 +650,7 @@
 兄比賣<lb />
 蝦夷<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">お　を</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">お　を</seg></seg></seg>
 <lb />
 麻<lb />
 命（を）<lb />
@@ -744,7 +744,7 @@
 孃子<lb />
 淤縢山津見の神<lb />
 袁那辨の王<lb />
-袁那辨の郎女<span rend="notes">［＃「袁那辨の郎女」は底本では「衰那辨の郎女」］</span><lb />
+袁那辨の郎女<seg rend="notes" rendition="span">［＃「袁那辨の郎女」は底本では「衰那辨の郎女」］</seg><lb />
 淤能碁呂島<lb />
 小野の郎女<lb />
 小野の臣<lb />
@@ -813,7 +813,7 @@
 大國御魂の神<lb />
 大久米の命<lb />
 大氣都比賣の神<lb />
-大宜都比賣の<span rend="notes">［＃「大宜都比賣の」は底本では「大宣都比賣の」］</span>神<lb />
+大宜都比賣の<seg rend="notes" rendition="span">［＃「大宜都比賣の」は底本では「大宣都比賣の」］</seg>神<lb />
 意富祁の天皇<lb />
 意富祁の命<lb />
 大事忍男の神<lb />
@@ -854,7 +854,7 @@
 大直毘の神<lb />
 大穴牟遲の神<lb />
 大甞<lb />
-大贄<span rend="notes">［＃「大贄」は底本では「大贅」］</span><lb />
+大贄<seg rend="notes" rendition="span">［＃「大贄」は底本では「大贅」］</seg><lb />
 大幣<lb />
 大根<lb />
 大根の王<lb />
@@ -902,15 +902,15 @@
 太八洲<lb />
 大八島國<lb />
 大屋毘古の神<lb />
-大山咋の<span rend="notes">［＃「大山咋の」は底本では「大山昨の」］</span>神<lb />
+大山咋の<seg rend="notes" rendition="span">［＃「大山咋の」は底本では「大山昨の」］</seg>神<lb />
 大山津見の神<lb />
 意富夜麻登玖邇阿禮比賣の命<lb />
-大倭帶日子國押人の<span rend="notes">［＃「大倭帶日子國押人の」は底本では「大倭帶日子國押入の」］</span>命<lb />
+大倭帶日子國押人の<seg rend="notes" rendition="span">［＃「大倭帶日子國押人の」は底本では「大倭帶日子國押入の」］</seg>命<lb />
 大倭豐秋津島<lb />
 大倭根子日子國玖琉の命<lb />
 大倭根子日子賦斗邇の命<lb />
 大倭の國<lb />
-大倭日子<span facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />友の命<lb />
+大倭日子<seg facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />友の命<lb />
 大山守の命<lb />
 大湯坐<lb />
 大綿津見の神<lb />
@@ -920,7 +920,7 @@
 老女子の郎女<lb />
 女の手末の調<lb />
 臣の孃子<lb />
-袁牟漏が嶽<span rend="notes">［＃「袁牟漏が嶽」は底本では「袁牟漏が獄」］</span><lb />
+袁牟漏が嶽<seg rend="notes" rendition="span">［＃「袁牟漏が嶽」は底本では「袁牟漏が獄」］</seg><lb />
 小目の山の君<lb />
 面勝つ<lb />
 於母陀琉の神<lb />
@@ -933,7 +933,7 @@
 おれ<lb />
 蛇（をろち）<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">か</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">か</seg></seg></seg>
 <lb />
 開化天皇<lb />
 鏡作の連<lb />
@@ -1015,8 +1015,8 @@
 葛城の山<lb />
 葛城の掖上の宮<lb />
 かな<lb />
-金<span facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" /><lb />
-金<span facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />の岡<lb />
+金<seg facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" /><lb />
+金<seg facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />の岡<lb />
 かなで<lb />
 金山毘古の神<lb />
 金山毘賣の神<lb />
@@ -1049,7 +1049,7 @@
 川内の惠賀の裳伏の岡<lb />
 河内の國の志幾<lb />
 川内の科長<lb />
-河内の多治比の高<span facs="../../../gaiji/1-94/1-94-72.png" rend="gaiji" rendition="img" source="※(「顫のへん＋鳥」、第3水準1-94-72)" /><lb />
+河内の多治比の高<seg facs="../../../gaiji/1-94/1-94-72.png" rend="gaiji" rendition="img" source="※(「顫のへん＋鳥」、第3水準1-94-72)" /><lb />
 河内の古市の高屋の村<lb />
 河内の美努の村<lb />
 河内の若子比賣<lb />
@@ -1119,7 +1119,7 @@
 韓人<lb />
 訶良比賣<lb />
 韓比賣<lb />
-韓<span facs="../../../gaiji/2-08/2-08-82.png" rend="gaiji" rendition="img" source="※(「代／巾」、第4水準2-8-82)" /><lb />
+韓<seg facs="../../../gaiji/2-08/2-08-82.png" rend="gaiji" rendition="img" source="※(「代／巾」、第4水準2-8-82)" /><lb />
 枯松<lb />
 雁<lb />
 苅杙<lb />
@@ -1142,7 +1142,7 @@
 かわら<lb />
 訶和羅の前<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">き</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">き</seg></seg></seg>
 <lb />
 き<lb />
 聞かし<lb />
@@ -1150,7 +1150,7 @@
 雉子名鳴女<lb />
 雉子の頓使<lb />
 聞こし<lb />
-<span facs="../../../gaiji/2-87/2-87-68.png" rend="gaiji" rendition="img" source="※(「討／虫」、第4水準2-87-68)" />貝比賣<span rend="notes">［＃「<span facs="../../../gaiji/2-87/2-87-68.png" rend="gaiji" rendition="img" source="※(「討／虫」、第4水準2-87-68)" />貝比賣」は底本では「※<span rend="notes">［＃「討／貝」、406-2-9］</span>貝比賣」］</span><lb />
+<seg facs="../../../gaiji/2-87/2-87-68.png" rend="gaiji" rendition="img" source="※(「討／虫」、第4水準2-87-68)" />貝比賣<seg rend="notes" rendition="span">［＃「<seg facs="../../../gaiji/2-87/2-87-68.png" rend="gaiji" rendition="img" source="※(「討／虫」、第4水準2-87-68)" />貝比賣」は底本では「※<seg rend="notes" rendition="span">［＃「討／貝」、406-2-9］</seg>貝比賣」］</seg><lb />
 きさげ<lb />
 岐佐理持<lb />
 岸田の臣<lb />
@@ -1163,8 +1163,8 @@
 木戸<lb />
 木梨の輕の太子<lb />
 木梨の輕の王<lb />
-<span facs="../../../gaiji/1-90/1-90-01.png" rend="gaiji" rendition="img" source="※(「糸＋施のつくり」、第3水準1-90-1)" />疊<lb />
-<span facs="../../../gaiji/1-90/1-90-01.png" rend="gaiji" rendition="img" source="※(「糸＋施のつくり」、第3水準1-90-1)" />垣<lb />
+<seg facs="../../../gaiji/1-90/1-90-01.png" rend="gaiji" rendition="img" source="※(「糸＋施のつくり」、第3水準1-90-1)" />疊<lb />
+<seg facs="../../../gaiji/1-90/1-90-01.png" rend="gaiji" rendition="img" source="※(「糸＋施のつくり」、第3水準1-90-1)" />垣<lb />
 木の荒田の郎女<lb />
 木の臣<lb />
 木の神<lb />
@@ -1192,7 +1192,7 @@
 清日子<lb />
 清原の大宮<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">く</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi90">く</seg></seg></seg>
 <lb />
 久延毘古<lb />
 玖訶瓮（くかべ）<lb />
@@ -1210,7 +1210,7 @@
 草薙の大刀<lb />
 草薙の劒<lb />
 舊辭<lb />
-櫛石<span facs="../../../gaiji/1-89/1-89-54.png" rend="gaiji" rendition="img" source="※(「窗／心」、第3水準1-89-54)" />の神<lb />
+櫛石<seg facs="../../../gaiji/1-89/1-89-54.png" rend="gaiji" rendition="img" source="※(「窗／心」、第3水準1-89-54)" />の神<lb />
 櫛角別の王<lb />
 櫛名田比賣<lb />
 靈じふる<lb />
@@ -1289,7 +1289,7 @@
 黒比賣<lb />
 黒御鬘<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">け</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">け</seg></seg></seg>
 <lb />
 景行天皇<lb />
 繼體天皇<lb />
@@ -1297,7 +1297,7 @@
 汚垢（けがれ）<lb />
 著せ<lb />
 氣多の前<lb />
-毛の<span facs="../../../gaiji/1-94/1-94-76.png" rend="gaiji" rendition="img" source="※(「鹿／（鹿＋鹿）」、第3水準1-94-76)" />物毛の柔物<lb />
+毛の<seg facs="../../../gaiji/1-94/1-94-76.png" rend="gaiji" rendition="img" source="※(「鹿／（鹿＋鹿）」、第3水準1-94-76)" />物毛の柔物<lb />
 けば<lb />
 氣比の大神<lb />
 けり<lb />
@@ -1307,7 +1307,7 @@
 顯宗天皇<lb />
 元明天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">こ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110">こ</seg></seg></seg>
 <lb />
 蠶（こ）<lb />
 海鼠（こ）<lb />
@@ -1358,7 +1358,7 @@
 古波陀孃子<lb />
 金波鎭漢紀武<lb />
 子産<lb />
-海蓴（こも）の柄<span rend="notes">［＃「海蓴（こも）の柄」は本文の書き下し文では「海※<span rend="notes">［＃「くさかんむり／溥のつくり」、U+84AA、59-本文-4］</span>（こも）の柄」］</span><lb />
+海蓴（こも）の柄<seg rend="notes" rendition="span">［＃「海蓴（こも）の柄」は本文の書き下し文では「海※<seg rend="notes" rendition="span">［＃「くさかんむり／溥のつくり」、U+84AA、59-本文-4］</seg>（こも）の柄」］</seg><lb />
 こもりくの<lb />
 隱津<lb />
 死刑<lb />
@@ -1366,7 +1366,7 @@
 許呂母の別<lb />
 ころろぎ<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">さ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">さ</seg></seg></seg>
 <lb />
 佐韋<lb />
 狹井<lb />
@@ -1421,8 +1421,8 @@
 雀部<lb />
 雀部の臣<lb />
 雀部の造<lb />
-佐佐宜の<span rend="notes">［＃「佐佐宜の」は底本では「佐佐宣の」］</span>郎女<lb />
-佐佐宜の<span rend="notes">［＃「佐佐宜の」は底本では「佐佐宣の」］</span>王<lb />
+佐佐宜の<seg rend="notes" rendition="span">［＃「佐佐宜の」は底本では「佐佐宣の」］</seg>郎女<lb />
+佐佐宜の<seg rend="notes" rendition="span">［＃「佐佐宜の」は底本では「佐佐宣の」］</seg>王<lb />
 沙沙那美<lb />
 佐佐那美道<lb />
 佐佐の君<lb />
@@ -1430,13 +1430,13 @@
 刺國大の神<lb />
 刺國若比賣<lb />
 烏草樹（さしぶ）<lb />
-佐土布都の神<span rend="notes">［＃「佐土布都の神」は本文の書き下し文では「佐士布都の神」］</span><lb />
-假<span facs="../../../gaiji/2-12/2-12-04.png" rend="gaiji" rendition="img" source="※(「广＋技」、第4水準2-12-4)" /><lb />
+佐土布都の神<seg rend="notes" rendition="span">［＃「佐土布都の神」は本文の書き下し文では「佐士布都の神」］</seg><lb />
+假<seg facs="../../../gaiji/2-12/2-12-04.png" rend="gaiji" rendition="img" source="※(「广＋技」、第4水準2-12-4)" /><lb />
 さだめる<lb />
 幸易へ<lb />
 佐渡の島<lb />
 佐那葛<lb />
-漁田（さなきだ）の別<span rend="notes">［＃「漁田（さなきだ）の別」は本文の書き下し文では「漁田（すなきだ）の別」］</span><lb />
+漁田（さなきだ）の別<seg rend="notes" rendition="span">［＃「漁田（さなきだ）の別」は本文の書き下し文では「漁田（すなきだ）の別」］</seg><lb />
 沙庭<lb />
 讃岐垂根の王<lb />
 讃岐の綾の君<lb />
@@ -1467,7 +1467,7 @@
 さわさわに<lb />
 佐和良の臣<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">し</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">し</seg></seg></seg>
 <lb />
 し<lb />
 じ<lb />
@@ -1475,7 +1475,7 @@
 師木島の大宮<lb />
 師木津日子玉手見の命<lb />
 師木津日子の命<lb />
-師木の縣主<span rend="notes">［＃「縣主」は底本では「懸主」］</span><lb />
+師木の縣主<seg rend="notes" rendition="span">［＃「縣主」は底本では「懸主」］</seg><lb />
 志幾の大縣主<lb />
 師木の玉垣の宮<lb />
 師木の水垣の宮<lb />
@@ -1497,7 +1497,7 @@
 下泣き<lb />
 下樋<lb />
 志都歌<lb />
-靜歌の歌ひ返し<span rend="notes">［＃「靜歌の歌ひ返し」は本文の書き下し文では「志都歌の歌ひ返し」］</span><lb />
+靜歌の歌ひ返し<seg rend="notes" rendition="span">［＃「靜歌の歌ひ返し」は本文の書き下し文では「志都歌の歌ひ返し」］</seg><lb />
 靜貝の王<lb />
 科長の大陵<lb />
 科長の中の陵<lb />
@@ -1556,13 +1556,13 @@
 白猪<lb />
 銀の王<lb />
 白き鹿<lb />
-<span facs="../../../gaiji/2-14/2-14-59.png" rend="gaiji" rendition="img" source="※()" /><lb />
+<seg facs="../../../gaiji/2-14/2-14-59.png" rend="gaiji" rendition="img" source="※()" /><lb />
 白和幣<lb />
 白日子の王<lb />
 神功皇后<lb />
 神武天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">す</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi140">す</seg></seg></seg>
 <lb />
 ず<lb />
 推古天皇<lb />
@@ -1604,7 +1604,7 @@
 須賣伊呂大中つ日子の王<lb />
 須賣伊呂杼<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">せ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi150">せ</seg></seg></seg>
 <lb />
 せ<lb />
 清寧天皇<lb />
@@ -1616,7 +1616,7 @@
 千字文<lb />
 先代の舊辭<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">そ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi160">そ</seg></seg></seg>
 <lb />
 ぞ<lb />
 宗賀の稻目の宿禰<lb />
@@ -1637,7 +1637,7 @@
 虚空津比賣の命<lb />
 そらみつ<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi170">た</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi170">た</seg></seg></seg>
 <lb />
 田井の中比賣<lb />
 多賀<lb />
@@ -1688,12 +1688,12 @@
 當麻の倉首比呂<lb />
 當麻の勾の君<lb />
 當麻の王<lb />
-當麻の<span facs="../../../gaiji/1-15/1-15-01.png" rend="gaiji" rendition="img" source="※(「口＋羊」、第3水準1-15-1)" />斐<span rend="notes">［＃「當麻の<span facs="../../../gaiji/1-15/1-15-01.png" rend="gaiji" rendition="img" source="※(「口＋羊」、第3水準1-15-1)" />斐」は本文の書き下し文では「當摩の<span facs="../../../gaiji/1-15/1-15-01.png" rend="gaiji" rendition="img" source="※(「口＋羊」、第3水準1-15-1)" />斐」］</span><lb />
+當麻の<seg facs="../../../gaiji/1-15/1-15-01.png" rend="gaiji" rendition="img" source="※(「口＋羊」、第3水準1-15-1)" />斐<seg rend="notes" rendition="span">［＃「當麻の<seg facs="../../../gaiji/1-15/1-15-01.png" rend="gaiji" rendition="img" source="※(「口＋羊」、第3水準1-15-1)" />斐」は本文の書き下し文では「當摩の<seg facs="../../../gaiji/1-15/1-15-01.png" rend="gaiji" rendition="img" source="※(「口＋羊」、第3水準1-15-1)" />斐」］</seg><lb />
 多紀理毘賣の命<lb />
 手草<lb />
 卓素<lb />
-<span facs="../../../gaiji/2-14/2-14-59.png" rend="gaiji" rendition="img" source="※(「木＋孝」の「子」に代えて「丁」、第4水準2-14-59)" />綱の<lb />
-<span facs="../../../gaiji/2-14/2-14-59.png" rend="gaiji" rendition="img" source="※(「木＋孝」の「子」に代えて「丁」、第4水準2-14-59)" />繩<lb />
+<seg facs="../../../gaiji/2-14/2-14-59.png" rend="gaiji" rendition="img" source="※(「木＋孝」の「子」に代えて「丁」、第4水準2-14-59)" />綱の<lb />
+<seg facs="../../../gaiji/2-14/2-14-59.png" rend="gaiji" rendition="img" source="※(「木＋孝」の「子」に代えて「丁」、第4水準2-14-59)" />繩<lb />
 たぐり<lb />
 竹<lb />
 建伊那陀の宿禰<lb />
@@ -1738,11 +1738,11 @@
 疊薦<lb />
 腕（ただむき）<lb />
 漂へる國<lb />
-祟り<span rend="notes">［＃「祟り」は底本では「崇り」］</span><lb />
+祟り<seg rend="notes" rendition="span">［＃「祟り」は底本では「崇り」］</seg><lb />
 大刀が緒<lb />
 易刀<lb />
 手力男の神<lb />
-立<span facs="../../../gaiji/1-85/1-85-55.png" rend="gaiji" rendition="img" source="※(「木＋爪」、第3水準1-85-55)" />稜（たちそば）<span rend="notes">［＃「立<span facs="../../../gaiji/1-85/1-85-55.png" rend="gaiji" rendition="img" source="※(「木＋爪」、第3水準1-85-55)" />稜（たちそば）」は本文の書き下し文では「立柧<span facs="../../../gaiji/1-85/1-85-78.png" rend="gaiji" rendition="img" source="※(「木＋陵のつくり」、第3水準1-85-78)" />（たちそば）」］</span><lb />
+立<seg facs="../../../gaiji/1-85/1-85-55.png" rend="gaiji" rendition="img" source="※(「木＋爪」、第3水準1-85-55)" />稜（たちそば）<seg rend="notes" rendition="span">［＃「立<seg facs="../../../gaiji/1-85/1-85-55.png" rend="gaiji" rendition="img" source="※(「木＋爪」、第3水準1-85-55)" />稜（たちそば）」は本文の書き下し文では「立柧<seg facs="../../../gaiji/1-85/1-85-78.png" rend="gaiji" rendition="img" source="※(「木＋陵のつくり」、第3水準1-85-78)" />（たちそば）」］</seg><lb />
 橘の大郎女<lb />
 橘の豐日の命<lb />
 橘の中つ比賣の命<lb />
@@ -1776,7 +1776,7 @@
 旦波の國<lb />
 丹波の竹野の別<lb />
 旦波の比古多多須美智能宇斯の王<lb />
-赤海<span facs="../../../gaiji/1-94/1-94-46.png" rend="gaiji" rendition="img" source="※(「魚＋皀＋卩」、第3水準1-94-46)" />（たひ）<lb />
+赤海<seg facs="../../../gaiji/1-94/1-94-46.png" rend="gaiji" rendition="img" source="※(「魚＋皀＋卩」、第3水準1-94-46)" />（たひ）<lb />
 給びし<lb />
 田人<lb />
 多比理岐志麻美の神<lb />
@@ -1784,7 +1784,7 @@
 布の衣褌<lb />
 玉垣<lb />
 玉縵<lb />
-手纒<span rend="notes">［＃「手纒」は本文の書き下し文では「手纏」］</span><lb />
+手纒<seg rend="notes" rendition="span">［＃「手纒」は本文の書き下し文では「手纏」］</seg><lb />
 たまきはる<lb />
 玉釧<lb />
 玉倉部の清泉<lb />
@@ -1798,7 +1798,7 @@
 玉の祖の命<lb />
 玉の祖の連<lb />
 玉の緒ももゆらに<lb />
-玉<span facs="../../../gaiji/1-88/1-88-72.png" rend="gaiji" rendition="img" source="※(「怨」の「心」に代えて「皿」、第3水準1-88-72)" /><lb />
+玉<seg facs="../../../gaiji/1-88/1-88-72.png" rend="gaiji" rendition="img" source="※(「怨」の「心」に代えて「皿」、第3水準1-88-72)" /><lb />
 玉依毘賣<lb />
 田宮の中比賣<lb />
 田村の王<lb />
@@ -1813,7 +1813,7 @@
 手弱腕（たわやがひな）<lb />
 手弱女<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi180">ち</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi180">ち</seg></seg></seg>
 <lb />
 父<lb />
 血浦<lb />
@@ -1853,7 +1853,7 @@
 道守の臣<lb />
 仲哀天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi190">つ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi190">つ</seg></seg></seg>
 <lb />
 杖衝坂<lb />
 高處（つかさ）<lb />
@@ -1911,7 +1911,7 @@
 劔刃<lb />
 つるぎの太刀<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">て</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi200">て</seg></seg></seg>
 <lb />
 帝皇の日繼<lb />
 帝紀<lb />
@@ -1922,7 +1922,7 @@
 天地の開闢<lb />
 天武天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">と</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi210">と</seg></seg></seg>
 <lb />
 とゐ<lb />
 とををとををに<lb />
@@ -1943,7 +1943,7 @@
 常世の長鳴鳥<lb />
 常夜往く<lb />
 地得ぬ玉作<lb />
-<span facs="../../../gaiji/1-91/1-91-31.png" rend="gaiji" rendition="img" source="※(「くさかんむり／解」、第3水準1-91-31)" />葛（ところづら）<lb />
+<seg facs="../../../gaiji/1-91/1-91-31.png" rend="gaiji" rendition="img" source="※(「くさかんむり／解」、第3水準1-91-31)" />葛（ところづら）<lb />
 土佐の國<lb />
 富足る<lb />
 十拳<lb />
@@ -1975,14 +1975,14 @@
 戸山津見の神<lb />
 豐葦原の千秋の長五百秋の水穗の國<lb />
 豐葦原の水穗の國<lb />
-豐石<span facs="../../../gaiji/1-89/1-89-54.png" rend="gaiji" rendition="img" source="※(「窗／心」、第3水準1-89-54)" />の神<lb />
+豐石<seg facs="../../../gaiji/1-89/1-89-54.png" rend="gaiji" rendition="img" source="※(「窗／心」、第3水準1-89-54)" />の神<lb />
 豐木入日子の命<lb />
 豐宇氣毘賣の神<lb />
 豐國<lb />
 豐國の國前の臣<lb />
 豐國別の王<lb />
 豐雲野の神<lb />
-豐<span facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />入日賣の命<lb />
+豐<seg facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />入日賣の命<lb />
 豐戸別の王<lb />
 豐玉毘賣の命<lb />
 豐の樂（あかり）<lb />
@@ -2001,7 +2001,7 @@
 取賣の王<lb />
 鳥山<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">な</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi220">な</seg></seg></seg>
 <lb />
 な<lb />
 波折<lb />
@@ -2065,7 +2065,7 @@
 鳴鏑<lb />
 鳴雷<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">に</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi230">に</seg></seg></seg>
 <lb />
 丹（に）<lb />
 に<lb />
@@ -2089,10 +2089,10 @@
 仁賢天皇<lb />
 仁徳天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">ぬ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi240">ぬ</seg></seg></seg>
 <lb />
 ぬ<lb />
-<span facs="../../../gaiji/1-94/1-94-63.png" rend="gaiji" rendition="img" source="※(「空＋鳥」、第3水準1-94-63)" /><lb />
+<seg facs="../../../gaiji/1-94/1-94-63.png" rend="gaiji" rendition="img" source="※(「空＋鳥」、第3水準1-94-63)" /><lb />
 ぬえくさの<lb />
 糠子の郎女<lb />
 額田の大中つ日女の命<lb />
@@ -2108,13 +2108,13 @@
 沼代の郎女<lb />
 沼帶別の命<lb />
 ぬなとももゆらに<lb />
-蓴（ぬなは）<span rend="notes">［＃「蓴（ぬなは）」は本文の書き下し文では「<span type="ruby"><span type="rb">※</span><span type="rp">（</span><span type="rt">ぬなは</span><span type="rp">）</span></span><span rend="notes">［＃「くさかんむり／溥のつくり」、U+84AA、132-本文-8］</span>」］</span><lb />
+蓴（ぬなは）<seg rend="notes" rendition="span">［＃「蓴（ぬなは）」は本文の書き下し文では「<seg type="ruby"><seg type="rb">※</seg><seg type="rp">（</seg><seg type="rt">ぬなは</seg><seg type="rp">）</seg></seg><seg rend="notes" rendition="span">［＃「くさかんむり／溥のつくり」、U+84AA、132-本文-8］</seg>」］</seg><lb />
 布忍富鳥鳴海の神<lb />
 沼羽田の入毘賣の命<lb />
 ぬばたまの<lb />
 奴理能美<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">ね</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi250">ね</seg></seg></seg>
 <lb />
 ね<lb />
 ねぎ<lb />
@@ -2127,10 +2127,10 @@
 根の臣<lb />
 根の堅州國<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">の</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi260">の</seg></seg></seg>
 <lb />
 の<lb />
-<span facs="../../../gaiji/1-94/1-94-42.png" rend="gaiji" rendition="img" source="※(「魚＋哽のつくり」、第3水準1-94-42)" /><lb />
+<seg facs="../../../gaiji/1-94/1-94-42.png" rend="gaiji" rendition="img" source="※(「魚＋哽のつくり」、第3水準1-94-42)" /><lb />
 虹<lb />
 野椎<lb />
 能登の臣<lb />
@@ -2141,7 +2141,7 @@
 喉（のみと）<lb />
 稽首（のみ）の御幣物<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">は</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi270">は</seg></seg></seg>
 <lb />
 褌<lb />
 羽咋の君<lb />
@@ -2228,10 +2228,10 @@
 春山の霞壯夫<lb />
 反正天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">ひ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi280">ひ</seg></seg></seg>
 <lb />
 梭（ひ）<lb />
-<span facs="../../../gaiji/2-15/2-15-16.png" rend="gaiji" rendition="img" source="※(「木＋威」、第4水準2-15-16)" />（ひ）<lb />
+<seg facs="../../../gaiji/2-15/2-15-16.png" rend="gaiji" rendition="img" source="※(「木＋威」、第4水準2-15-16)" />（ひ）<lb />
 火打<lb />
 稗田の阿禮<lb />
 ひゑね<lb />
@@ -2300,8 +2300,8 @@
 日の神の御子<lb />
 火の君<lb />
 肥の國<lb />
-檜<span facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />の廬入野の宮<lb />
-檜<span facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />の天皇<lb />
+檜<seg facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />の廬入野の宮<lb />
+檜<seg facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />の天皇<lb />
 樋速日の神<lb />
 日の御子<lb />
 日の宮人<lb />
@@ -2339,10 +2339,10 @@
 廣國押建金日の命<lb />
 廣り<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi290">ふ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi290">ふ</seg></seg></seg>
 <lb />
 深淵の水夜禮花の神<lb />
-<span facs="../../../gaiji/2-08/2-08-82.png" rend="gaiji" rendition="img" source="※(「代／巾」、第4水準2-8-82)" />（ふくろ）<lb />
+<seg facs="../../../gaiji/2-08/2-08-82.png" rend="gaiji" rendition="img" source="※(「代／巾」、第4水準2-8-82)" />（ふくろ）<lb />
 伏雷<lb />
 布勢の君<lb />
 兩兒の島<lb />
@@ -2373,7 +2373,7 @@
 武烈天皇<lb />
 文命<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">へ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi300">へ</seg></seg></seg>
 <lb />
 幣岐の君<lb />
 平群の臣<lb />
@@ -2392,15 +2392,15 @@
 蛇のひれ<lb />
 蛇の室<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi310">ほ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi310">ほ</seg></seg></seg>
 <lb />
 火遠理の命<lb />
 壽歌の片歌<lb />
 矛<lb />
 星川の臣<lb />
 火須勢理の命<lb />
-熟<span facs="../../../gaiji/1-90/1-90-73.png" rend="gaiji" rendition="img" source="※(「くさかんむり／瓜」、第3水準1-90-73)" /><lb />
-秀<span facs="../../../gaiji/1-90/1-90-25.png" rend="gaiji" rendition="img" source="※(「缶＋墫のつくり」、第3水準1-90-25)" /><lb />
+熟<seg facs="../../../gaiji/1-90/1-90-73.png" rend="gaiji" rendition="img" source="※(「くさかんむり／瓜」、第3水準1-90-73)" /><lb />
+秀<seg facs="../../../gaiji/1-90/1-90-25.png" rend="gaiji" rendition="img" source="※(「缶＋墫のつくり」、第3水準1-90-25)" /><lb />
 穗積の臣<lb />
 ほつもり<lb />
 火照の命<lb />
@@ -2408,7 +2408,7 @@
 富登多多良伊須須岐比賣の命<lb />
 ほとほとに<lb />
 火の雷<lb />
-火の<span facs="../../../gaiji/1-87/1-87-39.png" rend="gaiji" rendition="img" source="※(「火＋玄」、第3水準1-87-39)" />毘古の神<span rend="notes">［＃「火の<span facs="../../../gaiji/1-87/1-87-39.png" rend="gaiji" rendition="img" source="※(「火＋玄」、第3水準1-87-39)" />毘古の神」は底本では「火の※<span rend="notes">［＃「りっしんべん＋玄」、U+6030、418-3-22］</span>毘古の神」］</span><lb />
+火の<seg facs="../../../gaiji/1-87/1-87-39.png" rend="gaiji" rendition="img" source="※(「火＋玄」、第3水準1-87-39)" />毘古の神<seg rend="notes" rendition="span">［＃「火の<seg facs="../../../gaiji/1-87/1-87-39.png" rend="gaiji" rendition="img" source="※(「火＋玄」、第3水準1-87-39)" />毘古の神」は底本では「火の※<seg rend="notes" rendition="span">［＃「りっしんべん＋玄」、U+6030、418-3-22］</seg>毘古の神」］</seg><lb />
 火の迦具土の神<lb />
 番の仁岐の命<lb />
 火の穗の王<lb />
@@ -2424,7 +2424,7 @@
 堀江<lb />
 本辭<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi320">ま</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi320">ま</seg></seg></seg>
 <lb />
 眞男鹿<lb />
 禍（まが）<lb />
@@ -2436,7 +2436,7 @@
 勾の金箸の宮<lb />
 まがれ<lb />
 眞木の灰<lb />
-纒向の日代の宮<span rend="notes">［＃「纒向の日代の宮」は本文の書き下し文では「<span type="ruby"><span type="rb">纏向</span><span type="rp">（</span><span type="rt">まきむく</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">日代</span><span type="rp">（</span><span type="rt">ひしろ</span><span type="rp">）</span></span>の宮」］</span><lb />
+纒向の日代の宮<seg rend="notes" rendition="span">［＃「纒向の日代の宮」は本文の書き下し文では「<seg type="ruby"><seg type="rb">纏向</seg><seg type="rp">（</seg><seg type="rt">まきむく</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">日代</seg><seg type="rp">（</seg><seg type="rt">ひしろ</seg><seg type="rp">）</seg></seg>の宮」］</seg><lb />
 まく<lb />
 目合ひ<lb />
 ま杙<lb />
@@ -2452,7 +2452,7 @@
 ま玉手<lb />
 待酒<lb />
 貧鉤<lb />
-末羅縣<span rend="notes">［＃「末羅縣」は底本では「未羅縣」］</span><lb />
+末羅縣<seg rend="notes" rendition="span">［＃「末羅縣」は底本では「未羅縣」］</seg><lb />
 政<lb />
 伏はぬ人<lb />
 眞砥野比賣の命<lb />
@@ -2474,7 +2474,7 @@
 麻呂古の王<lb />
 眞若の王<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi330">み</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi330">み</seg></seg></seg>
 <lb />
 御呉床<lb />
 御合<lb />
@@ -2518,7 +2518,7 @@
 美島<lb />
 三島の藍の陵<lb />
 三島の湟咋<lb />
-御<span facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />友耳建日子<lb />
+御<seg facs="../../../gaiji/1-93/1-93-12.png" rend="gaiji" rendition="img" source="※(「金＋且」、第3水準1-93-12)" />友耳建日子<lb />
 御統（みすまる）<lb />
 見しめき<lb />
 禊ぎ<lb />
@@ -2570,7 +2570,7 @@
 御火燒の老人<lb />
 御嚢<lb />
 三重の子<lb />
-三重の※<span rend="notes">［＃「女＋綵のつくり」、U+5A47、420-2-12］</span>（うねめ）<lb />
+三重の※<seg rend="notes" rendition="span">［＃「女＋綵のつくり」、U+5A47、420-2-12］</seg>（うねめ）<lb />
 三重の村<lb />
 御陰（みほと）<lb />
 鳰鳥（みほどり）<lb />
@@ -2596,7 +2596,7 @@
 宮主矢河枝比賣<lb />
 宮の首の別<lb />
 宮人<lb />
-<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />る<lb />
+<seg facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />る<lb />
 美呂浪の神<lb />
 三勾（みわ）<lb />
 美和<lb />
@@ -2604,7 +2604,7 @@
 神（みわ）の君<lb />
 美和山<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi340">む</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi340">む</seg></seg></seg>
 <lb />
 呉公<lb />
 呉公蜂のひれ<lb />
@@ -2616,9 +2616,9 @@
 无耶志の國の造<lb />
 牟耶の臣<lb />
 蒸被<lb />
-※<span rend="notes">［＃「匈／（胃−田）」、U+80F7、420-4-7］</span>形<lb />
-※<span rend="notes">［＃「匈／（胃−田）」、U+80F7、420-4-8］</span>形の君<lb />
-※<span rend="notes">［＃「匈／（胃−田）」、U+80F7、420-4-9］</span>乳<lb />
+※<seg rend="notes" rendition="span">［＃「匈／（胃−田）」、U+80F7、420-4-7］</seg>形<lb />
+※<seg rend="notes" rendition="span">［＃「匈／（胃−田）」、U+80F7、420-4-8］</seg>形の君<lb />
+※<seg rend="notes" rendition="span">［＃「匈／（胃−田）」、U+80F7、420-4-9］</seg>乳<lb />
 徒手<lb />
 胸見る<lb />
 連<lb />
@@ -2627,7 +2627,7 @@
 室毘古の王<lb />
 室毘古の王<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi350">め</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi350">め</seg></seg></seg>
 <lb />
 牝馬<lb />
 目子の郎女<lb />
@@ -2635,7 +2635,7 @@
 女鳥の王<lb />
 海布（め）の柄<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi360">も</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi360">も</seg></seg></seg>
 <lb />
 も<lb />
 もが<lb />
@@ -2670,7 +2670,7 @@
 守の君<lb />
 諸縣（もらがた）<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi370">や</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi370">や</seg></seg></seg>
 <lb />
 や<lb />
 八稚女<lb />
@@ -2684,7 +2684,7 @@
 やくさみ<lb />
 八坂の入日子の命<lb />
 八坂の入日賣の命<lb />
-八尺の勾<span facs="../../../gaiji/2-80/2-80-88.png" rend="gaiji" rendition="img" source="※(「王＋總のつくり」、第4水準2-80-88)" />の五百津の御統の珠<lb />
+八尺の勾<seg facs="../../../gaiji/2-80/2-80-88.png" rend="gaiji" rendition="img" source="※(「王＋總のつくり」、第4水準2-80-88)" />の五百津の御統の珠<lb />
 矢刺し<lb />
 八鹽折<lb />
 八鹽折の酒<lb />
@@ -2697,7 +2697,7 @@
 やすみしし<lb />
 八十膳夫<lb />
 八十神<lb />
-八十<span facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />手<lb />
+八十<seg facs="../../../gaiji/1-15/1-15-39.png" rend="gaiji" rendition="img" source="※(「土へん＋炯のつくり」、第3水準1-15-39)" />手<lb />
 八十建<lb />
 八十歳<lb />
 八十伴の緒<lb />
@@ -2730,7 +2730,7 @@
 八百萬の神<lb />
 八俣の大蛇<lb />
 山縣<lb />
-山佐知毘古<span rend="notes">［＃「山佐知毘古」は底本では「山佐智毘古」］</span><lb />
+山佐知毘古<seg rend="notes" rendition="span">［＃「山佐知毘古」は底本では「山佐智毘古」］</seg><lb />
 山下影日賣<lb />
 山代<lb />
 山代河<lb />
@@ -2770,7 +2770,7 @@
 山の邊の道の勾の岡<lb />
 山の御尾<lb />
 山部<lb />
-山邊の大<span facs="../../../gaiji/2-94/2-94-28.png" rend="gaiji" rendition="img" source="※(「帝＋鳥」、第4水準2-94-28)" /><lb />
+山邊の大<seg facs="../../../gaiji/2-94/2-94-28.png" rend="gaiji" rendition="img" source="※(「帝＋鳥」、第4水準2-94-28)" /><lb />
 山部の大楯の連<lb />
 山部の連小楯<lb />
 山邊の別<lb />
@@ -2778,7 +2778,7 @@
 山百合草<lb />
 病猪<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi380">ゆ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi380">ゆ</seg></seg></seg>
 <lb />
 雄略天皇<lb />
 湯坐の連<lb />
@@ -2799,7 +2799,7 @@
 由良の門<lb />
 ゆらみ<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi390">よ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi390">よ</seg></seg></seg>
 <lb />
 よ<lb />
 用明天皇<lb />
@@ -2825,20 +2825,20 @@
 よろし<lb />
 萬幡豐秋津師比賣の命<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi400">ら</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi400">ら</seg></seg></seg>
 <lb />
 らし<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi410">り</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi410">り</seg></seg></seg>
 <lb />
 履中天皇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi420">ろ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi420">ろ</seg></seg></seg>
 <lb />
 ろ<lb />
 論語<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi430">わ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi430">わ</seg></seg></seg>
 <lb />
 若葦<lb />
 若木の入日子の王<lb />
@@ -2880,15 +2880,15 @@
 別<lb />
 わしせ<lb />
 妖（わざはひ）<lb />
-<span facs="../../../gaiji/1-94/1-94-72.png" rend="gaiji" rendition="img" source="※(「顫のへん＋鳥」、第3水準1-94-72)" />比賣<lb />
+<seg facs="../../../gaiji/1-94/1-94-72.png" rend="gaiji" rendition="img" source="※(「顫のへん＋鳥」、第3水準1-94-72)" />比賣<lb />
 綿津見の大神<lb />
 海（わた）の神<lb />
 渡の屯家<lb />
 度相<lb />
 渡の神<lb />
-煩累の大人の神<span rend="notes">［＃「煩累の大人の神」は底本では「頬累の大人の神」］</span><lb />
+煩累の大人の神<seg rend="notes" rendition="span">［＃「煩累の大人の神」は底本では「頬累の大人の神」］</seg><lb />
 和知都美の命<lb />
-吾鳥<span rend="notes">［＃「吾鳥」は底本では「和鳥」］</span><lb />
+吾鳥<seg rend="notes" rendition="span">［＃「吾鳥」は底本では「和鳥」］</seg><lb />
 わななき<lb />
 和那美の水門<lb />
 鰐<lb />
@@ -2904,6 +2904,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

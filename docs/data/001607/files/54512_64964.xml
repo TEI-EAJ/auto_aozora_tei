@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-05-27">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：フクポー<lb />
@@ -31,30 +31,30 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span type="ruby"><span type="rb">神無月</span><span type="rp">（</span><span type="rt">かみなづき</span><span type="rp">）</span></span>、日は<span type="ruby"><span type="rb">淡々</span><span type="rp">（</span><span type="rt">あは／＼</span><span type="rp">）</span></span>と<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg type="ruby"><seg type="rb">神無月</seg><seg type="rp">（</seg><seg type="rt">かみなづき</seg><seg type="rp">）</seg></seg>、日は<seg type="ruby"><seg type="rb">淡々</seg><seg type="rp">（</seg><seg type="rt">あは／＼</seg><seg type="rp">）</seg></seg>と<lb />
 夕ぐれの雲ににほへば、<lb />
-<span type="ruby"><span type="rb">眼路</span><span type="rp">（</span><span type="rt">めぢ</span><span type="rp">）</span></span>ひくき<span type="ruby"><span type="rb">彼方</span><span type="rp">（</span><span type="rt">かなた</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">薄</span><span type="rp">（</span><span type="rt">うす</span><span type="rp">）</span></span>れ<lb />
-あはれなる<span type="ruby"><span type="rb">遠樹</span><span type="rp">（</span><span type="rt">えんじゆ</span><span type="rp">）</span></span>ぞ見ゆる。<lb />
-<span type="ruby"><span type="rb">畦</span><span type="rp">（</span><span type="rt">あぜ</span><span type="rp">）</span></span>をゆく<span type="ruby"><span type="rb">斑</span><span type="rp">（</span><span type="rt">まだら</span><span type="rp">）</span></span>の牛と<lb />
-<span type="ruby"><span type="rb">黄牛</span><span type="rp">（</span><span type="rt">あめうし</span><span type="rp">）</span></span>は声も<span type="ruby"><span type="rb">慵</span><span type="rp">（</span><span type="rt">ものう</span><span type="rp">）</span></span>く、<lb />
-今は皆<span type="ruby"><span type="rb">刑</span><span type="rp">（</span><span type="rt">しおき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">場</span><span type="rp">（</span><span type="rt">には</span><span type="rp">）</span></span>に<lb />
-皮<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>がれ紅く伏しなむ、<lb />
+<seg type="ruby"><seg type="rb">眼路</seg><seg type="rp">（</seg><seg type="rt">めぢ</seg><seg type="rp">）</seg></seg>ひくき<seg type="ruby"><seg type="rb">彼方</seg><seg type="rp">（</seg><seg type="rt">かなた</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">薄</seg><seg type="rp">（</seg><seg type="rt">うす</seg><seg type="rp">）</seg></seg>れ<lb />
+あはれなる<seg type="ruby"><seg type="rb">遠樹</seg><seg type="rp">（</seg><seg type="rt">えんじゆ</seg><seg type="rp">）</seg></seg>ぞ見ゆる。<lb />
+<seg type="ruby"><seg type="rb">畦</seg><seg type="rp">（</seg><seg type="rt">あぜ</seg><seg type="rp">）</seg></seg>をゆく<seg type="ruby"><seg type="rb">斑</seg><seg type="rp">（</seg><seg type="rt">まだら</seg><seg type="rp">）</seg></seg>の牛と<lb />
+<seg type="ruby"><seg type="rb">黄牛</seg><seg type="rp">（</seg><seg type="rt">あめうし</seg><seg type="rp">）</seg></seg>は声も<seg type="ruby"><seg type="rb">慵</seg><seg type="rp">（</seg><seg type="rt">ものう</seg><seg type="rp">）</seg></seg>く、<lb />
+今は皆<seg type="ruby"><seg type="rb">刑</seg><seg type="rp">（</seg><seg type="rt">しおき</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">場</seg><seg type="rp">（</seg><seg type="rt">には</seg><seg type="rp">）</seg></seg>に<lb />
+皮<seg type="ruby"><seg type="rb">剥</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>がれ紅く伏しなむ、<lb />
 かく思ひ定めし如く<lb />
 とぼとぼと霧にまぎれぬ。<lb />
-<span type="ruby"><span type="rb">素枯野</span><span type="rp">（</span><span type="rt">すがれの</span><span type="rp">）</span></span>のあなた、<span type="ruby"><span type="rb">沼尻</span><span type="rp">（</span><span type="rt">ぬじり</span><span type="rp">）</span></span>の、<lb />
-<span type="ruby"><span type="rb">荻</span><span type="rp">（</span><span type="rt">をぎ</span><span type="rp">）</span></span>すすき折れ伏す所、<lb />
-ああ如何に<span type="ruby"><span type="rb">髑髏</span><span type="rp">（</span><span type="rt">どくろ</span><span type="rp">）</span></span>を洗ふ<lb />
+<seg type="ruby"><seg type="rb">素枯野</seg><seg type="rp">（</seg><seg type="rt">すがれの</seg><seg type="rp">）</seg></seg>のあなた、<seg type="ruby"><seg type="rb">沼尻</seg><seg type="rp">（</seg><seg type="rt">ぬじり</seg><seg type="rp">）</seg></seg>の、<lb />
+<seg type="ruby"><seg type="rb">荻</seg><seg type="rp">（</seg><seg type="rt">をぎ</seg><seg type="rp">）</seg></seg>すすき折れ伏す所、<lb />
+ああ如何に<seg type="ruby"><seg type="rb">髑髏</seg><seg type="rp">（</seg><seg type="rt">どくろ</seg><seg type="rp">）</seg></seg>を洗ふ<lb />
 冬の水音して落ちむ。<lb />
 ひえひえと身に泌む寒さ、<lb />
 われは今いづこ歩むや、<lb />
 ふと思ふ、ああ人の世も<lb />
-ここにして<span type="ruby"><span type="rb">終極</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>にかあらむ。<lb />
+ここにして<seg type="ruby"><seg type="rb">終極</seg><seg type="rp">（</seg><seg type="rt">はて</seg><seg type="rp">）</seg></seg>にかあらむ。<lb />
 下り坂をぐらくなりて<lb />
 見るかぎり煙うづまく。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

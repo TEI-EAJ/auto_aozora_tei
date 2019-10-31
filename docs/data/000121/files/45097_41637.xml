@@ -35,14 +35,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ごろぜみ、ごつとん<lb />
 でろよ。<lb />
 <lb />
 月夜に、つちから<lb />
 でろよ。<lb />
 <lb />
-<span type="ruby"><span type="rb">合歓</span><span type="rp">（</span><span type="rt">ねむ</span><span type="rp">）</span></span>の木、ねもとは<lb />
+<seg type="ruby"><seg type="rb">合歓</seg><seg type="rp">（</seg><seg type="rt">ねむ</seg><seg type="rp">）</seg></seg>の木、ねもとは<lb />
 にほふよ、<lb />
 <lb />
 花だか、土だか<lb />
@@ -56,6 +56,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

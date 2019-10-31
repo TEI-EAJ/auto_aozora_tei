@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2006-12-30">作成</resp><resp /><note>
 <lb />
-底本：「豊島与志雄著作集　第五巻（小説5<span rend="notes">［＃「5」はローマ数字、1-13-25］</span>・戯曲）」未来社
+底本：「豊島与志雄著作集　第五巻（小説5<seg rend="notes" rendition="span">［＃「5」はローマ数字、1-13-25］</seg>・戯曲）」未来社
 <lb />
 　　　1966（昭和41）年11月15日第1刷発行<lb />
 初出：「読売評論」<lb />
@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -167,6 +167,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

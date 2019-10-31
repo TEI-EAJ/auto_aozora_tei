@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-06-27">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 底本の親本：「沖縄毎日新聞」<lb />
 　　　1909（明治42）年5月25日<lb />
@@ -35,15 +35,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 囚人来る赤き衣の<lb />
-囚人来る<span type="ruby"><span type="rb">暴風</span><span type="rp">（</span><span type="rt">あらしの</span><span type="rp">）</span></span>雨中を<lb />
+囚人来る<seg type="ruby"><seg type="rb">暴風</seg><seg type="rp">（</seg><seg type="rt">あらしの</seg><seg type="rp">）</seg></seg>雨中を<lb />
 荷へるをふとみむくれば、<lb />
 己を責む戒具と戒具と。<lb />
 人皆は恋の囚人、<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

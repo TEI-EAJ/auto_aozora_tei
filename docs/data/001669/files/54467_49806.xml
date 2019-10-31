@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2013-01-14">作成</resp><resp /><note>
 <lb />
-底本：「大倉<span facs="../../../gaiji/1-87/1-87-62.png" rend="gaiji" rendition="img" source="※(「火＋華」、第3水準1-87-62)" />子探偵小説選」論創社<lb />
+底本：「大倉<seg facs="../../../gaiji/1-87/1-87-62.png" rend="gaiji" rendition="img" source="※(「火＋華」、第3水準1-87-62)" />子探偵小説選」論創社<lb />
 　　　2011（平成23）年4月30日初版第1刷発行<lb />
 底本の親本：「仮面　三巻三号」<lb />
 　　　1948（昭和23）年5月号<lb />
@@ -35,8 +35,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">１</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">１</seg></seg></seg>
 <lb />
 　私が玄関の格子を開けると、母が馳け出して来て、<lb />
 「御殿山の東山さんからお使いが見えたよ、今朝っから、三度も」と急きこむように云った。<lb />
@@ -95,7 +95,7 @@
 　と、彼は封筒をよこした。私は差出人の名を見てちょっとびっくりした。それはいま売り出しの流行歌手、しかも評判のいい青年であった。<lb />
 <lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">２</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">２</seg></seg></seg>
 <lb />
 　翌日私は青年を訪問した。<lb />
 　彼は少しも悪びれず、私を応接室に通して、<lb />
@@ -129,7 +129,7 @@
 　浮世離れたこの一室は美耶子のあこがれの世界なのであろうか。彼女ばかりでなく、青年まで、いや侍女までが何となく精神病者でもあるような気がする、そこの空気全体が狂っているような感じで、私までいつかだんだんと引き込まれそうな気がしたので、いそいで部屋を飛び出してしまった。<lb />
 <lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">３</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">３</seg></seg></seg>
 <lb />
 　応接室に戻ってほっとしていると、後を追って来た青年は私と差向いの椅子に腰かけて、静かに語り出した。<lb />
 「話は二十年前に溯らなければなりません。みよりというもののない美耶子は生きるために夜の女になったのです。それよりほかに道がなかった。毎夜往来に出て客を拾うのですが、ある雪の降る寒い晩、生憎と一人の客も掴まらない、恰度その頃彼女は誰の子とも分らない嬰児を生んだばかりで、勿論嬰児はそのまま産院に預けてしまったが、彼女はその夜一文の収入もないのと、無暗と乳の張るのとに苦しまなければならなかったのです。<lb />
@@ -168,6 +168,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

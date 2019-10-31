@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-02-25">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：フクポー<lb />
@@ -31,17 +31,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 吾は思ふ　淋しさを<lb />
 吾は思ふ　愛の淋しきを<lb />
 <lb />
 吾は思ふなり　母の愛を<lb />
 吾は思ふなり　友の愛を<lb />
-ああ　いかなる<span type="ruby"><span type="rb">縁</span><span type="rp">（</span><span type="rt">えにし</span><span type="rp">）</span></span>あればぞ<lb />
+ああ　いかなる<seg type="ruby"><seg type="rb">縁</seg><seg type="rp">（</seg><seg type="rt">えにし</seg><seg type="rp">）</seg></seg>あればぞ<lb />
 母、吾を生み<lb />
-いかなる<span type="ruby"><span type="rb">縁</span><span type="rp">（</span><span type="rt">えにし</span><span type="rp">）</span></span>あればぞ<lb />
+いかなる<seg type="ruby"><seg type="rb">縁</seg><seg type="rp">（</seg><seg type="rt">えにし</seg><seg type="rp">）</seg></seg>あればぞ<lb />
 君又吾と知り　今吾が為に<lb />
-かくも真心もて<span type="ruby"><span type="rb">看護</span><span type="rp">（</span><span type="rt">みとり</span><span type="rp">）</span></span>の氷嚢など取り返へゐるぞ<lb />
+かくも真心もて<seg type="ruby"><seg type="rb">看護</seg><seg type="rp">（</seg><seg type="rt">みとり</seg><seg type="rp">）</seg></seg>の氷嚢など取り返へゐるぞ<lb />
 <lb />
 吾は思ふなり　愛の淋しきを<lb />
 吾は思ふなり　大空の寂寥を<lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

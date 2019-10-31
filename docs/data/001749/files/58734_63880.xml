@@ -14,12 +14,13 @@
 底本の親本：「定本三好達治全詩集」筑摩書房<lb />
 　　　1962（昭和37）年3月30日<lb />
 初出：「改造　一八卷一號」<lb />
-　　　1935（昭和10）年1月<lb />
+　　　1936（昭和11）年1月<lb />
 入力：kompass<lb />
 校正：大久保　知美<lb />
 <date when="2018-01-27">2018年1月27日</date>作成<lb />
+<date when="2019-08-10">2019年8月10日</date>修正<lb />
 青空文庫作成ファイル：<lb />
-このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
       <respStmt><resp>Aozora Transcription</resp><name>kompass</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>大久保　知美</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
       <publicationStmt>
         <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
@@ -35,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 十一月の夜をこめて　雪はふる　雪はふる<lb />
 黄色なランプの灯の洩れる　私の窗にたづね寄る　雪の子供ら<lb />
 小さな手が玻璃戸を敲く　玻璃戸を敲く　敲く　さうしてそこに<lb />
@@ -43,6 +44,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

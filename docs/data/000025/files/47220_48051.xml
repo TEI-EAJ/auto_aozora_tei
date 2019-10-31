@@ -33,22 +33,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="notes">［＃ページの左右中央］</span><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="notes" rendition="span">［＃ページの左右中央］</seg><lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">ドモ又の死</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">（これはマーク・トウェインの小話から暗示を得て書いたものだ）</span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">ドモ又の死</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">（これはマーク・トウェインの小話から暗示を得て書いたものだ）</seg>
 <lb />
 <lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 　人物<lb />
 <lb />
 花田　　　　　　　　　　┐<lb />
-沢本　（<span type="ruby"><span type="rb">諢名</span><span type="rp">（</span><span type="rt">あだな</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">生蕃</span><span type="rp">（</span><span type="rt">せいばん</span><span type="rp">）</span></span>）　　│<lb />
-戸部　（諢名、ドモ<span type="ruby"><span type="rb">又</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>）　├若き画家<lb />
+沢本　（<seg type="ruby"><seg type="rb">諢名</seg><seg type="rp">（</seg><seg type="rt">あだな</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">生蕃</seg><seg type="rp">（</seg><seg type="rt">せいばん</seg><seg type="rp">）</seg></seg>）　　│<lb />
+戸部　（諢名、ドモ<seg type="ruby"><seg type="rb">又</seg><seg type="rp">（</seg><seg type="rt">また</seg><seg type="rp">）</seg></seg>）　├若き画家<lb />
 瀬古　（諢名、若様）　　│<lb />
 青島　　　　　　　　　　┘<lb />
 とも子　　　モデルの娘<lb />
@@ -60,81 +60,81 @@
 　時<lb />
 <lb />
 現代　気候のよい時節<lb />
-</span>
-<span rend="notes">［＃改丁］</span><lb />
+</seg>
+<seg rend="notes" rendition="span">［＃改丁］</seg><lb />
 <lb />
 <lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">沢本と瀬古とがとも子をモデルにして画架に向かっている。戸部は物憂そうに床の上に<span type="ruby"><span type="rb">臥</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>ころんでいる。</span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">沢本と瀬古とがとも子をモデルにして画架に向かっている。戸部は物憂そうに床の上に<seg type="ruby"><seg type="rb">臥</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>ころんでいる。</seg>
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　（瀬古に）おい瀬古、ドモ又がうなっているぞ、死ぬんじゃあるまいな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕も全くうなりたくなるねえ、死にたくなるねえ。……ともちゃん、おまえもおなかがすいたろう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　もう物をいってもいいの、若様。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　いいよ。おなかがすいたろう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　そんなでもないことよ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　（瀬古に）おい瀬古、ドモ又がうなっているぞ、死ぬんじゃあるまいな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕も全くうなりたくなるねえ、死にたくなるねえ。……ともちゃん、おまえもおなかがすいたろう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　もう物をいってもいいの、若様。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　いいよ。おなかがすいたろう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　そんなでもないことよ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 戸部うなる。<lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
 どうしたの、戸部さん、あなた死ぬとこなの。まだ早いわ。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ともちゃんはここに来る前に何か食べて来たね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ええ食べてよ、おはぎを。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　黙れ黙れ。ああ<span type="ruby"><span type="rb">俺</span><span type="rp">（</span><span type="rt">おれ</span><span type="rp">）</span></span>はもうだめだ。（腹をかかえる）つばも出なくなっちまいやがった。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ふうん、おはぎを……<span type="ruby"><span type="rb">強勢</span><span type="rp">（</span><span type="rt">ごうせい</span><span type="rp">）</span></span>だなあ、いくつ食べたい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　まあいやな瀬古さん。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そうしておはぎはあんこのかい、きなこのかい、それとも<span type="ruby"><span type="rb">胡麻</span><span type="rp">（</span><span type="rt">ごま</span><span type="rp">）</span></span>……白状おし、どれをいくつ……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　瀬古やめないか、俺はほんとうに怒るぞ。<span type="ruby"><span type="rb">飢</span><span type="rp">（</span><span type="rt">ひも</span><span type="rp">）</span></span>じい時にそんな話をする<span type="ruby"><span type="rb">奴</span><span type="rp">（</span><span type="rt">やつ</span><span type="rp">）</span></span>が……ああ俺はもうだめだ。三日食わないんだ、三日。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　沢本は生蕃だけに芸術家として想像力に乏しいよ。僕が今ここにおはぎを出すから見てろ――じゃない聞いてろ。ともちゃんが家を出ようとすると、お母さんが「ともや、ここにこんなものが取ってあるから食べておいでな」といって、<span type="ruby"><span type="rb">鼠</span><span type="rp">（</span><span type="rt">ねずみ</span><span type="rp">）</span></span>入らずの中から、ラーヴェンダー色のあんこと、ネープルス・エローのきなこと、あのヴェラスケスが用いたというプァーリッシ・グレーの胡麻……</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ともちゃんはここに来る前に何か食べて来たね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ええ食べてよ、おはぎを。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　黙れ黙れ。ああ<seg type="ruby"><seg type="rb">俺</seg><seg type="rp">（</seg><seg type="rt">おれ</seg><seg type="rp">）</seg></seg>はもうだめだ。（腹をかかえる）つばも出なくなっちまいやがった。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ふうん、おはぎを……<seg type="ruby"><seg type="rb">強勢</seg><seg type="rp">（</seg><seg type="rt">ごうせい</seg><seg type="rp">）</seg></seg>だなあ、いくつ食べたい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　まあいやな瀬古さん。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そうしておはぎはあんこのかい、きなこのかい、それとも<seg type="ruby"><seg type="rb">胡麻</seg><seg type="rp">（</seg><seg type="rt">ごま</seg><seg type="rp">）</seg></seg>……白状おし、どれをいくつ……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　瀬古やめないか、俺はほんとうに怒るぞ。<seg type="ruby"><seg type="rb">飢</seg><seg type="rp">（</seg><seg type="rt">ひも</seg><seg type="rp">）</seg></seg>じい時にそんな話をする<seg type="ruby"><seg type="rb">奴</seg><seg type="rp">（</seg><seg type="rt">やつ</seg><seg type="rp">）</seg></seg>が……ああ俺はもうだめだ。三日食わないんだ、三日。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　沢本は生蕃だけに芸術家として想像力に乏しいよ。僕が今ここにおはぎを出すから見てろ――じゃない聞いてろ。ともちゃんが家を出ようとすると、お母さんが「ともや、ここにこんなものが取ってあるから食べておいでな」といって、<seg type="ruby"><seg type="rb">鼠</seg><seg type="rp">（</seg><seg type="rt">ねずみ</seg><seg type="rp">）</seg></seg>入らずの中から、ラーヴェンダー色のあんこと、ネープルス・エローのきなこと、あのヴェラスケスが用いたというプァーリッシ・グレーの胡麻……</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 戸部うなり声を立てる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　だから貴様は若様だなんて<span type="ruby"><span type="rb">軽蔑</span><span type="rp">（</span><span type="rt">けいべつ</span><span type="rp">）</span></span>されるんだ。そんなだらしのない空想が俺たちの芸術に取ってなんの足しになると思ってるんだ。俺たちは真実の世界に立脚して、根強い作品を<span type="ruby"><span type="rb">創</span><span type="rp">（</span><span type="rt">つく</span><span type="rp">）</span></span>り出さなければならないんだ。だから……俺は残念ながら腹が<span rend="sesame_dot" rendition="em">からっぽ</span>で、頭まで少し変になったようだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　生蕃さんはふだんあんまり大食いをするから、こんな時に困るんだわ。……それにしてもどうしてここにいる人たちの<span type="ruby"><span type="rb">画</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>はこんなに売れないんでしょうねえ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　わかり切っているじゃないか。俺たちがりっぱなものを描くからだ……世の中の奴には俺たちの仕事がわからないんだ……ああ俺はもうだめだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ともちゃん、そのおはぎの舌ざわりはいったいどんなだったい……僕には今日はおはぎがシスティン・マドンナの胸のように想像されるよ。ともちゃん、おまえのその帯の間に、マドンナの胸の肉を少しばかり買う金がありゃしないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なかったわ。私ずいぶん長い間なんにももらわないんですもの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　許しておくれ、ともちゃん、僕たちはおまえんちの貧乏もよく知ってるんだが……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　悪い悪い。そんなに長くなんにも君にやらなかったかい。俺たちは全く悪いや。待てよ、と。ない。ないはずだ。今ごろやる物があるくらいなら<span type="ruby"><span type="rb">遠</span><span type="rp">（</span><span type="rt">とお</span><span type="rp">）</span></span>の昔にやっているんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　お母さん怒らないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　<span type="ruby"><span type="rb">偶</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>にいやな顔はしてよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　じゃ君は、もうここには寄りつかなくなるね。（うなる）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　そんなこと……よけいなお世話よ。私のしたいようにするんだから。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　瀬古の若様がひかえている間は大丈夫だが……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　人聞きの悪い……よしてください。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　だから貴様は若様だなんて<seg type="ruby"><seg type="rb">軽蔑</seg><seg type="rp">（</seg><seg type="rt">けいべつ</seg><seg type="rp">）</seg></seg>されるんだ。そんなだらしのない空想が俺たちの芸術に取ってなんの足しになると思ってるんだ。俺たちは真実の世界に立脚して、根強い作品を<seg type="ruby"><seg type="rb">創</seg><seg type="rp">（</seg><seg type="rt">つく</seg><seg type="rp">）</seg></seg>り出さなければならないんだ。だから……俺は残念ながら腹が<seg rend="sesame_dot" rendition="em">からっぽ</seg>で、頭まで少し変になったようだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　生蕃さんはふだんあんまり大食いをするから、こんな時に困るんだわ。……それにしてもどうしてここにいる人たちの<seg type="ruby"><seg type="rb">画</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>はこんなに売れないんでしょうねえ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　わかり切っているじゃないか。俺たちがりっぱなものを描くからだ……世の中の奴には俺たちの仕事がわからないんだ……ああ俺はもうだめだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ともちゃん、そのおはぎの舌ざわりはいったいどんなだったい……僕には今日はおはぎがシスティン・マドンナの胸のように想像されるよ。ともちゃん、おまえのその帯の間に、マドンナの胸の肉を少しばかり買う金がありゃしないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なかったわ。私ずいぶん長い間なんにももらわないんですもの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　許しておくれ、ともちゃん、僕たちはおまえんちの貧乏もよく知ってるんだが……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　悪い悪い。そんなに長くなんにも君にやらなかったかい。俺たちは全く悪いや。待てよ、と。ない。ないはずだ。今ごろやる物があるくらいなら<seg type="ruby"><seg type="rb">遠</seg><seg type="rp">（</seg><seg type="rt">とお</seg><seg type="rp">）</seg></seg>の昔にやっているんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　お母さん怒らないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　<seg type="ruby"><seg type="rb">偶</seg><seg type="rp">（</seg><seg type="rt">たま</seg><seg type="rp">）</seg></seg>にいやな顔はしてよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　じゃ君は、もうここには寄りつかなくなるね。（うなる）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　そんなこと……よけいなお世話よ。私のしたいようにするんだから。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　瀬古の若様がひかえている間は大丈夫だが……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　人聞きの悪い……よしてください。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 戸部うなる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ともちゃん、頼むから毎日来ておくれ。頼むよ。僕たちは一人残らずおまえを崇拝しているんだ。おまえが帰ると、この画室の中は荒野同様だ。僕たちは寄ってたかっておまえを<span type="ruby"><span type="rb">讃美</span><span type="rp">（</span><span type="rt">さんび</span><span type="rp">）</span></span>して夜を<span type="ruby"><span type="rb">更</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>かすんだよ。もっともこのごろは、あまり夜更かしをすると、なおのこと腹がすくんで、少し控え気味にはしているがね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なんて讃美するの。ともの奴はおかめっ<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>のあばずれだって。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　だが収入がなくっちゃおまえんちも暮らせないね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　知れたこってすわ、<span type="ruby"><span type="rb">馬鹿</span><span type="rp">（</span><span type="rt">ばか</span><span type="rp">）</span></span>馬鹿しい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　じゃやはりドモ又がいったように、君はどこかに岸をかえるんだな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さあねえ。そうするよりしかたがないわね。私はいったい画伯とか先生とかのくっ付いた画かきが大きらいなんだけれども、……いやよ、ほんとうにあいつらは……なんていうと、お高くとまる癖にひとの<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>にさわってみたがったりして……けれどもお金にはなるわね。あなたがたみたいに食べるものもなくなっちゃ私は半日だってやり切れないわ。大の男が五人も寄ってる癖に全くあなたがたは<span type="ruby"><span type="rb">甲斐性</span><span type="rp">（</span><span type="rt">かいしょう</span><span type="rp">）</span></span>なしだわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　畜生……出て行け、今出て行け。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　だからよけいなお世話だってさっきも言ったじゃないの。いやな戸部さん。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
-（<span type="ruby"><span type="rb">悔</span><span type="rp">（</span><span type="rt">くや</span><span type="rp">）</span></span>しそうに涙をためる）<lb />
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ともちゃん、頼むから毎日来ておくれ。頼むよ。僕たちは一人残らずおまえを崇拝しているんだ。おまえが帰ると、この画室の中は荒野同様だ。僕たちは寄ってたかっておまえを<seg type="ruby"><seg type="rb">讃美</seg><seg type="rp">（</seg><seg type="rt">さんび</seg><seg type="rp">）</seg></seg>して夜を<seg type="ruby"><seg type="rb">更</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>かすんだよ。もっともこのごろは、あまり夜更かしをすると、なおのこと腹がすくんで、少し控え気味にはしているがね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なんて讃美するの。ともの奴はおかめっ<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">つら</seg><seg type="rp">）</seg></seg>のあばずれだって。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　だが収入がなくっちゃおまえんちも暮らせないね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　知れたこってすわ、<seg type="ruby"><seg type="rb">馬鹿</seg><seg type="rp">（</seg><seg type="rt">ばか</seg><seg type="rp">）</seg></seg>馬鹿しい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　じゃやはりドモ又がいったように、君はどこかに岸をかえるんだな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さあねえ。そうするよりしかたがないわね。私はいったい画伯とか先生とかのくっ付いた画かきが大きらいなんだけれども、……いやよ、ほんとうにあいつらは……なんていうと、お高くとまる癖にひとの<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>にさわってみたがったりして……けれどもお金にはなるわね。あなたがたみたいに食べるものもなくなっちゃ私は半日だってやり切れないわ。大の男が五人も寄ってる癖に全くあなたがたは<seg type="ruby"><seg type="rb">甲斐性</seg><seg type="rp">（</seg><seg type="rt">かいしょう</seg><seg type="rp">）</seg></seg>なしだわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　畜生……出て行け、今出て行け。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　だからよけいなお世話だってさっきも言ったじゃないの。いやな戸部さん。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
+（<seg type="ruby"><seg type="rb">悔</seg><seg type="rp">（</seg><seg type="rt">くや</seg><seg type="rp">）</seg></seg>しそうに涙をためる）<lb />
 戸部うなる。<lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-言われなくたって、出たけりゃ勝手に出ますわ、あなたのお<span type="ruby"><span type="rb">内儀</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>さんじゃあるまいし。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺たちの仕事が認められないからって、裏切りをするような奴は……出て行け。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　腹がすくと人は怒りっぽくなる。戸部の気むずかしやの腹がすいたんだから、いわばペガサスに悪魔が飛び乗ったようなもんだよ。おまえ、気を悪くしちゃいけないよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　だって戸部さんみたいなわからず屋ってないんだもの。画なんてちっとも売れない画かきばかりの、こんな<span type="ruby"><span type="rb">穢</span><span type="rp">（</span><span type="rt">きたな</span><span type="rp">）</span></span>い小屋に、私もう半年の余も通っていてよ。よほどありがたく思っていいわけだわ。それを人の気も知らないで……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　貴様は（瀬古を指さして）こいつの顔が見たいばかりで……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　<span type="ruby"><span type="rb">焼餅</span><span type="rp">（</span><span type="rt">やきもち</span><span type="rp">）</span></span>やき。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　馬鹿。（うなる）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ああ俺はもうだめだ。死ぬくらいなら俺は画をかきながら死ぬ。画筆を握ったままぶっ倒れるんだ。おい、ともちゃん、悪態をついてるひまにモデル台に乗ってくれ。……それにしても花田や青島の奴、どうしたんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　全くおそいね。計略を敵に見すかされてむざむざと討ち死にしたかな。いったい計略計略って花田の奴はなにをする気なんだろう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　おい、ともちゃん……乗るんだ。君は俺たちのモデルじゃないか。若様も<span type="ruby"><span type="rb">描</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　うん描こう。いったい計画計画って……おい生蕃、ガランスをくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　その色こそは余が<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span>に求めんとしつつあったものなのだ。貴様のところにもないんか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ドモ又さんもお描きなさいな。人ってものはうなってばかりいたってお金にはならないわ、自動車じゃあるまいし。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ドモ又ガランスを出せ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　（自分の画箱のほうに這いずって行って中を捜しながら）ない。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ペガサスの腰ぬけはないぜ。おまえも起き上がって描けよ。花田の画箱はどうだ。（隣の<span type="ruby"><span type="rb">部屋</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>から画箱を持ち出して捜しながら歌う）</span>
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+言われなくたって、出たけりゃ勝手に出ますわ、あなたのお<seg type="ruby"><seg type="rb">内儀</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg>さんじゃあるまいし。<lb />
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺たちの仕事が認められないからって、裏切りをするような奴は……出て行け。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　腹がすくと人は怒りっぽくなる。戸部の気むずかしやの腹がすいたんだから、いわばペガサスに悪魔が飛び乗ったようなもんだよ。おまえ、気を悪くしちゃいけないよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　だって戸部さんみたいなわからず屋ってないんだもの。画なんてちっとも売れない画かきばかりの、こんな<seg type="ruby"><seg type="rb">穢</seg><seg type="rp">（</seg><seg type="rt">きたな</seg><seg type="rp">）</seg></seg>い小屋に、私もう半年の余も通っていてよ。よほどありがたく思っていいわけだわ。それを人の気も知らないで……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　貴様は（瀬古を指さして）こいつの顔が見たいばかりで……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　<seg type="ruby"><seg type="rb">焼餅</seg><seg type="rp">（</seg><seg type="rt">やきもち</seg><seg type="rp">）</seg></seg>やき。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　馬鹿。（うなる）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ああ俺はもうだめだ。死ぬくらいなら俺は画をかきながら死ぬ。画筆を握ったままぶっ倒れるんだ。おい、ともちゃん、悪態をついてるひまにモデル台に乗ってくれ。……それにしても花田や青島の奴、どうしたんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　全くおそいね。計略を敵に見すかされてむざむざと討ち死にしたかな。いったい計略計略って花田の奴はなにをする気なんだろう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　おい、ともちゃん……乗るんだ。君は俺たちのモデルじゃないか。若様も<seg type="ruby"><seg type="rb">描</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>けよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　うん描こう。いったい計画計画って……おい生蕃、ガランスをくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　その色こそは余が<seg type="ruby"><seg type="rb">汝</seg><seg type="rp">（</seg><seg type="rt">なんじ</seg><seg type="rp">）</seg></seg>に求めんとしつつあったものなのだ。貴様のところにもないんか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ドモ又さんもお描きなさいな。人ってものはうなってばかりいたってお金にはならないわ、自動車じゃあるまいし。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ドモ又ガランスを出せ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　（自分の画箱のほうに這いずって行って中を捜しながら）ない。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ペガサスの腰ぬけはないぜ。おまえも起き上がって描けよ。花田の画箱はどうだ。（隣の<seg type="ruby"><seg type="rb">部屋</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>から画箱を持ち出して捜しながら歌う）</seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 「一本ガランスをつくせよ<lb />
 空もガランスに塗れ<lb />
 木もガランスに描け<lb />
@@ -146,253 +146,253 @@
 汝の貧乏を<lb />
 一本のガランスにて塗りかくせ」<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-村山<span type="ruby"><span type="rb">槐多</span><span type="rp">（</span><span type="rt">かいた</span><span type="rp">）</span></span>も貧乏して死んだんだ。あああ、あいつの画箱にもガランスはなかったろうな。描き奉ってしまったんだから。<lb />
-「天にまします我らの神よ」途中はぬかします。「我らに日用の<span type="ruby"><span type="rb">糧</span><span type="rp">（</span><span type="rt">かて</span><span type="rp">）</span></span>を今日も」じゃない「今日こそは与えたまえ」。ついでに我らにガランスを与えたまえ。あとは腹がへっているからぬかします。「アーメン」。ええと我らにガランスを与えたまえ。ガランスを与えたまえ。我らに日用の糧を与えたまえ。（銀紙に包んだものを探り出す）我らに（銀紙を開きながら喜色を帯ぶ）日用……糧を……我らに日用の糧を……（急におどり上がって手に持った紙包みをふりまわす）……ブラボーブラボーブラビッシモ……おお太陽は昇った。<lb />
-</span><span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+村山<seg type="ruby"><seg type="rb">槐多</seg><seg type="rp">（</seg><seg type="rt">かいた</seg><seg type="rp">）</seg></seg>も貧乏して死んだんだ。あああ、あいつの画箱にもガランスはなかったろうな。描き奉ってしまったんだから。<lb />
+「天にまします我らの神よ」途中はぬかします。「我らに日用の<seg type="ruby"><seg type="rb">糧</seg><seg type="rp">（</seg><seg type="rt">かて</seg><seg type="rp">）</seg></seg>を今日も」じゃない「今日こそは与えたまえ」。ついでに我らにガランスを与えたまえ。あとは腹がへっているからぬかします。「アーメン」。ええと我らにガランスを与えたまえ。ガランスを与えたまえ。我らに日用の糧を与えたまえ。（銀紙に包んだものを探り出す）我らに（銀紙を開きながら喜色を帯ぶ）日用……糧を……我らに日用の糧を……（急におどり上がって手に持った紙包みをふりまわす）……ブラボーブラボーブラビッシモ……おお太陽は昇った。<lb />
+</seg><seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 一同思わず瀬古の周囲に走りよる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　食えそうなものが出てきたんか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　ガランスか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　沢本、おまえはさもしい男だなあ、なんぼ生蕃と<span type="ruby"><span type="rb">諢名</span><span type="rp">（</span><span type="rt">あだな</span><span type="rp">）</span></span>されているからって、美術家ともあろうものが「食えそうなもの」とはなんだね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　食えそうなものが出てきたんかといっただけで、なんでさもしい。ああ俺はもうだめだ。食えそうなものなんて言ったらだめになった……畜生、俺は画を描く。ガランスがなけりゃ血で描くんだ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　食えそうなものが出てきたんか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　ガランスか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　沢本、おまえはさもしい男だなあ、なんぼ生蕃と<seg type="ruby"><seg type="rb">諢名</seg><seg type="rp">（</seg><seg type="rt">あだな</seg><seg type="rp">）</seg></seg>されているからって、美術家ともあろうものが「食えそうなもの」とはなんだね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　食えそうなものが出てきたんかといっただけで、なんでさもしい。ああ俺はもうだめだ。食えそうなものなんて言ったらだめになった……畜生、俺は画を描く。ガランスがなけりゃ血で描くんだ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 画架のほうに行きかける。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　いい覚悟だ。そこでともちゃん、これをなんだと思う。これはもったいなくもチョコレットの食い残りなんだ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
-沢本と戸部と勢い込んで瀬古に<span type="ruby"><span type="rb">逼</span><span type="rp">（</span><span type="rt">せま</span><span type="rp">）</span></span>る。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺によこせ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　これはガランスじゃないよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　ガランスかって聞いたのは、ガランスだと困ると思ってそう聞いたんだ。俺はガランスくらいほしくはない。それは俺のだ。俺によこせ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ガランスがなけりゃ、俺だって食えそうなものを辞退するわけじゃないぞ。ドモ又いいかげんをいうな。これは俺んだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そうがつがつするなよ。待て待て。今僕が公平な分配をしてやるから。（パレットナイフでチョコレットに筋をつける）これで公平だろう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　四つに分けてどうするんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　（沢本と戸部にチョコレットを食いかかせながら）最後の一片はもちろん僕たちの守護女神ともちゃんに<span type="ruby"><span type="rb">献</span><span type="rp">（</span><span type="rt">ささ</span><span type="rp">）</span></span>げるのさ。僕はなんという幻滅の悲哀を味わわねばならないんだ。このチョコレットの代わりにガランスが出てきてみろ、君たちはこれほど眼の色を変えて熱狂しはしなかろう。ミューズの女神も一片のチョコレットの前には、醜い老いぼれ<span type="ruby"><span type="rb">婆</span><span type="rp">（</span><span type="rt">ばばあ</span><span type="rp">）</span></span>にすぎないんだ。（こんどは自分が食いかく）ミューズを老いぼれ婆にしくさったチョコレットめ、芸術家が今<span type="ruby"><span type="rb">復讐</span><span type="rp">（</span><span type="rt">ふくしゅう</span><span type="rp">）</span></span>するから覚悟しろ。（ぼりぼりとうまそうに食う。とも子のほうに向け最後の一片をさし出しながら）ともちゃん、さあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　まあいやだ、<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">だれ</span><span type="rp">）</span></span>がひとの食べかいたものなんか食べるもんですか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　（驚いたようすをしながら）え、食べない。これを。食べないとはおまえ偉いねえ。おまえの趣味がそれほどノーブルに洗練されているとは思わなかった。全くおまえは見上げたもんだねえ。おまえは全くいい意味で貴族的だねえ。レデイのようだね。それじゃ僕が……</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
-沢本と戸部とが襲いかかる前に瀬古<span type="ruby"><span type="rb">逸</span><span type="rp">（</span><span type="rt">いち</span><span type="rp">）</span></span>早くそれを口に入れる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　来た来た花田たちが来たようだ。早く口を<span type="ruby"><span type="rb">拭</span><span type="rp">（</span><span type="rt">ぬぐ</span><span type="rp">）</span></span>え。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　いい覚悟だ。そこでともちゃん、これをなんだと思う。これはもったいなくもチョコレットの食い残りなんだ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
+沢本と戸部と勢い込んで瀬古に<seg type="ruby"><seg type="rb">逼</seg><seg type="rp">（</seg><seg type="rt">せま</seg><seg type="rp">）</seg></seg>る。<lb />
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺によこせ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　これはガランスじゃないよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　ガランスかって聞いたのは、ガランスだと困ると思ってそう聞いたんだ。俺はガランスくらいほしくはない。それは俺のだ。俺によこせ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ガランスがなけりゃ、俺だって食えそうなものを辞退するわけじゃないぞ。ドモ又いいかげんをいうな。これは俺んだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そうがつがつするなよ。待て待て。今僕が公平な分配をしてやるから。（パレットナイフでチョコレットに筋をつける）これで公平だろう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　四つに分けてどうするんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　（沢本と戸部にチョコレットを食いかかせながら）最後の一片はもちろん僕たちの守護女神ともちゃんに<seg type="ruby"><seg type="rb">献</seg><seg type="rp">（</seg><seg type="rt">ささ</seg><seg type="rp">）</seg></seg>げるのさ。僕はなんという幻滅の悲哀を味わわねばならないんだ。このチョコレットの代わりにガランスが出てきてみろ、君たちはこれほど眼の色を変えて熱狂しはしなかろう。ミューズの女神も一片のチョコレットの前には、醜い老いぼれ<seg type="ruby"><seg type="rb">婆</seg><seg type="rp">（</seg><seg type="rt">ばばあ</seg><seg type="rp">）</seg></seg>にすぎないんだ。（こんどは自分が食いかく）ミューズを老いぼれ婆にしくさったチョコレットめ、芸術家が今<seg type="ruby"><seg type="rb">復讐</seg><seg type="rp">（</seg><seg type="rt">ふくしゅう</seg><seg type="rp">）</seg></seg>するから覚悟しろ。（ぼりぼりとうまそうに食う。とも子のほうに向け最後の一片をさし出しながら）ともちゃん、さあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　まあいやだ、<seg type="ruby"><seg type="rb">誰</seg><seg type="rp">（</seg><seg type="rt">だれ</seg><seg type="rp">）</seg></seg>がひとの食べかいたものなんか食べるもんですか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　（驚いたようすをしながら）え、食べない。これを。食べないとはおまえ偉いねえ。おまえの趣味がそれほどノーブルに洗練されているとは思わなかった。全くおまえは見上げたもんだねえ。おまえは全くいい意味で貴族的だねえ。レデイのようだね。それじゃ僕が……</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
+沢本と戸部とが襲いかかる前に瀬古<seg type="ruby"><seg type="rb">逸</seg><seg type="rp">（</seg><seg type="rt">いち</seg><seg type="rp">）</seg></seg>早くそれを口に入れる。<lb />
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　来た来た花田たちが来たようだ。早く口を<seg type="ruby"><seg type="rb">拭</seg><seg type="rp">（</seg><seg type="rt">ぬぐ</seg><seg type="rp">）</seg></seg>え。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 花田と青島登場。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　（指をぽきんぽきん鳴らす癖がある）おまえたちは始終俺のことを俗物だ俗物だといっていやがったな。若様どうだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕は汚されたミューズの女神のために今命がけの復讐をしているところだ。待ってくれ。（口をもがもがさせながら物を言う）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　貴様、俺のチョコレットを食ってるな。この画室にはそのほかに食うものはないはずだ。俺はそれを昨日画箱の中にちゃんとしまっておいたんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　隠し食いをしておきながら……貴様はチョコレットで画が<span type="ruby"><span type="rb">描</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けるとでも思ってるんか。神聖なる画箱にチョコレットを……だから貴様は俗物だよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　なんとでもいえ。しかし俺がいなかったら、おまえたちは飢え死にをするよりしかたないところだったんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　まあいいから、貴様の計画というものの報告を早くしろ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そうだ。ぐずぐずしちゃいられない。おい青島、<span type="ruby"><span type="rb">堂脇</span><span type="rp">（</span><span type="rt">どうわき</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">九頭竜</span><span type="rp">（</span><span type="rt">くずりゅう</span><span type="rp">）</span></span>の奴といっしょに来るといってたか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　そんなことをいってたようだ。なにしろ堂脇のお嬢さんていうのには、俺は全く<span type="ruby"><span type="rb">憧憬</span><span type="rp">（</span><span type="rt">どうけい</span><span type="rp">）</span></span>してしまった。その姿にみとれていたもんで、おやじの言葉なんか、半分がた聞き漏らしちゃった。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　馬鹿。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　あの娘なら芸術がほんとうにわかるに違いない。芸術家の妻になるために生まれてきたような処女だ。あの大俗物の堂脇があんな天女を生むんだから皮肉だよ。そうしてかの女は、芸術に対する心からの憧憬を踏みにじられて、ついには大金持ちの馬鹿息子のところにでも片づけられてしまうんだ……あんな人をモデルにつかって一度でも画が描いて見たいなあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そんなか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　そんなだとも。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　今日はもう私、用がないようだから帰りますわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺に用があるよ。くだらないことばかりいってやがる。俺が描くから……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　またうなりを立てて、床の上にへたばるんじゃなくって。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　いいから……こいつら、うっちゃっておけ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　（指をぽきんぽきん鳴らす癖がある）おまえたちは始終俺のことを俗物だ俗物だといっていやがったな。若様どうだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕は汚されたミューズの女神のために今命がけの復讐をしているところだ。待ってくれ。（口をもがもがさせながら物を言う）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　貴様、俺のチョコレットを食ってるな。この画室にはそのほかに食うものはないはずだ。俺はそれを昨日画箱の中にちゃんとしまっておいたんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　隠し食いをしておきながら……貴様はチョコレットで画が<seg type="ruby"><seg type="rb">描</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>けるとでも思ってるんか。神聖なる画箱にチョコレットを……だから貴様は俗物だよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　なんとでもいえ。しかし俺がいなかったら、おまえたちは飢え死にをするよりしかたないところだったんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　まあいいから、貴様の計画というものの報告を早くしろ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そうだ。ぐずぐずしちゃいられない。おい青島、<seg type="ruby"><seg type="rb">堂脇</seg><seg type="rp">（</seg><seg type="rt">どうわき</seg><seg type="rp">）</seg></seg>は<seg type="ruby"><seg type="rb">九頭竜</seg><seg type="rp">（</seg><seg type="rt">くずりゅう</seg><seg type="rp">）</seg></seg>の奴といっしょに来るといってたか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　そんなことをいってたようだ。なにしろ堂脇のお嬢さんていうのには、俺は全く<seg type="ruby"><seg type="rb">憧憬</seg><seg type="rp">（</seg><seg type="rt">どうけい</seg><seg type="rp">）</seg></seg>してしまった。その姿にみとれていたもんで、おやじの言葉なんか、半分がた聞き漏らしちゃった。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　馬鹿。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　あの娘なら芸術がほんとうにわかるに違いない。芸術家の妻になるために生まれてきたような処女だ。あの大俗物の堂脇があんな天女を生むんだから皮肉だよ。そうしてかの女は、芸術に対する心からの憧憬を踏みにじられて、ついには大金持ちの馬鹿息子のところにでも片づけられてしまうんだ……あんな人をモデルにつかって一度でも画が描いて見たいなあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そんなか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　そんなだとも。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　今日はもう私、用がないようだから帰りますわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺に用があるよ。くだらないことばかりいってやがる。俺が描くから……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　またうなりを立てて、床の上にへたばるんじゃなくって。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　いいから……こいつら、うっちゃっておけ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 戸部ひとりだけ、とも子をモデルにして描きはじめる。その間に次の会話が行なわれる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　全くともちゃんに帰られちゃ困るよ。青島、貴様よけいなことをいうからいかんよ。……とにかくみんな気を落ちつけて俺の報告を聞け。ドモ又もともちゃんも、そこで聞いてるんだぜ……待てよ。（時計を出して見ようとして、なくなっているのを発見）時計もセブンか。セブンどころじゃないイレブンくらいだろう。もういそがないと間に合わない。今朝俺は青島と手分けをして、青島は堂脇んちの庭に行き、俺は九頭竜の店に行った。とてもたまらない奴だ。はじめの間は、なかなか取りつく島もなかったが、とうとう利をもっておびき出してやった。名は今ちょっといえないが私どもの仲間に一人、ずぬけてえらい天才がいる。油でもコンテでも全然抜群で美校の校長も、黒馬会の白島先生も藤田先生も、およそ先生と名のつく先生は、彼の作品を見たものは一人残らず、ただ驚嘆するばかりで、ぜひ展覧会に出品したらというんだが、奴、つむじ曲がりで、うんといわないばかりか、てんで今の大家なんか眼中になく、貧乏しながらも、黙ってこつこつと画ばかり描いていた。だから世間では、俺たちの仲間のほかに、奴のことを知ってるものは一人だっていやあしない。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　うん全くそれはそのとおりだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ところがその男が貧に<span type="ruby"><span type="rb">逼</span><span type="rp">（</span><span type="rt">せま</span><span type="rp">）</span></span>り、飢えに疲れてとうとう昨日死んでしまった。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　馬鹿をいうない。俺はとにかくまだ生きてるぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　誰が死んだのはおまえだってそういったい……ところで俺たちは実に悲嘆に暮れてしまった。いったい俺たちが、五人そろって貧乏のどんづまりに引きさがりながらも、鼻歌まじりで勇んで暮らしているのは、誰にもあずけておけない仕事があるからだ。その仕事をし遂げるまでは、たとい死に神が手をついて迎えに来ても、死に神のほうをたたき殺すくらいな勢いでやっているんだ。その中でもがんばり方といい、力量といい一段も二段も立ちまさっていたのは奴だった。東京のすみっこから世界の美術をひっくり返すような仕事が出るのを俺たちは彼において期待していた。だのに、あまりにすぐれたものは神もねたむのだろう。奴は倒れてしまった。奴は火だった。<span type="ruby"><span type="rb">焔</span><span type="rp">（</span><span type="rt">ほのお</span><span type="rp">）</span></span>だった。奴の燃えることは奴の滅びることだったんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　貴様そういったか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　うむ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　よくいった。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺はまだこうもいった。奴には一人の弟があって、その弟の細君というのが、心と姿との美しい女だった。そうしてその女が毎日俺たちの画室に来てモデルになってくれた。俺たちのような、物質的には無能力に近いグループのために尽くしてくれるその女の志は美しいものだった。奴はひそかにその弟の細君に恋をしていた。けれども定められた運命だからどうすることもできない。奴は苦しんだ。そしてその苦しみと無限の<span type="ruby"><span type="rb">淋</span><span type="rp">（</span><span type="rt">さび</span><span type="rp">）</span></span>しみとを、幾枚もの画に描き上げた。風景や静物にもすばらしいのはあるが、その女の肖像画にいたっては神品だというよりほかに言葉がない。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　おいおいそれは<span type="ruby"><span type="rb">誰</span><span type="rp">（</span><span type="rt">だれ</span><span type="rp">）</span></span>の事だい。ともちゃん、おまえ覚えがある。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　まあ、あとでわかるから黙って聞け。……ところで、奴が死んでみると、俺たち彼の仲間は、奴の作品を最も正しい方法で後世に<span type="ruby"><span type="rb">遺</span><span type="rp">（</span><span type="rt">のこ</span><span type="rp">）</span></span>す義務を感ずるのだ。ところで、俺は九頭竜にいった。いやしくもおまえさんが押しも押されもしない書画屋さんである以上、書画屋という商売にふさわしい見識を見せるのが、おまえさんの<span type="ruby"><span type="rb">誉</span><span type="rp">（</span><span type="rt">ほま</span><span type="rp">）</span></span>れにもなるし<span type="ruby"><span type="rb">沽券</span><span type="rp">（</span><span type="rt">こけん</span><span type="rp">）</span></span>にもなる。ひとつおまえさんあれを一手に引き受けて遺作展覧会をやる気はありませんか。そうしたら、九頭竜の野郎、それは耳よりなお話ですから、私もひとつ損得を捨てて乗らないものでもありませんが、それほど先生がたがおほめになるもんなら、展覧会の案内書に先生がたから一言ずつでもお言葉を<span type="ruby"><span type="rb">頂戴</span><span type="rp">（</span><span type="rt">ちょうだい</span><span type="rp">）</span></span>することにしたらどんなものでしょうといやがった。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕はいやだよ、そんなのは。僕らの芸術に先生がたの裏書きをしてもらうくらいなら、僕は野末で<span rend="sesame_dot" rendition="em">のたれ</span>死にをしてみせる。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　えらいわ若様。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ひやかすなよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　全くだ。第一僕たちのような<span type="ruby"><span type="rb">頸骨</span><span type="rp">（</span><span type="rt">けいこつ</span><span type="rp">）</span></span>の固い<span type="ruby"><span type="rb">謀叛</span><span type="rp">（</span><span type="rt">むほん</span><span type="rp">）</span></span>人に対して、大家先生たちが裏書きどころか、俺たちと先生がたとなんのかかわりあらんやだ。……ところで俺はいった。そんなら、こちらでお断わりするほかはない。奴の画はそんなけちな画ではない。大手をふって一人で通ってゆく画だ。そういうものを発見するのが書画屋の見識というものではないか。そういう見識から<span type="ruby"><span type="rb">儲</span><span type="rp">（</span><span type="rt">もう</span><span type="rp">）</span></span>けが生まれてこなければ、大きな儲けは生まれはしない。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　俗物の本音を出したな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺がそんなことでもして大きな儲けをしたら俗物とでもなんとでもいうがいい。融通のきかないのをいいことにして<span type="ruby"><span type="rb">仙人</span><span type="rp">（</span><span type="rt">せんにん</span><span type="rp">）</span></span>ぶってるおまえたちとは少し違うんだから。……ところで九頭竜が大部頭を縦にかしげ始めた。まあ来てごらんなさいといったら、それではすぐ上がりますといった。……ところで、これからがほんとうの計略になるんだが、……おいみんな厳粛な気持ちで俺のいうことを聞け。おまえたちのうち誰でも、この場に死んだとして、今まで描いたものを後世に<span type="ruby"><span type="rb">遺</span><span type="rp">（</span><span type="rt">のこ</span><span type="rp">）</span></span>して恥じないだけの自信があるか、どうだ。<span type="ruby"><span type="rb">生蕃</span><span type="rp">（</span><span type="rt">せいばん</span><span type="rp">）</span></span>どうだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　なくってどうする。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　よし。瀬古はどうだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕は恥じる恥じないで画を描いてるんじゃないよ。僕は描きたいから描くんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　わかった。じゃその気持ちは純粋だな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　いまさらそんなことを……水くさい男だなあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ドモ又はどうだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　できたものはみんないやだ。けれども人のに比べれば、俺のほうがいいと俺は思っている。俺はそれを知っている。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　青島の心持ちはもう聞いた。青島も俺も、自分の仕事を後世に残して恥ずかしいとは思わない。俺たちはみんないわば子供だ。けれども子供がいつでも<span type="ruby"><span type="rb">大人</span><span type="rp">（</span><span type="rt">おとな</span><span type="rp">）</span></span>の家来じゃないからな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　そうだとも。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　じゃいいか。俺たち五人のうち一人はこの場合死ななけりゃならないんだ。あとの四人が画を描きつづけて行く費用を造り出すための犠牲となって俺たちのグループから消え去らなければならないんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　おいおい花田、おまえ気でも違ったのか。僕たちは芸術家だよ。殉教者じゃないよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　芸術のために殉死するのさ。そのくらいの意気があってもいいだろう。その代わり死んだ奴の画は九頭竜の手で後世まで残るんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　なんという<span type="ruby"><span type="rb">智慧</span><span type="rp">（</span><span type="rt">ちえ</span><span type="rp">）</span></span>のない計略を貴様は考え出したもんだ。そんなことを考え出した奴は、自分が先に死ぬがいいんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺が死んでいいかい。……そうだもう一ついうことを忘れていたが、死ぬ番にあたった奴は、その<span type="ruby"><span type="rb">褒美</span><span type="rp">（</span><span type="rt">ほうび</span><span type="rp">）</span></span>としてともちゃんを奥さんにすることができるんだ。このだいじな条件をいうのを忘れていた。おいともちゃん……ドモ又、もう描くのをやめろよ……ともちゃん、おまえ頼むから俺たち五人の中の誰でもいい、おまえの気に入った人とほんとうに結婚してくれないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なんですねえ<span type="ruby"><span type="rb">途轍</span><span type="rp">（</span><span type="rt">とてつ</span><span type="rp">）</span></span>もない。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺たち五人の中に一人、おまえの<span type="ruby"><span type="rb">旦那</span><span type="rp">（</span><span type="rt">だんな</span><span type="rp">）</span></span>にしてもいいと思うのがいるっておまえいつかのろけていたじゃないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　　そりゃ……そりゃいないこともないことよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　待てよ。「いないこともないことよ」というのは結局、いるということだね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　知らないわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　女が「知らないわ」といったら、もうしめたもんだ。おまえが一人選んだら、俺たちあとに残された四人は、きれいに未練を捨てて、二人がいっしょになれるように、極力奔走する。成功させるためにきっと尽力する。だからおまえ、本気になってこの五人の中から選ぶんだ。そこに行くと俺たちボヘミヤンは自由なものだ。ともちゃんだって、俺たちの仲間になってくれてる以上はボヘミヤンだ。ねえ。そうだろう。かまわないから選びたまえ。俺たちはたとい選にもれても、ストイックのように忍ぶから……心配せずに。俺たちのほうにはともちゃんを細君に持つのに反対する奴は一人もいまい。どうだみんないいか。よければ「よし」といえ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　よし。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　選んだらどうするの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そいつが残る四人のために死ななければならないんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　冗談もいいかげんにするものよ、人を馬鹿にして。（涙ぐむ）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　なあに、冗談じゃない。わけはない、ころっと死にさえすればいいんだよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　花田、貴様は残酷な奴だ。……ともちゃんをすぐ寡婦にする……そんな……貴様。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　（初めて思いついたようにたまらないほど笑う）なんだ貴様たちはともちゃんのハズがほんとうに……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　死ななけりゃならないんだろう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　死ぬことになるんださ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　同じじゃないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　同じじゃないさ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　花田のいい方が悪いんだよ。死ぬことになるんじゃない、つまり死んだことにするんだよ。わかったろう。つまり死ぬんじゃない、死んでしまうこと……でもないかな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　つまり、こうだ、いいか。頭を冷静にしてよく聞け。いいか。ともちゃんに選ばれた奴は実はその選ばれた奴の弟なんだ。いいか。そしてともちゃんとその弟とは前から夫婦なんだ。ともちゃんは、俺たちに理解と同情とを持っていて、モデルも<span type="ruby"><span type="rb">傭</span><span type="rp">（</span><span type="rt">やと</span><span type="rp">）</span></span>えないほど貧乏な俺たちのためにモデルになってくれたのだ。いいか。ところでともちゃんのハズの兄貴にあたるのが、ほんとうは俺たち五人の仲間の一人で、それがともちゃんに恋をして、貧乏と恋とのために業半ばにして死ぬことになるんだ。こんどはわかったろう。……まだわからないのか……<span type="ruby"><span type="rb">済度</span><span type="rp">（</span><span type="rt">さいど</span><span type="rp">）</span></span>しがたい奴だなあ。じゃ青島、実物でやって見せるよりしかたがない、あれを持ち込もう。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
-花田と青島、黒布に<span type="ruby"><span type="rb">被</span><span type="rp">（</span><span type="rt">おお</span><span type="rp">）</span></span>われたる寝棺をかつぎこむ。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　いや……縁起の悪い……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　全く貴様はどうかしやしないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　さあ、ともちゃん、俺たちの中から一人選んでくれ。俺が引き受けた、おまえの旦那は決して死なしはしないから。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　だってそんな寝棺を持ち込む以上は……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　<span type="ruby"><span type="rb">死骸</span><span type="rp">（</span><span type="rt">しがい</span><span type="rp">）</span></span>になってここにはいる奴はこれだ。（といいながら、壁にかけられた<span type="ruby"><span type="rb">石膏</span><span type="rp">（</span><span type="rt">せっこう</span><span type="rp">）</span></span>面を指さす）こいつに絵の具を塗っておまえの選んだ男の代わりに入れればいいんだよ。たとえば俺がおまえに選ばれたとするね。ほんとうにそうありたいことだが。すると俺は俺の弟となっておまえと夫婦になるんだ。そうしてこいつ（石膏面）が俺の身代わりになってこの棺の中にはいるんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ははあ……少しわかってきてよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　わかったかい。天才画家の花田は死んでしまうんだ。ほんとうにもうこの世の中にはいなくなってしまうんだ。その代わり花田の弟というのがひょっこりできあがるんだ。それが俺さ。そうしておまえのハズさ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ははあ……だいぶわかってきてよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　な。そこに大俗物の九頭竜と、頭の悪い美術好きの成金堂脇左門とが、娘でも連れてはいってくる。花田の弟になり切った俺がおまえといっしょにここにいて愁歎場を見せるという仕組みなんだ。どうだ仙人どももわかったか。花田の弟になる俺は生きて行くが、花田の兄貴なるほんとうの花田は死んだことにするんだ。じゃない死ぬことになるんだ。現在死なねばならないんだ。それだから俺は始めから死ぬんだ死ぬんだといって聞かせているのに、貴様たちはまるで<span type="ruby"><span type="rb">木偶</span><span type="rp">（</span><span type="rt">でく</span><span type="rp">）</span></span>の坊見たいだからなあ。……ところで俺の弟は、兄貴の志をついで天才画家になるとしても、とにかく俺が死なねばならぬというのは悲壮な事実だよ。死にさえすれば、ことに若死にさえすればたいていの奴は天才になるに決まっているんだ。（石膏面をながめながら）死はいかなる場合においても、おごそかな悲しいもんだ。だからかかる犠牲を払うからには、俺がともちゃんのハズとして選ばれるくらいのことが必要になるんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なにもあなたなんかまだ選びはしないことよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そうつけつけやり込めるもんじゃないよ、女ってものは。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　俺はもうだめだ。俺はある女を恋していた。そうして飢えが<span type="ruby"><span type="rb">逼</span><span type="rp">（</span><span type="rt">せま</span><span type="rp">）</span></span>ってきた。ああ俺は死んだほうがいい。俺は天才画家として画筆を握ったまま死にたいよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　花田さん、私、死ぬ人を旦那さんにするんじゃないのね。私の旦那さんが死ぬことになるんでしょう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　そうつけつけやり込めるものじゃないよ、女ってものは。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　みんな俺の計略がわかったな。俺たちは今俺たちの共同の敵なるフィリスティンと戦わねばならぬ時が来た。青島、おまえと堂脇との<span type="ruby"><span type="rb">遭遇</span><span type="rp">（</span><span type="rt">そうぐう</span><span type="rp">）</span></span>戦についても簡単に報告しろよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　僕はかまわず堂脇の家の広い庭にはいりこんで<span type="ruby"><span type="rb">画</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>を描いていてやった。そうしたら堂脇がお嬢さんを連れて散歩にやってきた。堂脇はこんなふうに歩いて、お嬢さんはこんなふうに歩いてそうして俺の<span type="ruby"><span type="rb">脇</span><span type="rp">（</span><span type="rt">わき</span><span type="rp">）</span></span>に突っ立って画を描くのを<span rend="sesame_dot" rendition="em">じっ</span>と見ていたっけが、庭にはいりこんだのを怒ると思いのほか、ふんと感心したような鼻息を漏らした。お嬢さんまでが「まあきれいだこと」と御意遊ばした。僕はしめたと思って、物をいい出す<span rend="sesame_dot" rendition="em">つぎ</span>穂に苦心したが、あんな海千山千の動物には俺の言葉はとてもわからないと思って黙っていた。全くあんな怪物の前に行くと薄気味の悪いもんだね。そうしたら堂脇が案外やさしい声で、「失礼ながらどちらでご勉強です、たいそうおみごとだが」と切り出した。僕は花田に教えられたとおり、自分の画なんかなんでもないが、昨日死んだ仲間の画は実に大したものだ、もしそれが世間に出たら、一世を驚かすだろうと、一生懸命になって<span type="ruby"><span type="rb">吹聴</span><span type="rp">（</span><span type="rt">ふいちょう</span><span type="rp">）</span></span>したんだ。いかもの食いの名人だけあって堂脇の奴すぐ乗り気になった。僕は九頭竜の主人が来て見ることになっているから、なんなら連れ立っておいでなさいといって飛び出してきた。なにしろお嬢さんがちかちか動物電気を送るんで、僕はとても長くいたたまれなかった。どうして最も美を<span type="ruby"><span type="rb">憧憬</span><span type="rp">（</span><span type="rt">どうけい</span><span type="rp">）</span></span>する僕たちの世界には、ナチュール・モルトのほかに美がとりつかないんだろうかなあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　どうかしてそのお嬢さんを描こうじゃないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　あの人がモデルになってくれれば僕はモナリザ以上のものを描いてみせるよ、きっと。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕はワットーの精神でそのデカダンの美を見きわめてやる。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　見もしないでなにをいうんだい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　君は芸術家の想像力を……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　報告終わり。事務第一。さ、みんな覚悟はいいか。ともちゃん、さあ選んでくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　私……恥ずかしいわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　おまえの無邪気さでやっちまいたまえ。なに、ひと言、誰っていってしまえば、それだけのことだよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　じゃ一生懸命で勇気を出して……けど、私がこれっていった人は、いやだなんていわないでちょうだいね。でないと、私ほんとうに自殺してよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　誓いを立てたんだからみんな大丈夫だ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　全くともちゃんに帰られちゃ困るよ。青島、貴様よけいなことをいうからいかんよ。……とにかくみんな気を落ちつけて俺の報告を聞け。ドモ又もともちゃんも、そこで聞いてるんだぜ……待てよ。（時計を出して見ようとして、なくなっているのを発見）時計もセブンか。セブンどころじゃないイレブンくらいだろう。もういそがないと間に合わない。今朝俺は青島と手分けをして、青島は堂脇んちの庭に行き、俺は九頭竜の店に行った。とてもたまらない奴だ。はじめの間は、なかなか取りつく島もなかったが、とうとう利をもっておびき出してやった。名は今ちょっといえないが私どもの仲間に一人、ずぬけてえらい天才がいる。油でもコンテでも全然抜群で美校の校長も、黒馬会の白島先生も藤田先生も、およそ先生と名のつく先生は、彼の作品を見たものは一人残らず、ただ驚嘆するばかりで、ぜひ展覧会に出品したらというんだが、奴、つむじ曲がりで、うんといわないばかりか、てんで今の大家なんか眼中になく、貧乏しながらも、黙ってこつこつと画ばかり描いていた。だから世間では、俺たちの仲間のほかに、奴のことを知ってるものは一人だっていやあしない。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　うん全くそれはそのとおりだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ところがその男が貧に<seg type="ruby"><seg type="rb">逼</seg><seg type="rp">（</seg><seg type="rt">せま</seg><seg type="rp">）</seg></seg>り、飢えに疲れてとうとう昨日死んでしまった。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　馬鹿をいうない。俺はとにかくまだ生きてるぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　誰が死んだのはおまえだってそういったい……ところで俺たちは実に悲嘆に暮れてしまった。いったい俺たちが、五人そろって貧乏のどんづまりに引きさがりながらも、鼻歌まじりで勇んで暮らしているのは、誰にもあずけておけない仕事があるからだ。その仕事をし遂げるまでは、たとい死に神が手をついて迎えに来ても、死に神のほうをたたき殺すくらいな勢いでやっているんだ。その中でもがんばり方といい、力量といい一段も二段も立ちまさっていたのは奴だった。東京のすみっこから世界の美術をひっくり返すような仕事が出るのを俺たちは彼において期待していた。だのに、あまりにすぐれたものは神もねたむのだろう。奴は倒れてしまった。奴は火だった。<seg type="ruby"><seg type="rb">焔</seg><seg type="rp">（</seg><seg type="rt">ほのお</seg><seg type="rp">）</seg></seg>だった。奴の燃えることは奴の滅びることだったんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　貴様そういったか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　うむ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　よくいった。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺はまだこうもいった。奴には一人の弟があって、その弟の細君というのが、心と姿との美しい女だった。そうしてその女が毎日俺たちの画室に来てモデルになってくれた。俺たちのような、物質的には無能力に近いグループのために尽くしてくれるその女の志は美しいものだった。奴はひそかにその弟の細君に恋をしていた。けれども定められた運命だからどうすることもできない。奴は苦しんだ。そしてその苦しみと無限の<seg type="ruby"><seg type="rb">淋</seg><seg type="rp">（</seg><seg type="rt">さび</seg><seg type="rp">）</seg></seg>しみとを、幾枚もの画に描き上げた。風景や静物にもすばらしいのはあるが、その女の肖像画にいたっては神品だというよりほかに言葉がない。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　おいおいそれは<seg type="ruby"><seg type="rb">誰</seg><seg type="rp">（</seg><seg type="rt">だれ</seg><seg type="rp">）</seg></seg>の事だい。ともちゃん、おまえ覚えがある。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　まあ、あとでわかるから黙って聞け。……ところで、奴が死んでみると、俺たち彼の仲間は、奴の作品を最も正しい方法で後世に<seg type="ruby"><seg type="rb">遺</seg><seg type="rp">（</seg><seg type="rt">のこ</seg><seg type="rp">）</seg></seg>す義務を感ずるのだ。ところで、俺は九頭竜にいった。いやしくもおまえさんが押しも押されもしない書画屋さんである以上、書画屋という商売にふさわしい見識を見せるのが、おまえさんの<seg type="ruby"><seg type="rb">誉</seg><seg type="rp">（</seg><seg type="rt">ほま</seg><seg type="rp">）</seg></seg>れにもなるし<seg type="ruby"><seg type="rb">沽券</seg><seg type="rp">（</seg><seg type="rt">こけん</seg><seg type="rp">）</seg></seg>にもなる。ひとつおまえさんあれを一手に引き受けて遺作展覧会をやる気はありませんか。そうしたら、九頭竜の野郎、それは耳よりなお話ですから、私もひとつ損得を捨てて乗らないものでもありませんが、それほど先生がたがおほめになるもんなら、展覧会の案内書に先生がたから一言ずつでもお言葉を<seg type="ruby"><seg type="rb">頂戴</seg><seg type="rp">（</seg><seg type="rt">ちょうだい</seg><seg type="rp">）</seg></seg>することにしたらどんなものでしょうといやがった。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕はいやだよ、そんなのは。僕らの芸術に先生がたの裏書きをしてもらうくらいなら、僕は野末で<seg rend="sesame_dot" rendition="em">のたれ</seg>死にをしてみせる。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　えらいわ若様。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ひやかすなよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　全くだ。第一僕たちのような<seg type="ruby"><seg type="rb">頸骨</seg><seg type="rp">（</seg><seg type="rt">けいこつ</seg><seg type="rp">）</seg></seg>の固い<seg type="ruby"><seg type="rb">謀叛</seg><seg type="rp">（</seg><seg type="rt">むほん</seg><seg type="rp">）</seg></seg>人に対して、大家先生たちが裏書きどころか、俺たちと先生がたとなんのかかわりあらんやだ。……ところで俺はいった。そんなら、こちらでお断わりするほかはない。奴の画はそんなけちな画ではない。大手をふって一人で通ってゆく画だ。そういうものを発見するのが書画屋の見識というものではないか。そういう見識から<seg type="ruby"><seg type="rb">儲</seg><seg type="rp">（</seg><seg type="rt">もう</seg><seg type="rp">）</seg></seg>けが生まれてこなければ、大きな儲けは生まれはしない。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　俗物の本音を出したな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺がそんなことでもして大きな儲けをしたら俗物とでもなんとでもいうがいい。融通のきかないのをいいことにして<seg type="ruby"><seg type="rb">仙人</seg><seg type="rp">（</seg><seg type="rt">せんにん</seg><seg type="rp">）</seg></seg>ぶってるおまえたちとは少し違うんだから。……ところで九頭竜が大部頭を縦にかしげ始めた。まあ来てごらんなさいといったら、それではすぐ上がりますといった。……ところで、これからがほんとうの計略になるんだが、……おいみんな厳粛な気持ちで俺のいうことを聞け。おまえたちのうち誰でも、この場に死んだとして、今まで描いたものを後世に<seg type="ruby"><seg type="rb">遺</seg><seg type="rp">（</seg><seg type="rt">のこ</seg><seg type="rp">）</seg></seg>して恥じないだけの自信があるか、どうだ。<seg type="ruby"><seg type="rb">生蕃</seg><seg type="rp">（</seg><seg type="rt">せいばん</seg><seg type="rp">）</seg></seg>どうだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　なくってどうする。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　よし。瀬古はどうだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕は恥じる恥じないで画を描いてるんじゃないよ。僕は描きたいから描くんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　わかった。じゃその気持ちは純粋だな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　いまさらそんなことを……水くさい男だなあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ドモ又はどうだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　できたものはみんないやだ。けれども人のに比べれば、俺のほうがいいと俺は思っている。俺はそれを知っている。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　青島の心持ちはもう聞いた。青島も俺も、自分の仕事を後世に残して恥ずかしいとは思わない。俺たちはみんないわば子供だ。けれども子供がいつでも<seg type="ruby"><seg type="rb">大人</seg><seg type="rp">（</seg><seg type="rt">おとな</seg><seg type="rp">）</seg></seg>の家来じゃないからな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　そうだとも。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　じゃいいか。俺たち五人のうち一人はこの場合死ななけりゃならないんだ。あとの四人が画を描きつづけて行く費用を造り出すための犠牲となって俺たちのグループから消え去らなければならないんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　おいおい花田、おまえ気でも違ったのか。僕たちは芸術家だよ。殉教者じゃないよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　芸術のために殉死するのさ。そのくらいの意気があってもいいだろう。その代わり死んだ奴の画は九頭竜の手で後世まで残るんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　なんという<seg type="ruby"><seg type="rb">智慧</seg><seg type="rp">（</seg><seg type="rt">ちえ</seg><seg type="rp">）</seg></seg>のない計略を貴様は考え出したもんだ。そんなことを考え出した奴は、自分が先に死ぬがいいんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺が死んでいいかい。……そうだもう一ついうことを忘れていたが、死ぬ番にあたった奴は、その<seg type="ruby"><seg type="rb">褒美</seg><seg type="rp">（</seg><seg type="rt">ほうび</seg><seg type="rp">）</seg></seg>としてともちゃんを奥さんにすることができるんだ。このだいじな条件をいうのを忘れていた。おいともちゃん……ドモ又、もう描くのをやめろよ……ともちゃん、おまえ頼むから俺たち五人の中の誰でもいい、おまえの気に入った人とほんとうに結婚してくれないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なんですねえ<seg type="ruby"><seg type="rb">途轍</seg><seg type="rp">（</seg><seg type="rt">とてつ</seg><seg type="rp">）</seg></seg>もない。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺たち五人の中に一人、おまえの<seg type="ruby"><seg type="rb">旦那</seg><seg type="rp">（</seg><seg type="rt">だんな</seg><seg type="rp">）</seg></seg>にしてもいいと思うのがいるっておまえいつかのろけていたじゃないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　　そりゃ……そりゃいないこともないことよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　待てよ。「いないこともないことよ」というのは結局、いるということだね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　知らないわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　女が「知らないわ」といったら、もうしめたもんだ。おまえが一人選んだら、俺たちあとに残された四人は、きれいに未練を捨てて、二人がいっしょになれるように、極力奔走する。成功させるためにきっと尽力する。だからおまえ、本気になってこの五人の中から選ぶんだ。そこに行くと俺たちボヘミヤンは自由なものだ。ともちゃんだって、俺たちの仲間になってくれてる以上はボヘミヤンだ。ねえ。そうだろう。かまわないから選びたまえ。俺たちはたとい選にもれても、ストイックのように忍ぶから……心配せずに。俺たちのほうにはともちゃんを細君に持つのに反対する奴は一人もいまい。どうだみんないいか。よければ「よし」といえ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　よし。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　選んだらどうするの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そいつが残る四人のために死ななければならないんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　冗談もいいかげんにするものよ、人を馬鹿にして。（涙ぐむ）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　なあに、冗談じゃない。わけはない、ころっと死にさえすればいいんだよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　花田、貴様は残酷な奴だ。……ともちゃんをすぐ寡婦にする……そんな……貴様。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　（初めて思いついたようにたまらないほど笑う）なんだ貴様たちはともちゃんのハズがほんとうに……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　死ななけりゃならないんだろう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　死ぬことになるんださ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　同じじゃないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　同じじゃないさ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　花田のいい方が悪いんだよ。死ぬことになるんじゃない、つまり死んだことにするんだよ。わかったろう。つまり死ぬんじゃない、死んでしまうこと……でもないかな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　つまり、こうだ、いいか。頭を冷静にしてよく聞け。いいか。ともちゃんに選ばれた奴は実はその選ばれた奴の弟なんだ。いいか。そしてともちゃんとその弟とは前から夫婦なんだ。ともちゃんは、俺たちに理解と同情とを持っていて、モデルも<seg type="ruby"><seg type="rb">傭</seg><seg type="rp">（</seg><seg type="rt">やと</seg><seg type="rp">）</seg></seg>えないほど貧乏な俺たちのためにモデルになってくれたのだ。いいか。ところでともちゃんのハズの兄貴にあたるのが、ほんとうは俺たち五人の仲間の一人で、それがともちゃんに恋をして、貧乏と恋とのために業半ばにして死ぬことになるんだ。こんどはわかったろう。……まだわからないのか……<seg type="ruby"><seg type="rb">済度</seg><seg type="rp">（</seg><seg type="rt">さいど</seg><seg type="rp">）</seg></seg>しがたい奴だなあ。じゃ青島、実物でやって見せるよりしかたがない、あれを持ち込もう。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
+花田と青島、黒布に<seg type="ruby"><seg type="rb">被</seg><seg type="rp">（</seg><seg type="rt">おお</seg><seg type="rp">）</seg></seg>われたる寝棺をかつぎこむ。<lb />
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　いや……縁起の悪い……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　全く貴様はどうかしやしないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　さあ、ともちゃん、俺たちの中から一人選んでくれ。俺が引き受けた、おまえの旦那は決して死なしはしないから。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　だってそんな寝棺を持ち込む以上は……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　<seg type="ruby"><seg type="rb">死骸</seg><seg type="rp">（</seg><seg type="rt">しがい</seg><seg type="rp">）</seg></seg>になってここにはいる奴はこれだ。（といいながら、壁にかけられた<seg type="ruby"><seg type="rb">石膏</seg><seg type="rp">（</seg><seg type="rt">せっこう</seg><seg type="rp">）</seg></seg>面を指さす）こいつに絵の具を塗っておまえの選んだ男の代わりに入れればいいんだよ。たとえば俺がおまえに選ばれたとするね。ほんとうにそうありたいことだが。すると俺は俺の弟となっておまえと夫婦になるんだ。そうしてこいつ（石膏面）が俺の身代わりになってこの棺の中にはいるんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ははあ……少しわかってきてよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　わかったかい。天才画家の花田は死んでしまうんだ。ほんとうにもうこの世の中にはいなくなってしまうんだ。その代わり花田の弟というのがひょっこりできあがるんだ。それが俺さ。そうしておまえのハズさ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ははあ……だいぶわかってきてよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　な。そこに大俗物の九頭竜と、頭の悪い美術好きの成金堂脇左門とが、娘でも連れてはいってくる。花田の弟になり切った俺がおまえといっしょにここにいて愁歎場を見せるという仕組みなんだ。どうだ仙人どももわかったか。花田の弟になる俺は生きて行くが、花田の兄貴なるほんとうの花田は死んだことにするんだ。じゃない死ぬことになるんだ。現在死なねばならないんだ。それだから俺は始めから死ぬんだ死ぬんだといって聞かせているのに、貴様たちはまるで<seg type="ruby"><seg type="rb">木偶</seg><seg type="rp">（</seg><seg type="rt">でく</seg><seg type="rp">）</seg></seg>の坊見たいだからなあ。……ところで俺の弟は、兄貴の志をついで天才画家になるとしても、とにかく俺が死なねばならぬというのは悲壮な事実だよ。死にさえすれば、ことに若死にさえすればたいていの奴は天才になるに決まっているんだ。（石膏面をながめながら）死はいかなる場合においても、おごそかな悲しいもんだ。だからかかる犠牲を払うからには、俺がともちゃんのハズとして選ばれるくらいのことが必要になるんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　なにもあなたなんかまだ選びはしないことよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そうつけつけやり込めるもんじゃないよ、女ってものは。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　俺はもうだめだ。俺はある女を恋していた。そうして飢えが<seg type="ruby"><seg type="rb">逼</seg><seg type="rp">（</seg><seg type="rt">せま</seg><seg type="rp">）</seg></seg>ってきた。ああ俺は死んだほうがいい。俺は天才画家として画筆を握ったまま死にたいよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　花田さん、私、死ぬ人を旦那さんにするんじゃないのね。私の旦那さんが死ぬことになるんでしょう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　そうつけつけやり込めるものじゃないよ、女ってものは。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　みんな俺の計略がわかったな。俺たちは今俺たちの共同の敵なるフィリスティンと戦わねばならぬ時が来た。青島、おまえと堂脇との<seg type="ruby"><seg type="rb">遭遇</seg><seg type="rp">（</seg><seg type="rt">そうぐう</seg><seg type="rp">）</seg></seg>戦についても簡単に報告しろよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　僕はかまわず堂脇の家の広い庭にはいりこんで<seg type="ruby"><seg type="rb">画</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>を描いていてやった。そうしたら堂脇がお嬢さんを連れて散歩にやってきた。堂脇はこんなふうに歩いて、お嬢さんはこんなふうに歩いてそうして俺の<seg type="ruby"><seg type="rb">脇</seg><seg type="rp">（</seg><seg type="rt">わき</seg><seg type="rp">）</seg></seg>に突っ立って画を描くのを<seg rend="sesame_dot" rendition="em">じっ</seg>と見ていたっけが、庭にはいりこんだのを怒ると思いのほか、ふんと感心したような鼻息を漏らした。お嬢さんまでが「まあきれいだこと」と御意遊ばした。僕はしめたと思って、物をいい出す<seg rend="sesame_dot" rendition="em">つぎ</seg>穂に苦心したが、あんな海千山千の動物には俺の言葉はとてもわからないと思って黙っていた。全くあんな怪物の前に行くと薄気味の悪いもんだね。そうしたら堂脇が案外やさしい声で、「失礼ながらどちらでご勉強です、たいそうおみごとだが」と切り出した。僕は花田に教えられたとおり、自分の画なんかなんでもないが、昨日死んだ仲間の画は実に大したものだ、もしそれが世間に出たら、一世を驚かすだろうと、一生懸命になって<seg type="ruby"><seg type="rb">吹聴</seg><seg type="rp">（</seg><seg type="rt">ふいちょう</seg><seg type="rp">）</seg></seg>したんだ。いかもの食いの名人だけあって堂脇の奴すぐ乗り気になった。僕は九頭竜の主人が来て見ることになっているから、なんなら連れ立っておいでなさいといって飛び出してきた。なにしろお嬢さんがちかちか動物電気を送るんで、僕はとても長くいたたまれなかった。どうして最も美を<seg type="ruby"><seg type="rb">憧憬</seg><seg type="rp">（</seg><seg type="rt">どうけい</seg><seg type="rp">）</seg></seg>する僕たちの世界には、ナチュール・モルトのほかに美がとりつかないんだろうかなあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　どうかしてそのお嬢さんを描こうじゃないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　あの人がモデルになってくれれば僕はモナリザ以上のものを描いてみせるよ、きっと。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕はワットーの精神でそのデカダンの美を見きわめてやる。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　見もしないでなにをいうんだい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　君は芸術家の想像力を……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　報告終わり。事務第一。さ、みんな覚悟はいいか。ともちゃん、さあ選んでくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　私……恥ずかしいわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　おまえの無邪気さでやっちまいたまえ。なに、ひと言、誰っていってしまえば、それだけのことだよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　じゃ一生懸命で勇気を出して……けど、私がこれっていった人は、いやだなんていわないでちょうだいね。でないと、私ほんとうに自殺してよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　誓いを立てたんだからみんな大丈夫だ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 瀬古は自信をもって歩きまわる。花田は重いものをたびたび落として自分のほうに注意を促す。沢本は苦痛の表情を強めて同情をひく。青島はとも子の前にすわってじっとその顔を見ようとする。戸部は画箱の掃除をはじめる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（人々から顔をそむけ）では始めてよ。……花田さん、あなたは才覚があって画がお<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">じょうず</span><span type="rp">）</span></span>だから、いまにりっぱな画の会を作って、その会長さんにでもおなりなさるわ。お嫁にしてもらいたいって、学問のできる美しい方が掃いて捨てるほど集まってきてよきっと。沢本さんは男らしい、正直な生蕃さんね。あなたとはずいぶん口<span type="ruby"><span type="rb">喧嘩</span><span type="rp">（</span><span type="rt">げんか</span><span type="rp">）</span></span>をしましたが、奥さんができたらずいぶんかわいがるでしょうね、そうしてお子さんもたくさんできるわ。そうして物干し<span type="ruby"><span type="rb">竿</span><span type="rp">（</span><span type="rt">ざお</span><span type="rp">）</span></span>におしめがにぎやかに並びますわ。青島さんは花田さんといっしょに会をやって、きっと偉くなるわ。いまにみんながあなたの画を認めて大騒ぎする時が来てよ。そうして堂脇さんとやらが、美しいお嬢さんをもらってくださいって、先方から頭をさげてくるかもしれないわ。けれどもあんまり浮気をしちゃいけなくってよ。瀬古さん……あなた若様ね。きさくで親切で、顔つきだっていちばん上品できれいだし、お友達にはうってつけな方ね。でもあなた、きっと日本なんかいやだって外国にでも行っちまうんでしょう。おだいじにお暮らしなさい。戸部さんは<span type="ruby"><span type="rb">吃</span><span type="rp">（</span><span type="rt">ども</span><span type="rp">）</span></span>りで、<span type="ruby"><span type="rb">癇癪</span><span type="rp">（</span><span type="rt">かんしゃく</span><span type="rp">）</span></span>持ちで、気むずかしやね。いつまでたってもあなたの画は売れそうもないことね。けれどもあなたは強がりなくせに変に淋しい方ね。……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　畜生……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　悪口になったら、許してちょうだい。でも私は心から皆さんにお礼しますわ。私みたいな<span rend="sesame_dot" rendition="em">がらがら</span>した物のわからない人間を、皆さんでかわいがってくださったんですもの。お金にはちっともならなかったけれども、私、どこに行くよりも、ここに来るのがいちばんうれしかったの。ともどもに苦労しながら銘々がいちばん偉いつもりで、仲よく勉強しているのを見ていると、なんだか知らないが、私時々涙がこぼれっちまいましたわ。……でも私、自分の旦那さんを決めなければならないんだわ。いやになるねえ。私がいい人を選んでも、どうか怒らないでちょうだいよ。私、これでも身のほどをわきまえて選ぶつもりですから……（急に戸部の前にかけ寄り、ぴったりそこにすわり頭を下げる）戸部さん、私あなたのお<span type="ruby"><span type="rb">内儀</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>さんになります。怒らないでちょうだいよ。私あなたのことを思うと、変に悲しくなって、泣いちまうんですもの……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　君……冗談をいうない、冗談を……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ともちゃん、でかしたぞ。全くおまえに似合わしい選び方だ。だがドモ<span type="ruby"><span type="rb">又</span><span type="rp">（</span><span type="rt">また</span><span type="rp">）</span></span>におはちが廻ろうとは俺も実は今の今まで思わなかったよ。ともちゃんが戸部一人のものになって、明日から来なくなると思うと、急に俺たちの上には秋が来たようだなあ……しかしもう何もいうな。勇ましく運命に黙従するほかはない。そうして戸部とともちゃんとの未来を祝福しようじゃないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺はともちゃんをなぐったことがある。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ええ、たしか二度なぐられてよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　それでも、俺のところに来る気か。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　行きます。その代わり、こんどこそはなぐられてばかりいないわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　夫婦<span type="ruby"><span type="rb">喧嘩</span><span type="rp">（</span><span type="rt">げんか</span><span type="rp">）</span></span>の仲裁なら僕がしてやるよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　よけいな世話だ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（同時）よけいなお世話よ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　気が強くなったなあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　それどころじゃない。もうおっつけ九頭竜らがやってくる。おい若夫婦、おまえたちは今日は花形だから忙しいぞ。ともちゃん……じゃない、奥さんは庭にお出でなすって、お兄さんの棺を飾る花をお集めくださいませんか。ドモ又、おまえが描いたという画はなんでもかんでも持ち出してサインをしろ。そうして青島、おまえひとつこの石膏面に絵の具を塗ってドモ又の死に顔らしくしてくれ。それから沢本と瀬古とは部屋を片づけて……ただし画室らしく片づけろよ。芸術家の尊厳を失うほどきちんと片づけちゃだめだよ。美的にそこいらを散らかすのを忘れちゃいかんぜ。そこで俺はと……俺はドモ又をドモ又の弟に仕立て上げる役目にまわるから……おまえの画はたいてい隣の部屋にあるんだろう。これはおまえんだ。これもこれもみんな持って行こう。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（人々から顔をそむけ）では始めてよ。……花田さん、あなたは才覚があって画がお<seg type="ruby"><seg type="rb">上手</seg><seg type="rp">（</seg><seg type="rt">じょうず</seg><seg type="rp">）</seg></seg>だから、いまにりっぱな画の会を作って、その会長さんにでもおなりなさるわ。お嫁にしてもらいたいって、学問のできる美しい方が掃いて捨てるほど集まってきてよきっと。沢本さんは男らしい、正直な生蕃さんね。あなたとはずいぶん口<seg type="ruby"><seg type="rb">喧嘩</seg><seg type="rp">（</seg><seg type="rt">げんか</seg><seg type="rp">）</seg></seg>をしましたが、奥さんができたらずいぶんかわいがるでしょうね、そうしてお子さんもたくさんできるわ。そうして物干し<seg type="ruby"><seg type="rb">竿</seg><seg type="rp">（</seg><seg type="rt">ざお</seg><seg type="rp">）</seg></seg>におしめがにぎやかに並びますわ。青島さんは花田さんといっしょに会をやって、きっと偉くなるわ。いまにみんながあなたの画を認めて大騒ぎする時が来てよ。そうして堂脇さんとやらが、美しいお嬢さんをもらってくださいって、先方から頭をさげてくるかもしれないわ。けれどもあんまり浮気をしちゃいけなくってよ。瀬古さん……あなた若様ね。きさくで親切で、顔つきだっていちばん上品できれいだし、お友達にはうってつけな方ね。でもあなた、きっと日本なんかいやだって外国にでも行っちまうんでしょう。おだいじにお暮らしなさい。戸部さんは<seg type="ruby"><seg type="rb">吃</seg><seg type="rp">（</seg><seg type="rt">ども</seg><seg type="rp">）</seg></seg>りで、<seg type="ruby"><seg type="rb">癇癪</seg><seg type="rp">（</seg><seg type="rt">かんしゃく</seg><seg type="rp">）</seg></seg>持ちで、気むずかしやね。いつまでたってもあなたの画は売れそうもないことね。けれどもあなたは強がりなくせに変に淋しい方ね。……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　畜生……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　悪口になったら、許してちょうだい。でも私は心から皆さんにお礼しますわ。私みたいな<seg rend="sesame_dot" rendition="em">がらがら</seg>した物のわからない人間を、皆さんでかわいがってくださったんですもの。お金にはちっともならなかったけれども、私、どこに行くよりも、ここに来るのがいちばんうれしかったの。ともどもに苦労しながら銘々がいちばん偉いつもりで、仲よく勉強しているのを見ていると、なんだか知らないが、私時々涙がこぼれっちまいましたわ。……でも私、自分の旦那さんを決めなければならないんだわ。いやになるねえ。私がいい人を選んでも、どうか怒らないでちょうだいよ。私、これでも身のほどをわきまえて選ぶつもりですから……（急に戸部の前にかけ寄り、ぴったりそこにすわり頭を下げる）戸部さん、私あなたのお<seg type="ruby"><seg type="rb">内儀</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg>さんになります。怒らないでちょうだいよ。私あなたのことを思うと、変に悲しくなって、泣いちまうんですもの……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　君……冗談をいうない、冗談を……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ともちゃん、でかしたぞ。全くおまえに似合わしい選び方だ。だがドモ<seg type="ruby"><seg type="rb">又</seg><seg type="rp">（</seg><seg type="rt">また</seg><seg type="rp">）</seg></seg>におはちが廻ろうとは俺も実は今の今まで思わなかったよ。ともちゃんが戸部一人のものになって、明日から来なくなると思うと、急に俺たちの上には秋が来たようだなあ……しかしもう何もいうな。勇ましく運命に黙従するほかはない。そうして戸部とともちゃんとの未来を祝福しようじゃないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺はともちゃんをなぐったことがある。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ええ、たしか二度なぐられてよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　それでも、俺のところに来る気か。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　行きます。その代わり、こんどこそはなぐられてばかりいないわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　夫婦<seg type="ruby"><seg type="rb">喧嘩</seg><seg type="rp">（</seg><seg type="rt">げんか</seg><seg type="rp">）</seg></seg>の仲裁なら僕がしてやるよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　よけいな世話だ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（同時）よけいなお世話よ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　気が強くなったなあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　それどころじゃない。もうおっつけ九頭竜らがやってくる。おい若夫婦、おまえたちは今日は花形だから忙しいぞ。ともちゃん……じゃない、奥さんは庭にお出でなすって、お兄さんの棺を飾る花をお集めくださいませんか。ドモ又、おまえが描いたという画はなんでもかんでも持ち出してサインをしろ。そうして青島、おまえひとつこの石膏面に絵の具を塗ってドモ又の死に顔らしくしてくれ。それから沢本と瀬古とは部屋を片づけて……ただし画室らしく片づけろよ。芸術家の尊厳を失うほどきちんと片づけちゃだめだよ。美的にそこいらを散らかすのを忘れちゃいかんぜ。そこで俺はと……俺はドモ又をドモ又の弟に仕立て上げる役目にまわるから……おまえの画はたいてい隣の部屋にあるんだろう。これはおまえんだ。これもこれもみんな持って行こう。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 とも子は庭に、戸部と花田別室にはいり去る。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　こんなアポロの面にいくら絵の具をなすりつけたって、ドモ又の顔にはなりゃしないや。も少し<span type="ruby"><span type="rb">獅子鼻</span><span type="rp">（</span><span type="rt">ししばな</span><span type="rp">）</span></span>ででこぼこのある……まあこれだな、ベトーヴェンで間に合わせるんだな。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　こんなアポロの面にいくら絵の具をなすりつけたって、ドモ又の顔にはなりゃしないや。も少し<seg type="ruby"><seg type="rb">獅子鼻</seg><seg type="rp">（</seg><seg type="rt">ししばな</seg><seg type="rp">）</seg></seg>ででこぼこのある……まあこれだな、ベトーヴェンで間に合わせるんだな。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 青島、塗りはじめる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ああ俺はもうだめだ。興奮が過ぎ去ったら急にまた腹がへってきた。いったい花田の奴よけいなことをしやがる奴だ。あの<span type="ruby"><span type="rb">可憐</span><span type="rp">（</span><span type="rt">かれん</span><span type="rp">）</span></span>な自然児ともちゃんも、人妻なんていう人間じみたものに……ああ、俺はもうだめだ。若様、貴様勝手に掃除しろ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕もすっかり悲観したよ。もとはっていえば青島が悪いんだ。堂脇のお嬢さんのモデル事件さえなければ、運命はもっと正しい道筋を歩いていたんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　僕が悪いんじゃない、堂脇のお嬢さんが存在していたのが悪いんだ。お嬢さんの存在が悪いんじゃない、その存在を可能ならしめた堂脇のじじいの存在していたのが悪いんだ。つまり堂脇のじじいが僕たちの運命をすっかり狂わしてしまったんだよ……どうだ少しドモ又に似てきたか……他人の運命を狂わした罪科に対して、堂脇は存分に罰せらるべきだよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　そうだとも。なにしろあいつの金力が美の標準をめちゃくちゃにするために使われていたんだ。そのために俺たちは三度のものも食えないほどに飢えてしまうんだ。ドモ又が死んで色づけのベトーヴェンになる結果に陥ったんだ。ドモ又の命が買いもどせるくらいの罰金を出させなけりゃ、俺たちの腹の虫は納まらないや。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そうしてそれが結局堂脇や九頭竜を教育することになるんだからなあ。いくら高く買わせたってドモ又の画は高くはないよ。こんどあいつらは生まれてはじめて画というものを拝むんだ。うんと高く売りつけてやるんだなあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　そうすると、俺たちはうんと飯を食って底力を養うことができるぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　そうだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ああ早く我らの共同の敵なるフィリスティンどもが来るといいなあ。おい若様、少し働こう。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
-二人であらかた画室を片づける。花田と戸部とがはいってくる。戸部は頭を<span type="ruby"><span type="rb">虎斑</span><span type="rp">（</span><span type="rt">とらふ</span><span type="rp">）</span></span>に刈りこまれて<span type="ruby"><span type="rb">髭</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>をそり落とされている。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　諸君、ドモ又の戸部が死んだについて、その令弟が急を聞いて尋ねてこられたんだ。諸君に紹介します。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ああ俺はもうだめだ。興奮が過ぎ去ったら急にまた腹がへってきた。いったい花田の奴よけいなことをしやがる奴だ。あの<seg type="ruby"><seg type="rb">可憐</seg><seg type="rp">（</seg><seg type="rt">かれん</seg><seg type="rp">）</seg></seg>な自然児ともちゃんも、人妻なんていう人間じみたものに……ああ、俺はもうだめだ。若様、貴様勝手に掃除しろ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　僕もすっかり悲観したよ。もとはっていえば青島が悪いんだ。堂脇のお嬢さんのモデル事件さえなければ、運命はもっと正しい道筋を歩いていたんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　僕が悪いんじゃない、堂脇のお嬢さんが存在していたのが悪いんだ。お嬢さんの存在が悪いんじゃない、その存在を可能ならしめた堂脇のじじいの存在していたのが悪いんだ。つまり堂脇のじじいが僕たちの運命をすっかり狂わしてしまったんだよ……どうだ少しドモ又に似てきたか……他人の運命を狂わした罪科に対して、堂脇は存分に罰せらるべきだよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　そうだとも。なにしろあいつの金力が美の標準をめちゃくちゃにするために使われていたんだ。そのために俺たちは三度のものも食えないほどに飢えてしまうんだ。ドモ又が死んで色づけのベトーヴェンになる結果に陥ったんだ。ドモ又の命が買いもどせるくらいの罰金を出させなけりゃ、俺たちの腹の虫は納まらないや。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　そうしてそれが結局堂脇や九頭竜を教育することになるんだからなあ。いくら高く買わせたってドモ又の画は高くはないよ。こんどあいつらは生まれてはじめて画というものを拝むんだ。うんと高く売りつけてやるんだなあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　そうすると、俺たちはうんと飯を食って底力を養うことができるぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　そうだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　ああ早く我らの共同の敵なるフィリスティンどもが来るといいなあ。おい若様、少し働こう。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
+二人であらかた画室を片づける。花田と戸部とがはいってくる。戸部は頭を<seg type="ruby"><seg type="rb">虎斑</seg><seg type="rp">（</seg><seg type="rt">とらふ</seg><seg type="rp">）</seg></seg>に刈りこまれて<seg type="ruby"><seg type="rb">髭</seg><seg type="rp">（</seg><seg type="rt">ひげ</seg><seg type="rp">）</seg></seg>をそり落とされている。<lb />
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　諸君、ドモ又の戸部が死んだについて、その令弟が急を聞いて尋ねてこられたんだ。諸君に紹介します。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 一同笑いながら頭を下げる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺……じゃない、俺の兄貴の死に顔をちょっと見せてくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　どうだこれで。（石膏面を見せる）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺の兄貴は<span type="ruby"><span type="rb">醜男</span><span type="rp">（</span><span type="rt">ぶおとこ</span><span type="rp">）</span></span>だったなあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　醜男はいいが髭が生えていないじゃないか。近所の人が<span type="ruby"><span type="rb">悔</span><span type="rp">（</span><span type="rt">くや</span><span type="rp">）</span></span>みに来るとまずいから、そり落して髭を植えてやろう。それから体のほうも造らなきゃ……この棺を隣に持っていって……おいドモ又の弟、おまえそこで残ったのにサインをしろ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺……じゃない、俺の兄貴の死に顔をちょっと見せてくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　どうだこれで。（石膏面を見せる）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺の兄貴は<seg type="ruby"><seg type="rb">醜男</seg><seg type="rp">（</seg><seg type="rt">ぶおとこ</seg><seg type="rp">）</seg></seg>だったなあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　醜男はいいが髭が生えていないじゃないか。近所の人が<seg type="ruby"><seg type="rb">悔</seg><seg type="rp">（</seg><seg type="rt">くや</seg><seg type="rp">）</seg></seg>みに来るとまずいから、そり落して髭を植えてやろう。それから体のほうも造らなきゃ……この棺を隣に持っていって……おいドモ又の弟、おまえそこで残ったのにサインをしろ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 戸部を残し一同退場。戸部しきりとサインをしている。とも子花を持ちて入場。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（戸部とは気がつかず次の部屋に行こうとする）あの、ごめんくださいまし……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　ともちゃん……俺だ……俺だ……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　あら……あなた戸部さんじゃなくって。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺は君のハズで……戸部の弟だよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　あらそうだわ。まあそれに違いないわ。戸部さんの弟って、戸部さんよりは若い方ねえ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　ともちゃん……俺は君に<span type="ruby"><span type="rb">遇</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>った時から……君が好きだった。けれども俺は、女なんかに縁はないと思って……あきらめていたんだが……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ごめんなさいよ。私、はじめてここに来た時、あなたなんて、黙りこくって<span type="ruby"><span type="rb">醜男</span><span type="rp">（</span><span type="rt">ぶおとこ</span><span type="rp">）</span></span>な人、いるんだかいないんだかわからなかったんですけど、だんだん、だんだあん好きになってきてしまいましたわ。花田さんが私の旦那さんに誰でも選んでいいっていった時は、ほんとうはずいぶんうれしかったけれど、あなたはきっと私がきらいなんだと思ってずいぶん心配したわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　なにしろ俺は幸福だ……俺は自分の芸術のほかには、もうなんにも望みはないよ。……俺はもう君をなぐらないよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（うれしさに涙ぐみつつ）なぐってもいいことよ。いいから私をかわいがってくださいね。私も一生懸命であなたをかわいがりますわ。あなたは宝の<span type="ruby"><span type="rb">珠</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>のように、かわいがればかわいがるほど光が出てくる人だってことを、私ちゃんと知っててよ。あなたは<span type="ruby"><span type="rb">泥</span><span type="rp">（</span><span type="rt">どろ</span><span type="rp">）</span></span>だらけな宝の珠だわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺は口がきけないから……思ったことがいえない……</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（戸部とは気がつかず次の部屋に行こうとする）あの、ごめんくださいまし……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　ともちゃん……俺だ……俺だ……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　あら……あなた戸部さんじゃなくって。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺は君のハズで……戸部の弟だよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　あらそうだわ。まあそれに違いないわ。戸部さんの弟って、戸部さんよりは若い方ねえ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　ともちゃん……俺は君に<seg type="ruby"><seg type="rb">遇</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>った時から……君が好きだった。けれども俺は、女なんかに縁はないと思って……あきらめていたんだが……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　ごめんなさいよ。私、はじめてここに来た時、あなたなんて、黙りこくって<seg type="ruby"><seg type="rb">醜男</seg><seg type="rp">（</seg><seg type="rt">ぶおとこ</seg><seg type="rp">）</seg></seg>な人、いるんだかいないんだかわからなかったんですけど、だんだん、だんだあん好きになってきてしまいましたわ。花田さんが私の旦那さんに誰でも選んでいいっていった時は、ほんとうはずいぶんうれしかったけれど、あなたはきっと私がきらいなんだと思ってずいぶん心配したわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　なにしろ俺は幸福だ……俺は自分の芸術のほかには、もうなんにも望みはないよ。……俺はもう君をなぐらないよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　（うれしさに涙ぐみつつ）なぐってもいいことよ。いいから私をかわいがってくださいね。私も一生懸命であなたをかわいがりますわ。あなたは宝の<seg type="ruby"><seg type="rb">珠</seg><seg type="rp">（</seg><seg type="rt">たま</seg><seg type="rp">）</seg></seg>のように、かわいがればかわいがるほど光が出てくる人だってことを、私ちゃんと知っててよ。あなたは<seg type="ruby"><seg type="rb">泥</seg><seg type="rp">（</seg><seg type="rt">どろ</seg><seg type="rp">）</seg></seg>だらけな宝の珠だわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺は口がきけないから……思ったことがいえない……</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 とも子の手を取って引き寄せようとする。沢本、突然戸をあけて登場。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　おうい、ドモ又……と、あの、貴様のその上衣をよこせ、貴様の兄貴に着せるんだから。その代わりこれを着ろ……ともちゃん花が取れたかい。それか。それをおくれ、棺を飾るんだから……</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
-沢本退場。……戸部ととも子寄り添わんとす。別室にて<span type="ruby"><span type="rb">哄笑</span><span type="rp">（</span><span type="rt">こうしょう</span><span type="rp">）</span></span>の声二人くやしそうに離れたところにすわる。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　今夜帰ったら、私すぐお母さんにそういって、いやでも応でも承知させますわ。で、こんどのあなたの名まえは……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺はなんという名まえにするかな……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　いいわ、私の名を上げるから、戸部友又じゃいけない……それじゃおかしいわね。あのね……あなたまた画かきになるんでしょう……</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　おうい、ドモ又……と、あの、貴様のその上衣をよこせ、貴様の兄貴に着せるんだから。その代わりこれを着ろ……ともちゃん花が取れたかい。それか。それをおくれ、棺を飾るんだから……</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
+沢本退場。……戸部ととも子寄り添わんとす。別室にて<seg type="ruby"><seg type="rb">哄笑</seg><seg type="rp">（</seg><seg type="rt">こうしょう</seg><seg type="rp">）</seg></seg>の声二人くやしそうに離れたところにすわる。<lb />
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　今夜帰ったら、私すぐお母さんにそういって、いやでも応でも承知させますわ。で、こんどのあなたの名まえは……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　俺はなんという名まえにするかな……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　いいわ、私の名を上げるから、戸部友又じゃいけない……それじゃおかしいわね。あのね……あなたまた画かきになるんでしょう……</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 とも子近づこうとする。瀬古登場。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ちょっとちょっと。ここにおまえの画がまだ残っていたから……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　うるさい奴だなあ……</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　ちょっとちょっと。ここにおまえの画がまだ残っていたから……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　うるさい奴だなあ……</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 瀬古退場。別室にて哄笑の声、やがて一同飾りを終わって棺をかついで登場。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　早く早く……もうやってくるぞ。棺のこっちにこの<span type="ruby"><span type="rb">椅子</span><span type="rp">（</span><span type="rt">いす</span><span type="rp">）</span></span>をおいて……これをここに、おい青島……それをそっちにやってくれ……おいみんな手伝えな……一時間の後には俺たちはしこたまご<span type="ruby"><span type="rb">馳走</span><span type="rp">（</span><span type="rt">ちそう</span><span type="rp">）</span></span>が食える身分になるんだ。生蕃、そんな及び腰をするなよ。みっともない。……これでだいたいいい……さあみんな舞台よきところにすわれ。若夫婦はその椅子だ。なにしろ俺たちは、一人のだいじな友人を犠牲に供して飯を食わねばならぬ悲境にあるんだ。ドモ又は俺たち五人の仲間から消えてなくなるのだ。ドモ又の弟はその細君のともちゃんと旅の空に出かけることになるだろう。俺たちのように良心をもって真剣に働く人間がこんな大きな損失を忍ばねばならぬというのは世にも悲惨なことだ。しかし俺たちは自分の愛護する芸術のために最後まで戦わねばならない。俺たちの主張を成就するためには手段を選んではいられなくなったんだ。俺たちはこの棺の中に死んで横たわるドモ又の霊にかけて誓いを立てよう。俺たちはこの友人の死に値いするだけのりっぱな芸術を生み出すことを誓う。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺たちは力を<span type="ruby"><span type="rb">協</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>せて、九頭竜という悪ブローカーおよび堂脇という<span type="ruby"><span type="rb">似而非</span><span type="rp">（</span><span type="rt">えせ</span><span type="rp">）</span></span>美術保護者の<span type="ruby"><span type="rb">金嚢</span><span type="rp">（</span><span type="rt">かなぶくろ</span><span type="rp">）</span></span>から<span type="ruby"><span type="rb">能</span><span type="rp">（</span><span type="rt">あた</span><span type="rp">）</span></span>うかぎりの罰金を支払わせることを誓う。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そのためには日ごろの馬鹿正直をなげうって、巧みに権謀術数を用うることを誓う。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ただし<span type="ruby"><span type="rb">尻尾</span><span type="rp">（</span><span type="rt">しっぽ</span><span type="rp">）</span></span>を出しそうな奴は黙って引っ込んでいるほうがいいぜ。それでは俺たち四人は戸部とともちゃんとに最後の告別をしようじゃないか。……戸部、おまえのこれまでの芸術は、若くして死んだ天才戸部の芸術として世に残るだろう。しかしそこでおまえの生活が中断するのを俺たちはすまなく思う。しかしその<span type="ruby"><span type="rb">償</span><span type="rp">（</span><span type="rt">つぐな</span><span type="rp">）</span></span>いにともちゃんを得た以上、不平をいわないでくれ。な、そうしておまえは新たに戸部の弟として新生面を開いてくれ。俺たちはそれを待っているから。じゃさよなら。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　早く早く……もうやってくるぞ。棺のこっちにこの<seg type="ruby"><seg type="rb">椅子</seg><seg type="rp">（</seg><seg type="rt">いす</seg><seg type="rp">）</seg></seg>をおいて……これをここに、おい青島……それをそっちにやってくれ……おいみんな手伝えな……一時間の後には俺たちはしこたまご<seg type="ruby"><seg type="rb">馳走</seg><seg type="rp">（</seg><seg type="rt">ちそう</seg><seg type="rp">）</seg></seg>が食える身分になるんだ。生蕃、そんな及び腰をするなよ。みっともない。……これでだいたいいい……さあみんな舞台よきところにすわれ。若夫婦はその椅子だ。なにしろ俺たちは、一人のだいじな友人を犠牲に供して飯を食わねばならぬ悲境にあるんだ。ドモ又は俺たち五人の仲間から消えてなくなるのだ。ドモ又の弟はその細君のともちゃんと旅の空に出かけることになるだろう。俺たちのように良心をもって真剣に働く人間がこんな大きな損失を忍ばねばならぬというのは世にも悲惨なことだ。しかし俺たちは自分の愛護する芸術のために最後まで戦わねばならない。俺たちの主張を成就するためには手段を選んではいられなくなったんだ。俺たちはこの棺の中に死んで横たわるドモ又の霊にかけて誓いを立てよう。俺たちはこの友人の死に値いするだけのりっぱな芸術を生み出すことを誓う。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　俺たちは力を<seg type="ruby"><seg type="rb">協</seg><seg type="rp">（</seg><seg type="rt">あわ</seg><seg type="rp">）</seg></seg>せて、九頭竜という悪ブローカーおよび堂脇という<seg type="ruby"><seg type="rb">似而非</seg><seg type="rp">（</seg><seg type="rt">えせ</seg><seg type="rp">）</seg></seg>美術保護者の<seg type="ruby"><seg type="rb">金嚢</seg><seg type="rp">（</seg><seg type="rt">かなぶくろ</seg><seg type="rp">）</seg></seg>から<seg type="ruby"><seg type="rb">能</seg><seg type="rp">（</seg><seg type="rt">あた</seg><seg type="rp">）</seg></seg>うかぎりの罰金を支払わせることを誓う。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そのためには日ごろの馬鹿正直をなげうって、巧みに権謀術数を用うることを誓う。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ただし<seg type="ruby"><seg type="rb">尻尾</seg><seg type="rp">（</seg><seg type="rt">しっぽ</seg><seg type="rp">）</seg></seg>を出しそうな奴は黙って引っ込んでいるほうがいいぜ。それでは俺たち四人は戸部とともちゃんとに最後の告別をしようじゃないか。……戸部、おまえのこれまでの芸術は、若くして死んだ天才戸部の芸術として世に残るだろう。しかしそこでおまえの生活が中断するのを俺たちはすまなく思う。しかしその<seg type="ruby"><seg type="rb">償</seg><seg type="rp">（</seg><seg type="rt">つぐな</seg><seg type="rp">）</seg></seg>いにともちゃんを得た以上、不平をいわないでくれ。な、そうしておまえは新たに戸部の弟として新生面を開いてくれ。俺たちはそれを待っているから。じゃさよなら。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 一同かわるがわる握手する。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ともちゃん、おまえは俺たちの力だった、慰めだった、お母さんだった、かわいい娘だった。おまえと別れるのは俺たち全くつらいや。だからおまえの<span type="ruby"><span type="rb">額</span><span type="rp">（</span><span type="rt">ひたい</span><span type="rp">）</span></span>に一度だけみんなで<span type="ruby"><span type="rb">接吻</span><span type="rp">（</span><span type="rt">せっぷん</span><span type="rp">）</span></span>するのを許しておくれ。なあ戸部いいだろう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　よし、一度限り許してやる。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ともちゃんさよなら。（額に接吻する）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さよなら花田さん。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　俺はまあやめとく。握手だけしとく。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さよなら生蕃さん。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　さよなら。（額に接吻する）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　おだいじに浮気屋さん。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　<span type="ruby"><span type="rb">唇</span><span type="rp">（</span><span type="rt">くちびる</span><span type="rp">）</span></span>をよくお見せ。あああ。（額に接吻する）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さよならかわいい若様。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ともちゃん、おまえは俺たちの力だった、慰めだった、お母さんだった、かわいい娘だった。おまえと別れるのは俺たち全くつらいや。だからおまえの<seg type="ruby"><seg type="rb">額</seg><seg type="rp">（</seg><seg type="rt">ひたい</seg><seg type="rp">）</seg></seg>に一度だけみんなで<seg type="ruby"><seg type="rb">接吻</seg><seg type="rp">（</seg><seg type="rt">せっぷん</seg><seg type="rp">）</seg></seg>するのを許しておくれ。なあ戸部いいだろう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">戸部　　よし、一度限り許してやる。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　ともちゃんさよなら。（額に接吻する）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さよなら花田さん。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　俺はまあやめとく。握手だけしとく。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さよなら生蕃さん。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">青島　　さよなら。（額に接吻する）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　おだいじに浮気屋さん。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">瀬古　　<seg type="ruby"><seg type="rb">唇</seg><seg type="rp">（</seg><seg type="rt">くちびる</seg><seg type="rp">）</seg></seg>をよくお見せ。あああ。（額に接吻する）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　さよならかわいい若様。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 とも子さすがに感情せまって泣き出す。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　よし。それからドモ又の弟にいうが、<span type="ruby"><span type="rb">不精</span><span type="rp">（</span><span type="rt">ぶしょう</span><span type="rp">）</span></span>をしていると、頭の毛と<span type="ruby"><span type="rb">髭</span><span type="rp">（</span><span type="rt">ひげ</span><span type="rp">）</span></span>とが延びてきて、ドモ又にあともどりする恐れがあるから、今後決して不精髭を生やさないことにしてくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　そんなこと、私がさせときませんわ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　よし。それからドモ又の弟にいうが、<seg type="ruby"><seg type="rb">不精</seg><seg type="rp">（</seg><seg type="rt">ぶしょう</seg><seg type="rp">）</seg></seg>をしていると、頭の毛と<seg type="ruby"><seg type="rb">髭</seg><seg type="rp">（</seg><seg type="rt">ひげ</seg><seg type="rp">）</seg></seg>とが延びてきて、ドモ又にあともどりする恐れがあるから、今後決して不精髭を生やさないことにしてくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">とも子　そんなこと、私がさせときませんわ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 戸外にて戸をたたく音聞こゆ。<lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">人の声　ええ、ごめんくださいまし、九頭竜でございますが、花田さんはおいででございましょうか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">他の人の声　私は堂脇ですが……</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そら来やがった。……みんないいか大丈夫か……俺たちは非常な不幸に<span type="ruby"><span type="rb">遇</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>ったんだぞ。悲しみのどん底にいるんだぞ。この際笑いでもした奴は敵に内通した<span type="ruby"><span type="rb">謀叛</span><span type="rp">（</span><span type="rt">むほん</span><span type="rp">）</span></span>人としてみんなで制裁するからそう思え。九頭竜も堂脇も……今あけます、ちょっと待ってください……九頭竜も堂脇もたまらない俗物だが、政略上向かっ腹を立てて事をし損じないようにみんな誓え。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　泣ける奴は時々涙をこぼすようにしろ、いいか……じゃあけるぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　花田、ちょっと待て……（<span type="ruby"><span type="rb">茶碗</span><span type="rp">（</span><span type="rt">ちゃわん</span><span type="rp">）</span></span>に二杯水を入れて戸部の所に持って行く）おいドモ又、貴様の涙をこの中に入れとくぞ。これはともちゃんのだ。<span type="ruby"><span type="rb">尻</span><span type="rp">（</span><span type="rt">しり</span><span type="rp">）</span></span>の後ろにやっとけ。あわててこぼすな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　しいっ。（観客のほうに向いて笑うのを制する）じゃあけるぞ。みんなしかめっ<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>をしてろ。</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">人の声　ええ、ごめんくださいまし、九頭竜でございますが、花田さんはおいででございましょうか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">他の人の声　私は堂脇ですが……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　そら来やがった。……みんないいか大丈夫か……俺たちは非常な不幸に<seg type="ruby"><seg type="rb">遇</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>ったんだぞ。悲しみのどん底にいるんだぞ。この際笑いでもした奴は敵に内通した<seg type="ruby"><seg type="rb">謀叛</seg><seg type="rp">（</seg><seg type="rt">むほん</seg><seg type="rp">）</seg></seg>人としてみんなで制裁するからそう思え。九頭竜も堂脇も……今あけます、ちょっと待ってください……九頭竜も堂脇もたまらない俗物だが、政略上向かっ腹を立てて事をし損じないようにみんな誓え。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一同　　誓う。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　泣ける奴は時々涙をこぼすようにしろ、いいか……じゃあけるぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">沢本　　花田、ちょっと待て……（<seg type="ruby"><seg type="rb">茶碗</seg><seg type="rp">（</seg><seg type="rt">ちゃわん</seg><seg type="rp">）</seg></seg>に二杯水を入れて戸部の所に持って行く）おいドモ又、貴様の涙をこの中に入れとくぞ。これはともちゃんのだ。<seg type="ruby"><seg type="rb">尻</seg><seg type="rp">（</seg><seg type="rt">しり</seg><seg type="rp">）</seg></seg>の後ろにやっとけ。あわててこぼすな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">花田　　しいっ。（観客のほうに向いて笑うのを制する）じゃあけるぞ。みんなしかめっ<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">つら</seg><seg type="rp">）</seg></seg>をしてろ。</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 とも子はさっきからほんとうに泣いている。戸部、茶碗から水をすくって眼のふちに塗る。花田、戸をあけに行く。<lb />
-</span>
-<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">――幕――</span>
+</seg>
+<seg rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">――幕――</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

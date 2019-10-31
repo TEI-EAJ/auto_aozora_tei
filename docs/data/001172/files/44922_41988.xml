@@ -36,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 おかみさん。<lb />
 とりのおかみさん。<lb />
 　ぼうしかぶつて<lb />
@@ -51,7 +51,7 @@
 　かごさげて<lb />
 　むかふの市場へ<lb />
 　卵かひにゆきます。<lb />
-　自<span type="ruby"><span type="rb">働</span><span type="rp">（</span><span type="rt">ママ</span><span type="rp">）</span></span>車の卵かひにゆきます。<lb />
+　自<seg type="ruby"><seg type="rb">働</seg><seg type="rp">（</seg><seg type="rt">ママ</seg><seg type="rp">）</seg></seg>車の卵かひにゆきます。<lb />
 　電車の卵かひにゆきます。<lb />
 　飛行機の卵かひにゆきます。<lb />
 　おはなしの卵かひにゆきます。<lb />
@@ -59,6 +59,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

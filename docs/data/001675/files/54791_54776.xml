@@ -32,15 +32,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">序論</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">序論</seg></seg></seg>
 <lb />
 Ｇ線の下で<lb />
 アリアをうたっていた<lb />
 てるてる坊主が<lb />
 雨にぬれていた<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">本論</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">本論</seg></seg></seg>
 <lb />
 交通が便利になって<lb />
 文化はランジュクした<lb />
@@ -63,7 +63,7 @@
 ボクらのニッポンは<lb />
 強い国であった<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">結論</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">結論</seg></seg></seg>
 <lb />
 ダダがうなっていたけれども<lb />
 プロがうなっていたけれども<lb />
@@ -77,6 +77,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

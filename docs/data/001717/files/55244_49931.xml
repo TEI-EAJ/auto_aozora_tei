@@ -35,8 +35,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">詩神</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">詩神</seg></seg></seg>
 <lb />
 うたびとよ、こといだけ、くちふれよ。<lb />
 はつざきのはなさうび、さきいでて、<lb />
@@ -45,7 +45,7 @@
 あさみどり、わかえだにうつりなく。<lb />
 うたびとよ、こといだけ、くちふれよ。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">詩人</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">詩人</seg></seg></seg>
 <lb />
 たにまのけしきさとくらく、<lb />
 おぼろにかすむはざまかな。<lb />
@@ -58,6 +58,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

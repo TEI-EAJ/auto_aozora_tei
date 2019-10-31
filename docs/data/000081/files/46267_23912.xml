@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2006-07-26">作成</resp><resp /><note>
 <lb />
-底本：「【新】校本宮澤賢治全集　第六巻　詩5<span rend="notes">［＃「5」はローマ数字、1-13-25］</span>　本文篇」筑摩書房
+底本：「【新】校本宮澤賢治全集　第六巻　詩5<seg rend="notes" rendition="span">［＃「5」はローマ数字、1-13-25］</seg>　本文篇」筑摩書房
 <lb />
 　　　1996（平成8）年5月30日初版第1刷発行<lb />
 ※第一連、三行目「ツチニ俯シ」の「チ」は、底本編集時に補われたものです。<lb />
@@ -33,32 +33,32 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-<span target="ltr">（一）</span>日ハ君臨シ　カガヤキハ<lb />
+<seg rendition="span" style="ltr">（一）</seg>日ハ君臨シ　カガヤキハ<lb />
 　白金ノアメ　ソソギタリ<lb />
 　ワレラハ黒キ　ツチニ俯シ<lb />
 　マコトノクサノ　タネマケリ<lb />
 <lb />
-<span target="ltr">（二）</span>日ハ君臨シ　穹窿ニ<lb />
+<seg rendition="span" style="ltr">（二）</seg>日ハ君臨シ　穹窿ニ<lb />
 　ミナギリワタス　青ビカリ<lb />
 　ヒカリノアセヲ　感ズレバ<lb />
 　気圏ノキハミ　隈モナシ<lb />
 <lb />
-<span target="ltr">（三）</span>日ハ君臨シ　玻璃ノマド<lb />
+<seg rendition="span" style="ltr">（三）</seg>日ハ君臨シ　玻璃ノマド<lb />
 　清澄ニシテ　寂カナリ<lb />
 　サアレマコトヲ　索メテハ<lb />
 　白亜ノ霧モ　アビヌベシ<lb />
 <lb />
-<span target="ltr">（四）</span>日ハ君臨シ　カガヤキノ<lb />
+<seg rendition="span" style="ltr">（四）</seg>日ハ君臨シ　カガヤキノ<lb />
 　太陽系ハ　マヒルナリ<lb />
 　ケハシキタビノ　ナカニシテ<lb />
 　ワレラヒカリノ　ミチヲフム<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-03-04">作成</resp><resp /><note>
 <lb />
-底本：「ふるさと文学館　第三三巻　【大阪<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
+底本：「ふるさと文学館　第三三巻　【大阪<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
 　　　1995（平成7）年8月15日初版発行<lb />
 底本の親本：「安西冬衛全詩集」思潮社<lb />
 　　　1966（昭和41）年<lb />
@@ -33,22 +33,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 中央公会堂の赤煉瓦<lb />
-<span type="ruby"><span type="rb">緑青</span><span type="rp">（</span><span type="rt">ろくしよう</span><span type="rp">）</span></span>色の高裁のドーム<lb />
+<seg type="ruby"><seg type="rb">緑青</seg><seg type="rp">（</seg><seg type="rt">ろくしよう</seg><seg type="rp">）</seg></seg>色の高裁のドーム<lb />
 中洲の葉柳をかすめて<lb />
 とび去る水中翼船の渦巻から<lb />
 ムツとするような水苔の匂い。<lb />
 ついさつきまで<lb />
-ランチ・タイムを<span type="ruby"><span type="rb">愉</span><span type="rp">（</span><span type="rt">たの</span><span type="rp">）</span></span>しんでいた<lb />
+ランチ・タイムを<seg type="ruby"><seg type="rb">愉</seg><seg type="rp">（</seg><seg type="rt">たの</seg><seg type="rp">）</seg></seg>しんでいた<lb />
 ＢＧやホワイト・カラー達も<lb />
 みんな今は引き揚げていつてしまい<lb />
 あとには<lb />
 濡れ手で銭勘定の<lb />
 貸ボート屋ののどかな浮世哲学。<lb />
-上げ潮にむつかしい<span type="ruby"><span type="rb">家裏</span><span type="rp">（</span><span type="rt">やうら</span><span type="rp">）</span></span>をみせた川魚料理の<lb />
-昼もほのぐらい<span type="ruby"><span type="rb">煤天井</span><span type="rp">（</span><span type="rt">すすてんじよう</span><span type="rp">）</span></span>に<lb />
-うららかな水かげろうの<span type="ruby"><span type="rb">文</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span><lb />
+上げ潮にむつかしい<seg type="ruby"><seg type="rb">家裏</seg><seg type="rp">（</seg><seg type="rt">やうら</seg><seg type="rp">）</seg></seg>をみせた川魚料理の<lb />
+昼もほのぐらい<seg type="ruby"><seg type="rb">煤天井</seg><seg type="rp">（</seg><seg type="rt">すすてんじよう</seg><seg type="rp">）</seg></seg>に<lb />
+うららかな水かげろうの<seg type="ruby"><seg type="rb">文</seg><seg type="rp">（</seg><seg type="rt">あや</seg><seg type="rp">）</seg></seg><lb />
 軒場に張り出した<lb />
 巣箱のようなエア・コンの上に<lb />
 かえりそびれた<lb />
@@ -59,6 +59,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

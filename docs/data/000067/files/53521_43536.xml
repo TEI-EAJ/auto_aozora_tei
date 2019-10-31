@@ -34,17 +34,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 　　　○<lb />
 <lb />
 五月幟立つ家家の向うは海<lb />
 <lb />
 　　　○<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="sho1" style="font-size: small;">暮鳥忌</span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="sho1" rendition="span" style="font-size: small;">暮鳥忌</seg></seg>
 磯濱の煙わびしき年のくれ<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">笹鳴</span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">笹鳴</seg>
 <lb />
 笹鳴の日かげをくぐる庭の隅<lb />
 <lb />
@@ -58,7 +58,7 @@
 <lb />
 　　　○<lb />
 <lb />
-<span type="ruby"><span type="rb">青梅</span><span type="rp">（</span><span type="rt">あをうめ</span><span type="rp">）</span></span>に言葉すくなき別れかな<lb />
+<seg type="ruby"><seg type="rb">青梅</seg><seg type="rp">（</seg><seg type="rt">あをうめ</seg><seg type="rp">）</seg></seg>に言葉すくなき別れかな<lb />
 <lb />
 　　　○<lb />
 <lb />
@@ -66,7 +66,7 @@
 <lb />
 　　　○<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="sho1" style="font-size: small;">我が心また新しく泣かんとす</span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="sho1" rendition="span" style="font-size: small;">我が心また新しく泣かんとす</seg></seg>
 冬日暮れぬ思ひ起せや岩に牡蠣<lb />
 <lb />
 　　　○<lb />
@@ -94,27 +94,27 @@
 枯菊や日日に醒めゆく憤り<lb />
 <lb />
 虹たつや人馬にぎはふ空の上<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">『遺稿』より</span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">『遺稿』より</seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">我が齡すでに知命を過ぎぬ</span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="sho1" rendition="span" style="font-size: small;">我が齡すでに知命を過ぎぬ</seg></seg>
 枯菊や日日にさめゆく憤り<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">若き日の<span type="ruby"><span type="rb">希望</span><span type="rp">（</span><span type="rt">のぞみ</span><span type="rp">）</span></span>すべて皆空しくなりぬ</span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="sho1" rendition="span" style="font-size: small;">若き日の<seg type="ruby"><seg type="rb">希望</seg><seg type="rp">（</seg><seg type="rt">のぞみ</seg><seg type="rp">）</seg></seg>すべて皆空しくなりぬ</seg></seg>
 秋さびし皿みな割れて納屋の隅<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">嗚呼すでに衰へ、わが心また新しく泣かむとす</span></span>
-冬日くれぬ思ひ起せや岩に<span type="ruby"><span type="rb">牡蠣</span><span type="rp">（</span><span type="rt">かき</span><span type="rp">）</span></span><lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">故郷に歸れる日、利根の河原をひとり歩きて</span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="sho1" rendition="span" style="font-size: small;">嗚呼すでに衰へ、わが心また新しく泣かむとす</seg></seg>
+冬日くれぬ思ひ起せや岩に<seg type="ruby"><seg type="rb">牡蠣</seg><seg type="rp">（</seg><seg type="rt">かき</seg><seg type="rp">）</seg></seg><lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="sho1" rendition="span" style="font-size: small;">故郷に歸れる日、利根の河原をひとり歩きて</seg></seg>
 磊落と河原を行けば草雲雀<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">わが幻想の都市は空にあり</span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="sho1" rendition="span" style="font-size: small;">わが幻想の都市は空にあり</seg></seg>
 虹立つや人馬賑ふ空の上<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">隱遁の情止みがたく、芭蕉を思ふこと切なり</span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="sho1" rendition="span" style="font-size: small;">隱遁の情止みがたく、芭蕉を思ふこと切なり</seg></seg>
 藪蔭や蔦もからまぬ唐辛子<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="sho1" style="font-size: small;">晩秋の日、湘南の或る侘しき海水浴場にて</span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="sho1" rendition="span" style="font-size: small;">晩秋の日、湘南の或る侘しき海水浴場にて</seg></seg>
 コスモスや海少し見ゆる邸道<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

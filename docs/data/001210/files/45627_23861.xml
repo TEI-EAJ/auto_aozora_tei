@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -43,7 +43,7 @@
 　私の歌はいつも論説の二三句を並べた様にゴツゴツしたもの許りである。叙景的なものは至って少ない。一体どうした訳だろう。<lb />
 　公平無私とかありのまゝにとかを常に主張する自分だのに、歌に現われた所は全くアイヌの宣伝と弁明とに他ならない。それには幾多の情実もあるが、結局現代社会の欠陥が然らしめるのだ。そして住み心地よい北海道、争闘のない世界たらしめたい念願が迸り出るからである。殊更に作る心算で個性を無視した虚偽なものは歌いたくないのだ。<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 はしたないアイヌだけれど日の本に<lb />
 生れ合せた幸福を知る<lb />
 <lb />
@@ -67,13 +67,13 @@
 <lb />
 深々と更け行く夜半は我はしも<lb />
 ウタリー思いて泣いてありけり<lb />
-　　　　　　　　<span rendition="small">ウタリーは同胞</span><lb />
+　　　　　　　　<seg rendition="small">ウタリーは同胞</seg><lb />
 ほろ／＼と鳴く虫の音はウタリーを<lb />
 思いて泣ける我にしあらぬか<lb />
 <lb />
 ガッチャキの薬を売ったその金で<lb />
 十一州を視察する俺<lb />
-　　　　　　　　<span rendition="small">ガッチャキは痔</span><lb />
+　　　　　　　　<seg rendition="small">ガッチャキは痔</seg><lb />
 昼飯も食わずに夜も尚歩く<lb />
 売れない薬で旅する辛さ<lb />
 <lb />
@@ -256,7 +256,7 @@
 <lb />
 大漁を告げようとゴメはやって来た<lb />
 人の心もやっと落ち着く<lb />
-　　　　　　　　<span rendition="small">ゴメは鴎</span><lb />
+　　　　　　　　<seg rendition="small">ゴメは鴎</seg><lb />
 亦今年不漁だったら大へんだ<lb />
 余市のアイヌ居られなくなる<lb />
 <lb />
@@ -286,7 +286,7 @@
 <lb />
 迷児をカッコウカッコウと呼びながら<lb />
 メノコの一念鳥になったと<lb />
-　　　　　　　　<span rendition="small">メノコは女子</span><lb />
+　　　　　　　　<seg rendition="small">メノコは女子</seg><lb />
 「親おもう心にまさる親心」と<lb />
 カッコウ聞いて母は云ってた<lb />
 <lb />
@@ -305,8 +305,8 @@
 酒故か無智な為かは知らねども<lb />
 見せ物として出されるアイヌ<lb />
 <lb />
-<span type="ruby"><span type="rb">白老</span><span type="rp">（</span><span type="rt">しらおい</span><span type="rp">）</span></span>のアイヌはまたも見せ物に<lb />
-博覧会へ行った　咄！　咄<span change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
+<seg type="ruby"><seg type="rb">白老</seg><seg type="rp">（</seg><seg type="rt">しらおい</seg><seg type="rp">）</seg></seg>のアイヌはまたも見せ物に<lb />
+博覧会へ行った　咄！　咄<seg change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
 <lb />
 白老は土人学校が名物で<lb />
 アイヌの記事の種の出どころ<lb />
@@ -381,7 +381,7 @@
 「カムチャッカでなあ」と語り続ける<lb />
 <lb />
 久々に荒い仕事をする俺の<lb />
-てのひら一ぱい痛い<span rend="SESAME_DOT" rendition="strong">まめ</span>出た<lb />
+てのひら一ぱい痛い<seg rend="SESAME_DOT" rendition="strong">まめ</seg>出た<lb />
 <lb />
 働いて空腹に食う飯の味<lb />
 ほんとにうまい三平汁吸う<lb />
@@ -404,10 +404,10 @@
 ホロベツの浜のハマナシ咲き匂い<lb />
 イサンの山の遠くかすめる<lb />
 <lb />
-<span type="ruby"><span type="rb">沙流</span><span type="rp">（</span><span type="rt">さる</span><span type="rp">）</span></span>川は昨日の雨で水濁り<lb />
+<seg type="ruby"><seg type="rb">沙流</seg><seg type="rp">（</seg><seg type="rt">さる</seg><seg type="rp">）</seg></seg>川は昨日の雨で水濁り<lb />
 コタンの昔囁きつ行く<lb />
 <lb />
-<span type="ruby"><span type="rb">平取</span><span type="rp">（</span><span type="rt">びらとり</span><span type="rp">）</span></span>はアイヌの旧都懐しみ<lb />
+<seg type="ruby"><seg type="rb">平取</seg><seg type="rp">（</seg><seg type="rt">びらとり</seg><seg type="rp">）</seg></seg>はアイヌの旧都懐しみ<lb />
 義経神社で尺八を吹く<lb />
 <lb />
 尺八で追分節を吹き流し<lb />
@@ -442,12 +442,12 @@
 <lb />
 恩師から慰められて涙ぐみ<lb />
 そのまゝ拝む今日のお便り<lb />
-</span>
+</seg>
 <lb />
 <lb />
 　俳句<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 浮氷鴎が乗って流れけり<lb />
 <lb />
 春めいて何やら嬉し山の里<lb />
@@ -489,11 +489,11 @@
 雪空に星一つあり枯木立<lb />
 <lb />
 枯葉みな地に抱れんとて地へ還る<lb />
-</span>
-<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">〔昭和二十九年版遺稿集より〕</span>
+</seg>
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">〔昭和二十九年版遺稿集より〕</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

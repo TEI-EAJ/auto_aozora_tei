@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-03-26">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 底本の親本：「泉芳朗詩集」泉芳朗詩集刊行会<lb />
 　　　1959（昭和34）年<lb />
@@ -33,13 +33,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 十二月ですね<lb />
 もうすっかり冬になったやうな<lb />
 而もまだ秋らしいやうな<lb />
 どちらかと言へば煮切らないお天気です<lb />
 <lb />
-けれども矢張り島の<span type="ruby"><span type="rb">生活</span><span type="rp">（</span><span type="rt">くらし</span><span type="rp">）</span></span>はいいですよ<lb />
+けれども矢張り島の<seg type="ruby"><seg type="rb">生活</seg><seg type="rp">（</seg><seg type="rt">くらし</seg><seg type="rp">）</seg></seg>はいいですよ<lb />
 昨日も鶯の声がピヨロピヨロやりましてね<lb />
 はにかみやで　なきむしの僕には<lb />
 ぴったりふさわしい時季です<lb />
@@ -57,6 +57,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

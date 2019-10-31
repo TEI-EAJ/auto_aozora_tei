@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-01-27">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：フクポー<lb />
@@ -31,57 +31,57 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="sho1" style="font-size: small;">――汽車の窓にて</span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="sho1" rendition="span" style="font-size: small;">――汽車の窓にて</seg></seg>
 <lb />
-夏の日の<span type="ruby"><span type="rb">午</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>さがり、<lb />
-<span type="ruby"><span type="rb">我</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">汽車</span><span type="rp">（</span><span type="rt">きしや</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">物憂</span><span type="rp">（</span><span type="rt">ものう</span><span type="rp">）</span></span>げに<lb />
-黒き煙を<span type="ruby"><span type="rb">息吹</span><span type="rp">（</span><span type="rt">いぶ</span><span type="rp">）</span></span>きつゝ、<lb />
-<span type="ruby"><span type="rb">炎天</span><span type="rp">（</span><span type="rt">えんてん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">東海道</span><span type="rp">（</span><span type="rt">とうかいどう</span><span type="rp">）</span></span>を西へ馳す。<lb />
-<span type="ruby"><span type="rb">世</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>ゆゑ、はたわれからの<lb />
-<span type="ruby"><span type="rb">黒熱</span><span type="rp">（</span><span type="rt">こくねつ</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">膿</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>み<span type="ruby"><span type="rb">爛</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>れ、<lb />
-<span type="ruby"><span type="rb">灰汗</span><span type="rp">（</span><span type="rt">あく</span><span type="rp">）</span></span>の<span rend="notes">［＃「灰汗の」はママ］</span><span type="ruby"><span type="rb">洪水</span><span type="rp">（</span><span type="rt">でみず</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">胸底</span><span type="rp">（</span><span type="rt">むなぞこ</span><span type="rp">）</span></span>の<lb />
-<span type="ruby"><span type="rb">政</span><span type="rp">（</span><span type="rt">まつり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">庁</span><span type="rp">（</span><span type="rt">ちやう</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">うしな</span><span type="rp">）</span></span>ひし<lb />
-<span type="ruby"><span type="rb">病人</span><span type="rp">（</span><span type="rt">やまうど</span><span type="rp">）</span></span>なれば、<span type="ruby"><span type="rb">天地</span><span type="rp">（</span><span type="rt">あめつち</span><span type="rp">）</span></span>の<lb />
-<span type="ruby"><span type="rb">眺望</span><span type="rp">（</span><span type="rt">ながめ</span><span type="rp">）</span></span>ことごと<span type="ruby"><span type="rb">灰</span><span type="rp">（</span><span type="rt">はひ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">濁</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>みて、<lb />
-あゝうたてしや、ひたぶるに、<span type="ruby"><span type="rb">涙</span><span type="rp">（</span><span type="rt">なみだ</span><span type="rp">）</span></span>ぞ落つる。<lb />
-乗合は<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">せな</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">せな</span><span type="rp">）</span></span><lb />
-<span type="ruby"><span type="rb">肩</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span><span type="ruby"><span type="rb">犇々</span><span type="rp">（</span><span type="rt">ひし／＼</span><span type="rp">）</span></span>とすりあひぬ。<lb />
+夏の日の<seg type="ruby"><seg type="rb">午</seg><seg type="rp">（</seg><seg type="rt">ひる</seg><seg type="rp">）</seg></seg>さがり、<lb />
+<seg type="ruby"><seg type="rb">我</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>が<seg type="ruby"><seg type="rb">汽車</seg><seg type="rp">（</seg><seg type="rt">きしや</seg><seg type="rp">）</seg></seg>は<seg type="ruby"><seg type="rb">物憂</seg><seg type="rp">（</seg><seg type="rt">ものう</seg><seg type="rp">）</seg></seg>げに<lb />
+黒き煙を<seg type="ruby"><seg type="rb">息吹</seg><seg type="rp">（</seg><seg type="rt">いぶ</seg><seg type="rp">）</seg></seg>きつゝ、<lb />
+<seg type="ruby"><seg type="rb">炎天</seg><seg type="rp">（</seg><seg type="rt">えんてん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">東海道</seg><seg type="rp">（</seg><seg type="rt">とうかいどう</seg><seg type="rp">）</seg></seg>を西へ馳す。<lb />
+<seg type="ruby"><seg type="rb">世</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>ゆゑ、はたわれからの<lb />
+<seg type="ruby"><seg type="rb">黒熱</seg><seg type="rp">（</seg><seg type="rt">こくねつ</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">膿</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>み<seg type="ruby"><seg type="rb">爛</seg><seg type="rp">（</seg><seg type="rt">ただ</seg><seg type="rp">）</seg></seg>れ、<lb />
+<seg type="ruby"><seg type="rb">灰汗</seg><seg type="rp">（</seg><seg type="rt">あく</seg><seg type="rp">）</seg></seg>の<seg rend="notes" rendition="span">［＃「灰汗の」はママ］</seg><seg type="ruby"><seg type="rb">洪水</seg><seg type="rp">（</seg><seg type="rt">でみず</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">胸底</seg><seg type="rp">（</seg><seg type="rt">むなぞこ</seg><seg type="rp">）</seg></seg>の<lb />
+<seg type="ruby"><seg type="rb">政</seg><seg type="rp">（</seg><seg type="rt">まつり</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">庁</seg><seg type="rp">（</seg><seg type="rt">ちやう</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">失</seg><seg type="rp">（</seg><seg type="rt">うしな</seg><seg type="rp">）</seg></seg>ひし<lb />
+<seg type="ruby"><seg type="rb">病人</seg><seg type="rp">（</seg><seg type="rt">やまうど</seg><seg type="rp">）</seg></seg>なれば、<seg type="ruby"><seg type="rb">天地</seg><seg type="rp">（</seg><seg type="rt">あめつち</seg><seg type="rp">）</seg></seg>の<lb />
+<seg type="ruby"><seg type="rb">眺望</seg><seg type="rp">（</seg><seg type="rt">ながめ</seg><seg type="rp">）</seg></seg>ことごと<seg type="ruby"><seg type="rb">灰</seg><seg type="rp">（</seg><seg type="rt">はひ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">濁</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>みて、<lb />
+あゝうたてしや、ひたぶるに、<seg type="ruby"><seg type="rb">涙</seg><seg type="rp">（</seg><seg type="rt">なみだ</seg><seg type="rp">）</seg></seg>ぞ落つる。<lb />
+乗合は<seg type="ruby"><seg type="rb">背</seg><seg type="rp">（</seg><seg type="rt">せな</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">背</seg><seg type="rp">（</seg><seg type="rt">せな</seg><seg type="rp">）</seg></seg><lb />
+<seg type="ruby"><seg type="rb">肩</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">犇々</seg><seg type="rp">（</seg><seg type="rt">ひし／＼</seg><seg type="rp">）</seg></seg>とすりあひぬ。<lb />
 近江を過ぎて京ちかき<lb />
-<span type="ruby"><span type="rb">山科</span><span type="rp">（</span><span type="rt">やましな</span><span type="rp">）</span></span>や、<span type="ruby"><span type="rb">竹</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">入日</span><span type="rp">（</span><span type="rt">いりひ</span><span type="rp">）</span></span>に、<lb />
-<span type="ruby"><span type="rb">鬱憂</span><span type="rp">（</span><span type="rt">うつゆう</span><span type="rp">）</span></span>のこゝろは<span type="ruby"><span type="rb">重</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>く、<lb />
-<span type="ruby"><span type="rb">倦</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>じ疲れたる目はひと目<lb />
-<span type="ruby"><span type="rb">線路</span><span type="rp">（</span><span type="rt">せんろ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">砂</span><span type="rp">（</span><span type="rt">すな</span><span type="rp">）</span></span>に――あゝこの時、<lb />
-胸はまた<span type="ruby"><span type="rb">膿</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>みて<span type="ruby"><span type="rb">潰</span><span type="rp">（</span><span type="rt">つぶ</span><span type="rp">）</span></span>れぬ。<lb />
-<span type="ruby"><span type="rb">見</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>よ、<span type="ruby"><span type="rb">鉄道</span><span type="rp">（</span><span type="rt">てつだう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">枕木</span><span type="rp">（</span><span type="rt">まくらぎ</span><span type="rp">）</span></span>は、<lb />
-<span type="ruby"><span type="rb">癒</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>ゆべからざる<span type="ruby"><span type="rb">病人</span><span type="rp">（</span><span type="rt">やまうど</span><span type="rp">）</span></span>の<lb />
-<span type="ruby"><span type="rb">素枯</span><span type="rp">（</span><span type="rt">すが</span><span type="rp">）</span></span>れはてたる<span type="ruby"><span type="rb">肋骨</span><span type="rp">（</span><span type="rt">あばら</span><span type="rp">）</span></span>なり。<lb />
-と見る、また<span type="ruby"><span type="rb">我</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>が乗る<span type="ruby"><span type="rb">汽車</span><span type="rp">（</span><span type="rt">きしや</span><span type="rp">）</span></span>は<lb />
-痩せて<span type="ruby"><span type="rb">細</span><span type="rp">（</span><span type="rt">ほそ</span><span type="rp">）</span></span>れる<span type="ruby"><span type="rb">肋骨</span><span type="rp">（</span><span type="rt">ろくこつ</span><span type="rp">）</span></span>を<lb />
-<span type="ruby"><span type="rb">毒</span><span type="rp">（</span><span type="rt">どく</span><span type="rp">）</span></span>ある<span type="ruby"><span type="rb">牙</span><span type="rp">（</span><span type="rt">きば</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>みてゆく<lb />
-<span type="ruby"><span type="rb">黒蛇</span><span type="rp">（</span><span type="rt">くろへび</span><span type="rp">）</span></span>よ、あゝ<span type="ruby"><span type="rb">死</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">使</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>ひ。――<lb />
-『無明』の子なる<span type="ruby"><span type="rb">病人</span><span type="rp">（</span><span type="rt">やまうど</span><span type="rp">）</span></span>は、<lb />
+<seg type="ruby"><seg type="rb">山科</seg><seg type="rp">（</seg><seg type="rt">やましな</seg><seg type="rp">）</seg></seg>や、<seg type="ruby"><seg type="rb">竹</seg><seg type="rp">（</seg><seg type="rt">たけ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">入日</seg><seg type="rp">（</seg><seg type="rt">いりひ</seg><seg type="rp">）</seg></seg>に、<lb />
+<seg type="ruby"><seg type="rb">鬱憂</seg><seg type="rp">（</seg><seg type="rt">うつゆう</seg><seg type="rp">）</seg></seg>のこゝろは<seg type="ruby"><seg type="rb">重</seg><seg type="rp">（</seg><seg type="rt">おも</seg><seg type="rp">）</seg></seg>く、<lb />
+<seg type="ruby"><seg type="rb">倦</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>じ疲れたる目はひと目<lb />
+<seg type="ruby"><seg type="rb">線路</seg><seg type="rp">（</seg><seg type="rt">せんろ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">砂</seg><seg type="rp">（</seg><seg type="rt">すな</seg><seg type="rp">）</seg></seg>に――あゝこの時、<lb />
+胸はまた<seg type="ruby"><seg type="rb">膿</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>みて<seg type="ruby"><seg type="rb">潰</seg><seg type="rp">（</seg><seg type="rt">つぶ</seg><seg type="rp">）</seg></seg>れぬ。<lb />
+<seg type="ruby"><seg type="rb">見</seg><seg type="rp">（</seg><seg type="rt">み</seg><seg type="rp">）</seg></seg>よ、<seg type="ruby"><seg type="rb">鉄道</seg><seg type="rp">（</seg><seg type="rt">てつだう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">枕木</seg><seg type="rp">（</seg><seg type="rt">まくらぎ</seg><seg type="rp">）</seg></seg>は、<lb />
+<seg type="ruby"><seg type="rb">癒</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>ゆべからざる<seg type="ruby"><seg type="rb">病人</seg><seg type="rp">（</seg><seg type="rt">やまうど</seg><seg type="rp">）</seg></seg>の<lb />
+<seg type="ruby"><seg type="rb">素枯</seg><seg type="rp">（</seg><seg type="rt">すが</seg><seg type="rp">）</seg></seg>れはてたる<seg type="ruby"><seg type="rb">肋骨</seg><seg type="rp">（</seg><seg type="rt">あばら</seg><seg type="rp">）</seg></seg>なり。<lb />
+と見る、また<seg type="ruby"><seg type="rb">我</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>が乗る<seg type="ruby"><seg type="rb">汽車</seg><seg type="rp">（</seg><seg type="rt">きしや</seg><seg type="rp">）</seg></seg>は<lb />
+痩せて<seg type="ruby"><seg type="rb">細</seg><seg type="rp">（</seg><seg type="rt">ほそ</seg><seg type="rp">）</seg></seg>れる<seg type="ruby"><seg type="rb">肋骨</seg><seg type="rp">（</seg><seg type="rt">ろくこつ</seg><seg type="rp">）</seg></seg>を<lb />
+<seg type="ruby"><seg type="rb">毒</seg><seg type="rp">（</seg><seg type="rt">どく</seg><seg type="rp">）</seg></seg>ある<seg type="ruby"><seg type="rb">牙</seg><seg type="rp">（</seg><seg type="rt">きば</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">噛</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>みてゆく<lb />
+<seg type="ruby"><seg type="rb">黒蛇</seg><seg type="rp">（</seg><seg type="rt">くろへび</seg><seg type="rp">）</seg></seg>よ、あゝ<seg type="ruby"><seg type="rb">死</seg><seg type="rp">（</seg><seg type="rt">し</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">使</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>ひ。――<lb />
+『無明』の子なる<seg type="ruby"><seg type="rb">病人</seg><seg type="rp">（</seg><seg type="rt">やまうど</seg><seg type="rp">）</seg></seg>は、<lb />
 をさな心にいとせめて<lb />
-<span type="ruby"><span type="rb">垂乳根</span><span type="rp">（</span><span type="rt">たらちね</span><span type="rp">）</span></span>の膝まくら<lb />
-しばし<span type="ruby"><span type="rb">安睡</span><span type="rp">（</span><span type="rt">やすい</span><span type="rp">）</span></span>の夢見むと、<lb />
-<span type="ruby"><span type="rb">指</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>す<span type="ruby"><span type="rb">故郷</span><span type="rp">（</span><span type="rt">ふるさと</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">琉球</span><span type="rp">（</span><span type="rt">りうきう</span><span type="rp">）</span></span>は<lb />
+<seg type="ruby"><seg type="rb">垂乳根</seg><seg type="rp">（</seg><seg type="rt">たらちね</seg><seg type="rp">）</seg></seg>の膝まくら<lb />
+しばし<seg type="ruby"><seg type="rb">安睡</seg><seg type="rp">（</seg><seg type="rt">やすい</seg><seg type="rp">）</seg></seg>の夢見むと、<lb />
+<seg type="ruby"><seg type="rb">指</seg><seg type="rp">（</seg><seg type="rt">さ</seg><seg type="rp">）</seg></seg>す<seg type="ruby"><seg type="rb">故郷</seg><seg type="rp">（</seg><seg type="rt">ふるさと</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">琉球</seg><seg type="rp">（</seg><seg type="rt">りうきう</seg><seg type="rp">）</seg></seg>は<lb />
 五百里さかる海の島、<lb />
-われを載せたる<span type="ruby"><span type="rb">黒蛇</span><span type="rp">（</span><span type="rt">くろへび</span><span type="rp">）</span></span>は<lb />
-<span type="ruby"><span type="rb">勢</span><span type="rp">（</span><span type="rt">いきほ</span><span type="rp">）</span></span>ひ<span type="ruby"><span type="rb">猛</span><span type="rp">（</span><span type="rt">まう</span><span type="rp">）</span></span>に、こは如何に、<lb />
-その<span type="ruby"><span type="rb">故郷</span><span type="rp">（</span><span type="rt">ふるさと</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">行過</span><span type="rp">（</span><span type="rt">ゆきす</span><span type="rp">）</span></span>ぎつ、<lb />
-右に横たふ<span type="ruby"><span type="rb">山脈</span><span type="rp">（</span><span type="rt">やまなみ</span><span type="rp">）</span></span>は<lb />
-はや<span type="ruby"><span type="rb">冥府</span><span type="rp">（</span><span type="rt">よみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">国</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>、血に染めし<lb />
-<span type="ruby"><span type="rb">硫黄</span><span type="rp">（</span><span type="rt">いわう</span><span type="rp">）</span></span>の池も近づくよ、<lb />
-あなゆるせやと<span type="ruby"><span type="rb">唸</span><span type="rp">（</span><span type="rt">うめ</span><span type="rp">）</span></span>き伏し、<lb />
-やゝありて<span type="ruby"><span type="rb">我</span><span type="rp">（</span><span type="rt">われ</span><span type="rp">）</span></span>にかへれば、<lb />
-<span type="ruby"><span type="rb">京</span><span type="rp">（</span><span type="rt">きやう</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">水無月</span><span type="rp">（</span><span type="rt">みなづき</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">祇園会</span><span type="rp">（</span><span type="rt">ぎをんゑ</span><span type="rp">）</span></span>の<lb />
-<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">そら</span><span type="rp">）</span></span>うつくしき<span type="ruby"><span type="rb">星月夜</span><span type="rp">（</span><span type="rt">ほしづきよ</span><span type="rp">）</span></span>、<lb />
+われを載せたる<seg type="ruby"><seg type="rb">黒蛇</seg><seg type="rp">（</seg><seg type="rt">くろへび</seg><seg type="rp">）</seg></seg>は<lb />
+<seg type="ruby"><seg type="rb">勢</seg><seg type="rp">（</seg><seg type="rt">いきほ</seg><seg type="rp">）</seg></seg>ひ<seg type="ruby"><seg type="rb">猛</seg><seg type="rp">（</seg><seg type="rt">まう</seg><seg type="rp">）</seg></seg>に、こは如何に、<lb />
+その<seg type="ruby"><seg type="rb">故郷</seg><seg type="rp">（</seg><seg type="rt">ふるさと</seg><seg type="rp">）</seg></seg>も<seg type="ruby"><seg type="rb">行過</seg><seg type="rp">（</seg><seg type="rt">ゆきす</seg><seg type="rp">）</seg></seg>ぎつ、<lb />
+右に横たふ<seg type="ruby"><seg type="rb">山脈</seg><seg type="rp">（</seg><seg type="rt">やまなみ</seg><seg type="rp">）</seg></seg>は<lb />
+はや<seg type="ruby"><seg type="rb">冥府</seg><seg type="rp">（</seg><seg type="rt">よみ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">国</seg><seg type="rp">（</seg><seg type="rt">くに</seg><seg type="rp">）</seg></seg>、血に染めし<lb />
+<seg type="ruby"><seg type="rb">硫黄</seg><seg type="rp">（</seg><seg type="rt">いわう</seg><seg type="rp">）</seg></seg>の池も近づくよ、<lb />
+あなゆるせやと<seg type="ruby"><seg type="rb">唸</seg><seg type="rp">（</seg><seg type="rt">うめ</seg><seg type="rp">）</seg></seg>き伏し、<lb />
+やゝありて<seg type="ruby"><seg type="rb">我</seg><seg type="rp">（</seg><seg type="rt">われ</seg><seg type="rp">）</seg></seg>にかへれば、<lb />
+<seg type="ruby"><seg type="rb">京</seg><seg type="rp">（</seg><seg type="rt">きやう</seg><seg type="rp">）</seg></seg>は<seg type="ruby"><seg type="rb">水無月</seg><seg type="rp">（</seg><seg type="rt">みなづき</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">祇園会</seg><seg type="rp">（</seg><seg type="rt">ぎをんゑ</seg><seg type="rp">）</seg></seg>の<lb />
+<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">そら</seg><seg type="rp">）</seg></seg>うつくしき<seg type="ruby"><seg type="rb">星月夜</seg><seg type="rp">（</seg><seg type="rt">ほしづきよ</seg><seg type="rp">）</seg></seg>、<lb />
 我が汽車はしづしづと<lb />
-涙さしぐむ<span type="ruby"><span type="rb">哀音</span><span type="rp">（</span><span type="rt">あいおん</span><span type="rp">）</span></span>の<lb />
-汽笛して<span type="ruby"><span type="rb">七条</span><span type="rp">（</span><span type="rt">しちぜう</span><span type="rp">）</span></span>出でぬ。<lb />
+涙さしぐむ<seg type="ruby"><seg type="rb">哀音</seg><seg type="rp">（</seg><seg type="rt">あいおん</seg><seg type="rp">）</seg></seg>の<lb />
+汽笛して<seg type="ruby"><seg type="rb">七条</seg><seg type="rp">（</seg><seg type="rt">しちぜう</seg><seg type="rp">）</seg></seg>出でぬ。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

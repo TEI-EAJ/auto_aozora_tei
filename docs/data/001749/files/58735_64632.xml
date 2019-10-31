@@ -14,10 +14,11 @@
 底本の親本：「定本三好達治全詩集」筑摩書房<lb />
 　　　1962（昭和37）年3月30日<lb />
 初出：「改造　一八卷一號」<lb />
-　　　1935（昭和10）年1月<lb />
+　　　1936（昭和11）年1月<lb />
 入力：kompass<lb />
 校正：大久保　知美<lb />
 <date when="2018-04-26">2018年4月26日</date>作成<lb />
+<date when="2019-08-10">2019年8月10日</date>修正<lb />
 青空文庫作成ファイル：<lb />
 このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
       <respStmt><resp>Aozora Transcription</resp><name>kompass</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>大久保　知美</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
@@ -35,14 +36,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 拔足差足　忍び寄つた野兎は　蓆圍ひの隙間から　野菜畑に跳びこんだ<lb />
-とたんに<span type="ruby"><span type="rb">係蹄</span><span type="rp">（</span><span type="rt">わな</span><span type="rp">）</span></span>に引かかる　南無三　とんぼがへりを二つ三つ<lb />
-力まかせに空を蹴る　月を蹴る　月は　山の端に<span type="ruby"><span type="rb">入</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>いる<lb />
+とたんに<seg type="ruby"><seg type="rb">係蹄</seg><seg type="rp">（</seg><seg type="rt">わな</seg><seg type="rp">）</seg></seg>に引かかる　南無三　とんぼがへりを二つ三つ<lb />
+力まかせに空を蹴る　月を蹴る　月は　山の端に<seg type="ruby"><seg type="rb">入</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>いる<lb />
 やがて兎は　寢てしまふ　白菜たちが眼を醒す<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

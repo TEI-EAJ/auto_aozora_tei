@@ -31,11 +31,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 濁みし声下より叫ぶ<lb />
 炉はいまし何度にありや<lb />
 八百といらへをすれば<lb />
-声なくて<span type="ruby"><span type="rb">炭</span><span type="rp">（</span><span type="rt">たん</span><span type="rp">）</span></span>を掻く音<lb />
+声なくて<seg type="ruby"><seg type="rb">炭</seg><seg type="rp">（</seg><seg type="rt">たん</seg><seg type="rp">）</seg></seg>を掻く音<lb />
 <lb />
 声ありて更に叫べり<lb />
 づくはいまし何度にありや<lb />
@@ -74,6 +74,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

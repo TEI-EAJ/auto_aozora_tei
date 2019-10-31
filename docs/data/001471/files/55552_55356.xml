@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 蒔付時に子を生んで<lb />
 あせって起きて働いて<lb />
 足腰立たなくなったという<lb />
@@ -42,7 +42,7 @@
 紙っ切れを水でのまされて<lb />
 それでなおらば、<lb />
 お安いけれど<lb />
-去年<span type="ruby"><span type="rb">□</span><span type="rp">（</span><span type="rt">一字不明</span><span type="rp">）</span></span>死んだ妹を<lb />
+去年<seg type="ruby"><seg type="rb">□</seg><seg type="rp">（</seg><seg type="rt">一字不明</seg><seg type="rp">）</seg></seg>死んだ妹を<lb />
 姉よまさかに忘れまい<lb />
 <lb />
 あの妹が死んだ時<lb />
@@ -90,6 +90,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

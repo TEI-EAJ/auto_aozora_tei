@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 かなしき契となりてけり<lb />
 さめてうれたき夢のあと<lb />
 きはみて落つるいてふ葉の<lb />
@@ -39,7 +39,7 @@
 あゝわが戀はきゆべしや<lb />
 <lb />
 月はしづみてほしかげの<lb />
-きらめくよひの<span type="ruby"><span type="rb">浴</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>歸りに<lb />
+きらめくよひの<seg type="ruby"><seg type="rb">浴</seg><seg type="rp">（</seg><seg type="rt">ゆ</seg><seg type="rp">）</seg></seg>歸りに<lb />
 霜夜の下駄のおとかぞへ<lb />
 別れしひとのおもかげを<lb />
 おもひきたればときの鐘<lb />
@@ -83,7 +83,7 @@
 學びは荒みたならしの<lb />
 琴の聲さへものうきに<lb />
 いかでやきかむ諫の言<lb />
-親しきひとよわが友よ<span rend="notes">［＃「わが友よ」は底本では「わか友よ」］</span><lb />
+親しきひとよわが友よ<seg rend="notes" rendition="span">［＃「わが友よ」は底本では「わか友よ」］</seg><lb />
 黒髮のちから誰かしる<lb />
 <lb />
 すこしちゞれし前髮に<lb />
@@ -105,7 +105,7 @@
 毀ち破りし心地せる<lb />
 <lb />
 樂しきひびの戯れに<lb />
-惜しき<span type="ruby"><span type="rb">機</span><span type="rp">（</span><span type="rt">をり</span><span type="rp">）</span></span>をや失ひし<lb />
+惜しき<seg type="ruby"><seg type="rb">機</seg><seg type="rp">（</seg><seg type="rt">をり</seg><seg type="rp">）</seg></seg>をや失ひし<lb />
 悲しき今の別れにて<lb />
 かくまで深き思かと<lb />
 曉ればのぞむ戀の淵<lb />
@@ -136,6 +136,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

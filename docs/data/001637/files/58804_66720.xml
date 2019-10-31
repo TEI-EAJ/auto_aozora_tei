@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 今日は一月一日<lb />
 今日は正月だ<lb />
 <lb />
@@ -68,7 +68,7 @@
 子供のひびあかぎれが快うなりもせんわ<lb />
 <lb />
 夏のさかりでも白足袋はいて<lb />
-<span type="ruby"><span type="rb">魚</span><span type="rp">（</span><span type="rt">さかな</span><span type="rp">）</span></span>喰って何が地獄じゃ　極楽じゃ<lb />
+<seg type="ruby"><seg type="rb">魚</seg><seg type="rp">（</seg><seg type="rt">さかな</seg><seg type="rp">）</seg></seg>喰って何が地獄じゃ　極楽じゃ<lb />
 何が持ちつ持たれつじゃ<lb />
 わたしらだとて一人前の人間だ<lb />
 地主や坊主ばかりが<lb />
@@ -95,6 +95,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

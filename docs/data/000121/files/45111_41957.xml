@@ -35,12 +35,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 仔牛は日向に<lb />
 たつてゐた<lb />
 <lb />
 細い四足すつきり伸びて<lb />
-<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">ち</span><span type="rp">）</span></span>さいひづめは<span type="ruby"><span type="rb">繁縷</span><span type="rp">（</span><span type="rt">はこべら</span><span type="rp">）</span></span>ふんで。<lb />
+<seg type="ruby"><seg type="rb">小</seg><seg type="rp">（</seg><seg type="rt">ち</seg><seg type="rp">）</seg></seg>さいひづめは<seg type="ruby"><seg type="rb">繁縷</seg><seg type="rp">（</seg><seg type="rt">はこべら</seg><seg type="rp">）</seg></seg>ふんで。<lb />
 <lb />
 日永、半日<lb />
 たつてゐた<lb />
@@ -53,6 +53,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 星のけむりの下にして<lb />
 石組黒くひそめるを<lb />
 さもあしざまに鳴き棄てつ<lb />
@@ -40,10 +40,10 @@
 夜のもみぢの木もそびえ<lb />
 御堂の屋根も沈めるを<lb />
 さらに一羽の鳥ありて<lb />
-<span type="ruby"><span type="rb">寒天質</span><span type="rp">（</span><span type="rt">アガーチナス</span><span type="rp">）</span></span>の闇に溶けたり<lb />
+<seg type="ruby"><seg type="rb">寒天質</seg><seg type="rp">（</seg><seg type="rt">アガーチナス</seg><seg type="rp">）</seg></seg>の闇に溶けたり<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

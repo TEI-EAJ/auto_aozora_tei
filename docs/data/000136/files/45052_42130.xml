@@ -33,10 +33,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 あたしの<lb />
-<span type="ruby"><span type="rb">手套</span><span type="rp">（</span><span type="rt">てぶくろ</span><span type="rp">）</span></span><lb />
-<span type="ruby"><span type="rb">桔梗色</span><span type="rp">（</span><span type="rt">ききやういろ</span><span type="rp">）</span></span><lb />
+<seg type="ruby"><seg type="rb">手套</seg><seg type="rp">（</seg><seg type="rt">てぶくろ</seg><seg type="rp">）</seg></seg><lb />
+<seg type="ruby"><seg type="rb">桔梗色</seg><seg type="rp">（</seg><seg type="rt">ききやういろ</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 雪のふる日は<lb />
 おもひだす<lb />
@@ -50,6 +50,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

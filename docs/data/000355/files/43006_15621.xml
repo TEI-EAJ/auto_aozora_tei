@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -40,7 +40,7 @@
 「何か秘訣でも？」<lb />
 　と訊ねると、<lb />
 「大いにありますよ」<lb />
-　そう<span rend="notes">［＃「そう」は底本では「さう」］</span>言ってお医者さんは南京虫のようなものがうじゃうじゃうごめいている小さな箱をみせてくれた。<lb />
+　そう<seg rend="notes" rendition="span">［＃「そう」は底本では「さう」］</seg>言ってお医者さんは南京虫のようなものがうじゃうじゃうごめいている小さな箱をみせてくれた。<lb />
 　九龍虫という虫で、なかなか精力のつく薬虫だとその医者は説明してくれた。<lb />
 　私は二、三十匹もらって桐の箱に入れて、医者の説明通り椎の実、龍眼肉、栗、人参などを買って来てあたえてみた。<lb />
 <lb />
@@ -61,6 +61,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

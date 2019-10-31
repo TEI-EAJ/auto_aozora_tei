@@ -35,14 +35,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ちらちら光れ小い星、<lb />
 あなたは何だろ小い星。<lb />
 金剛石だおほ空の、<lb />
 遠くて高いおほ空の。<lb />
 <lb />
 真赤に燃えた陽が落ちて<lb />
-光がみんな<span type="ruby"><span type="rb">失</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>くなると<lb />
+光がみんな<seg type="ruby"><seg type="rb">失</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>くなると<lb />
 あなたは小さく光り出す、<lb />
 そしてちらちら夜明けまで。<lb />
 <lb />
@@ -63,6 +63,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

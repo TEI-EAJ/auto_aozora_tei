@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 カヤナの村の<lb />
 朝の井戸、<lb />
 おほぜい子供が来てました。<lb />
@@ -50,7 +50,7 @@
 <lb />
 みんなの顔の<lb />
 耳たぶの<lb />
-<span type="ruby"><span type="rb">耳環</span><span type="rp">（</span><span type="rt">みみわ</span><span type="rp">）</span></span>もうつつてをりました。<lb />
+<seg type="ruby"><seg type="rb">耳環</seg><seg type="rp">（</seg><seg type="rt">みみわ</seg><seg type="rp">）</seg></seg>もうつつてをりました。<lb />
 <lb />
 誰かお花を<lb />
 落したら<lb />
@@ -62,6 +62,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

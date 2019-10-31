@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2008-08-25">作成</resp><resp /><note>
 <lb />
-底本：「【新】校本宮澤賢治全集　第十二巻　童話5<span rend="notes">［＃「5」はローマ数字、1-13-25］</span>・劇・その他　本文篇」筑摩書房
+底本：「【新】校本宮澤賢治全集　第十二巻　童話5<seg rend="notes" rendition="span">［＃「5」はローマ数字、1-13-25］</seg>・劇・その他　本文篇」筑摩書房
 <lb />
 　　　1995（平成7）年11月25日初版第1刷発行<lb />
 ※底本の本文は、草稿による。<lb />
@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -69,6 +69,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

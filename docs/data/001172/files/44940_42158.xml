@@ -36,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 トンネル<lb />
 トンネル<lb />
 トンネルアケロ<lb />
@@ -52,7 +52,7 @@
 トンネル<lb />
 トンネル<lb />
 トンネルホリノ<lb />
-見物人ハ<span type="ruby"><span type="rb">一子</span><span type="rp">（</span><span type="rt">イチコ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">二三子</span><span type="rp">（</span><span type="rt">フミコ</span><span type="rp">）</span></span><lb />
+見物人ハ<seg type="ruby"><seg type="rb">一子</seg><seg type="rp">（</seg><seg type="rt">イチコ</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">二三子</seg><seg type="rp">（</seg><seg type="rt">フミコ</seg><seg type="rp">）</seg></seg><lb />
 ポチモスワツテミテオイデ<lb />
 <lb />
 トンネル<lb />
@@ -69,6 +69,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

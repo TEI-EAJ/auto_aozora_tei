@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-06-25">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：良本典代<lb />
@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 植物はとほくけぶる外輪山の緑のいろ。<lb />
 ここはたゞ白昼<lb />
 玉座の怒る噴煙である。<lb />
@@ -43,10 +43,10 @@
 雲をとばし<lb />
 てつぺんに僕を飾つてひらく山岳！<lb />
 <lb />
-<span rend="sho2" style="font-size: x-small;"><span facs="../../../gaiji/1-03/1-03-27.png" rend="gaiji" rendition="img" source="※(蛇の目、1-3-27)" />伊豆大島三原山にて</span><lb />
+<seg rend="sho2" rendition="span" style="font-size: x-small;"><seg facs="../../../gaiji/1-03/1-03-27.png" rend="gaiji" rendition="img" source="※(蛇の目、1-3-27)" />伊豆大島三原山にて</seg><lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>銭形平次捕物控</title>
+        <author>野村胡堂</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-01-29">作成</resp><resp /><note>
+<lb />
+底本：「銭形平次捕物控（六）結納の行方」嶋中文庫、嶋中書店<lb />
+　　　22004（平成16）年10月20日第1刷発行<lb />
+底本の親本：「銭形平次捕物百話」中央公論社<lb />
+　　　1939（昭和14）年<lb />
+初出：「オール讀物」文藝春秋社<lb />
+　　　1938（昭和13）年9月号<lb />
+入力：特定非営利活動法人はるかぜ<lb />
+校正：結城宏<lb />
+<date when="2019-01-29">2019年1月29日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>特定非営利活動法人はるかぜ</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>結城宏</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>銭形平次捕物控</title><author>野村胡堂</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">一</seg></seg></seg>
+<lb />
+　江戸開府以来といわれた、捕物の名人銭形平次の手柄のうちには、こんな不思議な事件もあったのです。――これは世に<seg type="ruby"><seg type="rb">謂</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>う捕物ではないかも知れませんが、危険を<seg type="ruby"><seg type="rb">孕</seg><seg type="rp">（</seg><seg type="rt">はら</seg><seg type="rp">）</seg></seg>むことにおいては、冷たい<seg type="ruby"><seg type="rb">詭計</seg><seg type="rp">（</seg><seg type="rt">きけい</seg><seg type="rp">）</seg></seg>に終始した捕物などの比ではないといえるでしょう。<lb />
+<lb />
+「親分ッ」<lb />
+　飛込んで来たのは、ガラッ八の八五郎でした。<lb />
+「何というあわてようだ。犬を蹴飛ばして、ドブ板を跳ね返して、格子をはずして、――相変らず大変が頓馬に乗って、関所破りでもしたというのかい」<lb />
+　平次は朝の<seg type="ruby"><seg type="rb">陽</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>ざしを避けて、冷たい板敷をなつかしむように、縁側に腹ん<seg type="ruby"><seg type="rb">這</seg><seg type="rp">（</seg><seg type="rt">ば</seg><seg type="rp">）</seg></seg>いになったまま、丹精甲斐のありそうもない植木棚を眺めて、煙草の煙を輪に吹いておりました。<lb />
+「落着いちゃいけねえ、いつもの大変とは大変が違うんだ、ね、親分、聞いておくんなさい」<lb />
+「大層な意気込みだね、<seg type="ruby"><seg type="rb">手前</seg><seg type="rp">（</seg><seg type="rt">てめえ</seg><seg type="rp">）</seg></seg>の顔を見ていると、――一向大変栄えもしないが、一体どんなドンガラガンを持って来やがったんだ」<lb />
+　平次はまだ庭から眼を移そうともしません。この<seg type="ruby"><seg type="rb">姿態</seg><seg type="rp">（</seg><seg type="rt">ポーズ</seg><seg type="rp">）</seg></seg>のまま、路地で犬を蹴飛ばしたことも、ドブ板をハネ返したことも、格子戸をはずしたことも気が付いていたのでしょう。<lb />
+「親分、縄張内から<seg type="ruby"><seg type="rb">謀叛人</seg><seg type="rp">（</seg><seg type="rt">むほんにん</seg><seg type="rp">）</seg></seg>が出たらどうします」<lb />
+　八五郎は息を弾ませながら、鼻の上の汗を平手で撫で上げました。<lb />
+「何だと？――今の世の中にそんな馬鹿なことがあるものか。もっとも、<seg type="ruby"><seg type="rb">由比</seg><seg type="rp">（</seg><seg type="rt">ゆい</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">正雪</seg><seg type="rp">（</seg><seg type="rt">しょうせつ</seg><seg type="rp">）</seg></seg>なら<seg type="ruby"><seg type="rb">牛込榎町</seg><seg type="rp">（</seg><seg type="rt">うしごめえのきちょう</seg><seg type="rp">）</seg></seg>よ、<seg type="ruby"><seg type="rb">丸橋忠弥</seg><seg type="rp">（</seg><seg type="rt">まるばしちゅうや</seg><seg type="rp">）</seg></seg>は本郷弓町だ、縄張違いだよ、八」<lb />
+　平次はまだこんな<seg type="ruby"><seg type="rb">洒落</seg><seg type="rp">（</seg><seg type="rt">しゃれ</seg><seg type="rp">）</seg></seg>を言っているのです。<lb />
+「そんな昔話じゃねえ、謀叛人が生きていて、町内の銭湯で毎日銭形の親分と顔を合せるとしたら、どんなもんで」<lb />
+「いやな事を言やがる、その謀叛人はいったいどこの誰なんだ」<lb />
+「金沢町の<seg type="ruby"><seg type="rb">素読</seg><seg type="rp">（</seg><seg type="rt">そどく</seg><seg type="rp">）</seg></seg>の師匠<seg type="ruby"><seg type="rb">皆川半之丞</seg><seg type="rp">（</seg><seg type="rt">みながわはんのじょう</seg><seg type="rp">）</seg></seg>」<lb />
+「何だと」<lb />
+　平次は起き直りました。<lb />
+　一年ばかり前に引っ越して来た、浪人者皆川半之丞、美男で、人柄で、まだ三十そこそこの若さを、何をするでもなく、世捨人のように暮しているのが、銭形平次の第六感に、何かの印象を留めずにはいなかったのです。<lb />
+「ね、親分、そう聞くと思い当るでしょう。子供は嫌いだからといって、<seg type="ruby"><seg type="rb">寺子</seg><seg type="rp">（</seg><seg type="rt">てらこ</seg><seg type="rp">）</seg></seg>は皆んな断ってしまった癖に、夜は大の男を四五人も集めて“<seg type="ruby"><seg type="rb">子曰</seg><seg type="rp">（</seg><seg type="rt">しのたまわ</seg><seg type="rp">）</seg></seg>く”の素読の<seg type="ruby"><seg type="rb">稽古</seg><seg type="rp">（</seg><seg type="rt">けいこ</seg><seg type="rp">）</seg></seg>だ」<lb />
+「…………」<lb />
+「それは不思議でないにしても、弟子は一人残らず<seg type="ruby"><seg type="rb">他所</seg><seg type="rp">（</seg><seg type="rt">よそ</seg><seg type="rp">）</seg></seg>の者で、町内の若い者が<seg type="ruby"><seg type="rb">束脩</seg><seg type="rp">（</seg><seg type="rt">そくしゅう</seg><seg type="rp">）</seg></seg>を持って頼みに行くと、家が狭いとか、<seg type="ruby"><seg type="rb">隙</seg><seg type="rp">（</seg><seg type="rt">ひま</seg><seg type="rp">）</seg></seg>がないとか、何とかかとか言って追っ払われる」<lb />
+「フーム」<lb />
+「そのくせ、弟子どもと一緒に夜更けまでゴトゴトやっているそうですよ。謀叛人でなきゃ、<seg type="ruby"><seg type="rb">贋金</seg><seg type="rp">（</seg><seg type="rt">にせがね</seg><seg type="rp">）</seg></seg>造り、そんなとこじゃありませんか、親分」<lb />
+　ガラッ八の鼻は少しばかり<seg type="ruby"><seg type="rb">蠢</seg><seg type="rp">（</seg><seg type="rt">うごめ</seg><seg type="rp">）</seg></seg>きます。この鼻がまた銭形平次にとっては、千里眼順風耳で、この上もない調法な武器だったのです。<lb />
+「贋金造りにしちゃ、暮しが楽じゃない様子だ」<lb />
+「だから、謀叛人、綺麗な顔はしているが、とんだ<seg type="ruby"><seg type="rb">大伴</seg><seg type="rp">（</seg><seg type="rt">おおとも</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">黒主</seg><seg type="rp">（</seg><seg type="rt">くろぬし</seg><seg type="rp">）</seg></seg>じゃありませんか」<lb />
+「…………」<lb />
+「それに、あの妹のお京というのがあんまり綺麗すぎますよ。妹だか女房だか知らないが、日中は二人家の中に引っ込んだきり、滅多なことじゃ<seg type="ruby"><seg type="rb">天道様</seg><seg type="rp">（</seg><seg type="rt">てんとうさま</seg><seg type="rp">）</seg></seg>の下に顔も出さねえ」<lb />
+「それが<seg type="ruby"><seg type="rb">口惜</seg><seg type="rp">（</seg><seg type="rt">くや</seg><seg type="rp">）</seg></seg>しかったんだろう」<lb />
+「ヘッ、お察しの通りと言いてえが、謀叛人の妹に思いをかけちゃ、笠の台があぶねえ」<lb />
+　ガラッ八は<seg type="ruby"><seg type="rb">平掌</seg><seg type="rp">（</seg><seg type="rt">ひらて</seg><seg type="rp">）</seg></seg>でピシャリと自分の<seg type="ruby"><seg type="rb">頸筋</seg><seg type="rp">（</seg><seg type="rt">くびすじ</seg><seg type="rp">）</seg></seg>を叩いて、ペロリと舌を出しました。<lb />
+「じゃ、どうしろと言うんだ。いくら十手捕縄を預かる<seg rend="sesame_dot" rendition="em">こちとら</seg>でも証拠も引っ掛りもない者を、いきなり縛るわけにも行くめえ」<lb />
+「そこは親分の働きで――」<lb />
+「馬鹿なことを言え」<lb />
+「それに、あの家から、ときどき<seg type="ruby"><seg type="rb">煙硝</seg><seg type="rp">（</seg><seg type="rt">えんしょう</seg><seg type="rp">）</seg></seg>の匂いがするそうですよ、隠し鉄砲は遠島だ。それだけでも何とかなりゃしませんか」<lb />
+「待て待て、もう少し考えてみよう、うっかり手を付けて恥を掻いちゃならねえ」<lb />
+　平次も皆川半之丞<seg type="ruby"><seg type="rb">兄妹</seg><seg type="rp">（</seg><seg type="rt">きょうだい</seg><seg type="rp">）</seg></seg>の日頃の様子から、ようやく重大なものを感じた様子でした。<lb />
+<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">二</seg></seg></seg>
+<lb />
+　その晩、平次はガラッ八をつれて、皆川半之丞の浪宅を訪ねました。<lb />
+「どなた様で？」<lb />
+　三つ指を突いて迎えたのは妹のお京、町内の若いのが、顔を一と目見るだけのことに、三晩湯屋の前を張っていたというピカピカする娘です。<lb />
+　何となく貧しげな木綿物ですが、折目の入った<seg type="ruby"><seg type="rb">単衣</seg><seg type="rp">（</seg><seg type="rt">ひとえ</seg><seg type="rp">）</seg></seg>を着て、十九、<seg type="ruby"><seg type="rb">二十歳</seg><seg type="rp">（</seg><seg type="rt">はたち</seg><seg type="rp">）</seg></seg>がせいぜいと思われる若さを、紅も<seg type="ruby"><seg type="rb">白粉</seg><seg type="rp">（</seg><seg type="rt">おしろい</seg><seg type="rp">）</seg></seg>も抜きの、痛々しいほど無造作な髪形、――それから発散される<seg type="ruby"><seg type="rb">素朴</seg><seg type="rp">（</seg><seg type="rt">そぼく</seg><seg type="rp">）</seg></seg>な美しさは、妙にうら悲しさを感じさせる種類のものでした。<lb />
+「御町内の平次ですが、お目にかかって、お願い申上げたいことがございます」<lb />
+　平次は精いっぱいの<seg type="ruby"><seg type="rb">古文真宝</seg><seg type="rp">（</seg><seg type="rt">こぶんしんぽう</seg><seg type="rp">）</seg></seg>な顔をします。<lb />
+「しばらくお待ちを――」<lb />
+　スーと引込む娘の後ろ姿、浅まな浪宅が御殿に見えて、<seg type="ruby"><seg type="rb">裾</seg><seg type="rp">（</seg><seg type="rt">すそ</seg><seg type="rp">）</seg></seg>を引いたお女中が、お奥へ行くような気がして、後ろの八五郎はツイ鼻の下を長くします。<lb />
+「大したものだね、親分」<lb />
+「しッ」<lb />
+　平次は袖を払いました。<lb />
+　間もなく二人は次の間に通されて、ぬるい茶を<seg type="ruby"><seg type="rb">啜</seg><seg type="rp">（</seg><seg type="rt">すす</seg><seg type="rp">）</seg></seg>って待っていると、<lb />
+「平次殿ではないか――改まって、どんな用事だ」<lb />
+　<seg type="ruby"><seg type="rb">主人</seg><seg type="rp">（</seg><seg type="rt">あるじ</seg><seg type="rp">）</seg></seg>の皆川半之丞、煙ったい顔に、薄笑いを浮べて来ました。蒼白い顔と、<seg type="ruby"><seg type="rb">華奢</seg><seg type="rp">（</seg><seg type="rt">きゃしゃ</seg><seg type="rp">）</seg></seg>な身体を見ると、両刀は<seg type="ruby"><seg type="rb">手挟</seg><seg type="rp">（</seg><seg type="rt">たばさ</seg><seg type="rp">）</seg></seg>んでも、武芸などとは縁の遠い男に見えますが、その代り眼の鋭い、鼻の高い、<seg type="ruby"><seg type="rb">細面</seg><seg type="rp">（</seg><seg type="rt">ほそおもて</seg><seg type="rp">）</seg></seg>の唇のよく締った、いかにも智恵と意志を思わせる顔立ちです。<lb />
+　浪人者といっても、まだ三十そこそこ、よく湯屋や往来で見かけて、目礼を<seg type="ruby"><seg type="rb">交</seg><seg type="rp">（</seg><seg type="rt">かわ</seg><seg type="rp">）</seg></seg>す顔ですが、鈍い<seg type="ruby"><seg type="rb">行灯</seg><seg type="rp">（</seg><seg type="rt">あんどん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">灯</seg><seg type="rp">（</seg><seg type="rt">あかり</seg><seg type="rp">）</seg></seg>に対して、平次は改めて自分の観察を整理しました。<lb />
+「<seg type="ruby"><seg type="rb">外</seg><seg type="rp">（</seg><seg type="rt">ほか</seg><seg type="rp">）</seg></seg>じゃございませんが、一人弟子に取って頂きたい人間がございますが――」<lb />
+「はて？」<lb />
+「この野郎でございますよ。御存じでしょうか、八五郎というんで。世間並のような顔をしていますが、からっきし訳の解らねえ人間で、――こんな野郎でも、“<seg type="ruby"><seg type="rb">子曰</seg><seg type="rp">（</seg><seg type="rt">しのたまわ</seg><seg type="rp">）</seg></seg>く”をちょっぴり教えて頂いたら少しは人間らしくなろうかと、こう思いましたんで、ヘエ――」<lb />
+　平次は後ろの方ですっかり<seg rend="sesame_dot" rendition="em">むくれ</seg>ているガラッ八の顔を尻目に、こんな調子で頼み込むのでした。<lb />
+「それは困るな、私は新しい弟子を取らないことにしているんだが」<lb />
+「でも、ございましょうが――」<lb />
+「今来ているのは、皆んな三年越しの弟子ばかり、引っ越して行く先々へ<seg type="ruby"><seg type="rb">跟</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いて来るから、断るにも断り切れない」<lb />
+　皆川半之丞はまったく<seg type="ruby"><seg type="rb">困</seg><seg type="rp">（</seg><seg type="rt">こう</seg><seg type="rp">）</seg></seg>じ果てた様子です。<lb />
+「そうおっしゃらずに同町内の<seg type="ruby"><seg type="rb">誼</seg><seg type="rp">（</seg><seg type="rt">よしみ</seg><seg type="rp">）</seg></seg>、御面倒でもございましょうが、人一人目鼻を明けてやって下さい。なア、八、<seg type="ruby"><seg type="rb">手前</seg><seg type="rp">（</seg><seg type="rt">てめえ</seg><seg type="rp">）</seg></seg>からもよくお願いをしな」<lb />
+「ヘエ――」<lb />
+　八五郎は、モゾモゾと頸筋を掻きました。あまり、“子曰く”に気の乗る顔ではありません。<lb />
+　皆川半之丞は、再三再四断りましたが、平次はそれに押っ冠せて、根気よく、頼み込み、とうとう<seg type="ruby"><seg type="rb">半刻</seg><seg type="rp">（</seg><seg type="rt">はんとき</seg><seg type="rp">）</seg></seg>（一時間）ほど経った頃、<lb />
+「それでは、二三日来てみなさるがいい。最初から大学や<seg type="ruby"><seg type="rb">孝経</seg><seg type="rp">（</seg><seg type="rt">こうきょう</seg><seg type="rp">）</seg></seg>でもあるまいから、<seg type="ruby"><seg type="rb">庭訓往来</seg><seg type="rp">（</seg><seg type="rt">ていきんおうらい</seg><seg type="rp">）</seg></seg>でもやりましょう」<lb />
+　皆川半之丞の方から折れてしまいました。<lb />
+「こうなりゃ、何だって構やしません。庭訓往来なんてケチな事をいわずに、<seg type="ruby"><seg type="rb">阿呆陀羅経</seg><seg type="rp">（</seg><seg type="rt">あほだらきょう</seg><seg type="rp">）</seg></seg>でも何でもやっておくんなさい」<lb />
+　ガラッ八は、殺さば殺せといった調子でした。<lb />
+「馬鹿野郎、阿呆陀羅経って、奴があるか、――こんな解らない野郎でございます、なにぶん宜しく願います」<lb />
+　平次は、一生懸命に頼み込んで、マゴマゴするガラッ八を<seg type="ruby"><seg type="rb">促</seg><seg type="rp">（</seg><seg type="rt">うなが</seg><seg type="rp">）</seg></seg>し、いずれ稽古は明日の晩から、ということにして引揚げました。<lb />
+「驚いたぜ、親分」<lb />
+　外へ出ると、ガラッ八は精いっぱいの<seg type="ruby"><seg type="rb">酸</seg><seg type="rp">（</seg><seg type="rt">す</seg><seg type="rp">）</seg></seg>っぱい顔をして見せるのです。<lb />
+「驚くことがあるものか、いいついでだ、しっかり学問をしておくがいい」<lb />
+「学問は気が乗らねえが、――あの娘は毎晩顔を見せるかしら？」<lb />
+「馬鹿野郎」<lb />
+「そんな役得でもなきゃ、十手捕縄御返上だ。“子曰く”なんか<seg type="ruby"><seg type="rb">持薬</seg><seg type="rp">（</seg><seg type="rt">じやく</seg><seg type="rp">）</seg></seg>にするような、悪い<seg type="ruby"><seg type="rb">病</seg><seg type="rp">（</seg><seg type="rt">やまい</seg><seg type="rp">）</seg></seg>はねえ」<lb />
+「黙らないかよ、――<seg type="ruby"><seg type="rb">呆</seg><seg type="rp">（</seg><seg type="rt">あき</seg><seg type="rp">）</seg></seg>れた野郎だ」<lb />
+　二人はしばらく黙って歩きました。いつの間にやら、皆川半之丞の浪宅を含む街の一角を、月に浮れたように一と廻りしていたのです。<lb />
+「右隣は長崎屋<seg type="ruby"><seg type="rb">幸右衛門</seg><seg type="rp">（</seg><seg type="rt">こうえもん</seg><seg type="rp">）</seg></seg>、左は川岸だ」<lb />
+　平次は皆川半之丞の浪宅を押し<seg type="ruby"><seg type="rb">潰</seg><seg type="rp">（</seg><seg type="rt">つぶ</seg><seg type="rp">）</seg></seg>しそうに、街の四分の一を占めて<seg type="ruby"><seg type="rb">聳</seg><seg type="rp">（</seg><seg type="rt">そび</seg><seg type="rp">）</seg></seg>える、御金御用達兼神田両替組頭、長崎屋幸右衛門の豪勢な家を振り仰ぎました。<lb />
+「長崎屋のお<seg type="ruby"><seg type="rb">喜多</seg><seg type="rp">（</seg><seg type="rt">きた</seg><seg type="rp">）</seg></seg>も十九だが、――あの娘と比べちゃお月様とすっぽんだ」<lb />
+　ガラッ八は<seg type="ruby"><seg type="rb">外</seg><seg type="rp">（</seg><seg type="rt">ほか</seg><seg type="rp">）</seg></seg>の事を考えております。<lb />
+「そう言ったものじゃあるめえ、お喜多も町内で五本の指に折られる娘だ、――あの娘が少し綺麗すぎるんだよ」<lb />
+「ヘッ、娘やお月様は綺麗すぎたって腹の立つものじゃねえ」<lb />
+「何を下らない、――ところで、あの皆川兄妹に逢って、何か気の付いたことはなかったかい」<lb />
+　平次は自分の家の方へ足を向けながら、軽い調子で問いかけました。<lb />
+「二人ともいやにお上品で綺麗だという外にはね、――同じ武家でも、あんなのは、舞台へ出て来る武家のようじゃありませんか」<lb />
+「それにしちゃ、手が荒れているとは思わなかったかい、八」<lb />
+　平次は大変なところへ眼をつけていたのです。<lb />
+「貧乏な浪人暮しで、下女も<seg type="ruby"><seg type="rb">飯炊</seg><seg type="rp">（</seg><seg type="rt">めした</seg><seg type="rp">）</seg></seg>きも置かなきゃ、娘の手も荒れるでしょうよ」<lb />
+　ガラッ八は少しばかりセンチメンタルになりました。<lb />
+「娘はそれで解るとして、――あの主人の手はどうだ、ありゃ武家や町人の手じゃねえ、百姓か職人の手だ」<lb />
+「…………」<lb />
+「いろいろ面白いことがありそうだよ、少し当ってみよう、――ところで、稽古の始まるまでまだまる一日あるわけだから、その前にあの<seg type="ruby"><seg type="rb">兄妹</seg><seg type="rp">（</seg><seg type="rt">きょうだい</seg><seg type="rp">）</seg></seg>の素姓と、近所の<seg type="ruby"><seg type="rb">噂</seg><seg type="rp">（</seg><seg type="rt">うわさ</seg><seg type="rp">）</seg></seg>を聞いておくとしよう。頼むぞ、八」<lb />
+「ヘエ――」<lb />
+　八五郎は両手を<seg type="ruby"><seg type="rb">揉</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>みました。相手が綺麗なだけに、何か<seg type="ruby"><seg type="rb">武者顫</seg><seg type="rp">（</seg><seg type="rt">むしゃぶる</seg><seg type="rp">）</seg></seg>いみたいなものを感じます。<lb />
+<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">三</seg></seg></seg>
+<lb />
+「親分、驚いたの何のって――」<lb />
+　八五郎はまたドブ板を跳ね返して、飛込みました。<lb />
+「俺の方が驚くよ、そう毎度格子をはずされちゃ」<lb />
+　平次は相変らず落着いております。<lb />
+「それどころじゃねえ、――今晩はどんな事があったと思いますッ」<lb />
+「変な声を出すなよ、馬鹿だなア」<lb />
+「あの皆川半之丞という、浪人者が教えてくれるかと思うと、大将は四五人の<seg type="ruby"><seg type="rb">旧</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>い弟子と奥の一と間に閉め切って立て<seg type="ruby"><seg type="rb">籠</seg><seg type="rp">（</seg><seg type="rt">こも</seg><seg type="rp">）</seg></seg>り――」<lb />
+「この<seg type="ruby"><seg type="rb">温気</seg><seg type="rp">（</seg><seg type="rt">うんき</seg><seg type="rp">）</seg></seg>にか？」<lb />
+「<seg rend="sesame_dot" rendition="em">あっし</seg>の師匠は、ヘッ、ヘッ、妹のお京さんだ。教えて貰った書物はモーギューてんですぜ。ヘッ、ヘッ」<lb />
+「大層むつかしいものをやりやがったな。<seg type="ruby"><seg type="rb">蒙求</seg><seg type="rp">（</seg><seg type="rt">もうぎゅう</seg><seg type="rp">）</seg></seg>は荷が勝ちすぎるだろう、少しは覚えて来たか」<lb />
+「いいえ」<lb />
+　八五郎はブルブルンと長い<seg type="ruby"><seg type="rb">顎</seg><seg type="rp">（</seg><seg type="rt">あご</seg><seg type="rp">）</seg></seg>を振りました。<lb />
+「一つも覚えちゃいねえのか」<lb />
+「ヘッ、お京さんの可愛らしい唇の動くのを見ていたんだ。ときどき書物から顔を挙げて、<seg rend="sesame_dot" rendition="em">あっし</seg>の目と目が逢うと、ボーッとしたぜ」<lb />
+「馬鹿野郎」<lb />
+「<seg type="ruby"><seg type="rb">空耳</seg><seg type="rp">（</seg><seg type="rt">そらみみ</seg><seg type="rp">）</seg></seg>で聞くんだから、モーギューだってヒヒンだって少しも驚かねえ」<lb />
+「牛や馬の声じゃねえ、呆れた野郎だ、それっきりか」<lb />
+「これっきりだった日にゃ、十手捕縄返上だ。ね、親分、モーギューは何にも覚えちゃいねえが、はばかりながら稼業の方はちゃんとやりましたよ」<lb />
+　ガラッ八は狭い<seg type="ruby"><seg type="rb">単衣</seg><seg type="rp">（</seg><seg type="rt">ひとえ</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">膝</seg><seg type="rp">（</seg><seg type="rt">ひざ</seg><seg type="rp">）</seg></seg>っ小僧を包みながら乗出しました。<lb />
+「何か聞出したのか」<lb />
+「お隣の長崎屋――あの万両分限の箱入り娘お喜多が、皆川半之丞と仲がよくなったのを、長崎屋の主人幸右衛門が、貧乏浪人などは<seg type="ruby"><seg type="rb">以</seg><seg type="rp">（</seg><seg type="rt">もっ</seg><seg type="rp">）</seg></seg>ての外と、<seg type="ruby"><seg type="rb">生木</seg><seg type="rp">（</seg><seg type="rt">なまき</seg><seg type="rp">）</seg></seg>を割いたのを御存じですかい」<lb />
+「いや知らねえ」<lb />
+「銭形の親分も、<seg type="ruby"><seg type="rb">情事</seg><seg type="rp">（</seg><seg type="rt">いうごと</seg><seg type="rp">）</seg></seg>出入りには目が利かないネ」<lb />
+「<seg rend="sesame_dot" rendition="em">ふざけ</seg>るな――探ったのはそれっきりか」<lb />
+「…………」<lb />
+「手前が妹に教わって、<seg type="ruby"><seg type="rb">蒙求</seg><seg type="rp">（</seg><seg type="rt">もうぎゅう</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">囀</seg><seg type="rp">（</seg><seg type="rt">さえず</seg><seg type="rp">）</seg></seg>る間、奥の一と間じゃ何をやったんだ」<lb />
+「それが解らねえ、素読の声は愚か、人の話し声も聞えませんや」<lb />
+「呆れた野郎だ、娘の顔ばかり見ていたんだろう」<lb />
+「もっとも、人の歩く音や、重い物を引摺るような音は聞えたように思うが」<lb />
+「それが謀叛の証拠になるかも知れなかったんだ、何だって覗いて見ねえ」<lb />
+「武士はそんな卑怯なことをするものじゃねえ――と言いたいが、実は娘が<seg type="ruby"><seg type="rb">側</seg><seg type="rp">（</seg><seg type="rt">そば</seg><seg type="rp">）</seg></seg>にひっ付いて、<seg type="ruby"><seg type="rb">瞬</seg><seg type="rp">（</seg><seg type="rt">またた</seg><seg type="rp">）</seg></seg>きする間も離れなかったんで、ヘッ、ヘッ」<lb />
+　ガラッ八は<seg type="ruby"><seg type="rb">平掌</seg><seg type="rp">（</seg><seg type="rt">ひらて</seg><seg type="rp">）</seg></seg>で長い顎を逆撫でにしております。<lb />
+「手の付けようがねえ、――今晩は是が非でも奥の一と間を見るんだ、いいか、八」<lb />
+「ヘエ――」<lb />
+「娘が側を離れなきゃ、仮病を使うとか、調子が出なきゃ横っ腹を突き飛ばすとか――」<lb />
+「誰ので？　親分」<lb />
+「<seg type="ruby"><seg type="rb">手前</seg><seg type="rp">（</seg><seg type="rt">てめえ</seg><seg type="rp">）</seg></seg>のを、手前の<seg type="ruby"><seg type="rb">拳骨</seg><seg type="rp">（</seg><seg type="rt">げんこつ</seg><seg type="rp">）</seg></seg>でやるんだ、遠慮することはねえ」<lb />
+「驚いたね」<lb />
+「面喰らって娘の横っ腹などを突き飛ばすんじゃないぞ、馬鹿野郎ッ」<lb />
+「ウ、ヘエ――、今日は馬鹿野郎の<seg type="ruby"><seg type="rb">食傷</seg><seg type="rp">（</seg><seg type="rt">しょくしょう</seg><seg type="rp">）</seg></seg>だ。ゆうべ夢見が悪かったよ」<lb />
+　ガラッ八は驚いて飛出しました。<lb />
+「用心しろ、デレデレしているととんだ目に逢わされるぞ」<lb />
+　平次の追っかける声に、ガラッ八はもう姿も見えません。昨夜の<seg type="ruby"><seg type="rb">縮尻</seg><seg type="rp">（</seg><seg type="rt">しくじり</seg><seg type="rp">）</seg></seg>を取返して来るつもりでしょう。<lb />
+　<seg type="ruby"><seg type="rb">翌</seg><seg type="rp">（</seg><seg type="rt">あく</seg><seg type="rp">）</seg></seg>る日一日、平次は皆川半之丞の身許を調べました。最初は中国浪人という触れ込みだけ、どこの家中とも解らなかったのですが、やがて、皆川半之丞というのは偽名で、<seg type="ruby"><seg type="rb">御家人</seg><seg type="rp">（</seg><seg type="rt">ごけにん</seg><seg type="rp">）</seg></seg>崩れか、旗本の<seg type="ruby"><seg type="rb">冷飯</seg><seg type="rp">（</seg><seg type="rt">ひやめし</seg><seg type="rp">）</seg></seg>食いか、とにかく、江戸侍に相違ないことだけは、見当が付いたのでした。<lb />
+　皆川半之丞の家に集まる四五人は、本郷から<seg type="ruby"><seg type="rb">下谷</seg><seg type="rp">（</seg><seg type="rt">したや</seg><seg type="rp">）</seg></seg>へかけての堅気の<seg type="ruby"><seg type="rb">小商人</seg><seg type="rp">（</seg><seg type="rt">こあきんど</seg><seg type="rp">）</seg></seg>か、小旗本の奉公人で、下っ引に調べさせると、それが一脈の筋を引いていることは解りましたが、たった一日の探索では、それ以上の事は見当も付きません。<lb />
+　こんな時は鼻のいいガラッ八でも居てくれると、大いに助かるわけですが、残念ながらそれも、からかいすぎて寄り付かず、気を揉みながらとうとう三日目の夜になってしまいました。<lb />
+「親分、皆川半之丞の家の横手に、こんなものが落ちていましたよ」<lb />
+　下っ引の一人が、小さい<seg type="ruby"><seg type="rb">紙</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg>っ<seg type="ruby"><seg type="rb">片</seg><seg type="rp">（</seg><seg type="rt">きれ</seg><seg type="rp">）</seg></seg>を拾って来たのは、そのまた翌る夜の<seg type="ruby"><seg type="rb">亥刻</seg><seg type="rp">（</seg><seg type="rt">よつ</seg><seg type="rp">）</seg></seg>（十時）過ぎ。<lb />
+「フーム」<lb />
+　それを読んだ平次は、<seg type="ruby"><seg type="rb">煙管</seg><seg type="rp">（</seg><seg type="rt">きせる</seg><seg type="rp">）</seg></seg>の吸口を額に当てたまま、思わず<seg type="ruby"><seg type="rb">唸</seg><seg type="rp">（</seg><seg type="rt">うな</seg><seg type="rp">）</seg></seg>りました。<seg type="ruby"><seg type="rb">懐紙</seg><seg type="rp">（</seg><seg type="rt">ふところがみ</seg><seg type="rp">）</seg></seg>に、<seg type="ruby"><seg type="rb">消炭</seg><seg type="rp">（</seg><seg type="rt">けしずみ</seg><seg type="rp">）</seg></seg>でのたくらせた走り書きは、<lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em">
+親分、大変なことになったぜ、明日はきっと、鬼の首を取って帰る、外まわりの土に気をつけて下さい――<lb />
+</seg>
+　間違いだらけの仮名文字、ガラッ八名代の悪筆に紛れもありません。<lb />
+<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">四</seg></seg></seg>
+<lb />
+　それっきりガラッ八は帰らなかったのです。皆川半之丞の浪宅へ、幾度か使いをやりましたが、二晩稽古に来たっきり、あとは顔を見せない――という<seg type="ruby"><seg type="rb">素気</seg><seg type="rp">（</seg><seg type="rt">そっけ</seg><seg type="rp">）</seg></seg>ない挨拶です。<lb />
+　一方皆川半之丞のところに集まる四五人の弟子の身許を、一人一人<seg type="ruby"><seg type="rb">虱潰</seg><seg type="rp">（</seg><seg type="rt">しらみつぶ</seg><seg type="rp">）</seg></seg>しに調べさせた下っ引は、思いも寄らぬ不思議な事を聞込んで来ました。<lb />
+　黒門町から来るのは、小旗本某の用人、本郷三丁目から来るのは、以前旗本某に使われた小者、湯島から通う男は、旗本某の<seg type="ruby"><seg type="rb">乳母</seg><seg type="rp">（</seg><seg type="rt">うば</seg><seg type="rp">）</seg></seg>だったという老女の<seg type="ruby"><seg type="rb">倅</seg><seg type="rp">（</seg><seg type="rt">せがれ</seg><seg type="rp">）</seg></seg>。<lb />
+「その旗本は何というんだ、愚図愚図しちゃいられない、大急ぎで訊いて来い」<lb />
+　平次は日頃にも似ぬ<seg rend="sesame_dot" rendition="em">あせり</seg>ようです。下っ引を二三人、尻を蹴飛ばすように出してやった平次は、深々と腕を<seg type="ruby"><seg type="rb">拱</seg><seg type="rp">（</seg><seg type="rt">こまぬ</seg><seg type="rp">）</seg></seg>いて考え込みました。若くてイキのいい平次が、こんな分別顔をするのは滅多にないことですが、三日消息を絶ったガラッ八の身の上に、何か重大な危険が、襲いかかっているような気がして、さすがに不吉な予感に<seg type="ruby"><seg type="rb">怯</seg><seg type="rp">（</seg><seg type="rt">おび</seg><seg type="rp">）</seg></seg>え続けていたのでした。<lb />
+　事件の<seg type="ruby"><seg type="rb">全貌</seg><seg type="rp">（</seg><seg type="rt">ぜんぼう</seg><seg type="rp">）</seg></seg>は、皆川半之丞の素姓が判りさえすれば、わけもなく見透せるような気がしますが、いくら浪人でも、<seg type="ruby"><seg type="rb">歴</seg><seg type="rp">（</seg><seg type="rt">れっき</seg><seg type="rp">）</seg></seg>とした二本差を、証拠も何にもなしに縛るわけにゆかず、寺に戸籍のあった時代では、簡単に前身や身分を洗う工夫もつかなかったのです。<lb />
+　しかし、疑問を織り出している<seg type="ruby"><seg type="rb">綾糸</seg><seg type="rp">（</seg><seg type="rt">あやいと</seg><seg type="rp">）</seg></seg>は、一ヶ所から繰り出されているような気もしないではありません。その<seg type="ruby"><seg type="rb">大本</seg><seg type="rp">（</seg><seg type="rt">おおもと</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">衝</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>くことが出来さえすれば、何もかも一ぺんにほぐれて行くのかも知れないのです。<lb />
+　少なくとも四方へ飛ばした下っ引が帰って来れば、何とか目鼻がつくでしょう。困ったことに、この二三日、皆川半之丞の家に、弟子達の集まる様子はなく、それを<seg type="ruby"><seg type="rb">跟</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>けて、巣を突き止める<seg type="ruby"><seg type="rb">手段</seg><seg type="rp">（</seg><seg type="rt">てだて</seg><seg type="rp">）</seg></seg>もありませんが、暇にあかして詮索をしたら、疑問の旗本の名前ぐらいは<seg type="ruby"><seg type="rb">捜</seg><seg type="rp">（</seg><seg type="rt">さぐ</seg><seg type="rp">）</seg></seg>り出せるかも知れないのでした。<lb />
+（――ところで、土に気をつけろ――とは何のことだ）平次の胸にはガラッ八の<seg type="ruby"><seg type="rb">下手</seg><seg type="rp">（</seg><seg type="rt">へた</seg><seg type="rp">）</seg></seg>な仮名文字が浮びました。<lb />
+　いくら考えたところで、この謎の文句ばかりは解りそうもありません。（これはやはり、ガラッ八の手紙の通り、外廻りを見る方が早いかも知れない――）そう思い付いた平次は、人に顔を見られるのを<seg type="ruby"><seg type="rb">憚</seg><seg type="rp">（</seg><seg type="rt">はばか</seg><seg type="rp">）</seg></seg>るように、翌る日の早朝、まだ街の往来のろくにない頃を選んで、皆川半之丞の小さい浪宅から、長崎屋の大きな構え、それに続く自身番や、<seg type="ruby"><seg type="rb">小商</seg><seg type="rp">（</seg><seg type="rt">こあきな</seg><seg type="rp">）</seg></seg>いの店のあたりを当てもなくグルグルと廻りました。<lb />
+「おや？」<lb />
+　妙なものが、平次の注意を捉えました。踏み堅めた往来へ、ボロボロとこぼれている、真っ黒な土です。つまみ上げて<seg type="ruby"><seg type="rb">掌</seg><seg type="rp">（</seg><seg type="rt">てのひら</seg><seg type="rp">）</seg></seg>で砕いてみると、江戸の往来の<seg type="ruby"><seg type="rb">馬糞</seg><seg type="rp">（</seg><seg type="rt">まぐそ</seg><seg type="rp">）</seg></seg>と砂利をねり堅めたような土とは全く違ったもので、うんと空気を含んだ真っ黒な土くれですが、肥料の<seg type="ruby"><seg type="rb">気</seg><seg type="rp">（</seg><seg type="rt">け</seg><seg type="rp">）</seg></seg>の少しもないところをみると、八百屋や近在の百姓衆が、商売物の荷や<seg type="ruby"><seg type="rb">草鞋</seg><seg type="rp">（</seg><seg type="rt">わらじ</seg><seg type="rp">）</seg></seg>で運んで来た、田舎の土でないことも明らかです。<lb />
+　土は点々として、川岸に続きました。崩れた石垣の上から覗くと、そこには<seg type="ruby"><seg type="rb">苫</seg><seg type="rp">（</seg><seg type="rt">とま</seg><seg type="rp">）</seg></seg>を掛けた船が一<seg type="ruby"><seg type="rb">隻</seg><seg type="rp">（</seg><seg type="rt">せき</seg><seg type="rp">）</seg></seg>、人が居るとも見えず、上げ潮に揺られて、ユラユラと岸を<seg type="ruby"><seg type="rb">嬲</seg><seg type="rp">（</seg><seg type="rt">なぶ</seg><seg type="rp">）</seg></seg>っております。<lb />
+「…………」<lb />
+　平次は思わず声を出すところでした。<seg type="ruby"><seg type="rb">船端</seg><seg type="rp">（</seg><seg type="rt">ふなばた</seg><seg type="rp">）</seg></seg>には、<seg type="ruby"><seg type="rb">先刻</seg><seg type="rp">（</seg><seg type="rt">さっき</seg><seg type="rp">）</seg></seg>、街で見付けたと同じような土が一ぱい、苫の中にも多分それが積み込んであることでしょう。もし、ガラッ八の手紙に書いてある“土”がこれを指すのだったら？――平次は思わず<seg type="ruby"><seg type="rb">伸上</seg><seg type="rp">（</seg><seg type="rt">のびあ</seg><seg type="rp">）</seg></seg>がって皆川半之丞の浪宅のあたりを見やりました。<lb />
+　視野を<seg type="ruby"><seg type="rb">遮</seg><seg type="rp">（</seg><seg type="rt">さえぎ</seg><seg type="rp">）</seg></seg>るのは長崎屋の巨大な<seg type="ruby"><seg type="rb">棟</seg><seg type="rp">（</seg><seg type="rt">むね</seg><seg type="rp">）</seg></seg>、――その下には、巨万の富を護るために抱えておくという、二人の浪人者の住んでいる<seg type="ruby"><seg type="rb">離室</seg><seg type="rp">（</seg><seg type="rt">はなれ</seg><seg type="rp">）</seg></seg>も見えます。<lb />
+<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">五</seg></seg></seg>
+<lb />
+　その時でした。急に街の空気が騒がしくなったと思う間もなく、<lb />
+「親分、大変だッ――殺されましたよ」<lb />
+　下っ引の<seg type="ruby"><seg type="rb">勝</seg><seg type="rp">（</seg><seg type="rt">かつ</seg><seg type="rp">）</seg></seg>が飛んで来ました。<seg type="ruby"><seg type="rb">鋳掛勝</seg><seg type="rp">（</seg><seg type="rt">いかけかつ</seg><seg type="rp">）</seg></seg>という中年男で、乾し固めたような小さい身体ですが、ガラッ八などよりは物事が<seg type="ruby"><seg type="rb">敏捷</seg><seg type="rp">（</seg><seg type="rt">びんしょう</seg><seg type="rp">）</seg></seg>に運びます。<lb />
+「誰が殺されたんだ？」<lb />
+「浪人者の妹ですよ、――お京さんといった、めっぽう綺麗なのが――」<lb />
+「えッ」<lb />
+　平次は飛上がりました。岡っ引として異常な事件に臨む緊張というよりは、女の<seg type="ruby"><seg type="rb">児</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>が、美しい人形を取落して、<seg type="ruby"><seg type="rb">微塵</seg><seg type="rp">（</seg><seg type="rt">みじん</seg><seg type="rp">）</seg></seg>に砕いた時の心持です。<lb />
+　二人は宙を飛びました。皆川の浪宅では、<lb />
+「お、平次殿」<lb />
+　さすがに、真っ蒼になった主人の半之丞が迎えてくれます。<lb />
+「お妹様が御災難だそうで――」<lb />
+「見てくれ、平次殿」<lb />
+　皆川半之丞の案内で裏へ廻ると、狭い庭の植込みの蔭に、さしも美しかったお京は、<seg type="ruby"><seg type="rb">紅絹</seg><seg type="rp">（</seg><seg type="rt">もみ</seg><seg type="rp">）</seg></seg>の一と束のように、<seg type="ruby"><seg type="rb">碧血</seg><seg type="rp">（</seg><seg type="rt">へきけつ</seg><seg type="rp">）</seg></seg>に染んで<seg rend="sesame_dot" rendition="em">こと</seg>切れているのです。<lb />
+「これは？」<lb />
+　平次もさすがに胸が<seg type="ruby"><seg type="rb">塞</seg><seg type="rp">（</seg><seg type="rt">ふさ</seg><seg type="rp">）</seg></seg>がりました。血を失い尽して、真っ白になった小さい顔は、打ち砕かれた人形のような、この世のものとも見えぬ冷たく美しいものです。傷は後ろから<seg type="ruby"><seg type="rb">浴衣</seg><seg type="rp">（</seg><seg type="rt">ゆかた</seg><seg type="rp">）</seg></seg>越しに突いた一と<seg type="ruby"><seg type="rb">太刀</seg><seg type="rp">（</seg><seg type="rt">たち</seg><seg type="rp">）</seg></seg>、左乳の下へ突き抜けるほどの<seg type="ruby"><seg type="rb">凄</seg><seg type="rp">（</seg><seg type="rt">すさ</seg><seg type="rp">）</seg></seg>まじいもの。<lb />
+「お心当りは、皆川様」<lb />
+「何にもない――」<lb />
+　半之丞は固く口を<seg type="ruby"><seg type="rb">緘</seg><seg type="rp">（</seg><seg type="rt">つぐ</seg><seg type="rp">）</seg></seg>みました。<lb />
+「血の<seg type="ruby"><seg type="rb">凝</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>まった様子では夜中前のようですが」<lb />
+「そうかも知れない、が、私は早寝だから、何にも知らなかった。――今朝起きてみると、縁側の戸は開けたまま、朝陽がさし込んでいたが、多分、妹が朝の支度でもしている事と思い込んで、うっかり時刻を過してしまった」<lb />
+　そう言う皆川半之丞の顔には、夕立雲のように深刻な悲しみが去来します。<lb />
+「人に<seg type="ruby"><seg type="rb">怨</seg><seg type="rp">（</seg><seg type="rt">うら</seg><seg type="rp">）</seg></seg>まれるようなお心当りは？」<lb />
+「ない」<lb />
+　半之丞の調子は少しけんもホロロです。<lb />
+「そう申しては何ですが、――御妹様はこの御<seg rend="sesame_dot" rendition="em">きりょう</seg>で、さぞ何かと言う人も多いことでございましょう、殿方とのお噂などは？」<lb />
+「とんでもない、妹に限って、そんな馬鹿なことがあるわけはない」<lb />
+　半之丞の口調は<seg type="ruby"><seg type="rb">激越</seg><seg type="rp">（</seg><seg type="rt">げきえつ</seg><seg type="rp">）</seg></seg>でした。言い知れぬ<seg type="ruby"><seg type="rb">忿怒</seg><seg type="rp">（</seg><seg type="rt">ふんぬ</seg><seg type="rp">）</seg></seg>が、サッとその秀麗な顔を染めるのでした。<lb />
+「もう一つ伺いますが、御妹様は、旦那と本当の御兄妹でしょうか」<lb />
+「ウム」<lb />
+　気むつかしくうなずく半之丞を、平次はもう追及する気もない様子です。<lb />
+「恐れ入りますが、お家の中の様子を見せて頂きます」<lb />
+「それは――」<lb />
+　引留めそうにする皆川半之丞の様子に構わず、平次はもう縁側から上がっておりました。入口の三畳、それに隣る六畳は、いつかガラッ八と一緒に通された部屋。そこにお京の<seg type="ruby"><seg type="rb">床</seg><seg type="rp">（</seg><seg type="rt">とこ</seg><seg type="rp">）</seg></seg>は紅い木綿の裏を見せて、淋しく敷き捨てたまま、枕の<seg type="ruby"><seg type="rb">脹</seg><seg type="rp">（</seg><seg type="rt">ふく</seg><seg type="rp">）</seg></seg>らみ具合では、一度も寝なかったことが一と目で解ります。<lb />
+　その奥の部屋は、皆川半之丞が特別な弟子達を通す場所でしょう。主人の不満も知らぬ顔に、平次の手はサッと<seg type="ruby"><seg type="rb">唐紙</seg><seg type="rp">（</seg><seg type="rt">からかみ</seg><seg type="rp">）</seg></seg>を開けました。<lb />
+　そこは六畳のよく片付いた部屋、平次が期待したようなものは何にもなく、主人半之丞の床が部屋の隅に片寄せて、ザッと積んであるだけです。<lb />
+　平次もさすがにそれ以上は遠慮しなければなりませんでした。縁側に立ってみると、裏木戸へ通ずる庭がよく踏み堅められて、<seg type="ruby"><seg type="rb">苔</seg><seg type="rp">（</seg><seg type="rt">こけ</seg><seg type="rp">）</seg></seg>一つないのが不思議といえば不思議です。それよりも平次の眼を驚かしたのは、狭い庭のあちこちに、<seg type="ruby"><seg type="rb">撒</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>いたように散っている一種の土くれでした。<lb />
+　この家の中をもっとよく捜したら？　平次は、そんな事を考えておりましたが、庭の死体もそのままにして、さすがに家探しもなり兼ねます。<lb />
+「お知合の方へ人をやりましょうか、皆川様」<lb />
+　平次は見兼ねて注意しましたが、<lb />
+「いや、江戸には格別の知合もない」<lb />
+　半之丞は、冷たく言い放って、妹の死体の側に、<seg type="ruby"><seg type="rb">検屍</seg><seg type="rp">（</seg><seg type="rt">けんし</seg><seg type="rp">）</seg></seg>の済むのを待っている様子です。<lb />
+　大きな悲しみの去来する、この上もなく冷たい顔を、平次は世にも不思議なものに眺めておりました。ひ弱い肉体と、<seg type="ruby"><seg type="rb">逞</seg><seg type="rp">（</seg><seg type="rt">たくま</seg><seg type="rp">）</seg></seg>しい智恵とを持っているらしい、この皆川半之丞の秀麗な<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>から、秘密を看破することだけは平次も断念しなければならなかったでしょう。それは、平次がかつて経験したことのない、複雑な深さを持った顔です。<lb />
+　間もなく検屍が済んで、死体を部屋の中に運び入れ、町内の人達が、家主や月番を先に立てて、何くれと世話をしてくれました。が、不思議なことに、毎晩集まって来た、半之丞の弟子達も、身寄りの者もたった一人も顔を見せません。<lb />
+「皆川様、――番所までお越しを願います」<lb />
+　思案に暮れた平次は、最後の<seg type="ruby"><seg type="rb">切札</seg><seg type="rp">（</seg><seg type="rt">きりふだ</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">投</seg><seg type="rp">（</seg><seg type="rt">ほう</seg><seg type="rp">）</seg></seg>りました。たった半刻、この家から皆川半之丞を追い出して、存分に調べてみたかったのです。<lb />
+「それは誰の指図だ」<lb />
+　半之丞の顔は冷たく<seg type="ruby"><seg type="rb">引緊</seg><seg type="rp">（</seg><seg type="rt">ひきしま</seg><seg type="rp">）</seg></seg>ります。<lb />
+「その方が早く型がつきます、――御奉行所の召出しを待って、なにかと手間取っては、御妹様の仇討も遅れる道理ではございませんか」<lb />
+　平次は一生懸命です。町奉行や、与力の指図を待っていては、平次の方も今日の日に間に合いません。そうかといって、相手は身分あり<seg type="ruby"><seg type="rb">気</seg><seg type="rp">（</seg><seg type="rt">げ</seg><seg type="rp">）</seg></seg>な二本差ですから、引っ<seg type="ruby"><seg type="rb">括</seg><seg type="rp">（</seg><seg type="rt">くく</seg><seg type="rp">）</seg></seg>って行って、存分な家探しをするわけにも行かなかったのです。<lb />
+「無用だ。――私は知っているだけの事はみんな言ってしまった」<lb />
+「でも」<lb />
+「私は<seg type="ruby"><seg type="rb">葬</seg><seg type="rp">（</seg><seg type="rt">とむら</seg><seg type="rp">）</seg></seg>いの済まぬうちは、妹の死体を独りぽっちにしたくはない」<lb />
+「でも、<seg type="ruby"><seg type="rb">下手人</seg><seg type="rp">（</seg><seg type="rt">げしゅにん</seg><seg type="rp">）</seg></seg>を挙げなきゃなりませんよ。<seg type="ruby"><seg type="rb">敵</seg><seg type="rp">（</seg><seg type="rt">かたき</seg><seg type="rp">）</seg></seg>を討たなきゃ、御妹様も浮ばれないというものでしょう」<lb />
+「下手人を挙げさえすれば、この私に格別な用事はないのだな」<lb />
+「それはもう、おっしゃるまでもありません」<lb />
+　平次も、ツイこう言い切ってしまいました。<lb />
+「それなら一向わけはないではないか」<lb />
+「？」<lb />
+「下手人は解っている。名札を置いて行ったも同様だ」<lb />
+「？」<lb />
+「銭形の平次と言われる者が、これほどの事が解らないはずはない」<lb />
+「…………」<lb />
+　平次は眼を見張りました。恐ろしい挑戦です。<lb />
+「あれを見るがいい」<lb />
+　皆川半之丞の指さしたのは、お京の死骸の横たわっていた植込みの真上に<seg type="ruby"><seg type="rb">冠</seg><seg type="rp">（</seg><seg type="rt">かぶ</seg><seg type="rp">）</seg></seg>さる長崎屋の<seg type="ruby"><seg type="rb">土塀</seg><seg type="rp">（</seg><seg type="rt">どべい</seg><seg type="rp">）</seg></seg>でした。<lb />
+　飛んで行ってみると、その土塀の上の<seg type="ruby"><seg type="rb">瓦</seg><seg type="rp">（</seg><seg type="rt">かわら</seg><seg type="rp">）</seg></seg>には、真夏の陽に乾いてベットリ血潮。<lb />
+「…………」<lb />
+　平次も今は一句もありません。皆肌半之丞をここから追出して、ガラッ八の安否を確かめることに気を取られ、たったこれほどのことに気が付かなかったのです。<lb />
+「昨夜妹を<seg type="ruby"><seg type="rb">誘</seg><seg type="rp">（</seg><seg type="rt">おび</seg><seg type="rp">）</seg></seg>き出した<seg type="ruby"><seg type="rb">曲者</seg><seg type="rp">（</seg><seg type="rt">くせもの</seg><seg type="rp">）</seg></seg>は、長崎屋の庭で妹を殺害し塀越しに死骸を投げ込んだのだ。六尺の土塀の上に付いた血や、植込みの<seg type="ruby"><seg type="rb">躑躅</seg><seg type="rp">（</seg><seg type="rt">つつじ</seg><seg type="rp">）</seg></seg>の枝が折れて、<seg type="ruby"><seg type="rb">生湿</seg><seg type="rp">（</seg><seg type="rt">なまじめ</seg><seg type="rp">）</seg></seg>りの土に深く型の付いたのなどは、その証拠だ」<lb />
+　恐ろしい半之丞の明察、――平次はお株を奪われてしばらく黙ってしまいました。が、やがて、心を落着けると、平次の日頃の<seg type="ruby"><seg type="rb">叡智</seg><seg type="rp">（</seg><seg type="rt">えいち</seg><seg type="rp">）</seg></seg>が<seg type="ruby"><seg type="rb">蘇</seg><seg type="rp">（</seg><seg type="rt">よみがえ</seg><seg type="rp">）</seg></seg>ります。<lb />
+「下手人は左利きの男、力はあるが武家ではありません」<lb />
+　と平次。<lb />
+「その通りだ。さすがは平次殿、それに一点の間違いもあるまい。長崎屋へ行って、左利きの力の強い男を捜すがいい、下手人はそれだ。多分まだ刃物を持っているかも知れない」<lb />
+「…………」<lb />
+　皆川半之丞の言葉を後ろに聞いて、平次は長崎屋の裏口から真っ直ぐに乗り込んで行きました。<lb />
+<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">六</seg></seg></seg>
+<lb />
+「何？　岡っ引が入って来た？　左利きの力の強い男がいないかと言うのか」<lb />
+「それなら<seg type="ruby"><seg type="rb">拙者</seg><seg type="rp">（</seg><seg type="rt">せっしゃ</seg><seg type="rp">）</seg></seg>だ、この<seg type="ruby"><seg type="rb">伊坂権内</seg><seg type="rp">（</seg><seg type="rt">いさかごんない</seg><seg type="rp">）</seg></seg>、左利きの上に三人力だぞ」<lb />
+　長崎屋にゴロゴロしている浪人者が二人、事あれかしと裏口から飛んで出ました。<lb />
+「お武家方じゃございません、奉公人のうちに、そんな人はいないでしょうか」<lb />
+　平次はおくれる色もありません。<lb />
+「あったらどうする？」<lb />
+　と伊坂権内。<lb />
+「番所まで来て貰います」<lb />
+「何？」<lb />
+「昨夜庭の隅で人を殺し、土塀越しに隣の庭へ<seg type="ruby"><seg type="rb">投</seg><seg type="rp">（</seg><seg type="rt">ほう</seg><seg type="rp">）</seg></seg>り込んだ者があります」<lb />
+「…………」<lb />
+　二人の浪人者も、事態の容易ならぬのに黙りこくってしまいました。<lb />
+「左利きで、力の強い奉公人に違いありません、――あッ、あの野郎だッ」<lb />
+　寄って来た人垣を抜けてコソコソと逃げる若い男、平次はそれを見とがめて後ろから追いすがりました。<lb />
+「親分、私は何にも知りませんよ、とんでもない」<lb />
+　そう言いながらも必死と反抗するのを、引っ倒してパッと叩き伏せ、繰り出す<seg type="ruby"><seg type="rb">早縄</seg><seg type="rp">（</seg><seg type="rt">はやなわ</seg><seg type="rp">）</seg></seg>が、蛇のように若い男の両手を後ろに縛り上げます。<lb />
+「<seg type="ruby"><seg type="rb">利吉</seg><seg type="rp">（</seg><seg type="rt">りきち</seg><seg type="rp">）</seg></seg>、――とか言ったね、神妙にするがいい、<seg type="ruby"><seg type="rb">裾</seg><seg type="rp">（</seg><seg type="rt">すそ</seg><seg type="rp">）</seg></seg>に血が付いているじゃないか」<lb />
+「えッ」<lb />
+「ハッハッハッ、そう言われて、自分の裾を見るところが正直だ、――番頭さん、この男の荷物を見せて下さい」<lb />
+「ヘエ――」<lb />
+　老番頭の<seg type="ruby"><seg type="rb">太兵衛</seg><seg type="rp">（</seg><seg type="rt">たへえ</seg><seg type="rp">）</seg></seg>もどうすることも出来ません。<seg type="ruby"><seg type="rb">不承不承</seg><seg type="rp">（</seg><seg type="rt">ふしょうぶしょう</seg><seg type="rp">）</seg></seg>下男に言い付けて、奉公人の部屋から、古い<seg type="ruby"><seg type="rb">竹行李</seg><seg type="rp">（</seg><seg type="rt">たけごうり</seg><seg type="rp">）</seg></seg>を一つ持って来させました。<lb />
+　縄付の手代利吉を、飛んで来た下っ引に預けた平次は、手早く行李を開けて、ザッと目を通しました。少し乱雑に入れたお仕着せに晴着、それに少しばかり<seg type="ruby"><seg type="rb">臍</seg><seg type="rp">（</seg><seg type="rt">へそ</seg><seg type="rp">）</seg></seg>くりの入った財布。その下には、<lb />
+「おや？」<lb />
+　書き損じらしい手紙が七八本。いちいちくりひろげて見ると、たどたどしい言葉で、思いの<seg type="ruby"><seg type="rb">丈</seg><seg type="rp">（</seg><seg type="rt">たけ</seg><seg type="rp">）</seg></seg>をかき口説いた紋切型のものばかり、<seg type="ruby"><seg type="rb">宛名</seg><seg type="rp">（</seg><seg type="rt">あてな</seg><seg type="rp">）</seg></seg>はみんなお嬢様、――利吉より、となっております。たぶん書いてみたが、気がとがめて出さなかったのでしょう。<lb />
+「こいつは、この男の<seg type="ruby"><seg type="rb">筆跡</seg><seg type="rp">（</seg><seg type="rt">て</seg><seg type="rp">）</seg></seg>に違いないだろうな、番頭さん」<lb />
+「ヘエ――」<lb />
+　突き付けられた手紙を、老番頭の太兵衛は<seg type="ruby"><seg type="rb">呆気</seg><seg type="rp">（</seg><seg type="rt">あっけ</seg><seg type="rp">）</seg></seg>に取られて眺めておりましたが、やがて手代利吉の書いたものに相違ないことを認めました。<lb />
+「<seg type="ruby"><seg type="rb">手前</seg><seg type="rp">（</seg><seg type="rt">てめえ</seg><seg type="rp">）</seg></seg>は言い寄って<seg type="ruby"><seg type="rb">弾</seg><seg type="rp">（</seg><seg type="rt">はじ</seg><seg type="rp">）</seg></seg>かれた意趣返しに、お隣のお京さんを殺しやがったろう、太い野郎だ」<lb />
+　平次はこの<seg type="ruby"><seg type="rb">造化</seg><seg type="rp">（</seg><seg type="rt">ぞうか</seg><seg type="rp">）</seg></seg>の傑作を台無しにした<seg type="ruby"><seg type="rb">冒涜</seg><seg type="rp">（</seg><seg type="rt">ぼうとく</seg><seg type="rp">）</seg></seg>的な男の、ニキビだらけな顔を憎々しく見やりました。まだ二十二三でしょう。<seg type="ruby"><seg type="rb">魯鈍</seg><seg type="rp">（</seg><seg type="rt">ろどん</seg><seg type="rp">）</seg></seg>で脂切って、何ともいいようのない不気味なところのある若者です。<lb />
+「違いますよ、親分」<lb />
+「今さら<seg type="ruby"><seg type="rb">弁解</seg><seg type="rp">（</seg><seg type="rt">いいわけ</seg><seg type="rp">）</seg></seg>をしても追付くめえ、素直に申上げてお慈悲を願え」<lb />
+「違います、――そんなわけで殺したんじゃありません、私は、私は――」<lb />
+　利吉はシクシクと泣き出しました。<lb />
+「何を言やがる。人一人<seg type="ruby"><seg type="rb">洒落</seg><seg type="rp">（</seg><seg type="rt">しゃれ</seg><seg type="rp">）</seg></seg>や道楽で殺せるわけはねえ。手前のような馬鹿に見込まれたのが、お京さんの<seg type="ruby"><seg type="rb">因果</seg><seg type="rp">（</seg><seg type="rt">いんが</seg><seg type="rp">）</seg></seg>だ」<lb />
+「親分」<lb />
+「何が気に入らねえ、馬鹿野郎ッ」<lb />
+「違いますよ、――お嬢さん、たった一と言、何とかおっしゃって下さい、私は、私は」<lb />
+　あらぬ方を見る利吉の視線を追って行くと、物蔭にチラリと白いもの、――長崎屋の娘のお喜多が、そこから<seg type="ruby"><seg type="rb">凍</seg><seg type="rp">（</seg><seg type="rt">こお</seg><seg type="rp">）</seg></seg>るような視線を送っているのでした。<lb />
+「あッ、なるほどそうか」<lb />
+　平次にも事件の成行きが次第に呑込めます。利吉の手紙の宛名は、殺されたお京ではなくて、主人の娘お喜多だったのです。<lb />
+「お嬢様、――私は<seg type="ruby"><seg type="rb">処刑</seg><seg type="rp">（</seg><seg type="rt">おしおき</seg><seg type="rp">）</seg></seg>になっても本望ですが、――たった一と言、やさしい言葉をかけて下さい、――お嬢様、お願い」<lb />
+「…………」<lb />
+　未練男の焼き付くような視線に追われて、お喜多はツイと身体を隠しました。バタバタと、縁側を遠ざかる<seg type="ruby"><seg type="rb">跫音</seg><seg type="rp">（</seg><seg type="rt">あしおと</seg><seg type="rp">）</seg></seg>。<lb />
+「お嬢様」<lb />
+　それを見る利吉の眼からは、ドッと涙が湧きました。ピシリと鳴る縄尻。<lb />
+「野郎ッ、歩けッ」<lb />
+　下っ引のダミ声が<seg type="ruby"><seg type="rb">威嚇的</seg><seg type="rp">（</seg><seg type="rt">いかくてき</seg><seg type="rp">）</seg></seg>に響きます。<lb />
+<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">七</seg></seg></seg>
+<lb />
+　夕光りが明神様の森にすっかり落ちてしまった頃、下っ引の<seg type="ruby"><seg type="rb">鋳掛勝</seg><seg type="rp">（</seg><seg type="rt">いかけかつ</seg><seg type="rp">）</seg></seg>が帰って来ました。<lb />
+「親分、解りましたぜ」<lb />
+「何が解ったんだ、勝」<lb />
+「あの浪宅に集まるのは、八千五百石の旗本で、駒込に屋敷のある、<seg type="ruby"><seg type="rb">永井和泉守</seg><seg type="rp">（</seg><seg type="rt">ながいいずみのかみ</seg><seg type="rp">）</seg></seg>様の縁故の者ばかりですぜ」<lb />
+「しめたッ」<lb />
+「永井和泉守様は二年前に亡くなり、跡取りの鉄三郎様が三年前から<seg type="ruby"><seg type="rb">行方</seg><seg type="rp">（</seg><seg type="rt">ゆくえ</seg><seg type="rp">）</seg></seg>知れずで、今は和泉守様の遠い伯父<seg type="ruby"><seg type="rb">平馬</seg><seg type="rp">（</seg><seg type="rt">へいま</seg><seg type="rp">）</seg></seg>様というのが後見格で、主人同様に振舞っていますよ。平馬様の子の平太郎という方が跡目相続するそうで――」<lb />
+「そいつは有難い、――ところで、皆川半之丞というのは、永井和泉守様の何だ」<lb />
+「それが解りゃ何もかも片付くが、それだけは解りませんよ」<lb />
+「じゃもう一と息探ってくれ、皆川半之丞兄妹の身許だ、――兄妹じゃない、俺は夫婦だろうと思うが」<lb />
+「ヘエ――」<lb />
+「大急ぎで頼むよ」<lb />
+「それじゃ、親分」<lb />
+「ちょいと待ってくれ、手前は町内に顔を見知られていないから、この手紙を<seg type="ruby"><seg type="rb">投</seg><seg type="rp">（</seg><seg type="rt">ほう</seg><seg type="rp">）</seg></seg>り込んでくれ」<lb />
+　そう言いながら平次は、サラサラと一通。<lb />
+「こりゃ、皆川半之丞宛ですね」<lb />
+「永井家から出したようにしてある。この手紙をみると、いかな皆川半之丞でも、<seg type="ruby"><seg type="rb">一刻</seg><seg type="rp">（</seg><seg type="rt">いっとき</seg><seg type="rp">）</seg></seg>は家を空けるよ」<lb />
+「ヘエ――」<lb />
+　鋳掛勝は<seg type="ruby"><seg type="rb">独楽鼠</seg><seg type="rp">（</seg><seg type="rt">こまねずみ</seg><seg type="rp">）</seg></seg>のように飛んで行きました。<lb />
+　それから煙草を二三服、<seg type="ruby"><seg type="rb">懐中提灯</seg><seg type="rp">（</seg><seg type="rt">ふところぢょうちん</seg><seg type="rp">）</seg></seg>の用意をして外へ出ると、幸いにトップリ<seg type="ruby"><seg type="rb">黄昏</seg><seg type="rp">（</seg><seg type="rt">たそが</seg><seg type="rp">）</seg></seg>れて、大して忍ばなくとも、人に顔を見られそうもありません。<lb />
+　皆川半之丞の浪宅の近所に網を張っていると、間もなく当の半之丞は、日頃の落着いた様子もなくせかせかと出て行きました。<lb />
+　それをやり過して、そっと滑り込んだ平次。二つの部屋には眼もくれず、いきなり裏木戸の方に向いた厳重そうな格子窓に手を掛けると、楽々とはずして中へ踏込みました。そこは三畳ばかりの板敷の納戸で、床板には何の変りもありませんが、隅に片寄せた<seg type="ruby"><seg type="rb">渋紙</seg><seg type="rp">（</seg><seg type="rt">しぶがみ</seg><seg type="rp">）</seg></seg>をほぐすと、往来や、庭にあったような土が、ザラザラするほど畳込んであります。多分この渋紙を敷いて何かの作業をするのでしょう。<lb />
+　平次は懐中提灯に明りを入れると、一方の板戸をサッと開けました。中は一間の押入、床板二三枚は手に従って<seg type="ruby"><seg type="rb">剥</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>がされ、その下に真っ黒な穴が、地獄の入口のように口を開きます。<lb />
+　平次は何の<seg type="ruby"><seg type="rb">躊躇</seg><seg type="rp">（</seg><seg type="rt">ちゅうちょ</seg><seg type="rp">）</seg></seg>もなく入って行きました。穴は、三尺四方ばかり、粗末ながら<seg type="ruby"><seg type="rb">巌丈</seg><seg type="rp">（</seg><seg type="rt">がんじょう</seg><seg type="rp">）</seg></seg>な段々があって、二<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">けん</seg><seg type="rp">）</seg></seg>ばかり降りると、今度は真っ直ぐに横へ伸びております。<lb />
+　ムッとする土の匂いも、不気味な暗さも、もう平次を<seg type="ruby"><seg type="rb">牽制</seg><seg type="rp">（</seg><seg type="rt">けんせい</seg><seg type="rp">）</seg></seg>しませんでした。長崎屋の方へ――五六間も入って行くと、何やら行手に<seg type="ruby"><seg type="rb">蠢</seg><seg type="rp">（</seg><seg type="rt">うごめ</seg><seg type="rp">）</seg></seg>くもの――。<lb />
+　平次はハッと立止って、懐中提灯を突き付けました。<lb />
+「八じゃねえか」<lb />
+　変り果てた姿ですが、ガラッ八の八五郎に<seg type="ruby"><seg type="rb">紛</seg><seg type="rp">（</seg><seg type="rt">まぎ</seg><seg type="rp">）</seg></seg>れもありません。わずかに敷いた<seg type="ruby"><seg type="rb">筵</seg><seg type="rp">（</seg><seg type="rt">むしろ</seg><seg type="rp">）</seg></seg>の上に、滅茶滅茶に縛られて、<seg type="ruby"><seg type="rb">猿轡</seg><seg type="rp">（</seg><seg type="rt">さるぐつわ</seg><seg type="rp">）</seg></seg>にも及ばず、声を立てる気力もなく、ガラッ八の八五郎はピカリピカリと眼ばかり光らせていたのです。<lb />
+「…………」<lb />
+　ガラッ八の顔は激情に<seg type="ruby"><seg type="rb">歪</seg><seg type="rp">（</seg><seg type="rt">ゆが</seg><seg type="rp">）</seg></seg>んで、口が声もなくフカフカと動きました。<lb />
+「<seg type="ruby"><seg type="rb">確</seg><seg type="rp">（</seg><seg type="rt">しっか</seg><seg type="rp">）</seg></seg>りしろ、八、もう大丈夫だ」<lb />
+　平次はその縄を切りほどいて、赤ん坊を抱くように起してやりました。<lb />
+「親分」<lb />
+「何だ、八」<lb />
+「ひどい目に逢わしやがったぜ、畜生ッ」<lb />
+　ガラッ八はこう言うのが精いっぱいです。<lb />
+「どうしたんだ、――大急ぎで話してくれ、この穴はどこへ行くんだ」<lb />
+「長崎屋の金蔵だよ、親分」<lb />
+「謀叛人じゃなかったのか」<lb />
+「皆川半之丞兄妹は、あんな優しい顔をしているくせに、大泥棒だ」<lb />
+「そいつは知らなかった、大泥棒なら話は早い」<lb />
+　平次はガラッ八を助け起して、狭い穴の中ながら、どうやらこうやら引っ担ぎました。<lb />
+「無礼者ッ」<lb />
+　不意に、穴一パイの<seg type="ruby"><seg type="rb">霹靂</seg><seg type="rp">（</seg><seg type="rt">へきれき</seg><seg type="rp">）</seg></seg>が響きます。<lb />
+「…………」<lb />
+　ハッとして提灯を差向けると、出口を<seg type="ruby"><seg type="rb">塞</seg><seg type="rp">（</seg><seg type="rt">ふさ</seg><seg type="rp">）</seg></seg>いだのは、主人の皆川半之丞。いつの間に帰ったか、一刀の<seg type="ruby"><seg type="rb">鯉口</seg><seg type="rp">（</seg><seg type="rt">こいぐち</seg><seg type="rp">）</seg></seg>を切って、近寄らば目に物見せん構えです。<lb />
+　蒼白い顔は激怒に<seg type="ruby"><seg type="rb">顫</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>えて、<seg type="ruby"><seg type="rb">爛</seg><seg type="rp">（</seg><seg type="rt">らん</seg><seg type="rp">）</seg></seg>とした眼は、中腰になった平次と、その背に負われたガラッ八を<seg type="ruby"><seg type="rb">睨</seg><seg type="rp">（</seg><seg type="rt">にら</seg><seg type="rp">）</seg></seg>み据えます。<lb />
+「泥棒とは何事だ、――皆川半之丞、人の物をかすめた覚えはないぞ」<lb />
+「…………」<lb />
+「偽手紙でおびき出して、他人の家に忍び込む、その方こそ盗賊だろう。銭形平次とは言わさんぞ」<lb />
+「待って下さい、皆川さん、――こうでもしなきゃ、八五郎を助ける工夫がなかったんだ、――差当り泥棒でないという言い訳、そいつを伺おうじゃありませんか」<lb />
+　平次も屈服してはおりません。<lb />
+「言い訳などは大嫌いだ――」<lb />
+　苦り切る半之丞。<lb />
+「でも、この穴は長崎屋の家の下まで行ってますぜ、土地の下だって他人の地所に違いないでしょう。――それでも言い訳が無用だと言うんですかい」<lb />
+　平次は少し反抗的になりました。<lb />
+「なるほど、そういえば一応もっともだ、それでは<seg type="ruby"><seg type="rb">冥土</seg><seg type="rp">（</seg><seg type="rt">めいど</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">土産</seg><seg type="rp">（</seg><seg type="rt">みやげ</seg><seg type="rp">）</seg></seg>に聞かしてやろう、――皆川半之丞が、同志の手をかりて、この穴を掘ったわけは、こうだ」<lb />
+　穴の上と下、地獄の入口に相対したような三人は、懐中提灯の心細い灯の中に、<seg type="ruby"><seg type="rb">孕</seg><seg type="rp">（</seg><seg type="rt">はら</seg><seg type="rp">）</seg></seg>む殺気もそのまま不思議な物語を始めたのです。<lb />
+<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">八</seg></seg></seg>
+<lb />
+「平次はいろいろ探索をした様子だから、大方の見当は付くだろう。駒込の旗本八千五百石、永井和泉守様の御跡取り、たった一粒種の鉄三郎様は三年前十八歳で行方知れずになられた。いろいろ手を尽したが、その所在の解らぬまま、和泉守様は嘆きのうちに御他界、その後へ伯父の平馬殿が入って後見しておられる」<lb />
+「…………」<lb />
+　――こう言う皆川半之丞というのは、用人<seg type="ruby"><seg type="rb">川波</seg><seg type="rp">（</seg><seg type="rt">かわなみ</seg><seg type="rp">）</seg></seg>五六郎の子<seg type="ruby"><seg type="rb">一弥</seg><seg type="rp">（</seg><seg type="rt">かずや</seg><seg type="rp">）</seg></seg>、長く千葉の領地にいて、江戸屋敷に顔を見知った者のないのを幸い、妻のお京と相談して、二年越し、若主人鉄三郎の行方を捜しましたが、フトしたことから、万両分限長崎屋の土蔵の中に、厳重な囲いを作り、親類の<seg type="ruby"><seg type="rb">瘋狂人</seg><seg type="rp">（</seg><seg type="rt">ふうきょうじん</seg><seg type="rp">）</seg></seg>を預かっているという名義で隠してあることを探り当てたのは一年前のことでした。<lb />
+　長崎屋は元長崎の商人で、厳禁の抜け荷を扱って巨万の富を積みましたが、それが<seg type="ruby"><seg type="rb">露顕</seg><seg type="rp">（</seg><seg type="rt">ろけん</seg><seg type="rp">）</seg></seg>して、すでに<seg type="ruby"><seg type="rb">磔刑</seg><seg type="rp">（</seg><seg type="rt">はりつけ</seg><seg type="rp">）</seg></seg>にもなるべきのところを、その当時長崎奉行の下役をしていた、永井平馬に救われ、その恩があるので、平馬の頼みを断り兼ね、悪事と知りながら、和泉守遺子鉄三郎を隠して、平馬の永井家乗取り策の片棒を担ぐことになったのです。<lb />
+　平馬の子平太郎は当年十七歳、永井家家督相続の届を一年前から出してあるので、評定所の調べが済んで、鉄三郎が生死不明と決れば、改めて将軍家に<seg type="ruby"><seg type="rb">御目見</seg><seg type="rp">（</seg><seg type="rt">おめみえ</seg><seg type="rp">）</seg></seg>の上、近いうちにも跡目相続、八千五百石を相違なく下されることになるでしょう。<lb />
+　事態は急迫しました。<lb />
+　皆川半之丞の川波一弥は、長崎屋の隣の家を借り受け、最初は鉄三郎を盗み出すことを計画しましたが、腕っ節の強い浪人を二人まで雇ってある上、警戒厳重を極めて、非力の一弥ではどうすることも出来ません。<lb />
+　続いて、長崎屋の娘お喜多の浮気心を<seg type="ruby"><seg type="rb">嗾</seg><seg type="rp">（</seg><seg type="rt">そそ</seg><seg type="rp">）</seg></seg>って、囲いの鍵を盗み出させようとしましたが、妹と触れ込んだお京は、その実半之丞の女房と<seg type="ruby"><seg type="rb">覚</seg><seg type="rp">（</seg><seg type="rt">さと</seg><seg type="rp">）</seg></seg>られて、<seg type="ruby"><seg type="rb">驕慢</seg><seg type="rp">（</seg><seg type="rt">きょうまん</seg><seg type="rp">）</seg></seg>なお喜多の<seg type="ruby"><seg type="rb">妬心</seg><seg type="rp">（</seg><seg type="rt">としん</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">煽</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>り、少し賢くない利吉を<seg type="ruby"><seg type="rb">煽動</seg><seg type="rp">（</seg><seg type="rt">せんどう</seg><seg type="rp">）</seg></seg>して、鉄三郎救い出しの手引きをすると<seg type="ruby"><seg type="rb">騙</seg><seg type="rp">（</seg><seg type="rt">だま</seg><seg type="rp">）</seg></seg>してお京をおびき寄せ、庭で刺し殺して、土塀越しに<seg type="ruby"><seg type="rb">投</seg><seg type="rp">（</seg><seg type="rt">ほう</seg><seg type="rp">）</seg></seg>り込むようなことをしたのでした。<lb />
+「この一条は拙者<seg type="ruby"><seg type="rb">畢世</seg><seg type="rp">（</seg><seg type="rt">ひっせい</seg><seg type="rp">）</seg></seg>の過ち、人手に掛って相果てた妻に対しても面目ない。もっとも、一方では、永井家縁故の同志を集め、素読の稽古と触れ込んで、毎日地下に穴を掘り続け、あと一両日で、囲いの下に掘り抜くという時、その八五郎とやらが弟子入りをして来たのだ――それをどう始末してよいものか、平次、お前の思案ならどうだ」<lb />
+　皆川半之丞の頬には苦笑いが<seg type="ruby"><seg type="rb">淀</seg><seg type="rp">（</seg><seg type="rt">よど</seg><seg type="rp">）</seg></seg>みます。<lb />
+「<seg type="ruby"><seg type="rb">御尤</seg><seg type="rp">（</seg><seg type="rt">こもっと</seg><seg type="rp">）</seg></seg>もで、皆川様」<lb />
+　平次はあっさり<seg type="ruby"><seg type="rb">合槌</seg><seg type="rp">（</seg><seg type="rt">あいづち</seg><seg type="rp">）</seg></seg>を打ちました。<lb />
+「穴はもう主君鉄三郎様の囲いの下まで行っている。床板を下から打ち抜きさえすれば、何の苦もなく救い出せるのだ、――そこへこんな邪魔が入った」<lb />
+「よく解りました。皆川様、御心持、いちいち御尤も、決して無理とは申しませんが、それほど相手の悪事が判っているなら、どうして大目付へ訴えて出られないのです」<lb />
+　平次は最後の疑問を投げ出したのです。<lb />
+「永井家――東照宮様格別の思召しで八千五百石を下し置かれた永井家が、断絶になってもよいと言うのか」<lb />
+「…………」<lb />
+「これが表沙汰になれば、善悪ともに永井家の立行く道はない。いま無事に鉄三郎様さえ救い出せば、何とでも弁解の道は立つ、同志四五人命を惜しむ者はないが、斬込んで御府内を騒がさなかったのはそのためだ」<lb />
+「…………」<lb />
+「――が、こうしているうちにも、平馬の子平太郎の御目見が済んでしまっては、六日の<seg type="ruby"><seg type="rb">菖蒲</seg><seg type="rp">（</seg><seg type="rt">あやめ</seg><seg type="rp">）</seg></seg>だ」<lb />
+　その御目見の日が、二三日の後に迫っているのです。皆川半之丞が、平次と八五郎を斬ってしまっても、ここで鉄三郎を救おうとするのは無理のないことでした。<lb />
+「よく解りました。――<seg rend="sesame_dot" rendition="em">あっし</seg>はお上の御用を勤める身体で、大地の上ではそんなことに御助勢は出来ませんが、<seg type="ruby"><seg type="rb">天道様</seg><seg type="rp">（</seg><seg type="rt">てんとうさま</seg><seg type="rp">）</seg></seg>の届かない、土地の底の穴の中なら、お上のお目こぼしもあるとしたものでしょう、――一番今晩一と晩だけ、<seg type="ruby"><seg type="rb">土竜</seg><seg type="rp">（</seg><seg type="rt">もぐらもち</seg><seg type="rp">）</seg></seg>の真似をして、皆川様御夫婦の忠義にお手伝いしましょう」<lb />
+　平次は大変なことを言い出しました。<lb />
+「本当か、それは？」<lb />
+「八、手前は穴の外へ<seg type="ruby"><seg type="rb">這</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>い出して待っていろ。皆川様、サア、御案内して下さい」<lb />
+「親分、そいつは」<lb />
+　驚いたのは八五郎です。下へおろされて、あわてて平次の<seg type="ruby"><seg type="rb">裾</seg><seg type="rp">（</seg><seg type="rt">すそ</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">掴</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>むのを、<lb />
+「心配するなってことよ、――手前は眼をつぶってりゃいいんだ、俺は皆川様の御人柄に<seg type="ruby"><seg type="rb">惚</seg><seg type="rp">（</seg><seg type="rt">ほ</seg><seg type="rp">）</seg></seg>れたんだ。安心して待っているがいい」<lb />
+「ヘエ――」<lb />
+「平次殿、それは本当か」<lb />
+　半之丞も少しつままれた心持です。<lb />
+「本当も嘘もありゃしません。それで悪きゃ十手も捕縄も返上しますよ、――馬鹿の利吉に殺されなすった、――奥さんが可哀想だった、――その代り<seg rend="sesame_dot" rendition="em">あっし</seg>が手伝ってあげます」<lb />
+「有難い、いずれこの礼には縛られてお前の手柄にしよう」<lb />
+「とんでもない、穴を掘って縛られた日には、日本中の<seg type="ruby"><seg type="rb">土竜</seg><seg type="rp">（</seg><seg type="rt">もぐら</seg><seg type="rp">）</seg></seg>は暮しが立たねえ」<lb />
+「同志も世間を<seg type="ruby"><seg type="rb">憚</seg><seg type="rp">（</seg><seg type="rt">はばか</seg><seg type="rp">）</seg></seg>って来ず、一人ではあの床板を破って、見張りの浪人を押え、鉄三郎様を救い出す工夫がなかったのだ。それでは頼むぞ、平次殿」<lb />
+　皆川半之丞は涙を拭いておりました。<lb />
+「さア」<lb />
+「行きましょう」<lb />
+　穴の中を用心深く進む二人。その後ろ姿を見送って、ガラッ八はしばらく口も<seg type="ruby"><seg type="rb">塞</seg><seg type="rp">（</seg><seg type="rt">ふさ</seg><seg type="rp">）</seg></seg>がりません。<lb />
+「チェッ、物好きだね」<lb />
+<lb />
+　　　　　＊<lb />
+<lb />
+　その晩。<lb />
+　長崎屋の雇浪人、伊坂某は斬られ、囲いの中の鉄三郎は奪い去られました。しかし、事件は何もかも闇から闇に葬られて、それから三日目、永井平馬の<seg type="ruby"><seg type="rb">一子</seg><seg type="rp">（</seg><seg type="rt">いっし</seg><seg type="rp">）</seg></seg>平太郎が、永井和泉守相続人として、明日は将軍御目見という時、三年前神隠しに逢って野州<seg type="ruby"><seg type="rb">二荒山</seg><seg type="rp">（</seg><seg type="rt">ふたらさん</seg><seg type="rp">）</seg></seg>の奥にいたという和泉守一子鉄三郎が江戸に<seg type="ruby"><seg type="rb">立還</seg><seg type="rp">（</seg><seg type="rt">たちかえ</seg><seg type="rp">）</seg></seg>り、改めて家督相続を願い出で、後見人永井平馬は、家事向き不取締の<seg type="ruby"><seg type="rb">廉</seg><seg type="rp">（</seg><seg type="rt">かど</seg><seg type="rp">）</seg></seg>があって江戸を追放されることになったのです。<lb />
+「親分、驚いたぜ、――御用聞が<seg rend="sesame_dot" rendition="em">なぐり</seg>込みの片棒をかつぐなんて」<lb />
+　この頃は、ガラッ八もすっかり健康を取戻しておりました。<lb />
+「シッ、黙っていろ、――これは御用聞の仁義さ。もっとも、穴の中で縛られていた手前も、あまりいい器量じゃないそ、――恥はお互いだ――それより今日は永井鉄三郎様家督相続のお祝いに<seg type="ruby"><seg type="rb">招</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>ばれているんだぜ、<seg type="ruby"><seg type="rb">髭</seg><seg type="rp">（</seg><seg type="rt">ひげ</seg><seg type="rp">）</seg></seg>でも<seg type="ruby"><seg type="rb">剃</seg><seg type="rp">（</seg><seg type="rt">あた</seg><seg type="rp">）</seg></seg>って来い」<lb />
+　平次はもう何もかも忘れてしまった<seg type="ruby"><seg type="rb">長閑</seg><seg type="rp">（</seg><seg type="rt">のどか</seg><seg type="rp">）</seg></seg>な顔でした。<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

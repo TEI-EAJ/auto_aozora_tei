@@ -31,10 +31,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 はながさいてゐる<lb />
 目をつむつてぼくは見てゐる<lb />
-はなびらは<span type="ruby"><span type="rb">色</span><span type="rp">（</span><span type="rt">いろ</span><span type="rp">）</span></span>をうしなひ<lb />
+はなびらは<seg type="ruby"><seg type="rb">色</seg><seg type="rp">（</seg><seg type="rt">いろ</seg><seg type="rp">）</seg></seg>をうしなひ<lb />
 あを白くうなだれて……<lb />
 はななれば　はなのやうに<lb />
 なぜ笑はないのだらう<lb />
@@ -47,6 +47,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

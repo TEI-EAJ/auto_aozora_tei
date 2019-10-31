@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2006-07-26">作成</resp><resp /><note>
 <lb />
-底本：「【新】校本宮澤賢治全集　第六巻　詩5<span rend="notes">［＃「5」はローマ数字、1-13-25］</span>　本文篇」筑摩書房
+底本：「【新】校本宮澤賢治全集　第六巻　詩5<seg rend="notes" rendition="span">［＃「5」はローマ数字、1-13-25］</seg>　本文篇」筑摩書房
 <lb />
 　　　1996（平成8）年5月30日初版第1刷発行<lb />
 入力：田中敬三<lb />
@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -53,6 +53,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

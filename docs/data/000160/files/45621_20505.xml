@@ -19,7 +19,7 @@
 ※底本の本文で、全角文字による横組みとなっている数字と数式は、ラテン文字の処理ルールに準じて半角で入力しました。ただし記号は全角を使用し、記号と和文の接するところは、半角開けませんでした。<lb />
 ※図中の計算式は、底本では横組みです。計算式の「□」付きの文字は、「□」なしで入力しました。<lb />
 ※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
-※初出では「彼奴等」に「<span type="ruby"><span type="rb">彼奴等</span><span type="rp">（</span><span type="rt">あいつら</span><span type="rp">）</span></span>」、「彼奴ら」に「<span type="ruby"><span type="rb">彼奴</span><span type="rp">（</span><span type="rt">きやつ</span><span type="rp">）</span></span>ら」とルビがふられています。<lb />
+※初出では「彼奴等」に「<seg type="ruby"><seg type="rb">彼奴等</seg><seg type="rp">（</seg><seg type="rt">あいつら</seg><seg type="rp">）</seg></seg>」、「彼奴ら」に「<seg type="ruby"><seg type="rb">彼奴</seg><seg type="rp">（</seg><seg type="rt">きやつ</seg><seg type="rp">）</seg></seg>ら」とルビがふられています。<lb />
 入力：田中哲郎<lb />
 校正：土屋隆<lb />
 <date when="2005-11-21">2005年11月21日</date>作成<lb />
@@ -40,42 +40,42 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 　　　帆村探偵現る<lb />
 <lb />
 <lb />
-　ちかごろ例の青年探偵<span type="ruby"><span type="rb">帆村荘六</span><span type="rp">（</span><span type="rt">ほむらそうろく</span><span type="rp">）</span></span>の活躍をあまり耳にしないので、先生一体どうしたのかと不審に思っていたところ、某方面からの依頼で、面倒な事件に忙しい身の上だったと知れた。最近にいたって、彼はずっと自分の事務所にいるようである。某方面の仕事も一段落ついたので、それで休養かたがた当分某方面の仕事を休ませてもらうことに話がついたといっていた。<lb />
+　ちかごろ例の青年探偵<seg type="ruby"><seg type="rb">帆村荘六</seg><seg type="rp">（</seg><seg type="rt">ほむらそうろく</seg><seg type="rp">）</seg></seg>の活躍をあまり耳にしないので、先生一体どうしたのかと不審に思っていたところ、某方面からの依頼で、面倒な事件に忙しい身の上だったと知れた。最近にいたって、彼はずっと自分の事務所にいるようである。某方面の仕事も一段落ついたので、それで休養かたがた当分某方面の仕事を休ませてもらうことに話がついたといっていた。<lb />
 　僕は、実はきのう、久しぶりで或るところで帆村荘六に会った。<lb />
-　彼は例の長身を地味な背広に包んで、なんだか急に<span type="ruby"><span type="rb">年齢</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>がふけたように見えた。顔色もたいへん黒く焦げて、例の胃弱らしい青さがどこかへ行ってしまった。色眼鏡を捨てて縁の太い眼鏡にかえ、どこから見てもじじむさくなった。そのことを僕が<span type="ruby"><span type="rb">揶揄</span><span type="rp">（</span><span type="rt">からか</span><span type="rp">）</span></span>うと、彼は例の大きな口をぎゅっと曲げてにやりと笑い、<lb />
+　彼は例の長身を地味な背広に包んで、なんだか急に<seg type="ruby"><seg type="rb">年齢</seg><seg type="rp">（</seg><seg type="rt">とし</seg><seg type="rp">）</seg></seg>がふけたように見えた。顔色もたいへん黒く焦げて、例の胃弱らしい青さがどこかへ行ってしまった。色眼鏡を捨てて縁の太い眼鏡にかえ、どこから見てもじじむさくなった。そのことを僕が<seg type="ruby"><seg type="rb">揶揄</seg><seg type="rp">（</seg><seg type="rt">からか</seg><seg type="rp">）</seg></seg>うと、彼は例の大きな口をぎゅっと曲げてにやりと笑い、<lb />
 「ふふふふ、ちかごろはこれでなくちゃいけないんだ。街へ出ても田舎へ行っても、どこにでも行きあうようなオッサンに見えなくちゃ、御用がつとまらないんだよ。そういう連中の中に交って、こっちの身分をさとられずに眼を光らせていなくちゃならないんだからね。昔のように自分の趣味から割りだしたおしゃれの服装をしていたんじゃ、魚がみな逃げてしまう」<lb />
 　と、俗っぽい服装の弁を一くさりやった。<lb />
-　そこで僕は、彼がちかごろ取扱った探偵事件のなかで、特に面白いやつを話して聞かせろとねだったのであるが、帆村はあっさり僕の要求を<span type="ruby"><span type="rb">一蹴</span><span type="rp">（</span><span type="rt">いっしゅう</span><span type="rp">）</span></span>した。<lb />
-「諜報事件に面白いのがあるがね、しかし僕がどんな風にしてそれを<span type="ruby"><span type="rb">曝</span><span type="rp">（</span><span type="rt">あば</span><span type="rp">）</span></span>いたかなんてことを公表しようものなら、これから捕えようとしている大切な魚がみな逃げてしまうよ」<lb />
+　そこで僕は、彼がちかごろ取扱った探偵事件のなかで、特に面白いやつを話して聞かせろとねだったのであるが、帆村はあっさり僕の要求を<seg type="ruby"><seg type="rb">一蹴</seg><seg type="rp">（</seg><seg type="rt">いっしゅう</seg><seg type="rp">）</seg></seg>した。<lb />
+「諜報事件に面白いのがあるがね、しかし僕がどんな風にしてそれを<seg type="ruby"><seg type="rb">曝</seg><seg type="rp">（</seg><seg type="rt">あば</seg><seg type="rp">）</seg></seg>いたかなんてことを公表しようものなら、これから捕えようとしている大切な魚がみな逃げてしまうよ」<lb />
 　と、彼は同じことをくりかえし云った。<lb />
 　そのような事件におどる魚は、そんなにはしっこいものであるのか。そういう問にたいして帆村荘六は、<lb />
-「そういう事件に登場する相手は非常に智的な人物ばかりなんだ。だから<span type="ruby"><span type="rb">若</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>しちょっとこっちが油断をしていれば、たちまち逆に利用されてしまう。全く油断も隙もならないとはこのことだ。そして相手はみんな生命がけなんだから、あぶないったらないよ。しかも相手の人数は多いし、組織はすばらしくりっぱで、あらゆる力を持っている。そういう相手に対し、われわれ少人数でぶつかって行くんだから、本当に骨が折れる」<lb />
-「なんかその辺で、<span type="ruby"><span type="rb">差支</span><span type="rp">（</span><span type="rt">さしつか</span><span type="rp">）</span></span>えない話でも出てきそうなものじゃないか」<lb />
-　と僕がすかさず水を向けると、彼は新しい<span type="ruby"><span type="rb">莨</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>に火をつけながら、<lb />
-「うん、一つだけ話をきかせようかな。これは八、九年前に僕自身が自演した失敗談だ。例の<span type="ruby"><span type="rb">手剛</span><span type="rp">（</span><span type="rt">てごわ</span><span type="rp">）</span></span>い相手どもが如何に物を考えてやっているかという一つの材料になると思うよ。しかも僕としては、いまだかつて、これほど頭をひねった事件はなかったのだ。脳細胞がばらばらに分解しやしないかと思ったほど、いやもう頭をつかった。――しかも後でふりかえってみると、実に腹が立って腹が立ってたまらないくらい、僕ひとりで<span type="ruby"><span type="rb">独楽</span><span type="rp">（</span><span type="rt">こま</span><span type="rp">）</span></span>のようにくるくる廻っていたという<span type="ruby"><span type="rb">莫迦莫迦</span><span type="rp">（</span><span type="rt">ばかばか</span><span type="rp">）</span></span>しい精力浪費事件なのさ」<lb />
-　帆村はそういって、心外でたまらぬという風に大きな<span type="ruby"><span type="rb">脣</span><span type="rp">（</span><span type="rt">くちびる</span><span type="rp">）</span></span>をぐっと曲げた。<lb />
+「そういう事件に登場する相手は非常に智的な人物ばかりなんだ。だから<seg type="ruby"><seg type="rb">若</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>しちょっとこっちが油断をしていれば、たちまち逆に利用されてしまう。全く油断も隙もならないとはこのことだ。そして相手はみんな生命がけなんだから、あぶないったらないよ。しかも相手の人数は多いし、組織はすばらしくりっぱで、あらゆる力を持っている。そういう相手に対し、われわれ少人数でぶつかって行くんだから、本当に骨が折れる」<lb />
+「なんかその辺で、<seg type="ruby"><seg type="rb">差支</seg><seg type="rp">（</seg><seg type="rt">さしつか</seg><seg type="rp">）</seg></seg>えない話でも出てきそうなものじゃないか」<lb />
+　と僕がすかさず水を向けると、彼は新しい<seg type="ruby"><seg type="rb">莨</seg><seg type="rp">（</seg><seg type="rt">たばこ</seg><seg type="rp">）</seg></seg>に火をつけながら、<lb />
+「うん、一つだけ話をきかせようかな。これは八、九年前に僕自身が自演した失敗談だ。例の<seg type="ruby"><seg type="rb">手剛</seg><seg type="rp">（</seg><seg type="rt">てごわ</seg><seg type="rp">）</seg></seg>い相手どもが如何に物を考えてやっているかという一つの材料になると思うよ。しかも僕としては、いまだかつて、これほど頭をひねった事件はなかったのだ。脳細胞がばらばらに分解しやしないかと思ったほど、いやもう頭をつかった。――しかも後でふりかえってみると、実に腹が立って腹が立ってたまらないくらい、僕ひとりで<seg type="ruby"><seg type="rb">独楽</seg><seg type="rp">（</seg><seg type="rt">こま</seg><seg type="rp">）</seg></seg>のようにくるくる廻っていたという<seg type="ruby"><seg type="rb">莫迦莫迦</seg><seg type="rp">（</seg><seg type="rt">ばかばか</seg><seg type="rp">）</seg></seg>しい精力浪費事件なのさ」<lb />
+　帆村はそういって、心外でたまらぬという風に大きな<seg type="ruby"><seg type="rb">脣</seg><seg type="rp">（</seg><seg type="rt">くちびる</seg><seg type="rp">）</seg></seg>をぐっと曲げた。<lb />
 　ぜひ聞かせてもらいたいというと、彼は、<lb />
 「うん、話をするが、この事件は結局いくら莫迦莫迦しくったって、さっきもいうとおり僕が取扱った事件の中で一番骨身をけずって苦しんだ事件なんだから、そこに深甚なる同情を持って君もゆっくり考えながら終りまで黙って聞いてくれなくちゃ困るよ」<lb />
 　と、いつになく彼は僕に聞き手としての熱意を強いるのであった。<lb />
-　もちろん僕は大いに謹聴すると誓ったが、これから思うと、その事件において帆村は、よほど、にがにがしい苦杯を<span type="ruby"><span type="rb">嘗</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>めたものらしい。<lb />
+　もちろん僕は大いに謹聴すると誓ったが、これから思うと、その事件において帆村は、よほど、にがにがしい苦杯を<seg type="ruby"><seg type="rb">嘗</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>めたものらしい。<lb />
 　以下、帆村の物語となる。<lb />
 <lb />
 <lb />
 　　　秘密の人<lb />
 <lb />
 <lb />
-　恐らく、あの頃から後の数年が、一番多種多様の諜報機関が、国内で活動した時期だと思う。国際関係のものは勿論のこと、営利専門のものもあるし、情報通信のもの、経済関係のものなどと、ずいぶんいろいろの<span type="ruby"><span type="rb">諜者</span><span type="rp">（</span><span type="rt">ちょうじゃ</span><span type="rp">）</span></span>が活躍をしていた。時には<span type="ruby"><span type="rb">同士討</span><span type="rp">（</span><span type="rt">どうしうち</span><span type="rp">）</span></span>もあって面白いこともあった。<lb />
+　恐らく、あの頃から後の数年が、一番多種多様の諜報機関が、国内で活動した時期だと思う。国際関係のものは勿論のこと、営利専門のものもあるし、情報通信のもの、経済関係のものなどと、ずいぶんいろいろの<seg type="ruby"><seg type="rb">諜者</seg><seg type="rp">（</seg><seg type="rt">ちょうじゃ</seg><seg type="rp">）</seg></seg>が活躍をしていた。時には<seg type="ruby"><seg type="rb">同士討</seg><seg type="rp">（</seg><seg type="rt">どうしうち</seg><seg type="rp">）</seg></seg>もあって面白いこともあった。<lb />
 　およそ相手方の諜者にやらせてならぬことは、こっちの秘密を知られることと、これを相手方の本部へ通達されることの二つである。なかでも後者に属する通信であるが、これに対しては、水も洩らさぬ警戒をしなければならなかった。<lb />
-　あらゆる秘密通信機関を探しだして、これを諜報者の手から取上げることも、<span type="ruby"><span type="rb">焦眉</span><span type="rp">（</span><span type="rt">しょうび</span><span type="rp">）</span></span>の急を要することだった。幸いわが国の通信事業は官庁の独占または監督下にあったため、比較的取締に都合がよかったし、また秘密通信機がコツコツとモールス符号を送りだしてもすぐそれを探しあてるほどの監督技術をもっていたから、これも都合がよかった。その当時、そういう秘密通信機関で摘発され、或いは発見されたものの数はすこぶる多い。<lb />
-　帆村荘六が事務所に備えつけていた最新式の短波通信機も当局の臨検にあい、もちろんのこと押収の議題にのぼったけれど、当時彼は既にもう某方面の仕事を命ぜられていたので、その方に必要なる道具であるとして幸いにも押収を免れた。そのとき帆村は、この短波通信機が<span type="ruby"><span type="rb">此処</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>へ来てそれほど貴重なものとなったとは認識していなかったけれど、後から聞いた話によると、民間機でその当時押収を喰わなかったものとては、帆村機の外に殆んどなかったとのことである。当時帆村はそういう事態を、それほどまで深刻に認識していなかったのだ。もちろん誰かからそういう説明を聞けばよく分って警戒もしたであろうが、事実説明はなかったとのことである。<lb />
-　さて或る日、帆村の事務所へ電話がかかってきた。<span type="ruby"><span type="rb">大辻</span><span type="rp">（</span><span type="rt">おおつじ</span><span type="rp">）</span></span>という助手が出て、相手の名前を訊ねたところ、貴方は帆村氏かという。大辻助手が、私は主人の帆村ではないと応えると、相手は帆村氏を電話口へ出してくれといって、なかなか身柄を明かさない。そこで大辻はその由を帆村に伝えたが、まあこんな風な電話のかかって来方は事件依頼主が身柄を秘したいときによくやる手で、それほど大したことではなかった。<lb />
+　あらゆる秘密通信機関を探しだして、これを諜報者の手から取上げることも、<seg type="ruby"><seg type="rb">焦眉</seg><seg type="rp">（</seg><seg type="rt">しょうび</seg><seg type="rp">）</seg></seg>の急を要することだった。幸いわが国の通信事業は官庁の独占または監督下にあったため、比較的取締に都合がよかったし、また秘密通信機がコツコツとモールス符号を送りだしてもすぐそれを探しあてるほどの監督技術をもっていたから、これも都合がよかった。その当時、そういう秘密通信機関で摘発され、或いは発見されたものの数はすこぶる多い。<lb />
+　帆村荘六が事務所に備えつけていた最新式の短波通信機も当局の臨検にあい、もちろんのこと押収の議題にのぼったけれど、当時彼は既にもう某方面の仕事を命ぜられていたので、その方に必要なる道具であるとして幸いにも押収を免れた。そのとき帆村は、この短波通信機が<seg type="ruby"><seg type="rb">此処</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>へ来てそれほど貴重なものとなったとは認識していなかったけれど、後から聞いた話によると、民間機でその当時押収を喰わなかったものとては、帆村機の外に殆んどなかったとのことである。当時帆村はそういう事態を、それほどまで深刻に認識していなかったのだ。もちろん誰かからそういう説明を聞けばよく分って警戒もしたであろうが、事実説明はなかったとのことである。<lb />
+　さて或る日、帆村の事務所へ電話がかかってきた。<seg type="ruby"><seg type="rb">大辻</seg><seg type="rp">（</seg><seg type="rt">おおつじ</seg><seg type="rp">）</seg></seg>という助手が出て、相手の名前を訊ねたところ、貴方は帆村氏かという。大辻助手が、私は主人の帆村ではないと応えると、相手は帆村氏を電話口へ出してくれといって、なかなか身柄を明かさない。そこで大辻はその由を帆村に伝えたが、まあこんな風な電話のかかって来方は事件依頼主が身柄を秘したいときによくやる手で、それほど大したことではなかった。<lb />
 　入れかわって帆村が電話口に出てみると、相手はまた入念に帆村であることを確かめた上で、<lb />
 「――実は、こっちは内務省なんですが、秘密に貴下の御力を借りたいのです」<lb />
 　と、始めて身柄を明かした。<lb />
@@ -86,7 +86,7 @@
 「ではいつそちらへ伺いましょうか」<lb />
 　と帆村が訊ねると、<lb />
 「なるべく早いことを希望します。しかしこっちへお出でになると、いろいろな人物も出入していることだしするから、目に立っていけません。だから外でお目に懸りましょう。それには、こうしてください」<lb />
-　といって、木村氏と名乗るその役人は、帆村に対し、今から三十分後、<span type="ruby"><span type="rb">日比谷</span><span type="rp">（</span><span type="rt">ひびや</span><span type="rp">）</span></span>公園内のどこそこに立っていてくれ、すると自分はこれこれの番号のついた自動車に乗ってそこを通るから、そこで車に一緒にのってくれるように、あとはこっちは委せてくれということだった。帆村は承知の旨を応えて、電話を切った。<lb />
+　といって、木村氏と名乗るその役人は、帆村に対し、今から三十分後、<seg type="ruby"><seg type="rb">日比谷</seg><seg type="rp">（</seg><seg type="rt">ひびや</seg><seg type="rp">）</seg></seg>公園内のどこそこに立っていてくれ、すると自分はこれこれの番号のついた自動車に乗ってそこを通るから、そこで車に一緒にのってくれるように、あとはこっちは委せてくれということだった。帆村は承知の旨を応えて、電話を切った。<lb />
 　大辻助手には、すぐに出懸けるからと前提して、電話の内容を手短かに話をし、帆村がどこに連れてゆかれるかを確かめるため、適当に車をもって公園の中に隠れており、うまく尾行をするように、そして送りこまれたところが分れば、すぐに事務所に戻っているように、またそれから一時間経って、帆村からなんの電話も懸ってこないときは、すぐさま飛びこんでくるように申し渡して、事務所を出たのであった。というのも、官庁は別に怪しくなくても、いつ悪者どもが官庁の御用らしく見せかけて、こっちに油断をさせないでもないからのことだった。<lb />
 　帆村は十分の仕度をして、木村氏にいわれたとおり、三十分のちには日比谷公園の所定の場所に立っていた。<lb />
 　それから五分おくれて、形は大きいセダンではあるが、型は至極古めかしい自動車がとおりかかった。なるほど一目でそれと知れる官庁自動車だった。ラジエーターの上には官庁のマークの入った小旗がたてられていた。<lb />
@@ -95,18 +95,18 @@
 「木村です。さあどうぞ」<lb />
 　と、柔味のある声音で呼びかけた。<lb />
 　帆村はそのまま車内の人となった。<lb />
-　そして彼は、木村氏の案内によって<span type="ruby"><span type="rb">築地</span><span type="rp">（</span><span type="rt">つきじ</span><span type="rp">）</span></span>の某料亭の門をくぐったのであった。時刻は丁度午後三時十七分であった。<lb />
+　そして彼は、木村氏の案内によって<seg type="ruby"><seg type="rb">築地</seg><seg type="rp">（</seg><seg type="rt">つきじ</seg><seg type="rp">）</seg></seg>の某料亭の門をくぐったのであった。時刻は丁度午後三時十七分であった。<lb />
 <lb />
 <lb />
 　　　暗号の鍵<lb />
 <lb />
 <lb />
-「やあ、どうもたいへん失礼なところへ御案内いたしまして――。でもこうでもしないと、私どもの官庁の重大事件を<span type="ruby"><span type="rb">貴下</span><span type="rp">（</span><span type="rt">あなた</span><span type="rp">）</span></span>にお願いしたことがどこへもすぐ知れ亙ってしまいますので」<lb />
+「やあ、どうもたいへん失礼なところへ御案内いたしまして――。でもこうでもしないと、私どもの官庁の重大事件を<seg type="ruby"><seg type="rb">貴下</seg><seg type="rp">（</seg><seg type="rt">あなた</seg><seg type="rp">）</seg></seg>にお願いしたことがどこへもすぐ知れ亙ってしまいますので」<lb />
 　と、情報部事務官木村清次郎氏は、初対面の挨拶のあとで、すぐと用談にとりかかった。<lb />
-「――これは、政府の一大事に関する緊急な調査事件なんですが、もちろん絶対秘密を守っていただかねばなりません。御存知かもしれませんが、実は今有力なる反政府団体があって、大活躍を始めています。この秘密団体の本部は<span type="ruby"><span type="rb">上海</span><span type="rp">（</span><span type="rt">シャンハイ</span><span type="rp">）</span></span>あたりにあると見え、その本部から毎日のごとく情報や指令が来ますが、その通信は秘密方式の無線電信であって、もちろん暗号を使っています。ですから普通の、受信機で受けようとしても、秘密方式だから、普通の受信機では入らない。その上、符号は暗号だから、たとえコピーが見つかってもその内容が解けない。こういう風に二重の秘密<span type="ruby"><span type="rb">防禦</span><span type="rp">（</span><span type="rt">ぼうぎょ</span><span type="rp">）</span></span>を試みています。お解りですかな」<lb />
-　帆村は黙って<span type="ruby"><span type="rb">肯</span><span type="rp">（</span><span type="rt">うなず</span><span type="rp">）</span></span>いた。そんなことは先刻承知している。<lb />
+「――これは、政府の一大事に関する緊急な調査事件なんですが、もちろん絶対秘密を守っていただかねばなりません。御存知かもしれませんが、実は今有力なる反政府団体があって、大活躍を始めています。この秘密団体の本部は<seg type="ruby"><seg type="rb">上海</seg><seg type="rp">（</seg><seg type="rt">シャンハイ</seg><seg type="rp">）</seg></seg>あたりにあると見え、その本部から毎日のごとく情報や指令が来ますが、その通信は秘密方式の無線電信であって、もちろん暗号を使っています。ですから普通の、受信機で受けようとしても、秘密方式だから、普通の受信機では入らない。その上、符号は暗号だから、たとえコピーが見つかってもその内容が解けない。こういう風に二重の秘密<seg type="ruby"><seg type="rb">防禦</seg><seg type="rp">（</seg><seg type="rt">ぼうぎょ</seg><seg type="rp">）</seg></seg>を試みています。お解りですかな」<lb />
+　帆村は黙って<seg type="ruby"><seg type="rb">肯</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>いた。そんなことは先刻承知している。<lb />
 　木村事務官は語をついで、<lb />
-「これは秘密ですから、どうかお間違いのないように。ところで問題は、その暗号解読の鍵なんです。それがどうも分らない」首をひねり、「送ってくる暗号文は六<span type="ruby"><span type="rb">桁</span><span type="rp">（</span><span type="rt">けた</span><span type="rp">）</span></span>の数字式です。つまり、123456 といったような六桁の数字が、ＡとかＢとかいう文字を示しているのです。ところがその六桁の数字は、そのままではいくら解いてみても分らない。つまりその暗号法では<span type="ruby"><span type="rb">鍵</span><span type="rp">（</span><span type="rt">キイ</span><span type="rp">）</span></span>となる別の六桁の数字があって、それを加えあわせてある。たとえばその鍵の数字が 330022 だったとすると、暗号文のどの数字にもこれが加えてある。だからＡが 123456 であらわされるにしても、123456 として送っては来ないで、鍵の数字 330022 を加えた結果、すなわち 453478 として送ってくる。だからこの 453478 のままでは、途中で誰かが読んでもまるで本当の暗号 123456 を想起することができない。このように暗号には、鍵の数字というやつが大切なのですが――いや、お<span type="ruby"><span type="rb">釈迦</span><span type="rp">（</span><span type="rt">しゃか</span><span type="rp">）</span></span>さまに説法のようで恐縮ですが――これがまた厄介なことに、一ヶ月ごとにひょいひょいと変る。今月 330022 だったとすると、来月の一日からは 787878 という風にがらりと変ってしまう。こうなると解読係はまったく泣かされてしまいます」<lb />
+「これは秘密ですから、どうかお間違いのないように。ところで問題は、その暗号解読の鍵なんです。それがどうも分らない」首をひねり、「送ってくる暗号文は六<seg type="ruby"><seg type="rb">桁</seg><seg type="rp">（</seg><seg type="rt">けた</seg><seg type="rp">）</seg></seg>の数字式です。つまり、123456 といったような六桁の数字が、ＡとかＢとかいう文字を示しているのです。ところがその六桁の数字は、そのままではいくら解いてみても分らない。つまりその暗号法では<seg type="ruby"><seg type="rb">鍵</seg><seg type="rp">（</seg><seg type="rt">キイ</seg><seg type="rp">）</seg></seg>となる別の六桁の数字があって、それを加えあわせてある。たとえばその鍵の数字が 330022 だったとすると、暗号文のどの数字にもこれが加えてある。だからＡが 123456 であらわされるにしても、123456 として送っては来ないで、鍵の数字 330022 を加えた結果、すなわち 453478 として送ってくる。だからこの 453478 のままでは、途中で誰かが読んでもまるで本当の暗号 123456 を想起することができない。このように暗号には、鍵の数字というやつが大切なのですが――いや、お<seg type="ruby"><seg type="rb">釈迦</seg><seg type="rp">（</seg><seg type="rt">しゃか</seg><seg type="rp">）</seg></seg>さまに説法のようで恐縮ですが――これがまた厄介なことに、一ヶ月ごとにひょいひょいと変る。今月 330022 だったとすると、来月の一日からは 787878 という風にがらりと変ってしまう。こうなると解読係はまったく泣かされてしまいます」<lb />
 　といって木村氏は、茶をのんだ。<lb />
 　料亭の人は二人の前に茶菓をおいたまま行ってしまった。こっちで呼ぶまで決して来ない、いいつけであった。<lb />
 「解読係も腕達者を揃えてありますが、六桁の暗号数字から、鍵の数字を見つけるのになかなか骨が折れます。苦心の末やっと見つけたと思うと、もう月末になっていて、すぐ次の月が来る。そうなると、また新しい鍵の数字が入ってくるから、さあ一日以後は、向うの暗号が全く解けない。改めて鍵の数字の勉強をやりなおすというわけです。私としても、解読係員の苦労は常に心臓の上の重荷です」<lb />
@@ -117,14 +117,14 @@
 「ねえ、そうでしょう。この暗号の鍵数字は、いつどんな風にして送ってくるのであろうかということにつきまして、もう長い間調べていましたが、極く最近になって、それがやっと分りかけたのです」<lb />
 「ほほう、それは愉快ですね」<lb />
 　と帆村もようやく膝をのりだした。<lb />
-「全く涙の<span type="ruby"><span type="rb">滾</span><span type="rp">（</span><span type="rt">こぼ</span><span type="rp">）</span></span>れるほど嬉しいことです。私たちは、その暗号の<span type="ruby"><span type="rb">鍵</span><span type="rp">（</span><span type="rt">キイ</span><span type="rp">）</span></span>が、やはり無電にのってくるのかと思ったのですが、そうではない。秘密結社の本部では飽くまでも用意周到を極めています」<lb />
+「全く涙の<seg type="ruby"><seg type="rb">滾</seg><seg type="rp">（</seg><seg type="rt">こぼ</seg><seg type="rp">）</seg></seg>れるほど嬉しいことです。私たちは、その暗号の<seg type="ruby"><seg type="rb">鍵</seg><seg type="rp">（</seg><seg type="rt">キイ</seg><seg type="rp">）</seg></seg>が、やはり無電にのってくるのかと思ったのですが、そうではない。秘密結社の本部では飽くまでも用意周到を極めています」<lb />
 「ははあ」<lb />
 「鍵の数字は、どうしてこっちの支社へ知らせてくるんだと思われますか」<lb />
 「さあ――」<lb />
 「実をいうと私たちにも、まだよく分っていない」<lb />
 「それではどうも――」<lb />
 「いや、しかし貴重な手懸りだけはやっと掴んだのです。見て下さい。これです」<lb />
-　そういって木村氏が帆村の眼の前に持ち出したのは、黒い<span type="ruby"><span type="rb">折鞄</span><span type="rp">（</span><span type="rt">おりかばん</span><span type="rp">）</span></span>であった。<lb />
+　そういって木村氏が帆村の眼の前に持ち出したのは、黒い<seg type="ruby"><seg type="rb">折鞄</seg><seg type="rp">（</seg><seg type="rt">おりかばん</seg><seg type="rp">）</seg></seg>であった。<lb />
 　折鞄のなかから現われたのは、一体なんであったろうか。それは四六倍判ぐらいの板であって、その上に大きな金色のペン先がとりつけてある。察するところペン先の広告看板なのであった。英国の或る有名なペン先製造会社の名が入っていた。そしてこの看板をぶらさげられるように、金具がうってあった。<lb />
 「これは面白いものですね。しかしどうしてこれが暗号の鍵の数字に関係あるのか分りませんが」<lb />
 　と、帆村は首をふった。<lb />
@@ -132,44 +132,44 @@
 　といって、木村氏は鞄の中から懐中電灯のような細長いものを出して、ペン先の看板の裏へかざした。<lb />
 「さあ、いま私がこの紫外線灯のスイッチを押して、この裏板へ紫外線をあててみます。すると一見この何にも書いてないような板の上に実に興味あるものが現われますから」<lb />
 　木村氏が手にしていた細長い懐中電灯様のものは、紫外線灯だったのだ。帆村が感心しているとき、スイッチが入ったものと見えて、裏板がぱっと青く光った。見れば、それは文字の形になっているではないか――。<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
-“<span change="gaiji" facs="../../../gaiji/1-13/1-13-01.png" rend="gaiji" rendition="img" source="※(丸1、1-13-1)" />x＝□□□□□□＝74□×？”<lb />
-“<span change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />ハ東京市銀座四丁目帝都百貨店洋酒部ノ「スコッチ・ウィスキー」ノ広告裏面。赤キ上衣ヲ着タル人物ノ鼻ノ頭に星印アリ”<lb />
-</span>
-　と、<span type="ruby"><span type="rb">愕</span><span type="rp">（</span><span type="rt">おどろ</span><span type="rp">）</span></span>くべきことが書いてあった。<lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
+“<seg change="gaiji" facs="../../../gaiji/1-13/1-13-01.png" rend="gaiji" rendition="img" source="※(丸1、1-13-1)" />x＝□□□□□□＝74□×？”<lb />
+“<seg change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />ハ東京市銀座四丁目帝都百貨店洋酒部ノ「スコッチ・ウィスキー」ノ広告裏面。赤キ上衣ヲ着タル人物ノ鼻ノ頭に星印アリ”<lb />
+</seg>
+　と、<seg type="ruby"><seg type="rb">愕</seg><seg type="rp">（</seg><seg type="rt">おどろ</seg><seg type="rp">）</seg></seg>くべきことが書いてあった。<lb />
 <lb />
 <lb />
 　　　車馬賃一万円也<lb />
 <lb />
 <lb />
 　帆村荘六は、木村事務官と別れて、いよいよ活動に入った。<lb />
-　ペン先の看板の裏に書かれた x＝□□□□□□の□□□□□□こそ、探す暗号の鍵の数字であった。しかしいかなる数字であるか、はっきり記さず 74□×？　と妙な書き方をして逃げてある。そしてこれを<span change="gaiji" facs="../../../gaiji/1-13/1-13-01.png" rend="gaiji" rendition="img" source="※(丸1、1-13-1)" />として、あとは<span change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />を探せというような書きっぷりであった。実に不思議なペン先の看板だ。<lb />
+　ペン先の看板の裏に書かれた x＝□□□□□□の□□□□□□こそ、探す暗号の鍵の数字であった。しかしいかなる数字であるか、はっきり記さず 74□×？　と妙な書き方をして逃げてある。そしてこれを<seg change="gaiji" facs="../../../gaiji/1-13/1-13-01.png" rend="gaiji" rendition="img" source="※(丸1、1-13-1)" />として、あとは<seg change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />を探せというような書きっぷりであった。実に不思議なペン先の看板だ。<lb />
 　どうして木村事務官がこれを手に入れたかについて帆村は質問の矢を放ったが、事務官はその説明を拒絶した。そしてこんなことを云った。<lb />
-「それを説明すると、私どもの役所が使っている重要な情報網の秘密を洩らすことになりますから勘弁してください。しかしこれは十分<span type="ruby"><span type="rb">信憑</span><span type="rp">（</span><span type="rt">しんぴょう</span><span type="rp">）</span></span>すべきものであることを断言します。この□□□□□□は、来月の暗号の鍵数字であること疑いないのですが、肝腎の数字が入っていません。これは次の<span change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />という場所、つまり銀座の帝都百貨店洋酒部にあるスコッチ・ウィスキーの広告をさがして、その裏を見て考えるよりほかないのですが、この仕事を貴下にお願いしたいのです。私どもがやってもやれなくないかもしれませんが、たびたび申すとおりに、それではすぐ彼等の方に分ってしまいます。そこは貴下を<span type="ruby"><span type="rb">煩</span><span type="rp">（</span><span type="rt">わずら</span><span type="rp">）</span></span>わした方が、巧みにカムフラージュにもなるし、またお手際も私どもより遥かに<span type="ruby"><span type="rb">美事</span><span type="rp">（</span><span type="rt">みごと</span><span type="rp">）</span></span>であろうと思うのです。どうか一つそのような事情をば御考慮の上、直ちに活動をはじめていただきたい。しかも絶対秘密です。それからもう一つ、お気の毒ですが、今日は二十六日で、あと五日で来月となります。ですからこの調査は、即時とりかかっていただきたい。そしてあらゆる手段を使って、一時間でも早く完了していただきたい。遅れてしまうと、政府にとってたいへんな損害ですから――それから云うまでもありませんが、十分身辺を警戒して下さい」<lb />
+「それを説明すると、私どもの役所が使っている重要な情報網の秘密を洩らすことになりますから勘弁してください。しかしこれは十分<seg type="ruby"><seg type="rb">信憑</seg><seg type="rp">（</seg><seg type="rt">しんぴょう</seg><seg type="rp">）</seg></seg>すべきものであることを断言します。この□□□□□□は、来月の暗号の鍵数字であること疑いないのですが、肝腎の数字が入っていません。これは次の<seg change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />という場所、つまり銀座の帝都百貨店洋酒部にあるスコッチ・ウィスキーの広告をさがして、その裏を見て考えるよりほかないのですが、この仕事を貴下にお願いしたいのです。私どもがやってもやれなくないかもしれませんが、たびたび申すとおりに、それではすぐ彼等の方に分ってしまいます。そこは貴下を<seg type="ruby"><seg type="rb">煩</seg><seg type="rp">（</seg><seg type="rt">わずら</seg><seg type="rp">）</seg></seg>わした方が、巧みにカムフラージュにもなるし、またお手際も私どもより遥かに<seg type="ruby"><seg type="rb">美事</seg><seg type="rp">（</seg><seg type="rt">みごと</seg><seg type="rp">）</seg></seg>であろうと思うのです。どうか一つそのような事情をば御考慮の上、直ちに活動をはじめていただきたい。しかも絶対秘密です。それからもう一つ、お気の毒ですが、今日は二十六日で、あと五日で来月となります。ですからこの調査は、即時とりかかっていただきたい。そしてあらゆる手段を使って、一時間でも早く完了していただきたい。遅れてしまうと、政府にとってたいへんな損害ですから――それから云うまでもありませんが、十分身辺を警戒して下さい」<lb />
 　そういって木村事務官は、車馬賃として金一万円也の紙幣束を帆村に手渡したのであった。必要あらば、金はいくらでも出すからいってくれ、秘密連絡所として市内某所を記した名刺を手渡した。そこは普通の民家を装ってあるが、長距離電話もあれば、電信略号もあり、振替番号まで詳細に記載してあった。<lb />
-　帆村荘六は、この木村事務官との会見によって、珍らしいほどの<span type="ruby"><span type="rb">大昂奮</span><span type="rp">（</span><span type="rt">だいこうふん</span><span type="rp">）</span></span>を覚えた。なかなか手剛い相手である。こっちへ送られて来た来月の暗号の鍵を、いかなる危険をおかしてもこの五日のうちに探しあてるのだ。非常にむずかしい仕事であることはよく分っている。従来の暗号でこのような数学みたいなものを出したものがあるのを聞いたことがない。骨が折れることは目に見えている。<lb />
+　帆村荘六は、この木村事務官との会見によって、珍らしいほどの<seg type="ruby"><seg type="rb">大昂奮</seg><seg type="rp">（</seg><seg type="rt">だいこうふん</seg><seg type="rp">）</seg></seg>を覚えた。なかなか手剛い相手である。こっちへ送られて来た来月の暗号の鍵を、いかなる危険をおかしてもこの五日のうちに探しあてるのだ。非常にむずかしい仕事であることはよく分っている。従来の暗号でこのような数学みたいなものを出したものがあるのを聞いたことがない。骨が折れることは目に見えている。<lb />
 「よし。どんなことをしても、この六桁の暗号の鍵を解かずには置くものか」<lb />
 　帆村は料亭を出ると、すぐさま公衆電話函に駈けこんで、大辻助手を電話口に呼びだした。こういう重大事項になると、大辻にも云い明かしかねたが、程よく大意を伝え、ここ五日ほど不在にする事務所の留守を、かねて云いつけて置いたとおりによくやるよう頼んだ。<lb />
 「先生、僕を連れていって下さらないので心配です。しかしお伴がかなわないということでは仕方がありませんが、どうかくれぐれも身辺を御用心なすって下さい」<lb />
 　と、大辻助手はしきりに帆村の身の上を案じていた。<lb />
 　それからいよいよ帆村の活動が始まったのである。全くの一本立だった。自分の頭脳と腕力とが、只一つの資本だった。<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-01.png" rend="gaiji" rendition="img" source="※(丸1、1-13-1)" />x＝□□□□□□＝74□×？<lb />
-</span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-01.png" rend="gaiji" rendition="img" source="※(丸1、1-13-1)" />x＝□□□□□□＝74□×？<lb />
+</seg>
 　さあこれをどう解いてゆくか、この奇妙な暗号の謎を。<lb />
-　とにかく次に目指すは<span change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />だ。銀座の帝都百貨店の洋酒部とある。<lb />
+　とにかく次に目指すは<seg change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />だ。銀座の帝都百貨店の洋酒部とある。<lb />
 　かれはすぐその足で、地下一階にある洋酒部の売場に近づいた。<lb />
-　ぶらりぶらりと客を装いながら洋酒売場を物色するうちに、彼は遂に、問題のスコッチ・ウィスキーの絵看板を洋酒の<span type="ruby"><span type="rb">壜</span><span type="rp">（</span><span type="rt">びん</span><span type="rp">）</span></span>の並ぶ棚に見つけた。なるほど赤い上衣をつけた西暦一千七百年時代の英人が描いてあった。近づいてみると、鼻の頭に、例の特別記号の一つ星が書きこんであった。<lb />
+　ぶらりぶらりと客を装いながら洋酒売場を物色するうちに、彼は遂に、問題のスコッチ・ウィスキーの絵看板を洋酒の<seg type="ruby"><seg type="rb">壜</seg><seg type="rp">（</seg><seg type="rt">びん</seg><seg type="rp">）</seg></seg>の並ぶ棚に見つけた。なるほど赤い上衣をつけた西暦一千七百年時代の英人が描いてあった。近づいてみると、鼻の頭に、例の特別記号の一つ星が書きこんであった。<lb />
 「なにか御用でございますか」<lb />
 　と、生意気そうな店員が、帆村の方に言葉をかけた。こんなところにお前のような貧乏人の用はないぞといわんばかりの態度であった。<lb />
-「ああその何だ。コクテールの材料をあつめたいのだ。あそこの棚をのぞいてみたいから、ちょっと<span type="ruby"><span type="rb">梯子</span><span type="rp">（</span><span type="rt">はしご</span><span type="rp">）</span></span>を貸してくれたまえ」<lb />
-　帆村は梯子をもってこさせると、つかつかとその上にあがっていった。そして高価な洋酒の壜を、あれやこれやと<span type="ruby"><span type="rb">矢鱈</span><span type="rp">（</span><span type="rt">やたら</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">選</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>りつづけるのだった。<lb />
-　店員の態度が、<span type="ruby"><span type="rb">可笑</span><span type="rp">（</span><span type="rt">おか</span><span type="rp">）</span></span>しいほどがらりと変った。そこにない洋酒をいうと、倉庫にあるから只今持ってまいりますと、奥の方へすっとんでいった。それが帆村の<span type="ruby"><span type="rb">覘</span><span type="rp">（</span><span type="rt">ねら</span><span type="rp">）</span></span>いどころで、彼は梯子にのぼったまま、身体の蔭になっている側のスコッチ・ウィスキーの絵広告をそっと外し、その裏面に木村事務官から渡された紫外線灯をさしつけた。<lb />
-「<span type="ruby"><span type="rb">呀</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>っ、なるほど！」<lb />
+「ああその何だ。コクテールの材料をあつめたいのだ。あそこの棚をのぞいてみたいから、ちょっと<seg type="ruby"><seg type="rb">梯子</seg><seg type="rp">（</seg><seg type="rt">はしご</seg><seg type="rp">）</seg></seg>を貸してくれたまえ」<lb />
+　帆村は梯子をもってこさせると、つかつかとその上にあがっていった。そして高価な洋酒の壜を、あれやこれやと<seg type="ruby"><seg type="rb">矢鱈</seg><seg type="rp">（</seg><seg type="rt">やたら</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">選</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>りつづけるのだった。<lb />
+　店員の態度が、<seg type="ruby"><seg type="rb">可笑</seg><seg type="rp">（</seg><seg type="rt">おか</seg><seg type="rp">）</seg></seg>しいほどがらりと変った。そこにない洋酒をいうと、倉庫にあるから只今持ってまいりますと、奥の方へすっとんでいった。それが帆村の<seg type="ruby"><seg type="rb">覘</seg><seg type="rp">（</seg><seg type="rt">ねら</seg><seg type="rp">）</seg></seg>いどころで、彼は梯子にのぼったまま、身体の蔭になっている側のスコッチ・ウィスキーの絵広告をそっと外し、その裏面に木村事務官から渡された紫外線灯をさしつけた。<lb />
+「<seg type="ruby"><seg type="rb">呀</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>っ、なるほど！」<lb />
 　帆村はかねて期したるところとはいえ、果然発展してゆく秘密数字の謎が秘密ペイントで書かれてあるのを発見して、愕きをかくし切れなかった。そこに書いてある文字は上のようなものであった。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第一図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" /><lb />
 <lb />
 　　　　　　　８<lb />
 　　　＿＿＿＿＿＿＿<lb />
@@ -177,16 +177,16 @@
 　　　　□□□２<lb />
 　　　　―――――<lb />
 <lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" />ハ東京新宿追分「ハマダ」撞球場内ノ世界撞球選手「ジョナソン氏」ノポスターノ裏。<lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" />ハ東京新宿追分「ハマダ」撞球場内ノ世界撞球選手「ジョナソン氏」ノポスターノ裏。<lb />
 カフス釦ニ星印アリ<lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 <lb />
 <lb />
 　　　未完成の割り算<lb />
 <lb />
 <lb />
-　円タクの中で、帆村はノートの中をしきりと<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>きながら、頭をひねるのであった。<lb />
-　帝都百貨店で拾い集めた<span change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />の記載によれば、問題の六桁数字は、果然不思議な割り算の形をとっている。その謎の数字を 74□で割って、その商として始めの一桁に８をたたせ、これを 74□に掛けて□□□2 なる数字を得ているのである。<lb />
+　円タクの中で、帆村はノートの中をしきりと<seg type="ruby"><seg type="rb">覗</seg><seg type="rp">（</seg><seg type="rt">のぞ</seg><seg type="rp">）</seg></seg>きながら、頭をひねるのであった。<lb />
+　帝都百貨店で拾い集めた<seg change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" />の記載によれば、問題の六桁数字は、果然不思議な割り算の形をとっている。その謎の数字を 74□で割って、その商として始めの一桁に８をたたせ、これを 74□に掛けて□□□2 なる数字を得ているのである。<lb />
 「これは実に愕くべき暗号の隠し方である」<lb />
 　と帆村は感嘆久しゅうしている。<lb />
 　一ヶ所では分らず、第二、第三と場所を追ってゆかなければ、暗号数字は解けないようになっているのだ。しかも求める数字は、被除数の形となっていて、智恵のない人間には、到底そのまま分りそうもないことになっている。これではいちいち□の中に隠されている数字を導きださねば求める謎の数字は結局出てこない仕掛けになっている。<lb />
@@ -197,9 +197,9 @@
 「なるほど、やっぱり考えてみるものだなあ。すこしずつ解けるじゃないか」<lb />
 　かれはどういう風に考えたか。<lb />
 　74□に８をかけて、その答が□□□2 となるのである。こういう風に８をかけて一の位に２が出てくる場合は、そう沢山あるわけではない。――彼はノートへ、上のような符号をつけた。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第二図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-02.png" rend="gaiji" rendition="img" source="※(丸2、1-13-2)" /><lb />
 <lb />
 　　　　　　　８←ハ<lb />
 　　　＿＿＿＿＿＿＿<lb />
@@ -208,20 +208,20 @@
 イロ　　　　　↑<lb />
 　　　　　　　ニ<lb />
 <lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　ＡＢＣなどの英字は、まだいくつとも分っていない数字である。イロハなどは、もう７とか４とか確定している数字である。<lb />
 　だからいまはＡの問題なのである。さていろいろやってみると、Ａは二つの答をとることが分った。すなわち A＝4 と A＝9 の二つの場合である。<lb />
 　A＝4 なら、744×8 となって、答は 5952 となる。また A＝9 なら 749×8 となって答えは 5992 となる。どっちも一の位は２である。これが第一の発見である。<lb />
 　それに元気づいて、なおも考えをつづけてみると、果然不可解の数字のうち二つまでが確定することが分ったので、帆村は躍りだしたいほどの悦びを感じた。<lb />
-　それはいずれの<span type="ruby"><span type="rb">桝形</span><span type="rp">（</span><span type="rt">ますがた</span><span type="rp">）</span></span>の中の数字であろうか。<lb />
+　それはいずれの<seg type="ruby"><seg type="rb">桝形</seg><seg type="rp">（</seg><seg type="rt">ますがた</seg><seg type="rp">）</seg></seg>の中の数字であろうか。<lb />
 　結論を先にいうと、H＝5、I＝9 と決定するのである。なぜならば右にのべた A＝4 の場合は 5952 であり、A＝9 の場合は 5992 であり、この二つを比べてみると、千の位と百の位はどっちも同じ 59 である。だから当然 H＝5、I＝9 でなければならぬ。<lb />
 「なるほど、これは面白い答だ」<lb />
-　と、帆村は口のうちに叫んだとき、彼ののった円タクは、新宿<span type="ruby"><span type="rb">追分</span><span type="rp">（</span><span type="rt">おいわけ</span><span type="rp">）</span></span>の舗道に向ってスピードをゆるめ、運転手はバック・ミラーの中からふりかえって、<lb />
+　と、帆村は口のうちに叫んだとき、彼ののった円タクは、新宿<seg type="ruby"><seg type="rb">追分</seg><seg type="rp">（</seg><seg type="rt">おいわけ</seg><seg type="rp">）</seg></seg>の舗道に向ってスピードをゆるめ、運転手はバック・ミラーの中からふりかえって、<lb />
 「旦那、この辺でいいですか」<lb />
 　とたずねた。<lb />
-　帆村は大切なノートをポケットに<span type="ruby"><span type="rb">収</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>って、舗道の上に降りたった。<lb />
-　さあこれからハマダ撞球場へ乗りこむことになったのだ。うまく例のポスターを探しあてられるかどうか。行手は晴か曇か、それとも<span type="ruby"><span type="rb">暴風雨</span><span type="rp">（</span><span type="rt">あらし</span><span type="rp">）</span></span>か。<lb />
-　まだ夕刻のこととて、ハマダ撞球場は学生やサラリーマンで七台ある球台が、どれもこれも一杯だった。帆村はやむなくゲーム取が持ってきたお茶を<span type="ruby"><span type="rb">啜</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>りながら、台のあくのを待つよりほかなかった――という気持で、これ幸いと、場内のあちこちにぶら下っているポスターを眺めまわした。<lb />
+　帆村は大切なノートをポケットに<seg type="ruby"><seg type="rb">収</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>って、舗道の上に降りたった。<lb />
+　さあこれからハマダ撞球場へ乗りこむことになったのだ。うまく例のポスターを探しあてられるかどうか。行手は晴か曇か、それとも<seg type="ruby"><seg type="rb">暴風雨</seg><seg type="rp">（</seg><seg type="rt">あらし</seg><seg type="rp">）</seg></seg>か。<lb />
+　まだ夕刻のこととて、ハマダ撞球場は学生やサラリーマンで七台ある球台が、どれもこれも一杯だった。帆村はやむなくゲーム取が持ってきたお茶を<seg type="ruby"><seg type="rb">啜</seg><seg type="rp">（</seg><seg type="rt">すす</seg><seg type="rp">）</seg></seg>りながら、台のあくのを待つよりほかなかった――という気持で、これ幸いと、場内のあちこちにぶら下っているポスターを眺めまわした。<lb />
 「無い！　いくら見ても無い。変だ」<lb />
 　帆村はがっかりした。あってもよいはずのジョナソン氏のポスターが見えないのである。それがないようでは、折角の探偵事件がここで挫折する。それは全く困る。彼は腕ぐみをして次なる智恵をひねくった。<lb />
 　しばらくすると、彼の口辺に急に微笑が現われた。彼は立ちあがってタオル蒸しと同居しているような恰好のマダムのところへ歩いていった。<lb />
@@ -238,12 +238,12 @@
 <lb />
 <lb />
 　帆村は、二等客車のなかに揺られながら東海道線を下りつつあった。<lb />
-　<span type="ruby"><span type="rb">辛</span><span type="rp">（</span><span type="rt">かろ</span><span type="rp">）</span></span>うじて彼は、午後六時きっかり東京駅発車の岡山行の列車にとびのることが出来た。いま列車は横浜駅のホームを離れ、次の停車駅大船までぐんぐんスピードをあげてゆきつつある。<lb />
-　客室内は、がらんとすいていた。時間が時間だから、こんな<span type="ruby"><span type="rb">鈍行</span><span type="rp">（</span><span type="rt">どんこう</span><span type="rp">）</span></span>列車の二等に乗る客は少かった。彼はポケットをさぐって、大切なノートをそっとひろげた。<lb />
-　そこにはいつの間に書いたのか、<span change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" />と符号をうった上のようなノートがとってあった。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+　<seg type="ruby"><seg type="rb">辛</seg><seg type="rp">（</seg><seg type="rt">かろ</seg><seg type="rp">）</seg></seg>うじて彼は、午後六時きっかり東京駅発車の岡山行の列車にとびのることが出来た。いま列車は横浜駅のホームを離れ、次の停車駅大船までぐんぐんスピードをあげてゆきつつある。<lb />
+　客室内は、がらんとすいていた。時間が時間だから、こんな<seg type="ruby"><seg type="rb">鈍行</seg><seg type="rp">（</seg><seg type="rt">どんこう</seg><seg type="rp">）</seg></seg>列車の二等に乗る客は少かった。彼はポケットをさぐって、大切なノートをそっとひろげた。<lb />
+　そこにはいつの間に書いたのか、<seg change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" />と符号をうった上のようなノートがとってあった。<lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第三図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" /><lb />
 <lb />
 　　　　　　　８<lb />
 　　　＿＿＿＿＿＿＿<lb />
@@ -252,14 +252,14 @@
 　　　　―――――<lb />
 　　　　　□９□□<lb />
 <lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-04.png" rend="gaiji" rendition="img" source="※(丸4、1-13-4)" />ハ沼津市駅前、菊屋食堂ノ「ロンドン」塔ノ写真ヲ焼付ケテアル鏡ノ裏面。塔ノ上ヨリ三ツ目ノ窓ニ星印アリ<lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-04.png" rend="gaiji" rendition="img" source="※(丸4、1-13-4)" />ハ沼津市駅前、菊屋食堂ノ「ロンドン」塔ノ写真ヲ焼付ケテアル鏡ノ裏面。塔ノ上ヨリ三ツ目ノ窓ニ星印アリ<lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　これは例の新宿追分ハマダ撞球場にしまってあった世界的撞球選手ジョナソンのポスターの裏に紫外線灯をさしつけて素早く読みとった文字の写しであった。これによると、割り算が三段となって、一段殖えた。<lb />
-　帆村は<span type="ruby"><span type="rb">躍起</span><span type="rp">（</span><span type="rt">やっき</span><span type="rp">）</span></span>となって、この月足らずの割り算に注意を向けた。第三段目に□9□□という四位の数字が殖えたが、これによって、謎の<span type="ruby"><span type="rb">枠</span><span type="rp">（</span><span type="rt">わく</span><span type="rp">）</span></span>の中の数字をまた新しく類推できるにちがいないと思った。<lb />
+　帆村は<seg type="ruby"><seg type="rb">躍起</seg><seg type="rp">（</seg><seg type="rt">やっき</seg><seg type="rp">）</seg></seg>となって、この月足らずの割り算に注意を向けた。第三段目に□9□□という四位の数字が殖えたが、これによって、謎の<seg type="ruby"><seg type="rb">枠</seg><seg type="rp">（</seg><seg type="rt">わく</seg><seg type="rp">）</seg></seg>の中の数字をまた新しく類推できるにちがいないと思った。<lb />
 　彼はノートを書きなおした。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第四図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-03.png" rend="gaiji" rendition="img" source="※(丸3、1-13-3)" /><lb />
 <lb />
 　　　　　　　８←ハ<lb />
 　　　＿＿＿＿＿＿＿<lb />
@@ -270,19 +270,19 @@
 　　　　　　↑<lb />
 　　　　　　ホ<lb />
 <lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　これについてまず分るのはＤはＪよりも小さいということだ。なぜなら、前にわかったようにＪは５か９かであるがその下のホに９という数字が出ているから、ここへ９が出るためには、どうしても上のＤの方が下のＪより小さくなくては、そういうことにならぬ。<lb />
 　するとＤは、一桁上のＣから１を下げてもらってＪを引くことになる。<lb />
 　すると今度はＣが零であり得ないことになる。もしＣが零なら、Ｄへ１を送って９が残るが、その下のＩは９であるから、9−9＝0 となってＫが零にならねばならぬ。しかるにＫは零ではないから枠が書いてある。Ｃは零であり得ないことがこれで分る。<lb />
-　そうなると B＝6 と確定する。なぜならば、Ｂの下のＨは５で、更にその下には数字がない。<span type="ruby"><span type="rb">而</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>もＣは零でなく、たとえ９であってもＤへ１を取られて８を残すから、Ｉすなわち９が引けるためにはＢは６の外に取るべき数字がないのである。<lb />
+　そうなると B＝6 と確定する。なぜならば、Ｂの下のＨは５で、更にその下には数字がない。<seg type="ruby"><seg type="rb">而</seg><seg type="rp">（</seg><seg type="rt">しか</seg><seg type="rp">）</seg></seg>もＣは零でなく、たとえ９であってもＤへ１を取られて８を残すから、Ｉすなわち９が引けるためにはＢは６の外に取るべき数字がないのである。<lb />
 　またもうすこし深くＤを研究すると、除数が 744 のときには D＝4、また 749 のときには D＝8 となる。<lb />
 　もっともＥが２より小さい１か零であるともう一つ上の数字になるが、それはまず少い場合といわなければならない――。<lb />
 　そのほかのことは、まだどうにもはっきりさせようがなかった。帆村はノートを閉じて、車窓の向うにぐんぐん流れゆく田園風景に目をやった。畑はどこも青々としていて、平和そのもののように見えるのを感心しているうちに睡くなって寝込んでしまった。<lb />
 　どの位睡ったかしらぬ。列車ががたんと揺れたので眼を覚ました。ちょうど今列車は電灯があかあかとついた駅の構内にスピードをゆるめて入っていった。駅名を見ると、沼津だ。正に午後八時五十五分のことであった。<lb />
 　彼は列車を捨てて駅の外に出た。<lb />
-　腹はおそろしく<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>いていた。考えがあって、車内で喰べることを<span type="ruby"><span type="rb">控</span><span type="rp">（</span><span type="rt">ひか</span><span type="rp">）</span></span>えていたのだ。考えとは外でもない。宝探しみたいな例の暗号手引によって、駅前の菊屋食堂に入って調べなければならぬとすると、ここは我慢して空きっ腹にして置く方が便利であったのだ。<lb />
+　腹はおそろしく<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">す</seg><seg type="rp">）</seg></seg>いていた。考えがあって、車内で喰べることを<seg type="ruby"><seg type="rb">控</seg><seg type="rp">（</seg><seg type="rt">ひか</seg><seg type="rp">）</seg></seg>えていたのだ。考えとは外でもない。宝探しみたいな例の暗号手引によって、駅前の菊屋食堂に入って調べなければならぬとすると、ここは我慢して空きっ腹にして置く方が便利であったのだ。<lb />
 　菊屋食堂は、大きな看板が出ているので、すぐそれと分った。<lb />
-「姉さん。すっかり腹を減らしてしまったよ。いそいで食事をこしらえてくれないか。ええと、献立はエビのフライに、お<span type="ruby"><span type="rb">刺身</span><span type="rp">（</span><span type="rt">さしみ</span><span type="rp">）</span></span>に、卵焼きに、お椀にライスカレーに、それから……」<lb />
+「姉さん。すっかり腹を減らしてしまったよ。いそいで食事をこしらえてくれないか。ええと、献立はエビのフライに、お<seg type="ruby"><seg type="rb">刺身</seg><seg type="rp">（</seg><seg type="rt">さしみ</seg><seg type="rp">）</seg></seg>に、卵焼きに、お椀にライスカレーに、それから……」<lb />
 　ウェイトレスがくすくすと笑いだした。あんまり多量の注文だからであった。<lb />
 　帆村はそれをきっかけに、ウェイトレスと心やすくなってしまった。<lb />
 「なんだなんだ、これは綺麗な橋がついているじゃないか」<lb />
@@ -290,15 +290,15 @@
 「ロンドン塔の写真よ。昔その中で、たくさんの人が殺されたんですって。その中には王子様も交っていたのよ」<lb />
 「へえ、君は物しりだね、そんな恐ろしいところとは見えないほど綺麗だ。なるほど」<lb />
 　そのとき内から声があって、ウェイトレスを呼んだ。どうやら料理が上ったようである。――帆村は苦もなく、ロンドン塔を裏へひっくりかえして、鏡の裏面に紫外線ペイントで書いてある秘密文字を拾うことができた。<lb />
-　それをノートへうつしとったときに、ウェイトレスが<span type="ruby"><span type="rb">湯気</span><span type="rp">（</span><span type="rt">ゆげ</span><span type="rp">）</span></span>のたつ卵焼きを盆にのせて<span type="ruby"><span type="rb">搬</span><span type="rp">（</span><span type="rt">はこ</span><span type="rp">）</span></span>んできた。帆村はなにくわぬ顔をして、<span type="ruby"><span type="rb">卓子</span><span type="rp">（</span><span type="rt">テーブル</span><span type="rp">）</span></span>のところへ戻ってきた。<lb />
+　それをノートへうつしとったときに、ウェイトレスが<seg type="ruby"><seg type="rb">湯気</seg><seg type="rp">（</seg><seg type="rt">ゆげ</seg><seg type="rp">）</seg></seg>のたつ卵焼きを盆にのせて<seg type="ruby"><seg type="rb">搬</seg><seg type="rp">（</seg><seg type="rt">はこ</seg><seg type="rp">）</seg></seg>んできた。帆村はなにくわぬ顔をして、<seg type="ruby"><seg type="rb">卓子</seg><seg type="rp">（</seg><seg type="rt">テーブル</seg><seg type="rp">）</seg></seg>のところへ戻ってきた。<lb />
 　次から次へと搬ばれてくる大味な料理をどんどん片づけながら、帆村は壁に貼ってある時間表へしきりに目をやっていた。<lb />
 「十時二十五分、神戸行急行というのに乗るよりほか仕方がない」<lb />
 　彼は次の旅を考えていたのだ。目的地は大阪であった。段々と西へ流れて東京から遠くなってゆくことが、なんとなく不安であった。彼はそれが常住の土地を離れた者の望郷病だと解し、自分の心の弱さを軽蔑した。<lb />
-　食事がすんで時計を見ると、列車にのるまでまだ小一時間もたっぷり余裕があったので、彼は窓ぎわに<span type="ruby"><span type="rb">涼</span><span type="rp">（</span><span type="rt">りょう</span><span type="rp">）</span></span>をとるような<span type="ruby"><span type="rb">恰好</span><span type="rp">（</span><span type="rt">かっこう</span><span type="rp">）</span></span>をしながら、その実、例の鏡の裏から読みとった新しい暗号の発展を<span type="ruby"><span type="rb">脳裡</span><span type="rp">（</span><span type="rt">のうり</span><span type="rp">）</span></span>に描いていた。<lb />
+　食事がすんで時計を見ると、列車にのるまでまだ小一時間もたっぷり余裕があったので、彼は窓ぎわに<seg type="ruby"><seg type="rb">涼</seg><seg type="rp">（</seg><seg type="rt">りょう</seg><seg type="rp">）</seg></seg>をとるような<seg type="ruby"><seg type="rb">恰好</seg><seg type="rp">（</seg><seg type="rt">かっこう</seg><seg type="rp">）</seg></seg>をしながら、その実、例の鏡の裏から読みとった新しい暗号の発展を<seg type="ruby"><seg type="rb">脳裡</seg><seg type="rp">（</seg><seg type="rt">のうり</seg><seg type="rp">）</seg></seg>に描いていた。<lb />
 　彼のノートには、第五図のように書いてあった。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第五図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-04.png" rend="gaiji" rendition="img" source="※(丸4、1-13-4)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-04.png" rend="gaiji" rendition="img" source="※(丸4、1-13-4)" /><lb />
 <lb />
 　　　　　　　８□<lb />
 　　　＿＿＿＿＿＿＿<lb />
@@ -308,13 +308,13 @@
 　　　　　□９□□<lb />
 　　　　　□７４□<lb />
 <lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-05.png" rend="gaiji" rendition="img" source="※(丸5、1-13-5)" />ハ大阪市新世界「アシベ」劇場内ニ掲出ノ「ロビンフッド」ノポスターノ右下隅。星印アリ<lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-05.png" rend="gaiji" rendition="img" source="※(丸5、1-13-5)" />ハ大阪市新世界「アシベ」劇場内ニ掲出ノ「ロビンフッド」ノポスターノ右下隅。星印アリ<lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　これで見ると答の二桁目が出ているが、枠で囲ってあるから、何の数字やらわからない。四段目の四数字のうち□74□と二字だけ分ったのは、有力なる手懸りだ。<lb />
 　帆村はこれを整頓して、いままで分った数字を入れたり、新しい枠のなかに記号をいれたりした。それは別掲のとおりだった。（第六図）<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第六図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-04.png" rend="gaiji" rendition="img" source="※(丸4、1-13-4)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-04.png" rend="gaiji" rendition="img" source="※(丸4、1-13-4)" /><lb />
 <lb />
 　　　　　　　ハ<lb />
 　　　　　　　↓<lb />
@@ -332,9 +332,9 @@
 　　　　　　↑↑<lb />
 　　　　　　ヘト<lb />
 <lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　帆村は、しきりと名答を考えつづけた。<lb />
-　ヘトが 74 と出ているから、ここへ<span type="ruby"><span type="rb">覘</span><span type="rp">（</span><span type="rt">ねら</span><span type="rp">）</span></span>いをつけなければならない。答の二桁目はＸであるが、除数の 74A にＸを掛けたものが、N74P となるのである。<lb />
+　ヘトが 74 と出ているから、ここへ<seg type="ruby"><seg type="rb">覘</seg><seg type="rp">（</seg><seg type="rt">ねら</seg><seg type="rp">）</seg></seg>いをつけなければならない。答の二桁目はＸであるが、除数の 74A にＸを掛けたものが、N74P となるのである。<lb />
 　ところでヘすなわち７がここに出るためには、除数すなわち 74A の 74 に対してＸが決まってくるであろうと思われる。<lb />
 　そこでＸを零から９までにとって調べてみると、Ｘの値は次の二つのうちどっちかである。X＝5？　9？だ。もっと説明すれば、Ｘが５なら、除数のはじめの二桁 74 との積は 370 となり、ヘに７が出る。またＸが９なら、積は 666 となって６が出るが、これは A×X の項を加えると、当然 666 が 67？という風に７となる筈である。<lb />
 　とにかくこうして、Ｘは５か９かのどっちかという見当になった。<lb />
@@ -348,20 +348,20 @@
 　Ｘの方は５か９か、まだどっちとも分らない。<lb />
 　Ａが９ときまれば、HIJ2 は綺麗に計算ができて、5992 となる。ＨとＩとは前から分っていたが、これをもって J＝9 と定まる。<lb />
 　あとはＮが３か６か、またＰが５か１かということになるが、それだけのことだ。<lb />
-　ここまで考えて、帆村はやっと重い荷を一つ下ろしたような気がした。早く大阪へついてこの<span type="ruby"><span type="rb">鍵</span><span type="rp">（</span><span type="rt">キイ</span><span type="rp">）</span></span>を解いてしまいたくて、たまらない。<lb />
+　ここまで考えて、帆村はやっと重い荷を一つ下ろしたような気がした。早く大阪へついてこの<seg type="ruby"><seg type="rb">鍵</seg><seg type="rp">（</seg><seg type="rt">キイ</seg><seg type="rp">）</seg></seg>を解いてしまいたくて、たまらない。<lb />
 <lb />
 <lb />
 　　　救難信号<lb />
 <lb />
 <lb />
 　帆村は列車のうちに一夜を明かした。その翌朝の六時三十八分というのに、列車は大阪駅に入った。<lb />
-　すこし神経がつかれたのか、頭が痛い。それを我慢して、大阪の街に一歩を<span type="ruby"><span type="rb">印</span><span type="rp">（</span><span type="rt">しる</span><span type="rp">）</span></span>した。<lb />
+　すこし神経がつかれたのか、頭が痛い。それを我慢して、大阪の街に一歩を<seg type="ruby"><seg type="rb">印</seg><seg type="rp">（</seg><seg type="rt">しる</seg><seg type="rp">）</seg></seg>した。<lb />
 　天王寺に近い新世界は、大阪市きっての娯楽地帯であった。そこにはパリのエッフェル塔を形どった通天閣があり、その下には映画館、飲食店、旅館、ラジウム温泉などがぎっしり混んでいた。<lb />
 　帆村はもう一所懸命であったから、顔も洗わず、飯も喰べないでこの新世界へ車をとばしたのであった。<lb />
-　アシベ劇場は、通天閣のすぐ脇にあった。しかしあまり早朝なので、表戸はしまっていて内部を<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">うかが</span><span type="rp">）</span></span>うよしもない。通りかかった女性に聞くと、まだ三時間ほど待っていなければならぬそうであった。彼はやっと落ちついて顔を洗ったり朝飯をとる時間を見出した。劇場が切符をうりだしたのを見ると、帆村はまっさきに館内へ入った。そして待ちに待った第五番目のノートは、うまくとれた。それは別掲のようなものであった。（第七図）<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+　アシベ劇場は、通天閣のすぐ脇にあった。しかしあまり早朝なので、表戸はしまっていて内部を<seg type="ruby"><seg type="rb">覗</seg><seg type="rp">（</seg><seg type="rt">うかが</seg><seg type="rp">）</seg></seg>うよしもない。通りかかった女性に聞くと、まだ三時間ほど待っていなければならぬそうであった。彼はやっと落ちついて顔を洗ったり朝飯をとる時間を見出した。劇場が切符をうりだしたのを見ると、帆村はまっさきに館内へ入った。そして待ちに待った第五番目のノートは、うまくとれた。それは別掲のようなものであった。（第七図）<lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第七図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-05.png" rend="gaiji" rendition="img" source="※(丸5、1-13-5)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-05.png" rend="gaiji" rendition="img" source="※(丸5、1-13-5)" /><lb />
 <lb />
 　　　　　　　８□<lb />
 　　　＿＿＿＿＿＿＿<lb />
@@ -373,40 +373,40 @@
 　　　　　―――――<lb />
 　　　　　　□□４□<lb />
 <lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-06.png" rend="gaiji" rendition="img" source="※(丸6、1-13-6)" />富山市公会堂事務所ニ置カレタル「オルゴール」時計ノ文字盤。商標ノトコロニ星印アリ<lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-06.png" rend="gaiji" rendition="img" source="※(丸6、1-13-6)" />富山市公会堂事務所ニ置カレタル「オルゴール」時計ノ文字盤。商標ノトコロニ星印アリ<lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　□□4□と、第五段めの四桁数字が出てきた。これを QR4S と記号をふった。<lb />
 　この辺で大概決ってしまうであろうと思って調べてみた帆村は、大きい失望を経験しなければならなかった。なんの新しい決定もないのであった。F＝M であったように、G＝S であるが、さてそれが如何なる数字であるか分らぬ限り、なんにもならない。<lb />
 「早く富山に行ってみなければ駄目だ」<lb />
-　と帆村はアシベ劇場の休憩室で、大きな<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>を一つした。<lb />
+　と帆村はアシベ劇場の休憩室で、大きな<seg type="ruby"><seg type="rb">欠伸</seg><seg type="rp">（</seg><seg type="rt">あくび</seg><seg type="rp">）</seg></seg>を一つした。<lb />
 　とうやら次の富山がゴールのようである。なにごともそこで決りがつくのだ。<lb />
 　帆村はふらふらする身体を立てなおしながら、日本空輸へ電話をかけた。<lb />
-「もし、富山行きの旅客機に席が一つ<span type="ruby"><span type="rb">明</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>いていませんか。もちろん今日のことです」<lb />
+「もし、富山行きの旅客機に席が一つ<seg type="ruby"><seg type="rb">明</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>いていませんか。もちろん今日のことです」<lb />
 　すると返事があって、明いているという。そこで切符を頼んで、名前を登録した。出発時間はと聞けば、午前十一時十分だという。あと一時間半ばかりあった。<lb />
 　帆村は公衆電話函を出ると、急に酒がのみたくなった。<lb />
 　あまり時間はないが、こうふらふらでは仕方がない。ことにこれから空の旅路である。ぜひ一杯ひっかけてゆきたい。そう思った彼は、新世界をぐるぐるまわりながら、酒ののめるところを物色した。<lb />
-　あとで聞くと、それは軍艦横丁という路次だったそうであるが、そこに東京には珍らしい陽気なおでん屋が軒をならべていた。若い女が五、六人、真赤な着物を着て、おでんの入った鍋の向うに坐り、じゃんじゃかじゃんじゃかと三味線をひっぱたくのである。客も入っていないのに、彼女たちは大きな声で<span type="ruby"><span type="rb">卑猥</span><span type="rp">（</span><span type="rt">ひわい</span><span type="rp">）</span></span>な歌をうたう。この暑いのにおでんでもあるまいとは思ったが、その<span type="ruby"><span type="rb">屈托</span><span type="rp">（</span><span type="rt">くったく</span><span type="rp">）</span></span>のなさそうな三味線の音が帆村の心をうったらしく、彼はそこへ入って酒を所望した。<lb />
+　あとで聞くと、それは軍艦横丁という路次だったそうであるが、そこに東京には珍らしい陽気なおでん屋が軒をならべていた。若い女が五、六人、真赤な着物を着て、おでんの入った鍋の向うに坐り、じゃんじゃかじゃんじゃかと三味線をひっぱたくのである。客も入っていないのに、彼女たちは大きな声で<seg type="ruby"><seg type="rb">卑猥</seg><seg type="rp">（</seg><seg type="rt">ひわい</seg><seg type="rp">）</seg></seg>な歌をうたう。この暑いのにおでんでもあるまいとは思ったが、その<seg type="ruby"><seg type="rb">屈托</seg><seg type="rp">（</seg><seg type="rt">くったく</seg><seg type="rp">）</seg></seg>のなさそうな三味線の音が帆村の心をうったらしく、彼はそこへ入って酒を所望した。<lb />
 　それから後のことは、帆村の名誉のために記したくない。とにかくその日の夜十時になって彼は転げこむように大阪駅に入っていった。<lb />
 「富山へ行くんだ。一つ切符をどうぞ」<lb />
-　彼はまだ<span type="ruby"><span type="rb">呂律</span><span type="rp">（</span><span type="rt">ろれつ</span><span type="rp">）</span></span>のまわらぬ舌で、切符売場の窓口にからみついた。ひどく飲みつづけていたらしい。飛行機なんか、もうとっくの昔に乗りおくれてしまっている。<lb />
+　彼はまだ<seg type="ruby"><seg type="rb">呂律</seg><seg type="rp">（</seg><seg type="rt">ろれつ</seg><seg type="rp">）</seg></seg>のまわらぬ舌で、切符売場の窓口にからみついた。ひどく飲みつづけていたらしい。飛行機なんか、もうとっくの昔に乗りおくれてしまっている。<lb />
 「おい山下君。ど、どこかへ逃げちゃったよ」<lb />
 　彼は、自分にも記憶のない人の名をよんだりなどしている。<lb />
-　彼は午後十時十八分の列車に、ようやくのりこむことが出来た。そして寝台の中にもぐりこむが早いか、<span type="ruby"><span type="rb">蠎</span><span type="rp">（</span><span type="rt">うわばみ</span><span type="rp">）</span></span>のような寝息をたてだした。よほど飲んだものらしい。<lb />
+　彼は午後十時十八分の列車に、ようやくのりこむことが出来た。そして寝台の中にもぐりこむが早いか、<seg type="ruby"><seg type="rb">蠎</seg><seg type="rp">（</seg><seg type="rt">うわばみ</seg><seg type="rp">）</seg></seg>のような寝息をたてだした。よほど飲んだものらしい。<lb />
 　列車ボーイに起されて目がさめた。<lb />
 　まだ腰がふらふらと定まらない。洗面所へ行ってみると、満員だった。窓外は朝の山々や田畑がまぶしく光っていた。<lb />
-　車室へかえってくると、もう寝台はきれいに片づいていた。食慾がない。どうも変だ。昨日はなぜあのように飲みすぎたのだろう。軍艦横丁のおでん屋に顔をつきこんでから、ひどく<span type="ruby"><span type="rb">酔</span><span type="rp">（</span><span type="rt">よい</span><span type="rp">）</span></span>のまわったことを覚えている。それから後は、<span type="ruby"><span type="rb">連</span><span type="rp">（</span><span type="rt">つれ</span><span type="rp">）</span></span>が出来たらしく、誰かと一緒に飲んでまた飲みつづけた。大事を前にして、どうも不思議な自分の行動だった。酔いではなく、<span type="ruby"><span type="rb">麻酔</span><span type="rp">（</span><span type="rt">ますい</span><span type="rp">）</span></span>のようにも思う――と帆村は<span type="ruby"><span type="rb">悔恨</span><span type="rp">（</span><span type="rt">かいこん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>である。<lb />
+　車室へかえってくると、もう寝台はきれいに片づいていた。食慾がない。どうも変だ。昨日はなぜあのように飲みすぎたのだろう。軍艦横丁のおでん屋に顔をつきこんでから、ひどく<seg type="ruby"><seg type="rb">酔</seg><seg type="rp">（</seg><seg type="rt">よい</seg><seg type="rp">）</seg></seg>のまわったことを覚えている。それから後は、<seg type="ruby"><seg type="rb">連</seg><seg type="rp">（</seg><seg type="rt">つれ</seg><seg type="rp">）</seg></seg>が出来たらしく、誰かと一緒に飲んでまた飲みつづけた。大事を前にして、どうも不思議な自分の行動だった。酔いではなく、<seg type="ruby"><seg type="rb">麻酔</seg><seg type="rp">（</seg><seg type="rt">ますい</seg><seg type="rp">）</seg></seg>のようにも思う――と帆村は<seg type="ruby"><seg type="rb">悔恨</seg><seg type="rp">（</seg><seg type="rt">かいこん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>である。<lb />
 　富山駅では大勢の人が下りた。<lb />
 　帆村もぐらぐらする腰をあげて下りた。外へ出たがどうも気分がよくない。<lb />
 　とうとう思いきって駅前の交番へとびこんだ。甚だ気がひけるがあまり頑張っていて更に大きな失態をしては、事件の依頼主に対し相済まぬと思ったからである。<lb />
 　身分証明を見せると、詰所の警官は本署に電話をかけてくれた。間もなく栗山という刑事と、ほかに医師が一人、帆村を迎えにきた。<lb />
-「これは<span type="ruby"><span type="rb">麻痺剤</span><span type="rp">（</span><span type="rt">まひざい</span><span type="rp">）</span></span>のせいですよ。誰かに一服盛られましたね。すぐ注射をうちましょう」<lb />
+「これは<seg type="ruby"><seg type="rb">麻痺剤</seg><seg type="rp">（</seg><seg type="rt">まひざい</seg><seg type="rp">）</seg></seg>のせいですよ。誰かに一服盛られましたね。すぐ注射をうちましょう」<lb />
 　医師は心得顔に、注射の用意にかかった。<lb />
 「やっぱりそうか。あの山下とかいった男が、喰わせ者だったんだ」<lb />
-　<span type="ruby"><span type="rb">瞼</span><span type="rp">（</span><span type="rt">まぶた</span><span type="rp">）</span></span>の間にのこるその山下とかいった酒の連こそ恐るべき人物だったのだ。生命に別条のなかったのは何よりだった。帆村は交番の奥の間に寝かされた。<lb />
+　<seg type="ruby"><seg type="rb">瞼</seg><seg type="rp">（</seg><seg type="rt">まぶた</seg><seg type="rp">）</seg></seg>の間にのこるその山下とかいった酒の連こそ恐るべき人物だったのだ。生命に別条のなかったのは何よりだった。帆村は交番の奥の間に寝かされた。<lb />
 　栗山刑事が、帆村にかわって公会堂へ行ってくれた。そして彼のため書きうつしてきてくれたのは、上のような割り算であった。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第八図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-06.png" rend="gaiji" rendition="img" source="※(丸6、1-13-6)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-06.png" rend="gaiji" rendition="img" source="※(丸6、1-13-6)" /><lb />
 <lb />
 　　　　　　　８□３<lb />
 　　　＿＿＿＿＿＿＿<lb />
@@ -422,17 +422,17 @@
 　　　　　　　　　０<lb />
 <lb />
 （終）<lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　なお「終」という字が一字書きこんであるところを見ると割り算の宝さがしの旅は、この富山をもって終ったわけだった。<lb />
 　割り算を見ると、いよいよ答は最後の一桁まで出た。３という数字がたっている。そしてすっかり割り切れている。これでこの割り算は完結しているのだ。<lb />
-　帆村はうずく<span type="ruby"><span type="rb">顳<span change="gaiji" facs="../../../gaiji/1-94/1-94-06.png" rend="gaiji" rendition="img" source="※(「需＋頁」、第3水準1-94-6)" /></span><span type="rp">（</span><span type="rt">こめかみ</span><span type="rp">）</span></span>をおさえつつ、このノートに見入った。ここで急速に答を出さなければならない。六桁の被除数は、まだ第一数字しかわかっていないのだ。<lb />
+　帆村はうずく<seg type="ruby"><seg type="rb">顳<seg change="gaiji" facs="../../../gaiji/1-94/1-94-06.png" rend="gaiji" rendition="img" source="※(「需＋頁」、第3水準1-94-6)" /></seg><seg type="rp">（</seg><seg type="rt">こめかみ</seg><seg type="rp">）</seg></seg>をおさえつつ、このノートに見入った。ここで急速に答を出さなければならない。六桁の被除数は、まだ第一数字しかわかっていないのだ。<lb />
 「帆村さん。これをお飲みなさい」<lb />
 　医師はコップに熱い酒をついで帆村の枕もとへ持ってきてくれた。帆村が遠慮したいというと、医師は笑って、<lb />
 「いや、これは土地での一番いい酒です。これをぐっとやると、かえって早く元気づきますよ」<lb />
-　帆村は、その親切な心の<span type="ruby"><span type="rb">籠</span><span type="rp">（</span><span type="rt">こも</span><span type="rp">）</span></span>ったコップをとりあげながら、最後の解法にかかった。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+　帆村は、その親切な心の<seg type="ruby"><seg type="rb">籠</seg><seg type="rp">（</seg><seg type="rt">こも</seg><seg type="rp">）</seg></seg>ったコップをとりあげながら、最後の解法にかかった。<lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第九図］<lb />
-<span change="gaiji" facs="../../../gaiji/1-13/1-13-06.png" rend="gaiji" rendition="img" source="※(丸6、1-13-6)" /><lb />
+<seg change="gaiji" facs="../../../gaiji/1-13/1-13-06.png" rend="gaiji" rendition="img" source="※(丸6、1-13-6)" /><lb />
 <lb />
 　　　　　　　ハ　ヌ<lb />
 　　　　　　　↓　↓<lb />
@@ -455,14 +455,14 @@
 　　　　　　――――<lb />
 　　　　　　　リ→０<lb />
 <lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
 　まずこれを第九図のように整理した。すぐ目につくのは、答の一の桁に現われた３と、除数の 749 とをかけると 2247 となることだ。つまり TUVW は 2247 である。うまく割り切れているところを見ると、Ｖは４でなければならぬが、この点もちゃんと合う。<lb />
 　従って QR4S も同じく 2247 となる。<lb />
 　また G＝S＝7 である。<lb />
 　さてその次はどれが決るか。<lb />
 「これはおかしい」<lb />
-　帆村の顔が<span type="ruby"><span type="rb">歪</span><span type="rp">（</span><span type="rt">ゆが</span><span type="rp">）</span></span>んだ。<lb />
-<span rend="notes">［＃ここから罫囲み］</span><lb />
+　帆村の顔が<seg type="ruby"><seg type="rb">歪</seg><seg type="rp">（</seg><seg type="rt">ゆが</seg><seg type="rp">）</seg></seg>んだ。<lb />
+<seg rend="notes" rendition="span">［＃ここから罫囲み］</seg><lb />
 ［第十図］<lb />
 <lb />
 　　　　　　　８Ｘ３<lb />
@@ -478,13 +478,13 @@
 　　　　　　――――<lb />
 　　　　　　　　　０<lb />
 <lb />
-<span rend="notes">［＃ここで罫囲み終わり］</span><lb />
-　ここまでは進んだが（第十図）――あとはどうもうまく決らない。帆村は苦しそうに<span type="ruby"><span type="rb">呻</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>りながら寝返りをうった。<lb />
+<seg rend="notes" rendition="span">［＃ここで罫囲み終わり］</seg><lb />
+　ここまでは進んだが（第十図）――あとはどうもうまく決らない。帆村は苦しそうに<seg type="ruby"><seg type="rb">呻</seg><seg type="rp">（</seg><seg type="rt">うな</seg><seg type="rp">）</seg></seg>りながら寝返りをうった。<lb />
 「どうして解けないのだろうか。おれの頭はばかになったのか」<lb />
 　帆村は拳をかためると、自分の頭をガンとなぐった。<lb />
 「駄目だ。解けない」<lb />
-　帆村は算術地獄におちこんだと思った。さもなければ、頭脳が<span type="ruby"><span type="rb">麻痺</span><span type="rp">（</span><span type="rt">まひ</span><span type="rp">）</span></span>してしまったのだ。ここまで解きながら、答が出ないとは何としたことであろう。はるばる富山まで来て、交番の奥の間に<span type="ruby"><span type="rb">呻吟</span><span type="rp">（</span><span type="rt">しんぎん</span><span type="rp">）</span></span>している自分が世界中で一番哀れなものに思われた。どうにでもなれ！<lb />
-　そのうちに酒が身体に廻ってきた。疲労の<span type="ruby"><span type="rb">果</span><span type="rp">（</span><span type="rt">はて</span><span type="rp">）</span></span>か酒のせいか、彼はうとうとと睡りはじめた。<lb />
+　帆村は算術地獄におちこんだと思った。さもなければ、頭脳が<seg type="ruby"><seg type="rb">麻痺</seg><seg type="rp">（</seg><seg type="rt">まひ</seg><seg type="rp">）</seg></seg>してしまったのだ。ここまで解きながら、答が出ないとは何としたことであろう。はるばる富山まで来て、交番の奥の間に<seg type="ruby"><seg type="rb">呻吟</seg><seg type="rp">（</seg><seg type="rt">しんぎん</seg><seg type="rp">）</seg></seg>している自分が世界中で一番哀れなものに思われた。どうにでもなれ！<lb />
+　そのうちに酒が身体に廻ってきた。疲労の<seg type="ruby"><seg type="rb">果</seg><seg type="rp">（</seg><seg type="rt">はて</seg><seg type="rp">）</seg></seg>か酒のせいか、彼はうとうとと睡りはじめた。<lb />
 <lb />
 <lb />
 　　　謎は解けた<lb />
@@ -492,10 +492,10 @@
 <lb />
 　ぱっと目がさめたとき、彼は急に気分のよくなっていることに気がついた。<lb />
 　彼は再びノートをとりあげた。<lb />
-　暫くノートの表を<span type="ruby"><span type="rb">凝視</span><span type="rp">（</span><span type="rt">ぎょうし</span><span type="rp">）</span></span>していた彼は、思わず、<lb />
+　暫くノートの表を<seg type="ruby"><seg type="rb">凝視</seg><seg type="rp">（</seg><seg type="rt">ぎょうし</seg><seg type="rp">）</seg></seg>していた彼は、思わず、<lb />
 「うむ」<lb />
 　と、呻って目をみはった。<lb />
-　彼は畳の上をとんとんと激しく<span type="ruby"><span type="rb">叩</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>いた。<lb />
+　彼は畳の上をとんとんと激しく<seg type="ruby"><seg type="rb">叩</seg><seg type="rp">（</seg><seg type="rt">たた</seg><seg type="rp">）</seg></seg>いた。<lb />
 　隣室に待っていた栗山刑事が、とぶようにして入ってきた。<lb />
 「帆村さん、どうしました」<lb />
 「おお、栗山さん。今日東京へ飛ぶ旅客機に間にあいませんか」<lb />
@@ -506,42 +506,42 @@
 　親切な栗山刑事は、帆村の身体を抱えるようにして旅客機の中へおくりこんだ。<lb />
 　午後一時四十分、ユニバーサル機は東京へ向けて出発した。<lb />
 　帆村は青い顔を窓から出して、見送りの栗山刑事へ手をふった。そしてほっと溜息をついた。<lb />
-　とうとう四日間というものを<span type="ruby"><span type="rb">欺</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>されとおしてきたのだ。<lb />
-　帆村の心は<span type="ruby"><span type="rb">穏</span><span type="rp">（</span><span type="rt">おだや</span><span type="rp">）</span></span>かでない。<lb />
-　割り算の<span type="ruby"><span type="rb">鍵</span><span type="rp">（</span><span type="rt">キイ</span><span type="rp">）</span></span>は一体どうなったのか。<lb />
+　とうとう四日間というものを<seg type="ruby"><seg type="rb">欺</seg><seg type="rp">（</seg><seg type="rt">だま</seg><seg type="rp">）</seg></seg>されとおしてきたのだ。<lb />
+　帆村の心は<seg type="ruby"><seg type="rb">穏</seg><seg type="rp">（</seg><seg type="rt">おだや</seg><seg type="rp">）</seg></seg>かでない。<lb />
+　割り算の<seg type="ruby"><seg type="rb">鍵</seg><seg type="rp">（</seg><seg type="rt">キイ</seg><seg type="rp">）</seg></seg>は一体どうなったのか。<lb />
 　鍵は解けないともいえるし、解けたともいえた。なぜなら予期した六桁の数は遂に分らないのだ。分らないように出来ているのだ。なぜなら答が二つも出るのである。<lb />
-　問題は答の二桁目のＸだ。これは５か９かのどっちかというところまで進んでいたが、今となっては、５でもよければ９でも<span type="ruby"><span type="rb">差支</span><span type="rp">（</span><span type="rt">さしつか</span><span type="rp">）</span></span>えないことが分った。つまり答は二つだ。<lb />
-　Ｘが５であれば、求める六桁の被除数は 638897 となる。またＸが９であれば、668857 となる。暗号の鍵の数字に、二つの答があってよいものか。ぜひとも一つでなければならない。そこにおいて帆村は万事を<span type="ruby"><span type="rb">悟</span><span type="rp">（</span><span type="rt">さと</span><span type="rp">）</span></span>ったのだ。<lb />
+　問題は答の二桁目のＸだ。これは５か９かのどっちかというところまで進んでいたが、今となっては、５でもよければ９でも<seg type="ruby"><seg type="rb">差支</seg><seg type="rp">（</seg><seg type="rt">さしつか</seg><seg type="rp">）</seg></seg>えないことが分った。つまり答は二つだ。<lb />
+　Ｘが５であれば、求める六桁の被除数は 638897 となる。またＸが９であれば、668857 となる。暗号の鍵の数字に、二つの答があってよいものか。ぜひとも一つでなければならない。そこにおいて帆村は万事を<seg type="ruby"><seg type="rb">悟</seg><seg type="rp">（</seg><seg type="rt">さと</seg><seg type="rp">）</seg></seg>ったのだ。<lb />
 「うぬ、一杯喰わされた」<lb />
 　彼ははじめて夢から覚めたように思った。なぜ彼は欺されたのか。彼の敵は、帆村をどうしようと思っていたのか。すべては謎であった。それを解くには、一刻も早く東京へかえるより外ないと気がついたのである。<lb />
 　どうやら東京には、彼の想像を超越した一大変事が待ちかまえているようである。一体それは何であろうか。<lb />
 　帆村の羽田空港に下りたのは午後四時だった。彼は早速電話をもって、木村事務官を呼び出した。<lb />
 　ところが意外にも、内務省では、木村事務官なぞという者は居ないと答えた。いくど押し問答をしても、居ない者は居ないということであった。<lb />
-　<span type="ruby"><span type="rb">遉</span><span type="rp">（</span><span type="rt">さすが</span><span type="rp">）</span></span>の帆村も顔色をかえた。今の今まで、内務省の情報部を預るお役人だと思っていた木村なる人物が夢のように消えてしまったのである。<lb />
+　<seg type="ruby"><seg type="rb">遉</seg><seg type="rp">（</seg><seg type="rt">さすが</seg><seg type="rp">）</seg></seg>の帆村も顔色をかえた。今の今まで、内務省の情報部を預るお役人だと思っていた木村なる人物が夢のように消えてしまったのである。<lb />
 　さてはと思って、こんどは自分の事務所を呼び出した。<lb />
 　すると、電話が一向に懸らないのであった。留守番をしているはずの大辻は何をしているのであろうか。胸さわぎはますますはげしくなっていった。<lb />
 　もうこれまでと思った帆村は、空港の外に出ると、円タクを呼んで一散に東京へ急がせた。<lb />
 　木村事務官は消えさり、事務所は留守で、大辻は不在だ。そして自分は変な謎の数字にひきずられて四日間というものを方々へ引張りまわされた。一体これはなんということだ。<lb />
 「ははあ、そうか。こいつはこっちに油断があって、うまく欺されたんだ。うむ、すこしずつ見当がついてきたぞ。相手は例の秘密団体の奴ばらなんだ！」<lb />
 　帆村の顔は、次第に紅潮してきた。<lb />
-　自宅にかえった帆村は、早速各所に連絡をとって情報を集めた。そして<span type="ruby"><span type="rb">遺憾</span><span type="rp">（</span><span type="rt">いかん</span><span type="rp">）</span></span>ながら彼が欺されたことを認めないわけにゆかなくなった。<lb />
-　すぐさま<span type="ruby"><span type="rb">駈</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>けつけてくれた専門家の説明によって、一切は明らかになった。帆村を欺したのは、たしかに例の秘密団体の<span type="ruby"><span type="rb">諜者</span><span type="rp">（</span><span type="rt">ちょうじゃ</span><span type="rp">）</span></span>たちであったのだ。木村といい山下といい、それは皆、その要員であることが分った。<lb />
+　自宅にかえった帆村は、早速各所に連絡をとって情報を集めた。そして<seg type="ruby"><seg type="rb">遺憾</seg><seg type="rp">（</seg><seg type="rt">いかん</seg><seg type="rp">）</seg></seg>ながら彼が欺されたことを認めないわけにゆかなくなった。<lb />
+　すぐさま<seg type="ruby"><seg type="rb">駈</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>けつけてくれた専門家の説明によって、一切は明らかになった。帆村を欺したのは、たしかに例の秘密団体の<seg type="ruby"><seg type="rb">諜者</seg><seg type="rp">（</seg><seg type="rt">ちょうじゃ</seg><seg type="rp">）</seg></seg>たちであったのだ。木村といい山下といい、それは皆、その要員であることが分った。<lb />
 　最後に残る謎は、なぜ帆村をこうして四日間も引張りまわしたかということだ。<lb />
 「それは分っているじゃないか。君の事務所に持っている短波通信機だよ」とその専門家はずばりと星を指した。<lb />
 「えっ――」<lb />
 「なあに、例の通信機の押収で、彼奴等は東京と上海との無電連絡が出来なくなったというわけさ。そこで目をつけたのは、君のところの通信機だ。そこで君を四日間、事務所から追払ったというわけだ。その間彼奴らは、君の機械をつかって、重大なる通信連絡をやったのに間違いない。そういえば、僕等の方にも思いあたることがある」<lb />
-　さすがの帆村も、これを聞いて、<span type="ruby"><span type="rb">呀</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>っと<span type="ruby"><span type="rb">愕</span><span type="rp">（</span><span type="rt">おどろ</span><span type="rp">）</span></span>いた。それではあの諜者連は彼の持っている短波通信機に用があったのか。<lb />
+　さすがの帆村も、これを聞いて、<seg type="ruby"><seg type="rb">呀</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>っと<seg type="ruby"><seg type="rb">愕</seg><seg type="rp">（</seg><seg type="rt">おどろ</seg><seg type="rp">）</seg></seg>いた。それではあの諜者連は彼の持っている短波通信機に用があったのか。<lb />
 「すると留守番の大辻はどうしたんだろう」<lb />
 　大辻はそれから一週間目に、冷い死骸となって帆村のところへかえってきた。<lb />
 　なぜそんなことになったか。<lb />
 　その間の消息はのちに、帆村が帳簿の間から発見した大辻の手記によって明らかになった。それには鉛筆の走り書でこうかいてあった。<lb />
 「先生が大怪我をされたからすぐ来てくれという知らせで、私は出かけます。八月二十六日、午後十一時三十七分」<lb />
 　これで一切は明白となった。諜者連の方では、大辻が事務所に残っていては短波通信機がつかえないから、帆村が大怪我をしたなどといって、大辻を誘いだし、片づけられてしまったに相違ない。大辻と来たら、おとなしく監禁されているような男ではないから、このような最期を招いたのであろう。<lb />
-「こんなわけで、僕はすっかりふりまわされて、恥をかくやら、大失態を演ずるやら、今思い出しても<span type="ruby"><span type="rb">腋</span><span type="rp">（</span><span type="rt">わき</span><span type="rp">）</span></span>の下から冷汗が出てくるよ」<lb />
+「こんなわけで、僕はすっかりふりまわされて、恥をかくやら、大失態を演ずるやら、今思い出しても<seg type="ruby"><seg type="rb">腋</seg><seg type="rp">（</seg><seg type="rt">わき</seg><seg type="rp">）</seg></seg>の下から冷汗が出てくるよ」<lb />
 　前代未聞の暗号数字事件を述べ終えて、帆村は大きな吐息を一つついた。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

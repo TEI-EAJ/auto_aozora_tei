@@ -34,12 +34,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 打ち返し泡立ち<lb />
 再び寄せ　盛り上り　岩を打つ<lb />
 波濤の歴史の永遠の力は<lb />
 時としてあの不可解な死への誘惑を感ぜしめる<lb />
-波に乗り　<span type="ruby"><span type="rb">暴風雨</span><span type="rp">（</span><span type="rt">あらし</span><span type="rp">）</span></span>を経て<lb />
+波に乗り　<seg type="ruby"><seg type="rb">暴風雨</seg><seg type="rp">（</seg><seg type="rt">あらし</seg><seg type="rp">）</seg></seg>を経て<lb />
 大洋の航路にある旅客船は<lb />
 絶えず地球の経緯を計っているが<lb />
 世界を行く人々の心に<lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

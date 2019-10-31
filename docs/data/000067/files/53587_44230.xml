@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 みどりに深き手を泳がせ<lb />
 涼しきところに齒をかくせ<lb />
 いま風ながれ<lb />
@@ -41,7 +41,7 @@
 きみは舞妓たちを配列し<lb />
 きみはあづまやに銀のタクトをとれ<lb />
 夫人よ、おんみらはまた<lb />
-とく水色の<span type="ruby"><span type="rb">籐椅子</span><span type="rp">（</span><span type="rt">といす</span><span type="rp">）</span></span>に酒をそそぎてよ<lb />
+とく水色の<seg type="ruby"><seg type="rb">籐椅子</seg><seg type="rp">（</seg><seg type="rt">といす</seg><seg type="rp">）</seg></seg>に酒をそそぎてよ<lb />
 みよ、ひとびときたる<lb />
 遠方より魚を光らし<lb />
 淫樂の戲奴は靴先に鈴を鳴らせり。<lb />
@@ -52,6 +52,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

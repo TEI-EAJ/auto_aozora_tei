@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-12-11">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>」三一書房
+底本：「久生十蘭全集　4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年3月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
@@ -32,40 +32,40 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 　　　はやり物<lb />
 <lb />
-　<span type="ruby"><span type="rb">谷中</span><span type="rp">（</span><span type="rt">やなか</span><span type="rp">）</span></span>、藪下の菊人形。<lb />
-　文化の末ごろからの<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はやり</span><span type="rp">）</span></span>で、坂の両がわから根津神社のあたりまで、四丁ほどのあいだに目白おしに小屋をかけ、枝を<span type="ruby"><span type="rb">撓</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>め花を組みあわせ、<span type="ruby"><span type="rb">熊谷</span><span type="rp">（</span><span type="rt">くまがい</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">敦盛</span><span type="rp">（</span><span type="rt">あつもり</span><span type="rp">）</span></span>、立花屋の弁天小僧、高島屋の<span type="ruby"><span type="rb">男之助</span><span type="rp">（</span><span type="rt">おとこのすけ</span><span type="rp">）</span></span>。虎に清正、<span type="ruby"><span type="rb">仁田</span><span type="rp">（</span><span type="rt">にたん</span><span type="rp">）</span></span>に猪。鶴に亀、牡丹に唐獅子。竜宮の乙姫さま。それから、評判の狂言を三段返し五段返しで見せる。人形の首は人気役者の顔に似せ、衣裳は、赤、白、紫、黄、色とりどりの花を<span type="ruby"><span type="rb">綴</span><span type="rp">（</span><span type="rt">つづ</span><span type="rp">）</span></span>って飾りたてる、それが、実に見事。<lb />
-　もとは巣鴨の染井や麻布の狸穴だけのものだったが、そのほうは<span type="ruby"><span type="rb">廃</span><span type="rp">（</span><span type="rt">すた</span><span type="rp">）</span></span>れ、このせつは谷中の名物になり、地元の植木職が腕によりをかけていろいろと趣向を凝らす。菊人形師などというものもあらわれ、小屋の数もふえて六十軒あまり。小屋名の入った幟を立て、木戸には木戸番がすわって、<lb />
-「こちらが菊人形の元祖、<span type="ruby"><span type="rb">植半</span><span type="rp">（</span><span type="rt">うえはん</span><span type="rp">）</span></span>でござい。当年のご覧ものは、中は廻り舞台、三段返し<span type="ruby"><span type="rb">糶上</span><span type="rp">（</span><span type="rt">せりあ</span><span type="rp">）</span></span>げ。いちいち口上をもってご案内。サア、評判評判」<lb />
-「手前どもは<span type="ruby"><span type="rb">植梅</span><span type="rp">（</span><span type="rt">うえうめ</span><span type="rp">）</span></span>でございます。五代目<span type="ruby"><span type="rb">団蔵</span><span type="rp">（</span><span type="rt">だんぞう</span><span type="rp">）</span></span>の当り狂言『<span type="ruby"><span type="rb">鬼一法眼三略巻</span><span type="rp">（</span><span type="rt">きいちほんげんさんりゃくのまき</span><span type="rp">）</span></span>』。三段目『菊畑』、四段目は『<span type="ruby"><span type="rb">檜垣茶屋</span><span type="rp">（</span><span type="rt">ひがきぢゃや</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「ひがきぢゃや」は底本では「ひがきじゃや」］</span>』。おなじく五段目『五条ノ橋』は牛若丸の千人斬り。大序より大詰めまで引きぬき早がわり五段返しをもってお目にかけます。……大人は百五十文、お子供衆はただの五十文、お代は見てのおもどり、ハア、いらはい、いらはい」<lb />
+　<seg type="ruby"><seg type="rb">谷中</seg><seg type="rp">（</seg><seg type="rt">やなか</seg><seg type="rp">）</seg></seg>、藪下の菊人形。<lb />
+　文化の末ごろからの<seg type="ruby"><seg type="rb">流行</seg><seg type="rp">（</seg><seg type="rt">はやり</seg><seg type="rp">）</seg></seg>で、坂の両がわから根津神社のあたりまで、四丁ほどのあいだに目白おしに小屋をかけ、枝を<seg type="ruby"><seg type="rb">撓</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>め花を組みあわせ、<seg type="ruby"><seg type="rb">熊谷</seg><seg type="rp">（</seg><seg type="rt">くまがい</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">敦盛</seg><seg type="rp">（</seg><seg type="rt">あつもり</seg><seg type="rp">）</seg></seg>、立花屋の弁天小僧、高島屋の<seg type="ruby"><seg type="rb">男之助</seg><seg type="rp">（</seg><seg type="rt">おとこのすけ</seg><seg type="rp">）</seg></seg>。虎に清正、<seg type="ruby"><seg type="rb">仁田</seg><seg type="rp">（</seg><seg type="rt">にたん</seg><seg type="rp">）</seg></seg>に猪。鶴に亀、牡丹に唐獅子。竜宮の乙姫さま。それから、評判の狂言を三段返し五段返しで見せる。人形の首は人気役者の顔に似せ、衣裳は、赤、白、紫、黄、色とりどりの花を<seg type="ruby"><seg type="rb">綴</seg><seg type="rp">（</seg><seg type="rt">つづ</seg><seg type="rp">）</seg></seg>って飾りたてる、それが、実に見事。<lb />
+　もとは巣鴨の染井や麻布の狸穴だけのものだったが、そのほうは<seg type="ruby"><seg type="rb">廃</seg><seg type="rp">（</seg><seg type="rt">すた</seg><seg type="rp">）</seg></seg>れ、このせつは谷中の名物になり、地元の植木職が腕によりをかけていろいろと趣向を凝らす。菊人形師などというものもあらわれ、小屋の数もふえて六十軒あまり。小屋名の入った幟を立て、木戸には木戸番がすわって、<lb />
+「こちらが菊人形の元祖、<seg type="ruby"><seg type="rb">植半</seg><seg type="rp">（</seg><seg type="rt">うえはん</seg><seg type="rp">）</seg></seg>でござい。当年のご覧ものは、中は廻り舞台、三段返し<seg type="ruby"><seg type="rb">糶上</seg><seg type="rp">（</seg><seg type="rt">せりあ</seg><seg type="rp">）</seg></seg>げ。いちいち口上をもってご案内。サア、評判評判」<lb />
+「手前どもは<seg type="ruby"><seg type="rb">植梅</seg><seg type="rp">（</seg><seg type="rt">うえうめ</seg><seg type="rp">）</seg></seg>でございます。五代目<seg type="ruby"><seg type="rb">団蔵</seg><seg type="rp">（</seg><seg type="rt">だんぞう</seg><seg type="rp">）</seg></seg>の当り狂言『<seg type="ruby"><seg type="rb">鬼一法眼三略巻</seg><seg type="rp">（</seg><seg type="rt">きいちほんげんさんりゃくのまき</seg><seg type="rp">）</seg></seg>』。三段目『菊畑』、四段目は『<seg type="ruby"><seg type="rb">檜垣茶屋</seg><seg type="rp">（</seg><seg type="rt">ひがきぢゃや</seg><seg type="rp">）</seg></seg><seg rend="notes" rendition="span">［＃ルビの「ひがきぢゃや」は底本では「ひがきじゃや」］</seg>』。おなじく五段目『五条ノ橋』は牛若丸の千人斬り。大序より大詰めまで引きぬき早がわり五段返しをもってお目にかけます。……大人は百五十文、お子供衆はただの五十文、お代は見てのおもどり、ハア、いらはい、いらはい」<lb />
 「手前どもは植金でございます。今年の趣向は例年とこと変り……」<lb />
-　と、声を<span type="ruby"><span type="rb">嗄</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>し、<span type="ruby"><span type="rb">競</span><span type="rp">（</span><span type="rt">きそ</span><span type="rp">）</span></span>って呼びこみをする。<lb />
-　たいした人気で、九月の<span type="ruby"><span type="rb">朔日</span><span type="rp">（</span><span type="rt">ついたち</span><span type="rp">）</span></span>から月末までは根津から藪下までの狭い往来が身動きもならぬほどの人出。下町はもちろん、山の手の人びとも芝居は一度ぐらい抜いてもこの菊人形ばかりは見のがさない。<lb />
-　見物を目あての<span type="ruby"><span type="rb">担売</span><span type="rp">（</span><span type="rt">にないう</span><span type="rp">）</span></span>り、茶店、けんどん、安倍川餅、茶碗酒などが片がわに店を張り、白粉を塗った赤前垂の若い女が黄いろい声で客を呼ぶ。……寄っていらっしゃい。ちょうどお燗もついております。<lb />
-　菊人形では植木屋半兵衛の小屋がいちばん古く、人形のほかに蕎麦を喰わせる、藪下の蕎麦といって菊人形の見物につきもののようになり、菊を見たかえりには、たいていここで<span type="ruby"><span type="rb">憩</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>む。<lb />
-　鍵手に曲った土間の片がわに自慢の千輪咲きやら<span type="ruby"><span type="rb">懸崖</span><span type="rp">（</span><span type="rt">けんがい</span><span type="rp">）</span></span>やらをズラリとおきならべ、そのそばで手打の蕎麦を喰わせる。土間には打ち水をして、菊の香が<span type="ruby"><span type="rb">清々</span><span type="rp">（</span><span type="rt">すがすが</span><span type="rp">）</span></span>しい。それが、自慢。<lb />
+　と、声を<seg type="ruby"><seg type="rb">嗄</seg><seg type="rp">（</seg><seg type="rt">から</seg><seg type="rp">）</seg></seg>し、<seg type="ruby"><seg type="rb">競</seg><seg type="rp">（</seg><seg type="rt">きそ</seg><seg type="rp">）</seg></seg>って呼びこみをする。<lb />
+　たいした人気で、九月の<seg type="ruby"><seg type="rb">朔日</seg><seg type="rp">（</seg><seg type="rt">ついたち</seg><seg type="rp">）</seg></seg>から月末までは根津から藪下までの狭い往来が身動きもならぬほどの人出。下町はもちろん、山の手の人びとも芝居は一度ぐらい抜いてもこの菊人形ばかりは見のがさない。<lb />
+　見物を目あての<seg type="ruby"><seg type="rb">担売</seg><seg type="rp">（</seg><seg type="rt">にないう</seg><seg type="rp">）</seg></seg>り、茶店、けんどん、安倍川餅、茶碗酒などが片がわに店を張り、白粉を塗った赤前垂の若い女が黄いろい声で客を呼ぶ。……寄っていらっしゃい。ちょうどお燗もついております。<lb />
+　菊人形では植木屋半兵衛の小屋がいちばん古く、人形のほかに蕎麦を喰わせる、藪下の蕎麦といって菊人形の見物につきもののようになり、菊を見たかえりには、たいていここで<seg type="ruby"><seg type="rb">憩</seg><seg type="rp">（</seg><seg type="rt">やす</seg><seg type="rp">）</seg></seg>む。<lb />
+　鍵手に曲った土間の片がわに自慢の千輪咲きやら<seg type="ruby"><seg type="rb">懸崖</seg><seg type="rp">（</seg><seg type="rt">けんがい</seg><seg type="rp">）</seg></seg>やらをズラリとおきならべ、そのそばで手打の蕎麦を喰わせる。土間には打ち水をして、菊の香が<seg type="ruby"><seg type="rb">清々</seg><seg type="rp">（</seg><seg type="rt">すがすが</seg><seg type="rp">）</seg></seg>しい。それが、自慢。<lb />
 　その植半の奥まったところにかけているのは辻駕籠屋のアコ長と相棒のとど助、それに北町奉行所のお手先、例のひょろりの松五郎の三人。<lb />
-　アコ長の本名は仙波阿古十郎。どういう間違った生れつきか、人なみはずれた長い顎を持っているので<span type="ruby"><span type="rb">名詮自性</span><span type="rp">（</span><span type="rt">めいせんじしょう</span><span type="rp">）</span></span>して、曰く、アコ長。半年ほど前までは北町奉行所の係りで、江戸一の捕物の名人などと言われたこともあったが、くだらないことで役所を<span type="ruby"><span type="rb">失敗</span><span type="rp">（</span><span type="rt">しくじ</span><span type="rp">）</span></span>ってしまい、ほかに世すぎの法も知らないところから辻駕籠になりさがった。乞食にならなかったのがまだしもしあわせ。<lb />
-　ひょろ松というのは、むかしの弟子。あるいは手下。<span type="ruby"><span type="rb">菊石</span><span type="rp">（</span><span type="rt">あばた</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">笑靨</span><span type="rp">（</span><span type="rt">えくぼ</span><span type="rp">）</span></span>で、どこに惚れこんだのか、こんなに成りさがっても、先生とか阿古十郎さんとか奉って、むずかしい事件がもちあがるとかならず智慧を借りに来る。きょうもその伝なので。<lb />
+　アコ長の本名は仙波阿古十郎。どういう間違った生れつきか、人なみはずれた長い顎を持っているので<seg type="ruby"><seg type="rb">名詮自性</seg><seg type="rp">（</seg><seg type="rt">めいせんじしょう</seg><seg type="rp">）</seg></seg>して、曰く、アコ長。半年ほど前までは北町奉行所の係りで、江戸一の捕物の名人などと言われたこともあったが、くだらないことで役所を<seg type="ruby"><seg type="rb">失敗</seg><seg type="rp">（</seg><seg type="rt">しくじ</seg><seg type="rp">）</seg></seg>ってしまい、ほかに世すぎの法も知らないところから辻駕籠になりさがった。乞食にならなかったのがまだしもしあわせ。<lb />
+　ひょろ松というのは、むかしの弟子。あるいは手下。<seg type="ruby"><seg type="rb">菊石</seg><seg type="rp">（</seg><seg type="rt">あばた</seg><seg type="rp">）</seg></seg>も<seg type="ruby"><seg type="rb">笑靨</seg><seg type="rp">（</seg><seg type="rt">えくぼ</seg><seg type="rp">）</seg></seg>で、どこに惚れこんだのか、こんなに成りさがっても、先生とか阿古十郎さんとか奉って、むずかしい事件がもちあがるとかならず智慧を借りに来る。きょうもその伝なので。<lb />
 　アコ長ととど助、どちらも根が怠け者なので、金のあるうちはせいぜいブラブラして暮らす。いよいよ食う法がつかなくなると、あわてて駕籠をかつぎ出す。菊人形見物の客の帰りをひろって、とりあえず、いくらかにありつこうと藪下の道ばたに駕籠をすえ、客待ちをしているところへ宿で訊いて、ひょろ松が追いかけて来た。植半で蕎麦でも喰いながらちょっと判じていただきたいことがあるンです。<lb />
-　まだ、四ツをちょっと過ぎたばかりなので、客の顔ぶれは近所のご隠居体なのや、根岸あたりの寮へ来ている商家の<span type="ruby"><span type="rb">御寮人</span><span type="rp">（</span><span type="rt">ごりょうにん</span><span type="rp">）</span></span>や高島田の娘。いずれも暇そうな顔ぶればかりで、店の中もまだたてこまない。<lb />
+　まだ、四ツをちょっと過ぎたばかりなので、客の顔ぶれは近所のご隠居体なのや、根岸あたりの寮へ来ている商家の<seg type="ruby"><seg type="rb">御寮人</seg><seg type="rp">（</seg><seg type="rt">ごりょうにん</seg><seg type="rp">）</seg></seg>や高島田の娘。いずれも暇そうな顔ぶればかりで、店の中もまだたてこまない。<lb />
 　アコ長は、蒸籠の蕎麦をのんびりと啜りながら、額越しにひょろ松の顔を眺め、<lb />
 「だいぶお顔の色が悪いようだが、こんどは、いったいどういう筋だ」<lb />
 　ひょろ松は、顔へ手をやって、<lb />
 「そんなに嫌な顔をしていますか。……筋というほどのたいした筋じゃないンですが、それが、まるっきり雲をつかむようなはなしなンで。きょうまでいろいろやってるンですが、どうにもアタリがつきません、弱りました」<lb />
 　と言って、ため息をつく。<lb />
 　アコ長は、気がなさそうに、<lb />
-「きまり文句だの。……それにしても、そう<span type="ruby"><span type="rb">萎</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>えることはあるまい。喰いながらでもはなしは出来るだろう。そんな顔をしていられると、せっかくの蕎麦が不味くなる」<lb />
+「きまり文句だの。……それにしても、そう<seg type="ruby"><seg type="rb">萎</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>えることはあるまい。喰いながらでもはなしは出来るだろう。そんな顔をしていられると、せっかくの蕎麦が不味くなる」<lb />
 　相棒のとど助もうなずいて、<lb />
-「ひょろ松どの、ためいきばかりついておらんで、わけを話してみらっしゃい。品川砲台の<span type="ruby"><span type="rb">大砲</span><span type="rp">（</span><span type="rt">おおづつ</span><span type="rp">）</span></span>でも盗まれましたか」<lb />
+「ひょろ松どの、ためいきばかりついておらんで、わけを話してみらっしゃい。品川砲台の<seg type="ruby"><seg type="rb">大砲</seg><seg type="rp">（</seg><seg type="rt">おおづつ</seg><seg type="rp">）</seg></seg>でも盗まれましたか」<lb />
 「そんなはっきりしたメドのあるはなしじゃないンで」<lb />
 「なるほど」<lb />
-「……じつは、<span type="ruby"><span type="rb">小鰭</span><span type="rp">（</span><span type="rt">こはだ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鮨</span><span type="rp">（</span><span type="rt">すし</span><span type="rp">）</span></span>なんですが……」<lb />
+「……じつは、<seg type="ruby"><seg type="rb">小鰭</seg><seg type="rp">（</seg><seg type="rt">こはだ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">鮨</seg><seg type="rp">（</seg><seg type="rt">すし</seg><seg type="rp">）</seg></seg>なんですが……」<lb />
 「ほほう」<lb />
 「このせつ、むやみに美しい娘が行きがた知れずになります」<lb />
 　アコ長は笑い出して、<lb />
@@ -74,15 +74,15 @@
 「こんどばかりは、あっしも音をあげました。じたい、たわいのねえ筋のくせに、ひどくこんがらがっていやして、あっしにはどうにもあてがつきませんのです。……くわしくおはなししなければおわかりになりますまいが、じつは……」<lb />
 　と言って、ふたりの顔を見くらべるようにしながら、<lb />
 「いったい、こういうはなしを、どうおかんがえになります」<lb />
-　先の月の中ごろから、若い娘がむやみに家出をしてそのまま行きがた知れずになってしまう。いずれも<span type="ruby"><span type="rb">大賈</span><span type="rp">（</span><span type="rt">おおどこ</span><span type="rp">）</span></span>の箱入娘で、揃いもそろって縹緻よし。町内で小町娘のなんのと言われる際立って美しい娘ばかり。<lb />
-　八月の十七日には、浅草の<span type="ruby"><span type="rb">材木町</span><span type="rp">（</span><span type="rt">ざいもくちょう</span><span type="rp">）</span></span>の名主石田郷左衛門の末っ子で、お芳という十七になる美しい娘。<lb />
-　おなじく二十日には、深川<span type="ruby"><span type="rb">箱崎町</span><span type="rp">（</span><span type="rt">はこざきちょう</span><span type="rp">）</span></span>の木綿問屋、<span type="ruby"><span type="rb">桔梗屋</span><span type="rp">（</span><span type="rt">ききょうや</span><span type="rp">）</span></span>安兵衛の娘のお花、これも十七歳。<lb />
-　おなじく二十六日には、千住三丁目の<span type="ruby"><span type="rb">揚屋</span><span type="rp">（</span><span type="rt">あげや</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">大桝屋</span><span type="rp">（</span><span type="rt">おおますや</span><span type="rp">）</span></span>仁助のひとり娘でお文、十八歳。もっとも、これは根岸の寮に来ていて、そこから抜けだした。<lb />
-　一日おいて二十八日には、下谷<span type="ruby"><span type="rb">坂本町</span><span type="rp">（</span><span type="rt">さかもとちょう</span><span type="rp">）</span></span>二丁目の名代の葉茶屋『山本園』の三番目の娘で、十六歳。奥まったじぶんの部屋で人形の着物を縫っていたが、鋏を持ったまま庭づたいに裏木戸から通りへ出て、そのまま行くえ知れずになってしまった。<lb />
+　先の月の中ごろから、若い娘がむやみに家出をしてそのまま行きがた知れずになってしまう。いずれも<seg type="ruby"><seg type="rb">大賈</seg><seg type="rp">（</seg><seg type="rt">おおどこ</seg><seg type="rp">）</seg></seg>の箱入娘で、揃いもそろって縹緻よし。町内で小町娘のなんのと言われる際立って美しい娘ばかり。<lb />
+　八月の十七日には、浅草の<seg type="ruby"><seg type="rb">材木町</seg><seg type="rp">（</seg><seg type="rt">ざいもくちょう</seg><seg type="rp">）</seg></seg>の名主石田郷左衛門の末っ子で、お芳という十七になる美しい娘。<lb />
+　おなじく二十日には、深川<seg type="ruby"><seg type="rb">箱崎町</seg><seg type="rp">（</seg><seg type="rt">はこざきちょう</seg><seg type="rp">）</seg></seg>の木綿問屋、<seg type="ruby"><seg type="rb">桔梗屋</seg><seg type="rp">（</seg><seg type="rt">ききょうや</seg><seg type="rp">）</seg></seg>安兵衛の娘のお花、これも十七歳。<lb />
+　おなじく二十六日には、千住三丁目の<seg type="ruby"><seg type="rb">揚屋</seg><seg type="rp">（</seg><seg type="rt">あげや</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">大桝屋</seg><seg type="rp">（</seg><seg type="rt">おおますや</seg><seg type="rp">）</seg></seg>仁助のひとり娘でお文、十八歳。もっとも、これは根岸の寮に来ていて、そこから抜けだした。<lb />
+　一日おいて二十八日には、下谷<seg type="ruby"><seg type="rb">坂本町</seg><seg type="rp">（</seg><seg type="rt">さかもとちょう</seg><seg type="rp">）</seg></seg>二丁目の名代の葉茶屋『山本園』の三番目の娘で、十六歳。奥まったじぶんの部屋で人形の着物を縫っていたが、鋏を持ったまま庭づたいに裏木戸から通りへ出て、そのまま行くえ知れずになってしまった。<lb />
 　これが春さきなら、のぼせてついフラフラということもあろうが、今は菊の季節。花札でも菊には青い短冊がつく。のぼせるの、気が浮き立つのということはあるまい。<lb />
 　十日ほどのあいだに、いま言ったような揃いもそろって縹緻のいい箱入娘が四人も家から抜け出している。どういうわけあいなのか、どこへ行ってしまうのか、いっこうにわからない。<lb />
 　ただひとつ変ったことは、四人の娘が家をぬけだした時刻がだいたい似かよっている。正午すぎの八ツから七ツまでのあいだ。妙といえば、妙。<lb />
-　もひとつは、娘たちが家をぬけだすすこし前に、小鰭の鮨売が例のいい声で呼び売りをして行った……。もっとも、これはあとで思いついたことで、少々<span type="ruby"><span type="rb">附会</span><span type="rp">（</span><span type="rt">こじつけ</span><span type="rp">）</span></span>じみたところもないではない。<lb />
+　もひとつは、娘たちが家をぬけだすすこし前に、小鰭の鮨売が例のいい声で呼び売りをして行った……。もっとも、これはあとで思いついたことで、少々<seg type="ruby"><seg type="rb">附会</seg><seg type="rp">（</seg><seg type="rt">こじつけ</seg><seg type="rp">）</seg></seg>じみたところもないではない。<lb />
 　最初に言いだしたのは、桔梗屋の女中なので。……じつは、お嬢さまがぬけだされるすこし前に、小鰭の鮨売が塀の外を『すウしや、コハダのすうしイ――』とふれて行きましたが、それがまた、しんととろりとするようないい声でござンしたが、気のせいかそれが気にかかって。……ああ、そう言えば、家のお嬢さんが見えなくなる前に、やはり鮨売が来たようでございました。……なるほど、そう言われてみると、家のお嬢さまのほうも。……ということになった。<lb />
 　アコ長の顎十郎は、見ぬいたようにニヤリと笑って、<lb />
 「それで、小鰭の鮨売をしょっ引いたか」<lb />
@@ -90,22 +90,22 @@
 「へへへ、……じつは、その通りなんで。数にして四十人ばかり。これで、江戸の小鰭の鮨売はひとり残らずなんで」<lb />
 　顎十郎は、ひっくり返って笑い出し、<lb />
 「なるほど、こいつアいいや。ひょろ松、それは大出来だった。さすがは、おれの弟子だけのことはある。師匠は鼻が高い。ねえ、とど助さん、じっさい、たいしたもんですな」<lb />
-「小鰭の鮨売を四十人……<span type="ruby"><span type="rb">伝馬町</span><span type="rp">（</span><span type="rt">てんまちょう</span><span type="rp">）</span></span>の牢屋敷で鮨屋でもはじめますか」<lb />
+「小鰭の鮨売を四十人……<seg type="ruby"><seg type="rb">伝馬町</seg><seg type="rp">（</seg><seg type="rt">てんまちょう</seg><seg type="rp">）</seg></seg>の牢屋敷で鮨屋でもはじめますか」<lb />
 　ひょろ松は、すっかり照れてしまって、<lb />
 「とど助さん、あなたまで冷やかしちゃいけません。正直なところ、その件であっしは二進も三進も行かなくなっているンです。念入りにひとりずつ叩いて見ましたが、いっこうどうということもない。今さら見こみちがいじゃおさまらない。調べがある調べがあると言って、みなまだ伝馬町へとめてあるンですが、どうにもおさまりがつかなくなってしまいました」<lb />
 <lb />
 　　　箸の辻占<lb />
 <lb />
-　小鰭の鮨売といえば、そのころは<span type="ruby"><span type="rb">鯔背</span><span type="rp">（</span><span type="rt">いなせ</span><span type="rp">）</span></span>の筆頭。<lb />
+　小鰭の鮨売といえば、そのころは<seg type="ruby"><seg type="rb">鯔背</seg><seg type="rp">（</seg><seg type="rt">いなせ</seg><seg type="rp">）</seg></seg>の筆頭。<lb />
 　……髪は結い立てから刷毛ゆがめ、博多帯、貝の口を横丁にちょと結び、坐りも出来ぬような江戸パッチ……と、唄の文句にもある。<lb />
-　新しい手拭いを吉原かぶりにし、松坂木綿の縞の着物を尻はしょりにし、黒八丈の襟のかかった白唐桟の半纒。帯は小倉の<span type="ruby"><span type="rb">小幅</span><span type="rp">（</span><span type="rt">こはば</span><span type="rp">）</span></span>。木綿の股引をキッチリとはき、白足袋に麻裏という粋な着つけ。<lb />
+　新しい手拭いを吉原かぶりにし、松坂木綿の縞の着物を尻はしょりにし、黒八丈の襟のかかった白唐桟の半纒。帯は小倉の<seg type="ruby"><seg type="rb">小幅</seg><seg type="rp">（</seg><seg type="rt">こはば</seg><seg type="rp">）</seg></seg>。木綿の股引をキッチリとはき、白足袋に麻裏という粋な着つけ。<lb />
 　三重がさねの白木の鮨箱を肩からさげ、毎日正午すぎの六ツ七ツのころにふれ売りに来る。<lb />
 　小鰭の鮨売といえば、声がいいことにきまったようなもの。いずれも道楽者のなれの果、新内や常磐津できたえた金のかかった声だから、いいのには無理はない。<lb />
 　三重がさねの上の二つには小鰭の鮨や鮪の鮨、海苔巻、卵の鮨、下の箱には銭箱と取り箸を入れ、すこしそり身になって、鮨や小鰭のすうし……と細い、よく透る、震いつきたいようないい声でふれて来ると、岡場所や吉原などでは女たちが大騒ぎをする。<lb />
-　文化の前までは、江戸の市中には日本橋の<span type="ruby"><span type="rb">笹巻鮨</span><span type="rp">（</span><span type="rt">ささまきずし</span><span type="rp">）</span></span>と小石川<span type="ruby"><span type="rb">諏訪町</span><span type="rp">（</span><span type="rt">すわちょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">桑名屋</span><span type="rp">（</span><span type="rt">くわなや</span><span type="rp">）</span></span>の二軒の鮨屋があったきり。もちろん、呼売りなどはなかった。天保の始めからおいおい鮨屋がふえて、<span type="ruby"><span type="rb">安宅</span><span type="rp">（</span><span type="rt">あたけ</span><span type="rp">）</span></span>の松の鮨、<span type="ruby"><span type="rb">竈河岸</span><span type="rp">（</span><span type="rt">へっついがし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">毛抜</span><span type="rp">（</span><span type="rt">けぬき</span><span type="rp">）</span></span>鮨、深川<span type="ruby"><span type="rb">横櫓</span><span type="rp">（</span><span type="rt">よこやぐら</span><span type="rp">）</span></span>の小松鮨、<span type="ruby"><span type="rb">堺町</span><span type="rp">（</span><span type="rt">さかいちょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">金高</span><span type="rp">（</span><span type="rt">かねたか</span><span type="rp">）</span></span>鮨、両国の<span type="ruby"><span type="rb">与兵衛</span><span type="rp">（</span><span type="rt">よへえ</span><span type="rp">）</span></span>鮨などが繁昌し、のみならず鮨もだんだん贅沢になって、ひとつ三匁五匁という眼の玉が飛びだすような高い鮨が飛ぶように売れた。<lb />
+　文化の前までは、江戸の市中には日本橋の<seg type="ruby"><seg type="rb">笹巻鮨</seg><seg type="rp">（</seg><seg type="rt">ささまきずし</seg><seg type="rp">）</seg></seg>と小石川<seg type="ruby"><seg type="rb">諏訪町</seg><seg type="rp">（</seg><seg type="rt">すわちょう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">桑名屋</seg><seg type="rp">（</seg><seg type="rt">くわなや</seg><seg type="rp">）</seg></seg>の二軒の鮨屋があったきり。もちろん、呼売りなどはなかった。天保の始めからおいおい鮨屋がふえて、<seg type="ruby"><seg type="rb">安宅</seg><seg type="rp">（</seg><seg type="rt">あたけ</seg><seg type="rp">）</seg></seg>の松の鮨、<seg type="ruby"><seg type="rb">竈河岸</seg><seg type="rp">（</seg><seg type="rt">へっついがし</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">毛抜</seg><seg type="rp">（</seg><seg type="rt">けぬき</seg><seg type="rp">）</seg></seg>鮨、深川<seg type="ruby"><seg type="rb">横櫓</seg><seg type="rp">（</seg><seg type="rt">よこやぐら</seg><seg type="rp">）</seg></seg>の小松鮨、<seg type="ruby"><seg type="rb">堺町</seg><seg type="rp">（</seg><seg type="rt">さかいちょう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">金高</seg><seg type="rp">（</seg><seg type="rt">かねたか</seg><seg type="rp">）</seg></seg>鮨、両国の<seg type="ruby"><seg type="rb">与兵衛</seg><seg type="rp">（</seg><seg type="rt">よへえ</seg><seg type="rp">）</seg></seg>鮨などが繁昌し、のみならず鮨もだんだん贅沢になって、ひとつ三匁五匁という眼の玉が飛びだすような高い鮨が飛ぶように売れた。<lb />
 　鮨の呼売りは天保の末から始まったことで、そういう名代の鮨屋が念入りに握って、競って声のいい売子にふれ売りさせる。声のいい売子をかかえているのが店の自慢。<lb />
-　万事こぎれいで、いなせで、ふるいつきたいほど声がいい。玄人女の中には、ようすのいいのにぞっこん惚れこんで血道をあげるのもすくなくないが、こちらは荒い風にもあたらぬ大家のお嬢さん、いくら声がよくとも小粋でも、道楽者くずれの小鰭の鮨売などに迷って駈けだそうなどとは考えられない。仮に小鰭の鮨売がこの事件に関係があるとするなら、これには、裏になにか<span type="ruby"><span type="rb">複雑</span><span type="rp">（</span><span type="rt">いりく</span><span type="rp">）</span></span>んだアヤがなければならぬはず。<lb />
-　アコ長は、真顔になって、長い顎を撫でながら、とほんとなにかかんがえていたが、そのうちに、れいによって<span type="ruby"><span type="rb">唐突</span><span type="rp">（</span><span type="rt">だしぬけ</span><span type="rp">）</span></span>に、<lb />
+　万事こぎれいで、いなせで、ふるいつきたいほど声がいい。玄人女の中には、ようすのいいのにぞっこん惚れこんで血道をあげるのもすくなくないが、こちらは荒い風にもあたらぬ大家のお嬢さん、いくら声がよくとも小粋でも、道楽者くずれの小鰭の鮨売などに迷って駈けだそうなどとは考えられない。仮に小鰭の鮨売がこの事件に関係があるとするなら、これには、裏になにか<seg type="ruby"><seg type="rb">複雑</seg><seg type="rp">（</seg><seg type="rt">いりく</seg><seg type="rp">）</seg></seg>んだアヤがなければならぬはず。<lb />
+　アコ長は、真顔になって、長い顎を撫でながら、とほんとなにかかんがえていたが、そのうちに、れいによって<seg type="ruby"><seg type="rb">唐突</seg><seg type="rp">（</seg><seg type="rt">だしぬけ</seg><seg type="rp">）</seg></seg>に、<lb />
 「おい、ひょろ松、それで鰭売はどう言うんだ」<lb />
 「……たしかに、その日その刻、おっしゃる家の近くを通りましたが、あっしは塀の外をふれて歩いたばかり……。ちょうどその日、浅草材木町の石田郷左衛門の家と下谷の山本園の近くで、佐吉というその鮨売がふれて行くのを見ていたものがいて、それが証人になっているンですから佐吉の言うことには嘘はないらしいンです」<lb />
 「それは、どこの売子だ」<lb />
@@ -114,7 +114,7 @@
 「大桝屋のお文のほうは、堺町の金高鮨の売子で新七。……桔梗屋のお花のほうは、深川の小松鮨の売子で、八太郎というンですが、この二人のほうもべつに娘たちに近づいたようすはないンです」<lb />
 「それはそれでいいが、そいつらはいったいなんと言ってふれて歩いたんだ」<lb />
 「……小鰭の鮨や、小鰭の鮨……」<lb />
-「笑わしちゃいけねえ。小鰭の鮨売が小鰭の鮨というのには不思議はなかろう。そのほかに、なにか無駄なセリフがなかったのかと訊ねているんだ。文句にしろ唄にしろ、娘を引っぱり出すような<span type="ruby"><span type="rb">気障</span><span type="rp">（</span><span type="rt">きざ</span><span type="rp">）</span></span>なふれ方をしたのじゃなかったのか」<lb />
+「笑わしちゃいけねえ。小鰭の鮨売が小鰭の鮨というのには不思議はなかろう。そのほかに、なにか無駄なセリフがなかったのかと訊ねているんだ。文句にしろ唄にしろ、娘を引っぱり出すような<seg type="ruby"><seg type="rb">気障</seg><seg type="rp">（</seg><seg type="rt">きざ</seg><seg type="rp">）</seg></seg>なふれ方をしたのじゃなかったのか」<lb />
 「いいえ」<lb />
 「こいつア驚いた。どうしてそれがわかる」<lb />
 「なにしろ、そういういい声なンで、お店の番頭や丁稚が耳の保養のつもりで待ちかねていて、きょうの鮨売は昨日のよりはいい声だとか渋いとかと評判をするンです。そういうわけですから、ふれ声の中になにか気障な文句でもまじったら、誰にしたって聞きのがすはずはない。佐吉にしろ、新七にしろ、また八太郎にしろ、その日その家の近くでふれ声を聞いていたのは一人や二人じゃないンですから、これには間違いはありません」<lb />
@@ -126,25 +126,25 @@
 　ひょろ松は、えッと驚いて、<lb />
 「ど、どうしてそれをご存じです」<lb />
 「どうしてもこうしてもない、そうでなけりゃア、筋が通らないからだ」<lb />
-「……お察しの通り、実は、こういったわけだったンです。三人の鰭売は、なるほど塀ぎわにも裏木戸にも店さきにも寄りはしませんが、町角のよっぽど遠いところに小僧が先まわりをして鮨売を待っていて、番頭たちのお八ツの鮨を買って旦那や大番頭に知れないようにこっそりと店へ持って来るンです。……番頭ばかりじゃない、それには奥から頼まれた分もはいっている。小鰭の鮨など買いぐいするところを見つかると母親がやかましいから、娘づきの女中がその<span type="ruby"><span type="rb">都度</span><span type="rp">（</span><span type="rt">つど</span><span type="rp">）</span></span>そっと小僧に頼む。小僧が懐中をふくらませて帰ってくると、奥の女中が店の間で待っていて暖簾ごしにお嬢さんの分をこっそり受けとるという寸法なんです」<lb />
+「……お察しの通り、実は、こういったわけだったンです。三人の鰭売は、なるほど塀ぎわにも裏木戸にも店さきにも寄りはしませんが、町角のよっぽど遠いところに小僧が先まわりをして鮨売を待っていて、番頭たちのお八ツの鮨を買って旦那や大番頭に知れないようにこっそりと店へ持って来るンです。……番頭ばかりじゃない、それには奥から頼まれた分もはいっている。小鰭の鮨など買いぐいするところを見つかると母親がやかましいから、娘づきの女中がその<seg type="ruby"><seg type="rb">都度</seg><seg type="rp">（</seg><seg type="rt">つど</seg><seg type="rp">）</seg></seg>そっと小僧に頼む。小僧が懐中をふくらませて帰ってくると、奥の女中が店の間で待っていて暖簾ごしにお嬢さんの分をこっそり受けとるという寸法なんです」<lb />
 　顎十郎は、顔をしかめて、<lb />
 「お前の話はどうもくどくていけねえ。いったい、喰ったのか喰わなかったのか、どっちだ」<lb />
 「喰いました」<lb />
 「ほら見ろ、なぜ先にそれを言わねえンだ。それさえ先にわかっていりゃアむずかしいことはなにもありゃしなかったンだ。……くどいようだが、すると、その四人の娘たちは鮨を喰ってから駈け出したんだな」<lb />
 「まあ、そういう順序でしょう」<lb />
 「まあ、と言うのはどういうんだ」<lb />
-「そのへんのところだろうと思うンで。……じつは、そこンところはまだ訊いていなかったんです。もっとも、こりゃア調べりゃアすぐわかります。……いま伺っていると、喰ったか喰わないかが妙にひっからんでいるようですが、娘たちがもし鮨を喰ったとすると、それがなにか<span type="ruby"><span type="rb">曰</span><span type="rp">（</span><span type="rt">いわ</span><span type="rp">）</span></span>くになるンですか」<lb />
+「そのへんのところだろうと思うンで。……じつは、そこンところはまだ訊いていなかったんです。もっとも、こりゃア調べりゃアすぐわかります。……いま伺っていると、喰ったか喰わないかが妙にひっからんでいるようですが、娘たちがもし鮨を喰ったとすると、それがなにか<seg type="ruby"><seg type="rb">曰</seg><seg type="rp">（</seg><seg type="rt">いわ</seg><seg type="rp">）</seg></seg>くになるンですか」<lb />
 「まア、ひょろ松、割り箸の中からいったいなにが飛びだす」<lb />
-「<span type="ruby"><span type="rb">黒文字</span><span type="rp">（</span><span type="rt">くろもじ</span><span type="rp">）</span></span>が出ます」<lb />
+「<seg type="ruby"><seg type="rb">黒文字</seg><seg type="rp">（</seg><seg type="rt">くろもじ</seg><seg type="rp">）</seg></seg>が出ます」<lb />
 「それから？」<lb />
 「恋の辻占。……あッ、なるほど、それだッ」<lb />
 　顎十郎は、ニヤリと笑って、<lb />
 「ようやく気がついたか。鮨に曰くがあるンじゃない。その恋の辻占に文句があるンだ。……ひょろ松、その三人の鮨箱はちゃんと押えてあるンだろうな」<lb />
 「へえ、そこにぬかりはございません。鮨のほうは腐ったから捨てましたが、割り箸はそっくり残っております」<lb />
 　アコ長は、気ぜわしく立ちあがって、<lb />
-「じゃア、これから行って調べて見よう。……鮨箱の中からどんな辻占が出るか、それが楽しみだ……とど助さん、毎度のことでご迷惑でしょうが、またひとつ<span type="ruby"><span type="rb">交際</span><span type="rp">（</span><span type="rt">つきあ</span><span type="rp">）</span></span>ってください。鮨じゃないがこれも腐れ縁でねえ……」<lb />
+「じゃア、これから行って調べて見よう。……鮨箱の中からどんな辻占が出るか、それが楽しみだ……とど助さん、毎度のことでご迷惑でしょうが、またひとつ<seg type="ruby"><seg type="rb">交際</seg><seg type="rp">（</seg><seg type="rt">つきあ</seg><seg type="rp">）</seg></seg>ってください。鮨じゃないがこれも腐れ縁でねえ……」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">三津五郎</span><span type="rp">（</span><span type="rt">みつごろう</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">三津五郎</seg><seg type="rp">（</seg><seg type="rt">みつごろう</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　常盤橋御門内、北町奉行所の御用部屋。<lb />
 　坊主畳を敷いた長二十畳で、大きな炉を二カ所に切り、白磨きの檜の板羽目に朱房のついた十手や捕繩がズラリとかかっている。<lb />
@@ -154,34 +154,34 @@
 　さすがのひょろ松も、うんざりして、<lb />
 「こいつアいけねえ。これをいちいち調べていたら来年の正月までかかる。……ねえ、阿古十郎さん、どうでもこいつをみなやっつけるンですか」<lb />
 　とど助も、あきれて、<lb />
-「朋友のよしみですばってん、割り箸と引っくんで討死もしましょうが、こりゃとうぶん割り箸の夢で<span type="ruby"><span type="rb">魘</span><span type="rp">（</span><span type="rt">うな</span><span type="rp">）</span></span>されまっしょう」<lb />
+「朋友のよしみですばってん、割り箸と引っくんで討死もしましょうが、こりゃとうぶん割り箸の夢で<seg type="ruby"><seg type="rb">魘</seg><seg type="rp">（</seg><seg type="rt">うな</seg><seg type="rp">）</seg></seg>されまっしょう」<lb />
 　下ッ引どもはおもしろがって、ワイワイ言いながら手つだう。九ツごろから始めて日暮ちかくまでせっせと調べたが、割り箸の山はまだ三分の一も片づかない。<lb />
 　日ごろあまりものに動じない顎十郎もさすがにうんざりしてきたと見えて、何百本目かの割り箸をさいて辻占を読んでいたが、<lb />
-「……<span change="gaiji" facs="../../../gaiji/1-03/1-03-28.png" rend="gaiji" rendition="img" source="※(歌記号、1-3-28)" />人目の関のあるゆえに、ほんに二人はままならぬ……か、これは、くだらない」<lb />
+「……<seg change="gaiji" facs="../../../gaiji/1-03/1-03-28.png" rend="gaiji" rendition="img" source="※(歌記号、1-3-28)" />人目の関のあるゆえに、ほんに二人はままならぬ……か、これは、くだらない」<lb />
 　と、呟いて、辻占を畳の上になげだし、<lb />
 「どうも、こいつはいけなかったな。こんどばかりは味噌をつけた。すると、割り箸のほうでもなかったらしい。となると、こりゃアやっぱり神隠し。いや、どうもお騒がせしてすまなかった」<lb />
 　と、わけのわからぬことをブツブツ言いながら、とど助をうながして御用部屋を出て行く。ひょろ松は、追いすがって、<lb />
 「……阿古十郎さん、あなたはすっ恍けの名人ですが、きょうのは、またいつもの伝なんでしょう」<lb />
 　顎十郎は、ヘラヘラ笑って、<lb />
-「まずまずそのへんのところだ。お前がむこう見ずに鮨売の総渫いなんぞしたもんだから、どうにも後手がつづかなくなった。こんな大騒ぎをすりゃアどうしたってむこうが<span type="ruby"><span type="rb">怯気</span><span type="rp">（</span><span type="rt">おじけ</span><span type="rp">）</span></span>づいて引っこんでしまう。引っこまれてはこちらが大きに迷惑。なんのつもりでこんなことを始めたのか、また、四人の娘がどこに押し<span type="ruby"><span type="rb">匿</span><span type="rp">（</span><span type="rt">かくま</span><span type="rp">）</span></span>われているのか、今までの段取りではまるっきりあたりがつかねえ。いま御用部屋であんな馬鹿をして見せたのは、しょせん、むこうを安心させて誘いだし、是が非でも、せめてもう一遍やってもらうつもり」<lb />
+「まずまずそのへんのところだ。お前がむこう見ずに鮨売の総渫いなんぞしたもんだから、どうにも後手がつづかなくなった。こんな大騒ぎをすりゃアどうしたってむこうが<seg type="ruby"><seg type="rb">怯気</seg><seg type="rp">（</seg><seg type="rt">おじけ</seg><seg type="rp">）</seg></seg>づいて引っこんでしまう。引っこまれてはこちらが大きに迷惑。なんのつもりでこんなことを始めたのか、また、四人の娘がどこに押し<seg type="ruby"><seg type="rb">匿</seg><seg type="rp">（</seg><seg type="rt">かくま</seg><seg type="rp">）</seg></seg>われているのか、今までの段取りではまるっきりあたりがつかねえ。いま御用部屋であんな馬鹿をして見せたのは、しょせん、むこうを安心させて誘いだし、是が非でも、せめてもう一遍やってもらうつもり」<lb />
 　ひょろ松は、仔細らしくうなずいて、<lb />
 「辻占のはいった割り箸は、なにも鮨屋にかぎったことじゃない。割り箸に曰くがあるというンなら、鮨屋の箸を割って見ただけでおさまりのつく道理はない。江戸じゅうの割り箸をぜんぶ調べて見なけりゃアならねえわけ。あなたほどの人がこんなことに気がつかないわけはないのだから、こりゃア、テッキリなにかアヤがあるのだと睨んでいました。……それで、これからどうします」<lb />
 「なんでもいいからこちらの間違いだったということにして、鮨売をみんな放してしまえ。そこまでやったら、むこうは油断をして、かならず、引っかかって来るにちがいないと思うんだが」<lb />
 「なるほど。では、あっしは、これからすぐ伝馬町へ行って……」<lb />
 　気早に駈け出そうとするのを、顎十郎は押しとどめて、<lb />
-「待て待て、まだ後があるんだ。……お前も見たはずだ、藪下の菊人形。……植半の小屋に<span type="ruby"><span type="rb">坂東</span><span type="rp">（</span><span type="rt">ばんどう</span><span type="rp">）</span></span>三津五郎の似顔にした『小鰭の鮨売』の人形があったが、お前、あれをどう思う」<lb />
+「待て待て、まだ後があるんだ。……お前も見たはずだ、藪下の菊人形。……植半の小屋に<seg type="ruby"><seg type="rb">坂東</seg><seg type="rp">（</seg><seg type="rt">ばんどう</seg><seg type="rp">）</seg></seg>三津五郎の似顔にした『小鰭の鮨売』の人形があったが、お前、あれをどう思う」<lb />
 「どう思うといいますと」<lb />
-「歌舞伎の<span type="ruby"><span type="rb">所作事</span><span type="rp">（</span><span type="rt">しょさごと</span><span type="rp">）</span></span>の<span rend="SESAME_DOT" rendition="strong">物売</span>と言えば、まず、乗合船の『<span type="ruby"><span type="rb">白酒売</span><span type="rp">（</span><span type="rt">しろざけうり</span><span type="rp">）</span></span>』。法界坊の『<span type="ruby"><span type="rb">荵売</span><span type="rp">（</span><span type="rt">しのぶうり</span><span type="rp">）</span></span>』。それから団扇売、朝顔売、蝶々売。……魚のほうでは、立花屋の『<span type="ruby"><span type="rb">鯵</span><span type="rp">（</span><span type="rt">あじ</span><span type="rp">）</span></span>売』『<span type="ruby"><span type="rb">松魚</span><span type="rp">（</span><span type="rt">かつお</span><span type="rp">）</span></span>売』てえのがあるが、小鰭の鮨売というのはまだ聞かない。ところで、立札には、ちゃんと所作事としてあった。……いったい、これはどういうわけなのか、足ついでに猿若町へ行って、それとなくその次第をききこんで来てくれ。おれはとど助さんと茅場の茶漬屋で飯を喰いながら待っているから」<lb />
+「歌舞伎の<seg type="ruby"><seg type="rb">所作事</seg><seg type="rp">（</seg><seg type="rt">しょさごと</seg><seg type="rp">）</seg></seg>の<seg rend="SESAME_DOT" rendition="strong">物売</seg>と言えば、まず、乗合船の『<seg type="ruby"><seg type="rb">白酒売</seg><seg type="rp">（</seg><seg type="rt">しろざけうり</seg><seg type="rp">）</seg></seg>』。法界坊の『<seg type="ruby"><seg type="rb">荵売</seg><seg type="rp">（</seg><seg type="rt">しのぶうり</seg><seg type="rp">）</seg></seg>』。それから団扇売、朝顔売、蝶々売。……魚のほうでは、立花屋の『<seg type="ruby"><seg type="rb">鯵</seg><seg type="rp">（</seg><seg type="rt">あじ</seg><seg type="rp">）</seg></seg>売』『<seg type="ruby"><seg type="rb">松魚</seg><seg type="rp">（</seg><seg type="rt">かつお</seg><seg type="rp">）</seg></seg>売』てえのがあるが、小鰭の鮨売というのはまだ聞かない。ところで、立札には、ちゃんと所作事としてあった。……いったい、これはどういうわけなのか、足ついでに猿若町へ行って、それとなくその次第をききこんで来てくれ。おれはとど助さんと茅場の茶漬屋で飯を喰いながら待っているから」<lb />
 　アコ長ととど助が約束の場所で待っていると、ほどなくひょろ松が駕籠を飛ばして帰って来た。<lb />
-「……阿古十郎さん、ちょっと変ったことがありました、こういう話なンです。……こんど<span type="ruby"><span type="rb">大和屋</span><span type="rp">（</span><span type="rt">やまとや</span><span type="rp">）</span></span>が名題に昇進した披露をかねて立花屋の『鯵売』のむこうを張って、<span type="ruby"><span type="rb">常磐津文字太夫</span><span type="rp">（</span><span type="rt">ときわずもじたゆう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">岸沢式佐</span><span type="rp">（</span><span type="rt">きしざわしきさ</span><span type="rp">）</span></span>連中で『小鰭の鮨売』という新作の所作事を出すことにきまりました。これは、頭取と幕内と大和屋の三人だけの<span type="ruby"><span type="rb">内証</span><span type="rp">（</span><span type="rt">ないしょ</span><span type="rp">）</span></span>になっているンですが、どこからもれたのかこちらよりさきに菊人形にされてしまい、中村座では大きに迷惑をしているンで……」<lb />
+「……阿古十郎さん、ちょっと変ったことがありました、こういう話なンです。……こんど<seg type="ruby"><seg type="rb">大和屋</seg><seg type="rp">（</seg><seg type="rt">やまとや</seg><seg type="rp">）</seg></seg>が名題に昇進した披露をかねて立花屋の『鯵売』のむこうを張って、<seg type="ruby"><seg type="rb">常磐津文字太夫</seg><seg type="rp">（</seg><seg type="rt">ときわずもじたゆう</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">岸沢式佐</seg><seg type="rp">（</seg><seg type="rt">きしざわしきさ</seg><seg type="rp">）</seg></seg>連中で『小鰭の鮨売』という新作の所作事を出すことにきまりました。これは、頭取と幕内と大和屋の三人だけの<seg type="ruby"><seg type="rb">内証</seg><seg type="rp">（</seg><seg type="rt">ないしょ</seg><seg type="rp">）</seg></seg>になっているンですが、どこからもれたのかこちらよりさきに菊人形にされてしまい、中村座では大きに迷惑をしているンで……」<lb />
 「ふむ」<lb />
-「……ところで、もうひとつ耳よりな話があるンです。このひと月ほど前から市中の<span type="ruby"><span type="rb">女髪結</span><span type="rp">（</span><span type="rt">おんなかみゆい</span><span type="rp">）</span></span>や風呂屋で、こんど大和屋が小鰭の鮨売の新作所作事を出すについて、ようすを変えて鮨売になり、市中を呼び売りして歩く。うまく三津五郎だと見ぬいたひとには家紋入りの<span type="ruby"><span type="rb">印物</span><span type="rp">（</span><span type="rt">しるしもの</span><span type="rp">）</span></span>をくれるという噂が立っているンです。……<span type="ruby"><span type="rb">金春町</span><span type="rp">（</span><span type="rt">こんぱるまち</span><span type="rp">）</span></span>のお兼の女髪結へ寄って見ましたが、なるほどたいへんな評判。髪を結いに来ている娘や芸者が髪などはそっちのけでズラリと格子窓のそばへ並び、鮨売が来たらその中から大和屋を見つけて印物をもらうのだとたいへんな騒ぎをしておりました」<lb />
+「……ところで、もうひとつ耳よりな話があるンです。このひと月ほど前から市中の<seg type="ruby"><seg type="rb">女髪結</seg><seg type="rp">（</seg><seg type="rt">おんなかみゆい</seg><seg type="rp">）</seg></seg>や風呂屋で、こんど大和屋が小鰭の鮨売の新作所作事を出すについて、ようすを変えて鮨売になり、市中を呼び売りして歩く。うまく三津五郎だと見ぬいたひとには家紋入りの<seg type="ruby"><seg type="rb">印物</seg><seg type="rp">（</seg><seg type="rt">しるしもの</seg><seg type="rp">）</seg></seg>をくれるという噂が立っているンです。……<seg type="ruby"><seg type="rb">金春町</seg><seg type="rp">（</seg><seg type="rt">こんぱるまち</seg><seg type="rp">）</seg></seg>のお兼の女髪結へ寄って見ましたが、なるほどたいへんな評判。髪を結いに来ている娘や芸者が髪などはそっちのけでズラリと格子窓のそばへ並び、鮨売が来たらその中から大和屋を見つけて印物をもらうのだとたいへんな騒ぎをしておりました」<lb />
 　顎十郎は、<lb />
 「ほほう、そんなことがあるのか。それほどの評判を三人が三人ながら、きょうまで知らなかったというのは間ぬけた話。馬鹿なこともあるもんだ」<lb />
 　と言って、ひょろ松のほうへ振りかえり、<lb />
 「ひょろ松、じゃア、これは大和屋の仕業か」<lb />
 「芸はうまいが大和屋は名代の女たらし。このせつ評判がいいので図に乗ってそんなことをやったのではないでしょうか。……しかし、四人までも堅気の娘をおびき出してとじこめておくということになりゃア、これは大事件。名題昇進の披露を前にひかえて、いくら三津五郎でもそんな馬鹿はしなかろうとは思いますが、ことによったらことによる。これからすぐ中村座へ出かけて行って、三津五郎を問いつめてみようじゃありませんか。ひょっとしたら瓢箪から駒が出るかも知れない」<lb />
-　勘定をはらって、すぐ猿若町。ひょろ松がさきに立って楽屋口から頭取の座に入って行くと、ちょうど三番目の『<span type="ruby"><span type="rb">雨夜蓑笠</span><span type="rp">（</span><span type="rt">あまよのみのがさ</span><span type="rp">）</span></span>』の幕がおりたところで、三津五郎が芸者美代吉の<span type="ruby"><span type="rb">扮装</span><span type="rp">（</span><span type="rt">きつけ</span><span type="rp">）</span></span>で舞台から帰って来た。<lb />
+　勘定をはらって、すぐ猿若町。ひょろ松がさきに立って楽屋口から頭取の座に入って行くと、ちょうど三番目の『<seg type="ruby"><seg type="rb">雨夜蓑笠</seg><seg type="rp">（</seg><seg type="rt">あまよのみのがさ</seg><seg type="rp">）</seg></seg>』の幕がおりたところで、三津五郎が芸者美代吉の<seg type="ruby"><seg type="rb">扮装</seg><seg type="rp">（</seg><seg type="rt">きつけ</seg><seg type="rp">）</seg></seg>で舞台から帰って来た。<lb />
 　ひょろ松が声をかけると、三津五郎はちょっと顔色を変えたが、悪びれたようすもなく、三人をじぶんの部屋へ案内した。顎十郎は、のほんとした口調で、<lb />
 「なア大和屋、このせつ江戸でたいへんな評判になっているものがあるんだが、ご存じか」<lb />
 　三津五郎は、嚥みこめぬ顔で、<lb />
@@ -192,33 +192,33 @@
 　三津五郎は、膝に手をおいて聴いていたが、顎十郎がいいおわると、静かに顔をあげて、<lb />
 「とんだお褒めで痛み入ります。嘘ではあれ、その言葉にたいしてはお礼を申しのべますが、きょうお出かけになりましたのは、わたくしをお褒めになるためではございますまい」<lb />
 　と言って、キッパリとした顔つきになり、<lb />
-「お先走ったことを申しあげるようですが、こうして揃ってお出かけになったのは、この三津五郎をお<span type="ruby"><span type="rb">手当</span><span type="rp">（</span><span type="rt">てあて</span><span type="rp">）</span></span>なさろうため」<lb />
+「お先走ったことを申しあげるようですが、こうして揃ってお出かけになったのは、この三津五郎をお<seg type="ruby"><seg type="rb">手当</seg><seg type="rp">（</seg><seg type="rt">てあて</seg><seg type="rp">）</seg></seg>なさろうため」<lb />
 　ひょろ松は、グイと膝をすすめて、<lb />
 「そう言い出すからには、なにか身におぼえがあるというわけか。さもなけりゃア、すこし察しがよすぎるようだな」<lb />
 　三津五郎は手をあげて、<lb />
-「ちょっとお待ちくださいませ。身に覚えはありませんが、わたくしの身に<span type="ruby"><span type="rb">濡衣</span><span type="rp">（</span><span type="rt">ぬれぎぬ</span><span type="rp">）</span></span>がかかるわけは存じております。……千住三丁目の大桝屋さんはわたしの永のご<span type="ruby"><span type="rb">贔屓</span><span type="rp">（</span><span type="rt">ひいき</span><span type="rp">）</span></span>。そのお娘御のお文さんというのが、鮨売に来たわたくしから印物をもらうんだと言って駈けだしたまま、今もって行きがた知れずになっている。たぶんお前の仕業だろうというので大桝屋の旦那が隠れるようにしてこっそりわたくしのところへやっておいでになりまして、これをおもて立てれば自分一家の恥だから、そうと気がついていたがわざと手先の耳にも入れずにおいた。今のうちに返してくれさえすれば胸をさすって内分にしてやるからという意外なお話。わたくしといたしましては寝耳に水。まるで狐につままれたような気持。……名題昇進の披露に『小鰭の鮨売』の新作所作を出しますことはまだまだ先のことで、わたくしと座元と頭取の三人の胸にだけあること。どうして洩れたのか、それさえ訝しく思うくらい。いわんや、わたくしが鮨売になって町をふれ歩き、わたくしと見やぶった人に印物をくれるなどというのは思いもよらぬことなのでございます」<lb />
+「ちょっとお待ちくださいませ。身に覚えはありませんが、わたくしの身に<seg type="ruby"><seg type="rb">濡衣</seg><seg type="rp">（</seg><seg type="rt">ぬれぎぬ</seg><seg type="rp">）</seg></seg>がかかるわけは存じております。……千住三丁目の大桝屋さんはわたしの永のご<seg type="ruby"><seg type="rb">贔屓</seg><seg type="rp">（</seg><seg type="rt">ひいき</seg><seg type="rp">）</seg></seg>。そのお娘御のお文さんというのが、鮨売に来たわたくしから印物をもらうんだと言って駈けだしたまま、今もって行きがた知れずになっている。たぶんお前の仕業だろうというので大桝屋の旦那が隠れるようにしてこっそりわたくしのところへやっておいでになりまして、これをおもて立てれば自分一家の恥だから、そうと気がついていたがわざと手先の耳にも入れずにおいた。今のうちに返してくれさえすれば胸をさすって内分にしてやるからという意外なお話。わたくしといたしましては寝耳に水。まるで狐につままれたような気持。……名題昇進の披露に『小鰭の鮨売』の新作所作を出しますことはまだまだ先のことで、わたくしと座元と頭取の三人の胸にだけあること。どうして洩れたのか、それさえ訝しく思うくらい。いわんや、わたくしが鮨売になって町をふれ歩き、わたくしと見やぶった人に印物をくれるなどというのは思いもよらぬことなのでございます」<lb />
 　ちょっと言葉を切り、<lb />
-「……ところで、わたくしが鮨の呼売りをして歩いたと言われている八ツから七ツまでの時刻には、毎日寺島の寮で父親の看病をしておりまして、そこから楽屋入りをしておりますような次第。その時刻にわたくしが寮におりましたことは、大勢、証人がございます。……それで、大桝屋の旦那を寺島村の寮までお<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">ともな</span><span type="rp">）</span></span>い申し、わたくしが鮨の呼売りなどが出来なかった次第を実証いたしましたところ、それでようやくお疑いがとけたというわけでございました。……それにもうひとつ、わたくしの身のあかしを立てることがございます。只今のお言葉のうちに、わたくしがじぶんで鮨売になって市中を徘徊したという<span type="ruby"><span type="rb">条</span><span type="rp">（</span><span type="rt">くだり</span><span type="rp">）</span></span>がございましたが、憚りながら、それは役者というものをご存じのないおかんがえ、小鰭の鮨売の型をとるためなら決して、じぶんで鮨売などにはなりません。鮨売の後からついて歩いて、声の調子やメリハリの細かい勘どころを仔細に見とりいたします。じぶんが鮨売になったのではそういう見とりは出来ません。なにとぞ、そのへんのところも、しかるべくおかんがえあわせくださいませ」<lb />
+「……ところで、わたくしが鮨の呼売りをして歩いたと言われている八ツから七ツまでの時刻には、毎日寺島の寮で父親の看病をしておりまして、そこから楽屋入りをしておりますような次第。その時刻にわたくしが寮におりましたことは、大勢、証人がございます。……それで、大桝屋の旦那を寺島村の寮までお<seg type="ruby"><seg type="rb">伴</seg><seg type="rp">（</seg><seg type="rt">ともな</seg><seg type="rp">）</seg></seg>い申し、わたくしが鮨の呼売りなどが出来なかった次第を実証いたしましたところ、それでようやくお疑いがとけたというわけでございました。……それにもうひとつ、わたくしの身のあかしを立てることがございます。只今のお言葉のうちに、わたくしがじぶんで鮨売になって市中を徘徊したという<seg type="ruby"><seg type="rb">条</seg><seg type="rp">（</seg><seg type="rt">くだり</seg><seg type="rp">）</seg></seg>がございましたが、憚りながら、それは役者というものをご存じのないおかんがえ、小鰭の鮨売の型をとるためなら決して、じぶんで鮨売などにはなりません。鮨売の後からついて歩いて、声の調子やメリハリの細かい勘どころを仔細に見とりいたします。じぶんが鮨売になったのではそういう見とりは出来ません。なにとぞ、そのへんのところも、しかるべくおかんがえあわせくださいませ」<lb />
 　顎十郎はうなずいて、<lb />
 「今までつくづく伺っていたが、お前さんの話に嘘はない。……八ツから七ツまでのあいだ、寮にいたかいないか、そんなことはともかく、わたしならば鮨売にはならないだろうというひと言が、お前さん、はっきりと無実を言いといている。……なるほど、こいつは理屈だ。型をとるのにじぶんが鮨屋になるやつはない。もっとも過ぎておかしなくらい。なぜそういうことに今まで気がつかなかったか」<lb />
 　いつになく殊勝らしいことを言っておいて、<lb />
-「こうなったら正直にぶちまけるが、今のお前さんの話を聴くまでは、鮨売にばかり眼をつけて、ほかのことはかんがえて見るひまがなかった。この件のおさまりがついたら、それはお前さんのお手柄。……ようやくこれでハッキリしたが、すると、こんどの件はこういう筋なのにちがいない。……お前さんによく似たどこかの<span type="ruby"><span type="rb">悪</span><span type="rp">（</span><span type="rt">わる</span><span type="rp">）</span></span>が、お前さんがこんど小鰭の鮨売の所作を出すということを盗み聞き、三津五郎が鮨売の型をとるために、鮨売になってふれ売りして歩く<span type="ruby"><span type="rb">候</span><span type="rp">（</span><span type="rt">そうろう</span><span type="rp">）</span></span>の、印物をくれるのと髪床や風呂で評判を立て、本気にして駈けだして来る娘たちをそのまま引っさらって行ったという寸法なのだろう」<lb />
+「こうなったら正直にぶちまけるが、今のお前さんの話を聴くまでは、鮨売にばかり眼をつけて、ほかのことはかんがえて見るひまがなかった。この件のおさまりがついたら、それはお前さんのお手柄。……ようやくこれでハッキリしたが、すると、こんどの件はこういう筋なのにちがいない。……お前さんによく似たどこかの<seg type="ruby"><seg type="rb">悪</seg><seg type="rp">（</seg><seg type="rt">わる</seg><seg type="rp">）</seg></seg>が、お前さんがこんど小鰭の鮨売の所作を出すということを盗み聞き、三津五郎が鮨売の型をとるために、鮨売になってふれ売りして歩く<seg type="ruby"><seg type="rb">候</seg><seg type="rp">（</seg><seg type="rt">そうろう</seg><seg type="rp">）</seg></seg>の、印物をくれるのと髪床や風呂で評判を立て、本気にして駈けだして来る娘たちをそのまま引っさらって行ったという寸法なのだろう」<lb />
 　三津五郎は、おとなしくうなずいて、<lb />
 「差しでがましいと思って、今まで控えておりましたが、大桝屋さんのおはなしがあったとき、たぶんそのへんのところだろうと、わたくしもかんがえておりましたのです」<lb />
 　顎十郎は、急に改まって、<lb />
 「話がここまでくりゃア、この事件のヤマが見えたも同然。それについても大和屋、お前さんにひとつ頼みたいことがあるんだが……」<lb />
-「はい、どんなことですか存じませんが、わたくしの身に<span type="ruby"><span type="rb">叶</span><span type="rp">（</span><span type="rt">かな</span><span type="rp">）</span></span>うことでしたら」<lb />
+「はい、どんなことですか存じませんが、わたくしの身に<seg type="ruby"><seg type="rb">叶</seg><seg type="rp">（</seg><seg type="rt">かな</seg><seg type="rp">）</seg></seg>うことでしたら」<lb />
 「頼みというのはほかではない。明日から当分のあいだ、小鰭の鮨売になって市中を呼び売りして歩いてもらいたいんだ」<lb />
 「それで、どうしようとおっしゃるので」<lb />
-「こんどの件はそいつが娘をさそいだす現場をおさえるのでもなければ、取っちめることはもちろん、四人の娘を隠してある場所へさぐりよることも出来ない。そのためには、むこうを油断させ、釣りだして<span type="ruby"><span type="rb">桝落</span><span type="rp">（</span><span type="rt">ますおと</span><span type="rp">）</span></span>しにかけるほかはないんだが、大袈裟に鮨売の総ざらいなどとやったあとだからむこうも用心してちっとやそっとのことでは気をゆるすまい。……大和屋さん。お前さんが明日から当分のあいだ、噂の通りに小鰭の鮨売になり、わざと眼につくように印物でもくばって歩いてくれりゃア市中にパッと評判が立つから、勢いむこうも気をゆるして引っかかってくるにちがいないと思うんだ。……その悪が一日も早くお手当になれば、お前さんの気持もさっぱりするわけなんだから、災難だとあきらめて、ひとつ手を貸してもらいたい。どんなもんだろう、大和屋」<lb />
+「こんどの件はそいつが娘をさそいだす現場をおさえるのでもなければ、取っちめることはもちろん、四人の娘を隠してある場所へさぐりよることも出来ない。そのためには、むこうを油断させ、釣りだして<seg type="ruby"><seg type="rb">桝落</seg><seg type="rp">（</seg><seg type="rt">ますおと</seg><seg type="rp">）</seg></seg>しにかけるほかはないんだが、大袈裟に鮨売の総ざらいなどとやったあとだからむこうも用心してちっとやそっとのことでは気をゆるすまい。……大和屋さん。お前さんが明日から当分のあいだ、噂の通りに小鰭の鮨売になり、わざと眼につくように印物でもくばって歩いてくれりゃア市中にパッと評判が立つから、勢いむこうも気をゆるして引っかかってくるにちがいないと思うんだ。……その悪が一日も早くお手当になれば、お前さんの気持もさっぱりするわけなんだから、災難だとあきらめて、ひとつ手を貸してもらいたい。どんなもんだろう、大和屋」<lb />
 　三津五郎は、一も二もなく、<lb />
-「貸すも貸さぬもございません。わたくしの手助けでそいつを捕えることが出来るなら、それこそ本望。名を<span type="ruby"><span type="rb">騙</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>られ、濡衣をきせられて嫌な思いをしたそのしかえし。むしろ、願ってもお役に立たせていただきたいところでございます」<lb />
+「貸すも貸さぬもございません。わたくしの手助けでそいつを捕えることが出来るなら、それこそ本望。名を<seg type="ruby"><seg type="rb">騙</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>られ、濡衣をきせられて嫌な思いをしたそのしかえし。むしろ、願ってもお役に立たせていただきたいところでございます」<lb />
 <lb />
 　　　出来すぎ<lb />
 <lb />
 　手近な浅草から始めて、下谷、本所、深川とふれ歩いて、ちょうどきょうが六日目。<lb />
-　三津五郎の鮨売をさきに立て、半丁ほど間をおいて職人か鳶かという風体に<span type="ruby"><span type="rb">服装</span><span type="rp">（</span><span type="rt">みなり</span><span type="rp">）</span></span>を変えたアコ長、とど助、ひょろ松の三人がさりげないようすで見えかくれにその後からついて行く。<lb />
-　お誂えどおり手拭いの吉原かぶりに白唐桟の細かい縞の着物。黒衿のかかった<span type="ruby"><span type="rb">千縞</span><span type="rp">（</span><span type="rt">せんしま</span><span type="rp">）</span></span>の半纒の肩へ鮨箱をかつぎ、麻裏草履の爪さきを反らせながら、うっとりするような美しい声で、<lb />
+　三津五郎の鮨売をさきに立て、半丁ほど間をおいて職人か鳶かという風体に<seg type="ruby"><seg type="rb">服装</seg><seg type="rp">（</seg><seg type="rt">みなり</seg><seg type="rp">）</seg></seg>を変えたアコ長、とど助、ひょろ松の三人がさりげないようすで見えかくれにその後からついて行く。<lb />
+　お誂えどおり手拭いの吉原かぶりに白唐桟の細かい縞の着物。黒衿のかかった<seg type="ruby"><seg type="rb">千縞</seg><seg type="rp">（</seg><seg type="rt">せんしま</seg><seg type="rp">）</seg></seg>の半纒の肩へ鮨箱をかつぎ、麻裏草履の爪さきを反らせながら、うっとりするような美しい声で、<lb />
 「すウしや、小鰭のすウし――」<lb />
 　と、触れてゆく。<lb />
 　なにしろ、所作と振り事にかけては五代目をしのぐと言われた名手の三津五郎。これが粋と鯔背の代表のような鮨売になっているんだから震いつきたくなるようないい姿。ちょっとした身体こなしにもきちんとキマっていて、なんとも言えず美しい。<lb />
@@ -232,26 +232,26 @@
 「はい、わたしが三津五郎。近々中村座で新作の所作を出しますについてなにとぞご贔屓に。はい、どうぞよろしく」<lb />
 　と、愛想をふりまく。<lb />
 　もうこのくらいに評判を立てておけばもう引っこんでもいいころ。鮨の呼売りはこの正午で中止にしようという申しあわせ。<lb />
-　<span type="ruby"><span type="rb">清住町</span><span type="rp">（</span><span type="rt">きよずみちょう</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「きよずみちょう」は底本では「さよずみちょう」］</span>のひとかわを呼売りしたらこれでチョンということにし、今までの骨折りやすめに深川の大清で四人で大騒ぎをしようというのでもう席まで取ってある。<lb />
+　<seg type="ruby"><seg type="rb">清住町</seg><seg type="rp">（</seg><seg type="rt">きよずみちょう</seg><seg type="rp">）</seg></seg><seg rend="notes" rendition="span">［＃ルビの「きよずみちょう」は底本では「さよずみちょう」］</seg>のひとかわを呼売りしたらこれでチョンということにし、今までの骨折りやすめに深川の大清で四人で大騒ぎをしようというのでもう席まで取ってある。<lb />
 　清住町を通りぬけて右に霊岸町へ折れまがる。片側は霊岸寺の長い塀。ひとっ気のないところだから三津五郎も気をぬいて、鮨、鮨といい加減にふれて行く。<lb />
-　ちょうど寺の門を通りすぎて五、六間行ったと思ったとき、門の中からひょろりと出てきた二十二三の<span type="ruby"><span type="rb">優形</span><span type="rp">（</span><span type="rt">やさがた</span><span type="rp">）</span></span>の男。<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-91/1-91-72.png" rend="gaiji" rendition="img" source="※(「ころもへん＋施のつくり」、第3水準1-91-72)" /></span><span type="rp">（</span><span type="rt">ふき</span><span type="rp">）</span></span>の厚い三枚重ねに三つ大の紋のついた小浜縮緬の紫の羽織をゾベリときかけ、天鵞絨の鼻緒のすがった雪駄の裏金をチャラめかしながら日本じゅうの役者をひとりで背負って立ったような気障なようすで、三津五郎のうしろからシャナリシャナリとついて行く。<lb />
+　ちょうど寺の門を通りすぎて五、六間行ったと思ったとき、門の中からひょろりと出てきた二十二三の<seg type="ruby"><seg type="rb">優形</seg><seg type="rp">（</seg><seg type="rt">やさがた</seg><seg type="rp">）</seg></seg>の男。<seg type="ruby"><seg type="rb"><seg change="gaiji" facs="../../../gaiji/1-91/1-91-72.png" rend="gaiji" rendition="img" source="※(「ころもへん＋施のつくり」、第3水準1-91-72)" /></seg><seg type="rp">（</seg><seg type="rt">ふき</seg><seg type="rp">）</seg></seg>の厚い三枚重ねに三つ大の紋のついた小浜縮緬の紫の羽織をゾベリときかけ、天鵞絨の鼻緒のすがった雪駄の裏金をチャラめかしながら日本じゅうの役者をひとりで背負って立ったような気障なようすで、三津五郎のうしろからシャナリシャナリとついて行く。<lb />
 　これが三津五郎と瓜ふたつ。おなじ腹から出た双生児でもこうまでは似ていまいと思われるほど。<lb />
 　いつの間に見とったのか肩の癖から足の運びまで、なにもかも三津五郎そっくり。<lb />
 　ひょろ松は、顎十郎の袖を引き、<lb />
 「えらいやつが飛びだして来ました。三津五郎のあとからもうひとり三津五郎が行きます」<lb />
-　偽の三津五郎のほうは、うしろから来る三人には気がつかないようでシャナシャナ歩いて行ったが、そのうちに霊岸寺の地つづきの冠木門から駈けだして来た娘にニッコリと笑いかけ、いやらしい<span type="ruby"><span type="rb">科</span><span type="rp">（</span><span type="rt">しぐさ</span><span type="rp">）</span></span>でおいでおいでと手まねきをした。<lb />
-　いまだ十六ぐらいの<span type="ruby"><span type="rb">初々</span><span type="rp">（</span><span type="rt">ういうい</span><span type="rp">）</span></span>しい美しい娘。羞かしそうに偽の三津五郎のそばへ寄って行って、顔を<span type="ruby"><span type="rb">赧</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>らめながらモジモジと身体をくねらせている。男は娘の肩へなれなれしく手をかけ、耳に口をあててなにかしきりに囁いていたが、そのうちに<span type="ruby"><span type="rb">中大工町</span><span type="rp">（</span><span type="rt">なかだいくちょう</span><span type="rp">）</span></span>のかどで客待ちしていた辻駕籠を二挺よぶと、さきの駕籠に娘を乗せ、あとの駕籠にじぶんが乗って<span type="ruby"><span type="rb">扇橋</span><span type="rp">（</span><span type="rt">おうぎばし</span><span type="rp">）</span></span>のほうへ行く。<lb />
+　偽の三津五郎のほうは、うしろから来る三人には気がつかないようでシャナシャナ歩いて行ったが、そのうちに霊岸寺の地つづきの冠木門から駈けだして来た娘にニッコリと笑いかけ、いやらしい<seg type="ruby"><seg type="rb">科</seg><seg type="rp">（</seg><seg type="rt">しぐさ</seg><seg type="rp">）</seg></seg>でおいでおいでと手まねきをした。<lb />
+　いまだ十六ぐらいの<seg type="ruby"><seg type="rb">初々</seg><seg type="rp">（</seg><seg type="rt">ういうい</seg><seg type="rp">）</seg></seg>しい美しい娘。羞かしそうに偽の三津五郎のそばへ寄って行って、顔を<seg type="ruby"><seg type="rb">赧</seg><seg type="rp">（</seg><seg type="rt">あか</seg><seg type="rp">）</seg></seg>らめながらモジモジと身体をくねらせている。男は娘の肩へなれなれしく手をかけ、耳に口をあててなにかしきりに囁いていたが、そのうちに<seg type="ruby"><seg type="rb">中大工町</seg><seg type="rp">（</seg><seg type="rt">なかだいくちょう</seg><seg type="rp">）</seg></seg>のかどで客待ちしていた辻駕籠を二挺よぶと、さきの駕籠に娘を乗せ、あとの駕籠にじぶんが乗って<seg type="ruby"><seg type="rb">扇橋</seg><seg type="rp">（</seg><seg type="rt">おうぎばし</seg><seg type="rp">）</seg></seg>のほうへ行く。<lb />
 　三人は高はしょり、駕籠のあとについてトットと駈けだす。<lb />
 <lb />
 　向島の寺島村。<lb />
 　皮肉なことに、三津五郎の寮と田圃ひとつへだてた背中あわせ。大和屋になりすまし、五人の娘に取り巻かれてヤニさがっているところへ四人が踏みこんで、<lb />
 「この馬鹿野郎、飛んでもねえ真似をしやがる」<lb />
-　本所<span type="ruby"><span type="rb">横網町</span><span type="rp">（</span><span type="rt">よこあみまち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">薬種問屋</span><span type="rp">（</span><span type="rt">やくしゅどいや</span><span type="rp">）</span></span>、大松屋又蔵の三男の又三郎。これがひどい芝居気ちがい。三津五郎に似ていると近所の娘に騒がれるのでつけあがり、チラと耳にした評判と菊人形の三津五郎の小鰭の鮨売から思いついて、こんな大それたことをやった。<lb />
+　本所<seg type="ruby"><seg type="rb">横網町</seg><seg type="rp">（</seg><seg type="rt">よこあみまち</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">薬種問屋</seg><seg type="rp">（</seg><seg type="rt">やくしゅどいや</seg><seg type="rp">）</seg></seg>、大松屋又蔵の三男の又三郎。これがひどい芝居気ちがい。三津五郎に似ていると近所の娘に騒がれるのでつけあがり、チラと耳にした評判と菊人形の三津五郎の小鰭の鮨売から思いついて、こんな大それたことをやった。<lb />
 　風呂や髪床で、でたらめな評判を振りまいて歩いたのも、言うまでもなく、この又三郎。<lb />
 「それにしても、馬鹿にも智慧。じぶんが鮨売にならずに、役者の着つけでそのうしろから行き、濡衣のほうは鮨売にひっかぶせて、じぶんのほうはぬけぬけと娘を引きだそうという阿呆は阿呆なりによくかんがえたもンだ。小鰭の鮨売こそ、いい迷惑」<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

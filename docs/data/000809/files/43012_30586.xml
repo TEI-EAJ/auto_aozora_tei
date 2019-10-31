@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -45,7 +45,7 @@
 　イプセンの日本語譯を斯う上げてくると、立派に一つの大きな表が出來る。今一々それを敍説してゐるひまがないから、省略するとして、その出來榮えについて、概觀してみよう。と、いつても、私が手にとつて讀んだのは、僅少であるから、さう正確に言ふことは出來ない。然し、何よりもいけないことは、イプセンの日本譯のテキストが一つもノルウェイの原文を用ひたものでないことだ。せいぜいのところで、シュレンテルの獨逸譯によつたに過ぎない。他はレグラム版の獨譯か、乃至アーチャーの英譯である。<lb />
 　シュレンテル譯は、ドイツ語がうまかつたイプセンの目をとほした譯であるとか言つて、一番信用さるべきであらうが、それでも飜譯はやつぱり飜譯である。ドイツ語とノルウェイ語とは從兄弟同志ではあるにもせよ、比較して讀んでみると、感じがまるで違ふのである。その違つた感じを、更に、言語の構成がうんとかけ離れた日本語にうつすのであるから、どうしても遺憾の點が多からざるを得ない。<lb />
 　遺憾といへば、こんなやうな例がある。『人形の家』の初めの方に、ヘルメルがノーラの耳を引つ張つて冗談をいつてゐるところがある。その少しさきに、<lb />
-　Helmer, Nora, Nora, du <span rend="underline_solid" rendition="em" style="text-decoration: underline; line-style: solid">est</span><span rend="notes">［＃「est」は底本では「set」］</span> en Kvinde! Nej men alvorligt, Nora,<lb />
+　Helmer, Nora, Nora, du <seg rend="underline_solid" rendition="em" style="text-decoration: underline; line-style: solid">est</seg><seg rend="notes" rendition="span">［＃「est」は底本では「set」］</seg> en Kvinde! Nej men alvorligt, Nora,<lb />
 　といふ文句がある。英獨譯では、<lb />
 　H. What a woman you are! But seriously, Nora (W. Archer)<lb />
 　H. Nora, Nora! Aber im Ernst, liebes Kind (W. Lange)<lb />
@@ -64,6 +64,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

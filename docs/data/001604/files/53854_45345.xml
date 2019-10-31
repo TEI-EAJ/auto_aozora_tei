@@ -31,13 +31,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 波止場近くの白い船<lb />
 波が寄せます<lb />
 　タポ　タポン<lb />
 　ホラ　タポ　タポン<lb />
 <lb />
-<span type="ruby"><span type="rb">甲板</span><span type="rp">（</span><span type="rt">でつき</span><span type="rp">）</span></span>に並んだ白い服<lb />
+<seg type="ruby"><seg type="rb">甲板</seg><seg type="rp">（</seg><seg type="rt">でつき</seg><seg type="rp">）</seg></seg>に並んだ白い服<lb />
 海をみてます<lb />
 　トロ　トロリ<lb />
 　ホラ　トロ　トロリ<lb />
@@ -49,6 +49,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

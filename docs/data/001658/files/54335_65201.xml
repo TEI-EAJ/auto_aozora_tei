@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-06-27">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 底本の親本：「沖縄毎日新聞」<lb />
 　　　1909（明治42）年5月4日<lb />
@@ -35,15 +35,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-名護がよひ<span type="ruby"><span type="rb">薪</span><span type="rp">（</span><span type="rt">たきゞ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">積</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>む舟<lb />
-午後六時<span type="ruby"><span type="rb">入江</span><span type="rp">（</span><span type="rt">いりえ</span><span type="rp">）</span></span>に来る<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+名護がよひ<seg type="ruby"><seg type="rb">薪</seg><seg type="rp">（</seg><seg type="rt">たきゞ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">積</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>む舟<lb />
+午後六時<seg type="ruby"><seg type="rb">入江</seg><seg type="rp">（</seg><seg type="rt">いりえ</seg><seg type="rp">）</seg></seg>に来る<lb />
 舟の中みだらなる歌<lb />
-三味線のざれ<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>き聞ゆ<lb />
+三味線のざれ<seg type="ruby"><seg type="rb">弾</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>き聞ゆ<lb />
 おもしろき舟夫のなりはひ<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

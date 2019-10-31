@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 　　　　＊<lb />
 小川は濁っている<lb />
 ヤマメ、イワナのようなうまい小魚はもうそこへはのぼって来ない<lb />
@@ -42,7 +42,7 @@
 ただ禿山であり<lb />
 焼けたエゾ松の根株が淋しく黒く佇んで居り<lb />
 昔そこに美しい針葉樹林があり<lb />
-楡、タモ、栓、楢、紅葉、桜、胡桃、<span type="ruby"><span type="rb">白椛</span><span type="rp">（</span><span type="rt">シラカバ</span><span type="rp">）</span></span>の林があって<lb />
+楡、タモ、栓、楢、紅葉、桜、胡桃、<seg type="ruby"><seg type="rb">白椛</seg><seg type="rp">（</seg><seg type="rt">シラカバ</seg><seg type="rp">）</seg></seg>の林があって<lb />
 小鳥や兎達の楽しい場所であったことは<lb />
 きれいに忘れ去られている<lb />
 　　　　＊<lb />
@@ -54,6 +54,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

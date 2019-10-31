@@ -19,9 +19,9 @@
 <date when="1997-08-26">1997年8月26日</date>公開<lb />
 <date when="2013-08-13">2013年8月13日</date>修正<lb />
 青空文庫収録ファイル：<lb />
-このファイルは、著作権者自らの意思により、インターネットの図書館、<span corresp="http://www.aozora.gr.jp/" rendition="a">青空文庫（http://www.aozora.gr.jp/）</span>に収録されています。<lb />
+このファイルは、著作権者自らの意思により、インターネットの図書館、<seg corresp="http://www.aozora.gr.jp/" rendition="a">青空文庫（http://www.aozora.gr.jp/）</seg>に収録されています。<lb />
 <lb />
-<span corresp="http://creativecommons.org/licenses/by/2.1/jp/" rendition="a"><span facs="http://i.creativecommons.org/l/by/2.1/jp/88x31.png" rendition="img" source="クリエイティブ・コモンズ・ライセンス" style="border-width:0" /></span><lb /><span corresp="http://purl.org/dc/dcmitype/Text">青空のリスタート</span> by <span corresp="http://www.aozora.gr.jp/index_pages/person55.html" rendition="a">富田倫生</span> is licensed under a <span corresp="http://creativecommons.org/licenses/by/2.1/jp/" rendition="a">Creative Commons 表示 2.1 日本 License</span>.
+<seg corresp="http://creativecommons.org/licenses/by/2.1/jp/" rendition="a"><seg facs="http://i.creativecommons.org/l/by/2.1/jp/88x31.png" rendition="img" source="クリエイティブ・コモンズ・ライセンス" style="border-width:0" /></seg><lb /><seg corresp="http://purl.org/dc/dcmitype/Text" rendition="span">青空のリスタート</seg> by <seg corresp="http://www.aozora.gr.jp/index_pages/person55.html" rendition="a">富田倫生</seg> is licensed under a <seg corresp="http://creativecommons.org/licenses/by/2.1/jp/" rendition="a">Creative Commons 表示 2.1 日本 License</seg>.
 <lb />
 <lb />
 <lb />
@@ -41,8 +41,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">本書の履歴</span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">本書の履歴</seg></seg>
 <lb />
 『青空のリスタート』は、一九九二年九月三十日付けで、ソフトバンクから紙の本として出した。<lb />
 　一九九〇年一月号から一九九二年三月号にかけて、同社の『パソコン・マガジン』に「インサイドウォッチャー」と題して連載していたコラムを、まとめたものだ。<lb />
@@ -58,10 +58,10 @@
 　そのきしみが、本書の後書きにはないように思う。<lb />
 　弱い者が、弱いままに書いた言葉が、波紋のように静かに広がった印象を受ける。<lb />
 　ここできっと、私は何かを捨て、何かを得たのだろう。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">前書きに代えて</span></span>
+<seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">前書きに代えて</seg></seg>
 <lb />
 　高校の一年後輩だったＩ君が人生の再スタートを切るに当たっては、パーソナルコンピューターが相当大きな役割を演じたように思う。このおかしな機械があの時期に登場してこなければ、Ｉ君の沈滞はもう少し長く続いたのではなかろうか。<lb />
 　私達が高校生活を送った一九六○年代後半、世界中を学生運動の嵐が吹き荒れていた。地方の国立高校で進学希望者の多かった〈我が母校〉も、その嵐から無縁ではなかった。<lb />
@@ -71,7 +71,7 @@
 「半導体技術の目覚ましい進歩によってパーソナルコンピューターは生まれ、急速に普及していった」などと言われると、どうもひねくれの虫が騒ぎだす。ご指摘は一面においてなるほどごもっとも。けれど半導体技術が進歩すれば、トコロテンが押し出されるようにパーソナルコンピューターが生まれてくるものか。そこには何か発想の転換とでも呼ぶしかないものが介在し、それは技術という言葉が醸しだす無機的な印象とは正反対の、人間くさい要素と絡み合っているのではないかという気がしてならない。「半導体技術の進歩によって…」とする正論からは、社会と人間がすっぽり抜け落ちている。<lb />
 「マイクロプロセッサーを使って、コンピューターのおもちゃのようなものを作ってみよう」さらに一歩進んで「こいつで高級言語を走らせ、誰でも手のだせる個人用のコンピューターを作ろう」などという奇想天外なアイデアは、少なくともＩＢＭやＤＥＣからは、何年たってもでてこなかっただろう。<lb />
 　パーソナルコンピューターの誕生にあたって活躍した多くは、社会や大学からドロップアウトした若者であった。<lb />
-　アップル社を築いたスティーブン・ジョブズは一九五四年生まれ。彼は大学には一学期間顔を出しただけで、その後インドを二年間放浪。インドから帰るとオレゴンの果樹園でリンゴ作りにせいをだし、今度はエレクトロニクス仕掛けのリンゴ作りに転向した。アップル<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />をその手で作り上げたスティーブン・ウォズニアックは、会社が軌道に乗って大きくなりはじめるとビジネスにすっかり興味を失ってしまい、ウッドストック以来の大野外ロックコンサートを企画して大赤字をだした。マイクロソフト社のビル・ゲイツも、大学には一か月しかお世話になっていない。<lb />
+　アップル社を築いたスティーブン・ジョブズは一九五四年生まれ。彼は大学には一学期間顔を出しただけで、その後インドを二年間放浪。インドから帰るとオレゴンの果樹園でリンゴ作りにせいをだし、今度はエレクトロニクス仕掛けのリンゴ作りに転向した。アップル<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />をその手で作り上げたスティーブン・ウォズニアックは、会社が軌道に乗って大きくなりはじめるとビジネスにすっかり興味を失ってしまい、ウッドストック以来の大野外ロックコンサートを企画して大赤字をだした。マイクロソフト社のビル・ゲイツも、大学には一か月しかお世話になっていない。<lb />
 　パーソナルコンピューターとは、つくづくコンピューター界の鬼っ子に思えてならない。そしてこの鬼っ子を生みだしたのは、「体制」（これもずいぶんなつかしい言葉になった）に異を唱える時代の精神なのではなかろうか。<lb />
 　役所や大学のデータベースに、パーソナルコンピューターを使って不法にアクセスを試みるコンピューター犯罪。私はこうしたニュースを聞くと、何かしらそれが一面で社会の健全さを示しているような気がして、不謹慎にもホッとする。<lb />
 <lb />
@@ -95,13 +95,13 @@
 「著者絶賛！」というやつだ。<lb />
 　となるとほれ、「雑誌でもう読んだもんね」などと言ってはいられない。ましてや雑誌でも読まなかった上に、ここでまた本書を読み落とすとなると、心ある人は死んでも死に切れぬはずだ、多分。<lb />
 　そこで私としては、そんな不幸な人が一人でも減ることを、心から祈るばかりである。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">
 松田優作の霊前にぬかずいて<lb />
 役者馬鹿ＦＭ　ＴＯＷＮＳの大成を祈る<lb />
-</span></span>
+</seg></seg>
 <lb />
 　一九八九年十一月六日の夜、松田優作が死んだ。<lb />
 　その翌日は、息を切らして九段下を走ることになった。<lb />
@@ -216,13 +216,13 @@
 　だがあれはむしろ監督の村川透に文句を言うべきだろう。<lb />
 　そもそもオレは、あの手のアクション物に興味がないというだけの話かもしれない。<lb />
 　それでカンジンの優作だが、あらためて注意して見ると、最初からやつには「オヤ」と思わせるところがあるではないか。ただし光っているところはみんな、まるで原田芳雄にクリソツなんだけどね。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">
 台頭する低価格ソフトは<lb />
 「パーソナルコンピューターを一億人の必需品に変える」と吼えた<lb />
-</span></span>
+</seg></seg>
 <lb />
 　新宿の雑踏に紛れ込んだ田舎者を見つけるのは、幼稚園児の列に加わったジャイアント馬場を発見するよりたやすいことだ。<lb />
 　頭蓋骨を明けてみて落語の「ら」の字が大脳皮質に染み込んでいなければ、どんな口振りで何を喋ろうが、現住所をどこにおいていようが、そいつが田舎者であることに間違いはない。<lb />
@@ -311,13 +311,13 @@
 　今もまだ高いソフトはある。確かにあるのだが、アシストが先頭に立って押し出してきた低価格ソフトは、高値のソフトに値段相応の価値があるのかをつねに突き付ける。<lb />
 　この問いに答えられずに消えていくソフトは、ますます増えるだろう。これを進歩と言わずして、何が進歩か。<lb />
 　サポートに関しては「電話のコール三回以内でつながる」を謳い文句に、アシストは年中無休、午前九時から午後九時までの十二時間体制を組んだ。ちなみに今かけた電話は、二回目のコールで確かにつながった。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">
 革命児ダイナブックの背後に潜む<lb />
 目玉パワーの真実<lb />
-</span></span>
+</seg></seg>
 <lb />
 　パーソナルコンピューター業界の関係者を集めて勝ち抜きにらめっこ大会を催す企画は、どう考えてみても魅力に乏しい。<lb />
 　そもそもおっさんのにらめっこがとても面白いとは思えないという基本的欠陥に加えて、この企画には決定的な弱点がある。<lb />
@@ -387,13 +387,13 @@
 　この偉大なるオリジナル版に新たに寄せた「あのころはどんな時代だったのだろうか？」と題する前書きに、アラン・ケイは東芝の〈ダイナブック〉の評価にかかわる文言を記している。<lb />
 　どう書いてあるかって。それは次項を呼んだ後のお楽しみだ。<lb />
 　待てないのなら今すぐ本屋に飛び込んで、『アラン・ケイ』を買ってくれ。二十一頁を開けば、そこに答えが載っている。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">
 東芝流ダイナブックの可能性と限界を<lb />
 アラン・ケイの微笑みの陰に見た<lb />
-</span></span>
+</seg></seg>
 <lb />
 　母親の証言によると、オレは寝小便をかました後、親が怒りだす前に必ず先回りして泣いてしまう、繊細かつこずるいガキであったという。<lb />
 　その小心者根性は今もオレの血潮の中に脈々と流れていて、普段のオレには全体の構成を決めずにドシドシと原稿を書き始めてしまうといった、六万四千人の大観衆の前でシングル・マッチでデビュー戦に臨む北尾光司のような真似は、とてもできない。<lb />
@@ -494,13 +494,13 @@
 　アラン・ケイの種子を蒔く畑を耕したのは、貧相なベーシック・マシンやＣＰ／Ｍマシン、ＤＯＳマシンだ。<lb />
 　こうしたマシンに群がった我々の心に芽生えた、パーソナルコンピューターへの確信だ。<lb />
 　この大衆運動がなければ、彼がどこかの研究室で「経営陣がアホで」とぼやき続ける時間はもっともっと長かったはずだ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">
 ソフトハウスのオヤジとなったサリンジャーの憂鬱を<lb />
-吹き飛ばせ！　手書きパームトップ<span facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
-</span></span>
+吹き飛ばせ！　手書きパームトップ<seg facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
+</seg></seg>
 <lb />
 　一九九〇年に誕生したマシンのことを書こうと思っているにもかかわらず、頭の中では六〇年代が駆け巡っている。<lb />
 　これも「フィールド・オブ・ドリームズ」なんて映画を見たせいだ。<lb />
@@ -614,13 +614,13 @@
 <lb />
 　書籍化に手間取って原稿を手元においている間に、一九九二年五月二十九日、シカゴでこの製品に関するプレス発表があった。<lb />
 　こいつの名前は、ニュートンというのだそうだ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">
 ソニーのデビュー作、電気おかま越しに<lb />
 コンピューター産業激変のダイナミズムを見る<lb />
-</span></span>
+</seg></seg>
 <lb />
 　それでは第一問、ソニーの第一号製品は何でしょう。<lb />
 　はい、同社名誉会長の井深大クンから挙手がありました。<lb />
@@ -850,13 +850,13 @@
 　この流れをさらに一歩進めば、コンピューターらしいコンピューターと電脳家電との連係をどうやって付けるかが、すぐに課題として浮かび上がってくる。<lb />
 　お次ぎは家をどうするのだ、車をどうするのだ、さまざまなメディアとの関連はどう付けるのだと話は広がっていく。<lb />
 　行き着く先は、電脳社会をどうデザインするかとなるに決まっている。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi90">
 ＷｉｎｄｏｗｓはＭＳ―ＤＯＳの暗黒に<lb />
 一条の希望の光をさすか<lb />
-</span></span>
+</seg></seg>
 <lb />
 　ウイルスにやられた。<lb />
 　そうと気づかぬうちに潜り込んできたクソ虫が暴れだして以来の阿鼻叫喚、血と涙の今日に至る日々を振り返って、このオレがもっとも不幸だったのは「やられた」と観念した瞬間だった。<lb />
@@ -962,13 +962,13 @@
 「電脳家電のインターフェイスがそろって、おまえはそんなにうれしいか」って。<lb />
 　別にうれしかなんかねえよ。<lb />
 　ただオレのストレスを募らせるローカル・ルールの乱立を蹴飛ばせば、ウイルスに首を占められたオレの寿命が半日くらいは伸びやしないかと思っているだけさ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">
 目覚めよコンピューター！<lb />
 トッテン師匠からの四通のレッド・ペーパー<lb />
-</span></span>
+</seg></seg>
 <lb />
 　赤は最も危険を連想させる色である。<lb />
 　だからこそアシストのビル・トッテン社長は、アメリカの政府高官にあてた緊急提案書を、「レッド・ペーパー」と名付けたという。<lb />
@@ -1045,7 +1045,7 @@
 　やがて師匠の存在はテレビ屋さんの知るところとなり、サンデープロジェクトという日曜朝の番組からお声がかかった。<lb />
 　ここで「悪いのはアメリカだ」と身内叩きの痛快ネタを、枝雀顔負けの底の抜けた迫力で演じ切ったものだからもうたまらない。<lb />
 　以来あっちこっちの雑誌や新聞、テレビ番組から高座がかかり、師匠は大売れとあいなった。<lb />
-　ついには「日米マスコミ騒然<span facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" />」とオビに大書された本まで出た。<lb />
+　ついには「日米マスコミ騒然<seg facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" />」とオビに大書された本まで出た。<lb />
 　こいつのタイトルが実に、『日本は悪くない』である。<lb />
 　ところが師匠の人気が高まるだけ高まってくるにつれ、オレの胸のうちにはなにやらモヤモヤしたすっきりしないなにかが湧いてきた。<lb />
 「これは」と思った人物が、事実人気者になってくると嫉妬に近い感情を抱くという先物買いのファン心理かとも思ったが、どうもそれとも違う。ではこりゃいったい何だと考えているうちに、かつてオレの悪妻自慢に悪乗りした某の面つきが浮かんで、はたと膝を叩いた。ああこいつは、身内叩きネタを聞く日本の客の側への違和感だ。<lb />
@@ -1064,13 +1064,13 @@
 　敵は海千山千の名人だ。<lb />
 　至上の芸にただただうなっていれば、知らぬ間に身内叩きに悪乗りする客にされちまう。<lb />
 　腹の据わった名人の芸に向き合うのも、これでなかなか厄介だ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110">
 マイクロソフトワークスの統合する<lb />
 パーソナルコンピューターの生と死<lb />
-</span></span>
+</seg></seg>
 <lb />
 　揺り籠から伸びた人生のもう一方の端には、墓石がぶら下がっている。<lb />
 　生きるものの証である生命のパスポートの最終ページには、地獄行きか天国かは知らないが、ともかくもあの世行きの出国スタンプがあらかじめ押してある。<lb />
@@ -1109,7 +1109,7 @@
 　これを利用した、個人のためのコンピューターというアイデアにしびれたのだ。<lb />
 　古川がアルバイトで勤めていた秋葉原の店に集まる、生まれはじめたばかりのマイコン・マニアの中には、早稲田大学の学生であるという西和彦という名の青年がいた。<lb />
 　そして一九七七年二月、サンノゼで開かれたウエストコースト・コンピューター・フェアーをのぞいた体験が、その後の古川の進路を決定づけた。<lb />
-　アップル<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />が発表され、数多くのホラ吹きどもが講演者となってパーソナルコンピューターの未来にかける夢を思うままに語り、十代も半ばの小僧が紙テープに記録したソフトウエアを売り、山と詰まれた広告ビラがバタバタとはけていく先駆者達の祭りで、古川は完全に熱に浮かされた。<lb />
+　アップル<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />が発表され、数多くのホラ吹きどもが講演者となってパーソナルコンピューターの未来にかける夢を思うままに語り、十代も半ばの小僧が紙テープに記録したソフトウエアを売り、山と詰まれた広告ビラがバタバタとはけていく先駆者達の祭りで、古川は完全に熱に浮かされた。<lb />
 　かつて経験したことのない何かが、パーソナルコンピューター上に吹き出そうとしていることを直感したのだ。<lb />
 　帰国後西が創刊していた『アスキー』に記事を寄せはじめた古川は、本場の流れに直接触れようと、翌一九七八年、留学の名目で再度渡米する。<lb />
 　ここで西に「今入社すれば取締役にしてやるけれど、二年後にはお前の席はないぞ」と殺し文句をかまされ、同社の八番目の社員となった。<lb />
@@ -1141,13 +1141,13 @@
 　実は東芝のダイナブックが発売になった直後、オレは「これで日本語ワープロが滅ぶぞ」と鐘と太鼓であたりを触れて回った。まともなキーボードのついたパーソナルコンピューターがあのサイズにおさまり、二十万円を切ったことで、独自の〈使いやすさ〉をタコ壷にこもって追及する日本語ワープロに足を取られる犠牲者は、激減すると踏んだ。おまけに世界観の欠如したＭＳ―ＤＯＳの世界に、とりあえずそれらしき物を提供する統合ソフトの本命と予想されたワークスの発表を取り上げたここでも、「今もワープロは売ってるんだっけ？」などと書いている。<lb />
 　実に絵に描いたような「狼が来たぞ」で、情けないことおびただしい。<lb />
 　やけくそついでにもう少し「ワープロは滅んだ」とわめき続けておくので、どうぞハードウエア・ベンダーの方々、とりわけ世界市場で安売りに命をかけていらっしゃるかたは実売価格が十万円にくる線に使えるノートブック・マシンを早くぶつけて、棺桶に片足突っ込んだオレのライター生命をよみがえらせて欲しい。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">
 響け猪木の「ダーッ」コール<lb />
 低価格ＳＰＡＲＣ攻勢の彼方にサンの新必殺技の予兆を見る<lb />
-</span></span>
+</seg></seg>
 <lb />
 　バクダッドの空に、アントニオ猪木が吼えている。<lb />
 　なにしろ世紀末の最大の悪役と化したフセイン大統領率いるイラクに堂々乗り込んで、人質とされた日本人のうち高齢者と病人の解放を求めてしまうのだから、これを「吼える」と言わずして何が「吼える」か。<lb />
@@ -1249,13 +1249,13 @@
 　そうか、未来から付託された理想主義はそれほどに重いか。<lb />
 　もともと分化と多様性を排除しようとする、ガン細胞のようなこの国だ。歴史のパッチワークをかなぐり捨てて過去から繋がる今に閉じこもれば、それは効率の良い、強面の犯罪的な国ができる。<lb />
 　だが少なくともこのオレは、端正に織り上げられた日の丸の物言わぬ一目でおさまっている気はないからな。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">
 「二十四時間世話焼きマシンの決定版はこれじゃ！」<lb />
 坂村健、ビル・アトキンソン両大人は異口同音にかく語りき<lb />
-</span></span>
+</seg></seg>
 <lb />
 　激動の十月であった。<lb />
 　なにしろ第二回のマルチメディア国際会議に向けて、マイクロソフトのビル・ゲイツ会長は来るわ、ハイパーテキスト概念の創始者にして電脳哲学者のテッド・ネルソンは来るわ、ハイパーカードの開発でおなじみのビル・アトキンソンは来るわ。<lb />
@@ -1354,13 +1354,13 @@
 　少なくとも、より味わい深く人生を生きる手段としてコンピューターに向き合っているオレには、さっぱり見えなくなってしまうのだよ。<lb />
 　兄弟はオレをおいて皆アップルの回りにいる。<lb />
 　その皆さん、オレの声はあなたの耳に届きますか。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi140">
 二十一世紀の電脳キッズは<lb />
 ＴＲＯＮを笑うものを笑う<lb />
-</span></span>
+</seg></seg>
 <lb />
 「二十四時間世話焼きマシンと書かれたタマゴからは鬼がでるのか蛇がでるのか」<lb />
 　前項のオレからこの場のオレに託されたのは、果たしてこのタマゴから何がでてくるのかとの問いである。<lb />
@@ -1434,13 +1434,13 @@
 　である以上、彼らはエデンの園のアダムとイブとしてよりはむしろ、坂村健の掌の村のプリズナー・ナンバー６と自らを規定するだろう。きっと至るところにはりめぐらされた坂村健の美意識の網の目に唾を吐きかけ、これを破ろうとするはずだ。<lb />
 　そして電脳社会に穴をうがつ道具は、当然これまたコンピューターだ。<lb />
 　パーソナルコンピューターを生んだ時代精神には、我々はどんな神も戴かないとする薬味も効いていたと思う。こいつをたっぷりとかがされた私には、「美しい世界を先ず作るのだ」それも「一から私が全て作るのだ」と言われると、そこに強制移住を命じられる日の事を思ってとたんに不安になる。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi150">
 スーパーＤＴＰ「大地」は<lb />
 肥えだめの哀れな編集者を救うのか<lb />
-</span></span>
+</seg></seg>
 <lb />
 　ジャストシステムが発表したデスクトップ・パブリッシング・システム（場所ふさぎなので、以下はＤＴＰと書く。その実体は、パーソナルコンピューターを使って印刷のプロ並みの仕事をしようという、軽印刷業者抹殺プロジェクト。これを使って書類をきれいに作ることに飽き足らず、本や雑誌まで作ってしまうおっちょこちょいもいる）大地のことを考えているうちに、オレは縁側で渋茶をすすりつつ過ぎ去った日々を回顧するジイサマになった。<lb />
 　過去に置きざりにしてきた夢が、ついにかなう。編集作業について回る〈暗黒面〉を、パーソナルコンピューターで彼方に蹴飛ばしてしまうという若き日の夢が現実に変わりつつあると思うと、もういけなくなった。<lb />
@@ -1530,13 +1530,13 @@
 <lb />
 ＊と筆者も言っているので、今回はさっさと次へ進もう。<lb />
 　言い訳は二回分まとめて、次項のケツに付す。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi160">
 ＤＴＰソフト「大地」を継ぐものよ<lb />
 日本語デジタル処理を支援せよ<lb />
-</span></span>
+</seg></seg>
 <lb />
 　ジャストシステムの大地を見て、コンピューターによる日本語処理について考えた。<lb />
 　ワードプロセッサーは、日本語をデジタル化して処理する大きな入り口を作った。<lb />
@@ -1632,13 +1632,13 @@
 　日本語を組む上でのさまざまな細かな注文に答えられるよう備え、重箱の隅を突いては文句を垂れたがる因業親父を蹴散らすのだ。<lb />
 　お見事。<lb />
 　となれば今度は、標準に背を向ける根拠をもう一度ジャストシステムに聞く番だ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi170">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi170">
 「ＤＯＳ／Ｖ万歳」の雄叫びは<lb />
 なぜかマッキントッシュの博覧会に響き渡る<lb />
-</span></span>
+</seg></seg>
 <lb />
 　地の果ての幕張メッセで開かれたマッキントッシュの博覧会、マックワールド・エキスポの会場で、マック使いのライターのＴ田とバッタリ会った。<lb />
 　一九九一年二月の、寒かった日の出来事だ。<lb />
@@ -1754,13 +1754,13 @@
 　さらに安売り陣営は、ＤＯＳ／Ｖ市場をギンギンにたぎらせる火の玉となるだろう。<lb />
 　こりゃあいいや。<lb />
 　後はただ椎名の教えてくれた答えをオウム返しに繰り返していれば、しばらくはコラムのねたにも困らぬわいと、オレはそのとき小狡くもほくそ笑んでいたのだ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi180">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi180">
 Ｗｉｎｄｏｗｓ３・０満開の春に<lb />
 錯乱する我が魂はなおもアラン・ケイの掌で遊ぶ<lb />
-</span></span>
+</seg></seg>
 <lb />
 　かつて編集プロダクションのタコ部屋にこもっていた時代、オレは「海や山でごそごそ動き回るのは面白いものだぞ」という主旨の本を作ったことがある。<lb />
 　経験的に言って、編集プロダクションが絡むと本は痩せてくる。<lb />
@@ -1857,13 +1857,13 @@
 　そこから世の中で一騒動起こしている現実のパーソナルコンピューターに初めて目を向け、「ああ、歴史はこんなところまで来ているわけね」とつぶやいた。<lb />
 　一九八三年にアップルコンピュータがリサを、一九八四年にマッキントッシュを出すと、「はい、御苦労さん」と言った。<lb />
 　やつの体験した歴史はだいたいこんなもんである。目まぐるしくも何ともないが、本質的にはこれで足りているから腹が立つ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi190">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi190">
 パソコン創世記の終章を飾る<lb />
 アップル＝ＩＢＭの提携とアスキーのトロイカ体制の崩壊<lb />
-</span></span>
+</seg></seg>
 <lb />
 　アップルとＩＢＭが提携すると言いだしたかと思うと、西和彦さんといっしょにアスキーを引っ張ってきた郡司明郎さんと塚本慶一郎さんが辞めてしまった。<lb />
 　以来、この二つの事件に触れた記事に近づくと、視線が吸い寄せられたように止る。<lb />
@@ -1959,13 +1959,13 @@
 　今回のインプレスは取りあえず、俎上に載せる対象との直接の関連は持たずにスタートされるという。ただし釈迦に説法にはなるが、業界からの広告出稿に財政的基礎を置くパソコン誌で、健全な批判精神を発揮していくのは実に厄介だ。<lb />
 　ずさんであるとかとんでもなく詰めが甘いとか色々批判を浴びながらも、突っ込みには見るべきところのあった『Ｔｈｅ　ＣＯＭＰＵＴＥＲ』も、休刊になるとの知らせが届いた。<lb />
 　破れ去った側の片棒かつぎとしては、インプレスが何をどこまでやるかには、実に大きな期待と関心とがあるのです。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi200">
 ノートブックＢＴＲＯＮのデビューに<lb />
 誰がなんと言おうとオレは力いっぱいの拍手を送る<lb />
-</span></span>
+</seg></seg>
 <lb />
 　一九九一年八月七日、「俺はＢＴＲＯＮだ」と名乗るノートブック・マシンが発売されると新聞で読んだ。<lb />
 <lb />
@@ -2107,13 +2107,13 @@
 　標準に向かって風の吹くコンピューターの世界には、共通の財産とするのがよほど健全な基本的技術が育ってくる。<lb />
 　一企業の知的所有権の縛りから、いかにしてこれを解放するか。<lb />
 　ＩＢＭ産業スパイ事件以降、我々はこの問いに答えよと迫られている。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi210">
 『ホームコンピューター』の虚妄を現実に変える<lb />
 ＡＭＤ３８６互換チップの宣戦布告<lb />
-</span></span>
+</seg></seg>
 <lb />
 『Ｔｈｅ　ＣＯＭＰＵＴＥＲ』から「Ｗｉｎｄｏｗｓ３・０は流行るか」という、いまさらなにをとぼけているかといいたくなる座談会のお座敷がかかった。<lb />
 　末席をけがすとエム・ピー・テクノロジー社長の吉本万寿夫さんに、「こんな話はマッキントッシュが出た時点で、五、六年前にやっておくべきですよね」とかまされた。<lb />
@@ -2214,13 +2214,13 @@
 　大枠ではインテルの独占の打破という流れは、むしろ勢いを増している。ただしそうなればなおのこと、知的所有権をたてにしたインテルの反撃は強まるだろう。<lb />
 　この土俵上での争いは、現在の法的な枠組みに従って裁かれ、結論が出される。<lb />
 　ただし我々には、企業の知的所有権戦争の枠組みとは別の次元で、標準の技術を私的所有の枠の外に育てる権利と義務がある。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi220">
 二十四時間営業パワーセイブ『ホームコンピューター』に<lb />
 明日の我が家の電話番は任せたぜ！<lb />
-</span></span>
+</seg></seg>
 <lb />
 　前項のケツに「秋のコムデックスの速報を呼んで、オレの予想が外れていたら大笑いしてね」などと書いたら、これが見事に外れた。<lb />
 　でここで知らん顔を決め込むのも、実に芸がない。<lb />
@@ -2320,13 +2320,13 @@
 　この実体は、Ｗｉｎｄｏｗｓ用に開発された、参照とオーサリング（タイトル作り）のためのプログラムである。<lb />
 　タイトルの提供者は、ＭＳ―ＤＯＳのレベルで自分流の参照と検索のための環境を用意することもできる。加えてマルチメディア・ビュアーを利用すれば、Ｗｉｎｄｏｗｓの流儀にしたがった出来合いの環境も利用可能である。<lb />
 　まさに新手の情報家電をＰＣの資産を活かして作り、Ｗｉｎｄｏｗｓで仕上げの化粧を施そうというわけだ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi230">
 ある神経症患者の告白！<lb />
-コンピューター一九九一、ここが私は怖かった<span facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
-</span></span>
+コンピューター一九九一、ここが私は怖かった<seg facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
+</seg></seg>
 <lb />
 　黒澤明の一九五五年の作品に、「生きものの記録」というビョーキ的映画がある。<lb />
 　ビキニ島でアメリカが行なった水爆実験で、第五福竜丸が死の灰を浴びたのが前年。実験と称して、大気中で米ソがドンパチぶっぱなす原水爆への不安に真正面から取り組んだ作品で、これが実に重苦しい。<lb />
@@ -2418,13 +2418,13 @@
 　表立って口にはしてこなかったが、唯一日本だけが守り通してきた世界との壁がＤＯＳ／Ｖによって崩れれば、日本企業は少なくとも当面は大きな打撃を受けるだろう。ＤＯＳ／Ｖの波に乗る資格をもっているのは、少なくとも当面はＰＣ市場で激しいたたき合いを演じてきたアメリカとＮＩＥＳの企業だろう。<lb />
 　事ここに至るにあたっては、半導体摩擦を口実とした百パーセントの制裁関税を一九八七年に米政府が実施したことは、ボディー・ブローのように後々まできいてきた。ただし〇〇さん、それでも言いたいのですが、日本の企業は独占でとげを抜かれた日本市場に救いを求めてしまう前、ＰＣ互換市場に挑戦的に乗り込んで成果を上げていたではないですか。<lb />
 　もしもあの日の青空をリスタートしたいと望むなら、世界の競争にもう一度身をさらし、そこから立ち上がるしかないのではないでしょうか。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi240">
 ダウンサイジングと呼ばれる戦場で<lb />
 メインフレームは誰に破れたのか<lb />
-</span></span>
+</seg></seg>
 <lb />
 　父と母はもはや、永続的に共同生活を維持していく状態にないと初めて知らされたのは、オレが小学校四年生の時だった。<lb />
 　二人の遺伝情報複合体の指令に従って、我が肉体が形成されているという知識は、当時のオレにはなかった。だが、自分自身が父と母の結び付きの産物であることは、骨の髄から湧き上がってくる直感によって知っていた。<lb />
@@ -2544,13 +2544,13 @@
 　パーソナルコンピューターの誕生以来、せっかく物事をヒト一人の足元から組み立てる流儀をこの世界でも育ててきた我々だ。大型から流れてきた連中が組織の運用効率の観点からネットワークを語るのは、そりゃあやつらの性分だからしょうがない。ただしそんなものに、皆がいかれる必要はさらさらありゃしない。<lb />
 　自らの思うところを、電子化された空間で他者とどう共有していくか。<lb />
 　電子掲示板上で実におぞましい罵詈雑言のぶつけ合いなど見るにつけ、心に引っ掛かるのはその点だ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi250">
 ヒト一人のための明日のコンピューターは<lb />
 タイプライターのエピゴーネンじゃない<lb />
-</span></span>
+</seg></seg>
 <lb />
 「それがナンなの」とタモリにかまされてから、ヒト一人のためのコンピューティングの明日について考え込んだ。<lb />
 　タモリのやっている「音楽は世界だ」というテレビ番組の「デジタモ・ドン」というコーナーを、ボーっと眺めていた時のことだ。<lb />
@@ -2647,10 +2647,10 @@
 　今ごろになってＷｉｎｄｏｗｓがはやり、マッキントッシュの選択がようやく認知される足の遅い世界のことだ。<lb />
 　ＤＯＳの環境に手書きを持ち込むＣＩＣのＰｅｎＤＯＳに続いて、一九九二年四月にはＧＯのＰｅｎＰｏｉｎｔとマイクロソフトの Windows for Pen Computing がアメリカ市場で出荷となったが、市場で弾みがつくのにはまだ時間がかかるだろう。<lb />
 　ただしオレが連載に区切りを付けたこの時点で、抜けるような青空のリスタート・ボタンは確かに押されたのだ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">後書き</span></span>
+<seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi260">後書き</seg></seg>
 <lb />
 　公園の深い緑に半分飲み込まれたような今のアパートで暮らし始めてから、もう五年近くたった。<lb />
 　移ってきたのは雨のクリスマスの日で、知らぬ間にいやほど増えていた荷物にもう引越はこりごりだと思ったのを覚えている。だが、冬が過ぎて初めての春が来るころには、新しい環境がすっかり気に入っていた。<lb />
@@ -2684,6 +2684,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

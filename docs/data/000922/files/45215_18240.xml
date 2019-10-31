@@ -34,14 +34,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-<span rend="jisage_9" rendition="div" style="margin-left: 9em">
+<seg rend="jisage_9" rendition="div" style="margin-left: 9em">
 「法治主義」の研究は、現代の国家および法律を研究せんとする者にとって、きわめて大切である。私がそのことをいろいろと考えていた際、たまたま東京日日新聞社から何か書けという依頼を受けて、ふと筆をとったのがそもそも本稿の出来上った由来であって、内容は主として法治国と官僚主義との関係を取り扱ったものである。書いた時期は大正一一年の六月下旬である。<lb />
-</span>
-<span rend="notes">［＃改ページ］</span><lb />
+</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　　　　　一<lb />
 <lb />
@@ -154,6 +154,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

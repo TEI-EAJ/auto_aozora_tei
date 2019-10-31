@@ -33,7 +33,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 からす<lb />
 からす<lb />
 巣にかへれ<lb />
@@ -42,9 +42,9 @@
 時雨が<lb />
 やつてきた<lb />
 <lb />
-<span type="ruby"><span type="rb">雀</span><span type="rp">（</span><span type="rt">すずめ</span><span type="rp">）</span></span>も<lb />
+<seg type="ruby"><seg type="rb">雀</seg><seg type="rp">（</seg><seg type="rt">すずめ</seg><seg type="rp">）</seg></seg>も<lb />
 かへれ<lb />
-<span type="ruby"><span type="rb">竹藪</span><span type="rp">（</span><span type="rt">たけやぶ</span><span type="rp">）</span></span>へ<lb />
+<seg type="ruby"><seg type="rb">竹藪</seg><seg type="rp">（</seg><seg type="rt">たけやぶ</seg><seg type="rp">）</seg></seg>へ<lb />
 <lb />
 たうげの<lb />
 しぐれが<lb />
@@ -52,6 +52,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

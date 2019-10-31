@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-12-09">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 初出：「琉球新報」<lb />
 　　　1911（明治44）年12月3日<lb />
@@ -34,8 +34,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-　　　　　<span facs="../../../gaiji/1-03/1-03-27.png" rend="gaiji" rendition="img" source="※(蛇の目、1-3-27)" /><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+　　　　　<seg facs="../../../gaiji/1-03/1-03-27.png" rend="gaiji" rendition="img" source="※(蛇の目、1-3-27)" /><lb />
 <lb />
 温たかき玉は、君が手より、<lb />
 すべり落ちぬ。<lb />
@@ -44,16 +44,16 @@
 　　　あゝ君は淋しき人なり。<lb />
 　　　君はいや更に悲しめ！<lb />
 　　　もだへ、苦しむは君のさがなり。<lb />
-<span rend="sesame_dot" rendition="em">ぬめらか</span>なる玉は、すべり安く、<lb />
-<span rend="sesame_dot" rendition="em">ふしくれ</span>だちし手には、<lb />
+<seg rend="sesame_dot" rendition="em">ぬめらか</seg>なる玉は、すべり安く、<lb />
+<seg rend="sesame_dot" rendition="em">ふしくれ</seg>だちし手には、<lb />
 あまりに痛ましく、たへがたく――<lb />
-すべり落つるも、<span rend="sesame_dot" rendition="em">ことわり</span>なり。<lb />
+すべり落つるも、<seg rend="sesame_dot" rendition="em">ことわり</seg>なり。<lb />
 　　　あゝ君は淋しき人なり。<lb />
 　　　君はいや更に悲しめ！<lb />
 　　　もだへ、苦しむは君のさがなり<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

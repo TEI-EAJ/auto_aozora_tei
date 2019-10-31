@@ -32,11 +32,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ながれたり<lb />
 　　夜はあやしく陥りて<lb />
 　　ゆらぎ出でしは一むらの<lb />
-　　陰極線の<span type="ruby"><span type="rb">盲</span><span type="rp">（</span><span type="rt">しひ</span><span type="rp">）</span></span>あかり<lb />
+　　陰極線の<seg type="ruby"><seg type="rb">盲</seg><seg type="rp">（</seg><seg type="rt">しひ</seg><seg type="rp">）</seg></seg>あかり<lb />
 　　また螢光の青らむと<lb />
 　　かなしく白き偏光の類<lb />
 ましろに寒き川のさま<lb />
@@ -67,7 +67,7 @@
 <lb />
 髪みだれたるわかものの<lb />
 筏のはじにとりつけば<lb />
-筏のあるじ<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">まみ</span><span type="rp">）</span></span>赤く<lb />
+筏のあるじ<seg type="ruby"><seg type="rb">瞳</seg><seg type="rp">（</seg><seg type="rt">まみ</seg><seg type="rp">）</seg></seg>赤く<lb />
 頬にひらめくいかりして<lb />
 わかものの手を解き去りぬ<lb />
 <lb />
@@ -109,6 +109,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

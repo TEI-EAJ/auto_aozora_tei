@@ -34,11 +34,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ありがたい静かなこの夕べ、<lb />
 何とて我が心は波うつ。<lb />
 <lb />
-いざ今宵<span type="ruby"><span type="rb">一夜</span><span type="rp">（</span><span type="rt">ひとよ</span><span type="rp">）</span></span>は<lb />
+いざ今宵<seg type="ruby"><seg type="rb">一夜</seg><seg type="rp">（</seg><seg type="rt">ひとよ</seg><seg type="rp">）</seg></seg>は<lb />
 われととり出でたこの心の臓を<lb />
 窓ぎはの白き皿に載せ、<lb />
 心静かに眺めあかさう。<lb />
@@ -46,6 +46,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 　第一幕の登場人物<lb />
 李中行<lb />
 その妻　柳<lb />
@@ -42,30 +42,30 @@
 その娘　阿香<lb />
 高田圭吉<lb />
 旅の男<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_10" rendition="div" style="margin-left: 10em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">第一幕</span></span></span>
+<seg rend="jisage_10" rendition="div" style="margin-left: 10em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">第一幕</seg></seg></seg>
 <lb />
 　時は現代。陰暦八月十五日のゆうぐれ。<lb />
-　満州、大連市外の村はずれにある李中行の家。すべて農家の作りにて、家内の大部分は土間。正面には出入りの扉ありて、下のかたの壁には簑笠などをかけ、その下には<span type="ruby"><span type="rb">鋤</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>またや<span type="ruby"><span type="rb">鍬</span><span type="rp">（</span><span type="rt">くわ</span><span type="rp">）</span></span>などの農具を置いてあり。その傍らには大いなる<span type="ruby"><span type="rb">土竃</span><span type="rp">（</span><span type="rt">どがま</span><span type="rp">）</span></span>ありて、棚には茶碗、小皿、鉢などの食器をのせ、竃のそばには焚物用の<span type="ruby"><span type="rb">高粱</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>を<span rend="notes">［＃「<span type="ruby"><span type="rb">高粱</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>を」は底本では「<span type="ruby"><span type="rb">高梁</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>を」］</span>束ねたるを積み、水を入れたるバケツなどもあり。よきところに木卓を置き、おなじく三四脚の<span type="ruby"><span type="rb">木榻</span><span type="rp">（</span><span type="rt">もくとう</span><span type="rp">）</span></span>あり。下のかたには窓あり。上のかたは寝室のこころにて、ここにも出入りの扉あり。家の外には柳の大樹、その下に石の井戸あり。うしろは高粱の<span rend="notes">［＃「高粱の」は底本では「高梁の」］</span>畑を隔てて、大連市街の灯が遠くみゆ。<lb />
-（家の妻柳、四十余歳。高粱を<span rend="notes">［＃「高粱を」は底本では「高梁を」］</span>折りくべて、竃の下に火を焚いている。家内は薄暗く、水の音遠くきこゆ。下のかたより家の娘阿香、十七八歳、印刷工場の女工のすがたにて、高田圭吉と連れ立ちて出づ。高田は二十四五歳、おなじく印刷職工の姿。）<lb />
-高田　（窓から内を覗く。）<span type="ruby"><span type="rb">阿母</span><span type="rp">（</span><span type="rt">おっか</span><span type="rp">）</span></span>さんは火を焚いているようだ。じゃあ、ここで別れるとしよう。<lb />
-阿香　あら、内へ<span type="ruby"><span type="rb">這入</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>らないの。<lb />
-高田　まあ、止そう。毎晩のように尋ねて行くと、お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>さんや阿母さんにうるさがられる。第一、僕も極まりが悪いからな。<lb />
+　満州、大連市外の村はずれにある李中行の家。すべて農家の作りにて、家内の大部分は土間。正面には出入りの扉ありて、下のかたの壁には簑笠などをかけ、その下には<seg type="ruby"><seg type="rb">鋤</seg><seg type="rp">（</seg><seg type="rt">すき</seg><seg type="rp">）</seg></seg>またや<seg type="ruby"><seg type="rb">鍬</seg><seg type="rp">（</seg><seg type="rt">くわ</seg><seg type="rp">）</seg></seg>などの農具を置いてあり。その傍らには大いなる<seg type="ruby"><seg type="rb">土竃</seg><seg type="rp">（</seg><seg type="rt">どがま</seg><seg type="rp">）</seg></seg>ありて、棚には茶碗、小皿、鉢などの食器をのせ、竃のそばには焚物用の<seg type="ruby"><seg type="rb">高粱</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>を<seg rend="notes" rendition="span">［＃「<seg type="ruby"><seg type="rb">高粱</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>を」は底本では「<seg type="ruby"><seg type="rb">高梁</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>を」］</seg>束ねたるを積み、水を入れたるバケツなどもあり。よきところに木卓を置き、おなじく三四脚の<seg type="ruby"><seg type="rb">木榻</seg><seg type="rp">（</seg><seg type="rt">もくとう</seg><seg type="rp">）</seg></seg>あり。下のかたには窓あり。上のかたは寝室のこころにて、ここにも出入りの扉あり。家の外には柳の大樹、その下に石の井戸あり。うしろは高粱の<seg rend="notes" rendition="span">［＃「高粱の」は底本では「高梁の」］</seg>畑を隔てて、大連市街の灯が遠くみゆ。<lb />
+（家の妻柳、四十余歳。高粱を<seg rend="notes" rendition="span">［＃「高粱を」は底本では「高梁を」］</seg>折りくべて、竃の下に火を焚いている。家内は薄暗く、水の音遠くきこゆ。下のかたより家の娘阿香、十七八歳、印刷工場の女工のすがたにて、高田圭吉と連れ立ちて出づ。高田は二十四五歳、おなじく印刷職工の姿。）<lb />
+高田　（窓から内を覗く。）<seg type="ruby"><seg type="rb">阿母</seg><seg type="rp">（</seg><seg type="rt">おっか</seg><seg type="rp">）</seg></seg>さんは火を焚いているようだ。じゃあ、ここで別れるとしよう。<lb />
+阿香　あら、内へ<seg type="ruby"><seg type="rb">這入</seg><seg type="rp">（</seg><seg type="rt">はい</seg><seg type="rp">）</seg></seg>らないの。<lb />
+高田　まあ、止そう。毎晩のように尋ねて行くと、お<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とっ</seg><seg type="rp">）</seg></seg>さんや阿母さんにうるさがられる。第一、僕も極まりが悪いからな。<lb />
 阿香　かまわないわ。始終遊びに来るんじゃありませんか。お寄りなさいよ。<lb />
-高田　始終遊びに来る<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>でも、この頃はなんだか極まりが悪くなった。まあ、帰るとしよう。<lb />
+高田　始終遊びに来る<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>でも、この頃はなんだか極まりが悪くなった。まあ、帰るとしよう。<lb />
 阿香　いいじゃありませんか。（袖をひく。）今夜は十五夜だから、一緒にお月様を拝みましょうよ。<lb />
 高田　（躊躇して。）それにしても、まあ、ゆう飯を食ってから出直して来ることにしよう。<lb />
-阿香　じゃあ、<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>とね。<lb />
+阿香　じゃあ、<seg type="ruby"><seg type="rb">屹</seg><seg type="rp">（</seg><seg type="rt">きっ</seg><seg type="rp">）</seg></seg>とね。<lb />
 高田　むむ。（空をみる。）今夜は好い月が出そうだ。<lb />
 阿香　お月様にお供え物をして待っていますよ。<lb />
 （高田はうなずいて、下のかたへ引返して去る。阿香はそれを見送りながら、正面へまわりて扉を叩く。）<lb />
 柳　（みかえる。）誰だえ。お父さんかえ。<lb />
 阿香　わたしですよ。<lb />
 柳　戸は開いているよ。お這入り……。<lb />
-阿香　（扉をあけて入る。）あら、暗いことね。まだ<span type="ruby"><span type="rb">燈火</span><span type="rp">（</span><span type="rt">あかり</span><span type="rp">）</span></span>をつけないの。<lb />
+阿香　（扉をあけて入る。）あら、暗いことね。まだ<seg type="ruby"><seg type="rb">燈火</seg><seg type="rp">（</seg><seg type="rt">あかり</seg><seg type="rp">）</seg></seg>をつけないの。<lb />
 柳　いつの間にか暗くなったね。<lb />
-阿香　町の方じゃあ、もう<span type="ruby"><span type="rb">疾</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>うに電燈がついているわ。<lb />
+阿香　町の方じゃあ、もう<seg type="ruby"><seg type="rb">疾</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>うに電燈がついているわ。<lb />
 柳　町とここらとは違わあね。あかりをつけないでも、今にもうお月様がおあがりなさるよ。<lb />
 阿香　それでもあんまり暗いわ。<lb />
 （阿香は上のかたの一室に入る。柳は竃の下を焚きつけている。表はだんだんに薄明るくなる。下のかたよりこの家のあるじ李中行、五十歳前後、肉と菓子とを入れたる袋を両脇にかかえて出づ。）<lb />
@@ -73,7 +73,7 @@
 柳　（窓から覗く。）お父さんかえ。<lb />
 李中行　むむ。今帰ったよ。（正面の扉をあけて入る。）阿香はどうした。<lb />
 柳　たった今、帰って来ましたよ。時に買い物は……。<lb />
-李中行　（袋を卓の上に置く。）まあ、どうにか<span type="ruby"><span type="rb">斯</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>うにか買うだけの品は買い<span type="ruby"><span type="rb">調</span><span type="rp">（</span><span type="rt">ととの</span><span type="rp">）</span></span>えて来たが、むかしと違って、一年増しに何でも値段が高くなるには<span rend="sesame_dot" rendition="em">びっくり</span>するよ。<span type="ruby"><span type="rb">月餅</span><span type="rp">（</span><span type="rt">げっぺい</span><span type="rp">）</span></span>一つだって、うっかり買われやあしない。<lb />
+李中行　（袋を卓の上に置く。）まあ、どうにか<seg type="ruby"><seg type="rb">斯</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>うにか買うだけの品は買い<seg type="ruby"><seg type="rb">調</seg><seg type="rp">（</seg><seg type="rt">ととの</seg><seg type="rp">）</seg></seg>えて来たが、むかしと違って、一年増しに何でも値段が高くなるには<seg rend="sesame_dot" rendition="em">びっくり</seg>するよ。<seg type="ruby"><seg type="rb">月餅</seg><seg type="rp">（</seg><seg type="rt">げっぺい</seg><seg type="rp">）</seg></seg>一つだって、うっかり買われやあしない。<lb />
 柳　まったく私達の若い時のことを考えると、なんでも相場が高くなって、世の中は暮らしにくくなるばかりだ。それでもこうして生きている以上は、不断はどんなに倹約しても、お正月とか十五夜とかいう時だけは、まあ世間並のことをしないと気が済まないからね。<lb />
 李中行　そうだ、そうだ。おれもそう思うから、見す見す高い物をこうして買い込んで来たのだ。阿香が帰っているなら、あれに手伝わせて早くお供え物を飾り付けたら好かろう。もうお月さまはお出なさるのだ。<lb />
 柳　（窓から表を覗く。）今夜はすっかり晴れているから、好いお月さまが拝めるだろう。<lb />
@@ -85,17 +85,17 @@
 李中行　今もそれを云っていたのだが、だんだん貧乏人泣かせの世の中になるばかりだ。<lb />
 阿香　（笑う。）おめでたいお月見の晩に、そんな泣き言を云うもんじゃないわ。じゃあ、阿母さん。<lb />
 柳　あいよ。<lb />
-（母と娘は上のかたの壁の前に種々の供物をして、月を祭る準備をする。李は疲れたように、<span type="ruby"><span type="rb">榻</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>に<span rend="notes">［＃「<span type="ruby"><span type="rb">榻</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>に」は底本では「<span type="ruby"><span type="rb">搨</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>に」］</span>腰をおろしている。）<lb />
-阿香　お父さん。<span type="ruby"><span type="rb">草臥</span><span type="rp">（</span><span type="rt">くたび</span><span type="rp">）</span></span>れたの。<lb />
-李中行　むむ。何だか<span rend="sesame_dot" rendition="em">がっかり</span>してしまった。<lb />
-柳　町へ買い物に行って来たぐらいで、そんなに<span rend="sesame_dot" rendition="em">がっかり</span>するようじゃあ困るね。<lb />
-李中行　一つは気疲れがしたのだな。近所でありながら、滅多に町の方へ出ないものだから、たまに出て行くと自動車や自転車で危なくってならない。おれはどうしても昔の人間だよ。時に<span type="ruby"><span type="rb">中二</span><span type="rp">（</span><span type="rt">ちゅうじ</span><span type="rp">）</span></span>はまだ来ないのかな。<lb />
+（母と娘は上のかたの壁の前に種々の供物をして、月を祭る準備をする。李は疲れたように、<seg type="ruby"><seg type="rb">榻</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>に<seg rend="notes" rendition="span">［＃「<seg type="ruby"><seg type="rb">榻</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>に」は底本では「<seg type="ruby"><seg type="rb">搨</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>に」］</seg>腰をおろしている。）<lb />
+阿香　お父さん。<seg type="ruby"><seg type="rb">草臥</seg><seg type="rp">（</seg><seg type="rt">くたび</seg><seg type="rp">）</seg></seg>れたの。<lb />
+李中行　むむ。何だか<seg rend="sesame_dot" rendition="em">がっかり</seg>してしまった。<lb />
+柳　町へ買い物に行って来たぐらいで、そんなに<seg rend="sesame_dot" rendition="em">がっかり</seg>するようじゃあ困るね。<lb />
+李中行　一つは気疲れがしたのだな。近所でありながら、滅多に町の方へ出ないものだから、たまに出て行くと自動車や自転車で危なくってならない。おれはどうしても昔の人間だよ。時に<seg type="ruby"><seg type="rb">中二</seg><seg type="rp">（</seg><seg type="rt">ちゅうじ</seg><seg type="rp">）</seg></seg>はまだ来ないのかな。<lb />
 阿香　兄さんは来るかしら。<lb />
-李中行　来るも来ないもあるものか。十五夜には<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ帰って来て、おれたちと一緒に月を拝めと、あれほど云い聞かせて置いたのだから、屹と来るに相違ないよ。<lb />
+李中行　来るも来ないもあるものか。十五夜には<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ帰って来て、おれたちと一緒に月を拝めと、あれほど云い聞かせて置いたのだから、屹と来るに相違ないよ。<lb />
 柳　十五夜で、店の方が忙がしいのじゃないかね。<lb />
 李中行　なに、あいつの勤めている店は本屋だ。おまけに主人は日本人だから、十五夜に係り合があるものか。あいつ、何をしているのかな。<lb />
 柳　そう云っても奉公の身の上だから、自由に店をぬけ出して来ることは出来ないのかも知れない。<lb />
-阿香　十五夜だから暇をくれなんて云っても、主人が承知するか<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うだか判らないわ。<lb />
+阿香　十五夜だから暇をくれなんて云っても、主人が承知するか<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うだか判らないわ。<lb />
 李中行　でも、去年は来たではないか。<lb />
 阿香　去年は去年……。今年はどうだか……。ねえ、阿母さん。<lb />
 柳　中二も主人の気に入って、今年からは月給が五円あがったというから、それだけに仕事の方も忙がしくなったかも知れないからね。<lb />
@@ -121,12 +121,12 @@
 李中行　日が暮れたら急に冷えて来た。秋風はやっぱり身にしみるな。<lb />
 （李と柳は引返して内に入る。阿香はまだ立って下のかたを眺めている。）<lb />
 柳　お月さまを拝んでしまったら、今夜の御祝儀に一杯お飲みなさいよ。<lb />
-李中行　今夜はせがれを相手に飲む積りだったが、あいつめ、まだ形をみせない。こうなったら仕様がないから、せめて高田さんでも来ればいいな。（外へ声をかける。）おい、高田さんは<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と来ると云ったのか。<lb />
+李中行　今夜はせがれを相手に飲む積りだったが、あいつめ、まだ形をみせない。こうなったら仕様がないから、せめて高田さんでも来ればいいな。（外へ声をかける。）おい、高田さんは<seg type="ruby"><seg type="rb">屹</seg><seg type="rp">（</seg><seg type="rt">きっ</seg><seg type="rp">）</seg></seg>と来ると云ったのか。<lb />
 阿香　ええ、ええ、屹と来る筈なんだけれど……。あの人は何をしているんだろう。わたし行って呼んで来るわ。<lb />
 柳　まあ、いいよ。若い女が夜あるきをするにゃあ及ばない。そのうちに来るだろうよ。<lb />
 阿香　でも、ちょいと行って来るわ。お父さん。まあそれまではお酒を飲まずに、待っていて下さいよ。（早々に下のかたへ去る。）<lb />
 柳　とうとう出て行ってしまった。あの子は高田さんばかり恋しがっているんだよ。<lb />
-李中行　（笑う。）まあ、仕方がない。打っちゃって置け。おれはこの通りの貧乏だから、若い娘を印刷工場へ通わせて置くが、いつまでそうしても置かれない。遅かれ早かれ<span type="ruby"><span type="rb">他</span><span type="rp">（</span><span type="rt">よそ</span><span type="rp">）</span></span>へ縁付けなければならないのだ。（又笑う。）高田さんは善い人だよ。<lb />
+李中行　（笑う。）まあ、仕方がない。打っちゃって置け。おれはこの通りの貧乏だから、若い娘を印刷工場へ通わせて置くが、いつまでそうしても置かれない。遅かれ早かれ<seg type="ruby"><seg type="rb">他</seg><seg type="rp">（</seg><seg type="rt">よそ</seg><seg type="rp">）</seg></seg>へ縁付けなければならないのだ。（又笑う。）高田さんは善い人だよ。<lb />
 柳　そりゃ私も知っているけれど……。じゃあ、いよいよと云うときには、お前さんも承知してくれるのね。<lb />
 李中行　むむ、承知するよ。日本人でも何でも構うものか。相手が正直で、よく働く人で、娘も進んで行くというなら、おれは喜んで承知するよ。昔と今とは世の中が違うからな。<lb />
 柳　お前さんがそう云ってくれれば、わたしも安心だけれど……。<lb />
@@ -142,12 +142,12 @@
 李中行　（立ちあがって覗く。）成程、見たことがあるようだが……。ちょっと思い出せないな。<lb />
 旅の男　（しずかに。）わたしは預け物をうけ取りに来たのです。<lb />
 李中行　（思い出して。）ああ、判った、判った。おまえさんは……あの人だ、あの人だ。<lb />
-旅の男　ここの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に四五日御厄介になったことのある旅の者です。三年<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>の八月十五夜の晩には、必ず再びたずねて来ますからと云って、小さい箱をあずけて行った筈ですが……。<lb />
+旅の男　ここの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>に四五日御厄介になったことのある旅の者です。三年<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">のち</seg><seg type="rp">）</seg></seg>の八月十五夜の晩には、必ず再びたずねて来ますからと云って、小さい箱をあずけて行った筈ですが……。<lb />
 柳　ああ、わたしも思い出した。三年前の雨のふる晩に、泊めてくれと云って来た人だ。<lb />
 李中行　見識らない人ではあるし、夜は更けている。むやみに泊めるわけには行かないと一旦は断ったのを、お前さんは無理に泊めてくれと云って、とうとうこの土間の隅に寝込んでしまったのだ。<lb />
 柳　おまけにその明くる朝から病気になったと云い出して、私達もどんなに心配したか知れやあしない。<lb />
 旅の男　まったくあの時には飛んだ御厄介になりました。それから四五日もここの家に寝かして貰って、再び元のからだになったのです。（頭を下げる。）今晩あらためてお礼を申上げます。<lb />
-李中行　わたしの方では忘れていたが、成程そのときに、三年<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>の十五夜の晩には再びたずねて来ると云ったようだ。<lb />
+李中行　わたしの方では忘れていたが、成程そのときに、三年<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">のち</seg><seg type="rp">）</seg></seg>の十五夜の晩には再びたずねて来ると云ったようだ。<lb />
 旅の男　その約束の通りに、今夜再び来ました。<lb />
 李中行　そう聞くと、なんだか懐かしいようでもある。まあ、まあ、ここへ掛けなさい。<lb />
 （旅の男は会釈しただけで、やはり立っている。）<lb />
@@ -161,30 +161,30 @@
 李中行　なんだ。<lb />
 柳　どうも不思議なことがあるんですよ。<lb />
 李中行　なにが不思議だ。<lb />
-柳　あの箱が大へんに重くなって、わたしの力じゃあ<span type="ruby"><span type="rb">迚</span><span type="rp">（</span><span type="rt">とて</span><span type="rp">）</span></span>も動かせないんですよ。<lb />
+柳　あの箱が大へんに重くなって、わたしの力じゃあ<seg type="ruby"><seg type="rb">迚</seg><seg type="rp">（</seg><seg type="rt">とて</seg><seg type="rp">）</seg></seg>も動かせないんですよ。<lb />
 李中行　馬鹿なことを云え。あのくらいの箱が持てないと云うことがあるものか。<lb />
-柳　それでも鉄のように重くなって、<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">ち</span><span type="rp">）</span></span>っとも動かないんですよ。<lb />
-李中行　なにを云っているのだ。まだそれ程の年でもないのに、おまえは些っと<span type="ruby"><span type="rb">耄碌</span><span type="rp">（</span><span type="rt">もうろく</span><span type="rp">）</span></span>したようだな。<lb />
+柳　それでも鉄のように重くなって、<seg type="ruby"><seg type="rb">些</seg><seg type="rp">（</seg><seg type="rt">ち</seg><seg type="rp">）</seg></seg>っとも動かないんですよ。<lb />
+李中行　なにを云っているのだ。まだそれ程の年でもないのに、おまえは些っと<seg type="ruby"><seg type="rb">耄碌</seg><seg type="rp">（</seg><seg type="rt">もうろく</seg><seg type="rp">）</seg></seg>したようだな。<lb />
 （李も渋々ながら奥に入る。旅の男は冷然として聴いている。やがて室内にて李の声。）<lb />
 李中行　なるほど不思議だな。こんなに重い筈はなかったのだが……。（出て来る。）もし、おまえさん。ちょいと手を仮してくれないか。<lb />
 （旅の男は無言にて立上り、李と共に室内に入りしが、やがて夫婦と三人がかりにて、一個の小さい革の箱を重そうに持ち出して来て、卓の上に置く。）<lb />
 柳　こんなに小さい箱がどうして重いのだろうね。<lb />
-李中行　三年<span type="ruby"><span type="rb">前</span><span type="rp">（</span><span type="rt">まえ</span><span type="rp">）</span></span>にあずかった時には、こんなに重いとは思わなかったが……。どうも不思議だな。<lb />
-旅の男　（嘆息して。）いえ、あの時にも重かったのです。それで<span type="ruby"><span type="rb">拠</span><span type="rp">（</span><span type="rt">よんどこ</span><span type="rp">）</span></span>ろなく預けて行ったのです。<lb />
-李中行　一体このなかには何が<span type="ruby"><span type="rb">這入</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>っているのだな。金の<span type="ruby"><span type="rb">塊</span><span type="rp">（</span><span type="rt">かたまり</span><span type="rp">）</span></span>でも積め込んであるのかね。<lb />
-旅の男　（おごそかに。）金の塊よりも<span type="ruby"><span type="rb">貴</span><span type="rp">（</span><span type="rt">とうと</span><span type="rp">）</span></span>い物が収めてあるのです。<lb />
+李中行　三年<seg type="ruby"><seg type="rb">前</seg><seg type="rp">（</seg><seg type="rt">まえ</seg><seg type="rp">）</seg></seg>にあずかった時には、こんなに重いとは思わなかったが……。どうも不思議だな。<lb />
+旅の男　（嘆息して。）いえ、あの時にも重かったのです。それで<seg type="ruby"><seg type="rb">拠</seg><seg type="rp">（</seg><seg type="rt">よんどこ</seg><seg type="rp">）</seg></seg>ろなく預けて行ったのです。<lb />
+李中行　一体このなかには何が<seg type="ruby"><seg type="rb">這入</seg><seg type="rp">（</seg><seg type="rt">はい</seg><seg type="rp">）</seg></seg>っているのだな。金の<seg type="ruby"><seg type="rb">塊</seg><seg type="rp">（</seg><seg type="rt">かたまり</seg><seg type="rp">）</seg></seg>でも積め込んであるのかね。<lb />
+旅の男　（おごそかに。）金の塊よりも<seg type="ruby"><seg type="rb">貴</seg><seg type="rp">（</seg><seg type="rt">とうと</seg><seg type="rp">）</seg></seg>い物が収めてあるのです。<lb />
 柳　それでは玉か宝石のたぐいでも入れてあるんですかえ。<lb />
-旅の男　これは私の命にも換えがたい大切の品で、これを持って諸国をめぐっているうちに、三年前の八月、この大連の町へ来る途中で、<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>にこの箱が重くなって、どうしても動かなくなりました。そこでこちらの御厄介になったのですが、明くる朝になっても箱はやはり重いのです。今だから正直に白状しますが、あのときに病気と云ったのは嘘で、実はなんとかしてこの箱を持ち出そうと苦心して、四日も五日も逗留していたのですが、箱はどうしても動かないのです。私もとうとう諦めて、兎も角もこちらにお預け申して立去ったのですが、三年の後に来てみれば、箱はこの通りで矢はり重い。私ひとりの手では持ち運びは出来ない。（悲痛の顔色。）もう仕方がありません。私は神に見放されたのです。<lb />
-（男は目を<span type="ruby"><span type="rb">瞑</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>じ、腕をくんで、万事休すというが如くに嘆息す。李の夫婦は顔をみあわせる。）<lb />
+旅の男　これは私の命にも換えがたい大切の品で、これを持って諸国をめぐっているうちに、三年前の八月、この大連の町へ来る途中で、<seg type="ruby"><seg type="rb">俄</seg><seg type="rp">（</seg><seg type="rt">にわか</seg><seg type="rp">）</seg></seg>にこの箱が重くなって、どうしても動かなくなりました。そこでこちらの御厄介になったのですが、明くる朝になっても箱はやはり重いのです。今だから正直に白状しますが、あのときに病気と云ったのは嘘で、実はなんとかしてこの箱を持ち出そうと苦心して、四日も五日も逗留していたのですが、箱はどうしても動かないのです。私もとうとう諦めて、兎も角もこちらにお預け申して立去ったのですが、三年の後に来てみれば、箱はこの通りで矢はり重い。私ひとりの手では持ち運びは出来ない。（悲痛の顔色。）もう仕方がありません。私は神に見放されたのです。<lb />
+（男は目を<seg type="ruby"><seg type="rb">瞑</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>じ、腕をくんで、万事休すというが如くに嘆息す。李の夫婦は顔をみあわせる。）<lb />
 李中行　なんだか謎のような話で、わたし達には一向わからないが、この箱に入れてある貴い物の正体はなんだね。<lb />
-旅の男　こうなったら隠さずに話します。この箱のなかに祭ってあるものは……三本足の青い<span type="ruby"><span type="rb">蝦蟆</span><span type="rp">（</span><span type="rt">がま</span><span type="rp">）</span></span>です。<lb />
+旅の男　こうなったら隠さずに話します。この箱のなかに祭ってあるものは……三本足の青い<seg type="ruby"><seg type="rb">蝦蟆</seg><seg type="rp">（</seg><seg type="rt">がま</seg><seg type="rp">）</seg></seg>です。<lb />
 李中行　え、三本足の青い蝦蟆だ……。<lb />
 柳　まあ、気味の悪い。なぜそんな物を大事そうに持ち歩いているんだろうねえ。<lb />
-旅の男　おまえさん達は<span type="ruby"><span type="rb">青蛙神</span><span type="rp">（</span><span type="rt">せいあじん</span><span type="rp">）</span></span>を知りませんか。<lb />
+旅の男　おまえさん達は<seg type="ruby"><seg type="rb">青蛙神</seg><seg type="rp">（</seg><seg type="rt">せいあじん</seg><seg type="rp">）</seg></seg>を知りませんか。<lb />
 李中行　青蛙神……。（考える。）いや、聞いたことがある。江南のある地方では、青蛙神と云って三本足の青い蝦蟆を祭るということだが……。では、その青蛙神がこの箱の中に祭ってあるのか。<lb />
-旅の男　青蛙神に酒と肉とを供えて祈祷すれば、どんな願いでも<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と成就するのです。<lb />
+旅の男　青蛙神に酒と肉とを供えて祈祷すれば、どんな願いでも<seg type="ruby"><seg type="rb">屹</seg><seg type="rp">（</seg><seg type="rt">きっ</seg><seg type="rp">）</seg></seg>と成就するのです。<lb />
 李中行　（うなずく。）むむ。それは私も昔から聞いているが、ほんとうにそんな奇特があるものかな。<lb />
-旅の男　ここらの人はよく知らないので、不思議に思うのも<span type="ruby"><span type="rb">尤</span><span type="rp">（</span><span type="rt">もっと</span><span type="rp">）</span></span>もですが、南の方へゆけば青蛙神を疑う者はありません。<lb />
+旅の男　ここらの人はよく知らないので、不思議に思うのも<seg type="ruby"><seg type="rb">尤</seg><seg type="rp">（</seg><seg type="rt">もっと</seg><seg type="rp">）</seg></seg>もですが、南の方へゆけば青蛙神を疑う者はありません。<lb />
 李中行　わたしが祈っても、奇特があるだろうか。<lb />
 旅の男　勿論です。<lb />
 柳　（李の袖をひく。）わたしは何だか気味が悪い。おまえさん、詰まらない願掛けなぞをおしなさるなよ。<lb />
@@ -207,7 +207,7 @@
 李中行　いくら蝦蟆でも、この箱に這入ったままで、二年も三年も飲まず喰わずに、よく生きていられたものだな。<lb />
 旅の男　さあ、なんなりともお祈りなさい。<lb />
 李中行　すぐに祈ってもいいのですか。<lb />
-旅の男　併しその祈祷の文句を他人に知られてしまっては奇特がありません。誰にも聞えないように、口のうちで<span type="ruby"><span type="rb">静</span><span type="rp">（</span><span type="rt">しずか</span><span type="rp">）</span></span>にお祈りなさい。判りましたか。<lb />
+旅の男　併しその祈祷の文句を他人に知られてしまっては奇特がありません。誰にも聞えないように、口のうちで<seg type="ruby"><seg type="rb">静</seg><seg type="rp">（</seg><seg type="rt">しずか</seg><seg type="rp">）</seg></seg>にお祈りなさい。判りましたか。<lb />
 李中行　はい、はい。判りました。わかりました。<lb />
 （李は月を祭りし酒と肉を持ち来りて、青蛙の前に供える。柳はやはり不安らしく眺めている。）<lb />
 李中行　これで宜しいのですか。<lb />
@@ -215,14 +215,14 @@
 （李は土間にひざまずきて、口のうちにて何事かを祈る。下のかたより李の長男中二、二十二三歳、洋服に中折れ帽をかぶりて足早に出で来りしが、来客ありと見て少しく躊躇し、窓より内を窺っている。李はやがて拝し終りて立つ。）<lb />
 旅の男　済みましたか。<lb />
 李中行　（頭を下げる。）はい。済みました。<lb />
-（男は再び呪文を唱うれば、青蛙は跳って元の箱に入る。男はしずかに蓋を閉じ、更にその箱を捧げるようにして、<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>におどろく。）<lb />
+（男は再び呪文を唱うれば、青蛙は跳って元の箱に入る。男はしずかに蓋を閉じ、更にその箱を捧げるようにして、<seg type="ruby"><seg type="rb">俄</seg><seg type="rp">（</seg><seg type="rt">にわか</seg><seg type="rp">）</seg></seg>におどろく。）<lb />
 旅の男　おお、箱が軽く……。元のように軽くなりました。<lb />
 李中行　箱が軽くなった……。<lb />
 旅の男　この通りです。<lb />
 （男は箱を軽々とささげて李に渡せば、李は恐る恐る受取りて、これも驚く。）<lb />
 李中行　なるほど軽い、軽い。さっきはあんなに重かったものが、俄にこんなに軽くなるとは、どう云うわけだろうな。<lb />
 旅の男　神のこころは私にも判りません。併し元の通りに軽くなったのは、私の仕合せです。（喜悦の色。）わたしはまだこの神に見放されないのです。これでようよう安心しました。（箱を押頂く。）では、夜の更けないうちに、もうお暇としましょう。<lb />
-李中行　せめて今夜一晩は、泊まって行きなすっては<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うだね。<lb />
+李中行　せめて今夜一晩は、泊まって行きなすっては<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うだね。<lb />
 旅の男　（かんがえて。）いや、折角ですが直ぐに行きましょう。御亭主にもおかみさんにも、御縁があったら又お目にかかります。<lb />
 （男は会釈して箱を小脇にかかえ、しずかに表へ出て上のかたへ立去る。李も門口に出て見送る。李中二はつかつかと進み入る。）<lb />
 中二　お父さん、阿母さん。今晩は……。<lb />
@@ -230,7 +230,7 @@
 中二　店の方が忙がしかったもんですから、つい遅くなりました。<lb />
 李中行　（引返して来る。）お前、大へんに遅かったではないか。おれ達はもう月を拝んでしまったのだ。<lb />
 中二　今帰った人は誰です。<lb />
-李中行　（笑ましげに。）あれはおまえの識らない人だ。三年<span type="ruby"><span type="rb">前</span><span type="rp">（</span><span type="rt">まえ</span><span type="rp">）</span></span>にここの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ泊まったことがあって、その時の預け物を今夜うけ取りに来たのだ。<lb />
+李中行　（笑ましげに。）あれはおまえの識らない人だ。三年<seg type="ruby"><seg type="rb">前</seg><seg type="rp">（</seg><seg type="rt">まえ</seg><seg type="rp">）</seg></seg>にここの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ泊まったことがあって、その時の預け物を今夜うけ取りに来たのだ。<lb />
 中二　お父さんの拝んでいたのは何です。<lb />
 李中行　あれは江南でいう青蛙神だ。<lb />
 中二　青蛙神……。<lb />
@@ -242,22 +242,22 @@
 中二　（又笑う。）お父さんはまだそんなことを信じているんですか。<lb />
 李中行　おまえ達のような若い者の知らないことだ。まあ、黙って見ていろ。<lb />
 中二　いずれお父さんのことだから、慾の深いことを願ったんでしょう。<lb />
-李中行　（少し<span rend="sesame_dot" rendition="em">ぎょっ</span>として）え、何……。そんなわけでも無いのだ。<lb />
+李中行　（少し<seg rend="sesame_dot" rendition="em">ぎょっ</seg>として）え、何……。そんなわけでも無いのだ。<lb />
 中二　（からかうように。）じゃあ、何を願ったんです。再び清朝の世になるようにとでも祈ったんですか。<lb />
 李中行　馬鹿をいえ。<lb />
 中二　それじゃあ百までも長生きをするように……。<lb />
 李中行　ええ、黙っていろというのに……。今の若い奴等は兎かくに年寄りを馬鹿にしてならない。おれたちの若いときには、神さまの次に年寄りを尊敬したものだ。<lb />
-中二　お父さん。私は神様よりも年寄りを尊敬しますよ。（笑いながら進みよる。）青蛙神を拝むくらいなら、<span type="ruby"><span type="rb">先</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>ずあなたを拝みますよ。<lb />
+中二　お父さん。私は神様よりも年寄りを尊敬しますよ。（笑いながら進みよる。）青蛙神を拝むくらいなら、<seg type="ruby"><seg type="rb">先</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>ずあなたを拝みますよ。<lb />
 李中行　親にからかうな。（押退ける。）町へ出ていると、だんだんに生意気になっていけない。<lb />
-柳　まあ、そんなことは<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うでもいいから、早くお酒をお始めなさいよ。<lb />
+柳　まあ、そんなことは<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うでもいいから、早くお酒をお始めなさいよ。<lb />
 李中行　（中二に。）お前は月を拝んだか。<lb />
 中二　拝みました。<lb />
 李中行　ほんとうに拝んだか。どうも怪しいぞ。お前はこのごろ嘘つきになったからな。<lb />
-中二　まあ、そう叱ってばかりいないで、十五夜の御祝儀に一杯頂きましょう。（<span type="ruby"><span type="rb">榻</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>にかける。）時に妹はどうしたんです。<lb />
+中二　まあ、そう叱ってばかりいないで、十五夜の御祝儀に一杯頂きましょう。（<seg type="ruby"><seg type="rb">榻</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>にかける。）時に妹はどうしたんです。<lb />
 柳　高田さんを呼びに行ったのさ。<lb />
 中二　高田さんが来るんですか。そりゃあ話し相手があって好いな。<lb />
 李中行　おれでは話し相手にならないと云うのか。どこまでも親を馬鹿にする奴だ。（同じく榻にかける。）さあ、青蛙神に供えた酒だ。先ずおれから頂戴して、おまえにも飲ませてやる。<lb />
-中二　わたしも蝦蟆のお流れ頂戴ですか。これは<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">ち</span><span type="rp">）</span></span>っと嬉しくないな。<lb />
+中二　わたしも蝦蟆のお流れ頂戴ですか。これは<seg type="ruby"><seg type="rb">些</seg><seg type="rp">（</seg><seg type="rt">ち</seg><seg type="rp">）</seg></seg>っと嬉しくないな。<lb />
 李中行　こいつ、まだそんなことを云っているのか。早く酌をしろ。<lb />
 中二　はい、はい。<lb />
 （中二は酌をすれば、李は飲み終って中二にさし、柳が酌をして遣る。こうして、父と子はむつまじく飲んでいると、下のかたより高田圭吉は阿香と連れ立ちて出づ。）<lb />
@@ -270,7 +270,7 @@
 中二　ひどく繁昌という程でもありませんが、不景気の時節としては、まあ、まあ、好い方でしょう。なにしろ書物をよむ人が殖えましたからね。<lb />
 （中二は高田に杯をさせば、阿香が酌をする。）<lb />
 高田　あなたのお店は日本人の経営とはいいながら、日本の書物のほかに、支那の書物も売るんだから、どうしても繁昌するわけですよ。<lb />
-中二　支那の書物も、このごろは上海版の<span type="ruby"><span type="rb">廉</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>いものが続々発行されるので、自然買い手も多いんです。<lb />
+中二　支那の書物も、このごろは上海版の<seg type="ruby"><seg type="rb">廉</seg><seg type="rp">（</seg><seg type="rt">やす</seg><seg type="rp">）</seg></seg>いものが続々発行されるので、自然買い手も多いんです。<lb />
 高田　上海版といえば、捜神記の廉いのは来ていませんかね。活版本でも好いんですが……。<lb />
 中二　調べてみましょう。たしか来ている筈です。あなたは捜神記のような本をお読みになるんですか。<lb />
 高田　わたしも此頃は支那の怪談に興味を持つようになって、覚束ないながらも拾い読みをしているんですよ。日本に有り来りの怪談は、大てい支那から輸入されているんですからね。<lb />
@@ -292,23 +292,23 @@
 阿香　あれ、あの雲が……。月を半分隠して仕舞ったんですよ。<lb />
 李中行　（窓から覗く。）成程、あんな雲はめずらしいな。（中二に。）おい、来てみろよ。大きい蝦蟆のような雲が出た。<lb />
 中二　お父さんは蝦蟆が好きだな。（云いながら立ちかけて物につまずく。）おや、なんだろう。<lb />
-（中二は<span type="ruby"><span type="rb">俯向</span><span type="rp">（</span><span type="rt">うつむ</span><span type="rp">）</span></span>いて我が足もとを透し視ようとする時、三足の青蛙が卓の上に<span rend="sesame_dot" rendition="em">ひらり</span>と飛びあがる。）<lb />
+（中二は<seg type="ruby"><seg type="rb">俯向</seg><seg type="rp">（</seg><seg type="rt">うつむ</seg><seg type="rp">）</seg></seg>いて我が足もとを透し視ようとする時、三足の青蛙が卓の上に<seg rend="sesame_dot" rendition="em">ひらり</seg>と飛びあがる。）<lb />
 高田　（思わず立つ。）や、蝦蟆だ。蝦蟆だ。<lb />
 中二　三本足の蝦蟆だ……。<lb />
 李中行　何、そっちにも蝦蟆がいるのか。<lb />
 （李は立寄る。柳と阿香も見かえる。ランプはおのずから消えて、家内は暗くなる。その暗中に、青蛙の全身より鬼火の如き青き光を放つ。人々はおどろき怪みて凝視するうちに、消えたと思いしランプは再び明るく、青蛙の姿はいつか消える。表の月も再び明るくなる。）<lb />
 中二　（高田と共に笑い出す。）なんだ。なんにもいないじゃあないか。<lb />
 高田　居ない、居ない。はは、まったく眼のせいだ。これが幻覚とか錯覚とか云うんだろうな。<lb />
-柳　でも、わたしの眼には蝦蟆の姿が<span rend="sesame_dot" rendition="em">はっきり</span>と見えましたよ。<lb />
+柳　でも、わたしの眼には蝦蟆の姿が<seg rend="sesame_dot" rendition="em">はっきり</seg>と見えましたよ。<lb />
 阿香　わたしにも見えましたわ。鬼火のように青く光って、その卓の上に……。<lb />
 李中行　むむ、おれにも見えた。しかも三本足で、確にさっきの青蛙神だ。<lb />
 中二　お父さんの迷信にも困ったものだな。あんまり蝦蟆の噂ばかりするもんだから、皆んなの眼にそんな幻影が見えたんですよ。<lb />
 高田　たしかに我々の幻覚ですよ。ははははははは。<lb />
 中二　はははははは。<lb />
 李中行　はてな。<lb />
-（李はまだ疑うように考えている。柳と阿香は顔をみあわせて半信半疑の<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>。高田と中二は事もなげに笑いながら、再び榻にかける。風の音。寝鳥のおどろき起つ声。）<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</span>
-<span rend="notes">［＃改ページ］</span><lb />
+（李はまだ疑うように考えている。柳と阿香は顔をみあわせて半信半疑の<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>。高田と中二は事もなげに笑いながら、再び榻にかける。風の音。寝鳥のおどろき起つ声。）<lb />
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　第二幕の登場人物<lb />
 李中行<lb />
@@ -320,46 +320,46 @@
 工場の事務員　浦辺、村上<lb />
 女工　時子、君子<lb />
 ほかに村の男、女若者。苦力など<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_10" rendition="div" style="margin-left: 10em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">第二幕</span></span></span>
+<seg rend="jisage_10" rendition="div" style="margin-left: 10em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">第二幕</seg></seg></seg>
 <lb />
 　おなじく李中行の家。<lb />
 　第一幕より五日の後、晴れたる日の午後三時頃。<lb />
-（妻の柳は長柄の鎌を持ち、李中行は長煙管を持ち、たがいに云い募って詰めよるを、近所の農家の亭主會徳が支えている。<span type="ruby"><span type="rb">砧</span><span type="rp">（</span><span type="rt">きぬた</span><span type="rp">）</span></span>の音せわしく<span type="ruby"><span type="rb">聞</span><span type="rp">（</span><span type="rt">きこ</span><span type="rp">）</span></span>ゆ。）<lb />
+（妻の柳は長柄の鎌を持ち、李中行は長煙管を持ち、たがいに云い募って詰めよるを、近所の農家の亭主會徳が支えている。<seg type="ruby"><seg type="rb">砧</seg><seg type="rp">（</seg><seg type="rt">きぬた</seg><seg type="rp">）</seg></seg>の音せわしく<seg type="ruby"><seg type="rb">聞</seg><seg type="rp">（</seg><seg type="rt">きこ</seg><seg type="rp">）</seg></seg>ゆ。）<lb />
 會徳　これ、これ、どうしたものだ。好い年をして夫婦喧嘩は外聞が悪いではないか。まあ、まあ、静かにするが好い。<lb />
-柳　だって、お前さん。まあ、聴いてください。この頃は<span type="ruby"><span type="rb">高粱</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>の<span rend="notes">［＃「<span type="ruby"><span type="rb">高粱</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>の」は底本では「<span type="ruby"><span type="rb">高梁</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>の」］</span>刈入れ時で、どこの家でも眼が廻るほど忙がしいのに、この人は朝から煙草ばかりぱくぱく<span type="ruby"><span type="rb">喫</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>んで、寝そべって……。<lb />
-李中行　なんでおれが寝ているものか。夜明けから<span rend="sesame_dot" rendition="em">ちゃん</span>と起きているのだ。<lb />
-柳　起きているか、死んでいるか、判るものか。秋の日は短いというのに、なぜ朝から<span rend="sesame_dot" rendition="em">ぶらぶら</span>遊んでいるんだよ。<lb />
-李中行　遊んでいるのではない。こうして黙って坐っていても、おれには又おれの料簡がある。燕雀いずくんぞ大鵬のこころざしを知らんと、昔の<span type="ruby"><span type="rb">陳勝呉廣</span><span type="rp">（</span><span type="rt">ちんしょうごこう</span><span type="rp">）</span></span>も云っているのだ。<lb />
-柳　なんの、聴き取り学問で利口ぶったことを云うな。百姓が畑へも出ないで、毎日<span rend="sesame_dot" rendition="em">のらくら</span>していてそれで済むと思うのかよ。早く刈込んで来なければ、たべ物ばかりか、焚き物にも困るじゃないか。ほんに、ほんにお前のような人は豚にも劣っているのだ。<lb />
+柳　だって、お前さん。まあ、聴いてください。この頃は<seg type="ruby"><seg type="rb">高粱</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>の<seg rend="notes" rendition="span">［＃「<seg type="ruby"><seg type="rb">高粱</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>の」は底本では「<seg type="ruby"><seg type="rb">高梁</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>の」］</seg>刈入れ時で、どこの家でも眼が廻るほど忙がしいのに、この人は朝から煙草ばかりぱくぱく<seg type="ruby"><seg type="rb">喫</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>んで、寝そべって……。<lb />
+李中行　なんでおれが寝ているものか。夜明けから<seg rend="sesame_dot" rendition="em">ちゃん</seg>と起きているのだ。<lb />
+柳　起きているか、死んでいるか、判るものか。秋の日は短いというのに、なぜ朝から<seg rend="sesame_dot" rendition="em">ぶらぶら</seg>遊んでいるんだよ。<lb />
+李中行　遊んでいるのではない。こうして黙って坐っていても、おれには又おれの料簡がある。燕雀いずくんぞ大鵬のこころざしを知らんと、昔の<seg type="ruby"><seg type="rb">陳勝呉廣</seg><seg type="rp">（</seg><seg type="rt">ちんしょうごこう</seg><seg type="rp">）</seg></seg>も云っているのだ。<lb />
+柳　なんの、聴き取り学問で利口ぶったことを云うな。百姓が畑へも出ないで、毎日<seg rend="sesame_dot" rendition="em">のらくら</seg>していてそれで済むと思うのかよ。早く刈込んで来なければ、たべ物ばかりか、焚き物にも困るじゃないか。ほんに、ほんにお前のような人は豚にも劣っているのだ。<lb />
 李中行　なにが豚だ。<lb />
-會徳　まあ、両方がそう云い募っていては、果てしが無い。そこで、おれはどっちの<span type="ruby"><span type="rb">贔屓</span><span type="rp">（</span><span type="rt">ひいき</span><span type="rp">）</span></span>をするでもないが、きょうの喧嘩はどうも親父の方が好くないようだぞ。おふくろの云う通り、今は高粱の<span rend="notes">［＃「高粱の」は底本では「高梁の」］</span>刈入れ時で、人間の手足が八本も欲しいという時節に、朝から<span type="ruby"><span type="rb">喞</span><span type="rp">（</span><span type="rt">くわ</span><span type="rp">）</span></span>え煙管で一日<span rend="sesame_dot" rendition="em">ぶらぶら</span>しているのは、あんまり悠長過ぎるではないか。お前はそんな怠け者ではなかった筈だが……。<lb />
+會徳　まあ、両方がそう云い募っていては、果てしが無い。そこで、おれはどっちの<seg type="ruby"><seg type="rb">贔屓</seg><seg type="rp">（</seg><seg type="rt">ひいき</seg><seg type="rp">）</seg></seg>をするでもないが、きょうの喧嘩はどうも親父の方が好くないようだぞ。おふくろの云う通り、今は高粱の<seg rend="notes" rendition="span">［＃「高粱の」は底本では「高梁の」］</seg>刈入れ時で、人間の手足が八本も欲しいという時節に、朝から<seg type="ruby"><seg type="rb">喞</seg><seg type="rp">（</seg><seg type="rt">くわ</seg><seg type="rp">）</seg></seg>え煙管で一日<seg rend="sesame_dot" rendition="em">ぶらぶら</seg>しているのは、あんまり悠長過ぎるではないか。お前はそんな怠け者ではなかった筈だが……。<lb />
 李中行　（笑う。）はは、おまえまでが女房の味方をするのか。いや、それも無理のないことだ。成程、おれは悠長過ぎるかも知れない、怠け者かも知れない。まあ、なんとでも云うが好い。何事も自然に判ることだ。はははははは。人間はなんでも好い友達を持たなければいけない。お前もおれという好い友達を持ったお蔭で、又どんな仕合せなことが無いとも云えないから、それを楽しみに待っているが好い。はははははは。<lb />
 會徳　（柳と顔を見あわせる。）どうも少し変だな。気がおかしくなったのではないか。<lb />
 柳　少しどころか、大変におかしいんですよ。<lb />
 會徳　まったく気がおかしいようだ。困ったものだ。な。兎もかくも息子のところへ知らせて遣ったらどうだな。<lb />
-柳　娘が工場へ行きがけに、中二の店へ寄って来る筈になっているから、今夜か<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あした</span><span type="rp">）</span></span>の晩には来るでしょうよ。<lb />
+柳　娘が工場へ行きがけに、中二の店へ寄って来る筈になっているから、今夜か<seg type="ruby"><seg type="rb">明日</seg><seg type="rp">（</seg><seg type="rt">あした</seg><seg type="rp">）</seg></seg>の晩には来るでしょうよ。<lb />
 會徳　むむ。息子が来たらば好く相談をするがよかろう。（李を横目に見て。）どうも不断とは様子が違っているようだから、まあ逆らわずに捨てて置く方が無事らしい。お前もその積りで……。（喧嘩をするなと眼で知らせる。）<lb />
-柳　（渋々ながら<span type="ruby"><span type="rb">首肯</span><span type="rp">（</span><span type="rt">うなず</span><span type="rp">）</span></span>く。）まったくこんな人を相手にしているのは暇潰しだ。まあ、仕方がないから、私ひとりで仕事に出ましょうよ。<lb />
+柳　（渋々ながら<seg type="ruby"><seg type="rb">首肯</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>く。）まったくこんな人を相手にしているのは暇潰しだ。まあ、仕方がないから、私ひとりで仕事に出ましょうよ。<lb />
 會徳　それが好い、それが好い。では、おれも行くとしようか。<lb />
-李中行　もう帰るのか。そんなに<span type="ruby"><span type="rb">齷齪</span><span type="rp">（</span><span type="rt">あくせく</span><span type="rp">）</span></span>働かなくっても好いではないか。<lb />
+李中行　もう帰るのか。そんなに<seg type="ruby"><seg type="rb">齷齪</seg><seg type="rp">（</seg><seg type="rt">あくせく</seg><seg type="rp">）</seg></seg>働かなくっても好いではないか。<lb />
 會徳　どうして、どうして、今もいう通り、手足が八本もほしい時節だ。<lb />
 （會徳は下のかたへ立去る。）<lb />
 柳　誰だってそうだ。齷齪しなければ生きていられない世の中ということを知らないのは、お前さんぐらいのものだ。（鎌を持ちて行きかけて立戻る。）おまえさんは何かに祟られているんだよ。<lb />
 李中行　祟られている……。<lb />
-柳　<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と何かに祟られているんだよ。十五夜の晩に、おかしい旅の奴が来て、青蛙神だとか云って三本足の青い蝦蟆を見せると、わたしが止めるのも<span type="ruby"><span type="rb">肯</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>かないで、おまえさんは何か祈ったろう。障らぬ神に祟り無しと云うのはその事だ。神様だが魔物だか判らないようなものに、うっかり祈ったり、願掛けをしたりすると、飛んでもない祟りや災難を受けることがあるものだ。お前さんは屹とあの蝦蟆に祟られたんだよ。それで無くって、今まで真面目に働いていた人間が、急に生まれ変ったような怠け者になる筈が無いからね。<lb />
+柳　<seg type="ruby"><seg type="rb">屹</seg><seg type="rp">（</seg><seg type="rt">きっ</seg><seg type="rp">）</seg></seg>と何かに祟られているんだよ。十五夜の晩に、おかしい旅の奴が来て、青蛙神だとか云って三本足の青い蝦蟆を見せると、わたしが止めるのも<seg type="ruby"><seg type="rb">肯</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>かないで、おまえさんは何か祈ったろう。障らぬ神に祟り無しと云うのはその事だ。神様だが魔物だか判らないようなものに、うっかり祈ったり、願掛けをしたりすると、飛んでもない祟りや災難を受けることがあるものだ。お前さんは屹とあの蝦蟆に祟られたんだよ。それで無くって、今まで真面目に働いていた人間が、急に生まれ変ったような怠け者になる筈が無いからね。<lb />
 李中行　祟られるなら祟られても好い。幾度云っても同じことで、おれの料簡はおまえ達には判らないのだ。まあ、打っちゃって置いてくれ。<lb />
 （李は笑いながら悠々と長煙管の煙草をのんでいる。）<lb />
 柳　（舌打ちして。）ええ、どうとも勝手にするが好い。気違いじじいめ。<lb />
 （柳はそのまま表へ出で、足早に下のかたへ立去る。李はそのうしろ姿を見て、大きく笑い出す。）<lb />
 李中行　なにが気ちがいだ。どいつも今にびっくりするな。あはははははは。（立って土間をあるき廻る。）中二の奴めも利口ぶって、何かおれに意見するだろう。あははははは。あいつ等はみんな青蛙神の奇特を知らないのだ。青蛙神に祈れば、自然に福を授けられると云うことを知らないのだ。あははははは。いや、あんまり笑ったので喉が渇いて来た。あははははは。<lb />
-（李は頻りに笑いながら、<span type="ruby"><span type="rb">竃</span><span type="rp">（</span><span type="rt">かまど</span><span type="rp">）</span></span>のそばへ行き、棚から大きい茶碗を把ってバケツの水を掬って飲む。やがて飲み終りて何ごころなく見かえり<span type="ruby"><span type="rb">俄</span><span type="rp">（</span><span type="rt">にわか</span><span type="rp">）</span></span>におどろく。）<lb />
-李中行　や、蝦蟆が出た……。おお、三本足だ……。確にこのあいだの青蛙神だ。はて、どこから来たのだろう。それとも矢っぱりおれの家に<span type="ruby"><span type="rb">残</span><span type="rp">（</span><span type="rt">のこ</span><span type="rp">）</span></span>っていたのかな。そうだ、そうだ。いつまでもここの家を立去らないで、おれを守ってくれるに相違ないのだ。いや、有難いことだ。（土間にひざまずいて拝し、再び顔をあげる。）や、いつの間にか姿が見えなくなったぞ。なに、見えても見えなくても構わない。ここの家のどこかにいて呉れれば、それで好いのだ。はははははは。<lb />
-（李は<span type="ruby"><span type="rb">榻</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>に腰をおろして、再び煙草を喫んでいる。砧の音。やがて下のかたより高田圭吉、仕事着のままにて走り出で、窓より内を覗く。）<lb />
+（李は頻りに笑いながら、<seg type="ruby"><seg type="rb">竃</seg><seg type="rp">（</seg><seg type="rt">かまど</seg><seg type="rp">）</seg></seg>のそばへ行き、棚から大きい茶碗を把ってバケツの水を掬って飲む。やがて飲み終りて何ごころなく見かえり<seg type="ruby"><seg type="rb">俄</seg><seg type="rp">（</seg><seg type="rt">にわか</seg><seg type="rp">）</seg></seg>におどろく。）<lb />
+李中行　や、蝦蟆が出た……。おお、三本足だ……。確にこのあいだの青蛙神だ。はて、どこから来たのだろう。それとも矢っぱりおれの家に<seg type="ruby"><seg type="rb">残</seg><seg type="rp">（</seg><seg type="rt">のこ</seg><seg type="rp">）</seg></seg>っていたのかな。そうだ、そうだ。いつまでもここの家を立去らないで、おれを守ってくれるに相違ないのだ。いや、有難いことだ。（土間にひざまずいて拝し、再び顔をあげる。）や、いつの間にか姿が見えなくなったぞ。なに、見えても見えなくても構わない。ここの家のどこかにいて呉れれば、それで好いのだ。はははははは。<lb />
+（李は<seg type="ruby"><seg type="rb">榻</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>に腰をおろして、再び煙草を喫んでいる。砧の音。やがて下のかたより高田圭吉、仕事着のままにて走り出で、窓より内を覗く。）<lb />
 高田　おお、お父さんは内にいるのか。もし、もし……。<lb />
 李中行　（みかえる。）やあ、高田さんか。<lb />
-高田　（高田は正面の扉をあけて、忙がわしく入り来る。）どうも大変なことが<span type="ruby"><span type="rb">出来</span><span type="rp">（</span><span type="rt">しゅったい</span><span type="rp">）</span></span>しましてね。<lb />
+高田　（高田は正面の扉をあけて、忙がわしく入り来る。）どうも大変なことが<seg type="ruby"><seg type="rb">出来</seg><seg type="rp">（</seg><seg type="rt">しゅったい</seg><seg type="rp">）</seg></seg>しましてね。<lb />
 李中行　大変なこと……。何が出来したのですな。<lb />
 高田　阿香さんが……。<lb />
 李中行　娘が……。<lb />
@@ -379,45 +379,45 @@
 高田　阿母さんはどこにいるんです。<lb />
 （李は答えず、唯ぼんやりしている。）<lb />
 高田　（じれて。）じゃあ、僕が探して来る。あなたは早く行って下さいよ。好いですか。（云い捨てて下のかたへ走り去る。）<lb />
-（李はつづいて歩み出す気力もないように、再び<span rend="sesame_dot" rendition="em">ぐったり</span>と榻に腰をおろし、卓の上に<span type="ruby"><span type="rb">俯伏</span><span type="rp">（</span><span type="rt">うつぶ</span><span type="rp">）</span></span>している。下の方より村の若者がバケツ二個を天びん棒に<span type="ruby"><span type="rb">荷</span><span type="rp">（</span><span type="rt">にな</span><span type="rp">）</span></span>いて出で、何か歌いながら井戸の水を汲みて去る。それと入れちがいに、下のかたより柳は鎌を持ちて走り出で、すぐに内へ駈け込む。）<lb />
+（李はつづいて歩み出す気力もないように、再び<seg rend="sesame_dot" rendition="em">ぐったり</seg>と榻に腰をおろし、卓の上に<seg type="ruby"><seg type="rb">俯伏</seg><seg type="rp">（</seg><seg type="rt">うつぶ</seg><seg type="rp">）</seg></seg>している。下の方より村の若者がバケツ二個を天びん棒に<seg type="ruby"><seg type="rb">荷</seg><seg type="rp">（</seg><seg type="rt">にな</seg><seg type="rp">）</seg></seg>いて出で、何か歌いながら井戸の水を汲みて去る。それと入れちがいに、下のかたより柳は鎌を持ちて走り出で、すぐに内へ駈け込む。）<lb />
 柳　（息をはずませて。）もし、お前さん。阿香が大変な怪我をしたそうで……。どうしたら好いだろう。お前さんも高田さんから話を聞いたろうね。<lb />
 （李はやはり俯伏している。柳はその腕をつかんで、無理にひき起す。）<lb />
 柳　お前さん、しっかりおしなさいよ。阿香はどうも助かりそうも無いと云うじゃあないか。中二のところへも知らせたと云うから、中二は直ぐに駈け付けたろうけれど、わたし達もこうしちゃいられない。お前さん、早く行って様子を見て来てくださいよ。<lb />
-李中行　（力なげに。）行ってみたければ、お前ひとりで行くが好い。おれは<span type="ruby"><span type="rb">忌</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>だ。<lb />
+李中行　（力なげに。）行ってみたければ、お前ひとりで行くが好い。おれは<seg type="ruby"><seg type="rb">忌</seg><seg type="rp">（</seg><seg type="rt">いや</seg><seg type="rp">）</seg></seg>だ。<lb />
 柳　わたしは女だから困るじゃないか。お前さん早くおいでなさいよ。<lb />
 李中行　（頭をふる。）忌だ、忌だ。<lb />
 柳　なぜ忌だというのさ。娘が死にかかっているんじゃないか。<lb />
-李中行　（嘆息して。）それだから忌だというのだ。可愛い娘が機械にまき込まれて、死にかかった<span type="ruby"><span type="rb">蟋蟀</span><span type="rp">（</span><span type="rt">きりぎりす</span><span type="rp">）</span></span>のように、手も足も折れてしまった。……。そんな<span type="ruby"><span type="rb">酷</span><span type="rp">（</span><span type="rt">むご</span><span type="rp">）</span></span>たらしい姿を見せ付けられて堪るものか。その話を聞いただけでも、おれはもう魂が抜けたようになっているのだ。<lb />
+李中行　（嘆息して。）それだから忌だというのだ。可愛い娘が機械にまき込まれて、死にかかった<seg type="ruby"><seg type="rb">蟋蟀</seg><seg type="rp">（</seg><seg type="rt">きりぎりす</seg><seg type="rp">）</seg></seg>のように、手も足も折れてしまった。……。そんな<seg type="ruby"><seg type="rb">酷</seg><seg type="rp">（</seg><seg type="rt">むご</seg><seg type="rp">）</seg></seg>たらしい姿を見せ付けられて堪るものか。その話を聞いただけでも、おれはもう魂が抜けたようになっているのだ。<lb />
 柳　（おなじく嘆息する。）そう云えば、わたしもそうだが、それでも息のあるうちに、一度逢って遣りたいような気もするからね。当人だって何か云って置きたいことがあるかも知れない。<lb />
 李中行　遺言があるならば、中二が聞いて来るだろう。なにしろおれは御免だ。（また俯伏す。）<lb />
 柳　困るねえ。だって、まだ死ぬか生きるか確に決まったわけでも無いじゃあないか。（李の肩に手をかけて揺る。）お前さん。後生だから行ってみて下さいよ。<lb />
 （李は答えず。）<lb />
-柳　仕様がないねえ。じゃあ、いっそ思い切ってわたしが行こうかしら。こんな<span type="ruby"><span type="rb">装</span><span type="rp">（</span><span type="rt">なり</span><span type="rp">）</span></span>をして行っちゃあ、娘の外聞にもかかわるかも知れない。けれど、この場合にそんなことを云っちゃあいられない。<lb />
+柳　仕様がないねえ。じゃあ、いっそ思い切ってわたしが行こうかしら。こんな<seg type="ruby"><seg type="rb">装</seg><seg type="rp">（</seg><seg type="rt">なり</seg><seg type="rp">）</seg></seg>をして行っちゃあ、娘の外聞にもかかわるかも知れない。けれど、この場合にそんなことを云っちゃあいられない。<lb />
 （柳は鎌を片付けて、身支度をする。下のかたより會徳出づ。）<lb />
 會徳　（窓から声をかける。）なんだか娘が怪我をしたと云うではないか。<lb />
 柳　（泣き声で。）高田さんの話では、もう助かりそうも無いと云うんですよ。<lb />
 會徳　それは飛んだことだな。なにしろ早く行ってみたら好かろう。<lb />
-柳　そう云うんだけれど、この人が<span rend="sesame_dot" rendition="em">ぐずぐず</span>していて、行って呉れないんですよ。<lb />
+柳　そう云うんだけれど、この人が<seg rend="sesame_dot" rendition="em">ぐずぐず</seg>していて、行って呉れないんですよ。<lb />
 會徳　それではお前が行くがいい。ひとりで困るなら、おれが一緒に行って遣ろうか。<lb />
 柳　じゃあ、済まないが、そうして下さい。<lb />
 會徳　よし、よし。<lb />
 （柳は身支度して表へ出で、會と共に下のかたへ行こうとする時、下の方より李中二走り出づ。）<lb />
-中二　おお、<span type="ruby"><span type="rb">阿母</span><span type="rp">（</span><span type="rt">おっか</span><span type="rp">）</span></span>さん。<lb />
+中二　おお、<seg type="ruby"><seg type="rb">阿母</seg><seg type="rp">（</seg><seg type="rt">おっか</seg><seg type="rp">）</seg></seg>さん。<lb />
 柳　これから病院へ行こうと思っているんだが、阿香はどんな様子だね。<lb />
 中二　妹はもういけない。<lb />
 柳　いけない……。<lb />
 會徳　もう死んだのか。<lb />
-中二　病院へ送られると直ぐに息を引取ってわたしでさえ間に合わない位でした。（顔をしかめて嘆息する。）なにしろ機械にまき込まれて、手も足も<span rend="sesame_dot" rendition="em">ばらばら</span>になって仕舞ったんだから、どうにも手当の仕様が無かったそうです。<lb />
+中二　病院へ送られると直ぐに息を引取ってわたしでさえ間に合わない位でした。（顔をしかめて嘆息する。）なにしろ機械にまき込まれて、手も足も<seg rend="sesame_dot" rendition="em">ばらばら</seg>になって仕舞ったんだから、どうにも手当の仕様が無かったそうです。<lb />
 會徳　工場では時々にそんなことがあると聞いていたが、全く怖ろしいことだな。<lb />
-中二　そこで、阿母さん。死骸は今ここへ運んで来るから、病院までわざわざ出て行くには及びません。まあ、内へ<span type="ruby"><span type="rb">這入</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>って待っておいでなさい。（云いかけて下のかたを見る。）ああ、もう来た、もう来た。<lb />
+中二　そこで、阿母さん。死骸は今ここへ運んで来るから、病院までわざわざ出て行くには及びません。まあ、内へ<seg type="ruby"><seg type="rb">這入</seg><seg type="rp">（</seg><seg type="rt">はい</seg><seg type="rp">）</seg></seg>って待っておいでなさい。（云いかけて下のかたを見る。）ああ、もう来た、もう来た。<lb />
 （下のかたより高田圭吉出づ。）<lb />
 高田　（柳に。）どうも残念なことでした。僕が途中まで引返すと、もう死骸を送って来るのに逢って仕舞ったんです。所詮むずかしかろうとは思っていたんですが、こんなに早かろうとは思いませんでした。<lb />
 柳　（泣き出す。）まったく夢のようで……。こんなことになると知ったら、工場なんぞへ遣るんじゃあなかったが……。<lb />
 中二　（なだめるように。）まあ、内へ……内へ……。<lb />
-（中二は母を<span type="ruby"><span type="rb">扶</span><span type="rp">（</span><span type="rt">たす</span><span type="rp">）</span></span>けて内へ連れ込もうとする時、下のかたより工場の事務員浦辺、三十五六歳、洋服を着て先に立ち、若き事務員村上は花環を持ち、あとより支那の<span type="ruby"><span type="rb">苦力</span><span type="rp">（</span><span type="rt">クーリー</span><span type="rp">）</span></span>二人が担架をかき、担架には阿香の死骸を横えて白い毛布をかけてある。又そのあとより同じ工場の女工時子、君子が草花を持ちて出づ。）<lb />
+（中二は母を<seg type="ruby"><seg type="rb">扶</seg><seg type="rp">（</seg><seg type="rt">たす</seg><seg type="rp">）</seg></seg>けて内へ連れ込もうとする時、下のかたより工場の事務員浦辺、三十五六歳、洋服を着て先に立ち、若き事務員村上は花環を持ち、あとより支那の<seg type="ruby"><seg type="rb">苦力</seg><seg type="rp">（</seg><seg type="rt">クーリー</seg><seg type="rp">）</seg></seg>二人が担架をかき、担架には阿香の死骸を横えて白い毛布をかけてある。又そのあとより同じ工場の女工時子、君子が草花を持ちて出づ。）<lb />
 高田　（会釈して。）皆さん、御苦労でした。<lb />
 中二　狭い所ですが、どうぞこちらへ……。<lb />
-（中二は母を連れて内に入る。一同もつづいて内に入れば、中二と高田が指図して、會徳も手伝い、阿香の死骸を上のかたの寝室へ運び込む。浦辺は苦力に向って、もう帰ってもよいと知らすれば、二人は担架を<span type="ruby"><span type="rb">舁</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>きて去る。村上は花環をささげ、時子と君子も花をささげる心にて、連れ立ちて寝室に入れば、中二と會徳は室内に残り、高田は出る。）<lb />
+（中二は母を連れて内に入る。一同もつづいて内に入れば、中二と高田が指図して、會徳も手伝い、阿香の死骸を上のかたの寝室へ運び込む。浦辺は苦力に向って、もう帰ってもよいと知らすれば、二人は担架を<seg type="ruby"><seg type="rb">舁</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>きて去る。村上は花環をささげ、時子と君子も花をささげる心にて、連れ立ちて寝室に入れば、中二と會徳は室内に残り、高田は出る。）<lb />
 浦辺　（高田に。）ここにいるのがお父さんですね。<lb />
 高田　（李をみかえって。）そうです、そうです。（柳を指さして。）これが阿母さんです。<lb />
 浦辺　（夫婦に。）委細は息子さんに話して置きましたが、まことに飛んだ災難で、なんとも申上げようがありません。<lb />
@@ -426,12 +426,12 @@
 李中行　（低い声で。）はい、はい。<lb />
 （村上、時子、君子は寝室より出づ。）<lb />
 浦辺　よく拝んで来ましたか。<lb />
-時子　（眼を<span type="ruby"><span type="rb">湿</span><span type="rp">（</span><span type="rt">うる</span><span type="rp">）</span></span>ませながら。）はい、お花を供えて拝んでまいりました。<lb />
+時子　（眼を<seg type="ruby"><seg type="rb">湿</seg><seg type="rp">（</seg><seg type="rt">うる</seg><seg type="rp">）</seg></seg>ませながら。）はい、お花を供えて拝んでまいりました。<lb />
 君子　お午過ぎまで一緒に仕事をしていた阿香さんが、俄にこんなことになろうとは……。<lb />
-（二人は袖を眼にあてて<span type="ruby"><span type="rb">啜</span><span type="rp">（</span><span type="rt">すす</span><span type="rp">）</span></span>り泣きをする。）<lb />
+（二人は袖を眼にあてて<seg type="ruby"><seg type="rb">啜</seg><seg type="rp">（</seg><seg type="rt">すす</seg><seg type="rp">）</seg></seg>り泣きをする。）<lb />
 村上　調べ革のあぶないと云うことは、阿香さんもよく知っている筈だがなあ。<lb />
 高田　何かの用があって機械場へ行く場合には、よく気をつけるように云い渡されているんだが……。どうして調べ革のそばへ近寄ったのかなあ。<lb />
-浦辺　その場にいた者の話によると、阿香さんもそんなに危ない所を通ったと云うわけでもないのだが、なんだか物にでも引かれたように、自分の方から<span rend="sesame_dot" rendition="em">ふらふら</span><span rend="notes">［＃「<span rend="sesame_dot" rendition="em">ふらふら</span>」は底本では「<span rend="sesame_dot" rendition="em">ふらふ</span>ら」］</span>と機械のそばへ寄って行ったように見えたと云うことだが……。<lb />
+浦辺　その場にいた者の話によると、阿香さんもそんなに危ない所を通ったと云うわけでもないのだが、なんだか物にでも引かれたように、自分の方から<seg rend="sesame_dot" rendition="em">ふらふら</seg><seg rend="notes" rendition="span">［＃「<seg rend="sesame_dot" rendition="em">ふらふら</seg>」は底本では「<seg rend="sesame_dot" rendition="em">ふらふ</seg>ら」］</seg>と機械のそばへ寄って行ったように見えたと云うことだが……。<lb />
 高田　（打消すように。）いや、そんなことは無い。阿香さんの死んだのは確に過失ですよ。自分の方から機械のそばへ寄ったなんて、そんな馬鹿なことがあるものか。（激して。）阿香さんが……何で自殺なんぞするものか。<lb />
 浦辺　（しずかに。）君、誤解しちゃあいけないよ。工場の方では、過失であるとか無いとか云うことを問題にして、弔慰金の額を多くするとか少くするとか云うわけじゃあない。いずれにしても規定の弔慰金はかならず支出するのだが、唯その場にいた者がそんな話をしていたから、僕はその取次ぎをしたに過ぎないのだ。<lb />
 李中行　娘の方から機械のそばへ寄って行ったのでしょうか。<lb />
@@ -443,14 +443,14 @@
 浦辺　むむ。わたしももう一度拝んで行こう。<lb />
 （浦辺は寝室に入る。）<lb />
 時子　（高田に。）ここの家のお墓はどこにあるんでしょう。<lb />
-高田　僕も今まで知らなかったが、中二君の話ではここから、三四町ほど<span type="ruby"><span type="rb">距</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>れた所にあるそうだ。<lb />
+高田　僕も今まで知らなかったが、中二君の話ではここから、三四町ほど<seg type="ruby"><seg type="rb">距</seg><seg type="rp">（</seg><seg type="rt">はな</seg><seg type="rp">）</seg></seg>れた所にあるそうだ。<lb />
 君子　それじゃあ時々に御参詣に来られますわね。<lb />
-柳　（泣きながら。）どうぞお墓参りに行って遣ってください。あれも<span type="ruby"><span type="rb">嘸</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>ぞ喜びましょうから。<lb />
+柳　（泣きながら。）どうぞお墓参りに行って遣ってください。あれも<seg type="ruby"><seg type="rb">嘸</seg><seg type="rp">（</seg><seg type="rt">さ</seg><seg type="rp">）</seg></seg>ぞ喜びましょうから。<lb />
 （柳も時子も君子も眼をふいている。一室より浦辺出づ。あとより中二と會徳も出づ。）<lb />
 浦辺　では、皆さん。いずれ又伺います。<lb />
 中二　色々ありがとうございました。<lb />
 （浦辺は先に立ち、村上、時子、君子、皆それぞれに会釈して表へ出で、下のかたへ立去る。）<lb />
-會徳　みんなも力落しであろうけれど、もう<span type="ruby"><span type="rb">斯</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>うなったら仕方がない。早く近所の人たちを呼んで来て、葬式の支度に取りかかることにしようではないか。<lb />
+會徳　みんなも力落しであろうけれど、もう<seg type="ruby"><seg type="rb">斯</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>うなったら仕方がない。早く近所の人たちを呼んで来て、葬式の支度に取りかかることにしようではないか。<lb />
 中二　何分よろしく願います。<lb />
 會徳　では、すぐに行って来よう。<lb />
 （會徳は早々に下のかたへ立去る。）<lb />
@@ -458,9 +458,9 @@
 （李は黙っている。柳も無言で泣いている。）<lb />
 高田　（嘆息する。）無理もないなあ。阿香さんは死んでしまった。ああ、僕もなんだか世の中が暗やみになったようだ。<lb />
 （高田はふらふらと寝室に入る。中二は同情するように見送る。そのうちに柳は声を立てて泣き出すので、中二は進み寄ってその肩に手をかける。）<lb />
-中二　阿母さん。もう泣いても仕様がありません。これも運命――これもよんどころない災難とあきらめて、妹の死んだ跡を弔って遣るより外はありませんよ。工場の方でも相当の金をくれるそうですから、それで立派な葬式をして遣りましょう。それがせめてもの<span type="ruby"><span type="rb">追善</span><span type="rp">（</span><span type="rt">ついぜん</span><span type="rp">）</span></span>ですよ。<lb />
-柳　（又泣く。）金をくれる……。金を幾ら呉れたところで、娘の命が買えるものか。（喰ってかかるように。）若い者のくせに、お前が意気地がないからだ。なぜ工場の奴等に<span rend="sesame_dot" rendition="em">もっと</span>厳しく掛合って遣らないのだ。<span type="ruby"><span type="rb">唯</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>った一人の妹を殺されて、黙っている奴があるものか。<lb />
-中二　でも、粗相で死んだのですからね。誰が悪いと云うわけでもない。今もいう通り、これも<span type="ruby"><span type="rb">拠</span><span type="rp">（</span><span type="rt">よんどこ</span><span type="rp">）</span></span>ろない災難と諦めるの外はありませんよ。ねえ、お父さんも諦めてください。<lb />
+中二　阿母さん。もう泣いても仕様がありません。これも運命――これもよんどころない災難とあきらめて、妹の死んだ跡を弔って遣るより外はありませんよ。工場の方でも相当の金をくれるそうですから、それで立派な葬式をして遣りましょう。それがせめてもの<seg type="ruby"><seg type="rb">追善</seg><seg type="rp">（</seg><seg type="rt">ついぜん</seg><seg type="rp">）</seg></seg>ですよ。<lb />
+柳　（又泣く。）金をくれる……。金を幾ら呉れたところで、娘の命が買えるものか。（喰ってかかるように。）若い者のくせに、お前が意気地がないからだ。なぜ工場の奴等に<seg rend="sesame_dot" rendition="em">もっと</seg>厳しく掛合って遣らないのだ。<seg type="ruby"><seg type="rb">唯</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>った一人の妹を殺されて、黙っている奴があるものか。<lb />
+中二　でも、粗相で死んだのですからね。誰が悪いと云うわけでもない。今もいう通り、これも<seg type="ruby"><seg type="rb">拠</seg><seg type="rp">（</seg><seg type="rt">よんどこ</seg><seg type="rp">）</seg></seg>ろない災難と諦めるの外はありませんよ。ねえ、お父さんも諦めてください。<lb />
 李中行　まったく諦めるより外はないが……。これ、中二、おれはどうも気にかかってならない事がある。娘は自分の方から機械のそばへ寄って行って、調べ革とかいうものに捲き込まれたのだろうか。<lb />
 中二　そんなことを云う者もありますが……。どうも確なことは判りませんよ。（考えて。）まあ、嘘でしょうね。<lb />
 李中行　（疑うように。）嘘だろうか。<lb />
@@ -468,14 +468,14 @@
 中二　（うなずく。）どう考えても粗相ですよ。<lb />
 李中行　そこで、工場の方では幾らぐらいの金を呉れるのだろうな。<lb />
 中二　工場の方にも色々の規定があるのだそうで、妹には三千二百円くれると云うことです。<lb />
-李中行　三千二百円……。こっちの<span type="ruby"><span type="rb">両</span><span type="rp">（</span><span type="rt">テール</span><span type="rp">）</span></span>に直すと、幾らほどになるのだな。<lb />
-中二　この頃は上海の銀相場が廉いから、こっちの一両は日本の八十銭……。三千二百円は丁度こっちの四千<span type="ruby"><span type="rb">両</span><span type="rp">（</span><span type="rt">テール</span><span type="rp">）</span></span>に相当しますね。<lb />
+李中行　三千二百円……。こっちの<seg type="ruby"><seg type="rb">両</seg><seg type="rp">（</seg><seg type="rt">テール</seg><seg type="rp">）</seg></seg>に直すと、幾らほどになるのだな。<lb />
+中二　この頃は上海の銀相場が廉いから、こっちの一両は日本の八十銭……。三千二百円は丁度こっちの四千<seg type="ruby"><seg type="rb">両</seg><seg type="rp">（</seg><seg type="rt">テール</seg><seg type="rp">）</seg></seg>に相当しますね。<lb />
 李中行　（愕然として叫ぶ。）四千両……。四千両……。（中二の胸をつかむ。）これ、ほんとうに四千両か。<lb />
 中二　そうです、そうです。<lb />
 李中行　四千両……。ああ、怖ろしいことだ。<lb />
 （李は掴みし手を放して、よろよろと倒れかかるを、中二は抱える。）<lb />
 中二　これ、どうしたんです。お父さん、しっかりおしなさいよ。<lb />
-柳　お前さんまでが<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うしたんだよ。<lb />
+柳　お前さんまでが<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うしたんだよ。<lb />
 （この騒ぎに、高田も寝室より出づ。）<lb />
 高田　お父さんが又どうかしたんですか。さっきも驚いて倒れかかったが……。（又もや嘆息して。）まったく無理もないな。<lb />
 李中行　（唸るように。）水をくれ……。水をくれ……。<lb />
@@ -492,16 +492,16 @@
 中二　相変らず蝦蟆に取憑かれているんだな。（少しく声を強めて。）それはお父さんの眼のせいですよ。<lb />
 李中行　ほんとうに居ないかな。（腰をおろして大息をつく。）ああ、怖ろしいことだ。<lb />
 高田　何がそんなに怖ろしいのです。<lb />
-李中行　いや、まあ、皆んな聴いてくれ。こうなったら正直に打明けるが、このあいだの晩、おれが青蛙神に祈ったときに、どうぞここ一月のうちに八千<span type="ruby"><span type="rb">両</span><span type="rp">（</span><span type="rt">テール</span><span type="rp">）</span></span>の金をわたくしにお授け下さいと……。<lb />
+李中行　いや、まあ、皆んな聴いてくれ。こうなったら正直に打明けるが、このあいだの晩、おれが青蛙神に祈ったときに、どうぞここ一月のうちに八千<seg type="ruby"><seg type="rb">両</seg><seg type="rp">（</seg><seg type="rt">テール</seg><seg type="rp">）</seg></seg>の金をわたくしにお授け下さいと……。<lb />
 中二　八千両……。<lb />
-李中行　そうだ、八千両……。実は一万両と云いたかったのだが、それではあんまり慾が深過ぎるかと遠慮して、八千両と祈ったのだが……。そうすると、どうだ。（恐怖に身をふるわせる。）それから五日目の<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">きょう</span><span type="rp">）</span></span>になって、八千両の半分――四千両が不意に授かるようになった。併しその四千両は……大事な娘の命と引換えになったのだ。<lb />
+李中行　そうだ、八千両……。実は一万両と云いたかったのだが、それではあんまり慾が深過ぎるかと遠慮して、八千両と祈ったのだが……。そうすると、どうだ。（恐怖に身をふるわせる。）それから五日目の<seg type="ruby"><seg type="rb">今日</seg><seg type="rp">（</seg><seg type="rt">きょう</seg><seg type="rp">）</seg></seg>になって、八千両の半分――四千両が不意に授かるようになった。併しその四千両は……大事な娘の命と引換えになったのだ。<lb />
 （聴いている三人も思わず顔を見あわせる。）<lb />
-李中行　ああ、考えても怖ろしい。そこで、残りの四千両――それを授けられる時には、又ひとりの生贄を取られることになるだろう。いや、それに相違ないのだ。（更に身を<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>わせる。）さあ、今度はだれの番だ……。誰の番だ……。<lb />
+李中行　ああ、考えても怖ろしい。そこで、残りの四千両――それを授けられる時には、又ひとりの生贄を取られることになるだろう。いや、それに相違ないのだ。（更に身を<seg type="ruby"><seg type="rb">顫</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>わせる。）さあ、今度はだれの番だ……。誰の番だ……。<lb />
 （三人も一種の恐怖に襲われたように黙っている。下のかたより會徳を先に村の男村の女出で、窓の外より内を窺う。）<lb />
 李中行　（いよいよ亢奮して。）さあ、今度は誰だ……。誰だ……。だれの命が四千両と引換えになるのだ。<lb />
 （李は狂うように立ちかかるを、三人は捨台詞にておさえる。會徳等は内をのぞいて不安らしく囁き合う、家々の砧の音高くきこゆ。）<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</span>
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――幕――</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　第三幕の登場人物<lb />
 李中行<lb />
@@ -512,22 +512,22 @@
 第一の男<lb />
 第二の男<lb />
 ほかに村の男三人<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_10" rendition="div" style="margin-left: 10em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">第三幕</span></span></span>
+<seg rend="jisage_10" rendition="div" style="margin-left: 10em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">第三幕</seg></seg></seg>
 <lb />
 　おなじく李中行の家。<lb />
 　第二幕より更に十五日の後。小雨ふる宵。<lb />
-（李中行と高田圭吉が卓の前に向い合っている。卓の上には小さいランプが置いてある。薄く雨の音、虫の声さびしく<span type="ruby"><span type="rb">聞</span><span type="rp">（</span><span type="rt">きこ</span><span type="rp">）</span></span>ゆ。）<lb />
+（李中行と高田圭吉が卓の前に向い合っている。卓の上には小さいランプが置いてある。薄く雨の音、虫の声さびしく<seg type="ruby"><seg type="rb">聞</seg><seg type="rp">（</seg><seg type="rt">きこ</seg><seg type="rp">）</seg></seg>ゆ。）<lb />
 高田　（立ちかかる。）相変らずお邪魔をしました。<lb />
 李中行　（あわてて引留めるように。）まあ、もう少し話して行ってください。お前さんが帰ってしまうと、急にさびしくなっていけない。中二が来るまで待っていて下さいよ、お願いですから……。<lb />
 高田　（躊躇して。）中二君は今夜も来るんですか。<lb />
 李中行　来ます、来ます。ゆうべは店の都合で出られなかったが、今夜はきっと来ると云っていました。今夜は泊るでしょう。<lb />
 高田　泊るんですか。<lb />
-李中行　なにしろ、娘がああ云うことになってしまって、わたし達ふたりでは寂しくって仕様がないので、主人にも訳を話して、当分は一晩置きぐらいに泊りに来て貰うことにしているのです。それだから、今夜は<span type="ruby"><span type="rb">屹</span><span type="rp">（</span><span type="rt">きっ</span><span type="rp">）</span></span>と泊りに来ますよ。（寝室をみかえる。）あの一件以来、女房は半病人のような姿でぼんやりしている。私ひとりでは<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うにもなりませんからね。<lb />
+李中行　なにしろ、娘がああ云うことになってしまって、わたし達ふたりでは寂しくって仕様がないので、主人にも訳を話して、当分は一晩置きぐらいに泊りに来て貰うことにしているのです。それだから、今夜は<seg type="ruby"><seg type="rb">屹</seg><seg type="rp">（</seg><seg type="rt">きっ</seg><seg type="rp">）</seg></seg>と泊りに来ますよ。（寝室をみかえる。）あの一件以来、女房は半病人のような姿でぼんやりしている。私ひとりでは<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うにもなりませんからね。<lb />
 高田　（嘆息して。）察していますよ。<lb />
 李中行　察してください。今度のことに就いて、誰でも皆んな気の毒だと云っては呉れるが、そのなかでも本当にわたし達の心を察してくれるのは、高田さん、お前さんばかりだ。ねえ、そうでしょう。お前さんが毎日墓参りに行ってくれるので、娘もどんなに喜んでいるか知れませんよ。（声を陰らせる。）あんなことさえ無ければ、ねえ、お前さん。近いうちに、おたがいに親類になれるのだったが……。<lb />
-高田　あれ以来、僕も何だか大連にいるのが<span type="ruby"><span type="rb">忌</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>になったので、いっそ内地へ帰って仕舞おうかとも思ったんですが、帰ったところで仕様もないので、まあ当分はやっぱりここで働くことにしたんです。なんの為に働くのか、自分でも判らないんですが……、（又もや嘆息して。）まあ、我慢して働けるだけは働く積りです。<lb />
+高田　あれ以来、僕も何だか大連にいるのが<seg type="ruby"><seg type="rb">忌</seg><seg type="rp">（</seg><seg type="rt">いや</seg><seg type="rp">）</seg></seg>になったので、いっそ内地へ帰って仕舞おうかとも思ったんですが、帰ったところで仕様もないので、まあ当分はやっぱりここで働くことにしたんです。なんの為に働くのか、自分でも判らないんですが……、（又もや嘆息して。）まあ、我慢して働けるだけは働く積りです。<lb />
 李中行　おたがいに寂しいのは仕方がない、張合のないのも仕方がない。まあ、まあ、我慢して働くより外はありませんよ。<lb />
 （柳はやつれたる姿にて、小さい蝋燭に灯をとぼして出づ。）<lb />
 柳　高田さん、いらっしゃい。<lb />
@@ -536,9 +536,9 @@
 高田　御もっともです。それに葬式や何かの疲れもありますからね。まあ、なるたけ体を楽にして、休んでおいでなさい。<lb />
 柳　じゃあ、御免なさい。（行きかけて耳を傾ける。）雨が又降り出したのか。ああ、さびしい晩だねえ。（力なげに寝室に入る。）<lb />
 李中行　（小声で。）あの通りですからな。<lb />
-高田　困りますね。<span type="ruby"><span type="rb">阿母</span><span type="rp">（</span><span type="rt">おっか</span><span type="rp">）</span></span>さんも不断はなかなか元気が好かったんだが……。<lb />
+高田　困りますね。<seg type="ruby"><seg type="rb">阿母</seg><seg type="rp">（</seg><seg type="rt">おっか</seg><seg type="rp">）</seg></seg>さんも不断はなかなか元気が好かったんだが……。<lb />
 李中行　二口目には亭主に食ってかかって、始末に負えない奴でしたが、あの一件からまるで気抜けがしたようになって仕舞って……。もう少ししっかりして呉れないと困ります。<lb />
-高田　そうですねえ。（云いかけて、これも耳を傾ける。）さっきから話にまぎれて気が<span type="ruby"><span type="rb">注</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>かなかったが、阿母さんのいう通り、いつの間にか雨が降り出して来ましたね。<lb />
+高田　そうですねえ。（云いかけて、これも耳を傾ける。）さっきから話にまぎれて気が<seg type="ruby"><seg type="rb">注</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>かなかったが、阿母さんのいう通り、いつの間にか雨が降り出して来ましたね。<lb />
 李中行　成程、又ふり出して来たようだ。此頃の秋のくせで仕方がない。<lb />
 （雨の音。虫の声。それを聴くとも無しに耳を傾けて、二人はしばらく無言。下のかたより第一の男、三十余歳、笠をかぶりて出て、入口の扉を叩く。）<lb />
 李中行　（みかえる。）中二かな。<lb />
@@ -547,12 +547,12 @@
 第一の男　（入り来る。）今晩は……。<lb />
 李中行　（立上りて、不審そうに。）お前さんはどこの人だな。<lb />
 第一の男　わたしは旅の者で、奉天の方から大連の町へ来たのですが、……何分初めてのことですから、土地の方角はわからず、日は暮れる、雨は降る、まことに困っているのですが、今晩一晩だけ泊めて下さるわけには参りますまいか。<lb />
-李中行　（<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">ひやや</span><span type="rp">）</span></span>かに。）いけない。お断りだ。<lb />
+李中行　（<seg type="ruby"><seg type="rb">冷</seg><seg type="rp">（</seg><seg type="rt">ひやや</seg><seg type="rp">）</seg></seg>かに。）いけない。お断りだ。<lb />
 第一の男　寝床などは無くても構いません、この土間の隅にでも寝かして下されば宜しいのです。たった一晩だけですから……。<lb />
-李中行　（声<span type="ruby"><span type="rb">暴</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>く。）いや、なんと云ってもお断りだ。見識らない人間を泊めることは真平だ。早く出て行ってくれ。<lb />
+李中行　（声<seg type="ruby"><seg type="rb">暴</seg><seg type="rp">（</seg><seg type="rt">あら</seg><seg type="rp">）</seg></seg>く。）いや、なんと云ってもお断りだ。見識らない人間を泊めることは真平だ。早く出て行ってくれ。<lb />
 第一の男　どうしてもいけませんか。<lb />
 李中行　いけない、いけない。<lb />
-高田　（やや気の毒そうに。）ここは一軒家じゃあない、ほかにも<span type="ruby"><span type="rb">百姓家</span><span type="rp">（</span><span type="rt">ひゃくしょうや</span><span type="rp">）</span></span>は沢山あるのだから、ほかの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ行って頼んで御覧なさい。<lb />
+高田　（やや気の毒そうに。）ここは一軒家じゃあない、ほかにも<seg type="ruby"><seg type="rb">百姓家</seg><seg type="rp">（</seg><seg type="rt">ひゃくしょうや</seg><seg type="rp">）</seg></seg>は沢山あるのだから、ほかの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ行って頼んで御覧なさい。<lb />
 第一の男　はあ。（躊躇している。）<lb />
 李中行　まあ出て行ってくれ。今もいう通り、旅の人間を泊めるのは真平御免だ。すぐに出て行ってくれ。ええ、おまえも強情な男だな。<lb />
 （李は無理に男を表へ押出せば、男は井戸端へ出て跡をみかえり、やがて笠をかたむけて下のかたへ立去る。）<lb />
@@ -562,22 +562,22 @@
 柳　今、だれか来たようでしたね。<lb />
 高田　知らない人が泊めてくれと云って来たんです。<lb />
 柳　（李に。）おまえさん、断ったろうね。<lb />
-李中行　勿論のことだ。今も云っている所だが、知りもしない旅の人間なぞを<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うして<span type="ruby"><span type="rb">迂闊</span><span type="rp">（</span><span type="rt">うかつ</span><span type="rp">）</span></span>に泊められるものか。無理に断って、逐い出してしまったのだ。<lb />
+李中行　勿論のことだ。今も云っている所だが、知りもしない旅の人間なぞを<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うして<seg type="ruby"><seg type="rb">迂闊</seg><seg type="rp">（</seg><seg type="rt">うかつ</seg><seg type="rp">）</seg></seg>に泊められるものか。無理に断って、逐い出してしまったのだ。<lb />
 柳　なんでも逐い出してしまうに限るよ。又どんな魔ものが舞い込んで来るかも知れないからね。（云い捨てて、再び寝室に入る。）<lb />
 高田　（見送る。）やっぱり落付いていられないんですね。<lb />
 （李は困ったと云うような顔をして、無言にうなずく。高田も気の毒そうに黙っている。雨の音、下のかたより第二の男、やはり第一と同じくらいの年配にて、笠をかぶりて出で、入口の扉をたたく。二人は一旦見返ったが、李はわざと素知らぬ顔をしている。高田は立って扉をあける。）<lb />
 高田　どなた……。<lb />
 第二の男　（入り来る。）旅の者ですが、一晩泊めて頂きたいので……。<lb />
 高田　え、お前さんも泊めてくれと云うのか。<lb />
-李中行　（ぎょっとしたように、飛び上って<span type="ruby"><span type="rb">呶鳴</span><span type="rp">（</span><span type="rt">どな</span><span type="rp">）</span></span>る。）いけない、いけない。お断りだ。<lb />
+李中行　（ぎょっとしたように、飛び上って<seg type="ruby"><seg type="rb">呶鳴</seg><seg type="rp">（</seg><seg type="rt">どな</seg><seg type="rp">）</seg></seg>る。）いけない、いけない。お断りだ。<lb />
 第二の男　初めてこっちへ来ましたので、土地の方角はわからず、日は暮れる、雨は降る……。<lb />
 李中行　（いよいよ呶鳴る。）ええ、同じようなことを云うな。日が暮れようが、雨が降ろうが、それをおれが知ったことか。ここの家は宿屋ではないのだ。<lb />
 第二の男　宿屋でないのは知っていますが……。<lb />
-高田　いや、そればかりでなく、ここの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>は忌中だから他人を泊めることは出来ないのだ。ほかへ行ってくれ給え。<lb />
+高田　いや、そればかりでなく、ここの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>は忌中だから他人を泊めることは出来ないのだ。ほかへ行ってくれ給え。<lb />
 第二の男　ははあ、忌中ですか。一体だれが死んだのです。<lb />
 高田　そんな詮議をするには及ばないから、早く行って呉れたまえ。<lb />
 第二の男　わたしは疲れ切っているので、もう一足も歩かれないのです。<lb />
-（男はそこらにある<span type="ruby"><span type="rb">高粱</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>の<span rend="notes">［＃「<span type="ruby"><span type="rb">高粱</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>の」は底本では「<span type="ruby"><span type="rb">高梁</span><span type="rp">（</span><span type="rt">コーリャン</span><span type="rp">）</span></span>の」］</span>束の上に腰をおろす。寝室より柳が窺い出づ。）<lb />
+（男はそこらにある<seg type="ruby"><seg type="rb">高粱</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>の<seg rend="notes" rendition="span">［＃「<seg type="ruby"><seg type="rb">高粱</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>の」は底本では「<seg type="ruby"><seg type="rb">高梁</seg><seg type="rp">（</seg><seg type="rt">コーリャン</seg><seg type="rp">）</seg></seg>の」］</seg>束の上に腰をおろす。寝室より柳が窺い出づ。）<lb />
 柳　おまえさん。又だれか来たようだが、早く断っておしまいなさいよ。<lb />
 李中行　断っても動かないのだ。（高田に眼配せしながら。）さあ、出て行ってくれ。早く出て行かないと、引摺り出すぞ。<lb />
 高田　夜の更けないうちに、ほかへ行って頼むが好い。ここの家は忌中だというのに……。<lb />
@@ -588,15 +588,15 @@
 柳　さびしいような、騒々しいような。なんだか忌な晩だねえ。（寝室に入る。）<lb />
 李中行　入り代り、立ち代り、おかしな奴が押掛けて来て、まったく忌な晩だ。高田さんに居て貰って好かった。私ひとりだったら、あんな奴等はなかなかおとなしく立去ることではない。それに付けても、中二は遅いな。<lb />
 高田　（腕時計をみる。）もう七時過ぎですから、やがて来るでしょう。あいにくに雨がだんだん強くなったようですね。<lb />
-李中行　なに、あいつはまだ若いから、<span type="ruby"><span type="rb">些</span><span type="rp">（</span><span type="rt">ちっ</span><span type="rp">）</span></span>とぐらいの雨には困りもしますまいよ。（云いかけて思い出したように。）いや、あの中二の奴めは早くから日本人の店へ奉公に行って、夜学に通わせて貰ったりして、些っとばかり西洋の本なぞを読むようになったものだから、此頃はだんだん生意気になって、親の云うことなぞは頭から馬鹿にして取合わないのですが、今度のことは全く私が悪かったのです。飛んでもない慾に迷って、青蛙神に願掛けをしたものだから、四千両の金の代りに娘の命を取られるような事にもなったのですよ。誰がなんと云っても、それに相違ないのです。<lb />
+李中行　なに、あいつはまだ若いから、<seg type="ruby"><seg type="rb">些</seg><seg type="rp">（</seg><seg type="rt">ちっ</seg><seg type="rp">）</seg></seg>とぐらいの雨には困りもしますまいよ。（云いかけて思い出したように。）いや、あの中二の奴めは早くから日本人の店へ奉公に行って、夜学に通わせて貰ったりして、些っとばかり西洋の本なぞを読むようになったものだから、此頃はだんだん生意気になって、親の云うことなぞは頭から馬鹿にして取合わないのですが、今度のことは全く私が悪かったのです。飛んでもない慾に迷って、青蛙神に願掛けをしたものだから、四千両の金の代りに娘の命を取られるような事にもなったのですよ。誰がなんと云っても、それに相違ないのです。<lb />
 高田　（まじめに。）そんなことが無いとも云えませんね。<lb />
 李中行　ところで、お前さん。（あたりを見廻しながら声を低める。）実はね、その三本足の青い蝦蟆がゆうべもここへ出て来たのですよ。<lb />
 高田　本当にここへ出て来ましたか。あなたの眼のせいじゃあ無いんですか。<lb />
-李中行　（頭を<span type="ruby"><span type="rb">掉</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>る。）いいえ、確に出て来て……。（卓の下を指さす。）この卓の下にうずくまっているのを見付けたので、私は直ぐに<span type="ruby"><span type="rb">捉</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>まえて……。<lb />
+李中行　（頭を<seg type="ruby"><seg type="rb">掉</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>る。）いいえ、確に出て来て……。（卓の下を指さす。）この卓の下にうずくまっているのを見付けたので、私は直ぐに<seg type="ruby"><seg type="rb">捉</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>まえて……。<lb />
 高田　（熱心に。）つかまえて……。それからどうしました。<lb />
 李中行　娘のかたきだから、いっそ踏み殺してでも遣ろうかと思ったのですが……。そんなことをして、又どんな祟りをされるかも知れないと思うと、わたしも何だか怖くなったので、そのまま紙の袋へ入れて、遠い野原へ捨てて来たのです。ねえ、おまえさん。現在わたしがこの手で捉まえたのが、確な証拠ではありませんか。<lb />
 高田　むむ。（うなずく。）そうして、その蝦蟆はそれぎり姿を見せませんか。<lb />
-李中行　それはお前さん。わざわざ遠いところへ捨てて来たのだから、二度と帰って来る筈はありません。みんな眼のせいだ、眼のせいだと云っていたが、あの蝦蟆はやっぱり本当にここの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に忍んでいたのですよ。（高田の顔を覗いて。）お前さんはまだ疑いますか。<lb />
+李中行　それはお前さん。わざわざ遠いところへ捨てて来たのだから、二度と帰って来る筈はありません。みんな眼のせいだ、眼のせいだと云っていたが、あの蝦蟆はやっぱり本当にここの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>に忍んでいたのですよ。（高田の顔を覗いて。）お前さんはまだ疑いますか。<lb />
 高田　疑うと云うわけではありませんが……。不思議ですよ。<lb />
 李中行　まったく不思議ですよ。<lb />
 高田　ふむう。（考えている。）<lb />
@@ -606,7 +606,7 @@
 中二　雨は仕方もないが、ここらは路が悪いのと暗いのでね。（外套をぬぎながら。）町から来ると、まったく閉口ですよ。<lb />
 李中行　町に住み馴れたと思って、そんな生意気なことを云うなよ。お前もここで生れて、ここで育った人間ではないか。<lb />
 中二　阿母さんは……。奥ですか。<lb />
-（李はうなずく。中二は<span type="ruby"><span type="rb">榻</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>に腰をかけて、巻煙草を<span type="ruby"><span type="rb">喫</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>いはじめる。）<lb />
+（李はうなずく。中二は<seg type="ruby"><seg type="rb">榻</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>に腰をかけて、巻煙草を<seg type="ruby"><seg type="rb">喫</seg><seg type="rp">（</seg><seg type="rt">す</seg><seg type="rp">）</seg></seg>いはじめる。）<lb />
 高田　今夜もお泊まりだそうですね。<lb />
 中二　ええ。親父やおふくろが頻りに寂しがるので、主人にも訳を話して、まあ当分は一晩置きぐらいに泊まりに来ることにしているんです。（思い出したように。）ああ、丁度好い。高田さん、あなたからも親父に云い聞かせて頂きたい事があるんですがね。<lb />
 高田　どんなことです。<lb />
@@ -614,38 +614,38 @@
 高田　銀行は不安心だとでも云うんでしょうか。<lb />
 李中行　そうです、そうです。お前さんもよく知っていなさるだろうが、この三四年のあいだに銀行は幾つも潰れている。去年もあの取付け騒ぎで、日本の銀行と支那の銀行が二つも一度に潰れてしまったではありませんか。<lb />
 高田　それは近年怪しげな銀行がむやみに殖えたからで……。一口に銀行と云っても、そのなかには確な銀行もありますよ。現に僕の工場で取引をしている二三の銀行などは、相当に信用もあり、確実だと聞いていますが……。<lb />
-李中行　いや、誰だって確でないと思う銀行にあずける者はない。確だと思えばこそ預けるのだが、それが案外に<span rend="sesame_dot" rendition="em">ばたばた</span>と潰れてしまうのだから、めったに油断はできない。なんでも自分の金は自分が<span rend="sesame_dot" rendition="em">しっかり</span>と預かっているに限りますよ。五分の利が付くとか、六分の利が付くとか、そんな慾張ったことを考えるから、元も子もなくして仕舞うことになる。現にわたしの知っている者でも、あの銀行騒ぎのために<span type="ruby"><span type="rb">大損</span><span type="rp">（</span><span type="rt">おおぞん</span><span type="rp">）</span></span>をした者が幾人もあります。娘の命と掛け換えの大事の金を、どうしてそんな危ないところへ預けて置かれるものですか。たとい忰がなんと云っても、お前さんが何と勧めても、こればかりは私がどうしても不承知ですよ。（寝室をみかえる。）女房だって不承知に決まっています。（中二に。）あの金は高田さんの工場からおれ達夫婦に呉れたのだ。おまえに呉れたのでは無いのだぞ。おれ達の金を<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>うしようと、おれ達の勝手ではないか。おまえが余計な世話を焼くには及ばないのだ。（卓を叩く。）<lb />
-中二　お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>さんは相変らず頑固だなあ。（高田と顔をみあわせて苦笑いする。）<lb />
+李中行　いや、誰だって確でないと思う銀行にあずける者はない。確だと思えばこそ預けるのだが、それが案外に<seg rend="sesame_dot" rendition="em">ばたばた</seg>と潰れてしまうのだから、めったに油断はできない。なんでも自分の金は自分が<seg rend="sesame_dot" rendition="em">しっかり</seg>と預かっているに限りますよ。五分の利が付くとか、六分の利が付くとか、そんな慾張ったことを考えるから、元も子もなくして仕舞うことになる。現にわたしの知っている者でも、あの銀行騒ぎのために<seg type="ruby"><seg type="rb">大損</seg><seg type="rp">（</seg><seg type="rt">おおぞん</seg><seg type="rp">）</seg></seg>をした者が幾人もあります。娘の命と掛け換えの大事の金を、どうしてそんな危ないところへ預けて置かれるものですか。たとい忰がなんと云っても、お前さんが何と勧めても、こればかりは私がどうしても不承知ですよ。（寝室をみかえる。）女房だって不承知に決まっています。（中二に。）あの金は高田さんの工場からおれ達夫婦に呉れたのだ。おまえに呉れたのでは無いのだぞ。おれ達の金を<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>うしようと、おれ達の勝手ではないか。おまえが余計な世話を焼くには及ばないのだ。（卓を叩く。）<lb />
+中二　お<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とっ</seg><seg type="rp">）</seg></seg>さんは相変らず頑固だなあ。（高田と顔をみあわせて苦笑いする。）<lb />
 李中行　はは、安心していろ。おれだって迂闊なことをするものか。あの金はみんな金貨や銀貨に引きかえて、大きい瓶のなかに入れて埋めてあるのだ。そうして置けば、誰も気の付く筈がない。だれにも取られる筈がない。はは、どんなものだ。はははははは。<lb />
 高田　そうして置いたら大丈夫かも知れませんが、その代りに利子が取れませんね。<lb />
 李中行　又それを云いなさるか。若い人達はそれだから困るな。利息などを取ろうとするから、却って大きい損をするのだ。<lb />
-（高田は笑いながら中二と再び顔を見合わせ、とても云っても無駄だという思入れ。中二もあきらめたように<span type="ruby"><span type="rb">首肯</span><span type="rp">（</span><span type="rt">うなず</span><span type="rp">）</span></span>く。李はやがて立上る。）<lb />
-李中行　いつも云うことだが、年寄りと若い者とはどうも話が合わない。高田さん。せがれが帰って来ましたから、若い同士でまあ<span rend="sesame_dot" rendition="em">ゆっくり</span>お話しなさい。私は御免を蒙ってお先へ休みますからな。<lb />
+（高田は笑いながら中二と再び顔を見合わせ、とても云っても無駄だという思入れ。中二もあきらめたように<seg type="ruby"><seg type="rb">首肯</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>く。李はやがて立上る。）<lb />
+李中行　いつも云うことだが、年寄りと若い者とはどうも話が合わない。高田さん。せがれが帰って来ましたから、若い同士でまあ<seg rend="sesame_dot" rendition="em">ゆっくり</seg>お話しなさい。私は御免を蒙ってお先へ休みますからな。<lb />
 高田　相変らず早寝ですね。<lb />
 李中行　早寝は昔からの癖ですよ。<lb />
 （李は笑いながら寝室に入る。二人も笑いながら後を見送る。）<lb />
 中二　あれだから話にならない。はははははは。<lb />
 高田　いや、日本でも田舎へ行くと、やっぱりあんな年寄りがありますよ。<lb />
-中二　そうですかなあ。いや、それがおかしいんですよ。あなたの工場から妹の弔慰金を送って来ると、親父はしきりに気味を悪がって、そんな金を貰うと跡がおそろしいと云って、容易に受取ろうとしなかったのを、私たちが無理に勧めて受取らせたんです。ところで、さあ其金を自分の手に受取っていると、又むやみにそれが惜しくなって、銀行へも預けないで自分がしっかり握っていると云うんだから、<span type="ruby"><span type="rb">可笑</span><span type="rp">（</span><span type="rt">おか</span><span type="rp">）</span></span>しいじゃありませんか。一体、どこへ埋めたのかな。（立って土間をみまわす。）それとも畑のなかへでも埋めたかな。<lb />
-高田　お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とっ</span><span type="rp">）</span></span>さんは工場から届けて来た弔慰金をどうしても受取らないと云うのを、私達が色々に説得して受取らせることにしたんですが……。青蛙神に八千<span type="ruby"><span type="rb">両</span><span type="rp">（</span><span type="rt">テール</span><span type="rp">）</span></span>の金を祈って、<span type="ruby"><span type="rb">扨</span><span type="rp">（</span><span type="rt">さて</span><span type="rp">）</span></span>その半額の四千両が手に入るようになると、その代りに娘が命を取られた。してみると、残りの四千両が手に入るときには、更に第二の犠牲を払わなければならない。こう思うと、お父さんの怖ろしがるのも無理はないかも知れませんね。<lb />
+中二　そうですかなあ。いや、それがおかしいんですよ。あなたの工場から妹の弔慰金を送って来ると、親父はしきりに気味を悪がって、そんな金を貰うと跡がおそろしいと云って、容易に受取ろうとしなかったのを、私たちが無理に勧めて受取らせたんです。ところで、さあ其金を自分の手に受取っていると、又むやみにそれが惜しくなって、銀行へも預けないで自分がしっかり握っていると云うんだから、<seg type="ruby"><seg type="rb">可笑</seg><seg type="rp">（</seg><seg type="rt">おか</seg><seg type="rp">）</seg></seg>しいじゃありませんか。一体、どこへ埋めたのかな。（立って土間をみまわす。）それとも畑のなかへでも埋めたかな。<lb />
+高田　お<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とっ</seg><seg type="rp">）</seg></seg>さんは工場から届けて来た弔慰金をどうしても受取らないと云うのを、私達が色々に説得して受取らせることにしたんですが……。青蛙神に八千<seg type="ruby"><seg type="rb">両</seg><seg type="rp">（</seg><seg type="rt">テール</seg><seg type="rp">）</seg></seg>の金を祈って、<seg type="ruby"><seg type="rb">扨</seg><seg type="rp">（</seg><seg type="rt">さて</seg><seg type="rp">）</seg></seg>その半額の四千両が手に入るようになると、その代りに娘が命を取られた。してみると、残りの四千両が手に入るときには、更に第二の犠牲を払わなければならない。こう思うと、お父さんの怖ろしがるのも無理はないかも知れませんね。<lb />
 中二　私もこのあいだ親父の話を聴いたときには、一旦はなんだか変な心持にもなりましたが、つまり偶然の暗合で、別にどうと云うことも無いんですよ。（笑いながら。）あなたは青蛙神とか云うものを信じますか。<lb />
-高田　さあ、信じると云うわけでもありませんが……。今もいう通り、八千<span type="ruby"><span type="rb">両</span><span type="rp">（</span><span type="rt">テール</span><span type="rp">）</span></span>の金を祈って、それから五日目に丁度その半額の金が手に入るというのは……（すこし考えて。）勿論、偶然の暗合ではありましょうが……。私はこのごろ好んで怪談の書物を読んでいるせいか、こういう場合には兎角その方へ引き付けて、ミステリアスに考える傾きがあるようです。<lb />
+高田　さあ、信じると云うわけでもありませんが……。今もいう通り、八千<seg type="ruby"><seg type="rb">両</seg><seg type="rp">（</seg><seg type="rt">テール</seg><seg type="rp">）</seg></seg>の金を祈って、それから五日目に丁度その半額の金が手に入るというのは……（すこし考えて。）勿論、偶然の暗合ではありましょうが……。私はこのごろ好んで怪談の書物を読んでいるせいか、こういう場合には兎角その方へ引き付けて、ミステリアスに考える傾きがあるようです。<lb />
 中二　そうすると、あなたも親父とおなじように、第二の犠牲を恐れているんですか。<lb />
-高田　いや、そうまで<span rend="sesame_dot" rendition="em">はっきり</span>とも考えていないんですが……。お父さんは余程それを気にしているようですね。<lb />
+高田　いや、そうまで<seg rend="sesame_dot" rendition="em">はっきり</seg>とも考えていないんですが……。お父さんは余程それを気にしているようですね。<lb />
 中二　親父は勿論、おふくろも頻りにそれを気に病んでいるようですから、私は努めてその迷いを打ち破ろうとしているんですが……。（又笑う。）今のお話の様子じゃあ、あなたも私の味方にはなって呉れそうもありませんね。<lb />
 高田　いや、味方になりますよ。<lb />
 中二　でも、あなたは今度の出来事を偶然の暗合とばかりは認めていないんでしょう。<lb />
 高田　そこが自分にもよく判らない、いわゆる半信半疑なんですが……。まあ、いずれにしても、この際お父さんや阿母さんに余計な心配をかけるのは好くありませんから、私も努めて打ち消すように注意しますよ。<lb />
 中二　どうぞそう願います。なにしろ、親父もおふくろも非常な迷信家ですから……。<lb />
-高田　（自分を<span type="ruby"><span type="rb">嘲</span><span type="rp">（</span><span type="rt">あざ</span><span type="rp">）</span></span>けられたような軽い不快を感じながら。）私もその迷信のお仲間かも知れませんよ。はははははは。（無理に笑いながら、立って歩きまわる。やがて立停まって。）ゆうべも又ここへ蝦蟆が出たそうですね。<lb />
+高田　（自分を<seg type="ruby"><seg type="rb">嘲</seg><seg type="rp">（</seg><seg type="rt">あざ</seg><seg type="rp">）</seg></seg>けられたような軽い不快を感じながら。）私もその迷信のお仲間かも知れませんよ。はははははは。（無理に笑いながら、立って歩きまわる。やがて立停まって。）ゆうべも又ここへ蝦蟆が出たそうですね。<lb />
 中二　ゆうべは忙がしいので、わたしは泊りに来ませんでしたが……。親父が又そんなことを云いましたか。<lb />
 高田　つかまえて、何処へか捨てて来たそうです。<lb />
 中二　はあ、そうですか。（笑う。）親父もよく色々のことを云いますね。<lb />
-高田　眼で見たばかりでなく、その蝦蟆を<span type="ruby"><span type="rb">捉</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>まえたと云うのだから、嘘じゃ無いでしょう。<lb />
+高田　眼で見たばかりでなく、その蝦蟆を<seg type="ruby"><seg type="rb">捉</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>まえたと云うのだから、嘘じゃ無いでしょう。<lb />
 中二　嘘じゃ無いかも知れません。ここらには蛙のたぐいは沢山棲んでいますからね。<lb />
 高田　併し三本足の青い蝦蟆なんぞは滅多に棲んでいないでしょう。<lb />
-中二　（<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">ひやや</span><span type="rp">）</span></span>かに。）今のおやじの眼には、どんな<span rend="sesame_dot" rendition="em">ひきがえる</span>を見ても青く見えるでしょう。三本足にも見えるでしょうよ。<lb />
-高田　（いよいよ不快を感じて。）そう云えばそうかも知れませんね。やっぱりあなたの方が現代人らしい。（又もや歩きまわりながら、思い出したように腕時計をみる。）ああ、いつまでもお<span type="ruby"><span type="rb">饒舌</span><span type="rp">（</span><span type="rt">しゃべり</span><span type="rp">）</span></span>をしてしまった。じゃあ、今夜はもうこれでお<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>しましょう。<lb />
+中二　（<seg type="ruby"><seg type="rb">冷</seg><seg type="rp">（</seg><seg type="rt">ひやや</seg><seg type="rp">）</seg></seg>かに。）今のおやじの眼には、どんな<seg rend="sesame_dot" rendition="em">ひきがえる</seg>を見ても青く見えるでしょう。三本足にも見えるでしょうよ。<lb />
+高田　（いよいよ不快を感じて。）そう云えばそうかも知れませんね。やっぱりあなたの方が現代人らしい。（又もや歩きまわりながら、思い出したように腕時計をみる。）ああ、いつまでもお<seg type="ruby"><seg type="rb">饒舌</seg><seg type="rp">（</seg><seg type="rt">しゃべり</seg><seg type="rp">）</seg></seg>をしてしまった。じゃあ、今夜はもうこれでお<seg type="ruby"><seg type="rb">暇</seg><seg type="rp">（</seg><seg type="rt">いとま</seg><seg type="rp">）</seg></seg>しましょう。<lb />
 中二　まだなかなか降っているようだが、傘を持っていますか。<lb />
 高田　なに、近い所ですから……。<lb />
 中二　まあ、これを持っておいでなさい。（自分の洋傘を取って渡す。）<lb />
@@ -662,23 +662,23 @@
 第二の男　むむ。おれは確に見て置いた。（マッチを擦る。）おやじはこの土間のまん中に埋めていたのだ。<lb />
 第一の男　音のしないように邪魔な物を片付けろ。だが、こんな家に大金が仕舞ってあろうとは思いも付かないことだな。<lb />
 第二の男　それも娘の死んだお蔭だ。<lb />
-（二人はそっと<span type="ruby"><span type="rb">榻</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>を片寄せ、更に卓を片寄せる。それから壁の隅にある鋤と鍬のたぐいを持ち来りて、卓の下と思われるあたりを掘り始める。）<lb />
+（二人はそっと<seg type="ruby"><seg type="rb">榻</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>を片寄せ、更に卓を片寄せる。それから壁の隅にある鋤と鍬のたぐいを持ち来りて、卓の下と思われるあたりを掘り始める。）<lb />
 第二の男　どうも暗いな。<lb />
 第一の男　おれが火縄を振っているから、お前ひとりで掘れ。<lb />
 （第一の男は火縄をふり第二の男は土を掘る。）<lb />
-第二の男　占めた。鍬の先に<span rend="sesame_dot" rendition="em">がちり</span>と<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">あた</span><span type="rp">）</span></span>った。<lb />
-第一の男　これ、<span type="ruby"><span type="rb">静</span><span type="rp">（</span><span type="rt">しずか</span><span type="rp">）</span></span>にしろ。<lb />
+第二の男　占めた。鍬の先に<seg rend="sesame_dot" rendition="em">がちり</seg>と<seg type="ruby"><seg type="rb">中</seg><seg type="rp">（</seg><seg type="rt">あた</seg><seg type="rp">）</seg></seg>った。<lb />
+第一の男　これ、<seg type="ruby"><seg type="rb">静</seg><seg type="rp">（</seg><seg type="rt">しずか</seg><seg type="rp">）</seg></seg>にしろ。<lb />
 第二の男　おまえも手をかして呉れ。<lb />
 （二人は土の中より一つの瓶を重そうに引き上げる。寝室の扉をあけて、中二は窺っている。）<lb />
 第一の男　なかなか重いな。<lb />
-第二の男　なにしろ三千<span type="ruby"><span type="rb">両</span><span type="rp">（</span><span type="rt">テール</span><span type="rp">）</span></span>以上の金が<span type="ruby"><span type="rb">這入</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>っているのだからな。<lb />
+第二の男　なにしろ三千<seg type="ruby"><seg type="rb">両</seg><seg type="rp">（</seg><seg type="rt">テール</seg><seg type="rp">）</seg></seg>以上の金が<seg type="ruby"><seg type="rb">這入</seg><seg type="rp">（</seg><seg type="rt">はい</seg><seg type="rp">）</seg></seg>っているのだからな。<lb />
 第一の男　さあ、めいめいに担ぎ出そう。<lb />
 （二人は瓶の中の金貨と銀貨をつかみ出して、用意の麻袋に詰めている。それを見すまして中二は跳り出づ。）<lb />
 中二　この泥坊……。<lb />
 （中二は第一の男の襟髪をつかんで引き倒せば、第二の男は袋をかついで逃げようとするを、中二は探りながら追いかけて引き戻す。その間に第一の男も袋をかついで逃げようとするを、中二は又ひき戻す、三人暗闇。そのはずみに、足を踏みはずして瓶の穴に落ちるもあり、片寄せたる卓や榻につまずいてがらがらと倒すもある。この物音に、李も寝まき姿にて寝室より出づ。）<lb />
 李中行　これ、どうした、どうした。<lb />
 中二　お父さん。賊です……。泥坊です……。<lb />
-李中行　なに、泥坊だ……。（引返して寝室より<span type="ruby"><span type="rb">銅鑼</span><span type="rp">（</span><span type="rt">どら</span><span type="rp">）</span></span>を持ち来りて、叫ぶ。）泥坊だ……。泥坊だ……。（銅鑼を打つ。）<lb />
+李中行　なに、泥坊だ……。（引返して寝室より<seg type="ruby"><seg type="rb">銅鑼</seg><seg type="rp">（</seg><seg type="rt">どら</seg><seg type="rp">）</seg></seg>を持ち来りて、叫ぶ。）泥坊だ……。泥坊だ……。（銅鑼を打つ。）<lb />
 （この声を聞きつけて、柳も寝室より窺い出で、おなじく声を揃えて叫ぶ。）<lb />
 柳　どろぼうだ……。泥坊だ……。みんな来てください。<lb />
 李中行　どろぼうだ……。泥坊だ……。（むやみに銅鑼を打ちつづける。）<lb />
@@ -687,11 +687,11 @@
 （中二も這い寄って男をおさえる。男は跳ね起きようとするを二人は必死となって捻じ付ける。柳もむやみに銅鑼を打つ。）<lb />
 李中行　（叫ぶ。）泥坊だ、泥坊だ……。誰か来てくれ。<lb />
 柳　（叫ぶ。）どろぼうだ……。泥坊だ……。<lb />
-（下のかたより高田圭吉、シャツ一枚にてズボンの裾をまくり上げ、<span type="ruby"><span type="rb">跣足</span><span type="rp">（</span><span type="rt">せんそく</span><span type="rp">）</span></span>にて走り出づ。雨の音。銅鑼の音。夫婦の叫ぶ声。）<lb />
+（下のかたより高田圭吉、シャツ一枚にてズボンの裾をまくり上げ、<seg type="ruby"><seg type="rb">跣足</seg><seg type="rp">（</seg><seg type="rt">せんそく</seg><seg type="rp">）</seg></seg>にて走り出づ。雨の音。銅鑼の音。夫婦の叫ぶ声。）<lb />
 高田　泥坊はこっちですか。銅鑼やピストルの音が聞えたようだが……。<lb />
 李中行　ここですよ、ここですよ。<lb />
 （高田は窓の破れたるを見て、そこより内へ飛び込む。このとき男はようよう跳ねかえして逃げかかり、出逢いがしらに高田に突きあたる。二人は無言にて格闘。高田は遂に男を組み伏せる。）<lb />
-高田　早く<span type="ruby"><span type="rb">燈火</span><span type="rp">（</span><span type="rt">あかり</span><span type="rp">）</span></span>をみせて下さい。<lb />
+高田　早く<seg type="ruby"><seg type="rb">燈火</seg><seg type="rp">（</seg><seg type="rt">あかり</seg><seg type="rp">）</seg></seg>をみせて下さい。<lb />
 （李はすぐに寝室へ引返してゆく。柳もつづいて入る。男は跳ね返そうとするを、高田はおさえている。中二は倒れたままで唸っている。やがて李は蝋燭をとぼして出づ。）<lb />
 李中行　つかまえましたか。<lb />
 高田　つかまえました。早く縄を下さい。<lb />
@@ -715,7 +715,7 @@
 高田　それはいけない。（會徳等に。）誰か早く町へ行って、医者を呼んで来てくれませんか。僕の工場のすぐ傍に病院がありますから……。いや、君達じゃあ判らないかも知れない。僕が行って来よう。<lb />
 （高田は立ちかかれば、中二はズボンをつかむ。）<lb />
 中二　まあ、待ってくれ給え……。待ってください。僕は……私はもう助からないかも知れない。<lb />
-高田　なに、ピストルの<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>の一つぐらい……気の弱いことを云っちゃいけない。大丈夫……大丈夫だ。<lb />
+高田　なに、ピストルの<seg type="ruby"><seg type="rb">弾</seg><seg type="rp">（</seg><seg type="rt">たま</seg><seg type="rp">）</seg></seg>の一つぐらい……気の弱いことを云っちゃいけない。大丈夫……大丈夫だ。<lb />
 中二　それにしても……ちょっと待って……。実は私は……傷害保険を付けています。三千円……。<lb />
 高田　傷害保険……三千円……。<lb />
 中二　親父はまだ知りますまいが、その保険の受取人は親父の名前になっているのです。万一わたしがこのまま死んでしまった暁には……あなたが万事の手続きをして……その三千円をうけ取って……おやじの手へ渡して遣ってください。お願いです。<lb />
@@ -735,7 +735,7 @@
 （會徳は男の縄を取り、甲乙丙も付き添いて、入口の扉をあけて下の方へ去る。中二は父と母とに抱かれながら瞑目する。）<lb />
 高田　（のぞく。）もういけませんか。<lb />
 柳　いけないようですよ。<lb />
-高田　（呼ぶ。）中二君……中二君……。（嘆息しながら頭を<span type="ruby"><span type="rb">掉</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>る。）ああ、もういけない。残念だなあ。<lb />
+高田　（呼ぶ。）中二君……中二君……。（嘆息しながら頭を<seg type="ruby"><seg type="rb">掉</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>る。）ああ、もういけない。残念だなあ。<lb />
 李中行　娘が死んで、まだ半月経つか経たないのに、せがれが又こんなことになるとは……。私はよっぽど祟られているのだ。（気がついたように。）もし、高田さん。中二は保険を付けていたそうですね。<lb />
 高田　こういう事になるのを予期していたわけでも無いでしょうが、中二君はなぜか傷害保険を付けていたそうで、その保険額は三千円だと云うことです。<lb />
 李中行　三千円……。<lb />
@@ -746,15 +746,15 @@
 高田　（唸るように。）むむ、四千両……。第二の犠牲だ。<lb />
 李中行　妹が四千両……。兄が四千両……。八千両でとうとう子供ふたりの命を売ってしまったのだ。ああ、何ということだ。<lb />
 （李は自分のあたまを掻きむしりながら、狂うように室内をあるき廻ると土間に落ちたるピストルにつまずき、拾い取ってランプの灯に照らして見る。）<lb />
-高田　（のぞく。）ピストルですね。今の馬賊が落して行ったんでしょう。（李の手より受取って見る。）連発銃で、まだ<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>が篭めてあるらしい。これは証拠物だから保管して置かなければなりません。（卓の上に置く。）<lb />
+高田　（のぞく。）ピストルですね。今の馬賊が落して行ったんでしょう。（李の手より受取って見る。）連発銃で、まだ<seg type="ruby"><seg type="rb">弾</seg><seg type="rp">（</seg><seg type="rt">たま</seg><seg type="rp">）</seg></seg>が篭めてあるらしい。これは証拠物だから保管して置かなければなりません。（卓の上に置く。）<lb />
 （柳は中二の死骸をかかえて泣いている。ランプのひかり薄暗くなる。土間の隅に三足の青蛙あらわれて、青き光を放つ。李はそれを見つけて又もや狂うように叫ぶ。）<lb />
 李中行　（指さしながら。）あ、又来た、又来た……。<lb />
 高田　え。（みかえる。）おお、蝦蟆だ、蝦蟆だ。<lb />
 李中行　ゆうべ捨てて来たのに、又いつの間にか帰って来て、今度は中二の命を取ったのか。（罵る。）畜生……畜生……。貴様のおかげで、大事の息子も娘もみんな殺されてしまったのだ。金なんぞは要らないから返してやるぞ。（そこらに落ちたる金貨や銀貨をつかんで、青蛙に叩き付ける。）さあ、息子をかえせ、娘を返せ。<lb />
-（李は<span type="ruby"><span type="rb">哮</span><span type="rp">（</span><span type="rt">たけ</span><span type="rp">）</span></span>り狂って、手あたり次第に金貨や銀貨をなげ付け、更に卓の上のピストルを把れば、高田は見かねて支える。）<lb />
+（李は<seg type="ruby"><seg type="rb">哮</seg><seg type="rp">（</seg><seg type="rt">たけ</seg><seg type="rp">）</seg></seg>り狂って、手あたり次第に金貨や銀貨をなげ付け、更に卓の上のピストルを把れば、高田は見かねて支える。）<lb />
 高田　まあ、お待ちなさい。<lb />
 柳　（おなじく支える。）そんなことをして、又どんな祟りがあるかも知れないから、およしなさいよ。<lb />
-李中行　ええ、祟るならどんなにでも祟ってみろ、もう<span type="ruby"><span type="rb">斯</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>うなったら息子のかたきだ、娘のかたきだ。畜生、唯は置くものか。<lb />
+李中行　ええ、祟るならどんなにでも祟ってみろ、もう<seg type="ruby"><seg type="rb">斯</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>うなったら息子のかたきだ、娘のかたきだ。畜生、唯は置くものか。<lb />
 （李はピストルを把って進もうとするを、高田と柳は支える。李は振放そうと争うはずみに、ピストルの曳金は外れて、我手でわが胸を撃ちて倒れかかる。）<lb />
 高田　（李をかかえながら。）もし、どうしました……。どうしました。<lb />
 柳　お前さん……。どうしたのよ。<lb />
@@ -770,12 +770,12 @@
 旅の男　これで私も安心しました。どなたも御免ください。（男は瓢然として表へ出てゆく。高田と柳は魅せられたように無言にて見送る。）<lb />
 李中行　青蛙神……青蛙神……。<lb />
 （李は唸りながら起きようとして又倒れる。高田と柳は心づいて介抱する。雨の音。）<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――完結――</span>
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">――完結――</seg>
 <lb />
-<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（「舞台」昭和六年七月号〜八月号掲載／未上演）</span>
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">（「舞台」昭和六年七月号〜八月号掲載／未上演）</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

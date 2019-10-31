@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 こんちはおめでたう<lb />
 お花をあげましよ<lb />
 私はあなたの大すきな<lb />
@@ -45,7 +45,7 @@
 おくわしの車を<lb />
 えつさ　えつさと<lb />
 おして来たのは<lb />
-<span type="ruby"><span type="rb">印度</span><span type="rp">（</span><span type="rt">インド</span><span type="rp">）</span></span>うまれの象さんよ。<lb />
+<seg type="ruby"><seg type="rb">印度</seg><seg type="rp">（</seg><seg type="rt">インド</seg><seg type="rp">）</seg></seg>うまれの象さんよ。<lb />
 <lb />
 麦　麦　お麦<lb />
 ぽつくりお麦を<lb />
@@ -81,6 +81,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

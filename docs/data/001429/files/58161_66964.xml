@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>トーマス・エディソン</title>
+        <author>石原純</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-01-29">作成</resp><resp /><note>
+<lb />
+底本：「偉い科學者」實業之日本社<lb />
+　　　1942（昭和17）年10月10日発行<lb />
+※「旧字、旧仮名で書かれた作品を、現代表記にあらためる際の作業指針」に基づいて、底本の表記をあらためました。<lb />
+「之等」は「これら」に、「之」は「これ」に、「先ず」は「まず」に、「益<seg facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />」は「ますます」に、置き換えました。<lb />
+※読みにくい言葉、読み誤りやすい言葉に振り仮名を付しました。底本には振り仮名が付されていません。<lb />
+※国立国会図書館デジタルコレクション（http://dl.ndl.go.jp/）で公開されている当該書籍画像に基づいて、作業しました。<lb />
+入力：高瀬竜一<lb />
+校正：sogo<lb />
+<date when="2019-01-29">2019年1月29日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>高瀬竜一</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>sogo</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>トーマス・エディソン</title><author>石原純</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_7" rendition="div" style="margin-left: 7em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">日常生活と発明</seg></seg></seg>
+<lb />
+　科学や<seg type="ruby"><seg type="rb">乃至</seg><seg type="rp">（</seg><seg type="rt">ないし</seg><seg type="rp">）</seg></seg>はそれを応用した技術の上でのいろいろの発明がわたしたち人間の日常生活の有様を著しく変えて、そこにすぐれた文化の世界をつくり出してゆくことを、よくよく考えて見ますと、人間社会にとってこれらの発明がどれほど尊いものであるかということが、しみじみとわかって来るでしょう。<lb />
+　ところで、現在皆さんは電気のいろいろの利用によって日常生活がどれだけ便利になっているかをよく知っているでしょう。そのなかで、電信や電話は遠方の人たちとの交通を容易にしていますし、電灯は暗い夜を明るく照らしてくれますし、いずれもわたしたちにとって有難いものであるに違いありません。また電気以外にも、蓄音機や映画などがどれだけ日常生活を楽しくしてくれるかも、皆さんはよく知っているでしょう。ところが、これらを発明したり、<seg type="ruby"><seg type="rb">又</seg><seg type="rp">（</seg><seg type="rt">また</seg><seg type="rp">）</seg></seg>はよいものに改良したりして、実用に使われるようにするために、大いに骨を折ったのが、ここでお話ししようとするアメリカのトーマス・アルヴァ・エディソンなのですから、私たちが今日彼のおかげをどれほど多く<seg type="ruby"><seg type="rb">蒙</seg><seg type="rp">（</seg><seg type="rt">こうむ</seg><seg type="rp">）</seg></seg>っているかを、まず考えなくてはならないのでしょう。エディソンは数多くの発明をなし遂げたので、世俗から発明王とまで<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>われたのですが、元来貧しい家に生まれて正式の学問などをまるで受けなかったので、ただ自分の好むままにその道に進んだと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>うのですから、驚くのほかはありません。<seg type="ruby"><seg type="rb">併</seg><seg type="rp">（</seg><seg type="rt">しか</seg><seg type="rp">）</seg></seg>しそれは人間が一生懸命に事を行えば何事にも成功するということを示した一つの模範として、一層意味が深いと考えられるのです。そういう意味で、皆さんもエディソンの伝記を知って頂きたいと思うのです。<lb />
+<lb />
+<seg rend="jisage_7" rendition="div" style="margin-left: 7em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">発明への出発</seg></seg></seg>
+<lb />
+　エディソンは今から九十五年前の一八四七年の二月十一日に、アメリカのオハイオ<seg type="ruby"><seg type="rb">洲</seg><seg type="rp">（</seg><seg type="rt">しゅう</seg><seg type="rp">）</seg></seg>にあるミランという町で生まれました。七歳の時に、一家はミシガン<seg type="ruby"><seg type="rb">洲</seg><seg type="rp">（</seg><seg type="rt">しゅう</seg><seg type="rp">）</seg></seg>のポート・ヒューロンという<seg type="ruby"><seg type="rb">処</seg><seg type="rp">（</seg><seg type="rt">ところ</seg><seg type="rp">）</seg></seg>に移り、そこで公立学校に入学しましたが、この頃から彼はどこか風変りな性質をもっていたと見え、学校の教師は低能児だと早呑みこみして両親にそれを告げたので、母親は彼を退学させて、自分で教育することにしました。学校に通ったのは僅かに三箇月ばかりで、ですから彼はその長い一生のうちで僅かにこの三箇月だけ学校教育を受けたのに過ぎないのでした。<lb />
+　それでもエディソンはこの幼い頃から自分で何かを工夫して見たくてたまらなかったので、十一歳頃になってからは、僅かの小遣銭でいろいろな薬品を買って来て、それを家の地下室へ持って行って、物化学の実験を試みていたということです。ところが薬品を買うにしても少しばかりの小遣銭では足りる<seg type="ruby"><seg type="rb">筈</seg><seg type="rp">（</seg><seg type="rt">はず</seg><seg type="rp">）</seg></seg>はないので、何とかして自分でその費用を得たいと望み、十三歳になった頃にグランド・トランク鉄道の支線を走る列車のなかの新聞売子になり、それで幾らかの給料をもらうことになりました。もちろん、それも実験をして見たいからのことでありましたから、貨車の一部を実験室として使うことを願い出て、うまく許しを受けました。<lb />
+　ところでエディソンはそうしている中にうまい考えを実行に移しました。それはこの鉄道沿線の電信手と知り合いになって、新しい報道を聞き知ることができるので、それらを材料にして自分で週刊の新聞をつくり、これを列車のなかなどで売り出したのでした。ところがこの新聞が妙に人気を得て、たくさん売れ出したので、そのおかげで<seg type="ruby"><seg type="rb">金儲</seg><seg type="rp">（</seg><seg type="rt">かねもう</seg><seg type="rp">）</seg></seg>けが出来、自分の実験にも十分の費用をつかうことができるようになりました。この時は彼は十五歳になっていました。<lb />
+　こうして彼は暇さえあれば実験に熱中していましたが、そうすると<seg type="ruby"><seg type="rb">或</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>る日列車の振動で棚の上に載せておいた<seg type="ruby"><seg type="rb">燐</seg><seg type="rp">（</seg><seg type="rt">りん</seg><seg type="rp">）</seg></seg>がころげ落ちて、燃え出したので貨車のなかが焼けてしまいました。それで彼はひどく叱責をうけ、おまけに解雇されてしまったので、一切が消え失せることになりました。気の弱いものなら、それで挫けてしまうのでしょうが、エディソンはなかなかそれほどのことで閉口しはしませんでした。列車に乗っているうちに電信手に接しながら見おぼえた電気の現象を以前からおもしろく感じていましたので、今度は電気の学問を学びたいと思い、その方法をいろいろ考えました。<lb />
+　そこで以前に新聞売子として列車に乗っていた頃に、マウント・クレメスという駅で駅長の子供が汽車に<seg type="ruby"><seg type="rb">轢</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>かれようとしたのを救い出したのを想い出し、駅長のマッケンジーという人を尋ねて行くと、大いに喜ばれてエディソンの希望を<seg type="ruby"><seg type="rb">叶</seg><seg type="rp">（</seg><seg type="rt">かな</seg><seg type="rp">）</seg></seg>えてやろうと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>われるので、その後この人から電信の技術を教わりました。そして間もなくそれに通じましたから、そこで鉄道の電信手として勤務することになり、夜勤係となりました。ところがこれも彼にとっては自分の実験を行いたいからのことであったので、昼間はそういう実験に従事していましたが、そうなると夜は眠くてたまりません。ついうとうとと眠るのが、やがて監督者に見つかったので、ひどく叱られた上に、その後は必ず三十分毎にＡの字を電信で送るように命ぜられました。これでは<seg type="ruby"><seg type="rb">最早</seg><seg type="rp">（</seg><seg type="rt">もはや</seg><seg type="rp">）</seg></seg>眠るわけにゆかないので、最初はその通りに実行しましたが、そうするとせっかくの昼間の実験が出来なくなってしまいますから、そこで彼はいろいろ考えた末に、うまいことを工夫しました。それは電信装置と壁にかかっている時計とを針金でつないで、時計の針が三十分経る毎にＡの字の信号を自動的に送ることのできるようにしたのです。これで彼は当分の間は安心して眠れることになりましたが、やがてそれも監督者に見つかってしまいました。監督者は実はそのとき彼の才能に驚嘆したのですけれども、それを見過ごすわけにもゆかないので、止むなく彼を解雇してしまいました。<lb />
+　その後エディソンはいろいろな場所に移って電信手を勤めることになりましたが、その頃は電信手も不足であった上に、彼の技能がすぐれていたので、どこでも大いに歓迎されました。その間に彼はいろいろな科学上の書物を読んで、だんだんに知識を増し、一八六八年にはその最初の発明として投票記録器を考案し、翌年その特許を得るに至りました。そしてこれが彼のその後の多くの発明への出発点となったのでした。<lb />
+<lb />
+<seg rend="jisage_7" rendition="div" style="margin-left: 7em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">エディソンの主要な発明</seg></seg></seg>
+<lb />
+　その後エディソンはいろいろな発明に成功するに伴なって、ますますそれに没頭するようになったのでしたが、それらについて一々こまかく記してゆくと、それは一冊の大きな書物にもなってしまいますから、ここでは主な発明の年代だけをお話しするのに止めておかなくてはなりません。<lb />
+　まずエディソンは最初の発明の投票記録器に次いで、その翌年、即ち一八六九年に株式相場表示機とユニヴァーサル印刷機とを発明しました。それから当時使用されていた電信は単に一方から他方へ通ずるだけのものであったのを、彼は苦心して改良し、一八七三年に至って<seg type="ruby"><seg type="rb">謂</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>わゆる二重電信と四重電信とをつくり上げました。またその年に複写器や電気ペンを発明しました。その後は電話の改良に志し、一八七六年になって炭素送話器を完成し、次いで翌年には蓄音機を発明しました。更に一八七九年には始めて白熱電灯を点ずることに成功し、次いで発電機や電車の改良をなし、一八九一年には活動写真をつくり上げました。それに続いてはセメント工業に従事したり、またエディソン蓄電池を発明したりしましたが、一九一二年に発声活動写真、即ち今日のトーキーの最初のものをつくったことなどは大きな成功の一つです。その外には蓄音機を<seg type="ruby"><seg type="rb">漸次</seg><seg type="rp">（</seg><seg type="rt">ぜんじ</seg><seg type="rp">）</seg></seg>改良して今日使用している円盤のものをつくり上げ、また一九一四年に世界大戦が起ってからはさまざまの軍事的発明を遂げ、晩年にはゴム代用の植物の研究を続けました。<lb />
+　エディソンはこのようにたくさんの発明をなし遂げましたが、それと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>うのもいつも新しい工夫を心がけ、かつそれに対して非常に熱心に考えこんで、いろいろな試みを自分で行った結果であります。一つの発明にもどれほど苦心したかと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>うことの一、二の例をちょっとここに附け加えておきましょう。<lb />
+　蓄音機はエディソンが始めてつくり出したものでありますが、そういうものをつくろうという考えがどこから想いついたのかと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>いますと、これはその前に<seg type="ruby"><seg type="rb">自働</seg><seg type="rp">（</seg><seg type="rt">じどう</seg><seg type="rp">）</seg></seg>電信と炭素送話器とをつくったことからだということです。つまりこの時に中継器の上を紙が動いて、紙の刻み目が音響機のかちかちという音を再現するので、それと同じようにして音を出させて見ようというので、最初にはネジの切ってある軸を把手でまわすと、その周囲にある円筒の表面の<seg type="ruby"><seg type="rb">螺線</seg><seg type="rp">（</seg><seg type="rt">らせん</seg><seg type="rp">）</seg></seg>状の溝に沿って鋼鉄の針が動くようになっているものを造り、この針の動きにつれて振動板が動いて音を出すようにしました。エディソンはこれが出来上ると早速に自分で思いきり大きな声を出して「メリーはかわいい小羊を持っていました」と吹き込みました。それから軸を最初の<seg type="ruby"><seg type="rb">処</seg><seg type="rp">（</seg><seg type="rt">ところ</seg><seg type="rp">）</seg></seg>に戻して、もう一度<seg type="ruby"><seg type="rb">廻</seg><seg type="rp">（</seg><seg type="rt">まわ</seg><seg type="rp">）</seg></seg>して見ると、ごく微かではありましたが、自分の吹き込んだ声がそこから聞えてくるので、これには大いに悦んだということです。この蓄音機はともかく世界最初のものでありまして、今ではイギリスの博物館に保存されてあります。エディソンはその後、円筒を<seg type="ruby"><seg type="rb">蝋管</seg><seg type="rp">（</seg><seg type="rt">ろうかん</seg><seg type="rp">）</seg></seg>に換え、更に後には円盤型のレコードをもつくったのでした。<lb />
+　電灯の発明にも彼は多くの苦心を費しました。電流が電気抵抗の大きなもののなかを通ると、それが熱せられて遂には光を発するようになるということは、それ以前から知られてはいたのでしたが、それには何を使ったらよいかと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>うことが大切な問題なのであります。エディソンはまず炭素の<seg type="ruby"><seg type="rb">纎条</seg><seg type="rp">（</seg><seg type="rt">せんじょう</seg><seg type="rp">）</seg></seg>を使おうと考えましたが、それにはこれを空気のない<seg type="ruby"><seg type="rb">場処</seg><seg type="rp">（</seg><seg type="rt">ばしょ</seg><seg type="rp">）</seg></seg>に置かなくてはなりませんから、そこで電球を硝子でつくって、最初は紙を炭化してそのなかに入れ、内部の空気を排除しました。これに電気を通じて、どうやら光らせることができましたけれども、直きに焼け切れてしまうので、今度は木綿糸を炭化して用いました。これはかなり成功して長時間保つことができましたけれども、もっとよい材料があるに違いないと思って、それからはいろいろな物質をつかって幾度となく試みました。これに数箇月を費した末に、最後になって竹が最もよいことを見つけ出し、それを使おうと考えましたが、竹のうちにも種類がいろいろありますから、そのなかの最もよいものを探し出そうとして、世界中の竹の産地に人を派遣して、それを集めさせました。そのなかにはマレー群島、支那、日本、西インド諸島、メキシコ、セイロン、インド、南アメリカなどがあり、この採集だけに<seg type="ruby"><seg type="rb">莫大</seg><seg type="rp">（</seg><seg type="rt">ばくだい</seg><seg type="rp">）</seg></seg>な金額を使ったということです。それから一々それらの竹を検した末に、日本の京都近郊の<seg type="ruby"><seg type="rb">八幡</seg><seg type="rp">（</seg><seg type="rt">やわた</seg><seg type="rp">）</seg></seg>産のものが最上であることを<seg type="ruby"><seg type="rb">確</seg><seg type="rp">（</seg><seg type="rt">たしか</seg><seg type="rp">）</seg></seg>め、これを使うことにしました。つまり今日の電灯はこのようにして出来上って来たのですが、その後、この<seg type="ruby"><seg type="rb">纎条</seg><seg type="rp">（</seg><seg type="rt">せんじょう</seg><seg type="rp">）</seg></seg>はセルローズから金属線に変り、今ではタングステンという金属が主として用いられるようになったのです。それにしてもエディソンが最初に多くの苦心を重ねて電球をつくり出したという事は長く人々の記憶にのこることであるのにちがいないのでしょう。<lb />
+　活動写真の発明の場合にも、同じような苦心があったのでした。そのときはイーストマン会社から売り出されたセルロイドのフィルムを使って、いろいろ考案したのですが、こまかいことは省いておきましょう。どんな発明にしても、そうたやすく成功するわけにはゆかないので、非常な熱心をもってその仕事に浸りきることが必要なのであります。そしてエディソンは実にこの点で<seg type="ruby"><seg type="rb">稀</seg><seg type="rp">（</seg><seg type="rt">まれ</seg><seg type="rp">）</seg></seg>に見る人物であったと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>わなければなりますまい。<lb />
+<lb />
+<seg rend="jisage_7" rendition="div" style="margin-left: 7em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">エディソンの気質</seg></seg></seg>
+<lb />
+　エディソンが幼少の頃から他人に負けない強い意志をもって居り、おまけに自分のなし遂げたい仕事に対しては、どんな困難にも打ち勝ってそれに一生懸命に心をこめたということは、上の簡略な叙述によっても、大体はわかるでしょう。ですから、そのおかげで、学校教育も<seg type="ruby"><seg type="rb">殆</seg><seg type="rp">（</seg><seg type="rt">ほとん</seg><seg type="rp">）</seg></seg>ど受けなかった身でありながら、世界で誰も及ぶもののない程多くの発明をなし遂げ得たのであります。人間には何事をするのにもこのような心が大切であるということを知らなければなりますまい。<lb />
+　おまけにエディソンは一面にこのような強い意気をもっていたのに拘らず、他面には実に朗らかな気分の持主でもありました。それには次のような話が伝えられています。彼は一八八〇年に磁気選鉱法の特許を得て、その後十年程経てからこれを実地に適用するために私財の大部分を費して工場を建てたのでしたが、丁度その頃他の地方で含鉄量の非常に多い鉱石が沢山に産出するようになったので、到底それと競争することができなくなり、事業も中止になってしまいました。普通のものならこれで大きな落胆を来たすことになるのですが、エディソンはまた別な仕事に熱中して一向に気にもとめませんでした。それからまた十年を経た頃、この選鉱工場の荒れ果てた跡をたずねて、そこの礎石に腰を下して往時を追懐し、こう言ったと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>うことです。「私はここで働いていた五年の間ぐらい、今までの生涯でたのしいことはなかった。一生懸命に働いて、何ごとにも気を散らすことなく、その上に澄んだ空気と簡易な食物とが私の生活をいかにも愉快にしてくれた。私は多くのことを学んだが、それはいつか誰かのためになるだろう。」なんとこだわりのない<seg type="ruby"><seg type="rb">朗</seg><seg type="rp">（</seg><seg type="rt">ほがら</seg><seg type="rp">）</seg></seg>かな追懐ではありますまいか。このようにして、エディソンは自ら満足した幸福な生涯を送りました。一九一五年にはアメリカの海軍長官からの懇ろな依嘱に応じて海軍顧問委員会の会長となって、いろいろな軍事的な発明を行いましたが、世界大戦が終ってからは、また自分の研究に戻りました。一九二七年には八十歳の祝賀が盛大に行われ、また一九二九年には電灯発明の五十年記念が世界の各地で祝われました。そして一九三一年の十月十八日に逝去しましたが、この晩年に至るまで青年のような朗らかな元気を持ち続けていたとのことです。八十余年の彼の長い一生こそ、まことに輝かしいものであったと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>わなければなりません。<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

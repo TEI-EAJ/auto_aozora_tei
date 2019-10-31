@@ -32,9 +32,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 蛾が<lb />
-静かに障子の<span type="ruby"><span type="rb">桟</span><span type="rp">（</span><span type="rt">さん</span><span type="rp">）</span></span>からおちたよ<lb />
+静かに障子の<seg type="ruby"><seg type="rb">桟</seg><seg type="rp">（</seg><seg type="rt">さん</seg><seg type="rp">）</seg></seg>からおちたよ<lb />
 死んだんだね<lb />
 <lb />
 なにもしなかったぼくは<lb />
@@ -60,6 +60,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

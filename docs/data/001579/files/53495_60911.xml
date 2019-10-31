@@ -32,9 +32,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 けふはえびのように悲しい<lb />
-<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">つの</span><span type="rp">）</span></span>やらひげやら<lb />
+<seg type="ruby"><seg type="rb">角</seg><seg type="rp">（</seg><seg type="rt">つの</seg><seg type="rp">）</seg></seg>やらひげやら<lb />
 とげやら一杯生やしてゐるが<lb />
 どれが悲しがつてゐるのか判らない。<lb />
 <lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

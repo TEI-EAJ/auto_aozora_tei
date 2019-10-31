@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ちいさこべ</title>
+        <author>山本周五郎</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-05-28">作成</resp><resp /><note>
+<lb />
+底本：「山本周五郎全集第二十八巻　ちいさこべ・落葉の隣り」新潮社<lb />
+　　　1982（昭和57）年10月25日発行<lb />
+初出：「講談倶楽部」大日本雄弁会講談社<lb />
+　　　1957（昭和32）年10月<lb />
+入力：特定非営利活動法人はるかぜ<lb />
+校正：栗田美恵子<lb />
+<date when="2019-05-28">2019年5月28日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>特定非営利活動法人はるかぜ</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>栗田美恵子</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>ちいさこべ</title><author>山本周五郎</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">一</seg></seg></seg>
+<lb />
+　<seg type="ruby"><seg type="rb">茂次</seg><seg type="rp">（</seg><seg type="rt">しげじ</seg><seg type="rp">）</seg></seg>は川越へ出仕事にいっていたので、その火事のことを知ったのは翌日の夕方であった。当日の晩にもちょっと耳にした。川越侯<seg rend="sho1" rendition="span" style="font-size: small;">（松平<seg type="ruby"><seg type="rb">直温</seg><seg type="rp">（</seg><seg type="rt">なおあつ</seg><seg type="rp">）</seg></seg>）</seg>が在城なので、江戸邸から急報があったのだろう、かなり大きく焼けているというはなしだった。江戸で育った人間は火事には馴れているし、まだ九月になったばかりなので、かくべつ気にもとめなかった。<lb />
+「九月の火事じゃあたいしたこたあねえ」と正吉が云った、「もっともおれの留守に大きな火事がある筈はねえんだ」<lb />
+　いっしょに<seg type="ruby"><seg type="rb">伴</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>れて来た三人の中で、二十歳になる正吉は火事きちがいといわれていた。彼も「<seg type="ruby"><seg type="rb">大留</seg><seg type="rp">（</seg><seg type="rt">だいとめ</seg><seg type="rp">）</seg></seg>」の子飼いの弟子であるが、十三四のじぶんから火事が好きで、半鐘の音を聞くとすぐにとびだしてゆく。大留の店は神田の岩井町にあるが、遠近にお構いなしで、いちどは千住大橋の向うまでとんでゆき、明くる日の九時ごろに帰ったことがあった。<lb />
+　――火事があれば大工は<seg type="ruby"><seg type="rb">儲</seg><seg type="rp">（</seg><seg type="rt">もう</seg><seg type="rp">）</seg></seg>かる、火事は大工の守り神だ。<lb />
+　などと云って、親方の留造に殴られたこともあった。<lb />
+　その翌日のひる過ぎ、ちょうど弁当をたべ終ったところへ、十八になる<seg rend="sesame_dot" rendition="em">くろ</seg>がとびこんで来た。本名は九郎助であるし、べつに色が黒いわけではないが、初めから<seg rend="sesame_dot" rendition="em">くろ</seg>と呼ばれている。彼は乗り継ぎの早<seg type="ruby"><seg type="rb">駕籠</seg><seg type="rp">（</seg><seg type="rt">かご</seg><seg type="rp">）</seg></seg>で来たのだそうで、「若<seg type="ruby"><seg type="rb">棟梁</seg><seg type="rp">（</seg><seg type="rt">とうりょう</seg><seg type="rp">）</seg></seg>にすぐ帰ってもらいたい」と、助二郎の伝言を告げた。<lb />
+「仕事なかばに帰れるか」と茂次は云った、「いったいなんの用だ」<lb />
+　<seg rend="sesame_dot" rendition="em">くろ</seg>は言葉をにごした。<lb />
+　茂次は父の留造の<seg type="ruby"><seg type="rb">名代</seg><seg type="rp">（</seg><seg type="rt">みょうだい</seg><seg type="rp">）</seg></seg>で来ている。この土地の「<seg type="ruby"><seg type="rb">波津音</seg><seg type="rp">（</seg><seg type="rt">はつね</seg><seg type="rp">）</seg></seg>」という料理茶屋の普請で、大留がいっさいを請負った。左官、屋根屋、建具屋なども江戸から呼んだし、ほかに土地の職人や追廻しを十四五人使っている。茂次の伴れて来た三人のうち、大六は三十一歳になり、茂次の後見のような立場にいるが、これだけの仕事を大六に押しつけて帰るわけにはいかない。いったいなんの用だと<seg type="ruby"><seg type="rb">訊</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>き直そうとして、茂次はふと、昨日の火事のことを思いだした。<lb />
+「おい」と茂次が云った、「うちが焼けでもしたのか」<lb />
+　<seg rend="sesame_dot" rendition="em">くろ</seg>はあいまいに<seg type="ruby"><seg type="rb">頷</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>いた。<lb />
+「うちが焼けたのか」と茂次は声を高くした、「おやじやおふくろは無事か」<lb />
+　<seg rend="sesame_dot" rendition="em">くろ</seg>は黙って頭を垂れた。茂次は<seg type="ruby"><seg type="rb">蒼</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>くなって大六を見た。大六が立って来た。<lb />
+「<seg rend="sesame_dot" rendition="em">くろ</seg>」と大六が云った、「どうしたんだ、棟梁やおかみさんは無事なんだろう」<lb />
+　すると<seg rend="sesame_dot" rendition="em">くろ</seg>が泣きだした。<lb />
+　茂次がとびかかろうとし、大六が危なく抱きとめた。<seg rend="sesame_dot" rendition="em">くろ</seg>は腕で顔を<seg type="ruby"><seg type="rb">掩</seg><seg type="rp">（</seg><seg type="rt">おお</seg><seg type="rp">）</seg></seg>い、子供のように声をあげて泣きだした。秋のまひるの、静かな普請場にひびく<seg rend="sesame_dot" rendition="em">くろ</seg>の泣き声は、そのままことの重大さを示すようで、みんな激しく圧倒され、すぐには身動きをする者もなかった。<lb />
+「正吉、若棟梁を頼むぞ」と大六が穏やかに云った、「<seg rend="sesame_dot" rendition="em">くろ</seg>、こっちへ来い」<lb />
+　大六は<seg rend="sesame_dot" rendition="em">くろ</seg>を脇のほうへ伴れていった。茂次は木小屋の前の材木に腰をかけた。彼の角張った<seg type="ruby"><seg type="rb">逞</seg><seg type="rp">（</seg><seg type="rt">たくま</seg><seg type="rp">）</seg></seg>しい顔は、放心したように力を失い、眼はぼんやりとして、白く乾いた地面を眺めるともなく眺めていた。おやじは死んだな、と茂次は心の中で思った。父の留造はその年の四月に倒れ、寝たり起きたりという状態が続いていた。病気はごく軽い卒中で、冬までには必ず全快すると、三人の医者が云った。<lb />
+　――火を見て二度めが来たんだろう。<lb />
+　激しい動作や心労が、二度めの発作を起こしやすいことはわかっていた。おそらく二度めが来たのであろう。おふくろはさぞ<seg type="ruby"><seg type="rb">吃驚</seg><seg type="rp">（</seg><seg type="rt">びっくり</seg><seg type="rp">）</seg></seg>したろうな、と彼は思った。情には<seg type="ruby"><seg type="rb">脆</seg><seg type="rp">（</seg><seg type="rt">もろ</seg><seg type="rp">）</seg></seg>いが、気の勝っていた母は、四月に良人が倒れたときすっかり<seg type="ruby"><seg type="rb">動顛</seg><seg type="rp">（</seg><seg type="rt">どうてん</seg><seg type="rp">）</seg></seg>してしまい、それ以来ひとが変ったように、引込み思案な、おどろきやすい性分になった。茂次が川越へ出仕事に来るときも、留守になにかあったらどうしようかと、いかにも心ぼそそうにしていた姿が眼に残っている。<lb />
+　――帰らなくちゃあならない。<lb />
+　母のためにもすぐ帰ることにしよう、茂次がそう思っていると、大六が戻って来た。<lb />
+「若棟梁、あっしは江戸へいって来ます」と大六が云った、「いや、あっしのほうがいい、若棟梁は残っておくんなさい」<lb />
+「どういうことなんだ」<lb />
+「詳しい事情はわからねえが、おまえさんのことだからはっきり云っちまう」と大六はまともに茂次をみつめながら云った、「――棟梁もおかみさんも、いけなかったらしい」<lb />
+　茂次はぼんやりと大六を見、それから、舌がきかなくなりでもしたような口ぶりで、「おふくろも」と訊き返した。<lb />
+「なんと云いようもねえが」と大六は眼を伏せた、「そういうわけだから、ここはあっしがいくほうがいいと思う。若棟梁はそれからにしたほうがいいと思うんだが」<lb />
+　茂次は黙っていた。大六は暫く待っていたが、茂次は身動きもしなかった。<lb />
+「若棟梁」と大六が呼びかけた。<lb />
+　茂次は黙っていた。<lb />
+「若棟梁」と大六は云った、「おまえさんしっかりしてくれなくちゃあ困りますぜ」<lb />
+　すると茂次は、とつぜん顔をあげて、どなった、「うるせえ、てめえこそしっかりしろ、おやじもおふくろも死んだとすれば、あと始末に手ぬかりがあると大留の名にかかわるぞ、そいつを忘れずにしっかりやって来い」<lb />
+「へえ」と大六は頭を垂れた。<lb />
+　茂次は立ちあがって、「仕事にかかるぜ」と職人たちのほうへどなった。<lb />
+　大六は<seg rend="sesame_dot" rendition="em">くろ</seg>といっしょに江戸へゆき、五日めに戻って来て、茂次に<seg type="ruby"><seg type="rb">仔細</seg><seg type="rp">（</seg><seg type="rt">しさい</seg><seg type="rp">）</seg></seg>を告げた。<lb />
+　火事の起こったのは九月七日の午前十時。湯島天神の裏門前にある、<seg type="ruby"><seg type="rb">牡丹</seg><seg type="rp">（</seg><seg type="rt">ぼたん</seg><seg type="rp">）</seg></seg>長屋から出火し、北西の風で三組町から神田明神へ延焼した。そのころから風勢が強くなり、そのまま神田をひとなめにして日本橋まで焼け、一方は東に延びて、堀江町、小網町、<seg type="ruby"><seg type="rb">葺屋</seg><seg type="rp">（</seg><seg type="rt">ふきや</seg><seg type="rp">）</seg></seg>町の両芝居から、<seg type="ruby"><seg type="rb">馬喰</seg><seg type="rp">（</seg><seg type="rt">ばくろ</seg><seg type="rp">）</seg></seg>町、浜町、そこで飛火をして深川の熊井町、相川町、八幡宮の一の鳥居を焼き、仲町辺まで一帯を灰にした。季節はずれなので大きくしてしまったらしい、死傷者の数もかなり多いようである。そう語ってきて、大六はちょっと言葉を切った。次に云いだすことで、どう云おうかと迷ったのであろう、茂次はすぐにそれと察した。<lb />
+「こっちから訊くから、訊いたことだけ答えてくれ」と茂次は云った、「二人は火で死んだのか」<lb />
+　大六は「そうです」と答えた。<lb />
+「いっしょにか」と茂次が訊いた、「それともべつべつか」<lb />
+「いっしょだったそうです、おかみさんが棟梁を抱くような恰好で」<lb />
+「わかった、もう云うな」と茂次は顔をそむけながら云った、「おやじとおふくろのことは二度とおれに聞かせないでくれ」<lb />
+　大六は頷いて、葬式は茂次が帰ってからする手筈にしてきたと云った。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">二</seg></seg></seg>
+<lb />
+　大六はそれから三度、江戸のようすを見にいって来た。<lb />
+　町内では質両替商の「福田屋」が焼け残った。あるじの久兵衛は五人組を勤めているし、資産の点でも人望の点でも、神田では指折りであった。長男の利吉は茂次と同年の二十三で、その下にお<seg rend="sesame_dot" rendition="em">ゆう</seg>という十七になる妹がいる。二人とも茂次とは幼な馴染であり、いまでも親しいつきあいが続いていた。店は角地で、土蔵が三棟あるし、前が掘割の<seg type="ruby"><seg type="rb">土堤</seg><seg type="rp">（</seg><seg type="rt">どて</seg><seg type="rp">）</seg></seg>、北側が道を隔てて武家の小屋敷になっている。そういう地の理が幸いしたのかもしれないが、その隣り町の小屋敷の一画と、福田屋だけは焼け残った。<lb />
+「いちめんの焼け跡で不用心だからと、奥の人たちはまだ目白の親類のほうにいるそうですが、店はもうあけていました」<lb />
+「そいつはよかった」と茂次は云った。<lb />
+　大留も焼け跡へ小屋を建てていた。<lb />
+　火事では留造夫婦といっしょに、倉太、銀二という二人の弟子が死んだが、<seg rend="sesame_dot" rendition="em">くろ</seg>は助二郎の家へ手伝いにいっていて助かった。助二郎はかよいで大留の帳場をしており、年は四十五歳、妻のお<seg rend="sesame_dot" rendition="em">ろく</seg>とのあいだに子供が三人ある。家は下谷の御徒町で、<seg rend="sesame_dot" rendition="em">くろ</seg>はその家の勝手口を直すために、泊りこんでいたのだという。――出入りの職人にも二人ばかり焼死者があったが、ほかの者はすぐに駆けつけて来、木場の「和七」と相談のうえ、大留の再建にかかった。<lb />
+　和七の先代のあるじは和泉屋七兵衛といって、死んだ留造のために、<seg type="ruby"><seg type="rb">潰</seg><seg type="rp">（</seg><seg type="rt">つぶ</seg><seg type="rp">）</seg></seg>れかかった木場の店を二度も救われたことがあり、生涯それを深く恩にきていた。いまの七兵衛はその子であるが、父親の遺志を継ぐ気持だろう、自分でやって来て「材木のほうは手を打った、必要なら幾らでもまわす」と云い、とりあえず仮小屋を建てることになった、ということである。<lb />
+　三度めにいって来た大六は、普請の注文が三つあり、助二郎が<seg type="ruby"><seg type="rb">采配</seg><seg type="rp">（</seg><seg type="rt">さいはい</seg><seg type="rp">）</seg></seg>を振って、すでに職人や木の割当てをつけたと語った。それから、仮小屋には<seg rend="sesame_dot" rendition="em">くろ</seg>のほかに、焼けだされた弟子筋の職人が三人、仕事の関係で泊りこんでいること、その世話をするために、女を一人雇ったことなどを告げた。茂次はうんうんと聞くだけだったが、大六はそこで、ちょっと頭を<seg type="ruby"><seg type="rb">掻</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>きながら口ごもった。<lb />
+「なんだ」と不審そうに茂次が訊いた。<lb />
+「お<seg rend="sesame_dot" rendition="em">りつ</seg>っていう娘を知ってますか」と大六が云った、「炭屋の裏長屋にいて、おふくろがうちの店へ手伝いに来ていた」<lb />
+「知ってるよ」と茂次が云った。<lb />
+「雇ったのはあの娘なんだ」<lb />
+　茂次は大六の顔を見た、「――あれは、どこかの茶屋奉公に出てたんじゃないのか」<lb />
+「並木町の天川だったそうだが」と大六は答えた、「それがじつは、おふくろが、やっぱりあの火事で焼け死んじまったそうで、すっかり途方にくれてるような<seg type="ruby"><seg type="rb">按配</seg><seg type="rp">（</seg><seg type="rt">あんばい</seg><seg type="rp">）</seg></seg>だったもんだから」<lb />
+「お<seg rend="sesame_dot" rendition="em">いく</seg>も焼け死んだって――」茂次は遠くを見るような眼つきをした、「そいつは可哀そうに」<lb />
+「それでもう、茶屋奉公をするはりあいもないし、できるなら生れた町内で堅気なくらしがしたい、みなさんの食事ごしらえや洗濯なんか引受けるから、と云うもんでね」<lb />
+「わかった、お<seg rend="sesame_dot" rendition="em">りつ</seg>ならいいだろう」<lb />
+「あっしもそう思ったんだが」<lb />
+　茂次はまた大六の顔を見た、「――なにを云いそびれてるんだ」<lb />
+「べつに云いそびれてるわけじゃあねえが」と大六はまた頭を掻いた、「じつは、こんどいってみると、あの娘が子供を集めて面倒をみているんだ、火事にあって、親きょうだいをなくした子供たちなんだが」<lb />
+「それで」と茂次がじれったそうに促した。<lb />
+「それでつまり、一人や二人ならいいけれども、十二三人にもなっちまってるんで」<lb />
+「だめだ」と茂次は首を振った、「そんなばかなことができるもんか、追いだしちまえ」<lb />
+　大六は困惑したようすで、それがそうはいかない、娘が理屈を云って、どうしても承知しないのだと云った。<lb />
+「あいつは昔からおせっかいなやつだった」と茂次が云った、「よし、うっちゃっとけ、おれが帰ったら片づけてやる」<lb />
+　波津音の普請は十月はじめに終った。<lb />
+　このあいだに二人、高輪の「<seg type="ruby"><seg type="rb">大伊</seg><seg type="rp">（</seg><seg type="rt">だいい</seg><seg type="rp">）</seg></seg>」と浅草あべ川町の兼六が川越まで弔問に来た。大伊の伊吉は亡き留造の弟分で、茂次は小さいじぶんから「高輪のおじさん」と呼んでいた。兼六は「大留」から出た人間で、弟子筋ではいちばん古参であり、年ももう六十にちかかった。二人とも留造夫婦の死にくやみを述べ、茂次が仕事場からはなれなかったことを褒めた。それから、葬式のことや、大留の再建について相談にのろうと云った。茂次はふだんから口がへたで、なにか云うにしても、まるで枯枝でも折るような、ぶっきらぼうなことしか云えなかったが、そのときもいつもの伝で、弔問には礼を述べたが、相談にのろうというはなしは断わった。<lb />
+「葬式は当分ださないつもりです」と茂次は云った、「そんな金もないし、あれば仕事のほうへまわすのが先です」<lb />
+「だからその相談をしようと思って来たんだ、金のことならなんとでもするから」<lb />
+「いや、葬式は当分だしません」と茂次は頑固に首を振った、「それに、大留をたて直すにしても自分の腕でやってみるつもりです、どうか私のことはうっちゃっといて下さい」<lb />
+　二人は茂次の性分を知っているので、それでは江戸でまた改めて話すことにしよう、と云って帰った。大六はこの問答をはらはらしながら聞いていたが、二人が去るとすぐに、あんな挨拶はないと怒った。<lb />
+「相手にもよりけりだ、高輪とあべ川町は親類も同様ですぜ、わざわざこんな川越くんだりまで来てくれて、ゆくさき力になろうと云うのはあだやおろそかなことじゃあねえ、それをあんな」<lb />
+「うるせえ」と茂次が<seg type="ruby"><seg type="rb">遮</seg><seg type="rp">（</seg><seg type="rt">さえぎ</seg><seg type="rp">）</seg></seg>った、「おれにはおれの思案があるんだ、はっきり云っとくが、これからは仕事のこと以外によけいな口だしはしねえでくれ」<lb />
+　大六は黙って頭を垂れた。<lb />
+「わかったのか」と茂次が云った。<lb />
+「わかりました」と大六は答えた。<lb />
+　普請がすっかり終り、茂次はみんなを伴れて江戸へ帰った。<lb />
+　板橋で日が暮れ、本郷台を外神田へくだるときは、もう暗くて眺望はきかなかったが、湯島から下はいちめんに黒く、灯もごくまばらで、いかにも荒涼としたけしきだった。和泉橋を渡って岩井町へ着くまで、どちらを見ても焼け跡ばかりだったし、表通りだけぽつぽつ建っている家も、みな仮小屋か、それにちかいざつな建物であった。<lb />
+　大留の店は元の場所だが、本普請をする地面をよけて、二丁目のほうへ寄った端に建ててあった。板を打付けて作ったまったくの仮小屋で、横に長く、佐久間町のほうへ向って戸口があり、「大留」と書いた<seg type="ruby"><seg type="rb">提灯</seg><seg type="rp">（</seg><seg type="rt">ちょうちん</seg><seg type="rp">）</seg></seg>が、まわりの焼け跡に明るく光りを投げていた。松三の先触れで、戸口の前に立っていた出迎えの者たちが、われ勝ちに挨拶するのを聞きながら、茂次は口の中でそっと呟いた。<lb />
+「お父っつぁんおっ母さん、いま帰りました」<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">三</seg></seg></seg>
+<lb />
+　明くる朝、茂次は子供たちの騒ぐ声で眼をさました。<lb />
+　横に長いその小屋は三つに区切られていた。東の端が茂次、西の端がお<seg rend="sesame_dot" rendition="em">りつ</seg>の部屋で、勝手が付いている。そのまん中が職人たちのもので、十二帖ばかりの広さだった。――まえの晩はそこで酒盛りをしたのだが、子供たちの姿は見えなかった。お<seg rend="sesame_dot" rendition="em">りつ</seg>も酒や<seg type="ruby"><seg type="rb">肴</seg><seg type="rp">（</seg><seg type="rt">さかな</seg><seg type="rp">）</seg></seg>をはこんだりさげたりするだけで、少しも席におちついていず、しぜん話をする機会もなかった。そのため子供たちのことはすっかり忘れていたのであるが、その騒ぎで眼をさますと、いきなりはね起き、障子をあけて「うるせえ」とどなった。<lb />
+　そこは板敷で、うすべりを敷いた上に、夜具を並べて寝るようになっている。切り窓の障子が明るんでいて、隅のほうに<seg rend="sesame_dot" rendition="em">くろ</seg>が一人、掛け蒲団を頭までかぶって寝ており、まん中の広いところでは、十幾人かの子供たちが、もちゃくちゃにした夜具の上で暴れていた。<lb />
+　高いどなり声と、茂次の姿を見て、子供たちは組打ちをやめ、ぴたっと沈黙した。<lb />
+「原っぱじゃあねえ、静かにしろ」と茂次はまたどなった。<lb />
+　そこへ、向うの障子をあけて、前掛で手を拭きながら、お<seg rend="sesame_dot" rendition="em">りつ</seg>が出て来た。頭に手拭をかぶり、<seg type="ruby"><seg type="rb">襷</seg><seg type="rp">（</seg><seg type="rt">たすき</seg><seg type="rp">）</seg></seg>を掛けていて、茂次に目礼しながら、子供たちを叱った。茂次は子供たちを見た。十三歳くらいになるのが一人、小さいほうは五つくらいだろう、数えてみると十二人いた。<lb />
+「話があるから来てくれ」と茂次がお<seg rend="sesame_dot" rendition="em">りつ</seg>に云い、そして<seg rend="sesame_dot" rendition="em">くろ</seg>に向ってどなった、「いつまで寝ているんだ<seg rend="sesame_dot" rendition="em">くろ</seg>、起きろ」<lb />
+　正吉と松三はみえなかった。ゆうべ酒盛りのあとで遊びにでかけたのだろう。倉太と銀二もいない、と思ったが、すぐに、二人が焼け死んだことに気づき、胸を緊められるように感じながら眼をそらした。<lb />
+「いま御飯の支度をしているんですけれど」<lb />
+　とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云っていた、「朝御飯のあとじゃいけないでしょうか」<lb />
+　茂次は頷いて障子を閉めた。彼が着替えをしていると、お<seg rend="sesame_dot" rendition="em">りつ</seg>が来て夜具をたたみながら、井戸端に支度がしてあると云った。茂次は裏へ出ていった。まえには内井戸だったのが、家が焼けたのでいまは外になっている。井戸端も新しく、流しも新しい。彼は水の<seg type="ruby"><seg type="rb">汲</seg><seg type="rp">（</seg><seg type="rt">く</seg><seg type="rp">）</seg></seg>んである<seg type="ruby"><seg type="rb">半<seg facs="../../../gaiji/2-13/2-13-28.png" rend="gaiji" rendition="img" source="※(「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28)" /></seg><seg type="rp">（</seg><seg type="rt">はんぞう</seg><seg type="rp">）</seg></seg>を置き直し、房楊子を使いながら、ここが勝手の土間だったと思い、慌てて首を振り、眼をそむけた。<lb />
+「おい」と茂次は自分に云った、「こんなことは二度と考えるなよ」<lb />
+　焼け跡の端に「福田屋」が見えた。植込の松の枝や、<seg type="ruby"><seg type="rb">黒板塀</seg><seg type="rp">（</seg><seg type="rt">くろいたべい</seg><seg type="rp">）</seg></seg>の一部は焦げているが、二階造りの住居も、三棟の土蔵も元のままであった。よく残りゃあがった、茂次はそう思いながら、口の中でそっと呟いた。<lb />
+「すぐに追いついてみせるぜ」<lb />
+　茂次の部屋には、仮の仏壇が作ってあり、<seg type="ruby"><seg type="rb">晒</seg><seg type="rp">（</seg><seg type="rt">さら</seg><seg type="rp">）</seg></seg>し木綿で包んだ遺骨の壺が、その中に二つ安置してあった。<seg type="ruby"><seg type="rb">蝋燭立</seg><seg type="rp">（</seg><seg type="rt">ろうそくたて</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">鉦</seg><seg type="rp">（</seg><seg type="rt">かね</seg><seg type="rp">）</seg></seg>、線香立、花立なども、安物だがひととおり<seg type="ruby"><seg type="rb">揃</seg><seg type="rp">（</seg><seg type="rt">そろ</seg><seg type="rp">）</seg></seg>っていた。しかし茂次はそれらの仏具をすっかりとりのけてしまった。ちょうど盛物を持って来たお<seg rend="sesame_dot" rendition="em">りつ</seg>が、それを見て不審そうに云った。<lb />
+「それは源心寺のお住持さんが持って来てくれたんですけれど」<lb />
+　茂次は「みんな返してくれ」と云った。それからお<seg rend="sesame_dot" rendition="em">りつ</seg>の持っている盛物を受取り、自分で仏壇に供え、明日からは自分がするから、仏壇のことに手を出さないでくれ、と云った。<lb />
+「若棟梁のお<seg type="ruby"><seg type="rb">膳</seg><seg type="rp">（</seg><seg type="rt">ぜん</seg><seg type="rp">）</seg></seg>はいま持って来ます」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「あっちはごたごたしてますからこちらであがって下さい」<lb />
+　茂次はふきげんに頷いた。<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>になにか云われたのだろう、子供たちは静かにしていた。茂次の食事が終りかけたとき、正吉と松三が帰ったようすで、<seg rend="sesame_dot" rendition="em">くろ</seg>とこそこそ話すのが聞え、それから障子の向うへ来て、三人で朝の挨拶をした。茂次は茶を<seg type="ruby"><seg type="rb">啜</seg><seg type="rp">（</seg><seg type="rt">すす</seg><seg type="rp">）</seg></seg>ると、すぐに立って外へ出た。<lb />
+　町内をぐるっと見てから、堀を越して白かね町、本町、一石橋のほうまでゆき、戻って来て福田屋へ寄った。まだ店はあいていず、住居のほうを<seg type="ruby"><seg type="rb">覗</seg><seg type="rp">（</seg><seg type="rt">のぞ</seg><seg type="rp">）</seg></seg>くと、息子の利吉が庭を掃いていた。<lb />
+「いまひと廻りして来たんだ」と茂次が云った、「知っているうちはみんなやられちゃったな」<lb />
+「一石橋の<seg type="ruby"><seg type="rb">枡屋</seg><seg type="rp">（</seg><seg type="rt">ますや</seg><seg type="rp">）</seg></seg>へいったか」<lb />
+「土蔵まで焼け落ちてた」<lb />
+「大野屋がやられ、新石町がやられた」と利吉が云った、「友達のところはみんな焼けてうちだけ残ったもんだから、なんだか悪いことでもしたようで、肩身がせまくっていけないよ」<lb />
+　そして、焼けた友人たちはみな立退いてしまい、残っているのはこの二人だけらしい。ほかの者はもう戻っては来ないようだ、と付け加えた。<lb />
+　茂次が訊いた、「おばさんたちはまだ目白のほうか」<lb />
+「まわりがこのとおりで物騒だからね」<lb />
+「うん」と茂次は頷き、ちょっと口ごもってから、「おめえに断わることがあって来たんだ」と云った、「おれはこれから、やり直さなくちゃあならない、それで、大留がすっかり立直るまで、いっさいのつきあいをやめるつもりだ」<lb />
+「それはおかしいよ、こんなときにこそつきあいが役に立つんじゃあないのか」<lb />
+「つきあいは対等でやりたいんだ」と茂次は云った、「いこじかもしれないが、性分だからしようがねえ、頼むよ」<lb />
+　利吉は口をつぐんだ。<lb />
+「おやじやおふくろのことを云わずにいてくれて、――」と茂次が云った、「有難う」<lb />
+　そしてさっさとそこを去った。<lb />
+　帰ってゆくと、小屋のうしろの空地で、子供たちが遊んでい、茂次を見て、急にみんなしんとなった。みんな遊びをやめ、<seg type="ruby"><seg type="rb">躯</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>を固くして、じっと茂次のほうを見まもった。どの顔にも怖れと不安の色が、はっきりとあらわれていた。茂次は立停ってかれらを見た。大きいほうの子供たちは眼をそらし、じりじりとうしろへさがった。茂次がなおみつめていると、五つばかりになる男の子が、そばにいるもっと小さい女の子を抱きよせ、泣きべそのような笑顔をつくりながら、<lb />
+「棟梁のおじさん」と呼びかけた。<lb />
+「棟梁のおじさん、この子<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんていうんだよ」<lb />
+　女の子を抱きよせた恰好が、まるで茂次からなにかされるのを防ぐようにみえたし、泣きべそよりみじめなつくり笑いは、殆んど正視するに耐えないものであった。彼は眼をそらし、戸口のほうへまわってゆくと、お<seg rend="sesame_dot" rendition="em">りつ</seg>が表を掃いていて、「お帰りなさい」と云った。<lb />
+「ちょっと来てくれ」<lb />
+　と云って茂次はうちへはいった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">四</seg></seg></seg>
+<lb />
+　茂次の部屋で、お<seg rend="sesame_dot" rendition="em">りつ</seg>は話した。<lb />
+　大きな火事のあとには、多かれ少なかれ孤児ができる。親類や田舎のあるものはそっちへ引取られるが、他の者は救助小屋に集め、やがて元の町内に預けられる。たいていはそれで片づくのだが、条件が悪いとか、他人の厄介になるのを嫌う者は、浮浪児になってしまう。いまうちにいるのもそういう子供たちで、元の住所のわかっている子は、みなお<seg rend="sesame_dot" rendition="em">りつ</seg>がその町内へいってみた。しかし子供は「死んだってあんな処へは帰らない」と云うし、町内でも引取りたがらない。中には「あんな<seg rend="sesame_dot" rendition="em">がき</seg>はまっぴらだ」などと云う者さえあった。<lb />
+　話を聞きながら、茂次はお<seg rend="sesame_dot" rendition="em">りつ</seg>のようすを見ていた。<lb />
+　彼女は十八になる。父親の平六は左官の手間取だったが、お<seg rend="sesame_dot" rendition="em">りつ</seg>が七つの年に仕事先で<seg type="ruby"><seg type="rb">梯子</seg><seg type="rp">（</seg><seg type="rt">はしご</seg><seg type="rp">）</seg></seg>から落ち、背骨を<seg type="ruby"><seg type="rb">挫</seg><seg type="rp">（</seg><seg type="rt">くじ</seg><seg type="rp">）</seg></seg>いて寝ついたまま、まる八年も病んで死んだ。そのあいだ、母親のお<seg rend="sesame_dot" rendition="em">いく</seg>はあらゆることをして稼いだ。人夫までやったそうで、平六が死んだあとは、彼女もまたすっかり弱っていた。それを茂次の母が聞いて、勝手仕事の手伝いに雇ったのであるが、そのちょっとまえに、お<seg rend="sesame_dot" rendition="em">りつ</seg>は茶屋奉公に出ていた。医薬代が<seg type="ruby"><seg type="rb">溜</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>まっていて、ふつうの内職などでは片づかなかったからであろう、浅草並木町の「天川」という、かなり大きな料理茶屋へ住込みではいった。――茂次はずっとまえからお<seg rend="sesame_dot" rendition="em">りつ</seg>を知っていた。小さいころは<seg type="ruby"><seg type="rb">痩</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>せた小柄な躯つきで、色があさぐろく、眼が大きかった。たぐい<seg type="ruby"><seg type="rb">稀</seg><seg type="rp">（</seg><seg type="rt">まれ</seg><seg type="rp">）</seg></seg>な勝ち気で、男の子とよくつかみあいの<seg type="ruby"><seg type="rb">喧嘩</seg><seg type="rp">（</seg><seg type="rt">けんか</seg><seg type="rp">）</seg></seg>をし、多くの場合お<seg rend="sesame_dot" rendition="em">りつ</seg>が勝った。負けても泣くことなどはない、涙をこぼしながら歯をくいしばっている、というふうであった。<lb />
+　――炭屋の裏の鬼っ子。<lb />
+　などと、近所の男の子たちはからかったものである。けれども、弱い子や貧乏な家の子などは、よく<seg type="ruby"><seg type="rb">庇</seg><seg type="rp">（</seg><seg type="rt">かば</seg><seg type="rp">）</seg></seg>ってやり、面倒をみてやるので、町内の親たちの評判はよかった。<lb />
+　――すっかり女らしくなったな。<lb />
+　と茂次は思った。十八という年より、いまのお<seg rend="sesame_dot" rendition="em">りつ</seg>は二つほどふけてみえる。小柄な躯つきや、あさぐろい肌や、眼の大きなところは昔のままのようであるが、ぜんたいに柔軟なまるみと<seg type="ruby"><seg type="rb">艶</seg><seg type="rp">（</seg><seg type="rt">つや</seg><seg type="rp">）</seg></seg>があらわれているし、なにげない身のこなしや眼もとなどに、いきいきとしたいろけが感じられた。<lb />
+「あら」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が急に云った、「聞いていらっしゃらないんですか」<lb />
+　茂次は眼をそらしながら、「聞いたよ」と云った。<lb />
+「わけはわかったが、むりだ」と彼はぶっきらぼうに続けた、「おれはこのとおり裸になっちまったし、うちをやり直すだけで手いっぱいだ、おめえだって子を持ったこともないのに、あれだけの者を育てるなんてむりなはなしだ」<lb />
+「だってそんなに手はかかりゃしませんよ、現に今日までやってこられたんですもの」<lb />
+「これまではな」と茂次は遮った、「しかしこれからは人数がふえる、おれや職人たちの世話をするだけだって、おめえ一人じゃあ手がたりなくなるぜ」<lb />
+「じゃあ、どうしたらいいんですか」<lb />
+「おれにはわからねえ、町役にでも話せばなんとかしてくれるだろう」と茂次はむっとした口ぶりで云った、「こういうことはお上の仕事だ、そのためにこっちは高い<seg type="ruby"><seg type="rb">運上</seg><seg type="rp">（</seg><seg type="rt">うんじょう</seg><seg type="rp">）</seg></seg>を払ってるんだから」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は唇を<seg type="ruby"><seg type="rb">噛</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>んだ。<lb />
+「わかりました」とやがてお<seg rend="sesame_dot" rendition="em">りつ</seg>は云った、「ではそうしますけれど、話がきまるまで待って下さいますか」<lb />
+「いいよ」と茂次は頷いた。<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は立ちあがって、なにか云おうとしたが、口をつぐんだ。<lb />
+「なんだ」と茂次が訊いた。<lb />
+「なんでもありません」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は首を振り、顔をそむけながら出ていった。<lb />
+　それから四五日、茂次は仕事の手順をつけるのに追われた。彼は大六を伴れて木場の「和七」を訪ね、普請場をまわった。一つは神田明神下の酒問屋、一つは岩槻町の呉服屋、他の一つは日本橋吉川町の「魚万」という料理茶屋で、これらを巳之八、藤造の二人でやっていた。どちらも大留はえぬきの職人であり、使っている大工もずっと大留の息のかかっている者ばかりであった。――しかし左官、屋根屋、建具屋などは、大きな火事のあとは仕事が多いから、銀でたたかなければなかなか思うように動かない。川越の仕事ではいったものや、請負った普請の手付なども、たちまち底をつくことはわかっていた。<lb />
+「どうします」と帳場の助二郎が二度ばかり訊いた、「いまのうちに手を打っておきたいんですが、高輪へ伺っちゃあいけませんか」<lb />
+「高輪もあべ川町もだめだ」と茂次は首を振った、「おれがなんとかするからいい」<lb />
+　大六がそばにいて訊いた、「なんとかするってどうするんです」<lb />
+「見ていりゃあわかる、おめえたちに迷惑はかけねえ」<lb />
+　或る日、その高輪の伊吉が、あべ川町の兼六とそろって来た。夕飯にかかるまえで、茂次が湯から帰ってみると、大六と助二郎が二人の相手をしていた。茂次は二人に挨拶をしながら、立とうとする大六と助二郎に「おまえたちもいてくれ」と云い、二人はまた坐った。<lb />
+「年役だからあっしが話そう」と高輪の伊吉が口を切った、「仕事のこともあるが、それはあとにして、まず亡くなった人の葬式について相談なんだが」<lb />
+「そいつは川越で云った筈です」と茂次は遮った、「私は<seg type="ruby"><seg type="rb">諄</seg><seg type="rp">（</seg><seg type="rt">くど</seg><seg type="rp">）</seg></seg>いことは嫌いだが、もういちど云います、葬式は当分だしませんし、どうか私のことはうっちゃっといて下さい」<lb />
+「そうはいかねえ」と伊吉が云った、「おまえさんの性分はわかってるし、なにかこうとめどを押えているんだろうが、世間には世間のしきたりがある、おまえさんが構うなと云ったって、そうかと引込んでいられるものじゃあねえ、世間に対する義理だけでもそれじゃあ済まねえ」<lb />
+　そして大留と自分たちとの関係、棟梁なかまのつきあい、などについて説明しようとした。だが茂次はまた、「そういうことは聞きたくない」と遮った。<lb />
+「私のほうで頼むんだから、おじさんやあべ川町が義理を苦にすることはないでしょう」と茂次は云った、「世間でもし蔭口なんかきく者があったらはっきりそう云ってやって下さい、私は自分がいい子になろうなんてちっとも思ってやしないんだから」<lb />
+　兼六が伊吉を抑えた。伊吉の顔色が変ったのである。助二郎と大六もおどろいて、茂次をたしなめにかかったが、逆に茂次は二人に向って云った。<lb />
+「いまおれの云ったことを覚えててくれ、おれたちは誰にも頼らねえ、この腕一本で大留を立て直すんだ、おれたちだけでだ、わかったか」<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">五</seg></seg></seg>
+<lb />
+　大六と助二郎は途方にくれたように、黙って頭を垂れた。<lb />
+「そういうことならひきさがろう」と兼六が云った、「だが茂さん、もうすぐに亡くなった人の三十五日だ、法事だけはするんだろうが、そのときは知らせてもらえるだろうね」<lb />
+「いや法事もやりません」<lb />
+「法事もしねえって」と伊吉が云った、「じゃあその」と伊吉は仏壇へ<seg type="ruby"><seg type="rb">顎</seg><seg type="rp">（</seg><seg type="rt">あご</seg><seg type="rp">）</seg></seg>をしゃくった、「仏のお骨はどうするんだ」<lb />
+「このままですよ」と茂次が答えた、「寺へ預けりゃあ経料だのなんだのって金ばかりかかりますからね、源心寺の坊主は妾を抱えて、毎晩なまぐさもので酒をくらってますぜ、坊主なんてたいてえそんなもんだ、そんな坊主に経をあげてもらったって仏の供養にゃあならねえし、妾の手当や酒代をこっちで持ついわれはありませんからね、骨は当分このままにしておくつもりです」<lb />
+　伊吉はものも云わずに立ちあがった。<lb />
+　大六と助二郎が、二人を外まで送っていった。おそらく詫び言を云いにいったのだろう、茂次はお<seg rend="sesame_dot" rendition="em">りつ</seg>を呼んで「飯にしてくれ」と云った。お<seg rend="sesame_dot" rendition="em">りつ</seg>は泣いていたとみえ、眼のまわりと鼻の頭が赤くなっていた。大六と助二郎は戻って来たが、二人ともなにも云わずに、挨拶だけして自分たちの家へ帰っていった。<lb />
+　そのすぐ次の日、茂次は木場の「和七」へでかけていった。川越から帰って訪ねたとき、金のことを頼んだのである。大六は気づかなかったろうが、岩井町に持っている地所三百坪あまりを抵当にした。七兵衛は抵当も証文も不要だと拒み、金は必ず都合すると引受けたのである。いってみると約束どおりの金ができてい、茂次は地所を抵当にして証文とひきかえに受取った。七兵衛はこんなものは受取れないと云ったが、茂次もそれなら金は借りないと云い張り、ついに七兵衛のほうでかぶとをぬいだ。<lb />
+　岩井町へ帰った茂次が、助二郎に金を渡し、大六の来るのを待っていると、福田屋久兵衛と町内のかしらの勘助が、町方同心の中島市蔵というのを案内して来た。――久兵衛はまず不幸のくやみを述べ、同心をひきあわせてから、用件をきりだした。つづめていえば、孤児を大勢やしなっているのは不法だ、というのである。災害による孤児の始末はきまっていて、個人がこんなふうに多勢を集めてやしなう、などということは間違いだ。元の町内へ引取らせるか、お役人に任せるかどちらかにしなければならない。このままではお上にも<seg type="ruby"><seg type="rb">憚</seg><seg type="rp">（</seg><seg type="rt">はばか</seg><seg type="rp">）</seg></seg>りであるし、町内の迷惑にもなる、というのであった。そのときお<seg rend="sesame_dot" rendition="em">りつ</seg>がとびだして来て、「それはあたしが話します」と云った。しかし茂次はお<seg rend="sesame_dot" rendition="em">りつ</seg>を押しやった。<lb />
+「<seg type="ruby"><seg type="rb">仰</seg><seg type="rp">（</seg><seg type="rt">おっ</seg><seg type="rp">）</seg></seg>しゃることはわかりました」と茂次は久兵衛に云った、「私もそうするつもりでいたんですが、いま、町内の迷惑になると仰しゃいましたね、それはどういうことなんですか」<lb />
+「ひとくちに云うと、子供たちがあくたれすぎるようだ」と久兵衛が云った、「私もたびたびみかけたけれど、ここにいる子供はたちが悪い、なにもしない子を殴る、よその塀を<seg type="ruby"><seg type="rb">毀</seg><seg type="rp">（</seg><seg type="rt">こわ</seg><seg type="rp">）</seg></seg>す、家の中へ石を投げこむ、店先の物をかっぱらう、そんな苦情を絶えずもちこまれるんだ」<lb />
+「それは違います、いいえ違います」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は云い返した、「うちにいる子がいい子ばかりだとは云いません、でも町内の子供たちがからかいさえしなければ、決してそんな悪いことなんかしやしないんです」<lb />
+「町内の子がからかうって」<lb />
+「あたしはあの子たちを裏の空地で遊ぶようにさせています、なるべくよそへゆかないようにさせているんですが、町内の子供たちがやって来て、のら犬だとか、親なしっ子だとか、どろぼうだとか云って、さんざん悪態をついたり物を投げたりするんです」<lb />
+「すると、――」と同心の中島が訊いた、「おまえはこの町内のほうが悪いというんだな」<lb />
+「あたしはこの土地の者です」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は答えた、「あたしはこの町内で生れこの町内でそだちました、火事からこっちずいぶん人が変りましたけれど、昔から住んでる人はみんな知ってます、ですから町内を悪く云う気持なんかこれっぽっちもありゃしません、それに、子供のことですから、よそ者を見ればからかったりいじめたりしたくなるのは、どこでも同じことでしょう、だから町内の子たちが悪いと云うんじゃあないんです、ただ――」とお<seg rend="sesame_dot" rendition="em">りつ</seg>はちょっと絶句し、すぐにまた続けた、「ただうちにいる子供たちは、預けられたさきで、厄介者扱いにされたりこき使われたり、いろいろなことがあっていたたまれなかった、どこへいっても親無しっ子、どろぼう、のら犬ってからかわれたり、いじめられたりして来たんです、あたしも、火事でおっ母さんに死なれました、両親もきょうだいもないし親類もありません、ですからあの子たちの気持がよくわかるんです、あの子たちがなにより欲しがっているのは人の愛情なんです、人の愛情だけがあの子たちの生きる頼りなんです、それなのに、人から憎まれるようなことをすすんでやるでしょうか」<lb />
+　みんなはちょっと沈黙した。<lb />
+「おまえさんの云うことはわかったよ」と久兵衛が云った、「しかしね、こんなことも子供たちを<seg type="ruby"><seg type="rb">此処</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>へ置くから起こることなんで、お上のお指図どおりにすればいいんだから」<lb />
+「旦那にうかがいますが」と茂次が久兵衛を遮って中島市蔵に話しかけた、「あの子供たちをうちでやしなうのは御法度ですか」<lb />
+「法度ということはないが」と中島が答えた、「これまでに例もなし、十余人という子供をやしなうには、それだけの力と条件がそろわなければなるまい」<lb />
+「条件とはどういう」<lb />
+「居場所が充分にあるかどうか、衣食が不足なく賄えるかどうか、ちゃんとした<seg type="ruby"><seg type="rb">躾</seg><seg type="rp">（</seg><seg type="rt">しつけ</seg><seg type="rp">）</seg></seg>ができるかどうかだ」<lb />
+「うちは大工だから」と茂次が云った、「場所が狭ければ建て増しをします、衣食だって金持ちのようにはいかねえが、世間なみのことぐらいできるつもりです」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>はちらっと茂次を見、両の頬を赤くしながら、「世話はあたしがします」と云った。<lb />
+「むりだ」と中島は首を振った、「十幾人もの子供たちに食わせて着せて、おまけに躾もしなければならない、おまえにはこのうちの仕事もあるんだろう」<lb />
+「でも今日までずっとやって来たんですから」<lb />
+「むりだ、そんなことがいつまで続けられるものではない、それはむりだ」<lb />
+　すると外から娘が一人はいって来て、「あたしが手伝いますわ」と云った。みんなそっちを見、久兵衛が眼をみはった。<lb />
+「お<seg rend="sesame_dot" rendition="em">ゆう</seg>、おまえなにを云うんだ」<lb />
+　それは福田屋久兵衛の娘、利吉の妹のお<seg rend="sesame_dot" rendition="em">ゆう</seg>であった。お<seg rend="sesame_dot" rendition="em">りつ</seg>より年は一つ下であるが、商家そだちに似あわず、きかない気性と<seg type="ruby"><seg type="rb">縹緻</seg><seg type="rp">（</seg><seg type="rt">きりょう</seg><seg type="rp">）</seg></seg>よしとで、以前から町内ではめだつ娘であった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">六</seg></seg></seg>
+<lb />
+「あたしは一日じゅう手があいてますから、昼間だけここへかよって来ます」とお<seg rend="sesame_dot" rendition="em">ゆう</seg>は父に構わず続けた、「それでも不足なときは下女だっていますし、自慢のように聞えては困るけれど、読み書きぐらい教えられますから」<lb />
+　脇にいたかしらの勘助は「よう」とでも声をかけたそうな顔をした。<lb />
+「いや」と茂次が首を振った、「お<seg rend="sesame_dot" rendition="em">ゆう</seg>ちゃんにそんなことをしてもらわなくっても、手が足りなければこっちで人を雇うよ」<lb />
+「恩にきせるとでも思うの」とお<seg rend="sesame_dot" rendition="em">ゆう</seg>は茂次を見あげた、「あたしは罪ほろぼしのつもりよ」<lb />
+「お<seg rend="sesame_dot" rendition="em">ゆう</seg>」と久兵衛が云った。<lb />
+「この町内で焼け残ったのはうち一軒よ、塀をちょっと焦がしただけで、うちはまるまる焼け残ったし人もみんな無事だったわ、おまけに父は町役を勤めているんですもの、本当ならそういう子供たちはうちで引受けるのがあたりまえよ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>の、眼尻があがった。茂次がなにか云いかけたが、同心の中島がさきに「福田屋」と云って久兵衛を見た。<lb />
+「云いだしたらきかないんで」と久兵衛が云った、「もしそんなことでよかったら、娘に手伝わせてもいいと思いますが」<lb />
+「いちおうお係りと相談してみるが」と中島が云った、「とにかく<seg type="ruby"><seg type="rb">人別</seg><seg type="rp">（</seg><seg type="rt">にんべつ</seg><seg type="rp">）</seg></seg>をきちんとしておいてくれ、いいとなったらお手当のさがるようにはからってみよう」<lb />
+「お<seg rend="sesame_dot" rendition="em">ゆう</seg>さん」とかしらの勘助が初めて口をいれた、「お手柄でしたね」<lb />
+　そしてみんな出てゆき、お<seg rend="sesame_dot" rendition="em">ゆう</seg>だけあとに残った。お<seg rend="sesame_dot" rendition="em">りつ</seg>はくるっと振向いて、足早に勝手のほうへ去り、お<seg rend="sesame_dot" rendition="em">ゆう</seg>は茂次にくやみを述べた。それを聞くのがいやなのだろう、茂次は「いつこっちへ帰ったのか」と話をそらした。そこへ、お<seg rend="sesame_dot" rendition="em">りつ</seg>が引返して来て、子供が五人逃げた、と告げた。<lb />
+「逃げたって」と茂次は振返った。<lb />
+「いまの話を聞いたんでしょ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が<seg type="ruby"><seg type="rb">吃</seg><seg type="rp">（</seg><seg type="rt">ども</seg><seg type="rp">）</seg></seg>りながら云った、「途中まで聞いて伴れ戻されると思ったんでしょう、もうちょっとまえに五人で逃げたんですって」<lb />
+　茂次は奥へとんでいった。お<seg rend="sesame_dot" rendition="em">りつ</seg>が続き、お<seg rend="sesame_dot" rendition="em">ゆう</seg>もあがって来た。いってみると、勝手口の外に子供が八人、互いに<seg type="ruby"><seg type="rb">倚</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>りかたまって、<seg type="ruby"><seg type="rb">怯</seg><seg type="rp">（</seg><seg type="rt">おび</seg><seg type="rp">）</seg></seg>えたような顔で立っていた。いつか茂次に呼びかけた子は、あのときの<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんという女の子を、あのときと同じように抱きよせていた。<lb />
+「五人逃げたというのは本当か」と茂次が訊いた、「どこかに隠れてるんじゃないのか」<lb />
+　すると十一か二くらいになる、いちばん<seg type="ruby"><seg type="rb">年嵩</seg><seg type="rp">（</seg><seg type="rt">としかさ</seg><seg type="rp">）</seg></seg>の子が、「逃げたのだ」と答えた。<lb />
+「<seg rend="sesame_dot" rendition="em">じっ</seg>平と忠がみんなに逃げようと云ったんだ、<seg rend="sesame_dot" rendition="em">じっ</seg>平も忠もかっぱらいなんかしたことがあるんで、それでおっかなくなったもんだから」とその子は云った、「――おらあよせってとめたんだけれど、とうとう三人付いていっちまったんだ」<lb />
+　茂次は頷いて云った、「安心しな、おめえたちみんな此処にいていいんだ、役人が許してくれたし、おれもこれから仲良しになるぜ、それから、ここにいるのはお<seg rend="sesame_dot" rendition="em">ゆう</seg>さんといって、みんなの世話を手伝ってくれる人だ」<lb />
+「こんちは」とお<seg rend="sesame_dot" rendition="em">ゆう</seg>が頬笑みかけた、「あたしのこと姉さんって呼んでね」<lb />
+「ねえちゃん」と小さな<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんがすぐ呼び、赤くなって顔を隠した。お<seg rend="sesame_dot" rendition="em">りつ</seg>の眼尻がまたあがり、ついできゅっと唇を噛んだ。<lb />
+　大六が来たので、茂次は普請場の見廻りにでかけた。人別書を作っておくようにと、お<seg rend="sesame_dot" rendition="em">りつ</seg>とお<seg rend="sesame_dot" rendition="em">ゆう</seg>に頼んだが、お<seg rend="sesame_dot" rendition="em">りつ</seg>の怒っている顔が、一日じゅう眼について困った。<lb />
+　その夜、――夕飯のあとで、茂次は子供たちと初めて話をした。お<seg rend="sesame_dot" rendition="em">ゆう</seg>の書いた人別書を見ながら、一人ずつ呼びかけ、火事のことにはいっさい触れず、これからどううまくやってゆくか、ということについて話した。口がへたなうえに、ぶっきらぼうな話しかたであるが、子供たちには<seg type="ruby"><seg type="rb">却</seg><seg type="rp">（</seg><seg type="rt">かえ</seg><seg type="rp">）</seg></seg>って気持がつうじるようであった。<lb />
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+菊二、十一歳、しらかべ町<lb />
+六、九歳、あいおい町<lb />
+重吉、九歳、同町代地<lb />
+又、八歳、としま町<lb />
+梅、八歳、さくま町<lb />
+伝次、七歳、りゅうかん町<lb />
+市、六歳、おしょろさんの裏<lb />
+<seg rend="sesame_dot" rendition="em">あつ</seg>、四歳、同所<lb />
+</seg>
+　人別書には右のように書いてあり、その住所はお<seg rend="sesame_dot" rendition="em">りつ</seg>がいちおう<seg type="ruby"><seg type="rb">慥</seg><seg type="rp">（</seg><seg type="rt">たし</seg><seg type="rp">）</seg></seg>かめたと云った。逃げた五人の中には、住所を偽った者や、はっきり云わない者もいたが、残った者は正直に云っているという。茂次は「おしょろさんの裏」というのがわからなかった。お<seg rend="sesame_dot" rendition="em">りつ</seg>もそれだけはわからない、市はそれだけしか覚えていないし、<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんとは近所同志らしいが、<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんも「おんなじとこ」と云うだけだそうで、おぼろげな記憶を訊きだしてみると、どうやら大川の向うのような感じがする、とお<seg rend="sesame_dot" rendition="em">りつ</seg>は云った。<lb />
+「それならいちど伴れていってみるんだな」と茂次が云った、「そうすれば思いだすかもしれないし、ことによると生き残っている者があるかもしれない」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は強く首を振り、めくばせをして彼を黙らせた。茂次はまごついて口をつぐみ、それから、今夜はもう寝よう、と云って立ちあがった。<lb />
+　茂次は自分の部屋で、<seg rend="sesame_dot" rendition="em">くろ</seg>を相手に将棋をさし始めた。正吉と松三は夕飯のあとで遊びにでかけ、<seg rend="sesame_dot" rendition="em">くろ</seg>は置いてゆかれたのですっかりむくれていた。将棋もやる気がないとみえ、ばかげた手ばかりさすので、茂次は駒を投げだして「寝ちまえ」とどなりつけた。<seg rend="sesame_dot" rendition="em">くろ</seg>が出てゆくとまもなく、お<seg rend="sesame_dot" rendition="em">りつ</seg>が茶と菓子を持って来て、市と<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんのことを話した。二人は自分たちのうちのことを恐れている、理由はなにも云わないが、元のうちのことを訊くだけでも怯えたような顔になる、ということであった。茂次は眉をしかめて「うん」と低く<seg type="ruby"><seg type="rb">唸</seg><seg type="rp">（</seg><seg type="rt">うな</seg><seg type="rp">）</seg></seg>った。<lb />
+「ほかの子たちも元の町内のことは云いたがりません」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「ずいぶんひどいめにあっているようで、思いだすのもいやなようですから、どうかそういう話には触れないでやって下さい」<lb />
+　茂次は頷いた。お<seg rend="sesame_dot" rendition="em">りつ</seg>は茶を<seg type="ruby"><seg type="rb">淹</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>れ、菓子鉢の蓋を取ってすすめながら、「それから」と云いかけて、そのまま黙った。茂次は茶を啜りながら、お<seg rend="sesame_dot" rendition="em">りつ</seg>を見た。<lb />
+「なんだ」と茂次が訊いた。<lb />
+「お礼が云いたかったんです」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は<seg type="ruby"><seg type="rb">俯向</seg><seg type="rp">（</seg><seg type="rt">うつむ</seg><seg type="rp">）</seg></seg>いて云った、「あの子たちを置いて下さると聞いたとき、あたしうれしくって」<lb />
+「わかったよ」と茂次は乱暴に遮った、「そんなことより、もっとほかに話があるんじゃあないのか」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は眼をあげて茂次を見た。<lb />
+「ねえのか」と茂次が云った。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">七</seg></seg></seg>
+<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は「お<seg rend="sesame_dot" rendition="em">ゆう</seg>さんのことですか」と訊き返し、茂次が黙っているのを見て、きっぱりとかぶりを振った。<lb />
+「ほかのことはともかく」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は云った、「あたしは明きめくらだし、行儀作法もよくは知らないんですから、そのほうはお<seg rend="sesame_dot" rendition="em">ゆう</seg>さんにやってもらいたいと思うんです」<lb />
+「ほんとだな」と茂次がだめを押した。<lb />
+「ほんとうです」<lb />
+「そんならいい」と茂次は頷いた、「――もしうまくいかなかったら、そう云ってくれ」<lb />
+　二人が顔を合わせたときから、こいつはまずいぞ、と茂次は思った。お<seg rend="sesame_dot" rendition="em">ゆう</seg>はさりげなくふるまっていたが、お<seg rend="sesame_dot" rendition="em">りつ</seg>の表情には反感とねたみがはっきりあらわれた。気の強い点では負けず劣らずだが、そだちや教養では格段に違うから、お<seg rend="sesame_dot" rendition="em">りつ</seg>がそれをひけめに感じ、反感やねたみを<seg type="ruby"><seg type="rb">唆</seg><seg type="rp">（</seg><seg type="rt">そそ</seg><seg type="rp">）</seg></seg>られるのはやむを得まい。ことに三十余日のあいだ、馴れない手で面倒をみてきて、ようやく子供たちがなついたところである。どうかするとお<seg rend="sesame_dot" rendition="em">ゆう</seg>に子供たちを横取りされる、という気持も起こるだろう。いずれにしてもうまくはゆくまいと、思ったのであるが、日が経っても、そんなようすはみえなかった。茂次は月に二度の休み以外、ひるまはうちにいないので、お<seg rend="sesame_dot" rendition="em">ゆう</seg>と会う機会は殆んどない。けれども、毎晩お<seg rend="sesame_dot" rendition="em">りつ</seg>が話すから、その日あったことはおよそ知ることができた。お<seg rend="sesame_dot" rendition="em">りつ</seg>の話はお<seg rend="sesame_dot" rendition="em">ゆう</seg>のことが中心であり、それがたいていお<seg rend="sesame_dot" rendition="em">ゆう</seg>を褒め、お<seg rend="sesame_dot" rendition="em">ゆう</seg>について感心したことばかりであった。<lb />
+「あたしお<seg rend="sesame_dot" rendition="em">ゆう</seg>さんに字を教えてもらおうと思うの」と或る夜お<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「明日っから子供たちといっしょに始めるつもりよ」<lb />
+　茂次は信じかねるようにお<seg rend="sesame_dot" rendition="em">りつ</seg>を見た。<lb />
+「人間は学問が大切だって、あたしつくづくそう思ったのよ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は茂次を見返して云った、「若棟梁はちいさこべって知ってるわね」<lb />
+「なんのこった」<lb />
+「ちいさこべよ、知ってるんでしょ」<lb />
+　茂次は黙って首を振った。<lb />
+「うそ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「ほら、ずっとむかしのなんとかっていう天皇のときに、よその子をたくさん集めてきた人がいるじゃないの」<lb />
+「それがどうしたんだ」<lb />
+「それがちいさこべよ、知ってるんじゃないの」<lb />
+「どうしてそれがちいさこべなんだ」<lb />
+「天皇はね、お<seg type="ruby"><seg type="rb">蚕</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>さまを集めて来いって仰しゃったんですって、天皇だからさまは付けないで、ただ<seg rend="sesame_dot" rendition="em">こ</seg>って呼びすてにするでしょ、おかいこがしたかったので、<seg rend="sesame_dot" rendition="em">こ</seg>を集めて来いって仰しゃったら、その人よその子をうんとこさ集めて来たのよ、それで天皇が笑って、ちいさこべのすがる、っていう名をお付けになったんですって、そうでしょ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「だからここのうちもちいさこべだって、お<seg rend="sesame_dot" rendition="em">ゆう</seg>さんが云うの、いっそちいさこ部屋って呼べばいいって、――そんな大昔の話がすぐ出てくるんですもの、やっぱり学問がなければだめだって思っちゃったわ」<lb />
+「仮名の読み書きぐらいできるほうがいいが」と茂次が云った、「学問まですることはねえさ」<lb />
+「あら、読み書きと学問は違うの」<lb />
+「誰か泣いてるぜ」と茂次が云った、「<seg rend="sesame_dot" rendition="em">あつ</seg>ぼうじゃねえのか」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は首をかしげ、「<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんらしいわ」と云いながら立っていった。<lb />
+　十一月の中旬に、うちの建て増しをした。仕事の関係で、泊り込む職人が二人ふえたし、そうでなくとも子供たちといっしょでは、どっちのためにも具合が悪いからである。お<seg rend="sesame_dot" rendition="em">りつ</seg>のいる勝手と四帖半も少しひろげ、子供たちの部屋は十二帖にし、次に職人たちのために六帖を二つ、端の茂次の部屋も八帖にした。これがひとかわに横に並び、南側に縁側をとおした。大六と助二郎は「本普請にしたらどうか」とすすめたが、茂次はとりあわなかった。――すると、その建て増しを待ってでもいたように、<seg rend="sesame_dot" rendition="em">じっ</seg>平にさそわれて逃げた子供のうち、富と広治という二人が戻って来た。富は九歳、広治は八歳で、二人とも乞食のような姿をしており、<seg type="ruby"><seg type="rb">垢</seg><seg type="rp">（</seg><seg type="rt">あか</seg><seg type="rp">）</seg></seg>だらけで、<seg type="ruby"><seg type="rb">虱</seg><seg type="rp">（</seg><seg type="rt">しらみ</seg><seg type="rp">）</seg></seg>がたかっていた。かれらは暗くなってから、空地に<seg type="ruby"><seg type="rb">佇</seg><seg type="rp">（</seg><seg type="rt">たたず</seg><seg type="rp">）</seg></seg>んでいるのをお<seg rend="sesame_dot" rendition="em">りつ</seg>にみつけられ、お<seg rend="sesame_dot" rendition="em">りつ</seg>がびっくりして呼びかけると、かれらはお<seg rend="sesame_dot" rendition="em">りつ</seg>にとびつき「ごめんなさい」と云って泣きだした。<lb />
+「あたしわれ知らずぶっちゃったわ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は茂次にそう云った、「二人のお尻のところをぴしゃぴしゃって、――うれしいようなくやしいような、自分でもわけのわからない気持で、ただもうかっとなっちゃったのよ」<lb />
+　茂次は頷いた。<lb />
+「わるいわね」とお<seg rend="sesame_dot" rendition="em">りつ</seg>がそっと茂次を見ながら云った、「また厄介者がふえちゃって」<lb />
+「建て増しといてよかった」と茂次は云った、「当分たべ物に気をつけるんだな、飢えていた人間にいきなり腹いっぱい食わせると、躯をこわすっていうぜ」<lb />
+「ええ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は頷いた、「二人とも手足が竹ぼっ<seg type="ruby"><seg type="rb">杭</seg><seg type="rp">（</seg><seg type="rt">くい</seg><seg type="rp">）</seg></seg>みたいで、おなかばかり蛙のようにふくらんでるの」<lb />
+「竹ぼっ杭だって」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>はすぐに気づいて、まあと恥ずかしそうに笑った、「あれは焼けぼっ杭か」<lb />
+「ちょっと訊くが」と茂次がお<seg rend="sesame_dot" rendition="em">りつ</seg>を見ながら云った、「お<seg rend="sesame_dot" rendition="em">ゆう</seg>さんとはうまくいってるのか」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は微笑した。<lb />
+「あたしもういろはを半分も書けるわ、どうしてそんなこと訊くの」<lb />
+「こないだ晩飯のときに、子供たちの誰かがおまえに悪態をついてた、はっきり聞えたわけじゃあないが、お<seg rend="sesame_dot" rendition="em">りつ</seg>なんかいなくってもお<seg rend="sesame_dot" rendition="em">ゆう</seg>さんのねえさんがいるからいいって、そう云うのが聞えたんだ」<lb />
+「重吉でしょ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>はあっさり云った、「子供ってすぐあんなことを云いたいのね、しょっちゅうだけれど、しんからそう思って云うわけじゃないのよ」<lb />
+「それならいいんだ」と茂次は頷いた、「それがわかっていればいいんだ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は立とうとしたがまた坐って、「ねえ」と声を低くした。<lb />
+「あたし困ってることがあるの」<lb />
+　茂次は黙ってあとを待った。<lb />
+「こんなこと云いたくないんだけれど」<lb />
+「お<seg rend="sesame_dot" rendition="em">ゆう</seg>さんか」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は強くかぶりを振って、「菊二のことなの」と云った。茂次は<seg type="ruby"><seg type="rb">訝</seg><seg type="rp">（</seg><seg type="rt">いぶか</seg><seg type="rp">）</seg></seg>しそうに、お<seg rend="sesame_dot" rendition="em">りつ</seg>の顔を見た。お<seg rend="sesame_dot" rendition="em">りつ</seg>は赤くなって、菊二という子がいやらしいそぶりをすると話した。洗濯をしていると向うからみつめるし、干し物をするときなど<seg type="ruby"><seg type="rb">腋</seg><seg type="rp">（</seg><seg type="rt">わき</seg><seg type="rp">）</seg></seg>の下を見たりするようである。朝早く、お<seg rend="sesame_dot" rendition="em">りつ</seg>が着替えをしているさいちゅうに「お早う」と云っていきなり障子をあけることもあるし、とにかくいつもどこからかお<seg rend="sesame_dot" rendition="em">りつ</seg>を見まもっており、それが子供らしい感じはなく、みだらなおとなの眼つきのように思える、というのであった。<lb />
+「菊二っていうのはいちばん大きな子だな」と茂次が訊いた、「年は幾つだっけ」<lb />
+「十一って云ってるけれど、本当は十二か三くらいになるんじゃないかと思うわ」<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">八</seg></seg></seg>
+<lb />
+「十二か三だって」<lb />
+「話を聞いてるとそうじゃないかと思うの、<seg type="ruby"><seg type="rb">丑年</seg><seg type="rp">（</seg><seg type="rt">うしどし</seg><seg type="rp">）</seg></seg>の火事のことを知っていて、そのときおっ母さんと逃げた話をしたのよ、あの火事はいまから五年まえでしょ、そのとき八つだったって、口をすべらせたことがあるのよ」<lb />
+「うん」と茂次は溜息をついた、「うちはどんな暮しをしていたんだ」<lb />
+「おっ母さんが長患いをしていた、っていうことだけは聞いたけれど、ほかのことはなんにも云わないんです」<lb />
+「もしそうだとすれば」茂次はそこで口をつぐみ、やや暫く考えていて、それから眼をあげて続けた、「もしも十二か三になるとすれば、気をつけなくちゃならないのはおまえのほうだぜ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>はけげんそうな眼をした。「おれにだって、恥ずかしいが、覚えがある」と茂次は吃りながら云った、「自分じゃあどういうことかわからない、どうしてそんな気持になるかと、てめえでめんくらったり恥ずかしくなったりするが、女のからだというものがふしぎに眼につくんだ、自分ではなんの考えもないのに、その菊二と同じこった、だらしのない恰好で洗濯をしているかみさんとか、戸板で囲っただけで行水を使ってる娘とか、<seg type="ruby"><seg type="rb">双肌</seg><seg type="rp">（</seg><seg type="rt">もろはだ</seg><seg type="rp">）</seg></seg>ぬぎになって髪を洗ってる女なんかにぶつかると、どうしても眼をやらずにはいられなくなる、あとで自分をいやらしい野郎だと思い、死にたいほど恥ずかしくなるが、そのときはどうすることもできないんだ」<lb />
+「あたし」とお<seg rend="sesame_dot" rendition="em">りつ</seg>はさらに赤くなった顔をそむけながら、云った、「あたしそんな、だらしのない恰好で洗濯なんかしやあしないわ」<lb />
+「おめえのことじゃあねえ、子供のことを云ってるんだ」と茂次が云った、「子供にはそういう年ごろがある、中にはそんなことに気のつかない者もいるだろうが、たいてえな者は覚えがある筈だ、そうして、当人は決してみだらな気持なんかもってやしない、自分でどうしようもなく、しぜんとそうなってしまう、みだらだと思うのはおとなのほうだ、自分にみだらな気持があるから、子供の眼がみだらなように見えるんだ」<lb />
+「あたしのほうがみだらですって」お<seg rend="sesame_dot" rendition="em">りつ</seg>の眼が屹となった。<lb />
+「おれは子供のことを話してるって云ったろう」と茂次は乱暴に遮った、「おめえがどうのこうのと云うんじゃあねえ、子供にはそういう年ごろがあり、それがむずかしいときなんだから、こっちで気をつけなくっちゃいけねえと云ってるんだ、わからねえのか」お<seg rend="sesame_dot" rendition="em">りつ</seg>はひょいと身をそらした。わからねえのかとどなった声と、茂次の赤くなった顔つきで、ぶたれでもするように感じたらしい。茂次もお<seg rend="sesame_dot" rendition="em">りつ</seg>の身振を見て、逆にどきっとし、「もういい」と顔をそむけた。<lb />
+「ああおどろいた」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「こわい声だこと、ぶたれるかと思っちゃったわ」<lb />
+「つまらねえことを」<lb />
+「小さいときぶたれたことがあるんですもの」<lb />
+「つまらねえことを云うな、おれはくさったって女の子なんかぶちゃあしねえ」<lb />
+「あたしはぶたれたのよ、七つの年だったわ、いまでもちゃんと覚えてるわ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>はからかうように云った、「横町の豆腐屋の前のところよ、いきなりぴしゃって、頬ぺたをぶったじゃないの」<lb />
+「おまえが七つならおれは十二だろう、そんな年で女の子をぶつなんてことが、――」そこで茂次はあとが続かなくなった。<lb />
+「ね」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が眼で笑った、「思いだしたでしょ」<lb />
+　彼は思いだした。彼を見かけるたびにお<seg rend="sesame_dot" rendition="em">りつ</seg>がからかう、どうからかわれたかはもう忘れたが、度たびからかわれるので、いちど、<seg type="ruby"><seg type="rb">捉</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>まえてぶったことがあった。そうだ、あのときこいつは涙をこぼした、と茂次は思った。手向いもせずに、大きな眼でこっちを見て、その眼から涙をぽろぽろこぼした。<lb />
+「あれは」と茂次は気まずそうに云った、「あれはおめえが悪いんだ、おれの顔を見るたびにからかったからだ」<lb />
+「覚えてるわ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「あたしあんたのこと、若棟梁のこと好きだったのよ、それで、あんたにかまってもらいたくってわる口を云ったらしいの、だから、そのあとわる口なんか云ったことはなかったでしょ」<lb />
+「子供ってやつはむずかしいもんだ」<lb />
+「そうね」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が云った、「菊二のことも気をつけるわ」<lb />
+　その月の十五日の休みに、子供たちを伴れて道灌山へ遊びにいった。お<seg rend="sesame_dot" rendition="em">りつ</seg>とお<seg rend="sesame_dot" rendition="em">ゆう</seg>とで握り飯や<seg type="ruby"><seg type="rb">海苔巻</seg><seg type="rp">（</seg><seg type="rt">のりまき</seg><seg type="rp">）</seg></seg>をつくり、お菜の重詰めも<seg type="ruby"><seg type="rb">拵</seg><seg type="rp">（</seg><seg type="rt">こしら</seg><seg type="rp">）</seg></seg>えた。片道一里半ちかくあるので、<seg rend="sesame_dot" rendition="em">くろ</seg>もいっしょに伴れてゆき、<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃん始め、市や伝など、小さいのが疲れると、茂次と<seg rend="sesame_dot" rendition="em">くろ</seg>とで背負ってやった。<seg rend="sesame_dot" rendition="em">くろ</seg>はもう兄弟子たちといっしょに遊びたい年なので、往きも帰りもふくれっぱなしだった。――そのとき初めて、お<seg rend="sesame_dot" rendition="em">ゆう</seg>と子供たちのようすを、茂次は見た。子供たちのお<seg rend="sesame_dot" rendition="em">ゆう</seg>に対する態度は、お<seg rend="sesame_dot" rendition="em">りつ</seg>に対するのとまったく違っていた。かれらはお<seg rend="sesame_dot" rendition="em">ゆう</seg>の<seg type="ruby"><seg type="rb">身妝</seg><seg type="rp">（</seg><seg type="rt">みなり</seg><seg type="rp">）</seg></seg>や、美しさや賢いことに、なかばおそれながら、尊敬とあこがれを感じているようにみえた。お<seg rend="sesame_dot" rendition="em">りつ</seg>には口答えをしても、お<seg rend="sesame_dot" rendition="em">ゆう</seg>の云うことはよくきくし、いたずらを叱られるとすぐによした。かれらはお<seg rend="sesame_dot" rendition="em">ゆう</seg>の顔色を敏感によみとって、あまえたりふざけたり、急におとなしくなったりする。お<seg rend="sesame_dot" rendition="em">ゆう</seg>はあまり叱らないが、黙っていても、ぴりっとするものを子供たちに感じさせるようであった。ただその中で一人、菊二だけはお<seg rend="sesame_dot" rendition="em">りつ</seg>からはなれなかった。みんながお<seg rend="sesame_dot" rendition="em">ゆう</seg>を取巻いて騒いでいても、彼はお<seg rend="sesame_dot" rendition="em">りつ</seg>のそばにいて、なにかお<seg rend="sesame_dot" rendition="em">りつ</seg>の役に立とうとする。お<seg rend="sesame_dot" rendition="em">りつ</seg>がうるさそうに追いたてると、そばをはなれはするが、お<seg rend="sesame_dot" rendition="em">りつ</seg>から眼をはなそうとはしないのであった。<lb />
+　――わるくすると間違いが起こるな。と茂次は思った。菊二はひたむきに慕っているようだ、その気持をはねつけずに、いいほうへ向ければなんのことはない。だがもしお<seg rend="sesame_dot" rendition="em">りつ</seg>が「いやらしい」という感じをもち、彼を拒絶する態度に出れば、菊二はみずから傷つき、場合によればやけにもなるかもしれない。むずかしいし、危ないところだ、と茂次は思った。<lb />
+　帰るときに茂次は、お<seg rend="sesame_dot" rendition="em">ゆう</seg>に向って駕籠でゆけとすすめた。しかしお<seg rend="sesame_dot" rendition="em">ゆう</seg>は笑って受けつけず、神田までいっしょに歩いて帰った。――その夜、普請場の一つが火事で焼けた。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi90">九</seg></seg></seg>
+<lb />
+　焼けたのは日本橋吉川町の「魚万」で、殆んど普請が終りかかっていたのを、きれいに、焼けてしまったのである。これは「大留」にとって大きな痛手だった。料理茶屋だからというだけでなく、客筋とあるじ万兵衛の好みとで、木口はもちろん、すべてに高価な材料が使ってあった。それがすっかり灰になった。出来あがって引渡してからならべつだが、まだこっちの手をはなれていないから、損害は「大留」が負担しなければならない。屋根屋、左官、建具屋などにも、払うものは「大留」が払わなければならないのである。<lb />
+　そこの宰領をしていたのは藤造で、茂次たちといっしょに焼け跡を見廻りながら、「どうしよう」と、まるでのぼせあがったようになっていた。<lb />
+「もらい火でよかった」と茂次は云った、「自火なら手がうしろへまわるところだ」<lb />
+　そして「魚万」を訪ねた。これは通りの向うの仮小屋で、幸い焼けずに残っていたが、茂次は万兵衛に会って、すぐ再普請にかかると云った。藤造の脇にいた大六と助二郎は、あっという顔で茂次を見たし、万兵衛も意外だったらしく、それはちょっと無理ではないか、と云いかけたが、茂次は大丈夫やると、あっさり云った。<lb />
+「但し一つお願いがあります」と茂次は続けた、「正直に云いますが、これまで手いっぱいにやって来ましたから、材料を吟味するゆとりがありません、大留が立ち直ったら、改めて普請を仕直すということにして、お気にいらないところがあっても、こんどは眼をつぶってもらいたいんです」<lb />
+「私のほうはむろんそれでいいが」と万兵衛はまだ信じきれないようすで云った、「しかし本当にむりじゃあないのかい」<lb />
+　茂次はそれには答えずに、「お願いします」と云った。<lb />
+　うちへ帰る途中、大六たちはなにか<seg type="ruby"><seg type="rb">囁</seg><seg type="rp">（</seg><seg type="rt">ささや</seg><seg type="rp">）</seg></seg>きあっていたが、帰るなり、三人で「話がある」ときりだした。茂次は聞くまでもない、よけいなことは云うなと云った。だが、三人は再普請が不可能なことを、代る代る主張した。こっちが火災でやられたあとであるし、魚万でもその事情は知っている。ここは手付の金を返してあやまるほうがいい。それが順当だと云った。<lb />
+　茂次は「おやじもそうするか」とかれらに<seg type="ruby"><seg type="rb">訊</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>き返した。<lb />
+「しかし」と大六が云った、「いまは棟梁の代じゃあない、棟梁はもう亡くなった人だし、若棟梁は高輪やあべ川町はじめ、同業のつきあいまで断わんなすった、助け手といったら木場の和七ぐらいなもので、それで棟梁の代と同じようにやってけると思うんですか」<lb />
+「おれはそんなこたあ云わねえ、ただ、こういう場合におやじもあやまるかどうか、って訊いてるんだ、あやまると思うか」<lb />
+「そりゃ、けれども事情てえものがまるで違うから」<lb />
+「そんならどうして普請を請負った」と茂次は云った、「火事でまる焼けになりおやじも死んだ、そんな中で三つも大きな普請を請負うなんて、初めからむりなこった、おれに云ってくれれば断わったんだ、高輪なりあべ川町なりに肩替りをしてもらい、まずひとおちつきしてからのことにしただろう、けれども、――留守のおめえたちは大留を立て直す一心で請負った、その気持がわかるからむりだとは思ったがなんにも云わなかったんだ」<lb />
+　三人は頭を垂れた。<lb />
+「これこれの家を建てますと請負ったら、<seg type="ruby"><seg type="rb">約定</seg><seg type="rp">（</seg><seg type="rt">やくじょう</seg><seg type="rp">）</seg></seg>どおり家を建てて、普請ぬしに引渡すのが棟梁の仕事だ」と茂次は云った、「こっちが手詰りになったからといって途中であやまるなんてまねは、おやじは一遍だってやったこたあありゃあしねえ、おれはまだ若ぞうだがおやじの伜だ、べらぼうめ、このくらいのこって音をあげてたまるか」<lb />
+　そしてすぐに、「ついでだから云っておこう」と調子を変え、高輪やあべ川町、同業なかまから町内の義理づきあいを断ったのは、単にかた意地ではなく、みんなの厄介になりたくないためである、と云った。「大留」時代の古い関係をそのまま続けていれば、かれらは義理でも助力しなくてはなるまい。それはかれらにとっても軽い負担ではないだろうし、こっちにとっては一生の荷になる。他人の助力で立ち直るなどということは、死んだおやじもよろこぶまいし、自分たちだって恥ずかしい。つきあいを断わったのはこういうわけだから、覚えていてくれ、と茂次は云った。<lb />
+　三人は顔を見あわせた。かれらの顔はいま冷たい水で洗ったばかりのような、すがすがしい色をしており、藤造は微笑さえうかべていた。<lb />
+「もう一つよけいなことを訊きますが」と大六が云った、「金のくめんはどうします」<lb />
+「そんなことを気にするな」<lb />
+「あっしどもでなにかすることはありませんか」<lb />
+「仕事のほうを頼む」と茂次が云った、「金のほうは大丈夫だ」<lb />
+　それから、火事でいっしょに死んだ二人の職人、銀二と倉太の七十五日をしてやりたいから、かれらの親元をしらべておくように、と助二郎に云った。<lb />
+　その日、夕飯のあとで、茂次は福田屋を訪ねた。仮に<seg type="ruby"><seg type="rb">庇</seg><seg type="rp">（</seg><seg type="rt">ひさし</seg><seg type="rp">）</seg></seg>へあげておいた「大留」の看板を包んで持ち、店のほうからはいって、あるじの久兵衛に会いたいと云った。店には番頭の伊助がいて、いま奥では食事ちゅうだが、こんなところから来ずに奥へじかにいってくれ、と云った。だが茂次は「今夜は店の客なんだ」と答え、店の次にある小部屋、――そこはほかの客と顔の合うのを嫌う者のために使うのだが、その小部屋へとおって待った。小僧が知らせたのだろう、まもなくお<seg rend="sesame_dot" rendition="em">ゆう</seg>が茶を持って来た。<lb />
+「いらっしゃい、どうしてこんなところに頑張ってるの」<lb />
+「旦那に用があるんだ」<lb />
+「旦那だなんて、いやな人」とお<seg rend="sesame_dot" rendition="em">ゆう</seg>はにらんだ、「いったいどうしたの、なぜこんな他人行儀なことをするのよ」<lb />
+　茂次はむっとした顔でお<seg rend="sesame_dot" rendition="em">ゆう</seg>を見た。お<seg rend="sesame_dot" rendition="em">ゆう</seg>は唇で微笑しながら<seg type="ruby"><seg type="rb">頷</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>いた。<lb />
+「いいわよ」と彼女は立ちあがった、「あんたってずいぶん我が強いのね」<lb />
+　茂次はなにも云わなかった。お<seg rend="sesame_dot" rendition="em">ゆう</seg>が出ていって暫くすると、自分の茶呑み茶碗を持って久兵衛が来、そこへ坐りながら、「吉川町の普請場が焼けたそうだな」と云った。<lb />
+「そのことで頼みがあって来たんです」そう云って、茂次はきちんとかしこまった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">十</seg></seg></seg>
+<lb />
+　彼はいつものぶっきらぼうな調子で、だがすべてを隠さずに話した。それから包を解いて「大留」の看板を出し、これで五百両貸してもらいたいと云った。久兵衛は黙って聞いていて、聞き終ってからもゆっくりと茶を<seg type="ruby"><seg type="rb">啜</seg><seg type="rp">（</seg><seg type="rt">すす</seg><seg type="rp">）</seg></seg>りながら、茂次の話を吟味するかのように、かなり長いこと考えていた。<lb />
+「一つ訊くが」とやがて久兵衛が云った、「高輪やあべ川町とのことはわかったが、私のところへ来たのはどういう気持なんだね」<lb />
+「こちらは質屋でしょう」と茂次は云った、「あっしはこれを<seg rend="sesame_dot" rendition="em">かた</seg>に金を借りる、旦那はこれを<seg rend="sesame_dot" rendition="em">かた</seg>に金を貸す、――むろん貸してくれてのはなしだが、この貸し借りはしょうばいだから、はっきりけじめがつくと思うんです」<lb />
+　まるで「大留」の看板が、どこでも五百両の<seg rend="sesame_dot" rendition="em">かた</seg>になる、と信じきっているような口ぶりであった。<lb />
+「いいだろう、御用立てしましょう」と久兵衛は云った、「だが茂次さん、この金には利息が付きますよ」<lb />
+「もちろんそのつもりです」<lb />
+　久兵衛は立っていった。<lb />
+　明くる朝、助二郎が出て来ると、茂次は五百両の金を渡し、二人で必要な入費の割振りをした。そして大六が来るとすぐに、吉川町の手配をするように云い、自分は二百両持って、木場の「和七」へでかけていった。こうして三日後には吉川町の再普請を始めたが、それから十日あまり、茂次は弁当持ちで普請場へゆき、手が足りないとみると自分でも<seg type="ruby"><seg type="rb">鑿</seg><seg type="rp">（</seg><seg type="rt">のみ</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">鉋</seg><seg type="rp">（</seg><seg type="rt">かんな</seg><seg type="rp">）</seg></seg>を持ったし、材木を動かすのに肩を貸したりした。また、このあいだに倉太と銀二の法事もやった。ほんのかたちだけの七十五日だったが、二人の親たちを招き、精進料理で酒を出し、経料として二両ずつ包んで渡した。――茂次は二人を自分の両親と共死にさせたことを詫び、かれらはまた、親方の葬式も済まないのに自分たちの伜の法事をしてもらったことをよろこび、くり返し礼を述べた。<lb />
+　その夜のことであるが、夜具をのべに来たお<seg rend="sesame_dot" rendition="em">りつ</seg>が、ひどくつんけんしているし、顔も蒼白く硬ばってみえるので、茂次は不審に思い、どうしたのか、と訊いた。<lb />
+「なにがです」とお<seg rend="sesame_dot" rendition="em">りつ</seg>はたいそうな切り口上で云った、「あたしがどうかしたんですか」<lb />
+　茂次はかっとなり、立ちあがってゆくと、いきなりお<seg rend="sesame_dot" rendition="em">りつ</seg>に平手打ちをくれた。お<seg rend="sesame_dot" rendition="em">りつ</seg>の頬で高い音がし、茂次が云った。<lb />
+「なんでもねえならそんなふくれっ面をするな」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は打たれた頬へ手をやりながら、口をあけて茂次を見た。その大きくみはられた眼を見ると、茂次は急に、自分が殴られでもしたような、びっくりした顔になり、「わるかった」と云いながら脇へそむいた。<lb />
+「済まなかった、気が立ってたんだ」と彼はぶきように云った、「いろいろ事が重なっているもんだから、――勘弁してくれ」<lb />
+「あたしにあやまることはないわ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>がふるえながら云った、「あやまるんなら、仏さまにあやまってちょうだい」<lb />
+　茂次はゆっくりとお<seg rend="sesame_dot" rendition="em">りつ</seg>を見た。<lb />
+「仏に、――どうしろって」<lb />
+「あんたを、棟梁を怒らせたのはあたしよ、ぶたれるのはあたりまえだからなんとも思やしないわ、でも、――」お<seg rend="sesame_dot" rendition="em">りつ</seg>は前掛で顔を<seg type="ruby"><seg type="rb">掩</seg><seg type="rp">（</seg><seg type="rt">おお</seg><seg type="rp">）</seg></seg>い、そこへ坐りながら云った、「倉さんや銀さんの法事をしてあげるのに、どうして親方やお<seg rend="sesame_dot" rendition="em">かみ</seg>さんをあのままにしておくんですか」<lb />
+　茂次は「そのことは云うな」と云いながら、のべてある夜具の脇へ坐った。<lb />
+「いいえ云います」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は前掛を<seg type="ruby"><seg type="rb">膝</seg><seg type="rp">（</seg><seg type="rt">ひざ</seg><seg type="rp">）</seg></seg>の上へおろしながら云った、「あなたは仏壇に構うなと云って閉めたまま、お線香も水もあげないし、命日が来ても供養もしない、そんなことってありますか、あの仏壇の中にあるのは、あなたのふた親のお骨ですよ、葬式も出さず、お寺へも預けないんなら、せめてお盛物をあげるとか、燈明やお線香ぐらいあげるのがあたりまえじゃないの、――それさえもしないでいて、倉さんや銀さんの法事をするなんてあんまりだわ、それじゃあお父さんやおっ母さんに対してあんまりじゃないの」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>はまた前掛で顔を掩い、肩をふるわせて<seg type="ruby"><seg type="rb">嗚咽</seg><seg type="rp">（</seg><seg type="rt">おえつ</seg><seg type="rp">）</seg></seg>した。茂次は頭を垂れ、暫くお<seg rend="sesame_dot" rendition="em">りつ</seg>のすすり泣く声を聞いていた。<lb />
+「これだけは黙っているつもりだったが、云っちまおう」とやがて茂次が低い声で云った、「おれが仏壇を閉めたままにして置くのは、おやじやおふくろを仏あつかいにしたくないからだ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>の嗚咽が止った。<lb />
+「ばかげた子供っぽい考えかたかもしれないが、おれにはどうしても、おやじやおふくろが死んだものとは思えない、あそこに骨壺が二つあるからには、死んだことに紛れはないだろう、生きているとは思わないが、仏になってもらいたくはないんだ、おれが大留を立て直すまで、元のおやじとおふくろのままで、あそこからおれを見ていてもらいたいんだ、――こんなことは世間にはとおらないだろう、仏をそまつにすると云われるだろうが、誰になんと云われてもいい、おれはそのときがくるまで、決して二人を仏あつかいにはしないつもりだ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>はうっと<seg type="ruby"><seg type="rb">喉</seg><seg type="rp">（</seg><seg type="rt">のど</seg><seg type="rp">）</seg></seg>を詰らせ、けんめいに泣くのをこらえながら、「ごめんなさい」とよろめくように云った。<lb />
+「よけえなことを云ってごめんなさい、あたしなんにも知らなかったもんだから」<lb />
+「わかればいいんだ」と茂次が<seg type="ruby"><seg type="rb">遮</seg><seg type="rp">（</seg><seg type="rt">さえぎ</seg><seg type="rp">）</seg></seg>った、「しかしこれだけは決して<seg type="ruby"><seg type="rb">饒舌</seg><seg type="rp">（</seg><seg type="rt">しゃべ</seg><seg type="rp">）</seg></seg>らねえでくれ」<lb />
+「ええ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は頷き、前掛で眼を拭きながら云った、「――でも、そういうわけだったら、なにもお住持さんのわるくちを云うことはなかったじゃありませんか」<lb />
+「口の悪いのは生れつきだ」と云って茂次はお<seg rend="sesame_dot" rendition="em">りつ</seg>を見た、「殴ったりしてわるかった、勘弁してくれ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は泣いて<seg type="ruby"><seg type="rb">腫</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>れぼったくなった眼で彼に頬笑み、それから云った、「――これで二度めよ」<lb />
+　十二月にはいると、まず明神下の酒問屋の普請があがり、ついで岩槻町のほうも仕上った。そのまえに魚万の再普請の話が伝わったためだろう、普請の申込が次から次と来たが、茂次は七軒長屋五つ棟と、小島町の紙問屋と二つの普請だけ請負った。長屋のほうはすぐ近くの松枝町で「大留」の仕事ではないと、大六たちに反対されたが、家がなくて困るのは長屋に住む人間だ、と茂次ははねつけた。<lb />
+　明神下と岩槻町があがるとすぐに、茂次は二百両持って「福田屋」へゆき、借りた内金に入れてくれと云った。久兵衛は受取らなかった。そういそぐ必要はないし、返すなら五百両そろえて返してくれ、と久兵衛は云った。茂次はちょっと考えていたが、預けた看板の包を出してもらい、その中へ二百両を包んで「このまま預かっておいて下さい」と云って渡した。<lb />
+「だが、――」と久兵衛は不審そうに訊いた、「当分はまだ金が必要じゃあないのかい」<lb />
+「気がゆるむといけねえから」と茂次が云った、「まあ、緊めてやってゆくつもりです」<lb />
+　そして、茂次はてれくさそうに、立ちあがった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110">十一</seg></seg></seg>
+<lb />
+　<seg type="ruby"><seg type="rb">大晦日</seg><seg type="rp">（</seg><seg type="rt">おおみそか</seg><seg type="rp">）</seg></seg>と三ガ日を休んだだけで「大留」には暮も正月もないようであった。吉川町の普請はできる限り手を集めてやったが、暮いっぱいには仕上らず、そのため茂次は元旦に休んだだけで、二日から正吉と松三を伴れて普請場へかよった。大六や助二郎たちは知らなかったろうが、左官屋や建具屋などの仕事で、自分たちに手伝えることをなんでもやった。<lb />
+「この仕事があがったら休みをやるからな」と茂次は二人に云った、「せっかくの正月だががまんしてくれ」<lb />
+　<seg rend="sesame_dot" rendition="em">くろ</seg>は父親が病気だそうで、暮の二十八日から、本所にある自分の家へ帰っていた。親の病気というのは口実で、もう「大留」へ戻るつもりはないらしい。いつまでもいちにんまえの扱いをしてもらえないので、自分で手間取りでも始める気になったのだろう。茂次は「ばかな野郎だ」と云っただけであった。<lb />
+　二十日に「魚万」の普請が仕上った。茂次は万兵衛から祝いの席へ招かれたが、大六を代りにやり、正吉と松三には七日間の休みをやった。そしてお<seg rend="sesame_dot" rendition="em">りつ</seg>に、おまえも芝居にでもいって来たらどうだ、とすすめたが、お<seg rend="sesame_dot" rendition="em">りつ</seg>は相手にしないで、棟梁こそ息抜きにでかけるがいいと云った。<lb />
+「仕事に追われづめ、うちにいづめでは躯に障ってよ、気ばらしにどこかへいってらっしゃいな」<lb />
+「年寄りみてえに云やあがる」と茂次は云った、「おれはうちで寝正月だ」<lb />
+　それこそ年寄りみたようだ、とお<seg rend="sesame_dot" rendition="em">りつ</seg>は云ったが、顔にはそれをよろこんでいる気持があらわれていた。――茂次は云ったとおり、まる二日うちにこもっていた。部屋に夜具を敷いたままで、食休みをするとすぐ横になり、<seg type="ruby"><seg type="rb">合巻本</seg><seg type="rp">（</seg><seg type="rt">ごうかんぼん</seg><seg type="rp">）</seg></seg>を読んだり、眠ったりした。<lb />
+　二日めの夕方、うとうとしていると、戸口で高い人声がするので眼をさました。子供の泣き声もするし、男のしゃがれた太い声で、「ぬすっと」と云うのも聞えた。茂次は起きあがり、平ぐけをしめ直して出ていった。入口の土間に男が三人、重吉はその一人に捉まえられて泣いており、お<seg rend="sesame_dot" rendition="em">りつ</seg>がしきりにあやまっていた。男の一人は二丁目の八百徳、一人は自身番の平助、一人は商人ふうの中年者で、これは知らない顔だった。<lb />
+　茂次はそこへいって、どうしたんだ、とわけを訊いた。重吉が八百徳の店先で<seg type="ruby"><seg type="rb">蜜柑</seg><seg type="rp">（</seg><seg type="rt">みかん</seg><seg type="rp">）</seg></seg>を取ったのだ、とお<seg rend="sesame_dot" rendition="em">りつ</seg>が答えた。<lb />
+「私が証人です」と商人ふうの男が云った、「とおりがかりに見ると、この子が蜜柑をぬすんでいるものだから、私が捉まえたんですよ」<lb />
+　茂次は詫びを云った。八百屋の徳二郎は茂次より一つ年上で二年まえに嫁を貰い、もう女の子が一人あるが、小さいじぶんはよく遊んだし、喧嘩もしたものである。稼業が違うから親しいつきあいはないが、いまでも会えば立ち話くらいはするあいだがらであった。――だが茂次はいま言葉に折り目をつけて詫びた。自分たちの<seg type="ruby"><seg type="rb">躾</seg><seg type="rp">（</seg><seg type="rt">しつけ</seg><seg type="rp">）</seg></seg>がゆき届かなかった、むろん蜜柑の代は払うし、これからはよく気をつける。そうあやまっていると、徳二郎が遮った。<lb />
+「棟梁のおめえにあやまられてもしようがない」と徳二郎は云った、「おめえの子というわけじゃあなし、それに一度や二度じゃあないらしいんだ、こういう<seg rend="sesame_dot" rendition="em">がき</seg>はたちが悪くっていけねえから、おらあもう自身番に任せることにしたんだ」<lb />
+　茂次は平助に振向いて、「子供を放せ」と云った。重吉を捉まえていた平助は、困ったように徳二郎を見た。茂次はまた「放せ」と云い、平助が手を放すと、お<seg rend="sesame_dot" rendition="em">りつ</seg>に「あっちへ伴れてゆけ」と云った。重吉は泣きじゃくりをしながら、お<seg rend="sesame_dot" rendition="em">りつ</seg>といっしょに奥へ去り、上り<seg type="ruby"><seg type="rb">框</seg><seg type="rp">（</seg><seg type="rt">がまち</seg><seg type="rp">）</seg></seg>に蜜柑が二つ残った。<lb />
+「いま誰かぬすっとって云ったな」と茂次は三人の顔を見比べた、「――誰だ」<lb />
+　平助が口の中で不明瞭になにか<seg type="ruby"><seg type="rb">呟</seg><seg type="rp">（</seg><seg type="rt">つぶや</seg><seg type="rp">）</seg></seg>いた。自分が云ったというのであろう、茂次は彼を無視して徳二郎を見た。<lb />
+「おい徳さん、おめえいまこういう<seg rend="sesame_dot" rendition="em">がき</seg>はたちが悪いと云ったが、子供はみんな同じこったぜ」と茂次はつかえつかえ云った、「おれだって小さいじぶんには、火鉢の<seg type="ruby"><seg type="rb">抽出</seg><seg type="rp">（</seg><seg type="rt">ひきだし</seg><seg type="rp">）</seg></seg>からおふくろの小銭をくすねたことがある、土堤前にあった絵草紙屋の店で絵本をぬすんだこともあった、大なり小なり、なかまはたいてえやった、おめえだってそんな覚えが二度や三度ねえこたあねえだろう、それとも忘れてるんなら、おれが思いださせてやってもいいぜ、どうだ、そんなことは一度もなかったか」<lb />
+　徳二郎はむっとしてやり返した、「それとこれとは話が違うだろう」<lb />
+「たしかに違う」と茂次が頷いた、「おれたちには親もあり家もあった、だから一度だってぬすっとなんて云われたことはない、この子供たちは家を焼かれ、親きょうだいにも死に別れて、他人のおれの手にかかってる、それだけの違いはあるが、子供ということに変りはねえし、子供はたいてえいちどはこういう年ごろをとおるんだ、おらあ口がへただからうまく云えねえが」茂次はもどかしさのあまり赤くなった、「自分が不自由していなくっても、ひょいと人の物に手を出してみたくなる、そういう年ごろが子供にはあるんだ、誰にだって二度や三度は覚えのあるこった、もちろん、それだからいいとは云やあしねえが、ぬすっとだとか自身番へ渡すなんていうのはあんまりだ、あんまり人情がなさすぎるとは思わねえか」<lb />
+　三人はなにも云わなかった。<lb />
+「こう云っても承知できねえんならおれが出よう」と茂次は云った、「躾がゆき届かなかったのはおれの責任だ、自身番でもどこへでもおれを突き出してくれ、だが子供は渡さねえ、誰が来たって、子供だけは渡しゃあしねえから」<lb />
+「わかったよ」と徳二郎が云った、「おめえがそういう気持ならいいんだ、おらあただ、子供のためにもと思ったもんだから」<lb />
+「わかってくれりゃあいいんだ、つまらねえおだをあげて済まなかった」と茂次は穏やかに云った、「蜜柑の銭はすぐに届けるから勘弁してやってくれ」<lb />
+　済まなかった、と茂次はくり返し、三人は出ていった。番太の平助は気まずそうに、口の中でもごもご云い、片手で頭を押えながらとびだし、商人ふうの中年者は眼をそむけたまま、逃げるように出ていった。<lb />
+　かれらを見送ってから、茂次は子供部屋の障子をあけた。すぐそこにお<seg rend="sesame_dot" rendition="em">りつ</seg>が立っており、暗くなった向うの隅に、子供たちがかたまっていた。<lb />
+「ごめんなさい」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が彼の眼をみながら囁いた、「あたしが悪かったのよ」<lb />
+　茂次は子供たちのほうへいった。子供たちは互いに<seg type="ruby"><seg type="rb">倚</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>りかたまって、<seg type="ruby"><seg type="rb">怯</seg><seg type="rp">（</seg><seg type="rt">おび</seg><seg type="rp">）</seg></seg>えたように茂次を見あげた。<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんは市に肩を抱かれ、重吉は蒼白くひきつった顔で、ほかの者もみな硬ばった顔つきで茂次を見あげ、かたずをのんでいた。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">十二</seg></seg></seg>
+<lb />
+　茂次は重吉のそばへゆき、つとめてやさしく頬笑みかけた。<lb />
+「重公」と彼は云った、「懲りたか」<lb />
+　重吉はふるえながら、「ごめんなさい」と云って泣きだした。茂次は重吉の肩へ手をやり、軽く二三度叩いてやった。<lb />
+「泣くな、男だろう」と茂次は云った、「悪かったと思ったら二度としなければいいんだ、みんなもそうだぞ、わかったろうな」<lb />
+　子供たちが一斉に頷き、重吉は激しく泣いた。お<seg rend="sesame_dot" rendition="em">りつ</seg>が駆けよって来て、重吉を抱いてやり、重吉は泣きながら、もうしません、ごめんなさいと叫んだ。すると、<seg rend="sesame_dot" rendition="em">あっ</seg>ちゃんが市の腕の中で、「ごめんなさい」と云って泣きだしたので、茂次は途方にくれたようにお<seg rend="sesame_dot" rendition="em">りつ</seg>を見た。<lb />
+「いって下さい」とお<seg rend="sesame_dot" rendition="em">りつ</seg>はめまぜをしながら云った、「すぐに御飯を持っていきます」<lb />
+　茂次は廊下へ出ていった。<lb />
+　夕飯の膳を持って来たとき、お<seg rend="sesame_dot" rendition="em">りつ</seg>は「蜜柑の代を払った」と告げた。徳二郎が受取らないので、ちょうどなくなっていたから蜜柑を二た箱買った。重吉が取ったのは二つだから、おつりがくるくらいだと思う、とお<seg rend="sesame_dot" rendition="em">りつ</seg>は云った。<lb />
+「その話はよせ」と茂次は乱暴に云った、「それから、今日のことは二度と口にするなって子供たちによく云っといてくれ」<lb />
+　そして<seg type="ruby"><seg type="rb">箸</seg><seg type="rp">（</seg><seg type="rt">はし</seg><seg type="rp">）</seg></seg>を取ったが、ふと思いだしたように、彼はお<seg rend="sesame_dot" rendition="em">りつ</seg>を見た。<lb />
+「あのときおめえなにを云おうとしたんだ」<lb />
+「あのときって」<lb />
+「子供たちのことで初めて話したときよ、おれが子供たちは置けねえと云ったとき、おめえはなにか云いかけた、おれのことを<seg type="ruby"><seg type="rb">睨</seg><seg type="rp">（</seg><seg type="rt">にら</seg><seg type="rp">）</seg></seg>んでなにか云おうとして、云うのをやめて立っていったことがある、忘れたか」<lb />
+「おどろいた」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が眼をみはった、「ずいぶんもの覚えがいいのね」<lb />
+「なにを云おうとしたんだ」<lb />
+「さあ、なんだったかしら」お<seg rend="sesame_dot" rendition="em">りつ</seg>はかぶりを振った、「覚えていないようよ、でも、どうしてそんなこと気になさるの」<lb />
+「こう云おうとしたんじゃあないのか」と茂次が云った、「おれがあの子供たちでなくってよかったって、――そうだろう」<lb />
+「まさか、いくらなんだって」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は眼をそらしながら云った、「あたしそんなことを云えやしませんわ」<lb />
+「だから云わずに立っていったんだ」<lb />
+「まさかそんな」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は<seg type="ruby"><seg type="rb">眩</seg><seg type="rp">（</seg><seg type="rt">まぶ</seg><seg type="rp">）</seg></seg>しそうな眼で茂次を見た、「――でもどうして、いまになってそんな古いことを云いだすんですか」<lb />
+「古かねえさ」と茂次が云った。<lb />
+　古いことではない、いまでもその言葉が耳についている、という顔つきで、茂次は飯をたべ始めた。<lb />
+　それから五六日、お<seg rend="sesame_dot" rendition="em">りつ</seg>は心たのしい時をすごした。茂次に云われて思いだしたのであるが、あのとき彼女はそう云おうとしたのである。言葉はそのままではなかったろう、口に出さなかったのだからわからないが、茂次の頑固さに<seg type="ruby"><seg type="rb">肚</seg><seg type="rp">（</seg><seg type="rt">はら</seg><seg type="rp">）</seg></seg>が立って、そんなようなことを云ってやりたかった。<lb />
+　――そうよ、そんなふうなことを云ってやりたかったのよ。とお<seg rend="sesame_dot" rendition="em">りつ</seg>は思った。でもよく覚えていたものだ、こっちで云いもしないことを、あんなふうに覚えているなんてふしぎだ。小さいじぶんあたしをぶったこともちゃんと覚えていてくれたし、いつか重吉があたしに悪態をついたのを聞いて、心配してくれたこともある。そうだ、「お<seg rend="sesame_dot" rendition="em">ゆう</seg>さんとうまくいかなかったらそう云ってくれ」と云ったこともあった。そのほかにもいちいちは数えられないが、自分に対してこまかく気を遣ってくれる。口は重いしぶっきらぼうだけれど、やさしい<seg type="ruby"><seg type="rb">劬</seg><seg type="rp">（</seg><seg type="rt">いたわ</seg><seg type="rp">）</seg></seg>りがそのはしはしに感じられる。<lb />
+　――本当はお<seg rend="sesame_dot" rendition="em">ゆう</seg>ちゃんよりもあたしのほうが好きなのかもしれないわ。<lb />
+　そう思うなりお<seg rend="sesame_dot" rendition="em">りつ</seg>は首を振った。好きにもいろいろある、ばかなことを考えるものではない。茂次の嫁はお<seg rend="sesame_dot" rendition="em">ゆう</seg>にきまっているのだ。育ちでも教養でも縹緻でも、お<seg rend="sesame_dot" rendition="em">ゆう</seg>こそ「大留」の主婦にふさわしい、自分なんかが逆立ちをしたって及ぶものではない。うそにもそんなことを思ってはいけない、とお<seg rend="sesame_dot" rendition="em">りつ</seg>は自分をたしなめるのであった。<lb />
+　或る夜、――寝床の中へはいってから、お<seg rend="sesame_dot" rendition="em">りつ</seg>は同じようなことを考え、あやされるような、かなしいような気分にひたりながら、お<seg rend="sesame_dot" rendition="em">ゆう</seg>が嫁に来たら、自分はこの家を出てゆくのだ、などと気負った想像で自分をあまやかしていたが、まもなく、廊下にかすかなもの音がするのを聞いて、どきっとし、息をひそめた。<lb />
+　時刻は十一時にちかいだろう、みんな寝しずまっているから、ずいぶん足音を忍ばせているらしいが、廊下をこちらへ、誰かの歩みよって来るのがよくわかった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">十三</seg></seg></seg>
+<lb />
+　まただ、きっとまたあの子だ。お<seg rend="sesame_dot" rendition="em">りつ</seg>はじっと耳をすました。<lb />
+　いつか茂次に云われたことがあるので、彼にはなにも告げなかったが、少しまえからときどきそんなことがある。お<seg rend="sesame_dot" rendition="em">りつ</seg>が寝床へはいって暫くすると、そっと廊下を忍んで来て、障子の外から中のようすをうかがっているらしい。まもなくまた忍び足で去ってゆくのだが、子供部屋の障子を閉める音が聞えるので、子供たちの誰かだということ、とすれば菊二だろうと見当がついていた。<lb />
+　――いやらしい。<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は心の中で呟きながら、このごろ目立って背丈の伸びた、菊二のようすを思いうかべた。<lb />
+　足音は障子の外で止った。いつものようにこちらの寝息をうかがっているのだろう。お<seg rend="sesame_dot" rendition="em">りつ</seg>もじっと息をひそめた。すると障子がことりと音をたて、ついで静かに、極めて静かに、障子をあけるのが聞えた。お<seg rend="sesame_dot" rendition="em">りつ</seg>はぞっと総毛立った。手足がしぜんとちぢまり、呼吸が喉に詰った。<lb />
+　――障子をあけた、どうする気だろう。<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>はぎゅっと眼をつむった。不安というよりも殆んど恐怖のために、全身が硬ばり、そして、硬ばったままでふるえだした。そのとき囁く声が聞えた。かすれた、低い喉声で、けれども緊張のためするどくなっているお<seg rend="sesame_dot" rendition="em">りつ</seg>の耳に、はっきりと聞えた。<lb />
+「おっ母さん」とその声が囁いた、「――おやすみなさい」<lb />
+　そうしてまたごく静かに、そろそろと障子が閉り、忍び足の音が廊下をゆっくりと去っていった。お<seg rend="sesame_dot" rendition="em">りつ</seg>はもうその足音も子供部屋の障子の音も聞こうとはしなかった。彼女は大きく眼をみはり、行燈を暗くしてある部屋のひとところを見まもったまま、かなり長いあいだ身動きもしずにいた。そのうちに、大きくみはった眼から涙があふれだし、喉へ嗚咽がこみあげてきた。お<seg rend="sesame_dot" rendition="em">りつ</seg>は啜り泣きをしながら起き、行燈に掛けてあった<seg type="ruby"><seg type="rb">半纒</seg><seg type="rp">（</seg><seg type="rt">はんてん</seg><seg type="rp">）</seg></seg>を取ると、寝衣の上からひっかけて廊下へ出た。お<seg rend="sesame_dot" rendition="em">りつ</seg>は忍び足で廊下をゆき、茂次の部屋へはいった。そして、そこへ坐って、両手で顔を掩って啜り泣いた。<lb />
+　茂次は眼をさましていた。お<seg rend="sesame_dot" rendition="em">りつ</seg>のはいって来たときに眼をさまし、不審に思いながら、そっとようすをみていた。しかしお<seg rend="sesame_dot" rendition="em">りつ</seg>が泣いているのを聞いて、寝たままで、「なんだ」と呼びかけた。<lb />
+「あたし」とお<seg rend="sesame_dot" rendition="em">りつ</seg>が囁いた、「明日おひまをもらいます」<lb />
+　茂次は起き直った、「なんだって」<lb />
+「あたしが子供を育てるなんて間違いです、あたしは学問もないばかだし、それに」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は喉を詰らせて云った、「それに、心も卑しいいやな女なんです」<lb />
+「ちょっと待て」と茂次が遮った、「こんなよるの夜中にやって来て、いきなりそんなことを云われたってわけがわからねえ、いったいどうしたっていうんだ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>はいまの出来事を話した。嗚咽にさまたげられて、途切れたり云いそこなったりしたが、あったことを正直に話し、いつか茂次に云われたとおり、「みだらなのは自分のほうだ」ということに気がついたと云った。<lb />
+「あの子がいつもあたしにつきまとって、いつもなにか用をしたがったり、じっとみつめたりしていたのは、あたしを自分のおっ母さんだと思いたかったのよ」と云ってお<seg rend="sesame_dot" rendition="em">りつ</seg>はまた啜り泣いた、「それをただいやらしいと思うばかりで、今日までそうと気がつかなかったのはなさけないわ、こんなことで子供たちが育てられる道理がないわ」<lb />
+「ちょっと待て」と茂次が云った、「まあおれの云うことを聞け」<lb />
+　彼は立ちあがり、お<seg rend="sesame_dot" rendition="em">りつ</seg>の前へ来て坐った。「そう自分ばかり責めるな、おまえはまだ娘なんだ、みだらな気持があるなしにかかわらず、<seg type="ruby"><seg type="rb">些細</seg><seg type="rp">（</seg><seg type="rt">ささい</seg><seg type="rp">）</seg></seg>なことにも自分の身をまもろうとするのは、娘として当然なことじゃないか、当然なことだろうとおれは思う」と茂次は云った、「だから、こんなときに云うのはおかしいが、おまえが亭主を持ち、子の親になれば、そういう思いちがいも、しなくなり、子供たちともうまくゆくんじゃあないだろうか」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は茂次を見た。<lb />
+「こんなときに云いだすのはおかしいが」と茂次は同じことをくり返し、ひどくぶきように云った、「いや、こういう話が出たから云うんだ、おまえはどう思ってるかわからねえが、おれは、おまえにこのうちをやっていってもらいたいんだ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は「あ」というふうに口をあけた。声は出さなかったが、口をあけて、あっけにとられたように茂次を見た。<lb />
+「いやか」茂次は怒ったように云った、「子供たちにもそのほうがいいし、おれはおまえといっしょになりたいんだ、ずっとまえから、いつ云いだそうかと迷っていたんだが、おまえはいやか」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>の顔が<seg type="ruby"><seg type="rb">歪</seg><seg type="rp">（</seg><seg type="rt">ゆが</seg><seg type="rp">）</seg></seg>んだ。彼女は涙の溜まった眼で彼をみつめながら、「棟梁には利息がついてるじゃないの」と云った。<lb />
+「利息だって」と茂次は訊き返した、「利息とはなんのことだ」<lb />
+「ごめんなさい、口が<seg type="ruby"><seg type="rb">辷</seg><seg type="rp">（</seg><seg type="rt">すべ</seg><seg type="rp">）</seg></seg>っちゃったのよ」とお<seg rend="sesame_dot" rendition="em">りつ</seg>は狼狽して云った、「そういうふうに聞いたし、みんなも知ってることだし、棟梁だってそのつもりで」<lb />
+「いや」と茂次は首を振って遮った、「はっきり云ってくれ、利息とはどういうこった」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>が答えた、「お<seg rend="sesame_dot" rendition="em">ゆう</seg>さんよ」<lb />
+「お<seg rend="sesame_dot" rendition="em">ゆう</seg>――」と茂次はけげんそうな眼でお<seg rend="sesame_dot" rendition="em">りつ</seg>を見た。<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は云った。この近所ではまえから、茂次とお<seg rend="sesame_dot" rendition="em">ゆう</seg>が夫婦になるものときめていたようだ。自分もそう思っていたが、十二月に出入りの米屋が話すのを聞いた。「魚万」の再普請に当って、茂次が金を借りたとき、福田屋の久兵衛がこの金には利息が付くと云った。それは金利のことではなく、お<seg rend="sesame_dot" rendition="em">ゆう</seg>を嫁にやるということ、つまり「お<seg rend="sesame_dot" rendition="em">ゆう</seg>が付く」という意味で、今年の秋あたりはそういうはこびになるだろう、というように聞いた、とお<seg rend="sesame_dot" rendition="em">りつ</seg>は云った。<lb />
+　茂次は躯のどこかに痛みでも起こったような顔つきで、じっとお<seg rend="sesame_dot" rendition="em">りつ</seg>の眼をみつめた。お<seg rend="sesame_dot" rendition="em">りつ</seg>は自分がへまなことを云ったとでも感じたのだろう、しりごみをするような調子で、「こんなことを云って悪かったかしら」と云った。<lb />
+「ばかなやつだ」と茂次は静かに首を振った、「おれが福田屋で金を借りたことは事実だ、そのとき利息が付くよと断わられたのも事実だ、しかし利息というものは借りた金に対してこっちで払うもんだぜ、金を貸したうえに娘を利息につけるなんて、ばかな話があってたまるか」<lb />
+「でもそこを、福田屋さんが<seg type="ruby"><seg type="rb">洒落</seg><seg type="rp">（</seg><seg type="rt">しゃれ</seg><seg type="rp">）</seg></seg>て」と云いかけたが、お<seg rend="sesame_dot" rendition="em">りつ</seg>は茂次の顔色を見て、慌てて口をつぐんだ。<lb />
+「おい、よく聞け」と茂次がゆっくりと云った、「おれはうちの看板を質において金を借りた、福田屋は質屋だから、返すときには金に利息をつける、これ以上はっきりしたことがあるか、また、お<seg rend="sesame_dot" rendition="em">ゆう</seg>さんが片輪とかばかとかいうんならともかく、そうでもねえのに福田屋がそんな手の混んだまねをするわけがねえじゃねえか、そうだろう」<lb />
+「だって棟梁はあのひとのこと好きなんでしょ」<lb />
+「好きだよ」と茂次は頷いた。<lb />
+「あのひとだって棟梁が好きなのよ」<lb />
+「おい、よく聞け」と茂次はまた云った、「おれはお<seg rend="sesame_dot" rendition="em">ゆう</seg>さんが好きだ、けれども女房にするのと、好きだということはべつだ、それとも、ええ面倒くせえ」彼はじれったそうに立ちあがり、夜具の上へいって仰向けに寝ころんだ、「もういいからいって寝ちまえ」<lb />
+　お<seg rend="sesame_dot" rendition="em">りつ</seg>は黙って、うなだれたまま坐っていた。そして、かなり経ってから、低いやわらかな声で囁いた。<lb />
+「あたしねえ、仮名ならもうすっかり読めるし、書くこともできるのよ」<lb />
+　茂次はなにも云わなかった。お<seg rend="sesame_dot" rendition="em">りつ</seg>はなお暫く坐っていたが、やがてそっと立ちあがると、仮の仏壇の前へゆき、合掌し頭を垂れた。茂次がうす眼をあけて見ていると、お<seg rend="sesame_dot" rendition="em">りつ</seg>は仏壇に向っておじぎをし、口の中でなにか囁きかけていた。茂次にはお願いしますという言葉だけが聞えた。そうして、お<seg rend="sesame_dot" rendition="em">りつ</seg>は忍び足で出ていった。<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

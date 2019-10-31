@@ -36,13 +36,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">前口上</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_7" rendition="div" style="margin-left: 7em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">前口上</seg></seg></seg>
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 昔タルテイーニと云ふ作曲家が<lb />
-<span rend="shatai">Trillo del Diavolo</span> と云ふソナータを<lb />
+<seg rend="shatai" rendition="span">Trillo del Diavolo</seg> と云ふソナータを<lb />
 夢の中で作曲したといふ話は<lb />
 大層有名な話である故、<lb />
 讀者諸君も大方御存知だらうが<lb />
@@ -58,7 +58,7 @@
 余は余のヴアイオリンを取り出でて<lb />
 余が聞きたる音調をそれに止め置かんと試みたり。<lb />
 されどそは遂に效を奏さざりき。<lb />
-其時余が作りたる樂曲、即ち <span rend="shatai">Trillo del Diavolo</span> は<lb />
+其時余が作りたる樂曲、即ち <seg rend="shatai" rendition="span">Trillo del Diavolo</seg> は<lb />
 余が夢中聞きたるものと比較せば、<lb />
 其及ばざること甚だ遠し。」<lb />
 これは晩年大作曲家自らが<lb />
@@ -66,15 +66,15 @@
 さて、左樣なタルテイーニが感慨はさることながら、<lb />
 微々たる群小詩人の一人に過ぎぬ私も<lb />
 夢の中で二三の詩の構想を得た許りに、<lb />
-何んとかしてそれに形體を與へようと隨分苦しみ<span facs="../../../gaiji/1-92/1-92-36.png" rend="gaiji" rendition="img" source="※(「足へん＋宛」、第3水準1-92-36)" />いたものだ。<lb />
+何んとかしてそれに形體を與へようと隨分苦しみ<seg facs="../../../gaiji/1-92/1-92-36.png" rend="gaiji" rendition="img" source="※(「足へん＋宛」、第3水準1-92-36)" />いたものだ。<lb />
 しかし夢中ではあんなに蠱惑的に見えた物語の筋も、<lb />
 目覺めてみれば既にその破片しか殘つては居らず、<lb />
-<span type="ruby"><span type="rb">何度</span><span type="rp">（</span><span type="rt">なんど</span><span type="rp">）</span></span>私はそれ等の破片を、朝毎に<lb />
+<seg type="ruby"><seg type="rb">何度</seg><seg type="rp">（</seg><seg type="rt">なんど</seg><seg type="rp">）</seg></seg>私はそれ等の破片を、朝毎に<lb />
 海岸に打ち揚げられる漂流物のやうに<lb />
-唯手を<span type="ruby"><span type="rb">拱</span><span type="rp">（</span><span type="rt">こまぬ</span><span type="rp">）</span></span>いて悲しげに眺めたことか。<lb />
+唯手を<seg type="ruby"><seg type="rb">拱</seg><seg type="rp">（</seg><seg type="rt">こまぬ</seg><seg type="rp">）</seg></seg>いて悲しげに眺めたことか。<lb />
 「ああ、夢の中の詩人の何んと幸福なことよ。<lb />
-ああ、それに比べて現實を前にした詩人の何んと<span type="ruby"><span type="rb">慘</span><span type="rp">（</span><span type="rt">みじ</span><span type="rp">）</span></span>めなことよ。」<lb />
-そんな溜息を洩らしながら<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>も私は寢床に這入つた。<lb />
+ああ、それに比べて現實を前にした詩人の何んと<seg type="ruby"><seg type="rb">慘</seg><seg type="rp">（</seg><seg type="rt">みじ</seg><seg type="rp">）</seg></seg>めなことよ。」<lb />
+そんな溜息を洩らしながら<seg type="ruby"><seg type="rb">昨夜</seg><seg type="rp">（</seg><seg type="rt">ゆうべ</seg><seg type="rp">）</seg></seg>も私は寢床に這入つた。<lb />
 實は雜誌記者が夕方私の所にやつて來て<lb />
 どうでも明日までに原稿を書いて貰はねば困ると云ふのである。<lb />
 私は徹夜をしても屹度間に合はせると約束をして其奴を撃退してやつたが、<lb />
@@ -84,110 +84,110 @@
 それから何やらごたごたと澤山夢は見たけれど、<lb />
 今朝目を覺ましたら皆忘れて居た。<lb />
 勝手にしやがれ、と私は糞度胸を据ゑて<lb />
-<span type="ruby"><span type="rb">黒珈琲</span><span type="rp">（</span><span type="rt">ブラツク・コオフイイ</span><span type="rp">）</span></span>を飮みかけようとした途端に、こんな事を思ひついた。<lb />
+<seg type="ruby"><seg type="rb">黒珈琲</seg><seg type="rp">（</seg><seg type="rt">ブラツク・コオフイイ</seg><seg type="rp">）</seg></seg>を飮みかけようとした途端に、こんな事を思ひついた。<lb />
 「己の書かうと思つてゐる夢のコントの中では魔法使ひの婆さんが<lb />
 鳥の骨ばかりになつた奴にソオスをぶつかけて<lb />
 そいつを己に食はせやあがつたが、<lb />
-あれはあれでちよつと<span type="ruby"><span type="rb">乙</span><span type="rp">（</span><span type="rt">おつ</span><span type="rp">）</span></span>な味がしたぞ。<lb />
+あれはあれでちよつと<seg type="ruby"><seg type="rb">乙</seg><seg type="rp">（</seg><seg type="rt">おつ</seg><seg type="rp">）</seg></seg>な味がしたぞ。<lb />
 己もひとつその流儀で行かうか知らん。<lb />
 己のやくざな夢の殘骸にウオタアマン・インクをぶつかけてやつたら、<lb />
 何とかそれなりに恰好がつくかも知れぬ。<lb />
 よし、それで行かう……」<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">１　奇妙な店</span></span></span>
+<seg rend="jisage_7" rendition="div" style="margin-left: 7em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">１　奇妙な店</seg></seg></seg>
 <lb />
 <lb />
-　私の見る夢には大概色彩がある。さういふ夢を見るのは神經衰弱のせゐだと教へて呉れる人が居る。そんなことはどうだつていい。唯、私の見る色彩のある夢にも二種あることを私は云つて置きたい。その一つは、鮮明な、すき透るやうな色彩からのみ成つてゐる。その色はちよつとドロツプスのそれに似てゐる。（私は一ぺん糖分が夢にはよく利くといふのでドロツプスをどつさり頬張りながら寢たことがあるが、その朝、私はそのドロツプスにそつくりな色の着いた夢を見たつけ……）さう、さう、それから私がマリイ・ロオランサンの繪に夢中になつてゐたのもあの繪の色が私の夢のそれに似てゐたからであつた。が、もう一方の夢は、そんな鮮明な色は無い。何とも云へず物凄いやうな色で一樣に塗り潰されてゐるばかりである。しかし、そんな色は殆ど現實の中には見出されないやうだから、無色と云つてもいいかも知れない。しかし所謂無色なのではない。私はたつた一ぺんきりそれを見て「ああこの色だ」と思つたものがある。それは佛蘭西の L'ESPRIT NOUVEAU といふ美術雜誌に數年前載つてゐたピカソの <span rend="shatai">Nature Morte</span> の繪だ。まあ、あれがちよつと私のそんな夢の色に似てゐた。<lb />
+　私の見る夢には大概色彩がある。さういふ夢を見るのは神經衰弱のせゐだと教へて呉れる人が居る。そんなことはどうだつていい。唯、私の見る色彩のある夢にも二種あることを私は云つて置きたい。その一つは、鮮明な、すき透るやうな色彩からのみ成つてゐる。その色はちよつとドロツプスのそれに似てゐる。（私は一ぺん糖分が夢にはよく利くといふのでドロツプスをどつさり頬張りながら寢たことがあるが、その朝、私はそのドロツプスにそつくりな色の着いた夢を見たつけ……）さう、さう、それから私がマリイ・ロオランサンの繪に夢中になつてゐたのもあの繪の色が私の夢のそれに似てゐたからであつた。が、もう一方の夢は、そんな鮮明な色は無い。何とも云へず物凄いやうな色で一樣に塗り潰されてゐるばかりである。しかし、そんな色は殆ど現實の中には見出されないやうだから、無色と云つてもいいかも知れない。しかし所謂無色なのではない。私はたつた一ぺんきりそれを見て「ああこの色だ」と思つたものがある。それは佛蘭西の L'ESPRIT NOUVEAU といふ美術雜誌に數年前載つてゐたピカソの <seg rend="shatai" rendition="span">Nature Morte</seg> の繪だ。まあ、あれがちよつと私のそんな夢の色に似てゐた。<lb />
 　私が眞先に書かうと思つてゐる「奇妙な店」の方は、その第一の種類に屬してゐる。鮮やかな色の着いてゐる方だ。さうしてその夢の冐頭は、私のさういふ種類の夢の中にそれまでにも屡々現はれて來たことのある、一つの場面から始まる。その私のよく夢に見る場面といふのは、ただ一本の緑色をした樹木から成り立つてゐる。その緑色の葉が何とも云へずに綺麗なのだ。そしてそれをぢつと見つめてゐられない程それが眩しいのだ。しかしそんなに眩しいのはその緑色の葉のせゐばかりではないかも知れない。その緑の茂みの上に一面に硫黄のやうな色をした斑點のやうなものが無數にちらついてゐるのだ。それはなんだかそんな黄色をした無數の小さな蝶が簇がりながら飛んでゐるやうにも見える。それはまたその木にそんな色をした無數の小さな花が咲いてゐてそれが微風に搖られながら太陽に反射してゐるのかとも思へる。なんだか私にはよく分らないけれども私はそれにうつとりと見入つてゐる。――この何んの木だか分らないが、いつも同じ木は、私の夢の中に、さう――少くとももう七遍ぐらゐは出て來てゐる。だからさう珍らしくはない筈だが、それでも不思議に私はその度毎に、いつも最初にそれを見た時のやうな驚きをもつて、わくわくしながらそれに見入るのだ。<lb />
 　突然、夢の場面が一變する。――が、それは場面が連續的に移動するのではない。それは不連續的に移動する。つまり、二つの場面の間にはぽかんと大きな間隙が出來てしまつてゐる。目が覺めてから、夢がどうも辻褄が合はなく見えるのは、その間隙の所爲が多い。私はその間隙を何かで充填しようと努力してみることがあるが、どうもそれがうまく行かない。私は此處でもそれをその間隙のままにして置くよりしかたがない。（唯、かういふ具合にだけは二つの場面は連續してゐる。私はその何んの木かを驚きながら見入つてゐる。しかし見入つてゐるうちに、何時の間にか私には今しがたまで確かにそんな木を見てゐたのだが、と云ふ感じだけがして來るやうになる。その時はもう既にその木は夢から消え去つてゐる。そしてその殘像だけを自分の頭に浮べながら、私はいつか次の場面に立會つてゐる。まあ、さう云ふ具合にである）<lb />
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">向うの町角の方が急に騷がしくなる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">なんだか人が大勢集つてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私は見上げてゐた木の傍を離れてそつちの方へ何時の間にか歩き出してゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何か珍らしい行列が向うの町から<span type="ruby"><span type="rb">徐</span><span type="rp">（</span><span type="rt">しづ</span><span type="rp">）</span></span>かにやつて來るらしい</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">あんまり皆が夢中になつて見てゐるので私も人々のうしろから背伸びをして見てゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">とうとうその行列が近づいて來たやうだ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">象だ！　象だ！　象だ！　大きな象が</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">たつたひとりで、無頓着さうに、のそりのそりと鼻をふりながら歩いて來る</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">象の皮膚はなんだか横文字の新聞を丸めたのをもう一度引き伸ばして</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">貼りつけたやうに、皺だらけで、くしやくしやになつてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">その背中には眞紅な毛氈が掛つてゐる、さうして尚よく見ると</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">その毛氈の上には小さな香爐のやうなものが載さつて居て</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それから一すぢ細ぼそと白い烟りが立ち昇つてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何かの廣告であるらしいがそれが誰にも分らないらしい</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">隣りの人に聞いてもそれは分らないのが當り前だと云ふやうな顏をしてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">しかしその香爐の烟りは好い匂がする　何ともかとも云ひやうのないほど好い匂がする</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">象が何處かへ行つてしまつても何時までもその匂だけが殘つてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">（さうしてその象の殘像と、その匂とだけが私のなかに殘つて</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">いつか次の場面になつてしまつてゐる）</span>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">向うの町角の方が急に騷がしくなる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">なんだか人が大勢集つてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私は見上げてゐた木の傍を離れてそつちの方へ何時の間にか歩き出してゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何か珍らしい行列が向うの町から<seg type="ruby"><seg type="rb">徐</seg><seg type="rp">（</seg><seg type="rt">しづ</seg><seg type="rp">）</seg></seg>かにやつて來るらしい</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">あんまり皆が夢中になつて見てゐるので私も人々のうしろから背伸びをして見てゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">とうとうその行列が近づいて來たやうだ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">象だ！　象だ！　象だ！　大きな象が</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">たつたひとりで、無頓着さうに、のそりのそりと鼻をふりながら歩いて來る</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">象の皮膚はなんだか横文字の新聞を丸めたのをもう一度引き伸ばして</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">貼りつけたやうに、皺だらけで、くしやくしやになつてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">その背中には眞紅な毛氈が掛つてゐる、さうして尚よく見ると</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">その毛氈の上には小さな香爐のやうなものが載さつて居て</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それから一すぢ細ぼそと白い烟りが立ち昇つてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何かの廣告であるらしいがそれが誰にも分らないらしい</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">隣りの人に聞いてもそれは分らないのが當り前だと云ふやうな顏をしてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">しかしその香爐の烟りは好い匂がする　何ともかとも云ひやうのないほど好い匂がする</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">象が何處かへ行つてしまつても何時までもその匂だけが殘つてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">（さうしてその象の殘像と、その匂とだけが私のなかに殘つて</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">いつか次の場面になつてしまつてゐる）</seg>
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私の向うに温室のやうなものが見え出す</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それはすつかりガラス張りだ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私がそれを見て温室かしらと思つたのはそのガラス越に</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">見知らない熱帶植物のやうな鉢植がいくつも置かれてあるのを見たからだ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">しかしそれは普通の温室ではないらしい</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">中にはマホガニイ製の小さな<span type="ruby"><span type="rb">卓</span><span type="rp">（</span><span type="rt">テエブル</span><span type="rp">）</span></span>が五つ六つ一種雅致のある亂雜さで配置されてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そしてその上に一つづつその熱帶植物のやうなものが飾られてあるに過ぎない</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何處かにこんな奇妙な珈琲店があつたやうな氣もされてくる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">しかしその中には誰もゐない　全く<span type="ruby"><span type="rb">空虚</span><span type="rp">（</span><span type="rt">からつぽ</span><span type="rp">）</span></span>だ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">ちよつと這入つて見てそれが何だか確かめて見たい</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そんな處に勝手に這入り込んでゐて叱られたら</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">ままよ、それまでだ……と思つて私は臆病な探偵のやうにこはごはその中に忍び込む</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私がガラス戸を押し開けるや否や、ぷんと好い匂がする</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それがさつき象のさせてゐた好い匂とそつくりだ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">さつきの匂が私の鼻に<span type="ruby"><span type="rb">蘇</span><span type="rp">（</span><span type="rt">よみがへ</span><span type="rp">）</span></span>つてきたのではないかと思へた位</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何ともかとも云ひやうのないほど好い匂だ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">矢張り誰もゐない　私はこはごは一つの<span type="ruby"><span type="rb">卓</span><span type="rp">（</span><span type="rt">テエブル</span><span type="rp">）</span></span>の傍に腰を下ろしながらその匂を搜す……私はそのとき始めて</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">熱帶植物の鉢植のかげに一つの灰皿があつて</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それに烟草の吸殼のやうなものが一つ置き忘られてあるのに氣がつく</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それから一すぢの白い烟りが細ぼそと立ち昇つてゐるのである</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">どうやらそれから私をすつかり魅してゐる匂が發せられてゐるらしい</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私はまた象のことを思ひ浮べる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そして漸つといまあの象が阿片の廣告であつたことに氣がつき出す</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">「ははあ、それだから誰にも分らなかつたんだな</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">なあんだ此處は阿片窟なのか……」</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私はあらためて店の中を見まはして見る</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">やつぱり誰もゐない　空虚だ　いかにも靜かだ　ひつそりしてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それでゐてつい今しがたまで客が何組かあつたのだが</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それが皆立ち去つたすぐ跡だと云ふやうな氣がされる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">店の空氣がひどく疲れを帶びてゐるのが感ぜられる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">誰もゐないのに人氣が漂つてゐる　それが鬼氣のやうにぞつと感ぜられる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何かしら慘劇のあつた跡の靜けさはこんなものぢやないかしらと思へてくる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">若しかしたら今まで此處で客同志の間に殺人事件かなんかあつて</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">その跡始未のために皆ここの店のものまで殘らず出かけて行つてゐて</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それでこんなに<span type="ruby"><span type="rb">空虚</span><span type="rp">（</span><span type="rt">からつぽ</span><span type="rp">）</span></span>なのかも知れん……</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">さう思つて店のなかを見<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />すと、一向それらしい形跡はない</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">椅子やテエブルもちやんとした位置にある　鉢植も倒れてゐない</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それでゐてどう云ふものかそれ等の置き方に妙な不自然さがあるのだ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">あちこちへ投げ飛ばされたり、倒されたりしたのをいかにも<span type="ruby"><span type="rb">急</span><span type="rp">（</span><span type="rt">いそ</span><span type="rp">）</span></span>いで</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">元のままに直して取り<span type="ruby"><span type="rb">繕</span><span type="rp">（</span><span type="rt">つくろ</span><span type="rp">）</span></span>つたやうな不自然さがあるのだ</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">――そんなことを空想しながら、私はぼんやり頬杖をついて</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">今にも燃え切つて無くなりさうな灰皿の吸殼を見つめてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それから發せられてゐる匂は私の空想を大いに刺戟してゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">「おれは遲參者だ……一足遲れたばかりに、きつとおれを喜ばせたに相違ない、</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何かの慘事に立會ひ損つた不運者だ」</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そこでもつて私の夢のフイルムがぴんと切れてしまふ……</span>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私の向うに温室のやうなものが見え出す</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それはすつかりガラス張りだ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私がそれを見て温室かしらと思つたのはそのガラス越に</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">見知らない熱帶植物のやうな鉢植がいくつも置かれてあるのを見たからだ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">しかしそれは普通の温室ではないらしい</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">中にはマホガニイ製の小さな<seg type="ruby"><seg type="rb">卓</seg><seg type="rp">（</seg><seg type="rt">テエブル</seg><seg type="rp">）</seg></seg>が五つ六つ一種雅致のある亂雜さで配置されてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そしてその上に一つづつその熱帶植物のやうなものが飾られてあるに過ぎない</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何處かにこんな奇妙な珈琲店があつたやうな氣もされてくる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">しかしその中には誰もゐない　全く<seg type="ruby"><seg type="rb">空虚</seg><seg type="rp">（</seg><seg type="rt">からつぽ</seg><seg type="rp">）</seg></seg>だ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">ちよつと這入つて見てそれが何だか確かめて見たい</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そんな處に勝手に這入り込んでゐて叱られたら</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">ままよ、それまでだ……と思つて私は臆病な探偵のやうにこはごはその中に忍び込む</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私がガラス戸を押し開けるや否や、ぷんと好い匂がする</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それがさつき象のさせてゐた好い匂とそつくりだ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">さつきの匂が私の鼻に<seg type="ruby"><seg type="rb">蘇</seg><seg type="rp">（</seg><seg type="rt">よみがへ</seg><seg type="rp">）</seg></seg>つてきたのではないかと思へた位</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何ともかとも云ひやうのないほど好い匂だ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">矢張り誰もゐない　私はこはごは一つの<seg type="ruby"><seg type="rb">卓</seg><seg type="rp">（</seg><seg type="rt">テエブル</seg><seg type="rp">）</seg></seg>の傍に腰を下ろしながらその匂を搜す……私はそのとき始めて</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">熱帶植物の鉢植のかげに一つの灰皿があつて</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それに烟草の吸殼のやうなものが一つ置き忘られてあるのに氣がつく</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それから一すぢの白い烟りが細ぼそと立ち昇つてゐるのである</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">どうやらそれから私をすつかり魅してゐる匂が發せられてゐるらしい</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私はまた象のことを思ひ浮べる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そして漸つといまあの象が阿片の廣告であつたことに氣がつき出す</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">「ははあ、それだから誰にも分らなかつたんだな</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">なあんだ此處は阿片窟なのか……」</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">私はあらためて店の中を見まはして見る</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">やつぱり誰もゐない　空虚だ　いかにも靜かだ　ひつそりしてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それでゐてつい今しがたまで客が何組かあつたのだが</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それが皆立ち去つたすぐ跡だと云ふやうな氣がされる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">店の空氣がひどく疲れを帶びてゐるのが感ぜられる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">誰もゐないのに人氣が漂つてゐる　それが鬼氣のやうにぞつと感ぜられる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何かしら慘劇のあつた跡の靜けさはこんなものぢやないかしらと思へてくる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">若しかしたら今まで此處で客同志の間に殺人事件かなんかあつて</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">その跡始未のために皆ここの店のものまで殘らず出かけて行つてゐて</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それでこんなに<seg type="ruby"><seg type="rb">空虚</seg><seg type="rp">（</seg><seg type="rt">からつぽ</seg><seg type="rp">）</seg></seg>なのかも知れん……</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">さう思つて店のなかを見<seg facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />すと、一向それらしい形跡はない</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">椅子やテエブルもちやんとした位置にある　鉢植も倒れてゐない</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それでゐてどう云ふものかそれ等の置き方に妙な不自然さがあるのだ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">あちこちへ投げ飛ばされたり、倒されたりしたのをいかにも<seg type="ruby"><seg type="rb">急</seg><seg type="rp">（</seg><seg type="rt">いそ</seg><seg type="rp">）</seg></seg>いで</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">元のままに直して取り<seg type="ruby"><seg type="rb">繕</seg><seg type="rp">（</seg><seg type="rt">つくろ</seg><seg type="rp">）</seg></seg>つたやうな不自然さがあるのだ</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">――そんなことを空想しながら、私はぼんやり頬杖をついて</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">今にも燃え切つて無くなりさうな灰皿の吸殼を見つめてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それから發せられてゐる匂は私の空想を大いに刺戟してゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">「おれは遲參者だ……一足遲れたばかりに、きつとおれを喜ばせたに相違ない、</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">何かの慘事に立會ひ損つた不運者だ」</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">そこでもつて私の夢のフイルムがぴんと切れてしまふ……</seg>
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それで私は讀者諸君にも、ただこんな風に</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">「まだその顰め面をしてゐる</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">今起つたばかりの慘事の古代的な靜けさ」を</span>
-<span rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">お目にかけるよりしかたがないのだ</span>
-<lb />
-<lb />
-<span rend="jisage_7" rendition="div" style="margin-left: 7em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">２　鳥料理</span></span></span>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">それで私は讀者諸君にも、ただこんな風に</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">「まだその顰め面をしてゐる</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">今起つたばかりの慘事の古代的な靜けさ」を</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 3em; text-indent: -1em;">お目にかけるよりしかたがないのだ</seg>
 <lb />
 <lb />
-　こんなことを書いてゐる分には、頭はすこしも疲れないが、ずんずんひとりで先きへ行つてしまふ私の言葉に遲れまいとして<span rend="sesame_dot" rendition="em">せつせ</span>とペンを動かしてゐる私の手が痛くて閉口だ。其處でいま、ちよつとペンを置いて、葡萄酒を一杯ひつかけ、<span rend="shatai">Westminster</span> を二三本吹かしたところだ。―― <span rend="shatai">Westminster</span> と云へば、こんな匂など比較にならん位、いましがた私の書いたばかりの夢のなかの匂は好い匂だつたし、これから私の書かうとする夢のなかで私の飮んだ葡萄酒（？）は、こんなトリエスト産の葡萄酒よりもずつと上等な味だつた。どうやら夢の中での方が私はずつとましな暮らしをしてゐると見える。……さて、これから私の書かうとする夢は、私の夢のなかの第二の種類だ。この夢は、唯、單調だが底の知れないやうな、深味のある色（甚だ不完全な言ひ方だがそれはピカソの或る繪のやうな色なのだ）で塗り潰されてゐると思つて居て頂きたい。<lb />
-　私はこの夢のことを久しく忘れてゐたが、去年の冬、神戸へ行つて <span rend="shatai">Hotel Essoyan</span> といふ露西亞人の經營してゐる怪しげなホテルに泊つた時、ひよつくりそれを思ひ出した。私がそのホテルのことを寫生した「旅の繪」といふ短篇の中にも登場をするが、そのホテルに一人の美しくなつたり、醜くなつたりする、變な少女がゐて、或る晩十二時過ぎに私がそのホテルに歸つて來たら、私の部屋に面してゐる薄暗い廊下のはづれに、そこに二階へ通ずる階段があるのだが、その階段へ片足をかけながらその少女が寢卷のまま立つてゐて、部屋へ這入らうとしかけてゐた私の方をぢつと見てゐる。……その時突然、この夢が私のうちに蘇つたのだ。私は氣味惡くなつて、それつきり自分の部屋に這入つてしまつたが、その夢の中では私はもつと大膽だつた。<lb />
+<seg rend="jisage_7" rendition="div" style="margin-left: 7em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">２　鳥料理</seg></seg></seg>
+<lb />
+<lb />
+　こんなことを書いてゐる分には、頭はすこしも疲れないが、ずんずんひとりで先きへ行つてしまふ私の言葉に遲れまいとして<seg rend="sesame_dot" rendition="em">せつせ</seg>とペンを動かしてゐる私の手が痛くて閉口だ。其處でいま、ちよつとペンを置いて、葡萄酒を一杯ひつかけ、<seg rend="shatai" rendition="span">Westminster</seg> を二三本吹かしたところだ。―― <seg rend="shatai" rendition="span">Westminster</seg> と云へば、こんな匂など比較にならん位、いましがた私の書いたばかりの夢のなかの匂は好い匂だつたし、これから私の書かうとする夢のなかで私の飮んだ葡萄酒（？）は、こんなトリエスト産の葡萄酒よりもずつと上等な味だつた。どうやら夢の中での方が私はずつとましな暮らしをしてゐると見える。……さて、これから私の書かうとする夢は、私の夢のなかの第二の種類だ。この夢は、唯、單調だが底の知れないやうな、深味のある色（甚だ不完全な言ひ方だがそれはピカソの或る繪のやうな色なのだ）で塗り潰されてゐると思つて居て頂きたい。<lb />
+　私はこの夢のことを久しく忘れてゐたが、去年の冬、神戸へ行つて <seg rend="shatai" rendition="span">Hotel Essoyan</seg> といふ露西亞人の經營してゐる怪しげなホテルに泊つた時、ひよつくりそれを思ひ出した。私がそのホテルのことを寫生した「旅の繪」といふ短篇の中にも登場をするが、そのホテルに一人の美しくなつたり、醜くなつたりする、變な少女がゐて、或る晩十二時過ぎに私がそのホテルに歸つて來たら、私の部屋に面してゐる薄暗い廊下のはづれに、そこに二階へ通ずる階段があるのだが、その階段へ片足をかけながらその少女が寢卷のまま立つてゐて、部屋へ這入らうとしかけてゐた私の方をぢつと見てゐる。……その時突然、この夢が私のうちに蘇つたのだ。私は氣味惡くなつて、それつきり自分の部屋に這入つてしまつたが、その夢の中では私はもつと大膽だつた。<lb />
 　その夢といふのは、やはりそんなやうな怪しげなホテルが背景になつてゐる。少女も出てくる。それはしかしもつと可愛らしい少女であつた。……とある山の手の町で、私は一人の少女とすれちがひながら、なんだか私には分らない合圖をされた。そんな氣がした。そこで私はその少女のあとを追つて行つた。さうしてその少女が暗い裏通りの怪しげなホテルの中へ這入るのを突き止めた……<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 私もちよつと躊躇をしたのち、そのホテルの中へはひつて行つた<lb />
 それから少女の昇つて行つたらしい凸凹した階段をこはごは昇つて行つた<lb />
 もう古くなつてゐる階段は一番人に歩かれた眞ん中の所だけがすり切れてゐてとても歩き難い<lb />
-私はそのためそれを昇り切るのにかなり<span type="ruby"><span type="rb">手間</span><span type="rp">（</span><span type="rt">てま</span><span type="rp">）</span></span>どつた<lb />
+私はそのためそれを昇り切るのにかなり<seg type="ruby"><seg type="rb">手間</seg><seg type="rp">（</seg><seg type="rt">てま</seg><seg type="rp">）</seg></seg>どつた<lb />
 漸つと昇り切つて見ると薄暗い廊下がいくつかの部屋に通じてゐたが<lb />
 その一つのドアが今ばたんと閉つてその向うに<lb />
 人影が消えるのを私は確かに見たやうな氣がした<lb />
@@ -199,18 +199,18 @@
 さつき階段を上るとき、なかば剥げた壁に「鳥料理……」（下の字は讀めぬ）<lb />
 といふ小さな招牌の出てゐたのを思ひ出したのである<lb />
 それを聞くと、老婆はしぶしぶながら私を部屋の中へ入れてくれた<lb />
-その部屋の中には古い穴だらけの<span type="ruby"><span type="rb">卓</span><span type="rp">（</span><span type="rt">テエブル</span><span type="rp">）</span></span>が一つあるきりだつた<lb />
-私はその前に坐りながら部屋の中を見<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />した<lb />
+その部屋の中には古い穴だらけの<seg type="ruby"><seg type="rb">卓</seg><seg type="rp">（</seg><seg type="rt">テエブル</seg><seg type="rp">）</seg></seg>が一つあるきりだつた<lb />
+私はその前に坐りながら部屋の中を見<seg facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />した<lb />
 さつきの少女の姿は何處にも見えない　念のために卓の下を覗いたが矢張り居ない<lb />
 「確かにこの部屋へ這入つた筈だが……」と思ひながら<lb />
-向うの低い<span type="ruby"><span type="rb">竈</span><span type="rp">（</span><span type="rt">かまど</span><span type="rp">）</span></span>の上に掛けてある大きな鍋の中を<lb />
-何やら厭らしく掻き<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />してゐる老婆の後姿を見てゐるうちに<lb />
-この<span type="ruby"><span type="rb">婆</span><span type="rp">（</span><span type="rt">ばばあ</span><span type="rp">）</span></span>は魔法使ひかも知れんぞと私は疑ひ出した<lb />
+向うの低い<seg type="ruby"><seg type="rb">竈</seg><seg type="rp">（</seg><seg type="rt">かまど</seg><seg type="rp">）</seg></seg>の上に掛けてある大きな鍋の中を<lb />
+何やら厭らしく掻き<seg facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />してゐる老婆の後姿を見てゐるうちに<lb />
+この<seg type="ruby"><seg type="rb">婆</seg><seg type="rp">（</seg><seg type="rt">ばばあ</seg><seg type="rp">）</seg></seg>は魔法使ひかも知れんぞと私は疑ひ出した<lb />
 何處かへあの可愛らしい少女を隱してしまやがつた<lb />
 ことによるとあの少女を何かに變形させてしまつたのかも知れないぞ<lb />
-としたら一體それはどれか知らん？　と私はきよときよと部屋を見<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />してゐる<lb />
+としたら一體それはどれか知らん？　と私はきよときよと部屋を見<seg facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />してゐる<lb />
 その時老婆が鍋の中から何やらを皿に移して運んで來た<lb />
-<span type="ruby"><span type="rb">罅</span><span type="rp">（</span><span type="rt">ひび</span><span type="rp">）</span></span>の入つた皿の上に鷄の足らしい骨がちよこんと載つてゐるきりだ<lb />
+<seg type="ruby"><seg type="rb">罅</seg><seg type="rp">（</seg><seg type="rt">ひび</seg><seg type="rp">）</seg></seg>の入つた皿の上に鷄の足らしい骨がちよこんと載つてゐるきりだ<lb />
 「ちえつ、こんなものを食はせやあがるのか？」と佛頂面をしてゐると<lb />
 老婆はにやにや笑ひながらソオスの壜を持つてきて<lb />
 それを私の皿にぶつかけるのだ<lb />
@@ -218,20 +218,20 @@
 否でも應でもこいつを食はなければなるまい<lb />
 私は不承不承そいつを一口頬張つた　妙な味がする　しかし惡くはない味だ<lb />
 そこでもう一口頬張らうとした途端に　ふと<lb />
-<span type="ruby"><span type="rb">異形</span><span type="rp">（</span><span type="rt">いぎやう</span><span type="rp">）</span></span>をして蒸氣の立ちのぼつてゐる鍋の傍の　棚の上に<lb />
+<seg type="ruby"><seg type="rb">異形</seg><seg type="rp">（</seg><seg type="rt">いぎやう</seg><seg type="rp">）</seg></seg>をして蒸氣の立ちのぼつてゐる鍋の傍の　棚の上に<lb />
 一個の葡萄酒の壜らしいものが置かれてあるのが私の目に入つた<lb />
-今まで<span type="ruby"><span type="rb">空壜</span><span type="rp">（</span><span type="rt">あきびん</span><span type="rp">）</span></span>だらう位に思つてゐたがよく見ると<lb />
+今まで<seg type="ruby"><seg type="rb">空壜</seg><seg type="rp">（</seg><seg type="rt">あきびん</seg><seg type="rp">）</seg></seg>だらう位に思つてゐたがよく見ると<lb />
 八分目ほど葡萄酒らしいものが這入つてゐてそれがひとりで無氣味に搖れてゐる<lb />
 老婆はそれを氣にするやうにときどき變な目つきでそれを見てゐる<lb />
-私はまだ何やら鍋の中を掻き<span facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />してゐる彼女に何氣なささうに言つた<lb />
+私はまだ何やら鍋の中を掻き<seg facs="../../../gaiji/2-12/2-12-11.png" rend="gaiji" rendition="img" source="※(「廴＋囘」、第4水準2-12-11)" />してゐる彼女に何氣なささうに言つた<lb />
 「婆さん、おれにその葡萄酒を一杯呉れ」<lb />
 すると老婆は解つたやうに私に目で合圖をして（何んて厭らしい目つきだらう！）<lb />
 しかし自分の手許の壜はそのままにして、向うの戸棚へ他の壜を取りに行つた<lb />
 いよいよもつてこの壜が怪しいぞ！<lb />
 この壜がきつとあの少女なのかも知れん？　あの少女がこの壜に這入つてゐる？<lb />
-そこで私は魔女が向うむきになつてゐる<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">すき</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">窺</span><span type="rp">（</span><span type="rt">うかが</span><span type="rp">）</span></span>つて體を伸し<lb />
+そこで私は魔女が向うむきになつてゐる<seg type="ruby"><seg type="rb">隙</seg><seg type="rp">（</seg><seg type="rt">すき</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">窺</seg><seg type="rp">（</seg><seg type="rt">うかが</seg><seg type="rp">）</seg></seg>つて體を伸し<lb />
 その壜をひつたくる　さうして急いでその部屋から逃げ出しかける<lb />
-<span type="ruby"><span type="rb">惶</span><span type="rp">（</span><span type="rt">あわ</span><span type="rp">）</span></span>てて飛んできた魔女が私からその壜を取り戻さうとして<lb />
+<seg type="ruby"><seg type="rb">惶</seg><seg type="rp">（</seg><seg type="rt">あわ</seg><seg type="rp">）</seg></seg>てて飛んできた魔女が私からその壜を取り戻さうとして<lb />
 私に武者ぶり着く　私は魔女と格鬪をする<lb />
 そして其奴をそこに打つ倒す　しかし其奴は今度は私の足にしがみついて<lb />
 踏んでも蹴つてもそれを離さない<lb />
@@ -239,12 +239,12 @@
 その壜の口を拔き、がぶがぶそれを立飮みし出す<lb />
 私は見る見るそれを飮み干して行く　それは何ともかんとも云へないほど好い味がする<lb />
 おお、私は無類の酒を飮んでゐる！　一人の少女を飮んでゐる！<lb />
-</span>
+</seg>
 <lb />
 　若しも私があの夜ホテル・エソワイアンの廊下であの bizarre な少女に出會つた時、この夢のなかの私の大膽さの半分でもあつたら！　……ああ、私は現實では何んと夢のなかでのやうに大膽にはなれないのだ。しかし私が我知らずそんなに大膽になれるやうな機會を與へて呉れないのは、ひとつは現實にも責任はある。現實のトリツクは夢のトリツクよりもずつと下手糞だ。夢は私のために一人の少女をあつさりと葡萄酒に變へてくれる。それだのに、現實はホテル・エソワイアンの少女を或時は私に美しく見せたり、或時はまた醜く見せたりして、そのややつこしいつたらない。そしてあの晩のごときは、ああ、あの少女はまるで魔法使ひの婆さんのやうな顏をして私の前に立つてゐたつけ！<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

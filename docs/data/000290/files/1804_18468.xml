@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2005-05-07">作成</resp><resp /><note>
 <lb />
-底本：「一人三人全集1<span rend="notes">［＃「1」はローマ数字、1-13-21］</span>時代捕物釘抜藤吉捕物覚書」河出書房新社
+底本：「一人三人全集1<seg rend="notes" rendition="span">［＃「1」はローマ数字、1-13-21］</seg>時代捕物釘抜藤吉捕物覚書」河出書房新社
 <lb />
 　　　1970（昭和45）年1月15日初版発行<lb />
 初出：「少年倶楽部」<lb />
@@ -35,57 +35,57 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 　　　鶯の宿<lb />
 <lb />
 　麗かな春の日である。<lb />
-　野に山に陽の光が、煙のように漂うのを見るともなしに見ながら、平馬は物思いに沈んで歩いていた。振り返ると、野路の末、雑木林の向うの空に、大小の屋根が夢の町のように浮んで、霞に<span type="ruby"><span type="rb">棚引</span><span type="rp">（</span><span type="rt">たなび</span><span type="rp">）</span></span>いているのが見える。平馬の藩である。行手にもまたほかの町が見えていたが、平馬はべつにそこへ行くためにこの春の野の一本道を<span type="ruby"><span type="rb">辿</span><span type="rp">（</span><span type="rt">たど</span><span type="rp">）</span></span>っているわけではなかった。<lb />
-　ただどこというあてもなしに、歩きながら考え、考えながら歩くつもりで<span rend="SESAME_DOT" rendition="strong">ぶらり</span>と家を出て来た平馬である。暖かい太陽の光を背中いっぱいに受けているうちに、いつしか半分眠っているような心持で、この方角へ足が向いたのだった。<lb />
-　平馬。年齢十五歳。身の<span type="ruby"><span type="rb">丈</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>け五尺五寸あまり。顔色あくまでも黒く、眼大きく、鼻高く、一文字の口に太い眉、それに、肩幅が広くて体じゅうに瘤のような筋肉が盛れ上っている――この辺で有名な怪童、威丈夫、剣客。<lb />
-　その平馬がいま<span type="ruby"><span type="rb">打割羽織</span><span type="rp">（</span><span type="rt">ぶっさきばおり</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">野袴</span><span type="rp">（</span><span type="rt">のばかま</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">手馴</span><span type="rp">（</span><span type="rt">てな</span><span type="rp">）</span></span>れの<span type="ruby"><span type="rb">業物</span><span type="rp">（</span><span type="rt">わざもの</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">閂</span><span type="rp">（</span><span type="rt">かんぬき</span><span type="rp">）</span></span>のように差し反らせて、鉄扇片手に春の野中の道をゆらりゆらりと歩いて行くのだ。人が見たら物騒な武者修業者が流れ込んで来たとでも思うかもしれないが、前後に人もなく、平馬は誰にも逢わなかった。<lb />
+　野に山に陽の光が、煙のように漂うのを見るともなしに見ながら、平馬は物思いに沈んで歩いていた。振り返ると、野路の末、雑木林の向うの空に、大小の屋根が夢の町のように浮んで、霞に<seg type="ruby"><seg type="rb">棚引</seg><seg type="rp">（</seg><seg type="rt">たなび</seg><seg type="rp">）</seg></seg>いているのが見える。平馬の藩である。行手にもまたほかの町が見えていたが、平馬はべつにそこへ行くためにこの春の野の一本道を<seg type="ruby"><seg type="rb">辿</seg><seg type="rp">（</seg><seg type="rt">たど</seg><seg type="rp">）</seg></seg>っているわけではなかった。<lb />
+　ただどこというあてもなしに、歩きながら考え、考えながら歩くつもりで<seg rend="SESAME_DOT" rendition="strong">ぶらり</seg>と家を出て来た平馬である。暖かい太陽の光を背中いっぱいに受けているうちに、いつしか半分眠っているような心持で、この方角へ足が向いたのだった。<lb />
+　平馬。年齢十五歳。身の<seg type="ruby"><seg type="rb">丈</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>け五尺五寸あまり。顔色あくまでも黒く、眼大きく、鼻高く、一文字の口に太い眉、それに、肩幅が広くて体じゅうに瘤のような筋肉が盛れ上っている――この辺で有名な怪童、威丈夫、剣客。<lb />
+　その平馬がいま<seg type="ruby"><seg type="rb">打割羽織</seg><seg type="rp">（</seg><seg type="rt">ぶっさきばおり</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">野袴</seg><seg type="rp">（</seg><seg type="rt">のばかま</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">手馴</seg><seg type="rp">（</seg><seg type="rt">てな</seg><seg type="rp">）</seg></seg>れの<seg type="ruby"><seg type="rb">業物</seg><seg type="rp">（</seg><seg type="rt">わざもの</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">閂</seg><seg type="rp">（</seg><seg type="rt">かんぬき</seg><seg type="rp">）</seg></seg>のように差し反らせて、鉄扇片手に春の野中の道をゆらりゆらりと歩いて行くのだ。人が見たら物騒な武者修業者が流れ込んで来たとでも思うかもしれないが、前後に人もなく、平馬は誰にも逢わなかった。<lb />
 　国境に川がある。横笛川という。<lb />
-　流れは、深いわりにさほど広くはないが、両岸の川原の幅が広いので、その全体に<span type="ruby"><span type="rb">架</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>かっている橋はかなりに長いものだった。太い木を高く架けて、水中や川原に大きな柱が立っているのが、遠くからでも見られた。試みに橋の上から唾をすると、下へ落ちるまでに、<span rend="SESAME_DOT" rendition="strong">しぶき</span>のように粉々になってしまう。それほど高い橋だった。月見橋という。この橋を境に、こっち側は平馬の藩、向う側は他藩ということになっていたが、平馬はいまその橋を渡っている。<lb />
+　流れは、深いわりにさほど広くはないが、両岸の川原の幅が広いので、その全体に<seg type="ruby"><seg type="rb">架</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>かっている橋はかなりに長いものだった。太い木を高く架けて、水中や川原に大きな柱が立っているのが、遠くからでも見られた。試みに橋の上から唾をすると、下へ落ちるまでに、<seg rend="SESAME_DOT" rendition="strong">しぶき</seg>のように粉々になってしまう。それほど高い橋だった。月見橋という。この橋を境に、こっち側は平馬の藩、向う側は他藩ということになっていたが、平馬はいまその橋を渡っている。<lb />
 　しかし、考えながら歩いていると自分がどこにいるのかわからないことがある。この時の平馬がちょうどそうだった。彼はぼんやりと、気がつかずに月見橋を渡ったが、そうしていつの間にか他の領内へ踏み込んでいたのである。<lb />
 　それからまた少し野原があった。野原のつぎは畑だった。畑を越すと、そこここに生垣が見えて、どうやら屋敷町へ入ったらしかったが、平馬はいっさい夢中で歩いていた。<lb />
 　陽が高い。<lb />
 　くっきりと黒い影が足もとにかたまっている。<lb />
 　その自分の影に話しかけるように、うつむきに考えこんでゆく平馬。<lb />
-　ふと、顔を上げた。耳のそばで羽ばたきがしたからである。おや！　と思った瞬間に何やら黄色いものが平馬の眼前に躍って、すぐにそれが、右手の甲にとまったので、平馬は<span rend="SESAME_DOT" rendition="strong">びっくり</span>してよく見た。<lb />
+　ふと、顔を上げた。耳のそばで羽ばたきがしたからである。おや！　と思った瞬間に何やら黄色いものが平馬の眼前に躍って、すぐにそれが、右手の甲にとまったので、平馬は<seg rend="SESAME_DOT" rendition="strong">びっくり</seg>してよく見た。<lb />
 　鶯が一羽。<lb />
 　丸々と肥った美事なうぐいすが、どこからともなく飛んで来て平馬の右手にとまっているのだ。何ごとか平馬に話しかけでもするように、小さな口を開けたかと思うと、ホウホケキョと一声。<lb />
-　驚きながらも平馬は<span rend="SESAME_DOT" rendition="strong">にっこり</span>した。どこの鶯だろう？　よほど人に馴れているとみえて、こうして物怖じもせずに平馬の手にとまっているのだ。大事に飼われていたのが、何かのはずみで籠から逃げて来たのに相違ない――こう思いながら平馬が左手で<span rend="SESAME_DOT" rendition="strong">そっ</span>と押えると、鶯は逃げようともしないで、平馬の手のなかでまた啼いた。ホウホケキョ。<lb />
-　するとこの時、そばの一軒の家の<span type="ruby"><span type="rb">枝折戸</span><span type="rp">（</span><span type="rt">しおりど</span><span type="rp">）</span></span>が開いて、ひとりの美しい少女が小走りに出て来た。そして、平馬が鶯をつかんでいるのを見ると、少女は嬉しそうにかけ寄って言った。<lb />
+　驚きながらも平馬は<seg rend="SESAME_DOT" rendition="strong">にっこり</seg>した。どこの鶯だろう？　よほど人に馴れているとみえて、こうして物怖じもせずに平馬の手にとまっているのだ。大事に飼われていたのが、何かのはずみで籠から逃げて来たのに相違ない――こう思いながら平馬が左手で<seg rend="SESAME_DOT" rendition="strong">そっ</seg>と押えると、鶯は逃げようともしないで、平馬の手のなかでまた啼いた。ホウホケキョ。<lb />
+　するとこの時、そばの一軒の家の<seg type="ruby"><seg type="rb">枝折戸</seg><seg type="rp">（</seg><seg type="rt">しおりど</seg><seg type="rp">）</seg></seg>が開いて、ひとりの美しい少女が小走りに出て来た。そして、平馬が鶯をつかんでいるのを見ると、少女は嬉しそうにかけ寄って言った。<lb />
 「まあ、どうもありがとうございました。あなた様が鶯をつかまえて下さいましたのでございますか」<lb />
-　平馬が困って<span rend="SESAME_DOT" rendition="strong">もじもじ</span>していると、少女は口早やに説明した。鶯は少女が大事に飼っていたものだったが、籠の掃除をしている間に飛び立ったので、すぐ驚いて追っかけて来たということだった。<lb />
-「もう遠くへ飛んで行ってしまったろうと思いましたのに、<span type="ruby"><span type="rb">捕</span><span type="rp">（</span><span type="rt">つかま</span><span type="rp">）</span></span>えて下さいまして、ほんとうにありがとうございました」<lb />
+　平馬が困って<seg rend="SESAME_DOT" rendition="strong">もじもじ</seg>していると、少女は口早やに説明した。鶯は少女が大事に飼っていたものだったが、籠の掃除をしている間に飛び立ったので、すぐ驚いて追っかけて来たということだった。<lb />
+「もう遠くへ飛んで行ってしまったろうと思いましたのに、<seg type="ruby"><seg type="rb">捕</seg><seg type="rp">（</seg><seg type="rt">つかま</seg><seg type="rp">）</seg></seg>えて下さいまして、ほんとうにありがとうございました」<lb />
 　こう言って少女は、改めて御礼を言いたいから、ちょっと休んでお茶でもと、先きに立って平馬を案内した。赤くなって平馬、仕方がないからついて行った。<lb />
 　庭へはいる。<lb />
 <lb />
 　　　奉納仕合<lb />
 <lb />
-　<span type="ruby"><span type="rb">常陸</span><span type="rp">（</span><span type="rt">ひたち</span><span type="rp">）</span></span>の国、筑波山の麓。<lb />
-　山を背負って二つの藩がある。一つは<span type="ruby"><span type="rb">結城</span><span type="rp">（</span><span type="rt">ゆうき</span><span type="rp">）</span></span>の里。<span type="ruby"><span type="rb">水野日向守</span><span type="rp">（</span><span type="rt">みずのひゅうがのかみ</span><span type="rp">）</span></span>一万八千石。<lb />
-　他は<span type="ruby"><span type="rb">下妻</span><span type="rp">（</span><span type="rt">しもづま</span><span type="rp">）</span></span>の町、井上<span type="ruby"><span type="rb">伊予守</span><span type="rp">（</span><span type="rt">いよのかみ</span><span type="rp">）</span></span>一万石。<lb />
-　この二つの藩の若侍はことごとに仲が悪かったが、ことに筑波神社のお祭が近づいて来ると、いっそうその反目の気分が濃くなるのだった。そのわけは、毎年、筑波神社の祭礼に、両藩の若侍のなかから、剣にすぐれた者が選び出されて、社前で奉納の大仕合が行われる。結城の城下には、<span type="ruby"><span type="rb">北辰</span><span type="rp">（</span><span type="rt">ほくしん</span><span type="rp">）</span></span>一刀流の道場があって、この仕合を目あてに猛烈な稽古を<span type="ruby"><span type="rb">励</span><span type="rp">（</span><span type="rt">はげ</span><span type="rp">）</span></span>んでいるかと思うと、下妻には、<span type="ruby"><span type="rb">真庭念流</span><span type="rp">（</span><span type="rt">まにわねんりゅう</span><span type="rp">）</span></span>の先生がいて、これも筑波の奉納仕合を目前に、それぞれ血の出るような修業をしているのだ。じつに、筑波神社の奉納仕合はたんに両藩若侍の間の勝負ではなしに、藩全体が力瘤を入れて、百姓や町人まで夢中になる一大年中行事であった。<lb />
-　今までの成績を見ると、三年前までは、ほとんど毎年のように結城の藩が、名誉の勝利を得てきたのだったが、それがどういうものか、下妻藩につづけざまに三年勝ち越されているのである。そこで結城の若侍、腕を<span type="ruby"><span type="rb">扼</span><span type="rp">（</span><span type="rt">やく</span><span type="rp">）</span></span>し、歯を噛んで、今年こそはと意気込んでいる――その仕合も近い。<lb />
-　ところがここに、下妻の藩中に一つの暗い報告が<span type="ruby"><span type="rb">齎</span><span type="rp">（</span><span type="rt">もたら</span><span type="rp">）</span></span>された。それは、今年こそは結城の平馬が、いよいよ仕合に出るらしいという一事である。<lb />
-　いったい、毎年試合が近づいて来ると、両方の藩から若侍たちが変装して、各々敵方の藩へ<span type="ruby"><span type="rb">潜</span><span type="rp">（</span><span type="rt">もぐ</span><span type="rp">）</span></span>り込んで、敵の力量を探索することになっていた。これらの間諜は、あるいは町人に化けて、それとなしに道場の武者窓から試合ぶりを見たり、<span type="ruby"><span type="rb">主</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>だったひとりひとりの太刀筋や、手癖をきわめて、これを逐一自分方へ知らせて、応戦の参考にするのだったが、この二、三年、下妻の間者がいずれも舌を巻き怖気をふるって、引き返して味方へ報告したのが、少年剣客平馬の腕前であった。<lb />
-　あの平馬というやつに出られては、残念ながらこの下妻じゅうに歯のたつ者はあるまい――下妻の若侍一同、みなこう言って、顔を見合わせたものだが、幸いにして今まではいくら強くても平馬は仕合に出られなかったのだ。というわけは、仕合に出るのは若侍とかぎられ、元服して前髪を落した後でなければならなかった。そして平馬は、<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>こそ怪童として近在近郷に鳴りひびいていただけに、普通の大人以上に大きかったが、まだ元服前のために、むざむざと引っ込んで味方の負けるのを見ていなければならなかったのである。だが、それも去年まで！<lb />
-　平馬、今年十五歳、元服して大人になった姿はじつに<span type="ruby"><span type="rb">凛々</span><span type="rp">（</span><span type="rt">りり</span><span type="rp">）</span></span>しい武者ぶりであった。<lb />
-　下妻の若侍たちは、平尾出場の噂に、仕合に出ない先からもう負けたつもりで<span type="ruby"><span type="rb">銷沈</span><span type="rp">（</span><span type="rt">しょうちん</span><span type="rp">）</span></span>している。<lb />
-　このとおり敵に恐れられている平馬は、じっさい人が怖がるのも無理もないほど、鍛えに鍛えた<span type="ruby"><span type="rb">逞</span><span type="rp">（</span><span type="rt">たくま</span><span type="rp">）</span></span>しい体力と鉄石のような負けじ魂と加うるに、この数年師匠を驚かすくらいに上達した北辰一刀流の剣技――この三つの<span type="ruby"><span type="rb">権化</span><span type="rp">（</span><span type="rt">ごんげ</span><span type="rp">）</span></span>であった。<lb />
-　この武骨の平馬、やさしい鶯が縁になって、その鶯よりも優しい飼主の少女と今こうして<span type="ruby"><span type="rb">庵</span><span type="rp">（</span><span type="rt">いおり</span><span type="rp">）</span></span>の竹縁に腰をかけて話している。<lb />
-　庭いっばいの日光に、<span type="ruby"><span type="rb">苔</span><span type="rp">（</span><span type="rt">こけ</span><span type="rp">）</span></span>の匂がむせかえるようだ。<lb />
+　<seg type="ruby"><seg type="rb">常陸</seg><seg type="rp">（</seg><seg type="rt">ひたち</seg><seg type="rp">）</seg></seg>の国、筑波山の麓。<lb />
+　山を背負って二つの藩がある。一つは<seg type="ruby"><seg type="rb">結城</seg><seg type="rp">（</seg><seg type="rt">ゆうき</seg><seg type="rp">）</seg></seg>の里。<seg type="ruby"><seg type="rb">水野日向守</seg><seg type="rp">（</seg><seg type="rt">みずのひゅうがのかみ</seg><seg type="rp">）</seg></seg>一万八千石。<lb />
+　他は<seg type="ruby"><seg type="rb">下妻</seg><seg type="rp">（</seg><seg type="rt">しもづま</seg><seg type="rp">）</seg></seg>の町、井上<seg type="ruby"><seg type="rb">伊予守</seg><seg type="rp">（</seg><seg type="rt">いよのかみ</seg><seg type="rp">）</seg></seg>一万石。<lb />
+　この二つの藩の若侍はことごとに仲が悪かったが、ことに筑波神社のお祭が近づいて来ると、いっそうその反目の気分が濃くなるのだった。そのわけは、毎年、筑波神社の祭礼に、両藩の若侍のなかから、剣にすぐれた者が選び出されて、社前で奉納の大仕合が行われる。結城の城下には、<seg type="ruby"><seg type="rb">北辰</seg><seg type="rp">（</seg><seg type="rt">ほくしん</seg><seg type="rp">）</seg></seg>一刀流の道場があって、この仕合を目あてに猛烈な稽古を<seg type="ruby"><seg type="rb">励</seg><seg type="rp">（</seg><seg type="rt">はげ</seg><seg type="rp">）</seg></seg>んでいるかと思うと、下妻には、<seg type="ruby"><seg type="rb">真庭念流</seg><seg type="rp">（</seg><seg type="rt">まにわねんりゅう</seg><seg type="rp">）</seg></seg>の先生がいて、これも筑波の奉納仕合を目前に、それぞれ血の出るような修業をしているのだ。じつに、筑波神社の奉納仕合はたんに両藩若侍の間の勝負ではなしに、藩全体が力瘤を入れて、百姓や町人まで夢中になる一大年中行事であった。<lb />
+　今までの成績を見ると、三年前までは、ほとんど毎年のように結城の藩が、名誉の勝利を得てきたのだったが、それがどういうものか、下妻藩につづけざまに三年勝ち越されているのである。そこで結城の若侍、腕を<seg type="ruby"><seg type="rb">扼</seg><seg type="rp">（</seg><seg type="rt">やく</seg><seg type="rp">）</seg></seg>し、歯を噛んで、今年こそはと意気込んでいる――その仕合も近い。<lb />
+　ところがここに、下妻の藩中に一つの暗い報告が<seg type="ruby"><seg type="rb">齎</seg><seg type="rp">（</seg><seg type="rt">もたら</seg><seg type="rp">）</seg></seg>された。それは、今年こそは結城の平馬が、いよいよ仕合に出るらしいという一事である。<lb />
+　いったい、毎年試合が近づいて来ると、両方の藩から若侍たちが変装して、各々敵方の藩へ<seg type="ruby"><seg type="rb">潜</seg><seg type="rp">（</seg><seg type="rt">もぐ</seg><seg type="rp">）</seg></seg>り込んで、敵の力量を探索することになっていた。これらの間諜は、あるいは町人に化けて、それとなしに道場の武者窓から試合ぶりを見たり、<seg type="ruby"><seg type="rb">主</seg><seg type="rp">（</seg><seg type="rt">おも</seg><seg type="rp">）</seg></seg>だったひとりひとりの太刀筋や、手癖をきわめて、これを逐一自分方へ知らせて、応戦の参考にするのだったが、この二、三年、下妻の間者がいずれも舌を巻き怖気をふるって、引き返して味方へ報告したのが、少年剣客平馬の腕前であった。<lb />
+　あの平馬というやつに出られては、残念ながらこの下妻じゅうに歯のたつ者はあるまい――下妻の若侍一同、みなこう言って、顔を見合わせたものだが、幸いにして今まではいくら強くても平馬は仕合に出られなかったのだ。というわけは、仕合に出るのは若侍とかぎられ、元服して前髪を落した後でなければならなかった。そして平馬は、<seg type="ruby"><seg type="rb">身体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>こそ怪童として近在近郷に鳴りひびいていただけに、普通の大人以上に大きかったが、まだ元服前のために、むざむざと引っ込んで味方の負けるのを見ていなければならなかったのである。だが、それも去年まで！<lb />
+　平馬、今年十五歳、元服して大人になった姿はじつに<seg type="ruby"><seg type="rb">凛々</seg><seg type="rp">（</seg><seg type="rt">りり</seg><seg type="rp">）</seg></seg>しい武者ぶりであった。<lb />
+　下妻の若侍たちは、平尾出場の噂に、仕合に出ない先からもう負けたつもりで<seg type="ruby"><seg type="rb">銷沈</seg><seg type="rp">（</seg><seg type="rt">しょうちん</seg><seg type="rp">）</seg></seg>している。<lb />
+　このとおり敵に恐れられている平馬は、じっさい人が怖がるのも無理もないほど、鍛えに鍛えた<seg type="ruby"><seg type="rb">逞</seg><seg type="rp">（</seg><seg type="rt">たくま</seg><seg type="rp">）</seg></seg>しい体力と鉄石のような負けじ魂と加うるに、この数年師匠を驚かすくらいに上達した北辰一刀流の剣技――この三つの<seg type="ruby"><seg type="rb">権化</seg><seg type="rp">（</seg><seg type="rt">ごんげ</seg><seg type="rp">）</seg></seg>であった。<lb />
+　この武骨の平馬、やさしい鶯が縁になって、その鶯よりも優しい飼主の少女と今こうして<seg type="ruby"><seg type="rb">庵</seg><seg type="rp">（</seg><seg type="rt">いおり</seg><seg type="rp">）</seg></seg>の竹縁に腰をかけて話している。<lb />
+　庭いっばいの日光に、<seg type="ruby"><seg type="rb">苔</seg><seg type="rp">（</seg><seg type="rt">こけ</seg><seg type="rp">）</seg></seg>の匂がむせかえるようだ。<lb />
 <lb />
 　　　闇討の相談<lb />
 <lb />
 「ホウホケキョ！」<lb />
-　と、また鶯が鳴くと、少女は、平馬の顔を見て<span rend="SESAME_DOT" rendition="strong">はにかむ</span>ようににっこりした。<lb />
-「可愛い鶯でござりましょう。私は大事にして飼っているのでございますが、ずいぶん声のいい鶯だとおっしゃって、皆様が<span type="ruby"><span type="rb">賞</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>めて下さいます。さっき籠の掃除をしようと思って、手を入れた拍子に逃げたのでございますが、でも、あなたが捕えて下さいまして、ほんとうにありがとうございました。きっと、もう遠くの山へでも飛んで行ったものと思って、私はがっかりしながら念のために外まで見に出たところでございました」<lb />
-　平馬も親しそうに<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほえ</span><span type="rp">）</span></span>みながら、<lb />
+　と、また鶯が鳴くと、少女は、平馬の顔を見て<seg rend="SESAME_DOT" rendition="strong">はにかむ</seg>ようににっこりした。<lb />
+「可愛い鶯でござりましょう。私は大事にして飼っているのでございますが、ずいぶん声のいい鶯だとおっしゃって、皆様が<seg type="ruby"><seg type="rb">賞</seg><seg type="rp">（</seg><seg type="rt">ほ</seg><seg type="rp">）</seg></seg>めて下さいます。さっき籠の掃除をしようと思って、手を入れた拍子に逃げたのでございますが、でも、あなたが捕えて下さいまして、ほんとうにありがとうございました。きっと、もう遠くの山へでも飛んで行ったものと思って、私はがっかりしながら念のために外まで見に出たところでございました」<lb />
+　平馬も親しそうに<seg type="ruby"><seg type="rb">微笑</seg><seg type="rp">（</seg><seg type="rt">ほほえ</seg><seg type="rp">）</seg></seg>みながら、<lb />
 「いや、お礼をおっしゃられては困ります。拙者が鶯をつかまえたのではなくて、うぐいすが拙者を捕えたようなものでした。ぶらりと何心なくお宅の前を通りかかると、あの鶯が飛んで来て拙者の手の甲にとまった、はははは。それだけのことです」<lb />
 　こう言って平馬は、はじめて気がついたように、珍しそうにそこらを見廻した。武士の住居らしく、小さいながらもきちんと片付いて、気持の好い家である。はてな？――ここはどこだろう。平馬がこう思っていると少女は不思議そうに平馬のようすを眺めていたが、やがて、<lb />
 「あの、あなた様はどちらの――？」<lb />
@@ -99,8 +99,8 @@
 　するとこの時、奥の座敷で、大勢の人の話し合っている声が平馬に聞えた。<lb />
 「何かの寄り合いですか」<lb />
 　平馬が訊いた。<lb />
-「はい。旅のお方なら御存じございますまいが、この筑波のお山のお祭が近づきまして、例年のとおり、となりの結城藩と剣道の仕合がございますので、こちらの下妻の若侍たちが相談しているのでございます。ここの私の兄が、<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">かしら</span><span type="rp">）</span></span>なものでございますから」<lb />
-　<span rend="SESAME_DOT" rendition="strong">はっ</span>とした平馬が、これは面白いところへ来合わせたものだと思いながら、出された茶を飲み飲み、身体じゅを耳にして、奥の話声に注意していると、五、六人の大声で、こんなことを言うのが聞えた。<lb />
+「はい。旅のお方なら御存じございますまいが、この筑波のお山のお祭が近づきまして、例年のとおり、となりの結城藩と剣道の仕合がございますので、こちらの下妻の若侍たちが相談しているのでございます。ここの私の兄が、<seg type="ruby"><seg type="rb">頭</seg><seg type="rp">（</seg><seg type="rt">かしら</seg><seg type="rp">）</seg></seg>なものでございますから」<lb />
+　<seg rend="SESAME_DOT" rendition="strong">はっ</seg>とした平馬が、これは面白いところへ来合わせたものだと思いながら、出された茶を飲み飲み、身体じゅを耳にして、奥の話声に注意していると、五、六人の大声で、こんなことを言うのが聞えた。<lb />
 「おい、おい、今年はいよいよ結城からあの平馬というやつが仕合に出ると申すではないか。あいつが一番厄介だな」<lb />
 「あいつ、もう一年元服を延ばせばいいのになあ！」<lb />
 「そんなこっちにばかり都合のよいことを言っても始まらん。しかし、平馬に出られては弱るよ、じっさい」<lb />
@@ -114,29 +114,29 @@
 「馬鹿！　そんな呑気なことを言っている場合ではない。一人ずつ面と向って叶わない相手なら――闇討にきまっておるではないか！」<lb />
 「そうだ、そうだ！　闇討だ！　闇討だ！」<lb />
 「殺してはいけない。殺すと面倒だ」<lb />
-「ただちょっと肩の骨を<span type="ruby"><span type="rb">挫</span><span type="rp">（</span><span type="rt">くだ</span><span type="rp">）</span></span>くなり、指を折るなりして、今度の仕合に出られないようにしてやりさえすればよいのだ」<lb />
+「ただちょっと肩の骨を<seg type="ruby"><seg type="rb">挫</seg><seg type="rp">（</seg><seg type="rt">くだ</seg><seg type="rp">）</seg></seg>くなり、指を折るなりして、今度の仕合に出られないようにしてやりさえすればよいのだ」<lb />
 「なるほどそれにかぎる。さっそく、間者を放って、彼の動静をうかがわせるとしよう」<lb />
 「それによって大勢で待ち伏せしてやってしまうのだ。向うは一人、こっちは大勢、平馬といえど鬼神ではあるまい。あに恐るるにたらんやだ」<lb />
 「名案、名案！」<lb />
-　というわけで、あとは<span type="ruby"><span type="rb">拍手喝采</span><span type="rp">（</span><span type="rt">はくしゅかっさい</span><span type="rp">）</span></span>、下妻の若侍一同、当の平馬が<span rend="SESAME_DOT" rendition="strong">つい</span>鼻の先に聞いているとも知らず、好い気持でさわいでいる。<lb />
-　平馬も何気ない顔で、しきりにお茶を飲んでいたが、やがて丁寧に別れの挨拶をすると、静かに立ち上った。そして、ホウホケキョと鳴くうぐいすの声と、それよりもっと朗かで優しい少女の<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほえみ</span><span type="rp">）</span></span>とに送られて、平馬は往来へ出た。<lb />
+　というわけで、あとは<seg type="ruby"><seg type="rb">拍手喝采</seg><seg type="rp">（</seg><seg type="rt">はくしゅかっさい</seg><seg type="rp">）</seg></seg>、下妻の若侍一同、当の平馬が<seg rend="SESAME_DOT" rendition="strong">つい</seg>鼻の先に聞いているとも知らず、好い気持でさわいでいる。<lb />
+　平馬も何気ない顔で、しきりにお茶を飲んでいたが、やがて丁寧に別れの挨拶をすると、静かに立ち上った。そして、ホウホケキョと鳴くうぐいすの声と、それよりもっと朗かで優しい少女の<seg type="ruby"><seg type="rb">微笑</seg><seg type="rp">（</seg><seg type="rt">ほほえみ</seg><seg type="rp">）</seg></seg>とに送られて、平馬は往来へ出た。<lb />
 　自分の背丈もあろうかという大刀を横たえた平馬の姿が、春霞にかすむ野道を結城の町の方へたどって行く。それが点となって消えてしまうまで、少女は門に立って見送っていた。<lb />
 　その向うに、筑波の山が胸から上を雲にあらわして、あるかなしかの風に、紅梅の花びらが少女の上に散った。<lb />
 <lb />
 　　　うぐいすの便<lb />
 <lb />
-　それから二日ばかり大雨だったが、その雨のはれた朝のことだった。鶯の宿の少女が、縁に出て、陽の照る庭に立ちのぼる水気を嗅ぎながらいつものように、籠のなかの鶯に<span type="ruby"><span type="rb">戯</span><span type="rp">（</span><span type="rt">たわむ</span><span type="rp">）</span></span>れていると、その朝にかぎって、どうも鶯のようすがへんだった。なんとなくそわそわしている。と思ってよく見ているうちに、どこか遠くでほかのうぐいすの声がした。ホウホケキョというその<span type="ruby"><span type="rb">啼</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>き声は、はじめはかなり遠くの方でしていたが、それがだんだん近づいてきて、今度はどこか家の近くで大きく<span rend="SESAME_DOT" rendition="strong">はっきり</span>と啼くのが聞えた。すると少女の鶯も友達が来たのを喜ぷように盛んに啼きたてた。やがて庭先の梅の小枝に、ほかの鶯の黄ばんだみどり色の姿が見えて．それがしばらく籠のなかのうぐいすとしきりに啼き交わしていたかと思うと、<span rend="SESAME_DOT" rendition="strong">つ</span>と羽ばたきをしながら、梅の枝をはなれた鶯が、縁側の籠の前へとんで来た。籠を隔てて二羽の鶯が何事か親しげに囁き合っているように見える。<lb />
-　少女はうれしそうに<span rend="SESAME_DOT" rendition="strong">にっこり</span>して、そして新来の珍客を驚かさないように気をつけながら、そっと籠のそばへ寄った。この、どこからともなく飛んで来た鶯も、長らく人に飼われていたものとみえて、少女が近づいても逃げようともしない。で、ふとその<span type="ruby"><span type="rb">脚</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>を見た少女は、急いで籠の外のうぐいすを押えた。<span type="ruby"><span type="rb">紅筆</span><span type="rp">（</span><span type="rt">べにふで</span><span type="rp">）</span></span>のような鶯の脚に小さな紙片がしばってあるのだ。<lb />
-　少女が紙を解いて見ると、小さく畳んだ手紙のようなものである。鶯はそのまま放してやって、少女が手早く紙をひろげようとしていると、後で荒々しい音がした。振り返って見ると、兄の鏡之介である――真庭念流の剣客で、下妻藩の若侍たちのあいだに、<span type="ruby"><span type="rb">牛耳</span><span type="rp">（</span><span type="rt">ぎゅうじ</span><span type="rp">）</span></span>をとっている荒武者。<lb />
+　それから二日ばかり大雨だったが、その雨のはれた朝のことだった。鶯の宿の少女が、縁に出て、陽の照る庭に立ちのぼる水気を嗅ぎながらいつものように、籠のなかの鶯に<seg type="ruby"><seg type="rb">戯</seg><seg type="rp">（</seg><seg type="rt">たわむ</seg><seg type="rp">）</seg></seg>れていると、その朝にかぎって、どうも鶯のようすがへんだった。なんとなくそわそわしている。と思ってよく見ているうちに、どこか遠くでほかのうぐいすの声がした。ホウホケキョというその<seg type="ruby"><seg type="rb">啼</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>き声は、はじめはかなり遠くの方でしていたが、それがだんだん近づいてきて、今度はどこか家の近くで大きく<seg rend="SESAME_DOT" rendition="strong">はっきり</seg>と啼くのが聞えた。すると少女の鶯も友達が来たのを喜ぷように盛んに啼きたてた。やがて庭先の梅の小枝に、ほかの鶯の黄ばんだみどり色の姿が見えて．それがしばらく籠のなかのうぐいすとしきりに啼き交わしていたかと思うと、<seg rend="SESAME_DOT" rendition="strong">つ</seg>と羽ばたきをしながら、梅の枝をはなれた鶯が、縁側の籠の前へとんで来た。籠を隔てて二羽の鶯が何事か親しげに囁き合っているように見える。<lb />
+　少女はうれしそうに<seg rend="SESAME_DOT" rendition="strong">にっこり</seg>して、そして新来の珍客を驚かさないように気をつけながら、そっと籠のそばへ寄った。この、どこからともなく飛んで来た鶯も、長らく人に飼われていたものとみえて、少女が近づいても逃げようともしない。で、ふとその<seg type="ruby"><seg type="rb">脚</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>を見た少女は、急いで籠の外のうぐいすを押えた。<seg type="ruby"><seg type="rb">紅筆</seg><seg type="rp">（</seg><seg type="rt">べにふで</seg><seg type="rp">）</seg></seg>のような鶯の脚に小さな紙片がしばってあるのだ。<lb />
+　少女が紙を解いて見ると、小さく畳んだ手紙のようなものである。鶯はそのまま放してやって、少女が手早く紙をひろげようとしていると、後で荒々しい音がした。振り返って見ると、兄の鏡之介である――真庭念流の剣客で、下妻藩の若侍たちのあいだに、<seg type="ruby"><seg type="rb">牛耳</seg><seg type="rp">（</seg><seg type="rt">ぎゅうじ</seg><seg type="rp">）</seg></seg>をとっている荒武者。<lb />
 「千草、何だその手紙は？」<lb />
 　と、鏡之介はすぐに少女の持っている紙片に眼をつけた。千草と呼ばれた少女は、もう怖そうにおずおずと、兄鏡之介の前へその紙を差し出した。<lb />
 　引ったくった鏡之介が読んでみると――。<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 下妻の方々へ申す。<lb />
-平馬をはじめ結城藩の若侍一同、<span type="ruby"><span type="rb">今宵深更</span><span type="rp">（</span><span type="rt">こよいしんこう</span><span type="rp">）</span></span>、結城の城下はずれの森に会合致し、筑波神社祭礼神前仕合の策戦をなすよし、たしかなる筋より聞き及び<span type="ruby"><span type="rb">候間</span><span type="rp">（</span><span type="rt">そうろうあいだ</span><span type="rp">）</span></span>御参考にまで密告仕侯。よろしく御取り<span type="ruby"><span type="rb">計</span><span type="rp">（</span><span type="rt">はから</span><span type="rp">）</span></span>いあって然る可く存じ候。<lb />
-</span>
-<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em"><span type="ruby"><span type="rb">蔭乍</span><span type="rp">（</span><span type="rt">かげなが</span><span type="rp">）</span></span>らお味方の一人より</span>
-　読み終った鏡之介は足許の妹千草を<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>めつけて訊いた。<lb />
+平馬をはじめ結城藩の若侍一同、<seg type="ruby"><seg type="rb">今宵深更</seg><seg type="rp">（</seg><seg type="rt">こよいしんこう</seg><seg type="rp">）</seg></seg>、結城の城下はずれの森に会合致し、筑波神社祭礼神前仕合の策戦をなすよし、たしかなる筋より聞き及び<seg type="ruby"><seg type="rb">候間</seg><seg type="rp">（</seg><seg type="rt">そうろうあいだ</seg><seg type="rp">）</seg></seg>御参考にまで密告仕侯。よろしく御取り<seg type="ruby"><seg type="rb">計</seg><seg type="rp">（</seg><seg type="rt">はから</seg><seg type="rp">）</seg></seg>いあって然る可く存じ候。<lb />
+</seg>
+<seg rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em"><seg type="ruby"><seg type="rb">蔭乍</seg><seg type="rp">（</seg><seg type="rt">かげなが</seg><seg type="rp">）</seg></seg>らお味方の一人より</seg>
+　読み終った鏡之介は足許の妹千草を<seg type="ruby"><seg type="rb">睨</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>めつけて訊いた。<lb />
 「どこからこの手紙が舞い込んだ？」<lb />
 「はい。どこからともなく一羽の鶯が、この私のうぐいすを慕って飛んでまいりまして、あの、その鶯の脚にこの御手紙が巻きつけてあったのでございます」<lb />
 「ふうむ。そうか――鶯の便とはちかごろもって風流な話だな」<lb />
@@ -144,8 +144,8 @@
 <lb />
 　　　矢筈の森<lb />
 <lb />
-　宵のうちにちょっと顔を見せた月は、間もなく霧に呑まれて、森の<span type="ruby"><span type="rb">木</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">下闇</span><span type="rp">（</span><span type="rt">したやみ</span><span type="rp">）</span></span>は鼻をつままれてもわからない暗さだった。結城の藩と下妻との間に、横笛川という一筋の流れ。その川に月見橋の架かっていることは前にも言ったが、その月見橋を少し結城の方へ寄った所に、矢筈の森というこんもりと茂った森があった。昼は時々城下の百姓や町人が、<span type="ruby"><span type="rb">薪木</span><span type="rp">（</span><span type="rt">たきぎ</span><span type="rp">）</span></span>を拾いに来るくらいのもので、この夜更け、しかもこの霧、いまごろ、矢筈の森のなかに人影があろうとも思われないのに、ちょうどその森の真ん中、少し木が開いて茫々とたけなす草が生えているなかに、<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>の火を霧ににじませて、一団の人影がうごめいていた。あの鶯の便にあったとおり、平馬を筆頭に結城藩の若侍一同が、来るべき大仕合の策戦計画に夜中ひそかに集合しているに相違ない。提灯の灯をうけた顔が赤く興奮して、おたがいに霧を透して覗き合いながら、さっきから相談がはずんでいる。話にばかり気を取られていたので、そのすぐそばの木の影に、下妻の鏡之介がこっそり忍んで立ち聞いていたことには、誰一人気のついた者もないようすである。<lb />
-「今年こそは平馬どのが出られるからと思って、我々も安心しているが、ところがここに聞きずてならないのは、下妻のやつらは戦わぬ前に、とても勝算のないのを知って、なんとかして平馬どのを出場不能におとしいれようとして、つけ狙っておると申すではないか。なんと<span type="ruby"><span type="rb">各々方</span><span type="rp">（</span><span type="rt">おのおのがた</span><span type="rp">）</span></span>、この敵の仕打ちはまことに卑怯には相違ないが、この際平馬どのにもしものことがあっては、われわれ一同はまことに<span type="ruby"><span type="rb">困却</span><span type="rp">（</span><span type="rt">こんきゃく</span><span type="rp">）</span></span>つかまつる。もとより勇豪の平馬どののことゆえ、下妻のやつらのごとき、恐るるにもあたるまいが、俗にも言う多勢に<span type="ruby"><span type="rb">無勢</span><span type="rp">（</span><span type="rt">ぶぜい</span><span type="rp">）</span></span>――どうも心配でならぬ」<lb />
+　宵のうちにちょっと顔を見せた月は、間もなく霧に呑まれて、森の<seg type="ruby"><seg type="rb">木</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">下闇</seg><seg type="rp">（</seg><seg type="rt">したやみ</seg><seg type="rp">）</seg></seg>は鼻をつままれてもわからない暗さだった。結城の藩と下妻との間に、横笛川という一筋の流れ。その川に月見橋の架かっていることは前にも言ったが、その月見橋を少し結城の方へ寄った所に、矢筈の森というこんもりと茂った森があった。昼は時々城下の百姓や町人が、<seg type="ruby"><seg type="rb">薪木</seg><seg type="rp">（</seg><seg type="rt">たきぎ</seg><seg type="rp">）</seg></seg>を拾いに来るくらいのもので、この夜更け、しかもこの霧、いまごろ、矢筈の森のなかに人影があろうとも思われないのに、ちょうどその森の真ん中、少し木が開いて茫々とたけなす草が生えているなかに、<seg type="ruby"><seg type="rb">提灯</seg><seg type="rp">（</seg><seg type="rt">ちょうちん</seg><seg type="rp">）</seg></seg>の火を霧ににじませて、一団の人影がうごめいていた。あの鶯の便にあったとおり、平馬を筆頭に結城藩の若侍一同が、来るべき大仕合の策戦計画に夜中ひそかに集合しているに相違ない。提灯の灯をうけた顔が赤く興奮して、おたがいに霧を透して覗き合いながら、さっきから相談がはずんでいる。話にばかり気を取られていたので、そのすぐそばの木の影に、下妻の鏡之介がこっそり忍んで立ち聞いていたことには、誰一人気のついた者もないようすである。<lb />
+「今年こそは平馬どのが出られるからと思って、我々も安心しているが、ところがここに聞きずてならないのは、下妻のやつらは戦わぬ前に、とても勝算のないのを知って、なんとかして平馬どのを出場不能におとしいれようとして、つけ狙っておると申すではないか。なんと<seg type="ruby"><seg type="rb">各々方</seg><seg type="rp">（</seg><seg type="rt">おのおのがた</seg><seg type="rp">）</seg></seg>、この敵の仕打ちはまことに卑怯には相違ないが、この際平馬どのにもしものことがあっては、われわれ一同はまことに<seg type="ruby"><seg type="rb">困却</seg><seg type="rp">（</seg><seg type="rt">こんきゃく</seg><seg type="rp">）</seg></seg>つかまつる。もとより勇豪の平馬どののことゆえ、下妻のやつらのごとき、恐るるにもあたるまいが、俗にも言う多勢に<seg type="ruby"><seg type="rb">無勢</seg><seg type="rp">（</seg><seg type="rt">ぶぜい</seg><seg type="rp">）</seg></seg>――どうも心配でならぬ」<lb />
 　こう言って一人が分別顔に一同の顔を見廻すと、それに応じてまた他の者が口を出す。<lb />
 「さればさ。その憂慮に堪えんからこそ、今宵御一同にお集りを願って、あらためて平馬どのに特別に自重用心なさるようお願いしたわけだが――」<lb />
 「ところが平馬どのがわれわれの注意を鼻であしらって、いっこう意にとめて下さらんのは、いささか心外」<lb />
@@ -154,57 +154,57 @@
 　こう言ってみんなが考えこむと、すぐに平馬の声があとを引き取って、<lb />
 「各々方の忠言、まことにありがたい。ありがたくはござるが、この平馬、下妻のやつらなど少しも恐れてはおりませぬ。先方が仕合前に、そんな小策を弄して拙者の出場を邪魔だてしようというのなら、拙者にも考えがござる！」<lb />
 「考えとは、どういう考えです？」<lb />
-「ほかでもござらぬ。そんなにやつらが、拙者を狙っているなら、今宵これから拙者が単身下妻の城下へ乗り込んで、大通りにふんぞりかえって、眠って見せてやろうと考える。朝になればどうせ拙者を見つけて、大さわぎをするであろうが、そこで拙者が、眼を擦りこすり<span rend="SESAME_DOT" rendition="strong">むっくり</span>起き上って、下妻城下のやつらを<span type="ruby"><span type="rb">白眼</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>みかえして帰って来るのだ。先んずれば人を制す。こうして出はなを<span type="ruby"><span type="rb">挫</span><span type="rp">（</span><span type="rt">くじ</span><span type="rp">）</span></span>いてやれば、さぞ痛快だろうではないか？」<lb />
-　平馬のこの<span type="ruby"><span type="rb">突飛</span><span type="rp">（</span><span type="rt">とっぴ</span><span type="rp">）</span></span>な申出には、大分反対の声が湧いた。そうとう腕の立つ連中が大勢、刀に手をかけて探しているのに、そこへこっちから乗り込んで行くというのは、まことに危険な物好であると言わなければならない。<lb />
+「ほかでもござらぬ。そんなにやつらが、拙者を狙っているなら、今宵これから拙者が単身下妻の城下へ乗り込んで、大通りにふんぞりかえって、眠って見せてやろうと考える。朝になればどうせ拙者を見つけて、大さわぎをするであろうが、そこで拙者が、眼を擦りこすり<seg rend="SESAME_DOT" rendition="strong">むっくり</seg>起き上って、下妻城下のやつらを<seg type="ruby"><seg type="rb">白眼</seg><seg type="rp">（</seg><seg type="rt">にら</seg><seg type="rp">）</seg></seg>みかえして帰って来るのだ。先んずれば人を制す。こうして出はなを<seg type="ruby"><seg type="rb">挫</seg><seg type="rp">（</seg><seg type="rt">くじ</seg><seg type="rp">）</seg></seg>いてやれば、さぞ痛快だろうではないか？」<lb />
+　平馬のこの<seg type="ruby"><seg type="rb">突飛</seg><seg type="rp">（</seg><seg type="rt">とっぴ</seg><seg type="rp">）</seg></seg>な申出には、大分反対の声が湧いた。そうとう腕の立つ連中が大勢、刀に手をかけて探しているのに、そこへこっちから乗り込んで行くというのは、まことに危険な物好であると言わなければならない。<lb />
 「一人で行くのか」<lb />
 「もちろん一人で行く」<lb />
 「しかし、それも面白いが、この霧をはらしてからにしたまえ。この深夜の霧の中を敵地へ踏み込むのは、みすみす敵の術中に陥るようなものだ」<lb />
 　と、みんなが口を揃えて思い止まらせようとしたが、平馬はいっかな聞かなかった。<lb />
 「なに、これから行って一泡吹かせてやるのが面白いのだ」<lb />
 　こう言って頑張りとおしたすえ、とうとう平馬が一人でこの霧の深夜に月見橋を渡って下妻の里へ乗り込んで行くことになった。<lb />
-　ここまで聞くと木の影の鏡之介、今夜こそ好機、途中待ち伏せして、大勢でひどい目に合わしてやろう。ことによったら斬り殺してもかまわぬと思いながら、急いで立ち上って森を出ると、<span type="ruby"><span type="rb">韋駄天走</span><span type="rp">（</span><span type="rt">いだてんばし</span><span type="rp">）</span></span>りに自藩の方へ駈け出した。<lb />
+　ここまで聞くと木の影の鏡之介、今夜こそ好機、途中待ち伏せして、大勢でひどい目に合わしてやろう。ことによったら斬り殺してもかまわぬと思いながら、急いで立ち上って森を出ると、<seg type="ruby"><seg type="rb">韋駄天走</seg><seg type="rp">（</seg><seg type="rt">いだてんばし</seg><seg type="rp">）</seg></seg>りに自藩の方へ駈け出した。<lb />
 　あとには、森の奥の結城組一同、平馬を中心に小さな輪に集って、額を突き合わして何事か真剣に談合している。<lb />
-　霧が濃くなったとみえて一同の肩が重く湿る。近くの木で、ホウ、ホウと二声、<span type="ruby"><span type="rb">梟</span><span type="rp">（</span><span type="rt">ふくろ</span><span type="rp">）</span></span>が啼いた。<lb />
+　霧が濃くなったとみえて一同の肩が重く湿る。近くの木で、ホウ、ホウと二声、<seg type="ruby"><seg type="rb">梟</seg><seg type="rp">（</seg><seg type="rt">ふくろ</seg><seg type="rp">）</seg></seg>が啼いた。<lb />
 <lb />
 　　　濃霧の夜<lb />
 <lb />
 「それではそこらまで送って進ぜよう」<lb />
-　いつの間に帰ったものか、集っていた人数の大部分がいなくなって、森に残っていたのは、平馬を取り巻く三人の友達だけだった。それが、月見橋の<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>まででも平馬を送って行くということになって、四人、霧の中に提灯をともして、矢筈の森を後にした。<lb />
-　やがて来かかったのが月見橋<span type="ruby"><span type="rb">橋畔</span><span type="rp">（</span><span type="rt">きょうはん</span><span type="rp">）</span></span>。<lb />
-　霧の奥に川の水音が寒々しく流れて、<span type="ruby"><span type="rb">寂寞</span><span type="rp">（</span><span type="rt">じゃくまく</span><span type="rp">）</span></span>たる深夜のたたずまい。<lb />
-　と、橋の袂に<span rend="SESAME_DOT" rendition="strong">ぽつり</span>と一つ提灯の灯が見えて、何やら黒い人影が――。<lb />
+　いつの間に帰ったものか、集っていた人数の大部分がいなくなって、森に残っていたのは、平馬を取り巻く三人の友達だけだった。それが、月見橋の<seg type="ruby"><seg type="rb">袂</seg><seg type="rp">（</seg><seg type="rt">たもと</seg><seg type="rp">）</seg></seg>まででも平馬を送って行くということになって、四人、霧の中に提灯をともして、矢筈の森を後にした。<lb />
+　やがて来かかったのが月見橋<seg type="ruby"><seg type="rb">橋畔</seg><seg type="rp">（</seg><seg type="rt">きょうはん</seg><seg type="rp">）</seg></seg>。<lb />
+　霧の奥に川の水音が寒々しく流れて、<seg type="ruby"><seg type="rb">寂寞</seg><seg type="rp">（</seg><seg type="rt">じゃくまく</seg><seg type="rp">）</seg></seg>たる深夜のたたずまい。<lb />
+　と、橋の袂に<seg rend="SESAME_DOT" rendition="strong">ぽつり</seg>と一つ提灯の灯が見えて、何やら黒い人影が――。<lb />
 　近づいて見ると、橋に丸太を打ちつけて、それに紙が貼ってある。<lb />
-　　<span rendition="b">橋の中央破損につき通行禁止の事</span><lb />
+　　<seg rendition="b">橋の中央破損につき通行禁止の事</seg><lb />
 　平馬が提灯をつきつけると、こう読めた。提灯を持って番人が立っている。<lb />
 「どうしたのだ？　橋の真中がこわれたとあるが――」<lb />
 　平馬たちが番人を返りみると、番人の男は続けさまにおじぎをしながら、<lb />
 「へい。どうしたものか真中から少し下妻の方へ寄ったところが落ちまして、通れないほどではございませんが、なにぶんこの霧で危のうございますから、いっそ通行を禁じた方がよかろうということになりましたので、へい」<lb />
 「いつから禁止になったのだ？」<lb />
 「いえ、つい今しがたでございます。いま手前が来て通行止の丸太を打ちましたところで」<lb />
-　平馬はそれを聞き流したまま平気で丸太を乗り越えたかと思うと、そのまま橋の上の霧に消えて行った。番人も仕方がないから、<span rend="SESAME_DOT" rendition="strong">ぶつぶつ</span>言いながら、後に残った三人の友達と話していた。<lb />
+　平馬はそれを聞き流したまま平気で丸太を乗り越えたかと思うと、そのまま橋の上の霧に消えて行った。番人も仕方がないから、<seg rend="SESAME_DOT" rendition="strong">ぶつぶつ</seg>言いながら、後に残った三人の友達と話していた。<lb />
 　月見橋。<lb />
-　名は美しいが、今夜は月どころか、ひどい霧である。まるで雨が降っているように、<span type="ruby"><span type="rb">欄干</span><span type="rp">（</span><span type="rt">らんかん</span><span type="rp">）</span></span>から橋板が<span rend="SESAME_DOT" rendition="strong">びっしょり</span>濡れて、ともすれば<span type="ruby"><span type="rb">辷</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>りそうになる足を踏みこたえながら、平馬は大刀の柄に手をかけて、<span rend="SESAME_DOT" rendition="strong">きっ</span>と先方に眼を凝らして進んだ。<lb />
+　名は美しいが、今夜は月どころか、ひどい霧である。まるで雨が降っているように、<seg type="ruby"><seg type="rb">欄干</seg><seg type="rp">（</seg><seg type="rt">らんかん</seg><seg type="rp">）</seg></seg>から橋板が<seg rend="SESAME_DOT" rendition="strong">びっしょり</seg>濡れて、ともすれば<seg type="ruby"><seg type="rb">辷</seg><seg type="rp">（</seg><seg type="rt">すべ</seg><seg type="rp">）</seg></seg>りそうになる足を踏みこたえながら、平馬は大刀の柄に手をかけて、<seg rend="SESAME_DOT" rendition="strong">きっ</seg>と先方に眼を凝らして進んだ。<lb />
 　と！<lb />
 　橋の中央にさしかかった時だった。ゆくてに赤っぽい提灯の光が見え出すが早いか、ばたばたと大勢の足音がとんで来て、突如、霧の中から躍り出た二十人余の人数が、橋上に平馬を取り囲んだ。<lb />
-「<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span>は結城藩の平馬であろう？」<lb />
+「<seg type="ruby"><seg type="rb">汝</seg><seg type="rp">（</seg><seg type="rt">なんじ</seg><seg type="rp">）</seg></seg>は結城藩の平馬であろう？」<lb />
 　先に立った一人が言った――千草の兄鏡之介である。<lb />
 「平馬、俺がさっき貴様らの会合に忍んで、貴様の来るのを知って、ここに待ち伏せしていたのだ。奉納仕合の前に真剣勝負だ。来いっ！」<lb />
-　叫ぶと見るや、鏡之介、真庭念流の覚えの腕に、氷刀一時に閃めいて、<span rend="SESAME_DOT" rendition="strong">さっ</span>と平馬の退路に立つ。同時に、下妻方の人数一同、きらり、きらりと抜きつれて迫った。<lb />
+　叫ぶと見るや、鏡之介、真庭念流の覚えの腕に、氷刀一時に閃めいて、<seg rend="SESAME_DOT" rendition="strong">さっ</seg>と平馬の退路に立つ。同時に、下妻方の人数一同、きらり、きらりと抜きつれて迫った。<lb />
 　霧に煙る剣陣。<lb />
-　だが、少しも驚かない平馬。<span rend="SESAME_DOT" rendition="strong">ぱっ</span>と羽織を脱ぎ捨てるが早いか、とっさに豪刀の<span type="ruby"><span type="rb">鞘</span><span type="rp">（</span><span type="rt">さや</span><span type="rp">）</span></span>を払って、一声大声にどなった。<lb />
+　だが、少しも驚かない平馬。<seg rend="SESAME_DOT" rendition="strong">ぱっ</seg>と羽織を脱ぎ捨てるが早いか、とっさに豪刀の<seg type="ruby"><seg type="rb">鞘</seg><seg type="rp">（</seg><seg type="rt">さや</seg><seg type="rp">）</seg></seg>を払って、一声大声にどなった。<lb />
 「さあ、みんな出て来い！　俺はこの鏡之介を相手にするから、各々方はこやつらを斬り散らして下されい」<lb />
 　すると、この声に応じて、橋の下の横柱から無数の黒装束が蟻の群のように、橋の上へ這い上った。十人。十五人。二十人。三十人――結城の伏勢である。<lb />
-　ここで霧の中の月見橋の上に、一大争闘の場面が現出したが、結果は分明だった。多勢に無勢をもって、平馬一人を取っちめようとした鏡之介ほか下妻の一同も、二十人に対する三十人以上では、同じく多勢に無勢で、かえって<span type="ruby"><span type="rb">蜘蛛</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>の子を散らすように退散しなければならなかった。<lb />
+　ここで霧の中の月見橋の上に、一大争闘の場面が現出したが、結果は分明だった。多勢に無勢をもって、平馬一人を取っちめようとした鏡之介ほか下妻の一同も、二十人に対する三十人以上では、同じく多勢に無勢で、かえって<seg type="ruby"><seg type="rb">蜘蛛</seg><seg type="rp">（</seg><seg type="rt">くも</seg><seg type="rp">）</seg></seg>の子を散らすように退散しなければならなかった。<lb />
 　平馬は、斬ろうと思えばいくらでも鏡之介を斬り捨てることができたけれど、あの優しい千草の兄と思えば、平馬にはそれはできなかった。<lb />
 　わざと下妻の者をおびき寄せて森の奥の密談を聞かせ、それから橋の下に伏兵を忍ばせておいて、平馬ひとりが橋を渡るという――これはすべて平馬の計画で、手紙を齎した鸞は、平馬の愛している飼鳥であった。こうして敵をおびき出して逆にその裏をかいたのである。もとより橋の壊れたというのも敵の計で、乱闘中に結城方からの邪魔を入れないためにほかならなかったが、その番人も平馬の友達三人のためにすぐに押えられていた。<lb />
-　その夜明け、傷ついた鏡之介が、平馬の肩に<span type="ruby"><span type="rb">縋</span><span type="rp">（</span><span type="rt">すが</span><span type="rp">）</span></span>って、あの鶯の宿にとどけられた。<lb />
+　その夜明け、傷ついた鏡之介が、平馬の肩に<seg type="ruby"><seg type="rb">縋</seg><seg type="rp">（</seg><seg type="rt">すが</seg><seg type="rp">）</seg></seg>って、あの鶯の宿にとどけられた。<lb />
 　そのお礼として千草は平馬に、いつかの鶯を呈したので、豪雄平馬、二羽の鶯を大事に飼うことになった。<lb />
-　この鶯の啼き交わす<span type="ruby"><span type="rb">長閑</span><span type="rp">（</span><span type="rt">のどか</span><span type="rp">）</span></span>な美しい声に結ばれて、さしも長い間わだかまっていた結城、下妻両藩の間の悪感情もとけて、それから後は、両藩の若侍たち、<span type="ruby"><span type="rb">嬉々</span><span type="rp">（</span><span type="rt">きき</span><span type="rp">）</span></span>として邪念なく、<span type="ruby"><span type="rb">和気靄々</span><span type="rp">（</span><span type="rt">わきあいあい</span><span type="rp">）</span></span>のうちに、正しく神前に勝負を争うことになった。武は勝たんがための武ではない。正しく生き、<span type="ruby"><span type="rb">健</span><span type="rp">（</span><span type="rt">すこや</span><span type="rp">）</span></span>かに明るくあらんがための武であり、剣であるということが、この二羽の鶯を見るたびに、いつまでも両藩の若侍たちの胸に力強くひびいたという。<lb />
+　この鶯の啼き交わす<seg type="ruby"><seg type="rb">長閑</seg><seg type="rp">（</seg><seg type="rt">のどか</seg><seg type="rp">）</seg></seg>な美しい声に結ばれて、さしも長い間わだかまっていた結城、下妻両藩の間の悪感情もとけて、それから後は、両藩の若侍たち、<seg type="ruby"><seg type="rb">嬉々</seg><seg type="rp">（</seg><seg type="rt">きき</seg><seg type="rp">）</seg></seg>として邪念なく、<seg type="ruby"><seg type="rb">和気靄々</seg><seg type="rp">（</seg><seg type="rt">わきあいあい</seg><seg type="rp">）</seg></seg>のうちに、正しく神前に勝負を争うことになった。武は勝たんがための武ではない。正しく生き、<seg type="ruby"><seg type="rb">健</seg><seg type="rp">（</seg><seg type="rt">すこや</seg><seg type="rp">）</seg></seg>かに明るくあらんがための武であり、剣であるということが、この二羽の鶯を見るたびに、いつまでも両藩の若侍たちの胸に力強くひびいたという。<lb />
 　平馬はもとから自分の飼っていた鶯を結城と呼び、千草鏡之介、兄妹から贈られた鶯を下妻と名づけて、毎年、筑波神社祭礼の奉納仕合の庭には必ずこの二羽の鶯を同じ籠に入れて、提げて行ったとのことである。<lb />
 　筑波おろしの春風のなかに、ホウホケキョと鶯が啼くとき、若侍は公正な微笑を交わして勇ましく立ち合うのだった――。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

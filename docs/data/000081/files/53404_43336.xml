@@ -32,8 +32,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-百合掘ると　　<span type="ruby"><span type="rb">唐鍬</span><span type="rp">（</span><span type="rt">トガ</span><span type="rp">）</span></span>をかたぎつ<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+百合掘ると　　<seg type="ruby"><seg type="rb">唐鍬</seg><seg type="rp">（</seg><seg type="rt">トガ</seg><seg type="rp">）</seg></seg>をかたぎつ<lb />
 ひと恋ひて　　林に行けば<lb />
 濁り田に　　　白き日輪<lb />
 くるほしく　　うつりゆれたる<lb />
@@ -55,6 +55,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

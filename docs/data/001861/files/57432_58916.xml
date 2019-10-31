@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-03-04">作成</resp><resp /><note>
 <lb />
-底本：「ふるさと文学館　第三三巻　【大阪<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
+底本：「ふるさと文学館　第三三巻　【大阪<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
 　　　1995（平成7）年8月15日初版発行<lb />
 底本の親本：「現代日本文学全集　89」筑摩書房<lb />
 　　　1975（昭和50）年<lb />
@@ -35,13 +35,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 吾老いぬれど<lb />
 仙家に入らず<lb />
 茶烟軽く<lb />
-紅塵の<span type="ruby"><span type="rb">裡</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に住む<lb />
+紅塵の<seg type="ruby"><seg type="rb">裡</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>に住む<lb />
 <lb />
-<span type="ruby"><span type="rb">柴門</span><span type="rp">（</span><span type="rt">さいもん</span><span type="rp">）</span></span>を守るは<lb />
+<seg type="ruby"><seg type="rb">柴門</seg><seg type="rp">（</seg><seg type="rt">さいもん</seg><seg type="rp">）</seg></seg>を守るは<lb />
 吾家の月<lb />
 竹窓に吹くは<lb />
 隣家の風<lb />
@@ -49,12 +49,12 @@
 人来れば<lb />
 迎へて会ふ<lb />
 人去れば<lb />
-<span type="ruby"><span type="rb">吾座</span><span type="rp">（</span><span type="rt">わがざ</span><span type="rp">）</span></span>にもどる<lb />
+<seg type="ruby"><seg type="rb">吾座</seg><seg type="rp">（</seg><seg type="rt">わがざ</seg><seg type="rp">）</seg></seg>にもどる<lb />
 <lb />
 眠り足りて<lb />
 夢なく<lb />
 起きて<lb />
-<span type="ruby"><span type="rb">倦</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>むことなし<lb />
+<seg type="ruby"><seg type="rb">倦</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>むことなし<lb />
 <lb />
 昼には<lb />
 昼に書くことあり<lb />
@@ -62,7 +62,7 @@
 夜に語ることあり<lb />
 <lb />
 世にあづけたる<lb />
-わが<span type="ruby"><span type="rb">寿</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>は<lb />
+わが<seg type="ruby"><seg type="rb">寿</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>は<lb />
 時来らば<lb />
 世に返さむ<lb />
 <lb />
@@ -78,6 +78,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

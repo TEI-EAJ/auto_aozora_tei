@@ -31,13 +31,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 へちま<lb />
 垂れてる<lb />
 青い窓――<lb />
 <lb />
 ピアノの<lb />
-<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>してた<lb />
+<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>してた<lb />
 青い窓――<lb />
 <lb />
 だれだか<lb />
@@ -58,6 +58,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

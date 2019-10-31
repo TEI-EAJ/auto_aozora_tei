@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="1997-09-11">作成</resp><resp /><note>
 <lb />
-底本：「立原道造全集　第1卷　詩集1<span rend="notes">［＃「1」はローマ数字、1-13-21］</span>」角川書店
+底本：「立原道造全集　第1卷　詩集1<seg rend="notes" rendition="span">［＃「1」はローマ数字、1-13-21］</seg>」角川書店
 <lb />
 　　　1971（昭和46）年6月20日初版発行<lb />
 底本の親本：「萱草に寄す」風信子叢書刊行会（自費出版）<lb />
@@ -37,15 +37,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 SONATINE<lb />
 　No.1<lb />
-</span>
-<span rend="notes">［＃改ページ］</span><lb />
+</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　はじめてのものに<lb />
 <lb />
@@ -67,7 +67,7 @@ SONATINE<lb />
 いかな日にみねに灰の煙の立ち初めたか<lb />
 火の山の物語と……また幾夜さかは　果して夢に<lb />
 その夜習つたエリーザベトの物語を織つた<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　またある夜に<lb />
 <lb />
@@ -89,9 +89,9 @@ SONATINE<lb />
 私らは二たび逢はぬであらう　昔おもふ<lb />
 月のかがみはあのよるをうつしてゐると<lb />
 私らはただそれをくりかへすであらう<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-　<span type="ruby"><span type="rb">晩</span><span type="rp">（</span><span type="rt">おそ</span><span type="rp">）</span></span>き日の夕べに<lb />
+　<seg type="ruby"><seg type="rb">晩</seg><seg type="rp">（</seg><seg type="rt">おそ</seg><seg type="rp">）</seg></seg>き日の夕べに<lb />
 <lb />
 <lb />
 大きな大きなめぐりが用意されてゐるが<lb />
@@ -111,7 +111,7 @@ SONATINE<lb />
 私らの夢はどこにめぐるのであらう<lb />
 ひそかに　しかしいたいたしく<lb />
 その日も　あの日も賢いしづかさに？<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　わかれる昼に<lb />
 <lb />
@@ -127,13 +127,13 @@ SONATINE<lb />
 きのふの私のうたつてゐたままに<lb />
 <lb />
 弱い心を　投げあげろ<lb />
-噛みすてた青くさい<span type="ruby"><span type="rb">核</span><span type="rp">（</span><span type="rt">たね</span><span type="rp">）</span></span>を放るやうに<lb />
+噛みすてた青くさい<seg type="ruby"><seg type="rb">核</seg><seg type="rp">（</seg><seg type="rt">たね</seg><seg type="rp">）</seg></seg>を放るやうに<lb />
 ゆさぶれ　ゆさぶれ<lb />
 <lb />
 ひとよ<lb />
 いろいろなものがやさしく見いるので<lb />
 唇を噛んで　私は憤ることが出来ないやうだ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　のちのおもひに<lb />
 <lb />
@@ -155,10 +155,10 @@ SONATINE<lb />
 夢は　真冬の追憶のうちに凍るであらう<lb />
 そして　それは戸をあけて　寂寥のなかに<lb />
 星くづにてらされた道を過ぎ去るであらう<lb />
-<span rend="notes">［＃改丁］</span><lb />
+<seg rend="notes" rendition="span">［＃改丁］</seg><lb />
 <lb />
 　　夏花の歌<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　その一<lb />
 <lb />
@@ -179,7 +179,7 @@ SONATINE<lb />
 あの日のをとめのほほゑみは<lb />
 なぜだか　僕は知らないけれど<lb />
 しかし　かたくつめたく　横顔ばかり<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　その二<lb />
 <lb />
@@ -200,19 +200,19 @@ SONATINE<lb />
 あの日たち　あの日たち　帰つておくれ<lb />
 僕は　大きくなつた　溢れるまでに<lb />
 僕は　かなしみ顫へてゐる<lb />
-<span rend="notes">［＃改丁］</span><lb />
+<seg rend="notes" rendition="span">［＃改丁］</seg><lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 SONATINE<lb />
 　No.2<lb />
-</span>
-<span rend="notes">［＃改ページ］</span><lb />
+</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　虹とひとと<lb />
 <lb />
 <lb />
 雨あがりのしづかな風がそよいでゐた　あのとき<lb />
-叢は露の雫にまだ濡れて　蜘蛛の<span type="ruby"><span type="rb">念珠</span><span type="rp">（</span><span type="rt">おじゆず</span><span type="rp">）</span></span>も光つてゐた<lb />
+叢は露の雫にまだ濡れて　蜘蛛の<seg type="ruby"><seg type="rb">念珠</seg><seg type="rp">（</seg><seg type="rt">おじゆず</seg><seg type="rp">）</seg></seg>も光つてゐた<lb />
 東の空には　ゆるやかな虹がかかつてゐた<lb />
 僕らはだまつて立つてゐた　黙つて！<lb />
 <lb />
@@ -228,13 +228,13 @@ SONATINE<lb />
 おまへの睫毛にも　ちひさな虹が憩んでゐることだらう<lb />
 （しかしおまへはもう僕を愛してゐない<lb />
 僕はもうおまへを愛してゐない）<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　夏の弔ひ<lb />
 <lb />
 <lb />
 逝いた私の時たちが<lb />
-私の心を<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>にした　傷つかぬやう傷は早く愎るやうにと<lb />
+私の心を<seg type="ruby"><seg type="rb">金</seg><seg type="rp">（</seg><seg type="rt">きん</seg><seg type="rp">）</seg></seg>にした　傷つかぬやう傷は早く愎るやうにと<lb />
 昨日と明日との間には<lb />
 ふかい紺青の溝がひかれて過ぎてゐる<lb />
 <lb />
@@ -250,7 +250,7 @@ SONATINE<lb />
 おぼえてゐたら！　私はもう一度かへりたい<lb />
 どこか？　あの場所へ（あの記憶がある<lb />
 私が待ち　それを　しづかに諦めた――）<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　忘れてしまつて<lb />
 <lb />
@@ -275,6 +275,6 @@ SONATINE<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-01-12">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：良本典代<lb />
@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 白昼だから　秋だから　原つぱは白かつた<lb />
 白昼だから　秋だから　空も白かつた<lb />
 原つぱのまんなかでひとり<lb />
@@ -39,11 +39,11 @@
 赤いズボンはいて喇叭を吹いてゐた<lb />
 白昼だから　秋だから　原つぱは廻つてゐた<lb />
 白昼だから　秋だから　空も廻つてゐた<lb />
-赤い<span type="ruby"><span type="rb">心</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>が澄んで廻つてゐた<lb />
+赤い<seg type="ruby"><seg type="rb">心</seg><seg type="rp">（</seg><seg type="rt">しん</seg><seg type="rp">）</seg></seg>が澄んで廻つてゐた<lb />
 喇叭を吹いて廻つてゐた<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

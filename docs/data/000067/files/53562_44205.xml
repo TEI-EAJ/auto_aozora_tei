@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ちまた、ちまたを歩むとも<lb />
 ちまた、ちまたに散らばへる<lb />
 秋の光をいかにせむ<lb />
@@ -44,10 +44,10 @@
 うすき女の移り香も<lb />
 今朝の野分に吹き散りて<lb />
 水は涼しく流れたり<lb />
-<span type="ruby"><span type="rb">薄荷</span><span type="rp">（</span><span type="rt">はつか</span><span type="rp">）</span></span>に似たるうす涙<lb />
+<seg type="ruby"><seg type="rb">薄荷</seg><seg type="rp">（</seg><seg type="rt">はつか</seg><seg type="rp">）</seg></seg>に似たるうす涙<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

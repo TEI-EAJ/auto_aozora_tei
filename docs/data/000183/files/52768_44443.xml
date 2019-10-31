@@ -36,11 +36,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em">
 一、趣味娯楽　二、好物料理　三、和洋装いづれを好まれますか<lb />
 四、御交友名二三　五、今夏旅行御予定は？<lb />
-</span>
+</seg>
 <lb />
 一、遠足、日本酒、オートバイドライブ。<lb />
 二、西洋料理、初夏の野菜、淡白な魚類。<lb />
@@ -50,6 +50,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

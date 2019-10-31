@@ -32,11 +32,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 銭湯へゆく<lb />
 麦畑をとおる<lb />
 オムレツ形の月<lb />
-大きな<span type="ruby"><span type="rb">暈</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>をきて<lb />
+大きな<seg type="ruby"><seg type="rb">暈</seg><seg type="rp">（</seg><seg type="rt">かさ</seg><seg type="rp">）</seg></seg>をきて<lb />
 ひとりぼっち<lb />
 熟れた麦<lb />
 強くにおう<lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

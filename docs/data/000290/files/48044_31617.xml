@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2008-05-20">作成</resp><resp /><note>
 <lb />
-底本：「一人三人全集1<span rend="notes">［＃「1」はローマ数字、1-13-21］</span>時代捕物釘抜藤吉捕物覚書」河出書房新社
+底本：「一人三人全集1<seg rend="notes" rendition="span">［＃「1」はローマ数字、1-13-21］</seg>時代捕物釘抜藤吉捕物覚書」河出書房新社
 <lb />
 　　　1970（昭和45）年1月15日初版発行<lb />
 入力：川山隆<lb />
@@ -32,73 +32,73 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 　　　　　　一<lb />
 <lb />
-　三十間堀の色物席<span type="ruby"><span type="rb">柳江亭</span><span type="rp">（</span><span type="rt">りゅうこうてい</span><span type="rp">）</span></span>の軒に、懸け行燈が油紙に包まれて、雨に煙っていた。<lb />
-　珍しいものが掛っていて、席桟敷は大入り満員なのだった。人いきれとたばこで、むっとする空気の向うに、高座の、ちょうど<span type="ruby"><span type="rb">落語</span><span type="rp">（</span><span type="rt">はなし</span><span type="rp">）</span></span>家の坐る、左右に、脚の長い<span type="ruby"><span type="rb">対</span><span type="rp">（</span><span type="rt">つい</span><span type="rp">）</span></span>の燭台の灯が、薄暗く揺れて、観客のぎっしり詰まった場内を、影の多いものに見せていた。<lb />
+　三十間堀の色物席<seg type="ruby"><seg type="rb">柳江亭</seg><seg type="rp">（</seg><seg type="rt">りゅうこうてい</seg><seg type="rp">）</seg></seg>の軒に、懸け行燈が油紙に包まれて、雨に煙っていた。<lb />
+　珍しいものが掛っていて、席桟敷は大入り満員なのだった。人いきれとたばこで、むっとする空気の向うに、高座の、ちょうど<seg type="ruby"><seg type="rb">落語</seg><seg type="rp">（</seg><seg type="rt">はなし</seg><seg type="rp">）</seg></seg>家の坐る、左右に、脚の長い<seg type="ruby"><seg type="rb">対</seg><seg type="rp">（</seg><seg type="rt">つい</seg><seg type="rp">）</seg></seg>の燭台の灯が、薄暗く揺れて、観客のぎっしり詰まった場内を、影の多いものに見せていた。<lb />
 　扇子を使いたい暑さだったが、誰も身動きするものもなかった。その年は夏が早いのか、五月だというのに、人の集まるところでは、もう、どうかすると、こうしてじっとしていても汗ばむくらいだった。<lb />
-　軍談、落語、音曲、<span type="ruby"><span type="rb">操</span><span type="rp">（</span><span type="rt">あやつ</span><span type="rp">）</span></span>り人形、<span type="ruby"><span type="rb">声色</span><span type="rp">（</span><span type="rt">こわいろ</span><span type="rp">）</span></span>、物真似、<span type="ruby"><span type="rb">浄瑠璃</span><span type="rp">（</span><span type="rt">じょうるり</span><span type="rp">）</span></span>、八人芸、浮かれ節、影絵など、大もの揃いで、賑やかな席である。ことに、越後の山奥とかから出て来たという、力持ちの大石武右衛門が人気を呼んで、このところ柳江亭は連夜木戸打止めの盛況だった。<lb />
-　いま高座に出ているのは、若いが達者な、はなし家の浮世亭<span type="ruby"><span type="rb">円枝</span><span type="rp">（</span><span type="rt">えんし</span><span type="rp">）</span></span>である。刷毛目の立った<span type="ruby"><span type="rb">微塵縞</span><span type="rp">（</span><span type="rt">みじんじま</span><span type="rp">）</span></span>の膝に両手を重ねて、<lb />
+　軍談、落語、音曲、<seg type="ruby"><seg type="rb">操</seg><seg type="rp">（</seg><seg type="rt">あやつ</seg><seg type="rp">）</seg></seg>り人形、<seg type="ruby"><seg type="rb">声色</seg><seg type="rp">（</seg><seg type="rt">こわいろ</seg><seg type="rp">）</seg></seg>、物真似、<seg type="ruby"><seg type="rb">浄瑠璃</seg><seg type="rp">（</seg><seg type="rt">じょうるり</seg><seg type="rp">）</seg></seg>、八人芸、浮かれ節、影絵など、大もの揃いで、賑やかな席である。ことに、越後の山奥とかから出て来たという、力持ちの大石武右衛門が人気を呼んで、このところ柳江亭は連夜木戸打止めの盛況だった。<lb />
+　いま高座に出ているのは、若いが達者な、はなし家の浮世亭<seg type="ruby"><seg type="rb">円枝</seg><seg type="rp">（</seg><seg type="rt">えんし</seg><seg type="rp">）</seg></seg>である。刷毛目の立った<seg type="ruby"><seg type="rb">微塵縞</seg><seg type="rp">（</seg><seg type="rt">みじんじま</seg><seg type="rp">）</seg></seg>の膝に両手を重ねて、<lb />
 「ええ、手前どものほうでたびたび申し上げますのがお道楽のおうわさで――。」<lb />
 　はじめている。<lb />
 　客はみな、今に来る笑いを待ち構えるような顔で、円枝の口元を見詰めながら聞き入っていた。<lb />
-　うしろのほうの通路に近く、柱を背負ってすわっているのが釘抜藤吉だった。<span type="ruby"><span type="rb">万筋</span><span type="rp">（</span><span type="rt">まんすじ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">唐桟</span><span type="rp">（</span><span type="rt">とうざん</span><span type="rp">）</span></span>のふところへ両腕を引っ込めて、だらしなくはだけた襟元から出した手で顎を支えて眠ってでもいるのか、それとも、何かほかのことを考えているのかもしれない。固く眼をつぶってしきりに渋い顔を傾けているのである。<lb />
-　機嫌の悪い時は、苦虫を噛みつぶしたように、何日も口をきかないのが藤吉親分の癖だった。<span type="ruby"><span type="rb">乾児</span><span type="rp">（</span><span type="rt">こぶん</span><span type="rp">）</span></span>の勘弁勘次や<span type="ruby"><span type="rb">葬式</span><span type="rp">（</span><span type="rt">とむらい</span><span type="rp">）</span></span>彦兵衛は、その辺の<span rend="SESAME_DOT" rendition="strong">こつ</span>をよく心得ていて、いつも藤吉の口が重くなると触らぬ神に崇りなしと傍へも寄らないように、そっとして置くのだった。そして、そういう場合、藤吉は必ず誰にも知らせずに、大きな事件を手がけているので、しじゅう何かひそかに考えごとをしているふうだった。勘次も彦兵衛も、長年の経験からそれを承知していて、いざ親分の思案がまとまって話があるまでは、何も訊かないことにしていた。<lb />
-「彦、来い。<span type="ruby"><span type="rb">寄席</span><span type="rp">（</span><span type="rt">よせ</span><span type="rp">）</span></span>でも覗くべえ。」<lb />
-　ただこう言って、彦兵衛ひとりを伴に雨の中を、ぶらりと、八丁堀の合点長屋を出て来た釘抜藤吉だった。もちろん木戸御免である。親分の顔にあわてた男衆が、人を分けていい席へ案内しようとするのに、ここで結構と頤をしゃくって、さっさとその柱の根へ<span type="ruby"><span type="rb">胡坐</span><span type="rp">（</span><span type="rt">あぐら</span><span type="rp">）</span></span>をかいたのだった。<lb />
+　うしろのほうの通路に近く、柱を背負ってすわっているのが釘抜藤吉だった。<seg type="ruby"><seg type="rb">万筋</seg><seg type="rp">（</seg><seg type="rt">まんすじ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">唐桟</seg><seg type="rp">（</seg><seg type="rt">とうざん</seg><seg type="rp">）</seg></seg>のふところへ両腕を引っ込めて、だらしなくはだけた襟元から出した手で顎を支えて眠ってでもいるのか、それとも、何かほかのことを考えているのかもしれない。固く眼をつぶってしきりに渋い顔を傾けているのである。<lb />
+　機嫌の悪い時は、苦虫を噛みつぶしたように、何日も口をきかないのが藤吉親分の癖だった。<seg type="ruby"><seg type="rb">乾児</seg><seg type="rp">（</seg><seg type="rt">こぶん</seg><seg type="rp">）</seg></seg>の勘弁勘次や<seg type="ruby"><seg type="rb">葬式</seg><seg type="rp">（</seg><seg type="rt">とむらい</seg><seg type="rp">）</seg></seg>彦兵衛は、その辺の<seg rend="SESAME_DOT" rendition="strong">こつ</seg>をよく心得ていて、いつも藤吉の口が重くなると触らぬ神に崇りなしと傍へも寄らないように、そっとして置くのだった。そして、そういう場合、藤吉は必ず誰にも知らせずに、大きな事件を手がけているので、しじゅう何かひそかに考えごとをしているふうだった。勘次も彦兵衛も、長年の経験からそれを承知していて、いざ親分の思案がまとまって話があるまでは、何も訊かないことにしていた。<lb />
+「彦、来い。<seg type="ruby"><seg type="rb">寄席</seg><seg type="rp">（</seg><seg type="rt">よせ</seg><seg type="rp">）</seg></seg>でも覗くべえ。」<lb />
+　ただこう言って、彦兵衛ひとりを伴に雨の中を、ぶらりと、八丁堀の合点長屋を出て来た釘抜藤吉だった。もちろん木戸御免である。親分の顔にあわてた男衆が、人を分けていい席へ案内しようとするのに、ここで結構と頤をしゃくって、さっさとその柱の根へ<seg type="ruby"><seg type="rb">胡坐</seg><seg type="rp">（</seg><seg type="rt">あぐら</seg><seg type="rp">）</seg></seg>をかいたのだった。<lb />
 　それきり眼を閉じて、高座へはすこしの注意も払っていない様子だった。どうせ例の気まぐれだろうが、それにしても、何のためにわざわざ傘をさして寄席へでかけて来たのか、さっぱりわからないと彦兵衛は思った。<lb />
-　気のせいか、今夜は別して、いまにも何か変ったことが起りそうに、藤吉親分が緊張して見えるのだった。ふだん<span type="ruby"><span type="rb">赭</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>黒い顔が蒼く締まって死人のように、澄んで、沈んでいた。白髪まじりの細い<span type="ruby"><span type="rb">髻</span><span type="rp">（</span><span type="rt">もとどり</span><span type="rp">）</span></span>を載せた、横へ広い大きな頭部を振って、黄色い、骨だらけの手で、じゃりじゃり音をさせて角張った顔の無精髯を撫で廻している。<span type="ruby"><span type="rb">金壺眼</span><span type="rp">（</span><span type="rt">かなつぼまなこ</span><span type="rp">）</span></span>、行儀の悪い鼻、釘抜のようにがっしり飛び出た頬骨、無愛想にへの字を作っている口、今に始まったことではないが、どう見てもあんまり人好きのする容貌ではなかった。<lb />
+　気のせいか、今夜は別して、いまにも何か変ったことが起りそうに、藤吉親分が緊張して見えるのだった。ふだん<seg type="ruby"><seg type="rb">赭</seg><seg type="rp">（</seg><seg type="rt">あか</seg><seg type="rp">）</seg></seg>黒い顔が蒼く締まって死人のように、澄んで、沈んでいた。白髪まじりの細い<seg type="ruby"><seg type="rb">髻</seg><seg type="rp">（</seg><seg type="rt">もとどり</seg><seg type="rp">）</seg></seg>を載せた、横へ広い大きな頭部を振って、黄色い、骨だらけの手で、じゃりじゃり音をさせて角張った顔の無精髯を撫で廻している。<seg type="ruby"><seg type="rb">金壺眼</seg><seg type="rp">（</seg><seg type="rt">かなつぼまなこ</seg><seg type="rp">）</seg></seg>、行儀の悪い鼻、釘抜のようにがっしり飛び出た頬骨、無愛想にへの字を作っている口、今に始まったことではないが、どう見てもあんまり人好きのする容貌ではなかった。<lb />
 「日の本は、岩戸かぐらの昔より、女ならでは夜の明けぬ国。」高座から、円枝の声が流れて来ている。「お色気のみなもとはてえと、御婦人だそうでげして――。」<lb />
-　藤吉は、眼をひらいた。<span type="ruby"><span type="rb">眇</span><span type="rp">（</span><span type="rt">すがめ</span><span type="rp">）</span></span>を光らせて、<span type="ruby"><span type="rb">周囲</span><span type="rp">（</span><span type="rt">まわり</span><span type="rp">）</span></span>の人々を見た。苦笑とも<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>ともつかず、口をあけた。煙草で染まった大きな<span type="ruby"><span type="rb">乱杭歯</span><span type="rp">（</span><span type="rt">らんぐいば</span><span type="rp">）</span></span>が見える。<lb />
+　藤吉は、眼をひらいた。<seg type="ruby"><seg type="rb">眇</seg><seg type="rp">（</seg><seg type="rt">すがめ</seg><seg type="rp">）</seg></seg>を光らせて、<seg type="ruby"><seg type="rb">周囲</seg><seg type="rp">（</seg><seg type="rt">まわり</seg><seg type="rp">）</seg></seg>の人々を見た。苦笑とも<seg type="ruby"><seg type="rb">欠伸</seg><seg type="rp">（</seg><seg type="rt">あくび</seg><seg type="rp">）</seg></seg>ともつかず、口をあけた。煙草で染まった大きな<seg type="ruby"><seg type="rb">乱杭歯</seg><seg type="rp">（</seg><seg type="rt">らんぐいば</seg><seg type="rp">）</seg></seg>が見える。<lb />
 　思い切ったように、とむらい彦兵衛が、<lb />
 「親分、お眠そうじゃあごわせんか。帰りやしょうか。」<lb />
 「なあに――。」<lb />
-「円枝は、若えから無理もねえが、<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>うるせえ話しぶりでごぜえますね。」<lb />
+「円枝は、若えから無理もねえが、<seg type="ruby"><seg type="rb">小</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>うるせえ話しぶりでごぜえますね。」<lb />
 「そうかの。」<lb />
 　円枝が引っ込むと、一渡り鳴物がざわめいて、評判の五人力、越後上りの大石武右衛門というのが、現れた。<lb />
-　葬式彦は、自分が紙屑のような、貧弱な体格の<span type="ruby"><span type="rb">所有主</span><span type="rp">（</span><span type="rt">もちぬし</span><span type="rp">）</span></span>なので、大男だの力持ちなどというと、人一倍興味を感ずるものとみえる。すぐに長い頸を伸ばして、高座に見入り出した。<lb />
-　普通人の掌ほどの紋のついた、柿色の<span type="ruby"><span type="rb">肩衣</span><span type="rp">（</span><span type="rt">かたぎぬ</span><span type="rp">）</span></span>みたいなものを着て、高座いっぱいに見えるほど、山のように控えているのが、武右衛門である。が、この第一印象が去ってから、よく眺めると、<span type="ruby"><span type="rb">角力</span><span type="rp">（</span><span type="rt">すもうとり</span><span type="rp">）</span></span>のちょっと大きいぐらいのもので、からだそれ自身は、そんなに驚くに当らないのだった。<lb />
+　葬式彦は、自分が紙屑のような、貧弱な体格の<seg type="ruby"><seg type="rb">所有主</seg><seg type="rp">（</seg><seg type="rt">もちぬし</seg><seg type="rp">）</seg></seg>なので、大男だの力持ちなどというと、人一倍興味を感ずるものとみえる。すぐに長い頸を伸ばして、高座に見入り出した。<lb />
+　普通人の掌ほどの紋のついた、柿色の<seg type="ruby"><seg type="rb">肩衣</seg><seg type="rp">（</seg><seg type="rt">かたぎぬ</seg><seg type="rp">）</seg></seg>みたいなものを着て、高座いっぱいに見えるほど、山のように控えているのが、武右衛門である。が、この第一印象が去ってから、よく眺めると、<seg type="ruby"><seg type="rb">角力</seg><seg type="rp">（</seg><seg type="rt">すもうとり</seg><seg type="rp">）</seg></seg>のちょっと大きいぐらいのもので、からだそれ自身は、そんなに驚くに当らないのだった。<lb />
 「武右衛門え、江戸見物に出て来ねえか、ちゅうことで、おう、見物させてくれるなら、行くべえ。なあんて、突ん出て来たのが、お前さま、江戸さ来てみたら、ああに、見物するでねえだ。見物されるだ――。」<lb />
-　こんな口上を述べて笑わせながら、<span type="ruby"><span type="rb">肩衣</span><span type="rp">（</span><span type="rt">かたぎね</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">撥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ねる。着物の袖を滑らす。肌脱ぎになった。<lb />
+　こんな口上を述べて笑わせながら、<seg type="ruby"><seg type="rb">肩衣</seg><seg type="rp">（</seg><seg type="rt">かたぎね</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">撥</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>ねる。着物の袖を滑らす。肌脱ぎになった。<lb />
 　なるほど、見事な筋肉である。<lb />
 <lb />
 　　　　　　二<lb />
 <lb />
-　湯呑みを握り潰す。火箸を糸のように曲げる。にぎり拳で板へ五寸釘を打ちこむ。それを歯で抜く、種も仕掛けもない。力ひとつなのである。肩や腕の肉が、<span type="ruby"><span type="rb">瘤</span><span type="rp">（</span><span type="rt">こぶ</span><span type="rp">）</span></span>のように盛り上る。這うように動く。見物は讃嘆の声を呑んで、見守っている。われに返ったように、ざわめく。彦兵衛もいつの間にか乗り出して、細い身体を<span type="ruby"><span type="rb">硬張</span><span type="rp">（</span><span type="rt">こわば</span><span type="rp">）</span></span>らせて<span type="ruby"><span type="rb">凝視</span><span type="rp">（</span><span type="rt">みつ</span><span type="rp">）</span></span>めていた。まったく、力業師として、ちょっとこの右に出る者はあるまいと思われる大石武右衛門だった。<lb />
-「あんなのにかぎって、ころっと<span type="ruby"><span type="rb">死</span><span type="rp">（</span><span type="rt">まい</span><span type="rp">）</span></span>るものだ。」<lb />
-　突然、藤吉が言った。人が感心すると、<span type="ruby"><span type="rb">貶</span><span type="rp">（</span><span type="rt">けな</span><span type="rp">）</span></span>したくなるのが藤吉の病いである。不機嫌なときは、右と言えば左と、何によらず皮肉に出るものだ。義理にも<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">わら</span><span type="rp">）</span></span>うどころか、誰に対してもお愛想一ついうでなし、もしそんな時何か事件でもあろうものなら、藤吉親分ともあろうものが、鉄瓶が吹きこぼれたほどの、どんな詰らないことでも、初めからすぐ、こりゃあ難物だ、おいらの手に負えねえ、と投げ出したような口振りだった。ところが、それが、そういう口の下から、訳なく解決されて行くのが常だった。こうした藤吉の癖は、彦兵衛は百も知り抜いていて、いっこう気にしないことにしていた。じっさい、藤吉の悲観的態度は、態度だけで、格別何も意味しているものではないのだった。<lb />
+　湯呑みを握り潰す。火箸を糸のように曲げる。にぎり拳で板へ五寸釘を打ちこむ。それを歯で抜く、種も仕掛けもない。力ひとつなのである。肩や腕の肉が、<seg type="ruby"><seg type="rb">瘤</seg><seg type="rp">（</seg><seg type="rt">こぶ</seg><seg type="rp">）</seg></seg>のように盛り上る。這うように動く。見物は讃嘆の声を呑んで、見守っている。われに返ったように、ざわめく。彦兵衛もいつの間にか乗り出して、細い身体を<seg type="ruby"><seg type="rb">硬張</seg><seg type="rp">（</seg><seg type="rt">こわば</seg><seg type="rp">）</seg></seg>らせて<seg type="ruby"><seg type="rb">凝視</seg><seg type="rp">（</seg><seg type="rt">みつ</seg><seg type="rp">）</seg></seg>めていた。まったく、力業師として、ちょっとこの右に出る者はあるまいと思われる大石武右衛門だった。<lb />
+「あんなのにかぎって、ころっと<seg type="ruby"><seg type="rb">死</seg><seg type="rp">（</seg><seg type="rt">まい</seg><seg type="rp">）</seg></seg>るものだ。」<lb />
+　突然、藤吉が言った。人が感心すると、<seg type="ruby"><seg type="rb">貶</seg><seg type="rp">（</seg><seg type="rt">けな</seg><seg type="rp">）</seg></seg>したくなるのが藤吉の病いである。不機嫌なときは、右と言えば左と、何によらず皮肉に出るものだ。義理にも<seg type="ruby"><seg type="rb">微笑</seg><seg type="rp">（</seg><seg type="rt">わら</seg><seg type="rp">）</seg></seg>うどころか、誰に対してもお愛想一ついうでなし、もしそんな時何か事件でもあろうものなら、藤吉親分ともあろうものが、鉄瓶が吹きこぼれたほどの、どんな詰らないことでも、初めからすぐ、こりゃあ難物だ、おいらの手に負えねえ、と投げ出したような口振りだった。ところが、それが、そういう口の下から、訳なく解決されて行くのが常だった。こうした藤吉の癖は、彦兵衛は百も知り抜いていて、いっこう気にしないことにしていた。じっさい、藤吉の悲観的態度は、態度だけで、格別何も意味しているものではないのだった。<lb />
 　だから今も、大石武右衛門はすぐ死ぬだろうなどと、人のことを不吉な、口の悪いことを言っても、彦兵衛は驚きもしなかった。<lb />
-　かすかに、にこりと顔を歪めただけで、相手にならなかった。武右衛門の演技が進むにつれて、藤吉以外の観客の全部は、注意のすべてを高座へ吸われて行った。<span type="ruby"><span type="rb">霰</span><span type="rp">（</span><span type="rt">あられ</span><span type="rp">）</span></span>のような拍手が、湧いたり消えたりした。<lb />
+　かすかに、にこりと顔を歪めただけで、相手にならなかった。武右衛門の演技が進むにつれて、藤吉以外の観客の全部は、注意のすべてを高座へ吸われて行った。<seg type="ruby"><seg type="rb">霰</seg><seg type="rp">（</seg><seg type="rt">あられ</seg><seg type="rp">）</seg></seg>のような拍手が、湧いたり消えたりした。<lb />
 　彦が、<lb />
 「あんなけだものを捕るなあ、骨でがしょうな。捕繩なんざあ、何本でも、固めて引っ切っちまいますぜ。」<lb />
 　藤吉は、聞こえないふうだった。武右衛門がひっ込んで行くと、娘手踊りと銘打った梅の家連中というのが代って、三人の若い女が、高座いっぱいに踊りはじめた。いよいよ詰らなさそうに、藤吉は、場内のあちこちを見まわしていた。<lb />
-　楽屋に通ずる、高座の横の戸があいて、あわてた顔の<span type="ruby"><span type="rb">出方</span><span type="rp">（</span><span type="rt">でかた</span><span type="rp">）</span></span>のひとりが、現れた。壁ぎわの板廊下を木戸口のほうへ急いだかと思うと、すぐ席主の幸七を呼んで引っ返して来た。何かささやいていて、幸七の顔いろも変っている。誰かを探すように客席を見ていたが、すぐ藤吉を認めて、幸七は、小腰をかがめて近づいて来た。低声に、<lb />
+　楽屋に通ずる、高座の横の戸があいて、あわてた顔の<seg type="ruby"><seg type="rb">出方</seg><seg type="rp">（</seg><seg type="rt">でかた</seg><seg type="rp">）</seg></seg>のひとりが、現れた。壁ぎわの板廊下を木戸口のほうへ急いだかと思うと、すぐ席主の幸七を呼んで引っ返して来た。何かささやいていて、幸七の顔いろも変っている。誰かを探すように客席を見ていたが、すぐ藤吉を認めて、幸七は、小腰をかがめて近づいて来た。低声に、<lb />
 「親分、とんでもねえことが起りましたようで、恐れ入りますが、ちょっと楽屋のほうへ――。」<lb />
 「おいらに用かね？」相変らず藤吉は、物憂そうな眼だった。「喧嘩かい。」<lb />
-「いえ、ちょうどいいところに親分さんがいらしって下すって、助かりましてございますよ。なんですか、誰か<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>られたんだそうで――。」<lb />
+「いえ、ちょうどいいところに親分さんがいらしって下すって、助かりましてございますよ。なんですか、誰か<seg type="ruby"><seg type="rb">殺</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>られたんだそうで――。」<lb />
 　まわりの者の耳に入れまいとするので、聞き取りにくい声だったが、藤吉も、そこで訊き返してはいられなかった。眼で、彦兵衛に合図をすると、黙って起ち上った。待っていた出方の男と幸七を先に立てて、高座の傍から、楽屋へはいって行った。<lb />
-　右端の一段高いところが、芸人たちが出番を待つ部屋になっていて、取っつきに、裸蝋燭が一本とろとろ燃えていた。それについて、細長い板敷きの廊下がまっすぐ、裏口まで通っている。蝋燭の光が、むこうへ行くほど大きく拡がって、閉めきった部屋の障子がぽうっと白んでいるきりで、足許だけが明るく、宵闇のようなほの暗さが、全体を<span type="ruby"><span type="rb">罩</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>めていた。<lb />
+　右端の一段高いところが、芸人たちが出番を待つ部屋になっていて、取っつきに、裸蝋燭が一本とろとろ燃えていた。それについて、細長い板敷きの廊下がまっすぐ、裏口まで通っている。蝋燭の光が、むこうへ行くほど大きく拡がって、閉めきった部屋の障子がぽうっと白んでいるきりで、足許だけが明るく、宵闇のようなほの暗さが、全体を<seg type="ruby"><seg type="rb">罩</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>めていた。<lb />
 　高座から、唄や三味線につれて踊る梅の家連中の女たちの畳を擦る音や、足踏みが聞こえて来るばかりで、楽屋は、しいんとしていた。誰もいない様子だった。<lb />
-　が、若い衆が案内して、その狭い廊下を進んで行くと、真ん中辺からすこし向うへ寄った薄ぐらいところに、何か黒い大きなかたまりのようなものが倒れているのが、だんだんはっきり眼にはいってきた。そこへ行く途中、横隣の部屋の障子がすこし開いていて、出の仕度のできた<span type="ruby"><span type="rb">操</span><span type="rp">（</span><span type="rt">あやつ</span><span type="rp">）</span></span>り人形の小屋台が置いてあるのが見えた。それは、<span type="ruby"><span type="rb">文机</span><span type="rp">（</span><span type="rt">ふづくえ</span><span type="rp">）</span></span>ほどの大きさで、上から糸で人形を垂らして、舞台になるものだった。今夜あとから出ることになっている、有名な竹久紋之助の人形というのは、これだなと思って、藤吉は通り過ぎて行った。<lb />
+　が、若い衆が案内して、その狭い廊下を進んで行くと、真ん中辺からすこし向うへ寄った薄ぐらいところに、何か黒い大きなかたまりのようなものが倒れているのが、だんだんはっきり眼にはいってきた。そこへ行く途中、横隣の部屋の障子がすこし開いていて、出の仕度のできた<seg type="ruby"><seg type="rb">操</seg><seg type="rp">（</seg><seg type="rt">あやつ</seg><seg type="rp">）</seg></seg>り人形の小屋台が置いてあるのが見えた。それは、<seg type="ruby"><seg type="rb">文机</seg><seg type="rp">（</seg><seg type="rt">ふづくえ</seg><seg type="rp">）</seg></seg>ほどの大きさで、上から糸で人形を垂らして、舞台になるものだった。今夜あとから出ることになっている、有名な竹久紋之助の人形というのは、これだなと思って、藤吉は通り過ぎて行った。<lb />
 「ほかの者はみんなどうしたんだ。」<lb />
-　藤吉はそう言って、屍骸の上に<span type="ruby"><span type="rb">屈</span><span type="rp">（</span><span type="rt">かが</span><span type="rp">）</span></span>み込んだ。屍骸――もうそれは、屍骸に相違なかったが、あの、いま高座を<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">さが</span><span type="rp">）</span></span>って来たばかりの力持ち、大石武右衛門の屍骸だった。<lb />
-　そうら、見ろ、だから言わねえこっちゃあねえ。<span type="ruby"><span type="rb">図体</span><span type="rp">（</span><span type="rt">ずうてえ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">大</span><span type="rp">（</span><span type="rt">で</span><span type="rp">）</span></span>けえやつはこんなもんだ――といいたげに、藤吉の皮肉な苦笑が彦兵衛をふり返ったが、この藤吉のまぐれ当りの誇りどころか、彦兵衛は、われを忘れたように、武右衛門の死体におどろきの眼を<span type="ruby"><span type="rb">瞠</span><span type="rp">（</span><span type="rt">みは</span><span type="rp">）</span></span>っていた。<lb />
+　藤吉はそう言って、屍骸の上に<seg type="ruby"><seg type="rb">屈</seg><seg type="rp">（</seg><seg type="rt">かが</seg><seg type="rp">）</seg></seg>み込んだ。屍骸――もうそれは、屍骸に相違なかったが、あの、いま高座を<seg type="ruby"><seg type="rb">退</seg><seg type="rp">（</seg><seg type="rt">さが</seg><seg type="rp">）</seg></seg>って来たばかりの力持ち、大石武右衛門の屍骸だった。<lb />
+　そうら、見ろ、だから言わねえこっちゃあねえ。<seg type="ruby"><seg type="rb">図体</seg><seg type="rp">（</seg><seg type="rt">ずうてえ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">大</seg><seg type="rp">（</seg><seg type="rt">で</seg><seg type="rp">）</seg></seg>けえやつはこんなもんだ――といいたげに、藤吉の皮肉な苦笑が彦兵衛をふり返ったが、この藤吉のまぐれ当りの誇りどころか、彦兵衛は、われを忘れたように、武右衛門の死体におどろきの眼を<seg type="ruby"><seg type="rb">瞠</seg><seg type="rp">（</seg><seg type="rt">みは</seg><seg type="rp">）</seg></seg>っていた。<lb />
 「どうしたい、誰もいねえじゃあねえか。」<lb />
 　藤吉が繰り返すと、出方の男衆が引き取って、<lb />
 「へえ。まだ誰にも知らせねえんで――見つけるとすぐ、おもてへ飛んで行って旦那にだけお報せしました。」<lb />
 　旦那というのは、席主の幸七のことだった。<lb />
 「そうかい。もう手遅れかもしれねえが。」と、藤吉は、依然として面白くもなさそうな顔を幸七へ向けて、「すまねえが、おいらがよしというまで、誰ひとりこの席亭を出ねえようにしてもらいてえ。」<lb />
 「お易い御用でございます。どうも厄介なことになったものだ。嫌な噂が立っちゃあ、客足が遠のきますから、どうか親分さん、あんまりぱっとならねえように、よろしくお願いいたします。」<lb />
-「ああ、いいとも。誰か殺した者があるとすりゃあ、こちとらあそいつを<span type="ruby"><span type="rb">逮捕</span><span type="rp">（</span><span type="rt">しよっぴ</span><span type="rp">）</span></span>けばいいんで、まあ万事内々に早いところやりましょう。」<lb />
+「ああ、いいとも。誰か殺した者があるとすりゃあ、こちとらあそいつを<seg type="ruby"><seg type="rb">逮捕</seg><seg type="rp">（</seg><seg type="rt">しよっぴ</seg><seg type="rp">）</seg></seg>けばいいんで、まあ万事内々に早いところやりましょう。」<lb />
 　幸七は足止めの手配に、芸人の出入りする裏口のほうへ急いで行った。<lb />
 <lb />
 　　　　　　三<lb />
 <lb />
-　藤吉は屍体の上にしゃがんで調べにかかった。武右衛門は、高座の帰りに、そのままの衣装で死んでいて、顔がほとんど紫いろに変って眼が飛び出ていた。<span type="ruby"><span type="rb">頸部</span><span type="rp">（</span><span type="rt">くび</span><span type="rp">）</span></span>に一条綱のあとがあって、鉛色に皺が寄っていた。<lb />
+　藤吉は屍体の上にしゃがんで調べにかかった。武右衛門は、高座の帰りに、そのままの衣装で死んでいて、顔がほとんど紫いろに変って眼が飛び出ていた。<seg type="ruby"><seg type="rb">頸部</seg><seg type="rp">（</seg><seg type="rt">くび</seg><seg type="rp">）</seg></seg>に一条綱のあとがあって、鉛色に皺が寄っていた。<lb />
 「締め殺されたんだ。」呻くように藤吉が言った。「それとも縊れ死んだのか――。」<lb />
 「何か、細紐のようなものででも――。」<lb />
 　彦兵衛が口を挾むと、<lb />
@@ -114,14 +114,14 @@
 「うむ。藤吉さん、おらあ八丁堀の者だが――。」<lb />
 「ええもう、よく存じ上げております。親分と同じ名前で恐れ入りやすが――。」<lb />
 「そんなこたあどうでもいい。見つけた次第を細かに話してもらおうじゃねえか。」<lb />
-「いえね、後に出る人の顔が揃ったかどうか見ようと思いましてね、楽屋番の八兵衛に訊くつもりで、おもてからここへはいってまいりますと、御覧のとおり薄っ暗いんでよく見えませんでしたが、こっち側の部屋に、いま、あの操り人形の舞台の置いてある向う側で、太夫の竹久紋之助さんと、おこよさんが何かしきりに話し込んでいました。細長い一本廊下ですから、よく見通しがききます。ほかには誰も、人は見えませんでした。その時、こいつあお笑いになるかもしれねえが、そこの障子に、ひらりと影が映ったのを見たんで――ちょうど普通の大きさの人間の影でございました。踊るように、ちょっと写ってすぐ消えましたが、あっしゃあ誰かと思って近づいてみますと、だれも人はいねえで、この<span type="ruby"><span type="rb">屍骸</span><span type="rp">（</span><span type="rt">しげえ</span><span type="rp">）</span></span>――武右衛門さんが倒れていたのでございます。<span type="ruby"><span type="rb">酔興</span><span type="rp">（</span><span type="rt">すいきょう</span><span type="rp">）</span></span>にも程がある。大きなやつが、こんな通り路に寝て、邪魔になるじゃあねえか。おい、武右衛門さん――声を掛けて揺すぶってみたんですが、なんだか様子が変だから、席主の旦那を呼びに木戸へ引っ返したんでございます。」<lb />
+「いえね、後に出る人の顔が揃ったかどうか見ようと思いましてね、楽屋番の八兵衛に訊くつもりで、おもてからここへはいってまいりますと、御覧のとおり薄っ暗いんでよく見えませんでしたが、こっち側の部屋に、いま、あの操り人形の舞台の置いてある向う側で、太夫の竹久紋之助さんと、おこよさんが何かしきりに話し込んでいました。細長い一本廊下ですから、よく見通しがききます。ほかには誰も、人は見えませんでした。その時、こいつあお笑いになるかもしれねえが、そこの障子に、ひらりと影が映ったのを見たんで――ちょうど普通の大きさの人間の影でございました。踊るように、ちょっと写ってすぐ消えましたが、あっしゃあ誰かと思って近づいてみますと、だれも人はいねえで、この<seg type="ruby"><seg type="rb">屍骸</seg><seg type="rp">（</seg><seg type="rt">しげえ</seg><seg type="rp">）</seg></seg>――武右衛門さんが倒れていたのでございます。<seg type="ruby"><seg type="rb">酔興</seg><seg type="rp">（</seg><seg type="rt">すいきょう</seg><seg type="rp">）</seg></seg>にも程がある。大きなやつが、こんな通り路に寝て、邪魔になるじゃあねえか。おい、武右衛門さん――声を掛けて揺すぶってみたんですが、なんだか様子が変だから、席主の旦那を呼びに木戸へ引っ返したんでございます。」<lb />
 　藤吉は口を結んで、鼻から息を吹いた。<lb />
 「そうかい。よくわかった。が、あんまり役にゃあ立ちそうもねえ話だの。」彦兵衛を振りかえって、<lb />
-「御同役、まあ、ちょっくらこけえらを<span type="ruby"><span type="rb">嗅</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>えでみるとしょうか。」<lb />
+「御同役、まあ、ちょっくらこけえらを<seg type="ruby"><seg type="rb">嗅</seg><seg type="rp">（</seg><seg type="rt">け</seg><seg type="rp">）</seg></seg>えでみるとしょうか。」<lb />
 　そして、ふっと沈黙に落ちて、あたりを見廻した。狭い板廊の両端に、一方は今来たおもての席、他は裏ぐちへのふたつの戸があって、右側は部屋の障子、左側は壁――出るにもはいるにも、その二つの戸のどっちかを通らなければならない。裏のほうで、芸人たちの世話をする男たちの話が、まだ何も知らないらしく、暢気に笑いさざめいて聞こえていた。<lb />
 　廊下の入口を見返ると、前に言ったように、大きな裸蝋燭がじいじいと燃えつづけて、その黄色い光線が、幅の広い角度を取ってぼんやり部屋の障子を照らし出している。自然に作り出される光の魔術とでも言おうか、細い個所の一方にだけひかりが動いているので、ちょっと不思議に見えるほど、その蝋燭の灯が、壁に、天井に、複雑に交錯しているのだった。これならば、遠くまで、わりにはっきりと影を投げたことであろうと、藤吉は思った。<lb />
 　彼は、ゆっくり頭をかきながら、<lb />
-「なあ、藤吉どん。ここんところをもう一度聞こうじゃあねえか。いいか――おまはんが、この<span type="ruby"><span type="rb">客席</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>の戸からはいって来る。部屋の障子がすこしあいて、人形太夫の紋之助さんと――女は、何と言ったっけな？」<lb />
+「なあ、藤吉どん。ここんところをもう一度聞こうじゃあねえか。いいか――おまはんが、この<seg type="ruby"><seg type="rb">客席</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>の戸からはいって来る。部屋の障子がすこしあいて、人形太夫の紋之助さんと――女は、何と言ったっけな？」<lb />
 　いつの間にか、帰って来ていた幸七が、口を入れて、<lb />
 「おこよさんと言いましてね、紋之助さんの三味線引きでございます。」<lb />
 「うむ。そのおこよさんと紋之助が話し込んでいて、ここに、今のとおりに武右衛門が死んで倒れていた。他には誰もいなかった――と、こう言いなさるんだね？」<lb />
@@ -135,7 +135,7 @@
 「どんな影か、思い出せねえか。」<lb />
 「どんな影といって――、」出方の藤吉は首すじを撫で撫で、「着物を着て、袴をつけたような、ふくれ返った人間の影でしたが――。」<lb />
 「ううむ。袴をはいていた、と。」<lb />
-　藤吉は、不遠慮に<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>をした。<lb />
+　藤吉は、不遠慮に<seg type="ruby"><seg type="rb">欠伸</seg><seg type="rp">（</seg><seg type="rt">あくび</seg><seg type="rp">）</seg></seg>をした。<lb />
 <lb />
 　　　　　　四<lb />
 <lb />
@@ -150,13 +150,13 @@
 　出方の藤吉は、自分の証言を守るために一生懸命になっていた。<lb />
 「そん時ぁもう、武右衛門さんはこのとおりここに倒れていたんで。」<lb />
 「じゃあ、その影のことを、もそっと詳しく話してみな。」<lb />
-「へえ。ようがすとも！――と言ったところで、なにしろとっさの出来事だったんで、どうもぼんやりしたお話で困りやすが、なんですよ親分さん、影はね、<span type="ruby"><span type="rb">傴僂</span><span type="rp">（</span><span type="rt">せむし</span><span type="rp">）</span></span>のようでしたよ。」<lb />
+「へえ。ようがすとも！――と言ったところで、なにしろとっさの出来事だったんで、どうもぼんやりしたお話で困りやすが、なんですよ親分さん、影はね、<seg type="ruby"><seg type="rb">傴僂</seg><seg type="rp">（</seg><seg type="rt">せむし</seg><seg type="rp">）</seg></seg>のようでしたよ。」<lb />
 「せむし――？」<lb />
 「ええ。大きな髪を結って、手に何か持っていやした。」<lb />
 「何を持っていた。」<lb />
 「何だか知らねえが、糸のような物を持っているのが見えたんで――。」<lb />
 　みな黙って、交る代る顔を見合っていた。割れるような拍手が聞こえて来て、つづいてまた唄と三味線がはじまって、しいんとなった。<lb />
-「無理もねえ。」藤吉は、しずかに、「影じゃあそんなところまでわかるわけはねえからの。ことに、ちょっと間、ちらと眼にうつっただけじゃあ、これは、細けえことは訊くほうが<span type="ruby"><span type="rb">唐変木</span><span type="rp">（</span><span type="rt">とうへんぼく</span><span type="rp">）</span></span>よなあ。」<lb />
+「無理もねえ。」藤吉は、しずかに、「影じゃあそんなところまでわかるわけはねえからの。ことに、ちょっと間、ちらと眼にうつっただけじゃあ、これは、細けえことは訊くほうが<seg type="ruby"><seg type="rb">唐変木</seg><seg type="rp">（</seg><seg type="rt">とうへんぼく</seg><seg type="rp">）</seg></seg>よなあ。」<lb />
 「しかし親分、どうして人がいねえで、影だけ見えたんでごわしょう。」<lb />
 「さあ、そのことよ――。」<lb />
 「紋之助とおこよは、」彦が部屋を覗いて、「いねえ。どこへ行った――？」<lb />
@@ -168,7 +168,7 @@
 「武右衛門は、高座から来て間もなく、この廊下を通りながら殺られたんだね。」<lb />
 「へえ。高座を下りる。ここまで来かかる。ほんのちょっとの間のことで。」<lb />
 「おこよと紋之助さんは、稽古の話に気を取られていて、障子のそとの廊下で武右衛門が倒れるのを知らずにいた――。」<lb />
-「そりゃあ親分、ちょうど出の代り、梅の家連が高座へ上った時分で、ここは一番お<span type="ruby"><span type="rb">囃</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>しの鳴物がやかましく聞こえるところだから、ちっとやそっとの騒ぎは耳にはいりませんよ。まして、話に夢中のようだったからね。」<lb />
+「そりゃあ親分、ちょうど出の代り、梅の家連が高座へ上った時分で、ここは一番お<seg type="ruby"><seg type="rb">囃</seg><seg type="rp">（</seg><seg type="rt">はや</seg><seg type="rp">）</seg></seg>しの鳴物がやかましく聞こえるところだから、ちっとやそっとの騒ぎは耳にはいりませんよ。まして、話に夢中のようだったからね。」<lb />
 「そりゃあそうだな。こうっと、高座を下りて来る。すぐに殺られる。廊下に人がいねえで、影だけ映っていた――。」<lb />
 「紋之助さんとおこよさんは、あっしが席主の旦那を呼びに引っ返して、いま親分と一緒にここへ来るあいだに、何も知らねえで化粧部屋へはいったものでごわしょう。」<lb />
 「そうだろう。訊いてみりゃあわかる。」<lb />
@@ -179,7 +179,7 @@
 「誰も出て行きゃあしめえな。」<lb />
 「へえ、そうお達しだから、裏を閉めてしまいました。」<lb />
 「馬鹿野郎、締めちゃあ仕様がねえじゃないか。もう追っつけ伯朝師匠が乗り込むころだが、来たって、はいれやしめえ。」<lb />
-「なあに、心配しなさんな。」藤吉は、珍しく笑って、「<span type="ruby"><span type="rb">犯人</span><span type="rp">（</span><span type="rt">ほし</span><span type="rp">）</span></span>せえ挙げりゃあすぐにも開けてやらあな。」<lb />
+「なあに、心配しなさんな。」藤吉は、珍しく笑って、「<seg type="ruby"><seg type="rb">犯人</seg><seg type="rp">（</seg><seg type="rt">ほし</seg><seg type="rp">）</seg></seg>せえ挙げりゃあすぐにも開けてやらあな。」<lb />
 　そして、銀兵衛へ、「こう、爺つぁん、お前、武右衛門の死んだこたあ今聞いたのか。」<lb />
 　出方の藤吉が、幸七へあわただしく囁いて、<lb />
 「つぎは浮かれ節の花坊主だが、知らせてようがすね。」<lb />
@@ -200,27 +200,27 @@
 　ふふんと藤吉は、小鼻をふくらませて黙りこんだが、すぐ顔を上げて、銀兵衛に、向うへ行けという合図をした。<lb />
 「ほんとに誰も、出て行った者はごぜえません。あっしは、裏ぐちにすわりっきりで、円枝さんの下駄の鼻緒が切れたんで立ててあげておりましたが――。」<lb />
 　楽屋番の銀兵衛がもう一度そう繰り返したが、藤吉は、聞いていそうもない様子だった。じぶんの胸元を覗き込むようにうつむいて、かれはしきりに爪を噛んでいるのだ。<lb />
-　大石武右衛門は、見るとおりに、それこそ牡牛を三匹合わせたほどの、大兵肥満の男である。それに、いまこの柳江亭の人気を一身にあつめている、前代未聞の力業師なのだ。その大石武右衛門が高座を下りて、一本の蝋燭の光を背中に浴びながら狭いまっすぐな廊下を通って溜りのほうへ帰って行こうとしていると、途中で、何者かが武右衛門の頸部へ綱を捲きつけて、――あっという間に、見事にこの<span type="ruby"><span type="rb">大漢</span><span type="rp">（</span><span type="rt">おおおとこ</span><span type="rp">）</span></span>を絞殺したのだった。<lb />
+　大石武右衛門は、見るとおりに、それこそ牡牛を三匹合わせたほどの、大兵肥満の男である。それに、いまこの柳江亭の人気を一身にあつめている、前代未聞の力業師なのだ。その大石武右衛門が高座を下りて、一本の蝋燭の光を背中に浴びながら狭いまっすぐな廊下を通って溜りのほうへ帰って行こうとしていると、途中で、何者かが武右衛門の頸部へ綱を捲きつけて、――あっという間に、見事にこの<seg type="ruby"><seg type="rb">大漢</seg><seg type="rp">（</seg><seg type="rt">おおおとこ</seg><seg type="rp">）</seg></seg>を絞殺したのだった。<lb />
 　信じられない。この力持ちが、そうやすやすと絞め殺されようとは、これは、八丁堀合点長屋の親分釘抜藤吉でなくても、常識のある人間なら、誰しも受け取れないところである。しかも、その時、高座のすぐ裏、細廊下の横隣りの、一段高くなっている出を待つ部屋に、人形つかいの竹久紋之助と三味線引きのおこよが、二人で話し込んでいただけで、見とおしのきく廊下には人っ児ひとりいなかったというのだ。これは、事件のすぐあと、つまり武右衛門が倒れて間もなく、恐らくは、一、二、三、四、五、六――とは数えないうちに、客席から廊下へはいって来た出方の藤吉の証言である。そして、今また、楽屋口で芸人の下足番をしている銀兵衛が、これに裏書きするように、誰も廊下を通って裏へ出て行ったものはないと断言しているのだ。ことに、不思議なのは、廊下へはいって来ると一拍子に、出方の藤吉の見たという、障子に躍って消えた影である――。<lb />
 　人はいないのに、高座の上り口にある蝋燭の灯りを受けて、その影法師だけが、障子にうつっていたという。<lb />
-　たしかに、はっきり見たと出方の藤吉は主張するのだが、それは、普通人の大きさの人かげで、厚い着物を着て、袴をはいたように、ふくれ返って見えた。大きな髷に結って、<span type="ruby"><span type="rb">傴僂</span><span type="rp">（</span><span type="rt">せむし</span><span type="rp">）</span></span>のようだったとも言っている。何か糸のようなものを持っていたと、男衆藤吉はいうのだが、すべては、はっと思った一瞬間の印象で、閃めくように障子をかすめて消えたのだから、もとより、こまかに話すとなると、至極漠然たるもので、夢の想い出の又聞きのようなことになるのだった。<lb />
+　たしかに、はっきり見たと出方の藤吉は主張するのだが、それは、普通人の大きさの人かげで、厚い着物を着て、袴をはいたように、ふくれ返って見えた。大きな髷に結って、<seg type="ruby"><seg type="rb">傴僂</seg><seg type="rp">（</seg><seg type="rt">せむし</seg><seg type="rp">）</seg></seg>のようだったとも言っている。何か糸のようなものを持っていたと、男衆藤吉はいうのだが、すべては、はっと思った一瞬間の印象で、閃めくように障子をかすめて消えたのだから、もとより、こまかに話すとなると、至極漠然たるもので、夢の想い出の又聞きのようなことになるのだった。<lb />
 　ぱちんと指を鳴らす――その間の出来事だったに相違ない。<lb />
-　が、それにしても、あんなに<span type="ruby"><span type="rb">膂力</span><span type="rp">（</span><span type="rt">りょりょく</span><span type="rp">）</span></span>すぐれた大石武右衛門が、こんなに簡単に殺されるなどということが、あり得るだろうか。頸部を巻いて絞めたのは、どうも三味線の糸を五、六本かためて<span type="ruby"><span type="rb">撚</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>ったようなものらしいと、藤吉は、局所の皮膚の<span type="ruby"><span type="rb">捻</span><span type="rp">（</span><span type="rt">ねじ</span><span type="rp">）</span></span>れ工合いなどから判断したのだが、それならいっそう、そんな糸で首を絞めつけたぐらいで、あの武右衛門が即死しようとは、どうしても呑み込めないのである。が、ものには<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>みということがあるから、一歩譲って、そんなことで絞殺されたものとしても、あの武右衛門である。いくらとっさの不意打ちとは言え、相手が悪鬼魔神でないかぎり、武右衛門も、争ったに相違ない。いや、たとえしばらくでも、文字どおり死力を尽して抵抗したにきまっている。この狭い廊下で、鯨のような武右衛門が生への本能に促されて何ものかと格闘した。相当暴れた――ものと想像していい。大男が、死ぬまえの<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-92/1-92-36.png" rend="gaiji" rendition="img" source="※(「足へん＋宛」、第3水準1-92-36)" /></span><span type="rp">（</span><span type="rt">もが</span><span type="rp">）</span></span>きである。どんなにか必死の、どたばた騒ぎだったことと思われるのだが、それが、この、廊下に面した部屋に、出の仕度を急いでいた紋之助とおこよに聞こえなかったというのは、尠くとも、ふたりがちっとも気づかなかったというのは、いくら、出方の藤吉や席主幸七の言うように、ちょうどその時武右衛門と代り合って娘手踊りの梅の家連が高座へ上ったばかりで、ここは鳴物のもっともやかましく響く場所なので耳にはいらなかったのだろうとの説明があっても、釘抜の親分には、これがずんと胸に納まるというわけには、いささか往かなかったのだった。<lb />
+　が、それにしても、あんなに<seg type="ruby"><seg type="rb">膂力</seg><seg type="rp">（</seg><seg type="rt">りょりょく</seg><seg type="rp">）</seg></seg>すぐれた大石武右衛門が、こんなに簡単に殺されるなどということが、あり得るだろうか。頸部を巻いて絞めたのは、どうも三味線の糸を五、六本かためて<seg type="ruby"><seg type="rb">撚</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>ったようなものらしいと、藤吉は、局所の皮膚の<seg type="ruby"><seg type="rb">捻</seg><seg type="rp">（</seg><seg type="rt">ねじ</seg><seg type="rp">）</seg></seg>れ工合いなどから判断したのだが、それならいっそう、そんな糸で首を絞めつけたぐらいで、あの武右衛門が即死しようとは、どうしても呑み込めないのである。が、ものには<seg type="ruby"><seg type="rb">弾</seg><seg type="rp">（</seg><seg type="rt">はず</seg><seg type="rp">）</seg></seg>みということがあるから、一歩譲って、そんなことで絞殺されたものとしても、あの武右衛門である。いくらとっさの不意打ちとは言え、相手が悪鬼魔神でないかぎり、武右衛門も、争ったに相違ない。いや、たとえしばらくでも、文字どおり死力を尽して抵抗したにきまっている。この狭い廊下で、鯨のような武右衛門が生への本能に促されて何ものかと格闘した。相当暴れた――ものと想像していい。大男が、死ぬまえの<seg type="ruby"><seg type="rb"><seg change="gaiji" facs="../../../gaiji/1-92/1-92-36.png" rend="gaiji" rendition="img" source="※(「足へん＋宛」、第3水準1-92-36)" /></seg><seg type="rp">（</seg><seg type="rt">もが</seg><seg type="rp">）</seg></seg>きである。どんなにか必死の、どたばた騒ぎだったことと思われるのだが、それが、この、廊下に面した部屋に、出の仕度を急いでいた紋之助とおこよに聞こえなかったというのは、尠くとも、ふたりがちっとも気づかなかったというのは、いくら、出方の藤吉や席主幸七の言うように、ちょうどその時武右衛門と代り合って娘手踊りの梅の家連が高座へ上ったばかりで、ここは鳴物のもっともやかましく響く場所なので耳にはいらなかったのだろうとの説明があっても、釘抜の親分には、これがずんと胸に納まるというわけには、いささか往かなかったのだった。<lb />
 　そう言えば、腑に落ちないことだらけである。<lb />
 　高座で力業を演じていた武右衛門を、藤吉は、あんなのにかぎって妙にころりと死ぬものだと言ったが、それが、まさにそのとおりに、まるで藤吉の言葉に従わなければならなかったように、高座を下りると同時に、ここにこうして死んだのも言いようのない不思議ではあったが、これはもちろん、単なる偶然に過ぎないので、しかしそれを、藤吉のにらみに帰して、親分の眼はこうまできくのかと、薄気味悪く呆気に取られているところに、とむらい彦兵衛の藤吉に対する信頼と誇りが見られるのだった。<lb />
 　藤吉は、すこし間がわるい。内心笑いながら、さながら言い当てたように、彦兵衛の顔を大得意に見せているのである。<lb />
-　が、いつしか彼も、そんなことで<span type="ruby"><span type="rb">呑気</span><span type="rp">（</span><span type="rt">のんき</span><span type="rp">）</span></span>に構えてはいられなくなった。<lb />
+　が、いつしか彼も、そんなことで<seg type="ruby"><seg type="rb">呑気</seg><seg type="rp">（</seg><seg type="rt">のんき</seg><seg type="rp">）</seg></seg>に構えてはいられなくなった。<lb />
 　二二んが四、二三が六――これならなんでもないが、この武右衛門の死は、二二んが五、二三が七でもあり、八でもあろうという、異中の異である。理外の理である。<lb />
 　釘抜藤吉も、とくと思案しなければならなかった。<lb />
-　思案に落ちると、かれは爪を噛む<span type="ruby"><span type="rb">習癖</span><span type="rp">（</span><span type="rt">くせ</span><span type="rp">）</span></span>がある。<lb />
+　思案に落ちると、かれは爪を噛む<seg type="ruby"><seg type="rb">習癖</seg><seg type="rp">（</seg><seg type="rt">くせ</seg><seg type="rp">）</seg></seg>がある。<lb />
 　で、いま藤吉は、こうしてしきりに爪を噛んでいるのだ。<lb />
 <lb />
 　　　　　　六<lb />
 <lb />
 　高座からは、梅の家連の踊りの足ぶみ、手拍子が、お囃しの音とともに、賑やかに聞こえて来ている。<lb />
 　四、五人が、細い廊下に重なり合って武右衛門の屍骸を覗き込んで、みな集っていた。<lb />
-　<span type="ruby"><span type="rb">戸外</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>は、初夏の夜の霧雨が、濃くなって行くらしい。<lb />
-　近くの紀伊の国橋のはし<span type="ruby"><span type="rb">桁</span><span type="rp">（</span><span type="rt">げた</span><span type="rp">）</span></span>を鳴らして、重い荷を積んだ大八車の通り過ぎて行く音が、どうかするとかみなりのように大きく長く、つづいていた。<lb />
+　<seg type="ruby"><seg type="rb">戸外</seg><seg type="rp">（</seg><seg type="rt">そと</seg><seg type="rp">）</seg></seg>は、初夏の夜の霧雨が、濃くなって行くらしい。<lb />
+　近くの紀伊の国橋のはし<seg type="ruby"><seg type="rb">桁</seg><seg type="rp">（</seg><seg type="rt">げた</seg><seg type="rp">）</seg></seg>を鳴らして、重い荷を積んだ大八車の通り過ぎて行く音が、どうかするとかみなりのように大きく長く、つづいていた。<lb />
 　銀兵衛が立ち去って行くと、藤吉は、席主の幸七と葬式彦兵衛を伴れて、高座の上り口近い、はだか蝋燭の立っている戸のそばまで、引っ返した。<lb />
 　戸の隙間から高座を覗くと、列なって踊っている女たちのうしろ姿が見える。<lb />
 　藤吉は、何か言おうとして幸七をふりかえったが、その時、右隣の、出番の近い芸人たちが待ち合わせることになっている小部屋に、文楽のような、人形師紋之助の操り屋台が置いてあるそのそばに、ひそひそ心配そうに話し合って、話し家の円枝と、紋之助の三味のおこよとが、しょんぼり立っているのが藤吉の眼にはいった。<lb />
@@ -228,28 +228,28 @@
 　二人とも、藤吉の視線を受けて、何も言わない先に、昂奮して蒼くなっている額を持って来た。<lb />
 　こわごわ藤吉のほうへ屈んで、円枝が、<lb />
 「武右衛門さんに、変り事があったようでげすが、べつにたいしたことは――。」<lb />
-　狭い咽喉を出るような、かすれた<span type="ruby"><span type="rb">低声</span><span type="rp">（</span><span type="rt">こごえ</span><span type="rp">）</span></span>だ。いつも高座で人を笑わせているところばかりを見ているだけに、またおどけたことを吐くのが稼業で、<span type="ruby"><span type="rb">地</span><span type="rp">（</span><span type="rt">じ</span><span type="rp">）</span></span>の奇妙な顔が<span type="ruby"><span type="rb">身上</span><span type="rp">（</span><span type="rt">しんじょう</span><span type="rp">）</span></span>になっているので、この男がこうして真面目なのは、なんとも不気味で、ほとんどもの凄いような感じさえするのだった。<lb />
-「おうさ。」藤吉親分の、無表情な<span type="ruby"><span type="rb">応答</span><span type="rp">（</span><span type="rt">こたえ</span><span type="rp">）</span></span>である。「別にたいしたこたあねえやな。ちょいと、絞め殺されただけよ。全体、場ふさぎな図体をしやあがって、<span rend="SESAME_DOT" rendition="strong">から</span>だらしがねえじゃあねえか。なあ、円枝師匠、ははははは。」<lb />
+　狭い咽喉を出るような、かすれた<seg type="ruby"><seg type="rb">低声</seg><seg type="rp">（</seg><seg type="rt">こごえ</seg><seg type="rp">）</seg></seg>だ。いつも高座で人を笑わせているところばかりを見ているだけに、またおどけたことを吐くのが稼業で、<seg type="ruby"><seg type="rb">地</seg><seg type="rp">（</seg><seg type="rt">じ</seg><seg type="rp">）</seg></seg>の奇妙な顔が<seg type="ruby"><seg type="rb">身上</seg><seg type="rp">（</seg><seg type="rt">しんじょう</seg><seg type="rp">）</seg></seg>になっているので、この男がこうして真面目なのは、なんとも不気味で、ほとんどもの凄いような感じさえするのだった。<lb />
+「おうさ。」藤吉親分の、無表情な<seg type="ruby"><seg type="rb">応答</seg><seg type="rp">（</seg><seg type="rt">こたえ</seg><seg type="rp">）</seg></seg>である。「別にたいしたこたあねえやな。ちょいと、絞め殺されただけよ。全体、場ふさぎな図体をしやあがって、<seg rend="SESAME_DOT" rendition="strong">から</seg>だらしがねえじゃあねえか。なあ、円枝師匠、ははははは。」<lb />
 「じょ、冗談じゃあねえ、親分」円枝は、どぎまぎして、それでも、嬉しそうに、「若いものを持ち上げなさるのは、罪でさ。あっしは、まだ師匠なんて言われる身分じゃあございません。」<lb />
 　言いながら、ちらとおこよを顧みた円枝の眼に、押さえきれない誇らしい影のあるのを看て取った藤吉は、これは、円枝はこの女に大分心を動かしているな、ことによると、このふたりのあいだに――と、ひそかに結びつけて当りをつけながら、何気なく藤吉が言葉を向けたのは、うしろにいる席主の幸七へだった。<lb />
 「この梅の家の踊りてえのは、もうじきすむんじゃあねえのかえ。」<lb />
 「へえ、もう下りますころで。」<lb />
 「屍骸を見せずに、この部屋から、むこうの溜りへ帰すようにしな。廊下を通らしちゃあいけねえ。」<lb />
-　そういっているところへ、高座の上り口が開いて、眼のまえに華やかな<span type="ruby"><span type="rb">色彩</span><span type="rp">（</span><span type="rt">いろ</span><span type="rp">）</span></span>が揺れ動いたかと思うと、梅の家の女たちが四、五人、がやがや言って廊下へ降りて来た。<lb />
+　そういっているところへ、高座の上り口が開いて、眼のまえに華やかな<seg type="ruby"><seg type="rb">色彩</seg><seg type="rp">（</seg><seg type="rt">いろ</seg><seg type="rp">）</seg></seg>が揺れ動いたかと思うと、梅の家の女たちが四、五人、がやがや言って廊下へ降りて来た。<lb />
 「おい、つぎは花さんだ。」幸七が、高座を明かせまいとして、芸人たちの溜りのほうへ声を高めた。<lb />
 「花さんは、何をしてる――。」<lb />
 「おやおや、ものを食うひまもありゃあしない。」<lb />
-　楽屋で弥助を<span type="ruby"><span type="rb">摘</span><span type="rp">（</span><span type="rt">つま</span><span type="rp">）</span></span>んでいた浮かれ節の花坊主が、口いっぱいに頬張ってもごもごさせながら、<lb />
+　楽屋で弥助を<seg type="ruby"><seg type="rb">摘</seg><seg type="rp">（</seg><seg type="rt">つま</seg><seg type="rp">）</seg></seg>んでいた浮かれ節の花坊主が、口いっぱいに頬張ってもごもごさせながら、<lb />
 「はい。おん前に候。ごめん下さいまし。」<lb />
-　藤吉たちのあいだをすり抜けて、高座へ出て行った。頭をあおあおと丸めて、古代むらさきの<span rend="SESAME_DOT" rendition="strong">しぼり</span>のあらい縮緬の羽織をずり落ちそうに、真っ赤な裏をちらちら見せている。<lb />
+　藤吉たちのあいだをすり抜けて、高座へ出て行った。頭をあおあおと丸めて、古代むらさきの<seg rend="SESAME_DOT" rendition="strong">しぼり</seg>のあらい縮緬の羽織をずり落ちそうに、真っ赤な裏をちらちら見せている。<lb />
 「ええ――かわりあいまして、かわり栄えもございません。毎度お耳お古いところで恐れ入りますが、おあとには、おめあてが続々繰り込んでおりますので、手前はやはり、うきよぶしを二つ三つ、なあんて、いい気なもので、さあ――。」<lb />
-　花坊主の声が、高座うらの藤吉の耳にも、遠く<span type="ruby"><span type="rb">籠</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>もったものに聞こえて来る。<lb />
+　花坊主の声が、高座うらの藤吉の耳にも、遠く<seg type="ruby"><seg type="rb">籠</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>もったものに聞こえて来る。<lb />
 　廊下を行こうとした梅の家連の女たちは、幸七に引き止められて、追われるように、すぐ横側の部屋へ上った。<lb />
 　何ごとが起ったのか――と、不審げにしている若い女たちのまえに、藤吉が立った。<lb />
 　が、そこの廊下に、あの武右衛門が仰向になって横たわっていることが、誰からともなくすぐ伝わったとみえて、急に、女どもの白い顔に、恐怖が来た。<lb />
-　藤吉は、その、一列にならんでいる梅の家連中を、覗って、例の<span type="ruby"><span type="rb">眇</span><span type="rp">（</span><span type="rt">すがめ</span><span type="rp">）</span></span>で、右から左へ、左から右へ、二、三度じっと、撫でるように見渡していたが、やがて、口の隅から呟くように、<lb />
+　藤吉は、その、一列にならんでいる梅の家連中を、覗って、例の<seg type="ruby"><seg type="rb">眇</seg><seg type="rp">（</seg><seg type="rt">すがめ</seg><seg type="rp">）</seg></seg>で、右から左へ、左から右へ、二、三度じっと、撫でるように見渡していたが、やがて、口の隅から呟くように、<lb />
 「踊りてえものは、難かしゅうごわしょうな。」<lb />
-　一応、調べられる――と思っていたのが、藪から棒に、この問いだったので、女たちは、変に拍子抜けがして、いそいで互いに顔を見合った。金魚のように、長い袂をゆすって、笑いかけた女もあった。ひとり、少し<span type="ruby"><span type="rb">年長</span><span type="rp">（</span><span type="rt">としかさ</span><span type="rp">）</span></span>らしいのが、<lb />
+　一応、調べられる――と思っていたのが、藪から棒に、この問いだったので、女たちは、変に拍子抜けがして、いそいで互いに顔を見合った。金魚のように、長い袂をゆすって、笑いかけた女もあった。ひとり、少し<seg type="ruby"><seg type="rb">年長</seg><seg type="rp">（</seg><seg type="rt">としかさ</seg><seg type="rp">）</seg></seg>らしいのが、<lb />
 「はあ。でも、親分さんなどは、お器用でいらっしゃいますから――。」<lb />
 「はい。おいらだってこれで、まんざらでもねえのさ。」<lb />
 　こういって藤吉は、やにわに、妙な恰好に両足を動かして、踊りの身振りのようなことをして見せた。<lb />
@@ -260,7 +260,7 @@
 「円枝さんは、先に引っ込んだ。おこよさんは、ここで、紋之助師匠と話しこんでいなすったのだね。」<lb />
 　藤吉は、まだそこにぼんやり立っていた円枝とおこよへ、声をかけた。<lb />
 　円枝が、きょとんとして、答えた。<lb />
-「へえ。あっしは、武右衛門さんに高座を渡して、ずっとこの裏の溜りで馬鹿っ話をしておりました。すぐ帰るつもりだったんですが、来る途中、下駄の緒を切らしてしまって、楽屋番の銀おやじが<span rend="SESAME_DOT" rendition="strong">すげて</span>いてくれるんですけれど、それがなかなか立たねえので――今も、待っているところでございます。」<lb />
+「へえ。あっしは、武右衛門さんに高座を渡して、ずっとこの裏の溜りで馬鹿っ話をしておりました。すぐ帰るつもりだったんですが、来る途中、下駄の緒を切らしてしまって、楽屋番の銀おやじが<seg rend="SESAME_DOT" rendition="strong">すげて</seg>いてくれるんですけれど、それがなかなか立たねえので――今も、待っているところでございます。」<lb />
 　おこよは、静かな眼を藤吉の顔に据えて、しとやかにうなずいた。<lb />
 「おまはんに訊くが」と、藤吉はおこよへ、「廊下に、誰も見かけなかったかね？」<lb />
 「はい。武右衛門さんが高座を下りて、この前を通って行ったきりで――。」<lb />
@@ -274,15 +274,15 @@
 「ほかに、この辺に人はいなかったといいなさる。」<lb />
 「はい。どなたも見かけませんでございました。」<lb />
 「おう、円枝さんえ。」藤吉は、不意に声を落して、顔を突き出した。「隠しちゃあいけねえ。おっと、あわてるこたあねえのだ。おまはん、武右衛門とは、普段から仲が悪かったろうな。」<lb />
-　急に<span type="ruby"><span type="rb">蒼褪</span><span type="rp">（</span><span type="rt">あおざ</span><span type="rp">）</span></span>めた円枝が、無言で、口を開けたり閉じたりしていると、おこよが言葉を挾んで、<lb />
-「それは親分さん、あたしから申し上げます。武右衛門さんも、そりゃあ好い人でしたけれど、うるさくあたしにつきまとって、あんまりくどいんで、それに、あたしが嫌がってることを知ってるもんですから、なにかにつけ、円枝さんが買って出てあたしを<span type="ruby"><span type="rb">守護</span><span type="rp">（</span><span type="rt">まも</span><span type="rp">）</span></span>って下すったんです。」<lb />
-「とんだ<span type="ruby"><span type="rb">惚気</span><span type="rp">（</span><span type="rt">のろけ</span><span type="rp">）</span></span>だ。」苦笑が、藤吉の口を曲げた、「ここらあたりと狙って、ちょっと一本<span type="ruby"><span type="rb">放</span><span type="rp">（</span><span type="rt">ぶ</span><span type="rp">）</span></span>ちこんでみたんだが、おこよさんの口ぶりじゃあ、どうやら金の字だったようだのう。」<lb />
+　急に<seg type="ruby"><seg type="rb">蒼褪</seg><seg type="rp">（</seg><seg type="rt">あおざ</seg><seg type="rp">）</seg></seg>めた円枝が、無言で、口を開けたり閉じたりしていると、おこよが言葉を挾んで、<lb />
+「それは親分さん、あたしから申し上げます。武右衛門さんも、そりゃあ好い人でしたけれど、うるさくあたしにつきまとって、あんまりくどいんで、それに、あたしが嫌がってることを知ってるもんですから、なにかにつけ、円枝さんが買って出てあたしを<seg type="ruby"><seg type="rb">守護</seg><seg type="rp">（</seg><seg type="rt">まも</seg><seg type="rp">）</seg></seg>って下すったんです。」<lb />
+「とんだ<seg type="ruby"><seg type="rb">惚気</seg><seg type="rp">（</seg><seg type="rt">のろけ</seg><seg type="rp">）</seg></seg>だ。」苦笑が、藤吉の口を曲げた、「ここらあたりと狙って、ちょっと一本<seg type="ruby"><seg type="rb">放</seg><seg type="rp">（</seg><seg type="rt">ぶ</seg><seg type="rp">）</seg></seg>ちこんでみたんだが、おこよさんの口ぶりじゃあ、どうやら金の字だったようだのう。」<lb />
 　にやりと、彦兵衛をかえり見ると、とむらい彦は、立ったまま寒そうに貧乏揺ぎをしながら、<lb />
 「親分、あんな大の男が、どうしてああちょろっと絞め殺されたのか、それがあっしにゃあ、まだわからねえ。」<lb />
 「べら棒め、おいらにもわからねえことが、彦づらに解ってたまるけえ。」<lb />
 「だがね、親分。こりゃあ、絞め殺されたというよりあ、首に紐を巻かれて、はっとしてあわてる拍子に、自分で縊れ死んだ――んじゃあねえか、と、まあ、こいつああっしの勘考だが――。」<lb />
 「でかしたぞ、彦。じつあおいらも、そこいらのところと――つまり、武右衛門は、いわば自力で縊ったようなものと、とうから踏んでいるのだ。が、誰が、どうやって、廊下を通ってる武右衛門の頸部へ、紐を巻いたか――。」<lb />
-「影の<span type="ruby"><span type="rb">仕業</span><span type="rp">（</span><span type="rt">しわざ</span><span type="rp">）</span></span>だね、親分。」<lb />
+「影の<seg type="ruby"><seg type="rb">仕業</seg><seg type="rp">（</seg><seg type="rt">しわざ</seg><seg type="rp">）</seg></seg>だね、親分。」<lb />
 「そうよ。影の仕業よ。でその影あ――。」<lb />
 「そこだて――。」<lb />
 　彦兵衛が、しっくり腕を組むと、藤吉は、珍しくにこにこして、<lb />
@@ -295,7 +295,7 @@
 　おこよが、びっくり振り向いて、<lb />
 「あら、ほんとに――。」<lb />
 「どうもとんだことで――お役目御苦労に存じます。」<lb />
-　<span type="ruby"><span type="rb">慇懃</span><span type="rp">（</span><span type="rt">いんぎん</span><span type="rp">）</span></span>に藤吉へ挨拶して、幾分迷惑そうに、紋之助老人は、前へ出た。<lb />
+　<seg type="ruby"><seg type="rb">慇懃</seg><seg type="rp">（</seg><seg type="rt">いんぎん</seg><seg type="rp">）</seg></seg>に藤吉へ挨拶して、幾分迷惑そうに、紋之助老人は、前へ出た。<lb />
 　藤吉が、<lb />
 「ねえ、師匠、障子に影だけ見えて、それで、肝腎の人はいなかったというんで――この、二方口の廊下の、いってえどこへ消えたもんでげわしょうのう。」<lb />
 「なあるほど。奇怪なこともあればあるもので――。」<lb />
@@ -313,7 +313,7 @@
 　男衆の藤吉が、訊きに来ても、藤吉は黙って、蝋燭の灯を見つづけながら、かすかにうなずいたきりだった。<lb />
 　すぐに、多勢の手で、重い武右衛門の死体を運ぶらしく、騒がしい人声と物音が、障子のそとの廊下に起って、遠ざかって行った。<lb />
 　紋之助は、じっとそれに聞き入るように、耳を澄ましているふうだった。<lb />
-　高座から、花坊主の唄う浮世節の節廻しが、<span type="ruby"><span type="rb">粋</span><span type="rp">（</span><span type="rt">いき</span><span type="rp">）</span></span>に、艶っぽく洩れて来ていた。<lb />
+　高座から、花坊主の唄う浮世節の節廻しが、<seg type="ruby"><seg type="rb">粋</seg><seg type="rp">（</seg><seg type="rt">いき</seg><seg type="rp">）</seg></seg>に、艶っぽく洩れて来ていた。<lb />
 　藤吉が、おこよを片隅へ、さし招いた。<lb />
 　二人は、人形舞台の向うに立って、低声だった。<lb />
 「おめえさんは、師匠の何かね。」<lb />
@@ -321,48 +321,48 @@
 　紋之助老人が、聞きつけて、<lb />
 「三味だけじゃあねえんで。私の人形の片手でございますよ。紋之助の人形は、おこよの糸に乗ってこそ、はじめてお客様の御意を取り結びます、はい。」<lb />
 「あら、そんなこと――。」<lb />
-　おこよは、<span type="ruby"><span type="rb">初心</span><span type="rp">（</span><span type="rt">うぶ</span><span type="rp">）</span></span>らしく、顔を赧くして打ち消しながら、紋之助を見た眼を、藤吉へ返した。<lb />
-「竹久の大師匠の芸でございますもの。あたしの<span type="ruby"><span type="rb">三味</span><span type="rp">（</span><span type="rt">いと</span><span type="rp">）</span></span>は、邪魔をするだけ――。」<lb />
+　おこよは、<seg type="ruby"><seg type="rb">初心</seg><seg type="rp">（</seg><seg type="rt">うぶ</seg><seg type="rp">）</seg></seg>らしく、顔を赧くして打ち消しながら、紋之助を見た眼を、藤吉へ返した。<lb />
+「竹久の大師匠の芸でございますもの。あたしの<seg type="ruby"><seg type="rb">三味</seg><seg type="rp">（</seg><seg type="rt">いと</seg><seg type="rp">）</seg></seg>は、邪魔をするだけ――。」<lb />
 「おこよさん、」藤吉は、ちょっと改まった。「おいらあ、こんな厄介な探索は初めてだ。手も足も出ねえありさまだが、どうですい、あの武右衛門てえ野郎のことを、もそっと聞かしちゃあくれめえかの。」<lb />
 「武右衛門さんのことって、あたしは何も知りませんけれど、なんでも、みなさんと仲が悪かったようでございますよ。もう仏ですから、あしざまに言うのはなんですけれど、ほんとに、厭なお人でござんした。」<lb />
-「ふうむ、どうしてまた、そんなに<span type="ruby"><span type="rb">厭</span><span type="rp">（</span><span type="rt">きら</span><span type="rp">）</span></span>われたんで――。」<lb />
-「どうしてと申して、」と、おこよはちょっと<span type="ruby"><span type="rb">逡巡</span><span type="rp">（</span><span type="rt">ためら</span><span type="rp">）</span></span>ったが、「女好きで、そのうえ、自分は大の色男のつもりで――うるさいったらないんです。」<lb />
+「ふうむ、どうしてまた、そんなに<seg type="ruby"><seg type="rb">厭</seg><seg type="rp">（</seg><seg type="rt">きら</seg><seg type="rp">）</seg></seg>われたんで――。」<lb />
+「どうしてと申して、」と、おこよはちょっと<seg type="ruby"><seg type="rb">逡巡</seg><seg type="rp">（</seg><seg type="rt">ためら</seg><seg type="rp">）</seg></seg>ったが、「女好きで、そのうえ、自分は大の色男のつもりで――うるさいったらないんです。」<lb />
 「あの男は、今度越後の山奥とかから出て来て、ここで初めて顔が合ったんじゃあねえのかえ。」<lb />
-「仲間の<span type="ruby"><span type="rb">種</span><span type="rp">（</span><span type="rt">たね</span><span type="rp">）</span></span>を割るようですけれど、死んだ人ですから構いません。いいえ、今度はじめて出て来たどころか、いままで何年となく、<span type="ruby"><span type="rb">上方</span><span type="rp">（</span><span type="rt">かみがた</span><span type="rp">）</span></span>からあちこち<span type="ruby"><span type="rb">巡業</span><span type="rp">（</span><span type="rt">まわ</span><span type="rp">）</span></span>っていた人ですよ。わたしたちも、ずいぶん方々で会いましてございます。」<lb />
+「仲間の<seg type="ruby"><seg type="rb">種</seg><seg type="rp">（</seg><seg type="rt">たね</seg><seg type="rp">）</seg></seg>を割るようですけれど、死んだ人ですから構いません。いいえ、今度はじめて出て来たどころか、いままで何年となく、<seg type="ruby"><seg type="rb">上方</seg><seg type="rp">（</seg><seg type="rt">かみがた</seg><seg type="rp">）</seg></seg>からあちこち<seg type="ruby"><seg type="rb">巡業</seg><seg type="rp">（</seg><seg type="rt">まわ</seg><seg type="rp">）</seg></seg>っていた人ですよ。わたしたちも、ずいぶん方々で会いましてございます。」<lb />
 「そうかい。そんなことだろうと思ってた。」<lb />
 　藤吉が考え込むと、おこよは、問わず語りにつづけて、<lb />
 「円枝さんとも、よく旅で一座しましたが――。」<lb />
 「ふうむ。その円枝さんとは、武右衛門がおめえに色眼を使うんで、たびたび鞘当てがあったことだろうの。」<lb />
-　おこよは、うつむいた。紋之助師匠が、すこし<span rend="SESAME_DOT" rendition="strong">むっ</span>としたような口調で、<lb />
+　おこよは、うつむいた。紋之助師匠が、すこし<seg rend="SESAME_DOT" rendition="strong">むっ</seg>としたような口調で、<lb />
 「あんまり詰らないことを、お訊きにならないように――。」<lb />
 「あっしが訊くと思うと、腹が立つ。」藤吉は、にっこりして、<lb />
-「が、<span type="ruby"><span type="rb">役立</span><span type="rp">（</span><span type="rt">やくだち</span><span type="rp">）</span></span>が訊かせると思うと、こいつあどうも、腹が立ったところで、しようがねえ。まあ、師匠、そんなようなもんだ。」<lb />
+「が、<seg type="ruby"><seg type="rb">役立</seg><seg type="rp">（</seg><seg type="rt">やくだち</seg><seg type="rp">）</seg></seg>が訊かせると思うと、こいつあどうも、腹が立ったところで、しようがねえ。まあ、師匠、そんなようなもんだ。」<lb />
 「でも――、」おこよは、ぎょっとしたように、顔を上げた。<lb />
 「あの時、円枝さんはずっと隣りにいて、それに、あの方は、人殺しをするような、そんな――そんな野暮ったい――。」<lb />
 「親分さん――、」紋之助と話していた円枝も、向うから口を入れた。「あっしを疑うなんて、そりゃあんまりひでえや。あっしは親分――。」<lb />
 「おう、そこにいたのか。まあさ、おまはんは黙っていな。」<lb />
 「黙っていろも、ことによりますよ。人気商売だ。人殺しだなんて言われちゃあ――。」<lb />
-　<span type="ruby"><span type="rb">客席</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>に、笑い声が湧いて、すぐに消えた。藤吉は、再び不機嫌な<span type="ruby"><span type="rb">表情</span><span type="rp">（</span><span type="rt">いろ</span><span type="rp">）</span></span>に返って、周囲の人の顔から顔へと、無意味に見える視線を、しきりに走らせていた。<lb />
-　出が近づいて、紋之助とおこよは、人形を取り出して、あやつり舞台の上に、並べている。狂言は、<span type="ruby"><span type="rb">芹生</span><span type="rp">（</span><span type="rt">せりふ</span><span type="rp">）</span></span>の里寺子屋の段、源蔵、戸浪、菅秀才、村の子供たち、その親多勢、<span type="ruby"><span type="rb">玄蕃</span><span type="rp">（</span><span type="rt">げんば</span><span type="rp">）</span></span>、松王――多くの、いずれも精巧を極めた人形である。<lb />
-　人形の関節、胴、首など、要所要所に糸がついていた、紋之助が、神に近い<span type="ruby"><span type="rb">至芸</span><span type="rp">（</span><span type="rt">しげい</span><span type="rp">）</span></span>で、上から糸を操る――正に天下一の竹久紋之助の人形だ。<lb />
-「竹久紋之助といえる名人あり。人形<span type="ruby"><span type="rb">活</span><span type="rp">（</span><span type="rt">いけ</span><span type="rp">）</span></span>るがごとくに遣い、この太夫に、三味線はこよ女、いずれも古今に名誉の人、二人立揃いてつとめられし世に双絶の見物と、称誉せられしはこれなり。人形使い方のことは、その<span type="ruby"><span type="rb">旧</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>三議一統の書より起り、陰陽自然の事に帰す。深長に至りては、草紙のうえの沙汰に及ばずといえども、その大概を和歌につづりて、覚え易からしむること左の如し。<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+　<seg type="ruby"><seg type="rb">客席</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>に、笑い声が湧いて、すぐに消えた。藤吉は、再び不機嫌な<seg type="ruby"><seg type="rb">表情</seg><seg type="rp">（</seg><seg type="rt">いろ</seg><seg type="rp">）</seg></seg>に返って、周囲の人の顔から顔へと、無意味に見える視線を、しきりに走らせていた。<lb />
+　出が近づいて、紋之助とおこよは、人形を取り出して、あやつり舞台の上に、並べている。狂言は、<seg type="ruby"><seg type="rb">芹生</seg><seg type="rp">（</seg><seg type="rt">せりふ</seg><seg type="rp">）</seg></seg>の里寺子屋の段、源蔵、戸浪、菅秀才、村の子供たち、その親多勢、<seg type="ruby"><seg type="rb">玄蕃</seg><seg type="rp">（</seg><seg type="rt">げんば</seg><seg type="rp">）</seg></seg>、松王――多くの、いずれも精巧を極めた人形である。<lb />
+　人形の関節、胴、首など、要所要所に糸がついていた、紋之助が、神に近い<seg type="ruby"><seg type="rb">至芸</seg><seg type="rp">（</seg><seg type="rt">しげい</seg><seg type="rp">）</seg></seg>で、上から糸を操る――正に天下一の竹久紋之助の人形だ。<lb />
+「竹久紋之助といえる名人あり。人形<seg type="ruby"><seg type="rb">活</seg><seg type="rp">（</seg><seg type="rt">いけ</seg><seg type="rp">）</seg></seg>るがごとくに遣い、この太夫に、三味線はこよ女、いずれも古今に名誉の人、二人立揃いてつとめられし世に双絶の見物と、称誉せられしはこれなり。人形使い方のことは、その<seg type="ruby"><seg type="rb">旧</seg><seg type="rp">（</seg><seg type="rt">もと</seg><seg type="rp">）</seg></seg>三議一統の書より起り、陰陽自然の事に帰す。深長に至りては、草紙のうえの沙汰に及ばずといえども、その大概を和歌につづりて、覚え易からしむること左の如し。<lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 踏み出しは、男ひだりに女右、これ陰陽の差別なりけり<lb />
 当惑は額を撫でて屈み目に、身をそむけるが定まりし法<lb />
 驚きは、顔しりぞけて肩を出し、拳を宙に置くものぞかし<lb />
 笑う時、男は肩を添る也、女は袖をあててうつむく。」<lb />
-</span>
+</seg>
 　その他、これら人形の表現法と基本動作を歌にして示したのが五十三首あって、古来喧ましい竹久家の名人芸だった。<lb />
 <lb />
 　　　　　　九<lb />
 <lb />
-　人形を見ていて藤吉は、そんなことを考えていたわけではない。この時、かれの<span type="ruby"><span type="rb">頭脳</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>はほかにあって、忙しく働いていたのである。<lb />
-　出方の藤吉の眼は、とっさのことではあり、それに、<span type="ruby"><span type="rb">相方</span><span type="rp">（</span><span type="rt">あいかた</span><span type="rp">）</span></span>が、ぼんやりした影法師なので間違っているかもしれないが、とにかく、その、障子にうつった影は――傴僂だったという。が、言うまでもなく、楽屋にせむしは、ひとりもいないのである。<lb />
+　人形を見ていて藤吉は、そんなことを考えていたわけではない。この時、かれの<seg type="ruby"><seg type="rb">頭脳</seg><seg type="rp">（</seg><seg type="rt">あたま</seg><seg type="rp">）</seg></seg>はほかにあって、忙しく働いていたのである。<lb />
+　出方の藤吉の眼は、とっさのことではあり、それに、<seg type="ruby"><seg type="rb">相方</seg><seg type="rp">（</seg><seg type="rt">あいかた</seg><seg type="rp">）</seg></seg>が、ぼんやりした影法師なので間違っているかもしれないが、とにかく、その、障子にうつった影は――傴僂だったという。が、言うまでもなく、楽屋にせむしは、ひとりもいないのである。<lb />
 　藤吉は、うっとりしたような眼で、彦兵衛を招いてささやいた。<lb />
-「誰と誰てえことは言わねえが、おらあ一応五人の人間を疑ってみたんだ。が、考えてその四人まで<span type="ruby"><span type="rb">身証</span><span type="rp">（</span><span type="rt">みしょう</span><span type="rp">）</span></span>がはっきりして取り除くとすると――<span type="ruby"><span type="rb">最後</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span>の一人が犯人てえことは、なあ彦、動かねえところだろうじゃあねえか。」<lb />
+「誰と誰てえことは言わねえが、おらあ一応五人の人間を疑ってみたんだ。が、考えてその四人まで<seg type="ruby"><seg type="rb">身証</seg><seg type="rp">（</seg><seg type="rt">みしょう</seg><seg type="rp">）</seg></seg>がはっきりして取り除くとすると――<seg type="ruby"><seg type="rb">最後</seg><seg type="rp">（</seg><seg type="rt">あと</seg><seg type="rp">）</seg></seg>の一人が犯人てえことは、なあ彦、動かねえところだろうじゃあねえか。」<lb />
 「へえ、その五人目てえのは、誰なんで。」<lb />
 　葬式彦は、わかったような、わからないような顔をする。<lb />
-「まあ、<span type="ruby"><span type="rb">急</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>くなってことよ。」<lb />
+「まあ、<seg type="ruby"><seg type="rb">急</seg><seg type="rp">（</seg><seg type="rt">せ</seg><seg type="rp">）</seg></seg>くなってことよ。」<lb />
 　その釘抜のような顔を運んで、藤吉は、ぴょこりと廊下へ降りた。そして、にわかに鋭い眼になって、一方から蝋燭の光の来る、細い廊下の上下を見渡した。<lb />
 　うしろからだけ光線を浴びた藤吉の影が、障子をいっぱいに埋めて、黒く塗り潰したように見える。藤吉は、二、三歩、障子のほうへ進んでみた。<lb />
 　光から遠ざかると、それだけ影が大きくなる――そして、それだけ影が薄くなる。茫っと、拡がるのだ。<lb />
@@ -384,26 +384,26 @@
 　ちょっと、間があった。<lb />
 　紋之助は、痩せた肩を聳かして、真正面から、藤吉を見据えた。<lb />
 「おそれいりますが、おめがね違いです。」<lb />
-「とは言わせねえぜ。じつああっしが――と、<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">ちょく</span><span type="rp">）</span></span>に出な、直に。」<lb />
+「とは言わせねえぜ。じつああっしが――と、<seg type="ruby"><seg type="rb">直</seg><seg type="rp">（</seg><seg type="rt">ちょく</seg><seg type="rp">）</seg></seg>に出な、直に。」<lb />
 　口を開いたのは、おこよだった。<lb />
 「親分さん、何をつまらない冗談をおっしゃるんです。」血が滲みそうに、切れ長の眼尻が、上っていた。<lb />
 「師匠は、鼠一匹殺さないお人で、それに、こんなお年寄りじゃあありませんか。釘抜藤吉とも言われる方が、すこしは眼をあけて人を見ていただきましょう。」<lb />
 「親分、師匠はこの部屋で、おこよさんと何か手真似で話をしていて、」出方の藤吉も、気の毒そうに、「廊下にゃいなかったんですぜ。」<lb />
-「おうさ。その手真似のことよ。」と、藤吉は、おこよへ笑って、「その時師匠は、<span type="ruby"><span type="rb">鴨居</span><span type="rp">（</span><span type="rt">かもい</span><span type="rp">）</span></span>越しに、障子のそとへ人形を垂らして見ずに糸を使っちゃあいなかったかな。」<lb />
+「おうさ。その手真似のことよ。」と、藤吉は、おこよへ笑って、「その時師匠は、<seg type="ruby"><seg type="rb">鴨居</seg><seg type="rp">（</seg><seg type="rt">かもい</seg><seg type="rp">）</seg></seg>越しに、障子のそとへ人形を垂らして見ずに糸を使っちゃあいなかったかな。」<lb />
 「ええ。そうやって、糸の使いをいろいろ苦心しながら、わたしに指の動かし方を話して聞かせていらっしゃいましたが――。」<lb />
 　一同の眼が、障子の上を振り仰ぐと、なるほど、鴨居のすかしがあけられて、開きが作られてある。<lb />
 　藤吉は、笑い出していた。<lb />
-「早く言やあ、右にも左にも、下にも、犯人の<span type="ruby"><span type="rb">逃</span><span type="rp">（</span><span type="rt">ず</span><span type="rp">）</span></span>らかるところがねえとすりゃあ。上から飛んで逃げたにきまってらあな。」<lb />
+「早く言やあ、右にも左にも、下にも、犯人の<seg type="ruby"><seg type="rb">逃</seg><seg type="rp">（</seg><seg type="rt">ず</seg><seg type="rp">）</seg></seg>らかるところがねえとすりゃあ。上から飛んで逃げたにきまってらあな。」<lb />
 　紋之助もにこにこして、<lb />
 「この年寄りが、あんなところを上ったり下りたり、それに、私にあの力持ちの武右衛門さんが殺せるものですか。馬鹿も、休みやすみ――。」<lb />
-　いきなり、藤吉の手が伸びて、操り舞台のうえの人形の一つを、掴み上げた。それは、ものものしい頭髪と<span type="ruby"><span type="rb">服装</span><span type="rp">（</span><span type="rt">なり</span><span type="rp">）</span></span>の、松王丸の人形だった。<lb />
+　いきなり、藤吉の手が伸びて、操り舞台のうえの人形の一つを、掴み上げた。それは、ものものしい頭髪と<seg type="ruby"><seg type="rb">服装</seg><seg type="rp">（</seg><seg type="rt">なり</seg><seg type="rp">）</seg></seg>の、松王丸の人形だった。<lb />
 「師匠にゃあその力がなくても、師匠の指には、いや、名人の操る糸の先には、金剛力があるのだ。部屋から、鴨居のそとへこの松王の人形を垂らして、これに三味の糸の束ねたのを持たして、操り糸を通す名人の指の先で、軽業師武右衛門を絞めたに相違ねえ――やい、野郎ども、退け！」<lb />
-　藤吉は、人々を押し退けて<span type="ruby"><span type="rb">空地</span><span type="rp">（</span><span type="rt">あき</span><span type="rp">）</span></span>を作りながら、「見ねえ、この灯りを背負って、おいらの影は、あんなに大きく映らあ。藤吉どんの見たのあ、人間の影じゃあねえんだ。そら、こりゃあどうだ――。」<lb />
+　藤吉は、人々を押し退けて<seg type="ruby"><seg type="rb">空地</seg><seg type="rp">（</seg><seg type="rt">あき</seg><seg type="rp">）</seg></seg>を作りながら、「見ねえ、この灯りを背負って、おいらの影は、あんなに大きく映らあ。藤吉どんの見たのあ、人間の影じゃあねえんだ。そら、こりゃあどうだ――。」<lb />
 　武右衛門の倒れた個所の障子に、松王丸の人形の影をうつすと、小さな人形が光線の関係で普通人の大きさに拡がり、頭が大きく、着物の裾がひらいて袴のように見え、それに、背を曲げて、いかさま傴僂のようである。<lb />
 　紋之助は、うつむいて小さな声だった。<lb />
-「おこよを<span type="ruby"><span type="rb">弄</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>ちゃにしようとして、狙っている様子でしたから、いっそのことと思って――。」<lb />
-　藤吉が、気の毒そうな<span type="ruby"><span type="rb">表情</span><span type="rp">（</span><span type="rt">かお</span><span type="rp">）</span></span>になったとき、人々のうしろから太い声がして、<lb />
-「しかし、人形が首に糸を巻いたぐらいで死んだのは――藤吉親分のまえだが、わたしは、こう思いますね。ぼんやり歩いているところへ、くび筋に変な物が下りて来て、うしろから抱きつかれたんで<span rend="SESAME_DOT" rendition="strong">はっ</span>とした。とたんに、咽喉へ紐が来たんで、あわてて取ろうとする。なかなか人形の力なんかで、あの力持ちが死ぬわけはない。これは、驚いて<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/1-92/1-92-36.png" rend="gaiji" rendition="img" source="※(「足へん＋宛」、第3水準1-92-36)" /></span><span type="rp">（</span><span type="rt">もが</span><span type="rp">）</span></span>いた拍子に、われとわが大力で自分の首を締めつけて呼吸がとまったんでごわすから、たまげたのと、除ろうとする<span type="ruby"><span type="rb">腕力</span><span type="rp">（</span><span type="rt">うで</span><span type="rp">）</span></span>のはずみとで、ねえ、親分、武右衛門さんは、<span type="ruby"><span type="rb">結局</span><span type="rp">（</span><span type="rt">つまり</span><span type="rp">）</span></span>、自滅ということになりゃあしませんかい。どうもわたしは、そんな気がしてならねえんだが――。」<lb />
+「おこよを<seg type="ruby"><seg type="rb">弄</seg><seg type="rp">（</seg><seg type="rt">おも</seg><seg type="rp">）</seg></seg>ちゃにしようとして、狙っている様子でしたから、いっそのことと思って――。」<lb />
+　藤吉が、気の毒そうな<seg type="ruby"><seg type="rb">表情</seg><seg type="rp">（</seg><seg type="rt">かお</seg><seg type="rp">）</seg></seg>になったとき、人々のうしろから太い声がして、<lb />
+「しかし、人形が首に糸を巻いたぐらいで死んだのは――藤吉親分のまえだが、わたしは、こう思いますね。ぼんやり歩いているところへ、くび筋に変な物が下りて来て、うしろから抱きつかれたんで<seg rend="SESAME_DOT" rendition="strong">はっ</seg>とした。とたんに、咽喉へ紐が来たんで、あわてて取ろうとする。なかなか人形の力なんかで、あの力持ちが死ぬわけはない。これは、驚いて<seg type="ruby"><seg type="rb"><seg change="gaiji" facs="../../../gaiji/1-92/1-92-36.png" rend="gaiji" rendition="img" source="※(「足へん＋宛」、第3水準1-92-36)" /></seg><seg type="rp">（</seg><seg type="rt">もが</seg><seg type="rp">）</seg></seg>いた拍子に、われとわが大力で自分の首を締めつけて呼吸がとまったんでごわすから、たまげたのと、除ろうとする<seg type="ruby"><seg type="rb">腕力</seg><seg type="rp">（</seg><seg type="rt">うで</seg><seg type="rp">）</seg></seg>のはずみとで、ねえ、親分、武右衛門さんは、<seg type="ruby"><seg type="rb">結局</seg><seg type="rp">（</seg><seg type="rt">つまり</seg><seg type="rp">）</seg></seg>、自滅ということになりゃあしませんかい。どうもわたしは、そんな気がしてならねえんだが――。」<lb />
 　いま楽屋入りして、騒動を聞いたばかりの、真打ちの軍談師伯朝だった。<lb />
 　古今の名人竹久紋之助を、その純情の罪から救いたい一心で、哀願が、伯朝の顔いっぱいに書かれてあった。<lb />
 　これが、藤吉にも、何とかして助けたいと、ひそかに望んでいた機会となったに相違ない。<lb />
@@ -413,6 +413,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

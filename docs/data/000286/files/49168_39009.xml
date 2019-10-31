@@ -98,29 +98,29 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="notes">［＃ページの左右中央］</span><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="notes" rendition="span">［＃ページの左右中央］</seg><lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 おさんだいしよさまは、常陸地方の方言、<lb />
 三台星のことなり。<lb />
 <lb />
 おさんだいしよさま<lb />
 屋根の上<lb />
-<span type="ruby"><span type="rb">麦</span><span type="rp">（</span><span type="rt">むぎ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">搗</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>きや臼の蔭で<lb />
-<span type="ruby"><span type="rb">杵枕</span><span type="rp">（</span><span type="rt">きねまくら</span><span type="rp">）</span></span>――　　　　（農民歌）<lb />
+<seg type="ruby"><seg type="rb">麦</seg><seg type="rp">（</seg><seg type="rt">むぎ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">搗</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>きや臼の蔭で<lb />
+<seg type="ruby"><seg type="rb">杵枕</seg><seg type="rp">（</seg><seg type="rt">きねまくら</seg><seg type="rp">）</seg></seg>――　　　　（農民歌）<lb />
 <lb />
 農村の夜更けなどしのばれて、われには<lb />
 なつかしき星なり。<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">あの山越えて</span></span>
+<seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">あの山越えて</seg></seg>
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">あの山越えて</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110">あの山越えて</seg></seg></seg>
 <lb />
 おれとゆかぬか<lb />
 　　　山越えて<lb />
@@ -133,7 +133,7 @@
 　　　おらいやだ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">酒</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">酒</seg></seg></seg>
 <lb />
 酒はよいもの<lb />
 お酒は（アラヨー）<lb />
@@ -148,7 +148,7 @@
 若返る　若返る<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">空は夕焼</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">空は夕焼</seg></seg></seg>
 <lb />
 空は夕焼　酒場は遠い<lb />
 可愛女でも見にゆこか<lb />
@@ -163,7 +163,7 @@
 　　コリヤ　デカデカレンレン<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">夢の鳥</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi140">夢の鳥</seg></seg></seg>
 <lb />
 わたしや女の<lb />
 かなしさに<lb />
@@ -171,7 +171,7 @@
 捨てらりや世間も<lb />
 狭くなる<lb />
 <lb />
-女の<span type="ruby"><span type="rb">念力</span><span type="rp">（</span><span type="rt">ねんりき</span><span type="rp">）</span></span><lb />
+女の<seg type="ruby"><seg type="rb">念力</seg><seg type="rp">（</seg><seg type="rt">ねんりき</seg><seg type="rp">）</seg></seg><lb />
 夢の鳥<lb />
 <lb />
 夢の鳥ゆゑ<lb />
@@ -181,12 +181,12 @@
 逢ひにゆく<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">わたしや女よ</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi150">わたしや女よ</seg></seg></seg>
 <lb />
 わたしや女よ<lb />
-　　　<span type="ruby"><span type="rb">可愛</span><span type="rp">（</span><span type="rt">かはい</span><span type="rp">）</span></span>の人よ<lb />
+　　　<seg type="ruby"><seg type="rb">可愛</seg><seg type="rp">（</seg><seg type="rt">かはい</seg><seg type="rp">）</seg></seg>の人よ<lb />
 思ひつめれば<lb />
-　　　<span type="ruby"><span type="rb">蛇</span><span type="rp">（</span><span type="rt">じや</span><span type="rp">）</span></span>にもなる<lb />
+　　　<seg type="ruby"><seg type="rb">蛇</seg><seg type="rp">（</seg><seg type="rt">じや</seg><seg type="rp">）</seg></seg>にもなる<lb />
 <lb />
 永いこの世に<lb />
 　　　短や命<lb />
@@ -209,11 +209,11 @@
 　　　恋はせぬ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">春の月</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi160">春の月</seg></seg></seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi161">一</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi161">一</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">紅屋</span><span type="rp">（</span><span type="rt">べにや</span><span type="rp">）</span></span>で娘の言ふことにや<lb />
+<seg type="ruby"><seg type="rb">紅屋</seg><seg type="rp">（</seg><seg type="rt">べにや</seg><seg type="rp">）</seg></seg>で娘の言ふことにや<lb />
 （サノ）言ふことにや<lb />
 <lb />
 春のお月さま薄ぐもり<lb />
@@ -225,9 +225,9 @@
 わたしも薄紅つけよかな<lb />
 （ト、サイサイ）つけよかな<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi162">二</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi162">二</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">粉屋</span><span type="rp">（</span><span type="rt">こなや</span><span type="rp">）</span></span>で妹の言ふことにや<lb />
+<seg type="ruby"><seg type="rb">粉屋</seg><seg type="rp">（</seg><seg type="rt">こなや</seg><seg type="rp">）</seg></seg>で妹の言ふことにや<lb />
 （サノ）言ふことにや<lb />
 <lb />
 わたしの姉さん薄化粧<lb />
@@ -240,7 +240,7 @@
 （ト、サイサイ）しませうかな<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi172">観音さま</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi172">観音さま</seg></seg></seg>
 <lb />
 唄<lb />
 　「わたしや浅草の<lb />
@@ -249,7 +249,7 @@
 　「お母さんに話しちや<lb />
 　　　　　いけないよ<lb />
 唄<lb />
-　「しかも<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>のつく<lb />
+　「しかも<seg type="ruby"><seg type="rb">灯</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>のつく<lb />
 　　　　　たそがれ頃に――<lb />
 詞<lb />
 　「言つてあるいちや<lb />
@@ -262,10 +262,10 @@
 　　　　　いけないよ<lb />
 唄<lb />
 　「鳩がお屋根で<lb />
-　　　　　<span type="ruby"><span type="rb">夕</span><span type="rp">（</span><span type="rt">ゆふ</span><span type="rp">）</span></span>ざれた<lb />
+　　　　　<seg type="ruby"><seg type="rb">夕</seg><seg type="rp">（</seg><seg type="rt">ゆふ</seg><seg type="rp">）</seg></seg>ざれた<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi182">異国情緒</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi182">異国情緒</seg></seg></seg>
 <lb />
 嫁になりたや<lb />
 　　　聟さまほしや<lb />
@@ -275,12 +275,12 @@
 <lb />
 縁が遠けりや<lb />
 　　　おしやれておいで<lb />
-<span type="ruby"><span type="rb">人目</span><span type="rp">（</span><span type="rt">ひとめ</span><span type="rp">）</span></span>惹かなきや<lb />
+<seg type="ruby"><seg type="rb">人目</seg><seg type="rp">（</seg><seg type="rt">ひとめ</seg><seg type="rp">）</seg></seg>惹かなきや<lb />
 　　　縁が来ぬ<lb />
 　アラテバヨ　アラテバヨ<lb />
 <lb />
 人目惹くさに<lb />
-　　　<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>へ出て見たが<lb />
+　　　<seg type="ruby"><seg type="rb">門</seg><seg type="rp">（</seg><seg type="rt">かど</seg><seg type="rp">）</seg></seg>へ出て見たが<lb />
 今日も空しや<lb />
 　　　日が暮れる<lb />
 　アラテバヨ　アラテバヨ<lb />
@@ -292,7 +292,7 @@
 　アラテバヨ　アラテバヨ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi192">夜明し千鳥</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi192">夜明し千鳥</seg></seg></seg>
 <lb />
 今夜忍ぶは<lb />
 　　　恋ではないに（サイサイ）<lb />
@@ -313,7 +313,7 @@
 　　　火も吐いた<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi202">軒端雀</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi202">軒端雀</seg></seg></seg>
 <lb />
 軒端で雀の<lb />
 　　　言ふことにや<lb />
@@ -330,11 +330,11 @@
 お母さんは知らない<lb />
 　　　アララのラ<lb />
 <lb />
-お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とつ</span><span type="rp">）</span></span>さんも知らない<lb />
+お<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とつ</seg><seg type="rp">）</seg></seg>さんも知らない<lb />
 　　　アララのラ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi212">親心</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi212">親心</seg></seg></seg>
 <lb />
 お袖引かれりや<lb />
 　　　いやだと言へよ<lb />
@@ -343,7 +343,7 @@
 　　　顔かくせ<lb />
 <lb />
 十四頃なりや<lb />
-　　　<span type="ruby"><span type="rb">未通</span><span type="rp">（</span><span type="rt">おぼこ</span><span type="rp">）</span></span>で通る<lb />
+　　　<seg type="ruby"><seg type="rb">未通</seg><seg type="rp">（</seg><seg type="rt">おぼこ</seg><seg type="rp">）</seg></seg>で通る<lb />
 <lb />
 明けりや二十一<lb />
 　　　十四と七つ<lb />
@@ -355,7 +355,7 @@
 　　　かくされぬ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi222">菜の花踊り</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi222">菜の花踊り</seg></seg></seg>
 <lb />
 咲けや菜の花<lb />
 　　揉めろや菜の葉　ホイホイ<lb />
@@ -394,12 +394,12 @@
 　　夢もみる　ササ　ホイホイ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi232">娘と船大工</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi232">娘と船大工</seg></seg></seg>
 <lb />
 　　娘<lb />
 橋をかけたや<lb />
-　　　<span type="ruby"><span type="rb">音戸</span><span type="rp">（</span><span type="rt">おんど</span><span type="rp">）</span></span>の瀬戸へ<lb />
-<span type="ruby"><span type="rb">通</span><span type="rp">（</span><span type="rt">かよ</span><span type="rp">）</span></span>てゆきたや<lb />
+　　　<seg type="ruby"><seg type="rb">音戸</seg><seg type="rp">（</seg><seg type="rt">おんど</seg><seg type="rp">）</seg></seg>の瀬戸へ<lb />
+<seg type="ruby"><seg type="rb">通</seg><seg type="rp">（</seg><seg type="rt">かよ</seg><seg type="rp">）</seg></seg>てゆきたや<lb />
 　　　船大工さんよ<lb />
 <lb />
 　　船大工<lb />
@@ -423,14 +423,14 @@
 　　　船大工さんよ<lb />
 <lb />
 　　船大工<lb />
-<span type="ruby"><span type="rb">命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span><span type="ruby"><span type="rb">帆</span><span type="rp">（</span><span type="rt">ほ</span><span type="rp">）</span></span>にして<lb />
+<seg type="ruby"><seg type="rb">命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">帆</seg><seg type="rp">（</seg><seg type="rt">ほ</seg><seg type="rp">）</seg></seg>にして<lb />
 　　　通て来よ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi242">恋の巣立ち</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi242">恋の巣立ち</seg></seg></seg>
 <lb />
 恋の巣立ちか<lb />
-　　　<span type="ruby"><span type="rb">夕</span><span type="rp">（</span><span type="rt">ゆふべ</span><span type="rp">）</span></span>のお星や<lb />
+　　　<seg type="ruby"><seg type="rb">夕</seg><seg type="rp">（</seg><seg type="rt">ゆふべ</seg><seg type="rp">）</seg></seg>のお星や<lb />
 　　触れりや落ちそにもう出てる<lb />
 <lb />
 触れりや落ちそに<lb />
@@ -449,14 +449,14 @@
 <lb />
 うぶな心で<lb />
 　　　あこがれる<lb />
-<span rend="notes">［＃改段］</span><lb />
+<seg rend="notes" rendition="span">［＃改段］</seg><lb />
 <lb />
-<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi342">鴫の声</span></span>
+<seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi342">鴫の声</seg></seg>
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi352">鴫の声</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi352">鴫の声</seg></seg></seg>
 <lb />
 晩げになつても<lb />
-お<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>さんが来ない<lb />
+お<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>さんが来ない<lb />
 <lb />
 お母さん来るかと<lb />
 出て見たりや<lb />
@@ -465,7 +465,7 @@
 鴫の声<lb />
 <lb />
 鴫は田で啼く<lb />
-<span type="ruby"><span type="rb">可愛</span><span type="rp">（</span><span type="rt">かあい</span><span type="rp">）</span></span><span type="ruby"><span type="rb">鳥</span><span type="rp">（</span><span type="rt">とり</span><span type="rp">）</span></span><lb />
+<seg type="ruby"><seg type="rb">可愛</seg><seg type="rp">（</seg><seg type="rt">かあい</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">鳥</seg><seg type="rp">（</seg><seg type="rt">とり</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 待つてもお母さんの<lb />
 来ないときや<lb />
@@ -474,7 +474,7 @@
 いつも啼く<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi362">岩手小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi362">岩手小唄</seg></seg></seg>
 <lb />
 　　○<lb />
 <lb />
@@ -491,12 +491,12 @@
 解けぬかや<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi372">笠松機場唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi372">笠松機場唄</seg></seg></seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi373">一</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi373">一</seg></seg></seg>
 <lb />
 言ふた　言ふた　言ふた<lb />
-お<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>さんが言ふた<lb />
+お<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>さんが言ふた<lb />
 <lb />
 美濃の笠松ア<lb />
 住みよて居よい<lb />
@@ -507,22 +507,22 @@
 娘ゆけよと<lb />
 よいこと言ふた<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi374">二</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi374">二</seg></seg></seg>
 <lb />
 トンカ　トンカ　トンカ<lb />
-<span type="ruby"><span type="rb">機場</span><span type="rp">（</span><span type="rt">はたば</span><span type="rp">）</span></span>で暮らしや<lb />
+<seg type="ruby"><seg type="rb">機場</seg><seg type="rp">（</seg><seg type="rt">はたば</seg><seg type="rp">）</seg></seg>で暮らしや<lb />
 <lb />
 いつも心が<lb />
 トンカ　トンカ若い<lb />
 <lb />
-<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆふべ</span><span type="rp">）</span></span>夢みた<lb />
+<seg type="ruby"><seg type="rb">昨夜</seg><seg type="rp">（</seg><seg type="rt">ゆふべ</seg><seg type="rp">）</seg></seg>夢みた<lb />
 機場の夢を<lb />
 <lb />
-ゆこかお<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>さん<lb />
+ゆこかお<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>さん<lb />
 美濃縞織りに<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi384">さむらひ</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi384">さむらひ</seg></seg></seg>
 <lb />
 空の雲さへ<lb />
 　　日の暮れにや<lb />
@@ -543,9 +543,9 @@
 　　ことばかり<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi394">小松の蔭</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi394">小松の蔭</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">雉子</span><span type="rp">（</span><span type="rt">きぎす</span><span type="rp">）</span></span>ア啼くから<lb />
+<seg type="ruby"><seg type="rb">雉子</seg><seg type="rp">（</seg><seg type="rt">きぎす</seg><seg type="rp">）</seg></seg>ア啼くから<lb />
 　　出て山見たりや<lb />
 <lb />
 雉子ア小松の<lb />
@@ -572,7 +572,7 @@
 　　いぢらしや<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi404">籔鶯</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi404">籔鶯</seg></seg></seg>
 <lb />
 どこで生れた<lb />
 　　籔鶯よ<lb />
@@ -583,19 +583,19 @@
 谷間出るときや<lb />
 　　氷の筏<lb />
 <lb />
-山にや<span type="ruby"><span type="rb">斑</span><span type="rp">（</span><span type="rt">まだら</span><span type="rp">）</span></span>に<lb />
+山にや<seg type="ruby"><seg type="rb">斑</seg><seg type="rp">（</seg><seg type="rt">まだら</seg><seg type="rp">）</seg></seg>に<lb />
 　　雪も降る<lb />
 <lb />
 長い旅ゆゑ<lb />
-　　<span type="ruby"><span type="rb">窶</span><span type="rp">（</span><span type="rt">やつ</span><span type="rp">）</span></span>れたわたし<lb />
+　　<seg type="ruby"><seg type="rb">窶</seg><seg type="rp">（</seg><seg type="rt">やつ</seg><seg type="rp">）</seg></seg>れたわたし<lb />
 <lb />
 姿見せるも<lb />
 　　恥かしや<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi414">雉子の雌鳥</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi414">雉子の雌鳥</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">雉子</span><span type="rp">（</span><span type="rt">きじ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">雌鳥</span><span type="rp">（</span><span type="rt">めんどり</span><span type="rp">）</span></span>や<lb />
+<seg type="ruby"><seg type="rb">雉子</seg><seg type="rp">（</seg><seg type="rt">きじ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">雌鳥</seg><seg type="rp">（</seg><seg type="rt">めんどり</seg><seg type="rp">）</seg></seg>や<lb />
 　　茅野の中で<lb />
 子供たづねて<lb />
 　　ほろたたく<lb />
@@ -617,7 +617,7 @@
 　　果てだやら<lb />
 <lb />
 一の山越え<lb />
-　　<span type="ruby"><span type="rb">二山</span><span type="rp">（</span><span type="rt">ふたやま</span><span type="rp">）</span></span>蔭にや<lb />
+　　<seg type="ruby"><seg type="rb">二山</seg><seg type="rp">（</seg><seg type="rt">ふたやま</seg><seg type="rp">）</seg></seg>蔭にや<lb />
 同じ野もありや<lb />
 　　原もある<lb />
 <lb />
@@ -627,7 +627,7 @@
 　　ほろたたく<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi424">梅に鶯</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi424">梅に鶯</seg></seg></seg>
 <lb />
 梅に鶯<lb />
 　　ちらりととまり<lb />
@@ -642,9 +642,9 @@
 　　ホ　ホケキヨ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi434">釣瓶</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi434">釣瓶</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">釣瓶</span><span type="rp">（</span><span type="rt">つるべ</span><span type="rp">）</span></span>たたいたら<lb />
+<seg type="ruby"><seg type="rb">釣瓶</seg><seg type="rp">（</seg><seg type="rt">つるべ</seg><seg type="rp">）</seg></seg>たたいたら<lb />
 雀の鳥は<lb />
 たまげはらつて<lb />
 飛んで廻つた<lb />
@@ -655,7 +655,7 @@
 飛んで逃げた<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi444">鴨緑江にて</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi444">鴨緑江にて</seg></seg></seg>
 <lb />
 鴨緑江流す筏は<lb />
 水まかせ<lb />
@@ -670,9 +670,9 @@
 袖しぼる<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi454">武蔵野にて</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi454">武蔵野にて</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">雲雀</span><span type="rp">（</span><span type="rt">ひばり</span><span type="rp">）</span></span>の唄よ<lb />
+<seg type="ruby"><seg type="rb">雲雀</seg><seg type="rp">（</seg><seg type="rt">ひばり</seg><seg type="rp">）</seg></seg>の唄よ<lb />
 なつかし唄よ<lb />
 <lb />
 おいらももとは<lb />
@@ -682,9 +682,9 @@
 麦笛吹いた<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi464">笠松小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi464">笠松小唄</seg></seg></seg>
 <lb />
-木曾の<span type="ruby"><span type="rb">御嶽</span><span type="rp">（</span><span type="rt">おんたけ</span><span type="rp">）</span></span>から<lb />
+木曾の<seg type="ruby"><seg type="rb">御嶽</seg><seg type="rp">（</seg><seg type="rt">おんたけ</seg><seg type="rp">）</seg></seg>から<lb />
 流れる水も<lb />
 しばし　笠松の<lb />
 岸によどむ<lb />
@@ -693,60 +693,60 @@
 笠松ア恋し<lb />
 わかれ惜んで<lb />
 しばし　よどむ<lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 （註。笠松町は岐阜県木曽川の岸にあり）<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi474">竹が鼻小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi474">竹が鼻小唄</seg></seg></seg>
 <lb />
 たんたん竹が鼻<lb />
 よいよいよいとこ<lb />
 <lb />
 飛んでゆきたや<lb />
-<span type="ruby"><span type="rb">翼</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>欲しや<lb />
+<seg type="ruby"><seg type="rb">翼</seg><seg type="rp">（</seg><seg type="rt">はね</seg><seg type="rp">）</seg></seg>欲しや<lb />
 <lb />
 飛ぶに飛ばれぬ<lb />
 片袖しぼる<lb />
 <lb />
 せめて雀の<lb />
 翼欲しや<lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 （註。竹が鼻町は美濃国の小都会なり）<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi484">別府温泉小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi484">別府温泉小唄</seg></seg></seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi485">海地獄</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi485">海地獄</seg></seg></seg>
 <lb />
 海の中かと<lb />
 思ふてゐたりや<lb />
 別府海地獄<lb />
 山の中<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi486">鶴見地獄</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi486">鶴見地獄</seg></seg></seg>
 <lb />
 おさへきれない<lb />
 わたしの胸は<lb />
 ちやうど鶴見の<lb />
-<span type="ruby"><span type="rb">活地獄</span><span type="rp">（</span><span type="rt">いきぢごく</span><span type="rp">）</span></span><lb />
+<seg type="ruby"><seg type="rb">活地獄</seg><seg type="rp">（</seg><seg type="rt">いきぢごく</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi487">八幡地獄</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi487">八幡地獄</seg></seg></seg>
 <lb />
 わたしや別府の<lb />
-<span type="ruby"><span type="rb">八幡</span><span type="rp">（</span><span type="rt">はちまん</span><span type="rp">）</span></span>地獄<lb />
+<seg type="ruby"><seg type="rb">八幡</seg><seg type="rp">（</seg><seg type="rt">はちまん</seg><seg type="rp">）</seg></seg>地獄<lb />
 ぶつりぶつりと<lb />
 日を暮らす<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi488">血の池地獄</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi488">血の池地獄</seg></seg></seg>
 <lb />
 とてもかなしや<lb />
 血の池地獄<lb />
 とてもこの世と<lb />
 思はれぬ<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi489">坊主地獄</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi489">坊主地獄</seg></seg></seg>
 <lb />
 因果地獄を<lb />
 見たけりやおいで<lb />
@@ -754,14 +754,14 @@
 坊主地獄<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi499">日田小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi499">日田小唄</seg></seg></seg>
 <lb />
 　　○<lb />
 <lb />
 茶の芽ア伸びるし<lb />
-<span type="ruby"><span type="rb">鮎</span><span type="rp">（</span><span type="rt">あゆ</span><span type="rp">）</span></span>ア瀬に<lb />
+<seg type="ruby"><seg type="rb">鮎</seg><seg type="rp">（</seg><seg type="rt">あゆ</seg><seg type="rp">）</seg></seg>ア瀬に<lb />
 のぼる<lb />
-茶摘み<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">をなご</span><span type="rp">）</span></span>も<lb />
+茶摘み<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">をなご</seg><seg type="rp">）</seg></seg>も<lb />
 もう来やう<lb />
 <lb />
 　　○<lb />
@@ -771,19 +771,19 @@
 くだる<lb />
 早瀬眺めて<lb />
 袖しぼる<lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 （註。大分県日田郡は野生茶の産地なり）<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi509">尾張奥町機場唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi509">尾張奥町機場唄</seg></seg></seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi510">一</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi510">一</seg></seg></seg>
 <lb />
 おいで　おいで　おいで<lb />
-この<span type="ruby"><span type="rb">町</span><span type="rp">（</span><span type="rt">ちやう</span><span type="rp">）</span></span>へおいで<lb />
+この<seg type="ruby"><seg type="rb">町</seg><seg type="rp">（</seg><seg type="rt">ちやう</seg><seg type="rp">）</seg></seg>へおいで<lb />
 <lb />
-来たら<span type="ruby"><span type="rb">序</span><span type="rp">（</span><span type="rt">つひで</span><span type="rp">）</span></span>に<lb />
+来たら<seg type="ruby"><seg type="rb">序</seg><seg type="rp">（</seg><seg type="rt">つひで</seg><seg type="rp">）</seg></seg>に<lb />
 機織つておいで<lb />
 <lb />
 住んで住みよい<lb />
@@ -792,7 +792,7 @@
 尾張奥町は<lb />
 機場でござる<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi511">二</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi511">二</seg></seg></seg>
 <lb />
 啼いた　啼いた　啼いた<lb />
 また来て啼いた<lb />
@@ -805,11 +805,11 @@
 <lb />
 尾張奥町は<lb />
 月夜でござる<lb />
-<span rend="notes">［＃改段］</span><lb />
+<seg rend="notes" rendition="span">［＃改段］</seg><lb />
 <lb />
-<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi611">野雀・雀</span></span>
+<seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi611">野雀・雀</seg></seg>
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi621">野雀・雀</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi621">野雀・雀</seg></seg></seg>
 <lb />
 旅の（チンチン）雀か<lb />
 野雀　雀<lb />
@@ -830,7 +830,7 @@
 日を送る<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi631">人形さん</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi631">人形さん</seg></seg></seg>
 <lb />
 七つ八つまで<lb />
 赤い下駄はいた<lb />
@@ -842,7 +842,7 @@
 下駄はく頃にや<lb />
 　　　人形さんよ<lb />
 <lb />
-わたしやお<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>さんと<lb />
+わたしやお<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>さんと<lb />
 ねんねした<lb />
 いつの間にやら<lb />
 物恥かしい<lb />
@@ -852,7 +852,7 @@
 夢もみる<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi641">三千世界</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi641">三千世界</seg></seg></seg>
 <lb />
 広いこの世は<lb />
 三千世界<lb />
@@ -860,7 +860,7 @@
 皆おいで<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi651">わが涙</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi651">わが涙</seg></seg></seg>
 <lb />
 砂の数ほど<lb />
 かぞへて見たが<lb />
@@ -868,18 +868,18 @@
 わが涙<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi661">雀の鳥</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi661">雀の鳥</seg></seg></seg>
 <lb />
 みんなおなりよ<lb />
 雀の鳥に<lb />
-雀ア<span type="ruby"><span type="rb">家蔵</span><span type="rp">（</span><span type="rt">いへくら</span><span type="rp">）</span></span><lb />
+雀ア<seg type="ruby"><seg type="rb">家蔵</seg><seg type="rp">（</seg><seg type="rt">いへくら</seg><seg type="rp">）</seg></seg><lb />
 建てやせぬ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi671">みなと</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi671">みなと</seg></seg></seg>
 <lb />
 山が晴れれば<lb />
-　　　　<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>やんよ母やんよ<lb />
+　　　　<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">かか</seg><seg type="rp">）</seg></seg>やんよ母やんよ<lb />
 <lb />
 あれサ港に<lb />
 　　　　風が吹く<lb />
@@ -891,7 +891,7 @@
 　　　　袖に吹く<lb />
 <lb />
 山が曇れば<lb />
-　　　　<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とと</span><span type="rp">）</span></span>やんよ　父やんよ<lb />
+　　　　<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とと</seg><seg type="rp">）</seg></seg>やんよ　父やんよ<lb />
 <lb />
 あれサ港に<lb />
 　　　　雨が降る<lb />
@@ -903,7 +903,7 @@
 　　　　袖に降る<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi681">茨の実</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi681">茨の実</seg></seg></seg>
 <lb />
 おお寒む<lb />
 　　　　寒むや<lb />
@@ -921,7 +921,7 @@
 　　　　降つたやら<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi691">因幡夕焼</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi691">因幡夕焼</seg></seg></seg>
 <lb />
 因幡夕やけ<lb />
 どの山見ても<lb />
@@ -936,10 +936,10 @@
 岡山か<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi701">行々子</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi701">行々子</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">葦</span><span type="rp">（</span><span type="rt">よし</span><span type="rp">）</span></span>の葉蔭でカツサカサと<lb />
-<span type="ruby"><span type="rb">行々子</span><span type="rp">（</span><span type="rt">よしきり</span><span type="rp">）</span></span>ア騒ぐ<lb />
+<seg type="ruby"><seg type="rb">葦</seg><seg type="rp">（</seg><seg type="rt">よし</seg><seg type="rp">）</seg></seg>の葉蔭でカツサカサと<lb />
+<seg type="ruby"><seg type="rb">行々子</seg><seg type="rp">（</seg><seg type="rt">よしきり</seg><seg type="rp">）</seg></seg>ア騒ぐ<lb />
 <lb />
 石を投げたら日の暮れ頃だにヨ<lb />
 飛んで逃げた<lb />
@@ -951,7 +951,7 @@
 石ア投げぬ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi711">鯉の滝登り</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi711">鯉の滝登り</seg></seg></seg>
 <lb />
 鯉の滝登り<lb />
 　　　鯉の滝登りヤ<lb />
@@ -962,20 +962,20 @@
 滝にや滝の水<lb />
 　　　樋の水はネ<lb />
 <lb />
-<span type="ruby"><span type="rb">樋</span><span type="rp">（</span><span type="rt">かけひ</span><span type="rp">）</span></span>たよりに<lb />
+<seg type="ruby"><seg type="rb">樋</seg><seg type="rp">（</seg><seg type="rt">かけひ</seg><seg type="rp">）</seg></seg>たよりに<lb />
 　　　流れてる<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi721">笑ふ門</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi721">笑ふ門</seg></seg></seg>
 <lb />
-笑ふ<span type="ruby"><span type="rb">門</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>には<lb />
+笑ふ<seg type="ruby"><seg type="rb">門</seg><seg type="rp">（</seg><seg type="rt">かど</seg><seg type="rp">）</seg></seg>には<lb />
 　　　福来るたとひ<lb />
 <lb />
 笑て暮らそよ<lb />
 　　　皆さんよ<lb />
 <lb />
 笑ろて暮せば<lb />
-　　　<span type="ruby"><span type="rb">家内中</span><span type="rp">（</span><span type="rt">かないぢゆう</span><span type="rp">）</span></span>平和<lb />
+　　　<seg type="ruby"><seg type="rb">家内中</seg><seg type="rp">（</seg><seg type="rt">かないぢゆう</seg><seg type="rp">）</seg></seg>平和<lb />
 <lb />
 愉快　愉快で<lb />
 　　　暮らされる<lb />
@@ -983,11 +983,11 @@
 愉快　愉快で<lb />
 　　　家内中暮らしや<lb />
 <lb />
-いつも<span type="ruby"><span type="rb">穏</span><span type="rp">（</span><span type="rt">おだやか</span><span type="rp">）</span></span><lb />
+いつも<seg type="ruby"><seg type="rb">穏</seg><seg type="rp">（</seg><seg type="rt">おだやか</seg><seg type="rp">）</seg></seg><lb />
 　　　波ア立たぬ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi731">常世の春</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi731">常世の春</seg></seg></seg>
 <lb />
 空は花ぐもり<lb />
 　　菜の花日和<lb />
@@ -1001,44 +1001,44 @@
 花の雫は<lb />
 　　汲んでも尽きぬ<lb />
 <lb />
-<span type="ruby"><span type="rb">少女</span><span type="rp">（</span><span type="rt">をとめ</span><span type="rp">）</span></span>若かれ<lb />
-　　世は<span type="ruby"><span type="rb">長閑</span><span type="rp">（</span><span type="rt">のどか</span><span type="rp">）</span></span>なれ<lb />
+<seg type="ruby"><seg type="rb">少女</seg><seg type="rp">（</seg><seg type="rt">をとめ</seg><seg type="rp">）</seg></seg>若かれ<lb />
+　　世は<seg type="ruby"><seg type="rb">長閑</seg><seg type="rp">（</seg><seg type="rt">のどか</seg><seg type="rp">）</seg></seg>なれ<lb />
 <lb />
-花は<span type="ruby"><span type="rb">常世</span><span type="rp">（</span><span type="rt">とこよ</span><span type="rp">）</span></span>の<lb />
+花は<seg type="ruby"><seg type="rb">常世</seg><seg type="rp">（</seg><seg type="rt">とこよ</seg><seg type="rp">）</seg></seg>の<lb />
 　　春に咲く<lb />
-<span rend="notes">［＃改段］</span><lb />
+<seg rend="notes" rendition="span">［＃改段］</seg><lb />
 <lb />
-<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi831">農民歌</span></span>
+<seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi831">農民歌</seg></seg>
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi841">農民歌</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi841">農民歌</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">一鍬</span><span type="rp">（</span><span type="rt">ひとくわ</span><span type="rp">）</span></span>打ちな<lb />
+<seg type="ruby"><seg type="rb">一鍬</seg><seg type="rp">（</seg><seg type="rt">ひとくわ</seg><seg type="rp">）</seg></seg>打ちな<lb />
 　　サツクリコと打ちな<lb />
 <lb />
-<span type="ruby"><span type="rb">二鍬</span><span type="rp">（</span><span type="rt">ふたくわ</span><span type="rp">）</span></span>打ちな<lb />
+<seg type="ruby"><seg type="rb">二鍬</seg><seg type="rp">（</seg><seg type="rt">ふたくわ</seg><seg type="rp">）</seg></seg>打ちな<lb />
 　　ウントサと打ちな<lb />
 <lb />
-この<span type="ruby"><span type="rb">畑</span><span type="rp">（</span><span type="rt">はた</span><span type="rp">）</span></span>耕しや<lb />
-　　<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>やすみ<lb />
+この<seg type="ruby"><seg type="rb">畑</seg><seg type="rp">（</seg><seg type="rt">はた</seg><seg type="rp">）</seg></seg>耕しや<lb />
+　　<seg type="ruby"><seg type="rb">一</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>やすみ<lb />
 <lb />
-<span type="ruby"><span type="rb">莨</span><span type="rp">（</span><span type="rt">たばこ</span><span type="rp">）</span></span>の煙の<lb />
+<seg type="ruby"><seg type="rb">莨</seg><seg type="rp">（</seg><seg type="rt">たばこ</seg><seg type="rp">）</seg></seg>の煙の<lb />
 　　一やすみ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi851">春の来る日</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi851">春の来る日</seg></seg></seg>
 <lb />
 春の来る日にや<lb />
 こころの底に<lb />
 娘さんだちよ<lb />
 <lb />
 草がちよつぴり<lb />
-<span type="ruby"><span type="rb">萠</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>やせぬか<lb />
+<seg type="ruby"><seg type="rb">萠</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>やせぬか<lb />
 <lb />
 萠えた草だと<lb />
 摘まずにおけば<lb />
 娘さんだちよ<lb />
 <lb />
-<span type="ruby"><span type="rb">軈</span><span type="rp">（</span><span type="rt">やが</span><span type="rp">）</span></span>て葉が出て<lb />
+<seg type="ruby"><seg type="rb">軈</seg><seg type="rp">（</seg><seg type="rt">やが</seg><seg type="rp">）</seg></seg>て葉が出て<lb />
 葉が茂る<lb />
 <lb />
 茂るその葉を<lb />
@@ -1049,7 +1049,7 @@
 花も咲く<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi861">そらとぶ鳥</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi861">そらとぶ鳥</seg></seg></seg>
 <lb />
 空飛ぶ鳥なら<lb />
 　　行く先やどうでも<lb />
@@ -1072,11 +1072,11 @@
 　　流れにやならない<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi871">横丁生れ</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi871">横丁生れ</seg></seg></seg>
 <lb />
 お乳母日傘の<lb />
 　　　娘さん達よ<lb />
-わたしや<span type="ruby"><span type="rb">下街</span><span type="rp">（</span><span type="rt">したまち</span><span type="rp">）</span></span><lb />
+わたしや<seg type="ruby"><seg type="rb">下街</seg><seg type="rp">（</seg><seg type="rt">したまち</seg><seg type="rp">）</seg></seg><lb />
 　　　横丁の生れ<lb />
 蝶よ花よぢや<lb />
 　　　　育ちやせぬ<lb />
@@ -1084,12 +1084,12 @@
 産みの親より<lb />
 　　　　育ての親ぢや<lb />
 親も横丁の<lb />
-　　　　<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>生れ<lb />
+　　　　<seg type="ruby"><seg type="rb">角</seg><seg type="rp">（</seg><seg type="rt">かど</seg><seg type="rp">）</seg></seg>生れ<lb />
 わたしや皆さん<lb />
 　　　　気も荒い<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi881">狐見るたび</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi881">狐見るたび</seg></seg></seg>
 <lb />
 狐見るたび<lb />
 　　　　おら考へる（ドツコイ）<lb />
@@ -1104,22 +1104,22 @@
 　　　話されぬ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi891">踵</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi891">踵</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">踵</span><span type="rp">（</span><span type="rt">かかと</span><span type="rp">）</span></span>たたいたりや<lb />
+<seg type="ruby"><seg type="rb">踵</seg><seg type="rp">（</seg><seg type="rt">かかと</seg><seg type="rp">）</seg></seg>たたいたりや<lb />
 踵見て泣いた<lb />
 <lb />
 踵見ながら<lb />
 笊投げた<lb />
 <lb />
-笊は<span type="ruby"><span type="rb">空笊</span><span type="rp">（</span><span type="rt">からざる</span><span type="rp">）</span></span><lb />
+笊は<seg type="ruby"><seg type="rb">空笊</seg><seg type="rp">（</seg><seg type="rt">からざる</seg><seg type="rp">）</seg></seg><lb />
 ころげてまはりや<lb />
 <lb />
 踵忘れて<lb />
 笊見てる<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi901">子蜂</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi901">子蜂</seg></seg></seg>
 <lb />
 梨の番すりや<lb />
 蜂の子が憎や<lb />
@@ -1130,7 +1130,7 @@
 梨刺した<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi911">あの山蔭</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi911">あの山蔭</seg></seg></seg>
 <lb />
 山は　霜枯れ<lb />
 月や細枯れる<lb />
@@ -1138,47 +1138,47 @@
 お月や出てても<lb />
 あの山蔭にや<lb />
 <lb />
-棲む<span rend="notes">［＃「棲む」は底本では「褄む」］</span>だろ<lb />
-なヨ　<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>や<lb />
+棲む<seg rend="notes" rendition="span">［＃「棲む」は底本では「褄む」］</seg>だろ<lb />
+なヨ　<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">かか</seg><seg type="rp">）</seg></seg>や<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi921">もと米磨ぎの唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi921">もと米磨ぎの唄</seg></seg></seg>
 <lb />
 桶をながめてお米が磨げりや<lb />
 お百姓さんは<lb />
 田さへながめりや蔵が建つ<lb />
 　（トコ　トコダト磨ぎぬきな）<lb />
 <lb />
-<span type="ruby"><span type="rb">一桶</span><span type="rp">（</span><span type="rt">ひとをけ</span><span type="rp">）</span></span>磨ぐのにや<span type="ruby"><span type="rb">十桶</span><span type="rp">（</span><span type="rt">とをけ</span><span type="rp">）</span></span>の水汲み<lb />
+<seg type="ruby"><seg type="rb">一桶</seg><seg type="rp">（</seg><seg type="rt">ひとをけ</seg><seg type="rp">）</seg></seg>磨ぐのにや<seg type="ruby"><seg type="rb">十桶</seg><seg type="rp">（</seg><seg type="rt">とをけ</seg><seg type="rp">）</seg></seg>の水汲み<lb />
 夜明けの明星は<lb />
 まだまだチラリだ<lb />
 　（トコ　トコダト磨ぎぬきな）<lb />
 <lb />
 この桶あげなきや仕込みがおくれる<lb />
 仕込みがおくれりや<lb />
-お<span type="ruby"><span type="rb">暇</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>出される<lb />
+お<seg type="ruby"><seg type="rb">暇</seg><seg type="rp">（</seg><seg type="rt">いとま</seg><seg type="rp">）</seg></seg>出される<lb />
 　（トコ　トコダト磨ぎぬきな）<lb />
 <lb />
-お暇出されりや<span type="ruby"><span type="rb">酒蔵</span><span type="rp">（</span><span type="rt">おくら</span><span type="rp">）</span></span>とおわかれ<lb />
+お暇出されりや<seg type="ruby"><seg type="rb">酒蔵</seg><seg type="rp">（</seg><seg type="rt">おくら</seg><seg type="rp">）</seg></seg>とおわかれ<lb />
 そのときや<lb />
-あの<span type="ruby"><span type="rb">娘</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>と泣きわかれ<lb />
+あの<seg type="ruby"><seg type="rb">娘</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>と泣きわかれ<lb />
 　（トコ　トコダト磨ぎぬきな）<lb />
 <lb />
 そのときやそのときおさらばさらばだ<lb />
-<span type="ruby"><span type="rb">天道</span><span type="rp">（</span><span type="rt">てんと</span><span type="rp">）</span></span>さままかせに<lb />
+<seg type="ruby"><seg type="rb">天道</seg><seg type="rp">（</seg><seg type="rt">てんと</seg><seg type="rp">）</seg></seg>さままかせに<lb />
 足まかせ<lb />
 　（トコ　トコダト磨ぎぬきな）<lb />
 <lb />
 さうなりやこの地へ来年来るやら<lb />
-<span type="ruby"><span type="rb">当</span><span type="rp">（</span><span type="rt">あて</span><span type="rp">）</span></span>さへないから<lb />
-尚更あの<span type="ruby"><span type="rb">娘</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>と泣きわかれ<lb />
+<seg type="ruby"><seg type="rb">当</seg><seg type="rp">（</seg><seg type="rt">あて</seg><seg type="rp">）</seg></seg>さへないから<lb />
+尚更あの<seg type="ruby"><seg type="rb">娘</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>と泣きわかれ<lb />
 　（トコ　トコダト磨ぎぬきな）<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi931">西瓜の番</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi931">西瓜の番</seg></seg></seg>
 <lb />
 西瓜畑さ<lb />
-　おら<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>かぬ<lb />
+　おら<seg type="ruby"><seg type="rb">行</seg><seg type="rp">（</seg><seg type="rt">ゆ</seg><seg type="rp">）</seg></seg>かぬ<lb />
 <lb />
 狐がゐるから<lb />
 　おら行かぬ<lb />
@@ -1190,7 +1190,7 @@
 寝てたちけ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi941">畑のとんぼ</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi941">畑のとんぼ</seg></seg></seg>
 <lb />
 とんぼ追つかけたら<lb />
 畑さ逃げた<lb />
@@ -1200,27 +1200,27 @@
 スウイ　スイ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi951">お百姓生れ</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi951">お百姓生れ</seg></seg></seg>
 <lb />
 おらは田舎の<lb />
 　　お百姓生れ<lb />
 <lb />
-<span type="ruby"><span type="rb">田螺</span><span type="rp">（</span><span type="rt">たにし</span><span type="rp">）</span></span>ながめて<lb />
+<seg type="ruby"><seg type="rb">田螺</seg><seg type="rp">（</seg><seg type="rt">たにし</seg><seg type="rp">）</seg></seg>ながめて<lb />
 　　暮してた<lb />
 <lb />
 お前や東京の<lb />
-　　お<span type="ruby"><span type="rb">嬢</span><span type="rp">（</span><span type="rt">ぢよ</span><span type="rp">）</span></span>さま育ち<lb />
+　　お<seg type="ruby"><seg type="rb">嬢</seg><seg type="rp">（</seg><seg type="rt">ぢよ</seg><seg type="rp">）</seg></seg>さま育ち<lb />
 <lb />
 おらと生れが<lb />
 　　ちがひやさ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi961">麦の芽</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi961">麦の芽</seg></seg></seg>
 <lb />
 麦が芽を吹きや<lb />
-　<span type="ruby"><span type="rb">雁</span><span type="rp">（</span><span type="rt">がん</span><span type="rp">）</span></span>　雁　帰る<lb />
+　<seg type="ruby"><seg type="rb">雁</seg><seg type="rp">（</seg><seg type="rt">がん</seg><seg type="rp">）</seg></seg>　雁　帰る<lb />
 <lb />
-<span type="ruby"><span type="rb">一羽</span><span type="rp">（</span><span type="rt">いつぱ</span><span type="rp">）</span></span>帰れば<lb />
+<seg type="ruby"><seg type="rb">一羽</seg><seg type="rp">（</seg><seg type="rt">いつぱ</seg><seg type="rp">）</seg></seg>帰れば<lb />
 　また一羽帰る<lb />
 <lb />
 帰る雁でも<lb />
@@ -1230,7 +1230,7 @@
 　啼いて立つ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi971">わしが鳥なら</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi971">わしが鳥なら</seg></seg></seg>
 <lb />
 わしが鳥なら（ヨー）<lb />
 　　　烏の鳥に（ヤンレサホイ）<lb />
@@ -1243,13 +1243,13 @@
 <lb />
 騒ぎまはして（ヨー）<lb />
 　　　ふれあるく（ヤンレサホー）<lb />
-<span rend="notes">［＃改段］</span><lb />
+<seg rend="notes" rendition="span">［＃改段］</seg><lb />
 <lb />
-<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1071">茶ツ葉</span></span>
+<seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1071">茶ツ葉</seg></seg>
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1081">茶ツ葉</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1081">茶ツ葉</seg></seg></seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1082">一</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1082">一</seg></seg></seg>
 <lb />
 雀ア帰るに<lb />
 　　かはたれ頃に<lb />
@@ -1260,7 +1260,7 @@
 茶の樹畑の<lb />
 　　茶の茶ツ葉に<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1083">二</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1083">二</seg></seg></seg>
 <lb />
 雀ア来ちや啼き<lb />
 　　来ちや見て啼いた<lb />
@@ -1271,7 +1271,7 @@
 小雪ヤ降つちや解け<lb />
 　　降つちや解けた<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1084">三</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1084">三</seg></seg></seg>
 <lb />
 茶の樹畑にや<lb />
 　　茶の樹の茶ツ葉<lb />
@@ -1283,12 +1283,12 @@
 　　とまつてた<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1094">秩父三峰</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1094">秩父三峰</seg></seg></seg>
 <lb />
 朝にや朝霧<lb />
-<span type="ruby"><span type="rb">夕</span><span type="rp">（</span><span type="rt">ゆふべ</span><span type="rp">）</span></span>にや<lb />
-<span type="ruby"><span type="rb">狭霧</span><span type="rp">（</span><span type="rt">さぎり</span><span type="rp">）</span></span><lb />
-秩父<span type="ruby"><span type="rb">三峰</span><span type="rp">（</span><span type="rt">みつみね</span><span type="rp">）</span></span>ア<lb />
+<seg type="ruby"><seg type="rb">夕</seg><seg type="rp">（</seg><seg type="rt">ゆふべ</seg><seg type="rp">）</seg></seg>にや<lb />
+<seg type="ruby"><seg type="rb">狭霧</seg><seg type="rp">（</seg><seg type="rt">さぎり</seg><seg type="rp">）</seg></seg><lb />
+秩父<seg type="ruby"><seg type="rb">三峰</seg><seg type="rp">（</seg><seg type="rt">みつみね</seg><seg type="rp">）</seg></seg>ア<lb />
 霧の中<lb />
 <lb />
 霧にまかれりや<lb />
@@ -1298,7 +1298,7 @@
 寝る<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1104">菜の花畑</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1104">菜の花畑</seg></seg></seg>
 <lb />
 畑に菜の花<lb />
 　　　咲いたとさ<lb />
@@ -1319,7 +1319,7 @@
 　　　夕明り<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1114">鐘になりたや</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1114">鐘になりたや</seg></seg></seg>
 <lb />
 鐘になりたや<lb />
 チヤン　チヤカ　チヤンの鐘に<lb />
@@ -1341,12 +1341,12 @@
 <lb />
 鐘になりたや<lb />
 チヤン　チヤカ　チヤンのチヤンと<lb />
-丸く<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>なく<lb />
+丸く<seg type="ruby"><seg type="rb">角</seg><seg type="rp">（</seg><seg type="rt">かど</seg><seg type="rp">）</seg></seg>なく<lb />
 暮したや<lb />
 　　チヤン　チヤカ　チヤンとナ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1124">秋風</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1124">秋風</seg></seg></seg>
 <lb />
 夕となれば<lb />
 風は秋かや<lb />
@@ -1371,7 +1371,7 @@
 　今は秋なれや<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1134">津島小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1134">津島小唄</seg></seg></seg>
 <lb />
 津島　津島と<lb />
 日の暮れ<lb />
@@ -1383,16 +1383,16 @@
 靡くに<lb />
 袖に吹く風<lb />
 吹いて来る<lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 （註。愛知県津島町は昔より美女多しと伝へらる）<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1144">はぐれ烏</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1144">はぐれ烏</seg></seg></seg>
 <lb />
 烏ア啼くから<lb />
 出て見りやゐない<lb />
-　　お<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>さんよ<lb />
+　　お<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>さんよ<lb />
 <lb />
 わたしや烏に<lb />
 だまされた<lb />
@@ -1407,27 +1407,27 @@
 　　オヤお母さんよ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1154">御山小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1154">御山小唄</seg></seg></seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1155">一</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1155">一</seg></seg></seg>
 <lb />
 霧にまかれりや<lb />
-<span type="ruby"><span type="rb">御山</span><span type="rp">（</span><span type="rt">おやま</span><span type="rp">）</span></span>が曇る<lb />
+<seg type="ruby"><seg type="rb">御山</seg><seg type="rp">（</seg><seg type="rt">おやま</seg><seg type="rp">）</seg></seg>が曇る<lb />
 　　シヤンシヤンシヤン<lb />
 御山曇れば<lb />
 馬よ<lb />
 雨となる<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1156">二</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1156">二</seg></seg></seg>
 <lb />
 御山雨降りや<lb />
-つまさき<span type="ruby"><span type="rb">辷</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>る<lb />
+つまさき<seg type="ruby"><seg type="rb">辷</seg><seg type="rp">（</seg><seg type="rt">すべ</seg><seg type="rp">）</seg></seg>る<lb />
 　　シヤンシヤンシヤン<lb />
 辷りやころげる<lb />
 馬よ<lb />
 谷底へ<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1157">三</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1157">三</seg></seg></seg>
 <lb />
 谷は深谷<lb />
 底なし地獄<lb />
@@ -1436,7 +1436,7 @@
 馬よ<lb />
 気をつけな<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1158">四</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1158">四</seg></seg></seg>
 <lb />
 せくな　急ぐな<lb />
 頂上にや遠い<lb />
@@ -1445,7 +1445,7 @@
 馬よ<lb />
 早よ歩け<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1159">五</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1159">五</seg></seg></seg>
 <lb />
 風が強うなりや<lb />
 御山は晴れる<lb />
@@ -1455,7 +1455,7 @@
 日は凪ぎる<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1169">秋の月</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1169">秋の月</seg></seg></seg>
 <lb />
 お月さま見てたりや<lb />
 とぼしくなつて来た<lb />
@@ -1463,11 +1463,11 @@
 お月さま出てても<lb />
 秋の月<lb />
 <lb />
-<span type="ruby"><span type="rb">薄</span><span type="rp">（</span><span type="rt">すすき</span><span type="rp">）</span></span>にゆられて<lb />
+<seg type="ruby"><seg type="rb">薄</seg><seg type="rp">（</seg><seg type="rt">すすき</seg><seg type="rp">）</seg></seg>にゆられて<lb />
 夢をみてる<lb />
 <lb />
 霧たちのぼれよ<lb />
-山の<span type="ruby"><span type="rb">端</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>に<lb />
+山の<seg type="ruby"><seg type="rb">端</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>に<lb />
 <lb />
 お月さまみた夢<lb />
 青い夢<lb />
@@ -1476,15 +1476,15 @@
 夢をみてる<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1179">高原颪</span></span></span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1179">高原颪</seg></seg></seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 （高原颪は日光の連山一帯より吹きおろす山風）<lb />
-</span>
+</seg>
 <lb />
 寒い筈だよ<lb />
-　　<span type="ruby"><span type="rb">高原颪</span><span type="rp">（</span><span type="rt">たかはらおろし</span><span type="rp">）</span></span>ヤ<lb />
+　　<seg type="ruby"><seg type="rb">高原颪</seg><seg type="rp">（</seg><seg type="rt">たかはらおろし</seg><seg type="rp">）</seg></seg>ヤ<lb />
 馬の耳まで<lb />
-　　<span type="ruby"><span type="rb">凍</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>てかへる<lb />
+　　<seg type="ruby"><seg type="rb">凍</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>てかへる<lb />
 <lb />
 馬よ　寒かろ<lb />
 　　高原颪ヤ　ササホイ<lb />
@@ -1493,27 +1493,27 @@
 <lb />
 小雪ヤチラチラ<lb />
 　　上州は雪ぢや<lb />
-<span type="ruby"><span type="rb">可愛</span><span type="rp">（</span><span type="rt">かは</span><span type="rp">）</span></span>ヤ　機場も<lb />
+<seg type="ruby"><seg type="rb">可愛</seg><seg type="rp">（</seg><seg type="rt">かは</seg><seg type="rp">）</seg></seg>ヤ　機場も<lb />
 　　もう雪ぢや<lb />
 <lb />
 上州雪降りや<lb />
 　　夜明けの星も　ササホイ<lb />
 白く白んで<lb />
 　　冴えかへる<lb />
-<span rend="notes">［＃改段］</span><lb />
+<seg rend="notes" rendition="span">［＃改段］</seg><lb />
 <lb />
-<span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1279">古巣わすれて</span></span>
+<seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1279">古巣わすれて</seg></seg>
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1289">古巣わすれて</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1289">古巣わすれて</seg></seg></seg>
 <lb />
 古巣わすれて<lb />
 小鳥の<lb />
-<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">等</span><span type="rp">（</span><span type="rt">ら</span><span type="rp">）</span></span>は<lb />
+<seg type="ruby"><seg type="rb">子</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">等</seg><seg type="rp">（</seg><seg type="rt">ら</seg><seg type="rp">）</seg></seg>は<lb />
 どこにゐるやら<lb />
 帰らない<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1299">この子を寝せて</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1299">この子を寝せて</seg></seg></seg>
 <lb />
 鳩ぽつぽ啼くから<lb />
 帰らぬか<lb />
@@ -1533,19 +1533,19 @@
 　　帰ります　帰ります<lb />
 　　この子を寝せて<lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1309">蝙蝠</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1309">蝙蝠</seg></seg></seg>
 <lb />
 草履投げたら<lb />
 蚊喰ひの鳥は<lb />
 <lb />
-蚊かと<span type="ruby"><span type="rb">思</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>てか<lb />
+蚊かと<seg type="ruby"><seg type="rb">思</seg><seg type="rp">（</seg><seg type="rt">おも</seg><seg type="rp">）</seg></seg>てか<lb />
 だまされてるに<lb />
 <lb />
-草履<span type="ruby"><span type="rb">慕</span><span type="rp">（</span><span type="rt">しと</span><span type="rp">）</span></span>ふて<lb />
+草履<seg type="ruby"><seg type="rb">慕</seg><seg type="rp">（</seg><seg type="rt">しと</seg><seg type="rp">）</seg></seg>ふて<lb />
 飛びさかる<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1319">烏と南瓜</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1319">烏と南瓜</seg></seg></seg>
 <lb />
 南瓜畑に<lb />
 烏が来てる<lb />
@@ -1576,9 +1576,9 @@
 あつち向いた<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1329">ほととぎす</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1329">ほととぎす</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">馬鈴薯</span><span type="rp">（</span><span type="rt">じやがたらいも</span><span type="rp">）</span></span>の<lb />
+<seg type="ruby"><seg type="rb">馬鈴薯</seg><seg type="rp">（</seg><seg type="rt">じやがたらいも</seg><seg type="rp">）</seg></seg>の<lb />
 　　花咲く頃にや<lb />
 <lb />
 ほととぎすア啼く<lb />
@@ -1594,23 +1594,23 @@
 　　聞きやしやんせ<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1339">豆の花</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1339">豆の花</seg></seg></seg>
 <lb />
 裏へ出て来ちや<lb />
 畑を見てる<lb />
 <lb />
 盆が来るから<lb />
-<span type="ruby"><span type="rb">姉</span><span type="rp">（</span><span type="rt">あね</span><span type="rp">）</span></span>さん達よ<lb />
+<seg type="ruby"><seg type="rb">姉</seg><seg type="rp">（</seg><seg type="rt">あね</seg><seg type="rp">）</seg></seg>さん達よ<lb />
 <lb />
 豆の花でも<lb />
 咲いたのか<lb />
 <lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1349">磯原小唄</span></span></span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1349">磯原小唄</seg></seg></seg>
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1350">一</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1350">一</seg></seg></seg>
 <lb />
-末の<span type="ruby"><span type="rb">松並</span><span type="rp">（</span><span type="rt">まつなみ</span><span type="rp">）</span></span><lb />
+末の<seg type="ruby"><seg type="rb">松並</seg><seg type="rp">（</seg><seg type="rt">まつなみ</seg><seg type="rp">）</seg></seg><lb />
 東は海よ<lb />
 <lb />
 吹いてくれるな<lb />
@@ -1622,7 +1622,7 @@
 こぼれ松葉に<lb />
 なつて落ちる<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="ko-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi1351">二</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="ko-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi1351">二</seg></seg></seg>
 <lb />
 お色黒いは<lb />
 磯原生れ<lb />
@@ -1635,12 +1635,12 @@
 <lb />
 末の松並ア<lb />
 風ざらし<lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 （註。磯原町は茨城県海岸の勝地である）<lb />
-</span>
+</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -34,11 +34,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="notes">［＃ページの左右中央］</span><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="notes" rendition="span">［＃ページの左右中央］</seg><lb />
 <lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 酒井欽蔵　　　（四十八）<lb />
 妻　いく　　　（四十五）<lb />
 娘　加代　　　（二十四）<lb />
@@ -46,578 +46,578 @@
 娘　美代　　　（十六）<lb />
 店員　庄市　　（三十）<lb />
 　　其他<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">解説　　東京山の手の裏通りに、さゝやかな店を構へてゐる時計商、<span type="ruby"><span type="rb">酒井欽蔵</span><span type="rp">（</span><span type="rt">さかゐきんざう</span><span type="rp">）</span></span>の一家、物語の中心はこの一家であります。帝都は既に敵機襲来に備へて、警戒管制が敷かれてゐるのです。蒸し暑い真夏の夜のことです。</span>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">解説　　東京山の手の裏通りに、さゝやかな店を構へてゐる時計商、<seg type="ruby"><seg type="rb">酒井欽蔵</seg><seg type="rp">（</seg><seg type="rt">さかゐきんざう</seg><seg type="rp">）</seg></seg>の一家、物語の中心はこの一家であります。帝都は既に敵機襲来に備へて、警戒管制が敷かれてゐるのです。蒸し暑い真夏の夜のことです。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 店先に並んだ大小幾十の時計が一斉に時を刻んでゐる。やがて、オールゴール入りの眼覚し時計が平和なメロデイを奏ではじめる。これは、今、主人欽蔵が店先で修繕をしてゐるのだ。<lb />
 奥の部屋で<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">妻いく　　こんな晩に、仕事をする人つてあるか知ら……全く変りもんだよ、お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とつ</span><span type="rp">）</span></span>つあんは……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">娘加代　　<span type="ruby"><span type="rb">鉄</span><span type="rp">（</span><span type="rt">てつ</span><span type="rp">）</span></span>ちやん、もう起しといた方がよかない？　<span type="ruby"><span type="rb">若</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>しか、急に出て行くやうなことがあると、晩御飯も食べないぢや、お<span type="ruby"><span type="rb">腹</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>かすわよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　さあ、お腹もお腹だけど、<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆうべ</span><span type="rp">）</span></span>からあの通り眠つてないんだからね。お握りでもこさへといてやらうよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　なんだか元気がなささうなんだもの。いやだわ、あたし。かういふ時は、もつと勇ましさうにしてゝくれなきあ、張合がないぢやないの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　そこへ行くと、兵隊に行つてただけあつて、<span type="ruby"><span type="rb">庄</span><span type="rp">（</span><span type="rt">しやう</span><span type="rp">）</span></span>さんなんかきびきびしたもんさ。まるで、お祭へでも出掛けるやうな……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　さうよ、あれも普通ぢやないけど、鉄ちやんみたいにしてると、人が変に思ふわね。臆病なんだと思はれてよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　臆病かね、あれで……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　ほんとはどうだかわからないわ。十八の子供にしちやあれで、なかなか<span type="ruby"><span type="rb">図太</span><span type="rp">（</span><span type="rt">づぶと</span><span type="rp">）</span></span>いところがあるんだけど……五円のお小遣ひきりで、北海道を一とまはりして来るなんて、ちよつと出来ない芸当よ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　（突然、頓狂な声で）あゝ、びつくりした。いやな<span type="ruby"><span type="rb">美代</span><span type="rp">（</span><span type="rt">みよ</span><span type="rp">）</span></span>ちやんだよ。そんなもの、今頃からくつつけてどうすんの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">娘美代　　（防毒マスクをつけた声で）<span type="ruby"><span type="rb">兄</span><span type="rp">（</span><span type="rt">にい</span><span type="rp">）</span></span>さんのをちよつと借りたのよ。これをつけて、毒瓦斯の中へ飛び込んで行くんだわ。重いわよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　また、兄さんに叱られるから……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　（マスクを<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">はづ</span><span type="rp">）</span></span>して）ほんとに戦争あるの。嘘見たいでしやうがないわ。お父つあん、だつて、あんな平気な顔してお店に坐つてるぢやないの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　（はじめて）お美代……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　なあに？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　鉄蔵を起して来い。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　よく眠てるわよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　いゝから起して来い。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">妻いく　　こんな晩に、仕事をする人つてあるか知ら……全く変りもんだよ、お<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とつ</seg><seg type="rp">）</seg></seg>つあんは……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">娘加代　　<seg type="ruby"><seg type="rb">鉄</seg><seg type="rp">（</seg><seg type="rt">てつ</seg><seg type="rp">）</seg></seg>ちやん、もう起しといた方がよかない？　<seg type="ruby"><seg type="rb">若</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>しか、急に出て行くやうなことがあると、晩御飯も食べないぢや、お<seg type="ruby"><seg type="rb">腹</seg><seg type="rp">（</seg><seg type="rt">なか</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">す</seg><seg type="rp">）</seg></seg>かすわよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　さあ、お腹もお腹だけど、<seg type="ruby"><seg type="rb">昨夜</seg><seg type="rp">（</seg><seg type="rt">ゆうべ</seg><seg type="rp">）</seg></seg>からあの通り眠つてないんだからね。お握りでもこさへといてやらうよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　なんだか元気がなささうなんだもの。いやだわ、あたし。かういふ時は、もつと勇ましさうにしてゝくれなきあ、張合がないぢやないの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　そこへ行くと、兵隊に行つてただけあつて、<seg type="ruby"><seg type="rb">庄</seg><seg type="rp">（</seg><seg type="rt">しやう</seg><seg type="rp">）</seg></seg>さんなんかきびきびしたもんさ。まるで、お祭へでも出掛けるやうな……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　さうよ、あれも普通ぢやないけど、鉄ちやんみたいにしてると、人が変に思ふわね。臆病なんだと思はれてよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　臆病かね、あれで……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　ほんとはどうだかわからないわ。十八の子供にしちやあれで、なかなか<seg type="ruby"><seg type="rb">図太</seg><seg type="rp">（</seg><seg type="rt">づぶと</seg><seg type="rp">）</seg></seg>いところがあるんだけど……五円のお小遣ひきりで、北海道を一とまはりして来るなんて、ちよつと出来ない芸当よ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　（突然、頓狂な声で）あゝ、びつくりした。いやな<seg type="ruby"><seg type="rb">美代</seg><seg type="rp">（</seg><seg type="rt">みよ</seg><seg type="rp">）</seg></seg>ちやんだよ。そんなもの、今頃からくつつけてどうすんの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">娘美代　　（防毒マスクをつけた声で）<seg type="ruby"><seg type="rb">兄</seg><seg type="rp">（</seg><seg type="rt">にい</seg><seg type="rp">）</seg></seg>さんのをちよつと借りたのよ。これをつけて、毒瓦斯の中へ飛び込んで行くんだわ。重いわよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　また、兄さんに叱られるから……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　（マスクを<seg type="ruby"><seg type="rb">外</seg><seg type="rp">（</seg><seg type="rt">はづ</seg><seg type="rp">）</seg></seg>して）ほんとに戦争あるの。嘘見たいでしやうがないわ。お父つあん、だつて、あんな平気な顔してお店に坐つてるぢやないの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　（はじめて）お美代……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　なあに？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　鉄蔵を起して来い。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　よく眠てるわよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　いゝから起して来い。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 時計のねぢを巻く音。オールゴール。<lb />
 美代が階段を走り上る音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　兄さん。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　…………。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　兄さんつたら……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　…………。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　可哀さうね。こら、兄さん、起きるのよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　（飛び起きたらしい）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あら、そんなに<span type="ruby"><span type="rb">吃驚</span><span type="rp">（</span><span type="rt">びつく</span><span type="rp">）</span></span>りしないだつていゝわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　畜生……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　お父つあんが起して来いつて云ふんだもの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　おやぢ、なにしてるんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　眼覚しを直してるわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　（上つて来て）鉄ちやん、眠いでせう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　当りめえよ。おやぢ、なんの用があるんだい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あんた、あんまり元気がなささうだからよ。心配してるんだわ。きつと。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　やい、マスクをどうしたんだい、こいつ……入れとけよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　お父つあんと喧嘩しちや駄目よ。なに云はれても、ハイハイつて云つてなさい、（間）鉄ちやん、なにぼんやりしてんのよ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　兄さん。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　…………。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　兄さんつたら……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　…………。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　可哀さうね。こら、兄さん、起きるのよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　（飛び起きたらしい）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あら、そんなに<seg type="ruby"><seg type="rb">吃驚</seg><seg type="rp">（</seg><seg type="rt">びつく</seg><seg type="rp">）</seg></seg>りしないだつていゝわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　畜生……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　お父つあんが起して来いつて云ふんだもの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　おやぢ、なにしてるんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　眼覚しを直してるわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　（上つて来て）鉄ちやん、眠いでせう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　当りめえよ。おやぢ、なんの用があるんだい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あんた、あんまり元気がなささうだからよ。心配してるんだわ。きつと。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　やい、マスクをどうしたんだい、こいつ……入れとけよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　お父つあんと喧嘩しちや駄目よ。なに云はれても、ハイハイつて云つてなさい、（間）鉄ちやん、なにぼんやりしてんのよ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 鉄蔵、急に起ち上つて、階段を下りはじめる。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　お父つあん、なにか用？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　まあ、そこへ坐れ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　そんな時計、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>だつていゝんぢやないか。それより松田さんの懐中、早く頼むつて云はれてるんだぜ。あの人警報班で、時計がないと不自由だらう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　わかつてる。さつき代りを渡しといたよ。時に、お前からだの具合でも悪いんぢやねえか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　どうして？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　浮かねえ顔をしてるからさ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　戦争で浮いた顔ができるかい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽歳　　出来ないつてのは、<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>が惜しいからだ。やい、男なら男らしく、腕つ節をみせろ。日本男児は、理窟を云はずに、悦んでお国のために働くんだ。手前は、防護団の一員ぢやねえか。毒瓦斯班といふ大事な役目を云ひつかつてるんだ。葬式へ参列するやうな面をして、そんな任務が勤まると思つてゐるのか。第一、見つともねえぢやねえか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　第一、毒瓦斯班なんてものはありやしないよ。防毒班だよ。それから、お父つあんは、僕の面が葬式へ参列するみたいだつて云ふけど、全く、さういふ気がしてるんだ。悲しいやうな、じれつたいやうな、早く云や、面白くもなんともないんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　何が面白くねえんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　今度の戦争がさ。文明人なら文明人らしい戦争をしたらよささうなもんぢやないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　ところが、空中戦なんてえのは、文明が進んだ証拠ぢやねえか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　抵抗力のない女子供を、空の上からおどかすなんて、全く、強盗か野蛮人の<span type="ruby"><span type="rb">仕業</span><span type="rp">（</span><span type="rt">しわざ</span><span type="rp">）</span></span>だよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　そんなこと云つたつてしやうがねえ。だから、その女子供を、われわれ男が……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　（夢中で）僕の声が若し千里先まで聞えるなら「やい貴様達恥を知れ」つて云つてやるよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　鉄ちやん、御飯をおあがりよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　なんにも食ひたくないんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　夜中にまた、お腹がすくわよ。交代は十一時なんだから、まだ時間があつてよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　ぢや、<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>ひ<span type="ruby"><span type="rb">納</span><span type="rp">（</span><span type="rt">をさ</span><span type="rp">）</span></span>めに食つてやらあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　敵が攻めて来るからつて、飯が喉へへえらねえやうでどうする。あきれた野郎だ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　お父つあん、なにか用？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　まあ、そこへ坐れ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　そんな時計、<seg type="ruby"><seg type="rb">何時</seg><seg type="rp">（</seg><seg type="rt">いつ</seg><seg type="rp">）</seg></seg>だつていゝんぢやないか。それより松田さんの懐中、早く頼むつて云はれてるんだぜ。あの人警報班で、時計がないと不自由だらう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　わかつてる。さつき代りを渡しといたよ。時に、お前からだの具合でも悪いんぢやねえか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　どうして？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　浮かねえ顔をしてるからさ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　戦争で浮いた顔ができるかい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽歳　　出来ないつてのは、<seg type="ruby"><seg type="rb">生命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>が惜しいからだ。やい、男なら男らしく、腕つ節をみせろ。日本男児は、理窟を云はずに、悦んでお国のために働くんだ。手前は、防護団の一員ぢやねえか。毒瓦斯班といふ大事な役目を云ひつかつてるんだ。葬式へ参列するやうな面をして、そんな任務が勤まると思つてゐるのか。第一、見つともねえぢやねえか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　第一、毒瓦斯班なんてものはありやしないよ。防毒班だよ。それから、お父つあんは、僕の面が葬式へ参列するみたいだつて云ふけど、全く、さういふ気がしてるんだ。悲しいやうな、じれつたいやうな、早く云や、面白くもなんともないんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　何が面白くねえんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　今度の戦争がさ。文明人なら文明人らしい戦争をしたらよささうなもんぢやないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　ところが、空中戦なんてえのは、文明が進んだ証拠ぢやねえか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　抵抗力のない女子供を、空の上からおどかすなんて、全く、強盗か野蛮人の<seg type="ruby"><seg type="rb">仕業</seg><seg type="rp">（</seg><seg type="rt">しわざ</seg><seg type="rp">）</seg></seg>だよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　そんなこと云つたつてしやうがねえ。だから、その女子供を、われわれ男が……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　（夢中で）僕の声が若し千里先まで聞えるなら「やい貴様達恥を知れ」つて云つてやるよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　鉄ちやん、御飯をおあがりよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　なんにも食ひたくないんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　夜中にまた、お腹がすくわよ。交代は十一時なんだから、まだ時間があつてよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　ぢや、<seg type="ruby"><seg type="rb">食</seg><seg type="rp">（</seg><seg type="rt">く</seg><seg type="rp">）</seg></seg>ひ<seg type="ruby"><seg type="rb">納</seg><seg type="rp">（</seg><seg type="rt">をさ</seg><seg type="rp">）</seg></seg>めに食つてやらあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　敵が攻めて来るからつて、飯が喉へへえらねえやうでどうする。あきれた野郎だ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 沈黙。<lb />
 波の音に交つて、電話の呼鈴。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-「<span type="ruby"><span type="rb">小笠原島</span><span type="rp">（</span><span type="rt">をがさはらじま</span><span type="rp">）</span></span>東方五キロ、はい聞えます。敵の主力艦隊……はい……航空母艦二隻を有する……はい……千葉監視隊本部へ……はあ……無線電信の故障で……はい……はい、わかりました」<lb />
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+「<seg type="ruby"><seg type="rb">小笠原島</seg><seg type="rp">（</seg><seg type="rt">をがさはらじま</seg><seg type="rp">）</seg></seg>東方五キロ、はい聞えます。敵の主力艦隊……はい……航空母艦二隻を有する……はい……千葉監視隊本部へ……はあ……無線電信の故障で……はい……はい、わかりました」<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 波の音が次第に消えて、再び時計のチクタク。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　戦争が好きだとか嫌ひだとか云つてみたところではじまらねえ。だからよ。どうしても戦争をしなけれやならんと云ふんなら、勝つより<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">ほか</span><span type="rp">）</span></span>に道はあるめえ。負けたら最後おれたちや、犬猫同然だ。<span type="ruby"><span type="rb">手前</span><span type="rp">（</span><span type="rt">てめえ</span><span type="rp">）</span></span>のやうな、煮えきらねえ男ばかりだつたら、それこそ、勝つ<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">いくさ</span><span type="rp">）</span></span>もどうだかわからなくなるぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　そんなこと云つて、お父つあん、僕たちや、手の出しやうがないぢやないか。爆弾にしろ、毒瓦斯にしろ、相手は喧嘩にならない代物なんだぜ。敵の飛行機は、味方の軍隊がやつつけようとする。それやいゝさ。だけど、僕たちや、地べたの上で、何をしてるんだ。武器を執つて堂々とわたり合ふことも出来ず、たゞ殺されない工夫ばかりしてなきやならないんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　それが<span type="ruby"><span type="rb">間違</span><span type="rp">（</span><span type="rt">まちげ</span><span type="rp">）</span></span>えだ。<span type="ruby"><span type="rb">手前</span><span type="rp">（</span><span type="rt">てめえ</span><span type="rp">）</span></span>は、自分のことばかり考へてる。なぜ「殺させない工夫」と云はねえんだ。自分を守るんぢやねえ。<span type="ruby"><span type="rb">同胞</span><span type="rp">（</span><span type="rt">きやうだい</span><span type="rp">）</span></span>を守るんだ。帝都を守るんだ。日本といふ国を守るんだ。そんなことがわからねえのか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　わかりすぎるくらゐわかつてるよ。僕の云ふのは、なんのために働くかといふことぢやない。同じ働くにしても、受身ぢや張合がないと云つてるだけだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なんだ。張合がねえ！</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　言葉は悪るいかも知れないよ。ぢや、なんて云つたらいゝかな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なんにもいはないのが一番いゝ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　だから、僕は、なんにもいはずにゐたんぢやないか。お父つあんが、余計なことを<span type="ruby"><span type="rb">訊</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>くからさ。僕は、<span type="ruby"><span type="rb">空元気</span><span type="rp">（</span><span type="rt">からげんき</span><span type="rp">）</span></span>をつける必要はないんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　みんなが気もちを揃へようと思つたら、ちつたあ、大きな声ぐらゐ出すもんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　ヨイトマケ、ヨイトマケつてかい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　畜生、このおれだつて、<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>までも、ぢつとしちやゐねえぞ。防護団の連中に欠員が出来たら、何時でも出掛けてくから、<span type="ruby"><span type="rb">手前</span><span type="rp">（</span><span type="rt">てめえ</span><span type="rp">）</span></span>さう伝へてくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　そんなこたあ、云はなくつたつてわかつてるよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　食べたくないなんて、随分食べるぢやないの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　兄さん、お弁当つけて何処へ行くの……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　おつ<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>さん、<span type="ruby"><span type="rb">服部</span><span type="rp">（</span><span type="rt">はつとり</span><span type="rp">）</span></span>の息子ね、僕と同じ班なんだぜ。昨日、戦友の<span type="ruby"><span type="rb">契</span><span type="rp">（</span><span type="rt">ちぎり</span><span type="rp">）</span></span>を結ぼうなんて、レモン・テイイをおごりやがつた。あいつ、センチだからなあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　もう、<span type="ruby"><span type="rb">頭髪</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">分</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>けてんのね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　あんな大きなお店でも、息子さんが毒瓦斯の組へはひりなさるのかね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　鼻の<span type="ruby"><span type="rb">利</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>くやつがとられたんだよ。試験にパスしたんだからしやうがないや。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あら、どんな試験？</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　戦争が好きだとか嫌ひだとか云つてみたところではじまらねえ。だからよ。どうしても戦争をしなけれやならんと云ふんなら、勝つより<seg type="ruby"><seg type="rb">外</seg><seg type="rp">（</seg><seg type="rt">ほか</seg><seg type="rp">）</seg></seg>に道はあるめえ。負けたら最後おれたちや、犬猫同然だ。<seg type="ruby"><seg type="rb">手前</seg><seg type="rp">（</seg><seg type="rt">てめえ</seg><seg type="rp">）</seg></seg>のやうな、煮えきらねえ男ばかりだつたら、それこそ、勝つ<seg type="ruby"><seg type="rb">戦</seg><seg type="rp">（</seg><seg type="rt">いくさ</seg><seg type="rp">）</seg></seg>もどうだかわからなくなるぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　そんなこと云つて、お父つあん、僕たちや、手の出しやうがないぢやないか。爆弾にしろ、毒瓦斯にしろ、相手は喧嘩にならない代物なんだぜ。敵の飛行機は、味方の軍隊がやつつけようとする。それやいゝさ。だけど、僕たちや、地べたの上で、何をしてるんだ。武器を執つて堂々とわたり合ふことも出来ず、たゞ殺されない工夫ばかりしてなきやならないんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　それが<seg type="ruby"><seg type="rb">間違</seg><seg type="rp">（</seg><seg type="rt">まちげ</seg><seg type="rp">）</seg></seg>えだ。<seg type="ruby"><seg type="rb">手前</seg><seg type="rp">（</seg><seg type="rt">てめえ</seg><seg type="rp">）</seg></seg>は、自分のことばかり考へてる。なぜ「殺させない工夫」と云はねえんだ。自分を守るんぢやねえ。<seg type="ruby"><seg type="rb">同胞</seg><seg type="rp">（</seg><seg type="rt">きやうだい</seg><seg type="rp">）</seg></seg>を守るんだ。帝都を守るんだ。日本といふ国を守るんだ。そんなことがわからねえのか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　わかりすぎるくらゐわかつてるよ。僕の云ふのは、なんのために働くかといふことぢやない。同じ働くにしても、受身ぢや張合がないと云つてるだけだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なんだ。張合がねえ！</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　言葉は悪るいかも知れないよ。ぢや、なんて云つたらいゝかな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なんにもいはないのが一番いゝ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　だから、僕は、なんにもいはずにゐたんぢやないか。お父つあんが、余計なことを<seg type="ruby"><seg type="rb">訊</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>くからさ。僕は、<seg type="ruby"><seg type="rb">空元気</seg><seg type="rp">（</seg><seg type="rt">からげんき</seg><seg type="rp">）</seg></seg>をつける必要はないんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　みんなが気もちを揃へようと思つたら、ちつたあ、大きな声ぐらゐ出すもんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　ヨイトマケ、ヨイトマケつてかい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　畜生、このおれだつて、<seg type="ruby"><seg type="rb">何時</seg><seg type="rp">（</seg><seg type="rt">いつ</seg><seg type="rp">）</seg></seg>までも、ぢつとしちやゐねえぞ。防護団の連中に欠員が出来たら、何時でも出掛けてくから、<seg type="ruby"><seg type="rb">手前</seg><seg type="rp">（</seg><seg type="rt">てめえ</seg><seg type="rp">）</seg></seg>さう伝へてくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　そんなこたあ、云はなくつたつてわかつてるよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　食べたくないなんて、随分食べるぢやないの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　兄さん、お弁当つけて何処へ行くの……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　おつ<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>さん、<seg type="ruby"><seg type="rb">服部</seg><seg type="rp">（</seg><seg type="rt">はつとり</seg><seg type="rp">）</seg></seg>の息子ね、僕と同じ班なんだぜ。昨日、戦友の<seg type="ruby"><seg type="rb">契</seg><seg type="rp">（</seg><seg type="rt">ちぎり</seg><seg type="rp">）</seg></seg>を結ぼうなんて、レモン・テイイをおごりやがつた。あいつ、センチだからなあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　もう、<seg type="ruby"><seg type="rb">頭髪</seg><seg type="rp">（</seg><seg type="rt">あたま</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">分</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>けてんのね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　あんな大きなお店でも、息子さんが毒瓦斯の組へはひりなさるのかね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　鼻の<seg type="ruby"><seg type="rb">利</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>くやつがとられたんだよ。試験にパスしたんだからしやうがないや。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あら、どんな試験？</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 オールゴールの音が次第に消え、波の音がだんだん高く聞え出す。犬吠崎附近の海岸監視哨。波の音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　来たぞ、来たぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　待て、落着いて聴け。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　距離は？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　確かにさうだ。ちよつと、<span type="ruby"><span type="rb">測</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>つてくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　懐中電燈を見せろ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　おい、伝令。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　来たぞ、来たぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　待て、落着いて聴け。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　距離は？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　確かにさうだ。ちよつと、<seg type="ruby"><seg type="rb">測</seg><seg type="rp">（</seg><seg type="rt">はか</seg><seg type="rp">）</seg></seg>つてくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　懐中電燈を見せろ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　おい、伝令。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 電話の呼鈴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　銚子第二監視哨報告……午後八時五十分、東北二千五百、重爆三機、高度三千、海岸に沿ひ南進す。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　銚子第二監視哨報告……午後八時五十分、東北二千五百、重爆三機、高度三千、海岸に沿ひ南進す。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 電話の呼鈴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">別の声　　<span type="ruby"><span type="rb">東金</span><span type="rp">（</span><span type="rt">とうがね</span><span type="rp">）</span></span>防空監視隊本部報告……午後八時五十二分、<span type="ruby"><span type="rb">鳴浜</span><span type="rp">（</span><span type="rt">なるはま</span><span type="rp">）</span></span>東方三千、重爆三機、高度二千五百、九十九里海岸に沿ひ南進…………。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">別の声　　<seg type="ruby"><seg type="rb">東金</seg><seg type="rp">（</seg><seg type="rt">とうがね</seg><seg type="rp">）</seg></seg>防空監視隊本部報告……午後八時五十二分、<seg type="ruby"><seg type="rb">鳴浜</seg><seg type="rp">（</seg><seg type="rt">なるはま</seg><seg type="rp">）</seg></seg>東方三千、重爆三機、高度二千五百、九十九里海岸に沿ひ南進…………。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 電話の呼鈴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">別の声　　関東防衛司令部ですか。こちらは、千葉監視隊本部です。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">別の声　　関東防衛司令部ですか。こちらは、千葉監視隊本部です。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 電話の呼鈴……（前の文句に重つて）<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防衛司令部</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ別の声　　警報係！　非常燈火管制……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ別の声　　こちらは防衛司令部です。司令官命令、各部隊は戦闘配備に就け。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ別の声　　飛行隊は<span type="ruby"><span type="rb">速</span><span type="rp">（</span><span type="rt">すみや</span><span type="rp">）</span></span>かに出動せよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ別の声　　消防、防毒機関、直ちに警戒配備につけ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防衛司令部</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ別の声　　警報係！　非常燈火管制……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ別の声　　こちらは防衛司令部です。司令官命令、各部隊は戦闘配備に就け。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ別の声　　飛行隊は<seg type="ruby"><seg type="rb">速</seg><seg type="rp">（</seg><seg type="rt">すみや</seg><seg type="rp">）</seg></seg>かに出動せよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ別の声　　消防、防毒機関、直ちに警戒配備につけ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 これに重ねて、遥かに砲声。砲声が消えると、もとの、時計のチクタク。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あゝ、さうさう、さつきお父つあんの留守に、あの<span type="ruby"><span type="rb">方</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>が、ほら、予備の少将つて方がいらしつたわ。時計はまだ出来ないかつて……庄さんもゐないし、あたしぢやわからなかつたの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　ありや、ヒゲが錆びてたから取替へたんだ。今時間の調節をしてゐるとこなんだが、二三日待つて貰ふよりしやうがねえ。畜生、手がふるへてやがら。敵の飛行機なんかちつとも怖かねえが、どうも、空襲つてものにや慣れてねえからなあ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あゝ、さうさう、さつきお父つあんの留守に、あの<seg type="ruby"><seg type="rb">方</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>が、ほら、予備の少将つて方がいらしつたわ。時計はまだ出来ないかつて……庄さんもゐないし、あたしぢやわからなかつたの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　ありや、ヒゲが錆びてたから取替へたんだ。今時間の調節をしてゐるとこなんだが、二三日待つて貰ふよりしやうがねえ。畜生、手がふるへてやがら。敵の飛行機なんかちつとも怖かねえが、どうも、空襲つてものにや慣れてねえからなあ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 急にサイレンの音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あ、電気が消えたわ……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　ぢつとしといで。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　また<span type="ruby"><span type="rb">点</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いた。なんだい、あのサイレンは……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　来たんだわ。飛行機が来たんだわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　ちよいと、あんた……ほんたうですか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　静かにしろ。雨戸はしめたか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　二階の電気。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あ、電気が消えたわ……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　ぢつとしといで。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　また<seg type="ruby"><seg type="rb">点</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いた。なんだい、あのサイレンは……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　来たんだわ。飛行機が来たんだわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　ちよいと、あんた……ほんたうですか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　静かにしろ。雨戸はしめたか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　二階の電気。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 サイレンの音に交つて、（空襲、空襲）とさけぶ警報班員の声。<lb />
 某地点にある照空隊長の号令。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-<span type="ruby"><span type="rb">定位</span><span type="rp">（</span><span type="rt">ていゐ</span><span type="rp">）</span></span>に就け。<lb />
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+<seg type="ruby"><seg type="rb">定位</seg><seg type="rp">（</seg><seg type="rt">ていゐ</seg><seg type="rp">）</seg></seg>に就け。<lb />
 目標、東方上空の爆音。<lb />
 航速四十。<lb />
 運転始め。<lb />
-<span type="ruby"><span type="rb">照射</span><span type="rp">（</span><span type="rt">せうしや</span><span type="rp">）</span></span>用意。<lb />
+<seg type="ruby"><seg type="rb">照射</seg><seg type="rp">（</seg><seg type="rt">せうしや</seg><seg type="rp">）</seg></seg>用意。<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 照空隊分隊長の号令。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　第一分隊<span type="ruby"><span type="rb">聴音</span><span type="rp">（</span><span type="rt">ちやうおん</span><span type="rp">）</span></span>よし。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　第二分隊聴音よし。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　航速四十。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　運転始め。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　第一分隊<seg type="ruby"><seg type="rb">聴音</seg><seg type="rp">（</seg><seg type="rt">ちやうおん</seg><seg type="rp">）</seg></seg>よし。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　第二分隊聴音よし。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　航速四十。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　運転始め。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
-（発電自動車の<span type="ruby"><span type="rb">機関</span><span type="rp">（</span><span type="rt">エンジン</span><span type="rp">）</span></span>の音）<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
+（発電自動車の<seg type="ruby"><seg type="rb">機関</seg><seg type="rp">（</seg><seg type="rt">エンジン</seg><seg type="rp">）</seg></seg>の音）<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　照射用意、送電。第一分隊<span type="ruby"><span type="rb">点燈</span><span type="rp">（</span><span type="rt">てんとう</span><span type="rp">）</span></span>よし。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　第二分隊点燈よし。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　照射用意、送電。第一分隊<seg type="ruby"><seg type="rb">点燈</seg><seg type="rp">（</seg><seg type="rt">てんとう</seg><seg type="rp">）</seg></seg>よし。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　第二分隊点燈よし。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 照空隊長の号令。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-統一<span type="ruby"><span type="rb">照射</span><span type="rp">（</span><span type="rt">せうしや</span><span type="rp">）</span></span>。<lb />
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+統一<seg type="ruby"><seg type="rb">照射</seg><seg type="rp">（</seg><seg type="rt">せうしや</seg><seg type="rp">）</seg></seg>。<lb />
 十秒照射始め。<lb />
-用意、<span type="ruby"><span type="rb">測</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>れ。<lb />
+用意、<seg type="ruby"><seg type="rb">測</seg><seg type="rp">（</seg><seg type="rt">はか</seg><seg type="rp">）</seg></seg>れ。<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 照空隊分隊長の号令。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　統一照射、十秒照射始め。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　用意、測れ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　<span type="ruby"><span type="rb">零</span><span type="rp">（</span><span type="rt">れい</span><span type="rp">）</span></span>五二、四三（射手の報告）</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　照射。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　統一照射、十秒照射始め。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　用意、測れ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　<seg type="ruby"><seg type="rb">零</seg><seg type="rp">（</seg><seg type="rt">れい</seg><seg type="rp">）</seg></seg>五二、四三（射手の報告）</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　照射。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 照空隊長の号令。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
 目標発見。<lb />
 目標追随。<lb />
 聴音機は東方上空を警戒せよ。<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 高射砲隊長の号令。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-目標、東方上空の<span type="ruby"><span type="rb">射光内</span><span type="rp">（</span><span type="rt">しやくわうない</span><span type="rp">）</span></span>の重爆。<lb />
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+目標、東方上空の<seg type="ruby"><seg type="rb">射光内</seg><seg type="rp">（</seg><seg type="rt">しやくわうない</seg><seg type="rp">）</seg></seg>の重爆。<lb />
 高度千二百。<lb />
 始め。<lb />
 航速十秒。<lb />
-航路<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かく</span><span type="rp">）</span></span>五百。<lb />
+航路<seg type="ruby"><seg type="rb">角</seg><seg type="rp">（</seg><seg type="rt">かく</seg><seg type="rp">）</seg></seg>五百。<lb />
 五発。<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 （砲声続いて五発）弾丸を装填する音。発射。弾丸の空気を裂く音。爆裂する音。薬莢の落ちる音。飛行機の爆音。機関銃の音（空中戦に於ける）やがて凄じい爆弾の音。悲鳴。その余韻に続いて、再び、時計のチクタク。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　出掛けるか。よし、しつかり頼むぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　<span type="ruby"><span type="rb">姉</span><span type="rp">（</span><span type="rt">ねえ</span><span type="rp">）</span></span>さん、水筒……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　気をつけてね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　<span type="ruby"><span type="rb">兄</span><span type="rp">（</span><span type="rt">にい</span><span type="rp">）</span></span>さん……。（泣声になる）</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　出掛けるか。よし、しつかり頼むぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　<seg type="ruby"><seg type="rb">姉</seg><seg type="rp">（</seg><seg type="rt">ねえ</seg><seg type="rp">）</seg></seg>さん、水筒……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　気をつけてね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　<seg type="ruby"><seg type="rb">兄</seg><seg type="rp">（</seg><seg type="rt">にい</seg><seg type="rp">）</seg></seg>さん……。（泣声になる）</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 また、爆弾の音、続いて二つ。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とつ</span><span type="rp">）</span></span>つあん……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　大丈夫、大丈夫……。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　お<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とつ</seg><seg type="rp">）</seg></seg>つあん……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　大丈夫、大丈夫……。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
-爆弾、砲声、機関銃、プロペラの音、しばらく<span type="ruby"><span type="rb">止</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>まず。あちこちに、悲鳴が聞える。警報班員及び交通班員の声。<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
+爆弾、砲声、機関銃、プロペラの音、しばらく<seg type="ruby"><seg type="rb">止</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>まず。あちこちに、悲鳴が聞える。警報班員及び交通班員の声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">警報班員Ａ　　なるべく家の外に出ないで下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">交通班員　　避難者は道路の右側をあけて下さい。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">警報班員Ａ　　なるべく家の外に出ないで下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">交通班員　　避難者は道路の右側をあけて下さい。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 消防自動車のサイレン。呼子、拍子木。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　第二小学校附近に毒瓦斯弾を投下しました。防毒マスクを用意して下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　この辺は<span type="ruby"><span type="rb">風下</span><span type="rp">（</span><span type="rt">かざしも</span><span type="rp">）</span></span>ですから、急いでマスクをつけて下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　早く用意をして下さい。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　第二小学校附近に毒瓦斯弾を投下しました。防毒マスクを用意して下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　この辺は<seg type="ruby"><seg type="rb">風下</seg><seg type="rp">（</seg><seg type="rt">かざしも</seg><seg type="rp">）</seg></seg>ですから、急いでマスクをつけて下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　早く用意をして下さい。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 避難する群集の騒音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　鉄ちやんの組が行くんだわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　防毒班つていへばさうだね。あのマスクをしてゐれば、大丈夫なんだらう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　鉄のことはどうでもいゝ。早く、お前たち、マスクをかけろ。糊刷毛は何処へやつた。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　鉄ちやんの組が行くんだわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　防毒班つていへばさうだね。あのマスクをしてゐれば、大丈夫なんだらう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　鉄のことはどうでもいゝ。早く、お前たち、マスクをかけろ。糊刷毛は何処へやつた。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 表の戸をたゝく音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なんですか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　旦那、わたしです。<span type="ruby"><span type="rb">庄市</span><span type="rp">（</span><span type="rt">しやういち</span><span type="rp">）</span></span>です。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　あゝ、庄さんか、どうしたい？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　どうも、この辺は危いですよ。避難した方がよささうです。猛烈な毒瓦斯らしいです。普通のマスクぢや、駄目と見えて、ばた／＼やられます。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　何処へ避難するんだい？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　ですから、わたしが御案内します。早く、みなさん出て下さい。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なんですか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　旦那、わたしです。<seg type="ruby"><seg type="rb">庄市</seg><seg type="rp">（</seg><seg type="rt">しやういち</seg><seg type="rp">）</seg></seg>です。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　あゝ、庄さんか、どうしたい？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　どうも、この辺は危いですよ。避難した方がよささうです。猛烈な毒瓦斯らしいです。普通のマスクぢや、駄目と見えて、ばた／＼やられます。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　何処へ避難するんだい？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　ですから、わたしが御案内します。早く、みなさん出て下さい。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 群集の叫び声、砲声に交つて、愈々はげしくなる。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　やめたよ、庄さん、おれたちは動くまい。行つた先でまたやられやおんなじこつた。それより、救護班の方は忙がしかないかね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　あゝ、忙がしいには忙しいやうですが、救護班も今、避難準備をしてゐるところです。なにしろ、一度にどつとやつて来たもんですから……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　よし、おれはそつちへ行くよ。<span type="ruby"><span type="rb">旭市場</span><span type="rp">（</span><span type="rt">あさひいちば</span><span type="rp">）</span></span>だつたね、救護所は……いゝから、君はほかを廻れ。おい、お加代、あとを頼むぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　お父つあん、あんたみたいな半病人が行つたつて、なんにもならないわよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　馬鹿<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>かせ。子供をおぶふぐらゐのこたあ、おれにだつて出来ら。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　<span type="ruby"><span type="rb">人手</span><span type="rp">（</span><span type="rt">ひとで</span><span type="rp">）</span></span>が足りなけれや、予備班つていふのがあるんだから、お父つあんなんか行つたつて、追ひ返されるだけよ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　やめたよ、庄さん、おれたちは動くまい。行つた先でまたやられやおんなじこつた。それより、救護班の方は忙がしかないかね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　あゝ、忙がしいには忙しいやうですが、救護班も今、避難準備をしてゐるところです。なにしろ、一度にどつとやつて来たもんですから……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　よし、おれはそつちへ行くよ。<seg type="ruby"><seg type="rb">旭市場</seg><seg type="rp">（</seg><seg type="rt">あさひいちば</seg><seg type="rp">）</seg></seg>だつたね、救護所は……いゝから、君はほかを廻れ。おい、お加代、あとを頼むぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　お父つあん、あんたみたいな半病人が行つたつて、なんにもならないわよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　馬鹿<seg type="ruby"><seg type="rb">吐</seg><seg type="rp">（</seg><seg type="rt">ぬ</seg><seg type="rp">）</seg></seg>かせ。子供をおぶふぐらゐのこたあ、おれにだつて出来ら。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　<seg type="ruby"><seg type="rb">人手</seg><seg type="rp">（</seg><seg type="rt">ひとで</seg><seg type="rp">）</seg></seg>が足りなけれや、予備班つていふのがあるんだから、お父つあんなんか行つたつて、追ひ返されるだけよ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 直ぐ近くに、爆音。美代をはじめ、女共のけたゝましい悲鳴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　あ、飛行機が落ちた。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　敵のか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　さあ……あゝ、燃える、燃える。こりやいけない。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　どこ？　どこ？</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　あ、飛行機が落ちた。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　敵のか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　さあ……あゝ、燃える、燃える。こりやいけない。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　どこ？　どこ？</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 しばらく、砲声と、プロペラの爆音。群集のどよめき、電話の呼鈴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　防衛司令部参謀です。敵機主力は千葉方面に一部は東京湾に向つて退却。友軍戦闘機は、これを急追中であります。は？　いえ、まだ、そつちの方面からは情報が上がりません。は？　あゝ、さうですか、敵の航空母艦、艦名はわかりませんか。それや御目出度う。いえ、大したことはありません。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　防衛司令部参謀です。敵機主力は千葉方面に一部は東京湾に向つて退却。友軍戦闘機は、これを急追中であります。は？　いえ、まだ、そつちの方面からは情報が上がりません。は？　あゝ、さうですか、敵の航空母艦、艦名はわかりませんか。それや御目出度う。いえ、大したことはありません。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 電話の呼鈴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　<span type="ruby"><span type="rb">下田</span><span type="rp">（</span><span type="rt">しもだ</span><span type="rp">）</span></span>監視哨報告。三十機以上より成る敵の爆撃機編隊はその先頭を以て、只今、<span type="ruby"><span type="rb">大島</span><span type="rp">（</span><span type="rt">おほしま</span><span type="rp">）</span></span>南端上空を北進中。高度三千。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　<seg type="ruby"><seg type="rb">下田</seg><seg type="rp">（</seg><seg type="rt">しもだ</seg><seg type="rp">）</seg></seg>監視哨報告。三十機以上より成る敵の爆撃機編隊はその先頭を以て、只今、<seg type="ruby"><seg type="rb">大島</seg><seg type="rp">（</seg><seg type="rt">おほしま</seg><seg type="rp">）</seg></seg>南端上空を北進中。高度三千。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 電話の呼鈴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">別の声　　海軍飛行隊の一部は直ちに出動、大島の上空に於てこれを邀撃せんとす。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">別の声　　海軍飛行隊の一部は直ちに出動、大島の上空に於てこれを邀撃せんとす。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 電話の呼鈴。やがて、底鳴りのやうなどよめきの中に、時計のチクタク。警報班員の声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　敵機は退却しました。しかし、まだ油断はできません。非常管制を継続します。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　救護所の手は揃ひました。却つて混雑を出しますから、もうどなたも手伝ひを御遠慮下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　毒瓦斯は空気より重いのですから、縁の下へ逃げ込まないで下さい。臭ひがしたら、取りあへず、濡れ手拭で鼻をおさへて下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　それみろ、なんでもありやしない。万事早く片づくところはえれえもんだ。おい、かうして、もしやうがねえ。仕事台をこつちへ持つて来るから、お加代、ちよつと手を貸してくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　こんな<span type="ruby"><span type="rb">明</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>りで。あんた……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　黙つてろ。駄目だよ、そつちをそんなに持ち上げちや……ほら、ピンセツトがおつこちた。どつこいしよつと……坐蒲団をよこせ。こら、お前たちも、うろうろしてないで、針仕事でもしろ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　<span type="ruby"><span type="rb">戯談</span><span type="rp">（</span><span type="rt">じようだん</span><span type="rp">）</span></span>ぢやありませんよ。ほんとに、そんな呑気な真似してゝいゝんですか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　いゝぢやないの、お父つあんはお父つあんで、したいことをさせといてあげたら……あゝしてないと、気が落ちつかないのよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あたし、御不浄へ行つてもいゝか知ら……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　いけないわよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　馬鹿だねえ。さつさと行つといで。明りを<span type="ruby"><span type="rb">点</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>けつぱなしにしちや駄目だよ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　敵機は退却しました。しかし、まだ油断はできません。非常管制を継続します。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　救護所の手は揃ひました。却つて混雑を出しますから、もうどなたも手伝ひを御遠慮下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　毒瓦斯は空気より重いのですから、縁の下へ逃げ込まないで下さい。臭ひがしたら、取りあへず、濡れ手拭で鼻をおさへて下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　それみろ、なんでもありやしない。万事早く片づくところはえれえもんだ。おい、かうして、もしやうがねえ。仕事台をこつちへ持つて来るから、お加代、ちよつと手を貸してくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　こんな<seg type="ruby"><seg type="rb">明</seg><seg type="rp">（</seg><seg type="rt">あか</seg><seg type="rp">）</seg></seg>りで。あんた……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　黙つてろ。駄目だよ、そつちをそんなに持ち上げちや……ほら、ピンセツトがおつこちた。どつこいしよつと……坐蒲団をよこせ。こら、お前たちも、うろうろしてないで、針仕事でもしろ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　<seg type="ruby"><seg type="rb">戯談</seg><seg type="rp">（</seg><seg type="rt">じようだん</seg><seg type="rp">）</seg></seg>ぢやありませんよ。ほんとに、そんな呑気な真似してゝいゝんですか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　いゝぢやないの、お父つあんはお父つあんで、したいことをさせといてあげたら……あゝしてないと、気が落ちつかないのよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　あたし、御不浄へ行つてもいゝか知ら……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　いけないわよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　馬鹿だねえ。さつさと行つといで。明りを<seg type="ruby"><seg type="rb">点</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>けつぱなしにしちや駄目だよ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
-欽蔵は、また<span type="ruby"><span type="rb">眼覚</span><span type="rp">（</span><span type="rt">めざまし</span><span type="rp">）</span></span>の修繕にかゝつたらしい。ねぢを巻く音。やがて、例のオールゴールのメロデイ。<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
+欽蔵は、また<seg type="ruby"><seg type="rb">眼覚</seg><seg type="rp">（</seg><seg type="rt">めざまし</seg><seg type="rp">）</seg></seg>の修繕にかゝつたらしい。ねぢを巻く音。やがて、例のオールゴールのメロデイ。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　鉄ちやんはどうしてゐるだらうね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　<span type="ruby"><span type="rb">人並</span><span type="rp">（</span><span type="rt">ひとなみ</span><span type="rp">）</span></span>のことはするわよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　どういふもんだろね。息子が戦争に出る時、母親はこんなぢやいけないと思ふんだけれど、やつぱり、普通の気になり方と違ふんだから……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　だつて、おつ<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>さん、鉄ちやんばかりが危い目に会ふんぢやないわよ。あたしたちも戦争の<span type="ruby"><span type="rb">真中</span><span type="rp">（</span><span type="rt">まんなか</span><span type="rp">）</span></span>にゐるのよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　それやさうだけどもさ。あの子は、毒瓦斯の中へはひつて行くんだつていふぢやないか。それに、なんといつても<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の中とは違ふからね。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　うるせえな、そんなお袋だから、鉄みたいな愚図々々ができちまふんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　それや、あたしだつて、あの子の前でこんな事云やしませんよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　思つてることは顔色に出る。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　思つてることだつて、それが全部ぢやありませんからね。あの子が立派な働きをしてくれゝばいゝ、さうも思つてるんですよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　立派な働きをして……まあ、どうでもいいや、そんなこたあ……おい、お加代、表の戸棚へはひつてる<span type="ruby"><span type="rb">油砥石</span><span type="rp">（</span><span type="rt">あぶらといし</span><span type="rp">）</span></span>を持つて来てくれ。それと、<span type="ruby"><span type="rb">序</span><span type="rp">（</span><span type="rt">ついで</span><span type="rp">）</span></span>に、<span type="ruby"><span type="rb">機械止</span><span type="rp">（</span><span type="rt">きかいどめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">捻廻</span><span type="rp">（</span><span type="rt">ねぢまは</span><span type="rp">）</span></span>し……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　表ぢや、まだ人が騒いでるわよ。いやだ、誰か大きな声で泣いてるわ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　鉄ちやんはどうしてゐるだらうね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　<seg type="ruby"><seg type="rb">人並</seg><seg type="rp">（</seg><seg type="rt">ひとなみ</seg><seg type="rp">）</seg></seg>のことはするわよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　どういふもんだろね。息子が戦争に出る時、母親はこんなぢやいけないと思ふんだけれど、やつぱり、普通の気になり方と違ふんだから……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　だつて、おつ<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>さん、鉄ちやんばかりが危い目に会ふんぢやないわよ。あたしたちも戦争の<seg type="ruby"><seg type="rb">真中</seg><seg type="rp">（</seg><seg type="rt">まんなか</seg><seg type="rp">）</seg></seg>にゐるのよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　それやさうだけどもさ。あの子は、毒瓦斯の中へはひつて行くんだつていふぢやないか。それに、なんといつても<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の中とは違ふからね。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　うるせえな、そんなお袋だから、鉄みたいな愚図々々ができちまふんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　それや、あたしだつて、あの子の前でこんな事云やしませんよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　思つてることは顔色に出る。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　思つてることだつて、それが全部ぢやありませんからね。あの子が立派な働きをしてくれゝばいゝ、さうも思つてるんですよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　立派な働きをして……まあ、どうでもいいや、そんなこたあ……おい、お加代、表の戸棚へはひつてる<seg type="ruby"><seg type="rb">油砥石</seg><seg type="rp">（</seg><seg type="rt">あぶらといし</seg><seg type="rp">）</seg></seg>を持つて来てくれ。それと、<seg type="ruby"><seg type="rb">序</seg><seg type="rp">（</seg><seg type="rt">ついで</seg><seg type="rp">）</seg></seg>に、<seg type="ruby"><seg type="rb">機械止</seg><seg type="rp">（</seg><seg type="rt">きかいどめ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">捻廻</seg><seg type="rp">（</seg><seg type="rt">ねぢまは</seg><seg type="rp">）</seg></seg>し……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　表ぢや、まだ人が騒いでるわよ。いやだ、誰か大きな声で泣いてるわ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 その泣声が次第に聞えて来ると、それがまた、だん／＼遠ざかる、救護所である。様々な声。うめき声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">男Ａ　　重症患者は、向うのテントへ運んで下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">男Ｂ　　もつと担架を持つて来なくつちや駄目だぜ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女甲　　今、先生が見えますから、少し我慢なすつて下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女乙　　あら、困るわ。今こゝへ置いた繃帯、誰が持つてつたの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女丙　　ちよつと、オキシフル、もうないぢやないの。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女甲　　先生、先生、この<span type="ruby"><span type="rb">方</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>を早く診てあげて下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女丁　　いけません。勝手におはひりになつてはいけません。あとでお会はせします。治療の邪魔になりますから、一切面会は禁じることになつてゐます。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">患者　　あ痛い、痛い、痛い……あゝ、苦しい。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">男Ａ　　重症患者は、向うのテントへ運んで下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">男Ｂ　　もつと担架を持つて来なくつちや駄目だぜ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女甲　　今、先生が見えますから、少し我慢なすつて下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女乙　　あら、困るわ。今こゝへ置いた繃帯、誰が持つてつたの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女丙　　ちよつと、オキシフル、もうないぢやないの。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女甲　　先生、先生、この<seg type="ruby"><seg type="rb">方</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>を早く診てあげて下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女丁　　いけません。勝手におはひりになつてはいけません。あとでお会はせします。治療の邪魔になりますから、一切面会は禁じることになつてゐます。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">患者　　あ痛い、痛い、痛い……あゝ、苦しい。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 その声がかすかに消えると、けたゝましい電話の呼鈴。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　<span type="ruby"><span type="rb">大磯</span><span type="rp">（</span><span type="rt">おほいそ</span><span type="rp">）</span></span>監視哨報告、三機より成る敵の軽爆撃隊は驚くべき快速力を以て、大磯上空を通過せり。高度二千、北進。北進。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防衛司令部参謀の声　　おい通信手、横浜地区司令部へ接続。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">声　　<seg type="ruby"><seg type="rb">大磯</seg><seg type="rp">（</seg><seg type="rt">おほいそ</seg><seg type="rp">）</seg></seg>監視哨報告、三機より成る敵の軽爆撃隊は驚くべき快速力を以て、大磯上空を通過せり。高度二千、北進。北進。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防衛司令部参謀の声　　おい通信手、横浜地区司令部へ接続。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 遥かに機関砲の音。やがてサイレン。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">高射砲隊長Ｂ　　目標、西方上空の射光内の軽爆。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">高射砲隊長Ｂ　　目標、西方上空の射光内の軽爆。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 プロペラの爆音。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
 「高度二千」<lb />
 「始め」<lb />
 「航速十五秒」<lb />
 「航路角六百」<lb />
 「六発」<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 （砲声六発）<lb />
 喊声とも悲鳴ともつかぬどよめき。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防護団分団本部員Ａ　　毒瓦斯弾無数に投下さる。警戒せよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　防毒班、防毒班。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　第一班、出動準備。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　第二班、準備。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　第三班。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｆ　　<span type="ruby"><span type="rb">旭市場</span><span type="rp">（</span><span type="rt">あさひいちば</span><span type="rp">）</span></span>の附近だ。救護所だ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防護団分団本部員Ａ　　毒瓦斯弾無数に投下さる。警戒せよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　防毒班、防毒班。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　第一班、出動準備。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　第二班、準備。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　第三班。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｆ　　<seg type="ruby"><seg type="rb">旭市場</seg><seg type="rp">（</seg><seg type="rt">あさひいちば</seg><seg type="rp">）</seg></seg>の附近だ。救護所だ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 その声の上にかぶさつて呼子拍子木。機関砲の音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">救護班員Ｃ　　患者を運び出せ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　風の方向は？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　東南…………。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　ようし、避難所は<span type="ruby"><span type="rb">佐竹子爵</span><span type="rp">（</span><span type="rt">さたけししやく</span><span type="rp">）</span></span>の邸内。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　慌てるな、慌てるな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｆ　　防毒班はまだ来ないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　救護班の予備班徴集。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女甲　　さ、しつかりつかまつて下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　担架々々。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　軽症患者は歩かせろ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女患者Ｂ　　とても駄目だわ。もう<span type="ruby"><span type="rb">呼吸</span><span type="rp">（</span><span type="rt">いき</span><span type="rp">）</span></span>が、あゝとても苦しいわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　しつかり、しつかり。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　眼をやられるぞ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女患者Ｄ　　早く連れてつて下さあい。子供を子供を……。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">救護班員Ｃ　　患者を運び出せ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　風の方向は？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　東南…………。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　ようし、避難所は<seg type="ruby"><seg type="rb">佐竹子爵</seg><seg type="rp">（</seg><seg type="rt">さたけししやく</seg><seg type="rp">）</seg></seg>の邸内。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　慌てるな、慌てるな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｆ　　防毒班はまだ来ないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　救護班の予備班徴集。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女甲　　さ、しつかりつかまつて下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　担架々々。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　軽症患者は歩かせろ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女患者Ｂ　　とても駄目だわ。もう<seg type="ruby"><seg type="rb">呼吸</seg><seg type="rp">（</seg><seg type="rt">いき</seg><seg type="rp">）</seg></seg>が、あゝとても苦しいわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　しつかり、しつかり。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｅ　　眼をやられるぞ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">女患者Ｄ　　早く連れてつて下さあい。子供を子供を……。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 その声がかすかに消えると、それにかぶせてかすかな砲声、時計のチクタク、オールゴール。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　美代ちやん……ちよつとこゝしばつて……あゝ<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>が面倒臭いなあ。お父つあん、今度こそは、こゝにゐちや駄目よ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　やかましい奴だなあ、さつきも庄市がさう云ひに来たぢやないか。消毒薬がとてもよく効いて、こんなことなら毒瓦斯はちつとも怖くないつて……第一、まだ臭ひもなんにもしやしないぢやないか。軍隊は強いし、防護団の諸君はなか／＼訓練が行届いてるし、われわれ非戦闘員はなるだけぢつとしてゐて、お互にぶざまなところを見せ合はない方がいゝんだ。その代り、いざ手がいるとなつたら、どんなことでも引受けるさ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　なんだい、あの騒々しい音は……。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　美代ちやん……ちよつとこゝしばつて……あゝ<seg type="ruby"><seg type="rb">袂</seg><seg type="rp">（</seg><seg type="rt">たもと</seg><seg type="rp">）</seg></seg>が面倒臭いなあ。お父つあん、今度こそは、こゝにゐちや駄目よ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　やかましい奴だなあ、さつきも庄市がさう云ひに来たぢやないか。消毒薬がとてもよく効いて、こんなことなら毒瓦斯はちつとも怖くないつて……第一、まだ臭ひもなんにもしやしないぢやないか。軍隊は強いし、防護団の諸君はなか／＼訓練が行届いてるし、われわれ非戦闘員はなるだけぢつとしてゐて、お互にぶざまなところを見せ合はない方がいゝんだ。その代り、いざ手がいるとなつたら、どんなことでも引受けるさ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　なんだい、あの騒々しい音は……。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 警報班員の声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　只今、旭市場前に毒瓦斯弾が落ちましたが、この辺は避難の必要ありません。救護班の第一予備員の方は、至急マスクをつけて、旭市場救護所へお集り願ひます。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　加代ちやんの番かい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あたしは第二よ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　只今、旭市場前に毒瓦斯弾が落ちましたが、この辺は避難の必要ありません。救護班の第一予備員の方は、至急マスクをつけて、旭市場救護所へお集り願ひます。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　加代ちやんの番かい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あたしは第二よ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 瞥報班員の別の声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　救護班第二予備員の方は、至急佐竹子爵邸仮救護所へお集り下さい。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　第二ですか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　さうです、佐竹子爵邸ですよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　はい、わかりました。きつと救護所の引越しだわ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　<span type="ruby"><span type="rb">足袋</span><span type="rp">（</span><span type="rt">たび</span><span type="rp">）</span></span>をはいといでよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　<span type="ruby"><span type="rb">姉</span><span type="rp">（</span><span type="rt">ねえ</span><span type="rp">）</span></span>さん…………。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　行つて参りまあす。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　さう／＼、さう<span type="ruby"><span type="rb">来</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>なくつちや。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　救護班第二予備員の方は、至急佐竹子爵邸仮救護所へお集り下さい。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　第二ですか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　さうです、佐竹子爵邸ですよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　はい、わかりました。きつと救護所の引越しだわ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">いく　　<seg type="ruby"><seg type="rb">足袋</seg><seg type="rp">（</seg><seg type="rt">たび</seg><seg type="rp">）</seg></seg>をはいといでよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　<seg type="ruby"><seg type="rb">姉</seg><seg type="rp">（</seg><seg type="rt">ねえ</seg><seg type="rp">）</seg></seg>さん…………。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　行つて参りまあす。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　さう／＼、さう<seg type="ruby"><seg type="rb">来</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>なくつちや。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
-戸の開く音。<span type="ruby"><span type="rb">戸外</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>のどよめきが流れる中を、<span type="ruby"><span type="rb">草履</span><span type="rp">（</span><span type="rt">ざうり</span><span type="rp">）</span></span>の音を高く、加代は走り出す。<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
+戸の開く音。<seg type="ruby"><seg type="rb">戸外</seg><seg type="rp">（</seg><seg type="rt">そと</seg><seg type="rp">）</seg></seg>のどよめきが流れる中を、<seg type="ruby"><seg type="rb">草履</seg><seg type="rp">（</seg><seg type="rt">ざうり</seg><seg type="rp">）</seg></seg>の音を高く、加代は走り出す。<lb />
 消毒液を撒布する音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防毒班Ａ　　やあ、まだこの辺は臭いぞ、みんな来てくれ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　家の中が大変だ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　逃げ遅れたものはゐないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　おい、酒井君、何処へ行くんだ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　君達、その辺を頼むぜ。まだ奥の方が残つてるから、僕ちよつと行つて見てくらあ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防毒班Ａ　　やあ、まだこの辺は臭いぞ、みんな来てくれ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　家の中が大変だ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　逃げ遅れたものはゐないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｄ　　おい、酒井君、何処へ行くんだ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　君達、その辺を頼むぜ。まだ奥の方が残つてるから、僕ちよつと行つて見てくらあ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 酒井鉄蔵は、かうして、ある長屋の路地へ進入して行く。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　おや、誰か倒れてるぞ。もし／＼、どうしたんです。<span type="ruby"><span type="rb">小母</span><span type="rp">（</span><span type="rt">をば</span><span type="rp">）</span></span>さん、マスクはないんですか。早く逃げなきや駄目ですよ。弱つたな。もう起てないんだね。待ち給へ、おゝい、救護班……救護班来てくれ。苦しいの。さう／＼、喉が苦しい。ぢや、しかたがない。僕のマスクを貸してあげよう。さ、その代り大急ぎだ。フウ……フ……いゝですか、しつかりおぶさつて下さい……（咳入る）……うむ。……</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">鉄蔵　　おや、誰か倒れてるぞ。もし／＼、どうしたんです。<seg type="ruby"><seg type="rb">小母</seg><seg type="rp">（</seg><seg type="rt">をば</seg><seg type="rp">）</seg></seg>さん、マスクはないんですか。早く逃げなきや駄目ですよ。弱つたな。もう起てないんだね。待ち給へ、おゝい、救護班……救護班来てくれ。苦しいの。さう／＼、喉が苦しい。ぢや、しかたがない。僕のマスクを貸してあげよう。さ、その代り大急ぎだ。フウ……フ……いゝですか、しつかりおぶさつて下さい……（咳入る）……うむ。……</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 鉄蔵は、老婆を負ぶつたまゝ、その場に倒れる。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　今、誰か呼んでたやうだぜ……こんなところは、いゝ加減にしとかうよ。酒井君はどうしたんだい。しやうがないなあ、一人で行つちまつちや……おゝい、酒井君……鉄蔵君……。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　今、誰か呼んでたやうだぜ……こんなところは、いゝ加減にしとかうよ。酒井君はどうしたんだい。しやうがないなあ、一人で行つちまつちや……おゝい、酒井君……鉄蔵君……。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 高射砲の音、遥かに……やがて、遠くで（万歳）といふ歓声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">ＢＣ　　酒井君……鉄蔵君……。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">ＢＣ　　酒井君……鉄蔵君……。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 女の声（無論加代である）<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あなた、<span type="ruby"><span type="rb">服部</span><span type="rp">（</span><span type="rt">はつとり</span><span type="rp">）</span></span>さんのお子息さんでしたね。鉄蔵がどうかいたしましたんですか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　暗くなつてよくわからないんですが、探してるんです。たつた今、一緒にゐたんですけど、なんでも、この奥へ入つて行つたらしいんです。駄目ですよ、まだ毒瓦斯が残つてゐますから……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　お待ちなさい。今、消毒薬を撒きますから……。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あなた、<seg type="ruby"><seg type="rb">服部</seg><seg type="rp">（</seg><seg type="rt">はつとり</seg><seg type="rp">）</seg></seg>さんのお子息さんでしたね。鉄蔵がどうかいたしましたんですか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　暗くなつてよくわからないんですが、探してるんです。たつた今、一緒にゐたんですけど、なんでも、この奥へ入つて行つたらしいんです。駄目ですよ、まだ毒瓦斯が残つてゐますから……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　お待ちなさい。今、消毒薬を撒きますから……。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 機関銃の音。続いてまた（万歳）といふ声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あの黒いのはなんでせう？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　懐中電燈をつけませう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あ、鉄ちやん……鉄蔵ですわ。鉄ちやん……どうしたの……こんなとこで……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　無茶だ、こいつ、マスクを脱ぐなんて……。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　酒井君……（半ば憤り）このお婆さんは一体、だれだい？</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　鉄ちやん、あんたは、この人を助けようと思つて……。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あの黒いのはなんでせう？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ　　懐中電燈をつけませう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あ、鉄ちやん……鉄蔵ですわ。鉄ちやん……どうしたの……こんなとこで……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｂ　　無茶だ、こいつ、マスクを脱ぐなんて……。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ｃ　　酒井君……（半ば憤り）このお婆さんは一体、だれだい？</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　鉄ちやん、あんたは、この人を助けようと思つて……。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 機関銃の音、ひとしきり。やがて、この音に交つて、電話の呼鈴。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-もし、もし、こちらは大島監視哨であります。わが海軍飛行隊は、敵機十数機を射落し（電話の呼鈴）残余十三機は一斉に白旗を掲げたるにより、（電話の呼鈴）これを<span type="ruby"><span type="rb">波浮</span><span type="rp">（</span><span type="rt">はぶ</span><span type="rp">）</span></span>港外に誘導着水せしめたり。終り。<lb />
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+もし、もし、こちらは大島監視哨であります。わが海軍飛行隊は、敵機十数機を射落し（電話の呼鈴）残余十三機は一斉に白旗を掲げたるにより、（電話の呼鈴）これを<seg type="ruby"><seg type="rb">波浮</seg><seg type="rp">（</seg><seg type="rt">はぶ</seg><seg type="rp">）</seg></seg>港外に誘導着水せしめたり。終り。<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 この報告は二度、電話の呼鈴で遮られ、次第に低く聞える。これに代つて、時計のチクタクがはつきり聞えて来る。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　どうも御苦労様でした。加代は、すると一緒に救護所の方へ行つて居りますんですな。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防毒班Ａ　　えゝ、あちらへは、どなたもおいでにならないやうにつていふ<span type="ruby"><span type="rb">御言伝</span><span type="rp">（</span><span type="rt">おことづて</span><span type="rp">）</span></span>でした。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　駄目ときまつたなら、遺骸はすぐにこちらへ、引取らしていたゞけませうか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ声　　さあ、僕にはよくわかりませんが……その事だけなら、お伝へして置きませう。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　何分よろしく。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　どうも御苦労様でした。加代は、すると一緒に救護所の方へ行つて居りますんですな。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">防毒班Ａ　　えゝ、あちらへは、どなたもおいでにならないやうにつていふ<seg type="ruby"><seg type="rb">御言伝</seg><seg type="rp">（</seg><seg type="rt">おことづて</seg><seg type="rp">）</seg></seg>でした。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　駄目ときまつたなら、遺骸はすぐにこちらへ、引取らしていたゞけませうか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">Ａ声　　さあ、僕にはよくわかりませんが……その事だけなら、お伝へして置きませう。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　何分よろしく。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 戸を閉める音。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　お<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とつ</span><span type="rp">）</span></span>つあん。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　馬鹿野郎！　その<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>はなんだ。今は戦争ぢやねえか。貴様たちは、大体、生きてゐてなんになるんだ。かういふ時は、死ぬのが当り前ぢやねえか。畏れ多い事だが、<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">御</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>一<span type="ruby"><span type="rb">人</span><span type="rp">（</span><span type="rt">にん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">御障</span><span type="rp">（</span><span type="rt">おさは</span><span type="rp">）</span></span>りさへなければ、日本国中、誰一人、死んぢやならねえといふ人間はねえんだ。畜生め、承知しねえぞ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">美代　　お<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とつ</seg><seg type="rp">）</seg></seg>つあん。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　馬鹿野郎！　その<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">つら</seg><seg type="rp">）</seg></seg>はなんだ。今は戦争ぢやねえか。貴様たちは、大体、生きてゐてなんになるんだ。かういふ時は、死ぬのが当り前ぢやねえか。畏れ多い事だが、<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">御</seg><seg type="rp">（</seg><seg type="rt">ご</seg><seg type="rp">）</seg></seg>一<seg type="ruby"><seg type="rb">人</seg><seg type="rp">（</seg><seg type="rt">にん</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">御障</seg><seg type="rp">（</seg><seg type="rt">おさは</seg><seg type="rp">）</seg></seg>りさへなければ、日本国中、誰一人、死んぢやならねえといふ人間はねえんだ。畜生め、承知しねえぞ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 欽蔵は、やけに時計のねぢを捲く。戸の開く昔。人声。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　お父つあん。鉄ちやんを、連れて来ましたよ。おつ<span type="ruby"><span type="rb">母</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>さん、蒲団を敷いてやつて下さい。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　お父つあん。鉄ちやんを、連れて来ましたよ。おつ<seg type="ruby"><seg type="rb">母</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>さん、蒲団を敷いてやつて下さい。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 沈黙。時計のチクタク。<lb />
 遠くで万歳といふ声。電話の呼鈴。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-<span type="ruby"><span type="rb">東金</span><span type="rp">（</span><span type="rt">とうがね</span><span type="rp">）</span></span>監視隊本部報告。両翼を大破せる敵重爆一機、只今、九十九里海岸<span type="ruby"><span type="rb">片貝</span><span type="rp">（</span><span type="rt">かたがひ</span><span type="rp">）</span></span>町の海上に不時着。直ちに、その乗組員四名を捕虜とす。なほ、他の一機は、同町二千米の沖合に墜落せるものゝ如く、捜索の結果、遂に機影を発見せず。<lb />
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+<seg type="ruby"><seg type="rb">東金</seg><seg type="rp">（</seg><seg type="rt">とうがね</seg><seg type="rp">）</seg></seg>監視隊本部報告。両翼を大破せる敵重爆一機、只今、九十九里海岸<seg type="ruby"><seg type="rb">片貝</seg><seg type="rp">（</seg><seg type="rt">かたがひ</seg><seg type="rp">）</seg></seg>町の海上に不時着。直ちに、その乗組員四名を捕虜とす。なほ、他の一機は、同町二千米の沖合に墜落せるものゝ如く、捜索の結果、遂に機影を発見せず。<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 時計のチクタク。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　白いきれはないか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　今ガーゼを出します。おつ母さん、<span type="ruby"><span type="rb">金盥</span><span type="rp">（</span><span type="rt">かなだらひ</span><span type="rp">）</span></span>に水をくんで来て頂戴。それから美代ちやん、二階の机の上の花瓶から<span type="ruby"><span type="rb">桔梗</span><span type="rp">（</span><span type="rt">ききやう</span><span type="rp">）</span></span>の花を二つぬいて来て……<span type="ruby"><span type="rb">萎</span><span type="rp">（</span><span type="rt">しを</span><span type="rp">）</span></span>れてないのをね。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　白いきれはないか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　今ガーゼを出します。おつ母さん、<seg type="ruby"><seg type="rb">金盥</seg><seg type="rp">（</seg><seg type="rt">かなだらひ</seg><seg type="rp">）</seg></seg>に水をくんで来て頂戴。それから美代ちやん、二階の机の上の花瓶から<seg type="ruby"><seg type="rb">桔梗</seg><seg type="rp">（</seg><seg type="rt">ききやう</seg><seg type="rp">）</seg></seg>の花を二つぬいて来て……<seg type="ruby"><seg type="rb">萎</seg><seg type="rp">（</seg><seg type="rt">しを</seg><seg type="rp">）</seg></seg>れてないのをね。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 近所からのラヂオが聞え出す。<lb />
 <lb />
-</span><span rend="jisage_1" rendition="div" style="margin-left: 1em">
-ＪＯＡＫ……こちらは東京放送局であります。只今から、東京防衛司令部発表のニュースを放送いたします……<span type="ruby"><span type="rb">今夕</span><span type="rp">（</span><span type="rt">こんゆふ</span><span type="rp">）</span></span>、八月八日午後八時五十五分、同じく九時二十分の二回に亙り、帝国の領土上空を襲ひたる敵機は、総数合せて三十六機、疾風暗黒の夜に乗じて<span type="ruby"><span type="rb">巧</span><span type="rp">（</span><span type="rt">たくみ</span><span type="rp">）</span></span>に我が攻撃を避け、遂にその数機は、帝都中心圏内に侵入して、若干の損害を与へたるも、天佑、海陸皇軍の作戦を利あらしめ、市民並に隣接諸県官民の沈着剛毅、よく非常防空の<span type="ruby"><span type="rb">実</span><span type="rp">（</span><span type="rt">じつ</span><span type="rp">）</span></span>を挙げ、<span type="ruby"><span type="rb">茲</span><span type="rp">（</span><span type="rt">こゝ</span><span type="rp">）</span></span>に、第一回空襲の敵機を文字通り撃滅し得たり……。<lb />
+</seg><seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+ＪＯＡＫ……こちらは東京放送局であります。只今から、東京防衛司令部発表のニュースを放送いたします……<seg type="ruby"><seg type="rb">今夕</seg><seg type="rp">（</seg><seg type="rt">こんゆふ</seg><seg type="rp">）</seg></seg>、八月八日午後八時五十五分、同じく九時二十分の二回に亙り、帝国の領土上空を襲ひたる敵機は、総数合せて三十六機、疾風暗黒の夜に乗じて<seg type="ruby"><seg type="rb">巧</seg><seg type="rp">（</seg><seg type="rt">たくみ</seg><seg type="rp">）</seg></seg>に我が攻撃を避け、遂にその数機は、帝都中心圏内に侵入して、若干の損害を与へたるも、天佑、海陸皇軍の作戦を利あらしめ、市民並に隣接諸県官民の沈着剛毅、よく非常防空の<seg type="ruby"><seg type="rb">実</seg><seg type="rp">（</seg><seg type="rt">じつ</seg><seg type="rp">）</seg></seg>を挙げ、<seg type="ruby"><seg type="rb">茲</seg><seg type="rp">（</seg><seg type="rt">こゝ</seg><seg type="rp">）</seg></seg>に、第一回空襲の敵機を文字通り撃滅し得たり……。<lb />
 <lb />
-</span><span rend="jisage_5" rendition="div" style="margin-left: 5em">
+</seg><seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 この放送の終らない中に、軍楽隊は荘厳勇壮な君ヶ代マーチ（或いは『海行かば』）が吹奏される。<lb />
 庄市がかけ込んで来る。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　旦那、どうもとんだことで……たつた今、救護所でその話を聞いたんです。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　うむ、聞いたか。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　えらい評判です。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あたしが見つけたのよ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　さうですつてね。あ、あの婆さんは、助かつてますよ。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　旦那、どうもとんだことで……たつた今、救護所でその話を聞いたんです。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　うむ、聞いたか。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　えらい評判です。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">加代　　あたしが見つけたのよ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　さうですつてね。あ、あの婆さんは、助かつてますよ。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 万歳、万歳。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　（『万歳』といふ声に耳をすまし）やい、鉄蔵、あの『万歳』が聞えるか。あの楽隊が聞えるか。</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　（『万歳』といふ声に耳をすまし）やい、鉄蔵、あの『万歳』が聞えるか。あの楽隊が聞えるか。</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 急に、いくが声をあげて泣き出す。美代も、これにつれて泣く。<lb />
 <lb />
-</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　お<span type="ruby"><span type="rb">神</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>さん、泣くつて法はないや。名誉の戦死でさあ。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なに、かまふこたあねえ、泣きてえものは泣け／＼。けちな涙たあ、わけがちがはあ。おい、お加代、祝盃だ。<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">ひや</span><span type="rp">）</span></span>でいゝから、一本持つて来い。（胸が一つぱいだといふことがわかる）</span>
+</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">庄市　　お<seg type="ruby"><seg type="rb">神</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg>さん、泣くつて法はないや。名誉の戦死でさあ。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">欽蔵　　なに、かまふこたあねえ、泣きてえものは泣け／＼。けちな涙たあ、わけがちがはあ。おい、お加代、祝盃だ。<seg type="ruby"><seg type="rb">冷</seg><seg type="rp">（</seg><seg type="rt">ひや</seg><seg type="rp">）</seg></seg>でいゝから、一本持つて来い。（胸が一つぱいだといふことがわかる）</seg>
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 マーチ、万歳の声。<lb />
-</span>
+</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

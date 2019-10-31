@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-12-11">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>」三一書房
+底本：「久生十蘭全集　4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年3月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
@@ -32,11 +32,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　　　<span type="ruby"><span type="rb">賜氷</span><span type="rp">（</span><span type="rt">しひょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">節</span><span type="rp">（</span><span type="rt">せつ</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">賜氷</seg><seg type="rp">（</seg><seg type="rt">しひょう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">節</seg><seg type="rp">（</seg><seg type="rt">せつ</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 「これ、押すな、押すな。……押すな、と申すに」<lb />
 「どうか、お氷を……」<lb />
@@ -44,35 +44,35 @@
 「……ほんの、ひとかけでも……」<lb />
 「いま、順にくださる、お待ちなさい……」<lb />
 「じつは……」<lb />
-「おい、お武家さん、おれたちは、こうして炎天に照らされながら<span type="ruby"><span type="rb">二刻</span><span type="rp">（</span><span type="rt">ふたとき</span><span type="rp">）</span></span>も前から待っているんです。……つい、いま来て、先にせしめようというなあ、すこしばかり虫がいいでしょう」<lb />
+「おい、お武家さん、おれたちは、こうして炎天に照らされながら<seg type="ruby"><seg type="rb">二刻</seg><seg type="rp">（</seg><seg type="rt">ふたとき</seg><seg type="rp">）</seg></seg>も前から待っているんです。……つい、いま来て、先にせしめようというなあ、すこしばかり虫がいいでしょう」<lb />
 「……まことに、申訳けないが、じつは……」<lb />
 　本郷、向ガ岡。<lb />
-　加賀さまの<span type="ruby"><span type="rb">赤門</span><span type="rp">（</span><span type="rt">あかもん</span><span type="rp">）</span></span>で名代の<span type="ruby"><span type="rb">前田加賀守</span><span type="rp">（</span><span type="rt">まえだかがのかみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">御守殿</span><span type="rp">（</span><span type="rt">ごしゅでん</span><span type="rp">）</span></span>屋敷。<lb />
-　本郷から下谷の根津わきまで<span type="ruby"><span type="rb">跨</span><span type="rp">（</span><span type="rt">またが</span><span type="rp">）</span></span>って、屋敷の地内が十六万坪。<lb />
-　<span type="ruby"><span type="rb">竹逕</span><span type="rp">（</span><span type="rt">ちくけい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">涼雨</span><span type="rp">（</span><span type="rt">りょうう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">怪巌</span><span type="rp">（</span><span type="rt">かいがん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">紅楓</span><span type="rp">（</span><span type="rt">こうふう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">蟠松</span><span type="rp">（</span><span type="rt">ばんしょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">晴雪</span><span type="rp">（</span><span type="rt">せいせつ</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「せいせつ」は底本では「せいうん」］</span>……<span type="ruby"><span type="rb">育徳園</span><span type="rp">（</span><span type="rt">いくとくえん</span><span type="rp">）</span></span>八景といって、<span type="ruby"><span type="rb">泉石林木</span><span type="rp">（</span><span type="rt">せんせきりんぼく</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">布置</span><span type="rp">（</span><span type="rt">ふち</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">幽邃</span><span type="rp">（</span><span type="rt">ゆうすい</span><span type="rp">）</span></span>をきわめる名園がある。<lb />
-　北どなり、水戸さまの中屋敷にむいた<span type="ruby"><span type="rb">弥生町</span><span type="rp">（</span><span type="rt">やよいちょう</span><span type="rp">）</span></span>がわの通用門から、てんでに<span type="ruby"><span type="rb">丼</span><span type="rp">（</span><span type="rt">どんぶり</span><span type="rp">）</span></span>や土瓶を持った<span type="ruby"><span type="rb">老若男女</span><span type="rp">（</span><span type="rt">ろうにゃくなんにょ</span><span type="rp">）</span></span>があふれだし、四列ならびになってずっと<span type="ruby"><span type="rb">根津権現</span><span type="rp">（</span><span type="rt">ねづごんげん</span><span type="rp">）</span></span>のほうまで続いている。<lb />
-　加賀さまの<span type="ruby"><span type="rb">雪振舞</span><span type="rp">（</span><span type="rt">ゆきぶるまい</span><span type="rp">）</span></span>。――加賀屋敷、冷てえ土だと<span type="ruby"><span type="rb">泥土</span><span type="rp">（</span><span type="rt">どろ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">舐</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>め、と<span type="ruby"><span type="rb">川柳点</span><span type="rp">（</span><span type="rt">せんりゅうてん</span><span type="rp">）</span></span>にもあるくらいで、盛夏の候、江戸の行事のひとつ。<lb />
-　<span type="ruby"><span type="rb">嘉永版</span><span type="rp">（</span><span type="rt">かえいばん</span><span type="rp">）</span></span>の『<span type="ruby"><span type="rb">東都遊覧年中行事</span><span type="rp">（</span><span type="rt">とうとゆうらんねんちゅうぎょうじ</span><span type="rp">）</span></span>』にも、『六月<span type="ruby"><span type="rb">朔日</span><span type="rp">（</span><span type="rt">ついたち</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">賜氷</span><span type="rp">（</span><span type="rt">しひょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">節</span><span type="rp">（</span><span type="rt">せつ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">御祝儀</span><span type="rp">（</span><span type="rt">ごしゅうぎ</span><span type="rp">）</span></span>、加州侯より氷献上、お<span type="ruby"><span type="rb">余</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>りを<span type="ruby"><span type="rb">町家</span><span type="rp">（</span><span type="rt">ちょうか</span><span type="rp">）</span></span>に下さる』と見えている。<lb />
-　賜氷の節、また<span type="ruby"><span type="rb">氷室</span><span type="rp">（</span><span type="rt">ひむろ</span><span type="rp">）</span></span>の御祝儀ともいって、三月三日の桃の節句、五月五日の<span type="ruby"><span type="rb">菖蒲</span><span type="rp">（</span><span type="rt">しょうぶ</span><span type="rp">）</span></span>の節句、九月九日の菊の節句についで古い行事で、仁徳天皇の御代に<span type="ruby"><span type="rb">山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>ノ<span type="ruby"><span type="rb">辺</span><span type="rp">（</span><span type="rt">べの</span><span type="rp">）</span></span><span type="ruby"><span type="rb">福住</span><span type="rp">（</span><span type="rt">ふくずみ</span><span type="rp">）</span></span>の氷室の氷を朝廷に<span type="ruby"><span type="rb">奉</span><span type="rp">（</span><span type="rt">たてまつ</span><span type="rp">）</span></span>って以来、六月朔日を氷室の節といい、西の丸では、富士氷室の御祝という儀式があり、大奥、御台所は伺候の大小名に祝いの<span type="ruby"><span type="rb">氷餅</span><span type="rp">（</span><span type="rt">こおりもち</span><span type="rp">）</span></span>をくださる。<lb />
-　<span type="ruby"><span type="rb">町家</span><span type="rp">（</span><span type="rt">まちや</span><span type="rp">）</span></span>では、前の年の寒のうちに寒水でつくった餅を喰べてこの日を祝い、江戸富士詣りといって、<span type="ruby"><span type="rb">駒込</span><span type="rp">（</span><span type="rt">こまごめ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">真光寺</span><span type="rp">（</span><span type="rt">しんこうじ</span><span type="rp">）</span></span>の地内に<span type="ruby"><span type="rb">勧請</span><span type="rp">（</span><span type="rt">かんじょう</span><span type="rp">）</span></span>した富士権現に詣り、<span type="ruby"><span type="rb">麦藁</span><span type="rp">（</span><span type="rt">むぎわら</span><span type="rp">）</span></span>でつくった<span type="ruby"><span type="rb">唐団扇</span><span type="rp">（</span><span type="rt">とううちわ</span><span type="rp">）</span></span>や氷餅、氷豆腐などを<span type="ruby"><span type="rb">土産</span><span type="rp">（</span><span type="rt">みやげ</span><span type="rp">）</span></span>にして帰る。<lb />
+　加賀さまの<seg type="ruby"><seg type="rb">赤門</seg><seg type="rp">（</seg><seg type="rt">あかもん</seg><seg type="rp">）</seg></seg>で名代の<seg type="ruby"><seg type="rb">前田加賀守</seg><seg type="rp">（</seg><seg type="rt">まえだかがのかみ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">御守殿</seg><seg type="rp">（</seg><seg type="rt">ごしゅでん</seg><seg type="rp">）</seg></seg>屋敷。<lb />
+　本郷から下谷の根津わきまで<seg type="ruby"><seg type="rb">跨</seg><seg type="rp">（</seg><seg type="rt">またが</seg><seg type="rp">）</seg></seg>って、屋敷の地内が十六万坪。<lb />
+　<seg type="ruby"><seg type="rb">竹逕</seg><seg type="rp">（</seg><seg type="rt">ちくけい</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">涼雨</seg><seg type="rp">（</seg><seg type="rt">りょうう</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">怪巌</seg><seg type="rp">（</seg><seg type="rt">かいがん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">紅楓</seg><seg type="rp">（</seg><seg type="rt">こうふう</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">蟠松</seg><seg type="rp">（</seg><seg type="rt">ばんしょう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">晴雪</seg><seg type="rp">（</seg><seg type="rt">せいせつ</seg><seg type="rp">）</seg></seg><seg rend="notes" rendition="span">［＃ルビの「せいせつ」は底本では「せいうん」］</seg>……<seg type="ruby"><seg type="rb">育徳園</seg><seg type="rp">（</seg><seg type="rt">いくとくえん</seg><seg type="rp">）</seg></seg>八景といって、<seg type="ruby"><seg type="rb">泉石林木</seg><seg type="rp">（</seg><seg type="rt">せんせきりんぼく</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">布置</seg><seg type="rp">（</seg><seg type="rt">ふち</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">幽邃</seg><seg type="rp">（</seg><seg type="rt">ゆうすい</seg><seg type="rp">）</seg></seg>をきわめる名園がある。<lb />
+　北どなり、水戸さまの中屋敷にむいた<seg type="ruby"><seg type="rb">弥生町</seg><seg type="rp">（</seg><seg type="rt">やよいちょう</seg><seg type="rp">）</seg></seg>がわの通用門から、てんでに<seg type="ruby"><seg type="rb">丼</seg><seg type="rp">（</seg><seg type="rt">どんぶり</seg><seg type="rp">）</seg></seg>や土瓶を持った<seg type="ruby"><seg type="rb">老若男女</seg><seg type="rp">（</seg><seg type="rt">ろうにゃくなんにょ</seg><seg type="rp">）</seg></seg>があふれだし、四列ならびになってずっと<seg type="ruby"><seg type="rb">根津権現</seg><seg type="rp">（</seg><seg type="rt">ねづごんげん</seg><seg type="rp">）</seg></seg>のほうまで続いている。<lb />
+　加賀さまの<seg type="ruby"><seg type="rb">雪振舞</seg><seg type="rp">（</seg><seg type="rt">ゆきぶるまい</seg><seg type="rp">）</seg></seg>。――加賀屋敷、冷てえ土だと<seg type="ruby"><seg type="rb">泥土</seg><seg type="rp">（</seg><seg type="rt">どろ</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">舐</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>め、と<seg type="ruby"><seg type="rb">川柳点</seg><seg type="rp">（</seg><seg type="rt">せんりゅうてん</seg><seg type="rp">）</seg></seg>にもあるくらいで、盛夏の候、江戸の行事のひとつ。<lb />
+　<seg type="ruby"><seg type="rb">嘉永版</seg><seg type="rp">（</seg><seg type="rt">かえいばん</seg><seg type="rp">）</seg></seg>の『<seg type="ruby"><seg type="rb">東都遊覧年中行事</seg><seg type="rp">（</seg><seg type="rt">とうとゆうらんねんちゅうぎょうじ</seg><seg type="rp">）</seg></seg>』にも、『六月<seg type="ruby"><seg type="rb">朔日</seg><seg type="rp">（</seg><seg type="rt">ついたち</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">賜氷</seg><seg type="rp">（</seg><seg type="rt">しひょう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">節</seg><seg type="rp">（</seg><seg type="rt">せつ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">御祝儀</seg><seg type="rp">（</seg><seg type="rt">ごしゅうぎ</seg><seg type="rp">）</seg></seg>、加州侯より氷献上、お<seg type="ruby"><seg type="rb">余</seg><seg type="rp">（</seg><seg type="rt">あま</seg><seg type="rp">）</seg></seg>りを<seg type="ruby"><seg type="rb">町家</seg><seg type="rp">（</seg><seg type="rt">ちょうか</seg><seg type="rp">）</seg></seg>に下さる』と見えている。<lb />
+　賜氷の節、また<seg type="ruby"><seg type="rb">氷室</seg><seg type="rp">（</seg><seg type="rt">ひむろ</seg><seg type="rp">）</seg></seg>の御祝儀ともいって、三月三日の桃の節句、五月五日の<seg type="ruby"><seg type="rb">菖蒲</seg><seg type="rp">（</seg><seg type="rt">しょうぶ</seg><seg type="rp">）</seg></seg>の節句、九月九日の菊の節句についで古い行事で、仁徳天皇の御代に<seg type="ruby"><seg type="rb">山</seg><seg type="rp">（</seg><seg type="rt">やま</seg><seg type="rp">）</seg></seg>ノ<seg type="ruby"><seg type="rb">辺</seg><seg type="rp">（</seg><seg type="rt">べの</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">福住</seg><seg type="rp">（</seg><seg type="rt">ふくずみ</seg><seg type="rp">）</seg></seg>の氷室の氷を朝廷に<seg type="ruby"><seg type="rb">奉</seg><seg type="rp">（</seg><seg type="rt">たてまつ</seg><seg type="rp">）</seg></seg>って以来、六月朔日を氷室の節といい、西の丸では、富士氷室の御祝という儀式があり、大奥、御台所は伺候の大小名に祝いの<seg type="ruby"><seg type="rb">氷餅</seg><seg type="rp">（</seg><seg type="rt">こおりもち</seg><seg type="rp">）</seg></seg>をくださる。<lb />
+　<seg type="ruby"><seg type="rb">町家</seg><seg type="rp">（</seg><seg type="rt">まちや</seg><seg type="rp">）</seg></seg>では、前の年の寒のうちに寒水でつくった餅を喰べてこの日を祝い、江戸富士詣りといって、<seg type="ruby"><seg type="rb">駒込</seg><seg type="rp">（</seg><seg type="rt">こまごめ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">真光寺</seg><seg type="rp">（</seg><seg type="rt">しんこうじ</seg><seg type="rp">）</seg></seg>の地内に<seg type="ruby"><seg type="rb">勧請</seg><seg type="rp">（</seg><seg type="rt">かんじょう</seg><seg type="rp">）</seg></seg>した富士権現に詣り、<seg type="ruby"><seg type="rb">麦藁</seg><seg type="rp">（</seg><seg type="rt">むぎわら</seg><seg type="rp">）</seg></seg>でつくった<seg type="ruby"><seg type="rb">唐団扇</seg><seg type="rp">（</seg><seg type="rt">とううちわ</seg><seg type="rp">）</seg></seg>や氷餅、氷豆腐などを<seg type="ruby"><seg type="rb">土産</seg><seg type="rp">（</seg><seg type="rt">みやげ</seg><seg type="rp">）</seg></seg>にして帰る。<lb />
 　六月朔日の氷室のお祝に、加州侯からお雪をさしあげることは、加賀さまの氷献上といって、これも古い行事のひとつ。<lb />
-　<span type="ruby"><span type="rb">延喜式</span><span type="rp">（</span><span type="rt">えんぎしき</span><span type="rp">）</span></span>の古式にのっとって、前の年の寒のうちに屋敷の空地の清浄な地に、深さ二丈ばかりの大穴を掘り、そこに<span type="ruby"><span type="rb">新筵</span><span type="rp">（</span><span type="rt">あらむしろ</span><span type="rp">）</span></span>を敷いて雪をつめた桐の大箱をおさめる。<lb />
-　そのまわりを数万坪の雪でかこい、雪の上に筵を厚くかけて高く土盛りをする。こうして春を過し、六月朔日、土用のさなかに穴をひらき、まわりの雪をのけて桐箱入りの氷を駕籠にのせ、一ツ橋御門から入ってすぐ<span type="ruby"><span type="rb">御車寄</span><span type="rp">（</span><span type="rt">おくるまよせ</span><span type="rp">）</span></span>まで行く。<lb />
-　車寄についたお雪の桐箱は、<span type="ruby"><span type="rb">御側用人</span><span type="rp">（</span><span type="rt">おそばようにん</span><span type="rp">）</span></span>、お坊主附添いでまず<span type="ruby"><span type="rb">老中</span><span type="rp">（</span><span type="rt">ろうじゅう</span><span type="rp">）</span></span>の用部屋まで運び入れ、用部屋から<span type="ruby"><span type="rb">時計</span><span type="rp">（</span><span type="rt">とけい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span><span type="ruby"><span type="rb">坊主</span><span type="rp">（</span><span type="rt">ぼうず</span><span type="rp">）</span></span>、側用取次と順々に送られ、お待ちかねの将軍が、これを<span type="ruby"><span type="rb">器</span><span type="rp">（</span><span type="rt">うつわ</span><span type="rp">）</span></span>に盛って、今年の雪は、ことのほか冷たいの、などと御賞美なさる。<lb />
+　<seg type="ruby"><seg type="rb">延喜式</seg><seg type="rp">（</seg><seg type="rt">えんぎしき</seg><seg type="rp">）</seg></seg>の古式にのっとって、前の年の寒のうちに屋敷の空地の清浄な地に、深さ二丈ばかりの大穴を掘り、そこに<seg type="ruby"><seg type="rb">新筵</seg><seg type="rp">（</seg><seg type="rt">あらむしろ</seg><seg type="rp">）</seg></seg>を敷いて雪をつめた桐の大箱をおさめる。<lb />
+　そのまわりを数万坪の雪でかこい、雪の上に筵を厚くかけて高く土盛りをする。こうして春を過し、六月朔日、土用のさなかに穴をひらき、まわりの雪をのけて桐箱入りの氷を駕籠にのせ、一ツ橋御門から入ってすぐ<seg type="ruby"><seg type="rb">御車寄</seg><seg type="rp">（</seg><seg type="rt">おくるまよせ</seg><seg type="rp">）</seg></seg>まで行く。<lb />
+　車寄についたお雪の桐箱は、<seg type="ruby"><seg type="rb">御側用人</seg><seg type="rp">（</seg><seg type="rt">おそばようにん</seg><seg type="rp">）</seg></seg>、お坊主附添いでまず<seg type="ruby"><seg type="rb">老中</seg><seg type="rp">（</seg><seg type="rt">ろうじゅう</seg><seg type="rp">）</seg></seg>の用部屋まで運び入れ、用部屋から<seg type="ruby"><seg type="rb">時計</seg><seg type="rp">（</seg><seg type="rt">とけい</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">坊主</seg><seg type="rp">（</seg><seg type="rt">ぼうず</seg><seg type="rp">）</seg></seg>、側用取次と順々に送られ、お待ちかねの将軍が、これを<seg type="ruby"><seg type="rb">器</seg><seg type="rp">（</seg><seg type="rt">うつわ</seg><seg type="rp">）</seg></seg>に盛って、今年の雪は、ことのほか冷たいの、などと御賞美なさる。<lb />
 　さて、加賀さまのお氷が西の丸へあがったと聞くと、本郷、下谷一帯の町家のものはもちろん、はるばる下町からも、遠近貴賤の別なく容器を持っておあまりの氷をもらいに集ってくる。<lb />
-　暑いさなか、ようやくお氷は頂戴したが、日本橋まで駕籠を飛ばすうちに丼の雪が溶けて水になる。ずいぶん<span type="ruby"><span type="rb">高価</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>い水だが、<span type="ruby"><span type="rb">生温</span><span type="rp">（</span><span type="rt">なまぬる</span><span type="rp">）</span></span>になった水でも、お氷が溶けた水だといえば、ありがたい気がする。<lb />
+　暑いさなか、ようやくお氷は頂戴したが、日本橋まで駕籠を飛ばすうちに丼の雪が溶けて水になる。ずいぶん<seg type="ruby"><seg type="rb">高価</seg><seg type="rp">（</seg><seg type="rt">たか</seg><seg type="rp">）</seg></seg>い水だが、<seg type="ruby"><seg type="rb">生温</seg><seg type="rp">（</seg><seg type="rt">なまぬる</seg><seg type="rp">）</seg></seg>になった水でも、お氷が溶けた水だといえば、ありがたい気がする。<lb />
 　江戸は、ことに水の悪いところで、町人は夏のあいだに雪や氷を口にするなどということは思いもおよばなかったので、加賀さまのお雪はたいへんに珍重された。<lb />
-　……そういうぐあいに、丼や<span type="ruby"><span type="rb">蓋物</span><span type="rp">（</span><span type="rt">ふたもの</span><span type="rp">）</span></span>を持った面々が四列つなぎになって並んでいるのを、かきわけるようにして前へ泳ぎだし、番衆に押しもどされてすごすご後列へもどって行くが、すぐまた出てきて逆上したように、お氷を、お氷をとあえぐ、四十二三の浪人ていの男。<lb />
+　……そういうぐあいに、丼や<seg type="ruby"><seg type="rb">蓋物</seg><seg type="rp">（</seg><seg type="rt">ふたもの</seg><seg type="rp">）</seg></seg>を持った面々が四列つなぎになって並んでいるのを、かきわけるようにして前へ泳ぎだし、番衆に押しもどされてすごすご後列へもどって行くが、すぐまた出てきて逆上したように、お氷を、お氷をとあえぐ、四十二三の浪人ていの男。<lb />
 　眼鼻立ちの大がまえな一文字眉。底のすわった立派な顔貌だが、いわゆる長々の浪々。貧苦がガックリと頬を落しこみ、鬢の毛はほうけ立って、不精たらしく耳の上へおおいかぶさっている。<lb />
-　女手がないのか、ぶざまに<span type="ruby"><span type="rb">継</span><span type="rp">（</span><span type="rt">つぎ</span><span type="rp">）</span></span>をあてたつぎだらけの<span type="ruby"><span type="rb">古帷子</span><span type="rp">（</span><span type="rt">ふるかたびら</span><span type="rp">）</span></span>。<span type="ruby"><span type="rb">経糸</span><span type="rp">（</span><span type="rt">たていと</span><span type="rp">）</span></span>の切れた古博多の帯を繩のようにしめ、鞘だけは<span type="ruby"><span type="rb">丹後塗</span><span type="rp">（</span><span type="rt">たんごぬり</span><span type="rp">）</span></span>だが中身はたぶん竹光……腰の軽さも思いやられる。<lb />
-　顔色は<span type="ruby"><span type="rb">土気色</span><span type="rp">（</span><span type="rt">つちけいろ</span><span type="rp">）</span></span>に沈んでいるのに、眼だけは火がついたようにギラギラと光り、瀬戸の古丼を突きだしながらうわずったような声で、<lb />
+　女手がないのか、ぶざまに<seg type="ruby"><seg type="rb">継</seg><seg type="rp">（</seg><seg type="rt">つぎ</seg><seg type="rp">）</seg></seg>をあてたつぎだらけの<seg type="ruby"><seg type="rb">古帷子</seg><seg type="rp">（</seg><seg type="rt">ふるかたびら</seg><seg type="rp">）</seg></seg>。<seg type="ruby"><seg type="rb">経糸</seg><seg type="rp">（</seg><seg type="rt">たていと</seg><seg type="rp">）</seg></seg>の切れた古博多の帯を繩のようにしめ、鞘だけは<seg type="ruby"><seg type="rb">丹後塗</seg><seg type="rp">（</seg><seg type="rt">たんごぬり</seg><seg type="rp">）</seg></seg>だが中身はたぶん竹光……腰の軽さも思いやられる。<lb />
+　顔色は<seg type="ruby"><seg type="rb">土気色</seg><seg type="rp">（</seg><seg type="rt">つちけいろ</seg><seg type="rp">）</seg></seg>に沈んでいるのに、眼だけは火がついたようにギラギラと光り、瀬戸の古丼を突きだしながらうわずったような声で、<lb />
 「あの……どうか、お氷……」<lb />
 　番衆も業を煮やし、つい、剣つき声になって、<lb />
 「こいつ、また来た……わからねえにもほどがある、順にやると言ってるんだ……列につきなさい、列に」<lb />
 　浪人ていの男は、あふッと喘いで、<lb />
 「申訳けもござらぬ……勝手を申すようですが、じつは……」<lb />
 「じつはも、提灯もありゃしねえ、騒いでいるのは、あなたひとりだ……みな、あの通り静かにしているじゃないか」<lb />
-「……じつは、たったひとりの伜が、このほどからの<span type="ruby"><span type="rb">時疫</span><span type="rp">（</span><span type="rt">じやみ</span><span type="rp">）</span></span>で、昼夜をわかたぬ<span type="ruby"><span type="rb">大熱</span><span type="rp">（</span><span type="rt">たいねつ</span><span type="rp">）</span></span>。……ひと心地もないうちにも、毎年、お氷を頂戴したことをおぼえていると見えまして、四五日前から口をおかずに、お氷、お雪と<span type="ruby"><span type="rb">囈言</span><span type="rp">（</span><span type="rt">うわごと</span><span type="rp">）</span></span>を申します。……明日は明日はと、ようやく今朝まで<span type="ruby"><span type="rb">宥</span><span type="rp">（</span><span type="rt">なだ</span><span type="rp">）</span></span>めすかし、さきほど、間もなく、もうお氷がおあがりになるということを聞きまして、飛ぶようにして駈けつけてまいったような次第……」<lb />
+「……じつは、たったひとりの伜が、このほどからの<seg type="ruby"><seg type="rb">時疫</seg><seg type="rp">（</seg><seg type="rt">じやみ</seg><seg type="rp">）</seg></seg>で、昼夜をわかたぬ<seg type="ruby"><seg type="rb">大熱</seg><seg type="rp">（</seg><seg type="rt">たいねつ</seg><seg type="rp">）</seg></seg>。……ひと心地もないうちにも、毎年、お氷を頂戴したことをおぼえていると見えまして、四五日前から口をおかずに、お氷、お雪と<seg type="ruby"><seg type="rb">囈言</seg><seg type="rp">（</seg><seg type="rt">うわごと</seg><seg type="rp">）</seg></seg>を申します。……明日は明日はと、ようやく今朝まで<seg type="ruby"><seg type="rb">宥</seg><seg type="rp">（</seg><seg type="rt">なだ</seg><seg type="rp">）</seg></seg>めすかし、さきほど、間もなく、もうお氷がおあがりになるということを聞きまして、飛ぶようにして駈けつけてまいったような次第……」<lb />
 　番衆はうるさがって、<lb />
 「お雪がほしいのは誰もおなじこと。……子供の時疫どころか、親の死目にたったひと口なめさせたいと、きょうの明けがたから来て、待っているひともある。……親の死目の、子供の時疫のと、いちいち事情を聞いていたんじゃ、おさまりがつきやしない。……まあ、まあ、順にあげますから、列についてください」<lb />
 　浪人者は、みすぼらしいほどに頭をさげ、<lb />
@@ -88,16 +88,16 @@
 「どうでもお聞き入れくださらぬとあれば、やむをえぬ、……列にもどります。……ご無礼もうした」<lb />
 　うっすらと涙ぐんで、うなだれがちにトボトボと根津上のほうまでもどって行く。<lb />
 　そうするうちに、ようやく氷があがり、先頭のほうから順に氷室のほうへ動きだす。<lb />
-　氷室の前では、<span type="ruby"><span type="rb">氷見</span><span type="rp">（</span><span type="rt">ひみ</span><span type="rp">）</span></span>の役人が十人ばかり<span type="ruby"><span type="rb">金杓子</span><span type="rp">（</span><span type="rt">かねじゃくし</span><span type="rp">）</span></span>を持って待っていて、順々に差しだす丼や蓋物におあまりの氷をすくっては盛りこんでやる。<lb />
+　氷室の前では、<seg type="ruby"><seg type="rb">氷見</seg><seg type="rp">（</seg><seg type="rt">ひみ</seg><seg type="rp">）</seg></seg>の役人が十人ばかり<seg type="ruby"><seg type="rb">金杓子</seg><seg type="rp">（</seg><seg type="rt">かねじゃくし</seg><seg type="rp">）</seg></seg>を持って待っていて、順々に差しだす丼や蓋物におあまりの氷をすくっては盛りこんでやる。<lb />
 「さあ、お次お次……」<lb />
 　貰ったものは喜んで、<lb />
 「どうもお手かずさま、ありがとうございました」<lb />
 　と、礼を言い、丼を袖や袂でおおいながらいそいそと小走りにもどって行く。<lb />
-　くだんの浪人者は、気もそぞろのふうで、のびあがり、肩で息をしながら、雪をいただいて帰る人びとを<span type="ruby"><span type="rb">羨</span><span type="rp">（</span><span type="rt">うらや</span><span type="rp">）</span></span>ましそうに見おくっている。<lb />
+　くだんの浪人者は、気もそぞろのふうで、のびあがり、肩で息をしながら、雪をいただいて帰る人びとを<seg type="ruby"><seg type="rb">羨</seg><seg type="rp">（</seg><seg type="rt">うらや</seg><seg type="rp">）</seg></seg>ましそうに見おくっている。<lb />
 　門からあふれだし、弥生町の通りを根津までギッシリと四列につづいている人数だから、たいへん。なかなか順番がやって来ない。<lb />
 　それから四半刻、冷汗をかき、焦立つ胸をおさえながらジリジリと進んで行くうちに、どうやら氷室の近く。……あと四人で自分の順番がくる……。<lb />
 　前のひとりが去り、またひとり。……ようやく、待ちこがれた自分の番。<lb />
-　帷子の袖で汗をぬぐいながら、<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>える手で丼をさしだし、<lb />
+　帷子の袖で汗をぬぐいながら、<seg type="ruby"><seg type="rb">顫</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>える手で丼をさしだし、<lb />
 「どうか、手前にも……」<lb />
 　氷見役は、金杓子をふって、<lb />
 「お雪は……もう、ない」<lb />
@@ -117,20 +117,20 @@
 「お願い……お願い……」<lb />
 「これ、手を離せと申すに！」<lb />
 　手づよく押しのけたはずみに、丼がケシ飛んで、地べたの小石にあたって二つに割れる。<lb />
-「これは、ご<span type="ruby"><span type="rb">無体</span><span type="rp">（</span><span type="rt">むたい</span><span type="rp">）</span></span>！」<lb />
+「これは、ご<seg type="ruby"><seg type="rb">無体</seg><seg type="rp">（</seg><seg type="rt">むたい</seg><seg type="rp">）</seg></seg>！」<lb />
 「無体とは、こちらの申すことだ、マゴマゴしないで、早く帰れ」<lb />
 　浪人者は地面にかがんで、もそもそと丼のかけらを拾いあつめていたが、なにを思ったか、スックリと立ちあがると、手に持った丼のかけらを力まかせに地面にたたきつけ、<lb />
 「……よし、どうでもくれぬというなら、取るようにして取って見せる。……まだ、水道橋へはかかるまい。……これから追いかけて……」<lb />
-　眼に血をそそぎ、すさまじい<span type="ruby"><span type="rb">形相</span><span type="rp">（</span><span type="rt">ぎょうそう</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">壱岐殿坂</span><span type="rp">（</span><span type="rt">いきどのざか</span><span type="rp">）</span></span>のほうを見こむと、<span type="ruby"><span type="rb">草履</span><span type="rp">（</span><span type="rt">ぞうり</span><span type="rp">）</span></span>をぬいで<span type="ruby"><span type="rb">跣足</span><span type="rp">（</span><span type="rt">はだし</span><span type="rp">）</span></span>になり、髪ふりみだして<span type="ruby"><span type="rb">阿修羅</span><span type="rp">（</span><span type="rt">あしゅら</span><span type="rp">）</span></span>のように走りだした。<lb />
+　眼に血をそそぎ、すさまじい<seg type="ruby"><seg type="rb">形相</seg><seg type="rp">（</seg><seg type="rt">ぎょうそう</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">壱岐殿坂</seg><seg type="rp">（</seg><seg type="rt">いきどのざか</seg><seg type="rp">）</seg></seg>のほうを見こむと、<seg type="ruby"><seg type="rb">草履</seg><seg type="rp">（</seg><seg type="rt">ぞうり</seg><seg type="rp">）</seg></seg>をぬいで<seg type="ruby"><seg type="rb">跣足</seg><seg type="rp">（</seg><seg type="rt">はだし</seg><seg type="rp">）</seg></seg>になり、髪ふりみだして<seg type="ruby"><seg type="rb">阿修羅</seg><seg type="rp">（</seg><seg type="rt">あしゅら</seg><seg type="rp">）</seg></seg>のように走りだした。<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">桃葉湯</span><span type="rp">（</span><span type="rt">もものはゆ</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">桃葉湯</seg><seg type="rp">（</seg><seg type="rt">もものはゆ</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　本郷三丁目の『<span type="ruby"><span type="rb">有馬</span><span type="rp">（</span><span type="rt">ありま</span><span type="rp">）</span></span>の湯』。<lb />
-　六月三日が、<span type="ruby"><span type="rb">土用</span><span type="rp">（</span><span type="rt">どよう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">丑</span><span type="rp">（</span><span type="rt">うし</span><span type="rp">）</span></span>の日。この日、桃の葉でたてた風呂へ入ると、暑気をはらい、<span type="ruby"><span type="rb">汗疹</span><span type="rp">（</span><span type="rt">あせも</span><span type="rp">）</span></span>をとめるといって、江戸じゅうの銭湯で<span type="ruby"><span type="rb">桃葉湯</span><span type="rp">（</span><span type="rt">もものはゆ</span><span type="rp">）</span></span>をたてる。<lb />
+　本郷三丁目の『<seg type="ruby"><seg type="rb">有馬</seg><seg type="rp">（</seg><seg type="rt">ありま</seg><seg type="rp">）</seg></seg>の湯』。<lb />
+　六月三日が、<seg type="ruby"><seg type="rb">土用</seg><seg type="rp">（</seg><seg type="rt">どよう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">丑</seg><seg type="rp">（</seg><seg type="rt">うし</seg><seg type="rp">）</seg></seg>の日。この日、桃の葉でたてた風呂へ入ると、暑気をはらい、<seg type="ruby"><seg type="rb">汗疹</seg><seg type="rp">（</seg><seg type="rt">あせも</seg><seg type="rp">）</seg></seg>をとめるといって、江戸じゅうの銭湯で<seg type="ruby"><seg type="rb">桃葉湯</seg><seg type="rp">（</seg><seg type="rt">もものはゆ</seg><seg type="rp">）</seg></seg>をたてる。<lb />
 　れいによって、番所をなまけ、手拭いを肩にひっかけて汗をながしに行く。<lb />
-　ちょうど七ツさがり、暑いさかりで、<span type="ruby"><span type="rb">浴客</span><span type="rp">（</span><span type="rt">きゃく</span><span type="rp">）</span></span>はほんの二三人。<lb />
-　小桶を枕にして、流し場に長くなっているのは、いつも間のびのした歯ぬけ謡をうなる裏の隠居。顔は見えないが、<span type="ruby"><span type="rb">湯壺</span><span type="rp">（</span><span type="rt">ゆつぼ</span><span type="rp">）</span></span>のなかで<span type="ruby"><span type="rb">粋</span><span type="rp">（</span><span type="rt">いき</span><span type="rp">）</span></span>な声で<span type="ruby"><span type="rb">源太節</span><span type="rp">（</span><span type="rt">げんたぶし</span><span type="rp">）</span></span>を唄っているのがひとり。<lb />
-　顎十郎が、小杓子でかかり湯をつかっていると、唄がやんで、<span type="ruby"><span type="rb">柘榴口</span><span type="rp">（</span><span type="rt">ざくろぐち</span><span type="rp">）</span></span>からまっ赤になって這いだして来たのは、加賀さまのお陸尺で、顔なじみの寅吉という<span type="ruby"><span type="rb">剽軽</span><span type="rp">（</span><span type="rt">ひょうきん</span><span type="rp">）</span></span>なやつ。<lb />
+　ちょうど七ツさがり、暑いさかりで、<seg type="ruby"><seg type="rb">浴客</seg><seg type="rp">（</seg><seg type="rt">きゃく</seg><seg type="rp">）</seg></seg>はほんの二三人。<lb />
+　小桶を枕にして、流し場に長くなっているのは、いつも間のびのした歯ぬけ謡をうなる裏の隠居。顔は見えないが、<seg type="ruby"><seg type="rb">湯壺</seg><seg type="rp">（</seg><seg type="rt">ゆつぼ</seg><seg type="rp">）</seg></seg>のなかで<seg type="ruby"><seg type="rb">粋</seg><seg type="rp">（</seg><seg type="rt">いき</seg><seg type="rp">）</seg></seg>な声で<seg type="ruby"><seg type="rb">源太節</seg><seg type="rp">（</seg><seg type="rt">げんたぶし</seg><seg type="rp">）</seg></seg>を唄っているのがひとり。<lb />
+　顎十郎が、小杓子でかかり湯をつかっていると、唄がやんで、<seg type="ruby"><seg type="rb">柘榴口</seg><seg type="rp">（</seg><seg type="rt">ざくろぐち</seg><seg type="rp">）</seg></seg>からまっ赤になって這いだして来たのは、加賀さまのお陸尺で、顔なじみの寅吉という<seg type="ruby"><seg type="rb">剽軽</seg><seg type="rp">（</seg><seg type="rt">ひょうきん</seg><seg type="rp">）</seg></seg>なやつ。<lb />
 　顎十郎の顔を見ると、ひゃッ、と頓狂な声をあげておいて、<lb />
 「いよう、これは仙波先生、きょうは、もうお役あがりですか」<lb />
 　顎十郎はふ、ふ、と笑って、<lb />
@@ -150,7 +150,7 @@
 「世の中には、ずいぶん変ったこともあるもんですが、こんどなんかも、その、なかんずく。……お屋敷からあがった献上のお氷を桐箱ぐるみそっくり持って行ったやつがいるんです」<lb />
 「ほほう、それは、いかにも涼しい話だの」<lb />
 　寅吉は乗りだして、<lb />
-「なんと申しやしてもね、古くからの重い慣例。……あまり物欲しそうにはしねえ<span type="ruby"><span type="rb">公方</span><span type="rp">（</span><span type="rt">くぼう</span><span type="rp">）</span></span>さまが、これだけはお待ちかねで、前の月はなから、もう、あと何日で加賀の氷がくると待ちかねておいでになるというその氷。……そいつを横あいから<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>ッ<span type="ruby"><span type="rb">攫</span><span type="rp">（</span><span type="rt">さら</span><span type="rp">）</span></span>ったやつがある。……大袈裟にいうわけじゃねえが、これは天下の一大事。……殿さまの恐縮もさることながら、駕籠について行った用人、氷見役一同、ことによったら腹切りもの。……相手が氷でも、これじゃ、すこし、涼しすぎましょう」<lb />
+「なんと申しやしてもね、古くからの重い慣例。……あまり物欲しそうにはしねえ<seg type="ruby"><seg type="rb">公方</seg><seg type="rp">（</seg><seg type="rt">くぼう</seg><seg type="rp">）</seg></seg>さまが、これだけはお待ちかねで、前の月はなから、もう、あと何日で加賀の氷がくると待ちかねておいでになるというその氷。……そいつを横あいから<seg type="ruby"><seg type="rb">掻</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>ッ<seg type="ruby"><seg type="rb">攫</seg><seg type="rp">（</seg><seg type="rt">さら</seg><seg type="rp">）</seg></seg>ったやつがある。……大袈裟にいうわけじゃねえが、これは天下の一大事。……殿さまの恐縮もさることながら、駕籠について行った用人、氷見役一同、ことによったら腹切りもの。……相手が氷でも、これじゃ、すこし、涼しすぎましょう」<lb />
 「この節は、いろいろと変った盗っとが出る。……それで、どんなやつの仕業だったんだろう」<lb />
 　寅吉は、顎十郎の肩につかまって背中を流しながら、<lb />
 「……話はあとさきになりますが、じつは、お雪献上の駕籠をかついで行ったのは、あっしと為のふたりなんでね、ですから……」<lb />
@@ -159,27 +159,27 @@
 　寅吉は、照れくさそうに頭へ手をやって、<lb />
 「見たか、とたずねられりゃ、見たと返事をするよりしょうがねえわけなんですが、それが、どうもなんとも、ざまのねえ話なんで……」<lb />
 「どうした？」<lb />
-「いま、くわしくお話します……。たぶん、ご存じじゃなかろうと思いますが、なにしろ相手は溶けりゃ形なしになる厄介なしろもの。……毎年の例で、こいつが西の丸の御車寄へかっきり四ツ半（午前十一時）につくのがきまりなんで。……と、言いますのは、お<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>は九ツ（正午）の昼御飯で、お膳をひくと、すぐその後でお氷をおあがりになるんで、この時刻はどんなことがあっても外されない。……ですから、お氷が四ツ半きっちりに御車寄へつくにはなん<span type="ruby"><span type="rb">刻</span><span type="rp">（</span><span type="rt">どき</span><span type="rp">）</span></span>に氷室を出して、なん刻に駕籠へのせ、門を出るのがなん刻、壱岐殿坂をくだりきるのがなん刻と、お送り役と氷見役立ちあいで<span type="ruby"><span type="rb">袂時計</span><span type="rp">（</span><span type="rt">たもとどけい</span><span type="rp">）</span></span>を持ってお駕籠の早さを割りつけ、大袈裟にいや、氷室から西の丸の御車寄まで何千何百歩と、きっちりときまっているくらいなものなんです」<lb />
+「いま、くわしくお話します……。たぶん、ご存じじゃなかろうと思いますが、なにしろ相手は溶けりゃ形なしになる厄介なしろもの。……毎年の例で、こいつが西の丸の御車寄へかっきり四ツ半（午前十一時）につくのがきまりなんで。……と、言いますのは、お<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg>は九ツ（正午）の昼御飯で、お膳をひくと、すぐその後でお氷をおあがりになるんで、この時刻はどんなことがあっても外されない。……ですから、お氷が四ツ半きっちりに御車寄へつくにはなん<seg type="ruby"><seg type="rb">刻</seg><seg type="rp">（</seg><seg type="rt">どき</seg><seg type="rp">）</seg></seg>に氷室を出して、なん刻に駕籠へのせ、門を出るのがなん刻、壱岐殿坂をくだりきるのがなん刻と、お送り役と氷見役立ちあいで<seg type="ruby"><seg type="rb">袂時計</seg><seg type="rp">（</seg><seg type="rt">たもとどけい</seg><seg type="rp">）</seg></seg>を持ってお駕籠の早さを割りつけ、大袈裟にいや、氷室から西の丸の御車寄まで何千何百歩と、きっちりときまっているくらいなものなんです」<lb />
 「いやはや、たいへんな威勢のもんだな」<lb />
-「まったく……軍談よみの『戦記』を聞くと、武者押しというのは、<span type="ruby"><span type="rb">一鼓三足</span><span type="rp">（</span><span type="rt">いっこさんそく</span><span type="rp">）</span></span>といって、<span type="ruby"><span type="rb">歩度</span><span type="rp">（</span><span type="rt">ほど</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">間尺</span><span type="rp">（</span><span type="rt">ましゃく</span><span type="rp">）</span></span>がきまっているもんだそうですが、お氷献上の駕籠ゆきは、<span type="ruby"><span type="rb">添役</span><span type="rp">（</span><span type="rt">そえやく</span><span type="rp">）</span></span>が袂時計を見ながら、ホイと掛声をかけると、サッサ、サッサと四歩でる。……去年、壱岐殿坂のおり口で二百歩目でにらんだ<span type="ruby"><span type="rb">傍示杭</span><span type="rp">（</span><span type="rt">ぼうじぐい</span><span type="rp">）</span></span>は、今年もおなじ二百歩目でにらみつけようというわけなんで……。あっしと為が、毎年、お氷の駕籠をつって行くんですが、この駕籠かきだけは二人でなくちゃ勤まらねえ。……まあ、そういったようなものなんです」<lb />
+「まったく……軍談よみの『戦記』を聞くと、武者押しというのは、<seg type="ruby"><seg type="rb">一鼓三足</seg><seg type="rp">（</seg><seg type="rt">いっこさんそく</seg><seg type="rp">）</seg></seg>といって、<seg type="ruby"><seg type="rb">歩度</seg><seg type="rp">（</seg><seg type="rt">ほど</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">間尺</seg><seg type="rp">（</seg><seg type="rt">ましゃく</seg><seg type="rp">）</seg></seg>がきまっているもんだそうですが、お氷献上の駕籠ゆきは、<seg type="ruby"><seg type="rb">添役</seg><seg type="rp">（</seg><seg type="rt">そえやく</seg><seg type="rp">）</seg></seg>が袂時計を見ながら、ホイと掛声をかけると、サッサ、サッサと四歩でる。……去年、壱岐殿坂のおり口で二百歩目でにらんだ<seg type="ruby"><seg type="rb">傍示杭</seg><seg type="rp">（</seg><seg type="rt">ぼうじぐい</seg><seg type="rp">）</seg></seg>は、今年もおなじ二百歩目でにらみつけようというわけなんで……。あっしと為が、毎年、お氷の駕籠をつって行くんですが、この駕籠かきだけは二人でなくちゃ勤まらねえ。……まあ、そういったようなものなんです」<lb />
 「おもしろいの」<lb />
-「……ところで、その日、お氷が氷室を出たのは、お添役の袂時計で十<span type="ruby"><span type="rb">字</span><span type="rp">（</span><span type="rt">じ</span><span type="rp">）</span></span>五<span type="ruby"><span type="rb">分</span><span type="rp">（</span><span type="rt">ふん</span><span type="rp">）</span></span>……御正門を出たのが十字十分……壱岐殿坂を下りきって二十五分……水道橋をわたりきって三十分……神保町かどが三十五分……三番原口から一ツ橋かかりが四十五分。ところで、ここで、ひょんなことが起きちまった……」<lb />
+「……ところで、その日、お氷が氷室を出たのは、お添役の袂時計で十<seg type="ruby"><seg type="rb">字</seg><seg type="rp">（</seg><seg type="rt">じ</seg><seg type="rp">）</seg></seg>五<seg type="ruby"><seg type="rb">分</seg><seg type="rp">（</seg><seg type="rt">ふん</seg><seg type="rp">）</seg></seg>……御正門を出たのが十字十分……壱岐殿坂を下りきって二十五分……水道橋をわたりきって三十分……神保町かどが三十五分……三番原口から一ツ橋かかりが四十五分。ところで、ここで、ひょんなことが起きちまった……」<lb />
 「どうした」<lb />
-「……いま、一ツ橋御門へ入ろうとすると、いきなり門内からむさんに飛びだして来たやつがあって、<span type="ruby"><span type="rb">闇雲</span><span type="rp">（</span><span type="rt">やみくも</span><span type="rp">）</span></span>に駕籠の<span type="ruby"><span type="rb">曳扉</span><span type="rp">（</span><span type="rt">ひきど</span><span type="rp">）</span></span>のあたりにえらい勢いで体あたりをくれた……」<lb />
+「……いま、一ツ橋御門へ入ろうとすると、いきなり門内からむさんに飛びだして来たやつがあって、<seg type="ruby"><seg type="rb">闇雲</seg><seg type="rp">（</seg><seg type="rt">やみくも</seg><seg type="rp">）</seg></seg>に駕籠の<seg type="ruby"><seg type="rb">曳扉</seg><seg type="rp">（</seg><seg type="rt">ひきど</seg><seg type="rp">）</seg></seg>のあたりにえらい勢いで体あたりをくれた……」<lb />
 「ほほう」<lb />
-「……人間ひとりが乗っているなら、ひとの重さがありますから体あたりぐらいでひっくり返るなんてえこたあねえんですが、なにしろ、中身はごく軽いんだから駕籠は宙に浮いている。……そこへ、いきなり、えらい勢いで突っかけられたんで、あっしと為は、はずみを喰って棒ばなで<span type="ruby"><span type="rb">薙</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>がれ、ものの二三間もひょろついて行って駕籠をほうりだして、もろにあおのけにひっくり返っちゃった……」<lb />
+「……人間ひとりが乗っているなら、ひとの重さがありますから体あたりぐらいでひっくり返るなんてえこたあねえんですが、なにしろ、中身はごく軽いんだから駕籠は宙に浮いている。……そこへ、いきなり、えらい勢いで突っかけられたんで、あっしと為は、はずみを喰って棒ばなで<seg type="ruby"><seg type="rb">薙</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>がれ、ものの二三間もひょろついて行って駕籠をほうりだして、もろにあおのけにひっくり返っちゃった……」<lb />
 「さまはねえの」<lb />
-「いや、どうも……。どういうはずみか知らないが、ひっくり返ったところへ、まるでご注文みたいに駕籠がおっかぶさって来て、あっしは眉間を、為は鼻づらを火の出るほど棒ばなでどやしつけられ、まったくの、かんかんのう、きゅうれんす。……痛えの<span type="ruby"><span type="rb">候</span><span type="rp">（</span><span type="rt">そうろう</span><span type="rp">）</span></span>の、キュッといったきり息もつかれねえ。……そうしてるうちに、そいつがたおれた駕籠の曳扉に手をかけると、いきなりお氷の桐箱をひきずり出して小脇へかかえ、横ッ飛びにパッと御門内へ飛びこんじまった……」<lb />
+「いや、どうも……。どういうはずみか知らないが、ひっくり返ったところへ、まるでご注文みたいに駕籠がおっかぶさって来て、あっしは眉間を、為は鼻づらを火の出るほど棒ばなでどやしつけられ、まったくの、かんかんのう、きゅうれんす。……痛えの<seg type="ruby"><seg type="rb">候</seg><seg type="rp">（</seg><seg type="rt">そうろう</seg><seg type="rp">）</seg></seg>の、キュッといったきり息もつかれねえ。……そうしてるうちに、そいつがたおれた駕籠の曳扉に手をかけると、いきなりお氷の桐箱をひきずり出して小脇へかかえ、横ッ飛びにパッと御門内へ飛びこんじまった……」<lb />
 「なるほど」<lb />
-「……話しゃあ長いが、体あたりをくれておいて、お雪の箱をひっかかえの、門の中へ飛びこむまでは、ほんのアッという間。……これは、と言ったときには、もう影もかたちも見えない。……添役人は十人もくっついているんですが、どれもこれも<span type="ruby"><span type="rb">書役</span><span type="rp">（</span><span type="rt">かきやく</span><span type="rp">）</span></span>あがりの<span type="ruby"><span type="rb">尻腰</span><span type="rp">（</span><span type="rt">しっこし</span><span type="rp">）</span></span>なし。……おや、たいへんとマゴマゴするばかり。……ようやくわれに返って門内へなだれこんだが、もうあとの祭。……盗っとは松平越前の屋敷の塀にそって<span type="ruby"><span type="rb">大下馬</span><span type="rp">（</span><span type="rt">おおげば</span><span type="rp">）</span></span>のほうへ行き、<span type="ruby"><span type="rb">御破損小屋</span><span type="rp">（</span><span type="rt">ごはそんごや</span><span type="rp">）</span></span>から呉服橋のほうへ抜けて行ったんだろうと思いますが、たぶんそうだろうと思うだけのことで、みなで追いかけたときには、うしろ姿さえ見かけない始末。……今さらながら青くなって取りあえずお側役人まで訴えてシオシオと屋敷へひきあげて来ましたが、殿さまはもってのほかのお<span type="ruby"><span type="rb">怒</span><span type="rp">（</span><span type="rt">いか</span><span type="rp">）</span></span>り。すぐ<span type="ruby"><span type="rb">伴</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>をそろえて西の丸へお詫びにあがるという騒ぎ。……添役、氷見役は<span type="ruby"><span type="rb">青菜</span><span type="rp">（</span><span type="rt">あおな</span><span type="rp">）</span></span>に塩、どうでもこりゃ、お叱りはまぬかれない」<lb />
+「……話しゃあ長いが、体あたりをくれておいて、お雪の箱をひっかかえの、門の中へ飛びこむまでは、ほんのアッという間。……これは、と言ったときには、もう影もかたちも見えない。……添役人は十人もくっついているんですが、どれもこれも<seg type="ruby"><seg type="rb">書役</seg><seg type="rp">（</seg><seg type="rt">かきやく</seg><seg type="rp">）</seg></seg>あがりの<seg type="ruby"><seg type="rb">尻腰</seg><seg type="rp">（</seg><seg type="rt">しっこし</seg><seg type="rp">）</seg></seg>なし。……おや、たいへんとマゴマゴするばかり。……ようやくわれに返って門内へなだれこんだが、もうあとの祭。……盗っとは松平越前の屋敷の塀にそって<seg type="ruby"><seg type="rb">大下馬</seg><seg type="rp">（</seg><seg type="rt">おおげば</seg><seg type="rp">）</seg></seg>のほうへ行き、<seg type="ruby"><seg type="rb">御破損小屋</seg><seg type="rp">（</seg><seg type="rt">ごはそんごや</seg><seg type="rp">）</seg></seg>から呉服橋のほうへ抜けて行ったんだろうと思いますが、たぶんそうだろうと思うだけのことで、みなで追いかけたときには、うしろ姿さえ見かけない始末。……今さらながら青くなって取りあえずお側役人まで訴えてシオシオと屋敷へひきあげて来ましたが、殿さまはもってのほかのお<seg type="ruby"><seg type="rb">怒</seg><seg type="rp">（</seg><seg type="rt">いか</seg><seg type="rp">）</seg></seg>り。すぐ<seg type="ruby"><seg type="rb">伴</seg><seg type="rp">（</seg><seg type="rt">とも</seg><seg type="rp">）</seg></seg>をそろえて西の丸へお詫びにあがるという騒ぎ。……添役、氷見役は<seg type="ruby"><seg type="rb">青菜</seg><seg type="rp">（</seg><seg type="rt">あおな</seg><seg type="rp">）</seg></seg>に塩、どうでもこりゃ、お叱りはまぬかれない」<lb />
 　顎十郎は、のんびりと顔を振りあげ、<lb />
 「しかし、それだと言って、盗っとの顔ぐらいは見たろうから、こりゃ、まあ、すぐ知れる」<lb />
 　寅吉は首をふって、<lb />
 「……ところが、そうじゃねえんで。……顔なんざ、だれも見ちゃいねえ」<lb />
 「ほほう、それは、また、なぜ」<lb />
-「なぜにもなにも、袖をひきちぎって、すっかり顔をつつんでおりまして、<span type="ruby"><span type="rb">菊石</span><span type="rp">（</span><span type="rt">あばた</span><span type="rp">）</span></span>やら、ひょっとこやら、てんで知れない」<lb />
-「ふむ、……でも<span type="ruby"><span type="rb">服装</span><span type="rp">（</span><span type="rt">なり</span><span type="rp">）</span></span>ぐらいは見たろう」<lb />
-「……ですから、見たかと言われりゃ、見たという。……古帷子をきて、二本さした浪人ふう……と、まあ、言うんですが、これも、チラと見かけたばかり。……あんまり、きっぱりしたことも言われねえ。……まったく、<span type="ruby"><span type="rb">埓</span><span type="rp">（</span><span type="rt">らち</span><span type="rp">）</span></span>のねえ話で……」<lb />
+「なぜにもなにも、袖をひきちぎって、すっかり顔をつつんでおりまして、<seg type="ruby"><seg type="rb">菊石</seg><seg type="rp">（</seg><seg type="rt">あばた</seg><seg type="rp">）</seg></seg>やら、ひょっとこやら、てんで知れない」<lb />
+「ふむ、……でも<seg type="ruby"><seg type="rb">服装</seg><seg type="rp">（</seg><seg type="rt">なり</seg><seg type="rp">）</seg></seg>ぐらいは見たろう」<lb />
+「……ですから、見たかと言われりゃ、見たという。……古帷子をきて、二本さした浪人ふう……と、まあ、言うんですが、これも、チラと見かけたばかり。……あんまり、きっぱりしたことも言われねえ。……まったく、<seg type="ruby"><seg type="rb">埓</seg><seg type="rp">（</seg><seg type="rt">らち</seg><seg type="rp">）</seg></seg>のねえ話で……」<lb />
 「……それで、お雪盗びとはわからずじまい……」<lb />
 「いや、そうじゃねえんで……。青……青……、名前は忘れましたが、なんとかいう浪人者が、南番所の藤波の手でつかまって、これがその、だいたい、そいつだろうということにきまりかけているんだそうで、へえ」<lb />
 「藤波が……。それは、素早いの」<lb />
@@ -187,62 +187,62 @@
 「……ええ、そのことなんでございますが……」<lb />
 　顎十郎は振りむいて、<lb />
 「これは、ご隠居さん、眠っていらっしゃるのだと思って声もかけませんでしたが……」<lb />
-　六十ばかりの品のいい老人で、ひとつまみほどの白髪の髷を頭にのせている。<span type="ruby"><span type="rb">膝行</span><span type="rp">（</span><span type="rt">にじ</span><span type="rp">）</span></span>るようにして寄って来て、<lb />
+　六十ばかりの品のいい老人で、ひとつまみほどの白髪の髷を頭にのせている。<seg type="ruby"><seg type="rb">膝行</seg><seg type="rp">（</seg><seg type="rt">にじ</seg><seg type="rp">）</seg></seg>るようにして寄って来て、<lb />
 「眠るどころのだんじゃございません、さきほどから、お話をうかがっておりました」<lb />
 　と言って、眼をしょぼつかせ、<lb />
-「……お話のようすでは、まだご存じなかったようですが、南番所へ引きあげられた浪人者というのは、あなたもご存じでしょう、いつも肩だすきで傘張に精だしている、すぐ裏の浪人者……<span type="ruby"><span type="rb">青地源右衛門</span><span type="rp">（</span><span type="rt">あおちげんえもん</span><span type="rp">）</span></span>……」<lb />
-「知らないわけはない……<span type="ruby"><span type="rb">糊</span><span type="rp">（</span><span type="rt">のり</span><span type="rp">）</span></span>売ばばあの奥どなりの、……源吾とかいう子供とふたり暮しの……」<lb />
+「……お話のようすでは、まだご存じなかったようですが、南番所へ引きあげられた浪人者というのは、あなたもご存じでしょう、いつも肩だすきで傘張に精だしている、すぐ裏の浪人者……<seg type="ruby"><seg type="rb">青地源右衛門</seg><seg type="rp">（</seg><seg type="rt">あおちげんえもん</seg><seg type="rp">）</seg></seg>……」<lb />
+「知らないわけはない……<seg type="ruby"><seg type="rb">糊</seg><seg type="rp">（</seg><seg type="rt">のり</seg><seg type="rp">）</seg></seg>売ばばあの奥どなりの、……源吾とかいう子供とふたり暮しの……」<lb />
 「へえ、そうでございます」<lb />
 「話はしたことはありませんが、手前の二階の窓からちょうど眼の下で、なにしろ、ひと間きりの家だから、いやでも胴中まで見とおし。……四五日前に、子供が熱を出したとかで、だいぶと心配らしく見えましたが……。あれが、お雪盗びと……」<lb />
-「盗んだのか、盗まぬのか、それは、あたしどもには、きっぱりしたことは申されませんですが、ありようは……、と言っても、源右衛門さんの<span type="ruby"><span type="rb">述懐</span><span type="rp">（</span><span type="rt">じっかい</span><span type="rp">）</span></span>ですが、自分が盗んだのではなく、だれか知らないがお氷の入った桐箱をあがり口へおいて行った者があると、そう言うんでございます」<lb />
+「盗んだのか、盗まぬのか、それは、あたしどもには、きっぱりしたことは申されませんですが、ありようは……、と言っても、源右衛門さんの<seg type="ruby"><seg type="rb">述懐</seg><seg type="rp">（</seg><seg type="rt">じっかい</seg><seg type="rp">）</seg></seg>ですが、自分が盗んだのではなく、だれか知らないがお氷の入った桐箱をあがり口へおいて行った者があると、そう言うんでございます」<lb />
 「はて、……お氷の箱があがり口に……」<lb />
 「……加賀さまへお雪をもらいに行き、貰いそこねてぼんやり帰ってくると、あがり口に見なれない桐箱がおいてあるので、なんだろうと思って蓋をはらって見ますと、それが、胸も焦げるほどに欲しいお氷……」<lb />
 「ほほう」<lb />
-「……と申しますのは、ご承知のように、伜がずっとひどい大熱で、囈言のあいだにも、雪をくれ、雪をくれとせがみます。……親の身としては、息のあるうちにせめてひと口なりとすすらせてやりたい。間もなくお雪があがるということで、丼をひっつかんで駈けつけたが、ちょっと遅かったばっかりに貰いそこね、ガッカリと<span type="ruby"><span type="rb">気落</span><span type="rp">（</span><span type="rt">きおち</span><span type="rp">）</span></span>して、魂がぬけたようにトボトボと帰って来た、……その鼻さきへ桐箱に入ったお氷。……当座は、夢を見てるんだと思ったそうです。……あまり欲しい欲しいが凝りかたまって、<span type="ruby"><span type="rb">現</span><span type="rp">（</span><span type="rt">うつつ</span><span type="rp">）</span></span>にこんなものを見るのだと思った……」<lb />
+「……と申しますのは、ご承知のように、伜がずっとひどい大熱で、囈言のあいだにも、雪をくれ、雪をくれとせがみます。……親の身としては、息のあるうちにせめてひと口なりとすすらせてやりたい。間もなくお雪があがるということで、丼をひっつかんで駈けつけたが、ちょっと遅かったばっかりに貰いそこね、ガッカリと<seg type="ruby"><seg type="rb">気落</seg><seg type="rp">（</seg><seg type="rt">きおち</seg><seg type="rp">）</seg></seg>して、魂がぬけたようにトボトボと帰って来た、……その鼻さきへ桐箱に入ったお氷。……当座は、夢を見てるんだと思ったそうです。……あまり欲しい欲しいが凝りかたまって、<seg type="ruby"><seg type="rb">現</seg><seg type="rp">（</seg><seg type="rt">うつつ</seg><seg type="rp">）</seg></seg>にこんなものを見るのだと思った……」<lb />
 「そりゃ、そうありましょう」<lb />
 「……さわって見ると、これが冷たい。……たしかに、夢じゃない……すぐ届けりゃよかったんですが……」<lb />
 「子のかわいさにひかされて、お雪に手をつけた」<lb />
 「その通り……。いくら逆上したといっても、そこはお侍。それをしたら大変なことになると、いったんは、すぐ訴えでようと思ったそうですが、眼の前で、せがれが熱に苦しんで、虫のような細い声で、お雪を、お雪を、と囈言をいっている……」<lb />
 「ふむ」<lb />
-「……ほうっておけば、どうせ、溶けてなくなるもの、ひとかけらぐらはいいだろう。……さあ、雪だぞ、と言って、子供の口にさしつけると、ひと心地のないながらに、ああ冷たい、うまいねえ、と子供は夢中になって喜びます。……なにしろひどい熱ですから、ものの五分もたたぬうちに、また喉をかわかして、雪をおくれという……。こうなるとたまらない、<span type="ruby"><span type="rb">堰</span><span type="rp">（</span><span type="rt">せき</span><span type="rp">）</span></span>が切れたようになって、もうひとかけらぐらい、いいだろう……もうひと口はいいだろう。……いいだろう、いいだろう、で、すすらせるほうと溶けるほうで、見る見る雪がへってゆく。こうなればもう破れかぶれ、いっそのこと、この雪で額や胸を冷やしてやったら、どんなに子供が楽になるだろう……。手拭いに押しつつんで胸と頭へあててやると、ああ、涼しいね、と子供はよろこぶ。……あッと気がついたときには、もう、ひとかけらの氷もない」<lb />
+「……ほうっておけば、どうせ、溶けてなくなるもの、ひとかけらぐらはいいだろう。……さあ、雪だぞ、と言って、子供の口にさしつけると、ひと心地のないながらに、ああ冷たい、うまいねえ、と子供は夢中になって喜びます。……なにしろひどい熱ですから、ものの五分もたたぬうちに、また喉をかわかして、雪をおくれという……。こうなるとたまらない、<seg type="ruby"><seg type="rb">堰</seg><seg type="rp">（</seg><seg type="rt">せき</seg><seg type="rp">）</seg></seg>が切れたようになって、もうひとかけらぐらい、いいだろう……もうひと口はいいだろう。……いいだろう、いいだろう、で、すすらせるほうと溶けるほうで、見る見る雪がへってゆく。こうなればもう破れかぶれ、いっそのこと、この雪で額や胸を冷やしてやったら、どんなに子供が楽になるだろう……。手拭いに押しつつんで胸と頭へあててやると、ああ、涼しいね、と子供はよろこぶ。……あッと気がついたときには、もう、ひとかけらの氷もない」<lb />
 　顎十郎はいつになく、しおっとして、<lb />
 「いやどうも、気の毒な話ですな。……それで、どうしました」<lb />
-「しまったと思ったが、もう遅い。……桐箱をかかえてボンヤリあたしのところへやって来て、ありようをくわしく話し、これから<span type="ruby"><span type="rb">真砂町</span><span type="rp">（</span><span type="rt">まさごちょう</span><span type="rp">）</span></span>の自身番へ名のって出るつもりだから、どうか伜のことはおたのみ申す。……誓って、手前が盗ったのではありませんから、かならず疑いはとけると思います、誠意を<span type="ruby"><span type="rb">披瀝</span><span type="rp">（</span><span type="rt">ひれき</span><span type="rp">）</span></span>し、一日も早くもどってまいりますから、なにとぞ、<span type="ruby"><span type="rb">不憫</span><span type="rp">（</span><span type="rt">ふびん</span><span type="rp">）</span></span>とおぼしめして……。いかにもあわれな話ですから、あとのことはたしかに引きうけたからと申しますと、みすぼらしいほど礼をのべ、家ぬし同道で自身番へ行きました」<lb />
+「しまったと思ったが、もう遅い。……桐箱をかかえてボンヤリあたしのところへやって来て、ありようをくわしく話し、これから<seg type="ruby"><seg type="rb">真砂町</seg><seg type="rp">（</seg><seg type="rt">まさごちょう</seg><seg type="rp">）</seg></seg>の自身番へ名のって出るつもりだから、どうか伜のことはおたのみ申す。……誓って、手前が盗ったのではありませんから、かならず疑いはとけると思います、誠意を<seg type="ruby"><seg type="rb">披瀝</seg><seg type="rp">（</seg><seg type="rt">ひれき</seg><seg type="rp">）</seg></seg>し、一日も早くもどってまいりますから、なにとぞ、<seg type="ruby"><seg type="rb">不憫</seg><seg type="rp">（</seg><seg type="rt">ふびん</seg><seg type="rp">）</seg></seg>とおぼしめして……。いかにもあわれな話ですから、あとのことはたしかに引きうけたからと申しますと、みすぼらしいほど礼をのべ、家ぬし同道で自身番へ行きました」<lb />
 　顎十郎は首をふって、<lb />
 「ああ、そいつは、いかんな」<lb />
 　隠居はうなずいて、<lb />
 「……いけないというのには、こういうことがあります。……氷を貰いそこねてクヮッと逆上し、氷見役人の前で、どうでもくれぬというなら、これからお氷の駕籠を追いかけて、かならず奪って見せるからと、丼をたたきつけ、えらい形相でその場から駈けだした……」<lb />
 「いやはや」<lb />
-「……じつのところは、どうでもとる気で水道橋へんまで追いかけたのだそうです。……しかし、かんがえて見れば、お献上の品に手をかければ、軽くて<span type="ruby"><span type="rb">打首</span><span type="rp">（</span><span type="rt">うちくび</span><span type="rp">）</span></span>、重けりゃ獄門。……そうなりゃ、かえって伜に<span type="ruby"><span type="rb">憂目</span><span type="rp">（</span><span type="rt">うきめ</span><span type="rp">）</span></span>を見させるわけ。……ああ、やめにしようと、トボトボと引きかえした。……ところがもうひとついけないことがある。……いまも話していらっしゃいましたが、源右衛門のその日の着つけが、古帷子に塗鞘の二本ざし。……一ツ橋御門うちから飛びだした氷盗びととそっくりそのまま……」<lb />
+「……じつのところは、どうでもとる気で水道橋へんまで追いかけたのだそうです。……しかし、かんがえて見れば、お献上の品に手をかければ、軽くて<seg type="ruby"><seg type="rb">打首</seg><seg type="rp">（</seg><seg type="rt">うちくび</seg><seg type="rp">）</seg></seg>、重けりゃ獄門。……そうなりゃ、かえって伜に<seg type="ruby"><seg type="rb">憂目</seg><seg type="rp">（</seg><seg type="rt">うきめ</seg><seg type="rp">）</seg></seg>を見させるわけ。……ああ、やめにしようと、トボトボと引きかえした。……ところがもうひとついけないことがある。……いまも話していらっしゃいましたが、源右衛門のその日の着つけが、古帷子に塗鞘の二本ざし。……一ツ橋御門うちから飛びだした氷盗びととそっくりそのまま……」<lb />
 　顎十郎も、思わず歎息して、<lb />
 「……うむ、着つけがおんなじで、お雪をつかってしまったんじゃ、あの藤波でなくとも、手前の知らぬことではすまさせない。……ちょっと、抜きさしなりませんな」<lb />
 　隠居はうなずいて、<lb />
 「しかし、それにしても、源右衛門さんが嘘をいっているとは思われない。こんなあたしなどが力んで見たところが、なんのたそくにもなりますまいが、せめて頼まれがいに、夜っぴて伜の看護をし、いまさっき裏の糊売ばばにかわってもらい、ひと風呂あびて、これから家へ帰ってふた刻ばかり眠るつもり……」<lb />
 　と言って、あらためて膝を進め、<lb />
-「……うかがうところじゃ、あなたは北番所でお役につき、また、さまざま捕物で功名をなすった方なのだそうで、これも、なにかの<span type="ruby"><span type="rb">縁</span><span type="rp">（</span><span type="rt">えん</span><span type="rp">）</span></span>。もし、源右衛門さんがしんじつ無実なのなら、なんとかしてお助けくださるわけにはまいりますまいか。……さきほど家主がきての話には、きのうまではどう責められても自分のしわざではないと言いはっていたのに、どうしたものか、急にきょうになって、いかにも自分のしたことに相違ない、たしかに、手前が盗みましたと手の裏をかえすような申立てをしているそうで。……ご承知か知りませんが、源右衛門というひとは肥前<span type="ruby"><span type="rb">彼杵</span><span type="rp">（</span><span type="rt">ぞのき</span><span type="rp">）</span></span>で二万八千石、<span type="ruby"><span type="rb">大村丹後守</span><span type="rp">（</span><span type="rt">おおむらたんごのかみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">御指南番</span><span type="rp">（</span><span type="rt">ごしなんばん</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">板倉流</span><span type="rp">（</span><span type="rt">いたくらりゅう</span><span type="rp">）</span></span>の居合の名人。……たとえ<span type="ruby"><span type="rb">海老</span><span type="rp">（</span><span type="rt">えび</span><span type="rp">）</span></span>責めされればとて、そんなことぐらいで追いおとされるような人柄じゃない。……このへんに、なにかアヤがあるのだと思いますが……」<lb />
+「……うかがうところじゃ、あなたは北番所でお役につき、また、さまざま捕物で功名をなすった方なのだそうで、これも、なにかの<seg type="ruby"><seg type="rb">縁</seg><seg type="rp">（</seg><seg type="rt">えん</seg><seg type="rp">）</seg></seg>。もし、源右衛門さんがしんじつ無実なのなら、なんとかしてお助けくださるわけにはまいりますまいか。……さきほど家主がきての話には、きのうまではどう責められても自分のしわざではないと言いはっていたのに、どうしたものか、急にきょうになって、いかにも自分のしたことに相違ない、たしかに、手前が盗みましたと手の裏をかえすような申立てをしているそうで。……ご承知か知りませんが、源右衛門というひとは肥前<seg type="ruby"><seg type="rb">彼杵</seg><seg type="rp">（</seg><seg type="rt">ぞのき</seg><seg type="rp">）</seg></seg>で二万八千石、<seg type="ruby"><seg type="rb">大村丹後守</seg><seg type="rp">（</seg><seg type="rt">おおむらたんごのかみ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">御指南番</seg><seg type="rp">（</seg><seg type="rt">ごしなんばん</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">板倉流</seg><seg type="rp">（</seg><seg type="rt">いたくらりゅう</seg><seg type="rp">）</seg></seg>の居合の名人。……たとえ<seg type="ruby"><seg type="rb">海老</seg><seg type="rp">（</seg><seg type="rt">えび</seg><seg type="rp">）</seg></seg>責めされればとて、そんなことぐらいで追いおとされるような人柄じゃない。……このへんに、なにかアヤがあるのだと思いますが……」<lb />
 　顎十郎は、腕を組んでうつむいていたが、急に顔をあげて、<lb />
 「たしかにあかしを立てるとはお引きうけできませんが、おなじ長屋の住人が、そういう羽目になっているというのを、だまって見すごしてもいられない。……ようございます、なんとか、ひとつ、やって見ましょう」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">韋駄天</span><span type="rp">（</span><span type="rt">いだてん</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">韋駄天</seg><seg type="rp">（</seg><seg type="rt">いだてん</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　手拭いを肩にかけ、寅吉とつれだって有馬の湯を出る。無駄ッ話をしながら本郷三丁目を左へ曲って加賀さまの赤門。<lb />
-　役割部屋へ入って行くと、みな<span type="ruby"><span type="rb">懐</span><span type="rp">（</span><span type="rt">なつか</span><span type="rp">）</span></span>しがって、寝ころんでいたやつまで、はね起きて来て、右左から、先生、先生、と取りつく。<lb />
+　役割部屋へ入って行くと、みな<seg type="ruby"><seg type="rb">懐</seg><seg type="rp">（</seg><seg type="rt">なつか</seg><seg type="rp">）</seg></seg>しがって、寝ころんでいたやつまで、はね起きて来て、右左から、先生、先生、と取りつく。<lb />
 　顎十郎はあがり框に近いところへあぐらをかいて陸尺がくんでだす茶をのんびりと啜りながら、ぐるりとまわりを取りまいているつまらぬ顔を見まわし、<lb />
 「こんどは、なにか、妙な騒ぎがあったそうだの」<lb />
-　部屋頭が、<span type="ruby"><span type="rb">割膝</span><span type="rp">（</span><span type="rt">わりひざ</span><span type="rp">）</span></span>でそそり出てきて、<lb />
+　部屋頭が、<seg type="ruby"><seg type="rb">割膝</seg><seg type="rp">（</seg><seg type="rt">わりひざ</seg><seg type="rp">）</seg></seg>でそそり出てきて、<lb />
 「いや、どうも、馬鹿な騒ぎで……。為と寅のおかげであっしら一同えらいお叱りで。……これがほんとうのそば杖……。いってえ、こいつらは間ぬけなんで、駕籠に押しあてられたぐれえでひっくり返るなんてえのはざまのねえ話。……恥ずかしくてなりません」<lb />
 「まあ、そう言ったものでもない。……ものには、はずみというものがある。畳の上でころんでも、間が悪けりゃ、足をくじく。……いま、有馬の湯できいたばかりなんだが、氷を盗んだとか盗まないとかいう浪人者は、じつは、おなじ割長屋にすんでいる男での……」<lb />
-　……家には、ことし十歳になる伜が時疫で熱をだして寝たっきりになっていることから、青地が氷をもらいそこねて逆上し、つまらないことを口走ったてんまつを話してきかせると、部屋じゅうは、急に湿りかえり、なかには<span type="ruby"><span type="rb">鼻汁</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>をすするやつまでいる。<lb />
+　……家には、ことし十歳になる伜が時疫で熱をだして寝たっきりになっていることから、青地が氷をもらいそこねて逆上し、つまらないことを口走ったてんまつを話してきかせると、部屋じゅうは、急に湿りかえり、なかには<seg type="ruby"><seg type="rb">鼻汁</seg><seg type="rp">（</seg><seg type="rt">はな</seg><seg type="rp">）</seg></seg>をすするやつまでいる。<lb />
 　部屋頭は、手拭いで鼻の頭をこすりながら、<lb />
-「そんな<span type="ruby"><span type="rb">経緯</span><span type="rp">（</span><span type="rt">いきさつ</span><span type="rp">）</span></span>は知らねえもんですから、腹立ちまぎれにドジだの腰ぬけだのと言いましたが、そういうわけなら、そんなひでえことを言うんじゃなかった」<lb />
+「そんな<seg type="ruby"><seg type="rb">経緯</seg><seg type="rp">（</seg><seg type="rt">いきさつ</seg><seg type="rp">）</seg></seg>は知らねえもんですから、腹立ちまぎれにドジだの腰ぬけだのと言いましたが、そういうわけなら、そんなひでえことを言うんじゃなかった」<lb />
 「聞く通り、いかにもあわれな話だでの、なんとかして助けてやりたいと思っているんだが……」<lb />
 「へい、へい」<lb />
 「それについて、どうでも手を借りなけりゃならねえことがあるのだが、どうだ、貸してくれるか」<lb />
-　部屋頭は、<span type="ruby"><span type="rb">臀</span><span type="rp">（</span><span type="rt">いしき</span><span type="rp">）</span></span>を浮かせて、<lb />
-「貸すも貸さねえもありゃしません。……陸尺といや駕籠の虫、見かけはけちな野郎だが、水道の水を飲んだおかげで気が強い。弱い者なら腰をおし、強いやつなら向うっつら。韋駄天が<span type="ruby"><span type="rb">革羽織</span><span type="rp">（</span><span type="rt">かわばおり</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">鬼鹿毛</span><span type="rp">（</span><span type="rt">おにかげ</span><span type="rp">）</span></span>にのってこようがビクともするんじゃありません。……藤波だか<span type="ruby"><span type="rb">蛆</span><span type="rp">（</span><span type="rt">うじ</span><span type="rp">）</span></span>波だか知らねえが、へたに青地を追いおとそうというなら、江戸の役割三百五十六部屋、これにガエンと<span type="ruby"><span type="rb">無宿</span><span type="rp">（</span><span type="rt">むしゅく</span><span type="rp">）</span></span>を総出しにし、南の番所を焼打にかけてしまう」<lb />
+　部屋頭は、<seg type="ruby"><seg type="rb">臀</seg><seg type="rp">（</seg><seg type="rt">いしき</seg><seg type="rp">）</seg></seg>を浮かせて、<lb />
+「貸すも貸さねえもありゃしません。……陸尺といや駕籠の虫、見かけはけちな野郎だが、水道の水を飲んだおかげで気が強い。弱い者なら腰をおし、強いやつなら向うっつら。韋駄天が<seg type="ruby"><seg type="rb">革羽織</seg><seg type="rp">（</seg><seg type="rt">かわばおり</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">鬼鹿毛</seg><seg type="rp">（</seg><seg type="rt">おにかげ</seg><seg type="rp">）</seg></seg>にのってこようがビクともするんじゃありません。……藤波だか<seg type="ruby"><seg type="rb">蛆</seg><seg type="rp">（</seg><seg type="rt">うじ</seg><seg type="rp">）</seg></seg>波だか知らねえが、へたに青地を追いおとそうというなら、江戸の役割三百五十六部屋、これにガエンと<seg type="ruby"><seg type="rb">無宿</seg><seg type="rp">（</seg><seg type="rt">むしゅく</seg><seg type="rp">）</seg></seg>を総出しにし、南の番所を焼打にかけてしまう」<lb />
 　顎十郎は、長い顎のさきを撫でながら、<lb />
-「まあまあ、そう意気ごまんでもいい。……おれが頼みたいというのは、そんな大したことじゃない。すまないが、為と寅に駕籠を<span type="ruby"><span type="rb">舁</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>かせて、一ツ橋御門まで行ってもらいたいんだ」<lb />
-　部屋頭は、<span type="ruby"><span type="rb">怪訝</span><span type="rp">（</span><span type="rt">けげん</span><span type="rp">）</span></span>な顔で、<lb />
+「まあまあ、そう意気ごまんでもいい。……おれが頼みたいというのは、そんな大したことじゃない。すまないが、為と寅に駕籠を<seg type="ruby"><seg type="rb">舁</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>かせて、一ツ橋御門まで行ってもらいたいんだ」<lb />
+　部屋頭は、<seg type="ruby"><seg type="rb">怪訝</seg><seg type="rp">（</seg><seg type="rt">けげん</seg><seg type="rp">）</seg></seg>な顔で、<lb />
 「へい、為と寅に駕籠を……。それで、どうなさろうというんで」<lb />
 「……おととい、氷をのせて行ったときと同じように、氷室から一ツ橋まできっちり四十ミニュートで行きつくように歩いてもらいたい」<lb />
 「四十ミニュートで……。ですから、どういう……」<lb />
@@ -253,7 +253,7 @@
 「……まず、その辺のところだ。……どうでも追いつけないなら、こりゃ、青地のやったことじゃない。……追いつけるか追いつけないか、これが、青地が罪になるか罪にならないかの境いだ」<lb />
 　と言って、言葉を切り、<lb />
 「すまないが、だれか氷見役人のところへ行って、だいたい、なん刻ごろにお振舞の氷がおしまいになったかたずねて来てくれ。……おれは、これから金助町の叔父のところへ行って袂時計を借りだして来るから。……もどって来たら、すぐ吊りだせるように、氷室のそばへ駕籠を持って行っておいてくれ」<lb />
-「へい、ようございます。……おい、為、寅、駕籠部屋から駕籠をひきだして、お氷の箱ぐらい<span type="ruby"><span type="rb">重味</span><span type="rp">（</span><span type="rt">おもみ</span><span type="rp">）</span></span>を乗せておけ」<lb />
+「へい、ようございます。……おい、為、寅、駕籠部屋から駕籠をひきだして、お氷の箱ぐらい<seg type="ruby"><seg type="rb">重味</seg><seg type="rp">（</seg><seg type="rt">おもみ</seg><seg type="rp">）</seg></seg>を乗せておけ」<lb />
 「合ッ点」<lb />
 　つい、眼と鼻の金助町。<lb />
 　叔父から袂時計を借りだして氷室のそばまで行くと、部屋じゅう総出になって顎十郎を待っている。<lb />
@@ -261,7 +261,7 @@
 「どうせ、尻おしついでに、みんなで威勢よく押しだそうというんで……」<lb />
 　顎十郎は手をふって、<lb />
 「いけねえ、いけねえ、そんなことをしたら目立ってしょうがない。……為と寅、部屋頭、この三人だけでたくさんだ。……ときに、氷見役人はなんと言った、なん刻に氷振舞がおわったと言った」<lb />
-　<span type="ruby"><span type="rb">敏捷</span><span type="rp">（</span><span type="rt">はしっこ</span><span type="rp">）</span></span>そうなのが進みでて、<lb />
+　<seg type="ruby"><seg type="rb">敏捷</seg><seg type="rp">（</seg><seg type="rt">はしっこ</seg><seg type="rp">）</seg></seg>そうなのが進みでて、<lb />
 「……氷室をしまって詰所へひきあげたら、ちょうどお時計が十字半を打ったと申しておりました」<lb />
 「十字半……よし、わかった」<lb />
 　袂時計を出して見ながら、<lb />
@@ -277,33 +277,33 @@
 「じゃ、まいります」<lb />
 「さあ、行ってくれ」<lb />
 　みなががやがや言いながら、正門のほうへ送って行く。<lb />
-　顎十郎は、氷室の腰掛へかけて時間のくるのを待っていると、そのうちにお時計のあるほうからドーンと<span type="ruby"><span type="rb">時刻</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>の太鼓。<lb />
+　顎十郎は、氷室の腰掛へかけて時間のくるのを待っていると、そのうちにお時計のあるほうからドーンと<seg type="ruby"><seg type="rb">時刻</seg><seg type="rp">（</seg><seg type="rt">とき</seg><seg type="rp">）</seg></seg>の太鼓。<lb />
 　ちょうど、三字半。<lb />
 　裾をジンジンばしょりにし、草履をぬいで跣足になると、<lb />
 「さあ、行くぞ！」<lb />
 　いきなり闇雲に駈けだす。<lb />
 　空地をまわってお長屋わき、正門から本郷の通りへ飛びだすと、本郷一丁目を右へ壱岐殿坂。<lb />
-　水道橋をわたって水野の大屋敷を左に見、<span type="ruby"><span type="rb">榊原式部</span><span type="rp">（</span><span type="rt">さかきばらしきぶ</span><span type="rp">）</span></span>のかどから四番原をななめに突っきって三番原。大汗になって一ツ橋づめまで飛んでくると、橋のたもとへ駕籠をおろして寅と為と部屋頭の三人が待っている。<lb />
+　水道橋をわたって水野の大屋敷を左に見、<seg type="ruby"><seg type="rb">榊原式部</seg><seg type="rp">（</seg><seg type="rt">さかきばらしきぶ</seg><seg type="rp">）</seg></seg>のかどから四番原をななめに突っきって三番原。大汗になって一ツ橋づめまで飛んでくると、橋のたもとへ駕籠をおろして寅と為と部屋頭の三人が待っている。<lb />
 　顎十郎は大息をつきながら、<lb />
 「ど、どうだった……ここで何分ぐらい待った」<lb />
 　部屋頭は首を振って、<lb />
 「とても、いけません。……ここへ駕籠をおろしたのはちょうど三字と四十ミニュート。……いまがちょうど三字五十五ミニュート。あなたは十五ミニュートも遅れています」<lb />
 　顎十郎は汗を拭いながら、<lb />
-「口から<span type="ruby"><span type="rb">臓腑</span><span type="rp">（</span><span type="rt">ぞうふ</span><span type="rp">）</span></span>が飛びだすほど駈けてきたんだが、十五ミニュートとは、だいぶちがう。……だが、念には念を入れ、もうひとかえりやって見よう」<lb />
+「口から<seg type="ruby"><seg type="rb">臓腑</seg><seg type="rp">（</seg><seg type="rt">ぞうふ</seg><seg type="rp">）</seg></seg>が飛びだすほど駈けてきたんだが、十五ミニュートとは、だいぶちがう。……だが、念には念を入れ、もうひとかえりやって見よう」<lb />
 　駕龍を吊って加賀の屋敷までひきかえし、またはじめからやり直す。<lb />
 　なんとも顎の長い異様なのが、ひと刻もおかずにまたぞろ本郷の通りを大駈けに駈けて行くもんだから、町並では、みな店さきへ飛びだして、ワイワイいいながら見おくっている。<lb />
 　今度は十分早めに追いかけたが、それでも、やはりいけない。顎十郎が駈けつける五分前に、駕籠は、ちゃんと橋詰へとどいている。<lb />
 <lb />
 　　　後口<lb />
 <lb />
-　<span type="ruby"><span type="rb">小伝馬町</span><span type="rp">（</span><span type="rt">こてんまちょう</span><span type="rp">）</span></span>の牢屋敷。<lb />
-　三千五百坪の地内に<span type="ruby"><span type="rb">揚座敷</span><span type="rp">（</span><span type="rt">あがりざしき</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">揚屋</span><span type="rp">（</span><span type="rt">あがりや</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">大牢</span><span type="rp">（</span><span type="rt">おおろう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">二間半</span><span type="rp">（</span><span type="rt">にけんはん</span><span type="rp">）</span></span>（無宿牢）、百姓牢、女牢、と<span type="ruby"><span type="rb">棟</span><span type="rp">（</span><span type="rt">むね</span><span type="rp">）</span></span>をわける。<lb />
-　お<span type="ruby"><span type="rb">目見</span><span type="rp">（</span><span type="rt">めみえ</span><span type="rp">）</span></span>以上、五百石以下の未決囚は揚座敷へ。お目見以下、御家人、僧侶、<span type="ruby"><span type="rb">山伏</span><span type="rp">（</span><span type="rt">やまぶし</span><span type="rp">）</span></span>、医者、浪人者は、ひと格さがった揚屋へ入れられる。<lb />
-　揚座敷のほうは、いわゆる独房で、<span type="ruby"><span type="rb">縁付</span><span type="rp">（</span><span type="rt">へりつき</span><span type="rp">）</span></span>畳を敷き、<span type="ruby"><span type="rb">日光膳</span><span type="rp">（</span><span type="rt">にっこうぜん</span><span type="rp">）</span></span>、椀、給仕盆などが備えつけてあり、ほかに、<span type="ruby"><span type="rb">湯殿</span><span type="rp">（</span><span type="rt">ゆどの</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">雪隠</span><span type="rp">（</span><span type="rt">せっちん</span><span type="rp">）</span></span>がついている。<lb />
-　揚屋のほうは、大牢や無宿牢のような雑居房ではなく、これも独房だが格式はぐっとさがって畳は坊主畳になり、揚座敷のように食事に給仕人がつかないから、したがって給仕盆などの備えつけはなく、雪隠も湯殿も<span type="ruby"><span type="rb">入混</span><span type="rp">（</span><span type="rt">いれご</span><span type="rp">）</span></span>みになる。<lb />
+　<seg type="ruby"><seg type="rb">小伝馬町</seg><seg type="rp">（</seg><seg type="rt">こてんまちょう</seg><seg type="rp">）</seg></seg>の牢屋敷。<lb />
+　三千五百坪の地内に<seg type="ruby"><seg type="rb">揚座敷</seg><seg type="rp">（</seg><seg type="rt">あがりざしき</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">揚屋</seg><seg type="rp">（</seg><seg type="rt">あがりや</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">大牢</seg><seg type="rp">（</seg><seg type="rt">おおろう</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">二間半</seg><seg type="rp">（</seg><seg type="rt">にけんはん</seg><seg type="rp">）</seg></seg>（無宿牢）、百姓牢、女牢、と<seg type="ruby"><seg type="rb">棟</seg><seg type="rp">（</seg><seg type="rt">むね</seg><seg type="rp">）</seg></seg>をわける。<lb />
+　お<seg type="ruby"><seg type="rb">目見</seg><seg type="rp">（</seg><seg type="rt">めみえ</seg><seg type="rp">）</seg></seg>以上、五百石以下の未決囚は揚座敷へ。お目見以下、御家人、僧侶、<seg type="ruby"><seg type="rb">山伏</seg><seg type="rp">（</seg><seg type="rt">やまぶし</seg><seg type="rp">）</seg></seg>、医者、浪人者は、ひと格さがった揚屋へ入れられる。<lb />
+　揚座敷のほうは、いわゆる独房で、<seg type="ruby"><seg type="rb">縁付</seg><seg type="rp">（</seg><seg type="rt">へりつき</seg><seg type="rp">）</seg></seg>畳を敷き、<seg type="ruby"><seg type="rb">日光膳</seg><seg type="rp">（</seg><seg type="rt">にっこうぜん</seg><seg type="rp">）</seg></seg>、椀、給仕盆などが備えつけてあり、ほかに、<seg type="ruby"><seg type="rb">湯殿</seg><seg type="rp">（</seg><seg type="rt">ゆどの</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">雪隠</seg><seg type="rp">（</seg><seg type="rt">せっちん</seg><seg type="rp">）</seg></seg>がついている。<lb />
+　揚屋のほうは、大牢や無宿牢のような雑居房ではなく、これも独房だが格式はぐっとさがって畳は坊主畳になり、揚座敷のように食事に給仕人がつかないから、したがって給仕盆などの備えつけはなく、雪隠も湯殿も<seg type="ruby"><seg type="rb">入混</seg><seg type="rp">（</seg><seg type="rt">いれご</seg><seg type="rp">）</seg></seg>みになる。<lb />
 　四畳に足りない六・七という妙な寸法で、いっぽうは高窓。いっぽうは牢格子。片側廊下で、中格子のわきに鍵役、改役当番の控所がある。<lb />
 　その一間。<lb />
-　この二日のうちに、いよいよもって<span type="ruby"><span type="rb">憔悴</span><span type="rp">（</span><span type="rt">しょうすい</span><span type="rp">）</span></span>した源右衛門とむかいあって坐っているのが、仙波阿古十郎。<lb />
+　この二日のうちに、いよいよもって<seg type="ruby"><seg type="rb">憔悴</seg><seg type="rp">（</seg><seg type="rt">しょうすい</seg><seg type="rp">）</seg></seg>した源右衛門とむかいあって坐っているのが、仙波阿古十郎。<lb />
 　かくべつ陽気にかまえるつもりはないのだろうが、顔のこしらえがなんとなくのんびりと出来ているので、こういう陰気な場所がらにはいかにも不釣りあい。<lb />
 　ちょうど話がとぎれたところと見え、青地は膝に手をついてうつむき、顎十郎のほうは、例によって長い顎の先をつまみながら、トホンと天井を見あげていたが、鼻の先にとまりかけた蠅を手ではらうといつもの不得要領な調子で、<lb />
 「いやどうも、それは、それは……」<lb />
@@ -318,7 +318,7 @@
 「……あたり、と言いますと……」<lb />
 「……ちょうど、大屋敷の角で……」<lb />
 「ははあ、そこで追いぬかれた。……なぜ、そこでおやりにならなかった」<lb />
-「……なにか御祝儀でもありましたろう、おりあしく、榊原のお<span type="ruby"><span type="rb">徒士</span><span type="rp">（</span><span type="rt">かち</span><span type="rp">）</span></span>衆が<span type="ruby"><span type="rb">油単</span><span type="rp">（</span><span type="rt">ゆたん</span><span type="rp">）</span></span>をかけた<span type="ruby"><span type="rb">釣台</span><span type="rp">（</span><span type="rt">つりだい</span><span type="rp">）</span></span>をかついで門から出てまいりまして……それで……」<lb />
+「……なにか御祝儀でもありましたろう、おりあしく、榊原のお<seg type="ruby"><seg type="rb">徒士</seg><seg type="rp">（</seg><seg type="rt">かち</seg><seg type="rp">）</seg></seg>衆が<seg type="ruby"><seg type="rb">油単</seg><seg type="rp">（</seg><seg type="rt">ゆたん</seg><seg type="rp">）</seg></seg>をかけた<seg type="ruby"><seg type="rb">釣台</seg><seg type="rp">（</seg><seg type="rt">つりだい</seg><seg type="rp">）</seg></seg>をかついで門から出てまいりまして……それで……」<lb />
 「それは、悪い都合。……それにしても、一ツ橋の御門内で待伏せられたのはどういうわけですか。……いったいの空地で、あの三番原なら、門内で待伏せするよりやりやすかったのではなかったかと思いますが」<lb />
 「いったんは、手前も、そうかんがえましたが、逃げるには便利なようでも、なんといっても四方みとおしの原」<lb />
 　しおっ、と首をたれて、<lb />
@@ -326,7 +326,7 @@
 　顎十郎は、ほう、とうなずいて、<lb />
 「二日も、なにもあがらんで、本郷から一ツ橋まで駈けるのは、なかなか大変でしたろう」<lb />
 「お恥ずかしいことですが、息切れがいたして、今にも眼がくらむかと思うばかり。……どうして追いつきましたやら、不思議なくらいで……」<lb />
-「それも、子がかわいさの一心。<span type="ruby"><span type="rb">恩愛</span><span type="rp">（</span><span type="rt">おんない</span><span type="rp">）</span></span>の情というのは、えらい働きをするものですな。……盗りもせぬものを盗ったなどと言われるのも、ふしぎのひとつで……」<lb />
+「それも、子がかわいさの一心。<seg type="ruby"><seg type="rb">恩愛</seg><seg type="rp">（</seg><seg type="rt">おんない</seg><seg type="rp">）</seg></seg>の情というのは、えらい働きをするものですな。……盗りもせぬものを盗ったなどと言われるのも、ふしぎのひとつで……」<lb />
 　青地は、はッと顔をあげ、<lb />
 「なんと言われる」<lb />
 　顎十郎は笑って、<lb />
@@ -336,35 +336,35 @@
 　青地は荒らげた声で、<lb />
 「嘘とは、そもそもなにをもって。……なんと言われようと手前が盗んだに相違ない」<lb />
 　顎十郎は手でおさえ、<lb />
-「まあまあ、そんな大きな声をなすってもしょうがない。……それほどに言われるなら申しますが、いま、榊原から釣台が出たとおっしゃったようだが、榊原式部は前の月の<span type="ruby"><span type="rb">中旬</span><span type="rp">（</span><span type="rt">なかごろ</span><span type="rp">）</span></span>、九段の中坂へお所がえになって、あの屋敷はいま空家になっていることをご存じですか」<lb />
+「まあまあ、そんな大きな声をなすってもしょうがない。……それほどに言われるなら申しますが、いま、榊原から釣台が出たとおっしゃったようだが、榊原式部は前の月の<seg type="ruby"><seg type="rb">中旬</seg><seg type="rp">（</seg><seg type="rt">なかごろ</seg><seg type="rp">）</seg></seg>、九段の中坂へお所がえになって、あの屋敷はいま空家になっていることをご存じですか」<lb />
 「おッ、それは！」<lb />
-「藤波はうっかり見のがしたろうが、あたしはそんなことじゃだまされない。……いかに江戸が繁昌でも、<span type="ruby"><span type="rb">無人</span><span type="rp">（</span><span type="rt">ぶにん</span><span type="rp">）</span></span>の空家から祝儀の釣台が出てくることはない。もし、ほんとうにあったら、それは、お化の口」<lb />
+「藤波はうっかり見のがしたろうが、あたしはそんなことじゃだまされない。……いかに江戸が繁昌でも、<seg type="ruby"><seg type="rb">無人</seg><seg type="rp">（</seg><seg type="rt">ぶにん</seg><seg type="rp">）</seg></seg>の空家から祝儀の釣台が出てくることはない。もし、ほんとうにあったら、それは、お化の口」<lb />
 　チョロリと相手の顔を見て、<lb />
-「……いいですか、あの日、お雪が氷室を出たのは、お添役の時計で十字五分。……一ツ橋へかかったのが十字四十五分。……ところで、あなたが氷室を飛びだしたのは、駕籠が出てから四半刻おくれた十字三十五分。……あなたがどんな韋駄天でも、本郷から一ツ橋までたった十ミニュートで駈けられるわけはない。……えらそうに言うようでお耳ざわりでしょうから、打ちあけて話しますが、じつは昨日、あの日の時刻に駕籠を出し、それから四半刻おくれて死物狂いに追いかけて見ましたが、駕籠が一ツ橋の門内へ入りかけるころには、あたしは、ようやく<span type="ruby"><span type="rb">三崎稲荷</span><span type="rp">（</span><span type="rt">みさきいなり</span><span type="rp">）</span></span>の近く。……どうでも、十分ばかり遅れるのです。……念を入れて、もう一度やった、が、やっぱりいけない。……それで、今度は、加賀さまの<span type="ruby"><span type="rb">早飛脚</span><span type="rp">（</span><span type="rt">はやびきゃく</span><span type="rp">）</span></span>で、小田原の<span type="ruby"><span type="rb">吉三</span><span type="rp">（</span><span type="rt">きちさ</span><span type="rp">）</span></span>というのを頼んで駈けさせた。……一日で江戸と小田原を楽に往復するというえらい早足なんだが、やはり、追いつけない。……だいぶ迫っては行きましたが、駕籠が一ツ橋門内に入りかかるときには、ちょうど四番原の入り口へかかったばかり……」<lb />
+「……いいですか、あの日、お雪が氷室を出たのは、お添役の時計で十字五分。……一ツ橋へかかったのが十字四十五分。……ところで、あなたが氷室を飛びだしたのは、駕籠が出てから四半刻おくれた十字三十五分。……あなたがどんな韋駄天でも、本郷から一ツ橋までたった十ミニュートで駈けられるわけはない。……えらそうに言うようでお耳ざわりでしょうから、打ちあけて話しますが、じつは昨日、あの日の時刻に駕籠を出し、それから四半刻おくれて死物狂いに追いかけて見ましたが、駕籠が一ツ橋の門内へ入りかけるころには、あたしは、ようやく<seg type="ruby"><seg type="rb">三崎稲荷</seg><seg type="rp">（</seg><seg type="rt">みさきいなり</seg><seg type="rp">）</seg></seg>の近く。……どうでも、十分ばかり遅れるのです。……念を入れて、もう一度やった、が、やっぱりいけない。……それで、今度は、加賀さまの<seg type="ruby"><seg type="rb">早飛脚</seg><seg type="rp">（</seg><seg type="rt">はやびきゃく</seg><seg type="rp">）</seg></seg>で、小田原の<seg type="ruby"><seg type="rb">吉三</seg><seg type="rp">（</seg><seg type="rt">きちさ</seg><seg type="rp">）</seg></seg>というのを頼んで駈けさせた。……一日で江戸と小田原を楽に往復するというえらい早足なんだが、やはり、追いつけない。……だいぶ迫っては行きましたが、駕籠が一ツ橋門内に入りかかるときには、ちょうど四番原の入り口へかかったばかり……」<lb />
 　ふ、ふ、と笑って、<lb />
 「失礼なことを申すようだが、さっき伺っていると、二日ばかりなにも喰べず水ばかり飲んでいらしたということだが、その足では、まずまずどんなことがあっても駕籠を追いぬくの、先まわりして待伏せるなどということは出来ない。……いかがです」<lb />
 「………」<lb />
-「……ねえ、青地さん、あなたの家のあがり口へ氷の箱をおいて行ったのは、だれなんです。たとえ相手は氷でも、献上物へ手をかければ打首、獄門の大罪。……おまけに、時疫で大熱をだして苦しんでいる子息の命にかえてまで<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>おうとなさる以上、あなたが、そのものの名を知らぬというはずはない」<lb />
-　青地は頭をたれ、長いあいだ<span type="ruby"><span type="rb">愁然</span><span type="rp">（</span><span type="rt">しゅうぜん</span><span type="rp">）</span></span>としていたが、そろそろと顔をあげ、<lb />
+「……ねえ、青地さん、あなたの家のあがり口へ氷の箱をおいて行ったのは、だれなんです。たとえ相手は氷でも、献上物へ手をかければ打首、獄門の大罪。……おまけに、時疫で大熱をだして苦しんでいる子息の命にかえてまで<seg type="ruby"><seg type="rb">庇</seg><seg type="rp">（</seg><seg type="rt">かば</seg><seg type="rp">）</seg></seg>おうとなさる以上、あなたが、そのものの名を知らぬというはずはない」<lb />
+　青地は頭をたれ、長いあいだ<seg type="ruby"><seg type="rb">愁然</seg><seg type="rp">（</seg><seg type="rt">しゅうぜん</seg><seg type="rp">）</seg></seg>としていたが、そろそろと顔をあげ、<lb />
 「恐れ入ったご活眼。……なにもかもつつまず申しあげます。……じつは、手前が盗んだのではありません」<lb />
 　あらためて、畳に手をついて、<lb />
-「<span type="ruby"><span type="rb">正視</span><span type="rp">（</span><span type="rt">まさめ</span><span type="rp">）</span></span>に、そのものの姿は見ませぬが、あれを手前の家へ投げこんだものの心あたりはございます。……恥を申さねばなりませんが、手前には、長一郎という長男がございましたが、これがいかにも<span type="ruby"><span type="rb">放蕩無頼</span><span type="rp">（</span><span type="rt">ほうとうぶらい</span><span type="rp">）</span></span>。いかがわしいものをかたらって町家へ<span type="ruby"><span type="rb">押借</span><span type="rp">（</span><span type="rt">おしかり</span><span type="rp">）</span></span><span type="ruby"><span type="rb">強請</span><span type="rp">（</span><span type="rt">ゆすり</span><span type="rp">）</span></span>に出かけます。……眼にあまりまして、去んぬる年、勘当いたしましたが、いかに無頼でもそこは血の濃さ。……弟、源吾のほしがる雪を盗みとって家さきに投げこんだものと察し、生さき短い手前が、長一郎の罪をせおって打首になれば、いかな無頼なやつも本心に立ちかえるであろうと存じ、それゆえ、お上を<span type="ruby"><span type="rb">欺</span><span type="rp">（</span><span type="rt">あざむ</span><span type="rp">）</span></span>くようなこんな仕方をいたしました」<lb />
+「<seg type="ruby"><seg type="rb">正視</seg><seg type="rp">（</seg><seg type="rt">まさめ</seg><seg type="rp">）</seg></seg>に、そのものの姿は見ませぬが、あれを手前の家へ投げこんだものの心あたりはございます。……恥を申さねばなりませんが、手前には、長一郎という長男がございましたが、これがいかにも<seg type="ruby"><seg type="rb">放蕩無頼</seg><seg type="rp">（</seg><seg type="rt">ほうとうぶらい</seg><seg type="rp">）</seg></seg>。いかがわしいものをかたらって町家へ<seg type="ruby"><seg type="rb">押借</seg><seg type="rp">（</seg><seg type="rt">おしかり</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">強請</seg><seg type="rp">（</seg><seg type="rt">ゆすり</seg><seg type="rp">）</seg></seg>に出かけます。……眼にあまりまして、去んぬる年、勘当いたしましたが、いかに無頼でもそこは血の濃さ。……弟、源吾のほしがる雪を盗みとって家さきに投げこんだものと察し、生さき短い手前が、長一郎の罪をせおって打首になれば、いかな無頼なやつも本心に立ちかえるであろうと存じ、それゆえ、お上を<seg type="ruby"><seg type="rb">欺</seg><seg type="rp">（</seg><seg type="rt">あざむ</seg><seg type="rp">）</seg></seg>くようなこんな仕方をいたしました」<lb />
 　顎十郎は、組んでいた腕をといて、<lb />
 「お話はよくわかりましたが、それは、チト妙ですな」<lb />
 「はて」<lb />
-「……古帷子で顔をつつんで一ツ橋の門から駈けだし、お氷の駕籠につきあたって、あわててまた門内に駈けこんだその男は、酒井の大部屋で手遊びをしていた石田清右衛門という<span type="ruby"><span type="rb">御家人</span><span type="rp">（</span><span type="rt">ごけにん</span><span type="rp">）</span></span>くずれ。……勝負のことで小者の小鬢を斬り、足にまかせて逃げだした鼻さきへ駕籠が来て、ついのはずみに駕籠をひっくり返し、これは、と<span type="ruby"><span type="rb">狼狽</span><span type="rp">（</span><span type="rt">うろた</span><span type="rp">）</span></span>えて、また部屋へ逃げかえった……氷もなにも盗んじゃいないのです。いわんや、あなたの子息の長一郎さんとやらじゃないんだから、つまらぬ庇いだては、まずまず御無用」<lb />
+「……古帷子で顔をつつんで一ツ橋の門から駈けだし、お氷の駕籠につきあたって、あわててまた門内に駈けこんだその男は、酒井の大部屋で手遊びをしていた石田清右衛門という<seg type="ruby"><seg type="rb">御家人</seg><seg type="rp">（</seg><seg type="rt">ごけにん</seg><seg type="rp">）</seg></seg>くずれ。……勝負のことで小者の小鬢を斬り、足にまかせて逃げだした鼻さきへ駕籠が来て、ついのはずみに駕籠をひっくり返し、これは、と<seg type="ruby"><seg type="rb">狼狽</seg><seg type="rp">（</seg><seg type="rt">うろた</seg><seg type="rp">）</seg></seg>えて、また部屋へ逃げかえった……氷もなにも盗んじゃいないのです。いわんや、あなたの子息の長一郎さんとやらじゃないんだから、つまらぬ庇いだては、まずまず御無用」<lb />
 　青地は、思わず膝をのりだして、<lb />
 「そ、それは、事実で……」<lb />
 「事実もなにも、酒井の部屋には、これが嘘でないという証人が十人、二十人とおります。……もっとも、石田清右衛門のほうは、自分が駕籠をひっくり返したために、こんなえらい騒ぎになっているなんてことは知らない」<lb />
 　顎十郎は、長い顎のさきを撫でながら、うそぶいて、<lb />
-「……ところで、手前には、だれがお氷の箱をあなたの家へ投げこんだか、だいたいあたりがついている。……が、それは、こっちの話。……ところで、氷の箱ですが、これは盗まれたのではなくて駕籠からころげだし、あのへんの草むらの中へ落ちていた。それを誰かが、なにか金目なものと思いこみ、拾ってかかえて来たが、さて、あけて見たところが、ただの空箱。……なんだ、つまらねえ、で、行きずりに垣根越しにあなたの家のなかへ投げこんだ。……<span type="ruby"><span type="rb">掏摸</span><span type="rp">（</span><span type="rt">すり</span><span type="rp">）</span></span>などがよくやる手で、盗んだ財布から金だけ抜きとり、財布のほうはところかまわずそのへんの縁の下へ投げこんで行く。そんな例はザラにあるんです。……運わるく投げこまれたのがあなたの家で、それが、あなたの不幸、と言ったようなわけ、……いかがですか、たしかにおわかりになりましたな」<lb />
+「……ところで、手前には、だれがお氷の箱をあなたの家へ投げこんだか、だいたいあたりがついている。……が、それは、こっちの話。……ところで、氷の箱ですが、これは盗まれたのではなくて駕籠からころげだし、あのへんの草むらの中へ落ちていた。それを誰かが、なにか金目なものと思いこみ、拾ってかかえて来たが、さて、あけて見たところが、ただの空箱。……なんだ、つまらねえ、で、行きずりに垣根越しにあなたの家のなかへ投げこんだ。……<seg type="ruby"><seg type="rb">掏摸</seg><seg type="rp">（</seg><seg type="rt">すり</seg><seg type="rp">）</seg></seg>などがよくやる手で、盗んだ財布から金だけ抜きとり、財布のほうはところかまわずそのへんの縁の下へ投げこんで行く。そんな例はザラにあるんです。……運わるく投げこまれたのがあなたの家で、それが、あなたの不幸、と言ったようなわけ、……いかがですか、たしかにおわかりになりましたな」<lb />
 <lb />
 　それから一刻ほど後、顎十郎はブラリと加賀の大部屋へあらわれる。為と寅を空地へ呼びだして、<lb />
 「……寅に為……よくやったな」<lb />
 　二人は、あっけに取られて、<lb />
 「よくやった……だしぬけに、なんです」<lb />
 　顎十郎は、へへら笑って、<lb />
-「駕籠がひっくり返ったはずみに、氷の箱が駕籠から飛びだして、土手下の草の中へころがりこんだ。……青地のせがれが大熱で、たいへんに氷をほしがっていることを知っている。こいつぁ、いい、で、互いに眼顔で知らせ、わッ、あの侍、お氷の箱をかかえて逃げて行きやがる、と騒いだな。氷見役人などはみな<span type="ruby"><span type="rb">頓痴気</span><span type="rp">（</span><span type="rt">とんちき</span><span type="rp">）</span></span>だから、そりゃ、大変、で追いかける。……どのみち、ふたりに用はない。西の丸そとをさんざ駈けまわらせておいて、ふたりのうちのひとりが氷の箱をかかえ、早駈けして青地の家へ投げこむ……」<lb />
+「駕籠がひっくり返ったはずみに、氷の箱が駕籠から飛びだして、土手下の草の中へころがりこんだ。……青地のせがれが大熱で、たいへんに氷をほしがっていることを知っている。こいつぁ、いい、で、互いに眼顔で知らせ、わッ、あの侍、お氷の箱をかかえて逃げて行きやがる、と騒いだな。氷見役人などはみな<seg type="ruby"><seg type="rb">頓痴気</seg><seg type="rp">（</seg><seg type="rt">とんちき</seg><seg type="rp">）</seg></seg>だから、そりゃ、大変、で追いかける。……どのみち、ふたりに用はない。西の丸そとをさんざ駈けまわらせておいて、ふたりのうちのひとりが氷の箱をかかえ、早駈けして青地の家へ投げこむ……」<lb />
 　キョロリと二人の顔を見て、<lb />
 「青地が馬鹿正直で、箱をかかえて自身番へ訴えでたには驚いたろう」<lb />
 　為は、息をのんで、<lb />
@@ -378,6 +378,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

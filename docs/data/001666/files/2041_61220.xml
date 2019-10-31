@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-03-11">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 初出：「沖縄毎日新聞」<lb />
 　　　1911（明治44）年6月2日<lb />
@@ -36,21 +36,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 静けき海のかなた、<lb />
 日影しのびいる、森の奥に、<lb />
-<span type="ruby"><span type="rb">彩鳥</span><span type="rp">（</span><span type="rt">あやどり</span><span type="rp">）</span></span>の声すと、きゝぬ。<lb />
+<seg type="ruby"><seg type="rb">彩鳥</seg><seg type="rp">（</seg><seg type="rt">あやどり</seg><seg type="rp">）</seg></seg>の声すと、きゝぬ。<lb />
 <lb />
 その音は、裂けし白玉の<lb />
-<span type="ruby"><span type="rb">一片</span><span type="rp">（</span><span type="rt">ひとは</span><span type="rp">）</span></span>にも似て、<lb />
+<seg type="ruby"><seg type="rb">一片</seg><seg type="rp">（</seg><seg type="rt">ひとは</seg><seg type="rp">）</seg></seg>にも似て、<lb />
 いささかの悲しみをやる。<lb />
 <lb />
 いねがたき夏　南国！<lb />
-浪の<span rend="sesame_dot" rendition="em">よるひる</span>も、起きぶして、<lb />
-いかばかり<span type="ruby"><span type="rb">彩鳥</span><span type="rp">（</span><span type="rt">あやどり</span><span type="rp">）</span></span>の音の<span type="ruby"><span type="rb">恋</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>ひしき。<lb />
+浪の<seg rend="sesame_dot" rendition="em">よるひる</seg>も、起きぶして、<lb />
+いかばかり<seg type="ruby"><seg type="rb">彩鳥</seg><seg type="rp">（</seg><seg type="rt">あやどり</seg><seg type="rp">）</seg></seg>の音の<seg type="ruby"><seg type="rb">恋</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>ひしき。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

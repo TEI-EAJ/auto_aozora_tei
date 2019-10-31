@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-01-12">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 初出：「沖縄毎日新聞」<lb />
 　　　1911（明治44）年1月9日<lb />
@@ -36,11 +36,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 午前七時、<lb />
 時刻が来たいざ学校へ。<lb />
 <lb />
-<span type="ruby"><span type="rb">晩秋</span><span type="rp">（</span><span type="rt">おそあき</span><span type="rp">）</span></span>の市街の上を、<lb />
+<seg type="ruby"><seg type="rb">晩秋</seg><seg type="rp">（</seg><seg type="rt">おそあき</seg><seg type="rp">）</seg></seg>の市街の上を、<lb />
 悲しげに風は泣きすぐ。<lb />
 <lb />
 絶えずしたゝる冷たい鼻汁を、<lb />
@@ -60,6 +60,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -47,8 +47,8 @@
 　なほ、この童謠集のために、いろいろお世話していただいた大島庸夫君に感謝したい。<lb />
 　　昭和四年四月<lb />
 <lb />
-<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">著者</span>
-<span rend="notes">［＃改丁］</span><lb />
+<seg rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">著者</seg>
+<seg rend="notes" rendition="span">［＃改丁］</seg><lb />
 <lb />
 　　　目次<lb />
 小鳥<lb />
@@ -104,38 +104,38 @@
 泥の鳩<lb />
 白い百合<lb />
 父さんのマント<lb />
-<span rend="notes">［＃改丁］</span><lb />
+<seg rend="notes" rendition="span">［＃改丁］</seg><lb />
 <lb />
 歌時計<lb />
 　　――今のわたしにとつて、子供は<lb />
 　　　　　小さいフェーヤリである。――<lb />
-<span rend="notes">［＃改丁］</span><lb />
+<seg rend="notes" rendition="span">［＃改丁］</seg><lb />
 <lb />
 　　　小鳥<lb />
 <lb />
 あかるい日ざし<lb />
-<span type="ruby"><span type="rb">小枝</span><span type="rp">（</span><span type="rt">こえだ</span><span type="rp">）</span></span>のなかの<lb />
-<span type="ruby"><span type="rb">小鳥</span><span type="rp">（</span><span type="rt">ことり</span><span type="rp">）</span></span>のかげが<lb />
+<seg type="ruby"><seg type="rb">小枝</seg><seg type="rp">（</seg><seg type="rt">こえだ</seg><seg type="rp">）</seg></seg>のなかの<lb />
+<seg type="ruby"><seg type="rb">小鳥</seg><seg type="rp">（</seg><seg type="rt">ことり</seg><seg type="rp">）</seg></seg>のかげが<lb />
 障子にうつる<lb />
 ちらちらうつる。<lb />
 <lb />
-障子を<span type="ruby"><span type="rb">開</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>けりや<lb />
+障子を<seg type="ruby"><seg type="rb">開</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>けりや<lb />
 びつくりしたか<lb />
-小鳥は<span type="ruby"><span type="rb">飛</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>んで<lb />
+小鳥は<seg type="ruby"><seg type="rb">飛</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>んで<lb />
 小枝がゆれる<lb />
 こまかくゆれる。<lb />
 <lb />
-あかるい<span type="ruby"><span type="rb">日</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>ざし<lb />
+あかるい<seg type="ruby"><seg type="rb">日</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>ざし<lb />
 小鳥は逃げて<lb />
-<span type="ruby"><span type="rb">姿</span><span type="rp">（</span><span type="rt">すがた</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">見</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>せぬ<lb />
+<seg type="ruby"><seg type="rb">姿</seg><seg type="rp">（</seg><seg type="rt">すがた</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">見</seg><seg type="rp">（</seg><seg type="rt">み</seg><seg type="rp">）</seg></seg>せぬ<lb />
 見せぬがうたふ<lb />
 どこかでうたふ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　風と繪本<lb />
 <lb />
 だあれもゐない<lb />
-あたしの<span type="ruby"><span type="rb">部屋</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>で<lb />
+あたしの<seg type="ruby"><seg type="rb">部屋</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>で<lb />
 風がぱたぱた<lb />
 繪本をめくる<lb />
 <lb />
@@ -144,11 +144,11 @@
 風はしばらく<lb />
 見とれてゐたよ。<lb />
 <lb />
-きつと<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">ちひ</span><span type="rp">）</span></span>ちやい<lb />
+きつと<seg type="ruby"><seg type="rb">小</seg><seg type="rp">（</seg><seg type="rt">ちひ</seg><seg type="rp">）</seg></seg>ちやい<lb />
 子供の風だ<lb />
-<span type="ruby"><span type="rb">遊</span><span type="rp">（</span><span type="rt">あそ</span><span type="rp">）</span></span>ばうと思つたら<lb />
-すぐ<span type="ruby"><span type="rb">逃</span><span type="rp">（</span><span type="rt">に</span><span type="rp">）</span></span>げちやつた。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg type="ruby"><seg type="rb">遊</seg><seg type="rp">（</seg><seg type="rt">あそ</seg><seg type="rp">）</seg></seg>ばうと思つたら<lb />
+すぐ<seg type="ruby"><seg type="rb">逃</seg><seg type="rp">（</seg><seg type="rt">に</seg><seg type="rp">）</seg></seg>げちやつた。<lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　露の小人<lb />
 <lb />
@@ -170,8 +170,8 @@
 お目々さまして<lb />
 あくびして<lb />
 ころころころと<lb />
-ころげ<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">で</span><span type="rp">）</span></span>た。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+ころげ<seg type="ruby"><seg type="rb">出</seg><seg type="rp">（</seg><seg type="rt">で</seg><seg type="rp">）</seg></seg>た。<lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　ジヤム地獄<lb />
 <lb />
@@ -182,7 +182,7 @@
 <lb />
 出よう飛ばうと<lb />
 あせつたけれど<lb />
-羽根や<span type="ruby"><span type="rb">手足</span><span type="rp">（</span><span type="rt">てあし</span><span type="rp">）</span></span>が<lb />
+羽根や<seg type="ruby"><seg type="rb">手足</seg><seg type="rp">（</seg><seg type="rt">てあし</seg><seg type="rp">）</seg></seg>が<lb />
 ねばつくばかり。<lb />
 <lb />
 泣いた泣いたよ<lb />
@@ -191,10 +191,10 @@
 聲はりあげて。<lb />
 <lb />
 けれどぼくなら<lb />
-もし<span type="ruby"><span type="rb">落</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>ちたつて<lb />
+もし<seg type="ruby"><seg type="rb">落</seg><seg type="rp">（</seg><seg type="rt">お</seg><seg type="rp">）</seg></seg>ちたつて<lb />
 落ちてうれしい<lb />
 ジヤム地獄。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　トランプちやん<lb />
 <lb />
@@ -203,9 +203,9 @@
 トランプちやん。<lb />
 <lb />
 あかちやん<lb />
-お<span type="ruby"><span type="rb">口</span><span type="rp">（</span><span type="rt">くち</span><span type="rp">）</span></span>は<lb />
+お<seg type="ruby"><seg type="rb">口</seg><seg type="rp">（</seg><seg type="rt">くち</seg><seg type="rp">）</seg></seg>は<lb />
 ダイヤの一。<lb />
-お<span type="ruby"><span type="rb">顏</span><span type="rp">（</span><span type="rt">かほ</span><span type="rp">）</span></span>のなかで<lb />
+お<seg type="ruby"><seg type="rb">顏</seg><seg type="rp">（</seg><seg type="rt">かほ</seg><seg type="rp">）</seg></seg>のなかで<lb />
 たつた一つ<lb />
 赤い。<lb />
 <lb />
@@ -219,22 +219,22 @@
 お顏のなかで<lb />
 ならんで<lb />
 黒い。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　桃太郎<lb />
 <lb />
 桃から桃太郎<lb />
-<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">うま</span><span type="rp">）</span></span>れたとさ<lb />
+<seg type="ruby"><seg type="rb">生</seg><seg type="rp">（</seg><seg type="rt">うま</seg><seg type="rp">）</seg></seg>れたとさ<lb />
 桃太郎生れる<lb />
 桃はないか。<lb />
 <lb />
-たくさん桃<span type="ruby"><span type="rb">買</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>つて<lb />
+たくさん桃<seg type="ruby"><seg type="rb">買</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>つて<lb />
 さがさうか<lb />
-いくつも桃<span type="ruby"><span type="rb">割</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>つて<lb />
+いくつも桃<seg type="ruby"><seg type="rb">割</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>つて<lb />
 さがさうか。<lb />
 <lb />
 それとも川へ<lb />
-<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>こかしら<lb />
+<seg type="ruby"><seg type="rb">行</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>こかしら<lb />
 桃がながれて<lb />
 來るかしら<lb />
 <lb />
@@ -242,30 +242,30 @@
 もうひとり<lb />
 桃太郎生れりや<lb />
 うれしいな。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　ポケツト<lb />
 <lb />
-ぼくの<span type="ruby"><span type="rb">上着</span><span type="rp">（</span><span type="rt">うはぎ</span><span type="rp">）</span></span>にや<lb />
+ぼくの<seg type="ruby"><seg type="rb">上着</seg><seg type="rp">（</seg><seg type="rt">うはぎ</seg><seg type="rp">）</seg></seg>にや<lb />
 ポケツトが<lb />
 二つあるけど<lb />
 つまんない。<lb />
 <lb />
-だつてお<span type="ruby"><span type="rb">菓子</span><span type="rp">（</span><span type="rt">くわし</span><span type="rp">）</span></span>と<lb />
+だつてお<seg type="ruby"><seg type="rb">菓子</seg><seg type="rp">（</seg><seg type="rt">くわし</seg><seg type="rp">）</seg></seg>と<lb />
 ゴムまりと<lb />
 ピストル入れりや<lb />
 いつぱいだ。<lb />
 <lb />
-<span type="ruby"><span type="rb">手帳</span><span type="rp">（</span><span type="rt">てちやう</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">獨樂</span><span type="rp">（</span><span type="rt">こま</span><span type="rp">）</span></span>や<lb />
+<seg type="ruby"><seg type="rb">手帳</seg><seg type="rp">（</seg><seg type="rt">てちやう</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">獨樂</seg><seg type="rp">（</seg><seg type="rt">こま</seg><seg type="rp">）</seg></seg>や<lb />
 ほそびきや<lb />
 ぼくにや入れたい<lb />
 ものばかり。<lb />
 <lb />
 大きなポケツト<lb />
-<span type="ruby"><span type="rb">四</span><span type="rp">（</span><span type="rt">よつ</span><span type="rp">）</span></span>つある<lb />
-<span type="ruby"><span type="rb">父</span><span type="rp">（</span><span type="rt">とう</span><span type="rp">）</span></span>さんの上着は<lb />
+<seg type="ruby"><seg type="rb">四</seg><seg type="rp">（</seg><seg type="rt">よつ</seg><seg type="rp">）</seg></seg>つある<lb />
+<seg type="ruby"><seg type="rb">父</seg><seg type="rp">（</seg><seg type="rt">とう</seg><seg type="rp">）</seg></seg>さんの上着は<lb />
 すてきだな。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　すみれとてふてふ<lb />
 <lb />
@@ -289,81 +289,81 @@
 のぞいて見れば<lb />
 てふてふは<lb />
 <lb />
-<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">ちひ</span><span type="rp">）</span></span>さいすみれの<lb />
+<seg type="ruby"><seg type="rb">小</seg><seg type="rp">（</seg><seg type="rt">ちひ</seg><seg type="rp">）</seg></seg>さいすみれの<lb />
 花のかげ<lb />
 とんとんとろりと<lb />
 もうねてた。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　つかまへたいな<lb />
 <lb />
 つかまへたいな<lb />
-まつ白い<span type="ruby"><span type="rb">雲</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>を<lb />
+まつ白い<seg type="ruby"><seg type="rb">雲</seg><seg type="rp">（</seg><seg type="rt">くも</seg><seg type="rp">）</seg></seg>を<lb />
 お空でをどる<lb />
 まつ白い雲を。<lb />
 <lb />
 つかまへたいな<lb />
-<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">ちひ</span><span type="rp">）</span></span>ちやな風を<lb />
-<span type="ruby"><span type="rb">葉</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>つぱをゆする<lb />
+<seg type="ruby"><seg type="rb">小</seg><seg type="rp">（</seg><seg type="rt">ちひ</seg><seg type="rp">）</seg></seg>ちやな風を<lb />
+<seg type="ruby"><seg type="rb">葉</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>つぱをゆする<lb />
 小ちやな風を。<lb />
 <lb />
 つかまへたいな<lb />
 かはいい聲を<lb />
 あかちやんの笑ふ<lb />
 かはいい聲を。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　熊<lb />
 <lb />
 のつそり　のつそり<lb />
-<span type="ruby"><span type="rb">檻</span><span type="rp">（</span><span type="rt">をり</span><span type="rp">）</span></span>のなか<lb />
-<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>つたり<span type="ruby"><span type="rb">來</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>たり<lb />
-黒い<span type="ruby"><span type="rb">熊</span><span type="rp">（</span><span type="rt">くま</span><span type="rp">）</span></span>。<lb />
+<seg type="ruby"><seg type="rb">檻</seg><seg type="rp">（</seg><seg type="rt">をり</seg><seg type="rp">）</seg></seg>のなか<lb />
+<seg type="ruby"><seg type="rb">行</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>つたり<seg type="ruby"><seg type="rb">來</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>たり<lb />
+黒い<seg type="ruby"><seg type="rb">熊</seg><seg type="rp">（</seg><seg type="rt">くま</seg><seg type="rp">）</seg></seg>。<lb />
 <lb />
-<span type="ruby"><span type="rb">暑</span><span type="rp">（</span><span type="rt">あつ</span><span type="rp">）</span></span>さも<span type="ruby"><span type="rb">暑</span><span type="rp">（</span><span type="rt">あつ</span><span type="rp">）</span></span>いし<lb />
-日は<span type="ruby"><span type="rb">長</span><span type="rp">（</span><span type="rt">なが</span><span type="rp">）</span></span>い<lb />
+<seg type="ruby"><seg type="rb">暑</seg><seg type="rp">（</seg><seg type="rt">あつ</seg><seg type="rp">）</seg></seg>さも<seg type="ruby"><seg type="rb">暑</seg><seg type="rp">（</seg><seg type="rt">あつ</seg><seg type="rp">）</seg></seg>いし<lb />
+日は<seg type="ruby"><seg type="rb">長</seg><seg type="rp">（</seg><seg type="rt">なが</seg><seg type="rp">）</seg></seg>い<lb />
 朝からあくびは<lb />
 十六ぺん。<lb />
 <lb />
 しかたがなしに<lb />
-<span type="ruby"><span type="rb">首</span><span type="rp">（</span><span type="rt">くび</span><span type="rp">）</span></span>ふつて<lb />
+<seg type="ruby"><seg type="rb">首</seg><seg type="rp">（</seg><seg type="rt">くび</seg><seg type="rp">）</seg></seg>ふつて<lb />
 のつそり　のつそり<lb />
 黒い熊。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　さくらの花道<lb />
 <lb />
-さくらの<span type="ruby"><span type="rb">花道</span><span type="rp">（</span><span type="rt">はなみち</span><span type="rp">）</span></span><lb />
+さくらの<seg type="ruby"><seg type="rb">花道</seg><seg type="rp">（</seg><seg type="rt">はなみち</seg><seg type="rp">）</seg></seg><lb />
 花のかげ<lb />
 白いほんぼり<lb />
-<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>がとぼる。<lb />
+<seg type="ruby"><seg type="rb">灯</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>がとぼる。<lb />
 <lb />
 とぼりやほんのり<lb />
 夢のいろ<lb />
 さくらの花が<lb />
 うすあかい。<lb />
 <lb />
-もしも<span type="ruby"><span type="rb">雪駄</span><span type="rp">（</span><span type="rt">せつた</span><span type="rp">）</span></span>で<lb />
-<span type="ruby"><span type="rb">稚子髷</span><span type="rp">（</span><span type="rt">ちごまげ</span><span type="rp">）</span></span>で<lb />
-ゆらり<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>で<lb />
-<span type="ruby"><span type="rb">通</span><span type="rp">（</span><span type="rt">とほ</span><span type="rp">）</span></span>つたら<lb />
+もしも<seg type="ruby"><seg type="rb">雪駄</seg><seg type="rp">（</seg><seg type="rt">せつた</seg><seg type="rp">）</seg></seg>で<lb />
+<seg type="ruby"><seg type="rb">稚子髷</seg><seg type="rp">（</seg><seg type="rt">ちごまげ</seg><seg type="rp">）</seg></seg>で<lb />
+ゆらり<seg type="ruby"><seg type="rb">袂</seg><seg type="rp">（</seg><seg type="rt">たもと</seg><seg type="rp">）</seg></seg>で<lb />
+<seg type="ruby"><seg type="rb">通</seg><seg type="rp">（</seg><seg type="rt">とほ</seg><seg type="rp">）</seg></seg>つたら<lb />
 <lb />
 さくらの花道<lb />
 花のかげ<lb />
 むかしの夢が<lb />
 見れるだろ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　春の山<lb />
 <lb />
 霞の蒲團に<lb />
 くるまつて<lb />
-ぬくぬくお<span type="ruby"><span type="rb">晝寢</span><span type="rp">（</span><span type="rt">ひるね</span><span type="rp">）</span></span><lb />
+ぬくぬくお<seg type="ruby"><seg type="rb">晝寢</seg><seg type="rp">（</seg><seg type="rt">ひるね</seg><seg type="rp">）</seg></seg><lb />
 春の山。<lb />
 <lb />
 そよ風そより<lb />
 吹いてるに<lb />
-まだまだお<span type="ruby"><span type="rb">肩</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>が<lb />
+まだまだお<seg type="ruby"><seg type="rb">肩</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>が<lb />
 まるござる。<lb />
 <lb />
 霞の蒲團は<lb />
@@ -371,18 +371,18 @@
 いつまでお晝寢<lb />
 春の山。<lb />
 <lb />
-<span type="ruby"><span type="rb">鳶</span><span type="rp">（</span><span type="rt">とんび</span><span type="rp">）</span></span>がとろり<lb />
-<span type="ruby"><span type="rb">啼</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>いてるに<lb />
-まだまだお<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">せな</span><span type="rp">）</span></span>も<lb />
+<seg type="ruby"><seg type="rb">鳶</seg><seg type="rp">（</seg><seg type="rt">とんび</seg><seg type="rp">）</seg></seg>がとろり<lb />
+<seg type="ruby"><seg type="rb">啼</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>いてるに<lb />
+まだまだお<seg type="ruby"><seg type="rb">背</seg><seg type="rp">（</seg><seg type="rt">せな</seg><seg type="rp">）</seg></seg>も<lb />
 まるござる。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　あがり目さがり目<lb />
 　　　　　――むかしの遊戲唄につけ足して<lb />
 　　　　　　　今の子供たちにおくる――<lb />
 <lb />
-あがり<span type="ruby"><span type="rb">目</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>　さがり<span type="ruby"><span type="rb">目</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>。<lb />
-ぐるつとまはつて<span type="ruby"><span type="rb">猫</span><span type="rp">（</span><span type="rt">ねえこ</span><span type="rp">）</span></span>の目。<lb />
+あがり<seg type="ruby"><seg type="rb">目</seg><seg type="rp">（</seg><seg type="rt">め</seg><seg type="rp">）</seg></seg>　さがり<seg type="ruby"><seg type="rb">目</seg><seg type="rp">（</seg><seg type="rt">め</seg><seg type="rp">）</seg></seg>。<lb />
+ぐるつとまはつて<seg type="ruby"><seg type="rb">猫</seg><seg type="rp">（</seg><seg type="rt">ねえこ</seg><seg type="rp">）</seg></seg>の目。<lb />
 <lb />
 あがり目はおこり目<lb />
 あがり目をしたらば<lb />
@@ -392,13 +392,13 @@
 さがり目をしたらば<lb />
 わらひたくなあつた。<lb />
 <lb />
-<span type="ruby"><span type="rb">猫</span><span type="rp">（</span><span type="rt">ねえこ</span><span type="rp">）</span></span>の目は<span type="ruby"><span type="rb">猫</span><span type="rp">（</span><span type="rt">ねえこ</span><span type="rp">）</span></span>の目。<lb />
+<seg type="ruby"><seg type="rb">猫</seg><seg type="rp">（</seg><seg type="rt">ねえこ</seg><seg type="rp">）</seg></seg>の目は<seg type="ruby"><seg type="rb">猫</seg><seg type="rp">（</seg><seg type="rt">ねえこ</seg><seg type="rp">）</seg></seg>の目。<lb />
 猫の目をしたらば<lb />
 ねずみが見えた。<lb />
 <lb />
 あがり目　さがり目<lb />
 ぐるつとまはつて猫の目。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　だだつ子<lb />
 <lb />
@@ -413,15 +413,15 @@
 だだこねた。<lb />
 <lb />
 そんならどれが<lb />
-<span type="ruby"><span type="rb">買</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>ひたいの？<lb />
+<seg type="ruby"><seg type="rb">買</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>ひたいの？<lb />
 やさしくかあさん<lb />
 きいたけど<lb />
 <lb />
 だだつ子こねた<lb />
 だだこねた<lb />
-<span type="ruby"><span type="rb">頭</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>ふりふり<lb />
+<seg type="ruby"><seg type="rb">頭</seg><seg type="rp">（</seg><seg type="rt">あたま</seg><seg type="rp">）</seg></seg>ふりふり<lb />
 だだこねた。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　柳と松<lb />
 <lb />
@@ -434,7 +434,7 @@
 <lb />
 遊びませうと<lb />
 風が來て<lb />
-あんなに<span type="ruby"><span type="rb">誘</span><span type="rp">（</span><span type="rt">さそ</span><span type="rp">）</span></span>つて<lb />
+あんなに<seg type="ruby"><seg type="rb">誘</seg><seg type="rp">（</seg><seg type="rt">さそ</seg><seg type="rp">）</seg></seg>つて<lb />
 ゐるけれど<lb />
 松はだまつて<lb />
 知らぬ顏。<lb />
@@ -442,10 +442,10 @@
 風ともつれて<lb />
 遊ぶのは<lb />
 しなしな青い<lb />
-ふり<span type="ruby"><span type="rb">袖</span><span type="rp">（</span><span type="rt">そで</span><span type="rp">）</span></span>の<lb />
+ふり<seg type="ruby"><seg type="rb">袖</seg><seg type="rp">（</seg><seg type="rt">そで</seg><seg type="rp">）</seg></seg>の<lb />
 やさしい柳の<lb />
 おぢやうさん。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　りんごの皮むき<lb />
 <lb />
@@ -456,30 +456,30 @@
 するするむけば<lb />
 いいんだよ。<lb />
 <lb />
-お<span type="ruby"><span type="rb">人形</span><span type="rp">（</span><span type="rt">にんぎよう</span><span type="rp">）</span></span>さんの<lb />
-<span type="ruby"><span type="rb">帶</span><span type="rp">（</span><span type="rt">おび</span><span type="rp">）</span></span>のよに<lb />
-<span type="ruby"><span type="rb">腕</span><span type="rp">（</span><span type="rt">うで</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「うで」は底本では「で」］</span>の<span type="ruby"><span type="rb">時計</span><span type="rp">（</span><span type="rt">とけい</span><span type="rp">）</span></span>の<lb />
-<span type="ruby"><span type="rb">紐</span><span type="rp">（</span><span type="rt">ひも</span><span type="rp">）</span></span>のよに<lb />
+お<seg type="ruby"><seg type="rb">人形</seg><seg type="rp">（</seg><seg type="rt">にんぎよう</seg><seg type="rp">）</seg></seg>さんの<lb />
+<seg type="ruby"><seg type="rb">帶</seg><seg type="rp">（</seg><seg type="rt">おび</seg><seg type="rp">）</seg></seg>のよに<lb />
+<seg type="ruby"><seg type="rb">腕</seg><seg type="rp">（</seg><seg type="rt">うで</seg><seg type="rp">）</seg></seg><seg rend="notes" rendition="span">［＃ルビの「うで」は底本では「で」］</seg>の<seg type="ruby"><seg type="rb">時計</seg><seg type="rp">（</seg><seg type="rt">とけい</seg><seg type="rp">）</seg></seg>の<lb />
+<seg type="ruby"><seg type="rb">紐</seg><seg type="rp">（</seg><seg type="rt">ひも</seg><seg type="rp">）</seg></seg>のよに<lb />
 ちやんときれいに<lb />
 むくんだよ。<lb />
 <lb />
 さあさりんごの<lb />
 皮むきだ<lb />
-<span type="ruby"><span type="rb">銀</span><span type="rp">（</span><span type="rt">ぎん</span><span type="rp">）</span></span>のナイフは<lb />
+<seg type="ruby"><seg type="rb">銀</seg><seg type="rp">（</seg><seg type="rt">ぎん</seg><seg type="rp">）</seg></seg>のナイフは<lb />
 よく切れる<lb />
-<span type="ruby"><span type="rb">手</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">氣</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>をつけて<lb />
+<seg type="ruby"><seg type="rb">手</seg><seg type="rp">（</seg><seg type="rt">て</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">氣</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>をつけて<lb />
 むくんだよ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　春が來た<lb />
 <lb />
-そよそよ<span type="ruby"><span type="rb">春風</span><span type="rp">（</span><span type="rt">はるかぜ</span><span type="rp">）</span></span><lb />
+そよそよ<seg type="ruby"><seg type="rb">春風</seg><seg type="rp">（</seg><seg type="rt">はるかぜ</seg><seg type="rp">）</seg></seg><lb />
 吹いて來て<lb />
 やさしい聲で<lb />
 いひました。<lb />
 <lb />
 「かはいいつぼみよ<lb />
-みなお<span type="ruby"><span type="rb">起</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>き<lb />
+みなお<seg type="ruby"><seg type="rb">起</seg><seg type="rp">（</seg><seg type="rt">お</seg><seg type="rp">）</seg></seg>き<lb />
 起きなきやそうれ<lb />
 くすぐるよ！」<lb />
 <lb />
@@ -489,39 +489,39 @@
 いひました。<lb />
 <lb />
 「おやもう春が<lb />
-<span type="ruby"><span type="rb">來</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>てたのか<lb />
-あたり<span type="ruby"><span type="rb">近所</span><span type="rp">（</span><span type="rt">きんじよ</span><span type="rp">）</span></span>が<lb />
+<seg type="ruby"><seg type="rb">來</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>てたのか<lb />
+あたり<seg type="ruby"><seg type="rb">近所</seg><seg type="rp">（</seg><seg type="rt">きんじよ</seg><seg type="rp">）</seg></seg>が<lb />
 まぶしいな！」<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　野の花<lb />
 <lb />
 つくしんばうは<lb />
-お<span type="ruby"><span type="rb">坊</span><span type="rp">（</span><span type="rt">ばう</span><span type="rp">）</span></span>さん<lb />
+お<seg type="ruby"><seg type="rb">坊</seg><seg type="rp">（</seg><seg type="rt">ばう</seg><seg type="rp">）</seg></seg>さん<lb />
 おつむはいつも<lb />
 くうるくる。<lb />
 <lb />
 たんたんたんぽぽ<lb />
-<span type="ruby"><span type="rb">兵隊</span><span type="rp">（</span><span type="rt">へいたい</span><span type="rp">）</span></span>さん<lb />
-かぶつた<span type="ruby"><span type="rb">帽子</span><span type="rp">（</span><span type="rt">ばうし</span><span type="rp">）</span></span>にや<lb />
-<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>かざり。<lb />
+<seg type="ruby"><seg type="rb">兵隊</seg><seg type="rp">（</seg><seg type="rt">へいたい</seg><seg type="rp">）</seg></seg>さん<lb />
+かぶつた<seg type="ruby"><seg type="rb">帽子</seg><seg type="rp">（</seg><seg type="rt">ばうし</seg><seg type="rp">）</seg></seg>にや<lb />
+<seg type="ruby"><seg type="rb">金</seg><seg type="rp">（</seg><seg type="rt">きん</seg><seg type="rp">）</seg></seg>かざり。<lb />
 <lb />
-かはいい<span type="ruby"><span type="rb">小娘</span><span type="rp">（</span><span type="rt">こむすめ</span><span type="rp">）</span></span><lb />
+かはいい<seg type="ruby"><seg type="rb">小娘</seg><seg type="rp">（</seg><seg type="rt">こむすめ</seg><seg type="rp">）</seg></seg><lb />
 れんげさう<lb />
-あかい<span type="ruby"><span type="rb">花櫛</span><span type="rp">（</span><span type="rt">はなぐし</span><span type="rp">）</span></span><lb />
+あかい<seg type="ruby"><seg type="rb">花櫛</seg><seg type="rp">（</seg><seg type="rt">はなぐし</seg><seg type="rp">）</seg></seg><lb />
 ちいらちら。<lb />
 <lb />
 それぢやすみれは<lb />
 なんだろな<lb />
-むさらき<span type="ruby"><span type="rb">頭巾</span><span type="rp">（</span><span type="rt">づきん</span><span type="rp">）</span></span>の<lb />
-お<span type="ruby"><span type="rb">尼</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>さん。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+むさらき<seg type="ruby"><seg type="rb">頭巾</seg><seg type="rp">（</seg><seg type="rt">づきん</seg><seg type="rp">）</seg></seg>の<lb />
+お<seg type="ruby"><seg type="rb">尼</seg><seg type="rp">（</seg><seg type="rt">あま</seg><seg type="rp">）</seg></seg>さん。<lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　白い齒<lb />
 <lb />
-<span type="ruby"><span type="rb">櫻</span><span type="rp">（</span><span type="rt">さくら</span><span type="rp">）</span></span>のつぼみが<lb />
-まだ<span type="ruby"><span type="rb">小</span><span type="rp">（</span><span type="rt">ちい</span><span type="rp">）</span></span>さい。<lb />
-<span type="ruby"><span type="rb">坊</span><span type="rp">（</span><span type="rt">ばう</span><span type="rp">）</span></span>やの<span type="ruby"><span type="rb">齒</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>ぐきは<lb />
+<seg type="ruby"><seg type="rb">櫻</seg><seg type="rp">（</seg><seg type="rt">さくら</seg><seg type="rp">）</seg></seg>のつぼみが<lb />
+まだ<seg type="ruby"><seg type="rb">小</seg><seg type="rp">（</seg><seg type="rt">ちい</seg><seg type="rp">）</seg></seg>さい。<lb />
+<seg type="ruby"><seg type="rb">坊</seg><seg type="rp">（</seg><seg type="rt">ばう</seg><seg type="rp">）</seg></seg>やの<seg type="ruby"><seg type="rb">齒</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>ぐきは<lb />
 まだかたい。<lb />
 <lb />
 櫻のつぼみが<lb />
@@ -530,7 +530,7 @@
 ふくらんだ。<lb />
 <lb />
 櫻のつぼみが<lb />
-<span type="ruby"><span type="rb">色</span><span type="rp">（</span><span type="rt">いろ</span><span type="rp">）</span></span>づいた。<lb />
+<seg type="ruby"><seg type="rb">色</seg><seg type="rp">（</seg><seg type="rt">いろ</seg><seg type="rp">）</seg></seg>づいた。<lb />
 坊やの齒ぐきも<lb />
 色づいた。<lb />
 <lb />
@@ -538,51 +538,51 @@
 ひいらいた。<lb />
 坊やの白い齒<lb />
 そら生えた。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　葉山の海<lb />
 <lb />
 葉山の海は<lb />
-<span type="ruby"><span type="rb">青</span><span type="rp">（</span><span type="rt">あを</span><span type="rp">）</span></span>かつたよう<lb />
-<span type="ruby"><span type="rb">波</span><span type="rp">（</span><span type="rt">なみ</span><span type="rp">）</span></span>がさびしく<lb />
-<span type="ruby"><span type="rb">寄</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>せてたよう。<lb />
+<seg type="ruby"><seg type="rb">青</seg><seg type="rp">（</seg><seg type="rt">あを</seg><seg type="rp">）</seg></seg>かつたよう<lb />
+<seg type="ruby"><seg type="rb">波</seg><seg type="rp">（</seg><seg type="rt">なみ</seg><seg type="rp">）</seg></seg>がさびしく<lb />
+<seg type="ruby"><seg type="rb">寄</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>せてたよう。<lb />
 <lb />
-<span type="ruby"><span type="rb">御用邸</span><span type="rp">（</span><span type="rt">ごようてい</span><span type="rp">）</span></span>にや<span type="ruby"><span type="rb">松</span><span type="rp">（</span><span type="rt">まつ</span><span type="rp">）</span></span>が<lb />
+<seg type="ruby"><seg type="rb">御用邸</seg><seg type="rp">（</seg><seg type="rt">ごようてい</seg><seg type="rp">）</seg></seg>にや<seg type="ruby"><seg type="rb">松</seg><seg type="rp">（</seg><seg type="rt">まつ</seg><seg type="rp">）</seg></seg>が<lb />
 ならんでたよう<lb />
-<span type="ruby"><span type="rb">枝</span><span type="rp">（</span><span type="rt">えだ</span><span type="rp">）</span></span>をさびしく<lb />
+<seg type="ruby"><seg type="rb">枝</seg><seg type="rp">（</seg><seg type="rt">えだ</seg><seg type="rp">）</seg></seg>をさびしく<lb />
 まげてたよう。<lb />
 <lb />
-だつて<span type="ruby"><span type="rb">天子</span><span type="rp">（</span><span type="rt">てんし</span><span type="rp">）</span></span>さま<lb />
+だつて<seg type="ruby"><seg type="rb">天子</seg><seg type="rp">（</seg><seg type="rt">てんし</seg><seg type="rp">）</seg></seg>さま<lb />
 おわづらひだよう<lb />
-<span type="ruby"><span type="rb">長</span><span type="rp">（</span><span type="rt">なが</span><span type="rp">）</span></span>くふせつて<lb />
+<seg type="ruby"><seg type="rb">長</seg><seg type="rp">（</seg><seg type="rt">なが</seg><seg type="rp">）</seg></seg>くふせつて<lb />
 おいでだよう。<lb />
 <lb />
 ぼくはさびしく<lb />
 おがんだよう<lb />
 おいのりささげて<lb />
-<span type="ruby"><span type="rb">來</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>たんだよう。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg type="ruby"><seg type="rb">來</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>たんだよう。<lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　おもひで話<lb />
 <lb />
 ゆうべのことだ<lb />
 ストーブのなかで<lb />
-ぼくだけ<span type="ruby"><span type="rb">聞</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>いた。<lb />
+ぼくだけ<seg type="ruby"><seg type="rb">聞</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>いた。<lb />
 <lb />
 むかしのむかし<lb />
-<span type="ruby"><span type="rb">土</span><span type="rp">（</span><span type="rt">つち</span><span type="rp">）</span></span>ンなかにゐた時の<lb />
+<seg type="ruby"><seg type="rb">土</seg><seg type="rp">（</seg><seg type="rt">つち</seg><seg type="rp">）</seg></seg>ンなかにゐた時の<lb />
 石炭たちの<lb />
 おもひで話<lb />
 <lb />
-くすくす<span type="ruby"><span type="rb">笑</span><span type="rp">（</span><span type="rt">わら</span><span type="rp">）</span></span>つて<lb />
-まつ<span type="ruby"><span type="rb">赤</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>になつて<lb />
+くすくす<seg type="ruby"><seg type="rb">笑</seg><seg type="rp">（</seg><seg type="rt">わら</seg><seg type="rp">）</seg></seg>つて<lb />
+まつ<seg type="ruby"><seg type="rb">赤</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>になつて<lb />
 石炭たちの<lb />
 おもひで話。<lb />
 <lb />
 ゆうべのことだ<lb />
 ストーブのなかで<lb />
 ぼくだけ聞いた。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　白いお手<lb />
 <lb />
@@ -600,7 +600,7 @@
 <lb />
 ぼくはいつでも思ひだす<lb />
 そしてなぜだか涙ぐむ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　風と月<lb />
 <lb />
@@ -627,23 +627,23 @@
 ご病氣で<lb />
 月が照るのが<lb />
 かなしいの。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　あがり双六<lb />
 <lb />
-あがり<span type="ruby"><span type="rb">双六</span><span type="rp">（</span><span type="rt">すごろく</span><span type="rp">）</span></span><lb />
+あがり<seg type="ruby"><seg type="rb">双六</seg><seg type="rp">（</seg><seg type="rt">すごろく</seg><seg type="rp">）</seg></seg><lb />
 東海道<lb />
 五十三次<lb />
-<span type="ruby"><span type="rb">長道中</span><span type="rp">（</span><span type="rt">ながどうちゆう</span><span type="rp">）</span></span>。<lb />
+<seg type="ruby"><seg type="rb">長道中</seg><seg type="rp">（</seg><seg type="rt">ながどうちゆう</seg><seg type="rp">）</seg></seg>。<lb />
 <lb />
-振つた<span type="ruby"><span type="rb">賽</span><span type="rp">（</span><span type="rt">さい</span><span type="rp">）</span></span>ころ<lb />
+振つた<seg type="ruby"><seg type="rb">賽</seg><seg type="rp">（</seg><seg type="rt">さい</seg><seg type="rp">）</seg></seg>ころ<lb />
 ころがして<lb />
-<span type="ruby"><span type="rb">目數</span><span type="rp">（</span><span type="rt">めかず</span><span type="rp">）</span></span>かぞへて<lb />
-<span type="ruby"><span type="rb">急</span><span type="rp">（</span><span type="rt">いそ</span><span type="rp">）</span></span>ぎやんせ。<lb />
+<seg type="ruby"><seg type="rb">目數</seg><seg type="rp">（</seg><seg type="rt">めかず</seg><seg type="rp">）</seg></seg>かぞへて<lb />
+<seg type="ruby"><seg type="rb">急</seg><seg type="rp">（</seg><seg type="rt">いそ</seg><seg type="rp">）</seg></seg>ぎやんせ。<lb />
 <lb />
 泊りかさねて<lb />
 おくれると<lb />
-<span type="ruby"><span type="rb">連</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>れは追ひ越す<lb />
+<seg type="ruby"><seg type="rb">連</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>れは追ひ越す<lb />
 先へ行く。<lb />
 <lb />
 わけて箱根と<lb />
@@ -651,16 +651,16 @@
 たんと氣をつけ<lb />
 通りやんせ。<lb />
 <lb />
-さても<span type="ruby"><span type="rb">御無事</span><span type="rp">（</span><span type="rt">ごぶじ</span><span type="rp">）</span></span>で<lb />
+さても<seg type="ruby"><seg type="rb">御無事</seg><seg type="rp">（</seg><seg type="rt">ごぶじ</seg><seg type="rp">）</seg></seg>で<lb />
 長道中<lb />
 あがりや西京<lb />
 花ざかり。<lb />
 <lb />
 花を見ながら<lb />
-<span type="ruby"><span type="rb">御褒美</span><span type="rp">（</span><span type="rt">ごほうび</span><span type="rp">）</span></span>の<lb />
+<seg type="ruby"><seg type="rb">御褒美</seg><seg type="rp">（</seg><seg type="rt">ごほうび</seg><seg type="rp">）</seg></seg>の<lb />
 お菓子たくさん<lb />
-<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>べしやんせ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg type="ruby"><seg type="rb">食</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>べしやんせ。<lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　雲の羊<lb />
 <lb />
@@ -688,13 +688,13 @@
 うれしいな<lb />
 雲の羊に<lb />
 乘りたいな。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　口わる烏<lb />
 <lb />
 いつも學校の<lb />
 ひけどきに<lb />
-<span type="ruby"><span type="rb">口</span><span type="rp">（</span><span type="rt">くち</span><span type="rp">）</span></span>わる<span type="ruby"><span type="rb">烏</span><span type="rp">（</span><span type="rt">からす</span><span type="rp">）</span></span>が<lb />
+<seg type="ruby"><seg type="rb">口</seg><seg type="rp">（</seg><seg type="rt">くち</seg><seg type="rp">）</seg></seg>わる<seg type="ruby"><seg type="rb">烏</seg><seg type="rp">（</seg><seg type="rt">からす</seg><seg type="rp">）</seg></seg>が<lb />
 やつて來る。<lb />
 <lb />
 今日もあたいが<lb />
@@ -703,9 +703,9 @@
 知つてゐて、<lb />
 <lb />
 屋根にとまつて<lb />
-<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span><span type="ruby"><span type="rb">向</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>いて<lb />
+<seg type="ruby"><seg type="rb">下</seg><seg type="rp">（</seg><seg type="rt">した</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">向</seg><seg type="rp">（</seg><seg type="rt">む</seg><seg type="rp">）</seg></seg>いて<lb />
 大きな口で<lb />
-ガアと<span type="ruby"><span type="rb">啼</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>いた。<lb />
+ガアと<seg type="ruby"><seg type="rb">啼</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>いた。<lb />
 <lb />
 石をほうつて<lb />
 やりたいが<lb />
@@ -716,7 +716,7 @@
 甲とらう<lb />
 口わる烏が<lb />
 笑ふから。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　野原と小川<lb />
 <lb />
@@ -730,7 +730,7 @@
 赤や黄色に<lb />
 咲く花は<lb />
 青地に染めた<lb />
-<span type="ruby"><span type="rb">飛模樣</span><span type="rp">（</span><span type="rt">とびもやう</span><span type="rp">）</span></span><lb />
+<seg type="ruby"><seg type="rb">飛模樣</seg><seg type="rp">（</seg><seg type="rt">とびもやう</seg><seg type="rp">）</seg></seg><lb />
 のどかなのどかな<lb />
 五月です。<lb />
 <lb />
@@ -743,15 +743,15 @@
 <lb />
 水のおもての<lb />
 かがやきは<lb />
-<span type="ruby"><span type="rb">浮</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>き織りにした<lb />
+<seg type="ruby"><seg type="rb">浮</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>き織りにした<lb />
 銀の糸<lb />
 のどかなのどかな<lb />
 五月です。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　足柄山<lb />
 <lb />
-<span type="ruby"><span type="rb">足柄山</span><span type="rp">（</span><span type="rt">あしがらやま</span><span type="rp">）</span></span>の<lb />
+<seg type="ruby"><seg type="rb">足柄山</seg><seg type="rp">（</seg><seg type="rt">あしがらやま</seg><seg type="rp">）</seg></seg>の<lb />
 かすみは深い<lb />
 山道すつかり<lb />
 かくれてしもた。<lb />
@@ -760,7 +760,7 @@
 困つてしもた<lb />
 仕方がないから<lb />
 おういと呼んだ<lb />
-まつかな<span type="ruby"><span type="rb">顏</span><span type="rp">（</span><span type="rt">かほ</span><span type="rp">）</span></span>して<lb />
+まつかな<seg type="ruby"><seg type="rb">顏</seg><seg type="rp">（</seg><seg type="rt">かほ</seg><seg type="rp">）</seg></seg>して<lb />
 おういと呼んだ。<lb />
 <lb />
 するとのつそり<lb />
@@ -774,21 +774,21 @@
 かすみは深い<lb />
 山道すつかり<lb />
 かくれてしもた。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　ふしぎな人形<lb />
 <lb />
 銀のお月さま<lb />
 かたいかな<lb />
 かたくないなら<lb />
-<span type="ruby"><span type="rb">小刀</span><span type="rp">（</span><span type="rt">こがたな</span><span type="rp">）</span></span>で<lb />
+<seg type="ruby"><seg type="rb">小刀</seg><seg type="rp">（</seg><seg type="rt">こがたな</seg><seg type="rp">）</seg></seg>で<lb />
 ぼくは人形が<lb />
 きざみたい。<lb />
 <lb />
 できたら星を<lb />
 目にはめて<lb />
-夕日の<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">べに</span><span type="rp">）</span></span>を<lb />
-<span type="ruby"><span type="rb">口</span><span type="rp">（</span><span type="rt">くち</span><span type="rp">）</span></span>にさし<lb />
+夕日の<seg type="ruby"><seg type="rb">紅</seg><seg type="rp">（</seg><seg type="rt">べに</seg><seg type="rp">）</seg></seg>を<lb />
+<seg type="ruby"><seg type="rb">口</seg><seg type="rp">（</seg><seg type="rt">くち</seg><seg type="rp">）</seg></seg>にさし<lb />
 雲をちぎつて<lb />
 髮にする。<lb />
 <lb />
@@ -798,11 +798,11 @@
 ほしがるが<lb />
 ぼくはだいじに<lb />
 しまつとく。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　自動車<lb />
 <lb />
-花の<span type="ruby"><span type="rb">小徑</span><span type="rp">（</span><span type="rt">こみち</span><span type="rp">）</span></span>を<lb />
+花の<seg type="ruby"><seg type="rb">小徑</seg><seg type="rp">（</seg><seg type="rt">こみち</seg><seg type="rp">）</seg></seg>を<lb />
 走るのは<lb />
 おもちやの赤い<lb />
 自動車よ。<lb />
@@ -821,23 +821,23 @@
 ばらばかり<lb />
 さも乘りたそに<lb />
 のびあがる。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　五つの色<lb />
 <lb />
-<span type="ruby"><span type="rb">今朝</span><span type="rp">（</span><span type="rt">けさ</span><span type="rp">）</span></span>のお<span type="ruby"><span type="rb">膳</span><span type="rp">（</span><span type="rt">ぜん</span><span type="rp">）</span></span>は<lb />
+<seg type="ruby"><seg type="rb">今朝</seg><seg type="rp">（</seg><seg type="rt">けさ</seg><seg type="rp">）</seg></seg>のお<seg type="ruby"><seg type="rb">膳</seg><seg type="rp">（</seg><seg type="rt">ぜん</seg><seg type="rp">）</seg></seg>は<lb />
 きれいだな<lb />
 五つの色が<lb />
 ならんでる。<lb />
 <lb />
 赤い梅ぼし<lb />
-黒い<span type="ruby"><span type="rb">海苔</span><span type="rp">（</span><span type="rt">のり</span><span type="rp">）</span></span><lb />
+黒い<seg type="ruby"><seg type="rb">海苔</seg><seg type="rp">（</seg><seg type="rt">のり</seg><seg type="rp">）</seg></seg><lb />
 燒いた玉子は<lb />
-まつ<span type="ruby"><span type="rb">黄色</span><span type="rp">（</span><span type="rt">きいろ</span><span type="rp">）</span></span>。<lb />
+まつ<seg type="ruby"><seg type="rb">黄色</seg><seg type="rp">（</seg><seg type="rt">きいろ</seg><seg type="rp">）</seg></seg>。<lb />
 <lb />
-<span type="ruby"><span type="rb">御飯</span><span type="rp">（</span><span type="rt">ごはん</span><span type="rp">）</span></span>は白く<lb />
+<seg type="ruby"><seg type="rb">御飯</seg><seg type="rp">（</seg><seg type="rt">ごはん</seg><seg type="rp">）</seg></seg>は白く<lb />
 味噌汁に<lb />
-<span type="ruby"><span type="rb">浮</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>いて青いは<lb />
+<seg type="ruby"><seg type="rb">浮</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>いて青いは<lb />
 ほうれんさう。<lb />
 <lb />
 おとぎばなしの<lb />
@@ -849,11 +849,11 @@
 よろこんで<lb />
 五つの色に<lb />
 見とれたよ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　ねむり姫<lb />
 <lb />
-<span type="ruby"><span type="rb">黄金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>のお城の<lb />
+<seg type="ruby"><seg type="rb">黄金</seg><seg type="rp">（</seg><seg type="rt">きん</seg><seg type="rp">）</seg></seg>のお城の<lb />
 ねむり姫<lb />
 ねむつたままで<lb />
 かはいさう。<lb />
@@ -873,11 +873,11 @@
 三年三月<lb />
 ねてしもた。<lb />
 <lb />
-<span type="ruby"><span type="rb">黄金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>のお城の<lb />
+<seg type="ruby"><seg type="rb">黄金</seg><seg type="rp">（</seg><seg type="rt">きん</seg><seg type="rp">）</seg></seg>のお城の<lb />
 ねむり姫<lb />
 魔法をといて<lb />
 あげたいな。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　押しくらまんぢゆう<lb />
 <lb />
@@ -898,11 +898,11 @@
 <lb />
 押しくらまんぢゆう<lb />
 ぎゆう　ぎゆう　ぎゆう。<lb />
-苦しい<span type="ruby"><span type="rb">痛</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>いで<lb />
+苦しい<seg type="ruby"><seg type="rb">痛</seg><seg type="rp">（</seg><seg type="rt">いた</seg><seg type="rp">）</seg></seg>いで<lb />
 飛び出すな<lb />
 つぶれたまんぢゆう<lb />
 しやうがない。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　さくらと雀<lb />
 <lb />
@@ -926,7 +926,7 @@
 うれしいか<lb />
 ちよんちよん雀は<lb />
 ちよんと飛ぶ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　白いマント<lb />
 <lb />
@@ -949,12 +949,12 @@
 春風が<lb />
 どつかへ隱して<lb />
 知らぬ顏、おや、知らぬ顏。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　いい毛布<lb />
 <lb />
 春の野原は<lb />
-いい<span type="ruby"><span type="rb">毛布</span><span type="rp">（</span><span type="rt">けつと</span><span type="rp">）</span></span><lb />
+いい<seg type="ruby"><seg type="rb">毛布</seg><seg type="rp">（</seg><seg type="rt">けつと</seg><seg type="rp">）</seg></seg><lb />
 草はやさしく<lb />
 やはらかい<lb />
 ごろんと横に<lb />
@@ -976,12 +976,12 @@
 かいでれば<lb />
 うとうといつか<lb />
 花のゆめ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　お菓子<lb />
 <lb />
 わたしがもしも王子なら<lb />
-<span type="ruby"><span type="rb">家來</span><span type="rp">（</span><span type="rt">けらい</span><span type="rp">）</span></span>を呼んで云ひつけよう。<lb />
+<seg type="ruby"><seg type="rb">家來</seg><seg type="rp">（</seg><seg type="rt">けらい</seg><seg type="rp">）</seg></seg>を呼んで云ひつけよう。<lb />
 <lb />
 子供をみんなつれて來て<lb />
 おいしいお菓子を分けてやれ。<lb />
@@ -990,15 +990,15 @@
 たくさんたくさん分けてやれ。<lb />
 <lb />
 けれど、わたしは王子ぢやない<lb />
-お菓子屋の<span type="ruby"><span type="rb">店</span><span type="rp">（</span><span type="rt">みせ</span><span type="rp">）</span></span>の前に立ち、<lb />
+お菓子屋の<seg type="ruby"><seg type="rb">店</seg><seg type="rp">（</seg><seg type="rt">みせ</seg><seg type="rp">）</seg></seg>の前に立ち、<lb />
 <lb />
 今日もお菓子に見とれては<lb />
 さういふことを思ふだけ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　手紙<lb />
 <lb />
-<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ歸れば<lb />
+<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ歸れば<lb />
 机のうへに<lb />
 そつとのつてる<lb />
 手紙が一つ。<lb />
@@ -1013,27 +1013,27 @@
 御用意なされ<lb />
 たく候。<lb />
 <lb />
-出したお<span type="ruby"><span type="rb">方</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>は<lb />
+出したお<seg type="ruby"><seg type="rb">方</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>は<lb />
 神さまだらう<lb />
 冬の來たのを<lb />
 知らせる手紙。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　巨きな百合<lb />
 <lb />
-とても<span type="ruby"><span type="rb">巨</span><span type="rp">（</span><span type="rt">おほ</span><span type="rp">）</span></span>きな<lb />
+とても<seg type="ruby"><seg type="rb">巨</seg><seg type="rp">（</seg><seg type="rt">おほ</seg><seg type="rp">）</seg></seg>きな<lb />
 白い百合<lb />
 なかには露が<lb />
 たまつてる。<lb />
 <lb />
 ぼくははだかに<lb />
 なつちやつて<lb />
-露の<span type="ruby"><span type="rb">水風呂</span><span type="rp">（</span><span type="rt">みづぶろ</span><span type="rp">）</span></span><lb />
+露の<seg type="ruby"><seg type="rb">水風呂</seg><seg type="rp">（</seg><seg type="rt">みづぶろ</seg><seg type="rp">）</seg></seg><lb />
 つかふんだ。<lb />
 <lb />
 花のにほひの<lb />
 とけこんだ<lb />
-露は<span type="ruby"><span type="rb">身體</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>に<lb />
+露は<seg type="ruby"><seg type="rb">身體</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>に<lb />
 しむだらう。<lb />
 <lb />
 ぼくは顏だけ<lb />
@@ -1045,7 +1045,7 @@
 白い百合<lb />
 咲いてるとこを<lb />
 知らないか。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　芒と月<lb />
 <lb />
@@ -1060,7 +1060,7 @@
 みなまねく。<lb />
 <lb />
 さつさ、まねけば<lb />
-<span type="ruby"><span type="rb">雲</span><span type="rp">（</span><span type="rt">くも</span><span type="rp">）</span></span>のかげ<lb />
+<seg type="ruby"><seg type="rb">雲</seg><seg type="rp">（</seg><seg type="rt">くも</seg><seg type="rp">）</seg></seg>のかげ<lb />
 月がちらりと<lb />
 顏出した。<lb />
 <lb />
@@ -1068,7 +1068,7 @@
 出した顏<lb />
 にこにこわらつて<lb />
 まんまるい。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　青いかげ<lb />
 <lb />
@@ -1084,7 +1084,7 @@
 心にもさす<lb />
 青いかげ<lb />
 心がひつそり<lb />
-澄んで<span type="ruby"><span type="rb">來</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>る。<lb />
+澄んで<seg type="ruby"><seg type="rb">來</seg><seg type="rp">（</seg><seg type="rt">く</seg><seg type="rp">）</seg></seg>る。<lb />
 <lb />
 青いね、青いね、<lb />
 森のなか<lb />
@@ -1092,7 +1092,7 @@
 來てみよね<lb />
 なんだかふしぎな<lb />
 ところだね。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　秋風<lb />
 <lb />
@@ -1106,7 +1106,7 @@
 立ててひつそり<lb />
 聞いたらう。<lb />
 <lb />
-山の<span type="ruby"><span type="rb">小萩</span><span type="rp">（</span><span type="rt">こはぎ</span><span type="rp">）</span></span>は<lb />
+山の<seg type="ruby"><seg type="rb">小萩</seg><seg type="rp">（</seg><seg type="rt">こはぎ</seg><seg type="rp">）</seg></seg>は<lb />
 ほろほろと<lb />
 花をこぼして<lb />
 吹かれたらう。<lb />
@@ -1115,7 +1115,7 @@
 秋風よ<lb />
 山から吹いて<lb />
 さびしいよ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　ほんとにしないけど<lb />
 <lb />
@@ -1136,14 +1136,14 @@
 みんなはほんとにしないけど<lb />
 ぼくはたしかに知つてゐる。<lb />
 <lb />
-その子はぼくを<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>いてゐて<lb />
+その子はぼくを<seg type="ruby"><seg type="rb">好</seg><seg type="rp">（</seg><seg type="rt">す</seg><seg type="rp">）</seg></seg>いてゐて<lb />
 鈴を鳴らしてうれしそに<lb />
 おいでおいでと誘ふんだ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　おとぎばなし<lb />
 <lb />
-おとぎばなしを<span type="ruby"><span type="rb">探</span><span type="rp">（</span><span type="rt">さが</span><span type="rp">）</span></span>さうと<lb />
+おとぎばなしを<seg type="ruby"><seg type="rb">探</seg><seg type="rp">（</seg><seg type="rt">さが</seg><seg type="rp">）</seg></seg>さうと<lb />
 町へ出かけてみたけれど<lb />
 町はほんとにつまらない。<lb />
 <lb />
@@ -1151,7 +1151,7 @@
 青いあひるのやうだけど<lb />
 金の卵は生まないし<lb />
 <lb />
-<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>の大きなビルデイング<lb />
+<seg type="ruby"><seg type="rb">角</seg><seg type="rp">（</seg><seg type="rt">かど</seg><seg type="rp">）</seg></seg>の大きなビルデイング<lb />
 お城のやうだが窓からは<lb />
 さびしい王子は見てないし<lb />
 <lb />
@@ -1162,28 +1162,28 @@
 やつぱり庭の芝のうへ<lb />
 空を見ながらねころべば<lb />
 おとぎばなしは見つかるよ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　雪<lb />
 <lb />
-<span type="ruby"><span type="rb">吹雪</span><span type="rp">（</span><span type="rt">ふぶき</span><span type="rp">）</span></span>の山でまた一人<lb />
+<seg type="ruby"><seg type="rb">吹雪</seg><seg type="rp">（</seg><seg type="rt">ふぶき</seg><seg type="rp">）</seg></seg>の山でまた一人<lb />
 死んだと出てる新聞を<lb />
 見ながらぼくは思つてた。<lb />
 <lb />
-山の<span type="ruby"><span type="rb">獸</span><span type="rp">（</span><span type="rt">けもの</span><span type="rp">）</span></span>はそんな日に<lb />
+山の<seg type="ruby"><seg type="rb">獸</seg><seg type="rp">（</seg><seg type="rt">けもの</seg><seg type="rp">）</seg></seg>はそんな日に<lb />
 すみかの穴にかたまつて<lb />
 親子で吹雪を聞くのかな。<lb />
 <lb />
-だけども<span type="ruby"><span type="rb">餌</span><span type="rp">（</span><span type="rt">えさ</span><span type="rp">）</span></span>をとりに行き<lb />
+だけども<seg type="ruby"><seg type="rb">餌</seg><seg type="rp">（</seg><seg type="rt">えさ</seg><seg type="rp">）</seg></seg>をとりに行き<lb />
 死んぢやうこともありさうだ<lb />
 けれど新聞にや出やしない。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　月<lb />
 <lb />
 月がほしいと<lb />
 泣きながら<lb />
-<span type="ruby"><span type="rb">背</span><span type="rp">（</span><span type="rt">せな</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">赤兒</span><span type="rp">（</span><span type="rt">あかご</span><span type="rp">）</span></span>は<lb />
+<seg type="ruby"><seg type="rb">背</seg><seg type="rp">（</seg><seg type="rt">せな</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">赤兒</seg><seg type="rp">（</seg><seg type="rt">あかご</seg><seg type="rp">）</seg></seg>は<lb />
 手をのばす。<lb />
 <lb />
 あれは取れぬと<lb />
@@ -1192,22 +1192,22 @@
 脊ゆする。<lb />
 <lb />
 だけど子守も<lb />
-つい<span type="ruby"><span type="rb">昨夜</span><span type="rp">（</span><span type="rt">ゆふべ</span><span type="rp">）</span></span><lb />
+つい<seg type="ruby"><seg type="rb">昨夜</seg><seg type="rp">（</seg><seg type="rt">ゆふべ</seg><seg type="rp">）</seg></seg><lb />
 月を見てたら<lb />
 かなしくて<lb />
 <lb />
-<span type="ruby"><span type="rb">郷里</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>に歸つて<lb />
+<seg type="ruby"><seg type="rb">郷里</seg><seg type="rp">（</seg><seg type="rt">くに</seg><seg type="rp">）</seg></seg>に歸つて<lb />
 行きたいと<lb />
 泣いてせがんで<lb />
 ゐたさうな。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　花<lb />
 <lb />
 三日の雨に<lb />
 しとしと雨に<lb />
 さくらの花の<lb />
-うす<span type="ruby"><span type="rb">紅色</span><span type="rp">（</span><span type="rt">べにいろ</span><span type="rp">）</span></span>は<lb />
+うす<seg type="ruby"><seg type="rb">紅色</seg><seg type="rp">（</seg><seg type="rt">べにいろ</seg><seg type="rp">）</seg></seg>は<lb />
 すつかりさめた。<lb />
 <lb />
 五日の風に<lb />
@@ -1221,13 +1221,13 @@
 さくらの花の<lb />
 散りしくうへに<lb />
 しらじら照つた。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　とんてんかん<lb />
 <lb />
-<span type="ruby"><span type="rb">鍛冶屋</span><span type="rp">（</span><span type="rt">かぢや</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">小僧</span><span type="rp">（</span><span type="rt">こぞう</span><span type="rp">）</span></span>さん<lb />
+<seg type="ruby"><seg type="rb">鍛冶屋</seg><seg type="rp">（</seg><seg type="rt">かぢや</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">小僧</seg><seg type="rp">（</seg><seg type="rt">こぞう</seg><seg type="rp">）</seg></seg>さん<lb />
 はだかんぼ<lb />
-春の<span type="ruby"><span type="rb">日永</span><span type="rp">（</span><span type="rt">ひなが</span><span type="rp">）</span></span>を<lb />
+春の<seg type="ruby"><seg type="rb">日永</seg><seg type="rp">（</seg><seg type="rt">ひなが</seg><seg type="rp">）</seg></seg>を<lb />
 とんてんかん。<lb />
 <lb />
 窓のさくらは<lb />
@@ -1249,15 +1249,15 @@
 ほそ腕に<lb />
 力をこめて<lb />
 とんてんかん。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　岐阜提灯<lb />
 <lb />
 しんとん　とろり<lb />
-<span type="ruby"><span type="rb">岐阜提灯</span><span type="rp">（</span><span type="rt">ぎふちやうちん</span><span type="rp">）</span></span><lb />
+<seg type="ruby"><seg type="rb">岐阜提灯</seg><seg type="rp">（</seg><seg type="rt">ぎふちやうちん</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 岐阜提灯に<lb />
-<span type="ruby"><span type="rb">灯</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>をつけよう<lb />
+<seg type="ruby"><seg type="rb">灯</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>をつけよう<lb />
 つけりや水いろ<lb />
 夢のいろ<lb />
 ぼんやり照らす<lb />
@@ -1272,7 +1272,7 @@
 眺めてりや<lb />
 しづかな夢を<lb />
 見てるやう。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　おるすばん<lb />
 <lb />
@@ -1291,16 +1291,16 @@
 起きりやうれしい<lb />
 まくらもと。<lb />
 <lb />
-<span rend="SESAME_DOT" rendition="strong">おみやが</span>たんと<lb />
+<seg rend="SESAME_DOT" rendition="strong">おみやが</seg>たんと<lb />
 もらへるの<lb />
 泣かずにるすばん<lb />
 するからよ。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　泥の鳩<lb />
 <lb />
-おもちやの<span type="ruby"><span type="rb">鳩</span><span type="rp">（</span><span type="rt">はと</span><span type="rp">）</span></span>は<lb />
-<span type="ruby"><span type="rb">泥</span><span type="rp">（</span><span type="rt">どろ</span><span type="rp">）</span></span>の鳩<lb />
+おもちやの<seg type="ruby"><seg type="rb">鳩</seg><seg type="rp">（</seg><seg type="rt">はと</seg><seg type="rp">）</seg></seg>は<lb />
+<seg type="ruby"><seg type="rb">泥</seg><seg type="rp">（</seg><seg type="rt">どろ</seg><seg type="rp">）</seg></seg>の鳩<lb />
 羽根はあつても<lb />
 飛べぬ鳩<lb />
 吹かなきや鳴かぬ<lb />
@@ -1319,7 +1319,7 @@
 好きな鳩<lb />
 なかよくいつも<lb />
 あそぶ鳩。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　白い百合<lb />
 <lb />
@@ -1333,16 +1333,16 @@
 すぐにありかが<lb />
 見つかつて<lb />
 <lb />
-<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">羽蟲</span><span type="rp">（</span><span type="rt">はむし</span><span type="rp">）</span></span>が<lb />
+<seg type="ruby"><seg type="rb">金</seg><seg type="rp">（</seg><seg type="rt">きん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">羽蟲</seg><seg type="rp">（</seg><seg type="rt">はむし</seg><seg type="rp">）</seg></seg>が<lb />
 五匹づれ<lb />
-かさこそ<span type="ruby"><span type="rb">分</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>ける<lb />
+かさこそ<seg type="ruby"><seg type="rb">分</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>ける<lb />
 草のなか。<lb />
 <lb />
 花に近づき<lb />
 みんなして<lb />
 ほめそやしたよ<lb />
 白い百合。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　　父さんのマント<lb />
 <lb />
@@ -1367,6 +1367,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

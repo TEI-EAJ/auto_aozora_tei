@@ -12,7 +12,7 @@
 底本：「新修宮沢賢治全集　第六巻」筑摩書房<lb />
 　　　1980（昭和55）年2月15日初版第1刷発行<lb />
 ※〔〕付きの表題は、底本編集時におぎなわれたものです。<lb />
-※底本は表題に、「〔われらが<span type="ruby"><span type="rb">書</span><span type="rp">（</span><span type="rt">ふみ</span><span type="rp">）</span></span>に順ひて〕」とルビを付しています。<lb />
+※底本は表題に、「〔われらが<seg type="ruby"><seg type="rb">書</seg><seg type="rp">（</seg><seg type="rt">ふみ</seg><seg type="rp">）</seg></seg>に順ひて〕」とルビを付しています。<lb />
 入力：junk<lb />
 校正：土屋隆<lb />
 <date when="2011-05-14">2011年5月14日</date>作成<lb />
@@ -33,12 +33,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-われらが<span type="ruby"><span type="rb">書</span><span type="rp">（</span><span type="rt">ふみ</span><span type="rp">）</span></span>に順ひて<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+われらが<seg type="ruby"><seg type="rb">書</seg><seg type="rp">（</seg><seg type="rt">ふみ</seg><seg type="rp">）</seg></seg>に順ひて<lb />
 その三稜の壇に立ち<lb />
 クラリネットとオボーもて<lb />
 七たび青くひらめける<lb />
-四連音符をつゞけ<span type="ruby"><span type="rb">奏</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>し<lb />
+四連音符をつゞけ<seg type="ruby"><seg type="rb">奏</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>し<lb />
 あたり雨降るけしきにて<lb />
 ひたすら吹けるそのときに<lb />
 いつかわれらの前に立ち<lb />
@@ -49,6 +49,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

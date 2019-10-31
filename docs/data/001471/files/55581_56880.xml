@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 夕ぐれのあかるさ<lb />
 パッと室一杯にあふれて<lb />
 十六燭の電灯のあかるさなど<lb />
@@ -80,7 +80,7 @@
 国際的には威喝　掠奪　戦争などが盛んであり<lb />
 ただもう<lb />
 ぶっちぢめろ　ぶっちぢめろ<lb />
-とちぢめられた虐げられ<span type="ruby"><span type="rb">悔</span><span type="rp">（</span><span type="rt">あなど</span><span type="rp">）</span></span>られた<lb />
+とちぢめられた虐げられ<seg type="ruby"><seg type="rb">悔</seg><seg type="rp">（</seg><seg type="rt">あなど</seg><seg type="rp">）</seg></seg>られた<lb />
 人民の群がちっちゃく住んでいるのだ。<lb />
 だから思う存分<lb />
 伸々とあのような広い空さえ見つける<lb />
@@ -88,6 +88,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

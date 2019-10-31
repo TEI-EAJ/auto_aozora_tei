@@ -36,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -89,7 +89,7 @@
 <lb />
 日毎の業にいそしみて<lb />
 　　心にさそふる雲もなく<lb />
-昔の聖　今の<span type="ruby"><span type="rb">大人</span><span type="rp">（</span><span type="rt">うし</span><span type="rp">）</span></span><lb />
+昔の聖　今の<seg type="ruby"><seg type="rb">大人</seg><seg type="rp">（</seg><seg type="rt">うし</seg><seg type="rp">）</seg></seg><lb />
 　　友とぞなしていそしまば<lb />
 アー　是れ　是れ　是れ<lb />
 　　是れこそ楽しき極みなれ。<lb />
@@ -123,6 +123,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

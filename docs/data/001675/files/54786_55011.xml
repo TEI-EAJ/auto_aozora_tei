@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 南から帰った兵隊が<lb />
 おれたちの班に入ってきた<lb />
 マラリヤがなおるまでいるのだそうな<lb />
@@ -43,7 +43,7 @@
 その種子を手にして説明をまった<lb />
 <lb />
 これがマンゴウの種子<lb />
-<span type="ruby"><span type="rb">樟</span><span type="rp">（</span><span type="rt">くすのき</span><span type="rp">）</span></span>のような大木に<lb />
+<seg type="ruby"><seg type="rb">樟</seg><seg type="rp">（</seg><seg type="rt">くすのき</seg><seg type="rp">）</seg></seg>のような大木に<lb />
 まっ赤な大きな実がなるという<lb />
 これがドリアンの種子<lb />
 ああこのうまさといったら<lb />
@@ -57,6 +57,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

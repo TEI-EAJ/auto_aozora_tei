@@ -31,9 +31,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 お馬がかへる<lb />
-<span type="ruby"><span type="rb">鑛山</span><span type="rp">（</span><span type="rt">やま</span><span type="rp">）</span></span>からかへる<lb />
+<seg type="ruby"><seg type="rb">鑛山</seg><seg type="rp">（</seg><seg type="rt">やま</seg><seg type="rp">）</seg></seg>からかへる<lb />
 さくらの花を<lb />
 鞍につけて<lb />
 <lb />
@@ -44,6 +44,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

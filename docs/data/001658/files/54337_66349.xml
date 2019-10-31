@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-10-24">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 底本の親本：「沖縄毎日新聞」<lb />
 　　　1909（明治42）年5月4日<lb />
@@ -35,15 +35,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 午後三時日は傾きぬ<lb />
-<span type="ruby"><span type="rb">松山</span><span type="rp">（</span><span type="rt">まつやま</span><span type="rp">）</span></span>の女子部のほとり<lb />
-<span type="ruby"><span type="rb">三年</span><span type="rp">（</span><span type="rt">みとせ</span><span type="rp">）</span></span>ぶり恋人<span type="ruby"><span type="rb">訪</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>ひぬ、<lb />
+<seg type="ruby"><seg type="rb">松山</seg><seg type="rp">（</seg><seg type="rt">まつやま</seg><seg type="rp">）</seg></seg>の女子部のほとり<lb />
+<seg type="ruby"><seg type="rb">三年</seg><seg type="rp">（</seg><seg type="rt">みとせ</seg><seg type="rp">）</seg></seg>ぶり恋人<seg type="ruby"><seg type="rb">訪</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>ひぬ、<lb />
 「何ぜ君は訪ひ給はざる」<lb />
-かくうらむ<span type="ruby"><span type="rb">彼女</span><span type="rp">（</span><span type="rt">かれ</span><span type="rp">）</span></span>は「人妻」<lb />
+かくうらむ<seg type="ruby"><seg type="rb">彼女</seg><seg type="rp">（</seg><seg type="rt">かれ</seg><seg type="rp">）</seg></seg>は「人妻」<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

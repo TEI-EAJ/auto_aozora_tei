@@ -36,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -48,7 +48,7 @@
 　二つ以上の脚本を同時に上演する場合には、幕数の比例によつて上演料を決定する。<lb />
 　コメディー・フランセーズでは、上演料は全収入の十五パーセントであるが、之に対する上演科の割合が左の通り規定してある。<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 四乃至五幕――七┐<lb />
 三幕―――――四├十五パーセント<lb />
 三幕―――――四┘<lb />
@@ -86,7 +86,7 @@
 一乃至二幕――三・四分ノ三│<lb />
 一乃至二幕――三・四分ノ三├十五％<lb />
 一乃至二幕――三・四分ノ三┘<lb />
-</span>
+</seg>
 <lb />
 　此の場合、上演料を支払はない脚本（即ち公衆の所有に帰したもの）があれば、その分の収入は劇場の収入になる。<lb />
 　作者の同意又は許可なくして、その作品を上演したる劇場主は興行者に対しては、刑法第四百二十八条により、五十法以上五百法以下の罰金に処し且つ収入を没収する規定になつてゐる。<lb />
@@ -94,6 +94,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-03-26">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：フクポー<lb />
@@ -31,15 +31,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 理髪師を出張させた<lb />
 くる／＼と髪を刈つたのである<lb />
 春愁の髯を剃つた<lb />
-青々と<span type="ruby"><span type="rb">坊主頭</span><span type="rp">（</span><span type="rt">ぼうずあたま</span><span type="rp">）</span></span>になつたのである<lb />
+青々と<seg type="ruby"><seg type="rb">坊主頭</seg><seg type="rp">（</seg><seg type="rt">ぼうずあたま</seg><seg type="rp">）</seg></seg>になつたのである<lb />
 出家になつたのである。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

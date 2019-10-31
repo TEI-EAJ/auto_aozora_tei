@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -47,7 +47,7 @@
 <lb />
 たけにぐさの群落にも<lb />
 風が吹いてゐるといふことである<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　眼にて云ふ<lb />
 <lb />
@@ -78,7 +78,7 @@
 わたくしから見えるのは<lb />
 やっぱりきれいな青ぞらと<lb />
 すきとほった風ばかりです。<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔ひるすぎの三時となれば〕<lb />
 <lb />
@@ -91,7 +91,7 @@
 やがてまばゆきその雨の<lb />
 杉と榊を洗ひつゝ<lb />
 降りて夜明けに至るなれ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔熱たち胸もくらけれど〕<lb />
 <lb />
@@ -100,7 +100,7 @@
 白き石粉をうちあふぎ<lb />
 にがき草根をうち噛みて<lb />
 などてふたゝび起たでやむべき<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔わが胸いまは青じろき〕<lb />
 <lb />
@@ -110,7 +110,7 @@
 とは云へかなたすこやけき<lb />
 億の呼吸のなべてこそ<lb />
 うららけきわが春のいぶきならずや<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　熱またあり<lb />
 <lb />
@@ -129,7 +129,7 @@
 散乱のわが心相よ<lb />
 あつまりてしづにやすらへ<lb />
 あしたこそ燃ゆべきものを<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔そのうす青き玻璃の器に〕<lb />
 <lb />
@@ -139,21 +139,21 @@
 まことや菩薩わがために<lb />
 血もてつぐなひあがなひし<lb />
 水とよばるゝそれにこそ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　名声<lb />
 <lb />
 <lb />
 なべてのまこといつはりを<lb />
 たゞそのまゝにしろしめす<lb />
-正<span change="gaiji" facs="../../../gaiji/1-84/1-84-34.png" rend="gaiji" rendition="img" source="※(「彳＋扁」、第3水準1-84-34)" />知をぞ恐るべく<lb />
+正<seg change="gaiji" facs="../../../gaiji/1-84/1-84-34.png" rend="gaiji" rendition="img" source="※(「彳＋扁」、第3水準1-84-34)" />知をぞ恐るべく<lb />
 人に知らるゝことな求めそ<lb />
 <lb />
 また名を得んに十万の<lb />
 諸仏のくにに充ちみてる<lb />
 天と菩薩をおもふべく<lb />
 黒き活字をうちねがはざれ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔春来るともなほわれの〕<lb />
 <lb />
@@ -169,7 +169,7 @@
 稲の根赤く錆びにたる<lb />
 湯気たつ土の一かけを<lb />
 とり来てわれに示さずや<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔今宵南の風吹けば〕<lb />
 <lb />
@@ -193,13 +193,13 @@
 醒ますがごとくその鐘の<lb />
 汗となやみに硬ばりし<lb />
 わがうつそみをうち過ぐる<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔熱とあへぎをうつゝなみ〕<lb />
 <lb />
 <lb />
 熱とあへぎをうつゝなみ<lb />
-<span type="ruby"><span type="rb">死</span><span type="rp">（</span><span type="rt">しに</span><span type="rp">）</span></span>のさかひをまどろみし<lb />
+<seg type="ruby"><seg type="rb">死</seg><seg type="rp">（</seg><seg type="rt">しに</seg><seg type="rp">）</seg></seg>のさかひをまどろみし<lb />
 このよもすがらひねもすを<lb />
 さこそはまもり給ひしか<lb />
 <lb />
@@ -222,10 +222,10 @@
 はてなき業の児らゆゑに<lb />
 みまゆに雲のうれひして<lb />
 さこそはしづに居りたまふ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔わが胸はいまや蝕み〕<lb />
-<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">一九二八ヽ一二ヽ</span>
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">一九二八ヽ一二ヽ</seg>
 <lb />
 わが胸はいまや蝕み<lb />
 わがのんど熱く燃えたり<lb />
@@ -234,7 +234,7 @@
 あゝきみもさかなの歯して<lb />
 青々とうちもわらへる<lb />
 その群のひとりなりけり<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　Ｓ博士に<lb />
 <lb />
@@ -253,7 +253,7 @@
 奇蹟はわれが分ならず<lb />
 たゞ知りたまへちゝはゝに<lb />
 そむけるはかくさびしく死する<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔美しき夕陽の色なして〕<lb />
 <lb />
@@ -261,7 +261,7 @@
 美しき夕陽の色なして<lb />
 一つの呼気は一年を<lb />
 わが上方に展くなり<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔まどろみ過ぐる百年は〕<lb />
 <lb />
@@ -271,7 +271,7 @@
 <lb />
 いまわれやみてわがいのち<lb />
 いつともしらぬ今日なれば<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔疾いま革まり来て〕<lb />
 <lb />
@@ -280,7 +280,7 @@
 わが額に死の気配あり<lb />
 <lb />
 いざさらばわが業のまゝ<lb />
-いづくにもふたゝび<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>れん<lb />
+いづくにもふたゝび<seg type="ruby"><seg type="rb">生</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>れん<lb />
 <lb />
 たゞひたにうちねがへるは<lb />
 すこやけき身をこそ受けて<lb />
@@ -292,13 +292,13 @@
 すなほなるこゝろをもちて<lb />
 よろこばんその性を得ん<lb />
 <lb />
-さらばいざ<span type="ruby"><span type="rb">死</span><span type="rp">（</span><span type="rt">しに</span><span type="rp">）</span></span>よとり行け<lb />
+さらばいざ<seg type="ruby"><seg type="rb">死</seg><seg type="rp">（</seg><seg type="rt">しに</seg><seg type="rp">）</seg></seg>よとり行け<lb />
 この世にてわが経ざりける<lb />
 数々の快楽の列は<lb />
 われよりも美しけきひとの<lb />
 すこやかにうちも得ななん<lb />
 そのことぞいとゞたのしき<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔手は熱く足はなゆれど〕<lb />
 <lb />
@@ -310,7 +310,7 @@
 をちこちに美ゆくも成りて<lb />
 燦々と暗をてらせる<lb />
 その塔のすがたかしこし<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔あゝ今日ここに果てんとや〕<lb />
 <lb />
@@ -324,7 +324,7 @@
 もだえの血をば吐きながら<lb />
 たゞねがふらく蝕みし<lb />
 この身捧げん壇あれと<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔その恐ろしい黒雲が〕<lb />
 <lb />
@@ -355,7 +355,7 @@
 きみはかゞやく穹窿や<lb />
 透明な風　野原や森の<lb />
 この恐るべき他の面を知るか<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 〔丁丁丁丁丁〕<lb />
 <lb />
@@ -381,7 +381,7 @@
 もうもうあがる蒸気のなかに<lb />
 香ばしく息づいて泛ぶ<lb />
 巨きな花の蕾がある<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　病<lb />
 <lb />
@@ -402,7 +402,7 @@
 そんならかういふ考へてるのがおれかと云って<lb />
 それはそれだけたゞありふれた反応で<lb />
 おれだかなんだかわからない<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔眠らう眠らうとあせりながら〕<lb />
 <lb />
@@ -419,7 +419,7 @@
 きれいな初冬の空気のなかを<lb />
 石切たちの一むれと<lb />
 大沢坂峠をのぼってゐた<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔風がおもてで呼んでゐる〕<lb />
 <lb />
@@ -442,7 +442,7 @@
 約束通り結婚しろ」と<lb />
 繰り返し繰り返し<lb />
 風がおもてで叫んでゐる<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔胸はいま〕<lb />
 <lb />
@@ -455,7 +455,7 @@
 爬虫がどれか鳥の形にかはるまで<lb />
 じっとうごかず<lb />
 寝てゐなければならないのか<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔こんなにも切なく〕<lb />
 <lb />
@@ -471,7 +471,7 @@
 　（モシャさんあなたのでない？）<lb />
 返事がなくて<lb />
 ぽろんと一音ハープが鳴る<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔まなこをひらけば四月の風が〕<lb />
 <lb />
@@ -489,10 +489,10 @@
 いままたひたひを過ぎ行くものは<lb />
 あの死火山のいたゞきの<lb />
 清麗な一列の風だ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　夜<lb />
-<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">一九二九ヽ四ヽ二八ヽ</span>
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">一九二九ヽ四ヽ二八ヽ</seg>
 <lb />
 これで二時間<lb />
 咽喉からの血はとまらない<lb />
@@ -508,7 +508,7 @@
 またなまぬるく<lb />
 あたらしい血が湧くたび<lb />
 なほほのじろくわたくしはおびえる<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　病中<lb />
 <lb />
@@ -528,7 +528,7 @@
 　　　睡たい<lb />
 睡たいからって睡ってしまへば死ぬのだらう<lb />
 まさに発奮努力して<lb />
-断じて眼を！　眼を<span change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" />　眼を※<span rend="notes">［＃感嘆符三つ、541-2］</span>　ひらき<lb />
+断じて眼を！　眼を<seg change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" />　眼を※<seg rend="notes" rendition="span">［＃感嘆符三つ、541-2］</seg>　ひらき<lb />
 さやう<lb />
 もいちど極めて大きな息すべし<lb />
 今度も等比級数か<lb />
@@ -541,7 +541,7 @@
 眼をひらき<lb />
 手を胸に副へ息を吸へ<lb />
 　　……母はくりやで水の音……<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　〔そしてわたくしはまもなく死ぬのだらう〕<lb />
 <lb />
@@ -553,7 +553,7 @@
 結局まだはっきりしてゐない<lb />
 わたくしといふのは<lb />
 ［以下空白］<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　　（一九二九年二月）<lb />
 <lb />
@@ -585,6 +585,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

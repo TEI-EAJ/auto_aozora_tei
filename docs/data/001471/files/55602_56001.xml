@@ -33,9 +33,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ふとして眺むれば<lb />
-<span type="ruby"><span type="rb">彼処</span><span type="rp">（</span><span type="rt">かしこ</span><span type="rp">）</span></span>に笑めるは一人の不可解なる精霊の所有者である<lb />
+<seg type="ruby"><seg type="rb">彼処</seg><seg type="rp">（</seg><seg type="rt">かしこ</seg><seg type="rp">）</seg></seg>に笑めるは一人の不可解なる精霊の所有者である<lb />
 われは今その面を見つつ想う<lb />
 <lb />
 唇……<lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-12-09">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 初出：「沖縄毎日新聞」<lb />
 　　　1911（明治44）年1月8日<lb />
@@ -36,11 +36,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 一頭のやせ馬に、<lb />
-ひかれゆく黒塗りの<span rend="sesame_dot" rendition="em">かた</span>馬車。<lb />
+ひかれゆく黒塗りの<seg rend="sesame_dot" rendition="em">かた</seg>馬車。<lb />
 乗ひ合は六人、<lb />
-その中に<span type="ruby"><span type="rb">一人</span><span type="rp">（</span><span type="rt">ひとり</span><span type="rp">）</span></span>の若かい女。<lb />
+その中に<seg type="ruby"><seg type="rb">一人</seg><seg type="rp">（</seg><seg type="rt">ひとり</seg><seg type="rp">）</seg></seg>の若かい女。<lb />
 <lb />
 膝向き合はした客は、<lb />
 お互に眼をひらめかし、<lb />
@@ -60,15 +60,15 @@
 時々色と匂ひと、<lb />
 車のゴタック毎にとろけて、<lb />
 静かになつかしく、<lb />
-<span type="ruby"><span type="rb">膩</span><span type="rp">（</span><span type="rt">アブラ</span><span type="rp">）</span></span>にしんた肉にふるゝ。<lb />
+<seg type="ruby"><seg type="rb">膩</seg><seg type="rp">（</seg><seg type="rt">アブラ</seg><seg type="rp">）</seg></seg>にしんた肉にふるゝ。<lb />
 <lb />
-哀れなものは<span rend="sesame_dot" rendition="em">やせ</span>馬、<lb />
+哀れなものは<seg rend="sesame_dot" rendition="em">やせ</seg>馬、<lb />
 鼻息荒らく、たゆむ隙がない、<lb />
 鞭の鳴る毎に<lb />
 いや更に走る。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>雨あがる</title>
+        <author>山本周五郎</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-01-29">作成</resp><resp /><note>
+<lb />
+底本：「山本周五郎全集第二十三巻　雨あがる・竹柏記」新潮社<lb />
+　　　1983（昭和58）年11月25日発行<lb />
+初出：「サンデー毎日涼風特別号」毎日新聞社<lb />
+　　　1951（昭和26）年7月1日<lb />
+入力：特定非営利活動法人はるかぜ<lb />
+校正：北川松生<lb />
+<date when="2019-01-29">2019年1月29日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>特定非営利活動法人はるかぜ</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>北川松生</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>雨あがる</title><author>山本周五郎</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">一</seg></seg></seg>
+<lb />
+　もういちど悲鳴のような声をあげて、それから女の喚きだすのが聞えた。<lb />
+　――またあの女だ。<lb />
+　三沢伊兵衛は寝ころんだまま、気づかわしそうにうす眼をあけて妻を見た。お<seg rend="sesame_dot" rendition="em">たよ</seg>は縫い物を続けていた。<seg type="ruby"><seg type="rb">古袷</seg><seg type="rp">（</seg><seg type="rt">ふるあわせ</seg><seg type="rp">）</seg></seg>を解いて張ったのを、<seg type="ruby"><seg type="rb">単衣</seg><seg type="rp">（</seg><seg type="rt">ひとえ</seg><seg type="rp">）</seg></seg>に直しているのである。茶色に<seg type="ruby"><seg type="rb">煤</seg><seg type="rp">（</seg><seg type="rt">すす</seg><seg type="rp">）</seg></seg>けた障子からの明りで、<seg type="ruby"><seg type="rb">痩</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>せのめだつ頬や、<seg type="ruby"><seg type="rb">尖</seg><seg type="rp">（</seg><seg type="rt">とが</seg><seg type="rp">）</seg></seg>った肩つきや、針を持つ手指などが、<seg type="ruby"><seg type="rb">窶</seg><seg type="rp">（</seg><seg type="rt">やつ</seg><seg type="rp">）</seg></seg>れた老女のようにいたいたしくみえる。だがきちんと結った豊かな髪と、鮮やかに赤い唇だけは、まだ娘のように若わかしい。子供を生まないためでもあろうが、結婚するまでの裕福な育ちが、七年間の苦しい生活を<seg type="ruby"><seg type="rb">凌</seg><seg type="rp">（</seg><seg type="rt">しの</seg><seg type="rp">）</seg></seg>いで、そこにだけ辛うじて残っているようでもあった。<lb />
+　外は雨が降っていた。梅雨はあけた筈なのに、もう十五日も降り続けで、今日もあがるけしきはない。こぬか雨だから降る音は聞えないけれども、夜も昼も絶え間のない雨垂れには気がめいるばかりだった。<lb />
+「泥棒がいるんだよ<seg type="ruby"><seg type="rb">此処</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>には、泥棒が」女のあけすけな喚き声は高くなった、「ひとの炊きかけの飯を盗みやがった、ちょっと洗い物をして来る間にさ、あたしゃちゃんと<seg type="ruby"><seg type="rb">鍋</seg><seg type="rp">（</seg><seg type="rt">なべ</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">印</seg><seg type="rp">（</seg><seg type="rt">しるし</seg><seg type="rp">）</seg></seg>を付けといたんだ」<lb />
+　伊兵衛はかたく眼をつむった。<lb />
+　――珍しいことではない。<lb />
+　街道筋の町はずれのこういう安宿では、こんな騒ぎがよく起こる。客の多くはごく貧しい人たちで、たいていが<seg type="ruby"><seg type="rb">飴</seg><seg type="rp">（</seg><seg type="rt">あめ</seg><seg type="rp">）</seg></seg>売りとか、縁日商人とか、旅を渡る安旅芸人などだから、少し長く降りこめられでもすると、食う物にさえ事欠き、つい他人の物に手を出す、という者も<seg type="ruby"><seg type="rb">稀</seg><seg type="rp">（</seg><seg type="rt">まれ</seg><seg type="rp">）</seg></seg>ではなかった。<lb />
+　――だが泥棒とはひどすぎる、泥棒とは。<lb />
+　伊兵衛は自分が云われているかのように、恥ずかしさと済まないような気持とで、胸がどきどきし始めた。<lb />
+　女の叫びは高くなるばかりだが、ほかには誰の声もしなかった。こちらの三<seg type="ruby"><seg type="rb">帖</seg><seg type="rp">（</seg><seg type="rt">じょう</seg><seg type="rp">）</seg></seg>の小部屋からは見えないけれども、炉のあるその部屋には十人ばかりも滞在客がいる筈である。なかに子持ちの夫婦づれも二た組いて、小さいほうの子供は一日じゅう泣いたりぐずったりするのだが、今はその子さえ息をひそめているようであった。<lb />
+　女は日蔭のしょうばいをする三十<seg type="ruby"><seg type="rb">年増</seg><seg type="rp">（</seg><seg type="rt">どしま</seg><seg type="rp">）</seg></seg>で、ふだんから同宿者との折合いが悪かった。誰も相手になる者がなく、みんなが彼女を避けていた。もちろん<seg type="ruby"><seg type="rb">軽蔑</seg><seg type="rp">（</seg><seg type="rt">けいべつ</seg><seg type="rp">）</seg></seg>ではない。自分じぶんが生きることで手いっぱいな人たちには、職業によって他人を卑しめるような習慣も暇もなかった。かれらが女を避けるのは、彼女の立ち居があまりに乱暴で、<seg type="ruby"><seg type="rb">棘</seg><seg type="rp">（</seg><seg type="rt">とげ</seg><seg type="rp">）</seg></seg>とげしくって、また仮借のない<seg type="ruby"><seg type="rb">凄</seg><seg type="rp">（</seg><seg type="rt">すご</seg><seg type="rp">）</seg></seg>いような毒口をきくからであった。つまりいちもくおいているわけであるが、彼女はそうは思わないようすで、常にあからさまな敵意をかれらに示していた。<lb />
+　半月も降りこめられて、今みんなが飢えかけているのに、そんなしょうばいをしているためか、彼女だけは（乏しいながら）煮炊きを欠かさなかった。それは日頃の<seg type="ruby"><seg type="rb">敵愾心</seg><seg type="rp">（</seg><seg type="rt">てきがいしん</seg><seg type="rp">）</seg></seg>と自尊心を大いに満足させているようであった。<lb />
+「あんまりだなあ、あれは」<lb />
+　伊兵衛はこう<seg type="ruby"><seg type="rb">呟</seg><seg type="rp">（</seg><seg type="rt">つぶや</seg><seg type="rp">）</seg></seg>いて、女の叫びがますます高く、止め度もなく<seg type="ruby"><seg type="rb">辛辣</seg><seg type="rp">（</seg><seg type="rt">しんらつ</seg><seg type="rp">）</seg></seg>になるのに<seg type="ruby"><seg type="rb">堪</seg><seg type="rp">（</seg><seg type="rt">たま</seg><seg type="rp">）</seg></seg>りかねて、起きあがった。<lb />
+「あれではひどい、もし本当にそれがそうだったとしても、あんなふうに人の心もちが痛むようなことを云うのはよくないと思うな」<lb />
+　独り言のように呟きながら、そっと妻の顔色をうかがった。彼は背丈も高いし、肩も胸も幅ひろく厚く、肉のひき緊ったいい<seg type="ruby"><seg type="rb">躯</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>である。ふっくらとまるい顔はたいそう柔和で、尻下りの眼や小さな<seg type="ruby"><seg type="rb">唇</seg><seg type="rp">（</seg><seg type="rt">くち</seg><seg type="rp">）</seg></seg>つきには、育ちの良い少年のような清潔さが感じられた。<lb />
+「ええ、それはそうですけれど」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は縫ったところを爪で<seg rend="sesame_dot" rendition="em">こき</seg>ながら、<seg type="ruby"><seg type="rb">良人</seg><seg type="rp">（</seg><seg type="rt">おっと</seg><seg type="rp">）</seg></seg>のほうは見ずに云った。<lb />
+「みなさんももう少し親切にしてあげたらと思いますわ、あの方は<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>け者にされていると思って、淋しいので、ついあんなに気をお立てになるんですもの」<lb />
+「それもあるでしょうが、それにはあの女の人がもう少しなんとか」<lb />
+　伊兵衛はぴくっとした。女がついに人の名をさしたのである。<lb />
+「なんとか云わないか、え、そこにいる説教節の爺い」<lb />
+　女の声はなにかを突刺すようだった。<lb />
+「――しらばっくれたってだめだよ、あたしゃ盲じゃないんだ、おまえが盗んだぐらいのことは初めっからわかってるんだ、いつかだって」<lb />
+　伊兵衛はとびあがった。<lb />
+「いけません、あなた」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>が止めようとしたが、彼は<seg type="ruby"><seg type="rb">襖</seg><seg type="rp">（</seg><seg type="rt">ふすま</seg><seg type="rp">）</seg></seg>をあけて出ていった。<lb />
+　そこは農家の炉の間に似た部屋で、片方が店先から裏へぬける土間になっている。畳は六帖と八帖が<seg type="ruby"><seg type="rb">鍵形</seg><seg type="rp">（</seg><seg type="rt">かぎがた</seg><seg type="rp">）</seg></seg>につながって敷かれ、上り<seg type="ruby"><seg type="rb">端</seg><seg type="rp">（</seg><seg type="rt">はな</seg><seg type="rp">）</seg></seg>の板敷との間に大きな炉が切ってある。農家と違うのは<seg type="ruby"><seg type="rb">天床</seg><seg type="rp">（</seg><seg type="rt">てんじょう</seg><seg type="rp">）</seg></seg>が低いのと、たいていの客がべつに部屋を取らず、そこでこみあって寝るし、<seg type="ruby"><seg type="rb">鍋釜</seg><seg type="rp">（</seg><seg type="rt">なべかま</seg><seg type="rp">）</seg></seg>を借りてその炉で煮炊きもするため、それらに必要な道具類が並んでいることなどであった。<lb />
+　その女は炉端にいた。片手をふところに入れ、<seg type="ruby"><seg type="rb">立膝</seg><seg type="rp">（</seg><seg type="rt">たてひざ</seg><seg type="rp">）</seg></seg>をして、<seg type="ruby"><seg type="rb">蒼白</seg><seg type="rp">（</seg><seg type="rt">あおじろ</seg><seg type="rp">）</seg></seg>く不健康に痩せた顔をひきつらせ、ぎらぎらするような眼であたりを<seg type="ruby"><seg type="rb">睨</seg><seg type="rp">（</seg><seg type="rt">にら</seg><seg type="rp">）</seg></seg>みまわし、そうして<seg type="ruby"><seg type="rb">劈</seg><seg type="rp">（</seg><seg type="rt">つんざ</seg><seg type="rp">）</seg></seg>くような声で喚きたてる、――他の客たちはみな離れて、膝を抱えてうなだれたり、寝そべったり、子供をしっかり抱いたりして、じっと息をころしていた。それは嵐の通過するのを辛抱づよく待っている<seg type="ruby"><seg type="rb">喪家</seg><seg type="rp">（</seg><seg type="rt">そうか</seg><seg type="rp">）</seg></seg>の犬といった感じだった。<lb />
+「失礼ですがもうやめて下さい」<lb />
+　伊兵衛は女の前へいって、やさしくなだめるように云った。<lb />
+「此処にはそんな悪い人はいないと思うんです、みんな<seg type="ruby"><seg type="rb">善</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>い人たちで、それは貴女も知っていらっしゃるでしょう」<lb />
+「放っといて下さい」女はそっぽを向いた、「――お武家さんには関わりのないことですよ、あたしゃ卑しい稼業こそしていますがね、自分の物を盗まれて黙ってるほど弱い尻は持っちゃいないんですから」<lb />
+「そうですとも、むろんそうですよ、しかしそれは私が償いますから、どうかそれで勘弁することにして下さい」<lb />
+「なにもお武家さんにそんな心配をして頂くことはありませんよ、あたしゃ物が惜しくって云ってるんじゃないんですから」<lb />
+「そうですとも、むろんですよ、しかし人間には間違いということもあるし、お互いにこうして同じ屋根の下にいることでもあるし、とにかくそこは、どうかひとつ、私がすぐになんとかして来ますから」<lb />
+　それだけ云うと、伊兵衛はなにやら忙しそうに立っていった。<lb />
+「誓文は誓文、これはこれ」<lb />
+　宿の名を大きく書いた番傘をさして、外へ出るとすぐ彼はこう独り言を云い、<seg type="ruby"><seg type="rb">擽</seg><seg type="rp">（</seg><seg type="rt">くすぐ</seg><seg type="rp">）</seg></seg>られでもするように微笑をうかべた。<lb />
+「眼の前にこういう事が起こった以上、自分の良心だけ守るというわけにはいきませんからね、ええ、それは<seg type="ruby"><seg type="rb">却</seg><seg type="rp">（</seg><seg type="rt">かえ</seg><seg type="rp">）</seg></seg>って良心に反する行為ですよ、いや」彼はふとまじめな顔になり、「――いや、なにもしないんだから行為とはいわないでしょう、無行為、ともいわないですね」<lb />
+　わけのわからないことを呟きながら、ひどくいそいそと、元気な足どりで、城下町のほうへ歩いていった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">二</seg></seg></seg>
+<lb />
+　彼が宿へ帰ったのは、四時間ほどのちのことであった。<lb />
+　酒を飲んだのだろう、まっ赤な顔をしていたが、もっと驚いたことには、彼のあとから五六人の若者や小僧たちが、いろいろな物資を持ってついて来たことである。米屋は米の俵を、八百屋は一と籠の野菜を、魚屋は盤台二つに魚を、酒屋は五升入りの<seg type="ruby"><seg type="rb">酒樽</seg><seg type="rp">（</seg><seg type="rt">さかだる</seg><seg type="rp">）</seg></seg>に味噌醤油を、そして菓子屋のあとから大量の薪と炭など。<lb />
+「これはまあどうなすったんです」<lb />
+　宿の主婦が出て来て眼をみはった。若者や小僧たちは担ぎ込んだ物を上り端や土間へずらっと並べた。<lb />
+「景気直しをしようと思いましてね」<lb />
+　伊兵衛は眼を細くして笑い、<seg type="ruby"><seg type="rb">呆</seg><seg type="rp">（</seg><seg type="rt">あき</seg><seg type="rp">）</seg></seg>れている同宿者たちに向って云った。<lb />
+「みなさん済みませんが手を貸して下さい、なが雨の縁起直しにみんなでひと口やりましょう、少しばかりで恥ずかしいんですが、どうか手分けをして、私も飯ぐらい炊きますから、手料理ということでやろうじゃありませんか」<lb />
+　同宿者たちのあいだに、喜びとも苦しみとも判別のつかない、嘆息のような声が起こった。すぐには誰も動かなかった、だが伊兵衛が菓子を出してみせ、源さん（<seg type="ruby"><seg type="rb">桶</seg><seg type="rp">（</seg><seg type="rt">おけ</seg><seg type="rp">）</seg></seg>のタガ直しをする）の子供が、その母親の膝からとびあがるのと共に、四五人いっしょに立ちあがって来た。<lb />
+　宿の中は急に活気で揺れあがった。なにかがわっと<seg type="ruby"><seg type="rb">溢</seg><seg type="rp">（</seg><seg type="rt">あふ</seg><seg type="rp">）</seg></seg>れだしたようであった。宿の主人夫婦と中年の女中も仲間にはいって、魚や野菜がひろげられ、炉にも釜戸にも火が<seg type="ruby"><seg type="rb">焚</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>かれた。元気のいい叫びや笑い声が絶え間なしに起こり、女たちは必要もないのにきゃあきゃあ云ったり、人の背中を叩いたりした。<lb />
+「旦那はどうか坐ってお<seg type="ruby"><seg type="rb">呉</seg><seg type="rp">（</seg><seg type="rt">く</seg><seg type="rp">）</seg></seg>んなさい」<lb />
+　みんなは伊兵衛に云った。<lb />
+「――こっちはわたし共でやりますから、頂いたうえにそんなことまでおさせ申しちゃあ済みません」<lb />
+　支度が出来たら呼ぶから、などと懇願するように云ったが、伊兵衛は一向に承知せず、ときどき妻のいる小部屋のほうをちらちら見やりながら、ぶきような動作でしきりに活躍した。<lb />
+　説教節の爺さんは少し中風ぎみであるが、特に責任を感じたというふうで、誰よりも熱心に奔走していた。<lb />
+　どうやら用意がととのう頃には、<seg type="ruby"><seg type="rb">黄昏</seg><seg type="rp">（</seg><seg type="rt">たそがれ</seg><seg type="rp">）</seg></seg>の濃くなった部屋に（主人の好意で）八間の灯がともされ、<seg type="ruby"><seg type="rb">行燈</seg><seg type="rp">（</seg><seg type="rt">あんどん</seg><seg type="rp">）</seg></seg>も三ところに出された。<lb />
+「さあ男の人たちは旦那とごいっしょに坐って下さい、あとはもう運ぶだけだから」<lb />
+　女たちはこう云ってせきたてた。<lb />
+「――うちのにお<seg type="ruby"><seg type="rb">燗番</seg><seg type="rp">（</seg><seg type="rt">かんばん</seg><seg type="rp">）</seg></seg>をさせちゃだめですよ、燗のつくまえに飲んじまいますからね」<lb />
+　すると脇にいた女が、それではおまえさんの燗鍋はいつも温まるひまがないだろう、など云い、きゃあと笑い<seg type="ruby"><seg type="rb">罵</seg><seg type="rp">（</seg><seg type="rt">ののし</seg><seg type="rp">）</seg></seg>りあった。<lb />
+　伊兵衛は宿の主人夫婦と並んで坐った。男たちもそれぞれに席を取った。炉にかけた大きな鍋には、燗徳利が七八本も立っていて、<seg type="ruby"><seg type="rb">膳</seg><seg type="rp">（</seg><seg type="rt">ぜん</seg><seg type="rp">）</seg></seg>が運ばれると、宿の女中がそれをみんなの膳に配った。<lb />
+　そして<seg type="ruby"><seg type="rb">賑</seg><seg type="rp">（</seg><seg type="rt">にぎ</seg><seg type="rp">）</seg></seg>やかな酒宴が始まった。<lb />
+「どうです、こうずらりっと<seg type="ruby"><seg type="rb">肴</seg><seg type="rp">（</seg><seg type="rt">さかな</seg><seg type="rp">）</seg></seg>が並んで、どっしりとこう<seg type="ruby"><seg type="rb">猪口</seg><seg type="rp">（</seg><seg type="rt">ちょこ</seg><seg type="rp">）</seg></seg>を持ったかたちなんてえものは、豪勢なものじゃありませんか、公方様にでもなったような心もちですぜ」<lb />
+「あんまり気取んなさんな、うしろへひっくり返ると危ねえから」<lb />
+　伊兵衛は尻下りの眼でかれらを眺めながら、いかにも嬉しそうにぐいぐい飲んでいた。久しく飢えていたところで、みんな<seg type="ruby"><seg type="rb">忽</seg><seg type="rp">（</seg><seg type="rt">たちま</seg><seg type="rp">）</seg></seg>ちに酔い、ぼろ三味線が持ち出され、唄が始まり、踊りだす者も出て来た。<lb />
+「まるで夢みてえだなあ」鏡研ぎの武平という男がつくづくと云った、「――こんな事が年に一遍、いや三年に一遍でもいい、こういう楽しみがあるとわかっていたら、たいてえな苦労はがまんしていけるんだがなあ」<lb />
+　そして<seg type="ruby"><seg type="rb">溜息</seg><seg type="rp">（</seg><seg type="rt">ためいき</seg><seg type="rp">）</seg></seg>をつくのが、がやがや騒ぎのなかからぽつんと聞えた。伊兵衛はちょっと眼をつむり、それからどこかを刺されでもしたように、ぎゅっと眉をしかめながら酒を<seg type="ruby"><seg type="rb">呷</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>った。<lb />
+　こういうところへあの女が帰って来た。いつもは夜半過ぎになるのに、客が取れなかったものかどうか、蒼ざめたような<seg type="ruby"><seg type="rb">尖</seg><seg type="rp">（</seg><seg type="rt">とが</seg><seg type="rp">）</seg></seg>った顔で土間へ入って来て、このありさまを見るとあっけにとられ、濡れた髪を拭こうとした手をそのまま、棒立ちになった。これを初めにみつけたのは源さんの女房である。子供がたびたび飴玉などを貰うので、なかでは女と親しくしていたが、そのときは酔って、昼間の出来事をつい忘れたとみえ、「おやお<seg rend="sesame_dot" rendition="em">ろく</seg>さんの<seg type="ruby"><seg type="rb">姐</seg><seg type="rp">（</seg><seg type="rt">ねえ</seg><seg type="rp">）</seg></seg>さんお帰んなさい、いま三沢さんの旦那のおふるまいでこのとおりなんですよ、さあ姐さんも早くあがって」<lb />
+　こう云いかけたとき、説教節の爺さんがとびあがって叫んだ。<lb />
+「おう帰ったな<seg type="ruby"><seg type="rb">夜鷹</seg><seg type="rp">（</seg><seg type="rt">よたか</seg><seg type="rp">）</seg></seg><seg rend="sesame_dot" rendition="em">あま</seg>、あがって来い、飯を返してやるから此処へ来やあがれ」<lb />
+　中風ぎみで多少は舌がもつれるけれど、その声はすばらしく高く、眼はぎらぎらしていたし、躯ぜんたいが震えた。みんなは黙った。唄も三味線もぴたりと止めて、一斉に女のほうへ振向いた。<lb />
+「人を盗人だなんてぬかしゃがって」爺さんは死にそうな声で続けた、「――てめえはなに様だ、よくもこの年寄のことを、さあ来やがれ、おらこのとおり食わずに取って置いたんだ、ざまあみやがれ、持ってけつかれ」<lb />
+「まあ待って下さい、そう云わないで、まあとにかく」伊兵衛が立って爺さんをなだめた、「人には間違いということがありますからね、あの人も悲しいんですよ、人間はみんなお互いに悲しいんですから、もう勘弁して仲直りをしましょう」<lb />
+　彼はしどろもどろなことを云って、土間にいる女のほうへ呼びかけた。<lb />
+「――貴女もどうぞ、なんでもないんですから、どうぞこっちへ来て坐って下さい、なにも有りませんけれど、みなさんと気持よくひと口やって下さい、すべてお互いなんですから」<lb />
+「おいでなさいよ」<lb />
+　宿の主婦も口を添えた。<lb />
+「――旦那がああ仰しゃるんだから、此処へ来て御馳走におなんなさいな」<lb />
+　続いてみんながすすめた。酒のきげんばかりでなく、この人たちは喜びや楽しみを独占することができないのである。タガ直しの源さんの女房が立ってゆき、手を取って女をつれて来た。彼女はつんとすました顔で坐り、義理で飲んでやるんだというふうに、黙って反りかえって<seg type="ruby"><seg type="rb">盃</seg><seg type="rp">（</seg><seg type="rt">さかずき</seg><seg type="rp">）</seg></seg>を取った。<lb />
+「さあ<seg type="ruby"><seg type="rb">賑</seg><seg type="rp">（</seg><seg type="rt">にぎ</seg><seg type="rp">）</seg></seg>やかにやりましょう」伊兵衛は大きな声で云った、「――天が<seg type="ruby"><seg type="rb">吃驚</seg><seg type="rp">（</seg><seg type="rt">びっくり</seg><seg type="rp">）</seg></seg>してこの雨をしまいこむように、さあひとつ、みんなで……」<lb />
+　そしてまた騒ぎが始まると、伊兵衛はようやく勇気が出たようすで、自分の前にある膳を持って立ち、妻のいる三帖へ入っていった。<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は脚のちんばな小机に向って、手作りの帳面に日記を書いていた。ながい放浪の年月、それだけが楽しみのように、欠かさずつけて来た日記である。うす暗い行燈の光りを側へ寄せて、<seg type="ruby"><seg type="rb">前跼</seg><seg type="rp">（</seg><seg type="rt">まえかが</seg><seg type="rp">）</seg></seg>みに机へ向っている妻の姿を見ると、伊兵衛は膳を置いてそこへ坐り、きちんと膝を<seg type="ruby"><seg type="rb">揃</seg><seg type="rp">（</seg><seg type="rt">そろ</seg><seg type="rp">）</seg></seg>えておじぎをした。<lb />
+「済みません、勘弁して下さい」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は静かに振返った。唇には微笑をうかべているが、眼は明らかに怒っていた。<lb />
+「<seg type="ruby"><seg type="rb">賭</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>け試合をなさいましたのね」<lb />
+「正直に云います、賭け試合をしました」<lb />
+　伊兵衛はまたおじぎをした。<lb />
+「どうにもやりきれなかったもんだから、あんなことを聞くと悲しくって、どうしたって知らん顔をしてはいられませんからねえ、とにかくみんな困っているし、雨はやまないし、どんな気持かと思うと、もうじっとしていられなかったんです」<lb />
+「賭け試合はもう決してなさらない約束でしたわ」<lb />
+「そうです、もちろんです、しかしこれは自分の口腹のためじゃないんですからね、私は、ええ私もそれは少しは飲んだですけれども、少しよりは幾らか多いかもしれませんけれども、みんなあんなに喜んでいるんだし」<lb />
+　そしてもういちど彼はおじぎをした。<lb />
+「――このとおりです、勘弁して下さい、もう決してしませんから、そしてどうかこれを、……勘弁する証拠に、ひと<seg type="ruby"><seg type="rb">箸</seg><seg type="rp">（</seg><seg type="rt">はし</seg><seg type="rp">）</seg></seg>、ほんのひと箸でいいですから」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は悲しそうに微笑しながら、筆を<seg type="ruby"><seg type="rb">措</seg><seg type="rp">（</seg><seg type="rt">お</seg><seg type="rp">）</seg></seg>いて立ちあがった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">三</seg></seg></seg>
+<lb />
+　明くる朝まだ暗いうちに、伊兵衛は古い<seg type="ruby"><seg type="rb">蓑笠</seg><seg type="rp">（</seg><seg type="rt">みのかさ</seg><seg type="rp">）</seg></seg>を借り、釣り竿と<seg type="ruby"><seg type="rb">魚籠</seg><seg type="rp">（</seg><seg type="rt">びく</seg><seg type="rp">）</seg></seg>を持って宿を出た。城下町のほうへ三丁ばかりいったところに、間馬川という川があり、この近所での<seg type="ruby"><seg type="rb">鮎</seg><seg type="rp">（</seg><seg type="rt">あゆ</seg><seg type="rp">）</seg></seg>の釣り場といわれていた。<lb />
+　彼も宿の主人に教えられて、二度ばかりでかけ、小さなのを五六尾あげたことがあるが、その朝はどうやら釣りが目的ではなく、宿から逃げだすためにでかけたようであった。<lb />
+　彼はへこたれて、しょげた顔で、ときどきさも堪らないというように首を振り、溜息をついた。橋を渡ってすぐ左へ、堤の上を二丁ばかりもゆくと、岸に<seg type="ruby"><seg type="rb">灌木</seg><seg type="rp">（</seg><seg type="rt">かんぼく</seg><seg type="rp">）</seg></seg>の茂ったところがある。まえに来た場所であるが、そこでちょっと立停って、またふらふら歩きだし、堤を下りて松林の中へ入っていった。<lb />
+「はあ、もう七年になるんだ、はあ」<lb />
+　林の中は松の若葉が匂っていた。笠へ大粒の雨垂れがぱらぱらと落ちた。<lb />
+「おれは構わないとして、お<seg rend="sesame_dot" rendition="em">たよ</seg>は、どんな気持でいるか、ということだろう、それを、うまいようなことを云って、誓いをやぶって、賭け試合などして、……はあ、つづめたところ、自分が飲みたかったのでしょう、そうでしょう、舌なめずりをしてでかけたじゃないか、いそいそと嬉しそうに、ひやっ」<lb />
+　伊兵衛は首を縮め、ぎゅっと眼をつむった。<lb />
+　三沢の家は松平<seg type="ruby"><seg type="rb">壱岐守</seg><seg type="rp">（</seg><seg type="rt">いきのかみ</seg><seg type="rp">）</seg></seg>に仕えて、代々二百五十石を取っていた。父は兵庫助といい、彼はその一人息子で、幼い頃ひどく躯が弱かったため、宗観寺という禅寺へ預けられた。住職の玄和という人にたいそう愛され、大きくなってからもずっと往来が絶えなかった。<lb />
+　躯と同じように性質も弱気で、ひっこみ思案の、泣いてばかりいる子だったが、<seg type="ruby"><seg type="rb">和尚</seg><seg type="rp">（</seg><seg type="rt">おしょう</seg><seg type="rp">）</seg></seg>の巧みな教育のおかげだろう、十四五になるとすっかり変って、躯も健康になり、気質も明るく積極的になった。<lb />
+　――石中に火あり、打たずんば出でず。<lb />
+　これが玄和の口癖であったが、伊兵衛はこの言葉を守り本尊のようにしていた。学問でも武芸でも、困難なところへぶつかるとこれをじっと考える。石の中に火がある、打たなければ出ない、どのように打つか、さあ、どう打ったら石中の火を発することができるか、さあ……こんなぐあいにくふうするのである。すると（万事とはいかないが）たいていのばあい打開の途がついた。<lb />
+　学問は朱子、陽明、老子にまで及び、武芸は刀法から、槍、<seg type="ruby"><seg type="rb">薙刀</seg><seg type="rp">（</seg><seg type="rt">なぎなた</seg><seg type="rp">）</seg></seg>、弓、柔術、棒、馬術、水練とものにして、しかもみんな類のないところまで上達した。<lb />
+　では伊兵衛はぐんぐん出世したろうか。<lb />
+　否、まったく逆であった。彼はそのために主家を浪人しなければならなかった。<lb />
+　理由は二つあるようだ。一つは彼の腕前が<seg type="ruby"><seg type="rb">桁外</seg><seg type="rp">（</seg><seg type="rt">けたはず</seg><seg type="rp">）</seg></seg>れになったこと、もう一つは彼の気質である。摘要すると、剣術でも柔術でも、極めて無作為であって無類に強い。二十一二歳の頃にはその道の師範ですら相手にならなくなったが、格別に珍奇な手法を<seg type="ruby"><seg type="rb">弄</seg><seg type="rp">（</seg><seg type="rt">ろう</seg><seg type="rp">）</seg></seg>するわけではなく、ごく簡単に、まさかと思うほどあっけなく勝負がついてしまう。<lb />
+　――石中の火を打ち出す一点。<lb />
+　つまり彼がその「一点」をみいだしたとき、勝敗が定まるというのである。しかしそれがあまりに<seg rend="sesame_dot" rendition="em">むぞうさ</seg>であまりに単純明快であるため、当の相手は、<seg rend="sesame_dot" rendition="em">ひっこみ</seg>がつかなくなるし、観ている人たちは<seg rend="sesame_dot" rendition="em">しらけ</seg>た気持になるし、彼自身はてれるという結果になった。<lb />
+　父の兵庫助が死に、彼は二十四歳で家督相続をした。同時に同じ家中の呉松氏から嫁を迎えたが、これがお<seg rend="sesame_dot" rendition="em">たよ</seg>であるが、間もなく母親も父のあとを追って亡くなると、にわかに彼は居辛いような気持に駆られだした。……玄和老のおかげでずいぶん積極的にはなったものの、本性までは変らないとみえ、自分の腕前が強くなるのと反比例して、性質はいよいよものやさしく、<seg type="ruby"><seg type="rb">謙遜</seg><seg type="rp">（</seg><seg type="rt">けんそん</seg><seg type="rp">）</seg></seg>柔和になっていった。<lb />
+　勝って<seg type="ruby"><seg type="rb">驕</seg><seg type="rp">（</seg><seg type="rt">おご</seg><seg type="rp">）</seg></seg>らないのは美徳かもしれないが、伊兵衛は勝つたびに<seg rend="sesame_dot" rendition="em">てれ</seg>たり済まながったりする。本気になって済まながり、<seg rend="sesame_dot" rendition="em">てれ</seg>るので、相手はますます<seg rend="sesame_dot" rendition="em">ひっこみ</seg>がつかない。周囲の者もなんとなくさっぱりしないし、そこで彼自身は悪いことでもしたような気分になる。こういうことが重なってゆき、だんだんに気まずくなり、（直接には藩の師範たちの策動も少しはあったが）ついに自らいとまを願って退身した。<lb />
+　――これだけの心得があるのだ、いっそ誰も知らぬ土地へいって、新しく仕官するほうが双方のために安泰だろう。<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>とも相談し、承諾を得て旅に出たのである。しかしいけなかった。機会はあったけれども、さて<seg type="ruby"><seg type="rb">技倆</seg><seg type="rp">（</seg><seg type="rt">ぎりょう</seg><seg type="rp">）</seg></seg>だめしの試合をする、となるとふしぎにぐあいが悪い。その土地その藩の師範、または無敵と定評のある者を例のようにごく簡単に負かしてしまう。するとあまりの<seg rend="sesame_dot" rendition="em">あっけ</seg>なさにお座がしらけて、なんとなく感情がこじれたようになり、腕前は<seg type="ruby"><seg type="rb">褒</seg><seg type="rp">（</seg><seg type="rt">ほ</seg><seg type="rp">）</seg></seg>められるが仕官のはなしは<seg type="ruby"><seg type="rb">纒</seg><seg type="rp">（</seg><seg type="rt">まと</seg><seg type="rp">）</seg></seg>まらない、という結果になった。<lb />
+　――こんな筈はない、これだけの実力があるのにどこが悪いのだろう。<lb />
+　彼は反省もし熟慮もし悩みもした。二度か三度はうまくいったこともある、だがそうなるとまたべつの故障が起こった。自分に負けて職を失う相手が気の毒になるとか、相手に泣き言を云われる（事実「どうか仕官を辞退して貰いたい、自分がいま失職すると妻子を路頭に迷わせなければならないから」と哀訴されたこともある）といったぐあいで、そうなると彼としては恐縮し閉口し、こちらからあやまって身を退く、ということになるのであった。<lb />
+　主家を去るときはかなりな旅費を持っていたが、三年めにはそれも無くなり、やむなく町道場などで賭け試合をするようになった。これは断然うまくいった。向うが応じて呉れさえすれば間違いなく勝つし、ときには莫大な金になることもあった。しかしやがて妻に気づかれ、泣いて<seg type="ruby"><seg type="rb">諫</seg><seg type="rp">（</seg><seg type="rt">いさ</seg><seg type="rp">）</seg></seg>められ、今後は絶対にしないという誓いをさせられたのである。<lb />
+　云うまでもない、たちまち窮迫した。<lb />
+　――わたくしも手内職くらい致しますから、どうかあせらずに時節をお待ちあそばせ。<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>はそう云い始めた。彼女は九百五十石の準老職の家に生れ、豊かにのびのびと育った。それが馴れない放浪の旅の苦労で、躯も弱り、すっかり窶れてしまった。伊兵衛はその姿を見るだけでも息が詰りそうになる。身もだえをしたいほど哀れになるので、内職などと聞くと震えあがって拒絶した。とんでもない、それだけはあやまって、代りに彼自身が一文あきないを考えた。<lb />
+　あきないといっても<seg type="ruby"><seg type="rb">定</seg><seg type="rp">（</seg><seg type="rt">きま</seg><seg type="rp">）</seg></seg>ったものではない。弥次郎兵衛とか、跳び兎とか、<seg type="ruby"><seg type="rb">竹蜻蛉</seg><seg type="rp">（</seg><seg type="rt">たけとんぼ</seg><seg type="rp">）</seg></seg>、紙鉄砲、笛など、ごく単純な玩具を自分で作ったのや、季節と場所によっては<seg type="ruby"><seg type="rb">小鮒</seg><seg type="rp">（</seg><seg type="rt">こぶな</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">蟹</seg><seg type="rp">（</seg><seg type="rt">かに</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">蛙</seg><seg type="rp">（</seg><seg type="rt">かえる</seg><seg type="rp">）</seg></seg>などという生き物を捕って、もっぱら小さな子供相手に売るのである。泊る宿もしだいに格が下って、いつかしらん木賃宿にも馴れた。もともと彼は子供が好きなので、そんなあきないも決して不愉快ではないし、安宿の客たちも（例外はあるが）純朴で人情に<seg type="ruby"><seg type="rb">篤</seg><seg type="rp">（</seg><seg type="rt">あつ</seg><seg type="rp">）</seg></seg>く、またお互いが<seg type="ruby"><seg type="rb">落魄</seg><seg type="rp">（</seg><seg type="rt">らくはく</seg><seg type="rp">）</seg></seg>しているという共通の<seg type="ruby"><seg type="rb">劬</seg><seg type="rp">（</seg><seg type="rt">いたわ</seg><seg type="rp">）</seg></seg>りもあって、いかにも気易くつきあうことができた。<lb />
+「それが身に付いてしまったのだ、なさけない、なさけないと思いませんか、伊兵衛うじ」<lb />
+　彼はべそをかき、溜息をした。気がつくと松林の中に立停ったままで、しきりに笠を雨垂れが叩いていた。<lb />
+「もうそろそろ本気にならなければ、いくらなんでもお<seg rend="sesame_dot" rendition="em">たよ</seg>が可哀そうじゃないか、お<seg rend="sesame_dot" rendition="em">たよ</seg>がどんな気持でいるか、ということを考えたら、そうでしょう、そうだろう伊兵衛」<lb />
+　彼はふと脇のほうへ振向いた。そっちのほうで人声がし始めたからである。見ると松林のすぐ向うの草原に、四五人の侍たちが集まってなにか話していた。簑笠を衣て釣り竿を持って、こんな処にぼんやり<seg type="ruby"><seg type="rb">佇</seg><seg type="rp">（</seg><seg type="rt">たたず</seg><seg type="rp">）</seg></seg>んでいる恰好をみつかったら恥ずかしい。いそいで歩きだそうとしたが、そこでまた振返った。なにか険悪な声がしたと思ったら、侍たちがぎらりぎらりと刀を抜いたのである。<lb />
+　――ああいけない。<lb />
+　伊兵衛は<seg type="ruby"><seg type="rb">吃驚</seg><seg type="rp">（</seg><seg type="rt">びっくり</seg><seg type="rp">）</seg></seg>した。そして、それが一人の若者を五人がとり巻いているのだとわかると、われ知らず釣り道具を投げだし、松林の中からそっちへ駆けだしていった。<lb />
+「おやめなさい、やめて下さい」<lb />
+　彼はそう叫びながら手を振った。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">四</seg></seg></seg>
+<lb />
+　こぬか雨のなかで、かれらはみな血相を変え、<seg type="ruby"><seg type="rb">凄</seg><seg type="rp">（</seg><seg type="rt">すご</seg><seg type="rp">）</seg></seg>いほど<seg type="ruby"><seg type="rb">昂奮</seg><seg type="rp">（</seg><seg type="rt">こうふん</seg><seg type="rp">）</seg></seg>し、殆んど逆上していた。<lb />
+「どうかやめて下さい、待って下さい」<lb />
+　伊兵衛は側へ駆け寄って、両方を手で押えるような恰好をして云った。<lb />
+「怪我をしたら危ないですから、そんな物を振りまわすなんて、けんのんなことはやめて下さい、どうかみなさん」<lb />
+「さがれ下郎、やかましい」とり巻いているほうの一人が喚いた、「よけいなさし出口をするとおのれから先に斬ってしまうぞ」<lb />
+「それはそうでしょうけれども、とにかく」<lb />
+「まだ云うか、この下郎め」<lb />
+「まあ危ない、そんな乱暴な、あっ」<lb />
+　逆上している一人が（脅かしだろうけれど）刀を振上げて向って来た。伊兵衛はどう<seg type="ruby"><seg type="rb">躱</seg><seg type="rp">（</seg><seg type="rt">かわ</seg><seg type="rp">）</seg></seg>したものか、相手の利き腕を<seg type="ruby"><seg type="rb">掴</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>み、かれらのまん中へ割って入りながら、「お願いします、わけは知りませんがやめて下さい、つまらないですから、どうか」<lb />
+　利き腕を掴まれた侍はじたばたするが、どうしても伊兵衛の手から<seg type="ruby"><seg type="rb"><seg facs="../../../gaiji/1-92/1-92-56.png" rend="gaiji" rendition="img" source="※(「二点しんにょう＋官」、第3水準1-92-56)" /></seg><seg type="rp">（</seg><seg type="rt">のが</seg><seg type="rp">）</seg></seg>れることができない。これを見て<seg type="ruby"><seg type="rb">伴</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>れの四人は怒って、<lb />
+「下郎から先に片づけろ」<lb />
+　こう叫んで、これまた刀を<seg type="ruby"><seg type="rb">閃</seg><seg type="rp">（</seg><seg type="rt">ひらめ</seg><seg type="rp">）</seg></seg>かして向って来た。伊兵衛は困って横へ避け、「よして下さい、そんな、ああ危ない、それだけはどうか、とにかく此処は、あっ」<lb />
+　手を振り、おじぎをし、懇願しながら、右に左に、跳んだり除けたり廻りこんだり、なんともめまぐるしく活躍し、みるみるうちに五人の手から刀を奪い取り、それを両手でひと纒めにして、頭の上へ高くあげながら、「どうか許して下さい、失礼はお<seg type="ruby"><seg type="rb">詫</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>びします、このとおりですから、どうかひとまず」などと云い云い逃げまわった。<lb />
+　これより少しまえ、松林とは反対側にある道へ、三人の侍が馬を乗りつけて来て、この場のようすを眺めていた。そうして、逃げまわる伊兵衛を五人の者が、「刀を返せ」とか「この無礼者」「待て下郎」などと喚きながら追いまわすのを見て、初めて馬を下り、そのなかの二人がこっちへ近寄って来た。<lb />
+「鎮まれ、見苦しいぞ」<lb />
+　四十五六になる肥えた侍が、よく徹る重みのある声で制止した。<lb />
+「はたし合いは法度である、控えろ」<lb />
+「御老職であるぞ」<lb />
+　もう一人がどなった。<lb />
+「――みな鎮まれ、御老職のおいでであるぞ」<lb />
+　よほど威勢のある人とみえ、このひと言でみんなはっとし、すなおに争闘をやめた。御老職といわれたその中年の侍は、ぐっとかれらを<seg type="ruby"><seg type="rb">睨</seg><seg type="rp">（</seg><seg type="rt">にら</seg><seg type="rp">）</seg></seg>みつけ、すぐに伊兵衛のほうへ来た。「何誰かは知らないがよくお止め下すった、私は当藩の青山主膳と申す者、厚くお礼を申上げます」<lb />
+「はあ、いやとんでもない」<lb />
+　もちろんさし上げていた刀は下ろしていたが、彼は例によって恐縮し、赤くなった。<lb />
+「――却って私こそ失礼なことを致しまして、みなさんをすっかり怒らせてしまいまして」<lb />
+「血気にはやる馬鹿者ども、さぞ御笑止でございましたろう、失礼ながらそこもとは」<lb />
+「はあ、三沢伊兵衛と申しまして、浪人者でございまして、向うの川へ釣りにまいったのですが、こちらが危ないもようだったものですから、つい知らずその、こういうことに」<lb />
+「当地に御滞在でいらっしゃるか」<lb />
+「追分の松葉屋という、いやとんでもない、どうかあれです、私のことなど決してお気になさらないように、ほんのなにしただけですから」<lb />
+　彼は刀をそこへ置き、おじぎをしながら後退した。<lb />
+「――どうかお構いなく、妻が待っておりますし、借りた釣り竿も放りだしたままですし、失礼します」<lb />
+　そしていそいでそこを去った。<lb />
+　釣り竿も魚籠も元の処にあった。もう釣りをする気にもなれないので、それらを拾いあげると、がっかりしたような気持で帰途についた。<lb />
+「はたし合いだなんて、危ないことをするものだ」<lb />
+　歩きながら彼は呟いた。<lb />
+「親兄弟、妻子のいる者もあるだろうに、つまらない意地とか、武士の面目とかいうことでしょう、……しかし失敗だったですなあ、頭の上へ刀を五本、両手でさし上げて、あやまりながら逃げまわったというのは、われながらあさましい、しかもそれを見られたのだから、うっ」<lb />
+　伊兵衛は首を縮めて呻いた。<lb />
+　宿へ帰ったが、する事がなかった。あきない用の玩具も余るほど作ってあるし、もっと作るにしても材料を買う銭が（宿賃があるので）心配だった。深酒をした翌日で、しきりに飲みたい誘惑もある、しようがないので、朝昼兼帯の食事をして寝てしまった。<lb />
+　眠りのなかで彼はすばらしい夢をみた。どこかの藩主が家来を大勢伴れて来て、ぜひとも召抱えたいというのである。<lb />
+　――また気まずいことになりますから。<lb />
+　と彼は辞退した。藩主はぜひぜひと譲らず、<seg type="ruby"><seg type="rb">食禄</seg><seg type="rp">（</seg><seg type="rt">しょくろく</seg><seg type="rp">）</seg></seg>は千石だすと云った。千石となると話はべつである。彼は胸がどきどきし、いよいよ時節が来たかと思って、夢のような幸福な気分に満たされた。そのとき妻に起こされた。<lb />
+「お客さまでございます」<lb />
+　三度めくらいに彼は眼をさました。そしてやっぱり夢だったかと、少なからずがっかりしたが、客は藩中の侍だと聞いて、こんどははっきりと眼がさめた。<lb />
+「侍ですって、それは、いやすぐ出ます、ちょっと顔だけ洗って」<lb />
+　伊兵衛は裏へとびだしていった。<lb />
+　客はあの草原へ馬を乗りつけた一人で、「御老職であるぞ」と号令をかけた男だった。年は三十四五、名は牛尾大六というそうで、この安宿には閉口したらしく、土間に立ったまま用件を述べた。要約すると、今朝の礼に<seg type="ruby"><seg type="rb">一盞</seg><seg type="rp">（</seg><seg type="rt">いっさん</seg><seg type="rp">）</seg></seg>献じたいし、また話したいこともあるから、青山主膳宅までぜひ来て貰いたい、というのであった。伊兵衛はわくわくした。<lb />
+　――正夢かもしれない。<lb />
+　前兆ということも軽蔑はできない。よければ同道する、<seg type="ruby"><seg type="rb">駕籠</seg><seg type="rp">（</seg><seg type="rt">かご</seg><seg type="rp">）</seg></seg>が待たしてあるからというので、待って貰って支度をした。<lb />
+「どういう御用でございますか、どこでお知合いになった方ですか」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は心配そうに<seg type="ruby"><seg type="rb">訊</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>いた。彼は失望させたくなかったので、詳しいことは帰って話すと云い、古くはあるが紋付の衣服に<seg type="ruby"><seg type="rb">袴</seg><seg type="rp">（</seg><seg type="rt">はかま</seg><seg type="rp">）</seg></seg>をつけて、久方ぶりに大小を差して、同宿者たちの<seg type="ruby"><seg type="rb">訝</seg><seg type="rp">（</seg><seg type="rt">いぶか</seg><seg type="rp">）</seg></seg>しさと<seg type="ruby"><seg type="rb">羨</seg><seg type="rp">（</seg><seg type="rt">うらや</seg><seg type="rp">）</seg></seg>ましげな眼に送られながら、牛尾大六と共に出ていった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">五</seg></seg></seg>
+<lb />
+　青山邸では<seg type="ruby"><seg type="rb">酒肴</seg><seg type="rp">（</seg><seg type="rt">しゅこう</seg><seg type="rp">）</seg></seg>のもてなしを受けた。<lb />
+　相客はなく、主膳と二人だけで、林という若い家士が給仕をした。老職というがどのくらいの身分であるか、ずいぶん広大な構えだし、客間から見える中庭の樹石も、尋常よりは凝ったもののようであった。<lb />
+　主膳は朝の出来事には触れず、礼を述べるとすぐに伊兵衛の手腕を褒めだした。<lb />
+「実は道から拝見していたのだが、かれらも相当に腕自慢なのだが、まるで子供のようにあしらわれたのには一驚でした、失礼だが御流儀は」<lb />
+「はあ、小野派と抜刀をやりました、しかしもちろんまだ未熟でして」<lb />
+「無用な御謙遜は措いて、それだけのお腕前をもちながら浪人しておられるには、なにか<seg type="ruby"><seg type="rb">仔細</seg><seg type="rp">（</seg><seg type="rt">しさい</seg><seg type="rp">）</seg></seg>のあることと思うが、もし差支えなければお話し下さらぬか」<lb />
+「それはもう、仔細というほどのことはなし、まるでお笑い草のようなものですが」<lb />
+　伊兵衛は身の上のあらましを話した。習慣として旧主家の名はそれとは云わない。ほのめかす程度で相手も納得するわけであるが、彼の話しぶりの謙譲さが、内容の不明確さを補ったとみえ、浪人した理由も、その後の任官がうまくいかなかったわけも、主膳にはおよそ理解がついたようであった。<lb />
+「そういうことも有りそうですな、うむ、私などには奥ゆかしく思われる御性分が、他のばあいには却って邪魔になる、まわりあわせというか、運不運というか、宿命というか」主膳はなにやら云って頷いて、「――では剣法のほかにも弓馬槍術、<seg rend="sesame_dot" rendition="em">やわら</seg>なども御堪能なわけですな」<lb />
+「堪能などとはとんでもない、申上げたとおりまことに<seg type="ruby"><seg type="rb">疎忽</seg><seg type="rp">（</seg><seg type="rt">そこつ</seg><seg type="rp">）</seg></seg>なものでございまして」<lb />
+「いやわかりました、うちあけて云うとこんな早急にお招きしたのは、私のほうにも一つお願いがあるのです」<lb />
+　つまりもういちどここで腕を見せて貰いたい、実はそのために相手をする者を三人待たせてある、というのであった。そのときはもうかなり酒がはいっていた。主膳が意識的に飲ませたようでもあるが、伊兵衛はどちらかというと少し酔っているほうがいいので、むろん快活に承知した。<lb />
+「よろしかったら唯今でも結構です」<lb />
+「では御迷惑でもあろうが」<lb />
+　主膳が声をかけると牛尾大六が来た。次の間にいたらしい。あちらの用意をきいてまいれと云われ、さがっていったが、すぐに用意のできていることを復命した。<lb />
+　案内されたのは道場であった。この家に付いて建てられたもので、母屋の廊下を二た曲りしたところに在り、小さいながらも造りも正式だし、控え部屋もあるもようだった。……主膳のあとから伊兵衛が入ってゆくと、その控えのほうからも三人、こちらと間を合わせるように出て来た。だがどうしたことか、その三人の中の一人は、伊兵衛の姿を見るとぎょっとし、伴れの者になにごとか云うと、そのまま控え部屋へ引返してしまった。<lb />
+　伊兵衛はべつに気にもとめず、隅へいって袴の<seg type="ruby"><seg type="rb">股立</seg><seg type="rp">（</seg><seg type="rt">ももだち</seg><seg type="rp">）</seg></seg>をしぼり、大六の持って来た木刀の中からよく選みもせずに一本取った。鉢巻も<seg type="ruby"><seg type="rb">襷</seg><seg type="rp">（</seg><seg type="rt">たすき</seg><seg type="rp">）</seg></seg>もしないのである。向うでも一人が支度をし、やや長い木刀を持って、主膳になにか<seg type="ruby"><seg type="rb">囁</seg><seg type="rp">（</seg><seg type="rt">ささや</seg><seg type="rp">）</seg></seg>いていた。二十七八になる小柄な青年で、色の黒い<seg type="ruby"><seg type="rb">精悍</seg><seg type="rp">（</seg><seg type="rt">せいかん</seg><seg type="rp">）</seg></seg>そうな顔に、白い歯が際立ってみえた。<lb />
+　やがて主膳の紹介で二人は相対した。青年は原田十兵衛というそうで、伊兵衛の構えを見ると、にやっと微笑した。腰の伸びた間のぬけたような構えが<seg type="ruby"><seg type="rb">可笑</seg><seg type="rp">（</seg><seg type="rt">おか</seg><seg type="rp">）</seg></seg>しかったらしい。伊兵衛はそうとも知らず、眼を細くして頬笑み返し、おまけにひょいとおじぎをしたので、原田青年は危うく失笑しそうになった。むろん失笑しはしない。辛くもがまんしたが、大いに気は楽になったらしく、積極的に掛け声をあげて、<seg type="ruby"><seg type="rb">頻</seg><seg type="rp">（</seg><seg type="rt">しき</seg><seg type="rp">）</seg></seg>りに闘志の<seg type="ruby"><seg type="rb">旺</seg><seg type="rp">（</seg><seg type="rt">さか</seg><seg type="rp">）</seg></seg>んなところを示した。<lb />
+　伊兵衛の構えはずんべらぼうとしたものだった。まるっきり<seg type="ruby"><seg type="rb">捉</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>まえどころがない。<seg type="ruby"><seg type="rb">逞</seg><seg type="rp">（</seg><seg type="rt">たくま</seg><seg type="rp">）</seg></seg>しく厚い肩を少し前跼みにして、木刀を前へつき出して、尻下りの眼でものやさしげに相手を眺めている。うっかりすると睨めっこでも始めそうな恰好だった。<lb />
+　原田青年が鋭く叫び、非常な勢いで躯ごと打ち込んだ。小柄な躯がつぶての飛ぶように見えた。が、伊兵衛はただ<seg type="ruby"><seg type="rb">爪尖</seg><seg type="rp">（</seg><seg type="rt">つまさき</seg><seg type="rp">）</seg></seg>で立って、木刀をすっと頭上へ挙げただけである。原田青年はすっ飛んでいって道場の羽目板へ頭でもって突き当り、独りではね返って、ぶっ倒れて、だがすぐ半身を起こして、ちょっと考えて、「まいった」と叫んだ。<lb />
+「どうも済みません」伊兵衛は恐縮そうにおじぎをした、「――失礼致しました」<lb />
+　次は鍋山又五郎という三十六七の男で、これはおそらく師範役であろう。静かな眼になみなみならぬ光りがあり、態度も沈着で、隙のないおちつきをみせていた。<lb />
+「少し荒いかもしれません」鍋山は平静な声でそう云った、「――どうかそのおつもりで」<lb />
+「は、どうかなにぶん、よろしく」<lb />
+　伊兵衛は気軽くおじぎをし、まえと同じ構えで、まえと同じようにものやさしく相手を見た。鍋山は左の足をぐっと引いて半身になり、木刀の尖を床につくほど下げ、（<seg type="ruby"><seg type="rb">地摺</seg><seg type="rp">（</seg><seg type="rt">じず</seg><seg type="rp">）</seg></seg>り青眼とでもいうのか）<seg type="ruby"><seg type="rb">凄味</seg><seg type="rp">（</seg><seg type="rt">すごみ</seg><seg type="rp">）</seg></seg>のある構えで、じんわりと伊兵衛の眼に見いった。<lb />
+　こんどは少し暇がかかった。どちらも黙っているし、びくっとも動かない。ただ伊兵衛がずんべらぼうとしているのに、鍋山の五躰はしだいに精気が満ち、その眼光は殺気をさえ帯びてくるようであった。そうしてかなりの時間が経つうちに、鍋山の木刀の尖は<seg type="ruby"><seg type="rb">悠</seg><seg type="rp">（</seg><seg type="rt">ゆっ</seg><seg type="rp">）</seg></seg>くりと、眼に見えぬくらい緩慢な動きで、少しずつ、少しずつすり上り、いつかしら、やや低めの青眼に変った。<lb />
+　機は熟したようだ。緊張は頂点に達し、まさに火花が発するかと思えた。<lb />
+　そのとき伊兵衛の木刀が動いて、相手の木刀をひょいと叩いた。ごく軽く冗談のようにひょいと叩いたのであるが、相手の木刀は尖端を下に向けて落ち、ばきっといったふうな音をたてて床板に突立った。<lb />
+「あ、これはどうも」伊兵衛はうろたえて頭に手をやり、「――どうもこれは、とんだことを致しました、大事な道場へ傷をつけてしまいまして、これはなんとも、どうも」<lb />
+　そして突立った木刀を抜いて、穴のあいた床板を済まなそうに<seg type="ruby"><seg type="rb">撫</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>でた。<lb />
+　鍋山又五郎は<seg type="ruby"><seg type="rb">惘然</seg><seg type="rp">（</seg><seg type="rt">もうぜん</seg><seg type="rp">）</seg></seg>と立ったままだった。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">六</seg></seg></seg>
+<lb />
+　伊兵衛は日が<seg type="ruby"><seg type="rb">昏</seg><seg type="rp">（</seg><seg type="rt">く</seg><seg type="rp">）</seg></seg>れてから宿へ帰った。<lb />
+　たいへん上機嫌で、酒に赤くなった顔をにこにこさせて、これは戴いた土産だと、大きな菓子の折を妻に渡した。<lb />
+「夕食を待っていて呉れるだろうと思ったんだけれど、あまり熱心にすすめられるのでついおそくなってね、ええ」<lb />
+　彼は着替えをするあいだも、うきうきと話し続けた。<lb />
+「――もっと早く、ほんのもう一<seg type="ruby"><seg type="rb">刻</seg><seg type="rp">（</seg><seg type="rt">とき</seg><seg type="rp">）</seg></seg>もすれば帰れると思っていたんだが、たいへん御馳走になったりして、それに話もあったものですからねえ」<lb />
+　脱いだ物を片づけていたお<seg rend="sesame_dot" rendition="em">たよ</seg>は、着物の<seg type="ruby"><seg type="rb">袂</seg><seg type="rp">（</seg><seg type="rt">たもと</seg><seg type="rp">）</seg></seg>から紙包をみつけて、不審そうに良人を見た。その重みと手触りで、金だということがわかったからである。<lb />
+「ああ忘れていた、すっかり忘れていましたよ、それは青山さんから貰いましてね、御前へあがるのに必要な支度をするようにって」<lb />
+「御前と仰しゃいますと」お<seg rend="sesame_dot" rendition="em">たよ</seg>は不安そうに訊き返した、「――それにいま何誰かとも仰しゃいましたけれど、わたくしにはなにがなにやらわかりませんわ」<lb />
+「そうそう、そうですとも、少し酔ってるんですよ、ええ、済まないが水を一杯下さい」<lb />
+　伊兵衛は水を飲みながら話しだした。<lb />
+　こんどは調子が渋くなり、言葉づかいもずっとおちついてきた。夫婦のあいだではもう長いこと「仕官」の話は禁物のようになっていた。あまりにたび重なる失敗で、お互いが希望をもつことを避け、できるだけその問題に触れないようにしていたのである。初めは嬉しまぎれと酔った勢いで、つい彼ははしゃいでしまったが、妻の顔色でようやく冷静にかえり、今日あった事をかい摘んで、いかにもさりげなく語った。<lb />
+「ではお三方と試合をなさいましたのですか」<lb />
+「いや二人ですよ、一人はなにか急に故障が出来たそうで、その道場までは来たんだが、……しかし本当はこの次の試合まで待たせたのかもしれませんね、改めて城中で正式にやることになったんですから」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は用心ぶかく、<seg type="ruby"><seg type="rb">諦</seg><seg type="rp">（</seg><seg type="rt">あきら</seg><seg type="rp">）</seg></seg>めた顔つきで<seg type="ruby"><seg type="rb">頷</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>いただけだった、それは、「あまり期待なさらないように」と云いたいのであるらしい。伊兵衛もむろんと云ったふうに、「どっちでもいいんだけれど、向うが折角そう云って呉れるんですからねえ、それに支度金でなにか買えばそれだけ<seg type="ruby"><seg type="rb">儲</seg><seg type="rp">（</seg><seg type="rt">もう</seg><seg type="rp">）</seg></seg>かるし、いやいや、とんでもない、これは冗談ですよ」<lb />
+　こう云ってから、ちょっと意気ごんで、「――だがともかく青山という人は人物らしい、これまでの事もすっかり話しましたがねえ、その理解のして呉れ方がまるで違うんですよ、ええ、ほかの人間とは<seg type="ruby"><seg type="rb">桁</seg><seg type="rp">（</seg><seg type="rt">けた</seg><seg type="rp">）</seg></seg>違いなんです、おまけに幸運というかどうか、ちょうど殿様の教育係を捜しているんだそうで、弓とか槍とか乗馬なども一流の者が欲しい、たいそう武芸に熱心な殿様なんだそうで、もちろんそれだからといって喜びやしませんが、ええ、しかしこんどはどうやら、まあ、なんとかこんどはという気がするんですよ」<lb />
+「それではもう、お<seg type="ruby"><seg type="rb">夕餉</seg><seg type="rp">（</seg><seg type="rt">ゆうげ</seg><seg type="rp">）</seg></seg>は召上らぬのでございますか」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>はさりげなく話をそらした。良人の気持にまきこまれまい、話だけで信用してはいけない。こう自分を抑えているようすが、伊兵衛にはいかにも哀れに思えるのであった。<lb />
+　翌日もやはり雨が降っていたが、彼は城下町までいって、出来合の<seg type="ruby"><seg type="rb">裃</seg><seg type="rp">（</seg><seg type="rt">かみしも</seg><seg type="rp">）</seg></seg>や鼻紙袋や、扇子、足袋、履物などを買い、かなり金が余るので、妻のために<seg type="ruby"><seg type="rb">釵</seg><seg type="rp">（</seg><seg type="rt">かんざし</seg><seg type="rp">）</seg></seg>を買った。<lb />
+　――お<seg rend="sesame_dot" rendition="em">たよ</seg>に物を買うなんて久方ぶりだなあ。<lb />
+　多少いい心もちになったが、道へ出て歩きだすと、例のどこか刺されでもしたような表情でぎゅっと眉をしかめた。<lb />
+　――冗談じゃない。<lb />
+　久方ぶりどころか、妻のために物を買うなどということは初めてである。結婚して八年半、彼女が実家から持って来た物は、すべて売ってしまった。松平家を退身するときには、まだ小さな道具類は持っていたが、それも放浪ちゅうに残らず売ってしまった。しかもこちらから買ってやった物は一つもないのである。彼はしょげて、溜息をついた。それから急に顔をあげ<seg type="ruby"><seg type="rb">喧嘩</seg><seg type="rp">（</seg><seg type="rt">けんか</seg><seg type="rp">）</seg></seg>でも売るようなぐあいに、「だがこんどは正夢ですからね」こう呟いて天を睨めつけた、「――使いの来るすぐまえに前兆もあり、あらゆる条件が<seg type="ruby"><seg type="rb">揃</seg><seg type="rp">（</seg><seg type="rt">そろ</seg><seg type="rp">）</seg></seg>ってるんだから、それにもうそろそろ、いくらなんでもそろそろ時節が来てもいい頃だよ」<lb />
+　伊兵衛は元気に雨のなかを歩きだした。<lb />
+　それから五日めにとつぜん雨があがった。前の晩の夜半までそんなけぶりさえなく、無限のようにしとしと降っていたのが、明けてみるとからっと晴れて、それこそぬけるような青空にきらきらと日が照っていた。<lb />
+「あがったぞ、雨があがったぞ、天気になったぞ」<lb />
+　同宿者たちの一人ひとりが、空を見あげてはそう叫んだ。生活をとり戻した者の素朴なそして正に歓喜にわきたつような声であった。そして伊兵衛のところへも主膳から使者が来た。登城の支度で来い、というのである。<lb />
+「すばらしい吉兆ですね、これは」<lb />
+　伊兵衛はにこにこしながらそう云いかけたが、妻の諦めた顔を見ると慌てて、「私のほうはなんだけれども、みんな二十日以上も降りこめられていたんだからねえ、これでみんな救われますよ、ええ、あの喜びようをごらんなさい、私たちまで嬉しくなってしまうでしょう」<lb />
+「わたくしも出立の支度をしておきますわ」<lb />
+「そうですね、そう」彼はちょっと妻を見て、「――しかし今日というわけにはいかないですよ、帰りがおそくなるかもしれませんからね」<lb />
+「足袋を先にお召しあそばせ」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>はやはりさりげなく話をそらした。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">七</seg></seg></seg>
+<lb />
+　伊兵衛は午後おそく、日の傾く頃に帰って来た。<lb />
+　首尾は上々だったのだろう、こみあげてくる嬉しさを懸命に抑えているが、抑えても抑えてもこみあげてくるので、われながら始末に困るといったふうな、不安定な渋い顔をしていた。<lb />
+「帰りに青山さんへ寄ったものだから」<lb />
+　彼はこう云って、大きな包をそこへ置いた。<lb />
+「――祝いにどうしても一盞ということで、もちろん今日は辞退したけれども、寄らないのも失礼ですからねえ、これは殿様からの引出物です」<lb />
+　家紋を打った紙に包まれた包が二つ、お<seg rend="sesame_dot" rendition="em">たよ</seg>はどきっとしたようすであるが、すぐ平静にかえって、そっと押戴いて隅へ片づけた。<lb />
+「今日はひとつ、飲ませて下さい」<lb />
+　伊兵衛は裃を脱ぎながら云った。<lb />
+「はいかしこまりました」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>もその返辞だけは明るかった。<lb />
+　大体としてこういう安宿には風呂はない。彼は十町ばかり西の宿にある銭湯へいって来て、それからつつましい酒の膳に向った。お<seg rend="sesame_dot" rendition="em">たよ</seg>は給仕をしながら、同宿者の誰それと誰それが出立したこと、誰それと誰それは明日立つこと、出立した人々の伝言や、お互いに泣き合ったことなどを、しみじみとした口ぶりで、珍しく多弁に語った。<lb />
+「こういうお宿へ泊る方たちとは、ずいぶんたくさんお近づきになりましたけれど、みなさんやさしい善い方ばかりでしたわね、自分の暮しさえ満足でないのに、いつも他人のことを心配したり、他人の不幸に心から泣いたり、僅かな物を惜しみもなく分けたり、……ほかの世間の人たちとはまるで違って、哀しいほど思い<seg type="ruby"><seg type="rb">遣</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>りの深い、温かな人たちばかりでしたわ」<lb />
+「貧しい者はお互いが頼りですからね、自分の欲を張っては生きにくい、というわけだろうね」<lb />
+「説教節のお爺さんはこう云っておいででした、もうお眼にはかかれませんが、どこへいってもお二人の御繁昌を祈っております」お<seg rend="sesame_dot" rendition="em">たよ</seg>はそっと眼を伏せた、「――それから涙を拭いて、このあいだのことは死ぬまで忘れません、あんなに有難い、嬉しいことは生れて来て初めてだった、世の中はいいものだということを、この年になって初めて知りましたって……わたくし胸が詰ってしまいました」<lb />
+「もうよしましょう、私にはそういうお<seg rend="sesame_dot" rendition="em">たよ</seg>のほうがもっと哀しい、辛いですから」<lb />
+　伊兵衛はしぼんだ顔になり、それから急に浮きたつように云った。<lb />
+「しかしもうこれもおしまいです、と云ってもいいと思うんだが、実は今日は食禄の高までほぼ内定したんでねえ」<lb />
+「――このまえにも、いちど」<lb />
+「いや今日は違うんですよ、剣術もやったし、弓は五寸の的を二十八間まで延ばしたし、馬は木曽産の<seg type="ruby"><seg type="rb">黒</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>で、まだ乗った者がないという<seg type="ruby"><seg type="rb">悍馬</seg><seg type="rp">（</seg><seg type="rt">かんば</seg><seg type="rp">）</seg></seg>をこなしましたがね、それはそれとして話はべつなんです」<lb />
+　藩主は永井氏で信濃守篤明といい、まだ世継ぎをして間のない、二十そこそこの若さだったが、たいそう武芸に熱心であり、また大いに藩政改革をやろうという、新進気鋭の人であった。そして伊兵衛の<seg type="ruby"><seg type="rb">技倆</seg><seg type="rp">（</seg><seg type="rt">ぎりょう</seg><seg type="rp">）</seg></seg>を見て、ぜひ当家に仕えるようにと云ったが、それは前任者を排して召抱えるのではなく、新たに人増しをするというのであった。<lb />
+「それだからといって、絶対だとはむろん思いはしないけれども、とにかくこんどはね、そこまで疑うというのもねえ」<lb />
+「それはそうでございますとも」お<seg rend="sesame_dot" rendition="em">たよ</seg>はそらすように頷いた。「――お代りをつけましょうか、お食事になさいますか」<lb />
+「そうだね、そう、食事にしましょう」<lb />
+　久しぶりで充分に腕だめしをして、彼の全身は<seg type="ruby"><seg type="rb">爽快</seg><seg type="rp">（</seg><seg type="rt">そうかい</seg><seg type="rp">）</seg></seg>な疲れと満足に<seg type="ruby"><seg type="rb">溢</seg><seg type="rp">（</seg><seg type="rt">あふ</seg><seg type="rp">）</seg></seg>れていた。そのうえ仕官の望みは九分どおり確実である。これまでの例があるから、妻は信じようとしないし、できるだけそのことに触れたくないようであるが、伊兵衛としてはそれが哀れであり、どうかして（断言はせずに）少しでも安心させてやりたいと願わずにはいられなかった。<lb />
+　明くる日は同宿者のうちから三人出立していった。タガ直しの源さんの女房は、背負った子供を揺りあげしながら、「もうお眼にかかれませんわねえ、どうかお二人ともお大事になすって下さいましよ、御出世をなさるようにお祈り申しておりますからねえ、ほんとにいろいろと御親切にして頂いて、お世話さまでございましたよう」<lb />
+　こう云って袖口で涙を拭いた。<lb />
+「みなさんが定って、もうお眼にかかれないと仰しゃるのね」お<seg rend="sesame_dot" rendition="em">たよ</seg>があとで云った、「――これまでも定ったようにそう仰しゃいましたわ、どうしてまたいつか会いたいと仰しゃらないのでしょうか」<lb />
+　伊兵衛はさあねと云って、うろたえたように眼をそらした。<lb />
+　――あの人たちには今日しかない、自分自身の明日のことがわからない、今いっしょにいることは信じられるが、また会えるという望みは、もつことができないのである。<lb />
+　それは旅を渡るかれらに限ったことではない、人間はすべて、……こんなふうなしめっぽい感想がうかんだからであった。<lb />
+　夕方になると新たな客が五人来た。中に猿廻しがいて、夕食のあとで猿に芸をさせてみせ、自分でも諸国の珍しい<seg type="ruby"><seg type="rb">鄙唄</seg><seg type="rp">（</seg><seg type="rt">ひなうた</seg><seg type="rp">）</seg></seg>などうたった。同宿者たちは大いに喜んだが、猿廻しが頃合をみはからって、「みんなが少しお鳥目をはずんで呉れれば、これから猿に<seg type="ruby"><seg type="rb">閨</seg><seg type="rp">（</seg><seg type="rt">ねや</seg><seg type="rp">）</seg></seg>ごとを踊らせてみせる」と云うと、かれらはみれんなくそこを離れて、居場所へ戻ってしまった。<lb />
+　その翌朝。食事を済ませると間もなく、お<seg rend="sesame_dot" rendition="em">たよ</seg>は荷物を片づけ始めた。<lb />
+「今日はいいお日和でございますわ」なにかを包みながら、独り言のように彼女はそう云った、「――少し雲があるくらいな日でも、あの峠はよく雨が降るそうですから、越すなら今日のような日がいいと云いますわ」<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">八</seg></seg></seg>
+<lb />
+「そう、実に今日はよく晴れた」<lb />
+　伊兵衛は話をそらすように、低い<seg type="ruby"><seg type="rb">庇越</seg><seg type="rp">（</seg><seg type="rt">ひさしご</seg><seg type="rp">）</seg></seg>しに空を見あげ、貧乏ゆすりをし、また空を見あげ、そして立ちあがった。<lb />
+「おでかけなさいますの？」<lb />
+「いやでかけやしない、ちょっとその」<lb />
+　彼は宿の外へ出て、おちつかない眼つきで城下町のほうを眺めやった。かなり<seg type="ruby"><seg type="rb">苛々</seg><seg type="rp">（</seg><seg type="rt">いらいら</seg><seg type="rp">）</seg></seg>しているらしい、ふとそっちへ歩きだしそうにして、思い返して、短い<seg type="ruby"><seg type="rb">太息</seg><seg type="rp">（</seg><seg type="rt">といき</seg><seg type="rp">）</seg></seg>をついた。そのときうしろで、いきなりテテンテテンと太鼓の音がした。あまり突然だったので、彼は<seg type="ruby"><seg type="rb">吃驚</seg><seg type="rp">（</seg><seg type="rt">びっくり</seg><seg type="rp">）</seg></seg>して横へとび退いた。<lb />
+「お早うござい、今日円満大吉でござい」<lb />
+　猿廻しであった。どこかしら<seg type="ruby"><seg type="rb">歪</seg><seg type="rp">（</seg><seg type="rt">ゆが</seg><seg type="rp">）</seg></seg>んだしなびたような躯つきの、不自然に陽気なその猿廻しは、そんな挨拶をして、猿を背中にとまらせ、太鼓を叩きながら、足早に城下町のほうへ去っていった。<lb />
+「天気は申し分なしですがねえ」小部屋へ戻って、暫くして伊兵衛がそう云った、「ともかくまだ二日めだし、先方でもなんとか云って来るだろうしねえ、黙って立つというわけにもいかないと思うんだが」<lb />
+「そうでございますわね、でもわたくし、支度だけはしておきますわ」<lb />
+「それはそうですとも、どっちにしても此処は出てゆくんだから……」<lb />
+　伊兵衛はどきりとして誇張していうと、<seg rend="sesame_dot" rendition="em">かまきり</seg>のように首をあげた。馬の<seg type="ruby"><seg type="rb">蹄</seg><seg type="rp">（</seg><seg type="rt">ひづめ</seg><seg type="rp">）</seg></seg>の音が、宿の前で停ったのである。お<seg rend="sesame_dot" rendition="em">たよ</seg>も聞きつけたのだろう、これもはっとしたようだったが、すぐわれに返って包み物を続けた。伊兵衛は立って衣紋を直し、できるだけおちついた口ぶりで、「来たようだね」こう云いながら出ていった。<lb />
+　ちょうど土間へ牛尾大六が入って来るところだった。伊兵衛はどきどきする胸を抑え、できる限り平静を装い、やさしく微笑しながら上り端まで出迎えた。<lb />
+「いや此処で失礼します」<lb />
+　牛尾大六は多少いまわしそうに、汚ならしい家の中を見まわして、このまえのときよりずっと切り口上で云った。<lb />
+「主膳が申しますには、まことに<seg type="ruby"><seg type="rb">稀</seg><seg type="rp">（</seg><seg type="rt">まれ</seg><seg type="rp">）</seg></seg>なる武芸者、その類のないお腕前といい<seg type="ruby"><seg type="rb">高邁</seg><seg type="rp">（</seg><seg type="rt">こうまい</seg><seg type="rp">）</seg></seg>なる御志操といい、禄高に<seg type="ruby"><seg type="rb">拘</seg><seg type="rp">（</seg><seg type="rt">かかわ</seg><seg type="rp">）</seg></seg>らずぜひ御随身が願いたい、また藩侯におかれましても特に御熱心のように拝されまして」<lb />
+「いやそんな、それは過分なお言葉です、私はそんな」<lb />
+「そういうしだいで、当方としては既にお召抱えと決定しかかったのですが、そこに思わぬ故障が起こったのです」<lb />
+　伊兵衛は息をのみ、地面が揺れだすように感じて、ぐっと膝を掴んだ。<lb />
+「故障といっても当方のことではなく、責任はそこもとから出たのですが」大六は冷やかに続けた、「――それは貴方が賭け試合をなすった、城下町のさる道場において金子を賭けて試合をし、勝ってその金子を取ってゆかれた……、もちろん御記憶でございましょう」<lb />
+　伊兵衛は辛うじて頷いた。そしていつか青山家の道場で、相手の三人のうちの一人が、彼を見るなり逃げだしたことを思いだした。<lb />
+「<seg type="ruby"><seg type="rb">慥</seg><seg type="rp">（</seg><seg type="rt">たし</seg><seg type="rp">）</seg></seg>かに覚えております、覚えておりますけれども」伊兵衛はおろおろと、「――それは実はまことに気の毒な者がおりまして、この宿にいた客なんですが」<lb />
+「理由のいかんに拘らず、武士として賭け試合をするなどということは、不面目の第一であるし、それを訴え出た者がある以上、当方としては手を引かざるを得ません、残念ながらこの話は無かったものとお思い下さるように」<lb />
+　牛尾大六は白扇の上に紙包を載せ、それを伊兵衛の前に置きながら云った、「主膳が申しますには、<seg type="ruby"><seg type="rb">些少</seg><seg type="rp">（</seg><seg type="rt">さしょう</seg><seg type="rp">）</seg></seg>ながらこれを旅費の足しにでもお受け下さるよう、とのことでございました」<lb />
+「いやとんでもない、こんな」伊兵衛は泣くような顔で手を振った。「――こんな御心配はどうか、いろいろ戴いていることでもあり、どうかこんな」<lb />
+「いいえ有難く頂戴いたします」<lb />
+　こう云いながら、お<seg rend="sesame_dot" rendition="em">たよ</seg>が来て、良人の脇に坐った。伊兵衛は<seg type="ruby"><seg type="rb">狼狽</seg><seg type="rp">（</seg><seg type="rt">ろうばい</seg><seg type="rp">）</seg></seg>したが、大六も驚いて、あやふやに頭を下げてなにか云おうとした。しかしお<seg rend="sesame_dot" rendition="em">たよ</seg>はその隙を与えなかった。いくらか昂奮はしているが、しっかりした調子で、はきはきと次のように云った。<lb />
+「主人が賭け試合を致しましたのは悪うございました、わたくしもかねがねそれだけはやめて下さるようにと願っていたのでございます、けれどもそれが間違いだったということが、わたくしには初めてわかりました、主人も賭け試合が不面目だということぐらい知っていたと思います、知っていながらやむにやまれない、そうせずにいられないばあいがあるのです、わたくしようやくわかりました、主人の賭け試合で、大勢の人たちがどんなに喜んだか、どんなに救われた気持になったか」<lb />
+「おやめなさい<seg rend="sesame_dot" rendition="em">たよ</seg>、失礼ですから」<lb />
+「はい、やめます、そして貴方にだけ申上げますわ」お<seg rend="sesame_dot" rendition="em">たよ</seg>は向き直り、声をふるわせて云った――、「これからは、貴方がお望みなさるときに、いつでも賭け試合をなすって下さい、そしてまわりの者みんな、貧しい、頼りのない、気の毒な方たちを喜ばせてあげて下さいまし」<lb />
+　彼女の言葉は<seg type="ruby"><seg type="rb">嗚咽</seg><seg type="rp">（</seg><seg type="rt">おえつ</seg><seg type="rp">）</seg></seg>のために消えた。牛尾大六は<seg type="ruby"><seg type="rb">辟易</seg><seg type="rp">（</seg><seg type="rt">へきえき</seg><seg type="rp">）</seg></seg>し、ぐあい悪そうに後退し、そこでなんとなくおじぎをして、ひらりと外へ去っていった。<lb />
+　時刻は中途半端になったが、区切りをつけるという気持で、二人は間もなく宿を出立した。あの晩の米も余っていたが、主膳の呉れた金も折半して宿の主人に預け、またなが雨のときや困っている客があったら、世話をしてやって呉れるようにと頼んで、……夫婦が<seg type="ruby"><seg type="rb">草鞋</seg><seg type="rp">（</seg><seg type="rt">わらじ</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">穿</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>いていると、あのお<seg rend="sesame_dot" rendition="em">ろく</seg>さんという女がやって来た。病的に痩せて尖った顔を（あいそ笑いらしい）みじめにひきつらせながら、「御新造さんこれ持ってって下さい」と、薬袋の古びたのを三帖そこへ出した、「――草鞋にくわれたとき付けるといいんですよ、煙草の灰なんですけどね、唾で練って付けるとよく効きますよ、……もっといいお<seg type="ruby"><seg type="rb">餞別</seg><seg type="rp">（</seg><seg type="rt">せんべつ</seg><seg type="rp">）</seg></seg>をしたいんだけど、そう思うばかしでね、……つまらないもんだけど」<lb />
+「いいえ嬉しいわ、有難う」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は親しい口ぶりで礼を云い、本当に嬉しそうに、それをふところへ入れた。<lb />
+　宿の人たちに追分の宿はずれまで送られ、そこから右へ曲って峠へ向った。伊兵衛はなかなか落胆からぬけられないらしい、お<seg rend="sesame_dot" rendition="em">たよ</seg>はしいて慰めようとは思わなかった。<lb />
+　――これだけ立派な腕をもちながらその力で出世することができない、なんという妙なまわりあわせでしょう、なんというおかしな世間なのでしょう。<lb />
+　彼女はそう思う一方、ふと微笑をさそわれるのであった。<lb />
+　――でもわたくし、このままでもようございますわ、他人を押除けず他人の席を奪わず、貧しいけれど真実な方たちに混って、機会さえあればみんなに喜びや望みをお与えなさる、このままの貴方も御立派ですわ。<lb />
+　こう云いたい気持で、しかし口には出さず、ときどきそっと良人の顔をぬすみ見ながら、お<seg rend="sesame_dot" rendition="em">たよ</seg>は軽い足どりで歩いていった。<lb />
+　伊兵衛もしだいに気をとり直してゆくようだった、失望することには馴れているし、感情の向きを変えることも（習慣で）うまくなっている。ただ妻のおもわくを考えて、そう急に機嫌を直すわけにはいかない、といったふうであった。<lb />
+　だがその遠慮さえつい忘れるときが来た。峠の上へ出て、幕でも切って落したように、眼の下にとつぜん隣国の山野がうちひらけ、爽やかな風が吹きあげて来ると、彼はぱっと顔を輝かして、「やあやあ」と叫びだした。<lb />
+「やあこれは、これはすばらしい、ごらんよあれを、なんて美しい眺めだろう」<lb />
+「まあ本当に、本当にきれいですこと」<lb />
+「どうです、躯じゅうが勇みたちますね、ええ」<lb />
+　彼はまるい顔をにこにこと崩し、少年のように活き活きとした光りでその眼をいっぱいにした。早くもその眺望のなかに、新しい生活と新しい希望を空想し始めたとみえる。<lb />
+「ねえ元気をだして下さい、元気になりましょう」<lb />
+　妻に向って熱心にそう云った。<lb />
+「――あそこに見えるのは十万五千石の城下ですよ、土地は繁昌で有名だし、なにしろ十万五千石ですからね、ひとつこんどこそ、と云ってもいいと思うんだが、元気をだしてゆきましょう」<lb />
+「わたくし元気ですわ」<lb />
+　お<seg rend="sesame_dot" rendition="em">たよ</seg>は明るく笑って、劬るように良人を見上げながら、巧みに彼の口まねをした。<lb />
+「と云ってもいいと思いますわ」<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

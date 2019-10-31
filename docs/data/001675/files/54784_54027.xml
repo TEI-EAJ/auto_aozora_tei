@@ -32,15 +32,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 しかられて<lb />
 外へは出たが<lb />
 我家から<lb />
 夕餉の烟と<lb />
-<span type="ruby"><span type="rb">灯火</span><span type="rp">（</span><span type="rt">ともしび</span><span type="rp">）</span></span>の<lb />
+<seg type="ruby"><seg type="rb">灯火</seg><seg type="rp">（</seg><seg type="rt">ともしび</seg><seg type="rp">）</seg></seg>の<lb />
 黄色い光に<lb />
 混ぜられた<lb />
-たのしい<span type="ruby"><span type="rb">飯</span><span type="rp">（</span><span type="rt">めし</span><span type="rp">）</span></span>の音がする<lb />
+たのしい<seg type="ruby"><seg type="rb">飯</seg><seg type="rp">（</seg><seg type="rt">めし</seg><seg type="rp">）</seg></seg>の音がする<lb />
 強情はってわるかった<lb />
 おなかがすいた<lb />
 風も吹く<lb />
@@ -54,6 +54,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

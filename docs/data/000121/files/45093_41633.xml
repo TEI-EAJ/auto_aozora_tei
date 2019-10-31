@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 坊やがせがむと<lb />
 乳母車、<lb />
 つばきの花をつけられる。<lb />
@@ -50,7 +50,7 @@
 <lb />
 そしてゆら／＼<lb />
 ゆら／＼と、<lb />
-ぶらんこみたいに<span type="ruby"><span type="rb">揺</span><span type="rp">（</span><span type="rt">ゆす</span><span type="rp">）</span></span>られる。<lb />
+ぶらんこみたいに<seg type="ruby"><seg type="rb">揺</seg><seg type="rp">（</seg><seg type="rt">ゆす</seg><seg type="rp">）</seg></seg>られる。<lb />
 <lb />
 坊やがねちやうと<lb />
 乳母車、<lb />
@@ -62,6 +62,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

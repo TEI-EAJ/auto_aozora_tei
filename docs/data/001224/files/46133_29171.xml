@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-12-11">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>」三一書房
+底本：「久生十蘭全集　4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年3月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
@@ -32,49 +32,49 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 　　　あぶれ駕籠<lb />
 <lb />
 「やけに吹きっつぁらしますね」<lb />
-「うるるる、これはたまらん。<span type="ruby"><span type="rb">睾丸</span><span type="rp">（</span><span type="rt">きんたま</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">凍</span><span type="rp">（</span><span type="rt">こご</span><span type="rp">）</span></span>えるわ」<lb />
-　<span type="ruby"><span type="rb">師走</span><span type="rp">（</span><span type="rt">しわす</span><span type="rp">）</span></span>からこのかた湿りがなく、春とはほんの名ばかり、<span type="ruby"><span type="rb">筑波</span><span type="rp">（</span><span type="rt">つくば</span><span type="rp">）</span></span>から来る名代の<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>ッ風が、夕方になると<span type="ruby"><span type="rb">艮</span><span type="rp">（</span><span type="rt">うしとら</span><span type="rp">）</span></span>へまわり、<span type="ruby"><span type="rb">梢</span><span type="rp">（</span><span type="rt">こずえ</span><span type="rp">）</span></span>おろしに枯葉を巻き<span type="ruby"><span type="rb">土煙</span><span type="rp">（</span><span type="rt">つちけむり</span><span type="rp">）</span></span>をあげ、斬りつけるようにビュウと吹き通る。いやもう骨の<span type="ruby"><span type="rb">髄</span><span type="rp">（</span><span type="rt">ずい</span><span type="rp">）</span></span>まで凍えそう。<lb />
-　もとは、江戸一といわれた捕物の名人、仙波顎十郎も、この節はにわか駕籠屋で、その名も<span type="ruby"><span type="rb">約</span><span type="rp">（</span><span type="rt">つづ</span><span type="rp">）</span></span>めて、ただの<span type="ruby"><span type="rb">阿古長</span><span type="rp">（</span><span type="rt">あこちょう</span><span type="rp">）</span></span>。<lb />
-　相棒は、九州あたりの浪人くずれで、<span type="ruby"><span type="rb">雷土々呂進</span><span type="rp">（</span><span type="rt">いかずちとどろしん</span><span type="rp">）</span></span>。このほうも、あっさり縮めて、とど助。<lb />
-　二三日あぶれつづけで、もう<span type="ruby"><span type="rb">二進</span><span type="rp">（</span><span type="rt">にっち</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">三進</span><span type="rp">（</span><span type="rt">さっち</span><span type="rp">）</span></span>もゆかなくなった。<lb />
-　きょうは正月の十日で、<span type="ruby"><span type="rb">金比羅</span><span type="rp">（</span><span type="rt">こんぴら</span><span type="rp">）</span></span>まいりの当日、名代の<span type="ruby"><span type="rb">京極</span><span type="rp">（</span><span type="rt">きょうごく</span><span type="rp">）</span></span>金比羅、虎の御門そとの京極能登守の上屋敷へ<span type="ruby"><span type="rb">讃岐</span><span type="rp">（</span><span type="rt">さぬき</span><span type="rp">）</span></span>から<span type="ruby"><span type="rb">勧請</span><span type="rp">（</span><span type="rt">かんじん</span><span type="rp">）</span></span>した金比羅さまがたいへんに繁昌する。<lb />
-　アコ長ととど助、屋敷の門前へ四ツ手をすえ、<span type="ruby"><span type="rb">諸声</span><span type="rp">（</span><span type="rt">もろごえ</span><span type="rp">）</span></span>で、<lb />
+「うるるる、これはたまらん。<seg type="ruby"><seg type="rb">睾丸</seg><seg type="rp">（</seg><seg type="rt">きんたま</seg><seg type="rp">）</seg></seg>が<seg type="ruby"><seg type="rb">凍</seg><seg type="rp">（</seg><seg type="rt">こご</seg><seg type="rp">）</seg></seg>えるわ」<lb />
+　<seg type="ruby"><seg type="rb">師走</seg><seg type="rp">（</seg><seg type="rt">しわす</seg><seg type="rp">）</seg></seg>からこのかた湿りがなく、春とはほんの名ばかり、<seg type="ruby"><seg type="rb">筑波</seg><seg type="rp">（</seg><seg type="rt">つくば</seg><seg type="rp">）</seg></seg>から来る名代の<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">から</seg><seg type="rp">）</seg></seg>ッ風が、夕方になると<seg type="ruby"><seg type="rb">艮</seg><seg type="rp">（</seg><seg type="rt">うしとら</seg><seg type="rp">）</seg></seg>へまわり、<seg type="ruby"><seg type="rb">梢</seg><seg type="rp">（</seg><seg type="rt">こずえ</seg><seg type="rp">）</seg></seg>おろしに枯葉を巻き<seg type="ruby"><seg type="rb">土煙</seg><seg type="rp">（</seg><seg type="rt">つちけむり</seg><seg type="rp">）</seg></seg>をあげ、斬りつけるようにビュウと吹き通る。いやもう骨の<seg type="ruby"><seg type="rb">髄</seg><seg type="rp">（</seg><seg type="rt">ずい</seg><seg type="rp">）</seg></seg>まで凍えそう。<lb />
+　もとは、江戸一といわれた捕物の名人、仙波顎十郎も、この節はにわか駕籠屋で、その名も<seg type="ruby"><seg type="rb">約</seg><seg type="rp">（</seg><seg type="rt">つづ</seg><seg type="rp">）</seg></seg>めて、ただの<seg type="ruby"><seg type="rb">阿古長</seg><seg type="rp">（</seg><seg type="rt">あこちょう</seg><seg type="rp">）</seg></seg>。<lb />
+　相棒は、九州あたりの浪人くずれで、<seg type="ruby"><seg type="rb">雷土々呂進</seg><seg type="rp">（</seg><seg type="rt">いかずちとどろしん</seg><seg type="rp">）</seg></seg>。このほうも、あっさり縮めて、とど助。<lb />
+　二三日あぶれつづけで、もう<seg type="ruby"><seg type="rb">二進</seg><seg type="rp">（</seg><seg type="rt">にっち</seg><seg type="rp">）</seg></seg>も<seg type="ruby"><seg type="rb">三進</seg><seg type="rp">（</seg><seg type="rt">さっち</seg><seg type="rp">）</seg></seg>もゆかなくなった。<lb />
+　きょうは正月の十日で、<seg type="ruby"><seg type="rb">金比羅</seg><seg type="rp">（</seg><seg type="rt">こんぴら</seg><seg type="rp">）</seg></seg>まいりの当日、名代の<seg type="ruby"><seg type="rb">京極</seg><seg type="rp">（</seg><seg type="rt">きょうごく</seg><seg type="rp">）</seg></seg>金比羅、虎の御門そとの京極能登守の上屋敷へ<seg type="ruby"><seg type="rb">讃岐</seg><seg type="rp">（</seg><seg type="rt">さぬき</seg><seg type="rp">）</seg></seg>から<seg type="ruby"><seg type="rb">勧請</seg><seg type="rp">（</seg><seg type="rt">かんじん</seg><seg type="rp">）</seg></seg>した金比羅さまがたいへんに繁昌する。<lb />
+　アコ長ととど助、屋敷の門前へ四ツ手をすえ、<seg type="ruby"><seg type="rb">諸声</seg><seg type="rp">（</seg><seg type="rt">もろごえ</seg><seg type="rp">）</seg></seg>で、<lb />
 「ヘエ、まいりましょう」<lb />
 「これ、駕籠へのらんか、安くまいるゾ」<lb />
 　と、懸命にやったが、ひとりも客がつかぬ。<lb />
-　しかたがないから、<span type="ruby"><span type="rb">白金</span><span type="rp">（</span><span type="rt">しろかね</span><span type="rp">）</span></span>へまわって、ここもやっぱり金比羅勧請の、高松の<span type="ruby"><span type="rb">松平讃岐守</span><span type="rp">（</span><span type="rt">まつだいらさぬきのかみ</span><span type="rp">）</span></span>の上屋敷。植木の露店なども出て、たいへんな人出なんだが、ここもいけない。<lb />
+　しかたがないから、<seg type="ruby"><seg type="rb">白金</seg><seg type="rp">（</seg><seg type="rt">しろかね</seg><seg type="rp">）</seg></seg>へまわって、ここもやっぱり金比羅勧請の、高松の<seg type="ruby"><seg type="rb">松平讃岐守</seg><seg type="rp">（</seg><seg type="rt">まつだいらさぬきのかみ</seg><seg type="rp">）</seg></seg>の上屋敷。植木の露店なども出て、たいへんな人出なんだが、ここもいけない。<lb />
 　アコ長、とうとう音をあげて、<lb />
-「こいつア弱った。こう見えても、わたしは信心のいいほうなんですが、いっこうに<span type="ruby"><span type="rb">御利益</span><span type="rp">（</span><span type="rt">ごりやく</span><span type="rp">）</span></span>がありません」<lb />
+「こいつア弱った。こう見えても、わたしは信心のいいほうなんですが、いっこうに<seg type="ruby"><seg type="rb">御利益</seg><seg type="rp">（</seg><seg type="rt">ごりやく</seg><seg type="rp">）</seg></seg>がありません」<lb />
 　とど助も、弱った声で、<lb />
 「いかにも珍である。こうまで精を出して、ただのひとりの客がないというのは、実に異なことだな」<lb />
-「澄ましてちゃいけません、とど助さん。けさの八ツから空ッ風に吹きさらされ、おまけに形のあるものはなにひとつ咽喉を通していないんだから、くたくたのひょろひょろ、棒鼻にもたれてようやく立っているというばかり、ひでえ<span type="ruby"><span type="rb">悪日</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>もあるもンだ」<lb />
-「その点は、わしも同様。けさからなにも<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">しょく</span><span type="rp">）</span></span>しておらんので、空腹でやりきれん。なんとかならんものであろうかの」<lb />
+「澄ましてちゃいけません、とど助さん。けさの八ツから空ッ風に吹きさらされ、おまけに形のあるものはなにひとつ咽喉を通していないんだから、くたくたのひょろひょろ、棒鼻にもたれてようやく立っているというばかり、ひでえ<seg type="ruby"><seg type="rb">悪日</seg><seg type="rp">（</seg><seg type="rt">あくび</seg><seg type="rp">）</seg></seg>もあるもンだ」<lb />
+「その点は、わしも同様。けさからなにも<seg type="ruby"><seg type="rb">食</seg><seg type="rp">（</seg><seg type="rt">しょく</seg><seg type="rp">）</seg></seg>しておらんので、空腹でやりきれん。なんとかならんものであろうかの」<lb />
 「わたしに相談しかけたってしょうがない」<lb />
 「しからば、だれに相談するとか」<lb />
 「なにをゆっくりしたことを言ってるんです。ひょっとすると、こりゃ、晩まであぶれですぜ」<lb />
 「どうも、弱った、弱った」<lb />
-　仙波阿古十郎、一世一代の大しくじり。喰い意地を張ったばかりに、女賊の小波にうまくしてやられ、金蔵破りの張り番をしたという眼もあてられぬ<span type="ruby"><span type="rb">経緯</span><span type="rp">（</span><span type="rt">いきさつ</span><span type="rp">）</span></span>。<lb />
+　仙波阿古十郎、一世一代の大しくじり。喰い意地を張ったばかりに、女賊の小波にうまくしてやられ、金蔵破りの張り番をしたという眼もあてられぬ<seg type="ruby"><seg type="rb">経緯</seg><seg type="rp">（</seg><seg type="rt">いきさつ</seg><seg type="rp">）</seg></seg>。<lb />
 　……性来下司にして、口腹の欲に迷い、ウマウマ嵌められました段、まことに面目次第もこれなく、……というお役御免の願書をたたきつけて、とめる袂をふりきって北町奉行所をおンでたまでは威勢がよかったが、そういつまでも部屋にばかりころがっているわけにもゆかない。<lb />
-　なんとか食の<span type="ruby"><span type="rb">途</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>をあけようと思っている矢さき、ふと居酒屋で知りあった雷土々呂進。どうせ世をしのぶ仮りの名だろうが、このご仁も喰いつめてテッパライ。盃をやりとりしているうちにひどく気があって、<lb />
+　なんとか食の<seg type="ruby"><seg type="rb">途</seg><seg type="rp">（</seg><seg type="rt">みち</seg><seg type="rp">）</seg></seg>をあけようと思っている矢さき、ふと居酒屋で知りあった雷土々呂進。どうせ世をしのぶ仮りの名だろうが、このご仁も喰いつめてテッパライ。盃をやりとりしているうちにひどく気があって、<lb />
 「どうでしょう、ふたりで辻駕籠でもやってみたら、なんとか喰いつなげるかもわかりません」<lb />
 「面白い、やりましょう」<lb />
 　で、始めたやつ。<lb />
-　空ッ脛だけが<span type="ruby"><span type="rb">元手</span><span type="rp">（</span><span type="rt">もとで</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">朦朧</span><span type="rp">（</span><span type="rt">もうろう</span><span type="rp">）</span></span>駕籠屋。<lb />
+　空ッ脛だけが<seg type="ruby"><seg type="rb">元手</seg><seg type="rp">（</seg><seg type="rt">もとで</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">朦朧</seg><seg type="rp">（</seg><seg type="rt">もうろう</seg><seg type="rp">）</seg></seg>駕籠屋。<lb />
 　親方もなし、駕籠宿もなし、したがって、繩張りなんてえものもない。<lb />
-　縁日、縁日をたよりに、きょうは白金の辻、明日は<span type="ruby"><span type="rb">柳原堤</span><span type="rp">（</span><span type="rt">やなぎわらどて</span><span type="rp">）</span></span>と、風にまかせて流して歩き、このへんと思う辻々で客待ちをする。気楽は気楽だが、やっぱり法にかなってないとみえて、あまりパッとしない。<lb />
+　縁日、縁日をたよりに、きょうは白金の辻、明日は<seg type="ruby"><seg type="rb">柳原堤</seg><seg type="rp">（</seg><seg type="rt">やなぎわらどて</seg><seg type="rp">）</seg></seg>と、風にまかせて流して歩き、このへんと思う辻々で客待ちをする。気楽は気楽だが、やっぱり法にかなってないとみえて、あまりパッとしない。<lb />
 　辻のせいばかりじゃない、月ぎめ銀二朱で借りた見るかげもない古四ツ手。<lb />
-　垂れはちぎれ、<span type="ruby"><span type="rb">凭竹</span><span type="rp">（</span><span type="rt">もたれ</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">乾破</span><span type="rp">（</span><span type="rt">ひわ</span><span type="rp">）</span></span>れ、底が抜けかかって、敷蒲団から古綿がはみだしている。とんと、闇討にあった吉原駕籠の<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>たらく。<lb />
+　垂れはちぎれ、<seg type="ruby"><seg type="rb">凭竹</seg><seg type="rp">（</seg><seg type="rt">もたれ</seg><seg type="rp">）</seg></seg>は<seg type="ruby"><seg type="rb">乾破</seg><seg type="rp">（</seg><seg type="rt">ひわ</seg><seg type="rp">）</seg></seg>れ、底が抜けかかって、敷蒲団から古綿がはみだしている。とんと、闇討にあった吉原駕籠の<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>たらく。<lb />
 　おまけに、駕籠舁がいけない。<lb />
-　アコ長のほうは、ごぞんじの通り、<span type="ruby"><span type="rb">大一番</span><span type="rp">（</span><span type="rt">おおいちばん</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">長面</span><span type="rp">（</span><span type="rt">ながづら</span><span type="rp">）</span></span>の馬が<span type="ruby"><span type="rb">長成</span><span type="rp">（</span><span type="rt">ながなり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">冬瓜</span><span type="rp">（</span><span type="rt">とうがん</span><span type="rp">）</span></span>をくわえたような、眼の下一尺二寸もあろうという不思議な面相。<lb />
+　アコ長のほうは、ごぞんじの通り、<seg type="ruby"><seg type="rb">大一番</seg><seg type="rp">（</seg><seg type="rt">おおいちばん</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">長面</seg><seg type="rp">（</seg><seg type="rt">ながづら</seg><seg type="rp">）</seg></seg>の馬が<seg type="ruby"><seg type="rb">長成</seg><seg type="rp">（</seg><seg type="rt">ながなり</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">冬瓜</seg><seg type="rp">（</seg><seg type="rt">とうがん</seg><seg type="rp">）</seg></seg>をくわえたような、眼の下一尺二寸もあろうという不思議な面相。<lb />
 　とど助のほうは、これはどう見たって浪人くずれ。それも、なみの武士じゃない。いわば、出来そくない。<lb />
-　身の丈五尺九寸もある<span type="ruby"><span type="rb">大入道</span><span type="rp">（</span><span type="rt">おおにゅうどう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">大眼玉</span><span type="rp">（</span><span type="rt">おおめだま</span><span type="rp">）</span></span>。容貌いたって<span type="ruby"><span type="rb">魁偉</span><span type="rp">（</span><span type="rt">かいい</span><span type="rp">）</span></span>で、ちょうど<span type="ruby"><span type="rb">水滸伝</span><span type="rp">（</span><span type="rt">すいこでん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/2-13/2-13-28.png" rend="gaiji" rendition="img" source="※(「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28)" />絵</span><span type="rp">（</span><span type="rt">さしえ</span><span type="rp">）</span></span>にある<span type="ruby"><span type="rb">花和尚魯智深</span><span type="rp">（</span><span type="rt">かおしょうろちしん</span><span type="rp">）</span></span>のような面がまえ。<lb />
+　身の丈五尺九寸もある<seg type="ruby"><seg type="rb">大入道</seg><seg type="rp">（</seg><seg type="rt">おおにゅうどう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">大眼玉</seg><seg type="rp">（</seg><seg type="rt">おおめだま</seg><seg type="rp">）</seg></seg>。容貌いたって<seg type="ruby"><seg type="rb">魁偉</seg><seg type="rp">（</seg><seg type="rt">かいい</seg><seg type="rp">）</seg></seg>で、ちょうど<seg type="ruby"><seg type="rb">水滸伝</seg><seg type="rp">（</seg><seg type="rt">すいこでん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb"><seg change="gaiji" facs="../../../gaiji/2-13/2-13-28.png" rend="gaiji" rendition="img" source="※(「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28)" />絵</seg><seg type="rp">（</seg><seg type="rt">さしえ</seg><seg type="rp">）</seg></seg>にある<seg type="ruby"><seg type="rb">花和尚魯智深</seg><seg type="rp">（</seg><seg type="rt">かおしょうろちしん</seg><seg type="rp">）</seg></seg>のような面がまえ。<lb />
 　それだけならまだいいが、アコ長のほうはせいぜい五尺五六寸の中背だから、このふたりが差しにないということになると、駕籠はいきおい斜め宙吊りとあいなり、客はツンのめったままで行くか、あおのけになって揺られるか、いずれにしても、普通には行かない。これじゃ、だれだって恐れをなして逃げ出してしまう。<lb />
 　アコ長は、水ッ鼻をすすりながら、マジマジととど助の顔を眺めていたが、いまいましそうに舌打ちをして、<lb />
 「……思うにですな、とど助さん、今日のあぶれは、こりゃアあんたのせいなんですぜ」<lb />
@@ -84,83 +84,83 @@
 「そうだったのう、じゃありませんよ。あんたのような、見あげるような入道が、大眼玉をむいて、おいこらア、駕籠にのれ、安くまいるぞ、じゃ、だれだって逃げ出してしまいます」<lb />
 　とど助は、額に手をやり、<lb />
 「それを言われると、わしもつらい。あんたとの約束は忘れたわけじゃなかったが、なにしろ寒くもあり、空ッ風に吹きさらされてぼんやり立っているのは、いかにも無聊。……腹立ちまぎれに大きな声を出しとったんじゃい」<lb />
-「いけませんよ、とど助さん。空ッ腹の<span type="ruby"><span type="rb">鬱憤</span><span type="rp">（</span><span type="rt">うっぷん</span><span type="rp">）</span></span>ばらしにあんな恐い声を出しちゃ、とても商売にはなりません、やめてもらいましょう」<lb />
+「いけませんよ、とど助さん。空ッ腹の<seg type="ruby"><seg type="rb">鬱憤</seg><seg type="rp">（</seg><seg type="rt">うっぷん</seg><seg type="rp">）</seg></seg>ばらしにあんな恐い声を出しちゃ、とても商売にはなりません、やめてもらいましょう」<lb />
 「いかにも、わしが悪かった。もうよす、よす。……よすはよすが、これから、どうする。参詣のひとも、もうちらほらになったから、いつまでもこんなところで客待ちしておっても、立ちゆかんと思うが」<lb />
 「麻布六本木の京極の下屋敷の金比羅様もなかなか繁昌するそうだから、そっちへ廻ってみましょうか」<lb />
-「やむを得んな。なんとかして、ひとつでも<span type="ruby"><span type="rb">兜首</span><span type="rp">（</span><span type="rt">かぶとくび</span><span type="rp">）</span></span>をあげんことには、行きだおれが出来る」<lb />
+「やむを得んな。なんとかして、ひとつでも<seg type="ruby"><seg type="rb">兜首</seg><seg type="rp">（</seg><seg type="rt">かぶとくび</seg><seg type="rp">）</seg></seg>をあげんことには、行きだおれが出来る」<lb />
 「じゃ、まあ元気を出して、行くとしましょうか」<lb />
 「ああ、まいろう」<lb />
 <lb />
-　　　どじょう<span type="ruby"><span type="rb">鯰</span><span type="rp">（</span><span type="rt">なまず</span><span type="rp">）</span></span><lb />
+　　　どじょう<seg type="ruby"><seg type="rb">鯰</seg><seg type="rp">（</seg><seg type="rt">なまず</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　六本木の<span type="ruby"><span type="rb">多度津</span><span type="rp">（</span><span type="rt">たどつ</span><span type="rp">）</span></span>京極の屋敷の門前で、またひと刻。<lb />
-　とっぷりと暮れて六ツ半ともなれば、参詣の人影も絶え、ついで、屋敷の大扉はとざされてしまったので、あたりはひっそり<span type="ruby"><span type="rb">閑</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>。<lb />
+　六本木の<seg type="ruby"><seg type="rb">多度津</seg><seg type="rp">（</seg><seg type="rt">たどつ</seg><seg type="rp">）</seg></seg>京極の屋敷の門前で、またひと刻。<lb />
+　とっぷりと暮れて六ツ半ともなれば、参詣の人影も絶え、ついで、屋敷の大扉はとざされてしまったので、あたりはひっそり<seg type="ruby"><seg type="rb">閑</seg><seg type="rp">（</seg><seg type="rt">かん</seg><seg type="rp">）</seg></seg>。<lb />
 　このへんは寺や屋敷だけの町で、黒門に出格子窓。暮れると人通りもない場所で、聞えるものは空ッ風と犬の遠吠えばかり。<lb />
 　アコ長は、凍えた手を提灯の火にかざしながら、<lb />
-「とど助さん、どうも、いけないことになりました。愚痴を言ったって始まらない、こんな日はケチがついているんだから、きょうは<span type="ruby"><span type="rb">諦</span><span type="rp">（</span><span type="rt">あきら</span><span type="rp">）</span></span>めて、このまま戻ることにしましょう」<lb />
+「とど助さん、どうも、いけないことになりました。愚痴を言ったって始まらない、こんな日はケチがついているんだから、きょうは<seg type="ruby"><seg type="rb">諦</seg><seg type="rp">（</seg><seg type="rt">あきら</seg><seg type="rp">）</seg></seg>めて、このまま戻ることにしましょう」<lb />
 　とど助は、むむ、と腕を組んだ。<lb />
 「いよいよいけないとなれば、わしも愚痴は言わんが、家へもどっても夕食をする当のないのは弱った」<lb />
 「それが、愚痴というもんですよ」<lb />
-「こういう<span type="ruby"><span type="rb">霜腹気</span><span type="rp">（</span><span type="rt">しもばらけ</span><span type="rp">）</span></span>の日に、<span type="ruby"><span type="rb">泥鰌</span><span type="rp">（</span><span type="rt">どじょう</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">丸煮</span><span type="rp">（</span><span type="rt">まるに</span><span type="rp">）</span></span>かなんかで、熱燗をキュッとひっかけたら、さぞ<span type="ruby"><span type="rb">美味</span><span type="rp">（</span><span type="rt">びみ</span><span type="rp">）</span></span>なことであろう」<lb />
+「こういう<seg type="ruby"><seg type="rb">霜腹気</seg><seg type="rp">（</seg><seg type="rt">しもばらけ</seg><seg type="rp">）</seg></seg>の日に、<seg type="ruby"><seg type="rb">泥鰌</seg><seg type="rp">（</seg><seg type="rt">どじょう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">丸煮</seg><seg type="rp">（</seg><seg type="rt">まるに</seg><seg type="rp">）</seg></seg>かなんかで、熱燗をキュッとひっかけたら、さぞ<seg type="ruby"><seg type="rb">美味</seg><seg type="rp">（</seg><seg type="rt">びみ</seg><seg type="rp">）</seg></seg>なことであろう」<lb />
 「贅沢をいっちゃいけませんよ。こんなときに食いもんの話をするのは殺生ですよ」<lb />
 「背に腹はかえられんな」<lb />
 「なにを言ってるんです。背に腹どころじゃない、わたしなんざ、腹の皮が背中にくっつきそうだ」<lb />
 「であるからして、思い切ってやろう」<lb />
-「急に血相を変えて、なにをやるというんです。<span type="ruby"><span type="rb">辻斬</span><span type="rp">（</span><span type="rt">つじぎり</span><span type="rp">）</span></span>なんぞ、いやですぜ」<lb />
+「急に血相を変えて、なにをやるというんです。<seg type="ruby"><seg type="rb">辻斬</seg><seg type="rp">（</seg><seg type="rt">つじぎり</seg><seg type="rp">）</seg></seg>なんぞ、いやですぜ」<lb />
 「いかに渇しても、辻斬なんぞはせん。一杯飲もう」<lb />
 「銭がなくて、どうして酒が飲めるもんですか」<lb />
-「そのくらいのことは、わしも存じておるが、法をもってすれば、飲めんことはない。後はわしが引きうけたから、<span type="ruby"><span type="rb">我善坊</span><span type="rp">（</span><span type="rt">がぜんぼう</span><span type="rp">）</span></span>の泥鰌屋へ行こう」<lb />
-「でも、あのへんは伊勢<span type="ruby"><span type="rb">駕</span><span type="rp">（</span><span type="rt">かご</span><span type="rp">）</span></span>の繩張だから、下手なことをすると、ぶったたかれますぜ」<lb />
+「そのくらいのことは、わしも存じておるが、法をもってすれば、飲めんことはない。後はわしが引きうけたから、<seg type="ruby"><seg type="rb">我善坊</seg><seg type="rp">（</seg><seg type="rt">がぜんぼう</seg><seg type="rp">）</seg></seg>の泥鰌屋へ行こう」<lb />
+「でも、あのへんは伊勢<seg type="ruby"><seg type="rb">駕</seg><seg type="rp">（</seg><seg type="rt">かご</seg><seg type="rp">）</seg></seg>の繩張だから、下手なことをすると、ぶったたかれますぜ」<lb />
 「なあに、かまわん、かまわん。わしがうまい工合にやる。心配せんとついて来まっせ」<lb />
-　空駕籠をかついで<span type="ruby"><span type="rb">仲町</span><span type="rp">（</span><span type="rt">なかまち</span><span type="rp">）</span></span>から<span type="ruby"><span type="rb">飯倉片町</span><span type="rp">（</span><span type="rt">いいぐらかたまち</span><span type="rp">）</span></span>のほうへやって来ると、おかめ<span type="ruby"><span type="rb">団子</span><span type="rp">（</span><span type="rt">だんご</span><span type="rp">）</span></span>のすじかいに、<span type="ruby"><span type="rb">紺暖簾</span><span type="rp">（</span><span type="rt">こんのれん</span><span type="rp">）</span></span>に『どぜう汁』と白抜にした、名代の泥鰌屋。駕籠舁、中間、陸尺などが大勢に寄って来てたいへんに繁昌する。<lb />
+　空駕籠をかついで<seg type="ruby"><seg type="rb">仲町</seg><seg type="rp">（</seg><seg type="rt">なかまち</seg><seg type="rp">）</seg></seg>から<seg type="ruby"><seg type="rb">飯倉片町</seg><seg type="rp">（</seg><seg type="rt">いいぐらかたまち</seg><seg type="rp">）</seg></seg>のほうへやって来ると、おかめ<seg type="ruby"><seg type="rb">団子</seg><seg type="rp">（</seg><seg type="rt">だんご</seg><seg type="rp">）</seg></seg>のすじかいに、<seg type="ruby"><seg type="rb">紺暖簾</seg><seg type="rp">（</seg><seg type="rt">こんのれん</seg><seg type="rp">）</seg></seg>に『どぜう汁』と白抜にした、名代の泥鰌屋。駕籠舁、中間、陸尺などが大勢に寄って来てたいへんに繁昌する。<lb />
 　泥鰌鍋のほかに駕籠宿もやっているので、奥まった半座敷には、駕籠舁の若い者がいつも十人二十人とごろっちゃらしている。<lb />
-　軒下へ駕籠をおしつけておいて、暖簾をわけて入って行くと、やっと松がとれたばかりの正月の十日。どいつもこいつも大景気。人数にして三十人ばかり、丸煮やら<span type="ruby"><span type="rb">柳川鍋</span><span type="rp">（</span><span type="rt">やながわなべ</span><span type="rp">）</span></span>やら大湯呑に<span type="ruby"><span type="rb">鬼菱</span><span type="rp">（</span><span type="rt">おにびし</span><span type="rp">）</span></span>というのを注がせて、さかんに<span type="ruby"><span type="rb">煽</span><span type="rp">（</span><span type="rt">あお</span><span type="rp">）</span></span>りつけている。<lb />
-　すいた床几へようやく割りこんだアコ長ととど助。けさっからの<span type="ruby"><span type="rb">大旱魃</span><span type="rp">（</span><span type="rt">おおひでり</span><span type="rp">）</span></span>なもんだから、たちまち咽喉を鳴らし、<lb />
+　軒下へ駕籠をおしつけておいて、暖簾をわけて入って行くと、やっと松がとれたばかりの正月の十日。どいつもこいつも大景気。人数にして三十人ばかり、丸煮やら<seg type="ruby"><seg type="rb">柳川鍋</seg><seg type="rp">（</seg><seg type="rt">やながわなべ</seg><seg type="rp">）</seg></seg>やら大湯呑に<seg type="ruby"><seg type="rb">鬼菱</seg><seg type="rp">（</seg><seg type="rt">おにびし</seg><seg type="rp">）</seg></seg>というのを注がせて、さかんに<seg type="ruby"><seg type="rb">煽</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>りつけている。<lb />
+　すいた床几へようやく割りこんだアコ長ととど助。けさっからの<seg type="ruby"><seg type="rb">大旱魃</seg><seg type="rp">（</seg><seg type="rt">おおひでり</seg><seg type="rp">）</seg></seg>なもんだから、たちまち咽喉を鳴らし、<lb />
 「いやどうも、たまらん匂いがする」<lb />
 「匂いはいいが、とど助さん、後のところは大丈夫でしょうね」<lb />
-「くどく念をおす必要はない。たしかに、わしが引きうけた。……おい、姐や、丸煮を二人前に、鬼菱を一升持って来まっせ、急ぎだ急ぎだ、焦がれ死にをしそうなのが、ここに二人いる。<span type="ruby"><span type="rb">迅速</span><span type="rp">（</span><span type="rt">じんそく</span><span type="rp">）</span></span>に持って<span type="ruby"><span type="rb">来酒</span><span type="rp">（</span><span type="rt">きさけ</span><span type="rp">）</span></span>まッせ」<lb />
+「くどく念をおす必要はない。たしかに、わしが引きうけた。……おい、姐や、丸煮を二人前に、鬼菱を一升持って来まっせ、急ぎだ急ぎだ、焦がれ死にをしそうなのが、ここに二人いる。<seg type="ruby"><seg type="rb">迅速</seg><seg type="rp">（</seg><seg type="rt">じんそく</seg><seg type="rp">）</seg></seg>に持って<seg type="ruby"><seg type="rb">来酒</seg><seg type="rp">（</seg><seg type="rt">きさけ</seg><seg type="rp">）</seg></seg>まッせ」<lb />
 　酒はいい加減に切りあげて、柳川鍋でめしを五六杯。このお代が、五百五十文。<lb />
-　もとより、こちらは一文なし。どうするのかと見ていると、とど助が<span type="ruby"><span type="rb">大束</span><span type="rp">（</span><span type="rt">おおたば</span><span type="rp">）</span></span>なことを言い出した。<lb />
-「これこれ、姐や、<span type="ruby"><span type="rb">主人</span><span type="rp">（</span><span type="rt">あるじ</span><span type="rp">）</span></span>はおるか。おるならちょと会いたいが……」<lb />
-　妙な顔をして小婢が板場へ駈けこむと、間もなくやって来たのは、ひどく<span type="ruby"><span type="rb">兄哥面</span><span type="rp">（</span><span type="rt">あにいづら</span><span type="rp">）</span></span>をした駕籠役の帳面つけのような男。突っ立ったまま横柄な口調で、<lb />
-「ご用ってのは、いったいなんです。柳川鍋の中へ<span type="ruby"><span type="rb">鑷</span><span type="rp">（</span><span type="rt">けぬき</span><span type="rp">）</span></span>でも入っていましたか」<lb />
+　もとより、こちらは一文なし。どうするのかと見ていると、とど助が<seg type="ruby"><seg type="rb">大束</seg><seg type="rp">（</seg><seg type="rt">おおたば</seg><seg type="rp">）</seg></seg>なことを言い出した。<lb />
+「これこれ、姐や、<seg type="ruby"><seg type="rb">主人</seg><seg type="rp">（</seg><seg type="rt">あるじ</seg><seg type="rp">）</seg></seg>はおるか。おるならちょと会いたいが……」<lb />
+　妙な顔をして小婢が板場へ駈けこむと、間もなくやって来たのは、ひどく<seg type="ruby"><seg type="rb">兄哥面</seg><seg type="rp">（</seg><seg type="rt">あにいづら</seg><seg type="rp">）</seg></seg>をした駕籠役の帳面つけのような男。突っ立ったまま横柄な口調で、<lb />
+「ご用ってのは、いったいなんです。柳川鍋の中へ<seg type="ruby"><seg type="rb">鑷</seg><seg type="rp">（</seg><seg type="rt">けぬき</seg><seg type="rp">）</seg></seg>でも入っていましたか」<lb />
 　ナメたようなことをいう。<lb />
 　とど助は、落着きはらって、<lb />
 「いや、そんなものは見あたらなかった。わざわざ呼び立てたが、用事というのは、ほんの、ちょっとしたことだ」<lb />
 「なんでえ、こいつは。嫌に持ってまわったことを言いやがる。こっちは忙しいんだから、あっさりやってもらいてえね」<lb />
 「おお、そうか。それならば、あっさり言おう。……実は、銭がない」<lb />
 「なんだとッ」<lb />
-「そんな恐い顔をするな。銭というものはな、あるときもあれば、ないときもある、また、あるところからないところへ常にとどこおりなく流通するのが常道なのであって、一所に長く<span type="ruby"><span type="rb">停滞</span><span type="rp">（</span><span type="rt">ていたい</span><span type="rp">）</span></span>するのは経済の道に外れている。この理屈は『<span type="ruby"><span type="rb">貨幣職能論</span><span type="rp">（</span><span type="rt">かへいしょくのうろん</span><span type="rp">）</span></span>』という本にちゃんと書いてある。こういう理屈によって、わしのところに、いま銭が停滞しておらん」<lb />
+「そんな恐い顔をするな。銭というものはな、あるときもあれば、ないときもある、また、あるところからないところへ常にとどこおりなく流通するのが常道なのであって、一所に長く<seg type="ruby"><seg type="rb">停滞</seg><seg type="rp">（</seg><seg type="rt">ていたい</seg><seg type="rp">）</seg></seg>するのは経済の道に外れている。この理屈は『<seg type="ruby"><seg type="rb">貨幣職能論</seg><seg type="rp">（</seg><seg type="rt">かへいしょくのうろん</seg><seg type="rp">）</seg></seg>』という本にちゃんと書いてある。こういう理屈によって、わしのところに、いま銭が停滞しておらん」<lb />
 「ひどくしちめんどくせえことを言いやがるもンだから、ごたごたして訳がわからなくなっちまいやがった。なにが、どうしたんだと」<lb />
 「わからん奴だな。きょうは銭がないから出来たらそのうちに持って来ると言っておるのだ」<lb />
 　兄哥面は腹を立てて、<lb />
 「すると、なんだな、手めえらふたりは喰い逃げをしようてンだな」<lb />
 「逃げはせん、ちゃんとここにおる」<lb />
-「やかましいやい。手めえらに<span type="ruby"><span type="rb">節季振舞</span><span type="rp">（</span><span type="rt">せっきぶるま</span><span type="rp">）</span></span>いをするためにこうして暖簾をかけてるンじゃねえ。飲み喰いしただけの銭をおいて行け」<lb />
+「やかましいやい。手めえらに<seg type="ruby"><seg type="rb">節季振舞</seg><seg type="rp">（</seg><seg type="rt">せっきぶるま</seg><seg type="rp">）</seg></seg>いをするためにこうして暖簾をかけてるンじゃねえ。飲み喰いしただけの銭をおいて行け」<lb />
 「だから、それがないと言っているのだ」<lb />
 「この野郎ッ、悪く落着いてやがる。見りゃア駕籠舁の風体だが、ここを伊勢駕の繩張りと知ってそんな頬桁をたたきやがるとは、なかなか見あげた度胸だ。なんといったって、銭をおかねえうちは帰さねえから、そう思え」<lb />
 「おお、そうか。それほどまでに言うのならやむを得ん。……察しの通り、いかにもわしは駕籠屋だが、駕籠舁というものは身体ひとつが資本。この身体で、日に、少なくとも一分は稼ぐ。してみれば、わしの身体は金のなる木も同然。飲み食いをしたかわりに、この大切な資本を暫時お前のところに質におくから預ってもらいたい。……ただし、念のために言っておくが、わしの身体を預った上は、日に一分ずつわしに払わねばならん。どうか、それを承知で預ってもらいたい」<lb />
 　兄哥は、納得しない顔で、<lb />
-「手前のような大きな<span type="ruby"><span type="rb">図体</span><span type="rp">（</span><span type="rt">ずうたい</span><span type="rp">）</span></span>のやつを預ったうえに、日に一分ずつ払うのだと？……そんな割の悪い話はねえ」<lb />
+「手前のような大きな<seg type="ruby"><seg type="rb">図体</seg><seg type="rp">（</seg><seg type="rt">ずうたい</seg><seg type="rp">）</seg></seg>のやつを預ったうえに、日に一分ずつ払うのだと？……そんな割の悪い話はねえ」<lb />
 「おお、その理屈がわかるというのは、見あげたものだ、天晴れ、天晴れ。わしを預れば、たしかにお前のほうが大損をする。わしをこのまま帰せば、わずか五百五十文のメリですむ。……どうだ、どっちにする」<lb />
 　兄哥は、妙な顔をして、むむ、と唸っていたが、<lb />
 「みすみす損をするのがわかってるのに手前などを預るわけにはゆかねえ。飲み食いしたやつは負けてやるから、さっさと帰ってくれ」<lb />
 「いや、話がわかればそれでいい。お前も大損をせずにすんで結構だった。しからば、われわれはこれで帰る、いいな」<lb />
-「勝手にしやがれ、<span type="ruby"><span type="rb">疫病神</span><span type="rp">（</span><span type="rt">やくびょうがみ</span><span type="rp">）</span></span>め！」<lb />
+「勝手にしやがれ、<seg type="ruby"><seg type="rb">疫病神</seg><seg type="rp">（</seg><seg type="rt">やくびょうがみ</seg><seg type="rp">）</seg></seg>め！」<lb />
 　おもてへ出ると、顎十郎は大笑い、<lb />
-「雷さん、なかなか大したお腕前ですな。『貨幣職能論』などをかつぎ出して<span type="ruby"><span type="rb">煙</span><span type="rp">（</span><span type="rt">けむ</span><span type="rp">）</span></span>に巻いたところなんざ、天晴れなお手のうち、見なおしましたよ」<lb />
+「雷さん、なかなか大したお腕前ですな。『貨幣職能論』などをかつぎ出して<seg type="ruby"><seg type="rb">煙</seg><seg type="rp">（</seg><seg type="rt">けむ</seg><seg type="rp">）</seg></seg>に巻いたところなんざ、天晴れなお手のうち、見なおしましたよ」<lb />
 　とど助の土々呂進は、やあ、と額に手をやって、<lb />
 「褒めてくれては困る。ああいうテをいつも用いるように思われては、いささか赤面いたす」<lb />
 「そういったものではありません。軍略は武士のたしなみ。こういうのを泥鰌鯰の戦法とでも言うのでしょうか」<lb />
 「はッはッは、まアそんなところでしょう。……これで、腹もくちくなったし、身体も煖まった。では、そろそろ戻ることにいたそうかな」<lb />
-　また、空駕籠をかついで、いいご機嫌のふたり、空ッ風もなんのその、鼻唄を歌いながらだらだらの<span type="ruby"><span type="rb">狸穴坂</span><span type="rp">（</span><span type="rt">まみあなざか</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">森元町</span><span type="rp">（</span><span type="rt">もりもとちょう</span><span type="rp">）</span></span>のほうへ降りかける。<lb />
-　<span type="ruby"><span type="rb">熊野神社</span><span type="rp">（</span><span type="rt">くまのじんじゃ</span><span type="rp">）</span></span>のそばまで来ると、暗闇の中から、<span type="ruby"><span type="rb">五音</span><span type="rp">（</span><span type="rt">ごいん</span><span type="rp">）</span></span>をはずした妙なふくみ声で、<lb />
+　また、空駕籠をかついで、いいご機嫌のふたり、空ッ風もなんのその、鼻唄を歌いながらだらだらの<seg type="ruby"><seg type="rb">狸穴坂</seg><seg type="rp">（</seg><seg type="rt">まみあなざか</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">森元町</seg><seg type="rp">（</seg><seg type="rt">もりもとちょう</seg><seg type="rp">）</seg></seg>のほうへ降りかける。<lb />
+　<seg type="ruby"><seg type="rb">熊野神社</seg><seg type="rp">（</seg><seg type="rt">くまのじんじゃ</seg><seg type="rp">）</seg></seg>のそばまで来ると、暗闇の中から、<seg type="ruby"><seg type="rb">五音</seg><seg type="rp">（</seg><seg type="rt">ごいん</seg><seg type="rp">）</seg></seg>をはずした妙なふくみ声で、<lb />
 「もしもし、駕籠屋さん……」<lb />
 <lb />
 　　　たぬき旦那<lb />
 <lb />
-　片側は<span type="ruby"><span type="rb">櫟</span><span type="rp">（</span><span type="rt">くぬぎ</span><span type="rp">）</span></span>林で、片側は土手。<span type="ruby"><span type="rb">熊笹</span><span type="rp">（</span><span type="rt">くまざさ</span><span type="rp">）</span></span>が風にゆらいでいるばかり。闇をすかして見たが、人影など見えない。<lb />
-　アコ長は<span type="ruby"><span type="rb">怪訝</span><span type="rp">（</span><span type="rt">けげん</span><span type="rp">）</span></span>な顔で、<lb />
+　片側は<seg type="ruby"><seg type="rb">櫟</seg><seg type="rp">（</seg><seg type="rt">くぬぎ</seg><seg type="rp">）</seg></seg>林で、片側は土手。<seg type="ruby"><seg type="rb">熊笹</seg><seg type="rp">（</seg><seg type="rt">くまざさ</seg><seg type="rp">）</seg></seg>が風にゆらいでいるばかり。闇をすかして見たが、人影など見えない。<lb />
+　アコ長は<seg type="ruby"><seg type="rb">怪訝</seg><seg type="rp">（</seg><seg type="rt">けげん</seg><seg type="rp">）</seg></seg>な顔で、<lb />
 「ねえ、とど助さん、今、たしかに、駕籠屋さんと言ったようだったが」<lb />
 「わしも、そう聞いた」<lb />
 「でも、人ッ子ひとりいやしません」<lb />
@@ -180,7 +180,7 @@
 「ここです、じゃわからない。駕籠をめすんなら、こっちへ出て来てください」<lb />
 「はい。……では、いまそちらへまいります」<lb />
 　土手ぎわに大きな欅の樹が一本あって、その下闇からヒョロリと出て来たのは、年のころ三十四五の痩せた小柄な男。下顎が出っぱって頬がこけ、眼ばかりいやにキョロリとした、妙な面。<lb />
-　<span type="ruby"><span type="rb">老舗</span><span type="rp">（</span><span type="rt">しにせ</span><span type="rp">）</span></span>の小旦那といった風体で、<span type="ruby"><span type="rb">結城紬</span><span type="rp">（</span><span type="rt">ゆうきつむぎ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">藍微塵</span><span type="rp">（</span><span type="rt">あいみじん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">琉球</span><span type="rp">（</span><span type="rt">りゅうきゅう</span><span type="rp">）</span></span>の下着、羽織は西川という堅気で渋い着つけ。<lb />
+　<seg type="ruby"><seg type="rb">老舗</seg><seg type="rp">（</seg><seg type="rt">しにせ</seg><seg type="rp">）</seg></seg>の小旦那といった風体で、<seg type="ruby"><seg type="rb">結城紬</seg><seg type="rp">（</seg><seg type="rt">ゆうきつむぎ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">藍微塵</seg><seg type="rp">（</seg><seg type="rt">あいみじん</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">琉球</seg><seg type="rp">（</seg><seg type="rt">りゅうきゅう</seg><seg type="rp">）</seg></seg>の下着、羽織は西川という堅気で渋い着つけ。<lb />
 　提灯の灯影をさけるようにしながら、<lb />
 「駕籠屋さん、これは戻り駕籠ですか、行き駕籠ですか」<lb />
 　アコ長は、へい、と額でうけて、<lb />
@@ -196,14 +196,14 @@
 「そこを通って、もう少し……」<lb />
 　アコ長、へこたれて、<lb />
 「そう小刻みにしないで、はっきり言ってくださいよ。いったい、どこなんです」<lb />
-「実は<span type="ruby"><span type="rb">豊島</span><span type="rp">（</span><span type="rt">としま</span><span type="rp">）</span></span>ガ<span type="ruby"><span type="rb">岡</span><span type="rp">（</span><span type="rt">おか</span><span type="rp">）</span></span>までまいりたいのです」<lb />
+「実は<seg type="ruby"><seg type="rb">豊島</seg><seg type="rp">（</seg><seg type="rt">としま</seg><seg type="rp">）</seg></seg>ガ<seg type="ruby"><seg type="rb">岡</seg><seg type="rp">（</seg><seg type="rt">おか</seg><seg type="rp">）</seg></seg>までまいりたいのです」<lb />
 「豊島ガ岡っていうと、あのへんは墓や森ばかりで人家などないところ。それに、これから行くと、どっちみち夜中になってしまうが、あんなところに、どんな用がおあんなさるンです」<lb />
-「お<span type="ruby"><span type="rb">駄賃</span><span type="rp">（</span><span type="rt">だちん</span><span type="rp">）</span></span>は、ウンとはずみますけど」<lb />
+「お<seg type="ruby"><seg type="rb">駄賃</seg><seg type="rp">（</seg><seg type="rt">だちん</seg><seg type="rp">）</seg></seg>は、ウンとはずみますけど」<lb />
 「駄賃のほうは、きまりだけいただけば結構ですが、……どうもねえ、あんな森ばかりあるところへ……」<lb />
 「お嫌でしょうか」<lb />
 「へッへ、お召しくださるのはかたじけないのですが、どうも、行きつけないところなもンですから。……ねえ、とど助さん、どうしよう、このお客さんは、豊島ガ岡までいらっしゃりたいとおっしゃるんだが……」<lb />
-　とど助は、<span type="ruby"><span type="rb">仏頂面</span><span type="rp">（</span><span type="rt">ぶっちょうづら</span><span type="rp">）</span></span>で、<lb />
-「わしは満腹で気が重い。あんなところまで行ったら、もどりは夜明けになってしまう。商売<span type="ruby"><span type="rb">冥利</span><span type="rp">（</span><span type="rt">みょうり</span><span type="rp">）</span></span>につきるようだが、きょうはひとつ、お断りすることにしようじゃないか」<lb />
+　とど助は、<seg type="ruby"><seg type="rb">仏頂面</seg><seg type="rp">（</seg><seg type="rt">ぶっちょうづら</seg><seg type="rp">）</seg></seg>で、<lb />
+「わしは満腹で気が重い。あんなところまで行ったら、もどりは夜明けになってしまう。商売<seg type="ruby"><seg type="rb">冥利</seg><seg type="rp">（</seg><seg type="rt">みょうり</seg><seg type="rp">）</seg></seg>につきるようだが、きょうはひとつ、お断りすることにしようじゃないか」<lb />
 「わたしもそのほうが賛成だ。……お客さん、只今、お聞きのようなわけですから、どうか、べつな駕籠へ乗っておくんなさい」<lb />
 「そう言わないで、行ってください。一両あげますから」<lb />
 「えッ、豊島ガ岡まで行くと、一両くださるっていうンですか」<lb />
@@ -225,21 +225,21 @@
 「器用なものだの。……それで、どんな用件があって、豊島ガ岡へなぞ行くのだ。狸の寄りあいでもあるというわけなのか」<lb />
 　狸は首をふって、<lb />
 「いいえ、寄りあいというわけじゃありません。実は、所変えをしようと思いまして……」<lb />
-「なるほど、<span type="ruby"><span type="rb">宿変</span><span type="rp">（</span><span type="rt">やどが</span><span type="rp">）</span></span>えをするというのだな」<lb />
+「なるほど、<seg type="ruby"><seg type="rb">宿変</seg><seg type="rp">（</seg><seg type="rt">やどが</seg><seg type="rp">）</seg></seg>えをするというのだな」<lb />
 「さようでございます。……それで、ご親切ついでに、もうひとつ、お願いがあるのでございますが……」<lb />
 　アコ長は、おもしろがって、<lb />
-「狸とつきあうなんざ、なかなか<span type="ruby"><span type="rb">振</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>っている。乗りかかった船だ。どんなことだか知らないが、出来ることならやってやろう、言って見るがいい」<lb />
+「狸とつきあうなんざ、なかなか<seg type="ruby"><seg type="rb">振</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>っている。乗りかかった船だ。どんなことだか知らないが、出来ることならやってやろう、言って見るがいい」<lb />
 　狸は、嬉しそうに頭をさげて、<lb />
-「ありがとうございます。……では、ご親切に甘えて申しあげます。ひょっとするとお聞きになったこともおありでしょうが、わたくしは、四国讃岐の<span type="ruby"><span type="rb">禿狸</span><span type="rp">（</span><span type="rt">はげたぬき</span><span type="rp">）</span></span>なンでございます」<lb />
+「ありがとうございます。……では、ご親切に甘えて申しあげます。ひょっとするとお聞きになったこともおありでしょうが、わたくしは、四国讃岐の<seg type="ruby"><seg type="rb">禿狸</seg><seg type="rp">（</seg><seg type="rt">はげたぬき</seg><seg type="rp">）</seg></seg>なンでございます」<lb />
 　とど助は、うなずいて、<lb />
-「うむ、知っておる。<span type="ruby"><span type="rb">伊予</span><span type="rp">（</span><span type="rt">いよ</span><span type="rp">）</span></span>松山の<span type="ruby"><span type="rb">八百八狸</span><span type="rp">（</span><span type="rt">はっぴゃくやたぬき</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">佐渡</span><span type="rp">（</span><span type="rt">さど</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">団三郎狸</span><span type="rp">（</span><span type="rt">だんざぶろうたぬき</span><span type="rp">）</span></span>……讃岐の禿狸といえば、大した顔だ」<lb />
+「うむ、知っておる。<seg type="ruby"><seg type="rb">伊予</seg><seg type="rp">（</seg><seg type="rt">いよ</seg><seg type="rp">）</seg></seg>松山の<seg type="ruby"><seg type="rb">八百八狸</seg><seg type="rp">（</seg><seg type="rt">はっぴゃくやたぬき</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">佐渡</seg><seg type="rp">（</seg><seg type="rt">さど</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">団三郎狸</seg><seg type="rp">（</seg><seg type="rt">だんざぶろうたぬき</seg><seg type="rp">）</seg></seg>……讃岐の禿狸といえば、大した顔だ」<lb />
 　狸は、てれ臭そうに、額を掻いて、<lb />
-「そんなふうにおっしゃられるとてれッちまうんですが、実は、わたくしは、京極能登守さまのお先代がお屋敷に金比羅さまを勧請なさいましたとき、金比羅さまのお伴をして讃岐からやってまいりまして、この<span type="ruby"><span type="rb">狸穴</span><span type="rp">（</span><span type="rt">まみあな</span><span type="rp">）</span></span>に住みついたのでございますが、おいおい眷属が増えまして、只今、三百三十三狸になっております」<lb />
+「そんなふうにおっしゃられるとてれッちまうんですが、実は、わたくしは、京極能登守さまのお先代がお屋敷に金比羅さまを勧請なさいましたとき、金比羅さまのお伴をして讃岐からやってまいりまして、この<seg type="ruby"><seg type="rb">狸穴</seg><seg type="rp">（</seg><seg type="rt">まみあな</seg><seg type="rp">）</seg></seg>に住みついたのでございますが、おいおい眷属が増えまして、只今、三百三十三狸になっております」<lb />
 「それは、えらい繁昌だの。……それで、なんのために所変えなどいたす」<lb />
-「以前までは、われわれは大切にかけられ、町内にお狸月番などというものがございまして、供物や掃除やとよく行きとどき、いたって気楽に暮らしておりましたのですが、そういう古老がおいおい<span type="ruby"><span type="rb">亡</span><span type="rp">（</span><span type="rt">なく</span><span type="rp">）</span></span>なられて、われわれをかまいつけるような奇特な方も少なくなり、それに、この節、このへんに人家が立てこんで来ましたせいか、たいへんに犬が多くなり、いかにも住みにくくなりましたので、思い切って古巣をすて、豊島ガ岡あたりの物静かなところへ引きうつろうと思うのでございます」<lb />
+「以前までは、われわれは大切にかけられ、町内にお狸月番などというものがございまして、供物や掃除やとよく行きとどき、いたって気楽に暮らしておりましたのですが、そういう古老がおいおい<seg type="ruby"><seg type="rb">亡</seg><seg type="rp">（</seg><seg type="rt">なく</seg><seg type="rp">）</seg></seg>なられて、われわれをかまいつけるような奇特な方も少なくなり、それに、この節、このへんに人家が立てこんで来ましたせいか、たいへんに犬が多くなり、いかにも住みにくくなりましたので、思い切って古巣をすて、豊島ガ岡あたりの物静かなところへ引きうつろうと思うのでございます」<lb />
 「なるほど、よくわかった。それでわれわれへ頼みというのは」<lb />
 「毎夜、一匹ずつ豊島ガ岡までお連れねがいたいのでございます。その代り、一匹について、一両ずつ差しあげますが、いかがなものでございましょう」<lb />
-「これはおもしろい。一匹一両ずつとすると、<span type="ruby"><span type="rb">〆</span><span type="rp">（</span><span type="rt">しめ</span><span type="rp">）</span></span>て三百三十三両、いや悪くないな」<lb />
+「これはおもしろい。一匹一両ずつとすると、<seg type="ruby"><seg type="rb">〆</seg><seg type="rp">（</seg><seg type="rt">しめ</seg><seg type="rp">）</seg></seg>て三百三十三両、いや悪くないな」<lb />
 「お願いできましょうか」<lb />
 「普通の駕籠ならいざ知らず、われわれはチトばかり瘋癲でな、とかく、変ったことを好む。いかにも味のある話だによって、のちの語り草に、ひとつ引きうけてやろう。……が、少しばかり腑に落ちぬことがある」<lb />
 「なんでございましょう」<lb />
@@ -253,14 +253,14 @@
 　とど助、大きくうなずいて、<lb />
 「いや、これは大しくじり。いかにもそうだ。……これ、狸、せっかくだが、その話はことわるよ」<lb />
 　狸は、あわてて手を振って、<lb />
-「じょ、じょ、冗談。……どうして、そんな人の悪いことをいたすものですか、木の葉などを使いますのは、酒買いに行く小狸のいたずらで、わたしどもは、そんな<span type="ruby"><span type="rb">見識</span><span type="rp">（</span><span type="rt">けんしき</span><span type="rp">）</span></span>のないことはいたしません。禿狸の<span type="ruby"><span type="rb">沽券</span><span type="rp">（</span><span type="rt">こけん</span><span type="rp">）</span></span>にかかわります」<lb />
+「じょ、じょ、冗談。……どうして、そんな人の悪いことをいたすものですか、木の葉などを使いますのは、酒買いに行く小狸のいたずらで、わたしどもは、そんな<seg type="ruby"><seg type="rb">見識</seg><seg type="rp">（</seg><seg type="rt">けんしき</seg><seg type="rp">）</seg></seg>のないことはいたしません。禿狸の<seg type="ruby"><seg type="rb">沽券</seg><seg type="rp">（</seg><seg type="rt">こけん</seg><seg type="rp">）</seg></seg>にかかわります」<lb />
 　と言いながら、二ツ折から小判を一枚とりだして、とど助に渡し、<lb />
 「どうぞ、充分におあらためくださいまし、これが木の葉なんぞでございますものか」<lb />
 　とど助、受けとって提灯の光でためつしかめつしていたが、<lb />
-「こりゃア驚いた。これはいかにも<span type="ruby"><span type="rb">宝永乾字</span><span type="rp">（</span><span type="rt">ほうえいかんじ</span><span type="rp">）</span></span>。いたって性のいい小判だが、こんな<span type="ruby"><span type="rb">古金</span><span type="rp">（</span><span type="rt">こきん</span><span type="rp">）</span></span>をどこから持って来るのだ」<lb />
+「こりゃア驚いた。これはいかにも<seg type="ruby"><seg type="rb">宝永乾字</seg><seg type="rp">（</seg><seg type="rt">ほうえいかんじ</seg><seg type="rp">）</seg></seg>。いたって性のいい小判だが、こんな<seg type="ruby"><seg type="rb">古金</seg><seg type="rp">（</seg><seg type="rt">こきん</seg><seg type="rp">）</seg></seg>をどこから持って来るのだ」<lb />
 「こんなことはわけもない。……安政や万延の新小判なら、とてもわたくしどもの手には入りませんが、こんな古金ならいくらでも持ってまいります」<lb />
 「ほほう」<lb />
-「わたくしどもは、どこの堂の下に、また、屋敷の床下に、どんな金が埋っているかちゃんと知っておりますから、金がいりますときには、自在にそういう<span type="ruby"><span type="rb">埋蔵金</span><span type="rp">（</span><span type="rt">まいぞうきん</span><span type="rp">）</span></span>を掘りだしてまいります」<lb />
+「わたくしどもは、どこの堂の下に、また、屋敷の床下に、どんな金が埋っているかちゃんと知っておりますから、金がいりますときには、自在にそういう<seg type="ruby"><seg type="rb">埋蔵金</seg><seg type="rp">（</seg><seg type="rt">まいぞうきん</seg><seg type="rp">）</seg></seg>を掘りだしてまいります」<lb />
 「なるほど。……なア、アコ長さん、よく筋が通っているじゃないか」<lb />
 　とど助が、アコ長のほうへ振りかえると、アコ長が、だまって二本指を出している。とど助は、すぐうなずいて、<lb />
 「なア、狸や」<lb />
@@ -269,9 +269,9 @@
 　狸は、恨めしそうな顔をして、<lb />
 「埋蔵金の話をしたって、いきなりつけこんで来るのはひどいですね。……しかし、まアしょうがない。では、二両はずみますから連れて行ってくださいまし」<lb />
 「早速の承知でかたじけない。すると、なんだな、毎夜、今ごろ、このへんへ駕籠を持って来て待っておればいいのだな」<lb />
-「はい、さようでございます。……<span rend="SESAME_DOT" rendition="strong">たぬき</span>か？　と念をおして、そうだと答えましたら前金で二両お取りになってから乗せてやっていただきます」<lb />
+「はい、さようでございます。……<seg rend="SESAME_DOT" rendition="strong">たぬき</seg>か？　と念をおして、そうだと答えましたら前金で二両お取りになってから乗せてやっていただきます」<lb />
 　アコ長は、へらへらと笑いだし、<lb />
-「こいつアいいや。とど助さん、どうやら<span type="ruby"><span type="rb">有卦</span><span type="rp">（</span><span type="rt">うけ</span><span type="rp">）</span></span>に入りましたね。これも、ひとえに金比羅さまのご利益」<lb />
+「こいつアいいや。とど助さん、どうやら<seg type="ruby"><seg type="rb">有卦</seg><seg type="rp">（</seg><seg type="rt">うけ</seg><seg type="rp">）</seg></seg>に入りましたね。これも、ひとえに金比羅さまのご利益」<lb />
 「いや、まったく。これで楽が出来る」<lb />
 「……それで乗せましたら、外から見えませんようにシッカリと垂れをおろしていただきます」<lb />
 「いかにも、承知した」<lb />
@@ -288,14 +288,14 @@
 「ああ、いい月だな。腹鼓でも打たんかい」<lb />
 「あれは秋のものですよ。こう寒くちゃ、とてもいけません、腹が冷えますから」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">葛西囃子</span><span type="rp">（</span><span type="rt">かさいばやし</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">葛西囃子</seg><seg type="rp">（</seg><seg type="rt">かさいばやし</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　狸穴坂の欅の樹の下で待っていると、毎晩ひとりずつチョロリと暗闇から出て来る。<lb />
 「たぬきか？」<lb />
 「はい、たぬきです」<lb />
 「さア、乗れ」<lb />
 「連れて行ってくださいまし」<lb />
-　堅気なふうなのもあり、武士もあり、また<span type="ruby"><span type="rb">衣</span><span type="rp">（</span><span type="rt">ころも</span><span type="rp">）</span></span>をつけてくるのもある。いずれもひと癖あり気な、眼のキョロリとしたやつばかり、人間ならば、人相が悪いというところ。しかし、狸なんだからとがめ立てをしたってしょうがない。<lb />
+　堅気なふうなのもあり、武士もあり、また<seg type="ruby"><seg type="rb">衣</seg><seg type="rp">（</seg><seg type="rt">ころも</seg><seg type="rp">）</seg></seg>をつけてくるのもある。いずれもひと癖あり気な、眼のキョロリとしたやつばかり、人間ならば、人相が悪いというところ。しかし、狸なんだからとがめ立てをしたってしょうがない。<lb />
 　護国寺のわきを入って豊島ガ岡、奥深い森につづいた茫々の草原の入口で駕籠をおろすと、狸め、びっくりしたような顔で、<lb />
 「おや、こんなところなんでございますか」<lb />
 　と、恍けたことをいう。<lb />
@@ -316,11 +316,11 @@
 　アコ長、眼を見はって、<lb />
 「ねえ、とど助さん。今夜は、ご婦人のようですぜ」<lb />
 「そうらしいの。どんなふうに化けてくるか、楽しみだの」<lb />
-　熊笹を、カサコソと踏みわけながら闇の中から出て来たのは、二十四五の、それこそ、水の垂れるような<span type="ruby"><span type="rb">器量</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>よし。<lb />
-　島田に<span type="ruby"><span type="rb">銀元結</span><span type="rp">（</span><span type="rt">ぎんもっとい</span><span type="rp">）</span></span>をかけ、<span type="ruby"><span type="rb">薄紅梅</span><span type="rp">（</span><span type="rt">うすこうばい</span><span type="rp">）</span></span>の振袖を腕のところで引きあわせるようにして、しんなりと立っている。<lb />
+　熊笹を、カサコソと踏みわけながら闇の中から出て来たのは、二十四五の、それこそ、水の垂れるような<seg type="ruby"><seg type="rb">器量</seg><seg type="rp">（</seg><seg type="rt">きりょう</seg><seg type="rp">）</seg></seg>よし。<lb />
+　島田に<seg type="ruby"><seg type="rb">銀元結</seg><seg type="rp">（</seg><seg type="rt">ぎんもっとい</seg><seg type="rp">）</seg></seg>をかけ、<seg type="ruby"><seg type="rb">薄紅梅</seg><seg type="rp">（</seg><seg type="rt">うすこうばい</seg><seg type="rp">）</seg></seg>の振袖を腕のところで引きあわせるようにして、しんなりと立っている。<lb />
 　痩せぎすの、すらっとしたいいようすで、眼だけは例によってちと大きいが、女となるとこれがかえって艶をます。睫毛が長くて眼の中がしっとりと濡れ、色がぬけるように白いので、実にどうも見とれるような美人。<lb />
 　アコ長は、いやアと馬鹿な声をあげ、<lb />
-「これは<span type="ruby"><span type="rb">艶</span><span type="rp">（</span><span type="rt">あでや</span><span type="rp">）</span></span>か、あでやか。……大したもんですねえ、とど助さん」<lb />
+「これは<seg type="ruby"><seg type="rb">艶</seg><seg type="rp">（</seg><seg type="rt">あでや</seg><seg type="rp">）</seg></seg>か、あでやか。……大したもんですねえ、とど助さん」<lb />
 　とど助は、うむと唸って、<lb />
 「実に、感服した。こうまでとは思わなんだ。これが狸とはもったいない話」<lb />
 「でも、早まっちゃいけません。ひょっとして人間だったらえらい恥をかく。ちょっと念を押して見ましょう。……もしもし、そこのご婦人、つかぬことを伺うようですが、あなたもやっぱり、その……」<lb />
@@ -337,23 +337,23 @@
 　とど助、息杖を取りなおして、<lb />
 「お伴いたすでござる」<lb />
 　二人ながら、たいへんな弾みよう。<lb />
-　さて、その翌朝、神田<span type="ruby"><span type="rb">佐久間町</span><span type="rp">（</span><span type="rt">さくまちょう</span><span type="rp">）</span></span>の裏長屋、どんづまりの二間きりのボロ長屋でとど助がまだ高鼾で寝くたばっているのを、アコ長が、ひどく勢いこんでゆり起す。<lb />
+　さて、その翌朝、神田<seg type="ruby"><seg type="rb">佐久間町</seg><seg type="rp">（</seg><seg type="rt">さくまちょう</seg><seg type="rp">）</seg></seg>の裏長屋、どんづまりの二間きりのボロ長屋でとど助がまだ高鼾で寝くたばっているのを、アコ長が、ひどく勢いこんでゆり起す。<lb />
 「とど助さん、とど助さん」<lb />
 　とど助が寝ぼけ眼をこすりながら起きあがって、<lb />
-「<span type="ruby"><span type="rb">消魂</span><span type="rp">（</span><span type="rt">けたたま</span><span type="rp">）</span></span>しい、なにごとです」<lb />
+「<seg type="ruby"><seg type="rb">消魂</seg><seg type="rp">（</seg><seg type="rt">けたたま</seg><seg type="rp">）</seg></seg>しい、なにごとです」<lb />
 「落ちついてちゃいけない。うまうまシテやられました」<lb />
 「なにをどうやられたのですか」<lb />
 　アコ長は、いまいましそうに畳の上に小判を二枚投げ出し、<lb />
-「ごらんなさい、ゆうべの二両は<span type="ruby"><span type="rb">贋金</span><span type="rp">（</span><span type="rt">にせがね</span><span type="rp">）</span></span>です」<lb />
-「なるほど、こいつアひどい<span type="ruby"><span type="rb">鉛被</span><span type="rp">（</span><span type="rt">なまりき</span><span type="rp">）</span></span>せ。狸でも、やはり女は細かいな」<lb />
-「それにしても、贋金というのはわからない。どうせつかませるなら木の葉だっていいわけなんだが、……いったい、こんな贋金をどっから持って来やがったもんでしょう。ごらんなさい、<span type="ruby"><span type="rb">鋳座</span><span type="rp">（</span><span type="rt">いざ</span><span type="rp">）</span></span>も本物だし被せてあるのはヒルモ金。こりゃア素人になんぞ出来ない芸、よっぽどみっちりと鋳たものです」<lb />
+「ごらんなさい、ゆうべの二両は<seg type="ruby"><seg type="rb">贋金</seg><seg type="rp">（</seg><seg type="rt">にせがね</seg><seg type="rp">）</seg></seg>です」<lb />
+「なるほど、こいつアひどい<seg type="ruby"><seg type="rb">鉛被</seg><seg type="rp">（</seg><seg type="rt">なまりき</seg><seg type="rp">）</seg></seg>せ。狸でも、やはり女は細かいな」<lb />
+「それにしても、贋金というのはわからない。どうせつかませるなら木の葉だっていいわけなんだが、……いったい、こんな贋金をどっから持って来やがったもんでしょう。ごらんなさい、<seg type="ruby"><seg type="rb">鋳座</seg><seg type="rp">（</seg><seg type="rt">いざ</seg><seg type="rp">）</seg></seg>も本物だし被せてあるのはヒルモ金。こりゃア素人になんぞ出来ない芸、よっぽどみっちりと鋳たものです」<lb />
 「なるほど、そういうものか。……いつか禿狸をつかまえたらかならず埋めあわせをさせてやる」<lb />
-　ふたりで、ブツブツ言いながら朝飯をすませ、このごろはもう気ままな道楽商売。空駕籠をかついで<span type="ruby"><span type="rb">護持院原</span><span type="rp">（</span><span type="rt">ごじいんがわら</span><span type="rp">）</span></span>までやってくると、たいへんな人だかり。<lb />
+　ふたりで、ブツブツ言いながら朝飯をすませ、このごろはもう気ままな道楽商売。空駕籠をかついで<seg type="ruby"><seg type="rb">護持院原</seg><seg type="rp">（</seg><seg type="rt">ごじいんがわら</seg><seg type="rp">）</seg></seg>までやってくると、たいへんな人だかり。<lb />
 　ふたりとも物見高いほうだから、人垣を押しわけて覗きこんで見ると、霜どけの濡れた草の上に、腰、肩、背中と、さんざんに斬られて死んでいるのが、ゆうべの雌狸。<lb />
 　アコ長は眉をひそめ、<lb />
 「おお、こりゃ可哀そうなことになった。なんのつもりでこんなところへノソノソ出て来やがったんだろう」<lb />
 　とど助も溜息をついて、<lb />
-「ああ、いかにも美しい狸だったが惜しいことをした。こんなところへ無闇に出て来るからこんな眼にあうのだ。<span type="ruby"><span type="rb">南無頓生菩提</span><span type="rp">（</span><span type="rt">なむとんしょうぼだい</span><span type="rp">）</span></span>、南無頓生菩提」<lb />
+「ああ、いかにも美しい狸だったが惜しいことをした。こんなところへ無闇に出て来るからこんな眼にあうのだ。<seg type="ruby"><seg type="rb">南無頓生菩提</seg><seg type="rp">（</seg><seg type="rt">なむとんしょうぼだい</seg><seg type="rp">）</seg></seg>、南無頓生菩提」<lb />
 　殊勝らしく念仏なんか唱えているところへやって来たのが、もとは顎十郎の配下、神田のひょろ松。アコ長の顔を見るより懐しそうに走りよって来て、<lb />
 「おお、これは阿古十郎さん、お久しぶりで。……それはそうと、ごらんの通りのわけあいでね、実ア、ここに斬られている女は、どうやら贋金つくりの一味らしいのです。こいつの背中の下に配布触れの一両小判が一枚おちていたんです。……この秋ごろから京大坂にしきりに鉛被せがつかわれるんですが、そりゃア、どうやらみんな江戸から流れ出して行くのらしいんです」<lb />
 　アコ長は、ふうんと言ってなにか考えこんでいたが、唐突に、<lb />
@@ -361,18 +361,18 @@
 「へい、持っております」<lb />
 「ちょっと見せてくれ」<lb />
 　受けとってつくづくと眺めていたが、<lb />
-「なア、ひょろ松、お前、上方で贋金のことを<span rend="SESAME_DOT" rendition="strong">たぬき</span>と呼ぶことを知っていたか」<lb />
+「なア、ひょろ松、お前、上方で贋金のことを<seg rend="SESAME_DOT" rendition="strong">たぬき</seg>と呼ぶことを知っていたか」<lb />
 　といった。<lb />
 <lb />
 　翌日から豊島ガ岡の原っぱで奇妙なことが始まった。<lb />
 　どう渡って来たのか、蝦夷から来た『えぞたぬき』という変った狸がこの原へ住みつき、毎夜奇妙な狸囃子をするというのでたいへんな評判。<lb />
 　山の手はもちろん、はるばる日本橋、浅草のへんからも弁当持ちで老若男女がつめかけ、この広い原っぱは身動きも出来ないような大混雑。物売り、露店なども出るという繁昌ぶり。<lb />
-　なるほど、そろそろと陽が暮れかかると、草のあいだでテコメン舞か<span type="ruby"><span type="rb">正殿鎌倉</span><span type="rp">（</span><span type="rt">しょうでんかまくら</span><span type="rp">）</span></span>によく似たなんともおもしろい狸囃子がテンテテンテケレツとはじまる。<lb />
+　なるほど、そろそろと陽が暮れかかると、草のあいだでテコメン舞か<seg type="ruby"><seg type="rb">正殿鎌倉</seg><seg type="rp">（</seg><seg type="rt">しょうでんかまくら</seg><seg type="rp">）</seg></seg>によく似たなんともおもしろい狸囃子がテンテテンテケレツとはじまる。<lb />
 　ところで、裏へまわって見ると、叢の中で、ステテンテンと、夢中になってやっているのは、実はアコ長ととど助、それに神田のひょろ松の三人。<lb />
 　このへんで贋金を作っているのだろうがその場所がどこにあるのかわからない。むやみに人をよせて仕事の邪魔をしたら、かならずなにか仕掛けてくると思っていたら、果して、三日目の夜、ステテンとやっている三人に斬りかかって来た浪人者があった。それを取っつかまえたらすぐ白状した。見こみ通り、狸穴から駕籠でここへ運ばれて来たのは、江戸豊島ガ岡の古墳の下で大仕掛に鋳造している鉛被せ一両小判を一枚二朱ずつで京大坂から買いだしに来た贋金買いの連中だった。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
 　　　1914（大正3）年9月20日<lb />
 ※もとの表題は「序」。作品の表題「『心』自序」は、底本編集部による。<lb />
 ※ルビのうち亀甲かっこ〔〕付きのものは底本編集部によるもので、現代仮名遣いである。<lb />
-（例）<span type="ruby"><span type="rb">差支</span><span type="rp">（</span><span type="rt">〔さしつかえ〕</span><span type="rp">）</span></span><lb />
+（例）<seg type="ruby"><seg type="rb">差支</seg><seg type="rp">（</seg><seg type="rt">〔さしつかえ〕</seg><seg type="rp">）</seg></seg><lb />
 入力：砂場清隆<lb />
 校正：小林繁雄<lb />
 <date when="2003-03-31">2003年3月31日</date>作成<lb />
@@ -37,21 +37,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 『心』は大正三年四月から八月にわたつて東京大阪両朝日へ同時に掲載された小説である。<lb />
-　当時の予告には数種の短篇を合してそれに『心』といふ標題を冠らせる<span type="ruby"><span type="rb">積</span><span type="rp">（</span><span type="rt">〔つもり〕</span><span type="rp">）</span></span>だと読者に断わつたのであるが、其短篇の第一に当る『先生の遺書』を書き込んで行くうちに、予想通り早く片が付かない事を発見したので、とう／＼その一篇<span type="ruby"><span type="rb">丈</span><span type="rp">（</span><span type="rt">〔だけ〕</span><span type="rp">）</span></span>を単行本に纏めて公けにする方針に模様がへをした。<lb />
-　然し此『先生の遺書』も自から独立したやうな又関係の深いやうな三個の姉妹篇から組み立てられてゐる以上、私はそれを『先生と私』、『両親と私』、『先生と遺書』とに区別して、全体に『心』といふ見出しを付けても<span type="ruby"><span type="rb">差支</span><span type="rp">（</span><span type="rt">〔さしつかえ〕</span><span type="rp">）</span></span>ないやうに思つたので、題は元の儘にして置いた。たゞ中味を上中下に仕切つた丈が、新聞に出た時との相違である。<lb />
-　装幀の事は今迄専門家にばかり依頼してゐたのだが、今度はふとした動機から自分で遣つて見る気になつて、箱、表紙、見返し、扉及び奥附の模様及び題字、朱印、検印ともに、<span type="ruby"><span type="rb">悉</span><span type="rp">（</span><span type="rt">〔ことごと〕</span><span type="rp">）</span></span>く自分で考案して自分で描いた。<lb />
+　当時の予告には数種の短篇を合してそれに『心』といふ標題を冠らせる<seg type="ruby"><seg type="rb">積</seg><seg type="rp">（</seg><seg type="rt">〔つもり〕</seg><seg type="rp">）</seg></seg>だと読者に断わつたのであるが、其短篇の第一に当る『先生の遺書』を書き込んで行くうちに、予想通り早く片が付かない事を発見したので、とう／＼その一篇<seg type="ruby"><seg type="rb">丈</seg><seg type="rp">（</seg><seg type="rt">〔だけ〕</seg><seg type="rp">）</seg></seg>を単行本に纏めて公けにする方針に模様がへをした。<lb />
+　然し此『先生の遺書』も自から独立したやうな又関係の深いやうな三個の姉妹篇から組み立てられてゐる以上、私はそれを『先生と私』、『両親と私』、『先生と遺書』とに区別して、全体に『心』といふ見出しを付けても<seg type="ruby"><seg type="rb">差支</seg><seg type="rp">（</seg><seg type="rt">〔さしつかえ〕</seg><seg type="rp">）</seg></seg>ないやうに思つたので、題は元の儘にして置いた。たゞ中味を上中下に仕切つた丈が、新聞に出た時との相違である。<lb />
+　装幀の事は今迄専門家にばかり依頼してゐたのだが、今度はふとした動機から自分で遣つて見る気になつて、箱、表紙、見返し、扉及び奥附の模様及び題字、朱印、検印ともに、<seg type="ruby"><seg type="rb">悉</seg><seg type="rp">（</seg><seg type="rt">〔ことごと〕</seg><seg type="rp">）</seg></seg>く自分で考案して自分で描いた。<lb />
 　木版の刻は伊上凡骨氏を煩はした。夫から校正には岩波茂雄君の手を借りた。両君の好意を感謝する。<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 大正三年九月<lb />
-</span>
+</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -36,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 美しい王子様のおせなかに<lb />
 　まつかなマントが<lb />
 　　ゆれてゐるかな<lb />
@@ -44,10 +44,10 @@
 <lb />
 美しい王子様のおん馬車の<lb />
 　馬が青い空を<lb />
-　　<span type="ruby"><span type="rb">眺</span><span type="rp">（</span><span type="rt">なが</span><span type="rp">）</span></span>めてゐるかな<lb />
+　　<seg type="ruby"><seg type="rb">眺</seg><seg type="rp">（</seg><seg type="rt">なが</seg><seg type="rp">）</seg></seg>めてゐるかな<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

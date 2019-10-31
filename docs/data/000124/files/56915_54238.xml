@@ -37,7 +37,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 紙幣よ、<lb />
 貴様のためにこの私の詩人が<lb />
 歌ふのを光栄と思へ、<lb />
@@ -91,7 +91,7 @@
 ――うらめしい<lb />
 　　うらめしい<lb />
 　　鉄砲がうらめしい、<lb />
-猟師は<span rend="notes">［＃「猟師は」はママ］</span>妻の毛皮の襟巻のために<lb />
+猟師は<seg rend="notes" rendition="span">［＃「猟師は」はママ］</seg>妻の毛皮の襟巻のために<lb />
 イノシシの図案のついた札を数へて渡した、<lb />
 一匹の生きた豚が<lb />
 紙のイノシシを払つて<lb />
@@ -118,7 +118,7 @@
 枕の下に紙幣を敷いて寝たかと思ふと<lb />
 むつくりと飛び起きる、<lb />
 ――首と一緒に札を盗まれる、<lb />
-<span type="ruby"><span type="rb">彼</span><span type="rp">（</span><span type="rt">ママ</span><span type="rp">）</span></span>は強盗が怖いのだ、<lb />
+<seg type="ruby"><seg type="rb">彼</seg><seg type="rp">（</seg><seg type="rt">ママ</seg><seg type="rp">）</seg></seg>は強盗が怖いのだ、<lb />
 天井裏へ入れてみたり出してみたり、<lb />
 茶筒に入れれば聟にみつかり、<lb />
 針箱に入れれば嫁にみつかる、<lb />
@@ -362,6 +362,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

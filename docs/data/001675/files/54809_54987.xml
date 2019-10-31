@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ずぶぬれの機銃分隊であった<lb />
 ぼくの戦帽は小さすぎてすぐおちそうになった<lb />
 ぼくだけあごひもをしめておった<lb />
@@ -46,7 +46,7 @@
 白いりんどうの花が<lb />
 狂気のようにゆれておった<lb />
 <lb />
-ぼくは草の上を氷河のように<span type="ruby"><span type="rb">匍匐</span><span type="rp">（</span><span type="rt">ほふく</span><span type="rp">）</span></span>しておった<lb />
+ぼくは草の上を氷河のように<seg type="ruby"><seg type="rb">匍匐</seg><seg type="rp">（</seg><seg type="rt">ほふく</seg><seg type="rp">）</seg></seg>しておった<lb />
 白いりんどうの花が<lb />
 狂気のようにゆれておった<lb />
 白いりんどうの花に顔を押しつけて<lb />
@@ -56,6 +56,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

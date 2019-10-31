@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 この青くしなへる指をくみ合せ、<lb />
 夜あけぬ前に祈るなる、<lb />
 いのちの寂しさきはまりなく、<lb />
@@ -40,10 +40,10 @@
 そこにふるへ、<lb />
 かくれつつうかがひのぞく榎あり、<lb />
 いのりつつ、一心に幹をけづりしに、<lb />
-<span type="ruby"><span type="rb">樹樹</span><span type="rp">（</span><span type="rt">きぎ</span><span type="rp">）</span></span>はつめたく去り行けり。<lb />
+<seg type="ruby"><seg type="rb">樹樹</seg><seg type="rp">（</seg><seg type="rt">きぎ</seg><seg type="rp">）</seg></seg>はつめたく去り行けり。<lb />
 みなつらなめて逃れゆく、<lb />
 黎明の林を出づる旅びとら、<lb />
-その<span type="ruby"><span type="rb">足竝</span><span type="rp">（</span><span type="rt">あしなみ</span><span type="rp">）</span></span>に音はなけれど、<lb />
+その<seg type="ruby"><seg type="rb">足竝</seg><seg type="rp">（</seg><seg type="rt">あしなみ</seg><seg type="rp">）</seg></seg>に音はなけれど、<lb />
 水ながれいでて靴のかかとをうるほせり。<lb />
 かくばかり我に信なきともがらに、<lb />
 なにのかかはりあるべしやは、<lb />
@@ -56,6 +56,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

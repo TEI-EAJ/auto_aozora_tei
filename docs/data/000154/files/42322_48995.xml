@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2012-09-25">作成</resp><resp /><note>
 <lb />
-底本：「日本怪談全集　<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />」桃源社<lb />
+底本：「日本怪談全集　<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />」桃源社<lb />
 　　　1974（昭和49）年7月5日発行<lb />
 　　　1975（昭和50）年7月25日2刷<lb />
 底本の親本：「日本怪談全集」改造社<lb />
@@ -34,8 +34,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">四手網</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">四手網</seg></seg></seg>
 <lb />
 　俳優の木下がまだ田舎まわりの馬の脚であった時、夜、利根川の土手を歩いていると、むこうの方の川縁に時とすると黒い大きな物があがって、それが星あかりに怪しく見える。ふるえふるえ往って見ると、それは四手網をあげているので、<lb />
 「ああ、よかった」<lb />
@@ -43,22 +43,22 @@
 「わっ」<lb />
 　と云って水の中へ落ちた。<lb />
 <lb />
-<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">天狗</span></span></span>
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">天狗</seg></seg></seg>
 <lb />
-　先輩高木孟旦翁の話。高木翁が土佐の本山と云う山奥の村で小学教師をしている時、<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">じぶん</span><span type="rp">）</span></span>の家へ帰ったことがあったが、其の途中にかし山と云う山があって、其の峠には天狗が出るという噂があった。高木翁が其のかし山の峠にかかった時、木の間に音がして、五六尺もある怪物がばさばさとやって来て、それが<span type="ruby"><span type="rb">天窓</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>にさわった。これはてっきり噂の天狗だろうと思って、土の上につっ伏して顫えたが、やっと起きて見ると、もう怪物の姿は見えなかった。高木翁は安心して山をおり、下の茶店でうどんを喫いながら、<lb />
+　先輩高木孟旦翁の話。高木翁が土佐の本山と云う山奥の村で小学教師をしている時、<seg type="ruby"><seg type="rb">己</seg><seg type="rp">（</seg><seg type="rt">じぶん</seg><seg type="rp">）</seg></seg>の家へ帰ったことがあったが、其の途中にかし山と云う山があって、其の峠には天狗が出るという噂があった。高木翁が其のかし山の峠にかかった時、木の間に音がして、五六尺もある怪物がばさばさとやって来て、それが<seg type="ruby"><seg type="rb">天窓</seg><seg type="rp">（</seg><seg type="rt">あたま</seg><seg type="rp">）</seg></seg>にさわった。これはてっきり噂の天狗だろうと思って、土の上につっ伏して顫えたが、やっと起きて見ると、もう怪物の姿は見えなかった。高木翁は安心して山をおり、下の茶店でうどんを喫いながら、<lb />
 「今、天狗にあった」と云うと、茶店の老婆は、<lb />
-「それは、<span rend="sesame_dot" rendition="em">もま</span>だよ」と云って笑った。<lb />
+「それは、<seg rend="sesame_dot" rendition="em">もま</seg>だよ」と云って笑った。<lb />
 <lb />
-<span rend="jisage_6" rendition="div" style="margin-left: 6em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">荒倉の狸</span></span></span>
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">荒倉の狸</seg></seg></seg>
 <lb />
-　土佐の<span type="ruby"><span type="rb">荒倉</span><span type="rp">（</span><span type="rt">あらくら</span><span type="rp">）</span></span>山には狸が出て人をたぶらかすと云うので、附近の者は恐れていた。弘岡の下の村の庄屋は、荒倉の狸のことを聞いて、ほんとに狸が化けて人をたぶらかすか、たぶらかさないかをたしかめようと思っていると、高知に往く用事が出来たので、高知に往ったが、今晩こそ狸のことをたしかめてやろうと思って、ガンギリで蕎麦を喫って日を暮し、夜になるのを待って出発した。そして、荒倉山にかかったところで、ふと見ると猫のような一疋の獣が傍を往くので、狸かもわからないと思いおもい跟いて往った。と、其の獣は樹の茂っているところへ往って、木の葉をとって体につけだしたが、つけるに従ってそれが<span type="ruby"><span type="rb">衣服</span><span type="rp">（</span><span type="rt">きもの</span><span type="rp">）</span></span>になり、袴になり、やがて刀をさした男になった。庄屋はそれを見て感心した。それに其の男の恰好がどう見ても<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">じぶん</span><span type="rp">）</span></span>とそっくりである。おかしいぞ、此の狸奴、おれに化けて何をするつもりだろう、と思っていると、坂をむこうにおりて往くので跟いて往った。狸は山をおりて弘岡の下の村へ入り、其の庄屋の家の前へ往った。庄屋は此の狸奴、おれに化けておれの<span type="ruby"><span type="rb">妻室</span><span type="rp">（</span><span type="rt">かない</span><span type="rp">）</span></span>をばかすと見える、と思っておると、狸は其の庄屋と同じ声で、<lb />
-「今もどったぞ」と云った。すると女房が出て来た。狸は女房について上へあがった。庄屋は此の畜生、おれの女房をなぐさむつもりかも判らないぞと、外から縁側へあがって<span type="ruby"><span type="rb">庖厨</span><span type="rp">（</span><span type="rt">かって</span><span type="rp">）</span></span>の障子の破れから覗いて見ると、狸は女房と話をしておる。其の時女房は狸に、<lb />
+　土佐の<seg type="ruby"><seg type="rb">荒倉</seg><seg type="rp">（</seg><seg type="rt">あらくら</seg><seg type="rp">）</seg></seg>山には狸が出て人をたぶらかすと云うので、附近の者は恐れていた。弘岡の下の村の庄屋は、荒倉の狸のことを聞いて、ほんとに狸が化けて人をたぶらかすか、たぶらかさないかをたしかめようと思っていると、高知に往く用事が出来たので、高知に往ったが、今晩こそ狸のことをたしかめてやろうと思って、ガンギリで蕎麦を喫って日を暮し、夜になるのを待って出発した。そして、荒倉山にかかったところで、ふと見ると猫のような一疋の獣が傍を往くので、狸かもわからないと思いおもい跟いて往った。と、其の獣は樹の茂っているところへ往って、木の葉をとって体につけだしたが、つけるに従ってそれが<seg type="ruby"><seg type="rb">衣服</seg><seg type="rp">（</seg><seg type="rt">きもの</seg><seg type="rp">）</seg></seg>になり、袴になり、やがて刀をさした男になった。庄屋はそれを見て感心した。それに其の男の恰好がどう見ても<seg type="ruby"><seg type="rb">己</seg><seg type="rp">（</seg><seg type="rt">じぶん</seg><seg type="rp">）</seg></seg>とそっくりである。おかしいぞ、此の狸奴、おれに化けて何をするつもりだろう、と思っていると、坂をむこうにおりて往くので跟いて往った。狸は山をおりて弘岡の下の村へ入り、其の庄屋の家の前へ往った。庄屋は此の狸奴、おれに化けておれの<seg type="ruby"><seg type="rb">妻室</seg><seg type="rp">（</seg><seg type="rt">かない</seg><seg type="rp">）</seg></seg>をばかすと見える、と思っておると、狸は其の庄屋と同じ声で、<lb />
+「今もどったぞ」と云った。すると女房が出て来た。狸は女房について上へあがった。庄屋は此の畜生、おれの女房をなぐさむつもりかも判らないぞと、外から縁側へあがって<seg type="ruby"><seg type="rb">庖厨</seg><seg type="rp">（</seg><seg type="rt">かって</seg><seg type="rp">）</seg></seg>の障子の破れから覗いて見ると、狸は女房と話をしておる。其の時女房は狸に、<lb />
 「御飯をおあがりになりますか」と云うと、狸は、<lb />
 「ガンギリで蕎麦を喫って来たから好い」と云って、それから、「もうねようか」と云った。庄屋は、「けしからん奴だ、今にみよ」と刀をかまえて一生懸命にのぞいていると、後から、<lb />
 「庄屋さん、庄屋さん」と背を叩く者がある。ふと気がついて見ると、己は荒倉の峠の石灯籠の前に立って其の中を一生懸命に覗いていた。それはもう朝で日が高くなっていた。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -33,9 +33,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 荒蕪の平原に野を耕し<lb />
-草を<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>み、木の実を<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>える<lb />
+草を<seg type="ruby"><seg type="rb">食</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>み、木の実を<seg type="ruby"><seg type="rb">喰</seg><seg type="rp">（</seg><seg type="rt">くら</seg><seg type="rp">）</seg></seg>える<lb />
 人類生存の現象は<lb />
 高峯の麓にありて<lb />
 あまりにはかなき生命……<lb />
@@ -44,7 +44,7 @@
 雪原の輝きは<lb />
 天地創造の第一年より<lb />
 永遠なり<lb />
-人類生命、<span type="ruby"><span type="rb">億劫</span><span type="rp">（</span><span type="rt">おくごう</span><span type="rp">）</span></span>に至るも<lb />
+人類生命、<seg type="ruby"><seg type="rb">億劫</seg><seg type="rp">（</seg><seg type="rt">おくごう</seg><seg type="rp">）</seg></seg>に至るも<lb />
 一切は幻滅に帰り<lb />
 無し――一切無し<lb />
 成体もこれ大地の化身なれば<lb />
@@ -56,6 +56,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

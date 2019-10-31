@@ -36,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 　　　秋の暮れ<lb />
 嵐山夕べ淋しく鳴る鐘に<lb />
 　　　　こぼれそめてし木々の紅葉<lb />
@@ -53,7 +53,7 @@
 丸くとも一かどあれや人心<lb />
 　　　　あまりまろきはころびやすきぞ<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">奈良</span><span type="rp">（</span><span type="rt">ママ</span><span type="rp">）</span></span>崎将作に逢ひし夢見て<lb />
+　　　<seg type="ruby"><seg type="rb">奈良</seg><seg type="rp">（</seg><seg type="rt">ママ</seg><seg type="rp">）</seg></seg>崎将作に逢ひし夢見て<lb />
 面影の見えつる君が言の葉を<lb />
 　　　　かしくに祭る今日の尊さ<lb />
 <lb />
@@ -91,6 +91,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -13,7 +13,7 @@
 　　　1995（平成7）年6月30日初版<lb />
 初出：「青い果第三輯」<lb />
 　　　1922（大正11）年9月刊<lb />
-※表題は底本では、「<span type="ruby"><span type="rb">豌豆</span><span type="rp">（</span><span type="rt">えんどう</span><span type="rp">）</span></span>畑」となっています。<lb />
+※表題は底本では、「<seg type="ruby"><seg type="rb">豌豆</seg><seg type="rp">（</seg><seg type="rt">えんどう</seg><seg type="rp">）</seg></seg>畑」となっています。<lb />
 入力：坂本真一<lb />
 校正：雪森<lb />
 <date when="2015-01-06">2015年1月6日</date>作成<lb />
@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 豆畑を越えて<lb />
 聞えて来る睦ましそうな話を<lb />
 私はねころんで聞いていた<lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2008-10-08">作成</resp><resp /><note>
 <lb />
-底本：「豊島与志雄著作集　第一巻（小説1<span rend="notes">［＃「1」はローマ数字、1-13-21］</span>）」未来社
+底本：「豊島与志雄著作集　第一巻（小説1<seg rend="notes" rendition="span">［＃「1」はローマ数字、1-13-21］</seg>）」未来社
 <lb />
 　　　1967（昭和42）年6月20日第1刷発行<lb />
 初出：「新思潮」<lb />
@@ -34,42 +34,42 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　もう長い間の旅である――と、またもふと彼女は思う、四十年の過去をふり返って見ると茫として<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">まなこ</span><span type="rp">）</span></span>がかすむ。<lb />
+　もう長い間の旅である――と、またもふと彼女は思う、四十年の過去をふり返って見ると茫として<seg type="ruby"><seg type="rb">眼</seg><seg type="rp">（</seg><seg type="rt">まなこ</seg><seg type="rp">）</seg></seg>がかすむ。<lb />
 　顔を上げれば、向うまで深く湛えた湖水の面と青く研ぎ澄された空との間に、大きい銀杏の木が淋しく頼り無い郷愁を誘っている。知らない間に一日一日と黄色い葉が散ってゆく、そして今では最早なかば裸の姿も見せている。霜に痛んだ葉の数が次第に少くなることは、やがてこの湖畔の茶店を訪れる旅の客が少くなることであった。<lb />
-　<span type="ruby"><span type="rb">冷</span><span type="rp">（</span><span type="rt">ひやや</span><span type="rp">）</span></span>かな秋の日の午後、とりとめもなく彼女が斯ういう思いに耽っている時、一人の青年が来て水際に出した腰掛の上に休んだ。<lb />
-　茶と菓子とを運んだ<span type="ruby"><span type="rb">婢</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">昼食</span><span type="rp">（</span><span type="rt">おひる</span><span type="rp">）</span></span>のあと片付けを云いつけて、彼女はまた漠然たる思いの影を追った。遠くより来る哀悠が湖水の面にひたひたと<span type="ruby"><span type="rb">漣</span><span type="rp">（</span><span type="rt">さざなみ</span><span type="rp">）</span></span>を立てている。で側の小さい聖書をとり上げてみた。見るともなしにちらと眼をやると、青年はじっと湖水の面を見つめている。<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
-――われ<span type="ruby"><span type="rb">爾</span><span type="rp">（</span><span type="rt">なんじ</span><span type="rp">）</span></span>が冷かにもあらず熱くもあらざることを爾の<span type="ruby"><span type="rb">行為</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>に由りて知れり我なんじが冷かなるか或は熱からんことを願う<lb />
-</span>
-　こんな句が彼女の心に留った。一筋の雲影もない澄んだ空は、黄色を帯びた光線を深く一杯に含んでいた。其処から何物か震えつつ胸に伝わるものがあった。それは<span type="ruby"><span type="rb">明瞭</span><span type="rp">（</span><span type="rt">はっきり</span><span type="rp">）</span></span>と知ることが出来なかった。心持ち首を<span type="ruby"><span type="rb">傾</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>げて、彼女はまた書物の上に眼を落した。<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
-――視よ<span type="ruby"><span type="rb">我</span><span type="rp">（</span><span type="rt">われ</span><span type="rp">）</span></span>戸の外に立ちて叩くもしわが声を聞きて戸を開く者あらば我その人の<span type="ruby"><span type="rb">所</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">就</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>らん而して我はその人と<span type="ruby"><span type="rb">偕</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>にその人は我と偕に食せん<lb />
-</span>
-　その時ふっと物影が彼女の顔を<span type="ruby"><span type="rb">横</span><span type="rp">（</span><span type="rt">よぎ</span><span type="rp">）</span></span>った。かの青年がやって来てじっと彼女を見ているのであった。軽く咎むるような心地の眼付でその顔を見返すと青年はこう云った。<lb />
+　<seg type="ruby"><seg type="rb">冷</seg><seg type="rp">（</seg><seg type="rt">ひやや</seg><seg type="rp">）</seg></seg>かな秋の日の午後、とりとめもなく彼女が斯ういう思いに耽っている時、一人の青年が来て水際に出した腰掛の上に休んだ。<lb />
+　茶と菓子とを運んだ<seg type="ruby"><seg type="rb">婢</seg><seg type="rp">（</seg><seg type="rt">おんな</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">昼食</seg><seg type="rp">（</seg><seg type="rt">おひる</seg><seg type="rp">）</seg></seg>のあと片付けを云いつけて、彼女はまた漠然たる思いの影を追った。遠くより来る哀悠が湖水の面にひたひたと<seg type="ruby"><seg type="rb">漣</seg><seg type="rp">（</seg><seg type="rt">さざなみ</seg><seg type="rp">）</seg></seg>を立てている。で側の小さい聖書をとり上げてみた。見るともなしにちらと眼をやると、青年はじっと湖水の面を見つめている。<lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
+――われ<seg type="ruby"><seg type="rb">爾</seg><seg type="rp">（</seg><seg type="rt">なんじ</seg><seg type="rp">）</seg></seg>が冷かにもあらず熱くもあらざることを爾の<seg type="ruby"><seg type="rb">行為</seg><seg type="rp">（</seg><seg type="rt">わざ</seg><seg type="rp">）</seg></seg>に由りて知れり我なんじが冷かなるか或は熱からんことを願う<lb />
+</seg>
+　こんな句が彼女の心に留った。一筋の雲影もない澄んだ空は、黄色を帯びた光線を深く一杯に含んでいた。其処から何物か震えつつ胸に伝わるものがあった。それは<seg type="ruby"><seg type="rb">明瞭</seg><seg type="rp">（</seg><seg type="rt">はっきり</seg><seg type="rp">）</seg></seg>と知ることが出来なかった。心持ち首を<seg type="ruby"><seg type="rb">傾</seg><seg type="rp">（</seg><seg type="rt">かし</seg><seg type="rp">）</seg></seg>げて、彼女はまた書物の上に眼を落した。<lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
+――視よ<seg type="ruby"><seg type="rb">我</seg><seg type="rp">（</seg><seg type="rt">われ</seg><seg type="rp">）</seg></seg>戸の外に立ちて叩くもしわが声を聞きて戸を開く者あらば我その人の<seg type="ruby"><seg type="rb">所</seg><seg type="rp">（</seg><seg type="rt">もと</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">就</seg><seg type="rp">（</seg><seg type="rt">いた</seg><seg type="rp">）</seg></seg>らん而して我はその人と<seg type="ruby"><seg type="rb">偕</seg><seg type="rp">（</seg><seg type="rt">とも</seg><seg type="rp">）</seg></seg>にその人は我と偕に食せん<lb />
+</seg>
+　その時ふっと物影が彼女の顔を<seg type="ruby"><seg type="rb">横</seg><seg type="rp">（</seg><seg type="rt">よぎ</seg><seg type="rp">）</seg></seg>った。かの青年がやって来てじっと彼女を見ているのであった。軽く咎むるような心地の眼付でその顔を見返すと青年はこう云った。<lb />
 「絵葉書はありませんか。」<lb />
-　その時彼女は明かに青年の顔を見た。窶れた顔は淋しい輪郭をしていた。逼った額は一層彼の顔を淋しく見せた。堅く結んだ口元とうっとりとした悲しみの眼とは、一つ思いに満ちた心を示していた。で<span type="ruby"><span type="rb">労</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>わるような調子でこう答えた。<lb />
+　その時彼女は明かに青年の顔を見た。窶れた顔は淋しい輪郭をしていた。逼った額は一層彼の顔を淋しく見せた。堅く結んだ口元とうっとりとした悲しみの眼とは、一つ思いに満ちた心を示していた。で<seg type="ruby"><seg type="rb">労</seg><seg type="rp">（</seg><seg type="rt">いた</seg><seg type="rp">）</seg></seg>わるような調子でこう答えた。<lb />
 「みんな湖水のばかりなのですよ。」<lb />
 　青年はその一枚を取りあげて暫くじっと見ていた。それはふっくらとした湖水の面を単調に写し出したものであった。それから彼は五六枚を選んで、そのまま黙って湯の宿の方へ帰って行った。<lb />
 　何だか淋しい影を引いている人だと彼女は思った。<lb />
 <lb />
-　曇り勝ちで<span type="ruby"><span type="rb">佗</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>びしい一週間が過ぎた。<lb />
-　前日よりしとしとと降り続いた雨は午後になっても止まなかった。雨を含んで重たい雲の脚が山々の頂を匐ってゆく。そして榛の林に、湖水の上に、冷たい小さい雨の粒が忍び歎く音を立てている。その顫音が集って、仄暗い家の中の空気に頼り無い寂寥を満す時、彼女はむやみと火鉢の炭を足して、軽く頬が<span type="ruby"><span type="rb">熱</span><span type="rp">（</span><span type="rt">ほて</span><span type="rp">）</span></span>るまでに火を<span type="ruby"><span type="rb">熾</span><span type="rp">（</span><span type="rt">おこ</span><span type="rp">）</span></span>した。障子の腰にはまった四角い板硝子を透して見ると、外にはしっとりした靄が細い雨に縫われて低く垂れている。その靄の圧力を受けて湖水の面は一杯に張り切っている。落ち来る雨の粒はその緊張にはね返されて、幾つかに砕けて光る小さい露の玉の形を暫くは水面に保った。<lb />
-　その時表にふと人影を見出したので彼女は立ち上って障子を開けて見た。それは<span type="ruby"><span type="rb">先日</span><span type="rp">（</span><span type="rt">いつか</span><span type="rp">）</span></span>の青年であった。<lb />
-「ちと<span type="ruby"><span type="rb">息</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>んでいらっしゃい。」と彼女は云った。<lb />
+　曇り勝ちで<seg type="ruby"><seg type="rb">佗</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>びしい一週間が過ぎた。<lb />
+　前日よりしとしとと降り続いた雨は午後になっても止まなかった。雨を含んで重たい雲の脚が山々の頂を匐ってゆく。そして榛の林に、湖水の上に、冷たい小さい雨の粒が忍び歎く音を立てている。その顫音が集って、仄暗い家の中の空気に頼り無い寂寥を満す時、彼女はむやみと火鉢の炭を足して、軽く頬が<seg type="ruby"><seg type="rb">熱</seg><seg type="rp">（</seg><seg type="rt">ほて</seg><seg type="rp">）</seg></seg>るまでに火を<seg type="ruby"><seg type="rb">熾</seg><seg type="rp">（</seg><seg type="rt">おこ</seg><seg type="rp">）</seg></seg>した。障子の腰にはまった四角い板硝子を透して見ると、外にはしっとりした靄が細い雨に縫われて低く垂れている。その靄の圧力を受けて湖水の面は一杯に張り切っている。落ち来る雨の粒はその緊張にはね返されて、幾つかに砕けて光る小さい露の玉の形を暫くは水面に保った。<lb />
+　その時表にふと人影を見出したので彼女は立ち上って障子を開けて見た。それは<seg type="ruby"><seg type="rb">先日</seg><seg type="rp">（</seg><seg type="rt">いつか</seg><seg type="rp">）</seg></seg>の青年であった。<lb />
+「ちと<seg type="ruby"><seg type="rb">息</seg><seg type="rp">（</seg><seg type="rt">やす</seg><seg type="rp">）</seg></seg>んでいらっしゃい。」と彼女は云った。<lb />
 　彼女は青年を家の中に導いて、囲炉裡に火を焚いた。彼の姿は雨の中にいたいたしいように彼女の眼に映った。<lb />
 　二人は狭い土間の囲炉裡の側に腰を掛けた。あたりはごたごたと散らかっていた。菓子箱や絵葉書の箱などが椽端から取り片付けて、其処らにつんであるのを青年は珍らしそうに見廻した。<lb />
 「もう此の頃はお客も少いのでしょうね。」<lb />
-「ええすっかり寒くなりましたものですから。それに今日のような雨の日は<span type="ruby"><span type="rb">特</span><span type="rp">（</span><span type="rt">こと</span><span type="rp">）</span></span>にね……。」と云って彼女はかすかに<span type="ruby"><span type="rb">微笑</span><span type="rp">（</span><span type="rt">ほほえ</span><span type="rp">）</span></span>んだ。<lb />
-「でも今日は大変いい景色でした。それで湖水の岸に長い間立っていたのはよかったのですが、急に寒くなって実際弱ってしまいました。」こう云って彼はひどく<span type="ruby"><span type="rb">真面目</span><span type="rp">（</span><span type="rt">まじめ</span><span type="rp">）</span></span>な顔をしている。<lb />
+「ええすっかり寒くなりましたものですから。それに今日のような雨の日は<seg type="ruby"><seg type="rb">特</seg><seg type="rp">（</seg><seg type="rt">こと</seg><seg type="rp">）</seg></seg>にね……。」と云って彼女はかすかに<seg type="ruby"><seg type="rb">微笑</seg><seg type="rp">（</seg><seg type="rt">ほほえ</seg><seg type="rp">）</seg></seg>んだ。<lb />
+「でも今日は大変いい景色でした。それで湖水の岸に長い間立っていたのはよかったのですが、急に寒くなって実際弱ってしまいました。」こう云って彼はひどく<seg type="ruby"><seg type="rb">真面目</seg><seg type="rp">（</seg><seg type="rt">まじめ</seg><seg type="rp">）</seg></seg>な顔をしている。<lb />
 　雨がしきりなしにまだ降っていた。囲炉裡に燃ゆる火が昼間の光と湿った空気とを映して淡々しい。<lb />
 「今日はお一人ですか？」と彼がきいた。<lb />
 「ええ此の頃ではお客もあまり無いのですから、女中は二三日前に兄の方へ、やはり温泉場で宿屋をしていますものですから、その方へよこしてしまいました。ここまで三四町しかありませんからね。それに晩は泊りに来てくれますし……」<lb />
 「昼間でもお一人でしたら随分静かでしょう。」<lb />
-「ええもう静かすぎて淋しい位ですよ。でもそんな時、いつも<span type="ruby"><span type="rb">聖書</span><span type="rp">（</span><span type="rt">バイブル</span><span type="rp">）</span></span>を少しずつ読むことにしていますの。」<lb />
+「ええもう静かすぎて淋しい位ですよ。でもそんな時、いつも<seg type="ruby"><seg type="rb">聖書</seg><seg type="rp">（</seg><seg type="rt">バイブル</seg><seg type="rp">）</seg></seg>を少しずつ読むことにしていますの。」<lb />
 　と云って彼女はちらと男の顔を見た。「淋しい時は大変に慰められますから。」<lb />
 「ずっと前からの御信仰ですか。」<lb />
 「そんなに昔からでもありませんけれど……。」云い乍ら彼女はその当時のことを思い浮べた。夫の死後故郷に帰って余儀ない事情からこの湖畔の茶店を守る身とまでなった当時のことから、ある夏に度々訪れて来た一人の信者に導かれてその途に入ったことなど。そしてこうつけ加えた。「それから私は大変幸福になったような気が致します。」<lb />
@@ -78,7 +78,7 @@
 　青年は何とも答えなかった。漠然とした不安が彼女の心を襲った。「祈らねばならない」とこう思った。それでそっと胸に手を組んだ。<lb />
 「あなたは……。私こんなことを申してもいいのでしょうか。」と云って彼女は青年の顔色を伺った。彼はじっと燃えつきゆく火を見つめている。「あなたは何かに悩んでおいでではないでしょうか。神様を御信じなさると宜しいのです。私もこういうことに身を落すまでどんなにか苦しんだでしょう。でもその時私の心を救って下すったのは神様だったのです。」<lb />
 「あなたは神様をほんとうに信じていられますか？」<lb />
-「え、信じています。」と彼女は<span type="ruby"><span type="rb">明瞭</span><span type="rp">（</span><span type="rt">はっきり</span><span type="rp">）</span></span>と答えた。<lb />
+「え、信じています。」と彼女は<seg type="ruby"><seg type="rb">明瞭</seg><seg type="rp">（</seg><seg type="rt">はっきり</seg><seg type="rp">）</seg></seg>と答えた。<lb />
 「あなたは、」と云って青年はじっと彼女の顔を見た。「ほんとうに心からもういいと思うほどお祈りをなすったことがおありですか？　その時何かがあなたの涙の祈りに答えたでしょうか？」<lb />
 　冷たいものがスーッと彼女の頭を掠めて飛んだ。彼女は緊と両手を握りしめた。そしてこう云った。<lb />
 「私はよく涙を流したことがありました。そしてお祈りをしました。祈り乍らはっきりと私は神様を心に信じました。種々な苦しみや涙の嬉しいことを私に教えて下すったのは只神様ばかりでした。」<lb />
@@ -88,7 +88,7 @@
 　それは彼女に皮肉な響きを伝えた。そして同時に強い淋しさを誘った。<lb />
 「いえ幸福では……。」彼女は云った。そして何故か自分でも知らないでくり返した。「私は幸福ではありません。」<lb />
 　その時突然青年は顔を上げた。そしてじっと遠い処を見つむるような眼付をした。<lb />
-「ほんとうは<span type="ruby"><span type="rb">祈祷</span><span type="rp">（</span><span type="rt">いのり</span><span type="rp">）</span></span>をし乍ら、同時に祈らるるものの心地にならなければいけません。」<lb />
+「ほんとうは<seg type="ruby"><seg type="rb">祈祷</seg><seg type="rp">（</seg><seg type="rt">いのり</seg><seg type="rp">）</seg></seg>をし乍ら、同時に祈らるるものの心地にならなければいけません。」<lb />
 　その意味ははっきりとは彼女は分らなかった。突然何か大きいものがぶつかったような気がした。<lb />
 「神様が見ていられます！」となかばは自分に云ってみた。<lb />
 「神なんかどうでもいい。」と云って青年は堅く唇を結んだ。<lb />
@@ -96,22 +96,22 @@
 「何かお気に障ったことを申したのでしょうか？」と彼女はそっと問うた。<lb />
 「いいえ、」と彼が答えた。「どうか悪くおとりになりませんように。何でもないんですから。」<lb />
 「それならいいのですけれど……。」<lb />
-　沈黙が続いた。青年は何かに思い耽っているように身動きもしなかった。それを見ると、彼女の心に深い処から<span type="ruby"><span type="rb">謎</span><span type="rp">（</span><span type="rt">なぞ</span><span type="rp">）</span></span>のような不安が上って来た。でふと立ち上って、火鉢の火を何気なく囲炉裡の中に移した。<lb />
+　沈黙が続いた。青年は何かに思い耽っているように身動きもしなかった。それを見ると、彼女の心に深い処から<seg type="ruby"><seg type="rb">謎</seg><seg type="rp">（</seg><seg type="rt">なぞ</seg><seg type="rp">）</seg></seg>のような不安が上って来た。でふと立ち上って、火鉢の火を何気なく囲炉裡の中に移した。<lb />
 「寒い日ですことね。」<lb />
 　青年はホッと溜息をついた。<lb />
 「私もう帰りましょう。」と彼は云った。「どうか悪くお思いなさらないように。」<lb />
-　まだ細い雨が降り続いていた。薄すらとした靄が午後の明るみに包まれて、その間を小さい雨脚が銀色に縫っている。大きく宿屋のしるしの入った傘をさして行く青年の後姿を、彼女は<span type="ruby"><span type="rb">憫然</span><span type="rp">（</span><span type="rt">ぼんやり</span><span type="rp">）</span></span>として見送った。<lb />
+　まだ細い雨が降り続いていた。薄すらとした靄が午後の明るみに包まれて、その間を小さい雨脚が銀色に縫っている。大きく宿屋のしるしの入った傘をさして行く青年の後姿を、彼女は<seg type="ruby"><seg type="rb">憫然</seg><seg type="rp">（</seg><seg type="rt">ぼんやり</seg><seg type="rp">）</seg></seg>として見送った。<lb />
 　表をしめて足を返した時、彼女は何か物につき当ったような心地がした。頭の隅で青年の運命が悲しい形を取った。それは死というほどのものではなかったけれど、然し大きい懸念が其処に在った。で一寸彼女は立ち止った。そして頭を軽く振った。それから静に十字を切った。<lb />
 <lb />
 　晴れた日が数日続いた。<lb />
 <lb />
-　朝飯をすました<span type="ruby"><span type="rb">婢</span><span type="rp">（</span><span type="rt">おんな</span><span type="rp">）</span></span>を兄の家へ<span type="ruby"><span type="rb">遣</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>ってから彼女は外に出てみた。<lb />
-　湖水の上には靄がかけていた。夜に醸された靄はやさしい夢を孕んで、しっとりとした重みで湖水の面と融け合っている。東の山の端を越えて清らかな太陽の光りがこの湖水を中心にした盆地の上に落ちた。靄に濡れた<span type="ruby"><span type="rb">渚</span><span type="rp">（</span><span type="rt">なぎさ</span><span type="rp">）</span></span>の円い小石が、まだ薄すらと<span type="ruby"><span type="rb">橙色</span><span type="rp">（</span><span type="rt">オレンジ</span><span type="rp">）</span></span>を止めた青い空を映している。そして落葉の上に白い霜が、また枯れかかった草の葉に露の玉が、朝日にきらきらと輝いている。<lb />
-　彼女はこうして一人在ることの幸福を感じた。そしてそれを心のうちで神に感謝した。然しその幸福の底には淋しい空虚があった。その時彼女はふと自分の<span type="ruby"><span type="rb">年齢</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>を思った。が空虚は其処にあるのではないと考えた。それでは何故だろう？「そんなことは考えても分るものではない。」とこう自分に云ってみた。そしてもう一度神に感謝しなければならないと思った。<lb />
+　朝飯をすました<seg type="ruby"><seg type="rb">婢</seg><seg type="rp">（</seg><seg type="rt">おんな</seg><seg type="rp">）</seg></seg>を兄の家へ<seg type="ruby"><seg type="rb">遣</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>ってから彼女は外に出てみた。<lb />
+　湖水の上には靄がかけていた。夜に醸された靄はやさしい夢を孕んで、しっとりとした重みで湖水の面と融け合っている。東の山の端を越えて清らかな太陽の光りがこの湖水を中心にした盆地の上に落ちた。靄に濡れた<seg type="ruby"><seg type="rb">渚</seg><seg type="rp">（</seg><seg type="rt">なぎさ</seg><seg type="rp">）</seg></seg>の円い小石が、まだ薄すらと<seg type="ruby"><seg type="rb">橙色</seg><seg type="rp">（</seg><seg type="rt">オレンジ</seg><seg type="rp">）</seg></seg>を止めた青い空を映している。そして落葉の上に白い霜が、また枯れかかった草の葉に露の玉が、朝日にきらきらと輝いている。<lb />
+　彼女はこうして一人在ることの幸福を感じた。そしてそれを心のうちで神に感謝した。然しその幸福の底には淋しい空虚があった。その時彼女はふと自分の<seg type="ruby"><seg type="rb">年齢</seg><seg type="rp">（</seg><seg type="rt">とし</seg><seg type="rp">）</seg></seg>を思った。が空虚は其処にあるのではないと考えた。それでは何故だろう？「そんなことは考えても分るものではない。」とこう自分に云ってみた。そしてもう一度神に感謝しなければならないと思った。<lb />
 　彼女は渚へ下った。そして暫く其処に立っていた。<lb />
 「お早う！」と云われたので後ろを向くと、かの青年が立っていた。<lb />
 「先日は……。」と云って彼女は軽くお辞儀をした。<lb />
-　青年は興奮していた。躍っている胸をじっと押えつけているような表情をした。眼を一杯に見開いている。<span type="ruby"><span type="rb">生々</span><span type="rp">（</span><span type="rt">いきいき</span><span type="rp">）</span></span>とした色が頬に流れている。彼女は先日の午後を思い出しながら、妙な気をしてこう云った。<lb />
+　青年は興奮していた。躍っている胸をじっと押えつけているような表情をした。眼を一杯に見開いている。<seg type="ruby"><seg type="rb">生々</seg><seg type="rp">（</seg><seg type="rt">いきいき</seg><seg type="rp">）</seg></seg>とした色が頬に流れている。彼女は先日の午後を思い出しながら、妙な気をしてこう云った。<lb />
 「晴れた朝は気持がよろしゅうござんすことね。」<lb />
 「ええ、」と答えたが彼は暫くしてつけ加えた。「あなたの生活はほんとに羨ましい。」<lb />
 「いいえ今のうちだけのことです。夏から紅葉にかけてはお客で忙しくって、それにまたこれからは退屈な冬がやって来ますからね。……と云って別に何も怨むのでもないのですけれど。」<lb />
@@ -121,65 +121,65 @@
 　彼女はふと我知らず淋しい気持ちに包まれた。で何とも答えないで青年を見ると、彼は唇を円くしてフーッと息を吹いている。白く凍って流るる息を、遠い空をでも眺むるような眼付で眺めている。「彼にとって今凡てが清らかで楽しいのだ」と彼女は思った。そしてこう思うことは彼女に淡々しい淋しさを与えた。<lb />
 「うちに舟がありましたでしょう。」と突然彼が尋ねた。「今日の午後あれを借りられませんでしょうか。」<lb />
 「このお寒いのに！」<lb />
-「寒い位何でもありません。では午後に屹度来ますから火を沢山熾しといて下さい。そしてお菓子と何か<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>べるものも……。」<lb />
+「寒い位何でもありません。では午後に屹度来ますから火を沢山熾しといて下さい。そしてお菓子と何か<seg type="ruby"><seg type="rb">食</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>べるものも……。」<lb />
 「でも水の上はお寒いでしょうよ。……お一人？」<lb />
 「いいえも一人来るでしょう。」<lb />
 　彼は湖水の上をずっと見渡している。何時の間にか靄も消えて、水面は柔く太陽の光りに押えられて漣一つ立たなかった。<lb />
 「それでは船頭にもそう伝えておきましょう。」<lb />
-「いえ私が漕ぐんです。暖い火の外には<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>にもいりません。」<lb />
+「いえ私が漕ぐんです。暖い火の外には<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">なん</seg><seg type="rp">）</seg></seg>にもいりません。」<lb />
 　彼の眼は夢みるように輝いていた。彼女はじっとその顔を見た。おかしな不安が彼女の心に萠した。湖水の上から、対岸の陰った山懐から、遠く眼がかすむような山嶺から、更に青い空まで彼女は静に視線を移した。そして斯う云った。<lb />
 「よろしいんですか。」<lb />
-「ええ！」と青年は強く<span type="ruby"><span type="rb">点頭</span><span type="rp">（</span><span type="rt">うなず</span><span type="rp">）</span></span>いた。<lb />
-　何がいいのかは二人の孰れにもはっきり分っては居なかった。彼等の影は長く渚の上に在った。露にぬれた<span type="ruby"><span type="rb">礫</span><span type="rp">（</span><span type="rt">こいし</span><span type="rp">）</span></span>が次第に乾いてゆく、そして冷たい空気が静に流れた。<lb />
+「ええ！」と青年は強く<seg type="ruby"><seg type="rb">点頭</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>いた。<lb />
+　何がいいのかは二人の孰れにもはっきり分っては居なかった。彼等の影は長く渚の上に在った。露にぬれた<seg type="ruby"><seg type="rb">礫</seg><seg type="rp">（</seg><seg type="rt">こいし</seg><seg type="rp">）</seg></seg>が次第に乾いてゆく、そして冷たい空気が静に流れた。<lb />
 <lb />
 　その午後、彼女は気懸りな三時間を過した。<lb />
-　お<span type="ruby"><span type="rb">昼食</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>前に舟の用意をして、すぐ前の渚にそれを繋いだ。そして昼食を済した時温泉場から婢が来た。それは青年の滞在している<span type="ruby"><span type="rb">旅館</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の女中で、二つの<span type="ruby"><span type="rb">褞袍</span><span type="rp">（</span><span type="rt">どてら</span><span type="rp">）</span></span>の大きい包を届けたのであった。彼女はその女中を見知っていた。<lb />
+　お<seg type="ruby"><seg type="rb">昼食</seg><seg type="rp">（</seg><seg type="rt">ひる</seg><seg type="rp">）</seg></seg>前に舟の用意をして、すぐ前の渚にそれを繋いだ。そして昼食を済した時温泉場から婢が来た。それは青年の滞在している<seg type="ruby"><seg type="rb">旅館</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の女中で、二つの<seg type="ruby"><seg type="rb">褞袍</seg><seg type="rp">（</seg><seg type="rt">どてら</seg><seg type="rp">）</seg></seg>の大きい包を届けたのであった。彼女はその女中を見知っていた。<lb />
 「暫くして御出になりますそうですから。」と婢は云った。<lb />
-「お友達とお<span type="ruby"><span type="rb">二人</span><span type="rp">（</span><span type="rt">ふたり</span><span type="rp">）</span></span>？」<lb />
-「いいえ、」と婢は微笑んで、「奥様なんでしょう。<span type="ruby"><span type="rb">一昨日</span><span type="rp">（</span><span type="rt">おとつい</span><span type="rp">）</span></span>御出になりました。」<lb />
+「お友達とお<seg type="ruby"><seg type="rb">二人</seg><seg type="rp">（</seg><seg type="rt">ふたり</seg><seg type="rp">）</seg></seg>？」<lb />
+「いいえ、」と婢は微笑んで、「奥様なんでしょう。<seg type="ruby"><seg type="rb">一昨日</seg><seg type="rp">（</seg><seg type="rt">おとつい</seg><seg type="rp">）</seg></seg>御出になりました。」<lb />
 「おやそうを。……舟の用意はいいからとそう申しといて下さいよ。御苦労さま。」<lb />
 「それでは御頼み致します。」<lb />
 　彼女はそれから舟に運ぶ火を囲炉裡に熾した。そして青年を待った。静かな午後の日は事もなくゆるやかに時が移ってゆく。<lb />
-　彼女は囲炉裡の側に腰掛けていた、丁度いつかの午後のように。そしてじっと炭火を見守っていた。漠然とした不安の予感が心のうちに萠した。何かしら忌わしいものが、日が陰るように胸の中をスーッと通りすぎた。その中に奥様でしょうと云った女中の言葉がふと浮んだ。「私は決して<span type="ruby"><span type="rb">妬</span><span type="rp">（</span><span type="rt">ねた</span><span type="rp">）</span></span>んでいるのではない」と驚いて彼女は自ら強く肯定した。でもやはり青年をいつかの午後のように悩まして置きたかった。「神様が見ていられます。」と彼に云いたかった。そして青年の姿を思い浮べた。……その時暗い処へ引き入れられるような恐怖を彼女は感じた。でホッと溜息をしてまた明るみへ出た。そして聖書をとり上げてみた。暫くは頁をくっていたが、心のうちにぴったりと響を合せるものがなかった。<lb />
+　彼女は囲炉裡の側に腰掛けていた、丁度いつかの午後のように。そしてじっと炭火を見守っていた。漠然とした不安の予感が心のうちに萠した。何かしら忌わしいものが、日が陰るように胸の中をスーッと通りすぎた。その中に奥様でしょうと云った女中の言葉がふと浮んだ。「私は決して<seg type="ruby"><seg type="rb">妬</seg><seg type="rp">（</seg><seg type="rt">ねた</seg><seg type="rp">）</seg></seg>んでいるのではない」と驚いて彼女は自ら強く肯定した。でもやはり青年をいつかの午後のように悩まして置きたかった。「神様が見ていられます。」と彼に云いたかった。そして青年の姿を思い浮べた。……その時暗い処へ引き入れられるような恐怖を彼女は感じた。でホッと溜息をしてまた明るみへ出た。そして聖書をとり上げてみた。暫くは頁をくっていたが、心のうちにぴったりと響を合せるものがなかった。<lb />
 　午後の明るみが家の中を一杯に満していた。そして却って物の輪廓を朧ろ気にしている。囲炉裡の炭火にはもう白い灰が蔽っている。彼女の心には大きい不安と緊張とが波うった。何かしら重大な運命が自分を待ち受けているように思えた。それは只青年を待っている故ばかりではなかった。それでは？――「神様に奇蹟を求めてはいけない！」と彼女は心の中できっぱりと云った。<lb />
 　青年が来たのは三時頃であったろう。<lb />
 「ほんとうにお待たせしてすみません。」<lb />
 「いいえ。」と云って彼女は笑顔を作ってみせた。然しその微笑は自然に痙攣していた。<lb />
 　青年の後ろに若い婦人が一人立っていた。<lb />
 「よく御出になりました。」と彼女は云った。<lb />
-　女は只丁寧に頭を下げた。長い眉毛の下の小さい眼を驚いたように見張っている。そのぱっちりとした小さい眼と高からぬ<span type="ruby"><span type="rb">鼻立</span><span type="rp">（</span><span type="rt">はなだち</span><span type="rp">）</span></span>とは、小さい宝を強く懐いている心を思わせた。黒い房々した髪を無雑作に束ねていた。<lb />
-「一寸の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>、向うで暖っていて下さいよ。」と口早に彼女は二人に云った。<lb />
-　彼女は何となく落ち付かなかった。自然と心が<span type="ruby"><span type="rb">急</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>かれた。で用意していた菓子や果物や、それから<span type="ruby"><span type="rb">鮨</span><span type="rp">（</span><span type="rt">すし</span><span type="rp">）</span></span>などを舟に運んだ。火鉢をしかと横木に結えて、それに一杯火を盛った。お茶の道具と炭と褞袍とを片方に置いた。それらのことを彼女は息をはずませ乍ら急いでやった。そして「宜しいですよ。」と云った。<lb />
+　女は只丁寧に頭を下げた。長い眉毛の下の小さい眼を驚いたように見張っている。そのぱっちりとした小さい眼と高からぬ<seg type="ruby"><seg type="rb">鼻立</seg><seg type="rp">（</seg><seg type="rt">はなだち</seg><seg type="rp">）</seg></seg>とは、小さい宝を強く懐いている心を思わせた。黒い房々した髪を無雑作に束ねていた。<lb />
+「一寸の<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>、向うで暖っていて下さいよ。」と口早に彼女は二人に云った。<lb />
+　彼女は何となく落ち付かなかった。自然と心が<seg type="ruby"><seg type="rb">急</seg><seg type="rp">（</seg><seg type="rt">せ</seg><seg type="rp">）</seg></seg>かれた。で用意していた菓子や果物や、それから<seg type="ruby"><seg type="rb">鮨</seg><seg type="rp">（</seg><seg type="rt">すし</seg><seg type="rp">）</seg></seg>などを舟に運んだ。火鉢をしかと横木に結えて、それに一杯火を盛った。お茶の道具と炭と褞袍とを片方に置いた。それらのことを彼女は息をはずませ乍ら急いでやった。そして「宜しいですよ。」と云った。<lb />
 　二人はじっと顔を見合った。そして囲炉裡の側から立ち上って、渚に下った。<lb />
 　彼女は何とか云おうとして、その言葉が忘られた。何処にか心の中に平衡を失くした処があった。<lb />
 　女は黙って先に舟へ入った。<lb />
 　男は舟の側に立ったまま突然彼女の方に顔を向けた。頬の筋肉が堅く引き緊っている。<lb />
 「丁度月がありますから、もしかすると帰りは少し遅くなるかも知れません。御心配なさらないように。」<lb />
 　彼女は何と答えていいか分らなかった。そして眼を女の方へ注ぐと、女はその時ふり返ってじっと彼女を見た。晴々とした顔に無邪気な眼が光っていた。で彼女はこう答えた。<lb />
-「ええ御<span type="ruby"><span type="rb">悠</span><span type="rp">（</span><span type="rt">ゆっく</span><span type="rp">）</span></span>りと。……でもあまり遅くなりますと心配ですから。」<lb />
+「ええ御<seg type="ruby"><seg type="rb">悠</seg><seg type="rp">（</seg><seg type="rt">ゆっく</seg><seg type="rp">）</seg></seg>りと。……でもあまり遅くなりますと心配ですから。」<lb />
 　男は一寸躊躇していたが、そのまま舟へ入った。<lb />
-　彼女は<span type="ruby"><span type="rb">緊</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>と舟の<span type="ruby"><span type="rb">艫</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>を掴んだ。何か心に残るものがあった。でもそのまま力を込めて舟を押した。舟はスーッと渚を離れた。急に重い荷を下したような安堵が彼女の心に感ぜられた。<lb />
-　舟が静に水の上を滑った時、女は<span type="ruby"><span type="rb">舟縁</span><span type="rp">（</span><span type="rt">ふなべり</span><span type="rp">）</span></span>から白い手を出して冷たい水の面を指先で掻いている、そして男の方へ向ってそっと微笑んだ。<lb />
+　彼女は<seg type="ruby"><seg type="rb">緊</seg><seg type="rp">（</seg><seg type="rt">しか</seg><seg type="rp">）</seg></seg>と舟の<seg type="ruby"><seg type="rb">艫</seg><seg type="rp">（</seg><seg type="rt">とも</seg><seg type="rp">）</seg></seg>を掴んだ。何か心に残るものがあった。でもそのまま力を込めて舟を押した。舟はスーッと渚を離れた。急に重い荷を下したような安堵が彼女の心に感ぜられた。<lb />
+　舟が静に水の上を滑った時、女は<seg type="ruby"><seg type="rb">舟縁</seg><seg type="rp">（</seg><seg type="rt">ふなべり</seg><seg type="rp">）</seg></seg>から白い手を出して冷たい水の面を指先で掻いている、そして男の方へ向ってそっと微笑んだ。<lb />
 　水棹を捨てて櫂を取った青年の手元は覚束ないものであった。舟がくるりと廻った。それでもどうやら少しずつ漕いでゆくらしい。<lb />
-　彼女はそのまま渚に<span type="ruby"><span type="rb">屈</span><span type="rp">（</span><span type="rt">かが</span><span type="rp">）</span></span>んだ。大きい安静が彼女を包んだ。かの二人は嬉しさと悲しみとに満ちた心で結ばれている間であることも彼女はよく知っていた。二人を水の上に浮べて、今<span type="ruby"><span type="rb">日向</span><span type="rp">（</span><span type="rt">ひなた</span><span type="rp">）</span></span>の磯の上に解放された自分の心を見出す時、彼女は自分が凡ての自然の、山の、森の、また水の、さては二人の湖上の愛の母であるように思えて来る。<span type="ruby"><span type="rb">先刻</span><span type="rp">（</span><span type="rt">さっき</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">周章</span><span type="rp">（</span><span type="rt">あわて</span><span type="rp">）</span></span>た自分の心が不思議に思えた。一つの静安なる生命が、限りない喜びを与える。<lb />
-　晩秋の太陽の光りは弱々しく、森の上に野の上に煙った。湖水の面がきらきらとその光りを刻んでいる。舟は夢のように浮んでいた。青年は櫂をすてて女と並んで坐った。彼等は小さい板片を手にしている。そして<span type="ruby"><span type="rb">各</span><span type="rp">（</span><span type="rt">おのおの</span><span type="rp">）</span></span>舷側から水の中にそれを浸して、時々は当度もなく舟を動かしているらしい。<lb />
+　彼女はそのまま渚に<seg type="ruby"><seg type="rb">屈</seg><seg type="rp">（</seg><seg type="rt">かが</seg><seg type="rp">）</seg></seg>んだ。大きい安静が彼女を包んだ。かの二人は嬉しさと悲しみとに満ちた心で結ばれている間であることも彼女はよく知っていた。二人を水の上に浮べて、今<seg type="ruby"><seg type="rb">日向</seg><seg type="rp">（</seg><seg type="rt">ひなた</seg><seg type="rp">）</seg></seg>の磯の上に解放された自分の心を見出す時、彼女は自分が凡ての自然の、山の、森の、また水の、さては二人の湖上の愛の母であるように思えて来る。<seg type="ruby"><seg type="rb">先刻</seg><seg type="rp">（</seg><seg type="rt">さっき</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">周章</seg><seg type="rp">（</seg><seg type="rt">あわて</seg><seg type="rp">）</seg></seg>た自分の心が不思議に思えた。一つの静安なる生命が、限りない喜びを与える。<lb />
+　晩秋の太陽の光りは弱々しく、森の上に野の上に煙った。湖水の面がきらきらとその光りを刻んでいる。舟は夢のように浮んでいた。青年は櫂をすてて女と並んで坐った。彼等は小さい板片を手にしている。そして<seg type="ruby"><seg type="rb">各</seg><seg type="rp">（</seg><seg type="rt">おのおの</seg><seg type="rp">）</seg></seg>舷側から水の中にそれを浸して、時々は当度もなく舟を動かしているらしい。<lb />
 　彼女は無心に小石を一つ拾って水中に投じてみた。その小さい音が青空の下に消えてゆく時、彼女の静かな悦びがゆらゆらと揺いだ。凡てのものの母であるというような広い心は、また只在ることの静かなる悦びは、渚に戯るる小さい漣の音にも融けてゆく。生きることから解放されたような安易と、彼方の空から来る愁とのうちに、彼女は神を想った。<lb />
 　やがて彼女は立ち上って家の方へ歩いた。頭が自然に力なく垂れた。その時彼女は旧友のなつかしい名を誰彼と思い浮べていた。そして家に入るとその一人に久々の音信を送ろうとて筆を執った。<lb />
 <lb />
 　山に囲まれた盆地は暮るるに早かった。山懐の森の中から夜がひそやかに忍び出た。湖水に映った空の光りが薄れて、只一面に茫然たる灰色のうちに物の輪廓が包まれた。そして月が仄白く空に懸った。<lb />
-　<span type="ruby"><span type="rb">燈火</span><span type="rp">（</span><span type="rt">あかり</span><span type="rp">）</span></span>をつけてから、彼女の心は不安を感じてきた。不安はそのまま緊張して神秘な形を取った。彼女はじっと耳を澄して隠れたる物の囁きを聞き取ろうとした。舟の中の二人の運命が夢のような静けさを取って彼女の心に写った。其処から怪しい<span type="ruby"><span type="rb">蠱惑</span><span type="rp">（</span><span type="rt">まどわし</span><span type="rp">）</span></span>の不安が手を伸した。彼女はまた外に出てみた。それは日暮頃から四度目であった。彼女はまだ一度も舟の姿を認めなかったので。<lb />
-　空にはもう太陽の光りが全く消えてしまっていた。そして月が明るく輝いて、物の<span type="ruby"><span type="rb">象</span><span type="rp">（</span><span type="rt">かたち</span><span type="rp">）</span></span>の上に青白い匂いを置いた。湖水の上には夕靄が薄すらと靉いて、水の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>が水銀のように光っていた。彼女はじっと月明りに<span type="ruby"><span type="rb">透</span><span type="rp">（</span><span type="rt">すか</span><span type="rp">）</span></span>し見た。<lb />
-　舟が夢の国のように水面に浮いて見えた。彼女は我知らず息を潜めて其処に立ち<span type="ruby"><span type="rb">竦</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>んだ。<lb />
-　二人は向い合って褞袍を<span type="ruby"><span type="rb">被</span><span type="rp">（</span><span type="rt">はお</span><span type="rp">）</span></span>り乍ら舟の中に坐っている。男は両手を緊と握り合せて胸の処に組んだまま首を垂れている。女は両手を重ねてそっと胸を押えたまま同じく首を垂れている。――祈っているのだ！　そのまま石になりそうに思われるほど彼等はじっとしている。凡てのものが息を潜めている。時が音を立てないで静に過ぎ去る。……やがて女はそっとハンカチを自分の顔に当てた。それからまた男の眼と頬から涙を拭ってじっとその顔を<span type="ruby"><span type="rb">覗</span><span type="rp">（</span><span type="rt">のぞ</span><span type="rp">）</span></span>いた。その時男は組み合せた両手を解いて柔く女の頸を抱いた……男は立ち上って櫂を手にした。女は空を<span type="ruby"><span type="rb">恍惚</span><span type="rp">（</span><span type="rt">うっとり</span><span type="rp">）</span></span>と見上げている――<lb />
-　彼女は急いで家の中に入った。呼吸が喘いでいる。見てならぬものを見たという悔いよりも、神聖なるものを涜したというような恐れが胸に湧いた。お<span type="ruby"><span type="rb">社</span><span type="rp">（</span><span type="rt">やしろ</span><span type="rp">）</span></span>の御龕をそっと覗いたような心地がした。其処に深い処から何かがちらと光った。じっとしていられないような気がした。<lb />
+　<seg type="ruby"><seg type="rb">燈火</seg><seg type="rp">（</seg><seg type="rt">あかり</seg><seg type="rp">）</seg></seg>をつけてから、彼女の心は不安を感じてきた。不安はそのまま緊張して神秘な形を取った。彼女はじっと耳を澄して隠れたる物の囁きを聞き取ろうとした。舟の中の二人の運命が夢のような静けさを取って彼女の心に写った。其処から怪しい<seg type="ruby"><seg type="rb">蠱惑</seg><seg type="rp">（</seg><seg type="rt">まどわし</seg><seg type="rp">）</seg></seg>の不安が手を伸した。彼女はまた外に出てみた。それは日暮頃から四度目であった。彼女はまだ一度も舟の姿を認めなかったので。<lb />
+　空にはもう太陽の光りが全く消えてしまっていた。そして月が明るく輝いて、物の<seg type="ruby"><seg type="rb">象</seg><seg type="rp">（</seg><seg type="rt">かたち</seg><seg type="rp">）</seg></seg>の上に青白い匂いを置いた。湖水の上には夕靄が薄すらと靉いて、水の<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>が水銀のように光っていた。彼女はじっと月明りに<seg type="ruby"><seg type="rb">透</seg><seg type="rp">（</seg><seg type="rt">すか</seg><seg type="rp">）</seg></seg>し見た。<lb />
+　舟が夢の国のように水面に浮いて見えた。彼女は我知らず息を潜めて其処に立ち<seg type="ruby"><seg type="rb">竦</seg><seg type="rp">（</seg><seg type="rt">すく</seg><seg type="rp">）</seg></seg>んだ。<lb />
+　二人は向い合って褞袍を<seg type="ruby"><seg type="rb">被</seg><seg type="rp">（</seg><seg type="rt">はお</seg><seg type="rp">）</seg></seg>り乍ら舟の中に坐っている。男は両手を緊と握り合せて胸の処に組んだまま首を垂れている。女は両手を重ねてそっと胸を押えたまま同じく首を垂れている。――祈っているのだ！　そのまま石になりそうに思われるほど彼等はじっとしている。凡てのものが息を潜めている。時が音を立てないで静に過ぎ去る。……やがて女はそっとハンカチを自分の顔に当てた。それからまた男の眼と頬から涙を拭ってじっとその顔を<seg type="ruby"><seg type="rb">覗</seg><seg type="rp">（</seg><seg type="rt">のぞ</seg><seg type="rp">）</seg></seg>いた。その時男は組み合せた両手を解いて柔く女の頸を抱いた……男は立ち上って櫂を手にした。女は空を<seg type="ruby"><seg type="rb">恍惚</seg><seg type="rp">（</seg><seg type="rt">うっとり</seg><seg type="rp">）</seg></seg>と見上げている――<lb />
+　彼女は急いで家の中に入った。呼吸が喘いでいる。見てならぬものを見たという悔いよりも、神聖なるものを涜したというような恐れが胸に湧いた。お<seg type="ruby"><seg type="rb">社</seg><seg type="rp">（</seg><seg type="rt">やしろ</seg><seg type="rp">）</seg></seg>の御龕をそっと覗いたような心地がした。其処に深い処から何かがちらと光った。じっとしていられないような気がした。<lb />
 　彼女は囲炉裡に火を焚いた。それから火鉢に湯を沸した。どうかしなくてはならないとわけもなく思った。<lb />
 　渚に舟の音がした時彼女は急いで其処へ立ち出でた。<lb />
 「遅くなってすみません。」と男が云った。<lb />
 「お帰りなさい。」と何気なく彼女は云った。<lb />
 　二人を家の中へ導いて後、彼女は舟から一切のものを運んだ。そして舟を其処に繋いだ。<lb />
-　彼女は暫く外に立っていた。何か大きいものが彼女の上に<span type="ruby"><span type="rb">被</span><span type="rp">（</span><span type="rt">かぶ</span><span type="rp">）</span></span>さった。そしてわけもなく騒ぐ心が強く二人の方へ引き寄せられた。で何をともなく神を念じながら急いで家へ入った。<lb />
-　二人は囲炉裡の側に腰を掛けていた。それに茶をくんで出し乍ら彼女はこう云った。「お<span type="ruby"><span type="rb">腹</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>がおすきでしょうねえ。」<lb />
-「いいえ。」と女が答えた。「舟の中で沢山<span type="ruby"><span type="rb">種々</span><span type="rp">（</span><span type="rt">いろん</span><span type="rp">）</span></span>なものを<span type="ruby"><span type="rb">食</span><span type="rp">（</span><span type="rt">いただ</span><span type="rp">）</span></span>きましたから。」<lb />
+　彼女は暫く外に立っていた。何か大きいものが彼女の上に<seg type="ruby"><seg type="rb">被</seg><seg type="rp">（</seg><seg type="rt">かぶ</seg><seg type="rp">）</seg></seg>さった。そしてわけもなく騒ぐ心が強く二人の方へ引き寄せられた。で何をともなく神を念じながら急いで家へ入った。<lb />
+　二人は囲炉裡の側に腰を掛けていた。それに茶をくんで出し乍ら彼女はこう云った。「お<seg type="ruby"><seg type="rb">腹</seg><seg type="rp">（</seg><seg type="rt">なか</seg><seg type="rp">）</seg></seg>がおすきでしょうねえ。」<lb />
+「いいえ。」と女が答えた。「舟の中で沢山<seg type="ruby"><seg type="rb">種々</seg><seg type="rp">（</seg><seg type="rt">いろん</seg><seg type="rp">）</seg></seg>なものを<seg type="ruby"><seg type="rb">食</seg><seg type="rp">（</seg><seg type="rt">いただ</seg><seg type="rp">）</seg></seg>きましたから。」<lb />
 　彼女も其処へ腰を下した。二人を見ると、そのじっと一つ所に定めた眼付から、口元の筋肉の緊りから自分自分の心に思いを潜めていることを示していた。そして沈黙は彼女の心に興奮の刺戟を強くした。<lb />
 「よくお帰りになりました。」と彼女は云った。<lb />
 「え？」男が顔を上げて彼女を見た。その眼付にうち沈んだ影を湛えていたので彼女はこう云った。<lb />
@@ -190,7 +190,7 @@
 　その言葉は彼女の思いに恐ろしい形を与えた。「いえいえ、」と首を振った。「そんなことを仰言るものではありません。」<lb />
 「然し死ということを考えてみたことはありました。」<lb />
 「もうもうそんなこと仰言ってはいけません。」強い意志が青年の顔に閃いたので、彼女の心に罪深い恐れが満ちた。で祈るような句調で、「神様はお許しになりません。自殺は恐ろしい罪悪です。」<lb />
-「いいえ、」と青年は言葉を続けた。「私に死を禁じたのは神ではありませんでした。それは……。」と云って彼は<span type="ruby"><span type="rb">首垂</span><span type="rp">（</span><span type="rt">うなだ</span><span type="rp">）</span></span>れている女をじっと見た。「それは私達の愛でした。神様の目に罪と見える私達の愛でした。更に<span type="ruby"><span type="rb">祈祷</span><span type="rp">（</span><span type="rt">いのり</span><span type="rp">）</span></span>を捧げているうちに、何時のまにか死が逃げてしまったのです。私は死を否定して愛を――凡てを肯定する愛を受け容れました。そして……私は度々お祈りを致します。」<lb />
+「いいえ、」と青年は言葉を続けた。「私に死を禁じたのは神ではありませんでした。それは……。」と云って彼は<seg type="ruby"><seg type="rb">首垂</seg><seg type="rp">（</seg><seg type="rt">うなだ</seg><seg type="rp">）</seg></seg>れている女をじっと見た。「それは私達の愛でした。神様の目に罪と見える私達の愛でした。更に<seg type="ruby"><seg type="rb">祈祷</seg><seg type="rp">（</seg><seg type="rt">いのり</seg><seg type="rp">）</seg></seg>を捧げているうちに、何時のまにか死が逃げてしまったのです。私は死を否定して愛を――凡てを肯定する愛を受け容れました。そして……私は度々お祈りを致します。」<lb />
 　彼女の心にその時深い処から法悦の光りがちらとさした。凡てが許されて救われるであろう。自然と心が大きい何物かに融けていった。<lb />
 「私は、」と彼女は云った。「あなた方が湖水の上でお祈りなさるのを見受けました。あなた方は手を組んで祈っていられました。そして涙を流して。丁度月が輝いていましたので……。」<lb />
 「嘘です！」と青年は急に声を立てた。「私はまだ自分の心より外に祈祷を捧げたものはありません。私が祈る時、私は甞て両手を何物かに差出したことがあるでしょうか？　私は……私は何時も自分の胸に、自分の心に向けて手を合せたばかりです。」<lb />
@@ -198,14 +198,14 @@
 「嘘ではありません！……然し罪悪でもいい。私は凡てを肯定したい。罪でも、涙でも。苦しみに悲しみも、……潔い悲痛な祈りの中には、凡てが力となります。」<lb />
 「あなたはまだすっかりを御存じない。まことの道は……ああ何と申したらいいか……深い処に……。」<lb />
 　彼女は強く両手を握り合せた。「深い処にまことの道があります。其処まであなたの祈りを進めなさるとよろしいのです……そして神をお認めになると……」<lb />
-「それは私の心もまだまだ深い底までとどいてはいないでしょう。」青年は力なく頭を垂れてこう云った。「もうこれが押しつめた底だと思っても、またその隠れた奥の方から何かの囁きがかすかに伝わることがあります。けれどすぐにその声は涙に曇ってしまいます。私はそれを決して惜しいとは思いません。……私達はあんまり深く愛を求めました。そしてあまりに多く涙を流しました。そしてあまり度々祈りました。丁度私達の恋が悲しい形を取った時、二人の上には死の<span type="ruby"><span type="rb">垂布</span><span type="rp">（</span><span type="rt">たれぎぬ</span><span type="rp">）</span></span>がふんわりと蔽いました。その時私達はその死を見つめないで、その垂布に包まれて泣いている愛をばかり見つめたのです。自然に悲しい愛の手が合されました。そして何時とはなしに死の垂布は涙の祈祷と代ってしまっていました。私達は一層深く愛しました。そして泣きました。そして祈りました。胸に手を合して二人の心を一つの愛に祈る時、その祈りの中には永遠の姿が――神の姿がはっきり見えて来ます。……けれど其処に、<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>をずっと押しつめた処に、また別な死があるような気がするのです。それは死と云っては当らないかも知れません。この身体が煙となって心ばかりが限りなく生きるといったような気持ちの神秘的な誘惑なのです。……私達の愛がこの上もっと深くなる時、私達は愛の祈りのうちに死ぬる――いや生きるでしょう。其処に私達の神が待っています。」<lb />
+「それは私の心もまだまだ深い底までとどいてはいないでしょう。」青年は力なく頭を垂れてこう云った。「もうこれが押しつめた底だと思っても、またその隠れた奥の方から何かの囁きがかすかに伝わることがあります。けれどすぐにその声は涙に曇ってしまいます。私はそれを決して惜しいとは思いません。……私達はあんまり深く愛を求めました。そしてあまりに多く涙を流しました。そしてあまり度々祈りました。丁度私達の恋が悲しい形を取った時、二人の上には死の<seg type="ruby"><seg type="rb">垂布</seg><seg type="rp">（</seg><seg type="rt">たれぎぬ</seg><seg type="rp">）</seg></seg>がふんわりと蔽いました。その時私達はその死を見つめないで、その垂布に包まれて泣いている愛をばかり見つめたのです。自然に悲しい愛の手が合されました。そして何時とはなしに死の垂布は涙の祈祷と代ってしまっていました。私達は一層深く愛しました。そして泣きました。そして祈りました。胸に手を合して二人の心を一つの愛に祈る時、その祈りの中には永遠の姿が――神の姿がはっきり見えて来ます。……けれど其処に、<seg type="ruby"><seg type="rb">生命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>をずっと押しつめた処に、また別な死があるような気がするのです。それは死と云っては当らないかも知れません。この身体が煙となって心ばかりが限りなく生きるといったような気持ちの神秘的な誘惑なのです。……私達の愛がこの上もっと深くなる時、私達は愛の祈りのうちに死ぬる――いや生きるでしょう。其処に私達の神が待っています。」<lb />
 　彼は斯う云い終って、祈祷のうちに両手で胸を押え乍らじっと眼を閉じた。<lb />
 　彼女は胸に一杯になっていた種々の思いが皆スーッと何処かへ飛び去ったような心地がした。そしてその後に神秘な興奮が残った。「あなた方は……と云って。」言葉がと切れた。そして傍の女を見ると――女は眼に一杯ためていた涙をほろりと膝の上に落した。<lb />
 　彼女はそっと女の背に手をかけた。そして云った。<lb />
 「あまり御心配なさらないがよろしゅうございます。」<lb />
 「いいえ。」と女は頭を振った。「何にも心配なぞ致しませんけれど……。」そしてずっと彼女の手を握って云った。「私は信じています。」<lb />
 　信ずるという意味が彼女の心にはっきりと映った。で女の手を両方の掌にはさんで、いたわるような心をこめて緊と握り返した。<lb />
-「ああ私の胸に……。」と云って男はじっと燈火を見つめた。静かな夜のうちに燈火は赤い光りを震えつつ<span type="ruby"><span type="rb">咽</span><span type="rp">（</span><span type="rt">むせ</span><span type="rp">）</span></span>んでいる。「私の胸に永遠の囁きとでも云ったようなものが響いて来ます。彼方の世界から来るかすかな<span type="ruby"><span type="rb">戦慄</span><span type="rp">（</span><span type="rt">おののき</span><span type="rp">）</span></span>が、青空の深い懐と大洋の遠い水平線とが交っているような震えが……。そして私の胸は一杯に満ち充ちて裂けそうになります、祈りで。何を祈るのでもありません。また何に向って祈るのでも……もう自分の心に祈るのでもありません。その時私には、二つの心の生きた愛ばかりがはっきりと見えています。そして涙のうちに永遠の生と死とが一つになって、私というものを遠い遠い処へ運んでゆきます。一瞬間のうちに限りない<span type="ruby"><span type="rb">歳月</span><span type="rp">（</span><span type="rt">としつき</span><span type="rp">）</span></span>を押しつめたようで、私はその重荷の下にふらふらと昏倒しそうになります。」<lb />
+「ああ私の胸に……。」と云って男はじっと燈火を見つめた。静かな夜のうちに燈火は赤い光りを震えつつ<seg type="ruby"><seg type="rb">咽</seg><seg type="rp">（</seg><seg type="rt">むせ</seg><seg type="rp">）</seg></seg>んでいる。「私の胸に永遠の囁きとでも云ったようなものが響いて来ます。彼方の世界から来るかすかな<seg type="ruby"><seg type="rb">戦慄</seg><seg type="rp">（</seg><seg type="rt">おののき</seg><seg type="rp">）</seg></seg>が、青空の深い懐と大洋の遠い水平線とが交っているような震えが……。そして私の胸は一杯に満ち充ちて裂けそうになります、祈りで。何を祈るのでもありません。また何に向って祈るのでも……もう自分の心に祈るのでもありません。その時私には、二つの心の生きた愛ばかりがはっきりと見えています。そして涙のうちに永遠の生と死とが一つになって、私というものを遠い遠い処へ運んでゆきます。一瞬間のうちに限りない<seg type="ruby"><seg type="rb">歳月</seg><seg type="rp">（</seg><seg type="rt">としつき</seg><seg type="rp">）</seg></seg>を押しつめたようで、私はその重荷の下にふらふらと昏倒しそうになります。」<lb />
 　彼はじっと仄暗い片隅を見つめたまま、胸を震わせて逼った呼吸を刻んでいる。<lb />
 　その時彼女の掌の中で女の手がかすかに痙攣した。で囁くような調子で云った。<lb />
 「屹度幸福があなた方を待っているでしょう。」<lb />
@@ -214,31 +214,31 @@
 「あなた方は何か……何かを忘れていらっしゃる。あんまり一つのものを見つめているとよくありません。」<lb />
 「心より外のことを一切忘れるのは私の勝利です。」青年はこう答えた。その時彼の眼は淋しく光った。<lb />
 　沈黙が続いた。囲炉裡の炭火が淋しくなっていた。家の中に夜が渦を巻いている、そして何かがじっと思いを潜めている。ランプの光りが折々風もないのにゆらりと動いた。<lb />
-「許して下さい。」と突然男が云った。「随分いろんなことをお<span type="ruby"><span type="rb">饒舌</span><span type="rp">（</span><span type="rt">しゃべり</span><span type="rp">）</span></span>しまして。」<lb />
+「許して下さい。」と突然男が云った。「随分いろんなことをお<seg type="ruby"><seg type="rb">饒舌</seg><seg type="rp">（</seg><seg type="rt">しゃべり</seg><seg type="rp">）</seg></seg>しまして。」<lb />
 「いいえ私こそ。」と彼女は顔を上げた。その間彼女は自らも知らない深い思いの底に沈んでいた。<lb />
-　<span type="ruby"><span type="rb">男女</span><span type="rp">（</span><span type="rt">ふたり</span><span type="rp">）</span></span>はじっと顔を見合せた。そして男が云った。<lb />
-「私達はもうこれでお<span type="ruby"><span type="rb">隙</span><span type="rp">（</span><span type="rt">いとま</span><span type="rp">）</span></span>致します。」<lb />
+　<seg type="ruby"><seg type="rb">男女</seg><seg type="rp">（</seg><seg type="rt">ふたり</seg><seg type="rp">）</seg></seg>はじっと顔を見合せた。そして男が云った。<lb />
+「私達はもうこれでお<seg type="ruby"><seg type="rb">隙</seg><seg type="rp">（</seg><seg type="rt">いとま</seg><seg type="rp">）</seg></seg>致します。」<lb />
 「あの今に……、」と云って彼女は立ち上った二人を驚いて眺めた。「女中が帰って来ましたらお送り致させましょう。」<lb />
 「いえすぐ其処ですから。」<lb />
-　外には月が煌々と輝いていた。二人に<span type="ruby"><span type="rb">蹤</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いて外まで出た彼女の心は、興奮したまま朗かに澄み切った。<lb />
-　凡ては<span type="ruby"><span type="rb">潔</span><span type="rp">（</span><span type="rt">きよ</span><span type="rp">）</span></span>い静寂のうちに在った。月の光りは水銀のように重たい湖水の面に煙って薄すらとした靄に匂った。そして森や野や遠くの山まで一面に青白い素絹を投げた。それらの上に高く紫紺の空が拡がる。ところどころ星を鏤めた大空の中心に、銀色に輝く月が懸っている。<lb />
-　其処に佇んだ彼女の心には云い知れぬ<span type="ruby"><span type="rb">杳</span><span type="rp">（</span><span type="rt">はるか</span><span type="rp">）</span></span>な思いが宿った。少しく離れて前に立っている二人を見ると幼い人達が誓の時になすように、小指と小指とを緊と握り合せている。渚には乗り捨てられた小舟が淋しく繋がれていた。<lb />
+　外には月が煌々と輝いていた。二人に<seg type="ruby"><seg type="rb">蹤</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いて外まで出た彼女の心は、興奮したまま朗かに澄み切った。<lb />
+　凡ては<seg type="ruby"><seg type="rb">潔</seg><seg type="rp">（</seg><seg type="rt">きよ</seg><seg type="rp">）</seg></seg>い静寂のうちに在った。月の光りは水銀のように重たい湖水の面に煙って薄すらとした靄に匂った。そして森や野や遠くの山まで一面に青白い素絹を投げた。それらの上に高く紫紺の空が拡がる。ところどころ星を鏤めた大空の中心に、銀色に輝く月が懸っている。<lb />
+　其処に佇んだ彼女の心には云い知れぬ<seg type="ruby"><seg type="rb">杳</seg><seg type="rp">（</seg><seg type="rt">はるか</seg><seg type="rp">）</seg></seg>な思いが宿った。少しく離れて前に立っている二人を見ると幼い人達が誓の時になすように、小指と小指とを緊と握り合せている。渚には乗り捨てられた小舟が淋しく繋がれていた。<lb />
 「ほんとに種々なことを申しましたけれど、」と青年が彼女の方へ向いて云った。「どうかお気になさらないように。」<lb />
 「いいえそれは私の方から申すことです。」<lb />
 「実は明日私達は帰る筈です。汽車の都合で朝早いものですから、或はこれでまたお目にかかれないかも知れません。」<lb />
 　彼女の心に冷たいものが入った。それでじっと青年の淋しい顔を眺めた。<lb />
 「私達はまた屹度いつか此処へ来ることがあると思いますの。」と女が云った。<lb />
 「ええどうぞまた。……お待ちして居ります。」<lb />
-　彼女の心は俄にどうにも出来ないような何物かに押えつけられた。そして切ない<span type="ruby"><span type="rb">儚</span><span type="rp">（</span><span type="rt">はかな</span><span type="rp">）</span></span>さのうちに、初めて青年を見た日からのことをそれぞれに思い浮べた。<lb />
+　彼女の心は俄にどうにも出来ないような何物かに押えつけられた。そして切ない<seg type="ruby"><seg type="rb">儚</seg><seg type="rp">（</seg><seg type="rt">はかな</seg><seg type="rp">）</seg></seg>さのうちに、初めて青年を見た日からのことをそれぞれに思い浮べた。<lb />
 「それではこれで……。」と云って青年はちらと眉を動かした。そして黙って頭を下げた。<lb />
 「私は何時までもこの湖水を守っていますから……またどうか……。」<lb />
 　女は一寸歩み出した足を止めてじっと彼女の顔を見たが、そのまま眼を地面に落した。そして低い声で、「さようなら。」<lb />
 「さようなら。」<lb />
 　二人が去ったあと、彼女は其処に暫く立っていた。もう凡てが終ったと思った。清らかな月の光りと静かな湖水とは彼女の心を孤独にした。<lb />
-　月光に交って一面に銀の粉が降り来るような静けさを彼女は感じた。空から地に神秘が流るるを。そして自然に熱い涙が眼に湧いてきた。其処に未来の淋しい旅が映っていた。然しその淋しさは彼女の心に泣きたいような感謝の念を一杯に満した。で大空の<span type="ruby"><span type="rb">下</span><span type="rp">（</span><span type="rt">もと</span><span type="rp">）</span></span>静に神を念じて両手を組んだまま其処に跪いた。<lb />
+　月光に交って一面に銀の粉が降り来るような静けさを彼女は感じた。空から地に神秘が流るるを。そして自然に熱い涙が眼に湧いてきた。其処に未来の淋しい旅が映っていた。然しその淋しさは彼女の心に泣きたいような感謝の念を一杯に満した。で大空の<seg type="ruby"><seg type="rb">下</seg><seg type="rp">（</seg><seg type="rt">もと</seg><seg type="rp">）</seg></seg>静に神を念じて両手を組んだまま其処に跪いた。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,14 +9,14 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2008-12-07">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　7<span rend="notes">［＃「7」はローマ数字、1-13-27］</span>」三一書房
+底本：「久生十蘭全集　7<seg rend="notes" rendition="span">［＃「7」はローマ数字、1-13-27］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年5月31日第1版第1刷発行<lb />
 　　　1978（昭和53）年1月31日第1版第3刷発行<lb />
 初出：「新青年」博文館<lb />
 　　　1939（昭和14）年3月号<lb />
 ※初出時の副題は、「葦と木笛」です。<lb />
-※底本では副題に、「蘆と<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>」とルビがついています。<lb />
+※底本では副題に、「蘆と<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>」とルビがついています。<lb />
 ※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
 入力：tatsuki<lb />
 校正：門田裕志、小林繁雄<lb />
@@ -38,61 +38,61 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 　　　　　一<lb />
 　風がまだ冷たいが、もう、すっかり春の気候で、湖水は青い空をうつして、ゆったりとくつろいでいる。<lb />
-　キャラコさんは、むずかしい顔をして、遊覧船の<span type="ruby"><span type="rb">桟橋</span><span type="rp">（</span><span type="rt">さんばし</span><span type="rp">）</span></span>で、釣りをするのを眺めている。すこしばかり機嫌が悪いのである。<lb />
-　キャラコさんは、半月ほど前から、<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>の湖の近くの小さな温泉宿で、何ともつかぬとりとめのない日を送っている。本を読むか、日記をつけるか、散歩をするか、この三つのほかにすることがない。佐伯氏と話すことのほかは、なにもかもすっかり飽き飽きしてしまった。<lb />
+　キャラコさんは、むずかしい顔をして、遊覧船の<seg type="ruby"><seg type="rb">桟橋</seg><seg type="rp">（</seg><seg type="rt">さんばし</seg><seg type="rp">）</seg></seg>で、釣りをするのを眺めている。すこしばかり機嫌が悪いのである。<lb />
+　キャラコさんは、半月ほど前から、<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>の湖の近くの小さな温泉宿で、何ともつかぬとりとめのない日を送っている。本を読むか、日記をつけるか、散歩をするか、この三つのほかにすることがない。佐伯氏と話すことのほかは、なにもかもすっかり飽き飽きしてしまった。<lb />
 　キャラコさんは、早く家へ帰って家事の手伝いをしたり、ピアノのおさらいをしたり、今までどおりキチンとした生活をしたいのだが、千万長者の相続人になったばかりに、窮屈な思いをしてこんなところに隠れていなくてはならない。本当の名を名乗ることさえできないのである。<lb />
-　こんな淋しい山奥に年ごろの娘がたったひとりでのっそりしているのは、ずいぶん奇妙に見えるにちがいない。キャラコさんは<span type="ruby"><span type="rb">女々</span><span type="rp">（</span><span type="rt">めめ</span><span type="rp">）</span></span>しいことはきらいだから、宿のひとたちにもいいわけがましいことはひと言もいわないが、かなり肩身の狭い思いをして暮らしている。<lb />
+　こんな淋しい山奥に年ごろの娘がたったひとりでのっそりしているのは、ずいぶん奇妙に見えるにちがいない。キャラコさんは<seg type="ruby"><seg type="rb">女々</seg><seg type="rp">（</seg><seg type="rt">めめ</seg><seg type="rp">）</seg></seg>しいことはきらいだから、宿のひとたちにもいいわけがましいことはひと言もいわないが、かなり肩身の狭い思いをして暮らしている。<lb />
 　キャラコさんに、父の長六閣下から、手紙で、当分のあいだ、家へ帰ることはまかりならぬと申し渡された。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em">
 ……当分本名を名乗ることはならぬ。名前をいう必要がある時はキャラコとだけいいなさい。それから、当分の間、いっさい新聞雑誌を読んではならぬ。友人のところへ手紙を出してはならぬ。右、命令す。<lb />
-</span>
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">父</span>
+</seg>
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">父</seg>
 <lb />
-　ならぬ、ならぬ、ならぬ、――長六閣下の<span type="ruby"><span type="rb">濶達</span><span type="rp">（</span><span type="rt">かったつ</span><span type="rp">）</span></span>な文字は、ひとつひとつ八<span type="ruby"><span type="rb">字髯</span><span type="rp">（</span><span type="rt">じひげ</span><span type="rp">）</span></span>をはやし、キッと口を結んでキャラコさんをにらみつけていた。<lb />
+　ならぬ、ならぬ、ならぬ、――長六閣下の<seg type="ruby"><seg type="rb">濶達</seg><seg type="rp">（</seg><seg type="rt">かったつ</seg><seg type="rp">）</seg></seg>な文字は、ひとつひとつ八<seg type="ruby"><seg type="rb">字髯</seg><seg type="rp">（</seg><seg type="rt">じひげ</seg><seg type="rp">）</seg></seg>をはやし、キッと口を結んでキャラコさんをにらみつけていた。<lb />
 　青天のへきれきである。どういう理由でこんな眼に逢わなければならないのか、いくら考えても思いあたることはなかった。<lb />
 　二三日たってから、キャラコさんが当惑しているだろうと察して、秋作氏がくわしい便りをよこしてくれた。<lb />
 　キャラコさんは何も知らなかったが、そのころ、東京ではたいへんな騒ぎがもちあがっていたのである。キャラコさんの居どころをつきとめようとして、東京中の新聞社の自動車が社旗をヒラヒラさせながら狂気のように走り廻っていた。<lb />
-　ひところは、世界の<span type="ruby"><span type="rb">謎</span><span type="rp">（</span><span type="rt">なぞ</span><span type="rp">）</span></span>とまでいわれた失踪の千万長者、<span type="ruby"><span type="rb">山本譲治</span><span type="rp">（</span><span type="rt">ジョージ・ヤマモト</span><span type="rp">）</span></span>がとつぜん日本に現われ、今年十九歳になる一少女を千二百万<span type="ruby"><span type="rb">弗</span><span type="rp">（</span><span type="rt">ドル</span><span type="rp">）</span></span>（四千万円）の財産相続人に選んだ。……世界的なビッグ・ニュースである。<lb />
-　どんなことがあっても『キャラコさん』をつかまえて、ひと言でもいいからしゃべらせろ。捕まえたらかまわないから、<span type="ruby"><span type="rb">脛</span><span type="rp">（</span><span type="rt">すね</span><span type="rp">）</span></span>でもたたき折って動けないようにしてしまえ。……畜生、それにしても、写真ぐらいありそうなもんだ。<lb />
-　まるで、殺人犯人でも追いつめるようないきおいで狂奔したが、キャラコさんはおろか、写真さえ手に入らない。長六閣下の機敏な統制と<span type="ruby"><span type="rb">緘黙</span><span type="rp">（</span><span type="rt">かんもく</span><span type="rp">）</span></span>にかかっては、さすがの新聞記者たちも手も足も出なかった。<lb />
-　キャラコさんは、ここへ来る途中、小田原の駅でこの<span type="ruby"><span type="rb">獰猛</span><span type="rp">（</span><span type="rt">どうもう</span><span type="rp">）</span></span>な追撃隊の一行に出っくわしている。キャラコさんが改札口を出ようとすると、三枚橋のほうから新聞記者と写真班を乗せた自動車が五六台走り込んで来て、ワイワイいいながら改札口へ殺到して来た。<lb />
+　ひところは、世界の<seg type="ruby"><seg type="rb">謎</seg><seg type="rp">（</seg><seg type="rt">なぞ</seg><seg type="rp">）</seg></seg>とまでいわれた失踪の千万長者、<seg type="ruby"><seg type="rb">山本譲治</seg><seg type="rp">（</seg><seg type="rt">ジョージ・ヤマモト</seg><seg type="rp">）</seg></seg>がとつぜん日本に現われ、今年十九歳になる一少女を千二百万<seg type="ruby"><seg type="rb">弗</seg><seg type="rp">（</seg><seg type="rt">ドル</seg><seg type="rp">）</seg></seg>（四千万円）の財産相続人に選んだ。……世界的なビッグ・ニュースである。<lb />
+　どんなことがあっても『キャラコさん』をつかまえて、ひと言でもいいからしゃべらせろ。捕まえたらかまわないから、<seg type="ruby"><seg type="rb">脛</seg><seg type="rp">（</seg><seg type="rt">すね</seg><seg type="rp">）</seg></seg>でもたたき折って動けないようにしてしまえ。……畜生、それにしても、写真ぐらいありそうなもんだ。<lb />
+　まるで、殺人犯人でも追いつめるようないきおいで狂奔したが、キャラコさんはおろか、写真さえ手に入らない。長六閣下の機敏な統制と<seg type="ruby"><seg type="rb">緘黙</seg><seg type="rp">（</seg><seg type="rt">かんもく</seg><seg type="rp">）</seg></seg>にかかっては、さすがの新聞記者たちも手も足も出なかった。<lb />
+　キャラコさんは、ここへ来る途中、小田原の駅でこの<seg type="ruby"><seg type="rb">獰猛</seg><seg type="rp">（</seg><seg type="rt">どうもう</seg><seg type="rp">）</seg></seg>な追撃隊の一行に出っくわしている。キャラコさんが改札口を出ようとすると、三枚橋のほうから新聞記者と写真班を乗せた自動車が五六台走り込んで来て、ワイワイいいながら改札口へ殺到して来た。<lb />
 　キャラコさんは、何が起きたのだろうと思って、ちょっと足をとめて眺めてから、そのそばを通って電車の停留所のほうへ歩いて行った。<lb />
-　<span type="ruby"><span type="rb">襟</span><span type="rp">（</span><span type="rt">えり</span><span type="rp">）</span></span>のつまった紺サアジの服を着た、みすぼらしいほどのこの娘が、じぶんたちがいま<span type="ruby"><span type="rb">血眼</span><span type="rp">（</span><span type="rt">ちまなこ</span><span type="rp">）</span></span>になって探している千万長者の相続人だとは、気のつくものはひとりもなかった。<lb />
+　<seg type="ruby"><seg type="rb">襟</seg><seg type="rp">（</seg><seg type="rt">えり</seg><seg type="rp">）</seg></seg>のつまった紺サアジの服を着た、みすぼらしいほどのこの娘が、じぶんたちがいま<seg type="ruby"><seg type="rb">血眼</seg><seg type="rp">（</seg><seg type="rt">ちまなこ</seg><seg type="rp">）</seg></seg>になって探している千万長者の相続人だとは、気のつくものはひとりもなかった。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em">
 ……お前は競馬馬ではないのだから、下劣な関心の対象にするわけにはゆかない、という長六閣下の意見には、俺も賛成である。そんなわけだから、当分お前はお前でないことにして置きなさい。<lb />
 　長六閣下は、あの四千万円を、日本のためになるようにお前に使わせたいといっている。最も意義あるようにあの金を使うために、すこし世間を見て置くのもいいだろう。旅行をするなり、働くなり、この機会を利用してできるだけいろいろ経験をつみなさい。閣下も希望している。<lb />
 　つまらぬ財産をもらったばかりに、こんなよけいな苦労をしなくてはならぬことは、さてさてお前もふびんなやつだ。<lb />
-</span>
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">秋作</span>
+</seg>
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">秋作</seg>
 <lb />
-　キャラコさんのほうは、財産を相続したことなどは、すっかり忘れていたといっても決して嘘にはならない。人形でももらうほどに気軽にもらってしまったが、それもなにか<span type="ruby"><span type="rb">他人</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>のことのようで、自分が使うのだなどとは、今日まで、ただの一度も考えたことはなかった。<lb />
+　キャラコさんのほうは、財産を相続したことなどは、すっかり忘れていたといっても決して嘘にはならない。人形でももらうほどに気軽にもらってしまったが、それもなにか<seg type="ruby"><seg type="rb">他人</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>のことのようで、自分が使うのだなどとは、今日まで、ただの一度も考えたことはなかった。<lb />
 　ところで、この手紙を読むと、四千万円という金が、とつぜん、ひどい重みで自分の肩にのしかかってくるような気がする。<lb />
 　あたしがあの四千万円を使う？　考えただけでも気が重くなる。なにしろ、キャラコさんは、いままで自分の手から二円以上の金を使ったことがないのに、それが、四千万円ということになると途方に暮れるほかはない。<lb />
 　キャラコさんは、思わずためいきをついた。<lb />
 「たいへんだわ、死ぬまで、金をつかうことに、あくせくしなければならないとすると……」<lb />
 　金をもつことは、不幸のはじまりだということの意味がわかるような気がする。じじつ、あんな遺産などをもらわなければ、こんなところで肩身を狭くしていることもいらないし、世間へ金の使いみちを探しに出かけることもいらない。そう思うと、キャラコさんは、なんだか山本氏がうらめしくなってきた。<lb />
-　キャラコさんは、いつまでたってもうごかない<span type="ruby"><span type="rb">浮木</span><span type="rp">（</span><span type="rt">うき</span><span type="rp">）</span></span>をながめながら、ぼんやりと考えしずんでいたが、ちいさなためいきをつくと、<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>を一本折り取って、それを鞭のように振りながら、<span type="ruby"><span type="rb">湖尻</span><span type="rp">（</span><span type="rt">こじり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">疏水</span><span type="rp">（</span><span type="rt">そすい</span><span type="rp">）</span></span>のほうへ歩き出した。……今日こそ佐伯氏に例の話を切りだしてみようと思いながら。<lb />
+　キャラコさんは、いつまでたってもうごかない<seg type="ruby"><seg type="rb">浮木</seg><seg type="rp">（</seg><seg type="rt">うき</seg><seg type="rp">）</seg></seg>をながめながら、ぼんやりと考えしずんでいたが、ちいさなためいきをつくと、<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>を一本折り取って、それを鞭のように振りながら、<seg type="ruby"><seg type="rb">湖尻</seg><seg type="rp">（</seg><seg type="rt">こじり</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">疏水</seg><seg type="rp">（</seg><seg type="rt">そすい</seg><seg type="rp">）</seg></seg>のほうへ歩き出した。……今日こそ佐伯氏に例の話を切りだしてみようと思いながら。<lb />
 <lb />
 　　　　　二<lb />
-　佐伯氏は<span type="ruby"><span type="rb">南京</span><span type="rp">（</span><span type="rt">ナンキン</span><span type="rp">）</span></span>の戦争で失明した名誉ある<span type="ruby"><span type="rb">傷痍</span><span type="rp">（</span><span type="rt">しょうい</span><span type="rp">）</span></span>軍人である。<lb />
-　傷痍軍人といっても、<span type="ruby"><span type="rb">衛戍</span><span type="rp">（</span><span type="rt">えいじゅ</span><span type="rp">）</span></span>病院にいるのではないから、あの白い病衣を着ているわけではない。背に帯のついたスマートな<span type="ruby"><span type="rb">大外套</span><span type="rp">（</span><span type="rt">ガーズ・コート</span><span type="rp">）</span></span>を着て、アッシュのステッキをついて歩いている。<lb />
-　<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>はいつもきれいに剃ってあるし、髪にはキチンと<span type="ruby"><span type="rb">櫛目</span><span type="rp">（</span><span type="rt">くしめ</span><span type="rp">）</span></span>がはいっている。散歩に出ると、野の花を<span type="ruby"><span type="rb">襟</span><span type="rp">（</span><span type="rt">えり</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb"><span change="gaiji" facs="../../../gaiji/2-13/2-13-28.png" rend="gaiji" rendition="img" source="※(「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28)" /></span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>したりして帰ってくる。どこにも軍人らしいいかついところがないので、キャラコさんは、この<span type="ruby"><span type="rb">優雅</span><span type="rp">（</span><span type="rt">エレガント</span><span type="rp">）</span></span>な盲目の青年が名誉ある傷痍兵士だとは、まるっきり気がつかなかった。<lb />
-　そういえば、なるほど顔色は陽にやけて黒く、歩きぶりにもどこか軍隊式なところが残っている。肩も腰も頑丈で、この肉体がどんな<span type="ruby"><span type="rb">刻苦</span><span type="rp">（</span><span type="rt">こっく</span><span type="rp">）</span></span>に耐えて来たか充分に察しられるが、全体の感じはどことなく弱々しく、挙動もたいへんに神経質だった。<lb />
+　佐伯氏は<seg type="ruby"><seg type="rb">南京</seg><seg type="rp">（</seg><seg type="rt">ナンキン</seg><seg type="rp">）</seg></seg>の戦争で失明した名誉ある<seg type="ruby"><seg type="rb">傷痍</seg><seg type="rp">（</seg><seg type="rt">しょうい</seg><seg type="rp">）</seg></seg>軍人である。<lb />
+　傷痍軍人といっても、<seg type="ruby"><seg type="rb">衛戍</seg><seg type="rp">（</seg><seg type="rt">えいじゅ</seg><seg type="rp">）</seg></seg>病院にいるのではないから、あの白い病衣を着ているわけではない。背に帯のついたスマートな<seg type="ruby"><seg type="rb">大外套</seg><seg type="rp">（</seg><seg type="rt">ガーズ・コート</seg><seg type="rp">）</seg></seg>を着て、アッシュのステッキをついて歩いている。<lb />
+　<seg type="ruby"><seg type="rb">顎</seg><seg type="rp">（</seg><seg type="rt">あご</seg><seg type="rp">）</seg></seg>はいつもきれいに剃ってあるし、髪にはキチンと<seg type="ruby"><seg type="rb">櫛目</seg><seg type="rp">（</seg><seg type="rt">くしめ</seg><seg type="rp">）</seg></seg>がはいっている。散歩に出ると、野の花を<seg type="ruby"><seg type="rb">襟</seg><seg type="rp">（</seg><seg type="rt">えり</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb"><seg change="gaiji" facs="../../../gaiji/2-13/2-13-28.png" rend="gaiji" rendition="img" source="※(「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28)" /></seg><seg type="rp">（</seg><seg type="rt">さ</seg><seg type="rp">）</seg></seg>したりして帰ってくる。どこにも軍人らしいいかついところがないので、キャラコさんは、この<seg type="ruby"><seg type="rb">優雅</seg><seg type="rp">（</seg><seg type="rt">エレガント</seg><seg type="rp">）</seg></seg>な盲目の青年が名誉ある傷痍兵士だとは、まるっきり気がつかなかった。<lb />
+　そういえば、なるほど顔色は陽にやけて黒く、歩きぶりにもどこか軍隊式なところが残っている。肩も腰も頑丈で、この肉体がどんな<seg type="ruby"><seg type="rb">刻苦</seg><seg type="rp">（</seg><seg type="rt">こっく</seg><seg type="rp">）</seg></seg>に耐えて来たか充分に察しられるが、全体の感じはどことなく弱々しく、挙動もたいへんに神経質だった。<lb />
 　黒い大きな眼鏡で顔が半分以上隠されているが、鼻も口もきりっとしまっていて、学者とでもいったような、奥深い、理智的な印象を与えるのに、声は低く細く、いつもふるえるような調子をおびていた。極めて理性的なものと、極めて感情的なものと、まるっきり矛盾した二つの性格がひとつの肉体の中におさまっているような感じだった。<lb />
-　佐伯氏の兄妹は五日ほど前の夕方ここへやってきた。宿のひとのはなしでは、佐伯氏はここへ点字の勉強に来たのだそうだった。まだ春が浅く、それにこんな淋しいところなので<span type="ruby"><span type="rb">湯治</span><span type="rp">（</span><span type="rt">とうじ</span><span type="rp">）</span></span>の客もすくなく、静かに勉強するにはうってつけの場所だった。<lb />
-　佐伯氏は、<span type="ruby"><span type="rb">茜</span><span type="rp">（</span><span type="rt">あかね</span><span type="rp">）</span></span>さんという、すごいような<span type="ruby"><span type="rb">端麗</span><span type="rp">（</span><span type="rt">たんれい</span><span type="rp">）</span></span>な顔をした妹さんと二人で<span type="ruby"><span type="rb">別棟</span><span type="rp">（</span><span type="rt">べつむね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">離屋</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>を借り切って、二階と<span type="ruby"><span type="rb">階下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>に別れて住んでいる。<lb />
-　どちらも静かなひとたちで、ときどき、佐伯氏に本を読んできかせるらしい茜さんの澄んだきれいな声がきこえるほか、一日じゅう、ひっそりとくらしていて、部屋の<span type="ruby"><span type="rb">障子</span><span type="rp">（</span><span type="rt">しょうじ</span><span type="rp">）</span></span>がひらかれることさえごくまれだった。<lb />
-　佐伯さんは、まいにち三時ごろになると散歩に出て、湖のそばでフリュートを吹く。まだ習いはじめだとみえ、とぎれとぎれで、なんとなく悲しげだった。茜さんのほうは、めったに部屋からも出て来ない。たまに廊下などですれ違うと、<span type="ruby"><span type="rb">軽</span><span type="rp">（</span><span type="rt">かる</span><span type="rp">）</span></span>く目礼して、眼を伏せて急ぎ足で行ってしまう。不幸の重荷を背負っているような<span type="ruby"><span type="rb">薄倖</span><span type="rp">（</span><span type="rt">はっこう</span><span type="rp">）</span></span>な感じのひとだった。<lb />
+　佐伯氏の兄妹は五日ほど前の夕方ここへやってきた。宿のひとのはなしでは、佐伯氏はここへ点字の勉強に来たのだそうだった。まだ春が浅く、それにこんな淋しいところなので<seg type="ruby"><seg type="rb">湯治</seg><seg type="rp">（</seg><seg type="rt">とうじ</seg><seg type="rp">）</seg></seg>の客もすくなく、静かに勉強するにはうってつけの場所だった。<lb />
+　佐伯氏は、<seg type="ruby"><seg type="rb">茜</seg><seg type="rp">（</seg><seg type="rt">あかね</seg><seg type="rp">）</seg></seg>さんという、すごいような<seg type="ruby"><seg type="rb">端麗</seg><seg type="rp">（</seg><seg type="rt">たんれい</seg><seg type="rp">）</seg></seg>な顔をした妹さんと二人で<seg type="ruby"><seg type="rb">別棟</seg><seg type="rp">（</seg><seg type="rt">べつむね</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">離屋</seg><seg type="rp">（</seg><seg type="rt">はなれ</seg><seg type="rp">）</seg></seg>を借り切って、二階と<seg type="ruby"><seg type="rb">階下</seg><seg type="rp">（</seg><seg type="rt">した</seg><seg type="rp">）</seg></seg>に別れて住んでいる。<lb />
+　どちらも静かなひとたちで、ときどき、佐伯氏に本を読んできかせるらしい茜さんの澄んだきれいな声がきこえるほか、一日じゅう、ひっそりとくらしていて、部屋の<seg type="ruby"><seg type="rb">障子</seg><seg type="rp">（</seg><seg type="rt">しょうじ</seg><seg type="rp">）</seg></seg>がひらかれることさえごくまれだった。<lb />
+　佐伯さんは、まいにち三時ごろになると散歩に出て、湖のそばでフリュートを吹く。まだ習いはじめだとみえ、とぎれとぎれで、なんとなく悲しげだった。茜さんのほうは、めったに部屋からも出て来ない。たまに廊下などですれ違うと、<seg type="ruby"><seg type="rb">軽</seg><seg type="rp">（</seg><seg type="rt">かる</seg><seg type="rp">）</seg></seg>く目礼して、眼を伏せて急ぎ足で行ってしまう。不幸の重荷を背負っているような<seg type="ruby"><seg type="rb">薄倖</seg><seg type="rp">（</seg><seg type="rt">はっこう</seg><seg type="rp">）</seg></seg>な感じのひとだった。<lb />
 　キャラコさんは、はじめての日、湖畔から宿のほうへ曲り込むわかれみちのところで佐伯氏に逢った。<lb />
-　佐伯氏は、道からそれた<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>の繁みの中へ踏み込んで、途方に暮れたようすで立っていた。<lb />
+　佐伯氏は、道からそれた<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>の繁みの中へ踏み込んで、途方に暮れたようすで立っていた。<lb />
 　キャラコさんは、すぐ、眼の悪いひとなのだと気がついて、佐伯氏をていねいに道まで連れ戻し、そのままそろそろと宿のほうへ手をひいて行こうとすると、佐伯氏は、とつぜん、邪険な仕方でキャラコさんの手をふり切って、毒々しい口調で叫んだ。<lb />
 「いいから、独りで歩かしてください。これから毎日散歩に来なくてはならないのだから、道に馴れておこうと思ってやって来たところなんです。おせっかいはごめんだ」<lb />
 　黒い眼鏡だけのような顔を、キャラコさんのほうへふり向けると、<lb />
@@ -101,9 +101,9 @@
 　すこし、ひどいいい方だったが、キャラコさんは気にもかけずに、<lb />
 「でも、ここはひどい石ころ道で、とても危ないのよ。……それに、陽もくれて来ましたし……」<lb />
 　佐伯氏は、ふん、と鼻を鳴らして、<lb />
-「陽も暮れて来たし……か。私にとってはどっちみち同じこってすよ、お嬢さん。はじめっからまっ暗なんだから。……まあ、放っておいてください。私は<span rend="SESAME_DOT" rendition="strong">めくら</span>だが、あまり<span rend="SESAME_DOT" rendition="strong">めくら</span>扱いにされるのは好きじゃないんです」<lb />
+「陽も暮れて来たし……か。私にとってはどっちみち同じこってすよ、お嬢さん。はじめっからまっ暗なんだから。……まあ、放っておいてください。私は<seg rend="SESAME_DOT" rendition="strong">めくら</seg>だが、あまり<seg rend="SESAME_DOT" rendition="strong">めくら</seg>扱いにされるのは好きじゃないんです」<lb />
 　キャラコさんは、すこし悲しくなってきた。しかし、自分があまりうるさくしたのがいけなかったのだと思いかえして、いわれた通りに佐伯氏の腕から手をのけた。<lb />
-　佐伯氏はステッキで道をさぐりながら、危なっかしい足つきで歩いてゆく。道がわからなくなると、<span type="ruby"><span type="rb">癇癪</span><span type="rp">（</span><span type="rt">かんしゃく</span><span type="rp">）</span></span>を起こしたようにどこでもかまわず踏み込んで行った。<lb />
+　佐伯氏はステッキで道をさぐりながら、危なっかしい足つきで歩いてゆく。道がわからなくなると、<seg type="ruby"><seg type="rb">癇癪</seg><seg type="rp">（</seg><seg type="rt">かんしゃく</seg><seg type="rp">）</seg></seg>を起こしたようにどこでもかまわず踏み込んで行った。<lb />
 　キャラコさんは心配でたまらないので、すこしあとからついて行くと、佐伯氏はキャラコさんのほうをふりかえって、<lb />
 「君はどこか別な道から帰れないの。うるさいから、ついてこないでくれたまえ」<lb />
 　と、イライラした声で、投げつけるように叫んだ。<lb />
@@ -112,20 +112,20 @@
 　と、素直にそう返事をして、しばらく立ちどまってから、ずっと離れて見え隠れに宿の入口まで送って行った。<lb />
 　宿へかえると、キャラコさんは、机に向って日記を書きはじめた。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em">
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em">
 　キャラコの失敗<lb />
 　私は不幸なひとを見ると、すぐ感動してしまう。<lb />
 きょう、私は夢中になりすぎて、不幸なひとをいら立たせた。<lb />
 他人の不幸に感情だけで同感するということ。――ことに、衝動的な親切などは何の意味もなさない。私は、私の薄っぺらな同情を佐伯氏に見ぬかれてしまった。<lb />
 それは、……<lb />
-</span>
+</seg>
 <lb />
 　ここで、急にペンが動かなくなった。<lb />
-　キャラコさんは、にがにがしい顔をして長い間ペン軸を<span type="ruby"><span type="rb">噛</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>んでいたが、とうとう、思い切ったように、そのあとに、こんな風に書き足した。<lb />
+　キャラコさんは、にがにがしい顔をして長い間ペン軸を<seg type="ruby"><seg type="rb">噛</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>んでいたが、とうとう、思い切ったように、そのあとに、こんな風に書き足した。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em">
-　つまり、私が、おっちょこちょいだから……。なってないわね。……よく覚えておきなさい。<span type="ruby"><span type="rb">他人</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>に同情するなどというのは、けっして<span type="ruby"><span type="rb">容易</span><span type="rp">（</span><span type="rt">たやす</span><span type="rp">）</span></span>いわざでないということを。いい加減な同情などは、これからつつしまなくては。<lb />
-</span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em">
+　つまり、私が、おっちょこちょいだから……。なってないわね。……よく覚えておきなさい。<seg type="ruby"><seg type="rb">他人</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>に同情するなどというのは、けっして<seg type="ruby"><seg type="rb">容易</seg><seg type="rp">（</seg><seg type="rt">たやす</seg><seg type="rp">）</seg></seg>いわざでないということを。いい加減な同情などは、これからつつしまなくては。<lb />
+</seg>
 <lb />
 　キャラコさんは、寝床へはいってから、いつまでも大きな眼をあいて天井をながめていた。<lb />
 　気持が沈んで、ひどくメランコリックになっている。なんだかもの足りない。あの不幸なひとにやさしくしてあげることができないというのは、なんというさびしいことだろう。<lb />
@@ -134,49 +134,49 @@
 　なんて、はかばかしくないんだろうと思って、キャラコさんのほうで、ジリジリしてくる。がっかりしたような声をだす。<lb />
 「とても、見てはいられないわ」<lb />
 　佐伯氏は、まだのそのそやっている。あまりひどい骨折りなので、すぐ疲れてしまうらしい。四、五歩あるいては立ちどまって汗をふく。それからまた元気を出してやりだす。<lb />
-　ところで、休んでいるうちに方角がわからなくなったとみえて、道を<span type="ruby"><span type="rb">斜</span><span type="rp">（</span><span type="rt">はす</span><span type="rp">）</span></span>に、大きな松の木の根が出ている<span type="ruby"><span type="rb">窪</span><span type="rp">（</span><span type="rt">くぼ</span><span type="rp">）</span></span>みのほうへどんどん歩いてゆく。危ない危ないと思っているうちに、案の定、穴ぼこの中へ右足を踏みこんでえらい勢いでひっくりかえる……。<lb />
-　キャラコさんの胸が<span type="ruby"><span type="rb">劇</span><span type="rp">（</span><span type="rt">はげ</span><span type="rp">）</span></span>しくおどる。思わず大きな声をだす。<lb />
+　ところで、休んでいるうちに方角がわからなくなったとみえて、道を<seg type="ruby"><seg type="rb">斜</seg><seg type="rp">（</seg><seg type="rt">はす</seg><seg type="rp">）</seg></seg>に、大きな松の木の根が出ている<seg type="ruby"><seg type="rb">窪</seg><seg type="rp">（</seg><seg type="rt">くぼ</seg><seg type="rp">）</seg></seg>みのほうへどんどん歩いてゆく。危ない危ないと思っているうちに、案の定、穴ぼこの中へ右足を踏みこんでえらい勢いでひっくりかえる……。<lb />
+　キャラコさんの胸が<seg type="ruby"><seg type="rb">劇</seg><seg type="rp">（</seg><seg type="rt">はげ</seg><seg type="rp">）</seg></seg>しくおどる。思わず大きな声をだす。<lb />
 「あら、危ない！　……ほうら、とうとう落っこっちゃった」<lb />
 　自分の声ではッと気がついて赤い顔をする。てれくさくなって、枕の上で頭をまわす。<lb />
 　キャラコさんの耳に、毒々しい佐伯氏の声がきこえる。<lb />
-（うるさいから、放っておいてくれたまえ！　<span rend="SESAME_DOT" rendition="strong">めくら</span>扱いにされるのはごめんだよ）<lb />
-　たしかに、ひどすぎるいい方だ。<span type="ruby"><span type="rb">辛辣</span><span type="rp">（</span><span type="rt">しんらつ</span><span type="rp">）</span></span>すぎる。ひねくれている。あまり礼儀しらずだ。<lb />
+（うるさいから、放っておいてくれたまえ！　<seg rend="SESAME_DOT" rendition="strong">めくら</seg>扱いにされるのはごめんだよ）<lb />
+　たしかに、ひどすぎるいい方だ。<seg type="ruby"><seg type="rb">辛辣</seg><seg type="rp">（</seg><seg type="rt">しんらつ</seg><seg type="rp">）</seg></seg>すぎる。ひねくれている。あまり礼儀しらずだ。<lb />
 　キャラコさんは、こんな事をかんがえながら、一方では、穴ぼこのなかからやさしく佐伯氏を助け起こしている。<lb />
 　どんなに腹を立てようと思っても、どうしても思うようにならない。<lb />
 　キャラコさんは、幻想を払いのけるために、えへん、と大きな咳払いをする。<lb />
 「こんなことじゃしようがないわ」<lb />
-　自分があまり<span type="ruby"><span type="rb">感傷的</span><span type="rp">（</span><span type="rt">センチメンタル</span><span type="rp">）</span></span>なのが不愉快になってきた。<lb />
+　自分があまり<seg type="ruby"><seg type="rb">感傷的</seg><seg type="rp">（</seg><seg type="rt">センチメンタル</seg><seg type="rp">）</seg></seg>なのが不愉快になってきた。<lb />
 「むやみにひとに同情しやすくて困るわね。だから、みなあたしのことを馬鹿だと思っている。もう、十九にもなったんだから、そろそろこんな性質にうち勝たなくては！」<lb />
-　キャラコさんは、額に<span type="ruby"><span type="rb">皺</span><span type="rp">（</span><span type="rt">しわ</span><span type="rp">）</span></span>をよせむずかしい顔をしながら、決心する。<lb />
+　キャラコさんは、額に<seg type="ruby"><seg type="rb">皺</seg><seg type="rp">（</seg><seg type="rt">しわ</seg><seg type="rp">）</seg></seg>をよせむずかしい顔をしながら、決心する。<lb />
 「ともかく、もっと強い意志を持つことだわ！　あんな意地の悪いひとなど放っておけばいい」<lb />
 　これで、ようやく安心する。枕を置き直して眼をつぶる。<lb />
 　間もなく眠くなってきた。<lb />
-　キャラコさんは、うつらうつらした<span type="ruby"><span type="rb">半睡</span><span type="rp">（</span><span type="rt">はんすい</span><span type="rp">）</span></span>の中で、あす早く起きて、佐伯氏が散歩する道の石ころをみな取りのけておこうとかんがえていた……。<lb />
+　キャラコさんは、うつらうつらした<seg type="ruby"><seg type="rb">半睡</seg><seg type="rp">（</seg><seg type="rt">はんすい</seg><seg type="rp">）</seg></seg>の中で、あす早く起きて、佐伯氏が散歩する道の石ころをみな取りのけておこうとかんがえていた……。<lb />
 <lb />
 　　　　　三<lb />
-　次の日の夕方、いつものように<span type="ruby"><span type="rb">疏水</span><span type="rp">（</span><span type="rt">そすい</span><span type="rp">）</span></span>のほうへ散歩に行くと、佐伯氏がそこの<span type="ruby"><span type="rb">枯蘆</span><span type="rp">（</span><span type="rt">かれあし</span><span type="rp">）</span></span>の間にあおのけに寝ころんでいた。<lb />
+　次の日の夕方、いつものように<seg type="ruby"><seg type="rb">疏水</seg><seg type="rp">（</seg><seg type="rt">そすい</seg><seg type="rp">）</seg></seg>のほうへ散歩に行くと、佐伯氏がそこの<seg type="ruby"><seg type="rb">枯蘆</seg><seg type="rp">（</seg><seg type="rt">かれあし</seg><seg type="rp">）</seg></seg>の間にあおのけに寝ころんでいた。<lb />
 　またうるさがらせてはいけないと思って、猫のように足音を忍ばせながら、そっといま来たほうへ帰りかけると、とつぜん、佐伯氏が声をかけた。<lb />
 「ああ、きのうのお嬢さんですね」<lb />
 　キャラコさんは、ギョッとして立ちどまった。<lb />
 「ええそうよ……。あたし、あちらへまいりますわ。お邪魔してはいけませんから……」<lb />
 　佐伯氏は、あわてたように身体を起こすと、<lb />
 「邪魔だなんて、……よかったら、……すこし、話して行ってください」<lb />
-　そういって、狭い<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>の間で、すこし身体をすさらした。<lb />
+　そういって、狭い<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>の間で、すこし身体をすさらした。<lb />
 　とげとげしたところはなく、今日はたいへん静かな口調だった。<lb />
 「でも、あなたひとりでいらっしゃるほうがお好きなんでしょう。気がつかないでこんなほうへやって来てしまって……。あたし、やはり、あちらへまいりますわ」<lb />
 　佐伯氏は、唇のはしに神経質な微笑をうかべながら、<lb />
 「そんなに気をつかってくださらなくとも結構ですよ。……でも、あたしのようなものとお話になるのがおいやなのなら……」<lb />
 　キャラコさんが、あわてだす。<lb />
 「あら、そんなことありませんわ。いやだなんて……。あたしは、ただ、お邪魔してはいけないと思っただけなの。……お差しつかえなかったらここへ坐ってよ」<lb />
-　へどもどしながらそばへ並んで坐ると、佐伯氏は<span type="ruby"><span type="rb">頬骨</span><span type="rp">（</span><span type="rt">ほおぼね</span><span type="rp">）</span></span>の上のところをすこしあからめながら、<lb />
+　へどもどしながらそばへ並んで坐ると、佐伯氏は<seg type="ruby"><seg type="rb">頬骨</seg><seg type="rp">（</seg><seg type="rt">ほおぼね</seg><seg type="rp">）</seg></seg>の上のところをすこしあからめながら、<lb />
 「きのうはずいぶん失礼なことを申しました。どうか、ゆるしてください。疲れてイライラしていたせいなんです。……おわかりになりますまいが、こんな不自由な身体で長い旅行をすると、思うようにゆかないことが多くて、ついいら立ってしまうのです」<lb />
 「どんなにかご不自由なことでしょうね、お察ししますわ」<lb />
 「有難う。……感のわるいところへ持ってきて、すこしわがままなもんだから、なんでもないことにすぐ腹を立ててしまうのです。結局、自分の損なんだけど……」<lb />
 「まだお馴れならないせいもあるでしょうし……」<lb />
-「そうですよ、なにしろ、俄か<span rend="SESAME_DOT" rendition="strong">めくら</span>でね」<lb />
+「そうですよ、なにしろ、俄か<seg rend="SESAME_DOT" rendition="strong">めくら</seg>でね」<lb />
 「そんな意味でいったのではありませんわ」<lb />
 「気になさらないでください。どうしてでしょうかね、つい、こんな口調になってしまうのです。……眼が見えなくなったという事実にたいしては、すこしも遺憾はないのですが、日常の直接なことにあまり不便が多すぎるので、じぶんで始末がつかなくなってしまうのです」<lb />
-　キャラコさんは、だまって佐伯氏の顔をながめていた。それにしても、あの<span type="ruby"><span type="rb">茜</span><span type="rp">（</span><span type="rt">あかね</span><span type="rp">）</span></span>さんというひとがなぜもっと佐伯氏をいたわってあげないのだろうと考えていた。散歩についてくることもなければ、廊下などで手をひいてやるところも見たことがない。いつも、ひとりで放っておく。いったいどうしたというのだろう。<span type="ruby"><span type="rb">盲目</span><span type="rp">（</span><span type="rt">めくら</span><span type="rp">）</span></span>の兄と一緒にいるところをひとに見られるのを<span type="ruby"><span type="rb">嫌</span><span type="rp">（</span><span type="rt">いや</span><span type="rp">）</span></span>がっているようにもみえる。もし、そうなら、すこしひどすぎるようだ。それも、戦争で失明されたのだというのに。<lb />
+　キャラコさんは、だまって佐伯氏の顔をながめていた。それにしても、あの<seg type="ruby"><seg type="rb">茜</seg><seg type="rp">（</seg><seg type="rt">あかね</seg><seg type="rp">）</seg></seg>さんというひとがなぜもっと佐伯氏をいたわってあげないのだろうと考えていた。散歩についてくることもなければ、廊下などで手をひいてやるところも見たことがない。いつも、ひとりで放っておく。いったいどうしたというのだろう。<seg type="ruby"><seg type="rb">盲目</seg><seg type="rp">（</seg><seg type="rt">めくら</seg><seg type="rp">）</seg></seg>の兄と一緒にいるところをひとに見られるのを<seg type="ruby"><seg type="rb">嫌</seg><seg type="rp">（</seg><seg type="rt">いや</seg><seg type="rp">）</seg></seg>がっているようにもみえる。もし、そうなら、すこしひどすぎるようだ。それも、戦争で失明されたのだというのに。<lb />
 　キャラコさんは、すこし腹が立ってきた。……しかし、なにか事情のあることか知れないし、自分が差し出るような性質のことではないので、そのことには触れなかった。<lb />
 　佐伯氏は、しばらく黙り込んでいたが、ふいにキャラコさんのほうへ顔を向けると、<lb />
 「それにしても、あなたは、いったい、どういう方なのですか、お嬢さん？……声のようすだとたぶん、十九ぐらい……」<lb />
@@ -199,9 +199,9 @@
 「いえ、ちゃんと知ってますよ。……私があんなひどいことをいったのに、それにもかかわらず、あなたは心配して、とうとう宿の入口まで送ってくださいましたね。……ほんとうに、有難かった。……言葉では、ちょっといい現わしきれないほどです」<lb />
 　キャラコさんが、やさしく抗議した。<lb />
 「あんなのが親切というのでしょうか。あなたをうるさがらせただけですわ。あたし、差し出がましいまねをしたばかりに、あんなにあなたをいら立たせてしまって申し訳ないと思っていましたの。あたし、出しゃばりで、ほんとうにいけないのよ」<lb />
-「親切だといっていけなければ、たいへんに心の深いお嬢さんだと申しあげましょう。……あなたは私の歩く道の石ころをみなとり<span type="ruby"><span type="rb">除</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>けてくださいましたね。ちゃんと知ってます」<lb />
+「親切だといっていけなければ、たいへんに心の深いお嬢さんだと申しあげましょう。……あなたは私の歩く道の石ころをみなとり<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>けてくださいましたね。ちゃんと知ってます」<lb />
 　キャラコさんは、閉口して黙り込んでしまった。<lb />
-「……それから、<span type="ruby"><span type="rb">二股</span><span type="rp">（</span><span type="rt">ふたまた</span><span type="rp">）</span></span>道のかどの木の枝に、石を入れた<span type="ruby"><span type="rb">空鑵</span><span type="rp">（</span><span type="rt">あきかん</span><span type="rp">）</span></span>をつるして、風が吹くとカラカラ鳴るようにして置いてくだすった」<lb />
+「……それから、<seg type="ruby"><seg type="rb">二股</seg><seg type="rp">（</seg><seg type="rt">ふたまた</seg><seg type="rp">）</seg></seg>道のかどの木の枝に、石を入れた<seg type="ruby"><seg type="rb">空鑵</seg><seg type="rp">（</seg><seg type="rt">あきかん</seg><seg type="rp">）</seg></seg>をつるして、風が吹くとカラカラ鳴るようにして置いてくだすった」<lb />
 「…………」<lb />
 「私は、その音をたよりに、迷わずに湖水のほうへ出てゆけるのです。帰るときも、またその通り、わき道へはいり込まずにすみます」<lb />
 　佐伯氏は、深い感動のこもった声で、<lb />
@@ -214,7 +214,7 @@
 「ありがとう、ありがとう。……このありふれた言葉を、私が、いま、どんな深い感情で叫んでいるか、とてもあなたにはおわかりにならないでしょう。……しかし、いつか、それがおわかりになる時が来たら、あなたが、なんの気なしにしてくだすった親切が、ひとりの男の人生に、どんなたいへんな影響をあたえたか、きっと了解なさるでしょう。……これだけ言ったのでは、なんのことだかおわかりになりますまいけど、あなたの親切のおかげで、いままで知らなかった新しい高い世界が、とつぜん私の前にひらかれたような気がしているのです。……ほんとうに、思いもかけなかった新しい世界が……」<lb />
 　そういうと、唇をふるわせながら、急に言葉をきってしまった。<lb />
 　佐伯氏は、戦場でいろいろ痛烈な経験をしたので、それで、なんでもないことに感じやすくなっているのに違いない。キャラコさんは、佐伯氏の感情を乱してはいけないと考えて、できるだけしずかにしていた。<lb />
-　しばらくすると、佐伯氏は<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>の中から<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>を取りあげて、ゆるやかに吹きはじめた。古い舞踏曲のようなもので、なんともいえない憂鬱な旋律だった。佐伯氏は、つまずいてはいくどもやり直しながら、<span type="ruby"><span type="rb">終</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>いまで吹きおえると、蘆の中へそっと<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>を置いた。<lb />
+　しばらくすると、佐伯氏は<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>の中から<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>を取りあげて、ゆるやかに吹きはじめた。古い舞踏曲のようなもので、なんともいえない憂鬱な旋律だった。佐伯氏は、つまずいてはいくどもやり直しながら、<seg type="ruby"><seg type="rb">終</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>いまで吹きおえると、蘆の中へそっと<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>を置いた。<lb />
 　キャラコさんが、たずねた。<lb />
 「なんだか悲しそうな曲ですね。それは、なんという名の曲？」<lb />
 　佐伯氏は、人がちがったような落ち着いたようすで、キャラコさんのほうへ向きかえりながら、<lb />
@@ -225,12 +225,12 @@
 「すこし、説明してみてください。……その前に、あなたをどうお呼びすればいいのでしょうね、お嬢さん」<lb />
 「キャラコ、と呼んでちょうだい」<lb />
 「キャラコ……。珍らしいお名前ですね。……では、こんどは顔のほうを……。あなたは、どんな眼をしていらっしゃるんですか」<lb />
-「眼は割に大きいほうよ。……でも、魅力があるという工合にはゆきませんわ。ただ、大きいというだけ。……<span type="ruby"><span type="rb">白熊</span><span type="rp">（</span><span type="rt">しろくま</span><span type="rp">）</span></span>の眼のようだというひともありますけど、それだって、すこしほめすぎているくらいよ。……でも、視力だけはたしかなの。なんでも、よく見えますわ。……あら、ごめんなさい」<lb />
+「眼は割に大きいほうよ。……でも、魅力があるという工合にはゆきませんわ。ただ、大きいというだけ。……<seg type="ruby"><seg type="rb">白熊</seg><seg type="rp">（</seg><seg type="rt">しろくま</seg><seg type="rp">）</seg></seg>の眼のようだというひともありますけど、それだって、すこしほめすぎているくらいよ。……でも、視力だけはたしかなの。なんでも、よく見えますわ。……あら、ごめんなさい」<lb />
 「いいえ、かまいませんとも。……それで、鼻はどんなふうですか」<lb />
-「鼻はそんなにひどくはありませんわ。段なんかつかないで、割とスラッとしていますの。ちょっと<span type="ruby"><span type="rb">希臘</span><span type="rp">（</span><span type="rt">ギリシャ</span><span type="rp">）</span></span>型といったふうなの。でも、そんなに高いほうではありませんわ。あまり美しく想像なさると損をなすってよ」<lb />
+「鼻はそんなにひどくはありませんわ。段なんかつかないで、割とスラッとしていますの。ちょっと<seg type="ruby"><seg type="rb">希臘</seg><seg type="rp">（</seg><seg type="rt">ギリシャ</seg><seg type="rp">）</seg></seg>型といったふうなの。でも、そんなに高いほうではありませんわ。あまり美しく想像なさると損をなすってよ」<lb />
 　佐伯氏は、想像を楽しむように、こころもち首をかしげながら、<lb />
 「すこしずつあなたの顔が見えるようになりましたよ、……もうすこしいって見てください。口はどんなふう？」<lb />
-「困ったわね。……口は、とても<span type="ruby"><span type="rb">駄作</span><span type="rp">（</span><span type="rt">ださく</span><span type="rp">）</span></span>なのよ。すこし大きすぎるってみながそういいますわ、それは、たしかなの。口を開いて笑うと、奥歯がいつも風邪をひきますの、たいへんな口でしょう。口の話は、これくらいにしておいてちょうだい。……お次はなんですか？」<lb />
+「困ったわね。……口は、とても<seg type="ruby"><seg type="rb">駄作</seg><seg type="rp">（</seg><seg type="rt">ださく</seg><seg type="rp">）</seg></seg>なのよ。すこし大きすぎるってみながそういいますわ、それは、たしかなの。口を開いて笑うと、奥歯がいつも風邪をひきますの、たいへんな口でしょう。口の話は、これくらいにしておいてちょうだい。……お次はなんですか？」<lb />
 「歯はどうです」<lb />
 「歯並びはいいほうよ」<lb />
 「髪は？」<lb />
@@ -239,92 +239,92 @@
 「つまり、パーマネントをかけないもんですから、髪が棒みたいにブラブラさがっていますの。でも、別に気にもしていませんわ。……どう？　あたしの顔、だいたいおわかりになって？」<lb />
 　佐伯氏が、楽しそうにうなずいた。<lb />
 「もう、はっきり眼に見えますよ。あなたがどんなやさしい顔をしていらっしゃるか！」<lb />
-　夕風が吹き出して、湖の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">赤紫色</span><span type="rp">（</span><span type="rt">モーヴ</span><span type="rp">）</span></span>に染った。<lb />
+　夕風が吹き出して、湖の<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>が<seg type="ruby"><seg type="rb">赤紫色</seg><seg type="rp">（</seg><seg type="rt">モーヴ</seg><seg type="rp">）</seg></seg>に染った。<lb />
 <lb />
-　こんなことがあってから、<span type="ruby"><span type="rb">疏水</span><span type="rp">（</span><span type="rt">そすい</span><span type="rp">）</span></span>へ行くと、佐伯氏がいつもそこでキャラコさんを待っているようになった。二人は湖の岸を遠くまで歩き廻り、くたびれると<span type="ruby"><span type="rb">肱</span><span type="rp">（</span><span type="rt">ひじ</span><span type="rp">）</span></span>をつき合わして草の上に坐った。キャラコさんは歌をうたったり、本を読んでやったりした。佐伯氏は戦場でたいへん勇敢な働きをしたひとだということだったが、自分では、いっさい戦争の話にふれなかった。キャラコさんには、それが奥ゆかしく思われた。あまり実感がはげしくて、かるがるしく口に出す気になれないのだろうと思って、戦争のことはなるたけたずねないようにした。<lb />
+　こんなことがあってから、<seg type="ruby"><seg type="rb">疏水</seg><seg type="rp">（</seg><seg type="rt">そすい</seg><seg type="rp">）</seg></seg>へ行くと、佐伯氏がいつもそこでキャラコさんを待っているようになった。二人は湖の岸を遠くまで歩き廻り、くたびれると<seg type="ruby"><seg type="rb">肱</seg><seg type="rp">（</seg><seg type="rt">ひじ</seg><seg type="rp">）</seg></seg>をつき合わして草の上に坐った。キャラコさんは歌をうたったり、本を読んでやったりした。佐伯氏は戦場でたいへん勇敢な働きをしたひとだということだったが、自分では、いっさい戦争の話にふれなかった。キャラコさんには、それが奥ゆかしく思われた。あまり実感がはげしくて、かるがるしく口に出す気になれないのだろうと思って、戦争のことはなるたけたずねないようにした。<lb />
 <lb />
 　　　　　四<lb />
-　キャラコさんは、たったひとつ佐伯氏にたずねたいことがある。佐伯氏の眼が本当に絶望なのかどうかということである。今までいく十<span type="ruby"><span type="rb">度</span><span type="rp">（</span><span type="rt">ど</span><span type="rp">）</span></span>、口さきまで出かかったか知れないが、そんなことにふれてはいけないのだと思って、しんぼうしていたのだった。しかし、今日はどうしても切り出してみようと決心した。<lb />
-　秋作氏の親友で、キャラコさんを本当の妹のようにかあいがってくれる<span type="ruby"><span type="rb">立上</span><span type="rp">（</span><span type="rt">たてがみ</span><span type="rp">）</span></span>氏という若い博士が、ついこのころ、ミュンヘンから帰って来た。<lb />
-　秋作氏は、立上のやつ、<span type="ruby"><span type="rb">独逸</span><span type="rp">（</span><span type="rt">ドイツ</span><span type="rp">）</span></span>から近代眼科学の<span type="ruby"><span type="rb">精髄</span><span type="rp">（</span><span type="rt">せいずい</span><span type="rp">）</span></span>をかっぱらって来やがったそうだ。と、<span type="ruby"><span type="rb">恐悦</span><span type="rp">（</span><span type="rt">きょうえつ</span><span type="rp">）</span></span>しながらキャラコさんに話してきかせた。もし、佐伯氏にその気があるなら、いちどぜひ立上氏に<span type="ruby"><span type="rb">診</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>させたいと思うのである。<lb />
-　キャラコさんが、<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>をわけて<span type="ruby"><span type="rb">疏水</span><span type="rp">（</span><span type="rt">そすい</span><span type="rp">）</span></span>のほうへおりてゆくと、いつものところに佐伯氏が待っていて、きょうは、たいへんおそかったと、いった。キャラコさんといっしょにいることだけが、このごろの楽しみになっているふうだった。<lb />
-　見ると、佐伯氏の<span type="ruby"><span type="rb">膝</span><span type="rp">（</span><span type="rt">ひざ</span><span type="rp">）</span></span>の上に英語の本が一冊のっている。キャラコさんが、おどろいて、たずねた。<lb />
+　キャラコさんは、たったひとつ佐伯氏にたずねたいことがある。佐伯氏の眼が本当に絶望なのかどうかということである。今までいく十<seg type="ruby"><seg type="rb">度</seg><seg type="rp">（</seg><seg type="rt">ど</seg><seg type="rp">）</seg></seg>、口さきまで出かかったか知れないが、そんなことにふれてはいけないのだと思って、しんぼうしていたのだった。しかし、今日はどうしても切り出してみようと決心した。<lb />
+　秋作氏の親友で、キャラコさんを本当の妹のようにかあいがってくれる<seg type="ruby"><seg type="rb">立上</seg><seg type="rp">（</seg><seg type="rt">たてがみ</seg><seg type="rp">）</seg></seg>氏という若い博士が、ついこのころ、ミュンヘンから帰って来た。<lb />
+　秋作氏は、立上のやつ、<seg type="ruby"><seg type="rb">独逸</seg><seg type="rp">（</seg><seg type="rt">ドイツ</seg><seg type="rp">）</seg></seg>から近代眼科学の<seg type="ruby"><seg type="rb">精髄</seg><seg type="rp">（</seg><seg type="rt">せいずい</seg><seg type="rp">）</seg></seg>をかっぱらって来やがったそうだ。と、<seg type="ruby"><seg type="rb">恐悦</seg><seg type="rp">（</seg><seg type="rt">きょうえつ</seg><seg type="rp">）</seg></seg>しながらキャラコさんに話してきかせた。もし、佐伯氏にその気があるなら、いちどぜひ立上氏に<seg type="ruby"><seg type="rb">診</seg><seg type="rp">（</seg><seg type="rt">み</seg><seg type="rp">）</seg></seg>させたいと思うのである。<lb />
+　キャラコさんが、<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>をわけて<seg type="ruby"><seg type="rb">疏水</seg><seg type="rp">（</seg><seg type="rt">そすい</seg><seg type="rp">）</seg></seg>のほうへおりてゆくと、いつものところに佐伯氏が待っていて、きょうは、たいへんおそかったと、いった。キャラコさんといっしょにいることだけが、このごろの楽しみになっているふうだった。<lb />
+　見ると、佐伯氏の<seg type="ruby"><seg type="rb">膝</seg><seg type="rp">（</seg><seg type="rt">ひざ</seg><seg type="rp">）</seg></seg>の上に英語の本が一冊のっている。キャラコさんが、おどろいて、たずねた。<lb />
 「あなた、本がお読みになれるの」<lb />
 　佐伯氏は、悲しそうな微笑をしながら、<lb />
-「私は、まず骨を折って点字で読みます。それから、その活字の本をこうして<span type="ruby"><span type="rb">撫</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>で廻しながら、この中に、あんなすぐれた事が書いてあるのかと感慨にふけるのです。……こうして<span type="ruby"><span type="rb">頁</span><span type="rp">（</span><span type="rt">ページ</span><span type="rp">）</span></span>の上をさすっていると、いろいろな文章がつぎつぎ記憶の中によみがえって来て、ちょうど眼で読んでいるような気持になれるのです。……<span type="ruby"><span type="rb">未練</span><span type="rp">（</span><span type="rt">みれん</span><span type="rp">）</span></span>だと思うかも知れないけれど」<lb />
-　このごろは、心ないことばかり口走って佐伯氏を悲しませる。これも、自分の感情が足りないせいだと思って、キャラコさんは、そっと唇をかんだ。それにしても、眼のことに触れられるのを、こんなにもいやがっているひとに、あなたの眼はもうだめなのか、などとたずねるのは、いかにも心ない<span type="ruby"><span type="rb">仕業</span><span type="rp">（</span><span type="rt">しわざ</span><span type="rp">）</span></span>だと思ったが、死んだ気になって、切り出してみた。<lb />
+「私は、まず骨を折って点字で読みます。それから、その活字の本をこうして<seg type="ruby"><seg type="rb">撫</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>で廻しながら、この中に、あんなすぐれた事が書いてあるのかと感慨にふけるのです。……こうして<seg type="ruby"><seg type="rb">頁</seg><seg type="rp">（</seg><seg type="rt">ページ</seg><seg type="rp">）</seg></seg>の上をさすっていると、いろいろな文章がつぎつぎ記憶の中によみがえって来て、ちょうど眼で読んでいるような気持になれるのです。……<seg type="ruby"><seg type="rb">未練</seg><seg type="rp">（</seg><seg type="rt">みれん</seg><seg type="rp">）</seg></seg>だと思うかも知れないけれど」<lb />
+　このごろは、心ないことばかり口走って佐伯氏を悲しませる。これも、自分の感情が足りないせいだと思って、キャラコさんは、そっと唇をかんだ。それにしても、眼のことに触れられるのを、こんなにもいやがっているひとに、あなたの眼はもうだめなのか、などとたずねるのは、いかにも心ない<seg type="ruby"><seg type="rb">仕業</seg><seg type="rp">（</seg><seg type="rt">しわざ</seg><seg type="rp">）</seg></seg>だと思ったが、死んだ気になって、切り出してみた。<lb />
 「佐伯さん、あたくし、たったひとつ、おたずねしたいことがありますの」<lb />
 　佐伯氏は、ビクッとしたように、キャラコさんのほうへ顔をふり向けて、<lb />
 「あらたまって、どうしたんです。……ききたいって、どんなこと？」<lb />
 「あなたのお気にさわることなんですから、はじめに、おわびしておきますわ。……あたしがおたずねしたいのは、あなたの眼はどうしても絶望なのかどうかということなの。……まだ、いくぶんでも希望があるのでしょうか」<lb />
-　キャラコさんが、そうたずねると、佐伯氏は、急にキュッと<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほほ</span><span type="rp">）</span></span>の肉を<span type="ruby"><span type="rb">痙攣</span><span type="rp">（</span><span type="rt">ひきつ</span><span type="rp">）</span></span>らせ、なんともいえない暗い顔をしておし黙ってしまった。<lb />
+　キャラコさんが、そうたずねると、佐伯氏は、急にキュッと<seg type="ruby"><seg type="rb">頬</seg><seg type="rp">（</seg><seg type="rt">ほほ</seg><seg type="rp">）</seg></seg>の肉を<seg type="ruby"><seg type="rb">痙攣</seg><seg type="rp">（</seg><seg type="rt">ひきつ</seg><seg type="rp">）</seg></seg>らせ、なんともいえない暗い顔をしておし黙ってしまった。<lb />
 　キャラコさんは、どうしていいかわからなくなってしまった。うなだれて、唇だけを動かして、ごめんなさい、とつぶやいた。<lb />
 　佐伯氏は、ふいに、渋い微笑をうかべて、<lb />
-「いま、ごめんなさい、といいましたね。よく聞えましたよ。……あやまることなんかいりません、なんでもないことです。……私が眼のことに触れたがらないのは、じつは、どうしてもあきらめきれないことがあるからなんです。…私のは、<span type="ruby"><span type="rb">単性視神経萎縮</span><span type="rp">（</span><span type="rt">アトロフィア・ネルヴィ・オプチジ</span><span type="rp">）</span></span>という<span type="ruby"><span type="rb">厄介</span><span type="rp">（</span><span type="rt">やっかい</span><span type="rp">）</span></span>な眼病で、<span type="ruby"><span type="rb">手榴弾</span><span type="rp">（</span><span type="rt">しゅりゅうだん</span><span type="rp">）</span></span>の破片で頭蓋底を骨折したために、起こったもので、日本では<span type="ruby"><span type="rb">治癒</span><span type="rp">（</span><span type="rt">ちゆ</span><span type="rp">）</span></span>できませんが、ミュンヘン大学のヘルムショルツ博士のところへ行けば必ず<span type="ruby"><span type="rb">癒</span><span type="rp">（</span><span type="rt">なお</span><span type="rp">）</span></span>してもらえるあてがあるのです。……しかし、私にはそんな金もないし……」<lb />
+「いま、ごめんなさい、といいましたね。よく聞えましたよ。……あやまることなんかいりません、なんでもないことです。……私が眼のことに触れたがらないのは、じつは、どうしてもあきらめきれないことがあるからなんです。…私のは、<seg type="ruby"><seg type="rb">単性視神経萎縮</seg><seg type="rp">（</seg><seg type="rt">アトロフィア・ネルヴィ・オプチジ</seg><seg type="rp">）</seg></seg>という<seg type="ruby"><seg type="rb">厄介</seg><seg type="rp">（</seg><seg type="rt">やっかい</seg><seg type="rp">）</seg></seg>な眼病で、<seg type="ruby"><seg type="rb">手榴弾</seg><seg type="rp">（</seg><seg type="rt">しゅりゅうだん</seg><seg type="rp">）</seg></seg>の破片で頭蓋底を骨折したために、起こったもので、日本では<seg type="ruby"><seg type="rb">治癒</seg><seg type="rp">（</seg><seg type="rt">ちゆ</seg><seg type="rp">）</seg></seg>できませんが、ミュンヘン大学のヘルムショルツ博士のところへ行けば必ず<seg type="ruby"><seg type="rb">癒</seg><seg type="rp">（</seg><seg type="rt">なお</seg><seg type="rp">）</seg></seg>してもらえるあてがあるのです。……しかし、私にはそんな金もないし……」<lb />
 　ここまでいいかけると、とつぜんいらいらした口調で、<lb />
 「もう、よしましょう。この話は」<lb />
 　と、クルリとキャラコさんに背中を向けてしまった。<lb />
-　キャラコさんは、宿へ帰ると、秋作氏の<span type="ruby"><span type="rb">気付</span><span type="rp">（</span><span type="rt">きづけ</span><span type="rp">）</span></span>にして、ヘルムショルツ先生の高弟に宛てて長い長い手紙を書いた。<lb />
-　……そういうわけですから、この手紙を見次第、<span type="ruby"><span type="rb">鞄</span><span type="rp">（</span><span type="rt">かばん</span><span type="rp">）</span></span>を持って飛んで来て、ちょうだい。これは、あたしの、めいれいよ。と結んだ。日記には、こんなふうに書きつけた。<lb />
+　キャラコさんは、宿へ帰ると、秋作氏の<seg type="ruby"><seg type="rb">気付</seg><seg type="rp">（</seg><seg type="rt">きづけ</seg><seg type="rp">）</seg></seg>にして、ヘルムショルツ先生の高弟に宛てて長い長い手紙を書いた。<lb />
+　……そういうわけですから、この手紙を見次第、<seg type="ruby"><seg type="rb">鞄</seg><seg type="rp">（</seg><seg type="rt">かばん</seg><seg type="rp">）</seg></seg>を持って飛んで来て、ちょうだい。これは、あたしの、めいれいよ。と結んだ。日記には、こんなふうに書きつけた。<lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
 キャラコの信念<lb />
 佐伯氏の眼は、必ず見えるようになる！<lb />
-</span>
+</seg>
 <lb />
 <lb />
 　一日おいて次の日、立上氏から、ミヨウゴニチアサユクという電報が来た。<lb />
 　キャラコさんは、その電報を持っていつものところへ駆けて行った。<lb />
-　<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>は蘆の中に置いてあるが、佐伯氏の姿は見えない。四時ごろまで待っていたがやって来ない。もしや水ぎわにでもいるのかとそのほうを見廻したが、<span type="ruby"><span type="rb">渚</span><span type="rp">（</span><span type="rt">なぎさ</span><span type="rp">）</span></span>には人の影らしいものもなかった。<lb />
+　<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>は蘆の中に置いてあるが、佐伯氏の姿は見えない。四時ごろまで待っていたがやって来ない。もしや水ぎわにでもいるのかとそのほうを見廻したが、<seg type="ruby"><seg type="rb">渚</seg><seg type="rp">（</seg><seg type="rt">なぎさ</seg><seg type="rp">）</seg></seg>には人の影らしいものもなかった。<lb />
 　キャラコさんは手帳の紙に、<lb />
 <lb />
-　佐伯さま。<span type="ruby"><span type="rb">明後日</span><span type="rp">（</span><span type="rt">あさって</span><span type="rp">）</span></span>のあさ、ここへ、ヘルムショルツ先生の高弟が来ます。どうぞ、あなたの眼をふたつ貸してちょうだい。<lb />
+　佐伯さま。<seg type="ruby"><seg type="rb">明後日</seg><seg type="rp">（</seg><seg type="rt">あさって</seg><seg type="rp">）</seg></seg>のあさ、ここへ、ヘルムショルツ先生の高弟が来ます。どうぞ、あなたの眼をふたつ貸してちょうだい。<lb />
 <lb />
-　と、走り書きをし、それを電報用紙の中へ細長くたたみ込み、その表に、（<span type="ruby"><span type="rb">茜</span><span type="rp">（</span><span type="rt">あかね</span><span type="rp">）</span></span>さま、これを読んでさしあげてくださいませ）と、書いて、それを<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>に結びつけた。<lb />
+　と、走り書きをし、それを電報用紙の中へ細長くたたみ込み、その表に、（<seg type="ruby"><seg type="rb">茜</seg><seg type="rp">（</seg><seg type="rt">あかね</seg><seg type="rp">）</seg></seg>さま、これを読んでさしあげてくださいませ）と、書いて、それを<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>に結びつけた。<lb />
 <lb />
-　それから、三十分ほどすると、<span type="ruby"><span type="rb">疏水</span><span type="rp">（</span><span type="rt">そすい</span><span type="rp">）</span></span>の向う側から佐伯氏がやって来た。<lb />
-　<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>のあるあたりに顔を向けて、ぼんやりと立っていたが、ツと手を伸ばして手紙をほどきとるとむこうを向いて、立ったままでそれを読み出した。<lb />
+　それから、三十分ほどすると、<seg type="ruby"><seg type="rb">疏水</seg><seg type="rp">（</seg><seg type="rt">そすい</seg><seg type="rp">）</seg></seg>の向う側から佐伯氏がやって来た。<lb />
+　<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>のあるあたりに顔を向けて、ぼんやりと立っていたが、ツと手を伸ばして手紙をほどきとるとむこうを向いて、立ったままでそれを読み出した。<lb />
 　しばらくののち、手紙を持った手がだらりと下へ垂れる。それから、左手をいそいで眼のほうへ持って行った。<lb />
 　佐伯氏は、こちらへ背中を向けたままいつまでも立っている。佐伯氏の手の中で、キャラコさんの手紙がヒラヒラと風にひるがえっていた。<lb />
 <lb />
 　　　　　五<lb />
-　次の朝、廊下の窓のそばの<span type="ruby"><span type="rb">籐椅子</span><span type="rp">（</span><span type="rt">とういす</span><span type="rp">）</span></span>に掛けて本を読んでいると、廊下の向うのはしから<span type="ruby"><span type="rb">茜</span><span type="rp">（</span><span type="rt">あかね</span><span type="rp">）</span></span>さんがひどくまっすぐな姿勢でこちらへちかづいて来た。<lb />
-　ウールのレーンコートを着て、腕に外套をひっかけている。<span type="ruby"><span type="rb">瘠</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>せているので、ほんとうの<span type="ruby"><span type="rb">身丈</span><span type="rp">（</span><span type="rt">みのたけ</span><span type="rp">）</span></span>よりずっと長身に見える。<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>ざしは冷たすぎるほど<span type="ruby"><span type="rb">端正</span><span type="rp">（</span><span type="rt">たんせい</span><span type="rp">）</span></span>で、象牙のような<span type="ruby"><span type="rb">冴</span><span type="rp">（</span><span type="rt">さ</span><span type="rp">）</span></span>えかえった色をしていた。<lb />
-　廿二三だと思われるのに、どこか、ひどく<span type="ruby"><span type="rb">老</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>けたところがあって、娘がいきなり大人になったような妙な感じをあたえる。<lb />
+　次の朝、廊下の窓のそばの<seg type="ruby"><seg type="rb">籐椅子</seg><seg type="rp">（</seg><seg type="rt">とういす</seg><seg type="rp">）</seg></seg>に掛けて本を読んでいると、廊下の向うのはしから<seg type="ruby"><seg type="rb">茜</seg><seg type="rp">（</seg><seg type="rt">あかね</seg><seg type="rp">）</seg></seg>さんがひどくまっすぐな姿勢でこちらへちかづいて来た。<lb />
+　ウールのレーンコートを着て、腕に外套をひっかけている。<seg type="ruby"><seg type="rb">瘠</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>せているので、ほんとうの<seg type="ruby"><seg type="rb">身丈</seg><seg type="rp">（</seg><seg type="rt">みのたけ</seg><seg type="rp">）</seg></seg>よりずっと長身に見える。<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">おも</seg><seg type="rp">）</seg></seg>ざしは冷たすぎるほど<seg type="ruby"><seg type="rb">端正</seg><seg type="rp">（</seg><seg type="rt">たんせい</seg><seg type="rp">）</seg></seg>で、象牙のような<seg type="ruby"><seg type="rb">冴</seg><seg type="rp">（</seg><seg type="rt">さ</seg><seg type="rp">）</seg></seg>えかえった色をしていた。<lb />
+　廿二三だと思われるのに、どこか、ひどく<seg type="ruby"><seg type="rb">老</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>けたところがあって、娘がいきなり大人になったような妙な感じをあたえる。<lb />
 　すらりと、キャラコさんのそばに立って、<lb />
-「いいお天気ね。<span type="ruby"><span type="rb">発動機艇</span><span type="rp">（</span><span type="rt">モーター・ボート</span><span type="rp">）</span></span>で箱根町のほうへ出かけてみません？　すこし、お話したいこともあるのよ」<lb />
+「いいお天気ね。<seg type="ruby"><seg type="rb">発動機艇</seg><seg type="rp">（</seg><seg type="rt">モーター・ボート</seg><seg type="rp">）</seg></seg>で箱根町のほうへ出かけてみません？　すこし、お話したいこともあるのよ」<lb />
 　否応いわせない、おしつけるような調子があった。<lb />
 　キャラコさんは、きのうの返事がきけるのだと思って、急いで自分の部屋へ行って帽子と外套を持ってきた。<lb />
-　二人は<span type="ruby"><span type="rb">桟橋</span><span type="rp">（</span><span type="rt">さんばし</span><span type="rp">）</span></span>まで歩いて行ってそこで、<span type="ruby"><span type="rb">発動機艇</span><span type="rp">（</span><span type="rt">モーター・ボート</span><span type="rp">）</span></span>に乗った。<lb />
-　とりわけ、きょうは陽ざしが熱く、湖の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>はガラスのようにきらめいて、深い<span type="ruby"><span type="rb">水底</span><span type="rp">（</span><span type="rt">みずそこ</span><span type="rp">）</span></span>でときどきキラリと魚の<span type="ruby"><span type="rb">鰭</span><span type="rp">（</span><span type="rt">ひれ</span><span type="rp">）</span></span>が光った。<lb />
+　二人は<seg type="ruby"><seg type="rb">桟橋</seg><seg type="rp">（</seg><seg type="rt">さんばし</seg><seg type="rp">）</seg></seg>まで歩いて行ってそこで、<seg type="ruby"><seg type="rb">発動機艇</seg><seg type="rp">（</seg><seg type="rt">モーター・ボート</seg><seg type="rp">）</seg></seg>に乗った。<lb />
+　とりわけ、きょうは陽ざしが熱く、湖の<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>はガラスのようにきらめいて、深い<seg type="ruby"><seg type="rb">水底</seg><seg type="rp">（</seg><seg type="rt">みずそこ</seg><seg type="rp">）</seg></seg>でときどきキラリと魚の<seg type="ruby"><seg type="rb">鰭</seg><seg type="rp">（</seg><seg type="rt">ひれ</seg><seg type="rp">）</seg></seg>が光った。<lb />
 　モーターの響きがこころよく身体につたわる。茜さんは、眼を細めて、うつりかわる対岸の景色をながめたまま、いつまでもおし黙っている。キャラコさんは、すこし気味が悪くなって、<lb />
 「お話って、どんなお話」<lb />
 　と、おそるおそる切り出してみた。よくよく辛抱したあげくのことである。茜さんは急にこちらへ顔をふり向け、運転手のほうを眼で指しながら、<lb />
 「ここでは、なにも申しませんわ。あなただって、それでは、お都合が悪いでしょうからね」<lb />
-　と、<span type="ruby"><span type="rb">謎</span><span type="rp">（</span><span type="rt">なぞ</span><span type="rp">）</span></span>のようなことをいうと、また、クルリとむこうを向いてしまった。<lb />
+　と、<seg type="ruby"><seg type="rb">謎</seg><seg type="rp">（</seg><seg type="rt">なぞ</seg><seg type="rp">）</seg></seg>のようなことをいうと、また、クルリとむこうを向いてしまった。<lb />
 　どういう意味なのか一向わからない。何かひどく腹を立てていることだけはわかる。しかし、どう考えて見ても、茜さんを怒らせるようなことをした覚えはない。<lb />
 （いったい、何をいいだす気なんだろう）<lb />
 　キャラコさんは、ひとりで首をひねっていたが、そのうちにめんどうくさくなって、そんなことにクヨクヨしないことにした。<lb />
-　<span type="ruby"><span type="rb">浮</span><span type="rp">（</span><span type="rt">うき</span><span type="rp">）</span></span>ヶ島の近くへ来ると、<span type="ruby"><span type="rb">発動機艇</span><span type="rp">（</span><span type="rt">モーター・ボート</span><span type="rp">）</span></span>は速力を落として、岬の鼻のところでとまった。<lb />
-　茜さんは、ボートから降りると、岸づたいに岬の鼻を廻り、先に立って<span type="ruby"><span type="rb">御用邸</span><span type="rp">（</span><span type="rt">ごようてい</span><span type="rp">）</span></span>の下の深い林の中へズンズンはいって行く。<lb />
-　キャラコさんは、なんだか<span type="ruby"><span type="rb">嫌気</span><span type="rp">（</span><span type="rt">いやき</span><span type="rp">）</span></span>がさしてきて、ついて行きたくなくなった。<lb />
+　<seg type="ruby"><seg type="rb">浮</seg><seg type="rp">（</seg><seg type="rt">うき</seg><seg type="rp">）</seg></seg>ヶ島の近くへ来ると、<seg type="ruby"><seg type="rb">発動機艇</seg><seg type="rp">（</seg><seg type="rt">モーター・ボート</seg><seg type="rp">）</seg></seg>は速力を落として、岬の鼻のところでとまった。<lb />
+　茜さんは、ボートから降りると、岸づたいに岬の鼻を廻り、先に立って<seg type="ruby"><seg type="rb">御用邸</seg><seg type="rp">（</seg><seg type="rt">ごようてい</seg><seg type="rp">）</seg></seg>の下の深い林の中へズンズンはいって行く。<lb />
+　キャラコさんは、なんだか<seg type="ruby"><seg type="rb">嫌気</seg><seg type="rp">（</seg><seg type="rt">いやき</seg><seg type="rp">）</seg></seg>がさしてきて、ついて行きたくなくなった。<lb />
 「お話って、こんなところでなければいけないことですの」<lb />
 　茜さんは、キッと振り返って、冷酷な眼つきでキャラコさんを見すえると、<lb />
 「それは、あなたのほうが、よくご存知でしょう。……逃げようたってだめよ。だまってついて来てちょうだい」<lb />
 　と、甲高い声で叫んだ。<lb />
 　キャラコさんは、閉口して、またトボトボと歩き出した。<lb />
-　<span type="ruby"><span type="rb">鬱蒼</span><span type="rp">（</span><span type="rt">うっそう</span><span type="rp">）</span></span>と繁り合った葉の間から、陽の光が金色の<span type="ruby"><span type="rb">縞</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>になってさし込んでいる。しんとして、小鳥の声のほか何の物音もきこえない。<lb />
-　茜さんは、急に足をとめて、<span type="ruby"><span type="rb">顎</span><span type="rp">（</span><span type="rt">あご</span><span type="rp">）</span></span>で指して、大きな切り株へキャラコさんを掛けさせると、自分は<span type="ruby"><span type="rb">樹</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>の幹に背をもたせて立ったまま、悪く落ち着いた声で、<lb />
+　<seg type="ruby"><seg type="rb">鬱蒼</seg><seg type="rp">（</seg><seg type="rt">うっそう</seg><seg type="rp">）</seg></seg>と繁り合った葉の間から、陽の光が金色の<seg type="ruby"><seg type="rb">縞</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>になってさし込んでいる。しんとして、小鳥の声のほか何の物音もきこえない。<lb />
+　茜さんは、急に足をとめて、<seg type="ruby"><seg type="rb">顎</seg><seg type="rp">（</seg><seg type="rt">あご</seg><seg type="rp">）</seg></seg>で指して、大きな切り株へキャラコさんを掛けさせると、自分は<seg type="ruby"><seg type="rb">樹</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>の幹に背をもたせて立ったまま、悪く落ち着いた声で、<lb />
 「……どう？　ここなら、どんな話でもできるわね。……あたしが、こんなに気をつかってあげるのは、女のよしみだけですることなのよ。親切だなんて思いちがいしないようにして、ちょうだい」<lb />
-　それにしても、わけのわからないことばかりいう。キャラコさんは返事のしようもなくておし黙っていると、茜さんは、唇のはしに<span type="ruby"><span type="rb">皺</span><span type="rp">（</span><span type="rt">しわ</span><span type="rp">）</span></span>をよせてジロジロとキャラコさんを見おろしながら、だしぬけに、<lb />
+　それにしても、わけのわからないことばかりいう。キャラコさんは返事のしようもなくておし黙っていると、茜さんは、唇のはしに<seg type="ruby"><seg type="rb">皺</seg><seg type="rp">（</seg><seg type="rt">しわ</seg><seg type="rp">）</seg></seg>をよせてジロジロとキャラコさんを見おろしながら、だしぬけに、<lb />
 「キャラコなんて、ずいぶんトンチキな名ね。ひとを喰ってるわ」<lb />
 　と、切って放すように、いった。すこし無礼だと思ったが、キャラコさんは、笑いながら素直にうなずいた。<lb />
 「そうね」<lb />
 「それ、あなたの本当の名？」<lb />
 　キャラコさんは、うちあけた話をする。<lb />
-「いいえ、<span type="ruby"><span type="rb">綽名</span><span type="rp">（</span><span type="rt">あだな</span><span type="rp">）</span></span>なのよ……あたし、いつもキャラコの下着を着ているでしょう。だもんだから……」<lb />
-「本当の名は、なんというの？　宿帳には、<span type="ruby"><span type="rb">沼間槇子</span><span type="rp">（</span><span type="rt">ぬままきこ</span><span type="rp">）</span></span>となっていますわね。あれがそうなの？」<lb />
-「いいえ、あれは<span type="ruby"><span type="rb">従姉</span><span type="rp">（</span><span type="rt">いとこ</span><span type="rp">）</span></span>の名よ」<lb />
+「いいえ、<seg type="ruby"><seg type="rb">綽名</seg><seg type="rp">（</seg><seg type="rt">あだな</seg><seg type="rp">）</seg></seg>なのよ……あたし、いつもキャラコの下着を着ているでしょう。だもんだから……」<lb />
+「本当の名は、なんというの？　宿帳には、<seg type="ruby"><seg type="rb">沼間槇子</seg><seg type="rp">（</seg><seg type="rt">ぬままきこ</seg><seg type="rp">）</seg></seg>となっていますわね。あれがそうなの？」<lb />
+「いいえ、あれは<seg type="ruby"><seg type="rb">従姉</seg><seg type="rp">（</seg><seg type="rt">いとこ</seg><seg type="rp">）</seg></seg>の名よ」<lb />
 「じゃ、あんたの名は？」<lb />
 　キャラコさんは、まっすぐに茜さんの顔を見つめながら、こたえる。<lb />
 「それは、いえないことになっていますの」<lb />
@@ -334,23 +334,23 @@
 「それも、いえませんの」<lb />
 「おや、不便ね。……どういうわけで？」<lb />
 「それも、申し上げられませんわ」<lb />
-「ええ、いってくれなくても結構よ。……要するに、あんたは、<span type="ruby"><span type="rb">偽名</span><span type="rp">（</span><span type="rt">ぎめい</span><span type="rp">）</span></span>して、あんなところに隠れているのね」<lb />
+「ええ、いってくれなくても結構よ。……要するに、あんたは、<seg type="ruby"><seg type="rb">偽名</seg><seg type="rp">（</seg><seg type="rt">ぎめい</seg><seg type="rp">）</seg></seg>して、あんなところに隠れているのね」<lb />
 　茜さんは露骨な嘲笑をうかべながら、<lb />
-「なにか、よくよくうしろ<span type="ruby"><span type="rb">暗</span><span type="rp">（</span><span type="rt">ぐら</span><span type="rp">）</span></span>いことがあるのね」<lb />
+「なにか、よくよくうしろ<seg type="ruby"><seg type="rb">暗</seg><seg type="rp">（</seg><seg type="rt">ぐら</seg><seg type="rp">）</seg></seg>いことがあるのね」<lb />
 　キャラコさんは、返事をしなかった。うしろ暗いことなんかないといってみたところで、しょせん水かけ論だからである。<lb />
 　茜さんは、勝ち誇ったような声で、<lb />
-「そんなことぐらいわからないと思う？　あたしはよほど前からちゃんと知っていたのよ。あんた、<span type="ruby"><span type="rb">槇子</span><span type="rp">（</span><span type="rt">まきこ</span><span type="rp">）</span></span>さんと呼ばれると、ときどき、返事をしはぐるでしょう。……ははあ偽名をつかっているんだな、ってそう思っていたの。……いったいどうしたっていうの？……あんた、ここで、そっとママにでもなるというわけ？　それとも、なにか、もっと深いわけがあるの？……いずれにしても、<span type="ruby"><span type="rb">浮世</span><span type="rp">（</span><span type="rt">うきよ</span><span type="rp">）</span></span>を忍ぶには屈強の場所ね。……でも、そんなことは、あたしの知ったことじゃない。おうかがいしたいのは、ほかのことなの」<lb />
+「そんなことぐらいわからないと思う？　あたしはよほど前からちゃんと知っていたのよ。あんた、<seg type="ruby"><seg type="rb">槇子</seg><seg type="rp">（</seg><seg type="rt">まきこ</seg><seg type="rp">）</seg></seg>さんと呼ばれると、ときどき、返事をしはぐるでしょう。……ははあ偽名をつかっているんだな、ってそう思っていたの。……いったいどうしたっていうの？……あんた、ここで、そっとママにでもなるというわけ？　それとも、なにか、もっと深いわけがあるの？……いずれにしても、<seg type="ruby"><seg type="rb">浮世</seg><seg type="rp">（</seg><seg type="rt">うきよ</seg><seg type="rp">）</seg></seg>を忍ぶには屈強の場所ね。……でも、そんなことは、あたしの知ったことじゃない。おうかがいしたいのは、ほかのことなの」<lb />
 　キャラコさんが、落ち着いた声でいう。<lb />
 「おっしゃってみて、ちょうだい」<lb />
-　<span type="ruby"><span type="rb">傲慢</span><span type="rp">（</span><span type="rt">ごうまん</span><span type="rp">）</span></span>に、上から見おろしながら、<lb />
+　<seg type="ruby"><seg type="rb">傲慢</seg><seg type="rp">（</seg><seg type="rt">ごうまん</seg><seg type="rp">）</seg></seg>に、上から見おろしながら、<lb />
 「あんた、兄に対して、どんな感情を持っていらっしゃるの」<lb />
 「お気の毒だと思っていますわ」<lb />
 「おや、たったそれだけ？……ほんとうのことをいってくださいね」<lb />
 「あたし、嘘なんかいったことはありませんわ」<lb />
 　茜さんは、ふん、と鼻で笑って、<lb />
-「自慢らしくいうわね。だいたい、嘘のある<span type="ruby"><span type="rb">齢</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>でもないじゃないか。あんたなんか、まだ子供だわ。……でも、あんたは別なのかも知れない。……ねえ、かくさずにいってちょうだい。あんた、兄に対して何か特別な感情を持っているんじゃない？」<lb />
+「自慢らしくいうわね。だいたい、嘘のある<seg type="ruby"><seg type="rb">齢</seg><seg type="rp">（</seg><seg type="rt">とし</seg><seg type="rp">）</seg></seg>でもないじゃないか。あんたなんか、まだ子供だわ。……でも、あんたは別なのかも知れない。……ねえ、かくさずにいってちょうだい。あんた、兄に対して何か特別な感情を持っているんじゃない？」<lb />
 　キャラコさんは、ゆっくりとかんがえてみる。<lb />
-　どう考えても、特別なんてことはないようだ。佐伯氏にたいする愛の感情は、秋作氏や<span type="ruby"><span type="rb">立上</span><span type="rp">（</span><span type="rt">たてがみ</span><span type="rp">）</span></span>氏にたいするそれとちっとも変わりがないように思う。ただ佐伯氏のほうはたいへん不幸なので、どんなことでもして慰めてあげたいという、すこし別な気持が加わるだけのことである。<lb />
+　どう考えても、特別なんてことはないようだ。佐伯氏にたいする愛の感情は、秋作氏や<seg type="ruby"><seg type="rb">立上</seg><seg type="rp">（</seg><seg type="rt">たてがみ</seg><seg type="rp">）</seg></seg>氏にたいするそれとちっとも変わりがないように思う。ただ佐伯氏のほうはたいへん不幸なので、どんなことでもして慰めてあげたいという、すこし別な気持が加わるだけのことである。<lb />
 　キャラコさんは、微笑しながらこたえた。<lb />
 「特別な感情なんかもっていないようよ」<lb />
 「じゃ、なぜ、あんなにしつっこく兄をつけ廻すの」<lb />
@@ -362,22 +362,22 @@
 「そんなら、それでいいから、じゃ、もうこれっきり兄に逢わないようにしていただきますわ」<lb />
 「あら、なぜでしょう」<lb />
 　茜さんは、マジマジとキャラコさんの顔をみつめながら、吐きだすように、<lb />
-「<span type="ruby"><span type="rb">汚</span><span type="rp">（</span><span type="rt">けが</span><span type="rp">）</span></span>らわしいからよ、あんたのようなひと」<lb />
-　そばへ寄ってもらいたくないというふうに、<span type="ruby"><span type="rb">殊更</span><span type="rp">（</span><span type="rt">ことさら</span><span type="rp">）</span></span>らしいしぐさでとなりの幹に移ると、それに背をもたせながら、<lb />
-「ご存知ないかもしれませんけれど、あたしの一族は<span type="ruby"><span type="rb">純血</span><span type="rp">（</span><span type="rt">ピュウル・サン</span><span type="rp">）</span></span>なのよ。……だから、あんたのような、うしろぐらいところのある下等なひとはそばへ寄せつけないことにしてあるの。<span type="ruby"><span type="rb">膚</span><span type="rp">（</span><span type="rt">はだ</span><span type="rp">）</span></span>がけがれますから。……どう、おわかりになって？　これでもわからなければ、あんた、すこし馬鹿よ」<lb />
+「<seg type="ruby"><seg type="rb">汚</seg><seg type="rp">（</seg><seg type="rt">けが</seg><seg type="rp">）</seg></seg>らわしいからよ、あんたのようなひと」<lb />
+　そばへ寄ってもらいたくないというふうに、<seg type="ruby"><seg type="rb">殊更</seg><seg type="rp">（</seg><seg type="rt">ことさら</seg><seg type="rp">）</seg></seg>らしいしぐさでとなりの幹に移ると、それに背をもたせながら、<lb />
+「ご存知ないかもしれませんけれど、あたしの一族は<seg type="ruby"><seg type="rb">純血</seg><seg type="rp">（</seg><seg type="rt">ピュウル・サン</seg><seg type="rp">）</seg></seg>なのよ。……だから、あんたのような、うしろぐらいところのある下等なひとはそばへ寄せつけないことにしてあるの。<seg type="ruby"><seg type="rb">膚</seg><seg type="rp">（</seg><seg type="rt">はだ</seg><seg type="rp">）</seg></seg>がけがれますから。……どう、おわかりになって？　これでもわからなければ、あんた、すこし馬鹿よ」<lb />
 　キャラコさんは、思わず立ちあがった。が、すぐ自制した。<lb />
-（……すこし、頭の工合が悪いのかも知れない。どうも<span type="ruby"><span type="rb">常態</span><span type="rp">（</span><span type="rt">ノルマル</span><span type="rp">）</span></span>でないようだわ。こんな非常識なひとのいうことにムキになったりしたら、それこそ、こっちがやりきれないことになる。……それにしても、<span type="ruby"><span type="rb">純血</span><span type="rp">（</span><span type="rt">ピュウル・サン</span><span type="rp">）</span></span>って、なんのことかしら？　<span type="ruby"><span type="rb">馬</span><span type="rp">（</span><span type="rt">うま</span><span type="rp">）</span></span>でもあるまいし、ずいぶん、でたらめなことをいうわね）<lb />
+（……すこし、頭の工合が悪いのかも知れない。どうも<seg type="ruby"><seg type="rb">常態</seg><seg type="rp">（</seg><seg type="rt">ノルマル</seg><seg type="rp">）</seg></seg>でないようだわ。こんな非常識なひとのいうことにムキになったりしたら、それこそ、こっちがやりきれないことになる。……それにしても、<seg type="ruby"><seg type="rb">純血</seg><seg type="rp">（</seg><seg type="rt">ピュウル・サン</seg><seg type="rp">）</seg></seg>って、なんのことかしら？　<seg type="ruby"><seg type="rb">馬</seg><seg type="rp">（</seg><seg type="rt">うま</seg><seg type="rp">）</seg></seg>でもあるまいし、ずいぶん、でたらめなことをいうわね）<lb />
 　キャラコさんは、馬鹿馬鹿しくなって、口をきく気にもなれなくなった。<lb />
 　茜さんは、いら立たしそうに眉をひそめながら、<lb />
 「なんでもいいから、兄から手をひいてちょうだい。いくらつけ廻したって、もうモノにならなくてよ」<lb />
 　茜さんは美しいので、キャラコさんはたいへん好きだったが、あまり下等な口のききかたをするのでガッカリしてしまった。<lb />
 「それで、佐伯氏のほうは、どうおっしゃっていらっしゃるの？」<lb />
 　茜さんは、イライラと足踏みをして、<lb />
-「兄のことなんか放って置いてちょうだい。もちろん、あんたのことなんか、もう問題にしていなくてよ。……兄はお<span type="ruby"><span type="rb">人好</span><span type="rp">（</span><span type="rt">ひとよ</span><span type="rp">）</span></span>しなもんで、一向気がつかないの。……だから、あたしからよくいってやりましたわ。……あれは、たいへんなお嬢さんなのよ、って。……兄も不愉快がって、あいつ、どこかへ行ってしまわないかな、っていっていましたわ。……つまりね、あたし、兄の代理でやってきたわけなの」<lb />
+「兄のことなんか放って置いてちょうだい。もちろん、あんたのことなんか、もう問題にしていなくてよ。……兄はお<seg type="ruby"><seg type="rb">人好</seg><seg type="rp">（</seg><seg type="rt">ひとよ</seg><seg type="rp">）</seg></seg>しなもんで、一向気がつかないの。……だから、あたしからよくいってやりましたわ。……あれは、たいへんなお嬢さんなのよ、って。……兄も不愉快がって、あいつ、どこかへ行ってしまわないかな、っていっていましたわ。……つまりね、あたし、兄の代理でやってきたわけなの」<lb />
 　キャラコさんは、ちょっと眼を伏せた。<lb />
-（なるほど！　きのうに限って<span type="ruby"><span type="rb">疏水</span><span type="rp">（</span><span type="rt">そすい</span><span type="rp">）</span></span>へやって来なかったのは、そういうわけだったんだわ）<lb />
+（なるほど！　きのうに限って<seg type="ruby"><seg type="rb">疏水</seg><seg type="rp">（</seg><seg type="rt">そすい</seg><seg type="rp">）</seg></seg>へやって来なかったのは、そういうわけだったんだわ）<lb />
 　もちろん、よく思われようとしてやったことではないが、それにしても、こんな情けない原因で佐伯氏に逢えなくなるのは、すこし悲しかった。<lb />
-　しかし、自分でなければ、佐伯氏を慰めることができないというのではないし、それに、いつまでもそばにいてあげられるというわけでもないのだから、どっちみち同じことのようである。<span type="ruby"><span type="rb">立上</span><span type="rp">（</span><span type="rt">たてがみ</span><span type="rp">）</span></span>氏の力で、佐伯氏の視力がすこしでも回復すれば、それで自分の好意はとどくわけだ。<lb />
+　しかし、自分でなければ、佐伯氏を慰めることができないというのではないし、それに、いつまでもそばにいてあげられるというわけでもないのだから、どっちみち同じことのようである。<seg type="ruby"><seg type="rb">立上</seg><seg type="rp">（</seg><seg type="rt">たてがみ</seg><seg type="rp">）</seg></seg>氏の力で、佐伯氏の視力がすこしでも回復すれば、それで自分の好意はとどくわけだ。<lb />
 　茜さんは、鋭い舌打ちをひとつして、<lb />
 「ねえ、お返事はどうなの」<lb />
 　キャラコさんが、はっきりと、こたえた。<lb />
@@ -389,32 +389,32 @@
 　茜さんは、背伸びをするようにグッと胸をそらすと、<lb />
 「……それから、あしたおいでになるというドクトルの件ね、あれ、お断わりしてよ」<lb />
 　キャラコさんは、眼を見はって、<lb />
-「あら、どうしてでしょう。そのかたなら、かならずお兄さまのお眼を<span type="ruby"><span type="rb">癒</span><span type="rp">（</span><span type="rt">なお</span><span type="rp">）</span></span>して差しあげることができるんです。どうか、そんなことをおっしゃらないで……」<lb />
+「あら、どうしてでしょう。そのかたなら、かならずお兄さまのお眼を<seg type="ruby"><seg type="rb">癒</seg><seg type="rp">（</seg><seg type="rt">なお</seg><seg type="rp">）</seg></seg>して差しあげることができるんです。どうか、そんなことをおっしゃらないで……」<lb />
 　茜さんは、切りつけるような調子で、<lb />
-「結構よ。放って置いてちょうだい。……あたし、兄を<span type="ruby"><span type="rb">盲目</span><span type="rp">（</span><span type="rt">めくら</span><span type="rp">）</span></span>のままにして置きたいんです」<lb />
-　キャラコさんは、自分の<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほほ</span><span type="rp">）</span></span>にクワッと血がのぼってくるのがわかった。<lb />
+「結構よ。放って置いてちょうだい。……あたし、兄を<seg type="ruby"><seg type="rb">盲目</seg><seg type="rp">（</seg><seg type="rt">めくら</seg><seg type="rp">）</seg></seg>のままにして置きたいんです」<lb />
+　キャラコさんは、自分の<seg type="ruby"><seg type="rb">頬</seg><seg type="rp">（</seg><seg type="rt">ほほ</seg><seg type="rp">）</seg></seg>にクワッと血がのぼってくるのがわかった。<lb />
 「茜さん、あなた……」<lb />
 　茜さんは、空うそぶいて、せせら笑うように、いった。<lb />
-「盲目の兄！　なんて、ずいぶん、<span type="ruby"><span type="rb">浪漫的</span><span type="rp">（</span><span type="rt">ロマンチック</span><span type="rp">）</span></span>じゃないこと？」<lb />
+「盲目の兄！　なんて、ずいぶん、<seg type="ruby"><seg type="rb">浪漫的</seg><seg type="rp">（</seg><seg type="rt">ロマンチック</seg><seg type="rp">）</seg></seg>じゃないこと？」<lb />
 　とりつくしまもなかった。<lb />
 <lb />
 　　　　　六<lb />
 　キャラコさんは、これを機会に、秋作氏のすすめにしたがって、すこしの間ほうぼうを歩いて見ることにきめた。<lb />
-　箱根町の小さな旅館へ引き移って、旅行の支度をしようと思って町へ買物に出ると、町かどの電柱に、<span type="ruby"><span type="rb">脇坂</span><span type="rp">（</span><span type="rt">わきざか</span><span type="rp">）</span></span>部隊の戦傷勇士佐伯軍曹が、本町有志の熱心な<span type="ruby"><span type="rb">懇請</span><span type="rp">（</span><span type="rt">こんせい</span><span type="rp">）</span></span>によって、今日午後一時から処女会の講堂で実戦談を行なわれることになったというビラがはりだしてあった。<lb />
-　<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>の間で、ほのぼのと<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>を吹いていたわびしそうな姿が眼にうかぶ。あの佐伯氏がどんな切実な働きをしたのか聴いてみたくなった。<lb />
+　箱根町の小さな旅館へ引き移って、旅行の支度をしようと思って町へ買物に出ると、町かどの電柱に、<seg type="ruby"><seg type="rb">脇坂</seg><seg type="rp">（</seg><seg type="rt">わきざか</seg><seg type="rp">）</seg></seg>部隊の戦傷勇士佐伯軍曹が、本町有志の熱心な<seg type="ruby"><seg type="rb">懇請</seg><seg type="rp">（</seg><seg type="rt">こんせい</seg><seg type="rp">）</seg></seg>によって、今日午後一時から処女会の講堂で実戦談を行なわれることになったというビラがはりだしてあった。<lb />
+　<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>の間で、ほのぼのと<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>を吹いていたわびしそうな姿が眼にうかぶ。あの佐伯氏がどんな切実な働きをしたのか聴いてみたくなった。<lb />
 　会場へ行くと、入口に大きな国旗をつるし、<lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em">
-<span type="ruby"><span type="rb">南京</span><span type="rp">（</span><span type="rt">ナンキン</span><span type="rp">）</span></span>光華門突入決死隊の一人、佐伯軍曹軍事講演会々場<lb />
-</span>
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+<seg type="ruby"><seg type="rb">南京</seg><seg type="rp">（</seg><seg type="rt">ナンキン</seg><seg type="rp">）</seg></seg>光華門突入決死隊の一人、佐伯軍曹軍事講演会々場<lb />
+</seg>
 　という大きな紙の立看板がたてかけられてあった。<lb />
 　講堂にはもう大勢の聴衆がつめかけ、演壇の両側には町の役員らしい人たちがズラリとい並んでいる、前列のはしに、佐伯氏が、すこしうつ向き加減になって、茜さんと並んで掛けていた。<lb />
 　キャラコさんは、うしろから突かれてとうとう演壇から二列目の椅子のところまで押しだされ前の人の背中に隠れるようにして坐っていた。<lb />
 　定刻になって、司会者のながながしい紹介が終ると、とどろくような拍手が起こり、佐伯氏が茜さんに手をひかれて、演壇あがってきた。<lb />
 　昂奮しているせいか、いつもより顔の色が悪く、ソワソワして、まるっきり落ち着きがなかった。水差しの水を一杯飲んでふるえるような手つきで唇をぬぐうと、聞きとりにくいほどの低い声ではなしはじめた。<lb />
 「……南京城攻略戦は、……南京城壁、東南方から開始されまして、……十日の午後五時、脇坂部隊は、工兵部隊の決死的城門破壊と間髪を入れず、光華門の一角を占領……」<lb />
-　声がとぎれて、何をいっているのか最後のところははっきりと聞えなかった。顔が<span type="ruby"><span type="rb">土気</span><span type="rp">（</span><span type="rt">つちけ</span><span type="rp">）</span></span>色になり、ハンカチを出してはしきりに額をぬぐう。倒れるのではないかと思って、キャラコさんは、気が気でなく伸びあがって佐伯氏の顔ばかり見つめていた。<lb />
+　声がとぎれて、何をいっているのか最後のところははっきりと聞えなかった。顔が<seg type="ruby"><seg type="rb">土気</seg><seg type="rp">（</seg><seg type="rt">つちけ</seg><seg type="rp">）</seg></seg>色になり、ハンカチを出してはしきりに額をぬぐう。倒れるのではないかと思って、キャラコさんは、気が気でなく伸びあがって佐伯氏の顔ばかり見つめていた。<lb />
 　佐伯氏は演壇に両手をついて首を垂れていたが、しばらくののち、顔をあげると、つぶやくような声でつづけた。<lb />
-「……午後五時廿分、<span type="ruby"><span type="rb">山際</span><span type="rp">（</span><span type="rt">やまぎわ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">葛野</span><span type="rp">（</span><span type="rt">くずの</span><span type="rp">）</span></span>両勇士<span type="ruby"><span type="rb">麾下</span><span type="rp">（</span><span type="rt">きか</span><span type="rp">）</span></span>の決死隊士によって光華門城頭高く日章旗が掲げられますと、伊藤中佐につづいて、……われわれ……」<lb />
+「……午後五時廿分、<seg type="ruby"><seg type="rb">山際</seg><seg type="rp">（</seg><seg type="rt">やまぎわ</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">葛野</seg><seg type="rp">（</seg><seg type="rt">くずの</seg><seg type="rp">）</seg></seg>両勇士<seg type="ruby"><seg type="rb">麾下</seg><seg type="rp">（</seg><seg type="rt">きか</seg><seg type="rp">）</seg></seg>の決死隊士によって光華門城頭高く日章旗が掲げられますと、伊藤中佐につづいて、……われわれ……」<lb />
 　壇に手をついて、肩で大息をつき、<lb />
 「われわれ、……一同……」<lb />
 　もう、倒れる。……キャラコさんは、夢中になって、われともなく、<lb />
@@ -423,50 +423,50 @@
 　佐伯氏はギョッとしたように、急に顔をあげてキャラコさんのほうを眺めていたが、聴衆のほうへ向き直ると、とつぜん、<lb />
 「申し訳ありません。……実に、どうも、不敵千万な……」<lb />
 　と、いうと、声をあげて演壇の上へ泣き伏してしまった。<lb />
-　講堂の一同は、何事かと眼をそばだてているうちに、佐伯氏は、錯乱したように演壇を駆けおりると、<span type="ruby"><span type="rb">人波</span><span type="rp">（</span><span type="rt">ひとなみ</span><span type="rp">）</span></span>をおしわけながら入口から走り出して行ってしまった。<lb />
+　講堂の一同は、何事かと眼をそばだてているうちに、佐伯氏は、錯乱したように演壇を駆けおりると、<seg type="ruby"><seg type="rb">人波</seg><seg type="rp">（</seg><seg type="rt">ひとなみ</seg><seg type="rp">）</seg></seg>をおしわけながら入口から走り出して行ってしまった。<lb />
 <lb />
-　キャラコさんは、旅の身じたくをして箱根町から<span type="ruby"><span type="rb">発動機艇</span><span type="rp">（</span><span type="rt">モーター・ボート</span><span type="rp">）</span></span>に乗り、<span type="ruby"><span type="rb">湖尻</span><span type="rp">（</span><span type="rt">こじり</span><span type="rp">）</span></span>の桟橋で降りた。<lb />
+　キャラコさんは、旅の身じたくをして箱根町から<seg type="ruby"><seg type="rb">発動機艇</seg><seg type="rp">（</seg><seg type="rt">モーター・ボート</seg><seg type="rp">）</seg></seg>に乗り、<seg type="ruby"><seg type="rb">湖尻</seg><seg type="rp">（</seg><seg type="rt">こじり</seg><seg type="rp">）</seg></seg>の桟橋で降りた。<lb />
 　渚の向うに、毎日、佐伯氏と落ち合っていた疏水の蘆が見える。<lb />
 　いろいろな思いが、しずかに心のうえを流れる。<lb />
 　佐伯氏の過去に、いったいどのような事があったのか察することができないが、なにか、たいへんな不幸か、たいへんな悩みがあったのだという事だけはわかる。あの狂い出したようなようすを見るにつけても、それが、どんなにかひどいものだったろうと、思いやられるのである。<lb />
-　……疏水のほうから、<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>の音がゆるゆると流れてくる。<lb />
-　<span type="ruby"><span type="rb">空耳</span><span type="rp">（</span><span type="rt">そらみみ</span><span type="rp">）</span></span>ではなかった。佐伯氏がいつも吹く、あのやさしげな曲である。<lb />
-　キャラコさんは、なつかしさに耐えられなくなって、<span type="ruby"><span type="rb">小走</span><span type="rp">（</span><span type="rt">こばし</span><span type="rp">）</span></span>りしながら、蘆の間へ入ってゆくと、佐伯氏は<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>を吹いたまま、いつものように、すこし身をすさらせて、キャラコさんの席をつくった。<lb />
-　キャラコさんは、そのそばへ<span type="ruby"><span type="rb">肱</span><span type="rp">（</span><span type="rt">ひじ</span><span type="rp">）</span></span>をくッつけて坐った。<lb />
+　……疏水のほうから、<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>の音がゆるゆると流れてくる。<lb />
+　<seg type="ruby"><seg type="rb">空耳</seg><seg type="rp">（</seg><seg type="rt">そらみみ</seg><seg type="rp">）</seg></seg>ではなかった。佐伯氏がいつも吹く、あのやさしげな曲である。<lb />
+　キャラコさんは、なつかしさに耐えられなくなって、<seg type="ruby"><seg type="rb">小走</seg><seg type="rp">（</seg><seg type="rt">こばし</seg><seg type="rp">）</seg></seg>りしながら、蘆の間へ入ってゆくと、佐伯氏は<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>を吹いたまま、いつものように、すこし身をすさらせて、キャラコさんの席をつくった。<lb />
+　キャラコさんは、そのそばへ<seg type="ruby"><seg type="rb">肱</seg><seg type="rp">（</seg><seg type="rt">ひじ</seg><seg type="rp">）</seg></seg>をくッつけて坐った。<lb />
 　佐伯氏は、もうあの黒い眼鏡をかけていなかった。どうしたのかと思われるほど、いきいきとした顔色をしていた。<lb />
-　楽しそうに、ゆっくりと<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>を吹き終えると、男にしてはすこしやさしすぎる、深く澄んだ眼差しでキャラコさんの顔を眺めながら、いった。<lb />
+　楽しそうに、ゆっくりと<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>を吹き終えると、男にしてはすこしやさしすぎる、深く澄んだ眼差しでキャラコさんの顔を眺めながら、いった。<lb />
 「キャラコさん、私はあなたに、ひどい嘘ばかりついていました。どうか、ゆるしてください。……私の弱さのせいもありますが、それはともかく、そうしなければならない深い事情があったのですから……」<lb />
 　キャラコさんは、黙ってうなずいた。<lb />
 　佐伯氏は、言葉を切ってから、ちょっと例のないほど率直な口調で、<lb />
-「……キャラコさん、驚かないでくださいね。私は、昨年の暮れから世間を騒がせていた三万円の<span type="ruby"><span type="rb">拐帯</span><span type="rp">（</span><span type="rt">かいたい</span><span type="rp">）</span></span>犯人なんです」<lb />
+「……キャラコさん、驚かないでくださいね。私は、昨年の暮れから世間を騒がせていた三万円の<seg type="ruby"><seg type="rb">拐帯</seg><seg type="rp">（</seg><seg type="rt">かいたい</seg><seg type="rp">）</seg></seg>犯人なんです」<lb />
 　キャラコさんは、だまって佐伯氏の顔を眺めていた。自分でもふしぎに思われるほど静かな気持だった。<lb />
 　佐伯氏は、両膝を抱いて、ゆるゆると身体をゆすりながら、<lb />
 「こんな話は、お聞きになりたくもないでしょうが、でも、我慢して、もうすこしきいてください。あなたのご親切を、こんなふうに、長い間裏切っていたおわびのためにも、せめて、そうでもさせていただきたいと思うのです」<lb />
 　キャラコさんは、微笑しながらこたえた。<lb />
-「あたしにお<span type="ruby"><span type="rb">詫</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>びになることなんかいりませんけど、それで気がすむのでしたら、どうぞ、なさりたいようになすって、ちょうだい」<lb />
-　佐伯氏は、<span type="ruby"><span type="rb">湖尻</span><span type="rp">（</span><span type="rt">こじり</span><span type="rp">）</span></span>の汽船発着所のほうへチラと眼を走らせてから、<lb />
-「私は、今あなたが乗っていらしたモーター・ボートで箱根町へ行って自首するつもりなのですから、どっちみち、そんなに長い間お話はできないのです。……もう、時間もありませんから簡単にお話しますが、私も茜も、子供のときから、屈辱や不安や空腹などの鋭い切っ<span type="ruby"><span type="rb">尖</span><span type="rp">（</span><span type="rt">さき</span><span type="rp">）</span></span>に絶間なくおびやかされて来た身の上だったのです。……ようやくの思いで小さな実業学校を出て、長い間就職口を探していますと、ある銀行の課長が私を使ってやってもいいというのです。ただし交換条件がある。……就職させてやるかわりに、茜と秘密の結婚をさせろというのです」<lb />
+「あたしにお<seg type="ruby"><seg type="rb">詫</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>びになることなんかいりませんけど、それで気がすむのでしたら、どうぞ、なさりたいようになすって、ちょうだい」<lb />
+　佐伯氏は、<seg type="ruby"><seg type="rb">湖尻</seg><seg type="rp">（</seg><seg type="rt">こじり</seg><seg type="rp">）</seg></seg>の汽船発着所のほうへチラと眼を走らせてから、<lb />
+「私は、今あなたが乗っていらしたモーター・ボートで箱根町へ行って自首するつもりなのですから、どっちみち、そんなに長い間お話はできないのです。……もう、時間もありませんから簡単にお話しますが、私も茜も、子供のときから、屈辱や不安や空腹などの鋭い切っ<seg type="ruby"><seg type="rb">尖</seg><seg type="rp">（</seg><seg type="rt">さき</seg><seg type="rp">）</seg></seg>に絶間なくおびやかされて来た身の上だったのです。……ようやくの思いで小さな実業学校を出て、長い間就職口を探していますと、ある銀行の課長が私を使ってやってもいいというのです。ただし交換条件がある。……就職させてやるかわりに、茜と秘密の結婚をさせろというのです」<lb />
 　キャラコさんは、思わず眼を閉じた。キャラコさんのような人生の経験の浅いものにも、それからどんな悲劇が起きたのか、これだけ聞くともうなにもかもわかるような気がした。<lb />
 　佐伯氏は、眼に見えぬほど顔を赤らめて、<lb />
-「……どれほど卑屈になじんでいたとはいえ、さすがに、そんなことまでする気にはなれませんでしたが、茜が泣いて説得するので、死んだ気になって承知しました。……そうさえすれば、二人とも、長い貧乏の中から浮びあがれるのですから。……ところが、それもいつまでもつづきませんでした。茜はたった二年で捨てられてしまい、そのあげく、こんどは私を解雇するといい出しました。……私は、貧乏だというだけの理由で、長い間、底知れぬ悪意や不親切や迫害に駆りたてられて、すっかりひねくれてしまい、人生とは、いつか復讐してやる値打のあるものだといつもそう考えていましたので、課長のひどい仕打ちにしかえしをするために、その日、支店へ送るはずの三万円の現金を持ち出してやりました。せめて、それくらいのことをしてやらなければ息がつまりそうだったのです。……それから<span type="ruby"><span type="rb">不埓</span><span type="rp">（</span><span type="rt">ふらち</span><span type="rp">）</span></span>にも<span type="ruby"><span type="rb">傷痍</span><span type="rp">（</span><span type="rt">しょうい</span><span type="rp">）</span></span>軍人になりすまして、茜と二人でほうぼう逃げ廻りました。やって見ると、思いがけなく困難な仕事でしたが、私たちは元気をなくしませんでした。自分のしたことが悪い事だとはどうしても考えられなかったからです。……愚かな話ですが、ざまア見ろとさえ思っていました。そんなにも、心がねじけていたのです」<lb />
+「……どれほど卑屈になじんでいたとはいえ、さすがに、そんなことまでする気にはなれませんでしたが、茜が泣いて説得するので、死んだ気になって承知しました。……そうさえすれば、二人とも、長い貧乏の中から浮びあがれるのですから。……ところが、それもいつまでもつづきませんでした。茜はたった二年で捨てられてしまい、そのあげく、こんどは私を解雇するといい出しました。……私は、貧乏だというだけの理由で、長い間、底知れぬ悪意や不親切や迫害に駆りたてられて、すっかりひねくれてしまい、人生とは、いつか復讐してやる値打のあるものだといつもそう考えていましたので、課長のひどい仕打ちにしかえしをするために、その日、支店へ送るはずの三万円の現金を持ち出してやりました。せめて、それくらいのことをしてやらなければ息がつまりそうだったのです。……それから<seg type="ruby"><seg type="rb">不埓</seg><seg type="rp">（</seg><seg type="rt">ふらち</seg><seg type="rp">）</seg></seg>にも<seg type="ruby"><seg type="rb">傷痍</seg><seg type="rp">（</seg><seg type="rt">しょうい</seg><seg type="rp">）</seg></seg>軍人になりすまして、茜と二人でほうぼう逃げ廻りました。やって見ると、思いがけなく困難な仕事でしたが、私たちは元気をなくしませんでした。自分のしたことが悪い事だとはどうしても考えられなかったからです。……愚かな話ですが、ざまア見ろとさえ思っていました。そんなにも、心がねじけていたのです」<lb />
 　そういって、おだやかな微笑をうかべながらキャラコさんの眼を見かえし、<lb />
-「……ところで、ここであなたにお目にかかるようになってから、とつぜん、私の前に新しい世界がひらけることになりました。……こんな親切な世界もあるのかと、<span type="ruby"><span type="rb">呆気</span><span type="rp">（</span><span type="rt">あっけ</span><span type="rp">）</span></span>にとられてしまったのです。……生まれたときから、ひとの不親切や、意地悪や、悪意ばかり眺めてきた眼には、とても真実なこととは考えられないのでした。……キャラコさん、あなたは、私の眼がかならず<span type="ruby"><span type="rb">癒</span><span type="rp">（</span><span type="rt">なお</span><span type="rp">）</span></span>ると茜におっしゃったそうですね。……実際、その通りでした。……なにも、ドクトルなどを呼んでくださる必要はなかったのです。……あなたの手で、ちゃんと私の視力をとり戻してくださいましたから。……つまり、心の視力をね。……それから、たびたびここであなたと逢って、人間の親切というものを深く心にしめるにつけ、自分のしていることがいかにも<span type="ruby"><span type="rb">果敢</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>なく思われてきて、新しい出発の動機をつくるために自首するといい出しました。……茜は、私の決心がにぶったのだと思って、いろいろな方法でそれを阻止しようとしました。あなたに逢えないようにしたのもそのためです。……しかし、どうか、茜をせめないでください。間違っていようとも、あれは、あれなりの真情で私を愛しているのですから。……嘘だったということは、今日はじめてわかりましたが、茜から、あなたが東京へ行かれたと聞くと、私は<span type="ruby"><span type="rb">闇夜</span><span type="rp">（</span><span type="rt">やみよ</span><span type="rp">）</span></span>の中でとつぜん光明を失ったような気持になって、また決心がにぶり、茜にすすめられて、今日のような<span type="ruby"><span type="rb">不埓</span><span type="rp">（</span><span type="rt">ふらち</span><span type="rp">）</span></span>なまねをいたしましたが、でも、もう大丈夫です。私の決心はぐらつきません。<span type="ruby"><span type="rb">贖罪</span><span type="rp">（</span><span type="rt">しょくざい</span><span type="rp">）</span></span>をして新しく生まれ変わったら、その<span type="ruby"><span type="rb">身装</span><span type="rp">（</span><span type="rt">みな</span><span type="rp">）</span></span>りをお目にかけに行きます。……キャラコさん、私はあなたにひどい嘘をつきましたが、どうぞ、ゆるしてください。あなたにだけは、<span type="ruby"><span type="rb">拐帯</span><span type="rp">（</span><span type="rt">かいたい</span><span type="rp">）</span></span>犯人だということを知られたくなかった。ここで語り合ったあの姿で、あなたの記憶にとどめて置きたかったからです」<lb />
+「……ところで、ここであなたにお目にかかるようになってから、とつぜん、私の前に新しい世界がひらけることになりました。……こんな親切な世界もあるのかと、<seg type="ruby"><seg type="rb">呆気</seg><seg type="rp">（</seg><seg type="rt">あっけ</seg><seg type="rp">）</seg></seg>にとられてしまったのです。……生まれたときから、ひとの不親切や、意地悪や、悪意ばかり眺めてきた眼には、とても真実なこととは考えられないのでした。……キャラコさん、あなたは、私の眼がかならず<seg type="ruby"><seg type="rb">癒</seg><seg type="rp">（</seg><seg type="rt">なお</seg><seg type="rp">）</seg></seg>ると茜におっしゃったそうですね。……実際、その通りでした。……なにも、ドクトルなどを呼んでくださる必要はなかったのです。……あなたの手で、ちゃんと私の視力をとり戻してくださいましたから。……つまり、心の視力をね。……それから、たびたびここであなたと逢って、人間の親切というものを深く心にしめるにつけ、自分のしていることがいかにも<seg type="ruby"><seg type="rb">果敢</seg><seg type="rp">（</seg><seg type="rt">はか</seg><seg type="rp">）</seg></seg>なく思われてきて、新しい出発の動機をつくるために自首するといい出しました。……茜は、私の決心がにぶったのだと思って、いろいろな方法でそれを阻止しようとしました。あなたに逢えないようにしたのもそのためです。……しかし、どうか、茜をせめないでください。間違っていようとも、あれは、あれなりの真情で私を愛しているのですから。……嘘だったということは、今日はじめてわかりましたが、茜から、あなたが東京へ行かれたと聞くと、私は<seg type="ruby"><seg type="rb">闇夜</seg><seg type="rp">（</seg><seg type="rt">やみよ</seg><seg type="rp">）</seg></seg>の中でとつぜん光明を失ったような気持になって、また決心がにぶり、茜にすすめられて、今日のような<seg type="ruby"><seg type="rb">不埓</seg><seg type="rp">（</seg><seg type="rt">ふらち</seg><seg type="rp">）</seg></seg>なまねをいたしましたが、でも、もう大丈夫です。私の決心はぐらつきません。<seg type="ruby"><seg type="rb">贖罪</seg><seg type="rp">（</seg><seg type="rt">しょくざい</seg><seg type="rp">）</seg></seg>をして新しく生まれ変わったら、その<seg type="ruby"><seg type="rb">身装</seg><seg type="rp">（</seg><seg type="rt">みな</seg><seg type="rp">）</seg></seg>りをお目にかけに行きます。……キャラコさん、私はあなたにひどい嘘をつきましたが、どうぞ、ゆるしてください。あなたにだけは、<seg type="ruby"><seg type="rb">拐帯</seg><seg type="rp">（</seg><seg type="rt">かいたい</seg><seg type="rp">）</seg></seg>犯人だということを知られたくなかった。ここで語り合ったあの姿で、あなたの記憶にとどめて置きたかったからです」<lb />
 　プツンと言葉を切ると、蘆の間でゆるゆると身体を起こしながら、<lb />
-「……さあ、ずいぶんしゃべった。……では、そろそろ出かけることにしましょう。……いつか、私がそういいましたね。なんでもなくしてくださったあなたの親切が、私にどんなたいへんな影響をあたえたか、いつか必ずわかるときが来るって。……つまり、これが、その<span type="ruby"><span type="rb">結果</span><span type="rp">（</span><span type="rt">レジュルタ</span><span type="rp">）</span></span>です」<lb />
+「……さあ、ずいぶんしゃべった。……では、そろそろ出かけることにしましょう。……いつか、私がそういいましたね。なんでもなくしてくださったあなたの親切が、私にどんなたいへんな影響をあたえたか、いつか必ずわかるときが来るって。……つまり、これが、その<seg type="ruby"><seg type="rb">結果</seg><seg type="rp">（</seg><seg type="rt">レジュルタ</seg><seg type="rp">）</seg></seg>です」<lb />
 <lb />
-　キャラコさんは、<span type="ruby"><span type="rb">発動機艇</span><span type="rp">（</span><span type="rt">モーター・ボート</span><span type="rp">）</span></span>の桟橋まで佐伯氏を送って行った。<lb />
-　<span type="ruby"><span type="rb">発動機艇</span><span type="rp">（</span><span type="rt">モーター・ボート</span><span type="rp">）</span></span>は渚を離れた。<lb />
-　佐伯氏は船尾に坐って、ゆるゆると<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>を吹いている。<lb />
+　キャラコさんは、<seg type="ruby"><seg type="rb">発動機艇</seg><seg type="rp">（</seg><seg type="rt">モーター・ボート</seg><seg type="rp">）</seg></seg>の桟橋まで佐伯氏を送って行った。<lb />
+　<seg type="ruby"><seg type="rb">発動機艇</seg><seg type="rp">（</seg><seg type="rt">モーター・ボート</seg><seg type="rp">）</seg></seg>は渚を離れた。<lb />
+　佐伯氏は船尾に坐って、ゆるゆると<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>を吹いている。<lb />
 　岸では、キャラコさんが長い蘆を振ってわかれの挨拶をする。<lb />
-　<span type="ruby"><span type="rb">発動機艇</span><span type="rp">（</span><span type="rt">モーター・ボート</span><span type="rp">）</span></span>の影が見えなくなっても、<span type="ruby"><span type="rb">木笛</span><span type="rp">（</span><span type="rt">フリュート</span><span type="rp">）</span></span>の音はまだきこえていた。<lb />
-　次の日のひるごろ、キャラコさんと茜さんは、<span type="ruby"><span type="rb">長尾</span><span type="rp">（</span><span type="rt">ながお</span><span type="rp">）</span></span>峠の頂上に立っていた。眼のしたに、<span type="ruby"><span type="rb">蘆</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">湖</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>が、古鏡のように、にぶく光っている。<lb />
-　キャラコさんは、ここから<span type="ruby"><span type="rb">御殿場</span><span type="rp">（</span><span type="rt">ごてんば</span><span type="rp">）</span></span>のほうへくだり、茜さんは、<span type="ruby"><span type="rb">仙石原</span><span type="rp">（</span><span type="rt">せんごくばら</span><span type="rp">）</span></span>のほうへおりて、それから東京へ<span type="ruby"><span type="rb">職業</span><span type="rp">（</span><span type="rt">しごと</span><span type="rp">）</span></span>をさがしに行くのである。<lb />
+　<seg type="ruby"><seg type="rb">発動機艇</seg><seg type="rp">（</seg><seg type="rt">モーター・ボート</seg><seg type="rp">）</seg></seg>の影が見えなくなっても、<seg type="ruby"><seg type="rb">木笛</seg><seg type="rp">（</seg><seg type="rt">フリュート</seg><seg type="rp">）</seg></seg>の音はまだきこえていた。<lb />
+　次の日のひるごろ、キャラコさんと茜さんは、<seg type="ruby"><seg type="rb">長尾</seg><seg type="rp">（</seg><seg type="rt">ながお</seg><seg type="rp">）</seg></seg>峠の頂上に立っていた。眼のしたに、<seg type="ruby"><seg type="rb">蘆</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">湖</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>が、古鏡のように、にぶく光っている。<lb />
+　キャラコさんは、ここから<seg type="ruby"><seg type="rb">御殿場</seg><seg type="rp">（</seg><seg type="rt">ごてんば</seg><seg type="rp">）</seg></seg>のほうへくだり、茜さんは、<seg type="ruby"><seg type="rb">仙石原</seg><seg type="rp">（</seg><seg type="rt">せんごくばら</seg><seg type="rp">）</seg></seg>のほうへおりて、それから東京へ<seg type="ruby"><seg type="rb">職業</seg><seg type="rp">（</seg><seg type="rt">しごと</seg><seg type="rp">）</seg></seg>をさがしに行くのである。<lb />
 　いよいよ別れる時がくると、茜さんが、いった。<lb />
-「兄は、ほんとうにあなたを愛していたのではないでしょうか。あなたが<span type="ruby"><span type="rb">立上</span><span type="rp">（</span><span type="rt">たてがみ</span><span type="rp">）</span></span>氏を呼んだと聞くとその夜、兄は<span type="ruby"><span type="rb">夜半</span><span type="rp">（</span><span type="rt">よなか</span><span type="rp">）</span></span>にそっと起きあがって、<span type="ruby"><span type="rb">稀塩酸</span><span type="rp">（</span><span type="rt">きえんさん</span><span type="rp">）</span></span>でじぶんの眼をつぶそうとしているのです。必死なようすでしたわ。……あなたにだけは嘘つきだと思われたくなかったのでしょう。……これだけ申しあげたら、この間、あたしがなぜあんなひどいことをいったか、わかってくださるでしょう。……ほんとうに、ごめんなさいね。……でも、あたしにすれば、あなたより、やはり兄の眼のほうが大切だったのですから……」<lb />
+「兄は、ほんとうにあなたを愛していたのではないでしょうか。あなたが<seg type="ruby"><seg type="rb">立上</seg><seg type="rp">（</seg><seg type="rt">たてがみ</seg><seg type="rp">）</seg></seg>氏を呼んだと聞くとその夜、兄は<seg type="ruby"><seg type="rb">夜半</seg><seg type="rp">（</seg><seg type="rt">よなか</seg><seg type="rp">）</seg></seg>にそっと起きあがって、<seg type="ruby"><seg type="rb">稀塩酸</seg><seg type="rp">（</seg><seg type="rt">きえんさん</seg><seg type="rp">）</seg></seg>でじぶんの眼をつぶそうとしているのです。必死なようすでしたわ。……あなたにだけは嘘つきだと思われたくなかったのでしょう。……これだけ申しあげたら、この間、あたしがなぜあんなひどいことをいったか、わかってくださるでしょう。……ほんとうに、ごめんなさいね。……でも、あたしにすれば、あなたより、やはり兄の眼のほうが大切だったのですから……」<lb />
 　二人は、右と左にわかれた。互いの姿が見えなくなるまで、手をふりながら。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

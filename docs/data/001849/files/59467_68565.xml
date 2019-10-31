@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>モンテーニュ随想録</title>
+        <author>関根秀雄</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-07-16">作成</resp><resp /><note>
+<lb />
+底本：「モンテーニュ随想録」国書刊行会<lb />
+　　　2014（平成26）年2月28日初版第1刷発行<lb />
+底本の親本：「随想録」新潮社<lb />
+　　　1970（昭和45）年1月30日発行<lb />
+入力：戸部松実<lb />
+校正：大久保ゆう、雪森、富田晶子<lb />
+<date when="2019-07-16">2019年7月16日</date>作成<lb />
+青空文庫収録ファイル：<lb />
+このファイルは、著作権継承者の意思により、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）に収録されています。<lb />
+<lb />
+この作品は、クリエイティブ・コモンズ「表示-非営利-改変禁止 2.1 日本」でライセンスされています。利用条件は、https://creativecommons.org/licenses/by-nc-nd/2.1/jp/を参照してください。<lb />
+<lb />
+<lb />
+</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>戸部松実</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>大久保ゆう、雪森、富田晶子</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>モンテーニュ随想録</title><author>関根秀雄</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、本書は、いわゆるボルドー本のテキストを、その忠実精確な複製というべき</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　F. Strowski, F. Gebelin &amp; P. Villey: <seg rend="shatai" rendition="span">Essais de Montaigne</seg>, 3 vol., 1906-1919 (Edition municipale de la ville de Bordeaux, imprim<seg facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />e par F. Peck)</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　Villey: <seg rend="shatai" rendition="span">Essais de Montaigne</seg>, 3 vol., 1922 (F. Alcan)</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　Armaingaud: <seg rend="shatai" rendition="span">Essais de Montaigne</seg>, 6 vol., 1924-1927 (L. Conard)</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　Albert Thibaudet: <seg rend="shatai" rendition="span">Essais de Montaigne</seg>, 1 vol., 1939 (Biblioth<seg facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />que Pl<seg facs="../../../gaiji/1-09/1-09-63.png" rend="gaiji" rendition="img" source="※(アキュートアクセント付きE小文字)" />iade)</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　によって、和訳したものである。</seg>
+<lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、<seg rendition="span" style="ltr">（a）</seg><seg rendition="span" style="ltr">（b）</seg><seg rendition="span" style="ltr">（c）</seg>は、テキストの時期を標示する。すなわち、</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　<seg rendition="span" style="ltr">（a）</seg>は一五八〇年または八二年版のテキストを、</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　<seg rendition="span" style="ltr">（b）</seg>は一五八八年版のテキストを、</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">　<seg rendition="span" style="ltr">（c）</seg>はそれ以後に書き加えられたテキストを、示す。</seg>
+<lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、原書におけるラテンあるいはギリシア語の引用句は、原書にはその出典が示されていないが、本書では括弧の中に著者名だけを簡単に付記した。これらの古人の句は、モンテーニュが自分の意見を支持したり、それにもったいをつけるためであったり、或いは単なるユマニストとしての装飾にすぎなかった場合もあるが、時にはそこにモンテーニュの真意がひそかにかくされていたり、或いはそれが大胆な自分の意見の責任を表面上古人に転嫁するカムフラージュ、ないしファナチックな人々や官権の攻撃をさける避雷針であったりした。</seg>
+<lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、引用句の出所はボルドー本には記載されていないが、近世の諸版には欄外にその仏訳文と共に一々註記せられているので大体それに準拠した。しかし、例えばアウル・ゲリウスの『アッチカ夜話』の中に引用されているプブリウス・シルスの語である場合は、（アウル・ゲリウス）とせず（プブリウス・シルス）とした。</seg>
+<lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、パラグラフの切り方は大体 Villey によったのであるが、原著者の各時期における添加が前後の連絡を余りに不明にしている場合には、Trechmann の英訳本などにならってそれを幾項かに細分したこともある。</seg>
+<lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、古代人の名前は初訳においてはおおむねギリシア・ローマの別なくラテン読みにした。原書では、ポンペイウス―ポンペ、カエサル―セザール、セネカ―セネクと、二様に書かれ、ホメロスは常にオメールとフランス風に書かれているというふうに一定していないので、それぞれ読者にわかりよい呼び方にしたがうことを旨とし、厳格な規準をたてなかったのである。しかしこんどの新訳においては、いくらかモンテーニュの嫌った衒学のきらいもあるが時代の要請にしたがってその後出版された各種百科事典、文学事典に用いられている呼び名に従った。</seg>
+<lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、註は簡単なものは本文中〔　〕内におき、やや長いものは各パラグラフの直後に＊＊＊印のもとにおいた。その言句の引用されている古人をはじめ、歴史上の人物・事件等についても一々註をつけたかったが、百科事典等に出ているものははぶいて最小限にとどめた。ただ、著者の真意が見落されがちな場合や、誤解されそうな場合などにはやや長い註を加えた。その方が出典などを一々註するより、一般読者の役に立つであろうと思ったからである。</seg>
+<lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、各章の標題と本文の間においた細字の解説は、巻頭の解説「モンテーニュの知恵」や巻末の年表の延長ないし補足である。すなわちその章の重要な意味をあらかじめ示し、特にその章の含む現代的意味を指摘し、あわせて『随想録』の他の部分との関連を示したのである。</seg>
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

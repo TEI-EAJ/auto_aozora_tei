@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2001-08-24">作成</resp><resp /><note>
 <lb />
-底本：「日本の名随筆　別巻11　囲碁2<span rend="notes">［＃「2」はローマ数字、1-13-22］</span>」作品社
+底本：「日本の名随筆　別巻11　囲碁2<seg rend="notes" rendition="span">［＃「2」はローマ数字、1-13-22］</seg>」作品社
 <lb />
 　　　1992（平成4）年1月25日第1刷発行<lb />
 底本の親本：「日本評論」<lb />
@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -129,6 +129,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

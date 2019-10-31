@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -52,7 +52,7 @@
 四囲の山何ぞ青き<lb />
 加茂の水何ぞ清き<lb />
 空の星何ぞ高き<lb />
-朝の風何ぞ<span type="ruby"><span type="rb">爽</span><span type="rp">（</span><span type="rt">さは</span><span type="rp">）</span></span>き<lb />
+朝の風何ぞ<seg type="ruby"><seg type="rb">爽</seg><seg type="rp">（</seg><seg type="rt">さは</seg><seg type="rp">）</seg></seg>き<lb />
 <lb />
 一函の書に千古の智恵あり<lb />
 以て英雄と共に語るを得べし<lb />
@@ -66,7 +66,7 @@
 <lb />
 翁は机に凭れ<lb />
 媼は針にあり<lb />
-婦は<span type="ruby"><span type="rb">厨</span><span type="rp">（</span><span type="rt">くりや</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">急</span><span type="rp">（</span><span type="rt">せ</span><span type="rp">）</span></span>はしく<lb />
+婦は<seg type="ruby"><seg type="rb">厨</seg><seg type="rp">（</seg><seg type="rt">くりや</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">急</seg><seg type="rp">（</seg><seg type="rt">せ</seg><seg type="rp">）</seg></seg>はしく<lb />
 児は万歳を舞ふ<lb />
 <lb />
 感謝して日光を迎へ<lb />
@@ -79,6 +79,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

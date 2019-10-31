@@ -32,9 +32,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 丘のすそに池がある<lb />
-丘の<span type="ruby"><span type="rb">薄</span><span type="rp">（</span><span type="rt">すすき</span><span type="rp">）</span></span>は銀のヴェールである<lb />
+丘の<seg type="ruby"><seg type="rb">薄</seg><seg type="rp">（</seg><seg type="rt">すすき</seg><seg type="rp">）</seg></seg>は銀のヴェールである<lb />
 丘の上につくりもののトオチカがある<lb />
 照準の中へトオチカの銃眼をおさめておいて<lb />
 おれは一服やらかした<lb />
@@ -47,6 +47,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

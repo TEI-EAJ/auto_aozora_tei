@@ -33,16 +33,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 いねかけ<lb />
 ゆツさゆさ<lb />
 <lb />
-<span type="ruby"><span type="rb">雀</span><span type="rp">（</span><span type="rt">すずめ</span><span type="rp">）</span></span>の子どもがあそんでた<lb />
+<seg type="ruby"><seg type="rb">雀</seg><seg type="rp">（</seg><seg type="rt">すずめ</seg><seg type="rp">）</seg></seg>の子どもがあそんでた<lb />
 <lb />
 いねかけ<lb />
 ゆツさゆさ<lb />
 <lb />
-すずめのこどもが<span type="ruby"><span type="rb">喧嘩</span><span type="rp">（</span><span type="rt">けんくわ</span><span type="rp">）</span></span>した<lb />
+すずめのこどもが<seg type="ruby"><seg type="rb">喧嘩</seg><seg type="rp">（</seg><seg type="rt">けんくわ</seg><seg type="rp">）</seg></seg>した<lb />
 <lb />
 いねかけ<lb />
 ゆツさゆさ<lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

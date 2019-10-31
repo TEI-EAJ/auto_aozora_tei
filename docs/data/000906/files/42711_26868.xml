@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-05-06">作成</resp><resp /><note>
 <lb />
-底本：「豊島与志雄著作集　第四巻（小説４<span rend="notes">［＃「４」はローマ数字4、1-13-24］</span>）」未来社
+底本：「豊島与志雄著作集　第四巻（小説４<seg rend="notes" rendition="span">［＃「４」はローマ数字4、1-13-24］</seg>）」未来社
 <lb />
 　　　1965（昭和40）年6月25日第1刷発行<lb />
 初出：「公論」<lb />
@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -136,6 +136,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

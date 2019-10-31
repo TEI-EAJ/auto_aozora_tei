@@ -37,14 +37,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 <lb />
 夏の野に幻の破片きらめけり<lb />
 <lb />
-短夜を※<span rend="notes">［＃「血＋卜」、232-3、読みは「たお」か］</span>れし山河叫び合ふ<lb />
+短夜を※<seg rend="notes" rendition="span">［＃「血＋卜」、232-3、読みは「たお」か］</seg>れし山河叫び合ふ<lb />
 <lb />
 炎の樹雷雨の空に舞ひ上る<lb />
 <lb />
@@ -64,6 +64,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

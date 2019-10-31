@@ -34,22 +34,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">１</span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">１</seg></seg>
 <lb />
 Kiosque au Rimbaud<lb />
-<span rend="yokogumi">“Marila”</span> <span facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" /> la main,<lb />
+<seg rend="yokogumi" rendition="span">“Marila”</seg> <seg facs="../../../gaiji/1-09/1-09-54.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA小文字)" /> la main,<lb />
 Le ciel est beau,<lb />
 Eh ! tout le sang est Pain.<lb />
 <lb />
-<span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">２</span></span>
+<seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">２</seg></seg>
 <lb />
-Ne voici le po<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />te,<lb />
-Mille familles dans le m<span facs="../../../gaiji/1-09/1-09-64.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きE小文字)" />me toit<lb />
-Revoici le po<span facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />te :<lb />
+Ne voici le po<seg facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />te,<lb />
+Mille familles dans le m<seg facs="../../../gaiji/1-09/1-09-64.png" rend="gaiji" rendition="img" source="※(サーカムフレックスアクセント付きE小文字)" />me toit<lb />
+Revoici le po<seg facs="../../../gaiji/1-09/1-09-62.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きE小文字)" />te :<lb />
 On ne fait que le droit.<lb />
 <lb />
-<span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">３</span></span>
+<seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">３</seg></seg>
 <lb />
 Que Dieu le luise et le pose !<lb />
 Qu'il ne voie pas ouvrir<lb />
@@ -58,6 +58,6 @@ Parmi les flots : les martyrs !<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

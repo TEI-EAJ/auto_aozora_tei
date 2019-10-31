@@ -33,14 +33,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">歌謠各句索引凡例</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">歌謠各句索引凡例</seg></seg></seg>
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、古事記の全歌謠のすべての句の索引である。一つの歌謠に同一の句が二句以上あるものは、一つだけ出した。</span>
-<span rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、「い」と「ゐ」、「え」と「ゑ」、「お」と「を」とは、それぞれ合併した。所在を示す數字は、歌謠の番號によつた。この番號は、本書の書き下し文の各歌謠の終りに記してある。</span>
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、古事記の全歌謠のすべての句の索引である。一つの歌謠に同一の句が二句以上あるものは、一つだけ出した。</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 1em; text-indent: -1em;">一、「い」と「ゐ」、「え」と「ゑ」、「お」と「を」とは、それぞれ合併した。所在を示す數字は、歌謠の番號によつた。この番號は、本書の書き下し文の各歌謠の終りに記してある。</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">あ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">あ</seg></seg></seg>
 <lb />
 ああ、しやこしや　　　　　　一〇<lb />
 あをかき　　　　　　　　　　三一<lb />
@@ -124,7 +124,7 @@
 あれはわすれじ　　　　　　　一三<lb />
 あわゆきの　　　　　　　　　四　六<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">い　ゐ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">い　ゐ</seg></seg></seg>
 <lb />
 いをしなせ　　　　　　　　　六<lb />
 いかくるをかを　　　　　　　一〇〇<lb />
@@ -205,7 +205,7 @@
 いりをりとも　　　　　　　　一一<lb />
 いりたたずあり　　　　　　　一〇八<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">う</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">う</seg></seg></seg>
 <lb />
 うゑぐさ　　　　　　　　　　三七<lb />
 うゑしはじかみ　　　　　　　一二<lb />
@@ -246,7 +246,7 @@
 うるはしみおもふ　　　　　　四七<lb />
 うれたくも　　　　　　　　　二<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">え　ゑ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">え　ゑ</seg></seg></seg>
 <lb />
 ええ、しやこしや　　　　　　一一<lb />
 えをしまかむ　　　　　　　　一七<lb />
@@ -254,7 +254,7 @@
 えのうらばは　　　　　　　　一〇一<lb />
 ゑみさかえきえ　　　　　　　四五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">お　を</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">お　を</seg></seg></seg>
 <lb />
 おいにけるかも　　　　　　　九四<lb />
 おきつとり　　　　　　　　　五　九<lb />
@@ -313,7 +313,7 @@
 をゆきあへ　　　　　　　　　一〇三<lb />
 おろすはた　　　　　　　　　六七<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">か</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">か</seg></seg></seg>
 <lb />
 かがなべて　　　　　　　　　二七<lb />
 かがみをかけ　　　　　　　　九一<lb />
@@ -370,7 +370,7 @@
 かるをとめども　　　　　　　八五<lb />
 かるのをとめ　　　　　　　　八四<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">き</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">き</seg></seg></seg>
 <lb />
 きいりをり　　　　　　　　　一一<lb />
 きいりまゐくれ　　　　　　　六四<lb />
@@ -388,7 +388,7 @@
 きもむかふ　　　　　　　　　六一<lb />
 きれむしばかき　　　　　　　一一〇<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">く</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi90">く</seg></seg></seg>
 <lb />
 くちひひく　　　　　　　　　一三<lb />
 くさかえの　　　　　　　　　九六<lb />
@@ -411,12 +411,12 @@
 くろきみけしを　　　　　　　五<lb />
 くろざやの　　　　　　　　　五三<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">け</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">け</seg></seg></seg>
 <lb />
 けながくなりぬ　　　　　　　八九<lb />
 けふもかも　　　　　　　　　一〇三<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">こ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110">こ</seg></seg></seg>
 <lb />
 こをば　　　　　　　　　　　二　三　四　五　一〇一　一〇二　一〇三<lb />
 こきしひゑね　　　　　　　　一〇<lb />
@@ -460,7 +460,7 @@
 こやるこやりも　　　　　　　九〇<lb />
 これはふさはず　　　　　　　五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">さ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">さ</seg></seg></seg>
 <lb />
 さゐがはよ　　　　　　　　　二一<lb />
 さをとりに　　　　　　　　　五一<lb />
@@ -493,7 +493,7 @@
 さわさわに　　　　　　　　　六四<lb />
 さわたるくび　　　　　　　　二八<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">し</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">し</seg></seg></seg>
 <lb />
 しがあまり　　　　　　　　　七五<lb />
 しがあれば　　　　　　　　　一一一<lb />
@@ -541,7 +541,7 @@
 しろただむき　　　　　　　　六二<lb />
 しろたへの　　　　　　　　　九八<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">す</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi140">す</seg></seg></seg>
 <lb />
 すゑふゆ　　　　　　　　　　四八<lb />
 すゑべは　　　　　　　　　　五二　九二<lb />
@@ -555,7 +555,7 @@
 すみかたぶけり　　　　　　　一〇六<lb />
 すみかたぶけれ　　　　　　　一〇七<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">そ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi150">そ</seg></seg></seg>
 <lb />
 そがはの　　　　　　　　　　一〇二<lb />
 そきをりとも　　　　　　　　五六<lb />
@@ -578,7 +578,7 @@
 そらみつ　　　　　　　　　　七二　七三　九八<lb />
 そらはゆかず　　　　　　　　三六<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">た</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi160">た</seg></seg></seg>
 <lb />
 たかきに　　　　　　　　　　一〇<lb />
 たかさじのを　　　　　　　　一六<lb />
@@ -625,14 +625,14 @@
 たれぞ　　　　　　　　　　　九八<lb />
 たわやかひなを　　　　　　　二八<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi170">ち</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi170">ち</seg></seg></seg>
 <lb />
 ちどりましとど　　　　　　　一八<lb />
 ちばの　　　　　　　　　　　四二<lb />
 ちはやひと　　　　　　　　　五二<lb />
 ちはやぶる　　　　　　　　　五一<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi180">つ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi180">つ</seg></seg></seg>
 <lb />
 つきあまし　　　　　　　　　九五<lb />
 つきがえは　　　　　　　　　一〇一<lb />
@@ -656,12 +656,12 @@
 つまもたせらめ　　　　　　　六<lb />
 つるぎのたち　　　　　　　　三四<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi190">て</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi190">て</seg></seg></seg>
 <lb />
 てりいまし　　　　　　　　　五八<lb />
 てりいます　　　　　　　　　一〇二<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">と</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi200">と</seg></seg></seg>
 <lb />
 とかまに　　　　　　　　　　二八<lb />
 とこのべに　　　　　　　　　三四<lb />
@@ -681,7 +681,7 @@
 とりもつかひぞ　　　　　　　八六<lb />
 とりよそひ　　　　　　　　　五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">な</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi210">な</seg></seg></seg>
 <lb />
 なをきて　　　　　　　　　　六<lb />
 なをりをみれば　　　　　　　一〇九<lb />
@@ -711,7 +711,7 @@
 なみだぐましも　　　　　　　六三<lb />
 ならをすぎ　　　　　　　　　五九<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">に</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi220">に</seg></seg></seg>
 <lb />
 にぐろきゆゑ　　　　　　　　四三<lb />
 にげのぼりし　　　　　　　　九九<lb />
@@ -723,7 +723,7 @@
 にひばり　　　　　　　　　　二六<lb />
 にほどりの　　　　　　　　　三九<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">ぬ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi230">ぬ</seg></seg></seg>
 <lb />
 ぬえくさの　　　　　　　　　三<lb />
 ぬえはなきぬ　　　　　　　　二<lb />
@@ -732,7 +732,7 @@
 ぬなはくり　　　　　　　　　四五<lb />
 ぬばたまの　　　　　　　　　四　五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">ね</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi240">ね</seg></seg></seg>
 <lb />
 ねしくをしぞも　　　　　　　四七<lb />
 ねじろの　　　　　　　　　　六二<lb />
@@ -740,14 +740,14 @@
 ねばふみや　　　　　　　　　一〇一<lb />
 ねむとしりせば　　　　　　　七六<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">の</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi250">の</seg></seg></seg>
 <lb />
 のちは　　　　　　　　　　　三<lb />
 のちもくみねむ　　　　　　　九二<lb />
 のちもとりみる　　　　　　　九〇<lb />
 のびるつみに　　　　　　　　四四<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">は</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi260">は</seg></seg></seg>
 <lb />
 はかせるたち　　　　　　　　四八<lb />
 はけるたち　　　　　　　　　二四<lb />
@@ -777,7 +777,7 @@
 はらにある　　　　　　　　　六一<lb />
 はりのきのえだ　　　　　　　九九<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">ひ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi270">ひ</seg></seg></seg>
 <lb />
 ひがかくらば　　　　　　　　四<lb />
 ひがけるみや　　　　　　　　一〇一<lb />
@@ -811,7 +811,7 @@
 ひろりいまし　　　　　　　　一〇二<lb />
 ひろりいますは　　　　　　　五八<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">ふ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi280">ふ</seg></seg></seg>
 <lb />
 ふたわたらす　　　　　　　　七<lb />
 ふなあまり　　　　　　　　　八七<lb />
@@ -820,12 +820,12 @@
 ふるくまが　　　　　　　　　三九<lb />
 ふれたつ　　　　　　　　　　七五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi290">へ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi290">へ</seg></seg></seg>
 <lb />
 へぐりのやまの　　　　　　　三二　九二<lb />
 へつなみ　　　　　　　　　　五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">ほ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi300">ほ</seg></seg></seg>
 <lb />
 ほぎくるほし　　　　　　　　四〇<lb />
 ほぎもとほし　　　　　　　　四〇<lb />
@@ -838,7 +838,7 @@
 ほなかにたちて　　　　　　　二五<lb />
 ほむだの　　　　　　　　　　四八<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi310">ま</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi310">ま</seg></seg></seg>
 <lb />
 まかずけばこそ　　　　　　　六二<lb />
 まかむとは　　　　　　　　　二八<lb />
@@ -865,7 +865,7 @@
 まよがき　　　　　　　　　　四三<lb />
 まろがち　　　　　　　　　　四九<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi320">み</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi320">み</seg></seg></seg>
 <lb />
 みえしのの　　　　　　　　　九八<lb />
 みえずかもあらむ　　　　　　一一三<lb />
@@ -898,7 +898,7 @@
 みやひとの　　　　　　　　　八三<lb />
 みやまがくりて　　　　　　　一一三<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi330">む</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi330">む</seg></seg></seg>
 <lb />
 むかひをるかも　　　　　　　四三<lb />
 むかへをゆかむ　　　　　　　八九<lb />
@@ -906,12 +906,12 @@
 むなみるとき　　　　　　　　五<lb />
 むらとりの　　　　　　　　　六<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi340">め</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi340">め</seg></seg></seg>
 <lb />
 めどりの　　　　　　　　　　六七<lb />
 めにしあれば　　　　　　　　三　六<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi350">も</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi350">も</seg></seg></seg>
 <lb />
 もちてこましもの　　　　　　七六<lb />
 もとつるぎ　　　　　　　　　四八<lb />
@@ -926,7 +926,7 @@
 もゆるいへむら　　　　　　　七七<lb />
 もゆるひの　　　　　　　　　二五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi360">や</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi360">や</seg></seg></seg>
 <lb />
 やがたくとらせ　　　　　　　一〇四<lb />
 やがはえなす　　　　　　　　六四<lb />
@@ -962,7 +962,7 @@
 やまのかひに　　　　　　　　九二<lb />
 やみししの　　　　　　　　　九九<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi370">ゆ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi370">ゆ</seg></seg></seg>
 <lb />
 ゆくはたがつま　　　　　　　五七<lb />
 ゆつまつばき　　　　　　　　五八　一〇二<lb />
@@ -972,7 +972,7 @@
 ゆゆしきかも　　　　　　　　九三<lb />
 ゆらのとの　　　　　　　　　七五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi380">よ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi380">よ</seg></seg></seg>
 <lb />
 よくすをつくり　　　　　　　四九<lb />
 よくすに　　　　　　　　　　四九<lb />
@@ -987,7 +987,7 @@
 よらしな　　　　　　　　　　四四<lb />
 よりねてとほれ　　　　　　　八五<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi390">わ</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi390">わ</seg></seg></seg>
 <lb />
 わが　　　　　　　　　　　　五九　九九<lb />
 わがゐねし　　　　　　　　　九<lb />
@@ -1033,6 +1033,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>日本婦道記</title>
+        <author>山本周五郎</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-04-26">作成</resp><resp /><note>
+<lb />
+底本：「山本周五郎全集第二巻　日本婦道記・柳橋物語」新潮社<lb />
+　　　1981（昭和56）年9月15日発行<lb />
+　　　1981（昭和56）年10月25日2刷<lb />
+初出：「婦人倶楽部」大日本雄辯會講談社<lb />
+　　　1944（昭和19）年4月<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：特定非営利活動法人はるかぜ<lb />
+校正：酒井和郎<lb />
+<date when="2019-04-26">2019年4月26日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>特定非営利活動法人はるかぜ</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>酒井和郎</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>日本婦道記</title><author>山本周五郎</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">一</seg></seg></seg>
+<lb />
+「そういう高価なものは困りますよ、そちらの<seg type="ruby"><seg type="rb">鮒</seg><seg type="rp">（</seg><seg type="rt">ふな</seg><seg type="rp">）</seg></seg>を貰っておきましょう」<lb />
+　書庫へ本を取りにいった戻りにふとそういう妻の声をきいて、<seg type="ruby"><seg type="rb">太宰</seg><seg type="rp">（</seg><seg type="rt">だざい</seg><seg type="rp">）</seg></seg>は廊下の端にたちどまった。相手はいつも舟で小魚を売りに来る<seg type="ruby"><seg type="rb">弥五</seg><seg type="rp">（</seg><seg type="rt">やご</seg><seg type="rp">）</seg></seg>という老漁夫らしい、「そんなことを<seg type="ruby"><seg type="rb">仰</seg><seg type="rp">（</seg><seg type="rt">おっ</seg><seg type="rp">）</seg></seg>しゃらないで買って下さいまし、こちらの旦那さまにあがって頂こうと思って、ほかの家の前を素通りして持って来たんですから」<seg type="ruby"><seg type="rb">諄々</seg><seg type="rp">（</seg><seg type="rt">くどくど</seg><seg type="rp">）</seg></seg>とそういうのが聞えた。<lb />
+「とにかく鮒なら貰います、よかったらいつもほど置いていらっしゃい」<lb />
+「さようでございますか、あてにして来たんですがな、少しでも買って頂きたいんですが、値段だってこちらさまで高いと仰しゃるほどじゃあございませんでしょう」<lb />
+　老人はなおぶつぶつ云っていたが、間もなく、<seg type="ruby"><seg type="rb">魚籠</seg><seg type="rp">（</seg><seg type="rt">びく</seg><seg type="rp">）</seg></seg>を担いで<seg type="ruby"><seg type="rb">厨口</seg><seg type="rp">（</seg><seg type="rt">くりやぐち</seg><seg type="rp">）</seg></seg>の方から出て来た。そこから庭つづきに湖へ桟橋が架け出してある。その脇の<seg type="ruby"><seg type="rb">枯蘆</seg><seg type="rp">（</seg><seg type="rt">かれあし</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">汀</seg><seg type="rp">（</seg><seg type="rt">みぎわ</seg><seg type="rp">）</seg></seg>にもやっている老人の小舟がみえた。<lb />
+「おい弥五」太宰は廊下から呼びかけた、「今日はなにを持って来たのだ」<lb />
+「ああ旦那さま」老人はびっくりして頬冠りをとった、「……なに珍らしく<seg rend="sesame_dot" rendition="em">ひがい</seg>が<seg type="ruby"><seg type="rb">獲</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>れたものですからね、御好物だと聞いたもんで持ってあがったんですが」<lb />
+「それは久しぶりだな、どのくらいある」<lb />
+「ほんの四五十もございますかね」<lb />
+「みんな貰っておこう」妻のほうへ聞えるようにかれはそう云った、「……それから弥五、おまえ正月の<seg type="ruby"><seg type="rb">鴨</seg><seg type="rp">（</seg><seg type="rt">かも</seg><seg type="rp">）</seg></seg>を持って来なかったようだがどうしたのだ」<lb />
+「へえ、それはその、なんです」<lb />
+　老人は困ったような顔つきで、もじもじと厨口のほうを見やった。太宰はやっぱりそうかという気持で思わず声が高くなった。<lb />
+「約束したら持って来なければだめではないか、もう手にはいるあてはないのか」<lb />
+「あての無いこともございませんが、なにしろもう数が少のうございますでね」<lb />
+「四五日うちに客があるからなんとか心配して<seg type="ruby"><seg type="rb">呉</seg><seg type="rp">（</seg><seg type="rt">く</seg><seg type="rp">）</seg></seg>れ、骨折り賃はだすから、いいか」<lb />
+　そう云って太宰は自分の居間へ戻った。<lb />
+　この屋敷には珍らしく客の無い日だった。一人だけ<seg type="ruby"><seg type="rb">鹿島</seg><seg type="rp">（</seg><seg type="rt">かしま</seg><seg type="rp">）</seg></seg>金之助という<seg type="ruby"><seg type="rb">宇都宮藩</seg><seg type="rp">（</seg><seg type="rt">うつのみやはん</seg><seg type="rp">）</seg></seg>の青年がいるけれど、これは四十日ほどまえからの滞在でかくべつ接待の必要もない、こういうときこそゆっくり本も読もうと思い、久方ぶりに書庫から二三持ちだして来たのだが、さて机に向かってみると気持のおちつきが悪かった。……厨でことわった<seg rend="sesame_dot" rendition="em">ひがい</seg>をわざと呼び止めて買った自分の態度も、むろん不愉快であるが、このひと月あまりのうちにどことなく変ってきた妻の<seg type="ruby"><seg type="rb">挙措</seg><seg type="rp">（</seg><seg type="rt">きょそ</seg><seg type="rp">）</seg></seg>が、あれこれと新らしく思い返されて心が重くなるのだった。<lb />
+　かれの本姓は戸田氏である、<seg type="ruby"><seg type="rb">近江</seg><seg type="rp">（</seg><seg type="rt">おうみ</seg><seg type="rp">）</seg></seg>のくに<seg type="ruby"><seg type="rb">膳所</seg><seg type="rp">（</seg><seg type="rt">ぜぜ</seg><seg type="rp">）</seg></seg>藩の老臣戸田五左衛門の五男に生れ、三十歳のとき<seg type="ruby"><seg type="rb">園城寺</seg><seg type="rp">（</seg><seg type="rt">おんじょうじ</seg><seg type="rp">）</seg></seg>家の<seg type="ruby"><seg type="rb">有司</seg><seg type="rp">（</seg><seg type="rt">ゆうし</seg><seg type="rp">）</seg></seg>池田都維那の家に養<seg type="ruby"><seg type="rb">嗣子</seg><seg type="rp">（</seg><seg type="rt">しし</seg><seg type="rp">）</seg></seg>としてはいった。妻の幸子はそのとき三十二歳だった、かの女も彦根藩の医師飯島<seg type="ruby"><seg type="rb">三太夫</seg><seg type="rp">（</seg><seg type="rt">さんだゆう</seg><seg type="rp">）</seg></seg>のむすめで、幼少のとき池田家の養女となり太宰を婿に迎えたのである。……幸子は<seg type="ruby"><seg type="rb">肥</seg><seg type="rp">（</seg><seg type="rt">ふと</seg><seg type="rp">）</seg></seg>りじしのゆったりとしたからだつきで、口数の少ない、はきはきとしたなかに温かい包容力をもった婦人だった。年齢からいっても気性からいっても、老臣の五男に育った太宰には初めから姉という感じで、幸子がどうつとめても、否つとめればつとめるほど、かれは言葉ではあらわしようのない一種の圧迫を受けるばかりだった。池田都維那は間もなく園城寺家を致仕し、大津尾花川の<seg type="ruby"><seg type="rb">琵琶湖</seg><seg type="rp">（</seg><seg type="rt">びわこ</seg><seg type="rp">）</seg></seg>に面した土地に屋敷を建て、多くの田地山林を買って<seg type="ruby"><seg type="rb">隠棲</seg><seg type="rp">（</seg><seg type="rt">いんせい</seg><seg type="rp">）</seg></seg>したが、いくばくもなく世を去ったので、その遺産はすべて太宰の継ぐところとなった。かれは養父の死後ほどなく姓を河瀬と<seg type="ruby"><seg type="rb">更</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>え、<seg type="ruby"><seg type="rb">聖護院宮</seg><seg type="rp">（</seg><seg type="rt">しょうごいんのみや</seg><seg type="rp">）</seg></seg>に仕えてその有司となったけれど、世上のありさまはその頃からにわかに変貌しはじめ、<seg type="ruby"><seg type="rb">頻々</seg><seg type="rp">（</seg><seg type="rt">ひんぴん</seg><seg type="rp">）</seg></seg>たる異国船の渡来とともに、国の隅々からわきたつ「<seg type="ruby"><seg type="rb">尊王攘夷</seg><seg type="rp">（</seg><seg type="rt">そんのうじょうい</seg><seg type="rp">）</seg></seg>」の声は、かれをも宮家の一有司たる位置から奮起させずにはおかなくなっていた。<lb />
+　太宰が国事に奔走するようになると、尾花川の家にもしたがって客の往来が繁くなった。そこは市街から離れているし、琵琶湖の水を前に<seg type="ruby"><seg type="rb">如意</seg><seg type="rp">（</seg><seg type="rt">にょい</seg><seg type="rp">）</seg></seg>ヶ<seg type="ruby"><seg type="rb">岳</seg><seg type="rp">（</seg><seg type="rt">たけ</seg><seg type="rp">）</seg></seg>を背にした閑寂なところで、「<seg type="ruby"><seg type="rb">采釣亭</seg><seg type="rp">（</seg><seg type="rt">さいちょうてい</seg><seg type="rp">）</seg></seg>」となづける屋敷構えも広かったから、同志の会合にもうってつけだし、幕吏の追捕をのがれる者にはいい隠れ場所だった。……幸子は<seg type="ruby"><seg type="rb">良人</seg><seg type="rp">（</seg><seg type="rt">おっと</seg><seg type="rp">）</seg></seg>のこころざしをよく理解した、家政をあずかっているかの女は、良人が同志へ貢ぐかなり多額な金もこころよく出したし、客があればいつでもできるだけ<seg type="ruby"><seg type="rb">篤</seg><seg type="rp">（</seg><seg type="rt">あつ</seg><seg type="rp">）</seg></seg>くもてなした。肥えた膚の白い、ゆったりとしたからだつきと、いかにも温かそうな微笑を湛えた面ざしと、口数の少ない、けれど心のこもった接待、と……幸子のすべてが、尾花川の家をおとずれる人々の心をとらえた。「ここへ来るとわが家へ帰ったようだ」客たちはよくそう云った、「まったく百日の労苦が一夜で<seg type="ruby"><seg type="rb">癒</seg><seg type="rp">（</seg><seg type="rt">いや</seg><seg type="rp">）</seg></seg>される」<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">二</seg></seg></seg>
+<lb />
+　こうして往来する志士たちから敬愛と感謝の的になっていた幸子が、この頃どことなくようすが変ってきたのである、客があって酒宴になっても以前のように<seg type="ruby"><seg type="rb">下物</seg><seg type="rp">（</seg><seg type="rt">かぶつ</seg><seg type="rp">）</seg></seg>の品数がそろわない、豊かな琵琶湖の鮮をひかえているのに、焼き鮒とか干魚とか漬菜などという質素なものが多くなった。酒も少しまわったかと思うと黙って食事にしてしまう、「まだ飯には早い」と云えば、「あいにくもう御酒がきれまして」と答えはきまっていた。……この数年は出費の<seg type="ruby"><seg type="rb">嵩</seg><seg type="rp">（</seg><seg type="rt">かさ</seg><seg type="rp">）</seg></seg>む生活がつづいた、けれども亡父の遺して呉れた資産に比べればたかの知れたものだし、尊王倒幕の事のためには、その最後の一銭まで<seg type="ruby"><seg type="rb">抛</seg><seg type="rp">（</seg><seg type="rt">なげう</seg><seg type="rp">）</seg></seg>つ覚悟ができていた、むろん妻もそれは承知の筈だったのに、どうしてにわかにそう変ったのか。客の接待だけではない、<seg type="ruby"><seg type="rb">家常茶飯</seg><seg type="rp">（</seg><seg type="rt">かじょうさはん</seg><seg type="rp">）</seg></seg>すべてのことが眼立ってつましくなった、まえから幸子は召使たちといっしょに食事をする習わしだったが、近頃の菜はおもに焼き味噌と香の物だという、……つましいというよりも<seg type="ruby"><seg type="rb">寧</seg><seg type="rp">（</seg><seg type="rt">むし</seg><seg type="rp">）</seg></seg>ろ<seg type="ruby"><seg type="rb">吝嗇</seg><seg type="rp">（</seg><seg type="rt">りんしょく</seg><seg type="rp">）</seg></seg>にちかい変り方である、太宰にはそういう妻の気持がまったくわからなくなっていた。<lb />
+　机に向かって書物を<seg type="ruby"><seg type="rb">披</seg><seg type="rp">（</seg><seg type="rt">ひら</seg><seg type="rp">）</seg></seg>いたまま<seg type="ruby"><seg type="rb">惘然</seg><seg type="rp">（</seg><seg type="rt">もうぜん</seg><seg type="rp">）</seg></seg>ともの思いに<seg type="ruby"><seg type="rb">耽</seg><seg type="rp">（</seg><seg type="rt">ふけ</seg><seg type="rp">）</seg></seg>っていた太宰は、「お客来でございます」という妻の声でわれに返った、「泉さまがお二人ほど御同伴でおみえになりました」かれは「よし」と<seg type="ruby"><seg type="rb">頷</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>いたがすぐに妻を呼びとめ、「先刻の<seg rend="sesame_dot" rendition="em">ひがい</seg>で酒の支度をしてまいれ」そう云って立ちあがった。<lb />
+　客は<seg type="ruby"><seg type="rb">泉仙介</seg><seg type="rp">（</seg><seg type="rt">いずみせんすけ</seg><seg type="rp">）</seg></seg>という<seg type="ruby"><seg type="rb">越後</seg><seg type="rp">（</seg><seg type="rt">えちご</seg><seg type="rp">）</seg></seg>のくに村松藩の志士で、かれとは最も親しく往来しているひとりだった。<lb />
+「<seg type="ruby"><seg type="rb">久濶</seg><seg type="rp">（</seg><seg type="rt">きゆうかつ</seg><seg type="rp">）</seg></seg>のみやげに同志をひきあわせよう」仙介は<seg type="ruby"><seg type="rb">日焦</seg><seg type="rp">（</seg><seg type="rt">ひや</seg><seg type="rp">）</seg></seg>けのした顔をふり向け、太宰が坐るのを待ちかねたように云った、「こちらは<seg type="ruby"><seg type="rb">讃岐</seg><seg type="rp">（</seg><seg type="rt">さぬき</seg><seg type="rp">）</seg></seg>の井上文郁、それに長谷川秀之進だ」<lb />
+「長谷川というと」会釈が済んでから太宰はそう<seg type="ruby"><seg type="rb">訊</seg><seg type="rp">（</seg><seg type="rt">たず</seg><seg type="rp">）</seg></seg>ねた、「長谷川宗右衛門どのとなにかご血縁にでもお当りですか」<lb />
+「宗右衛門の<seg type="ruby"><seg type="rb">伜</seg><seg type="rp">（</seg><seg type="rt">せがれ</seg><seg type="rp">）</seg></seg>です」秀之進となのる青年はふと眼を伏せるようにした、「……うちあけていうと庶子なのですが」<lb />
+　宗右衛門長谷川<seg type="ruby"><seg type="rb">秀驥</seg><seg type="rp">（</seg><seg type="rt">ひでき</seg><seg type="rp">）</seg></seg>は高松藩でも指おりの勤皇家である、その秀驥の子と聞いて太宰はひじょうに興を<seg type="ruby"><seg type="rb">唆</seg><seg type="rp">（</seg><seg type="rt">そそ</seg><seg type="rp">）</seg></seg>られた。泉仙介はすぐ要談をはじめた、それは<seg type="ruby"><seg type="rb">若狭</seg><seg type="rp">（</seg><seg type="rt">わかさ</seg><seg type="rp">）</seg></seg>の梅田源次郎らを中心に同志を糾合し、彦根城を奪取して倒幕の義兵をあげようというのである。高松藩でも長谷川秀驥が周旋しているし、できるなら水戸の藤田<seg type="ruby"><seg type="rb">東湖</seg><seg type="rp">（</seg><seg type="rt">とうこ</seg><seg type="rp">）</seg></seg>を通じて<seg type="ruby"><seg type="rb">斉昭侯</seg><seg type="rp">（</seg><seg type="rt">なりあきこう</seg><seg type="rp">）</seg></seg>まで動かす計画だという、……尊王攘夷の論がようやく攘夷倒幕という直論に向かってきた現在、誰かがなにごとかを事実において示さなければ道は打開しない、それは太宰にもよくわかった。けれどもいきなり彦根城奪取ということには賛同できなかった、それでながいことかなり烈しい議論が応酬されたが、やがて灯がはいり、<seg type="ruby"><seg type="rb">酒肴</seg><seg type="rp">（</seg><seg type="rt">しゅこう</seg><seg type="rp">）</seg></seg>がはこばれたので、主客はひとまず<seg type="ruby"><seg type="rb">論諍</seg><seg type="rp">（</seg><seg type="rt">ろんそう</seg><seg type="rp">）</seg></seg>をうち切ってくつろいだ。<lb />
+「このまえ来たときにいたあの宇都宮の若者はどうしたかね」<seg type="ruby"><seg type="rb">盃</seg><seg type="rp">（</seg><seg type="rt">さかずき</seg><seg type="rp">）</seg></seg>を手にしたとき泉仙介がふと思いだしたように云った、「……脱藩の罪で追われているとかいった、鹿島なにがしとかいう名だったと思うが」<lb />
+「まだいるよ」太宰もそう云われて思いだした、「話にまぎれて忘れていた、呼んで諸君にもおひきあわせしよう」<lb />
+　すぐに離れのほうにいる鹿島金之助を呼びよせた。井上と長谷川は初対面なので互いに名乗りあい、<seg type="ruby"><seg type="rb">賑</seg><seg type="rp">（</seg><seg type="rt">にぎ</seg><seg type="rp">）</seg></seg>やかに盃がまわりだした。……そうして<seg type="ruby"><seg type="rb">半刻</seg><seg type="rp">（</seg><seg type="rt">はんとき</seg><seg type="rp">）</seg></seg>も経ったであろうか、長谷川秀之進がちょっと改まった調子で鹿島金之助に呼びかけた。<lb />
+「あんたは宇都宮だそうだが、岡田<seg type="ruby"><seg type="rb">真吾</seg><seg type="rp">（</seg><seg type="rt">しんご</seg><seg type="rp">）</seg></seg>をご存じですか」<lb />
+「ええ知っています」金之助は<seg type="ruby"><seg type="rb">眩</seg><seg type="rp">（</seg><seg type="rt">まぶ</seg><seg type="rp">）</seg></seg>しそうな眼をした、「……よく議論をしました、あんな酒好きな男もないです、わたしも呑みますけれども、あの男は」<lb />
+「いや酒なんかどっちでもいい」秀之進はきゅっと眉を寄せた、「それでは松本<seg type="ruby"><seg type="rb">※太郎</seg><seg type="rp">（</seg><seg type="rt">きたろう</seg><seg type="rp">）</seg></seg><seg rend="notes" rendition="span">［＃「金＋其」、U+9324、114-上-22］</seg>はどうです、やっぱり知己ですか」<lb />
+「知己というほどではありませんが」<lb />
+　なんのためにそんなことを<seg type="ruby"><seg type="rb">諄</seg><seg type="rp">（</seg><seg type="rt">くど</seg><seg type="rp">）</seg></seg>く<seg type="ruby"><seg type="rb">訊</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>くのかわからなかった。太宰はそれよりもさっきから酒がきれているので、またいつものように黙って食事にするつもりかと思い、もしそうなら今夜こそ云わなければならぬと少し<seg type="ruby"><seg type="rb">苛々</seg><seg type="rp">（</seg><seg type="rt">いらいら</seg><seg type="rp">）</seg></seg>していた。するとふいに秀之進が「ご主人」と改まった調子で呼びかけた。<lb />
+「この男はいけません」秀之進は指で金之助をさし示しながら云った、「こいつは<seg type="ruby"><seg type="rb">偽</seg><seg type="rp">（</seg><seg type="rt">にせ</seg><seg type="rp">）</seg></seg>志士です、追っぱらっておしまいなさい」<lb />
+「偽志士……」太宰にはちょっとその意味がわからなかった、「それは、しかし……」<lb />
+「つまり尊攘派の志士という触れこみで食って歩くやつです、宇都宮藩士だとか、脱藩して追われているとかいうのはみんな嘘っぱちのでたらめです」<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">三</seg></seg></seg>
+<lb />
+「こいつには去年いちど高松で会っているんです」秀之進はつづけて云った、「そのときは仙台藩士だといっていましたが、ちょうど<seg type="ruby"><seg type="rb">白石</seg><seg type="rp">（</seg><seg type="rt">しろいし</seg><seg type="rp">）</seg></seg>の者がいあわせたものでばけの皮が<seg type="ruby"><seg type="rb">剥</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>げました、この頃こういうやつが諸方へあらわれるからご注意を要しますよ」<lb />
+「それは本当か」太宰よりさきに泉仙介がにじり出た、「おい、きさまそれは事実か……」<lb />
+　鹿島金之助は<seg type="ruby"><seg type="rb">蒼白</seg><seg type="rp">（</seg><seg type="rt">あおじろ</seg><seg type="rp">）</seg></seg>くなった面を伏せ、ぶるぶると<seg type="ruby"><seg type="rb">戦</seg><seg type="rp">（</seg><seg type="rt">おのの</seg><seg type="rp">）</seg></seg>く手で<seg type="ruby"><seg type="rb">袴</seg><seg type="rp">（</seg><seg type="rt">はかま</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">掴</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>んだまま黙っていた、それは紛れもなく罪を告白する姿だった。<lb />
+「事実だな」というと仙介は大剣へ手を伸ばした、「よし外へ出ろ、そんな者は生かしては置けぬ、斬ってやる、出ろ」<lb />
+　そうだ斬ってしまえと井上も叫んで立った、<seg type="ruby"><seg type="rb">襖</seg><seg type="rp">（</seg><seg type="rt">ふすま</seg><seg type="rp">）</seg></seg>の向うで聞いていたのであろう、そのとき幸子が「お待ち下さいませ」といいながら足早にはいって来た。<lb />
+「ようすはあらまし伺いました、女の身でさしでがましゅうはございますが、ご成敗……というのは少しいかがと存じます。恐れいりますがわたくしに任せては頂けませんでしょうか、当家にも至らぬところがあったのでございますから……」<lb />
+　そう云って間へ割ってはいると、すばやく金之助を立たせ、巧みにその座敷から<seg type="ruby"><seg type="rb">伴</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>れだしていった。こちらも本気で斬るつもりはなかったのだろう、「こんど会ったら首を貰うぞ」とどなりつけたが、それ以上は追いかけてゆくようすもなかった。<lb />
+　青年を別間へつれていった幸子は、そこで食事を出してやったが、かれは<seg type="ruby"><seg type="rb">箸</seg><seg type="rp">（</seg><seg type="rt">はし</seg><seg type="rp">）</seg></seg>をとらないで、「申しかねますがこれで<seg type="ruby"><seg type="rb">結飯</seg><seg type="rp">（</seg><seg type="rt">むすび</seg><seg type="rp">）</seg></seg>を作って頂けませんか」と云った、「結飯はべつに作ってあげますからこれはこれで召しあがれ」幸子はそう云って、自分で厨へゆき、握り飯を作って包んだ。どのような想いに責められているのだろう、かれは震える手で箸をとったが、ほんの口を付けたというだけでやめた。幸子は黙って見ていた、かれは幸子に見られることが堪えられぬようすで、結飯の包みを受取るとすぐ、「支度して来ますから」と離れのほうへ立っていった。<lb />
+　幸子はあと片付けを命じておいて自分の部屋へはいり、手文庫から<seg type="ruby"><seg type="rb">幾許</seg><seg type="rp">（</seg><seg type="rt">いくばく</seg><seg type="rp">）</seg></seg>かの金をとりだして紙に包んだ。元の室へいったが青年は戻っていないので、玄関へ出てみた、それから急ぎ足に離れへいった。灯の消えた暗い部屋の中には、一枚だけ開いている障子の隙間からひっそりと月がさしこんでいた。かの女は走るように戻って来ると、召使の者に客間へ食事を運ぶように云いおいて、自分はそのまま外へ出ていった。<lb />
+　結飯の支度をたのんだからには大津へ出るのではない、坂本から<seg type="ruby"><seg type="rb">叡山</seg><seg type="rp">（</seg><seg type="rt">えいざん</seg><seg type="rp">）</seg></seg>へでもゆくつもりに違いない、幸子はそう信じてあとを追った。はたしてそうだった、もう霜がおりたとみえ、月光をそのままむすんだように、白く<seg type="ruby"><seg type="rb">凍</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>てている道を小走りにゆくと、尾花川の細い流れを渡ったところで追いついた。「お待ちなさい」幸子がそう呼びかけると青年はちょっと逃げだしそうにした、けれどすぐに立ちどまった。<lb />
+「わたくしのこころざしです」幸子は持って来た金包みをかれの手に与えた、「今はなにも申上げません。もういちどお会いしましょう、……ようございますか、もういちど<seg type="ruby"><seg type="rb">此処</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>へ訪ねていらっしゃるんですよ、誰にも恥じぬ人になって、……お約束しますよ」<lb />
+　金包みを握ったままうなだれている青年は、いきなりよろめくように道の上へ坐った、そして腕で顔を<seg type="ruby"><seg type="rb">掩</seg><seg type="rp">（</seg><seg type="rt">おお</seg><seg type="rp">）</seg></seg>って泣きだした。幸子は手を伸ばしかけて止めた、……ほど近い尾花川の瀬音が、<seg type="ruby"><seg type="rb">冰</seg><seg type="rp">（</seg><seg type="rt">こお</seg><seg type="rp">）</seg></seg>るようにさむざむと夜気をふるわせている、くいしばった歯の間から、切々ともれる青年の<seg type="ruby"><seg type="rb">慟哭</seg><seg type="rp">（</seg><seg type="rt">どうこく</seg><seg type="rp">）</seg></seg>のこえが、その瀬音に和していたましく耳にしみついた。<lb />
+「云ってあげたいこともありますし、うかがいたいこともあります」幸子はやがてしずかにそう云った、「けれどそれはこんどお眼にかかるときにしましょう。あなたはきっと御国のために役だつりっぱな武士におなりなさる、わたしはそう信じていますよ、……今夜の、その涙をお忘れにならないで、ようございますね」<lb />
+　それだけ云うと、<seg type="ruby"><seg type="rb">噎</seg><seg type="rp">（</seg><seg type="rt">むせ</seg><seg type="rp">）</seg></seg>びあげている青年をあとに幸子はそっと<seg type="ruby"><seg type="rb">踵</seg><seg type="rp">（</seg><seg type="rt">くびす</seg><seg type="rp">）</seg></seg>を返した。<lb />
+　家へ帰って門をはいると、前庭のところに誰か立っていた。暗いのでぎょっとしたが、すぐに良人だということがわかった。<lb />
+「どこへいった」太宰は低いこえで訊いた、「鹿島を追っていったのか」<lb />
+「はい、……」<lb />
+「金を持たせてやったのだな」<lb />
+　幸子はもういちどはいと云って<seg type="ruby"><seg type="rb">俯向</seg><seg type="rp">（</seg><seg type="rt">うつむ</seg><seg type="rp">）</seg></seg>いた、太宰は「あとで話がある」そう云い残して、さっさと家の中へはいっていった。<lb />
+　その夜かなり更けて、客たちが寝所へはいってから幸子は良人に呼ばれた。小さな<seg type="ruby"><seg type="rb">火桶</seg><seg type="rp">（</seg><seg type="rt">ひおけ</seg><seg type="rp">）</seg></seg>を間にして、さし向いに坐ると、太宰はながいこと黙っていたが、やや暫くして「金はどれほどやったのか」と口を切った。<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">四</seg></seg></seg>
+<lb />
+「勝手ではございますが十金さしあげました」「……おれにはわからない」太宰は酔の残っている顔をきゅっと<seg type="ruby"><seg type="rb">歪</seg><seg type="rp">（</seg><seg type="rt">ゆが</seg><seg type="rp">）</seg></seg>めた、「どういうわけか、このところ来客に出す酒肴もみすぼらしいほど粗末になった、家内の食事は焼き味噌に菜漬だということも耳にする、……それほど<seg type="ruby"><seg type="rb">倹</seg><seg type="rp">（</seg><seg type="rt">つま</seg><seg type="rp">）</seg></seg>しくするおまえが、あのような<seg type="ruby"><seg type="rb">騙</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>り者に十金という分に過ぎた金を呉れてやる、いったいこれはどういう意味なんだ」<lb />
+「さしでた事を致しましてまことに申しわけがございません」幸子はつつましく頭を垂れた、「今後はよく気をつけますゆえ、どうぞこのたびはおゆるし下さいまし」<lb />
+「あやまれというのではない、どういう意味かを訊いているんだ」太宰は苛だたしさを抑えつけるような調子で問い詰めた、「近頃の吝嗇とも思える仕方と今宵の十金とはどういう区別から出たのか、おれはそれが知りたいんだ」<lb />
+「……あの若者を」と幸子は面を伏せたままようやく答えた、「あのまま放してやってはいけないと存じました、これまでは世を偽っていたかも知れませんけれど、偽るにしても攘夷倒幕を口にするほどですから、導きように依っては必ず同志のひとりになると存じます、……御国のためにはいまひとりでも多く、身命を惜しまぬもののふが必要なときでございます」<lb />
+　凍てた道の上に坐って、面を掩って泣いていた青年の姿がまざまざと眼にうかぶ、あの涙だけは偽りではない、幸子にはそれが痛いほどもよくわかっていた。<lb />
+「そのおなじ気持を」と太宰はさらに追求した、「……おなじ気持をこの家へ来る客たちに向けることはできないか、みんな家郷を<seg type="ruby"><seg type="rb">棄</seg><seg type="rp">（</seg><seg type="rt">す</seg><seg type="rp">）</seg></seg>て親兄弟を棄てて国事に身を<seg type="ruby"><seg type="rb">捧</seg><seg type="rp">（</seg><seg type="rt">ささ</seg><seg type="rp">）</seg></seg>げる人々だ、名も求めず栄達も望まず、王政復古の大業のために骨身を削る人々だ。できない事なら仕方がないが、幸いこの家にはそこばくの資産がある、たち寄る人々に、せめて心を慰めるだけの接待をするのは寧ろわれわれのつとめではないか、……ここへ来ると百日の労苦を忘れる、あの人々がそう云うのを聞いた筈だ、鹿島に恵むその気持があるなら、どうしてこれまでどおりの接待ができないのか」<lb />
+「わたくし、……できるだけ致しているつもりでございますけれど、ふつつか者でございますから……」<lb />
+「言葉をくるんではいけない」太宰はするどく<seg type="ruby"><seg type="rb">遮</seg><seg type="rp">（</seg><seg type="rt">さえぎ</seg><seg type="rp">）</seg></seg>った、「……もうおまえも<seg rend="sesame_dot" rendition="em">つず</seg>やはたちの若さではないんだ、云うべきことははっきり云うがいい、それに依ってはおれにも少し考えがある、今夜こそ本心を聞くぞ」<lb />
+「そんなに仰せられましては、わたくしなんとお返辞を申上げてよいやらわかりませぬ、けれど、……」幸子はふかく頭を垂れ、ながいこと悲しげに自分の<seg type="ruby"><seg type="rb">膝</seg><seg type="rp">（</seg><seg type="rt">ひざ</seg><seg type="rp">）</seg></seg>をみつめていた、しかし「おれにも考えがある」という良人の言葉はぬきさしならぬ意味をもっている。幸子はそのひと言で追い詰められるように思い、やがてしずかに語を継いだ、「……けれど<seg type="ruby"><seg type="rb">達</seg><seg type="rp">（</seg><seg type="rt">たっ</seg><seg type="rp">）</seg></seg>てのお言葉ゆえ申上げます。去年の<seg type="ruby"><seg type="rb">極月</seg><seg type="rp">（</seg><seg type="rt">ごくげつ</seg><seg type="rp">）</seg></seg>はじめでございましたか、長州藩の広岡さまが二日ほどご滞在あそばしました」<lb />
+「広岡<seg type="ruby"><seg type="rb"><seg facs="../../../gaiji/2-14/2-14-02.png" rend="gaiji" rendition="img" source="※(「日＋折」、第4水準2-14-2)" /></seg><seg type="rp">（</seg><seg type="rt">せつ</seg><seg type="rp">）</seg></seg>は泊った、それで……」<lb />
+「わたくしおそばでご接待を致しましたが、お話が<seg type="ruby"><seg type="rb">禁中御式微</seg><seg type="rp">（</seg><seg type="rt">きんちゅうごしきび</seg><seg type="rp">）</seg></seg>のことに触れました」<lb />
+　幸子はそこで両手を畳へおろし、太宰は正坐して<seg type="ruby"><seg type="rb">衿</seg><seg type="rp">（</seg><seg type="rt">えり</seg><seg type="rp">）</seg></seg>をただした。<lb />
+「かずかずおそれおおい事のなかに、……さる年のはじめ、御祝賀の<seg type="ruby"><seg type="rb">賜宴</seg><seg type="rp">（</seg><seg type="rt">しえん</seg><seg type="rp">）</seg></seg>に臨御あらせられた<seg type="ruby"><seg type="rb">主上</seg><seg type="rp">（</seg><seg type="rt">しゅじょう</seg><seg type="rp">）</seg></seg>には、御吸物の中より御箸をもって焼き豆腐をおとりはさみあそばされ、ことしの鶴はこれぞ、さよう仰せ下されましたと……」ぐっと<seg type="ruby"><seg type="rb">喉</seg><seg type="rp">（</seg><seg type="rt">のど</seg><seg type="rp">）</seg></seg>へつきあげてくるものがあって幸子はしばらく言葉がつづかなかった、「……毎年、<seg type="ruby"><seg type="rb">御佳例</seg><seg type="rp">（</seg><seg type="rt">ごかれい</seg><seg type="rp">）</seg></seg>の鶴の御吸物が、<seg type="ruby"><seg type="rb">大膳職</seg><seg type="rp">（</seg><seg type="rt">だいぜんしき</seg><seg type="rp">）</seg></seg>においてどのようにも御調進奉ることがかなわず、申すもおそれおおき限りながら、焼き豆腐をもって鶴にかえ奉ったとのことでございました。また、……さきごろ所司代酒井<seg type="ruby"><seg type="rb">若狭守</seg><seg type="rp">（</seg><seg type="rt">わかさのかみ</seg><seg type="rp">）</seg></seg><seg rend="sho1" rendition="span" style="font-size: small;">（<seg type="ruby"><seg type="rb">忠義</seg><seg type="rp">（</seg><seg type="rt">ただよし</seg><seg type="rp">）</seg></seg>）</seg>どのが参内いたし、おすべりとやら申上げまする、主上御箸つきの御膳部を賜わり、異例の光栄に<seg type="ruby"><seg type="rb">恐懼</seg><seg type="rp">（</seg><seg type="rt">きょうく</seg><seg type="rp">）</seg></seg>して頂戴仕りましたところ、鯛の焼物が腐っていて口にいれることができず、いかにやと心易き殿上人に訊ねましたら、……儀式として鯛はきまったものながら大膳職の御経費に乏しきため<seg type="ruby"><seg type="rb">鮮鯛</seg><seg type="rp">（</seg><seg type="rt">まなだい</seg><seg type="rp">）</seg></seg>を奉ることかなわず、主上にも御箸はつけたまわぬとのこと……」<lb />
+　幸子は両手をついたまま<seg type="ruby"><seg type="rb">嗚咽</seg><seg type="rp">（</seg><seg type="rt">おえつ</seg><seg type="rp">）</seg></seg>をのんだ、太宰の膝に置いた手もぶるぶると<seg type="ruby"><seg type="rb">顫</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>えた。<seg type="ruby"><seg type="rb">雁</seg><seg type="rp">（</seg><seg type="rt">かり</seg><seg type="rp">）</seg></seg>がわたるのであろう、更けた夜空を高く<seg type="ruby"><seg type="rb">啼</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>き過ぎる声が聞えた。<lb />
+「<seg type="ruby"><seg type="rb">一天万乗</seg><seg type="rp">（</seg><seg type="rt">いってんばんじょう</seg><seg type="rp">）</seg></seg>の君にして、かくばかり<seg type="ruby"><seg type="rb">御艱難</seg><seg type="rp">（</seg><seg type="rt">ごかんなん</seg><seg type="rp">）</seg></seg>をしのばせたもう……広岡さまのお話を伺いながら、わたくしは身を寸断されるようにおぼえました。国事に身を捧げる志士の方々、日夜の御辛労はどれほどか、この家へおたち寄り下さるときくらいは、身にかなうだけおもてなしをして、せめて一夜なりとも心からご慰労申したい、そう考えて至らぬながら酒肴の吟味もしてまいりました、……けれども広岡さまのお話を伺いましたとき、『できるからする』という気持がゆるしがたい<seg type="ruby"><seg type="rb">僭上</seg><seg type="rp">（</seg><seg type="rt">せんじょう</seg><seg type="rp">）</seg></seg>だということに気づきました。禁中におかせられてさえかくばかりの御艱難をしのばせられるおりから、<seg type="ruby"><seg type="rb">下賤</seg><seg type="rp">（</seg><seg type="rt">げせん</seg><seg type="rp">）</seg></seg>のわれらが酒肴の吟味などとは……口にするだに恥じなければならぬことでございました。まして今は非常のときでございます、ひともわれも、できるだけ<seg type="ruby"><seg type="rb">費</seg><seg type="rp">（</seg><seg type="rt">つい</seg><seg type="rp">）</seg></seg>えをきりつめ、あらゆるものを捧げて王政復古の大業のお役にたてなければなりません。おこがましい申しようではございましょうけれど、わたくしそう存じまして……」<lb />
+<lb />
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">五</seg></seg></seg>
+<lb />
+　広岡<seg facs="../../../gaiji/2-14/2-14-02.png" rend="gaiji" rendition="img" source="※(「日＋折」、第4水準2-14-2)" />の話は太宰もまざまざと記憶にある、そのとき身内に燃えあがった<seg type="ruby"><seg type="rb">忿怒</seg><seg type="rp">（</seg><seg type="rt">ふんぬ</seg><seg type="rp">）</seg></seg>の情も忘れない、だが今おなじことを妻の口から聞き、かれは骨を<seg type="ruby"><seg type="rb">噛</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>み砕かれるような悔恨にうたれた。<lb />
+　――禁中御式微のことを申上げながら、おのれらは酒をくらい美食を<seg type="ruby"><seg type="rb">貪</seg><seg type="rp">（</seg><seg type="rt">むさぼ</seg><seg type="rp">）</seg></seg>っていた。<lb />
+　その事実にはいかなる抗弁もゆるされない、志士であることは特権ではないのだ、寧ろどんな人間よりも謙虚に、起居をつつしみ、困苦欠乏とたたかって、大業完遂の捨石にならなければならぬ筈だ。太宰は低く<seg type="ruby"><seg type="rb">呻</seg><seg type="rp">（</seg><seg type="rt">うめ</seg><seg type="rp">）</seg></seg>いた、……そして暫くは面があげられなかった。<lb />
+「幸子、おれは明日ここを立つ」なにか心に期したというように、やがて太宰は妻をかえりみながら云った、「こうして湖畔に安閑としているときではなかった、明朝……泉たちといっしょに京へのぼる、これ以上はなにも云えない。さっきからの言葉は忘れて呉れ」<lb />
+「わたくしこそ、おこがましいことを申し過しました、どうぞお聞きのがし下さいませ」<lb />
+　女の幸子でさえ、広岡の話を聞けばすぐ事実にうつして身をつつしむ、<seg type="ruby"><seg type="rb">悲憤慷慨</seg><seg type="rp">（</seg><seg type="rt">ひふんこうがい</seg><seg type="rp">）</seg></seg>に時を費やしているときではない、……そう云っては違うかも知れない、今かれを奮起させたのはもっと本質的な情熱であろう、しかし人間が大きく飛躍する機会はいつも生活の身近な<seg rend="sesame_dot" rendition="em">こと</seg>のなかにある、高遠な理想にとりつくよりも実際にはひと皿の焼き味噌のなかに真実を噛み当てるものだ。<lb />
+「……弥五が鴨を持って来るかも知れない」太宰はしずかに微笑しながら、「済まないがいいように云って断わって呉れ」<lb />
+「いいえ」幸子も頬で笑った、「せっかくお申付けになったものですし、明朝お立ちあそばせば暫くはお帰りにもなれませんでしょう、久しぶりに手料理を致しますから……」<lb />
+「しかし明日の朝では間にあうまい」<lb />
+「もう夕刻に持ってまいりました」<lb />
+　それは弥五の手まわしがいいなと、太宰は<seg type="ruby"><seg type="rb">呆</seg><seg type="rp">（</seg><seg type="rt">あき</seg><seg type="rp">）</seg></seg>れたように笑ったが、ふとかたちを改めて、「いやいかん」と首を振った。<lb />
+「鴨はよそう、……」<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

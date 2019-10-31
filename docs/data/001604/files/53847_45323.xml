@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 月夜はみんな青いでせう<lb />
 山羊の髭も青いでせう<lb />
 白熊の背も青いでせう<lb />
@@ -41,11 +41,11 @@
 野菜畑も青いでせう<lb />
 <lb />
 月夜はみんな青いでせう<lb />
-ピアノの<span type="ruby"><span type="rb">鍵盤</span><span type="rp">（</span><span type="rt">きい</span><span type="rp">）</span></span>の音までも<lb />
+ピアノの<seg type="ruby"><seg type="rb">鍵盤</seg><seg type="rp">（</seg><seg type="rt">きい</seg><seg type="rp">）</seg></seg>の音までも<lb />
 みんなみんな青いでせう<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 わびしさのつもれば獨り訪ね來て悲しき海の冬を聞くなり<lb />
 <lb />
 水面擦り飛ぶおほ鳥の眞白なる翼に疲れ見えて哀しも<lb />
@@ -46,7 +46,7 @@
 <lb />
 折鶴の吊られたるまゝ色あせし不動の冬の夕べは哀し<lb />
 <lb />
-マリやマリ<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">なれ</span><span type="rp">）</span></span>知るやこの不動尊汝の瞳清らかなるよ<lb />
+マリやマリ<seg type="ruby"><seg type="rb">汝</seg><seg type="rp">（</seg><seg type="rt">なれ</seg><seg type="rp">）</seg></seg>知るやこの不動尊汝の瞳清らかなるよ<lb />
 <lb />
 不如歸蘆花と刻みし石碑なほ倒れたるまゝ冬に入りたり<lb />
 <lb />
@@ -60,6 +60,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

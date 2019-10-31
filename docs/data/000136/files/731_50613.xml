@@ -34,45 +34,45 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="notes">［＃ページの左右中央］</span><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="notes" rendition="span">［＃ページの左右中央］</seg><lb />
 <lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 太陽は神々の蜜である<lb />
 天涯は梁木である<lb />
 空はその梁木にかかる蜂の巣である<lb />
 輝く空氣はその蜂の卵である。<lb />
-　　　　　　　<span rend="yokogumi">Chandogya Upa. <span facs="../../../gaiji/1-13/1-13-23.png" rend="gaiji" rendition="img" source="※(ローマ数字3、1-13-23)" /> <span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />. <span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />.</span><lb />
-</span>
+　　　　　　　<seg rend="yokogumi" rendition="span">Chandogya Upa. <seg facs="../../../gaiji/1-13/1-13-23.png" rend="gaiji" rendition="img" source="※(ローマ数字3、1-13-23)" /> <seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />. <seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />.</seg><lb />
+</seg>
 <lb />
 <lb />
-<span rend="notes">［＃改ページ］</span><lb />
-<span rend="notes">［＃ページの左右中央］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
+<seg rend="notes" rendition="span">［＃ページの左右中央］</seg><lb />
 <lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">
 こゝは天上で<lb />
 粉雪がふつてゐる……<lb />
 生きてゐる陰影<lb />
 わたしは雪のなかに跪いて<lb />
 その銀の手をなめてゐる。<lb />
-</span>
+</seg>
 <lb />
 <lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">囈語</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">囈語</seg></seg></seg>
 <lb />
 竊盜金魚<lb />
 強盜喇叭<lb />
 恐喝胡弓<lb />
 賭博ねこ<lb />
 詐欺更紗<lb />
-涜職<span type="ruby"><span type="rb">天鵞絨</span><span type="rp">（</span><span type="rt">びらうど</span><span type="rp">）</span></span><lb />
+涜職<seg type="ruby"><seg type="rb">天鵞絨</seg><seg type="rp">（</seg><seg type="rt">びらうど</seg><seg type="rp">）</seg></seg><lb />
 姦淫林檎<lb />
-傷害<span type="ruby"><span type="rb">雲雀</span><span type="rp">（</span><span type="rt">ひばり</span><span type="rp">）</span></span><lb />
+傷害<seg type="ruby"><seg type="rb">雲雀</seg><seg type="rp">（</seg><seg type="rt">ひばり</seg><seg type="rp">）</seg></seg><lb />
 殺人ちゆりつぷ<lb />
 墮胎陰影<lb />
 騷擾ゆき<lb />
@@ -80,7 +80,7 @@
 誘拐かすてえら。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">大宣辭</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">大宣辭</seg></seg></seg>
 <lb />
 かみげはりがね<lb />
 ぷらちなのてをあはせ<lb />
@@ -95,44 +95,44 @@
 あかきこつぷををどらしめ。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">曲線</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">曲線</seg></seg></seg>
 <lb />
 みなそこの<lb />
 ひるすぎ<lb />
 走る自働車<lb />
 魚をのせ<lb />
 かつ轢き殺し<lb />
-麗かな<span type="ruby"><span type="rb">騷擾</span><span type="rp">（</span><span type="rt">さわぎ</span><span type="rp">）</span></span>をのこし。<lb />
+麗かな<seg type="ruby"><seg type="rb">騷擾</seg><seg type="rp">（</seg><seg type="rt">さわぎ</seg><seg type="rp">）</seg></seg>をのこし。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">手</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">手</seg></seg></seg>
 <lb />
 みきはしろがね<lb />
 ちる葉のきん<lb />
 かなしみの手をのべ<lb />
-木を<span type="ruby"><span type="rb">搖</span><span type="rp">（</span><span type="rt">ゆす</span><span type="rp">）</span></span>る<lb />
-一本の<span type="ruby"><span type="rb">天</span><span type="rp">（</span><span type="rt">そら</span><span type="rp">）</span></span>の手<lb />
+木を<seg type="ruby"><seg type="rb">搖</seg><seg type="rp">（</seg><seg type="rt">ゆす</seg><seg type="rp">）</seg></seg>る<lb />
+一本の<seg type="ruby"><seg type="rb">天</seg><seg type="rp">（</seg><seg type="rt">そら</seg><seg type="rp">）</seg></seg>の手<lb />
 にくしんの秋の手。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">だんす</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">だんす</seg></seg></seg>
 <lb />
 あらし<lb />
 あらし<lb />
 しだれやなぎに光あれ<lb />
 あかんぼの<lb />
 へその芽<lb />
-水銀<span type="ruby"><span type="rb">歇私的利亞</span><span type="rp">（</span><span type="rt">ヒステリア</span><span type="rp">）</span></span><lb />
+水銀<seg type="ruby"><seg type="rb">歇私的利亞</seg><seg type="rp">（</seg><seg type="rt">ヒステリア</seg><seg type="rp">）</seg></seg><lb />
 はるきたり<lb />
 あしうらぞ<lb />
 あらしをまろめ<lb />
-愛の<span rend="sesame_dot" rendition="em">さもわる</span>に<lb />
-<span type="ruby"><span type="rb">烏龍</span><span type="rp">（</span><span type="rt">ウウロン</span><span type="rp">）</span></span>茶をかなしましむるか<lb />
+愛の<seg rend="sesame_dot" rendition="em">さもわる</seg>に<lb />
+<seg type="ruby"><seg type="rb">烏龍</seg><seg type="rp">（</seg><seg type="rt">ウウロン</seg><seg type="rp">）</seg></seg>茶をかなしましむるか<lb />
 あらしは<lb />
 天に蹴上げられ。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">圖案</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">圖案</seg></seg></seg>
 <lb />
 みなそこに壺あり<lb />
 壺のなかなる蝙蝠は<lb />
@@ -143,15 +143,15 @@
 さてはかすかな愛の痙攣。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">妄語</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">妄語</seg></seg></seg>
 <lb />
-<span rend="sesame_dot" rendition="em">びおろん</span>の胴の空間<lb />
+<seg rend="sesame_dot" rendition="em">びおろん</seg>の胴の空間<lb />
 孕める牝牛の蹄<lb />
 <lb />
 眞實なるものには、すべて<lb />
 或る一種の憂鬱がある。<lb />
 <lb />
-くちつけのあとの<span rend="sesame_dot" rendition="em">とれもろ</span><lb />
+くちつけのあとの<seg rend="sesame_dot" rendition="em">とれもろ</seg><lb />
 麥の芽の青<lb />
 <lb />
 またその色は藍で<lb />
@@ -160,14 +160,14 @@
 ぶらさがつた女のあし<lb />
 茶褐で雪の性<lb />
 <lb />
-<span type="ruby"><span type="rb">土龍</span><span type="rp">（</span><span type="rt">もぐら</span><span type="rp">）</span></span>の毛のさみしい銀鼠<lb />
-黄の<span type="ruby"><span type="rb">眩暈</span><span type="rp">（</span><span type="rt">めまひ</span><span type="rp">）</span></span>、ざんげの星<lb />
+<seg type="ruby"><seg type="rb">土龍</seg><seg type="rp">（</seg><seg type="rt">もぐら</seg><seg type="rp">）</seg></seg>の毛のさみしい銀鼠<lb />
+黄の<seg type="ruby"><seg type="rb">眩暈</seg><seg type="rp">（</seg><seg type="rt">めまひ</seg><seg type="rp">）</seg></seg>、ざんげの星<lb />
 <lb />
 まふゆの空の飛行機<lb />
 枯れ枝にとまつた眼つかち鴉。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">烙印</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">烙印</seg></seg></seg>
 <lb />
 あをぞらに<lb />
 銀魚をはなち<lb />
@@ -175,17 +175,17 @@
 薔薇を植ゑ。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">愛に就て</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi90">愛に就て</seg></seg></seg>
 <lb />
-<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>は金貨<lb />
+<seg type="ruby"><seg type="rb">瞳</seg><seg type="rp">（</seg><seg type="rt">め</seg><seg type="rp">）</seg></seg>は金貨<lb />
 足あと銀貨<lb />
 そして霙ふり<lb />
-<span type="ruby"><span type="rb">涕</span><span type="rp">（</span><span type="rt">はなみづ</span><span type="rp">）</span></span>垂らして<lb />
+<seg type="ruby"><seg type="rb">涕</seg><seg type="rp">（</seg><seg type="rt">はなみづ</seg><seg type="rp">）</seg></seg>垂らして<lb />
 物質の精神の冬はきたつけが<lb />
 もういつてしまつた。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">青空に</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">青空に</seg></seg></seg>
 <lb />
 青空に<lb />
 魚ら泳げり。<lb />
@@ -208,52 +208,52 @@
 心をもてり。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110"><span facs="../../../gaiji/1-09/1-09-23.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA)" /> FUTUR</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110"><seg facs="../../../gaiji/1-09/1-09-23.png" rend="gaiji" rendition="img" source="※(グレーブアクセント付きA)" /> FUTUR</seg></seg></seg>
 <lb />
-まつてゐるのは誰。土のうへの芽の合奏の進行曲である。もがきくるしみ轉げ廻つてゐる太陽の浮かれもの、心の日向葵の音樂。永遠にうまれない畸形な胎兒の<span rend="sesame_dot" rendition="em">だんす</span>、そのうごめく純白な無數のあしの影、わたしの<span type="ruby"><span type="rb">肉體</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>は底のしれない孔だらけ……銀の長柄の投げ鎗で事實がよるの讚美をかい探る。<lb />
+まつてゐるのは誰。土のうへの芽の合奏の進行曲である。もがきくるしみ轉げ廻つてゐる太陽の浮かれもの、心の日向葵の音樂。永遠にうまれない畸形な胎兒の<seg rend="sesame_dot" rendition="em">だんす</seg>、そのうごめく純白な無數のあしの影、わたしの<seg type="ruby"><seg type="rb">肉體</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>は底のしれない孔だらけ……銀の長柄の投げ鎗で事實がよるの讚美をかい探る。<lb />
 <lb />
 わたしをまつてゐるのは、誰。<lb />
 <lb />
 黎明のあしおとが近づく。蒼褪めたともしびがなみだを滴らす。眠れる嵐よ。おお、めぐみが濡らした墓の上はいちめんに紫紺色の罪の靄、神經のきみぢかな花が顫へてゐる。それだのに病める光のない月はくさむらの消えさつた雪の匂ひに何をみつけやうといふのか。嵐よ。わたしの幻想の耳よ。<lb />
 <lb />
-わたしをめぐる悲しい時計のうれしい針、奇蹟がわたしのやはらかな髮を梳る。誰だ、わたしを呼び還すのは。わたしの腕は、もはや、かなたの空へのびてゐる。青に朱をふくめた夢で言葉を飾るなら、まづ、醉つてる北極星を叩きおとせ。愛と沈默とを<span rend="sesame_dot" rendition="em">びおろん</span>の絃のごとく貫く光。のぞみ。煙。<span type="ruby"><span type="rb">生</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>。そして一切。<lb />
+わたしをめぐる悲しい時計のうれしい針、奇蹟がわたしのやはらかな髮を梳る。誰だ、わたしを呼び還すのは。わたしの腕は、もはや、かなたの空へのびてゐる。青に朱をふくめた夢で言葉を飾るなら、まづ、醉つてる北極星を叩きおとせ。愛と沈默とを<seg rend="sesame_dot" rendition="em">びおろん</seg>の絃のごとく貫く光。のぞみ。煙。<seg type="ruby"><seg type="rb">生</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>。そして一切。<lb />
 <lb />
-蝙蝠と霜と物の<span type="ruby"><span type="rb">種子</span><span type="rp">（</span><span type="rt">たね</span><span type="rp">）</span></span>とはわたしの自由。わたしの信仰は眞赤なくちびるの上にある。いづれの海の手に落ちるのか、<span type="ruby"><span type="rb">靈魂</span><span type="rp">（</span><span type="rt">たましひ</span><span type="rp">）</span></span>。<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">そなた</span><span type="rp">）</span></span>は秋の日の<span type="ruby"><span type="rb">蜻蛉</span><span type="rp">（</span><span type="rt">とんぼ</span><span type="rp">）</span></span>のやうに慌ててゐる。汝は書籍を舐る蠧魚と小さく甦る。靈魂よ、汝の輪廓に這ひよる脆い<span type="ruby"><span type="rb">華奢</span><span type="rp">（</span><span type="rt">おしやれ</span><span type="rp">）</span></span>な獸の哲理を知れ。翼ある聲。眞實の放逸。再び汝はほろぶる<span type="ruby"><span type="rb">形象</span><span type="rp">（</span><span type="rt">かたち</span><span type="rp">）</span></span>に祝福を乞はねばならぬ。<lb />
+蝙蝠と霜と物の<seg type="ruby"><seg type="rb">種子</seg><seg type="rp">（</seg><seg type="rt">たね</seg><seg type="rp">）</seg></seg>とはわたしの自由。わたしの信仰は眞赤なくちびるの上にある。いづれの海の手に落ちるのか、<seg type="ruby"><seg type="rb">靈魂</seg><seg type="rp">（</seg><seg type="rt">たましひ</seg><seg type="rp">）</seg></seg>。<seg type="ruby"><seg type="rb">汝</seg><seg type="rp">（</seg><seg type="rt">そなた</seg><seg type="rp">）</seg></seg>は秋の日の<seg type="ruby"><seg type="rb">蜻蛉</seg><seg type="rp">（</seg><seg type="rt">とんぼ</seg><seg type="rp">）</seg></seg>のやうに慌ててゐる。汝は書籍を舐る蠧魚と小さく甦る。靈魂よ、汝の輪廓に這ひよる脆い<seg type="ruby"><seg type="rb">華奢</seg><seg type="rp">（</seg><seg type="rt">おしやれ</seg><seg type="rp">）</seg></seg>な獸の哲理を知れ。翼ある聲。眞實の放逸。再び汝はほろぶる<seg type="ruby"><seg type="rb">形象</seg><seg type="rp">（</seg><seg type="rt">かたち</seg><seg type="rp">）</seg></seg>に祝福を乞はねばならぬ。<lb />
 <lb />
 靡爛せる淫慾の本質に湧く智慧。溺れて、自らの胡弓をわすれよ。わたしの祕密は蕊の中から宇宙を抱いてよろめき伸びあがる、かんばしく。<lb />
 <lb />
-わたしのさみしさを樹木は知り、壺は傾くのである。そして肩のうしろより<span type="ruby"><span type="rb">低語</span><span type="rp">（</span><span type="rt">ささや</span><span type="rp">）</span></span>き、なげきは見えざる<span type="ruby"><span type="rb">玩具</span><span type="rp">（</span><span type="rt">おもちや</span><span type="rp">）</span></span>を愛す。猫の<span type="ruby"><span type="rb">瞳孔</span><span type="rp">（</span><span type="rt">ひとみ</span><span type="rp">）</span></span>がわたしの<span type="ruby"><span type="rb">映畫</span><span type="rp">（</span><span type="rt">フヰルム</span><span type="rp">）</span></span>の外で直立し。朦朧なる水晶のよろこび。天をさして螺旋に攀ぢのぼる汚れない妖魔の肌の香。<lb />
+わたしのさみしさを樹木は知り、壺は傾くのである。そして肩のうしろより<seg type="ruby"><seg type="rb">低語</seg><seg type="rp">（</seg><seg type="rt">ささや</seg><seg type="rp">）</seg></seg>き、なげきは見えざる<seg type="ruby"><seg type="rb">玩具</seg><seg type="rp">（</seg><seg type="rt">おもちや</seg><seg type="rp">）</seg></seg>を愛す。猫の<seg type="ruby"><seg type="rb">瞳孔</seg><seg type="rp">（</seg><seg type="rt">ひとみ</seg><seg type="rp">）</seg></seg>がわたしの<seg type="ruby"><seg type="rb">映畫</seg><seg type="rp">（</seg><seg type="rt">フヰルム</seg><seg type="rp">）</seg></seg>の外で直立し。朦朧なる水晶のよろこび。天をさして螺旋に攀ぢのぼる汚れない妖魔の肌の香。<lb />
 <lb />
 いたづらな蠱惑が理性の前で額づいた……<lb />
 <lb />
-何といふ痛める風景だ。<span type="ruby"><span type="rb">何時</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>うまれた。どこから來た。粘土の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>と金屬の色とのいづれのかなしき樣式にでも舟の如く泛ぶわたしの神聖な<span type="ruby"><span type="rb">泥溝</span><span type="rp">（</span><span type="rt">どぶ</span><span type="rp">）</span></span>のなかなる火の祈祷。盲目の翫賞家。自己禮拜。わたしの<span rend="sesame_dot" rendition="em">ぴあの</span>は裂け、時雨はとほり過ぎてしまつたけれど執着の果實はまだまだ青い。<lb />
+何といふ痛める風景だ。<seg type="ruby"><seg type="rb">何時</seg><seg type="rp">（</seg><seg type="rt">いつ</seg><seg type="rp">）</seg></seg>うまれた。どこから來た。粘土の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>と金屬の色とのいづれのかなしき樣式にでも舟の如く泛ぶわたしの神聖な<seg type="ruby"><seg type="rb">泥溝</seg><seg type="rp">（</seg><seg type="rt">どぶ</seg><seg type="rp">）</seg></seg>のなかなる火の祈祷。盲目の翫賞家。自己禮拜。わたしの<seg rend="sesame_dot" rendition="em">ぴあの</seg>は裂け、時雨はとほり過ぎてしまつたけれど執着の果實はまだまだ青い。<lb />
 <lb />
 はるかに燃ゆる直覺。欺むかれて沈む鐘。棺が行く。殺された自我がはじめて自我をうむのだ。棺が行く。音もなく行く。水すましの意識がまはる。<lb />
 <lb />
-黎明のにほひがする。落葉だ。落葉。惱むいちねん。咽びまつはる欲望に、かつて、祕めた緑の印象をやきすてるのだ。人形も考へろ。掌の平安もおよぎ出せ。かくれたる暗がりに泌み滲み、いのちの凧のうなりがする。歡樂は刹那。蛇は無限。しろがねの弦を斷ち、幸福の矢を折挫いてしくしく<span rend="sesame_dot" rendition="em">きゆぴと</span>が現代的に泣いてゐる。それはさて、わたしは憂愁のはてなき逕をたどり急がう。<lb />
+黎明のにほひがする。落葉だ。落葉。惱むいちねん。咽びまつはる欲望に、かつて、祕めた緑の印象をやきすてるのだ。人形も考へろ。掌の平安もおよぎ出せ。かくれたる暗がりに泌み滲み、いのちの凧のうなりがする。歡樂は刹那。蛇は無限。しろがねの弦を斷ち、幸福の矢を折挫いてしくしく<seg rend="sesame_dot" rendition="em">きゆぴと</seg>が現代的に泣いてゐる。それはさて、わたしは憂愁のはてなき逕をたどり急がう。<lb />
 <lb />
-おづおづとその<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>をみひらくわたしの死んだ騾馬、わたしを乘せた騾馬――記憶。世界を失ふことだ。それが高貴で淫卑な<span rend="sesame_dot" rendition="em">さろめ</span>が接吻の<span type="ruby"><span type="rb">場</span><span type="rp">（</span><span type="rt">シイン</span><span type="rp">）</span></span>となる。<span rend="sesame_dot" rendition="em">そぷらの</span>で。すべて<span rend="sesame_dot" rendition="em">そぷらの</span>で。殘忍なる蟋蟀は孕み、蝶は衰弱し、水仙はなぐさめなく、歸らぬ鳩は眩ゆきおもひをのみ殘し。<lb />
+おづおづとその<seg type="ruby"><seg type="rb">瞳</seg><seg type="rp">（</seg><seg type="rt">め</seg><seg type="rp">）</seg></seg>をみひらくわたしの死んだ騾馬、わたしを乘せた騾馬――記憶。世界を失ふことだ。それが高貴で淫卑な<seg rend="sesame_dot" rendition="em">さろめ</seg>が接吻の<seg type="ruby"><seg type="rb">場</seg><seg type="rp">（</seg><seg type="rt">シイン</seg><seg type="rp">）</seg></seg>となる。<seg rend="sesame_dot" rendition="em">そぷらの</seg>で。すべて<seg rend="sesame_dot" rendition="em">そぷらの</seg>で。殘忍なる蟋蟀は孕み、蝶は衰弱し、水仙はなぐさめなく、歸らぬ鳩は眩ゆきおもひをのみ殘し。<lb />
 <lb />
-おお、<span type="ruby"><span type="rb">欠伸</span><span type="rp">（</span><span type="rt">あくび</span><span type="rp">）</span></span>するのは<span rend="sesame_dot" rendition="em">せらぴむ</span>か。黎明が頬に觸れる。わたしのろくでもない計畫の意匠、その周圍をさ迷ふ美のざんげ。微睡の<span type="ruby"><span type="rb">信仰個條</span><span type="rp">（</span><span type="rt">クリイド</span><span type="rp">）</span></span>。むかしに離れた黒い蛆蟲。鼻から口から眼から臍から這込む<span rend="sesame_dot" rendition="em">きりすと</span>。藝術の假面。そこで<span type="ruby"><span type="rb">黄金色</span><span type="rp">（</span><span type="rt">きんいろ</span><span type="rp">）</span></span>に偶像が塗りかへられる。<lb />
+おお、<seg type="ruby"><seg type="rb">欠伸</seg><seg type="rp">（</seg><seg type="rt">あくび</seg><seg type="rp">）</seg></seg>するのは<seg rend="sesame_dot" rendition="em">せらぴむ</seg>か。黎明が頬に觸れる。わたしのろくでもない計畫の意匠、その周圍をさ迷ふ美のざんげ。微睡の<seg type="ruby"><seg type="rb">信仰個條</seg><seg type="rp">（</seg><seg type="rt">クリイド</seg><seg type="rp">）</seg></seg>。むかしに離れた黒い蛆蟲。鼻から口から眼から臍から這込む<seg rend="sesame_dot" rendition="em">きりすと</seg>。藝術の假面。そこで<seg type="ruby"><seg type="rb">黄金色</seg><seg type="rp">（</seg><seg type="rt">きんいろ</seg><seg type="rp">）</seg></seg>に偶像が塗りかへられる。<lb />
 <lb />
-まつてゐるのは誰。そしてわたしを呼びかへすのは。<span type="ruby"><span type="rb">眼瞼</span><span type="rp">（</span><span type="rt">まぶた</span><span type="rp">）</span></span>のほとりを匍ふ幽靈のもの言はぬ狂亂。鉤をめぐる人魚の唄。色彩のとどめを刺すべく古風な<span type="ruby"><span type="rb">顫律</span><span type="rp">（</span><span type="rt">リヅム</span><span type="rp">）</span></span>はふかい所にめざめてゐる。靈と肉との表裏ある<span type="ruby"><span type="rb">淡紅色</span><span type="rp">（</span><span type="rt">ときいろ</span><span type="rp">）</span></span>の窓の<span rend="sesame_dot" rendition="em">がらす</span>にあるかなきかの疵を<span type="ruby"><span type="rb">發見</span><span type="rp">（</span><span type="rt">みつ</span><span type="rp">）</span></span>けた。（重い<span type="ruby"><span type="rb">頭腦</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>の上の水甕をいたはらねばならない）<lb />
+まつてゐるのは誰。そしてわたしを呼びかへすのは。<seg type="ruby"><seg type="rb">眼瞼</seg><seg type="rp">（</seg><seg type="rt">まぶた</seg><seg type="rp">）</seg></seg>のほとりを匍ふ幽靈のもの言はぬ狂亂。鉤をめぐる人魚の唄。色彩のとどめを刺すべく古風な<seg type="ruby"><seg type="rb">顫律</seg><seg type="rp">（</seg><seg type="rt">リヅム</seg><seg type="rp">）</seg></seg>はふかい所にめざめてゐる。靈と肉との表裏ある<seg type="ruby"><seg type="rb">淡紅色</seg><seg type="rp">（</seg><seg type="rt">ときいろ</seg><seg type="rp">）</seg></seg>の窓の<seg rend="sesame_dot" rendition="em">がらす</seg>にあるかなきかの疵を<seg type="ruby"><seg type="rb">發見</seg><seg type="rp">（</seg><seg type="rt">みつ</seg><seg type="rp">）</seg></seg>けた。（重い<seg type="ruby"><seg type="rb">頭腦</seg><seg type="rp">（</seg><seg type="rt">あたま</seg><seg type="rp">）</seg></seg>の上の水甕をいたはらねばならない）<lb />
 <lb />
-わたしの騾馬は<span type="ruby"><span type="rb">後方</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>の丘の十字架に繋がれてゐる。そして<span type="ruby"><span type="rb">懶</span><span type="rp">（</span><span type="rt">ものう</span><span type="rp">）</span></span>くこの日長を所在なさに糧も惜まず鳴いてゐる。<lb />
+わたしの騾馬は<seg type="ruby"><seg type="rb">後方</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>の丘の十字架に繋がれてゐる。そして<seg type="ruby"><seg type="rb">懶</seg><seg type="rp">（</seg><seg type="rt">ものう</seg><seg type="rp">）</seg></seg>くこの日長を所在なさに糧も惜まず鳴いてゐる。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">樂園</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">樂園</seg></seg></seg>
 <lb />
 寂光さんさん<lb />
 泥まみれ豚<lb />
 ここにかしこに<lb />
 蛇からみ<lb />
 秋冴えて<lb />
-わが<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>の噴水<lb />
+わが<seg type="ruby"><seg type="rb">瞳</seg><seg type="rp">（</seg><seg type="rt">め</seg><seg type="rp">）</seg></seg>の噴水<lb />
 いちねん<lb />
 山羊の角とがり。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">發作</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">發作</seg></seg></seg>
 <lb />
 なにかながれる<lb />
 めをとぢてみよ<lb />
@@ -261,7 +261,7 @@
 わがふねもともにながれる。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">曼陀羅</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi140">曼陀羅</seg></seg></seg>
 <lb />
 このみ<lb />
 きにうれ<lb />
@@ -276,7 +276,7 @@
 かなし。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">かなしさに</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi150">かなしさに</seg></seg></seg>
 <lb />
 かなしさに<lb />
 なみだかき垂れ<lb />
@@ -287,7 +287,7 @@
 おん足の泥まみれなる。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">岬</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi160">岬</seg></seg></seg>
 <lb />
 岬の光り<lb />
 岬のしたにむらがる魚ら<lb />
@@ -296,17 +296,17 @@
 岬に立てる一本の指。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi170">十月</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi170">十月</seg></seg></seg>
 <lb />
 銀魚はつらつ<lb />
-ゆびさきの刺<span type="ruby"><span type="rb">疼</span><span type="rp">（</span><span type="rt">うづ</span><span type="rp">）</span></span>き<lb />
+ゆびさきの刺<seg type="ruby"><seg type="rb">疼</seg><seg type="rp">（</seg><seg type="rt">うづ</seg><seg type="rp">）</seg></seg>き<lb />
 眞實<lb />
 ひとりなり<lb />
 山あざやかに<lb />
 雪近し。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi180">印象</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi180">印象</seg></seg></seg>
 <lb />
 むぎのはたけのおそろしさ……<lb />
 むぎのはたけのおそろしさ<lb />
@@ -319,26 +319,26 @@
 さみしきかげをとりかこめり。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi190">持戒</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi190">持戒</seg></seg></seg>
 <lb />
 草木を<lb />
 信念すれば<lb />
 雪ふり<lb />
-<span type="ruby"><span type="rb">百足</span><span type="rp">（</span><span type="rt">むかで</span><span type="rp">）</span></span>ちぎれば<lb />
+<seg type="ruby"><seg type="rb">百足</seg><seg type="rp">（</seg><seg type="rt">むかで</seg><seg type="rp">）</seg></seg>ちぎれば<lb />
 ゆび光り。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">光</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi200">光</seg></seg></seg>
 <lb />
 かみのけに<lb />
 ぞつくり麥穗<lb />
 滴る額<lb />
 からだ青空<lb />
 ひとみに<lb />
-ひばりの巣を<span type="ruby"><span type="rb">發見</span><span type="rp">（</span><span type="rt">みつ</span><span type="rp">）</span></span>け。<lb />
+ひばりの巣を<seg type="ruby"><seg type="rb">發見</seg><seg type="rp">（</seg><seg type="rt">みつ</seg><seg type="rp">）</seg></seg>け。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">氣稟</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi210">氣稟</seg></seg></seg>
 <lb />
 鴉は<lb />
 木に眠り<lb />
@@ -353,7 +353,7 @@
 きんいろ。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">模樣</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi220">模樣</seg></seg></seg>
 <lb />
 かくぜん<lb />
 めぢの外<lb />
@@ -365,7 +365,7 @@
 電線目をつらぬき。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">銘に</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi230">銘に</seg></seg></seg>
 <lb />
 廢園の<lb />
 一木一草<lb />
@@ -379,7 +379,7 @@
 目あざやか。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">くれがた</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi240">くれがた</seg></seg></seg>
 <lb />
 くれがたのおそろしさ<lb />
 くりやのすみの玉葱<lb />
@@ -389,23 +389,23 @@
 ひき窓の針金をつたはる。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">さりゆてゑしよん</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi250">さりゆてゑしよん</seg></seg></seg>
 <lb />
 純銀霜月の<lb />
 光にびしよ濡れ<lb />
 いちねん<lb />
 智慧の玉乘り<lb />
-<span type="ruby"><span type="rb">頭蓋</span><span type="rp">（</span><span type="rt">あたま</span><span type="rp">）</span></span>がないぞ、おい、<lb />
-玉は<span type="ruby"><span type="rb">陰影</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>を引き<lb />
+<seg type="ruby"><seg type="rb">頭蓋</seg><seg type="rp">（</seg><seg type="rt">あたま</seg><seg type="rp">）</seg></seg>がないぞ、おい、<lb />
+玉は<seg type="ruby"><seg type="rb">陰影</seg><seg type="rp">（</seg><seg type="rt">かげ</seg><seg type="rp">）</seg></seg>を引き<lb />
 みちばたの草にかくれた。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">鑿心抄</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi260">鑿心抄</seg></seg></seg>
 <lb />
 秋ふかみ<lb />
 さみしらに<lb />
 栗鼠鳴き<lb />
-<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>を永遠につらならせ。<lb />
+<seg type="ruby"><seg type="rb">瞳</seg><seg type="rp">（</seg><seg type="rt">め</seg><seg type="rp">）</seg></seg>を永遠につらならせ。<lb />
 <lb />
 　　　＊<lb />
 <lb />
@@ -431,17 +431,17 @@
 ひとにはひとのりんくわく。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">肉</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi270">肉</seg></seg></seg>
 <lb />
 癩病める冬の夜天<lb />
-聖靈の<span rend="sesame_dot" rendition="em">とんねる</span><lb />
-<span rend="sesame_dot" rendition="em">ふおく</span>は悲しめ斷末魔<lb />
+聖靈の<seg rend="sesame_dot" rendition="em">とんねる</seg><lb />
+<seg rend="sesame_dot" rendition="em">ふおく</seg>は悲しめ斷末魔<lb />
 純銀食堂車<lb />
 卓上に接吻あり<lb />
 卓上永生はかなしめ。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">晝</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi280">晝</seg></seg></seg>
 <lb />
 としよりのゐねむり<lb />
 ゐねむりは<lb />
@@ -452,7 +452,7 @@
 ぶらさがりたるあをぞら。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi290">汝に</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi290">汝に</seg></seg></seg>
 <lb />
 大空<lb />
 純銀<lb />
@@ -463,41 +463,41 @@
 臍あり。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi300">燐素</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi300">燐素</seg></seg></seg>
 <lb />
 指を切る<lb />
 飛行機<lb />
 麥の芽青み<lb />
 さみしさに<lb />
 さみしさに<lb />
-<span type="ruby"><span type="rb">瞳</span><span type="rp">（</span><span type="rt">め</span><span type="rp">）</span></span>を削げ<lb />
-空に<span rend="sesame_dot" rendition="em">ぷらちな</span>の脚<lb />
+<seg type="ruby"><seg type="rb">瞳</seg><seg type="rp">（</seg><seg type="rt">め</seg><seg type="rp">）</seg></seg>を削げ<lb />
+空に<seg rend="sesame_dot" rendition="em">ぷらちな</seg>の脚<lb />
 胴體紫紺<lb />
 冬は臍にこもり<lb />
 ひるひなか<lb />
 ひとすぢのけむりを立て。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi310">午後</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi310">午後</seg></seg></seg>
 <lb />
-さめかけた<span type="ruby"><span type="rb">黄</span><span type="rp">（</span><span type="rt">きいろ</span><span type="rp">）</span></span>い花かんざしを<lb />
+さめかけた<seg type="ruby"><seg type="rb">黄</seg><seg type="rp">（</seg><seg type="rt">きいろ</seg><seg type="rp">）</seg></seg>い花かんざしを<lb />
 それでもだいじさうに<lb />
 髮に插してゐるのは土藏の屋根の<lb />
 無名草<lb />
 ところどころの腐つた晩春……<lb />
-壁ぎはに轉がる古い<span type="ruby"><span type="rb">空</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>つぽの甕<lb />
+壁ぎはに轉がる古い<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">から</seg><seg type="rp">）</seg></seg>つぽの甕<lb />
 一つは大きく他は小さい<lb />
-そしてなにか祕密におそろしいことを<span type="ruby"><span type="rb">計畫</span><span type="rp">（</span><span type="rt">たくら</span><span type="rp">）</span></span>んでゐる<lb />
+そしてなにか祕密におそろしいことを<seg type="ruby"><seg type="rb">計畫</seg><seg type="rp">（</seg><seg type="rt">たくら</seg><seg type="rp">）</seg></seg>んでゐる<lb />
 その影のさみしい壁の上<lb />
 どんよりした午後のひかりで膝まで浸し<lb />
 瞳の中では微風の纖毛の動搖。<lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
-<span rend="naka-midashi" rendition="h4"><span rend="midashi_anchor" rendition="a" xml:id="midashi320">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi320">
 風景<lb />
 　　　純銀もざいく<lb />
-</span></span>
-</span>
+</seg></seg>
+</seg>
 <lb />
 いちめんのなのはな<lb />
 いちめんのなのはな<lb />
@@ -530,31 +530,31 @@
 いちめんのなのはな。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi330">誘惑</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi330">誘惑</seg></seg></seg>
 <lb />
 ほのかなる月の觸手<lb />
-薔薇の<span type="ruby"><span type="rb">陰影</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>の<span rend="sesame_dot" rendition="em">じふてりあ</span><lb />
+薔薇の<seg type="ruby"><seg type="rb">陰影</seg><seg type="rp">（</seg><seg type="rt">かげ</seg><seg type="rp">）</seg></seg>の<seg rend="sesame_dot" rendition="em">じふてりあ</seg><lb />
 みなそこでなくした瞳<lb />
 それらが壺にみちあふれる。<lb />
-榲<span facs="../../../gaiji/1-85/1-85-67.png" rend="gaiji" rendition="img" source="※(「木＋孛」、第3水準1-85-67)" />のふくらみ<lb />
+榲<seg facs="../../../gaiji/1-85/1-85-67.png" rend="gaiji" rendition="img" source="※(「木＋孛」、第3水準1-85-67)" />のふくらみ<lb />
 空間のたるみ<lb />
 そして愛の重み<lb />
 蟲めがねの中なる悲哀。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi340">冬</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi340">冬</seg></seg></seg>
 <lb />
 ふところに電流を仕掛け<lb />
-眞珠頸飾りの<span rend="sesame_dot" rendition="em">いりゆじよん</span><lb />
+眞珠頸飾りの<seg rend="sesame_dot" rendition="em">いりゆじよん</seg><lb />
 ひかりまばゆし<lb />
 ぬつとつき出せ<lb />
 餓ゑた水晶のその手を……<lb />
 おお酒杯<lb />
 何といふ間抜けな雪だ<lb />
-何と……<span type="ruby"><span type="rb">凝視</span><span type="rp">（</span><span type="rt">みつむ</span><span type="rp">）</span></span>るゆびさきの噴水。<lb />
+何と……<seg type="ruby"><seg type="rb">凝視</seg><seg type="rp">（</seg><seg type="rt">みつむ</seg><seg type="rp">）</seg></seg>るゆびさきの噴水。<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi350">いのり</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi350">いのり</seg></seg></seg>
 <lb />
 つりばりぞそらよりたれつ<lb />
 まぼろしのこがねのうをら<lb />
@@ -564,6 +564,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,19 +9,18 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="1998-11-10">作成</resp><resp /><note>
 <lb />
-底本：「夢野久作怪奇幻想傑作選　あやかしの鼓」角川ホラー文庫、角川書店
-<lb />
+底本：「夢野久作怪奇幻想傑作選　あやかしの鼓」角川ホラー文庫、角川書店<lb />
 　　　1998（平成10）年4月10日初版発行<lb />
 初出：「新青年」博文館<lb />
 　　　1926（大正15）年10月<lb />
 ※このファイルは、ディスクマガジン『電脳倶楽部』に収録されたものをもとにしています。<lb />
 入力：上村光治<lb />
-校正：浜野　智<lb />
+校正：浜野智<lb />
 <date when="1998-11-10">1998年11月10日</date>公開<lb />
-<date when="2003-10-15">2003年10月15日</date>修正<lb />
+<date when="2019-04-27">2019年4月27日</date>修正<lb />
 青空文庫作成ファイル：<lb />
-このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
-      <respStmt><resp>Aozora Transcription</resp><name>上村光治</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>浜野　智</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>上村光治</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>浜野智</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
       <publicationStmt>
         <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
         <availability>
@@ -36,109 +35,106 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
-<lb />
-<lb />
-<lb />
-　私は嬉しい。「あやかしの<span type="ruby"><span type="rb">鼓</span><span type="rp">（</span><span type="rt">つづみ</span><span type="rp">）</span></span>」の由来を書いていい時機が来たから……<lb />
-「あやかし」という名前はこの鼓の胴が世の常の桜や<span type="ruby"><span type="rb">躑躅</span><span type="rp">（</span><span type="rt">つつじ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">異</span><span type="rp">（</span><span type="rt">ちが</span><span type="rp">）</span></span>って「<span type="ruby"><span type="rb">綾</span><span type="rp">（</span><span type="rt">あや</span><span type="rp">）</span></span>になった木目を持つ<span type="ruby"><span type="rb">赤樫</span><span type="rp">（</span><span type="rt">あかがし</span><span type="rp">）</span></span>」で出来ているところからもじったものらしい。同時にこの名称は能楽でいう「<span type="ruby"><span type="rb">妖怪</span><span type="rp">（</span><span type="rt">アヤカシ</span><span type="rp">）</span></span>」という意味にも<span type="ruby"><span type="rb">通</span><span type="rp">（</span><span type="rt">かよ</span><span type="rp">）</span></span>っている。<lb />
-　この鼓はまったく鼓の中の妖怪である。皮も胴もかなり新らしいもののように見えて実は百年ばかり前に出来たものらしいが、これを<span rend="SESAME_DOT" rendition="strong">しかけ</span>て打ってみると、ほかの鼓の、あのポンポンという明るい音とはまるで違った、陰気な、余韻の無い……ポ……ポ……ポ……という音を立てる。<lb />
-　この音は<span type="ruby"><span type="rb">今日</span><span type="rp">（</span><span type="rt">こんにち</span><span type="rp">）</span></span>迄の間に私が知っているだけで六、七人の生命を呪った。しかもその中の四人は大正の時代にいた人間であった。皆この鼓の音を聞いたために死を早めたのである。<lb />
-　これは今の世の中では信ぜられぬことであろう。それ等の呪われた人々の中で、最近に問題になった三人の変死の模様を取り調べた人々が、その犯人を私――<span type="ruby"><span type="rb">音丸久弥</span><span type="rp">（</span><span type="rt">おとまるきゅうや</span><span type="rp">）</span></span>と認めたのは無理もないことである。私はその最後の一人として生き残っているのだから……。<lb />
-　私はお願いする。私が死んだ<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>にどなたでもよろしいからこの遺書を世間に発表していただきたい。当世の学問をした人は<span type="ruby"><span type="rb">或</span><span type="rp">（</span><span type="rt">あるい</span><span type="rp">）</span></span>は笑われるかも知れぬが、しかし……。<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+　私は嬉しい。「あやかしの<seg type="ruby"><seg type="rb">鼓</seg><seg type="rp">（</seg><seg type="rt">つづみ</seg><seg type="rp">）</seg></seg>」の由来を書いていい時機が来たから……<lb />
+「あやかし」という名前はこの鼓の胴が世の常の桜や<seg type="ruby"><seg type="rb">躑躅</seg><seg type="rp">（</seg><seg type="rt">つつじ</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">異</seg><seg type="rp">（</seg><seg type="rt">ちが</seg><seg type="rp">）</seg></seg>って「<seg type="ruby"><seg type="rb">綾</seg><seg type="rp">（</seg><seg type="rt">あや</seg><seg type="rp">）</seg></seg>になった木目を持つ<seg type="ruby"><seg type="rb">赤樫</seg><seg type="rp">（</seg><seg type="rt">あかがし</seg><seg type="rp">）</seg></seg>」で出来ているところからもじったものらしい。同時にこの名称は能楽でいう「<seg type="ruby"><seg type="rb">妖怪</seg><seg type="rp">（</seg><seg type="rt">アヤカシ</seg><seg type="rp">）</seg></seg>」という意味にも<seg type="ruby"><seg type="rb">通</seg><seg type="rp">（</seg><seg type="rt">かよ</seg><seg type="rp">）</seg></seg>っている。<lb />
+　この鼓はまったく鼓の中の妖怪である。皮も胴もかなり新らしいもののように見えて実は百年ばかり前に出来たものらしいが、これを<seg rend="sesame_dot" rendition="em">しかけ</seg>て打ってみると、ほかの鼓の、あのポンポンという明るい音とはまるで違った、陰気な、余韻のない……ポ……ポ……ポ……という音を立てる。<lb />
+　この音は<seg type="ruby"><seg type="rb">今日</seg><seg type="rp">（</seg><seg type="rt">こんにち</seg><seg type="rp">）</seg></seg>迄の間に私が知っているだけで六、七人の生命を呪った。しかもその中の四人は大正の時代にいた人間であった。皆この鼓の音を聞いたために死を早めたのである。<lb />
+　これは今の世の中では信ぜられぬことであろう。それ等の呪われた人々の中で、最近に問題になった三人の変死の模様を取り調べた人々が、その犯人を私――<seg type="ruby"><seg type="rb">音丸久弥</seg><seg type="rp">（</seg><seg type="rt">おとまるきゅうや</seg><seg type="rp">）</seg></seg>と認めたのは無理もないことである。私はその最後の一人として生き残っているのだから……。<lb />
+　私はお願いする。私が死んだ<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">のち</seg><seg type="rp">）</seg></seg>にどなたでもよろしいからこの遺書を世間に発表していただきたい。当世の学問をした人は<seg type="ruby"><seg type="rb">或</seg><seg type="rp">（</seg><seg type="rt">あるい</seg><seg type="rp">）</seg></seg>は笑われるかも知れぬが、しかし……。<lb />
 　楽器というものの音が、どんなに深く人の心を捉えるものであるかということを、本当に理解しておられる人は私の言葉を信じて下さるであろう。<lb />
 　そう思うと私は胸が一パイになる。<lb />
 <lb />
-　今から百年ばかり前のこと京都に音丸<span type="ruby"><span type="rb">久能</span><span type="rp">（</span><span type="rt">くのう</span><span type="rp">）</span></span>という人がいた。<lb />
-　この人はもとさる尊とい身分の人の<span type="ruby"><span type="rb">妾腹</span><span type="rp">（</span><span type="rt">しょうふく</span><span type="rp">）</span></span>の子だという事であるが、生れ付き鼓をいじることが好きで若いうちから皮屋へ行っていろいろな皮をあつらえ、また材木屋から様々の木を<span type="ruby"><span type="rb">漁</span><span type="rp">（</span><span type="rt">あさ</span><span type="rp">）</span></span>って来て鼓を作るのを楽しみにしていた。そのために親からは<span type="ruby"><span type="rb">疎</span><span type="rp">（</span><span type="rt">うと</span><span type="rp">）</span></span>んぜられ、世間からは<span type="ruby"><span type="rb">蔑</span><span type="rp">（</span><span type="rt">さげ</span><span type="rp">）</span></span>すまれたが、本人はすこしも意としなかった。その後さる町家から妻を迎えてからは、とうとうこれを本職のようにして<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">うえ</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">方</span><span type="rp">（</span><span type="rt">がた</span><span type="rp">）</span></span>に出入りをはじめ、自ら鼓の音に<span type="ruby"><span type="rb">因</span><span type="rp">（</span><span type="rt">ちな</span><span type="rp">）</span></span>んだ音丸という苗字を<span type="ruby"><span type="rb">名宣</span><span type="rp">（</span><span type="rt">なの</span><span type="rp">）</span></span>るようになった。<lb />
-　久能の出入り先で<span type="ruby"><span type="rb">今大路</span><span type="rp">（</span><span type="rt">いまおおじ</span><span type="rp">）</span></span>という<span type="ruby"><span type="rb">堂上方</span><span type="rp">（</span><span type="rt">どうじょうがた</span><span type="rp">）</span></span>の家に<span type="ruby"><span type="rb">綾姫</span><span type="rp">（</span><span type="rt">あやひめ</span><span type="rp">）</span></span>という小鼓に堪能な美人がいた。この姫君はよほどいたずらな<span type="ruby"><span type="rb">性質</span><span type="rp">（</span><span type="rt">たち</span><span type="rp">）</span></span>で色々な男に関係したらしく、その時既に隠し子まであったというが、久能は妻子ある身でありながら、いつとなくこの姫君に思いを<span type="ruby"><span type="rb">焦</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>がすようになった<span type="ruby"><span type="rb">揚句</span><span type="rp">（</span><span type="rt">あげく</span><span type="rp">）</span></span>、ある時鼓の事に<span type="ruby"><span type="rb">因</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>せて人知れず云い寄った。<lb />
-　綾姫は久能にも色よい返事をしたのであった。しかしそれとてもほんの一時のなぐさみであったらしく、間もなく同じ堂上方で、これも小鼓の上手ときこえた<span type="ruby"><span type="rb">鶴原卿</span><span type="rp">（</span><span type="rt">つるはらきょう</span><span type="rp">）</span></span>というのへ<span type="ruby"><span type="rb">嫁</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>づくこととなった。<lb />
-　これを聞いた久能は何とも云わなかった。そうしてお<span type="ruby"><span type="rb">輿入</span><span type="rp">（</span><span type="rt">こしい</span><span type="rp">）</span></span>れの時にお道具の中に数えて下さいといって自作の鼓を一個さし上げた。<lb />
-　これが<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>の「あやかしの鼓」であった。<lb />
+　今から百年ばかり前のこと京都に音丸<seg type="ruby"><seg type="rb">久能</seg><seg type="rp">（</seg><seg type="rt">くのう</seg><seg type="rp">）</seg></seg>という人がいた。<lb />
+　この人はもとさる尊とい身分の人の<seg type="ruby"><seg type="rb">妾腹</seg><seg type="rp">（</seg><seg type="rt">しょうふく</seg><seg type="rp">）</seg></seg>の子だという事であるが、生れ付き鼓をいじることが好きで若いうちから皮屋へ行っていろいろな皮をあつらえ、また材木屋から様々の木を<seg type="ruby"><seg type="rb">漁</seg><seg type="rp">（</seg><seg type="rt">あさ</seg><seg type="rp">）</seg></seg>って来て鼓を作るのを楽しみにしていた。そのために親からは<seg type="ruby"><seg type="rb">疎</seg><seg type="rp">（</seg><seg type="rt">うと</seg><seg type="rp">）</seg></seg>んぜられ、世間からは<seg type="ruby"><seg type="rb">蔑</seg><seg type="rp">（</seg><seg type="rt">さげ</seg><seg type="rp">）</seg></seg>すまれたが、本人はすこしも意としなかった。その後さる町家から妻を迎えてからは、とうとうこれを本職のようにして<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">うえ</seg><seg type="rp">）</seg></seg>つ<seg type="ruby"><seg type="rb">方</seg><seg type="rp">（</seg><seg type="rt">がた</seg><seg type="rp">）</seg></seg>に出入りをはじめ、自ら鼓の音に<seg type="ruby"><seg type="rb">因</seg><seg type="rp">（</seg><seg type="rt">ちな</seg><seg type="rp">）</seg></seg>んだ音丸という苗字を<seg type="ruby"><seg type="rb">名宣</seg><seg type="rp">（</seg><seg type="rt">なの</seg><seg type="rp">）</seg></seg>るようになった。<lb />
+　久能の出入り先で<seg type="ruby"><seg type="rb">今大路</seg><seg type="rp">（</seg><seg type="rt">いまおおじ</seg><seg type="rp">）</seg></seg>という<seg type="ruby"><seg type="rb">堂上方</seg><seg type="rp">（</seg><seg type="rt">どうじょうがた</seg><seg type="rp">）</seg></seg>の家に<seg type="ruby"><seg type="rb">綾姫</seg><seg type="rp">（</seg><seg type="rt">あやひめ</seg><seg type="rp">）</seg></seg>という小鼓に堪能な美人がいた。この姫君はよほどいたずらな<seg type="ruby"><seg type="rb">性質</seg><seg type="rp">（</seg><seg type="rt">たち</seg><seg type="rp">）</seg></seg>で色々な男に関係したらしく、その時既に隠し子まであったというが、久能は妻子ある身でありながら、いつとなくこの姫君に思いを<seg type="ruby"><seg type="rb">焦</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>がすようになった<seg type="ruby"><seg type="rb">揚句</seg><seg type="rp">（</seg><seg type="rt">あげく</seg><seg type="rp">）</seg></seg>、ある時鼓の事に<seg type="ruby"><seg type="rb">因</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>せて人知れず云い寄った。<lb />
+　綾姫は久能にも色よい返事をしたのであった。しかしそれとてもほんの一時のなぐさみであったらしく、間もなく同じ堂上方で、これも小鼓の上手ときこえた<seg type="ruby"><seg type="rb">鶴原卿</seg><seg type="rp">（</seg><seg type="rt">つるはらきょう</seg><seg type="rp">）</seg></seg>というのへ<seg type="ruby"><seg type="rb">嫁</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>づくこととなった。<lb />
+　これを聞いた久能は何とも云わなかった。そうしてお<seg type="ruby"><seg type="rb">輿入</seg><seg type="rp">（</seg><seg type="rt">こしい</seg><seg type="rp">）</seg></seg>れの時にお道具の中に数えて下さいといって自作の鼓を一個さし上げた。<lb />
+　これが<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">のち</seg><seg type="rp">）</seg></seg>の「あやかしの鼓」であった。<lb />
 　鶴原家に不吉なことが起ったのもそれからのことであった。<lb />
 　綾姫は鶴原家に嫁づいて後その鼓を取り出して打って見ると、尋常と違った音色が出たので皆驚いた。それは恐ろしく陰気な、けれども静かな美くしい音であった。<lb />
-　綾姫はその後何と思ったか、<span type="ruby"><span type="rb">一室</span><span type="rp">（</span><span type="rt">ひとま</span><span type="rp">）</span></span>に閉じこもってこの鼓を夜となく昼となく打っていた。そうして或る朝何の故ともなく自害をして世を早めた。するとそれを苦に病んだものかどうかわからぬが、鶴原卿もその後病気勝ちになって、或る年関東へお使者に行った帰り<span type="ruby"><span type="rb">途</span><span type="rp">（</span><span type="rt">みち</span><span type="rp">）</span></span>に浜松とかまで来ると血を吐いて落命した。今でいう結核か何かであったろう。その跡目は卿の弟が継いだそうである。<lb />
-　しかしその鼓を作った久能も無事では済まなかった。久能はあとでこの鼓をさし上げたことを心から苦にして、或る時鶴原卿の邸内へ忍び入ってこの鼓を取り返そうとすると、<span type="ruby"><span type="rb">生憎</span><span type="rp">（</span><span type="rt">あいにく</span><span type="rp">）</span></span>その頃召し抱えられた左近という若侍に見付けられて肩先を斬られた。そのまま久能は鼓を取り得ずに逃げ帰って間もなく息を引き取ったが、その<span type="ruby"><span type="rb">末期</span><span type="rp">（</span><span type="rt">いまわ</span><span type="rp">）</span></span>にこんなことを云った。<lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em">
-「私は私があの方に見すてられて<span type="ruby"><span type="rb">空虚</span><span type="rp">（</span><span type="rt">うつろ</span><span type="rp">）</span></span>となった心持ちをあの鼓の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>にあらわしたのだ。だから生き生きとした音を出させようとして作った<span type="ruby"><span type="rb">普通</span><span type="rp">（</span><span type="rt">なみ</span><span type="rp">）</span></span>の鼓とは音色が違う筈である。私はこれを私の思うた人に打たせて『生きながら死んでいる私』の心持ちを思い遣ってもらおうと思ったのだ。ちっとも<span type="ruby"><span type="rb">怨</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>んだ心持ちはなかった。その証拠にはあの鼓の胴を見よ。あれは宝の木といわれた綾模様の木目を持つ赤樫の古材で、日本中に私の<span type="ruby"><span type="rb">鑿</span><span type="rp">（</span><span type="rt">のみ</span><span type="rp">）</span></span>しか受け付けない木だ。その上に外側の<span type="ruby"><span type="rb">蒔絵</span><span type="rp">（</span><span type="rt">まきえ</span><span type="rp">）</span></span>まで宝づくしにしておいた。あれはお<span type="ruby"><span type="rb">公卿</span><span type="rp">（</span><span type="rt">くげ</span><span type="rp">）</span></span>様というものが貧乏なものだから、せめてあの方の<span type="ruby"><span type="rb">嫁</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>かれた<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>だけでも、お<span type="ruby"><span type="rb">勝手許</span><span type="rp">（</span><span type="rt">かってもと</span><span type="rp">）</span></span>の御都合がよいようにと祈る心からであった。それがあんなことになろうとは夢にも思い設けなんだ。誰でもよい。私が死に際のお願いにあの鼓を取り返して下さらんか。そうして又と役に立たんように打ち潰して下さらんか。どうぞどうぞ頼みます」<lb />
-</span>
+　綾姫はその後何と思ったか、<seg type="ruby"><seg type="rb">一室</seg><seg type="rp">（</seg><seg type="rt">ひとま</seg><seg type="rp">）</seg></seg>に閉じこもってこの鼓を夜となく昼となく打っていた。そうして或る朝何の故ともなく自害をして世を早めた。するとそれを苦に病んだものかどうかわからぬが、鶴原卿もその後病気勝ちになって、或る年関東へお使者に行った帰り<seg type="ruby"><seg type="rb">途</seg><seg type="rp">（</seg><seg type="rt">みち</seg><seg type="rp">）</seg></seg>に浜松とかまで来ると血を吐いて落命した。今でいう結核か何かであったろう。その跡目は卿の弟が継いだそうである。<lb />
+　しかしその鼓を作った久能も無事では済まなかった。久能はあとでこの鼓をさし上げたことを心から苦にして、或る時鶴原卿の邸内へ忍び入ってこの鼓を取り返そうとすると、<seg type="ruby"><seg type="rb">生憎</seg><seg type="rp">（</seg><seg type="rt">あいにく</seg><seg type="rp">）</seg></seg>その頃召し抱えられた左近という若侍に見付けられて肩先を斬られた。そのまま久能は鼓を取り得ずに逃げ帰って間もなく息を引き取ったが、その<seg type="ruby"><seg type="rb">末期</seg><seg type="rp">（</seg><seg type="rt">いまわ</seg><seg type="rp">）</seg></seg>にこんなことを云った。<lb />
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+「私は私があの方に見すてられて<seg type="ruby"><seg type="rb">空虚</seg><seg type="rp">（</seg><seg type="rt">うつろ</seg><seg type="rp">）</seg></seg>となった心持ちをあの鼓の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>にあらわしたのだ。だから生き生きとした音を出させようとして作った<seg type="ruby"><seg type="rb">普通</seg><seg type="rp">（</seg><seg type="rt">なみ</seg><seg type="rp">）</seg></seg>の鼓とは音色が違う筈である。私はこれを私の思うた人に打たせて『生きながら死んでいる私』の心持ちを思い遣ってもらおうと思ったのだ。ちっとも<seg type="ruby"><seg type="rb">怨</seg><seg type="rp">（</seg><seg type="rt">うら</seg><seg type="rp">）</seg></seg>んだ心持ちはなかった。その証拠にはあの鼓の胴を見よ。あれは宝の木といわれた綾模様の木目を持つ赤樫の古材で、日本中に私の<seg type="ruby"><seg type="rb">鑿</seg><seg type="rp">（</seg><seg type="rt">のみ</seg><seg type="rp">）</seg></seg>しか受け付けない木だ。その上に外側の<seg type="ruby"><seg type="rb">蒔絵</seg><seg type="rp">（</seg><seg type="rt">まきえ</seg><seg type="rp">）</seg></seg>まで宝づくしにしておいた。あれはお<seg type="ruby"><seg type="rb">公卿</seg><seg type="rp">（</seg><seg type="rt">くげ</seg><seg type="rp">）</seg></seg>様というものが貧乏なものだから、せめてあの方の<seg type="ruby"><seg type="rb">嫁</seg><seg type="rp">（</seg><seg type="rt">ゆ</seg><seg type="rp">）</seg></seg>かれた<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>だけでも、お<seg type="ruby"><seg type="rb">勝手許</seg><seg type="rp">（</seg><seg type="rt">かってもと</seg><seg type="rp">）</seg></seg>の御都合がよいようにと祈る心からであった。それがあんなことになろうとは夢にも思い設けなんだ。誰でもよい。私が死に際のお願いにあの鼓を取り返して下さらんか。そうして又と役に立たんように打ち潰して下さらんか。どうぞどうぞ頼みます」<lb />
+</seg>
 　これが久能の遺言となったが、誰も鶴原家に鼓を取り返しに行く者なぞなかった。それどころでなく変死であったので、ごく秘密で久能の死骸を葬った。<lb />
 <lb />
-　しかしこの遺言はいつとなく噂となって世間に広まり、果は鶴原家の耳にも入るようになった。鶴原家ではそれからその鼓をソックリ箱に<span type="ruby"><span type="rb">蔵</span><span type="rp">（</span><span type="rt">おさ</span><span type="rp">）</span></span>めて、土蔵の奥に秘めて虫干しの時にも出さないようにした。それと一緒に誰云うとなく「あやかしの鼓」という名が附いて、その箱の蓋を開いただけでも怪しいことがある……その代りこの鼓を持ち伝えてさえおれば<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の中に金が湧くと言い伝えられた。そのおかげかどうかわからぬが、その後の鶴原家には別に変ったこともなく<span type="ruby"><span type="rb">却</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>ってだんだんと勝手向きもよくなって維新後は子爵を授けられたが、大正の初めになると京都を引き上げて東京の東中野に宏大な<span type="ruby"><span type="rb">邸</span><span type="rp">（</span><span type="rt">やしき</span><span type="rp">）</span></span>を構えた。<lb />
-　これと反対に綾姫の里方の今大路家はあまり仕合せがよくなかった。綾姫が鶴原家に<span type="ruby"><span type="rb">嫁</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>づいたたあとで、<span type="ruby"><span type="rb">血統</span><span type="rp">（</span><span type="rt">ちすじ</span><span type="rp">）</span></span>が絶えそうになったが綾姫の隠し子があったのを探し出して表向きを都合よくして、やっと跡目を立てたような始末であった。しかしその後しだいに零落してしまって維新後はどうなったか、わからなくなっているという。<lb />
-　こうして「あやかしの鼓」に関係のある二軒の家が一軒は栄え一軒は落ちぶれている一方に、音丸久能の子の<span type="ruby"><span type="rb">久伯</span><span type="rp">（</span><span type="rt">きゅうはく</span><span type="rp">）</span></span>と、その子の<span type="ruby"><span type="rb">久意</span><span type="rp">（</span><span type="rt">きゅうい</span><span type="rp">）</span></span>は久能のあとを継いで鼓いじりを商売にしてどうにか暮らしているにはいた。けれども二人とも久能の遺言を本気に受けて鶴原家からアヤカシの鼓を引き取ろうというようなことはしなかった。<lb />
+　しかしこの遺言はいつとなく噂となって世間に広まり、果は鶴原家の耳にも入るようになった。鶴原家ではそれからその鼓をソックリ箱に<seg type="ruby"><seg type="rb">蔵</seg><seg type="rp">（</seg><seg type="rt">おさ</seg><seg type="rp">）</seg></seg>めて、土蔵の奥に秘めて虫干しの時にも出さないようにした。それと一緒に誰云うとなく「あやかしの鼓」という名が附いて、その箱の蓋を開いただけでも怪しいことがある……その代りこの鼓を持ち伝えてさえおれば<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の中に金が湧くと言い伝えられた。そのおかげかどうかわからぬが、その後の鶴原家には別に変ったこともなく<seg type="ruby"><seg type="rb">却</seg><seg type="rp">（</seg><seg type="rt">かえ</seg><seg type="rp">）</seg></seg>ってだんだんと勝手向きもよくなって維新後は子爵を授けられたが、大正の初めになると京都を引き上げて東京の東中野に宏大な<seg type="ruby"><seg type="rb">邸</seg><seg type="rp">（</seg><seg type="rt">やしき</seg><seg type="rp">）</seg></seg>を構えた。<lb />
+　これと反対に綾姫の里方の今大路家はあまり仕合せがよくなかった。綾姫が鶴原家に<seg type="ruby"><seg type="rb">嫁</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>づいたあとで、<seg type="ruby"><seg type="rb">血統</seg><seg type="rp">（</seg><seg type="rt">ちすじ</seg><seg type="rp">）</seg></seg>が絶えそうになったが綾姫の隠し子があったのを探し出して表向きを都合よくして、やっと跡目を立てたような始末であった。しかしその後次第に零落してしまって維新後はどうなったか、わからなくなっているという。<lb />
+　こうして「あやかしの鼓」に関係のある二軒の家が一軒は栄え一軒は落ちぶれている一方に、音丸久能の子の<seg type="ruby"><seg type="rb">久伯</seg><seg type="rp">（</seg><seg type="rt">きゅうはく</seg><seg type="rp">）</seg></seg>と、その子の<seg type="ruby"><seg type="rb">久意</seg><seg type="rp">（</seg><seg type="rt">きゅうい</seg><seg type="rp">）</seg></seg>は久能のあとを継いで鼓いじりを商売にしてどうにか暮しているにはいた。けれども二人とも久能の遺言を本気に受けて鶴原家からアヤカシの鼓を引き取ろうというようなことはしなかった。<lb />
 　この久能の孫の久意が私の父であった。<lb />
-　私の父は京都にいる時分から鼓の<span type="ruby"><span type="rb">修繕</span><span type="rp">（</span><span type="rt">ていれ</span><span type="rp">）</span></span>や仲買い見たようなことをやっていた。けれども<span type="ruby"><span type="rb">手職</span><span type="rp">（</span><span type="rt">てしょく</span><span type="rp">）</span></span>が出来たらしい割りにお客の取り付きがわるく、最初に生れた男の子の<span type="ruby"><span type="rb">久禄</span><span type="rp">（</span><span type="rt">きゅうろく</span><span type="rp">）</span></span>というのは生涯音信不通で、六ツの年に<span type="ruby"><span type="rb">他家</span><span type="rp">（</span><span type="rt">よそ</span><span type="rp">）</span></span>へ遣るという有り様であった。これを東京の九段におられる能小鼓の名人で高林弥九郎という人が見かねて東京に呼び寄せ、牛込の<span type="ruby"><span type="rb">筑土</span><span type="rp">（</span><span type="rt">つくど</span><span type="rp">）</span></span>八幡の近くに小さな<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>を借りて住まわせて下すったので父はやっと息を<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いたという事である。<lb />
-　しかし明治三十六年になって母が私を生み残して死ぬと、どうしたものか父は仕事を怠け初めて貸本ばかり読むようになった。それから大正三年の夏に脊髄病に<span type="ruby"><span type="rb">罹</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>って大正五年の秋まで足かけ三年の間私に介抱されたあげく肺炎で死んだ。その時が五十五であった。<lb />
+　私の父は京都にいる時分から鼓の<seg type="ruby"><seg type="rb">修繕</seg><seg type="rp">（</seg><seg type="rt">ていれ</seg><seg type="rp">）</seg></seg>や仲買い見たようなことをやっていた。けれども<seg type="ruby"><seg type="rb">手職</seg><seg type="rp">（</seg><seg type="rt">てしょく</seg><seg type="rp">）</seg></seg>が出来たらしい割りにお客の取り付きがわるく、最初に生れた男の子の<seg type="ruby"><seg type="rb">久禄</seg><seg type="rp">（</seg><seg type="rt">きゅうろく</seg><seg type="rp">）</seg></seg>というのは生涯音信不通で、六ツの年に<seg type="ruby"><seg type="rb">他家</seg><seg type="rp">（</seg><seg type="rt">よそ</seg><seg type="rp">）</seg></seg>へ遣るという有り様であった。これを東京の九段におられる能小鼓の名人で高林弥九郎という人が見かねて東京に呼び寄せ、牛込の<seg type="ruby"><seg type="rb">筑土</seg><seg type="rp">（</seg><seg type="rt">つくど</seg><seg type="rp">）</seg></seg>八幡の近くに小さな<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>を借りて住まわせて下すったので父はやっと息を<seg type="ruby"><seg type="rb">吐</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いたという事である。<lb />
+　しかし明治三十六年になって母が私を生み残して死ぬと、どうしたものか父は仕事を怠け初めて貸本ばかり読むようになった。それから大正三年の夏に脊髄病に<seg type="ruby"><seg type="rb">罹</seg><seg type="rp">（</seg><seg type="rt">かか</seg><seg type="rp">）</seg></seg>って大正五年の秋まで足かけ三年の間私に介抱されたあげく肺炎で死んだ。その時が五十五であった。<lb />
 　その死ぬすこし前のことであった。<lb />
-　私が<span type="ruby"><span type="rb">復習</span><span type="rp">（</span><span type="rt">おさらえ</span><span type="rp">）</span></span>を済ましてから九段の老先生から借りて来た「近世説美少年録」という本を読んできかせようとすると父は、<lb />
+　私が<seg type="ruby"><seg type="rb">復習</seg><seg type="rp">（</seg><seg type="rt">おさらえ</seg><seg type="rp">）</seg></seg>を済ましてから九段の老先生から借りて来た「近世説美少年録」という本を読んできかせようとすると父は、<lb />
 「ちょっと待て、今日はおれが面白い話をしてきかせる」<lb />
 　と云いながらポツポツと話し出した。それが「アヤカシの鼓」の由来で私にとっては全く初耳の話であった。<lb />
 　……ところで……<lb />
-　と父は<span type="ruby"><span type="rb">白湯</span><span type="rp">（</span><span type="rt">さゆ</span><span type="rp">）</span></span>を一パイ飲んで話し続けた。<lb />
+　と父は<seg type="ruby"><seg type="rb">白湯</seg><seg type="rp">（</seg><seg type="rt">さゆ</seg><seg type="rp">）</seg></seg>を一パイ飲んで話し続けた。<lb />
 「……実はおれもこの話をあまり本気にしなかった。名高い職人にはよくそんな因縁ばなしがくっついているものだから……東京に来ても鶴原家がどこにあるやら気も付かず、また考えもしなかった。<lb />
-　すると今から三年ばかり前の春のこと、朝早くおれが表を掃いていると<span type="ruby"><span type="rb">二十歳</span><span type="rp">（</span><span type="rt">はたち</span><span type="rp">）</span></span>ばかりの若い美しい<span rend="SESAME_DOT" rendition="strong">はいからさん</span>が来て、この鼓の調子を出してくれと云いながら綺麗な皮と胴を出した。おれは何気なく受け取って見ると驚いた。胴の模様は宝づくしで材木は美事な赤樫だ。話にきいた『あやかしの鼓』に違いないのだ。その<span rend="SESAME_DOT" rendition="strong">はいからさん</span>はその時こんなことを云った。<lb />
-『私は中野の鶴原家のもので九段の高林先生の処でお稽古を願っているものだが、この鼓がうちにあったから出して打って見たんだけど、どうしても<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>が出ない。何でもよっぽどいい鼓だと云い伝えられているのだから、音が出ない筈はないと思うのだけど』<lb />
+　すると今から三年ばかり前の春のこと、朝早くおれが表を掃いていると<seg type="ruby"><seg type="rb">二十歳</seg><seg type="rp">（</seg><seg type="rt">はたち</seg><seg type="rp">）</seg></seg>ばかりの若い美しい<seg rend="sesame_dot" rendition="em">はいからさん</seg>が来て、この鼓の調子を出してくれと云いながら綺麗な皮と胴を出した。おれは何気なく受け取って見ると驚いた。胴の模様は宝づくしで材木は美事な赤樫だ。話にきいた『あやかしの鼓』に違いないのだ。その<seg rend="sesame_dot" rendition="em">はいからさん</seg>はその時こんなことを云った。<lb />
+『私は中野の鶴原家のもので九段の高林先生の処でお稽古を願っているものだが、この鼓がうちにあったから出して打って見たんだけど、どうしても<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>が出ない。何でもよっぽどいい鼓だと云い伝えられているのだから、音が出ない筈はないと思うのだけど』<lb />
 　と云うんだ。おれは試しに、<lb />
 『ヘエ。その云い伝えとはどんなことで……』<lb />
 　と引っかけて見たが奥さんはまだ鶴原家に来て間もないせいか、詳しいことは知らないらしかった。只、<lb />
 『赤ん坊のような名前だったと思います』<lb />
-　と云ったのでおれはいよいよそれに違いないと思った。おれはその鼓を一先ず預ることにして<span type="ruby"><span type="rb">別嬪</span><span type="rp">（</span><span type="rt">べっぴん</span><span type="rp">）</span></span>さんをかえした。そのあとですぐに仕かけて打って見ると……おれは<span type="ruby"><span type="rb">顫</span><span type="rp">（</span><span type="rt">ふる</span><span type="rp">）</span></span>え上った。これは只の鼓じゃない。<span type="ruby"><span type="rb">祖父</span><span type="rp">（</span><span type="rt">じい</span><span type="rp">）</span></span>さんの久能の遺言は本当であった。鶴原家に<span type="ruby"><span type="rb">祟</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>るというのも嘘じゃないと思った。<lb />
-　とはいうものの鶴原家がこの鼓を売るわけはないし、どんなに考えてもこっちのものにする工夫が附かなかったので、おれはそのあくる日中野の鶴原家に鼓を持って行って奥さんに会ってこんな嘘を<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いた。<lb />
-『この鼓はどうもお役に立ちそうに思えませぬ。第一長い事打たずにお<span type="ruby"><span type="rb">仕舞</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>いおきになっておりましたので皮が駄目になっております。胴もお見かけはまことに結構に出来ておりますが、材が樫で御座いますからちょっと<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>が出かねます。多分これは昔の御縁組みの時のお飾り道具にお用い遊ばしたものと存じますが……その証拠には<span type="ruby"><span type="rb">手擦</span><span type="rp">（</span><span type="rt">カンニュウ</span><span type="rp">）</span></span>があまり御座いませんので……お模様も宝づくしで御座いますから……』<lb />
-　これは家業の一番<span type="ruby"><span type="rb">六</span><span type="rp">（</span><span type="rt">むず</span><span type="rp">）</span></span>かしいところで、こっちの名を捨ててお向う様のおためを思わねばならぬ時のほか、滅多に<span type="ruby"><span type="rb">吐</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>いてはならぬ嘘なのだ。ところが若い奥さんはサモ満足そうにうなずいたよ。<lb />
-『<span type="ruby"><span type="rb">妾</span><span type="rp">（</span><span type="rt">わたし</span><span type="rp">）</span></span>もおおかた、そんな事だろうと思ったヨ。妾の手がわるいのかと思っていたけど、それを聞いて安心しました。じゃ<span type="ruby"><span type="rb">大切</span><span type="rp">（</span><span type="rt">だいじ</span><span type="rp">）</span></span>にして仕舞っておきましょう』<lb />
+　と云ったのでおれはいよいよそれに違いないと思った。おれはその鼓を一先ず預ることにして<seg type="ruby"><seg type="rb">別嬪</seg><seg type="rp">（</seg><seg type="rt">べっぴん</seg><seg type="rp">）</seg></seg>さんをかえした。そのあとですぐに仕かけて打って見ると……おれは<seg type="ruby"><seg type="rb">顫</seg><seg type="rp">（</seg><seg type="rt">ふる</seg><seg type="rp">）</seg></seg>え上った。これは只の鼓じゃない。<seg type="ruby"><seg type="rb">祖父</seg><seg type="rp">（</seg><seg type="rt">じい</seg><seg type="rp">）</seg></seg>さんの久能の遺言は本当であった。鶴原家に<seg type="ruby"><seg type="rb">祟</seg><seg type="rp">（</seg><seg type="rt">たた</seg><seg type="rp">）</seg></seg>るというのも嘘じゃないと思った。<lb />
+　とはいうものの鶴原家がこの鼓を売るわけはないし、どんなに考えてもこっちのものにする工夫が附かなかったので、おれはそのあくる日中野の鶴原家に鼓を持って行って奥さんに会ってこんな嘘を<seg type="ruby"><seg type="rb">吐</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いた。<lb />
+『この鼓はどうもお役に立ちそうに思えませぬ。第一長い事打たずにお<seg type="ruby"><seg type="rb">仕舞</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>いおきになっておりましたので皮が駄目になっております。胴もお見かけはまことに結構に出来ておりますが、材が樫で御座いますからちょっと<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>が出かねます。多分これは昔の御縁組みの時のお飾り道具にお用い遊ばしたものと存じますが……その証拠には<seg type="ruby"><seg type="rb">手擦</seg><seg type="rp">（</seg><seg type="rt">カンニュウ</seg><seg type="rp">）</seg></seg>があまり御座いませんので……お模様も宝づくしで御座いますから……』<lb />
+　これは家業の一番<seg type="ruby"><seg type="rb">六</seg><seg type="rp">（</seg><seg type="rt">むず</seg><seg type="rp">）</seg></seg>かしいところで、こっちの名を捨ててお向う様のおためを思わねばならぬ時のほか、滅多に<seg type="ruby"><seg type="rb">吐</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いてはならぬ嘘なのだ。ところが若い奥さんはサモ満足そうにうなずいたよ。<lb />
+『<seg type="ruby"><seg type="rb">妾</seg><seg type="rp">（</seg><seg type="rt">わたし</seg><seg type="rp">）</seg></seg>もおおかた、そんな事だろうと思ったヨ。妾の手がわるいのかと思っていたけど、それを聞いて安心しました。じゃ<seg type="ruby"><seg type="rb">大切</seg><seg type="rp">（</seg><seg type="rt">だいじ</seg><seg type="rp">）</seg></seg>にして仕舞っておきましょう』<lb />
 　って云って笑ってね。十円札を一枚、無理に包んでくれたよ。それから間もなく俺は脊髄にかかって仕事が出来なくなったし、その奥さんも別に仕事を持って来なかった。<lb />
 　けれども俺は何となく気になるから、その後九段へ伺うたんびに内弟子の連中から鶴原家の様子を聞き集めて見ると……どうだ……。<lb />
-　鶴原の子爵様というのは元来、お家柄自慢の気の小さい人で、なかなかお嫁さんが<span type="ruby"><span type="rb">定</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>まらないために三十まで<span type="ruby"><span type="rb">独身</span><span type="rp">（</span><span type="rt">ひとりみ</span><span type="rp">）</span></span>でいた位だったそうだが、その前の年の暮にチョットした用事で大阪へ行くと、世間でいう魔がさしたとでもいうのだろう。どこで<span type="ruby"><span type="rb">見初</span><span type="rp">（</span><span type="rt">みそ</span><span type="rp">）</span></span>めたものか今の奥さんに思い付かれて夢中になったらしく、とうとう子爵家へ引っぱり込んでしまった。するとその奥さんの<span type="ruby"><span type="rb">素性</span><span type="rp">（</span><span type="rt">すじょう</span><span type="rp">）</span></span>がわからないというので、親類一統から義絶された揚げ句、京都におれなくなって、東京の中野に移転して来たものだった。<lb />
-　ところでそれはまあいいとしてその奥さんは、名前をたしかツル子さんといったっけが……東京へ越して来て鼓のお稽古を初めると間もなく、子爵様の留守の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>に、お附きの女中が青くなって止めるのもきかないで『あやかしの鼓』を出して打って見たものだ。それをあとから子爵様が聞いてヒドク叱ったそうだが、それを気に病んだものか子爵様は間もなく疳が昂ぶり出して座敷牢みたようなものの中へ入れられてしまった。それからツル子夫人は中野の邸を売り払って<span type="ruby"><span type="rb">麻布</span><span type="rp">（</span><span type="rt">あざぶ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">笄町</span><span type="rp">（</span><span type="rt">こうがいちょう</span><span type="rp">）</span></span>に病室を兼ねた小さな<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>を建てて住んだものだが、そうして病人の介抱をしいしい若先生のところへお稽古に来ているうちに子爵様はとうとう糸のように痩せ細って、今年の春亡くなってしまった。<lb />
-　そうすると鶴原の<span type="ruby"><span type="rb">未亡人</span><span type="rp">（</span><span type="rt">ごけさん</span><span type="rp">）</span></span>は、そのあとへ、自分の<span type="ruby"><span type="rb">甥</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>とかに当る若い男を連れて来て跡目にしようとしたが、鶴原の親類はみんなこの仕打ちを<span type="ruby"><span type="rb">憤</span><span type="rp">（</span><span type="rt">おこ</span><span type="rp">）</span></span>ってしまって、お<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>に願って華族の名前を除くといって騒いでいる。おまけに<span type="ruby"><span type="rb">若未亡</span><span type="rp">（</span><span type="rt">わかごけ</span><span type="rp">）</span></span>のツル子さんについても、よくない噂ばかり……ドッチにしても鶴原家のあとは<span type="ruby"><span type="rb">断絶</span><span type="rp">（</span><span type="rt">たえ</span><span type="rp">）</span></span>たと同様になってしまった。<lb />
-　おれは誰にも云わないが、これはあの『あやかしの鼓』の<span rend="SESAME_DOT" rendition="strong">せい</span>だと思う。そうして、それにつけておれはこの頃から決心をした。お前は俺の子だけあって鼓のいじり方がもうとっくにわかっている。今にきっと打てるようになると思う。<lb />
-　けれども俺はお前に云っておく。お前はこれから<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>、忘れても鼓をいじってはいけないぞ。これは俺の<span type="ruby"><span type="rb">御幣担</span><span type="rp">（</span><span type="rt">ごへいかつ</span><span type="rp">）</span></span>ぎじゃない。鼓をいじると自然いい道具が欲しくなる。そうしておしまいにはキットあの鼓に心を惹かされるようになるから云うんだ。あのアヤカシの鼓は鼓作りの奥儀をあらわしたものだからナ……。<lb />
-　そうなったらお前は運の尽きだ。あの鼓の音をきいて妙な気もちにならないものはないのだから。<span type="ruby"><span type="rb">狂人</span><span type="rp">（</span><span type="rt">きちがい</span><span type="rp">）</span></span>になるか変人になるかどっちかだ。<lb />
+　鶴原の子爵様というのは元来、お家柄自慢の気の小さい人で、なかなかお嫁さんが<seg type="ruby"><seg type="rb">定</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>まらないために三十まで<seg type="ruby"><seg type="rb">独身</seg><seg type="rp">（</seg><seg type="rt">ひとりみ</seg><seg type="rp">）</seg></seg>でいた位だったそうだが、その前の年の暮にチョットした用事で大阪へ行くと、世間でいう魔がさしたとでもいうのだろう。どこで<seg type="ruby"><seg type="rb">見初</seg><seg type="rp">（</seg><seg type="rt">みそ</seg><seg type="rp">）</seg></seg>めたものか今の奥さんに思い付かれて夢中になったらしく、とうとう子爵家へ引っぱり込んでしまった。するとその奥さんの<seg type="ruby"><seg type="rb">素性</seg><seg type="rp">（</seg><seg type="rt">すじょう</seg><seg type="rp">）</seg></seg>がわからないというので、親類一統から義絶された揚げ句、京都におれなくなって、東京の中野に移転して来たものだった。<lb />
+　ところでそれはまあいいとしてその奥さんは、名前をたしかツル子さんといったっけが……東京へ越して来て鼓のお稽古を初めると間もなく、子爵様の留守の<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>に、お附きの女中が青くなって止めるのもきかないで『あやかしの鼓』を出して打って見たものだ。それをあとから子爵様が聞いてヒドク叱ったそうだが、それを気に病んだものか子爵様は間もなく疳が昂ぶり出して座敷牢みたようなものの中へ入れられてしまった。それからツル子夫人は中野の邸を売り払って<seg type="ruby"><seg type="rb">麻布</seg><seg type="rp">（</seg><seg type="rt">あざぶ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">笄町</seg><seg type="rp">（</seg><seg type="rt">こうがいちょう</seg><seg type="rp">）</seg></seg>に病室を兼ねた小さな<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>を建てて住んだものだが、そうして病人の介抱をしいしい若先生のところへお稽古に来ているうちに子爵様はとうとう糸のように痩せ細って、今年の春亡くなってしまった。<lb />
+　そうすると鶴原の<seg type="ruby"><seg type="rb">未亡人</seg><seg type="rp">（</seg><seg type="rt">ごけさん</seg><seg type="rp">）</seg></seg>は、そのあとへ、自分の<seg type="ruby"><seg type="rb">甥</seg><seg type="rp">（</seg><seg type="rt">おい</seg><seg type="rp">）</seg></seg>とかに当る若い男を連れて来て跡目にしようとしたが、鶴原の親類はみんなこの仕打ちを<seg type="ruby"><seg type="rb">憤</seg><seg type="rp">（</seg><seg type="rt">おこ</seg><seg type="rp">）</seg></seg>ってしまって、お<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg>に願って華族の名前を除くといって騒いでいる。おまけに<seg type="ruby"><seg type="rb">若未亡</seg><seg type="rp">（</seg><seg type="rt">わかごけ</seg><seg type="rp">）</seg></seg>のツル子さんについても、よくない噂ばかり……ドッチにしても鶴原家のあとは<seg type="ruby"><seg type="rb">断絶</seg><seg type="rp">（</seg><seg type="rt">たえ</seg><seg type="rp">）</seg></seg>たと同様になってしまった。<lb />
+　おれは誰にも云わないが、これはあの『あやかしの鼓』の<seg rend="sesame_dot" rendition="em">せい</seg>だと思う。そうして、それにつけておれはこの頃から決心をした。お前は俺の子だけあって鼓のいじり方がもうとっくにわかっている。今にきっと打てるようになると思う。<lb />
+　けれども俺はお前に云っておく。お前はこれから<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">のち</seg><seg type="rp">）</seg></seg>、忘れても鼓をいじってはいけないぞ。これは俺の<seg type="ruby"><seg type="rb">御幣担</seg><seg type="rp">（</seg><seg type="rt">ごへいかつ</seg><seg type="rp">）</seg></seg>ぎじゃない。鼓をいじると自然いい道具が欲しくなる。そうしておしまいにはキットあの鼓に心を惹かされるようになるから云うんだ。あのアヤカシの鼓は鼓作りの奥儀をあらわしたものだからナ……。<lb />
+　そうなったらお前は運の尽きだ。あの鼓の音をきいて妙な気もちにならないものはないのだから。<seg type="ruby"><seg type="rb">狂人</seg><seg type="rp">（</seg><seg type="rt">きちがい</seg><seg type="rp">）</seg></seg>になるか変人になるかどっちかだ。<lb />
 　お前は勉強をしてほかの商売人か役人かになって東京からずっと離れた処へ行け。鶴原家へ近寄らないようにしろ。<lb />
 　おれはこのごろこの事ばかり気にしていた。いずれ老先生にもよくお願いしておくつもりだが、お前がその気にならなければ何にもならない。<lb />
 　いいか……忘れるな……」<lb />
 <lb />
-　私はお<span type="ruby"><span type="rb">伽噺</span><span type="rp">（</span><span type="rt">とぎばなし</span><span type="rp">）</span></span>でも聞くような気になってこの話を聞いていた。しかし別段鼓打ちになろうなぞとは思わなかったから、<span type="ruby"><span type="rb">温柔</span><span type="rp">（</span><span type="rt">おとな</span><span type="rp">）</span></span>しくうなずいてばかりいた。<lb />
+　私はお<seg type="ruby"><seg type="rb">伽噺</seg><seg type="rp">（</seg><seg type="rt">とぎばなし</seg><seg type="rp">）</seg></seg>でも聞くような気になってこの話を聞いていた。しかし別段鼓打ちになろうなぞとは思わなかったから、<seg type="ruby"><seg type="rb">温柔</seg><seg type="rp">（</seg><seg type="rt">おとな</seg><seg type="rp">）</seg></seg>しくうなずいてばかりいた。<lb />
 　父は安心したらしかった。<lb />
 <lb />
 　その年の秋に父が死んで九段の老先生の処へ引き取られると、間もなく私は丸々と肥って元気よく富士見町小学校へ通い続けた。「あやかしの鼓」の話なぞは思い出しもしなかった。<lb />
 　老先生は小柄な、日に焼けた、眼の光りの黒いお爺さんであった。年はその時が六十一で還暦のお祝いがその春にある筈であったのが、思いがけなく養子の若先生が家出をされたのでその騒ぎのためにおやめになった。<lb />
-　若先生は名を靖二郎といった。私は会ったことがないが老先生と反対にデップリと肥った気の優しい人で、鼓の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>ジメのよかった事、東京や京阪で催しのある<span type="ruby"><span type="rb">毎</span><span type="rp">（</span><span type="rt">ごと</span><span type="rp">）</span></span>に一流の芸者がわざわざ聞きに来た位であったという。家出された時が<span type="ruby"><span type="rb">二十歳</span><span type="rp">（</span><span type="rt">はたち</span><span type="rp">）</span></span>であったが着のみ着のままで<span type="ruby"><span type="rb">遺書</span><span type="rp">（</span><span type="rt">かきおき</span><span type="rp">）</span></span>なぞもなく、また前後に心当りになるような気配もなかったので探す方では途方に暮れた。一方に気の早い内弟子はもう後釜をねらって暗闘を初めているらしい事なぞをおしゃべりの女中からきいた。<lb />
+　若先生は名を靖二郎といった。私は会ったことがないが老先生と反対にデップリと肥った気の優しい人で、鼓の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>ジメのよかった事、東京や京阪で催しのある<seg type="ruby"><seg type="rb">毎</seg><seg type="rp">（</seg><seg type="rt">ごと</seg><seg type="rp">）</seg></seg>に一流の芸者がわざわざ聞きに来た位であったという。家出された時が<seg type="ruby"><seg type="rb">二十歳</seg><seg type="rp">（</seg><seg type="rt">はたち</seg><seg type="rp">）</seg></seg>であったが着のみ着のままで<seg type="ruby"><seg type="rb">遺書</seg><seg type="rp">（</seg><seg type="rt">かきおき</seg><seg type="rp">）</seg></seg>なぞもなく、また前後に心当りになるような気配もなかったので探す方では途方に暮れた。一方に気の早い内弟子はもう後釜をねらって暗闘を初めているらしい事なぞをおしゃべりの女中からきいた。<lb />
 「あなたが大方あと継ぎにおなりになるんでショ」なぞとその女中は云った。<lb />
-　しかし老先生は私に鼓打ちになれなぞとは一口も云われなかった。只<span type="ruby"><span type="rb">無暗</span><span type="rp">（</span><span type="rt">むやみ</span><span type="rp">）</span></span>に可愛がって下さるばかりであった。<lb />
-　けれども<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>だけに鼓の<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>は朝から晩まで引っ切りなしにきこえた。そのポンポンポンポンという音をウンザリする程きかされているうちに私の耳は子供ながら肥えて来た。初めいい音だと思ったのがだんだんつまらなく思われるようになった。内弟子の中で一番上手だという者の鼓の<span type="ruby"><span type="rb">音〆</span><span type="rp">（</span><span type="rt">ねじめ</span><span type="rp">）</span></span>はほかの誰のよりもまん丸くて、キレイで、品がよかったがそれでも私は只美しいとしか感じなかった。もうすこし気高い……神様のように静かな……または幽霊の声のように気味のわるい鼓の音はないものか知らん……などと空想した。<lb />
+　しかし老先生は私に鼓打ちになれなぞとは一口も云われなかった。只<seg type="ruby"><seg type="rb">無暗</seg><seg type="rp">（</seg><seg type="rt">むやみ</seg><seg type="rp">）</seg></seg>に可愛がって下さるばかりであった。<lb />
+　けれども<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>が<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>だけに鼓の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>は朝から晩まで引っ切りなしにきこえた。そのポンポンポンポンという音をウンザリする程きかされているうちに私の耳は子供ながら肥えて来た。初めいい音だと思ったのがだんだんつまらなく思われるようになった。内弟子の中で一番上手だという者の鼓の<seg type="ruby"><seg type="rb">音〆</seg><seg type="rp">（</seg><seg type="rt">ねじめ</seg><seg type="rp">）</seg></seg>はほかの誰のよりもまん丸くて、キレイで、品がよかったがそれでも私は只美しいとしか感じなかった。もうすこし気高い……神様のように静かな……又は幽霊の声のように気味のわるい鼓の音はないものか知らん……などと空想した。<lb />
 　私は老先生の鼓が聞きたくてたまらなくなった。<lb />
 　しかし老先生が打たれる時は舞台か出稽古の時ばかりで、うちでは滅多に鼓を持たれなかった。一方に私も学校へ通っていたので、高林家へ来て暫くの間は一度も老先生の鼓をきくことが出来なかった。只一度正月のお稽古初めの時に吉例の何とかいうものを打たれたそうであるが、その時は生憎お客様のお使いをしていたために聞き損ねた。<lb />
 <lb />
 　こうして一夜明けた十六の年の春、高等二年の卒業免状を持って九段に帰ると、私はすぐ裏二階の老先生の処へ持って行ってお眼にかけた。すると向うむきになって朱筆で何か書いておられた老先生はふり返ってニッコリしながら、<lb />
 「ウム。よしよし」<lb />
 　とおっしゃって茶托に干菓子を山盛りにして下さった。それをポツポツ喰べている私の顔を老先生はニコニコして見ておられたが、やがて床の間の横の袋戸から古ぼけた鼓を一梃出して打ち初められた。<lb />
-　その<span type="ruby"><span type="rb">ゝゝゝ</span><span type="rp">（</span><span type="rt">チチチ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">○○○</span><span type="rp">（</span><span type="rt">ポポポ</span><span type="rp">）</span></span>という音をきいた時、私はその気高さに打たれて髪の毛がゾーッとした。何だか優しいお母さんに静かに云い聞かされているような気もちになって胸が一パイになった。<lb />
+　その<seg type="ruby"><seg type="rb">ゝゝゝ</seg><seg type="rp">（</seg><seg type="rt">チチチ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">○○○</seg><seg type="rp">（</seg><seg type="rt">ポポポ</seg><seg type="rp">）</seg></seg>という音をきいた時、私はその気高さに打たれて髪の毛がゾーッとした。何だか優しいお母さんに静かに云い聞かされているような気もちになって胸が一パイになった。<lb />
 「どうだ鼓を習わないか」<lb />
-　と老先生は真白な<span type="ruby"><span type="rb">義歯</span><span type="rp">（</span><span type="rt">いれば</span><span type="rp">）</span></span>を見せて笑われた。<lb />
+　と老先生は真白な<seg type="ruby"><seg type="rb">義歯</seg><seg type="rp">（</seg><seg type="rt">いれば</seg><seg type="rp">）</seg></seg>を見せて笑われた。<lb />
 「ハイ、教えて下さい」<lb />
-　と私はすぐに答えた。そうしてその日から安っぽい稽古鼓で『三ツ<span type="ruby"><span type="rb">地</span><span type="rp">（</span><span type="rt">じ</span><span type="rp">）</span></span>』や『続け』の手を習った。<lb />
-　けれども私の鼓の評判はよくなかった。第一調子が出ないし、<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>や呼吸なぞもなっていないといって内弟子からいつも叱られた。<lb />
-「大飯を喰うから頭が<span type="ruby"><span type="rb">半間</span><span type="rp">（</span><span type="rt">はんま</span><span type="rp">）</span></span>になるんだ。おさんどん見たいに<span type="ruby"><span type="rb">頬</span><span type="rp">（</span><span type="rt">ほっ</span><span type="rp">）</span></span>ペタばかり赤くしやがって……」<lb />
+　と私はすぐに答えた。そうしてその日から安っぽい稽古鼓で「三ツ<seg type="ruby"><seg type="rb">地</seg><seg type="rp">（</seg><seg type="rt">じ</seg><seg type="rp">）</seg></seg>」や「続け」の手を習った。<lb />
+　けれども私の鼓の評判はよくなかった。第一調子が出ないし、<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>や呼吸なぞもなっていないといって内弟子からいつも叱られた。<lb />
+「大飯を喰うから頭が<seg type="ruby"><seg type="rb">半間</seg><seg type="rp">（</seg><seg type="rt">はんま</seg><seg type="rp">）</seg></seg>になるんだ。おさんどん見たいに<seg type="ruby"><seg type="rb">頬</seg><seg type="rp">（</seg><seg type="rt">ほっ</seg><seg type="rp">）</seg></seg>ペタばかり赤くしやがって……」<lb />
 　なぞと寄ってたかって笑い物にした。けれども私はちっとも苦にならなかった。――鼓打ちなんぞにならなくてもいい。老先生が死なれるまで介抱をして御恩報じをしたら、あとは坊主になって日本中を旅行してやろう――なぞと思っていたから、なおのこと大飯を喰って元気を養った。<lb />
-　その年が過ぎて翌年の春のおしまいがけになると、若先生はいよいよ亡くなられたことにきまったので、<span type="ruby"><span type="rb">極</span><span type="rp">（</span><span type="rt">ご</span><span type="rp">）</span></span>く内輪でお菓子とお茶ばかりの御法事が老先生のお<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>であった。その席上で老先生の親類らしい<span type="ruby"><span type="rb">胡麻</span><span type="rp">（</span><span type="rt">ごま</span><span type="rp">）</span></span>塩の<span rend="SESAME_DOT" rendition="strong">おやじ</span>が、<lb />
+　その年が過ぎて翌年の春のおしまいがけになると、若先生はいよいよ亡くなられたことにきまったので、<seg type="ruby"><seg type="rb">極</seg><seg type="rp">（</seg><seg type="rt">ご</seg><seg type="rp">）</seg></seg>く内輪でお菓子とお茶ばかりの御法事が老先生のお<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>であった。その席上で老先生の親類らしい<seg type="ruby"><seg type="rb">胡麻</seg><seg type="rp">（</seg><seg type="rt">ごま</seg><seg type="rp">）</seg></seg>塩の<seg rend="sesame_dot" rendition="em">おやじ</seg>が、<lb />
 「早く御養子でもなすっては……」<lb />
 　と云ったら並んでいる内弟子の三、四人が一時に私の方を見た。老先生は苦笑いをされた。<lb />
-「サア、<span type="ruby"><span type="rb">靖</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>（若先生）のあとは、ちょっとありませんね。ドングリばかりで……」<lb />
+「サア。<seg type="ruby"><seg type="rb">靖</seg><seg type="rp">（</seg><seg type="rt">やす</seg><seg type="rp">）</seg></seg>（若先生）のあとは、ちょっとありませんね。ドングリばかりで……」<lb />
 　とみんなの顔を一渡り見られた。内弟子はみんな真赤になった。<lb />
-　私はこの時急に若先生に会って見たくなった。――きっとどこかに生きておられるに違いない。そうして鼓を打っておられるような気がする。その<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>がききたいな――と夢のようなことを考えながら、老先生のうしろにある仏壇のお燈明の間に白く光っている若先生のお位牌を見ていると、不意に、<lb />
+　私はこの時急に若先生に会って見たくなった。――きっとどこかに生きておられるに違いない。そうして鼓を打っておられるような気がする。その<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>がききたいな――と夢のようなことを考えながら、老先生のうしろにある仏壇のお燈明の間に白く光っている若先生のお位牌を見ていると、不意に、<lb />
 「その久弥さんはどうです」<lb />
-　と胡麻塩<span rend="SESAME_DOT" rendition="strong">おやじ</span>が又出しゃばって云ったので私は胸がドキンとした。<lb />
-「イヤ。これはいわば『鼓の<span type="ruby"><span type="rb">唖</span><span type="rp">（</span><span type="rt">おし</span><span type="rp">）</span></span>』でね……調子がちっとも出ない<span rend="SESAME_DOT" rendition="strong">たち</span>です。生涯鳴らないかも知れません。こんなのは昔から滅多にいないものですがね」と云いながら私の頭を撫でられた。私もとうとう真赤になった。<lb />
-「その<span type="ruby"><span type="rb">児</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>はものになりましょうか」<lb />
+　と胡麻塩<seg rend="sesame_dot" rendition="em">おやじ</seg>が又出しゃばって云ったので私は胸がドキンとした。<lb />
+「イヤ。これはいわば『鼓の<seg type="ruby"><seg type="rb">唖</seg><seg type="rp">（</seg><seg type="rt">おし</seg><seg type="rp">）</seg></seg>』でね……調子がちっとも出ない<seg rend="sesame_dot" rendition="em">たち</seg>です。生涯鳴らないかも知れません。こんなのは昔から滅多にいないものですがね」と云いながら私の頭を撫でられた。私もとうとう真赤になった。<lb />
+「その<seg type="ruby"><seg type="rb">児</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>はものになりましょうか」<lb />
 　と内弟子の中の兄さん株が云った。吹き出したものもあった。<lb />
 「物になった時は名人だよ」<lb />
 　と老先生は落ち付いて云われた。みんなポカンとした顔になった。<lb />
 <lb />
-　みんなが裏二階を降りると老先生は私に取っときの洋羮を出して下さった。そうして長い<span type="ruby"><span type="rb">煙管</span><span type="rp">（</span><span type="rt">きせる</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">刻煙草</span><span type="rp">（</span><span type="rt">きざみ</span><span type="rp">）</span></span>を吸いながらこんなことを云われた。<lb />
-「お前はなぜ鼓の調子を出さないのだえ。いい<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>が出せるのに調子紙を貼ったり<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>がしたりして音色を消しているが、どうしてお前はあんなことをするのだえ」<lb />
+　みんなが裏二階を降りると老先生は私に取っときの羊羹を出して下さった。そうして長い<seg type="ruby"><seg type="rb">煙管</seg><seg type="rp">（</seg><seg type="rt">きせる</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">刻煙草</seg><seg type="rp">（</seg><seg type="rt">きざみ</seg><seg type="rp">）</seg></seg>を吸いながらこんなことを云われた。<lb />
+「お前はなぜ鼓の調子を出さないのだえ。いい<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>が出せるのに調子紙を貼ったり<seg type="ruby"><seg type="rb">剥</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>がしたりして音色を消しているが、どうしてお前はあんなことをするのだえ」<lb />
 　私はおめず臆せず答えた。<lb />
 「僕の好きな鼓がないんです。どの鼓もみんな鳴り過ぎるんです」<lb />
 「フーン」<lb />
@@ -147,53 +143,53 @@
 「どの鼓でもポンポンポンって『ン』の字をいうから嫌なんです。ポンポンの『ン』の字をいわない……ポ……ポ……ポ……という響のない……静かな音を出す鼓が欲しいんです」<lb />
 「……フーム……おれの鼓はどうだえ」<lb />
 「好きです僕は……。けれどもポオ……ポオ……ポオ……といいます。その『オ』の字も出ない方がいいと思うんです」<lb />
-　老先生は又天井を向いてプーッと煙を吹きながら、目をショボショボと閉じたり明けたりされた。<lb />
+　老先生は又天井を向いてプーッと煙を吹きながら、眼をショボショボと閉じたり明けたりされた。<lb />
 「先生」と私はいくらか調子に乗って云った。<lb />
 「鶴原様のところに名高い鼓があるそうですが、あれを借りてはいけないでしょうか」<lb />
 「飛んでもない」<lb />
 　と老先生は私の顔を見られた。私はこの時ほど厳重な老先生の顔を見たことがなかった。私はうなだれて黙り込んだ。<lb />
-「あの鼓を出すとあの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に不吉なことがあるというじゃないか。たとい嘘にしろ他人の家に災難があるようなことを望むものじゃないぞ。いいか。気に入った鼓がなければ生涯舞台に出ないまでのことだ」<lb />
+「あの鼓を出すとあの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>に不吉なことがあるというじゃないか。たとい嘘にしろ他人の家に災難があるようなことを望むものじゃないぞ。いいか。気に入った鼓がなければ生涯舞台に出ないまでのことだ」<lb />
 　私は生れて初めて老先生にこんなに叱られて真青になった。けれども心から恐れ入ってはいなかった。<lb />
 「あやかしの鼓」が私のあこがれの的となったのはこの時からであった。<lb />
 <lb />
-　それから間もなく老先生は私を高林家の<span type="ruby"><span type="rb">後嗣</span><span type="rp">（</span><span type="rt">あとつぎ</span><span type="rp">）</span></span>にきめられて披露をされた。内弟子たちはみんな不承不承に私を若先生と云った。<lb />
-　しかし私は<span type="ruby"><span type="rb">落胆</span><span type="rp">（</span><span type="rt">がっかり</span><span type="rp">）</span></span>した。――とうとう本物の鼓打ちになるのか。一生涯<span type="ruby"><span type="rb">下手糞</span><span type="rp">（</span><span type="rt">へたくそ</span><span type="rp">）</span></span>の御機嫌を取って暮らさなければならないのか。――と思うとソレだけでもウンザリした。――老先生の御恩に背いてはならぬぞ――と、いつも云って聞かせた父の言葉が<span type="ruby"><span type="rb">恨</span><span type="rp">（</span><span type="rt">うら</span><span type="rp">）</span></span>めしかった。同時に若先生が家出をされた原因もわかったような気がして、若先生に対するなつかしさがたまらなく<span type="ruby"><span type="rb">弥増</span><span type="rp">（</span><span type="rt">いやま</span><span type="rp">）</span></span>した。しかし若先生に会いたいという望みは「あやかしの鼓」を見たいという望みよりももっと<span type="ruby"><span type="rb">果敢</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>ない空想であった。<lb />
+　それから間もなく老先生は私を高林家の<seg type="ruby"><seg type="rb">後嗣</seg><seg type="rp">（</seg><seg type="rt">あとつぎ</seg><seg type="rp">）</seg></seg>にきめられて披露をされた。内弟子たちはみんな不承不承に私を若先生と云った。<lb />
+　しかし私は<seg type="ruby"><seg type="rb">落胆</seg><seg type="rp">（</seg><seg type="rt">がっかり</seg><seg type="rp">）</seg></seg>した。――とうとう本物の鼓打ちになるのか。一生涯<seg type="ruby"><seg type="rb">下手糞</seg><seg type="rp">（</seg><seg type="rt">へたくそ</seg><seg type="rp">）</seg></seg>の御機嫌を取って暮さなければならないのか。――と思うとソレだけでもウンザリした。――老先生の御恩に背いてはならぬぞ――と、いつも云って聞かせた父の言葉が<seg type="ruby"><seg type="rb">恨</seg><seg type="rp">（</seg><seg type="rt">うら</seg><seg type="rp">）</seg></seg>めしかった。同時に若先生が家出をされた原因もわかったような気がして、若先生に対するなつかしさがたまらなく<seg type="ruby"><seg type="rb">弥増</seg><seg type="rp">（</seg><seg type="rt">いやま</seg><seg type="rp">）</seg></seg>した。しかし若先生に会いたいという望みは「あやかしの鼓」を見たいという望みよりももっと<seg type="ruby"><seg type="rb">果敢</seg><seg type="rp">（</seg><seg type="rt">はか</seg><seg type="rp">）</seg></seg>ない空想であった。<lb />
 　私は相も変らず肥え太りながらポコリポコリという鼓を打った。<lb />
 　こうして大正十一年――私が二十一歳の春が来た。その三月のなかばの或る日の午後、老先生は私を呼び付けて、<lb />
-「これを鶴原家へ持ってゆけ」と四角い<span type="ruby"><span type="rb">縮緬</span><span type="rp">（</span><span type="rt">ちりめん</span><span type="rp">）</span></span>の風呂敷包みを渡された。<lb />
+「これを鶴原家へ持ってゆけ」と四角い<seg type="ruby"><seg type="rb">縮緬</seg><seg type="rp">（</seg><seg type="rt">ちりめん</seg><seg type="rp">）</seg></seg>の風呂敷包みを渡された。<lb />
 　鶴原家ときくとすぐに例の鼓のことを思い出したので、私は思わず胸を躍らせて老先生の顔を見た。老先生もマジマジと私の顔を見ておられたが、<lb />
-「誰にも知れないようにするんだよ。<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>は笄町の神道本局の筋向うだ。<span type="ruby"><span type="rb">樅</span><span type="rp">（</span><span type="rt">もみ</span><span type="rp">）</span></span>の木に囲まれた表札も何もない<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>だ」と眼をしばたたかれた。<lb />
-　私は鳥打に<span type="ruby"><span type="rb">紺飛白</span><span type="rp">（</span><span type="rt">こんがすり</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">小倉袴</span><span type="rp">（</span><span type="rt">こくらばかま</span><span type="rp">）</span></span>、コール天の足袋、黒の釣鐘マントに<span type="ruby"><span type="rb">朴歯</span><span type="rp">（</span><span type="rt">ほおば</span><span type="rp">）</span></span>の足駄といういでたちでお菓子らしい包みを平らに抱えながら高林家のカブキ門を出た。<lb />
-　麻布笄町の神道本局の桜が曇った空の下にチラリと白くなっていた。その向うに樅の木立ちにかこまれた陰気な平屋建てがある。セメントの高土塀にも<span type="ruby"><span type="rb">檜</span><span type="rp">（</span><span type="rt">ひのき</span><span type="rp">）</span></span>作りの玄関にも表札らしいものが見えず、軒燈の丸い<span type="ruby"><span type="rb">磨硝子</span><span type="rp">（</span><span type="rt">すりガラス</span><span type="rp">）</span></span>にも何とも書いてない。この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>だと思いながら私は前の溝川に架かった一間ばかりの木橋を渡った。<lb />
-　玄関の格子戸をあけると間もなく<span type="ruby"><span type="rb">障子</span><span type="rp">（</span><span type="rt">しょうじ</span><span type="rp">）</span></span>がスーッと<span type="ruby"><span type="rb">開</span><span type="rp">（</span><span type="rt">あ</span><span type="rp">）</span></span>いて、私より一つか二つ上位に見える痩せこけた紺飛白の書生さんが顔を出して三つ指をついた。<span type="ruby"><span type="rb">髪毛</span><span type="rp">（</span><span type="rt">かみのけ</span><span type="rp">）</span></span>をテカテカと二つに分けて大きな黒眼鏡をかけている。<lb />
+「誰にも知れないようにするんだよ。<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>は笄町の神道本局の筋向うだ。<seg type="ruby"><seg type="rb">樅</seg><seg type="rp">（</seg><seg type="rt">もみ</seg><seg type="rp">）</seg></seg>の木に囲まれた表札も何もない<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>だ」と眼をしばたたかれた。<lb />
+　私は鳥打に<seg type="ruby"><seg type="rb">紺飛白</seg><seg type="rp">（</seg><seg type="rt">こんがすり</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">小倉袴</seg><seg type="rp">（</seg><seg type="rt">こくらばかま</seg><seg type="rp">）</seg></seg>、コール天の足袋、黒の釣鐘マントに<seg type="ruby"><seg type="rb">朴歯</seg><seg type="rp">（</seg><seg type="rt">ほおば</seg><seg type="rp">）</seg></seg>の足駄といういでたちでお菓子らしい包みを平らに抱えながら高林家のカブキ門を出た。<lb />
+　麻布笄町の神道本局の桜が曇った空の下にチラリと白くなっていた。その向うに樅の木立ちにかこまれた陰気な平屋建てがある。セメントの高土塀にも<seg type="ruby"><seg type="rb">檜</seg><seg type="rp">（</seg><seg type="rt">ひのき</seg><seg type="rp">）</seg></seg>作りの玄関にも表札らしいものが見えず、軒燈の丸い<seg type="ruby"><seg type="rb">磨硝子</seg><seg type="rp">（</seg><seg type="rt">すりガラス</seg><seg type="rp">）</seg></seg>にも何とも書いてない。この<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>だと思いながら私は前の溝川に架かった一間ばかりの木橋を渡った。<lb />
+　玄関の格子戸をあけると間もなく<seg type="ruby"><seg type="rb">障子</seg><seg type="rp">（</seg><seg type="rt">しょうじ</seg><seg type="rp">）</seg></seg>がスーッと<seg type="ruby"><seg type="rb">開</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>いて、私より一つか二つ上位に見える痩せこけた紺飛白の書生さんが顔を出して三つ指をついた。<seg type="ruby"><seg type="rb">髪毛</seg><seg type="rp">（</seg><seg type="rt">かみのけ</seg><seg type="rp">）</seg></seg>をテカテカと二つに分けて大きな黒眼鏡をかけている。<lb />
 「鶴原様はこちらで……私は九段の高林のうちのものですが……老先生からこれを……」<lb />
 　と菓子箱を風呂敷ごとさし出した。<lb />
-　書生さんは受け取って私の顔をチラリと見たが、私の眼の前で風呂敷を解くと中味は杉折りを<span type="ruby"><span type="rb">奉書</span><span type="rp">（</span><span type="rt">ほうしょ</span><span type="rp">）</span></span>に包んだもので黒の水引がかかっていて、その上に四角張った字で「妙音院高誉靖安居士……七回忌」と書いた一寸幅位の<span type="ruby"><span type="rb">紙片</span><span type="rp">（</span><span type="rt">かみきれ</span><span type="rp">）</span></span>が置いてあった。<lb />
+　書生さんは受け取って私の顔をチラリと見たが、私の眼の前で風呂敷を解くと中味は杉折りを<seg type="ruby"><seg type="rb">奉書</seg><seg type="rp">（</seg><seg type="rt">ほうしょ</seg><seg type="rp">）</seg></seg>に包んだもので黒の水引がかかっていて、その上に四角張った字で「妙音院高誉靖安居士……七回忌」と書いた一寸幅位の<seg type="ruby"><seg type="rb">紙切</seg><seg type="rp">（</seg><seg type="rt">かみきれ</seg><seg type="rp">）</seg></seg>が置いてあった。<lb />
 　私はオヤと思った。ちょっとも気が付かずに持って来たが、これは若先生の七回忌のお茶だ。若先生の御法事はごく内輪で済まされていて、素人弟子には全く知らせないことになっていたのに老先生は何でこんなことをなさるのであろう。鶴原未亡人が差し出てお香典でも呉れたのか知らんと思いながら見ていると、書生さんもその戒名を手に取って青白い顔をしながら何べんも読み返している。何だか様子が変なあんばいだ。<lb />
 　そのうちに書生さんはニッと妙な笑い方をしながら私の顔を見て、<lb />
 「どうも御苦労様です……ちょっとお上りになりませんか……今私一人ですが……」<lb />
 　と云った。その声は非常に静かで女のような魅力があった。私はどうしようかと思った。上ってはいけないような気がする一方に、何だか上りたくてたまらぬような気がして立ったまま迷っていると書生さんは箱を抱えて立ち上りがけに躊躇しいしい又云った。<lb />
 「……いいでしょう……それに……すこしお頼みしたいことも……ありますから」<lb />
-　私は思い切って下駄を脱いだ。書生さんは私を玄関の横の、もと応接間だったらしい押し入れのない<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>へ連れ込んだ。見ると八畳の間一パイに新聞や小説や雑誌の類が<span type="ruby"><span type="rb">柳行李</span><span type="rp">（</span><span type="rt">やなぎこうり</span><span type="rp">）</span></span>や何かと一緒に散らばっていて、真中の鉄瓶のかかった瀬戸物の大火鉢のまわりすこしばかりしか坐るところがない。書生さんはそこいらに散らばっている茶器を押し<span type="ruby"><span type="rb">除</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>けて、奥から座布団を持って来て私にあてがうと、<lb />
-「私は<span type="ruby"><span type="rb">妻木</span><span type="rp">（</span><span type="rt">つまき</span><span type="rp">）</span></span>というものです。鶴原の甥です」<lb />
+　私は思い切って下駄を脱いだ。書生さんは私を玄関の横の、もと応接間だったらしい押し入れのない<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>に連れ込んだ。見ると八畳の間一パイに新聞や小説や雑誌の類が<seg type="ruby"><seg type="rb">柳行李</seg><seg type="rp">（</seg><seg type="rt">やなぎこうり</seg><seg type="rp">）</seg></seg>や何かと一緒に散らばっていて、真中の鉄瓶のかかった瀬戸物の大火鉢のまわりすこしばかりしか坐るところがない。書生さんはそこいらに散らばっている茶器を押し<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>けて、奥から座布団を持って来て私にあてがうと、<lb />
+「私は<seg type="ruby"><seg type="rb">妻木</seg><seg type="rp">（</seg><seg type="rt">つまき</seg><seg type="rp">）</seg></seg>というものです。鶴原の甥です」<lb />
 　と挨拶をした。<lb />
-　さてはこの人がそうかと思いながら私は改めて頭を下げていると、妻木君はその物ごしのやさしいのにも似ず、私が見ている前で杉折りをグッと引き寄せるとポツンと水引を引き切った。オヤと思ううちに蓋をあけて中にある風月のモナカを一つ<span type="ruby"><span type="rb">抓</span><span type="rp">（</span><span type="rt">つま</span><span type="rp">）</span></span>んで自分の口に入れてから私のほうにズイと押し進めた。<lb />
+　さてはこの人がそうかと思いながら私は改めて頭を下げていると、妻木君はその物ごしのやさしいのにも似ず、私が見ている前で杉折りをグッと引き寄せるとポツンと水引を引き切った。オヤと思ううちに蓋をあけて中にある風月のモナカを一つ<seg type="ruby"><seg type="rb">抓</seg><seg type="rp">（</seg><seg type="rt">つま</seg><seg type="rp">）</seg></seg>んで自分の口に入れてから私の方にズイと押し進めた。<lb />
 「いかがです」<lb />
-　私は少々度胆を抜かれた。しかしそのうちに妻木君の唇の両端が豆腐のように白く<span type="ruby"><span type="rb">爛</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>れているのに気が付くと、やっとわかった。妻木君は甘い物中毒で始終こんなことをやっているのだ。そのために胃をメチャメチャに壊しているのだ。そうして、かかり合いにするつもりで私を呼び上げたものらしい。用事とはこの事かと思うと私は急にこの青年と心安くなったような気がしてすすめられるままに手を出した。<lb />
-　ところが妻木君の喰い方の荒っぽいのには又<span type="ruby"><span type="rb">流石</span><span type="rp">（</span><span type="rt">さすが</span><span type="rp">）</span></span>の私も舌を捲かれた。初めに四つ五つ私を追い越して喰っているばかりでなく、私が三つ喰ううちに四つか五つの割りで頬張って飲み込むので、見る見るうちに箱の半分以上が空っぽになってしまった。<lb />
-　私はとうとう<span type="ruby"><span type="rb">兜</span><span type="rp">（</span><span type="rt">かぶと</span><span type="rp">）</span></span>を抜いで茶を一パイ飲んだ。すると妻木君はあと二つばかり口に入れてから、うしろの書物の間から古新聞を出して、その中に残ったモナカの二十ばかりをザラザラとあけてグルグルと包んで書物のうしろに深く隠した。それから杉折りを取り上げるとペキンペキンと押し割って<span type="ruby"><span type="rb">薪</span><span type="rp">（</span><span type="rt">まき</span><span type="rp">）</span></span>のように一束にして、戒名と一緒に奉書の紙に包んだ上から黒水引きでグルグル巻きに縛った。<lb />
+　私は少々度胆を抜かれた。しかしそのうちに妻木君の唇の両端が豆腐のように白く<seg type="ruby"><seg type="rb">爛</seg><seg type="rp">（</seg><seg type="rt">ただ</seg><seg type="rp">）</seg></seg>れているのに気が付くと、やっとわかった。妻木君は甘い物中毒で始終こんなことをやっているのだ。そのために胃をメチャメチャに壊しているのだ。そうして、かかり合いにするつもりで私を呼び上げたものらしい。用事とはこの事かと思うと私は急にこの青年と心安くなったような気がしてすすめられるままに手を出した。<lb />
+　ところが妻木君の喰い方の荒っぽいのには又<seg type="ruby"><seg type="rb">流石</seg><seg type="rp">（</seg><seg type="rt">さすが</seg><seg type="rp">）</seg></seg>の私も舌を捲かれた。初めに四つ五つ私を追い越して喰っているばかりでなく、私が三つ喰ううちに四つか五つの割りで頬張って飲み込むので、見る見るうちに箱の半分以上が空っぽになってしまった。<lb />
+　私はとうとう<seg type="ruby"><seg type="rb">兜</seg><seg type="rp">（</seg><seg type="rt">かぶと</seg><seg type="rp">）</seg></seg>をぬいで茶を一パイ飲んだ。すると妻木君はあと二つばかり口に入れてから、うしろの書物の間から古新聞を出して、その中に残ったモナカの二十ばかりをザラザラとあけてグルグルと包んで書物のうしろに深く隠した。それから杉折りを取り上げるとペキンペキンと押し割って<seg type="ruby"><seg type="rb">薪</seg><seg type="rp">（</seg><seg type="rt">まき</seg><seg type="rp">）</seg></seg>のように一束にして、戒名と一緒に奉書の紙に包んだ上から黒水引きでグルグル巻きに縛った。<lb />
 「どうも済みませんが……」と妻木君はそれを私の前に差し出した。<lb />
 「これをお帰りの時にどこかへ棄ててくれませんか」<lb />
-　それを私が微笑しながら受け取ると、妻木君の顔が<span type="ruby"><span type="rb">小児</span><span type="rp">（</span><span type="rt">こども</span><span type="rp">）</span></span>のように輝やいた。そうして前よりも一層丁寧に云った。<lb />
+　それを私が微笑しながら受け取ると、妻木君の顔が<seg type="ruby"><seg type="rb">小児</seg><seg type="rp">（</seg><seg type="rt">こども</seg><seg type="rp">）</seg></seg>のように輝やいた。そうして前よりも一層丁寧に云った。<lb />
 「それからですね。ほんとに済みませんけどもこの事はお宅の先生へも秘密にしてくれませんか」<lb />
 　私は思わず吹き出すところであった。<lb />
 「ええええ大丈夫です。僕からもお願いしたい位です」<lb />
 「有り難う御座います。御恩は死んでも忘れません」<lb />
 　と云いつつ妻木君は不意に両手をついて頭を畳にすりつけた。<lb />
-　その様子があまり馬鹿丁寧で大袈裟なので私は又変な気もちになった。鶴原子爵は<span type="ruby"><span type="rb">狂気</span><span type="rp">（</span><span type="rt">きちがい</span><span type="rp">）</span></span>で死んだというがこの青年も何だか様子が変である。ことによるとやっぱり「あやかしの鼓」に呪われているのじゃないかと思った。<lb />
+　その様子があまり馬鹿丁寧で大袈裟なので私は又変な気もちになった。鶴原子爵は<seg type="ruby"><seg type="rb">狂気</seg><seg type="rp">（</seg><seg type="rt">きちがい</seg><seg type="rp">）</seg></seg>で死んだというがこの青年も何だか様子が変である。ことによるとやっぱり「あやかしの鼓」に呪われているのじゃないかと思った。<lb />
 　しかしそう思うと同時に又「あやかしの鼓」が見たくてたまらなくなって来た。しかもそれを見るのには今が一番いい機会じゃないかというような気がしはじめた。<lb />
-「この人に頼んだらことに依ると『あやかしの鼓』を見せてくれるかも知れない。今がちょうどいいキッカケだ。そうして今よりほかにその時機がないのだ。この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>に又来ることがあるかないかはわからないのだから」<lb />
-　と考えたが一方に何だか恐ろしく気が<span type="ruby"><span type="rb">咎</span><span type="rp">（</span><span type="rt">とが</span><span type="rp">）</span></span>めるようにもあるので、心の中で躊躇しいしい妻木君の顔を見ていると、妻木君も黒い眼鏡越しに私の顔をジッと見ている。そうして何の意味もないらしい微笑をフッと唇のふちに浮かべた。私はその笑顔に釣り込まれたようにポツンと口を利いた。<lb />
+「この人に頼んだらことに依ると『あやかしの鼓』を見せてくれるかも知れない。今がちょうどいいキッカケだ。そうして今よりほかにその時機がないのだ。この<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>に又来ることがあるかないかはわからないのだから」<lb />
+　と考えたが一方に何だか恐ろしく気が<seg type="ruby"><seg type="rb">咎</seg><seg type="rp">（</seg><seg type="rt">とが</seg><seg type="rp">）</seg></seg>めるようにもあるので、心の中で躊躇しいしい妻木君の顔を見ていると、妻木君も黒い眼鏡越しに私の顔をジッと見ている。そうして何の意味もないらしい微笑をフッと唇のふちに浮かべた。私はその笑顔に釣り込まれたようにポツンと口を利いた。<lb />
 「『あやかしの鼓』というのがこちらにおありになるそうですが……」<lb />
 　妻木君の笑顔がフッと消えた。私は勇を鼓して又云った。<lb />
 「すみませんが内密で僕にその鼓を見せて頂けないでしょうか」<lb />
@@ -201,48 +197,48 @@
 　妻木君は返事をしないで又も私の顔をシゲシゲと見ていたが、やがて今までよりも一層静かな声で云った。<lb />
 「およしなさい。つまらないですよあの鼓は……変な云い伝えがあるのでね、鼓の好きな人の中には見たがっている人もあるようですがね……」<lb />
 「ヘエ」と私は半ば失望しながら云った。こんな書生っぽに何がわかるものかと思いながら……すると妻木君は私をなだめるように、いくらか勿体ぶって云った。<lb />
-「あんな伝説なんかみんな迷信ですよ。あの鼓の初めの持ち主の名が綾姫といったもんですから謡曲の『綾の鼓』だの能仮面の『あやかしの面』などと一緒にして<span type="ruby"><span type="rb">捏</span><span type="rp">（</span><span type="rt">でっ</span><span type="rp">）</span></span>ち上げた<span type="ruby"><span type="rb">碌</span><span type="rp">（</span><span type="rt">ろく</span><span type="rp">）</span></span>でもない伝説なんです。根も葉もないことです」<lb />
+「あんな伝説なんかみんな迷信ですよ。あの鼓の初めの持ち主の名が綾姫といったもんですから謡曲の『綾の鼓』だの能仮面の『あやかしの面』などと一緒にして<seg type="ruby"><seg type="rb">捏</seg><seg type="rp">（</seg><seg type="rt">でっ</seg><seg type="rp">）</seg></seg>ち上げた<seg type="ruby"><seg type="rb">碌</seg><seg type="rp">（</seg><seg type="rt">ろく</seg><seg type="rp">）</seg></seg>でもない伝説なんです。根も葉もないことです」<lb />
 「そうじゃないように聞いているんですが」<lb />
-「そうなんです。あの鼓は昔身分のある者のお嫁入りの時に使ったお飾りの道具でね。<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>が出ないものですから皆怪しんでいろんなことを……」<lb />
+「そうなんです。あの鼓は昔身分のある者のお嫁入りの時に使ったお飾りの道具でね。<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>が出ないものですから皆怪しんでいろんなことを……」<lb />
 　私はここまで聞くと落ち付いて微笑しながら妻木君の言葉を押し止めた。<lb />
-「ちょっと……そのお話は知っています。それはこちらの奥さんが或る鼓の職人から<span type="ruby"><span type="rb">欺</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>されていらっしゃるのです。その職人はこの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>のおためを思ってそう云ったのです。本当はとてもいい鼓……」<lb />
-　と云いも終らぬうちに妻木君の表情が突然物凄いほどかわったのに驚いた。眉が波打ってピリピリと逆立った。口が力なくダラリと開くとまだモナカの<span type="ruby"><span type="rb">潰</span><span type="rp">（</span><span type="rt">つぶ</span><span type="rp">）</span></span>し<span type="ruby"><span type="rb">餡</span><span type="rp">（</span><span type="rt">あん</span><span type="rp">）</span></span>のくっ付いている荒れた舌がダラリと見えた。<lb />
+「ちょっと……そのお話は知っています。それはこちらの奥さんが或る鼓の職人から<seg type="ruby"><seg type="rb">欺</seg><seg type="rp">（</seg><seg type="rt">だま</seg><seg type="rp">）</seg></seg>されていらっしゃるのです。その職人はこの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>のおためを思ってそう云ったのです。本当はとてもいい鼓……」<lb />
+　と云いも終らぬうちに妻木君の表情が突然物凄いほどかわったのに驚いた。眉が波打ってピリピリと逆立った。口が力なくダラリと開くとまだモナカの<seg type="ruby"><seg type="rb">潰</seg><seg type="rp">（</seg><seg type="rt">つぶ</seg><seg type="rp">）</seg></seg>し<seg type="ruby"><seg type="rb">餡</seg><seg type="rp">（</seg><seg type="rt">あん</seg><seg type="rp">）</seg></seg>のくっ付いている荒れた舌がダラリと見えた。<lb />
 　私は水を浴びたようにゾッとした。これはいけない。この青年はやっぱり気が変なのだ。それも多分あやかしの鼓に関係した事かららしい。飛んでもないことを云い出した……と思いながらその顔を見詰めていた。<lb />
-　けれどもそれはほんの<span type="ruby"><span type="rb">一寸</span><span type="rp">（</span><span type="rt">ちょっと</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>のことであった。妻木君の表情は見る見るもとの通りに冷たく白く落付くと同時に、ふるえた長い溜め息がその鼻から洩れた。それから眼と唇を閉じて腕を<span type="ruby"><span type="rb">拱</span><span type="rp">（</span><span type="rt">く</span><span type="rp">）</span></span>んでジッと何か考えていたが、やがて眼を開くと同時にハッキリした口調で云った。<lb />
+　けれどもそれはほんの<seg type="ruby"><seg type="rb">一寸</seg><seg type="rp">（</seg><seg type="rt">ちょっと</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>のことであった。妻木君の表情は見る見るもとの通りに冷たく白く落ち付くと同時に、ふるえた長い溜め息がその鼻から洩れた。それから眼と唇を閉じて腕を<seg type="ruby"><seg type="rb">拱</seg><seg type="rp">（</seg><seg type="rt">く</seg><seg type="rp">）</seg></seg>んでジッと何か考えていたが、やがて眼を開くと同時にハッキリした口調で云った。<lb />
 「承知しました。お眼にかけましょう」<lb />
-「エッ見せて下さいますか」と私は思わず釣り込まれて<span type="ruby"><span type="rb">居住居</span><span type="rp">（</span><span type="rt">いずまい</span><span type="rp">）</span></span>を直した。<lb />
+「エッ見せて下さいますか」と私は思わず釣り込まれて<seg type="ruby"><seg type="rb">居住居</seg><seg type="rp">（</seg><seg type="rt">いずまい</seg><seg type="rp">）</seg></seg>を直した。<lb />
 「けれども今日は駄目ですよ」<lb />
 「いつでも結構です」<lb />
 「その前にお尋ねしたいことがあります」<lb />
 「ハイ……何でも」<lb />
 「あなたはもしや音丸という御苗字ではありませんか」<lb />
-　私はこの時どんな<span type="ruby"><span type="rb">表情</span><span type="rp">（</span><span type="rt">かおつき</span><span type="rp">）</span></span>をしたか知らない。唯妻木君の顔を穴のあく程見詰めてやっとのことうなずいた。そうして切れ切れに尋ねた。<lb />
+　私はこの時どんな<seg type="ruby"><seg type="rb">表情</seg><seg type="rp">（</seg><seg type="rt">かおつき</seg><seg type="rp">）</seg></seg>をしたか知らない。唯妻木君の顔を穴のあく程見詰めてやっとのことうなずいた。そうして切れ切れに尋ねた。<lb />
 「……どうして……それを……」<lb />
-　妻木君は深くうなずいた。<span type="ruby"><span type="rb">悄然</span><span type="rp">（</span><span type="rt">しょうぜん</span><span type="rp">）</span></span>としていった。<lb />
-「しかたがありません。私は本当のことを云います。あなたのお<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の若先生から聞きました。私は若先生にお稽古を願ったものですが……」<lb />
+　妻木君は深くうなずいた。<seg type="ruby"><seg type="rb">悄然</seg><seg type="rp">（</seg><seg type="rt">しょうぜん</seg><seg type="rp">）</seg></seg>として云った。<lb />
+「しかたがありません。私は本当のことを云います。あなたのお<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の若先生から聞きました。私は若先生にお稽古を願ったものですが……」<lb />
 　私はグッと唾を飲み込んだ。妻木君の言葉の続きを待ちかねた。<lb />
-「……若先生は<span type="ruby"><span type="rb">伯母</span><span type="rp">（</span><span type="rt">おば</span><span type="rp">）</span></span>からあの鼓のことを聞かれたのです。あの鼓はほんのお飾りでホントの調子は出ないものだと或る職人が云ったが、本当でしょうかってね。そうすると若先生は……サア……それを打って見なければわからぬが、とにかく見ましょうということになってね……七年前のしかもきょうなんです……この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>へ来られてその鼓を打たれたんです。それからこの<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>を出られたのですがそのまんま九段へも帰られないのだそうです」<lb />
+「……若先生は<seg type="ruby"><seg type="rb">伯母</seg><seg type="rp">（</seg><seg type="rt">おば</seg><seg type="rp">）</seg></seg>からあの鼓のことを聞かれたのです。あの鼓はほんのお飾りでホントの調子は出ないものだと或る職人が云ったが、本当でしょうかってね。そうすると若先生は……サア……それを打って見なければわからぬが、とにかく見ましょうということになってね……七年前のしかもきょうなんです……この<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>へ来られてその鼓を打たれたんです。それからこの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>を出られたのですがそのまんま九段へも帰られないのだそうです」<lb />
 「若先生は生きておられるのですか」<lb />
 　と私は畳みかけて問うた。妻木君は黙ってうなずいた。それから静かに云った。<lb />
 「……この鼓に呪われて……生きた死骸とおんなじになって……しかしそれを深く恥じながら……自分を知っているものに会わないようにどこにか……姿をかくしておられます」<lb />
 「あなたはどうしてそれがおわかりになりますか」<lb />
 「……私は若先生にお眼にかかりました……私にこの事だけ云って行かれたのです。そうして……私の後継ぎにはやはり音丸という子供が来ると……」<lb />
 　私は思わずカッと耳まで赤くなった。若先生にまで見込まれていたのかと思うと空恐ろしくなったので……。<lb />
-　それと一緒に眼の前に居る妻木という書生さんがまるで違ったえらい人に思われて来た。若先生がそんなことまで打ち明けられる人ならば、よほど芸の出来た人に違いないからである。私はすぐにも頭を下げたい位に思いながら<span type="ruby"><span type="rb">恭</span><span type="rp">（</span><span type="rt">うやうや</span><span type="rp">）</span></span>しく聞いた。<lb />
+　それと一緒に眼の前に居る妻木という書生さんがまるで違ったえらい人に思われて来た。若先生がそんなことまで打ち明けられる人ならば、よほど芸の出来た人に違いないからである。私はすぐにも頭を下げたい位に思いながら<seg type="ruby"><seg type="rb">恭</seg><seg type="rp">（</seg><seg type="rt">うやうや</seg><seg type="rp">）</seg></seg>しくきいた。<lb />
 「それからあなたは……どうなさいましたか」<lb />
 　妻木君も私と一緒に心持ち赤くなっていたようであったが、それでも前より勢い込んで話し出した。<lb />
-「私はこの事をきくと腹が立ちました。<span type="ruby"><span type="rb">高</span><span type="rp">（</span><span type="rt">たか</span><span type="rp">）</span></span>の知れた鼓一梃が人の一生を葬るような<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>を立てるなんて<span type="ruby"><span type="rb">怪</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>しからぬ。鼓というものはその人の気持ちによって、いろんな音色を出すもので、鼓の音が人の心を自由にするもんじゃない。どうかしてその鼓を打って見たい。そうしてそのような人を呪うような音色でなく当り前の愉快な調子を打ち出して、若先生の<span type="ruby"><span type="rb">讐</span><span type="rp">（</span><span type="rt">かたき</span><span type="rp">）</span></span>を取りたいものだと思っている矢先へ伯母が私を呼び寄せたのです。私は得たり賢しで勉強をやめて<span type="ruby"><span type="rb">此家</span><span type="rp">（</span><span type="rt">ここ</span><span type="rp">）</span></span>に来ました」<lb />
+「私はこの事をきくと腹が立ちました。<seg type="ruby"><seg type="rb">高</seg><seg type="rp">（</seg><seg type="rt">たか</seg><seg type="rp">）</seg></seg>の知れた鼓一梃が人の一生を葬るような<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>を立てるなんて<seg type="ruby"><seg type="rb">怪</seg><seg type="rp">（</seg><seg type="rt">け</seg><seg type="rp">）</seg></seg>しからぬ。鼓というものはその人の気持ちによって、いろんな音色を出すもので、鼓の音が人の心を自由にするもんじゃない。どうかしてその鼓を打って見たい。そうしてそのような人を呪うような音色でなく当り前の愉快な調子を打ち出して、若先生の<seg type="ruby"><seg type="rb">讐</seg><seg type="rp">（</seg><seg type="rt">かたき</seg><seg type="rp">）</seg></seg>を取りたいものだと思っている矢先へ伯母が私を呼び寄せたのです。私は得たり賢しで勉強をやめて<seg type="ruby"><seg type="rb">此家</seg><seg type="rp">（</seg><seg type="rt">ここ</seg><seg type="rp">）</seg></seg>に来ました」<lb />
 「……で……その鼓をお打ちになりましたか」<lb />
-　と私は胸を躍らしてきいた。しかし妻木君は妙な冷やかな顔をしてニヤニヤ笑った切り返事をしない。私は<span type="ruby"><span type="rb">自烈度</span><span type="rp">（</span><span type="rt">じれった</span><span type="rp">）</span></span>くなって又問うた。<lb />
+　と私は胸を躍らしてきいた。しかし妻木君は妙な冷やかな顔をしてニヤニヤ笑った切り返事をしない。私は<seg type="ruby"><seg type="rb">自烈度</seg><seg type="rp">（</seg><seg type="rt">じれった</seg><seg type="rp">）</seg></seg>くなって又問うた。<lb />
 「その鼓はどんな恰好でしたか」<lb />
 　妻木君はやはり妙な顔をしていたが、やがて力なく投げ出すように云った。<lb />
 「僕はまだその鼓を見ないのです」<lb />
-「エッ……まだ」と私は<span type="ruby"><span type="rb">呆気</span><span type="rp">（</span><span type="rt">あっけ</span><span type="rp">）</span></span>にとられて云った。<lb />
+「エッ……まだ」と私は<seg type="ruby"><seg type="rb">呆気</seg><seg type="rp">（</seg><seg type="rt">あっけ</seg><seg type="rp">）</seg></seg>にとられて云った。<lb />
 「エエ。伯母が僕に隠してどうしても見せないんです」<lb />
 「それは何故ですか」と私は失望と憤慨とを一緒にして問うた。妻木君は気の毒そうに説明をした。<lb />
 「伯母は若先生が打たれた『あやかしの鼓』の音をきいてから、自分でもその音が出したくなったのです。そうして音が出るようになったら、それを持ち出して高林家の婦人弟子仲間に見せびらかしてやろうと思っているのです。ですからそれ以来高林へ行かないのです」<lb />
 「じゃ何故あなたに隠されるのですか」<lb />
-　と私は<span type="ruby"><span type="rb">矢継早</span><span type="rp">（</span><span type="rt">やつぎばや</span><span type="rp">）</span></span>に問うた。その熱心な口調にいくらか受け<span type="ruby"><span type="rb">太刀</span><span type="rp">（</span><span type="rt">だち</span><span type="rp">）</span></span>の気味になった妻木君は苦笑しいしい云った。<lb />
+　と私は<seg type="ruby"><seg type="rb">矢継早</seg><seg type="rp">（</seg><seg type="rt">やつぎばや</seg><seg type="rp">）</seg></seg>に問うた。その熱心な口調にいくらか受け<seg type="ruby"><seg type="rb">太刀</seg><seg type="rp">（</seg><seg type="rt">だち</seg><seg type="rp">）</seg></seg>の気味になった妻木君は苦笑しいしい云った。<lb />
 「おおかた僕がその鼓を盗みに来たように思っているのでしょう」<lb />
 「じゃどこに隠してあるかおわかりになりませんか」<lb />
 　と私の質問はいよいよぶしつけになったので、妻木君の返事は益々受け太刀の気味になった。<lb />
@@ -250,103 +246,103 @@
 「外へ出るたんびに持って出られるのじゃないですか」<lb />
 「いいえ絶対に……」<lb />
 「じゃ伯母さんは……奥さんはいつその鼓を打たれるのですか」<lb />
-　この質問は妻木君をギックリさせたらしく心持ち<span type="ruby"><span type="rb">羞恥</span><span type="rp">（</span><span type="rt">はにか</span><span type="rp">）</span></span>んだ表情をしたが、やがて<span type="ruby"><span type="rb">口籠</span><span type="rp">（</span><span type="rt">くちごも</span><span type="rp">）</span></span>りながら弁解をするように云った。<lb />
-「私は毎晩不眠症にかかっていますので睡眠薬を<span type="ruby"><span type="rb">服</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>んで寝るのです。その睡眠薬は伯母が調合をして飲ませますので私が睡ったのを見届けてから伯母は寝るのです。その時に打つらしいのです」<lb />
+　この質問は妻木君をギックリさせたらしく心持ち<seg type="ruby"><seg type="rb">羞恥</seg><seg type="rp">（</seg><seg type="rt">はにか</seg><seg type="rp">）</seg></seg>んだ表情をしたが、やがて<seg type="ruby"><seg type="rb">口籠</seg><seg type="rp">（</seg><seg type="rt">くちごも</seg><seg type="rp">）</seg></seg>りながら弁解をするように云った。<lb />
+「私は毎晩不眠症にかかっていますので睡眠薬を<seg type="ruby"><seg type="rb">服</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>んで寝るのです。その睡眠薬は伯母が調合をして飲ませますので私が睡ったのを見届けてから伯母は寝るのです。その時に打つらしいのです」<lb />
 「ヘエ……途中で眼のさめるようなことはおありになりませんか」<lb />
 「ええ。ありません……伯母はだんだん薬を増すのですから……けれどもいつかは利かなくなるだろうと、それを楽しみに待っているのです。もう今年で七年になります」<lb />
-　と云うと妻木君は<span type="ruby"><span type="rb">悄然</span><span type="rp">（</span><span type="rt">しょんぼり</span><span type="rp">）</span></span>とうなだれた。<lb />
-「七年……」と口の中で繰り返して私は額に手を当てた、この家中に充ち満ちている不思議さ……怪しさ……気味わるさ……が一時に私に襲いかかって頭の中で<span type="ruby"><span type="rb">風車</span><span type="rp">（</span><span type="rt">かざぐるま</span><span type="rp">）</span></span>のように回転し初めたからである。この家中のすべてが「あやかしの鼓」に呪われているばかりでなく、私もどうやら呪われかけているような……。<lb />
+　と云うと妻木君は<seg type="ruby"><seg type="rb">悄然</seg><seg type="rp">（</seg><seg type="rt">しょんぼり</seg><seg type="rp">）</seg></seg>とうなだれた。<lb />
+「七年……」と口の中で繰り返して私は額に手を当てた、この家中に充ち満ちている不思議さ……怪しさ……気味わるさ……が一時に私に襲いかかって頭の中で<seg type="ruby"><seg type="rb">風車</seg><seg type="rp">（</seg><seg type="rt">かざぐるま</seg><seg type="rp">）</seg></seg>のように回転し初めたからである。この家中のすべてが「あやかしの鼓」に呪われているばかりでなく、私もどうやら呪われかけているような……。<lb />
 　しかし又この青年の根気の強さも人並ではない。そんな眼に会いながら七年も辛抱するとは何という恐ろしい執念であろう。しかもそうした青年をこれ程までにいじめつけて鼓を吾が物にしようとする鶴原夫人の残忍さ……それを通じてわかる「あやかしの鼓」の魅力……この世の事でないと思うと私は頸すじが粟立つのを感じた。<lb />
 　私は殆んど最後の勇気を出してきいた。<lb />
 「じゃ全くわからないのですね」<lb />
 「わかりません。わかれば持って逃げます」<lb />
 　と妻木君は冷やかに笑った。私は私の愚問を恥じて又赤面した。<lb />
-「こっちへお<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">いで</span><span type="rp">）</span></span>なさい。<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の中をお眼にかけましょう。そうすれば伯母がどんな性格の女だかおわかりになりましょう。ことによると違った人の眼で見たら鼓の隠してあるところがわかるかも知れません」<lb />
-　と云ううちに妻木君は立ち上った。私は鼓のことを殆んど諦めながらも、云い知れぬ好奇心に満たされて<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>を出た。<lb />
+「こっちへお<seg type="ruby"><seg type="rb">出</seg><seg type="rp">（</seg><seg type="rt">いで</seg><seg type="rp">）</seg></seg>なさい。<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の中をお眼にかけましょう。そうすれば伯母がどんな性格の女だかおわかりになりましょう。ことによると違った人の眼で見たら鼓の隠してあるところがわかるかも知れません」<lb />
+　と云ううちに妻木君は立ち上った。私は鼓のことを殆んど諦めながらも、云い知れぬ好奇心に満たされて<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>を出た。<lb />
 <lb />
-　応接間を出ると左は玄関と、以前人力車を入れたらしいタタキの<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>がある。妻木君は右へ曲って私を台所へ連れ込んだ。<lb />
-　それは電気と<span type="ruby"><span type="rb">瓦斯</span><span type="rp">（</span><span type="rt">ガス</span><span type="rp">）</span></span>を引いた新式の台所で、手入れの届いた板の間がピカピカ光っている。そこの袋戸棚から<span type="ruby"><span type="rb">竈</span><span type="rp">（</span><span type="rt">かまど</span><span type="rp">）</span></span>の下とその向う側、洗面所の上下の袋戸、物置の炭俵や漬物桶の間、湯殿と台所との間の壁の厚さ、女中部屋の空っぽの押入れ、天井裏にかけた<span type="ruby"><span type="rb">提灯</span><span type="rp">（</span><span type="rt">ちょうちん</span><span type="rp">）</span></span>箱なぞいうものを、妻木君は如何にも慣れた手付きで調べて見せたが何一つ怪しいところはなかった。<lb />
+　応接間を出ると左は玄関と、以前人力車を入れたらしいタタキの<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>がある。妻木君は右へ曲って私を台所へ連れ込んだ。<lb />
+　それは電気と<seg type="ruby"><seg type="rb">瓦斯</seg><seg type="rp">（</seg><seg type="rt">ガス</seg><seg type="rp">）</seg></seg>を引いた新式の台所で、手入れの届いた板の間がピカピカ光っている。そこの袋戸棚から<seg type="ruby"><seg type="rb">竈</seg><seg type="rp">（</seg><seg type="rt">かまど</seg><seg type="rp">）</seg></seg>の下とその向う側、洗面所の上下の袋戸、物置の炭俵や漬物桶の間、湯殿と台所との間の壁の厚さ、女中部屋の空っぽの押入れ、天井裏にかけた<seg type="ruby"><seg type="rb">提灯</seg><seg type="rp">（</seg><seg type="rt">ちょうちん</seg><seg type="rp">）</seg></seg>箱なぞいうものを、妻木君は如何にも慣れた手付きで調べて見せたが何一つ怪しいところはなかった。<lb />
 「女中はいないんですか」と私は問うた。<lb />
-「ええ……みんな逃げて行きます。伯母が<span type="ruby"><span type="rb">八釜</span><span type="rp">（</span><span type="rt">やかま</span><span type="rp">）</span></span>しいので……」<lb />
+「ええ……みんな逃げて行きます。伯母が<seg type="ruby"><seg type="rb">八釜</seg><seg type="rp">（</seg><seg type="rt">やかま</seg><seg type="rp">）</seg></seg>しいので……」<lb />
 「じゃお台所は伯母さんがなさるのですね」<lb />
 「いいえ。僕です」<lb />
 「ヘエ。あなたが……」<lb />
 「僕は鼓よりも料理の方が名人なのですよ。拭き掃除も一切自分でやります。この通りです」<lb />
 　と妻木君は両手を広げて見せた。成る程今まで気が附かなかったがかなり荒れている。<lb />
-　ボンヤリとその手を見ている私を引っ立てて妻木君は台所を出た。右手の日本風のお庭に向かって一面に<span type="ruby"><span type="rb">硝子障子</span><span type="rp">（</span><span type="rt">ガラスしょうじ</span><span type="rp">）</span></span>がはまった廊下へ出て、左側の取っ付きの西洋間の白い<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>を開くと妻木君は先に立って這入った。私も続いて這入った。<lb />
-　初めはあまり立派なものばかりなので何の<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>だかわからなかったが、やがてそれが広い化粧部屋だということがわかった。うっかりすると<span type="ruby"><span type="rb">辷</span><span type="rp">（</span><span type="rt">すべ</span><span type="rp">）</span></span>り倒れそうなゴム引きの床の半分は美事な<span type="ruby"><span type="rb">絨毯</span><span type="rp">（</span><span type="rt">じゅうたん</span><span type="rp">）</span></span>が敷いてある。深緑のカアテンをかけた窓のほかは白い壁にも<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>の内側にも一面に鏡が仕掛けてあって、<span type="ruby"><span type="rb">室中</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>のものが<span type="ruby"><span type="rb">涯</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>てしもなく向うまで並び続いているように見える――西洋式の白い<span type="ruby"><span type="rb">浴槽</span><span type="rp">（</span><span type="rt">ゆぶね</span><span type="rp">）</span></span>、黒い木に<span type="ruby"><span type="rb">黄金色</span><span type="rp">（</span><span type="rt">きん</span><span type="rp">）</span></span>の金具を打ちつけた美事な化粧台、着物かけ、タオルかけ、歯医者の手術室にあるような<span type="ruby"><span type="rb">硝子</span><span type="rp">（</span><span type="rt">ガラス</span><span type="rp">）</span></span>戸棚、その中に並んだ様々な化粧道具や薬品らしいもの、<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>の隅の電気ストーブ、向うの窓際の大きな長椅子、天井から下った切り子細工の電燈の笠――。<lb />
+　ボンヤリとその手を見ている私を引っ立てて妻木君は台所を出た。右手の日本風のお庭に向って一面に<seg type="ruby"><seg type="rb">硝子障子</seg><seg type="rp">（</seg><seg type="rt">ガラスしょうじ</seg><seg type="rp">）</seg></seg>がはまった廊下へ出て、左側の取っ付きの西洋間の白い<seg type="ruby"><seg type="rb">扉</seg><seg type="rp">（</seg><seg type="rt">ドア</seg><seg type="rp">）</seg></seg>を開くと妻木君は先に立って這入った。私も続いて這入った。<lb />
+　初めはあまり立派なものばかりなので何の<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>だかわからなかったが、やがてそれが広い化粧部屋だということがわかった。うっかりすると<seg type="ruby"><seg type="rb">辷</seg><seg type="rp">（</seg><seg type="rt">すべ</seg><seg type="rp">）</seg></seg>り倒れそうなゴム引きの床の半分は美事な<seg type="ruby"><seg type="rb">絨毯</seg><seg type="rp">（</seg><seg type="rt">じゅうたん</seg><seg type="rp">）</seg></seg>が敷いてある。深緑のカアテンをかけた窓のほかは白い壁にも<seg type="ruby"><seg type="rb">扉</seg><seg type="rp">（</seg><seg type="rt">ドア</seg><seg type="rp">）</seg></seg>の内側にも一面に鏡が仕掛けてあって、<seg type="ruby"><seg type="rb">室中</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>のものが<seg type="ruby"><seg type="rb">涯</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>てしもなく向うまで並び続いているように見える――西洋式の白い<seg type="ruby"><seg type="rb">浴槽</seg><seg type="rp">（</seg><seg type="rt">ゆぶね</seg><seg type="rp">）</seg></seg>、黒い木に<seg type="ruby"><seg type="rb">黄金色</seg><seg type="rp">（</seg><seg type="rt">きん</seg><seg type="rp">）</seg></seg>の金具を打ちつけた美事な化粧台、着物かけ、タオルかけ、歯医者の手術室にあるような<seg type="ruby"><seg type="rb">硝子</seg><seg type="rp">（</seg><seg type="rt">ガラス</seg><seg type="rp">）</seg></seg>戸棚、その中に並んだ様々な化粧道具や薬品らしいもの、<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>の隅の電気ストーブ、向うの窓際の大きな長椅子、天井から下った切り子細工の電燈の笠――。<lb />
 　妻木君はその中に這入って先ず化粧台の下からあらため初めた。しかし私はその時鼓を探すということよりもかなり年増になっている筈の鶴原未亡人が、こんな女優のいそうな室でお化粧をしている気持ちを考えながら眼を丸くしていた。<lb />
 「この室も不思議なことはないんです」<lb />
-　と妻木君は私の顔を見い見い微笑して<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>を閉じた。そうして次に今一つある西洋間の青い<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>の前を素通りにして一番向うの廊下の端にある日本間の障子に手をかけた。<lb />
-「この室は……」と私は立ち止まって青い<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>を指した。<lb />
+　と妻木君は私の顔を見い見い微笑して<seg type="ruby"><seg type="rb">扉</seg><seg type="rp">（</seg><seg type="rt">ドア</seg><seg type="rp">）</seg></seg>を閉じた。そうして次に今一つある西洋間の青い<seg type="ruby"><seg type="rb">扉</seg><seg type="rp">（</seg><seg type="rt">ドア</seg><seg type="rp">）</seg></seg>の前を素通りにして一番向うの廊下の端にある日本間の障子に手をかけた。<lb />
+「この室は……」と私は立ち止まって青い<seg type="ruby"><seg type="rb">扉</seg><seg type="rp">（</seg><seg type="rt">ドア</seg><seg type="rp">）</seg></seg>を指した。<lb />
 「その室は問題じゃないんです。一面にタタキになって真中に鉄の寝台が一つあるきりです。問題じゃありません」<lb />
 　と妻木君は何だかイマイマしいような口つきで云った。<lb />
 「ヘエ……」<lb />
-　と云いながら私はわれ知らず鍵穴に眼を近づけて<span type="ruby"><span type="rb">内部</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>をのぞいた。<lb />
-　青黒く地並になった<span type="ruby"><span type="rb">漆喰</span><span type="rp">（</span><span type="rt">しっくい</span><span type="rp">）</span></span>の床と白い古びた土壁が向うに見える。あかり窓はずっと左の方に小さいのがあるらしく、その陰気で淋しいことまるで貧乏病院の手術室である。隣の化粧室と比べるととても同じ家の中に並んで在る室とは思えない。<lb />
+　と云いながら私はわれ知らず鍵穴に眼を近づけて<seg type="ruby"><seg type="rb">内部</seg><seg type="rp">（</seg><seg type="rt">なか</seg><seg type="rp">）</seg></seg>をのぞいた。<lb />
+　青黒く地並になった<seg type="ruby"><seg type="rb">漆喰</seg><seg type="rp">（</seg><seg type="rt">しっくい</seg><seg type="rp">）</seg></seg>の床と白い古びた土壁が向うに見える。あかり窓はずっと左の方に小さいのがあるらしく、その陰気で淋しいことまるで貧乏病院の手術室である。隣りの化粧室と比べるととても同じ家の中に並んで在る室とは思えない。<lb />
 「その室に僕は毎晩寝るのです。監獄みたいでしょう」<lb />
-　妻木君は<span type="ruby"><span type="rb">冷笑</span><span type="rp">（</span><span type="rt">あざわら</span><span type="rp">）</span></span>っているらしかったが、その時は私の眼に妙なものが見えた。それは正面の壁にかかっている一本の短かい革製の鞭で、初め私は壁の<span type="ruby"><span type="rb">汚染</span><span type="rp">（</span><span type="rt">しみ</span><span type="rp">）</span></span>かと思っていたものだった。<lb />
-「その室で<span type="ruby"><span type="rb">伯父</span><span type="rp">（</span><span type="rt">おじ</span><span type="rp">）</span></span>は死んだのです。」<lb />
-　という声がうしろから聞こえると同時に私はゾッとして鍵穴から眼を<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>けた。同時に妻木君の顔一面に浮んだ青白い笑いを見ると<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>がシャンと<span type="ruby"><span type="rb">固</span><span type="rp">（</span><span type="rt">こわ</span><span type="rp">）</span></span>ばるように感じた。むろん今の鞭の事なぞ尋ねる勇気はなかった。<lb />
+　妻木君は<seg type="ruby"><seg type="rb">冷笑</seg><seg type="rp">（</seg><seg type="rt">あざわら</seg><seg type="rp">）</seg></seg>っているらしかったが、その時に私の眼に妙なものが見えた。それは正面の壁にかかっている一本の短かい革製の鞭で、初め私は壁の<seg type="ruby"><seg type="rb">汚染</seg><seg type="rp">（</seg><seg type="rt">しみ</seg><seg type="rp">）</seg></seg>かと思っていたものだった。<lb />
+「その室で<seg type="ruby"><seg type="rb">伯父</seg><seg type="rp">（</seg><seg type="rt">おじ</seg><seg type="rp">）</seg></seg>は死んだのです」<lb />
+　という声がうしろから聞こえると同時に私はゾッとして鍵穴から眼を<seg type="ruby"><seg type="rb">退</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>けた。同時に妻木君の顔一面に浮んだ青白い笑いを見ると<seg type="ruby"><seg type="rb">身体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>がシャンと<seg type="ruby"><seg type="rb">固</seg><seg type="rp">（</seg><seg type="rt">こわ</seg><seg type="rp">）</seg></seg>ばるように感じた。むろん今の鞭の事なぞ尋ねる勇気はなかった。<lb />
 「こっちへお這入りなさい。この室で伯母は鼓を打つらしいのです」<lb />
-　私はほっと溜め息をして奥の座敷に這入った――この<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>にはこれ切りしか室がないのだ――と思いながら……。<lb />
+　私はほっと溜め息をして奥の座敷に這入った――この<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>にはこれ切りしか室がないのだ――と思いながら……。<lb />
 <lb />
-　奥の<span type="ruby"><span type="rb">一室</span><span type="rp">（</span><span type="rt">ひとま</span><span type="rp">）</span></span>の新しい畳を踏むと、私は今まで張り詰めていた気分が見る見る<span type="ruby"><span type="rb">弛</span><span type="rp">（</span><span type="rt">ゆる</span><span type="rp">）</span></span>んで来るように思った。<lb />
-　青々とした八畳敷の向うに月見窓がある。外には梅でも植えてありそうに見える。<lb />
-　その下に脚の細い黒塗りの机があって、草色の座布団と<span type="ruby"><span type="rb">華奢</span><span type="rp">（</span><span type="rt">きゃしゃ</span><span type="rp">）</span></span>な桐の角火鉢とが行儀よく並んでいる。その左の桐の<span type="ruby"><span type="rb">箪笥</span><span type="rp">（</span><span type="rt">たんす</span><span type="rp">）</span></span>の上には大小の本箱が二つと、大きな<span type="ruby"><span type="rb">硝子</span><span type="rp">（</span><span type="rt">ガラス</span><span type="rp">）</span></span>箱入りのお<span type="ruby"><span type="rb">河童</span><span type="rp">（</span><span type="rt">かっぱ</span><span type="rp">）</span></span>さんの人形が美しい振り袖を着て立っている。<lb />
-　右手には机に近く茶器を並べた<span type="ruby"><span type="rb">水屋</span><span type="rp">（</span><span type="rt">みずや</span><span type="rp">）</span></span>と水棚があって、壁から出ている水道の口の下に<span type="ruby"><span type="rb">菜種</span><span type="rp">（</span><span type="rt">なたね</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">蓮華草</span><span type="rp">（</span><span type="rt">れんげそう</span><span type="rp">）</span></span>の束が白糸で<span type="ruby"><span type="rb">結</span><span type="rp">（</span><span type="rt">ゆ</span><span type="rp">）</span></span>わえて置いてある。その右手は四尺の床の間と四尺の違い棚になっているが床の間には唐美人の絵をかけて前に水晶の香炉を置き、違い棚には画帖らしいものが一冊と鼓の箱が四ツ行儀よく並べてある。その上下の袋戸と左側の二間一面の押し入れに立てられた新しい芭蕉布の<span type="ruby"><span type="rb">襖</span><span type="rp">（</span><span type="rt">ふすま</span><span type="rp">）</span></span>や、つつましやかな恰好の銀色の引き手や、天井の真中から下っている黒枠に黄絹張りの電燈の笠まで何一つとして上品でないものはない。<lb />
+　奥の<seg type="ruby"><seg type="rb">一室</seg><seg type="rp">（</seg><seg type="rt">ひとま</seg><seg type="rp">）</seg></seg>の新しい畳を踏むと、私は今まで張り詰めていた気分が見る見る<seg type="ruby"><seg type="rb">弛</seg><seg type="rp">（</seg><seg type="rt">ゆる</seg><seg type="rp">）</seg></seg>んで来るように思った。<lb />
+　青々とした八畳敷の向うに月見窓がある、外には梅でも植えてありそうに見える。<lb />
+　その下に脚の細い黒塗りの机があって、草色の座布団と<seg type="ruby"><seg type="rb">華奢</seg><seg type="rp">（</seg><seg type="rt">きゃしゃ</seg><seg type="rp">）</seg></seg>な桐の角火鉢とが行儀よく並んでいる。その左の桐の箪笥の上には大小の本箱が二つと、大きな<seg type="ruby"><seg type="rb">硝子</seg><seg type="rp">（</seg><seg type="rt">ガラス</seg><seg type="rp">）</seg></seg>箱入りのお<seg type="ruby"><seg type="rb">河童</seg><seg type="rp">（</seg><seg type="rt">かっぱ</seg><seg type="rp">）</seg></seg>さんの人形が美しい振り袖を着て立っている。<lb />
+　右手には机に近く茶器を並べた<seg type="ruby"><seg type="rb">水屋</seg><seg type="rp">（</seg><seg type="rt">みずや</seg><seg type="rp">）</seg></seg>と水棚があって、壁から出ている水道の口の下に<seg type="ruby"><seg type="rb">菜種</seg><seg type="rp">（</seg><seg type="rt">なたね</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">蓮華草</seg><seg type="rp">（</seg><seg type="rt">れんげそう</seg><seg type="rp">）</seg></seg>の束が白糸で<seg type="ruby"><seg type="rb">結</seg><seg type="rp">（</seg><seg type="rt">ゆ</seg><seg type="rp">）</seg></seg>わえて置いてある。その右手は四尺の床の間と四尺の違い棚になっているが床の間には唐美人の絵をかけて前に水晶の香炉を置き、違い棚には画帖らしいものが一冊と鼓の箱が四ツ行儀よく並べてある。その上下の袋戸と左側の二間一面の押し入れに立てられた新しい芭蕉布の<seg type="ruby"><seg type="rb">襖</seg><seg type="rp">（</seg><seg type="rt">ふすま</seg><seg type="rp">）</seg></seg>や、つつましやかな恰好の銀色の引き手や、天井の真中から下っている黒枠に黄絹張りの電燈の笠まで何一つとして上品でないものはない。<lb />
 　私は思わず今一度溜め息をさせられた。<lb />
 「これが伯母の居間です」<lb />
-　といううちに妻木君は左側の押し入れの襖を無造作にあけて、青白い二本の手を突込んで中のものを放り出し初めた……<span type="ruby"><span type="rb">縮緬</span><span type="rp">（</span><span type="rt">ちりめん</span><span type="rp">）</span></span>の夜具、<span type="ruby"><span type="rb">緞子</span><span type="rp">（</span><span type="rt">どんす</span><span type="rp">）</span></span>の座布団、麻のシーツ、派手なお召の<span type="ruby"><span type="rb">掻</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>い<span type="ruby"><span type="rb">巻</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>き、美事な<span type="ruby"><span type="rb">朱総</span><span type="rp">（</span><span type="rt">しゅぶさ</span><span type="rp">）</span></span>のついた<span type="ruby"><span type="rb">括</span><span type="rp">（</span><span type="rt">くく</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">枕</span><span type="rp">（</span><span type="rt">まくら</span><span type="rp">）</span></span>と塗り枕、墨絵を描いた白地の<span type="ruby"><span type="rb">蚊帳</span><span type="rp">（</span><span type="rt">かや</span><span type="rp">）</span></span>……。<lb />
+　といううちに妻木君は左側の押し入れの襖を無造作にあけて、青白い二本の手を突込んで中のものを放り出し初めた……<seg type="ruby"><seg type="rb">縮緬</seg><seg type="rp">（</seg><seg type="rt">ちりめん</seg><seg type="rp">）</seg></seg>の夜具、<seg type="ruby"><seg type="rb">緞子</seg><seg type="rp">（</seg><seg type="rt">どんす</seg><seg type="rp">）</seg></seg>の敷布団、麻のシーツ、派手なお召の<seg type="ruby"><seg type="rb">掻</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>い<seg type="ruby"><seg type="rb">巻</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>き、美事な<seg type="ruby"><seg type="rb">朱総</seg><seg type="rp">（</seg><seg type="rt">しゅぶさ</seg><seg type="rp">）</seg></seg>のついた<seg type="ruby"><seg type="rb">括</seg><seg type="rp">（</seg><seg type="rt">くく</seg><seg type="rp">）</seg></seg>り<seg type="ruby"><seg type="rb">枕</seg><seg type="rp">（</seg><seg type="rt">まくら</seg><seg type="rp">）</seg></seg>と塗り枕、墨絵を描いた白地の蚊帳……。<lb />
 「ええ……もう結構です……」<lb />
-　と私は妙に気が<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>けて押し止めた。しかし妻木君はきかなかった。放り出した夜具類を、もとの通りに片付けると今度は隣り側の襖を開いて内部一面に切り組んである衣装棚を引き出し初めた。<lb />
+　と私は妙に気が<seg type="ruby"><seg type="rb">退</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>けて押し止めた。しかし妻木君はきかなかった。放り出した夜具類を、もとの通りに片付けると今度は隣り側の襖を開いて内部一面に切り組んである衣裳棚を引き出し初めた。<lb />
 「イヤ。わかりました。わかりました。あなたがお調べになったのなら間違いありません」<lb />
 「そうですか……それじゃ箪笥を……」<lb />
 「もう……もう本当に結構です」<lb />
 「じゃ御参考に鼓だけお眼にかけておきましょう」<lb />
-　と云ううちに右手の違い棚から一つ<span type="ruby"><span type="rb">宛</span><span type="rp">（</span><span type="rt">ずつ</span><span type="rp">）</span></span>四ツの鼓箱を取り下した。私はそれを受け取って<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>の真中に置いた。<lb />
+　と云ううちに右手の違い棚から一つ<seg type="ruby"><seg type="rb">宛</seg><seg type="rp">（</seg><seg type="rt">ずつ</seg><seg type="rp">）</seg></seg>四ツの鼓箱を取り下した。私はそれを受け取って<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>の真中に置いた。<lb />
 　箱から取り出された四ツの仕掛け鼓が私の前に並んだ時私は何となく胸が躍った。この中に「あやかしの鼓」が隠れていそうな気がしたからである。<lb />
-　この道にすこしでも這入った人は皆知っている通り、鼓の胴と皮とは人間でいえば夫婦のようなもので、元来別々に出来ていて皮には皮の<span type="ruby"><span type="rb">性</span><span type="rp">（</span><span type="rt">しょう</span><span type="rp">）</span></span>があり胴には胴の性がある。その二つの性が合って始めて一つの音色が出るので、<span type="ruby"><span type="rb">仮令</span><span type="rp">（</span><span type="rt">たとい</span><span type="rp">）</span></span>どんな名器同志の皮と胴でも、性が合わなければなかなか鳴らない。調子皮を貼って性を合わせたにしても、今までとは全く違った音色が出るので、今ここに四ツの皮と胴とがあるとすれば、鳴る鳴らぬに<span type="ruby"><span type="rb">拘</span><span type="rp">（</span><span type="rt">かか</span><span type="rp">）</span></span>わらず総計で十六通りの音色が出るわけである。鶴原未亡人はそれを知っていて、ふだん胴と皮とをかけ換えているのではないか……。<lb />
-　しかしこの考えが<span type="ruby"><span type="rb">浅墓</span><span type="rp">（</span><span type="rt">あさはか</span><span type="rp">）</span></span>であることは間もなくわかった。妻木君は私と向い合って坐るとすぐに云った。<lb />
+　この道にすこしでも這入った人は皆知っている通り、鼓の胴と皮とは人間でいえば夫婦のようなもので、元来別々に出来ていて皮には皮の<seg type="ruby"><seg type="rb">性</seg><seg type="rp">（</seg><seg type="rt">しょう</seg><seg type="rp">）</seg></seg>があり胴には胴の性がある。その二つの性が合って始めて一つの音色が出るので、<seg type="ruby"><seg type="rb">仮令</seg><seg type="rp">（</seg><seg type="rt">たとい</seg><seg type="rp">）</seg></seg>どんな名器同志の皮と胴でも、性が合わなければなかなか鳴らない。調子皮を貼って性を合わせたにしても、今までとは全く違った音色が出るので、今ここに四ツの皮と胴とがあるとすれば、鳴る鳴らぬに<seg type="ruby"><seg type="rb">拘</seg><seg type="rp">（</seg><seg type="rt">かか</seg><seg type="rp">）</seg></seg>わらず総計で十六通りの音色が出るわけである。鶴原未亡人はそれを知っていて、ふだん胴と皮とをかけ換えているのではないか……。<lb />
+　しかしこの考えが<seg type="ruby"><seg type="rb">浅墓</seg><seg type="rp">（</seg><seg type="rt">あさはか</seg><seg type="rp">）</seg></seg>であることは間もなくわかった。妻木君は私と向い合って坐るとすぐに云った。<lb />
 「私はこの四つの胴と皮とをいろいろにかけ換えてみました。けれどもどれもうまく合いませんでやっぱりもとの通りが一番いい事になります」<lb />
 「つまりこの通りなんですね」<lb />
 「そうです」<lb />
 「みんなよく鳴りますか」<lb />
-「ええ。みんな伯母が自慢のものです。胴の模様もこの通り春の桜、夏の波、秋の<span type="ruby"><span type="rb">紅葉</span><span type="rp">（</span><span type="rt">もみじ</span><span type="rp">）</span></span>、冬の雪となっていて、その時候に打つと特別によく鳴るのです。打って御覧なさい」<lb />
+「ええ。みんな伯母が自慢のものです。胴の模様もこの通り春の桜、夏の波、秋の<seg type="ruby"><seg type="rb">紅葉</seg><seg type="rp">（</seg><seg type="rt">もみじ</seg><seg type="rp">）</seg></seg>、冬の雪となっていて、その時候に打つと特別によく鳴るのです。打って御覧なさい」<lb />
 「伯母さまがお帰りになりはしませんか」<lb />
 「大丈夫です。今三時ですから。帰るのはいつも五時か六時頃です」<lb />
-「じゃ御免下さい」と一礼して羽織を脱いだ。妻木君も<span type="ruby"><span type="rb">居住居</span><span type="rp">（</span><span type="rt">いずまい</span><span type="rp">）</span></span>を直した。<lb />
+「じゃ御免下さい」と一礼して羽織を脱いだ、妻木君も<seg type="ruby"><seg type="rb">居住居</seg><seg type="rp">（</seg><seg type="rt">いずまい</seg><seg type="rp">）</seg></seg>を直した。<lb />
 　私は手近の松に雪の模様の鼓から順々に打って行ったが、九段にいる時と違って一パイに出す調子を妻木君は身じろぎもせずに聞いてくれた。<lb />
 「結構なものばかりですね」<lb />
-　と御挨拶なしに賞めつつ私は秋の鼓、夏の鼓と打って来て、最後に桜の模様の鼓を取り上げたが、その時何となく胸がドキンとした。ほかの鼓の胴は皆塗りが古いのに、この胴だけは新らしかった。大方この鼓だけ<span type="ruby"><span type="rb">蒔絵</span><span type="rp">（</span><span type="rt">まきえ</span><span type="rp">）</span></span>の模様が時候と合わないために、春の模様に塗りかえさしたものであろうが、その前の模様はもしや「宝づくし」ではなかったろうか。<lb />
+　と御挨拶なしに賞めつつ私は秋の鼓、夏の鼓と打って来て、最後に桜の模様の鼓を取り上げたが、その時何となく胸がドキンとした。ほかの鼓の胴は皆塗りが古いのに、この胴だけは新らしかった。大方この鼓だけ蒔絵の模様が時候と合わないために、春の模様に塗りかえさしたものであろうが、その前の模様はもしや「宝づくし」ではなかったろうか。<lb />
 　私はまだ打たぬうちに妻木君に問うた。<lb />
 「この鼓はいつ頃お求めになったのでしょうか」<lb />
 「サア。よく知りませんが」<lb />
 「ちょっと胴を拝見してもいいでしょうか」<lb />
 「エエ。どうぞ」と妻木君は変にカスレた声で云った。<lb />
-　私は黄色くなりかけている古ぼけた<span type="ruby"><span type="rb">調緒</span><span type="rp">（</span><span type="rt">しらべ</span><span type="rp">）</span></span>をゆるめて胴を<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>して、<span type="ruby"><span type="rb">乳袋</span><span type="rp">（</span><span type="rt">ちぶくろ</span><span type="rp">）</span></span>の内側を一眼見るとハッと息を詰めた。<lb />
-　<span type="ruby"><span type="rb">久能張</span><span type="rp">（</span><span type="rt">くのうば</span><span type="rp">）</span></span>りのサミダレになった<span type="ruby"><span type="rb">鉋目</span><span type="rp">（</span><span type="rt">かんなめ</span><span type="rp">）</span></span>がまだ新しく見える胴の内側には、蛇の鱗ソックリに綾取った赤樫の木目が目を刺すようにイライラと<span type="ruby"><span type="rb">顕</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>われていたからである。私の両手は本物の蛇を掴んだあとのようにわななき出して思わず胴を取り落した。胴はコロコロと私の膝の上から転がり落ちて、横に坐っている妻木君の膝にコツンとぶつかった。<lb />
+　私は黄色くなりかけている古ぼけた<seg type="ruby"><seg type="rb">調緒</seg><seg type="rp">（</seg><seg type="rt">しらべ</seg><seg type="rp">）</seg></seg>をゆるめて胴を<seg type="ruby"><seg type="rb">外</seg><seg type="rp">（</seg><seg type="rt">はず</seg><seg type="rp">）</seg></seg>して、<seg type="ruby"><seg type="rb">乳袋</seg><seg type="rp">（</seg><seg type="rt">ちぶくろ</seg><seg type="rp">）</seg></seg>の内側を一眼見るとハッと息を詰めた。<lb />
+　<seg type="ruby"><seg type="rb">久能張</seg><seg type="rp">（</seg><seg type="rt">くのうば</seg><seg type="rp">）</seg></seg>りのサミダレになった<seg type="ruby"><seg type="rb">鉋目</seg><seg type="rp">（</seg><seg type="rt">かんなめ</seg><seg type="rp">）</seg></seg>がまだ新しく見える胴の内側には、蛇の鱗ソックリに綾取った赤樫の木目が眼を刺すようにイライラと<seg type="ruby"><seg type="rb">顕</seg><seg type="rp">（</seg><seg type="rt">あら</seg><seg type="rp">）</seg></seg>われていたからである。私の両手は本物の蛇を掴んだあとのようにわななき出して思わず胴を取り落した。胴はコロコロと私の膝の上から転がり落ちて、横に坐っている妻木君の膝にコツンとぶつかった。<lb />
 「アッハッハッハッハッ」<lb />
-　と不意に妻木君が笑い出した。たまらなくコミ上げて来る笑いと一緒に、<span type="ruby"><span type="rb">身体</span><span type="rp">（</span><span type="rt">からだ</span><span type="rp">）</span></span>をよじって腹を押えて、しまいには畳の上にたおれてノタ打ちまわりながら、ヒステリー患者のように笑いつづけた。<lb />
+　と不意に妻木君が笑い出した。たまらなくコミ上げて来る笑いと一緒に、<seg type="ruby"><seg type="rb">身体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>をよじって腹を押えて、しまいには畳の上にたおれてノタ打ちまわりながら、ヒステリー患者のように笑いつづけた。<lb />
 「アッハッハッハッハハハハハ、とうとう一パイ喰いましたね……ヒッヒッホッホッホホハハハハハ。ヒッヒッヒッヒッ……」<lb />
-　私は歯の根も合わぬ位ふるえ出した。恐ろしいのか気味悪いのか、それとも腹立たしいのかわからぬまま、妻木君の黒い眼鏡を見つめて<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">おのの</span><span type="rp">）</span></span>いていたが、やがてその笑いが静まって来ると私の心持ちもそれにつれて不思議に落ち付いて来た。あとには只頭の毛がザワザワするのを感ずるばかりになった。<lb />
+　私は歯の根も合わぬ位ふるえ出した。恐ろしいのか気味悪いのか、それとも腹立たしいのかわからぬまま、妻木君の黒い眼鏡を見つめて<seg type="ruby"><seg type="rb">戦</seg><seg type="rp">（</seg><seg type="rt">おのの</seg><seg type="rp">）</seg></seg>いていたが、やがてその笑いが静まって来ると私の心持ちもそれにつれて不思議に落ち付いて来た。あとには只頭の毛がザワザワするのを感ずるばかりになった。<lb />
 　妻木君は涙を拭い拭い笑い止んだ。<lb />
-「ああ<span type="ruby"><span type="rb">可笑</span><span type="rp">（</span><span type="rt">おか</span><span type="rp">）</span></span>しい。ああ面白かった。アハ……アハ……。御免なさい音丸君……じゃない高林君。僕は君を<span type="ruby"><span type="rb">欺</span><span type="rp">（</span><span type="rt">だま</span><span type="rp">）</span></span>したんです。本当にこの鼓の伝説を知っておられるかどうか試して見たんです。さっきから僕が<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の中を案内なんかしたりしたものだから、君は本当に僕がこの鼓を知らないものと思ったのです。ここに鼓があろうとは思わなかったんです……アハ……アハ……眠り薬の話なんかみんな嘘ですよ。僕は毎日伯母と二人でこの鼓を打っているのですよ……」<lb />
-　私は開いた口が<span type="ruby"><span type="rb">閉</span><span type="rp">（</span><span type="rt">ふさ</span><span type="rp">）</span></span>がらなかった。茫然と妻木君の顔を見ていた。<lb />
+「ああ<seg type="ruby"><seg type="rb">可笑</seg><seg type="rp">（</seg><seg type="rt">おか</seg><seg type="rp">）</seg></seg>しい。ああ面白かった。アハ……アハ……。御免なさい音丸君……じゃない高林君。僕は君を<seg type="ruby"><seg type="rb">欺</seg><seg type="rp">（</seg><seg type="rt">だま</seg><seg type="rp">）</seg></seg>したんです。本当にこの鼓の伝説を知っておられるかどうか試して見たんです。さっきから僕が<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の中を案内なんかしたりしたものだから、君は本当に僕がこの鼓を知らないものと思ったのです。ここに鼓があろうとは思わなかったんです……アハ……アハ……眠り薬の話なんかみんな嘘ですよ。僕は毎日伯母と二人でこの鼓を打っているのですよ……」<lb />
+　私は開いた口が<seg type="ruby"><seg type="rb">閉</seg><seg type="rp">（</seg><seg type="rt">ふさ</seg><seg type="rp">）</seg></seg>がらなかった。茫然と妻木君の顔を見ていた。<lb />
 「君は失敬ですけれど正直な立派な方です。そうして本当にこの鼓の事を知って来られたんです……」<lb />
 「それがどうしたんですか」<lb />
 　と私は急に腹が立ったように感じて云った。こんなに真剣になっているのに笑うなんてあんまりだと思って……。すると妻木君は眼鏡の下から涙を拭き拭き坐り直したが、今度は全く真面目になってあやまった。<lb />
-「失敬失敬。<span type="ruby"><span type="rb">憤</span><span type="rp">（</span><span type="rt">おこ</span><span type="rp">）</span></span>らないでくれ給えね。僕は君を馬鹿にしたんじゃないんです。出来るならこの鼓を絶対に見つからないことにして諦らめてもらって、君をこの鼓の呪いから遠ざけようとしたのです。ですから疑わぬ先にと思ってこの鼓をお眼にかけたのです。けれども見事に失敗しました。この胴の木目のことまで御存じとすれば君は、君のお父さんから本当に遺言をきいて来られたに違いありません。君はこの鼓を手に入れて打ち壊してしまいたいと思っているのでしょう」<lb />
-　青天の<span type="ruby"><span type="rb">霹靂</span><span type="rp">（</span><span type="rt">へきれき</span><span type="rp">）</span></span>……私は全身の血が頭にのぼった。……と思う間もなく冷汗がタラタラと<span type="ruby"><span type="rb">腋</span><span type="rp">（</span><span type="rt">わき</span><span type="rp">）</span></span>の下を流れると、手足の力が抜けてガックリとうなだれつつ畳の上に手を<span type="ruby"><span type="rb">支</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>えた。<lb />
+「失敬失敬。<seg type="ruby"><seg type="rb">憤</seg><seg type="rp">（</seg><seg type="rt">おこ</seg><seg type="rp">）</seg></seg>らないでくれ給えね。僕は君を馬鹿にしたんじゃないんです。出来るならこの鼓を絶対に見つからないことにして諦らめてもらって、君をこの鼓の呪いから遠ざけようとしたのです。ですから疑わぬ先にと思ってこの鼓をお眼にかけたのです。けれども見事に失敗しました。この胴の木目のことまで御存じとすれば君は、君のお父さんから本当に遺言をきいて来られたに違いありません。君はこの鼓を手に入れて打ち壊してしまいたいと思っているのでしょう」<lb />
+　青天の<seg type="ruby"><seg type="rb">霹靂</seg><seg type="rp">（</seg><seg type="rt">へきれき</seg><seg type="rp">）</seg></seg>……私は全身の血が頭にのぼった。……と思う間もなく冷汗がタラタラと<seg type="ruby"><seg type="rb">腋</seg><seg type="rp">（</seg><seg type="rt">わき</seg><seg type="rp">）</seg></seg>の下を流れると、手足の力が抜けてガックリとうなだれつつ畳の上に手を<seg type="ruby"><seg type="rb">支</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>えた。<lb />
 「今まで隠していたが……」と妻木君は黒い眼鏡を外しながら怪しくかすれた声で云った「僕は七年前に高林家を出た靖二郎……ですよ」<lb />
 「アッ。若先生……」<lb />
-「……………」<lb />
-　二人の手はいつの間にかシッカリと握り合っていた。年の割に<span type="ruby"><span type="rb">老</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>けた若先生の近眼らしい眼から涙がポロリと落ちた。<lb />
+「…………」<lb />
+　二人の手はいつの間にかシッカリと握り合っていた。年の割りに<seg type="ruby"><seg type="rb">老</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>けた若先生の近眼らしい眼から涙がポロリと落ちた。<lb />
 「会いとう御座いました……」<lb />
 　と私はその膝に泣き伏した。それと一緒に誰一人肉親のものを持たぬ私の淋しさがヒシヒシと身に迫って来て、いうにいわれぬ悲しさがあとからあとからこみ上げて来た。<lb />
 　若先生も私の背中に両手を置きながら暫く泣いておられるようであったが、やがて切れ切れに云われた。<lb />
 「よく来た……と云いたいが……僕は……君が……高林家に引き取られたときいた時から……心配していた。もしや……ここへ来はしまいかと……」<lb />
-　私は父の遺言を思い出した。――鼓をいじるとだんだんいい道具が欲しくなる。そうしておしまいにはきっと「あやかしの鼓」に引きつけられるようになる――といった運命の力強さをマザマザと思い知ることが出来た。けれどもそれと同時に若先生と私の膝の前に転がっている「あやかしの鼓」の胴が何でもない木の<span type="ruby"><span type="rb">片</span><span type="rp">（</span><span type="rt">はし</span><span type="rp">）</span></span>のように思われて来たのは、あとから考えても実に不思議であった。<lb />
+　私は父の遺言を思い出した。――鼓をいじるとだんだんいい道具が欲しくなる。そうしておしまいにはきっと「あやかしの鼓」に引きつけられるようになる――といった運命の力強さをマザマザと思い知ることが出来た。けれどもそれと同時に若先生と私の膝の前に転がっている「あやかしの鼓」の胴が何でもない木の<seg type="ruby"><seg type="rb">片</seg><seg type="rp">（</seg><seg type="rt">はし</seg><seg type="rp">）</seg></seg>のように思われて来たのは、あとから考えても実に不思議であった。<lb />
 　そのうちに若先生は私をソッと膝から離して改めて私の顔を見られた。<lb />
 「何もかもすっかりわかったでしょう」<lb />
 「わかりました。……只一つ……」と私は涙を拭いて云った。<lb />
@@ -359,31 +355,286 @@
 「ああ。その時に君の手でこの鼓を二度と役に立たないように壊してくれ給え。君の御先祖の遺言通りに……」<lb />
 「僕の手で……」<lb />
 「そうだ。僕は精神上肉体上の敗残者なのだ。この鼓の呪いにかかって……痩せ衰えて……壊す力もなくなったのだ」<lb />
-　と云いつつすこし暗くなった外をかえり見て<span type="ruby"><span type="rb">独言</span><span type="rp">（</span><span type="rt">ひとりごと</span><span type="rp">）</span></span>のように云われた。<lb />
+　と云いつつすこし暗くなった外をかえり見て<seg type="ruby"><seg type="rb">独言</seg><seg type="rp">（</seg><seg type="rt">ひとりごと</seg><seg type="rp">）</seg></seg>のように云われた。<lb />
 「もう来るかも知れぬ、鶴原の後家さんが……」<lb />
 <lb />
 　私はうな垂れて鶴原家の門を出た。<lb />
-　この日のように頭の中を掻きまわされたことは今までになかった。こんな<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>が世の中にあろうとは私は夢にも思い付かなかった。何もかも夢の中の出来事のように<span type="ruby"><span type="rb">変梃</span><span type="rp">（</span><span type="rt">へんてこ</span><span type="rp">）</span></span>なことばかりでありながらその一つ一つが夢以上に気味わるく、恐ろしく、嬉しく、悲しかった。<lb />
-　恩義を棄て、名を棄て、自分の法事のお菓子を喰べられる若先生――それを<span type="ruby"><span type="rb">甥</span><span type="rp">（</span><span type="rt">おい</span><span type="rp">）</span></span>だと偽って吾が家に封じこめて女中同様にコキ使っているらしい鶴原子爵未亡人……そうしてあの美しい化粧室、あの薄気味のわるい病室、<span type="ruby"><span type="rb">皮革</span><span type="rp">（</span><span type="rt">かわ</span><span type="rp">）</span></span>の鞭、「あやかしの鼓」――何という謎のような世界であろう。何というトンチンカンな家庭であろう。眼で見ていながら信ずる事が出来ない――。<lb />
-　こんなことを考えて歩いているうちに、私はふと自分の懐中が妙にふくらんでいるのに気が付いた。見れば今しがた玄関で若先生が押し込んだ菓子折の束がのぞいている。私はそれを引き出してどこに棄てようかと考えながら頭を上げた。そのはずみに向うからうつむいて来た婦人にブツカリそうになったので私はハッと立ち<span type="ruby"><span type="rb">止</span><span type="rp">（</span><span type="rt">とど</span><span type="rp">）</span></span>まった。<lb />
+　この日のように頭の中を掻きまわされたことは今までになかった。こんな<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>が世の中にあろうとは私は夢にも思い付かなかった。何もかも夢の中の出来事のように<seg type="ruby"><seg type="rb">変梃</seg><seg type="rp">（</seg><seg type="rt">へんてこ</seg><seg type="rp">）</seg></seg>なことばかりでありながらその一つ一つが夢以上に気味わるく、恐ろしく、嬉しく、悲しかった。<lb />
+　恩義を棄て、名を棄て、自分の法事のお菓子を喰べられる若先生――それを<seg type="ruby"><seg type="rb">甥</seg><seg type="rp">（</seg><seg type="rt">おい</seg><seg type="rp">）</seg></seg>だと偽って吾が家に封じこめて女中同様にコキ使っているらしい鶴原子爵未亡人……そうしてあの美しい化粧室、あの薄気味のわるい病室、<seg type="ruby"><seg type="rb">皮革</seg><seg type="rp">（</seg><seg type="rt">かわ</seg><seg type="rp">）</seg></seg>の鞭、「あやかしの鼓」――何という謎のような世界であろう。何というトンチンカンな家庭であろう。眼で見ていながら信ずる事が出来ない――。<lb />
+　こんなことを考えて歩いているうちに、私はふと自分の懐中が妙にふくらんでいるのに気が付いた。見れば今しがた玄関で若先生が押し込んだ菓子折の束がのぞいている。私はそれを引き出してどこに棄てようかと考えながら頭を上げた。そのはずみに向うからうつむいて来た婦人にブツカリそうになったので私はハッと立ち<seg type="ruby"><seg type="rb">止</seg><seg type="rp">（</seg><seg type="rt">とど</seg><seg type="rp">）</seg></seg>まった。<lb />
 　向うも立ち止まって顔を上げた。<lb />
-　それは二十四、五位に見える色の白い品のいい婦人であった。髪は大きくハイカラに結っていた。黒紋付きに<span type="ruby"><span type="rb">白襟</span><span type="rp">（</span><span type="rt">しろえり</span><span type="rp">）</span></span>をかけていたが芝居に出て来る女のように恰好がよかった。手に何か持っていたようであるがその時はわからなかった。<lb />
+　それは二十四、五位に見える色の白い品のいい婦人であった。髪は大きくハイカラに結っていた。黒紋付きに<seg type="ruby"><seg type="rb">白襟</seg><seg type="rp">（</seg><seg type="rt">しろえり</seg><seg type="rp">）</seg></seg>をかけていたが芝居に出て来る女のように恰好がよかった。手に何か持っていたようであるがその時はわからなかった。<lb />
 　私はその時何の意味もなくお辞儀をしたように思う。その婦人もしとやかにお辞儀をしてすれ違った。その時に淡い芳香が私の顔を撫でて胸の奥までほのめき入った。<lb />
-　私は今一度ふり返って見たくてたまらないのを我慢して真直ぐに歩いたために汗が額にニジミ出た。そうして、やっと<span type="ruby"><span type="rb">笄橋</span><span type="rp">（</span><span type="rt">こうがいばし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">袂</span><span type="rp">（</span><span type="rt">たもと</span><span type="rp">）</span></span>まで来ると、不意に左手の坂から<span type="ruby"><span type="rb">俥</span><span type="rp">（</span><span type="rt">くるま</span><span type="rp">）</span></span>が駆け降りて来て私とすれ違った。私はその拍子にチラリとふり向いた。<lb />
+　私は今一度ふり返って見たくてたまらないのを我慢して真直ぐに歩いたために汗が額にニジミ出た。そうして、やっと<seg type="ruby"><seg type="rb">笄橋</seg><seg type="rp">（</seg><seg type="rt">こうがいばし</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">袂</seg><seg type="rp">（</seg><seg type="rt">たもと</seg><seg type="rp">）</seg></seg>まで来ると、不意に左手の坂から<seg type="ruby"><seg type="rb">俥</seg><seg type="rp">（</seg><seg type="rt">くるま</seg><seg type="rp">）</seg></seg>が駈け降りて来て私とすれ違った。私はその拍子にチラリとふり向いた。<lb />
 　黒い姿が紫色の風呂敷包みを抱えて鶴原家の前の木橋の上に立っていた。白い顔がこっちを向いていた。<lb />
-　私は逃げるように横町に<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>れた。<lb />
+　私は逃げるように横町に<seg type="ruby"><seg type="rb">外</seg><seg type="rp">（</seg><seg type="rt">そ</seg><seg type="rp">）</seg></seg>れた。<lb />
 <lb />
-<span rend="jisage_1" rendition="div" style="margin-left: 1em">
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
 この間は失礼しました。<lb />
 私はあの鼓の魔力にかかって精魂を腐らした結果御覧の通りの無力の人間に成り果てました。しかしその核心には、まだ腐り切っていない或るものが残っていることを君は信じて下さるでしょう。私もそう信じてこの手紙を書きます。<lb />
-二十六日の午後五時キッカリに鶴原家にお<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">いで</span><span type="rp">）</span></span>が願えましょうか。御都合がわるければそれ以後のいつでもよろしいから、きめて下さい。時間はやはりその頃にお願いしたいのです。<lb />
-今度お出での時にはあやかしの鼓がきっと君のものになる見込みが附きました。尚その時に君がまだ御存じのない秘密もおわかりになることと思います。それは矢張り音丸家と鶴原家に古くから重大な関係を持っていることで、君にとっては非常に意外な、<span type="ruby"><span type="rb">且</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>つ不可思議な事実であろうことを信じます。<lb />
-しかし来られる時に誠に失礼ですが御註文申し上げたいことがあります。奇怪に思われるかも知れませんが是非<span type="ruby"><span type="rb">左様</span><span type="rp">（</span><span type="rt">さよう</span><span type="rp">）</span></span>願いたいと思います。<lb />
-二十六日までにまだ十日ばかりありますからその間に君は一切の服装を新調して来て頂きたい。鼓の家元の若先生らしく、そうして出来るだけ立派な外出姿に扮装して来て頂きたい。無論誰にも秘密でです。理由はお<span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">いで</span><span type="rp">）</span></span>になればすぐわかります。東洋銀行の小切手金一千円也を封入致しておきます。鶴原未亡人の名前ですが私の貯金の一部です。私の後を継いで下すった御礼の意味とお祝いの意味を兼ねて誠に軽少ですが差し上げます。尚私たちお互いの身の上は今まで通りとして一切を秘密にして下さい。鶴原家に来られてもです。<lb />
+二十六日の午後五時キッカリに鶴原家にお<seg type="ruby"><seg type="rb">出</seg><seg type="rp">（</seg><seg type="rt">いで</seg><seg type="rp">）</seg></seg>が願えましょうか。御都合がわるければそれ以後のいつでもよろしいから、きめて下さい。時間はやはりその頃にお願いしたいのです。<lb />
+今度お出での時にはあやかしの鼓がきっと君のものになる見込みが附きました。尚その時に君がまだ御存じのない秘密もおわかりになることと思います。それは矢張り音丸家と鶴原家に古くから重大な関係を持っていることで、君にとっては非常に意外な、<seg type="ruby"><seg type="rb">且</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>つ不可思議な事実であろうことを信じます。<lb />
+しかし来られる時に誠に失礼ですが御註文申し上げたいことがあります。奇怪に思われるかも知れませんが是非<seg type="ruby"><seg type="rb">左様</seg><seg type="rp">（</seg><seg type="rt">さよう</seg><seg type="rp">）</seg></seg>願いたいと思います。<lb />
+二十六日までにまだ十日ばかりありますからその間に君は一切の服装を新調して来て頂きたい。鼓の家元の若先生らしく、そうして出来るだけ立派な外出姿に扮装して来て頂きたい。無論誰にも秘密でです。理由はお<seg type="ruby"><seg type="rb">出</seg><seg type="rp">（</seg><seg type="rt">いで</seg><seg type="rp">）</seg></seg>になればすぐわかります。東洋銀行の小切手金一千円也を封入致しておきます。鶴原未亡人の名前ですが私の貯金の一部です。私の後を継いで下すった御礼の意味とお祝いの意味を兼ねて誠に軽少ですが差し上げます。尚私たちお互いの身の上は今まで通りとして一切を秘密にして下さい。鶴原家に来られてもです。<lb />
 あやかしの鼓が百年の間に作って来た悪因縁が、君の手で断ち切れるか切れないかは二十六日の晩にきまるのです。同時に七年間一歩もこの家の外に出なかった僕が解放されるか否かも決定するのです。君の救いの手を待ちます。<lb />
-　　三月十七日</span>
-<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">高林靖二郎</span>
+　　三月十七日<seg rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">高林靖二郎</seg>
 　音丸久弥様<lb />
-</span></p></body>
+</seg>
+<lb />
+　私はこの手紙を細かく引き裂いて自動車の窓から棄てた。ちょうど芝公園を走り抜けて赤羽橋の袂を右へ曲ったところであった。<lb />
+　眼の前の<seg type="ruby"><seg type="rb">硝子</seg><seg type="rp">（</seg><seg type="rt">ガラス</seg><seg type="rp">）</seg></seg>板に私の姿が映ってユラユラと揺れている。<lb />
+　三越の番頭が見立ててくれた青い色の<seg type="ruby"><seg type="rb">袷</seg><seg type="rp">（</seg><seg type="rt">あわせ</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">縫紋</seg><seg type="rp">（</seg><seg type="rt">ぬいもん</seg><seg type="rp">）</seg></seg>、白の博多帯、黄色く光る<seg type="ruby"><seg type="rb">袴</seg><seg type="rp">（</seg><seg type="rt">はかま</seg><seg type="rp">）</seg></seg>、紫がかった羽織、白足袋にフェルト<seg type="ruby"><seg type="rb">草履</seg><seg type="rp">（</seg><seg type="rt">ぞうり</seg><seg type="rp">）</seg></seg>、上品な<seg type="ruby"><seg type="rb">紺羅紗</seg><seg type="rp">（</seg><seg type="rt">こんらしゃ</seg><seg type="rp">）</seg></seg>のマントに同じ色の白リボンの中折れという馬鹿馬鹿しくニヤケた服装が、不思議に似合って神妙な遊芸の若先生に見えた。ふだんなら吹き出したかも知れないがこの時はそれどころではなかった。<lb />
+　私はこの数日間のなやみに<seg type="ruby"><seg type="rb">窶</seg><seg type="rp">（</seg><seg type="rt">やつ</seg><seg type="rp">）</seg></seg>れた頬を両手で押えながら、運転手のうしろの硝子板に顔を近寄せて見た。頭を刈って顔を剃ったばかりなのに年が二つ位<seg type="ruby"><seg type="rb">老</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>けたような気がする。赤かった頬の色もすっかり消え失せているようである。<lb />
+　自動車が鶴原家に着くと若先生……ではない妻木君が、この間の通りの<seg type="ruby"><seg type="rb">紺飛白</seg><seg type="rp">（</seg><seg type="rt">こんがすり</seg><seg type="rp">）</seg></seg>の姿のまま色眼鏡をかけないで出て来て三つ指を突いた。水仕事をしていたらしく真赤になった両手をさし出して、運転手が持って来た私の古着の包みを受け取って横の書生部屋にそっと入れた。それから今一つ<seg type="ruby"><seg type="rb">塩瀬</seg><seg type="rp">（</seg><seg type="rt">しおせ</seg><seg type="rp">）</seg></seg>の菓子折の包みを受け取ると、わざとらしく丁寧に一礼して先に立った。私は詐欺か何かの玉に使われているような気になって磨き上げた廊下をあるいて行った。<lb />
+　奥の座敷は香木の<seg type="ruby"><seg type="rb">香</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>がみちみちてムッとする程あたたかかった。しかし未亡人は居なかったので私は何やら安心したようにホッとして程よい処に坐った。<lb />
+　<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>の様子がまるで違ったように思われたが、あとから考えるとあまり違っていなかった。それは室の真中に吊された電燈の笠の黄色いのが取り<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>けられて華やかな紫色にかわったせいであろう。真中に鉄色のふっくりした座布団が二つ、金蒔絵をした桐の丸胴の火鉢、床の間には白<seg type="ruby"><seg type="rb">孔雀</seg><seg type="rp">（</seg><seg type="rt">くじゃく</seg><seg type="rp">）</seg></seg>の掛け物と大きな白<seg type="ruby"><seg type="rb">牡丹</seg><seg type="rp">（</seg><seg type="rt">ぼたん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">花活</seg><seg type="rp">（</seg><seg type="rt">はない</seg><seg type="rp">）</seg></seg>けがしてあって、丸い青銅の電気ストーブが私の<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>に真赤になっていた。<lb />
+　しずかに妻木君が這入って来て眼くばせ一つせずにお茶を酌んで出した。私も固くなってお辞儀をした。何だか裁判官の出廷を待つ罪人のような気もちになった。<lb />
+　私は妻木君が出てゆくのを待ちかねて違い棚の上に<seg type="ruby"><seg type="rb">露出</seg><seg type="rp">（</seg><seg type="rt">むきだ</seg><seg type="rp">）</seg></seg>しに並んでいる四ツの鼓を見た。何だかそれが今夜私を死刑にする道具のように見えたからである。――「四ツの鼓は世の中に世の中に。恋という事も。<seg type="ruby"><seg type="rb">恨</seg><seg type="rp">（</seg><seg type="rt">うらみ</seg><seg type="rp">）</seg></seg>ということも」――という謡曲の文句を思い出しながら私は気を押し鎮めた。<lb />
+　うしろの<seg type="ruby"><seg type="rb">障子</seg><seg type="rp">（</seg><seg type="rt">しょうじ</seg><seg type="rp">）</seg></seg>が音もなく開いて鶴原未亡人が這入って来た気はいがした。<lb />
+　私はこの間のように眩惑されまいと努力しながら出来るだけしとやかに席を<seg type="ruby"><seg type="rb">辷</seg><seg type="rp">（</seg><seg type="rt">すべ</seg><seg type="rp">）</seg></seg>った。<lb />
+「ま……どうぞ……」と澄み通った気品のある声で会釈しながら、未亡人は私の真向いに来てほの紅い両手の指を揃えた。<lb />
+　私の決心は見る間に崩れた。あおぎ見ることも出来ないで畳にひれ伏しつつ、今までとはまるで違った調子に高まって行く自分の胸の動悸をきいているうちに、この間の<seg type="ruby"><seg type="rb">得</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>もいわれぬ床しい芳香が私の全身に襲いかかって来た。<lb />
+「初めまして……ようこそ……又只今は……御噂はかねて……」<lb />
+　なぞ次から次へきこえる言葉を夢心地できいているうちに、私は気もちがだんだん落ち付いて来るように思った。そうして「まあどうぞ……おつき遊ばして……それではあの……」という言葉をきくと間もなく顔を上げる事が出来た。その時にはじめて鶴原未亡人の姿をまともに見る事が出来た。<lb />
+　<seg type="ruby"><seg type="rb">艶々</seg><seg type="rp">（</seg><seg type="rt">つやつや</seg><seg type="rp">）</seg></seg>した<seg type="ruby"><seg type="rb">丸髷</seg><seg type="rp">（</seg><seg type="rt">まるまげ</seg><seg type="rp">）</seg></seg>。切れ目の長い<seg type="ruby"><seg type="rb">一重</seg><seg type="rp">（</seg><seg type="rt">ひとえ</seg><seg type="rp">）</seg></seg>まぶた。ほんのりした肉づきのいい頬。丸い<seg type="ruby"><seg type="rb">腮</seg><seg type="rp">（</seg><seg type="rt">あご</seg><seg type="rp">）</seg></seg>から恰好のいい首すじへかけて透きとおるように白い……それが水色の着物に同じ色の羽織を着て黒い帯を締めて魂のない人形のように美しく気高く見えた。<lb />
+　私はこの間からあこがれていた姿とはまるで違った感じに打たれて暫くの間ボンヤリしていた。ハテナ。自分は何の用でこの婦人に会いに来たのか知らんとさえ思った。<lb />
+　その時未亡人は前の言葉の続きらしく静かに云った。<lb />
+「それで私は甥を叱ったので御座います。なぜおかえし申したかって申しましてね……若先生が音丸家の御血統で、あの鼓を御覧になりたいとおっしゃったならばこんないい<seg type="ruby"><seg type="rb">機会</seg><seg type="rp">（</seg><seg type="rt">おり</seg><seg type="rp">）</seg></seg>は……」<lb />
+　さては私はまだ鼓を見ないことになっているのだな……と思って未亡人の顔を見た。けれどもその長い眉と黒く澄んだ眼の気品に打たれて又伏し眼になった。<lb />
+「……なぜお眼にかけなかったのか。こんないい幸いなことはないではありませんか。この<seg type="ruby"><seg type="rb">年月</seg><seg type="rp">（</seg><seg type="rt">としつき</seg><seg type="rp">）</seg></seg>二人で打っていながら一度もそのシンミリとその呪いの音をきいた事がないではありませんか。あの鼓を打ってホントの音色をお出しになるほどのお方ならば私はいつでもあの鼓をお譲りしますと……」<lb />
+　私は又顔を上げないわけに行かなかった。すると今度は未亡人の方が淋しい恰好で伏眼になっている。<lb />
+「……そう申しますと甥が申しますには、それなら今からお手紙を差し上げよう。いま一度お運びをお願いしようと申します。そんなぶしつけなことをと申しますと、それはきっとお出で下さるにちがいない。まだあの鼓をお打ちにならないからだと申します……オホ……ほんとに失礼なことばかり……」<lb />
+　未亡人は赤面して私の顔を見た。私もその時急に耳まで<seg type="ruby"><seg type="rb">火照</seg><seg type="rp">（</seg><seg type="rt">ほて</seg><seg type="rp">）</seg></seg>って来るのを感じつつ苦笑した――モナカの事件も存じております――と云われそうな気がして……。<lb />
+「けれども私もすこし考えが御座いましたので、甥に筆を<seg type="ruby"><seg type="rb">執</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>らせましてあのような手紙を差し上げさせましたので……まことに<seg type="ruby"><seg type="rb">申訳</seg><seg type="rp">（</seg><seg type="rt">もうしわけ</seg><seg type="rp">）</seg></seg>……」と未亡人は頭を下げた。<lb />
+「どう致しまして……」<lb />
+　と私もやっとの思いで初めて口を利くと慌てて袂からハンカチを出して顔を拭いた。途端に頭の上の電燈が眩しく紫色に<seg type="ruby"><seg type="rb">灯</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>もった。<lb />
+「何か御用で……」と妻木が顔を出した。未亡人はいつの間にか<seg type="ruby"><seg type="rb">呼鈴</seg><seg type="rp">（</seg><seg type="rt">ベル</seg><seg type="rp">）</seg></seg>を押したらしい。<lb />
+「お前用事が済んだのかえ」と云いつつ未亡人はジロリと妻木君を見据えたが、その一瞬間に未亡人の眼が、冷たいというよりも<seg type="ruby"><seg type="rb">寧</seg><seg type="rp">（</seg><seg type="rt">むし</seg><seg type="rp">）</seg></seg>ろ残忍な光りを帯びたのを私はありありと見た。私の神経は急に緊張した。嘗てきいていた「美人の凄さ」が一時に私の眼に閃めき込んだからである。そうして同時にその「美しい凄さ」にさながら奴隷のように支配されている妻木君――若先生の姿がこの上なくミジメに瘠せて見えたからである。<lb />
+「ハイ。すっかり……」と妻木君は女のように、しとやかに三つ指を<seg type="ruby"><seg type="rb">支</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いた。<lb />
+「……じゃこちらへお這入り。失礼して……あとを締めて……それから、その鼓を四ツともここへ……」<lb />
+　その言葉の通りに妻木君は影のように動いて四ツの鼓を未亡人と私の間に並べ終ると、その<seg type="ruby"><seg type="rb">傍</seg><seg type="rp">（</seg><seg type="rt">かたえ</seg><seg type="rp">）</seg></seg>にすこし離れてかしこまった。<lb />
+　未亡人は無言のまま四ツの鼓を一渡り見まわしたが、やがてその中の一つにジッと眼を注いだ――と思うとその頬の色は見る見る白く血の気が失せて、唇の色までなくなったように見えた。<lb />
+　私たち二人も<seg type="ruby"><seg type="rb">固唾</seg><seg type="rp">（</seg><seg type="rt">かたず</seg><seg type="rp">）</seg></seg>を呑んで眼を<seg type="ruby"><seg type="rb">瞠</seg><seg type="rp">（</seg><seg type="rt">みは</seg><seg type="rp">）</seg></seg>った。<lb />
+　いい知れぬ鬼気がウッスリと<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>に満ちた。<lb />
+　突然かすかな戦慄が未亡人の肩を伝わったと思うと、未亡人はいつの間にか手にしていた絹のハンカチで眼を押えた。<lb />
+　私はハッとした。妻木君も驚いたらしい<seg type="ruby"><seg type="rb">瞬</seg><seg type="rp">（</seg><seg type="rt">まばた</seg><seg type="rp">）</seg></seg>きを三ツ四ツした。そのまま未亡人は二分か三分の間ヒソヒソと<seg type="ruby"><seg type="rb">咽</seg><seg type="rp">（</seg><seg type="rt">むせ</seg><seg type="rp">）</seg></seg>び泣いたが、やがてハンカチの下から乱れた眉と<seg type="ruby"><seg type="rb">睫</seg><seg type="rp">（</seg><seg type="rt">まつげ</seg><seg type="rp">）</seg></seg>を見せた。それから小さな咳を一つすると<seg type="ruby"><seg type="rb">繊細</seg><seg type="rp">（</seg><seg type="rt">かぼそ</seg><seg type="rp">）</seg></seg>い……けれども<seg type="ruby"><seg type="rb">厳</seg><seg type="rp">（</seg><seg type="rt">おごそ</seg><seg type="rp">）</seg></seg>かな口調で云った。<lb />
+「わたくしはこんな時機の来るのを待っておりました。こうして私とこの鼓との間に結ばれました因縁を断ち切って頂こうと思ったので御座います」<lb />
+「因縁……」と私は思わず口走った。<lb />
+「それはどういう……」<lb />
+「それは私が私の身の上に<seg type="ruby"><seg type="rb">就</seg><seg type="rp">（</seg><seg type="rt">つい</seg><seg type="rp">）</seg></seg>て一口申し上ぐれば、おわかりになるので御座います」<lb />
+「あなたの……」<lb />
+「ハイ……しかし只今は、わざとそれを申し上げません。押しつけがましゅう御座いますけれども、それは私の<seg type="ruby"><seg type="rb">生命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>にも換えられませぬお恥かしい秘密で御座いますから、この四ツの鼓の中から『あやかしの鼓』をお<seg type="ruby"><seg type="rb">選</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>り出し下すって、物語りに伝わっております通りの音色をお出し下さるのを承わった上で御座いませぬと……まことに相済みませぬが、只今それをお願い申し上げたいので御座いますが……」<lb />
+　未亡人の言葉の中には婦人でなければ持ち得ぬ根強い……けれども柔らかい力が籠っていた。三人の間には更に緊張した深い静けさが流れた。<lb />
+　不意に或る眼に見えぬ力に打たれたように<seg type="ruby"><seg type="rb">恭</seg><seg type="rp">（</seg><seg type="rt">うやうや</seg><seg type="rp">）</seg></seg>しく一礼しながら私はスラリと座布団を辷り降りて羽織を脱いだ。そうしてイキナリ眼の前の桜の蒔絵の鼓に手をかけると、ハッと驚いて唇をふるわしている未亡人を尻目にかけた。そうして武士が白刃の立ち合いをする気持ちで引き寄せて身構えた。<lb />
+「あやかしの鼓」の皮は、しめやかな春の<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>の気はいと、<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>に充ち満ちた暖かさのために処女の肌のように<seg type="ruby"><seg type="rb">和</seg><seg type="rp">（</seg><seg type="rt">やわ</seg><seg type="rp">）</seg></seg>らいでいるのを指が触わると同時に感じた。その表皮と裏皮に、さらに心を籠めた息を吐きかけると、やおら肩に当てて打ち出した。……これを最後の精神をひそめて……。<lb />
+　初めは低く暗い余韻のない――お寺の森の<seg type="ruby"><seg type="rb">暗</seg><seg type="rp">（</seg><seg type="rt">やみ</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">啼</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>く<seg type="ruby"><seg type="rb">梟</seg><seg type="rp">（</seg><seg type="rt">ふくろう</seg><seg type="rp">）</seg></seg>の声に似た音色が出た。喜びも悲しみもない……只淋しく低く……ポ……ポ……と。<lb />
+　けれども打ち続いて出るその音が私の手の指になずんでシンミリとなるにつれて、私は眼を伏せ息を詰めてその音色の奥底に含まれている、或るものをきくべく一心に耳を澄ました。<lb />
+　ポ……ポ……という音の底にどことなく聞こゆる余韻……。<lb />
+　私は<seg type="ruby"><seg type="rb">身体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>中の毛穴が<seg type="ruby"><seg type="rb">自然</seg><seg type="rp">（</seg><seg type="rt">おのず</seg><seg type="rp">）</seg></seg>と引き<seg type="ruby"><seg type="rb">緊</seg><seg type="rp">（</seg><seg type="rt">し</seg><seg type="rp">）</seg></seg>まるように感じた。<lb />
+　私の先祖の<seg type="ruby"><seg type="rb">音丸久能</seg><seg type="rp">（</seg><seg type="rt">おとまるくのう</seg><seg type="rp">）</seg></seg>は如何にも鼓作りの名人であった。けれどもこの鼓を作り上げた時に自分が思っている以外の気もちがまじっているのに心づかなかった。<lb />
+　久能は云った。――私は恋にやぶれて生きた死骸になった心持ちだけをこの鼓に籠めた。私の淋しい<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">から</seg><seg type="rp">）</seg></seg>になった心持ちだけをこの鼓の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>にあらわした。<seg type="ruby"><seg type="rb">怨</seg><seg type="rp">（</seg><seg type="rt">うら</seg><seg type="rp">）</seg></seg>む心なぞは<seg type="ruby"><seg type="rb">微塵</seg><seg type="rp">（</seg><seg type="rt">みじん</seg><seg type="rp">）</seg></seg>もなかった――と……。<lb />
+　しかしそれはあやまっていた。<lb />
+　久能が自分の気持ちソックリに作ったというこの鼓の死んだような音色……その力なさ……陰気さの底には永劫に消えることのない怨みの響きが残っている。人間の力では打ち消す事の出来ない悲しい執念の<seg type="ruby"><seg type="rb">情調</seg><seg type="rp">（</seg><seg type="rt">こころ</seg><seg type="rp">）</seg></seg>がこもっている。それは恐らく久能自身にも心付かなかったであろう。<seg type="ruby"><seg type="rb">無間</seg><seg type="rp">（</seg><seg type="rt">むげん</seg><seg type="rp">）</seg></seg>地獄の底に堕ちながら死のうとして死に得ぬ魂魄のなげき……八万奈落の涯をさまよいつつ浮ぼうとして浮び得ぬ幽鬼の声……これが恋に破れたものの呪いの声でなくて何であろう。久能の無念の響きでなくて何であろう。<lb />
+　百年前の、ある月の、ある日、綾姫はこの鼓を打って、この音をきいた。そうして眼にも見えず耳にも止まり<seg type="ruby"><seg type="rb">難</seg><seg type="rp">（</seg><seg type="rt">にく</seg><seg type="rp">）</seg></seg>い久能の心の奥の奥の呪いが、云い知れぬ深い怨みをこめてシミジミ自分の心に伝わって来るのを只独り感じたのであろう。死ぬよりほかにこの呪いから逃れるすべがない事をくり返しくり返し思い知らせられたであろう。<lb />
+　……そうして百年後の今日只今……<lb />
+　……私の額から冷たい汗が流れ初めた。室中の暖か味が少しも身体に感じなくなった。背中がゾクゾクして来ると共に肩から手足の力が抜けて鼓を取り落しそうになった。眼の前が青白く真暗くなりそうになって力なく鼓を膝の上におろした。わななく手でハンケチを掴んで額の汗を拭いた。<lb />
+　妻木君が慌てて羽織を着せた。鶴原未亡人は立ち上って袋戸棚から洋酒の小瓶を取り出して来てふるえる手で私に小さなグラスを持たした。そうして私に火のような酒を一杯グッと飲み干させると今一杯すすめた。<lb />
+　私は手を振りながらフーッと燃えるような息を<seg type="ruby"><seg type="rb">吐</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いた。<lb />
+「大丈夫で御座いますか……御気分は……」<lb />
+　と未亡人は私の顔をのぞいた。妻木も私の顔を心配そうに見ている。私は微笑して肩を大きくゆすりながら羽織の<seg type="ruby"><seg type="rb">紐</seg><seg type="rp">（</seg><seg type="rt">ひも</seg><seg type="rp">）</seg></seg>をかけた。飲み慣れぬアルコール分のおかげで血のめぐりがズンズンよくなるのを感じながら……。<lb />
+「まあ……ほんとに雪のように真白におなり遊ばして……今はもうよほど何ですけれど……」<lb />
+　と未亡人は<seg type="ruby"><seg type="rb">魘</seg><seg type="rp">（</seg><seg type="rt">おび</seg><seg type="rp">）</seg></seg>えた声で云った。妻木君はホッとため息をした。<lb />
+「けれどもまあ……何というかわった音色で御座いましょう。そうして又何というお手の冴えよう……私は髪の毛を引き締められるようにゾッと致しましたよ……」<lb />
+　と感激にふるえるような声で云いつつ未亡人は立ち上って洋酒の瓶を仕舞うと又座に帰ったが、やがてふと思い出したように黒い眼で私の顔をジッと見ると、両手を畳に支えて身を退けながらひれ伏した。<lb />
+「まことに有り難う存じました。私はおかげ様で生れて初めてこの鼓の音色を本当にうかがうことが出来ました。あなた様は<seg type="ruby"><seg type="rb">正</seg><seg type="rp">（</seg><seg type="rt">まさ</seg><seg type="rp">）</seg></seg>しく名人のお血すじをお<seg type="ruby"><seg type="rb">享</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>け遊ばしたお方に違い御座いません。この上は私も包まずに申し上げます。私こそ……」<lb />
+　と云いさして未亡人は両手の間に頭を一層深く下げた。<lb />
+「私こそ……今大路の……綾姫の血すじを……受けましたもので御座います」<lb />
+「アッ」<lb />
+　と私は思わず声を立てて妻木君をかえり見た。しかし妻木君は知っているのかいないのかジッと未亡人の水々しい丸髷を見下したまま身じろぎ一つしなかった。未亡人は両手の間に顔を埋めたまま言葉を続けた。<lb />
+「申すもお恥かしい事ばかりで御座いますが、今大路家は御維新後零落致しまして一粒種の私は大阪へある<seg type="ruby"><seg type="rb">賤</seg><seg type="rp">（</seg><seg type="rt">いや</seg><seg type="rp">）</seg></seg>しい稼業に売られようと致しましたのを、こちらの主人に救われましたので御座います。申すまでもなくこの家にこの鼓が……」<lb />
+　とやおら顔を上げて鼓から二人の顔へ眼を移した。曇った顔をして曇った声で云った。<lb />
+「……この家にこの鼓が御座いますことは、とっくに承わっておりましたが、その鼓に呪われてこのような淋しい身の上になりまして……その上にこのような不思議な……御縁になりましょうとは……」<lb />
+「わかりました」と私は自分の感情に堪え得ないで、それを打ち切るように云った。<lb />
+「よくわかりました。サ。お顔をお上げ下さい。つまるところこの三人はこの鼓に呪われたものなのです。呪われてここに集まったものなのです。けれども今日限りその因縁はなくなります。もしあなたがお許し下されば、私はこの鼓を打ち砕いて私たちの先祖の罪と呪いをこの世から消し去ります。そうしてあんな陰気臭い伝説にまつわられない明るい自由な世界に出ようではありませんか」<lb />
+「ま嬉しい」<lb />
+　と未亡人は涙に濡れた顔を上げて不意に私の手を執って握り締めた。その瞬間私の全身の血は今までとはまるで違っためぐり方をし初めた。未亡人は両手に云い知れぬ力を籠めて云った。<lb />
+「マア何というお勇ましいお言葉でしょう。そのお言葉こそ私がお待ちしていたお言葉です。それで私はきょうこの鼓と別れるお祝いにつまらないものを差し上げたいと思いまして……」<lb />
+「アッ……それは……」と私は腰を浮かした。しかし未亡人の手はしっかりと引き止めた。<lb />
+「いいえ……いけません……」<lb />
+「でもそれは又別に……」<lb />
+「いいえ……今日只今でなければその時は御座いません……サ……お前早くあれを……」<lb />
+　と妻木君をかえり見た。<lb />
+　妻木君は追い立てられるように室を出た。<lb />
+　あとを見送った未亡人はやっと私の手を離してニッコリした。<lb />
+　私は最前の洋酒の酔いがズンズンまわって来るのを感じながら両手で頬と眼を押えた。<lb />
+<lb />
+　頭が痛い……と思いながら私は眼を閉じて夜具を頭から引き冠った。すると今まで着た事のない絹夜具の肌ざわりを感ずると共に、<seg type="ruby"><seg type="rb">得</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>ならぬ芳香がフワリと鼻を<seg type="ruby"><seg type="rb">撲</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>ったのがわかった。<lb />
+　私は全く眼が<seg type="ruby"><seg type="rb">醒</seg><seg type="rp">（</seg><seg type="rt">さ</seg><seg type="rp">）</seg></seg>めた。けれども起き上る前にシクシクと痛む頭の中から無理に記憶を呼び起していた――さっきあれからどうしたか――。<lb />
+　眼の前に御馳走の幻影が浮んだ。それは皆珍らしいものばかりで贅沢を極めたものであった。そのお膳や椀には桐の御紋が附いていた。<lb />
+　その次には晴れやかな鶴原未亡人の笑顔がまぼろしとなって現われた。<lb />
+「あやかしの鼓とお別れのお祝いですから」<lb />
+　というので無理に盃をすすめられたことを思い出した。<lb />
+「もうお一つ……」<lb />
+　とニッコリ白い歯を見せた未亡人の眼に含まれた<seg type="ruby"><seg type="rb">媚</seg><seg type="rp">（</seg><seg type="rt">こび</seg><seg type="rp">）</seg></seg>……それをどうしても飲まぬと云い張った時、飲まされた「酔いざまし」の水薬の冷たくてお<seg type="ruby"><seg type="rb">美味</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>しかったこと……。<lb />
+　それから先の私の記憶は全く消え失せている。只あおむけに寝ながらジッと見詰めていた電燈の炭素線のうねりが不思議にはっきりと眼に残っている。<lb />
+　私は酔いたおれて鶴原家に寝ているのだ。<lb />
+「<seg type="ruby"><seg type="rb">失策</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>った」と私は眼を開いて夜具の襟から顔を出した。<lb />
+　さっきの未亡人の<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>に違いない。只電燈に桃色のカバーがかかっているだけが最前と違う。耳を澄ますとあたりは<seg type="ruby"><seg type="rb">森閑</seg><seg type="rp">（</seg><seg type="rt">しんかん</seg><seg type="rp">）</seg></seg>として物音一つない。<lb />
+「ホホホホホホホホホ」<lb />
+　と不意に枕元で女の笑い声がした。私は驚いて起きようとしたが、その瞬間に白い手が二本サッと出て来て夜着の上からソッと押え附けた。同時にホンノリと赤い鶴原未亡人の顔が上からのぞいてニッタリと笑った。溶けそうな媚を含んだ眼で私を見据えながら、<seg type="ruby"><seg type="rb">仄</seg><seg type="rp">（</seg><seg type="rt">ほの</seg><seg type="rp">）</seg></seg>かに酒臭い息を吐いて云った。<lb />
+「駄目よ。もう遅いわよ……諦らめて寝ていらっしゃいオホホホホホホホ」<lb />
+　<seg type="ruby"><seg type="rb">錐</seg><seg type="rp">（</seg><seg type="rt">きり</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">揉</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>むような痛みを感じて私は又頭を枕に落ち付けた。そうして何事も考えられぬ苦しさのため息をホッと<seg type="ruby"><seg type="rb">吐</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>いた。<lb />
+　コトリコトリと音がする。私の枕元で未亡人が何か飲んでいるらしく、やがて小さなオクビが聞えた。同時に滑らかな声がし初めた。<lb />
+「とうとうあなたは引っかかったのね。オホホホホ……ほんとに可愛い坊ちゃん。あたしすっかり惚れちゃったのよ。オホホホホ」<lb />
+　私は頭の痛いのを忘れてガバとはね起きた。見れば私は新しい更紗模様の長<seg type="ruby"><seg type="rb">繻絆</seg><seg type="rp">（</seg><seg type="rt">じゅばん</seg><seg type="rp">）</seg></seg>一つになってビッショリと汗をかいている。<lb />
+　未亡人も友禅模様の長繻絆をしどけなく着て私の枕元に横坐りをしている。前には銀色の大きなお盆の上に、何やら洋酒を二、三本並べて薄いガラスのコップで飲んでいたが、私が起きたのを見ると酔いしれた眼で<seg type="ruby"><seg type="rb">秋波</seg><seg type="rp">（</seg><seg type="rt">しゅうは</seg><seg type="rp">）</seg></seg>を送りながら<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">から</seg><seg type="rp">）</seg></seg>のグラスをさしつけた。私は払い<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>けた。<lb />
+「オホ……いけないこと？　弱虫ねあなたは、オホホホ……でもこうなっちゃ駄目よ。どんなにあなたがもがいても云い訳は立たないから。あなたは私と一緒に東京を逃げ出して、どこか遠方へ行って所帯を持つよりほかないわよ……今から……すぐに」<lb />
+「エッ……」<lb />
+「オホホホホ」と未亡人は一層高い調子で止め度なく高笑いをした。私はクラクラと眼が<seg type="ruby"><seg type="rb">眩</seg><seg type="rp">（</seg><seg type="rt">くら</seg><seg type="rp">）</seg></seg>みそうになって枕の上に突伏した。<lb />
+「あのね……」<lb />
+　と未亡人はやっと笑い止んだ。その声はなめらかに落ち付いていた。私の枕元に坐り直したらしい。<lb />
+「音丸さん。よく気を落ちつけて、まじめにきいて頂戴よ。あなたと私の<seg type="ruby"><seg type="rb">生命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>にかかわることなんですから。よござんすか……。あたしね。この間往来でお眼にかかった時にすぐにあなただということがわかったのです。だって若先生の戒名をあなたが落したのを拾ったんですもの。それから妻木を問い訊してあなたと御一緒にお菓子をいただいたあと、それを隠そうとしたことを白状させました。そうしてそれと一緒にあなたのお望みのお話も妻木からきいたんです。ですからあの手紙を書かせたんです。そうしてその時にもう今夜の事を覚悟していました。よござんすか」<lb />
+「覚悟とは……」<lb />
+　と私は突然に起き直って問うた。けれども未亡人の燃え立つような美しさと、その眼に籠めた情火に打たれて意気地なくうなだれた。<lb />
+「覚悟ったって何でもないんです。私は妻木に飽きちゃったんです。血の気のない影法師みたいな男がイヤになったんです。あんな死人みたいな男はあたし大嫌いなんです……」<lb />
+　と云ううちに未亡人は一番大きなコップに並々と金茶色の酒を<seg type="ruby"><seg type="rb">注</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>ぐと半分ばかり一息に呑み干した。それから真赤な唇をチョッと<seg type="ruby"><seg type="rb">嘗</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>めて言葉をつづけた。<lb />
+「だけどあなたは無垢な生き生きした坊ちゃんでした。だから<seg type="ruby"><seg type="rb">妾</seg><seg type="rp">（</seg><seg type="rt">わたし</seg><seg type="rp">）</seg></seg>は好きになっちゃったんです。あたしは、あたしの云う通りになる男に飽きたんです。あの鼓の音にそそられて、そんな男をオモチャにするのに飽きていたんです。私の顔ばかり見ないで気もちを見てくれる人を探していたんです。その時にあなたに会ったんです。私は前の主人の墓参りの帰りにあなたにお眼にかかったのを何かの因縁だと思うのよ。私はもうあなたの純な愛をたよりに生きるよりほかに道がなくなったのよ」<lb />
+　と云いつつ未亡人は両手をあげて心持ち<seg type="ruby"><seg type="rb">歪</seg><seg type="rp">（</seg><seg type="rt">ゆが</seg><seg type="rp">）</seg></seg>んだ丸髷を直し初めた。私は人に捕えられた<seg type="ruby"><seg type="rb">蜘蛛</seg><seg type="rp">（</seg><seg type="rt">くも</seg><seg type="rp">）</seg></seg>のように身を縮めた。<lb />
+「ですから私は今日までのうちにすっかり財産を始末して、現金に換えられるだけ換えて押し入れの<seg type="ruby"><seg type="rb">革鞄</seg><seg type="rp">（</seg><seg type="rt">カバン</seg><seg type="rp">）</seg></seg>に入れてしまいました。みんなあなたに上げるのです。<seg type="ruby"><seg type="rb">明日</seg><seg type="rp">（</seg><seg type="rt">あした</seg><seg type="rp">）</seg></seg>死に別れるかも知れないのを覚悟してですよ。そんなにまで私の気持ちは純になっているのですよ……只あの『あやかしの鼓』だけは置いて行きます……可哀そうな妻木敏郎のオモチャに……敏郎はあれを私と思って抱き締めながら行きたいところへ行くでしょう」<lb />
+　私は両手を顔に当てた。<lb />
+「もう追つけ三時です。四時には自動車が来る筈です。敏郎は夜中過ぎからグッスリ睡りますからなかなか眼を醒ましますまい」<lb />
+　私は両手を顔に当てたまま頭を強く左右に振った。<lb />
+「アラ……アラ……あなたはまだ覚悟がきまっていないこと……」<lb />
+　と云ううちに未亡人の声は怒りを帯びて乱れて来た。<lb />
+「駄目よ音丸さん。お前さんはまだ私に降参しないのね。私がどんな女だか知らないんですね……よござんす」<lb />
+　と云ううちに未亡人が立ち上った気はいがした。ハッと思って顔を上げると、すぐ眼の前に今までに見たことのない怖ろしいものが迫り近付いていた。……しどけない長繻絆の裾と、解けかかった<seg type="ruby"><seg type="rb">伊達巻</seg><seg type="rp">（</seg><seg type="rt">だてまき</seg><seg type="rp">）</seg></seg>と、それからしなやかにわなないている黒い革の鞭と……私は驚いてうしろ手を突いたまま石のように固くなった。<lb />
+　未亡人はほつれかかる<seg type="ruby"><seg type="rb">鬢</seg><seg type="rp">（</seg><seg type="rt">びん</seg><seg type="rp">）</seg></seg>の毛を白い指で掻き上げながら唇を噛んで私をキッと見下した。そのこの世ならぬ美しさ……烈しい異様な情熱を籠めた眼の光りのもの凄さ……私は<seg type="ruby"><seg type="rb">瞬</seg><seg type="rp">（</seg><seg type="rt">まばたき</seg><seg type="rp">）</seg></seg>一つせずその顔を見上げた。<lb />
+　未亡人は一句一句、奥歯で噛み切るように云った。<lb />
+「覚悟をしてお聞きなさい。よござんすか。私の前の主人は私のまごころを受け入れなかったからこの鞭で責め殺してやったんですよ。今の妻木もそうです。この鞭のおかげで、あんなに生きた死骸みたように<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">おと</seg><seg type="rp">）</seg></seg>なしくなったんです。その上にあなたはどうです。この『あやかしの鼓』を作って私の先祖の綾姫を呪い殺した久能の子孫ではありませんか。あなたはその罪ほろぼしの意味からでも私を満足さしてくれなければならないではありませんか。この鼓を見にここへ来たのは取り返しのつかない運命の力だとお思いなさい。よござんすか。それとも嫌だと云いますか。この鞭で私の力を……その運命の罰を思い知りたいですか」<lb />
+　私の呼吸は次第に荒くなった。<seg type="ruby"><seg type="rb">正</seg><seg type="rp">（</seg><seg type="rt">まさ</seg><seg type="rp">）</seg></seg>しく綾姫の霊に乗り移られた鶴原未亡人の姿を仰いでひたすらに<seg type="ruby"><seg type="rb">喘</seg><seg type="rp">（</seg><seg type="rt">あえ</seg><seg type="rp">）</seg></seg>ぎに喘いだ。百年前の先祖の作った罪の報いの恐ろしさをヒシヒシと感じながら……。<lb />
+「サ……しょうちしますか……しませんか」<lb />
+　と云い切って未亡人は切れるように唇を噛んだ。燐火のような青白さがその顔に<seg type="ruby"><seg type="rb">颯</seg><seg type="rp">（</seg><seg type="rt">さっ</seg><seg type="rp">）</seg></seg>と閃めくと、しなやかな手に持たれたしなやかな黒い鞭がわなわなと波打った。<lb />
+「ああ……わたくしが悪う御座いました」<lb />
+　と云いながら私は又両手を顔に当てた。<lb />
+　……バタリ……と馬の鞭が畳の上に落ちた。<lb />
+　ガチャリと<seg type="ruby"><seg type="rb">硝子</seg><seg type="rp">（</seg><seg type="rt">ガラス</seg><seg type="rp">）</seg></seg>の壊れる音がして不意に冷たい手が私の両手を払い<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>けた……と思う間もなく眼を閉じた私の顔の上に烈しい接吻が乱れ落ちた。酒臭い呼吸。女の<seg type="ruby"><seg type="rb">香</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>、お<seg type="ruby"><seg type="rb">白粉</seg><seg type="rp">（</seg><seg type="rt">おしろい</seg><seg type="rp">）</seg></seg>の香、髪の香、香水の香――そのようなものが死ぬ程せつなく私に襲いかかった。<lb />
+「許して……許して……下さい」<lb />
+　と私は身を悶えて立ち上ろうとした。<lb />
+「奥さん……奥さん奥さん」<lb />
+　と云う妻木君の声が廊下の向うからきこえた。同時にボーッと燃え上る<seg type="ruby"><seg type="rb">火影</seg><seg type="rp">（</seg><seg type="rt">ほかげ</seg><seg type="rp">）</seg></seg>が二人でふり返って見ている障子にゆらめいて又消えた。<lb />
+「火事……ですよ」という悲しそうな妻木君の声が何やらバタバタという音と一緒にきこえた。<lb />
+　未亡人はハッとしたらしく、立ち上って夜具の上を渡って障子をサラリと開いた。同時に廊下のくらがりの中に白い浴衣がけで髪をふり乱した妻木君が現われて未亡人の前に立ち<seg type="ruby"><seg type="rb">塞</seg><seg type="rp">（</seg><seg type="rt">ふさ</seg><seg type="rp">）</seg></seg>がった。<lb />
+「アッ」と未亡人は叫んだ。両手で左の胸を押えて<seg type="ruby"><seg type="rb">空</seg><seg type="rp">（</seg><seg type="rt">くう</seg><seg type="rp">）</seg></seg>に身を<seg type="ruby"><seg type="rb">反</seg><seg type="rp">（</seg><seg type="rt">そ</seg><seg type="rp">）</seg></seg>らすとよろよろと夜具の上を逃げて来たが、私の眼の前にバッタリとうつ向けに倒れて苦しそうに身を縮めた。私は廊下に突立っている妻木君の姿と、たおれている未亡人の姿を何の意味もなく見比べながら坐っていた。<lb />
+　妻木君はつかつかと這入って来て未亡人の枕元に立った。手に冷たく光る細身の懐剣を持って妙にニコニコしながら私の顔を見下した。<lb />
+「驚いたろう。しかしあぶないところだった。もすこしで<seg type="ruby"><seg type="rb">此女</seg><seg type="rp">（</seg><seg type="rt">こいつ</seg><seg type="rp">）</seg></seg>の変態性慾の犠牲になるところだった。こいつは鶴原子爵を殺し、僕を殺して、今度は君に手をかけようとしたのだ。これを見たまえ」<lb />
+　と妻木君は左の片肌を脱いで痩せた横腹を電燈の方へ向けた。その<seg type="ruby"><seg type="rb">肋骨</seg><seg type="rp">（</seg><seg type="rt">あばら</seg><seg type="rp">）</seg></seg>から背中へかけて痛々しい鞭の<seg type="ruby"><seg type="rb">瘢痕</seg><seg type="rp">（</seg><seg type="rt">あと</seg><seg type="rp">）</seg></seg>が薄赤く又薄黒く引き散らされていた。<lb />
+「おれはこれに甘んじたんだ」と妻木君は肌を入れながら悠々と云った。「この女に溺れてしまって<seg type="ruby"><seg type="rb">斯様</seg><seg type="rp">（</seg><seg type="rt">こん</seg><seg type="rp">）</seg></seg>な眼に会わされるのが気持よく感ずる迄に堕落してしまったんだ。けれども<seg type="ruby"><seg type="rb">此女</seg><seg type="rp">（</seg><seg type="rt">こいつ</seg><seg type="rp">）</seg></seg>はそれで満足出来なくなった。今度はおれを失恋させておいて、そいつを見ながら楽しむつもりでお前を引っぱり込んだ。おれが起きているのを承知で<seg type="ruby"><seg type="rb">巫山戯</seg><seg type="rp">（</seg><seg type="rt">ふざけ</seg><seg type="rp">）</seg></seg>て見せた。……けれどもおれが<seg type="ruby"><seg type="rb">此女</seg><seg type="rp">（</seg><seg type="rt">こいつ</seg><seg type="rp">）</seg></seg>を殺したのは嫉妬じゃない。もうお前がいけないと思ったからこの力が出たんだ。お前を助けるためだったんだ」<lb />
+「僕を助ける？」と私は夢のようにつぶやいた。<lb />
+「しっかりしておくれ。おれはお前の兄なんだよ。六ツの年に高林家へ売られた久禄だよ」<lb />
+　と云ううちにその青白い顔が涙をポトポト落しながら私の鼻の先に迫って来た。痩せた両手を私の肩にかけると強くゆすぶった。<lb />
+　私はその顔をつくづくと見た。……その近眼らしい痩せこけた顔付きの下から、死んだおやじの顔がありありと浮き上って来るように思った。兄――兄――若先生――妻木君――と私は考えて見た。けれども別に何の感じも起らなかった。すべてが活動写真を見ているようで……。<lb />
+　その兄は浴衣の袖で涙を拭いて淋しく笑った。<lb />
+「ハハハハハ、あとで思い出して笑っちゃいけないよ久弥……おれははじめて真人間に帰ったんだ。今日はじめて『あやかしの鼓』の呪いから醒めたんだ」<lb />
+　兄の眼から又新しい涙が湧いた。<lb />
+「お前はもうじきに自動車が来るからそれに乗って九段へ帰ってくれ。その時にあの押し入れの中にある鞄を持って行くんだよ。あれはこの<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の全財産でお前が今しがた<seg type="ruby"><seg type="rb">此女</seg><seg type="rp">（</seg><seg type="rt">こいつ</seg><seg type="rp">）</seg></seg>から貰ったものだ。あとは引き受ける。決してお前の罪にはしないから。只老先生へだけこの事を話してくれ。そうしておれたちのあとを……<seg type="ruby"><seg type="rb">弔</seg><seg type="rp">（</seg><seg type="rt">とむら</seg><seg type="rp">）</seg></seg>って……」<lb />
+　兄はドッカとうしろにあぐらをかいた。浴衣の両袖で顔を蔽うてさめざめと泣いた。私はやはり茫然として眼の前に落ちた革の鞭と短刀とを見ていた。<lb />
+　そのうちに未亡人の<seg type="ruby"><seg type="rb">身体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>が眼に見えてブルブルと震え始めた。<lb />
+「ウ――ムムム」<lb />
+　という低い細い声がきこえると、未亡人が青白い顔を挙げながら私と兄の顔を血走った眼で見まわした。私は何故ともなくジリジリと蒲団から辷り降りた。未亡人の白い唇がワナワナとふるえ始めた。<lb />
+「す……み……ませ……ん」<lb />
+　とすきとおるような声で云いながら、枕元にある銀の<seg type="ruby"><seg type="rb">水注</seg><seg type="rp">（</seg><seg type="rt">みずさ</seg><seg type="rp">）</seg></seg>しの方へ力なく手を伸ばした。私は思わず手を添えて持ち上げてやったが、未亡人の白い指からその銀瓶の<seg type="ruby"><seg type="rb">把手</seg><seg type="rp">（</seg><seg type="rt">ハンドル</seg><seg type="rp">）</seg></seg>に黒い血の影が移ったのを見ると又ハッと手を引込めた。<lb />
+　未亡人は二口三口ゴクゴクと飲むと手を離した。蒲団から畳に転がり落ちた銀瓶からドッと水が<seg type="ruby"><seg type="rb">迸</seg><seg type="rp">（</seg><seg type="rt">ほとばし</seg><seg type="rp">）</seg></seg>り流れた。<lb />
+　未亡人はガックリとなった。<lb />
+「サ……ヨ……ナ……ラ……」<lb />
+　と消え消えに云ううちに夫人の顔は私の方を向いたまま次第次第に死相をあらわしはじめた。<lb />
+　兄は唇を噛んでその横顔を睨み詰めた。<lb />
+<lb />
+　自動車が桜田町へ出ると私は運転手を呼び止めて、「東京駅へ」と云った。何のために東京駅へ行くかわからないまま……。<lb />
+「九段じゃないのですか」と若い運転手が聴き返した。私は「ウン」とうなずいた。<lb />
+　私の奇妙な無意味な生活はこの時から始まったのであった。<lb />
+　東京駅へ着くと私はやはり何の意味もなしに京都行きの切符を買った。何の意味もなしに<seg type="ruby"><seg type="rb">国府津</seg><seg type="rp">（</seg><seg type="rt">こうづ</seg><seg type="rp">）</seg></seg>駅で降りて何の意味もなしに駅前の待合所に這入って、飲めもしない酒を<seg type="ruby"><seg type="rb">誂</seg><seg type="rp">（</seg><seg type="rt">あつら</seg><seg type="rp">）</seg></seg>えて、グイグイと飲むとすぐに床を取ってもらって寝た。<lb />
+　夕方になって眼が醒めたがその時初めて御飯を食べると、何の意味もなしに又西行きの汽車に乗った。その時に待合所の女中か何かが見覚えのない小さな鞄を持って来たのを、<lb />
+「おれのじゃない」<lb />
+　と押し問答したあげく、やっと<seg type="ruby"><seg type="rb">昨夜</seg><seg type="rp">（</seg><seg type="rt">ゆうべ</seg><seg type="rp">）</seg></seg>鶴原家を出がけに兄が自動車の中に入れてくれたものであることを思い出して受け取った。同時にその中に紙幣が一パイ詰まっていることも思い出したが、その時はそれをどうしようという気も起らなかったようである。<lb />
+　汽車が動き出してから気が付くと私の<seg type="ruby"><seg type="rb">傍</seg><seg type="rp">（</seg><seg type="rt">かたえ</seg><seg type="rp">）</seg></seg>に東京の夕刊が二枚落ちている。それを拾って見ているうちに「鶴原子爵未亡人」という大きな活字が眼についた。<lb />
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+▲きょうの午前十時に美人と淫蕩で有名な鶴原子爵未亡人ツル子（三一）が一人の青年と共に<seg type="ruby"><seg type="rb">麻布</seg><seg type="rp">（</seg><seg type="rt">あざぶ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">笄町</seg><seg type="rp">（</seg><seg type="rt">こうがいちょう</seg><seg type="rp">）</seg></seg>の自宅で焼け死んだ。その表面は心中と見えるが実は他殺である。その証拠に焼け爛れた短刀の中味は二人の枕元から発見されたにも拘わらず、その<seg type="ruby"><seg type="rb">鞘</seg><seg type="rp">（</seg><seg type="rt">さや</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">口金</seg><seg type="rp">（</seg><seg type="rt">くちがね</seg><seg type="rp">）</seg></seg>はそこから数間を隔てた廊下の隅から探し出された。<lb />
+▲未亡人は二、三日前東洋銀行から預金全部を引き出したばかりでなく、家や地面も数日前から<seg type="ruby"><seg type="rb">金</seg><seg type="rp">（</seg><seg type="rt">かね</seg><seg type="rp">）</seg></seg>に換えていたがその金は焼失していないらしい。<lb />
+▲未亡人と一緒に焼け死んでいた青年は、同居していた夫人の甥で妻木敏郎（二七）という青年であることが判明した。同家には女中も何も居なかったらしく様子が全くわからないが痴情の果という噂もある。<lb />
+▲当局では目下全力を挙げてこの怪事件を調査中……。<lb />
+</seg>
+　そんな事を未亡人の生前の不行跡と一緒に長々と書き並べてある。それを見ているうちに<seg rend="sesame_dot" rendition="em">あくび</seg>がいくつも出て来たので、私は窓に<seg type="ruby"><seg type="rb">倚</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>りかかったままウトウトと居眠りをはじめた。<lb />
+<lb />
+　あくる朝京都で降りると私はどこを当てともなくあるきまわった。すこし閑静なところへ来ると通りがかりの人を捕まえて、<lb />
+「ここいらに鶴原卿の屋敷跡はありませんでしょうか」<lb />
+　ときいた。その人は妙な顔をして返事もせずに行ってしまった。それから今大路家や音丸家のあとも一々尋ねて見たがみんな無駄骨折りにおわった。そこに行ってどうするというつもりもなかったけれども只何となく<seg type="ruby"><seg type="rb">自烈度</seg><seg type="rp">（</seg><seg type="rt">じれった</seg><seg type="rp">）</seg></seg>かった。<lb />
+　夕方になって祇園の通りへ出たが、そこの町々の美しいあかりを見ると私はたまらなくなつかしくなった。何だか赤ん坊になって生れ故郷へ帰ったような気持ちになってボンヤリ立っていると向うから綺麗な舞い<seg type="ruby"><seg type="rb">妓</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>が二人連れ立って来た。その右側の<seg type="ruby"><seg type="rb">妓</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>の眼鼻立ちが鶴原の未亡人にソックリのように見えたので、私は思わず微笑しながら近付いて名前をきいたら右側のは「美千代」、左側のは「玉代」といった。「うちは？」ときいたら美千代が向うの角を指した。その手に名刺を渡しながら、<lb />
+「どこかで僕とお話ししてくれませんか」<lb />
+　というと二人で名刺をのぞいていたが眼を丸くしてうなずき合って私の顔を見ながらニッコリするとすこし先の「<seg type="ruby"><seg type="rb">鶴羽</seg><seg type="rp">（</seg><seg type="rt">つるは</seg><seg type="rp">）</seg></seg>」という<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>に案内した。そうして二人共一度出て行くと間もなく美千代一人が着物を着かえて這入って来たので私は奇蹟を見るような気持ちになった。<lb />
+　その時<seg type="ruby"><seg type="rb">仲居</seg><seg type="rp">（</seg><seg type="rt">なかい</seg><seg type="rp">）</seg></seg>は「高林先生」とか「若先生」とか云って<seg type="ruby"><seg type="rb">無暗</seg><seg type="rp">（</seg><seg type="rt">むやみ</seg><seg type="rp">）</seg></seg>にチヤホヤした。私は気になって「本当の名前は久弥」と云ったら「それでは御苗字は」ときいたから、<lb />
+「音丸」と答えたら美千代が腹を抱えて笑った。私も東京を出て初めて大きな声で笑った。<lb />
+　それから<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">のち</seg><seg type="rp">）</seg></seg>私は鶴原未亡人に似た女ばかり探した。<seg type="ruby"><seg type="rb">芸妓</seg><seg type="rp">（</seg><seg type="rt">げいしゃ</seg><seg type="rp">）</seg></seg>。舞妓。カフェーの女給。女優なぞ……しまいには只鼻の恰好とか、眼付きとか、うしろ姿だけでも似ておればいいようになった。それから大阪に行った。<lb />
+　大阪から別府、博多、長崎、そのほか名ある津々浦々を飲んでは酔い、酔うては女を探してまわった。<seg type="ruby"><seg type="rb">昨夜</seg><seg type="rp">（</seg><seg type="rt">ゆうべ</seg><seg type="rp">）</seg></seg>鶴原未亡人に丸うつしと思ったのが、あくる朝は似ても似つかぬ顔になっていたこともあった。その時私は<seg type="ruby"><seg type="rb">潜々</seg><seg type="rp">（</seg><seg type="rt">さめざめ</seg><seg type="rp">）</seg></seg>と泣き出して女に笑われた。<lb />
+　酔わない時は小説や講談を読んで寝ころんでいた。そうしてもしや自分に似た恋をしたものがいはしまいか。いたらどうするだろうと思って探したが、<seg type="ruby"><seg type="rb">生憎</seg><seg type="rp">（</seg><seg type="rt">あいにく</seg><seg type="rp">）</seg></seg>一人もそんなのは見付からなかった。<lb />
+　そのうちに二年経つと東京の大地震の騒ぎを伊予の道後できいたが、九段が無事ときいたので東京へ帰るのをやめて又あるきまわった。けれども今度は長く続かなかった。私の<seg type="ruby"><seg type="rb">懐中</seg><seg type="rp">（</seg><seg type="rt">ふところ</seg><seg type="rp">）</seg></seg>が次第に乏しくなると共に私の<seg type="ruby"><seg type="rb">身体</seg><seg type="rp">（</seg><seg type="rt">からだ</seg><seg type="rp">）</seg></seg>も弱って来た。ずっと以前から犯されていた肺尖がいよいよ本物になったからである。<lb />
+　久し振りに、なつかしい箱根を越えて小田原に来たのはその翌年の春の初めであった。そこで暖くなるのを待っているうちに懐中がいよいよ淋しくなって来たので、私は宿屋の払いをして東の方へブラブラとあるき出した。すてきにいい天気で村々の家々に桃や椿が咲き、<seg type="ruby"><seg type="rb">菜種</seg><seg type="rp">（</seg><seg type="rt">なたね</seg><seg type="rp">）</seg></seg>畠の上にはあとからあとから<seg type="ruby"><seg type="rb">雲雀</seg><seg type="rp">（</seg><seg type="rt">ひばり</seg><seg type="rp">）</seg></seg>があがった。<lb />
+　その途中あんまり疲れたので、とある丘の上の青い麦畑の横に腰を<seg type="ruby"><seg type="rb">卸</seg><seg type="rp">（</seg><seg type="rt">おろ</seg><seg type="rp">）</seg></seg>すと不意に眼がクラクラして<seg type="ruby"><seg type="rb">喀血</seg><seg type="rp">（</seg><seg type="rt">かっけつ</seg><seg type="rp">）</seg></seg>した。その土の上にかたまった血に大空の太陽がキラキラと反射するのを見て私は額に手を当てた。そうしてすべてを考えた。<lb />
+　私は東京を出てから丸三年目にやっと<seg type="ruby"><seg type="rb">本性</seg><seg type="rp">（</seg><seg type="rt">ほんしょう</seg><seg type="rp">）</seg></seg>に帰ったのであった。懐中を調べて見ると二円七十何銭しかない。私は畠の横の草原に寝て青い大空を仰いで「チチババチバチバ」という可愛らしい雲雀の声をいつまでもいつまでも見詰めていた。<lb />
+<lb />
+　東京に着くと私は着物を売り払って労働者風になって四谷の木賃宿に泊った。そうして夜のあけるのを待ちかねて電車で九段に向った。<lb />
+　なつかしい檜のカブキ門が向うに見えると、私は黒い鳥打帽を<seg type="ruby"><seg type="rb">眉深</seg><seg type="rp">（</seg><seg type="rt">まぶか</seg><seg type="rp">）</seg></seg>くして往来の石に腰をかけた。その時暁星学校の生徒が二人通りかかったが、私の姿を見ると<seg type="ruby"><seg type="rb">除</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>けて通りながら「若い立ちん坊だよ」と<seg type="ruby"><seg type="rb">囁</seg><seg type="rp">（</seg><seg type="rt">ささや</seg><seg type="rp">）</seg></seg>き合って行った。青褪めて鬚を生やして、<seg type="ruby"><seg type="rb">塵埃</seg><seg type="rp">（</seg><seg type="rt">ちり</seg><seg type="rp">）</seg></seg>まみれの<seg type="ruby"><seg type="rb">草履</seg><seg type="rp">（</seg><seg type="rt">ぞうり</seg><seg type="rp">）</seg></seg>を穿いた吾が姿を見て私は笑うことも出来なかった。<lb />
+　その日は見なれぬ内弟子が一人高林家の門を出たきり鼓の音一つせずに暗くなりかけて来た。<lb />
+　私は咳をしいしい四谷まで帰って木賃宿に寝た。そうして夜があけると又高林家の門前へ来て出入りの人を見送ったが老先生らしい姿は見えなかった。鼓の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>もその日は盛んにきこえたけれども老先生の鼓は一つも聞えなかった。<lb />
+　私はそのあくる日又来た。そのあくる日もその又あくる日も来た。しかし老先生の影も見えない。亡くなられたのか知らんと思うと私の胸は急に暗くなった。<lb />
+「しかしまだわからない。せめて老先生のうしろ影でも拝んで死なねば……」<lb />
+　と思うと私の足は夜が明けるとすぐに九段の方に向いた。高林家の門からかなり離れた処にある往来の棄て石が、毎日腰をかけるために何となくなつかしいものに思われるようになった。<lb />
+「又あの乞食が……」と二人の婦人弟子らしいのが私の方を指しながら高林家の門を這入った。私はその時にうとうとと居ねむりをしていたが、やがて私の肩にそっと手を置いたものがあった。巡査かと思って眼をこすって見ると、それは思いもかけぬ老先生だった。私はいきなり土下座した。<lb />
+「やっぱりお前だった。……よく来た……待っていた……この金で身なりを作って<seg type="ruby"><seg type="rb">明日</seg><seg type="rp">（</seg><seg type="rt">あす</seg><seg type="rp">）</seg></seg>の夜中過ぎ一時頃にわたしの<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>にお出で。小潜りと裏二階の下の雨戸を開けておくから。<seg type="ruby"><seg type="rb">内緒</seg><seg type="rp">（</seg><seg type="rt">ないしょ</seg><seg type="rp">）</seg></seg>だよ」<lb />
+　と云いつつ老先生は私の手にハンケチで包んだ銀貨のカタマリを置いて、サッサと帰って行かれた。その銀貨の包みを両手に載せたまま、私は土に額をすりつけた。<lb />
+<lb />
+　その夜は曇ってあたたかかった。<lb />
+　植木職人の風をした私は高林家の裏庭にジッと<seg type="ruby"><seg type="rb">跼</seg><seg type="rp">（</seg><seg type="rt">しゃが</seg><seg type="rp">）</seg></seg>んで時刻が来るのを待った。雨らしいものがスッと頬をかすめた。<lb />
+　……と……「ポポポ……プポ……ポポポ」という鼓の音が頭の上の老先生の<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>から起った。<lb />
+　私はハッと息を呑んだ。<lb />
+「<seg type="ruby"><seg type="rb">失策</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>った。あの鼓が焼けずにいる。兄が老先生に送ったのだ。イヤあとから小包で私へ宛てて送り出したのを、老先生が受け取られたのかな……飛んでもない事をした」<lb />
+　と思いつつ私は耳を傾けた。<lb />
+　鼓の音は一度絶えて又起った。その静かな美しい音をきいているうちに私の胸が次第に高く波打って来た。<lb />
+　陰気に……陰気に……淋しく、……淋しく……極度まで打ち込まれて行った鼓の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>がいつとなく陽気な嬉し気な響を帯びて来たからである。それは地獄の底深く一切を怨んで沈んで行った魂が、有り難いみ仏の手で成仏して、次第次第にこの世に浮かみ上って来るような感じであった。<lb />
+　みるみる鼓の音に明る味がついて来てやがて全く普通の鼓の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>になった。しかも日本晴れに晴れ渡った青空のように澄み切った音にかわってしまった。<lb />
+「イヤア……<seg type="ruby"><seg type="rb">△</seg><seg type="rp">（</seg><seg type="rt">タ</seg><seg type="rp">）</seg></seg>……ハア……<seg type="ruby"><seg type="rb">○</seg><seg type="rp">（</seg><seg type="rt">ポ</seg><seg type="rp">）</seg></seg>……ハアッ<seg type="ruby"><seg type="rb">○</seg><seg type="rp">（</seg><seg type="rt">ポ</seg><seg type="rp">）</seg></seg>……<seg type="ruby"><seg type="rb">○○</seg><seg type="rp">（</seg><seg type="rt">ポポ</seg><seg type="rp">）</seg></seg>」<lb />
+　それは名曲「<seg type="ruby"><seg type="rb">翁</seg><seg type="rp">（</seg><seg type="rt">おきな</seg><seg type="rp">）</seg></seg>」の鼓の手であった。<lb />
+「とう――とうたらりたらりらア――。<seg type="ruby"><seg type="rb">所</seg><seg type="rp">（</seg><seg type="rt">ところ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">千代</seg><seg type="rp">（</seg><seg type="rt">ちよ</seg><seg type="rp">）</seg></seg>までおわしませエ――。吾等も<seg type="ruby"><seg type="rb">千秋</seg><seg type="rp">（</seg><seg type="rt">せんしゅう</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">侍</seg><seg type="rp">（</seg><seg type="rt">さむ</seg><seg type="rp">）</seg></seg>らおう――。鶴と亀との<seg type="ruby"><seg type="rb">齢</seg><seg type="rp">（</seg><seg type="rt">よわい</seg><seg type="rp">）</seg></seg>にてエ――。幸い心にまかせたりイ――。とう――とうたらりたらりらア……」<lb />
+　と私は心の中で謡い合わせながら、久しぶりに身も心も消えうせて行くような荘厳な芽出度い気持になっていた。<lb />
+　やがてその音がバッタリと止んだ。それから五、六分の間何の物音もない。<lb />
+　私は前の雨戸に手をかけた。スーッと音もなく開いたので私は新しいゴム靴を脱いで買い立ての靴下の塵を払って、微塵も音を立てずに思い出の多い裏二階の梯子を登り切って、板の間に片手を支えながら<seg type="ruby"><seg type="rb">襖</seg><seg type="rp">（</seg><seg type="rt">ふすま</seg><seg type="rp">）</seg></seg>をソロソロと開いた。<lb />
+　……………………<lb />
+　私はこのあとのことを書くに忍びない。只順序だけつないでおく。<lb />
+　私は老先生の死骸を電気の紐から外して、敷いてあった床の中に寝かした。<lb />
+　室の隅の仏壇にあった私の両親と兄の位牌を取って来て、老先生の枕元に並べて線香を上げて一緒に拝んだ。<lb />
+　それから暫くして「あやかしの鼓」を箱ごと抱えて高林家を出た。ザアザア降る雨の中を四ツ谷の木賃宿へ帰った。<lb />
+　あくる日は幸いと天気が上ったので宿の連中は皆出払ったが、私一人は加減が悪いといって寝残った。そうして<seg type="ruby"><seg type="rb">人気</seg><seg type="rp">（</seg><seg type="rt">ひとけ</seg><seg type="rp">）</seg></seg>がなくなった頃起き上って鼓箱を開いて見ると、鼓の外に<seg type="ruby"><seg type="rb">遺書</seg><seg type="rp">（</seg><seg type="rt">かきおき</seg><seg type="rp">）</seg></seg>一通と白紙に包んだ札の束が出た。その遺書には宛名も署名もしてなかったが、まがいもない老先生の手蹟でこう書いてあった。<lb />
+<lb />
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+　これは私の<seg type="ruby"><seg type="rb">臍</seg><seg type="rp">（</seg><seg type="rt">へそ</seg><seg type="rp">）</seg></seg>くりだからお前に上げる。この鼓を持って遠方へ行ってまめに暮してくれ。そうして見込みのあるものを一人でも二人でもいいからこの世に残してくれ。あやかしの鼓にこもった<seg type="ruby"><seg type="rb">霊魄</seg><seg type="rp">（</seg><seg type="rt">たましい</seg><seg type="rp">）</seg></seg>の迷いを晴らす道はもうわかったろうから。<lb />
+　私はお前達兄弟の腕に惚れ込み過ぎた。安心してこの鼓を取りに遣った。そのためにあのような取り返しの附かないことを仕出かした。私はお前の親御様へお詫びにゆく。<lb />
+</seg>
+<lb />
+　私は死ぬかと思う程泣かされた。この御恩を報ずる<seg type="ruby"><seg type="rb">生命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>が私にないのかと思うと私は蒲団を掴み破り、畳をかきむしり、老先生の<seg type="ruby"><seg type="rb">遺書</seg><seg type="rp">（</seg><seg type="rt">かきおき</seg><seg type="rp">）</seg></seg>を噛みしだいてノタ打ちまわった。<lb />
+　しかしまだ私の<seg type="ruby"><seg type="rb">業</seg><seg type="rp">（</seg><seg type="rt">ごう</seg><seg type="rp">）</seg></seg>は尽きなかった。<lb />
+　私は鼓を抱えて、その夜の夜汽車で東京を出て<seg type="ruby"><seg type="rb">伊香保</seg><seg type="rp">（</seg><seg type="rt">いかほ</seg><seg type="rp">）</seg></seg>に来た。<lb />
+　温泉宿に落ちついて翌日であったか、東京の新聞が来たのに高林家の事が大きく出ていた。その一番初めに載っていたのはなつかしい老先生の写真であったが、一番おしまいに出ているのは私が見も知らぬ人であるのにその下に「稀代の怪賊高林久弥事旧名音丸久弥」と書いてあったのには驚いた。その本文にはこんなことが書き並べてあった。<lb />
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em">
+▲今から丸三年前大正十年の春鶴原未亡人の変死事件というのがあった。右に就て当局のその後の調べに依ると同未亡人を甥の妻木という青年と一緒にその旅立ちの前夜に殺害して大金を奪って去ったものは九段高林家の<seg type="ruby"><seg type="rb">後嗣</seg><seg type="rp">（</seg><seg type="rt">あとつぎ</seg><seg type="rp">）</seg></seg>で旧名音丸久弥といった屈強の青年であることがわかった。<lb />
+▲然るにその後久弥はその金を<seg type="ruby"><seg type="rb">費</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>い果したものか、昨夜突然高林家に忍び入って恩師を<seg type="ruby"><seg type="rb">縊</seg><seg type="rp">（</seg><seg type="rt">くび</seg><seg type="rp">）</seg></seg>り殺してその臍繰りと名器の鼓を奪って逃げた。<lb />
+▲彼は数日前から高林家の門前に乞食<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>を装うて来て様子を伺い、恩師高林弥九郎氏が何かの必要のため貯金全部を引き出して来たのを見済ましてこの兇行に及んだものらしく、三年前の事件と共に実に巧妙周到且つ迅速を極めたものである。<lb />
+▲尚高林家では前にも後嗣高林靖二郎氏の失踪事件があったので、久弥の事は全然秘密にしていたのであるが、兇行の際犯人が大胆にも被害者の枕元に義兄靖二郎氏と犯人の両親の位牌を並べて焼香して行った事実から一切の関係が判明したものである。云々。<lb />
+</seg>
+　これを読んでしまった時、私はどう考えても免れようのない犯人であることに気が付いた。この鼓が犯人だと云っても誰が本当にしよう。世の中というものはこんな奇妙なものかと思い続けながらこの遺書を書いた。そうして今やっとここまで書き上げた。<lb />
+　私は今からこの鼓を打ち砕いて死にたいと思う。私の祖先音丸久能の怨みはもうこの間老先生の手で晴らされている。この怨みの脱け殻の鼓とその血統は今日を限りにこの世から消え失せるのだ。思い残すことは一つもない。<lb />
+　しかし私はこんな一片の因縁話を残すために生れて来たのかと思うと夢のような気もちにもなる。<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
   </text>
 </TEI>

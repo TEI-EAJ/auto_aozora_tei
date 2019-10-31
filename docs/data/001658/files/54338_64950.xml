@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-05-27">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 底本の親本：「沖縄毎日新聞」<lb />
 　　　1909（明治42）年5月25日<lb />
@@ -35,15 +35,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-垣間見ぬ君が<span type="ruby"><span type="rb">室内</span><span type="rp">（</span><span type="rt">へやぬち</span><span type="rp">）</span></span><lb />
-<span type="ruby"><span type="rb">明日</span><span type="rp">（</span><span type="rt">あす</span><span type="rp">）</span></span>来むと云いし其の日に<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+垣間見ぬ君が<seg type="ruby"><seg type="rb">室内</seg><seg type="rp">（</seg><seg type="rt">へやぬち</seg><seg type="rp">）</seg></seg><lb />
+<seg type="ruby"><seg type="rb">明日</seg><seg type="rp">（</seg><seg type="rt">あす</seg><seg type="rp">）</seg></seg>来むと云いし其の日に<lb />
 待てど君姿は見ゑず<lb />
-我心<span type="ruby"><span type="rb">苛苛</span><span type="rp">（</span><span type="rt">いらいら</span><span type="rp">）</span></span>しさに<lb />
+我心<seg type="ruby"><seg type="rb">苛苛</seg><seg type="rp">（</seg><seg type="rt">いらいら</seg><seg type="rp">）</seg></seg>しさに<lb />
 垣間見ぬ君が室内<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

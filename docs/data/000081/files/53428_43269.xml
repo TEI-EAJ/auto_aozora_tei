@@ -31,10 +31,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 鳥居の下の県道を<lb />
 砂塵おぼろにあとひきて<lb />
-<span type="ruby"><span type="rb">青竹</span><span type="rp">（</span><span type="rt">あをたけ</span><span type="rp">）</span></span>いろのトラック過ぐる<lb />
+<seg type="ruby"><seg type="rb">青竹</seg><seg type="rp">（</seg><seg type="rt">あをたけ</seg><seg type="rp">）</seg></seg>いろのトラック過ぐる<lb />
 <lb />
 枝垂の栗の下影に<lb />
 鳥獣戯画のかたちして<lb />
@@ -42,6 +42,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

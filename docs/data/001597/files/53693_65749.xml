@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 紙製ノ蛇ガ紙製ノ蛇デアルトスレバ<lb />
 ▽ハ蛇デアル<lb />
 <lb />
@@ -60,18 +60,18 @@
 <lb />
 ▽ハてーぶるノ下ニ隠レタカ<lb />
 　　　　　×<lb />
-<span rend="futoji">１</span><lb />
+<seg rend="futoji" rendition="span">１</seg><lb />
 <lb />
-<span rend="futoji">２</span><lb />
+<seg rend="futoji" rendition="span">２</seg><lb />
 <lb />
-<span rend="futoji">３</span><lb />
+<seg rend="futoji" rendition="span">３</seg><lb />
 <lb />
-<span rend="futoji">３</span>ハ公倍数ノ征伐ニ赴イタ<lb />
+<seg rend="futoji" rendition="span">３</seg>ハ公倍数ノ征伐ニ赴イタ<lb />
 電報ハ来テイナイ<lb />
-<span rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">１９３１・６・５</span>
+<seg rend="chitsuki_3" rendition="div" style="text-align:right; margin-right: 3em">１９３１・６・５</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

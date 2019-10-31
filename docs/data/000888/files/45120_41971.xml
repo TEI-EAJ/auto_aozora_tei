@@ -31,9 +31,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 光つて泉の湧くそばに<lb />
-僕の小さな<span type="ruby"><span type="rb">窪</span><span type="rp">（</span><span type="rt">くぼ</span><span type="rp">）</span></span>がある。<lb />
+僕の小さな<seg type="ruby"><seg type="rb">窪</seg><seg type="rp">（</seg><seg type="rt">くぼ</seg><seg type="rp">）</seg></seg>がある。<lb />
 　僕の丈ほどふかくない。<lb />
 はりえにしだなど生えてゐる。<lb />
 夏には夏の花が咲く。<lb />
@@ -48,7 +48,7 @@
 <lb />
 あたりのものは僕のもの、<lb />
 頭の上の雀でも、<lb />
-　泉の中の小<span rend="sesame_dot" rendition="em">ばや</span>でも。<lb />
+　泉の中の小<seg rend="sesame_dot" rendition="em">ばや</seg>でも。<lb />
 ここでは僕は王様だ。<lb />
 僕は蜂どもうたはせる。<lb />
 　僕は燕をあそばせる。<lb />
@@ -69,6 +69,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

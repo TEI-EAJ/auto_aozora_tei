@@ -37,7 +37,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -72,15 +72,15 @@
 寧ろ彼らが私のけふの日を歌ふ<lb />
 鶯<lb />
 （読人不知）<lb />
-<span rend="notes">［＃改丁］</span><lb />
+<seg rend="notes" rendition="span">［＃改丁］</seg><lb />
 <lb />
 古き師と少なき友に献ず<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　晴れた日に<lb />
 <lb />
 <lb />
-とき<span type="ruby"><span type="rb">偶</span><span type="rp">（</span><span type="rt">たま</span><span type="rp">）</span></span>に晴れ渡つた日に<lb />
+とき<seg type="ruby"><seg type="rb">偶</seg><seg type="rp">（</seg><seg type="rt">たま</seg><seg type="rp">）</seg></seg>に晴れ渡つた日に<lb />
 老いた私の母が<lb />
 強ひられて故郷に帰つて行つたと<lb />
 私の放浪する半身　愛される人<lb />
@@ -92,7 +92,7 @@
 行きついて<lb />
 四月の終るとき<lb />
 取り巻いた山々やその村里の道にさヘ<lb />
-一<span type="ruby"><span type="rb">米</span><span type="rp">（</span><span type="rt">メートル</span><span type="rp">）</span></span>の雪が<lb />
+一<seg type="ruby"><seg type="rb">米</seg><seg type="rp">（</seg><seg type="rt">メートル</seg><seg type="rp">）</seg></seg>の雪が<lb />
 なほ日光の中に残り<lb />
 五月を待つて<lb />
 桜は咲き　裏には正しい林檎畑を見た！<lb />
@@ -100,7 +100,7 @@
 愛されるためには<lb />
 お前はしかし命ぜられてある<lb />
 われわれは共に幼くて居た故郷で<lb />
-四月にははや<span type="ruby"><span type="rb">縁</span><span type="rp">（</span><span type="rt">つば</span><span type="rp">）</span></span>広の帽を被つた<lb />
+四月にははや<seg type="ruby"><seg type="rb">縁</seg><seg type="rp">（</seg><seg type="rt">つば</seg><seg type="rp">）</seg></seg>広の帽を被つた<lb />
 又キラキラとする太陽と<lb />
 跣足では歩きにくい土で<lb />
 到底まつ青な果実しかのぞまれぬ<lb />
@@ -110,27 +110,27 @@
 いつたい其処で<lb />
 お前の懸命に信じまいとしてゐることの<lb />
 何であるかを<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　曠野の歌<lb />
 <lb />
 <lb />
 わが死せむ美しき日のために<lb />
-連嶺の夢想よ！　<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>が白雪を<lb />
+連嶺の夢想よ！　<seg type="ruby"><seg type="rb">汝</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>が白雪を<lb />
 消さずあれ<lb />
 息ぐるしい稀薄のこれの曠野に<lb />
 ひと知れぬ泉をすぎ<lb />
-<span type="ruby"><span type="rb">非時</span><span type="rp">（</span><span type="rt">ときじく</span><span type="rp">）</span></span>の木の実<span type="ruby"><span type="rb">熟</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>るる<lb />
+<seg type="ruby"><seg type="rb">非時</seg><seg type="rp">（</seg><seg type="rt">ときじく</seg><seg type="rp">）</seg></seg>の木の実<seg type="ruby"><seg type="rb">熟</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>るる<lb />
 隠れたる場しよを過ぎ<lb />
-われの<span type="ruby"><span type="rb">播種</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>く花のしるし<lb />
-近づく日わが<span type="ruby"><span type="rb">屍骸</span><span type="rp">（</span><span type="rt">なきがら</span><span type="rp">）</span></span>を曳かむ馬を<lb />
-この<span type="ruby"><span type="rb">道標</span><span type="rp">（</span><span type="rt">しめ</span><span type="rp">）</span></span>はいざなひ還さむ<lb />
-あゝかくてわが<span type="ruby"><span type="rb">永久</span><span type="rp">（</span><span type="rt">とは</span><span type="rp">）</span></span>の帰郷を<lb />
-高貴なる<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>が白き光見送り<lb />
+われの<seg type="ruby"><seg type="rb">播種</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>く花のしるし<lb />
+近づく日わが<seg type="ruby"><seg type="rb">屍骸</seg><seg type="rp">（</seg><seg type="rt">なきがら</seg><seg type="rp">）</seg></seg>を曳かむ馬を<lb />
+この<seg type="ruby"><seg type="rb">道標</seg><seg type="rp">（</seg><seg type="rt">しめ</seg><seg type="rp">）</seg></seg>はいざなひ還さむ<lb />
+あゝかくてわが<seg type="ruby"><seg type="rb">永久</seg><seg type="rp">（</seg><seg type="rt">とは</seg><seg type="rp">）</seg></seg>の帰郷を<lb />
+高貴なる<seg type="ruby"><seg type="rb">汝</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>が白き光見送り<lb />
 木の実照り　泉はわらひ……<lb />
 わが痛き夢よこの時ぞ遂に<lb />
 休らはむもの！<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　私は強ひられる――<lb />
 <lb />
@@ -144,43 +144,43 @@
 私と一緒に眺めよ<lb />
 孤高な思索を私に伝へた人！<lb />
 草食動物がするかの楽しさうな食事を<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　氷れる谷間<lb />
 <lb />
 <lb />
 おのれ身悶え手を揚げて<lb />
-遠い海波の<span type="ruby"><span type="rb">威</span><span type="rp">（</span><span type="rt">おど</span><span type="rp">）</span></span>すこと！<lb />
+遠い海波の<seg type="ruby"><seg type="rb">威</seg><seg type="rp">（</seg><seg type="rt">おど</seg><seg type="rp">）</seg></seg>すこと！<lb />
 樹上の鳥は撃ちころされ<lb />
 神秘めく<lb />
-きりない歌をなほも<span type="ruby"><span type="rb">紡</span><span type="rp">（</span><span type="rt">つむ</span><span type="rp">）</span></span>ぐ<lb />
+きりない歌をなほも<seg type="ruby"><seg type="rb">紡</seg><seg type="rp">（</seg><seg type="rt">つむ</seg><seg type="rp">）</seg></seg>ぐ<lb />
 憂愁に気位高く　氷り易く<lb />
 一瞬に氷る谷間<lb />
 脆い夏は響き去り……<lb />
 にほひを途方にまごつかす<lb />
-<span type="ruby"><span type="rb">紅</span><span type="rp">（</span><span type="rt">くれなゐ</span><span type="rp">）</span></span>の花花は<lb />
+<seg type="ruby"><seg type="rb">紅</seg><seg type="rp">（</seg><seg type="rt">くれなゐ</seg><seg type="rp">）</seg></seg>の花花は<lb />
 （かくも気儘に！）<lb />
 幽暗の底の縞目よ<lb />
-わが　小児の<span type="ruby"><span type="rb">趾</span><span type="rp">（</span><span type="rt">あし</span><span type="rp">）</span></span>に<lb />
+わが　小児の<seg type="ruby"><seg type="rb">趾</seg><seg type="rp">（</seg><seg type="rt">あし</seg><seg type="rp">）</seg></seg>に<lb />
 この歩行は心地よし<lb />
 逃げ後れつつ逆しまに<lb />
 氷りし魚のうす青い<lb />
 きんきんとした刺は<lb />
 痛し！　寧ろうつくし！<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　新世界のキィノー<lb />
 <lb />
 <lb />
 朝鮮へ東京から転勤の途中<lb />
-旧友が私の町に<span type="ruby"><span type="rb">下車</span><span type="rp">（</span><span type="rt">お</span><span type="rp">）</span></span>りた<lb />
+旧友が私の町に<seg type="ruby"><seg type="rb">下車</seg><seg type="rp">（</seg><seg type="rt">お</seg><seg type="rp">）</seg></seg>りた<lb />
 私をこめて同窓が三人この町にゐる<lb />
 <lb />
 私が彼の電話をうけとつたのは<lb />
 私のまはし者どもが新世界でやつてゐる<lb />
 キィノーでであつた<lb />
 <lb />
-私は養家に<span type="ruby"><span type="rb">入籍</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>る前の名刺を　事務机から<lb />
+私は養家に<seg type="ruby"><seg type="rb">入籍</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>る前の名刺を　事務机から<lb />
 さがし出すと　それに送宴の手筈を書き<lb />
 他の二人に通知した<lb />
 <lb />
@@ -192,13 +192,13 @@
 ゴム製の魚を<lb />
 私の腹案の水面に浮べた<lb />
 <lb />
-「<span type="ruby"><span type="rb">体</span><span type="rp">（</span><span type="rt">てい</span><span type="rp">）</span></span>のいゝ左遷さ」と　吐き出すやうに<lb />
+「<seg type="ruby"><seg type="rb">体</seg><seg type="rp">（</seg><seg type="rt">てい</seg><seg type="rp">）</seg></seg>のいゝ左遷さ」と　吐き出すやうに<lb />
 旧友が言ひ出したのを　まるきり耳に入らないふりで<lb />
 異常に私はせき込んで彼と朝鮮の話を始めた<lb />
 <lb />
 私は　私も交へて四人が<lb />
 だん／＼愉快になつてゆくのを見た<lb />
-（新世界で　キィノーを一つも信じずに<span type="ruby"><span type="rb">入場</span><span type="rp">（</span><span type="rt">はい</span><span type="rp">）</span></span>つて<lb />
+（新世界で　キィノーを一つも信じずに<seg type="ruby"><seg type="rb">入場</seg><seg type="rp">（</seg><seg type="rt">はい</seg><seg type="rp">）</seg></seg>つて<lb />
 <lb />
 きた人達でさへ　私の命じておいた暗さに<lb />
 どんなにいらいらと　慣れようとして<lb />
@@ -210,12 +210,12 @@
 <lb />
 独りホテルに残つた旧友は　彼の方が<lb />
 友情のきつかけにいつもなくてはならぬ<lb />
-あの<span rend="SESAME_DOT" rendition="strong">朝鮮</span>の役目をしたことを　激しく後悔した<lb />
+あの<seg rend="SESAME_DOT" rendition="strong">朝鮮</seg>の役目をしたことを　激しく後悔した<lb />
 <lb />
 二人の同窓は　めい／＼の家の方へ<lb />
 わざとしばらくは徒歩でゆきながら<lb />
 旧友を憐むことで久しぶりに元気になるのを感じた<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　田舎道にて<lb />
 <lb />
@@ -225,34 +225,34 @@
 そして　自然がぐるりに<lb />
 おれにてんで見覚えの無いのはなぜだらう<lb />
 <lb />
-死んだ<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">ひと</span><span type="rp">）</span></span>はあつちで<lb />
+死んだ<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">ひと</seg><seg type="rp">）</seg></seg>はあつちで<lb />
 ずつとおれより賑やかなのだ<lb />
 でないと　おれの胸がこんなに<lb />
 真鍮の籠のやうなのはなぜだらう<lb />
 <lb />
-<span type="ruby"><span type="rb">其</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>れで遊んだことのない<lb />
-おれの<span type="ruby"><span type="rb">玩具</span><span type="rp">（</span><span type="rt">おもちや</span><span type="rp">）</span></span>の単調な音がする<lb />
+<seg type="ruby"><seg type="rb">其</seg><seg type="rp">（</seg><seg type="rt">そ</seg><seg type="rp">）</seg></seg>れで遊んだことのない<lb />
+おれの<seg type="ruby"><seg type="rb">玩具</seg><seg type="rp">（</seg><seg type="rt">おもちや</seg><seg type="rp">）</seg></seg>の単調な音がする<lb />
 そして　おれの冒険ののち<lb />
-名前ない体験のなり<span type="ruby"><span type="rb">止</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>まぬのはなぜだらう<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+名前ない体験のなり<seg type="ruby"><seg type="rb">止</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>まぬのはなぜだらう<lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　真昼の休息<lb />
 <lb />
 <lb />
 木柵の蔭に眠れる<lb />
-牧人は深き<span type="ruby"><span type="rb">休息</span><span type="rp">（</span><span type="rt">やすらひ</span><span type="rp">）</span></span>……<lb />
+牧人は深き<seg type="ruby"><seg type="rb">休息</seg><seg type="rp">（</seg><seg type="rt">やすらひ</seg><seg type="rp">）</seg></seg>……<lb />
 太陽の追ふにまかせて<lb />
-<span type="ruby"><span type="rb">群畜</span><span type="rp">（</span><span type="rt">けもの</span><span type="rp">）</span></span>らかの速き泉に就きぬ<lb />
+<seg type="ruby"><seg type="rb">群畜</seg><seg type="rp">（</seg><seg type="rt">けもの</seg><seg type="rp">）</seg></seg>らかの速き泉に就きぬ<lb />
 われもまたかくて坐れり<lb />
 二番花乏しく咲ける窓辺に<lb />
 <lb />
-<span type="ruby"><span type="rb">土</span><span type="rp">（</span><span type="rt">ち</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">呼吸</span><span type="rp">（</span><span type="rt">いき</span><span type="rp">）</span></span>に徐々に後れつ<lb />
+<seg type="ruby"><seg type="rb">土</seg><seg type="rp">（</seg><seg type="rt">ち</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">呼吸</seg><seg type="rp">（</seg><seg type="rt">いき</seg><seg type="rp">）</seg></seg>に徐々に後れつ<lb />
 牧人はねむり覚まし<lb />
-<span type="ruby"><span type="rb">己</span><span type="rp">（</span><span type="rt">わ</span><span type="rp">）</span></span>が太陽とけものに出会ふ<lb />
+<seg type="ruby"><seg type="rb">己</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>が太陽とけものに出会ふ<lb />
 約束の道へ去りぬ……<lb />
 二番花乏しく咲ける窓辺に<lb />
 われはなほかくて坐れり<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　帰郷者<lb />
 <lb />
@@ -260,12 +260,12 @@
 自然は限りなく美しく永久に住民は<lb />
 貧窮してゐた<lb />
 幾度もいくども烈しくくり返し<lb />
-岩礁にぶちつかつた<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">のち</span><span type="rp">）</span></span>に<lb />
-波がちり散りに泡沫になつて<span type="ruby"><span type="rb">退</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>きながら<lb />
+岩礁にぶちつかつた<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">のち</seg><seg type="rp">）</seg></seg>に<lb />
+波がちり散りに泡沫になつて<seg type="ruby"><seg type="rb">退</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>きながら<lb />
 各自ぶつぶつと呟くのを<lb />
 私は海岸で眺めたことがある<lb />
 絶えず此処で私が見た帰郷者たちは<lb />
-<span type="ruby"><span type="rb">正</span><span type="rp">（</span><span type="rt">まさ</span><span type="rp">）</span></span>にその通りであつた<lb />
+<seg type="ruby"><seg type="rb">正</seg><seg type="rp">（</seg><seg type="rt">まさ</seg><seg type="rp">）</seg></seg>にその通りであつた<lb />
 その不思議に一様な独言は私に同感的でなく<lb />
 非常に常識的にきこえた<lb />
 （まつたく！いまは故郷に美しいものはない）<lb />
@@ -278,9 +278,9 @@
 私は信じ得ない<lb />
 ただ多くの不平と辛苦ののちに<lb />
 晏如として彼らの皆が<lb />
-あそ<span type="ruby"><span type="rb">処</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>で一基の墓となつてゐるのが<lb />
+あそ<seg type="ruby"><seg type="rb">処</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>で一基の墓となつてゐるのが<lb />
 私を慰めいくらか幸福にしたのである<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　同反歌<lb />
 <lb />
@@ -290,7 +290,7 @@
 <lb />
 詩作を覚えた私が　行為よ<lb />
 どうしてお前に憧れないことがあらう<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　冷めたい場所で<lb />
 <lb />
@@ -305,7 +305,7 @@
 望郷の歌であゆみすぎた<lb />
 荒々しい冷めたいこの岩石の<lb />
 場所にこそ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　海水浴<lb />
 <lb />
@@ -319,7 +319,7 @@
 その連中の間には　私をゆるすまいとする<lb />
 成心のある噂がおこなはれる<lb />
 （有力な詩人はみなこの町を見捨てた）と<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　わがひとに与ふる哀歌<lb />
 <lb />
@@ -329,10 +329,10 @@
 手をかたくくみあはせ<lb />
 しづかに私たちは歩いて行つた<lb />
 かく誘ふものの何であらうとも<lb />
-私たちの<span type="ruby"><span type="rb">内</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>の<lb />
+私たちの<seg type="ruby"><seg type="rb">内</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>の<lb />
 誘はるる清らかさを私は信ずる<lb />
 無縁のひとはたとへ<lb />
-鳥々は<span type="ruby"><span type="rb">恒</span><span type="rp">（</span><span type="rt">つね</span><span type="rp">）</span></span>に変らず鳴き<lb />
+鳥々は<seg type="ruby"><seg type="rb">恒</seg><seg type="rp">（</seg><seg type="rt">つね</seg><seg type="rp">）</seg></seg>に変らず鳴き<lb />
 草木の囁きは時をわかたずとするとも<lb />
 いま私たちは聴く<lb />
 私たちの意志の姿勢で<lb />
@@ -342,10 +342,10 @@
 音なき空虚を<lb />
 歴然と見わくる目の発明の<lb />
 何にならう<lb />
-如かない　<span type="ruby"><span type="rb">人気</span><span type="rp">（</span><span type="rt">ひとけ</span><span type="rp">）</span></span>ない山に<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">のぼ</span><span type="rp">）</span></span>り<lb />
+如かない　<seg type="ruby"><seg type="rb">人気</seg><seg type="rp">（</seg><seg type="rt">ひとけ</seg><seg type="rp">）</seg></seg>ない山に<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">のぼ</seg><seg type="rp">）</seg></seg>り<lb />
 切に希はれた太陽をして<lb />
 殆ど死した湖の一面に遍照さするのに<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　静かなクセニエ（わが友の独白）<lb />
 <lb />
@@ -367,7 +367,7 @@
 振舞ふ。たれかれの私に寄するクセニエに、<lb />
 寛大にうなづき、愛嬌いい挨拶をかはし、さ<lb />
 うすることで、彼らの風上に立つのである。<lb />
-悪口を言つた人間に慇懃にすることは、<span type="ruby"><span type="rb">一</span><span type="rp">（</span><span type="rt">いつ</span><span type="rp">）</span></span>の<lb />
+悪口を言つた人間に慇懃にすることは、<seg type="ruby"><seg type="rb">一</seg><seg type="rp">（</seg><seg type="rt">いつ</seg><seg type="rp">）</seg></seg>の<lb />
 美徳で、この美徳に会つてくづほれぬ人間は<lb />
 少ない。私は彼らの思ひついた語句を、いか<lb />
 にも勿体らしく受領し、苦笑をかくして冠の<lb />
@@ -382,7 +382,7 @@
 それで瀟洒に見える様、それを裁ち直すのだ。<lb />
 　あゝ！　かうして私は静かなクセニエを書<lb />
 かねばならぬ！<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　咏唱<lb />
 <lb />
@@ -393,80 +393,80 @@
 またと来ないだらう<lb />
 そして蒼空は<lb />
 明日も明けるだらう<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　四月の風<lb />
 <lb />
 <lb />
 私は窓のところに坐つて<lb />
-<span type="ruby"><span type="rb">外</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>に四月の風の吹いてゐるのを見る<lb />
+<seg type="ruby"><seg type="rb">外</seg><seg type="rp">（</seg><seg type="rt">そと</seg><seg type="rp">）</seg></seg>に四月の風の吹いてゐるのを見る<lb />
 私は思ひ出す　いろんな地方の町々で<lb />
-私が<span type="ruby"><span type="rb">識</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>つた多くの孤児の中学生のことを<lb />
+私が<seg type="ruby"><seg type="rb">識</seg><seg type="rp">（</seg><seg type="rt">し</seg><seg type="rp">）</seg></seg>つた多くの孤児の中学生のことを<lb />
 真実彼らは孤児ではないのだつたが<lb />
-孤児！と自身に<span type="ruby"><span type="rb">故意</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>と信じこんで<lb />
+孤児！と自身に<seg type="ruby"><seg type="rb">故意</seg><seg type="rp">（</seg><seg type="rt">わざ</seg><seg type="rp">）</seg></seg>と信じこんで<lb />
 この上なく自由にされた気になつて<lb />
-おもひ切り<span type="ruby"><span type="rb">巫山戯</span><span type="rp">（</span><span type="rt">ふざ</span><span type="rp">）</span></span>け　悪徳をし<lb />
+おもひ切り<seg type="ruby"><seg type="rb">巫山戯</seg><seg type="rp">（</seg><seg type="rt">ふざ</seg><seg type="rp">）</seg></seg>け　悪徳をし<lb />
 ひねくれた誹謗と歓び！<lb />
 また急に悲しくなり<lb />
 おもひつきの善行でうつとりした<lb />
 四月の風は吹いてゐる　ちやうどそれ等の<lb />
 昔の中学生の調子で<lb />
-それは大きな<span type="ruby"><span type="rb">恵</span><span type="rp">（</span><span type="rt">めぐみ</span><span type="rp">）</span></span>で気づかずに<lb />
+それは大きな<seg type="ruby"><seg type="rb">恵</seg><seg type="rp">（</seg><seg type="rt">めぐみ</seg><seg type="rp">）</seg></seg>で気づかずに<lb />
 自分の途中に安心し<lb />
 到る処の道の上で悪戯をしてゐる<lb />
 帯ほどな輝く瀬になつて<lb />
-逆に<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>に残して来た冬の方に<lb />
+逆に<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>に残して来た冬の方に<lb />
 一散に走る部分は<lb />
 老いすぎた私をからかふ<lb />
 曾て私を締めつけた<lb />
-多くの家族の<span type="ruby"><span type="rb">絆</span><span type="rp">（</span><span type="rt">きづな</span><span type="rp">）</span></span>はどこに行つたか<lb />
+多くの家族の<seg type="ruby"><seg type="rb">絆</seg><seg type="rp">（</seg><seg type="rt">きづな</seg><seg type="rp">）</seg></seg>はどこに行つたか<lb />
 又ある部分は<lb />
 見せかけだと私にはひがまれる<lb />
-甘いサ<span type="ruby"><span type="rb">行</span><span type="rp">（</span><span type="rt">ぎやう</span><span type="rp">）</span></span>の音で<lb />
+甘いサ<seg type="ruby"><seg type="rb">行</seg><seg type="rp">（</seg><seg type="rt">ぎやう</seg><seg type="rp">）</seg></seg>の音で<lb />
 そんなに誘ひをかけ<lb />
 あるものには未だ若かすぎる<lb />
 私をこんなに意地張らすがよい<lb />
 それで　も一つの絆を<lb />
 そのうち私に探し出させて呉れるのならば<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　即興<lb />
 <lb />
 <lb />
 ……真実いふと　私は詩句など要らぬのです<lb />
 また書くこともないのです<lb />
-不思議に海は<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">たゆた</span><span type="rp">）</span></span>うて<lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em">新月は空にゐます</span>
+不思議に海は<seg type="ruby"><seg type="rb">躊躇</seg><seg type="rp">（</seg><seg type="rt">たゆた</seg><seg type="rp">）</seg></seg>うて<lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em">新月は空にゐます</seg>
 <lb />
 日日は静かに流れ去り　静かすぎます<lb />
 後悔も憧憬もいまは私におかまひなしに<lb />
-奇妙に<span type="ruby"><span type="rb">明</span><span type="rp">（</span><span type="rt">あか</span><span type="rp">）</span></span>い野のへんに<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">独り歩きをしてゐるのです</span>
-<span rend="notes">［＃改ページ］</span><lb />
+奇妙に<seg type="ruby"><seg type="rb">明</seg><seg type="rp">（</seg><seg type="rt">あか</seg><seg type="rp">）</seg></seg>い野のへんに<lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">独り歩きをしてゐるのです</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　秧鶏は飛ばずに全路を歩いて来る<lb />
 <lb />
 <lb />
-<span type="ruby"><span type="rb">秧鶏</span><span type="rp">（</span><span type="rt">くひな</span><span type="rp">）</span></span>のゆく道の上に<lb />
-匂ひのいい朝風は<span type="ruby"><span type="rb">要</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>らない<lb />
+<seg type="ruby"><seg type="rb">秧鶏</seg><seg type="rp">（</seg><seg type="rt">くひな</seg><seg type="rp">）</seg></seg>のゆく道の上に<lb />
+匂ひのいい朝風は<seg type="ruby"><seg type="rb">要</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>らない<lb />
 レース雲もいらない<lb />
 <lb />
 霧がためらつてゐるので<lb />
-<span type="ruby"><span type="rb">厨房</span><span type="rp">（</span><span type="rt">くりや</span><span type="rp">）</span></span>のやうに<span type="ruby"><span type="rb">温</span><span type="rp">（</span><span type="rt">ぬ</span><span type="rp">）</span></span>くいことが知れた<lb />
-栗の矮林を宿にした<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>は<lb />
-<span type="ruby"><span type="rb">反</span><span type="rp">（</span><span type="rt">そり</span><span type="rp">）</span></span>落葉にたまつた美しい露を<lb />
+<seg type="ruby"><seg type="rb">厨房</seg><seg type="rp">（</seg><seg type="rt">くりや</seg><seg type="rp">）</seg></seg>のやうに<seg type="ruby"><seg type="rb">温</seg><seg type="rp">（</seg><seg type="rt">ぬ</seg><seg type="rp">）</seg></seg>くいことが知れた<lb />
+栗の矮林を宿にした<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>は<lb />
+<seg type="ruby"><seg type="rb">反</seg><seg type="rp">（</seg><seg type="rt">そり</seg><seg type="rp">）</seg></seg>落葉にたまつた美しい露を<lb />
 秧鶏はね酒にして呑んでしまふ<lb />
 <lb />
 波のとほい　白つぽい湖辺で<lb />
-そ<span type="ruby"><span type="rb">処</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>がいかにもアツト・ホームな<span type="ruby"><span type="rb">雁</span><span type="rp">（</span><span type="rt">がん</span><span type="rp">）</span></span>と<lb />
+そ<seg type="ruby"><seg type="rb">処</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>がいかにもアツト・ホームな<seg type="ruby"><seg type="rb">雁</seg><seg type="rp">（</seg><seg type="rt">がん</seg><seg type="rp">）</seg></seg>と<lb />
 道づれになるのを秧鶏は好かない<lb />
-強ひるやうに哀れげな昔<span type="ruby"><span type="rb">語</span><span type="rp">（</span><span type="rt">がたり</span><span type="rp">）</span></span>は<lb />
+強ひるやうに哀れげな昔<seg type="ruby"><seg type="rb">語</seg><seg type="rp">（</seg><seg type="rt">がたり</seg><seg type="rp">）</seg></seg>は<lb />
 ちぐはぐな相槌できくのは骨折れるので<lb />
 <lb />
 まもなく秧鶏は僕の庭にくるだらう<lb />
 そして　この伝記作者を残して<lb />
 来るときのやうに去るだらう<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　咏唱<lb />
 <lb />
@@ -475,10 +475,10 @@
 なつた<lb />
 充溢であつた日のやうに<lb />
 私の中に　私の憩ひに<lb />
-<span type="ruby"><span type="rb">鮮</span><span type="rp">（</span><span type="rt">あたら</span><span type="rp">）</span></span>しい陰影になつて<lb />
+<seg type="ruby"><seg type="rb">鮮</seg><seg type="rp">（</seg><seg type="rt">あたら</seg><seg type="rp">）</seg></seg>しい陰影になつて<lb />
 朝顔は咲くことは出来なく<lb />
 なつた<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　有明海の思ひ出<lb />
 <lb />
@@ -487,10 +487,10 @@
 私はひとり岸辺に残る<lb />
 わたしは既におそく<lb />
 天の彼方に<lb />
-海波は最後の一滴まで<span type="ruby"><span type="rb">沸</span><span type="rp">（</span><span type="rt">たぎ</span><span type="rp">）</span></span>り墜ち了り<lb />
-沈黙な合唱をかし<span type="ruby"><span type="rb">処</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>にしてゐる<lb />
+海波は最後の一滴まで<seg type="ruby"><seg type="rb">沸</seg><seg type="rp">（</seg><seg type="rt">たぎ</seg><seg type="rp">）</seg></seg>り墜ち了り<lb />
+沈黙な合唱をかし<seg type="ruby"><seg type="rb">処</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>にしてゐる<lb />
 月光の窓の恋人<lb />
-<span type="ruby"><span type="rb">叢</span><span type="rp">（</span><span type="rt">くさむら</span><span type="rp">）</span></span>にゐる犬　谷々に鳴る小川……の歌は<lb />
+<seg type="ruby"><seg type="rb">叢</seg><seg type="rp">（</seg><seg type="rt">くさむら</seg><seg type="rp">）</seg></seg>にゐる犬　谷々に鳴る小川……の歌は<lb />
 無限な泥海の輝き返るなかを<lb />
 縫ひながら<lb />
 私の岸に辿りつくよすがはない<lb />
@@ -498,17 +498,17 @@
 うち顫ひちらちらとする<lb />
 緑の島のあたりに<lb />
 遥かにわたしは目を放つ<lb />
-夢みつつ<span type="ruby"><span type="rb">誘</span><span type="rp">（</span><span type="rt">いざな</span><span type="rp">）</span></span>はれつつ<lb />
+夢みつつ<seg type="ruby"><seg type="rb">誘</seg><seg type="rp">（</seg><seg type="rt">いざな</seg><seg type="rp">）</seg></seg>はれつつ<lb />
 如何にしばしば少年等は<lb />
-各自の小さい<span type="ruby"><span type="rb">滑板</span><span type="rp">（</span><span type="rt">すべりいた</span><span type="rp">）</span></span>にのり<lb />
-<span type="ruby"><span type="rb">彼</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>の島を目指して滑り行つただらう<lb />
+各自の小さい<seg type="ruby"><seg type="rb">滑板</seg><seg type="rp">（</seg><seg type="rt">すべりいた</seg><seg type="rp">）</seg></seg>にのり<lb />
+<seg type="ruby"><seg type="rb">彼</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>の島を目指して滑り行つただらう<lb />
 あゝ　わが祖父の物語！<lb />
 泥海ふかく溺れた児らは<lb />
 透明に　透明に<lb />
-無数な<span rend="SESAME_DOT" rendition="strong">しやつぱ</span>に化身をしたと<lb />
+無数な<seg rend="SESAME_DOT" rendition="strong">しやつぱ</seg>に化身をしたと<lb />
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 5em; text-indent: -2em;">註　有明海沿の少年らは、小さい板にのり、八月の限りない干潟を蹴つて遠く滑る。<span rend="SESAME_DOT" rendition="strong">しやつぱ</span>は、泥海の底に孔をうがち棲む透明な一種の蝦。</span>
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="burasage" rendition="div" style="margin-left: 5em; text-indent: -2em;">註　有明海沿の少年らは、小さい板にのり、八月の限りない干潟を蹴つて遠く滑る。<seg rend="SESAME_DOT" rendition="strong">しやつぱ</seg>は、泥海の底に孔をうがち棲む透明な一種の蝦。</seg>
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　（読人不知）<lb />
 <lb />
@@ -517,28 +517,28 @@
 多くの旧い秋らに交つてゐる<lb />
 今年の秋を<lb />
 見分けるのに骨が折れる<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　かの微笑のひとを呼ばむ<lb />
 <lb />
 <lb />
 ………………………………………<lb />
 ………………………………………<lb />
-われ　烈しき森に切に<span type="ruby"><span type="rb">憔</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>れて<lb />
+われ　烈しき森に切に<seg type="ruby"><seg type="rb">憔</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>れて<lb />
 日の了る明るき断崖のうへに出でぬ<lb />
 静寂はそのよき時を念じ<lb />
 海原に絶ゆるなき波濤の花を咲かせたり<lb />
 あゝ　黙想の後の歌はあらじ<lb />
 われこの魍魅の白き穂波蹈み<lb />
-夕月におほ海の<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>渉ると<lb />
+夕月におほ海の<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>渉ると<lb />
 かの味気なき微笑のひとを呼ばむ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　病院の患者の歌<lb />
 <lb />
 <lb />
 あの大へん見はらしのきいた　山腹にある<lb />
-友人の<span type="ruby"><span type="rb">離室</span><span type="rp">（</span><span type="rt">はなれ</span><span type="rp">）</span></span>などで<lb />
+友人の<seg type="ruby"><seg type="rb">離室</seg><seg type="rp">（</seg><seg type="rt">はなれ</seg><seg type="rp">）</seg></seg>などで<lb />
 自分の肺病を癒さうとしたのは私の不明だつた<lb />
 <lb />
 友人といふものは　あれは　私の生きてゐる亡父だ<lb />
@@ -547,7 +547,7 @@
 <lb />
 今度の　私のは入つた町なかの病院に<lb />
 来て見給へ<lb />
-深遠な書物の<span type="ruby"><span type="rb">如</span><span type="rp">（</span><span type="rt">やう</span><span type="rp">）</span></span>なあそこでのやうに<lb />
+深遠な書物の<seg type="ruby"><seg type="rb">如</seg><seg type="rp">（</seg><seg type="rt">やう</seg><seg type="rp">）</seg></seg>なあそこでのやうに<lb />
 景色を自分で截り取る苦労が<lb />
 だいいち　私にはまぬかれる<lb />
 <lb />
@@ -555,7 +555,7 @@
 狭い中庭に　コースが一目でわかる様<lb />
 稲妻やいろいろな平仮名やの形になつてゐる<lb />
 思ひがけず接近する彎曲路で<lb />
-他の患者と微笑を交はすのは<span type="ruby"><span type="rb">遜</span><span type="rp">（</span><span type="rt">へりくだ</span><span type="rp">）</span></span>つた楽しみだ<lb />
+他の患者と微笑を交はすのは<seg type="ruby"><seg type="rb">遜</seg><seg type="rp">（</seg><seg type="rt">へりくだ</seg><seg type="rp">）</seg></seg>つた楽しみだ<lb />
 <lb />
 その散歩時間の始めと終りを<lb />
 病院は患者に知らせる仕掛として――振鈴などの代りに<lb />
@@ -570,25 +570,25 @@
 私は独木舟にのり猟銃をさげて<lb />
 その十二個のどの島にでも<lb />
 随時ずゐ意に上陸出来るやうになつてゐる<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　行つて　お前のその憂愁の深さのほどに<lb />
 <lb />
 <lb />
-大いなる鶴夜のみ空を<span type="ruby"><span type="rb">翔</span><span type="rp">（</span><span type="rt">かけ</span><span type="rp">）</span></span>り<lb />
-あるひはわが<span type="ruby"><span type="rb">微睡</span><span type="rp">（</span><span type="rt">まどろ</span><span type="rp">）</span></span>む家の暗き屋根を<lb />
+大いなる鶴夜のみ空を<seg type="ruby"><seg type="rb">翔</seg><seg type="rp">（</seg><seg type="rt">かけ</seg><seg type="rp">）</seg></seg>り<lb />
+あるひはわが<seg type="ruby"><seg type="rb">微睡</seg><seg type="rp">（</seg><seg type="rt">まどろ</seg><seg type="rp">）</seg></seg>む家の暗き屋根を<lb />
 月光のなかに踏みとどろかすなり<lb />
 わが去らしめしひとはさり……<lb />
 四月のまつ青き麦は<lb />
-はや後悔の<span type="ruby"><span type="rb">糧</span><span type="rp">（</span><span type="rt">かて</span><span type="rp">）</span></span>にと<span type="ruby"><span type="rb">収穫</span><span type="rp">（</span><span type="rt">とりい</span><span type="rp">）</span></span>れられぬ<lb />
+はや後悔の<seg type="ruby"><seg type="rb">糧</seg><seg type="rp">（</seg><seg type="rt">かて</seg><seg type="rp">）</seg></seg>にと<seg type="ruby"><seg type="rb">収穫</seg><seg type="rp">（</seg><seg type="rt">とりい</seg><seg type="rp">）</seg></seg>れられぬ<lb />
 <lb />
-魔王死に絶えし森の<span type="ruby"><span type="rb">辺</span><span type="rp">（</span><span type="rt">へ</span><span type="rp">）</span></span><lb />
-遥かなる<span type="ruby"><span type="rb">合歓花</span><span type="rp">（</span><span type="rt">がふくわんくわ</span><span type="rp">）</span></span>を咲かす庭に<lb />
+魔王死に絶えし森の<seg type="ruby"><seg type="rb">辺</seg><seg type="rp">（</seg><seg type="rt">へ</seg><seg type="rp">）</seg></seg><lb />
+遥かなる<seg type="ruby"><seg type="rb">合歓花</seg><seg type="rp">（</seg><seg type="rt">がふくわんくわ</seg><seg type="rp">）</seg></seg>を咲かす庭に<lb />
 群るる童子らはうち囃して<lb />
 わがひとのかなしき声をまねぶ……<lb />
 （行つて　お前のその憂愁の深さのほどに<lb />
-明るくかし<span type="ruby"><span type="rb">処</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>を彩れ）と<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+明るくかし<seg type="ruby"><seg type="rb">処</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>を彩れ）と<lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　河辺の歌<lb />
 <lb />
@@ -610,7 +610,7 @@
 私に残つた時間の本性！<lb />
 孤独の正確さ<lb />
 その精密な計算で<lb />
-<span type="ruby"><span type="rb">熾</span><span type="rp">（</span><span type="rt">さかん</span><span type="rp">）</span></span>な陽の中に<lb />
+<seg type="ruby"><seg type="rb">熾</seg><seg type="rp">（</seg><seg type="rt">さかん</seg><seg type="rp">）</seg></seg>な陽の中に<lb />
 はやも自身をほろぼし始める<lb />
 野朝顔の一輪を<lb />
 私はみつける<lb />
@@ -626,46 +626,46 @@
 飛行の夢に<lb />
 私は決して見捨てられは<lb />
 しなかつたのだ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　漂泊<lb />
 <lb />
 <lb />
 底深き海藻のなほ　日光に震ひ<lb />
 その葉とくるごとく<lb />
-おのづと<span type="ruby"><span type="rb">目</span><span type="rp">（</span><span type="rt">まなこ</span><span type="rp">）</span></span>あき<lb />
+おのづと<seg type="ruby"><seg type="rb">目</seg><seg type="rp">（</seg><seg type="rt">まなこ</seg><seg type="rp">）</seg></seg>あき<lb />
 見知られぬ入海にわれ浮くとさとりぬ<lb />
-あゝ　幾歳を経たりけむ　<span type="ruby"><span type="rb">水門</span><span type="rp">（</span><span type="rt">みなと</span><span type="rp">）</span></span>の彼方<lb />
+あゝ　幾歳を経たりけむ　<seg type="ruby"><seg type="rb">水門</seg><seg type="rp">（</seg><seg type="rt">みなと</seg><seg type="rp">）</seg></seg>の彼方<lb />
 高まり　沈む波の揺籃<lb />
 懼れと倨傲とぞ永く<lb />
 その歌もてわれを眠らしめし<lb />
 われは見ず<lb />
 この御空の青に堪へたる鳥を<lb />
-魚族追ふ<span type="ruby"><span type="rb">雲母岩</span><span type="rp">（</span><span type="rt">きらら</span><span type="rp">）</span></span>の光……<lb />
+魚族追ふ<seg type="ruby"><seg type="rb">雲母岩</seg><seg type="rp">（</seg><seg type="rt">きらら</seg><seg type="rp">）</seg></seg>の光……<lb />
 め覚めたるわれを遶りて<lb />
-<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ためら</span><span type="rp">）</span></span>はぬ櫂音ひびく<lb />
+<seg type="ruby"><seg type="rb">躊躇</seg><seg type="rp">（</seg><seg type="rt">ためら</seg><seg type="rp">）</seg></seg>はぬ櫂音ひびく<lb />
 あゝ　われ等さまたげられず　遠つ人！<lb />
 島びとが群れ漕ぐ舟ぞ<lb />
 ――いま　入海の奥の岩間は<lb />
-孤独者の<span type="ruby"><span type="rb">潔</span><span type="rp">（</span><span type="rt">きよ</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">水浴</span><span type="rp">（</span><span type="rt">ゆあみ</span><span type="rp">）</span></span>に真清水を噴く――<lb />
+孤独者の<seg type="ruby"><seg type="rb">潔</seg><seg type="rp">（</seg><seg type="rt">きよ</seg><seg type="rp">）</seg></seg>き<seg type="ruby"><seg type="rb">水浴</seg><seg type="rp">（</seg><seg type="rt">ゆあみ</seg><seg type="rp">）</seg></seg>に真清水を噴く――<lb />
 と告げたる<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　寧ろ彼らが私のけふの日を歌ふ<lb />
 <lb />
 <lb />
 耀かしかつた短い日のことを<lb />
 ひとびとは歌ふ<lb />
-ひとびとの思ひ出の<span type="ruby"><span type="rb">中</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>で<lb />
-それらの日は<span type="ruby"><span type="rb">狡</span><span type="rp">（</span><span type="rt">ずる</span><span type="rp">）</span></span>く<lb />
+ひとびとの思ひ出の<seg type="ruby"><seg type="rb">中</seg><seg type="rp">（</seg><seg type="rt">なか</seg><seg type="rp">）</seg></seg>で<lb />
+それらの日は<seg type="ruby"><seg type="rb">狡</seg><seg type="rp">（</seg><seg type="rt">ずる</seg><seg type="rp">）</seg></seg>く<lb />
 いい時と場所とをえらんだのだ<lb />
 ただ一つの沼が世界ぢゆうにひろごり<lb />
-ひとの目を<span type="ruby"><span type="rb">囚</span><span type="rp">（</span><span type="rt">とら</span><span type="rp">）</span></span>へるいづれもの沼は<lb />
+ひとの目を<seg type="ruby"><seg type="rb">囚</seg><seg type="rp">（</seg><seg type="rt">とら</seg><seg type="rp">）</seg></seg>へるいづれもの沼は<lb />
 それでちつぽけですんだのだ<lb />
 私はうたはない<lb />
 短かかつた耀かしい日のことを<lb />
 寧ろ彼らが私のけふの日を歌ふ<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　鶯（一老人の詩）<lb />
 <lb />
@@ -673,7 +673,7 @@
 （私の魂）といふことは言へない<lb />
 その証拠を私は君に語らう<lb />
 ――幼かつた遠い昔　私の友が<lb />
-或る深い山の<span type="ruby"><span type="rb">縁</span><span type="rp">（</span><span type="rt">へり</span><span type="rp">）</span></span>に住んでゐた<lb />
+或る深い山の<seg type="ruby"><seg type="rb">縁</seg><seg type="rp">（</seg><seg type="rt">へり</seg><seg type="rp">）</seg></seg>に住んでゐた<lb />
 私は稀にその家を訪うた<lb />
 すると　彼は山懐に向つて<lb />
 奇妙に鋭い口笛を吹き鳴らし<lb />
@@ -681,7 +681,7 @@
 そして忘れ難いその美しい鳴き声で<lb />
 私をもてなすのが常であつた<lb />
 然し　まもなく彼は医学枚に入るために<lb />
-<span type="ruby"><span type="rb">市</span><span type="rp">（</span><span type="rt">まち</span><span type="rp">）</span></span>に行き<lb />
+<seg type="ruby"><seg type="rb">市</seg><seg type="rp">（</seg><seg type="rt">まち</seg><seg type="rp">）</seg></seg>に行き<lb />
 山の家は見捨てられた<lb />
 それからずつと――半世紀もの後に<lb />
 私共は半白の人になつて<lb />
@@ -705,7 +705,7 @@
 私の唇にのぼつて来る<lb />
 私はそれを君の老年のために<lb />
 書きとめた<lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
 　（読人不知）<lb />
 <lb />
@@ -716,6 +716,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

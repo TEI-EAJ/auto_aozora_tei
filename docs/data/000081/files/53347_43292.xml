@@ -32,10 +32,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 水はよどみて　　日はけぶり<lb />
-桜は青き　　　　夢の<span type="ruby"><span type="rb">列</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span><lb />
-<span type="ruby"><span type="rb">汝</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>は酔ひ<span type="ruby"><span type="rb">痴</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>れて　うちをどる<lb />
+桜は青き　　　　夢の<seg type="ruby"><seg type="rb">列</seg><seg type="rp">（</seg><seg type="rt">つら</seg><seg type="rp">）</seg></seg><lb />
+<seg type="ruby"><seg type="rb">汝</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>は酔ひ<seg type="ruby"><seg type="rb">痴</seg><seg type="rp">（</seg><seg type="rt">し</seg><seg type="rp">）</seg></seg>れて　うちをどる<lb />
 泥洲の上に　　　うちをどる<lb />
 <lb />
 母をはるけき　　なが弟子は<lb />
@@ -45,6 +45,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

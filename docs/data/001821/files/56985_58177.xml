@@ -40,9 +40,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">岩魚</span></span></span>
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="sho1" style="font-size: small;">――宋青磁浮紋双魚鉢――</span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">岩魚</seg></seg></seg>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="sho1" rendition="span" style="font-size: small;">――宋青磁浮紋双魚鉢――</seg></seg>
 <lb />
 五月のあかるい昼さがり<lb />
 あまりに生の時間が重いので<lb />
@@ -59,7 +59,7 @@
 いつのまにか蒼天をおよいでいる<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">鮭</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">鮭</seg></seg></seg>
 <lb />
 白い皿の上の<lb />
 鮭の切身<lb />
@@ -76,7 +76,7 @@
 いつたりきたりする<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">すずめ</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">すずめ</seg></seg></seg>
 <lb />
 ながい間<lb />
 雀は小さい卵をあたためていた<lb />
@@ -96,7 +96,7 @@
 かすかな声をきいていた<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">落日</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">落日</seg></seg></seg>
 <lb />
 小綬鶏は人道をよけて通る<lb />
 ひよこをおおぜいひきつれ<lb />
@@ -114,7 +114,7 @@
 ちかちかと黄いろい灯がともつて消える<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">西瓜畑</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">西瓜畑</seg></seg></seg>
 <lb />
 昨日まで<lb />
 ごろごろころがつていた　西瓜畑に<lb />
@@ -135,7 +135,7 @@
 原つぱがあつて　その上に空があつた<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">遠い友よ</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">遠い友よ</seg></seg></seg>
 <lb />
 風のなか<lb />
 まひるの山の峠で出あつた<lb />
@@ -160,7 +160,7 @@
 すすきのかげに消えていつた<lb />
 <lb />
 <lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">石の思想</span></span></span>
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">石の思想</seg></seg></seg>
 <lb />
 広い河原にいつて<lb />
 石の間にもぐり込むのがすきだ<lb />
@@ -184,6 +184,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

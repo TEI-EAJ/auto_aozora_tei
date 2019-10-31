@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>悪霊物語</title>
+        <author>江戸川乱歩</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-06-28">作成</resp><resp /><note>
+<lb />
+底本：「江戸川乱歩全集　第17巻　化人幻戯」光文社文庫、光文社<lb />
+　　　2005（平成17）年4月20日初版1刷発行<lb />
+底本の親本：「江戸川乱歩全集　第十六巻」春陽堂<lb />
+　　　1955（昭和30）年12月<lb />
+初出：「講談倶楽部」講談社<lb />
+　　　1954（昭和29）年9月増刊<lb />
+※底本巻末の編者による語注は省略しました。<lb />
+入力：入江幹夫<lb />
+校正：植松健伍<lb />
+<date when="2019-06-28">2019年6月28日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>入江幹夫</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>植松健伍</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>悪霊物語</title><author>江戸川乱歩</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">老人形師</seg></seg></seg>
+<lb />
+　小説家大江蘭堂は、人形師の仕事部屋のことを書く必要に迫られた。ブリタニカや、アメリカナや、大百科辞典をひいて見たが、そういう具体的なことはわからなかった。<lb />
+　蘭堂は、いつも服をつくらせている<seg type="ruby"><seg type="rb">銀座</seg><seg type="rp">（</seg><seg type="rt">ぎんざ</seg><seg type="rp">）</seg></seg>の洋服屋に電話をかけた。そして、表の店に飾ってあるマネキン人形は、どこから仕入れているのかと<seg type="ruby"><seg type="rb">訊</seg><seg type="rp">（</seg><seg type="rt">たず</seg><seg type="rp">）</seg></seg>ねた。<lb />
+　マネキン<seg type="ruby"><seg type="rb">問屋</seg><seg type="rp">（</seg><seg type="rt">どんや</seg><seg type="rp">）</seg></seg>の電話番号がわかったので、そこへ電話した。こちらは小説家の大江蘭堂だが、人形師の仕事部屋が見たい。なるべく奇怪な仕事部屋がいい。一つ<seg type="ruby"><seg type="rb">変</seg><seg type="rp">（</seg><seg type="rt">かわ</seg><seg type="rp">）</seg></seg>り<seg type="ruby"><seg type="rb">者</seg><seg type="rp">（</seg><seg type="rt">もの</seg><seg type="rp">）</seg></seg>の人形師を教えてくれないかと<seg type="ruby"><seg type="rb">云</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>うと、<seg type="ruby"><seg type="rb">先方</seg><seg type="rp">（</seg><seg type="rt">せんぽう</seg><seg type="rp">）</seg></seg>は電話口で、エヘヘヘヘヘと気味わるく笑った。<lb />
+「あなたさまは、あの恐ろしい怪奇小説をお書きになる大江蘭堂先生でございますか。エヘヘヘヘヘ、それでしたら、ちょうどおあつらえむきの老人の人形師がございますよ。名人ですがね、そのアトリエには、だれもはいったものがございません。秘密にしているのです。しかしね、先生、先生でしたら見せてくれますよ。<seg type="ruby"><seg type="rb">伴天連爺</seg><seg type="rp">（</seg><seg type="rt">バテレンじい</seg><seg type="rp">）</seg></seg>さんは、いえね、これがその人形師のあだ名でございますが、その伴天連爺さんは、あなたさまが好きなのです。あなたさまの小説の大の愛読者なのでございます。いつも、いちど先生にお目にかかって、お話がうかがいたいと申しております。先生のことなら、きっと喜んで、秘密のアトリエを見せてくれますよ」<lb />
+　ひどくお愛想のいい店員であった。伴天連爺さんのアトリエは<seg type="ruby"><seg type="rb">世田谷</seg><seg type="rp">（</seg><seg type="rt">せたがや</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">経堂</seg><seg type="rp">（</seg><seg type="rt">きょうどう</seg><seg type="rp">）</seg></seg>にあるのだという。ぜひ、その爺さんに紹介してくれとたのむと、電話で、先方の都合を聞いて見ますから、しばらくお待ち下さいといって、いちど電話を切ったが、間もなく返事が来た。<lb />
+「先生、先方はよろこんでおります。今晩七時ごろに手がすくから、その頃おたずねくだされば、お待ちすると云っております。先生にくれぐれもよろしくと申しました」<lb />
+　そこで、大江蘭堂は、その晩、経堂の伴天連爺さんを訪問することにした。<lb />
+　経堂の駅で電車をおりて、教えられた道を十丁ほど行くと、街角に大きな<seg type="ruby"><seg type="rb">石地蔵</seg><seg type="rp">（</seg><seg type="rt">いしじぞう</seg><seg type="rp">）</seg></seg>が立っていた。その向うは森になっていて、森のわきを歩いて行くと、<seg type="ruby"><seg type="rb">生垣</seg><seg type="rp">（</seg><seg type="rt">いけがき</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">塀</seg><seg type="rp">（</seg><seg type="rt">へい</seg><seg type="rp">）</seg></seg>ばかりの<seg type="ruby"><seg type="rb">屋敷町</seg><seg type="rp">（</seg><seg type="rt">やしきまち</seg><seg type="rp">）</seg></seg>で、ところどころに草の生えた<seg type="ruby"><seg type="rb">空地</seg><seg type="rp">（</seg><seg type="rt">あきち</seg><seg type="rp">）</seg></seg>があった。ボンヤリした街燈をたよりに、やっと目的の家にたどりついた。ガラスの割れた門燈が「<seg type="ruby"><seg type="rb">日暮紋三</seg><seg type="rp">（</seg><seg type="rt">ひぐれもんぞう</seg><seg type="rp">）</seg></seg>」という表札を照らしていた。これが伴天連爺さんの本名なのである。<lb />
+　とびらもない門をはいって行くと、草の中に古い木造の洋館が建っていた。<lb />
+　こちらの足音を聞きつけたのであろう。玄関のドアがひらいて、赤い光の中に小柄な老人のシルエットが浮き出した。赤い光はチロチロ動いていた。老人は<seg type="ruby"><seg type="rb">燭台</seg><seg type="rp">（</seg><seg type="rt">しょくだい</seg><seg type="rp">）</seg></seg>を自分のからだのうしろに持って、こちらをじっと見ているらしかった。<lb />
+「大江蘭堂先生でしょうな？　どうぞ、おはいり下さい。お待ちしておりました」<lb />
+　何かの鳥がさえずっているような、妙に若々しい声であった。<lb />
+「わたしがバテレンじじいです。よくおいで下さった。さア、こちらへおはいりください」<lb />
+　手をとらんばかりにして、廊下のドアをひらき、書斎らしい洋間に<seg type="ruby"><seg type="rb">請</seg><seg type="rp">（</seg><seg type="rt">しょう</seg><seg type="rp">）</seg></seg>じ入れた。<lb />
+　部屋にも電燈はなかった。爺さんはあたりの様子を見せるように、太い<seg type="ruby"><seg type="rb">蝋燭</seg><seg type="rp">（</seg><seg type="rt">ろうそく</seg><seg type="rp">）</seg></seg>の燭台をふりてらしてから、それを机の上に置いた。<lb />
+　書棚にえたいの知れぬ古本がならんでいた。壁には、レオナルド・ダ・ヴィンチの人体解剖図の大きな複製がベタベタ貼りつけてあった。村役場にあるような粗末な木机と木の<seg type="ruby"><seg type="rb">椅子</seg><seg type="rp">（</seg><seg type="rt">いす</seg><seg type="rp">）</seg></seg>、蘭堂はその一つにかけさせられ、爺さんも向かいあって腰かけた。<lb />
+　これはすばらしい。これはもう、そのまま怪談の材料になる。蘭堂はホクホクしていた。爺さんも蘭堂に会えたのが、ひどく<seg type="ruby"><seg type="rb">嬉</seg><seg type="rp">（</seg><seg type="rt">うれ</seg><seg type="rp">）</seg></seg>しいらしく、<lb />
+「よく来て下さった。なんでもお見せします。なんでもお話しします。じゃが、その前に一ぱい<seg type="ruby"><seg type="rb">如何</seg><seg type="rp">（</seg><seg type="rt">いかが</seg><seg type="rp">）</seg></seg>ですな。上等のコニャックがあります」<lb />
+　そういって、本棚の古本のあいだに入れてあった、変な形の<seg type="ruby"><seg type="rb">酒瓶</seg><seg type="rp">（</seg><seg type="rt">さかびん</seg><seg type="rp">）</seg></seg>とグラスを二つ持って来て、酒をついだ。蘭堂がグラスを取って、<seg type="ruby"><seg type="rb">嗅</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>いで見ると、なるほどすばらしいコニャックだ。チビリとやって、爺さんの顔を見ていると、爺さんもチビリとやって、ニヤニヤと笑った。<lb />
+「人形師の秘密がお知りになりたいのですな、小説にお書きになる？」<lb />
+　だんだん蝋燭の光が目に慣れて来た。爺さんは、六十五六歳に見えた。黒いダブダブの洋服を着て、<seg type="ruby"><seg type="rb">痩</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>せて、顔におそろしく<seg type="ruby"><seg type="rb">皺</seg><seg type="rp">（</seg><seg type="rt">しわ</seg><seg type="rp">）</seg></seg>があった。目は澄んでいた。茶色の<seg type="ruby"><seg type="rb">瞳</seg><seg type="rp">（</seg><seg type="rt">ひとみ</seg><seg type="rp">）</seg></seg>だった。顔にも老年のシミが目立っていた。<lb />
+「マネキン人形は<seg type="ruby"><seg type="rb">鋸屑</seg><seg type="rp">（</seg><seg type="rt">おがくず</seg><seg type="rp">）</seg></seg>と紙を型にはめて、そとがわにビニールを塗るのですか」<lb />
+「そういうのもあります。いろいろありますよ。しかし、わたしは、ショーウィンドウのマネキンなんか造りません。そんなものは、<seg type="ruby"><seg type="rb">弟子</seg><seg type="rp">（</seg><seg type="rt">でし</seg><seg type="rp">）</seg></seg>たちにやらせます。わたしは本職の人形師です。子供の時分に、安本亀八に弟子入りしたこともある。日本式の<seg type="ruby"><seg type="rb">生人形</seg><seg type="rp">（</seg><seg type="rt">いきにんぎょう</seg><seg type="rp">）</seg></seg>ですよ。<seg type="ruby"><seg type="rb">桐</seg><seg type="rp">（</seg><seg type="rt">きり</seg><seg type="rp">）</seg></seg>の木に彫るのです。上から<seg type="ruby"><seg type="rb">胡粉</seg><seg type="rp">（</seg><seg type="rt">ごふん</seg><seg type="rp">）</seg></seg>を塗ってみがくのです。これは今でもやりますがね。しかし、なんといっても<seg type="ruby"><seg type="rb">蝋</seg><seg type="rp">（</seg><seg type="rt">ろう</seg><seg type="rp">）</seg></seg>人形ですね。ロンドンのチュソー夫人の蝋人形館のあれです。わたしは今から二十年ほど前に、ロンドンへ行って、あの人形を見て来ました。日本の生人形も名人が造ったやつは生きてますが、チュソー夫人の蝋人形と来たら、まるで人間ですね。生きているのですよ。死体人形なら、ほんとうに死んでいるのですよ。大江先生はロンドンへおいでになったことは……？」<lb />
+「ありません。しかし、チュソー夫人のことは本を読んで知ってますよ。僕もあの蝋人形は好きですね。<seg type="ruby"><seg type="rb">皮膚</seg><seg type="rp">（</seg><seg type="rt">ひふ</seg><seg type="rp">）</seg></seg>がすき通って、血が<seg type="ruby"><seg type="rb">通</seg><seg type="rp">（</seg><seg type="rt">かよ</seg><seg type="rp">）</seg></seg>っているようでしょう」<lb />
+「そうです、そうです。血が通っています。死体人形なら、<seg type="ruby"><seg type="rb">脈</seg><seg type="rp">（</seg><seg type="rt">みゃく</seg><seg type="rp">）</seg></seg>がとまったようです」<lb />
+「で、あなたは、蝋人形を造っておられるのですか」<lb />
+「そうです。今は蝋人形がおもです。医学校や博物館の生理模型ですよ。病気の模型が多いのです。だが、それはただ<seg type="ruby"><seg type="rb">金儲</seg><seg type="rp">（</seg><seg type="rt">かねもう</seg><seg type="rp">）</seg></seg>けのためです。美術とは云えません。わたしは模型人形で暮らしを立てて、一方で美術人形の研究をしているのですよ。大江先生はむろんご承知でしょうが、ホフマンの『砂男』に出て来る美しい娘人形、オリンピア嬢でしたかね。あれがわたしの念願ですよ。おわかりでしょう。世の中の青年たちが真剣に恋をするような人形ですね」<lb />
+　伴天連爺さんは、なかなか物知りであった。ホフマンのナタニエル青年は、生きた娘よりも、人形のオリンピアに命がけの恋をしたのである。<lb />
+「それでは、ジェローム・ケイ・ジェロームの『ダンス人形』をお読みになったことがありますか」<lb />
+　蘭堂はつい誘いこまれて、西洋小説の話をはじめた。すると爺さんはニコニコして、<lb />
+「読みましたとも、あれはわたしの一ばん好きな小説の一つですよ。娘たちのダンスの相手として、いつまで踊っても疲れない鉄の男人形を造ってやる人形師の名人の話でしょう。わたしはああいう名人になりたくて、修業したのですよ。あの鉄の人形も、生きて動き出したのですね。一人の娘を抱いたまま、無限に踊りつづけたのですね。実にいい話だ。ああいう小説を読むと、人形師の<seg type="ruby"><seg type="rb">生</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>き<seg type="ruby"><seg type="rb">甲斐</seg><seg type="rp">（</seg><seg type="rt">がい</seg><seg type="rp">）</seg></seg>を感じますよ」<lb />
+　ジェロームの「ダンス人形」は訳が出ていないはずだから、この老人形師は外国語も読めるのであろう。あらためて書棚の古本を眺めると、英語でもフランス語でもドイツ語でもない背文字があった。蘭堂はなんだか気味がわるくなって来た。目の前の皺だらけの小さな老人が、奥底の知れない人物に感じられて来た。<lb />
+「蝋人形はどうして造るのですか。やはり型にはめるのですか」<lb />
+「<seg type="ruby"><seg type="rb">粘土</seg><seg type="rp">（</seg><seg type="rt">ねんど</seg><seg type="rp">）</seg></seg>で原型を造ることもありますが、直接実物からとる場合もあるのです」<lb />
+「実物からとは？」<lb />
+「食堂のショーウィンドウに並んでいる蝋製の料理見本をごらんになったことがあるでしょう。あれは実物に<seg type="ruby"><seg type="rb">石膏</seg><seg type="rp">（</seg><seg type="rt">せっこう</seg><seg type="rp">）</seg></seg>をぶっかけて、<seg type="ruby"><seg type="rb">女型</seg><seg type="rp">（</seg><seg type="rt">めがた</seg><seg type="rp">）</seg></seg>をつくることが多いのですよ。そこへ蝋を流しこんで固め、彩色するのです。人間でも同じことです。ただ石膏がたくさんいるだけですよ」<lb />
+「じゃあ、人間の肌に石膏をぬるのですね」<lb />
+「そうです。ごらんなさい。ここに見本がありますよ。ホラ、これがわたしの手です。実物と見くらべてごらんなさい」<lb />
+　やっぱり本棚の古本のあいだから、ひらいた人間の手を取り出して、机の上においた。手首のところから切りとった<seg type="ruby"><seg type="rb">手</seg><seg type="rp">（</seg><seg type="rt">て</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">平</seg><seg type="rp">（</seg><seg type="rt">ひら</seg><seg type="rp">）</seg></seg>である。老人形師は、自分の手をひらいて、それとならべて机の上にさし出した。小さな皺の一つ一つ、しなびた老人の手の<seg type="ruby"><seg type="rb">色合</seg><seg type="rp">（</seg><seg type="rt">いろあい</seg><seg type="rp">）</seg></seg>が、そのまま出ている。どちらが本物かわからないほどであった。<lb />
+「これは、わたしの手に石膏をぬって、女型をとったのです。全身をとるのも、りくつは同じですよ」<lb />
+「では、ほんとうの人間からとった全身人形も造ったことがあるのですね」<lb />
+「ありますとも、画家がモデルを使うように、人形師もモデルを使うのです。モデルはドロドロの石膏にうずまるのですから、あまり気持がよくありませんがね。顔をとるときは、鼻の穴にゴム管を通して、息ができるようにしておくのです。たいていの娘はいやがりますが、なかには、石膏にとじこめられ、抱きしめられるような気持が好きだといって、進んでモデルになる娘もいますよ」<lb />
+　伴天連爺さんは、歯の抜けた口をあけて、ニヤニヤと笑った。<lb />
+「そのアトリエを見せていただきたいものですね」<lb />
+「むろん、お見せしますよ。では、これをすっかり飲んでから、アトリエへ行きましょう、今晩はうすら寒いですから、からだをあたためてからね」<lb />
+　老人はそういって、グラスを取りあげ、グッとのみほした。蘭堂もそれにならった。強い酒が腹にしみわたって、からだがほてってくるようであった。<lb />
+　老人は机の上の燭台を持って、先に立った。そのとき、蝋燭の光の加減で、机の上にほうり出してある蝋製の手首が少し動いたように見えた。それから、まっ暗な廊下を三<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">げん</seg><seg type="rp">）</seg></seg>ほど行ったところで、老人は何かカチカチ云わせている。ポケットから取り出した鍵でドアをあけようとしているのだ。<lb />
+「このあいだ電燈会社と<seg type="ruby"><seg type="rb">喧嘩</seg><seg type="rp">（</seg><seg type="rt">けんか</seg><seg type="rp">）</seg></seg>をしてしまいましてね、電燈がつかないのです。少々暗いが、我慢して下さい。もっとも、わたしは夜は仕事をしませんから、電燈がなくても、べつに<seg type="ruby"><seg type="rb">差支</seg><seg type="rp">（</seg><seg type="rt">さしつか</seg><seg type="rp">）</seg></seg>えありませんがね」<lb />
+　弁解をしているうちに、ドアがひらくと、彼は燭台をヌッとこちらへさし出して、しばらく、じっと蘭堂の顔を見つめていた。<lb />
+「びっくりしてはいけませんよ。なにしろ蝋人形というやつは、ちょっと気味のわるいものですからね」<lb />
+　警告するように云って、部屋の中へはいって行った。蘭堂は年甲斐もなく、少し<seg type="ruby"><seg type="rb">怖</seg><seg type="rp">（</seg><seg type="rt">こわ</seg><seg type="rp">）</seg></seg>くなって来たが、それがまた、たまらない魅力でもあった。彼はオズオズと老人のあとにつづいた。<lb />
+<lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">妖美人</seg></seg></seg>
+<lb />
+　燭台の蝋燭が部屋の中をソロソロと動いて行った。その光の中へ、何もない<seg type="ruby"><seg type="rb">床</seg><seg type="rp">（</seg><seg type="rt">ゆか</seg><seg type="rp">）</seg></seg>や、粘土のかたまりや、彫刻用のコテや、石膏のかけらや、いろいろのガラクタが、次々と現われては消えて行く。そして、ピッタリ光が動かなくなった。そこに異様な物体が横たわっていた。大きなものであった。<lb />
+「これ、なんですか」<lb />
+　気味がわるくて、黙っていられなかった。<lb />
+「よくごらんなさい。<seg type="ruby"><seg type="rb">死骸</seg><seg type="rp">（</seg><seg type="rt">しがい</seg><seg type="rp">）</seg></seg>ですよ。<seg type="ruby"><seg type="rb">断末魔</seg><seg type="rp">（</seg><seg type="rt">だんまつま</seg><seg type="rp">）</seg></seg>です。<seg type="ruby"><seg type="rb">知死期</seg><seg type="rp">（</seg><seg type="rt">ちしご</seg><seg type="rp">）</seg></seg>です。わたしの自慢の作品ですよ」<lb />
+　土色の男のからだであった。目が血ばしって赤く、<seg type="ruby"><seg type="rb">唇</seg><seg type="rp">（</seg><seg type="rt">くちびる</seg><seg type="rp">）</seg></seg>がまっ<seg type="ruby"><seg type="rb">青</seg><seg type="rp">（</seg><seg type="rt">さお</seg><seg type="rp">）</seg></seg>だった。<seg type="ruby"><seg type="rb">頸</seg><seg type="rp">（</seg><seg type="rt">くび</seg><seg type="rp">）</seg></seg>から胸にかけて、黒い血が凝固していた。頭にも胸にも<seg type="ruby"><seg type="rb">腿</seg><seg type="rp">（</seg><seg type="rt">もも</seg><seg type="rp">）</seg></seg>にもほんとうの毛が植えてあった。<lb />
+「これもほんとうの人間から型を取ったのですか」<lb />
+　蘭堂は声が震えないように用心しなければならなかった。<lb />
+「そうです。生きた人間からです。まさか死骸からではありませんよ」<lb />
+　伴天連爺さんは、そういってから、フフと笑った。<lb />
+　その次には、皮膚病の半身像や、変てこな局部像が、いろいろ並んでいた。並んでいるというよりは、ころがっていた。ひどく生き生きとして、今にも動き出しそうなものもあった。<lb />
+「このつぎに、面白いものがあります。蝋燭を消しますよ。でないと、感じが出ないのです」<lb />
+　フッと火が消えて、まっ黒なビロードに包まれた感じであった。突然めくらになったように、まったく何も見えなかった。<lb />
+「さア、両手を出して、さわってごらんなさい。目で見てはちっとも美しくないけれども、手でさわれば、たまらない美しさです。わたしが考え出した類のない美術品です。ですから、夜をえらんだのですよ。先生にわざと<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よる</seg><seg type="rp">）</seg></seg>来ていただいたのです。目で見ないで、手だけで見るというのには、昼間はぐあいがわるいですからね。これは手で見るのですよ。つまり触覚の美術です」<lb />
+　蘭堂はいわれるままに、オズオズとそれにさわって見た。冷たいなめらかな肌であった。<lb />
+「もっと手をのばして、全体をなでまわしてごらんなさい」<lb />
+　だんだん手をのばして行くと、それは人間のからだに似たものであることがわかった。しかし、普通の人間ではない。手が何本もある。足が何本もある。肉体の山と谷が無数にある。<lb />
+　はじめは薄気味がわるかった。不快でさえあった。だが、なでまわしているうちに、神経の底から妙な感じが湧き上がって来た。今まで一度も経験しなかった不思議な快感であった。そこには、想像し得るあらゆる美しい曲線が、微妙に組合わされていた。スベスベした、なだらかな運動感があった。手が自然にすべって行く、そのすべり方に、異様な快感があった。それは触覚だけでなくて運動感覚にも訴える美しさであった。<lb />
+　老人は暗闇の中で、息の<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>も立てないで、小説家の感動を感じ取ろうとしていた。蘭堂の両の手が、はじめはゆるゆると、やがて、<seg type="ruby"><seg type="rb">徐々</seg><seg type="rp">（</seg><seg type="rt">じょじょ</seg><seg type="rp">）</seg></seg>に速度を増して、ついには恐ろしい早さで、その物体の上を、<seg type="ruby"><seg type="rb">這</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>いまわった。<seg type="ruby"><seg type="rb">恍惚</seg><seg type="rp">（</seg><seg type="rt">こうこつ</seg><seg type="rp">）</seg></seg>として、時のたつのも忘れて、這いまわった。<lb />
+「すばらしい。これはすばらしいですよ。ぼくはこんな美しいものに初めてさわりました。これは何という微妙な曲線でしょう。いったい、どんな法則から割り出した曲線でしょう。……」<lb />
+　闇の中から、老人のフフという笑い声がした。<lb />
+「さっきから、もう三十分もたちましたよ。ずいぶんお気に入ったものですね。さア、つぎに移りましょう。もっとお見せするものがあるのです」<lb />
+　闇の中で手をとられて、その場を離れた。四五歩もあるくと、シュウとマッチがすられて、再び蝋燭が輝いた。いそいでうしろを見たが、さっきのふしぎな曲線の物体は見えなかった。老人は用心ぶかく、あの物体に<seg type="ruby"><seg type="rb">覆</seg><seg type="rp">（</seg><seg type="rt">おお</seg><seg type="rp">）</seg></seg>いの布をかけてしまったのかも知れない。<lb />
+「これですよ。この中ですよ」<lb />
+　燭台をかざしたのは、一つの大きな黒い箱の上であった。それは西洋の装飾<seg type="ruby"><seg type="rb">寝棺</seg><seg type="rp">（</seg><seg type="rt">ねがん</seg><seg type="rp">）</seg></seg>に似ていた。そと側の黒い色が<seg type="ruby"><seg type="rb">漆</seg><seg type="rp">（</seg><seg type="rt">うるし</seg><seg type="rp">）</seg></seg>のように光っていた。<lb />
+　老人は燭台をおくと、またポケットから<seg type="ruby"><seg type="rb">鍵束</seg><seg type="rp">（</seg><seg type="rt">かぎたば</seg><seg type="rp">）</seg></seg>をとり出して、その黒い長い箱の<seg type="ruby"><seg type="rb">錠前</seg><seg type="rp">（</seg><seg type="rt">じょうまえ</seg><seg type="rp">）</seg></seg>をはずした。そして、燭台をかざしながら、その<seg type="ruby"><seg type="rb">蓋</seg><seg type="rp">（</seg><seg type="rt">ふた</seg><seg type="rp">）</seg></seg>をソロソロとひらいて行った。<lb />
+　蝋燭の光といっしょに、目がチラチラした。箱の中には、白いなめらかなものが横たわっていた。蓋がすっかりひらいてしまうと、それは美しい裸体の女であることがわかった。<lb />
+　蘭堂は<seg type="ruby"><seg type="rb">愕然</seg><seg type="rp">（</seg><seg type="rt">がくぜん</seg><seg type="rp">）</seg></seg>として、一歩うしろにさがった。蝋人形というものが、こんな恐ろしい美を持っているとは、思いもよらなかった。ああ、これが生きた人間でなく蝋<seg type="ruby"><seg type="rb">細工</seg><seg type="rp">（</seg><seg type="rt">ざいく</seg><seg type="rp">）</seg></seg>だなんて、そんなバカなことがあるものか。<lb />
+「お気に入りましたか。美しい女でしょう。これは生きているのですよ」<lb />
+　老人はささやくような低い声で云った。すると、その声が蝋人形に通じたように、美しい<seg type="ruby"><seg type="rb">瞼</seg><seg type="rp">（</seg><seg type="rt">まぶた</seg><seg type="rp">）</seg></seg>がブルブルとふるえて、パッと目をひらいた。蝋細工ではない、ほんとうの目であった。それがじっと蘭堂の顔を見つめていた。蘭堂の<seg type="ruby"><seg type="rb">皷動</seg><seg type="rp">（</seg><seg type="rt">こどう</seg><seg type="rp">）</seg></seg>が早くなった。逃げ出したいような恐怖を感じた。<lb />
+　伴天連爺さんとはよくも名づけた。彼は伴天連の魔術を心得ているのであろうか。<lb />
+「ハハハ、大江蘭堂さんは、こんなものに驚く<seg type="ruby"><seg type="rb">方</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>ではないと思いましたがね。あなた、顔が青くなっていますよ。ハハハハハ、わたしは天下の大江蘭堂をびっくりさせましたね。先生のお書きになる怪談と、わたしの発明した怪談と、どっちが怖いでしょうかね」<lb />
+　爺さんは顔じゅうを、すぼめた<seg type="ruby"><seg type="rb">提灯</seg><seg type="rp">（</seg><seg type="rt">ちょうちん</seg><seg type="rp">）</seg></seg>のように皺だらけにして、歯の抜けた口を耳まで拡げて、悪魔のように笑っていた。<lb />
+「これが蝋人形ですか。なにかカラクリ仕掛けでもあるのですか。ああ、目だけじゃない。唇が動いている。息をしている……」<lb />
+「生きているでしょう。あなた、わたしのトリックにかかりましたね。これはほんとうに生きているのですよ。人造人間じゃありません。さわってごらんなさい」<lb />
+　老人は無理に蘭堂の手を引っぱって、箱の中に横たわっている美女の肌にさわらせた。その肌は暖かくて弾力があった。<lb />
+　すると、人形が、くすぐったいと云うように、身もだえして、ムクムクと起き上がった。その時は、さすがの怪奇小説家も心臓が止まる思いをしたが、すぐに、それは老人形師の子供らしいトリックであることがわかった。箱づめになっていたのは、人形ではなく、ほんとうの生きた人間にすぎないことがわかった。<lb />
+「ひどいいたずらをしますね。可哀そうにこのお嬢さんは、箱の中で、さぞ息ぐるしかったことでしょう」<lb />
+　蘭堂はそう云いながら、美しい<seg type="ruby"><seg type="rb">裸女</seg><seg type="rp">（</seg><seg type="rt">らじょ</seg><seg type="rp">）</seg></seg>の手をとって、引き起し、箱のそとへ出るのを手伝ってやった。<lb />
+「ごめん、ごめん。これが怪奇小説家のあなたには、何よりのご<seg type="ruby"><seg type="rb">馳走</seg><seg type="rp">（</seg><seg type="rt">ちそう</seg><seg type="rp">）</seg></seg>だと思いましてね。実はこの女は、わたしのモデルなんですよ」<lb />
+　だが、ふしぎなことに、この美しいモデル娘は、少しも裸体をはにかむ様子がなかった。無言のまま、向うの<seg type="ruby"><seg type="rb">衝立</seg><seg type="rp">（</seg><seg type="rt">ついたて</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">蔭</seg><seg type="rp">（</seg><seg type="rt">かげ</seg><seg type="rp">）</seg></seg>にはいって、しばらくすると、素肌の上にガウンを着たらしい様子で出て来た。<lb />
+「先生、まだ心臓が静まりますまい。こういうときは一ぱいやるに限ります。この子に<seg type="ruby"><seg type="rb">酌</seg><seg type="rp">（</seg><seg type="rt">しゃく</seg><seg type="rp">）</seg></seg>をさせて、あちらで又一ぱいやりましょう」<lb />
+　老人形師は燭台を持って先に立ち、その次にガウンの美女、あとから蘭堂がつづいた。<lb />
+　以前の書斎で、それぞれ椅子にかけると、またコニャックの<seg type="ruby"><seg type="rb">酒盛</seg><seg type="rp">（</seg><seg type="rt">さかも</seg><seg type="rp">）</seg></seg>りがはじまった。心がときめいているので、酒の<seg type="ruby"><seg type="rb">廻</seg><seg type="rp">（</seg><seg type="rt">まわ</seg><seg type="rp">）</seg></seg>りが早く、蘭堂はじきに酔い心地になった。<lb />
+　美女は<seg type="ruby"><seg type="rb">殆</seg><seg type="rp">（</seg><seg type="rt">ほと</seg><seg type="rp">）</seg></seg>んど口をきかなかった。何か云われると、ニッコリ笑って<seg type="ruby"><seg type="rb">頷</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>いたり、かぶりを振ったりするばかりであった。しかし、彼女も酒は少しずつ飲んだ。やがて目のふちがポーッと赤くなって来た。<lb />
+　娘は人形から人間になって、またもとの人形に戻っていくように感じられた。生きた人間にしては余りに美しすぎた。ホフマンのオリンピア嬢はこんな美しさだったかも知れない。<seg type="ruby"><seg type="rb">若</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>し生きているとすれば――いや、生きているにちがいないのだが――この皺くちゃの老人が、どうしてこんな美しい女を手に入れたのか、ふしぎでたまらなかった。<lb />
+「このモデルの娘さんは、なんとおっしゃるのですか」<lb />
+「<seg type="ruby"><seg type="rb">最上令子</seg><seg type="rp">（</seg><seg type="rt">もがみれいこ</seg><seg type="rp">）</seg></seg>と云います。これをモデルにして、寸分ちがわない美人人形を造りたいのです。いま、からだの調子を見ているのですよ。最良の状態のときに、石膏をぬりつけるのです」<lb />
+　令子はパチッとまばたきをした。まるで自動人形のようなまばたきであった。人間らしくなくて、人形とそっくりの娘。そこからこの世のものならぬ、あやしい美しさが発散した。人間らしくないところに、<seg type="ruby"><seg type="rb">名状</seg><seg type="rp">（</seg><seg type="rt">めいじょう</seg><seg type="rp">）</seg></seg>しがたい強烈な魅力があった。<lb />
+「令子さん、あなたは、自分とそっくりの人形ができるのを、怖いとは思いませんか」<lb />
+　蘭堂ははじめて娘に話しかけた。<lb />
+「いいえ」<lb />
+　彼女はかすかに<seg type="ruby"><seg type="rb">微笑</seg><seg type="rp">（</seg><seg type="rt">ほほえ</seg><seg type="rp">）</seg></seg>んで、小さな声で答えた。人形が何かの仕掛けで口をきいているようであった。シャンとした姿勢で椅子にかけ、顔は正面を向いたまま、少しも動かさなかった。<lb />
+　蘭堂と老人形師とは、この美女をかたわらにして、一時間近く、コニャックを傾けながら、人形の話をつづけた。<lb />
+「それじゃ、令子さんをモデルにして仕事をはじめたら、知らせてください。ぜひ見たいのです。約束しましたよ」<lb />
+　恐ろしく酔って、ろれつが怪しくなっていた。そして、二人に見送られてそとに出たのだが、そのとき、玄関の戸口で、令子の手が蘭堂のからだにさわった。意味ありげにさわった。<lb />
+　彼は暗い町に出て、電車の駅の方へヨロヨロと歩きながら、その感触を思い出していた。ふと、若しやと気づいたので、さわられた<seg type="ruby"><seg type="rb">側</seg><seg type="rp">（</seg><seg type="rt">がわ</seg><seg type="rp">）</seg></seg>のポケットに手を入れて見ると、小さな紙きれがはいっていた。街燈の下まで急いで、その紙きれを調べると、鉛筆で次のような走り書きがしてあった。<lb />
+「この爺さんは大悪人です。助けて下さい。わたしは殺されます」<lb />
+<lb />
+<seg rend="sho1" rendition="div" style="font-size: small;">
+【附記】これも一挙掲載で、私の次の発展篇を<seg type="ruby"><seg type="rb">角田喜久雄</seg><seg type="rp">（</seg><seg type="rt">つのだきくお</seg><seg type="rp">）</seg></seg>君、解決篇を<seg type="ruby"><seg type="rb">山田風太郎</seg><seg type="rp">（</seg><seg type="rt">やまだかぜたろう</seg><seg type="rp">）</seg></seg>君が執筆した。<lb />
+</seg>
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

@@ -16,7 +16,7 @@
 　　　1914（大正3）年12月発行<lb />
 初出：「潮　第二巻第一号」潮会<lb />
 　　　1914（大正3）年12月発行<lb />
-※「<span type="ruby"><span type="rb">皈</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>って」の「っ」、「ステーション」の「ョ」は底本通りにしました。<lb />
+※「<seg type="ruby"><seg type="rb">皈</seg><seg type="rp">（</seg><seg type="rt">かえ</seg><seg type="rp">）</seg></seg>って」の「っ」、「ステーション」の「ョ」は底本通りにしました。<lb />
 ※踊り字（／″＼）の誤用は底本の通りとしました。<lb />
 入力：岑村綱之<lb />
 校正：小林繁雄<lb />
@@ -38,25 +38,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　　　　<span target="ltr">（一）</span><lb />
+　　　　<seg rendition="span" style="ltr">（一）</seg><lb />
 <lb />
 　ぬつくりとした空気の中に、白い布を被せた寝棺が人々の眼に痛ましく写つた。紫檀の机の上に置かれた青銅の線香立には白い灰が堆高く積つて、夢の様に白い煙が立ち上つて抹香くさい香が庭前の青葉の間に流れ流れした。<lb />
 『雨戸を繰りませうか。』<lb />
 　今迄だまつて柱に依りかゝつて居た男が一座を見渡してかう言つた。其して一尺許りすいて居た一枚の雨戸を静かに開けた。電燈の光が広々とさあつと外にあふれて出て、露にうるんだ山茶花の葉の上を照した。心地よい冷つこい夜の気が一座の人の頬にはひやりと快かつた。<lb />
 『未だ若いのに、世の中の楽しみと言ふ楽しみもしないで亡くなるなんて、ほんとに可哀想でたまりませんよ。』<lb />
 　棺の主の病の為にわざ／″＼看護に来て居る年の割に老けた女が沁々こういつた。大粒の涙がほろ／＼と膝にふり落ちて居る。<lb />
-『<span type="ruby"><span type="rb">真実</span><span type="rp">（</span><span type="rt">ほんと</span><span type="rp">）</span></span>にね、清さんがこんなに成らうとは思はなかつたんですよ。』<lb />
+『<seg type="ruby"><seg type="rb">真実</seg><seg type="rp">（</seg><seg type="rt">ほんと</seg><seg type="rp">）</seg></seg>にね、清さんがこんなに成らうとは思はなかつたんですよ。』<lb />
 　傍に眠さうに座つて居た病人の従姉妹達もくづれかかつた丸髪を気にし乍ら、心からと言つた風に相槌を打つた。<lb />
-　二三年の内に見違へる様に美しくなつた<span type="ruby"><span type="rb">之等</span><span type="rp">（</span><span type="rt">これら</span><span type="rp">）</span></span>の女連を見比べて居た此女の主人は<lb />
+　二三年の内に見違へる様に美しくなつた<seg type="ruby"><seg type="rb">之等</seg><seg type="rp">（</seg><seg type="rt">これら</seg><seg type="rp">）</seg></seg>の女連を見比べて居た此女の主人は<lb />
 『が、死ぬ迄筆を離さなかつた。俺もつくづく可哀想に成つたて』<lb />
 　と、じいつと棺にかぶさつた白い布を見詰めつつ、遠い／＼昔の事の様に亡き人の追想に耽つた。<lb />
 　一座の人々は一様に頭の髪のいつか白くなつた主人の顔を見守つててんでに亡き若人の達者であつた日の事を描いて見た。<lb />
-　亡き若人は早稲田の学舎に学んだ身であつた。彼れの処女作が或る文学雑誌にかかげられた時、彼の恩師は偉大なる文学者の卵であると推賞した。<span type="ruby"><span type="rb">而</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>してきび／″＼した筆致と幼き日を慕ふ情緒とを持つた大文学者の卵は夏になると、<span type="ruby"><span type="rb">定</span><span type="rp">（</span><span type="rt">き</span><span type="rp">）</span></span>まつて東京から日本海の荒波の音の絶えぬ故郷へ<span type="ruby"><span type="rb">皈</span><span type="rp">（</span><span type="rt">かえ</span><span type="rp">）</span></span>って来るのであつた。<lb />
-　杉垣の或古びた家。家の隣は西洋草花などを作つてある花畑であつた。涼風のそよぐ夏の夕方なぞ<span type="ruby"><span type="rb">白絣縮緬</span><span type="rp">（</span><span type="rt">しろがすりちりめん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">兵子</span><span type="rp">（</span><span type="rt">へこ</span><span type="rp">）</span></span>帯をしめた若い文士の姿がいつも杉垣の中に、大勢の従姉妹達に包まれて見えた。<lb />
+　亡き若人は早稲田の学舎に学んだ身であつた。彼れの処女作が或る文学雑誌にかかげられた時、彼の恩師は偉大なる文学者の卵であると推賞した。<seg type="ruby"><seg type="rb">而</seg><seg type="rp">（</seg><seg type="rt">そ</seg><seg type="rp">）</seg></seg>してきび／″＼した筆致と幼き日を慕ふ情緒とを持つた大文学者の卵は夏になると、<seg type="ruby"><seg type="rb">定</seg><seg type="rp">（</seg><seg type="rt">き</seg><seg type="rp">）</seg></seg>まつて東京から日本海の荒波の音の絶えぬ故郷へ<seg type="ruby"><seg type="rb">皈</seg><seg type="rp">（</seg><seg type="rt">かえ</seg><seg type="rp">）</seg></seg>って来るのであつた。<lb />
+　杉垣の或古びた家。家の隣は西洋草花などを作つてある花畑であつた。涼風のそよぐ夏の夕方なぞ<seg type="ruby"><seg type="rb">白絣縮緬</seg><seg type="rp">（</seg><seg type="rt">しろがすりちりめん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">兵子</seg><seg type="rp">（</seg><seg type="rt">へこ</seg><seg type="rp">）</seg></seg>帯をしめた若い文士の姿がいつも杉垣の中に、大勢の従姉妹達に包まれて見えた。<lb />
 　色の白いほつそりとした若い文士の其の頃の面差しは、従姉妹達の胸にくつきりと刻み込まれてあつた。<lb />
 『あの時分は私等も若かつたわねエ！』<lb />
 　三人の内の一番若い従妹がこう叫んで一座の人々を見渡した。<lb />
@@ -65,13 +65,13 @@
 　線香の白い灰がほろり／＼とくづれて、やつれた主人の顔にくづれる度に淡い陰をつくつてゐた。<lb />
 　主人は――行くりなくも気が狂つて死んだ亡き妻の青白い顔を思ひ浮かべて、白い布の寝棺の上に目を落じて、一人残つて行く自分の身を思つて見た。<lb />
 <lb />
-　　　　<span target="ltr">（二）</span><lb />
+　　　　<seg rendition="span" style="ltr">（二）</seg><lb />
 <lb />
 　其処には長い／＼年月があつた。昔の家、昔の庭、昔の木、それらが皆昔と云ふ字を持つ様に成つた。<lb />
-　其一人息子の生れた頃には、新築の家は木の香が甘く漂ひ、庭には青苔も生えず南天の実が赤く実つて居た。杉の苗木がばらばらに門際に植えてあつたりした。主人は三拾幾つの壮年時代で、芸者上りの若い最愛の妻は二十三四の年頃であつた。秋の冷つこい気持のいゝ朝など、赤い手柄の細君の丸髪姿が滴る様な杉の木の間にちらついて居た。隣の遠い此の家のこととて、晴れやいだ嫁の笑ひ声が広い<span type="ruby"><span type="rb">四辺</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>の自然の天地に展がつてゐた。<lb />
-　気が狂つて死んだ妻の顔<span change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
+　其一人息子の生れた頃には、新築の家は木の香が甘く漂ひ、庭には青苔も生えず南天の実が赤く実つて居た。杉の苗木がばらばらに門際に植えてあつたりした。主人は三拾幾つの壮年時代で、芸者上りの若い最愛の妻は二十三四の年頃であつた。秋の冷つこい気持のいゝ朝など、赤い手柄の細君の丸髪姿が滴る様な杉の木の間にちらついて居た。隣の遠い此の家のこととて、晴れやいだ嫁の笑ひ声が広い<seg type="ruby"><seg type="rb">四辺</seg><seg type="rp">（</seg><seg type="rt">あたり</seg><seg type="rp">）</seg></seg>の自然の天地に展がつてゐた。<lb />
+　気が狂つて死んだ妻の顔<seg change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
 　其の頃一人の息子はもう中学へ入つて居た。<lb />
-　而して十年の年月が経つた。主人の頭には白毛が見え出した。息子が早稲田に在学の時分、主人は風邪の気分で<span type="ruby"><span type="rb">臥</span><span type="rp">（</span><span type="rt">ふせ</span><span type="rp">）</span></span>つてゐた。其の時分未だ嫁に行かない末の従妹………が泊り合はせて看護してゐた。ぽつかりとした春の日の午後で裏の畑に茶の花が奇麗に咲いてゐるのが、硝子越で見えてゐた。<lb />
+　而して十年の年月が経つた。主人の頭には白毛が見え出した。息子が早稲田に在学の時分、主人は風邪の気分で<seg type="ruby"><seg type="rb">臥</seg><seg type="rp">（</seg><seg type="rt">ふせ</seg><seg type="rp">）</seg></seg>つてゐた。其の時分未だ嫁に行かない末の従妹………が泊り合はせて看護してゐた。ぽつかりとした春の日の午後で裏の畑に茶の花が奇麗に咲いてゐるのが、硝子越で見えてゐた。<lb />
 『伯父さん郵便。清さんからの。』<lb />
 　と持つて来た郵便小包を受取つた主人は直様、紐を解き初めた。<lb />
 『なんだらう』<lb />
@@ -89,24 +89,24 @@
 　問ひかけることもあつた。すると若い文士はハンモツクから寝てゐる身体を起しにかゝると<lb />
 『いゝよ。』<lb />
 　といつて笑つて行き過ぎるのを常として居た。<lb />
-　そうした内に清は卒業する様になつた。清が卒業証書を握つて郷里に皈つた時、トランクの中には自分の名を記してある色んな形の本が三四冊もあつた。秋の夕日に清の乗つた<span type="ruby"><span type="rb">俥</span><span type="rp">（</span><span type="rt">くるま</span><span type="rp">）</span></span>の輪がきら／＼と輝いて、希望に充ちた清の眼には確かに<span type="ruby"><span type="rb">美</span><span type="rp">（</span><span type="rt">うる</span><span type="rp">）</span></span>はしいものゝ一つであつた。<lb />
-　其れは寝棺の置かれてある其の室であつた。主人と、叔母と、<span type="ruby"><span type="rb">而</span><span type="rp">（</span><span type="rt">そ</span><span type="rp">）</span></span>うして三人の従姉妹等が寄つて居た。清は自分の身の一歩一歩若く盛んに成り行くに引きかへ、従姉妹等の二人迄が、子持に成つて居るのを不思議さうに眺めた。黒の紋付羽織、<span type="ruby"><span type="rb">仙台平</span><span type="rp">（</span><span type="rt">せんだいひら</span><span type="rp">）</span></span>の袴、真つ白の胸紐と奇麗に分けた頭の髪とがかすかに打ちふるつて居る仏壇の御燈明に、一きは目立つて鮮やかであつた。卒業証書と四冊許りの書物とは亡き母の位牌にさゝげられてあつたのだ<span change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
+　そうした内に清は卒業する様になつた。清が卒業証書を握つて郷里に皈つた時、トランクの中には自分の名を記してある色んな形の本が三四冊もあつた。秋の夕日に清の乗つた<seg type="ruby"><seg type="rb">俥</seg><seg type="rp">（</seg><seg type="rt">くるま</seg><seg type="rp">）</seg></seg>の輪がきら／＼と輝いて、希望に充ちた清の眼には確かに<seg type="ruby"><seg type="rb">美</seg><seg type="rp">（</seg><seg type="rt">うる</seg><seg type="rp">）</seg></seg>はしいものゝ一つであつた。<lb />
+　其れは寝棺の置かれてある其の室であつた。主人と、叔母と、<seg type="ruby"><seg type="rb">而</seg><seg type="rp">（</seg><seg type="rt">そ</seg><seg type="rp">）</seg></seg>うして三人の従姉妹等が寄つて居た。清は自分の身の一歩一歩若く盛んに成り行くに引きかへ、従姉妹等の二人迄が、子持に成つて居るのを不思議さうに眺めた。黒の紋付羽織、<seg type="ruby"><seg type="rb">仙台平</seg><seg type="rp">（</seg><seg type="rt">せんだいひら</seg><seg type="rp">）</seg></seg>の袴、真つ白の胸紐と奇麗に分けた頭の髪とがかすかに打ちふるつて居る仏壇の御燈明に、一きは目立つて鮮やかであつた。卒業証書と四冊許りの書物とは亡き母の位牌にさゝげられてあつたのだ<seg change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
 　文壇の流行児、主人は若い時分の記憶を辿り乍らも紅葉露伴の名を思ひ浮べて居た。<lb />
 <lb />
-　　　　<span target="ltr">（三）</span><lb />
+　　　　<seg rendition="span" style="ltr">（三）</seg><lb />
 <lb />
-　卒業後若い文士は東京に<span type="ruby"><span type="rb">住居</span><span type="rp">（</span><span type="rt">すまひ</span><span type="rp">）</span></span>した。今日も明日も雨許りの六月頃主人は土産片手に息子の宿を訪ねた。長い間息子の便りが絶えて居たのである。<lb />
+　卒業後若い文士は東京に<seg type="ruby"><seg type="rb">住居</seg><seg type="rp">（</seg><seg type="rt">すまひ</seg><seg type="rp">）</seg></seg>した。今日も明日も雨許りの六月頃主人は土産片手に息子の宿を訪ねた。長い間息子の便りが絶えて居たのである。<lb />
 　丁度若い文士は不在であつた。出来合の障子は破れ目がたくさんあり、畳の縁は白くすれ切れて居り、むさくるしい六畳の部屋には所々はげかけた金文字の書いてある書物のぎつしりつめてある本箱とが見える丈だつた。<lb />
-　主人は火の気の無い部屋につく<span type="ruby"><span type="rb">然</span><span type="rp">（</span><span type="rt">ねん</span><span type="rp">）</span></span>と座つて居た。遠くの方からは電車の異様の響と人々のざはめきが込み合つて聞えて来て、雨の午後の日は陰気に暮れて入つた。手持無沙汰に本箱をいぢり廻してふと○の写真と○の手紙を見出した時、主人は「これだなあ。」と呟いた。彼は之でもう郷里への無沙汰も近頃の不規律もすつかり呑み込めたと言ふ様な気に成つた、が、独り長い／＼時間を待つて居る内には自分の若い頃の濃厚な恋を思ひ起したりして、息子を悪いとはどうしても思へなかつた。<lb />
+　主人は火の気の無い部屋につく<seg type="ruby"><seg type="rb">然</seg><seg type="rp">（</seg><seg type="rt">ねん</seg><seg type="rp">）</seg></seg>と座つて居た。遠くの方からは電車の異様の響と人々のざはめきが込み合つて聞えて来て、雨の午後の日は陰気に暮れて入つた。手持無沙汰に本箱をいぢり廻してふと○の写真と○の手紙を見出した時、主人は「これだなあ。」と呟いた。彼は之でもう郷里への無沙汰も近頃の不規律もすつかり呑み込めたと言ふ様な気に成つた、が、独り長い／＼時間を待つて居る内には自分の若い頃の濃厚な恋を思ひ起したりして、息子を悪いとはどうしても思へなかつた。<lb />
 　九時頃、息子はたうとう帰つて来た！<lb />
 『父さん済まなかつたね。』<lb />
 　これが若い文士が父を見ての最初の言葉であつた。<lb />
-『お前大分やつれたぢやないか。医者に見てもらはなくちや<span type="ruby"><span type="rb">不可</span><span type="rp">（</span><span type="rt">いかん</span><span type="rp">）</span></span>。』<lb />
+『お前大分やつれたぢやないか。医者に見てもらはなくちや<seg type="ruby"><seg type="rb">不可</seg><seg type="rp">（</seg><seg type="rt">いかん</seg><seg type="rp">）</seg></seg>。』<lb />
 　主人は蒼ざめた息子の顔を心配さうに眺めてかう言つた。<lb />
 『女に血をすはれちやいかんぜ。』<lb />
 　これが主人の其の日の最後の言葉であつた、<lb />
 <lb />
-　清は遂に吐血した<span change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
+　清は遂に吐血した<seg change="gaiji" facs="../../../gaiji/1-08/1-08-75.png" rend="gaiji" rendition="img" source="※(感嘆符二つ、1-8-75)" /><lb />
 　古株に萌え出た若芽は又枯れかゝつた。<lb />
 　主人は息子の病の為には全財産を投げ出してもと思つた。今息子に死なれては財産なんぞあつてもなくても同じことだと思つた。<lb />
 　逗子の浜、大磯の海岸――朝となく夜となく、ぶら／″＼逍遥ひ歩く若い文士の姿は、通り行く人々に悲しい事を思はせた。<lb />
@@ -114,7 +114,7 @@
 　青白い夜のステーションの電燈の下に、たたずんで、人知れず見送つた。<lb />
 　若い文士は電燈の下の○のうるんだ目と白い頸とを何時迄も／＼忘れまいと思つた。<lb />
 <lb />
-　　　　<span target="ltr">（四）</span><lb />
+　　　　<seg rendition="span" style="ltr">（四）</seg><lb />
 <lb />
 　土蔵の長持からは絹の蒲団が出されて、庭に面した八畳の部屋に敷かれた。白いシーツに白い枕、其の中に病人は仰向けに成つて寝て居た。黄色い水薬の半分許り入つて居る薬瓶や、白い模様のあるコツプが午後の日影の中に鮮やかに浮いて見えた。書きさしの原稿用紙と、黒塗の硯箱とがいつも枕元にきちんと並べてあつた。――<lb />
 　おい／＼に人の妻となり、母となつた従姉妹達は大きな丸髪に結つて、子供を連れて見舞なぞにやつて来た。<lb />
@@ -141,20 +141,20 @@
 　赤児に乳をのまし乍らこんな風なことを口ぎたなく話しあつたりした。<lb />
 　三年と云ふ年月が、あらゆる周囲の人々に一つ／＼其の影をきざんで行くのであつた。<lb />
 <lb />
-　　　　<span target="ltr">（五）</span><lb />
+　　　　<seg rendition="span" style="ltr">（五）</seg><lb />
 <lb />
-　低いさびた読経の声が、電燈が消されてから又朝迄続いた。一人二人目をさまして、ひそ／＼と話し合ふ時分には遠くの方で井戸水を汲む音が聞えて来た。明方の寒さが戸の外から<span type="ruby"><span type="rb">犇々</span><span type="rp">（</span><span type="rt">ひしひし</span><span type="rp">）</span></span>と迫つて来た。<lb />
+　低いさびた読経の声が、電燈が消されてから又朝迄続いた。一人二人目をさまして、ひそ／＼と話し合ふ時分には遠くの方で井戸水を汲む音が聞えて来た。明方の寒さが戸の外から<seg type="ruby"><seg type="rb">犇々</seg><seg type="rp">（</seg><seg type="rt">ひしひし</seg><seg type="rp">）</seg></seg>と迫つて来た。<lb />
 『お天気はどうかしら』<lb />
 　と、一人が白んで行く空を見上げた。<lb />
 　すつきりと晴れ渡つた空の下には、朝露を含んだ新緑が流れる様に美しかつた。<lb />
 　白い布に包まれた寝棺！<lb />
 　朝飯を終えた従姉妹達は又思ひ出した様に棺の前に集まり座つた。<lb />
 『もう釘を打ちつけますよ。』<lb />
-　奥の八畳から呼ぶ声がした。人々は泣き度い様な顔をして其の方へ走つた。和尚の長い読経の透ほる声と、折々鳴らす<span type="ruby"><span type="rb">鉦</span><span type="rp">（</span><span type="rt">かね</span><span type="rp">）</span></span>の音とが女達のすゝり泣きの間を縫ふて悲しく打ち震ふて聞えた。<lb />
-　やがて焼香も終つた頃、奥は部屋一杯に人立がして、<span type="ruby"><span type="rb">夫々</span><span type="rp">（</span><span type="rt">それぞれ</span><span type="rp">）</span></span>黙つて棺側を取り捲いて、中へいろんなものを入れたり出したりしてゐた。新しい木の匂と線香の匂とが人々の鼻につきまとつてゐた。<lb />
+　奥の八畳から呼ぶ声がした。人々は泣き度い様な顔をして其の方へ走つた。和尚の長い読経の透ほる声と、折々鳴らす<seg type="ruby"><seg type="rb">鉦</seg><seg type="rp">（</seg><seg type="rt">かね</seg><seg type="rp">）</seg></seg>の音とが女達のすゝり泣きの間を縫ふて悲しく打ち震ふて聞えた。<lb />
+　やがて焼香も終つた頃、奥は部屋一杯に人立がして、<seg type="ruby"><seg type="rb">夫々</seg><seg type="rp">（</seg><seg type="rt">それぞれ</seg><seg type="rp">）</seg></seg>黙つて棺側を取り捲いて、中へいろんなものを入れたり出したりしてゐた。新しい木の匂と線香の匂とが人々の鼻につきまとつてゐた。<lb />
 　主人は落付かぬ目色をして、もう一遍棺の中を覗き込んだ。<lb />
 　カーン、カーン、釘は一本打ちつかれた。<lb />
-　主人は傍に居る、自分の妹と、<span type="ruby"><span type="rb">娚</span><span type="rp">（</span><span type="rt">めおと</span><span type="rp">）</span></span>達を省みて最後の名残を惜しまうとした。<lb />
+　主人は傍に居る、自分の妹と、<seg type="ruby"><seg type="rb">娚</seg><seg type="rp">（</seg><seg type="rt">めおと</seg><seg type="rp">）</seg></seg>達を省みて最後の名残を惜しまうとした。<lb />
 『兄さん、清さんにお別れを。』<lb />
 　棺の蓋を持ち上げた妹は半ば泣声にこううながした。主人は白い布を取つてじいつと死人の顔を覗いた。<lb />
 『清、さいならだ。』<lb />
@@ -170,6 +170,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

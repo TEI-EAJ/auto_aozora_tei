@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ひとびと酸き胡瓜を噛み<lb />
 やゝに濁れる黄の酒の<lb />
 陶の小盃に往復せり<lb />
@@ -42,7 +42,7 @@
 立つて宰領するこの家のあるじ<lb />
 熊氏の面はひげに充てり<lb />
 榾のけむりは稲いちめんにひろがり<lb />
-雨は※<span rend="notes">［＃「さんずい＋堂」、U+6F1F、197-12］</span>々青き穂並にうち注げり<lb />
+雨は※<seg rend="notes" rendition="span">［＃「さんずい＋堂」、U+6F1F、197-12］</seg>々青き穂並にうち注げり<lb />
 われはさながらわれにもあらず<lb />
 稲の品種をもの云へば<lb />
 或いはペルシャにあるこゝちなり<lb />
@@ -62,6 +62,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

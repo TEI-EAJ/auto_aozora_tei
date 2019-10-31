@@ -13,7 +13,7 @@ skip_flg = True
 
 template_path = "data/template.xml"
 
-input_dir = "/Users/nakamura/git/aozorabunko/cards"
+input_dir = "/Users/nakamura/git/aozora/aozorabunko/cards"
 output_top_dir = "../docs/data"
 files = glob.glob(input_dir + "/*/files/*.html")
 
@@ -42,12 +42,13 @@ def convert_ruby(text):
 
     # 正規表現による置換
     for e in arr:
-        text = re.sub('<' + e + '>(.+?)<\/' + e + '>', '<span type="' + e + '">\\1</span>', text)
+        text = re.sub('<' + e + '>(.+?)<\/' + e + '>',
+                      '<seg type="' + e + '">\\1</seg>', text)
 
     # 正規表現では対処できなかった場合の置換
     for e in arr:
-        text = text.replace("<" + e + ">", "<span type='" + e + "'>")
-        text = text.replace("</" + e + ">", "</span>")
+        text = text.replace("<" + e + ">", "<seg type='" + e + "'>")
+        text = text.replace("</" + e + ">", "</seg>")
 
     return text
 
@@ -65,45 +66,50 @@ def convert(text):
     text = text.replace(" src=", " facs=")
     text = text.replace(" alt=", " source=")
     text = text.replace(" gaiji=", " change=")
-    text = text.replace(" dir=", " target=")
+    text = text.replace(" dir=", " style=")
+    text = text.replace(" target=", " met=")
     text = text.replace(" align=", " to=")
     text = text.replace(" name=", " synch=")
     text = text.replace(" href=", " corresp=")
     text = text.replace(' rel="license"', " ")
 
     # imgタグの置換
-    text = re.sub('<img(.+?)\/>', '<span rendition="img"\\1></span>', text)
+    text = re.sub('<img(.+?)\/>', '<seg rendition="img"\\1></seg>', text)
 
     # 削除対象の属性の配列
-    arr4 = ["valign", "rel", "property", "border", "cellpadding", "to", "vto", "height", "width"]
+    arr4 = ["valign", "rel", "property", "border",
+            "cellpadding", "to", "vto", "height", "width"]
     for e in arr4:
         text = re.sub(' ' + e + '="(.*?)"', ' ', text)
 
     # hタグの置換
-    text = re.sub('<h\d(.+?)<\/h\d>', '<span rendition="h"\\1</span>', text)
+    text = re.sub('<h\d(.+?)<\/h\d>', '<seg rendition="h"\\1</seg>', text)
 
     # 置換対象のタグの配列（上の処理でh4など消えるはずだが、うまくいかない場合あり）
     arr = ["h5", "h4", "h3", "h2", "h1", "a", "sup", "em", "strong", "ul", "li", "big", "table", "tr", "th",
-           "td", "center", "div"]
+           "td", "center", "div", "span"]
     for e in arr:
         # 正規表現による置換
-        text = re.sub('<' + e + '(.+?)<\/' + e + '>', '<span rendition="' + e + '"\\1</span>', text)
+        text = re.sub('<' + e + '(.+?)<\/' + e + '>',
+                      '<seg rendition="' + e + '"\\1</seg>', text)
 
         # 正規表現では対処できなかった場合の置換
-        text = text.replace("<" + e + "", "<span rendition='" + e + "'")
-        text = text.replace("</" + e + ">", "</span>")
+        text = text.replace("<" + e + "", "<seg rendition='" + e + "'")
+        text = text.replace("</" + e + ">", "</seg>")
 
     # 置換対象の属性なしのタグの配列
     arr3 = ["d", "p", "b", "i", "small"]
     for e in arr3:
-        text = re.sub('<' + e + '>(.+?)<\/' + e + '>', '<span rendition="' + e + '">\\1</span>', text)
-        text = text.replace("<"+e+">", "<span rendition='" + e + "'>")
-        text = text.replace("</" + e + ">", "</span>")
+        text = re.sub('<' + e + '>(.+?)<\/' + e + '>',
+                      '<seg rendition="' + e + '">\\1</seg>', text)
+        text = text.replace("<"+e+">", "<seg rendition='" + e + "'>")
+        text = text.replace("</" + e + ">", "</seg>")
 
     # その他の置換対象の配列
     arr2 = ["small", "a", "sub"]
     for e in arr2:
-        text = re.sub('<' + e + '(.+?)<\/' + e + '>', '<span rendition="' + e + '"\\1</span>', text)
+        text = re.sub('<' + e + '(.+?)<\/' + e + '>',
+                      '<seg rendition="' + e + '"\\1</seg>', text)
 
     return text
 
@@ -111,7 +117,8 @@ def convert(text):
 # 工作員に関する情報を取得するメソッド
 def get_dates_and_persons(text):
     # 修正作業用の辞書
-    p_types = [{"ja": "入力", "en": "Aozora Transcription"}, {"ja": "校正", "en": "Aozora Proofreading"}]
+    p_types = [{"ja": "入力", "en": "Aozora Transcription"},
+               {"ja": "校正", "en": "Aozora Proofreading"}]
     d_types = ["作成", "修正", "公開"]
 
     dates = []
@@ -125,11 +132,13 @@ def get_dates_and_persons(text):
         for type in p_types:
             if line.startswith(type["ja"] + "："):
                 person = line.split("：")[1]
-                persons.append({"type@ja": type["ja"], "name": person, "type@en": type["en"]})
+                persons.append(
+                    {"type@ja": type["ja"], "name": person, "type@en": type["en"]})
 
         for type in d_types:
             if line.endswith("日" + type):
-                date_arr = line.replace("年", "-").replace("月", "-").replace("日", "-").split("-")
+                date_arr = line.replace(
+                    "年", "-").replace("月", "-").replace("日", "-").split("-")
                 year = date_arr[0]
                 month = date_arr[1].zfill(2)
                 day = date_arr[2].zfill(2)
@@ -164,18 +173,23 @@ def handle_bibliographical_information(text):
 
     return note, dates, persons
 
+
 count = 0
 
 for i in range(start, len(files)):
 
     input_path = files[i]
 
-    if i % 100 == 0:
-        print(str(i + 1) + "/" + str(len(files)) + "\t" + input_path)
-
-    output_dir = input_path.replace(input_dir, output_top_dir).split("files/")[0] + "files"
+    output_dir = input_path.replace(
+        input_dir, output_top_dir).split("files/")[0] + "files"
     output_filename = input_path.split("/")[-1].replace(".html", ".xml")
     output_path = output_dir + "/" + output_filename
+
+    if "_" not in output_filename:
+        continue
+
+    if i % 100 == 0:
+        print(str(i + 1) + "/" + str(len(files)) + "\t" + input_path)
 
     # arr10 = ["45210_24671.xml", "47177_37073.xml", "18361_32671.xml", "1745_16941.xml", "47850_31638.xml"]
     arr10 = ["1745_16941.xml"]
@@ -208,8 +222,9 @@ for i in range(start, len(files)):
 
         count = count + 1
 
-        print("**** non ****\t" + output_path)
+        print("**** non header ****\t" + output_path)
         # continue
+        
         respStmt = root.find(prefix + "respStmt")
         if respStmt.find(prefix + "resp") == None:
             respStmt.append(ET.fromstring('<resp/>'))
@@ -218,16 +233,19 @@ for i in range(start, len(files)):
         bib_info = bib_infos[0]
 
         # 文字列解析により、noteの整形、および日時情報、人物情報を取得する
-        note, dates, persons = handle_bibliographical_information(str(bib_info))
+        note, dates, persons = handle_bibliographical_information(
+            str(bib_info))
 
         respStmt = root.find(prefix + "respStmt")
 
         # 取得した日時情報で、note内の日時情報を書き換える
         for date in dates:
-            note = note.replace(date["org"], '<date when="%s">%s</date>' % (date["rep"], date["org"]))
+            note = note.replace(
+                date["org"], '<date when="%s">%s</date>' % (date["rep"], date["org"]))
 
             if date["type"] == "作成" or date["type"] == "公開":
-                respStmt.append(ET.fromstring('<resp when="%s">作成</resp>' % date["rep"]))
+                respStmt.append(ET.fromstring(
+                    '<resp when="%s">作成</resp>' % date["rep"]))
 
         if respStmt.find(prefix + "resp") == None:
             respStmt.append(ET.fromstring('<resp/>'))
@@ -275,10 +293,12 @@ for i in range(start, len(files)):
 
     main_texts = soup.select(".main_text")
 
-    # ヘッダーがないものはスキップ
+    # main_textがないものはスキップ
     if len(main_texts) == 0:
-        print("**** none text ****\t" + output_path)
+        print("**** none main text ****\t" + output_path)
         # continue
+        print(input_path)
+        break
     else:
         main_text = main_texts[0]
 
@@ -289,7 +309,7 @@ for i in range(start, len(files)):
         try:
             p.append(ET.fromstring(text))
         except:
-            print("**** text ****\t" + output_path)
+            print("**** textがおかしい ****\t" + output_path)
             # print(text)
             with open("data/tmp.txt", mode='w') as f:
                 f.write(text)
@@ -310,7 +330,7 @@ for i in range(start, len(files)):
     doc = etree.parse(valid)
 
     if not relaxng.validate(doc):
-        print("**** validation ****\t" + output_path)
+        print("**** validation error ****\t" + output_path)
 
         if output_filename not in arr_exc:
             sys.exit(output_path)

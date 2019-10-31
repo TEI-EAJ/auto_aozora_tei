@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 材料は金属と木と革――有抵抗の物体――<lb />
 構造は胴と軸と車と槓杆と発条<lb />
 こいつには脳味噌がないんだ！<lb />
@@ -48,11 +48,11 @@
 石炭は思い出から燃え上る　天然勢力！<lb />
 機械は動く<lb />
 <lb />
-<span type="ruby"><span type="rb">調革</span><span type="rp">（</span><span type="rt">ベルト</span><span type="rp">）</span></span>…………<span type="ruby"><span type="rb">調車</span><span type="rp">（</span><span type="rt">ブウレイ</span><span type="rp">）</span></span><lb />
-　　　　　　<span type="ruby"><span type="rb">軸</span><span type="rp">（</span><span type="rt">シャフト</span><span type="rp">）</span></span><lb />
-　　　　　　<span type="ruby"><span type="rb">歯車</span><span type="rp">（</span><span type="rt">ギイヤ</span><span type="rp">）</span></span><lb />
-　　　　　　<span type="ruby"><span type="rb">偏心輪</span><span type="rp">（</span><span type="rt">エクセントリック</span><span type="rp">）</span></span><lb />
-　　　　　　<span type="ruby"><span type="rb">槓杆</span><span type="rp">（</span><span type="rt">レーバ</span><span type="rp">）</span></span>……<span type="ruby"><span type="rb">発条</span><span type="rp">（</span><span type="rt">スプリング</span><span type="rp">）</span></span><lb />
+<seg type="ruby"><seg type="rb">調革</seg><seg type="rp">（</seg><seg type="rt">ベルト</seg><seg type="rp">）</seg></seg>…………<seg type="ruby"><seg type="rb">調車</seg><seg type="rp">（</seg><seg type="rt">ブウレイ</seg><seg type="rp">）</seg></seg><lb />
+　　　　　　<seg type="ruby"><seg type="rb">軸</seg><seg type="rp">（</seg><seg type="rt">シャフト</seg><seg type="rp">）</seg></seg><lb />
+　　　　　　<seg type="ruby"><seg type="rb">歯車</seg><seg type="rp">（</seg><seg type="rt">ギイヤ</seg><seg type="rp">）</seg></seg><lb />
+　　　　　　<seg type="ruby"><seg type="rb">偏心輪</seg><seg type="rp">（</seg><seg type="rt">エクセントリック</seg><seg type="rp">）</seg></seg><lb />
+　　　　　　<seg type="ruby"><seg type="rb">槓杆</seg><seg type="rp">（</seg><seg type="rt">レーバ</seg><seg type="rp">）</seg></seg>……<seg type="ruby"><seg type="rb">発条</seg><seg type="rp">（</seg><seg type="rt">スプリング</seg><seg type="rp">）</seg></seg><lb />
 回転　衝程　弧動――昇降<lb />
 機械はまわる<lb />
 　晩から朝まで　朝から晩まで<lb />
@@ -69,10 +69,10 @@
 だが機械は疲れず高速度回転！<lb />
 あっ？　機械が腕を喰った<lb />
 　血……血……血………<lb />
-<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -1em;">（『鎖』一九二三年七月号に発表）</span>
+<seg rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -1em;">（『鎖』一九二三年七月号に発表）</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

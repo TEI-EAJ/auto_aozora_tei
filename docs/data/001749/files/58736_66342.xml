@@ -13,10 +13,12 @@
 　　　1964（昭和39）年10月15日発行<lb />
 底本の親本：「定本三好達治全詩集」筑摩書房<lb />
 　　　1962（昭和37）年3月30日<lb />
-初出：「改造　一八卷一號」1935（昭和10）年1月<lb />
+初出：「改造　一八卷一號」<lb />
+　　　1936（昭和11）年1月<lb />
 入力：kompass<lb />
 校正：大久保　知美<lb />
 <date when="2018-10-24">2018年10月24日</date>作成<lb />
+<date when="2019-08-10">2019年8月10日</date>修正<lb />
 青空文庫作成ファイル：<lb />
 このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
       <respStmt><resp>Aozora Transcription</resp><name>kompass</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>大久保　知美</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
@@ -34,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 鷲が二羽　降りようとして舞つてゐる<lb />
 巖のあらはな巓を　私は仰ぎ　私はたちどまる<lb />
 その山の肩のあたり　林の盡きた笹原に　私は籠手を翳し<lb />
@@ -42,6 +44,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

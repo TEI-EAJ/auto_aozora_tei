@@ -32,9 +32,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 戀魚の身こそ哀しけれ、<lb />
-いちにち<span rend="sesame_dot" rendition="em">いよす</span>にもたれつつ、<lb />
+いちにち<seg rend="sesame_dot" rendition="em">いよす</seg>にもたれつつ、<lb />
 ひくくかなづるまんどりん、<lb />
 夕ぐれどきにかみいづる、<lb />
 柴草の根はうす甘く、<lb />
@@ -43,6 +43,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

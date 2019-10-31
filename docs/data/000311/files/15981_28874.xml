@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -46,10 +46,10 @@
 │　　　　└　　　酒井「五兵衛さん」<lb />
 │石田重吉┐直次　つや子<lb />
 └　ひろ子└進三<lb />
-<span rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
 〔欄外に〕<lb />
-</span>
-<span rend="jisage_4" rendition="div" style="margin-left: 4em">
+</seg>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em">
 坂上夫妻　　友人の家<lb />
 　　┌──┐<lb />
 九月│五日│八日<lb />
@@ -57,11 +57,11 @@
 Policeman　　Military Police<lb />
 下駄の音<lb />
 電燈カバーの細工<lb />
-</span>
+</seg>
 <lb />
 汽車の中<lb />
 ┌母　　　登代<lb />
-│義妹　　直三の妻つや　　　<span target="ltr">（六）</span>より<lb />
+│義妹　　直三の妻つや　　　<seg rendition="span" style="ltr">（六）</seg>より<lb />
 └　　　子供　　昭夫　三歳<lb />
 　　　　　　　　治郎　二歳<lb />
 ┌　前の家　沢田　　かじや<lb />
@@ -74,6 +74,6 @@ Policeman　　Military Police<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -69,11 +69,11 @@
 「本当？」<lb />
 「本当！」<lb />
 「へーえ、あれお父様ただ貰ったんだろう？」<lb />
-「そうじゃないらしいわ、この間帳面見たら　野原五人立ち200<span rend="notes">［＃「200」は縦中横］</span>って書いてあるから　きっとこれだと思うわ」<lb />
-「200<span rend="notes">［＃「200」は縦中横］</span>だしてこれを買ったの？――どうかと思うね」<lb />
+「そうじゃないらしいわ、この間帳面見たら　野原五人立ち200<seg rend="notes" rendition="span">［＃「200」は縦中横］</seg>って書いてあるから　きっとこれだと思うわ」<lb />
+「200<seg rend="notes" rendition="span">［＃「200」は縦中横］</seg>だしてこれを買ったの？――どうかと思うね」<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

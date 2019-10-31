@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2012-09-25">作成</resp><resp /><note>
 <lb />
-底本：「日本怪談全集　<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />」桃源社<lb />
+底本：「日本怪談全集　<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />」桃源社<lb />
 　　　1974（昭和49）年7月5日発行<lb />
 　　　1975（昭和50）年7月25日2刷<lb />
 底本の親本：「日本怪談全集」改造社<lb />
@@ -34,18 +34,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-　何時の<span type="ruby"><span type="rb">比</span><span type="rp">（</span><span type="rt">ころ</span><span type="rp">）</span></span>のことであったか<span rend="notes">［＃「あったか」は底本では「あつたか」］</span>、高崎の観音山の麓に三人の小供を持った寡婦が住んでいた。それはある歳の暮であった。山の<span type="ruby"><span type="rb">前</span><span type="rp">（</span><span type="rt">むこう</span><span type="rp">）</span></span>の親戚の家に餅搗があって、其の手伝いに頼まれたので、小供を留守居にして置いて、朝早くから出かけることになった。<lb />
-　小供と云うのは、十三歳になる女の子と、八歳になる男の子と、それから五歳になる女の子であった。寡婦は家を出る時総領<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">むすめ</span><span type="rp">）</span></span>に云った。<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+　何時の<seg type="ruby"><seg type="rb">比</seg><seg type="rp">（</seg><seg type="rt">ころ</seg><seg type="rp">）</seg></seg>のことであったか<seg rend="notes" rendition="span">［＃「あったか」は底本では「あつたか」］</seg>、高崎の観音山の麓に三人の小供を持った寡婦が住んでいた。それはある歳の暮であった。山の<seg type="ruby"><seg type="rb">前</seg><seg type="rp">（</seg><seg type="rt">むこう</seg><seg type="rp">）</seg></seg>の親戚の家に餅搗があって、其の手伝いに頼まれたので、小供を留守居にして置いて、朝早くから出かけることになった。<lb />
+　小供と云うのは、十三歳になる女の子と、八歳になる男の子と、それから五歳になる女の子であった。寡婦は家を出る時総領<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">むすめ</seg><seg type="rp">）</seg></seg>に云った。<lb />
 「お土産にお餅を貰って来るから、好く留守番をしといでよ」<lb />
-「お母さん、<span type="ruby"><span type="rb">自家</span><span type="rp">（</span><span type="rt">うち</span><span type="rp">）</span></span>のことは好いが、彼の山には鬼婆が出ると云いますから、日が暮れたなら、泊って来るが宜しゅうございますよ」と、総領女が云った。<lb />
+「お母さん、<seg type="ruby"><seg type="rb">自家</seg><seg type="rp">（</seg><seg type="rt">うち</seg><seg type="rp">）</seg></seg>のことは好いが、彼の山には鬼婆が出ると云いますから、日が暮れたなら、泊って来るが宜しゅうございますよ」と、総領女が云った。<lb />
 「そうとも、そうとも、鬼婆が恐いから、つい日が暮れたら泊ってくるが、なるだけなら夕方に帰って来るよ」<lb />
 　寡婦はそれから男の子と末の子の頭を撫でながら云った。<lb />
 「姉さんの云うことを好く聞いてたら、どっさりお餅を貰って来る、好く姉さんの云うことを聞いといでよ」<lb />
-　そして、寡婦は親戚の家へ往って、せっせと餅搗を手伝ったが、思うようにはかどらなかったために、やっと終って帰り<span type="ruby"><span type="rb">準備</span><span type="rp">（</span><span type="rt">じたく</span><span type="rp">）</span></span>をしていると日が暮れた。親戚の者は<span type="ruby"><span type="rb">危険</span><span type="rp">（</span><span type="rt">あぶな</span><span type="rp">）</span></span>いからと云って止めたが、留守のことが心配になるうえに、小供が土産の餅を待っているので、それを悦ばしたいと思って、むりから帰りかけた。<lb />
+　そして、寡婦は親戚の家へ往って、せっせと餅搗を手伝ったが、思うようにはかどらなかったために、やっと終って帰り<seg type="ruby"><seg type="rb">準備</seg><seg type="rp">（</seg><seg type="rt">じたく</seg><seg type="rp">）</seg></seg>をしていると日が暮れた。親戚の者は<seg type="ruby"><seg type="rb">危険</seg><seg type="rp">（</seg><seg type="rt">あぶな</seg><seg type="rp">）</seg></seg>いからと云って止めたが、留守のことが心配になるうえに、小供が土産の餅を待っているので、それを悦ばしたいと思って、むりから帰りかけた。<lb />
 　夕月の光が雲の間から漏れていた。昼でさえあまり人の通らない観音山は、迷い易い小径しかついていないので、それに迷わないようにと、今日通って来たと思われる落葉の踏みひしがれたような路を、月の光に透して歩いた。<lb />
-　三町ばかりものぼったところで、随いて来た小径が尽きて、黄葉した雑木の茂りに突き当った。寡婦の心は周章てて来た。彼女は五六歩引返して、別の小径らしい物を見つけて、右の方に曲って<span rend="notes">［＃「曲って」は底本では「曲つて」］</span>往ったが、少し登るとまた木立に突き当った。彼女はますます周章てて後に引返したが、返している中に違った処に足を踏み入れていた。<lb />
-　……大変なことになってしまった。こんな山の中にまごまごしていたら、どんなことになるかも判らない、いっそ引返して朝になって帰ろうと思いだした。彼女は周章てて低い方へ低い方へとおりかけた。と、下の方から登って来た人影がちらと見えた。彼女は心をほっとさして立った。登って来た人影は直ぐ眼の前に来た。小作りな<span type="ruby"><span type="rb">光沢</span><span type="rp">（</span><span type="rt">いろつや</span><span type="rp">）</span></span>の好い、何時もにこにこしているらしい老婆の顔が見えた。<lb />
+　三町ばかりものぼったところで、随いて来た小径が尽きて、黄葉した雑木の茂りに突き当った。寡婦の心は周章てて来た。彼女は五六歩引返して、別の小径らしい物を見つけて、右の方に曲って<seg rend="notes" rendition="span">［＃「曲って」は底本では「曲つて」］</seg>往ったが、少し登るとまた木立に突き当った。彼女はますます周章てて後に引返したが、返している中に違った処に足を踏み入れていた。<lb />
+　……大変なことになってしまった。こんな山の中にまごまごしていたら、どんなことになるかも判らない、いっそ引返して朝になって帰ろうと思いだした。彼女は周章てて低い方へ低い方へとおりかけた。と、下の方から登って来た人影がちらと見えた。彼女は心をほっとさして立った。登って来た人影は直ぐ眼の前に来た。小作りな<seg type="ruby"><seg type="rb">光沢</seg><seg type="rp">（</seg><seg type="rt">いろつや</seg><seg type="rp">）</seg></seg>の好い、何時もにこにこしているらしい老婆の顔が見えた。<lb />
 「貴女は其処で何をなされております」と、其の老婆はにこにこしながら聞いた。<lb />
 「路が判らないようになりましたから、後へ戻ろうとしてるところでございます」と寡婦は云った。<lb />
 「何、此の路は、わけはありませんよ、いっしょにまいりましょう、お前さんは何方まで……」<lb />
@@ -53,52 +53,52 @@
 「それでは私といっしょにいらっしゃい、私もむこうの在所まで帰ります」<lb />
 「どうかお願い申します、これで助かりました、私は一人でどうしようかと思いました」<lb />
 「何、こんな山は、眼をつぶってても歩けますよ、さあ、参りましょう」<lb />
-　老婆が<span type="ruby"><span type="rb">前</span><span type="rp">（</span><span type="rt">さき</span><span type="rp">）</span></span>に立って歩くので、寡婦は其の後から跟いて往った。心が安まってくると寒さが身に滲みて来る。<lb />
+　老婆が<seg type="ruby"><seg type="rb">前</seg><seg type="rp">（</seg><seg type="rt">さき</seg><seg type="rp">）</seg></seg>に立って歩くので、寡婦は其の後から跟いて往った。心が安まってくると寒さが身に滲みて来る。<lb />
 「お前さん、何処へいらしておりました」と、老婆は歩きながら聞いた。<lb />
-「私は親類の餅搗を手伝いに往っておりました、遅いと山が<span type="ruby"><span type="rb">危険</span><span type="rp">（</span><span type="rt">あぶな</span><span type="rp">）</span></span>いから泊って往けと云われましたが、小供が餅を待っておりますから、早く帰りたいと思いまして」と、寡婦は後から云った。<lb />
+「私は親類の餅搗を手伝いに往っておりました、遅いと山が<seg type="ruby"><seg type="rb">危険</seg><seg type="rp">（</seg><seg type="rt">あぶな</seg><seg type="rp">）</seg></seg>いから泊って往けと云われましたが、小供が餅を待っておりますから、早く帰りたいと思いまして」と、寡婦は後から云った。<lb />
 「それではお前さんは、餅をお持ちになっておりますか、誠に申し兼ねますが、私は今朝からなにも喫べておりません、どうか一つ其の餅を分けてくれませんか」<lb />
-　寡婦の右の肩には風呂敷に包んだ餅があった。<span type="ruby"><span type="rb">数多</span><span type="rp">（</span><span type="rt">たくさん</span><span type="rp">）</span></span>には無い餅であるが、一つやそこいらは分けてやってもかまわなかった。それに路を教えてくれる礼もあった。<lb />
+　寡婦の右の肩には風呂敷に包んだ餅があった。<seg type="ruby"><seg type="rb">数多</seg><seg type="rp">（</seg><seg type="rt">たくさん</seg><seg type="rp">）</seg></seg>には無い餅であるが、一つやそこいらは分けてやってもかまわなかった。それに路を教えてくれる礼もあった。<lb />
 「三人の小供に貰って往きよる物ですから、たくさんにはありませんが、今晩のお礼に、ほんの一つ分けましょう」<lb />
-　寡婦は足を止めて風呂敷包を胸のあたりへ執り、結目の間から手を入れて、二つの餅を執り出してみると、老婆が<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>向きになって黄ろな<span type="ruby"><span type="rb">掌</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>を出しているので、それに載せてやった。<lb />
+　寡婦は足を止めて風呂敷包を胸のあたりへ執り、結目の間から手を入れて、二つの餅を執り出してみると、老婆が<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>向きになって黄ろな<seg type="ruby"><seg type="rb">掌</seg><seg type="rp">（</seg><seg type="rt">て</seg><seg type="rp">）</seg></seg>を出しているので、それに載せてやった。<lb />
 「これはありがとうございます」<lb />
-　老婆はくるりと前に向き直って、餅を喫べながらあるいた。そして、暫く歩いていると、彼女はまた立ち停って<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>を向きながら云った。<lb />
+　老婆はくるりと前に向き直って、餅を喫べながらあるいた。そして、暫く歩いていると、彼女はまた立ち停って<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>を向きながら云った。<lb />
 「誠に申し兼ねますが、もう一つお餅を分けてもらえますまいか、お腹が空いて困りました」<lb />
 　寡婦は老婆のあつかましい心が憎くなったが、此所で老婆に捨てられては困ると思ったので、しかたなくまた二つ出してやった。<lb />
 「あとはもう小供に執って往かねばなりません、これきりしかあげられませんよ」<lb />
-　老婆はにっと笑いながらそれを貰って歩きだしたが、間もなくまた立ち停って<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>を向いた。<lb />
+　老婆はにっと笑いながらそれを貰って歩きだしたが、間もなくまた立ち停って<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>を向いた。<lb />
 「お媽さん、誠にすみませんが、私はお腹が空いて歩けませんが……」<lb />
 　寡婦は突き飛ばしてやりたい程に老婆が憎らしかった。<lb />
 「お婆さん、もう駄目ですよ、あとは小供に執ってってやらないと、小供が待っておりますから」<lb />
 「私は餅でも喫べないと、お腹が空いて歩けない、も一つ貰いたい」<lb />
-　老婆は胸に両手をかけてさも空腹だと云うような風をして立った。はじめに見たにこにこした顔は無くなって、醜い<span type="ruby"><span type="rb">光沢</span><span type="rp">（</span><span type="rt">つや</span><span type="rp">）</span></span>の悪い顔を月の光に浮きあがらせていた。寡婦はしかたがないのでまた二つを執ってやった。<lb />
+　老婆は胸に両手をかけてさも空腹だと云うような風をして立った。はじめに見たにこにこした顔は無くなって、醜い<seg type="ruby"><seg type="rb">光沢</seg><seg type="rp">（</seg><seg type="rt">つや</seg><seg type="rp">）</seg></seg>の悪い顔を月の光に浮きあがらせていた。寡婦はしかたがないのでまた二つを執ってやった。<lb />
 「ほんとうにこれっきりよ」<lb />
-　老婆はまたそれを喫べながら歩いた。寡婦は後の残った餅の数を考えて、……もう二つ宛しかないぞと思った。彼女は老婆が憎くて憎くてしかたがなかった。彼女は怒を足にやって、落葉を蹴りつけるようにして歩いた。と、老婆はまた立ち停って<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>を向いた。<lb />
+　老婆はまたそれを喫べながら歩いた。寡婦は後の残った餅の数を考えて、……もう二つ宛しかないぞと思った。彼女は老婆が憎くて憎くてしかたがなかった。彼女は怒を足にやって、落葉を蹴りつけるようにして歩いた。と、老婆はまた立ち停って<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>を向いた。<lb />
 「私はどうもお腹が空いて空いて、歩けないよ、も一つ貰いたい」<lb />
 「お婆さん、困るじゃないか、小供が待ってると云ってるじゃないか、十二三になる子と、八つになる子と、五つになる子が、一日留守番をして、私の帰るのを待ってるじゃないか、小供に可哀そうじゃないか」<lb />
 　寡婦は叱りつけながらひょいと老婆の顔を見ると、老婆も憤っているように眼をぎらりと光らして、唇の紅い切れの長い口元に力を入れていた。鬼婆と云うことが寡婦の頭を走った。彼女は総身の肉が氷るように思った。彼女は一刻も早く山を越したくなった。<lb />
 「ではお婆さん、此所に六つ残ってるから、これを半分あげる、早く歩こうじゃないか」<lb />
-　寡婦は三つの餅を執って老婆にやった。老婆はそれをびしゃびしゃ喫って歩いたが、直ぐまた<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>を向いてぎろりとした眼を光らした。<lb />
+　寡婦は三つの餅を執って老婆にやった。老婆はそれをびしゃびしゃ喫って歩いたが、直ぐまた<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>を向いてぎろりとした眼を光らした。<lb />
 「お媽さん、も一つ貰いたいよ」<lb />
 　寡婦はもう餅などを惜しんでいられなかった。彼女は残りの餅を黙って老婆の手に渡した。<lb />
 「お婆さん、早く歩こう」<lb />
-　老婆は二三歩歩いたがもう<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>を向いた。<lb />
+　老婆は二三歩歩いたがもう<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>を向いた。<lb />
 「お媽さん、も一つ貰いたい」<lb />
 「餅はやってしまったじゃないか、もう他に何もないよ」<lb />
 「お媽さんの生命だ」<lb />
 　老婆の口はみるみる中に耳の辺まで裂けて、寡婦に飛びかかった。<lb />
 <lb />
-　留守居をしていた三人の小供は、夕方が来ると門口に出て観音山の方を見ていた。日は次第次第に暮れて、観音山のむこうの方に見えていた赤城山の姿も何時の間にか隠れて、暮烟が<span type="ruby"><span type="rb">四辺</span><span type="rp">（</span><span type="rt">あたり</span><span type="rp">）</span></span>にうっすらとかかると、観音山の裾に点けた灯明の灯が、怪物の眼のようにきらきらと光りだした。小供等は怖くなって家の<span type="ruby"><span type="rb">内</span><span type="rp">（</span><span type="rt">なか</span><span type="rp">）</span></span>へ入った。<lb />
-　そして、<span type="ruby"><span type="rb">地炉</span><span type="rp">（</span><span type="rt">いろり</span><span type="rp">）</span></span>の火の前で母の噂をしていたが、どうも帰って来そうな模様が無ので、総領<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">むすめ</span><span type="rp">）</span></span>は二人の年下の弟妹に、<lb />
+　留守居をしていた三人の小供は、夕方が来ると門口に出て観音山の方を見ていた。日は次第次第に暮れて、観音山のむこうの方に見えていた赤城山の姿も何時の間にか隠れて、暮烟が<seg type="ruby"><seg type="rb">四辺</seg><seg type="rp">（</seg><seg type="rt">あたり</seg><seg type="rp">）</seg></seg>にうっすらとかかると、観音山の裾に点けた灯明の灯が、怪物の眼のようにきらきらと光りだした。小供等は怖くなって家の<seg type="ruby"><seg type="rb">内</seg><seg type="rp">（</seg><seg type="rt">なか</seg><seg type="rp">）</seg></seg>へ入った。<lb />
+　そして、<seg type="ruby"><seg type="rb">地炉</seg><seg type="rp">（</seg><seg type="rt">いろり</seg><seg type="rp">）</seg></seg>の火の前で母の噂をしていたが、どうも帰って来そうな模様が無ので、総領<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">むすめ</seg><seg type="rp">）</seg></seg>は二人の年下の弟妹に、<lb />
 「お母さんは鬼婆が怖いから、今晩は泊って明日の朝帰って来る、寝て待っておりましょうよ」と云って、戸締をしてから、地炉の傍で三人が枕を並べて寝た。<lb />
 　其の夜遅くなってとんとんと門口を叩く音に、総領女が眼を覚した。<lb />
 「たあれ、たあれ、たあれ」と総領女が云った。<lb />
-「私じゃ、私じゃ」と、<span type="ruby"><span type="rb">戸外</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>の声は云った。<lb />
-　総領女は母が帰ったと思った。と、思う下から、日が暮れるなら泊って来ると約束した<span type="ruby"><span type="rb">詞</span><span type="rp">（</span><span type="rt">ことば</span><span type="rp">）</span></span>を思いだした。それに母は鬼婆のいる観音山を夜遅く越えて帰って来るはずが無いとも思った。<lb />
+「私じゃ、私じゃ」と、<seg type="ruby"><seg type="rb">戸外</seg><seg type="rp">（</seg><seg type="rt">そと</seg><seg type="rp">）</seg></seg>の声は云った。<lb />
+　総領女は母が帰ったと思った。と、思う下から、日が暮れるなら泊って来ると約束した<seg type="ruby"><seg type="rb">詞</seg><seg type="rp">（</seg><seg type="rt">ことば</seg><seg type="rp">）</seg></seg>を思いだした。それに母は鬼婆のいる観音山を夜遅く越えて帰って来るはずが無いとも思った。<lb />
 「開けて、開けて」と、戸外の声は云った。<lb />
 　……どうもお母さんの声とちがっているようだと、総領女は思った。<lb />
 「ほんとうにお母さんですか」と、総領女は耳を聳だてながら云った。<lb />
 「私よ、私よ、……おう寒い、寒いから早う開けておくれ」<lb />
-　総領女は起きて入口の方へ往ったが、どうも其の詞の調子が母と違っているように思われるので、戸の懸金を<span type="ruby"><span type="rb">放</span><span type="rp">（</span><span type="rt">はず</span><span type="rp">）</span></span>しかけてまた聞いた。<lb />
+　総領女は起きて入口の方へ往ったが、どうも其の詞の調子が母と違っているように思われるので、戸の懸金を<seg type="ruby"><seg type="rb">放</seg><seg type="rp">（</seg><seg type="rt">はず</seg><seg type="rp">）</seg></seg>しかけてまた聞いた。<lb />
 「ほんとうにお母さんですか」<lb />
 「ほんとうとも、ほんとうとも、お前たちが待ちかねているだろうと思って、急いで帰って来た」<lb />
 「それでもお母さんは、日が暮れたら泊って来ると、約束してたじゃありませんか」<lb />
@@ -106,9 +106,9 @@
 　どうしても詞の調子に違ったところがあった。<lb />
 「ほんとうのお母さんですか」<lb />
 「判ってるじゃないか、ほんとうのお母さんか嘘のお母さんか、顔を見れや判るじゃないか、開けておくれ」<lb />
-「そう」と云って、総領女はまた懸金を放そうとしたが、どんな物が母に化けて来ていないとも限らないと思いだしたので、<span type="ruby"><span type="rb">夫</span><span type="rp">（</span><span type="rt">それ</span><span type="rp">）</span></span>を考えて、「本当のお母さんか、お母さんでないかは、手に触ってみたら判る、手に触らしておくれよ」と、戸の破れ目から<span type="ruby"><span type="rb">隻手</span><span type="rp">（</span><span type="rt">かたて</span><span type="rp">）</span></span>を差しだした。<lb />
+「そう」と云って、総領女はまた懸金を放そうとしたが、どんな物が母に化けて来ていないとも限らないと思いだしたので、<seg type="ruby"><seg type="rb">夫</seg><seg type="rp">（</seg><seg type="rt">それ</seg><seg type="rp">）</seg></seg>を考えて、「本当のお母さんか、お母さんでないかは、手に触ってみたら判る、手に触らしておくれよ」と、戸の破れ目から<seg type="ruby"><seg type="rb">隻手</seg><seg type="rp">（</seg><seg type="rt">かたて</seg><seg type="rp">）</seg></seg>を差しだした。<lb />
 「触ってごらん、それ、此処にあるよ」<lb />
-　総領<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">むすめ</span><span type="rp">）</span></span>の手にがさがさした皮膚の荒い手首が触れた。彼女はぞっとして手を引込めた。<lb />
+　総領<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">むすめ</seg><seg type="rp">）</seg></seg>の手にがさがさした皮膚の荒い手首が触れた。彼女はぞっとして手を引込めた。<lb />
 「お母さんの手じゃない、お母さんの手は、こんながさがさした手じゃない」<lb />
 「それは、今日お餅を搗いたなりで、まだ洗わないから、がさがさしてるが、洗ったらとろとろしだすよ、……じゃ、ちょっと洗って来るから、待っといで」<lb />
 　こう云って戸の外の人は、門口を離れて往ったが、やがて引返して来た。<lb />
@@ -117,10 +117,10 @@
 「これでもお母さんの手じゃないか」<lb />
 「お母さんの手よ」<lb />
 　総領女は急いで戸を開けた。母親はつかつかとあがって、地炉のそばに寝ている二人の小供をじっと見ていた。総領女は其の傍へ往ってほんとうの母親だろうかと其の顔を覗いて見た。微暗くてはっきりとはしないが、顔は母親であった。<lb />
-「お餅も貰って来ておるが、朝<span type="ruby"><span type="rb">皆</span><span type="rp">（</span><span type="rt">みんな</span><span type="rp">）</span></span>が起きた時にいっしょにやる、私と赤ちゃんとは奥の<span type="ruby"><span type="rb">室</span><span type="rp">（</span><span type="rt">へや</span><span type="rp">）</span></span>へ往って寝るから、お前たちは此処で寝るが好い」<lb />
+「お餅も貰って来ておるが、朝<seg type="ruby"><seg type="rb">皆</seg><seg type="rp">（</seg><seg type="rt">みんな</seg><seg type="rp">）</seg></seg>が起きた時にいっしょにやる、私と赤ちゃんとは奥の<seg type="ruby"><seg type="rb">室</seg><seg type="rp">（</seg><seg type="rt">へや</seg><seg type="rp">）</seg></seg>へ往って寝るから、お前たちは此処で寝るが好い」<lb />
 　総領女は母親の云うとおりになって、弟の傍へ横になると、母親は妹の子を抱いて奥の室へ入って往った。<lb />
 　総領女は横になったものの、母親の素振に腑に落ちないところがあるので、どうしても睡れなかった。其のうちに奥の室の方からびしゃびしゃと云う音が聞えて来た。其の音は犬か猫かが物を喫うような音であった。総領女は耳を聳てた。猫が鼠でも喫っているだろうかと思ったが、家には猫も飼ってないので、どうしても見当がつかなかった。と、彼女は、今晩のお母さんがほんとうのお母さんでなかったら、なにをするかも判らないと思いだした。彼女は妹が心配になって来た。で、そっと起きて、行灯の灯の点いている奥の障子の傍へ往って、紙の破れ目から中を覗いてみた。目のぎらぎら光る鬼婆が坐って、大きな口をして妹の手をびしゃびしゃと喫っていた。総領女はのけぞる程に驚いたが、知られては大変だと思ったので、そっと寝床へ戻って来て、弟をそろそろと起して其の耳に口をつけて囁いた。<lb />
-「鬼婆がお母さんに化けて来て、今、妹を喫べてるから、逃げなくちゃならんが、ただ逃げては追っかけられるから、私が前へ<span type="ruby"><span type="rb">便所</span><span type="rp">（</span><span type="rt">はばかり</span><span type="rp">）</span></span>へ往くようにして出て往って、<span type="ruby"><span type="rb">彼処</span><span type="rp">（</span><span type="rt">あすこ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">三叉路</span><span type="rp">（</span><span type="rt">みつまた</span><span type="rp">）</span></span>の処で待っておる、お前も後から便所へ行くと云って出て来て、三叉路の処へお出で」<lb />
+「鬼婆がお母さんに化けて来て、今、妹を喫べてるから、逃げなくちゃならんが、ただ逃げては追っかけられるから、私が前へ<seg type="ruby"><seg type="rb">便所</seg><seg type="rp">（</seg><seg type="rt">はばかり</seg><seg type="rp">）</seg></seg>へ往くようにして出て往って、<seg type="ruby"><seg type="rb">彼処</seg><seg type="rp">（</seg><seg type="rt">あすこ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">三叉路</seg><seg type="rp">（</seg><seg type="rt">みつまた</seg><seg type="rp">）</seg></seg>の処で待っておる、お前も後から便所へ行くと云って出て来て、三叉路の処へお出で」<lb />
 　総領女はこう云って置いて、急に眼が覚めたような風をして、欠伸をしたり咳をしたりした後で、裏口の方へ往った。鬼婆のびしゃびしゃと口を云わす音はぴったり止んだ。<lb />
 　弟のほうも姉のやったようにして、起きあがろうとすると、鬼婆が云った。<lb />
 「お前は何処へ往く」<lb />
@@ -131,7 +131,7 @@
 「汚いじゃないか」<lb />
 「そんなら早く往って姉さんといっしょに入って来るが好い」<lb />
 　弟は怖ごわ裏の方へ往ったが、入口を出ると、後も見ないで三叉路の方へ走った。空はもう薄すらと明けかけて、星の光がまばらに寒く光っていた。<lb />
-　三叉路の処には、総領女が弟の逃げて来るのを待っていた。二人は手を引き合ってむこうへむこうへと走った。と、<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>のほうで恐ろしい声がした。走りながら揮り返って見ると、二人を追っかけて来る鬼婆の手を拡げた姿が<span type="ruby"><span type="rb">微明</span><span type="rp">（</span><span type="rt">うすあか</span><span type="rp">）</span></span>りで路の上に小さく見えている。<lb />
+　三叉路の処には、総領女が弟の逃げて来るのを待っていた。二人は手を引き合ってむこうへむこうへと走った。と、<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>のほうで恐ろしい声がした。走りながら揮り返って見ると、二人を追っかけて来る鬼婆の手を拡げた姿が<seg type="ruby"><seg type="rb">微明</seg><seg type="rp">（</seg><seg type="rt">うすあか</seg><seg type="rp">）</seg></seg>りで路の上に小さく見えている。<lb />
 　二人は走り続けた。路は一面に白い雪のような花の咲いている中へ入った。やがて其の路が尽きて、前に深い深い絶壁の谷があらわれた。鬼婆は直ぐ後へ迫って来た。二人は進退がきわまったところで、其の傍に一本の高い高い神代杉のような巨木が生えていた。二人は他に逃れる途がないので、其の木の上に登って往った。鬼婆もこれを見ると、また木の上に登りだした。<lb />
 　二人は梢にまで登りつめた。其のうえは飛びおりるか、鬼婆に喫われるかするより他に途がなかった。二人の姉弟は神に縋りついた。<lb />
 「此の世の中に、ほんとうに神様と云う者があるなら、どうぞ、私等二人を救うてくださいませ」<lb />
@@ -142,6 +142,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

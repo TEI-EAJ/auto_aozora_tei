@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 熊は月夜に声きいた。<lb />
 どこか遠くでよんでゐた。<lb />
 <lb />
@@ -46,7 +46,7 @@
 アイヌのやうな声だつた。<lb />
 <lb />
 熊は故郷を思つてた。<lb />
-<span type="ruby"><span type="rb">落葉松林</span><span type="rp">（</span><span type="rt">からまつばやし</span><span type="rp">）</span></span>を思つてた。<lb />
+<seg type="ruby"><seg type="rb">落葉松林</seg><seg type="rp">（</seg><seg type="rt">からまつばやし</seg><seg type="rp">）</seg></seg>を思つてた。<lb />
 <lb />
 熊はおゝんとほえてみた。<lb />
 どこか遠くで、<lb />
@@ -54,6 +54,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

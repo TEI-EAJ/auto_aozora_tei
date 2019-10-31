@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ネコとネズミのいっしょのくらし</title>
+        <author>グリム　Grimm</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-08-30">作成</resp><resp /><note>
+<lb />
+底本：「グリム童話集（1）」偕成社文庫、偕成社<lb />
+　　　1980（昭和55）年6月1刷<lb />
+　　　2009（平成21）年6月49刷<lb />
+入力：sogo<lb />
+校正：チエコ<lb />
+<date when="2019-08-30">2019年8月30日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>sogo</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>チエコ</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>ネコとネズミのいっしょのくらし</title><author>グリム　Grimm</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+　ネコがネズミと知りあいになりました。ネコはネズミにむかって、これからきみをうんとかわいがって、なかよくしてあげるよ、と、さかんにうまいことをいいたてました。それで、とうとうネズミは、ネコとおなじうちにすんで、いっしょにくらすことを<seg type="ruby"><seg type="rb">承知</seg><seg type="rp">（</seg><seg type="rt">しょうち</seg><seg type="rp">）</seg></seg>してしまいました。<lb />
+「だが、わたしたちは、冬になってもいいように、<seg type="ruby"><seg type="rb">用意</seg><seg type="rp">（</seg><seg type="rt">ようい</seg><seg type="rp">）</seg></seg>をしておかなくちゃならないよ。さもないと、ひもじいめにあうからね。」<lb />
+と、ネコがいいました。<lb />
+「ネズミくん、きみはそこらじゅう、むやみに歩きまわることはできないだろう。ネズミとりにでもひっかかるとこまるものねえ。」<lb />
+　このしんせつな<seg type="ruby"><seg type="rb">忠告</seg><seg type="rp">（</seg><seg type="rt">ちゅうこく</seg><seg type="rp">）</seg></seg>どおりにして、ふたりはヘット<seg rend="sho1" rendition="span" style="font-size: small;">（<seg type="ruby"><seg type="rb">料理</seg><seg type="rp">（</seg><seg type="rt">りょうり</seg><seg type="rp">）</seg></seg>につかう牛の<seg type="ruby"><seg type="rb">脂肪</seg><seg type="rp">（</seg><seg type="rt">しぼう</seg><seg type="rp">）</seg></seg>）</seg>のはいった小さなつぼをひとつ買いこみました。でも、そのつぼをどこへおいたものか、どうもふたりにはよくわかりません。それで、長いこと考えぬいたあげくに、とうとう、ネコがこういいました。<lb />
+「こいつをしまっておくのにいい<seg type="ruby"><seg type="rb">場所</seg><seg type="rp">（</seg><seg type="rt">ばしょ</seg><seg type="rp">）</seg></seg>といったら、まず<seg type="ruby"><seg type="rb">教会</seg><seg type="rp">（</seg><seg type="rt">きょうかい</seg><seg type="rp">）</seg></seg>のほかにはないだろうよ。あそこなら、まさかぬすみだすやつもいまいからね。<seg type="ruby"><seg type="rb">祭壇</seg><seg type="rp">（</seg><seg type="rt">さいだん</seg><seg type="rp">）</seg></seg>の下においといて、入り用なときがくるまでは、手をつけないでおくことにしよう。」<lb />
+　これで、つぼはだれにもぬすまれる<seg type="ruby"><seg type="rb">心配</seg><seg type="rp">（</seg><seg type="rt">しんぱい</seg><seg type="rp">）</seg></seg>はなくなりました。ところが、いくらもたたないうちに、ネコはヘットがなめたくてしようがなくなりました。そこで、ネズミにむかっていいました。<lb />
+「きみに話したいことがあるんだがね、ネズミくん。じつは、わたしはおばさんから<seg type="ruby"><seg type="rb">名</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>づけ<seg type="ruby"><seg type="rb">親</seg><seg type="rp">（</seg><seg type="rt">おや</seg><seg type="rp">）</seg></seg>になってくれってたのまれているんだよ。おばさんがね、白と<seg type="ruby"><seg type="rb">茶色</seg><seg type="rp">（</seg><seg type="rt">ちゃいろ</seg><seg type="rp">）</seg></seg>の<seg rend="sesame_dot" rendition="em">ぶち</seg>のむすこを一ぴき生んだもんだから、その子の<seg type="ruby"><seg type="rb">洗礼</seg><seg type="rp">（</seg><seg type="rt">せんれい</seg><seg type="rp">）</seg></seg>にたちあってくれっていうのさ。だから、きょうはひとつ、わたしをでかけさせて、おまえさんひとりで、うちのことをやっていてくれないかね。」<lb />
+「いいですよ、いいですよ。」<lb />
+と、ネズミはこたえました。<lb />
+「えんりょなくいってらっしゃい。あなたがなにかおいしいものでもめしあがるときには、あたしのことも思いだしてくださいな。<seg type="ruby"><seg type="rb">産婦</seg><seg type="rp">（</seg><seg type="rt">さんぷ</seg><seg type="rp">）</seg></seg>さんののむ、あまい<seg type="ruby"><seg type="rb">赤</seg><seg type="rp">（</seg><seg type="rt">あか</seg><seg type="rp">）</seg></seg>ブドウ<seg type="ruby"><seg type="rb">酒</seg><seg type="rp">（</seg><seg type="rt">しゅ</seg><seg type="rp">）</seg></seg>のようなものなら、あたしもひとしずくぐらい、いただきたいですよ。」<lb />
+　ところがこれは、ぜんぶでたらめなんです。だって、ネコにはおばさんなんてひとりもないんですからね。ですから、名づけ親にたのまれたなんて、とんでもない話なのです。<lb />
+　ネコは、そのまままっすぐ<seg type="ruby"><seg type="rb">教会</seg><seg type="rp">（</seg><seg type="rt">きょうかい</seg><seg type="rp">）</seg></seg>へいって、あのつぼのところへしのびこむと、さっそくピチャ、ピチャなめはじめました。そしてまもなく、ヘットのどろんとした<seg type="ruby"><seg type="rb">上皮</seg><seg type="rp">（</seg><seg type="rt">うわかわ</seg><seg type="rp">）</seg></seg>を、きれいになめてしまいました。それから、町の家いえの<seg type="ruby"><seg type="rb">屋根</seg><seg type="rp">（</seg><seg type="rt">やね</seg><seg type="rp">）</seg></seg>の上を<seg type="ruby"><seg type="rb">散歩</seg><seg type="rp">（</seg><seg type="rt">さんぽ</seg><seg type="rp">）</seg></seg>して、あたりのようすをながめてから、こんどは日なたに長ながとねそべりました。そして、さっきのヘットのつぼのことを思いだしては、そのたびに、ひげをこすっていました。<lb />
+　日がくれてから、ネコはやっとうちへかえってきました。<lb />
+「おや、おかえりになったのね。きょうは、さぞかしたのしかったでしょう。」<lb />
+と、ネズミがいいました。<lb />
+「うん、うまくいったよ。」<lb />
+と、ネコがこたえました。<lb />
+「赤ちゃんにはどんな名まえがつけられましたの。」<lb />
+と、ネズミがたずねました。<lb />
+「〈<seg type="ruby"><seg type="rb">皮</seg><seg type="rp">（</seg><seg type="rt">かわ</seg><seg type="rp">）</seg></seg>なめ〉さ。」<lb />
+と、ネコは、そっけなくこたえました。<lb />
+「皮なめですって。」<lb />
+と、ネズミは思わず大きな声でいいました。<lb />
+「それはまた、きみょうな、かわった名まえですのね。あなたがたのおうちでは、そういう名まえがよくつけられるんですの。」<lb />
+「こんなのは、なんでもないさ。きみの<seg type="ruby"><seg type="rb">名</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>づけ<seg type="ruby"><seg type="rb">子</seg><seg type="rp">（</seg><seg type="rt">ご</seg><seg type="rp">）</seg></seg>の〈パンくずどろぼう〉なんてのよりは、わるかあないぜ。」<lb />
+と、ネコはいいました。<lb />
+　それからまもなく、ネコはまたまた、ヘットがなめたくてたまらなくなりました。そこで、ネコはネズミにいいました。<lb />
+「ほんとに、きみにはすまないけど、もういっぺん、うちのことをひとりでやってもらわなきゃならない。じつは、また<seg type="ruby"><seg type="rb">名</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>づけ<seg type="ruby"><seg type="rb">親</seg><seg type="rp">（</seg><seg type="rt">おや</seg><seg type="rp">）</seg></seg>にたのまれちまったんだよ。なにしろ、こんどの赤んぼうの<seg type="ruby"><seg type="rb">首</seg><seg type="rp">（</seg><seg type="rt">くび</seg><seg type="rp">）</seg></seg>のまわりにゃ白い<seg type="ruby"><seg type="rb">輪</seg><seg type="rp">（</seg><seg type="rt">わ</seg><seg type="rp">）</seg></seg>がついてるってことだから、どうしてもことわるわけにゃいかないのさ。」<lb />
+　心のすなおなネズミは、すぐに<seg type="ruby"><seg type="rb">承知</seg><seg type="rp">（</seg><seg type="rt">しょうち</seg><seg type="rp">）</seg></seg>しました。ところがネコのほうは、町の石べいのうしろをとおって、<seg type="ruby"><seg type="rb">教会</seg><seg type="rp">（</seg><seg type="rt">きょうかい</seg><seg type="rp">）</seg></seg>のなかへしのびこみました。そして、あのヘットのつぼを<seg type="ruby"><seg type="rb">半分</seg><seg type="rp">（</seg><seg type="rt">はんぶん</seg><seg type="rp">）</seg></seg>ほどもたいらげてしまったのです。<lb />
+「まったく、このうまさは、ひとりで食べてみなくちゃわからんて。」<lb />
+と、ネコはいいました。そして、きょうはうまいことをやったもんだと、すっかり<seg type="ruby"><seg type="rb">満足</seg><seg type="rp">（</seg><seg type="rt">まんぞく</seg><seg type="rp">）</seg></seg>していました。やがて、ネコがうちにかえってきますと、ネズミがたずねました。<lb />
+「こんどの赤ちゃんは、なんて名まえをつけてもらいましたの。」<lb />
+「〈<seg type="ruby"><seg type="rb">半分</seg><seg type="rp">（</seg><seg type="rt">はんぶん</seg><seg type="rp">）</seg></seg>ぺろり〉。」<lb />
+と、ネコはこたえました。<lb />
+「半分ぺろりですって。なにをおっしゃるのよ。そんな名まえは、あたしまだきいたこともありませんわ。だいいち、そんな名まえ、<seg type="ruby"><seg type="rb">人名簿</seg><seg type="rp">（</seg><seg type="rt">じんめいぼ</seg><seg type="rp">）</seg></seg>にだってのっちゃいませんよ。」<lb />
+　ネコは、まもなく、またおいしいごちそうが食べたくなって、しきりに口のなかにつばきがたまってきました。<lb />
+「いいことは三度あるっていうがね。」<lb />
+と、ネコはネズミに話しました。<lb />
+「じつは、また<seg type="ruby"><seg type="rb">名</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>づけ<seg type="ruby"><seg type="rb">親</seg><seg type="rp">（</seg><seg type="rt">おや</seg><seg type="rp">）</seg></seg>になってくれっていわれているんだよ。こんどの子はまっ黒でね、足だけが白いんだよ。そのほかは、からだじゅうどこにも白い<seg type="ruby"><seg type="rb">毛</seg><seg type="rp">（</seg><seg type="rt">け</seg><seg type="rp">）</seg></seg>なんて一本もはえていないのさ。こんなのは、二、三年に一ぴきぐらいしか生まれないんだよ。だから、どうかわたしをもういちどいかしておくれ。」<lb />
+「<seg type="ruby"><seg type="rb">皮</seg><seg type="rp">（</seg><seg type="rt">かわ</seg><seg type="rp">）</seg></seg>なめだの、<seg type="ruby"><seg type="rb">半分</seg><seg type="rp">（</seg><seg type="rt">はんぶん</seg><seg type="rp">）</seg></seg>ぺろりだのって、ずいぶんおかしな名まえなのね。考えてみると、なんだかへんだわ。」<lb />
+と、ネズミはこたえました。<lb />
+「きみは、そのネズミ色のあらっぽい毛の<seg type="ruby"><seg type="rb">上着</seg><seg type="rp">（</seg><seg type="rt">うわぎ</seg><seg type="rp">）</seg></seg>をきこんで、長い毛をおさげにして、いつもうちのなかにばかりひっこんでいる。おまけに、年がら年じゅう、くよくよしている。昼まそとへでないもんだから、そんなふうになっちまうんだね。」<lb />
+と、ネコがいいました。<lb />
+　ネズミは、ネコのるすのあいだにうちのなかをきれいにかたづけて、きちんとしておきました。ところが、くいしんぼうのネコは、つぼのなかのヘットをすっかりたいらげてしまいました。<lb />
+「みんなたいらげちまうと、やっと<seg type="ruby"><seg type="rb">安心</seg><seg type="rp">（</seg><seg type="rt">あんしん</seg><seg type="rp">）</seg></seg>できるもんだ。」<lb />
+　ネコはこうひとりごとをいって、<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>がふけてから、ようやく、<seg type="ruby"><seg type="rb">大満腹</seg><seg type="rp">（</seg><seg type="rt">だいまんぷく</seg><seg type="rp">）</seg></seg>でうちにかえってきました。ネズミは、さっそく、三ばんめの赤んぼうにつけられた名まえをきいてみました。<lb />
+「こんどの名まえも、きみには気にいらないだろうよ。」<lb />
+と、ネコがいいました。<lb />
+「こんどのは、〈みんなぺろり〉というのさ。」<lb />
+「みんなぺろりですって。」<lb />
+と、ネズミは大声をあげました。<lb />
+「そんな名まえが<seg type="ruby"><seg type="rb">印刷</seg><seg type="rp">（</seg><seg type="rt">いんさつ</seg><seg type="rp">）</seg></seg>されてるのは、まだ見たこともないわ。みんなぺろり。いったい、なんのことだろう。」<lb />
+　ネズミは頭をふりましたが、からだをまるくして、そのままねてしまいました。<lb />
+　それからは、もうだれも、ネコに<seg type="ruby"><seg type="rb">名</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>づけ<seg type="ruby"><seg type="rb">親</seg><seg type="rp">（</seg><seg type="rt">おや</seg><seg type="rp">）</seg></seg>になってくれとたのむこともありませんでした。しかし、やがて冬がちかづいてきて、そとに食べものがなんにも見つからなくなりました。すると、ネズミはたくわえのことを思いだして、いいました。<lb />
+「ねえ、ネコさん、ふたりでしまっておいたヘットのつぼのところへいきましょうよ。きっとおいしいわよ。」<lb />
+「よしきた。」<lb />
+と、ネコはこたえました。<lb />
+「きっと、きみのそのうすっぺらな<seg type="ruby"><seg type="rb">舌</seg><seg type="rp">（</seg><seg type="rt">した</seg><seg type="rp">）</seg></seg>を、<seg type="ruby"><seg type="rb">窓</seg><seg type="rp">（</seg><seg type="rt">まど</seg><seg type="rp">）</seg></seg>からだしたときのような<seg type="ruby"><seg type="rb">味</seg><seg type="rp">（</seg><seg type="rt">あじ</seg><seg type="rp">）</seg></seg>がするだろうぜ。」<lb />
+　そこで、ふたりはでかけました。むこうへついてみますと、たしかに、つぼはもとのままの<seg type="ruby"><seg type="rb">場所</seg><seg type="rp">（</seg><seg type="rt">ばしょ</seg><seg type="rp">）</seg></seg>においてありました。ところが、その<seg type="ruby"><seg type="rb">中身</seg><seg type="rp">（</seg><seg type="rt">なかみ</seg><seg type="rp">）</seg></seg>がからっぽです。<lb />
+「まあ。」<lb />
+と、ネズミがいいました。<lb />
+「いまこそ、あたしにも、よっくわかったわ。すっかりわけがのみこめてよ。あなたは、たいへんなお友だちだったのね。なにもかもきれいに食べちまってさ、<seg type="ruby"><seg type="rb">名</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>づけ<seg type="ruby"><seg type="rb">親</seg><seg type="rp">（</seg><seg type="rt">おや</seg><seg type="rp">）</seg></seg>になるなんていっちゃあ食べて、はじめは<seg type="ruby"><seg type="rb">上皮</seg><seg type="rp">（</seg><seg type="rt">うわかわ</seg><seg type="rp">）</seg></seg>をなめ、それから<seg type="ruby"><seg type="rb">半分</seg><seg type="rp">（</seg><seg type="rt">はんぶん</seg><seg type="rp">）</seg></seg>ぺろりとやって、そのつぎには……」<lb />
+「だまらないか。」<lb />
+と、ネコがどなりつけました。<lb />
+「もうひとこといってみろ、おまえをくっちまうぞ。」<lb />
+「みんなぺろり」と、あわれなネズミが、舌の上まででかかっていたことばを、口にするかしないうちに、ネコはネズミめがけてひととびにおどりかかりました。そして、ネズミをひっつかむがはやいか、ぐうっとのみこんでしまったのです。<lb />
+　いいですか、<seg type="ruby"><seg type="rb">世</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>のなかってこんなものなんですよ。<lb />
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

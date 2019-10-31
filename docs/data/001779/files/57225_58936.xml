@@ -36,29 +36,29 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="notes">［＃ページの左右中央］</span><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="notes" rendition="span">［＃ページの左右中央］</seg><lb />
 <lb />
 <lb />
-<span rend="jisage_6" rendition="div" style="margin-left: 6em">
-<span rend="jisage_1" rendition="div" style="margin-left: 1em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">作者のことば</span></span></span>
+<seg rend="jisage_6" rendition="div" style="margin-left: 6em">
+<seg rend="jisage_1" rendition="div" style="margin-left: 1em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">作者のことば</seg></seg></seg>
 <lb />
 <lb />
-<span rend="jizume_30" rendition="div" style="width: 30em">
-　怪人二十面相はまほうつかいのようなふしぎなどろぼうです。二十のちがった顔を持つといわれる変そうの名人です。名探偵<span type="ruby"><span type="rb">明智小五郎</span><span type="rp">（</span><span type="rt">あけちこごろう</span><span type="rp">）</span></span>の助手<span type="ruby"><span type="rb">小林</span><span type="rp">（</span><span type="rt">こばやし</span><span type="rp">）</span></span>少年と少年探偵団の団員たちは、この怪人をむこうにまわして、ちえの戦いをいどむのです。<lb />
-<span rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">「こども家の光」昭和三十五年八月号</span>
-</span>
-</span>
+<seg rend="jizume_30" rendition="div" style="width: 30em">
+　怪人二十面相はまほうつかいのようなふしぎなどろぼうです。二十のちがった顔を持つといわれる変そうの名人です。名探偵<seg type="ruby"><seg type="rb">明智小五郎</seg><seg type="rp">（</seg><seg type="rt">あけちこごろう</seg><seg type="rp">）</seg></seg>の助手<seg type="ruby"><seg type="rb">小林</seg><seg type="rp">（</seg><seg type="rt">こばやし</seg><seg type="rp">）</seg></seg>少年と少年探偵団の団員たちは、この怪人をむこうにまわして、ちえの戦いをいどむのです。<lb />
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em">「こども家の光」昭和三十五年八月号</seg>
+</seg>
+</seg>
 <lb />
 <lb />
-<span rend="notes">［＃改ページ］</span><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">どろぼう人形</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">どろぼう人形</seg></seg></seg>
 <lb />
 　ここは東京のまんなかにある、大きなデパートの男の洋服売り場です。時は、まよなかです。<lb />
 　まよなかのデパートは、昼間のこんざつにひきかえて、ものすごいほど、静かです。<lb />
 　ちん列台には、みな白いきれがかけてあるので、まるで白い墓がならんでいるようなかんじです。<lb />
-　<span type="ruby"><span type="rb">守衛</span><span type="rp">（</span><span type="rt">しゅえい</span><span type="rp">）</span></span>が二人ずつ一組になって、大きな<span type="ruby"><span type="rb">懐中</span><span type="rp">（</span><span type="rt">かいちゅう</span><span type="rp">）</span></span>電灯をてらしながら、たえずデパートの中を、見まわっています。いま、ちょうど、二人づれの守衛が、洋服売り場へやってきました。<lb />
+　<seg type="ruby"><seg type="rb">守衛</seg><seg type="rp">（</seg><seg type="rt">しゅえい</seg><seg type="rp">）</seg></seg>が二人ずつ一組になって、大きな<seg type="ruby"><seg type="rb">懐中</seg><seg type="rp">（</seg><seg type="rt">かいちゅう</seg><seg type="rp">）</seg></seg>電灯をてらしながら、たえずデパートの中を、見まわっています。いま、ちょうど、二人づれの守衛が、洋服売り場へやってきました。<lb />
 　売り場には、洋服のきれじなどが、いっぱいかけてあります。そのまえに、洋服をきた男の人形が、いくつも立っているのです。<lb />
 　懐中電灯のまるい光が、その人形の一つの顔を、てらしました。<lb />
 　はでな、しまのせびろをきた人形です。その顔は、色のついたビニールをぬったもので、できていて、目やまゆげが、黒い絵の具で、書いてあるのです。<lb />
@@ -69,13 +69,13 @@
 　その開いた、二つのあなから、のぞいているのは、生きた人間の目でした。パチパチと、まばたきをして、目の玉が、キョロキョロと、動くのです。<lb />
 　人形のからだが、フラフラと、ゆれたかとおもうと、足を高く上げて、そのちん列場の、ひくいかこいを、またぎこし、そのまま、通路を歩いていくではありませんか。<lb />
 　人形が歩くのです。<lb />
-　やがて、人形は、階段を<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">あが</span><span type="rp">）</span></span>り始めました。うすぐらい階段を、まるで<span rend="sesame_dot" rendition="em">む</span><span type="ruby"><span type="rb">遊病者</span><span type="rp">（</span><span type="rt">ゆうびょうしゃ</span><span type="rp">）</span></span>のように、のぼっていくのです。階段を二つのぼると、そこは時計や宝石の売り場でした。<lb />
-　人形は、宝石のちん列だなにかぶせてある、白いきれをまくると、ポケットから、<span type="ruby"><span type="rb">合鍵</span><span type="rp">（</span><span type="rt">あいかぎ</span><span type="rp">）</span></span>をとりだして、あついガラスの戸をあけました。<lb />
-　そして、ちん列だなの中へ、手を入れて、ダイヤのゆびわや、<span type="ruby"><span type="rb">真珠</span><span type="rp">（</span><span type="rt">しんじゅ</span><span type="rp">）</span></span>の首かざりなどを、手あたりしだいに、つかみとると、それをみんな、自分のワイシャツの中の、腹巻きに、しまいこんでしまいました。<lb />
+　やがて、人形は、階段を<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">あが</seg><seg type="rp">）</seg></seg>り始めました。うすぐらい階段を、まるで<seg rend="sesame_dot" rendition="em">む</seg><seg type="ruby"><seg type="rb">遊病者</seg><seg type="rp">（</seg><seg type="rt">ゆうびょうしゃ</seg><seg type="rp">）</seg></seg>のように、のぼっていくのです。階段を二つのぼると、そこは時計や宝石の売り場でした。<lb />
+　人形は、宝石のちん列だなにかぶせてある、白いきれをまくると、ポケットから、<seg type="ruby"><seg type="rb">合鍵</seg><seg type="rp">（</seg><seg type="rt">あいかぎ</seg><seg type="rp">）</seg></seg>をとりだして、あついガラスの戸をあけました。<lb />
+　そして、ちん列だなの中へ、手を入れて、ダイヤのゆびわや、<seg type="ruby"><seg type="rb">真珠</seg><seg type="rp">（</seg><seg type="rt">しんじゅ</seg><seg type="rp">）</seg></seg>の首かざりなどを、手あたりしだいに、つかみとると、それをみんな、自分のワイシャツの中の、腹巻きに、しまいこんでしまいました。<lb />
 　この人形は、宝石どろぼうだったのです。どろぼうが人形にばけて、洋服売り場に立っていて、夜のふけるのをまって、仕事を始めたのです。<lb />
 　たくさんの宝石をぬすんでしまうと、人形は階段をおりて、洋服売り場にかえり、なにくわぬ顔で、もとの場所に、立ちました。もう目のふたを、しめたとみえて、絵の具で書いた人形の目です。顔も、手も、からだも、どこから見ても、人形です。まるでかかしのように、シャンと立って身うごきもしません。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">ふしぎな変装</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">ふしぎな変装</seg></seg></seg>
 <lb />
 　あくる日の朝になりました。デパートの店員たちが、売り場へやってきました。そして、ちん列台の白いきれを、とりのけたり、そのへんの、そうじをしたりしました。<lb />
 　あのどろぼう人形は、もとの場所に、なにくわぬ顔で、立っています。だれも、それが人間だとは気がつきません。<lb />
@@ -93,7 +93,7 @@
 　それがわかったので、どろぼう人形は、パッと、かこいからとびだして、にげだしました。おおぜいのお客さんのあいだを、くぐりぬけて人形が走っていくのです。みんな、おどろいて立ちどまったまま、あっけにとられていました。<lb />
 　どろぼう人形は、ちん列場をグルグル走りぬけて、店員だけのつかうドアのなかへ、消えてしまいました。その中には、支配人室や、応接間や、物おきべやなどがあります。どろぼう人形は、その物おきべやにとびこんで、大きな箱の積んである、すみっこにかくれると、みょうなことをはじめました。<lb />
 　いきなり、顔の皮を、めくりとったのです。それは、うすいビニールでできたお面でした。耳のうしろまでつづいたお面です。それをはぎとると、中から、三十五、六才の男の顔があらわれました。つぎには、両手にはめていた、手ぶくろのようなものを、ぬきとりました。ビニールの手ぶくろで、人形の手にみせかけてあったのです。それから、手ばやく、上着とズボンをぬぎ、両方とも、うらがえしにして、もとのように身につけました。<lb />
-　洋服の表は、はでなしまですが、うらはじみな<span type="ruby"><span type="rb">無地</span><span type="rp">（</span><span type="rt">むじ</span><span type="rp">）</span></span>の茶色です。うらがえしても、ちゃんとした、せびろなのです。変装のためにつくった、表もうらも使える洋服なのです。<lb />
+　洋服の表は、はでなしまですが、うらはじみな<seg type="ruby"><seg type="rb">無地</seg><seg type="rp">（</seg><seg type="rt">むじ</seg><seg type="rp">）</seg></seg>の茶色です。うらがえしても、ちゃんとした、せびろなのです。変装のためにつくった、表もうらも使える洋服なのです。<lb />
 　洋服の変装がすむと、こんどは、顔の変装です。ポケットから出した小さな鏡を見ながら、鼻の下に、つけひげをつけ、しゃれためがねをかけました。そして、小さな箱にはいっている、絵の具と筆で、顔の変装をしました。<lb />
 　おおいそぎでやったので、ぜんたいで、二分ほどしか、かかりませんでした。<lb />
 　パッと、物おきべやをとびだすと、むこうの支配人室のドアを、ソッと開いて、中をのぞきました。支配人はどこへいったのか、へやの中はからっぽです。<lb />
@@ -107,14 +107,14 @@
 　店員たちは、そういいすてて、いそいで、かけだしていきました。<lb />
 　それを見おくって、どろぼう人形は、つくえのむこうに、すっくと立ちあがり、ニヤニヤとうすきみわるく、わらいました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">顔の動かない男</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">顔の動かない男</seg></seg></seg>
 <lb />
 　デパートの洋服売り場の人形にばけて、宝石をぬすんだ怪人は、店員におわれて、こんどはデパートの支配人にばけ、店員たちをごまかして、そのまま、おおぜいのお客さんにまぎれこんで、デパートから、にげだしてしまいました。<lb />
 　新聞はこの事件を、「人形怪盗あらわる」という見出しで、でかでかと書きたて、東京じゅうのひょうばんになりました。<lb />
-　それから三日めの夕方近いころです。少年探偵団の<span type="ruby"><span type="rb">井上一郎</span><span type="rp">（</span><span type="rt">いのうえいちろう</span><span type="rp">）</span></span>少年とポケット<span type="ruby"><span type="rb">小僧</span><span type="rp">（</span><span type="rt">こぞう</span><span type="rp">）</span></span>が、ちょっと用事があって、<span type="ruby"><span type="rb">練馬区</span><span type="rp">（</span><span type="rt">ねりまく</span><span type="rp">）</span></span>のはずれのさびしい町をあるいていました。<lb />
+　それから三日めの夕方近いころです。少年探偵団の<seg type="ruby"><seg type="rb">井上一郎</seg><seg type="rp">（</seg><seg type="rt">いのうえいちろう</seg><seg type="rp">）</seg></seg>少年とポケット<seg type="ruby"><seg type="rb">小僧</seg><seg type="rp">（</seg><seg type="rt">こぞう</seg><seg type="rp">）</seg></seg>が、ちょっと用事があって、<seg type="ruby"><seg type="rb">練馬区</seg><seg type="rp">（</seg><seg type="rt">ねりまく</seg><seg type="rp">）</seg></seg>のはずれのさびしい町をあるいていました。<lb />
 　少年探偵団というのは、名探偵明智小五郎の少年助手の小林君が団長となって、小学校の上級生や中学生でつくっている少年探偵の組合で、これまでにも、明智探偵をたすけて、たくさんのてがらをたてているのです。<lb />
-　井上君とポケット小僧は、その少年探偵団のなかでも、よく知られている団員でした。井上君は中学一年ですが、おとうさんが、まえに<span type="ruby"><span type="rb">拳闘</span><span type="rp">（</span><span type="rt">けんとう</span><span type="rp">）</span></span>の選手だったので、おとうさんにならって、拳闘ができるのです。それに、少年探偵団では、いちばん力の強い少年です。<lb />
-　ポケット小僧は、年は小学校五年生ぐらいです。しかし、おそろしく小さなからだで、幼稚園の子どものように見えます。ポケットへはいるほど小さいというので、ポケット小僧という<span rend="sesame_dot" rendition="em">あだ</span><span type="ruby"><span type="rb">名</span><span type="rp">（</span><span type="rt">な</span><span type="rp">）</span></span>をつけられていました。<lb />
+　井上君とポケット小僧は、その少年探偵団のなかでも、よく知られている団員でした。井上君は中学一年ですが、おとうさんが、まえに<seg type="ruby"><seg type="rb">拳闘</seg><seg type="rp">（</seg><seg type="rt">けんとう</seg><seg type="rp">）</seg></seg>の選手だったので、おとうさんにならって、拳闘ができるのです。それに、少年探偵団では、いちばん力の強い少年です。<lb />
+　ポケット小僧は、年は小学校五年生ぐらいです。しかし、おそろしく小さなからだで、幼稚園の子どものように見えます。ポケットへはいるほど小さいというので、ポケット小僧という<seg rend="sesame_dot" rendition="em">あだ</seg><seg type="ruby"><seg type="rb">名</seg><seg type="rp">（</seg><seg type="rt">な</seg><seg type="rp">）</seg></seg>をつけられていました。<lb />
 　でも、このポケット君は、たいへんかしこくて、すばしっこいのです。おとなをびっくりさせるような、はたらきをすることがあります。<lb />
 　ふたりは、むろん、人形怪人の事件をしっていましたので、町をあるきながら、むちゅうになって、その話をしていました。<lb />
 「あいつ変装の名人だね。だが、明智先生にはかなわないよ。先生はなににだって、ばけられるんだからな。それに、小林団長だって、変装はうまいよ。女の子にばけたときなんか、まるでわからないんだもの」<lb />
@@ -129,7 +129,7 @@
 と言ってから、はっとしたように、立ちどまりました。<lb />
 「ねえ、井上さん、ひょっとしたら、あいつ人形怪人じゃないだろうか」<lb />
 「うん。しかし、町をあるくときに、人形にばけているのは、へんだね」<lb />
-「なにか、わけがあるのかもしれないよ。ねえ、あいつを、<span type="ruby"><span type="rb">尾行</span><span type="rp">（</span><span type="rt">びこう</span><span type="rp">）</span></span>してみようじゃないか」<lb />
+「なにか、わけがあるのかもしれないよ。ねえ、あいつを、<seg type="ruby"><seg type="rb">尾行</seg><seg type="rp">（</seg><seg type="rt">びこう</seg><seg type="rp">）</seg></seg>してみようじゃないか」<lb />
 「うん、そうしよう」<lb />
 　ふたりは、こっそり、あやしい男のあとをつけました。少年探偵団員は、いつも尾行の練習をしているので、みんな尾行がうまいのです。めったに、相手に気づかれるようなことはありません。顔の動かない男は、しばらくあるくと、そこにある小公園へ、はいっていきました。<lb />
 　もう夕方なので、公園の中はがらんとして、人かげもありません。たったひとり女の子がベンチにこしかけて、本を読んでいました。小学校三年ぐらいの、かわいい女の子です。本にむちゅうになって、だれもいなくなったのに、気がつかないのかもしれません。<lb />
@@ -137,14 +137,14 @@
 　ふたりの少年は、木のかげにかくれて、じっと、そのようすを見つめています。<lb />
 　顔の動かない男は、いったい、なにをしようというのでしょう。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">マンホールのひみつ</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">マンホールのひみつ</seg></seg></seg>
 <lb />
 　男はベンチのそばによると、いきなり、少女に声をかけました。<lb />
-「おじょうさん、あんた<span type="ruby"><span type="rb">野村</span><span type="rp">（</span><span type="rt">のむら</span><span type="rp">）</span></span>みち<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>さんでしょう」<lb />
+「おじょうさん、あんた<seg type="ruby"><seg type="rb">野村</seg><seg type="rp">（</seg><seg type="rt">のむら</seg><seg type="rp">）</seg></seg>みち<seg type="ruby"><seg type="rb">子</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>さんでしょう」<lb />
 「ええ、そうよ」<lb />
 　少女はびっくりしたように、本から目をあげて、男の顔を見ました。<lb />
-「あんたのおうちの人からたのまれたんだが、おかあさんが、道で<span rend="sesame_dot" rendition="em">けが</span>をされて、近くの<span type="ruby"><span type="rb">山田</span><span type="rp">（</span><span type="rt">やまだ</span><span type="rp">）</span></span>病院へかつぎこまれている。おとうさんは、おかあさんにつきっきりだから、おじょうさんを、さがして、つれてくるようにって、たのまれたのですよ。さあ、すぐ、わたしといっしょに、きてください」<lb />
-　野村みち子さんは、おかあさんが<span rend="sesame_dot" rendition="em">けが</span>をしたときくと、しんぱいで、まっさおになって、なにを思うひまもなく、いそいでベンチから立ちあがると、男といっしょに、あるきだしました。<lb />
+「あんたのおうちの人からたのまれたんだが、おかあさんが、道で<seg rend="sesame_dot" rendition="em">けが</seg>をされて、近くの<seg type="ruby"><seg type="rb">山田</seg><seg type="rp">（</seg><seg type="rt">やまだ</seg><seg type="rp">）</seg></seg>病院へかつぎこまれている。おとうさんは、おかあさんにつきっきりだから、おじょうさんを、さがして、つれてくるようにって、たのまれたのですよ。さあ、すぐ、わたしといっしょに、きてください」<lb />
+　野村みち子さんは、おかあさんが<seg rend="sesame_dot" rendition="em">けが</seg>をしたときくと、しんぱいで、まっさおになって、なにを思うひまもなく、いそいでベンチから立ちあがると、男といっしょに、あるきだしました。<lb />
 　みち子さんは、考えがたりなかったのです。見知らぬ人に、なにか言われても、そのまましたがってはいけません。じぶんでおうちまで行って、たしかめてみるのです。道に、赤電話があったら、それで、おうちの人とはなしてみるのです。<lb />
 　もし、男が、そんなことをしてはいけないと言ったら、なおあやしいことになります。そうなったら、大声で、たすけをもとめればいいのです。<lb />
 　少女が男につれられていくので、ふたりの少年は、また、そのあとをつけました。<lb />
@@ -155,12 +155,12 @@
 　ふたりは、道のまんなかに立って、長いあいだ、考えていました。<lb />
 　まさか、けむりのように、きえてしまうはずはないのですから、どこかへ、かくれたのにちがいありません。といって、どこにかくれる場所があるのでしょう？<lb />
 「あっ、そうかもしれない。あれだよ。あの中が、あやしいよ」<lb />
-　ポケット小僧が、とんきょうな声をだして、むこうの地面をゆびさしました。そこにはマンホールの、まるい鉄の<span rend="sesame_dot" rendition="em">ふた</span>があるのです。<lb />
+　ポケット小僧が、とんきょうな声をだして、むこうの地面をゆびさしました。そこにはマンホールの、まるい鉄の<seg rend="sesame_dot" rendition="em">ふた</seg>があるのです。<lb />
 「えっ、マンホールの中かい」<lb />
-「うん、<span type="ruby"><span type="rb">悪者</span><span type="rp">（</span><span type="rt">わるもの</span><span type="rp">）</span></span>は、よくこれを使うんだよ。あの中へ、かくれていれば、だれも気がつかないからね。きっと、ぼくらに尾行されていることを知って、かくれたんだよ」<lb />
-「じゃあ、あの鉄の<span rend="sesame_dot" rendition="em">ふた</span>をあけてみようか。ふたりであけられるかしら」<lb />
+「うん、<seg type="ruby"><seg type="rb">悪者</seg><seg type="rp">（</seg><seg type="rt">わるもの</seg><seg type="rp">）</seg></seg>は、よくこれを使うんだよ。あの中へ、かくれていれば、だれも気がつかないからね。きっと、ぼくらに尾行されていることを知って、かくれたんだよ」<lb />
+「じゃあ、あの鉄の<seg rend="sesame_dot" rendition="em">ふた</seg>をあけてみようか。ふたりであけられるかしら」<lb />
 「だいじょうぶだよ。きみの力なら、あけられるよ」<lb />
-　そこで、ふたりは、そこへ行って、力を合わせて、鉄の<span rend="sesame_dot" rendition="em">ふた</span>を持ち上げ、横へずらせて、中をのぞいてみました。<lb />
+　そこで、ふたりは、そこへ行って、力を合わせて、鉄の<seg rend="sesame_dot" rendition="em">ふた</seg>を持ち上げ、横へずらせて、中をのぞいてみました。<lb />
 「だれもいないよ」<lb />
 「おかしいな。ここのほかに、かくれるところはないんだがなあ」<lb />
 「あっ、あれ本だよ。さっき女の子が読んでいた本にちがいないよ」<lb />
@@ -168,11 +168,11 @@
 「あの本が落ちているからには、ここへかくれたにちがいない。だが、それから、どうしたんだろう。そとへ出たら、ぼくらにみつかるから、出たはずはない。きっと、このあなの中に、ひみつの道があるんだよ。よしっ、さがしてみよう」<lb />
 　井上君は、そう言って、マンホールの中へ、おりようとしました。<lb />
 「あっ、ちょっとまちな。こういうときは、ＢＤバッジを、道に、まいておくほうがいいよ。ぼくらの身に、もしものことがあったときの用意にね」<lb />
-　ＢＤバッジというのは、少年探偵団の銀色のバッジで、団員たちは、いつでも、そのバッジを、二十も三十も、ポケットの中にいれているのです。それにはバッジのほかに、いろいろの使いみちがあって、いまのように、団員があぶない場所へはいるとき、そのいりくちに、ばらまいておいて、<span type="ruby"><span type="rb">味方</span><span type="rp">（</span><span type="rt">みかた</span><span type="rp">）</span></span>に知らせるという、使いかたもあるのです。<lb />
+　ＢＤバッジというのは、少年探偵団の銀色のバッジで、団員たちは、いつでも、そのバッジを、二十も三十も、ポケットの中にいれているのです。それにはバッジのほかに、いろいろの使いみちがあって、いまのように、団員があぶない場所へはいるとき、そのいりくちに、ばらまいておいて、<seg type="ruby"><seg type="rb">味方</seg><seg type="rp">（</seg><seg type="rt">みかた</seg><seg type="rp">）</seg></seg>に知らせるという、使いかたもあるのです。<lb />
 　ふたりは、それをばらまいてから、マンホールの中へ、おりていきました。そして、おそろしいひみつを発見するのです。<lb />
 　ああ、そのひみつとは、いったい、どんなことでしょうか？<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">地獄の入り口</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">地獄の入り口</seg></seg></seg>
 <lb />
 　少年探偵団の井上少年とポケット小僧は、野村みち子ちゃんという少女を、うそをついて、どこかへつれていく、あやしい男のあとをつけていきました。<lb />
 　その男は、少女といっしょに、さびしい町のマンホールの中へ、消えてしまったのです。<lb />
@@ -184,14 +184,14 @@
 　すると、目の前のコンクリートのかべに、スーッと、細いわれ目が、できてきました。そして、それが、だんだん、太くなっていくではありませんか。<lb />
 「あっ、かくし戸だっ。向こうへ、開いていく」<lb />
 　それは四角いコンクリートのドアでした。なにもしないのに、それが、ひとりでに開いていくのです。悪者が、わざと、中から開いているのかもしれません。<lb />
-　二少年は、ここで用心しなければならなかったのです。うっかりすると、敵の<span rend="sesame_dot" rendition="em">わな</span>に落ちるかもしれないからです。<lb />
+　二少年は、ここで用心しなければならなかったのです。うっかりすると、敵の<seg rend="sesame_dot" rendition="em">わな</seg>に落ちるかもしれないからです。<lb />
 　しかし、井上君もポケット小僧も、大たんな少年ですから、にげだすことなど少しも考えません。<lb />
 　かくし戸が開いたのをさいわいに、すぐ、その中へ、もぐりこんでいきました。<lb />
 　まっくらです。ふたりとも万年筆型の懐中電燈を持っていましたから、それを出して、照らしてみました。だれもいません。コンクリートのかくし戸は、電気じかけで、遠くから、あけたり、しめたりできるのかもしれません。<lb />
 　くらいトンネルのような横穴を、しばらく行くと、またドアがあって、それも、ひとりでに、すうっと開きました。<lb />
 　ドアの向こうは、小さいへやのようになっていて、血のように赤い電燈が、ぼんやりついていました。<lb />
 「うふふふふ……やってきたね。待っていたよ。いま、きみたちに、おもしろいものを見せてやるぞ」<lb />
-　しゃがれた、低い声が聞こえてきました。ぎょっとして、へやのすみを見ると、そこの<span rend="sesame_dot" rendition="em">いす</span>に、なんともいえない、きみのわるいやつがこしかけていました。<lb />
+　しゃがれた、低い声が聞こえてきました。ぎょっとして、へやのすみを見ると、そこの<seg rend="sesame_dot" rendition="em">いす</seg>に、なんともいえない、きみのわるいやつがこしかけていました。<lb />
 　頭には、もじゃもじゃと、しらががみだれ、白いあごひげが、胸をかくし、せなかは二つに折れたように曲がった、八十ぐらいのじいさんです。それが、こじきのような、ぼろぼろの服をきて、うずくまっているのです。<lb />
 「きみはだれですかっ」<lb />
 　井上少年が、少しもおそれないで、たずねました。<lb />
@@ -206,13 +206,13 @@
 　そうです。もう、そとへ出られなくなってしまったのです。<lb />
 「しかたがない。奥へはいってみよう。奥には、どっかへぬけられる道があるかもしれない」ふたりは、そのへやの小さい出入り口から、奥へ、ふみこんでいきました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">たるの中</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">たるの中</seg></seg></seg>
 <lb />
 　また、トンネルのような穴を、五メートルほどすすむと、小さなドアがあって、べつのへやに出ました。さっきと同じぐらいの、コンクリートかべの、せまいへやです。<lb />
 「あっ、いけない。また、ドアがしまっちゃった」ポケット小僧がさけびました。いま、はいってきたドアが、いつのまにか、ぴったりしまって、いくら引いても、開かないのです。<lb />
 「あははは……」どこかから、わらい声が、ひびいてきました。さっきのじいさんではありません。もっとしっかりした声です。<lb />
 「そのドアは、もう開かないよ。きみたちは、とりこになってしまったのだ。きみたちに、見せるものがある。ほら、ここだ。へやのすみだ。大きなたるがおいてあるだろう。見えたかね。そのたるの中に、なにがはいっていると思うかね。うふふふふ……」<lb />
-　<span type="ruby"><span type="rb">天井</span><span type="rp">（</span><span type="rt">てんじょう</span><span type="rp">）</span></span>から、小さなはだか電球がさがっていて、へやの中を、ぼんやりと照らしています。そのへやのすみに、ビールだるのようなものが立ててありました。ほかには、なんにもなくて、たるだけが、ぽつんと、置いてあるのです。<lb />
+　<seg type="ruby"><seg type="rb">天井</seg><seg type="rp">（</seg><seg type="rt">てんじょう</seg><seg type="rp">）</seg></seg>から、小さなはだか電球がさがっていて、へやの中を、ぼんやりと照らしています。そのへやのすみに、ビールだるのようなものが立ててありました。ほかには、なんにもなくて、たるだけが、ぽつんと、置いてあるのです。<lb />
 　二少年は、そのみょうなたるを見て、顔を見あわせました。<lb />
 「なにがはいっているんだろう。……あっ、ひょっとしたら……」<lb />
 　井上君が、言いかけて、息をのみました。<lb />
@@ -223,12 +223,12 @@
 「うふふふ……なにを考えているんだ。早くたるをあけてごらん。中から、なにが出てくるか……」また、あの声が聞こえてきました。<lb />
 「よしっ、調べてみよう」<lb />
 　井上君が、勇気をふるって、たるのそばへ近よっていきました。そして、両手でいきなり、たるをごろっところがしたのです。すると、ふたがとれて、中から、ぱっと、ひとかたまりの青黒いものが飛びだしてきました。もつれあった、なわのようなものです。「あっ、へびだっ」ポケット小僧が、さけびました。<lb />
-　たるの中には、<span type="ruby"><span type="rb">何百</span><span type="rp">（</span><span type="rt">なんびゃっ</span><span type="rp">）</span></span>ぴきというへびが、とじこめてあったのです。<lb />
+　たるの中には、<seg type="ruby"><seg type="rb">何百</seg><seg type="rp">（</seg><seg type="rt">なんびゃっ</seg><seg type="rp">）</seg></seg>ぴきというへびが、とじこめてあったのです。<lb />
 　それが、いっぺんに、ゆかにあふれ出すと、一ぴき、一ぴきにわかれて、かまくびをもたげて、赤黒い舌を、ぺろぺろさせながら、こちらへ、はいよってくるのです。<lb />
-「わあっ、助けてくれえ……」ポケット小僧は、大たんなこどもですが、へびはだいきらいでした。<span type="ruby"><span type="rb">悲鳴</span><span type="rp">（</span><span type="rt">ひめい</span><span type="rp">）</span></span>をあげて、へやのすみへ、ちぢこまってしまいました。<lb />
-「だいじょうぶだよ。毒へびじゃないよ。みんな<span type="ruby"><span type="rb">青大将</span><span type="rp">（</span><span type="rt">あおだいしょう</span><span type="rp">）</span></span>だよ」井上君は、まっさきに進んできたへびのしっぽをつかむといきなり、風ぐるまのように、ふりまわしはじめました。さすがに、井上少年は、へびなんかへいきなのです。<lb />
+「わあっ、助けてくれえ……」ポケット小僧は、大たんなこどもですが、へびはだいきらいでした。<seg type="ruby"><seg type="rb">悲鳴</seg><seg type="rp">（</seg><seg type="rt">ひめい</seg><seg type="rp">）</seg></seg>をあげて、へやのすみへ、ちぢこまってしまいました。<lb />
+「だいじょうぶだよ。毒へびじゃないよ。みんな<seg type="ruby"><seg type="rb">青大将</seg><seg type="rp">（</seg><seg type="rt">あおだいしょう</seg><seg type="rp">）</seg></seg>だよ」井上君は、まっさきに進んできたへびのしっぽをつかむといきなり、風ぐるまのように、ふりまわしはじめました。さすがに、井上少年は、へびなんかへいきなのです。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">ＢＤバッジ</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">ＢＤバッジ</seg></seg></seg>
 <lb />
 　井上君たちが、へびにかこまれてこまっていた、ちょうどそのころ、おなじ練馬区にすんでいる、少年探偵団員で、小学校六年生の、山村始君が、小公園の中を通りかかりました。人形のかおをした怪人が、野村みち子ちゃんをかどわかしていった、あの小公園です。<lb />
 　すると、小公園のかたすみで、小学校一年生ぐらいの、小さな三人の男の子が、地面に銀貨のようなものをおき、手にもっているべつの銀貨をなげて、それにあてっこをしてあそんでいるのに気がつきました。<lb />
@@ -256,13 +256,13 @@
 　三十分ほどすると、小林団長は「アケチ一号」の自動車を運転して、かけつけてきました。<lb />
 　そして、山村君とふたりで、マンホールのふたを、ずらせて、中へはいってみましたが、コンクリートのひみつ戸はしまったままになっていて、ふたりの力では、どうすることもできません。<lb />
 　小林少年は、自動車へもどって、無電で明智事務所をよび出し、明智先生に、このことをほうこくしました。<lb />
-「たしかに、あやしいマンホールです。鉄管なんか一つも通ってません。それに、コンクリートのひみつ戸があるんですが、どうしても、あきません。警視庁の<span type="ruby"><span type="rb">中村</span><span type="rp">（</span><span type="rt">なかむら</span><span type="rp">）</span></span>さんにれんらくして、コンクリートをこわしてもらってはどうでしょう」<lb />
+「たしかに、あやしいマンホールです。鉄管なんか一つも通ってません。それに、コンクリートのひみつ戸があるんですが、どうしても、あきません。警視庁の<seg type="ruby"><seg type="rb">中村</seg><seg type="rp">（</seg><seg type="rt">なかむら</seg><seg type="rp">）</seg></seg>さんにれんらくして、コンクリートをこわしてもらってはどうでしょう」<lb />
 　すると、明智先生は、<lb />
 「そんな手あらいことをしては、あい手がにげてしまうよ。そのマンホールから、ちかくの、どっかのやしきの中へ、ひみつの通路ができているにちがいない。君たちふたりで、一けん一けん、しらべてみるんだ。あいてにさとられぬようにね。見つかったら、野球のボールが、おたくのへいの中へおちましたから、ひろわせてくださいと、言えばいいんだ。こういうしらべは、君たちのような少年のほうが、うまくいくんだよ」<lb />
 「じゃあ、やってみます」<lb />
 　小林少年は、げんきよくこたえて、無電をきり、いよいよ、山村君とふたりで、そのきんじょの、大きなやしきを、一けん一けんしらべてみることになりました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">電話の声</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi90">電話の声</seg></seg></seg>
 <lb />
 　こちらは、井上少年とポケット小僧です。<lb />
 　ふたりは、やっとへびの部屋からのがれて、さらに、おくのほうへ、すすんでいきました。ほんとうは、もときたほうへ、にげ出したいのですが、はいってきたドアは、みんなひとりでに、しまってしまってどうしてもひらかないので、おくへすすむほかに、みちはないのでした。へびの部屋から小さいドアをあけて、そとへ出ますと、そこはトンネルのような、せまい通路になっていました。<lb />
@@ -273,7 +273,7 @@
 　すると、どこかから、人の声がきこえてくるではありませんか。その声のほうへいくと、ドアがありました。その、ドアの中のへやで、だれかがしゃべっているのです。<lb />
 「あなたは野村さんですね。おじょうさんのみち子ちゃんは、おあずかりしています。いや、けっして、手あらなことはしません。だいじにしますよ。ぼくは、人を殺したり、きずつけたりすることは、だいきらいなのです。かならずおかえしします。そのときは、みち子ちゃんは、今よりげんきになっているでしょう。<lb />
 　しかし、ただはおかえししませんよ。おたくのたからものと、ひきかえです。えっ？　そらっとぼけても、だめですよ。ぼくはちゃんと知っているのです。<lb />
-　あなたが二十年まえに、フランスの美術商からお買いになった、ヨーロッパのある国の<span type="ruby"><span type="rb">王妃</span><span type="rp">（</span><span type="rt">おうひ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">宝冠</span><span type="rp">（</span><span type="rt">ほうかん</span><span type="rp">）</span></span>です。<lb />
+　あなたが二十年まえに、フランスの美術商からお買いになった、ヨーロッパのある国の<seg type="ruby"><seg type="rb">王妃</seg><seg type="rp">（</seg><seg type="rt">おうひ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">宝冠</seg><seg type="rp">（</seg><seg type="rt">ほうかん</seg><seg type="rp">）</seg></seg>です。<lb />
 　あれには、あらゆる宝石がちりばめてありますが、ルビーがいちばん多いので、くれないの宝冠とよばれていますね。あれをちょうだいしたいのですよ。いくらたからものでも、みち子ちゃんには、かえられないでしょう。<lb />
 　きょうから三日め、十七日ですね、その十七日のよるの十時に、あの宝冠を箱に入れたまま、みち子ちゃんのあそんでいた小公園の、東のすみの石のベンチの上にのせておいてください。わかりましたか。小公園の石のベンチの上に、よるの十時までにですよ。そうすれば、宝冠をちょうだいしたあとで、すぐに、みち子ちゃんを、おたくのげんかんへおとどけしますよ。<lb />
 　では、おやくそくしましたよ。十七日の十時をのがしてしまうと、みち子ちゃんは、永久にかえらないかもしれません。あなたは、だいじなおじょうさんを、なくしてしまうのです。わかりましたね」<lb />
@@ -282,9 +282,9 @@
 「ははははは……おい、そこのこどもたち、そんなところに、まごまごしていないで、ドアをあけて、はいったらどうだ。かぎはかかっていないよ。ひとりはポケット小僧とかいうチンピラだな。きみのことはきいているよ。なかなかすばしっこいそうだな。まあ、こっちへ、はいるがいい」<lb />
 　それをきくと、ふたりはかおを見あわせましたが、もうこうなったら、あいての言うままになるほかはありません。ふたりは、だいたんにも、ドアをサッとひらいて中へはいっていきました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">おとし穴</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">おとし穴</seg></seg></seg>
 <lb />
-　少年探偵団の井上少年とポケット小僧は、地下道から、どこともしれぬ建物にはいり、その中の一つの<span rend="sesame_dot" rendition="em">へや</span>で野村みち子ちゃんをかどわかした怪人と、向かいあって立つことになりました。<lb />
+　少年探偵団の井上少年とポケット小僧は、地下道から、どこともしれぬ建物にはいり、その中の一つの<seg rend="sesame_dot" rendition="em">へや</seg>で野村みち子ちゃんをかどわかした怪人と、向かいあって立つことになりました。<lb />
 　へやの正面に大きなデスクがおいてあって、その向こうに、人形のような、ぶきみな顔をもった怪人が、こしかけていました。<lb />
 　デスクの上には、卓上電話があり、そのそばに、ウィスキーのびんと、グラスがおいてあります。怪人はウィスキーを、ちびちびやりながら、みち子ちゃんのおとうさんに、ゆすりの電話をかけていたらしいのです。<lb />
 「きみたちは、じつに勇気があるねえ。こどもばかりで、マンホールから、このおそろしいうちへしのびこむなんて、いのちしらずだよ。いったい、しのびこんで、どうするつもりだったんだね」<lb />
@@ -302,7 +302,7 @@
 　井上君が、やせがまんをはって、つよそうなことをいいました。<lb />
 「ここにあるんだよ。いいか。ほらっ……、わははははは……」<lb />
 　どこかで、カチッと音がしたかと思うと、ふたりの少年の足の下は、なんにもなくなってしまいました。つまり、立っていた、ゆか板が、パタンとおちて、そこへ、まっくろな大きな穴がひらいたのです。ふたりは、アッというまに、ふかい穴の中へ、おちこんでいきました。<lb />
-　そのままおちたら、おしりやせなかを、ひどくうって、けがをしたかもしれませんが、ふたりは、こういう冒険には、なれていたので、すぐ、足をグッとまげて、とびおりの<span type="ruby"><span type="rb">姿勢</span><span type="rp">（</span><span type="rt">しせい</span><span type="rp">）</span></span>になり、下へ足がついたときに、ピョイピョイと、とぶようにしました。五メートルもある、ふかい穴でしたが、ふたりとも、そのおかげで、すこしも<span rend="sesame_dot" rendition="em">けが</span>をしなかったのです。<lb />
+　そのままおちたら、おしりやせなかを、ひどくうって、けがをしたかもしれませんが、ふたりは、こういう冒険には、なれていたので、すぐ、足をグッとまげて、とびおりの<seg type="ruby"><seg type="rb">姿勢</seg><seg type="rp">（</seg><seg type="rt">しせい</seg><seg type="rp">）</seg></seg>になり、下へ足がついたときに、ピョイピョイと、とぶようにしました。五メートルもある、ふかい穴でしたが、ふたりとも、そのおかげで、すこしも<seg rend="sesame_dot" rendition="em">けが</seg>をしなかったのです。<lb />
 　そこは二メートル四方ほどの、ふかい地下室で、かべもゆかもコンクリートです。窓もドアもなにもなく、四角な井戸の底のような場所でした。<lb />
 　上を見あげますと、おとし穴になっているゆか板が、二つにわれて、たれさがり、その穴の上から、人形の顔がのぞいていました。<lb />
 「わはははは……おれのうちには、いろいろな、しかけがあるんだ。ボタンをおせば、ゆか板が口をひらいて、きみたちを、のんでしまう。これもそのしかけの一つだよ。どうだね、とても、あがれまい。コンクリートのかべには、なんの手がかりもないんだからね。きみたちには、しばらく、そこにはいっていてもらうんだ。そのうち、おもしろいことが、いや、おそろしいことがおこるからね」<lb />
@@ -318,7 +318,7 @@
 「あっ、ひょっとしたら……」<lb />
 　ポケット小僧も、あることに気づいて、思わず、さけびました。ああ、その小さな黒い穴は、いったい、なんだったのでしょうか。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">窓の顔</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110">窓の顔</seg></seg></seg>
 <lb />
 　少年探偵団長の小林少年と、ＢＤバッジを見つけた山村少年は、あのマンホールのちかくにある大きなやしきを、一けん一けん、さぐりあるいていました。<lb />
 　もう太陽がしずみかけて、あたりは、うすぐらくなっていました。<lb />
@@ -339,7 +339,7 @@
 「あっ、あの人形みたいな顔。ひょっとしたら、デパートで人形にばけて、宝石をぬすんだやつかもしれないぞっ」<lb />
 　小林君は、ハッと、それに気がついたのでした。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">水が！　水が！</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">水が！　水が！</seg></seg></seg>
 <lb />
 　二メートル四方ぐらいの、ふかい井戸の底のようなコンクリートの地下室におちこんだ井上少年とポケット小僧は、懐中電灯で、コンクリートの壁の上のほうに、直径十五センチほどの丸い穴があいているのに気づきました。<lb />
 　なんだかきみのわるい穴です。空気ぬきの穴かとおもいましたが、どうもそうではなさそうです。いまに、あの穴から、なにかおそろしいものが出てくるのではないかと気が気ではありません。<lb />
@@ -368,7 +368,7 @@
 「ＢＤバッジを、だれかが見つけて、小林団長に知らせてくれるかどうかで、きまるよ。ぼくは、きっと、知らせてくれるとおもうよ。あんなにたくさん、ばらまいたんだもの」<lb />
 　ポケット小僧は、井上君をはげますように、いうのでした。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">警官隊</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">警官隊</seg></seg></seg>
 <lb />
 　こちらは、小林少年と、ＢＤバッジを見つけて知らせた山村少年です。<lb />
 　にせのマンホールのちかくの家を、かたっぱしから、しらべて、一軒のあやしげな家にしのびこみ、二階の窓から、小さな女の子が、たすけをもとめているのを見ました。女の子は、すぐに、なにものかに、へやのおくのほうへ、ひきもどされてしまいましたが、そのひきもどした男の顔が、人形のように見えたのです。<lb />
@@ -398,7 +398,7 @@
 　上の丸い穴からたきのようにながれおちる水は、すこしもいきおいがおとろえず、地下室にたまった水は、もうふたりの腰のへんまできていました。そして、その水面が、ジリリジリリとあがってくるのです。<lb />
 　ああ、もう、おなかまでのぼってきました。外には警官隊が、なにもしないで待っています。明智探偵と中村警部は、いつやってくるのでしょうか。早く、早く。早くしないと間にあいません。早くしないと井上君とポケット小僧が、おぼれてしまうではありませんか。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">口まで水が</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi140">口まで水が</seg></seg></seg>
 <lb />
 　井上君とポケット小僧は、まっくらな、井戸の底のような、コンクリートの地下室に、水につかって立っていました。上の穴からは、どうどうと、たきのように、水がながれつづけています。それがせまい地下室にたまって、もう腹のへんまで、つかっているのです。水はグングンましています。もう胸のへんまできました。井上君は胸のへんですが、からだの小さいポケット小僧は、首まで水につかっているのです。ふたりは、さっきぬいだ上着とズボンを小さくたたんで、頭の上にのせて、あごから、細引きでしばりました。懐中電燈も、いつでもとりだせるように、細引きのあいだにさしこみました。<lb />
 　少年探偵団員は、日ごろから、長い細引きを、腰にまきつけて、用意しています。なにか冒険をやるときには、きっと細引きがいりようだからです。服を頭の上にくくりつけたのは、その細引きでした。<lb />
@@ -418,16 +418,16 @@
 「あっ、いけない。水が口まできた。もう、ものが言えない。ぼくもおよぐよ。からだをくっつけて、浮いていようね」<lb />
 　井上君も、からだを浮かせました。さむいという気候ではありませんが、やっぱり水の中はつめたいのです。いつまで、このつめたさを、がまんできるのでしょうか。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi150">人形の<span rend="sesame_dot" rendition="em">へや</span></span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi150">人形の<seg rend="sesame_dot" rendition="em">へや</seg></seg></seg></seg>
 <lb />
 　小林少年たちが見つけた、あやしい家には、明智探偵と中村警部が、五人の制服警官をつれて、かけつけていました。まえにきていた十一人のパト・カーの警官とあわせて、警官のかずは十六人です。小林君から、くわしい話をきくと、すぐに家の中へ、ふみこむことになり、明智探偵と中村警部と小林少年のほかに、八人の警官がつづきました。<lb />
 　のこる八人の警官は、家の表と裏に立ちばんをすることになりましたが、そのうちの三人は、そとのマンホールを見はるのです。怪人がそこからにげだすのを、ふせぐためです。<lb />
-　げんかんの戸は、なんなくひらきました。家の中はまっくらで、ガランとしていて、まるであきやのようです。みんなはスイッチをおして電燈をつけながら、<span rend="sesame_dot" rendition="em">へや</span>から<span rend="sesame_dot" rendition="em">へや</span>と、しらべてまわりました。しかし、どこにも人かげはありません。<lb />
-　ひとつだけ、みょうな<span rend="sesame_dot" rendition="em">へや</span>がありました。どの<span rend="sesame_dot" rendition="em">へや</span>もあきやのように、からっぽなのに、その<span rend="sesame_dot" rendition="em">へや</span>だけは、いっぱいものがおいてあるのです。<lb />
+　げんかんの戸は、なんなくひらきました。家の中はまっくらで、ガランとしていて、まるであきやのようです。みんなはスイッチをおして電燈をつけながら、<seg rend="sesame_dot" rendition="em">へや</seg>から<seg rend="sesame_dot" rendition="em">へや</seg>と、しらべてまわりました。しかし、どこにも人かげはありません。<lb />
+　ひとつだけ、みょうな<seg rend="sesame_dot" rendition="em">へや</seg>がありました。どの<seg rend="sesame_dot" rendition="em">へや</seg>もあきやのように、からっぽなのに、その<seg rend="sesame_dot" rendition="em">へや</seg>だけは、いっぱいものがおいてあるのです。<lb />
 「や、これはどうだ。よくもこんなにあつめたな」<lb />
 　中村警部が、びっくりしたような声をたてました。<lb />
-　それは人形の<span rend="sesame_dot" rendition="em">へや</span>でした。洋服屋のショー・ウィンドーにあるような、男や女や子どものマネキンが、おもいおもいの衣しょうをつけて、二十個ぐらいも立ちならんでいるのです。人形怪人といわれるだけあって、人形をあつめるのが<span type="ruby"><span type="rb">道楽</span><span type="rp">（</span><span type="rt">どうらく</span><span type="rp">）</span></span>なのかもしれません。<lb />
-　一方には、ガラスばりの<span type="ruby"><span type="rb">陳列</span><span type="rp">（</span><span type="rt">ちんれつ</span><span type="rp">）</span></span>だなのようなものが、おいてあって、その中に、いろいろな宝石や金銀のかざりものが、ピカピカと光っています。人形怪人が、ぬすみためたものでしょう。<lb />
+　それは人形の<seg rend="sesame_dot" rendition="em">へや</seg>でした。洋服屋のショー・ウィンドーにあるような、男や女や子どものマネキンが、おもいおもいの衣しょうをつけて、二十個ぐらいも立ちならんでいるのです。人形怪人といわれるだけあって、人形をあつめるのが<seg type="ruby"><seg type="rb">道楽</seg><seg type="rp">（</seg><seg type="rt">どうらく</seg><seg type="rp">）</seg></seg>なのかもしれません。<lb />
+　一方には、ガラスばりの<seg type="ruby"><seg type="rb">陳列</seg><seg type="rp">（</seg><seg type="rt">ちんれつ</seg><seg type="rp">）</seg></seg>だなのようなものが、おいてあって、その中に、いろいろな宝石や金銀のかざりものが、ピカピカと光っています。人形怪人が、ぬすみためたものでしょう。<lb />
 「あっ、あの人形、うごきましたよ」<lb />
 　小林君が、いちはやくそれに気づいてさけびました。<lb />
 　すそのひらいた洋服をきた、かわいらしい少女人形が、りっぱなせびろをきた紳士人形に、つかまえられて、身もだえしているのです。たしかにうごいているのです。<lb />
@@ -440,10 +440,10 @@
 「こいつらは、あんたのおとうさんをおどかしていたんだよ。わたしは、おとうさんから、そうだんをうけたので、よく知っている。それで、あんたをたすけにきたんだよ」<lb />
 　こうして、野村みち子ちゃんは、ぶじにたすけ出されました。また、怪人がぬすみためた宝石なども、とりかえすことができたのです。<lb />
 「きみたちふたりのうち、デパートで宝石をぬすんだのは、どちらだね」明智探偵は、ふたりの男をにらみつけて、たずねますと、せびろの男が、にくにくしげに、こたえました。<lb />
-「おれたちは、なんにも知らねえ。ただのやといにんだよ。<span type="ruby"><span type="rb">首領</span><span type="rp">（</span><span type="rt">しゅりょう</span><span type="rp">）</span></span>はとっくに、にげてしまった。おまえさんがたにつかまりっこはねえよ」<lb />
+「おれたちは、なんにも知らねえ。ただのやといにんだよ。<seg type="ruby"><seg type="rb">首領</seg><seg type="rp">（</seg><seg type="rt">しゅりょう</seg><seg type="rp">）</seg></seg>はとっくに、にげてしまった。おまえさんがたにつかまりっこはねえよ」<lb />
 　うそをいっているようにもみえません。ふたりとも、あまりりこうそうな顔でもありませんから、これがあのすばしっこい怪盗とは、考えられないのです。しかし、もしにげたとすれば、見はりの警官につかまるはずです。まだそんな知らせがないところをみると、どこか家の中に、かくれているのではないでしょうか。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi160">かすかな足音</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi160">かすかな足音</seg></seg></seg>
 <lb />
 　地下室の水の中では、井上君とポケット小僧が、もう一時間もおよいでいました。およぐといっても、ふつうにおよぐわけではなく、両手でコンクリートの壁にすがって、身を浮かせていればいいのですが、じっとしていては、しずんでしまうので、ときどき、足をうごかさなければなりません。<lb />
 　つめたさに、からだがしびれたようになって、いまにも気をうしないそうです。<lb />
@@ -458,9 +458,9 @@
 　ポケット小僧が、死にものぐるいの声を、はりあげました。<lb />
 　しかし、みんなは、とおくへ行ってしまったらしく、なんの手ごたえもありません。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi170">地底の声</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi170">地底の声</seg></seg></seg>
 <lb />
-　明智探偵と、小林少年と、中村警部と、おおぜいのおまわりさんの力で、怪人の家にとじこめられていた、野村みち子ちゃんは助け出されました。これで、もう怪人はみち子ちゃんのおとうさんを、おどかして、宝石を手に入れることはできなくなったわけです。怪人の家の一室には、ぬすみためた宝石や、金銀の美術品が、たくさん置いてありました。これも、すっかりとりもどしましたから、すぐに、もとの持ち主にかえせるわけです。ところが、怪人がどこへかくれたのか、まだ見つかりません。手下が、ふたりつかまりましたが、怪人のかくれ場所は、このふたりも知らないというのです。それから、井上君とポケット小僧を、助け出さなければなりません。この少年たちが、どこにかくされているかも、まだすこしもわからないのです。そこで、またしても、<span type="ruby"><span type="rb">家</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>さがしがはじまりました。いく組にもわかれて、あちこちの<span rend="sesame_dot" rendition="em">へや</span>をさがすのです。明智探偵と、小林少年と、三人のおまわりさんが、懐中電燈をつけて、一階の<span rend="sesame_dot" rendition="em">へや</span>から<span rend="sesame_dot" rendition="em">へや</span>をまわっていました。<lb />
+　明智探偵と、小林少年と、中村警部と、おおぜいのおまわりさんの力で、怪人の家にとじこめられていた、野村みち子ちゃんは助け出されました。これで、もう怪人はみち子ちゃんのおとうさんを、おどかして、宝石を手に入れることはできなくなったわけです。怪人の家の一室には、ぬすみためた宝石や、金銀の美術品が、たくさん置いてありました。これも、すっかりとりもどしましたから、すぐに、もとの持ち主にかえせるわけです。ところが、怪人がどこへかくれたのか、まだ見つかりません。手下が、ふたりつかまりましたが、怪人のかくれ場所は、このふたりも知らないというのです。それから、井上君とポケット小僧を、助け出さなければなりません。この少年たちが、どこにかくされているかも、まだすこしもわからないのです。そこで、またしても、<seg type="ruby"><seg type="rb">家</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>さがしがはじまりました。いく組にもわかれて、あちこちの<seg rend="sesame_dot" rendition="em">へや</seg>をさがすのです。明智探偵と、小林少年と、三人のおまわりさんが、懐中電燈をつけて、一階の<seg rend="sesame_dot" rendition="em">へや</seg>から<seg rend="sesame_dot" rendition="em">へや</seg>をまわっていました。<lb />
 「あっ、なんだか、かすかな声がしましたね」小林少年が、すばやく、それを聞きつけて、明智探偵の顔を見ました。たしかに、聞こえます。かすかに、かすかに、<lb />
 「助けてくれえ……、ぼくら、ここにいるんだよう……」<lb />
 　小林君は、なにを思ったのか、いきなり床に身をふせて、床板に耳をつけました。<lb />
@@ -473,11 +473,11 @@
 　しかし、そこへ行く道がわかりません。<lb />
 「この床板を破りましょうか」警官のひとりが、どなりました。<lb />
 「いや、待ってください。破るのには時間がかかる。もっといい方法があるかもしれません」<lb />
-　その<span rend="sesame_dot" rendition="em">へや</span>のまん中に、大きな机と、りっぱな<span rend="sesame_dot" rendition="em">いす</span>が置いてありました。そのほかには、なんの道具もないのです。小林君は、いきなり、懐中電燈を持って、その大机の下へ、もぐりこみました。いままでの、たびたびのけいけんで、床のおとし穴を開くボタンが、机の板の下がわに、ついているかもしれないと思ったからです。<lb />
+　その<seg rend="sesame_dot" rendition="em">へや</seg>のまん中に、大きな机と、りっぱな<seg rend="sesame_dot" rendition="em">いす</seg>が置いてありました。そのほかには、なんの道具もないのです。小林君は、いきなり、懐中電燈を持って、その大机の下へ、もぐりこみました。いままでの、たびたびのけいけんで、床のおとし穴を開くボタンが、机の板の下がわに、ついているかもしれないと思ったからです。<lb />
 「あっ、あったぞっ……」<lb />
 　机の色と同じで、ちょっと見たのではわからないような、小さなポッチが見つかったのです。小林君はグッとそれを押しました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi180">もうだめだ</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi180">もうだめだ</seg></seg></seg>
 <lb />
 　そのとき、地底の水の中では、井上君とポケット小僧が、おたがいのからだをだきあって、ブクブクと、しずみかけていました。さっき死にものぐるいの声で、どなったので、もう、最後の力がつきてしまったのです。手も足もしびれてしまって、もう水に浮いていることができません。<lb />
 「井上さん、苦しい。助けて」<lb />
@@ -490,18 +490,18 @@
 　しかし、ポケット君には、もうなにも聞こえません。井上君は、コンクリートの壁に手をあてて、がんばりました。でも、つかれきっているので、ズルッ、ズルッと、手がすべって、からだが水の中へ、しずんでいきます。口を水から出しているのが、やっとでした。あっ、いけない。口のすみから、ドッと水が、ながれこんできました。ポケット小僧のおもみで、下へ下へと、引っぱられるからです。<lb />
 「ああ、もう、だめだっ……」井上君は、水にむせながら、最後の悲鳴をあげました。そして、だきあったふたりは、グングン水の底へ、しずんでいくのです。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi190">なわばしご</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi190">なわばしご</seg></seg></seg>
 <lb />
-　パタンと音がして、<span rend="sesame_dot" rendition="em">へや</span>の床板が二つにわれました。小林少年のおしたボタンがはたらいて、おとし穴の口が開いたのです。そこへ、はらばいになって、懐中電燈を、さしつけてみると、ふたりの少年が、いま、ゴボゴボとしずんでいくところでした。いつも腰にまきつけているナイロンのなわばしごには、細いナイロンのひもに、三十センチおきに、足がかりの玉がついています。それに足のゆびをかけて、おりたり、のぼったりするのです。少年探偵団の七つ道具とはべつに、おもな団員が持っている、たいせつな道具です。<lb />
+　パタンと音がして、<seg rend="sesame_dot" rendition="em">へや</seg>の床板が二つにわれました。小林少年のおしたボタンがはたらいて、おとし穴の口が開いたのです。そこへ、はらばいになって、懐中電燈を、さしつけてみると、ふたりの少年が、いま、ゴボゴボとしずんでいくところでした。いつも腰にまきつけているナイロンのなわばしごには、細いナイロンのひもに、三十センチおきに、足がかりの玉がついています。それに足のゆびをかけて、おりたり、のぼったりするのです。少年探偵団の七つ道具とはべつに、おもな団員が持っている、たいせつな道具です。<lb />
 　小林君は、そのなわばしごのはしを、ふたりのおまわりさんに、にぎっていてもらって、スルスルと、つたいおりていきました。<lb />
 「井上君、ポケット君、助けにきたぞっ。しっかりするんだっ」<lb />
 　しかし、返事はありません。ふたりとも、気をうしなっているのです。スーッと、水の底へしずんでいくのです。<lb />
 　小林君は、服のまま、水の中へとびこみました。そして、まずポケット小僧のからだに、なわばしごのはしを、まきつけて、しっかりくくってから、合図をしました。<lb />
 　すると、上のおまわりさんが、力を合わせて、これを、引っぱりあげてくれるのです。小林君はそのあいだ、水の中をおよいでいました。<lb />
-　そして、つぎには井上君を助け、最後に小林君は、なわばしごを、つたって、もとの<span rend="sesame_dot" rendition="em">へや</span>にかえりました。<lb />
+　そして、つぎには井上君を助け、最後に小林君は、なわばしごを、つたって、もとの<seg rend="sesame_dot" rendition="em">へや</seg>にかえりました。<lb />
 　こうして、井上君とポケット小僧は、すくわれたのです。みんなのかいほうをうけて、やがて正気にかえりました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi200">怪人のゆくえ</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi200">怪人のゆくえ</seg></seg></seg>
 <lb />
 　しかし、人形怪人のほうは、まだ見つかりません。そとには、見はりのおまわりさんがいるのですから、逃げだすことはできません。家の中にいるにちがいないのです。<lb />
 　小林少年は、井上君が、すこし元気づくのを待って、たずねてみました。<lb />
@@ -510,15 +510,15 @@
 「地下道って？」<lb />
 「マンホールへ出る地下道だよ。あすこはいりくんでいるから、いいかくれ場所だよ」<lb />
 「よし、それじゃ、そこをさがそう」<lb />
-　小林少年が、そのことをつたえますと、中村警部が十人ほどのおまわりさんをつれて、地下道へ、ふみこんでいくことになりました。あのきみのわるいじいさんのいた<span rend="sesame_dot" rendition="em">へや</span>も、へびがウジャウジャいた<span rend="sesame_dot" rendition="em">へや</span>も、みんなこの地下道の中です。そのほかにも、小さい<span rend="sesame_dot" rendition="em">へや</span>がいくつもあって、まるで迷路のようになっているのです。<lb />
+　小林少年が、そのことをつたえますと、中村警部が十人ほどのおまわりさんをつれて、地下道へ、ふみこんでいくことになりました。あのきみのわるいじいさんのいた<seg rend="sesame_dot" rendition="em">へや</seg>も、へびがウジャウジャいた<seg rend="sesame_dot" rendition="em">へや</seg>も、みんなこの地下道の中です。そのほかにも、小さい<seg rend="sesame_dot" rendition="em">へや</seg>がいくつもあって、まるで迷路のようになっているのです。<lb />
 　おまわりさんたちは、てんでに、懐中電燈をてらして、その地下道へのりこんでいきました。<lb />
 「あっ、あやしいやつがいたぞっ」<lb />
-　さきにたったおまわりさんが、さけびながら、ひとつの小<span rend="sesame_dot" rendition="em">べや</span>へ、とびこんでいきました。<lb />
+　さきにたったおまわりさんが、さけびながら、ひとつの小<seg rend="sesame_dot" rendition="em">べや</seg>へ、とびこんでいきました。<lb />
 「それっ」というので、みんなが、そこへはいってみますと、あっ、だれもいません。さっきのおまわりさんはどこへ行ったのでしょう。迷路ですから、方々に出入口があるので、さがすのもたいへんです。<lb />
 「わはははは……」<lb />
 　どこからか、人をばかにしたような、わらい声がひびいてきました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi210">しばられた怪人</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi210">しばられた怪人</seg></seg></seg>
 <lb />
 　怪人のすみかから、へいの外のマンホールへ続いている、ひみつの地下道へ、中村警部と十人のおまわりさんが、ふみこんでいきました。宝石どろぼうの怪人が、地下道へかくれたらしいというので、それをとらえるためです。<lb />
 　おまわりさんたちは、手に手に懐中電燈をもっていましたけれども、曲がりくねった地下道ぜんたいを、てらすことはできません。すみずみに、くらやみがあって、なにものが、かくれているかもしれないのです。<lb />
@@ -539,7 +539,7 @@
 「ちがう。ちがうったら。お面をとってくれ。このお面をとってくれっ」<lb />
 　やっと、怪人のいっていることがきこえました。「ちがう」とは、なにがちがうのでしょうか。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi220">マンホールから</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi220">マンホールから</seg></seg></seg>
 <lb />
 　お話かわって、こちらは、へいの外のマンホールのそばです。<lb />
 　そこには、ふたりのおまわりさんが、しゃがんで、見はりばんをしていました。もし、怪人がここからにげようとしたら、つかまえるためです。<lb />
@@ -561,7 +561,7 @@
 「いや、いちど、つかまっても、またにげだすことだってある。やっぱり、ゆだんをしないで、見はっていよう」<lb />
 　ふたりのおまわりさんは、もとのように、そこに、しゃがんで見はりをつづけるのでした。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi230">お面をとれば</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi230">お面をとれば</seg></seg></seg>
 <lb />
 　ここでまた、地下道にもどります。<lb />
 　手足をしばられて、ころがされた怪人は、へんなことを、どなりつづけています。<lb />
@@ -589,7 +589,7 @@
 「それはね、こういうわけなんだ。うまい手だよ」<lb />
 　警部は、事のしだいを話してきかせました。それを聞くと、見はりのおまわりさんは、じだんだふんで、くやしがりましたが、もうあとのまつりです。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240"><span type="ruby"><span type="rb">葬儀</span><span type="rp">（</span><span type="rt">そうぎ</span><span type="rp">）</span></span>自動車</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi240"><seg type="ruby"><seg type="rb">葬儀</seg><seg type="rp">（</seg><seg type="rt">そうぎ</seg><seg type="rp">）</seg></seg>自動車</seg></seg></seg>
 <lb />
 　人形怪人は、おまわりさんにばけて、マンホールから、にげだしてしまいましたが、それより、すこしまえのことです。<lb />
 　中村警部が、怪人をさがすために、おおぜいの警官をつれて、地下道へはいっていったとき、あとにのこった明智探偵と小林少年は、へやのすみへいって、なにかひそひそと、そうだんをしていました。<lb />
@@ -598,10 +598,10 @@
 　そして、ふたりは右ひだりにわかれて、それぞれの自動車へ急いだのですが、このふしぎな会話は、いったい、なにを意味していたのでしょう。それは、まもなく、わかるときがくるのです。<lb />
 　さて、お話はもとにもどって、マンホールから、逃げだした人形怪人です。<lb />
 　警官の服をきて、みんなをごまかしたことは、じきわかるのですから、いつまでも警官服を着たままで、歩いているわけにはいきません。非常線でもはられたら、いっぺんに、つかまってしまいます。<lb />
-　警官服の怪人は、さびしいやしき町を、いそぎあしで歩いていきます。<span type="ruby"><span type="rb">角</span><span type="rp">（</span><span type="rt">かど</span><span type="rp">）</span></span>をまがりました。すこし広い町です。むこうに、一台の葬儀自動車がとまっています。怪人は、そのりっぱな葬儀車のほうへ、ちかづいていくのです。<lb />
+　警官服の怪人は、さびしいやしき町を、いそぎあしで歩いていきます。<seg type="ruby"><seg type="rb">角</seg><seg type="rp">（</seg><seg type="rt">かど</seg><seg type="rp">）</seg></seg>をまがりました。すこし広い町です。むこうに、一台の葬儀自動車がとまっています。怪人は、そのりっぱな葬儀車のほうへ、ちかづいていくのです。<lb />
 　怪人の百メートルほどうしろから、一台の自家用車が、ノロノロと、あとをつけるように進んでいました。その車は、色もかたちも、アケチ一号にそっくりでした。<lb />
 　怪人は、あやしい自動車に尾行されているなどとは、すこしも知らず、葬儀自動車のそばによると、いきなり、そのうしろのとびらをひらいて、中へとびこみ、また、ピッシャリと戸をしめてしまいました。<lb />
-　葬儀車の中には、あかあかと電燈がついていました。まんなかに、大きな箱が置いてありましたが、<span type="ruby"><span type="rb">棺桶</span><span type="rp">（</span><span type="rt">かんおけ</span><span type="rp">）</span></span>ではありません。怪人はそのふたを開きました。<lb />
+　葬儀車の中には、あかあかと電燈がついていました。まんなかに、大きな箱が置いてありましたが、<seg type="ruby"><seg type="rb">棺桶</seg><seg type="rp">（</seg><seg type="rt">かんおけ</seg><seg type="rp">）</seg></seg>ではありません。怪人はそのふたを開きました。<lb />
 　中には、いろいろな服や、着物や、かつらや、つけひげや、化粧道具などが、いっぱいはいっています。怪人の変装箱なのです。<lb />
 　ああ、なんという、きばつなおもいつきなのでしょう。これは怪人の変装用自動車だったのです。そとから見れば、ふつうの葬儀車ですから、だれもうたがいません。それに、窓がありませんから、中でなにをしていても、外からはわからないのです。<lb />
 　変装箱のむこうに、鏡がかかっています。怪人は、その鏡にむかって、これから変装をはじめるのです。<lb />
@@ -614,7 +614,7 @@
 　そのうえ、中村警部にばけて、先生をあっといわせるのだからな。われながら、すばらしいおもいつきだよ……おい、もういいから、とばしてくれ。何分あれば先方につく？<lb />
 　なに五分。そうか、もうそんなに来ていたのか。よし、よし、ともかく、いそいでくれ」<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi250">やみの中の口笛</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi250">やみの中の口笛</seg></seg></seg>
 <lb />
 　やがて、葬儀車は、野村さんのやしきのそばにつきました。<lb />
 　怪人は百メートルほどてまえで、車を止めさせると、まず、うしろのとびらを、すこし開いて、あたりに人のいないことをたしかめてから、いきなりパッと、そとへとびだし、そのまま、野村さんの門のほうへ急ぐのでした。<lb />
@@ -623,7 +623,7 @@
 　小林少年も変装の名人でしたが、それだけに、相手のうでまえが、よくわかるのです。<lb />
 　小林少年は、ぴったりと、へいにからだをつけて、くらやみの中をすかしてみました。<lb />
 　野村さんの門は、まだ開いたままです。中村警部にばけた怪人は、門をくぐって、どうどうと、げんかんのほうへ歩いていきます。<lb />
-　ベルをおすと、<span type="ruby"><span type="rb">書生</span><span type="rp">（</span><span type="rt">しょせい</span><span type="rp">）</span></span>がドアを開きました。<lb />
+　ベルをおすと、<seg type="ruby"><seg type="rb">書生</seg><seg type="rp">（</seg><seg type="rt">しょせい</seg><seg type="rp">）</seg></seg>がドアを開きました。<lb />
 「わたしは、警視庁の中村です。みち子ちゃんは、もうかえっているでしょうね。それについて、ちょっと、ご主人に、お話ししたいことがあるのですが」<lb />
 　書生は、いちどおくへはいって、すぐにもどってきました。そして「どうぞ、こちらへ」といって、応接室へ案内するのでした。<lb />
 　小林少年は、怪人がドアの中へ消えるのを見さだめてから、ソッと門内へすべりこみました。<lb />
@@ -638,7 +638,7 @@
 　読者のみなさんは、もうとっくに、おわかりですね。その人は、小林少年と話しおわると、また戸をあけて、裏庭のほうへ、はいっていきます。<lb />
 　小林少年も、そのあとにしたがいました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi260">一<span type="ruby"><span type="rb">人</span><span type="rp">（</span><span type="rt">にん</span><span type="rp">）</span></span>二役</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi260">一<seg type="ruby"><seg type="rb">人</seg><seg type="rp">（</seg><seg type="rt">にん</seg><seg type="rp">）</seg></seg>二役</seg></seg></seg>
 <lb />
 　中村警部にばけた怪人は、応接室にはいると、いちどは、いすにこしかけましたが、あんないした書生が「ちょっと、お待ちください」といって、出ていってしまうと、なにを思ったのか、すっと立ちあがって、ろうかへ出ていきました。<lb />
 　そして、うすぐらいろうかのすみに、身をかくすと、ポケットから、ぐにゃぐにゃしたビニールの仮面をとりだして、あたまから、すっぽりとかぶりました。れいの人形仮面です。<lb />
@@ -674,17 +674,17 @@
 　天井から、聞こえてくるようでもあります。ゆか下からひびいてくるようでもあります。とんと、方角がわかりませんが、へやの中にはちがいないのです。しかし、怪人のすがたは、どこにも見えません。<lb />
 「その宝冠というのは、どこにおいてあるのですか」<lb />
 　にせの中村警部が、たずねました。<lb />
-「わたしの<span type="ruby"><span type="rb">書斎</span><span type="rp">（</span><span type="rt">しょさい</span><span type="rp">）</span></span>の金庫の中です」<lb />
+「わたしの<seg type="ruby"><seg type="rb">書斎</seg><seg type="rp">（</seg><seg type="rt">しょさい</seg><seg type="rp">）</seg></seg>の金庫の中です」<lb />
 「そこへ行ってみましょう。あいつは魔法つかいみたいなやつですから、金庫なんか、わけなくあけるでしょう。ひょっとしたら、もうぬすまれているかもしれませんよ」<lb />
 　中村警部のことばに、野村さんは青くなってしまいました。すぐ警部をあんないして書斎へ行ってみました。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi270">金庫の中</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi270">金庫の中</seg></seg></seg>
 <lb />
 　書斎には、だれもいません。金庫も開いたようすはありません。かんのんびらきの、でっかい金庫です。そのとびらがぴったりしまっています。<lb />
 「しかし、ゆだんはなりません。いちど金庫を開いて、調べてみるほうがいいでしょう」<lb />
 　にせの中村警部がいいました。野村さんに金庫を開かせて、宝冠をうばいとるつもりにちがいありません。<lb />
 　そのとき、警部は、うっかり、ズボンのポケットに手をいれました。そのひょうしに上着がめくれて、まっかなうらが、ちらっと見えたのです。野村さんは、それに気がつき、ふっと、おそろしいことをかんがえました。<lb />
-「<span type="ruby"><span type="rb">腹話術</span><span type="rp">（</span><span type="rt">ふくわじゅつ</span><span type="rp">）</span></span>……」と、ひとりごとのようにつぶやきます。<lb />
+「<seg type="ruby"><seg type="rb">腹話術</seg><seg type="rp">（</seg><seg type="rt">ふくわじゅつ</seg><seg type="rp">）</seg></seg>……」と、ひとりごとのようにつぶやきます。<lb />
 「えっ、なんですって？」<lb />
 　警部が、びっくりして、野村さんの顔を見つめました。<lb />
 「さっきの怪人の声は、腹話術じゃなかったでしょうか」<lb />
@@ -696,11 +696,11 @@
 「そうです。あなたです。あなたのほかには、だれもいなかったのです。中村さん、なぜ、こんなことをいうか、おわかりですか。あなたの上着のうらですよ。ボタンをはずして上着をひろげて見せてくれませんか」<lb />
 　それをきくと、警部の手が、ぱっと、ズボンのポケットから、あがりました。その手には、ピストルがにぎられていました。<lb />
 「手をあげろ。そして、そのいすに、かけるんだ。すこしでも動いたら、ピストルのたまがとびだすぞ。さあ、金庫のダイヤルの暗号をいうんだ」<lb />
-　にせ警部は、とうとう正体をあらわしました。そしてピストルのさきで、野村さんの胸を、コツコツたたきながら、ダイヤルの暗号をいえとせまるのです。野村さんはしかたがないので、暗号文字をこたえました。それはミチコというのでした。かわいいみち子ちゃんの名をとったものです。にせ警部は、ピストルを、いつでもとりだせるように、上着のポケットにいれると、金庫の前にしゃがんで、ゆっくりダイヤルをまわすのでした。まわすたびに、カチッ、カチッと、てごたえがあって、金庫の<span type="ruby"><span type="rb">錠</span><span type="rp">（</span><span type="rt">じょう</span><span type="rp">）</span></span>がはずれました。おもい鉄のとびらが音もなく開きます。<lb />
+　にせ警部は、とうとう正体をあらわしました。そしてピストルのさきで、野村さんの胸を、コツコツたたきながら、ダイヤルの暗号をいえとせまるのです。野村さんはしかたがないので、暗号文字をこたえました。それはミチコというのでした。かわいいみち子ちゃんの名をとったものです。にせ警部は、ピストルを、いつでもとりだせるように、上着のポケットにいれると、金庫の前にしゃがんで、ゆっくりダイヤルをまわすのでした。まわすたびに、カチッ、カチッと、てごたえがあって、金庫の<seg type="ruby"><seg type="rb">錠</seg><seg type="rp">（</seg><seg type="rt">じょう</seg><seg type="rp">）</seg></seg>がはずれました。おもい鉄のとびらが音もなく開きます。<lb />
 　五センチ、十センチ、二十センチ、開きながら、にせ警部は、金庫をのぞきこみました。中はとびらのかげになっているので、はじめは、よくわかりませんでしたが、やがて、そのへんてこなものがはっきり見えてきました。<lb />
 　にせ警部は、それを見ると、「あっ」とさけんで、つったちあがり、タジタジと、あとずさりをしました。さすがの怪人も、これにはどぎもをぬかれたのです。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi280">ピストルの名人</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi280">ピストルの名人</seg></seg></seg>
 <lb />
 「き、きさま、なにものだっ」<lb />
 　怪人がどなりつけました。その大きなものは人間だったからです。<lb />
@@ -715,12 +715,12 @@
 　怪人がびっくりしてふりむきますと、明智探偵がニッコリわらって、立っていました。手には小がたのピストルをかまえています。<lb />
 　明智のうったピストルのたまが、怪人のピストルにあたって、宙にはねあがったのです。<lb />
 　たいしたうでまえです。怪人の手をすこしもきずつけないで、ピストルだけを、うちおとしたのです。めったにピストルなんかつかわないのですが、いざつかうとなれば、明智はこれほどの名人でした。<lb />
-「こんどは、きみが手をあげるばんだよ。でないと、こいつが、きみの心臓のまんなかを<span type="ruby"><span type="rb">射</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>ぬくからね。もうすこし、ぼくのうでまえを、お目にかけようか」<lb />
+「こんどは、きみが手をあげるばんだよ。でないと、こいつが、きみの心臓のまんなかを<seg type="ruby"><seg type="rb">射</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>ぬくからね。もうすこし、ぼくのうでまえを、お目にかけようか」<lb />
 　むこうの柱に、大きなカレンダーがかかっていました。それに、美しい女の人が、トランプのカードを持っている絵が印刷してあります。カードはハートの５でした。<lb />
 「いいかい。あのカードの五つのハートを、射ぬいてみせるよ」<lb />
 　ピストルが、かまえられました。五つの赤いハートに、つぎつぎと、穴があいていきました。ひとつもそれだまはなく、五つとも完全に命中したのです。<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi290">明智先生バンザーイ</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi290">明智先生バンザーイ</seg></seg></seg>
 <lb />
 「小林君、そいつのピストルを、よく調べてごらん、たまがはいっているかね」<lb />
 　明智探偵が、みょうなことをいいました。<lb />
@@ -733,7 +733,7 @@
 　じつにうまい変装だ。こんなに変装のうまいやつは、日本にふたりといないはずだ。しかも、そいつは、おもちゃのピストルをつかった。血を見るのがきらいなんだ。どんなわるいことでもするが、人ごろしだけは、ぜったいにしないという大どろぼう。それもめずらしいね。おそらく、日本にただひとりかもしれない。<lb />
 　ハハハ……、こんどは人形怪人とおいでなすったね。とほうもないことを考え、世間をびっくりさせて、よろこんでいる。そんなすいきょうなどろぼうは、ほかにいないよ。ねえ、二十面相君」<lb />
 　それを聞くと、へやの中は、シーンとしずまりかえってしまいました。野村さんも、小林少年もあっけにとられて、身うごきもせず、明智探偵の顔を、見つめているのです。<lb />
-　ああ、怪人二十面相、名探偵明智小五郎の<span type="ruby"><span type="rb">好敵手</span><span type="rp">（</span><span type="rt">こうてきしゅ</span><span type="rp">）</span></span>、怪人二十面相。人形怪人が、あの二十面相だったとは。そのとき、シーンとしずまりかえったへやの中に、わらいごえが、ひびきわたりました。<lb />
+　ああ、怪人二十面相、名探偵明智小五郎の<seg type="ruby"><seg type="rb">好敵手</seg><seg type="rp">（</seg><seg type="rt">こうてきしゅ</seg><seg type="rp">）</seg></seg>、怪人二十面相。人形怪人が、あの二十面相だったとは。そのとき、シーンとしずまりかえったへやの中に、わらいごえが、ひびきわたりました。<lb />
 「ワハハハハ……、明智君、しばらくだったなあ。いかにも、おれは二十面相だよ。そうでないといったって、君がしょうちするはずはない。君のことだから、おれの部下から、おれの正体をきき出しているにちがいない。だが、おれはまだ、きみにつかまるとはいっていないよ。きみはピストルをもっているが、それでおれをうつ気はない。血を見るのがきらいなのは、おれとおなじことだからね。さあ、そこをどきたまえ、おれはここからたちさるのだっ」<lb />
 　二十面相は、明智をつきのけるようにして、ドアのほうへすすみました。そして、へやをとびだそうとしたのですが、なにを見たのか、ギョッとして、たじたじと、あとずさりをしました。<lb />
 　ドアのそとから、ふたりの警官が、ヌーッと、はいってきました。ふたりとも、見あげるような大男です。<lb />
@@ -744,6 +744,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

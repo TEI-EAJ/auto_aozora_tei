@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2008-01-16">作成</resp><resp /><note>
 <lb />
-底本：「豊島与志雄著作集　第四巻（小説4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>）」未来社
+底本：「豊島与志雄著作集　第四巻（小説4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>）」未来社
 <lb />
 　　　1965（昭和40）年6月25日第1刷発行<lb />
 初出：「新潮」<lb />
@@ -34,7 +34,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -201,6 +201,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

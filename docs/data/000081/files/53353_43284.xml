@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 霧降る萱の細みちに<lb />
 われをいぶかり腕組める<lb />
 なはたくましき漢子かな<lb />
@@ -45,7 +45,7 @@
 検土の杖はになへども<lb />
 四方にすだけるむらどりの<lb />
 一羽もために落ちざらん<lb />
-土をけみして<span type="ruby"><span type="rb">培</span><span type="rp">（</span><span type="rt">つちかひ</span><span type="rp">）</span></span>の<lb />
+土をけみして<seg type="ruby"><seg type="rb">培</seg><seg type="rp">（</seg><seg type="rt">つちかひ</seg><seg type="rp">）</seg></seg>の<lb />
 企画をなさんつとめのみ<lb />
 さあればなれよ高萱の<lb />
 群うち縫へるこのみちを<lb />
@@ -56,6 +56,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

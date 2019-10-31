@@ -33,7 +33,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 おお我胸の苦しさよ<lb />
 幸福は失われた<lb />
 おおそうだ、幸福は<lb />
@@ -50,7 +50,7 @@
 苦しい事もかなしい事も<lb />
 みんな私をなやませて<lb />
 一息の安らかな<lb />
-呼吸さ<span type="ruby"><span type="rb">い</span><span type="rp">（</span><span type="rt">（ママ）</span><span type="rp">）</span></span>あたえられない故に<lb />
+呼吸さ<seg type="ruby"><seg type="rb">い</seg><seg type="rp">（</seg><seg type="rt">（ママ）</seg><seg type="rp">）</seg></seg>あたえられない故に<lb />
 私は自分自身で<lb />
 幸福に強い鞭をあたえた<lb />
 幸福よ、私のために<lb />
@@ -70,6 +70,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

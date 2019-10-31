@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>我が祈り</title>
+        <author>中原中也</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2019-03-29">作成</resp><resp /><note>
+<lb />
+底本：「中原中也詩集」角川文庫、角川書店<lb />
+　　　1968（昭和43）年12月10日改版初版発行<lb />
+　　　1973（昭和48）年8月30日改版13版発行<lb />
+初出：「白痴群　第五號」東省堂<lb />
+　　　1930（昭和5）年1月1日発行<lb />
+入力：ゆうき<lb />
+校正：きりんの手紙<lb />
+<date when="2019-03-29">2019年3月29日</date>作成<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>ゆうき</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>きりんの手紙</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>我が祈り</title><author>中原中也</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+神よ、私は俗人の<seg type="ruby"><seg type="rb">奸策</seg><seg type="rp">（</seg><seg type="rt">かんさく</seg><seg type="rp">）</seg></seg>ともない奸策が<lb />
+いかに細き糸目もて編みなされるかを知つてをります。<lb />
+神よ、しかしそれがよく編みなされてゐればゐる程、<lb />
+破れる時には<seg type="ruby"><seg type="rb">却</seg><seg type="rp">（</seg><seg type="rt">かへつ</seg><seg type="rp">）</seg></seg>て速かに乱離することを知つてをります。<lb />
+<lb />
+神よ、私は人の世の事象が<lb />
+いかに微細に織られるかを心理的にも知つてをります。<lb />
+しかし私はそれらのことを、<lb />
+一も知らないかの如く生きてをります。<lb />
+<lb />
+私は此所に立つてをります！……<lb />
+私はもはや歌はうとも叫ばうとも<lb />
+描かうとも説明しようとも致しません！<lb />
+<lb />
+しかし、<seg type="ruby"><seg type="rb">噫</seg><seg type="rp">（</seg><seg type="rt">ああ</seg><seg type="rp">）</seg></seg>！　やがてお恵みが下ります時には、<lb />
+やさしくうつくしい夜の歌と<lb />
+<seg type="ruby"><seg type="rb">櫂歌</seg><seg type="rp">（</seg><seg type="rt">かいうた</seg><seg type="rp">）</seg></seg>とをうたはうと思つてをります……<lb />
+<seg rend="chitsuki_4" rendition="div" style="text-align:right; margin-right: 4em">（一九二九・一二・一二）</seg>
+<lb />
+<lb />
+<lb />
+</seg></p></body>
+  </text>
+</TEI>

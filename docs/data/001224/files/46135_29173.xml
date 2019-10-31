@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-12-11">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>」三一書房
+底本：「久生十蘭全集　4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年3月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
@@ -33,39 +33,39 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　　　二十六<span type="ruby"><span type="rb">夜待</span><span type="rp">（</span><span type="rt">やまち</span><span type="rp">）</span></span><lb />
+　　　二十六<seg type="ruby"><seg type="rb">夜待</seg><seg type="rp">（</seg><seg type="rt">やまち</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　七月二十六日は二十六夜待で、芝高輪、品川、築地の<span type="ruby"><span type="rb">海手</span><span type="rp">（</span><span type="rt">うみて</span><span type="rp">）</span></span>、深川洲崎、湯島天神の境内などにはほとんど江戸じゅうの老若が日暮まえから押しだして月の出を待つ。<lb />
+　七月二十六日は二十六夜待で、芝高輪、品川、築地の<seg type="ruby"><seg type="rb">海手</seg><seg type="rp">（</seg><seg type="rt">うみて</seg><seg type="rp">）</seg></seg>、深川洲崎、湯島天神の境内などにはほとんど江戸じゅうの老若が日暮まえから押しだして月の出を待つ。<lb />
 　なかんずく、品川はたいへんな賑い。名のある茶屋、料理屋の座敷はこの夜のためにふた月も前から付けこまれる。<lb />
 　海にむいた座敷を打ちぬいてだれかれなしの入れごみ。衝立もおかず仕切もなく、煤払いの日の銭湯の流し場のようなぐあいになって、たがいに背中をすりあわせながら三味線をひいたり騒いだりしながら月を待っている。<lb />
 　この夜の月は、出る出ると見せかけてなかなか出ない。昼から騒いでいる連中は待ち切れなくなって月の出るほうへ尻をむけ、酔いつぶれて寝てしまうのもある。<lb />
-　顎十郎のアコ長と土々呂進のとど助。この日は日ぐれがたから商売繁昌。赤羽橋の橋づめに網を張ったのが図にあたって駕籠をすえると間もなく<span type="ruby"><span type="rb">大店</span><span type="rp">（</span><span type="rt">おおどこ</span><span type="rp">）</span></span>のご隠居のようなのが、大急ぎで品川の『<span type="ruby"><span type="rb">観海楼</span><span type="rp">（</span><span type="rt">かんかいろう</span><span type="rp">）</span></span>』まで。観海楼へ送りこむと、また赤羽橋まで取って返す。駕籠をおろすと間もなく、また客。こんどは御家人で八ツ山の『大勢』まで、金づかいの荒いやつだと見えて呉れた祝儀が銀一分。すぐまた赤羽橋へ取って返す。駕籠をおろすと、また客。<lb />
-　五ツごろから、こんどは品川宿の入り口に網を張ってもどりの客の<span type="ruby"><span type="rb">総浚</span><span type="rp">（</span><span type="rt">そうざら</span><span type="rp">）</span></span>い。麻布へひとり、すぐ取って返して芝口へひとり、鉄炮洲へひとり。夕方のぶんからあわせて往きと帰りで十一人。さすがのアコ長、とど助もフラフラになって、<lb />
-「……いや驚きました。調子に乗って無我夢中でやっていましたが、今日はそもそも何十里ばかり駈けましたろう。まっすぐにのばすと<span type="ruby"><span type="rb">岩国</span><span type="rp">（</span><span type="rt">いわくに</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">錦帯橋</span><span type="rp">（</span><span type="rt">きんたいばし</span><span type="rp">）</span></span>まで行っているかも知れん」<lb />
+　顎十郎のアコ長と土々呂進のとど助。この日は日ぐれがたから商売繁昌。赤羽橋の橋づめに網を張ったのが図にあたって駕籠をすえると間もなく<seg type="ruby"><seg type="rb">大店</seg><seg type="rp">（</seg><seg type="rt">おおどこ</seg><seg type="rp">）</seg></seg>のご隠居のようなのが、大急ぎで品川の『<seg type="ruby"><seg type="rb">観海楼</seg><seg type="rp">（</seg><seg type="rt">かんかいろう</seg><seg type="rp">）</seg></seg>』まで。観海楼へ送りこむと、また赤羽橋まで取って返す。駕籠をおろすと間もなく、また客。こんどは御家人で八ツ山の『大勢』まで、金づかいの荒いやつだと見えて呉れた祝儀が銀一分。すぐまた赤羽橋へ取って返す。駕籠をおろすと、また客。<lb />
+　五ツごろから、こんどは品川宿の入り口に網を張ってもどりの客の<seg type="ruby"><seg type="rb">総浚</seg><seg type="rp">（</seg><seg type="rt">そうざら</seg><seg type="rp">）</seg></seg>い。麻布へひとり、すぐ取って返して芝口へひとり、鉄炮洲へひとり。夕方のぶんからあわせて往きと帰りで十一人。さすがのアコ長、とど助もフラフラになって、<lb />
+「……いや驚きました。調子に乗って無我夢中でやっていましたが、今日はそもそも何十里ばかり駈けましたろう。まっすぐにのばすと<seg type="ruby"><seg type="rb">岩国</seg><seg type="rp">（</seg><seg type="rt">いわくに</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">錦帯橋</seg><seg type="rp">（</seg><seg type="rt">きんたいばし</seg><seg type="rp">）</seg></seg>まで行っているかも知れん」<lb />
 　阿古長は、棒鼻にもたれて肩をたたきながら、<lb />
-「……いや、まったく。頭はチンチン眼はモウモウ。こうして立っているのがやっとのところ。<span type="ruby"><span type="rb">丼</span><span type="rp">（</span><span type="rt">どんぶり</span><span type="rp">）</span></span>へ入れた銭の<span type="ruby"><span type="rb">重量</span><span type="rp">（</span><span type="rt">おもみ</span><span type="rp">）</span></span>で前へのめくりそうでしょうがないから、こうやって駕籠につかまっているところなんです」<lb />
+「……いや、まったく。頭はチンチン眼はモウモウ。こうして立っているのがやっとのところ。<seg type="ruby"><seg type="rb">丼</seg><seg type="rp">（</seg><seg type="rt">どんぶり</seg><seg type="rp">）</seg></seg>へ入れた銭の<seg type="ruby"><seg type="rb">重量</seg><seg type="rp">（</seg><seg type="rt">おもみ</seg><seg type="rp">）</seg></seg>で前へのめくりそうでしょうがないから、こうやって駕籠につかまっているところなんです」<lb />
 「今日はそもそもなんたる日でありましたろう。おたがい、なにもこうまでして稼ぐ気はないのだが、ついはずみがついて駈けずりまわりましたが、駕籠屋をして蔵を建てるなんてえのも外聞が悪い。気味が悪いからこんな銭すてっちまいましょうか」<lb />
-「それは、ともかく、こんなところでマゴマゴしていると、また客にとっつかまる。この<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>に提灯を消して急いで逃げ出しましょう」<lb />
+「それは、ともかく、こんなところでマゴマゴしていると、また客にとっつかまる。この<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>に提灯を消して急いで逃げ出しましょう」<lb />
 「それがようごわす」<lb />
 　提灯を吹消して空駕籠をかつぐと、ほうほうの体で逃げだす。<lb />
-　かれこれもう九ツ半。頬かむりをしてスタスタ<span type="ruby"><span type="rb">札</span><span type="rp">（</span><span type="rt">ふだ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">辻</span><span type="rp">（</span><span type="rt">つじ</span><span type="rp">）</span></span>までやって来ると、いきなり暗闇から、<lb />
+　かれこれもう九ツ半。頬かむりをしてスタスタ<seg type="ruby"><seg type="rb">札</seg><seg type="rp">（</seg><seg type="rt">ふだ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">辻</seg><seg type="rp">（</seg><seg type="rt">つじ</seg><seg type="rp">）</seg></seg>までやって来ると、いきなり暗闇から、<lb />
 「おい、ちょいと待ちな、どこへ行く」<lb />
 　紺木綿のパッチに目明草履。ヌッと出て来て、駕籠の前後にひとりずつ。<lb />
 「おお、駕籠屋か、面を見せろ」<lb />
-　月あかりがあるのに、いきなり<span type="ruby"><span type="rb">袂龕灯</span><span type="rp">（</span><span type="rt">たもとがんどう</span><span type="rp">）</span></span>で照しつける。<lb />
+　月あかりがあるのに、いきなり<seg type="ruby"><seg type="rb">袂龕灯</seg><seg type="rp">（</seg><seg type="rt">たもとがんどう</seg><seg type="rp">）</seg></seg>で照しつける。<lb />
 「どうぞ、ご存分に」<lb />
 「やかましい。どこへ帰る」<lb />
 「神田まで帰ります」<lb />
 「神田のどこだ」<lb />
 「佐久間町でございます」<lb />
 「駕籠宿か」<lb />
-「いいえ、そうじゃございません、<span type="ruby"><span type="rb">自前</span><span type="rp">（</span><span type="rt">じまえ</span><span type="rp">）</span></span>でございます」<lb />
+「いいえ、そうじゃございません、<seg type="ruby"><seg type="rb">自前</seg><seg type="rp">（</seg><seg type="rt">じまえ</seg><seg type="rp">）</seg></seg>でございます」<lb />
 「なにを言いやがる、自前という面じゃねえ。家主の名はなんという」<lb />
-「<span type="ruby"><span type="rb">気障野目明</span><span type="rp">（</span><span type="rt">きざのめあか</span><span type="rp">）</span></span>しと申します」<lb />
+「<seg type="ruby"><seg type="rb">気障野目明</seg><seg type="rp">（</seg><seg type="rt">きざのめあか</seg><seg type="rp">）</seg></seg>しと申します」<lb />
 「あてつけか、勝手にしやがれ。肩を見せろ」<lb />
 「どうぞ、ご存分に」<lb />
 「やかましい、黙っていろと言うに」<lb />
@@ -73,11 +73,11 @@
 「新米だな」<lb />
 「申訳けありません」<lb />
 「うるせえ。……よし、もう行け」<lb />
-　<span type="ruby"><span type="rb">四国町</span><span type="rp">（</span><span type="rt">しこくまち</span><span type="rp">）</span></span>まで来ると、二丁目の角で、ちょいと待ちな、どこへ行く。<lb />
-　<span type="ruby"><span type="rb">芝園橋</span><span type="rp">（</span><span type="rt">しばぞのばし</span><span type="rp">）</span></span>で一度、<span type="ruby"><span type="rb">御成門</span><span type="rp">（</span><span type="rt">おなりもん</span><span type="rp">）</span></span>で一度、<span type="ruby"><span type="rb">田村町</span><span type="rp">（</span><span type="rt">たむらちょう</span><span type="rp">）</span></span>で一度、日比谷の角で一度。ちょいと待ちな、どこへ行く。<lb />
+　<seg type="ruby"><seg type="rb">四国町</seg><seg type="rp">（</seg><seg type="rt">しこくまち</seg><seg type="rp">）</seg></seg>まで来ると、二丁目の角で、ちょいと待ちな、どこへ行く。<lb />
+　<seg type="ruby"><seg type="rb">芝園橋</seg><seg type="rp">（</seg><seg type="rt">しばぞのばし</seg><seg type="rp">）</seg></seg>で一度、<seg type="ruby"><seg type="rb">御成門</seg><seg type="rp">（</seg><seg type="rt">おなりもん</seg><seg type="rp">）</seg></seg>で一度、<seg type="ruby"><seg type="rb">田村町</seg><seg type="rp">（</seg><seg type="rt">たむらちょう</seg><seg type="rp">）</seg></seg>で一度、日比谷の角で一度。ちょいと待ちな、どこへ行く。<lb />
 　さすがの阿古長とど助、クタクタになって、<lb />
 「もういけません。この調子では佐久間町まで行くうちに夜が明けてしまう。いい後は悪いというのは本当ですね、阿古長さん。この様子で見ると、江戸一円になにか大捕物があるのだと思われますが、こうと知ったら、もう少し早く切りあげるンでした」<lb />
-「捕物だかなんだか知りませんが、いちいち<span type="ruby"><span type="rb">関</span><span type="rp">（</span><span type="rt">かま</span><span type="rp">）</span></span>いきっているわけには行かない。こんど止められたら突きとばして逃げましょう。なんと言ったってこっちは駕籠屋の脚。目明しなんぞに負けるもンじゃない」<lb />
+「捕物だかなんだか知りませんが、いちいち<seg type="ruby"><seg type="rb">関</seg><seg type="rp">（</seg><seg type="rt">かま</seg><seg type="rp">）</seg></seg>いきっているわけには行かない。こんど止められたら突きとばして逃げましょう。なんと言ったってこっちは駕籠屋の脚。目明しなんぞに負けるもンじゃない」<lb />
 「ようごわす、やっつけましょう。おいどんもちっと胸糞が悪るうになって来ましたけん」<lb />
 　馬場先門をさけて日比谷から数寄屋橋。鍛冶橋の袂まで来ると、川に照りかえす月あかりで闇の中にギラリと光った磨十手。<lb />
 「阿古長さん、おりますよ」<lb />
@@ -87,7 +87,7 @@
 　むこうはこんなことになっているとは知らない。顎をひいて片身寄りになってツイと出て来て、駕籠の棒鼻を押す。<lb />
 「待て、どこへ行く」<lb />
 「それはこっちの訊くことだ」<lb />
-　えッ、と突きだした当身の拳。まっこうに<span type="ruby"><span type="rb">鳩尾</span><span type="rp">（</span><span type="rt">みぞおち</span><span type="rp">）</span></span>のあたりをやられて、<lb />
+　えッ、と突きだした当身の拳。まっこうに<seg type="ruby"><seg type="rb">鳩尾</seg><seg type="rp">（</seg><seg type="rt">みぞおち</seg><seg type="rp">）</seg></seg>のあたりをやられて、<lb />
 「うむッ」<lb />
 　と、のけぞる。<lb />
 　とど助は、妙な顔をして阿古長のほうへ振りかえって、<lb />
@@ -95,7 +95,7 @@
 「ええ、わたしも今そう思っていたんで」<lb />
 　とど助はあわてて引きおこして見ると、これがひょろ松。口をアアンとあいて、つまらない顔をして気絶している。とど助は頸へ手をやって、<lb />
 「これはどうもいかんことになった。阿古長さん、これはひょろ松どんでごわす」<lb />
-　江戸一の捕物の名人、仙波阿古十郎が北番所で帳面繰りをしているとき、阿古十郎が追いまわしていた神田の御用聞<span rend="notes">［＃「御用聞」は底本では「後用聞」］</span>、ひょろりの松五郎。阿古十郎のおしこみでメキメキと腕をあげ、神田のひょろ松といえば、今では押しも押されもしないいい顔なんだが、こうなってはまるで形なし。<lb />
+　江戸一の捕物の名人、仙波阿古十郎が北番所で帳面繰りをしているとき、阿古十郎が追いまわしていた神田の御用聞<seg rend="notes" rendition="span">［＃「御用聞」は底本では「後用聞」］</seg>、ひょろりの松五郎。阿古十郎のおしこみでメキメキと腕をあげ、神田のひょろ松といえば、今では押しも押されもしないいい顔なんだが、こうなってはまるで形なし。<lb />
 　阿古長も、おどろいて寄って来て、<lb />
 「なるほど、これはひょろ松。妙な面をして寝ていますね。しかし、こうしてもおけませんから、生きかえらしてやりましょう」<lb />
 　馴れたもので、引きおこしておいて背骨の中ほどのところをヒョイと拳でおすと、そのとたん、ひょろ松は、ふッと息を吹きかえして、<lb />
@@ -105,17 +105,17 @@
 「おッ、これは、阿古十郎さん、ちょうどいいところで。……お話はゆっくりいたしますが、今あっしに当身を喰わした奴がおりました。畜生、どこへ行きやがった」<lb />
 　とど助は、頭を掻きかき、<lb />
 「ひょろ松どん、悪く思ってくださんな。あんたと知ったらやるンじゃなかった。なにしろ、辻、町角で咎められるンで二人とも業を煮やし、こんど出て来たら当身を喰わせて逃げようと、ちょうど相談が出来あがったところへあんたが飛びだして来たようなわけで……」<lb />
-「いや、ようござんすよ。どうせね、わたしなンざ当身をくらってひっくりかえる芝居の<span type="ruby"><span type="rb">仕出</span><span type="rp">（</span><span type="rt">しだ</span><span type="rp">）</span></span>しなみ。文句を言えた柄ではありやせんのさ」<lb />
+「いや、ようござんすよ。どうせね、わたしなンざ当身をくらってひっくりかえる芝居の<seg type="ruby"><seg type="rb">仕出</seg><seg type="rp">（</seg><seg type="rt">しだ</seg><seg type="rp">）</seg></seg>しなみ。文句を言えた柄ではありやせんのさ」<lb />
 　阿古長は、なだめるように、<lb />
 「まア、そうむくれるな。いわば、もののはずみ。それはそうと、だいぶ手びろく手配りをしているが、いったい、なにがあったんだ」<lb />
 　ひょろ松は、すぐ機嫌をなおして、<lb />
-「あなたもご存じでしょう、重三郎の<span type="ruby"><span type="rb">伏鐘組</span><span type="rp">（</span><span type="rt">ふせがねぐみ</span><span type="rp">）</span></span>。ついこのあいだあんな騒ぎをやっておきながら、またぞろ今夜大きなことをやりやがったんです」<lb />
+「あなたもご存じでしょう、重三郎の<seg type="ruby"><seg type="rb">伏鐘組</seg><seg type="rp">（</seg><seg type="rt">ふせがねぐみ</seg><seg type="rp">）</seg></seg>。ついこのあいだあんな騒ぎをやっておきながら、またぞろ今夜大きなことをやりやがったんです」<lb />
 「ほほう、なにをやった」<lb />
-「神田左衛門橋の酒井さまのお金蔵から四日ほど前、出羽の<span type="ruby"><span type="rb">庄内鶴岡</span><span type="rp">（</span><span type="rt">しょうないつるおか</span><span type="rp">）</span></span>から馬つきで届いた七万六千両、そのままそっくり持って行ってしまったンで」<lb />
-「なんでまたそんな<span type="ruby"><span type="rb">箆棒</span><span type="rp">（</span><span type="rt">べらぼう</span><span type="rp">）</span></span>な金を金蔵へなんぞ入れておいたんだ」<lb />
-「こんどの<span type="ruby"><span type="rb">外船</span><span type="rp">（</span><span type="rt">がいせん</span><span type="rp">）</span></span>さわぎで、<span type="ruby"><span type="rb">会津</span><span type="rp">（</span><span type="rt">あいづ</span><span type="rp">）</span></span><span rend="notes">［＃ルビの「あいづ」は底本では「あいず」］</span>や川越の諸藩と交代に江戸湾警備を申しつけられ、その諸費用に大至急で国もとから取りよせた金だったんです」<lb />
+「神田左衛門橋の酒井さまのお金蔵から四日ほど前、出羽の<seg type="ruby"><seg type="rb">庄内鶴岡</seg><seg type="rp">（</seg><seg type="rt">しょうないつるおか</seg><seg type="rp">）</seg></seg>から馬つきで届いた七万六千両、そのままそっくり持って行ってしまったンで」<lb />
+「なんでまたそんな<seg type="ruby"><seg type="rb">箆棒</seg><seg type="rp">（</seg><seg type="rt">べらぼう</seg><seg type="rp">）</seg></seg>な金を金蔵へなんぞ入れておいたんだ」<lb />
+「こんどの<seg type="ruby"><seg type="rb">外船</seg><seg type="rp">（</seg><seg type="rt">がいせん</seg><seg type="rp">）</seg></seg>さわぎで、<seg type="ruby"><seg type="rb">会津</seg><seg type="rp">（</seg><seg type="rt">あいづ</seg><seg type="rp">）</seg></seg><seg rend="notes" rendition="span">［＃ルビの「あいづ」は底本では「あいず」］</seg>や川越の諸藩と交代に江戸湾警備を申しつけられ、その諸費用に大至急で国もとから取りよせた金だったんです」<lb />
 「なるほど。……それで、どんなふうにして持って行った」<lb />
-「なアに、ごくざっとしたことだったんです。まるで落語の<span type="ruby"><span type="rb">落</span><span type="rp">（</span><span type="rt">さげ</span><span type="rp">）</span></span>のようなわけなンで。……金付馬が鶴岡を出たのが先月の二十二日。伏鐘は江戸にいてちゃんとそれがわかっていた。金が庄内を出たと聞くと、屋敷の南どなりの金魚屋を居ぬきで買っちまい、金蔵のましたを通して池を神田川まで掘りぬき、まるひと月のあいだ、池のほうから金蔵の土台へせっせと水を流していたんです。これじゃ、どんな堅固な土蔵だってひとっ溜りもありゃアしない。地面の上じゃ、見廻役を二十人三十人とふやして夜の目も寝ずに張り番をしているというンだから、まるで馬鹿にされているようなもの。……もうひとついけないことは、七月二十六日は<span type="ruby"><span type="rb">忠宝</span><span type="rp">（</span><span type="rt">ただとし</span><span type="rp">）</span></span>さまのお誕生日にあたるので、その祝いを兼ね、八ツ山の浜屋敷へ江戸家ちゅう一同をあつめて二十六夜待の酒宴をなさるのが毎年の例。金蔵の番人まで召しつれていらしたわけではなかろうが、そこにやはり油断がある。<span type="ruby"><span type="rb">腰掛場</span><span type="rp">（</span><span type="rt">こしかけば</span><span type="rp">）</span></span>へあつまって下げられた<span type="ruby"><span type="rb">酒肴</span><span type="rp">（</span><span type="rt">さけさかな</span><span type="rp">）</span></span>をいただいていい機嫌になっているあいだに、神田川からくぐって来てゆるんだ土台を突きくずし、七十六箇の千両箱をひとつ残さず綺麗さっぱり持って行ってしまったんです」<lb />
+「なアに、ごくざっとしたことだったんです。まるで落語の<seg type="ruby"><seg type="rb">落</seg><seg type="rp">（</seg><seg type="rt">さげ</seg><seg type="rp">）</seg></seg>のようなわけなンで。……金付馬が鶴岡を出たのが先月の二十二日。伏鐘は江戸にいてちゃんとそれがわかっていた。金が庄内を出たと聞くと、屋敷の南どなりの金魚屋を居ぬきで買っちまい、金蔵のましたを通して池を神田川まで掘りぬき、まるひと月のあいだ、池のほうから金蔵の土台へせっせと水を流していたんです。これじゃ、どんな堅固な土蔵だってひとっ溜りもありゃアしない。地面の上じゃ、見廻役を二十人三十人とふやして夜の目も寝ずに張り番をしているというンだから、まるで馬鹿にされているようなもの。……もうひとついけないことは、七月二十六日は<seg type="ruby"><seg type="rb">忠宝</seg><seg type="rp">（</seg><seg type="rt">ただとし</seg><seg type="rp">）</seg></seg>さまのお誕生日にあたるので、その祝いを兼ね、八ツ山の浜屋敷へ江戸家ちゅう一同をあつめて二十六夜待の酒宴をなさるのが毎年の例。金蔵の番人まで召しつれていらしたわけではなかろうが、そこにやはり油断がある。<seg type="ruby"><seg type="rb">腰掛場</seg><seg type="rp">（</seg><seg type="rt">こしかけば</seg><seg type="rp">）</seg></seg>へあつまって下げられた<seg type="ruby"><seg type="rb">酒肴</seg><seg type="rp">（</seg><seg type="rt">さけさかな</seg><seg type="rp">）</seg></seg>をいただいていい機嫌になっているあいだに、神田川からくぐって来てゆるんだ土台を突きくずし、七十六箇の千両箱をひとつ残さず綺麗さっぱり持って行ってしまったんです」<lb />
 「ほほう、なかなかやるな」<lb />
 「褒めちゃいけません」<lb />
 「それにしても、あんな重いものを抱えて泳げるわけのものじゃないが」<lb />
@@ -123,28 +123,28 @@
 「なるほど、法にかなっている。それから、どうした」<lb />
 「ところで、酒井さまのほうもそう抜かってばかりはいなかった。半刻ごとに金蔵の覗き穴から中をのぞいて見ることになっていたもンだから、間もなく盗まれたということがわかった。つまり、運がよかったんです」<lb />
 「運がいいとはなんのことだ」<lb />
-「近来になく手配りが早かった。七十六の千両箱を一艘や二艘の小船につめるわけのもンじゃない。これだけのものを一艘の船につむなら、房州の石船にきまったようなもンです。石船なら神田川から<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">かみ</span><span type="rp">）</span></span>にのぼる気づかいはない、くだるほか法がない。なにしろ石船は底が沈んでいるからお茶ノ水からのぼって行けない。そう見こみをつけたもンですから、左衛門橋から上は放っておいて、手をそろえて、ワッと川下だけに張をまわしたンです」<lb />
+「近来になく手配りが早かった。七十六の千両箱を一艘や二艘の小船につめるわけのもンじゃない。これだけのものを一艘の船につむなら、房州の石船にきまったようなもンです。石船なら神田川から<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">かみ</seg><seg type="rp">）</seg></seg>にのぼる気づかいはない、くだるほか法がない。なにしろ石船は底が沈んでいるからお茶ノ水からのぼって行けない。そう見こみをつけたもンですから、左衛門橋から上は放っておいて、手をそろえて、ワッと川下だけに張をまわしたンです」<lb />
 「やって来たか」<lb />
-「やって来ました。……芝居でつかう張抜き。……日本紙を幾枚も張り重ねて<span type="ruby"><span type="rb">膠</span><span type="rp">（</span><span type="rt">にかわ</span><span type="rp">）</span></span>とへちまで形をつけ、岩でもなんでもつくるあいつ。……あの伝で張抜きの石を克明に千両箱へひとつずつ被せましてね、遠目ではどう見たって上総の石船。どうしたって見すごしてしまうんです。こんなぐあいにして鵜の目鷹の目の中をゆうゆうと<span type="ruby"><span type="rb">北新堀</span><span type="rp">（</span><span type="rt">きたしんぼり</span><span type="rp">）</span></span>までくだって来た。……ところでね、阿古十郎さん、わたしだって馬鹿じゃない。北新堀の堀っぷちで腕組みして考えた。石船ならのぼるのが本当でしょう。房州の上総石がお茶を引きはしまいし、石を積んで上からくだって来るというやつはないだろう。こいつは臭いと思ったから、船をとめさせて指で石をはじいて見ると、カチンというところがポコンといった。これで伏鐘組は<span type="ruby"><span type="rb">寂滅</span><span type="rp">（</span><span type="rt">じゃくめつ</span><span type="rp">）</span></span>。伏鐘の三羽烏といわれる毛抜の音、阿弥陀の六蔵、駿河の為と、この三人はもちろん、船頭に化けて<span type="ruby"><span type="rb">水馴棹</span><span type="rp">（</span><span type="rt">みなれざお</span><span type="rp">）</span></span>をつかっていた一味十二人、そのままそっくりこっちの網に入りました」<lb />
+「やって来ました。……芝居でつかう張抜き。……日本紙を幾枚も張り重ねて<seg type="ruby"><seg type="rb">膠</seg><seg type="rp">（</seg><seg type="rt">にかわ</seg><seg type="rp">）</seg></seg>とへちまで形をつけ、岩でもなんでもつくるあいつ。……あの伝で張抜きの石を克明に千両箱へひとつずつ被せましてね、遠目ではどう見たって上総の石船。どうしたって見すごしてしまうんです。こんなぐあいにして鵜の目鷹の目の中をゆうゆうと<seg type="ruby"><seg type="rb">北新堀</seg><seg type="rp">（</seg><seg type="rt">きたしんぼり</seg><seg type="rp">）</seg></seg>までくだって来た。……ところでね、阿古十郎さん、わたしだって馬鹿じゃない。北新堀の堀っぷちで腕組みして考えた。石船ならのぼるのが本当でしょう。房州の上総石がお茶を引きはしまいし、石を積んで上からくだって来るというやつはないだろう。こいつは臭いと思ったから、船をとめさせて指で石をはじいて見ると、カチンというところがポコンといった。これで伏鐘組は<seg type="ruby"><seg type="rb">寂滅</seg><seg type="rp">（</seg><seg type="rt">じゃくめつ</seg><seg type="rp">）</seg></seg>。伏鐘の三羽烏といわれる毛抜の音、阿弥陀の六蔵、駿河の為と、この三人はもちろん、船頭に化けて<seg type="ruby"><seg type="rb">水馴棹</seg><seg type="rp">（</seg><seg type="rt">みなれざお</seg><seg type="rp">）</seg></seg>をつかっていた一味十二人、そのままそっくりこっちの網に入りました」<lb />
 「そんならなんでこんな騒ぎをする」<lb />
-「いけないことには、伏鐘重三郎が茅場町あたりで上ってしまったんです。足どりを辿ると、そこから八丁堀まで歩いて行って、八丁堀の船清という船宿から<span type="ruby"><span type="rb">猪牙</span><span type="rp">（</span><span type="rt">ちょき</span><span type="rp">）</span></span>に乗って浜松町一丁目まで行き、佐土原屋という木綿問屋へ入ったということがわかった。それっというンで佐土原屋を押しつつむと、こっちの焦りかたもいけなかったんですが、引っかかったのは店にすわって<span type="ruby"><span type="rb">金巾</span><span type="rp">（</span><span type="rt">かなきん</span><span type="rp">）</span></span>をいじくっていたほんの下ッ端の五六人。伏鐘と頭株の十二三人は二階から物干に出てチリチリバラバラに逃げてしまいました。これがちょうど四ツころの騒ぎで。……しかし、こっちもひろく手を配ってあるンだし、あそこから田町へかけては堀と橋ばかりのようなところだから、縮めて行ってとうとう芝浦まで追いつめたンです。……月のいい夜だから、あの原っぱへ追いこんだら、もうこっちのもんだと多寡をくくったのがいけなかった。夏草のあいだを走りぬけて行く姿はたしかに見たンですが、さて、海岸までつめて行って見ると影も形もない。小船で逃げたようすもないから、ひょっとすると、海でも泳いでどっかへあがったにちがいないというンで、それで、こうして大捕物をやっているンです」<lb />
+「いけないことには、伏鐘重三郎が茅場町あたりで上ってしまったんです。足どりを辿ると、そこから八丁堀まで歩いて行って、八丁堀の船清という船宿から<seg type="ruby"><seg type="rb">猪牙</seg><seg type="rp">（</seg><seg type="rt">ちょき</seg><seg type="rp">）</seg></seg>に乗って浜松町一丁目まで行き、佐土原屋という木綿問屋へ入ったということがわかった。それっというンで佐土原屋を押しつつむと、こっちの焦りかたもいけなかったんですが、引っかかったのは店にすわって<seg type="ruby"><seg type="rb">金巾</seg><seg type="rp">（</seg><seg type="rt">かなきん</seg><seg type="rp">）</seg></seg>をいじくっていたほんの下ッ端の五六人。伏鐘と頭株の十二三人は二階から物干に出てチリチリバラバラに逃げてしまいました。これがちょうど四ツころの騒ぎで。……しかし、こっちもひろく手を配ってあるンだし、あそこから田町へかけては堀と橋ばかりのようなところだから、縮めて行ってとうとう芝浦まで追いつめたンです。……月のいい夜だから、あの原っぱへ追いこんだら、もうこっちのもんだと多寡をくくったのがいけなかった。夏草のあいだを走りぬけて行く姿はたしかに見たンですが、さて、海岸までつめて行って見ると影も形もない。小船で逃げたようすもないから、ひょっとすると、海でも泳いでどっかへあがったにちがいないというンで、それで、こうして大捕物をやっているンです」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">大評判</span><span type="rp">（</span><span type="rt">おおひょうばん</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">大評判</seg><seg type="rp">（</seg><seg type="rt">おおひょうばん</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　両国の見世物へ<span type="ruby"><span type="rb">黒鯨</span><span type="rp">（</span><span type="rt">くろくじら</span><span type="rp">）</span></span>が来た。<lb />
+　両国の見世物へ<seg type="ruby"><seg type="rb">黒鯨</seg><seg type="rp">（</seg><seg type="rt">くろくじら</seg><seg type="rp">）</seg></seg>が来た。<lb />
 　頭から尾までの長さが六間半。胴の周囲が太いところは大人の五ツかかえ。これが江戸のまンなかで絵にあるように潮を噴き、鯨ちゃんや、と言うと、あい、あい、と返事をするという。<lb />
 　江戸へ鯨が来たのはこれが最初。<lb />
 　いわんや、生きた実物が泳ぐところを、大人は百文、子供は五十文で見せるという。<lb />
 「両国へ黒鯨がきたそうでございますな。もうお出かけになりましたか」<lb />
-「おい、松<span type="ruby"><span type="rb">兄哥</span><span type="rp">（</span><span type="rt">あにい</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">垢離場</span><span type="rp">（</span><span type="rt">こりば</span><span type="rp">）</span></span>の高物小屋へ仙台の<span type="ruby"><span type="rb">金華山</span><span type="rp">（</span><span type="rt">きんかざん</span><span type="rp">）</span></span>から鯨が泳ぎついたそうだ」<lb />
-「お花さん、鯨が見世物に出てるそうですよ。なんでも鯨の赤ちゃんを抱いておっ<span type="ruby"><span type="rb">乳</span><span type="rp">（</span><span type="rt">ぱい</span><span type="rp">）</span></span>を飲ませるンだって」<lb />
-「ご隠居さん、絵では見ましたが、<span type="ruby"><span type="rb">正眼</span><span type="rp">（</span><span type="rt">まさめ</span><span type="rp">）</span></span>に生きて泳ぐところを江戸のまンなかで見られようとは思っていませんでしたよ。年寄は年寄づれ、ひとつ出かけて見ますかな」<lb />
-「先生、両国で鯨が泳いでいるそうでごわす。見聞をひろめるは武士の<span type="ruby"><span type="rb">嗜</span><span type="rp">（</span><span type="rt">たしな</span><span type="rp">）</span></span>みのうちでごわすによって、どうか、お供を仰せつけくださりまっせ」<lb />
-　<span type="ruby"><span type="rb">髪床</span><span type="rp">（</span><span type="rt">かみどこ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">銭湯</span><span type="rp">（</span><span type="rt">せんとう</span><span type="rp">）</span></span>、碁会所、料理屋、人がふたり寄れば鯨の話。江戸じゅうがこの評判で湧きかえる。われも行けかれも行けと、江戸八百八町がこぞってどっと両国へ押しだす。まるで本門寺のお<span type="ruby"><span type="rb">会式</span><span type="rp">（</span><span type="rt">えしき</span><span type="rp">）</span></span>のような有様。<lb />
-　高物師の<span type="ruby"><span type="rb">深草</span><span type="rp">（</span><span type="rt">ふかくさ</span><span type="rp">）</span></span>六兵衛。浅草の奥山で生れて奥山育ち、まだ歳は若いが才走った<span type="ruby"><span type="rb">胆</span><span type="rp">（</span><span type="rt">きも</span><span type="rp">）</span></span>の太い男。日本じゅうを草鞋がけで走りまわって、いつもどえらい物をかつぎこんで来る。安政二年には長崎から大錦蛇を、三年の夏には<span type="ruby"><span type="rb">駱駝</span><span type="rp">（</span><span type="rt">らくだ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">麒麟</span><span type="rp">（</span><span type="rt">きりん</span><span type="rp">）</span></span>を持って来た。六兵衛が小屋をかけると、因果物などはばったり客足がとだえてしまうので、又の名を八丁泣かせの六兵衛ともいう。<lb />
-　この六月、金華山へあがった<span type="ruby"><span type="rb">流鯨</span><span type="rp">（</span><span type="rt">ながれくじら</span><span type="rp">）</span></span>にポンと投げだした五百両。<lb />
-　建てあがり十間の小屋掛をし、鯨が潮を噴いている三間半の大看板をあげる。<span type="ruby"><span type="rb">鼠木戸</span><span type="rp">（</span><span type="rt">ねずみきど</span><span type="rp">）</span></span>を二カ所につくって三方に桟敷をしつらえ、まンなかの空地へ鯨をころがしてこれを鯨幕で四方からかこい、いよいよ客がつまると一挙にぱッと幕を取りのけ、<span type="ruby"><span type="rb">黒天鵞絨</span><span type="rp">（</span><span type="rt">くろびろうど</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">金糸</span><span type="rp">（</span><span type="rt">きんし</span><span type="rp">）</span></span><span type="ruby"><span type="rb">銀糸</span><span type="rp">（</span><span type="rt">ぎんし</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">鯨波</span><span type="rp">（</span><span type="rt">げいは</span><span type="rp">）</span></span>を刺繍した<span type="ruby"><span type="rb">裃</span><span type="rp">（</span><span type="rt">かみしも</span><span type="rp">）</span></span>を着た美しい女の口上つかいが鯨の背に乗って口上をのべる。それがおわると、<span type="ruby"><span type="rb">鳴海絞</span><span type="rp">（</span><span type="rt">なるみしぼ</span><span type="rp">）</span></span>りの着物に、表黒白裏の鯨帯をしめた女の踊子が十人ばかり出て来て、<lb />
-<span change="gaiji" facs="../../../gaiji/1-03/1-03-28.png" rend="gaiji" rendition="img" source="※(歌記号、1-3-28)" />白いと黒と巻きついたら、鯨帯みるようでしまりがよかろ、セッセセッセ。<lb />
+「おい、松<seg type="ruby"><seg type="rb">兄哥</seg><seg type="rp">（</seg><seg type="rt">あにい</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">垢離場</seg><seg type="rp">（</seg><seg type="rt">こりば</seg><seg type="rp">）</seg></seg>の高物小屋へ仙台の<seg type="ruby"><seg type="rb">金華山</seg><seg type="rp">（</seg><seg type="rt">きんかざん</seg><seg type="rp">）</seg></seg>から鯨が泳ぎついたそうだ」<lb />
+「お花さん、鯨が見世物に出てるそうですよ。なんでも鯨の赤ちゃんを抱いておっ<seg type="ruby"><seg type="rb">乳</seg><seg type="rp">（</seg><seg type="rt">ぱい</seg><seg type="rp">）</seg></seg>を飲ませるンだって」<lb />
+「ご隠居さん、絵では見ましたが、<seg type="ruby"><seg type="rb">正眼</seg><seg type="rp">（</seg><seg type="rt">まさめ</seg><seg type="rp">）</seg></seg>に生きて泳ぐところを江戸のまンなかで見られようとは思っていませんでしたよ。年寄は年寄づれ、ひとつ出かけて見ますかな」<lb />
+「先生、両国で鯨が泳いでいるそうでごわす。見聞をひろめるは武士の<seg type="ruby"><seg type="rb">嗜</seg><seg type="rp">（</seg><seg type="rt">たしな</seg><seg type="rp">）</seg></seg>みのうちでごわすによって、どうか、お供を仰せつけくださりまっせ」<lb />
+　<seg type="ruby"><seg type="rb">髪床</seg><seg type="rp">（</seg><seg type="rt">かみどこ</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">銭湯</seg><seg type="rp">（</seg><seg type="rt">せんとう</seg><seg type="rp">）</seg></seg>、碁会所、料理屋、人がふたり寄れば鯨の話。江戸じゅうがこの評判で湧きかえる。われも行けかれも行けと、江戸八百八町がこぞってどっと両国へ押しだす。まるで本門寺のお<seg type="ruby"><seg type="rb">会式</seg><seg type="rp">（</seg><seg type="rt">えしき</seg><seg type="rp">）</seg></seg>のような有様。<lb />
+　高物師の<seg type="ruby"><seg type="rb">深草</seg><seg type="rp">（</seg><seg type="rt">ふかくさ</seg><seg type="rp">）</seg></seg>六兵衛。浅草の奥山で生れて奥山育ち、まだ歳は若いが才走った<seg type="ruby"><seg type="rb">胆</seg><seg type="rp">（</seg><seg type="rt">きも</seg><seg type="rp">）</seg></seg>の太い男。日本じゅうを草鞋がけで走りまわって、いつもどえらい物をかつぎこんで来る。安政二年には長崎から大錦蛇を、三年の夏には<seg type="ruby"><seg type="rb">駱駝</seg><seg type="rp">（</seg><seg type="rt">らくだ</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">麒麟</seg><seg type="rp">（</seg><seg type="rt">きりん</seg><seg type="rp">）</seg></seg>を持って来た。六兵衛が小屋をかけると、因果物などはばったり客足がとだえてしまうので、又の名を八丁泣かせの六兵衛ともいう。<lb />
+　この六月、金華山へあがった<seg type="ruby"><seg type="rb">流鯨</seg><seg type="rp">（</seg><seg type="rt">ながれくじら</seg><seg type="rp">）</seg></seg>にポンと投げだした五百両。<lb />
+　建てあがり十間の小屋掛をし、鯨が潮を噴いている三間半の大看板をあげる。<seg type="ruby"><seg type="rb">鼠木戸</seg><seg type="rp">（</seg><seg type="rt">ねずみきど</seg><seg type="rp">）</seg></seg>を二カ所につくって三方に桟敷をしつらえ、まンなかの空地へ鯨をころがしてこれを鯨幕で四方からかこい、いよいよ客がつまると一挙にぱッと幕を取りのけ、<seg type="ruby"><seg type="rb">黒天鵞絨</seg><seg type="rp">（</seg><seg type="rt">くろびろうど</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">金糸</seg><seg type="rp">（</seg><seg type="rt">きんし</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">銀糸</seg><seg type="rp">（</seg><seg type="rt">ぎんし</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">鯨波</seg><seg type="rp">（</seg><seg type="rt">げいは</seg><seg type="rp">）</seg></seg>を刺繍した<seg type="ruby"><seg type="rb">裃</seg><seg type="rp">（</seg><seg type="rt">かみしも</seg><seg type="rp">）</seg></seg>を着た美しい女の口上つかいが鯨の背に乗って口上をのべる。それがおわると、<seg type="ruby"><seg type="rb">鳴海絞</seg><seg type="rp">（</seg><seg type="rt">なるみしぼ</seg><seg type="rp">）</seg></seg>りの着物に、表黒白裏の鯨帯をしめた女の踊子が十人ばかり出て来て、<lb />
+<seg change="gaiji" facs="../../../gaiji/1-03/1-03-28.png" rend="gaiji" rendition="img" source="※(歌記号、1-3-28)" />白いと黒と巻きついたら、鯨帯みるようでしまりがよかろ、セッセセッセ。<lb />
 　と、鯨節にあわせて踊る。これでおしまい。<lb />
 　なにもかも鯨づくめのところがご愛嬌。<lb />
 　鯨はただ白い砂の上にごろんとねっころがっているばかり。潮を噴くわけでもなければ、尾鰭を動かすわけでもない。強いて申そうなら、ちと生臭い。これが張子細工でない証拠。客は百文はらって満足して帰る。<lb />
@@ -153,14 +153,14 @@
 「まア、ぜひ行ってごらんなさい。大したもンですぜ。あなた、鯨が潮を噴きます。あれを見ないじゃ、江戸っ子の名折れになる」<lb />
 　鯨ではないが、尾に鰭がついて、いよいよ以てたいへんな評判。<lb />
 　口あけの初日は、それでも、どうにか納まりをつけたが、二日目は小屋のある垢離場から両国の広場にかけて身動きも出来ぬような混雑。<lb />
-　小屋では鼠木戸の前に竹矢来をゆいまわし、鼠木戸の上の<span type="ruby"><span type="rb">櫓</span><span type="rp">（</span><span type="rt">やぐら</span><span type="rp">）</span></span>には鳶の者と医者が詰めきっていて怪我人が出来ると、<span type="ruby"><span type="rb">鳶口</span><span type="rp">（</span><span type="rt">とびぐち</span><span type="rp">）</span></span>で櫓へつるしあげて応急の手当をするという騒ぎ。<lb />
+　小屋では鼠木戸の前に竹矢来をゆいまわし、鼠木戸の上の<seg type="ruby"><seg type="rb">櫓</seg><seg type="rp">（</seg><seg type="rt">やぐら</seg><seg type="rp">）</seg></seg>には鳶の者と医者が詰めきっていて怪我人が出来ると、<seg type="ruby"><seg type="rb">鳶口</seg><seg type="rp">（</seg><seg type="rt">とびぐち</seg><seg type="rp">）</seg></seg>で櫓へつるしあげて応急の手当をするという騒ぎ。<lb />
 　小屋の中は外とおとらぬ混雑、三方の桟敷に爪を立たぬほどに鮨押しになった見物が汗を流して幕のとれるのを待っている。四方八方から押されるので汗を拭くことも頸をまわすことも出来ない。顔のむいたほうへ眼玉をすえ、平ったくなって立っている。眼玉も動かせぬというはこのへんの混雑をいうのであるべし。<lb />
 　気が遠くなるような思いで待っているうちに楽屋のほうで波音を聞かせる。大波小波、狂瀾怒濤。小豆をつかって無闇に波の音を立てるもんだから、見物の一同は船酔いするような妙な気持になる。<lb />
-　しょうしょう<span type="ruby"><span type="rb">吐気</span><span type="rp">（</span><span type="rt">はきけ</span><span type="rp">）</span></span>が来かかったころに、ボーボーと鯨船で吹く竹法螺の音が聞え、それがきっかけで、白黒だんだらの鯨幕がさッと取りはらわれる。<lb />
+　しょうしょう<seg type="ruby"><seg type="rb">吐気</seg><seg type="rp">（</seg><seg type="rt">はきけ</seg><seg type="rp">）</seg></seg>が来かかったころに、ボーボーと鯨船で吹く竹法螺の音が聞え、それがきっかけで、白黒だんだらの鯨幕がさッと取りはらわれる。<lb />
 　鯨には嘘はない。<lb />
 　まるで五百石船ほどもあろうと思われる黒いのっぺらぼうなやつがごろんと転がっているから、見物は夢中になって口々いっせいに、うわアと感嘆の叫び声をあげる。その声で小屋も揺らぐかと思うばかり。<lb />
-　鯨の背中には、先刻のべたような服装の<span type="ruby"><span type="rb">縹緻</span><span type="rp">（</span><span type="rt">きりょう</span><span type="rp">）</span></span>よしの女口上つかいが桃割にさした簪のビラビラを振りながら、いい声で鯨の口上。<lb />
-「<span type="ruby"><span type="rb">東西</span><span type="rp">（</span><span type="rt">とうざい</span><span type="rp">）</span></span>、さて、このたびご覧に供しまする黒鯨。藍絵、錦絵、三枚つづき絵にて御覧のかたはありましょうが、生きた鯨が江戸に持ちこされたはこれが最初。当地は日本四十五州の<span type="ruby"><span type="rb">要所</span><span type="rp">（</span><span type="rt">かなめどころ</span><span type="rp">）</span></span>。将軍さまのお膝元とて、名だたる見世物も数あるなかに、これこそは真の<span type="ruby"><span type="rb">眼学問</span><span type="rp">（</span><span type="rt">めがくもん</span><span type="rp">）</span></span>。見ぬは恥、見るは一生の宝。孫子の代までの語り草、つくづくとお眼にとめごろうじませ。頭より尾までの長さは六間半と一尺二寸。胴のまわりは二十六尺六寸、重さは<span type="ruby"><span type="rb">測</span><span type="rp">（</span><span type="rt">はか</span><span type="rp">）</span></span>って千五百貫。これを<span type="ruby"><span type="rb">譬</span><span type="rp">（</span><span type="rt">たと</span><span type="rp">）</span></span>えに引きますなら、天王寺の釣鐘の三つ分にあたる。……さて、これより鯨の潮ふきをご覧に入れまするが、まずお聞きくださりませ、この鯨についての哀れな物語。心なき海鯨にもこの愛情。子の愛に惹かされるのは人間ばかりのことではない。<span type="ruby"><span type="rb">焼野</span><span type="rp">（</span><span type="rt">やけの</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">雉子</span><span type="rp">（</span><span type="rt">きぎす</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>の鶴、<span type="ruby"><span type="rb">錆田</span><span type="rp">（</span><span type="rt">さびた</span><span type="rp">）</span></span>の雀は子をかばう。いわんや、鯨は魚の長。愛情の深さはまたなかなか。……さて、皆々さま、これなるは、<span type="ruby"><span type="rb">突</span><span type="rp">（</span><span type="rt">つき</span><span type="rp">）</span></span>鯨の<span type="ruby"><span type="rb">寄</span><span type="rp">（</span><span type="rt">より</span><span type="rp">）</span></span>鯨の<span type="ruby"><span type="rb">流</span><span type="rp">（</span><span type="rt">ながれ</span><span type="rp">）</span></span>鯨のとそんな有りふれた鯨ではござりませぬ。奥州は仙台金華山港町というところに住む漁師の茂松という方、去る月の十二日に沖に漁にまいりましたところ、波のあいだになにやら<span type="ruby"><span type="rb">黝</span><span type="rp">（</span><span type="rt">くろ</span><span type="rp">）</span></span>いものが見えますゆえ、なんであろうと舷を寄せ、仔細にこれを眺めますれば、それは生れたばかりの鯨の子。珍らしきものよと拾いとり、さて、船を返そうといたしますれば、たちまち後のかたにあがる鯨の潮。母なる鯨が浮かびあがり、小さなる眼に涙を泛かべ、その子返してと追うて来る。茂松どのは哀れをもよおし、いったんは返そうと思いましたなれど、長々つづく浦の不漁。鯨一頭しとめれば<span type="ruby"><span type="rb">七浦七崎</span><span type="rp">（</span><span type="rt">ななうらななさき</span><span type="rp">）</span></span>にぎおうの譬え。心を鬼にして船をば急がせますならば、母なる鯨は舷に添い、己が身の危うさも忘れどこまでもどこまでもついて来る。そのうちに船は港に入り、よもやと思うて見かえるなれば母なる鯨はもう半狂乱。漁船とともに腹を砂浜にのしあげ、子を返して賜わらぬならば、いっそひと思いにこの身も殺してくれといわんばかり、折よく通りかかりました当小屋の六兵衛どの、哀れと思い買いとりて母子もろとも江戸へ連れかえり、かくはご高覧に供しまする次第。まずは右のため口上。東西。……いよいよこれより鯨の潮ふき、母鯨が<span type="ruby"><span type="rb">添乳</span><span type="rp">（</span><span type="rt">そえち</span><span type="rp">）</span></span>のさま、つぶさにご覧に入れますところなれど、しょせん田舎生れの鯨ゆえ、江戸の繁華に胆をつぶし、ただもうぐったりしているばかり。それはまた改めてお越しの日にゆずり、ご座興までに鯨のひと声、鯨と言えば、あいよ、と答える。さあ太夫さん、しっかりお頼み申しますよ」<lb />
+　鯨の背中には、先刻のべたような服装の<seg type="ruby"><seg type="rb">縹緻</seg><seg type="rp">（</seg><seg type="rt">きりょう</seg><seg type="rp">）</seg></seg>よしの女口上つかいが桃割にさした簪のビラビラを振りながら、いい声で鯨の口上。<lb />
+「<seg type="ruby"><seg type="rb">東西</seg><seg type="rp">（</seg><seg type="rt">とうざい</seg><seg type="rp">）</seg></seg>、さて、このたびご覧に供しまする黒鯨。藍絵、錦絵、三枚つづき絵にて御覧のかたはありましょうが、生きた鯨が江戸に持ちこされたはこれが最初。当地は日本四十五州の<seg type="ruby"><seg type="rb">要所</seg><seg type="rp">（</seg><seg type="rt">かなめどころ</seg><seg type="rp">）</seg></seg>。将軍さまのお膝元とて、名だたる見世物も数あるなかに、これこそは真の<seg type="ruby"><seg type="rb">眼学問</seg><seg type="rp">（</seg><seg type="rt">めがくもん</seg><seg type="rp">）</seg></seg>。見ぬは恥、見るは一生の宝。孫子の代までの語り草、つくづくとお眼にとめごろうじませ。頭より尾までの長さは六間半と一尺二寸。胴のまわりは二十六尺六寸、重さは<seg type="ruby"><seg type="rb">測</seg><seg type="rp">（</seg><seg type="rt">はか</seg><seg type="rp">）</seg></seg>って千五百貫。これを<seg type="ruby"><seg type="rb">譬</seg><seg type="rp">（</seg><seg type="rt">たと</seg><seg type="rp">）</seg></seg>えに引きますなら、天王寺の釣鐘の三つ分にあたる。……さて、これより鯨の潮ふきをご覧に入れまするが、まずお聞きくださりませ、この鯨についての哀れな物語。心なき海鯨にもこの愛情。子の愛に惹かされるのは人間ばかりのことではない。<seg type="ruby"><seg type="rb">焼野</seg><seg type="rp">（</seg><seg type="rt">やけの</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">雉子</seg><seg type="rp">（</seg><seg type="rt">きぎす</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よる</seg><seg type="rp">）</seg></seg>の鶴、<seg type="ruby"><seg type="rb">錆田</seg><seg type="rp">（</seg><seg type="rt">さびた</seg><seg type="rp">）</seg></seg>の雀は子をかばう。いわんや、鯨は魚の長。愛情の深さはまたなかなか。……さて、皆々さま、これなるは、<seg type="ruby"><seg type="rb">突</seg><seg type="rp">（</seg><seg type="rt">つき</seg><seg type="rp">）</seg></seg>鯨の<seg type="ruby"><seg type="rb">寄</seg><seg type="rp">（</seg><seg type="rt">より</seg><seg type="rp">）</seg></seg>鯨の<seg type="ruby"><seg type="rb">流</seg><seg type="rp">（</seg><seg type="rt">ながれ</seg><seg type="rp">）</seg></seg>鯨のとそんな有りふれた鯨ではござりませぬ。奥州は仙台金華山港町というところに住む漁師の茂松という方、去る月の十二日に沖に漁にまいりましたところ、波のあいだになにやら<seg type="ruby"><seg type="rb">黝</seg><seg type="rp">（</seg><seg type="rt">くろ</seg><seg type="rp">）</seg></seg>いものが見えますゆえ、なんであろうと舷を寄せ、仔細にこれを眺めますれば、それは生れたばかりの鯨の子。珍らしきものよと拾いとり、さて、船を返そうといたしますれば、たちまち後のかたにあがる鯨の潮。母なる鯨が浮かびあがり、小さなる眼に涙を泛かべ、その子返してと追うて来る。茂松どのは哀れをもよおし、いったんは返そうと思いましたなれど、長々つづく浦の不漁。鯨一頭しとめれば<seg type="ruby"><seg type="rb">七浦七崎</seg><seg type="rp">（</seg><seg type="rt">ななうらななさき</seg><seg type="rp">）</seg></seg>にぎおうの譬え。心を鬼にして船をば急がせますならば、母なる鯨は舷に添い、己が身の危うさも忘れどこまでもどこまでもついて来る。そのうちに船は港に入り、よもやと思うて見かえるなれば母なる鯨はもう半狂乱。漁船とともに腹を砂浜にのしあげ、子を返して賜わらぬならば、いっそひと思いにこの身も殺してくれといわんばかり、折よく通りかかりました当小屋の六兵衛どの、哀れと思い買いとりて母子もろとも江戸へ連れかえり、かくはご高覧に供しまする次第。まずは右のため口上。東西。……いよいよこれより鯨の潮ふき、母鯨が<seg type="ruby"><seg type="rb">添乳</seg><seg type="rp">（</seg><seg type="rt">そえち</seg><seg type="rp">）</seg></seg>のさま、つぶさにご覧に入れますところなれど、しょせん田舎生れの鯨ゆえ、江戸の繁華に胆をつぶし、ただもうぐったりしているばかり。それはまた改めてお越しの日にゆずり、ご座興までに鯨のひと声、鯨と言えば、あいよ、と答える。さあ太夫さん、しっかりお頼み申しますよ」<lb />
 　と、扇子で鯨の頭を突きながら、<lb />
 「……鯨ちゃんや」<lb />
 　と、声をかけると、よっぽど遠いところで、あいよ、と答える。<lb />
@@ -169,15 +169,15 @@
 <lb />
 　　　鯨の昇天<lb />
 <lb />
-　深草六兵衛の小屋では、その夜は<span type="ruby"><span type="rb">当祝</span><span type="rp">（</span><span type="rt">あたりいわい</span><span type="rp">）</span></span>。<lb />
-　追出しをすましてから、<span type="ruby"><span type="rb">櫓主</span><span type="rp">（</span><span type="rt">やぐらぬし</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">若太夫</span><span type="rp">（</span><span type="rt">わかたゆう</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">帳元</span><span type="rp">（</span><span type="rt">ちょうもと</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">奥役</span><span type="rp">（</span><span type="rt">おくやく</span><span type="rp">）</span></span>、道具方一統から踊子、口上役、ぜんぶ櫓裏の二階へあつまって飲めよ唄えよの大騒ぎ、これが八ツ（午前二時）から始まった。<lb />
-　若太夫が祝儀をのべて一同手をしめ、櫓主の六兵衛が小屋方一同に酌をしてまわる。当祝の儀式がすむと、引きぬきになって<span type="ruby"><span type="rb">大兜</span><span type="rp">（</span><span type="rt">おおかぶと</span><span type="rp">）</span></span>。お手のものの三味線、太鼓、陣鉦を持ちだし、これに波音まで入って無闇な騒ぎになる。<lb />
+　深草六兵衛の小屋では、その夜は<seg type="ruby"><seg type="rb">当祝</seg><seg type="rp">（</seg><seg type="rt">あたりいわい</seg><seg type="rp">）</seg></seg>。<lb />
+　追出しをすましてから、<seg type="ruby"><seg type="rb">櫓主</seg><seg type="rp">（</seg><seg type="rt">やぐらぬし</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">若太夫</seg><seg type="rp">（</seg><seg type="rt">わかたゆう</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">帳元</seg><seg type="rp">（</seg><seg type="rt">ちょうもと</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">奥役</seg><seg type="rp">（</seg><seg type="rt">おくやく</seg><seg type="rp">）</seg></seg>、道具方一統から踊子、口上役、ぜんぶ櫓裏の二階へあつまって飲めよ唄えよの大騒ぎ、これが八ツ（午前二時）から始まった。<lb />
+　若太夫が祝儀をのべて一同手をしめ、櫓主の六兵衛が小屋方一同に酌をしてまわる。当祝の儀式がすむと、引きぬきになって<seg type="ruby"><seg type="rb">大兜</seg><seg type="rp">（</seg><seg type="rt">おおかぶと</seg><seg type="rp">）</seg></seg>。お手のものの三味線、太鼓、陣鉦を持ちだし、これに波音まで入って無闇な騒ぎになる。<lb />
 　七ツ近くに小屋師の勘八というのがよろける足で不浄へおりて行った。<lb />
 　桟敷の上をつたいながら、月あかりでぼんやり仄明るくなっている飾場のほうを眺めると鯨がしょんぼりと寝ころんでいる。<lb />
 「やア、寝っころがっていやがるな」<lb />
 　で、そのまま用を達してまた二階へあがった。<lb />
 　それから、ちょっと間をおいて、下座三味線をひくお秀という娘が不浄へおりて行った。このときもたしかに鯨はいたのである。それから、またちょっと間をおいて、こんどは木戸番のよだ六がおりて行った。だがこのときはもう鯨はなかった。<lb />
-　不浄からの帰途、桟敷の<span type="ruby"><span type="rb">嶺</span><span type="rp">（</span><span type="rt">みね</span><span type="rp">）</span></span>をつたいながらなにげなくヒョイと飾場のほうを見ると、どうしたというのか、鯨は影も形もない。白い砂があるばかり。<lb />
+　不浄からの帰途、桟敷の<seg type="ruby"><seg type="rb">嶺</seg><seg type="rp">（</seg><seg type="rt">みね</seg><seg type="rp">）</seg></seg>をつたいながらなにげなくヒョイと飾場のほうを見ると、どうしたというのか、鯨は影も形もない。白い砂があるばかり。<lb />
 　夢を見ているのだと思った。トロンとした眼をひっこすって息をつめて、つくづくともう一度見なおしたが、酔っているのでも夢を見ているのでもなかった。なんど見なおしても鯨はいないのである。<lb />
 　げッ、と驚いて、足もともしどろもどろ。息も絶えだえに丸太梯子をよろけあがって三階のあがり口へ首だけ出すと、<lb />
 「親方、たいへんだ。鯨が……」<lb />
@@ -186,9 +186,9 @@
 　鯨がいない。<lb />
 　一同、あッ、と言って腰をぬかした。<lb />
 　それにしても、誰がなんの必要があって鯨などを盗んで行ったのだろう。それはまアいいとして、秀の後でよだ六が不浄へおりたのは、その間、時間で言えば、ほんの十分。その短い間に六間半もある鯨をどんな方法で持って行ったのだろう。<lb />
-　小屋の<span type="ruby"><span type="rb">掘立柱</span><span type="rp">（</span><span type="rt">ほったてばしら</span><span type="rp">）</span></span>は三尺おき、それに竹矢来を組んで<span type="ruby"><span type="rb">蓆</span><span type="rp">（</span><span type="rt">むしろ</span><span type="rp">）</span></span>を張りつけてある。六兵衛が鯨を小屋に入れるとき、前側と左右だけ丸太を組み、後をあけておいてそこから鯨を運び入れてから本拵えにかかったくらいだから、鯨を持って行くとすれば、どうしたって小屋の一方を毀さなければならぬはず。<lb />
+　小屋の<seg type="ruby"><seg type="rb">掘立柱</seg><seg type="rp">（</seg><seg type="rt">ほったてばしら</seg><seg type="rp">）</seg></seg>は三尺おき、それに竹矢来を組んで<seg type="ruby"><seg type="rb">蓆</seg><seg type="rp">（</seg><seg type="rt">むしろ</seg><seg type="rp">）</seg></seg>を張りつけてある。六兵衛が鯨を小屋に入れるとき、前側と左右だけ丸太を組み、後をあけておいてそこから鯨を運び入れてから本拵えにかかったくらいだから、鯨を持って行くとすれば、どうしたって小屋の一方を毀さなければならぬはず。<lb />
 　ところで、掘立柱はおろか、蓆一枚やぶれていない。鯨が雲散霧消したと思うほかはないのである。<lb />
-　竜の昇天というのは聞くが、鯨の昇天というのはまだ聞かない。なんとも考えようもないことだが、六兵衛としては五百両なげだした大事なネタ。夜のあけるのを待って浅草橋の<span type="ruby"><span type="rb">詰番所</span><span type="rp">（</span><span type="rt">つめばんしょ</span><span type="rp">）</span></span>へ、恐れながらと訴え出た。<lb />
+　竜の昇天というのは聞くが、鯨の昇天というのはまだ聞かない。なんとも考えようもないことだが、六兵衛としては五百両なげだした大事なネタ。夜のあけるのを待って浅草橋の<seg type="ruby"><seg type="rb">詰番所</seg><seg type="rp">（</seg><seg type="rt">つめばんしょ</seg><seg type="rp">）</seg></seg>へ、恐れながらと訴え出た。<lb />
 　物が物だけに、詰番所の番衆では納まりがつかない。この月は北の月番で、番所からすぐ常盤橋へ訴えをまわす。<lb />
 　伏鐘重三郎を追いまわしてクタクタになったひょろ松が、ちょうど部屋へ引きあげて来たところ。<lb />
 「なんだって、両国の鯨が盗まれたって、馬鹿にしちゃいけねえ。手前、面を洗ったのか。番所を遊ばせに来ると承知しねえぞ」<lb />
@@ -209,26 +209,26 @@
 　奥役は、泣き出しそうな顔で、ピョコンとお辞儀をしてから、<lb />
 「ごらんの通りの始末なンで」<lb />
 「変ったことをする奴があればあるもの。鯨盗人なんてえのはまだ話にも聞いたことがねえ。いっそ、とぼけた話だぜ」<lb />
-「とぼけた話どころか、あっしどものほうは生き死にの境なンで。櫓主が五百両も出した<span type="ruby"><span type="rb">代物</span><span type="rp">（</span><span type="rt">しろもの</span><span type="rp">）</span></span>を、たった二日あけただけで跡形なしになってしまっちゃ、どうにもアガキがとれやしません」<lb />
-　ひょろ松は、ズイと<span type="ruby"><span type="rb">菰掛</span><span type="rp">（</span><span type="rt">こもかけ</span><span type="rp">）</span></span>のほうへ寄って行って、掘立柱の根方のところをひとわたり調べまわっていたが、また皆のところへ戻って来て、<lb />
+「とぼけた話どころか、あっしどものほうは生き死にの境なンで。櫓主が五百両も出した<seg type="ruby"><seg type="rb">代物</seg><seg type="rp">（</seg><seg type="rt">しろもの</seg><seg type="rp">）</seg></seg>を、たった二日あけただけで跡形なしになってしまっちゃ、どうにもアガキがとれやしません」<lb />
+　ひょろ松は、ズイと<seg type="ruby"><seg type="rb">菰掛</seg><seg type="rp">（</seg><seg type="rt">こもかけ</seg><seg type="rp">）</seg></seg>のほうへ寄って行って、掘立柱の根方のところをひとわたり調べまわっていたが、また皆のところへ戻って来て、<lb />
 「どこにも運び出したような跡がねえ。いってえ、鯨なんていうのは、最初っからいなかったんじゃねえのか。くだらねえ人騒がせをするときかねえぞ」<lb />
 　若太夫はおびえた声で、<lb />
 「どうして、まあ、そんなことが。現在こうして今日までに何千という人に……」<lb />
 　ひょろ松は、ジロリとその顔を見あげて、<lb />
-「さもなけりゃ<span type="ruby"><span type="rb">同腹</span><span type="rp">（</span><span type="rt">どうふく</span><span type="rp">）</span></span>だろう。手前らが櫓裏の二階にいて、これだけの物が運び出されるのに気がつかねえはずはなかろう。死んでいたのか眠っていたのか、それとも<span type="ruby"><span type="rb">霍乱</span><span type="rp">（</span><span type="rt">かくらん</span><span type="rp">）</span></span>でも起してひっくりかえってたのか。生きて眼をさましていたとあれば、それは理屈にあわなかろう、どうだ」<lb />
+「さもなけりゃ<seg type="ruby"><seg type="rb">同腹</seg><seg type="rp">（</seg><seg type="rt">どうふく</seg><seg type="rp">）</seg></seg>だろう。手前らが櫓裏の二階にいて、これだけの物が運び出されるのに気がつかねえはずはなかろう。死んでいたのか眠っていたのか、それとも<seg type="ruby"><seg type="rb">霍乱</seg><seg type="rp">（</seg><seg type="rt">かくらん</seg><seg type="rp">）</seg></seg>でも起してひっくりかえってたのか。生きて眼をさましていたとあれば、それは理屈にあわなかろう、どうだ」<lb />
 　後から六兵衛が、ささり出て来て、<lb />
 「そうおっしゃるのは、いかにもごもっとも。あっしらのおりましたところは飾場のちょうど真上。あれだけの物が運び出されるのがどうして気がつかなかったか、それが不思議でならねえンで。……よだ六というのが飛んで来てそう言いましたときも、誰ひとり本当にする者アない。馬鹿にしやがると思いながらおりて来て見て、真実、狐に化かされたような気がしました」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">落着</span><span type="rp">（</span><span type="rt">らくちゃく</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">落着</seg><seg type="rp">（</seg><seg type="rt">らくちゃく</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 　顎十郎は、ふンと鼻を鳴らして、<lb />
-「凧にのって金の<span type="ruby"><span type="rb">鯱</span><span type="rp">（</span><span type="rt">しゃち</span><span type="rp">）</span></span>をはがす頓狂なやつだっている。<span type="ruby"><span type="rb">要用</span><span type="rp">（</span><span type="rt">いりよう</span><span type="rp">）</span></span>だったら、鯨だってなんだって持って行くだろうさ。別に不思議はありゃアしない」<lb />
+「凧にのって金の<seg type="ruby"><seg type="rb">鯱</seg><seg type="rp">（</seg><seg type="rt">しゃち</seg><seg type="rp">）</seg></seg>をはがす頓狂なやつだっている。<seg type="ruby"><seg type="rb">要用</seg><seg type="rp">（</seg><seg type="rt">いりよう</seg><seg type="rp">）</seg></seg>だったら、鯨だってなんだって持って行くだろうさ。別に不思議はありゃアしない」<lb />
 　ひょろ松は、あっけに取られたような顔で、<lb />
 「要用って、あんな物を、……あんな馬鹿べらぼうなどえらい物を持って行って、いったい、どうする気なンでしょう」<lb />
 「おれならば鯨鍋にする」<lb />
-「からかっちゃいけません。<span type="ruby"><span type="rb">正</span><span type="rp">（</span><span type="rt">しょう</span><span type="rp">）</span></span>の話、あっしには、それが不思議でならねえンです」<lb />
+「からかっちゃいけません。<seg type="ruby"><seg type="rb">正</seg><seg type="rp">（</seg><seg type="rt">しょう</seg><seg type="rp">）</seg></seg>の話、あっしには、それが不思議でならねえンです」<lb />
 「それは不思議でもあろうさ。ひとの都合なんてえものは他人にゃわからねえ。なにか思いこんだことがあって、どうでも要用だったんだと思うよりほかはない。鯨鍋は冗談だが、誰にしたって始末に困る。そうあるべきはずのところを、なにか知ら、たいへんな手間をかけて持って行ったというからには、われわれの知らねえような退っ引きならねえ理由があったのにちがいない。そのへんのところをトックリと考えて見ると、なんのためにこんなことをしたかすぐわかるはずだ」<lb />
-「阿古十郎さん、じゃアあなたにはなにか、もうお<span type="ruby"><span type="rb">推察</span><span type="rp">（</span><span type="rt">みこみ</span><span type="rp">）</span></span>が……」<lb />
+「阿古十郎さん、じゃアあなたにはなにか、もうお<seg type="ruby"><seg type="rb">推察</seg><seg type="rp">（</seg><seg type="rt">みこみ</seg><seg type="rp">）</seg></seg>が……」<lb />
 　顎十郎は、首を振って、<lb />
 「そこまではまだおれにもわからない。しかし、鯨をどうして持って行ったか、そのほうだけははっきりとわかっている」<lb />
 　ひょろ松は、おどろいて、<lb />
@@ -240,7 +240,7 @@
 　ひょろ松は、手をうって、<lb />
 「なるほどね、これは恐れ入りました。が、ひとつわからないことがあります。最初に勘八というのがおりて来て、お次に下座三味線の秀という女がおりて来た。二人がおりて来たときには鯨はたしかに飾場にあったンです。ところで、その次によだ六がおりて来たときには、もう鯨は失くなっている。秀が櫓裏へあがって、よだ六がおりて来たそのあいだはわずか十分足らず。切るにしろ刻むにしろ、そんな短いあいだにあれだけの物を始末できるものでしょうか」<lb />
 「こいつア驚いた。勘八も秀も鯨にさわって見たとは言っていやしない。しかも、飾場からずっと遠い桟敷の嶺で月の光でぼんやりそれらしい物がいると見ただけのこと」<lb />
-　と言って、飾場の真上に渡した梁丸太にからみついている五つばかりの<span type="ruby"><span type="rb">輪索</span><span type="rp">（</span><span type="rt">わさ</span><span type="rp">）</span></span>のような物を指さし、<lb />
+　と言って、飾場の真上に渡した梁丸太にからみついている五つばかりの<seg type="ruby"><seg type="rb">輪索</seg><seg type="rp">（</seg><seg type="rt">わさ</seg><seg type="rp">）</seg></seg>のような物を指さし、<lb />
 「おい、ひょろ松、あれをなんだと思う。妙なところに妙な物があるじゃないか」<lb />
 「あれが、どうしたというンです」<lb />
 「わからなければ言って聞かせてやる。そいつは鯨を描いた大きな絵幕をあの梁からつるし、その後でゆっくりと鯨の始末をしていたのだ。あの輪索がなによりの証拠。つまり、勘八と秀は絵幕に描いた鯨をぼんやりした月あかりで見て、あそこに鯨がいると思っただけのことだ。どうです、ひょろ松先生、合点が行きましたか」<lb />
@@ -259,18 +259,18 @@
 　ひょろ松は、嚥みこめぬ顔で、<lb />
 「そんなら、頭を縛った綱だけ取りゃアそれですむことでしょう。そんな手間をかけて鯨を切りきざんで持って行かねえだってよさそうなもんだ……」<lb />
 「そこが、伏鐘組の尋常でねえところだ。下手な真似をすれば、伏鐘はきょうまで鯨の中にいたんだと見当がつき、それからそれと足がつく。こういう大掛りなことをして鯨が昇天でもしたように見せかければ、みなは不思議のほうに気を取られて、伏鐘のことまで考える暇はない。まず、ざっとこんなぐあいだ」<lb />
-「よくわかりましてございます。<span type="ruby"><span type="rb">心底</span><span type="rp">（</span><span type="rt">しんそこ</span><span type="rp">）</span></span>、恐れ入りましたが、もうひとつわからねえことがある。……昨日から今日にかけて江戸じゅうに手を配った大捕物。なかんずく、この両国界隈は辻々、露地の入口まで隙間もなく人をくばって蟻の這いでるセキもなかったはず。北へ行けば、両国橋か千歳橋。南へ行けば両国二丁目の辻番か中ノ橋の辻番所。この四つの関所で四方から袋のようにかこまれているンだから、三十人もの人間が、鯨の肉などひっかかえてウロウロと這いだしたら、たちまち網にひっかかるにきまっているンだが、そういう話も聞きませんでした。……すると、その三十人と伏鐘は、いったい、どこへ行ってしまったというンです、阿古十郎さん」<lb />
+「よくわかりましてございます。<seg type="ruby"><seg type="rb">心底</seg><seg type="rp">（</seg><seg type="rt">しんそこ</seg><seg type="rp">）</seg></seg>、恐れ入りましたが、もうひとつわからねえことがある。……昨日から今日にかけて江戸じゅうに手を配った大捕物。なかんずく、この両国界隈は辻々、露地の入口まで隙間もなく人をくばって蟻の這いでるセキもなかったはず。北へ行けば、両国橋か千歳橋。南へ行けば両国二丁目の辻番か中ノ橋の辻番所。この四つの関所で四方から袋のようにかこまれているンだから、三十人もの人間が、鯨の肉などひっかかえてウロウロと這いだしたら、たちまち網にひっかかるにきまっているンだが、そういう話も聞きませんでした。……すると、その三十人と伏鐘は、いったい、どこへ行ってしまったというンです、阿古十郎さん」<lb />
 「お前の感の悪さにもつくづく感服する。その四つの関所を通っていなかったら、四つの関所にかこまれた中にいるンだろう。そうとしか考えようがないじゃないか。その廓の中にある家数は十軒や二十軒ではきかなかろうが、三十人の人間とそれだけの肉をかくせるような構えの家はそう数あるもンじゃない。虱つぶしにして行ったら、二刻足らずで追いつめることが出来よう」<lb />
 <lb />
-　両国二丁目の<span type="ruby"><span type="rb">角屋敷</span><span type="rp">（</span><span type="rt">かどやしき</span><span type="rp">）</span></span>。<lb />
-　鈴木仁平という浪人者がやっている<span type="ruby"><span type="rb">大弓場</span><span type="rp">（</span><span type="rt">だいきゅうば</span><span type="rp">）</span></span>。<lb />
-　ひょろ松と顎十郎が、踏みこんで行くと、伏鐘重三郎は、<span type="ruby"><span type="rb">松坂木綿</span><span type="rp">（</span><span type="rt">まつざかもめん</span><span type="rp">）</span></span>の着物に<span type="ruby"><span type="rb">屑糸織</span><span type="rp">（</span><span type="rt">くずいとおり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">角帯</span><span type="rp">（</span><span type="rt">かくおび</span><span type="rp">）</span></span>という、ひどく実直な身なりで長火鉢に鯨鍋をかけ、妾のお沢と一杯<span type="ruby"><span type="rb">飲</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>っていた。<lb />
+　両国二丁目の<seg type="ruby"><seg type="rb">角屋敷</seg><seg type="rp">（</seg><seg type="rt">かどやしき</seg><seg type="rp">）</seg></seg>。<lb />
+　鈴木仁平という浪人者がやっている<seg type="ruby"><seg type="rb">大弓場</seg><seg type="rp">（</seg><seg type="rt">だいきゅうば</seg><seg type="rp">）</seg></seg>。<lb />
+　ひょろ松と顎十郎が、踏みこんで行くと、伏鐘重三郎は、<seg type="ruby"><seg type="rb">松坂木綿</seg><seg type="rp">（</seg><seg type="rt">まつざかもめん</seg><seg type="rp">）</seg></seg>の着物に<seg type="ruby"><seg type="rb">屑糸織</seg><seg type="rp">（</seg><seg type="rt">くずいとおり</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">角帯</seg><seg type="rp">（</seg><seg type="rt">かくおび</seg><seg type="rp">）</seg></seg>という、ひどく実直な身なりで長火鉢に鯨鍋をかけ、妾のお沢と一杯<seg type="ruby"><seg type="rb">飲</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>っていた。<lb />
 　お大名の若殿のような品のいい顔を振りあげて、苦笑いしながら、重三郎、<lb />
 「仙波さんにかかっちゃかなわねえ」<lb />
 　と、言った。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

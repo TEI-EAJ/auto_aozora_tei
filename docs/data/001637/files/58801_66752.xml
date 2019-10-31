@@ -36,7 +36,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 わたしは途中で一人の女とすれちがった<lb />
 女のかおは白粉と紅で白く赤く美しかった<lb />
 背が高くふっくら円かった<lb />
@@ -46,7 +46,7 @@
 それは大変に自慢そうで<lb />
 からだ全体が得意で一ぱいのようだった<lb />
 わたしは洗いざらしの浴衣を着て<lb />
-<span type="ruby"><span type="rb">青</span><span type="rp">（</span><span type="rt">あお</span><span type="rp">）</span></span>じけた顔をうつむけて通りすぎた<lb />
+<seg type="ruby"><seg type="rb">青</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>じけた顔をうつむけて通りすぎた<lb />
 <lb />
 わたしは顔をうつむけて通りすぎた<lb />
 そうしてわたしは振りかえった<lb />
@@ -69,6 +69,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

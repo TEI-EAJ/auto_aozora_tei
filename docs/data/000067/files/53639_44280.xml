@@ -32,9 +32,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 友だちはひどく歪んだ顏をしながら、<lb />
-<span type="ruby"><span type="rb">虱</span><span type="rp">（</span><span type="rt">しらみ</span><span type="rp">）</span></span>に向つて話をした。<lb />
+<seg type="ruby"><seg type="rb">虱</seg><seg type="rp">（</seg><seg type="rt">しらみ</seg><seg type="rp">）</seg></seg>に向つて話をした。<lb />
 『虱や、ご生だからたからないでおくれ、<lb />
 私にしつつこくしないでおくれ、<lb />
 おまへはほんとに不愉快だ』<lb />
@@ -43,6 +43,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

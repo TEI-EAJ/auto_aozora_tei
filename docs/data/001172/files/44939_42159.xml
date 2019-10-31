@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ワタシハ　ジヤガイモ、<lb />
 ジヤガイモニ　シルクハツトハ<lb />
 ドウデスカ。<lb />
@@ -49,7 +49,7 @@
 ドウデスカ。<lb />
 <lb />
 ワタシハ　ジヤガイモ、<lb />
-ジヤガイモニ　<span type="ruby"><span type="rb">十文</span><span type="rp">（</span><span type="rt">トモン</span><span type="rp">）</span></span>ノオクツハ<lb />
+ジヤガイモニ　<seg type="ruby"><seg type="rb">十文</seg><seg type="rp">（</seg><seg type="rt">トモン</seg><seg type="rp">）</seg></seg>ノオクツハ<lb />
 ドウデスカ。<lb />
 <lb />
 ワタシハ　ジヤガイモ、<lb />
@@ -58,6 +58,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

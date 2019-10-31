@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-12-24">作成</resp><resp /><note>
 <lb />
-底本：「新編中原中也全集　第二巻　詩<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />」角川書店<lb />
+底本：「新編中原中也全集　第二巻　詩<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />」角川書店<lb />
 　　　2001（平成13）年4月30日初版発行<lb />
 ※底本のテキストは、著者自筆稿によります。<lb />
 ※（）付きの表題は、作品の冒頭をとって、底本編集時に与えられたものです。<lb />
@@ -33,7 +33,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 風船玉の衝突<lb />
 立て膝<lb />
 　　立て膝<lb />
@@ -53,6 +53,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

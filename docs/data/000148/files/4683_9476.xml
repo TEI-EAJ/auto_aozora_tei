@@ -17,7 +17,7 @@
 ※初出として掲げたもの以外にも、各紙に掲載された。それらの間には、わずかな異同がある。<lb />
 ※底本のテキストは、「吾輩ハ猫デアル」の発行者の一人、服部国太郎宛葉書（天理大学附属天理図書館蔵）による。<lb />
 ※亀甲かっこ〔〕付きのルビは底本編集部によるもので、現代仮名遣いである。<lb />
-（例）知遇を<span type="ruby"><span type="rb">辱</span><span type="rp">（</span><span type="rt">〔かたじけの〕</span><span type="rp">）</span></span>ふするを得て<lb />
+（例）知遇を<seg type="ruby"><seg type="rb">辱</seg><seg type="rp">（</seg><seg type="rt">〔かたじけの〕</seg><seg type="rp">）</seg></seg>ふするを得て<lb />
 入力：砂場清隆<lb />
 校正：小林繁雄<lb />
 <date when="2003-03-31">2003年3月31日</date>作成<lb />
@@ -38,14 +38,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　吾輩は猫である。名前はまだない。主人は教師である。迷亭は美学者、寒月は理学者、いづれも当代の変人、太平の逸民である。吾輩は幸にして此諸先生の知遇を<span type="ruby"><span type="rb">辱</span><span type="rp">（</span><span type="rt">〔かたじけの〕</span><span type="rp">）</span></span>ふするを得てこゝに其平生を読者に紹介するの光栄を有するのである。……吾輩は又猫相応の敬意を以て金田令夫人の鼻の高さを読者に報道し得るを一生の面目と思ふのである。……<lb />
+　吾輩は猫である。名前はまだない。主人は教師である。迷亭は美学者、寒月は理学者、いづれも当代の変人、太平の逸民である。吾輩は幸にして此諸先生の知遇を<seg type="ruby"><seg type="rb">辱</seg><seg type="rp">（</seg><seg type="rt">〔かたじけの〕</seg><seg type="rp">）</seg></seg>ふするを得てこゝに其平生を読者に紹介するの光栄を有するのである。……吾輩は又猫相応の敬意を以て金田令夫人の鼻の高さを読者に報道し得るを一生の面目と思ふのである。……<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

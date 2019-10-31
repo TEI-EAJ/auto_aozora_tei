@@ -32,11 +32,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 金のみ佛<lb />
 金の足<lb />
 一列流涕なしたまふ<lb />
-光る<span type="ruby"><span type="rb">白日</span><span type="rp">（</span><span type="rt">まひる</span><span type="rp">）</span></span>のうなべりに<lb />
+光る<seg type="ruby"><seg type="rb">白日</seg><seg type="rp">（</seg><seg type="rt">まひる</seg><seg type="rp">）</seg></seg>のうなべりに<lb />
 とをのおゆびを血はながれ<lb />
 いたみてほそき瀧ながれ<lb />
 したたるものは血のしづく<lb />
@@ -48,6 +48,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

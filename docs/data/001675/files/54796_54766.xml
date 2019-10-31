@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 なんのために<lb />
 ともかく　生きている<lb />
 ともかく<lb />
@@ -42,7 +42,7 @@
 それを一生考え　考えぬいてもはじまらん<lb />
 考えれば　考えるほど理屈が多くなりこまる<lb />
 <lb />
-こまる前に　次のことばを知ると<span type="ruby"><span type="rb">得</span><span type="rp">（</span><span type="rt">とく</span><span type="rp">）</span></span>だ<lb />
+こまる前に　次のことばを知ると<seg type="ruby"><seg type="rb">得</seg><seg type="rp">（</seg><seg type="rt">とく</seg><seg type="rp">）</seg></seg>だ<lb />
 歓喜して生きよ　ヴィヴェ・ジョアイユウ<lb />
 <lb />
 理屈を言う前に　ヴィヴェ・ジョアイユウ<lb />
@@ -86,6 +86,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

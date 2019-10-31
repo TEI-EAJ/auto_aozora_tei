@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2008-06-07">作成</resp><resp /><note>
 <lb />
-底本：「一人三人全集1<span rend="notes">［＃「1」はローマ数字、1-13-21］</span>時代捕物釘抜藤吉捕物覚書」河出書房新社
+底本：「一人三人全集1<seg rend="notes" rendition="span">［＃「1」はローマ数字、1-13-21］</seg>時代捕物釘抜藤吉捕物覚書」河出書房新社
 <lb />
 　　　1970（昭和45）年1月15日初版発行<lb />
 入力：川山隆<lb />
@@ -32,83 +32,83 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
 　　　　　　一<lb />
 <lb />
 「ちぇっ、朝っぱらから勘弁ならねえ。」<lb />
-　読みさしの<span type="ruby"><span type="rb">黄表紙</span><span type="rp">（</span><span type="rt">きびょうし</span><span type="rp">）</span></span>を伏せると、勘弁勘次は突っかかるようにこう言って、開けっ放した海老床の<span type="ruby"><span type="rb">腰高</span><span type="rp">（</span><span type="rt">こしだか</span><span type="rp">）</span></span>越しに<span type="ruby"><span type="rb">戸外</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>を覗いた。<lb />
-「御覧なせえ、親分。勘弁ならねえ<span type="ruby"><span type="rb">癩病人</span><span type="rp">（</span><span type="rt">かってえぼう</span><span type="rp">）</span></span>が通りやすぜ――<span type="ruby"><span type="rb">縁起</span><span type="rp">（</span><span type="rt">えんぎ</span><span type="rp">）</span></span>でもねえや、ぺっ。」<lb />
-「<span type="ruby"><span type="rb">金桂鳥</span><span type="rp">（</span><span type="rt">きんけいちょう</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">唐</span><span type="rp">（</span><span type="rt">から</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">鶏</span><span type="rp">（</span><span type="rt">にわとり</span><span type="rp">）</span></span>――と。」<lb />
-　町火消の頭、<span rend="SESAME_DOT" rendition="strong">に</span>組の常吉を相手に、先刻から<span type="ruby"><span type="rb">歩切</span><span type="rp">（</span><span type="rt">ふぎ</span><span type="rp">）</span></span>れを<span type="ruby"><span type="rb">白眼</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>んでいた釘抜藤吉は、勘次のこの言葉に、こんなことを言いながら、<span rend="SESAME_DOT" rendition="strong">つ</span>と盤から眼を離して何心なく<span type="ruby"><span type="rb">表通</span><span type="rp">（</span><span type="rt">おもて</span><span type="rp">）</span></span>の方を見遣った。<lb />
-　<span type="ruby"><span type="rb">法被姿</span><span type="rp">（</span><span type="rt">はっぴすがた</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">梵天帯</span><span type="rp">（</span><span type="rt">ぼんてんおび</span><span type="rp">）</span></span>、お約束の木刀こそなけれ、一眼で知れる渡り部屋の中間奉公、俗に言う<span type="ruby"><span type="rb">折助</span><span type="rp">（</span><span type="rt">おりすけ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">年齢</span><span type="rp">（</span><span type="rt">とし</span><span type="rp">）</span></span>の頃なら二十七、八という腕節の強そうなのが、斜に差しかけた<span type="ruby"><span type="rb">破</span><span type="rp">（</span><span type="rt">やぶ</span><span type="rp">）</span></span>れ<span type="ruby"><span type="rb">奴傘</span><span type="rp">（</span><span type="rt">やっこ</span><span type="rp">）</span></span>で煙る<span type="ruby"><span type="rb">霖雨</span><span type="rp">（</span><span type="rt">きりさめ</span><span type="rp">）</span></span>を除けながら今しもこの髪床の前を通るところ。その雨傘の柄を握った手の甲、<span type="ruby"><span type="rb">青花</span><span type="rp">（</span><span type="rt">はないろ</span><span type="rp">）</span></span>の袖口から隙いて見える二の腕、さては頬被りで隠した首筋から顔一面に赤黒い小粒な<span type="ruby"><span type="rb">腫物</span><span type="rp">（</span><span type="rt">はれもの</span><span type="rp">）</span></span>が所嫌わず吹き出ていて、眼も開けないほど、さながら腐りかけた<span type="ruby"><span type="rb">樽柿</span><span type="rp">（</span><span type="rt">たるがき</span><span type="rp">）</span></span>のよう。<lb />
-「あの身体で、」と藤吉は勘次を顧みる。「よくもまあ武家屋敷が勤まるこったのう。いずれ明石町か<span type="ruby"><span type="rb">潮留橋</span><span type="rp">（</span><span type="rt">しおどめばし</span><span type="rp">）</span></span>あたりの部屋にゃ相違あるめえが――え、おう、勘。」<lb />
-　が、真黒な細い脚を<span type="ruby"><span type="rb">上</span><span type="rp">（</span><span type="rt">あが</span><span type="rp">）</span></span>り<span type="ruby"><span type="rb">框</span><span type="rp">（</span><span type="rt">がまち</span><span type="rp">）</span></span>へ投げ出したまま、勘弁勘次はもう「笠間右京<span type="ruby"><span type="rb">暗夜白狐退治事</span><span type="rp">（</span><span type="rt">あんやにびゃっこたいじること</span><span type="rp">）</span></span>」の<span type="ruby"><span type="rb">件</span><span type="rp">（</span><span type="rt">くだ</span><span type="rp">）</span></span>りを夢中になって読み耽っていて、藤吉親分の声も耳にははいらなかった。<lb />
-「ああまで<span type="ruby"><span type="rb">瘡</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>を吹くまでにゃあ二月三月は経ったろうに、渡りたあ言いながらあの様でどうして――？　はて、こいつあちょっと合点が行かねえ。」<lb />
-　雨足の白い軒下をじいっと<span type="ruby"><span type="rb">凝視</span><span type="rp">（</span><span type="rt">みつ</span><span type="rp">）</span></span>めて、藤吉は持駒で頤を撫でた。<lb />
-「合点がいかねえか知らねえが、」と、盤の向う側から頭の常吉が口を出した。「先刻から親分の番でがす。<span rend="SESAME_DOT" rendition="strong">あっし</span>はここんとこへ銀は千鳥としゃれやしたよ。」<lb />
-「うん。」藤吉はわれに返ったように、「下手の考え休みに到る、か。」と、ぱちりと置く<span type="ruby"><span type="rb">竜王</span><span type="rp">（</span><span type="rt">りゅうおう</span><span type="rp">）</span></span>の一手。<lb />
-　降りみ降らずみの<span type="ruby"><span type="rb">梅雨</span><span type="rp">（</span><span type="rt">つゆ</span><span type="rp">）</span></span>上りのこと。弘化はこの年きりの六月の<span type="ruby"><span type="rb">下旬</span><span type="rp">（</span><span type="rt">すえ</span><span type="rp">）</span></span>だった。江戸八丁堀を合点小路へ切れようとする角の海老床に、今日も朝から陣取って、相手変れど主変らず、いまにもざあっと来そうな空模様を時折大通りの小間物問屋金座屋の物乾しの上に三尺ほどの角に眺めながら、遠くは周の武帝近くは<span type="ruby"><span type="rb">宗桂</span><span type="rp">（</span><span type="rt">そうけい</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">手遊</span><span type="rp">（</span><span type="rt">てすさび</span><span type="rp">）</span></span>を気取っているのは、その釘抜のように曲った脚と、噛んだが最後釘抜のように離れないところから誰言うとなく釘抜藤吉と異名を取ったそのころ名うての合点長屋の目明し親分、<span type="ruby"><span type="rb">藍弁慶</span><span type="rp">（</span><span type="rt">あいべんけい</span><span type="rp">）</span></span>の長着に<span type="ruby"><span type="rb">焦茶絞</span><span type="rp">（</span><span type="rt">こげちゃしぼ</span><span type="rp">）</span></span>りの三尺という<span type="ruby"><span type="rb">服装</span><span type="rp">（</span><span type="rt">こしらえ</span><span type="rp">）</span></span>もその人らしく<span rend="SESAME_DOT" rendition="strong">いなせ</span>だった。乾児の岡っ引二人のうち弟分の葬式彦兵衛は芝の方を廻るとだけ言い置いて、いつものとおり<span type="ruby"><span type="rb">鉄砲笊</span><span type="rp">（</span><span type="rt">てっぽうざる</span><span type="rp">）</span></span>を肩にして夜明けごろから道楽の紙屑拾いに出かけて行った。で、炊事の番に当った勘弁勘次が、<span type="ruby"><span type="rb">昼飯</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">菜</span><span type="rp">（</span><span type="rt">さい</span><span type="rp">）</span></span>に豆腐でも買おうとこうやって路地口まで豆腐屋を掴まえに出張って来たものの、よく読めないくせに眼のない<span type="ruby"><span type="rb">瓦本</span><span type="rp">（</span><span type="rt">かわらぼん</span><span type="rp">）</span></span>で<span rend="SESAME_DOT" rendition="strong">つい</span>髪結床へ腰が据わり、先刻から三人も幸町を流して行く呼声にさえ気のつかない様子。もう四つにも間があるまい、背戸口の一本松の影が、あれ、はい寄るように障子の桟へ届いている――。<lb />
+　読みさしの<seg type="ruby"><seg type="rb">黄表紙</seg><seg type="rp">（</seg><seg type="rt">きびょうし</seg><seg type="rp">）</seg></seg>を伏せると、勘弁勘次は突っかかるようにこう言って、開けっ放した海老床の<seg type="ruby"><seg type="rb">腰高</seg><seg type="rp">（</seg><seg type="rt">こしだか</seg><seg type="rp">）</seg></seg>越しに<seg type="ruby"><seg type="rb">戸外</seg><seg type="rp">（</seg><seg type="rt">そと</seg><seg type="rp">）</seg></seg>を覗いた。<lb />
+「御覧なせえ、親分。勘弁ならねえ<seg type="ruby"><seg type="rb">癩病人</seg><seg type="rp">（</seg><seg type="rt">かってえぼう</seg><seg type="rp">）</seg></seg>が通りやすぜ――<seg type="ruby"><seg type="rb">縁起</seg><seg type="rp">（</seg><seg type="rt">えんぎ</seg><seg type="rp">）</seg></seg>でもねえや、ぺっ。」<lb />
+「<seg type="ruby"><seg type="rb">金桂鳥</seg><seg type="rp">（</seg><seg type="rt">きんけいちょう</seg><seg type="rp">）</seg></seg>は<seg type="ruby"><seg type="rb">唐</seg><seg type="rp">（</seg><seg type="rt">から</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">鶏</seg><seg type="rp">（</seg><seg type="rt">にわとり</seg><seg type="rp">）</seg></seg>――と。」<lb />
+　町火消の頭、<seg rend="SESAME_DOT" rendition="strong">に</seg>組の常吉を相手に、先刻から<seg type="ruby"><seg type="rb">歩切</seg><seg type="rp">（</seg><seg type="rt">ふぎ</seg><seg type="rp">）</seg></seg>れを<seg type="ruby"><seg type="rb">白眼</seg><seg type="rp">（</seg><seg type="rt">にら</seg><seg type="rp">）</seg></seg>んでいた釘抜藤吉は、勘次のこの言葉に、こんなことを言いながら、<seg rend="SESAME_DOT" rendition="strong">つ</seg>と盤から眼を離して何心なく<seg type="ruby"><seg type="rb">表通</seg><seg type="rp">（</seg><seg type="rt">おもて</seg><seg type="rp">）</seg></seg>の方を見遣った。<lb />
+　<seg type="ruby"><seg type="rb">法被姿</seg><seg type="rp">（</seg><seg type="rt">はっぴすがた</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">梵天帯</seg><seg type="rp">（</seg><seg type="rt">ぼんてんおび</seg><seg type="rp">）</seg></seg>、お約束の木刀こそなけれ、一眼で知れる渡り部屋の中間奉公、俗に言う<seg type="ruby"><seg type="rb">折助</seg><seg type="rp">（</seg><seg type="rt">おりすけ</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">年齢</seg><seg type="rp">（</seg><seg type="rt">とし</seg><seg type="rp">）</seg></seg>の頃なら二十七、八という腕節の強そうなのが、斜に差しかけた<seg type="ruby"><seg type="rb">破</seg><seg type="rp">（</seg><seg type="rt">やぶ</seg><seg type="rp">）</seg></seg>れ<seg type="ruby"><seg type="rb">奴傘</seg><seg type="rp">（</seg><seg type="rt">やっこ</seg><seg type="rp">）</seg></seg>で煙る<seg type="ruby"><seg type="rb">霖雨</seg><seg type="rp">（</seg><seg type="rt">きりさめ</seg><seg type="rp">）</seg></seg>を除けながら今しもこの髪床の前を通るところ。その雨傘の柄を握った手の甲、<seg type="ruby"><seg type="rb">青花</seg><seg type="rp">（</seg><seg type="rt">はないろ</seg><seg type="rp">）</seg></seg>の袖口から隙いて見える二の腕、さては頬被りで隠した首筋から顔一面に赤黒い小粒な<seg type="ruby"><seg type="rb">腫物</seg><seg type="rp">（</seg><seg type="rt">はれもの</seg><seg type="rp">）</seg></seg>が所嫌わず吹き出ていて、眼も開けないほど、さながら腐りかけた<seg type="ruby"><seg type="rb">樽柿</seg><seg type="rp">（</seg><seg type="rt">たるがき</seg><seg type="rp">）</seg></seg>のよう。<lb />
+「あの身体で、」と藤吉は勘次を顧みる。「よくもまあ武家屋敷が勤まるこったのう。いずれ明石町か<seg type="ruby"><seg type="rb">潮留橋</seg><seg type="rp">（</seg><seg type="rt">しおどめばし</seg><seg type="rp">）</seg></seg>あたりの部屋にゃ相違あるめえが――え、おう、勘。」<lb />
+　が、真黒な細い脚を<seg type="ruby"><seg type="rb">上</seg><seg type="rp">（</seg><seg type="rt">あが</seg><seg type="rp">）</seg></seg>り<seg type="ruby"><seg type="rb">框</seg><seg type="rp">（</seg><seg type="rt">がまち</seg><seg type="rp">）</seg></seg>へ投げ出したまま、勘弁勘次はもう「笠間右京<seg type="ruby"><seg type="rb">暗夜白狐退治事</seg><seg type="rp">（</seg><seg type="rt">あんやにびゃっこたいじること</seg><seg type="rp">）</seg></seg>」の<seg type="ruby"><seg type="rb">件</seg><seg type="rp">（</seg><seg type="rt">くだ</seg><seg type="rp">）</seg></seg>りを夢中になって読み耽っていて、藤吉親分の声も耳にははいらなかった。<lb />
+「ああまで<seg type="ruby"><seg type="rb">瘡</seg><seg type="rp">（</seg><seg type="rt">かさ</seg><seg type="rp">）</seg></seg>を吹くまでにゃあ二月三月は経ったろうに、渡りたあ言いながらあの様でどうして――？　はて、こいつあちょっと合点が行かねえ。」<lb />
+　雨足の白い軒下をじいっと<seg type="ruby"><seg type="rb">凝視</seg><seg type="rp">（</seg><seg type="rt">みつ</seg><seg type="rp">）</seg></seg>めて、藤吉は持駒で頤を撫でた。<lb />
+「合点がいかねえか知らねえが、」と、盤の向う側から頭の常吉が口を出した。「先刻から親分の番でがす。<seg rend="SESAME_DOT" rendition="strong">あっし</seg>はここんとこへ銀は千鳥としゃれやしたよ。」<lb />
+「うん。」藤吉はわれに返ったように、「下手の考え休みに到る、か。」と、ぱちりと置く<seg type="ruby"><seg type="rb">竜王</seg><seg type="rp">（</seg><seg type="rt">りゅうおう</seg><seg type="rp">）</seg></seg>の一手。<lb />
+　降りみ降らずみの<seg type="ruby"><seg type="rb">梅雨</seg><seg type="rp">（</seg><seg type="rt">つゆ</seg><seg type="rp">）</seg></seg>上りのこと。弘化はこの年きりの六月の<seg type="ruby"><seg type="rb">下旬</seg><seg type="rp">（</seg><seg type="rt">すえ</seg><seg type="rp">）</seg></seg>だった。江戸八丁堀を合点小路へ切れようとする角の海老床に、今日も朝から陣取って、相手変れど主変らず、いまにもざあっと来そうな空模様を時折大通りの小間物問屋金座屋の物乾しの上に三尺ほどの角に眺めながら、遠くは周の武帝近くは<seg type="ruby"><seg type="rb">宗桂</seg><seg type="rp">（</seg><seg type="rt">そうけい</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">手遊</seg><seg type="rp">（</seg><seg type="rt">てすさび</seg><seg type="rp">）</seg></seg>を気取っているのは、その釘抜のように曲った脚と、噛んだが最後釘抜のように離れないところから誰言うとなく釘抜藤吉と異名を取ったそのころ名うての合点長屋の目明し親分、<seg type="ruby"><seg type="rb">藍弁慶</seg><seg type="rp">（</seg><seg type="rt">あいべんけい</seg><seg type="rp">）</seg></seg>の長着に<seg type="ruby"><seg type="rb">焦茶絞</seg><seg type="rp">（</seg><seg type="rt">こげちゃしぼ</seg><seg type="rp">）</seg></seg>りの三尺という<seg type="ruby"><seg type="rb">服装</seg><seg type="rp">（</seg><seg type="rt">こしらえ</seg><seg type="rp">）</seg></seg>もその人らしく<seg rend="SESAME_DOT" rendition="strong">いなせ</seg>だった。乾児の岡っ引二人のうち弟分の葬式彦兵衛は芝の方を廻るとだけ言い置いて、いつものとおり<seg type="ruby"><seg type="rb">鉄砲笊</seg><seg type="rp">（</seg><seg type="rt">てっぽうざる</seg><seg type="rp">）</seg></seg>を肩にして夜明けごろから道楽の紙屑拾いに出かけて行った。で、炊事の番に当った勘弁勘次が、<seg type="ruby"><seg type="rb">昼飯</seg><seg type="rp">（</seg><seg type="rt">ひる</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">菜</seg><seg type="rp">（</seg><seg type="rt">さい</seg><seg type="rp">）</seg></seg>に豆腐でも買おうとこうやって路地口まで豆腐屋を掴まえに出張って来たものの、よく読めないくせに眼のない<seg type="ruby"><seg type="rb">瓦本</seg><seg type="rp">（</seg><seg type="rt">かわらぼん</seg><seg type="rp">）</seg></seg>で<seg rend="SESAME_DOT" rendition="strong">つい</seg>髪結床へ腰が据わり、先刻から三人も幸町を流して行く呼声にさえ気のつかない様子。もう四つにも間があるまい、背戸口の一本松の影が、あれ、はい寄るように障子の桟へ届いている――。<lb />
 「親分。」<lb />
-　盲目縞を<span rend="SESAME_DOT" rendition="strong">しっとり</span>濡らした葬式彦が、いつの間にか猫のように<span type="ruby"><span type="rb">梳場</span><span type="rp">（</span><span type="rt">すきば</span><span type="rp">）</span></span>の土間に立っていた。<lb />
+　盲目縞を<seg rend="SESAME_DOT" rendition="strong">しっとり</seg>濡らした葬式彦が、いつの間にか猫のように<seg type="ruby"><seg type="rb">梳場</seg><seg type="rp">（</seg><seg type="rt">すきば</seg><seg type="rp">）</seg></seg>の土間に立っていた。<lb />
 「彦か――やに早く里心がついたのう。」<lb />
-　と藤吉は事もなげに<span type="ruby"><span type="rb">流眄</span><span type="rp">（</span><span type="rt">ながしめ</span><span type="rp">）</span></span>に振り返って、<lb />
+　と藤吉は事もなげに<seg type="ruby"><seg type="rb">流眄</seg><seg type="rp">（</seg><seg type="rt">ながしめ</seg><seg type="rp">）</seg></seg>に振り返って、<lb />
 「手前、何だな、何か拾って来やがったな。」<lb />
 「あい、聞込みでがす。」<lb />
-　がばと起き上った勘次の眼が<span rend="SESAME_DOT" rendition="strong">ぎらり</span>と光った。<lb />
+　がばと起き上った勘次の眼が<seg rend="SESAME_DOT" rendition="strong">ぎらり</seg>と光った。<lb />
 「違えねえ」と藤吉は笑った。「さもなくて空籠で巣帰りする彦じゃねえからのう、はっはっは。」<lb />
 「親分。」<lb />
 「なんでえ？」<lb />
 「お耳を。」<lb />
 「大仰な。」<lb />
 「いえ、ちょっくら耳打ちでがす。」<lb />
-　腰の<span type="ruby"><span type="rb">豆絞</span><span type="rp">（</span><span type="rt">まめしぼ</span><span type="rp">）</span></span>りを脱って顔を拭くと、彦兵衛は藤吉の傍へいざり寄った。<lb />
-「常さん、ま、御免なせえよ。」と、将棋の相手の方へ気軽に手を振った藤吉は、「こうっ、雨の降る日にゃあ、こちとら気が短えんだ。彦、<span rend="SESAME_DOT" rendition="strong">さっさ</span>と吐き出しねえ。」<lb />
-　右手を屏風にして囲った<span type="ruby"><span type="rb">口許</span><span type="rp">（</span><span type="rt">くちもと</span><span type="rp">）</span></span>を、藤吉の左鬢下へ持って行くと、後は彦兵衛の<span type="ruby"><span type="rb">咽喉仏</span><span type="rp">（</span><span type="rt">のどぼとけ</span><span type="rp">）</span></span>が暫時上下に動くばかり――。苗売りの声が舟松町を湊町の方へ近付いてくるのを、勘次は聞くともなしに<span type="ruby"><span type="rb">放心</span><span type="rp">（</span><span type="rt">ぼんやり</span><span type="rp">）</span></span>聞いていた。<lb />
+　腰の<seg type="ruby"><seg type="rb">豆絞</seg><seg type="rp">（</seg><seg type="rt">まめしぼ</seg><seg type="rp">）</seg></seg>りを脱って顔を拭くと、彦兵衛は藤吉の傍へいざり寄った。<lb />
+「常さん、ま、御免なせえよ。」と、将棋の相手の方へ気軽に手を振った藤吉は、「こうっ、雨の降る日にゃあ、こちとら気が短えんだ。彦、<seg rend="SESAME_DOT" rendition="strong">さっさ</seg>と吐き出しねえ。」<lb />
+　右手を屏風にして囲った<seg type="ruby"><seg type="rb">口許</seg><seg type="rp">（</seg><seg type="rt">くちもと</seg><seg type="rp">）</seg></seg>を、藤吉の左鬢下へ持って行くと、後は彦兵衛の<seg type="ruby"><seg type="rb">咽喉仏</seg><seg type="rp">（</seg><seg type="rt">のどぼとけ</seg><seg type="rp">）</seg></seg>が暫時上下に動くばかり――。苗売りの声が舟松町を湊町の方へ近付いてくるのを、勘次は聞くともなしに<seg type="ruby"><seg type="rb">放心</seg><seg type="rp">（</seg><seg type="rt">ぼんやり</seg><seg type="rp">）</seg></seg>聞いていた。<lb />
 　と、藤吉が突然大声を出した。<lb />
 「繩張りゃあ誰だ？」<lb />
 「提灯屋でげす。」<lb />
 　彦兵衛も口を離した。<lb />
-「提灯屋なら<span type="ruby"><span type="rb">亥之吉</span><span type="rp">（</span><span type="rt">いのきち</span><span type="rp">）</span></span>だろうが、亥之公なら<span type="ruby"><span type="rb">片門前</span><span type="rp">（</span><span type="rt">かたもんぜん</span><span type="rp">）</span></span>から神明金杉、<span rend="SESAME_DOT" rendition="strong">ずっ</span>と飛びましては<span type="ruby"><span type="rb">土器町</span><span type="rp">（</span><span type="rt">かわらけちょう</span><span type="rp">）</span></span>、ほい、こいつあいよいよ勘弁ならねえ。」<lb />
+「提灯屋なら<seg type="ruby"><seg type="rb">亥之吉</seg><seg type="rp">（</seg><seg type="rt">いのきち</seg><seg type="rp">）</seg></seg>だろうが、亥之公なら<seg type="ruby"><seg type="rb">片門前</seg><seg type="rp">（</seg><seg type="rt">かたもんぜん</seg><seg type="rp">）</seg></seg>から神明金杉、<seg rend="SESAME_DOT" rendition="strong">ずっ</seg>と飛びましては<seg type="ruby"><seg type="rb">土器町</seg><seg type="rp">（</seg><seg type="rt">かわらけちょう</seg><seg type="rp">）</seg></seg>、ほい、こいつあいよいよ勘弁ならねえ。」<lb />
 　と訳も知らずにはしゃぎ始める勘次の差出口を、<lb />
-「野郎、<span rend="SESAME_DOT" rendition="strong">すっ</span>込んでろい！」と一喝しておいて、藤吉は片膝立てて彦兵衛へ向き直った。<lb />
+「野郎、<seg rend="SESAME_DOT" rendition="strong">すっ</seg>込んでろい！」と一喝しておいて、藤吉は片膝立てて彦兵衛へ向き直った。<lb />
 「土地から言やあ提灯屋の持場だ。旦那衆のお声もねえのに渡りをつけずにゃ飛び込めめえ。」<lb />
-「ところが親分。」と彦兵衛は<span rend="SESAME_DOT" rendition="strong">ごくり</span>と一つ唾を飲み込んで、「その亥之公の<span type="ruby"><span type="rb">願筋</span><span type="rp">（</span><span type="rt">がんすじ</span><span type="rp">）</span></span>で<span rend="SESAME_DOT" rendition="strong">あっし</span>がこうしてお迎えに――。」<lb />
+「ところが親分。」と彦兵衛は<seg rend="SESAME_DOT" rendition="strong">ごくり</seg>と一つ唾を飲み込んで、「その亥之公の<seg type="ruby"><seg type="rb">願筋</seg><seg type="rp">（</seg><seg type="rt">がんすじ</seg><seg type="rp">）</seg></seg>で<seg rend="SESAME_DOT" rendition="strong">あっし</seg>がこうしてお迎えに――。」<lb />
 「来たってえのか？」<lb />
 「あい。」<lb />
 「仏は？」<lb />
-「<span type="ruby"><span type="rb">新</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>も新、<span type="ruby"><span type="rb">四時</span><span type="rp">（</span><span type="rt">よとき</span><span type="rp">）</span></span>ばかりの――。」<lb />
+「<seg type="ruby"><seg type="rb">新</seg><seg type="rp">（</seg><seg type="rt">あら</seg><seg type="rp">）</seg></seg>も新、<seg type="ruby"><seg type="rb">四時</seg><seg type="rp">（</seg><seg type="rt">よとき</seg><seg type="rp">）</seg></seg>ばかりの――。」<lb />
 「うん。現場は？」<lb />
 「提灯屋の手付きで固めてごぜえます。」<lb />
-「よし。」と釘抜藤吉が立ち上った。五尺そこそこの身体に土佐犬のような<span type="ruby"><span type="rb">剽悍</span><span type="rp">（</span><span type="rt">ひょうかん</span><span type="rp">）</span></span>さが溢れて、<span type="ruby"><span type="rb">鳩尾</span><span type="rp">（</span><span type="rt">みぞおち</span><span type="rp">）</span></span>の釘抜の刺青が<span type="ruby"><span type="rb">袷</span><span type="rp">（</span><span type="rt">あわせ</span><span type="rp">）</span></span>の襟下から松葉のようにちらと見える。<lb />
+「よし。」と釘抜藤吉が立ち上った。五尺そこそこの身体に土佐犬のような<seg type="ruby"><seg type="rb">剽悍</seg><seg type="rp">（</seg><seg type="rt">ひょうかん</seg><seg type="rp">）</seg></seg>さが溢れて、<seg type="ruby"><seg type="rb">鳩尾</seg><seg type="rp">（</seg><seg type="rt">みぞおち</seg><seg type="rp">）</seg></seg>の釘抜の刺青が<seg type="ruby"><seg type="rb">袷</seg><seg type="rp">（</seg><seg type="rt">あわせ</seg><seg type="rp">）</seg></seg>の襟下から松葉のようにちらと見える。<lb />
 「常さん、お聞きのとおり、この雨降りに引っ張り出しに来やがったよ。ま、勝負はお預けとしときやしょう――やい、奴」と軽く足許の勘次を蹴って、「一っ走りして長屋から傘を持ってこい。」<lb />
 <lb />
 　　　　　　二<lb />
 <lb />
-「<span type="ruby"><span type="rb">酒</span><span type="rp">（</span><span type="rt">ささ</span><span type="rp">）</span></span>がこうしてついそれなりに、<span type="ruby"><span type="rb">雑魚寝</span><span type="rp">（</span><span type="rt">ざこね</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">枕</span><span type="rp">（</span><span type="rt">まくら</span><span type="rp">）</span></span><span type="ruby"><span type="rb">仮初</span><span type="rp">（</span><span type="rt">かりそめ</span><span type="rp">）</span></span>の、おや好かねえ<span type="ruby"><span type="rb">暁</span><span type="rp">（</span><span type="rt">あけ</span><span type="rp">）</span></span>の鐘――。」<lb />
-　神田の伯母からふんだくった一枚看板と、この<span type="ruby"><span type="rb">舞台</span><span type="rp">（</span><span type="rt">いた</span><span type="rp">）</span></span>についた出語りとで、勘次は先に立って三十間堀を拾って行った。<lb />
-　乾すつもりで拡げてある家並裏の蛇の目に、絹糸のような春小雨の煙るともなく注いでいるのを、<span type="ruby"><span type="rb">眇</span><span type="rp">（</span><span type="rt">すがめ</span><span type="rp">）</span></span>の気味のある眼で見て通りながら、少し遅れて藤吉は途々彦兵衛の話に耳を傾けた。青蛙が一匹、そそくさと河岸の柳の根へ隠れる。奥平大膳殿屋敷の近くから、脇坂淡路守の土塀に沿うて、いつしか三人は芝口を<span type="ruby"><span type="rb">源助町</span><span type="rp">（</span><span type="rt">げんすけちょう</span><span type="rp">）</span></span>の本街道へ出ていた。<lb />
+「<seg type="ruby"><seg type="rb">酒</seg><seg type="rp">（</seg><seg type="rt">ささ</seg><seg type="rp">）</seg></seg>がこうしてついそれなりに、<seg type="ruby"><seg type="rb">雑魚寝</seg><seg type="rp">（</seg><seg type="rt">ざこね</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">枕</seg><seg type="rp">（</seg><seg type="rt">まくら</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">仮初</seg><seg type="rp">（</seg><seg type="rt">かりそめ</seg><seg type="rp">）</seg></seg>の、おや好かねえ<seg type="ruby"><seg type="rb">暁</seg><seg type="rp">（</seg><seg type="rt">あけ</seg><seg type="rp">）</seg></seg>の鐘――。」<lb />
+　神田の伯母からふんだくった一枚看板と、この<seg type="ruby"><seg type="rb">舞台</seg><seg type="rp">（</seg><seg type="rt">いた</seg><seg type="rp">）</seg></seg>についた出語りとで、勘次は先に立って三十間堀を拾って行った。<lb />
+　乾すつもりで拡げてある家並裏の蛇の目に、絹糸のような春小雨の煙るともなく注いでいるのを、<seg type="ruby"><seg type="rb">眇</seg><seg type="rp">（</seg><seg type="rt">すがめ</seg><seg type="rp">）</seg></seg>の気味のある眼で見て通りながら、少し遅れて藤吉は途々彦兵衛の話に耳を傾けた。青蛙が一匹、そそくさと河岸の柳の根へ隠れる。奥平大膳殿屋敷の近くから、脇坂淡路守の土塀に沿うて、いつしか三人は芝口を<seg type="ruby"><seg type="rb">源助町</seg><seg type="rp">（</seg><seg type="rt">げんすけちょう</seg><seg type="rp">）</seg></seg>の本街道へ出ていた。<lb />
 　芝へ入って宇田川町、昨夜の八つ半ごろから降り続けた小雨も上りかけて、正午近い陽の目が千切れ雲の隙間を洩れる。と、この時、急足に背後から来て藤吉彦兵衛の傍を駈け抜けて行った折助一人――手に小さな風呂敷包みを持っている。<lb />
 「勘。」<lb />
 　藤吉が呼んだ。<lb />
 「なんですい？」<lb />
 　振り向く勘次、その折助とぴったり顔が会った。それを、男は逃げるように掻い潜って行く。<lb />
 「見たか？」と藤吉。<lb />
-「見やしたよ。」と勘次は眉を<span type="ruby"><span type="rb">顰</span><span type="rp">（</span><span type="rt">しか</span><span type="rp">）</span></span>めて、「<span type="ruby"><span type="rb">紛</span><span type="rp">（</span><span type="rt">まぎ</span><span type="rp">）</span></span>れもねえ先刻の<span type="ruby"><span type="rb">癩病人</span><span type="rp">（</span><span type="rt">かってえぼう</span><span type="rp">）</span></span>だ。ぺっ、勘弁ならねえや。」<lb />
+「見やしたよ。」と勘次は眉を<seg type="ruby"><seg type="rb">顰</seg><seg type="rp">（</seg><seg type="rt">しか</seg><seg type="rp">）</seg></seg>めて、「<seg type="ruby"><seg type="rb">紛</seg><seg type="rp">（</seg><seg type="rt">まぎ</seg><seg type="rp">）</seg></seg>れもねえ先刻の<seg type="ruby"><seg type="rb">癩病人</seg><seg type="rp">（</seg><seg type="rt">かってえぼう</seg><seg type="rp">）</seg></seg>だ。ぺっ、勘弁ならねえや。」<lb />
 　すると、藤吉が静かに言った。<lb />
-「面をよく<span type="ruby"><span type="rb">記憶</span><span type="rp">（</span><span type="rt">おぼ</span><span type="rp">）</span></span>えとけよ、勘。」<lb />
+「面をよく<seg type="ruby"><seg type="rb">記憶</seg><seg type="rp">（</seg><seg type="rt">おぼ</seg><seg type="rp">）</seg></seg>えとけよ、勘。」<lb />
 「あの野郎は何かの係合いですけえ？」<lb />
 　彦兵衛が訊いた。<lb />
-「何さ。為体の知れねえ<span type="ruby"><span type="rb">瘡</span><span type="rp">（</span><span type="rt">かさ</span><span type="rp">）</span></span>っかきだからのう、<span type="ruby"><span type="rb">容貌</span><span type="rp">（</span><span type="rt">そつぼう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">見識</span><span type="rp">（</span><span type="rt">みし</span><span type="rp">）</span></span>っとく分にゃ怪我はあるめえってことよ。うん、それよりゃあ彦、手前の種ってえのを蒸返し承わろうじゃねえか。」<lb />
-　久し振りに<span type="ruby"><span type="rb">狸穴町</span><span type="rp">（</span><span type="rt">まみあなちょう</span><span type="rp">）</span></span>の方を拾ってみようと思い立った葬式彦兵衛が、愛玩の屑籠を背にして金杉三丁目を戸田<span type="ruby"><span type="rb">采女</span><span type="rp">（</span><span type="rt">うねめ</span><span type="rp">）</span></span>の中屋敷の横へかかったのは、八丁堀を日の出に発った故か、まだ<span type="ruby"><span type="rb">竈</span><span type="rp">（</span><span type="rt">かまど</span><span type="rp">）</span></span>の煙が薄紫に漂っている卯の刻の六つ半であった。寺の多い淋しい裏町、白い霧を寒々と吸いながら、<span type="ruby"><span type="rb">御霊廟</span><span type="rp">（</span><span type="rt">おたまや</span><span type="rp">）</span></span>の森を右手に望んで彦兵衛は急ぐともなく足を運んでいたが、ふとけたたましい烏の羽音とそれに挑むような野犬の遠吠えとでわれにもなく立竦んだのだった。<span type="ruby"><span type="rb">随全寺</span><span type="rp">（</span><span type="rt">ずいぜんじ</span><span type="rp">）</span></span>という法華宗の<span type="ruby"><span type="rb">檀那寺</span><span type="rp">（</span><span type="rt">だんなでら</span><span type="rp">）</span></span>の古石垣が、河原のように崩れたままになっている草叢のあたりに、見廻すまでもなく、おびただしい烏の群が一<span type="ruby"><span type="rb">集</span><span type="rp">（</span><span type="rt">かた</span><span type="rp">）</span></span>まりになって降りて宿無犬が十匹余りも遠巻きに吠え立てている。犬が進むと烏が飛び立ち、烏が下りれば犬が退く。その争いを彦兵衛は往来からしばらく眺めていた。御霊廟を始め、杉林が多いから、烏はこの辺では珍しくないが、その騒ぎようの一方ならぬのと、犬の声の物凄さが、岡っ引彦兵衛の頭へまず不審の種を播いたのである。<lb />
-　手頃の<span type="ruby"><span type="rb">礫</span><span type="rp">（</span><span type="rt">こいし</span><span type="rp">）</span></span>を拾い集めた彦兵衛は、露草を踏んで近づきながら石を抛って烏と犬とを一緒に追い、随全寺の石垣下へ検分に行った。<lb />
-　そこに、夜来の雨に濡れて、女の屍骸が仰向けに倒れていた。が、彦兵衛は眉一つ動かさなかった。溝の傍に<span type="ruby"><span type="rb">雪駄</span><span type="rp">（</span><span type="rt">せった</span><span type="rp">）</span></span>の切端しを見つけた時のように、手にした竹箸で女の身体を突ついてみた後、彼は籠を下ろして犬のようにしばらくそこら中を嗅ぎ廻った。そして屍骸の足許の草の根に、何やら小さい光ったものを見出すと、それを大事に腹掛の<span type="ruby"><span type="rb">丼</span><span type="rp">（</span><span type="rt">どんぶり</span><span type="rp">）</span></span>の底へ納い込んでから、ちょうど横町を通りかかった煮豆屋を頼んで片門前町の目明し提灯屋亥之吉方へ注進させ、自分は半纏の裾を捲って屍骸の横へしゃがんだまま、改めて<span rend="SESAME_DOT" rendition="strong">まじまじ</span>と女とその周囲の様子へ注意を向けた。<lb />
-　咽喉を<span type="ruby"><span type="rb">刳</span><span type="rp">（</span><span type="rt">えぐ</span><span type="rp">）</span></span>られて女は死んでいる。自害でないことは傷口が内部へ向って切り込んでいるのと、現場に何一つ刃物の落ちていないこととで、彦兵衛にも一眼でわかった。もし自刃ならば、切物を<span type="ruby"><span type="rb">外部</span><span type="rp">（</span><span type="rt">そと</span><span type="rp">）</span></span>へ向けて横差しに通しておいて前へ掻くのが普通だから、自然、痕が外部へ開いていなければならない。それに、強靱な頸部の筋をこうも見事に切って離すには、第二者としての男の力を必要とすることをも彦兵衛はただちに見て取った。いうまでもなく女は何者かの手にかかって落命したものである。とはいえ、辺りにさまで<span type="ruby"><span type="rb">格闘</span><span type="rp">（</span><span type="rt">あらそい</span><span type="rp">）</span></span>の跡が見えないのが、不思議と言えばたしかに不思議であった。しかし、朝方かけて降りしきったあの雨でそこらに多少の模様がえが行われたとも考えられる。現に、咽喉の切口なぞ真白い肉が貝のように<span type="ruby"><span type="rb">露出</span><span type="rp">（</span><span type="rt">あらわ</span><span type="rp">）</span></span>れているばかりで、血は綺麗に洗い流されている。<lb />
-　二十歳代を半ば過ぎた女盛りの<span rend="SESAME_DOT" rendition="strong">むっちり</span>した身体を、黒襟かけた三<span type="ruby"><span type="rb">条</span><span type="rp">（</span><span type="rt">すじ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">縦縞</span><span type="rp">（</span><span type="rt">たてじま</span><span type="rp">）</span></span>の濃いお<span type="ruby"><span type="rb">納戸</span><span type="rp">（</span><span type="rt">なんど</span><span type="rp">）</span></span>の糸織に包んで、帯は白茶の博多と<span type="ruby"><span type="rb">黒繻子</span><span type="rp">（</span><span type="rt">くろじゅす</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">昼夜</span><span type="rp">（</span><span type="rt">ちゅうや</span><span type="rp">）</span></span>、伊達に結んだ<span type="ruby"><span type="rb">銀杏返</span><span type="rp">（</span><span type="rt">いちょうがえ</span><span type="rp">）</span></span>しの根も切れて雨に叩かれた黒髪が顔の半面を覆い、その二、三本を口尻へ含んで<span type="ruby"><span type="rb">遺恨</span><span type="rp">（</span><span type="rt">うらみ</span><span type="rp">）</span></span>と共に<span type="ruby"><span type="rb">永久</span><span type="rp">（</span><span type="rt">とわ</span><span type="rp">）</span></span>に噛み締めた糸切歯――どちらかといえば小股の切れ上ったまんざら<span rend="SESAME_DOT" rendition="strong">ずぶ</span>の堅気でもなさそうなこの女の死顔、はだけた胸に三カ所、右の手に二つの大小の<span type="ruby"><span type="rb">金瘡</span><span type="rp">（</span><span type="rt">きんそう</span><span type="rp">）</span></span>、黒土まみれに固くなっていてもまだなんとなく男の眼を惹く白い足首と<span type="ruby"><span type="rb">赤絹</span><span type="rp">（</span><span type="rt">もみ</span><span type="rp">）</span></span>から覗いている大腿のあたり、それらの上に音もなく雨のそぼ降るのを、彦兵衛は眠そうに凝視めていた。<lb />
+「何さ。為体の知れねえ<seg type="ruby"><seg type="rb">瘡</seg><seg type="rp">（</seg><seg type="rt">かさ</seg><seg type="rp">）</seg></seg>っかきだからのう、<seg type="ruby"><seg type="rb">容貌</seg><seg type="rp">（</seg><seg type="rt">そつぼう</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">見識</seg><seg type="rp">（</seg><seg type="rt">みし</seg><seg type="rp">）</seg></seg>っとく分にゃ怪我はあるめえってことよ。うん、それよりゃあ彦、手前の種ってえのを蒸返し承わろうじゃねえか。」<lb />
+　久し振りに<seg type="ruby"><seg type="rb">狸穴町</seg><seg type="rp">（</seg><seg type="rt">まみあなちょう</seg><seg type="rp">）</seg></seg>の方を拾ってみようと思い立った葬式彦兵衛が、愛玩の屑籠を背にして金杉三丁目を戸田<seg type="ruby"><seg type="rb">采女</seg><seg type="rp">（</seg><seg type="rt">うねめ</seg><seg type="rp">）</seg></seg>の中屋敷の横へかかったのは、八丁堀を日の出に発った故か、まだ<seg type="ruby"><seg type="rb">竈</seg><seg type="rp">（</seg><seg type="rt">かまど</seg><seg type="rp">）</seg></seg>の煙が薄紫に漂っている卯の刻の六つ半であった。寺の多い淋しい裏町、白い霧を寒々と吸いながら、<seg type="ruby"><seg type="rb">御霊廟</seg><seg type="rp">（</seg><seg type="rt">おたまや</seg><seg type="rp">）</seg></seg>の森を右手に望んで彦兵衛は急ぐともなく足を運んでいたが、ふとけたたましい烏の羽音とそれに挑むような野犬の遠吠えとでわれにもなく立竦んだのだった。<seg type="ruby"><seg type="rb">随全寺</seg><seg type="rp">（</seg><seg type="rt">ずいぜんじ</seg><seg type="rp">）</seg></seg>という法華宗の<seg type="ruby"><seg type="rb">檀那寺</seg><seg type="rp">（</seg><seg type="rt">だんなでら</seg><seg type="rp">）</seg></seg>の古石垣が、河原のように崩れたままになっている草叢のあたりに、見廻すまでもなく、おびただしい烏の群が一<seg type="ruby"><seg type="rb">集</seg><seg type="rp">（</seg><seg type="rt">かた</seg><seg type="rp">）</seg></seg>まりになって降りて宿無犬が十匹余りも遠巻きに吠え立てている。犬が進むと烏が飛び立ち、烏が下りれば犬が退く。その争いを彦兵衛は往来からしばらく眺めていた。御霊廟を始め、杉林が多いから、烏はこの辺では珍しくないが、その騒ぎようの一方ならぬのと、犬の声の物凄さが、岡っ引彦兵衛の頭へまず不審の種を播いたのである。<lb />
+　手頃の<seg type="ruby"><seg type="rb">礫</seg><seg type="rp">（</seg><seg type="rt">こいし</seg><seg type="rp">）</seg></seg>を拾い集めた彦兵衛は、露草を踏んで近づきながら石を抛って烏と犬とを一緒に追い、随全寺の石垣下へ検分に行った。<lb />
+　そこに、夜来の雨に濡れて、女の屍骸が仰向けに倒れていた。が、彦兵衛は眉一つ動かさなかった。溝の傍に<seg type="ruby"><seg type="rb">雪駄</seg><seg type="rp">（</seg><seg type="rt">せった</seg><seg type="rp">）</seg></seg>の切端しを見つけた時のように、手にした竹箸で女の身体を突ついてみた後、彼は籠を下ろして犬のようにしばらくそこら中を嗅ぎ廻った。そして屍骸の足許の草の根に、何やら小さい光ったものを見出すと、それを大事に腹掛の<seg type="ruby"><seg type="rb">丼</seg><seg type="rp">（</seg><seg type="rt">どんぶり</seg><seg type="rp">）</seg></seg>の底へ納い込んでから、ちょうど横町を通りかかった煮豆屋を頼んで片門前町の目明し提灯屋亥之吉方へ注進させ、自分は半纏の裾を捲って屍骸の横へしゃがんだまま、改めて<seg rend="SESAME_DOT" rendition="strong">まじまじ</seg>と女とその周囲の様子へ注意を向けた。<lb />
+　咽喉を<seg type="ruby"><seg type="rb">刳</seg><seg type="rp">（</seg><seg type="rt">えぐ</seg><seg type="rp">）</seg></seg>られて女は死んでいる。自害でないことは傷口が内部へ向って切り込んでいるのと、現場に何一つ刃物の落ちていないこととで、彦兵衛にも一眼でわかった。もし自刃ならば、切物を<seg type="ruby"><seg type="rb">外部</seg><seg type="rp">（</seg><seg type="rt">そと</seg><seg type="rp">）</seg></seg>へ向けて横差しに通しておいて前へ掻くのが普通だから、自然、痕が外部へ開いていなければならない。それに、強靱な頸部の筋をこうも見事に切って離すには、第二者としての男の力を必要とすることをも彦兵衛はただちに見て取った。いうまでもなく女は何者かの手にかかって落命したものである。とはいえ、辺りにさまで<seg type="ruby"><seg type="rb">格闘</seg><seg type="rp">（</seg><seg type="rt">あらそい</seg><seg type="rp">）</seg></seg>の跡が見えないのが、不思議と言えばたしかに不思議であった。しかし、朝方かけて降りしきったあの雨でそこらに多少の模様がえが行われたとも考えられる。現に、咽喉の切口なぞ真白い肉が貝のように<seg type="ruby"><seg type="rb">露出</seg><seg type="rp">（</seg><seg type="rt">あらわ</seg><seg type="rp">）</seg></seg>れているばかりで、血は綺麗に洗い流されている。<lb />
+　二十歳代を半ば過ぎた女盛りの<seg rend="SESAME_DOT" rendition="strong">むっちり</seg>した身体を、黒襟かけた三<seg type="ruby"><seg type="rb">条</seg><seg type="rp">（</seg><seg type="rt">すじ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">縦縞</seg><seg type="rp">（</seg><seg type="rt">たてじま</seg><seg type="rp">）</seg></seg>の濃いお<seg type="ruby"><seg type="rb">納戸</seg><seg type="rp">（</seg><seg type="rt">なんど</seg><seg type="rp">）</seg></seg>の糸織に包んで、帯は白茶の博多と<seg type="ruby"><seg type="rb">黒繻子</seg><seg type="rp">（</seg><seg type="rt">くろじゅす</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">昼夜</seg><seg type="rp">（</seg><seg type="rt">ちゅうや</seg><seg type="rp">）</seg></seg>、伊達に結んだ<seg type="ruby"><seg type="rb">銀杏返</seg><seg type="rp">（</seg><seg type="rt">いちょうがえ</seg><seg type="rp">）</seg></seg>しの根も切れて雨に叩かれた黒髪が顔の半面を覆い、その二、三本を口尻へ含んで<seg type="ruby"><seg type="rb">遺恨</seg><seg type="rp">（</seg><seg type="rt">うらみ</seg><seg type="rp">）</seg></seg>と共に<seg type="ruby"><seg type="rb">永久</seg><seg type="rp">（</seg><seg type="rt">とわ</seg><seg type="rp">）</seg></seg>に噛み締めた糸切歯――どちらかといえば小股の切れ上ったまんざら<seg rend="SESAME_DOT" rendition="strong">ずぶ</seg>の堅気でもなさそうなこの女の死顔、はだけた胸に三カ所、右の手に二つの大小の<seg type="ruby"><seg type="rb">金瘡</seg><seg type="rp">（</seg><seg type="rt">きんそう</seg><seg type="rp">）</seg></seg>、黒土まみれに固くなっていてもまだなんとなく男の眼を惹く白い足首と<seg type="ruby"><seg type="rb">赤絹</seg><seg type="rp">（</seg><seg type="rt">もみ</seg><seg type="rp">）</seg></seg>から覗いている大腿のあたり、それらの上に音もなく雨のそぼ降るのを、彦兵衛は眠そうに凝視めていた。<lb />
 　空地に一人据わっているこの見すぼらしい男の姿を、通行人の二人三人が気味悪そうに立って眺め出すころ、煮豆屋から急を聞いた提灯屋の亥之吉は、若い者を一人つれて息せき切って駈けつけて来た。番太郎小屋の六尺棒、月番の町役人もそれぞれ報知によって出張したが、亥之吉始め一同の意見は、要するに葬式彦兵衛の観察範囲を出なかった。何よりも、殺された女の身元不明という点で立会人たちは第一に見込みの立て方に迷ったのである。<lb />
-　詰めかけ始めた弥次馬連を草原内へ入れまいと、<span type="ruby"><span type="rb">仕事師</span><span type="rp">（</span><span type="rt">きおい</span><span type="rp">）</span></span>が小者を率いて頑張っていた。その中には見知りの者もあるかもしれないから警戒を弛めて顔見せをしてはという話も出たが、事件はとても自分の手に負えないと見た提灯屋は、一つには発見者たる彦兵衛の顔を立てようと、来合せた同心組下の旦那へもひととおり謀った後ただちに八丁堀親分の手を借りることにし、早速彦兵衛を口説いて合点長屋へ迎えの使者に立ってもらったのだった。<lb />
+　詰めかけ始めた弥次馬連を草原内へ入れまいと、<seg type="ruby"><seg type="rb">仕事師</seg><seg type="rp">（</seg><seg type="rt">きおい</seg><seg type="rp">）</seg></seg>が小者を率いて頑張っていた。その中には見知りの者もあるかもしれないから警戒を弛めて顔見せをしてはという話も出たが、事件はとても自分の手に負えないと見た提灯屋は、一つには発見者たる彦兵衛の顔を立てようと、来合せた同心組下の旦那へもひととおり謀った後ただちに八丁堀親分の手を借りることにし、早速彦兵衛を口説いて合点長屋へ迎えの使者に立ってもらったのだった。<lb />
 <lb />
 　　　　　　三<lb />
 <lb />
@@ -118,12 +118,12 @@
 　こう言って挨拶した時、彼の短い身体はすでに二つに折れて屍骸の上へ屈んでいた。致命傷ともいうべき咽喉の刀痕へ人差指を突き込んでみて、その血の粘りを草の葉で拭うと、今度は指を開いて傷口の具合いを計った。次に、石のように堅い死人の両の拳を勘次に開かせて何の手がかりも握っていないことを確めた。そして、最後に、ちょっと女の下半身を捲って犯されていないらしいと見届けた藤吉は、<lb />
 「ふうん。」<lb />
 　と唸って腰を延した。眼を閉じて腕組みしている。<lb />
-「遠い所をお願え申しまして、なんともはや――。」提灯屋が口を入れた。が、藤吉は返事どころか<span type="ruby"><span type="rb">身動</span><span type="rp">（</span><span type="rt">みじろ</span><span type="rp">）</span></span>ぎ一つしない。<lb />
-「<span type="ruby"><span type="rb">此女</span><span type="rp">（</span><span type="rt">これ</span><span type="rp">）</span></span>の人別がわかりやしてな。」と提灯屋は言葉を継ぐ。「へえ、この先の笠森稲荷の境内に一昨日水茶屋を出したばかりのお新てえ女で。――どこの<span type="ruby"><span type="rb">貸家</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>かあ知りませんが、身寄りも葉寄りもねえ――。」<lb />
+「遠い所をお願え申しまして、なんともはや――。」提灯屋が口を入れた。が、藤吉は返事どころか<seg type="ruby"><seg type="rb">身動</seg><seg type="rp">（</seg><seg type="rt">みじろ</seg><seg type="rp">）</seg></seg>ぎ一つしない。<lb />
+「<seg type="ruby"><seg type="rb">此女</seg><seg type="rp">（</seg><seg type="rt">これ</seg><seg type="rp">）</seg></seg>の人別がわかりやしてな。」と提灯屋は言葉を継ぐ。「へえ、この先の笠森稲荷の境内に一昨日水茶屋を出したばかりのお新てえ女で。――どこの<seg type="ruby"><seg type="rb">貸家</seg><seg type="rp">（</seg><seg type="rt">たな</seg><seg type="rp">）</seg></seg>かあ知りませんが、身寄りも葉寄りもねえ――。」<lb />
 　と言いかけたが、大声で背後の若者へ、<lb />
 「なあ、おい、それに違えねえなあ。」<lb />
-「俺あちょっと前を通っただけだが、どうもあの姐さんに<span rend="SESAME_DOT" rendition="strong">そっくり</span>だ。」<lb />
-　若者は<span type="ruby"><span type="rb">仏頂面</span><span type="rp">（</span><span type="rt">ぶっちょうづら</span><span type="rp">）</span></span>で答えた。藤吉は化石したように突っ立ったきり――人々はその顔を見守る。<lb />
+「俺あちょっと前を通っただけだが、どうもあの姐さんに<seg rend="SESAME_DOT" rendition="strong">そっくり</seg>だ。」<lb />
+　若者は<seg type="ruby"><seg type="rb">仏頂面</seg><seg type="rp">（</seg><seg type="rt">ぶっちょうづら</seg><seg type="rp">）</seg></seg>で答えた。藤吉は化石したように突っ立ったきり――人々はその顔を見守る。<lb />
 「色恋沙汰ってところがまず動かねえ目安でげしょう？」<lb />
 　と提灯屋が再び沈黙を破った。<lb />
 「――――」<lb />
@@ -131,100 +131,100 @@
 「――――」<lb />
 「物盗りじゃありますめえの？」<lb />
 「――――」<lb />
-　口を<span rend="SESAME_DOT" rendition="strong">へ</span>の字に結んで、藤吉は眼を開こうともしない。提灯屋も黙り込んで終った。と、うっとりと眼を開けた藤吉は、忘れ物をした子供のように屍体の周りを見廻していたが、<lb />
+　口を<seg rend="SESAME_DOT" rendition="strong">へ</seg>の字に結んで、藤吉は眼を開こうともしない。提灯屋も黙り込んで終った。と、うっとりと眼を開けた藤吉は、忘れ物をした子供のように屍体の周りを見廻していたが、<lb />
 「履物は？　仏の履物は？」<lb />
 「へえ、ここにごぜえます。」<lb />
-　町役人手付の一人がうろたえて取り出して見せる黒塗の<span type="ruby"><span type="rb">日和</span><span type="rp">（</span><span type="rt">ひより</span><span type="rp">）</span></span>へ、藤吉は<span rend="SESAME_DOT" rendition="strong">ちら</span>と眼をやっただけで、<lb />
+　町役人手付の一人がうろたえて取り出して見せる黒塗の<seg type="ruby"><seg type="rb">日和</seg><seg type="rp">（</seg><seg type="rt">ひより</seg><seg type="rp">）</seg></seg>へ、藤吉は<seg rend="SESAME_DOT" rendition="strong">ちら</seg>と眼をやっただけで、<lb />
 「雨あ夜中の八つ半から降りやしたのう？」<lb />
 「へえ。」誰かが応ずる。<lb />
 「勘。」と、藤吉がどなった。「手を貸せ。」<lb />
-　勘次が屍骸を動かすのを待ちかねたように、女の背中と腰の真下へ手を差し入れて土を撫でた藤吉は、すぐその手で足許の大地を擦って湿りを較べているらしかったが、<span rend="SESAME_DOT" rendition="strong">つ</span>と顔を上げた時には、すでに、八方睨みといわれたその眼に持って生れた<span type="ruby"><span type="rb">豁達</span><span type="rp">（</span><span type="rt">かったつ</span><span type="rp">）</span></span>さが返っていた。<lb />
+　勘次が屍骸を動かすのを待ちかねたように、女の背中と腰の真下へ手を差し入れて土を撫でた藤吉は、すぐその手で足許の大地を擦って湿りを較べているらしかったが、<seg rend="SESAME_DOT" rendition="strong">つ</seg>と顔を上げた時には、すでに、八方睨みといわれたその眼に持って生れた<seg type="ruby"><seg type="rb">豁達</seg><seg type="rp">（</seg><seg type="rt">かったつ</seg><seg type="rp">）</seg></seg>さが返っていた。<lb />
 「小物は小物だが匕首じゃねえぞ。」誰にともなく彼は呻いた。<lb />
 「出刃でもねえ。菜切りだ、菜切庖丁だ。人を殺すに菜葉切りのほかに刃物のねえような、こう彦、手前に訊くが、精進場はどこだ、え、こう？」<lb />
 「へへへ。」彦兵衛は笑った。「寺さあね。」<lb />
 「図星だ。」<lb />
-　藤吉も微笑んだ。一同は驚いた。そして、次の瞬間には、申し合せたように石垣を越えて随全寺の瓦屋根へ視線を送った。烏の群が空低く鳶に追われているその下に、石垣の端近く、羽毛のような葉をした<span type="ruby"><span type="rb">喬木</span><span type="rp">（</span><span type="rt">きょうぼく</span><span type="rp">）</span></span>に黄色い小さな花が雨に打たれて今を盛りと咲き誇っているのが、射るように釘抜藤吉の眼に映った。<lb />
-　説明を求めるように人々が<span rend="SESAME_DOT" rendition="strong">ぐるり</span>と彼の身辺に輪を画いた後までも、藤吉の眼は凍りついたようにその黄色い花から離れなかった。と、やがて、低い独語が、<lb />
+　藤吉も微笑んだ。一同は驚いた。そして、次の瞬間には、申し合せたように石垣を越えて随全寺の瓦屋根へ視線を送った。烏の群が空低く鳶に追われているその下に、石垣の端近く、羽毛のような葉をした<seg type="ruby"><seg type="rb">喬木</seg><seg type="rp">（</seg><seg type="rt">きょうぼく</seg><seg type="rp">）</seg></seg>に黄色い小さな花が雨に打たれて今を盛りと咲き誇っているのが、射るように釘抜藤吉の眼に映った。<lb />
+　説明を求めるように人々が<seg rend="SESAME_DOT" rendition="strong">ぐるり</seg>と彼の身辺に輪を画いた後までも、藤吉の眼は凍りついたようにその黄色い花から離れなかった。と、やがて、低い独語が、<lb />
 「いやさ――寺でもねえ。」<lb />
-　と藤吉の唇を衝いて出たが、にわかに<span type="ruby"><span type="rb">溌剌</span><span type="rp">（</span><span type="rt">はつらつ</span><span type="rp">）</span></span>として傍らの彦兵衛の肘を掴むと、<lb />
-「のう、彦、大の男がこの界隈から一時あまりで<span type="ruby"><span type="rb">往復</span><span type="rp">（</span><span type="rt">いきけえ</span><span type="rp">）</span></span>りのできる丑寅の方と言やあ、ま、どの辺だろうのう？」<lb />
+　と藤吉の唇を衝いて出たが、にわかに<seg type="ruby"><seg type="rb">溌剌</seg><seg type="rp">（</seg><seg type="rt">はつらつ</seg><seg type="rp">）</seg></seg>として傍らの彦兵衛の肘を掴むと、<lb />
+「のう、彦、大の男がこの界隈から一時あまりで<seg type="ruby"><seg type="rb">往復</seg><seg type="rp">（</seg><seg type="rt">いきけえ</seg><seg type="rp">）</seg></seg>りのできる丑寅の方と言やあ、ま、どの辺だろうのう？」<lb />
 「急いでけえ？」<lb />
 「うん。」<lb />
-「丑寅の方角なら<span type="ruby"><span type="rb">山王旅所</span><span type="rp">（</span><span type="rt">さんのうたびしょ</span><span type="rp">）</span></span>じゃげえせんか。」<lb />
+「丑寅の方角なら<seg type="ruby"><seg type="rb">山王旅所</seg><seg type="rp">（</seg><seg type="rt">さんのうたびしょ</seg><seg type="rp">）</seg></seg>じゃげえせんか。」<lb />
 「てえと、亀島町は――。」<lb />
 「眼と鼻の間。」<lb />
 「やい、彦、手前亀島町の近江屋まで走って――。」<lb />
-　と何やら吹込んだ藤吉の魂胆。<span type="ruby"><span type="rb">頷首</span><span type="rp">（</span><span type="rt">うなず</span><span type="rp">）</span></span>きながら聞き終った彦兵衛は、<lb />
+　と何やら吹込んだ藤吉の魂胆。<seg type="ruby"><seg type="rb">頷首</seg><seg type="rp">（</seg><seg type="rt">うなず</seg><seg type="rp">）</seg></seg>きながら聞き終った彦兵衛は、<lb />
 「委細合点承知之助。」<lb />
-　<span rend="SESAME_DOT" rendition="strong">ぶらり</span>と歩き出す。<lb />
+　<seg rend="SESAME_DOT" rendition="strong">ぶらり</seg>と歩き出す。<lb />
 「屑っ籠は置いてけよ。」<lb />
 　茶化し半分に追いかけてどなる勘次を、<lb />
 「勘、無駄口叩かずと尾いて来いっ。」<lb />
-　と、藤吉は飛鳥のごとくやにわに随全寺の崩れ石垣を<span type="ruby"><span type="rb">攀登</span><span type="rp">（</span><span type="rt">よじのぼ</span><span type="rp">）</span></span>った。遅れじと勘次が続こうとすると、<lb />
+　と、藤吉は飛鳥のごとくやにわに随全寺の崩れ石垣を<seg type="ruby"><seg type="rb">攀登</seg><seg type="rp">（</seg><seg type="rt">よじのぼ</seg><seg type="rp">）</seg></seg>った。遅れじと勘次が続こうとすると、<lb />
 「親分、親分の前だが、寺内のお手入れだけは見合せて下せえ。寺社奉行の支配へ町方が――。」<lb />
-　町役人の<span type="ruby"><span type="rb">重立</span><span type="rp">（</span><span type="rt">おもだち</span><span type="rp">）</span></span>が、こう言って同心手付の方へ気を兼ねながら、心配そうに藤吉を見上げた。が、<lb />
+　町役人の<seg type="ruby"><seg type="rb">重立</seg><seg type="rp">（</seg><seg type="rt">おもだち</seg><seg type="rp">）</seg></seg>が、こう言って同心手付の方へ気を兼ねながら、心配そうに藤吉を見上げた。が、<lb />
 「花を見る分にゃあ寺内だろうとどこだろうといっこう差支えごぜえますめえ。」<lb />
-　とすまし込んだ藤吉は、木の下へ立って黄色い花を<span type="ruby"><span type="rb">矯</span><span type="rp">（</span><span type="rt">た</span><span type="rp">）</span></span>めつすがめつ眺めていたが、<span rend="SESAME_DOT" rendition="strong">ぐい</span>と裾を引上ると、浅瀬でも渉る時のような恰好でやたらにそこらじゅうを歩き始めた。気のせいか、雨に洗われた雑草の形が乱れて、黄色い花をつけた小枝が一面に折れ散っている。そこから本堂との間は広くもない墓場になっていて、石塔や<span type="ruby"><span type="rb">卒塔婆</span><span type="rp">（</span><span type="rt">そとば</span><span type="rp">）</span></span>の影が樹の間隠れに散見していた。<lb />
-　勘次も提灯崖も、ただ猿真似のようにその黄色い花の咲いている木の廻りを見渡した。二尺近くも延びている草の間から、青竹の切れを探し当てた藤吉は、暫時それで地面の小枝を<span type="ruby"><span type="rb">放心</span><span type="rp">（</span><span type="rt">ぼんやり</span><span type="rp">）</span></span>掻き<span type="ruby"><span type="rb">弾</span><span type="rp">（</span><span type="rt">はじ</span><span type="rp">）</span></span>いていたが、来る途中彦兵衛から受け取った小さな金物を袂から出して眺め終ると、やがて<span rend="SESAME_DOT" rendition="strong">すたすた</span><span type="ruby"><span type="rb">庫裏</span><span type="rp">（</span><span type="rt">くり</span><span type="rp">）</span></span>の方へ向って歩き出した。後の二人は、狐につままれたようにその尾に随いた。<lb />
-　と、何事か思い出したように藤吉が勘次へ囁いた。勘次はびっくりして聞き返した。藤吉の眼が嶮しく光った。勘次は<span rend="SESAME_DOT" rendition="strong">そそくさ</span>と寺を出外れると、そのまま屋敷町の角へ消えて行った。<lb />
+　とすまし込んだ藤吉は、木の下へ立って黄色い花を<seg type="ruby"><seg type="rb">矯</seg><seg type="rp">（</seg><seg type="rt">た</seg><seg type="rp">）</seg></seg>めつすがめつ眺めていたが、<seg rend="SESAME_DOT" rendition="strong">ぐい</seg>と裾を引上ると、浅瀬でも渉る時のような恰好でやたらにそこらじゅうを歩き始めた。気のせいか、雨に洗われた雑草の形が乱れて、黄色い花をつけた小枝が一面に折れ散っている。そこから本堂との間は広くもない墓場になっていて、石塔や<seg type="ruby"><seg type="rb">卒塔婆</seg><seg type="rp">（</seg><seg type="rt">そとば</seg><seg type="rp">）</seg></seg>の影が樹の間隠れに散見していた。<lb />
+　勘次も提灯崖も、ただ猿真似のようにその黄色い花の咲いている木の廻りを見渡した。二尺近くも延びている草の間から、青竹の切れを探し当てた藤吉は、暫時それで地面の小枝を<seg type="ruby"><seg type="rb">放心</seg><seg type="rp">（</seg><seg type="rt">ぼんやり</seg><seg type="rp">）</seg></seg>掻き<seg type="ruby"><seg type="rb">弾</seg><seg type="rp">（</seg><seg type="rt">はじ</seg><seg type="rp">）</seg></seg>いていたが、来る途中彦兵衛から受け取った小さな金物を袂から出して眺め終ると、やがて<seg rend="SESAME_DOT" rendition="strong">すたすた</seg><seg type="ruby"><seg type="rb">庫裏</seg><seg type="rp">（</seg><seg type="rt">くり</seg><seg type="rp">）</seg></seg>の方へ向って歩き出した。後の二人は、狐につままれたようにその尾に随いた。<lb />
+　と、何事か思い出したように藤吉が勘次へ囁いた。勘次はびっくりして聞き返した。藤吉の眼が嶮しく光った。勘次は<seg rend="SESAME_DOT" rendition="strong">そそくさ</seg>と寺を出外れると、そのまま屋敷町の角へ消えて行った。<lb />
 <lb />
 　　　　　　四<lb />
 <lb />
-「<span type="ruby"><span type="rb">不浄仏</span><span type="rp">（</span><span type="rt">ふじょうぼとけ</span><span type="rp">）</span></span>たあ言い条――。」<lb />
-　薄暗い庫裏の土間へはいると、突然、釘抜藤吉は<span type="ruby"><span type="rb">破鐘</span><span type="rp">（</span><span type="rt">われがね</span><span type="rp">）</span></span>のように我鳴り立てた。<lb />
-「寺社奉行の係合いを<span type="ruby"><span type="rb">懼</span><span type="rp">（</span><span type="rt">おそ</span><span type="rp">）</span></span>れてか、それとも<span type="ruby"><span type="rb">真実</span><span type="rp">（</span><span type="rt">まこと</span><span type="rp">）</span></span>和尚さんに暗え筋のあってか、ま、なんにしても、縁あらばこそ墓所で旅立った死人を、石垣下へ蹴転がすたあ、あまりな仕打ちじゃごぜえませんか。もし、<span rend="SESAME_DOT" rendition="strong">あっし</span>ゃあ八丁堀の藤吉でがす。」<lb />
-　海の底のように<span type="ruby"><span type="rb">寂然</span><span type="rp">（</span><span type="rt">しいん</span><span type="rp">）</span></span>としたなかで、藤吉の声だけが筒抜けに響く。<span rend="SESAME_DOT" rendition="strong">はらはら</span>した提灯屋が思わず袖を引いた。<lb />
+「<seg type="ruby"><seg type="rb">不浄仏</seg><seg type="rp">（</seg><seg type="rt">ふじょうぼとけ</seg><seg type="rp">）</seg></seg>たあ言い条――。」<lb />
+　薄暗い庫裏の土間へはいると、突然、釘抜藤吉は<seg type="ruby"><seg type="rb">破鐘</seg><seg type="rp">（</seg><seg type="rt">われがね</seg><seg type="rp">）</seg></seg>のように我鳴り立てた。<lb />
+「寺社奉行の係合いを<seg type="ruby"><seg type="rb">懼</seg><seg type="rp">（</seg><seg type="rt">おそ</seg><seg type="rp">）</seg></seg>れてか、それとも<seg type="ruby"><seg type="rb">真実</seg><seg type="rp">（</seg><seg type="rt">まこと</seg><seg type="rp">）</seg></seg>和尚さんに暗え筋のあってか、ま、なんにしても、縁あらばこそ墓所で旅立った死人を、石垣下へ蹴転がすたあ、あまりな仕打ちじゃごぜえませんか。もし、<seg rend="SESAME_DOT" rendition="strong">あっし</seg>ゃあ八丁堀の藤吉でがす。」<lb />
+　海の底のように<seg type="ruby"><seg type="rb">寂然</seg><seg type="rp">（</seg><seg type="rt">しいん</seg><seg type="rp">）</seg></seg>としたなかで、藤吉の声だけが筒抜けに響く。<seg rend="SESAME_DOT" rendition="strong">はらはら</seg>した提灯屋が思わず袖を引いた。<lb />
 「親分――。」<lb />
-「まあ、こちとらの<span type="ruby"><span type="rb">方寸</span><span type="rp">（</span><span type="rt">むね</span><span type="rp">）</span></span>にある。」と、藤吉はまた一段と調子を上げて、<lb />
+「まあ、こちとらの<seg type="ruby"><seg type="rb">方寸</seg><seg type="rp">（</seg><seg type="rt">むね</seg><seg type="rp">）</seg></seg>にある。」と、藤吉はまた一段と調子を上げて、<lb />
 「不浄仏たあ言い条――おうっ、無縁寺ですかい？　どなたもおいでにならねえんですかい？」<lb />
 「はい、はい。」<lb />
 　と、この時、力なく答えて奥の間から出て来たのはまだ年若い所化、法衣の裾を踏んで端近く小膝をつく。<lb />
-「はい、仏間深く<span type="ruby"><span type="rb">看経中</span><span type="rp">（</span><span type="rt">かんきんちゅう</span><span type="rp">）</span></span>にて思わぬ失礼――して何ぞ御用でござりまするか。」<lb />
+「はい、仏間深く<seg type="ruby"><seg type="rb">看経中</seg><seg type="rp">（</seg><seg type="rt">かんきんちゅう</seg><seg type="rp">）</seg></seg>にて思わぬ失礼――して何ぞ御用でござりまするか。」<lb />
 「御住持は？」<lb />
 「森元町の方に通夜に参って、昨夜五つ時から不在でござりまする。」<lb />
 「五つ？」<lb />
 「はい。」<lb />
 「御住持のお姓名は？」<lb />
-「下田<span type="ruby"><span type="rb">日還</span><span type="rp">（</span><span type="rt">にっかん</span><span type="rp">）</span></span>と申しまする。」<lb />
-「<span rend="SESAME_DOT" rendition="strong">あっし</span>ゃあ御覧のとおりの<span rend="SESAME_DOT" rendition="strong">やくざ</span>者、ものの言い方を知らねえのは御免なせえよ。」と藤吉も<span rend="SESAME_DOT" rendition="strong">ぐっ</span>と砕けて出て、「つかねえことを訊くようですが、こいつあいってえどなたんですい？」<lb />
+「下田<seg type="ruby"><seg type="rb">日還</seg><seg type="rp">（</seg><seg type="rt">にっかん</seg><seg type="rp">）</seg></seg>と申しまする。」<lb />
+「<seg rend="SESAME_DOT" rendition="strong">あっし</seg>ゃあ御覧のとおりの<seg rend="SESAME_DOT" rendition="strong">やくざ</seg>者、ものの言い方を知らねえのは御免なせえよ。」と藤吉も<seg rend="SESAME_DOT" rendition="strong">ぐっ</seg>と砕けて出て、「つかねえことを訊くようですが、こいつあいってえどなたんですい？」<lb />
 　囲炉裏の傍に乾してある紺足袋を手に取ると、若僧の前へぽいと無造作に抛り出しながら、藤吉はこう言って相手の表情を読もうとした。<lb />
-「はて異なお<span type="ruby"><span type="rb">質問</span><span type="rp">（</span><span type="rt">たずね</span><span type="rp">）</span></span>――だが、見まするところこの足袋は――。」<lb />
+「はて異なお<seg type="ruby"><seg type="rb">質問</seg><seg type="rp">（</seg><seg type="rt">たずね</seg><seg type="rp">）</seg></seg>――だが、見まするところこの足袋は――。」<lb />
 　と眺めていたが、ふと顔を上げて、<lb />
 「この足袋に何か御不審の筋でもあって――？」<lb />
-「<span type="ruby"><span type="rb">鞐</span><span type="rp">（</span><span type="rt">こはぜ</span><span type="rp">）</span></span>が一つありますめえ。」<lb />
+「<seg type="ruby"><seg type="rb">鞐</seg><seg type="rp">（</seg><seg type="rt">こはぜ</seg><seg type="rp">）</seg></seg>が一つありますめえ。」<lb />
 　藤吉は鼻の先で笑った。<lb />
 「なるほど、右のが一つ脱れております。」<lb />
-「ここにある。」袂を探って、彦兵衛の拾った小さい金物を手の平へ載せると、そのまま<span type="ruby"><span type="rb">所化</span><span type="rp">（</span><span type="rt">しょけ</span><span type="rp">）</span></span>の前へ突き出して、<lb />
-「これでがしょう、他のと<span rend="SESAME_DOT" rendition="strong">いっち</span><span type="ruby"><span type="rb">合</span><span type="rp">（</span><span type="rt">え</span><span type="rp">）</span></span>えましょうが。」<lb />
+「ここにある。」袂を探って、彦兵衛の拾った小さい金物を手の平へ載せると、そのまま<seg type="ruby"><seg type="rb">所化</seg><seg type="rp">（</seg><seg type="rt">しょけ</seg><seg type="rp">）</seg></seg>の前へ突き出して、<lb />
+「これでがしょう、他のと<seg rend="SESAME_DOT" rendition="strong">いっち</seg><seg type="ruby"><seg type="rb">合</seg><seg type="rp">（</seg><seg type="rt">え</seg><seg type="rp">）</seg></seg>えましょうが。」<lb />
 「どうしてそれがあなたの手に？」<lb />
 「ついこのむこうの空地に落ちてやしたよ。」<lb />
 「空地？　と申せば石垣下の――？」<lb />
 「おうさ、死骸の傍に。」<lb />
-　と聞いて思わずきっとなった提灯屋は、一歩前へ詰め寄った。が、出家は<span type="ruby"><span type="rb">怪訝</span><span type="rp">（</span><span type="rt">けげん</span><span type="rp">）</span></span>な面持ち。<lb />
+　と聞いて思わずきっとなった提灯屋は、一歩前へ詰め寄った。が、出家は<seg type="ruby"><seg type="rb">怪訝</seg><seg type="rp">（</seg><seg type="rt">けげん</seg><seg type="rp">）</seg></seg>な面持ち。<lb />
 「屍骸――とは何の死骸？」<lb />
 「へえ、お新さんの屍骸で――。」<lb />
 「えっ！　あの、お新！」<lb />
 「のう、誰の足袋だか聞かせて下せえやし。」<lb />
-「はい、足袋はたしかに寺男佐平の<span type="ruby"><span type="rb">所有</span><span type="rp">（</span><span type="rt">もの</span><span type="rp">）</span></span>。」<lb />
+「はい、足袋はたしかに寺男佐平の<seg type="ruby"><seg type="rb">所有</seg><seg type="rp">（</seg><seg type="rt">もの</seg><seg type="rp">）</seg></seg>。」<lb />
 「佐平どんはどこに？」<lb />
 「あれ、今し方までそこらに――佐平や、これ、佐平や。」<lb />
-　炭俵なぞの積んである一隅に、<span rend="SESAME_DOT" rendition="strong">がさがさ</span>という人の気配がした。<lb />
+　炭俵なぞの積んである一隅に、<seg rend="SESAME_DOT" rendition="strong">がさがさ</seg>という人の気配がした。<lb />
 「お！」<lb />
 　藤吉は素早く眼くばせする。心得た提灯屋が、飛んで行ったと思う間もなく、猫の仔みたいにひきずり出して来た小柄の老爺、言うまでもなく随全寺の寺男佐平であった。<lb />
-「野郎逃がしてなるか。」<span type="ruby"><span type="rb">有頂天</span><span type="rp">（</span><span type="rt">うちょうてん</span><span type="rp">）</span></span>になった提灯屋亥之吉が、なおも強く佐平爺の腕を押えようとすると、<lb />
-「こう、提灯屋、ここは寺内だ。滅多な手出しをして<span rend="SESAME_DOT" rendition="strong">どじ</span>踏むなよ。」<lb />
-　と<span rend="SESAME_DOT" rendition="strong">にやにや</span>しながら、また藤吉は僧へ向き直って、<lb />
-「この人が佐平どんで足袋の主、さ、それはそれとしてもう一つ伺いてえのは、<span rend="SESAME_DOT" rendition="strong">お新</span>と呼捨てにするからにゃあ、彼の姐御とこの寺との間柄――。」<lb />
-「はい。」と若い僧侶は顔色も<span type="ruby"><span type="rb">蒼褪</span><span type="rp">（</span><span type="rt">あおざ</span><span type="rp">）</span></span>めて、<lb />
+「野郎逃がしてなるか。」<seg type="ruby"><seg type="rb">有頂天</seg><seg type="rp">（</seg><seg type="rt">うちょうてん</seg><seg type="rp">）</seg></seg>になった提灯屋亥之吉が、なおも強く佐平爺の腕を押えようとすると、<lb />
+「こう、提灯屋、ここは寺内だ。滅多な手出しをして<seg rend="SESAME_DOT" rendition="strong">どじ</seg>踏むなよ。」<lb />
+　と<seg rend="SESAME_DOT" rendition="strong">にやにや</seg>しながら、また藤吉は僧へ向き直って、<lb />
+「この人が佐平どんで足袋の主、さ、それはそれとしてもう一つ伺いてえのは、<seg rend="SESAME_DOT" rendition="strong">お新</seg>と呼捨てにするからにゃあ、彼の姐御とこの寺との間柄――。」<lb />
+「はい。」と若い僧侶は顔色も<seg type="ruby"><seg type="rb">蒼褪</seg><seg type="rp">（</seg><seg type="rt">あおざ</seg><seg type="rp">）</seg></seg>めて、<lb />
 「はい、もうこうなりますれば、何事も包まず隠さず申し上げますが。」<lb />
-「うん、好い<span type="ruby"><span type="rb">料簡</span><span type="rp">（</span><span type="rt">りょうけん</span><span type="rp">）</span></span>だ。」<lb />
+「うん、好い<seg type="ruby"><seg type="rb">料簡</seg><seg type="rp">（</seg><seg type="rt">りょうけん</seg><seg type="rp">）</seg></seg>だ。」<lb />
 「実は、面目次第もござりませぬが、親分さま、実のところ――。」<lb />
-　と打ち開けた彼の話によると、若い身空で朝夕仏に仕える寂しさから、いつしか彼は笠森稲荷の茶屋女お新と人眼を忍ぶ仲となり、破戒の罪に<span type="ruby"><span type="rb">戦</span><span type="rp">（</span><span type="rt">おのの</span><span type="rp">）</span></span>きながらも煩悩の火の燃えさかるまま、終いには毒食わば皿までもと住職の眼を掠めては己が部屋へ引き入れ、<span type="ruby"><span type="rb">女犯</span><span type="rp">（</span><span type="rt">にょぼん</span><span type="rp">）</span></span>地獄の恐しい<span type="ruby"><span type="rb">快楽</span><span type="rp">（</span><span type="rt">けらく</span><span type="rp">）</span></span>に、この頃の夜の短かくなりかけるのをうたた<span type="ruby"><span type="rb">託</span><span type="rp">（</span><span type="rt">かこ</span><span type="rp">）</span></span>っていたのであった。<lb />
-　元来お新という女は江戸の産れでなく、大宮在から出て来て間もないとのことだったが、田舎者にしてはちょっと渋皮の<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>けたところから、茶屋を出す一、二日うちに早くも引く手<span type="ruby"><span type="rb">数多</span><span type="rp">（</span><span type="rt">あまた</span><span type="rp">）</span></span>の有様だったけれど、根が浮気者にも似ずそれらの男を皆柳に風と受け流していたのは、当初の悪戯気からだんだん深間へ入りかけていたとは言えけっして随全寺の若僧にばかり女を立てていたからではなく、全くは、大宮から一緒に逃げて来た<span type="ruby"><span type="rb">無頼漢</span><span type="rp">（</span><span type="rt">ならずもの</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">情夫</span><span type="rp">（</span><span type="rt">まぶ</span><span type="rp">）</span></span>を心から怖がっていたからであったという。その男が、今日このごろはいっそう兇暴になって、随全寺の一件なぞを<span type="ruby"><span type="rb">嫉妬</span><span type="rp">（</span><span type="rt">やっかみ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">出</span><span type="rp">（</span><span type="rt">だ</span><span type="rp">）</span></span>し、毎日のように付け廻しては同棲を迫るが、自分はもうあんな男にはこりごりだと、いつかも寝物語に所化へ洩したとのこと。<lb />
+　と打ち開けた彼の話によると、若い身空で朝夕仏に仕える寂しさから、いつしか彼は笠森稲荷の茶屋女お新と人眼を忍ぶ仲となり、破戒の罪に<seg type="ruby"><seg type="rb">戦</seg><seg type="rp">（</seg><seg type="rt">おのの</seg><seg type="rp">）</seg></seg>きながらも煩悩の火の燃えさかるまま、終いには毒食わば皿までもと住職の眼を掠めては己が部屋へ引き入れ、<seg type="ruby"><seg type="rb">女犯</seg><seg type="rp">（</seg><seg type="rt">にょぼん</seg><seg type="rp">）</seg></seg>地獄の恐しい<seg type="ruby"><seg type="rb">快楽</seg><seg type="rp">（</seg><seg type="rt">けらく</seg><seg type="rp">）</seg></seg>に、この頃の夜の短かくなりかけるのをうたた<seg type="ruby"><seg type="rb">託</seg><seg type="rp">（</seg><seg type="rt">かこ</seg><seg type="rp">）</seg></seg>っていたのであった。<lb />
+　元来お新という女は江戸の産れでなく、大宮在から出て来て間もないとのことだったが、田舎者にしてはちょっと渋皮の<seg type="ruby"><seg type="rb">剥</seg><seg type="rp">（</seg><seg type="rt">む</seg><seg type="rp">）</seg></seg>けたところから、茶屋を出す一、二日うちに早くも引く手<seg type="ruby"><seg type="rb">数多</seg><seg type="rp">（</seg><seg type="rt">あまた</seg><seg type="rp">）</seg></seg>の有様だったけれど、根が浮気者にも似ずそれらの男を皆柳に風と受け流していたのは、当初の悪戯気からだんだん深間へ入りかけていたとは言えけっして随全寺の若僧にばかり女を立てていたからではなく、全くは、大宮から一緒に逃げて来た<seg type="ruby"><seg type="rb">無頼漢</seg><seg type="rp">（</seg><seg type="rt">ならずもの</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">情夫</seg><seg type="rp">（</seg><seg type="rt">まぶ</seg><seg type="rp">）</seg></seg>を心から怖がっていたからであったという。その男が、今日このごろはいっそう兇暴になって、随全寺の一件なぞを<seg type="ruby"><seg type="rb">嫉妬</seg><seg type="rp">（</seg><seg type="rt">やっかみ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">出</seg><seg type="rp">（</seg><seg type="rt">だ</seg><seg type="rp">）</seg></seg>し、毎日のように付け廻しては同棲を迫るが、自分はもうあんな男にはこりごりだと、いつかも寝物語に所化へ洩したとのこと。<lb />
 　昨夜も昨夜とて和尚の留守を幸い、寺男佐平の手引きで忍んで来る手筈になっていたが――。<lb />
 「それがまあ、こんなことになろうとは――。」<lb />
-　僧は眼に涙を浮べて手の数珠を<span type="ruby"><span type="rb">爪探</span><span type="rp">（</span><span type="rt">まさぐ</span><span type="rp">）</span></span>った。<lb />
-「お葬えはお手のもんだ。まあ、せいぜい<span type="ruby"><span type="rb">菩提</span><span type="rp">（</span><span type="rt">ぼでえ</span><span type="rp">）</span></span>を――と、それよりゃあ、のう、佐平どんとやら、お寺に昨夜紛失物がありやしたのう？」<lb />
+　僧は眼に涙を浮べて手の数珠を<seg type="ruby"><seg type="rb">爪探</seg><seg type="rp">（</seg><seg type="rt">まさぐ</seg><seg type="rp">）</seg></seg>った。<lb />
+「お葬えはお手のもんだ。まあ、せいぜい<seg type="ruby"><seg type="rb">菩提</seg><seg type="rp">（</seg><seg type="rt">ぼでえ</seg><seg type="rp">）</seg></seg>を――と、それよりゃあ、のう、佐平どんとやら、お寺に昨夜紛失物がありやしたのう？」<lb />
 　提灯屋に小突かれて、佐平は黙って頷首いた。声も出ないとみえる。<lb />
 「盗人がはいったのけえ？」<lb />
 　佐平は首を縦に振った。<lb />
@@ -234,65 +234,65 @@
 「へえ。」<lb />
 　と佐平が答えた時、山王旅所へ近い亀島町の薬種問屋近江屋へ使いに行った葬式彦が、跫音もなく帰って来た。<lb />
 「現場で聞いたら親分はこの寺にいなさるってんで、親分、奴あ近江屋へ行ったに相違ねえぜ。」<lb />
-「うん、<span type="ruby"><span type="rb">牛蒡</span><span type="rp">（</span><span type="rt">ごぼう</span><span type="rp">）</span></span><span type="ruby"><span type="rb">買</span><span type="rp">（</span><span type="rt">か</span><span type="rp">）</span></span>いにか。」<lb />
-「あい、牛蒡の<span type="ruby"><span type="rb">干葉</span><span type="rp">（</span><span type="rt">ひば</span><span type="rp">）</span></span>と黒焼の<span type="ruby"><span type="rb">生姜</span><span type="rp">（</span><span type="rt">しょうが</span><span type="rp">）</span></span>――。」<lb />
-「<span type="ruby"><span type="rb">鑑識</span><span type="rp">（</span><span type="rt">めがね</span><span type="rp">）</span></span>通りだ、はっはっは、彦御苦労だったのう。」と藤吉は哄笑して、<lb />
-「そこで、佐平どん、お前に訊くが、今朝、墓場の向うの木の下でお新さんの屍骸を見つけ、この坊さんや引いては自身が、<span type="ruby"><span type="rb">寺社方</span><span type="rp">（</span><span type="rt">じしゃかた</span><span type="rp">）</span></span>の前へ突ん出されめえと、これ、この棒で、」と手の青竹を振って見せて、「屍骸の上に覆せてあった小枝を払い、仏を石垣から蹴落して半兵衛さんを決め込んでたなあ、足袋の<span type="ruby"><span type="rb">鞐</span><span type="rp">（</span><span type="rt">こはぜ</span><span type="rp">）</span></span>と言い、それ、お前の<span rend="SESAME_DOT" rendition="strong">ぱっち</span>の血形といい、佐平どん、<span rend="SESAME_DOT" rendition="strong">あっしゃあ</span>、お前の<span type="ruby"><span type="rb">業</span><span type="rp">（</span><span type="rt">わざ</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">白眼</span><span type="rp">（</span><span type="rt">にら</span><span type="rp">）</span></span>むがどうでえ？」<lb />
-　佐平は<span type="ruby"><span type="rb">首垂</span><span type="rp">（</span><span type="rt">うなだ</span><span type="rp">）</span></span>れて股引の血を見詰めながら、<lb />
-「へえ、森元町から<span type="ruby"><span type="rb">新棺</span><span type="rp">（</span><span type="rt">あらかん</span><span type="rp">）</span></span>の入りがあるちゅうこって、今朝七つ半過ぎに俺が墓あ掃除に出張りましたところが――。」<lb />
-「お新！」若い<span type="ruby"><span type="rb">納所</span><span type="rp">（</span><span type="rt">なっしょ</span><span type="rp">）</span></span>が狂気のように叫び出した。「おほ、お、お――しん！」<lb />
-「屍骸は原っぱだ。」<span type="ruby"><span type="rb">憮然</span><span type="rp">（</span><span type="rt">ぶぜん</span><span type="rp">）</span></span>として藤吉が言った。「見る気があったら見ておやんなせえ。」<lb />
-　顫える足に下駄を突っかけて、若僧は<span rend="SESAME_DOT" rendition="strong">べそ</span>を掻いて、駈け出そうとした。提灯屋が押えた。<lb />
+「うん、<seg type="ruby"><seg type="rb">牛蒡</seg><seg type="rp">（</seg><seg type="rt">ごぼう</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">買</seg><seg type="rp">（</seg><seg type="rt">か</seg><seg type="rp">）</seg></seg>いにか。」<lb />
+「あい、牛蒡の<seg type="ruby"><seg type="rb">干葉</seg><seg type="rp">（</seg><seg type="rt">ひば</seg><seg type="rp">）</seg></seg>と黒焼の<seg type="ruby"><seg type="rb">生姜</seg><seg type="rp">（</seg><seg type="rt">しょうが</seg><seg type="rp">）</seg></seg>――。」<lb />
+「<seg type="ruby"><seg type="rb">鑑識</seg><seg type="rp">（</seg><seg type="rt">めがね</seg><seg type="rp">）</seg></seg>通りだ、はっはっは、彦御苦労だったのう。」と藤吉は哄笑して、<lb />
+「そこで、佐平どん、お前に訊くが、今朝、墓場の向うの木の下でお新さんの屍骸を見つけ、この坊さんや引いては自身が、<seg type="ruby"><seg type="rb">寺社方</seg><seg type="rp">（</seg><seg type="rt">じしゃかた</seg><seg type="rp">）</seg></seg>の前へ突ん出されめえと、これ、この棒で、」と手の青竹を振って見せて、「屍骸の上に覆せてあった小枝を払い、仏を石垣から蹴落して半兵衛さんを決め込んでたなあ、足袋の<seg type="ruby"><seg type="rb">鞐</seg><seg type="rp">（</seg><seg type="rt">こはぜ</seg><seg type="rp">）</seg></seg>と言い、それ、お前の<seg rend="SESAME_DOT" rendition="strong">ぱっち</seg>の血形といい、佐平どん、<seg rend="SESAME_DOT" rendition="strong">あっしゃあ</seg>、お前の<seg type="ruby"><seg type="rb">業</seg><seg type="rp">（</seg><seg type="rt">わざ</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">白眼</seg><seg type="rp">（</seg><seg type="rt">にら</seg><seg type="rp">）</seg></seg>むがどうでえ？」<lb />
+　佐平は<seg type="ruby"><seg type="rb">首垂</seg><seg type="rp">（</seg><seg type="rt">うなだ</seg><seg type="rp">）</seg></seg>れて股引の血を見詰めながら、<lb />
+「へえ、森元町から<seg type="ruby"><seg type="rb">新棺</seg><seg type="rp">（</seg><seg type="rt">あらかん</seg><seg type="rp">）</seg></seg>の入りがあるちゅうこって、今朝七つ半過ぎに俺が墓あ掃除に出張りましたところが――。」<lb />
+「お新！」若い<seg type="ruby"><seg type="rb">納所</seg><seg type="rp">（</seg><seg type="rt">なっしょ</seg><seg type="rp">）</seg></seg>が狂気のように叫び出した。「おほ、お、お――しん！」<lb />
+「屍骸は原っぱだ。」<seg type="ruby"><seg type="rb">憮然</seg><seg type="rp">（</seg><seg type="rt">ぶぜん</seg><seg type="rp">）</seg></seg>として藤吉が言った。「見る気があったら見ておやんなせえ。」<lb />
+　顫える足に下駄を突っかけて、若僧は<seg rend="SESAME_DOT" rendition="strong">べそ</seg>を掻いて、駈け出そうとした。提灯屋が押えた。<lb />
 「殺された女の情夫ってえのを、あんたは見たことがありますかえ？」<lb />
 「見たことはありません、見たことはありません。」<lb />
 「提灯屋、放してやれってことよ。」藤吉が嘯いた。「犯人なら先刻引き揚げてあるんだ。」<lb />
 　と、その言葉の終らないうちに、<lb />
 「親分。」<lb />
-　裏口に大声がして、五尺八寸の勘弁勘次の姿が浮彫のように<span rend="SESAME_DOT" rendition="strong">ぬう</span>っと現れた。<lb />
+　裏口に大声がして、五尺八寸の勘弁勘次の姿が浮彫のように<seg rend="SESAME_DOT" rendition="strong">ぬう</seg>っと現れた。<lb />
 「勘か？　首尾は？」<lb />
 「上々吉でさあ。」と弥造を振り立てて、「二つ三つ溜りを当るうちに、三軒家町の真中でぱったり出遇った。」<lb />
-「今朝の<span type="ruby"><span type="rb">癩病人</span><span type="rp">（</span><span type="rt">かってえぼう</span><span type="rp">）</span></span>にか？」<lb />
+「今朝の<seg type="ruby"><seg type="rb">癩病人</seg><seg type="rp">（</seg><seg type="rt">かってえぼう</seg><seg type="rp">）</seg></seg>にか？」<lb />
 「あいさ。」<lb />
 「うん。」<lb />
-「<span rend="SESAME_DOT" rendition="strong">あん</span>畜生、あんな面になりゃがったもんだから、秋月佐渡様のお部屋から<span rend="SESAME_DOT" rendition="strong">ずら</span>かってくるところを、勘弁ならねえと掴めえて町内組へ預けて来やした。」<lb />
+「<seg rend="SESAME_DOT" rendition="strong">あん</seg>畜生、あんな面になりゃがったもんだから、秋月佐渡様のお部屋から<seg rend="SESAME_DOT" rendition="strong">ずら</seg>かってくるところを、勘弁ならねえと掴めえて町内組へ預けて来やした。」<lb />
 「風呂敷包みを抱えてたろう？」<lb />
 「へえ、牛蒡の――。」<lb />
-「<span type="ruby"><span type="rb">干葉</span><span type="rp">（</span><span type="rt">ひば</span><span type="rp">）</span></span>と<span type="ruby"><span type="rb">生姜</span><span type="rp">（</span><span type="rt">しょうが</span><span type="rp">）</span></span>の黒焼。」<lb />
-　と彦兵衛が後を引き取る。眼を<span rend="SESAME_DOT" rendition="strong">ぱちくり</span>させて勘次は黙った。<lb />
+「<seg type="ruby"><seg type="rb">干葉</seg><seg type="rp">（</seg><seg type="rt">ひば</seg><seg type="rp">）</seg></seg>と<seg type="ruby"><seg type="rb">生姜</seg><seg type="rp">（</seg><seg type="rt">しょうが</seg><seg type="rp">）</seg></seg>の黒焼。」<lb />
+　と彦兵衛が後を引き取る。眼を<seg rend="SESAME_DOT" rendition="strong">ぱちくり</seg>させて勘次は黙った。<lb />
 「ちったあ噛んだか。」と藤吉が訊く。<lb />
 「なあに。」<lb />
 　手の甲の傷を舐めて勘次は笑った。<lb />
 「番屋じゃあ引っ叩いて来たか。」<lb />
-「へえ、あっさりとね。だが、親分、<span type="ruby"><span type="rb">先様</span><span type="rp">（</span><span type="rt">さきさま</span><span type="rp">）</span></span>あ<span type="ruby"><span type="rb">真悪</span><span type="rp">（</span><span type="rt">ほんわる</span><span type="rp">）</span></span>だ、すぐと恐れ入りやしたよ。へえ、あんまり骨を折らせずにね。」<lb />
+「へえ、あっさりとね。だが、親分、<seg type="ruby"><seg type="rb">先様</seg><seg type="rp">（</seg><seg type="rt">さきさま</seg><seg type="rp">）</seg></seg>あ<seg type="ruby"><seg type="rb">真悪</seg><seg type="rp">（</seg><seg type="rt">ほんわる</seg><seg type="rp">）</seg></seg>だ、すぐと恐れ入りやしたよ。へえ、あんまり骨を折らせずにね。」<lb />
 「でかした。」<lb />
-　と一言いった藤吉は、<span rend="SESAME_DOT" rendition="strong">さっさ</span>と戸外へ歩き出しながら、「昨夜、寺の門の傍でお新を待伏せ、坊さんとの手切れ話を持ち出したがお新が<span rend="SESAME_DOT" rendition="strong">うん</span>と言わねえので、坊さんをつれ出しに庫裏へはいりこんだものの、<span type="ruby"><span type="rb">闇黒</span><span type="rp">（</span><span type="rt">くらがり</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">庖丁</span><span type="rp">（</span><span type="rt">ほうちょう</span><span type="rp">）</span></span>を掴んで気が変ったと吐かしたか。」<lb />
+　と一言いった藤吉は、<seg rend="SESAME_DOT" rendition="strong">さっさ</seg>と戸外へ歩き出しながら、「昨夜、寺の門の傍でお新を待伏せ、坊さんとの手切れ話を持ち出したがお新が<seg rend="SESAME_DOT" rendition="strong">うん</seg>と言わねえので、坊さんをつれ出しに庫裏へはいりこんだものの、<seg type="ruby"><seg type="rb">闇黒</seg><seg type="rp">（</seg><seg type="rt">くらがり</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">庖丁</seg><seg type="rp">（</seg><seg type="rt">ほうちょう</seg><seg type="rp">）</seg></seg>を掴んで気が変ったと吐かしたか。」<lb />
 「へえ、そのとおりで。それから――。」<lb />
 「それから先は見たきり雀よ。なあ、墓でお新に引導渡し――。」<lb />
 「ええっ！」<lb />
-　提灯屋始め、佐平も彦兵衛も愕然として藤吉の<span type="ruby"><span type="rb">背後</span><span type="rp">（</span><span type="rt">うしろ</span><span type="rp">）</span></span>姿を凝視めた。藤吉は振り返って、<lb />
-「その癩病人てえのがお新女郎の情夫よ――森元町の他に<span type="ruby"><span type="rb">新仏</span><span type="rp">（</span><span type="rt">にいぼとけ</span><span type="rp">）</span></span>がもう一つ、いやさ、二つかも知れねえ。佐平どん、お忙しいこったのう。」<lb />
-　火消しの一人が<span rend="SESAME_DOT" rendition="strong">あたふた</span>とそこへ飛んで来た。<lb />
+　提灯屋始め、佐平も彦兵衛も愕然として藤吉の<seg type="ruby"><seg type="rb">背後</seg><seg type="rp">（</seg><seg type="rt">うしろ</seg><seg type="rp">）</seg></seg>姿を凝視めた。藤吉は振り返って、<lb />
+「その癩病人てえのがお新女郎の情夫よ――森元町の他に<seg type="ruby"><seg type="rb">新仏</seg><seg type="rp">（</seg><seg type="rt">にいぼとけ</seg><seg type="rp">）</seg></seg>がもう一つ、いやさ、二つかも知れねえ。佐平どん、お忙しいこったのう。」<lb />
+　火消しの一人が<seg rend="SESAME_DOT" rendition="strong">あたふた</seg>とそこへ飛んで来た。<lb />
 「た、大変だ！　若え坊さんが裏の井戸へ――。」<lb />
-「はっはっは、言わねえこっちゃねえ。提灯屋、ま、<span type="ruby"><span type="rb">不平</span><span type="rp">（</span><span type="rt">こぼ</span><span type="rp">）</span></span>さねえで御用大事と――勘、どこかで茶漬けでもかっこんで帰るべえ。彦、紙屑籠を忘れめえぞ、はっはっは、いや、皆さん、何ともかともおやかましゅう――。」<lb />
+「はっはっは、言わねえこっちゃねえ。提灯屋、ま、<seg type="ruby"><seg type="rb">不平</seg><seg type="rp">（</seg><seg type="rt">こぼ</seg><seg type="rp">）</seg></seg>さねえで御用大事と――勘、どこかで茶漬けでもかっこんで帰るべえ。彦、紙屑籠を忘れめえぞ、はっはっは、いや、皆さん、何ともかともおやかましゅう――。」<lb />
 <lb />
 　　　　　　五<lb />
 <lb />
 「よくも親分、ああ早くから当りがつきやしたのう。」<lb />
-「まあ、呑め、一杯呑め。」新網町の小料理屋おかめの二階へ<span rend="SESAME_DOT" rendition="strong">どっかり</span>と<span type="ruby"><span type="rb">胡坐</span><span type="rp">（</span><span type="rt">あぐら</span><span type="rp">）</span></span>をかいた釘抜藤吉は、珍しく上機嫌だった。「おうっ、姐さん、赤貝の<span type="ruby"><span type="rb">酸</span><span type="rp">（</span><span type="rt">す</span><span type="rp">）</span></span>を一枚通してくんねえ。こうっと――そうよなあ、傷口を<span type="ruby"><span type="rb">検</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>て菜切りと睨んだんだが、玉が四時と来て、その下の土が八つ半からの雨に<span rend="SESAME_DOT" rendition="strong">しこたま</span>濡れてるとすりゃあ、彦の鼻っ柱の千里利きじゃねえが、他から運んだと見当が立たあな。石垣上の黄色い花を見て、――勘、今日だきゃあ呑め、ま、一杯呑め――花を見て俺あ朝の癩病人を思いついたんだ。彦から貰った鞐もあるし、こいつあ臭えと上ってみるてえと、勘の前だが、落花狼藉よ。なあ、勘、枝を<span type="ruby"><span type="rb">弄</span><span type="rp">（</span><span type="rt">いじ</span><span type="rp">）</span></span>くった竹っ切も落っこってたなあ。」<lb />
+「まあ、呑め、一杯呑め。」新網町の小料理屋おかめの二階へ<seg rend="SESAME_DOT" rendition="strong">どっかり</seg>と<seg type="ruby"><seg type="rb">胡坐</seg><seg type="rp">（</seg><seg type="rt">あぐら</seg><seg type="rp">）</seg></seg>をかいた釘抜藤吉は、珍しく上機嫌だった。「おうっ、姐さん、赤貝の<seg type="ruby"><seg type="rb">酸</seg><seg type="rp">（</seg><seg type="rt">す</seg><seg type="rp">）</seg></seg>を一枚通してくんねえ。こうっと――そうよなあ、傷口を<seg type="ruby"><seg type="rb">検</seg><seg type="rp">（</seg><seg type="rt">み</seg><seg type="rp">）</seg></seg>て菜切りと睨んだんだが、玉が四時と来て、その下の土が八つ半からの雨に<seg rend="SESAME_DOT" rendition="strong">しこたま</seg>濡れてるとすりゃあ、彦の鼻っ柱の千里利きじゃねえが、他から運んだと見当が立たあな。石垣上の黄色い花を見て、――勘、今日だきゃあ呑め、ま、一杯呑め――花を見て俺あ朝の癩病人を思いついたんだ。彦から貰った鞐もあるし、こいつあ臭えと上ってみるてえと、勘の前だが、落花狼藉よ。なあ、勘、枝を<seg type="ruby"><seg type="rb">弄</seg><seg type="rp">（</seg><seg type="rt">いじ</seg><seg type="rp">）</seg></seg>くった竹っ切も落っこってたなあ。」<lb />
 「小枝はうんとこしょ落ちてたが、あの竹の棒がいったい親分何の足しに――？」<lb />
-「佐平の爺め、あれで死骸に被せてあった小枝を払いやがったのよ。勘、汝も<span rend="SESAME_DOT" rendition="strong">ちったあ</span>頭を働かせ、大飯ばかり食いやがって。」<lb />
+「佐平の爺め、あれで死骸に被せてあった小枝を払いやがったのよ。勘、汝も<seg rend="SESAME_DOT" rendition="strong">ちったあ</seg>頭を働かせ、大飯ばかり食いやがって。」<lb />
 「だが、親分、何のために竹づっぽで？」<lb />
 「知ってる者あ知ってらあな。爺だって婆あだって、癩病人にゃなりたかねえからよ。」<lb />
 「ふうん。」彦兵衛が唸った。<lb />
 「やい、彦、俺の真似をするねえ。」<lb />
-「真似じゃねえが、」と葬式彦兵衛は眼を<span rend="SESAME_DOT" rendition="strong">しょぼしょぼ</span>させて、「野郎が八丁堀を通って近江屋へ買いに行ったあの牛蒡と生姜はなんですい？」<lb />
+「真似じゃねえが、」と葬式彦兵衛は眼を<seg rend="SESAME_DOT" rendition="strong">しょぼしょぼ</seg>させて、「野郎が八丁堀を通って近江屋へ買いに行ったあの牛蒡と生姜はなんですい？」<lb />
 「妙薬よ。」<lb />
 「天刑病のでございますかい？」<lb />
 「誰が天刑病だ？」<lb />
 「犯人。」<lb />
-「はっはっは、間抜め。」酒をこぼしながら、膝を揺がせて藤吉は笑った。「朝からどうもあの折助の面つきが、眼の底から抜けねえような按配だったが、ありゃあお前、<span type="ruby"><span type="rb">癩病</span><span type="rp">（</span><span type="rt">なりんぼ</span><span type="rp">）</span></span>じゃねえ。<span rend="SESAME_DOT" rendition="strong">どでえ</span>、病いじゃねえ。」<lb />
+「はっはっは、間抜め。」酒をこぼしながら、膝を揺がせて藤吉は笑った。「朝からどうもあの折助の面つきが、眼の底から抜けねえような按配だったが、ありゃあお前、<seg type="ruby"><seg type="rb">癩病</seg><seg type="rp">（</seg><seg type="rt">なりんぼ</seg><seg type="rp">）</seg></seg>じゃねえ。<seg rend="SESAME_DOT" rendition="strong">どでえ</seg>、病いじゃねえ。」<lb />
 「へえ――い？」<lb />
-「<span rend="SESAME_DOT" rendition="strong">へえ</span>でもねえ。」<lb />
+「<seg rend="SESAME_DOT" rendition="strong">へえ</seg>でもねえ。」<lb />
 「まあ、親分、冗談は抜きにして――。」<lb />
 「冗談じゃねえよ、漆かぶれだ。」<lb />
 「え？」<lb />
@@ -300,18 +300,18 @@
 「うるし？」<lb />
 「そうよ、う、る、し、てんだ。はっはっは、解ったか。」<lb />
 「じゃ、あの木――は。」<lb />
-「漆の木よ。あの花を見て、<span rend="SESAME_DOT" rendition="strong">こちとら</span>あなるほどと感ずったんだ。奴め、<span type="ruby"><span type="rb">暗黒</span><span type="rp">（</span><span type="rt">やみ</span><span type="rp">）</span></span>ん中で、<span type="ruby"><span type="rb">漆</span><span type="rp">（</span><span type="rt">うるし</span><span type="rp">）</span></span>とは知らず千切ってかけ、折っては被せしたもんだから四<span type="ruby"><span type="rb">時</span><span type="rp">（</span><span type="rt">とき</span><span type="rp">）</span></span>の間にあのざまよ――梅雨に咲く黄色え花が口を利き、とね。ははは。」<lb />
+「漆の木よ。あの花を見て、<seg rend="SESAME_DOT" rendition="strong">こちとら</seg>あなるほどと感ずったんだ。奴め、<seg type="ruby"><seg type="rb">暗黒</seg><seg type="rp">（</seg><seg type="rt">やみ</seg><seg type="rp">）</seg></seg>ん中で、<seg type="ruby"><seg type="rb">漆</seg><seg type="rp">（</seg><seg type="rt">うるし</seg><seg type="rp">）</seg></seg>とは知らず千切ってかけ、折っては被せしたもんだから四<seg type="ruby"><seg type="rb">時</seg><seg type="rp">（</seg><seg type="rt">とき</seg><seg type="rp">）</seg></seg>の間にあのざまよ――梅雨に咲く黄色え花が口を利き、とね。ははは。」<lb />
 「まあ、親分さん、もの言う花でござんすか。ほほほほ。」<lb />
 　と小粋な女中がさらり境いの襖を開けて、<lb />
 「はい、お待遠おさま。」<lb />
-「拙は<span type="ruby"><span type="rb">酢章魚</span><span type="rp">（</span><span type="rt">すだこ</span><span type="rp">）</span></span>でげす、おほん。」<lb />
-　と気取って勘弁勘次は据わり直す。女中が明けて行った廻り縁の障子。降り飽きた雨はとっくに晴れて、銀色に<span type="ruby"><span type="rb">和</span><span type="rp">（</span><span type="rt">なご</span><span type="rp">）</span></span>む品川の海がまるで絵に画いたよう――。櫓音ものどかにすぐ眼の下を忍ぶ小舟の深川通い、沖の霞むは出船の<span type="ruby"><span type="rb">炊</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>ぎか。<lb />
+「拙は<seg type="ruby"><seg type="rb">酢章魚</seg><seg type="rp">（</seg><seg type="rt">すだこ</seg><seg type="rp">）</seg></seg>でげす、おほん。」<lb />
+　と気取って勘弁勘次は据わり直す。女中が明けて行った廻り縁の障子。降り飽きた雨はとっくに晴れて、銀色に<seg type="ruby"><seg type="rb">和</seg><seg type="rp">（</seg><seg type="rt">なご</seg><seg type="rp">）</seg></seg>む品川の海がまるで絵に画いたよう――。櫓音ものどかにすぐ眼の下を忍ぶ小舟の深川通い、沖の霞むは出船の<seg type="ruby"><seg type="rb">炊</seg><seg type="rp">（</seg><seg type="rt">かし</seg><seg type="rp">）</seg></seg>ぎか。<lb />
 「さあ、呑め、もう一杯だけ呑め。」<lb />
-　<span type="ruby"><span type="rb">玉山</span><span type="rp">（</span><span type="rt">ぎょくざん</span><span type="rp">）</span></span><span type="ruby"><span type="rb">将</span><span type="rp">（</span><span type="rt">まさ</span><span type="rp">）</span></span>に崩れんとして釘抜藤吉の頬の<span type="ruby"><span type="rb">紅潮</span><span type="rp">（</span><span type="rt">あからみ</span><span type="rp">）</span></span>。満々と盃を受けながら、葬式彦兵衛が<span type="ruby"><span type="rb">口詠</span><span type="rp">（</span><span type="rt">くちずさ</span><span type="rp">）</span></span>んだ。<lb />
+　<seg type="ruby"><seg type="rb">玉山</seg><seg type="rp">（</seg><seg type="rt">ぎょくざん</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">将</seg><seg type="rp">（</seg><seg type="rt">まさ</seg><seg type="rp">）</seg></seg>に崩れんとして釘抜藤吉の頬の<seg type="ruby"><seg type="rb">紅潮</seg><seg type="rp">（</seg><seg type="rt">あからみ</seg><seg type="rp">）</seg></seg>。満々と盃を受けながら、葬式彦兵衛が<seg type="ruby"><seg type="rb">口詠</seg><seg type="rp">（</seg><seg type="rt">くちずさ</seg><seg type="rp">）</seg></seg>んだ。<lb />
 「梅雨に咲く花や彼岸の真帆片帆。」<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -32,7 +32,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 この空気<lb />
 この音<lb />
 オレは日本に帰ってきた<lb />
@@ -45,7 +45,7 @@
 軍靴がテントウしていた<lb />
 その時<lb />
 オレの目の前で大地がわれた<lb />
-まっ黒なオレの<span type="ruby"><span type="rb">眼漿</span><span type="rp">（</span><span type="rt">がんしょう</span><span type="rp">）</span></span>が空間に<lb />
+まっ黒なオレの<seg type="ruby"><seg type="rb">眼漿</seg><seg type="rp">（</seg><seg type="rt">がんしょう</seg><seg type="rp">）</seg></seg>が空間に<lb />
 とびちった<lb />
 オレは光素（エーテル）を失って<lb />
 テントウした<lb />
@@ -60,6 +60,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

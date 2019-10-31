@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-01-12">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 初出：「沖縄毎日新聞」<lb />
 　　　1911（明治44）年1月10日<lb />
@@ -36,9 +36,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span type="ruby"><span type="rb">黄昏時</span><span type="rp">（</span><span type="rt">たそがれとき</span><span type="rp">）</span></span>を四五分すぎたあと、<lb />
-薄闇を縫ふて、紅い々々<span type="ruby"><span type="rb">燈</span><span type="rp">（</span><span type="rt">ひ</span><span type="rp">）</span></span>の華が、<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg type="ruby"><seg type="rb">黄昏時</seg><seg type="rp">（</seg><seg type="rt">たそがれとき</seg><seg type="rp">）</seg></seg>を四五分すぎたあと、<lb />
+薄闇を縫ふて、紅い々々<seg type="ruby"><seg type="rb">燈</seg><seg type="rp">（</seg><seg type="rt">ひ</seg><seg type="rp">）</seg></seg>の華が、<lb />
 冬咲きの仏相花のやうにちらつく。<lb />
 昔の栄華を夢見る古るい街、<lb />
 傾むいた軒を並べて、<lb />
@@ -46,7 +46,7 @@
 <lb />
 蔦の生へた石垣からは、<lb />
 亡びの色調を帯びた虫の歌。また、<lb />
-<span rend="sesame_dot" rendition="em">たく／″＼</span>と流れる溝のなげかひ。<lb />
+<seg rend="sesame_dot" rendition="em">たく／″＼</seg>と流れる溝のなげかひ。<lb />
 <lb />
 私は古るい街の巷に迷ひこんだ、<lb />
 何処かへ逃げ道を見出さうとした、<lb />
@@ -58,6 +58,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

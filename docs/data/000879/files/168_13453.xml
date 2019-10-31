@@ -12,7 +12,7 @@
 底本：「芥川龍之介作品集第四巻」昭和出版社
 <lb />
 　　　1965（昭和40）年12月20日発行<lb />
-※底本の「護物」「子　それから／父　それから虎は…」「<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かへ行つてしまつたとさ」はそれぞれ、「獲物」「子　それから？／父　それから虎は…」「<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かへ行つてしまつたとさ。」にあらためました。<lb />
+※底本の「護物」「子　それから／父　それから虎は…」「<seg type="ruby"><seg type="rb">何処</seg><seg type="rp">（</seg><seg type="rt">どこ</seg><seg type="rp">）</seg></seg>かへ行つてしまつたとさ」はそれぞれ、「獲物」「子　それから？／父　それから虎は…」「<seg type="ruby"><seg type="rb">何処</seg><seg type="rp">（</seg><seg type="rt">どこ</seg><seg type="rp">）</seg></seg>かへ行つてしまつたとさ。」にあらためました。<lb />
 ※疑問点の確認にあたっては、「芥川龍之介全集　第十三巻」岩波書店、1996（平成8）年11月8日発行を参照しました。<lb />
 入力：j.utiyama<lb />
 校正：かとうかおり<lb />
@@ -35,52 +35,52 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　<span type="ruby"><span type="rb">師走</span><span type="rp">（</span><span type="rt">しはす</span><span type="rp">）</span></span>の或<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>、父は五歳になる男の子を<span type="ruby"><span type="rb">抱</span><span type="rp">（</span><span type="rt">だ</span><span type="rp">）</span></span>き、一しよに<span type="ruby"><span type="rb">炬燵</span><span type="rp">（</span><span type="rt">こたつ</span><span type="rp">）</span></span>へはひつてゐる。<lb />
-　子　お父さん<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">なに</span><span type="rp">）</span></span>かお話しをして！<lb />
-　父　<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>の話？<lb />
-　子　<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>でも。……うん、虎のお話が<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>いや。<lb />
+　<seg type="ruby"><seg type="rb">師走</seg><seg type="rp">（</seg><seg type="rt">しはす</seg><seg type="rp">）</seg></seg>の或<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>、父は五歳になる男の子を<seg type="ruby"><seg type="rb">抱</seg><seg type="rp">（</seg><seg type="rt">だ</seg><seg type="rp">）</seg></seg>き、一しよに<seg type="ruby"><seg type="rb">炬燵</seg><seg type="rp">（</seg><seg type="rt">こたつ</seg><seg type="rp">）</seg></seg>へはひつてゐる。<lb />
+　子　お父さん<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">なに</seg><seg type="rp">）</seg></seg>かお話しをして！<lb />
+　父　<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">なん</seg><seg type="rp">）</seg></seg>の話？<lb />
+　子　<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">なん</seg><seg type="rp">）</seg></seg>でも。……うん、虎のお話が<seg type="ruby"><seg type="rb">好</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>いや。<lb />
 　父　虎の話？　虎の話は困つたな。<lb />
 　子　よう、虎の話をさあ。<lb />
-　父　虎の話と。……ぢや虎の話をして上げよう。昔、朝鮮の<span rend="SESAME_DOT" rendition="strong">らつぱ</span><span type="ruby"><span type="rb">卒</span><span type="rp">（</span><span type="rt">そつ</span><span type="rp">）</span></span>がね、すつかりお酒に酔つ払らつて、<span type="ruby"><span type="rb">山路</span><span type="rp">（</span><span type="rt">やまみち</span><span type="rp">）</span></span>にぐうぐう寝てゐたとさ。すると顔が濡れるもんだから、何かと思つて目をさますと、いつの<span type="ruby"><span type="rb">間</span><span type="rp">（</span><span type="rt">ま</span><span type="rp">）</span></span>にか大きい虎が一匹、<span type="ruby"><span type="rb">尻</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">尾</span><span type="rp">（</span><span type="rt">ぽ</span><span type="rp">）</span></span>の先に水をつけては<span rend="SESAME_DOT" rendition="strong">らつぱ</span>卒の顔を撫でてゐたとさ。<lb />
+　父　虎の話と。……ぢや虎の話をして上げよう。昔、朝鮮の<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg><seg type="ruby"><seg type="rb">卒</seg><seg type="rp">（</seg><seg type="rt">そつ</seg><seg type="rp">）</seg></seg>がね、すつかりお酒に酔つ払らつて、<seg type="ruby"><seg type="rb">山路</seg><seg type="rp">（</seg><seg type="rt">やまみち</seg><seg type="rp">）</seg></seg>にぐうぐう寝てゐたとさ。すると顔が濡れるもんだから、何かと思つて目をさますと、いつの<seg type="ruby"><seg type="rb">間</seg><seg type="rp">（</seg><seg type="rt">ま</seg><seg type="rp">）</seg></seg>にか大きい虎が一匹、<seg type="ruby"><seg type="rb">尻</seg><seg type="rp">（</seg><seg type="rt">し</seg><seg type="rp">）</seg></seg>つ<seg type="ruby"><seg type="rb">尾</seg><seg type="rp">（</seg><seg type="rt">ぽ</seg><seg type="rp">）</seg></seg>の先に水をつけては<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg>卒の顔を撫でてゐたとさ。<lb />
 　子　どうして？<lb />
-　父　そりや<span rend="SESAME_DOT" rendition="strong">らつぱ</span>卒が酔つぱらつてゐたから、お酒つ臭い<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にほ</span><span type="rp">）</span></span>ひをなくした上、食べることにしようと思つたのさ。<lb />
+　父　そりや<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg>卒が酔つぱらつてゐたから、お酒つ臭い<seg type="ruby"><seg type="rb">臭</seg><seg type="rp">（</seg><seg type="rt">にほ</seg><seg type="rp">）</seg></seg>ひをなくした上、食べることにしようと思つたのさ。<lb />
 　子　それから？<lb />
-　父　それから<span rend="SESAME_DOT" rendition="strong">らつぱ</span>卒は覚悟をきめて、力一ぱい持つてゐた<span rend="SESAME_DOT" rendition="strong">らつぱ</span>を虎のお尻へ突き立てたとさ。虎は痛いのにびつくりして、どんどん町の方へ逃げ出したとさ。<lb />
+　父　それから<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg>卒は覚悟をきめて、力一ぱい持つてゐた<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg>を虎のお尻へ突き立てたとさ。虎は痛いのにびつくりして、どんどん町の方へ逃げ出したとさ。<lb />
 　子　死ななかつたの？<lb />
-　父　そのうちに町のまん中へ来ると、とうとうお尻の傷の為に倒れて死んでしまつたとさ。けれどもお尻に立つてゐた<span rend="SESAME_DOT" rendition="strong">らつぱ</span>は虎の死んでしまふまで、ぶうぶう鳴りつづけに鳴つてゐたとさ。<lb />
-　子　（笑ふ）<span rend="SESAME_DOT" rendition="strong">らつぱ</span>卒は？<lb />
-　父　<span rend="SESAME_DOT" rendition="strong">らつぱ</span>卒は大へん褒められて虎退治の<span type="ruby"><span type="rb">御褒美</span><span type="rp">（</span><span type="rt">ごはうび</span><span type="rp">）</span></span>を貰つたつて……さあ、それでおしまひだよ。<lb />
+　父　そのうちに町のまん中へ来ると、とうとうお尻の傷の為に倒れて死んでしまつたとさ。けれどもお尻に立つてゐた<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg>は虎の死んでしまふまで、ぶうぶう鳴りつづけに鳴つてゐたとさ。<lb />
+　子　（笑ふ）<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg>卒は？<lb />
+　父　<seg rend="SESAME_DOT" rendition="strong">らつぱ</seg>卒は大へん褒められて虎退治の<seg type="ruby"><seg type="rb">御褒美</seg><seg type="rp">（</seg><seg type="rt">ごはうび</seg><seg type="rp">）</seg></seg>を貰つたつて……さあ、それでおしまひだよ。<lb />
 　子　いやだ。何かもう一つ。<lb />
 　父　今度は虎の話ぢやないよ。<lb />
 　子　ううん、今度も虎のお話をして。<lb />
-　父　そんなに虎の話ばかりありやしない。ええと、何かなかつたかな？……ああ、ぢやもう一つして上げよう。これも朝鮮の猟師がね、或山奥へ狩をしに行つたら、<span type="ruby"><span type="rb">丁度</span><span type="rp">（</span><span type="rt">ちやうど</span><span type="rp">）</span></span>目の下の谷底に虎が一匹歩いてゐたとさ。<lb />
+　父　そんなに虎の話ばかりありやしない。ええと、何かなかつたかな？……ああ、ぢやもう一つして上げよう。これも朝鮮の猟師がね、或山奥へ狩をしに行つたら、<seg type="ruby"><seg type="rb">丁度</seg><seg type="rp">（</seg><seg type="rt">ちやうど</seg><seg type="rp">）</seg></seg>目の下の谷底に虎が一匹歩いてゐたとさ。<lb />
 　子　大きい虎？<lb />
-　父　うん、大きい虎がね。猟師は<span type="ruby"><span type="rb">好</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>い獲物だと思つて<span type="ruby"><span type="rb">早速</span><span type="rp">（</span><span type="rt">さつそく</span><span type="rp">）</span></span>鉄砲へ玉をこめたとさ。<lb />
+　父　うん、大きい虎がね。猟師は<seg type="ruby"><seg type="rb">好</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>い獲物だと思つて<seg type="ruby"><seg type="rb">早速</seg><seg type="rp">（</seg><seg type="rt">さつそく</seg><seg type="rp">）</seg></seg>鉄砲へ玉をこめたとさ。<lb />
 　子　打つたの？<lb />
-　父　ところが打たうとした時にね、虎はいきなり身をちぢめたと思ふと、向うの大岩に飛びあがつたとさ。けれども宙へ躍り上つたぎり、<span type="ruby"><span type="rb">生憎</span><span type="rp">（</span><span type="rt">あいにく</span><span type="rp">）</span></span>大岩へとどかないうちに地びたへ落ちてしまつたとさ。<lb />
+　父　ところが打たうとした時にね、虎はいきなり身をちぢめたと思ふと、向うの大岩に飛びあがつたとさ。けれども宙へ躍り上つたぎり、<seg type="ruby"><seg type="rb">生憎</seg><seg type="rp">（</seg><seg type="rt">あいにく</seg><seg type="rp">）</seg></seg>大岩へとどかないうちに地びたへ落ちてしまつたとさ。<lb />
 　子　それから？<lb />
 　父　それから虎はもう一度もとの処へ帰つて来た上、又大岩へ飛びかかつたとさ。<lb />
 　子　今度はうまく飛びついた？<lb />
-　父　今度もまた落ちてしまつたとさ。すると<span type="ruby"><span type="rb">如何</span><span type="rp">（</span><span type="rt">いか</span><span type="rp">）</span></span>にも<span type="ruby"><span type="rb">羞</span><span type="rp">（</span><span type="rt">はづか</span><span type="rp">）</span></span>しさうに長い<span type="ruby"><span type="rb">尻</span><span type="rp">（</span><span type="rt">し</span><span type="rp">）</span></span>つ<span type="ruby"><span type="rb">尾</span><span type="rp">（</span><span type="rt">ぽ</span><span type="rp">）</span></span>を垂らしたなり、<span type="ruby"><span type="rb">何処</span><span type="rp">（</span><span type="rt">どこ</span><span type="rp">）</span></span>かへ行つてしまつたとさ。<lb />
+　父　今度もまた落ちてしまつたとさ。すると<seg type="ruby"><seg type="rb">如何</seg><seg type="rp">（</seg><seg type="rt">いか</seg><seg type="rp">）</seg></seg>にも<seg type="ruby"><seg type="rb">羞</seg><seg type="rp">（</seg><seg type="rt">はづか</seg><seg type="rp">）</seg></seg>しさうに長い<seg type="ruby"><seg type="rb">尻</seg><seg type="rp">（</seg><seg type="rt">し</seg><seg type="rp">）</seg></seg>つ<seg type="ruby"><seg type="rb">尾</seg><seg type="rp">（</seg><seg type="rt">ぽ</seg><seg type="rp">）</seg></seg>を垂らしたなり、<seg type="ruby"><seg type="rb">何処</seg><seg type="rp">（</seg><seg type="rt">どこ</seg><seg type="rp">）</seg></seg>かへ行つてしまつたとさ。<lb />
 　子　ぢや虎は打たなかつたの？<lb />
-　父　うん、あんまりその<span type="ruby"><span type="rb">容子</span><span type="rp">（</span><span type="rt">ようす</span><span type="rp">）</span></span>が人間のやうに見えたもんだから、<span type="ruby"><span type="rb">可哀</span><span type="rp">（</span><span type="rt">かはい</span><span type="rp">）</span></span>さうになつてよしてしまつたつて。<lb />
+　父　うん、あんまりその<seg type="ruby"><seg type="rb">容子</seg><seg type="rp">（</seg><seg type="rt">ようす</seg><seg type="rp">）</seg></seg>が人間のやうに見えたもんだから、<seg type="ruby"><seg type="rb">可哀</seg><seg type="rp">（</seg><seg type="rt">かはい</seg><seg type="rp">）</seg></seg>さうになつてよしてしまつたつて。<lb />
 　子　つまらないなあ、そんなお話。何かもう一つ虎のお話をして。<lb />
 　父　もう一つ？　今度は猫の話をしよう。長靴をはいた猫の話を。<lb />
 　子　ううん、もう一つ虎のお話をして。<lb />
-　父　仕かたがないな。……ぢや昔大きい虎がね。子虎を三匹持つてゐたとさ。虎はいつも日暮になると三匹の子虎と遊んでゐたとさ。それから<span type="ruby"><span type="rb">夜</span><span type="rp">（</span><span type="rt">よる</span><span type="rp">）</span></span>は<span type="ruby"><span type="rb">洞穴</span><span type="rp">（</span><span type="rt">ほらあな</span><span type="rp">）</span></span>へはひつて三匹の子虎と一しよに寝たとさ。……おい、寝ちまつちやいけないよ。<lb />
+　父　仕かたがないな。……ぢや昔大きい虎がね。子虎を三匹持つてゐたとさ。虎はいつも日暮になると三匹の子虎と遊んでゐたとさ。それから<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よる</seg><seg type="rp">）</seg></seg>は<seg type="ruby"><seg type="rb">洞穴</seg><seg type="rp">（</seg><seg type="rt">ほらあな</seg><seg type="rp">）</seg></seg>へはひつて三匹の子虎と一しよに寝たとさ。……おい、寝ちまつちやいけないよ。<lb />
 　子　（眠むさうに）うん。<lb />
-　父　ところが或秋の日の暮、虎は猟師の矢を受けて、死なないばかりになつて帰つて来たとさ。<span type="ruby"><span type="rb">何</span><span type="rp">（</span><span type="rt">なん</span><span type="rp">）</span></span>にも知らない三匹の子虎は<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">すぐ</span><span type="rp">）</span></span>に虎にじやれついたとさ。すると虎はいつものやうに躍つたり<span type="ruby"><span type="rb">跳</span><span type="rp">（</span><span type="rt">はね</span><span type="rp">）</span></span>たりして遊んだとさ。それから又夜もいつものやうに洞穴へはひつて一しよに寝たとさ。けれども夜明けになつて見ると、虎は、いつか三匹の子虎のまん中へはひつて死んでゐたとさ。子虎は皆驚いて、……おい、おきてゐるかい？<lb />
+　父　ところが或秋の日の暮、虎は猟師の矢を受けて、死なないばかりになつて帰つて来たとさ。<seg type="ruby"><seg type="rb">何</seg><seg type="rp">（</seg><seg type="rt">なん</seg><seg type="rp">）</seg></seg>にも知らない三匹の子虎は<seg type="ruby"><seg type="rb">直</seg><seg type="rp">（</seg><seg type="rt">すぐ</seg><seg type="rp">）</seg></seg>に虎にじやれついたとさ。すると虎はいつものやうに躍つたり<seg type="ruby"><seg type="rb">跳</seg><seg type="rp">（</seg><seg type="rt">はね</seg><seg type="rp">）</seg></seg>たりして遊んだとさ。それから又夜もいつものやうに洞穴へはひつて一しよに寝たとさ。けれども夜明けになつて見ると、虎は、いつか三匹の子虎のまん中へはひつて死んでゐたとさ。子虎は皆驚いて、……おい、おきてゐるかい？<lb />
 　子　（寝入つて答へをしない）……<lb />
 　父　おい、誰かゐないか？　こいつはもう寝てしまつたよ。<lb />
 　遠くで「はい、唯今」といふ返事が聞える。<lb />
-<span rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">（大正十四年十二月）</span>
+<seg rend="chitsuki_1" rendition="div" style="text-align:right; margin-right: 1em">（大正十四年十二月）</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

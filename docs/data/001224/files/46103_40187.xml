@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2010-08-24">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※()" />」三一書房<lb />
+底本：「久生十蘭全集　<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※()" />」三一書房<lb />
 　　　1970（昭和45）年1月31日第1版第1刷発行<lb />
 　　　1975（昭和50）年6月15日第1版第3刷発行<lb />
 初出：「別冊週刊朝日」<lb />
@@ -36,27 +36,27 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-　京都所司代、<span type="ruby"><span type="rb">御式方</span><span type="rp">（</span><span type="rt">おしきかた</span><span type="rp">）</span></span>頭取、阪田出雲の下役に堀金十郎という渡り祐筆がいた。<lb />
-　御儒者衆、堀玄昌の三男で、江戸にいればやすやすと<span type="ruby"><span type="rb">御番入</span><span type="rp">（</span><span type="rt">ごばんいり</span><span type="rp">）</span></span>もできる御家人並の身分だが、のどかすぎる気質なので、荒けた<span type="ruby"><span type="rb">東</span><span type="rp">（</span><span type="rt">あずま</span><span type="rp">）</span></span>の風が肌にあわない。江戸を離れて上方へ流れだし、なんということもなく、京都に住みついてしまった。<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+　京都所司代、<seg type="ruby"><seg type="rb">御式方</seg><seg type="rp">（</seg><seg type="rt">おしきかた</seg><seg type="rp">）</seg></seg>頭取、阪田出雲の下役に堀金十郎という渡り祐筆がいた。<lb />
+　御儒者衆、堀玄昌の三男で、江戸にいればやすやすと<seg type="ruby"><seg type="rb">御番入</seg><seg type="rp">（</seg><seg type="rt">ごばんいり</seg><seg type="rp">）</seg></seg>もできる御家人並の身分だが、のどかすぎる気質なので、荒けた<seg type="ruby"><seg type="rb">東</seg><seg type="rp">（</seg><seg type="rt">あずま</seg><seg type="rp">）</seg></seg>の風が肌にあわない。江戸を離れて上方へ流れだし、なんということもなく、京都に住みついてしまった。<lb />
 　筆なめピンコともいう、渡り祐筆の給金は三両一人扶持。これが出世すると、七両と二人扶持をもらって渡り用人になるのだが、そこまでもいかない。<lb />
-　泉通りにある御用所の長屋をもらい、三十になっても独身で、<span type="ruby"><span type="rb">雇三一</span><span type="rp">（</span><span type="rt">やといさんぴん</span><span type="rp">）</span></span>の気楽な境界に安着しているようだったが、天保七年の<span type="ruby"><span type="rb">飢饉</span><span type="rp">（</span><span type="rt">ききん</span><span type="rp">）</span></span>のさなかに、烏丸中納言のおん息女、知嘉姫さまという<span facs="../../../gaiji/1-91/1-91-26.png" rend="gaiji" rendition="img" source="※(「藹」の「言」に代えて「月」、第3水準1-91-26)" />たき方を手に入れ、<span type="ruby"><span type="rb">青</span><span type="rp">（</span><span type="rt">あお</span><span type="rp">）</span></span>女房にして長屋におさめた。烏丸中納言は十年にわたる飢饉を凌ぎかね、三両と米一斗で知嘉姫を売り<span type="ruby"><span type="rb">沽</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>かしたという説もあるが、この縁組みを望んだのは、知嘉姫そのひとだったので、そういう事実はなかったようである。<lb />
+　泉通りにある御用所の長屋をもらい、三十になっても独身で、<seg type="ruby"><seg type="rb">雇三一</seg><seg type="rp">（</seg><seg type="rt">やといさんぴん</seg><seg type="rp">）</seg></seg>の気楽な境界に安着しているようだったが、天保七年の<seg type="ruby"><seg type="rb">飢饉</seg><seg type="rp">（</seg><seg type="rt">ききん</seg><seg type="rp">）</seg></seg>のさなかに、烏丸中納言のおん息女、知嘉姫さまという<seg facs="../../../gaiji/1-91/1-91-26.png" rend="gaiji" rendition="img" source="※(「藹」の「言」に代えて「月」、第3水準1-91-26)" />たき方を手に入れ、<seg type="ruby"><seg type="rb">青</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>女房にして長屋におさめた。烏丸中納言は十年にわたる飢饉を凌ぎかね、三両と米一斗で知嘉姫を売り<seg type="ruby"><seg type="rb">沽</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>かしたという説もあるが、この縁組みを望んだのは、知嘉姫そのひとだったので、そういう事実はなかったようである。<lb />
 　所司代御式方というのは、堂上諸家への進上物、寒暑吉凶の見舞、奉書の取次などをつかさどる役だが、久しい以前からの慣習で、春の節句に、諸家の奥向きへ、お土産といって江戸小間物を進上するのが式例になっている。<lb />
 　御用所用人の役目で、物書などの出る幕ではないのだが、その年は事務繁多で手繰りがつかず、金十郎が用人並に格上げされて邸廻りをした。<lb />
-　天保元年に、京都に地震があり、ほうぼうの<span type="ruby"><span type="rb">築地</span><span type="rp">（</span><span type="rt">ついじ</span><span type="rp">）</span></span>や<span type="ruby"><span type="rb">下屋</span><span type="rp">（</span><span type="rt">げや</span><span type="rp">）</span></span>が倒壊したが、その修理もまだできていない。公卿の館も堂上の邸も、おどろしいばかりに荒れはて、人間の住居とも思われない。<lb />
-　金十郎は<span type="ruby"><span type="rb">階</span><span type="rp">（</span><span type="rt">かい</span><span type="rp">）</span></span>ノ間に通って、几帳の奥にいる方に進物の口上を披露するのだが、行く先々で<span type="ruby"><span type="rb">見物</span><span type="rp">（</span><span type="rt">みもの</span><span type="rp">）</span></span>にされるのでやつれてしまった。摂家も清華も、貧乏なくせに位ばかり高く、位負けして適齢を越えても、嫁に行くことができない。そういうお姫さま方が、人懐しそうに几帳の陰からジッとこちらを見る。黒い眼が金十郎の顔に吸いついて離れない。<lb />
-　あえかにも美しいひとたちが、<span type="ruby"><span type="rb">五十</span><span type="rp">（</span><span type="rt">いそ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">皺面</span><span type="rp">（</span><span type="rt">しわおもて</span><span type="rp">）</span></span>に仇な化粧をし、几帳の陰でひっそりと朽ちて行くのかと思うと、いかにもあわれである。力に及ぶことなら、不幸な境界からひきだしてやりたい。そういう<span type="ruby"><span type="rb">鬱懐</span><span type="rp">（</span><span type="rt">うっかい</span><span type="rp">）</span></span>があるので、烏丸中納言の館に上ったとき、つい思いが迫って、几帳の奥のひとに口説きかけたら、うれしく思います、という返事があった。<lb />
-　ひと月もたたぬうちに、そのことは御用所じゅうに知れわたった。所司代の手付、掛川藩の<span type="ruby"><span type="rb">士</span><span type="rp">（</span><span type="rt">さむらい</span><span type="rp">）</span></span>はすれっからしが多いので、やっかみ半分にいろいろなことをいう。<lb />
+　天保元年に、京都に地震があり、ほうぼうの<seg type="ruby"><seg type="rb">築地</seg><seg type="rp">（</seg><seg type="rt">ついじ</seg><seg type="rp">）</seg></seg>や<seg type="ruby"><seg type="rb">下屋</seg><seg type="rp">（</seg><seg type="rt">げや</seg><seg type="rp">）</seg></seg>が倒壊したが、その修理もまだできていない。公卿の館も堂上の邸も、おどろしいばかりに荒れはて、人間の住居とも思われない。<lb />
+　金十郎は<seg type="ruby"><seg type="rb">階</seg><seg type="rp">（</seg><seg type="rt">かい</seg><seg type="rp">）</seg></seg>ノ間に通って、几帳の奥にいる方に進物の口上を披露するのだが、行く先々で<seg type="ruby"><seg type="rb">見物</seg><seg type="rp">（</seg><seg type="rt">みもの</seg><seg type="rp">）</seg></seg>にされるのでやつれてしまった。摂家も清華も、貧乏なくせに位ばかり高く、位負けして適齢を越えても、嫁に行くことができない。そういうお姫さま方が、人懐しそうに几帳の陰からジッとこちらを見る。黒い眼が金十郎の顔に吸いついて離れない。<lb />
+　あえかにも美しいひとたちが、<seg type="ruby"><seg type="rb">五十</seg><seg type="rp">（</seg><seg type="rt">いそ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">皺面</seg><seg type="rp">（</seg><seg type="rt">しわおもて</seg><seg type="rp">）</seg></seg>に仇な化粧をし、几帳の陰でひっそりと朽ちて行くのかと思うと、いかにもあわれである。力に及ぶことなら、不幸な境界からひきだしてやりたい。そういう<seg type="ruby"><seg type="rb">鬱懐</seg><seg type="rp">（</seg><seg type="rt">うっかい</seg><seg type="rp">）</seg></seg>があるので、烏丸中納言の館に上ったとき、つい思いが迫って、几帳の奥のひとに口説きかけたら、うれしく思います、という返事があった。<lb />
+　ひと月もたたぬうちに、そのことは御用所じゅうに知れわたった。所司代の手付、掛川藩の<seg type="ruby"><seg type="rb">士</seg><seg type="rp">（</seg><seg type="rt">さむらい</seg><seg type="rp">）</seg></seg>はすれっからしが多いので、やっかみ半分にいろいろなことをいう。<lb />
 「金十郎、ここへ来い。早いとこをやったな。ときに、どんなようすだったえ。隠すことはない、わしにもおぼえがあるのだ。几帳の陰から見つめられ、それでコロリと落っこちたか」<lb />
 「ははっ」<lb />
-「それが、たいへんなまちがい。わしも感ちがいをして眼の色を変えたが、<span type="ruby"><span type="rb">後々</span><span type="rp">（</span><span type="rt">のちのち</span><span type="rp">）</span></span>に、ありようが知れたよ。お娘たちは、ああいう窮屈な世界にいて、半年も前から江戸の土産を待ちこがれている。几帳の陰から<span type="ruby"><span type="rb">嘱目</span><span type="rp">（</span><span type="rt">しょくもく</span><span type="rp">）</span></span>しているのは、わしではなくて、わしの前にある土産のことだったのだわい……。<lb />
-　一口に<span type="ruby"><span type="rb">歌</span><span type="rp">（</span><span type="rt">うた</span><span type="rp">）</span></span><span type="ruby"><span type="rb">手蹟</span><span type="rp">（</span><span type="rt">て</span><span type="rp">）</span></span>マラというが、公卿どもは、和歌と書道と女色のほか、楽しみがないゆえ、うようよと子供ばかりこしらえおる。知嘉というのは、何十人目の姫か知らぬが、烏丸では相手が悪い。<span type="ruby"><span type="rb">可哀想</span><span type="rp">（</span><span type="rt">かいそ</span><span type="rp">）</span></span>な、おのしも、しっかりハタリとられるこったろうよ」<lb />
+「それが、たいへんなまちがい。わしも感ちがいをして眼の色を変えたが、<seg type="ruby"><seg type="rb">後々</seg><seg type="rp">（</seg><seg type="rt">のちのち</seg><seg type="rp">）</seg></seg>に、ありようが知れたよ。お娘たちは、ああいう窮屈な世界にいて、半年も前から江戸の土産を待ちこがれている。几帳の陰から<seg type="ruby"><seg type="rb">嘱目</seg><seg type="rp">（</seg><seg type="rt">しょくもく</seg><seg type="rp">）</seg></seg>しているのは、わしではなくて、わしの前にある土産のことだったのだわい……。<lb />
+　一口に<seg type="ruby"><seg type="rb">歌</seg><seg type="rp">（</seg><seg type="rt">うた</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">手蹟</seg><seg type="rp">（</seg><seg type="rt">て</seg><seg type="rp">）</seg></seg>マラというが、公卿どもは、和歌と書道と女色のほか、楽しみがないゆえ、うようよと子供ばかりこしらえおる。知嘉というのは、何十人目の姫か知らぬが、烏丸では相手が悪い。<seg type="ruby"><seg type="rb">可哀想</seg><seg type="rp">（</seg><seg type="rt">かいそ</seg><seg type="rp">）</seg></seg>な、おのしも、しっかりハタリとられるこったろうよ」<lb />
 　烏丸中納言は奇人の聞えの高いお公卿で、毎年四月、日光例幣使の副使として、往きは中仙道、帰りは江戸をまわって東海道を通るが、両便と泊りのほか、いつも横になって眠っているので、名所はもとより、いまもって宿駅の名も知らない。街道筋で、引戸の間から足の出ている駕籠があったら、烏丸中納言が乗っていると思え、というくらいのものである。<lb />
-　豆腐が好きで、何年となく<span type="ruby"><span type="rb">御菜</span><span type="rp">（</span><span type="rt">ごさい</span><span type="rp">）</span></span>（出入り御用商人）から借りては食い、借りては食いしているうちに、塵積もって山となり、償う方便がたたず、嘉代という三ノ姫を、時を切って豆腐屋へ質においたという話は、金十郎も聞いていた。<lb />
-「恐れることはない。一条の姫も九条の姫も凡下に身をおとして、飛騨の山奥まで輿入れする時世だ。いずれは尼になるべきところを、引きだしてやるのは<span type="ruby"><span type="rb">徳行</span><span type="rp">（</span><span type="rt">とっこう</span><span type="rp">）</span></span>のうちだと思え。<lb />
-　それはそれとして、烏丸は<span type="ruby"><span type="rb">糧</span><span type="rp">（</span><span type="rt">かて</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">代</span><span type="rp">（</span><span type="rt">しろ</span><span type="rp">）</span></span>に姫を売り<span type="ruby"><span type="rb">沽</span><span type="rp">（</span><span type="rt">こ</span><span type="rp">）</span></span>かし、そうばかりして、食いつないできたといううわさがある。姫たちも、みな、よく働く<span type="ruby"><span type="rb">鵜</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>で、気のいい男にもたれこみ、自在に、<span type="ruby"><span type="rb">嚥</span><span type="rp">（</span><span type="rt">の</span><span type="rp">）</span></span>みこんだり吐きだしたりするそうな。心得までに言って聞かせるのだが」<lb />
+　豆腐が好きで、何年となく<seg type="ruby"><seg type="rb">御菜</seg><seg type="rp">（</seg><seg type="rt">ごさい</seg><seg type="rp">）</seg></seg>（出入り御用商人）から借りては食い、借りては食いしているうちに、塵積もって山となり、償う方便がたたず、嘉代という三ノ姫を、時を切って豆腐屋へ質においたという話は、金十郎も聞いていた。<lb />
+「恐れることはない。一条の姫も九条の姫も凡下に身をおとして、飛騨の山奥まで輿入れする時世だ。いずれは尼になるべきところを、引きだしてやるのは<seg type="ruby"><seg type="rb">徳行</seg><seg type="rp">（</seg><seg type="rt">とっこう</seg><seg type="rp">）</seg></seg>のうちだと思え。<lb />
+　それはそれとして、烏丸は<seg type="ruby"><seg type="rb">糧</seg><seg type="rp">（</seg><seg type="rt">かて</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">代</seg><seg type="rp">（</seg><seg type="rt">しろ</seg><seg type="rp">）</seg></seg>に姫を売り<seg type="ruby"><seg type="rb">沽</seg><seg type="rp">（</seg><seg type="rt">こ</seg><seg type="rp">）</seg></seg>かし、そうばかりして、食いつないできたといううわさがある。姫たちも、みな、よく働く<seg type="ruby"><seg type="rb">鵜</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>で、気のいい男にもたれこみ、自在に、<seg type="ruby"><seg type="rb">嚥</seg><seg type="rp">（</seg><seg type="rt">の</seg><seg type="rp">）</seg></seg>みこんだり吐きだしたりするそうな。心得までに言って聞かせるのだが」<lb />
 　館や家具調度だけが荘重で、食餌がお粗末なのは王朝以来のならわしで、貧乏公卿の家族は、むかしから、人間の食うようなものは食っていない。<lb />
-　親王家と五摂家には、御入用調役というものがついていて、体面を維持する程度のことをしてくれるが、大臣家、羽林家と下ると、そういう保証もないので、朝は薄い茶粥に胡麻塩、昼は一汁一菜に盛りっきりの麦飯、あとは翌朝まで、咽喉を通るのは水ばかりという、詰りきった暮しをしているところへ、天保四年の飢饉のたたりで水のような粥にも事欠くようになり、大方は米糠や<span type="ruby"><span type="rb">麦糠</span><span type="rp">（</span><span type="rt">ふすま</span><span type="rp">）</span></span>を糧にし、対屋の梁を伝う、やまかがしや青大将はご馳走のうちで、荘園の上りを持たぬ官務や神祇官は、<span type="ruby"><span type="rb">蕨</span><span type="rp">（</span><span type="rt">わらび</span><span type="rp">）</span></span>根や笹の実を粉にして、枯渇した腹の養いにしているという。<lb />
+　親王家と五摂家には、御入用調役というものがついていて、体面を維持する程度のことをしてくれるが、大臣家、羽林家と下ると、そういう保証もないので、朝は薄い茶粥に胡麻塩、昼は一汁一菜に盛りっきりの麦飯、あとは翌朝まで、咽喉を通るのは水ばかりという、詰りきった暮しをしているところへ、天保四年の飢饉のたたりで水のような粥にも事欠くようになり、大方は米糠や<seg type="ruby"><seg type="rb">麦糠</seg><seg type="rp">（</seg><seg type="rt">ふすま</seg><seg type="rp">）</seg></seg>を糧にし、対屋の梁を伝う、やまかがしや青大将はご馳走のうちで、荘園の上りを持たぬ官務や神祇官は、<seg type="ruby"><seg type="rb">蕨</seg><seg type="rp">（</seg><seg type="rt">わらび</seg><seg type="rp">）</seg></seg>根や笹の実を粉にして、枯渇した腹の養いにしているという。<lb />
 　烏丸中納言が引婿の納采をあてにして、姫たちを風に吹かせるような真似をしても、とても憎めるわけのものではない。几帳の陰のひとをあわれと思うにつけ、思いは募って、とりとめないほどになった。<lb />
 <lb />
 　　　　　◇<lb />
@@ -64,72 +64,72 @@
 　その年は気候不順で、四月をすぎても春のけはいも見えず、北風が吹いて、霖雨がつづき、五月の中ごろに霜がおり、池の水が凍った。近江では、稲の穂が葉のうちに隠れて花もかからず、米の値は一升二百文にはねあがって、またもや大飢饉の様相になった。<lb />
 　春の終りごろ、なにやら奥床しい、よく意味のとれぬ歌のたよりがあったきり、中絶えて消息も聞かなかったが、五月の末、思いがけなく、烏丸中納言から迎えの文があった。<lb />
 　金十郎はおそれ畏み、さっそくお館に推参すると、中納言は昼寝でもしていたのだとみえ、気だるそうなようすで、影のようにうそうそと、廊ノ間へ出て来た。<lb />
-　細面の頬がこけ、口が尖り、薄手な口髯をさげている。<span type="ruby"><span type="rb">戯画</span><span type="rp">（</span><span type="rt">ざれえ</span><span type="rp">）</span></span>に描く公卿面にそのままで、いっこうに威儀がなく、気魄薄げな人体であった。冠もつけず、円座のうえに足を組んで坐ると、<span type="ruby"><span type="rb">五音</span><span type="rp">（</span><span type="rt">ごいん</span><span type="rp">）</span></span>をはずしたうつろな声で、いきなりこんなことをいった。<lb />
-「あまりの<span type="ruby"><span type="rb">飢</span><span type="rp">（</span><span type="rt">ひだる</span><span type="rp">）</span></span>さに、塗篭へ入って寝てみたが、夢ばかり見て眠りにならぬよ」<lb />
+　細面の頬がこけ、口が尖り、薄手な口髯をさげている。<seg type="ruby"><seg type="rb">戯画</seg><seg type="rp">（</seg><seg type="rt">ざれえ</seg><seg type="rp">）</seg></seg>に描く公卿面にそのままで、いっこうに威儀がなく、気魄薄げな人体であった。冠もつけず、円座のうえに足を組んで坐ると、<seg type="ruby"><seg type="rb">五音</seg><seg type="rp">（</seg><seg type="rt">ごいん</seg><seg type="rp">）</seg></seg>をはずしたうつろな声で、いきなりこんなことをいった。<lb />
+「あまりの<seg type="ruby"><seg type="rb">飢</seg><seg type="rp">（</seg><seg type="rt">ひだる</seg><seg type="rp">）</seg></seg>さに、塗篭へ入って寝てみたが、夢ばかり見て眠りにならぬよ」<lb />
 　金十郎は廊ノ間の床に手を突いて平伏していると、中納言はいよいよおぼろな音声で、<lb />
-「夢といっても、たのしいような夢ではありえない。さる年の飢饉に、花山院の門跡は、どうせ死ぬものならと、経文を臼に搗き、糊にして食ろうて腹をふくらし、あら、うれしや、と笑うて死んだげな。それが夢に出てくるのよ。<span type="ruby"><span type="rb">躬</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>どもらの行末も、こうぞとおしえるように、枯木のように痩せ細った手で、餓鬼腹を叩いて見せるというわ」<lb />
+「夢といっても、たのしいような夢ではありえない。さる年の飢饉に、花山院の門跡は、どうせ死ぬものならと、経文を臼に搗き、糊にして食ろうて腹をふくらし、あら、うれしや、と笑うて死んだげな。それが夢に出てくるのよ。<seg type="ruby"><seg type="rb">躬</seg><seg type="rp">（</seg><seg type="rt">み</seg><seg type="rp">）</seg></seg>どもらの行末も、こうぞとおしえるように、枯木のように痩せ細った手で、餓鬼腹を叩いて見せるというわ」<lb />
 　中納言の掛言は、米を運んできて、舅の口を養えということなのだと察したので、一年先の切米を社倉から借りだし、上の方が面目を失わぬよう、夜闇にまぎれて二升ほどずつ運んでいるうちに、木の実が枝から離れ落ちるように、自然に知嘉姫との縁がまとまった。<lb />
-　<span type="ruby"><span type="rb">御菜</span><span type="rp">（</span><span type="rt">ごさい</span><span type="rp">）</span></span>の油屋が名親になって、ちかという凡下の娘に成り変り、至極無造作に金十郎の長屋におさまった。<lb />
+　<seg type="ruby"><seg type="rb">御菜</seg><seg type="rp">（</seg><seg type="rt">ごさい</seg><seg type="rp">）</seg></seg>の油屋が名親になって、ちかという凡下の娘に成り変り、至極無造作に金十郎の長屋におさまった。<lb />
 　夢の中で夢を見ているようで、金十郎にはどうしても現実のこととは思えない。このせつは書き物が山積し、御用所から下るのはたいてい夜になるが、帰れば空家が待っていそうで、長屋に入る前に、いちど出窓からのぞいて見るのがくせになった。<lb />
 　東の奉行所の角を鍵の手に曲ると、土蔵腰の上にずらりと長屋の出窓が並んでいる。<lb />
-　その曇ったような空に<span type="ruby"><span type="rb">雲篭</span><span type="rp">（</span><span type="rt">くもごり</span><span type="rp">）</span></span>の丸い月が出ている。金十郎は懐手をしながら、出窓を見あげていたが、いつもの癖が出て、駒止石の上にあがって、荒格子の中をのぞいてみた。<lb />
+　その曇ったような空に<seg type="ruby"><seg type="rb">雲篭</seg><seg type="rp">（</seg><seg type="rt">くもごり</seg><seg type="rp">）</seg></seg>の丸い月が出ている。金十郎は懐手をしながら、出窓を見あげていたが、いつもの癖が出て、駒止石の上にあがって、荒格子の中をのぞいてみた。<lb />
 　八畳、六畳の二間つづき、それに納戸という浅間なつくりで、そこからのぞけば、玄関まで一と眼で見とおしである。八畳の置床の前に、布巾をかけ箱膳を出し置き、ちかが丁字になった灯芯を切っている。馴れない仕事でたどたどしい。はさみを動かすたびに、桜小紋の薄袷の胸のあたりが、明るくなったり暗くなったりする。<lb />
-　つい半月ほど前、古びた調度にかこまれ、蘇芳色の小<span type="ruby"><span type="rb">袿</span><span type="rp">（</span><span type="rt">うちぎ</span><span type="rp">）</span></span>を着て、几帳の陰に坐っていた。金十郎の瞼の裏に、そのときのおもかげがはっきりと残っているのに、水色の手柄をかけた丸髷を結い、<span type="ruby"><span type="rb">繻子</span><span type="rp">（</span><span type="rt">しゅす</span><span type="rp">）</span></span>の帯をしめ長屋の青女房になりきっているのがふしぎでならない。<lb />
+　つい半月ほど前、古びた調度にかこまれ、蘇芳色の小<seg type="ruby"><seg type="rb">袿</seg><seg type="rp">（</seg><seg type="rt">うちぎ</seg><seg type="rp">）</seg></seg>を着て、几帳の陰に坐っていた。金十郎の瞼の裏に、そのときのおもかげがはっきりと残っているのに、水色の手柄をかけた丸髷を結い、<seg type="ruby"><seg type="rb">繻子</seg><seg type="rp">（</seg><seg type="rt">しゅす</seg><seg type="rp">）</seg></seg>の帯をしめ長屋の青女房になりきっているのがふしぎでならない。<lb />
 「女というものは、片付けようと思えば、どうにでも片付くものらしい」<lb />
-　出窓のかまちに両<span type="ruby"><span type="rb">肱</span><span type="rp">（</span><span type="rt">ひじ</span><span type="rp">）</span></span>をあずけ、金十郎が呆れ顔でつぶやいた。<lb />
+　出窓のかまちに両<seg type="ruby"><seg type="rb">肱</seg><seg type="rp">（</seg><seg type="rt">ひじ</seg><seg type="rp">）</seg></seg>をあずけ、金十郎が呆れ顔でつぶやいた。<lb />
 「それにしても、お美しいことだ」<lb />
 　なにもかも整いすぎ、それが障りで、人形のような無表情な顔になっているが、見ていると、心がはずみだすほど美しい。<lb />
 　二人の結びつきは、恋というようなものではなかった。美しいちかの顔を、美しいと思ってながめていられるのが、その証拠である。恋ではない、なにかべつなものだ。<lb />
-　こちらには、もろい、かよわいものをかばい、世話をしてやりたいという強い気持がある。むこうには、この男なら頼りになる、末始終、<span type="ruby"><span type="rb">劬</span><span type="rp">（</span><span type="rt">いたわ</span><span type="rp">）</span></span>ってくれるだろうという信頼の念がある。そういうかたちのものらしい。<lb />
+　こちらには、もろい、かよわいものをかばい、世話をしてやりたいという強い気持がある。むこうには、この男なら頼りになる、末始終、<seg type="ruby"><seg type="rb">劬</seg><seg type="rp">（</seg><seg type="rt">いたわ</seg><seg type="rp">）</seg></seg>ってくれるだろうという信頼の念がある。そういうかたちのものらしい。<lb />
 　そうして、どうやらそれは食の道につながっているようである。知嘉姫が長屋に入りこんできた夜、はからずもそれを見抜いた。<lb />
 　塗の剥げた飯櫃に、炊きたての飯を移して膳のわきにすえてやると、知嘉姫は、<lb />
-「<span type="ruby"><span type="rb">白飯</span><span type="rp">（</span><span type="rt">こわかれい</span><span type="rp">）</span></span>を、こんなにもたくさんいただけるのでしょうか」と顔をうつむけて涙ぐみ、食うわ、食うわ、見ていても気持のいいほど、あざやかに食いぬけ、箸をおくと畳に手をついて、<lb />
+「<seg type="ruby"><seg type="rb">白飯</seg><seg type="rp">（</seg><seg type="rt">こわかれい</seg><seg type="rp">）</seg></seg>を、こんなにもたくさんいただけるのでしょうか」と顔をうつむけて涙ぐみ、食うわ、食うわ、見ていても気持のいいほど、あざやかに食いぬけ、箸をおくと畳に手をついて、<lb />
 「足るほどに頂戴しました」<lb />
 　といって、ニッコリ笑った。<lb />
-　<span type="ruby"><span type="rb">行態</span><span type="rp">（</span><span type="rt">ぎょうたい</span><span type="rp">）</span></span>にも意外なことが多い。<span type="ruby"><span type="rb">身舎</span><span type="rp">（</span><span type="rt">むや</span><span type="rp">）</span></span>の薄闇の中に、ひっそりとしずまっているだけのひとだと思っていたが、長らくの貧乏に鍛えられてきたせいか、呆れるくらいしっかりしている。<lb />
-　翌朝、起きぬけに、<span type="ruby"><span type="rb">豆腐</span><span type="rp">（</span><span type="rt">おかべ</span><span type="rp">）</span></span>を売る店はどこ、八百屋はどことたずね、<span type="ruby"><span type="rb">笊</span><span type="rp">（</span><span type="rt">ざる</span><span type="rp">）</span></span>に鳥目を入れ、胸をそらして出て行った。あとで八百屋に聞くと、十二文という大根を姫言葉でまくしたてて二文負けさせ、帰りしなに、棚にあるオロヌキを、ひょいと一とつまみ取って帰ったということである。<lb />
-　そういう夢のような日が、しばらくはつづいたが、西国の米の<span type="ruby"><span type="rb">不熟毛</span><span type="rp">（</span><span type="rt">ふじゅくもう</span><span type="rp">）</span></span>のせいもあって、金十郎の手許がおいおいに詰ってきた。詰ったというのは食の道のことだが、一年の先の分まで借りだしたうえに、一人がかすかすにやっていく雀の涙ほどの切米を、舅にまで分けるのだから、くりまわしのつけようがない。<lb />
-　起きぬけに長屋を出て御用所で水を飲み、朝昼二度の<span type="ruby"><span type="rb">餉</span><span type="rp">（</span><span type="rt">け</span><span type="rp">）</span></span>をぬくことにしたが、六月になると西国総体に米が不足し、大阪からの廻米が途絶えてお倉の扶持米の<span type="ruby"><span type="rb">石</span><span type="rp">（</span><span type="rt">こく</span><span type="rp">）</span></span>が切れ、一人、日に二合という<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>扶持になり、舅の口どころか、知嘉姫に眼玉のうつるような薄い粥をすすらせることしかできなくなった。<lb />
+　<seg type="ruby"><seg type="rb">行態</seg><seg type="rp">（</seg><seg type="rt">ぎょうたい</seg><seg type="rp">）</seg></seg>にも意外なことが多い。<seg type="ruby"><seg type="rb">身舎</seg><seg type="rp">（</seg><seg type="rt">むや</seg><seg type="rp">）</seg></seg>の薄闇の中に、ひっそりとしずまっているだけのひとだと思っていたが、長らくの貧乏に鍛えられてきたせいか、呆れるくらいしっかりしている。<lb />
+　翌朝、起きぬけに、<seg type="ruby"><seg type="rb">豆腐</seg><seg type="rp">（</seg><seg type="rt">おかべ</seg><seg type="rp">）</seg></seg>を売る店はどこ、八百屋はどことたずね、<seg type="ruby"><seg type="rb">笊</seg><seg type="rp">（</seg><seg type="rt">ざる</seg><seg type="rp">）</seg></seg>に鳥目を入れ、胸をそらして出て行った。あとで八百屋に聞くと、十二文という大根を姫言葉でまくしたてて二文負けさせ、帰りしなに、棚にあるオロヌキを、ひょいと一とつまみ取って帰ったということである。<lb />
+　そういう夢のような日が、しばらくはつづいたが、西国の米の<seg type="ruby"><seg type="rb">不熟毛</seg><seg type="rp">（</seg><seg type="rt">ふじゅくもう</seg><seg type="rp">）</seg></seg>のせいもあって、金十郎の手許がおいおいに詰ってきた。詰ったというのは食の道のことだが、一年の先の分まで借りだしたうえに、一人がかすかすにやっていく雀の涙ほどの切米を、舅にまで分けるのだから、くりまわしのつけようがない。<lb />
+　起きぬけに長屋を出て御用所で水を飲み、朝昼二度の<seg type="ruby"><seg type="rb">餉</seg><seg type="rp">（</seg><seg type="rt">け</seg><seg type="rp">）</seg></seg>をぬくことにしたが、六月になると西国総体に米が不足し、大阪からの廻米が途絶えてお倉の扶持米の<seg type="ruby"><seg type="rb">石</seg><seg type="rp">（</seg><seg type="rt">こく</seg><seg type="rp">）</seg></seg>が切れ、一人、日に二合という<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">つら</seg><seg type="rp">）</seg></seg>扶持になり、舅の口どころか、知嘉姫に眼玉のうつるような薄い粥をすすらせることしかできなくなった。<lb />
 　あの夜の笑顔が忘れられない。十八年の貧苦で痩せ細ったひとに、充ち足るほど食いぬけさせ、輝きだすような笑顔を見ると、それで辛さもひだるさも忘れてしまう。<lb />
-　それだけを生きる張合にしていたが、口の端に通うものが<span type="ruby"><span type="rb">乏</span><span type="rp">（</span><span type="rt">とも</span><span type="rp">）</span></span>しくなるにつれ、知嘉姫は日増しにものを言わなくなった。このごろは小波ほどの微笑も見せなくなった、と思っているうちに、まだ露のある朝け、起きだして身じまいをすると、いつものように胸を反らして出て行ったが、夜になっても帰って来ない。<lb />
-　たぶん腹をすかして帰ってくるのだろうと、<span type="ruby"><span type="rb">竈突</span><span type="rp">（</span><span type="rt">くど</span><span type="rp">）</span></span>に土鍋をかけて粥を炊き、なけなしの鳥目をはたいて、何年か前の塩ぶりか、石のように固くなったのを買ってきて、焼いて向付けにし、すぐでもとりこめるように、飯櫃と箱膳を出しそろえて待っていたが、なかなか戻ってこない。<lb />
+　それだけを生きる張合にしていたが、口の端に通うものが<seg type="ruby"><seg type="rb">乏</seg><seg type="rp">（</seg><seg type="rt">とも</seg><seg type="rp">）</seg></seg>しくなるにつれ、知嘉姫は日増しにものを言わなくなった。このごろは小波ほどの微笑も見せなくなった、と思っているうちに、まだ露のある朝け、起きだして身じまいをすると、いつものように胸を反らして出て行ったが、夜になっても帰って来ない。<lb />
+　たぶん腹をすかして帰ってくるのだろうと、<seg type="ruby"><seg type="rb">竈突</seg><seg type="rp">（</seg><seg type="rt">くど</seg><seg type="rp">）</seg></seg>に土鍋をかけて粥を炊き、なけなしの鳥目をはたいて、何年か前の塩ぶりか、石のように固くなったのを買ってきて、焼いて向付けにし、すぐでもとりこめるように、飯櫃と箱膳を出しそろえて待っていたが、なかなか戻ってこない。<lb />
 　金十郎は子供の帰りを案じる子煩悩の父親のように長屋の門で夕月の出るまで待ち暮らしてから、神泉苑の辻へ行っておろおろと東西をながめ、また長屋まで駆け戻って、もしや帰っているかと出窓からのぞき、痩せるほどに気を揉んでいたが、四ツの鐘の音を聞くと、さすがにがっくりと疲れた。<lb />
 「恋だとは思えないが、これが恋というものなのか。ひだるさより、いとしさが先に立つというのは、おかしなことだ」<lb />
 　首を振り振り、塩をなめて水を飲み、行灯の前に坐って、ねずみの番をしながら、とうとう夜を明かしてしまった。<lb />
 　米が足らないのは不作のせいで、廻米に依存している京都では、禁裡の入用さえ痩せ細っている次第だから、貧乏に愛想をつかして逃げだしたとは思えない。ぬる茶を一ぱい飲んだだけで役所へ出たが、切米手形の発出をあずかる割場の下役が用人部屋へ遊びにきて、むだ話のついでに、こんなことをいった。<lb />
 「昨日、中納言の息女が見えて、おぬしの拝借米や御四季施代金の前借り、代渡し切手の裏判のことまで、くわしく調べて行った。京の女はこまかいそろばんをはじくというが、あんな女房を持っているとは、おうらやましいことだ」<lb />
 　詰りきった下士の台所を切りまわすには、亭主の内証を知っているほうが便利だろうが、まだ祝言もすまない長屋の青女房が、勘定割場まで差し出るのは、少々、念が入りすぎている。しっかり者とは知っているが、これには金十郎も、ちょっと脅えた。<lb />
-　どうしたのか、その夜も帰ってこない。実家へ遊びに行って、帰りそびれているのだろうと、召次の<span type="ruby"><span type="rb">舎人</span><span type="rp">（</span><span type="rt">とねり</span><span type="rp">）</span></span>に聞きあわせると、実家にお帰りはなかったという。御菜の油屋へも行っていない。尼院の築地の中にでも隠れこんだかと、足を棒にして、隈なく探しまわったが、消息ほどのものも、つかむことはできなかった。<lb />
+　どうしたのか、その夜も帰ってこない。実家へ遊びに行って、帰りそびれているのだろうと、召次の<seg type="ruby"><seg type="rb">舎人</seg><seg type="rp">（</seg><seg type="rt">とねり</seg><seg type="rp">）</seg></seg>に聞きあわせると、実家にお帰りはなかったという。御菜の油屋へも行っていない。尼院の築地の中にでも隠れこんだかと、足を棒にして、隈なく探しまわったが、消息ほどのものも、つかむことはできなかった。<lb />
 　八月十二日に大風が吹いた。八朔の朝、奥羽に吹き起って関東一帯を荒れまわり、田畑を流して不作にとどめを刺した。天保四年の夏嵐のつづきだが、京都の近郊では、樹々の倒れるもの数知れず、諸所の堤が切れて洪水になった。<lb />
-　長屋では、瓦が飛んで壁がぬけるという騒ぎで、朝までまんじりともしなかったが、明け方、風がしずまったところで、出窓の<span type="ruby"><span type="rb">蔀</span><span type="rp">（</span><span type="rt">しとみ</span><span type="rp">）</span></span>をあけに行くと、誰が投げこんだのか、小判で十両、紙に包んだのが、濡れ畳のうえにころがっていた。<lb />
+　長屋では、瓦が飛んで壁がぬけるという騒ぎで、朝までまんじりともしなかったが、明け方、風がしずまったところで、出窓の<seg type="ruby"><seg type="rb">蔀</seg><seg type="rp">（</seg><seg type="rt">しとみ</seg><seg type="rp">）</seg></seg>をあけに行くと、誰が投げこんだのか、小判で十両、紙に包んだのが、濡れ畳のうえにころがっていた。<lb />
 <lb />
 　　　　　◇<lb />
 <lb />
 　去年米は六月中に食いつくしたが、冷気でその年の米が実らず、奥羽は作毛皆無で、古今未曽有の大飢饉となった。奉行所では三条大詰河原に救小屋を建てて行倒れを収容したが、施米したいにも、ものがなく、救小屋に入ったものは、暮までに、大方、餓死した。<lb />
 　翌八年の春、金十郎は用人部屋から駆りだされて大阪に下り、川口の囲倉から廻米を受領して京都へ差送る、廻米下役をつとめていたが、そのころ湊入りした津軽船の上乗りから、知嘉姫の消息らしいものを聞いた。<lb />
 　諸国一般、飢饉にいためつけられ、生死の苦しみをしているうちに、津軽、出羽、越後は平作で、陸奥の半田から銀が出、宮古の沖には捕りたてもならぬほどくじらが寄り、米大尽やくじら分限が大勢できあがった。<lb />
-　京、大阪の<span type="ruby"><span type="rb">女衒</span><span type="rp">（</span><span type="rt">ぜげん</span><span type="rp">）</span></span>どもは、わずかばかりの金穀で貧乏公卿の息女を買い落し、みちのくの果てに送りだしたが、うそかまことか、その中に、烏丸中納言の息女と名乗るのがいたという話なのである。<lb />
-　八月はじめの大風の夜、出窓から投げこまれた金のなぞは、解けきれぬまま、心に<span type="ruby"><span type="rb">淀</span><span type="rp">（</span><span type="rt">よど</span><span type="rp">）</span></span>み残っていたが、その話を聞くなり、さてはと思いしめられることがあった。<lb />
+　京、大阪の<seg type="ruby"><seg type="rb">女衒</seg><seg type="rp">（</seg><seg type="rt">ぜげん</seg><seg type="rp">）</seg></seg>どもは、わずかばかりの金穀で貧乏公卿の息女を買い落し、みちのくの果てに送りだしたが、うそかまことか、その中に、烏丸中納言の息女と名乗るのがいたという話なのである。<lb />
+　八月はじめの大風の夜、出窓から投げこまれた金のなぞは、解けきれぬまま、心に<seg type="ruby"><seg type="rb">淀</seg><seg type="rp">（</seg><seg type="rt">よど</seg><seg type="rp">）</seg></seg>み残っていたが、その話を聞くなり、さてはと思いしめられることがあった。<lb />
 　金十郎は血相を変えて京都に馳せのぼると、上乗りに聞いた女衒宿を、八条猪熊でたずねあて、江戸品川の元宿へ、品物を送り届けて帰ってきたばかりという、ずるそうな面をした才蔵をとっておさえた。<lb />
 　脅しすかして問い詰めると、才蔵は頭を掻いて、文らしいものを預って腹巻へ落しこんで行ったが、なにしろあの大荒れなので、雨と汗のしめりで、糊のように溶けてしまった。これでは用にたつまいと思って、金だけ投げこんだが、文はとってあるから、読めるかどうか見てくれと、手箱から紙くそのようになった封じ文をつかみだしてよこした。<lb />
 　父は物臭で、なにひとつ娘たちに身の立つようなこともしてくれなかったが、一人々々が古沼の淀みから出て、幸福になることを、心から願っているので、世間で評判しているような、金穀でむすめを売り沽かすなどということはなかった。<lb />
 　こんどの縁談は父も祝福してくれたが、あなたが息を切らしながら米を運んで来るので、あいつめも、つまらぬうわさを信じているのだとみえると、ひどくがっかりしていた。<lb />
-　私どもは貧苦の世界に住み馴れ、どうあろうと、食の道などは、ものの数でもなかったのに、あなたは一年先の扶持米まで借りだし、代渡し手形に裏判をつき、二度の食をつめ、水を飲んでまでいたわってくださるのだが、その親切が<span type="ruby"><span type="rb">重石</span><span type="rp">（</span><span type="rt">おもし</span><span type="rp">）</span></span>になり、あるにあられぬ思いがした。<lb />
+　私どもは貧苦の世界に住み馴れ、どうあろうと、食の道などは、ものの数でもなかったのに、あなたは一年先の扶持米まで借りだし、代渡し手形に裏判をつき、二度の食をつめ、水を飲んでまでいたわってくださるのだが、その親切が<seg type="ruby"><seg type="rb">重石</seg><seg type="rp">（</seg><seg type="rt">おもし</seg><seg type="rp">）</seg></seg>になり、あるにあられぬ思いがした。<lb />
 　食うものがなければ、水を飲めといってくれればいいので、苦労を分けあうこそ、夫婦というものなのではなかろうか。<lb />
 　あの夜、切に、おそばへ帰りたくて、長屋の出窓の下をいくたびか往復し、おしずまりになるのを待っていたが、朝まで行灯のそばに坐っていられたので、そのため、とうとう帰りそびれてしまった。云々とある。<lb />
-　私は犬でもねこでもないのだから、<span type="ruby"><span type="rb">糧</span><span type="rp">（</span><span type="rt">かて</span><span type="rp">）</span></span>で飼われているのでは、いかにも空しい気がする、という意味なのであった。<lb />
+　私は犬でもねこでもないのだから、<seg type="ruby"><seg type="rb">糧</seg><seg type="rp">（</seg><seg type="rt">かて</seg><seg type="rp">）</seg></seg>で飼われているのでは、いかにも空しい気がする、という意味なのであった。<lb />
 　金十郎は人生のオリジナルな問題に触れることを避け、人間の愛憎のかからぬところで、自分一人で暮していたが、その罰で、善悪も、ときには深く人を傷つけることがあるという、簡単な愛の論理すらわからないようになってしまった。<lb />
-　金十郎はいちどは手の中にあった、大切なものを取り落したことに気がついて<span type="ruby"><span type="rb">愕然</span><span type="rp">（</span><span type="rt">がくぜん</span><span type="rp">）</span></span>とし、<span type="ruby"><span type="rb">石</span><span type="rp">（</span><span type="rt">こく</span><span type="rp">）</span></span>切れから、お暇勝手次第の触れが出たのを幸いに、御役ご免を願い、すぐにも<span type="ruby"><span type="rb">陸奥</span><span type="rp">（</span><span type="rt">みちのく</span><span type="rp">）</span></span>に下るつもりで、そうそうに江戸へ帰った。<lb />
-　父の顔も見るや見ずで、江戸を発ったのが六月の十日。千住の橋詰に関所ができ、江戸へ流れこもうとする難民の<span rend="notes">［＃「難民の」は底本では「離民の」］</span>大群を、十人ばかりの番士が、<lb />
+　金十郎はいちどは手の中にあった、大切なものを取り落したことに気がついて<seg type="ruby"><seg type="rb">愕然</seg><seg type="rp">（</seg><seg type="rt">がくぜん</seg><seg type="rp">）</seg></seg>とし、<seg type="ruby"><seg type="rb">石</seg><seg type="rp">（</seg><seg type="rt">こく</seg><seg type="rp">）</seg></seg>切れから、お暇勝手次第の触れが出たのを幸いに、御役ご免を願い、すぐにも<seg type="ruby"><seg type="rb">陸奥</seg><seg type="rp">（</seg><seg type="rt">みちのく</seg><seg type="rp">）</seg></seg>に下るつもりで、そうそうに江戸へ帰った。<lb />
+　父の顔も見るや見ずで、江戸を発ったのが六月の十日。千住の橋詰に関所ができ、江戸へ流れこもうとする難民の<seg rend="notes" rendition="span">［＃「難民の」は底本では「離民の」］</seg>大群を、十人ばかりの番士が、<lb />
 「江戸に米はない。帰れ、帰れ」<lb />
 　と必死になって押しかえそうとするが、相手は逆上しているので、なにを言っても通じない。前側にいるのを、とっては投げ、とっては投げしているうちに、川端にかがみこんでいた二百人ばかりの一団が、<lb />
 「お願い、お願い」<lb />
 　と連呼しながら、道幅いっぱいになって押しだしてきた。<lb />
 　番士は棒先をそろえて防いでいたが、そのうちに、手にあわなくなって刀を抜いた。難民は波がひくようにうしろに退ったが、すぐまた、お願い、お願いと哀訴しながら押してくる。<lb />
 　江戸の外は、えらいことになっているといううわさだったが、これほどとは思わなかった。江戸の北の口でさえ、こんな騒ぎをしているのでは、陸奥のようすが思われる。<lb />
-　江戸の千住から、津軽の<span type="ruby"><span type="rb">三厩</span><span type="rp">（</span><span type="rt">みうまや</span><span type="rp">）</span></span>まで、百八十里、百十四次の長い道中だが、街道には物取りや夜盗、飢えて気が狂った人間がひしめきあっているのだろうから、どんなおさまりになるか、想像もつかない。無事に津軽の果てに行き着いても、三厩のあたり、としか聞いていないので、知嘉姫にめぐりあえるのかどうか、それさえも不明である。<lb />
+　江戸の千住から、津軽の<seg type="ruby"><seg type="rb">三厩</seg><seg type="rp">（</seg><seg type="rt">みうまや</seg><seg type="rp">）</seg></seg>まで、百八十里、百十四次の長い道中だが、街道には物取りや夜盗、飢えて気が狂った人間がひしめきあっているのだろうから、どんなおさまりになるか、想像もつかない。無事に津軽の果てに行き着いても、三厩のあたり、としか聞いていないので、知嘉姫にめぐりあえるのかどうか、それさえも不明である。<lb />
 　千住を出離れたが、いよいよ数は増すばかり、難民の群れは奥州街道を埋めつくす勢いで、草加の近くまで切れ目もなくつづき、新宿、品川のお救小屋をあてにし、道端に足を投げだして待っている。越ヶ谷、粕壁を通って、その日は杉戸で泊った。<lb />
-　翌朝、<span type="ruby"><span type="rb">幸手</span><span type="rp">（</span><span type="rt">さって</span><span type="rp">）</span></span>から栗橋にかかり、渡舟の上からながめると、両岸は眼のとどくかぎり掘りかえされて赤土原になり、一点、青いものも眼に入らない。凶作地の上の空は、鳥も飛ばぬのか、森閑として物音もない。<lb />
+　翌朝、<seg type="ruby"><seg type="rb">幸手</seg><seg type="rp">（</seg><seg type="rt">さって</seg><seg type="rp">）</seg></seg>から栗橋にかかり、渡舟の上からながめると、両岸は眼のとどくかぎり掘りかえされて赤土原になり、一点、青いものも眼に入らない。凶作地の上の空は、鳥も飛ばぬのか、森閑として物音もない。<lb />
 　土手の松はみな樹皮を剥がれて裸になり、なにを探すのか、遠い野面に、二、三人ずつ組みになって、かげろうのようにふらふらしている。話に聞く、冥土の朝景色は、こんなふうでもあろうかと思うばかりだった。<lb />
 　利根の水際に、何百人とも知れぬ人間が転がっていて、ときどきだるそうに起きあがって水を飲む。<lb />
 　渡守の話では、水を飲む力があるうちは、あんなふうにしていて、いよいよ最後だと思うと、川に身を投げるのだ、といった。<lb />
@@ -138,41 +138,41 @@
 「御接待、御接待」<lb />
 　と通るものに呼びかけている。なにを接待するのだろうとのぞいて見ると、白湯が湯玉をあげてたぎっているだけであった。<lb />
 　郡山をすぎると、いよいよ話通りの地獄めぐりになった。<lb />
-　福島から笹木野に分れる石高道に、<span type="ruby"><span type="rb">肋骨</span><span type="rp">（</span><span type="rt">あばら</span><span type="rp">）</span></span>ばかりに痩せさらばえたのが、幾十人となく倒れている。足音をききつけると、枯葉のような薄い掌をさしのべて、<lb />
+　福島から笹木野に分れる石高道に、<seg type="ruby"><seg type="rb">肋骨</seg><seg type="rp">（</seg><seg type="rt">あばら</seg><seg type="rp">）</seg></seg>ばかりに痩せさらばえたのが、幾十人となく倒れている。足音をききつけると、枯葉のような薄い掌をさしのべて、<lb />
 「おくれ、おくれ」<lb />
 　と消えるようにつぶやく。<lb />
 　かまわずに進んで行くと、往還の両側の薄闇の中から、いくつも手が出る。それがすすきの穂でもそよいでいるように見える。米所の酒田や新庄から下ってくる運送をここで待ち受け、ひと握りの米の奉謝にあずかろうと、命のあるかぎり、いすわっているのである。<lb />
 　またしばらく行くと、谷川のそばの萱だまりに、足だけ見せて倒れている、四、五人の男女の一組があった。<lb />
-　本土の北の果からでも来たのか、長旅の末にわらじを切らしてはだしになり、青い<span type="ruby"><span type="rb">瓢箪</span><span type="rp">（</span><span type="rt">ひょうたん</span><span type="rp">）</span></span>のような足の裏を見せている。福島あたりまで行けば米にありつけると、はるばるここまでやってきたのだが、力尽きて動けなくなったものらしい。<lb />
-　金十郎が、どこの辺から出て来たのか、と声をかけると、もしや奉謝にあずかれるかと、おれは<span type="ruby"><span type="rb">斗南</span><span type="rp">（</span><span type="rt">となみ</span><span type="rp">）</span></span>から、わしはどこどこからとつぶやく、<span rend="notes">［＃「つぶやく、」はママ］</span><lb />
-　そのなかに京なまりの女の声を聞きつけた。金十郎はわれともなく声のしたほうに行き、五日月の淡い月の光にすかしてみると、<span type="ruby"><span type="rb">猟師</span><span type="rp">（</span><span type="rt">りょうし</span><span type="rp">）</span></span>のように髪をつかみ乱して荒繩で束ね、垢づいた布子を着て、すさまじい男の恰好になっているが、顔を見れば、まぎれもなく年若いむすめだった。<lb />
+　本土の北の果からでも来たのか、長旅の末にわらじを切らしてはだしになり、青い<seg type="ruby"><seg type="rb">瓢箪</seg><seg type="rp">（</seg><seg type="rt">ひょうたん</seg><seg type="rp">）</seg></seg>のような足の裏を見せている。福島あたりまで行けば米にありつけると、はるばるここまでやってきたのだが、力尽きて動けなくなったものらしい。<lb />
+　金十郎が、どこの辺から出て来たのか、と声をかけると、もしや奉謝にあずかれるかと、おれは<seg type="ruby"><seg type="rb">斗南</seg><seg type="rp">（</seg><seg type="rt">となみ</seg><seg type="rp">）</seg></seg>から、わしはどこどこからとつぶやく、<seg rend="notes" rendition="span">［＃「つぶやく、」はママ］</seg><lb />
+　そのなかに京なまりの女の声を聞きつけた。金十郎はわれともなく声のしたほうに行き、五日月の淡い月の光にすかしてみると、<seg type="ruby"><seg type="rb">猟師</seg><seg type="rp">（</seg><seg type="rt">りょうし</seg><seg type="rp">）</seg></seg>のように髪をつかみ乱して荒繩で束ね、垢づいた布子を着て、すさまじい男の恰好になっているが、顔を見れば、まぎれもなく年若いむすめだった。<lb />
 　聞いてみると、去年の夏ごろまで京に住んでいたものだと、かぼそい声でこたえたが、言葉の端々に、隠そうにも隠しようのない、ゆかしい調子があった。<lb />
 　金十郎は胸とどろかせながら、去年の夏のはじめ、八条猪熊の女衒に連れだされ、大湊という、北の湊の船宿へ、飯盛に売られたひとがあったそうだが、となぞをかけると、女はうなずいて、おはずかしいが、わたくしもその一人だと、さめざめと泣きだした。<lb />
 　金十郎はせきこんで烏丸中納言のおむすめはどうされたと、しどろもどろにたずねかけると、月の光のかからぬむこうの小暗い萱の中から声があって、<lb />
-「烏丸さまのおむすめは、奥州街道を行けば追手がかかる。わたしはここから浜へ出て、陸中の海ぞいを、貝魚を拾いながら上総まで上る、とおっしゃって、陸奥の<span type="ruby"><span type="rb">野辺地</span><span type="rp">（</span><span type="rt">のへじ</span><span type="rp">）</span></span>というところで別れました」<lb />
+「烏丸さまのおむすめは、奥州街道を行けば追手がかかる。わたしはここから浜へ出て、陸中の海ぞいを、貝魚を拾いながら上総まで上る、とおっしゃって、陸奥の<seg type="ruby"><seg type="rb">野辺地</seg><seg type="rp">（</seg><seg type="rt">のへじ</seg><seg type="rp">）</seg></seg>というところで別れました」<lb />
 　と、おしえてくれた。<lb />
 <lb />
 　　　　　◇<lb />
 <lb />
 　拾い魚をしても、とは、いかにも知嘉姫らしい。本土の果の船頭宿から女たちを連れだしたのも、たぶん知嘉姫の才覚だったのだろう。<lb />
-　南部の宮古湊から、大槌の浦のあたりまでは、断崖がいきなり海からきり立ち、岩に額を擦りつけながら行く、暗いけわしい<span type="ruby"><span type="rb">九折</span><span type="rp">（</span><span type="rt">つづらおり</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">岩岨</span><span type="rp">（</span><span type="rt">いわそば</span><span type="rp">）</span></span>道で一日のうちに一人の旅人に出逢えばいいほう。せいぜい茶店があるくらいで、その間に宿駅らしいものもない。<lb />
-　女の足で辿れる道ではない、ということだが、それくらいのことで弱るようなお人ではない。知嘉姫なら平気でやりぬくだろうと、かえって張合いができ、陸中の一ノ関から大槌街道へ折れ込み、<span type="ruby"><span type="rb">千厩</span><span type="rp">（</span><span type="rt">ちうまや</span><span type="rp">）</span></span>から気仙沼を一日で廻って、<span type="ruby"><span type="rb">大船渡</span><span type="rp">（</span><span type="rt">おおふなわたし</span><span type="rp">）</span></span>の湊に二日いた。<lb />
+　南部の宮古湊から、大槌の浦のあたりまでは、断崖がいきなり海からきり立ち、岩に額を擦りつけながら行く、暗いけわしい<seg type="ruby"><seg type="rb">九折</seg><seg type="rp">（</seg><seg type="rt">つづらおり</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">岩岨</seg><seg type="rp">（</seg><seg type="rt">いわそば</seg><seg type="rp">）</seg></seg>道で一日のうちに一人の旅人に出逢えばいいほう。せいぜい茶店があるくらいで、その間に宿駅らしいものもない。<lb />
+　女の足で辿れる道ではない、ということだが、それくらいのことで弱るようなお人ではない。知嘉姫なら平気でやりぬくだろうと、かえって張合いができ、陸中の一ノ関から大槌街道へ折れ込み、<seg type="ruby"><seg type="rb">千厩</seg><seg type="rp">（</seg><seg type="rt">ちうまや</seg><seg type="rp">）</seg></seg>から気仙沼を一日で廻って、<seg type="ruby"><seg type="rb">大船渡</seg><seg type="rp">（</seg><seg type="rt">おおふなわたし</seg><seg type="rp">）</seg></seg>の湊に二日いた。<lb />
 　陸前竹崎まで戻って、遠野街道をとり、岩手八日町に一日、岩手上郷に一日いて消息をたずね、釜石へ廻って、そこに三日。それから北へ下って大槌の浦で二日。<lb />
-　宮古の津は諸国の人が集まるところだというので、宿々で人のうわさに耳を立てながら、宮古の浦へ行き、岩泉屋という宿で<span rend="notes">［＃「岩泉屋という宿で」は底本では「岩泉屋ういう宿で」］</span><span type="ruby"><span type="rb">脚絆</span><span type="rp">（</span><span type="rt">きゃはん</span><span type="rp">）</span></span>をといた。<lb />
+　宮古の津は諸国の人が集まるところだというので、宿々で人のうわさに耳を立てながら、宮古の浦へ行き、岩泉屋という宿で<seg rend="notes" rendition="span">［＃「岩泉屋という宿で」は底本では「岩泉屋ういう宿で」］</seg><seg type="ruby"><seg type="rb">脚絆</seg><seg type="rp">（</seg><seg type="rt">きゃはん</seg><seg type="rp">）</seg></seg>をといた。<lb />
 　天保のはじめころから、この浦に時知らずにくじらが寄るようになり、妓楼百軒という繁昌で、米のない土地から、人買いに買い出された女どもが、おおよそ千人ほども流れこんでいる。<lb />
 　金十郎は宮古に腰をすえ、網元の帳付の手伝いをしながら、消息をたずねまわったが、その年の暮までには、たよりらしいものも聞かれなかった。翌九年の五月、雪の消えるのを待ちかねて宮古をたち、岩手刈谷から茂市街道を通って落合まで行った。小本川に沿って小本の湊へ寄り、そこに一日いて、また落合へ引返した。<lb />
-　いわゆる、みちのくの海道と、<span type="ruby"><span type="rb">一戸</span><span type="rp">（</span><span type="rt">いちのえ</span><span type="rp">）</span></span>へ抜ける一戸街道の分れ道で、べつに陸中久慈から<span type="ruby"><span type="rb">沼宮内</span><span type="rp">（</span><span type="rt">ぬまくない</span><span type="rp">）</span></span>に通じる山中道というのがある。土着の人間のほか、あまり旅人の往来のないさびれた街道なので、知嘉姫ほどの容姿のすぐれた女性が通ったとなれば、評判にならぬはずはないのだが、そこにも手がかりがなかった。<lb />
+　いわゆる、みちのくの海道と、<seg type="ruby"><seg type="rb">一戸</seg><seg type="rp">（</seg><seg type="rt">いちのえ</seg><seg type="rp">）</seg></seg>へ抜ける一戸街道の分れ道で、べつに陸中久慈から<seg type="ruby"><seg type="rb">沼宮内</seg><seg type="rp">（</seg><seg type="rt">ぬまくない</seg><seg type="rp">）</seg></seg>に通じる山中道というのがある。土着の人間のほか、あまり旅人の往来のないさびれた街道なので、知嘉姫ほどの容姿のすぐれた女性が通ったとなれば、評判にならぬはずはないのだが、そこにも手がかりがなかった。<lb />
 　運悪くひき戻されたのか、わずらって死んだか、気を変えて古山道へ入り、胆沢街道を上って行ったかと思うほかなくなった。<lb />
 　海道について北に行くと、八戸二万石、南部左衛門尉の在所がある。もしやそこにでもと、海道の村々を念入りにたずねながら八戸へ行き、そこに夏のはじめまでいて、尻内へ廻った。<lb />
-　このうえは、野辺地まで行ってみるほかはないと思っているとき、尻内の<span type="ruby"><span type="rb">馬喰</span><span type="rp">（</span><span type="rt">ばくろう</span><span type="rp">）</span></span>宿で、はじめてほのかな手がかりがあった。去年の秋ごろ、京なまりの女の修験者が、奥津の村に流れてきて、修験の合間に、川に出てますをとっているという。<lb />
-　ようやく行きあたった思いで、奥湊へ行ってみると、姫は姫だが、花園という、蔵人頭のむすめで、烏丸中納言のおむすめは、<span type="ruby"><span type="rb">壬生</span><span type="rp">（</span><span type="rt">みぶ</span><span type="rp">）</span></span>少将のおむすめと二人で、奥羽街道を上っていらっしゃったという、意外な返事だった。<lb />
-　金十郎も<span type="ruby"><span type="rb">鉾先</span><span type="rp">（</span><span type="rt">ほこさき</span><span type="rp">）</span></span>を折り、尻内へ帰ってぼんやりしていたが、いろいろと考えあわせると、笹木野の萱の中からものを言いかけたのが、知嘉姫だったように思えてならない。もしそうだったら、なぜ出て逢わなかったか、その辺がどうしてもわからない。<lb />
+　このうえは、野辺地まで行ってみるほかはないと思っているとき、尻内の<seg type="ruby"><seg type="rb">馬喰</seg><seg type="rp">（</seg><seg type="rt">ばくろう</seg><seg type="rp">）</seg></seg>宿で、はじめてほのかな手がかりがあった。去年の秋ごろ、京なまりの女の修験者が、奥津の村に流れてきて、修験の合間に、川に出てますをとっているという。<lb />
+　ようやく行きあたった思いで、奥湊へ行ってみると、姫は姫だが、花園という、蔵人頭のむすめで、烏丸中納言のおむすめは、<seg type="ruby"><seg type="rb">壬生</seg><seg type="rp">（</seg><seg type="rt">みぶ</seg><seg type="rp">）</seg></seg>少将のおむすめと二人で、奥羽街道を上っていらっしゃったという、意外な返事だった。<lb />
+　金十郎も<seg type="ruby"><seg type="rb">鉾先</seg><seg type="rp">（</seg><seg type="rt">ほこさき</seg><seg type="rp">）</seg></seg>を折り、尻内へ帰ってぼんやりしていたが、いろいろと考えあわせると、笹木野の萱の中からものを言いかけたのが、知嘉姫だったように思えてならない。もしそうだったら、なぜ出て逢わなかったか、その辺がどうしてもわからない。<lb />
 　三日ほどクヨクヨと考え詰めていたが、結局は、またしても読みの深い女心を読みそくない、なにかたいへんな失敗をやらかしたのにちがいないと、はかないところへ詮じつけた。<lb />
-　<span type="ruby"><span type="rb">七戸</span><span type="rp">（</span><span type="rt">しちのえ</span><span type="rp">）</span></span>の藩中に、大阪廻米を扱っていた川村孫助という御蔵方がいる。川口の米会所で<span type="ruby"><span type="rb">昵懇</span><span type="rp">（</span><span type="rt">じっこん</span><span type="rp">）</span></span>だったのを思いだし、廻船の上乗りにでもしてもらって江戸へ帰ろうと、<span type="ruby"><span type="rb">郭内</span><span type="rp">（</span><span type="rt">くるわうち</span><span type="rp">）</span></span>のお長屋をたずねると、川村孫助はみすぼらしい金十郎の風態をそば眼するなり、ひとりでのみこんで、<span type="ruby"><span type="rb">斗南</span><span type="rp">（</span><span type="rt">となみ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">白並</span><span type="rp">（</span><span type="rt">しらなみ</span><span type="rp">）</span></span>というところにある御船番所の御小人に推挙してくれた。<lb />
-　白並は小川原という汐入沼のそばにある、三十戸ばかりの漁村で、沼尻で七戸藩の藩船の冬の<span type="ruby"><span type="rb">船溜</span><span type="rp">（</span><span type="rt">ふなだまり</span><span type="rp">）</span></span>になっている。夏は霧がかかり、秋は十月から雪が降り、沼の泥深いところに鹿や熊がいる。情けない土地柄だということだったが、来てみると<span type="ruby"><span type="rb"><span facs="../../../gaiji/1-87/1-87-88.png" rend="gaiji" rendition="img" source="※(「王＋攵」、第3水準1-87-88)" />瑰</span><span type="rp">（</span><span type="rt">はまなす</span><span type="rp">）</span></span>の実ばかり落々たる砂丘まじりのなぎさがはてしもなくひろがり、そのむこうに、秋ざれの陸奥の海が轟くような音をたてて巻きかえしている。いかにも本土の果というような、わびしい風景であった。<lb />
-　御船手御小人は、藩船を預り、<span type="ruby"><span type="rb">湊入</span><span type="rp">（</span><span type="rt">みなといり</span><span type="rp">）</span></span><span type="ruby"><span type="rb">湊出</span><span type="rp">（</span><span type="rt">みなとで</span><span type="rp">）</span></span>のたびに船改めをする。沖見役の番士が二人、常住に詰めているほか、<span type="ruby"><span type="rb">小間木</span><span type="rp">（</span><span type="rt">こまぎ</span><span type="rp">）</span></span>の代官所から月の五ノ日に物書が通ってくるが、天保七年の<span type="ruby"><span type="rb">米留</span><span type="rp">（</span><span type="rt">こめどめ</span><span type="rp">）</span></span>から江戸への廻漕がとまり、七戸丸という、五百石積の藩船が、沼尻から動かないので、さしあたっての用はない。<lb />
+　<seg type="ruby"><seg type="rb">七戸</seg><seg type="rp">（</seg><seg type="rt">しちのえ</seg><seg type="rp">）</seg></seg>の藩中に、大阪廻米を扱っていた川村孫助という御蔵方がいる。川口の米会所で<seg type="ruby"><seg type="rb">昵懇</seg><seg type="rp">（</seg><seg type="rt">じっこん</seg><seg type="rp">）</seg></seg>だったのを思いだし、廻船の上乗りにでもしてもらって江戸へ帰ろうと、<seg type="ruby"><seg type="rb">郭内</seg><seg type="rp">（</seg><seg type="rt">くるわうち</seg><seg type="rp">）</seg></seg>のお長屋をたずねると、川村孫助はみすぼらしい金十郎の風態をそば眼するなり、ひとりでのみこんで、<seg type="ruby"><seg type="rb">斗南</seg><seg type="rp">（</seg><seg type="rt">となみ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">白並</seg><seg type="rp">（</seg><seg type="rt">しらなみ</seg><seg type="rp">）</seg></seg>というところにある御船番所の御小人に推挙してくれた。<lb />
+　白並は小川原という汐入沼のそばにある、三十戸ばかりの漁村で、沼尻で七戸藩の藩船の冬の<seg type="ruby"><seg type="rb">船溜</seg><seg type="rp">（</seg><seg type="rt">ふなだまり</seg><seg type="rp">）</seg></seg>になっている。夏は霧がかかり、秋は十月から雪が降り、沼の泥深いところに鹿や熊がいる。情けない土地柄だということだったが、来てみると<seg type="ruby"><seg type="rb"><seg facs="../../../gaiji/1-87/1-87-88.png" rend="gaiji" rendition="img" source="※(「王＋攵」、第3水準1-87-88)" />瑰</seg><seg type="rp">（</seg><seg type="rt">はまなす</seg><seg type="rp">）</seg></seg>の実ばかり落々たる砂丘まじりのなぎさがはてしもなくひろがり、そのむこうに、秋ざれの陸奥の海が轟くような音をたてて巻きかえしている。いかにも本土の果というような、わびしい風景であった。<lb />
+　御船手御小人は、藩船を預り、<seg type="ruby"><seg type="rb">湊入</seg><seg type="rp">（</seg><seg type="rt">みなといり</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">湊出</seg><seg type="rp">（</seg><seg type="rt">みなとで</seg><seg type="rp">）</seg></seg>のたびに船改めをする。沖見役の番士が二人、常住に詰めているほか、<seg type="ruby"><seg type="rb">小間木</seg><seg type="rp">（</seg><seg type="rt">こまぎ</seg><seg type="rp">）</seg></seg>の代官所から月の五ノ日に物書が通ってくるが、天保七年の<seg type="ruby"><seg type="rb">米留</seg><seg type="rp">（</seg><seg type="rt">こめどめ</seg><seg type="rp">）</seg></seg>から江戸への廻漕がとまり、七戸丸という、五百石積の藩船が、沼尻から動かないので、さしあたっての用はない。<lb />
 　九月の中旬、七戸丸の船頭が、<lb />
-「<span type="ruby"><span type="rb">棚</span><span type="rp">（</span><span type="rt">たな</span><span type="rp">）</span></span>（舷）を締めさせてもらいたい」<lb />
+「<seg type="ruby"><seg type="rb">棚</seg><seg type="rp">（</seg><seg type="rt">たな</seg><seg type="rp">）</seg></seg>（舷）を締めさせてもらいたい」<lb />
 　と言いにきた。<lb />
 　沼尻のような水の動かないところに、長く船をつないでおくと、構造がゆるんでくるので、ときどき沖へ出して、荒波に打たせなくてはならない。舟子どもも、陸へ上げたきりでは、手なぐさみばかりして、怠け者になってしまうから、沖でみっしりと締めあげなくてはならない、という。<lb />
 　金十郎の裁量にあまることだったが、反対する理由もない。言う通りに出船簿に判を押してやった。<lb />
@@ -180,26 +180,26 @@
 　船頭を呼んでたずねると、船頭は気まずい顔で、ぷいとそっぽを向いたが、あとでくじらの大きな切身を番所へ届けてよこした。十月の中ごろまでに、そんなことが三度ばかりあった。<lb />
 　十一月二十日の朝、川村孫助がだしぬけに船番所へやってきた。<lb />
 　七戸領は盛岡二十万石の内証分で、殿様は七年前から御定府、家老と大番頭がいるが、藩政の大事は、本家の国家老の裁可を得て執行する慣例になっている。<lb />
-　川村は本家から派遣されている<span type="ruby"><span type="rb">密事</span><span type="rp">（</span><span type="rt">みつじ</span><span type="rp">）</span></span>の一人で、盛岡藩では若年寄付小人、物産方という軽い役柄だが、七戸では藩政を監査し、時々の動静を本家へ報告する目付の役をつとめているというようなことであった。<lb />
+　川村は本家から派遣されている<seg type="ruby"><seg type="rb">密事</seg><seg type="rp">（</seg><seg type="rt">みつじ</seg><seg type="rp">）</seg></seg>の一人で、盛岡藩では若年寄付小人、物産方という軽い役柄だが、七戸では藩政を監査し、時々の動静を本家へ報告する目付の役をつとめているというようなことであった。<lb />
 「ひどく構えこんでいるが、むずかしい話でも持ってきたのか」<lb />
-「お察しの通り、あまりいい話ではない。ときに、お手前は<span type="ruby"><span type="rb">鯨分一</span><span type="rp">（</span><span type="rt">くじらぶいち</span><span type="rp">）</span></span>ということを知っているか。鯨の上納金を鯨分一というのだ。船を出して<span type="ruby"><span type="rb">銛</span><span type="rp">（</span><span type="rt">もり</span><span type="rp">）</span></span>で突きとめた、突き鯨にたいしては二十ノ一、死んで海岸に寄り着いた、寄り鯨にたいしては三ツ二つ<span rend="notes">［＃「三ツ二つ」はママ］</span>、死んで海に浮んでいた流れ鯨の肉だけそぎとって来た切り鯨にたいしては二十ノ一、浜相場が立ってから、十日以内に上納金をおさめるきまりになっているので、隠し鯨は重罪だ。他領へ引いて行って売ったり、切り鯨を隠したことがわかれば打首。隠し鯨の饗応を受けたものも同罪である」<lb />
+「お察しの通り、あまりいい話ではない。ときに、お手前は<seg type="ruby"><seg type="rb">鯨分一</seg><seg type="rp">（</seg><seg type="rt">くじらぶいち</seg><seg type="rp">）</seg></seg>ということを知っているか。鯨の上納金を鯨分一というのだ。船を出して<seg type="ruby"><seg type="rb">銛</seg><seg type="rp">（</seg><seg type="rt">もり</seg><seg type="rp">）</seg></seg>で突きとめた、突き鯨にたいしては二十ノ一、死んで海岸に寄り着いた、寄り鯨にたいしては三ツ二つ<seg rend="notes" rendition="span">［＃「三ツ二つ」はママ］</seg>、死んで海に浮んでいた流れ鯨の肉だけそぎとって来た切り鯨にたいしては二十ノ一、浜相場が立ってから、十日以内に上納金をおさめるきまりになっているので、隠し鯨は重罪だ。他領へ引いて行って売ったり、切り鯨を隠したことがわかれば打首。隠し鯨の饗応を受けたものも同罪である」<lb />
 「饗応を受けて打首というのは、すこしひどすぎるようだな。いつからそんな法令ができたのか」<lb />
 「そんな法令があるわけはない。また、あっていいわけのものではない」<lb />
 　盛岡領の宮古、釜石、大槌の浦浜で銛をうたれ、死んだり手負いになったりした鯨は、潮の加減で、この沖へ流れつくようになっている。<lb />
-　代々、白並の漁師原は<span type="ruby"><span type="rb">羽矢銛</span><span type="rp">（</span><span type="rt">はやもり</span><span type="rp">）</span></span>一つ持たずに利を得て来たが、寄り鯨にすると、浜役人の手にかかるので、流れ鯨を沖で切刻んで切り鯨にし、津軽や松前へ持って行って金穀に替えてしまう。浜役人は白並とは言わない。白浪といっているくらいだが、いくら厳しく取締ってもやめないので、いきおい法令も<span type="ruby"><span type="rb">苛酷</span><span type="rp">（</span><span type="rt">かこく</span><span type="rp">）</span></span>にならざるをえなくなった。<lb />
+　代々、白並の漁師原は<seg type="ruby"><seg type="rb">羽矢銛</seg><seg type="rp">（</seg><seg type="rt">はやもり</seg><seg type="rp">）</seg></seg>一つ持たずに利を得て来たが、寄り鯨にすると、浜役人の手にかかるので、流れ鯨を沖で切刻んで切り鯨にし、津軽や松前へ持って行って金穀に替えてしまう。浜役人は白並とは言わない。白浪といっているくらいだが、いくら厳しく取締ってもやめないので、いきおい法令も<seg type="ruby"><seg type="rb">苛酷</seg><seg type="rp">（</seg><seg type="rt">かこく</seg><seg type="rp">）</seg></seg>にならざるをえなくなった。<lb />
 「こんどの隠し鯨は、御船手付の船頭と舟子が、藩船を使ってやったという、性の悪い事件で、お船方は総体打首。お船手御小人は切腹を申付けられることになろう……。もっとも、口書をとって盛岡へ送り、御用部屋へおさまるまでには、早くとも三日はかかる」<lb />
 　川村孫助は、津軽の三厩から、松前まで半日の船旅にすぎないから、逃げ足の早いやつなら三日もあれば蝦夷の奥までも行けるだろう、という意味のことを言っているのだが、金十郎には通じなかったらしい。番所の窓から雪もよいの暗い海の色をながめていたが、<lb />
 「腹を切るのに三日もいらぬ。いますぐ切ろう」<lb />
 　と自若とした顔でいった。<lb />
 　川村孫助は困ったような顔をしていたが、役儀の手前、切るなともいえない。<lb />
-「飛んだことになったよ。こんなつもりで、お番入をすすめたわけではなかったが……。江戸にいれば御儒者衆の家柄で、寛濶な日々を送れたものを、こんな辺土の<span type="ruby"><span type="rb">浦浜</span><span type="rp">（</span><span type="rt">うらはま</span><span type="rp">）</span></span>へ流れきて、不法の<span type="ruby"><span type="rb">漁撈</span><span type="rp">（</span><span type="rt">ぎょろう</span><span type="rp">）</span></span>に連座し、つまらなく腹を切るというのは」<lb />
+「飛んだことになったよ。こんなつもりで、お番入をすすめたわけではなかったが……。江戸にいれば御儒者衆の家柄で、寛濶な日々を送れたものを、こんな辺土の<seg type="ruby"><seg type="rb">浦浜</seg><seg type="rp">（</seg><seg type="rt">うらはま</seg><seg type="rp">）</seg></seg>へ流れきて、不法の<seg type="ruby"><seg type="rb">漁撈</seg><seg type="rp">（</seg><seg type="rt">ぎょろう</seg><seg type="rp">）</seg></seg>に連座し、つまらなく腹を切るというのは」<lb />
 「辺土々々といわれるが、手前にとっては、住みよいなつかしい土地であった。どこで死んでもおなじことだ。すぐやりますから、ご検分ねがう」<lb />
 　と脇差をとりあげた。川村孫助は四角に坐りなおして背筋を立てた。<lb />
-「では検分しよう。<span type="ruby"><span type="rb">潔</span><span type="rp">（</span><span type="rt">いさぎよ</span><span type="rp">）</span></span>いことだ……。それにしても、どうしてこんなところへ落ちてこられたのか、かねて不審に思っていた。聞けるものなら、聞いておきたい」<lb />
+「では検分しよう。<seg type="ruby"><seg type="rb">潔</seg><seg type="rp">（</seg><seg type="rt">いさぎよ</seg><seg type="rp">）</seg></seg>いことだ……。それにしても、どうしてこんなところへ落ちてこられたのか、かねて不審に思っていた。聞けるものなら、聞いておきたい」<lb />
 　金十郎は笑って答えなかった。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

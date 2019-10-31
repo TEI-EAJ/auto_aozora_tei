@@ -33,7 +33,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 ぶんぶんすばらしくうなりながら<lb />
 私の目の前にいつでもいつでもあらわれてくる調帯<lb />
 <lb />
@@ -50,10 +50,10 @@
 手を折られ足を折られた私のめのまえへ<lb />
 疲れきったあたまのなかから<lb />
 ひょっくりひょっくりあらわれてくる<lb />
-<span rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -1em;">（発表誌不詳　一九二九年一月平凡社刊『新興文学全集』<span target="ltr">10</span>を底本）</span>
+<seg rend="burasage" rendition="div" style="margin-left: 6em; text-indent: -1em;">（発表誌不詳　一九二九年一月平凡社刊『新興文学全集』<seg rendition="span" style="ltr">10</seg>を底本）</seg>
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-03-04">作成</resp><resp /><note>
 <lb />
-底本：「ふるさと文学館　第三三巻　【大阪<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
+底本：「ふるさと文学館　第三三巻　【大阪<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
 　　　1995（平成7）年8月15日初版発行<lb />
 底本の親本：「河井酔茗詩集」角川文庫、角川書店<lb />
 　　　1953（昭和28）年<lb />
@@ -35,13 +35,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 「堺へいなう、堺へいなう」<lb />
 深夜、安土城の庭から<lb />
 奥の寝室に聞えてくる声<lb />
 移し植ゑたばかりの<lb />
 妙国寺の蘇鉄<lb />
-毎夜のやうに<span type="ruby"><span type="rb">言</span><span type="rp">（</span><span type="rt">ものい</span><span type="rp">）</span></span>ふ<lb />
+毎夜のやうに<seg type="ruby"><seg type="rb">言</seg><seg type="rp">（</seg><seg type="rt">ものい</seg><seg type="rp">）</seg></seg>ふ<lb />
 <lb />
 信長は手討にしなかつた<lb />
 「あの蘇鉄を<lb />
@@ -67,6 +67,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

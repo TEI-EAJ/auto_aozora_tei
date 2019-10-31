@@ -32,8 +32,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100">俳句</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100">俳句</seg></seg></seg>
 <lb />
 <lb />
 白菜や間引き／＼て暮るゝ秋<lb />
@@ -64,7 +64,7 @@
 <lb />
 芝栗や落ちたるを拾ひ枝を折る<lb />
 <lb />
-<span type="ruby"><span type="rb">錐栗</span><span type="rp">（</span><span type="rt">ひよひよぐり</span><span type="rp">）</span></span>やこゝに二つを珍らしむ<lb />
+<seg type="ruby"><seg type="rb">錐栗</seg><seg type="rp">（</seg><seg type="rt">ひよひよぐり</seg><seg type="rp">）</seg></seg>やこゝに二つを珍らしむ<lb />
 <lb />
 芭蕉ある寺に一樹の柚子黄なり<lb />
 <lb />
@@ -72,7 +72,7 @@
 <lb />
 わせ刈つて鷸の伏す田となりにけり<lb />
 <lb />
-<span type="ruby"><span type="rb">狼把草</span><span type="rp">（</span><span type="rt">たうこぎ</span><span type="rp">）</span></span>の花さく頃や稻日和<lb />
+<seg type="ruby"><seg type="rb">狼把草</seg><seg type="rp">（</seg><seg type="rt">たうこぎ</seg><seg type="rp">）</seg></seg>の花さく頃や稻日和<lb />
 <lb />
 掛稻の下や茶の木の花白し<lb />
 <lb />
@@ -88,28 +88,28 @@
 <lb />
 足もとに光る茸や夜山越え<lb />
 <lb />
-木瓜の<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">み</span><span type="rp">）</span></span>や葉は皆落ちて秋の霜<lb />
+木瓜の<seg type="ruby"><seg type="rb">子</seg><seg type="rp">（</seg><seg type="rt">み</seg><seg type="rp">）</seg></seg>や葉は皆落ちて秋の霜<lb />
 <lb />
 稻を扱く藁の亂や赤蜻蛉<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi110">南禪寺所見</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi110">南禪寺所見</seg></seg></seg>
 <lb />
 亂れ伏す小萩がしたや鉋屑<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi120">霞が浦</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi120">霞が浦</seg></seg></seg>
 <lb />
 白帆遙にわかさぎ船や蘆の花<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi130">格堂除隊</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi130">格堂除隊</seg></seg></seg>
 <lb />
 營を出てさやかに秋の瀬戸の海<lb />
 <lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi140">秋水は聾せり</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi140">秋水は聾せり</seg></seg></seg>
 <lb />
 我喚ぶを後も向かず秋の人<lb />
 <lb />
 ----------------------------------------------------<lb />
-<span rend="jisage_4" rendition="div" style="margin-left: 4em"><span rend="o-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi240">長塚節略年譜</span></span></span>
+<seg rend="jisage_4" rendition="div" style="margin-left: 4em"><seg rend="o-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi240">長塚節略年譜</seg></seg></seg>
 <lb />
 一八七九（明治十二）年　四月三日、茨城県結城郡岡田村国生（現石下町国生）の豪農の家に父源次郎、母たかの長男として生まれる。<lb />
 一八八三（明治十六）年　四月、学齢未満であったが、国生小学校に入学。<lb />
@@ -137,6 +137,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

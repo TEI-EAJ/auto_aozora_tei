@@ -34,9 +34,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 自ラノ真実ヲ真実トスルコト、<lb />
-<span type="ruby"><span type="rb">金</span><span type="rp">（</span><span type="rt">キン</span><span type="rp">）</span></span>ヲ金トシ悲シムコト、<lb />
+<seg type="ruby"><seg type="rb">金</seg><seg type="rp">（</seg><seg type="rt">キン</seg><seg type="rp">）</seg></seg>ヲ金トシ悲シムコト、<lb />
 吹ク風ノオノレソヨギ、<lb />
 薔薇ト野菜ノムキムキニ咲キ、<lb />
 鳥ノ飛ビ、魚ノオヨギ、虫ノ匍フコト、<lb />
@@ -46,6 +46,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

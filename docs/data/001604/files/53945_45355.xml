@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 寢がへりを打てばかなしもザラザラと腦のくづるゝうつろなる音<lb />
 <lb />
 日毎夜毎吾が悲しみの多くなる如く思ひて今日も亦寢る<lb />
@@ -56,7 +56,7 @@
 <lb />
 床敷けば机のやりばなきまでに狹き部屋ゐて心安けし<lb />
 <lb />
-主義のため<span rend="notes">［＃「主義のため」は底本では「主義とため」］</span>敵となるとも死ぬるまで友であらんと語りし友よ<lb />
+主義のため<seg rend="notes" rendition="span">［＃「主義のため」は底本では「主義とため」］</seg>敵となるとも死ぬるまで友であらんと語りし友よ<lb />
 <lb />
 やせたらうそれだけ言つてまじまじと俺れをみつめた友であつたが――<lb />
 <lb />
@@ -72,6 +72,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -35,7 +35,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
@@ -49,7 +49,7 @@
 万古に清朗なれ<lb />
 良心は一切の本能が互いに統制し、自他の共鳴を完全にして、人文の進化を極致に導き来り、導きつつあり、導き行かんとする人類共通の最重大の本能也。<lb />
 　本能の集合体也<lb />
-<span rend="notes">［＃改段］</span><lb />
+<seg rend="notes" rendition="span">［＃改段］</seg><lb />
 <lb />
 　　第一義<lb />
 <lb />
@@ -72,6 +72,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

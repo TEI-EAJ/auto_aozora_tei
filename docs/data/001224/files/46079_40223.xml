@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2010-08-24">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※()" />」三一書房<lb />
+底本：「久生十蘭全集　<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※()" />」三一書房<lb />
 　　　1970（昭和45）年1月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
 校正：伊藤時也<lb />
@@ -32,22 +32,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">一</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">一</seg></seg></seg>
 <lb />
-　出かけるはずの時間になったが、<span type="ruby"><span type="rb">安</span><span type="rp">（</span><span type="rt">やす</span><span type="rp">）</span></span>は来ない。離屋になった奥の居間へ行ってみると、竹の葉影のゆらぐ半月窓のそばに二月堂が出ているだけで、あるじのすがたはなかった。<lb />
+　出かけるはずの時間になったが、<seg type="ruby"><seg type="rb">安</seg><seg type="rp">（</seg><seg type="rt">やす</seg><seg type="rp">）</seg></seg>は来ない。離屋になった奥の居間へ行ってみると、竹の葉影のゆらぐ半月窓のそばに二月堂が出ているだけで、あるじのすがたはなかった。<lb />
 　窓ぎわに坐って待っているうちに、六十一になる安が、ひとり息子の伊作の顔を見たさに、はるばる巴里までやってきた十年前のことを思いだした。<lb />
-　滋子はそのとき夫の克彦と<span type="ruby"><span type="rb">白耳義</span><span type="rp">（</span><span type="rt">ベルギー</span><span type="rp">）</span></span>にいたが、十二月もおしつまった二十九日の昼ごろ、アスアサ一〇ジ　パリニツクという安の電報を受取ってびっくりした。<lb />
-　安は滋子の母方の叔母で、伊作を生むとまもなく夫に死に別れ、傭人だけでも四十人という<span type="ruby"><span type="rb">中洲</span><span type="rp">（</span><span type="rt">なかす</span><span type="rp">）</span></span>亭の大屋台を十九という若さで背負って立ち、<span type="ruby"><span type="rb">土地</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>では、人の使いかたなら中洲亭のお安さんに習えとまでいわれた。<lb />
-　長唄は六三郎、踊は水木、しみったれたことや薄手なことはなによりきらい。好物は、かん<span type="ruby"><span type="rb">茂</span><span type="rp">（</span><span type="rt">も</span><span type="rp">）</span></span>のスジと切茸のつけ焼、白魚なら生きたままを生海苔で食べるという、三代前からの生粋の深川っ子で、旅といえば、そのとしまで、東は塩原、西は小田原の道了さまより遠くへ行ったことがなく、深川を離れたら三日とは暮せないひとが、どんな思いをしながらマルセーユへ辿りついたのだろう、巴里までの一人旅は、さぞ心細く情けなかったろう。<lb />
+　滋子はそのとき夫の克彦と<seg type="ruby"><seg type="rb">白耳義</seg><seg type="rp">（</seg><seg type="rt">ベルギー</seg><seg type="rp">）</seg></seg>にいたが、十二月もおしつまった二十九日の昼ごろ、アスアサ一〇ジ　パリニツクという安の電報を受取ってびっくりした。<lb />
+　安は滋子の母方の叔母で、伊作を生むとまもなく夫に死に別れ、傭人だけでも四十人という<seg type="ruby"><seg type="rb">中洲</seg><seg type="rp">（</seg><seg type="rt">なかす</seg><seg type="rp">）</seg></seg>亭の大屋台を十九という若さで背負って立ち、<seg type="ruby"><seg type="rb">土地</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>では、人の使いかたなら中洲亭のお安さんに習えとまでいわれた。<lb />
+　長唄は六三郎、踊は水木、しみったれたことや薄手なことはなによりきらい。好物は、かん<seg type="ruby"><seg type="rb">茂</seg><seg type="rp">（</seg><seg type="rt">も</seg><seg type="rp">）</seg></seg>のスジと切茸のつけ焼、白魚なら生きたままを生海苔で食べるという、三代前からの生粋の深川っ子で、旅といえば、そのとしまで、東は塩原、西は小田原の道了さまより遠くへ行ったことがなく、深川を離れたら三日とは暮せないひとが、どんな思いをしながらマルセーユへ辿りついたのだろう、巴里までの一人旅は、さぞ心細く情けなかったろう。<lb />
 　伊作が巴里に落着いているのは、春と秋の三ヵ月くらいのもので、夏はドーヴィル、冬はニースと、一年中、めまぐるしく遊びまわっているふうだから、いまは巴里にいないのかもしれず、いるにしても、あのめんどう臭がり屋が出迎いなどしそうもない。駅の出口あたりで、途方にくれておろおろしている叔母のようすが見えるようで、思っただけでも胸がつまるようだった。克彦もしきりに心配するので、その日の午後の急行に乗り、夜おそく巴里に着いて伊作の宿へ行ってみると、案の定、どこかで遊び呆けているのだとみえ、叔母の電報は再配達の青鉛筆のマークをいくつもつけて、手紙受のガラスの箱のなかにおさまっていた。<lb />
-　翌朝、時間より早目に駅へ行って、ホームの目につくところに立っていると、<span type="ruby"><span type="rb">鼠紺</span><span type="rp">（</span><span type="rt">ねずこん</span><span type="rp">）</span></span>大小あられのお召に、ぽってりとした畝のある藍鉄の子持の羽織、阿波屋の駒下駄をはいて籠信玄をさげ、筑波山へ躑躅でも見に行くような恰好で汽車から降りてきて、<lb />
+　翌朝、時間より早目に駅へ行って、ホームの目につくところに立っていると、<seg type="ruby"><seg type="rb">鼠紺</seg><seg type="rp">（</seg><seg type="rt">ねずこん</seg><seg type="rp">）</seg></seg>大小あられのお召に、ぽってりとした畝のある藍鉄の子持の羽織、阿波屋の駒下駄をはいて籠信玄をさげ、筑波山へ躑躅でも見に行くような恰好で汽車から降りてきて、<lb />
 「おや、滋さん、どうしてここへ？」<lb />
 　と、けげんな顔をした。<lb />
 「どうしてって、なによ。お出迎いにあがったんじゃありませんか」<lb />
 　安は、のびあがるようにして、あたりを見まわしながら、<lb />
 「若旦那は？」<lb />
-「伊作は、よんどころない用事があるっていいますから、あたしがご<span type="ruby"><span type="rb">名代</span><span type="rp">（</span><span type="rt">みょうだい</span><span type="rp">）</span></span>」<lb />
+「伊作は、よんどころない用事があるっていいますから、あたしがご<seg type="ruby"><seg type="rb">名代</seg><seg type="rp">（</seg><seg type="rt">みょうだい</seg><seg type="rp">）</seg></seg>」<lb />
 「それはどうも、わざわざ」<lb />
 　駅の表へ出ようとすると、安は急に渋って、「こんなところで降ろされてしまったけど、ここが巴里なの」と、ひくい声でたずねた。<lb />
 「そうよ、ここが巴里よ」<lb />
@@ -58,18 +58,18 @@
 　と、こきおろしはじめた。滋子はつくづくと安の顔をみて、<lb />
 「呆れるってのは、こっちのことだわ。こんなところまで、一人でトコトコやってくるなんて、いったい、どうしたというわけなの」<lb />
 　安は案外な落着きかたで、<lb />
-「こんど、<span type="ruby"><span type="rb">延</span><span type="rp">（</span><span type="rt">のぶ</span><span type="rp">）</span></span>が店をやってくれることになって、身体があいたから、ちょっと遊びにきたのさ」<lb />
+「こんど、<seg type="ruby"><seg type="rb">延</seg><seg type="rp">（</seg><seg type="rt">のぶ</seg><seg type="rp">）</seg></seg>が店をやってくれることになって、身体があいたから、ちょっと遊びにきたのさ」<lb />
 「来るひとも来るひとだけど、出すひとも出すひとだわ。たいへんだったでしょう、マルセーユなんかじゃ、どうだったの」<lb />
 「べつに、なんでもなかった」<lb />
 「なんでもないことはなかったでしょう。でも、よく気がついて、あたしのところへ電報をうったわね」<lb />
 「なんの電報？」<lb />
-「あなたがマルセーユから電報をくだすったから、こうして<span type="ruby"><span type="rb">白耳義</span><span type="rp">（</span><span type="rt">ベルギー</span><span type="rp">）</span></span>からお出迎いに罷りでたんじゃないの」<lb />
+「あなたがマルセーユから電報をくだすったから、こうして<seg type="ruby"><seg type="rb">白耳義</seg><seg type="rp">（</seg><seg type="rt">ベルギー</seg><seg type="rp">）</seg></seg>からお出迎いに罷りでたんじゃないの」<lb />
 「それは、あたしじゃない。滋さんの所書きを出るとき忘れてきたもんだから、打ちたいにも打ちようがなかった」<lb />
 「でも、あなたのほかに、誰が電報を打つというの」<lb />
-　安もへんだと思ったか、<span type="ruby"><span type="rb">解</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>けきらない顔で、<lb />
+　安もへんだと思ったか、<seg type="ruby"><seg type="rb">解</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>けきらない顔で、<lb />
 「マルセーユじゃ、ちっとも心細い思いなんかしなかったのよ。税関がすんだので、なんとかいう旅行社のひとに、駅まで送ってもらうつもりにしていると、どこかの奥さまが寄っていらして、お一人で日本から？　よくまあねえ。さぞ、たいへんでしたでしょう。駅でしたら、あたくしがお送りいたしましょう。ちょうど車を持っておりますからって」<lb />
 「それは、いい都合だったのね」<lb />
-「三十七八の、すっきりした、なんともいえない容子のいい方なの。まだ時間があるからとおっしゃって、なんという通なの、明石町の船澗のあたりにそっくりな<span type="ruby"><span type="rb">河岸</span><span type="rp">（</span><span type="rt">かし</span><span type="rp">）</span></span>のレストランで、見事な海老や<span type="ruby"><span type="rb">生海丹</span><span type="rp">（</span><span type="rt">なまうに</span><span type="rp">）</span></span>なんかご馳走してくだすって、それから……」<lb />
+「三十七八の、すっきりした、なんともいえない容子のいい方なの。まだ時間があるからとおっしゃって、なんという通なの、明石町の船澗のあたりにそっくりな<seg type="ruby"><seg type="rb">河岸</seg><seg type="rp">（</seg><seg type="rt">かし</seg><seg type="rp">）</seg></seg>のレストランで、見事な海老や<seg type="ruby"><seg type="rb">生海丹</seg><seg type="rp">（</seg><seg type="rt">なまうに</seg><seg type="rp">）</seg></seg>なんかご馳走してくだすって、それから……」<lb />
 「電報も、その方が打ってくだすったのね」<lb />
 「そうなのよ……でも、おかしなことだったの。あわてていたもんだから、電報の文句だけいって、若旦那の所をいうのを忘れちゃったんだから、なんにもなりゃしない。汽車が出てから気がついて、巴里へ着くまで心配のしどおしだったけど、あなたが出ていてくれたので、ほっとしたわ」<lb />
 　伊作のほうはともかく、ブリュッセルへ電報を打つところまで気をきかしたのは、誰だったのだろうと思って、<lb />
@@ -77,7 +77,7 @@
 「それが、つい、気がつかずだったの。でも、あの方なら、どこでお逢いしても、すぐわかる。汽車が出るまで、ホームで見送ってくだすったけど、あんな愁いのきいた、眼に沁みるような美しい顔、見たことがない。いまでも、ありありと眼の底に残っているわ」<lb />
 　そんなことをいいながら、籠信玄から塩せんべいをだして、<lb />
 「あなた、好きだったわね、銀座の田丸屋よ。荷物が着くと、どっさり入っているわ」<lb />
-　のどかな顔で、移りかわる河岸の景色をながめていたが、薄靄の中でぼんやりと聳えているエッフェル塔を見つけると、うれしそうに手を<span type="ruby"><span type="rb">拍</span><span type="rp">（</span><span type="rt">う</span><span type="rp">）</span></span>って、<lb />
+　のどかな顔で、移りかわる河岸の景色をながめていたが、薄靄の中でぼんやりと聳えているエッフェル塔を見つけると、うれしそうに手を<seg type="ruby"><seg type="rb">拍</seg><seg type="rp">（</seg><seg type="rt">う</seg><seg type="rp">）</seg></seg>って、<lb />
 「ちょいと、あれ、エッフェル塔でしょう……巴里の万国博覧会といって、よくあの写真を見せられたもんだった。おやおや、なつかしいこと」<lb />
 　他国で旧知にでも逢ったようにニコニコしていたが、<lb />
 「ねえ、滋さん、あの上へのぼれるのかしら。エッフェル塔のてっぺんで初日の出を拝んだといったら、話の種になるわね」<lb />
@@ -86,16 +86,16 @@
 　うつらうつらしながら、そんなことを思いだしていると、安が小走りに部屋へ入ってきて、<lb />
 「滋さん、こんなところにいたの。もう時間よ、さあ、出かけよう」と、せきたてた。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">二</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">二</seg></seg></seg>
 <lb />
-　川崎をすぎると、<span type="ruby"><span type="rb">前窓</span><span type="rp">（</span><span type="rt">フロント</span><span type="rp">）</span></span>にあたる風の音が強くなってきた。沖に白く波がしらがたち、倉庫の尾根の上で、群れ鳩が風にさからいながら輪をかいている。岸壁でさんざんに吹きまくられるのかと思うと、やはり服にすればよかったと、急に<span type="ruby"><span type="rb">振</span><span type="rp">（</span><span type="rt">ふ</span><span type="rp">）</span></span>りの赤さが気になってきた。<lb />
+　川崎をすぎると、<seg type="ruby"><seg type="rb">前窓</seg><seg type="rp">（</seg><seg type="rt">フロント</seg><seg type="rp">）</seg></seg>にあたる風の音が強くなってきた。沖に白く波がしらがたち、倉庫の尾根の上で、群れ鳩が風にさからいながら輪をかいている。岸壁でさんざんに吹きまくられるのかと思うと、やはり服にすればよかったと、急に<seg type="ruby"><seg type="rb">振</seg><seg type="rp">（</seg><seg type="rt">ふ</seg><seg type="rp">）</seg></seg>りの赤さが気になってきた。<lb />
 　欧州引揚船の荷物検査は無事にすんだためしがないが、こんどもまた、子供の靴下から、ぞろりと宝石があらわれて、五日も観音崎の沖でとめられ、ようやく上陸許可になったと思うと、検疫中にチフス患者が出たり、なにか、ひどくごたごたした。<lb />
 　安は白足袋の爪先をきっちりと揃え、伏目になって、なにかかんがえているふうだったが、<lb />
 「伊作は、もう日本へ帰って来ないだろうと、ずっと前から覚悟していたのよ」<lb />
 　と、だしぬけに、そんなことをいいだした。<lb />
 「へえ、どうして」<lb />
 「どうしてってことはないけど、そんな気がしたの。だから、帰ってきたなんていわれても、ほんとうのような気がしないのよ」<lb />
-「帰るも帰らないもあるもんですか、否応なしよ……二十年近くも<span type="ruby"><span type="rb">欧羅巴</span><span type="rp">（</span><span type="rt">ヨーロッパ</span><span type="rp">）</span></span>でしたい放題なことをして、四十二にもなって、追いかえされて来るなんて……あなた、<span type="ruby"><span type="rb">土耳古</span><span type="rp">（</span><span type="rt">トルコ</span><span type="rp">）</span></span>のアンカラへ赴任なすった千田公使、ごぞんじでしょう？」<lb />
+「帰るも帰らないもあるもんですか、否応なしよ……二十年近くも<seg type="ruby"><seg type="rb">欧羅巴</seg><seg type="rp">（</seg><seg type="rt">ヨーロッパ</seg><seg type="rp">）</seg></seg>でしたい放題なことをして、四十二にもなって、追いかえされて来るなんて……あなた、<seg type="ruby"><seg type="rb">土耳古</seg><seg type="rp">（</seg><seg type="rt">トルコ</seg><seg type="rp">）</seg></seg>のアンカラへ赴任なすった千田公使、ごぞんじでしょう？」<lb />
 「書記官でいらしたころ、よくお見えになったよ」<lb />
 「ついこの間、聞いたんですけど、千田さん、ホームシックにかかって……日本へ帰りたい帰りたいで、神経衰弱になって、ご夫婦でピストル自殺をなすったんですってよ」<lb />
 「あの千田さんが、ご夫婦で……それはお気の毒だったわねえ」<lb />
@@ -103,11 +103,11 @@
 「逢いたいね」<lb />
 「母親なんて、馬鹿なもんだわね。あんな目にあわされながら、息子が恋しいだなんて」<lb />
 「ええええ、どうせ、あたしは馬鹿なのよ」<lb />
-　安を車に残して、山下桟橋へ行ってみたが、ようすがわからない。冷たい風が、波しぶきといっしょに吹きつける桟橋を、<span type="ruby"><span type="rb">寒肌</span><span type="rp">（</span><span type="rt">さむはだ</span><span type="rp">）</span></span>をたてながら行ったり来たりしていたが、引揚者は収容所にいるだろうということで、そっちへまわった。<lb />
-　合宿所へ行くと、伊作はいたが、姿を見せず、ホテルのポーターのようなのが、代りに出てきて、磯子の萩ノ家という家で待っていてくれ、すぐ行くから、と伊作の<span type="ruby"><span type="rb">伝言</span><span type="rp">（</span><span type="rt">ことづて</span><span type="rp">）</span></span>をつたえた。<lb />
-　もとはどういう邸だったのか、竹の<span type="ruby"><span type="rb">櫺子</span><span type="rp">（</span><span type="rt">れんじ</span><span type="rp">）</span></span>をつけた、いかにも床しい数寄屋がまえなのに、掛軸はかけず、床柱の花籠に、申訳のように薊と刈萱を投げいれ、天井の杉板に金と白緑で萩が描いてある。こういうのが、このごろの趣味らしいが、それにしても、ふしぎなながめだった。<lb />
+　安を車に残して、山下桟橋へ行ってみたが、ようすがわからない。冷たい風が、波しぶきといっしょに吹きつける桟橋を、<seg type="ruby"><seg type="rb">寒肌</seg><seg type="rp">（</seg><seg type="rt">さむはだ</seg><seg type="rp">）</seg></seg>をたてながら行ったり来たりしていたが、引揚者は収容所にいるだろうということで、そっちへまわった。<lb />
+　合宿所へ行くと、伊作はいたが、姿を見せず、ホテルのポーターのようなのが、代りに出てきて、磯子の萩ノ家という家で待っていてくれ、すぐ行くから、と伊作の<seg type="ruby"><seg type="rb">伝言</seg><seg type="rp">（</seg><seg type="rt">ことづて</seg><seg type="rp">）</seg></seg>をつたえた。<lb />
+　もとはどういう邸だったのか、竹の<seg type="ruby"><seg type="rb">櫺子</seg><seg type="rp">（</seg><seg type="rt">れんじ</seg><seg type="rp">）</seg></seg>をつけた、いかにも床しい数寄屋がまえなのに、掛軸はかけず、床柱の花籠に、申訳のように薊と刈萱を投げいれ、天井の杉板に金と白緑で萩が描いてある。こういうのが、このごろの趣味らしいが、それにしても、ふしぎなながめだった。<lb />
 　飛瀑障りというのか、池のむこうの小滝を、楓の真木が一本、斜めに切るように滝壺のほうへ枝をのべ、萩ノ家というだけあって、庭いちめんにうっとうしいほど萩を植えこんでいる。<lb />
-　すぐ行くといった伊作は、十一時すぎになってもやってこない、安は、のんびりと庭をながめてから、<span type="ruby"><span type="rb">床</span><span type="rp">（</span><span type="rt">とこ</span><span type="rp">）</span></span>のほうへ立って行って、青磁の安香爐を掌に受けて、勿体らしくひねくりはじめた。滋子はイライラして、<lb />
+　すぐ行くといった伊作は、十一時すぎになってもやってこない、安は、のんびりと庭をながめてから、<seg type="ruby"><seg type="rb">床</seg><seg type="rp">（</seg><seg type="rt">とこ</seg><seg type="rp">）</seg></seg>のほうへ立って行って、青磁の安香爐を掌に受けて、勿体らしくひねくりはじめた。滋子はイライラして、<lb />
 「どうしたのかしら、ひどく遅いわね。もう二時間になるわ」<lb />
 　腹立ちまぎれにあたりちらすと、<lb />
 「どこかへ遊びに行って、こっちのことなんか、忘れてしまったんだろう」<lb />
@@ -118,45 +118,45 @@
 　そういうと、クスクスと笑いだした。親馬鹿も、ここまでくれば行きどまりだと、滋子は、なにをいう気もなくなって、<lb />
 「そんな目にあって、笑っていれば、世話はないのよ」<lb />
 「だって、おかしいじゃないの。あたしゃ、汽車の便器の蔽い蓋に腰をかけて、手ばなしで泣いていたの。その恰好を思いだすと、笑わずにゃ、いられないのよ」<lb />
-「まあまあ、たんと、とぼけていらっしゃい。あなたがおっしゃるから、あたしもいいますけど、ほんとうに、あのときぐらい、困ったことはなかった……朝になっても、伊作は帰ってこない。あなたは<span type="ruby"><span type="rb">竺仙</span><span type="rp">（</span><span type="rt">ちくせん</span><span type="rp">）</span></span>の紋付の羽織かなんか着て、チンと坐ってるでしょう。巴里には、お元日なんかないんだって、言ってきかせたって、そうかと、すぐ話のわかるひとじゃなし、大急ぎでマドレーヌのエデアールという店へ駈けつけると、錨の印のついた、錨正宗という、ふしぎな銘酒なんですが、みな売れちゃって、情けないことに、一合瓶がたった一本だけ……しょうがないから、それを仕入れてきて、<span type="ruby"><span type="rb">柄付鍋</span><span type="rp">（</span><span type="rt">キャスロール</span><span type="rp">）</span></span>で火燗をして、<span type="ruby"><span type="rb">油漬鰯</span><span type="rp">（</span><span type="rt">サルディン</span><span type="rp">）</span></span>で一献献じたのはいいんだけど、なにしろ七勺たらず、二人で、ひと舐めふた舐めしたと思ったら、それでおしまい……膝に手を置いて、神妙にあとを待っているから、お屠蘇はもうチョンなのよというと、おやおや、へんだねえ。なんなのさ、って怒ったでしょう。あんな情けないことはなかったわ」<lb />
+「まあまあ、たんと、とぼけていらっしゃい。あなたがおっしゃるから、あたしもいいますけど、ほんとうに、あのときぐらい、困ったことはなかった……朝になっても、伊作は帰ってこない。あなたは<seg type="ruby"><seg type="rb">竺仙</seg><seg type="rp">（</seg><seg type="rt">ちくせん</seg><seg type="rp">）</seg></seg>の紋付の羽織かなんか着て、チンと坐ってるでしょう。巴里には、お元日なんかないんだって、言ってきかせたって、そうかと、すぐ話のわかるひとじゃなし、大急ぎでマドレーヌのエデアールという店へ駈けつけると、錨の印のついた、錨正宗という、ふしぎな銘酒なんですが、みな売れちゃって、情けないことに、一合瓶がたった一本だけ……しょうがないから、それを仕入れてきて、<seg type="ruby"><seg type="rb">柄付鍋</seg><seg type="rp">（</seg><seg type="rt">キャスロール</seg><seg type="rp">）</seg></seg>で火燗をして、<seg type="ruby"><seg type="rb">油漬鰯</seg><seg type="rp">（</seg><seg type="rt">サルディン</seg><seg type="rp">）</seg></seg>で一献献じたのはいいんだけど、なにしろ七勺たらず、二人で、ひと舐めふた舐めしたと思ったら、それでおしまい……膝に手を置いて、神妙にあとを待っているから、お屠蘇はもうチョンなのよというと、おやおや、へんだねえ。なんなのさ、って怒ったでしょう。あんな情けないことはなかったわ」<lb />
 　安は、おっとりと笑って、<lb />
 「なけれァ、ないって、いやいいのよ。あんな、しみったれた飲ませかたをするから……でも、エッフェル塔はよかったねえ。エレヴェーターを降りてから、階段をあがらせられたのには弱ったけど、あの景色だけは、いまでも忘れない」<lb />
-「四階の<span type="ruby"><span type="rb">展望台</span><span type="rp">（</span><span type="rt">カンパニエール</span><span type="rp">）</span></span>で、ポンポンと拍手を打って、お日さま拝みだしたのは、えらかったわね」<lb />
+「四階の<seg type="ruby"><seg type="rb">展望台</seg><seg type="rp">（</seg><seg type="rt">カンパニエール</seg><seg type="rp">）</seg></seg>で、ポンポンと拍手を打って、お日さま拝みだしたのは、えらかったわね」<lb />
 　そんなことをいっているうちに、このながい間、聞こうと思いながら、つい、聞きそびれていたことを思いだした。<lb />
 「ねえ、聞きたいことがあるのよ……エッフェル塔を降りて、下のシャン・ド・マルスを歩いているとさ、だしぬけに、あっ、若旦那って大きな声をだしたでしょう？……あれは、なんだったの？」<lb />
 　安は大袈裟に首をひねって、<lb />
 「おぼえていないね。なにか、あなたの聞きちがいでしょう」<lb />
 　と、わからない顔をしてみせた。<lb />
-　とぼけたりするところをみると、たしかに、なにかあったのらしいが、伊作を<span type="ruby"><span type="rb">庇</span><span type="rp">（</span><span type="rt">かば</span><span type="rp">）</span></span>いだすと、<span type="ruby"><span type="rb">挺</span><span type="rp">（</span><span type="rt">てこ</span><span type="rp">）</span></span>にもおえなくなるのが、むかしからの例だから、これはもう、きいても無駄だと思って、せんさくをするのはやめにした。<lb />
+　とぼけたりするところをみると、たしかに、なにかあったのらしいが、伊作を<seg type="ruby"><seg type="rb">庇</seg><seg type="rp">（</seg><seg type="rt">かば</seg><seg type="rp">）</seg></seg>いだすと、<seg type="ruby"><seg type="rb">挺</seg><seg type="rp">（</seg><seg type="rt">てこ</seg><seg type="rp">）</seg></seg>にもおえなくなるのが、むかしからの例だから、これはもう、きいても無駄だと思って、せんさくをするのはやめにした。<lb />
 　女中が電話だといいに来た。出てみると伊作からだった。<lb />
 「なんなのよ、ひとを、こんなに待たせて」<lb />
-「用事がかさなって、すぐには、ぬけられそうもない。<span type="ruby"><span type="rb">代人</span><span type="rp">（</span><span type="rt">だいにん</span><span type="rp">）</span></span>をやるから、待たずに、はじめてくれよ。ゆっくりやっていてくれれば、終るころくらいには行けるから」<lb />
+「用事がかさなって、すぐには、ぬけられそうもない。<seg type="ruby"><seg type="rb">代人</seg><seg type="rp">（</seg><seg type="rt">だいにん</seg><seg type="rp">）</seg></seg>をやるから、待たずに、はじめてくれよ。ゆっくりやっていてくれれば、終るころくらいには行けるから」<lb />
 「ちょっと待って……代人って、なんなの。あまり、へんなひとを、よこさないでちょうだいよ」<lb />
-「君も知っているだろう。正金銀行のボストンの支店長をしていた<span type="ruby"><span type="rb">幹</span><span type="rp">（</span><span type="rt">みき</span><span type="rp">）</span></span>さん」<lb />
-「知ってるわ。幹<span type="ruby"><span type="rb">利吉雄</span><span type="rp">（</span><span type="rt">りきお</span><span type="rp">）</span></span>さん」<lb />
-「あのひとのお嬢さんの<span type="ruby"><span type="rb">杜松</span><span type="rp">（</span><span type="rt">ねず</span><span type="rp">）</span></span>さんと、巴里でおなじキャンプにいたんだが、横浜で焼けた幹さんの疎開先がわからないというから、探しあてるまで、しばらく、うちでお世話してあげたいと思って……」<lb />
+「君も知っているだろう。正金銀行のボストンの支店長をしていた<seg type="ruby"><seg type="rb">幹</seg><seg type="rp">（</seg><seg type="rt">みき</seg><seg type="rp">）</seg></seg>さん」<lb />
+「知ってるわ。幹<seg type="ruby"><seg type="rb">利吉雄</seg><seg type="rp">（</seg><seg type="rt">りきお</seg><seg type="rp">）</seg></seg>さん」<lb />
+「あのひとのお嬢さんの<seg type="ruby"><seg type="rb">杜松</seg><seg type="rp">（</seg><seg type="rt">ねず</seg><seg type="rp">）</seg></seg>さんと、巴里でおなじキャンプにいたんだが、横浜で焼けた幹さんの疎開先がわからないというから、探しあてるまで、しばらく、うちでお世話してあげたいと思って……」<lb />
 「あなたにしては、神妙な話ね。ええ、よくわかったわ。その方が代人？」<lb />
 「十分ほどしたら、そちらへ行くから、よろしく」<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">三</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">三</seg></seg></seg>
 <lb />
-　杜松という娘の顔を、滋子は、あっけにとられてながめながら、生まれてからまだ、こんな美しい膚の色も、こんな完全な横顔も見たことがなかったと思った。<span type="ruby"><span type="rb">栗梅</span><span type="rp">（</span><span type="rt">くりうめ</span><span type="rp">）</span></span>の紋お召の衿もとに白茶の半襟を浅くのぞかせ、ぬいのある千草の綴錦の帯を高めなお太鼓にしめ、羽織は<span type="ruby"><span type="rb">寒色</span><span type="rp">（</span><span type="rt">さむいろ</span><span type="rp">）</span></span>縮緬の一つ紋で、振りから、大きな<span type="ruby"><span type="rb">雪輪</span><span type="rp">（</span><span type="rt">ゆきわ</span><span type="rp">）</span></span>の赤い裏がみえた。<lb />
-　杜松は<span type="ruby"><span type="rb">檐</span><span type="rp">（</span><span type="rt">のき</span><span type="rp">）</span></span>の蔭になった濡縁の近くに浅く坐って庭を見ていたが、滋子のほうへふりかえって、<lb />
+　杜松という娘の顔を、滋子は、あっけにとられてながめながら、生まれてからまだ、こんな美しい膚の色も、こんな完全な横顔も見たことがなかったと思った。<seg type="ruby"><seg type="rb">栗梅</seg><seg type="rp">（</seg><seg type="rt">くりうめ</seg><seg type="rp">）</seg></seg>の紋お召の衿もとに白茶の半襟を浅くのぞかせ、ぬいのある千草の綴錦の帯を高めなお太鼓にしめ、羽織は<seg type="ruby"><seg type="rb">寒色</seg><seg type="rp">（</seg><seg type="rt">さむいろ</seg><seg type="rp">）</seg></seg>縮緬の一つ紋で、振りから、大きな<seg type="ruby"><seg type="rb">雪輪</seg><seg type="rp">（</seg><seg type="rt">ゆきわ</seg><seg type="rp">）</seg></seg>の赤い裏がみえた。<lb />
+　杜松は<seg type="ruby"><seg type="rb">檐</seg><seg type="rp">（</seg><seg type="rt">のき</seg><seg type="rp">）</seg></seg>の蔭になった濡縁の近くに浅く坐って庭を見ていたが、滋子のほうへふりかえって、<lb />
 「この花は、萩でしょうか」<lb />
 　と、しずかにたずねた。滋子はそばへ立って行って、<lb />
-「あれが山萩、むこうのは豆萩……野萩……あちらが<span type="ruby"><span type="rb">千代</span><span type="rp">（</span><span type="rt">せんだい</span><span type="rp">）</span></span>萩。でも、あれは四月でなくては、咲きませんのよ」<lb />
+「あれが山萩、むこうのは豆萩……野萩……あちらが<seg type="ruby"><seg type="rb">千代</seg><seg type="rp">（</seg><seg type="rt">せんだい</seg><seg type="rp">）</seg></seg>萩。でも、あれは四月でなくては、咲きませんのよ」<lb />
 　杜松は顔をかしげるようにして、萩の花々をながめながら、<lb />
 「花も、サンパチックな、いい花ですけど、葉も、いやしい葉ではありませんのね」<lb />
 　といった。滋子は思わず笑いだして、<lb />
 「萩の葉をほめたのは、あなたがはじめてかも知れないわ。そういえば、フランスには、萩はなかったようでしたね」<lb />
 「レスペデーズって、いくらか似たのがありますけど、まるっきり、べつなものですわ」<lb />
 　そういうと、流れるように瞳をよせて<lb />
-「日本にだけあって、フランスにない花を見たくなると、息苦しくて、どうしていいかわからなくなるの……いぜん、母と二人で、<span type="ruby"><span type="rb">土筆</span><span type="rp">（</span><span type="rt">つくし</span><span type="rp">）</span></span>を摘みに、エトルタへまいりましたわ」<lb />
+「日本にだけあって、フランスにない花を見たくなると、息苦しくて、どうしていいかわからなくなるの……いぜん、母と二人で、<seg type="ruby"><seg type="rb">土筆</seg><seg type="rp">（</seg><seg type="rt">つくし</seg><seg type="rp">）</seg></seg>を摘みに、エトルタへまいりましたわ」<lb />
 「フランスでは、土筆のことを、鼠の尻尾というんでしょう」<lb />
 「あたしたちが土筆を摘んでいると、村の人が通りかかって、この国には、食えるようなものがないからなァ、なんてからかって行きますのよ」<lb />
 　急に陽が翳って、湿った潮の香にまじった苔の匂いが、冷え冷えと座敷にしみとおってきた。杜松が坐っているあたりは、いっそう蔭が深くなり、着物のくすんだ地色がしっとりと沈み、白い膚の色が浮きだすようにあざやかに見えた。<lb />
 　ふだんの滋子なら、すぐ気がつくのに、いままで見すごしていたのが、ふしぎなくらいだった。見てみると、三十歳ぐらいのひとの着付だが、十八、九の若さで、ちっともおかしくないというのは、これは、たいへんなひとなのだと思った。<lb />
-「失礼ですけど、そのお<span type="ruby"><span type="rb">衣裳</span><span type="rp">（</span><span type="rt">めし</span><span type="rp">）</span></span>、結構な地色ですことね」<lb />
+「失礼ですけど、そのお<seg type="ruby"><seg type="rb">衣裳</seg><seg type="rp">（</seg><seg type="rt">めし</seg><seg type="rp">）</seg></seg>、結構な地色ですことね」<lb />
 　杜松は、どこか薄青い深い眼付で、滋子を見ながら、<lb />
 「おほめをいただきまして、ありがとうございます。でも、これは母のおさがりですのよ。いちど、ちょっと日本へ帰ったときにつくったんだそうですけど、この着物が好きで、日本へ帰ることがあったら、これを着て帰るようにって、よく、あたしにそうもうしましたので、きょう思いきって着てみましたの……でも、三十年というと、たいへんなデモードね」<lb />
 「あなた、巴里のキャンプで、伊作といっしょでしたって？」<lb />
@@ -170,7 +170,7 @@
 「ふしぎなご縁とはまた、旧式なことね」<lb />
 「でも、知らない同士が、キャンプで知りあうなんてのは、よくせきな縁よ。戦争がなかったら、死ぬまで、逢わずにしまったかもしれないんだから」<lb />
 　幹さんとおっしゃる方にお電話、と女中がいいにきた。<lb />
-「ええ、<span type="ruby"><span type="rb">幹</span><span type="rp">（</span><span type="rt">みき</span><span type="rp">）</span></span>はあたくし」<lb />
+「ええ、<seg type="ruby"><seg type="rb">幹</seg><seg type="rp">（</seg><seg type="rt">みき</seg><seg type="rp">）</seg></seg>はあたくし」<lb />
 　杜松が立って行くと、安は滋子のそばへいざりよって、<lb />
 「滋さん、あなた気がついて？」<lb />
 　鹿のような濡れた大きな眼で滋子の顔を見つめながら、<lb />
@@ -188,7 +188,7 @@
 「たいへんな、めぐりあいね」<lb />
 　安はうなずいて、<lb />
 「まだ、たいへんなことがあるのよ。杜松さん、その奥さんに瓜二つなの」<lb />
-　<span type="ruby"><span type="rb">幹</span><span type="rp">（</span><span type="rt">みき</span><span type="rp">）</span></span><span type="ruby"><span type="rb">邦</span><span type="rp">（</span><span type="rt">くに</span><span type="rp">）</span></span>子が、夫の利吉雄を捨てて、誰かと欧羅巴へ駆落ちをしたというたいへんな評判で、新聞社の巴里と<span type="ruby"><span type="rb">倫敦</span><span type="rp">（</span><span type="rt">ロンドン</span><span type="rp">）</span></span>の支局は、本社からの命令で執拗に邦子の足どりを追及した。男と二人で欧羅巴のどこかにいることはたしかだが、所在をつかむことも、相手をつきとめることも、どちらも成功しなかった。その後、だいぶたってから、白耳義のスパや、<span type="ruby"><span type="rb">瑞西</span><span type="rp">（</span><span type="rt">スイス</span><span type="rp">）</span></span>のヴェーヴェなどで、邦子を見かけたというひとが、二三人あった。<lb />
+　<seg type="ruby"><seg type="rb">幹</seg><seg type="rp">（</seg><seg type="rt">みき</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">邦</seg><seg type="rp">（</seg><seg type="rt">くに</seg><seg type="rp">）</seg></seg>子が、夫の利吉雄を捨てて、誰かと欧羅巴へ駆落ちをしたというたいへんな評判で、新聞社の巴里と<seg type="ruby"><seg type="rb">倫敦</seg><seg type="rp">（</seg><seg type="rt">ロンドン</seg><seg type="rp">）</seg></seg>の支局は、本社からの命令で執拗に邦子の足どりを追及した。男と二人で欧羅巴のどこかにいることはたしかだが、所在をつかむことも、相手をつきとめることも、どちらも成功しなかった。その後、だいぶたってから、白耳義のスパや、<seg type="ruby"><seg type="rb">瑞西</seg><seg type="rp">（</seg><seg type="rt">スイス</seg><seg type="rp">）</seg></seg>のヴェーヴェなどで、邦子を見かけたというひとが、二三人あった。<lb />
 　滋子は、波のように揺れ揺れる萩の花むらを、眼を細めてながめながら、おなじ車におさまって、巴里の町なかを通るなどというのは、二人にとって、おそらくたった一度の油断だったのだろうが、それを見るはずもない安に見られたというのは、どういうことなのだろうと、つくづくと考え沈んだ。<lb />
 　杜松は、生き生きした顔つきになって戻ってくると、心のうれしさを包みきれぬといったようすで、<lb />
 「山住さんからでしたのよ……そちらの昼食には間に合わないけど、かならず夕方までに帰るからと、おっしゃっていらっしゃいました」<lb />
@@ -196,7 +196,7 @@
 　杜松は身体をはずませながら、<lb />
 「おあてになったわ。それは面白いお電話でしたのよ。山住さん、あんなにお笑いになったの、はじめてよ。そうして、あたしが電話を切ろうとしますと、もうすこし、もうすこしって……」<lb />
 　廊下に足音がして、女中たちが懐石膳を運んできた。<lb />
-　<span type="ruby"><span type="rb">向</span><span type="rp">（</span><span type="rt">むこう</span><span type="rp">）</span></span>は鯛のあらい、汁は鯉こく、椀盛は若鶏と蓮根、焼物は<span type="ruby"><span type="rb">藻魚</span><span type="rp">（</span><span type="rt">もうお</span><span type="rp">）</span></span>の空揚げ、八寸はあまご、箸洗いという献立で、青紫蘇の葉を敷いた鯛のあらいも、藻魚の附合せの紅葉おろしも、みな佗のある美しさだったが、安と向きあって食事をしている杜松の顔のなかにも、なにかそれと通じあうものがあるようで、滋子は、愁いに似た、やるせないほどの愛情で胸をつまらせた。<lb />
+　<seg type="ruby"><seg type="rb">向</seg><seg type="rp">（</seg><seg type="rt">むこう</seg><seg type="rp">）</seg></seg>は鯛のあらい、汁は鯉こく、椀盛は若鶏と蓮根、焼物は<seg type="ruby"><seg type="rb">藻魚</seg><seg type="rp">（</seg><seg type="rt">もうお</seg><seg type="rp">）</seg></seg>の空揚げ、八寸はあまご、箸洗いという献立で、青紫蘇の葉を敷いた鯛のあらいも、藻魚の附合せの紅葉おろしも、みな佗のある美しさだったが、安と向きあって食事をしている杜松の顔のなかにも、なにかそれと通じあうものがあるようで、滋子は、愁いに似た、やるせないほどの愛情で胸をつまらせた。<lb />
 　膳がひかれて、薄茶が出ると、安は茶碗を手に持ったまま、杜松のほうへ向きかえて、<lb />
 「みょうなことをおたずねするようですが、お母さま、昭和十二年の暮ごろ、マルセーユへおいでになったことはございませんでしたか」<lb />
 　杜松は指を折ってかぞえながら、<lb />
@@ -217,20 +217,20 @@
 　滋子は、そこへ坐りこむと、血の気をなくした顔に、なんともいいようのない薄笑いをうかべながら、<lb />
 「あなたのおっしゃるとおりだったわ」<lb />
 　身体を支えるように、右手を畳について、<lb />
-「あなたは、ちゃんと見ぬいていらしたんですから、驚きはなさらないでしょう……ね、驚かないでちょうだい。伊作、通訳になって、いまの船で、仏印へ発ったんですってよ。芦田とかいう参謀が、電話でしらせてよこしたの。引揚船が<span type="ruby"><span type="rb">海防</span><span type="rp">（</span><span type="rt">ハイフォン</span><span type="rp">）</span></span>に寄ったとき、司令部にいる友達と約束ができていたような話だったわ」<lb />
+「あなたは、ちゃんと見ぬいていらしたんですから、驚きはなさらないでしょう……ね、驚かないでちょうだい。伊作、通訳になって、いまの船で、仏印へ発ったんですってよ。芦田とかいう参謀が、電話でしらせてよこしたの。引揚船が<seg type="ruby"><seg type="rb">海防</seg><seg type="rp">（</seg><seg type="rt">ハイフォン</seg><seg type="rp">）</seg></seg>に寄ったとき、司令部にいる友達と約束ができていたような話だったわ」<lb />
 　安は天井を見あげるような恰好で、だまって聞いていたが、<lb />
 「若旦那は、もう日本へは帰って来ないつもりなんだね」<lb />
 　といいながら、顔をうつむけたひょうしに、キラリと光るものがひとつ膝のうえに落ちた。<lb />
-「いずれはこうなるものと、<span type="ruby"><span type="rb">初</span><span type="rp">（</span><span type="rt">はな</span><span type="rp">）</span></span>っから、ちゃんとわかっていた。あのひとの思いの残っている土地を、見捨てる気はさらさらないんだから、戦争がすんだら、そのままあちらへ戻るつもりなんだ。若旦那は日本へ帰って来ないといったわね。嘘じゃなかったでしょう」<lb />
+「いずれはこうなるものと、<seg type="ruby"><seg type="rb">初</seg><seg type="rp">（</seg><seg type="rt">はな</seg><seg type="rp">）</seg></seg>っから、ちゃんとわかっていた。あのひとの思いの残っている土地を、見捨てる気はさらさらないんだから、戦争がすんだら、そのままあちらへ戻るつもりなんだ。若旦那は日本へ帰って来ないといったわね。嘘じゃなかったでしょう」<lb />
 「でも、どうしてこんな末のことまで見ぬいていたの？」<lb />
 「若旦那と幹さんの奥さんのことは、ずうっと前に知っていた。あんなふうに、世間をだますようなことをしているんじゃ、いい終りはしなかろうから」<lb />
 「巴里へやってきたのは、二人を別れさせるつもりだったわけ？」<lb />
-「あんなところまで出かけて行くからには、もちろん、そのつもりだったのさ。若旦那のことなんか、けぶりにも口に出しはしなかったんだけど、マルセーユのレストランで食事をした短い間に、幹さんの奥さんは、こちらの気持を察しておしまいになったんだろう。こんなことをいうと、笑われそうだけど、元日の朝、車のなかで若旦那と並んだ姿を見せたのは<span type="ruby"><span type="rb">影身</span><span type="rp">（</span><span type="rt">かげみ</span><span type="rp">）</span></span>に添うのはゆるしてくれということだったのかもしれないわね……そうまでと知っていたら、なにも巴里へなんか出かけて行くことはなかった」<lb />
+「あんなところまで出かけて行くからには、もちろん、そのつもりだったのさ。若旦那のことなんか、けぶりにも口に出しはしなかったんだけど、マルセーユのレストランで食事をした短い間に、幹さんの奥さんは、こちらの気持を察しておしまいになったんだろう。こんなことをいうと、笑われそうだけど、元日の朝、車のなかで若旦那と並んだ姿を見せたのは<seg type="ruby"><seg type="rb">影身</seg><seg type="rp">（</seg><seg type="rt">かげみ</seg><seg type="rp">）</seg></seg>に添うのはゆるしてくれということだったのかもしれないわね……そうまでと知っていたら、なにも巴里へなんか出かけて行くことはなかった」<lb />
 　野萩の花の下に立っている杜松の後姿を、つくづくというふうにながめながら、<lb />
-「<span type="ruby"><span type="rb">代人</span><span type="rp">（</span><span type="rt">だいにん</span><span type="rp">）</span></span>とは、若旦那も、しゃれたことをいうじゃないの。杜松さんをあたしのところへよこして、これで借りはないというわけなの。あんな暢気なひともないもんだ」と笑いながらいった。<lb />
+「<seg type="ruby"><seg type="rb">代人</seg><seg type="rp">（</seg><seg type="rt">だいにん</seg><seg type="rp">）</seg></seg>とは、若旦那も、しゃれたことをいうじゃないの。杜松さんをあたしのところへよこして、これで借りはないというわけなの。あんな暢気なひともないもんだ」と笑いながらいった。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

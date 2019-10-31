@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2017-04-03">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：良本典代<lb />
@@ -31,15 +31,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 　今晩は、みなさん。<lb />
 　とりわけ果実をお好きな御婦人がたに申し上げるのでございます。<lb />
-　手前の<span rend="sesame_dot" rendition="em">からだ</span>は今夜果物店をひろげたのでございます。この真夜中に瓦斯燈ひとつ点けずとも　はい　この通り手前どもの果実は艶艶と光沢がよいのでございます。<lb />
+　手前の<seg rend="sesame_dot" rendition="em">からだ</seg>は今夜果物店をひろげたのでございます。この真夜中に瓦斯燈ひとつ点けずとも　はい　この通り手前どもの果実は艶艶と光沢がよいのでございます。<lb />
 　さあさあ、なんなりと一ツ、<lb />
 　このすばらしい朱欒の出来はどうでございます。この頸かざりにした紫真珠。葡萄はいかがでございます。<lb />
 　雪国のお方様にはこのまだほてつてゐるバナナの房がよろしうございます。<lb />
 　南の方のおかたにはこの涼しい一顆の梨をさしあげるでございませう。<lb />
-　特に<span type="ruby"><span type="rb">故郷</span><span type="rp">（</span><span type="rt">いなか</span><span type="rp">）</span></span>を恋しがつてゐらつしやるお方にはここに蒸立ての栗も用意してございます。<lb />
+　特に<seg type="ruby"><seg type="rb">故郷</seg><seg type="rp">（</seg><seg type="rt">いなか</seg><seg type="rp">）</seg></seg>を恋しがつてゐらつしやるお方にはここに蒸立ての栗も用意してございます。<lb />
 　大輪の柘榴も割れたばかり夜露に濡れて笑つてゐるのでございます。<lb />
 　はい。これはパパヤで。御覧の通りもぎたてで。したゝるお乳はまるで蝋涙のやうでございます。はい。このお乳で酋長のひとり娘はお湯を使ふのださうでございます。<lb />
 　はいはい。椰子の実もありますでございます。おさといお方には猿の臭ひが致しますのは致し方がないのでございます。<lb />
@@ -57,6 +57,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-09-09">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：良本典代<lb />
@@ -31,7 +31,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 北方に何ごとぞ<lb />
 雲　雲を引具して空を急いだ<lb />
 街<lb />
@@ -41,11 +41,11 @@
 アンテナは潜望鏡をまねて雲を観た<lb />
 北方に何ごとぞや？<lb />
 欅は丘で街を観た<lb />
-欅は<span type="ruby"><span type="rb">終日</span><span type="rp">（</span><span type="rt">いちにち</span><span type="rp">）</span></span>　雲を迎へて雲を送つた<lb />
+欅は<seg type="ruby"><seg type="rb">終日</seg><seg type="rp">（</seg><seg type="rt">いちにち</seg><seg type="rp">）</seg></seg>　雲を迎へて雲を送つた<lb />
 欅は終日　濡れる街を眺めてゐた<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-03-04">作成</resp><resp /><note>
 <lb />
-底本：「ふるさと文学館　第三三巻　【大阪<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
+底本：「ふるさと文学館　第三三巻　【大阪<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
 　　　1995（平成7）年8月15日初版発行<lb />
 底本の親本：「現代日本文学全集　89」筑摩書房<lb />
 　　　1975（昭和50）年<lb />
@@ -35,8 +35,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-あらゆる山が<span type="ruby"><span type="rb">歓</span><span type="rp">（</span><span type="rt">よろこ</span><span type="rp">）</span></span>んでゐる<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+あらゆる山が<seg type="ruby"><seg type="rb">歓</seg><seg type="rp">（</seg><seg type="rt">よろこ</seg><seg type="rp">）</seg></seg>んでゐる<lb />
 あらゆる山が語つてゐる<lb />
 あらゆる山が足ぶみして舞ふ、躍る<lb />
 あちらむく山と<lb />
@@ -48,7 +48,7 @@
 低くなり<lb />
 高くなり<lb />
 家族のやうに親しい山と<lb />
-他人のやうに<span type="ruby"><span type="rb">疎</span><span type="rp">（</span><span type="rt">うと</span><span type="rp">）</span></span>い山と<lb />
+他人のやうに<seg type="ruby"><seg type="rb">疎</seg><seg type="rp">（</seg><seg type="rt">うと</seg><seg type="rp">）</seg></seg>い山と<lb />
 遠くなり<lb />
 近くなり<lb />
 あらゆる山が<lb />
@@ -60,6 +60,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

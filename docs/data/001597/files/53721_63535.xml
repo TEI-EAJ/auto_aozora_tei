@@ -36,9 +36,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 前後左右を除く唯一の痕跡に於ける<lb />
-<span rend="dai1" style="font-size: large;"><span rend="futoji">翼段不逝　目大不覩</span></span><lb />
+<seg rend="dai1" rendition="span" style="font-size: large;"><seg rend="futoji" rendition="span">翼段不逝　目大不覩</seg></seg><lb />
 胖矮小形の神の眼前に我は落傷した故事を有つ。<lb />
 　┌──┐　　　　┌──┐<lb />
 　│　　│　　　　│　　│<lb />
@@ -48,6 +48,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

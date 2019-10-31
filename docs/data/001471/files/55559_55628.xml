@@ -34,10 +34,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 友よ<lb />
 わが一人の愚かなる人間の為めに<lb />
-秘かに鏡を用意して呉れ給<span type="ruby"><span type="rb">い</span><span type="rp">（</span><span type="rt">（ママ）</span><span type="rp">）</span></span><lb />
+秘かに鏡を用意して呉れ給<seg type="ruby"><seg type="rb">い</seg><seg type="rp">（</seg><seg type="rt">（ママ）</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 そこに一人の狂人がいる<lb />
 彼は真紅の夢を胎むことによって<lb />
@@ -67,6 +67,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

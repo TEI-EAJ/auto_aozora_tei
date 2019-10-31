@@ -34,10 +34,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 日ハ光レリ、鏡ノ中ニ、<lb />
 光ノミ照リカガヤケリ、<lb />
-ソハアマリニ<span type="ruby"><span type="rb">眩</span><span type="rp">（</span><span type="rt">マブ</span><span type="rp">）</span></span>シ。<lb />
+ソハアマリニ<seg type="ruby"><seg type="rb">眩</seg><seg type="rp">（</seg><seg type="rt">マブ</seg><seg type="rp">）</seg></seg>シ。<lb />
 <lb />
 日ハ光レリ、鏡ノ中ニ、<lb />
 冷ヤカニ照リカガヤケリ。<lb />
@@ -46,6 +46,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

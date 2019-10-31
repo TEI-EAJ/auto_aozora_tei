@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2007-12-11">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　4<span rend="notes">［＃「4」はローマ数字、1-13-24］</span>」三一書房
+底本：「久生十蘭全集　4<seg rend="notes" rendition="span">［＃「4」はローマ数字、1-13-24］</seg>」三一書房
 <lb />
 　　　1970（昭和45）年3月31日第1版第1刷発行<lb />
 入力：tatsuki<lb />
@@ -32,22 +32,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div">
+    <body><p><seg rend="main_text" rendition="div">
 <lb />
 <lb />
 <lb />
-　　　<span type="ruby"><span type="rb">府中</span><span type="rp">（</span><span type="rt">ふちゅう</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">府中</seg><seg type="rp">（</seg><seg type="rt">ふちゅう</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 「……すみませんねえ。これじゃ冥利につきるようで身体がちぢみます」<lb />
 「やかましい、黙って乗っておれというのに」<lb />
-　駕籠に乗っているのは、ついこのあいだまで顎十郎の下まわりだった神田鍋町の御用聞、<span rend="SESAME_DOT" rendition="strong">ひょろり</span>の松五郎。<lb />
-　かついでいるほうは、もとは江戸一の捕物の名人で、今はただの駕籠屋。仙波阿古十郎あらためアコ長。相棒は九州の浪人くずれで<span type="ruby"><span type="rb">雷土々呂進</span><span type="rp">（</span><span type="rt">いかずちとどろしん</span><span type="rp">）</span></span>こと、とど助。<lb />
-　とど助はどうでもいいが、顎十郎のほうは、ひょろ松にしてみればなんといっても以前の主人すじ。いわんや、捕物御前試合で勝名のりをうけたほどの<span type="ruby"><span type="rb">推才活眼</span><span type="rp">（</span><span type="rt">すいさいかつがん</span><span type="rp">）</span></span>、師匠とも先生ともあおいできた仙波阿古十郎。<lb />
+　駕籠に乗っているのは、ついこのあいだまで顎十郎の下まわりだった神田鍋町の御用聞、<seg rend="SESAME_DOT" rendition="strong">ひょろり</seg>の松五郎。<lb />
+　かついでいるほうは、もとは江戸一の捕物の名人で、今はただの駕籠屋。仙波阿古十郎あらためアコ長。相棒は九州の浪人くずれで<seg type="ruby"><seg type="rb">雷土々呂進</seg><seg type="rp">（</seg><seg type="rt">いかずちとどろしん</seg><seg type="rp">）</seg></seg>こと、とど助。<lb />
+　とど助はどうでもいいが、顎十郎のほうは、ひょろ松にしてみればなんといっても以前の主人すじ。いわんや、捕物御前試合で勝名のりをうけたほどの<seg type="ruby"><seg type="rb">推才活眼</seg><seg type="rp">（</seg><seg type="rt">すいさいかつがん</seg><seg type="rp">）</seg></seg>、師匠とも先生ともあおいできた仙波阿古十郎。<lb />
 　むこうは、ふっつりと縁を切ったつもりかも知れないが、こっちは切られたとは思ってない。駈けつけて行って袖にすがれば、いつでも智慧を貸して貰われると思っている。<lb />
-　本来なら、自分のほうが棒鼻につかまって引っかついで行くべきところを、こちらが師匠にかつがれて駕籠の中で膝小僧をだいて揺られているというんだから、これは、どうも気がさすのが<span type="ruby"><span type="rb">当然</span><span type="rp">（</span><span type="rt">あたりまえ</span><span type="rp">）</span></span>。<lb />
+　本来なら、自分のほうが棒鼻につかまって引っかついで行くべきところを、こちらが師匠にかつがれて駕籠の中で膝小僧をだいて揺られているというんだから、これは、どうも気がさすのが<seg type="ruby"><seg type="rb">当然</seg><seg type="rp">（</seg><seg type="rt">あたりまえ</seg><seg type="rp">）</seg></seg>。<lb />
 　もっとも、ひょろ松のほうで、おい、駕籠と大束をきめこんだわけじゃない。事実のところザックバランに言えば、嫌がるのを無理やりに乗せられた……。<lb />
-　五月五日は、府中<span type="ruby"><span type="rb">六所明神</span><span type="rp">（</span><span type="rt">ろくしょみょうじん</span><span type="rp">）</span></span>の名代の<span type="ruby"><span type="rb">暗闇祭</span><span type="rp">（</span><span type="rt">くらやみまつり</span><span type="rp">）</span></span>。<span type="ruby"><span type="rb">大国魂</span><span type="rp">（</span><span type="rt">おおくにたま</span><span type="rp">）</span></span>さまの<span type="ruby"><span type="rb">御霊遷</span><span type="rp">（</span><span type="rt">みたまうつし</span><span type="rp">）</span></span>のある刻限前に、どうでも府中まで駈けつけねばならぬ用事があって、甲州街道の駕籠立場まで来て、むこうっ脛の強そうなのを選んでいると、いきなり顎十郎にとっつかまってしまった。<lb />
-「おお、ひょろ松じゃないか。<span type="ruby"><span type="rb">大仰</span><span type="rp">（</span><span type="rt">おおぎょう</span><span type="rp">）</span></span>な旅支度で、いったい、どこへ行く」<lb />
+　五月五日は、府中<seg type="ruby"><seg type="rb">六所明神</seg><seg type="rp">（</seg><seg type="rt">ろくしょみょうじん</seg><seg type="rp">）</seg></seg>の名代の<seg type="ruby"><seg type="rb">暗闇祭</seg><seg type="rp">（</seg><seg type="rt">くらやみまつり</seg><seg type="rp">）</seg></seg>。<seg type="ruby"><seg type="rb">大国魂</seg><seg type="rp">（</seg><seg type="rt">おおくにたま</seg><seg type="rp">）</seg></seg>さまの<seg type="ruby"><seg type="rb">御霊遷</seg><seg type="rp">（</seg><seg type="rt">みたまうつし</seg><seg type="rp">）</seg></seg>のある刻限前に、どうでも府中まで駈けつけねばならぬ用事があって、甲州街道の駕籠立場まで来て、むこうっ脛の強そうなのを選んでいると、いきなり顎十郎にとっつかまってしまった。<lb />
+「おお、ひょろ松じゃないか。<seg type="ruby"><seg type="rb">大仰</seg><seg type="rp">（</seg><seg type="rt">おおぎょう</seg><seg type="rp">）</seg></seg>な旅支度で、いったい、どこへ行く」<lb />
 　正月の狸合戦以来、かけちがって半年近くあわなかったところだったので、ひょろ松も懐かしく、顎十郎のそばへ駈けて行くと、半纒の襟にすがらんばかりにして、<lb />
 「おお、これは先生、……阿古十郎さん、いつも御機嫌よくて……」<lb />
 　顎十郎のアコ長は、有名な冬瓜顎をツン出して、<lb />
@@ -60,12 +60,12 @@
 「なにもそう反っくり返って驚くほどのことはあるまい。ここ五日ばかりあぶれつづきで弱っていたところだ。いい折だからお前を乗せてやる」<lb />
 「どうしまして、そんなもったいねえことが……」<lb />
 　と言いながら、ヒョイとかたわらにおいてある駕籠を見ると、これがひどい。<lb />
-　吉原土手で辻斬にあったやつがお<span type="ruby"><span type="rb">鉄漿溝</span><span type="rp">（</span><span type="rt">はぐろどぶ</span><span type="rp">）</span></span>の中へころげこんで、そこに三年<span type="ruby"><span type="rb">三月</span><span type="rp">（</span><span type="rt">みつき</span><span type="rp">）</span></span>も<span type="ruby"><span type="rb">浸</span><span type="rp">（</span><span type="rt">つか</span><span type="rp">）</span></span>っていたというようなおんぼろ駕籠。<lb />
-　垂れはケシ飛び<span type="ruby"><span type="rb">凭竹</span><span type="rp">（</span><span type="rt">もたれ</span><span type="rp">）</span></span>は干割れ、底がぬけかかったのを荒削りの松板を釘でぶっつけてある。この駕籠で七里半の道をゆられて行ったら、まず命がもたない。<lb />
+　吉原土手で辻斬にあったやつがお<seg type="ruby"><seg type="rb">鉄漿溝</seg><seg type="rp">（</seg><seg type="rt">はぐろどぶ</seg><seg type="rp">）</seg></seg>の中へころげこんで、そこに三年<seg type="ruby"><seg type="rb">三月</seg><seg type="rp">（</seg><seg type="rt">みつき</seg><seg type="rp">）</seg></seg>も<seg type="ruby"><seg type="rb">浸</seg><seg type="rp">（</seg><seg type="rt">つか</seg><seg type="rp">）</seg></seg>っていたというようなおんぼろ駕籠。<lb />
+　垂れはケシ飛び<seg type="ruby"><seg type="rb">凭竹</seg><seg type="rp">（</seg><seg type="rt">もたれ</seg><seg type="rp">）</seg></seg>は干割れ、底がぬけかかったのを荒削りの松板を釘でぶっつけてある。この駕籠で七里半の道をゆられて行ったら、まず命がもたない。<lb />
 　ひょろ松は、恐れをなし、<lb />
 「うわッ、こいつアいけねえ。この駕籠じゃどうも……」<lb />
-　とど助は、<span type="ruby"><span type="rb">花和尚魯智深</span><span type="rp">（</span><span type="rt">かおしょうろちしん</span><span type="rp">）</span></span>のような大眼玉を<span type="ruby"><span type="rb">剥</span><span type="rp">（</span><span type="rt">む</span><span type="rp">）</span></span>いて、腕まくりをしながらアコ長のほうへ振りかえり、<lb />
-「こやつは不とどきな奴ですな。むかしの主人が食の料をうるために乗ってくれとことをわけてたのんでおるのに、<span type="ruby"><span type="rb">素見</span><span type="rp">（</span><span type="rt">ひや</span><span type="rp">）</span></span>かすというのは怪しからん。こういう不人情なやつは、脛でもたたき折って、否応なしに駕籠の中へドシこんでしまわッせ。拙者もお手つだいするけン」<lb />
+　とど助は、<seg type="ruby"><seg type="rb">花和尚魯智深</seg><seg type="rp">（</seg><seg type="rt">かおしょうろちしん</seg><seg type="rp">）</seg></seg>のような大眼玉を<seg type="ruby"><seg type="rb">剥</seg><seg type="rp">（</seg><seg type="rt">む</seg><seg type="rp">）</seg></seg>いて、腕まくりをしながらアコ長のほうへ振りかえり、<lb />
+「こやつは不とどきな奴ですな。むかしの主人が食の料をうるために乗ってくれとことをわけてたのんでおるのに、<seg type="ruby"><seg type="rb">素見</seg><seg type="rp">（</seg><seg type="rt">ひや</seg><seg type="rp">）</seg></seg>かすというのは怪しからん。こういう不人情なやつは、脛でもたたき折って、否応なしに駕籠の中へドシこんでしまわッせ。拙者もお手つだいするけン」<lb />
 　ひょろ松は、手をあわせて、<lb />
 「乗ります、乗ります。観念して乗せていただくことにしますから、そんな凄い顔をしないでください」<lb />
 　ひょろ松は、ほうほうの態で駕籠のほうへ近よりながら、<lb />
@@ -75,21 +75,21 @@
 「こりゃア驚いた、それもわたしが払うんで」<lb />
 「まあ、そうだ」<lb />
 「乗りかかった駕籠だ。もう、観念しまっせ」<lb />
-　二人のうしろに喰いついて、ひょろ松が渋しぶ立場へ入ると、アコ長ととど助は落着いたもので、<span type="ruby"><span type="rb">芋豆腐</span><span type="rp">（</span><span type="rt">いもどうふ</span><span type="rp">）</span></span>を肴にいっぱい<span type="ruby"><span type="rb">飲</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>りだした。<lb />
+　二人のうしろに喰いついて、ひょろ松が渋しぶ立場へ入ると、アコ長ととど助は落着いたもので、<seg type="ruby"><seg type="rb">芋豆腐</seg><seg type="rp">（</seg><seg type="rt">いもどうふ</seg><seg type="rp">）</seg></seg>を肴にいっぱい<seg type="ruby"><seg type="rb">飲</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>りだした。<lb />
 　ひょろ松は、あわてて、<lb />
 「こりゃア、どうも弱った。そうゆっくり腰をすえられちゃア困ります。なにしろ、あっしは大急ぎなンで……」<lb />
 　とど助は、気にもかけぬふうで、<lb />
-「まあ、まア、そう急ぐことはない。これから府中までは七里半の道。じゅうぶんに<span type="ruby"><span type="rb">兵糧</span><span type="rp">（</span><span type="rt">ひょうろう</span><span type="rp">）</span></span>を入れておかんことには早駈けすることが出来ん。兵には糧、駕籠屋には酒。ちゃんと兵法の書にも書いてある。あんたもあわてずドシコと飯でもつめこんでおきまっせ」<lb />
+「まあ、まア、そう急ぐことはない。これから府中までは七里半の道。じゅうぶんに<seg type="ruby"><seg type="rb">兵糧</seg><seg type="rp">（</seg><seg type="rt">ひょうろう</seg><seg type="rp">）</seg></seg>を入れておかんことには早駈けすることが出来ん。兵には糧、駕籠屋には酒。ちゃんと兵法の書にも書いてある。あんたもあわてずドシコと飯でもつめこんでおきまっせ」<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">銀簪</span><span type="rp">（</span><span type="rt">ぎんかんざし</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">銀簪</seg><seg type="rp">（</seg><seg type="rt">ぎんかんざし</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　ようやく腰をあげたのが、<span type="ruby"><span type="rb">正午</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>すぎの八ツごろ。<lb />
+　ようやく腰をあげたのが、<seg type="ruby"><seg type="rb">正午</seg><seg type="rp">（</seg><seg type="rt">ひる</seg><seg type="rp">）</seg></seg>すぎの八ツごろ。<lb />
 　アコ長もとど助も空っ腹にむやみに飲んだもんだからへべれけのよろよろ。一歩は高く一歩は低くというぐあいに、甲州街道を代田橋から松原のほうへヒョロリヒョロリとやって行く。<lb />
-　駕籠の中のひょろ松は大<span type="ruby"><span type="rb">時化</span><span type="rp">（</span><span type="rt">しけ</span><span type="rp">）</span></span>にあった伝馬船のよう。駕籠が揺れるたびに、つんのめったりひっくりかえったり、芋の子でも洗うような<span type="ruby"><span type="rb">七転八倒</span><span type="rp">（</span><span type="rt">しってんばっとう</span><span type="rp">）</span></span>。<lb />
-　座蒲団なんてえものもなく、荒削りの松板に<span type="ruby"><span type="rb">直</span><span type="rp">（</span><span type="rt">ぢか</span><span type="rp">）</span></span>に坐っている上にあっちこっちにぶっつけるもんだから頭じゅう<span type="ruby"><span type="rb">瘤</span><span type="rp">（</span><span type="rt">こぶ</span><span type="rp">）</span></span>だらけ。<lb />
+　駕籠の中のひょろ松は大<seg type="ruby"><seg type="rb">時化</seg><seg type="rp">（</seg><seg type="rt">しけ</seg><seg type="rp">）</seg></seg>にあった伝馬船のよう。駕籠が揺れるたびに、つんのめったりひっくりかえったり、芋の子でも洗うような<seg type="ruby"><seg type="rb">七転八倒</seg><seg type="rp">（</seg><seg type="rt">しってんばっとう</seg><seg type="rp">）</seg></seg>。<lb />
+　座蒲団なんてえものもなく、荒削りの松板に<seg type="ruby"><seg type="rb">直</seg><seg type="rp">（</seg><seg type="rt">ぢか</seg><seg type="rp">）</seg></seg>に坐っている上にあっちこっちにぶっつけるもんだから頭じゅう<seg type="ruby"><seg type="rb">瘤</seg><seg type="rp">（</seg><seg type="rt">こぶ</seg><seg type="rp">）</seg></seg>だらけ。<lb />
 　ひょろ松は、情ない声で、<lb />
 「もしもし、お二人さん。なんとかも少しお急ぎくださるわけにはまいりますまいか。このぶんじゃ府中へつくと夜があけてしまいます」<lb />
-　アコ長は、<span type="ruby"><span type="rb">膠</span><span type="rp">（</span><span type="rt">にべ</span><span type="rp">）</span></span>もなく、<lb />
+　アコ長は、<seg type="ruby"><seg type="rb">膠</seg><seg type="rp">（</seg><seg type="rt">にべ</seg><seg type="rp">）</seg></seg>もなく、<lb />
 「まア、あわてるな。どうせ一本道。ブラブラやって行くうちに、いずれは府中へつく。……それはそうと、ひょろ松、いったい、どんな用むきで府中へなどすっ飛んで行くのだ。ひとつ眠けざましに聞かせたらどうだ。おもしろい話なら久しぶりに、ひと口のってやってもいい」<lb />
 　ひょろ松は、えッ、とおどろいて、<lb />
 「それは、ほんとうですか」<lb />
@@ -99,41 +99,41 @@
 「やはり、御用の筋なのか」<lb />
 「へえ、そうなんでございます。わっしは、さっきから相談を持ちかけたくてムズムズしていたんですが、御用の話をするとあなたは嫌な顔をなさるから、それで我慢していたンです。……では、これからお話しますが、もうすこし駕籠が揺れないようになんとかなりませんものでしょうか。舌を噛みきりそうで危くてしょうがない」<lb />
 「よしよし、この調子ではどうだな」<lb />
-「結構でございます。すみませんねえ。……実はね、こういうわけなんでございます。府中で手びろく<span type="ruby"><span type="rb">物産廻送</span><span type="rp">（</span><span type="rt">ぶっさんかいそう</span><span type="rp">）</span></span>をやっている<span type="ruby"><span type="rb">近江屋</span><span type="rp">（</span><span type="rt">おうみや</span><span type="rp">）</span></span>鉄五郎というのがあります。それにお源というのとお沢というのと齢ごろになる娘が二人いて、先年、姉娘のお源に婿をとることになり、やはり同業の<span type="ruby"><span type="rb">青梅屋</span><span type="rp">（</span><span type="rt">おうめや</span><span type="rp">）</span></span>の三男坊で新七というのがきまった。どちらがわの親類にも異存がなく、七日ほど前に<span type="ruby"><span type="rb">結納</span><span type="rp">（</span><span type="rt">ゆいのう</span><span type="rp">）</span></span>をとりかわしたのですが、ところで、大国魂神社の<span type="ruby"><span type="rb">神主</span><span type="rp">（</span><span type="rt">かんぬし</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">猿渡平間</span><span type="rp">（</span><span type="rt">さわたりひらま</span><span type="rp">）</span></span>の甥で、<span type="ruby"><span type="rb">桜場清六</span><span type="rp">（</span><span type="rt">さくらばせいろく</span><span type="rp">）</span></span>という勤番くずれ。大酒呑みの暴れ者で、府中じゅうの鼻っつまみになっているやつなんですが、こいつが以前からお源に横恋慕をしていて、うぬぼれっ気のあるやつだからてっきり自分が近江屋の婿になれるもンだとひとり合点できめていた」<lb />
+「結構でございます。すみませんねえ。……実はね、こういうわけなんでございます。府中で手びろく<seg type="ruby"><seg type="rb">物産廻送</seg><seg type="rp">（</seg><seg type="rt">ぶっさんかいそう</seg><seg type="rp">）</seg></seg>をやっている<seg type="ruby"><seg type="rb">近江屋</seg><seg type="rp">（</seg><seg type="rt">おうみや</seg><seg type="rp">）</seg></seg>鉄五郎というのがあります。それにお源というのとお沢というのと齢ごろになる娘が二人いて、先年、姉娘のお源に婿をとることになり、やはり同業の<seg type="ruby"><seg type="rb">青梅屋</seg><seg type="rp">（</seg><seg type="rt">おうめや</seg><seg type="rp">）</seg></seg>の三男坊で新七というのがきまった。どちらがわの親類にも異存がなく、七日ほど前に<seg type="ruby"><seg type="rb">結納</seg><seg type="rp">（</seg><seg type="rt">ゆいのう</seg><seg type="rp">）</seg></seg>をとりかわしたのですが、ところで、大国魂神社の<seg type="ruby"><seg type="rb">神主</seg><seg type="rp">（</seg><seg type="rt">かんぬし</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">猿渡平間</seg><seg type="rp">（</seg><seg type="rt">さわたりひらま</seg><seg type="rp">）</seg></seg>の甥で、<seg type="ruby"><seg type="rb">桜場清六</seg><seg type="rp">（</seg><seg type="rt">さくらばせいろく</seg><seg type="rp">）</seg></seg>という勤番くずれ。大酒呑みの暴れ者で、府中じゅうの鼻っつまみになっているやつなんですが、こいつが以前からお源に横恋慕をしていて、うぬぼれっ気のあるやつだからてっきり自分が近江屋の婿になれるもンだとひとり合点できめていた」<lb />
 「ちょっと、おめえに似たようなところがあるな」<lb />
-「まぜっ返しちゃいけません。……もっとも、桜場のほうでもそううぬぼれていいようなわけがある。というのは、ご存じでもありましょうが、府中の暗闇祭というのは、御神輿の<span type="ruby"><span type="rb">渡御</span><span type="rp">（</span><span type="rt">とぎょ</span><span type="rp">）</span></span>するあいだ、府中の町じゅうひとつの灯火もないようにまっ暗にしてしまう。もったいない話ですが、年々一度のこの大祭がみだらな娘や若い者の目あてなんで、おたがいに顔が知れずにすむところから<span type="ruby"><span type="rb">真暗三宝</span><span type="rp">（</span><span type="rt">まっくらさんぽう</span><span type="rp">）</span></span>に乳くりあうという風儀の悪いお祭なんです。お源もその例にもれず行きあたりばったりにちょっと<span type="ruby"><span type="rb">悪戯</span><span type="rp">（</span><span type="rt">わるさ</span><span type="rp">）</span></span>をしたんですが、運悪くその相手が桜場清六。……こいつはいま言ったようにすれっからしの道楽者で、そんなほうには抜け目のないやつだから、手さぐりでそっとお源の銀の平打ちを引きぬいておいたんです」<lb />
+「まぜっ返しちゃいけません。……もっとも、桜場のほうでもそううぬぼれていいようなわけがある。というのは、ご存じでもありましょうが、府中の暗闇祭というのは、御神輿の<seg type="ruby"><seg type="rb">渡御</seg><seg type="rp">（</seg><seg type="rt">とぎょ</seg><seg type="rp">）</seg></seg>するあいだ、府中の町じゅうひとつの灯火もないようにまっ暗にしてしまう。もったいない話ですが、年々一度のこの大祭がみだらな娘や若い者の目あてなんで、おたがいに顔が知れずにすむところから<seg type="ruby"><seg type="rb">真暗三宝</seg><seg type="rp">（</seg><seg type="rt">まっくらさんぽう</seg><seg type="rp">）</seg></seg>に乳くりあうという風儀の悪いお祭なんです。お源もその例にもれず行きあたりばったりにちょっと<seg type="ruby"><seg type="rb">悪戯</seg><seg type="rp">（</seg><seg type="rt">わるさ</seg><seg type="rp">）</seg></seg>をしたんですが、運悪くその相手が桜場清六。……こいつはいま言ったようにすれっからしの道楽者で、そんなほうには抜け目のないやつだから、手さぐりでそっとお源の銀の平打ちを引きぬいておいたんです」<lb />
 「怪しからんやつだの」<lb />
-「……次の日になって簪の紋を調べて見ると、府中小町なんていわれるお源のものだということがわかったから、桜場はすっかり悦に入ってしまった。かねてお源にはぞっこんまいっていて附け文の二、三度もしたことがあるンだから、てっきり文の返事を手っとり早いところでやってくれたンだと早合点して、自分じゃもうお源の婿になったつもりでおさまり返っていた。……ちょうどそのころ、桜場はよんどころない用事で江戸へ出かけなければならないことになり、一年ばかりしてから府中へ帰ってみると、青梅屋の三男坊が婿にきまって、もう結納までとりかわしたというんだからおさまらない。……俺とお源は去年の暗闇祭にきっぱりとした<span type="ruby"><span type="rb">関係</span><span type="rp">（</span><span type="rt">わけ</span><span type="rp">）</span></span>になっているンだから、お源の婿はこの桜場清六。強情でも騙りでもねえ、まぎれもないその証拠はこの銀簪、てなわけで青梅屋の店さきへ大あぐらをかいて<span type="ruby"><span type="rb">啖呵</span><span type="rp">（</span><span type="rt">たんか</span><span type="rp">）</span></span>を切ったンです。……青梅屋のほうじゃ<span type="ruby"><span type="rb">竦</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>みあがっちまった。結納の翌々日、しかも相手もあろうに乱暴無類の桜場清六だというんだから手も足も出ない。すったもんだのすえ府中の顔役の<span type="ruby"><span type="rb">二引藤右衛門</span><span type="rp">（</span><span type="rt">にびきとうえもん</span><span type="rp">）</span></span>、これに仲へ入ってもらって三百両という金でおさまってもらうことにした。……桜場のほうは二引に頭のあがらないわけがあって、その場はそれで承知したんですが、お源のことが忘れられないとみえ、小料理屋を飲みまわってグデングデンになったすえ、いまに青梅屋を<span type="ruby"><span type="rb">鏖殺</span><span type="rp">（</span><span type="rt">みなごろ</span><span type="rp">）</span></span>しにして男の一分を立ててやる。暗闇祭で出来あってちょうど一年目、あんな青二才に見かえられた鬱憤ばらし、その日が<span type="ruby"><span type="rb">生命</span><span type="rp">（</span><span type="rt">いのち</span><span type="rp">）</span></span>の瀬戸ぎわと思え、なんて凄いことを口走る。これを聞いたのは一人や二人じゃないんです。……酔ったまぎれのたわごとと取れないこともないが、殺気立った気狂いじみた男のことだから、ひょっとすると本当にやりかねないものでもない。……ところで、困ったことには近江屋のほうは、これが氏子総代で、毎年の例で一家じゅうがお渡御の行列にくわわる定めになっていて、どうにものっぴきならない。たぶん、<span type="ruby"><span type="rb">杞憂</span><span type="rp">（</span><span type="rt">きゆう</span><span type="rp">）</span></span>ではあろうけれど、万一のためにどなたかひとりお差立てねがい、一家の生命の瀬戸ぎわをお護りくださるわけにはまいりますまいか、という鉄五郎からの早文で、それで、こうして出かけて行くところなンでございます」<lb />
+「……次の日になって簪の紋を調べて見ると、府中小町なんていわれるお源のものだということがわかったから、桜場はすっかり悦に入ってしまった。かねてお源にはぞっこんまいっていて附け文の二、三度もしたことがあるンだから、てっきり文の返事を手っとり早いところでやってくれたンだと早合点して、自分じゃもうお源の婿になったつもりでおさまり返っていた。……ちょうどそのころ、桜場はよんどころない用事で江戸へ出かけなければならないことになり、一年ばかりしてから府中へ帰ってみると、青梅屋の三男坊が婿にきまって、もう結納までとりかわしたというんだからおさまらない。……俺とお源は去年の暗闇祭にきっぱりとした<seg type="ruby"><seg type="rb">関係</seg><seg type="rp">（</seg><seg type="rt">わけ</seg><seg type="rp">）</seg></seg>になっているンだから、お源の婿はこの桜場清六。強情でも騙りでもねえ、まぎれもないその証拠はこの銀簪、てなわけで青梅屋の店さきへ大あぐらをかいて<seg type="ruby"><seg type="rb">啖呵</seg><seg type="rp">（</seg><seg type="rt">たんか</seg><seg type="rp">）</seg></seg>を切ったンです。……青梅屋のほうじゃ<seg type="ruby"><seg type="rb">竦</seg><seg type="rp">（</seg><seg type="rt">すく</seg><seg type="rp">）</seg></seg>みあがっちまった。結納の翌々日、しかも相手もあろうに乱暴無類の桜場清六だというんだから手も足も出ない。すったもんだのすえ府中の顔役の<seg type="ruby"><seg type="rb">二引藤右衛門</seg><seg type="rp">（</seg><seg type="rt">にびきとうえもん</seg><seg type="rp">）</seg></seg>、これに仲へ入ってもらって三百両という金でおさまってもらうことにした。……桜場のほうは二引に頭のあがらないわけがあって、その場はそれで承知したんですが、お源のことが忘れられないとみえ、小料理屋を飲みまわってグデングデンになったすえ、いまに青梅屋を<seg type="ruby"><seg type="rb">鏖殺</seg><seg type="rp">（</seg><seg type="rt">みなごろ</seg><seg type="rp">）</seg></seg>しにして男の一分を立ててやる。暗闇祭で出来あってちょうど一年目、あんな青二才に見かえられた鬱憤ばらし、その日が<seg type="ruby"><seg type="rb">生命</seg><seg type="rp">（</seg><seg type="rt">いのち</seg><seg type="rp">）</seg></seg>の瀬戸ぎわと思え、なんて凄いことを口走る。これを聞いたのは一人や二人じゃないんです。……酔ったまぎれのたわごとと取れないこともないが、殺気立った気狂いじみた男のことだから、ひょっとすると本当にやりかねないものでもない。……ところで、困ったことには近江屋のほうは、これが氏子総代で、毎年の例で一家じゅうがお渡御の行列にくわわる定めになっていて、どうにものっぴきならない。たぶん、<seg type="ruby"><seg type="rb">杞憂</seg><seg type="rp">（</seg><seg type="rt">きゆう</seg><seg type="rp">）</seg></seg>ではあろうけれど、万一のためにどなたかひとりお差立てねがい、一家の生命の瀬戸ぎわをお護りくださるわけにはまいりますまいか、という鉄五郎からの早文で、それで、こうして出かけて行くところなンでございます」<lb />
 　アコ長は、なるほど、とうなずいてから、とど助に、<lb />
 「ねえ、とど助さん、お聞きになりましたか。人を殺すのに名乗りをかけてからやるやつもないもんだが、しかし、そんな気狂いじみたあぶれ者ということなら、やけっ腹になってどんなことをしでかさないともかぎらない。これは、チト物騒ですな」<lb />
 　とど助はうなずいて、<lb />
 「そういうことであれば、マゴマゴしているわけには行かん。お渡御までに行きついて、あるまいまでも、なんとか防ぎをつけてやらねばなるまいて」<lb />
 「じゃア、ひとつ、急ぎますかな」<lb />
 「合点でござる。どうやら酒もさめたよう。天馬空というぐあいにやりますか。……ひょろ松どの、今まではノラリクラリとやっていたが、これから大早乗と行きますから舌を噛みきらないように用心していまっせ。これからは、少々手荒いかも知れませんゾ」<lb />
-　急に威勢がよくなって、アコ長ととど助の二人、息杖を取りなおすとエッホ、エッホと息声をあわせながら<span type="ruby"><span type="rb">韋駄天</span><span type="rp">（</span><span type="rt">いだてん</span><span type="rp">）</span></span>走り、下高井戸から調布、上田原とむさんに飛んで行く。<lb />
+　急に威勢がよくなって、アコ長ととど助の二人、息杖を取りなおすとエッホ、エッホと息声をあわせながら<seg type="ruby"><seg type="rb">韋駄天</seg><seg type="rp">（</seg><seg type="rt">いだてん</seg><seg type="rp">）</seg></seg>走り、下高井戸から調布、上田原とむさんに飛んで行く。<lb />
 <lb />
-　　　<span type="ruby"><span type="rb">暗闇祭</span><span type="rp">（</span><span type="rt">くらやみまつり</span><span type="rp">）</span></span><lb />
+　　　<seg type="ruby"><seg type="rb">暗闇祭</seg><seg type="rp">（</seg><seg type="rt">くらやみまつり</seg><seg type="rp">）</seg></seg><lb />
 <lb />
-　大急ぎに急いだが、出がけに油を売ったもんだから府中へついたのは真夜中の<span type="ruby"><span type="rb">子</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>の刻。<lb />
-　暗闇祭のはじまる<span type="ruby"><span type="rb">丑</span><span type="rp">（</span><span type="rt">うし</span><span type="rp">）</span></span>の刻まであと一刻しかない。<lb />
+　大急ぎに急いだが、出がけに油を売ったもんだから府中へついたのは真夜中の<seg type="ruby"><seg type="rb">子</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>の刻。<lb />
+　暗闇祭のはじまる<seg type="ruby"><seg type="rb">丑</seg><seg type="rp">（</seg><seg type="rt">うし</seg><seg type="rp">）</seg></seg>の刻まであと一刻しかない。<lb />
 　ひょろ松は、さっそく近江屋鉄五郎にあって、江戸から早乗できた挨拶をし、すぐまた二人のいるところへ引きかえして来ると、<lb />
-「ねえ、顎十郎さん、<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>るとするなら、いったい、どんなふうに殺るつもりでしょう」<lb />
-「そんなことは俺に訊いたってわからねえ。聞けばお渡御のすむ一刻ほどのあいだは、全町まっ暗にしてしまうということだが、そんな暗闇の中で斬ってかかれるわけのものじゃないから、暴れだすとするならお渡御がすんで<span type="ruby"><span type="rb">篝</span><span type="rp">（</span><span type="rt">かがり</span><span type="rp">）</span></span>がついてからか、ひとの顔が見えるようになった白々明けにちがいない。……また、鏖殺しにするなどと口走る以上、毒でもつかうつもりかも知れないから、たとえ<span type="ruby"><span type="rb">御神酒</span><span type="rp">（</span><span type="rt">ごしんしゅ</span><span type="rp">）</span></span>にしろ<span type="ruby"><span type="rb">御神水</span><span type="rp">（</span><span type="rt">ごしんすい</span><span type="rp">）</span></span>にしろ、祭のあいだはいっさい口にしないように言い聞かせておくがいい。……そろそろお渡御がすむころになったら、おめえは桜場に眼を離さないようにしていろ、近江屋の四人のほうは俺ととど助さんとふたりで、間近いところで見張っているから」<lb />
+「ねえ、顎十郎さん、<seg type="ruby"><seg type="rb">殺</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>るとするなら、いったい、どんなふうに殺るつもりでしょう」<lb />
+「そんなことは俺に訊いたってわからねえ。聞けばお渡御のすむ一刻ほどのあいだは、全町まっ暗にしてしまうということだが、そんな暗闇の中で斬ってかかれるわけのものじゃないから、暴れだすとするならお渡御がすんで<seg type="ruby"><seg type="rb">篝</seg><seg type="rp">（</seg><seg type="rt">かがり</seg><seg type="rp">）</seg></seg>がついてからか、ひとの顔が見えるようになった白々明けにちがいない。……また、鏖殺しにするなどと口走る以上、毒でもつかうつもりかも知れないから、たとえ<seg type="ruby"><seg type="rb">御神酒</seg><seg type="rp">（</seg><seg type="rt">ごしんしゅ</seg><seg type="rp">）</seg></seg>にしろ<seg type="ruby"><seg type="rb">御神水</seg><seg type="rp">（</seg><seg type="rt">ごしんすい</seg><seg type="rp">）</seg></seg>にしろ、祭のあいだはいっさい口にしないように言い聞かせておくがいい。……そろそろお渡御がすむころになったら、おめえは桜場に眼を離さないようにしていろ、近江屋の四人のほうは俺ととど助さんとふたりで、間近いところで見張っているから」<lb />
 　とど助はうなずいて、<lb />
 「近江屋一家のほうは拙者ひとりで結構。下手に斬りこんでなど来たら、そばに寄せぬうちに拙者がひとひねりにしてしまいます、安心していまっせ」<lb />
 　これで、だいたい、段取りがきまったので、ひょろ松は近江屋のところへ行って打ちあわせをし、これでいいということになってお渡御が始まるのを待つ。<lb />
-　そもそも暗闇祭というのは神霊の降臨は、深夜、黎明が発する直前にあるという古礼によるもので、有名なものでは、<span type="ruby"><span type="rb">遠江見附</span><span type="rp">（</span><span type="rt">とおとおみみつけ</span><span type="rp">）</span></span>町の<span type="ruby"><span type="rb">矢奈比売</span><span type="rp">（</span><span type="rt">やなひめ</span><span type="rp">）</span></span>天神の闇祭とこの武蔵府中の六所明神の<span type="ruby"><span type="rb">真闇祭</span><span type="rp">（</span><span type="rt">しんやみまつり</span><span type="rp">）</span></span>。<lb />
-　この社は武蔵<span type="ruby"><span type="rb">大国魂神</span><span type="rp">（</span><span type="rt">おおくにたまがみ</span><span type="rp">）</span></span>を祀ったもので、そのほかに、東西の六座に、秩父、杉山、氷川などの武蔵国内の諸神を<span type="ruby"><span type="rb">奉斎</span><span type="rp">（</span><span type="rt">ほうさい</span><span type="rp">）</span></span>する由緒のある宮。<lb />
-　例祭は五月五日で、前祭として五月二日にお<span type="ruby"><span type="rb">鏡磨</span><span type="rp">（</span><span type="rt">かがみとぎ</span><span type="rp">）</span></span>祭、同三日には<span type="ruby"><span type="rb">競馬</span><span type="rp">（</span><span type="rt">くらべうま</span><span type="rp">）</span></span>祭、同四日に<span type="ruby"><span type="rb">御綱</span><span type="rp">（</span><span type="rt">おつな</span><span type="rp">）</span></span>祭がある。<lb />
-　やがて子の刻間近くなると、<span type="ruby"><span type="rb">道清</span><span type="rp">（</span><span type="rt">みちきよめ</span><span type="rp">）</span></span>の儀といって、<span type="ruby"><span type="rb">御食</span><span type="rp">（</span><span type="rt">みけ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">幣帛</span><span type="rp">（</span><span type="rt">みてぐら</span><span type="rp">）</span></span>を奉り、<span type="ruby"><span type="rb">禰宜</span><span type="rp">（</span><span type="rt">ねぎ</span><span type="rp">）</span></span>が<span type="ruby"><span type="rb">腰鼓</span><span type="rp">（</span><span type="rt">ようこ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">羯鼓</span><span type="rp">（</span><span type="rt">かっこ</span><span type="rp">）</span></span><span type="ruby"><span type="rb">笏拍手</span><span type="rp">（</span><span type="rt">さくほうし</span><span type="rp">）</span></span>をうち、浄衣を着た<span type="ruby"><span type="rb">巫</span><span type="rp">（</span><span type="rt">かんなぎ</span><span type="rp">）</span></span>二人が<span type="ruby"><span type="rb">榊葉</span><span type="rp">（</span><span type="rt">さかきは</span><span type="rp">）</span></span>を持って<span type="ruby"><span type="rb">神楽</span><span type="rp">（</span><span type="rt">かぐら</span><span type="rp">）</span></span>を奏し、太刀を<span type="ruby"><span type="rb">佩</span><span type="rp">（</span><span type="rt">は</span><span type="rp">）</span></span>き<span type="ruby"><span type="rb">胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" /></span><span type="rp">（</span><span type="rt">やなぐい</span><span type="rp">）</span></span>を負った<span type="ruby"><span type="rb">神人</span><span type="rp">（</span><span type="rt">かんど</span><span type="rp">）</span></span>が四方にむかって弓の<span type="ruby"><span type="rb">弦</span><span type="rp">（</span><span type="rt">つる</span><span type="rp">）</span></span>を鳴らす。<lb />
-　さあ、もうそろそろ始まるぞと思っているうちに、<span type="ruby"><span type="rb">動座</span><span type="rp">（</span><span type="rt">どうざ</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">警蹕</span><span type="rp">（</span><span type="rt">けいひつ</span><span type="rp">）</span></span>を合図に全町の灯火がひとつ残らずいっせいにバッタリと消される。<lb />
-　日暮れまではいい天気だったが、夕方から風が出て雲がかかり、星の光も見えないように薄曇ってしまったので、鼻をつままれてもわからないようなぬば玉の闇。本殿から<span type="ruby"><span type="rb">仮宮</span><span type="rp">（</span><span type="rt">かりみや</span><span type="rp">）</span></span>までの十町の道には、一間幅にずっと白砂が敷いてあるので、道筋だけはようやくわかるくらいなもの。<lb />
-　いよいよ丑の上刻となれば、露払い、<span type="ruby"><span type="rb">御弓箭</span><span type="rp">（</span><span type="rt">おゆみや</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">大幡</span><span type="rp">（</span><span type="rt">おおはた</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">御楯</span><span type="rp">（</span><span type="rt">みたて</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">神馬</span><span type="rp">（</span><span type="rt">じんめ</span><span type="rp">）</span></span>、神主を先頭に禰宜、巫、神人。そのあとに八基の<span type="ruby"><span type="rb">御神輿</span><span type="rp">（</span><span type="rt">ごしんよ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">御饌</span><span type="rp">（</span><span type="rt">みけ</span><span type="rp">）</span></span>、長持。氏子総代に<span type="ruby"><span type="rb">産子</span><span type="rp">（</span><span type="rt">うぶこ</span><span type="rp">）</span></span>三十人。太古のような陰闇たる闇の中を粛々と進んで行く。<span type="ruby"><span type="rb">神々</span><span type="rp">（</span><span type="rt">こうごう</span><span type="rp">）</span></span>しくて身もしまるような心持。<lb />
+　そもそも暗闇祭というのは神霊の降臨は、深夜、黎明が発する直前にあるという古礼によるもので、有名なものでは、<seg type="ruby"><seg type="rb">遠江見附</seg><seg type="rp">（</seg><seg type="rt">とおとおみみつけ</seg><seg type="rp">）</seg></seg>町の<seg type="ruby"><seg type="rb">矢奈比売</seg><seg type="rp">（</seg><seg type="rt">やなひめ</seg><seg type="rp">）</seg></seg>天神の闇祭とこの武蔵府中の六所明神の<seg type="ruby"><seg type="rb">真闇祭</seg><seg type="rp">（</seg><seg type="rt">しんやみまつり</seg><seg type="rp">）</seg></seg>。<lb />
+　この社は武蔵<seg type="ruby"><seg type="rb">大国魂神</seg><seg type="rp">（</seg><seg type="rt">おおくにたまがみ</seg><seg type="rp">）</seg></seg>を祀ったもので、そのほかに、東西の六座に、秩父、杉山、氷川などの武蔵国内の諸神を<seg type="ruby"><seg type="rb">奉斎</seg><seg type="rp">（</seg><seg type="rt">ほうさい</seg><seg type="rp">）</seg></seg>する由緒のある宮。<lb />
+　例祭は五月五日で、前祭として五月二日にお<seg type="ruby"><seg type="rb">鏡磨</seg><seg type="rp">（</seg><seg type="rt">かがみとぎ</seg><seg type="rp">）</seg></seg>祭、同三日には<seg type="ruby"><seg type="rb">競馬</seg><seg type="rp">（</seg><seg type="rt">くらべうま</seg><seg type="rp">）</seg></seg>祭、同四日に<seg type="ruby"><seg type="rb">御綱</seg><seg type="rp">（</seg><seg type="rt">おつな</seg><seg type="rp">）</seg></seg>祭がある。<lb />
+　やがて子の刻間近くなると、<seg type="ruby"><seg type="rb">道清</seg><seg type="rp">（</seg><seg type="rt">みちきよめ</seg><seg type="rp">）</seg></seg>の儀といって、<seg type="ruby"><seg type="rb">御食</seg><seg type="rp">（</seg><seg type="rt">みけ</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">幣帛</seg><seg type="rp">（</seg><seg type="rt">みてぐら</seg><seg type="rp">）</seg></seg>を奉り、<seg type="ruby"><seg type="rb">禰宜</seg><seg type="rp">（</seg><seg type="rt">ねぎ</seg><seg type="rp">）</seg></seg>が<seg type="ruby"><seg type="rb">腰鼓</seg><seg type="rp">（</seg><seg type="rt">ようこ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">羯鼓</seg><seg type="rp">（</seg><seg type="rt">かっこ</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">笏拍手</seg><seg type="rp">（</seg><seg type="rt">さくほうし</seg><seg type="rp">）</seg></seg>をうち、浄衣を着た<seg type="ruby"><seg type="rb">巫</seg><seg type="rp">（</seg><seg type="rt">かんなぎ</seg><seg type="rp">）</seg></seg>二人が<seg type="ruby"><seg type="rb">榊葉</seg><seg type="rp">（</seg><seg type="rt">さかきは</seg><seg type="rp">）</seg></seg>を持って<seg type="ruby"><seg type="rb">神楽</seg><seg type="rp">（</seg><seg type="rt">かぐら</seg><seg type="rp">）</seg></seg>を奏し、太刀を<seg type="ruby"><seg type="rb">佩</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>き<seg type="ruby"><seg type="rb">胡<seg change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" /></seg><seg type="rp">（</seg><seg type="rt">やなぐい</seg><seg type="rp">）</seg></seg>を負った<seg type="ruby"><seg type="rb">神人</seg><seg type="rp">（</seg><seg type="rt">かんど</seg><seg type="rp">）</seg></seg>が四方にむかって弓の<seg type="ruby"><seg type="rb">弦</seg><seg type="rp">（</seg><seg type="rt">つる</seg><seg type="rp">）</seg></seg>を鳴らす。<lb />
+　さあ、もうそろそろ始まるぞと思っているうちに、<seg type="ruby"><seg type="rb">動座</seg><seg type="rp">（</seg><seg type="rt">どうざ</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">警蹕</seg><seg type="rp">（</seg><seg type="rt">けいひつ</seg><seg type="rp">）</seg></seg>を合図に全町の灯火がひとつ残らずいっせいにバッタリと消される。<lb />
+　日暮れまではいい天気だったが、夕方から風が出て雲がかかり、星の光も見えないように薄曇ってしまったので、鼻をつままれてもわからないようなぬば玉の闇。本殿から<seg type="ruby"><seg type="rb">仮宮</seg><seg type="rp">（</seg><seg type="rt">かりみや</seg><seg type="rp">）</seg></seg>までの十町の道には、一間幅にずっと白砂が敷いてあるので、道筋だけはようやくわかるくらいなもの。<lb />
+　いよいよ丑の上刻となれば、露払い、<seg type="ruby"><seg type="rb">御弓箭</seg><seg type="rp">（</seg><seg type="rt">おゆみや</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">大幡</seg><seg type="rp">（</seg><seg type="rt">おおはた</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">御楯</seg><seg type="rp">（</seg><seg type="rt">みたて</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">神馬</seg><seg type="rp">（</seg><seg type="rt">じんめ</seg><seg type="rp">）</seg></seg>、神主を先頭に禰宜、巫、神人。そのあとに八基の<seg type="ruby"><seg type="rb">御神輿</seg><seg type="rp">（</seg><seg type="rt">ごしんよ</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">御饌</seg><seg type="rp">（</seg><seg type="rt">みけ</seg><seg type="rp">）</seg></seg>、長持。氏子総代に<seg type="ruby"><seg type="rb">産子</seg><seg type="rp">（</seg><seg type="rt">うぶこ</seg><seg type="rp">）</seg></seg>三十人。太古のような陰闇たる闇の中を粛々と進んで行く。<seg type="ruby"><seg type="rb">神々</seg><seg type="rp">（</seg><seg type="rt">こうごう</seg><seg type="rp">）</seg></seg>しくて身もしまるような心持。<lb />
 　これが、蟻の這うような擦り足で行くんだから十町ほどの道がたっぷり一刻はかかる。お仮屋に御霊遷がおえたころには、早い夏の夜は明けかかろう。<lb />
 　三人はお仮屋わきの幕屋の中にひとかたまりになっていると、闇の中を手さぐりしながらそろそろと歩いて来たものがある。圧しつけたような忍び声で、<lb />
 「そのへんに江戸からおいでなすったひょろ松の旦那がおいでではございませんか。おいでになりましたら、どうかお返事を願います」<lb />
 「ひょろ松はここにおりますが、そういうあなたは、いったいどなたで？」<lb />
-　声をたよりにズッと<span type="ruby"><span type="rb">捜</span><span type="rp">（</span><span type="rt">さぐ</span><span type="rp">）</span></span>りよって来て、ひどく息をはずませながら、<lb />
+　声をたよりにズッと<seg type="ruby"><seg type="rb">捜</seg><seg type="rp">（</seg><seg type="rt">さぐ</seg><seg type="rp">）</seg></seg>りよって来て、ひどく息をはずませながら、<lb />
 「……あっしは、さきほど近江屋といっしょにお眼にかかった二引藤右衛門でございますが、実は、お渡御の道すじに誰か死んでいるようなんで……」<lb />
 「えッ」<lb />
 「それも一人や二人じゃありません。五間ぐらいずつ間をおいて、四人まで俯伏せになって倒れているんでござんす。もしや近江屋の一家が殺られたンじゃないかと思いまして、ちょっとそれを、お耳に入れに……」<lb />
@@ -144,30 +144,30 @@
 「まっ暗がりでご挨拶もなりません。あっしは、ひょろ松親分の下廻りの阿古の長太郎というものですが、あなたがおさわりになったというのは、いったい、いつごろのことなンでございますか」<lb />
 「いつもなにもありゃアしません、ほんのつい今しがたでございます」<lb />
 「ひとが倒れているというのを、どうしておわかりになりました」<lb />
-「あっしは<span type="ruby"><span type="rb">後</span><span type="rp">（</span><span type="rt">あと</span><span type="rp">）</span></span>かため<span type="ruby"><span type="rb">殿</span><span type="rp">（</span><span type="rt">しんが</span><span type="rp">）</span></span>りの役ですから身内のもの七人と列について、いちばん最後から行きますと、本殿を出て、五丁ばかりも行ったと思うころ、<span type="ruby"><span type="rb">浄杖</span><span type="rp">（</span><span type="rt">きよめづえ</span><span type="rp">）</span></span>の先になにかさわるものがありますンで、なんだろうと思って捜りひろげて行くと、手ごたえの柔かい、なにかひどく大きなもの。<span type="ruby"><span type="rb">御物嚢</span><span type="rp">（</span><span type="rt">おものぶくろ</span><span type="rp">）</span></span>でも落して行ったのかと思って、かがみこんで手でさわって見ますと、俯伏せに倒れている人間の身体。……これは、と驚いて、すっと捜って行きますと、盆の窪にのぶかく矢が立っています」<lb />
+「あっしは<seg type="ruby"><seg type="rb">後</seg><seg type="rp">（</seg><seg type="rt">あと</seg><seg type="rp">）</seg></seg>かため<seg type="ruby"><seg type="rb">殿</seg><seg type="rp">（</seg><seg type="rt">しんが</seg><seg type="rp">）</seg></seg>りの役ですから身内のもの七人と列について、いちばん最後から行きますと、本殿を出て、五丁ばかりも行ったと思うころ、<seg type="ruby"><seg type="rb">浄杖</seg><seg type="rp">（</seg><seg type="rt">きよめづえ</seg><seg type="rp">）</seg></seg>の先になにかさわるものがありますンで、なんだろうと思って捜りひろげて行くと、手ごたえの柔かい、なにかひどく大きなもの。<seg type="ruby"><seg type="rb">御物嚢</seg><seg type="rp">（</seg><seg type="rt">おものぶくろ</seg><seg type="rp">）</seg></seg>でも落して行ったのかと思って、かがみこんで手でさわって見ますと、俯伏せに倒れている人間の身体。……これは、と驚いて、すっと捜って行きますと、盆の窪にのぶかく矢が立っています」<lb />
 「これは、どうも意外」<lb />
 「そういうふうにして順々に四人。……どれもみな、ぼんのくぼのところに、同じように矢が……」<lb />
 「四人とも、ぼんのくぼに？」<lb />
 「へえ、そうなんでございます」<lb />
 　顎十郎は、急にひきしまったような声になって、<lb />
-「その道すじに篝火とか<span type="ruby"><span type="rb">松明</span><span type="rp">（</span><span type="rt">たいまつ</span><span type="rp">）</span></span>とか、そんなものがありましたか」<lb />
-「滅相もない。古式厳格の暗闇祭。なんでそんなものがございますものか。まっ暗もまっ暗、<span type="ruby"><span type="rb">真</span><span type="rp">（</span><span type="rt">しん</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">闇</span><span type="rp">（</span><span type="rt">やみ</span><span type="rp">）</span></span>でございます」<lb />
+「その道すじに篝火とか<seg type="ruby"><seg type="rb">松明</seg><seg type="rp">（</seg><seg type="rt">たいまつ</seg><seg type="rp">）</seg></seg>とか、そんなものがありましたか」<lb />
+「滅相もない。古式厳格の暗闇祭。なんでそんなものがございますものか。まっ暗もまっ暗、<seg type="ruby"><seg type="rb">真</seg><seg type="rp">（</seg><seg type="rt">しん</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">闇</seg><seg type="rp">（</seg><seg type="rt">やみ</seg><seg type="rp">）</seg></seg>でございます」<lb />
 　顎十郎は、なにかしばらく考えていたが、唐突に口を切って、<lb />
 「ねえ、ひょろ松の旦那、それからとど助さん、不思議なことがあるもんだ、弓というものは相当な距離がなければ射てぬもの。それをですな、鼻をつままれてもわからないようなまっ暗な中で、一人ならず四人まで、ぼんのくぼを射抜くなどということが出来るものでしょうか」<lb />
 　とど助が、引きとって、<lb />
 「いやア、アコ長さん、人間の眼ではとてもそんなことは出来ませんな。殺された四人が近江屋一家の者だとしたら、いよいよもって奇怪。なぜかと言って、三人ならびになって隙間もなく目白押しをして行く中から、この暗闇の中で、必要な人間だけえらんで射ころすなんぞということは、まずもって絶対に不可能」<lb />
 「いかにもおっしゃる通りだ。御霊遷がすむまで待つよりほかはないが、殺されたのが近江屋の四人ならば、こりゃア、ちょっと物騒です」<lb />
 　ひょろ松は、せきこんで、<lb />
-「そんなことばかり言ってたってしょうがない。現実に四人までそんなふうにして殺されているんだから、いずれにしてもなにかの方法で殺ったのに相違ない。近江屋の一家に隠れた<span type="ruby"><span type="rb">悪業</span><span type="rp">（</span><span type="rt">あくごう</span><span type="rp">）</span></span>があって、<span type="ruby"><span type="rb">大国魂</span><span type="rp">（</span><span type="rt">おおくにたま</span><span type="rp">）</span></span>さまが罰をあたえるためにお<span type="ruby"><span type="rb">神矢</span><span type="rp">（</span><span type="rt">かみや</span><span type="rp">）</span></span>を放ったというわけでもありますまい。いったいどんなふうにして殺ったものでしょう」<lb />
+「そんなことばかり言ってたってしょうがない。現実に四人までそんなふうにして殺されているんだから、いずれにしてもなにかの方法で殺ったのに相違ない。近江屋の一家に隠れた<seg type="ruby"><seg type="rb">悪業</seg><seg type="rp">（</seg><seg type="rt">あくごう</seg><seg type="rp">）</seg></seg>があって、<seg type="ruby"><seg type="rb">大国魂</seg><seg type="rp">（</seg><seg type="rt">おおくにたま</seg><seg type="rp">）</seg></seg>さまが罰をあたえるためにお<seg type="ruby"><seg type="rb">神矢</seg><seg type="rp">（</seg><seg type="rt">かみや</seg><seg type="rp">）</seg></seg>を放ったというわけでもありますまい。いったいどんなふうにして殺ったものでしょう」<lb />
 　アコ長は、いつものヘラヘラ調子になって、<lb />
-「木曽あたりの<span type="ruby"><span type="rb">猟人</span><span type="rp">（</span><span type="rt">かりうど</span><span type="rp">）</span></span>には、夜でも眼の見える<span type="ruby"><span type="rb">猫眼梟眼</span><span type="rp">（</span><span type="rt">ねこめふくろめ</span><span type="rp">）</span></span>というのがあるそうだ。たぶん、そんな手あいでも殺ったかも知れんな」<lb />
+「木曽あたりの<seg type="ruby"><seg type="rb">猟人</seg><seg type="rp">（</seg><seg type="rt">かりうど</seg><seg type="rp">）</seg></seg>には、夜でも眼の見える<seg type="ruby"><seg type="rb">猫眼梟眼</seg><seg type="rp">（</seg><seg type="rt">ねこめふくろめ</seg><seg type="rp">）</seg></seg>というのがあるそうだ。たぶん、そんな手あいでも殺ったかも知れんな」<lb />
 　今まで黙っていた藤右衛門、出しぬけに膝をうって、<lb />
 「お話の最中ですが、猫眼というなら、そういうのがこの町に一人いるんでございます」<lb />
 　顎十郎は息を呑んで、<lb />
 「えッ、それは、いったい、どういう男なんでございます」<lb />
-「近江屋の分家で黒木屋五造というごく<span type="ruby"><span type="rb">温和</span><span type="rp">（</span><span type="rt">おとな</span><span type="rp">）</span></span>しい男なんですが、生れつき夜眼が見え、まっ暗がりの土蔵なんかでも、<span type="ruby"><span type="rb">龕灯</span><span type="rp">（</span><span type="rt">がんどう</span><span type="rp">）</span></span>いらずに物もさがせば細かい仕事もするという奇態な眼を持っているので、この町じゃ誰も本名を呼ばずに猫眼、猫眼といっております」<lb />
+「近江屋の分家で黒木屋五造というごく<seg type="ruby"><seg type="rb">温和</seg><seg type="rp">（</seg><seg type="rt">おとな</seg><seg type="rp">）</seg></seg>しい男なんですが、生れつき夜眼が見え、まっ暗がりの土蔵なんかでも、<seg type="ruby"><seg type="rb">龕灯</seg><seg type="rp">（</seg><seg type="rt">がんどう</seg><seg type="rp">）</seg></seg>いらずに物もさがせば細かい仕事もするという奇態な眼を持っているので、この町じゃ誰も本名を呼ばずに猫眼、猫眼といっております」<lb />
 「ほほう、それで、その猫眼は御渡御の行列についているんですか」<lb />
-「いま申したように近江屋の甥ですから御神事に外れるということはありません。今年は、六所さまの御物の<span type="ruby"><span type="rb">金銅弭黄黒斑漆</span><span type="rp">（</span><span type="rt">きんどうやはずきくろまだらうるし</span><span type="rp">）</span></span>の<span type="ruby"><span type="rb">梓弓</span><span type="rp">（</span><span type="rt">あずさゆみ</span><span type="rp">）</span></span>を持ってお伴しているはずでございます」<lb />
+「いま申したように近江屋の甥ですから御神事に外れるということはありません。今年は、六所さまの御物の<seg type="ruby"><seg type="rb">金銅弭黄黒斑漆</seg><seg type="rp">（</seg><seg type="rt">きんどうやはずきくろまだらうるし</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">梓弓</seg><seg type="rp">（</seg><seg type="rt">あずさゆみ</seg><seg type="rp">）</seg></seg>を持ってお伴しているはずでございます」<lb />
 「猫眼が梓弓を……」<lb />
 　と、ひとり言のように呟いてから、アコ長、言葉の調子を変えて、<lb />
 「つかぬことをお伺いするようですが、近江屋の分家というのは、まだほかにもあるのですか」<lb />
@@ -182,46 +182,46 @@
 　行って見ると、なるほど、藤右衛門の言った通り、本殿のほうから五六間おきに一人ずつ、近江屋鉄五郎、お源、お沢、お源の許婚者の青梅屋の新七という順序で、いずれも鷹の羽朱塗のお神矢で深くぼんのくぼを射られ、水浅黄の水干の襟を血に染めて俯伏せになって倒れている。<lb />
 　顎十郎は、かがみこんで死体をひとつずつ念入りに検めていたが、そのうちにのっそりと立ちあがって、藤右衛門のほうへ振りかえり、<lb />
 「……ご覧の通り、どの死体も、見事に必殺の急所を射抜かれています。夜眼、猫眼はとにかく、よほどの弓の上手でなければ、こういう水ぎわ立ったことは出来ぬはず。……それで、なんですか、藤右衛門さん、その猫眼の五造という男は弓でもやるのですか」<lb />
-「へえ、いたします。弓と申しても<span type="ruby"><span type="rb">楊弓</span><span type="rp">（</span><span type="rt">ようきゅう</span><span type="rp">）</span></span>ですが、五月、九月の<span type="ruby"><span type="rb">結改</span><span type="rp">（</span><span type="rt">けっかい</span><span type="rp">）</span></span>の会には、わざわざ江戸へ出かけて行き、昨年などは、百五十本を<span type="ruby"><span type="rb">的</span><span type="rp">（</span><span type="rt">い</span><span type="rp">）</span></span>て<span type="ruby"><span type="rb">金貝</span><span type="rp">（</span><span type="rt">かながい</span><span type="rp">）</span></span>の目録を取ったということでございます」<lb />
+「へえ、いたします。弓と申しても<seg type="ruby"><seg type="rb">楊弓</seg><seg type="rp">（</seg><seg type="rt">ようきゅう</seg><seg type="rp">）</seg></seg>ですが、五月、九月の<seg type="ruby"><seg type="rb">結改</seg><seg type="rp">（</seg><seg type="rt">けっかい</seg><seg type="rp">）</seg></seg>の会には、わざわざ江戸へ出かけて行き、昨年などは、百五十本を<seg type="ruby"><seg type="rb">的</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>て<seg type="ruby"><seg type="rb">金貝</seg><seg type="rp">（</seg><seg type="rt">かながい</seg><seg type="rp">）</seg></seg>の目録を取ったということでございます」<lb />
 「なるほど。……それで桜場清六のほうは？」<lb />
 「このほうは、大和流の弓をよくいたし、甲府の勤番にいたころ、むやみに御禁鳥を射ころしたので、そのお咎めでお役御免になったというような話も聞いております」<lb />
 　アコ長は、突っ立ったままで、またしばらく考えていたが、バラリと腕を振りほどくと、<lb />
 「藤右衛門さん、この土地では、あなたが繩を預かっていらっしゃるンだから、あなたを差しおいて、われわれがどうこうするというわけには行かない。わたしには少々存じよりもありますが、これはやはりあなたにおまかせ申しましょう」<lb />
 　藤右衛門は、手を振って、<lb />
-「いやア、そのご<span type="ruby"><span type="rb">斟酌</span><span type="rp">（</span><span type="rt">しんしゃく</span><span type="rp">）</span></span>には及びません。以前は江戸一の捕物の名人、仙波さんといえば、あっしらにとってはまるで神様のようなもの。その方がわざわざお出でくださったというのに繩張も管領もあるもんじゃありません。どうか、ご存分に」<lb />
+「いやア、そのご<seg type="ruby"><seg type="rb">斟酌</seg><seg type="rp">（</seg><seg type="rt">しんしゃく</seg><seg type="rp">）</seg></seg>には及びません。以前は江戸一の捕物の名人、仙波さんといえば、あっしらにとってはまるで神様のようなもの。その方がわざわざお出でくださったというのに繩張も管領もあるもんじゃありません。どうか、ご存分に」<lb />
 「ご挨拶で痛み入ります。そういうことならばおぼしめしに従いますが、ご承知の通り、役儀の表で調べるというわけには行かない。いわば、ひょろ松の代理。そのへんのところもお含みおき願います」<lb />
 「じゅうぶん、承知しております」<lb />
-「では、あなたのお番屋を拝借することにいたしますが、早速ですが桜場清六と黒木屋五造をお引きあげくだすって、五造が背負っていた胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />と、桜場の弓矢もついでにお取りよせ願います」<lb />
+「では、あなたのお番屋を拝借することにいたしますが、早速ですが桜場清六と黒木屋五造をお引きあげくだすって、五造が背負っていた胡<seg change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />と、桜場の弓矢もついでにお取りよせ願います」<lb />
 「かしこまりました」<lb />
 　頃あいをはからって、アコ長、とど助、ひょろ松の三人が番屋へ入って行くと、五造と桜場のふたりを中仕切のある板の間へべつべつに控えさせてある。<lb />
-　桜場清六のほうは、赭ら顔の<span type="ruby"><span type="rb">大髻</span><span type="rp">（</span><span type="rt">おおたぶさ</span><span type="rp">）</span></span>。眼尻が吊しあがって、いかにも険相な面構えなのに、黒木屋五造は、色白のおっとりとした丸顔で、田舎の大店の若旦那にふさわしいようす。気も動顛した体で血の気をなくし、差しうつむいてブルブルと顫えている。<lb />
-　顎十郎は、胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />を持ちながら五造の前にあぐらをかき、<lb />
-「おい、五造さん、胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />に入っていたお神矢の数は十二本。それが減って八本になっているのはどういうわけなんだね」<lb />
+　桜場清六のほうは、赭ら顔の<seg type="ruby"><seg type="rb">大髻</seg><seg type="rp">（</seg><seg type="rt">おおたぶさ</seg><seg type="rp">）</seg></seg>。眼尻が吊しあがって、いかにも険相な面構えなのに、黒木屋五造は、色白のおっとりとした丸顔で、田舎の大店の若旦那にふさわしいようす。気も動顛した体で血の気をなくし、差しうつむいてブルブルと顫えている。<lb />
+　顎十郎は、胡<seg change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />を持ちながら五造の前にあぐらをかき、<lb />
+「おい、五造さん、胡<seg change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />に入っていたお神矢の数は十二本。それが減って八本になっているのはどういうわけなんだね」<lb />
 　五造は、はッ、と身をすくませて、<lb />
 「どういうわけでございますか、いっこうに存じません」<lb />
-「そんな<span rend="SESAME_DOT" rendition="strong">のだごと</span>を吐いていたってしょうがない。おまえさんは鉄五郎のたったひとりの甥で、近江屋の跡が絶えれば近江屋の身代はいやでもおまえさんのものになる。……桜場清六が近江屋一家を鏖殺しにしてやるなどとふれまわってるのに引っかけ、夜眼のきくのを幸いにお神矢で鉄五郎以下四人を射ころし、それを桜場に塗りつけようなんていうのはひどいじゃないか」<lb />
-　五造は血相かえて<span type="ruby"><span type="rb">膝行</span><span type="rp">（</span><span type="rt">にじり</span><span type="rp">）</span></span>だし、<lb />
-「と、と、飛んでもない。なんでわたくしがそのような大外れたことを致しますものですか。仮に、わたしにそんな心がありましたとしても、自分が背負っている胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />の矢なぞは使いはいたしません。これが取りもなおさず、わたしの仕業でないという証拠。……察しますところ誰かわたしに人殺しの罪を塗りつけようため、暗闇にまぎれてわたくしの胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />から矢を盗みとったものと思われます」<lb />
+「そんな<seg rend="SESAME_DOT" rendition="strong">のだごと</seg>を吐いていたってしょうがない。おまえさんは鉄五郎のたったひとりの甥で、近江屋の跡が絶えれば近江屋の身代はいやでもおまえさんのものになる。……桜場清六が近江屋一家を鏖殺しにしてやるなどとふれまわってるのに引っかけ、夜眼のきくのを幸いにお神矢で鉄五郎以下四人を射ころし、それを桜場に塗りつけようなんていうのはひどいじゃないか」<lb />
+　五造は血相かえて<seg type="ruby"><seg type="rb">膝行</seg><seg type="rp">（</seg><seg type="rt">にじり</seg><seg type="rp">）</seg></seg>だし、<lb />
+「と、と、飛んでもない。なんでわたくしがそのような大外れたことを致しますものですか。仮に、わたしにそんな心がありましたとしても、自分が背負っている胡<seg change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />の矢なぞは使いはいたしません。これが取りもなおさず、わたしの仕業でないという証拠。……察しますところ誰かわたしに人殺しの罪を塗りつけようため、暗闇にまぎれてわたくしの胡<seg change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />から矢を盗みとったものと思われます」<lb />
 　アコ長は、頭を掻き、<lb />
 「やア、これは一言もない。そう言われれば、それに相違ない。これはちょっとわからなくなってきた」<lb />
 　ひどく大真面目な顔で首をひねっていたが、急に声を低め、<lb />
 「こういっちゃ失礼だが、あなたは田舎のひとに似合わず、珍らしくハキハキと物をいいなさるようす。こういう事件には、どうでもあなたのような方にあれこれと口添えをして貰わなければなりません。……ねえ、五造さん、今朝の件について、あなた、なにか心当りはありませんか。なんでも構わねえから、気のついたことがあったら、言ってみてください」<lb />
 「……お訊ねがなかったら、わたくしのほうから申しあげようと思っていたんですが、実は、ちょっと妙なことがございました」<lb />
 「ほほう、それは、どんなことです」<lb />
-「……わたくしが御物の弓を持ち、近江屋一家の七八間あとから歩いてまいりましたが、どういうわけなのか、数ある<span type="ruby"><span type="rb">水干</span><span type="rp">（</span><span type="rt">すいかん</span><span type="rp">）</span></span>のうち、近江屋の四人の襟もとだけ、ボウッと、こう、薄明るくなっているんでございます。奇妙なこともあるもんだと思っておりますうちに、とうとうこんなことになってしまって……」<lb />
+「……わたくしが御物の弓を持ち、近江屋一家の七八間あとから歩いてまいりましたが、どういうわけなのか、数ある<seg type="ruby"><seg type="rb">水干</seg><seg type="rp">（</seg><seg type="rt">すいかん</seg><seg type="rp">）</seg></seg>のうち、近江屋の四人の襟もとだけ、ボウッと、こう、薄明るくなっているんでございます。奇妙なこともあるもんだと思っておりますうちに、とうとうこんなことになってしまって……」<lb />
 「それは、いったい、なんでしょう」<lb />
 「さあ、手前なぞには、いっこう、どうも」<lb />
 　アコ長は、藤右衛門のほうを向いて、<lb />
 「今お聞きのようなわけですから、どうか、土蔵のようなまっ暗な場所へ近江屋一家四人の死体をお移し願いましょうか」<lb />
 　へえ、かしこまりましたで、藤右衛門は立って行く。<lb />
 　下ッ引に桜場と五造の袂を取らせ、手燭を先に立ててアコ長以下三人が土蔵の中へ入って行くと、土蔵のまんなかに蓆を敷いて四人の死体が俯伏せにならべてある。<lb />
-「じゃア、どうか<span type="ruby"><span type="rb">土扉</span><span type="rp">（</span><span type="rt">つちど</span><span type="rp">）</span></span>をしめて戴きましょう」<lb />
+「じゃア、どうか<seg type="ruby"><seg type="rb">土扉</seg><seg type="rp">（</seg><seg type="rt">つちど</seg><seg type="rp">）</seg></seg>をしめて戴きましょう」<lb />
 　バタバタと土扉がしまって土蔵の中はまっ暗闇。そのとたん、不思議や、四人の水干の襟のあたりで同じような薄青い燐光がボッと光る。<lb />
 「いや、よくわかりました。どうか土扉をおあけください」<lb />
 　土蔵の中が明るくなると、アコ長は、<lb />
-「ねえ、藤右衛門さん、今度の<span type="ruby"><span type="rb">御神饌</span><span type="rp">（</span><span type="rt">ごしんせん</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">生烏賊</span><span type="rp">（</span><span type="rt">なまいか</span><span type="rp">）</span></span>があがりましたろう」<lb />
+「ねえ、藤右衛門さん、今度の<seg type="ruby"><seg type="rb">御神饌</seg><seg type="rp">（</seg><seg type="rt">ごしんせん</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">生烏賊</seg><seg type="rp">（</seg><seg type="rt">なまいか</seg><seg type="rp">）</seg></seg>があがりましたろう」<lb />
 「さようでございます。近江屋の廻送で、わざわざ越後から早駕籠で取りよせたということで」<lb />
-「四人の襟を嗅いでみると、いかにも生ぐさい。これは暗闇の目じるしにするために四人の水干の襟に烏賊の<span type="ruby"><span type="rb">腸汁</span><span type="rp">（</span><span type="rt">わたじる</span><span type="rp">）</span></span>を塗ったンです」<lb />
+「四人の襟を嗅いでみると、いかにも生ぐさい。これは暗闇の目じるしにするために四人の水干の襟に烏賊の<seg type="ruby"><seg type="rb">腸汁</seg><seg type="rp">（</seg><seg type="rt">わたじる</seg><seg type="rp">）</seg></seg>を塗ったンです」<lb />
 「へへえ、そういうわけでございましたか」<lb />
 　アコ長は、五造にむかい、<lb />
 「五造さん、あなたはこの四人の襟もとが光るのを、たしかにごらんになったのですね」<lb />
@@ -235,13 +235,13 @@
 　アコ長は、それには答えず、いきなり五造の手を取って、<lb />
 「たいそう巧くたくらんだが、訊きもしねえことをすこし喋りすぎたようだ。暗闇なればこそ烏賊は光るが、明るいところでは見えねえはず。おまえさんは猫の眼玉でまっ暗闇でも黄昏ほどの明るさで物が見えるという。そういう眼が烏賊汁の光るのが見えるか。……天に口あり人をもって、も古い譬えだが、よけいなことを喋ったばかりに自分でボロを出した。……五造、どうだ、恐れ入ったか」<lb />
 　ひょろ松は、野郎ッと言いながら、五造に飛びかかって押えつけ、<lb />
-「なるほど、こいつア企らんだ。よく見えるのをわざわざ烏賊汁なんぞ塗りつけ、桜場になすりつけるために、逆手の逆手で自分の胡<span change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />の矢をつかうなんてのは<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>に<span type="ruby"><span type="rb">似気</span><span type="rp">（</span><span type="rt">にげ</span><span type="rp">）</span></span>ない土性ッ骨の太いやつだ」<lb />
+「なるほど、こいつア企らんだ。よく見えるのをわざわざ烏賊汁なんぞ塗りつけ、桜場になすりつけるために、逆手の逆手で自分の胡<seg change="gaiji" facs="../../../gaiji/1-89/1-89-79.png" rend="gaiji" rendition="img" source="※(「竹かんむり／（金＋碌のつくり）」、第3水準1-89-79)" />の矢をつかうなんてのは<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">つら</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">似気</seg><seg type="rp">（</seg><seg type="rt">にげ</seg><seg type="rp">）</seg></seg>ない土性ッ骨の太いやつだ」<lb />
 「畜生ッ」<lb />
-　と、恐ろしい悪相になって<span type="ruby"><span type="rb">睨</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>めあげる五造の顔を、アコ長はへへら笑いをしながら睨めかえし、<lb />
-「妙な面をするな。こんど生れ変るときはもっと舌を短かくして貰って来い。桜場に引っかけて、たいそうなことを企らんだが、気の毒だが桜場は御渡御の前に近江屋一家のそばへも寄っちゃいないのだ。すったもんだと言うなら、おめえの手を嗅いでみようか。烏賊腸の<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">にお</span><span type="rp">）</span></span>いでさぞ生臭せえこったろう」<lb />
+　と、恐ろしい悪相になって<seg type="ruby"><seg type="rb">睨</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>めあげる五造の顔を、アコ長はへへら笑いをしながら睨めかえし、<lb />
+「妙な面をするな。こんど生れ変るときはもっと舌を短かくして貰って来い。桜場に引っかけて、たいそうなことを企らんだが、気の毒だが桜場は御渡御の前に近江屋一家のそばへも寄っちゃいないのだ。すったもんだと言うなら、おめえの手を嗅いでみようか。烏賊腸の<seg type="ruby"><seg type="rb">臭</seg><seg type="rp">（</seg><seg type="rt">にお</seg><seg type="rp">）</seg></seg>いでさぞ生臭せえこったろう」<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

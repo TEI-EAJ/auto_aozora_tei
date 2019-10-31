@@ -33,8 +33,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span type="ruby"><span type="rb">千鳥</span><span type="rp">（</span><span type="rt">ちどり</span><span type="rp">）</span></span>のあしあと<lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg type="ruby"><seg type="rb">千鳥</seg><seg type="rp">（</seg><seg type="rt">ちどり</seg><seg type="rp">）</seg></seg>のあしあと<lb />
 小さいな<lb />
 <lb />
 よあけの<lb />
@@ -51,6 +51,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

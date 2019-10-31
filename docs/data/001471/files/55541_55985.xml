@@ -33,9 +33,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 人間美学の深奥に<lb />
-いときらびやかなる女人の像は<span type="ruby"><span type="rb">久遠</span><span type="rp">（</span><span type="rt">くおん</span><span type="rp">）</span></span>である<lb />
+いときらびやかなる女人の像は<seg type="ruby"><seg type="rb">久遠</seg><seg type="rp">（</seg><seg type="rt">くおん</seg><seg type="rp">）</seg></seg>である<lb />
 されど<lb />
 醜面<lb />
 白日のうちにさらけし<lb />
@@ -48,6 +48,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

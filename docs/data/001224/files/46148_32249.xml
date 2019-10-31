@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2008-08-09">作成</resp><resp /><note>
 <lb />
-底本：「久生十蘭全集　<span facs="../../../gaiji/1-13/1-13-27.png" rend="gaiji" rendition="img" source="※()" />」三一書房<lb />
+底本：「久生十蘭全集　<seg facs="../../../gaiji/1-13/1-13-27.png" rend="gaiji" rendition="img" source="※()" />」三一書房<lb />
 　　　1970（昭和45）年5月31日第1版刷第1刷発行<lb />
 　　　1978（昭和53）年1月31日第1版刷第3刷発行<lb />
 入力：tatsuki<lb />
@@ -33,31 +33,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">１</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">１</seg></seg></seg>
 <lb />
-　市電をおりた一人の男が、時計を出してちょっと機械的に眺めると、はげしい太陽に照りつけられながら越中島から枝川町のほうへ歩いて行った。左手にはどす黒い<span type="ruby"><span type="rb">溝渠</span><span type="rp">（</span><span type="rt">ほりわり</span><span type="rp">）</span></span>をへだてて、川口改良工事第六号埋立地の荒漠たる地表がひろがっていて、そのうえを無数の鴎が舞っていた。<lb />
-　その男は製粉会社の古<span type="ruby"><span type="rb">軌条</span><span type="rp">（</span><span type="rt">レール</span><span type="rp">）</span></span>置場の前で立ちどまると、ゴミゴミした左右の低い家並を見まわしながら、急にヒクヒクと鼻をうごかしはじめた。なにか微妙な前兆をかぎつけたのである。<lb />
+　市電をおりた一人の男が、時計を出してちょっと機械的に眺めると、はげしい太陽に照りつけられながら越中島から枝川町のほうへ歩いて行った。左手にはどす黒い<seg type="ruby"><seg type="rb">溝渠</seg><seg type="rp">（</seg><seg type="rt">ほりわり</seg><seg type="rp">）</seg></seg>をへだてて、川口改良工事第六号埋立地の荒漠たる地表がひろがっていて、そのうえを無数の鴎が舞っていた。<lb />
+　その男は製粉会社の古<seg type="ruby"><seg type="rb">軌条</seg><seg type="rp">（</seg><seg type="rt">レール</seg><seg type="rp">）</seg></seg>置場の前で立ちどまると、ゴミゴミした左右の低い家並を見まわしながら、急にヒクヒクと鼻をうごかしはじめた。なにか微妙な前兆をかぎつけたのである。<lb />
 　斜向いの空地のまんなかに、バラック建ての、重箱のような形の二階家があって、大きな柳の木が、その側面をいっぱいに蔽うようにのたりと生気のない枝を垂れていた……<lb />
 　男はひどく熱心にその家を眺める。それから、入口のガラス扉のそばへ近づいて行って、ほとんど消えかけているペンキ文字のうえへかがみこんだ。<lb />
-〈<span target="ltr">10</span>銭スタンド、那覇〉と書いてある。<lb />
-　しばらく<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ためら</span><span type="rp">）</span></span>ったのち、その男は思い切ったように<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>をおして、酒場のなかへはいって行った。<lb />
-　うす暗い酒場のなかにはまだ電灯がついていて、土間のうえの水溜りが光っていた。ぷんと、それが<span type="ruby"><span type="rb">臭</span><span type="rp">（</span><span type="rt">くさ</span><span type="rp">）</span></span>かった。番台では汚れ腐った白上衣を着た角刈の中僧が無精な<span type="ruby"><span type="rb">科</span><span type="rp">（</span><span type="rt">しぐさ</span><span type="rp">）</span></span>でコップをゆすいでい、二人の先客がひっそりとその前の<span type="ruby"><span type="rb">卓</span><span type="rp">（</span><span type="rt">テーブル</span><span type="rp">）</span></span>に坐っていた。<lb />
+〈<seg rendition="span" style="ltr">10</seg>銭スタンド、那覇〉と書いてある。<lb />
+　しばらく<seg type="ruby"><seg type="rb">躊躇</seg><seg type="rp">（</seg><seg type="rt">ためら</seg><seg type="rp">）</seg></seg>ったのち、その男は思い切ったように<seg type="ruby"><seg type="rb">扉</seg><seg type="rp">（</seg><seg type="rt">ドア</seg><seg type="rp">）</seg></seg>をおして、酒場のなかへはいって行った。<lb />
+　うす暗い酒場のなかにはまだ電灯がついていて、土間のうえの水溜りが光っていた。ぷんと、それが<seg type="ruby"><seg type="rb">臭</seg><seg type="rp">（</seg><seg type="rt">くさ</seg><seg type="rp">）</seg></seg>かった。番台では汚れ腐った白上衣を着た角刈の中僧が無精な<seg type="ruby"><seg type="rb">科</seg><seg type="rp">（</seg><seg type="rt">しぐさ</seg><seg type="rp">）</seg></seg>でコップをゆすいでい、二人の先客がひっそりとその前の<seg type="ruby"><seg type="rb">卓</seg><seg type="rp">（</seg><seg type="rt">テーブル</seg><seg type="rp">）</seg></seg>に坐っていた。<lb />
 　一人は縮みあがった綿セルの服を着た五十歳位の、ひどく小柄な小官吏風の男。まるで顎というものがなく、そのうえ真赤に充血した眼をしているので、ちょうど二十日鼠がそこに坐っているように見える。もう一人は四十歳位で、黒いソフトをあみだに冠った、すこしじだらくな風態だが一見して高等教育を受けた男だということがわかる。酒のみだと見えて、鼻のあたまが赤く熟しかけている。<lb />
 　たった今はいって来たほうは、夏帽を窮屈そうに膝に抱えたまま、見るからに落ちつかないようすで街路のほうを眺めている。なるほど、こういう場末町の不潔な酒場にはそぐわない男である。凄いほどひき緊った、端麗な顔をした三十四五歳の青年で、すっきりとした薄鼠の背広に、朱の交った黄色いネクタイをかけ流していた。銀座でもあまり見かけないような美しい青年である。<lb />
 　青年も二人の先客も、互いの眼をはばかるように背中合せに坐ったまま、さっきから身動きしようともしない……。こんな風にして時間がたつ。<lb />
 <lb />
-　それから二十分ほどすると、急に<span type="ruby"><span type="rb">扉</span><span type="rp">（</span><span type="rt">ドア</span><span type="rp">）</span></span>があいて、二人の男が前後になってはいってきた。<lb />
-　一人は小鳥のようにうるさく頭を動かし、キョトキョトと酒場のなかを見まわしながら、なにかしばらく<span type="ruby"><span type="rb">躊躇</span><span type="rp">（</span><span type="rt">ためら</span><span type="rp">）</span></span>っていたが、やがて、逃げるように出てゆくと、たちまち街路のむこうへ見えなくなってしまった。<lb />
+　それから二十分ほどすると、急に<seg type="ruby"><seg type="rb">扉</seg><seg type="rp">（</seg><seg type="rt">ドア</seg><seg type="rp">）</seg></seg>があいて、二人の男が前後になってはいってきた。<lb />
+　一人は小鳥のようにうるさく頭を動かし、キョトキョトと酒場のなかを見まわしながら、なにかしばらく<seg type="ruby"><seg type="rb">躊躇</seg><seg type="rp">（</seg><seg type="rt">ためら</seg><seg type="rp">）</seg></seg>っていたが、やがて、逃げるように出てゆくと、たちまち街路のむこうへ見えなくなってしまった。<lb />
 　もう一人は菜葉服を着た赧ら顔の頑丈な男で、番台に凭れかかると、そこからじろじろとしつっこく三人を眺め、それから、<lb />
-「オイ、鶴さん、<span type="ruby"><span type="rb">米酒</span><span type="rp">（</span><span type="rt">ピーチュ</span><span type="rp">）</span></span>」<lb />
+「オイ、鶴さん、<seg type="ruby"><seg type="rb">米酒</seg><seg type="rp">（</seg><seg type="rt">ピーチュ</seg><seg type="rp">）</seg></seg>」<lb />
 　と、酒棚のほうへ顎をしゃくった。<lb />
 　このほうは、どうやらここの常連らしい。発動機船の機関士か造船所の旋盤工というところ。チャップリン髭をはやしているのが異彩をはなつ。<lb />
 　手の甲で唇を拭うと、妙にきこえよがしに、<lb />
 「おう、今朝だれか俺をたずねて来なかったかよ、鶴さん……」<lb />
-　と、<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>にきいた。男は頭をふった。（この問答をきくと、三人の客は一斉にちょっと身動きしたようであった）<lb />
+　と、<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>にきいた。男は頭をふった。（この問答をきくと、三人の客は一斉にちょっと身動きしたようであった）<lb />
 　菜葉服は、ふうん、といくども首をかしげてから、こんどは低い声で、<lb />
-「……じゃなあ、俺はまたちょっと機械場へ行ってくるからよ、古田……<span type="ruby"><span type="rb">古田子之作</span><span type="rp">（</span><span type="rt">ふるたねのさく</span><span type="rp">）</span></span>ってたずねて来たやつがあったら、子之はじきまたここへ戻ってくると言ってくんなヨ。……おい、頼んだぜ、鶴さん。すぐ戻ってくるってナ、いいか」<lb />
+「……じゃなあ、俺はまたちょっと機械場へ行ってくるからよ、古田……<seg type="ruby"><seg type="rb">古田子之作</seg><seg type="rp">（</seg><seg type="rt">ふるたねのさく</seg><seg type="rp">）</seg></seg>ってたずねて来たやつがあったら、子之はじきまたここへ戻ってくると言ってくんなヨ。……おい、頼んだぜ、鶴さん。すぐ戻ってくるってナ、いいか」<lb />
 　くどく念をおすと、バットに火をつけながら出ていった。<lb />
 　酒鼻はそのあとを見送りながら、思い出したように時計をひきだして眺め、おや、十一時か……と、つぶやく。すると二十日鼠はつぶっていた眼を急にパッチリとあけて、<lb />
 「失礼ですが、いま何時でございましょう。正確なところは……」<lb />
@@ -66,20 +66,20 @@
 　二十日鼠は頭をさげると、また壁に凭れて眼をとじてしまった。酒鼻は時計をしまいながら、青年に、<lb />
 「あなたもここは始めてでしょう。……私はひとを待っているんですが、どうもたいへんなところ……」<lb />
 「始めてです」<lb />
-　にべもない返事だった。酒鼻はいまいましそうに、<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>のほうへ向きなおると、<lb />
+　にべもない返事だった。酒鼻はいまいましそうに、<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>のほうへ向きなおると、<lb />
 「オイ、ときに、ここのマダムはどうした」<lb />
-　と声をかけた。<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>はせせら笑って、<lb />
+　と声をかけた。<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>はせせら笑って、<lb />
 「マダム？　……大将ならまだ二階で寝てまさ。……昨夜すこしウタイすぎたんでねえ」<lb />
 「喧嘩か」<lb />
-「なあに、……昨夜妙な女がひとり飛びこんできてねえ……なにしろ大将はスキだから、いきなりそいつとツルんでだいぶんひっかぶったらしいんでさ。……もっとも、あっしゃ昨日は昼番、その時はいなかったが、いっしょう浴びたテアイのはなしでは、なにしろ<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">テキ</span><span type="rp">）</span></span>あ大した豪傑で、……お相手しましょう、てな調子で割りこんでくると、あとはもう、奴、酌げ酌げ、さ。……さすがの大将も、しまいにはオッペケペになって、とうとう兜をぬいじまったんだそうだ。……あっしゃ、すらっとした後ろ姿を拝見しただけだったが、連中の話じゃ、二十三四のモダン・ガールで、こいつがどうもやけにいい女だったそうでさア。……なんでも洲崎のバアの女給だってえこったが、いってえどういうんだろうねえ、その女……」<lb />
+「なあに、……昨夜妙な女がひとり飛びこんできてねえ……なにしろ大将はスキだから、いきなりそいつとツルんでだいぶんひっかぶったらしいんでさ。……もっとも、あっしゃ昨日は昼番、その時はいなかったが、いっしょう浴びたテアイのはなしでは、なにしろ<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">テキ</seg><seg type="rp">）</seg></seg>あ大した豪傑で、……お相手しましょう、てな調子で割りこんでくると、あとはもう、奴、酌げ酌げ、さ。……さすがの大将も、しまいにはオッペケペになって、とうとう兜をぬいじまったんだそうだ。……あっしゃ、すらっとした後ろ姿を拝見しただけだったが、連中の話じゃ、二十三四のモダン・ガールで、こいつがどうもやけにいい女だったそうでさア。……なんでも洲崎のバアの女給だってえこったが、いってえどういうんだろうねえ、その女……」<lb />
 　この時、また扉があいて、すらりと背の高い、二十二三の娘がはいってきた。<lb />
 　蓮色の服に、黒いフェルトの帽子をかぶった、明るい顔つきの、いかにも美しい娘だった。酒場のなかを見まわすと、青年のとなりの椅子にぎこちなく掛けて、ものおじしたようにうつむいてしまった。<lb />
-　ポート・ワインを酌いで、また番台へ戻って来ると、<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>は新聞をとりあげて、<lb />
+　ポート・ワインを酌いで、また番台へ戻って来ると、<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>は新聞をとりあげて、<lb />
 「おや、また人殺しだ」と、とってつけたように言った。<lb />
-「……えー、薪割りようのものにて、……滅多打ちにしたものらしく、六畳の血の海の中で、……よく<span type="ruby"><span type="rb">流行</span><span type="rp">（</span><span type="rt">はや</span><span type="rp">）</span></span>るねえ、このごろは。……こないだも野銭場の砂利仲仕が、小名木川の富士紡の前で、どてっぱらを割られて倒れていたが、……どうもひでえもんだねえ、<span type="ruby"><span type="rb">大腸</span><span type="rp">（</span><span type="rt">ひゃくひろ</span><span type="rp">）</span></span>をすっかりひろげちゃって、……苦しいのか、せつねえのか、そいつを自分の両手で、手繰りだすようにして死んでいるんでさ。いやになっちゃったア、あっしあ」<lb />
+「……えー、薪割りようのものにて、……滅多打ちにしたものらしく、六畳の血の海の中で、……よく<seg type="ruby"><seg type="rb">流行</seg><seg type="rp">（</seg><seg type="rt">はや</seg><seg type="rp">）</seg></seg>るねえ、このごろは。……こないだも野銭場の砂利仲仕が、小名木川の富士紡の前で、どてっぱらを割られて倒れていたが、……どうもひでえもんだねえ、<seg type="ruby"><seg type="rb">大腸</seg><seg type="rp">（</seg><seg type="rt">ひゃくひろ</seg><seg type="rp">）</seg></seg>をすっかりひろげちゃって、……苦しいのか、せつねえのか、そいつを自分の両手で、手繰りだすようにして死んでいるんでさ。いやになっちゃったア、あっしあ」<lb />
 　あちらこちらの工場のサイレンが鳴り出す。すると、それが合図のように、さっきの菜葉服が戻って来た。つかつかと番台の前へ行って、<lb />
 「なに、だれも来ねえ？　……そんな筈はねえのだが。……（首をかしげながら）じゃ、おやじが知ってるかも知れねえな。……おい、鶴さん。おやじはまだ寝てるのか。……ふうん。……じゃ、すまねえが、ちょっと起してきてくんな。子之がききてえことがあるってヨ。大至急な用なんだからよウ」<lb />
-「大将はまだ夜中だぜえ、子之さん。それに、ゆんべは……（と、いいかけて、急に二階のほうへきき耳をたてると）おう、だれか二階をあるいてら……。へ、へ、大将が正午まえに起きたためしはありゃしまいし、して見ると、……（酒鼻のほうへにやりと<span type="ruby"><span type="rb">下素</span><span type="rp">（</span><span type="rt">げす</span><span type="rp">）</span></span>っぽく笑って見せ、子之に）起すのはよしなよ、殺生だぜ、<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">テキ</span><span type="rp">）</span></span>がきている」<lb />
+「大将はまだ夜中だぜえ、子之さん。それに、ゆんべは……（と、いいかけて、急に二階のほうへきき耳をたてると）おう、だれか二階をあるいてら……。へ、へ、大将が正午まえに起きたためしはありゃしまいし、して見ると、……（酒鼻のほうへにやりと<seg type="ruby"><seg type="rb">下素</seg><seg type="rp">（</seg><seg type="rt">げす</seg><seg type="rp">）</seg></seg>っぽく笑って見せ、子之に）起すのはよしなよ、殺生だぜ、<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">テキ</seg><seg type="rp">）</seg></seg>がきている」<lb />
 　と、小指をだしてみせた。<lb />
 　二十日鼠がついと立ち上った。が、それは帰るのではなくて、<lb />
 「甚だつかぬことをお訊ねするのですが、みなさん、ひょっとしたらあなたがたも、わたくしと同様、未知の男から手紙をもらって、それで、……その、誰れかわからん人間をここで待っておられるのではないのですかな。たいへん失礼ですが……」<lb />
@@ -89,15 +89,15 @@
 「……はは、（と、苦笑しながら）やっぱりそうでしたか。その手紙をここに持っておりますが、……ひとつ念のために読んで見ましょうかしらん」<lb />
 　と、言いながら、もぞもぞとポケットを探して、邦文タイプライタアでうった紙きれをとり出すと、ひどく朗詠風に読みはじめた。<lb />
 <lb />
-<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">一、火急に就き小生の身分は申上げず、御面晤の折万々御披露可致候</span>
-<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">二、小生は貴殿が相続の資格を有せらるる未知の遺産につき、至急御通知申上ぐる義務を有し候</span>
-<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">三、右は不動産、有価証券並に銀行預金にて、財産目録は御面晤の折御一覧に可供候</span>
-<span rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">四、右は貴殿に於て当に失格せんとするものにて、至急資格申請並に諸般の手続を了する必要あり、猶々以上の外公表を憚る錯雑せる事情之有、御面晤の上篤と御説明申上ぐる外無之に付、左記場所まで日時相違なく御来駕給り度願上候</span>
-<span rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">敬具</span>
+<seg rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">一、火急に就き小生の身分は申上げず、御面晤の折万々御披露可致候</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">二、小生は貴殿が相続の資格を有せらるる未知の遺産につき、至急御通知申上ぐる義務を有し候</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">三、右は不動産、有価証券並に銀行預金にて、財産目録は御面晤の折御一覧に可供候</seg>
+<seg rend="burasage" rendition="div" style="margin-left: 2em; text-indent: -1em;">四、右は貴殿に於て当に失格せんとするものにて、至急資格申請並に諸般の手続を了する必要あり、猶々以上の外公表を憚る錯雑せる事情之有、御面晤の上篤と御説明申上ぐる外無之に付、左記場所まで日時相違なく御来駕給り度願上候</seg>
+<seg rend="chitsuki_2" rendition="div" style="text-align:right; margin-right: 2em">敬具</seg>
 　　　　六月四日<lb />
 　一、六月五日、午前十時。<lb />
 　一、深川区枝川町二二五番地。<lb />
-　　「那覇」、<span type="ruby"><span type="rb">絲満南風太郎</span><span type="rp">（</span><span type="rt">いとまんはえたろう</span><span type="rp">）</span></span>方。<lb />
+　　「那覇」、<seg type="ruby"><seg type="rb">絲満南風太郎</seg><seg type="rp">（</seg><seg type="rt">いとまんはえたろう</seg><seg type="rp">）</seg></seg>方。<lb />
 <lb />
 　二十日鼠は椅子にかけると、不機嫌な顔をしてだまりこんでしまった。青年はすこし顔を赧らめながら、<lb />
 「……僕も幼稚なんですねえ……その手紙はここに持っていますが、……でも、僕にも多少そういうこころあたりがあるので。……もっとも、半分は好奇心ですが。……（そして、微笑しながら娘に）あなたもそうですか」<lb />
@@ -105,10 +105,10 @@
 　娘はやっと顔をあげると、もの悲しげにつぶやいた。……美しい声であった。<lb />
 「あたし、半月ほどまえに、はじめて東京へ出てきまして、いま新宿の〈シネラリヤ〉ではたらいておりますの。……きのうの朝、十時頃、あたしのアパートへ女のひとから電話がかかってきて、いまの手紙とおなじことを言って、あたしにぜひきてほし言うのやし。……男の声のようなところもあるし、あたし、店のお客さんがいたずらしてるのだと思うて、いやや、ゆうて、笑いながら電話をきりましてんの。（すこし笑って）でも、ゆうべは、いろいろ空想をたくましゅうしてとうとう朝までよう寝られんのでした。……子供のとき生別れした父が、まだどこかに生きているはずなんですの。……今朝、そんな馬鹿なことないといくども思いかえしましてんけど……」<lb />
 　菜葉服は辛抱しきれない風で、横あいからひったくった。<lb />
-「俺のほうもそうなんだヨ。……富岡町の<span type="ruby"><span type="rb">支那</span><span type="rp">（</span><span type="rt">チャン</span><span type="rp">）</span></span>屋で<span type="ruby"><span type="rb">雲呑</span><span type="rp">（</span><span type="rt">ワンタン</span><span type="rp">）</span></span>を喰ってると、そこへ電話がかかってきたんだ。上品な女の声でねえ……、こいつあ、たしかですぜ。（じろりと娘の顔を見ながら）嘘もまぎれもねえ女の声だったんで。……それで、なにしろそういううめえ話だから、あっしゃ喜んで、承知した、きっとお伺いしましょう、って返事をしたんだ。……もちろん、初めは……、あっしだっていろいろ気をまわして見たさ。だがねえ、あっしの考えじゃ、どうも冗談たあ思われなかったんだ。ちゃんとすじが通っているからね」<lb />
+「俺のほうもそうなんだヨ。……富岡町の<seg type="ruby"><seg type="rb">支那</seg><seg type="rp">（</seg><seg type="rt">チャン</seg><seg type="rp">）</seg></seg>屋で<seg type="ruby"><seg type="rb">雲呑</seg><seg type="rp">（</seg><seg type="rt">ワンタン</seg><seg type="rp">）</seg></seg>を喰ってると、そこへ電話がかかってきたんだ。上品な女の声でねえ……、こいつあ、たしかですぜ。（じろりと娘の顔を見ながら）嘘もまぎれもねえ女の声だったんで。……それで、なにしろそういううめえ話だから、あっしゃ喜んで、承知した、きっとお伺いしましょう、って返事をしたんだ。……もちろん、初めは……、あっしだっていろいろ気をまわして見たさ。だがねえ、あっしの考えじゃ、どうも冗談たあ思われなかったんだ。ちゃんとすじが通っているからね」<lb />
 　二十日鼠が、ふふ、と苦笑した。菜葉服はむっとしたようすで立ちあがった。<lb />
 「おい、妙な笑いかたをするじゃねえか」<lb />
-　二十日鼠が言いかえす。菜葉服がいきり立つ。<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>までそれに加わって、おい追い手のつけられないようすになって行った。<lb />
+　二十日鼠が言いかえす。菜葉服がいきり立つ。<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>までそれに加わって、おい追い手のつけられないようすになって行った。<lb />
 　娘は眼にみえないほど、すこしずつ青年のほうへ寄っていった。初対面の男たちが下素っぽく罵りあっている。この不潔な酒場のなかでは、青年の端正な美しさは、たしかにひとつの救いであった。<lb />
 　娘は青年の耳元でささやいた。<lb />
 「……ここがわからんで、あたし、ずいぶん探し廻りましてんの。……しょむない……あたし、やっぱり慾ばり女なんですわ」<lb />
@@ -120,17 +120,17 @@
 「だから、俺あさっきからそう言ってるじゃねえか。ここのおやじにきけあ話がわかるってヨ。……それをこの先生が、（と、露骨に二十日鼠を指して）おっひゃらかすようなことを言うから、俺あ腹をたてるんだ。（こんどは酒鼻に）どうです、こんなことをしてるより、ひとつ、おやじを起してきいて見ようじゃありませんか（また、二十日鼠にむかって）おめえ、冗談だと思うなら、こんなところにまごまごしていることはなかろう。さっさと帰んなヨ」<lb />
 「さよう。そろそろ失敬しよう。……なあに、どうせ話はわかってるんだ」<lb />
 　そのくせ、腰をあげるようすもなかった。<lb />
-　酒鼻は<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>にむかって、<lb />
+　酒鼻は<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>にむかって、<lb />
 「オイ、若い衆、ハエ太郎君を起して、ここまでつれてきてくれ。……おやじがなにか知ってるなら、われわれに説明する義務があるんだ。……反対に、もしなにも知らないてえなら、せっかくのご休息をお妨げしたについて、われわれ一同は、謝罪のために、大いにここで飲むことにする。……すくなくとも、小生は大いに飲む。……もう正午もすぎてるんだ。とっとと行って起してこい……」<lb />
-　<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>は頭をかきながら、<lb />
+　<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>は頭をかきながら、<lb />
 「大将を起すんですかい。……いやだなア。またがみつかれらア」<lb />
 「だからヨ、みなであやまってやらあナ」<lb />
 　すると、酒鼻は大きな声で叫んだ。<lb />
-「わかったぞ！　……やい、ボーイ。そういう風にぐずつくところを見ると、貴様も同類だな。あの手紙は、酒場の人<span type="ruby"><span type="rb">集</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>せにやった仕事だろう……。どうだ、白状しろ」<lb />
-「じょ、冗談いうねえ。うちの大将はそんなんじゃねえや。……おめえらのような貧乏人を<span type="ruby"><span type="rb">集</span><span type="rp">（</span><span type="rt">よ</span><span type="rp">）</span></span>せたって、切手代のほうがたかくつかあ、馬鹿にするな。……うちの大将ぐれえ寝起きのわるいのはねえんだからよ。それさ、あっしがいやなのは。……だがまあ、それほどいうんなら起してきまさ」<lb />
+「わかったぞ！　……やい、ボーイ。そういう風にぐずつくところを見ると、貴様も同類だな。あの手紙は、酒場の人<seg type="ruby"><seg type="rb">集</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>せにやった仕事だろう……。どうだ、白状しろ」<lb />
+「じょ、冗談いうねえ。うちの大将はそんなんじゃねえや。……おめえらのような貧乏人を<seg type="ruby"><seg type="rb">集</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>せたって、切手代のほうがたかくつかあ、馬鹿にするな。……うちの大将ぐれえ寝起きのわるいのはねえんだからよ。それさ、あっしがいやなのは。……だがまあ、それほどいうんなら起してきまさ」<lb />
 　男は板裏を鳴らしながら、酒場の奥の狭い階段を、バタリ、バタリと、のろくさくのぼっていった。やがて足音は五人の真上へくる。<lb />
 　男はそっと扉を叩いている。階下では五人が、音のする方へ耳をすます。男はこんどはやや強く叩きながら、どなっている。<lb />
-「大将……大将……もう<span type="ruby"><span type="rb">正午</span><span type="rp">（</span><span type="rt">ひる</span><span type="rp">）</span></span>すぎですぜ」<lb />
+「大将……大将……もう<seg type="ruby"><seg type="rb">正午</seg><seg type="rp">（</seg><seg type="rt">ひる</seg><seg type="rp">）</seg></seg>すぎですぜ」<lb />
 　みな返事をまっている。……が、返事がない。<lb />
 　割れるように扉をたたく音が、酒場じゅうをゆすぶる。<lb />
 「大将……大将、工合でも悪いんですか」<lb />
@@ -150,17 +150,17 @@
 「……行って、かいでごらんなさい。すぐわかるから……」<lb />
 　二十日鼠は動かなかった。<lb />
 <lb />
-「いつもこんなによく寝こむのか」力一杯扉を叩いてから、巡査が<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>にたずねた。「そうじゃない？　……じゃ、ひとつ開けて見よう。……<span type="ruby"><span type="rb">鉄槓杆</span><span type="rp">（</span><span type="rt">かなてこ</span><span type="rp">）</span></span>があるかね？　……なかったらどこかへ行って借りて来い」<lb />
+「いつもこんなによく寝こむのか」力一杯扉を叩いてから、巡査が<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>にたずねた。「そうじゃない？　……じゃ、ひとつ開けて見よう。……<seg type="ruby"><seg type="rb">鉄槓杆</seg><seg type="rp">（</seg><seg type="rt">かなてこ</seg><seg type="rp">）</seg></seg>があるかね？　……なかったらどこかへ行って借りて来い」<lb />
 <lb />
-　男が鉄槓杆を担いできた。巡査は槓杆をうけとると、扉の下へそれを差込んで、ぐいともちあげた。<span type="ruby"><span type="rb">蝶番</span><span type="rp">（</span><span type="rt">ちょうつがい</span><span type="rp">）</span></span>がはずれた。錠の<span type="ruby"><span type="rb">閂下</span><span type="rp">（</span><span type="rt">した</span><span type="rp">）</span></span>がまだ邪魔をしている。うん、と肩でひと押し。扉は内側へまくれこんだ。<lb />
-　むっとするような重い臭いが鼻をつく。手さぐりで壁の<span type="ruby"><span type="rb">点滅器</span><span type="rp">（</span><span type="rt">スイッチ</span><span type="rp">）</span></span>をおす。……照明がはいって、そこで虐殺の舞台装置が、飛びつくように、一ペンに眼の前に展開された……。<lb />
-　敷布のくぼみの血だまり、籐椅子の上の<span type="ruby"><span type="rb">金盥</span><span type="rp">（</span><span type="rt">かなだらい</span><span type="rp">）</span></span>には、赤い水が縁まで、なみなみとたたえられている。<span type="ruby"><span type="rb">血飛沫</span><span type="rp">（</span><span type="rt">ちしぶき</span><span type="rp">）</span></span>が壁紙と天井になまなましい花模様をかいている。……そのすべてから、むせっかえるような屠殺場の匂いがたちのぼっている。寝台と壁の間の床の上に、裸の人間の足……乾いて小さくしなびた老人の<span type="ruby"><span type="rb">蹠</span><span type="rp">（</span><span type="rt">あしのうら</span><span type="rp">）</span></span>がつきだされていた。<lb />
+　男が鉄槓杆を担いできた。巡査は槓杆をうけとると、扉の下へそれを差込んで、ぐいともちあげた。<seg type="ruby"><seg type="rb">蝶番</seg><seg type="rp">（</seg><seg type="rt">ちょうつがい</seg><seg type="rp">）</seg></seg>がはずれた。錠の<seg type="ruby"><seg type="rb">閂下</seg><seg type="rp">（</seg><seg type="rt">した</seg><seg type="rp">）</seg></seg>がまだ邪魔をしている。うん、と肩でひと押し。扉は内側へまくれこんだ。<lb />
+　むっとするような重い臭いが鼻をつく。手さぐりで壁の<seg type="ruby"><seg type="rb">点滅器</seg><seg type="rp">（</seg><seg type="rt">スイッチ</seg><seg type="rp">）</seg></seg>をおす。……照明がはいって、そこで虐殺の舞台装置が、飛びつくように、一ペンに眼の前に展開された……。<lb />
+　敷布のくぼみの血だまり、籐椅子の上の<seg type="ruby"><seg type="rb">金盥</seg><seg type="rp">（</seg><seg type="rt">かなだらい</seg><seg type="rp">）</seg></seg>には、赤い水が縁まで、なみなみとたたえられている。<seg type="ruby"><seg type="rb">血飛沫</seg><seg type="rp">（</seg><seg type="rt">ちしぶき</seg><seg type="rp">）</seg></seg>が壁紙と天井になまなましい花模様をかいている。……そのすべてから、むせっかえるような屠殺場の匂いがたちのぼっている。寝台と壁の間の床の上に、裸の人間の足……乾いて小さくしなびた老人の<seg type="ruby"><seg type="rb">蹠</seg><seg type="rp">（</seg><seg type="rt">あしのうら</seg><seg type="rp">）</seg></seg>がつきだされていた。<lb />
 「おや！　あそこにいた。……ひどいことをしやがったな」<lb />
 　巡査はハンカチで首のまわりを拭いた。<lb />
-　気抜けしたような<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>のうしろには、五人の客が、明るい電灯の光の下で、ねっとりとかがやく血だまりを見ていた。藁蒲団をしみ通した血が、ポトリ、ポトリ、と床のうえにしたたるのがはっきりときこえる。<lb />
+　気抜けしたような<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>のうしろには、五人の客が、明るい電灯の光の下で、ねっとりとかがやく血だまりを見ていた。藁蒲団をしみ通した血が、ポトリ、ポトリ、と床のうえにしたたるのがはっきりときこえる。<lb />
 　二十日鼠は背中を丸くして、歯の間から荒い呼吸をしていた。草笛のように甲高くヒュウヒュウ鳴る音は、血の滴る陰気な音と交りあって、ひとの気持ちをいらいらさせた。<lb />
 　娘は青年の方をふりかえると、溺れかかるような眼つきをした。青年は急いで娘の傍へよると、腕のなかへ抱えた。娘は蒼ざめた額をおさえながら、夢のさめきらないひとのような声で、どうぞ……階下へ……と、いった。<lb />
-　その声で巡査がふりかえる。五人を見ると、はじめて気がついたように、<span type="ruby"><span type="rb">男</span><span type="rp">（</span><span type="rt">ボーイ</span><span type="rp">）</span></span>にきいた。<lb />
+　その声で巡査がふりかえる。五人を見ると、はじめて気がついたように、<seg type="ruby"><seg type="rb">男</seg><seg type="rp">（</seg><seg type="rt">ボーイ</seg><seg type="rp">）</seg></seg>にきいた。<lb />
 「この連中はなんだね」<lb />
 「店のお客です。始めてのひとばかりなんで……」<lb />
 「ふうん。……さ、みんな、おりた、おりた。帰らずに階下で待っていろ。……もうここへあがって来ることはならんぞ」<lb />
@@ -171,45 +171,45 @@
 「わたくしども五人は、ある不明な人物から、今日の十時までにここへくるように指定されまして、それでやってまいったのでございますが、……しかるに、当の告知人は、とうとう姿をあらわさなかったというわけで。……手紙とは、すなわちこれでございます」<lb />
 　二十日鼠はポケットから、さきほどの手紙をとりだすと、うやうやしく叩頭して警部に渡した。<lb />
 「姓名は？」<lb />
-「<span type="ruby"><span type="rb">乾峯人</span><span type="rp">（</span><span type="rt">いぬいみねと</span><span type="rp">）</span></span>。……高等官七等。元逓信省官吏。只今は恩給で生活いたし、傍ら西洋古家具骨董商を営んでおるのでございまして、住居は、淀橋区角筈二丁目二十七番地。……五十二歳。はい、まったくの独身でございます」<lb />
+「<seg type="ruby"><seg type="rb">乾峯人</seg><seg type="rp">（</seg><seg type="rt">いぬいみねと</seg><seg type="rp">）</seg></seg>。……高等官七等。元逓信省官吏。只今は恩給で生活いたし、傍ら西洋古家具骨董商を営んでおるのでございまして、住居は、淀橋区角筈二丁目二十七番地。……五十二歳。はい、まったくの独身でございます」<lb />
 「それから、そちらの婦人……」<lb />
-「雨……<span type="ruby"><span type="rb">雨田葵</span><span type="rp">（</span><span type="rt">あめだあおい</span><span type="rp">）</span></span>……只今、新宿の〈シネラリヤ〉で働いております。……四……四谷区大木戸二ノ一文園アパート。二十三歳。独身でございます」<lb />
+「雨……<seg type="ruby"><seg type="rb">雨田葵</seg><seg type="rp">（</seg><seg type="rt">あめだあおい</seg><seg type="rp">）</seg></seg>……只今、新宿の〈シネラリヤ〉で働いております。……四……四谷区大木戸二ノ一文園アパート。二十三歳。独身でございます」<lb />
 「よろしい。……つぎ」<lb />
-「<span type="ruby"><span type="rb">西貝計三</span><span type="rp">（</span><span type="rt">にしがいけいぞう</span><span type="rp">）</span></span>（酒鼻が無造作にこたえる）東都新聞の演芸記者。四谷区新宿二丁目五十八。当年三十七歳」<lb />
+「<seg type="ruby"><seg type="rb">西貝計三</seg><seg type="rp">（</seg><seg type="rt">にしがいけいぞう</seg><seg type="rp">）</seg></seg>（酒鼻が無造作にこたえる）東都新聞の演芸記者。四谷区新宿二丁目五十八。当年三十七歳」<lb />
 　警部は菜葉服のほうへ顎をしゃくった。<lb />
 「古田子之作。深川区富岡町二一七。〈都タクシー〉で働いております」<lb />
 「運転手か」<lb />
-「へえ、運転もいたしますが、いまはおもに古自動車をなおす方をやってるんで。……住居は、そこの二階で寝泊りしております。（頭をかきながら）まだ<span type="ruby"><span type="rb">嬶</span><span type="rp">（</span><span type="rt">かかあ</span><span type="rp">）</span></span>はございません。へえ、三十三でございます」<lb />
+「へえ、運転もいたしますが、いまはおもに古自動車をなおす方をやってるんで。……住居は、そこの二階で寝泊りしております。（頭をかきながら）まだ<seg type="ruby"><seg type="rb">嬶</seg><seg type="rp">（</seg><seg type="rt">かかあ</seg><seg type="rp">）</seg></seg>はございません。へえ、三十三でございます」<lb />
 　警部は手帖をしまいながら、もう自由にひきとってよろしい、といった。青年が警部の前へすすみでた。<lb />
 「私はまだすんでおりません」<lb />
 　警部は、すこしてれながら、<lb />
 「ああ、……君は？」<lb />
-「私は四日前に台北から上京いたしまして只今は麹町〈南平ホテル〉に泊っております。もとは<span type="ruby"><span type="rb">青島</span><span type="rp">（</span><span type="rt">チンタオ</span><span type="rp">）</span></span>の貿易商会につとめておりました。現在は無職……失業中なのです。……<span type="ruby"><span type="rb">久我千秋</span><span type="rp">（</span><span type="rt">くがちあき</span><span type="rp">）</span></span>。明治三十五年生れ」<lb />
+「私は四日前に台北から上京いたしまして只今は麹町〈南平ホテル〉に泊っております。もとは<seg type="ruby"><seg type="rb">青島</seg><seg type="rp">（</seg><seg type="rt">チンタオ</seg><seg type="rp">）</seg></seg>の貿易商会につとめておりました。現在は無職……失業中なのです。……<seg type="ruby"><seg type="rb">久我千秋</seg><seg type="rp">（</seg><seg type="rt">くがちあき</seg><seg type="rp">）</seg></seg>。明治三十五年生れ」<lb />
 　そういって、上品なおじぎをした。<lb />
 　五人はわいわいいう弥次馬をおしわけながら街路へでた。<lb />
 　久我が片手をあげる。久我と葵をのせて、自動車は走り去った。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">２</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">２</seg></seg></seg>
 <lb />
 　御苑裏の暗い街路に、〈シネラリヤ〉が夜の花のようにほの明く咲いていた。<lb />
-　階下は喫茶店になっていて、白い紗のカアテンをすかして、椰子の葉と常連の顔を見ることが出来る。しかし、二階のダンシング＝バアの方は、さように開放的ではない。肉色のカアテンが、<span type="ruby"><span type="rb">薄い下着</span><span type="rp">（</span><span type="rt">シュミイズ</span><span type="rp">）</span></span>のようにその肉体を蔽いかくしている。<lb />
-　ここに集まるひとびとは、いわゆる、大東京の<span type="ruby"><span type="rb">通人</span><span type="rp">（</span><span type="rt">ラフイネ</span><span type="rp">）</span></span>たちである。この都会の最も装飾的な要素であり、東京の「<span type="ruby"><span type="rb">遊楽街</span><span type="rp">（</span><span type="rt">リユ・ド・プレエジール</span><span type="rp">）</span></span>」の伝説口碑に通暁しているすぐれた土俗学者たちだ。多少は互いの身分を知り合い、いくらかずつは、互いに肉親的なものを感じている連中である。<lb />
-　バアの広間の中央は、「踊り場」になっていて<span type="ruby"><span type="rb">通人</span><span type="rp">（</span><span type="rt">ラフイネ</span><span type="rp">）</span></span>たちは、そこで非合法的に踊る。この愛すべき秘密は、ある<span type="ruby"><span type="rb">素朴</span><span type="rp">（</span><span type="rt">プリミチフ</span><span type="rp">）</span></span>な方法によって保たれていた。<lb />
-「常連」以外の男がはいってくる。（これは風紀巡査かも知れないのだ）すると、信号の<span type="ruby"><span type="rb">蝉鳴器</span><span type="rp">（</span><span type="rt">ブザ</span><span type="rp">）</span></span>が低くうなりだす。階下からの合図だ。二階のタンゴは、そこで、片足をあげたままで停まらなくてはならない。……この冒険が〈シネラリヤ〉の魅力になっているのであった。<lb />
+　階下は喫茶店になっていて、白い紗のカアテンをすかして、椰子の葉と常連の顔を見ることが出来る。しかし、二階のダンシング＝バアの方は、さように開放的ではない。肉色のカアテンが、<seg type="ruby"><seg type="rb">薄い下着</seg><seg type="rp">（</seg><seg type="rt">シュミイズ</seg><seg type="rp">）</seg></seg>のようにその肉体を蔽いかくしている。<lb />
+　ここに集まるひとびとは、いわゆる、大東京の<seg type="ruby"><seg type="rb">通人</seg><seg type="rp">（</seg><seg type="rt">ラフイネ</seg><seg type="rp">）</seg></seg>たちである。この都会の最も装飾的な要素であり、東京の「<seg type="ruby"><seg type="rb">遊楽街</seg><seg type="rp">（</seg><seg type="rt">リユ・ド・プレエジール</seg><seg type="rp">）</seg></seg>」の伝説口碑に通暁しているすぐれた土俗学者たちだ。多少は互いの身分を知り合い、いくらかずつは、互いに肉親的なものを感じている連中である。<lb />
+　バアの広間の中央は、「踊り場」になっていて<seg type="ruby"><seg type="rb">通人</seg><seg type="rp">（</seg><seg type="rt">ラフイネ</seg><seg type="rp">）</seg></seg>たちは、そこで非合法的に踊る。この愛すべき秘密は、ある<seg type="ruby"><seg type="rb">素朴</seg><seg type="rp">（</seg><seg type="rt">プリミチフ</seg><seg type="rp">）</seg></seg>な方法によって保たれていた。<lb />
+「常連」以外の男がはいってくる。（これは風紀巡査かも知れないのだ）すると、信号の<seg type="ruby"><seg type="rb">蝉鳴器</seg><seg type="rp">（</seg><seg type="rt">ブザ</seg><seg type="rp">）</seg></seg>が低くうなりだす。階下からの合図だ。二階のタンゴは、そこで、片足をあげたままで停まらなくてはならない。……この冒険が〈シネラリヤ〉の魅力になっているのであった。<lb />
 <lb />
 　その日の夜十時頃、久我千秋は〈シネラリヤ〉の扉をおす。入口の勘定台には柔和な顔をした老人がいて、久我を見ると丁重に頭をさげた。久我は気おくれがして、ちょっと階段の下でためらっていたが、やがて、決心したように狭い階段をのぼって行った。<lb />
-　久我はホールの端口に立って、しずかにその内部を見まわした。やや広い四角な部屋の壁にそって、チュウブ製の<span type="ruby"><span type="rb">小卓</span><span type="rp">（</span><span type="rt">テーブル</span><span type="rp">）</span></span>が十五六置かれ、三十人ほどの男と女が、飲物を前にして、そこにかけていた。久我がはいってゆくと、ホールのひとびとは、検べるような眼つきで、一斉に久我のほうへふりかえった。ひとびとの見たものは、すこし贅沢すぎる服をスマートに着こなした、二十五六の、ちょっと例のないような美しい青年であった。<lb />
-　久我は入口の近くの<span type="ruby"><span type="rb">小卓</span><span type="rp">（</span><span type="rt">テーブル</span><span type="rp">）</span></span>につくと、もう一度念をいれて広間のなかを見廻した。しかし、そこには葵の顔は見あたらなかった。<lb />
-　一人の女が立っていって蓄音機をかける。ささやくようなルムバのメロディがそこから流れだした。四五人の男が立って行って踊りはじめた。踊り場の中央には大きな<span type="ruby"><span type="rb">磨硝子</span><span type="rp">（</span><span type="rt">すりガラス</span><span type="rp">）</span></span>が嵌めこまれてあって、下からの照明が、フット・ライトのように、その上で踊る男と女の裾を淡く照らしあげた。<lb />
+　久我はホールの端口に立って、しずかにその内部を見まわした。やや広い四角な部屋の壁にそって、チュウブ製の<seg type="ruby"><seg type="rb">小卓</seg><seg type="rp">（</seg><seg type="rt">テーブル</seg><seg type="rp">）</seg></seg>が十五六置かれ、三十人ほどの男と女が、飲物を前にして、そこにかけていた。久我がはいってゆくと、ホールのひとびとは、検べるような眼つきで、一斉に久我のほうへふりかえった。ひとびとの見たものは、すこし贅沢すぎる服をスマートに着こなした、二十五六の、ちょっと例のないような美しい青年であった。<lb />
+　久我は入口の近くの<seg type="ruby"><seg type="rb">小卓</seg><seg type="rp">（</seg><seg type="rt">テーブル</seg><seg type="rp">）</seg></seg>につくと、もう一度念をいれて広間のなかを見廻した。しかし、そこには葵の顔は見あたらなかった。<lb />
+　一人の女が立っていって蓄音機をかける。ささやくようなルムバのメロディがそこから流れだした。四五人の男が立って行って踊りはじめた。踊り場の中央には大きな<seg type="ruby"><seg type="rb">磨硝子</seg><seg type="rp">（</seg><seg type="rt">すりガラス</seg><seg type="rp">）</seg></seg>が嵌めこまれてあって、下からの照明が、フット・ライトのように、その上で踊る男と女の裾を淡く照らしあげた。<lb />
 　鮭色のソワレを着た十七八の若い娘が久我の傍へきて坐ると、びっくりしたような眼つきをしていつまでも久我の横顔を眺めていた。<lb />
-　酒棚の上の<span type="ruby"><span type="rb">蝉鳴器</span><span type="rp">（</span><span type="rt">ブザ</span><span type="rp">）</span></span>が、むしろ、愛想よくジイ、ジイ……と、鳴りだす。<lb />
-　踊りは急に止み、男と女は急いでおのおのの小卓に駆けもどると、へんに空々しい顔をした。一人の女が蓄音機をとめる。床の照明が消されると、たちまちその上に小卓と椅子が押し出されて、そこで一組の男女がジンジャア・エールを飲みだした。このすべての動作は、めざましくも一瞬のうちに行われた。まるで、芝居の「<span type="ruby"><span type="rb">急転換</span><span type="rp">（</span><span type="rt">どんでんがえし</span><span type="rp">）</span></span>」のようであった。<lb />
+　酒棚の上の<seg type="ruby"><seg type="rb">蝉鳴器</seg><seg type="rp">（</seg><seg type="rt">ブザ</seg><seg type="rp">）</seg></seg>が、むしろ、愛想よくジイ、ジイ……と、鳴りだす。<lb />
+　踊りは急に止み、男と女は急いでおのおのの小卓に駆けもどると、へんに空々しい顔をした。一人の女が蓄音機をとめる。床の照明が消されると、たちまちその上に小卓と椅子が押し出されて、そこで一組の男女がジンジャア・エールを飲みだした。このすべての動作は、めざましくも一瞬のうちに行われた。まるで、芝居の「<seg type="ruby"><seg type="rb">急転換</seg><seg type="rp">（</seg><seg type="rt">どんでんがえし</seg><seg type="rp">）</seg></seg>」のようであった。<lb />
 　はいって来たのは、四十歳位の、医者のような風態の男で、入口の傍に坐っている久我を見ると、急に顔をそむけるようにして、奥まった小卓の方へ行ってしまった。<lb />
 　鮭色の娘は、右手を彼の腕に巻きつけながら、踊ってちょうだい、といった。久我は優しくその肩に手を置きながら、葵というひとに、友達からのことづてがあってきたのだが、もしここにいるなら逢いたいものだ、といった。<lb />
 　娘は、まじめな顔をつくりながら、<lb />
 「あら、そんな方、ここにおりませんわ。（すぐ自分で笑いだして）うそよ。……葵さん、いま階下にいるのよ。よんで来たげましょうね。……そのかわり、あとで、あたしと踊ってちょうだい」<lb />
 　気軽に立ちあがると、階下へ駆けおりていった。<lb />
-　葵があがって来た。ホールの入口に立って、奥のほうを見まわしている。<span type="ruby"><span type="rb">酒場台</span><span type="rp">（</span><span type="rt">コントワール</span><span type="rp">）</span></span>のほうからくる<span type="ruby"><span type="rb">琥珀</span><span type="rp">（</span><span type="rt">こはく</span><span type="rp">）</span></span>色の光が、ほとんど子供じみた彼女の横顔を浮きあがらせていた。脆そうな首筋、白い芥子のようなうすい皮膚。二十三でいて、そのくせ子供のようにも見える、あの不思議な典型的な「東京の女」の顔であった。<lb />
+　葵があがって来た。ホールの入口に立って、奥のほうを見まわしている。<seg type="ruby"><seg type="rb">酒場台</seg><seg type="rp">（</seg><seg type="rt">コントワール</seg><seg type="rp">）</seg></seg>のほうからくる<seg type="ruby"><seg type="rb">琥珀</seg><seg type="rp">（</seg><seg type="rt">こはく</seg><seg type="rp">）</seg></seg>色の光が、ほとんど子供じみた彼女の横顔を浮きあがらせていた。脆そうな首筋、白い芥子のようなうすい皮膚。二十三でいて、そのくせ子供のようにも見える、あの不思議な典型的な「東京の女」の顔であった。<lb />
 　久我を見つけると、葵は瞬間立ち竦んだようになって、それから、あまり劇しく身動きすると幻が消えてしまうとでも思っているように、そろそろと用心深い足どりで近づいてきた。<lb />
 「……まあ、……でも、よく……あたし……」<lb />
 　顔をかがやかせ、感動のために口もろくにきけない風であった。久我は、言葉をさがしながら、けっきょく、<lb />
@@ -220,7 +220,7 @@
 〈……葵も東京でひとりぽっちだと言っていたようだった、と彼はかんがえる。……あんな美しい娘が、どうしてひとりぽっちなのだろう。そういえば、病身らしいところはある。……あまり子供っぽい顔をしているからかしら。すこし、明るすぎる。……あの種類の顔は、見るひとに、いつも郷愁を感じさせる顔だ。二年前なら、このテエマでおれは詩をつくっていたろう。……しかし、いまは、すくなくともおれは詩人じゃない。……おっと、これは失礼〉<lb />
 　久我がこんなことを考えながら歩いていると、そこの路地から出て来た男に突きあたった。<lb />
 「や、これは失礼」<lb />
-　と、その男も帽子をとりながら、久我の顔を見ると、急に<span type="ruby"><span type="rb">剽軽</span><span type="rp">（</span><span type="rt">ひょうきん</span><span type="rp">）</span></span>な調子で、<lb />
+　と、その男も帽子をとりながら、久我の顔を見ると、急に<seg type="ruby"><seg type="rb">剽軽</seg><seg type="rp">（</seg><seg type="rt">ひょうきん</seg><seg type="rp">）</seg></seg>な調子で、<lb />
 「これはこれは、なんたる奇遇！」<lb />
 　酒鼻……西貝計三だった。<lb />
 　久我も驚いて、<lb />
@@ -230,37 +230,37 @@
 「勿論ですとも。結構です、お伴します」<lb />
 「すぐそこ。……二丁目の鉄砲屋の裏。……〈柳〉というんだ。……われわれ称して〈連合通信社〉。それはそうと、今日の夕刊を見たかい」<lb />
 「ええ。……でも、われわれが知っている以上のことは載っていなかったようですね」<lb />
-「そう。……<span type="ruby"><span type="rb">那須</span><span type="rp">（</span><span type="rt">なす</span><span type="rp">）</span></span>ってやつがいまやってくるから、そいつにきくと、もうすこしくわしいことがわかるだろう。……さあ、ここだ」<lb />
+「そう。……<seg type="ruby"><seg type="rb">那須</seg><seg type="rp">（</seg><seg type="rt">なす</seg><seg type="rp">）</seg></seg>ってやつがいまやってくるから、そいつにきくと、もうすこしくわしいことがわかるだろう。……さあ、ここだ」<lb />
 　西貝は久我の腕をとって、小粋な表がまえのおでん屋へつれこんだ。<lb />
-　卓はほとんどみなふさがっていて、湯気と煙草のけむりがもやもやしているなかで、真っ赤な顔が盛んに<span type="ruby"><span type="rb">飲食</span><span type="rp">（</span><span type="rt">のみく</span><span type="rp">）</span></span>いしていた。蜻蛉玉の首飾をいくつも腕にかけた中国人が、通りみちに立ちはだかって、女給たちのひと組にしつっこく押売りしている。<lb />
+　卓はほとんどみなふさがっていて、湯気と煙草のけむりがもやもやしているなかで、真っ赤な顔が盛んに<seg type="ruby"><seg type="rb">飲食</seg><seg type="rp">（</seg><seg type="rt">のみく</seg><seg type="rp">）</seg></seg>いしていた。蜻蛉玉の首飾をいくつも腕にかけた中国人が、通りみちに立ちはだかって、女給たちのひと組にしつっこく押売りしている。<lb />
 　西貝はそれを押しのけるようにして奥まった卓にすすんで行った。押しだされた中国人は、入口のところで久我にすれちがうと、急に彼の顔を指さしながら、甲高い声で、<lb />
 「ロオマ！　ロオマ！」<lb />
 　と、二声ばかり叫んで出ていった。<lb />
 　客は一斉に不審そうに久我の顔を見あげた。<lb />
 　久我が卓につくと、西貝がたずねた。<lb />
 「あいつ、いま、なんていったんだね」<lb />
-「僕がおしのけたと思って悪口をいったんです。<span type="ruby"><span type="rb">老鰻</span><span type="rp">（</span><span type="rt">ロオマ</span><span type="rp">）</span></span>ってのは、台湾語で鰻のことですが、悪党、とか、人殺し、とかっていう意味でもあるんです」<lb />
-「ヘイ、君は台湾語をやるのかね。（と、いってから、大きな声で）オイ、<span type="ruby"><span type="rb">日本盛</span><span type="rp">（</span><span type="rt">にほんざかり</span><span type="rp">）</span></span>」<lb />
+「僕がおしのけたと思って悪口をいったんです。<seg type="ruby"><seg type="rb">老鰻</seg><seg type="rp">（</seg><seg type="rt">ロオマ</seg><seg type="rp">）</seg></seg>ってのは、台湾語で鰻のことですが、悪党、とか、人殺し、とかっていう意味でもあるんです」<lb />
+「ヘイ、君は台湾語をやるのかね。（と、いってから、大きな声で）オイ、<seg type="ruby"><seg type="rb">日本盛</seg><seg type="rp">（</seg><seg type="rt">にほんざかり</seg><seg type="rp">）</seg></seg>」<lb />
 　と、叫んだ。<lb />
-「僕は台湾で生れたんです。……でも、両親は日本人ですよ。……大阪外語の支那語科を出ると、<span type="ruby"><span type="rb">青島</span><span type="rp">（</span><span type="rt">チンタオ</span><span type="rp">）</span></span>の大同洋行へはいったんですが、どうもサラリーマンてのは僕の性にあわないんですね。また台湾へ舞い戻って、コカの取引ですこし金をこしらえたので、思いきりよくサラリーマンの足を洗って、新聞記者になるつもりで東京へやって来たんです。……僕は上海語も北京語も台湾語も話せるんですが、どこかの新聞社へもぐりこめないものでしょうか」<lb />
-　西貝はコップで盛んに<span type="ruby"><span type="rb">呷</span><span type="rp">（</span><span type="rt">あお</span><span type="rp">）</span></span>りながら、無責任な調子で、<lb />
+「僕は台湾で生れたんです。……でも、両親は日本人ですよ。……大阪外語の支那語科を出ると、<seg type="ruby"><seg type="rb">青島</seg><seg type="rp">（</seg><seg type="rt">チンタオ</seg><seg type="rp">）</seg></seg>の大同洋行へはいったんですが、どうもサラリーマンてのは僕の性にあわないんですね。また台湾へ舞い戻って、コカの取引ですこし金をこしらえたので、思いきりよくサラリーマンの足を洗って、新聞記者になるつもりで東京へやって来たんです。……僕は上海語も北京語も台湾語も話せるんですが、どこかの新聞社へもぐりこめないものでしょうか」<lb />
+　西貝はコップで盛んに<seg type="ruby"><seg type="rb">呷</seg><seg type="rp">（</seg><seg type="rt">あお</seg><seg type="rp">）</seg></seg>りながら、無責任な調子で、<lb />
 「いいだろう、なんとかなるだろうさ。ま、飲みたまえ。……（そう言って、久我のコップに、またなみなみと酌ぎながら）それでなにか書いたことがあるの、君は」<lb />
 「これでも、むかしは詩をつくったことがあるんです。おちかづきのしるしに一冊献上して、大いに悩ませるつもりです。覚悟していて下さい」<lb />
 　西貝は酒と暑気で真っ赤になった顔を、ぶるん、と、なでながら、上機嫌に笑いだした。<lb />
-「愉快なやつだな、君は。……小生のほうは、これで坊主の子さ、本来は坊主になるはずだったんだが、小生のような、俗気のない高潔な人間は、あの商売に向かないんだよ。そこで……、大学を出ると、志を立てて新劇俳優になった。そもそもの最初は……（と、いいかけて入口のほうを見ると、急に椅子の上で腰を浮かせて）お、那須がきた！　……あいつ、またなにか掴んできたぞ。……すこし<span type="ruby"><span type="rb">想像力</span><span type="rp">（</span><span type="rt">イマジネーション</span><span type="rp">）</span></span>を要する事件になると、警察なんてものは手も足も出ないんだからな。新聞社の若い連中のほうがずっとましなんだ。（そして、手を高くさしあげると）オイ、那須……」<lb />
+「愉快なやつだな、君は。……小生のほうは、これで坊主の子さ、本来は坊主になるはずだったんだが、小生のような、俗気のない高潔な人間は、あの商売に向かないんだよ。そこで……、大学を出ると、志を立てて新劇俳優になった。そもそもの最初は……（と、いいかけて入口のほうを見ると、急に椅子の上で腰を浮かせて）お、那須がきた！　……あいつ、またなにか掴んできたぞ。……すこし<seg type="ruby"><seg type="rb">想像力</seg><seg type="rp">（</seg><seg type="rt">イマジネーション</seg><seg type="rp">）</seg></seg>を要する事件になると、警察なんてものは手も足も出ないんだからな。新聞社の若い連中のほうがずっとましなんだ。（そして、手を高くさしあげると）オイ、那須……」<lb />
 　と叫んだ。<lb />
-　那須というのは、頭髪をべったりと頭蓋骨にはりつけた、背の高い痩せた青年で、西貝を見るとうれしそうな微笑をうかべながら、急いで近づいてきて、掛けるやいなや、オイ、<span type="ruby"><span type="rb">菊正</span><span type="rp">（</span><span type="rt">きくまさ</span><span type="rp">）</span></span>！　と、怒鳴った。<lb />
+　那須というのは、頭髪をべったりと頭蓋骨にはりつけた、背の高い痩せた青年で、西貝を見るとうれしそうな微笑をうかべながら、急いで近づいてきて、掛けるやいなや、オイ、<seg type="ruby"><seg type="rb">菊正</seg><seg type="rp">（</seg><seg type="rt">きくまさ</seg><seg type="rp">）</seg></seg>！　と、怒鳴った。<lb />
 　西貝は久我のほうへ顎をしゃくって、<lb />
 「こちらは、久我君。……このひとも怪人から手紙をもらったひとりなんだ。ときになにかニュースがあるか」<lb />
 　那須は頭をかかえこんで、<lb />
-「駄目、駄目。……（それから、顔をあげると、身体をゆすぶりながら）昼からいままで、僕は永代橋と荒川の放水路の間を駈け廻っていたんだ。それから、〈那覇〉の常連とあのへんの地廻りを、ひとりずつ虱っ潰しにして見たんだ。……ちょっと面白いことがあるんだね。富岡町の〈金城〉ってバアの女給に、<span type="ruby"><span type="rb">朱砂</span><span type="rp">（</span><span type="rt">しゅすな</span><span type="rp">）</span></span>ハナ、ってのがいてね。これが、殺された南風太郎と同じく、琉球の絲満人なんだ。東京へそれを連れてきたのも南風太郎だし、一時は夫婦のように暮していたこともあるんだ。こいつは、琉球で小学校の先生までしたことがあるんだが、いまはもうさんざんでね。バアの二階で大っぴらに客をとるんだ。チョイト小綺麗でね、モダン・ガールみたいな風をしているんだ……こいつをききこんだときはうれしかったね。……ほら、前の晩に〈那覇〉へ酒をのみにきたモダン・ガールがあったろう。……てっきり、これだ、と百パーセントに見込みをつけて、おしかけて行っていきなり一本槍につっこんで見たんだ。……ところがねえ、（と、また頭をかかえこんで）こん、こんな馬鹿なはなしはないです。……密淫売で洲崎署に十八日<span type="ruby"><span type="rb">喰</span><span type="rp">（</span><span type="rt">くら</span><span type="rp">）</span></span>いこんでいて、今朝の十時にようやく出てきたばかりだったんだからねえ、話にもなにもなりやしないさ。……しかし、南風太郎の身元だけは<span type="ruby"><span type="rb">調</span><span type="rp">（</span><span type="rt">あら</span><span type="rp">）</span></span>ってきたよ。調べてみると、絲満南風太郎ってのはエライやつなんだねえ。いままでのうちに、二度も三度も万という字のつく金をもうけたらしいんだが、こいつをしっかり抱えこんで、爪に火をともすような暮しをしていたんだねえ。だから、この殺人は金が目的だってことは確かなんだ。ともかく加害者は空手で帰りゃしなかった。いや、それどころか、しこたま掴んで引あげたんだ。……この絲満南風太郎ってのは懐疑的なやつで、その何万って金をみな自分の部屋にしまいこんであったんだねえ。……部屋の隅に、紫檀で作った、重い頑丈な<span type="ruby"><span type="rb">支那長持</span><span type="rp">（</span><span type="rt">サマアチユウ</span><span type="rp">）</span></span>があるんだが、金はこのなかにあったんだと見えて、このなかが、いちばんひどく引っかきまわされているんだ。……金はそのほかに<span type="ruby"><span type="rb">賁鼓</span><span type="rp">（</span><span type="rt">フンコ</span><span type="rp">）</span></span>というのかな……、台湾人がつかう太鼓の胴の中にも、文字通りザクザク隠してあったんだが、さすがに、これには気がつかなかったと見えて、そいつだけは助かったんだが、太鼓の中に隠してあった金だけでも、紙幣で八千円からあったんだ。……犯人は十二時から三時までの間に、……つまり、南風太郎が部屋へ寝に来るすこし以前に、家の傍の柳の木をつたって二階の窓からはいりこみ、衣裳戸棚の中に隠れて待っていたんだな。……二時、……或いは三時近くに、南風太郎がぐでんぐでんになってあがってきて寝台へ寝る。そいつをおさえつけて、ものもいわずに、肉切庖丁のようなものを、三度ばかり心臓のあたりへ突っ通す。……苦しがって、寝台から転がり落ちたやつを、こんどは呼吸の根をとめるつもりで、ずっぷりと頸動脈へ斬りこんだ、というわけだ」<lb />
+「駄目、駄目。……（それから、顔をあげると、身体をゆすぶりながら）昼からいままで、僕は永代橋と荒川の放水路の間を駈け廻っていたんだ。それから、〈那覇〉の常連とあのへんの地廻りを、ひとりずつ虱っ潰しにして見たんだ。……ちょっと面白いことがあるんだね。富岡町の〈金城〉ってバアの女給に、<seg type="ruby"><seg type="rb">朱砂</seg><seg type="rp">（</seg><seg type="rt">しゅすな</seg><seg type="rp">）</seg></seg>ハナ、ってのがいてね。これが、殺された南風太郎と同じく、琉球の絲満人なんだ。東京へそれを連れてきたのも南風太郎だし、一時は夫婦のように暮していたこともあるんだ。こいつは、琉球で小学校の先生までしたことがあるんだが、いまはもうさんざんでね。バアの二階で大っぴらに客をとるんだ。チョイト小綺麗でね、モダン・ガールみたいな風をしているんだ……こいつをききこんだときはうれしかったね。……ほら、前の晩に〈那覇〉へ酒をのみにきたモダン・ガールがあったろう。……てっきり、これだ、と百パーセントに見込みをつけて、おしかけて行っていきなり一本槍につっこんで見たんだ。……ところがねえ、（と、また頭をかかえこんで）こん、こんな馬鹿なはなしはないです。……密淫売で洲崎署に十八日<seg type="ruby"><seg type="rb">喰</seg><seg type="rp">（</seg><seg type="rt">くら</seg><seg type="rp">）</seg></seg>いこんでいて、今朝の十時にようやく出てきたばかりだったんだからねえ、話にもなにもなりやしないさ。……しかし、南風太郎の身元だけは<seg type="ruby"><seg type="rb">調</seg><seg type="rp">（</seg><seg type="rt">あら</seg><seg type="rp">）</seg></seg>ってきたよ。調べてみると、絲満南風太郎ってのはエライやつなんだねえ。いままでのうちに、二度も三度も万という字のつく金をもうけたらしいんだが、こいつをしっかり抱えこんで、爪に火をともすような暮しをしていたんだねえ。だから、この殺人は金が目的だってことは確かなんだ。ともかく加害者は空手で帰りゃしなかった。いや、それどころか、しこたま掴んで引あげたんだ。……この絲満南風太郎ってのは懐疑的なやつで、その何万って金をみな自分の部屋にしまいこんであったんだねえ。……部屋の隅に、紫檀で作った、重い頑丈な<seg type="ruby"><seg type="rb">支那長持</seg><seg type="rp">（</seg><seg type="rt">サマアチユウ</seg><seg type="rp">）</seg></seg>があるんだが、金はこのなかにあったんだと見えて、このなかが、いちばんひどく引っかきまわされているんだ。……金はそのほかに<seg type="ruby"><seg type="rb">賁鼓</seg><seg type="rp">（</seg><seg type="rt">フンコ</seg><seg type="rp">）</seg></seg>というのかな……、台湾人がつかう太鼓の胴の中にも、文字通りザクザク隠してあったんだが、さすがに、これには気がつかなかったと見えて、そいつだけは助かったんだが、太鼓の中に隠してあった金だけでも、紙幣で八千円からあったんだ。……犯人は十二時から三時までの間に、……つまり、南風太郎が部屋へ寝に来るすこし以前に、家の傍の柳の木をつたって二階の窓からはいりこみ、衣裳戸棚の中に隠れて待っていたんだな。……二時、……或いは三時近くに、南風太郎がぐでんぐでんになってあがってきて寝台へ寝る。そいつをおさえつけて、ものもいわずに、肉切庖丁のようなものを、三度ばかり心臓のあたりへ突っ通す。……苦しがって、寝台から転がり落ちたやつを、こんどは呼吸の根をとめるつもりで、ずっぷりと頸動脈へ斬りこんだ、というわけだ」<lb />
 「それは、ひどい」<lb />
 　と、美しい眉をしかめながら、久我がいった。西貝は、那須に酒を酌いでやりながら、せっこむような調子で、<lb />
 「それで、どうなんだ。犯人の足どりは判らないのか。まだ見当もないのか」<lb />
 　那須は、酌がれたのをひと息でのみほすと、ますます大きな声で、<lb />
-「その方は署からのききこみがすこしあるんだ。……はじめはなかなかシラを切ってね。ところがどうして、なかなか、本庁と洲崎署が車懸りになってやってるんです。昨夜は十時から、小松川の川っぷちと洲崎のバア、カフエ、円宿ホテルを一斉に非常臨検をやったんです。……その例のモダン・ガールってのを狩りたてているんだね。もっともその女が直接の加害者だと思っているわけではない。本庁では琉球か朝鮮の人間の犯行だと<span type="ruby"><span type="rb">見当</span><span type="rp">（</span><span type="rt">みこ</span><span type="rp">）</span></span>んでいるし、洲崎署では区内の前科者の仕業だとにらんでいる。いまのところ意見は二た手に分れているんだがなにしろ、女が一枚のってるんで、非常に事件をややこしくしている。とにかく、その女をつかまえると、もうすこし輪廓がはっきりするはずなんで、警察でもいまのところ、こいつを追及するのに躍気となってるんだね。〈那覇〉のボーイのほうは、いかんせん、すこし低能でね、自分が見た女の印象を申立てることが出来ない。ちょっと上品なすらりと背の高い女だっていうんだが、これだけじゃなんの足しにもなりやしない。……そこで、その晩のいきさつてえのは、次のあさ九時頃、和倉町二丁目の自分の下宿から、店へ出掛ける途中、一二度〈那覇〉へ顔をみせたことのある、山瀬組の小頭ってのに逢って、……昨夜はどうも偉えことだったぜ、という調子で、はじめて女の一件をきいたんだが、その小頭ってのも、ボーイが自分でそう承知しているだけで、ほんとうに山瀬組の一家だかどうだか判ったもんじゃない。このほうも、しきりに追っかけているんだが、いまのところ、まだ消息不明なんだ。……なんでも、ボーイの話では、そのモダン・ガールがふらっとはいってきたのは、ちょうど十時頃で、そのすこし以前から、南風太郎と小頭と二人で、もう始めていたということだった。……（といって、額をなでながら）ああ、酔った、酔った。……空腹へ<span type="ruby"><span type="rb">早駕</span><span type="rp">（</span><span type="rt">さんまい</span><span type="rp">）</span></span>でのんだら……眼がくらんで来た」<lb />
+「その方は署からのききこみがすこしあるんだ。……はじめはなかなかシラを切ってね。ところがどうして、なかなか、本庁と洲崎署が車懸りになってやってるんです。昨夜は十時から、小松川の川っぷちと洲崎のバア、カフエ、円宿ホテルを一斉に非常臨検をやったんです。……その例のモダン・ガールってのを狩りたてているんだね。もっともその女が直接の加害者だと思っているわけではない。本庁では琉球か朝鮮の人間の犯行だと<seg type="ruby"><seg type="rb">見当</seg><seg type="rp">（</seg><seg type="rt">みこ</seg><seg type="rp">）</seg></seg>んでいるし、洲崎署では区内の前科者の仕業だとにらんでいる。いまのところ意見は二た手に分れているんだがなにしろ、女が一枚のってるんで、非常に事件をややこしくしている。とにかく、その女をつかまえると、もうすこし輪廓がはっきりするはずなんで、警察でもいまのところ、こいつを追及するのに躍気となってるんだね。〈那覇〉のボーイのほうは、いかんせん、すこし低能でね、自分が見た女の印象を申立てることが出来ない。ちょっと上品なすらりと背の高い女だっていうんだが、これだけじゃなんの足しにもなりやしない。……そこで、その晩のいきさつてえのは、次のあさ九時頃、和倉町二丁目の自分の下宿から、店へ出掛ける途中、一二度〈那覇〉へ顔をみせたことのある、山瀬組の小頭ってのに逢って、……昨夜はどうも偉えことだったぜ、という調子で、はじめて女の一件をきいたんだが、その小頭ってのも、ボーイが自分でそう承知しているだけで、ほんとうに山瀬組の一家だかどうだか判ったもんじゃない。このほうも、しきりに追っかけているんだが、いまのところ、まだ消息不明なんだ。……なんでも、ボーイの話では、そのモダン・ガールがふらっとはいってきたのは、ちょうど十時頃で、そのすこし以前から、南風太郎と小頭と二人で、もう始めていたということだった。……（といって、額をなでながら）ああ、酔った、酔った。……空腹へ<seg type="ruby"><seg type="rb">早駕</seg><seg type="rp">（</seg><seg type="rt">さんまい</seg><seg type="rp">）</seg></seg>でのんだら……眼がくらんで来た」<lb />
 　となりの卓で、空になったビール瓶を前にして、さっきからもじもじしていた、二十四五の若い男が、このとき三人の方へ声をかけた。<lb />
-「ねえ、那須さん。……僕ああの絲満南風太郎ってのを知ってるんです。（と、愛想笑いをしながら）……僕が深川の浜園町に住んでいた頃、よくあそこへ飲みに行ったことがあるんです。……あいつはね、もと毎年カムサッカや<span type="ruby"><span type="rb">択捉</span><span type="rp">（</span><span type="rt">エトロフ</span><span type="rp">）</span></span>へ出稼ぎに行っていたんですよ。なにしろ、もとは、絲満の漁師ですからね。……それで、そんなことをやってるうちに、北海道の北端の、例の<span type="ruby"><span type="rb">留萠</span><span type="rp">（</span><span type="rt">るもえ</span><span type="rp">）</span></span>築港の大難工事が始まった。すると、南風太郎は自分の郷里から、二百人あまりの琉球の人間をだまして連れだしてきて、これを道庁の請負の大林組へ、一人八十円パで売り飛ばしたんだそうです。それで南風太郎は、かれこれ二万円ばかりの金を懐中にいれたわけなんですが、一方、売り飛ばされた方は、なにしろ気候が違うのと仕事が荒いので、第二期の突堤工事が出来たときには、二百人のうち生き残ったのは、わずか五七人だけだったそうです。……南風太郎は、そのほか<span type="ruby"><span type="rb">西貢</span><span type="rp">（</span><span type="rt">サイゴン</span><span type="rp">）</span></span>やシンガポールあたりへ、ひどい女の沈めかたをしているそうだし、……あいつには、ひとのうらみもずいぶんかかっているわけで、僕の想像じゃ、こんどの事件は、必ずしも金だけの目的じゃなかったんじゃないかと思うんですよ。なにしろ、<span type="ruby"><span type="rb">廻</span><span type="rp">（</span><span type="rt">めぐ</span><span type="rp">）</span></span>る因果の小車で……」<lb />
+「ねえ、那須さん。……僕ああの絲満南風太郎ってのを知ってるんです。（と、愛想笑いをしながら）……僕が深川の浜園町に住んでいた頃、よくあそこへ飲みに行ったことがあるんです。……あいつはね、もと毎年カムサッカや<seg type="ruby"><seg type="rb">択捉</seg><seg type="rp">（</seg><seg type="rt">エトロフ</seg><seg type="rp">）</seg></seg>へ出稼ぎに行っていたんですよ。なにしろ、もとは、絲満の漁師ですからね。……それで、そんなことをやってるうちに、北海道の北端の、例の<seg type="ruby"><seg type="rb">留萠</seg><seg type="rp">（</seg><seg type="rt">るもえ</seg><seg type="rp">）</seg></seg>築港の大難工事が始まった。すると、南風太郎は自分の郷里から、二百人あまりの琉球の人間をだまして連れだしてきて、これを道庁の請負の大林組へ、一人八十円パで売り飛ばしたんだそうです。それで南風太郎は、かれこれ二万円ばかりの金を懐中にいれたわけなんですが、一方、売り飛ばされた方は、なにしろ気候が違うのと仕事が荒いので、第二期の突堤工事が出来たときには、二百人のうち生き残ったのは、わずか五七人だけだったそうです。……南風太郎は、そのほか<seg type="ruby"><seg type="rb">西貢</seg><seg type="rp">（</seg><seg type="rt">サイゴン</seg><seg type="rp">）</seg></seg>やシンガポールあたりへ、ひどい女の沈めかたをしているそうだし、……あいつには、ひとのうらみもずいぶんかかっているわけで、僕の想像じゃ、こんどの事件は、必ずしも金だけの目的じゃなかったんじゃないかと思うんですよ。なにしろ、<seg type="ruby"><seg type="rb">廻</seg><seg type="rp">（</seg><seg type="rt">めぐ</seg><seg type="rp">）</seg></seg>る因果の小車で……」<lb />
 　那須は、ドスンと卓を叩いて、<lb />
 「お、この餓鬼のいうことは気にいった。……サンキュウ、サンキュウ！　……こいつあ、いいツルだ。……感謝する……君、君。まったく感謝する。（立って行って、若い男の首を抱きながら）オイ、……ときに、何か飲め……」<lb />
 　若い男は、待ちかねていたように喉をならしながら、<lb />
@@ -292,10 +292,10 @@
 「……お手間はとらせませんから、ちょっと、洲崎署までいっしょに行ってください。たいしたこっちゃないんですよ。……ちょっとね。あなたも、とんだかかりあいで、ほんとにお気の毒です」<lb />
 　葵は両手で顔を蔽うと、後へぐったりからだを倒してしまった。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">３</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">３</seg></seg></seg>
 <lb />
 　人影のない長い廊下には、警察署特有の甘い尿の臭が漂っていた。喰い荒した丼や箱弁の殻がいくつも投げだされていて、そのうえを蠅が飛びまわっていた。遠くで、劇しく撃ちあう竹刀の音がしていた。〈司法主任〉という標札のかかった扉があいて、分厚な書類の綴込をかかえた丸腰の巡査のあとから、葵がそろそろと出てきて、窓ぎわのベンチへ腰をおろした。<lb />
-　<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">おも</span><span type="rp">）</span></span>やつれがして、まるで違うひとのように見えた。服は寝皺でよれよれになり、背中に大きな汗の汚点をつくっていた。首すじや手の甲はいちめんに、南京虫にやられた、ぞっとするような赤い斑点で蔽われていた。<lb />
+　<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">おも</seg><seg type="rp">）</seg></seg>やつれがして、まるで違うひとのように見えた。服は寝皺でよれよれになり、背中に大きな汗の汚点をつくっていた。首すじや手の甲はいちめんに、南京虫にやられた、ぞっとするような赤い斑点で蔽われていた。<lb />
 　巡査がつぎの扉へきえると、葵はぼんやりした眼つきで窓のそとを眺めながら、無意識のようにぽりぽりと手の甲を掻きはじめた。<lb />
 　窓のそとは空地になっていて、烈しい陽ざしの下で、砂利が白くきらめいていた。<lb />
 　葵は急に眼をとじた。瞼のあいだから涙が流れだしてきた。泣いているのではない。烈しい光が睡眠不足の眼を刺激したのだ。<lb />
@@ -303,10 +303,10 @@
 　葵は辛辣な取調をうけた。参考人としてではなく、殺人嫌疑で訊問されていたのだった。警察では殺人の前夜に〈那覇〉へ現れた女も、古田子之作へ遺産相続通知の電話をかけた女も葵だときめてかかっているのだった。<lb />
 〈那覇〉の男が、どうもこの女ではありません、と証言し、葵にもたしかな不在証明があったのでこのほうの嫌疑だけはまぬかれたが、電話のほうは、古田が、こんなによく響く声ではなかった、と、明瞭に申し立てているのに、どうしても納得しないのだった。最後には、二人で共謀してやったんだろうなどと言い出した。こうなれば、弁明するだけ無駄のようなものだった。<lb />
 　殊に、葵には、過去の経歴のうちに、明白にしたくない部分があったので、いきおい、答弁は曖昧にならざるを得なかった。係官は、そこへのしかかってきた。<lb />
-　葵は、電話をかけたのは私ではない、というほか、どう言う術も知らなかった。しまいには、言うことがなくなって黙ってしまう。すると、いままで温顔をもって接していた司法主任は、急に眼をいからせ、顔じゅうを口にして、なめるな、この<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">あま</span><span type="rp">）</span></span>と、大喝するのだった。<lb />
+　葵は、電話をかけたのは私ではない、というほか、どう言う術も知らなかった。しまいには、言うことがなくなって黙ってしまう。すると、いままで温顔をもって接していた司法主任は、急に眼をいからせ、顔じゅうを口にして、なめるな、この<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">あま</seg><seg type="rp">）</seg></seg>と、大喝するのだった。<lb />
 　二日目の昼には、強制的に検黴された。もし病毒でももっていたら、その点で有無をいわせないつもりらしかった。警察医が指にゴムのサックをはめて、葵の肉体を調べた。<lb />
-　結果は思いのほかよかった。警察医は妙な笑いかたをしながら、君、あいつは<span type="ruby"><span type="rb">処女</span><span type="rp">（</span><span type="rt">ユングフラウ</span><span type="rp">）</span></span>だぜ、といった。これが係官の心証をよくした。<lb />
-　できるなら、葵はなにもかも告白して、ここから逃げだしたいと思った。こころがなげやりで、この世の幸福などは、すっかりあきらめていた今迄の葵ならば、たぶん、そうしたであろう。しかしいまは違う。久我の優しい<span type="ruby"><span type="rb">眼</span><span type="rp">（</span><span type="rt">まな</span><span type="rp">）</span></span>ざしを透して、その奥に、おぼろげながら、幸福な自分の未来を見いだしているのだった。二十三年の半生を通じて、いま、ようやく葵は幸福になろうとしている。この夢だけは失いたくないのだった。<lb />
+　結果は思いのほかよかった。警察医は妙な笑いかたをしながら、君、あいつは<seg type="ruby"><seg type="rb">処女</seg><seg type="rp">（</seg><seg type="rt">ユングフラウ</seg><seg type="rp">）</seg></seg>だぜ、といった。これが係官の心証をよくした。<lb />
+　できるなら、葵はなにもかも告白して、ここから逃げだしたいと思った。こころがなげやりで、この世の幸福などは、すっかりあきらめていた今迄の葵ならば、たぶん、そうしたであろう。しかしいまは違う。久我の優しい<seg type="ruby"><seg type="rb">眼</seg><seg type="rp">（</seg><seg type="rt">まな</seg><seg type="rp">）</seg></seg>ざしを透して、その奥に、おぼろげながら、幸福な自分の未来を見いだしているのだった。二十三年の半生を通じて、いま、ようやく葵は幸福になろうとしている。この夢だけは失いたくないのだった。<lb />
 　検黴室の鉄の寝台にねかされたとき、葵は憤りと悲しみで心がさし貫かれるような気がした。このときばかりは、さすがになにもかも告白しようと思った。それさえすれば、この恥辱は受けないですむのだ。だが、それをいえば、葵はもう終生久我に逢うことが出来ないであろう。久我への劇しい愛情が、この屈辱に甘んじさせた。涙があふれてきて、止めようがなかった。<lb />
 　乏しい木立の梢をわたって、涼しい風がふきこんできた。葵はうとうとしかけた……<lb />
 　廊下のはしに久我があらわれた。大股で近づいてくると、おしだすような声で、<lb />
@@ -346,14 +346,14 @@
 　間もなく、下の扉があいて、乾が出てきた。紗の羽織の裾をくるりとまくって、久我のまえに立ちはだかると、<lb />
 「やっとすみましたよ。……馬鹿な念のいれようだ、下らん。……それはそうと、せっかくの会合だが、古田は来られんでしょう。上衣に血がついてるのが見つかった。……さもあるべきはずさ。見るからに悪相だからねえ、あいつは」<lb />
 　そういうと、唇を歪めて、能面の悪尉のような顔をした。久我の背すじがぞっとした。<lb />
-　返事も出来ないでいると、乾はゆっくり煙草に火をつけながら<span type="ruby"><span type="rb">空嘯</span><span type="rp">（</span><span type="rt">そらうそぶ</span><span type="rp">）</span></span>くようにして、<lb />
+　返事も出来ないでいると、乾はゆっくり煙草に火をつけながら<seg type="ruby"><seg type="rb">空嘯</seg><seg type="rp">（</seg><seg type="rt">そらうそぶ</seg><seg type="rp">）</seg></seg>くようにして、<lb />
 「この事件もこれで一段落か、おや、おや。……さりとは呆気なかったね。……あたしは公判がすきで、よく傍聴にゆきますが、刑事事件は面白いですな。……ちょいと関りあって見たいようなのもありますからねえ。……今度のなんざ、いささか関係が濃厚で、大いに楽しんでいたんですが、こう呆気なく幕になっちゃ、仕様がない。……それにつけても、いったい、日本の警察は迂濶ですよ。市民にもっと協力を求めなくちゃいけない。……密告制度を設けて、大いに投書を奨励するようにすれば、現在よりはかならず能率があがるようになりましょう。……<lb />
 （にやりと笑って）もっとも、最近は、すこしよくなったが……。（と、いって、急に声をひそめると）実はね、古田子之作を密告したのはあたしなんです。……ふ、ふ、ひとに言っちゃいけませんよ。……うらまれますからな。警察に協力するのは市民の義務でさ。……生意気に！　ひとを馬鹿にしやがるから。……ざまあ見ろ、人殺しめ。……では、今晩定刻に……」吸いさしの煙草を、火のついたままポイと廊下に投げだすと、踊るような足どりで、歩いていった。<lb />
 　久我があっけにとられて、そのあとを見おくっていると、また扉があいて、こんどは、西貝が出てきた。ひどくはしゃいだ声で、<lb />
 「おつぎの番だよ」<lb />
 　と、いった。荒い息づかいをしていた。<lb />
 　巡査が扉から首だけ出して、思いのほか丁寧な声で、久我さん、と呼んだ。<lb />
-　久我がベンチから立ちあがろうとする拍子に、膝から<span type="ruby"><span type="rb">麦稈</span><span type="rp">（</span><span type="rt">むぎわら</span><span type="rp">）</span></span>帽子が落ちた。どこまでもコロコロと転げていって、はるか向うの壁にぶつかると、乾いた音をたてて、そこでとまった。<lb />
+　久我がベンチから立ちあがろうとする拍子に、膝から<seg type="ruby"><seg type="rb">麦稈</seg><seg type="rp">（</seg><seg type="rt">むぎわら</seg><seg type="rp">）</seg></seg>帽子が落ちた。どこまでもコロコロと転げていって、はるか向うの壁にぶつかると、乾いた音をたてて、そこでとまった。<lb />
 　久我は、なぜかひどくうろたえて、帽子をとりあげると、よろめくような足どりで戻ってきた。<lb />
 「おい、久我君、待ってるぞ。記者溜で」<lb />
 　久我は、ちょっとふりかえると、妙に印象に残るような微笑をうかべて肯いた。扉がしまった。<lb />
@@ -363,19 +363,19 @@
 　西貝はテエブルの上へ腰をかけると、怒ったような口調で、いった。<lb />
 「小生なんざ、どうでもいいのさ。小生がいろいろと有益な進言をするんだが、まるで聴いちゃいないんだ。……ひとに喋らせて置いて夢中になって古田の聴取書を読んでいるんだ。……そら、あのチャップリン髭の……。なにかまた新しい証拠があがったんだな。……きいたか、那須」<lb />
 　那須は書きかけの原稿を、鞄のなかへ突っこみながら、<lb />
-「そう。……いろいろやってみると、あいつの<span type="ruby"><span type="rb">行動</span><span type="rp">（</span><span type="rt">シンジョウ</span><span type="rp">）</span></span>に曖昧なところが出てきたんだ。……〈那覇〉の奴がようやく今日になって言いだした。……そういえば、人殺しのあった前の晩の八時頃、古田が若い女をつれて酒をのみにきた。このほうは、はっきり見たから顔は覚えている。二十二三のいい女だった。……声にきき覚えはないか、と、係がきくと、あまり口数をきかずにつんとすましていたから、どうも、声はよく覚えていないと、いうんだがね。それで……」<lb />
+「そう。……いろいろやってみると、あいつの<seg type="ruby"><seg type="rb">行動</seg><seg type="rp">（</seg><seg type="rt">シンジョウ</seg><seg type="rp">）</seg></seg>に曖昧なところが出てきたんだ。……〈那覇〉の奴がようやく今日になって言いだした。……そういえば、人殺しのあった前の晩の八時頃、古田が若い女をつれて酒をのみにきた。このほうは、はっきり見たから顔は覚えている。二十二三のいい女だった。……声にきき覚えはないか、と、係がきくと、あまり口数をきかずにつんとすましていたから、どうも、声はよく覚えていないと、いうんだがね。それで……」<lb />
 「それで、その女は古田のなんだ？」<lb />
-「それが、窮してるんだよ、古田のいうことは、……小柳橋の袂でその女に逢って、姐さん、一杯いこう、と声をかけたら、イエス、といってついて来た、てんだ。……だが、おおよその<span type="ruby"><span type="rb">捜索方針</span><span type="rp">（</span><span type="rt">スンポウ</span><span type="rp">）</span></span>はきまったらしい。本庁の意見も一致した。現場の証拠は<span type="ruby"><span type="rb">少</span><span type="rp">（</span><span type="rt">ウス</span><span type="rp">）</span></span>いが部屋の手のつけかたから見て、初犯の手口だということになった。<span type="ruby"><span type="rb">犯人</span><span type="rp">（</span><span type="rt">ホシ</span><span type="rp">）</span></span>は、いまのところ女だという<span type="ruby"><span type="rb">予想</span><span type="rp">（</span><span type="rt">ミコミ</span><span type="rp">）</span></span>なんで、<span type="ruby"><span type="rb">懸命</span><span type="rp">（</span><span type="rt">ガセイ</span><span type="rp">）</span></span>にその女の<span type="ruby"><span type="rb">行衛</span><span type="rp">（</span><span type="rt">アシドリ</span><span type="rp">）</span></span>を<span type="ruby"><span type="rb">捜</span><span type="rp">（</span><span type="rt">ヒロ</span><span type="rp">）</span></span>ってるんだね。……結局」西貝が、ひったくった。<lb />
+「それが、窮してるんだよ、古田のいうことは、……小柳橋の袂でその女に逢って、姐さん、一杯いこう、と声をかけたら、イエス、といってついて来た、てんだ。……だが、おおよその<seg type="ruby"><seg type="rb">捜索方針</seg><seg type="rp">（</seg><seg type="rt">スンポウ</seg><seg type="rp">）</seg></seg>はきまったらしい。本庁の意見も一致した。現場の証拠は<seg type="ruby"><seg type="rb">少</seg><seg type="rp">（</seg><seg type="rt">ウス</seg><seg type="rp">）</seg></seg>いが部屋の手のつけかたから見て、初犯の手口だということになった。<seg type="ruby"><seg type="rb">犯人</seg><seg type="rp">（</seg><seg type="rt">ホシ</seg><seg type="rp">）</seg></seg>は、いまのところ女だという<seg type="ruby"><seg type="rb">予想</seg><seg type="rp">（</seg><seg type="rt">ミコミ</seg><seg type="rp">）</seg></seg>なんで、<seg type="ruby"><seg type="rb">懸命</seg><seg type="rp">（</seg><seg type="rt">ガセイ</seg><seg type="rp">）</seg></seg>にその女の<seg type="ruby"><seg type="rb">行衛</seg><seg type="rp">（</seg><seg type="rt">アシドリ</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">捜</seg><seg type="rp">（</seg><seg type="rt">ヒロ</seg><seg type="rp">）</seg></seg>ってるんだね。……結局」西貝が、ひったくった。<lb />
 「結局さ、そんなものを追いまわす必要がないんだ。……葵をもっとひっぱたけば、いやでもその女が出てくる。……つまりＡはＢなり、さ。……しかし、こういう方法論を、あの男がわかるはずはない。……もっとも、あんなうす馬鹿に看破されるような、幼稚な証明の仕方はしなかったろうが、……要するに、生物変化の過程を、あの低能児は、個々の現象としか眺め得なかった。西貝計三は、白髪になっても西貝計三だ、という理窟がわからんのだ。……そんなウンテレガンの証言を捜索の基礎にしてるんだから、こりゃ、いつまでたったって解決する筈がない。……電話の声にしたってそうだ。声の音色なんざ問題じゃない。古田と葵の二人だけが、特別の方法で通知を受けたという点が重大なんだ。……これだけで、二人の間に、なにか共通の劣性因子があることが、充分察しられるじゃないか。うっかり口をすべらしたばっかりに、これがいま、あいつらの弱点になっている。……現にその点で、さかんに共同製作をやってるじゃないか。……片っぽうで、こんな声じゃなかった、といえば、片っぽうじゃ、こんな正直な方はありません、なんて、ぬかす。……おい、那須。……なにしろ、あの女は馬鹿じゃないんだ。しっかりしろよ。よ、名探偵」<lb />
 「さようそこがトウシローと名探偵のちがいさ。（那須が笑いながら、やりかえす）……葵はね、西貝さん。その、九時って時間には、ちゃンと〈シネラリヤ〉で働いていたんですぜ。しかもひと晩じゅう、葵のそばにへばりついていたのは……、（と、いいながら、となりのモダン・ボーイ風の記者を指して、）なにを隠そう、こいつなんだから話はたしかだ。……こいつはね、一名、ダニ忠といって、女のそばにへばりついたら、雷が鳴ったって離れやしないんだから……それに、あの晩はこいつが……」<lb />
 　べつの一人が、あとをひきとって言った。<lb />
 「アパートまでお送り申しの、ていよく戸口で断わられの、赤電を追っかけてスッテンコロリンの……やだナ」<lb />
 　みなが、どっと笑う、西貝がいった。<lb />
-「<span rend="sesame_dot" rendition="em">ひとごろし</span>は午前三時だ」<lb />
+「<seg rend="sesame_dot" rendition="em">ひとごろし</seg>は午前三時だ」<lb />
 「でもね、葵は朝まで部屋にいたんですよ。……葵が帰ると、かならず差配の娘が起きて玄関をしめることになっている。……あの晩も、玄関をしめてから、五分ばかり立ち話をして、それから二人が寝にいった」<lb />
 「窓に非常梯子がついている」<lb />
 　那須は、やりきれない、という風に苦笑しながら、<lb />
-「そいつあ下らない。……若い女が、夜半に非常梯子をおりて、新宿から深川までゆき、人を殺してきて、またそこから部屋へはいる。……これを、だれの眼にもかからずに、始めからしまいまでやってのける。……やってやれないことはなさそうだ……が、まず、ほとんど絶対に不可能だ……。可能内に於ける不可能の部分……。日常生活内における<span type="ruby"><span type="rb">虚数</span><span type="rp">（</span><span type="rt">イマジナル・ナンバー</span><span type="rp">）</span></span>だ。……安全率が微小すぎて、実用に耐えんのですな。嘘だと思ったら実験してごらんなさい。あなたの窓にも非常梯子がついてるでしょう」<lb />
+「そいつあ下らない。……若い女が、夜半に非常梯子をおりて、新宿から深川までゆき、人を殺してきて、またそこから部屋へはいる。……これを、だれの眼にもかからずに、始めからしまいまでやってのける。……やってやれないことはなさそうだ……が、まず、ほとんど絶対に不可能だ……。可能内に於ける不可能の部分……。日常生活内における<seg type="ruby"><seg type="rb">虚数</seg><seg type="rp">（</seg><seg type="rt">イマジナル・ナンバー</seg><seg type="rp">）</seg></seg>だ。……安全率が微小すぎて、実用に耐えんのですな。嘘だと思ったら実験してごらんなさい。あなたの窓にも非常梯子がついてるでしょう」<lb />
 「できる」<lb />
 「午前二時頃……」<lb />
 「そうだ」<lb />
@@ -400,7 +400,7 @@
 <lb />
 　久我が、まず先にやってきた。みなの来るまえに、すこしでも葵と二人きりで、話したかったのだ。広間のまんなかの卓について水を貰った。なま温い水だった。<lb />
 　広間には、むやみに人がつまっていて、みな申し合せたようにジョッキをひかえていた。大きな扇風器が、いらだたしく天井で羽搏いていた。<lb />
-　葵がやってきた。富士絹のブルウゼに<span type="ruby"><span type="rb">薄羅紗</span><span type="rp">（</span><span type="rt">うすラシャ</span><span type="rp">）</span></span>のスカートをつけ……まじめな百貨店の売子のように、さっぱりと地味ないでたちだった。駆けつけるように寄ってきて、久我のとなりへ坐ると、苦しそうに息をきった。<lb />
+　葵がやってきた。富士絹のブルウゼに<seg type="ruby"><seg type="rb">薄羅紗</seg><seg type="rp">（</seg><seg type="rt">うすラシャ</seg><seg type="rp">）</seg></seg>のスカートをつけ……まじめな百貨店の売子のように、さっぱりと地味ないでたちだった。駆けつけるように寄ってきて、久我のとなりへ坐ると、苦しそうに息をきった。<lb />
 「はあ、はあ、いってますね、どうしたの」<lb />
 　ふ、ふ、と笑うばかりで、返事しなかった。<lb />
 「お腹は明けてあるでしょうね」<lb />
@@ -423,10 +423,10 @@
 　と、まじめに、久我が、たずねた。西貝も葵も、フォークを休めて顔をあげた。<lb />
 「あの遺産相続の通知は、洒落でも冗談でもない。正真正銘のことだったのです。……告知人は、すなわち絲満南風太郎そのひとだったんで。……あの朝、五人を自分の店へ招んで、それぞれ財産を分与するつもりだった。……思うに、そのひとは、癌かなにか病んで、みずから余命いくばくもないことを知っていた。しかも、手紙の文面から察すると、病態はすこぶる険悪だったのですな」<lb />
 　西貝がふきだした。<lb />
-「……乾老。あんたも新聞を読んだろうが、絲満って男は、古今未曽有の<span rend="sesame_dot" rendition="em">あかにし</span>だったんですぜ。……その男が、どこの馬の骨かわからないやつに、自分の財産を……」<lb />
+「……乾老。あんたも新聞を読んだろうが、絲満って男は、古今未曽有の<seg rend="sesame_dot" rendition="em">あかにし</seg>だったんですぜ。……その男が、どこの馬の骨かわからないやつに、自分の財産を……」<lb />
 　しずかに、乾がこたえる。<lb />
-「たぶん、そう言われるだろうと思っていました。……あたしも新聞を読みました。新聞で絲満氏の性行を知るにおよんで、いよいよ、あたしの想像がまちがっていないことがわかったのです。……西貝氏、あなたがそういわれるのは、吝嗇漢というものの心情を解していないからです。（ひと口のむと、またコップをおいて）正直なところ、かくいうあたしも吝嗇漢です。されば、あたしには、絲満氏の気持がじつによくわかる。いったい、吝嗇漢というものは、そういう絶対境に追いこまれると、得てして非常に飛びはなれたことをやりだす。……絶体絶命だ、どうしても天命には勝てん、なんていうことになると、いままで、圧しつけに圧しつけていたものが、一ぺんに爆発する。……唯物凝固の世界から、一躍にして、虚にして無なる境地に直入する。<span rend="sesame_dot" rendition="em">あかにし</span>であればあるほど、反動も大きければ爆発も異常だ。……ご承知の通り、あの前夜、絲満氏は見知らぬ女に大盤振舞をし、自分もしたたかに飲んだといいますが、絲満氏を知っている連中の話では、そんなことは何十年来なかったことだそうです。……これなどはじつに、その辺の消息を雄弁に物語っているじゃありませんか。……どうです。それでもまだご異存がありますか。……（急に調子をかえて）だからさ、どの位あったか知らないが、当然手にはいっていたものを、むざむざ横あいからひっ攫われたかと思うと、あたしあそれが残念で、いても立ってもいられないんだ。……（卓の上へ両手をついて、三人のほうへ身体をのりだすと）あたしあ、巳年生れでね。これで、嫉妬心もつよければ、また、ずいぶん執念も深い性なんだから、こんな目に逢わされてだまって引っこんでるわけはない。……あたしの手で、いまにきっと、そいつをとっちめてやるつもりなんだ。……なアに、どうせ長いあとのこっちゃアありゃしない。……いまに見てろい、どんな目を見るか！　ぬすっとめ！」<lb />
-　そういうと、急にぐったりと、卓の上へ頬杖をついて、うわごとのように、なにか<span rend="sesame_dot" rendition="em">ぶつぶつ</span>つぶやきはじめた。酔態としても、これはかなり異様なものだった。<lb />
+「たぶん、そう言われるだろうと思っていました。……あたしも新聞を読みました。新聞で絲満氏の性行を知るにおよんで、いよいよ、あたしの想像がまちがっていないことがわかったのです。……西貝氏、あなたがそういわれるのは、吝嗇漢というものの心情を解していないからです。（ひと口のむと、またコップをおいて）正直なところ、かくいうあたしも吝嗇漢です。されば、あたしには、絲満氏の気持がじつによくわかる。いったい、吝嗇漢というものは、そういう絶対境に追いこまれると、得てして非常に飛びはなれたことをやりだす。……絶体絶命だ、どうしても天命には勝てん、なんていうことになると、いままで、圧しつけに圧しつけていたものが、一ぺんに爆発する。……唯物凝固の世界から、一躍にして、虚にして無なる境地に直入する。<seg rend="sesame_dot" rendition="em">あかにし</seg>であればあるほど、反動も大きければ爆発も異常だ。……ご承知の通り、あの前夜、絲満氏は見知らぬ女に大盤振舞をし、自分もしたたかに飲んだといいますが、絲満氏を知っている連中の話では、そんなことは何十年来なかったことだそうです。……これなどはじつに、その辺の消息を雄弁に物語っているじゃありませんか。……どうです。それでもまだご異存がありますか。……（急に調子をかえて）だからさ、どの位あったか知らないが、当然手にはいっていたものを、むざむざ横あいからひっ攫われたかと思うと、あたしあそれが残念で、いても立ってもいられないんだ。……（卓の上へ両手をついて、三人のほうへ身体をのりだすと）あたしあ、巳年生れでね。これで、嫉妬心もつよければ、また、ずいぶん執念も深い性なんだから、こんな目に逢わされてだまって引っこんでるわけはない。……あたしの手で、いまにきっと、そいつをとっちめてやるつもりなんだ。……なアに、どうせ長いあとのこっちゃアありゃしない。……いまに見てろい、どんな目を見るか！　ぬすっとめ！」<lb />
+　そういうと、急にぐったりと、卓の上へ頬杖をついて、うわごとのように、なにか<seg rend="sesame_dot" rendition="em">ぶつぶつ</seg>つぶやきはじめた。酔態としても、これはかなり異様なものだった。<lb />
 　西貝が、久我に、ささやいた。<lb />
 「恐ろしい精神状態だ」<lb />
 　久我は、ささやきかえす。<lb />
@@ -435,7 +435,7 @@
 「……乾老。……性格のちがいというのはえらいものだね。……小生は寅年生れだが、遺産のことなんか、とうに忘れていたよ」<lb />
 「忘れるのは、あんたの勝手だ」<lb />
 　乾が、うなるように言いかえした。<lb />
-「ま、立腹したもうな。……しかしながら、絲満の加害者が、あんたの血相を見たら、たいてい<span type="ruby"><span type="rb">竦</span><span type="rp">（</span><span type="rt">すく</span><span type="rp">）</span></span>みあがるだろう。なにしろ、凄かったぜ」<lb />
+「ま、立腹したもうな。……しかしながら、絲満の加害者が、あんたの血相を見たら、たいてい<seg type="ruby"><seg type="rb">竦</seg><seg type="rp">（</seg><seg type="rt">すく</seg><seg type="rp">）</seg></seg>みあがるだろう。なにしろ、凄かったぜ」<lb />
 　乾は、ふふん、とせせら笑っただけで相手にならなかった。<lb />
 　久我がにやにや笑いながら、<lb />
 「同感ですね。……私はついさっき取調室から出てきたばかりですが、帰りがけに、司法主任がこういってました。……だいぶご機嫌でね、……君、加害者はやっぱり、あの朝〈那覇〉へきた五人のうちの一人なんだ。見てたまえ、誰れだか明日になればわかるから、って……。（いかにも面白そうに、三人の顔をながめながら）……して見ると、加害者はこの一座のなかに、いるのかも知れないですね。……私かも知れない。いや、殊によったら、乾老それ自身かも……」<lb />
@@ -475,7 +475,7 @@
 　そして、やさしく葵の手をとった。<lb />
 　どうしたというのか。……葵は急に蒼ざめて、低く首をたれてしまった。久我の掌のなかで、葵の小さな手が、ぴくぴくと動いた。早くそこから逃げだしたいという風に。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">４</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">４</seg></seg></seg>
 <lb />
 　事実は小説よりも奇なり、ということは、たしかに有り得る。しかし、それが奇にすぎ、すこし通常の域をこえていると、もう一般からは信じられなくなってしまう。小説の場合と全く同じである。<lb />
 　絲満南風太郎の殺人事件も、〈謎の女〉とか、〈未知の財産遺贈者〉とかいう工合に、偶々過剰な架空的要素を含んでいたので、小説嫌いの、実直な世間からは、いささか小馬鹿にされているかたちだった。<lb />
@@ -484,31 +484,31 @@
 　犯罪の前夜、〈那覇〉に現れたという、二十二三のすらりとした断髪の〈その女〉はその後杳として行衛が知れないのだった。しかしその存在は肯定されていた。智能不全な〈那覇〉のボーイの幻視ではなかったのである。〈その女〉を認めた人間が、ほかにもう一人いた……。<lb />
 　ある警官が、その夜、越中島の帝大航空試験場の前を右へ折れて、古石場町四丁目のほうへ歩いてゆく女を見た。もう、間もなく午前三時という時刻だった。非常に急いで歩いておりました。店を仕舞ってきた女給のような風態か。いや、そういう種類の女ではありません。上品な身なりの……どこかの令嬢といった風態だったのであります。時間も時間でありますので、私は訊問しようと思い、おい、おい、と、声をかけようとする途端に、四丁目一番地の角を曲ってしまいました。丁度その時、私は、その道と丁字形に交わる路地の奥を巡回して居りましたので、急いでそこを飛びだし、その角を曲って見ましたが、その時はもう姿が見えなかったのであります。……ご承知の通り、あの辺は小さな路地が錯綜している場所でありまして、いかんとも手の下しようがなかったとはいえ、完全に職務を遂行し得なかったことに対し、甚だ自責の念を、感じているのでありまして……<lb />
 　その警官は、夕刊で南風太郎の殺害事件を読むと、報道された〈その女〉の風態が、前夜見た女のそれと、まさしく一致しているので、恐惶して、早速そのよしを上官に報告した。捜査の重点は直ちにこの部分へ移され、警視庁捜査第一課と、洲崎署の全力は、古石場町を出発点にして、全市域に亙って、その足跡を追跡しはじめた。<lb />
-〈その女〉は、牡丹町三丁目から右折して平久町へはいり、<span type="ruby"><span type="rb">曲辰</span><span type="rp">（</span><span type="rt">かねたつ</span><span type="rp">）</span></span>材木置場の附近まで行ったことが判ったが、足跡は、そこでバッタりととだえてしまった。突然、大地へとけこんでしまったのである。<lb />
-　なんの手がかりもないままで、それから一週間たった。今朝のある新聞は、警視庁が<span type="ruby"><span type="rb">女尊主義</span><span type="rp">（</span><span type="rt">フェミニズム</span><span type="rp">）</span></span>の傾向におちいるのは、捜査のために、あまり有益なことはあるまいと、揶揄していた。<lb />
+〈その女〉は、牡丹町三丁目から右折して平久町へはいり、<seg type="ruby"><seg type="rb">曲辰</seg><seg type="rp">（</seg><seg type="rt">かねたつ</seg><seg type="rp">）</seg></seg>材木置場の附近まで行ったことが判ったが、足跡は、そこでバッタりととだえてしまった。突然、大地へとけこんでしまったのである。<lb />
+　なんの手がかりもないままで、それから一週間たった。今朝のある新聞は、警視庁が<seg type="ruby"><seg type="rb">女尊主義</seg><seg type="rp">（</seg><seg type="rt">フェミニズム</seg><seg type="rp">）</seg></seg>の傾向におちいるのは、捜査のために、あまり有益なことはあるまいと、揶揄していた。<lb />
 <lb />
 　葵は寝床のなかで、それを読んでいた。<lb />
 　久我が予知したように、その後、葵は召喚されることもなかったので、毎朝、ゆったりした気持で、新聞に読みふけることが出来るようになった。<lb />
-　葵は、この事件の記事が眼にふれるたびに、はじめて久我と逢った朝のことを、いつも、こころ楽しく思いだす。いろいろな記憶の<span type="ruby"><span type="rb">細片</span><span type="rp">（</span><span type="rt">デブリ</span><span type="rp">）</span></span>……。とりわけて、特高刑事だと明されたときの、強烈な印象を思いかえす。<lb />
+　葵は、この事件の記事が眼にふれるたびに、はじめて久我と逢った朝のことを、いつも、こころ楽しく思いだす。いろいろな記憶の<seg type="ruby"><seg type="rb">細片</seg><seg type="rp">（</seg><seg type="rt">デブリ</seg><seg type="rp">）</seg></seg>……。とりわけて、特高刑事だと明されたときの、強烈な印象を思いかえす。<lb />
 　あのとき、葵が蒼ざめて首をたれたのは、これほどまでに真率な久我にたいし、あくまでも偽りとおさねばならぬ、いまわしい自分の経歴を悲しんだからだった。<lb />
 　葵が久我に、一ヵ月ほどまえに、はじめて東京へ来たといったのは嘘である。彼女は東京で生れ、そして、そこで育った。<lb />
-　葵はある大名華族の長女に生れた。西国の<span type="ruby"><span type="rb">和泉</span><span type="rp">（</span><span type="rt">いずみ</span><span type="rp">）</span></span>高虎の一門で、葵の家はその分家だった。代々、木賀に豊饒な封地をもち、瓦壊前は鳳凰の間伺候の家柄だった。<lb />
-　旧幕時代の分家というものは、親戚であっても、だいたい、家臣同様の格に置かれたものだが、和泉藩に於ける分家とは、あたかも、主人にたいする<span type="ruby"><span type="rb">奴僕</span><span type="rp">（</span><span type="rt">ぬぼく</span><span type="rp">）</span></span>の関係にひとしかった。葵の家の家憲には、つぎのような一章があったのである。<lb />
+　葵はある大名華族の長女に生れた。西国の<seg type="ruby"><seg type="rb">和泉</seg><seg type="rp">（</seg><seg type="rt">いずみ</seg><seg type="rp">）</seg></seg>高虎の一門で、葵の家はその分家だった。代々、木賀に豊饒な封地をもち、瓦壊前は鳳凰の間伺候の家柄だった。<lb />
+　旧幕時代の分家というものは、親戚であっても、だいたい、家臣同様の格に置かれたものだが、和泉藩に於ける分家とは、あたかも、主人にたいする<seg type="ruby"><seg type="rb">奴僕</seg><seg type="rp">（</seg><seg type="rt">ぬぼく</seg><seg type="rp">）</seg></seg>の関係にひとしかった。葵の家の家憲には、つぎのような一章があったのである。<lb />
 〈……ひたすら、ご本家さまに恭順し、いかなるご無能のおん申しいでにても、これに違背せざるを、家憲の第一といたすべく、子々孫々……〉。この家憲は、現代もなお、違背なく固く遵守されているのだった。<lb />
-　葵の父は、生来<span type="ruby"><span type="rb">羸弱</span><span type="rp">（</span><span type="rt">るいじゃく</span><span type="rp">）</span></span>な、無意志な人物だった。母は美しいひとだったが、劇しい<span type="ruby"><span type="rb">憂鬱症</span><span type="rp">（</span><span type="rt">ヒポコンデリー</span><span type="rp">）</span></span>で、葵のものごころがついた頃には、もう、ひとり離れた数寄屋のなかで起居し、いかなる人間にたいしても口をきかなかった。<lb />
-　和泉家のさまざまな慣例のうち、本家の二男三男は、分家の女子と縁組するのが、代々の規定になっていたので、葵もその例に洩れることは出来なかった。実情を明かせば、本家の家系は、いわゆる劣性家系であって、屡<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />手のつけられぬ不適者をだした。こんな家に嫁の来手はないのだから、強制的に分家の女子を、それらの※<span rend="notes">［＃「やまいだれ＋発」、U+3FB1、36-上-16］</span>疾にめあわす必要があったのである。<lb />
+　葵の父は、生来<seg type="ruby"><seg type="rb">羸弱</seg><seg type="rp">（</seg><seg type="rt">るいじゃく</seg><seg type="rp">）</seg></seg>な、無意志な人物だった。母は美しいひとだったが、劇しい<seg type="ruby"><seg type="rb">憂鬱症</seg><seg type="rp">（</seg><seg type="rt">ヒポコンデリー</seg><seg type="rp">）</seg></seg>で、葵のものごころがついた頃には、もう、ひとり離れた数寄屋のなかで起居し、いかなる人間にたいしても口をきかなかった。<lb />
+　和泉家のさまざまな慣例のうち、本家の二男三男は、分家の女子と縁組するのが、代々の規定になっていたので、葵もその例に洩れることは出来なかった。実情を明かせば、本家の家系は、いわゆる劣性家系であって、屡<seg facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />手のつけられぬ不適者をだした。こんな家に嫁の来手はないのだから、強制的に分家の女子を、それらの※<seg rend="notes" rendition="span">［＃「やまいだれ＋発」、U+3FB1、36-上-16］</seg>疾にめあわす必要があったのである。<lb />
 　このようなわけで、葵は先天的に夫をもっていた。葵の夫とさだめられていたのは、正明という本腹の四男であった。これは純粋の痴呆で、のみならず、眼球震盪症といって、眼球が間断なく動いている、無気味な病気を持っていた。<lb />
-　葵の十五の春に、父が喉頭癌で死ぬと、分家を立てるという名目で、二十一歳の正明が、急遽、葵の家へ<span rend="sesame_dot" rendition="em">おくだり</span>になることになり、葵はその夜から、この阿呆と同室で、夫婦のように起居することを強いられるのだった。本家から正明に附属してきた老女が、（これは、言いようない愚昧な女だったが）初心な娼婦を<span rend="sesame_dot" rendition="em">なやす</span><span type="ruby"><span type="rb">遣手婆</span><span type="rp">（</span><span type="rt">やりてばば</span><span type="rp">）</span></span>のように、心得顔に万事をとりしきって、分家のなにびとにも有無をいわせなかった。<lb />
-　つぎの夜、正明は猛然と葵の前に立った。彼は異常な Satyriasis の傾向をもっているのだが、実際のことは知らなかった。老女が教えても、それを了解することが出来ない風だった。しまいに<span type="ruby"><span type="rb">懊</span><span type="rp">（</span><span type="rt">じ</span><span type="rp">）</span></span>れてくると、爪をのばして、ところ嫌わず老女を掻きむしるのだった。<lb />
+　葵の十五の春に、父が喉頭癌で死ぬと、分家を立てるという名目で、二十一歳の正明が、急遽、葵の家へ<seg rend="sesame_dot" rendition="em">おくだり</seg>になることになり、葵はその夜から、この阿呆と同室で、夫婦のように起居することを強いられるのだった。本家から正明に附属してきた老女が、（これは、言いようない愚昧な女だったが）初心な娼婦を<seg rend="sesame_dot" rendition="em">なやす</seg><seg type="ruby"><seg type="rb">遣手婆</seg><seg type="rp">（</seg><seg type="rt">やりてばば</seg><seg type="rp">）</seg></seg>のように、心得顔に万事をとりしきって、分家のなにびとにも有無をいわせなかった。<lb />
+　つぎの夜、正明は猛然と葵の前に立った。彼は異常な Satyriasis の傾向をもっているのだが、実際のことは知らなかった。老女が教えても、それを了解することが出来ない風だった。しまいに<seg type="ruby"><seg type="rb">懊</seg><seg type="rp">（</seg><seg type="rt">じ</seg><seg type="rp">）</seg></seg>れてくると、爪をのばして、ところ嫌わず老女を掻きむしるのだった。<lb />
 　忠義一途なこころから、老女が力いっぱいに葵をつかまえる。その近くで、白痴面が、れいの眼玉をたえずギョロギョロと動かし、鼻翼をふくらませながら、夢中になって無益な身動きをつづけているさまは、なんといっても、この世のすがたと思われなかった。<lb />
 　しかし、結局は、いつも葵のほうが勝つ。力いっぱいにはねのけると、母のいる数寄屋まで逃げてゆくのだった。すると、老女は、この家には、たれ一人自分に手を貸すものはない、言語道断な不忠ものばかりだ、といって、さんざんに猛りたち、あげくは、大声で泣き出すのだった。この格闘は、ひと月に五六度は、きまってくりかえされるのだった。<lb />
-　葵はこの環境から逃げだすことばかり考えていた。もとより母は※<span rend="notes">［＃「やまいだれ＋発」、U+3FB1、37-上-1］</span>人でたのみにならない。ここから逃げだして、世の中で生きてゆくには、自ら営々とその力を養うほかはないことを覚った。ただひとり、彼女に力をあわしてくれたのは、一週に三度ずつやってくる、若い女の家庭教師だった。葵は、あらゆる方法を、感情を、手芸を、世間を孜々としてこの婦人から学びとった。葵は十八歳の秋に家をすてた。五島列島の福江島へゆき、そこの、<span type="ruby"><span type="rb">加特力</span><span type="rp">（</span><span type="rt">カトリック</span><span type="rp">）</span></span>信者の漁師の家に隠れた。（これは家庭教師の生家だった）二十一の春までそこで暮らし、神戸のダンス・ホールで二年ちかく働き、二た月ほど前に東京へ帰ってきて〈シネラリヤ〉へ通いはじめた。<lb />
+　葵はこの環境から逃げだすことばかり考えていた。もとより母は※<seg rend="notes" rendition="span">［＃「やまいだれ＋発」、U+3FB1、37-上-1］</seg>人でたのみにならない。ここから逃げだして、世の中で生きてゆくには、自ら営々とその力を養うほかはないことを覚った。ただひとり、彼女に力をあわしてくれたのは、一週に三度ずつやってくる、若い女の家庭教師だった。葵は、あらゆる方法を、感情を、手芸を、世間を孜々としてこの婦人から学びとった。葵は十八歳の秋に家をすてた。五島列島の福江島へゆき、そこの、<seg type="ruby"><seg type="rb">加特力</seg><seg type="rp">（</seg><seg type="rt">カトリック</seg><seg type="rp">）</seg></seg>信者の漁師の家に隠れた。（これは家庭教師の生家だった）二十一の春までそこで暮らし、神戸のダンス・ホールで二年ちかく働き、二た月ほど前に東京へ帰ってきて〈シネラリヤ〉へ通いはじめた。<lb />
 　葵が警察で自分の過去をうちあけなかったのは、こんどひき戻されると、もう、久我に逢うすべがなくなるからであった。（正明は健全で、しきりに彼女の帰宅を待ちわびている）こういう場合警察が彼女の味方をするべきいわれはない。六年前の捜査願を適用して、完全にその職能をはたすであろう。<lb />
 　久我を偽っているのは、ひとえに、彼女の劣性家系を知られたくないからだった。たぶん久我は彼女の血のなかにも、不適者の因子を想像して、たちまち、面を蔽って逃げだすであろう。真実を言うために久我を失うのは、耐えられないことだった。……それに、すでに嘘をいいすぎている。もう、とりかえしがつかないのだった。葵は告白しないことに決心している。<lb />
-　それにしても、久我は美しかった。恋人として見るときは、不安を感ぜずにいられないほど、端麗な顔をしていた。こんな青年が警視庁にいるとは信じ難いほど、優雅な挙止をもっていた。〈シネラリヤ〉へ集ってくる最も貴族的な青年たちですら、久我ほどの<span type="ruby"><span type="rb">典雅さ</span><span type="rp">（</span><span type="rt">エレガンス</span><span type="rp">）</span></span>はもっていないのであった。<lb />
+　それにしても、久我は美しかった。恋人として見るときは、不安を感ぜずにいられないほど、端麗な顔をしていた。こんな青年が警視庁にいるとは信じ難いほど、優雅な挙止をもっていた。〈シネラリヤ〉へ集ってくる最も貴族的な青年たちですら、久我ほどの<seg type="ruby"><seg type="rb">典雅さ</seg><seg type="rp">（</seg><seg type="rt">エレガンス</seg><seg type="rp">）</seg></seg>はもっていないのであった。<lb />
 　いまでは、葵は久我の真実と、愛情にいささかの疑も持っていなかった。彼は葵を警察から〈釈放〉さえしてくれたのである。これが愛されている証拠ではなくてなんであろう。たぶん、そう信じていいのに違いない。<lb />
 　その美しい容貌にかかわらず、久我の性情は堅実だった。そのうえ、彼はすぐれた詩人だった。もう五年……、すくなくとも、四十になるまでには、彼は、なにかひとかどの仕事を成しとげるであろう。家庭にいて、自分もそれに協力するのは、楽しいことに違いなかった。一日もはやく、ダンサーなどはよさなくてはならない。彼のために、そうするのが至当である。……<lb />
-　葵は、アパートの差配の娘や、〈シネラリヤ〉の仲間に久我のことを話すときは、彼を（<span type="ruby"><span type="rb">許婚者</span><span type="rp">（</span><span type="rt">フィアンセ</span><span type="rp">）</span></span>）とよんでいた。彼女に好意をもつほどのものは、一日もはやく、その披露式を見たいと望むのだった。だれよりもそれを望んでいるのは葵自身であるが……<lb />
+　葵は、アパートの差配の娘や、〈シネラリヤ〉の仲間に久我のことを話すときは、彼を（<seg type="ruby"><seg type="rb">許婚者</seg><seg type="rp">（</seg><seg type="rt">フィアンセ</seg><seg type="rp">）</seg></seg>）とよんでいた。彼女に好意をもつほどのものは、一日もはやく、その披露式を見たいと望むのだった。だれよりもそれを望んでいるのは葵自身であるが……<lb />
 　葵は、ほとんど毎晩（許婚者）に逢っていた。久我が〈シネラリヤ〉へ葵を迎いに来、それから角筈の界隈で、なにかしら、二人で夜食をたべるのだった。西貝もときどき仲間をつれて、二人の夜食に加わった。乾老人の骨董店も、すぐその近くにあったので、迎えにやれば一議に及ばず駆けつけてきた。<lb />
 　葵は、久我と二人きりでいるときも、大勢で卓についているときも同じように楽しそうだった。殊に、そういう時は、久我のそばによりそっていて、初心の主婦のように、いろいろと細かい心づかいをするのだった。西貝が、酔って猥談をしても腹を立てなかった。乾がコップから酒をこぼして胸をぬらすと、そのたびに立って行って、やさしく拭ってやるのだった。すると、乾は、葵嬢よ、あんたを最初に警察に密告したのは、このあたしなんだが、なんとも、かんとも申しわけのない次第で……、と、顔じゅうを涙びたしにして、繰りかえし巻きかえし詫びるのだった。<lb />
 「……つまり、ひがんでるんだねえ。……これが、あたしの悪い病さ。……ひねくれた書記根性ってのは、一朝一夕ではなかなかぬけきらない。……そこへもってきて、五十二年の鰥寡孤独さ。意地悪をするのが楽しみになるのも無理はなかろう。……しかし、まあ、かんべんしてくださいよ。あなたにゃ、まったく、すまないと思ってるんだから……」<lb />
@@ -523,7 +523,7 @@
 　西貝と那須は、大理石の置時計を贈って、大いにきばったところを見せた。<lb />
 　乾は大きな地球儀を贈った。これで、どうしろというのだ。……その詮議は、どうでもいいとして……<lb />
 　西貝が、立ちあがって祝辞をのべた。人差指で、鼻の孔をほじりながら、<lb />
-「……要するに、結婚の功利的方法というのは、一日も早くガキを産んで、自分らの責任を、全部ガキどもになすりつけてしまうことなんだ。七つになったら、どんどん尻をひっぱたいて、小銭を稼がせろ。……いくら出来の悪いガキでも、（歌わせてよ）位はやれるからな。……偶<span facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />、出来のいいのをヒリ出したら、じつにその効用計りしるべからず。……すえは芸者かネ、<span type="ruby"><span type="rb">花魁</span><span type="rp">（</span><span type="rt">おいらん</span><span type="rp">）</span></span>か、サ、なにも、おやじがあくせくして稼ぐものはねえ、功利的結果が、よってたかって、飯を喰わしてくれらアね。……さればさ、無数のガキを産んで、老後、ますます安泰に暮らされんことを、謹んでいのります」<lb />
+「……要するに、結婚の功利的方法というのは、一日も早くガキを産んで、自分らの責任を、全部ガキどもになすりつけてしまうことなんだ。七つになったら、どんどん尻をひっぱたいて、小銭を稼がせろ。……いくら出来の悪いガキでも、（歌わせてよ）位はやれるからな。……偶<seg facs="../../../gaiji/1-02/1-02-22.png" rend="gaiji" rendition="img" source="※(二の字点、1-2-22)" />、出来のいいのをヒリ出したら、じつにその効用計りしるべからず。……すえは芸者かネ、<seg type="ruby"><seg type="rb">花魁</seg><seg type="rp">（</seg><seg type="rt">おいらん</seg><seg type="rp">）</seg></seg>か、サ、なにも、おやじがあくせくして稼ぐものはねえ、功利的結果が、よってたかって、飯を喰わしてくれらアね。……さればさ、無数のガキを産んで、老後、ますます安泰に暮らされんことを、謹んでいのります」<lb />
 　そして、両手をあげて、万歳！　と叫んだ。那須が、キンキラ声でそれに和した。みな、もうだいぶ酔っているのだった。そんな祝辞があるものか、真面目にやれ、真面目に！　乾老が、泳ぎだしてきて、抗議した。<lb />
 「……ちょっと伺うがね、そいで、喰わせるほうはどうするのかね」<lb />
 「わけアないさ。ガキ同志で、相互扶養をやらせるのだ。……兄はすぐのその下の弟を養う義務がある。その弟は、すぐまた下の弟を……。こんな工合に順ぐりにやって行く。……一番ビリのガキは一番上の兄を養う。……要するに、久我夫妻は、手を束ねて見ていれあいいのさ」<lb />
@@ -550,14 +550,14 @@
 　葵が、乾にいった。そして、そのほうへ子供のような、小さな、嫋やかな手をさし出した。<lb />
 　汽車が出て行った。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">５</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">５</seg></seg></seg>
 <lb />
 　乾が帰ってきた。夏羽織の肩も裾もぐっしょりと濡らして、まるで川へはまった犬っころのようなみじめな風態だった。<lb />
 　ぬれた内懐から気味わるそうに鍵をひきだして、鍵孔にさしこもうとすると、思いがけなく、すうっ、と扉が内側へあいた……<lb />
 　急に眼つきを鋭くして首をかしげる。しめ忘れたはずはない。……だれか内部にいるのだ。扉のすき間に耳をあてて息をころす。それから、二三歩身をひくと、きっと二階の窓を見あげた。<lb />
 　西洋美術骨董、と読ませるつもりなのだろう〈FOREIGN ARTOBJECTS〉と書いた看板のうしろで、窓の鎧扉がひっそりと雫をたらしていた。飾窓も硝子扉もない妙に閉めこんだ構えの、苔のはえたような建物だった。<lb />
 　扉をあけてそっと店のなかへはいり、身体をまげて板土間の奥のほうをすかして見る。<lb />
-　足のとれた写字机、石版画、セーブル焼の置時計、手風琴、金<span type="ruby"><span type="rb">鍍金</span><span type="rp">（</span><span type="rt">メッキ</span><span type="rp">）</span></span>の枝燭台、古甕……鎧扉の隙まからさしこむ光線のほそい縞の中で、埃をかぶった古物が雑然とその片鱗を浮きあがらせている。その奥のうす闇のなかで、ちらと人影らしいものが動いた。<lb />
+　足のとれた写字机、石版画、セーブル焼の置時計、手風琴、金<seg type="ruby"><seg type="rb">鍍金</seg><seg type="rp">（</seg><seg type="rt">メッキ</seg><seg type="rp">）</seg></seg>の枝燭台、古甕……鎧扉の隙まからさしこむ光線のほそい縞の中で、埃をかぶった古物が雑然とその片鱗を浮きあがらせている。その奥のうす闇のなかで、ちらと人影らしいものが動いた。<lb />
 　入口の扉に鍵をかけると乾はずかずかと、そのほうへ進んでいった。<lb />
 「誰だ、そこにいるのは！」<lb />
 　闇のなかの人物は身動きしたのであろう。かすかに靴底の軋む音がした。どうやら長椅子のうしろにいるらしい。<lb />
@@ -565,18 +565,18 @@
 　古物のなかから三稜剣をぬきだして右手に握ると、スイッチをひねる。長椅子にむかって身構えをしながら、乾が鋭い声で叫んだ。<lb />
 「出てこないと、これで突っ殺すぞ！」<lb />
 　十八九の、小柄な娘がひょっくりと顔をだした。眼だまをくるくるさせながら、おどけた調子でいった。<lb />
-「<span type="ruby"><span type="rb">泥棒だゾ</span><span type="rp">（</span><span type="rt">ヌストドーイ</span><span type="rp">）</span></span>」眼の窪んだ、つんと鼻の高い、すこし<span type="ruby"><span type="rb">比島人</span><span type="rp">（</span><span type="rt">フィリッピンじん</span><span type="rp">）</span></span>じみているが、愛くるしい健康そうな娘だった。伸びすぎた断髪をゆさゆさとゆすぶり、小粋な<span type="ruby"><span type="rb">蘇格蘭土縞</span><span type="rp">（</span><span type="rt">エコッセエ</span><span type="rp">）</span></span>のワンピースを着ていた。力の抜けたような声で、乾がいった。<lb />
-「……<span type="ruby"><span type="rb">お前</span><span type="rp">（</span><span type="rt">イヤー</span><span type="rp">）</span></span>、……<span type="ruby"><span type="rb">鶴</span><span type="rp">（</span><span type="rt">チル</span><span type="rp">）</span></span>……」娘は背凭せを跨いでどすんと椅子のなかへ落ちこむと、おかしな節をつけて唄った。<lb />
-「……天から落たる<span type="ruby"><span type="rb">絲満小人</span><span type="rp">（</span><span type="rt">イチウマングワー</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">幾人</span><span type="rp">（</span><span type="rt">イクタイ</span><span type="rp">）</span></span>揃うて落たがや！」<lb />
+「<seg type="ruby"><seg type="rb">泥棒だゾ</seg><seg type="rp">（</seg><seg type="rt">ヌストドーイ</seg><seg type="rp">）</seg></seg>」眼の窪んだ、つんと鼻の高い、すこし<seg type="ruby"><seg type="rb">比島人</seg><seg type="rp">（</seg><seg type="rt">フィリッピンじん</seg><seg type="rp">）</seg></seg>じみているが、愛くるしい健康そうな娘だった。伸びすぎた断髪をゆさゆさとゆすぶり、小粋な<seg type="ruby"><seg type="rb">蘇格蘭土縞</seg><seg type="rp">（</seg><seg type="rt">エコッセエ</seg><seg type="rp">）</seg></seg>のワンピースを着ていた。力の抜けたような声で、乾がいった。<lb />
+「……<seg type="ruby"><seg type="rb">お前</seg><seg type="rp">（</seg><seg type="rt">イヤー</seg><seg type="rp">）</seg></seg>、……<seg type="ruby"><seg type="rb">鶴</seg><seg type="rp">（</seg><seg type="rt">チル</seg><seg type="rp">）</seg></seg>……」娘は背凭せを跨いでどすんと椅子のなかへ落ちこむと、おかしな節をつけて唄った。<lb />
+「……天から落たる<seg type="ruby"><seg type="rb">絲満小人</seg><seg type="rp">（</seg><seg type="rt">イチウマングワー</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">幾人</seg><seg type="rp">（</seg><seg type="rt">イクタイ</seg><seg type="rp">）</seg></seg>揃うて落たがや！」<lb />
 　そして、嗄れた声で、は、は、と笑った。<lb />
 　突っ立ったまま、乾はひどく険しい顔で、<lb />
-「<span type="ruby"><span type="rb">鶴</span><span type="rp">（</span><span type="rt">チル</span><span type="rp">）</span></span>！　どんな風にしてはいってきた」と、怒鳴った。<lb />
+「<seg type="ruby"><seg type="rb">鶴</seg><seg type="rp">（</seg><seg type="rt">チル</seg><seg type="rp">）</seg></seg>！　どんな風にしてはいってきた」と、怒鳴った。<lb />
 　鶴が口を尖らして、こたえる。<lb />
-「<span type="ruby"><span type="rb">開いてたよ</span><span type="rp">（</span><span type="rt">エーテタンド</span><span type="rp">）</span></span>」<lb />
-「<span type="ruby"><span type="rb">嘘言だろう</span><span type="rp">（</span><span type="rt">ユクジデンアラノ</span><span type="rp">）</span></span>、<span type="ruby"><span type="rb">錠がおりてた筈だ</span><span type="rp">（</span><span type="rt">ジョウナウチトタフアズド</span><span type="rp">）</span></span>。（そういうと、つかつかとそばへ寄っていって、ギュッと鶴の耳をひっぱった）おい！　ここへやって来てはならんと言っておいたろう、どんなことがあっても！」鶴は平気な顔で、うん、とうなずいた。<lb />
-「それから、<span type="ruby"><span type="rb">琉球</span><span type="rp">（</span><span type="rt">オチナワ</span><span type="rp">）</span></span>言葉をつかってならんと言っといた。……そういう約束だったな、鶴」<lb />
+「<seg type="ruby"><seg type="rb">開いてたよ</seg><seg type="rp">（</seg><seg type="rt">エーテタンド</seg><seg type="rp">）</seg></seg>」<lb />
+「<seg type="ruby"><seg type="rb">嘘言だろう</seg><seg type="rp">（</seg><seg type="rt">ユクジデンアラノ</seg><seg type="rp">）</seg></seg>、<seg type="ruby"><seg type="rb">錠がおりてた筈だ</seg><seg type="rp">（</seg><seg type="rt">ジョウナウチトタフアズド</seg><seg type="rp">）</seg></seg>。（そういうと、つかつかとそばへ寄っていって、ギュッと鶴の耳をひっぱった）おい！　ここへやって来てはならんと言っておいたろう、どんなことがあっても！」鶴は平気な顔で、うん、とうなずいた。<lb />
+「それから、<seg type="ruby"><seg type="rb">琉球</seg><seg type="rp">（</seg><seg type="rt">オチナワ</seg><seg type="rp">）</seg></seg>言葉をつかってならんと言っといた。……そういう約束だったな、鶴」<lb />
 　鶴はそっぽをむいて、西洋人がするように、ぴくん、と肩を聳やかした。乾はまじまじとその横顔を見つめながら、<lb />
-「よしよし、いつまでもそんな風にふくれていろ。<span type="ruby"><span type="rb">お前達</span><span type="rp">（</span><span type="rt">ウイダ</span><span type="rp">）</span></span>にはもう<span type="ruby"><span type="rb">加勢せんから</span><span type="rp">（</span><span type="rt">ヤサビランドイ</span><span type="rp">）</span></span>……」<lb />
+「よしよし、いつまでもそんな風にふくれていろ。<seg type="ruby"><seg type="rb">お前達</seg><seg type="rp">（</seg><seg type="rt">ウイダ</seg><seg type="rp">）</seg></seg>にはもう<seg type="ruby"><seg type="rb">加勢せんから</seg><seg type="rp">（</seg><seg type="rt">ヤサビランドイ</seg><seg type="rp">）</seg></seg>……」<lb />
 　くるりと向き直ると、急に鶴は大人びた顔つきになって、<lb />
 「いつもの伝だ。……いちいちそんな風に言わなくたっていいじゃないか。来ちゃいけないことは言われなくたって知ってるよ。……来る用があるから来たんだ。この雨にさ、薄馬鹿みたいに戸口に突っ立ってたら、かえって可笑しかろうと思って入ったまでなんだ。悪かったらごめんなさい」<lb />
 「きいたことに返事をしろ」<lb />
@@ -586,7 +586,7 @@
 　鶴が、ぴょこん、と頭をさげた。<lb />
 「……悪かった。……だって、いきなり怒鳴りつけたりするから……」<lb />
 「それですんだら結構だと思え！　……それで、ここへ来たとき通りにどんなやつがいた」<lb />
-「……第五府立のほうから、<span type="ruby"><span type="rb">風呂敷包</span><span type="rp">（</span><span type="rt">フチコビツツ</span><span type="rp">）</span></span>み……、風呂敷包みを抱えた女学校の先生がひとり……。紙芝居のチョンチョン……。子供が三人……。それだけ」<lb />
+「……第五府立のほうから、<seg type="ruby"><seg type="rb">風呂敷包</seg><seg type="rp">（</seg><seg type="rt">フチコビツツ</seg><seg type="rp">）</seg></seg>み……、風呂敷包みを抱えた女学校の先生がひとり……。紙芝居のチョンチョン……。子供が三人……。それだけ」<lb />
 「路地の入口には？」<lb />
 「だれもいなかった」<lb />
 　乾は、ふむ、ふむ、とうるさく鼻を鳴らしながら、<lb />
@@ -616,7 +616,7 @@
 「行ってこい」<lb />
 　ふりかえりもせずに、鶴は雨のなかへ出て行った。<lb />
 　路地の角をまがって見えなくなると、乾は扉をしめて奥の階段の下までゆき、そこで立ちどまったまま、なにかしばらく考えているようすだったが、やがて踊るような足どりで二階へあがって行った。<lb />
-　二十畳ほどの広さの部屋で、その奥のほうにこれもどこかの払下品なのだろう、天蓋のついた物々しい寝台がどっしりとすわっていた。窓のそばに<span type="ruby"><span type="rb">桃花心木</span><span type="rp">（</span><span type="rt">マホガニ</span><span type="rp">）</span></span>の書机がひとつ、椅子がひとつ、床の上には古新聞や<span type="ruby"><span type="rb">尿瓶</span><span type="rp">（</span><span type="rt">しびん</span><span type="rp">）</span></span>や缶詰の空缶や金盥……その他、雑多なものが、足の踏みばもないほど、でまかせに投げちらされている。<lb />
+　二十畳ほどの広さの部屋で、その奥のほうにこれもどこかの払下品なのだろう、天蓋のついた物々しい寝台がどっしりとすわっていた。窓のそばに<seg type="ruby"><seg type="rb">桃花心木</seg><seg type="rp">（</seg><seg type="rt">マホガニ</seg><seg type="rp">）</seg></seg>の書机がひとつ、椅子がひとつ、床の上には古新聞や<seg type="ruby"><seg type="rb">尿瓶</seg><seg type="rp">（</seg><seg type="rt">しびん</seg><seg type="rp">）</seg></seg>や缶詰の空缶や金盥……その他、雑多なものが、足の踏みばもないほど、でまかせに投げちらされている。<lb />
 　それを飛びこえたり、足の先で押しのけたりしながら、机のそばまでゆくと、乾は思いだしたように懐から夕刊をとりだして、拾い読みをはじめた。<lb />
 　絲満事件の五日ほど前に起った銀行ギャングの犯人の一人が、けさ名古屋で捕ったというので、全市の夕刊の三面はこの事件の報道で痙攣を起していた。犯人の自供によって、事件の全貌が明らかになろうとしている。警視庁高等課の予想通り、思想関係者の仕業だったのである。<lb />
 　さすがの絲満事件も、この激発のためにはねだされて、甚だ影のうすい存在になってしまった。夕刊には古田子之作が証拠不充分で今朝釈放された、という記事が、申訳のように十行ばかり載っているだけだった。<lb />
@@ -637,7 +637,7 @@
 　立ちあがりながら、乾が声をかける。<lb />
 「西貝君かね」<lb />
 　扉がしずかに開いた。<lb />
-　はいってきたのは古田子之作だった。蒼ざめて、ひどく兇悪な顔をしていた。唇がピクピクとひきつり、その間から白い歯が見えたり隠れたりしていた。後ろ手で扉をしめると、くゎっと見ひらいた眼で乾を見すえたまま、のっそりと近づいてきた。帽子を<span rend="notes">［＃「帽子を」は底本では「帽子をを」］</span>ぬいで雫をきりながら、<lb />
+　はいってきたのは古田子之作だった。蒼ざめて、ひどく兇悪な顔をしていた。唇がピクピクとひきつり、その間から白い歯が見えたり隠れたりしていた。後ろ手で扉をしめると、くゎっと見ひらいた眼で乾を見すえたまま、のっそりと近づいてきた。帽子を<seg rend="notes" rendition="span">［＃「帽子を」は底本では「帽子をを」］</seg>ぬいで雫をきりながら、<lb />
 「よう、今晩は」<lb />
 　と低い声で、いった。<lb />
 　乾は眼に見えないほど、すこしずつ寝台のほうへ後しざりをする。古田は椅子をひきよせて掛けると、ニヤリと凄く笑った。<lb />
@@ -653,7 +653,7 @@
 「……ごらんの通り、古家具をやっておりますが……」<lb />
 「そうか。……じゃ、お前はべつに警察の人間というわけでもねえのだな」<lb />
 「飛んでもない……」<lb />
-「じゃア、なんのためにおれを<span type="ruby"><span type="rb">密告</span><span type="rp">（</span><span type="rt">サシ</span><span type="rp">）</span></span>た。……洒落か。……それとも、酔狂か」<lb />
+「じゃア、なんのためにおれを<seg type="ruby"><seg type="rb">密告</seg><seg type="rp">（</seg><seg type="rt">サシ</seg><seg type="rp">）</seg></seg>た。……洒落か。……それとも、酔狂か」<lb />
 　古田の歯が、カチカチと鳴った。<lb />
 　乾は扉のほうへチラリと眼を走らせる。<lb />
 （こりゃ、助からないことになった。……本当のことをいったら、なにをしでかすかわかったもんじゃない。……ひとつ、なんとか胡魔化して切り抜けるか……）<lb />
@@ -668,22 +668,22 @@
 「ぬかせ！」<lb />
 　首すじにヒヤリと冷たいものがさわった。<lb />
 「それあ……無理だ……あたしはなにも……」<lb />
-「<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">ヤ</span><span type="rp">）</span></span>るぞ！」<lb />
+「<seg type="ruby"><seg type="rb">殺</seg><seg type="rp">（</seg><seg type="rt">ヤ</seg><seg type="rp">）</seg></seg>るぞ！」<lb />
 　力まかせに喉をしめる。<lb />
 「く、……くるしい……」<lb />
-「てめえが<span type="ruby"><span type="rb">密告</span><span type="rp">（</span><span type="rt">サシ</span><span type="rp">）</span></span>たと教えてくれたやつがある。……言え！」<lb />
+「てめえが<seg type="ruby"><seg type="rb">密告</seg><seg type="rp">（</seg><seg type="rt">サシ</seg><seg type="rp">）</seg></seg>たと教えてくれたやつがある。……言え！」<lb />
 〈こんな気狂いとやりあったって仕様がない。まあ、する通りさせておけ。……まさか殺すまでのことはしやすまい。……それにしても、どいつが言やがったんだ〉<lb />
 　わざと怒ったような調子で、<lb />
 「だれだ、それあ。そんな、余計なことを……言いやがった奴は！」<lb />
 「久我だ」<lb />
 　乾は歯がみをした。<lb />
 〈ちくしょう〉それから、まるで唄でもうたっているような憐れっぽい口調ではじめた。<lb />
-「……ああ、それで、わかった。……あいつ、あんたを煽てて、……あたしを、殺さすつもりなんだ。……あたしを殺し、それから、あんたをのっぴきならぬところへ、追いこもうという、これあ一石二鳥の詐略なんだ……。ここの理窟を……よく考えて見て、ください。……して見ると、絲満をやったのは、……やっぱり、久我だったんだ。……いまにして、思えば、あたしも、やっぱり煽てられていたんです。……まったく、あいつに<span type="ruby"><span type="rb">教唆</span><span type="rp">（</span><span type="rt">シャク</span><span type="rp">）</span></span>られ、やったことなんです……」<lb />
+「……ああ、それで、わかった。……あいつ、あんたを煽てて、……あたしを、殺さすつもりなんだ。……あたしを殺し、それから、あんたをのっぴきならぬところへ、追いこもうという、これあ一石二鳥の詐略なんだ……。ここの理窟を……よく考えて見て、ください。……して見ると、絲満をやったのは、……やっぱり、久我だったんだ。……いまにして、思えば、あたしも、やっぱり煽てられていたんです。……まったく、あいつに<seg type="ruby"><seg type="rb">教唆</seg><seg type="rp">（</seg><seg type="rt">シャク</seg><seg type="rp">）</seg></seg>られ、やったことなんです……」<lb />
 〈われながら巧いことを言った、と思った〉果して、喉がすこし楽になった。<lb />
 　古田の顔が、ぐっと近くなる。<lb />
 「てめえ、それあ本当か」<lb />
 　そう言えば、すこし思いあたることもある、といった風だった。<lb />
-「けして、嘘などは申しません。……いい齢をして、あんな青二才に<span type="ruby"><span type="rb">教唆</span><span type="rp">（</span><span type="rt">シャク</span><span type="rp">）</span></span>られたかと思うと、……あたしあ……」<lb />
+「けして、嘘などは申しません。……いい齢をして、あんな青二才に<seg type="ruby"><seg type="rb">教唆</seg><seg type="rp">（</seg><seg type="rt">シャク</seg><seg type="rp">）</seg></seg>られたかと思うと、……あたしあ……」<lb />
 　なんだか泣けそうになってきた。<lb />
 〈よし、泣いてやれ〉……工合よく涙が流れだしてきた。しゃくりあげて泣いた。<lb />
 　古田は乾をぐっと引き起すと、<lb />
@@ -693,7 +693,7 @@
 　乾はていねいにおじぎをした。<lb />
 「どうか、ひらにごかんべん願います」<lb />
 　古田はパチリと鞘音をさせて匕首をしまうと、乾をこづきまわしながら、<lb />
-「やい！　おかげでおれあクビになったんだ。……妹は<span type="ruby"><span type="rb">離縁</span><span type="rp">（</span><span type="rt">しくじ</span><span type="rp">）</span></span>るしさ、おっ母アは揮発をのむ……まるで、地獄だ。……それもこれも、みなてめえのした業だぞ。……やい、あやまれ！　土下座してすみませんでしたと言え！」<lb />
+「やい！　おかげでおれあクビになったんだ。……妹は<seg type="ruby"><seg type="rb">離縁</seg><seg type="rp">（</seg><seg type="rt">しくじ</seg><seg type="rp">）</seg></seg>るしさ、おっ母アは揮発をのむ……まるで、地獄だ。……それもこれも、みなてめえのした業だぞ。……やい、あやまれ！　土下座してすみませんでしたと言え！」<lb />
 　乾は前をはだけたまま、みじめな恰好で床の上に坐ると、ペコペコと頭をさげた。<lb />
 「なんともどうも、お詫のしようも……」<lb />
 　ようやく顔をあげたとおもうと、顎の下へ猛烈な勢いで古田の靴の先が飛んできた。乾は、ぎゃっ、といって、あおのけにひっくりかえった。這いずりながら扉のほうへ逃げようとすると、また脇腹へ眼の眩むようなやつがきた。思わず、うむ、と呻き声をあげた。古田は乾を床へねじ倒す、こんどは胸の上へ馬乗りになって、力まかせに、止めどもなく撲りつづけるのだった……<lb />
@@ -708,30 +708,30 @@
 　西貝の声をききつけると、乾は腫れあがった瞼をおしつけながら、<lb />
 「やられましたよ。（と、案外に元気な声でいいながら、そばにころがっている金盥を指さし）すまないが、階下へ行ってそれに水を汲んできてくださいな。……それから、台所に手拭いがあるから……」<lb />
 <lb />
-　西貝が水を汲んで二階へあがってみると、乾は寝台に腰をかけ、新聞紙をひき裂いては、しきりに鼻孔に<span rend="sesame_dot" rendition="em">つめ</span>をかっていた。<lb />
+　西貝が水を汲んで二階へあがってみると、乾は寝台に腰をかけ、新聞紙をひき裂いては、しきりに鼻孔に<seg rend="sesame_dot" rendition="em">つめ</seg>をかっていた。<lb />
 「おい、乾老。……いったい、どうしたってんだ」<lb />
 　乾は手拭いをしぼって鼻梁にあてながら、<lb />
 「……あたしが密告したのをききこんでやってきたんです。……どうも、ひどい目にあわせやがった」<lb />
 　すると、西貝はせせら笑って、<lb />
-「……ふん、そうか。それなら、ま、仕様がなかろう。……いずれ一度はやられるんだ。因果応報だと思ってあきらめるさ。……しかし、妙な<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">つら</span><span type="rp">）</span></span>になったねえ、歪んでるぜ」<lb />
+「……ふん、そうか。それなら、ま、仕様がなかろう。……いずれ一度はやられるんだ。因果応報だと思ってあきらめるさ。……しかし、妙な<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">つら</seg><seg type="rp">）</seg></seg>になったねえ、歪んでるぜ」<lb />
 　乾は大げさに額をおさえながら、<lb />
-「……どうも頭の芯が痛んでならない。顔なんぞどうでもいいが、一時はだいぶ物騒でしたよ。<span type="ruby"><span type="rb">匕首</span><span type="rp">（</span><span type="rt">あいくち</span><span type="rp">）</span></span>なんかひけらかしゃがってねえ。（と、いって、あとは独語のように）ふ、ふ、ああいう風に向っ腹をたてるところを見ると、やはりあいつが殺ったのじゃなかったかも知れん」<lb />
+「……どうも頭の芯が痛んでならない。顔なんぞどうでもいいが、一時はだいぶ物騒でしたよ。<seg type="ruby"><seg type="rb">匕首</seg><seg type="rp">（</seg><seg type="rt">あいくち</seg><seg type="rp">）</seg></seg>なんかひけらかしゃがってねえ。（と、いって、あとは独語のように）ふ、ふ、ああいう風に向っ腹をたてるところを見ると、やはりあいつが殺ったのじゃなかったかも知れん」<lb />
 　西貝は、どたりと机の上へ両足をのせながら、<lb />
-「……あの勢いなら絲満ぐらい<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>りかねないじゃないか。……しかし、案外あれで堅気なのかな。……いや、そんなことはあるまい。この二三年、絲満などと悪く仲間になってたそうだから、なんだかわかったもんじゃないさ。……それに五人のなかじゃ、なんといっても、あいつだけが絲満の地理に明るかったのだからな。……すると、今日は貴公の口をひっ<span type="ruby"><span type="rb">撲</span><span type="rp">（</span><span type="rt">たた</span><span type="rp">）</span></span>きにきたのかな」<lb />
+「……あの勢いなら絲満ぐらい<seg type="ruby"><seg type="rb">殺</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>りかねないじゃないか。……しかし、案外あれで堅気なのかな。……いや、そんなことはあるまい。この二三年、絲満などと悪く仲間になってたそうだから、なんだかわかったもんじゃないさ。……それに五人のなかじゃ、なんといっても、あいつだけが絲満の地理に明るかったのだからな。……すると、今日は貴公の口をひっ<seg type="ruby"><seg type="rb">撲</seg><seg type="rp">（</seg><seg type="rt">たた</seg><seg type="rp">）</seg></seg>きにきたのかな」<lb />
 　乾はうるさく肯きながら、<lb />
-「そうそう、あたしもそう思ってるんです。……だがねえ、脅かしてあたしの口を塞ごうたって、そううまくゆきやしない。……してみると、どうせあいつも、何か弱い尻をもっているのにちがいないのさ。……いまに見てろい。ひどい目に<span type="ruby"><span type="rb">逆</span><span type="rp">（</span><span type="rt">さか</span><span type="rp">）</span></span>ねじを喰わしてくれるから……。それに、あいつは……」<lb />
+「そうそう、あたしもそう思ってるんです。……だがねえ、脅かしてあたしの口を塞ごうたって、そううまくゆきやしない。……してみると、どうせあいつも、何か弱い尻をもっているのにちがいないのさ。……いまに見てろい。ひどい目に<seg type="ruby"><seg type="rb">逆</seg><seg type="rp">（</seg><seg type="rt">さか</seg><seg type="rp">）</seg></seg>ねじを喰わしてくれるから……。それに、あいつは……」<lb />
 　遮ぎりながら、西貝が、いった。<lb />
 「それはそうと、新婚旅行の久我夫婦は、昨夜無事に発っていったかね」<lb />
 「ふん、一等になんか乗りこんでね、溌剌たる威勢でしたよ。（急に声をひそめると）それについてね、あたしあ、ちょっと感じたことがあるんだ」<lb />
 「どう感じた？　……羨ましくでもなったか」<lb />
 　チラリと上眼をつかって、「……ねえ、西貝さん。まさか久我は逃げたんじゃないんだろうねえ。……もし、そうだとすると……」<lb />
-「<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>ったのは久我だというのかね」<lb />
+「<seg type="ruby"><seg type="rb">殺</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>ったのは久我だというのかね」<lb />
 　乾が空嘯いて、いった。<lb />
 「あんたは知ってるさ」<lb />
 　西貝がはねかえす。<lb />
-「そんなことおれが知るもんかい。……へへえ、古田と葵で足らずに、こんどは久我を<span type="ruby"><span type="rb">密告</span><span type="rp">（</span><span type="rt">サス</span><span type="rp">）</span></span>つもりなんだな。……まるで縁日の詰将棋だ。あの手でいけなきゃこの手か。……おいおい、頼んどくが小生だけは助けてくれよ」<lb />
+「そんなことおれが知るもんかい。……へへえ、古田と葵で足らずに、こんどは久我を<seg type="ruby"><seg type="rb">密告</seg><seg type="rp">（</seg><seg type="rt">サス</seg><seg type="rp">）</seg></seg>つもりなんだな。……まるで縁日の詰将棋だ。あの手でいけなきゃこの手か。……おいおい、頼んどくが小生だけは助けてくれよ」<lb />
 　乾はニヤリと笑うと、<lb />
-「……いつぞやもいいましたが、遺産をひっ攫ったやつをこの手でとっちめるまでは、死んだってあたしゃあきらめないんだ。……用心なさいよ、おいおいそっちへもお鉢がまわるかも知れないからねえ。……ま、これは冗談だが。……（いつものねちねちした調子で）ねえ、西貝さん、あんたいったいどう思います。あたしあ、もう久我は帰ってこないと思うんだが……。たぶん、上海あたりへ逃げちまったのさ。……若造のくせにいやに<span rend="sesame_dot" rendition="em">舞台ずれ</span>がしてやがるから、どうせ只もんじゃないと睨んでいたんだ。……それにね、あたしのことを古田にいいつけたのは久我の野郎なんですぜ。だから……、あたしにあこうも思われるんです。古田はただ張扇を叩いただけで、きょうの修羅場を書下したのは、じつは久我なんじゃないか、ってねえ。……古田を煽てて、あたしを殺……」<lb />
+「……いつぞやもいいましたが、遺産をひっ攫ったやつをこの手でとっちめるまでは、死んだってあたしゃあきらめないんだ。……用心なさいよ、おいおいそっちへもお鉢がまわるかも知れないからねえ。……ま、これは冗談だが。……（いつものねちねちした調子で）ねえ、西貝さん、あんたいったいどう思います。あたしあ、もう久我は帰ってこないと思うんだが……。たぶん、上海あたりへ逃げちまったのさ。……若造のくせにいやに<seg rend="sesame_dot" rendition="em">舞台ずれ</seg>がしてやがるから、どうせ只もんじゃないと睨んでいたんだ。……それにね、あたしのことを古田にいいつけたのは久我の野郎なんですぜ。だから……、あたしにあこうも思われるんです。古田はただ張扇を叩いただけで、きょうの修羅場を書下したのは、じつは久我なんじゃないか、ってねえ。……古田を煽てて、あたしを殺……」<lb />
 　西貝はうるさそうに舌打ちをすると、<lb />
 「はやく殺されちまったらいいじゃないか。（と、つけつけと言って立ちあがると）さっき手紙で呼びよせたのは、こんな用だったのか。……なら、俺あもう帰るぜ」<lb />
 　乾は慌てて、泳ぐような手つきをしながら、<lb />
@@ -740,7 +740,7 @@
 「その心配はいりませんよ。なにしろ、あたしとあんたの仲だからね。（そういうと、身体をのりだすようにして）ねえ西貝氏。それで、久我の正体はいったい何です。……青島にながくいたというだけで、一向なにもわかっていないんだが……」<lb />
 　西貝は、呆れかえったという風に、まじまじと乾の顔を眺めながら、<lb />
 「……どうも根強いもんだねえ。じつに恐れいっちまうよ。……だから、言ってるじゃないか、なにも知らないって」<lb />
-「いや、それは嘘だ。……あんたはなにか知ってるくせにあたしに隠してる。（急に憐れっぽい声をだして）ねえ、そう言わずに教えてくださいよ。あたしあ、……<span rend="sesame_dot" rendition="em">あかにし</span>だが、これで、いちめん純情なところもある男さ。……盗るわけがあって盗ったのなら、密告の返せのといいやしない。ただねえ、白ばっくれていられると我慢がならないんです。ご覧のとおり、無利子無担保で金を貸そうって位の心意気はもってるんだ。……また、きいたからって、決してあんたには迷惑をかけませんよ。……（薄笑いをして）ねえ、<span type="ruby"><span type="rb">殺</span><span type="rp">（</span><span type="rt">や</span><span type="rp">）</span></span>ったのは久我でしょう？」<lb />
+「いや、それは嘘だ。……あんたはなにか知ってるくせにあたしに隠してる。（急に憐れっぽい声をだして）ねえ、そう言わずに教えてくださいよ。あたしあ、……<seg rend="sesame_dot" rendition="em">あかにし</seg>だが、これで、いちめん純情なところもある男さ。……盗るわけがあって盗ったのなら、密告の返せのといいやしない。ただねえ、白ばっくれていられると我慢がならないんです。ご覧のとおり、無利子無担保で金を貸そうって位の心意気はもってるんだ。……また、きいたからって、決してあんたには迷惑をかけませんよ。……（薄笑いをして）ねえ、<seg type="ruby"><seg type="rb">殺</seg><seg type="rp">（</seg><seg type="rt">や</seg><seg type="rp">）</seg></seg>ったのは久我でしょう？」<lb />
 「そうならそうと勝手にきめとけばいいじゃないか。なにも俺に念をおすことはなかろう。……（大きな声で）執拗すぎるよ、君は」<lb />
 「ま、そう腹をたてずにおしえてくださいよ。（脅かすような眼つきをして）さもないと……」<lb />
 　キッとして、<lb />
@@ -753,7 +753,7 @@
 「……すると、台湾へは絲満の身元調査に行ったのかな。……それとも犯人でも追いこんで……」<lb />
 「ばかな。思想係だといってるじゃないか。……そうだとすれば、ちょっと思いあたることがある。……あいつ、あの朝〈那覇〉で、なにげなく四日前に東京へきたと口をすべらしたろう。……大阪で銀行襲撃があったのは、絲満事件のちょうど五日前だ。……事件が起きるとすぐ足どりをたどって東京へやってきたんだよ。……こんども台湾なんぞじゃない、関西へ飛んで行ったんだ。……ひとりは今朝捕まったが、共犯の中村はまだ関西周辺を逃げまわっているというから……」<lb />
 「……なるほど、そう聞けば尤もらしいところもあるが、しかし……ワイフをつれて捕物にむかうなんてえのは前代未聞だね」<lb />
-「このごろは警察も<span type="ruby"><span type="rb">開化</span><span type="rp">（</span><span type="rt">ひらけ</span><span type="rp">）</span></span>てらあね。そんなこともあると思えばいいじゃないか。……だがな、乾老……久我はともかく、あの葵ってやつこそ曲者なんだぜ。……那須にだけは話したが、あいつは絲満が殺られた晩の午前一時ごろ、非常梯子をつたって、そっと戸外へ抜けだしてるんだ。……ちょうど葵の下の部屋におれの大学時代の友達がいる。そいつが見つけて、妙なこともあるもんだと、おれに話してくれたんだ。……ふふん、刑事の嬶が人殺しじゃ、こりゃ、すこし行きすぎてると思ってねえ……」<lb />
+「このごろは警察も<seg type="ruby"><seg type="rb">開化</seg><seg type="rp">（</seg><seg type="rt">ひらけ</seg><seg type="rp">）</seg></seg>てらあね。そんなこともあると思えばいいじゃないか。……だがな、乾老……久我はともかく、あの葵ってやつこそ曲者なんだぜ。……那須にだけは話したが、あいつは絲満が殺られた晩の午前一時ごろ、非常梯子をつたって、そっと戸外へ抜けだしてるんだ。……ちょうど葵の下の部屋におれの大学時代の友達がいる。そいつが見つけて、妙なこともあるもんだと、おれに話してくれたんだ。……ふふん、刑事の嬶が人殺しじゃ、こりゃ、すこし行きすぎてると思ってねえ……」<lb />
 　乾は、へえ、と顎をひいて、<lb />
 「そりゃ、……ほ、ほんとうに葵だったのかね？」<lb />
 「ほんとう、たあなんだ。……葵がひとりしかいない部屋から女が出てくれあ、それあ葵にきまってるだろうじゃないか」<lb />
@@ -772,7 +772,7 @@
 　……返事がなかった。<lb />
 「午前二時ごろ〈那覇〉の、……いやさ越中島であんたを見かけたってやつがあるんだがねえ。……いったい、あの辺にどんな用があったんです」<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">６</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">６</seg></seg></seg>
 <lb />
 　葵はホテルの窓ぎわに坐って、落着かない心で空を眺めていた。<lb />
 　神戸へついて六日以来、この空は灰色の雲にとざされ、夕方になるときまって小雨を落した。その雨のなかでときどきゆるく汽笛が鳴る。それが葵のこころを茫漠とした悲しみのなかへひきいれるのだった。<lb />
@@ -780,8 +780,8 @@
 　この二三日、葵はなにか得体の知れない感じにつき纒われ、わけもなく焦だったり憂鬱になったりしていた。時には涙までながれだすのだった。それがなんであるか、葵自身もはっきりと言い解くことが出来なかったが、強いていえば、不吉な予感というようなものだった。<lb />
 　葵は幸福だった。彼女は思いがけなく愛するひとを獲、しかもこれがその新婚旅行なのだった。久我はいつも優しく、彼女を喜ばすために、なにものも惜しまぬ風だった。<lb />
 　久我は葵のために露台と浴室のついた広い部屋をえらび、毎朝夥しい花を届けさせ、どこもかしこも花で埋めるのだった。毎朝葵は花のなかで眼をさます、この楽しさはたとえようがなかった。<lb />
-　二人は外出もせずに一日中部屋のなかで暮していた。食事も部屋へとりよせて長い楽しい時間をかけて喰べた。葵はとりとめのないことを熱心に喋りつづけ、久我は葵のために小説や詩を読んできかせた。葵はこんな小説の題をみたことがある。……「<span type="ruby"><span type="rb">花の中の生活</span><span type="rp">（</span><span type="rt">ラ・ヴィ・ダン・レ・フルウル</span><span type="rp">）</span></span>」。そして彼女はかんがえる。〈その小説のなかには自分と同じように幸福な娘が住んでいるのであろう……〉<lb />
-　ところが、この楽しい生活に、なに気ない風ですこしずつ<span type="ruby"><span type="rb">翳</span><span type="rp">（</span><span type="rt">かげ</span><span type="rp">）</span></span>がさしかけてきた。<lb />
+　二人は外出もせずに一日中部屋のなかで暮していた。食事も部屋へとりよせて長い楽しい時間をかけて喰べた。葵はとりとめのないことを熱心に喋りつづけ、久我は葵のために小説や詩を読んできかせた。葵はこんな小説の題をみたことがある。……「<seg type="ruby"><seg type="rb">花の中の生活</seg><seg type="rp">（</seg><seg type="rt">ラ・ヴィ・ダン・レ・フルウル</seg><seg type="rp">）</seg></seg>」。そして彼女はかんがえる。〈その小説のなかには自分と同じように幸福な娘が住んでいるのであろう……〉<lb />
+　ところが、この楽しい生活に、なに気ない風ですこしずつ<seg type="ruby"><seg type="rb">翳</seg><seg type="rp">（</seg><seg type="rt">かげ</seg><seg type="rp">）</seg></seg>がさしかけてきた。<lb />
 　着いてから三日目の朝、ボーイが久我に手紙をもってきた。差出人の名がない白い贅沢な封筒だった。葵が受取ってなに気なく鼻にあてると、ほのかにヘリオトロープの匂いがした。<lb />
 　久我は封をきると、チラリと眼を走らせただけで、そそくさとポケットへおしこんでしまった。なにか妙な気がした。葵が、なんの手紙か、とたずねると、久我は顔をすこし赧らめて、<lb />
 「公用だ」<lb />
@@ -830,7 +830,7 @@
 「それが、無政府共産党の仕業だったんだね。（それから、眼をつぶりながら）その、共犯の一人がすぐま近にいる」<lb />
 「ええ、それで？」<lb />
 「あとは言えないのだから訊かないでくれ。……要するに、そういうわけだ、想像にまかせる」<lb />
-　ボーイが名刺を持ってはいってきた。葵はほとんど本能的に立ちあがって名刺を受けとると、その名の上へす早い一瞥をくれた。名刺には<span type="ruby"><span type="rb">厳</span><span type="rp">（</span><span type="rt">いかめ</span><span type="rp">）</span></span>しい四号活字で、<lb />
+　ボーイが名刺を持ってはいってきた。葵はほとんど本能的に立ちあがって名刺を受けとると、その名の上へす早い一瞥をくれた。名刺には<seg type="ruby"><seg type="rb">厳</seg><seg type="rp">（</seg><seg type="rt">いかめ</seg><seg type="rp">）</seg></seg>しい四号活字で、<lb />
 〈兵庫県警察部特別高等課　山瀬順太郎〉<lb />
 　と刷ってあった。<lb />
 　久我は名刺を見ると、急に顔をひきしめて、そのひとに階下の控室ですこし待っていてくれるように、と、ボーイにいうと、手早く服を着換えはじめた。<lb />
@@ -878,13 +878,13 @@
 　それにしても、理窟ではない。久我の声は〈あの女〉の声だ。……葵は立ちあがって、鞄へ入れるために久我の服をそろえはじめる。なに気なくそれを振った拍子に、白い封筒がひとつヒラリと床に落ちた。……差出人の名前がない。手がふるえた。手紙にはこう書いてあった。<lb />
 〈雨田葵君は、絲満が殺害された夜の一時頃、非常梯子をつたって、ひそかに戸外へ抜けだしているという事実があります。これはどういうことを意味するか知りませんが、こういうことを承知していられるのもお便利と思い、ちょっとご注意までに申上げました。一友人より〉<lb />
 　葵は床の上へ坐りこむと両手で顔を蔽った。<lb />
-　あの晩、非常梯子をつたって出て行ったのは葵ではなかった。葵の母とも姉ともいうべきむかしの家庭教師、志岐よしえである。六月一日の銀行ギャング事件の<span type="ruby"><span type="rb">迸</span><span type="rp">（</span><span type="rt">そばづえ</span><span type="rp">）</span></span>を恐れて東京へ逃避し、三日のあいだ葵の部屋に潜伏していた。<lb />
+　あの晩、非常梯子をつたって出て行ったのは葵ではなかった。葵の母とも姉ともいうべきむかしの家庭教師、志岐よしえである。六月一日の銀行ギャング事件の<seg type="ruby"><seg type="rb">迸</seg><seg type="rp">（</seg><seg type="rt">そばづえ</seg><seg type="rp">）</seg></seg>を恐れて東京へ逃避し、三日のあいだ葵の部屋に潜伏していた。<lb />
 　葵にはそういう思想運動には同情も興味もない。ただよしえへの愛情のためにしたことだったが、かりにこれを久我に告白したとしても、その通りに信じてもらえるであろうか。また、たとえ、久我からどのように考えられようとも、もうしばらく、これを告白するわけにはゆかない。よしえの信頼だけは裏切りたくないのだ。<lb />
 　それにしてもこんな陰険な振舞をするのは誰だろう。……ふと、かんがえついた。西貝。そういえば、披露式の夜、葵にたいするそれとない無礼な態度、人殺しといわんばかりのあてこすりも、いまにしてみればその意味がわかるのである。<lb />
 　葵は床の上へ長く寝て眼をとじた。<lb />
 　だれか、扉をノックする。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi70">７</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi70">７</seg></seg></seg>
 <lb />
 　神戸から帰ってくると、久我と葵は新聞記者の那須の紹介で、淀橋の浄水場裏にある〈フレンド荘〉という安アパートへひき移った。派手すぎる久我のやり方に不安を感じていたので相応にひきしめて暮すことは葵としてはむしろ賛成だったが、それにしても、このアパートはすこしひどすぎた。<lb />
 　うす暗い路地の奥に、悪く凝った色電気の軒灯などをつけ、まるで安手のチャブ屋のような見かけの家だった。壁には縦横に亀裂がはいり、家具はどれもこれもぞっとするようないやらしい汚点をつけていた。路地の片側はトタン塀で、いち日中そこから劇しい照りかえしがきた。<lb />
@@ -894,9 +894,9 @@
 　仲介だけを専門にやり、アパートへ男を連れ込むことを絶対に禁じていたが、体操学校の女学生というのだけはなぜか大目に見ていた。十七八の猫のような顔をした娘で、五人の中学生の共同出資で囲われていた。若い旦那たちは毎朝ここへおち合って娘のつくった朝飯をくい、元気よく揃って学校へ出かけて行くのだった。五日目ごとに順番が廻ってくるのらしく、夕方になると、まいにち違った顔がひとりだけ娘の部屋へやって来た。ちょうど、この隣りが葵たちの部屋になっているので、憚るところのない猥らなもの音が、薄い壁をとおして手にとるように聞えてきた。<lb />
 　久我がなぜこんなアパートへ引越してきたか葵にはよくわかっていた。なに気ないふうをしているが、久我には金がないのだ。新婚旅行のために月給の前借をしたのらしく、先月の末に持って帰ったのはたった五円だけだった。葵にはもともと貯えなどはなかったので、いきおい身の皮をはいで喰うよりほかはなかった。新聞紙に服を包んでは質屋の暖簾をくぐった。いくらも貸してくれなかった。久我にみすぼらしい思いをさせまいと思って、毎日の生活は豊かすぎるくらいにやっていたので、みるみるうちにゆきづまっていった。葵の持ちものといっては、いま着ている古いアフタヌンだけになってしまった。<lb />
 　葵は部屋の隅の瓦斯煖炉のまえで新聞を読みながら朝食の仕度をしていた。<lb />
-　絲満南風太郎の殺人事件がいわゆる迷宮に入ってから、もう三ヵ月の余にもなる。新聞の三面はその後この事件を忘れていたが、昨日の夕刊から新しい展開にしたがって、また活発な報道をはじめていた。警視庁の捜査第一課はとうとう真犯人を<span type="ruby"><span type="rb">袋小路</span><span type="rp">（</span><span type="rt">アンパッス</span><span type="rp">）</span></span>へ追いつめてしまったようだ。〈那覇〉の前の空溝のなかから思いがけない手懸りが発見されたのである。浅草馬道の、松村という貸衣裳屋の保証金の受取証で、（金二十円他、薄鼠、クレープドシン、アフタヌン一着、保証金）と書いてあり、その裏に血痕と思われる拇指頭大の丸い褐色の汚点がついていた。クレープドシンか<span type="ruby"><span type="rb">縮緬</span><span type="rp">（</span><span type="rt">ちりめん</span><span type="rp">）</span></span>をかぶせた<span type="ruby"><span type="rb">釦</span><span type="rp">（</span><span type="rt">ボタン</span><span type="rp">）</span></span>を、血溜りのなかから拾いあげてこの紙に包んだのにちがいない。釦の丸さなりにはっきりと布目がうつっているのである。鑑識課へ持ちこんで験べて見ると、果してそれは絲満の血だということが判った。<lb />
+　絲満南風太郎の殺人事件がいわゆる迷宮に入ってから、もう三ヵ月の余にもなる。新聞の三面はその後この事件を忘れていたが、昨日の夕刊から新しい展開にしたがって、また活発な報道をはじめていた。警視庁の捜査第一課はとうとう真犯人を<seg type="ruby"><seg type="rb">袋小路</seg><seg type="rp">（</seg><seg type="rt">アンパッス</seg><seg type="rp">）</seg></seg>へ追いつめてしまったようだ。〈那覇〉の前の空溝のなかから思いがけない手懸りが発見されたのである。浅草馬道の、松村という貸衣裳屋の保証金の受取証で、（金二十円他、薄鼠、クレープドシン、アフタヌン一着、保証金）と書いてあり、その裏に血痕と思われる拇指頭大の丸い褐色の汚点がついていた。クレープドシンか<seg type="ruby"><seg type="rb">縮緬</seg><seg type="rp">（</seg><seg type="rt">ちりめん</seg><seg type="rp">）</seg></seg>をかぶせた<seg type="ruby"><seg type="rb">釦</seg><seg type="rp">（</seg><seg type="rt">ボタン</seg><seg type="rp">）</seg></seg>を、血溜りのなかから拾いあげてこの紙に包んだのにちがいない。釦の丸さなりにはっきりと布目がうつっているのである。鑑識課へ持ちこんで験べて見ると、果してそれは絲満の血だということが判った。<lb />
 　刑事がさっそく馬道へ飛んで行った。松村というのは女給やダンサー専門の貸衣裳屋で、その方面ではかなり有名な店だった。店員の話では、フリのお客で、年齢のころは十八九怒り肩のそばかすだらけなみっともない女で、四寸ぐらいのアフタヌンという註文で、それ位のを二三着出して見せたところ、碌に身体へもあてずに持って行った。なるほどそれ位は着そうな大柄な女でした。バンドつきのワンピースで、背中にとも布の釦が三つついております。衣裳はとうとうかえってまいりませんが、保証金を預ってありますから、手前どもではべつに損害はございませんので……<lb />
-　もう<span rend="sesame_dot" rendition="em">やま</span>が見えた。世間を騒がせた絲満事件の真犯人も、この数日中にかならず逮捕されるであろう、と書いてあった。<lb />
+　もう<seg rend="sesame_dot" rendition="em">やま</seg>が見えた。世間を騒がせた絲満事件の真犯人も、この数日中にかならず逮捕されるであろう、と書いてあった。<lb />
 「いよいよ捕まりそうね。……どんな女かしら。いい迷惑をかけてくれたわ」<lb />
 　久我は本を閉じて、のっそりと机から立ちあがってくると茶碗をひきよせながら、<lb />
 「衣裳を借りに来たからって、それが犯人だとは限らない。……使いを頼まれるということもあるしね」<lb />
@@ -936,7 +936,7 @@
 　と、いいながら、葵の手をとって長椅子に掛けさせた。ハナは、すっと立ちあがると、ものも言わずに出て行ってしまった。乾はそのほうをチラリと見送ってから、葵のそばへすり寄るようにして、<lb />
 「ちょっといないたって、そんなにしょげるテはないでしょう。……どうも、濃情極まれりですな。身体に毒ですぜ。……愛妻に気をもませてさ、久我さんもよくないよ。……いったいどこへ行ったんだろう」<lb />
 　そして、へ、へ、へ、と人を喰った笑いかたをした。なにもかにも、すっかり察してしまったらしい口吻だった。<lb />
-「……ひとの知らない苦労てえのは、だれにもあるもんだねえ、ここの開業のとき、あたしはだいぶ古家具を周旋したんだがねえ、どうしても金をよこさない。こんな……<span rend="sesame_dot" rendition="em">てあい</span>にかかったら、まったく手も足も出やしない。……じっさい、泣かせますよ」<lb />
+「……ひとの知らない苦労てえのは、だれにもあるもんだねえ、ここの開業のとき、あたしはだいぶ古家具を周旋したんだがねえ、どうしても金をよこさない。こんな……<seg rend="sesame_dot" rendition="em">てあい</seg>にかかったら、まったく手も足も出やしない。……じっさい、泣かせますよ」<lb />
 　慰めるつもりなのか、額を叩きながら、とめ途もなく、べらべらと喋言りつづけた。<lb />
 　電話室でベルが鳴った。葵は本能的に立ちあがって受話器をとった。果して久我だった。きょうの午後、那須たちと新宿の〈磯なれ〉で逢うことになったから、晩飯にはすこし遅れるかも知れないという電話だった。<lb />
 　葵は出来るだけ快活な口調で、<lb />
@@ -944,7 +944,7 @@
 　と、たずねた。思わず声が震えた。久我は、いま本庁の特高課にいると、こたえた。葵は泣きだしたいのをこらえながら、息をつめてとぎれとぎれに、いった。<lb />
 「……それから、さっきはごめんなさい。あたし、どうかしてたんです。ゆるしてちょうだい。……どうぞ、あたしをいやになったりしないでね。……それから、上高地へ行きましょうね。出来るだけはやく。……こんな神経質では、あなたを困らせるばかりだから……え、そうよ。明日でもいいわ。たくさんお話ししたいことがありますから、なるたけ早く帰ってちょうだい」<lb />
 　久我は、そうときまったら明日にも発とう。旅費は、不愉快だが乾に借りてもいいのだから。……そういって、電話を切った。<lb />
-〈この声は、どこかでいちど聴いたことがある。と、葵はかんがえた。……そうだ、葵に遺産遺産相続の通知をした「あの女」の声だ。神戸のトア・ホテルでもそう思った。あの時は気のせいだろうと打ち消したが、こんどはもう紛れもない。おしだすようなこの錆声、すこし訛のある<span rend="sesame_dot" rendition="em">ず</span>の音、舌が縺れるようなこの早口な言いかた……。「あの女」の声だ。……すると、絲満を殺したのは、やはり久我だったのだ。すくなくとも、なにかの関係をもっている。……久我がひとごろし……〉<lb />
+〈この声は、どこかでいちど聴いたことがある。と、葵はかんがえた。……そうだ、葵に遺産遺産相続の通知をした「あの女」の声だ。神戸のトア・ホテルでもそう思った。あの時は気のせいだろうと打ち消したが、こんどはもう紛れもない。おしだすようなこの錆声、すこし訛のある<seg rend="sesame_dot" rendition="em">ず</seg>の音、舌が縺れるようなこの早口な言いかた……。「あの女」の声だ。……すると、絲満を殺したのは、やはり久我だったのだ。すくなくとも、なにかの関係をもっている。……久我がひとごろし……〉<lb />
 　こう考えながら、不思議にも葵は悲しくも恐ろしくもなかった。反対に、なにか穏やかな感情のなかにひきいれられてゆくのを感じた。<lb />
 〈……いとしいひとよ、ひとこと打ちあけてくれたら、どんなに嬉しかったでしょう。そうすれば、あたしが逃げだすとでも思っているのですか。……あたしはごく普通な倫理でしかものを考えることが出来ないけれども、あなただけは別です。いまでは、あなたがあたしの倫理なのです。あなたがいまの百倍も悪人だっても、あたしの愛情は濃くこそなれ、けっして薄らぎはしないのです。たとえなんであっても、あたしはもうあなたの血族なのだから、あなたから離れることは出来ないのです。……ただ、たったひとつ情けなく思うのは、あたしたちが過去を偽って結びついていることです。告白し合う機会を、二人ながら、永久に失ってしまいました。互いの胸に秘密を抱きながら、これからいく年も幾年も生活してゆかなければならない。悲しいことだが、しかし耐えてゆくより仕様がないのでしょう。……たぶん、これが二人の宿命なのです……〉<lb />
 　しかし、そうだとすれば、めそめそしてはいられない。とにかく久我を逃さなくては。……乾にきかれてしまったから、上高地はもう駄目。……むかしあたしがいた五島列島の福江島……、あそこがいい。<lb />
@@ -960,7 +960,7 @@
 　もう羞かしいもなにもなかった。<lb />
 「……いいえ、そればかりではないの。おはずかしい話ですけど、もう売るものもなにもない有様なんです。……あたし、着のみ着のままなのよ。これをぬいでしまったら、それでおしまいなの。……みなあたしが悪いんですわ。久我が馬鹿な使いかたをするのを、いい気になって手伝っていたようなもんだから……」<lb />
 　乾は勿体らしく首をふって、<lb />
-「へえ、それほどまでとは知らなかった。……野放図な亭主に連れ添うばっかりに、あんたも苦労するねえ。（と、いって額を睨むようにしてなにか考えていたが、やがて、突然に）よろしい、用達てましょう。……だが、断っておくが、これは久我さんに貸すんじゃないよ。あんたに貸すのだ。あんまりあんたが気の毒だから……。そのかわり、といっちゃなんだが、じつは、あたしのほうにもすこし頼みがあるんだ。……というのは、近々久我さんのところへ、山瀬順太郎という、軍人のような体格をした男がたずねてくる。……六尺ちかい大男で、陽に焼けたまっ黒な顔をしている。一眼見てそれとわかる男なんだが、あたしあその男に、去年の秋二百円ほど金を貸してある。……そいつは最近おやじの遺産を相続して、このごろはだいぶ羽ぶりをきかして遊んでるという噂なんです。本来なら、<span type="ruby"><span type="rb">角樽</span><span type="rp">（</span><span type="rt">つのだる</span><span type="rp">）</span></span>の一挺もさげて、まっさきにお礼にやってこなくちゃならねえところなんだが、逃げ廻るてえその了見が太いから、ひとつとっつかまえて油をしぼってやろうと思うんです。……そういうわけだから、もしそいつが久我さんを訪ねてきたら、そっとあたしんとこへ知らせにきてくださいな。……ねえ、葵嬢、すこしあざといようだが、それを教えてくれたら、お金を渡すということにしようじゃないか。……どうです」<lb />
+「へえ、それほどまでとは知らなかった。……野放図な亭主に連れ添うばっかりに、あんたも苦労するねえ。（と、いって額を睨むようにしてなにか考えていたが、やがて、突然に）よろしい、用達てましょう。……だが、断っておくが、これは久我さんに貸すんじゃないよ。あんたに貸すのだ。あんまりあんたが気の毒だから……。そのかわり、といっちゃなんだが、じつは、あたしのほうにもすこし頼みがあるんだ。……というのは、近々久我さんのところへ、山瀬順太郎という、軍人のような体格をした男がたずねてくる。……六尺ちかい大男で、陽に焼けたまっ黒な顔をしている。一眼見てそれとわかる男なんだが、あたしあその男に、去年の秋二百円ほど金を貸してある。……そいつは最近おやじの遺産を相続して、このごろはだいぶ羽ぶりをきかして遊んでるという噂なんです。本来なら、<seg type="ruby"><seg type="rb">角樽</seg><seg type="rp">（</seg><seg type="rt">つのだる</seg><seg type="rp">）</seg></seg>の一挺もさげて、まっさきにお礼にやってこなくちゃならねえところなんだが、逃げ廻るてえその了見が太いから、ひとつとっつかまえて油をしぼってやろうと思うんです。……そういうわけだから、もしそいつが久我さんを訪ねてきたら、そっとあたしんとこへ知らせにきてくださいな。……ねえ、葵嬢、すこしあざといようだが、それを教えてくれたら、お金を渡すということにしようじゃないか。……どうです」<lb />
 　山瀬順太郎……、きいたことのある名前だ。が、どこで逢ったのか、葵にはどうしても思いだせなかった。それに、うしろめたい気もする。すぐには返事が出来なかった。しかしこの場合、それを断りきる勇気は葵にはなかった。<lb />
 　乾は満足そうに手をすり合して、<lb />
 「いや、そうあるべきが当然なのさ。この世は持ちつもたれつだからね。……だが、このことは久我さんにはそっとしておいてくださいよ。なにしろ、あのひとは頑固だからね。横合いからじゃじゃ張られると困るんだ。……それに、こう言っちゃなんだが、久我さんてえのはなるほどいい男だが、なんにしても得態が知れないからねえ。（そう言いながら、すこしずつ葵のほうへすり寄って行って、肩に手をかけると）ねえ、葵嬢、那須ってあの新聞記者がね、職員録を繰って見たが、京大阪はおろか、北海道庁の警察部にも、久我千秋なんて特高刑事はいないそうですぜ。官名詐称を承知でやってるてえのには、そこになにか相当のわけがあるのさ。……葵嬢、逆上をしずめて、すこし考えなくちゃいけないねえ。うっかりしてると泣いても追っつかなことになりますぜ。……なにものか判らないやつにしがみついてるなんてテはないよ。（葵の手を握りながら）そりゃ、もちろん、いざってときには、及ばずながらあたしが加勢する。正直にぶちまけると、あたしああんたが好きだ。あんたのためならなんでもする。だがねえ、あとの騒動を待つまでもなく、いまのうちに別れちまうのがいちばんいいのだ。……あたしあ悪い事あ言わない。別れるならいまなんですぜ。ねえ、葵嬢、思いきって、すっぱりと……」<lb />
@@ -970,7 +970,7 @@
 「なんだ、その面あ。……とぼけると、なぐるぜ。知ってもいようが、ここは源氏宿だ。裾を売るなら割前を出せ。無代で転ばれてたまるものか。てめえのような……」<lb />
 　辛抱しきれずに口をきった。<lb />
 「失敬ね。……あたしここでなにをして？」<lb />
-「しらばっくれると、ひっくりかえして<span type="ruby"><span type="rb">験</span><span type="rp">（</span><span type="rt">あらた</span><span type="rp">）</span></span>めるぜ。……おい、やって見せようか」<lb />
+「しらばっくれると、ひっくりかえして<seg type="ruby"><seg type="rb">験</seg><seg type="rp">（</seg><seg type="rt">あらた</seg><seg type="rp">）</seg></seg>めるぜ。……おい、やって見せようか」<lb />
 　と、いって、葵の裾に手をかけた。葵は身もだえをしながら、喘ぐように、いった。<lb />
 「ゆるして、ちょうだい」<lb />
 　乾はゆっくり立ちあがると、ハナの手を逆手にとって、<lb />
@@ -984,28 +984,28 @@
 「ちくしょう……ちくしょう……」<lb />
 　もう、人間のような顔をしていなかった。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi80">８</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi80">８</seg></seg></seg>
 <lb />
 　ひと束ほどの庭の胡麻竹が、省線が通るたびにサヤサヤと揺れる。新宿劇場の近くで、〈磯なれ〉という小料理屋の、いかにも安手な離れ座敷だった。<lb />
-　<span type="ruby"><span type="rb">擬物</span><span type="rp">（</span><span type="rt">まがいもの</span><span type="rp">）</span></span>の大きな紫檀の食卓を挾んで、那須と古田が腕組をしている。すこし離れたところで、西貝は床の間を枕にしてまじまじと天井を眺めていた。妙に白らけたけしきだった。<lb />
-　しばらくの後、古田は腕組をとると、<span type="ruby"><span type="rb">焦</span><span type="rp">（</span><span type="rt">じれ</span><span type="rp">）</span></span>っぽくバットに火をつけながら、<lb />
+　<seg type="ruby"><seg type="rb">擬物</seg><seg type="rp">（</seg><seg type="rt">まがいもの</seg><seg type="rp">）</seg></seg>の大きな紫檀の食卓を挾んで、那須と古田が腕組をしている。すこし離れたところで、西貝は床の間を枕にしてまじまじと天井を眺めていた。妙に白らけたけしきだった。<lb />
+　しばらくの後、古田は腕組をとると、<seg type="ruby"><seg type="rb">焦</seg><seg type="rp">（</seg><seg type="rt">じれ</seg><seg type="rp">）</seg></seg>っぽくバットに火をつけながら、<lb />
 「……野郎、感づいてスカシを喰わしたんじゃねえのか。……やっぱり寝ごみを押えたほうがよかったんだ。（と、いうと、腹巻から大きな懐中時計をだして）もう、一時半だ。……ねえ、那須さん、こりゃ来ねえぜ」<lb />
 　那須は顔をあげると、落着いた口調で、<lb />
 「いや、きっと来る。……だがね、古田君、言うだけのことは言ってもいいが、手だしをして貰っちゃ困るよ。僕が迷惑をするから。……いいか、念をおしとくぜ」<lb />
 　古田は煙のなかで、不承不承にうなずいて、<lb />
 「ま、よござんす。……わかりましたよ」<lb />
 　と、いって横をむいた。西貝は煽てるような口調で、<lb />
-「三つ四つ撲りつけるのは<span type="ruby"><span type="rb">関</span><span type="rp">（</span><span type="rt">かま</span><span type="rp">）</span></span>わんさ。その位のことがなくちゃおさまらんだろう、なあ、古田氏……」<lb />
+「三つ四つ撲りつけるのは<seg type="ruby"><seg type="rb">関</seg><seg type="rp">（</seg><seg type="rt">かま</seg><seg type="rp">）</seg></seg>わんさ。その位のことがなくちゃおさまらんだろう、なあ、古田氏……」<lb />
 　那須は眉をしかめて、<lb />
 「よして貰おう。さっきも言ったように、今日はそういう趣旨じゃないんだから。……それに、（皮肉な眼つきで古田の顔を見ながら）下手なことをすると、古田君、胸板にズドンと風穴があくぜ」<lb />
 　古田は眼を見はって、<lb />
 「じゃ、ピストルでも持ってるのかね、野郎……」<lb />
 　那須がうなずいた。西貝はせせら笑って、<lb />
-「本当か、おい、那須。……また<span type="ruby"><span type="rb">附拍子</span><span type="rp">（</span><span type="rt">ツケ</span><span type="rp">）</span></span>を打ってるんじゃねえのか」<lb />
+「本当か、おい、那須。……また<seg type="ruby"><seg type="rb">附拍子</seg><seg type="rp">（</seg><seg type="rt">ツケ</seg><seg type="rp">）</seg></seg>を打ってるんじゃねえのか」<lb />
 　那須ははねかえすように、<lb />
 「ご承知のように、アナシェビーキの一派は、大抵みな持ってるからね。それで、あいつだって持ってるだろうと思うのさ」<lb />
 　西貝は、えっ、あいつが……と、いいながらはね起きた。古田は判ったような顔をして、首をふりながら、<lb />
-「アナヒ……、ふむ、なるほど。……道理で<span type="ruby"><span type="rb">胡散臭</span><span type="rp">（</span><span type="rt">うさんくさ</span><span type="rp">）</span></span>いと思ったよ」<lb />
+「アナヒ……、ふむ、なるほど。……道理で<seg type="ruby"><seg type="rb">胡散臭</seg><seg type="rp">（</seg><seg type="rt">うさんくさ</seg><seg type="rp">）</seg></seg>いと思ったよ」<lb />
 　と、いった。すると、那須は皮肉な調子で、<lb />
 「ふん、胡散臭いやつはどこにもいるさ」<lb />
 　と、いいながら、なに気ない風で、ジロリと西貝を見た。なぜか西貝は急に暗い顔をして、庭のほうを向いてしまった。<lb />
@@ -1014,14 +1014,14 @@
 　凄いほどひき緊った端麗な顔を、じっとりと汗でしめらせ、婉然と眼をほおえませて立っていた。すこし、人間ばなれのした美しさだった。<lb />
 　三人は、やあ、と嗄れたような声でいうと、そのまま、黙りこんでしまった。座につくと、久我は三人の顔を見くらべながら、<lb />
 「どうしたんです。ひどく改まっているようだが……」<lb />
-　那須は坐り直すと、ベッタリと髪を貼りつけた<span type="ruby"><span type="rb">木槌</span><span type="rp">（</span><span type="rt">さいづち</span><span type="rp">）</span></span>頭を聳やかしながら、単刀直入に、いった。<lb />
-「久我さん、だしぬけで失敬ですが、二十分ばかり<span type="ruby"><span type="rb">接見</span><span type="rp">（</span><span type="rt">インタアビュ</span><span type="rp">）</span></span>をさせてください。……ここでいけなかったら、二人だけで別室へ行ってもいいのですが……」<lb />
+　那須は坐り直すと、ベッタリと髪を貼りつけた<seg type="ruby"><seg type="rb">木槌</seg><seg type="rp">（</seg><seg type="rt">さいづち</seg><seg type="rp">）</seg></seg>頭を聳やかしながら、単刀直入に、いった。<lb />
+「久我さん、だしぬけで失敬ですが、二十分ばかり<seg type="ruby"><seg type="rb">接見</seg><seg type="rp">（</seg><seg type="rt">インタアビュ</seg><seg type="rp">）</seg></seg>をさせてください。……ここでいけなかったら、二人だけで別室へ行ってもいいのですが……」<lb />
 「いや、関いません。……それで、なにをおたずねになるのですか……」<lb />
 「ご承知のように、僕はこんどの絲満事件を、最初からずっと担当してやっていますが、じつは最近、この解釈についてある理論的な到達をしたのです。多少あなたにも関係があるので、直接その本人に質問しながら、僕の推理が成功しているかどうかを確かめて見たいと思うんです。……ひとことお断りして置きますが、これを職業的に利用しようなどというケチな了見はありません。純粋に実験的な興味からです。またもちろんこの場かぎりのことで、絶対にそとへは洩らしません。……答えたいことだけ答えてくださればいいのです」<lb />
 　久我はしばらく黙っていたのち、すこし顔をひきしめて、<lb />
 「どうか、おたずねください。ご満足のいくようなお答えが出来るかどうか知りませんが」<lb />
 　那須は不敵なようすで口をきった。<lb />
-「では、さっそくはじめます。……久我さん、あなたは昭和二年の春、<span type="ruby"><span type="rb">漢口</span><span type="rp">（</span><span type="rt">ハンカオ</span><span type="rp">）</span></span>で開かれた汎太平洋労働会議に派遣されたまま、今日まで行衛不明になっていた<span type="ruby"><span type="rb">岩船重吉</span><span type="rp">（</span><span type="rt">いわふねじゅうきち</span><span type="rp">）</span></span>さんでしょう」<lb />
+「では、さっそくはじめます。……久我さん、あなたは昭和二年の春、<seg type="ruby"><seg type="rb">漢口</seg><seg type="rp">（</seg><seg type="rt">ハンカオ</seg><seg type="rp">）</seg></seg>で開かれた汎太平洋労働会議に派遣されたまま、今日まで行衛不明になっていた<seg type="ruby"><seg type="rb">岩船重吉</seg><seg type="rp">（</seg><seg type="rt">いわふねじゅうきち</seg><seg type="rp">）</seg></seg>さんでしょう」<lb />
 　キラリと眼を光らせて、<lb />
 「そうです。……よく判りましたね」<lb />
 　淀みのない声だった。那須はあっ気にとられたような顔をした。久我は面白そうに、<lb />
@@ -1029,13 +1029,13 @@
 「岩船重吉の古い詩集のなかに、〈自画像〉という詩がありますね。あの中で描写されている風貌は、久我千秋のそれと全然同じです。従って、久我千秋はすなわち岩船重吉なのです」<lb />
 　久我が、かすかに苦笑した。<lb />
 「久我さん、あなたはいつ日本へ帰って来たのですか？　それまで、支那でなにをしていました？　全国自連に関係がありますか？」<lb />
-「今年の五月の末です、ちょうど十年ぶりで帰ってきました。支那では、<span type="ruby"><span type="rb">香港</span><span type="rp">（</span><span type="rt">ホンコン</span><span type="rp">）</span></span>、漢口、<span type="ruby"><span type="rb">北京</span><span type="rp">（</span><span type="rt">ペキン</span><span type="rp">）</span></span>という工合に転々としていたのです。最近の二年は<span type="ruby"><span type="rb">上海</span><span type="rp">（</span><span type="rt">シャンハイ</span><span type="rp">）</span></span>にいて、そこの賭博場でマネエジャーのようなことをしていました。全国自連には関係がありません。……（そういい終ると、那須の顔を見つめて）しかし、おききになりたいというのはこんなことですか。……さっきは、絲満事件について、と言われたようでしたが……」<lb />
+「今年の五月の末です、ちょうど十年ぶりで帰ってきました。支那では、<seg type="ruby"><seg type="rb">香港</seg><seg type="rp">（</seg><seg type="rt">ホンコン</seg><seg type="rp">）</seg></seg>、漢口、<seg type="ruby"><seg type="rb">北京</seg><seg type="rp">（</seg><seg type="rt">ペキン</seg><seg type="rp">）</seg></seg>という工合に転々としていたのです。最近の二年は<seg type="ruby"><seg type="rb">上海</seg><seg type="rp">（</seg><seg type="rt">シャンハイ</seg><seg type="rp">）</seg></seg>にいて、そこの賭博場でマネエジャーのようなことをしていました。全国自連には関係がありません。……（そういい終ると、那須の顔を見つめて）しかし、おききになりたいというのはこんなことですか。……さっきは、絲満事件について、と言われたようでしたが……」<lb />
 　那須はすこしテレたような顔をして、<lb />
-「いや、そうじゃありません。……あまりあなたの返事っぷりがいいので、つい、いい気になったんです。失敬しました……では……ひとつきいてください。ご承知の通り<span type="ruby"><span type="rb">現場</span><span type="rp">（</span><span type="rt">ヤマ</span><span type="rp">）</span></span>はさんざんにひっくりかえされていて、ひと眼で初犯の手口だということがわかる。だが、それは非常な綿密な人物で、証拠というほどのものはなにも残していません。手の触れたところは、みないちいちハンカチで、拭ってあるという有様です。ひとつとして忘れたところがない。実にどうも驚嘆に価いしますね。……残っていたものというのが、柳の木の幹のすり傷、衣裳戸棚の中のすこしばかり乾いた泥。それからこんどの<span type="ruby"><span type="rb">釦</span><span type="rp">（</span><span type="rt">ボタン</span><span type="rp">）</span></span>の血の紋章です。……これだけです。……この釦は現場の血溜のなかから拾ったものとする。すると、いきおい加害者は女の服を着ていたということになりましょう。……ところで、こんどの<span type="ruby"><span type="rb">犯罪劇</span><span type="rp">（</span><span type="rt">グランギニョール</span><span type="rp">）</span></span>の舞台に、四つの女のタイプが登場しています。……第一はその前夜の十一時頃〈那覇〉へ飛びこんで来て絲満と酒をのんだという、ボーイが見た二十二三の、すらりとしたモダン・ガール。第二は、前夜の八時頃古田君が蛤橋の袂で出逢って、十時すこし前まで〈那覇〉でいっしょに飲んだという十八九の、小柄な美しい娘。……第三は、その夜の午前三時ごろ浜園町の附近で巡視中の巡査が見かけたという、令嬢といった風の、二十二三の美しい上品な女。……第四が、六月四日に松村貸衣裳店へ現れた、怒り肩の、すこし不恰好な背の高い女です。……ところで、これらの特徴を拾いながら、だんだん整理して見ると、この四人の女は三つの<span type="ruby"><span type="rb">類型</span><span type="rp">（</span><span type="rt">ジャンル</span><span type="rp">）</span></span>に分類されるのです。くどく説明するまでもなく、第二の女は小柄だという点で、これは独立したＡという<span type="ruby"><span type="rb">属</span><span type="rp">（</span><span type="rt">ジャンル</span><span type="rp">）</span></span>にはいる。第四の女は、不恰好でみっともなかったというので、また別のＢという属にはいる。第一と第三は、どちらも二十二三で、上品で、すらりとして美しいというから、これは同一の人物と仮定してＣという属にいれる。……そこで、この三つの属の内容を調べて見ると古田君が逢ったというＡは、キモノを着ていて、しかも十時すこし前に古田君と連れ立って〈那覇〉を出て門前仲町まで行って、そこで別れている。加害者がクレープドシンの服を着ていたというところからおして、このＡを容疑の圏外に置く。それからＢのほうは、……巡査とボーイの、この二人の目撃者の陳述を基礎にすれば、そんな<span type="ruby"><span type="rb">板額</span><span type="rp">（</span><span type="rt">はんがく</span><span type="rp">）</span></span>は、その夜、深川にも〈那覇〉にも現れていません。すると、必然的に、加害者はＣだという仮定が成立つ。……Ａは仮りにこの事件に関係がないとするとＢとＣの関係はこんな風になるのではないか。……つまり、ＢはＣのために衣裳を借りに行った。……碌々身体にもあてずに持って帰ったということが、それを証拠立てています。自分が着る服なら、そんな選び方をするはずがない。それから、Ｂは保証金の受取証を持って帰っていますね。もしこの服が殺人の変装に使われると知ったら、そんな受取証は持って帰らずに、どこかで引裂いて捨ててしまったでしょう。この事実から、Ｂはこの殺人に了解がなかったことと、同時に使いをたのまれたのに過ぎないということが、二重に証明されます。……（茶碗の底に残っていた茶をズウと音をたてて啜りこんでから）さて、これだけの材料を順序よく配列して見ると、だいたいこんなことになる。……二十二三の、上品な、すらりとした美人が、ある女に頼んで服を借りて貰い、それを着て十時十分頃〈那覇〉へやってきた、このときボーイがそのうしろ姿だけ見ている。……そして、ボーイは帰る。それから一時ごろまで絲満とフリの客三人で大いに飲み、あるいは大いに飲ませ、絲満が泥酔したのを見すまして、帰るふりをして横手へまわり、柳の木をつたって二階の窓から寝室にはいり、衣裳戸棚の中にかくれて待っていた。絲満が泥酔して階下からあがってくる。寝台に倒れてぐっすり寝こんだところを、のしかかって心臓を三突、頸動脈をひと刺し。それから水差の水を金盥にとって手を洗い金をさがして発見する。綿密に部屋の中を拭いてまわる。釦をひろって受取書につつむ。もうなにも手落ちはない。そこで、扉をしめて鍵をかけ、階下の入口から悠々と出て行った。この時はもう三時近い。蛤橋を渡って浜園町へ行こうとすると、むこうから巡査がやってきた。あわてて一丁目の角を右に曲って、一直線に深川塵芥処理工場の方へゆく。そこの近くにある曲辰の材木置場のところまで行って、そこで、突然に大地へとけこんでしまったのです。（久我の顔を見つめながら）ここまではどうでしょう？」<lb />
+「いや、そうじゃありません。……あまりあなたの返事っぷりがいいので、つい、いい気になったんです。失敬しました……では……ひとつきいてください。ご承知の通り<seg type="ruby"><seg type="rb">現場</seg><seg type="rp">（</seg><seg type="rt">ヤマ</seg><seg type="rp">）</seg></seg>はさんざんにひっくりかえされていて、ひと眼で初犯の手口だということがわかる。だが、それは非常な綿密な人物で、証拠というほどのものはなにも残していません。手の触れたところは、みないちいちハンカチで、拭ってあるという有様です。ひとつとして忘れたところがない。実にどうも驚嘆に価いしますね。……残っていたものというのが、柳の木の幹のすり傷、衣裳戸棚の中のすこしばかり乾いた泥。それからこんどの<seg type="ruby"><seg type="rb">釦</seg><seg type="rp">（</seg><seg type="rt">ボタン</seg><seg type="rp">）</seg></seg>の血の紋章です。……これだけです。……この釦は現場の血溜のなかから拾ったものとする。すると、いきおい加害者は女の服を着ていたということになりましょう。……ところで、こんどの<seg type="ruby"><seg type="rb">犯罪劇</seg><seg type="rp">（</seg><seg type="rt">グランギニョール</seg><seg type="rp">）</seg></seg>の舞台に、四つの女のタイプが登場しています。……第一はその前夜の十一時頃〈那覇〉へ飛びこんで来て絲満と酒をのんだという、ボーイが見た二十二三の、すらりとしたモダン・ガール。第二は、前夜の八時頃古田君が蛤橋の袂で出逢って、十時すこし前まで〈那覇〉でいっしょに飲んだという十八九の、小柄な美しい娘。……第三は、その夜の午前三時ごろ浜園町の附近で巡視中の巡査が見かけたという、令嬢といった風の、二十二三の美しい上品な女。……第四が、六月四日に松村貸衣裳店へ現れた、怒り肩の、すこし不恰好な背の高い女です。……ところで、これらの特徴を拾いながら、だんだん整理して見ると、この四人の女は三つの<seg type="ruby"><seg type="rb">類型</seg><seg type="rp">（</seg><seg type="rt">ジャンル</seg><seg type="rp">）</seg></seg>に分類されるのです。くどく説明するまでもなく、第二の女は小柄だという点で、これは独立したＡという<seg type="ruby"><seg type="rb">属</seg><seg type="rp">（</seg><seg type="rt">ジャンル</seg><seg type="rp">）</seg></seg>にはいる。第四の女は、不恰好でみっともなかったというので、また別のＢという属にはいる。第一と第三は、どちらも二十二三で、上品で、すらりとして美しいというから、これは同一の人物と仮定してＣという属にいれる。……そこで、この三つの属の内容を調べて見ると古田君が逢ったというＡは、キモノを着ていて、しかも十時すこし前に古田君と連れ立って〈那覇〉を出て門前仲町まで行って、そこで別れている。加害者がクレープドシンの服を着ていたというところからおして、このＡを容疑の圏外に置く。それからＢのほうは、……巡査とボーイの、この二人の目撃者の陳述を基礎にすれば、そんな<seg type="ruby"><seg type="rb">板額</seg><seg type="rp">（</seg><seg type="rt">はんがく</seg><seg type="rp">）</seg></seg>は、その夜、深川にも〈那覇〉にも現れていません。すると、必然的に、加害者はＣだという仮定が成立つ。……Ａは仮りにこの事件に関係がないとするとＢとＣの関係はこんな風になるのではないか。……つまり、ＢはＣのために衣裳を借りに行った。……碌々身体にもあてずに持って帰ったということが、それを証拠立てています。自分が着る服なら、そんな選び方をするはずがない。それから、Ｂは保証金の受取証を持って帰っていますね。もしこの服が殺人の変装に使われると知ったら、そんな受取証は持って帰らずに、どこかで引裂いて捨ててしまったでしょう。この事実から、Ｂはこの殺人に了解がなかったことと、同時に使いをたのまれたのに過ぎないということが、二重に証明されます。……（茶碗の底に残っていた茶をズウと音をたてて啜りこんでから）さて、これだけの材料を順序よく配列して見ると、だいたいこんなことになる。……二十二三の、上品な、すらりとした美人が、ある女に頼んで服を借りて貰い、それを着て十時十分頃〈那覇〉へやってきた、このときボーイがそのうしろ姿だけ見ている。……そして、ボーイは帰る。それから一時ごろまで絲満とフリの客三人で大いに飲み、あるいは大いに飲ませ、絲満が泥酔したのを見すまして、帰るふりをして横手へまわり、柳の木をつたって二階の窓から寝室にはいり、衣裳戸棚の中にかくれて待っていた。絲満が泥酔して階下からあがってくる。寝台に倒れてぐっすり寝こんだところを、のしかかって心臓を三突、頸動脈をひと刺し。それから水差の水を金盥にとって手を洗い金をさがして発見する。綿密に部屋の中を拭いてまわる。釦をひろって受取書につつむ。もうなにも手落ちはない。そこで、扉をしめて鍵をかけ、階下の入口から悠々と出て行った。この時はもう三時近い。蛤橋を渡って浜園町へ行こうとすると、むこうから巡査がやってきた。あわてて一丁目の角を右に曲って、一直線に深川塵芥処理工場の方へゆく。そこの近くにある曲辰の材木置場のところまで行って、そこで、突然に大地へとけこんでしまったのです。（久我の顔を見つめながら）ここまではどうでしょう？」<lb />
 　久我は微笑しながら、いった。<lb />
 「面白いですね。よく判ります。それから？」<lb />
 　那須はますます能弁になって、<lb />
-「……ところで、この犯罪の最も短い半径内に、容疑者の権利をもつ二人の女性がいます。ひとりは、絲満の以前の情婦で……いま〈フレンド荘〉をやっている朱砂ハナ。もうひとりは、久我夫人すなわち葵嬢。……だが朱砂ハナのほうは、事件のあった十八日以前に、密淫売のかどで<span type="ruby"><span type="rb">検挙</span><span type="rp">（</span><span type="rt">アゲ</span><span type="rp">）</span></span>られて、事件の当夜は洲崎署の留置場にいたんです。……まずこれ以上の完全な不在証明はありません。そこで、久我夫人のほうですが、これは二十二三で、上品、すらりとした美人です。本来ならば、なんとしてもまぬかれないところです。つまり美人なるがゆえに、こういう災難を蒙ることになった。美人になりたくないもんです。が、このほうも幸いなるかな、完全に近い不在証明があった。その夜は、夜の八時から十二時まで〈シネラリヤ〉に働いており、十二時半からつぎの朝まで、ちゃんと自分のアパートにいた。のみならず、〈那覇〉のボーイが、この女ではない、と断言した。うしろ姿だけ見ていて、当否の断定を下した。……なかなか秀才ですよ、こいつあ。冗談はともかくとして、こういう工合だから、Ｃという女の値は依然としてＸのままで残ることになった。のみならず、忽然として深川の一角で消滅してしまったというんだから、なかなかただもんじゃない……人間がとけてなくなる。そんなことがあり得る筈はない。いずれどこかにチャンと切穴が明いてるんです。……そこで、ひとつ実地に魔術の舞台を験めて見る必要がある。……（そう言いながら、ポケットから手帳をとりだすと、精細に書きいれた地図を示して）ご覧の通り、殺人のあった枝川町一丁目は四方を海と掘割で囲まれた四角形の島です。この島を出て深川の電車路へゆくには、この蛤橋を渡って浜園町へ出るか、この白鷺橋を渡って塩崎町へぬけるか、それ以外には道がない。……いったい深川というところは、まるでヴェニスのように、孤立した島々が橋だけでつながっているようなものですが、ここ位い不便なところも少いのです。……ところで蛤橋のほうから巡査がきた。あわてて白鷺橋を渡ろうとすると、その橋詰に交番がある。……この×の印がそうです。島から出ようとすると、どんな事をしてもその前を通らなければならない。止むを得ず後しざりをして、いったん島の奥に逃げこんだ。……やがて、間もなく戻って来て、交番の前を通って、市電の木橋のほうへ行ってしまった……としか考えられません。……なぜなれば、人間一匹が消えてしまう筈はない。のみならず、若い女がそんなところでまごまごしていたら、……危険は一刻毎に増大する。……あの辺は海風が吹いて涼しいものだから巡査が涼みがてらにむやみに巡視をするんです。この辺はなにしろ一目で見渡せる広っ場なんだから、どう隠れたってすぐめっかってしまう。……どうしたって、やはり交番の前を通って出ていったと思うより仕様がない。……ところが、その夜白鷺橋の交番には、しかも二人の巡査がいて、非常に暑い晩だったので、十二時から朝の四時まで交番の前へ椅子を持ち出して涼んでいたのです。ところが、その間女などは一人も通らない……もちろん、ひとは通ったが女は通らない、と言うのです。……僕はハタと行きづまった。苦しまぎれに、いわゆる習得的方法というのをやって見た。現場のまっ只中へ自分をおいてみたのです。……昨日曲辰材木置場の丸太の上へ腰をかけて、僕がもし犯人なら、こういう条件と地理に於て、いったいこの次にどういう行動を起すだろう……昨日、曲辰材木置場の丸太の上へ腰をかけて、つくづくと考えて見たんです。……（ニヤリとうれしそうに笑うと）……間もなく到達しましたよ。なんでもなかったです。……つまり、こうなんです。まず、血のついた服をぬいで猿股ひとつになる。服は錘をつけて木場の溜りへ沈める。それから頭と身体をすこし水に濡らして、シャツを小脇に抱えてスタスタと交番の前を通って行ったんです。……この辺の住人はひどく無造作で、暑くて寝られないと、夜でも夜中でも海へ泳ぎに出かけるんですね。もちろん裸の道中です。巡査も馴れっこなので、べつになにも言いやしない。……こういうわけで、犯人はなんのおとがめもなく関所を通りぬけたのです」<lb />
+「……ところで、この犯罪の最も短い半径内に、容疑者の権利をもつ二人の女性がいます。ひとりは、絲満の以前の情婦で……いま〈フレンド荘〉をやっている朱砂ハナ。もうひとりは、久我夫人すなわち葵嬢。……だが朱砂ハナのほうは、事件のあった十八日以前に、密淫売のかどで<seg type="ruby"><seg type="rb">検挙</seg><seg type="rp">（</seg><seg type="rt">アゲ</seg><seg type="rp">）</seg></seg>られて、事件の当夜は洲崎署の留置場にいたんです。……まずこれ以上の完全な不在証明はありません。そこで、久我夫人のほうですが、これは二十二三で、上品、すらりとした美人です。本来ならば、なんとしてもまぬかれないところです。つまり美人なるがゆえに、こういう災難を蒙ることになった。美人になりたくないもんです。が、このほうも幸いなるかな、完全に近い不在証明があった。その夜は、夜の八時から十二時まで〈シネラリヤ〉に働いており、十二時半からつぎの朝まで、ちゃんと自分のアパートにいた。のみならず、〈那覇〉のボーイが、この女ではない、と断言した。うしろ姿だけ見ていて、当否の断定を下した。……なかなか秀才ですよ、こいつあ。冗談はともかくとして、こういう工合だから、Ｃという女の値は依然としてＸのままで残ることになった。のみならず、忽然として深川の一角で消滅してしまったというんだから、なかなかただもんじゃない……人間がとけてなくなる。そんなことがあり得る筈はない。いずれどこかにチャンと切穴が明いてるんです。……そこで、ひとつ実地に魔術の舞台を験めて見る必要がある。……（そう言いながら、ポケットから手帳をとりだすと、精細に書きいれた地図を示して）ご覧の通り、殺人のあった枝川町一丁目は四方を海と掘割で囲まれた四角形の島です。この島を出て深川の電車路へゆくには、この蛤橋を渡って浜園町へ出るか、この白鷺橋を渡って塩崎町へぬけるか、それ以外には道がない。……いったい深川というところは、まるでヴェニスのように、孤立した島々が橋だけでつながっているようなものですが、ここ位い不便なところも少いのです。……ところで蛤橋のほうから巡査がきた。あわてて白鷺橋を渡ろうとすると、その橋詰に交番がある。……この×の印がそうです。島から出ようとすると、どんな事をしてもその前を通らなければならない。止むを得ず後しざりをして、いったん島の奥に逃げこんだ。……やがて、間もなく戻って来て、交番の前を通って、市電の木橋のほうへ行ってしまった……としか考えられません。……なぜなれば、人間一匹が消えてしまう筈はない。のみならず、若い女がそんなところでまごまごしていたら、……危険は一刻毎に増大する。……あの辺は海風が吹いて涼しいものだから巡査が涼みがてらにむやみに巡視をするんです。この辺はなにしろ一目で見渡せる広っ場なんだから、どう隠れたってすぐめっかってしまう。……どうしたって、やはり交番の前を通って出ていったと思うより仕様がない。……ところが、その夜白鷺橋の交番には、しかも二人の巡査がいて、非常に暑い晩だったので、十二時から朝の四時まで交番の前へ椅子を持ち出して涼んでいたのです。ところが、その間女などは一人も通らない……もちろん、ひとは通ったが女は通らない、と言うのです。……僕はハタと行きづまった。苦しまぎれに、いわゆる習得的方法というのをやって見た。現場のまっ只中へ自分をおいてみたのです。……昨日曲辰材木置場の丸太の上へ腰をかけて、僕がもし犯人なら、こういう条件と地理に於て、いったいこの次にどういう行動を起すだろう……昨日、曲辰材木置場の丸太の上へ腰をかけて、つくづくと考えて見たんです。……（ニヤリとうれしそうに笑うと）……間もなく到達しましたよ。なんでもなかったです。……つまり、こうなんです。まず、血のついた服をぬいで猿股ひとつになる。服は錘をつけて木場の溜りへ沈める。それから頭と身体をすこし水に濡らして、シャツを小脇に抱えてスタスタと交番の前を通って行ったんです。……この辺の住人はひどく無造作で、暑くて寝られないと、夜でも夜中でも海へ泳ぎに出かけるんですね。もちろん裸の道中です。巡査も馴れっこなので、べつになにも言いやしない。……こういうわけで、犯人はなんのおとがめもなく関所を通りぬけたのです」<lb />
 　西貝が、くっくっ、と笑いだして、<lb />
 「女が猿股ひとつになって、交番の前を通ったって、それで無事だったのかい」<lb />
 　那須はニコリともせずに、<lb />
@@ -1049,11 +1049,11 @@
 「それはお答え出来ません」<lb />
 　両手を膝に置き、自若たる面もちだった。那須はうなずいて、<lb />
 「勿論ですとも。あなたにその意志がなかったら、答えてくださる必要はありません。……では、最後にひとこと……。僕の推理はだいたい成功しているのでしょうか」<lb />
-「私の感じたままを申しますと、だいいちあなたのは推理ではなくて<span type="ruby"><span type="rb">奇説</span><span type="rp">（</span><span type="rt">ドグマ</span><span type="rp">）</span></span>だと思うのです。……仮りに、あの夜私が女装して〈那覇〉にいたとしても、それだけでは私が殺したという証明にはならないからです。ここでは、<span rend="sesame_dot" rendition="em">女装</span>と<span rend="sesame_dot" rendition="em">殺人</span>という二つの状態が、関係なくばらばらに置かれているにすぎません。この二つの名詞を結びつけて、意味のある文章にするには、どうしても<span type="ruby"><span type="rb">繋辞</span><span type="rp">（</span><span type="rt">カップル</span><span type="rp">）</span></span>が必要なのですが、どこにもそういうものが見あたらない。私が殺したという。が、それに対する論理的な証明を全然欠いているからです。……警察ならば、臆説であろうと、仮定であろうとかまわない。あとは訊問でひっかけて、自白させるだけのことですが、あなたの場合は論理的に到達しようというのだから、こんなことではいけないのでしょう。……それから、女装のほうですが、それが私だというのは、どういう根拠によって判断されたのですか？」<lb />
+「私の感じたままを申しますと、だいいちあなたのは推理ではなくて<seg type="ruby"><seg type="rb">奇説</seg><seg type="rp">（</seg><seg type="rt">ドグマ</seg><seg type="rp">）</seg></seg>だと思うのです。……仮りに、あの夜私が女装して〈那覇〉にいたとしても、それだけでは私が殺したという証明にはならないからです。ここでは、<seg rend="sesame_dot" rendition="em">女装</seg>と<seg rend="sesame_dot" rendition="em">殺人</seg>という二つの状態が、関係なくばらばらに置かれているにすぎません。この二つの名詞を結びつけて、意味のある文章にするには、どうしても<seg type="ruby"><seg type="rb">繋辞</seg><seg type="rp">（</seg><seg type="rt">カップル</seg><seg type="rp">）</seg></seg>が必要なのですが、どこにもそういうものが見あたらない。私が殺したという。が、それに対する論理的な証明を全然欠いているからです。……警察ならば、臆説であろうと、仮定であろうとかまわない。あとは訊問でひっかけて、自白させるだけのことですが、あなたの場合は論理的に到達しようというのだから、こんなことではいけないのでしょう。……それから、女装のほうですが、それが私だというのは、どういう根拠によって判断されたのですか？」<lb />
 「五人の遺産相続者のなかで、その資格を持っているのは、あなたの外にないからです」<lb />
-「犯人が<span rend="sesame_dot" rendition="em">五人</span>のなかにいなければならぬというのは、どういう理由によるのですか？」<lb />
+「犯人が<seg rend="sesame_dot" rendition="em">五人</seg>のなかにいなければならぬというのは、どういう理由によるのですか？」<lb />
 「……あの〈遺産相続の通知〉は捜査の方針を混乱させる目的で計画されたトリックだということは、いうまでもありません。あの通知で何人かの人間を殺人の現場へよびよせ、否応なしに殺人事件の渦中へひきずりこんでしまう。それで情況を複雑にし、自分の犯跡を曖昧化し、うまくいったら、自分の罪を未知の人間に転嫁させようという目的のトリックなのですね。……いうまでもなく、〈通知〉を出した告知人がすなわち絲満を殺した犯人なのですが、そういう場合、その人物は、かならず、その現場へやって来てるものなのです。効果の程度を知っておくことが絶対に必要だからです。……だから、犯人はあの朝〈那覇〉へ集った五人のうちのだれかだと言えるのです」<lb />
-「犯人が必ずそこに来合しているという……それは<span type="ruby"><span type="rb">当為</span><span type="rp">（</span><span type="rt">ソルレン</span><span type="rp">）</span></span>です。必ずそうあるべきことでしょう。しかしそれはそれとして、事件を複雑にして捜査の方針を混乱させる目的だと言われましたが、私に言わせれば、このトリックは、反対の効をあげるためにしか役立たぬように思われるのです。混乱させるどころか、犯人はここにいると、自分で知らしてるようなものです。……なぜといえば、そういう場合、犯人がそこへ来合しているだろうということは、だれにしたってすぐ考えられることですからね。……知能的な初犯者ほど、いろいろ手のこんだ方法を考え出すものですが、しかし、どういう場合でも、あらかじめ考案された方法というものは、柔軟性を欠くか、なにかしら過剰なものを持つか、この二つの欠点をまぬかれることが出来ないようです。……細工をしすぎたコップほど脆い、というのとよく似ています。……そのうえ、あまり鋭い頭で考えられたものではない。……那須さん、私はこんな方法を考えだすほど幼稚ではないつもりです。のみならず、私はそんな方法にたよらなくとも、もっと無造作にやってのける有利な条件をもっています。私はつい最近十年ぶりで日本へ帰ってきた。東京には私を見知っている人間は一人もいません。どのようにも大胆に、どんなにも無造作にやってのけることが出来るのです。……こういう便宜をもっている私が、自分がアマチュアであることを知らせ、自分を自ら窮地に追いこむような、そんなうるさい方法を選ぶわけがありません。〈通知〉を出したのが、すなわち犯人だ、という直証法は私も賛成です。そうとすれば、いま言った理由で、私は犯人ではありません」<lb />
+「犯人が必ずそこに来合しているという……それは<seg type="ruby"><seg type="rb">当為</seg><seg type="rp">（</seg><seg type="rt">ソルレン</seg><seg type="rp">）</seg></seg>です。必ずそうあるべきことでしょう。しかしそれはそれとして、事件を複雑にして捜査の方針を混乱させる目的だと言われましたが、私に言わせれば、このトリックは、反対の効をあげるためにしか役立たぬように思われるのです。混乱させるどころか、犯人はここにいると、自分で知らしてるようなものです。……なぜといえば、そういう場合、犯人がそこへ来合しているだろうということは、だれにしたってすぐ考えられることですからね。……知能的な初犯者ほど、いろいろ手のこんだ方法を考え出すものですが、しかし、どういう場合でも、あらかじめ考案された方法というものは、柔軟性を欠くか、なにかしら過剰なものを持つか、この二つの欠点をまぬかれることが出来ないようです。……細工をしすぎたコップほど脆い、というのとよく似ています。……そのうえ、あまり鋭い頭で考えられたものではない。……那須さん、私はこんな方法を考えだすほど幼稚ではないつもりです。のみならず、私はそんな方法にたよらなくとも、もっと無造作にやってのける有利な条件をもっています。私はつい最近十年ぶりで日本へ帰ってきた。東京には私を見知っている人間は一人もいません。どのようにも大胆に、どんなにも無造作にやってのけることが出来るのです。……こういう便宜をもっている私が、自分がアマチュアであることを知らせ、自分を自ら窮地に追いこむような、そんなうるさい方法を選ぶわけがありません。〈通知〉を出したのが、すなわち犯人だ、という直証法は私も賛成です。そうとすれば、いま言った理由で、私は犯人ではありません」<lb />
 　古田は、あぐらを組みなおすと、那須に、<lb />
 「じゃ、いよいよあっしがやりますぜ。いいね。（と、念をおすと、久我のほうへ向き直って、叱咤した）うるせえ、もうやめろ。……理窟でごまかそうたって、そういかねえ証拠があるんだぞ。……おい、久我！　巡査に追ったくられて二階から降りるとき、てめえ、ヒョイとかがんで、血溜りのなかからなにか丸いものを拾いあげたな。……たしか釦のようなものだったが、……おい！　このほうはどうだ」<lb />
 　……こんどはいくら待っても返事がなかった。久我の眼に苦渋なものがあらわれ、額がうす黒く翳ってきた。<lb />
@@ -1074,30 +1074,30 @@
 　すこし酔っているらしかった。乾はキラキラ眼を光らせて熱心に堀のほうを眺めながら、うるさそうに、こたえた。<lb />
 「まあ、そうだな」<lb />
 　西貝は舌なめずりをして、<lb />
-「気のねえ返事をするなよ。……ときに乾老、この堀から久我の<span rend="sesame_dot" rendition="em">ぬいぐるみ</span>があがってきたら、いくら出す。たとえ二十日、ひと月でも、いっしょに飲み分けた友人を売るんだ。<span type="ruby"><span type="rb">無代</span><span type="rp">（</span><span type="rt">ただ</span><span type="rp">）</span></span>じゃごめんだぜ」<lb />
+「気のねえ返事をするなよ。……ときに乾老、この堀から久我の<seg rend="sesame_dot" rendition="em">ぬいぐるみ</seg>があがってきたら、いくら出す。たとえ二十日、ひと月でも、いっしょに飲み分けた友人を売るんだ。<seg type="ruby"><seg type="rb">無代</seg><seg type="rp">（</seg><seg type="rt">ただ</seg><seg type="rp">）</seg></seg>じゃごめんだぜ」<lb />
 　乾が、むっつりとこたえた。<lb />
 「もし、あがったら十両やる」<lb />
 　西貝は下卑っぽく、ポンと手を打って、<lb />
-「まけた。……三十両と言いてえところだが、もともとウントネタだ。いさぎよくまけっちまえ。ひとの命を十両で売ったと思えば寝ざめがわるいが、大義親を滅す、さ。一旦志をたてて、日金貸しとひっ組んだ以上は、この位の覚悟はいるだろうさ。（乾のほうへふりかえると）おい、おい、そんなに堀のほうばかり見てるな。すこし、こっちを向け。……（あたりを見まわして）まるでこりゃ<span type="ruby"><span type="rb">生世話物</span><span type="rp">（</span><span type="rt">きぜわもの</span><span type="rp">）</span></span>だな。……<span type="ruby"><span type="rb">上手</span><span type="rp">（</span><span type="rt">かみて</span><span type="rp">）</span></span>はおあつらえむきの葦原、下手は土手場で木場につづくこころ、か……。木魚がはいって、合方が<span rend="sesame_dot" rendition="em">禅のつとめ</span>とくれあ、こりゃあ本イキだ。四手網にからんであがってくるのは血染の衣裳……。そういえば、だいぶ暮れてきたな。……おい、乾、そんな凄い面をするな。だまっていねえで、なんとか言え。……貴公もようやく念願を達するんだ。すこしはしゃげよ、おい！」<lb />
+「まけた。……三十両と言いてえところだが、もともとウントネタだ。いさぎよくまけっちまえ。ひとの命を十両で売ったと思えば寝ざめがわるいが、大義親を滅す、さ。一旦志をたてて、日金貸しとひっ組んだ以上は、この位の覚悟はいるだろうさ。（乾のほうへふりかえると）おい、おい、そんなに堀のほうばかり見てるな。すこし、こっちを向け。……（あたりを見まわして）まるでこりゃ<seg type="ruby"><seg type="rb">生世話物</seg><seg type="rp">（</seg><seg type="rt">きぜわもの</seg><seg type="rp">）</seg></seg>だな。……<seg type="ruby"><seg type="rb">上手</seg><seg type="rp">（</seg><seg type="rt">かみて</seg><seg type="rp">）</seg></seg>はおあつらえむきの葦原、下手は土手場で木場につづくこころ、か……。木魚がはいって、合方が<seg rend="sesame_dot" rendition="em">禅のつとめ</seg>とくれあ、こりゃあ本イキだ。四手網にからんであがってくるのは血染の衣裳……。そういえば、だいぶ暮れてきたな。……おい、乾、そんな凄い面をするな。だまっていねえで、なんとか言え。……貴公もようやく念願を達するんだ。すこしはしゃげよ、おい！」<lb />
 　乾は背中を丸くして煙草を吸いつけながら、<lb />
 「念願だか、念仏だかわかりゃしませんよ。そんなものがあがってきたらお慰みさ」<lb />
 「出ねえと知って無駄骨を折るいんちきもないもんだ。出ねえと知って……」<lb />
 「はじめっから、とんちきを承知でやってる仕事だ。……妄執てなあこのことですよ。こいつが晴れないと浮かばれないんだ。……（ジロリと西貝を見ると）あんたにも多少の怨がかかってるんですぜ」<lb />
 　と、いった。西貝はピクピクと頬をひきつらせて、うつむいてしまった。しばらくの後、顔をあげると、<lb />
 「乾老、おれは自白する」<lb />
-　といって、頭をさげた。乾は、瞬間、西貝を<span type="ruby"><span type="rb">瞶</span><span type="rp">（</span><span type="rt">みつ</span><span type="rp">）</span></span>めたのち、<lb />
+　といって、頭をさげた。乾は、瞬間、西貝を<seg type="ruby"><seg type="rb">瞶</seg><seg type="rp">（</seg><seg type="rt">みつ</seg><seg type="rp">）</seg></seg>めたのち、<lb />
 「なんです、急に……。どうしたんです、西貝さん……」<lb />
 　口調にもかかわらず、べつに驚いたようすもなかった。<lb />
 「僕は絲満が殺された夜の一時ごろ、たしかに〈那覇〉まで出かけた……しかし、天地神明に誓って、殺したのはおれじゃない。これだけは信じてくれ」<lb />
 　乾は返事をしなかった。西貝は急きこんで、<lb />
-「……あの晩、演舞場を出たのが十一時ちかく。二三軒はしごをかけて、新橋〈たこ田〉でまたのみなおしているうちに、その朝受取った、れいの〈遺産相続通知〉の手紙を思いだした。……酔っていたせいもあったろうが、いったん考えだすと、とめ途もないんだな。……馬鹿馬鹿しいが、そのときは、何万……という遺産が、小生のふところへころがりこむように思われてきたんだ……。昂奮したね。こんな気持で、とても明日までなんぞ待っていられない。……よし、これからすぐ乗込んでいって埓をあけてやろう……。あわてふためいて、枝川町までタキシを飛ばした。……むこうへ着いたときは、ちょうど一時十分だった。二階の雨戸があいて、ぼんやり電気の光がもれていた。……小生は勢いこんで戸口までいったが……、（悚えるような眼つきをして）戸口まで行ったが、どうしても把手に手をかける気がしない……、どういうわけか、凄くて、怖くて、どうしてもはいる気がしない。……そのうちに、意地にも我慢にもやりきれなくなって、平久町まで駆け戻って、あそこから<span type="ruby"><span type="rb">洲崎</span><span type="rp">（</span><span type="rt">ベニス</span><span type="rp">）</span></span>の灯を見ると、ようやく人心地がついた。……今にして思えば、多分あのころは、内部じゃ殺しの真最中だったんだろう。……ありていに申しあげると、こういうわけなんだ。嘘も……偽りもない。……どうか妄執を晴らして……小生だけは、助けてくれ……」<lb />
+「……あの晩、演舞場を出たのが十一時ちかく。二三軒はしごをかけて、新橋〈たこ田〉でまたのみなおしているうちに、その朝受取った、れいの〈遺産相続通知〉の手紙を思いだした。……酔っていたせいもあったろうが、いったん考えだすと、とめ途もないんだな。……馬鹿馬鹿しいが、そのときは、何万……という遺産が、小生のふところへころがりこむように思われてきたんだ……。昂奮したね。こんな気持で、とても明日までなんぞ待っていられない。……よし、これからすぐ乗込んでいって埓をあけてやろう……。あわてふためいて、枝川町までタキシを飛ばした。……むこうへ着いたときは、ちょうど一時十分だった。二階の雨戸があいて、ぼんやり電気の光がもれていた。……小生は勢いこんで戸口までいったが……、（悚えるような眼つきをして）戸口まで行ったが、どうしても把手に手をかける気がしない……、どういうわけか、凄くて、怖くて、どうしてもはいる気がしない。……そのうちに、意地にも我慢にもやりきれなくなって、平久町まで駆け戻って、あそこから<seg type="ruby"><seg type="rb">洲崎</seg><seg type="rp">（</seg><seg type="rt">ベニス</seg><seg type="rp">）</seg></seg>の灯を見ると、ようやく人心地がついた。……今にして思えば、多分あのころは、内部じゃ殺しの真最中だったんだろう。……ありていに申しあげると、こういうわけなんだ。嘘も……偽りもない。……どうか妄執を晴らして……小生だけは、助けてくれ……」<lb />
 　本気か冗談か、手を合せた。乾はニヤリと笑って、<lb />
 「知ってるよ。……ひとが悪いようだが、大体は知ってたんです。……でもねえ、あんたの口からきいて見ないことにゃ……」<lb />
 　と、いいながら、堀のほうへ眼を移した。途端、なにを見たのか、うむ、と息をひいた。<lb />
 　ひきあげた四手網の目から、ポタポタと滴がたれる。網のなかに、丸く束ねたぼろ布のようなものがはいっていた。<lb />
 「オーイ、旦那ア、なんか出たぜえ」<lb />
 　腐ったようなシャツを着た白髪頭のルンペンが、それを両手にかかえて岸のほうへ駆けてきた。<lb />
-　念いりにくくった針金をといて、地面のうえにひろげる。地色はもうわからないが、<span type="ruby"><span type="rb">支那縮緬</span><span type="rp">（</span><span type="rt">クレープ・ド・シン</span><span type="rp">）</span></span>の女の服だった。そのなかに富士絹の白い下着。棒きれの先でひろげて見ると、地図をかいたように血の汚点がべっとりとついていた。<lb />
+　念いりにくくった針金をといて、地面のうえにひろげる。地色はもうわからないが、<seg type="ruby"><seg type="rb">支那縮緬</seg><seg type="rp">（</seg><seg type="rt">クレープ・ド・シン</seg><seg type="rp">）</seg></seg>の女の服だった。そのなかに富士絹の白い下着。棒きれの先でひろげて見ると、地図をかいたように血の汚点がべっとりとついていた。<lb />
 　乾はつくづくと検分すると、妙にとりすまして、いった。<lb />
 「おい、おやじ、これをもとのようにくくって、いまのところへ沈めてくれ」<lb />
 「えっ、また沈めるんですか」<lb />
@@ -1105,10 +1105,10 @@
 「へえ、ご尤も……」<lb />
 　もとのように石をつめてくくられると、着物はまた溜堀の水の中へ沈んでいった。急に暮れかけてきて、うす闇のなかで、西貝の煙草の火が赤く光りはじめた。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi90">９</span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi90">９</seg></seg></seg>
 <lb />
 　秋風がふく。<lb />
-　狭すぎる新宿の通りを、めっきり<span type="ruby"><span type="rb">黝</span><span type="rp">（</span><span type="rt">くろず</span><span type="rp">）</span></span>んできた人のながれが淀みながら動いていた。ひとすじは角筈の歩道を下り、ひとすじは三越の横から吉本ショウのほうへ曲って、けっきょく駅のなかへ流れこんでしまう。新宿は憂いあるひとの故郷ではない。このなかへ自分をかくすことも、このなかで悲しみを忘れることも出来ない。新宿は、浅草がするようにひとを抱いたりしない。用をすましたら、さっさと出てゆかなくてはならない。新宿は近代的な<span type="ruby"><span type="rb">立て場</span><span type="rp">（</span><span type="rt">ルレエ</span><span type="rp">）</span></span>にすぎないのだ。<lb />
+　狭すぎる新宿の通りを、めっきり<seg type="ruby"><seg type="rb">黝</seg><seg type="rp">（</seg><seg type="rt">くろず</seg><seg type="rp">）</seg></seg>んできた人のながれが淀みながら動いていた。ひとすじは角筈の歩道を下り、ひとすじは三越の横から吉本ショウのほうへ曲って、けっきょく駅のなかへ流れこんでしまう。新宿は憂いあるひとの故郷ではない。このなかへ自分をかくすことも、このなかで悲しみを忘れることも出来ない。新宿は、浅草がするようにひとを抱いたりしない。用をすましたら、さっさと出てゆかなくてはならない。新宿は近代的な<seg type="ruby"><seg type="rb">立て場</seg><seg type="rp">（</seg><seg type="rt">ルレエ</seg><seg type="rp">）</seg></seg>にすぎないのだ。<lb />
 　久我が二幸の横の食傷新道から出てきた。人波に逆いながら〈高野〉の前までくると、急に足をとめてそこの飾窓を覗きこんだ。明るい照明のなかで、いろいろなたべものが忌々しいほど鮮やかな色して並んでいた。<lb />
 　久我は昨日の昼からなにも喰べていなかった。胃酸が胃壁を喰いはじめている。そのへんが燃えるようだった。いま掌に五十銭銀貨をひとつ握っている。無意識になかへ入って行こうとした。……しかし、葵もやはり昨日から喰べていないのだ。窓から身体をひき剥すと、またのろのろと三丁目のほうへ歩きだした。<lb />
 　乾のところへ穂高ゆきの旅費を借りに行って、いま、けんもほろろに断わられてきたところだった。あんな得体のしれない女と同棲している男に信用貸など出来るものか。別れてきたら用達てましょう。ま、当座のご用に、といって五十銭玉をひとつ差しだした。乾だけがめあてだったので、眼が眩むような気がした。<lb />
@@ -1116,7 +1116,7 @@
 　十年前は〈トムトム〉の同人として活発な運動をつづけていた。支那へ行って放浪生活をはじめてからは、おいおい何ものにも興味を失って、いつの間にか運動から離れ、仕事らしい仕事はなにひとつせずに暮していた。この十年間に彼が得たものといえば、無為のみが人間の精神を自由にする、というアフォリズムだけだった。日本へ帰って来たのは、勿論望郷の念などによるのではなく、変った土地へ行って見ようと思ったのにすぎない。<lb />
 　大阪へつくと、その夜、まるで宿命説のように過去の因縁に逢着した。むかしの同志、石原と中村が、合同後の党資金を獲得するために銀行襲撃を計画していた。久我は大阪の事情に通じていたので、勢い企画に参加することになった。が、これとても明確な意志があったわけではない。むしろ、懶惰のゆえである。<lb />
 　この計画は失敗し、久我は東京へ逃げた。上海で買った偽造の警察手帳が、この逃走に非常な便利をあたえた。東京には思いがけない二つの事件が彼を待ちかまえていた。殺人と恋愛と……。そして、彼は結婚した。<lb />
-　働くな、それは精神の自由をころす。久我にとっては、無為は強烈な生活意志の対象であった。彼がひとりの間は、なるほどそれは彼の精神を開放し、自在に自由美の園を逍遙させてくれたが、結婚してからは、せっかくのアフォリズムも妻を苦しめるだけにしか役立たなくなってしまった。現に彼女は、彼の身勝手な<span type="ruby"><span type="rb">主張</span><span type="rp">（</span><span type="rt">テーゼ</span><span type="rp">）</span></span>のおかげで、二人分の労苦を背負って喘いでいるのである。<lb />
+　働くな、それは精神の自由をころす。久我にとっては、無為は強烈な生活意志の対象であった。彼がひとりの間は、なるほどそれは彼の精神を開放し、自在に自由美の園を逍遙させてくれたが、結婚してからは、せっかくのアフォリズムも妻を苦しめるだけにしか役立たなくなってしまった。現に彼女は、彼の身勝手な<seg type="ruby"><seg type="rb">主張</seg><seg type="rp">（</seg><seg type="rt">テーゼ</seg><seg type="rp">）</seg></seg>のおかげで、二人分の労苦を背負って喘いでいるのである。<lb />
 　ときどきこの自覚が、深いところに昏睡している彼のたましいを揺りうごかす。すると久我は、そのたびにむっくりはね起きて、こうしてもいられないと呟き、あてもなく、セカセカと町を歩きまわるのだった。生活のことばかりではない。どういう事情があったのか、葵は絲満を殺している。なんとかして逃がさなければならないのだ。<lb />
 　二月まえに葵をつれて神戸へ行ったのは、そこで石原らとおちあって、いっしょに上海へ逃走するつもりだったのである。ところが、久我が神戸へ着く五時間前に、石原が名古屋で捕まり、仲間といっしょに上海へ逃げるつもりだったと自供したので、支那へ行く道は全部閉鎖されてしまった。そのうちに神戸にいることも危険になったので、また東京へ戻ってきた。<lb />
 　ひところは、警視庁の捜査一課でも全く匙をなげてしまい、絲満事件はこれで永久に迷宮入りするかに見えたが、最近になって情勢はにわかに険悪になってきた。検挙の手はもう葵の襟元にせまっている。一刻も躊躇していられない場合になった。葵を逃がすためには金がいるのだが、まるっきりその方策がつかないのである。<lb />
@@ -1124,8 +1124,8 @@
 　久我の肩にだれか、そっと手をおいた。<lb />
 　反射的に衣嚢の拳銃に手をかけて、キッとそのほうへふりむいた。<lb />
 　日本人ばなれのした、十八九の眼の窪んだ娘が、ラグラン袖のブラウスを秋風にふくらませ、鶴のように片足で立っていた。久我の顔を見ると、小馬鹿にしたように片眼をつぶって、<lb />
-「あたし、毎日あなたのあとを<span type="ruby"><span type="rb">尾行</span><span type="rp">（</span><span type="rt">つけ</span><span type="rp">）</span></span>ていたのよ。……知ってた？」<lb />
-　久我はきびしく眉をよせながら娘の顔を見つめた。〈シネラリヤ〉へはじめて葵をたずねて行った晩、しきりに久我にからみついた鮭色のソワレだ。それから、尼ヶ崎でいちど見たことがある。……たしか、<span type="ruby"><span type="rb">鶴</span><span type="rp">（</span><span type="rt">チル</span><span type="rp">）</span></span>とかいった娘だ。<lb />
+「あたし、毎日あなたのあとを<seg type="ruby"><seg type="rb">尾行</seg><seg type="rp">（</seg><seg type="rt">つけ</seg><seg type="rp">）</seg></seg>ていたのよ。……知ってた？」<lb />
+　久我はきびしく眉をよせながら娘の顔を見つめた。〈シネラリヤ〉へはじめて葵をたずねて行った晩、しきりに久我にからみついた鮭色のソワレだ。それから、尼ヶ崎でいちど見たことがある。……たしか、<seg type="ruby"><seg type="rb">鶴</seg><seg type="rp">（</seg><seg type="rt">チル</seg><seg type="rp">）</seg></seg>とかいった娘だ。<lb />
 　鶴はいかにもうれしくてたまらないという風に笑いだしながら、<lb />
 「……ほらね、知らなかったんでしょう。うれしいわ。……ふむ、でも、こんなところに突っ立ってないで歩きだしましょうよ。……あたし、すこし話があるのよ。（といって久我の手をとると、勝手なほうへずんずん歩きだした）あたし、あなたのしたことなんでも知っててよ」<lb />
 「なんで、僕のあとなどついて歩く？」<lb />
@@ -1140,14 +1140,14 @@
 「ありがたいが、……君に喰べさせてもらうわけはないさ」<lb />
 「いや、借がある。……〈シネラリヤ〉にいたとき、チップくれたわね。そのつぎに来たとき、またくれたわね。……それを返すのよ。……さあ、歩けったら、歩かないと、……蹴っとばすから！」<lb />
 　むやみに引っぱって、〈北京〉という中華飯店へつれこんだ。<lb />
-　夕食時にすこし間があるので、店のなかには人影がなく、紫檀の<span type="ruby"><span type="rb">食飯卓</span><span type="rp">（</span><span type="rt">チャプントオ</span><span type="rp">）</span></span>の上でひっそりと白菊が薫っていた。<lb />
+　夕食時にすこし間があるので、店のなかには人影がなく、紫檀の<seg type="ruby"><seg type="rb">食飯卓</seg><seg type="rp">（</seg><seg type="rt">チャプントオ</seg><seg type="rp">）</seg></seg>の上でひっそりと白菊が薫っていた。<lb />
 　鶴はあれこれと食物の世話をやき、たくさん、たくさん食べてちょうだい、と、まるで祷るように、いくども幾度もくりかえすのだった。久我が食べはじめると、こんどは両手で顎を支えながら、その顔を穴のあくほど見つめていた。やがて、藪から棒にいった。<lb />
 「東京からどこかへ行ってしまってちょうだい。どこでもいいから、早く逃げてちょうだい。お願いだから」<lb />
 　箸をやすめると、すこし顔をひきしめて、<lb />
 「なぜ逃げなきゃならないの？」<lb />
 「あとでわかるから……穂高はだめ。上海か青島か、なるだけ遠いところへ……」<lb />
 「穂高？　どうしてそんな事を……」<lb />
-「だから、毎日あとを<span type="ruby"><span type="rb">尾行</span><span type="rp">（</span><span type="rt">つけ</span><span type="rp">）</span></span>てるって言ってるじゃないの。……（手提のなかから白い分厚な封筒をとりだすと、それを久我のほうへ押しやって）このなかに三百円はいってるんだ。だから、これを……」<lb />
+「だから、毎日あとを<seg type="ruby"><seg type="rb">尾行</seg><seg type="rp">（</seg><seg type="rt">つけ</seg><seg type="rp">）</seg></seg>てるって言ってるじゃないの。……（手提のなかから白い分厚な封筒をとりだすと、それを久我のほうへ押しやって）このなかに三百円はいってるんだ。だから、これを……」<lb />
 　それをおし戻して、<lb />
 「こんな世話になるわけはない」<lb />
 「でも、借りるあてがないのでしょう」<lb />
@@ -1162,7 +1162,7 @@
 　うるんだような眼をしていた。<lb />
 <lb />
 「おい！」<lb />
-　久我が低い声で呼ぶと、草のなかから山瀬が、むっくりと起きあがった。明治製菓の北裏の、この辺で射的場といっている原っぱだった。久我が草の上へ紙づつみをひろげた。そのなかに葡萄パンが五つはいっていた。山瀬はそれをとりあげると、あわてたように口へ押しこんだ。<span type="ruby"><span type="rb">削痩</span><span type="rp">（</span><span type="rt">さくそう</span><span type="rp">）</span></span>した頬に夕陽があたって、動くたびにそこが鉛色に光った。<lb />
+　久我が低い声で呼ぶと、草のなかから山瀬が、むっくりと起きあがった。明治製菓の北裏の、この辺で射的場といっている原っぱだった。久我が草の上へ紙づつみをひろげた。そのなかに葡萄パンが五つはいっていた。山瀬はそれをとりあげると、あわてたように口へ押しこんだ。<seg type="ruby"><seg type="rb">削痩</seg><seg type="rp">（</seg><seg type="rt">さくそう</seg><seg type="rp">）</seg></seg>した頬に夕陽があたって、動くたびにそこが鉛色に光った。<lb />
 「うまい……」<lb />
 　久我の顔を見あげて微笑すると、ピクピク肩をふるわせながら、またうつ向いていっしんに喰べつづけた。ときどきグッと喉をつまらせては苦しそうに涙を流した。野良犬がものを喰べているようだった。この容貌魁偉な大男がこんなようすをしているのは、なにか一種のはかなさがあった。<lb />
 　久我が、いった。<lb />
@@ -1171,34 +1171,34 @@
 「かまやせん。もう当分逢えないかも知れないから、お互いに、言いたいことを言おう。心残りのないように。……それはどんな事か」<lb />
 　久我は苦笑して、<lb />
 「下らないと思うだろうが、実はあの晩、僕は女装して〈那覇〉へ出かけているんだ」<lb />
-「つまり<span type="ruby"><span type="rb">応化</span><span type="rp">（</span><span type="rt">アタプテーション</span><span type="rp">）</span></span>だな。……どうして、なかなか適切だよ」<lb />
-「まあ、そう言うな。はじめからそんな気でやったわけじゃないんだ。その晩ホテルに<span type="ruby"><span type="rb">舞踏会</span><span type="rp">（</span><span type="rt">パーティ</span><span type="rp">）</span></span>があってね、なるたけ仮装してくれというから、ホテルの<span type="ruby"><span type="rb">婢</span><span type="rp">（</span><span type="rt">マグド</span><span type="rp">）</span></span>に女の服を借りてもらって、それを着て会へ出たんだ。十二時ちかくに部屋へ帰ろうと思って、<span type="ruby"><span type="rb">帳場</span><span type="rp">（</span><span type="rt">コントール</span><span type="rp">）</span></span>で久我の部屋の鍵をというと、番頭が、久我さんでしたら夕方からずっとお部屋においでになります。ご用でしたらご都合を伺ってみましょうか、というんだ。……なるほど、鍵は僕が持っていた。妙な気がした。むらむらと冒険心が起きてきた。……さっきも言ったようにもう二時間もすれば〈那覇〉というところで、なにか犯罪がおきる。これを予知しているのは〈通知〉の告知人と僕だけだ。<span type="ruby"><span type="rb">不在証明</span><span type="rp">（</span><span type="rt">アリバイ</span><span type="rp">）</span></span>はこの通り自然発生的に成立している。会は三時頃までやっているはずだからそれ迄に帰ってくればいい。……よし、行ってやれ。その家の前で待っていれば何が起きるかわかるだろう。ひょっとして金でも持って出てきたら、僕の警察手帳にものを言わせて、横合いからそいつを略奪してやるつもりだったんだ。……いや、もうお寝みだろうから、また明日くる、といってホテルを飛びだした。洲崎のおでん屋で二時すぎまで飲んで、それから〈那覇〉へ出かけた。すじ向いの古軌条置場のかげに隠れて待っていたが、いつまでたっても何事もはじまらない、<span type="ruby"><span type="rb">痺</span><span type="rp">（</span><span type="rt">しび</span><span type="rp">）</span></span>れをきらして、そっと〈那覇〉へはいりこんだ。二階に部屋がある。手さぐりで入ってゆくと、途端になにかにつまずいて転倒した。スイッチをおして見ると、五十位の大男がやられている。……たちまち、僕の<span type="ruby"><span type="rb">状態</span><span type="rp">（</span><span type="rt">シチュエシオン</span><span type="rp">）</span></span>は非常に危険なものになった。……女装している。胸から手から血だらけだ。間もなく夜が明ける。……それに、あの辺の地理的条件は僕のような脱走兵にとってはほとんど致命的だ。出口を塞がれた完全な袋小路だ。こんな恰好であの島から脱け出すには、たしかに一種の天才がいる。……あと始末を充分にして戸外へ出る。蛤橋のほうへ行こうとすると、果して向うから巡査がやってきた。もう一方の白鷺橋の橋詰には交番がある。……物蔭へはいって、どっかりとあぐらをかいた。すこし、頭を飛躍させるためだ。……いったい、いま僕を危険にしている条件は何んだ。ひとつは僕が血のついた女の着物をきていることで、ひとつは橋詰に交番のある橋を渡らなければならないことだ。……一見、これらの条件は絶対に避けられないように見える。しかし、すこし頭を転回して見ると、危険はそれらの条件にあるのではなくて、どうしても橋を渡らなければならないという観念から離れられないところにあるのだ。服をぬいでそこの溜堀へ沈めた。そろそろと堀を泳ぎ渡って、弁天町の貸船屋の近所へあがった。そこに腐ったような袢纒がかけ流してある。麻裏もある。そいつを引っかけて突っ立っていたらタキシが寄ってきた。ホテルへ帰って見ると、予期したようにみながまだ騒いでいて……」<lb />
+「つまり<seg type="ruby"><seg type="rb">応化</seg><seg type="rp">（</seg><seg type="rt">アタプテーション</seg><seg type="rp">）</seg></seg>だな。……どうして、なかなか適切だよ」<lb />
+「まあ、そう言うな。はじめからそんな気でやったわけじゃないんだ。その晩ホテルに<seg type="ruby"><seg type="rb">舞踏会</seg><seg type="rp">（</seg><seg type="rt">パーティ</seg><seg type="rp">）</seg></seg>があってね、なるたけ仮装してくれというから、ホテルの<seg type="ruby"><seg type="rb">婢</seg><seg type="rp">（</seg><seg type="rt">マグド</seg><seg type="rp">）</seg></seg>に女の服を借りてもらって、それを着て会へ出たんだ。十二時ちかくに部屋へ帰ろうと思って、<seg type="ruby"><seg type="rb">帳場</seg><seg type="rp">（</seg><seg type="rt">コントール</seg><seg type="rp">）</seg></seg>で久我の部屋の鍵をというと、番頭が、久我さんでしたら夕方からずっとお部屋においでになります。ご用でしたらご都合を伺ってみましょうか、というんだ。……なるほど、鍵は僕が持っていた。妙な気がした。むらむらと冒険心が起きてきた。……さっきも言ったようにもう二時間もすれば〈那覇〉というところで、なにか犯罪がおきる。これを予知しているのは〈通知〉の告知人と僕だけだ。<seg type="ruby"><seg type="rb">不在証明</seg><seg type="rp">（</seg><seg type="rt">アリバイ</seg><seg type="rp">）</seg></seg>はこの通り自然発生的に成立している。会は三時頃までやっているはずだからそれ迄に帰ってくればいい。……よし、行ってやれ。その家の前で待っていれば何が起きるかわかるだろう。ひょっとして金でも持って出てきたら、僕の警察手帳にものを言わせて、横合いからそいつを略奪してやるつもりだったんだ。……いや、もうお寝みだろうから、また明日くる、といってホテルを飛びだした。洲崎のおでん屋で二時すぎまで飲んで、それから〈那覇〉へ出かけた。すじ向いの古軌条置場のかげに隠れて待っていたが、いつまでたっても何事もはじまらない、<seg type="ruby"><seg type="rb">痺</seg><seg type="rp">（</seg><seg type="rt">しび</seg><seg type="rp">）</seg></seg>れをきらして、そっと〈那覇〉へはいりこんだ。二階に部屋がある。手さぐりで入ってゆくと、途端になにかにつまずいて転倒した。スイッチをおして見ると、五十位の大男がやられている。……たちまち、僕の<seg type="ruby"><seg type="rb">状態</seg><seg type="rp">（</seg><seg type="rt">シチュエシオン</seg><seg type="rp">）</seg></seg>は非常に危険なものになった。……女装している。胸から手から血だらけだ。間もなく夜が明ける。……それに、あの辺の地理的条件は僕のような脱走兵にとってはほとんど致命的だ。出口を塞がれた完全な袋小路だ。こんな恰好であの島から脱け出すには、たしかに一種の天才がいる。……あと始末を充分にして戸外へ出る。蛤橋のほうへ行こうとすると、果して向うから巡査がやってきた。もう一方の白鷺橋の橋詰には交番がある。……物蔭へはいって、どっかりとあぐらをかいた。すこし、頭を飛躍させるためだ。……いったい、いま僕を危険にしている条件は何んだ。ひとつは僕が血のついた女の着物をきていることで、ひとつは橋詰に交番のある橋を渡らなければならないことだ。……一見、これらの条件は絶対に避けられないように見える。しかし、すこし頭を転回して見ると、危険はそれらの条件にあるのではなくて、どうしても橋を渡らなければならないという観念から離れられないところにあるのだ。服をぬいでそこの溜堀へ沈めた。そろそろと堀を泳ぎ渡って、弁天町の貸船屋の近所へあがった。そこに腐ったような袢纒がかけ流してある。麻裏もある。そいつを引っかけて突っ立っていたらタキシが寄ってきた。ホテルへ帰って見ると、予期したようにみながまだ騒いでいて……」<lb />
 　山瀬が、むっつりと口をはさんだ。<lb />
 「しかし、そんなことを俺がきいても仕様がないな。……いったい、君が話したいということはなんだ」<lb />
 　ちょっと間をおいて、<lb />
-「じつは絲満をやったのは僕の<span type="ruby"><span type="rb">妻</span><span type="rp">（</span><span type="rt">フラウ</span><span type="rp">）</span></span>なんだ」<lb />
+「じつは絲満をやったのは僕の<seg type="ruby"><seg type="rb">妻</seg><seg type="rp">（</seg><seg type="rt">フラウ</seg><seg type="rp">）</seg></seg>なんだ」<lb />
 　山瀬は、まるで聞いていなかったように、冷然と空を眺めていた。久我はすこし早口になって、<lb />
 「つぎの朝、巡査といっしょに二階へ上って行った。ふと見ると、血だまりのなかに女の服の釦が落ちている。しまったと思った。隙を見て拾ってポケットへ入れた。しかし、しらべて見ると、僕の服の地色とちがう。……葵の服にそれとよく似た色のものがある。そっとあてがって見たら、まぎれもなくその服から落ちたものだということがわかった。しかも葵はその夜一時頃、非常梯子をつたって自分のアパートから抜けだしているんだ。……現象的に見て、葵がやったと思うほかはないのだ」<lb />
 「うん、わかった。それで、なにを言うつもりか」<lb />
-「……衣裳屋へ服を借りに行った女が、いま盛んに追求されている。ホテルの<span type="ruby"><span type="rb">婢</span><span type="rp">（</span><span type="rt">マグド</span><span type="rp">）</span></span>はまだ何も言ってないらしいが、いずれやり切れなくなって自首するだろう。……僕が捕えられるのはもう時間の問題だ。僕は殺っていない。だからこそ、葵のために僕は捕ってはならないのだ。どんなことがあっても二人で逃げとおすつもりだ。……僕の友人が穂高にいる。そこまで行けば、多少まとまった金が手にはいる。それで小樽までゆく。小樽から青島へ行く貨物船の定期航路があるはずだからそれで青島までゆく。あとはなんとかなるつもりだ」<lb />
+「……衣裳屋へ服を借りに行った女が、いま盛んに追求されている。ホテルの<seg type="ruby"><seg type="rb">婢</seg><seg type="rp">（</seg><seg type="rt">マグド</seg><seg type="rp">）</seg></seg>はまだ何も言ってないらしいが、いずれやり切れなくなって自首するだろう。……僕が捕えられるのはもう時間の問題だ。僕は殺っていない。だからこそ、葵のために僕は捕ってはならないのだ。どんなことがあっても二人で逃げとおすつもりだ。……僕の友人が穂高にいる。そこまで行けば、多少まとまった金が手にはいる。それで小樽までゆく。小樽から青島へ行く貨物船の定期航路があるはずだからそれで青島までゆく。あとはなんとかなるつもりだ」<lb />
 　山瀬は起きあがって草の上にあぐらをかくと、微笑をうかべながら、<lb />
-「君がなにを言いたいのか、よく判ったよ。……俺に言わせると、危険なのは君の<span type="ruby"><span type="rb">情況</span><span type="rp">（</span><span type="rt">シチュエシヨン</span><span type="rp">）</span></span>でなくて君が本気で<span type="ruby"><span type="rb">細君</span><span type="rp">（</span><span type="rt">フラウ</span><span type="rp">）</span></span>を愛しはじめたことなんだ。君がひとりで逃げようとするなら、それは実に易々たる問題なんだからな。……むかし、<span type="ruby"><span type="rb">虚無</span><span type="rp">（</span><span type="rt">ニヒル</span><span type="rp">）</span></span>の向うに何があるかという幼稚な議論をしたことがあったな。……君は虚無の向うに虚無の深淵だけだ、といった。僕は虚無の向うに愛がある、といった覚えがある。……覚えているか」<lb />
+「君がなにを言いたいのか、よく判ったよ。……俺に言わせると、危険なのは君の<seg type="ruby"><seg type="rb">情況</seg><seg type="rp">（</seg><seg type="rt">シチュエシヨン</seg><seg type="rp">）</seg></seg>でなくて君が本気で<seg type="ruby"><seg type="rb">細君</seg><seg type="rp">（</seg><seg type="rt">フラウ</seg><seg type="rp">）</seg></seg>を愛しはじめたことなんだ。君がひとりで逃げようとするなら、それは実に易々たる問題なんだからな。……むかし、<seg type="ruby"><seg type="rb">虚無</seg><seg type="rp">（</seg><seg type="rt">ニヒル</seg><seg type="rp">）</seg></seg>の向うに何があるかという幼稚な議論をしたことがあったな。……君は虚無の向うに虚無の深淵だけだ、といった。僕は虚無の向うに愛がある、といった覚えがある。……覚えているか」<lb />
 　久我は山瀬の顔を見つめながら、激したような声で、<lb />
 「よく覚えている。中村君、僕ははじめ……」<lb />
 　山瀬は手をあげて遮りながら、<lb />
 「君の恋愛の告白なんかきいても仕様がない。それは、よせ。……それで、穂高までどうしてゆくか。そんな切迫しているのに東京を抜けだす自信があるか」<lb />
 　久我が昂然と言いはなった。<lb />
-「ある。……自信ではない。意志だ。……それに、僕はいま<span type="ruby"><span type="rb">頓悟</span><span type="rp">（</span><span type="rt">イリルミナシオン</span><span type="rp">）</span></span>を得た。旅費にこだわっているから動けないのだ。歩くつもりなら融通無碍だ。僕は歩いてゆく。……どこまでも歩いてゆく」<lb />
+「ある。……自信ではない。意志だ。……それに、僕はいま<seg type="ruby"><seg type="rb">頓悟</seg><seg type="rp">（</seg><seg type="rt">イリルミナシオン</seg><seg type="rp">）</seg></seg>を得た。旅費にこだわっているから動けないのだ。歩くつもりなら融通無碍だ。僕は歩いてゆく。……どこまでも歩いてゆく」<lb />
 　山瀬は憐れむように、ちらりと久我の顔を見かえすと、うつむいて黙然と煙草を喫いだした。霧がおりてきた。<lb />
 <lb />
 　葵が憔悴した様子で自分の部屋へ帰ってきた。着物もぬがずに寝床の上へ横になった。壁のうえで夕映えが少しずつ薄れかけていた……<lb />
 　葵が乾の家へゆくと、乾は二階の部屋で丹念に小刀を使いながら花台の脚を修繕していた。山瀬という軍人のような見かけの男と久我とが逢っているのを知らしてくれたら、旅費の五十円を貸そうという約束だったので、いそいで知らせに行ったのだった。いま、二人で大久保の射的場のほうへ行った、と告げると、乾はいつものように額をにらむようにしてなにか考えていたが、やがてニヤニヤ笑いながら葵のほうへ近よってきた。その笑いに、なにかぞっとするようないやらしさがあった。いつもとすこしようすがちがっていた。<lb />
-　葵は力のかぎり反抗した。が、突然強く寝台に投げつけられて軽い<span type="ruby"><span type="rb">眩暈</span><span type="rp">（</span><span type="rt">めまい</span><span type="rp">）</span></span>をおこしているうちに、もう身動きが出来ないようになっていた。乾の身体を押しのけようともがいたが、手が萎えたようになって、てんで力がはいらないのだった。ゆるしてください、それだけは、ゆるしてください、と<span type="ruby"><span type="rb">譫言</span><span type="rp">（</span><span type="rt">うわごと</span><span type="rp">）</span></span>のように喘えぎつづけるばかりだった。<lb />
+　葵は力のかぎり反抗した。が、突然強く寝台に投げつけられて軽い<seg type="ruby"><seg type="rb">眩暈</seg><seg type="rp">（</seg><seg type="rt">めまい</seg><seg type="rp">）</seg></seg>をおこしているうちに、もう身動きが出来ないようになっていた。乾の身体を押しのけようともがいたが、手が萎えたようになって、てんで力がはいらないのだった。ゆるしてください、それだけは、ゆるしてください、と<seg type="ruby"><seg type="rb">譫言</seg><seg type="rp">（</seg><seg type="rt">うわごと</seg><seg type="rp">）</seg></seg>のように喘えぎつづけるばかりだった。<lb />
 <lb />
 　夕食の仕度がはじまったのだろう。ほうぼうの部屋からしきりに水の流れる音がきこえてきた。葵は眼をとじた。<lb />
 〈世界中の水を使っても、もう自分の穢れを洗い浄めることはできない……〉<lb />
 　だが、穢れるというのはいったいなんのことだろう。よく考えてみたいと思うのだが、頭のなかが空虚になってなにも考えられなかった。肉体にのこっているすこしばかりの痛みのほうが、なにか切実に感じられるのだった。静かな夕暮れだった。<lb />
-　部屋のなかに人のけはいがする。はっとして眼をあけて見ると、戸口に朱砂ハナが立っていた。紫紺の<span type="ruby"><span type="rb">羅</span><span type="rp">（</span><span type="rt">うすもの</span><span type="rp">）</span></span>に白博多の帯という、ひどく小粋ななりをしていた。戸口に立ったまま葵のほうを眺めていたが、すらすらと寄ってくると、<lb />
+　部屋のなかに人のけはいがする。はっとして眼をあけて見ると、戸口に朱砂ハナが立っていた。紫紺の<seg type="ruby"><seg type="rb">羅</seg><seg type="rp">（</seg><seg type="rt">うすもの</seg><seg type="rp">）</seg></seg>に白博多の帯という、ひどく小粋ななりをしていた。戸口に立ったまま葵のほうを眺めていたが、すらすらと寄ってくると、<lb />
 「おや、どうなすったの。気分でも悪いんですか」<lb />
 　ひとがちがうような優しい声でいいながらじろじろと葵の身体を見まわした。葵はなにもかも見すかされるような気がして、思わず身体を起した。<lb />
 「なんでもないの。すこし疲れたから……」<lb />
@@ -1206,24 +1206,24 @@
 　といって、立ってゆくと、そこここと仔細らしく流し元をのぞきこんでから、コップに水を汲んで戻ってきた。葵により添うようにしてかけると、しみじみとした調子で、<lb />
 「ねえ、葵さん、あんた困っているんでしょう。……あたいによく判るのよ。あんたたちこの二三日なにも喰べていないのね」<lb />
 　どうしてそんなことがわかるのか。葵はおどろいて眼をあげた。ハナは大袈裟なためいきをついて、<lb />
-「……苦しむのはいいけれど、すこし<span type="ruby"><span type="rb">悲壮</span><span type="rp">（</span><span type="rt">パセチック</span><span type="rp">）</span></span>ね。どうしようとそれはあんたの勝手でしょうが、なんにしても、感情だけで生活しようというのは、すこし贅沢すぎやしないかしら。……あんたひとりなら、どんな甘えかたをしてもいいでしょうし、生きてる気がないんならそれでも結構。……でも、どうしても生きて行こうというんなら、もっと切実な考え方をなさい。感情だの、道徳だの、習慣だの……そんな甘いことじゃだめ。……悲壮なら悲壮でいいから、もうすこし徹底させて見たらどう？　……（葵の顔をのぞきこむようにして）ねえ葵さん、あんたお客をとって見ない？　……そうよ、もちろんあいつらはけだものよ。<span type="ruby"><span type="rb">否</span><span type="rp">（</span><span type="rt">ノオ</span><span type="rp">）</span></span>、けだものどころか、現象にすぎないのよ。……俄雨にあってずぶ濡れになったって、それがあたいたちの罪でないように、あいつらが非人間であればあるほど、どんな接触の仕方をしたって罪でも穢れでもない。あたいたちが受ける影響は、要するに、知覚だけのことでしかないのよ。……こんな商売をしているけど、あたいは虚栄や慾ばりの手助けをした覚えはなくてよ。すぐれた才能をもちながら、生活のために落伍してゆく同性に、合理的な道をあけてあげるつもりなんです。そのひとたちは喰べることのために時間をとられたりひどく骨を折ったりしてはいけないのね。一日にひとりだけお客をとってあとの時間は全部勉強のために使うようにするがいいんです。……いやなら無理におすすめしないけど、生きてゆくのに偽善なんか何んの役にも立たない、ってことを、いちど、よく考えて見てちょうだい」<lb />
-　窓のない写真屋の暗室のような部屋だった。桃色の覆いをかけた<span type="ruby"><span type="rb">枕電灯</span><span type="rp">（</span><span type="rt">ベッドランプ</span><span type="rp">）</span></span>がなまめかしく寝台を浮きあがらせていた。葵が部屋の真ん中に立っていた。もう、悲しくも恐ろしくもなかった。生きるためには肉体の汚濁ぐらいはもののかずではない。まして、僅かな金のあるなしが、久我の運命を決定しようとしている。それを手にいれるためなら、どんなことでも恐れてはいられないのだ。こういう場合、貞潔をまもるとは、そもそもなんの意味をなすものであろう……<lb />
-　気どったようすで扉があいて、ニッカーを穿いた<span type="ruby"><span type="rb">面皰</span><span type="rp">（</span><span type="rt">にきび</span><span type="rp">）</span></span>だらけの青二才がはいってきた。<span type="ruby"><span type="rb">点火器</span><span type="rp">（</span><span type="rt">ライター</span><span type="rp">）</span></span>をだして金口に火をつけると、<lb />
+「……苦しむのはいいけれど、すこし<seg type="ruby"><seg type="rb">悲壮</seg><seg type="rp">（</seg><seg type="rt">パセチック</seg><seg type="rp">）</seg></seg>ね。どうしようとそれはあんたの勝手でしょうが、なんにしても、感情だけで生活しようというのは、すこし贅沢すぎやしないかしら。……あんたひとりなら、どんな甘えかたをしてもいいでしょうし、生きてる気がないんならそれでも結構。……でも、どうしても生きて行こうというんなら、もっと切実な考え方をなさい。感情だの、道徳だの、習慣だの……そんな甘いことじゃだめ。……悲壮なら悲壮でいいから、もうすこし徹底させて見たらどう？　……（葵の顔をのぞきこむようにして）ねえ葵さん、あんたお客をとって見ない？　……そうよ、もちろんあいつらはけだものよ。<seg type="ruby"><seg type="rb">否</seg><seg type="rp">（</seg><seg type="rt">ノオ</seg><seg type="rp">）</seg></seg>、けだものどころか、現象にすぎないのよ。……俄雨にあってずぶ濡れになったって、それがあたいたちの罪でないように、あいつらが非人間であればあるほど、どんな接触の仕方をしたって罪でも穢れでもない。あたいたちが受ける影響は、要するに、知覚だけのことでしかないのよ。……こんな商売をしているけど、あたいは虚栄や慾ばりの手助けをした覚えはなくてよ。すぐれた才能をもちながら、生活のために落伍してゆく同性に、合理的な道をあけてあげるつもりなんです。そのひとたちは喰べることのために時間をとられたりひどく骨を折ったりしてはいけないのね。一日にひとりだけお客をとってあとの時間は全部勉強のために使うようにするがいいんです。……いやなら無理におすすめしないけど、生きてゆくのに偽善なんか何んの役にも立たない、ってことを、いちど、よく考えて見てちょうだい」<lb />
+　窓のない写真屋の暗室のような部屋だった。桃色の覆いをかけた<seg type="ruby"><seg type="rb">枕電灯</seg><seg type="rp">（</seg><seg type="rt">ベッドランプ</seg><seg type="rp">）</seg></seg>がなまめかしく寝台を浮きあがらせていた。葵が部屋の真ん中に立っていた。もう、悲しくも恐ろしくもなかった。生きるためには肉体の汚濁ぐらいはもののかずではない。まして、僅かな金のあるなしが、久我の運命を決定しようとしている。それを手にいれるためなら、どんなことでも恐れてはいられないのだ。こういう場合、貞潔をまもるとは、そもそもなんの意味をなすものであろう……<lb />
+　気どったようすで扉があいて、ニッカーを穿いた<seg type="ruby"><seg type="rb">面皰</seg><seg type="rp">（</seg><seg type="rt">にきび</seg><seg type="rp">）</seg></seg>だらけの青二才がはいってきた。<seg type="ruby"><seg type="rb">点火器</seg><seg type="rp">（</seg><seg type="rt">ライター</seg><seg type="rp">）</seg></seg>をだして金口に火をつけると、<lb />
 「よう、どうしたい、その後」と、いった。<lb />
 <lb />
-<span rend="jisage_5" rendition="div" style="margin-left: 5em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi100"><span target="ltr">10</span></span></span></span>
+<seg rend="jisage_5" rendition="div" style="margin-left: 5em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi100"><seg rendition="span" style="ltr">10</seg></seg></seg></seg>
 <lb />
 　乾と向きあった眼つきの鋭い男が、ものを言うたびにいちいち顎をしゃくった。<lb />
 「信州たって広いや。……信州のどこだ」<lb />
 「存じませんです」<lb />
 　男は、むっとしたようすで、<lb />
-「なんだ、存じません、存じません。……下手に庇いだですると、気の毒だが君も<span rend="sesame_dot" rendition="em">ひっかけるぜ</span>。……言え、信州のどこだ」<lb />
+「なんだ、存じません、存じません。……下手に庇いだですると、気の毒だが君も<seg rend="sesame_dot" rendition="em">ひっかけるぜ</seg>。……言え、信州のどこだ」<lb />
 　乾は膝に手をおいてうつむいていたが、やがて、顔をあげると、<lb />
 「申しあげます。……が、そのまえに、ひとつ伺いたいことがございます。……久我が殺ったというのはたしかなんですか」<lb />
 「それをきいてどうする」<lb />
-「それを伺ってからでないと、あたしは寝ざめの悪いことになります。ひと月か二月の浅いつきあいだが、友人は友人。充分な証拠があったというのなら止むを得ませんが、そうでないのなら、たとえこのまま<span type="ruby"><span type="rb">拘引</span><span type="rp">（</span><span type="rt">オテアテ</span><span type="rp">）</span></span>をうけても、何事も申しあげかねるんでございます。……しかし、久我が殺ったということなら、知っていることは洗いざらい申しあげるつもりです。……ご承知の通りあの絲満の財産というものは、どの位あったか知りませんが、あんなことさえなければ当然あたしの手へはいっていたはずなんだ。それをむざむざと横合いから攫われたと思うと、あたしは残念で無念でそれ以来今日が日まで、いても立ってもいられない位だったんでございます。……警察なんざ頼みにならない。自分の手でそいつをとっちめてやるつもりで、いろいろ金も使い、ない智恵もしぼって、走り廻ったこともございます。……そういうわけだから、念晴しに、ひとつたしかなところをお明しねがいます。そのかわり……」<lb />
+「それを伺ってからでないと、あたしは寝ざめの悪いことになります。ひと月か二月の浅いつきあいだが、友人は友人。充分な証拠があったというのなら止むを得ませんが、そうでないのなら、たとえこのまま<seg type="ruby"><seg type="rb">拘引</seg><seg type="rp">（</seg><seg type="rt">オテアテ</seg><seg type="rp">）</seg></seg>をうけても、何事も申しあげかねるんでございます。……しかし、久我が殺ったということなら、知っていることは洗いざらい申しあげるつもりです。……ご承知の通りあの絲満の財産というものは、どの位あったか知りませんが、あんなことさえなければ当然あたしの手へはいっていたはずなんだ。それをむざむざと横合いから攫われたと思うと、あたしは残念で無念でそれ以来今日が日まで、いても立ってもいられない位だったんでございます。……警察なんざ頼みにならない。自分の手でそいつをとっちめてやるつもりで、いろいろ金も使い、ない智恵もしぼって、走り廻ったこともございます。……そういうわけだから、念晴しに、ひとつたしかなところをお明しねがいます。そのかわり……」<lb />
 　男はすこしもてあましたようすで、<lb />
-「いいいい、わかったよ。……なにもかもみな<span type="ruby"><span type="rb">判明</span><span type="rp">（</span><span type="rt">ワレ</span><span type="rp">）</span></span>たんだ。<span type="ruby"><span type="rb">服</span><span type="rp">（</span><span type="rt">トビ</span><span type="rp">）</span></span>を借りに行った女というのが南平ホテルの女ボーイだったんで、こいつを<span type="ruby"><span type="rb">訊問</span><span type="rp">（</span><span type="rt">タタイ</span><span type="rp">）</span></span>て見ると、野郎のために借りたというんだな。……野郎<span type="ruby"><span type="rb">女</span><span type="rp">（</span><span type="rt">ビク</span><span type="rp">）</span></span>に化けて行きやがったんだ。なかなか<span type="ruby"><span type="rb">味な</span><span type="rp">（</span><span type="rt">シブイ</span><span type="rp">）</span></span>ことをするじゃないか。あの<span type="ruby"><span type="rb">面</span><span type="rp">（</span><span type="rt">ミカケ</span><span type="rp">）</span></span>で<span type="ruby"><span type="rb">強盗</span><span type="rp">（</span><span type="rt">タタキ</span><span type="rp">）</span></span>をしようたあ、ちょっとだれも気がつかねえからな。……どうもナメた野郎だよ。それで、いままでヌケヌケと東京に<span type="ruby"><span type="rb">暮</span><span type="rp">（</span><span type="rt">アンゴ</span><span type="rp">）</span></span>しているてえんだから……」<lb />
+「いいいい、わかったよ。……なにもかもみな<seg type="ruby"><seg type="rb">判明</seg><seg type="rp">（</seg><seg type="rt">ワレ</seg><seg type="rp">）</seg></seg>たんだ。<seg type="ruby"><seg type="rb">服</seg><seg type="rp">（</seg><seg type="rt">トビ</seg><seg type="rp">）</seg></seg>を借りに行った女というのが南平ホテルの女ボーイだったんで、こいつを<seg type="ruby"><seg type="rb">訊問</seg><seg type="rp">（</seg><seg type="rt">タタイ</seg><seg type="rp">）</seg></seg>て見ると、野郎のために借りたというんだな。……野郎<seg type="ruby"><seg type="rb">女</seg><seg type="rp">（</seg><seg type="rt">ビク</seg><seg type="rp">）</seg></seg>に化けて行きやがったんだ。なかなか<seg type="ruby"><seg type="rb">味な</seg><seg type="rp">（</seg><seg type="rt">シブイ</seg><seg type="rp">）</seg></seg>ことをするじゃないか。あの<seg type="ruby"><seg type="rb">面</seg><seg type="rp">（</seg><seg type="rt">ミカケ</seg><seg type="rp">）</seg></seg>で<seg type="ruby"><seg type="rb">強盗</seg><seg type="rp">（</seg><seg type="rt">タタキ</seg><seg type="rp">）</seg></seg>をしようたあ、ちょっとだれも気がつかねえからな。……どうもナメた野郎だよ。それで、いままでヌケヌケと東京に<seg type="ruby"><seg type="rb">暮</seg><seg type="rp">（</seg><seg type="rt">アンゴ</seg><seg type="rp">）</seg></seg>しているてえんだから……」<lb />
 　乾はいかにも口惜しそうな顔をして、<lb />
 「ちくしょう。……やっぱり、あいつだったのか。あたしも臭いと思っていたが、まさかまさかと思って、うち消すようにしていたんです。……ひとを馬鹿にしやがって……。あいつが殺ったとすると、あんな太いやつはありません。偽せの警察手帳かなんか出しゃがって、逆さにあたしをおどかしたりするんだから……」<lb />
 「それで、どこへ行くというんだ」<lb />
@@ -1231,7 +1231,7 @@
 「貸してやったのか」<lb />
 「ひとに貸す金なんぞあるもんですか。あたしに断わられると二っちも三っちもいかないてえことを知ってるんですが、なにしろ、無いものはやれない。……だから、あいつらは、ぬすとでもするのでなければ、歩いて行くより仕様がないはずなんです」<lb />
 「や、有難う。それだけ判ればいいんだ」<lb />
-　と、いうと、男は<span rend="sesame_dot" rendition="em">がらくた</span>の上から帽子をとりあげた。乾はその顔を見あげながら妙な含み声で、<lb />
+　と、いうと、男は<seg rend="sesame_dot" rendition="em">がらくた</seg>の上から帽子をとりあげた。乾はその顔を見あげながら妙な含み声で、<lb />
 「それだけ、わかりゃあいいんですか？」<lb />
 　男はいぶかるような眼つきでふり返った。<lb />
 「なんだ？」<lb />
@@ -1240,23 +1240,23 @@
 　古絨毯の堆積へ、また腰をおろすと、身体をのりだして、<lb />
 「そうか。……なんだ、それは」<lb />
 　しばらく間をおいて、<lb />
-「その<span type="ruby"><span type="rb">着物</span><span type="rp">（</span><span type="rt">トビ</span><span type="rp">）</span></span>はね、枝川町の溜堀を浚うとあがってくるんです」<lb />
+「その<seg type="ruby"><seg type="rb">着物</seg><seg type="rp">（</seg><seg type="rt">トビ</seg><seg type="rp">）</seg></seg>はね、枝川町の溜堀を浚うとあがってくるんです」<lb />
 「ど、どこの溜堀……、どうしてそんなことを知ってる」<lb />
 「市の芥焼場の向いに、曲辰の材木置場がありますねえ……そこの溜堀です。尤もあたしもまたぎきなんだから、くわしいことは那須って新聞記者にきいてごらんなさい」<lb />
-「那須？　よく知ってるよ。……そうか、これあ、<span type="ruby"><span type="rb">意外</span><span type="rp">（</span><span type="rt">モロ</span><span type="rp">）</span></span>かった。や、どうも……」セカセカと立ちかけた。<lb />
+「那須？　よく知ってるよ。……そうか、これあ、<seg type="ruby"><seg type="rb">意外</seg><seg type="rp">（</seg><seg type="rt">モロ</seg><seg type="rp">）</seg></seg>かった。や、どうも……」セカセカと立ちかけた。<lb />
 「おや、もうお帰りですか」<lb />
 　男はまた中腰になって、「なんか、まだ、あるのか」<lb />
 　ジロリと見あげると、「久我ってのはね、この間の大阪の銀行ギャングの共犯なんですぜ。正体は岩船重吉という、そのほうの大物なんだそうです。……ご存知なかったんですか」<lb />
 　ピクッと膝を動かした。さり気ないようすをしながら、<lb />
 「へえそりゃ、本当かね」<lb />
-「そのほうは見事に<span type="ruby"><span type="rb">失敗</span><span type="rp">（</span><span type="rt">しくじ</span><span type="rp">）</span></span>った。それで今度の絲満事件も、ほら、なんていうんだ、れいの……資金獲得のためにやったんだろうというんです。あれだけの大仕事をしておいて、ピイピイしてるてえのも、これでよく筋が通るんです。……しかし、くわしいことは知りませんよ。どうせ、これもまたぎきなんだから……。なんでも那須がとっちめて、ギャングのほうだけは白状させたということですが……。それでね、久我と中村はね、いま大久保の射的場にいるんですぜ。……あたしがこの眼で見たんです」<lb />
+「そのほうは見事に<seg type="ruby"><seg type="rb">失敗</seg><seg type="rp">（</seg><seg type="rt">しくじ</seg><seg type="rp">）</seg></seg>った。それで今度の絲満事件も、ほら、なんていうんだ、れいの……資金獲得のためにやったんだろうというんです。あれだけの大仕事をしておいて、ピイピイしてるてえのも、これでよく筋が通るんです。……しかし、くわしいことは知りませんよ。どうせ、これもまたぎきなんだから……。なんでも那須がとっちめて、ギャングのほうだけは白状させたということですが……。それでね、久我と中村はね、いま大久保の射的場にいるんですぜ。……あたしがこの眼で見たんです」<lb />
 　男はもういても立ってもいられない風だった。掴みこわしそうに帽子を握りしめて、<lb />
 「そうときいたら、こうしちゃいられない……いずれ……」<lb />
 　乾は落ちつきはらって、<lb />
-「どうするんです。すぐ捕物にかかるんですか。気をおつけなさいよ。二人とも<span type="ruby"><span type="rb">拳銃</span><span type="rp">（</span><span type="rt">ハジキ</span><span type="rp">）</span></span>を持ってますぜ。下手に生捕にしようなどと思ったら、えらい目に逢うよ。なにしろ、あいつは名人だそうだから……」<lb />
+「どうするんです。すぐ捕物にかかるんですか。気をおつけなさいよ。二人とも<seg type="ruby"><seg type="rb">拳銃</seg><seg type="rp">（</seg><seg type="rt">ハジキ</seg><seg type="rp">）</seg></seg>を持ってますぜ。下手に生捕にしようなどと思ったら、えらい目に逢うよ。なにしろ、あいつは名人だそうだから……」<lb />
 　さすがに苦笑して、<lb />
 「いや有難う。……よく判ってるよ。とにかく、俺あ、急ぐから、お礼はいずれ……」<lb />
-　その辺の古壺を蹴かえしながら、ひどくあわてたようすで出て行った。乾はチラとそのあとを見送ると、竹箆をとりあげて、ゆっくりと<span type="ruby"><span type="rb">続飯</span><span type="rp">（</span><span type="rt">そくい</span><span type="rp">）</span></span>を練りはじめた。<lb />
+　その辺の古壺を蹴かえしながら、ひどくあわてたようすで出て行った。乾はチラとそのあとを見送ると、竹箆をとりあげて、ゆっくりと<seg type="ruby"><seg type="rb">続飯</seg><seg type="rp">（</seg><seg type="rt">そくい</seg><seg type="rp">）</seg></seg>を練りはじめた。<lb />
 　鶴がはいってきた。乾のそばへ並んで掛けると、<lb />
 「いま出て行ったのは本庁の刑事ね。……なんの用で来たの。……どんな話をしたの」<lb />
 「べつに大したことじゃない。おれの身元がどうのこうのって……」<lb />
@@ -1267,36 +1267,36 @@
 「なにも言わなかったのね、本当ね？」<lb />
 「下手なことをいうと係りあいになるからな。だれがそんなたわけたことをするものか。（チラリと鶴の顔を見あげて）だが、なんでそんなことをきく」<lb />
 　鶴は、急に涙ぐむような眼つきになって、<lb />
-「なんといったって、ほんとは久我が殺ったんじゃないでしょう。だから、久我を<span type="ruby"><span type="rb">密告</span><span type="rp">（</span><span type="rt">サシ</span><span type="rp">）</span></span>て苦しめることだけはかんべんしてちょうだい……それを、お願いに来たのよ」<lb />
+「なんといったって、ほんとは久我が殺ったんじゃないでしょう。だから、久我を<seg type="ruby"><seg type="rb">密告</seg><seg type="rp">（</seg><seg type="rt">サシ</seg><seg type="rp">）</seg></seg>て苦しめることだけはかんべんしてちょうだい……それを、お願いに来たのよ」<lb />
 　乾は竹箆の先に飯粒をためたまま、飽っ気にとられたような顔で鶴を見つめていた。<lb />
-「正直のところあんたが、どうしても久我を送りこもうというのは、そうして葵を手にいれるつもりもあるんでしょう。それならば、ほかにいくらだって方法があるじゃないの。<span type="ruby"><span type="rb">密告</span><span type="rp">（</span><span type="rt">サス</span><span type="rp">）</span></span>のだけはゆるしてやってちょうだい、お願いだから」<lb />
-「どうしたというんだ、藪から棒に。<span type="ruby"><span type="rb">鶴</span><span type="rp">（</span><span type="rt">チル</span><span type="rp">）</span></span>」<lb />
+「正直のところあんたが、どうしても久我を送りこもうというのは、そうして葵を手にいれるつもりもあるんでしょう。それならば、ほかにいくらだって方法があるじゃないの。<seg type="ruby"><seg type="rb">密告</seg><seg type="rp">（</seg><seg type="rt">サス</seg><seg type="rp">）</seg></seg>のだけはゆるしてやってちょうだい、お願いだから」<lb />
+「どうしたというんだ、藪から棒に。<seg type="ruby"><seg type="rb">鶴</seg><seg type="rp">（</seg><seg type="rt">チル</seg><seg type="rp">）</seg></seg>」<lb />
 「わけ？　わけはかんたんよ。……あたし、久我に惚れちゃったんだ（そう言って椅子のうしろに頭を凭らせると、）もうどうにも手に負えないんだ。この頃は一日に十ぺん位い泣きたくなる」<lb />
 「驚いたなあ」<lb />
 　そういって、ふふんと笑った。チルは肩をぴくんとさせて、<lb />
-「驚いたよ、あたしも。……よく考えて見たら、はじめて逢ったときから惚れてたんだ。……二人の間を割こうと思ってれいの非常梯子の手紙を送りつけたりしたんだから、あたしも<span rend="sesame_dot" rendition="em">もろい</span>ねえ。こうまで<span rend="sesame_dot" rendition="em">たわけ</span>になるものか。……驚いたてのはこのことなんです。……もう、首ったけなんだ。いのちまでも、さ。……このごろは朝から晩まであとをくっついて歩いてるんだよ」<lb />
+「驚いたよ、あたしも。……よく考えて見たら、はじめて逢ったときから惚れてたんだ。……二人の間を割こうと思ってれいの非常梯子の手紙を送りつけたりしたんだから、あたしも<seg rend="sesame_dot" rendition="em">もろい</seg>ねえ。こうまで<seg rend="sesame_dot" rendition="em">たわけ</seg>になるものか。……驚いたてのはこのことなんです。……もう、首ったけなんだ。いのちまでも、さ。……このごろは朝から晩まであとをくっついて歩いてるんだよ」<lb />
 「ほう、なんのために」<lb />
 　キッと乾の眼を見かえして、<lb />
 「離れられないのさ。それにはちがいなかろう。が、ありていいえば、じつは保護してるつもりなのさ。一旦緩急があったらなんとかして切りぬけさせるつもりなんだ。……もう、だいぶ危くなってきてるからねえ、ご存じの通り」<lb />
 　乾はキラリと眼を光らせて、<lb />
 「おい逃がすつもりか」<lb />
 　急に唇をへの字に曲げると鶴は子供の様にすすり泣きはじめた。<lb />
-「……逃がしたい。逃がしたい。……でもあんたをさしおいて勝手なことはしない。あんたに<span type="ruby"><span type="rb">抗</span><span type="rp">（</span><span type="rt">さか</span><span type="rp">）</span></span>らっても無駄だってことはよく知ってる。……だから、こうして降参してるんじゃないか。……助けてやってくれとたのんでるんだ。……密告なら密告でいいから、あす一日だけ待ってちょうだい。……お願いよ、お願いよ。そのかわり、あんたのいうことはなんでもきく……」<lb />
+「……逃がしたい。逃がしたい。……でもあんたをさしおいて勝手なことはしない。あんたに<seg type="ruby"><seg type="rb">抗</seg><seg type="rp">（</seg><seg type="rt">さか</seg><seg type="rp">）</seg></seg>らっても無駄だってことはよく知ってる。……だから、こうして降参してるんじゃないか。……助けてやってくれとたのんでるんだ。……密告なら密告でいいから、あす一日だけ待ってちょうだい。……お願いよ、お願いよ。そのかわり、あんたのいうことはなんでもきく……」<lb />
 　乾はいかにも合点がいったという風に、うるさく首をふりながら、いった。<lb />
-「そうか、よく判った。生かすの助けるのという器用な芸当は出来ないが、それほどにいうなら、<span type="ruby"><span type="rb">密告</span><span type="rp">（</span><span type="rt">サス</span><span type="rp">）</span></span>ことだけは待ってやる。（手荒く鶴をひきよせると）待ってやったら、ほんとうにいう事をきくか？」<lb />
+「そうか、よく判った。生かすの助けるのという器用な芸当は出来ないが、それほどにいうなら、<seg type="ruby"><seg type="rb">密告</seg><seg type="rp">（</seg><seg type="rt">サス</seg><seg type="rp">）</seg></seg>ことだけは待ってやる。（手荒く鶴をひきよせると）待ってやったら、ほんとうにいう事をきくか？」<lb />
 　眼をとじると、鶴がかすかにうなずいた。<lb />
 <lb />
 　濃い霧がおりていた。<lb />
-　もう夜中ちかかった。家も街路樹もあいまいな乳色のなかに沈み、風がふくたびに<span type="ruby"><span type="rb">海藻</span><span type="rp">（</span><span type="rt">かいそう</span><span type="rp">）</span></span>のようにゆらめくのだった。新宿の裏町を、号外配達が鈴を鳴らしながら泳ぎまわっていた。<lb />
+　もう夜中ちかかった。家も街路樹もあいまいな乳色のなかに沈み、風がふくたびに<seg type="ruby"><seg type="rb">海藻</seg><seg type="rp">（</seg><seg type="rt">かいそう</seg><seg type="rp">）</seg></seg>のようにゆらめくのだった。新宿の裏町を、号外配達が鈴を鳴らしながら泳ぎまわっていた。<lb />
 　霧のなかから、久我と葵が現れてきた。瓦斯会社の前の街灯の柱に号外がヒラヒラしてるのを見ると、久我がそのほうへ寄って行った。号外の湿った面には、こんな風に刷られてあった。<lb />
-〈逃走中の黒色ギャング、大阪第八銀行襲撃事件の主犯<span type="ruby"><span type="rb">中村遼一</span><span type="rp">（</span><span type="rt">なかむらりょういち</span><span type="rp">）</span></span>（三六）は今夜十時半、新宿三丁目を徘徊中を発見され、正当防衛によって射殺された〉<lb />
+〈逃走中の黒色ギャング、大阪第八銀行襲撃事件の主犯<seg type="ruby"><seg type="rb">中村遼一</seg><seg type="rp">（</seg><seg type="rt">なかむらりょういち</seg><seg type="rp">）</seg></seg>（三六）は今夜十時半、新宿三丁目を徘徊中を発見され、正当防衛によって射殺された〉<lb />
 　久我は首をたれて、ちょっと眼をとじると、しずかにそこを離れ、葵と肩を並べて甲州街道へはいって行った。<lb />
-　笹塚の車庫の近くまでくると、葵は急に足をとめて、だれかにあとを<span type="ruby"><span type="rb">尾</span><span type="rp">（</span><span type="rt">つ</span><span type="rp">）</span></span>けられているような気がする、といいだした。久我がふりかえって見ると、半町ほどうしろに四人の酔漢が腕を組み合ってなにか大声でわめきながらよろめき歩いていた。<lb />
+　笹塚の車庫の近くまでくると、葵は急に足をとめて、だれかにあとを<seg type="ruby"><seg type="rb">尾</seg><seg type="rp">（</seg><seg type="rt">つ</seg><seg type="rp">）</seg></seg>けられているような気がする、といいだした。久我がふりかえって見ると、半町ほどうしろに四人の酔漢が腕を組み合ってなにか大声でわめきながらよろめき歩いていた。<lb />
 「あとを尾けられるはずはないじゃないか。心配しなくともいい。あれは酔っぱらいだ」<lb />
 　二人は代田橋から七軒町を通り下高井戸のそばまでやってきた。もう三時ちかくだった。そこの町角で立ちどまると、葵が弱々しい声で、疲れた、といった。<lb />
 　久我は道路に立って、いま来たほうへ耳をすました。虫の声のほか人の気はいらしいものは感じられなかった。<lb />
 「じゃ、あの家のかげで休もう」<lb />
-　二人は道路から右へ折れこみ、森山牧場の納屋の前を通って中庭のようになった狭い草地へはいって行った。白い花をつけた<span type="ruby"><span type="rb">百日紅</span><span type="rp">（</span><span type="rt">さるすべり</span><span type="rp">）</span></span>の木があって、それが霧の中で匂っていた。<lb />
+　二人は道路から右へ折れこみ、森山牧場の納屋の前を通って中庭のようになった狭い草地へはいって行った。白い花をつけた<seg type="ruby"><seg type="rb">百日紅</seg><seg type="rp">（</seg><seg type="rt">さるすべり</seg><seg type="rp">）</seg></seg>の木があって、それが霧の中で匂っていた。<lb />
 　二人はその下へ坐った。<lb />
 「ひどい露だ」<lb />
 「でも、いいところだわ。ひとに見られる心配はないし、花の匂いもするし……」<lb />
@@ -1317,11 +1317,11 @@
 　久我が声をたてて笑った。<lb />
 　すぐ間近で鋭い呼子の音がした。<lb />
 　見あげるような五人の大男が、つぎつぎに霧の中から現れて、半円をつくりながらジリジリと二人のほうへつめよった。<lb />
-　久我の上衣の<span type="ruby"><span type="rb">衣嚢</span><span type="rp">（</span><span type="rt">ポケット</span><span type="rp">）</span></span>から一道の火光が迸った。鉄の焦げる臭いがし、鋭い破裂音が林の中へひびきわたった。いくどもいくどもこだまをかえした。<lb />
+　久我の上衣の<seg type="ruby"><seg type="rb">衣嚢</seg><seg type="rp">（</seg><seg type="rt">ポケット</seg><seg type="rp">）</seg></seg>から一道の火光が迸った。鉄の焦げる臭いがし、鋭い破裂音が林の中へひびきわたった。いくどもいくどもこだまをかえした。<lb />
 　一人が呻き声をあげて草の上へ膝をついた。四人の男はあとしざりしながら、口々に叫んだ。<lb />
 「野郎、抵抗するか」<lb />
 「御用だ、岩船重吉！」<lb />
-　久我のピストルが、また轟然と火を噴いた。四人の男は<span type="ruby"><span type="rb">蝗</span><span type="rp">（</span><span type="rt">いなご</span><span type="rp">）</span></span>のように納屋のうしろへ飛びこんだ。<lb />
+　久我のピストルが、また轟然と火を噴いた。四人の男は<seg type="ruby"><seg type="rb">蝗</seg><seg type="rp">（</seg><seg type="rt">いなご</seg><seg type="rp">）</seg></seg>のように納屋のうしろへ飛びこんだ。<lb />
 「さ、早く！」<lb />
 　久我は葵の手をとると、右手の牛小屋のうしろへ駆けこもうとした……その時、なにか灼熱した鉛状のものが、ひどい勢いで久我の身体をさし貫いた。よろよろとして、その杭のほうへ手を伸ばそうとした……杭は急速に彼の眼のまえから消え失せた……<lb />
 　頭のうえで、だれか、わけのわからない言葉で叫んでいるのをきいた。こんなところに寝ころんでいられない。……起きあがろうとして二度ほど爪で土をひっかいた。……葵、……葵……<lb />
@@ -1329,7 +1329,7 @@
 <lb />
 　二十燭ほどの、ともしい電灯をつけた、店の板土間にあぐらをかいて、乾と朱砂ハナが酒をのんでいた。つぎの日の夕方のことである。<lb />
 　二人とも、もうだいぶ酔っているらしく、互いに、飲め、飲め、といってコップをさしつけていた。大部分は床へこぼしてしまうのだった。<lb />
-　入口を蹴りつける音がし、はげしく扉をおしあけると、ふらりと鶴がはいってきた。靴のままでずかずかと板土間へあがりこむと、<span type="ruby"><span type="rb">陶榻</span><span type="rp">（</span><span type="rt">とうとう</span><span type="rp">）</span></span>の上へ腰をかけた。これも酔っているらしく、蒼ざめて眼をすえていた。<lb />
+　入口を蹴りつける音がし、はげしく扉をおしあけると、ふらりと鶴がはいってきた。靴のままでずかずかと板土間へあがりこむと、<seg type="ruby"><seg type="rb">陶榻</seg><seg type="rp">（</seg><seg type="rt">とうとう</seg><seg type="rp">）</seg></seg>の上へ腰をかけた。これも酔っているらしく、蒼ざめて眼をすえていた。<lb />
 　ハナが、ぐらりと首をのめらせて、下からまじまじと鶴の顔を見あげると、<lb />
 「おや、なまちょこねえ、この餓鬼飲んでるよ。……オイ、どこで飲んできたんだ」<lb />
 　乾はいい機嫌で、しきりに額を叩きながら、<lb />
@@ -1337,8 +1337,8 @@
 　コップを高くさしあげて鶴の胸へおしつけた。鶴が烈しくはらいのけた。コップは乾の手を離れて遠いところまで飛んでゆき、鋭い音をたてて割れた。乾は額から酒の滴をたらしながら、ニヤニヤ笑った。<lb />
 「おや、こいつの酒もよくねえ」<lb />
 「うるせえ！」<lb />
-　鶴が<span type="ruby"><span type="rb">甲</span><span type="rp">（</span><span type="rt">かん</span><span type="rp">）</span></span>ばしった声でさけんだ。血走った眼で乾を睨みつけながら、妙に<span type="ruby"><span type="rb">重石</span><span type="rp">（</span><span type="rt">おもし</span><span type="rp">）</span></span>のついた声で、<lb />
-「おい、やってくれたねえ……うれしがらせておいてハメこむなんて悪趣味だぜ。……こんなケチなガスモク野郎だとは思わなかった。それがあたしの不覚さ。……そうと知ったら、仁義などをケッつけずに、サッサと<span type="ruby"><span type="rb">逃</span><span type="rp">（</span><span type="rt">と</span><span type="rp">）</span></span>ばしてやるんだった。……一生一代の恋をして、いのちにもかえがたい恋人を、ちょっと油断したばっかりに、みすみす死なせてしまったのか。……もう、この世では逢えないのか。……うらめしい、残念だ。（こらえかねたように声をあげて泣きだした。やがてふっと泣きやんだ眼をぬぐうと）おい、くどいようだが、よくやってくれたねえ。……どうして九両三分二朱だ。きっと祟って見せるよ。……あたしのいのちをカセにして、どうでもバラスはずはあるまいと、多寡をくくってるのかも知れないが、今日只今、もう命なんか惜しくない。これから本庁へ駆けこんで、底をさらって申しあげ、お前らの首へ細引を喰いこましてやるからそう思え。……なんだ、妙な面をするな、こんなトボケタ小娘だから、なにも知るまいと思って、さんざ<span type="ruby"><span type="rb">出汁</span><span type="rp">（</span><span type="rt">だし</span><span type="rp">）</span></span>がらにしゃぶりゃがったが、<span type="ruby"><span type="rb">事件</span><span type="rp">（</span><span type="rt">コト</span><span type="rp">）</span></span>のありようは元すえまで、なにもかにも知ってるんだぞ。……おい、ひとつ、ここで<span type="ruby"><span type="rb">復習</span><span type="rp">（</span><span type="rt">サラ</span><span type="rp">）</span></span>って見せようか。……大正七年の六月に、北海道の北の端れで、<span type="ruby"><span type="rb">稚内</span><span type="rp">（</span><span type="rt">わっかない</span><span type="rp">）</span></span>築港の名代の大難工事が始まった。すると絲満<span type="ruby"><span type="rb">南風</span><span type="rp">（</span><span type="rt">はえ</span><span type="rp">）</span></span>太郎は、自分の郷里の絲満から、二百人あまりの人間をだましてつれてきて、これを道庁の請負の大林組へ一人八十円パで売り飛ばした。売られた方はたまらない。なにしろ名代の監獄部屋だ。気候が悪い仕事が荒い、そいつが出来あがったときに生残った人間は二百人のうちたった十八人。……あたしの父親もだまされてうられて、そこで生命をおとした一人だが……こうして貯めこんだ金が三万円ばかり。怖くてたまらないから、銀行にも預けずに、自分の部屋へ金庫まがいの支那櫃を据えつけ、ひとが見たら蛙になれ、と隠しておいた。これを知ってるのは絲満と、当時の情婦、そこにいるおハナさんの二人っきり。ハナさんもながい間ねらっていたが、用心堅固で手がだせない。そればかりか、碌に小遣いもくれないから、とうとう喧嘩わかれになってしまい、もだもだしながら、洲崎の〈金城〉ってバアで稼いでいるうち、同気相呼ぶで知合ったのが、この乾君。……そこでいろいろ考えたすえ、尼ヶ崎でダンサーをしていたあたしを呼びよせ、お前のおやじの敵は絲満だ、おやじの仇を討ちたくないか。討つ気はないか。その気があるならかならず手助けしてやろうと、裾から火をつけるようにアオリ立てる。おやじの無残な死にざまは、さんざおふくろにきかされて、骨身にしみて口惜しく思っていたのだから考えれば考えるほど、どうしても生かしておけないような気になってそんなら助太刀たのむ。といったんだから、あたしの馬鹿にも恐れ韓信股くぐりさ。……どうせ以前の因縁でまっさきハナが<span type="ruby"><span type="rb">検挙</span><span type="rp">（</span><span type="rt">ヤラ</span><span type="rp">）</span></span>れることはわかっているから、承知で刑事の袖をひかせ、ハナの身柄は大切に洲崎署へお預け願っておく。……四の日と七の日が〈那覇〉のボーイの昼番だから、いよいよ六月の四日にやろうということになり、〈遺産相続の通知〉なんていうあざとい手紙をほうぼうへ送りつける。ちょうど……その頃<span type="ruby"><span type="rb">店</span><span type="rp">（</span><span type="rt">シネラリヤ</span><span type="rp">）</span></span>へ現れた新参の葵という女に、どうでも身代りをたのむつもりで、〈通知〉の電話にも念をいれ、現場へ落しておくつもりで、そいつの釦をひとつむしりとる。……さて、その晩の八時頃、あたしが桃割れの鬘をかぶり、十六七の小娘に化けて、蛤橋の袂をうろついていると、案の定、古田という馬鹿がひっかかった。それをとりまいて〈那覇〉へ行く。ボーイが帰り仕度をしかけるのを見届けて〈那覇〉を出る。門前仲町で古田とわかれ、〈金城〉の二階へ駆けあがると、乾君が待っていて、こんどは二十二三、断髪、極彩色のモダン・ガールに仕立てあげる。なるたけ葵に似るように、継足をして長いソワレを着、乙にすました顔をしてまたぞろ〈那覇〉へとってかえす。見ると、ボーイがまだいるから、こいつは<span type="ruby"><span type="rb">失敗</span><span type="rp">（</span><span type="rt">しま</span><span type="rp">）</span></span>ったと思い、なるたけ顔を見られないようにしているうち間もなくボーイが出ていった。絲満が二階からおりてきて番台に坐る。こいつに色っぽくからんでゆくと、たちまち薬がきいておおデレデレの目なし鯛。おさえつけておいて無闇にのませる。そうしてるうちにどこの人足かしらないがひどく<span type="ruby"><span type="rb">哥兄</span><span type="rp">（</span><span type="rt">あにい</span><span type="rp">）</span></span>面をしたのがはいって来たからうまい工合だと、あとはそいつにまかせ、帰るふりをして横手へまわり、柳の幹をつたって窓からはいり、戸棚の中にかくれて待っている。まもなく、絲満があがってきて、寝台に倒れるとたちまち前後不覚。……パパ、パパ、見ていてちょうだい。いま、あなたの妄執を晴らしてよ。どうかおうけねがいます。……思い知ったか、と無闇に突いた。……階下へ降りてゆくとお前さんが待っていていうことがいい。天晴れだ、孝女だ、見あげたもんだ、といったねえ。感極まって泣きだした。……泣かしておいてお前さんは二階へあがってゆく。だいぶ経ってから角ばった包を持っておりてきた。なんだ、ときいたら、お前が脱いだ着物じゃないか、という。格別気にもとめなかったが、言わずと知れた、それがめあての三万両さ。……つぎの朝になって、乾君がのこのこと見物に出かける。その場から葵がひったてられると思いのほか、天運測り知るべからず、釦は久我に拾われて、せっかく仕組んだ芝居が丸札をだす始末。なまじっかよけいな手紙なんか出してるばっかりにかえってそれがカセになって、こんどはこっちが危くなる。あわててあることないことハガキに連ねて古田を密告。筋が通らないから、これもいけない。いろいろあせりぬいているうちに、どうやら久我にうしろ暗いところがあると見込んで、神戸くんだりまでおハナさんを<span type="ruby"><span type="rb">尾行</span><span type="rp">（</span><span type="rt">つけ</span><span type="rp">）</span></span>てやってアラ拾いをさせる。銀行ギャングの一味だとわかったときは、君はよろこんだねえ。これをキッカケにして、あとはトントン拍子に筋が運ぶ。溜堀から服があがる。刑事がとんでくる。万事筋書通りになりました。久我は射たれて死んじゃった。……これでお国は安泰、福禄長寿……と、思ってるんだろうが、そうは問屋じゃおろさない。あたしがこれから<span type="ruby"><span type="rb">暴露</span><span type="rp">（</span><span type="rt">バラ</span><span type="rp">）</span></span>しにゆく。……ねえ、あたしのような小供を利用して強盗を働くのは間接正犯といってね、よしんばあたしは助かっても、君は絶対に助からないよ。……あたしが手を合せてたのんだとき、そいつをきいてくれてたらこんな羽目にはならなかったんだ。善因善果、悪因悪果、早く絞首台へ追いあげられて、<span type="ruby"><span type="rb">青洟</span><span type="rp">（</span><span type="rt">あおばな</span><span type="rp">）</span></span>をたらして往生しろ。……じゃそろそろ出かけようか。言いたいだけを根っきりしゃべったんだから、さぞききにくいこともあったでしょう。かんにんしてちょうだいね。……それではお二人さん、また法廷でお目にかかりましょう……」<lb />
+　鶴が<seg type="ruby"><seg type="rb">甲</seg><seg type="rp">（</seg><seg type="rt">かん</seg><seg type="rp">）</seg></seg>ばしった声でさけんだ。血走った眼で乾を睨みつけながら、妙に<seg type="ruby"><seg type="rb">重石</seg><seg type="rp">（</seg><seg type="rt">おもし</seg><seg type="rp">）</seg></seg>のついた声で、<lb />
+「おい、やってくれたねえ……うれしがらせておいてハメこむなんて悪趣味だぜ。……こんなケチなガスモク野郎だとは思わなかった。それがあたしの不覚さ。……そうと知ったら、仁義などをケッつけずに、サッサと<seg type="ruby"><seg type="rb">逃</seg><seg type="rp">（</seg><seg type="rt">と</seg><seg type="rp">）</seg></seg>ばしてやるんだった。……一生一代の恋をして、いのちにもかえがたい恋人を、ちょっと油断したばっかりに、みすみす死なせてしまったのか。……もう、この世では逢えないのか。……うらめしい、残念だ。（こらえかねたように声をあげて泣きだした。やがてふっと泣きやんだ眼をぬぐうと）おい、くどいようだが、よくやってくれたねえ。……どうして九両三分二朱だ。きっと祟って見せるよ。……あたしのいのちをカセにして、どうでもバラスはずはあるまいと、多寡をくくってるのかも知れないが、今日只今、もう命なんか惜しくない。これから本庁へ駆けこんで、底をさらって申しあげ、お前らの首へ細引を喰いこましてやるからそう思え。……なんだ、妙な面をするな、こんなトボケタ小娘だから、なにも知るまいと思って、さんざ<seg type="ruby"><seg type="rb">出汁</seg><seg type="rp">（</seg><seg type="rt">だし</seg><seg type="rp">）</seg></seg>がらにしゃぶりゃがったが、<seg type="ruby"><seg type="rb">事件</seg><seg type="rp">（</seg><seg type="rt">コト</seg><seg type="rp">）</seg></seg>のありようは元すえまで、なにもかにも知ってるんだぞ。……おい、ひとつ、ここで<seg type="ruby"><seg type="rb">復習</seg><seg type="rp">（</seg><seg type="rt">サラ</seg><seg type="rp">）</seg></seg>って見せようか。……大正七年の六月に、北海道の北の端れで、<seg type="ruby"><seg type="rb">稚内</seg><seg type="rp">（</seg><seg type="rt">わっかない</seg><seg type="rp">）</seg></seg>築港の名代の大難工事が始まった。すると絲満<seg type="ruby"><seg type="rb">南風</seg><seg type="rp">（</seg><seg type="rt">はえ</seg><seg type="rp">）</seg></seg>太郎は、自分の郷里の絲満から、二百人あまりの人間をだましてつれてきて、これを道庁の請負の大林組へ一人八十円パで売り飛ばした。売られた方はたまらない。なにしろ名代の監獄部屋だ。気候が悪い仕事が荒い、そいつが出来あがったときに生残った人間は二百人のうちたった十八人。……あたしの父親もだまされてうられて、そこで生命をおとした一人だが……こうして貯めこんだ金が三万円ばかり。怖くてたまらないから、銀行にも預けずに、自分の部屋へ金庫まがいの支那櫃を据えつけ、ひとが見たら蛙になれ、と隠しておいた。これを知ってるのは絲満と、当時の情婦、そこにいるおハナさんの二人っきり。ハナさんもながい間ねらっていたが、用心堅固で手がだせない。そればかりか、碌に小遣いもくれないから、とうとう喧嘩わかれになってしまい、もだもだしながら、洲崎の〈金城〉ってバアで稼いでいるうち、同気相呼ぶで知合ったのが、この乾君。……そこでいろいろ考えたすえ、尼ヶ崎でダンサーをしていたあたしを呼びよせ、お前のおやじの敵は絲満だ、おやじの仇を討ちたくないか。討つ気はないか。その気があるならかならず手助けしてやろうと、裾から火をつけるようにアオリ立てる。おやじの無残な死にざまは、さんざおふくろにきかされて、骨身にしみて口惜しく思っていたのだから考えれば考えるほど、どうしても生かしておけないような気になってそんなら助太刀たのむ。といったんだから、あたしの馬鹿にも恐れ韓信股くぐりさ。……どうせ以前の因縁でまっさきハナが<seg type="ruby"><seg type="rb">検挙</seg><seg type="rp">（</seg><seg type="rt">ヤラ</seg><seg type="rp">）</seg></seg>れることはわかっているから、承知で刑事の袖をひかせ、ハナの身柄は大切に洲崎署へお預け願っておく。……四の日と七の日が〈那覇〉のボーイの昼番だから、いよいよ六月の四日にやろうということになり、〈遺産相続の通知〉なんていうあざとい手紙をほうぼうへ送りつける。ちょうど……その頃<seg type="ruby"><seg type="rb">店</seg><seg type="rp">（</seg><seg type="rt">シネラリヤ</seg><seg type="rp">）</seg></seg>へ現れた新参の葵という女に、どうでも身代りをたのむつもりで、〈通知〉の電話にも念をいれ、現場へ落しておくつもりで、そいつの釦をひとつむしりとる。……さて、その晩の八時頃、あたしが桃割れの鬘をかぶり、十六七の小娘に化けて、蛤橋の袂をうろついていると、案の定、古田という馬鹿がひっかかった。それをとりまいて〈那覇〉へ行く。ボーイが帰り仕度をしかけるのを見届けて〈那覇〉を出る。門前仲町で古田とわかれ、〈金城〉の二階へ駆けあがると、乾君が待っていて、こんどは二十二三、断髪、極彩色のモダン・ガールに仕立てあげる。なるたけ葵に似るように、継足をして長いソワレを着、乙にすました顔をしてまたぞろ〈那覇〉へとってかえす。見ると、ボーイがまだいるから、こいつは<seg type="ruby"><seg type="rb">失敗</seg><seg type="rp">（</seg><seg type="rt">しま</seg><seg type="rp">）</seg></seg>ったと思い、なるたけ顔を見られないようにしているうち間もなくボーイが出ていった。絲満が二階からおりてきて番台に坐る。こいつに色っぽくからんでゆくと、たちまち薬がきいておおデレデレの目なし鯛。おさえつけておいて無闇にのませる。そうしてるうちにどこの人足かしらないがひどく<seg type="ruby"><seg type="rb">哥兄</seg><seg type="rp">（</seg><seg type="rt">あにい</seg><seg type="rp">）</seg></seg>面をしたのがはいって来たからうまい工合だと、あとはそいつにまかせ、帰るふりをして横手へまわり、柳の幹をつたって窓からはいり、戸棚の中にかくれて待っている。まもなく、絲満があがってきて、寝台に倒れるとたちまち前後不覚。……パパ、パパ、見ていてちょうだい。いま、あなたの妄執を晴らしてよ。どうかおうけねがいます。……思い知ったか、と無闇に突いた。……階下へ降りてゆくとお前さんが待っていていうことがいい。天晴れだ、孝女だ、見あげたもんだ、といったねえ。感極まって泣きだした。……泣かしておいてお前さんは二階へあがってゆく。だいぶ経ってから角ばった包を持っておりてきた。なんだ、ときいたら、お前が脱いだ着物じゃないか、という。格別気にもとめなかったが、言わずと知れた、それがめあての三万両さ。……つぎの朝になって、乾君がのこのこと見物に出かける。その場から葵がひったてられると思いのほか、天運測り知るべからず、釦は久我に拾われて、せっかく仕組んだ芝居が丸札をだす始末。なまじっかよけいな手紙なんか出してるばっかりにかえってそれがカセになって、こんどはこっちが危くなる。あわててあることないことハガキに連ねて古田を密告。筋が通らないから、これもいけない。いろいろあせりぬいているうちに、どうやら久我にうしろ暗いところがあると見込んで、神戸くんだりまでおハナさんを<seg type="ruby"><seg type="rb">尾行</seg><seg type="rp">（</seg><seg type="rt">つけ</seg><seg type="rp">）</seg></seg>てやってアラ拾いをさせる。銀行ギャングの一味だとわかったときは、君はよろこんだねえ。これをキッカケにして、あとはトントン拍子に筋が運ぶ。溜堀から服があがる。刑事がとんでくる。万事筋書通りになりました。久我は射たれて死んじゃった。……これでお国は安泰、福禄長寿……と、思ってるんだろうが、そうは問屋じゃおろさない。あたしがこれから<seg type="ruby"><seg type="rb">暴露</seg><seg type="rp">（</seg><seg type="rt">バラ</seg><seg type="rp">）</seg></seg>しにゆく。……ねえ、あたしのような小供を利用して強盗を働くのは間接正犯といってね、よしんばあたしは助かっても、君は絶対に助からないよ。……あたしが手を合せてたのんだとき、そいつをきいてくれてたらこんな羽目にはならなかったんだ。善因善果、悪因悪果、早く絞首台へ追いあげられて、<seg type="ruby"><seg type="rb">青洟</seg><seg type="rp">（</seg><seg type="rt">あおばな</seg><seg type="rp">）</seg></seg>をたらして往生しろ。……じゃそろそろ出かけようか。言いたいだけを根っきりしゃべったんだから、さぞききにくいこともあったでしょう。かんにんしてちょうだいね。……それではお二人さん、また法廷でお目にかかりましょう……」<lb />
 　と、いいながら、ストンと榻から飛びおりた。<lb />
 　乾がチラとハナに眼くばせをすると、ハナはしずかに立ちあがって鶴の横手へ廻った。鶴は油断なく扉のほうへあと退りをしながら、せせら笑った。<lb />
 「どうするんだい？　あたしを殺るつもり？　見そこなうナイ、般若！」<lb />
@@ -1346,19 +1346,19 @@
 　そうしておいて、乾はのっそりと鶴のほうへ近づいて行った。二人は鶏でも追いこむような恰好に両手をひろげ、左右から鶴をじりじりと壁のほうへ追いつめて行った。<lb />
 <lb />
 　どこかで虫が鳴いている。<lb />
-　だいぶ更けたらしく、あたりはしんとしずまりかえっていた。うす暗い電気の下で、乾とハナがせっせと床をこすっていた。<span type="ruby"><span type="rb">蘇芳</span><span type="rp">（</span><span type="rt">すおう</span><span type="rp">）</span></span>をまきちらしたようなおびただしい血のあとを、たわしに灰をつけて、ひっそりと洗いつづけるのだった……<lb />
+　だいぶ更けたらしく、あたりはしんとしずまりかえっていた。うす暗い電気の下で、乾とハナがせっせと床をこすっていた。<seg type="ruby"><seg type="rb">蘇芳</seg><seg type="rp">（</seg><seg type="rt">すおう</seg><seg type="rp">）</seg></seg>をまきちらしたようなおびただしい血のあとを、たわしに灰をつけて、ひっそりと洗いつづけるのだった……<lb />
 <lb />
 　ちょうどその頃、葵は監房の窓から秋の夜空を眺めていた。<lb />
 　葵はたったいま調室からかえされたところだった。久我はもう死んでしまった。かくすこともおそれることもない。訊問されるままに、あたしに〈遺産相続〉を通知したのは久我の声でした。と自白した。自分が大名華族の和泉家の長女であることも自発的に申したてた。<lb />
 　久我はもう空にのぼって、あたしを見つめていてくれるのであろう。久我は決して遠いところにいるのではない。永劫のかたちでいまもあたしを抱擁していてくれるのだ。<lb />
-　思えばはかない縁だった。はじめて久我と逢ってからまだ四月にも足らないのに、ひとりはもう空へかえり、ひとりは<span type="ruby"><span type="rb">汚濁</span><span type="rp">（</span><span type="rt">おじょく</span><span type="rp">）</span></span><span type="ruby"><span type="rb">雑爼</span><span type="rp">（</span><span type="rt">ざっそ</span><span type="rp">）</span></span>のなかへのこされた。現世につながる諸情諸因縁はみなこのようにも短かく果ないが、空へかえればそこに玲瓏たる永生が自分を待ちうけていてくれるのであろう。久我のいない世界に執着などのあるべきはずはない。<lb />
+　思えばはかない縁だった。はじめて久我と逢ってからまだ四月にも足らないのに、ひとりはもう空へかえり、ひとりは<seg type="ruby"><seg type="rb">汚濁</seg><seg type="rp">（</seg><seg type="rt">おじょく</seg><seg type="rp">）</seg></seg><seg type="ruby"><seg type="rb">雑爼</seg><seg type="rp">（</seg><seg type="rt">ざっそ</seg><seg type="rp">）</seg></seg>のなかへのこされた。現世につながる諸情諸因縁はみなこのようにも短かく果ないが、空へかえればそこに玲瓏たる永生が自分を待ちうけていてくれるのであろう。久我のいない世界に執着などのあるべきはずはない。<lb />
 　葵は空に手をのばすと、低い声でいった。<lb />
 「……待っててちょうだい。いますぐ……」<lb />
-　翌朝、監房監守が点検にゆくと、東側八号室の女は細紐で固く喉をしめて<span type="ruby"><span type="rb">縊死</span><span type="rp">（</span><span type="rt">いし</span><span type="rp">）</span></span>をとげていた。ちょっと胸にさわって、もう絶命しているのを見てとると、靴音高く<span type="ruby"><span type="rb">混凝土</span><span type="rp">（</span><span type="rt">コンクリート</span><span type="rp">）</span></span>の廊下を走り去った。<lb />
+　翌朝、監房監守が点検にゆくと、東側八号室の女は細紐で固く喉をしめて<seg type="ruby"><seg type="rb">縊死</seg><seg type="rp">（</seg><seg type="rt">いし</seg><seg type="rp">）</seg></seg>をとげていた。ちょっと胸にさわって、もう絶命しているのを見てとると、靴音高く<seg type="ruby"><seg type="rb">混凝土</seg><seg type="rp">（</seg><seg type="rt">コンクリート</seg><seg type="rp">）</seg></seg>の廊下を走り去った。<lb />
 　こんな幸福そうな死顔ってあるものだろうか。唇のはしをすこし曲げ、まるで笑いをこらえているようなあどけない顔つきをしていた。のぼりかけた朝日が、その横顔を桃色に染める……<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

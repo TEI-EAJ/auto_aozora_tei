@@ -33,15 +33,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 どんより<lb />
 雪空<lb />
-ピアノの<span type="ruby"><span type="rb">音</span><span type="rp">（</span><span type="rt">ね</span><span type="rp">）</span></span>……<lb />
+ピアノの<seg type="ruby"><seg type="rb">音</seg><seg type="rp">（</seg><seg type="rt">ね</seg><seg type="rp">）</seg></seg>……<lb />
 <lb />
 ふわふわ<lb />
 ふわふわ<lb />
-<span type="ruby"><span type="rb">雪女郎</span><span type="rp">（</span><span type="rt">ゆきぢよろ</span><span type="rp">）</span></span><lb />
-<span type="ruby"><span type="rb">小女郎</span><span type="rp">（</span><span type="rt">こぢよろ</span><span type="rp">）</span></span><lb />
+<seg type="ruby"><seg type="rb">雪女郎</seg><seg type="rp">（</seg><seg type="rt">ゆきぢよろ</seg><seg type="rp">）</seg></seg><lb />
+<seg type="ruby"><seg type="rb">小女郎</seg><seg type="rp">（</seg><seg type="rt">こぢよろ</seg><seg type="rp">）</seg></seg><lb />
 <lb />
 ピアノの音から<lb />
 まひだして<lb />
@@ -50,6 +50,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

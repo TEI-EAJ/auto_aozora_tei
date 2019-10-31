@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2018-03-26">作成</resp><resp /><note>
 <lb />
-底本：「沖縄文学全集　第1巻　詩<span facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
+底本：「沖縄文学全集　第1巻　詩<seg facs="../../../gaiji/1-13/1-13-21.png" rend="gaiji" rendition="img" source="※(ローマ数字1、1-13-21)" />」国書刊行会<lb />
 　　　1991（平成3）年6月6日第1刷<lb />
 入力：坂本真一<lb />
 校正：フクポー<lb />
@@ -31,23 +31,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
+    <body><p><seg rend="main_text" rendition="div"><lb />
 母、吾が為に<lb />
 鼠の子虫籠に入れて与へぬ<lb />
 病間の徒然なる<lb />
 吾指もて小づき戯れ<lb />
 心明るう時を経にけり。<lb />
 あはれ鼠の子まこと子なれば<lb />
-耳孕<span rend="notes">［＃「耳孕」はママ］</span>桃色に　<span type="ruby"><span type="rb">血管</span><span type="rp">（</span><span type="rt">ちすぢ</span><span type="rp">）</span></span>の脈打つも<span type="ruby"><span type="rb">生物</span><span type="rp">（</span><span type="rt">いきもの</span><span type="rp">）</span></span>らしく<lb />
-今は前肢を捧げ餌食みゐるも<span facs="../../../gaiji/1-91/1-91-26.png" rend="gaiji" rendition="img" source="※(「藹」の「言」に代えて「月」、第3水準1-91-26)" />たけし。<lb />
+耳孕<seg rend="notes" rendition="span">［＃「耳孕」はママ］</seg>桃色に　<seg type="ruby"><seg type="rb">血管</seg><seg type="rp">（</seg><seg type="rt">ちすぢ</seg><seg type="rp">）</seg></seg>の脈打つも<seg type="ruby"><seg type="rb">生物</seg><seg type="rp">（</seg><seg type="rt">いきもの</seg><seg type="rp">）</seg></seg>らしく<lb />
+今は前肢を捧げ餌食みゐるも<seg facs="../../../gaiji/1-91/1-91-26.png" rend="gaiji" rendition="img" source="※(「藹」の「言」に代えて「月」、第3水準1-91-26)" />たけし。<lb />
 やがて夕べの風出でぬ――時を経ぬ間に<lb />
-何時か<span type="ruby"><span type="rb">牛乳</span><span type="rp">（</span><span type="rt">ちち</span><span type="rp">）</span></span>の時間となりぬれば<lb />
+何時か<seg type="ruby"><seg type="rb">牛乳</seg><seg type="rp">（</seg><seg type="rt">ちち</seg><seg type="rp">）</seg></seg>の時間となりぬれば<lb />
 吾鼠の事も忘れ<lb />
 青葉繁れる窓に<lb />
-<span type="ruby"><span type="rb">牛乳</span><span type="rp">（</span><span type="rt">ちち</span><span type="rp">）</span></span>を飲みゐたり。<lb />
+<seg type="ruby"><seg type="rb">牛乳</seg><seg type="rp">（</seg><seg type="rt">ちち</seg><seg type="rp">）</seg></seg>を飲みゐたり。<lb />
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

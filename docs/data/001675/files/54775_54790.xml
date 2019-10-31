@@ -32,14 +32,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_16" rendition="div" style="margin-left: 16em">
-<span rend="sho1" rendition="div" style="font-size: small;">
-<span rend="jizume_20" rendition="div" style="width: 20em">
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_16" rendition="div" style="margin-left: 16em">
+<seg rend="sho1" rendition="div" style="font-size: small;">
+<seg rend="jizume_20" rendition="div" style="width: 20em">
 東京がむしょうに恋しい。カスバのペペル・モコみたいに、東京を望郷しておる。<lb />
-</span>
-</span>
-</span>
+</seg>
+</seg>
+</seg>
 あの街　あの道　あの角で<lb />
 おれや　おまえや　あいつらと<lb />
 あんなことして　ああいうて<lb />
@@ -60,6 +60,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>

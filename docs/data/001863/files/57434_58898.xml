@@ -9,7 +9,7 @@
           <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
         <resp when="2016-03-04">作成</resp><resp /><note>
 <lb />
-底本：「ふるさと文学館　第三三巻　【大阪<span facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
+底本：「ふるさと文学館　第三三巻　【大阪<seg facs="../../../gaiji/1-13/1-13-22.png" rend="gaiji" rendition="img" source="※(ローマ数字2、1-13-22)" />】」ぎょうせい<lb />
 　　　1995（平成7）年8月15日初版発行<lb />
 底本の親本：「安西冬衛全集　6」寶文館出版<lb />
 　　　1984（昭和59）年<lb />
@@ -33,8 +33,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><p><span rend="main_text" rendition="div"><lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi10">（一）</span></span></span>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi10">（一）</seg></seg></seg>
 <lb />
 都の花に魁けて<lb />
 春足日をけふこゝに<lb />
@@ -42,7 +42,7 @@
 東洋一の水族館<lb />
 堺水族館は開かれぬ<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi20">（二）</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi20">（二）</seg></seg></seg>
 <lb />
 明治の帝行幸して<lb />
 叡覧ありしあとゞころ<lb />
@@ -50,7 +50,7 @@
 東洋一の水族館<lb />
 堺水族館は開かれぬ<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi30">（三）</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi30">（三）</seg></seg></seg>
 <lb />
 大魚小魚鰭の数<lb />
 集めてこゝに海の幸<lb />
@@ -58,7 +58,7 @@
 東洋一の水族館<lb />
 堺水族館は開かれぬ<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi40">（四）</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi40">（四）</seg></seg></seg>
 <lb />
 造りなしたる海の宮<lb />
 竜宮城もよそならず<lb />
@@ -66,7 +66,7 @@
 東洋一の水族館<lb />
 堺水族館は開かれぬ<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi50">（五）</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi50">（五）</seg></seg></seg>
 <lb />
 水際にあそぶ魚類の<lb />
 ゆきゝ妙なる舞の袖<lb />
@@ -74,7 +74,7 @@
 東洋一の水族館<lb />
 堺水族館は開かれぬ<lb />
 <lb />
-<span rend="jisage_3" rendition="div" style="margin-left: 3em"><span rend="naka-midashi" rendition="h"><span rend="midashi_anchor" rendition="a" xml:id="midashi60">（六）</span></span></span>
+<seg rend="jisage_3" rendition="div" style="margin-left: 3em"><seg rend="naka-midashi" rendition="h"><seg rend="midashi_anchor" rendition="a" xml:id="midashi60">（六）</seg></seg></seg>
 <lb />
 けふしも和む春の色<lb />
 げに長閑なる茅渟の浦<lb />
@@ -84,6 +84,6 @@
 <lb />
 <lb />
 <lb />
-</span></p></body>
+</seg></p></body>
   </text>
 </TEI>
